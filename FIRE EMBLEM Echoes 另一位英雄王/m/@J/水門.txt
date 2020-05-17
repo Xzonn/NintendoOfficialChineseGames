@@ -1,0 +1,16 @@
+MESS_ARCHIVE_水門
+
+
+Message Name: Message
+
+
+MID_OP1: $t3$Wmアルム|h$w0|$Wsアルム|$Wa$SvpV_SC_3_08_OP1_00|$E驚,|これがソフィアの水門……\nなんて巨大なんだ……！$k\n$Wmルカ|5$w0|$Wsルカ|$Wa$SvpV_SC_3_08_OP1_01|そうですね。$k$p$SvpV_SC_3_08_OP1_02|$E悲,|それだけに、決壊したときの被害は\nはかり知れません。$k\n$Wsアルム|$Wa$E怒,|$SvpV_SC_3_08_OP1_03|うん。\n一刻もはやく開かないと……$k
+MID_OP1_2: $t0$Wmアルム|6$w0|$Wmタタラ|0$w0|$SbpBGM_EVT_ENEMY2|0|$Wsタタラ|$Wa$SvpV_SC_3_08_OP1_04|フォフォフォ……\n来たか、解放軍ども。$k\n$Wsアルム|$Wa$E怒,|$SvpV_SC_3_08_OP1_05|！！\nお前がタタラだな！$k\n$Wsタタラ|$Wa$SvpV_SC_3_08_OP1_06|ああ、そうとも。$k$p$SvpV_SC_3_08_OP1_07|そしてこれが\n新たなるわがしもべ……$k
+MID_OP1_3: $t0$Wmアルム|6$w0|$Wm敵デューテ|0$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_OP1_08|…………$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_08_OP1_09|あっ、\nあの子は……$k\n$Ws敵デューテ|$Wd$w0|$Wmタタラ|0$w0|$Wsタタラ|$Wa$E怒,|$SvpV_SC_3_08_OP1_10|さあゆけ、デューテよ。$k$p$SvpV_SC_3_08_OP1_11|ドーマさまを恐れぬ愚か者たちに\n天罰をあたえるのだ。$k$p$SvpV_SC_3_08_OP1_12|$Eキメ,|お前のオーラで消滅させよ！！$k
+MID_OP2: $t0$Wmアルム|6$w0|$SspSE_EVT_3_MAGIC_ATTACK2|$w2100|$Wsアルム|$Wa$SvpV_SC_3_08_OP2_00|$E苦,汗|うわあっ……！$k\n$Wsアルム|$Wd$w0|$Wm敵デューテ|6$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_OP2_01|タタラサマノテキ……\nコロス……$k\n$Ws敵デューテ|$Wd$w0|$Wmクレーベ|6$w0|$Wsクレーベ|$Wa$E怒,|$SvpV_SC_3_08_OP2_02|なにをしている、\nアルム！$k$p$SvpV_SC_3_08_OP2_03|その娘を攻撃しろ。\n君がやられてしまうぞ！$k\n$Wsクレーベ|$Wd$w0|$Wmアルム|6$w0|$Wsアルム|$Wa$E苦,汗|$SvpV_SC_3_08_OP2_04|くっ……\nいやだ！$k$p$SvpV_SC_3_08_OP2_05|$E怒,|僕はリュートに約束したんだ。\n妹を無事に助けだすって……！$k\n$Wsアルム|$Wd$w0|$Wmクレーベ|6$w0|$Wsクレーベ|$Wa$E驚,|$SvpV_SC_3_08_OP2_06|アルム……$k\n$Wsクレーベ|$Wd$w0|$Wmアルム|6$w0|$Wsアルム|$Wa$Eキメ,|$SvpV_SC_3_08_OP2_07|みんな！\nデューテの魔法には気をつけろ！$k$p$SvpV_SC_3_08_OP2_08|でも、命だけは\n決して奪わないでくれ……！$k
+MID_BT1: $t0$Wmリュート|0$w0|$Wsリュート|$Wa$SvpV_SC_3_08_BT1_00|$E怒,|アルム！$k$p$SvpV_SC_3_08_BT1_01|タタラを倒せばデューテは\n正気にもどるはずなんだ。$k$p$SvpV_SC_3_08_BT1_02|$E苦,|たのむ、妹を救ってくれ……！$k\n$Sbs1000|
+MID_BT2: $t0$Wm敵デューテ|0$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_BT2_00|タタラサマニサカラウ\nオマエタチ……$k$p$SvpV_SC_3_08_BT2_01|……コロス。$k
+MID_BOSS_DIE1: $t0$Wmデューテ|0$w0|$Wsデューテ|$Wa$SvpV_SC_3_08_BOSS_DIE1_00|$E悲,汗|……あ……$k$p$SvpV_SC_3_08_BOSS_DIE1_01|ボクは、\nいったいなにを……？$k$p$SvpV_SC_3_08_BOSS_DIE1_02|痛いよ、\nリュートお兄ちゃん……$k
+MID_BT3: $t0$Wmデューテ|0$w0|$Wsデューテ|$Wa$SvpV_SC_3_08_BT3_00|$E驚,|……あれ？$k$p$SvpV_SC_3_08_BT3_01|ボク、こんなところで\nなにしてるんだろ？$k$p$SvpV_SC_3_08_BT3_02|$E怒,|リュートお兄ちゃーん、\nどこー？$k
+MID_BT4: $t0$Wmタタラ|0$w0|$Wsタタラ|$Wa$SvpV_SC_3_08_BT4_00|$E笑,|フォフォフォ……$k$p$SvpV_SC_3_08_BT4_01|$Eキメ,|お前たちなぞに\nこのタタラさまが$k$p$SvpV_SC_3_08_BT4_02|倒せると思うのか！$k
+MID_BOSS_DIE2: $t0$Wmタタラ|0$w0|$Wsタタラ|$Wa$SvpV_SC_3_08_BOSS_DIE2_00|$E悲,|なに……？！$k$p$SvpV_SC_3_08_BOSS_DIE2_01|ばかな……\nああ、ドーマさま……！$k

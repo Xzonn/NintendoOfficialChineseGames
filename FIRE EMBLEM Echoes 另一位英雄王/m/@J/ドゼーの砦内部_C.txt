@@ -1,0 +1,21 @@
+MESS_ARCHIVE_ドゼーの砦内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_マチルダ: $Sbs1000|$t3$Wmクレーベ|7$w0|$Wmマチルダ|3$w0|$Wsクレーベ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA_00|$E笑,|マチルダ！！$k\n$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA_01|$E笑,|クレーベ……！$k$p$SbpBGM_EVT_MEET|0|$SvpV_SC_3_21_ADV1_MACHILDA_02|ああ、会いたかった。\n私のクレーベ……！！$k\n$Wsクレーベ|$Wa$E悲,|$SvpV_SC_3_21_ADV1_MACHILDA_03|許してくれ、マチルダ。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_04|こんなに長く、君に辛い思いを\nさせてしまうなんて……！$k$p$SvpV_SC_3_21_ADV1_MACHILDA_05|$E苦,|本当にすまない。\nいかなるそしりも甘んじて受けよう。$k\n$Wsマチルダ|$Wa$E驚,|$SvpV_SC_3_21_ADV1_MACHILDA_06|なにを言う、クレーベ。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_07|$E怒,|お前の判断は\n一軍の将として当然のものだ。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_08|おめおめとやつらに捕まった\n私にも非はある。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_09|$E悲,|もうそれ以上\n自分を責めないでくれ、クレーベ。$k\n$Wsクレーベ|$Wa$E悲,|$SvpV_SC_3_21_ADV1_MACHILDA_10|マチルダ……$k\n$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_11|詫びの言葉など\nもう聞きたくはない。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_12|$E笑,|それより……\nわかっているだろう……？$k\n$Wsクレーベ|$Wa$E笑,|$SvpV_SC_3_21_ADV1_MACHILDA_13|ああ……$k\n$Sbs2000|$Wsクレーベ|$Wd$w0|$Wsマチルダ|$Wd$w0|$Wmアルム|h$w0|$Wmグレイ|5$w0|$Wsアルム|$Wa$E驚,照|$SvpV_SC_3_21_ADV1_MACHILDA_14|…………$k\n$SbpBGM_EVT_AMB|2000|$Wsグレイ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_15|わーお……\nすっげえな。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_16|顔赤いぞ、アルム。$k\n$Wsアルム|$Wa$E怒,照|$SvpV_SC_3_21_ADV1_MACHILDA_17|えっ……？！\nそんなことないさ。$k\n$Wsグレイ|$Wd$w0|$Wmマチルダ|5$w0|$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_18|君がアルムだね。$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_21_ADV1_MACHILDA_19|あっ……\nそ、そうだよ。$k\n$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_20|君がここまでみなを率いてくれたから\n私は助かったんだ。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_21|$E笑,|心から感謝しているよ、アルム。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_22|$E通常,|あらためて、\nリーダーとしての君に問いたいのだが……$k$p$SvpV_SC_3_21_ADV1_MACHILDA_23|ここから、私も共に\n戦うことを許してもらえるだろうか？$k
+MID_ADV_C_マチルダ_SELECT: マチルダを仲間にしますか？
+MID_ADV_C_マチルダ2: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA2_00|$E特殊1,|そうか……$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_01|私は戦力になれると思ったのだが\n君にも考えがあるのだろう。$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_02|$E通常,|またいつでも\n声をかけてくれ。$k\n
+MID_ADV2_C_マチルダ: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV2_MACHILDA_00|$E通常,|どうしたんだ？$k$p$SvpV_SC_3_21_ADV2_MACHILDA_01|私なら、いつでも同行する準備は\nできているぞ。$k
+MID_ADV_C_NAMEマチルダ: マチルダ
+MID_ADV_C_Door: 扉を開けますか？
+MID_SUB12_1_0: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|あてが外れたよ……$k
+MID_SUB12_1_確認0: 話を聞きますか？
+MID_SUB12_1_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|私は、ドゼーさまから\nサンゴの指輪が欲しいと頼まれたんだ。$k$p苦労して『サンゴのかけら』を集め\n指輪に仕立てて持ってきたというのに$k$pまさかソフィア解放軍に\n討ち取られていようとは……$k$pこのままでは私は大赤字だ！$k$p……君、これが欲しくないかね？$k$p最高級の『サンゴのかけら』で作られた\n『サンゴの指輪』だ。$k$p君はあまり金を\n持っていそうにないから……$k$pそうだな。\n特別に銀貨30枚で譲ってあげよう。$k
+MID_SUB12_1_確認1: 『サンゴの指輪』を買いますか？
+MID_SUB12_1_2: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|よし！\n商談成立だ。$k$pああ、よかった。\nでは私は家へ帰るとしよう。$k
+MID_SUB12_1_確認2: 『サンゴの指輪』を手に入れた。
+MID_SUB12_1_3: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|フン。\nこの貧乏人が……$k
+MID_SUB12_2_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|君、これが欲しくないかね？$k$p最高級の『サンゴのかけら』で作られた\n『サンゴの指輪』だ。$k$p特別に銀貨30枚で売ってあげよう。$k
+MID_SUB24_1_6: $Z$t1$Wmソルジャー|5$VF隠|$w0|$Wsソルジャー|$Wa『リオン家の盾』ですか？\nいえ、私は見たことがありませんね。$k$pドゼーが略奪した宝のいくつかは\nギースに売り払われたそうですよ。$k

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_ソフィアの海岸
+
+
+Message Name: Message
+
+
+MID_OP1_1: $t3$Wmセリカ|h$w0|$Wsセリカ|$Wa$SvpV_SC_3_09_OP1_00|$E驚,|あ……$k$p$SvpV_SC_3_09_OP1_01|$E怒,|みんな、静かに！$k\n$Wmガッハ|5$w0|$Wsガッハ|$Wa$SvpV_SC_3_09_OP1_02|…………$k\n$Wsセリカ|$Wa$p$SvpV_SC_3_09_OP1_03|$E怒,|あれが、城の人たちがいっていた\nガッハ一味の盗賊ね。$k$p$SvpV_SC_3_09_OP1_04|$E通常,|余計な戦いは避けなくちゃ。\nあちらからいきましょう。$k\n$Wsガッハ|$Wd$w0|$Wmメイ|5$w0|$Wsメイ|$Wa$E驚,|$SvpV_SC_3_09_OP1_05|でも、セリカさま。\nあれ……！$k\n$Wsセリカ|$Wa$E驚,|$SvpV_SC_3_09_OP1_06|えっ？$k\n$Sev0|500|
+MID_OP1_2: $t0$Wmパオラ|0$w0|$Wmガッハ|6$w0|$SbpBGM_EVT_STRAIN2|0|$Wsパオラ|$Wa$SvpV_SC_3_09_OP1_07|$E苦,汗|くっ……$k$p$SvpV_SC_3_09_OP1_08|$E怒,|あなたたち、\nギースの手下の盗賊ね？$k\n$Wsガッハ|$Wa$SvpV_SC_3_09_OP1_09|おお、よく知ってるじゃねえか。\n異国の姉ちゃんたち。$k$p$SvpV_SC_3_09_OP1_10|お前たちもとっつかまえて、\nせいぜい高く売り飛ばしてやるよ！$k\n$Wsパオラ|$Wa$E怒,|$SvpV_SC_3_09_OP1_11|カチュア！$k$p$SvpV_SC_3_09_OP1_12|油断しては危険よ。\n私のそばをはなれないで！$k\n
+MID_OP1_3: $t0$Wmセリカ|0$w0|$Wmメイ|6$w0|$Wsセリカ|$Wa$SvpV_SC_3_09_OP1_13|$E驚,|あの人たち……！$k\n$Wsメイ|$Wa$E悲,|$SvpV_SC_3_09_OP1_14|ど、どうします？\nセリカさま！$k\n$Wsセリカ|$Wa$p$Eキメ,|$SvpV_SC_3_09_OP1_15|見捨ててはいけないわ。\nいきましょう、みんな！$k\n$Sbs1000|
+MID_BT1: $t0$Wmガッハ|0$w0|$Wsガッハ|$Wa$SvpV_SC_3_09_BT1_00|なんだ、お前らは？$k$p$SvpV_SC_3_09_BT1_01|まあいい。\nまとめてとっつかまえてやる！$k
+MID_BOSS_DIE: $t0$Wmガッハ|0$w0|$Wsガッハ|$Wa$SvpV_SC_3_09_BOSS_DIE_00|$E苦,汗|なんだと……？\nこの俺さまが……！$k
+MID_ED1_a_1: $t0$Wmセリカ|0$w0|$Wsセリカ|$Wa$SvpV_SC_3_09_ED1_A_00|$E笑,|よかった……\nあの人たち、助かったみたいね。$k$p$SvpV_SC_3_09_ED1_A_01|$E特殊1,|さあ、長居は無用だわ。\nいきましょう。$k\n
+MID_ED1_a_2: $t0$Wmパオラ|0$w0|$Wsパオラ|$Wa$SvpV_SC_3_09_ED1_A_02|$E驚,|待って、あなたたち！$k$p$SvpV_SC_3_09_ED1_A_03|$E悲,|ああ……\nいってしまったわ。$k
+MID_ED1_b: $t0$Wmセリカ|0$w0|$Wsセリカ|$Wa$SvpV_SC_3_09_ED1_B_00|$E悲,|あの人たち、ひとりしか\n助けられなかったみたい……$k$p$SvpV_SC_3_09_ED1_B_01|ごめんなさい、\n力が足りなくて。$k$p$SvpV_SC_3_09_ED1_B_02|……さあ、いきましょう。$k
+MID_ED1_c: $t0$Wmセリカ|0$w0|$Wsセリカ|$Wa$SvpV_SC_3_09_ED1_C_00|$E悲,|あの人たち、\n助けられなかったわね。$k$p$SvpV_SC_3_09_ED1_C_01|ごめんなさい、\n力が足りなくて。$k$p$SvpV_SC_3_09_ED1_C_02|……さあ、いきましょう。$k

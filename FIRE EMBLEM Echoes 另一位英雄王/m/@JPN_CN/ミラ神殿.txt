@@ -1,0 +1,12 @@
+MESS_ARCHIVE_ミラ神殿
+
+
+Message Name: Message
+
+
+MID_OP2: $SbpBGM_EVT_AMB2|0|$t3$Wmセリカ|h$w0|$Wmスナイパー|5$w0|$Wsセリカ|$Wa$SvpV_SC_3_17_OP2_00|$E驚,|那是……\n利盖尔军！$k$p$SvpV_SC_3_17_OP2_01|$E怒,|米拉大人的神殿已经落入\n利盖尔的手里了吗？$k\n$Wsスナイパー|$Wd$w0|$Wmボーイ|5$w0|$Wsボーイ|$Wa$E悲,|$SvpV_SC_3_17_OP2_02|米拉大人怎么样了？$k$p$SvpV_SC_3_17_OP2_03|该不会……$k\n$Wsセリカ|$Wa$Eキメ,|$SvpV_SC_3_17_OP2_04|大家快点儿到里面去！$k$p$SvpV_SC_3_17_OP2_05|得确认米拉大人是否\n平安无事才行……$k\n$Sbs1000|
+MID_OP3: $t0$Wmミカエラ|0$w0|$SbpBGM_EVT_ENEMY2|0|$Wsミカエラ|$Wa$SvpV_SC_3_17_OP3_00|嘿嘿嘿……$k\n$Wmセリカ|6$w0|$Wsセリカ|$Wa$Eキメ,|$SvpV_SC_3_17_OP3_02|你是……？$k\n$Wsミカエラ|$Wa$p$SvpV_SC_3_17_OP3_03|我是多玛教团的祈祷师，米卡艾拉。$k$p$SvpV_SC_3_17_OP3_04|听信米拉甜言蜜语的愚蠢人们，\n让我告诉你多玛大人的伟大。$k$p$SvpV_SC_3_17_OP3_05|来吧，成为我石像鬼\n的饵食吧！$k
+MID_OP3_1: $t0$Wmセリカ|6$w0|$Wsセリカ|$Wa$E苦,汗|$SvpV_SC_3_17_OP3_06|…………！\n大家小心一点儿！$k$p$SvpV_SC_3_17_OP3_07|那个人是祈祷师。\n他打算召唤魔物。$k$p$SvpV_SC_3_17_OP3_08|$E怒,|彼此不要离开太远，\n互相守护一起往前进吧。$k\n$Sbs250|
+MID_BT2: $t0$Wmミカエラ|0$w0|$Wsミカエラ|$Wa$SvpV_SC_3_17_BT2_00|哼……\n懒惰又愚蠢的人们。$k$p$SvpV_SC_3_17_BT2_01|像你们这种人，最适合\n当魔物的饵食了！$k
+MID_BOSS_DIE: $t0$Wmミカエラ|0$w0|$Wsミカエラ|$Wa$SvpV_SC_3_17_BOSS_DIE_00|呼……$k$p$SvpV_SC_3_17_BOSS_DIE_01|即使把我打败\n也改变不了什么了……$k$p$SvpV_SC_3_17_BOSS_DIE_02|咯咯咯……$k
+MID_ED: $t3$Wmセリカ|h$w0|$Wmメイ|5$w0|$Wsセリカ|$Wa$SvpV_SC_3_17_ED_00|$E悲,|我们赢了……\n可是……$k\n$Wsメイ|$Wa$E悲,|$SvpV_SC_3_17_ED_01|米拉神殿……$k$p$SvpV_SC_3_17_ED_02|我一直期待\n这里会是个美好的地方……$k$p$SvpV_SC_3_17_ED_03|米拉大人真的在这里吗？$k\n$Wsセリカ|$Wa$E怒,|$SvpV_SC_3_17_ED_04|我不知道。\n总之，我们继续往内部前进吧。$k$p$SvpV_SC_3_17_ED_05|我必须亲眼确认\n究竟发生了什么事……$k

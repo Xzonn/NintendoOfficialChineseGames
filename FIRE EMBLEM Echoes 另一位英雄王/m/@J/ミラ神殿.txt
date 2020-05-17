@@ -1,0 +1,12 @@
+MESS_ARCHIVE_ミラ神殿
+
+
+Message Name: Message
+
+
+MID_OP2: $SbpBGM_EVT_AMB2|0|$t3$Wmセリカ|h$w0|$Wmスナイパー|5$w0|$Wsセリカ|$Wa$SvpV_SC_3_17_OP2_00|$E驚,|あれは……\nリゲル軍！$k$p$SvpV_SC_3_17_OP2_01|$E怒,|ミラさまの神殿が、すでにリゲルの手に\n落ちていたというの？$k\n$Wsスナイパー|$Wd$w0|$Wmボーイ|5$w0|$Wsボーイ|$Wa$E悲,|$SvpV_SC_3_17_OP2_02|ミラさまは\nどうされてるんでしょうか？$k$p$SvpV_SC_3_17_OP2_03|まさか……$k\n$Wsセリカ|$Wa$Eキメ,|$SvpV_SC_3_17_OP2_04|みんな、早く中へ！$k$p$SvpV_SC_3_17_OP2_05|ミラさまのご無事を\nたしかめないと……$k\n$Sbs1000|
+MID_OP3: $t0$Wmミカエラ|0$w0|$SbpBGM_EVT_ENEMY2|0|$Wsミカエラ|$Wa$SvpV_SC_3_17_OP3_00|くくく……$k\n$Wmセリカ|6$w0|$Wsセリカ|$Wa$Eキメ,|$SvpV_SC_3_17_OP3_02|あなたは……？$k\n$Wsミカエラ|$Wa$p$SvpV_SC_3_17_OP3_03|わしはドーマ教団の祈祷師、ミカエラ。$k$p$SvpV_SC_3_17_OP3_04|ミラの甘言にすがる愚か者どもに、\nドーマさまの偉大さを教えてやろうぞ。$k$p$SvpV_SC_3_17_OP3_05|さあ、わしのガーゴイルの\n餌食となるがいい！$k
+MID_OP3_1: $t0$Wmセリカ|6$w0|$Wsセリカ|$Wa$E苦,汗|$SvpV_SC_3_17_OP3_06|…………！\nみんな、気をつけて！$k$p$SvpV_SC_3_17_OP3_07|あの人は祈祷師だわ。\n魔物を召喚する気よ。$k$p$SvpV_SC_3_17_OP3_08|$E怒,|お互いあまり離れずに、\n守りながらいきましょう。$k\n$Sbs250|
+MID_BT2: $t0$Wmミカエラ|0$w0|$Wsミカエラ|$Wa$SvpV_SC_3_17_BT2_00|ふん……\n怠惰な愚か者どもが。$k$p$SvpV_SC_3_17_BT2_01|お前たちなど、魔物の餌となるのが\nお似合いだ！$k
+MID_BOSS_DIE: $t0$Wmミカエラ|0$w0|$Wsミカエラ|$Wa$SvpV_SC_3_17_BOSS_DIE_00|ふっ……$k$p$SvpV_SC_3_17_BOSS_DIE_01|わしを倒したところで、\nもうどうにもならぬわ……$k$p$SvpV_SC_3_17_BOSS_DIE_02|くっくっく……$k
+MID_ED: $t3$Wmセリカ|h$w0|$Wmメイ|5$w0|$Wsセリカ|$Wa$SvpV_SC_3_17_ED_00|$E悲,|勝ったわ……\nでも……$k\n$Wsメイ|$Wa$E悲,|$SvpV_SC_3_17_ED_01|ミラさまの神殿……$k$p$SvpV_SC_3_17_ED_02|きっと素敵なところだろうなって\n楽しみにしてたのに……$k$p$SvpV_SC_3_17_ED_03|ミラさま、本当にここに\nいらっしゃるんでしょうか？$k\n$Wsセリカ|$Wa$E怒,|$SvpV_SC_3_17_ED_04|わからないわ。\nとにかく、奥へいきましょう。$k$p$SvpV_SC_3_17_ED_05|なにがあったのか、\nこの目でたしかめないと……$k

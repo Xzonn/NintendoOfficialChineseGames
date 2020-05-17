@@ -1,0 +1,61 @@
+MESS_ARCHIVE_Amiibo
+
+
+Message Name: Message
+
+
+MID_amiibo_初回シーケンス_成功: amiibo選單開放了！
+MID_amiibo_召喚開放: 阿雷武與賽莉卡\n可以使用amiibo召喚了！
+MID_amiibo_タッチ促す_アルムかセリカ: 請用阿雷武或賽莉卡的amiibo\n點觸美拉齒輪。
+MID_amiibo_タッチ促す_アルムかセリカ_CTR: 請用阿雷武或賽莉卡的amiibo\n點觸NFC讀寫器的\nNFC範圍。
+MID_amiibo_タッチ促す_アルム: 請用阿雷武的amiibo\n點觸美拉齒輪。
+MID_amiibo_タッチ促す_アルム_CTR: 請用阿雷武的amiibo點觸\nNFC讀寫器的NFC範圍。
+MID_amiibo_タッチ促す_セリカ: 請用賽莉卡的amiibo\n點觸美拉齒輪。
+MID_amiibo_タッチ促す_セリカ_CTR: 請用賽莉卡的amiibo點觸\nNFC讀寫器的NFC範圍。
+MID_amiibo_タッチ促す_召喚: 請用要召喚的amiibo\n點觸美拉齒輪。
+MID_amiibo_タッチ促す_召喚_CTR: 請用要召喚的amiibo點觸\nNFC讀寫器的NFC範圍。
+MID_amiibo_タッチ促す_誰でも: 請用amiibo\n點觸美拉齒輪。
+MID_amiibo_タッチ促す_誰でも_CTR: 請用amiibo點觸\nNFC讀寫器的NFC範圍。
+MID_amiibo_NFCRW_接続中: NFC讀寫器開啟電源後，\n請接近主機。
+MID_amiibo_離すな_促す: 請不要拿開amiibo。
+MID_amiibo_APP領域作成_離すな_促す: 正在建立\n「FIRE EMBLEM Echoes\n另一位英雄王」的資料。\n請不要拿開amiibo。
+MID_amiibo_キャンセル: 動作已取消。
+MID_amiibo_削除キャンセル時: 即使不將資料寫入amiibo，\n也可以召喚amiibo，或遊玩\n使用amiibo挑戰的特別迷宮。
+MID_amiibo_受付中: 接收中
+MID_amiibo_書込中: 寫入中
+MID_amiibo_復元中: 修復中
+MID_amiibo_接続中: 連線中
+MID_amiibo_終了中: 結束中
+MID_amiibo_作成中: 建立中
+MID_NFP_エラー_スリープ: 主機正在休眠狀態。\n請重新再試一次。\n（除錯：有機會用到嗎？？）
+MID_NFP_エラー_WiFiオフ: 無線通訊功能設為關閉，\n因此無法讀取amiibo\n。\n請開啟無線通訊功能。
+MID_NFP_エラー_タグ未発見: 找不到amiibo，\n可能已遠離NFC範圍。
+MID_NFP_エラー_不正処理: 發生錯誤，\n請再試一次。
+MID_NFP_エラー_接続キャンセル: 與NFC讀寫器的連線遭到中斷。
+MID_NFP_エラー_タイムアウト: 無法連線NFC讀寫器，\n請確認以下內容。\n‧NFC讀寫器的電源已開啟\n‧紅外線收發端有確實相互對準
+MID_NFP_エラー_赤外線故障: 主機的紅外線功能可能已毀損。\n請重新開機後再試一次。\n如果這則錯誤訊息多次出現，\n請洽詢服務中心。
+MID_NFP_エラー_NFCR&W故障: NFC讀寫器可能已毀損。\n請重新開啟NFC讀寫器後，再試一次。\n如果這則錯誤訊息多次出現，\n請洽詢服務中心。
+MID_NFP_エラー_不明タグ: 無法讀取amiibo\n以外的資料。\n請確認點觸的物品。
+MID_NFP_エラー_タグ初期化: amiibo的資料已毀損。如果是以前遊玩過的\n主機，就有可能修復。若要直接使用，\n不要修復的話，請從HOME選單的\namiibo設定裡初始化amiibo。
+MID_NFP_エラー_未対応バージョン: 未對應本款amiibo。\n請將amiibo移出NFC範圍。
+MID_NFP_エラー_タグ違い: 非對應的amiibo。
+MID_NFP_エラー_書込失敗: 寫入時發生錯誤。\namiibo的資料可能已毀損。\n請再嘗試寫入一次。
+MID_NFP_エラー_作成中_タグ破損: 建立資料時發生錯誤。\namiibo的資料可能已毀損。\n要修復資料嗎？
+MID_NFP_エラー_タグ未破損: amiibo的資料沒有毀損，\n因此不需要修復。
+MID_NFP_エラー_復旧不能: 未能讀取備份資料。\n無法修復amiibo。
+MID_NFP_エラー作成済み: 已經建立「FIRE EMBLEM Echoes\n另一位英雄王」的\n資料了。
+MID_amiibo_NFCR&W_更新が必要: NFC讀寫器必須更新。\n可以從HOME選單的\namiibo設定裡進行更新。
+MID_NFP_エラー_復旧中_書き込みエラー: 修復時發生錯誤，\n因此amiibo的資料可能\n沒有正常修復。
+MID_NFP_エラー_汎用失敗: 處理已失敗。\n請再試一次。
+MID_NFP_エラー_対象外: 點觸的amiibo\n未對應讀取。\n請將amiibo移出美拉齒輪。
+MID_NFP_エラー_対象外_CTR: 點觸的amiibo\n未對應讀取。\n請將amiibo移出NFC範圍。
+MID_NFP_エラー_セリカ_書き込めない: 現在無法寫入\n賽莉卡的amiibo。\n（隨著故事進行，將會開放寫入。）
+MID_NFP_書き込み確認: $a要覆寫$a0的\n強度到amiibo上嗎？
+MID_NFP_復旧確認: amiibo的資料已毀損。\n要修復資料嗎？
+MID_NFP_作成確認: amiibo裡沒有「FIRE EMBLEM Echoes\n另一位英雄王」的資料。\n要建立資料嗎？
+MID_NFP_削除確認: amiibo裡已建立了其他遊戲的資料，\n因此無法寫入。\n要啟動amiibo設定，將amiibo內寫入的\n其他遊戲資料刪除嗎？
+MID_NFP_登録確認: 尚未登錄主人資訊。\n要登錄嗎？
+MID_NFP_データ未設定: 尚未登錄
+MID_NFP_書込成功: 寫入成功！
+MID_NFP_復旧成功: 修復成功！
+MID_NFP_作成成功: 已經建立「FIRE EMBLEM Echoes\n另一位英雄王」的資料了！

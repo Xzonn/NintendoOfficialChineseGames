@@ -1,0 +1,21 @@
+MESS_ARCHIVE_ドゼーの砦内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_マチルダ: $Sbs1000|$t3$Wmクレーベ|7$w0|$Wmマチルダ|3$w0|$Wsクレーベ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA_00|$E笑,|瑪蒂爾達！！$k\n$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA_01|$E笑,|克雷貝……！$k$p$SbpBGM_EVT_MEET|0|$SvpV_SC_3_21_ADV1_MACHILDA_02|喔，我好想你。\n我的克雷貝……！！$k\n$Wsクレーベ|$Wa$E悲,|$SvpV_SC_3_21_ADV1_MACHILDA_03|原諒我，瑪蒂爾達。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_04|這麼長一段時間，\n讓妳難受了……！$k$p$SvpV_SC_3_21_ADV1_MACHILDA_05|$E苦,|我真的很對不起妳。\n我接受妳所有的責難。$k\n$Wsマチルダ|$Wa$E驚,|$SvpV_SC_3_21_ADV1_MACHILDA_06|你說什麼傻話，克雷貝。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_07|$E怒,|身為軍隊將領，\n你的判斷是理所當然的。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_08|可恥地被那些傢伙抓去，\n我也有錯。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_09|$E悲,|不要再責備自己了，克雷貝。$k\n$Wsクレーベ|$Wa$E悲,|$SvpV_SC_3_21_ADV1_MACHILDA_10|瑪蒂爾達……$k\n$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_11|我不想再聽道歉的話了。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_12|$E笑,|最重要的是……\n你明白吧……？$k\n$Wsクレーベ|$Wa$E笑,|$SvpV_SC_3_21_ADV1_MACHILDA_13|嗯……$k\n$Sbs2000|$Wsクレーベ|$Wd$w0|$Wsマチルダ|$Wd$w0|$Wmアルム|h$w0|$Wmグレイ|5$w0|$Wsアルム|$Wa$E驚,照|$SvpV_SC_3_21_ADV1_MACHILDA_14|……$k\n$SbpBGM_EVT_AMB|2000|$Wsグレイ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_15|哇～喔……\n好厲害。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_16|阿雷武，你臉紅了。$k\n$Wsアルム|$Wa$E怒,照|$SvpV_SC_3_21_ADV1_MACHILDA_17|哪……！？\n哪有啊。$k\n$Wsグレイ|$Wd$w0|$Wmマチルダ|5$w0|$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_18|你就是阿雷武吧。$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_21_ADV1_MACHILDA_19|啊……\n是、是啊。$k\n$Wsマチルダ|$Wa$E通常,|$SvpV_SC_3_21_ADV1_MACHILDA_20|因為你率領大家走到今天，\n我才獲救的。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_21|$E笑,|由衷感激你，阿雷武。$k$p$SvpV_SC_3_21_ADV1_MACHILDA_22|$E通常,|在此，\n我有事要問你這個首領……$k$p$SvpV_SC_3_21_ADV1_MACHILDA_23|你願意答應\n從此刻起，讓我和你一起戰鬥嗎？$k
+MID_ADV_C_マチルダ_SELECT: 要讓瑪蒂爾達成為夥伴嗎？
+MID_ADV_C_マチルダ2: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA2_00|$E特殊1,|好吧……$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_01|我覺得我可以成為戰力，\n但你也有你的考量吧。$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_02|$E通常,|隨時歡迎你再找我。$k
+MID_ADV2_C_マチルダ: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV2_MACHILDA_00|$E通常,|發生什麼事了？$k$p$SvpV_SC_3_21_ADV2_MACHILDA_01|我已經做好準備，\n隨時都能同行。$k
+MID_ADV_C_NAMEマチルダ: 瑪蒂爾達
+MID_ADV_C_Door: 要打開門嗎？
+MID_SUB12_1_0: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|猜錯了……$k
+MID_SUB12_1_確認0: 要聽他說嗎？
+MID_SUB12_1_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|多哲大人吩咐我去取得\n珊瑚戒指。$k$p我費盡千辛萬苦，收集『珊瑚碎片』\n要拿來做成戒指，$k$p誰知竟被索菲亞解放軍搶走了……$k$p再這樣下去我可要賠錢了！$k$p你想不想要這個？$k$p這可是用最頂級的『珊瑚碎片』\n做成的『珊瑚戒指』。$k$p你看起來沒有什麼錢……$k$p我想想。\n就特例只收銀幣30枚，讓給你。$k$p
+MID_SUB12_1_確認1: 要買下『珊瑚戒指』嗎？
+MID_SUB12_1_2: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|太棒了！\n交易成立。$k$p太好了，\n那我就回家去了。$k
+MID_SUB12_1_確認2: 獲得『珊瑚戒指』。
+MID_SUB12_1_3: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|哼。\n窮鬼……$k
+MID_SUB12_2_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|你想不想要這個？$k$p這可是用最頂級的『珊瑚碎片』\n做成的『珊瑚戒指』。$k$p就特例賣你銀幣30枚。$k$p
+MID_SUB24_1_6: $Z$t1$Wmソルジャー|5$VF隠|$w0|$Wsソルジャー|$Wa『利昂家之盾』？\n不，我沒看過。$k$p聽說多哲掠奪的寶物，\n有一部分轉手賣給吉斯了。$k

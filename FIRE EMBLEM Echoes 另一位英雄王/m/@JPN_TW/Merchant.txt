@@ -1,0 +1,15 @@
+MESS_ARCHIVE_Merchant
+
+
+Message Name: Message
+
+
+MID_ADV1_商人緑1: $t3$Wm商人緑|5$w0|$Ws商人緑|$Wa$SvpV_ADV1_MERCHANT_G1_00|嗨，您好。\n我是旅行商人。$k$p$SvpV_ADV1_MERCHANT_G1_01|我可以將您持有的\n一項道具，$k$p$SvpV_ADV1_MERCHANT_G1_02|代為送去給\n您想送的對象。$k
+MID_ADV1_商人緑2: $t3$Wm商人緑|5$w0|$Ws商人緑|$Wa$SvpV_ADV1_MERCHANT_G2_01|感謝您的惠顧。$k
+MID_ADV1_商人青1: $t3$Wm商人青|5$w0|$Ws商人青|$Wa$SvpV_ADV1_MERCHANT_B1_00|……有什麼事？\n我是旅行商人。$k$p$SvpV_ADV1_MERCHANT_B1_01|我可以將你持有的\n一項道具，$k$p$SvpV_ADV1_MERCHANT_B1_02|幫你送去給\n你想送的對象。$k
+MID_ADV1_商人青2: $t3$Wm商人青|5$w0|$Ws商人青|$Wa$SvpV_ADV1_MERCHANT_B2_01|謝謝惠顧……$k
+MID_ADV1_商人ピンク1: $t3$Wm商人ピンク|5$w0|$Ws商人ピンク|$Wa$SvpV_ADV1_MERCHANT_P1_00|你好！\n我是旅行商人喔。$k$p$SvpV_ADV1_MERCHANT_P1_01|你持有的\n一項道具，$k$p$SvpV_ADV1_MERCHANT_P1_02|由我來送去給\n你想送的對象吧。$k
+MID_ADV1_商人ピンク2: $t3$Wm商人ピンク|5$w0|$Ws商人ピンク|$Wa$SvpV_ADV1_MERCHANT_P2_01|歡迎再來喔！$k
+MID_ADV1_商人_SELECT: 要交付持有道具給商人嗎？
+MID_ADV1_商人_確認: $a$a0將要送出。\n確定要送出嗎？
+MID_ADV1_商人_送れない: 對方的行囊已經裝滿了，\n無法送達。

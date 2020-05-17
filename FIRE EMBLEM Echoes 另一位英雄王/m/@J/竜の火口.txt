@@ -1,0 +1,9 @@
+MESS_ARCHIVE_竜の火口
+
+
+Message Name: Message
+
+
+MID_OP1: $t0$Wmアルム|0$w0|$Wmクレア|6$w0|$Sbs250|$SlpSE_EVT_4_EARTHQUAKE1|0|$Wsクレア|$Wa$SvpV_SC_4_06_OP1_00|$E驚,|あら……\nなんですの、この音？$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_4_06_OP1_01|これは……$k\n$SbpBGM_EVT_EMERGENCY|0|
+MID_OP1_2: $t0$Wmアルム|0$w0|$Wsアルム|$Wa$E怒,|$SvpV_SC_4_06_OP1_02|地震だ！\nみんな、気をつけろ！！$k\n$SlsSE_EVT_4_EARTHQUAKE1|1000|
+MID_ED1: $t0$Wmアルム|0$w0|$Wmクレア|6$w0|$Wsアルム|$Wa$SvpV_SC_4_06_ED1_05|$E驚,|道が……！$k$p$SvpV_SC_4_06_ED1_06|また崖が崩れて、\nこんどは通れるようになってる……$k\n$Wsクレア|$Wa$E笑,|$SvpV_SC_4_06_ED1_07|まあ！\nなんて幸運なのかしら。$k$p$SvpV_SC_4_06_ED1_08|$E通常,|さあ、アルム。\n崩れないうちに急いで山を下りましょう。$k\n$Wsアルム|$Wa$E悲,|$SvpV_SC_4_06_ED1_09|あ、ああ……$k\n$Wsクレア|$Wa$E驚,|$SvpV_SC_4_06_ED1_10|あら、どうかしまして？$k\n$Wsアルム|$Wa$E悲,|$SvpV_SC_4_06_ED1_11|$pいや……$k$p$SvpV_SC_4_06_ED1_12|なんだか、できすぎのような気がして\n不気味なんだ。$k$p$SvpV_SC_4_06_ED1_13|まるで、\n誰かの意思のような……$k\n$Wsクレア|$Wa$E通常,|$p$SvpV_SC_4_06_ED1_14|ふうん……\nアルムは心配性ですのね。$k$p$SvpV_SC_4_06_ED1_15|$E笑,|では、お先に失礼！$k\n$Wsクレア|$Wd$w0|$Wsアルム|$Wa$E悲,|$SvpV_SC_4_06_ED1_16|…………$k$p$SvpV_SC_4_06_ED1_17|なんだか、嫌な予感がする。$k$p$SvpV_SC_4_06_ED1_18|セリカ、\n君は無事でいるのかい……？$k

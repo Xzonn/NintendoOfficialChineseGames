@@ -1,0 +1,16 @@
+MESS_ARCHIVE_水門
+
+
+Message Name: Message
+
+
+MID_OP1: $t3$Wmアルム|h$w0|$Wsアルム|$Wa$SvpV_SC_3_08_OP1_00|$E驚,|這就是索菲亞的水閘……\n竟然如此的巨大……！$k\n$Wmルカ|5$w0|$Wsルカ|$Wa$SvpV_SC_3_08_OP1_01|是啊。$k$p$SvpV_SC_3_08_OP1_02|$E悲,|正因如此，潰決時造成的損害\n完全無法計算。$k\n$Wsアルム|$Wa$E怒,|$SvpV_SC_3_08_OP1_03|嗯。\n得快點將它打開才行……$k
+MID_OP1_2: $t0$Wmアルム|6$w0|$Wmタタラ|0$w0|$SbpBGM_EVT_ENEMY2|0|$Wsタタラ|$Wa$SvpV_SC_3_08_OP1_04|哈哈哈……\n你們來啦，解放軍們。$k\n$Wsアルム|$Wa$E怒,|$SvpV_SC_3_08_OP1_05|！！\n你就是塔塔拉了吧！$k\n$Wsタタラ|$Wa$SvpV_SC_3_08_OP1_06|是啊。$k$p$SvpV_SC_3_08_OP1_07|還有這位是\n我的新手下……$k
+MID_OP1_3: $t0$Wmアルム|6$w0|$Wm敵デューテ|0$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_OP1_08|…………$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_08_OP1_09|啊，\n那個人是……$k\n$Ws敵デューテ|$Wd$w0|$Wmタタラ|0$w0|$Wsタタラ|$Wa$E怒,|$SvpV_SC_3_08_OP1_10|快上吧，迪優特。$k$p$SvpV_SC_3_08_OP1_11|讓那些不畏懼多瑪大人的\n愚昧人們受到天譴吧。$k$p$SvpV_SC_3_08_OP1_12|$Eキメ,|用妳的輝光消滅他們吧！！$k
+MID_OP2: $t0$Wmアルム|6$w0|$SspSE_EVT_3_MAGIC_ATTACK2|$w2100|$Wsアルム|$Wa$SvpV_SC_3_08_OP2_00|$E苦,汗|哇啊……！$k\n$Wsアルム|$Wd$w0|$Wm敵デューテ|6$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_OP2_01|塔塔拉大人的敵人……\n去死吧……$k\n$Ws敵デューテ|$Wd$w0|$Wmクレーベ|6$w0|$Wsクレーベ|$Wa$E怒,|$SvpV_SC_3_08_OP2_02|你在做什麼？\n阿雷武！$k$p$SvpV_SC_3_08_OP2_03|快點攻擊那個女孩。\n你會被她給殺了！$k\n$Wsクレーベ|$Wd$w0|$Wmアルム|6$w0|$Wsアルム|$Wa$E苦,汗|$SvpV_SC_3_08_OP2_04|唔……\n我不要！$k$p$SvpV_SC_3_08_OP2_05|$E怒,|我和魯特約定好了。\n說我會平安救出他的妹妹……！$k\n$Wsアルム|$Wd$w0|$Wmクレーベ|6$w0|$Wsクレーベ|$Wa$E驚,|$SvpV_SC_3_08_OP2_06|阿雷武……$k\n$Wsクレーベ|$Wd$w0|$Wmアルム|6$w0|$Wsアルム|$Wa$Eキメ,|$SvpV_SC_3_08_OP2_07|各位！\n小心迪優特的魔法！$k$p$SvpV_SC_3_08_OP2_08|不過，\n請千萬不要奪走她的性命……！$k
+MID_BT1: $t0$Wmリュート|0$w0|$Wsリュート|$Wa$SvpV_SC_3_08_BT1_00|$E怒,|阿雷武！$k$p$SvpV_SC_3_08_BT1_01|只要打敗塔塔拉，\n迪優特應該就會恢復正常了。$k$p$SvpV_SC_3_08_BT1_02|$E苦,|拜託，救救我的妹妹……！$k\n$Sbs1000|
+MID_BT2: $t0$Wm敵デューテ|0$w0|$Ws敵デューテ|$Wa$SvpV_SC_3_08_BT2_00|反抗塔塔拉大人的\n傢伙……$k$p$SvpV_SC_3_08_BT2_01|……我要殺了你們。$k
+MID_BOSS_DIE1: $t0$Wmデューテ|0$w0|$Wsデューテ|$Wa$SvpV_SC_3_08_BOSS_DIE1_00|$E悲,汗|……啊……$k$p$SvpV_SC_3_08_BOSS_DIE1_01|我究竟\n在做什麼……？$k$p$SvpV_SC_3_08_BOSS_DIE1_02|好痛喔，\n魯特哥哥……$k
+MID_BT3: $t0$Wmデューテ|0$w0|$Wsデューテ|$Wa$SvpV_SC_3_08_BT3_00|$E驚,|……咦？$k$p$SvpV_SC_3_08_BT3_01|我在這種地方\n做什麼？$k$p$SvpV_SC_3_08_BT3_02|$E怒,|魯特哥哥，\n你在哪裡？$k
+MID_BT4: $t0$Wmタタラ|0$w0|$Wsタタラ|$Wa$SvpV_SC_3_08_BT4_00|$E笑,|哈哈哈……$k$p$SvpV_SC_3_08_BT4_01|$Eキメ,|憑你們這些傢伙\n就以為能……$k$p$SvpV_SC_3_08_BT4_02|打敗本大人塔塔拉嗎！？$k
+MID_BOSS_DIE2: $t0$Wmタタラ|0$w0|$Wsタタラ|$Wa$SvpV_SC_3_08_BOSS_DIE2_00|$E悲,|什麼……！？$k$p$SvpV_SC_3_08_BOSS_DIE2_01|怎麼會……\n啊啊，多瑪大人……！$k

@@ -1,0 +1,24 @@
+MESS_ARCHIVE_GmapEV
+
+
+Message Name: Message
+
+
+MID_Gmap1_1: $t0$Wmルカ|0$w0|$Wsルカ|$Wa$SvpV_GMAP_GMAP1_1_00|さて、まずは\n南の砦をめざしましょう。$k
+MID_Gmap1_1_2: $t0$Wmルカ|0$w0|$SvpV_GMAP_GMAP1_1_01|あそこは今、\nドゼー軍の手に落ちていますが$k$p$SvpV_GMAP_GMAP1_1_02|私たちの仲間が\n取りもどすために戦っているのです。$k$p$SvpV_GMAP_GMAP1_1_03|われわれ解放軍のアジトは\n南の砦のさらに先にあります。$k$p$SvpV_GMAP_GMAP1_1_04|$E笑,|さあ、では\n気を引きしめていきましょう。$k
+MID_Gmap1_2: $t0$Wmアルム|0$w0|$Wmグレイ|6$w0|$Wsアルム|$Wa$SvpV_GMAP_GMAP1_2_00|$E驚,|あのほこらは……？$k\n$Wsグレイ|$Wa$SvpV_GMAP_GMAP1_2_01|ああ、アルムは\n村から出たことがないから知らないのか。$k$p$SvpV_GMAP_GMAP1_2_02|$Eキメ,|あのほこらは\n大地母神ミラをまつってたんだけど$k$p$SvpV_GMAP_GMAP1_2_03|ここんとこの飢饉やらなんやらで\n誰もお参りなんてしなくなっちまったんだ。$k$p$SvpV_GMAP_GMAP1_2_04|$E怒,|盗賊たちが住みつくには\nちょうどいいだろうな。$k\n$Wsアルム|$Wa$E悲,|$SvpV_GMAP_GMAP1_2_05|$pじゃあ、\n捕まった人もあそこにいるのかな……$k
+MID_Gmap1_3: $t0$Wmルカ|0$w0|$Wsルカ|$Wa$SvpV_GMAP_GMAP1_3_00|$E驚,|ちょ、ちょっと待ってください。$k
+MID_Gmap1_3_2: $t0$Wmルカ|0$w0|$SvpV_GMAP_GMAP1_3_01|$E通常,|先に進むのなら、まず砦の中から\nクレアを助け出しましょう。$k
+MID_Gmap1_4: $t0$Wmクレア|0$w0|$Wsクレア|$Wa$SvpV_GMAP_GMAP1_4_00|$E驚,|まあ、アルム。\nどこへ行くおつもりですの？$k
+MID_Gmap1_4_2: $t0$Wmクレア|0$w0|$SvpV_GMAP_GMAP1_4_01|$E通常,|まずはアジトで\nお兄さまに会ってくださいな。$k
+MID_Gmap1_5: $t0$Wmクレーベ|0$w0|$Wmアルム|6$w0|$Wsクレーベ|$Wa$SvpV_GMAP_GMAP1_5_00|さあ、目指すはソフィア城だ。$k$p$SvpV_GMAP_GMAP1_5_01|われわれは、なんとしてもあの城を\nドゼーから取り戻さねばならない。$k$p$SvpV_GMAP_GMAP1_5_02|$E笑,|頼りにしているぞ、リーダーどの。$k\n$Wsアルム|$Wa$E特殊1,|$SvpV_GMAP_GMAP1_5_03|う、うん……！$k
+MID_Gmap2_1: $t0$Wmセリカ|0$w0|$Wsセリカ|$Wa$SvpV_GMAP_GMAP2_1_00|ソフィア本土に渡るために、\nまずは港をめざしましょう。$k$p$SvpV_GMAP_GMAP2_1_01|でも、そのためには\n墓地を通らなければいけないわ。$k$p$SvpV_GMAP_GMAP2_1_02|あそこには最近、\n魔物がでるという話だから$k$p$SvpV_GMAP_GMAP2_1_03|気をつけていきましょう。$k\n
+MID_Gmap3_1: $t3$Wmタタラ|7$w0|$SbpBGM_EVT_ENEMY2|0|$Wsタタラ|$Wa$SvpV_GMAP_GMAP3_1_00|ドゼーがやられたか……\nとなると、$k$p$SvpV_GMAP_GMAP3_1_01|解放軍がこの水門にせまるのも\n時間の問題。$k$p$SvpV_GMAP_GMAP3_1_02|$E笑,|せいぜいお前には働いてもらうぞ、\nデューテ。$k\n$Wm敵デューテ|3$w0|$Ws敵デューテ|$Wa$SvpV_GMAP_GMAP3_1_03|…………$k\n$Wsタタラ|$Wa$SvpV_GMAP_GMAP3_1_04|$E笑,|あの裏切り者、\nなかなか役に立つではないか。$k$p$SvpV_GMAP_GMAP3_1_05|くっくっく……$k\n$Sbs2000|$Sev1|1500|
+MID_Gmap3_2: $t0$Wmパオラ|0$w0|$Wsパオラ|$Wa$SvpV_GMAP_GMAP3_2_00|$E驚,|どこへゆくの？\nギースの砦はそっちじゃないわ。$k$p$SvpV_GMAP_GMAP3_2_01|$E通常,|そちらにいくのなら\n私は失礼するわね。$k
+MID_Gmap3_確認2_00: パオラが離脱しました。
+MID_Gmap3_3: $t0$Wmカチュア|0$w0|$Wsカチュア|$Wa$SvpV_GMAP_GMAP3_3_00|ギースの砦にはいかないの？$k$p$SvpV_GMAP_GMAP3_3_01|じゃあ、私はここで。\nさようなら。$k
+MID_Gmap3_確認3_00: カチュアが離脱しました。
+MID_Gmap3_4: $t0$Wmアトラス|0$w0|$Wsアトラス|$Wa$SvpV_GMAP_GMAP3_4_00|$E驚,|おい、\nギースの砦はそっちじゃねえだろ。$k$p$SvpV_GMAP_GMAP3_4_01|$E通常,|寄り道するんなら俺はいかねえ。\nここまでだ。$k
+MID_Gmap3_確認4_00: アトラスが離脱しました。
+MID_Gmap3_確認5: アルム軍とセリカ軍を\n操作できるようになりました。
+MID_SUB40_1_確認0: ソフィアの港に異国の商船が入港しました。

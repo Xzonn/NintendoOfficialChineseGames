@@ -1,0 +1,32 @@
+MESS_ARCHIVE_森の村内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_リュート1: $Sbs2000|$t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV1_RYUTO1_00|$E驚,|！！$k$p$SvpV_SC_3_26_ADV1_RYUTO1_01|お前たち、解放軍のものか？$k\n$Wsアルム|$Wa$E通常,|$SvpV_SC_3_26_ADV1_RYUTO1_02|そうだけど……\n君は？$k\n$SbpBGM_EVT_AMB2|0|$Wsリュート|$Wa$E苦,|$SvpV_SC_3_26_ADV1_RYUTO1_03|俺の名はリュート。\nこの森の村の魔道士だ。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_04|頼む、俺の妹を助けてくれ！$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_26_ADV1_RYUTO1_05|妹？$k\n$Wsリュート|$Wa$E悲,|$SvpV_SC_3_26_ADV1_RYUTO1_06|ああ……$k$p$SvpV_SC_3_26_ADV1_RYUTO1_07|妹のデューテは、この村でもっとも優れた\n魔道の素質の持ち主なんだ。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_08|だが、それを嗅ぎつけたリゲルの妖術師\nタタラに捕えられてしまった。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_09|$E怒,|いまデューテは、やつに操られ\n北の水門を守っている。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_10|リゲルは水門を閉じ続け\nこのソフィアを水に沈めるつもりだ。$k\n$Wsアルム|$Wa$E怒,汗|$SvpV_SC_3_26_ADV1_RYUTO1_11|なんだって？！$k$p$SvpV_SC_3_26_ADV1_RYUTO1_12|ソフィアに洪水を\n起こすつもりなのか？$k\n$Wsリュート|$Wa$E苦,|$SvpV_SC_3_26_ADV1_RYUTO1_13|そうだ。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_14|お前たちも、それは阻止せねば\nならないだろう？$k$p$SvpV_SC_3_26_ADV1_RYUTO1_15|妹を救ってくれるのなら\n俺も手を貸そう。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_16|タタラさえ倒せば\nデューテは正気に戻るはずだ。$k\n$Sbs1000|
+MID_ADV_C_リュート_SELECT: リュートを仲間にしますか？
+MID_ADV_C_リュート2: $SbpBGM_EVT_AMB|2000|$t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV1_RYUTO2_00|$E悲,|そうか……\nしかたない。$k$p$SvpV_SC_3_26_ADV1_RYUTO2_01|$E通常,|お前たちには\nお前たちの使命があるのだな。$k$p$SvpV_SC_3_26_ADV1_RYUTO2_02|だが、気が変わったら\nいつでも声をかけてくれ。$k
+MID_ADV2_C_リュート: $t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV2_RYUTO_00|$E通常,|どうした。$k$p$SvpV_SC_3_26_ADV2_RYUTO_01|俺の力を借りたいのか？$k
+MID_SUB26_1_おじさん: $t1$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_26_ADV1_GENTLEMAN_00|$E悲,|ああ、解放軍の方々！\nどうか助けてください。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_01|私の娘が、ガーゴイルにさらわれて\n西のほこらに連れてゆかれたのです。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_02|助けてくだされば\n私の宝物をさしあげます。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_03|どうか、力をお貸しください。$k
+MID_SUB26_2_おじさん: $t1$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_26_ADV2_GENTLEMAN_00|$E笑,|ああ、解放軍の方々！\nお待ちしておりました。$k$p$SvpV_SC_3_26_ADV2_GENTLEMAN_01|私の娘を、西のほこらから\n助けてくれたそうで。$k$p$SvpV_SC_3_26_ADV2_GENTLEMAN_02|お礼に\n私の宝物をさしあげます。$k
+MID_SUB26_2_女性: $t1$Wm女の子|5$w0|$Ws女の子|$Wa$SvpV_SC_3_26_ADV2_WOMAN_00|$E笑,|えへへ……\n助けてくれてありがとう。$k
+MID_SUB30_1_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waねえねえ！　わたしね、\nなにか可愛いものが欲しいな！$k
+MID_SUB30_1_確認1: なにか渡しますか？
+MID_SUB30_1_2: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waうわあ、可愛い！！\nほんとにもらっていいの？$k$pありがとー！\nお礼にこれ、あげるね。$k
+MID_SUB30_1_確認2: 『小さな歯車』を受け取った。
+MID_SUB30_1_3_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waええー？\nなにこれ、いらなーい。$k
+MID_SUB30_1_3_2: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waこんなの、ちっとも可愛くないよ！$k
+MID_SUB30_1_3_3: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waもー、ふざけないで！$k
+MID_SUB30_1_3_4: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waうーん……\nいまいち。$k
+MID_SUB30_1_確認3: 別のものを渡しますか？
+MID_SUB30_2_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Waんもう、さっきから全然だめじゃない！\nもう頼まないよーっだ。$k
+MID_SUB30_1_確認4: 女の子は去っていった。
+MID_SUB27_1_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|お願いです、助けてください！$k$pソフィア城まで行商に出かけた\nうちの主人が帰ってこないのです。$k$pもうすぐ子供が産まれるというのに……\nなにかあったに違いありません。$k$pそれで、この村の女の子が\n森のほこらに捕らわれたという話を聞いて$k$pもしかしたら、主人もそこに\n捕らわれているのかもと思って……$k$pよろしかったら、\n森のほこらを見てきてくれませんか？$k
+MID_SUB27_3_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|あの……\n主人は見つかりましたでしょうか？$k$p森のほこらにいると思うのですが……$k
+MID_SUB27_3_確認1: 壁の書き置きのことを話しますか？
+MID_SUB27_3_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|……そんな…………\nああっ……！！$k
+MID_SUB27_3_確認2: 商人の妻は去っていった。
+MID_SUB27_5_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|あっ、あなたたちは……！$k$p主人をヌイババの館から助けていただいて\nありがとうございます！$k$pああ、一時はもうだめかと……$k$pこれは私たちの家のお守りだったものです。\nぜひ受け取ってください。$k
+MID_SUB27_5_確認1: 『木彫りのミラ』を受け取った。
+MID_SUB27_5_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|本当にお世話になりました。$k

@@ -1,0 +1,27 @@
+MESS_ARCHIVE_海賊の砦内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_バルボ仲間入り会話1: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_00|$E通常,|おお、あんたたち！\n俺の名はバルボだ。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_01|さっきは、危ないところを\n助かったよ。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_02|$E悲,|ダッハの野郎がくたばって、\nこれで俺の家族もきっと……$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_03|$Eキメ,|おっと、\n湿っぽくなっちまうな。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_04|$E通常,|そうだ、神官さま。\n助けてくれた礼をさせてくれよ。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_05|といっても、俺には\n腕っぷしくらいしかないがな。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_06|護衛でもなんでもするぜ。\nつれていってくれないか？$k
+MID_ADV_C_バルボ_SELECT: バルボを仲間にしますか？
+MID_ADV_C_バルボ2: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV1_VALBO2_00|$E悲,|そうかい、\n残念だな……$k$p$SvpV_SC_2_16_ADV1_VALBO2_01|$E通常,|まあ、またいつでも\n声をかけてくれ。$k
+MID_ADV_C_バルボ仲間入り会話2: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_1_00|$E通常,|おお、なんだ。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_1_01|俺もつれていってくれるのか？$k
+MID_ADV_C_レオ: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV1_LEO_00|$E驚,|えっ、なに？$k$p$SvpV_SC_2_16_ADV1_LEO_01|$E通常,|アタシは兄貴がいなけりゃ、\nどこにもいかないわよ。$k$p$SvpV_SC_2_16_ADV1_LEO_02|先に兄貴をさそってみたら？$k
+MID_ADV_C_カムイ: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV1_KAMUI_00|$E通常,|俺はバルボさんに\n金でやとわれているもんでね。$k$p$SvpV_SC_2_16_ADV1_KAMUI_01|俺と交渉したいんなら\nまずバルボさんと話をつけてくれないか？$k
+MID_ADV_C_レオ仲間入り会話1: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_00|$E驚,|なによお、兄貴。\nそいつらといっしょにいくの？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_01|$E通常,|じゃあアタシもいく！\nねえねえ、いいでしょ？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_02|おねがーい、つれてってよお。$k
+MID_ADV_C_レオ_SELECT: レオを仲間にしますか？
+MID_ADV_C_レオ2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV2_LEO2_00|$E苦,|なんでよお、ケチ！$k$p$SvpV_SC_2_16_ADV2_LEO2_01|ちょっとかわいいからって\n調子のっちゃってさ。$k$p$SvpV_SC_2_16_ADV2_LEO2_02|$E怒,|ふーんだ、もう知らない！$k\n
+MID_ADV_C_レオ仲間入り会話2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_1_00|$E通常,|あら、なあに？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_1_01|$Eキメ,|やっぱりアタシの力が\n必要ってわけ？$k
+MID_ADV_C_カムイ仲間入り会話1: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_00|$E驚,|バルボさん、\nそいつらといっしょにいくのかい？$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_01|$E通常,|ふーん……俺はどっちでもいいぜ。\nあんたが決めてくれよ$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_02|$E怒,|ああでも、あんたエンジェルの魔法は\n覚えているのか？$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_03|覚えてないんなら\n海のほこらには寄らないでくれよ。$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_04|$E苦,|俺はドラゴンゾンビだけは苦手なんでね。$k
+MID_ADV_C_カムイ_SELECT: カムイを仲間にしますか？
+MID_ADV_C_カムイ2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV2_KAMUI2_00|$E通常,|ああ、そうかい。$k$p$SvpV_SC_2_16_ADV2_KAMUI2_01|じゃあ、ここでさよならだ。\n元気でな。$k
+MID_ADV_C_カムイ仲間入り会話2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_1_00|$E通常,|ん？\nなんだよ。$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_1_01|俺についてきてほしいのか？$k
+MID_ADV_C_EV1: $t0$Wmバルボ|6$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_EV1_00|$E驚,|なんだ、お前らも\nついてくるのか？$k\n$Wsバルボ|$Wd$w0|$Wmレオ|6$w0|$Wsレオ|$Wa$SvpV_SC_2_16_EV1_01|$Eキメ,|当然でしょ？$k$p$SvpV_SC_2_16_EV1_02|アタシは兄貴がいくなら\nどこへでもついてくわよお。$k\n$Wsレオ|$Wd$w0|$Wmカムイ|6$w0|$Wsカムイ|$Wa$E通常,|$SvpV_SC_2_16_EV1_03|俺はまあ、やとってくれるんなら\n誰でもいいしな。$k\n$Wsカムイ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E苦,|$SvpV_SC_2_16_EV1_04|まったく……$k$p$SvpV_SC_2_16_EV1_05|そんな調子で、神官さまに\n面目ないと思わないのか？$k$p$SvpV_SC_2_16_EV1_06|$E悲,|神官さまはなあ、まあよくわからんが\n崇高な使命をもって旅をしてるんだぞ。$k\n$Wsバルボ|$Wd$w0|$Wmセリカ|6$w0|$Wsセリカ|$Wa$SvpV_SC_2_16_EV1_07|$E驚,|いえ、あの……\n私、うれしいです！$k$p$SvpV_SC_2_16_EV1_08|$E特殊1,|みなさんに\nついてきてもらえて。$k$p$SvpV_SC_2_16_EV1_09|とても心強いし、\nにぎやかで楽しいし……$k$p$SvpV_SC_2_16_EV1_10|$E笑,|だから、どうか\nよろしくおねがいしますね。$k\n$Wsセリカ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E驚,|$SvpV_SC_2_16_EV1_11|神官さま……$k$p$SvpV_SC_2_16_EV1_12|$Eキメ,|こちらこそ、\nよろしく頼むぜ。$k\n$Wsバルボ|$Wd$w0|$Wmレオ|6$w0|$Wsレオ|$Wa$E通常,|$SvpV_SC_2_16_EV1_13|ふーん……$k$p$SvpV_SC_2_16_EV1_14|$Eキメ,|そこまでいうなら、少しは\nがんばってあげちゃおっかしら。$k\n$Wsレオ|$Wa$Wmカムイ|6$w0|$Wsカムイ|$Wa$Eキメ,|$SvpV_SC_2_16_EV1_15|俺は\nもらえる金次第だね。$k\n$Wsカムイ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E苦,|$SvpV_SC_2_16_EV1_16|まったく、またお前は……！$k\n$Wsバルボ|$Wd$w0|$Wmセリカ|6$w0|$Wsセリカ|$Wa$E笑,|$SvpV_SC_2_16_EV1_17|うふふ……$k
+MID_ADV2_C_レオ1: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV4_LEO1_00|$E悲,|うっ、ううっ……\n兄貴い……$k$p$SvpV_SC_2_16_ADV4_LEO1_01|なんでアタシをおいて\n死んじゃったのよお！$k$p$SvpV_SC_2_16_ADV4_LEO1_02|アタシ、これから\nどうやって生きていけばいいの？$k$p$SvpV_SC_2_16_ADV4_LEO1_03|$E怒,|あんたたち、\n責任とりなさい！$k$p$SvpV_SC_2_16_ADV4_LEO1_04|兄貴を助けられなかったんだから、\n当然でしょ？$k
+MID_ADV2_C_レオ_SELECT: レオを仲間にしますか？
+MID_ADV2_C_レオ2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV4_LEO2_00|$E苦,|なんでよお、ケチ！$k$p$SvpV_SC_2_16_ADV4_LEO2_01|ちょっとかわいいからって\n調子のっちゃってさ。$k$p$SvpV_SC_2_16_ADV4_LEO2_02|$E怒,|ふーんだ、もう知らない！$k\n
+MID_ADV2_C_カムイ1: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV4_KAMUI1_00|$E驚,|あーあ、バルボさん\n死んじまったかあ。$k$p$SvpV_SC_2_16_ADV4_KAMUI1_01|$E悲,|どうしよっかなあ……$k$p$SvpV_SC_2_16_ADV4_KAMUI1_02|俺、あの人に\n金でやとわれてたんだよ。$k$p$SvpV_SC_2_16_ADV4_KAMUI1_03|$E笑,|あんた、かわりに\nやとってくれないか？$k\n
+MID_ADV2_C_カムイ_SELECT: カムイを仲間にしますか？
+MID_ADV2_C_カムイ2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV4_KAMUI2_00|$E通常,|ああ、そうかい。$k$p$SvpV_SC_2_16_ADV4_KAMUI2_01|じゃあ、ここでさよならだ。\n元気でな。$k

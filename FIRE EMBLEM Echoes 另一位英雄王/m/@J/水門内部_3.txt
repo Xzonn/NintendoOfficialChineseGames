@@ -1,0 +1,10 @@
+MESS_ARCHIVE_水門内部_3
+
+
+Message Name: Message
+
+
+MID_ADV1_おじさん1: $t3$Wmおじさん|5$w0|$Wmアルム|h$w0|$Wsおじさん|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN1_00|$E驚,|水門を開けって？\nそりゃあ無理だよ。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN1_01|$E通常,|先にミラの神殿の水門を開かないと\n洪水になってしまうんだ。$k
+MID_ADV1_おじさん2: $t3$Wmアルム|h$w0|$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN2_00|神殿の水門も開いたことだし、\nさっそくこちらも開くとしよう。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_01|$Eキメ,|……しかし妙だな。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_02|ミラの神殿の水門を開けるのは\nソフィア王家の者だけなんだが……$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_27_ADV1_GENTLEMAN2_03|えっ……？$k\n$Wsおじさん|$Wa$E通常,|$SvpV_SC_3_27_ADV1_GENTLEMAN2_04|こりゃあ、生きてるって噂の\nアンテーゼ王女があらわれたのか？$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_05|$E笑,|なんてな。\nははは……$k
+MID_ADV1_おじさん2_2: $t3$Wmアルム|h$w0|$SlpSE_EVT_3_WATERGATE_WATERFALL2|0|$Wsアルム|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN2_06|$E悲,|アンテーゼ……$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_07|水門を開ける\nソフィア王家の者……$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_08|$E驚,|……そうか、セリカ。\n君が……！$k\n$SlsSE_EVT_3_WATERGATE_WATERFALL2|3000|
+MID_EV3: $t3$Wmジュダ|5$w0|$SbpBGM_EVT_SERIOUS|0|$Wsジュダ|$Wa$SvpV_SC_3_27_EV3_00|おお……\n水門が開きおったか。$k$p$SvpV_SC_3_27_EV3_01|くくく……\nこれは僥倖。$k$p$SvpV_SC_3_27_EV3_02|あの小娘は\n必ずミラを追ってやってくる。$k$p$SvpV_SC_3_27_EV3_03|みずからこちらの懐に来ようというのなら\n拒むゆえもない。$k$p$SvpV_SC_3_27_EV3_04|どれ、わしがじきじきに\n出迎えてやるか……$k\n$Sbs3000|

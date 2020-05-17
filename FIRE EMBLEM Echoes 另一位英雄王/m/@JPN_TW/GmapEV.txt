@@ -1,0 +1,24 @@
+MESS_ARCHIVE_GmapEV
+
+
+Message Name: Message
+
+
+MID_Gmap1_1: $t0$Wmルカ|0$w0|$Wsルカ|$Wa$SvpV_GMAP_GMAP1_1_00|那麼，首先就前往\n南方堡壘吧。$k
+MID_Gmap1_1_2: $t0$Wmルカ|0$w0|$SvpV_GMAP_GMAP1_1_01|那裡目前\n雖落入多哲軍的手中……$k$p$SvpV_GMAP_GMAP1_1_02|但我們的夥伴\n正為了奪回那裡而奮戰。$k$p$SvpV_GMAP_GMAP1_1_03|我們解放軍據點，\n就在南方堡壘的後頭。$k$p$SvpV_GMAP_GMAP1_1_04|$E笑,|好，\n那我們提高警覺前進吧。$k
+MID_Gmap1_2: $t0$Wmアルム|0$w0|$Wmグレイ|6$w0|$Wsアルム|$Wa$SvpV_GMAP_GMAP1_2_00|$E驚,|那座祠堂是……？$k\n$Wsグレイ|$Wa$SvpV_GMAP_GMAP1_2_01|啊，你沒離開過村子，\n所以不知道吧。$k$p$SvpV_GMAP_GMAP1_2_02|$Eキメ,|那座祠堂裡，\n祭祀著大地母神――美拉。$k$p$SvpV_GMAP_GMAP1_2_03|不過最近因為饑荒什麼的，\n變得沒人參拜了。$k$p$SvpV_GMAP_GMAP1_2_04|$E怒,|想必正好適合\n盜賊們入住吧。$k\n$Wsアルム|$Wa$E悲,|$SvpV_GMAP_GMAP1_2_05|$p那麼，\n他們抓來的人也在那裡嗎……$k
+MID_Gmap1_3: $t0$Wmルカ|0$w0|$Wsルカ|$Wa$SvpV_GMAP_GMAP1_3_00|$E驚,|請、請等一下。$k
+MID_Gmap1_3_2: $t0$Wmルカ|0$w0|$SvpV_GMAP_GMAP1_3_01|$E通常,|如果要前進，就先從堡壘裡\n救出克萊爾吧。$k
+MID_Gmap1_4: $t0$Wmクレア|0$w0|$Wsクレア|$Wa$SvpV_GMAP_GMAP1_4_00|$E驚,|哎呀，阿雷武。\n你要去哪裡呢？$k
+MID_Gmap1_4_2: $t0$Wmクレア|0$w0|$SvpV_GMAP_GMAP1_4_01|$E通常,|請先到據點\n去見哥哥吧。$k
+MID_Gmap1_5: $t0$Wmクレーベ|0$w0|$Wmアルム|6$w0|$Wsクレーベ|$Wa$SvpV_GMAP_GMAP1_5_00|好，目標是索菲亞城堡。$k$p$SvpV_GMAP_GMAP1_5_01|我們必須想盡辦法，\n從多哲手中奪回城堡才行。$k$p$SvpV_GMAP_GMAP1_5_02|$E笑,|就看你的啦，首領閣下。$k\n$Wsアルム|$Wa$E特殊1,|$SvpV_GMAP_GMAP1_5_03|好、好的……！$k
+MID_Gmap2_1: $t0$Wmセリカ|0$w0|$Wsセリカ|$Wa$SvpV_GMAP_GMAP2_1_00|為了渡海前往索菲亞本土，\n我們先到港口去吧。$k$p$SvpV_GMAP_GMAP2_1_01|不過，要到港口，\n就得先通過墓地才行。$k$p$SvpV_GMAP_GMAP2_1_02|聽說那裡\n最近有魔物出沒。$k$p$SvpV_GMAP_GMAP2_1_03|我們要小心為上。$k
+MID_Gmap3_1: $t3$Wmタタラ|7$w0|$SbpBGM_EVT_ENEMY2|0|$Wsタタラ|$Wa$SvpV_GMAP_GMAP3_1_00|多哲被打敗了啊……\n這就表示……$k$p$SvpV_GMAP_GMAP3_1_01|解放軍逼近這個水閘，\n也只是時間早晚的問題。$k$p$SvpV_GMAP_GMAP3_1_02|$E笑,|妳可要好好表現啊，\n迪優特。$k\n$Wm敵デューテ|3$w0|$Ws敵デューテ|$Wa$SvpV_GMAP_GMAP3_1_03|…………$k\n$Wsタタラ|$Wa$SvpV_GMAP_GMAP3_1_04|$E笑,|那個叛徒\n還挺有用的嘛。$k$p$SvpV_GMAP_GMAP3_1_05|哼哼哼……$k\n$Sbs2000|$Sev1|1500|
+MID_Gmap3_2: $t0$Wmパオラ|0$w0|$Wsパオラ|$Wa$SvpV_GMAP_GMAP3_2_00|$E驚,|妳要去哪裡？\n吉斯堡壘不在那個方向喔。$k$p$SvpV_GMAP_GMAP3_2_01|$E通常,|如果妳要往那邊走，\n恕我先告辭了。$k
+MID_Gmap3_確認2_00: 帕奧拉脫離隊伍了。
+MID_Gmap3_3: $t0$Wmカチュア|0$w0|$Wsカチュア|$Wa$SvpV_GMAP_GMAP3_3_00|不去吉斯堡壘嗎？$k$p$SvpV_GMAP_GMAP3_3_01|那我就跟到這裡為止了。\n再見。$k
+MID_Gmap3_確認3_00: 卡秋雅脫離隊伍了。
+MID_Gmap3_4: $t0$Wmアトラス|0$w0|$Wsアトラス|$Wa$SvpV_GMAP_GMAP3_4_00|$E驚,|喂，\n吉斯堡壘不在那個方向吧？$k$p$SvpV_GMAP_GMAP3_4_01|$E通常,|要繞路的話我可不奉陪。\n我就跟到這為止吧。$k
+MID_Gmap3_確認4_00: 阿特拉斯脫離隊伍了。
+MID_Gmap3_確認5: 現在可開始操作\n阿雷武軍及賽莉卡軍了。
+MID_SUB40_1_確認0: 索菲亞港有異國商船停靠了。

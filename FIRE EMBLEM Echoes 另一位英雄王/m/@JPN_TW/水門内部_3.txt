@@ -1,0 +1,10 @@
+MESS_ARCHIVE_水門内部_3
+
+
+Message Name: Message
+
+
+MID_ADV1_おじさん1: $t3$Wmおじさん|5$w0|$Wmアルム|h$w0|$Wsおじさん|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN1_00|$E驚,|叫我打開水閘？\n那是不可能的。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN1_01|$E通常,|若不先開啟美拉神殿的水閘，\n可是會造成洪水的。$k
+MID_ADV1_おじさん2: $t3$Wmアルム|h$w0|$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN2_00|神殿的水閘已經開啟了，\n我們也快點打開這邊的吧。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_01|$Eキメ,|……不過還真奇怪耶。$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_02|只有索菲亞王族的人\n能開啟美拉神殿的水閘……$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_27_ADV1_GENTLEMAN2_03|咦……？$k\n$Wsおじさん|$Wa$E通常,|$SvpV_SC_3_27_ADV1_GENTLEMAN2_04|難道是傳言中還活著的\n安蒂潔公主出現了嗎？$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_05|$E笑,|我隨便說說的啦。\n哈哈哈……$k
+MID_ADV1_おじさん2_2: $t3$Wmアルム|h$w0|$SlpSE_EVT_3_WATERGATE_WATERFALL2|0|$Wsアルム|$Wa$SvpV_SC_3_27_ADV1_GENTLEMAN2_06|$E悲,|安蒂潔……$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_07|能夠開啟水閘的\n索菲亞王族……$k$p$SvpV_SC_3_27_ADV1_GENTLEMAN2_08|$E驚,|……原來如此，賽莉卡。\n妳就是……$k\n$SlsSE_EVT_3_WATERGATE_WATERFALL2|3000|
+MID_EV3: $t3$Wmジュダ|5$w0|$SbpBGM_EVT_SERIOUS|0|$Wsジュダ|$Wa$SvpV_SC_3_27_EV3_00|喔喔……\n水閘已經打開啦。$k$p$SvpV_SC_3_27_EV3_01|咯咯咯……\n這只是僥倖。$k$p$SvpV_SC_3_27_EV3_02|那個小丫頭\n一定會來找美拉的。$k$p$SvpV_SC_3_27_EV3_03|自己送上門來的獵物，\n當然沒有理由拒絕。$k$p$SvpV_SC_3_27_EV3_04|就讓我親自上前迎接吧……$k\n$Sbs3000|

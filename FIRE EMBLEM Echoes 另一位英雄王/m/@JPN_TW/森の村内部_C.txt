@@ -1,0 +1,32 @@
+MESS_ARCHIVE_森の村内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_リュート1: $Sbs2000|$t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV1_RYUTO1_00|$E驚,|！！$k$p$SvpV_SC_3_26_ADV1_RYUTO1_01|你們是解放軍嗎？$k\n$Wsアルム|$Wa$E通常,|$SvpV_SC_3_26_ADV1_RYUTO1_02|沒錯，我們是解放軍……\n你是？$k\n$SbpBGM_EVT_AMB2|0|$Wsリュート|$Wa$E苦,|$SvpV_SC_3_26_ADV1_RYUTO1_03|我叫魯特，\n是這個森林村落的魔道士。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_04|拜託你，救救我妹妹！$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_26_ADV1_RYUTO1_05|你的妹妹？$k\n$Wsリュート|$Wa$E悲,|$SvpV_SC_3_26_ADV1_RYUTO1_06|是的……$k$p$SvpV_SC_3_26_ADV1_RYUTO1_07|我的妹妹叫迪優特，她是這個村子裡\n最有天分的魔道士。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_08|但利蓋爾的妖術師塔塔拉\n發現她的天賦，把她抓走了。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_09|$E怒,|迪優特現在被那混帳控制心靈，\n守著北方水閘。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_10|利蓋爾打算一直關閉水閘，\n把索菲亞沉入水中。$k\n$Wsアルム|$Wa$E怒,汗|$SvpV_SC_3_26_ADV1_RYUTO1_11|你說什麼！？$k$p$SvpV_SC_3_26_ADV1_RYUTO1_12|他們打算在索菲亞\n引發洪水嗎？$k\n$Wsリュート|$Wa$E苦,|$SvpV_SC_3_26_ADV1_RYUTO1_13|沒錯。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_14|你們也必須阻止他們的計畫吧？$k$p$SvpV_SC_3_26_ADV1_RYUTO1_15|如果你願意救我妹妹，\n我也會幫你們的。$k$p$SvpV_SC_3_26_ADV1_RYUTO1_16|只要打倒塔塔拉，\n迪優特應該就會清醒了。$k\n$Sbs1000|
+MID_ADV_C_リュート_SELECT: 要讓魯特成為夥伴嗎？
+MID_ADV_C_リュート2: $SbpBGM_EVT_AMB|2000|$t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV1_RYUTO2_00|$E悲,|好吧……\n那也沒辦法。$k$p$SvpV_SC_3_26_ADV1_RYUTO2_01|$E通常,|畢竟你們有\n自己必須完成的使命。$k$p$SvpV_SC_3_26_ADV1_RYUTO2_02|但若你改變心意，\n隨時都可以找我幫忙。$k
+MID_ADV2_C_リュート: $t3$Wmリュート|5$w0|$Wmアルム|h$w0|$Wsリュート|$Wa$SvpV_SC_3_26_ADV2_RYUTO_00|$E通常,|怎麼了？$k$p$SvpV_SC_3_26_ADV2_RYUTO_01|想藉助我的力量嗎？$k
+MID_SUB26_1_おじさん: $t1$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_26_ADV1_GENTLEMAN_00|$E悲,|啊啊，解放軍的各位，\n請幫幫我。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_01|我的女兒被石像鬼擄走，\n被帶到西方的祠堂去了。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_02|如果你們可以幫助我，\n我就把寶物送給你們。$k$p$SvpV_SC_3_26_ADV1_GENTLEMAN_03|拜託你們，幫我這個忙吧。$k
+MID_SUB26_2_おじさん: $t1$Wmおじさん|5$w0|$Wsおじさん|$Wa$SvpV_SC_3_26_ADV2_GENTLEMAN_00|$E笑,|喔，解放軍的弟兄，\n我等你們很久了。$k$p$SvpV_SC_3_26_ADV2_GENTLEMAN_01|你們幫我\n從西方祠堂救回了女兒，$k$p$SvpV_SC_3_26_ADV2_GENTLEMAN_02|送給你們我的寶物做為謝禮。$k
+MID_SUB26_2_女性: $t1$Wm女の子|5$w0|$Ws女の子|$Wa$SvpV_SC_3_26_ADV2_WOMAN_00|$E笑,|嘿嘿……\n謝謝你們救了我。$k
+MID_SUB30_1_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa欸、欸！\n我好想要可愛的東西喔！$k
+MID_SUB30_1_確認1: 要給她東西嗎？
+MID_SUB30_1_2: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa哇，好可愛！\n我真的可以收下嗎？$k$p謝謝你～！\n這個送你當作謝禮。$k
+MID_SUB30_1_確認2: 你接受了『小齒輪』。
+MID_SUB30_1_3_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa咦？\n這是什麼，我才不要。$k
+MID_SUB30_1_3_2: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa這個根本一點都不可愛啊！$k
+MID_SUB30_1_3_3: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa討厭，不要開人家玩笑！$k
+MID_SUB30_1_3_4: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa嗯……\n不是太可愛。$k
+MID_SUB30_1_確認3: 要給她別的東西嗎？
+MID_SUB30_2_1: $Z$t1$Wm女の子|5$VF隠|$w0|$Ws女の子|$Wa唉唷，你一直拿不可愛的給我！\n人家不要跟你拿了。$k
+MID_SUB30_1_確認4: 女孩子離開了。
+MID_SUB27_1_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|求求你，請幫我！$k$p我的丈夫去索菲亞城堡行商後，\n就一直沒有回來。$k$p孩子都快要出生了……\n他一定是出了什麼意外。$k$p然後，我聽說這個村子的女孩子，\n有幾個人被抓到森林祠堂去，$k$p我猜也許我丈夫\n也被抓走了……$k$p如果可以，\n你能去森林祠堂幫我看看嗎？$k
+MID_SUB27_3_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|請問……\n你找到我丈夫了嗎？$k$p他應該是在森林祠堂裡……$k
+MID_SUB27_3_確認1: 要告訴她牆上的留言嗎？
+MID_SUB27_3_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|……怎麼會…………\n啊啊……！！$k
+MID_SUB27_3_確認2: 商人之妻離開了。
+MID_SUB27_5_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|啊，等一下……！$k$p謝謝你們從魯伊巴巴館\n救了我丈夫！$k$p有一陣子我都覺得沒希望了……$k$p這是我們家的護身符。\n請你一定要收下。$k
+MID_SUB27_5_確認1: 你接受了『木雕美拉』。
+MID_SUB27_5_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_商人の妻|真的非常感謝你的幫忙。$k

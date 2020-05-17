@@ -1,0 +1,27 @@
+MESS_ARCHIVE_海賊の砦内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_バルボ仲間入り会話1: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_00|$E通常,|喔，你們好！\n我叫巴爾博。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_01|剛剛危險的時候，多謝相助。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_02|$E悲,|達哈那混帳死了，\n這樣一來我的家人一定也……$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_03|$Eキメ,|唉呀，\n突然有點想哭。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_04|$E通常,|對了，神官大人。\n請讓我答謝你的救命之恩。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_05|但說起來，\n我也只有腕力比較強而已。$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_0_06|看是要護衛還是什麼，我都願意做。\n妳可以帶我一起走嗎？$k
+MID_ADV_C_バルボ_SELECT: 要讓巴爾博成為夥伴嗎？
+MID_ADV_C_バルボ2: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV1_VALBO2_00|$E悲,|是嗎？\n真可惜……$k$p$SvpV_SC_2_16_ADV1_VALBO2_01|$E通常,|不過，隨時都可以來找我。$k
+MID_ADV_C_バルボ仲間入り会話2: $t3$Wmバルボ|5$w0|$Wmセリカ|h$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_1_00|$E通常,|喔喔，什麼？$k$p$SvpV_SC_2_16_ADV_VALBO_JOIN_CLAMP_1_01|妳願意帶我一起走嗎？$k
+MID_ADV_C_レオ: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV1_LEO_00|$E驚,|咦？什麼？$k$p$SvpV_SC_2_16_ADV1_LEO_01|$E通常,|沒有大哥的話，\n人家哪都不去。$k$p$SvpV_SC_2_16_ADV1_LEO_02|妳先約我大哥看看吧。$k
+MID_ADV_C_カムイ: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV1_KAMUI_00|$E通常,|我是巴爾博先生用錢雇用的人。$k$p$SvpV_SC_2_16_ADV1_KAMUI_01|如果想和我交涉，\n你可以先去找巴爾博先生談談嗎？$k
+MID_ADV_C_レオ仲間入り会話1: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_00|$E驚,|什麼嘛，大哥。\n你要和那些傢伙一起去嗎？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_01|$E通常,|那人家也要去！\n好啦，可以吧？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_0_02|求求妳啦，帶我去。$k
+MID_ADV_C_レオ_SELECT: 要讓雷歐成為夥伴嗎？
+MID_ADV_C_レオ2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV2_LEO2_00|$E苦,|為什麼啊，小氣鬼！$k$p$SvpV_SC_2_16_ADV2_LEO2_01|只是長得稍微可愛一點，\n就自以為是。$k$p$SvpV_SC_2_16_ADV2_LEO2_02|$E怒,|哼，我不管妳了！$k
+MID_ADV_C_レオ仲間入り会話2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_1_00|$E通常,|唉唷，怎麼啦？$k$p$SvpV_SC_2_16_ADV_LEO_JOIN_CLAMP_1_01|$Eキメ,|所以說還是需要\n人家的力量囉？$k
+MID_ADV_C_カムイ仲間入り会話1: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_00|$E驚,|巴爾博先生，\n你要和他們一起去嗎？$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_01|$E通常,|是喔……我都可以啊。\n你幫我決定吧。$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_02|$E怒,|啊，可是妳會天使的魔法嗎？$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_03|如果不會，\n可不要靠近海的祠堂喔。$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_0_04|$E苦,|我只怕龍殭屍啊。$k
+MID_ADV_C_カムイ_SELECT: 要讓卡武伊成為夥伴嗎？
+MID_ADV_C_カムイ2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV2_KAMUI2_00|$E通常,|喔，是嗎？$k$p$SvpV_SC_2_16_ADV2_KAMUI2_01|那就在這裡道別了。\n保重啊。$k
+MID_ADV_C_カムイ仲間入り会話2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_1_00|$E通常,|嗯？\n什麼啊。$k$p$SvpV_SC_2_16_ADV_KAMUI_JOIN_CLAMP_1_01|妳希望我跟著妳嗎？$k
+MID_ADV_C_EV1: $t0$Wmバルボ|6$w0|$Wsバルボ|$Wa$SvpV_SC_2_16_EV1_00|$E驚,|什麼，\n你們也要跟嗎？$k\n$Wsバルボ|$Wd$w0|$Wmレオ|6$w0|$Wsレオ|$Wa$SvpV_SC_2_16_EV1_01|$Eキメ,|那還用說嗎？$k$p$SvpV_SC_2_16_EV1_02|如果大哥要去，\n到哪人家都跟。$k\n$Wsレオ|$Wd$w0|$Wmカムイ|6$w0|$Wsカムイ|$Wa$E通常,|$SvpV_SC_2_16_EV1_03|我呢，只要願意雇用我，\n我誰都可以。$k\n$Wsカムイ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E苦,|$SvpV_SC_2_16_EV1_04|真是的……$k$p$SvpV_SC_2_16_EV1_05|你們那種態度，\n不覺得會對不起神官大人嗎？$k$p$SvpV_SC_2_16_EV1_06|$E悲,|我是不太清楚，但神官大人\n可是背負崇高的使命在旅行的。$k\n$Wsバルボ|$Wd$w0|$Wmセリカ|6$w0|$Wsセリカ|$Wa$SvpV_SC_2_16_EV1_07|$E驚,|不，那個……\n我很高興！$k$p$SvpV_SC_2_16_EV1_08|$E特殊1,|有大家跟著，$k$p$SvpV_SC_2_16_EV1_09|我覺得很安心，\n而且很熱鬧很開心……$k$p$SvpV_SC_2_16_EV1_10|$E笑,|所以，\n請大家多多指教囉。$k\n$Wsセリカ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E驚,|$SvpV_SC_2_16_EV1_11|神官大人……$k$p$SvpV_SC_2_16_EV1_12|$Eキメ,|我們才要請妳\n多多指教呢。$k\n$Wsバルボ|$Wd$w0|$Wmレオ|6$w0|$Wsレオ|$Wa$E通常,|$SvpV_SC_2_16_EV1_13|嗯……$k$p$SvpV_SC_2_16_EV1_14|$Eキメ,|既然你都那樣說了，\n那我就稍微加油好了。$k\n$Wsレオ|$Wa$Wmカムイ|6$w0|$Wsカムイ|$Wa$Eキメ,|$SvpV_SC_2_16_EV1_15|我是領多少錢做多少事。$k\n$Wsカムイ|$Wd$w0|$Wmバルボ|6$w0|$Wsバルボ|$Wa$E苦,|$SvpV_SC_2_16_EV1_16|真是的，你又說那種話……！$k\n$Wsバルボ|$Wd$w0|$Wmセリカ|6$w0|$Wsセリカ|$Wa$E笑,|$SvpV_SC_2_16_EV1_17|呵呵呵……$k
+MID_ADV2_C_レオ1: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV4_LEO1_00|$E悲,|嗚，嗚嗚……\n大哥……$k$p$SvpV_SC_2_16_ADV4_LEO1_01|你怎麼可以丟下人家\n一個人走了！$k$p$SvpV_SC_2_16_ADV4_LEO1_02|接下來，\n人家要怎麼活下去啊？$k$p$SvpV_SC_2_16_ADV4_LEO1_03|$E怒,|你們要負責！$k$p$SvpV_SC_2_16_ADV4_LEO1_04|救不了我的大哥，\n你們理應要負責啊。$k
+MID_ADV2_C_レオ_SELECT: 要讓雷歐成為夥伴嗎？
+MID_ADV2_C_レオ2: $t3$Wmレオ|5$w0|$Wmセリカ|h$w0|$Wsレオ|$Wa$SvpV_SC_2_16_ADV4_LEO2_00|$E苦,|為什麼啊，小氣鬼！$k$p$SvpV_SC_2_16_ADV4_LEO2_01|只是長得稍微可愛一點，\n就自以為是。$k$p$SvpV_SC_2_16_ADV4_LEO2_02|$E怒,|哼，我不管妳了！$k
+MID_ADV2_C_カムイ1: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV4_KAMUI1_00|$E驚,|唉，巴爾博先生死了啊。$k$p$SvpV_SC_2_16_ADV4_KAMUI1_01|$E悲,|怎麼辦呢……$k$p$SvpV_SC_2_16_ADV4_KAMUI1_02|本來是那個人雇用我的。$k$p$SvpV_SC_2_16_ADV4_KAMUI1_03|$E笑,|要不要換妳雇用我？$k
+MID_ADV2_C_カムイ_SELECT: 要讓卡武伊成為夥伴嗎？
+MID_ADV2_C_カムイ2: $t3$Wmカムイ|5$w0|$Wmセリカ|h$w0|$Wsカムイ|$Wa$SvpV_SC_2_16_ADV4_KAMUI2_00|$E通常,|喔，是嗎？$k$p$SvpV_SC_2_16_ADV4_KAMUI2_01|那就在這裡道別了。\n保重啊。$k

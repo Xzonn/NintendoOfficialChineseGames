@@ -1,0 +1,35 @@
+MESS_ARCHIVE_ラムの村_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_クリフ仲間入り会話1_アルム: $t3$Wmクリフ|5$w0|$Wmアルム|h$w0|$Wsクリフ|$Wa$SvpV_SC_1_09_ADV_QULYF_JOIN_CLAMP_0_00|僕も行ってもいいよ。$k$p$SvpV_SC_1_09_ADV_QULYF_JOIN_CLAMP_0_01|解放軍って、ソフィア中で\n戦ってるんだろ？$k$p$SvpV_SC_1_09_ADV_QULYF_JOIN_CLAMP_0_02|$E笑,|世界を見て回れると思えば\n悪くないんじゃない。$k$p$SvpV_SC_1_09_ADV_QULYF_JOIN_CLAMP_0_03|ま、死ぬかもしれないけど。$k
+MID_ADV_C_クリフ_SELECT: クリフを仲間にしますか？
+MID_ADV_C_クリフ2: $t3$Wmクリフ|5$w0|$Wmアルム|h$w0|$Wsクリフ|$Wa$SvpV_SC_1_09_ADV3_QULYF2_00|$E通常,|……あっそ。$k$p$SvpV_SC_1_09_ADV3_QULYF2_01|別にいいよ。\nどうしても行きたいわけじゃないし。$k
+MID_ADV_C_クリフ仲間入り会話2: $t3$Wmクリフ|5$w0|$Wmアルム|h$w0|$Wsクリフ|$Wa$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_1_00|$E通常,|……なに？\nいっしょに来いっていうの？$k
+MID_ADV_C_クリフ仲間入り会話1_セリカ: $t3$Wmクリフ|5$w0|$Wmセリカ|h$w0|$Wsクリフ|$Wa$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_00|$E驚,|……おどろいた。\nセリカだろ？$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_01|$E笑,|久しぶりだね。\nもどってこられたんだ。$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_02|$E通常,|アルムたちは……\nいろいろあってさ、村にはいないよ。$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_03|マイセンさんも\nどこかにいっちゃった。$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_04|$E悲,|はあ……$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_05|もともとなんにもない村だけど\nますます退屈だよ。$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_06|$E通常,|セリカは\nどこかにいく途中なの？$k$p$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_0_07|$E笑,|よかったら、\n僕もつれていってよ。$k
+MID_ADV_C_クリフ1_SELECT_セリカ: クリフを仲間にしますか？
+MID_ADV_C_クリフ2_セリカ: $t3$Wmクリフ|5$w0|$Wmセリカ|h$w0|$Wsクリフ|$Wa$SvpV_SC_2_13_ADV1_QULYF2_00|$E通常,|……あっそ。$k$p$SvpV_SC_2_13_ADV1_QULYF2_01|別にいいよ。\nどうしてもいきたいわけじゃないし。$k
+MID_ADV_C_クリフ仲間入り会話2_セリカ: $t3$Wmクリフ|5$w0|$Wmセリカ|h$w0|$Wsクリフ|$Wa$SvpV_SC_2_13_ADV_QULYF_JOIN_CLAMP_1_00|$E通常,|……なに？\nいっしょに来いっていうの？$k
+MID_ADV_C_エフィ仲間入り会話1_アルム: $t3$Wmエフィ|5$w0|$Wmアルム|h$w0|$Wsエフィ|$Wa$Wv$SvpV_SC_1_09_ADV_EFI_JOIN_CLAMP_0_00|$Eキメ,|わ、私も行く！$k$p$SvpV_SC_1_09_ADV_EFI_JOIN_CLAMP_0_01|アルムが行くんだったら、\nどこにだっていっしょに行くわ！$k
+MID_ADV_C_エフィ_SELECT: エフィを仲間にしますか？
+MID_ADV_C_エフィ2: $t3$Wmエフィ|5$w0|$Wmアルム|h$w0|$Wsエフィ|$Wa$SvpV_SC_1_09_ADV3_EFI2_00|$E悲,|そう……$k$p$SvpV_SC_1_09_ADV3_EFI2_01|アルムがそういうなら\n私、ここで待ってるね。$k$p$SvpV_SC_1_09_ADV3_EFI2_02|$E特殊1,|アルムが帰ってくるのを、\nずっと待ってるから……$k
+MID_ADV_C_エフィ仲間入り会話2: $t3$Wmエフィ|5$w0|$Wmアルム|h$w0|$Wsエフィ|$Wa$SvpV_SC_1_09_ADV_EFI_JOIN_CLAMP_1_00|$E通常,|なあに？$k$p$SvpV_SC_1_09_ADV_EFI_JOIN_CLAMP_1_01|いっしょに\nつれていってくれるの？$k
+MID_ADV_C_エフィ仲間入り会話1_セリカ: $t3$Wmエフィ|5$w0|$Wmセリカ|h$w0|$Wsエフィ|$Wa$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_00|$E驚,|えっ……$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_01|セリカ？\nセリカなの？！$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_02|$E笑,|うわあ、久しぶり……！\n会いたかったわ。$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_03|$E通常,|アルムはね、\nいまこの村にはいないの。$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_04|$E特殊1,|私、さびしくって……$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_05|追いかけていこうって\n何度も思ったわ。$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_06|$E悲,|でも、ひとりじゃ\nとても無理よね……$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_07|$Eキメ,|セリカ、あなた\n旅をしているんでしょう？$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_0_08|お願い、私もつれていって！$k
+MID_ADV_C_エフィ_SELECT_セリカ: エフィを仲間にしますか？
+MID_ADV_C_エフィ2_セリカ: $t3$Wmエフィ|5$w0|$Wmセリカ|h$w0|$Wsエフィ|$Wa$SvpV_SC_2_13_ADV1_EFI2_00|$E悲,|そう……$k$p$SvpV_SC_2_13_ADV1_EFI2_01|ごめんね、\n無茶なことをいって。$k$p$SvpV_SC_2_13_ADV1_EFI2_02|$E特殊1,|……もし、もしもだけど\nアルムに会ったら$k$p$SvpV_SC_2_13_ADV1_EFI2_03|私、ずっと待ってるって伝えてね。$k
+MID_ADV_C_エフィ仲間入り会話2_セリカ: $t3$Wmエフィ|5$w0|$Wmセリカ|h$w0|$Wsエフィ|$Wa$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_1_00|$E通常,|なあに？$k$p$SvpV_SC_2_13_ADV_EFI_JOIN_CLAMP_1_01|いっしょに\nつれていってくれるの？$k
+MID_SUB2_1_1: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|最近は作る者がいなくなったが$k$p昔はこの村でも\nうまい葡萄酒が作られていたんだ。$k$p『ラムの葡萄酒』といえば\nバレンシア中の貴族がほしがったもんさ。$k$pもしどこかに\n『ラムの葡萄酒』が残っていれば$k$pいまごろ熟成がすすんで\n最高の味わいになっているに違いない。$k$p死ぬまでにもう一度、\nあれを飲んでみたいなあ……$k
+MID_SUB2_1_確認1: 『ラムの葡萄酒』を渡しますか？
+MID_SUB2_1_2: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|この香り……懐かしい……\nこれはまさしく『ラムの葡萄酒』！$k$pわざわざ探してきてくれたのかい？\nありがとうよ。$k$pこれはわしのとっておきだったんだが\nお前にあげよう。$k
+MID_SUB2_1_確認2: 『青カビチーズ』を受け取った。
+MID_SUB2_1_3: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|そんな……\n意地悪しないでくれよ。$k
+MID_SUB2_2_2: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|『ラムの葡萄酒』が飲みたいなあ……$k
+MID_SUB2_2_1: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|そうだ。\nお礼にいいことを教えてやろう。$k$p盗賊のほこらの左側の壁に沿って進むと\n横穴があって、奥に宝箱が隠されている。$k$pその宝箱の周りに置かれている\n壺のひとつに$k$pわしが若いころに隠した宝物があるんだ。$k$pそのあたりを探してみるといい。\nまだ残っていたらお前にやろう。$k
+MID_SUB2_3: $Z$t1$Wm老人|5$VF隠|$w0|$Ws老人|$Wa$VNMPID_物欲しげな老人|この間は\n『ラムの葡萄酒』をありがとう。$k
+MID_SUB21_1_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_腹を立てる女性|この間、王都へ買い出しに行ったら\n帰る途中で盗賊に襲われてね。$k$pほうほうの体で逃げてきたの。$k$pなんとか無事だったけど、\n荷物をほとんど奪われちゃった。$k$pまったくもう、\nたまったもんじゃないわ。$k$pねえ、お礼するから\nあのろくでなし共を痛めつけてくれない？$k$pそうねえ……\n２０人くらいやってくれたら$k$pこっちの腹の虫も収まるんだけど。$k$pあいつらは、盗賊のほこらを\nアジトにしているはずよ。$k
+MID_SUB21_1_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_腹を立てる女性|盗賊２０人、ボコボコにしてやって！\n頼んだわよ。$k
+MID_SUB21_1_3: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_腹を立てる女性|盗賊２０人、懲らしめてくれたのね！$k$pありがとう。\n胸がすっとしたわ。$k$pこれ、お礼よ。\n受け取って！$k
+MID_SUB21_1_確認: 『生命の木の実』を受け取った。
+MID_SUB21_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_腹を立てる女性|またなにかあったらお願いね。$k

@@ -1,0 +1,14 @@
+MESS_ARCHIVE_ソフィアの北
+
+
+Message Name: Message
+
+
+MID_OP1_1: $t3$Wmアルム|h$w0|$SswSE_EVT_G_HUMAN_RUN1_FLAT|$Wmソルジャー（青）|5$w0|$Wsソルジャー（青）|$Wa$VNMPID_解放軍兵士|$SvpV_SC_3_02_OP1_00|$Eキメ,|報告！\n前方發現利蓋爾軍！$k\n$SbpBGM_EVT_AMB2|0|$Wsアルム|$Wa$E驚,|$SvpV_SC_3_02_OP1_01|…………！$k$p$SvpV_SC_3_02_OP1_02|$E怒,|終於到了與利蓋爾帝國\n戰鬥的時候了……$k\n$Wsソルジャー（青）|$Wd$w0|$Wmルカ|5$w0|$Wsルカ|$Wa$SvpV_SC_3_02_OP1_03|是啊。$k$p$SvpV_SC_3_02_OP1_04|$E怒,|從現在開始可是和\n在索菲亞國內的小規模戰鬥不同。$k$p$SvpV_SC_3_02_OP1_05|是賭上國與國之間威信\n的戰役。$k$p$SvpV_SC_3_02_OP1_06|已經沒有退路了。$k\n$Wsアルム|$Wa$E特殊1,|$SvpV_SC_3_02_OP1_07|嗯……$k\n$Sbs1500|$Sev0|1000|
+MID_OP1_2: $t3$Wmアルム|h$w0|$SspSE_EVT_3_HORSE_NEIGH|$w1800|$Wmフェルナン|5$w0|$SbpBGM_MAP_B_T2|0|$Wsフェルナン|$Wa$SvpV_SC_3_02_OP1_08|你來啦。\n好久不見了，小鬼。$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_02_OP1_09|你、你…！$k\n$Wsフェルナン|$Wd$w0|$Wmフェルナン|3$w0|$Wmクレーベ|7$w0|$Wsクレーベ|$Wa$E驚,汗|$SvpV_SC_3_02_OP1_10|費爾南！？\n為什麼你會在利蓋爾軍……！$k\n$Wsフェルナン|$Wa$SvpV_SC_3_02_OP1_11|克雷貝……$k$p$SvpV_SC_3_02_OP1_12|和你們分開後，\n我曾經一度拋棄了理想。$k$p$SvpV_SC_3_02_OP1_13|$E笑,|不過，我新的理想\n就在利蓋爾帝國中。$k\n$Wsクレーベ|$Wa$E怒,|$SvpV_SC_3_02_OP1_14|你說什麼？\n你知道你在說什麼嗎？費爾南！$k\n$Wsフェルナン|$Wa$SvpV_SC_3_02_OP1_15|$E怒,|國王逝世，索菲亞滅亡了……\n但也不能讓你們為所欲為。$k$p$SvpV_SC_3_02_OP1_16|這次一定要在瓦倫西亞\n建立一個富有秩序的王國！$k$p$SvpV_SC_3_02_OP1_17|透過貝爾克特大人之手！！$k\n$Sev0|1000|
+MID_BT1_1: $t0$Wmフェルナン|0$w0|$Wmクレーベ|6$w0|$Wsフェルナン|$Wa$SvpV_SC_3_02_BT1_08|$Eキメ,|$p這是來自熟識瑪伊森之人\n的有利情報。$k$p$SvpV_SC_3_02_BT1_09|說那傢伙沒有親人。$k$p$SvpV_SC_3_02_BT1_10|$E笑,|老傢伙為了撫慰自己\n才收留了孤兒吧。$k\n$Wsクレーベ|$Wa$SvpV_SC_3_02_BT1_11|$E悲,|$p怎麼會……！$k$p$SvpV_SC_3_02_BT1_12|$p不過……\n話說回來，那個老人也……$k\n$Wsフェルナン|$Wa$SvpV_SC_3_02_BT1_13|$E笑,|哈哈哈哈！\n太好笑了，克雷貝。$k$p$SvpV_SC_3_02_BT1_14|比誰都還在意索菲亞\n貴族血統的你$k$p$SvpV_SC_3_02_BT1_15|竟然會承認那無名小卒的\n小子為王，並為他戰鬥！$k\n$Wsクレーベ|$Wa$E苦,|$SvpV_SC_3_02_BT1_16|唔……！！$k\n$Sbs750|
+MID_BT2: $t0$Wmフェルナン|0$w0|$Wsフェルナン|$Wa$SvpV_SC_3_02_BT2_00|$E笑,|快，來吧。$k$p$SvpV_SC_3_02_BT2_01|$E怒,|我才不會輸給\n卑賤的你們！$k
+MID_BOSS_DIE1: $t0$Wmフェルナン|0$w0|$Wsフェルナン|$Wa$SvpV_SC_3_02_BOSS_DIE1_00|$E苦,汗|可惡……！$k$p$SvpV_SC_3_02_BOSS_DIE1_01|沒辦法，撤退吧。$k$p$SvpV_SC_3_02_BOSS_DIE1_02|前去和貝爾克特大人的\n主隊會合！$k
+MID_BT3: $t0$Wmザクソン|0$w0|$Wsザクソン|$Wa$SvpV_SC_3_13_BT1_00|$E怒,|那些不要命的傢伙\n又大搖大擺地朝這裡過來了……$k$p$SvpV_SC_3_13_BT1_01|讓他們嚐嚐\n我們恐怖的滋味吧！$k
+MID_BOSS_DIE2: $t0$Wmザクソン|0$w0|$Wsザクソン|$Wa$SvpV_SC_3_13_BOSS_DIE_00|$E苦,|我……\n……怎麼會……$k$p$SvpV_SC_3_13_BOSS_DIE_01|被這些傢伙……！$k
+MID_ED: $t3$Wmアルム|h$w0|$Wmクレーベ|5$w0|$Wsアルム|$Wa$SvpV_SC_3_02_ED_00|$E苦,|好不容易獲勝了……$k$p$SvpV_SC_3_02_ED_01|但那些傢伙\n說要和主隊會合。$k$p$SvpV_SC_3_02_ED_02|$E怒,|仍然不能大意呢。\n對吧，克雷貝？$k\n$SbpBGM_EVT_FEAR|0|$Wsクレーベ|$Wa$E悲,|$SvpV_SC_3_02_ED_03|喔，是啊……$k\n$Wsアルム|$Wa$E驚,|$SvpV_SC_3_02_ED_04|你怎麼了？\n臉色很差耶。$k$p$SvpV_SC_3_02_ED_05|啊……$k$p$SvpV_SC_3_02_ED_06|$E悲,|喔，是因為費爾南的事……$k\n$Wsクレーベ|$Wa$SvpV_SC_3_02_ED_07|……不。\n也算是……$k$p$SvpV_SC_3_02_ED_08|$E通常,|總之，\n這不是你該擔心的事。$k$p$SvpV_SC_3_02_ED_09|我先離開了。\n………………$k\n$Wsクレーベ|$Wd$w0|$SspSE_EVT_4_HUMAN_WALK1_FLAT|$w1500|$Wsアルム|$Wa$E驚,|$SvpV_SC_3_02_ED_10|克雷貝……？$k\n$Sbs2000|$Sev0|2000|

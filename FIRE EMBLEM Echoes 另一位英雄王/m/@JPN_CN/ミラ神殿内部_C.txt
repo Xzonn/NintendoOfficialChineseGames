@@ -1,0 +1,26 @@
+MESS_ARCHIVE_ミラ神殿内部_C
+
+
+Message Name: Message
+
+
+MID_ADV_C_ノーマ1: $Sbs1000|$t3$Wmセリカ|h$w0|$Wmノーマ|5$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV1_NORMA1_00|$E笑,|哦，赛莉卡！\n你没事啊。$k\n$SbpBGM_MAP_D_CHURCH|0|$Wsセリカ|$Wa$E驚,|$SvpV_SC_4_18_ADV1_NORMA1_01|诺玛大人！？$k$p$SvpV_SC_4_18_ADV1_NORMA1_02|您怎么会在这里？$k\n$Wsノーマ|$Wa$E通常,|$SvpV_SC_4_18_ADV1_NORMA1_03|因为……\n老夫还是放心不下你啊。$k$p$SvpV_SC_4_18_ADV1_NORMA1_04|所以就追到这个地方来了，\n但这个神殿实在太大了，$k$p$SvpV_SC_4_18_ADV1_NORMA1_05|$E笑,|不小心就迷路了。\n哈哈哈……$k\n$Wsセリカ|$Wa$E笑,|$SvpV_SC_4_18_ADV1_NORMA1_06|那真是辛苦您了……\n还好您平安无事。$k\n$Wsノーマ|$Wa$E通常,|$SvpV_SC_4_18_ADV1_NORMA1_07|嗯。\n怎么样，赛莉卡。$k$p$SvpV_SC_4_18_ADV1_NORMA1_08|接下来，\n我也跟你一起去吧。$k\n$Sbs2000|
+MID_ADV_C_ノーマ_SELECT: 要让诺玛成为伙伴吗？
+MID_ADV_C_ノーマ2: $SbpBGM_EVT_DESTINY_A|2000|$t3$Wmノーマ|5$w0|$Wmセリカ|h$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV1_NORMA2_00|$E悲,|是吗……\n太可惜了。$k$p$SvpV_SC_4_18_ADV1_NORMA2_01|我觉得自己还宝刀未老啊……$k
+MID_ADV2_C_ノーマ: $t3$Wmノーマ|5$w0|$Wmセリカ|h$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV2_NORMA_00|$E通常,|哦哦，怎么？$k$p$SvpV_SC_4_18_ADV2_NORMA_01|我不在，\n你还是会觉得很不安吗？$k
+MID_SUB19_1_1: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|啊……该怎么办才好……$k$p我把重要的“银盘”\n掉进水沟里了。$k$p那是米拉大人最喜欢的东西……$k$p要是大人回来前没有找到，\n她一定会不高兴的。$k$p啊，可是该怎么办才好……$k
+MID_SUB19_1_確認1: 要给她“银盘”吗？
+MID_SUB19_1_2: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|谢谢你！\n太好了……$k$p这是谢礼。\n请你收下。$k
+MID_SUB19_1_確認2: 获得“琼浆玉液”。
+MID_SUB19_1_3: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|如果你看到“银盘”，\n请通知我……$k
+MID_SUB19_1_4: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|如果你看到“银盘”，\n请通知我……$k
+MID_SUB19_1_5: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|那……那不就是我掉进水沟的、\n米拉大人的“银盘”吗……！？$k$p那是米拉大人很爱惜的、\n重要的东西。$k$p拜托你，\n请你还给我……！$k
+MID_SUB19_1_6: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|怎么这样……！$k
+MID_SUB19_2_1: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|啊，怎么办……\n米拉大人的“银盘”掉进水沟了……$k
+MID_SUB31_1_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_うろたえる婦人|我为了寻求女儿生病的解药，\n千里迢迢来到这座神殿。$k$p但神殿已被破坏，\n看来是没有解药了……$k$p不管等多久\n都无法与米拉大人见上一面。$k$p听说仙灵草做的“药草糖浆”$k$p对我女儿的病十分有效。$k$p能不能有办法拿到那个东西呢……$k
+MID_SUB31_1_確認1: 要给她“药草糖浆”吗？
+MID_SUB31_1_2: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_うろたえる婦人|这就是……\n“药草糖浆”吗……！？$k$p你愿意给我吗？\n太感激你了……！$k$p这样一来，我女儿一定可以痊愈的。\n太好了……$k$p这是一点儿小心意。\n请你收下。$k
+MID_SUB31_1_確認2: 你接受了“30枚银币”。
+MID_SUB31_1_確認3: 狼狈的妇人离开了。
+MID_SUB31_1_3: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_うろたえる婦人|是啊……\n毕竟那很珍贵……$k
+MID_SUB31_2_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_うろたえる婦人|唉，一想到我耗在这里的时间，\n女儿也痛苦不堪，我就……$k$p有没有办法得到“药草糖浆”呢……$k

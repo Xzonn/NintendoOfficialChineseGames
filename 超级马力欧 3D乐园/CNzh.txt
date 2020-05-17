@@ -1,0 +1,210 @@
+LayoutMessage_decomp_szs\ButtonItemStock.msbt
+ButtonItemStock_NoItem	无物品
+LayoutMessage_decomp_szs\CourseSelectBG.msbt
+CourseSelectBG_Home	按\ue073返回HOME菜单
+CourseSelectBG_BestTime	我的最快时间
+CourseSelectBG_RivalTime	对手的时间
+LayoutMessage_decomp_szs\FileInfo.msbt
+FileInfo_Effort	再挑战次数
+FileInfo_Button1	复制
+FileInfo_Button3	删除
+LayoutMessage_decomp_szs\FileSelect.msbt
+FileSelect_New	新游戏
+LayoutMessage_decomp_szs\GameOneUp.msbt
+GameOneUp_OneUp	1UP
+LayoutMessage_decomp_szs\GameOverMenu.msbt
+GameOverMenu_Button1	继续游戏
+GameOverMenu_Button2	退出游戏
+LayoutMessage_decomp_szs\GameTelescope.msbt
+GameTelescope_LGuide	缩小
+GameTelescope_RGuide	放大
+LayoutMessage_decomp_szs\GameTelescopeArrow.msbt
+GameTelescopeArrow_Goal	终点
+LayoutMessage_decomp_szs\HeadCopy.msbt
+HeadCopy_Copy	复制
+LayoutMessage_decomp_szs\HeadCourseClear.msbt
+HeadCourseClear_Clear	通过关卡！
+LayoutMessage_decomp_szs\HeadDelete.msbt
+HeadDelete_Delete	删除
+LayoutMessage_decomp_szs\HeadGameOver.msbt
+HeadGameOver_GameOver	游戏结束
+LayoutMessage_decomp_szs\HeadMiss.msbt
+HeadMiss_Miss	失误！
+LayoutMessage_decomp_szs\HeadPause.msbt
+HeadPause_Pause	暂停
+LayoutMessage_decomp_szs\HeadTimeUp.msbt
+HeadTimeUp_TimeUp	时间到！
+LayoutMessage_decomp_szs\PauseMenu.msbt
+PauseMenu_Button1	继续
+PauseMenu_Button2	关卡选择
+PauseMenu_Button3	退出游戏
+LayoutMessage_decomp_szs\PauseMenuMap.msbt
+PauseMenuMap_Button1	继续
+PauseMenuMap_Button2	保存后退出游戏
+LayoutMessage_decomp_szs\PhotoAlbumMenu.msbt
+PhotoAlbumMenu_Save	保存到SD卡
+LayoutMessage_decomp_szs\StaffRollFin.msbt
+StaffRollFin_Fin	终
+LayoutMessage_decomp_szs\StaffRollNintendo.msbt
+StaffRollNintendo_Nintendo	Nintendo is the author of this software\nfor the purpose of copyright. All rights reserved.\n\xa9 2011-2012 Nintendo.
+LayoutMessage_decomp_szs\TitleLogo.msbt
+TitleLogo_Nintendo	\xa9 2011-2012 Nintendo
+LayoutMessage_decomp_szs\TitleStart.msbt
+TitleStart_Home	按\ue073返回HOME菜单
+TitleStart_Move	移动
+TitleStart_Crouch	下蹲
+TitleStart_Jump	跳
+TitleStart_Dash	冲
+TitleStart_StartA	请按$
+TitleStart_Guide	按 \ue002 \ue005也能进行相同操作 
+TitleStart_Button2	开始游戏
+LayoutMessage_decomp_szs\TrialDemoTitle.msbt
+TrialDemoTitle_Demo	体验版
+LayoutMessage_decomp_szs\TrialGyroAttention.msbt
+TrialGyroAttention_Gyro	因为有线连接在主机上，\n所以请小心使用，\n不要用力拉扯，\n或进行剧烈动作。
+LayoutMessage_decomp_szs\TrialPlayGuide.msbt
+TrialPlayGuide_Dash	冲
+TrialPlayGuide_Jump	跳
+TrialPlayGuide_Crouch	下蹲
+TrialPlayGuide_Move	移动
+LayoutMessage_decomp_szs\TrialThankYou.msbt
+TrialThankYou_ThankYou	感谢您的游玩！
+LayoutMessage_decomp_szs\TrialTitleStart.msbt
+TrialTitleStart_Move	移动
+TrialTitleStart_Crouch	下蹲
+TrialTitleStart_Jump	跳
+TrialTitleStart_Dash	冲
+TrialTitleStart_Guide	按 \ue002 \ue005也能进行相同操作 
+TrialTitleStart_Home	按\ue073返回HOME菜单
+TrialTitleStart_StartA	请按$
+TrialTitleStart_Button2	开始游戏
+LayoutMessage_decomp_szs\WindowInterval.msbt
+WindowInterval_Interval	　在感到疲劳之前，\n　先休息一下吧。
+LayoutMessage_decomp_szs\WindowSave.msbt
+WindowSave_Save	保存完毕
+LayoutMessage_decomp_szs\WipeCurtain.msbt
+WipeCurtain_BestTime	我的最快时间
+WipeCurtain_ClearTime	过关时间
+SystemMessage_decomp_szs\ButtonMessage.msbt
+WindowConfirmSingle_OK	 OK
+SystemMessage_decomp_szs\CourseSelect.msbt
+AppearSpecialDokan	可以通过水管\n　前往\x0e\0\x03\x02\x01\0特别世界\x0e\0\x03\x02\xff\xff了。
+AppearLuigi	　可以和 \x0e\x01\x02\x02T\0\x0e\0\x03\x02\x01\0 替换\x0e\0\x03\x02\xff\xff了。\n　请\x0e\0\x03\x02\x03\0点触\x0e\0\x03\x02\xff\xff下屏幕的 \x0e\x01\x15\x02d\0 。
+WorldButton	如果按\x0e\0\x03\x02\x01\0下屏幕的世界键\x0e\0\x03\x02\xff\xff\n就可以移动到\n　至今所玩过的世界中。
+SystemMessage_decomp_szs\FileCopy.msbt
+FileCopy	要复制这个文件吗？
+FileCopy_Yes	 复制
+FileCopy_No	\ue001 取消
+SystemMessage_decomp_szs\FileRemove.msbt
+FileRemove	要删除这个文件吗？
+FileRemove_Yes	 删除
+FileRemove_No	\ue001 取消
+SystemMessage_decomp_szs\FileRemoveAll00.msbt
+FileRemoveAll00	要删除所有\n\x0e\x04\0\0的\n保存数据吗？
+FileRemoveAll00_Yes	 删除
+FileRemoveAll00_No	\ue001 取消
+SystemMessage_decomp_szs\FileRemoveAll01.msbt
+FileRemoveAll01	删除的保存数据\n　会完全丢失。\n\n确定要删除保存数据吗？
+FileRemoveAll01_Yes	 删除
+FileRemoveAll01_No	\ue001 取消
+SystemMessage_decomp_szs\FileReplace.msbt
+FileReplace	要复制并替换这个文件吗？
+FileReplace_Yes	 复制
+FileReplace_No	\ue001 取消
+SystemMessage_decomp_szs\FileSelectMenu.msbt
+FileSelectMenu_Select	请选择文件。
+FileSelectMenu_Copy	要复制到哪里？
+SystemMessage_decomp_szs\GameOverHint.msbt
+Leaf	欢迎来到提示房间！\x0e\0\x04\0如果用 \x0e\x01\x0d\x02t\0 变身后按住\ue001\n就能够\x0e\0\x03\x02\x01\0慢慢落下\x0e\0\x03\x02\xff\xff！\x0e\0\x04\0啊……\n您已经知道了吗？
+Fire	用 \x0e\x01\x0f\x02v\0 变身后\n按\ue003扔出\x0e\0\x03\x02\x01\0火球\x0e\0\x03\x02\xff\xff！
+Dash	如果按住\ue003\n就能\x0e\0\x03\x02\x01\0冲\x0e\0\x03\x02\xff\xff着跑喔！
+TailAttack	用 \x0e\x01\x0d\x02t\0 变身后\n按\ue003就可以\x0e\0\x03\x02\x01\0甩动尾巴\x0e\0\x03\x02\xff\xff击倒敌人！
+DashJump	如果在冲的时候按\ue001 \n　就可以\x0e\0\x03\x02\x01\0跳得更高更远\x0e\0\x03\x02\xff\xff。
+ItemStock	如果\x0e\0\x03\x02\x03\0下屏幕有物品\x0e\0\x03\x02\xff\xff放入\n可以通过\x0e\0\x03\x02\x01\0点触\x0e\0\x03\x02\xff\xff取出喔！
+Kinoko	　跳了之后\x0e\0\x03\x02\x01\0确认地面的影子\x0e\0\x03\x02\xff\xff。\n　便于登在平台上或踩敌人。
+Revival	如果找到了\x0e\0\x03\x02\x01\0奇诺比奥的家\x0e\0\x03\x02\xff\xff\n　请务必顺路去一趟喔。\x0e\0\x04\0　顺便说一下，\n曾经拜访过一次\x0e\0\x03\x02\x01\0奇诺比奥的家\x0e\0\x03\x02\xff\xff\n　在\x0e\0\x03\x02\x03\0游戏结束后也会复活\x0e\0\x03\x02\xff\xff。
+Squat	　如果按住\ue004行走就可以\x0e\0\x03\x02\x01\0蹲着行走\x0e\0\x03\x02\xff\xff。\n连狭窄的地方也进得去！
+Roll	按\ue004蹲下后如果按\ue003\n就可以\x0e\0\x03\x02\x01\0翻滚\x0e\0\x03\x02\xff\xff！
+SystemMessage_decomp_szs\GameOverPlayGuide.msbt
+Leaf	\x0e\0\x03\x02\x01\0慢慢落下\x0e\0\x03\x02\xff\xff\n在空中 \ue001
+Fire	\x0e\0\x03\x02\x01\0火球\x0e\0\x03\x02\xff\xff\n\ue003
+Dash	\x0e\0\x03\x02\x01\0冲\x0e\0\x03\x02\xff\xff\n\ue077 + \ue003
+TailAttack	\x0e\0\x03\x02\x01\0甩动尾巴\n\x0e\0\x03\x02\xff\xff\ue003
+DashJump	\x0e\0\x03\x02\x01\0跳得更高更远\x0e\0\x03\x02\xff\xff\n冲 + \ue001
+ItemStock	\x0e\0\x03\x02\x01\0物品储备\x0e\0\x03\x02\xff\xff\n点触下屏幕的物品
+Kinoko	\x0e\0\x03\x02\x01\0通过平台的诀窍\x0e\0\x03\x02\xff\xff\n注意地面的影子
+Squat	\x0e\0\x03\x02\x01\0蹲着行走\x0e\0\x03\x02\xff\xff\n\ue077 + \ue004
+Roll	\x0e\0\x03\x02\x01\0翻滚\x0e\0\x03\x02\xff\xff\n\ue004 + \ue003
+SystemMessage_decomp_szs\GoBackCourseSelect.msbt
+GoBackCourseSelect	要返回关卡选择吗？
+GoBackCourseSelect_Yes	 OK
+GoBackCourseSelect_No	\ue001 取消
+SystemMessage_decomp_szs\GoBackTitle.msbt
+GoBackTitle	要返回标题画面吗？
+GoBackTitle_Yes	 OK
+GoBackTitle_No	\ue001 取消
+SystemMessage_decomp_szs\GuideLine.msbt
+SaveData_Save	正在保存……
+SaveData_Copy	正在复制……
+SaveData_Delete	正在删除……
+Save_01	由于保存数据已损坏，\n因此重新创建。
+Save_02	无法读取保存数据。\n请关闭电源，\n重新插卡。
+SDCard_00	无法识别SD卡。
+SDCard_01	SD卡没有插入。
+SDCard_02	SD卡已被写保护。
+SDCard_03	SD卡的剩余空间不足。
+SDCard_04	SD卡的相片已满，\n无法保存。
+SDCard_05	插入SD卡槽的设备\n无法使用。
+SDCard_06	SD卡处理失败。
+SDCard_07	SD卡已拔出。
+Mii_00	由于Mii工作室的保存数据\n已损坏，因此进行了初始化。
+PhotoAlbum_Save	正在保存……
+SystemMessage_decomp_szs\KinopioHouse.msbt
+KinopioHouse_Present	欢迎来到奇诺比奥的家！\x0e\0\x04\0　有\x0e\0\x03\x02\x01\0礼物\x0e\0\x03\x02\xff\xff送来了。\n享受其中的乐趣吧！
+KinopioHouse_Album	欢迎来到奇诺比奥的家！\x0e\0\x04\0　\x0e\0\x03\x02\x01\0相册\x0e\0\x03\x02\xff\xff已经准备好了。\n可以的话请来欣赏！
+KinopioHouse_PresentCount	这个Mii\n　送来了\x0e\0\x03\x02\x01\0第\x0e\x03\0\x04\0\0\0\0次的礼物\x0e\0\x03\x02\xff\xff。
+KinopioHouse_PresentMax	因为和这个Mii瞬缘过很多次\n所以收到了\x0e\0\x03\x02\x01\0豪华的礼物\x0e\0\x03\x02\xff\xff！
+SystemMessage_decomp_szs\MysteryBox.msbt
+MysteryBox_Introduce	欢迎来到\x0e\0\x03\x02\x01\0神秘箱\x0e\0\x03\x02\xff\xff！\x0e\0\x04\0在\x0e\0\x03\x02\x01\0限定时间内\x0e\0\x03\x02\xff\xff获得物品吧！\n这也是获得 \x0e\x01\x12\x02C\0 的机会？！\x0e\0\x04\0那么，请！！
+MysteryBox_StreetPassExplain	已经得到\x0e\0\x03\x02\x03\0星星奖章\x0e\0\x03\x02\xff\xff \x0e\x01\x12\x02C\0 了吗？\x0e\0\x04\0　顺便说一下，\n　如果进行\x0e\0\x03\x02\x02\0瞬缘连接\x0e\0\x03\x02\xff\xff，\x0e\0\x04\0下次开始时玩过的\x0e\0\x03\x02\x01\0神秘箱\x0e\0\x03\x02\xff\xff就能\n　和你的Mii一起被送给对方。\x0e\0\x04\0也许还会从瞬缘的人那里\n　得到没见过的\x0e\0\x03\x02\x01\0神秘箱\x0e\0\x03\x02\xff\xff。\x0e\0\x04\0　……那么，\n期待下次吧！
+SystemMessage_decomp_szs\NumberFormat.msbt
+DateTime	\x0e\x03\x03\x04\0\0\0\0/\x0e\x03\x01\x04\x01\0\0\0/\x0e\x03\x01\x04\x02\0\0\0 \x0e\x03\x01\x04\x03\0\0\0:\x0e\x03\x01\x04\x04\0\0\0
+SystemMessage_decomp_szs\PatapataWing.msbt
+PatapataWing_Introduce	如果使用 \x0e\x01\t\x02p\0\n　可以一口气飞到\x0e\0\x03\x02\x03\0终点旗杆\x0e\0\x03\x02\xff\xff。\n想使用的话，\x0e\0\x03\x02\x01\0点触下屏幕\x0e\0\x03\x02\xff\xff！
+SystemMessage_decomp_szs\PatapataWingConfirm.msbt
+PatapataWingConfirm	　使用 \x0e\x01\t\x02p\0 飞到\x0e\0\x03\x02\x03\0终点旗杆\x0e\0\x03\x02\xff\xff。\n可以吗？
+PatapataWingConfirm_Yes	 飞
+PatapataWingConfirm_No	\ue001 不飞
+SystemMessage_decomp_szs\ReplaceMessage.msbt
+TitleName	超级马力欧 3D乐园
+SystemMessage_decomp_szs\StaffRoll.msbt
+StaffRollString	@GENERAL PRODUCERS\nShigeru Miyamoto\nTakashi Tezuka\n\n@PRODUCER\nYoshiaki Koizumi \n\n@DIRECTOR\nKoichi Hayashida \n\n@STAFF\nAkiko Kato\nAkitoshi Yahiro\nAsuka Hayazaki\nAtsushi Yamaguchi \nDaisuke Ito \nDaisuke Tsujimura \nDaisuke Watanabe \nFumiya Suto\nFutoshi Shirai \nGen Kadoi\nHaruka Kakinuma \nHideyuki Sugawara \nHideyuki Tatsuta\nHiroaki Hishinuma\nHirokazu Matsuda\nHironobu Kakui \nIlho Kim\nJonghoon Park\nJun Ishioka\nKatsuyasu Ando \nKazuhiro Musa\nKazumi Yamaguchi \nKazunori Hashimoto \nKenta Motokura \nKimiharu Hyodo\nKimiko Nakamichi\nKiyoshi Takeuchi \nKunihito Ihara \nMahito Yokota \nMakoto Yonezu \nManabu Matumoto\nMasaki Yokobe \nMasayuki Kawakita \nMayako Sugimoto \nMegumi Shichida\nMio Kikuchi\nMitsuo Iwamoto\nMomo Sasaki\nNaoki Koga \nNaoki Mineta\nNaoki Takami\nNorihiro Aoyagi \nRikuto Yoshida \nSatoshi Miyama \nShigehisa Nakaue\nShigetoshi Gohara \nShinya Hiratake \nSho Murata \nTadashi Tanaka \nTakehiro Oyama\nTakeshi Hama\nTakeshi Hayakawa\nTatsuro Ota \nTetsuya Kobayashi \nToshiya Shinohara\nTsuyoshi Watanabe \nYasuhiko Matsuzaki \nYasuo Kumakura \nYo Ohnishi\nYoko Honma\nYoshito Yasuda \nYuichi Iwasa\nYuki Tsuji\nYusuke Kitazono\nYusuke Nakano\nYuya Takezawa \n\nBrownie Brown Inc.\nDIGITALSCAPE Co., Ltd. \nMario Club Co., Ltd. \nDIGITAL Hearts Co., Ltd. \n\n@NOK STAFF\nDongyeon Kim\nHyokjin Jung\nJiyoung Shin\nMoonsoo Chang\nSiyoung An\nYu Fukaya\n\n@iQue STAFF\nChen Wei\nPeng Yi\nShin'ichi Sasamoto\nXu Jie\nZhang Xi\n\n@NPC/NHL STAFF\nKirsty Wong\nLin Hui-Jung\nLiu Tzu-Yun\nSung Ching-Yun\nTsai Yi-Chen\n\n@SPECIAL THANKS\nDaiki Nishioka\nHideaki Shimizu \nHirokazu Matsui\nHiroshi Arai \nKaoru Sato \nKeisuke Matsui \nKeizo Kato \nKoji Kondo\nTakao Shimizu \nYuki Ijiri\n\nNintendo Tokyo Office \nAll EAD \n\n@EXECUTIVE PRODUCER\nSatoru Iwata 
+SystemMessage_decomp_szs\StreetPassConfig.msbt
+StreetPass_BoxTitle	\x0e\x04\0\0
+StreetPass_MessageInfo	神秘箱送到了。
+SystemMessage_decomp_szs\StreetPassSetting.msbt
+StreetPassSetting	要添加这个软件的\n瞬缘连接吗？
+StreetPassSetting_Yes	 要
+StreetPassSetting_No	\ue001 不要
+SystemMessage_decomp_szs\WindowConfirmSingleMessage.msbt
+FileCopyResult	　复制完毕。
+FileRemoveResult	　文件删除完毕。
+FileReplaceResult	　复制并替换完毕。
+FileCreateResult	　文件创建完毕。
+NotCreatedMyMii	　因为没有可使用的Mii，\n　所以使用\x0e\0\x03\x02\x01\0替代的Mii\x0e\0\x03\x02\xff\xff。\n　新的Mii可以在Mii工作室制作。
+PhotoAlbumImageSaved	　已保存到SD卡。\n\n已保存的图像可以在\n　iQue 3DS趣照里查看。
+StreetPassBegin00	欢迎来到\n\x0e\x04\0\0
+StreetPassBegin01	在开始游戏之前\n　有条通知。\n\n在\x0e\x04\0\0里\n　可以进行瞬缘连接。
+StreetPassBegin02	如果进行瞬缘连接\n就能从瞬缘到的人那里\n　收到礼物。
+StreetPassDisable	　没有添加瞬缘连接。\n\n瞬缘连接在标题画面里\n　随时都可以添加。
+StreetPassMessageBoxFull	无法再往主机中\n　添加更多的瞬缘连接了。\n请在主机设置的\n　“瞬缘连接管理”里，\n　结束其他软件的瞬缘连接。
+StreetPassNotAvailable	　瞬缘连接无法使用。
+StreetPassParentalLock	由于“和其他用户的瞬缘连接”\n　受到了监护人的限制，\n　因此无法使用瞬缘连接。
+StreetPassSuccess	　已添加瞬缘连接。\n\n即使在没有玩该游戏的时候\n　瞬缘连接也会自动进行。
+FileRemoveAllResult	　所有保存数据删除完毕。
+StreetPassWireless	　要想进行瞬缘连接，\n请拨动无线开关\n　“开启”无线连接功能。
+SystemMessage_decomp_szs\WorldString.msbt
+World	世界
+Special	特别
+WorldShort	W
+SpecialShort	S

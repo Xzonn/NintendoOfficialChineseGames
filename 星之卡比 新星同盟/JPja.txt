@@ -1,0 +1,2566 @@
+Arena.msbt
+BtnBack	もどる
+BtnNext	けってい
+DialogControllerConnectConfirmMessage	せつぞく されている\n{c[fe9a10]}コントローラーの かず{c[000000]}が たりません。
+DialogDeleteRankingHighScoreMessage	The アルティメットチョイスの\n{c[fe9a10]}スコア{c[000000]}の きろくを {c[fe9a10]}すべてリセット{c[000000]}します。\nほんとうに よろしいですか？
+DialogBackConfirmMessage	{c[fe9a10]}キャラクターチョイス{c[000000]}を やめて\n\x0e\0\0\x08\x02\0\x04\0~0H0前の がめんへ もどりますか？
+DialogTutorialTitle_00	The アルティメットチョイス！
+DialogTutorialText_00	つぎつぎと あらわれる {c[fe9a10]}ボスキャラ{c[000000]}たちを\nすべてたおし {c[fe9a10]}ハイスコア{c[000000]}を めざすんだ！
+DialogTutorialTitle_01	おこのみの{c[fe9a10]}キャラクター{c[000000]}を チョイス！
+DialogTutorialText_01	キャラクターを チョイスせよ！\nいどむフレンズの {c[fe9a10]}メンバーも えらべるぞ。{c[000000]}\nきめた メンバーは \x0e\0\0\x06\x02\0\x02\0K0変えられない！
+DialogTutorialTitle_02	おこのみの{c[fe9a10]}なんいど{c[000000]}を チョイス！
+DialogTutorialText_02	いどむ{c[fe9a10]}なんいど{c[000000]}も \x0e\0\0\n\x04\0\x06\0X0\x860F0自由に チョイス！\n{c[fe9a10]}むずかしい{c[000000]}ほど スコアもアップする。\nきゅうきょくの せんたくで {c[fe9a10]}\x0e\0\0\x0c\x04\0\x08\0W0\x870F0\x8a0勝利をつかめ！{c[000000]}
+DialogSpecialHelperTitle	ドリームフレンズ とうじょう！
+DialogSpecialHelperText	キャラクターチョイスで {c[fe9a10]}ドリームフレンズ{c[000000]}を\nえらべる ようになった！\nあらたな チョイスで {c[fe9a10]}\x0e\0\0\x0c\x04\0\x08\0W0\x870F0\x8a0勝利を つかめ！{c[000000]}
+DialogAbilityAllClear01	おのれの\x0e\0\0\x06\x02\0\x02\0f0手で {c[fe9a10]}すべての キャラクター{c[000000]}を\nチョイスし、アルティメットな\nバトルに {c[fe9a10]}みごと\x0e\0\0\x0c\x04\0\x08\0W0\x870F0\x8a0勝利した！！{c[000000]}
+DialogLocked	The アルティメットチョイスを\n{c[fe9a10]}いちど クリア{c[000000]}すると\nえらべるように なるぞ！
+$TitleClose	もどる
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+TitleStartBtn	スタート
+TitleHighScoreBtn	ランキング
+TitleTutorialBtn	あそびかた
+MemberNumHeader	プレイヤーにんずう
+ArenaMemberNumBtn	{s[150]}\x0e\x03\x01\0{s[100]}人
+CharaSelectHeader	キャラクターチョイス
+CharaSelectSinglePlay	ひとりで
+CharaSelectMultiPlay	ともだちと
+CharaSelectAbilityName	\x0e\x03\x05\0
+CharaSelectAbilityHighScore	\x0e\x03\x05\0\nハイスコア
+CharaSelectDifficulty	\x0e\x03\x06\0
+ScorePanelDifficultyText	\x0e\x03\x06\0
+$CharaSelStartBtn	スタート
+LevelSelectHeader	なんいどチョイス
+LevelSelectConfirmBtn	スタート
+LevelSelectConfirmText0	たいらげちゃえっ\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}を、いただきまーす！
+LevelSelectConfirmText1	\x0e\0\0\n\x04\0\x06\0f0T0\x8f0手強くなるぞ!\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}を、ペロリ\x0e\0\0\x0e\x04\0\n\0K0\x930W0\x870O0完食せよ！
+LevelSelectConfirmText2	\x0e\0\0\x0c\x04\0\x08\0R0\x930K0D0限界を チョイス！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}に、いどむがいい!!
+LevelSelectConfirmText3	\x0e\0\0\n\x02\0\x06\0a0\x870F0超・\x0e\0\0\x08\x02\0\x04\0U0D0最・\x0e\0\0\n\x02\0\x06\0W0\x850F0終・\x0e\0\0\x08\x02\0\x04\0Q0c0決・\x0e\0\0\x08\x02\0\x04\0[0\x930戦!!\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}へ…アルティメットチョイス!!
+$LvSelIllustPieceText	ごほうび
+$LvSelLv8Text	Secret
+LvSelLvNameText	\x0e\x03\x06\0
+$LvSelBattleText	バトル
+LvSelBattleNumSecret	??
+HighScoreHeader	ランキング
+HighScoreSinglePlayHeader	ひとりで
+HighScoreMultiPlayHeader	ともだちと
+$HelperHeroChangeText	\x0e\x04\x02\x02\x02\0フレンズきりかえ
+$HighScoreDetailText	\x0e\x04\x03\x02\x03\0くわしく
+$RecordDelete	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0きろくをけす
+ResultWinCaption0	\x0e\0\0\x0c\x04\0\x08\0W0\x870F0\x8a0勝利！
+ResultWinCaption1	\x0e\0\0\x10\x06\0\x0c\0`0D0W0\x870F0\x8a0大勝利！
+ResultWinCaption2	\x0e\0\0\x18\x08\0\x14\0M0\x850F0M0\x870O0W0\x870F0\x8a0究極勝利!!
+ResultWinDifficultyName	\x0e\x03\x06\0
+ResultWinClearBonus	＋クリアボーナス \x0e\x03\x01\0
+ResultLoseCaption	カイショウナシ…
+ResultLoseCaption2	みちはながいぞ…
+ResultLoseCaption3	あとちょっと！
+ResultLoseBtnRetry	もういちど
+ResultLoseBtnQuit	おわる
+ResultLoseHighScoreSingle	ひとりで ランキング
+ResultLoseHighScoreMulti	ともだちと ランキング
+$ArenaBonusText	タイムボーナス
+$ArenaStepNextBoss	NEXT
+ArenaStepBattleRemaining	あと{s[150]}\x0e\x03\x01\0{s[100]}\x0e\0\0\x08\x02\0\x04\0[0\x930戦
+ArenaStepBattleRemainingQuestion	あと{s[150]}\x0e\x03\x01\0{s[100]}\x0e\0\0\x08\x02\0\x04\0[0\x930戦？
+ArenaStepLvName	\x0e\x03\x06\0
+$ArenaLvSelHighScore	ハイスコア
+$LvSelBestHighScore	ベスト\nハイスコア
+BossClear.msbt
+DialogSpecialHelperUnlockLv1_Title	ドリームフレンズ デデデ大王
+DialogSpecialHelperUnlockLv1	ドリームフレンズ {c[fe9a10]}デデデ\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王{c[000000]}が\nよびだせる ようになった！\n{c[fe9a10]}ドリームしんでん{c[000000]}へ \x0e\0\0\x06\x02\0\x02\0D0行ってみよう！
+DialogSpecialHelperUnlockLv1DLC_Title	{c[fe9a10]}アップデートで \x0e\0\0\n\x04\0\x06\0d0D0K0追加{c[000000]}された ドリームフレンズ
+DialogSpecialHelperUnlockLv1DLC	ゆめの あのメンバーも しゅうけつ！\n{c[fe9a10]}アドレーヌ＆リボン、ダークメタナイト、ドロッチェ{c[000000]}も\nよびだせる ようになった！
+DialogSpecialHelperUnlockLv2_Title	ドリームフレンズ メタナイト
+DialogSpecialHelperUnlockLv2	ドリームフレンズ {c[fe9a10]}メタナイト{c[000000]}が\nよびだせる ようになった！\n{c[fe9a10]}ドリームしんでん{c[000000]}へ \x0e\0\0\x06\x02\0\x02\0D0行ってみよう！
+Cmn.msbt
+DialogWindowYes	はい
+DialogWindowNo	いいえ
+DialogWindowOK	OK
+DialogTutorialSnsShareTitle_00	ベストタイムを {c[fe9a10]}SNS{c[000000]}に とうこう しよう！
+DialogTutorialSnsShareText_00	\x0e\x04\x10\x02\x91\0{c[fe9a10]}キャプチャーボタン{c[000000]}で ゲーム\x0e\0\0\n\x04\0\x06\0L0\x810\x930画面を\n{c[fe9a10]}さつえい{c[000000]} できるぞ！ {c[fe9a10]}SNS{c[000000]}に とうこうして\nあなたのプレイを じまん しちゃおう！
+HeaderFriendExplain	なかまから \x0e\0\0\n\x02\0\x06\0\{0n0J0炎をもらえ！
+FriendCopyFriendAbility	スティックを\x0e\0\0\x08\x02\0\x04\0F0H0上に！
+FriendCopyMakeFriends	なかまを\x0e\0\0\x08\x02\0\x04\0d0O0作って
+IconBalloonControllerJoin	さんかする
+IconBalloonControllerLRJoin	\x0e\x04\t\x02`\0＋\x0e\x04\n\x02a\0 さんかする
+HeroPanelAbilityName	\x0e\x03\x05\0
+HelperRouletteTutorialTitle_00	{c[fe9a10]}ドリームしんでん{c[000000]}へ ようこそ
+HelperRouletteTutorialText_00	ここは {c[fe9a10]}ドリームしんでん。\n{c[000000]}とくべつなアイテム {c[fe9a10]}ドリームロッド{c[000000]}で\nゆめの {c[fe9a10]}あのキャラ{c[000000]}に であえる ばしょ。
+HelperRouletteTutorialTitle_01	{c[fe9a10]}ドリームフレンズ{c[000000]}を よびだそう
+HelperRouletteTutorialText_01	{c[fe9a10]}ドリームロッド{c[000000]}を とると ルーレットが\nはじまる。\x0e\x04\0\x02\0\0を おして\n{c[fe9a10]}ドリームフレンズ{c[000000]}を よびだそう！
+$HelperRouletteDecideText	けってい
+$AmiiboBtnText	amiibo
+TimeDisplaySecPunctuation	:
+TimeDisplayCsecPunctuation	.
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	-
+ScoreDisplayEmpty	------
+$CmnEndCutText	つづく
+CmnEndCutText_Credit	おしまい
+PlayerNumberCharaName	\x0e\x03\x05\0
+WTitlePupupuSubTitle	へいわなくに
+WTitlePupupuTitle	プププランド
+WTitlePopSubTitle	きせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星
+WTitlePopTitle	ポップスター
+WTitleJamaSubTitle	\x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい
+WTitleJamaTitle	ジャマハルダ！
+WTitleGalaxySubTitle	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、
+WTitleGalaxyTitle	きらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち
+WTitleFinalSubTitle	\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ
+WTitleFinalTitle	スターアライズ
+HowToWindowTitle1	{c[fe9a10]}おすそわけプレイ{c[000000]}で\nいつでも いっしょにあそべる！
+HowToWindowTitle2	{c[fe9a10]}なかま{c[000000]}を つくって {c[fe9a10]}いつでもイン{c[000000]}
+HowToWindowTitle3	コントローラーが {c[fe9a10]}つながらない{c[000000]}ときは…
+HowToWindowText1	{c[fe9a10]}コントローラー{c[000000]} を もちよって\nさいだい {c[fe9a10]}４\x0e\0\0\x08\x02\0\x04\0k0\x930人{c[000000]} であそべるよ！
+HowToWindowText2L	\x0e\x04\x02\x02\x02\0 なかまを つくって
+HowToWindowText2R	\x0e\x04\t\x02`\0＋\x0e\x04\n\x02a\0 を おして\n{c[fe9a10]}いつでもイン{c[000000]}
+HowToWindowText3	\x0e\x04\x11\x02\x94\0ポーズの {c[fe9a10]}コントローラーせってい{c[000000]} をおして\nコントローラーを とうろくしよう
+SkipText	\x0e\x04\x11\x02\x94\0スキップ
+$HelperRouletteNew	New
+Version	Ver. \x0e\x03\x01\0.\x0e\x03\x01\0.\x0e\x03\x01\0
+Complete.msbt
+$CompleteClear	クリア
+$CompleteText	Congratulations!
+Credit.msbt
+Staff	スタッフ
+GeneralDirector	ゼネラルディレクター
+GeneralDirector_00	\x0e\0\0\x0c\x04\0\x08\0O0~0V0M0熊崎　\x0e\0\0\n\x04\0\x06\0W0\x930\x840信也
+SequenceDirector	シーケンスディレクター
+SequenceDirector_00	\x0e\0\0\x0c\x04\0\x08\0K00\x840~0神山　\x0e\0\0\n\x04\0\x06\0_0d0\x840達哉
+LevelDesignDirector	レベルデザインディレクター
+LevelDesignDirector_00	\x0e\0\0\x0c\x04\0\x08\0H0\x930i0F0遠藤　\x0e\0\0\n\x04\0\x06\0\x860F0M0裕貴
+LevelDesign	レベルデザイン
+LevelDesign_00	\x0e\0\0\x0c\x04\0\x08\0\x8f0_0j0y0渡辺　\x0e\0\0\n\x02\0\x06\0\x860_0K0豊
+AssistantDirector	アシスタントディレクター
+AssistantDirector_00	\x0e\0\0\n\x04\0\x06\0r0\x890n0平野　\x0e\0\0\x0c\x04\0\x08\0_0K0B0M0孝章
+AssistantDirector_01	\x0e\0\0\x0c\x04\0\x08\0B0M0\x840~0秋山　\x0e\0\0\n\x02\0\x06\0U0h0W0智
+AssistantDirector_02	\x0e\0\0\x0c\x04\0\x08\00m0W0~0峯島　\x0e\0\0\x08\x04\0\x04\0U0\{0沙穂
+ProgramDirector	プログラムディレクター
+ProgramDirector_00	\x0e\0\0\x0c\x04\0\x08\0J0J0k0W0大西　\x0e\0\0\n\x02\0\x06\0r0\x8d0W0洋
+LeadActionProgramming	リードアクションプログラム
+LeadActionProgramming_00	\x0e\0\0\x0c\x04\0\x08\0Y00h0\x820住友　\x0e\0\0\x0c\x04\0\x08\0K0d0\x880W0克禎
+LeadProgramming	リードプログラム
+LeadProgramming_00	\x0e\0\0\x0c\x04\0\x08\0_0k0u0X0谷藤　\x0e\0\0\n\x04\0\x06\0Q0D0_0圭太
+Programming	プログラム
+Programming_00	\x0e\0\0\n\x04\0\x06\0n0Z0H0野末　\x0e\0\0\n\x04\0\x06\0_0K0W0高士
+Programming_01	\x0e\0\0\n\x04\0\x06\0F0a0`0内田　\x0e\0\0\x08\x04\0\x04\0\x8b0D0瑠依
+Programming_02	\x0e\0\0\n\x04\0\x06\0K0\x820a0蒲地　\x0e\0\0\x0c\x04\0\x08\0h0\x820r0\x8d0智裕
+Programming_03	\x0e\0\0\n\x04\0\x06\0Y0Z0M0鈴木　\x0e\0\0\n\x04\0\x06\0\x860F0\x840雄也
+Programming_04	\x0e\0\0\n\x04\0\x06\0\x800\x890[0村㌫　\x0e\0\0\n\x04\0\x06\0_0d0\x840達哉
+Programming_05	\x0e\0\0\x0c\x04\0\x08\0~0H0X0~0前嶋　\x0e\0\0\n\x04\0\x06\0~0U0\x840雅也
+Programming_06	\x0e\0\0\n\x04\0\x06\0j0L0_0永田　\x0e\0\0\x0c\x04\0\x08\0~0U0\x860M0真之
+Programming_07	\x0e\0\0\x0c\x04\0\x08\0_0Q0\x800\x890竹村　\x0e\0\0\x0c\x04\0\x08\0Q0D0Y0Q0圭祐
+Programming_08	\x0e\0\0\x08\x04\0\x04\0B0y0阿部　\x0e\0\0\n\x04\0\x06\0Q0\x930W0拳之
+Programming_09	\x0e\0\0\n\x04\0\x06\0r0\x890_0平田　\x0e\0\0\x0c\x04\0\x08\0\x860F0`0D0雄大
+Programming_10	\x0e\0\0\n\x04\0\x06\0\x880W0`0吉田　\x0e\0\0\n\x02\0\x06\0U0h0\x8b0悟
+LeadTechnicalProgramming	リードテクニカルプログラム
+LeadTechnicalProgramming_00	\x0e\0\0\n\x04\0\x06\0j0K0n0中野　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0B0M0宏晃
+TechnicalProgramming	テクニカルプログラム
+TechnicalProgramming_00	\x0e\0\0\n\x04\0\x06\0M0\x800\x890木村　\x0e\0\0\x0c\x04\0\x08\0\x800m0~0U0宗理
+TechnicalProgramming_01	\x0e\0\0\n\x04\0\x06\0K0h0F0加藤　\x0e\0\0\n\x02\0\x06\0B0\x860\x800歩
+LeadUIProgramming	リードUIプログラム
+LeadUIProgramming_00	\x0e\0\0\n\x04\0\x06\0\x840U0K0八坂　\x0e\0\0\n\x02\0\x06\0W0\x850\x930俊
+UIProgramming	UIプログラム
+UIProgramming_00	\x0e\0\0\x0c\x04\0\x08\0\x840~0W0_0山下　\x0e\0\0\x0c\x04\0\x08\0B0M0r0\x8d0晃弘
+UIProgramming_01	\x0e\0\0\n\x06\0\x06\0_0T0\x840田子谷　\x0e\0\0\x0c\x04\0\x08\0h0W0\x860M0敏幸
+DesignDirector	デザインディレクター
+DesignDirector_00	ファーマン　\x0e\0\0\x08\x02\0\x04\0\x8a0M0力
+LeadDesign	リードデザイン
+LeadDesign_00	\x0e\0\0\x08\x02\0\x04\0M0_0北　\x0e\0\0\x10\x06\0\x0c\0Q0\x930D0a0\x8d0F0健一郎
+Design	デザイン
+Design_00	\x0e\0\0\n\x04\0\x06\0U0h0F0佐藤　\x0e\0\0\n\x04\0\x06\0H0d0S0悦子
+Design_01	\x0e\0\0\x0c\x04\0\x08\0M0c0K0\x8f0吉川　\x0e\0\0\n\x04\0\x06\0r0h0W0仁志
+Design_02	\x0e\0\0\n\x06\0\x06\0U0O0~0佐久間　\x0e\0\0\x0c\x04\0\x08\0Q0\x930D0a0健一
+Design_03	\x0e\0\0\x0c\x04\0\x08\00\x840F0a0宮内　\x0e\0\0\x08\x04\0\x04\0\x8a0H0理惠
+Design_04	\x0e\0\0\x0c\x04\0\x08\0D0~0\x800\x890今村　\x0e\0\0\x08\x04\0\x04\0H00恵美
+Design_05	\x0e\0\0\n\x04\0\x06\0o0v0_0羽太　\x0e\0\0\x08\x04\0\x04\0O00久美
+Design_06	\x0e\0\0\n\x04\0\x06\0[0D0_0清田　\x0e\0\0\x0c\x04\0\x08\0\x860M0n0v0幸伸
+Design_07	\x0e\0\0\n\x04\0\x06\0_0L0\x8f0田川　\x0e\0\0\n\x04\0\x06\0\x860M0S0幸子
+Design_08	\x0e\0\0\n\x04\0\x06\0H0U0M0江㍊　\x0e\0\0\n\x04\0\x06\0K0J0\x8a0香織
+Design_09	\x0e\0\0\n\x04\0\x06\0D0h0F0伊藤　\x0e\0\0\n\x02\0\x06\0r0h0\x800仁
+LeadTechnicalDesign	リードテクニカルデザイン
+LeadTechnicalDesign_00	\x0e\0\0\n\x04\0\x06\0u0X0_0藤田　\x0e\0\0\n\x04\0\x06\0d0\x880W0剛志
+TechnicalDesign	テクニカルデザイン
+TechnicalDesign_00	\x0e\0\0\n\x04\0\x06\00F0\x890三浦　\x0e\0\0\n\x04\0\x06\0r0K0\x8a0光理
+LeadMotifDesign	リードモチーフデザイン
+LeadMotifDesign_00	\x0e\0\0\x0c\x04\0\x08\0\x820\x8a0W0_0森下　\x0e\0\0\x0c\x04\0\x08\0`0D0Y0Q0大輔
+MotifDesign	モチーフデザイン
+MotifDesign_00	\x0e\0\0\x0c\x04\0\x08\0o0W0O0\x890橋倉　\x0e\0\0\n\x02\0\x06\0_0`0W0正
+MotifDesign_01	\x0e\0\0\n\x02\0\x06\00j00南　\x0e\0\0\n\x04\0\x06\0h0\x8200知臣
+MotifDesign_02	\x0e\0\0\n\x04\0\x06\0\{0\x930`0本田　\x0e\0\0\n\x04\0\x06\0\x860F0M0優紀
+MotifDesign_03	\x0e\0\0\n\x04\0\x06\0J0J0_0大田　\x0e\0\0\x0c\x04\0\x08\0\x860F0Y0Q0裕介
+MotifDesign_04	\x0e\0\0\x0c\x06\0\x08\0M0\x8a0n0H0桐野江　\x0e\0\0\n\x02\0\x06\0d0K0U0司
+MotifDesign_05	\x0e\0\0\x0c\x04\0\x08\0\x880W0S0W0吉越　\x0e\0\0\n\x02\0\x06\00n0\x8b0実
+MotifDesign_06	\x0e\0\0\n\x04\0\x06\0\x840~0`0山田　\x0e\0\0\n\x04\0\x06\0W0\x930T0真悟
+TechnicalMotifDesign	テクニカルモチーフデザイン
+TechnicalMotifDesign_00	\x0e\0\0\n\x04\0\x06\0K0\x930n0菅野　\x0e\0\0\x0c\x04\0\x08\0B0M0r0\x8d0晃宏
+LeadUIDesign	リードUIデザイン
+LeadUIDesign_00	\x0e\0\0\x0c\x04\0\x08\0h0F0i0F0東藤　\x0e\0\0\x08\x04\0\x04\0\x8600由実
+UIDesign	UIデザイン
+UIDesign_00	\x0e\0\0\n\x04\0\x06\0D0h0F0伊藤　\x0e\0\0\n\x04\0\x06\0o0\x8b0K0晴香
+UIDesign_01	\x0e\0\0\n\x04\0\x06\0K0\x8f0_0河田　\x0e\0\0\x0c\x04\0\x08\0W0R0\x860M0茂幸
+UIDesign_02	\x0e\0\0\x0c\x04\0\x08\0u0X0F0\x890藤浦　\x0e\0\0\n\x02\0\x06\0~0U0W0昌
+UIDesign_03	\x0e\0\0\n\x04\0\x06\0W0J0n0塩野　\x0e\0\0\x08\x04\0\x04\0\x860\x8a0佑莉
+UIDesign_04	\x0e\0\0\x08\x04\0\x04\0J0n0小野　\x0e\0\0\n\x06\0\x06\0U0J0\x8a0早央里
+UIDesign_05	\x0e\0\0\n\x04\0\x06\0B0M0\{0秋保　\x0e\0\0\x0c\x04\0\x08\0W0\x850\x930_0駿太
+Movie	ムービー
+Movie_00	\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社D・A・G
+Movie_01	\x0e\0\0\x0c\x04\0\x08\0~0d0W0~0松嶋　\x0e\0\0\x0c\x04\0\x08\0r0U0n0\x8a0古記
+Movie_02	\x0e\0\0\n\x04\0\x06\0u0\x8b0\x840古谷　\x0e\0\0\n\x04\0\x06\0\x880\x8a0S0賢子
+Movie_03	\x0e\0\0\x0c\x04\0\x08\0U0U0J0K0笹岡　\x0e\0\0\n\x04\0\x06\0B0M0S0晃子
+Movie_04	\x0e\0\0\n\x04\0\x06\0O0\x8d0Y0黒須　\x0e\0\0\n\x04\0\x06\0\x860F0M0祐基
+Movie_05	\x0e\0\0\x0c\x04\0\x08\0r0\x890j0D0平内　\x0e\0\0\x0c\x04\0\x08\0_0K0\x880W0貴善
+Movie_06	\x0e\0\0\n\x04\0\x06\0K0O0_0角田　\x0e\0\0\x0c\x04\0\x08\0_0K0r0\x8d0考洋
+Movie_07	\x0e\0\0\n\x04\0\x06\0\x880W0`0吉田　\x0e\0\0\x0c\x04\0\x08\0W0\x870F0T0翔悟
+Movie_08	\x0e\0\0\n\x04\0\x06\0K0D0y0海部　\x0e\0\0\n\x04\0\x06\00Z0\{0瑞帆
+Movie_09	\x0e\0\0\x0c\x04\0\x08\0k0W0J0K0西岡　\x0e\0\0\n\x02\0\x06\0h0J0\x8b0徹
+Movie_10	\x0e\0\0\n\x04\0\x06\0\x840~0`0山田　\x0e\0\0\n\x06\0\x06\0U0\x880S0紗夜子
+Movie_11	\x0e\0\0\n\x04\0\x06\0Y0Z0M0鈴木　\x0e\0\0\n\x04\0\x06\0K0Z0M0和樹
+Movie_12	\x0e\0\0\x08\x02\0\x04\0U0K0坂　\x0e\0\0\n\x04\0\x06\0K0Y00香澄
+Movie_13	\x0e\0\0\n\x04\0\x06\0u0O0D0福井　\x0e\0\0\n\x04\0\x06\0B0\x840j0彩菜
+Movie_14	\x0e\0\0\n\x04\0\x06\0\x840~0`0山田　\x0e\0\0\n\x02\0\x06\0\x8a0\x870F0亮
+Movie_15	\x0e\0\0\n\x04\0\x06\0o0\x8a0\x840針谷　\x0e\0\0\x08\x04\0\x04\0W0\{0汐帆
+Movie_16	\x0e\0\0\x0c\x04\0\x08\0\x840~0\x820h0山元　\x0e\0\0\x08\x04\0\x04\0\x8a0j0里菜
+Movie_17	\x0e\0\0\n\x04\0\x06\0r0\x890n0平野　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0B0M0弘晃
+Movie_18	\x0e\0\0\x0c\x06\0\x08\0S00\x840~0小宮山　\x0e\0\0\x0e\x04\0\n\0W0\x870F0x0D0尚平
+Movie_19	\x0e\0\0\x0c\x04\0\x08\0o0W0\x820h0橋本　\x0e\0\0\x0e\x04\0\n\0\x8a0\x870F0Y0Q0諒介
+Movie_20	\x0e\0\0\n\x04\0\x06\0U0K0D0酒井　\x0e\0\0\n\x02\0\x06\0B0M0\x890彬
+Movie_21	\x0e\0\0\x08\x04\0\x04\0a0`0千田　\x0e\0\0\n\x04\0\x06\0B0\x840K0彩加
+Movie_22	\x0e\0\0\x0e\x06\0\n\0k0\{0\x930~0d0二本松　\x0e\0\0\n\x04\0\x06\0K0d00克巳
+Movie_23	\x0e\0\0\x0c\x04\0\x08\0D0n0F0H0井上　\x0e\0\0\n\x04\0\x06\0h0\x820S0友子
+SubGame	サブゲーム
+SubGame_00	\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社エイティング
+SubGame_01	\x0e\0\0\x0c\x04\0\x08\0\x8f0\x890W0j0藁科　\x0e\0\0\x0c\x04\0\x08\0`0D0Y0Q0大介
+SubGame_02	\x0e\0\0\n\x04\0\x06\00d0~0三間　\x0e\0\0\x0c\x04\0\x08\0n0\x8a0~0U0規公
+SubGame_03	\x0e\0\0\x0c\x04\0\x08\0S0D0l0~0鯉沼　\x0e\0\0\n\x04\0\x06\0K0Z0\x840和也
+SubGame_04	\x0e\0\0\x0c\x04\0\x08\0W0~0j0K0島中　\x0e\0\0\n\x06\0\x06\0M0\x880S0希与子
+SubGame_05	\x0e\0\0\x0c\x04\0\x08\0\x8f0_0j0y0渡辺　\x0e\0\0\n\x06\0\x06\0\x8600S0裕美子
+SubGame_06	\x0e\0\0\x0c\x04\0\x08\0\x8f0_0j0y0渡辺　\x0e\0\0\n\x06\0\x06\0~0\x8a0S0真理子
+SubGame_07	\x0e\0\0\x0c\x04\0\x08\0K0\x820o0\x890蒲原　\x0e\0\0\x0c\x04\0\x08\0W0\x930D0a0伸一
+SubGame_08	\x0e\0\0\n\x04\0\x06\00_0k0三谷　\x0e\0\0\x0c\x04\0\x08\0T0F0\x860F0豪右
+SubGame_09	\x0e\0\0\x0c\x04\0\x08\0D0\x8f0U0M0岩崎　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0B0M0宏亮
+SubGame_10	\x0e\0\0\x08\x04\0\x04\0U0n0佐野　\x0e\0\0\n\x06\0\x06\0~0\x860S0真由子
+SubGame_11	\x0e\0\0\x0c\x04\0\x08\0M0_0\x840~0北山　\x0e\0\0\n\x04\0\x06\0j0J0h0直人
+LeadSound	リードサウンド
+LeadSound_00	\x0e\0\0\x0c\x04\0\x08\0B0\x930i0F0安藤　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0K0Z0浩和
+Sound	サウンド
+Sound_00	\x0e\0\0\x0c\x04\0\x08\0D0W0K0\x8f0石川　\x0e\0\0\n\x02\0\x06\0X0\x850\x930淳
+Sound_01	\x0e\0\0\x0e\x06\0\n\0J0L0U0\x8f0\x890小笠原　\x0e\0\0\n\x04\0\x06\0\x860F0_0雄太
+VoiceActor	ボイス
+VoiceActor_00	\x0e\0\0\x0c\x04\0\x08\0J0J0\x820h0大本　\x0e\0\0\n\x06\0\x06\0~0M0S0眞基子
+VoiceActor_02	\x0e\0\0\n\x04\0\x06\0\x860Z0M0柚木　\x0e\0\0\x0c\x04\0\x08\0\x8a0\x870F0K0涼香
+VoiceActor_03	\x0e\0\0\x0c\x04\0\x08\0_0K0o0W0高橋　\x0e\0\0\x08\x04\0\x04\0\x8a0H0李依
+VoiceActor_04	\x0e\0\0\n\x04\0\x06\0F0H0`0上田　\x0e\0\0\n\x04\0\x06\0\x8c0D0j0麗奈
+VoiceActor_06	\x0e\0\0\x08\x04\0\x04\0a0p0千葉　\x0e\0\0\n\x02\0\x06\0W0R0\x8b0繁
+GuestIllustrator	ゲストイラストレーター
+GuestIllustrator_00	\x0e\0\0\n\x04\0\x06\0B0J0M0青木　\x0e\0\0\x0c\x04\0\x08\0h0W0j0J0俊直
+GuestIllustrator_01	カナヘイ
+GuestIllustrator_02	lack
+GuestIllustrator_03	\x0e\0\0\x0c\x04\0\x08\0J0J0\x840~0大山　\x0e\0\0\x0c\x04\0\x08\0S0F0D0a0功一
+GuestIllustrator_04	\x0e\0\0\n\x04\0\x06\0D0h0F0伊藤　あしゅら\x0e\0\0\x0c\x04\0\x08\0y0k0~0\x8b0紅丸
+GuestIllustrator_05	\x0e\0\0\n\x04\0\x06\0K0D0`0開田　\x0e\0\0\n\x04\0\x06\0\x860F0X0裕治
+TeamSupport	チームサポート
+TeamSupport_00	\x0e\0\0\x0c\x04\0\x08\0_0K0o0W0高橋　\x0e\0\0\n\x04\0\x06\0\x880W00芳美
+TeamSupport_01	\x0e\0\0\x0c\x04\0\x08\0J0h0P0\x8d0乙黒　\x0e\0\0\n\x04\0\x06\0[0D0X0誠二
+TeamSupport_02	\x0e\0\0\x0c\x04\0\x08\0r0\x890\x840~0平山　\x0e\0\0\n\x02\0\x06\0W0R0\x8b0茂
+TeamSupport_03	\x0e\0\0\x0c\x04\0\x08\0o0W0P0a0橋口　\x0e\0\0\n\x02\0\x06\0W0R0\x8b0茂
+PlanningSupport	プランニングサポート
+PlanningSupport_00	\x0e\0\0\x0c\x04\0\x08\0\x840~0j0K0山中　\x0e\0\0\x0c\x04\0\x08\0\x8a0\x870F0_0椋太
+TechnicalSupport	テクニカルサポート
+TechnicalSupport_00	\x0e\0\0\x0c\x04\0\x08\0_0k0P0a0谷口　\x0e\0\0\n\x04\0\x06\0\x880W0\x840祥也
+TechnicalSupport_01	\x0e\0\0\x0c\x04\0\x08\0d0\x8b0J0K0鶴岡　\x0e\0\0\x0c\x04\0\x08\0h0\x820K0Z0友和
+TechnicalSupport_02	\x0e\0\0\x0c\x04\0\x08\0\x8f0_0j0y0渡邉　\x0e\0\0\n\x04\0\x06\0W0\x930\x840慎也
+TechnicalSupport_03	\x0e\0\0\n\x04\0\x06\0B0h0n0後野　\x0e\0\0\x12\x06\0\x0e\0\x8a0\x870F0D0a0\x8d0F0遼一郎
+TechnicalSupport_04	\x0e\0\0\x0c\x04\0\x08\0k0W0\x800\x890西村　\x0e\0\0\n\x04\0\x06\0\x860F0M0悠樹
+TechnicalSupport_05	\x0e\0\0\n\x04\0\x06\0_0X0~0田島　\x0e\0\0\n\x02\0\x06\0W0\x870F0章
+TechnicalSupport_06	\x0e\0\0\x08\x04\0\x04\0n0R0野下　\x0e\0\0\n\x04\0\x06\0f0d0\x840徹也
+TechnicalSupport_07	\x0e\0\0\x0c\x04\0\x08\0Y0H0d0P0末継　\x0e\0\0\n\x04\0\x06\0K0Z0\x840和也
+TechnicalSupport_08	\x0e\0\0\x0c\x04\0\x08\0_0n0F0H0田上　\x0e\0\0\x0c\x04\0\x08\0_0d0r0\x8d0達宏
+TechnicalSupport_09	\x0e\0\0\x0c\x04\0\x08\00j0L0\x8f0皆川　\x0e\0\0\n\x02\0\x06\0_0Q0W0健
+TechnicalSupport_10	\x0e\0\0\x0c\x04\0\x08\0o0k0\x850F0羽生　\x0e\0\0\n\x04\0\x06\0B0M0J0昭夫
+TechnicalSupport_11	\x0e\0\0\n\x04\0\x06\0j0d00夏見　\x0e\0\0\n\x04\0\x06\0\x860F0\x840勇矢
+TechnicalSupport_12	\x0e\0\0\x0c\x04\0\x08\0F0H0o0\x890上原　\x0e\0\0\n\x04\0\x06\0_0d0\x840達也
+TechnicalSupport_13	\x0e\0\0\n\x04\0\x06\0S0k0W0小西　\x0e\0\0\n\x04\0\x06\0K0Z0\x840和弥
+TechnicalSupport_14	\x0e\0\0\x0c\x04\0\x08\0\x820a0e0M0望月　\x0e\0\0\n\x04\0\x06\0f0d0\x840哲也
+TechnicalSupport_15	\x0e\0\0\x0c\x04\0\x08\0\x8f0_0j0y0渡辺　\x0e\0\0\n\x04\0\x06\0O0k0J0晋夫
+TechnicalSupport_16	\x0e\0\0\x08\x04\0\x04\0B0y0安部　\x0e\0\0\n\x04\0\x06\0_0O0\x840拓也
+TechnicalSupport_17	\x0e\0\0\x0c\x04\0\x08\0\x840Y0o0\x890安原　\x0e\0\0\x08\x04\0\x04\0\x860M0由貴
+TechnicalSupport_18	\x0e\0\0\n\x04\0\x06\0U0S0`0迫田　\x0e\0\0\x0c\x04\0\x08\0K0d0r0\x8d0勝弘
+TechnicalSupport_19	\x0e\0\0\n\x04\0\x06\0Y0L0n0菅野　\x0e\0\0\x0c\x04\0\x08\0_0K0\x860M0卓行
+TechnicalSupport_20	\x0e\0\0\n\x04\0\x06\0S0X0~0小嶋　\x0e\0\0\n\x02\0\x06\0o0X0\x810宗
+TechnicalSupport_21	\x0e\0\0\n\x04\0\x06\0~0d0`0松田　\x0e\0\0\n\x04\0\x06\0_0K0W0孝史
+TechnicalSupport_22	\x0e\0\0\n\x04\0\x06\0~0U0`0政田　\x0e\0\0\n\x04\0\x06\0d0\x880W0剛志
+TechnicalSupport_23	\x0e\0\0\x0c\x04\0\x08\0D0\x8f0\x820h0岩本　\x0e\0\0\n\x04\0\x06\00d0J0光生
+ArtWork	アートワーク
+ArtWork_00	\x0e\0\0\x0c\x04\0\x08\0D0p0\x890M0㌻木　\x0e\0\0\n\x04\0\x06\0\x860F0h0勇斗
+ArtWork_01	\x0e\0\0\x0c\x04\0\x08\0Q0\x930\x820a0剣持　\x0e\0\0\n\x02\0\x06\0\x860K0\x8a0紫
+ArtWork_02	\x0e\0\0\x0c\x04\0\x08\0~0d0F0\x890松浦　\x0e\0\0\n\x06\0\x06\0\x820j00萌奈美
+ArtWork_03	\x0e\0\0\x08\x04\0\x04\0U0n0佐野　\x0e\0\0\n\x06\0\x06\0\x8600S0由美子
+ArtWork_04	\x0e\0\0\n\x04\0\x06\0h0O0n0得能　\x0e\0\0\n\x06\0\x06\0j0j0S0奈々子
+Testing	テスティング
+Testing_00	\x0e\0\0\x0c\x04\0\x08\0S0p0\x840W0小林　\x0e\0\0\n\x02\0\x06\0~0U0\x8b0勝
+Testing_01	\x0e\0\0\n\x04\0\x06\0Y0Z0M0鈴木　\x0e\0\0\x08\x02\0\x04\0`0D0太
+Testing_02	\x0e\0\0\n\x04\0\x06\0_0\x800\x890田村　\x0e\0\0\n\x02\0\x06\0_0Q0W0猛
+Testing_03	\x0e\0\0\x08\x02\0\x04\0W0~0嶋　\x0e\0\0\x0c\x04\0\x08\0~0U0o0\x8b0政治
+Testing_04	\x0e\0\0\x0c\x04\0\x08\0J0J0o0W0大橋　\x0e\0\0\n\x06\0\x06\0B0M0S0亜規子
+Testing_05	ハルデバッグチーム
+Testing_06	マリオクラブ\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社
+SpecialThanks	スペシャルサンクス
+SpecialThanks_00	\x0e\0\0\x0c\x04\0\x08\0\x840~0\x820h0山本　\x0e\0\0\x0c\x04\0\x08\0~0U0n0v0正宣
+SpecialThanks_01	\x0e\0\0\n\x04\0\x06\0_0p0_0田畑　\x0e\0\0\n\x02\0\x06\0K0d0\x890桂
+SpecialThanks_02	\x0e\0\0\n\x02\0\x06\0o0\x840W0林　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0\x860M0博之
+SpecialThanks_03	\x0e\0\0\x0c\x04\0\x08\0D0Q0L00池上　\x0e\0\0\n\x02\0\x06\0_0`0W0正
+SpecialThanks_04	\x0e\0\0\n\x04\0\x06\0J0K0`0岡田　\x0e\0\0\x0c\x04\0\x08\0n0v0\x860M0信志
+SpecialThanks_05	\x0e\0\0\n\x04\0\x06\0u0X0H0藤江　\x0e\0\0\n\x04\0\x06\0r0\x8d0W0宏志
+SpecialThanks_06	\x0e\0\0\n\x04\0\x06\0j0d0\x810夏目　\x0e\0\0\x0c\x04\0\x08\0S0F0x0D0興平
+SpecialThanks_07	\x0e\0\0\n\x04\0\x06\0D0W0`0石田　\x0e\0\0\n\x02\0\x06\0U0h0W0聡
+SpecialThanks_08	\x0e\0\0\x0c\x04\0\x08\00m0\x800\x890峰村　\x0e\0\0\x0c\x04\0\x08\0h0\x820r0\x8d0智大
+SpecialThanks_09	\x0e\0\0\x0c\x04\0\x08\0j0K0L00仲上　\x0e\0\0\n\x04\0\x06\0~0U0\x880雅代
+SpecialThanks_10	\x0e\0\0\x08\x04\0\x04\0B0y0阿部　\x0e\0\0\n\x04\0\x06\0o0\x8b0K0晴果
+SpecialThanks_11	\x0e\0\0\x08\x02\0\x04\0M0W0岸　\x0e\0\0\n\x02\0\x06\0B0K0m0茜
+SpecialThanks_12	\x0e\0\0\n\x04\0\x06\0~0Y0`0益田　\x0e\0\0\x0c\x04\0\x08\0Q0\x930D0a0健一
+SpecialThanks_13	\x0e\0\0\n\x04\0\x06\0K0U0D0葛西　\x0e\0\0\x0c\x04\0\x08\0W0R0n0v0重忍
+SpecialThanks_14	\x0e\0\0\x0c\x04\0\x08\0u0O0j0L0福永　\x0e\0\0\x0c\x04\0\x08\0\x880F0Y0Q0洋介
+SpecialThanks_15	\x0e\0\0\x0c\x04\0\x08\0B0J0\x840N0青柳　\x0e\0\0\x0e\x04\0\n\0X0\x850\x930D0a0純一
+SpecialThanks_16	\x0e\0\0\n\x04\0\x06\0K0Z0n0数野　\x0e\0\0\x0c\x04\0\x08\0_0K0B0M0貴亮
+SpecialThanks_17	\x0e\0\0\x0c\x06\0\x08\0D0K0\x890W0五十嵐　\x0e\0\0\x0c\x04\0\x08\0r0\x8d0B0M0広朗
+SpecialThanks_18	\x0e\0\0\n\x04\0\x06\0K0\x8f0D0川合　\x0e\0\0\n\x04\0\x06\0_0`0W0匡史
+SpecialThanks_19	\x0e\0\0\x0c\x04\0\x08\0j0L0J0K0長岡　\x0e\0\0\n\x06\0\x06\0B0D0S0愛子 
+SpecialThanks_24	\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社バーンハウスエフェクト
+SpecialThanks_25	\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社ジーアールドライブ
+SpecialThanks_26	\x0e\0\0\x14\x08\0\x10\0K0v0W0M0L0D0W0\x830株式会社TA
+SuperVisor	スーパーバイザー
+SuperVisor_00	\x0e\0\0\n\x04\0\x06\0K0\x8f0[0川瀬　\x0e\0\0\x0c\x04\0\x08\0W0R0u00滋史
+Coordinator	コーディネーター
+Coordinator_00	\x0e\0\0\x0c\x04\0\x08\0k0n00\x840二宮　\x0e\0\0\x08\x02\0\x04\0Q0D0啓
+Coordinator_01	\x0e\0\0\n\x04\0\x06\0j0K0`0中田　\x0e\0\0\x0e\x04\0\n\0\x8a0\x850F0D0a0隆一
+ProjectManagement	プロジェクトマネージメント
+ProjectManagement_00	\x0e\0\0\n\x04\0\x06\0j0L0_0永田　\x0e\0\0\x0c\x04\0\x08\0\x880W0r0\x8d0善裕
+ProjectManagement_01	\x0e\0\0\x08\x04\0\x04\0B0y0阿部　\x0e\0\0\n\x04\0\x06\0f0d0\x840哲也
+Producer	プロデューサー
+Producer_00	\x0e\0\0\x0c\x04\0\x08\0K00_0Q0上武　\x0e\0\0\n\x04\0\x06\0_0`0W0理志
+Producer_01	\x0e\0\0\x0c\x04\0\x08\0\x840~0L00山上　\x0e\0\0\n\x04\0\x06\0r0h0W0仁志
+GeneralProducer	ゼネラルプロデューサー
+GeneralProducer_00	\x0e\0\0\x0c\x06\0\x08\00d0o0\x890三津原　\x0e\0\0\n\x02\0\x06\0U0h0W0敏
+GeneralProducer_01	\x0e\0\0\x0c\x04\0\x08\0_0K0o0W0高橋　\x0e\0\0\n\x04\0\x06\0W0\x930\x840伸也
+ExecutiveProducer	エグゼクティブプロデューサー
+ExecutiveProducer_00	\x0e\0\0\x0c\x04\0\x08\0M00W0~0君島　\x0e\0\0\n\x04\0\x06\0_0d00達己
+Copyright	制作・著作 株式会社ハル研究所／任天堂株式会社\n\xa92018 HAL Laboratory, Inc. / Nintendo
+AddScore	\x0e\x03\x01\0
+SubScore	-\x0e\x03\x01\0
+EndTextNormal	and more...
+EndTextExtra	Thank you！
+$CreditBestScore	ベストスコア
+$CreditNew	NEW
+Demo.msbt
+UnknownName	？？？？
+ExecutiveIceName	フラン・キッス
+ExecutiveIceSerif_Appear_00	…ジャマハローア。\x0e\x14\x03\0\n
+ExecutiveIceSerif_Appear_01	…フ{s[080]}フッ{s[100]}。 これは、われわれの\n\x0e\0\0\x08\x02\0\x04\0\{0W0星の あいさつ ですわ。\x0e\0\x04\0…ワタクシは \x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい\nジャマハルダを しきする、\x0e\0\x04\0\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官が\x0e\0\0\n\x04\0\x06\0r0h0\x8a0１人「フラン・キッス」…。
+ExecutiveIceSerif_Appear_02	…このうちゅうに ちった、\n\x0e\0\0\x08\x02\0\x04\0\x8400闇の\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心「ジャマハート」が\nつどいし\x0e\0\0\x08\x02\0\x04\0h0M0時……\x0e\0\x04\0ワタクシたちの \x0e\0\0\x06\x02\0\x02\0r0悲がん が\nついに…かなう。\x0e\0\x04\0ムダな せっしょうは\nしたく ありませんが……\x0e\0\x04\0ジャマだて するのであれば……
+ExecutiveIceSerif_Appear_03	\x0e\x14\0\0\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷づけにして、\nさしあげ ますわ！
+ExecutiveIceSerif_AppearEx_00	……フ{s[080]}ッ{s[100]}。 おどろき ましたわ。\x0e\x14\x03\0\n
+ExecutiveIceSerif_AppearEx_01	…まさか、またアナタに\nお\x0e\0\0\x06\x02\0\x02\0B0会いできる なんて……。\x0e\0\x04\0{s[070]}ジャマハルダ もろとも\nほうむられた と\x0e\0\0\x08\x02\0\x04\0J0\x820思って いたのに…。\x0e\0\x04\0{s[100]}ならば \x0e\0\0\n\x04\0\x06\0S0\x930i0今度こそ…
+ExecutiveIceSerif_AppearEx_02	そのピンクの ボディを\nぜんしんとうけつ して\nワタクシの…
+ExecutiveIceSerif_AppearEx_03	\x0e\x14\0\0…ひぞう コレクションに\nくわえて さしあげますわ！
+ExecutiveFireName	フラン・ルージュ
+ExecutiveFireSerif_Appear_00	\x0e\x14\0\0{s[120]}オイッ！\n{s[100]}そこの～ずんぐりピンク！\x0e\x14\x03\0 
+ExecutiveFireSerif_Appear_01	オマエだよ！\n{s[130]}オ・マ・エーー!!{s[100]}\x0e\0\x04\0よくも、よくも、よくも、\nアタシの「フラン・キッス」ちゃんを\nイジメて くれたわね！\x0e\0\x04\0カワイイ お\x0e\0\0\x08\x02\0\x04\0K0J0顔に\nキズでも ついたら、どぉ～すんのよ!!\x0e\x14\0\0
+ExecutiveFireSerif_Appear_02	\x0e\x14\0\0{s[130]}ジャマッデム……!!\n{s[100]}ゆるせないわっ！\x0e\0\x04\0この「フラン・ルージュ」さまが…
+ExecutiveFireSerif_Appear_03	じごくの \x0e\0\0\n\x04\0\x06\0T0F0K0業火が \x0e\0\0\x08\x02\0\x04\0j0~0生ぬる～く\n\x0e\0\0\x08\x02\0\x04\0J0\x820思えちゃう くらい、
+ExecutiveFireSerif_Appear_04	\x0e\x14\0\0{s[130]}おっそろしい\x0e\0\0\x06\x02\0\x02\0\x810目に、\nあわせて あげるん だからっ！{s[100]}
+ExecutiveFireSerif_AppearEx_00	{s[130]}アハハッ！{s[100]}\x0e\x14\x03\0\n
+ExecutiveFireSerif_AppearEx_01	ジャマハートを さがしてたら、\nま～たアンタに \x0e\0\0\x06\x02\0\x02\0B0会える なんてね！\x0e\0\x04\0きっと、\x0e\0\0\x0c\x04\0\x08\0~0D0k0a0毎日カミサマに\nおいのりしてる ごほうびだわ！
+ExecutiveFireSerif_AppearEx_02	{s[130]}くぅ～っ！\n{s[100]}がぜん、もえて きたわよぉ！
+ExecutiveFireSerif_AppearEx_03	やいっ ずんぐりピンク！\x0e\0\x04\0\x0e\0\0\n\x04\0\x06\0S0\x930i0今度こそ ハイネス\x0e\0\0\x08\x02\0\x04\0U0~0様のため、
+ExecutiveFireSerif_AppearEx_04	\x0e\x14\0\0{s[130]}けしずみに してあげるわっ！{s[100]}
+ExecutiveThunderName	ザン・パルルティザーヌ
+ExecutiveThunderSerif_Appear_00	ジャマハローア。\x0e\x14\x03\0\n
+ExecutiveThunderSerif_Appear_01	わたしの\x0e\0\0\x06\x02\0\x02\0j0名は、\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官が おさ、\n「ザン・パルルティザーヌ」…。
+ExecutiveThunderSerif_Appear_02	ただの ぞくぶつと\n\x0e\0\0\x06\x02\0\x02\00見ていたが…
+ExecutiveThunderSerif_Appear_03	フッ、なかなかの\n\x0e\0\0\x06\x02\0\x02\0f0手だれの ようだ。\x0e\0\x04\0しかし その かいしんげきも\nここまで…。\x0e\0\x04\0われらが いだいなる \x0e\0\0\n\x02\0\x06\0B0\x8b0X0主、\n「\x0e\0\0\x0e\x06\0\n\0~0W0\x930K0\x930魔神官ハイネス」\x0e\0\0\x08\x02\0\x04\0U0~0様の\nごいしに したがい…
+ExecutiveThunderSerif_Appear_04	\x0e\x14\0\0\x0e\0\0\x08\x02\0\x04\0D0~0今 ここで、\nしゅくせい してくれよう！
+ExecutiveThunderSerif_Dead_00	{s[070]}うぅ……\nジャ…マッデム………{s[100]}
+ExecutiveThunderSerif_Dead_01	クッ！ こんな へんきょうの\x0e\0\0\x08\x02\0\x04\0\{0W0星に、\nこれほどの \x0e\0\0\x06\x02\0\x02\0f0手だれが…
+ExecutiveThunderSerif_Dead_02	しかし、すでに\nジャマハートは この\x0e\0\0\x06\x02\0\x02\0f0手に。\x0e\0\x04\0ずんぐりピンクよ。\nこの ジャマハルダもろとも…
+ExecutiveThunderSerif_Dead_03	\x0e\x14\0\0くち はてるがいい…！
+ExecutiveThunderSerif_Dead_04	\x0e\x14\0\0アーッハッハッハッハッハッハ!!
+ExecutiveThunderSerif_Dead_05	\x0e\x14\0\0{s[130]}ジャマサラーバァ！{s[100]}
+ExecutiveThunderSerif_AppearEx_00	\x0e\x14\0\0{s[130]}とまれ、ずんぐりピンク！{s[100]}
+ExecutiveThunderSerif_AppearEx_01	あの ジャマハルダから\n\x0e\0\0\x08\x02\0\x04\0[0D0生かんする とはな…\x0e\0\x04\0その\x0e\0\0\x08\x02\0\x04\0v0\x930分だと、\nキッスも ルージュも\nしりぞけたの だろう。\x0e\0\x04\0だが、しんせいなる\nハイネス\x0e\0\0\x08\x02\0\x04\0U0~0様の いのりは…
+ExecutiveThunderSerif_AppearEx_02	\x0e\x14\0\0{s[130]}だれにも、ジャマさせないっ！{s[100]}
+ExecutiveThunderSerif_DeadEx_00	{s[070]}あぁ……\nハ、ハイネス…さ…まぁ………{s[100]}
+HinessName	ハイネス
+HinessSerif_Appear_00_1	ンジャ？
+HinessSerif_Appear_00_2	な～にやら\nさわがしい ですねぇ～。
+HinessSerif_Appear_01	{s[070]}えっとぉ～\nアナタ、ジャマですぅ。{s[100]}
+HinessSerif_Appear_02	さてぇ～…\x0e\0\x04\0われらが カミのぉ～…\x0e\0\x04\0ふっかつには エネルギーがぁ～…\x0e\0\x04\0ま～だぁ\nたりない ようですねぇ～…。\x0e\0\x04\0これはもう、われわれはぁ～…\x0e\0\x04\0ホロビの みちをぉ～…\nたどるしかぁ～…\x0e\0\x04\0なぁいので～…\x0e\0\x04\0しょ～かぁ～～～～？
+HinessSerif_Appear_03_1	\x0e\x14\0\0{s[150]}いなっ{s[100]}
+HinessSerif_Appear_03_2	\x0e\x14\0\0{s[150]}いなぁっ！{s[100]}
+HinessSerif_Appear_03_3	\x0e\x14\x01\0{s[150]}いなっ いなっ いなっ！{s[100]}
+HinessSerif_Appear_03_4	いなイナいなイナいなイナいなイナいなイナいなイナいなイナいな…………
+HinessSerif_Appear_03_5	{s[150]}ゼッタァ～イ、い～～～～～～～～～～なぁっ!!!!{s[100]}\x0e\x14\x02\0
+HinessSerif_Appear_04_1	ぎんがのはてにおいやられたまりょくをつかさどるわれらいちぞくのひがん！おまえなぞ\nにこのせきねんのおもいのとうとさがわかるのか？いやわかるはずがないだんじてないな\nいないない！かつてともであったヤツらはわれらいちぞくのチカラにおそれたのか、いち\x0e\0\x04\0ぞくをみなことごとくふういんしぎんがのはてへとおいやった！それでもあきたらずかこ\nのれきしからそのそんざいさえいっぺんものこさずけしさろうとしたぁ！われらのまりょ\nくがあってこそ、ヤツらのかがくとゆうわすることでなしえたいだいなはんえい！ぎんが\x0e\0\x04\0のききともよべるあのおぞましいあくむをしりぞけたわれわれにたいしあまりのしうち！\nこれはごかいなどではけっしてないない！われをくるっているなどといったヤツらよきこ\nえているか！ぎんがのさいはてへとわれらをおきざりにしてたびだちいまもおそらくどこ\x0e\0\x04\0かでのんきにくらしておるオマエらにもはやみらいなどないやみのぶっしつをまつるわが\nいちぞくのふっけんはちかいみながいつわりときめつけおったでんせつのしょのとおりに\nついにわれらはカミのおられるうつわをてにいれたのだめざめさせしものにそまりじひを\x0e\0\x04\0くださるというそのカミのうつわはいまみたされつつあるついにいだいなるカミがたんじ\nょうするときがきたのだあたんじょうするぞうたんじょうするぞうたんじょうするぞお～\nはっぴぃーばーすで～い！あらたなるれきしよぉじだいよぉ～！はっぴぃーばーすで～い
+HinessSerif_Appear_04_2	\x0e\x14\0\0いだいなる、カミよおおおぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉっ!!!!\x0e\x14\x03\0
+HinessSerif_Appear_05	{s[080]}ゼェ…ハァ…ゼェ…ハァ…………………………{s[100]}
+HinessSerif_Appear_06	と、いうわけでしてぇ～…\x0e\0\x04\0ふっかつの ぎしきを\nジャマした、だ～れかさんにはぁ～…
+HinessSerif_Appear_07	みこころの ま～まにぃ～…
+HinessSerif_Appear_08	\x0e\x14\0\0{s[150]}しんで、もらいますです!!{s[100]}
+HinessSerif_Crazy_00_1	{s[070]}ヴ………{s[100]}
+HinessSerif_Crazy_00_2	ヴ………
+HinessSerif_Crazy_00_3	{s[150]}ヴッ！{s[100]}
+HinessSerif_Crazy_01	\x0e\x14\0\0{s[150]}ヴンギャマエヴィティリゴッポコポオォォーーーッ!!{s[100]}\x0e\x14\x03\0\n
+HinessSerif_Dead_00	お、お、おのれぇ～い…\x0e\0\x04\0ま、まさかこの ハイネスさまがぁ～…\nやぶれるとはぁ～…
+HinessSerif_Dead_01_1	イケニエえぇ～…
+HinessSerif_Dead_01_2	イケニエさえぇ～\nあればぁ～…
+HinessSerif_Dead_02	ならば どうするぅ…？\x0e\0\x04\0しれた ことぉ～…
+HinessSerif_Dead_03	さいこうの まりょくを もったぁ～\nものたち をぉぉぉぉぉ～…
+HinessSerif_Dead_04	そして かくなる はぁ～…　\nこの、わがみ をもぉ～…\x0e\0\x04\0はかいの カミへ～…\x0e\0\x04\0ささぐ～………
+HinessSerif_Dead_05	さぁぁ…\nよみがえって くださいよぉぉ……っ\x0e\0\x04\0われらが カミぃぃ………………
+HinessSerif_Dead_06	\x0e\x14\0\0{s[150]}\x0e\0\0\n\x04\0\x06\0o0X0\x930破神…エンデ・ニル!!{s[100]}
+GameInfo.msbt
+AddHelperBalloonText	フレンズハート で\nなかまを ふやそう
+ChargeInfo_DiscardAbility	のうりょく\nすてる
+ChargeInfo_DetachPiggybackDisconnect	おりる
+ChargeInfo_DetachPiggybackUp	おりる
+ChargeInfo_Suicide	さよなら
+ChargeInfo_TrustControlToCpu	おまかせ
+ChargeInfo_Revive	ふっかつ
+ChargeInfo_ResetAbilitySeat	かいさん
+ChargeInfo_ReturnHelper	なかまを\nけす
+OperationGuide_Heart	フレンズハート
+OperationGuide_Attack	こうげき
+OperationGuide_Suicide	なかまをけす
+OperationGuide_Jump	ジャンプ
+OperationGuide_DetachPiggyback	おりる
+OperationGuide_DiscardAbility	のうりょくすてる
+OperationGuide_Sliding	スライディング
+OperationGuide_Hover	ホバリング
+OperationGuide_Swim	およぐ
+GameOver.msbt
+DialogMessage	{c[fe9a10]}ゲームをやめて{c[000000]}\nモードセレクトへもどりますか？
+$ContinueBtn	コンティニュー
+$ExitGameBtn	ゲームをやめる
+$TitleGameOver	GAME OVER
+GoalGame.msbt
+$Jump	ジャンプ
+$Start	スタート
+$TitleOver	ゴールゲーム
+$TitleUnder	ゴールゲーム
+$RepdigitBonusText	ゾロ\x0e\0\0\x06\x02\0\x02\0\x810目ボーナス!
+$30UPText	{s[150]}30{s[100]}{s[075]}UP{s[100]}
+$SpecialBonusText	スペシャル\nボーナス!
+HelperGo.msbt
+$CheckpointReached	\x0e\0\0\x0e\x04\0\n\0a0\x850F0K0\x930中間ポイントとうたつ！
+$LevelClear	レベルクリア！
+$CharaTitleStart	スタート
+CharaTitleCharaName	\x0e\x03\x05\0
+$BestTime	ベストタイム
+$TimeListTotal	TOTAL
+$TitleBestTime	ベストタイム
+$TitleContinue	つづきから
+$TitleStart	はじめから
+$TitleClose	もどる
+$TimeListClose	もどる
+TimeListCharaName	\x0e\x03\x05\0
+TimeListStart	スタート
+TimeListNext	つぎへ
+TimeListLevelNum	レベル\x0e\x03\x01\0
+$MidpointTime	TIME
+$New	NEW
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$ClearTime	クリアタイム
+$PowerIconLv	Lv
+$PowerIconLvSub	Lv
+DialogTutorialTitle_00	しゅやくは {c[fe9a10]}フレンズヘルパー！{c[000000]}
+DialogTutorialText_00	カービィが いなくたって やれるんだ！\n{c[fe9a10]}フレンズヘルパー{c[000000]}たちだけで いどむ、\n{c[fe9a10]}タイムアタック＆\x0e\0\0\x08\x02\0\x04\0`0D0大ぼうけん！{c[000000]}
+DialogTutorialTitle_01	とくべつなハートで {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0d0\x880強くなろう！{c[000000]}
+DialogTutorialText_01	\x0e\0\0\n\x04\0\x06\0[0K0D0世界に ちらばる {c[fe9a10]}レベルアップハート！\n{c[000000]}こうげき、たいりょく、すばやさ…\nあつめて みんなで レベルアーップ！
+DialogTutorialTitle_02	{c[fe9a10]}フレンズハート{c[000000]}も つかえるぞ！
+DialogTutorialText_02	{c[fe9a10]}フレンズハート{c[000000]}で {c[fe9a10]}なかま{c[000000]}を ふやそう！\nいつでもインで \x0e\0\0\x0c\x04\0\x08\0U0D0`0D0最大{c[fe9a10]}４\x0e\0\0\x08\x02\0\x04\0k0\x930人{c[000000]}で あそべるぞ。\nいざ、{c[fe9a10]}フレンズたち{c[000000]}の \x0e\0\0\x08\x02\0\x04\0`0D0大ぼうけんへ！
+DialogSpecialHelperTitle	ドリームフレンズが しゅやくに！
+DialogSpecialHelperText	{c[fe9a10]}フレンズせんたく{c[000000]}に {c[fe9a10]}ドリームフレンズ{c[000000]}が\nとうじょう！ ドリームフレンズたちの\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0`0D0大ぼうけん{c[000000]}が はじまるぞ！
+DialogAbilityAllClear01	{c[fe9a10]}すべてのフレンズ{c[000000]}で クリアした！\nたくさんの ともだちが\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者{c[000000]}と なったぞ！
+CheckpointDialog	じかい あそぶときは\nここから スタートできます！
+CheckpointDialogNext	つぎのステージへ
+CheckpointDialogNextLevel	つぎのレベルへ
+CheckpointDialogExit	タイトルへ
+$ResultBestTime	ベストタイム
+$ResultClose	おわる
+$ResultTimeList	クリアタイム
+$ResultTotal	TOTAL
+$StepStartSign	READY
+$StepStartSignGo	GO!
+$TitleTutorial	あそびかた
+$CharaSelBestTime	ベストタイム
+$CharaSelDetail	\x0e\x04\x03\x02\x03\0 しょうさい
+$CharaSelInfo	みんなで あそぶときは\nステージで {c[fe9a10]}いつでもイン{c[000000]} できます。
+CharaSelCaption	フレンズセレクト
+$BestTimeTotal	TOTAL
+$HelperGoBestTimeInfo	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0 きろくをけす
+BestTimeCaption	ベストタイム
+BestTimeLevelNum	レベル\x0e\x03\x01\0
+DialogDeleteHighScoreMessage	{c[fe9a10]}\x0e\x03\x05\0 {c[000000]}の\nベストタイムを {c[fe9a10]}けします。\n{c[000000]}よろしいですか？
+DialogDeleteContinueData	{c[fe9a10]}\x0e\x03\x05\0{c[000000]}の セーブデータが\nのこっています。\n{c[fe9a10]}はじめから{c[000000]} あそびますか？
+DialogLocked	\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x0c\x08\0\x08\0\xde0\xeb0\xde0\xeb0○○○○を {c[fe9a10]}いちど クリア{c[000000]}すると\nえらべるように なるぞ！
+DialogAboutContinue	すべての フレンズの {c[fe9a10]}セーブデータを\nのこせる{c[000000]}ように なりました！\n{c[fe9a10]}とっかえひっかえ {c[000000]}いろいろな フレンズと\nぼうけんに \x0e\0\0\x06\x02\0\x02\0g0出よう！
+BestTimeClose	もどる
+CharaSelClose	もどる
+$CharaTitlelReturn	もどる
+PowerUpAttack	こうげき\nLv
+PowerUpDefense	たいりょく\nLv
+PowerUpSpeed	すばやさ\nLv
+Max	MAX
+$CharaSelContinue	つづきから
+$CharaSelNewGame	はじめから
+HelperGoSubtitle.msbt
+Bladeknight	この\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣に\x0e\0\0\x08\x02\0\x04\0a0K0誓って
+Sirkibble	リターントゥ\x0e\0\0\n\x04\0\x06\0V0\x930p0斬刃
+Poppyjr	\x0e\0\0\x08\x02\0\x04\0]0\x890空に\x0e\0\0\x08\x02\0\x04\0o0X0弾ける\x0e\0\0\x0c\x04\0\x08\0o0j0p0j0花々
+Rocky	\x0e\0\0\x08\x02\0\x04\0D0K0怒りのヘビーアッパー！
+Wester	テンガロンハンター
+Bonkers	\x0e\0\0\n\x04\0\x06\0M0D0\x8d0黄色いバナナを\x0e\0\0\x08\x02\0\x04\0\x820h0求めては…
+BioSpark	\x0e\0\0\x14\x08\0\x10\0W0g0\x930 \0R0d0H0D0紫電月影
+Gim	ギムズプラネットツアー
+StickEnemy	\x0e\0\0\x08\x02\0\x04\0W0\x930信じられる\x0e\0\0\x08\x02\0\x04\0h0\x820友こそが
+Burningleo	\x0e\0\0\x06\x02\0\x02\0\x820燃えろ！ライオンハート
+Chilly	はるかぜそよぐ、その\x0e\0\0\x08\x02\0\x04\0~0H0前に…
+Waddledoo	ビームの\x0e\0\0\x08\x04\0\x04\00a0未知なる\x0e\0\0\x0e\x06\0\n\0K0n0F0[0D0可能性について
+Conce	\x0e\0\0\x08\x02\0\x04\0\x8f0Y0忘らるる\x0e\0\0\n\x04\0\x06\0M0|0F0希望の\x0e\0\0\n\x02\0\x06\0r0K0\x8a0光
+WaterEnemy	ウルルン！スプリンクル
+Nesp	サイキックエイジズ
+Birdon	フリーダムスカイ
+Broomhatter	\x0e\0\0"\x0e\0\x1e\0[0K0D0 \0[0D0X0\x870F0K0 \0[0\x930R0\x930世界清浄化宣言
+Knucklejoe	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥かなる\x0e\0\0\x0c\x04\0\x08\0d0\x8f0\x820n0強者たち
+Bugzzy	\x0e\0\0\x0c\x04\0\x08\0\x8c0M0[0\x930歴戦のインセクトバトラー
+Beetlie	\x0e\0\0\x0c\x04\0\x08\0W0\x930H0D0新鋭のインセクトバトラー
+Como	３つ\x0e\0\0\x06\x02\0\x02\0\x810目スーパースパイダー
+ParasolWaddledee	ふわふわおちて、ひがさして。
+Vivitia	カラフル㊤ハートフル
+ChefKawasaki	\x0e\0\0\x0c\x04\0\x08\0h0d0R0M0突撃！\x0e\0\0\x0c\x02\0\x08\0_0~0W0D0魂の\x0e\0\0\x10\x06\0\x0c\0\x8a0\x870F0\x8a0k0\x930料理人
+BandanaWaddledee	レジェンド オブ ワドルディ
+KingDedede	\x0e\0\0\n\x04\0\x06\0J0F0D0王位の\x0e\0\0\x0c\x04\0\x08\0u0c0Q0\x930復権
+Metaknight	その\x0e\0\0\x08\x02\0\x04\0\x8400闇、\x0e\0\0\x06\x02\0\x02\0\x8f0我が\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣の\x0e\0\0\x08\x02\0\x04\0K0f0糧に
+Gooey	ココはドコでボクだ～れ？
+Rick	\x0e\0\0\x10\x06\0\x0c\0\x8a0O0K0D0O0F0陸海空アニマルズ
+Marx	\x0e\0\0\n\x04\0\x06\0N0\x930L0銀河に\x0e\0\0\n\x04\0\x06\0\x840|0F0野望を
+Adeleine	あたしたちもまぜて
+DarkMetaknight	シャドーサイドストーリー
+Daroach	\x0e\0\0\x0e\x04\0\n\0U0\x930X0\x870F0参上！\x0e\0\0\x08\x04\0\x04\0]0\x890宇宙かける\x0e\0\0\x0c\x04\0\x08\0h0F0^0O0盗賊\x0e\0\0\x08\x02\0\x04\0`0\x930団
+Illust.msbt
+$IllustHeader	イラストギャラリー
+$ViewBtn	おおきく
+$IllustComplete	イラストかんせい！
+Complete0X	{c[fe9a10]}\x0e\x03\x01\0まい\x0e\0\0\x06\x02\0\x02\0\x810目{c[000000]}の メモリアルイラストが かんせいした！\n{c[fe9a10]}イラストギャラリー{c[000000]}へ \x0e\0\0\x06\x02\0\x02\00見にいってみよう！
+Complete01	はじめて {c[fe9a10]}メモリアルイラスト{c[000000]}が かんせいした！\n{c[fe9a10]}イラストギャラリー{c[000000]}へ \x0e\0\0\x06\x02\0\x02\00見にいって みよう！
+CompleteAll	せかいに ちらばる イラストピースを あつめ\n\x0e\x03\x01\0まい {c[fe9a10]}すべての メモリアルイラスト{c[000000]}が かんせいした！
+Title01	はじまりのライバル
+Title02	くものうえドリーム
+Title03	スーパーウルトラバトル！
+Title04	おいしいピクニック
+Title05	\x0e\0\0&\x0e\0"\0J0_0K0\x890 \0]0F0`0d0 \0`0D0\x810D0M0\x850F0御宝争奪大迷宮
+Title06	FIGHT FOR THE CROWN!!
+Title07	\x0e\0\0\x08\x02\0\x04\0]0\x890空へと\x0e\0\0\x08\x02\0\x04\0d0e0続くきせき
+Title08	ロボボメモリーズ
+Title09	\x0e\0\0\x0c\x04\0\x08\0\{0W0^0\x890星空のいたずらパニック
+Title10	ゆめをかなえに しゅっぱつ！
+Title11	フレンズ ホリデイズ
+Title12	\x0e\0\0\x08\x02\0\x04\0K0R0影なる\x0e\0\0\x0e\x04\0\n\0M0\x870F0h0F0共闘
+$ViewClose	\x0e\x04\x01\x02\x01\0とじる
+$ViewBtnA	\x0e\x04\0\x02\0\0
+GalleryDialogNoSheetUnlocked	まだ {c[fe9a10]}イラストピース{c[000000]}を\nもっていません。\nステージで あつめてこよう！
+CloseInfoTextClose	とじる
+CloseInfoTextBack	もどる
+IllustAuthor.msbt
+Author01	Toshinao Aoki
+Author02	kanahei
+Author03	lack
+Author04	Kouichi Ooyama
+Author05	Ashura Benimaru Itoh
+Author06	Ashura Benimaru Itoh
+Author07	Toshinao Aoki
+Author08	Yuji KAIDA
+Author09	R.F (HAL Laboratory, Inc.)
+Author10	H.M (HAL Laboratory, Inc.)
+Author11	T.K (HAL Laboratory, Inc.)
+Author12	S.O (HAL Laboratory, Inc.)
+Movie.msbt
+Nfp.msbt
+InvalidTiming	いまは \x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかえません。
+AskStartNfp	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかって\n{c[fe9a10]}かいふくアイテム{c[000000]}や {c[fe9a10]}イラストピース{c[000000]}などの\nアイテムを ゲットできます！\n\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかいますか？
+NoticeLimitation	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかえるのは\nつづけて{c[fe9a10]} \x0e\x03\x01\0\x0e\0\0\x08\x02\0\x04\0K0D0回{c[000000]}までです。\nステージを {c[fe9a10]}クリア{c[000000]}すると\nまた つかえます。
+NoticeLimitationHelperGo	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかえるのは\nつづけて{c[fe9a10]} \x0e\x03\x01\0\x0e\0\0\x08\x02\0\x04\0K0D0回{c[000000]}までです。\n{c[fe9a10]}\x0e\0\0\x0e\x04\0\n\0a0\x850F0K0\x930中間ポイント{c[000000]}に とうたつするか\n{c[fe9a10]}レベルクリア{c[000000]}すると また つかえます。
+NoticeLimitationArena	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを つかえるのは\nつづけて{c[fe9a10]} \x0e\x03\x01\0\x0e\0\0\x08\x02\0\x04\0K0D0回{c[000000]}までです。\nはじめから プレイすると\nまた つかえます。
+ErrorNfcDeviceNotFound	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを \x0e\0\0\x06\x02\0\x02\0\x880読み\x0e\0\0\x06\x02\0\x02\0h0取れる\nコントローラーが\n\x0e\0\0\x06\x02\0\x02\00見つかりませんでした。
+AskTouchAmiibo	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}の コントローラーの {c[fe9a10]}\x0e\0\0\x10\x06\0\x0c\0\xa80\xcc0\xa80\xd50\xb70\xfc0NFCエリア{c[000000]}に\n\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboを  タッチしてください。
+AskTouchAmiiboCancel	\x0e\x04\x01\x02\x01\0キャンセル
+Reading	\x0e\0\0\x06\x02\0\x02\0\x880読みこみ\x0e\0\0\n\x02\0\x06\0a0\x850F0中…
+Canceling	キャンセル\x0e\0\0\n\x02\0\x06\0a0\x850F0中…
+ErrorOther	エラーが \x0e\0\0\x0c\x04\0\x08\0o0c0[0D0発生しました。
+NoticeUsedTag	この\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboからは\nもう アイテムを {c[fe9a10]}もらいました。\n{c[000000]}ステージを {c[fe9a10]}クリア{c[000000]}すると\nまた つかえます。
+NoticeUsedTagHelperGo	この\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboからは\nもう アイテムを {c[fe9a10]}もらいました。{c[000000]}\n{c[fe9a10]}\x0e\0\0\x0e\x04\0\n\0a0\x850F0K0\x930中間ポイント{c[000000]}に とうたつするか\n{c[fe9a10]}レベルクリア{c[000000]}すると また つかえます。
+NoticeUsedTagArena	この\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboからは\nもう アイテムを {c[fe9a10]}もらいました。\n{c[000000]}はじめから プレイすると\nまた つかえます。
+Option.msbt
+FileDeleteFirst_Text	{c[fe9a10]}ファイル\x0e\x03\x01\0{c[000000]}のデータを\nすべて けしますか？
+FileDeleteFirst_BtnYes	けす
+FileDeleteFirst_BtnNo	けさない
+FileDeleteConfirm_Text	ほんとうに けしますよ？
+FileDeleteConfirm_BtnYes	ほんとうに けす
+FileDeleteConfirm_BtnNo	やっぱり けさない
+FileDeleteConfirm2_Text	どうしても けしたいのですね？
+FileDeleteConfirm2_BtnYes	どうしても けす!!
+FileDeleteConfirm2_BtnNo	やっぱり けさない
+FileDeleteWarn_Text	けしたデータは もどりません!!\n{c[fe9a10]}こうかいしませんね？{c[000000]}
+FileDeleteWarn_BtnYes	こうかいしない!!!!
+FileDeleteWarn_BtnNo	けしたく ないです…
+FileDeleteEnd_Text	ファイル\x0e\x03\x01\0を けしました
+FileDeleteEnd_BtnOK	OK
+OptionSettingReset_Text	ゲームせっていを {c[fe9a10]}リセット{c[000000]}しますか？
+OptionSettingReset_BtnYes	はい
+OptionSettingReset_BtnNo	いいえ
+OptionHeader_Menu	オプション
+OptionHeader_GameSetting	ゲームせってい
+OptionHeader_KeyConfig	キーコンフィグ
+OptionClose	もどる
+OptionBack	もどる
+OptionSettingGuide_On	ON
+OptionSettingGuide_Off	OFF
+OptionSettingFriendCopy_OnlyFirst	\x0e\0\0\x0c\x04\0\x08\0W0\x870K0D0初回のみ
+OptionSettingFriendCopy_All	\x0e\0\0\x0c\x06\0\x08\0\\0\x930v00全部見る
+OptionSettingFriendCopy_No	\x0e\0\0\x06\x02\0\x02\00見ない
+OptionSettingVibration_On	ON
+OptionSettingVibration_Off	OFF
+OptionKeyConfig_TypeA	Aタイプ
+OptionKeyConfig_TypeB	Bタイプ
+OptionKeyConfig_Stick	いどう
+OptionKeyConfig_Attack	こうげき
+OptionKeyConfig_Jump	ジャンプ
+OptionKeyConfig_Heart	フレンズハート
+OptionKeyConfig_Delete	のうりょく すてる
+$OptionMenuConfigBtnText	キーコンフィグ
+$OptionMenuDeleteBtnText	ファイルをけす
+$OptionMenuSettingBtnText	ゲームせってい
+$OptionSettingFriendCipyBtnText	フレンズのうりょくデモ
+$OptionSettingGuideBtnText	ガイドひょうじ
+$OptionSettingVibrationBtnText	しんどう
+$OptionKeyConfigBtnText	そうさタイプ
+$OptionSettingResetBtnText	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0
+$OptionSettingResetText	リセットする
+Pause.msbt
+$CommandToRightText	\x0e\0\0\x08\x02\0\x04\00N0右むきのとき
+HeaderAbility	\x0e\x03\x05\0\x0e\x03\x01\0
+HeaderAbilityFriendsStar	フレンズスター\x0e\x03\x01\0
+HeaderAbilityFriendsRolling	フレンズころがり\x0e\x03\x01\0
+HeaderAbilityFriendsBridge	フレンズつりばし\x0e\x03\x01\0
+HeaderAbilityFriendsTrain	フレンズれっしゃ\x0e\x03\x01\0
+HeaderAbilityTwinkleStarAllies	ティンクルスターアライズ\x0e\x03\x01\0
+HeaderAbilityLastCloseContest	ティンクルスターアライズ\x0e\x03\x01\0
+HeaderAbilityNormal	カービィについて\x0e\x03\x01\0
+HeaderAbilityInWater	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中そうさ
+HeaderAbilityFriend	{s[085]}\x0e\x03\x05\0の\nフレンズのうりょく{s[100]}
+HeaderFriendCoop	きょうつう フレンズそうさ
+HeaderKeyConfig	そうさせつめい
+HeaderController	コントローラーせってい
+DialogWindowExitStage	おした \x0e\0\0\x08\x02\0\x04\0`0D0大スイッチや\nイラストピースは {c[fe9a10]}セーブされません。{c[000000]}\nほんとうに ステージを でますか？
+DialogWindowExitWorld	ワールドセレクトへ もどりますか？
+DialogWindowExitScoreGame	{c[fe9a10]}ゲームをやめて{c[000000]}\nタイトルへ もどりますか？
+DialogWindowAmiiboDisabled	\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiiboは ステージのなかで\nつかうことが できます。
+CloseInfoText	とじる
+KeyConfigTypeA	Aタイプ
+KeyConfigTypeB	Bタイプ
+BtnController	コントローラーせってい
+BtnInformation	みんなであそぶには？
+BtnContinue	ゲームをつづける
+BtnExitWorld	ワールドセレクトへ
+BtnExitScoreGame	タイトルへ
+BtnExitStage	ステージをでる
+BtnTime	タイムをみる
+HelperGoStageName	星の○○○○ レベル\x0e\x03\x01\0
+ArenaStageName	\x0e\x03\x06\0
+Lv5StageName	星のカービィ スターアライズ
+Resident.msbt
+HIDErrorDialog_MainPlayer_Text	{c[fe9a10]}1P{c[000000]}を そうさする\nコントローラーが {c[fe9a10]}みつかりません。{c[000000]}
+HIDErrorDialog_DropOutText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}の コントローラーの\nせつぞくが \x0e\0\0\x06\x02\0\x02\0M0切れました。\n{c[fe9a10]}CPに きりかえて\n{c[000000]}ゲームを さいかいしますか？
+HIDErrorDialog_QuitText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}の コントローラーの\nせつぞくが \x0e\0\0\x06\x02\0\x02\0M0切れました。\n{c[fe9a10]}タイトル{c[000000]}に もどりますか？
+HIDErrorDialog_EncourageText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}の コントローラーを\n{c[fe9a10]}せつぞく{c[000000]}してください。\n\n\x0e\x04\x01\x02\x01\0キャンセル
+HIDErrorDialog_BtnNo	いいえ
+HIDErrorDialog_BtnYes	はい
+TipsAbilityGet_Title	てきを {c[fe9a10]}のみこみ{c[000000]} のうりょくゲット！
+TipsAbilityGet_Text	{c[fe9a10]}のうりょく{c[000000]}を もっている {c[fe9a10]}てき{c[000000]}を すいこんで\n\x0e\x04\x15\x02\xc2\0で のみこみ {c[fe9a10]}コピーのうりょく{c[000000]}ゲット！
+TipsFriendHeart_Title	{c[fe9a10]}フレンズハート{c[000000]}で なかまにしよう！
+TipsFriendHeart_Text	のうりょくを もっている てきに\n\x0e\x07\x02\x02\x02\0で {c[fe9a10]}ハート{c[000000]}を あてると {c[fe9a10]}なかま{c[000000]}になる。
+TipsFriendCopy1_Title	{c[fe9a10]}ぶき{c[000000]}に \x0e\0\0\n\x02\0\x06\0\{0n0J0炎をつけて {c[fe9a10]}フレンズのうりょく！{c[000000]}
+TipsFriendCopy1_Text	\x0e\x04\x17\x02\xc4\0で かかげた {c[fe9a10]}ぶき{c[000000]}に\n{c[fe9a10]}なかまの\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}を つけることが できる！
+TipsFriendCopy2_Title	さまざまな\x0e\0\0\n\x02\0\x06\0a0K0\x890力を {c[fe9a10]}ぶき{c[000000]}に つけてみよう！
+TipsFriendCopy2_Text	ぶきに つけられる\x0e\0\0\n\x02\0\x06\0a0K0\x890力は\n{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}、{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}、{c[fe9a10]}\x0e\0\0\n\x04\0\x06\0g0\x930M0電気{c[000000]}など さまざま。
+TipsCopyResource_Title	{c[fe9a10]}コピーのもと{c[000000]}で なかまを ふやそう
+TipsCopyResource_Text	{c[fe9a10]}コピーのもと{c[000000]}に フレンズハートを\nあてても {c[fe9a10]}なかまが ふやせる！{c[000000]}
+TipsStoneCurling_Title	{c[fe9a10]}ストーン{c[000000]}の フレンズのうりょく
+TipsStoneCurling_Text	{c[fe9a10]}ストーン{c[000000]}は なかまの{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}や {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}などのパワーで\n{c[fe9a10]}フレンズのうりょく{c[000000]}が はつどうする。
+TipsRequestUnion_Title	{c[fe9a10]}なかま{c[000000]}の ぶきに つけてあげよう！
+TipsRequestUnion_Text	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}\x0e\0\0\x06\x02\0\x02\0f0手をあげた{c[000000]} なかまに \x0e\x07\x01\x02\x01\0{c[fe9a10]}こうげき{c[000000]}で\nなかまの ぶきに {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎などを つけられる！{c[000000]}
+TipsOKIcon_Title	{c[fe9a10]}アイコン{c[000000]}の かずだけ {c[fe9a10]}なかま{c[000000]}を \x0e\0\0\x08\x02\0\x04\0B0d0集めよう！
+TipsOKIcon_Text	\x0e\0\0\x08\x04\0\x04\0F0Z0右図の アイコンは {c[fe9a10]}なかまの かず{c[000000]}を \x0e\0\0\n\x02\0\x06\0B0\x890\x8f0表すもの。\nだれでも よいので なかまを よぼう！
+TipsMultiPlay_Title	ともだちと {c[fe9a10]}いっしょに{c[000000]} あそんでみよう！
+TipsMultiPlay_Text	ともだちと {c[fe9a10]}おすそわけプレイ{c[000000]}が できるぞ。\n\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conの \x0e\x04\x0d\x02d\0＋\x0e\x04\x0e\x02e\0で いつでも さんか！
+TipsResetAbility_Title	{c[fe9a10]}リセットフロア{c[000000]}で メンバーチェンジ！
+TipsResetAbility_Text	リセットフロアで {c[fe9a10]}なかま{c[000000]}を {c[fe9a10]}コピーのもと{c[000000]}に\nして {c[fe9a10]}すきなメンバー{c[000000]}に メンバーチェンジ！
+TipsVacuum_Title	なんでも すいこむ {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ！{c[000000]}
+TipsVacuum_Text	カービィは {c[fe9a10]}てき{c[000000]}を\n\x0e\x07\x01\x02\x01\0で {c[fe9a10]}すいこむ{c[000000]}ことが できる！
+TipsMouthFeed_Title	かいふくアイテム {c[fe9a10]}おすそわけ{c[000000]}
+TipsMouthFeed_Text	かいふくアイテムを とって {c[fe9a10]}なかま{c[000000]}のもとへ\n\x0e\0\0\x06\x02\0\x02\0D0行くと {c[fe9a10]}くちうつし{c[000000]}で なかまも {c[fe9a10]}かいふく！{c[000000]}
+TipsCommand_Title	{c[fe9a10]}ワザ{c[000000]}の つかい\x0e\0\0\x08\x02\0\x04\0K0_0方は {c[fe9a10]}ポーズがめん{c[000000]}に！ 
+TipsCommand_Text	\x0e\x04\x11\x02\x94\0で {c[fe9a10]}ポーズがめん{c[000000]}を ひらいて みよう！\nいろいろな{c[fe9a10]}ワザ{c[000000]}の つかい\x0e\0\0\x08\x02\0\x04\0K0_0方が みられるぞ。
+TipsPointStar_Title	{c[fe9a10]}ポイントスター{c[000000]}を あつめよう
+TipsPointStar_Text	ポイントスターを{c[fe9a10]} 100コ {c[000000]}あつめると {c[fe9a10]}1UP！\n{c[000000]}のこりカービィが ふえるぞ！
+TipsQuickDiscard_Title	のうりょくを {c[fe9a10]}すてる{c[000000]} 
+TipsQuickDiscard_Text	 \x0e\x07\x03\x02\x03\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし または \x0e\x07\x04\x02\x04\0で\nのうりょくを {c[fe9a10]}すてられる。{c[000000]}
+TipsRestruction_Title	フレンズと {c[fe9a10]}さよなら{c[000000]}するには
+TipsRestruction_Text	\x0e\x04\t\x02`\0＋\x0e\x07\x03\x02\x03\0で {c[fe9a10]}さよなら{c[000000]}する\nフレンズを えらぶことが できる。
+TipsSwitchBig_Title	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0`0D0大スイッチ{c[000000]}を さがそう！
+TipsSwitchBig_Text	{c[fe9a10]}エクストラステージ{c[000000]}が ひらく {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0`0D0大スイッチ{c[000000]}は\nステージの どこかに かくされている。
+TipsGalaxy_Title	ワールドマップの カメラそうさ
+TipsGalaxy_Text	ひろい\x0e\0\0\x0c\x04\0\x08\0F0a0\x850F0宇宙を \x0e\0\0\n\x04\0\x06\0X0\x860F0自由に かけぬけよう。\nRスティックで {c[fe9a10]}カメラ{c[000000]}を そうさできるぞ！
+TipsMuseumGeneral_Title	{c[fe9a10]}ドリームしんでん{c[000000]}
+TipsMuseumGeneral_Text	{c[fe9a10]}ドリームロッド{c[000000]}を \x0e\0\0\x06\x02\0\x02\0f0手にして\n{c[fe9a10]}とくべつなフレンズ{c[000000]}を よびだそう！
+TipsMuseumRepeat_Title	もう\x0e\0\0\n\x04\0\x06\0D0a0i0一度 {c[fe9a10]}ドリームしんでん{c[000000]} に\x0e\0\0\x08\x02\0\x04\0o0D0入るには？
+TipsMuseumRepeat_Text	どこかの ステージを {c[fe9a10]}クリア{c[000000]}すると\nもう\x0e\0\0\n\x04\0\x06\0D0a0i0一度 \x0e\0\0\x08\x02\0\x04\0o0D0入れるようになる。
+TipsMuseumHelper2_Title	{c[fe9a10]}ぞくぞく\x0e\0\0\n\x04\0\x06\0d0D0K0追加 {c[000000]}ドリームフレンズ！
+TipsMuseumHelper2_Text	ドリームフレンズは {c[fe9a10]}\x0e\0\0\x0c\x04\0\x08\0\x800\x8a0\x870F0無料アップデート{c[000000]}で \x0e\0\0\x10\x08\0\x0c\0d0D0K0\x880f0D0追加予定。\nシリーズキャラとの ぼうけんは {c[fe9a10]}まさにドリーム！{c[000000]}
+TipsBossFriendCopy_Title	フレンズのうりょくで パワーアップ！
+TipsBossFriendCopy_Text	フレンズのうりょくを はつどうすれば\n{c[fe9a10]}こうげき\x0e\0\0\n\x02\0\x06\0\x8a0\x870O0力{c[000000]}が {c[fe9a10]}アップ{c[000000]}して ゆうりになるぞ！
+TipsBossHP_Title	やられても {c[fe9a10]}あきらめるな！{c[000000]}
+TipsBossHP_Text	なんども たたかうと{c[fe9a10]} ボス{c[000000]}は つかれて{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\x880\x8f0弱くなる！\nあきらめずに{c[000000]} ふたたび いどもう！
+TipsBossRevive_Title	なかまを {c[fe9a10]}たすけよう！ {c[000000]}
+TipsBossRevive_Text	やられた なかまは\x0e\x07\x02\x02\x02\0で {c[fe9a10]}たすけよう！{c[000000]}
+TipsBossWeakness_Title	ボスの\x0e\0\0\x08\x02\0\x04\0J0J0大ワザには {c[fe9a10]}\x0e\0\0\x0e\x04\0\n\0X0\x830O0f0\x930弱点{c[000000]}で はんげきだ！
+TipsBossWeakness_Text	ボスのワザを よく\x0e\0\0\x06\x02\0\x02\00見て、\x0e\0\0\n\x02\0\x06\0\{0n0J0炎、\x0e\0\0\x08\x02\0\x04\00Z0水、\x0e\0\0\n\x04\0\x06\0g0\x930M0電気など\nどれが {c[fe9a10]}ゆうこう{c[000000]}か ためしてみよう！
+TipsBoss72_Title	{c[fe9a10]}\x0e\0\0\x0c\x0c\0\x08\0\xa20\xdf0\xfc0\xdc0amiibo{c[000000]}を つかって {c[fe9a10]}かいふく！{c[000000]}
+TipsBoss72_Text	ボスに かてないときは\n{c[fe9a10]}ポーズ{c[000000]}から{c[fe9a10]}\x0e\0\0\x0c\x0e\0\x08\0\xa20\xdf0\xfc0\xdc0 amiibo{c[000000]}を つかって みよう！
+TipsBossWhispy1_Title	ウィスピーウッズを {c[fe9a10]}もやしちゃえ！{c[000000]}
+TipsBossWhispy1_Text	\x0e\0\0\x08\x02\0\x04\0J0J0大きくなった ウィスピーウッズは みんなで\n{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}で こうげきして、{c[fe9a10]}もやす{c[000000]}ことが できるぞ！
+TipsBossDedede1_Title	{c[fe9a10]}たいりょく かいふく{c[000000]}の チャンス！
+TipsBossDedede1_Text	なげつけられた よごれた \x0e\0\0\x06\x02\0\x02\0_0食べものは\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}のこうげきで {c[fe9a10]}あらうことが できる！{c[000000]}
+TipsBossMetaKnight1_Title	\x0e\0\0\x08\x02\0\x04\0D0\x8f0岩をこわして {c[fe9a10]}チャンス{c[000000]}を \x0e\0\0\x08\x02\0\x04\0d0O0作り\x0e\0\0\x06\x02\0\x02\0`0出せ！ 
+TipsBossMetaKnight1_Text	{c[fe9a10]}つみ\x0e\0\0\x06\x02\0\x02\0B0上げられた\x0e\0\0\x08\x02\0\x04\0D0\x8f0岩{c[000000]}は こわせるぞ！\nこわすと メタナイトに {c[fe9a10]}すき{c[000000]}が \x0e\0\0\x06\x02\0\x02\0F0生まれる！
+TipsBossPon1_Title	バクダンは こわせるぞ！
+TipsBossPon1_Text	\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷のバクダンは {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}で\n\x0e\0\0\n\x02\0\x06\0\{0n0J0炎のバクダンは {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}や {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}で すぐに {c[fe9a10]}こわせる！{c[000000]}
+TipsBossIce1_Title	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}と{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}を あやつる フラン・キッス
+TipsBossIce1_Text	フラン・キッスは {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}や{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}を あやつる。\n{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}や{c[fe9a10]}\x0e\0\0\n\x04\0\x06\0g0\x930M0電気{c[000000]}の {c[fe9a10]}フレンズのうりょく{c[000000]}で いどめ！
+TipsBossFire1_Title	{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}を あやつる フラン・ルージュ
+TipsBossFire1_Text	フラン・ルージュは {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}を あやつる。\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}や{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷{c[000000]}の {c[fe9a10]}フレンズのうりょく{c[000000]}で \x0e\0\0\x06\x02\0\x02\0r0冷やしちゃえ！
+TipsBossThunder1_Title	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキ{c[000000]}を あやつる  ザン・パルルティザーヌ
+TipsBossThunder1_Text	ザン・パルルティザーヌは {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキ{c[000000]}を あやつる。\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}の {c[fe9a10]}フレンズのうりょく{c[000000]}で ショートさせるんだ！
+TipsBossYugu1_Title	ユグドラルウッズを {c[fe9a10]}もやすんだ！{c[000000]}
+TipsBossYugu1_Text	\x0e\0\0\n\x02\0\x06\0\{0n0J0炎の {c[fe9a10]}フレンズのうりょく{c[000000]}を じゅんびしよう！\nみんなの {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}で {c[fe9a10]}もやすんだ！{c[000000]}
+TipsBossPonEX1_Title	{c[fe9a10]}シャッター{c[000000]}を こわそう！
+TipsBossPonEX1_Text	なかまを ぶんだんする {c[fe9a10]}シャッター{c[000000]}を こわせ！\n{c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}でなら すぐ もやせる。
+TipsBossGiantironmom_Title	りょう\x0e\0\0\x06\x02\0\x02\0f0手の ぶきを よく\x0e\0\0\x06\x02\0\x02\00見よう！
+TipsBossGiantironmom_Text	りょう\x0e\0\0\x06\x02\0\x02\0f0手の {c[fe9a10]}ぶき{c[000000]}は {c[fe9a10]}ばくだん{c[000000]}だ！ \n{c[fe9a10]}ヒモ{c[000000]}を きって {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎{c[000000]}をつけて はんげきしよう。
+TipsBossKracko_Title	{c[fe9a10]}みんな{c[000000]}となら こおらせられる！
+TipsBossKracko_Text	{c[fe9a10]}たき{c[000000]}のような \x0e\0\0\x08\x02\0\x04\0B0\x810雨も\nみんなと きょうりょくすれば {c[fe9a10]}こおらせられる！{c[000000]}
+TipsBossHiness_Title	フレンズのうりょくを くし するんだ！
+TipsBossHiness_Text	よりすぐりの メンバーと ともに\n{c[fe9a10]}フレンズのうりょく{c[000000]}で パワーアップして いどめ！
+TipsBossLastBoss1_Title	{c[fe9a10]}\x0e\0\0\x0e\x04\0\n\0X0\x830O0f0\x930弱点{c[000000]}を {c[fe9a10]}チャージ{c[000000]}して ねらいうて！
+TipsBossLastBoss1_Text	{c[fe9a10]}きょり{c[000000]}をとって {c[fe9a10]}チャージ{c[000000]}して ねらいうて！\nこうげきは {c[fe9a10]}２だんジャンプ{c[000000]}で かわそう。
+TipsBossLastBoss2_Title	ダメージで ふる {c[fe9a10]}えきたい{c[000000]}は…
+TipsBossLastBoss2_Text	ダメージを あたえると ふってくる\n{c[fe9a10]}えきたい{c[000000]}は {c[fe9a10]}パラソル{c[000000]}で ふせげるぞ！
+TipsBossLastBoss3_Title	{c[fe9a10]}フレンズハート{c[000000]}で とりもどせ！
+TipsBossLastBoss3_Text	あやつられて しまった フレンズの {c[fe9a10]}こころ{c[000000]}を\nとりもどすには {c[fe9a10]}フレンズハート{c[000000]}しかない！
+TipsA19_Title	\x0e\0\0\x08\x02\0\x04\0\x8400闇のハートを おって…
+TipsA19_Text	\x0e\0\0\x08\x02\0\x04\0\x8400闇のハートを おって\nフレンズたちは ついに、\n{c[fe9a10]}ふういんの\x0e\0\0\x08\x02\0\x04\0U0D0祭だん{c[000000]}へと たどりつく…！
+TipsA20_Title	\x0e\0\0\n\x04\0\x06\0U0D0T0最後の\x0e\0\0\n\x02\0\x06\0_0_0K0戦いへ…！
+TipsA20_Text	\x0e\0\0\x0c\x04\0\x08\0g0\x930[0d0伝説の ひほう、\n{c[fe9a10]}ティンクルスターアライズ{c[000000]}に なって\nフレンズたちは ぼう\x0e\0\0\x08\x02\0\x04\0]0F0走する \x0e\0\0\x08\x02\0\x04\0\x8400闇に…いどむ!!
+TipsA21_Title	\x0e\x07\0\x02\0\0\x0e\0\0\x08\x02\0\x04\0j0L0長おしで {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0_0K0高くジャンプ！{c[000000]}
+TipsA21_Text	{c[fe9a10]}フレンズころがり{c[000000]}\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x07\0\x02\0\0を \x0e\0\0\x08\x02\0\x04\0j0L0長おし すると\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0_0K0高く ジャンプ{c[000000]}することが できるぞ！
+TipsA27_Title	{c[fe9a10]}ヒント{c[000000]}なしで ときたいなら…
+TipsA27_Text	{c[fe9a10]}オプション{c[000000]}の {c[fe9a10]}ガイドひょうじ{c[000000]}を OFFにすると\nガイドかんばん を {c[fe9a10]}けせる。{c[000000]}
+TipsA28_Title	\x0e\x04\x17\x02\xc4\0\x0e\0\0\x08\x02\0\x04\0j0L0長おしで {c[fe9a10]}じゅんばん{c[000000]}に はつどう！
+TipsA28_Text	\x0e\x04\x17\x02\xc4\0を おしつづけると \x0e\0\0\x08\x02\0\x04\0D0~0今の なかまで できる\n{c[fe9a10]}フレンズのうりょく{c[000000]}を {c[fe9a10]}じゅんばん{c[000000]}に \x0e\0\0\n\x02\0\x06\0J0S0j0行っていく。
+TipsA29_Title	{c[fe9a10]}のっとりおんぶ{c[000000]}で CPを そうさできる！
+TipsA29_Text	CPに \x0e\x04\x15\x02\xc2\0を おしながら ジャンプで のると\n{c[fe9a10]}のっとりおんぶ{c[000000]}に。 CPを {c[fe9a10]}そうさ{c[000000]}できるぞ！
+TipsA50_Title	{c[fe9a10]}イラストピース{c[000000]}を あつめよう！
+TipsA50_Text	{c[fe9a10]}イラストピース{c[000000]}を あつめて\n{c[fe9a10]}メモリアルイラスト{c[000000]}を かんせいさせよう！
+TipsA51_Title	{c[fe9a10]}ゴールゲーム{c[000000]}で ボーナスを ゲット！
+TipsA51_Text	{c[fe9a10]}いちばん \x0e\0\0\x08\x02\0\x04\0W0_0下まで{c[000000]} さがったときに\nタイミングよく \x0e\x04\0\x02\0\0で {c[fe9a10]}たかく{c[000000]} とべる。
+TipsA52_Title	{c[fe9a10]}ポップフラワー{c[000000]}で アイテムゲット！
+TipsA52_Text	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0o0j0花{c[000000]}に さわって アイテムを ゲット！\nピンチの ときは {c[fe9a10]}ポップフラワー{c[000000]}に ふれよう。
+TipsA53_Title	{c[fe9a10]}なかま{c[000000]}から のうりょくゲット！
+TipsA53_Text	\x0e\x07\x01\x02\x01\0で {c[fe9a10]}なかま{c[000000]}を すいこんで\n\x0e\x04\x15\x02\xc2\0で のみこみ {c[fe9a10]}コピーのうりょく{c[000000]}を ゲット！
+TipsA54_Title	{c[fe9a10]}ガード{c[000000]}と {c[fe9a10]}そのばかいひ{c[000000]}
+TipsA54_Text	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\x0e\0\0\x08\x02\0\x04\0j0L0長おしで てきの{c[fe9a10]} こうげきを ガード！{c[000000]}\nさらに ガード\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0で {c[fe9a10]}そのばかいひ！{c[000000]}
+TipsA55_Title	{c[fe9a10]}スライディング{c[000000]}で こうげき！
+TipsA55_Text	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\0\x02\0\0 {c[fe9a10]}スライディング{c[000000]}で\nのうりょくが なくても {c[fe9a10]}こうげき できる。{c[000000]}
+TipsA56_Title	{c[fe9a10]}ゲームオーバー {c[000000]}
+TipsA56_Text	{c[fe9a10]}のこりカービィ{c[000000]}が {c[fe9a10]}0{c[000000]}のときに\nたおれると {c[fe9a10]}ゲームオーバー{c[000000]}になる。
+TipsA57_Title	{c[fe9a10]}アーティスト{c[000000]}で \x0e\0\0\x06\x02\0\x02\0H0絵をかこう！
+TipsA57_Text	\x0e\0\0\x08\x02\0\x04\0j0k0何も かかれていない {c[fe9a10]}かんばん{c[000000]}には\n\x0e\0\0\x06\x02\0\x02\0H0絵を かいて {c[fe9a10]}アイテム{c[000000]}を ゲットできる！
+TipsA58_Title	{c[fe9a10]}クイ{c[000000]}を うとう！ 
+TipsA58_Text	じめんに ささった {c[fe9a10]}クイ{c[000000]}は\n{c[fe9a10]}ストーン{c[000000]}や {c[fe9a10]}ハンマー{c[000000]}で うちこめる！
+TipsA59_Title	{c[fe9a10]}おちば{c[000000]}を キレイに しよう
+TipsA59_Text	{c[fe9a10]}クリーン{c[000000]}で キレイに\n{c[fe9a10]}おちば{c[000000]}を そうじして みよう。
+TipsA60_Title	{c[fe9a10]}ホバリング{c[000000]}で \x0e\0\0\x08\x02\0\x04\0]0\x890空を とぼう！
+TipsA60_Text	ジャンプ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x07\0\x02\0\0を おしつづけると\n{c[fe9a10]}ホバリング{c[000000]}して \x0e\0\0\x08\x02\0\x04\0]0\x890空を とべる。
+TipsA61_Title	ゆかを すりぬける
+TipsA61_Text	\x0e\x04\x15\x02\xc2\0を おすと\nゆかを すりぬけて \x0e\0\0\x08\x02\0\x04\0W0_0下へ {c[fe9a10]}おりられる。{c[000000]}
+TipsA62_Title	おうふくトビラは もどってこられる
+TipsA62_Text	このトビラは {c[fe9a10]}かえって くることが できる！{c[000000]}\nみつけたら はいって みよう！
+TipsA63_Title	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0K0\\0風{c[000000]}の\x0e\0\0\n\x02\0\x06\0a0K0\x890力で ワザの {c[fe9a10]}うごき{c[000000]}が かわる！
+TipsA63_Text	ぶきに {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0K0\\0風{c[000000]}の\x0e\0\0\n\x02\0\x06\0a0K0\x890力を つけると {c[fe9a10]}うき\x0e\0\0\x06\x02\0\x02\0B0上がる{c[000000]}ように\nワザの {c[fe9a10]}うごき{c[000000]}が かわる ものがある。
+TipsA64_Title	きょうりょくワザ {c[fe9a10]}フレンズアクション！{c[000000]}
+TipsA64_Text	4\x0e\0\0\x08\x02\0\x04\0k0\x930人のじょうたいで {c[fe9a10]}フレンズフロア{c[000000]}に のって\n\x0e\x04\x17\x02\xc4\0をおして {c[fe9a10]}フレンズアクション{c[000000]} はつどう！
+TipsA73_Title	{c[fe9a10]}CPフレンズ{c[000000]}の コマンドワザが みられる
+TipsA73_Text	{c[fe9a10]}CPフレンズ{c[000000]}へ おんぶ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x04\x11\x02\x94\0ポーズすると\nそのフレンズの {c[fe9a10]}コマンドワザ{c[000000]}が みられる。 
+TipsA74_Title	\x0e\x04\x10\x02\x91\0 キャプチャーボタン
+TipsA74_Text	{c[fe9a10]}\x0e\x04\x10\x02\x91\0キャプチャーボタン{c[000000]}で いつでも さつえい！\nいいのが とれたら ともだちに {c[fe9a10]}じまん{c[000000]}しよう！
+WTitleLv1SubTitle	へいわなくに
+WTitleLv1Title	プププランド
+WTitleLv2SubTitle	きせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星
+WTitleLv2Title	ポップスター
+WTitleLv3SubTitle	\x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい
+WTitleLv3Title	ジャマハルダ！
+WTitleLv4SubTitle	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、
+WTitleLv4Title	きらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち
+WTitleLv5SubTitle	\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ
+WTitleLv5Title	スターアライズ
+$SavingText	セーブ\x0e\0\0\n\x02\0\x06\0a0\x850F0中
+SoundRoom.msbt
+$SoundRoomBtn	Music
+$SoundRoomBtn02	Music
+$SoundRoomAutoBtn	AUTO
+$SoundRoomAutoBtn02	AUTO
+$SoundRoomHeader	サウンドルーム
+SoundRoomBackBtn	もどる
+StageList.msbt
+Lv1	プププランド
+Lv2	ポップスター
+Lv3	ジャマハルダ
+Lv4	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、きらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち
+StageName	\x0e\x03\x08\0
+CloseInfoText	とじる
+Step.msbt
+SwitchBigMuseumTitleText	{c[fe9a10]}ドリームしんでん{c[000000]} オープン！
+SwitchBigMuseumBodyText	\x0e\0\0\x08\x02\0\x04\0`0D0大スイッチを おして {c[fe9a10]}ワールドマップ{c[000000]}に\n{c[fe9a10]}ドリームしんでん{c[000000]}が オープンした！
+SwitchBigExStageTitleText	{c[fe9a10]}エクストラステージ{c[000000]} オープン！
+SwitchBigExStageBodyText	\x0e\0\0\x08\x02\0\x04\0`0D0大スイッチを おして {c[fe9a10]}ワールドマップ{c[000000]}に\n{c[fe9a10]}エクストラステージ{c[000000]}が オープンした！
+HelperClearTitleText	{c[fe9a10]}さよなら{c[000000]}する フレンズヘルパーを\nえらんでください。
+HelperClearTitleHelperText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}の {c[fe9a10]}フレンズ{c[000000]}と さよならします。
+HelperClearTitleSpecialText	{c[fe9a10]}\x0e\x03\x05\0{c[000000]}と こうたいする\nフレンズヘルパーを えらんでください。
+HelperClearCancelText	やめる
+HelperClearCancelSpecialText	キャンセル
+$ReviveHelp	タスケテ！
+ReviveCountdownText	カービィを たすけよう！
+ReviveCountdown_HelperText	1P \x0e\x03\x05\0を たすけよう！
+HeroPanelTwinkleStarName	フレンズスター
+HeroPanelTwinkleStarAlliesName	ティンクル\nスターアライズ
+FriendHeartDemoTitle	フレンズハートについて
+FriendHeartDemoShootHeart	フレンズハートで
+FriendHeartDemoGetFriend	なかまを ふやそう！
+$FriendCopyAttackUpText	こうげき アップ！
+FriendCopyRequestElement	つけて！
+FriendCopyRequestRide	のって！
+SubGame1.msbt
+#Subgame1IngameRemainingNum	あと{s[150]}\x0e\x03\x01\0{s[100]}m
+#Subgame1ResultRemainingNum	あと{s[150]}\x0e\x03\x01\0{s[100]}.\x0e\x03\x01\0m
+#Subgame1OutgameDescriptionText_Lv1	ゆっくりかんたんな ステージ。\nけむしを かわして たくさん \x0e\0\0\x06\x02\0\x02\0M0木をきろう！
+#Subgame1OutgameDescriptionText_Lv2	めいじんの しごとは そくどがアップ！\nとんでくる ゴルドーにも ちゅういだ！
+#Subgame1OutgameDescriptionText_Lv3	けむしと ゴルドー たいりょう はっせい！\n\x0e\0\0\x06\x02\0\x02\0\x810目にも とまらぬ オノさばきで てっぺんめざせ！
+#Subgame1OutgameLv1Apprentice	{s[075]}きこり{s[100]}\nみならい
+#Subgame1OutgameLv2Master	{s[075]}きこり{s[100]}\nめいじん
+#Subgame1OutgameLv3Expert	{s[075]}きこり{s[100]}\nせんにん
+$Subgame1Lv1Apprentice	{s[070]}きこり {s[100]}みならい
+$Subgame1Lv2Master	{s[070]}きこり {s[100]}めいじん
+$Subgame1Lv3Expert	{s[070]}きこり {s[100]}せんにん
+#ExplanationTextPage1	じかんまでに{c[fe9a10]} たくさん\x0e\0\0\x06\x02\0\x02\0M0木を きろう！{c[000000]}\n{c[fe9a10]}\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを ふれば{c[000000]} きこりカービィが オノをふる！
+#ExplanationTextPage2	{c[fe9a10]}けむし{c[000000]}や {c[fe9a10]}ゴルドー{c[000000]}に ちゅうい！\n\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0 で はんたいがわへ {c[fe9a10]}すばやく かわせ！{c[000000]}
+#ExplanationTextPage3	ゴルドーは {c[fe9a10]}ほかの\x0e\0\0\x06\x02\0\x02\0M0木{c[000000]}に とんでいく！{c[fe9a10]}\n{c[000000]}たくさん\x0e\0\0\x06\x02\0\x02\0M0木を きって {c[fe9a10]}りっぱなログハウス{c[000000]}を たてよう！
+$Subgame1HighScore	ハイスコア
+$Subgame1HowToPlay	あそびかた
+$Subgame1Start	スタート
+#Subgame1LevelReleaseExplanatory	{c[fe9a10]}めいじん{c[000000]}ステージ、{c[fe9a10]}せんにん{c[000000]}ステージが\nあそべるように なりました！
+$SubgameCmnStickTagL	\x0e\x04\x16\x02\xc3\0
+$SubgameCmnStickTagR	\x0e\x04\x14\x02\xc1\0
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame1OutgamePeopleUnitNum1	{s[150]}1{s[100]}人
+#Subgame1OutgamePeopleUnitNum2	{s[150]}2{s[100]}人
+#Subgame1OutgamePeopleUnitNum3	{s[150]}3{s[100]}人
+#Subgame1OutgamePeopleUnitNum4	{s[150]}4{s[100]}人
+SubGame2.msbt
+$Subgame2HighScore	ハイスコア
+$Subgame2HowToPlay	あそびかた
+$Subgame2Start	スタート
+#Subgame2ResultScore	{s[150]}\x0e\x03\x01\0{s[100]}{s[090]}\x0e\0\0\x0c\x04\0\x08\0S0F0m0\x930光年{s[100]}
+#Subgame2OutgameDescTextLv1	\x0e\0\0\x08\x02\0\x04\0~0a0街に せまる いん\x0e\0\0\x08\x02\0\x04\0[0M0石！\nパワーゲージを ためて、バットで うちかえせ！
+#Subgame2OutgameDescTextLv2	へいわな\x0e\0\0\x08\x02\0\x04\0O0k0国を おそう いん\x0e\0\0\x08\x02\0\x04\0[0M0石！\nはやくなった ゲージを ３\x0e\0\0\x06\x02\0\x02\0i0度、みきわめろ！
+#Subgame2OutgameDescTextLv3	キミは きせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星を すくえるか？\nより はやくなった ゲージを ５\x0e\0\0\x06\x02\0\x02\0i0度ため、ねらえホームラン！
+#Subgame2LevelReleaseExplanatory	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0O0k0国の\x0e\0\0\x08\x04\0\x04\0M0M0危機{c[000000]}ステージ、{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x08\x04\0\x04\0M0M0危機{c[000000]}ステージが\nあそべるように なりました！
+#Explanation2TextPage1	ぼくらの\x0e\0\0\x08\x02\0\x04\0\{0W0星に {c[fe9a10]}いん\x0e\0\0\x08\x02\0\x04\0[0M0石の\x0e\0\0\x08\x04\0\x04\0M0M0危機{c[000000]}が せまる。\nバット１\x0e\0\0\x08\x02\0\x04\0}0\x930本で たちむかえ！
+#Explanation2TextPage2	\x0e\x04\x04\x020\0どれかを おせば {c[fe9a10]}パワーゲージが とまる。{c[000000]}\nできるだけ {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0_0K0高いところで とめよう！{c[000000]}
+#Explanation2TextPage3	いん\x0e\0\0\x08\x02\0\x04\0[0M0石が きたら{c[fe9a10]} \x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conをふれ！\nタイミングを あわせて{c[000000]} ねらえ、ホームラン！
+$Subgame2Lv1Crisis	\x0e\0\0\x08\x02\0\x04\0~0a0街の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+$Subgame2Lv2Crisis	\x0e\0\0\x08\x02\0\x04\0O0k0国の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+$Subgame2Lv3Crisis	\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+#Subgame2OutgameLv1Crisis	\x0e\0\0\x08\x02\0\x04\0~0a0街の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+#Subgame2OutgameLv2Crisis	\x0e\0\0\x08\x02\0\x04\0O0k0国の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+#Subgame2OutgameLv3Crisis	\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x08\x04\0\x04\0M0M0危機
+#Subgame2HighScoreUnit	\x0e\0\0\x0c\x04\0\x08\0S0F0m0\x930光年
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame2OutgamePeopleUnitNum1	{s[150]}1{s[100]}人
+#Subgame2OutgamePeopleUnitNum2	{s[150]}2{s[100]}人
+#Subgame2OutgamePeopleUnitNum3	{s[150]}3{s[100]}人
+#Subgame2OutgamePeopleUnitNum4	{s[150]}4{s[100]}人
+SubGameCmn.msbt
+#SubgameCancelBtn	もどる
+#SubgameCancelBtn_End	もどる
+#SubgameBackBtn	とじる
+#SubgameCmnPauseWindow_AgainGame	もういちど
+#SubgameCmnPauseWindow_ChoiceLevel	なんいどをえらぶ
+#SubgameCmnPauseWindow_ToTitle	タイトルへ
+#2SubgameCmnPauseWindow_AgainGame	もういちど
+#2SubgameCmnPauseWindow_ChoiceLevel	なんいどをえらぶ
+#2SubgameCmnPauseWindow_ToTitle	タイトルへ
+#PausetWindowIngame_GameContinue	ゲームをつづける
+#PausetWindowIngame_Redo	やりなおす
+#PausetWindowIngame_BackTitle	タイトルへ
+#2PausetWindowIngame_GameContinue	ゲームをつづける
+#2PausetWindowIngame_Redo	やりなおす
+#2PausetWindowIngame_BackTitle	タイトルへ
+#SubgameCmnHowToPlayBtn	{s[110]}ボタンでも\nあそべる！{s[100]}
+#2SubgameCmnHowToPlayBtn	{s[110]}ボタンでも\nあそべる！{s[100]}
+#SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 コントローラーせってい
+#2SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 コントローラーせってい
+#SubgameHoldContllorInfoScreen	ふってあそぶ ばあいは \x0e\0\0\n\x04\0\x06\0U0\x860F0左右の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを とりはずして \x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0
+#2SubgameHoldContllorInfoScreen	ふってあそぶ ばあいは \x0e\0\0\n\x04\0\x06\0U0\x860F0左右の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを とりはずして \x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0
+#SubgameCmnOutgameHoldBeforeOK	けってい
+#SubgameCmnOutgameHoldOK	OK
+#SubgameHowToPlayController_Btn	ボタンであそぶ
+#SubgameHowToPlayController_Shake	ふってあそぶ
+#2SubgameHowToPlayController_Btn	ボタンであそぶ
+#2SubgameHowToPlayController_Shake	ふってあそぶ
+#SubgameCmnJoyConL	\x0e\0\0\n\x02\0\x06\0r0`0\x8a0左の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Con
+#SubgameCmnJoyConR	\x0e\0\0\x08\x02\0\x04\00N0右の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Con
+#2SubgameCmnJoyConL	\x0e\0\0\n\x02\0\x06\0r0`0\x8a0左の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Con
+#2SubgameCmnJoyConR	\x0e\0\0\x08\x02\0\x04\00N0右の\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Con
+#SubgameCmnHighScoreFreind	ともだちと
+#SubgameCmnHighScoreSingle	ひとりで
+#2SubgameCmnHighScoreFreind	ともだちと
+#2SubgameCmnHighScoreSingle	ひとりで
+#SubgameCmnHeadline_PlayerNum	にんずう
+#SubgameCmnHeadline_Hold	もちかた
+#SubgameCmnHeadline_Level	なんいど
+#SubgameCmnHeadline_HighScore	ハイスコア
+#SubgameCmnHeadline_HowToPlay	あそびかた
+#2SubgameCmnHeadline_PlayerNum	にんずう
+#2SubgameCmnHeadline_Hold	もちかた
+#2SubgameCmnHeadline_Level	なんいど
+#2SubgameCmnHeadline_HighScore	ハイスコア
+#2SubgameCmnHeadline_HowToPlay	あそびかた
+#SubgameCmnHeadline_HowToPlayPage1	1/3
+#SubgameCmnHeadline_HowToPlayPage2	2/3
+#SubgameCmnHeadline_HowToPlayPage3	3/3
+#2SubgameCmnHeadline_HowToPlayPage1	1/3
+#2SubgameCmnHeadline_HowToPlayPage2	2/3
+#2SubgameCmnHeadline_HowToPlayPage3	3/3
+#SubgameCmnControllerHold_Vertical	ふってあそぶ ひとは\n\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを とりはずして {c[fe9a10]}たてもち{c[000000]}に\nもちかえて ください。
+#2SubgameCmnControllerHold_Vertical	ふってあそぶ ひとは\n\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを とりはずして {c[fe9a10]}たてもち{c[000000]}に\nもちかえて ください。
+#SubgameCmnNumberError	せつぞく されている\n{c[fe9a10]}コントローラーの かず{c[000000]}が たりません。
+#2SubgameCmnNumberError	せつぞく されている\n{c[fe9a10]}コントローラーの かず{c[000000]}が たりません。
+#SubgameCmnControllerDisconnection	コントローラーが へんこう されました。\nタイトルに もどります。
+#2SubgameCmnControllerDisconnection	コントローラーが へんこうされました。\nタイトルに もどります。
+#SubgameCmnControllerBothHands	\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを {c[fe9a10]}りょうてもち{c[000000]}に\nもどして ください。
+#2SubgameCmnControllerBothHands	\x0e\0\0\x0e\x0e\0\n\0\xb80\xe70\xa40\xb30\xf30Joy-Conを {c[fe9a10]}りょうてもち{c[000000]}に\nもどして ください。
+#SubgameCmnResultHighScore	ハイスコア
+Theater.msbt
+$TheaterHeader	シアタールーム
+BtnBack	もどる
+MovieUnknown	？？？？
+SimpleCredit	クレジット
+ImageMovie	Let's Make Friends㊤
+OpeningMovie	ほしのきき ～ ほうかいの おひるねタイム
+KibidangoDemo	\x0e\0\0\x06\x02\0\x02\0g0出た！フレンズハート
+EndingDemo	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥かなる\x0e\0\0\x0c\x04\0\x08\0[0D0K0\x930生還 ～ \x0e\0\0\x06\x02\0\x02\0h0飛べ！スターアライズ
+CreditNormal	カービィのカーテンコール
+CreditExtra	フレンズのカーテンコール
+$TheaterNew	NEW
+TitleMenu.msbt
+$TitleMenuNoticeBtn	おしらせ
+TitleMenuCloseBtn	もどる
+TitleMenuHeaderFileName	ファイル \x0e\x03\x01\0
+TitleMenuHeaderRatio	\x0e\x03\x01\0
+TitleMenuFileSelectFileName	ファイル \x0e\x03\x01\0
+TitleMenuFileSelectRatio	\x0e\x03\x01\0
+UnlockTheater	あのムービーを もう\x0e\0\0\n\x04\0\x06\0D0a0i0一度！\n{c[fe9a10]}シアタールーム{c[000000]}が オープンしました。
+UnlockSound	あの カービィサウンドが\nギュギュ～ッと つまった、\n{c[fe9a10]}サウンドルーム{c[000000]}が オープンしました！
+UnlockHelperGo	フレンズヘルパーで \x0e\0\0\x08\x02\0\x04\0`0D0大ぼうけん！\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星の \x0e\0\0\x0c\x08\0\x08\0\xde0\xeb0\xde0\xeb0○○○○{c[000000]}が\nあそべるように なりました。
+UnlockArenaLv1	さぁ、げんかいを チョイスせよ！\n{c[fe9a10]}The アルティメットチョイス{c[000000]}が\nあそべるように なりました。
+UnlockArenaLv2	The アルティメットチョイスに\nあらたな なんいど\n{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0J0k0鬼\x0e\0\0\x08\x02\0\x04\0K0\x890辛けっせん\x0e\0\0\x08\x02\0\x04\0B0X0味{c[000000]}と {c[fe9a10]}\x0e\0\0\x0c\x04\0\x08\0T0O0K0\x890極辛ピンチ\x0e\0\0\x08\x02\0\x04\0B0X0味{c[000000]}が\nしゅつげん しました！
+UnlockArenaLv3	えらばれた\x0e\0\0\x08\x02\0\x04\0\x820n0者のみが チョイスを\nゆるされる… シークレットなんいど\n{c[fe9a10]}\x0e\0\0\x0c\x02\0\x08\0_0~0W0D0魂が\x0e\0\0\x06\x02\0\x02\0h0飛び\x0e\0\0\x06\x02\0\x02\0g0出る\x0e\0\0\x08\x02\0\x04\0K0\x890辛さ{c[000000]}が\nしゅつげん しました!!
+$TitleMenuHeaderPercent	%
+$TitleMenuHowToBtn	みんなであそぶには
+$PressStartBtn	PRESS \x0e\x04\0\x02\0\0 BUTTON
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$FileSelectPercent	%
+DialogWindowNoticeTitle_00	あらたな{c[fe9a10]}ドリームフレンズ{c[000000]} \x0e\0\0\x0e\x04\0\n\0h0F0X0\x870F0登場!!
+DialogWindowNoticeText_00	よびだせる ドリームフレンズに\n{c[fe9a10]}あらたな なかま{c[000000]}が くわわり\nぜんぶで{c[fe9a10]} \x0e\x03\x01\0\x0e\0\0\x08\x02\0\x04\0_0D0体{c[000000]}に なった！
+DialogWindowNoticeTitle_01	{c[fe9a10]}ドリームしんでん{c[000000]}で よび\x0e\0\0\x06\x02\0\x02\0`0出そう！
+DialogWindowNoticeText_01	ドリームフレンズは {c[fe9a10]}ストーリーモード{c[000000]}の\n{c[fe9a10]}ドリームしんでん{c[000000]}で よび\x0e\0\0\x06\x02\0\x02\0`0出せるぞ！\nついに {c[fe9a10]}ゆめのメンバー{c[000000]}で しゅっぱつだ！
+DialogWindowNoticeTitle_02	{c[fe9a10]}The アルティメットチョイス{c[000000]}へ \x0e\0\0\x06\x02\0\x02\0D0行こう!
+DialogWindowNoticeText_02	あらたな ドリームフレンズを\n{c[fe9a10]}チョイス{c[000000]}できるように なったぞ！\nドリームチームを \x0e\0\0\x06\x02\0\x02\0O0組んで {c[fe9a10]}きょうてき{c[000000]}に いどめ！
+DialogWindowNoticeTitle_02B	{c[fe9a10]}アップデートで \x0e\0\0\n\x04\0\x06\0d0D0K0追加{c[000000]}された ドリームフレンズ
+DialogWindowNoticeText_02B	{c[fe9a10]}アップデートで \x0e\0\0\n\x04\0\x06\0d0D0K0追加{c[000000]}された \nドリームフレンズも さんせん！\nドリームチームを \x0e\0\0\x06\x02\0\x02\0O0組んで {c[fe9a10]}きょうてき{c[000000]}に いどめ！
+DialogWindowNoticeTitle_03	\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x0c\x08\0\x08\0\xde0\xeb0\xde0\xeb0○○○○に {c[fe9a10]}あたらしいマップ!{c[000000]}
+DialogWindowNoticeText_03	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x0c\x08\0\x08\0\xde0\xeb0\xde0\xeb0○○○○{c[000000]}で あらたなドリームフレンズを\nえらぶと {c[fe9a10]}あたらしいマップ{c[000000]}が あそべるぞ！\nちょっと しんせんな ぼうけんのたびへ GO!
+DialogWindowNoticeTitle_03B	{c[fe9a10]}あたらしいマップ{c[000000]}が あそべる！
+DialogWindowNoticeText_03B	{c[fe9a10]}アップデートで \x0e\0\0\n\x04\0\x06\0d0D0K0追加{c[000000]}された ドリームフレンズを\nえらぶと {c[fe9a10]}あたらしいマップ{c[000000]}が あそべるぞ！\nあらたなる ぼうけんのたびへ… GO！
+DialogWindowNoticeTitle_04	\x0e\0\0\x0c\x04\0\x08\0W0\x930U0O0新作{c[fe9a10]}メモリアルイラスト{c[000000]} ついか!!
+DialogWindowNoticeText_04	\x0e\0\0\x0c\x04\0\x08\0W0\x930U0O0新作{c[fe9a10]}メモリアルイラスト{c[000000]}が ついかされ\nぜんぶで{c[fe9a10]}\x0e\x03\x01\0まい{c[000000]}に！ すべてのイラストを\nきみは コンプリートできるか!?
+DialogBottom_Rick	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ2{c[000000]}から{c[fe9a10]}「リック&カイン&クー」{c[000000]}が やって\x0e\0\0\x06\x02\0\x02\0M0来た！\nあの３びきが ごうか まとめて \x0e\0\0\x08\x02\0\x04\0`0D0大しゅうけつ！
+DialogBottom_Marx	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ スーパーデラックス{c[000000]}から まさかの \x0e\0\0\x0e\x04\0\n\0h0F0X0\x870F0登場！\nあのラスボス{c[fe9a10]}「マルク」{c[000000]}が やって\x0e\0\0\x06\x02\0\x02\0M0来た！
+DialogBottom_Gooey	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ3{c[000000]}から ナゾおおき ヘンテコな\nあいぼう{c[fe9a10]}「グーイ」{c[000000]}が ひょっこり やって\x0e\0\0\x06\x02\0\x02\0M0来た！
+DialogBottom_Adeleine	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ64{c[000000]}から{c[fe9a10]}「アドレーヌ＆リボン」{c[000000]}が やって\x0e\0\0\x06\x02\0\x02\0M0来た！\nまた \x0e\0\0\x06\x02\0\x02\0B0会えたね、お\x0e\0\0\x06\x02\0\x02\0H0絵かきガールと ようせいさん！
+DialogBottom_DarkMetaknight	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ \x0e\0\0\n\x02\0\x06\0K0L00鏡の\x0e\0\0\x12\x06\0\x0e\0`0D0\x810D0M0\x850F0大迷宮{c[000000]}から、まねかれざる \x0e\0\0\x08\x02\0\x04\0O0\x8d0黒きもの…\n{c[fe9a10]}「ダークメタナイト」{c[000000]}が あやしく よみがえった…！
+DialogBottom_Daroach	{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ \x0e\0\0\x0e\x04\0\n\0U0\x930X0\x870F0参上！ドロッチェ\x0e\0\0\x08\x02\0\x04\0`0\x930団{c[000000]}から とうぞく \x0e\0\0\x06\x02\0\x02\0M0来たる！\n{c[fe9a10]}「ドロッチェ」{c[000000]}が お\x0e\0\0\n\x02\0\x06\0_0K0\x890宝もとめて さっそう とうじょう！
+DialogWindowUpdateTitle	{c[fe9a10]}アップデート{c[000000]}の おしらせ！
+DialogWindowUpdateText	「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ スターアライズ」が\n{c[fe9a10]}アップデート{c[000000]}されました。\n{c[fe9a10]}いろいろな \x0e\0\0\x0e\x06\0\n\0W0\x930\x880F0]0新要素{c[000000]}が \x0e\0\0\n\x04\0\x06\0d0D0K0追加されました！
+WMap.msbt
+ToWMapSelect	ワールドセレクトへ
+DialogWindowExit	ワールドセレクトへ もどりますか？
+DialogWindowUnlockEx	さらなる ぼうけんへと いざなう\n{c[fe9a10]}エクストラステージ{c[000000]}への \x0e\0\0\x08\x02\0\x04\00a0道が\nひらかれた！
+DialogWindowUnlockMuseum	ゆめの あのキャラに {c[fe9a10]}であえるかも!?\nドリームしんでん{c[000000]}が オープンした！
+DialogWindowUnlockAll	ついに せかいに かくされた\n{c[fe9a10]}すべての \x0e\0\0\x08\x02\0\x04\0`0D0大スイッチ{c[000000]}を きどうさせた！
+DialogWindowUnlockAbilityRoom	{c[fe9a10]}コピーのうりょく{c[000000]}が いつでも\nとりほうだいの スペシャルな\x0e\0\0\x08\x02\0\x04\0\{0W0星\n{c[fe9a10]}のうりょく\x0e\0\0\x08\x02\0\x04\0|0W0星{c[000000]}が オープン！
+DialogWindowUnlockExAfterStoryCleared	ストーリーモードクリアとくてん！\n{c[fe9a10]}エクストラスター\x0e\0\0\n\x02\0\x06\0\xc70\xeb0\xbf0δ{c[000000]}への \x0e\0\0\x08\x02\0\x04\00a0道が\nひらかれた！
+DialogWindowCancelMuseum	ここの ドリームロッドは\nすでに {c[fe9a10]}つかいました。\nステージをクリア{c[000000]}すると\nまた つかえるように なります。
+WMapStageName	\x0e\x03\x08\0
+WMapToIllustGallaryText	イラストギャラリー
+WMapToIllustGallaryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WMapToIllustGallaryBtn_TypeB	\x0e\x04\t\x02`\0
+WMapToStageListText	ステージいちらん
+WMapToStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WMapToStageListBtn_TypeB	\x0e\x04\n\x02a\0
+WMapLv1NextWinNormal	ポップスターへ
+WMapLv1NextWinArrow	ポップスターへ
+WMapLv2PrevWinNormal	プププランドへ
+WMapLv2PrevWinArrow	プププランドへ もどる
+WMapLv2NextWinNormal	ジャマハルダへ
+WMapLv2NextWinArrow	ジャマハルダへ
+WMapLv3PrevWinNormal	ポップスターへ
+WMapLv3PrevWinArrow	ポップスターへ もどる
+WMapLv3NextWinNormal	うちゅうへ とびたつ
+WMapLv3NextWinArrow	うちゅうへ とびたつ
+WMapLv4PrevWinNormal	ジャマハルダへ
+WMapLv4PrevWinArrow	ジャマハルダへ もどる
+WMapLv4NextWinNormal	\x0e\0\0\n\x04\0\x06\0U0D0T0最後の\x0e\0\0\n\x02\0\x06\0_0_0K0戦いへ
+WMapLv4NextWinArrow	\x0e\0\0\n\x04\0\x06\0U0D0T0最後の\x0e\0\0\n\x02\0\x06\0_0_0K0戦いへ のぞむ！
+$StageTitleWindowIn	はいる
+WarpPointMoveStart	のる
+WSelect.msbt
+WSelectCaptionW1	あきれかえるほど へいわな くにで\nだいじけん。 デデデだいおうが\nたべもの ぜ～んぶ ひとりじめに！\nわかきたびびと カービィは フレンズたちと\nいざ、ぼうけんの たびへ。
+WSelectCaptionW2	やみのハートを おいかけて、\nきせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星を かけめぐる！ \x0e\x04\x17\x02\xc4\0を おして\n\x0e\0\0\x06\x02\0\x02\0F0生まれる フレンズ\x0e\0\0\x0e\x04\0\n\0n0F0\x8a0\x870O0能力を あやつって、\n\x0e\0\0\x08\x02\0\x04\0F00海あり \x0e\0\0\x08\x02\0\x04\0\x840~0山あり カービィたちの\nフレンドリーな たびは つづきます。
+WSelectCaptionW3	メタナイトさえも くるわせる、\nてきが\x0e\0\0\x06\x02\0\x02\0~0待つは とつじょ あらわる \x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい。\n\x0e\0\0\x08\x02\0\x04\0j0k0何が ねらいで この\x0e\0\0\x06\x02\0\x02\0a0地へ…？\nカービィたち ご\x0e\0\0\x0c\x04\0\x08\0D0c0S0F0一行は おそれもせずに、\nいつものように スルリと とつ\x0e\0\0\n\x02\0\x06\0k0\x850F0入しちゃいます！
+WSelectCaptionW4	\x0e\0\0\x06\x02\0\x02\0M0気がつけば そこは\x0e\0\0\x0c\x04\0\x08\0F0a0\x850F0宇宙…\nふり\x0e\0\0\x08\x02\0\x04\0K0H0返ると ポップスターが \x0e\0\0\x08\x02\0\x04\0a0D0小さく きらめいていた。\nあの\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\n\x04\0\x06\0x0D0\x8f0平和と お\x0e\0\0\x08\x02\0\x04\0r0\x8b0昼ねタイムは、\x0e\0\0\x08\x02\0\x04\0~0\x820守る！\nそう\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心に\x0e\0\0\x06\x02\0\x02\0M0決めた {s[070]}かもしれない {s[100]}カービィたちは\nきらめく\x0e\0\0\x08\x02\0\x04\0\{0W0星となって、\x0e\0\0\x06\x02\0\x02\0h0飛ぶ！
+WSelectCaptionW5	ハイネスが\x0e\0\0\x06\x02\0\x02\0D0言う「\x0e\0\0\x08\x02\0\x04\0K00神」とは せいぎや \x0e\0\0\x08\x02\0\x04\0B0O0悪の\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心も\n\x0e\0\0\x06\x02\0\x02\0\x820持たない、\x0e\0\0\n\x04\0\x06\0o0K0D0破壊のためだけに \x0e\0\0\x06\x02\0\x02\0F0生まれた そんざい…\nその\x0e\0\0\x06\x02\0\x02\0j0名は「\x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル」。 そんなの カミサマ\nなんかじゃないし \x0e\0\0\x06\x02\0\x02\0f0手かげんも いらない！\n\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ \x0e\0\0\x0c\x04\0\x08\0U0D0`0D0最大の\x0e\0\0\n\x02\0\x06\0_0_0K0戦いが…\x0e\0\0\x08\x02\0\x04\0D0~0今、はじまる!!
+WSelectToIllustGalleryBtn	イラストギャラリー
+WSelectToStageInfoBtn	ステージいちらん
+WSelectToModeSelectBtn	モードセレクトへもどる
+WSelectUnlockDialog	ストーリーモード クリアとくてん\n{c[fe9a10]}のうりょく\x0e\0\0\x08\x02\0\x04\0|0W0星{c[000000]}と {c[fe9a10]}エクストラスター\x0e\0\0\n\x02\0\x06\0\xc70\xeb0\xbf0δ{c[000000]}がオープン！\n{c[fe9a10]}「\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、きらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち」{c[000000]}に\n\x0e\0\0\x06\x02\0\x02\0D0行ってみるんだ！
+WSelectToModeSelectDialog	モードセレクトへ もどりますか？
+WSelectGalleryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WSelectGalleryBtn_TypeB	\x0e\x04\t\x02`\0
+WSelectStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WSelectStageListBtn_TypeB	\x0e\x04\n\x02a\0
+Name\AbilityName.msbt
+AbilityNormal	カービィ
+AbilityArtist	アーティスト
+AbilityIce	アイス
+AbilityWhip	ウィップ
+AbilityWater	ウォーター
+AbilityWing	ウィング
+AbilityEsper	エスパー
+AbilityCutter	カッター
+AbilityCrash	クラッシュ
+AbilityClean	クリーン
+AbilityCook	コック
+AbilityStick	スティック
+AbilityStone	ストーン
+AbilitySpider	スパイダー
+AbilityPlasma	プラズマ
+AbilitySleep	スリープ
+AbilitySuplex	スープレックス
+AbilitySword	ソード
+AbilityNinja	ニンジャ
+AbilityParasol	パラソル
+AbilityHammer	ハンマー
+AbilityBeetle	ビートル
+AbilityBeam	ビーム
+AbilityFire	ファイア
+AbilityFighter	ファイター
+AbilityFestival	フェスティバル
+AbilityBomb	ボム
+AbilityMike	マイク
+AbilityYoyo	ヨーヨー
+Name\ArenaDifficultyName.msbt
+D1	\x0e\0\0\x0c\x04\0\x08\0R0M0B0~0激甘はるかぜ\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD1	\x0e\0\0\x0c\x04\0\x08\0R0M0B0~0激甘はるかぜ\x0e\0\0\x08\x02\0\x04\0B0X0味
+D2	\x0e\0\0\x0c\x04\0\x08\0B0~0O0a0甘口おさんぽ\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD2	\x0e\0\0\x0c\x04\0\x08\0B0~0O0a0甘口おさんぽ\x0e\0\0\x08\x02\0\x04\0B0X0味
+D3	\x0e\0\0\x0e\x04\0\n\0a0\x850F0K0\x890中辛たんけん\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD3	\x0e\0\0\x0e\x04\0\n\0a0\x850F0K0\x890中辛たんけん\x0e\0\0\x08\x02\0\x04\0B0X0味
+D4	\x0e\0\0\x0c\x04\0\x08\0K0\x890O0a0辛口ぼうけん\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD4	\x0e\0\0\x0c\x04\0\x08\0K0\x890O0a0辛口ぼうけん\x0e\0\0\x08\x02\0\x04\0B0X0味
+D5	\x0e\0\0\x0c\x04\0\x08\0R0M0K0\x890激辛しれん\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD5	\x0e\0\0\x0c\x04\0\x08\0R0M0K0\x890激辛しれん\x0e\0\0\x08\x02\0\x04\0B0X0味
+D6	\x0e\0\0\x0c\x04\0\x08\0J0k0K0\x890鬼辛けっせん\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD6	\x0e\0\0\x0c\x04\0\x08\0J0k0K0\x890鬼辛けっせん\x0e\0\0\x08\x02\0\x04\0B0X0味
+D7	\x0e\0\0\x0c\x04\0\x08\0T0O0K0\x890極辛ピンチ\x0e\0\0\x08\x02\0\x04\0B0X0味
+LowerD7	\x0e\0\0\x0c\x04\0\x08\0T0O0K0\x890極辛ピンチ\x0e\0\0\x08\x02\0\x04\0B0X0味
+Secret	\x0e\0\0\x0c\x02\0\x08\0_0~0W0D0魂が\x0e\0\0\x06\x02\0\x02\0h0飛び\x0e\0\0\x06\x02\0\x02\0g0出る\x0e\0\0\x08\x02\0\x04\0K0\x890辛さ
+LowerSecret	\x0e\0\0\x0c\x02\0\x08\0_0~0W0D0魂が\x0e\0\0\x06\x02\0\x02\0h0飛び\x0e\0\0\x06\x02\0\x02\0g0出る\x0e\0\0\x08\x02\0\x04\0K0\x890辛さ
+Name\BossName.msbt
+BossNameBonkers	ボンカース
+BossNameGiantironmom	アンセスビッグマム
+BossTitleGiantironmom	\x0e\0\0\x0e\x04\0\n\0L0\x930M0\x870F0頑強なる\x0e\0\0\n\x04\0\x06\0_0D0|0大母
+BossNameMisterfrosty	ミスター・フロスティ
+BossNameVivitia	ビビッティア
+BossNameWhispywoods	ウィスピーウッズ
+BossTitleWhispywoods	\x0e\0\0\x08\x02\0\x04\0\x820\x8a0森の\x0e\0\0\x0c\x04\0\x08\0p0\x930k0\x930番人
+BossNameWhispywoodsEx	ユグドラルウッズ
+BossTitleWhispywoodsEx	\x0e\0\0\x0c\x04\0\x08\0V0\x930J0F0残桜の\x0e\0\0\n\x04\0\x06\0S0X0\x850古樹
+BossNameKingdedede	デデデ大王
+BossTitleKingdedede	\x0e\0\0\x0e\x04\0\n\0W0\x850O0f0M0宿敵の\x0e\0\0\x0c\x04\0\x08\0|0F0O0\x930暴君
+BossNameMetaKnight	メタナイト
+BossTitleMetaKnight	\x0e\0\0\n\x04\0\x06\0S0S0F0孤高の\x0e\0\0\x08\x04\0\x04\0M0W0騎士
+BossNameBonkersAndMisterfrosty	ボンカース\n＆ミスター・フロスティ
+BossNameBonkersAndVivitia	ボンカース\n＆ビビッティア
+BossNameMisterfrostyAndBugzzy	ミスター・フロスティ\n＆バグジー
+BossNameChefKawasakiAndVivitia	コックカワサキ\n＆ビビッティア
+BossNameChefKawasakiAndChefKawasaki	ツインカワサキ
+BossNameVivitiaAndVivitia	ツインビビッティア
+BossNameMisterfrostyAndMisterfrosty	ツインフロスティ
+BossNameBonkersAndBonkers	ツインボンカース
+BossNameBugzzyAndBugzzy	ツインバグジー
+BossNameBugzzyAndVivitia	バグジー＆ビビッティア
+BossNamePonAndKon	ポン＆コン
+BossTitlePonAndKon	\x0e\0\0\n\x04\0\x06\0B0F0\x930阿吽の\x0e\0\0\x0c\x04\0\x08\0T0X0\x850F0護獣
+BossNameGoldPonAndSilverKon	ゴールドン＆シルバックス
+BossTitleGoldPonAndSilverKon	\x0e\0\0\x0c\x04\0\x08\0M0\x930K0O0金閣\x0e\0\0\x0c\x04\0\x08\0N0\x930K0O0銀閣
+BossNameBugzzy	バグジー
+BossNameKracko	クラッコ
+BossTitleKracko	\x0e\0\0\x0c\x04\0\x08\0[0M0L0\x930隻眼の\x0e\0\0\x0c\x04\0\x08\0\x890D0F0\x930雷雲
+BossNameTwinKracko	ツインクラッコ
+BossTitleTwinKracko	\x0e\0\0\n\x04\0\x06\0\x890\x930v0乱舞する\x0e\0\0\x0c\x04\0\x08\0]0F0F0\x930双雲
+BossNameExecutiveIce	フラン・キッス
+BossTitleExecutiveIce	\x0e\0\0\x0c\x04\0\x08\0r0\x870F0K0氷華の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官
+BossNameExecutiveIceEx	フラン・キッス
+BossTitleExecutiveIceEx	\x0e\0\0\x0c\x04\0\x08\0U0D0\x890D0災来する\x0e\0\0\x0c\x04\0\x08\0r0\x870F0K0氷華
+BossNameExecutiveFire	フラン・ルージュ
+BossTitleExecutiveFire	\x0e\0\0\n\x04\0\x06\0T0F0K0業火の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官
+BossNameExecutiveFireEx	フラン・ルージュ
+BossTitleExecutiveFireEx	\x0e\0\0\x0c\x04\0\x08\0U0D0\x890D0災来する\x0e\0\0\n\x04\0\x06\0T0F0K0業火
+BossNameExecutiveThunder	ザン・パルルティザーヌ
+BossTitleExecutiveThunder	\x0e\0\0\n\x04\0\x06\0\x890D0L0雷牙の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官
+BossNameExecutiveThunderEx	ザン・パルルティザーヌ
+BossTitleExecutiveThunderEx	\x0e\0\0\x0c\x04\0\x08\0U0D0\x890D0災来する\x0e\0\0\n\x04\0\x06\0\x890D0L0雷牙
+BossNameChefKawasaki	コックカワサキ
+BossNameHiness	ハイネス
+BossTitleHiness	\x0e\0\0\x0e\x06\0\n\0~0W0\x930K0\x930魔神官
+BossNameLastBoss	エンデ・ニル
+BossTitleLastBoss	\x0e\0\0\n\x04\0\x06\0o0X0\x930破神
+BossNameLastBossEx	ソウル オブ ニル
+BossTitleLastBossEx	\x0e\0\0\x0c\x04\0\x08\0S0\x930h0\x930魂沌
+BossNameGalacticKnight	ギャラクティックナイト
+BossTitleGalacticKnight	\x0e\0\0\x0c\x04\0\x08\0h0M0\x810P0時巡る\x0e\0\0\n\x04\0\x06\0[0\x930W0戦士
+BossNameSecretHades	バルフレイナイト
+BossTitleSecretHades	\x0e\0\0\x0c\x06\0\x08\0\x8800L0H0黄泉返る\x0e\0\0\x0e\x04\0\n\0T0O0a0\x870F0極蝶
+Name\CharaName.msbt
+CharaKirby	カービィ
+CharaWester	ウェスター
+CharaSirkibble	サーキブル
+CharaChilly	チリー
+CharaKnucklejoe	ナックルジョー
+CharaBirdon	バードン
+CharaBurningleo	バーニンレオ
+CharaBroomhatter	ブルームハッター
+CharaBladeknight	ブレイドナイト
+CharaBonkers	ボンカース
+CharaPoppyjr	ポピーブラザーズJr.
+CharaRocky	ロッキー
+CharaParasolWaddledee	パラソルワドルディ
+CharaWaddledoo	ワドルドゥ
+CharaWaterEnemy	プルアンナ
+CharaKingDedede	デデデ大王
+CharaBandanaWaddledee	バンダナワドルディ
+CharaMetaknight	メタナイト
+CharaBeetlie	ビートリー
+CharaBioSpark	バイオスパーク
+CharaVivitia	ビビッティア
+CharaNesp	ネスパー
+CharaBugzzy	バグジー
+CharaStickEnemy	ジャハルビート
+CharaConce	コンセ
+CharaComo	コモ
+CharaGim	ギム
+CharaChefKawasaki	コックカワサキ
+CharaGooey	グーイ
+CharaRick	リック＆カイン＆クー
+CharaMarx	マルク
+CharaAdeleine	アドレーヌ＆リボン
+CharaDarkMetaknight	ダークメタナイト
+CharaDaroach	ドロッチェ
+Name\FriendCopy.msbt
+SwordFlame	メラーガソード
+SwordFreeze	ブリザソード
+SwordThunder	バリッカソード
+SwordAqua	スプラソード
+SwordWind	ウィンガソード
+HammerFlame	メラーガハンマー
+HammerFreeze	ブリザハンマー
+HammerThunder	バリッカハンマー
+HammerAqua	スプラハンマー
+HammerWind	ウィンガハンマー
+BombFlame	メラーガボム
+BombFreeze	ブリザボム
+BombThunder	バリッカボム
+BombAqua	スプラボム
+BombWind	ウィンガボム
+CutterFlame	メラーガカッター
+CutterFreeze	ブリザカッター
+CutterThunder	バリッカカッター
+CutterAqua	スプラカッター
+CutterWind	ウィンガカッター
+WhipFlame	メラーガウィップ
+WhipFreeze	ブリザウィップ
+WhipThunder	バリッカウィップ
+WhipAqua	スプラウィップ
+WhipWind	ウィンガウィップ
+StoneFreeze	ツルーガカーリング
+StoneAqua	ザブンガカーリング
+StoneClean	ホーキンカーリング
+ParasolGuard	アイアイパラソル
+NinjaFlame	メラーガニンジャ
+NinjaFreeze	ブリザニンジャ
+NinjaThunder	バリッカニンジャ
+NinjaAqua	スプラニンジャ
+NinjaWind	ウィンガニンジャ
+StickFlame	メラーガスティック
+StickFreeze	ブリザスティック
+StickThunder	バリッカスティック
+StickAqua	スプラスティック
+StickWind	ウィンガスティック
+YoyoFlame	メラーガヨーヨー
+YoyoFreeze	ブリザヨーヨー
+YoyoThunder	バリッカヨーヨー
+YoyoAqua	スプラヨーヨー
+YoyoWind	ウィンガヨーヨー
+FighterThrow	ブンナゲフレンズ
+SuplexThrow	ブンナゲフレンズ
+FriendRolling	フレンズころがり
+FriendBridge	フレンズつりばし
+PlasmaAqua	スプライデーン
+WaterFreeze	アイシックランス
+WaterThunder	バリカンデーン
+FireWind	メラインガバーナー
+SpearFlame	メラーガスピア
+SpearFreeze	ブリザスピア
+SpearThunder	バリッカスピア
+SpearAqua	スプラスピア
+SpearWind	ウィンガスピア
+TwinkleStar	フレンズスター
+EsperStone	ポルターガオブジェ
+FriendTrain	フレンズれっしゃ
+TwinkleStarFinal	ティンクル\nスターアライズ
+CookNormal	ニコーミフレンズ
+CookCharged	ナベブッパフレンズ
+CrashSingle	パニクルラッシュ
+CleanThrow	バキューマフレンズ
+ArtistStone	ヌリクルオブジェ
+BeetleThrow	ブンナゲフレンズ
+MikeSingle	デスボイコーラス
+ArtistMulti	フードデルペインター
+Spider	ボヨンガフレンズ
+Festival	フェスティバーン
+MarxFlame	メラーガマルク
+MarxFreeze	ブリザマルク
+MarxThunder	バリッカマルク
+MarxAqua	スプラマルク
+MarxWind	ウィンガマルク
+AdeleineMulti	ピクニッカペインター
+Name\StageName.msbt
+L1S1	グリーングリーティング
+L1S2	ドーナツドーム
+L1S3	ハニーヒル
+L1S4	フルーティフォレスト
+L1S5	クライマックス オブ\nキャッスルデデデ
+L1S6	エクストラエクレア
+L2S1	フレンズフィールド
+L2S2	リーフリゾート
+L2S3	エコーズエッジ
+L2S4	ネイキッドナチュレ
+L2S5	セイントスクエアーズ
+L2S6	インサイドアイランズ
+L2S7	ダブルスドリームス
+L3S1	えい\x0e\0\0\x08\x02\0\x04\0\x820\x930門への\x0e\0\0\x08\x02\0\x04\00a0道
+L3S2	\x0e\0\0\n\x02\0\x06\0r0L0W0東のまくへき
+L3S3	ぎょうしの\x0e\0\0\x08\x02\0\x04\0K0D0回ろう
+L3S4	\x0e\0\0\x08\x02\0\x04\0k0W0西の\x0e\0\0\x08\x02\0\x04\0L0D0外へき
+L3S5	\x0e\0\0\n\x02\0\x06\0a0\x850F0中おう\x0e\0\0\n\x04\0\x06\0W0\x930v0深部
+L3S6	\x0e\0\0\x08\x02\0\x04\0f0\x930天けいの\x0e\0\0\x06\x02\0\x02\0~0間
+L3S7	こうの\x0e\0\0\n\x04\0\x06\0O0K0O0区画
+L3S8	おつの\x0e\0\0\n\x04\0\x06\0O0K0O0区画
+L3S9	へいの\x0e\0\0\n\x04\0\x06\0O0K0O0区画
+L4S1	\x0e\0\0\x0c\x04\0\x08\0\x8f0O0[0D0惑星フォルアース
+L4S1B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星フォルナ
+L4S2	\x0e\0\0\x0c\x04\0\x08\0\x8f0O0[0D0惑星ミスティーン
+L4S2B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星マリーン
+L4S3	\x0e\0\0\x0c\x04\0\x08\0\x8f0O0[0D0惑星ポッカラ
+L4S3B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星クード
+L4S4	\x0e\0\0\x0c\x04\0\x08\0\x8f0O0[0D0惑星ヒャッコル
+L4S4B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星フュー
+L4S5	\x0e\0\0\x0c\x04\0\x08\0\x8f0O0[0D0惑星ピサーシャ
+L4S5B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星ガベル
+L4S6	\x0e\0\0\x0c\x04\0\x08\0W0\x930[0D0新星ドルムアーツ
+L4S6B	\x0e\0\0\x12\x06\0\x0e\0W0\x870F0\x8f0O0[0D0小惑星メラーガ
+L4S7	\x0e\0\0\x0e\x06\0\n\0`0D0~0[0D0大魔星マジュハルガロア
+L4S7B	\x0e\0\0\x14\x08\0\x10\0X0\x930S0F0H0D0[0D0神降衛星エンデ
+L4S8	エクストラスター\x0e\0\0\x0c\x02\0\x08\0\xa20\xeb0\xd50\xa10α
+L4S9	エクストラスター\x0e\0\0\n\x02\0\x06\0\xd90\xfc0\xbf0β
+L4S10	エクストラスター\x0e\0\0\n\x02\0\x06\0\xac0\xf30\xde0γ
+L4S11	エクストラスター\x0e\0\0\n\x02\0\x06\0\xc70\xeb0\xbf0δ
+Museum	ドリームしんでん
+AbilityRoom	のうりょく\x0e\0\0\x08\x02\0\x04\0|0W0星
+Name\WorldName.msbt
+Lv1SubTitle	へいわなくに
+Lv1Title	プププランド
+Lv2SubTitle	きせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星
+Lv2Title	ポップスター
+Lv3SubTitle	\x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい
+Lv3Title	ジャマハルダ！
+Lv4SubTitle	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、
+Lv4Title	きらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち
+Lv5SubTitle	\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ
+Lv5Title	スターアライズ
+Pause\Ability.msbt
+Normal	\x0e\x07\x02\x02\x02\0で ハートを ぽいぽい なげて\nこせいゆたかな フレンズ ふやせ！\nチームいろいろ とっかえ ひっかえ\n\x0e\x04\x17\x02\xc4\0おし \x0e\0\0\x06\x02\0\x02\0f0手かかげ ゆうじょうパワーだ\nいつでも どこでも フレンズのうりょく！
+InWater	およげスイスイ スイミング！\nこんどは ナナメにも およげちゃう\n\x0e\0\0\x08\x02\0\x04\00Z0水の\x0e\0\0\x08\x02\0\x04\0j0K0中では ハート \x0e\0\0\x06\x02\0\x02\0g0出ないけど\nのう\x0e\0\0\n\x02\0\x06\0\x8a0\x870O0力 \x0e\0\0\x08\x02\0\x04\0d0K0使える フレンズつれて\nかわりに ガンガン たたかわせちゃえ！
+Plasma	はつでん ちくでん プラズマふっかつ！\nガチャガチャ いじって たまるエナジー\nなんと \x0e\0\0\x08\x02\0\x04\0F0H0上にも うてるよ だんがん！\nフレンズの ぶきに \x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキ あびせ\nいかづち\x0e\0\0\x06\x02\0\x02\0J0落とせる らいめいの ぶきに！
+Suplex	もえる とうこん チャンピオンだ\nピンポイントキックや ダッシュで こうげき\nてきや \x0e\0\0\x08\x02\0\x04\0\{0W0星も つかんで トリャー！\n\x0e\x04\x17\x02\xc4\0で フレンズ つかんで トリャトリャ！\nぶつけりゃ カタ～イ いわをも くだく！
+Cook	ひさびさ ふっかつ おいしい \x0e\0\0\x08\x02\0\x04\0J0J0大ワザ！\n\x0e\0\0\x06\x02\0\x02\0D0入れる ぐざいで メニューもいろいろ\nアイツに ソイツに フレンズいれて\nグツグツ にこんで ハイ、めしあがれ\n\x0e\0\0\x08\x02\0\x04\0j0L0長おし グツグツ ハイ、\x0e\0\0\x08\x02\0\x04\0`0D0大ダメージ！
+Clean	ホウキで ハキハキ \x0e\0\0\x08\x02\0\x04\0]0\x890空も\x0e\0\0\x06\x02\0\x02\0h0飛べちゃう！\nはいて とっ\x0e\0\0\x08\x02\0\x04\0w0F0風 まきおこし\nおちばも てきも ふき\x0e\0\0\x06\x02\0\x02\0h0飛ばしちゃえ！\nバケツで \x0e\0\0\n\x02\0\x06\0\{0n0J0炎も ザブンと \x0e\0\0\x06\x02\0\x02\0Q0消せるよ\nかつての なかまと せいそうかつどう！
+Stick	ほそみの ぼうを さばく ぶじゅつだ\nいっきとうせん てき なぎはらう！\nしかも このぼう びょ～んと のびて\n\x0e\0\0\x08\x02\0\x04\0_0K0高とびの ごとく びょ～んと \x0e\0\0\x06\x02\0\x02\0h0飛べちゃう\nまかふしぎだよ い\x0e\0\0\x08\x02\0\x04\0S0O0国の ウェポン！
+Water	キレイな お\x0e\0\0\x08\x02\0\x04\00Z0水で リフレッシュ！\n\x0e\0\0\x08\x02\0\x04\00Z0水でっぽうも パワーアップだ\nなみのり ノリノリ \x0e\0\0\x08\x02\0\x04\0Y0D0水めん かっそう\n\x0e\0\0\x08\x02\0\x04\0J0\x820重い ストーンも ザブザブ はこべる！\nふん\x0e\0\0\x08\x02\0\x04\0Y0D0水 こおれば \x0e\0\0\x08\x02\0\x04\0j0k0何かが おきる!?
+Wing	たくさんフレンズ せに のせ\x0e\0\0\x06\x02\0\x02\0h0飛んで\n\x0e\0\0\x06\x02\0\x02\0M0気ぶんも そうかい ゆかいな スカイ\nはばたき \x0e\0\0\x08\x02\0\x04\0K0\\0風を じざいに あやつれ！\nぶきに つぎつぎ とっ\x0e\0\0\x08\x02\0\x04\0w0F0風 まとわせ\n\x0e\0\0\x06\x02\0\x02\0M0気りゅう おこして \x0e\0\0\x08\x02\0\x04\0f0\x930天まで \x0e\0\0\x06\x02\0\x02\0h0飛んでけ！
+Beetle	エッジなヘッドが キラリと\x0e\0\0\x08\x02\0\x04\0r0K0光り\nこん\x0e\0\0\n\x02\0\x06\0a0\x850F0虫キングが ふたたび けんざん！\n\x0e\0\0\x08\x02\0\x04\0D0W0石あたまノックで クイもうてるぞ\n\x0e\x04\x17\x02\xc4\0で みんなを ヘッドに あつめて\nフレンズぜんいん まとめて ぶんなげ！
+Artist	カラフル \x0e\0\0\x06\x02\0\x02\0H0絵ふでを ひっさげて\nお\x0e\0\0\x06\x02\0\x02\0H0絵かき しゅぎょうの たびに\x0e\0\0\x06\x02\0\x02\0g0出る！\nおいしい ぐげん\x0e\0\0\x06\x02\0\x02\0K0化 まほうのごとく\nフレンズたちにも わけあたえ\nアートで せかいを すくうぞピース！
+Spider	かれいに ほかくだ スパイダー！\nせまり のがさぬ まさに ザ・ハンター！\n\x0e\0\0\x08\x02\0\x04\0D0h0糸で くりだす みょうぎの \x0e\0\0\x08\x02\0\x04\0K0Z0数かず\nボヨンと \x0e\0\0\x08\x02\0\x04\0D0h0糸を あたりに しかけて\nフレンズはずむよ ハイ、ジャーンプ！
+Festival	ドンパフ おまつり のうりょくだ\n\x0e\0\0\x08\x02\0\x04\0J0\x820思わず みんなで おどりだす！\nオールスターの フレンズあつまり\nおまつりダンスで はじけちゃえ！\nまさにメモリアルな フェスティバル！
+Sword	ぶきの\x0e\0\0\x08\x02\0\x04\0J0F0王さま \x0e\x04\x17\x02\xc4\0で かかげろ！\nフレンズ あいずで メラメラ バリッ ザブッ！\nメンバーいれかえ \x0e\0\0\x06\x02\0\x02\0r0火や\x0e\0\0\x08\x02\0\x04\00Z0水 まとうよ\n\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷も\x0e\0\0\x06\x02\0\x02\0F0生み\x0e\0\0\x06\x02\0\x02\0`0出し メテオで くだくぞ\n\x0e\0\0\x08\x02\0\x04\0K0\\0風でワイルドに \x0e\0\0\n\x02\0\x06\0X0\x870F0上しょう \x0e\0\0\x06\x02\0\x02\0M0気りゅうだ！
+Cutter	もどる ブーメランだ \x0e\0\0\x08\x02\0\x04\0O0U0草ツタ きれるよ\nフレンズの つけた じめんの\x0e\0\0\x06\x02\0\x02\0r0火や\x0e\0\0\x08\x02\0\x04\00Z0水\nかすめて \x0e\0\0\x06\x02\0\x02\0h0飛ばせば やいばに つたわる\n\x0e\0\0\x08\x02\0\x04\0K0\\0風を まとえば ま\x0e\0\0\x08\x02\0\x04\0F0H0上に ブブゥーン！\nファイナルカッターで \x0e\0\0\n\x04\0\x06\0`0D0a0大地を いっそう！
+Fire	アツくもえるよ \x0e\0\0\n\x04\0\x06\0K0H0\x930火炎のワザよ\nどうかせんや フレンズの ぶきなど\nいろんなものに \x0e\0\0\x06\x02\0\x02\0r0火をつけ アチチッ！\nアツい ゆうじょう パワーがつどい\nあらたな ぶきさえ \x0e\0\0\x06\x02\0\x02\0F0生み\x0e\0\0\x06\x02\0\x02\0`0出す\x0e\0\0\n\x02\0\x06\0\{0n0J0炎だ！
+Ice	といき ふーふー てきを こおらせ\nキックで アタック けっとばす！\nスケートダッシュの ターンもけいかいに\nフレンズの ぶきも カチコチフローズン！\nストーンも スベらせ ツルッとカーリング！
+Stone	ステキにムテキ さか\x0e\0\0\x08\x02\0\x04\00a0道 スベるよ\nイロイロへんしん クイも うてちゃう\n\x0e\0\0\x08\x02\0\x04\00Z0水やアイスで どこでも カーリング！\nフレンズねんじて うかんで ドッスン！\n\x0e\0\0\x08\x02\0\x04\0h0M0時には アートに \x0e\0\0\x06\x02\0\x02\0\x810目ざめちゃうかも？
+Beam	ビリビリ はなつ \x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキこうげき\nうてばサイクル \x0e\0\0\x06\x02\0\x02\0h0飛べば はなつよ\nパワーアップした マシンガン！\nすばやく うてちゃう はどうビームだ\nフレンズの ぶきにも バリッと カン\x0e\0\0\x08\x02\0\x04\0g0\x930電！
+Hammer	でっかいハンマー \x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王じきでん\nクイを うちつけ ペッタンコ！\nどんどんたまる パワーで ふんさい\nけど、ためすぎに だけは ごようじん\nフレンズパワーを やどして たたけ！
+Parasol	しぶきで アタック \x0e\0\0\x08\x02\0\x04\00Z0水ふりまいて\n\x0e\0\0\x08\x02\0\x04\0h0M0時には フンワリ \x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中さんぽ\n\x0e\x04\x17\x02\xc4\0で ひらけば バサっと てんかい\n\x0e\0\0\x08\x02\0\x04\0J0J0大きなパラソル たきも ふせぐよ\nラブラブ\x0e\0\0\x06\x02\0\x02\0M0気ぶんで アイアイがさだ！
+Bomb	おいた ボムなら みんなで ひろえる！\nフレンズがつけた じめんの \x0e\0\0\x06\x02\0\x02\0r0火や\x0e\0\0\x08\x02\0\x04\00Z0水に\nころがり ふれても ばくだんへんげ！\nトドメに おどろき \x0e\0\0\x08\x02\0\x04\0K0\\0風を まとえば\nかついでフワフワ \x0e\0\0\x08\x02\0\x04\0]0\x890空も \x0e\0\0\x06\x02\0\x02\0h0飛べちゃう!?
+Ninja	シノビの さとから すけだち いたす！\nクナイに カタナも フレンズパワーで\n\x0e\0\0\x06\x02\0\x02\0r0火や\x0e\0\0\x08\x02\0\x04\0K0\\0風 まとって \x0e\0\0\x06\x02\0\x02\0h0飛びかい シュッシュ！\nいあいで ぞくせい \x0e\0\0\x06\x02\0\x02\0a0地を \x0e\0\0\x08\x02\0\x04\0o0W0走りぬけ\nみだれさく\x0e\0\0\x08\x02\0\x04\0o0j0花、しき おりおりに！！
+Fighter	オッス オイラは かくとうコピーっす！\nワザも めちゃんこ あるっす！\nてきを つかんで ブンナゲるっす！\nフレンズだって ブンナゲてぇっす！\nなげて \x0e\0\0\x08\x02\0\x04\0D0\x8f0岩とか ぶっこわしてぇっす！
+Whip	ビシバシ おなじみ ムチうちコピー\nアイテムつかんで てき なげつける\n\x0e\0\0\n\x04\0\x06\0K0H0\x930火炎のムチなら もえたまま ポイ！\nアイスで モリモリ \x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷\x0e\0\0\x06\x02\0\x02\0F0生み\x0e\0\0\x06\x02\0\x02\0`0出し\n\x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキ タイフーンで カミナリの\x0e\0\0\x08\x02\0\x04\0B0\x810雨！
+Esper	ねんじて きえるよ マジきせき！\n\x0e\x04\x17\x02\xc4\0で ねんりき \x0e\0\0\x08\x02\0\x04\0j0k0何かを うごかす？\nみらいを よんで みきわめガードだ\nねんりき ほうしゃで \x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキダメージ！\nいくぜOK、エスパー\x0e\0\0\x0e\x04\0\n\0W0\x870F0m0\x930少年！
+Yoyo	きたよ やんちゃよ ヨーヨーよ！\n\x0e\0\0\x08\x02\0\x04\0F0H0上なぎ \x0e\0\0\x08\x02\0\x04\0W0_0下なぎ ブレイクスピン\nいぬのさんぽも おちゃのこ さいさい！\nぞくせい まとって よりパワフルに\nたさいなアクション クールにキメろ！
+Sleep	…もう… す… こし…ZZZ…\nおねがい だから… ねむらせて…\n…おこ… す… なら… ZZZ…\n…ダチに たのむよ… たた… いて… ね…
+Crash	DANGER！DANGER！ さいしゅうへいき！\nドカンと イチゲキ ふっとばすっ\nフレンズまきこみ みなパニックだ\n\x0e\x04\x13\x02\xc0\0ガチャガチャ いじって ためれば\nもっと DANGER！ \x0e\0\0\x08\x02\0\x04\0`0D0大パニックだぁーっ！
+Mike	イェイ イェイ ウォウ ウォお～！\nひびけ３\x0e\0\0\n\x02\0\x06\0M0\x870O0曲 \x0e\0\0\x08\x02\0\x04\0`0D0大ねっしょう！\nパワーためれば \x0e\0\0\x08\x02\0\x04\0J0\x930音りょう アップだ\nフレンズと うたって ばくれつ ハモるよ\n\x0e\0\0\x08\x02\0\x04\0J0J0大ぜい あつまりゃ \x0e\0\0\x08\x02\0\x04\0`0D0大がっしょうだ！
+BandanaWaddledee	\x0e\0\0\x0c\x04\0\x08\0S0\x930K0D0今回だけの とくべつかしら ドリームフレンズ！\nカービィシリーズ かいきんしょうの\nワドルディたちから だいひょう せん\x0e\0\0\x08\x02\0\x04\0W0\x850手。\nたいへん たいへん！ ボクじゃムリです\nとか\x0e\0\0\x06\x02\0\x02\0D0言いつつ、ウデをみがいた ヤリはなつ！
+KingDedede	ザ・ライバル！「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ」 からきた\n\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王\x0e\0\0\x06\x02\0\x02\0j0名のる タフなアイツが フレンズの\nパワーを うけつぐ ハンマーかついで\nやいやいっ そんなに \x0e\0\0\x06\x02\0\x02\0D0言うなら…\nついていって やるぜ、やらいでかっ！
+Metaknight	さっそう \x0e\0\0\x08\x02\0\x04\0Q0\x930見ざん「\x0e\0\0\x08\x02\0\x04\0\x860\x810夢の\x0e\0\0\n\x02\0\x06\0D0Z00泉の\x0e\0\0\x0e\x04\0\n\0\x820n0L0_0\x8a0物語」より！\nきしどうせいしん むねに ひめ、\nこ\x0e\0\0\x08\x02\0\x04\0S0F0高 しゅぎょうに いどむ かれだが\n\x0e\0\0\x08\x02\0\x04\0h0\x820友との きずなも わすれはしない。\n\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣にやどせ、\x0e\0\0\x08\x02\0\x04\0B0\x890新たなる フレンズパワーを！
+Rick	なかよく さん\x0e\0\0\x08\x02\0\x04\0[0\x930戦「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ２」より！\nだれが \x0e\0\0\x06\x02\0\x02\0g0出るとか \x0e\0\0\x06\x02\0\x02\0g0出ないとか、も～めんどうだっ\nこうなりゃ トリオで ドリームチーム！\nリックが\x0e\0\0\x08\x02\0\x04\0\x8a0O0陸を、カインが\x0e\0\0\x08\x02\0\x04\0F00海を、クーが\x0e\0\0\x08\x02\0\x04\0]0\x890空を\nせいはする！ アニマルフレンズ \x0e\0\0\x10\x06\0\x0c\0\x8a0O0K0D0O0F0陸海空だい！
+Gooey	ヘンテコ にょろ～んと「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ３」から\nひょっこり。 \x0e\0\0\x08\x02\0\x04\0j0L0長～い べろが じまんのグーイ！\nなんか いろいろ ワケあり みたい…？\nよくわかんないけど ついてくるなら、\n\x0e\0\0\x08\x02\0\x04\0_0n0楽しく ぼうけん しちゃおっ ヨロシクね！
+Marx	ヘイ、ヘイ、ヘーイ！「スーパーデラックス」から\nピエロのアイツが ついに きたのサ！\nま～た ワルさを たくらんでる かもしれない\nけれど…ゴハンを \x0e\0\0\x06\x02\0\x02\0_0食べればもう おともだちっ\nまさにドリーム、あのラスボスと ありえない\x0e\0\0\x08\x02\0\x04\0_0s0旅へ！
+Adeleine	おまたせ！「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ64」から、まさか また\nかのじょたちに \x0e\0\0\x06\x02\0\x02\0B0会えるとは… アートなガールと\nようせいさんが、ポップスターに まいもどる！\nちょっぴり \x0e\0\0\x0e\x04\0\n\0_0D0\x8a0\x870O0体力には \x0e\0\0\n\x04\0\x06\0X0W0\x930自信がないけど… きせきを\n\x0e\0\0\x08\x02\0\x04\0H0L0描いて \x0e\0\0\n\x02\0\x06\0_0_0K0戦って、きらめく クリスタルで てきを うつ！
+DarkMetaknight	\x0e\0\0\x08\x02\0\x04\0]0\x890空の かなたの「\x0e\0\0\n\x02\0\x06\0K0L00鏡の\x0e\0\0\x08\x02\0\x04\0`0D0大\x0e\0\0\x0e\x04\0\n\0\x810D0M0\x850F0迷宮」より、\nまねかれざる カゲが ふてきに よみがえる！\nハートのパワーで かい\x0e\0\0\x08\x02\0\x04\0W0\x930心 したの？ ドキドキ\nすっごくアヤシイ ヤツだけど、ともに \x0e\0\0\x06\x02\0\x02\0\x860行けるなら\n\x0e\0\0\x0e\x04\0\n\0S0S0\x8d0e0\x880心強いぞ。 カゲのパワーで \x0e\0\0\n\x02\0\x06\0r0K0\x8a0光さえ…きる！
+Daroach	そのお\x0e\0\0\n\x02\0\x06\0_0K0\x890宝、いただくぞ！「\x0e\0\0\x0e\x04\0\n\0U0\x930X0\x870F0参上！ドロッチェ\x0e\0\0\x08\x02\0\x04\0`0\x930団」から \n\x0e\0\0\x06\x02\0\x02\0\x880予こくじょう… とうぞく ドロッチェが さん\x0e\0\0\x08\x02\0\x04\0[0\x930戦だ！\nオレに ぬすめぬ モノはない。フレンズでも なんでも\nなってやるから、お\x0e\0\0\n\x02\0\x06\0_0K0\x890宝さがしに つきあうのだぞ、と\n\x0e\0\0\x0c\x04\0\x08\0`0\x930D0\x930団員ひきつれ いざ、トレジャーハンティング！
+FriendsStar	フレンズたちの パワーがあつまり\nきらめき はばたく スターたんじょう！\n\x0e\0\0\x08\x02\0\x04\0]0\x890空も\x0e\0\0\x0c\x04\0\x08\0a0X0\x870F0地上も かけぬけて、\x0e\0\0\x08\x02\0\x04\0\{0W0星のだんがん\nみんなで うてる！\x0e\x07\x02\x02\x02\0で じゅんばん\n\x0e\0\0\x06\x02\0\x02\0D0入れかえて、\x0e\0\0\x08\x02\0\x04\0[0\x930先とうキャラで \x0e\0\0\x0e\x04\0\n\0X0\x830O0f0\x930弱点を うて！
+FriendsRolling	フレンズたちの パワーがあつまり\nともだちの わ がたんじょうだ！\nさか\x0e\0\0\x08\x02\0\x04\00a0道\x0e\0\0\x08\x02\0\x04\0O0`0下って ゴロゴロ ころがり\n\x0e\0\0\x08\x02\0\x04\0J0J0大きな わっかで アイテム \x0e\0\0\x08\x02\0\x04\0K0D0回しゅう、\nあなは \x0e\0\0\x08\x02\0\x04\0j0L0長おし ジャンプで ぴょーん！
+FriendsBridge	フレンズたちの パワーがあつまり\nゆうじょうの かけはし たんじょうだ！\n\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0で ちょこちょこ \x0e\0\0\n\x04\0\x06\0f0B0W0手足うごかし\nルートちょうせい ナゾをとく カギ！\nアイツの ゆくさき みちびく かけはし！
+FriendsTrain	フレンズたちの パワーがあつまり\nじょうき モクモク れっしゃごっこだ！\nシュッポ シュッポと カベさえのぼり、\nどとうの とっしん \x0e\0\0\n\x04\0\x06\0f0\x930a0天地を すすむ！\nゆめの ゆうじょう とっきゅうだ！
+TwinkleStarAllies	あたたかい \x0e\0\0\n\x02\0\x06\0S0S0\x8d0心のヤリから \x0e\0\0\x06\x02\0\x02\0F0生まれた\nひほう「ティンクルスターアライズ」。\nこのぎんがの みんなを すくいたい…！\nねがいは きらめく\x0e\0\0\x08\x02\0\x04\0\{0W0星となり \x0e\0\0\x08\x02\0\x04\0D0~0今、\nさいごのてきに…たちむかう!!
+LastCloseContest	{s[140]}ここまできたら まける きがしない！\nティンクルスターを はっしゃ して\n\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ さいごのてきを やっつけよう!!{s[100]}
+Pause\Boss.msbt
+TitleWhispywoods	VS ウィスピーウッズ
+TextWhispywoods	{s[095]}まいど おなじみ ボスの\x0e\0\0\x08\x02\0\x04\0j0K0中の ボス、\nウィスピーウッズが フッサフサになって\nあらわれた！ おとすリンゴも すんごいことに。\n\x0e\x04\x17\x02\xc4\0で はつどうする フレンズのうりょくで、\n\x0e\0\0\x08\x02\0\x04\0X0\x930人めんじゅ とうばつに、いどむんだ！{s[100]}
+TitleKingdedede	VS デデデ\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王
+TextKingdedede	{s[095]}まさか あのデデデ\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王が \x0e\0\0\x0e\x04\0\n\0O0k0X0\x850F0国中の \x0e\0\0\x06\x02\0\x02\0_0食べものを\nひとりじめ してしまうとは。 こんな おぞましい\nあくじを、\x0e\0\0\x0c\x04\0\x08\0D0c0_0D0一体だれが よそう できただろうか…。\nごくあく ひどうな\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王が、えいえんの ライバルに、\nやじゅうのハートを むきだしにして おそいかかる！{s[100]}
+TitleMetaKnight	VS メタナイト
+TextMetaKnight	{s[095]}ただひたすら \x0e\0\0\x08\x02\0\x04\0d0\x880強さを もとめ しゅぎょうに\nはげむ、こ\x0e\0\0\x08\x02\0\x04\0S0F0高のきし メタナイト。 しかし\nかれもまた、\x0e\0\0\x08\x02\0\x04\0O0\x8d0黒いハートに \x0e\0\0\n\x02\0\x06\0S0S0\x8d0心を おかされて\nしまっていた。 \x0e\0\0\n\x02\0\x06\0S0S0\x8d0心にひそむ わずかな\x0e\0\0\n\x04\0\x06\0\x840W0\x930野心を\nぞうふくさせ、\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣をつきつけ おそいかかる！{s[100]}
+TitlePonKon	VS ポン＆コン
+TextPonKon	{s[095]}あらわれたのは まさかの ２\x0e\0\0\x08\x02\0\x04\0_0D0体のアニマル、\nポン＆コン！ てきの ぐん\x0e\0\0\x08\x02\0\x04\0\x820\x930門に\x0e\0\0\x08\x02\0\x04\0O0`0下った かれらは\nあやしい クロガネのヨロイを \x0e\0\0\x06\x02\0\x02\00身にまとい\nこの えい\x0e\0\0\x08\x02\0\x04\0\x820\x930門をまもる \x0e\0\0\x0c\x04\0\x08\0p0\x930k0\x930番人となって、\nフレンズたちの\x0e\0\0\x08\x02\0\x04\0~0H0前に \x0e\0\0\x06\x02\0\x02\0_0立ちふさがるので あった！{s[100]}
+TitleYggdrawoods	VS ユグドラルウッズ
+TextYggdrawoods	{s[095]}あれ？ ウィスピーウッズ… じゃ、ないの！？\n\x0e\0\0\x08\x02\0\x04\0j0L0長い\x0e\0\0\x0c\x04\0\x08\0m0\x930R0d0年月 \x0e\0\0\x06\x02\0\x02\0D0生きてきた、エルダーな じゅ\x0e\0\0\x08\x02\0\x04\0\x820O0木の\x0e\0\0\x08\x02\0\x04\0J0F0王\nユグドラルウッズが あらわれた！ みちなる\nこの わく\x0e\0\0\x08\x02\0\x04\0[0D0星へと まよいこんだ \x0e\0\0\x0c\x04\0\x08\0_0s0s0h0旅人に、\n\x0e\0\0\x0e\x06\0\n\0`0D0W0\\0\x930大自然の しれんとなって あばれくるう！{s[100]}
+TitleSPonGKon	VS ゴールドン＆シルバックス
+TextSPonGKon	{s[095]}\x0e\0\0\x0e\x06\0\n\0S0L0m0D0\x8d0黄金色のタヌキ！ いぶし\x0e\0\0\x08\x02\0\x04\0N0\x930銀のキツネ！\nとある わく\x0e\0\0\x08\x02\0\x04\0[0D0星の \x0e\0\0\n\x04\0\x06\0S0X0~0小島おく\x0e\0\0\x06\x02\0\x02\0a0地に \x0e\0\0\x06\x02\0\x02\0Y0巣くうという\n２\x0e\0\0\x08\x02\0\x04\0_0D0体のフレンズコンビだ！ ナワバリ いしきが\n\x0e\0\0\x08\x02\0\x04\0d0\x880強く、しん\x0e\0\0\x0e\x04\0\n\0k0\x850F0W0\x830入者を \x0e\0\0\x06\x02\0\x02\00見つけると ひょう\x0e\0\0\x08\x02\0\x04\0x0\x930変し\n\x0e\0\0\x06\x02\0\x02\00見さかいなく おそって\x0e\0\0\x06\x02\0\x02\0O0来る、けもののモンスターズだ！{s[100]}
+TitleGiantironmom	VS アンセスビッグマム
+TextGiantironmom	{s[095]}どんなこうげきも はねかえす、\x0e\0\0\x08\x02\0\x04\0f0c0鉄ぺきの\n\x0e\0\0\x08\x02\0\x04\0~0\x820守りを ほこる\x0e\0\0\n\x02\0\x06\0J0\x930j0女\x0e\0\0\n\x04\0\x06\0[0\x930W0戦士 アンセスビッグマム！\nスターの だんがんさえ うけつけないが…\nヤツの \x0e\0\0\x0e\x04\0\n\0X0\x830O0f0\x930弱点をつく ぞくせいを みつけて、\nフレンズパワーで はがねの\x0e\0\0\x0c\x04\0\x08\0M0\x870X0\x930巨人を うちたおせ！{s[100]}
+TitleKracko1	VS クラッコ
+TextKracko1	{s[095]}みちなる わく\x0e\0\0\x08\x02\0\x04\0[0D0星でも \x0e\0\0\x08\x02\0\x04\0]0\x890空さえあれば あらわれる！\nおなじみ おなじみ クラッコだっ！\nけれども \x0e\0\0\x08\x02\0\x04\0]0`0育つ かんきょうの せいか、\nいつもと ちがった エネルギーを\x0e\0\0\x08\x02\0\x04\0K0\x930感じるぞ…\nゆだんしないで サクッと たおしちゃえ！{s[100]}
+TitleKracko2	VS ツインクラッコ
+TextKracko2	{s[095]}ポップスター\x0e\0\0\x08\x02\0\x04\0U0\x930産とは ちがうのだっ！\nモクモク ２\x0e\0\0\x08\x02\0\x04\0p0D0倍になって ふたたび とうじょう！\n\x0e\0\0\x08\x02\0\x04\0]0\x890空に えがかれた \x0e\0\0\x08\x02\0\x04\0K0J0顔のように にらみつけるは\n２つの\x0e\0\0\x0c\x04\0\x08\0L0\x930S0F0眼光！ あらぶる コンビネーション こうげきも、\nフレンズパワーでなら きっと かてるぞ！{s[100]}
+TitleExecutiveIce	VS フラン・キッス
+TextExecutiveIce	{s[095]}\x0e\0\0\x0c\x04\0\x08\0r0\x870F0K0氷華の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官… \x0e\0\0\x08\x02\0\x04\0B0J0青の「フラン・キッス」。\nこのジャマハルダの しきをとる かんぶ。\nれいせいちんちゃくな かのじょが くりだす\nいてつくような \x0e\0\0\n\x04\0\x06\0\x8c0D0M0冷気の こうげきは、\nあい\x0e\0\0\x06\x02\0\x02\0f0手の \x0e\0\0\n\x02\0\x06\0S0S0\x8d0心さえも こおらせてしまう という。{s[100]}
+TitleExecutiveFire	VS フラン・ルージュ
+TextExecutiveFire	{s[095]}\x0e\0\0\n\x04\0\x06\0T0F0K0業火の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官… \x0e\0\0\x08\x02\0\x04\0B0K0赤の「フラン・ルージュ」。\nもえるハートで てきを けちらす、アツい\n\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官の\x0e\0\0\n\x04\0\x06\0r0h0\x8a0１人。 \x0e\0\0\x08\x02\0\x04\0B0J0青のフラン・キッスの\nことになると、ちょっと アツく なりすぎて\nしまうらしい。 \x0e\0\0\x08\x02\0\x04\0D0~0今も、かなり げきど している。{s[100]}
+TitleExecutiveThunder	VS ザン・パルルティザーヌ
+TextExecutiveThunder	\x0e\0\0\n\x04\0\x06\0\x890D0L0雷牙{s[095]}の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官… \x0e\0\0\x0c\x04\0\x08\0S0\x930X0M0金色の「ザン・パルルティザーヌ」。\nせきにん\x0e\0\0\x08\x02\0\x04\0K0\x930感の\x0e\0\0\x08\x02\0\x04\0d0\x880強い \x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官のリーダー。 \x0e\0\0\x08\x02\0\x04\0S0F0高そくで\x0e\0\0\x06\x02\0\x02\0h0飛び\nてきを ほんろうする。 この ようさいに\x0e\0\0\x0e\x04\0\n\0g0\x930\x8a0\x870O0電力を\nきょうきゅう し\x0e\0\0\x08\x02\0\x04\0d0e0続けている もよう。 \x0e\0\0\x0c\x04\0\x08\0j0k0\x820n0何者か からの\nめいで、\x0e\0\0\x08\x02\0\x04\0\x8400闇のハートを \x0e\0\0\x08\x02\0\x04\0K0D0回しゅう しているようだが…{s[100]}
+TitleExecutiveIceRevenge	VS フラン・キッス
+TextExecutiveIceRevenge	{s[095]}\x0e\0\0\n\x04\0\x06\0N0\x930L0銀河に ちった \x0e\0\0\x08\x02\0\x04\0\x8400闇のハートを さがして、\n\x0e\0\0\x08\x02\0\x04\0U0~0様ざまな\x0e\0\0\x08\x02\0\x04\0\{0W0星を そうさくしている \x0e\0\0\x08\x02\0\x04\0B0J0青の\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官が、\nパワーアップして おそいかかってくる！\n\x0e\0\0\x0c\x04\0\x08\0S0\x930K0D0今回の にんむでは あまりフラン・ルージュと\n\x0e\0\0\x06\x02\0\x02\0B0会えず、ちょっと さみしいのかも しれない。{s[100]}
+TitleExecutiveFireRevenge	VS フラン・ルージュ
+TextExecutiveFireRevenge	{s[095]}\x0e\0\0\x08\x02\0\x04\0\x8400闇のハートをさがす にんむを すいこうしている\nのだが、じつは いごこちのよい \x0e\0\0\x08\x02\0\x04\0\{0W0星に\x0e\0\0\x06\x02\0\x02\0M0来て、\x0e\0\0\x08\x02\0\x04\0Y0S0少し\nサボタージュして いたりもする。 フラン・キッスと\nこの\x0e\0\0\x08\x02\0\x04\0\{0W0星に\x0e\0\0\x06\x02\0\x02\0M0来たいな と\x0e\0\0\x08\x02\0\x04\0J0\x820思っているが、この\x0e\0\0\x08\x02\0\x04\0m0d0熱では\nたぶん、とけて すぐ\x0e\0\0\x06\x02\0\x02\0M0消えてしまう だろう。{s[100]}
+TitleExecutiveThunderRevenge	VS ザン・パルルティザーヌ
+TextExecutiveThunderRevenge	{s[095]}\x0e\0\0\n\x02\0\x06\0B0\x8b0X0主であるハイネスに ぜったいの ちゅうせいを ちかう\n\x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官のリーダー。 ただ、その\x0e\0\0\n\x02\0\x06\0B0\x8b0X0主にも \x0e\0\0\x08\x02\0\x04\0j0L0長すぎる\n\x0e\0\0\n\x04\0\x06\0j0~0H0名前を まだ \x0e\0\0\x08\x02\0\x04\0J0|0覚えてもらえて いない。 ちょっぴり\nしいたげられても \x0e\0\0\x08\x02\0\x04\0r0\x8d0拾われた おんぎから、また その\nカリスマ\x0e\0\0\x08\x02\0\x04\0[0D0性に とうすいし、\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心から けいあいしている。{s[100]}
+TitleExecutiveIceRevengeArena	VS フラン・キッス
+TextExecutiveIceRevengeArena	{s[095]}ー Prayer song to God ー\nだけどでも つめたく　だけどでも はげしく\nだけどでも いのる だけなの\nだけどでも さみしい　だけどでも あいたい\nだけどでも いのる Three prayers{s[100]}
+TitleExecutiveFireRevengeArena	VS フラン・ルージュ
+TextExecutiveFireRevengeArena	{s[095]}それでも うたう あのひとへの\nこの きもちよ とどいてねぇ KA MI SA MA！\n\n\x0e\x15\0\x02\x1e\0だけどでも せつなく　だけどでも こがれる\nけど おもうのはねぇ あなただけ なのよ{s[100]}
+TitleExecutiveThunderRevengeArena	VS ザン・パルルティザーヌ
+TextExecutiveThunderRevengeArena	{s[095]}だけどでも つめたく　だけどでも はげしく\nだけどでも はかないの わたしたち\n\n\x0e\x15\0\x02\x1e\0ねぇ いのるだけなの{s[090]} （ねぇ いのるだけなの）{s[095]}\nわたしたちの ハート とどいてよ{s[100]}
+TitleHiness1	VS ハイネス
+TextHiness1	{s[095]}\x0e\0\0\n\x02\0\x06\00Z0K0自らが あがめる、\x0e\0\0\n\x04\0\x06\0o0K0D0破壊の\x0e\0\0\x08\x02\0\x04\0K00神を よみがえらせようと\nたくらむ\x0e\0\0\n\x02\0\x06\0J0h0S0男。 だが ぎしきに \x0e\0\0\x0c\x04\0\x08\0W0c0q0D0失敗し、\x0e\0\0\x10\x06\0\x0c\0N0\x930L0X0\x850F0銀河中に\n\x0e\0\0\x08\x02\0\x04\0\x8400闇のパワーを ふりまいてしまう。 そして\x0e\0\0\x08\x02\0\x04\0D0~0今、 \n\x0e\0\0\x08\x02\0\x04\0Y0y0全ての\x0e\0\0\x08\x02\0\x04\0\x8400闇が ふういんの\x0e\0\0\x08\x02\0\x04\0U0D0祭だんに \x0e\0\0\x08\x02\0\x04\0B0d0集まろうとしている。\nフレンズたちよ、\x0e\0\0\n\x04\0\x06\0o0K0D0破壊の\x0e\0\0\x08\x02\0\x04\0K00神の ふっかつを そし するのだ！{s[100]}
+TitleHiness2	VS ハイネス
+TextHiness2	{s[095]}コンプレックスであった す\x0e\0\0\x08\x02\0\x04\0L0J0顔を ろてい して、\nハイネスの きょう\x0e\0\0\x08\x02\0\x04\0\x890\x930乱の おどりが はじまった！ \x0e\0\0\x06\x02\0\x02\0D0意しきの\nない \x0e\0\0\x0e\x06\0\n\0U0\x930~0K0\x930三魔官シスターズを まるで デク\x0e\0\0\x0e\x04\0\n\0k0\x930N0\x870F0人形のように\nあつかう すがたは、\x0e\0\0\x0c\x04\0\x08\0W0\x870F0M0正気の さたとは \x0e\0\0\x08\x02\0\x04\0J0\x820思えない。この\n\x0e\0\0\n\x04\0\x06\0B0O0\x800悪夢のような \x0e\0\0\n\x02\0\x06\0_0_0K0戦いを おわらせ、\x0e\0\0\x08\x02\0\x04\0Y0y0全てを…すくうんだ！{s[100]}
+TitleHiness1Arena	VS ハイネス
+TextHiness1Arena	{s[095]}ハイネスは まだ \x0e\0\0\x0c\x04\0\x08\0K0\x930\\0\x930完全に ふういんをとく すべを\n\x0e\0\0\x06\x02\0\x02\0H0会とく できては いなかった。 ニルについて \x0e\0\0\x06\x02\0\x02\0K0書かれた\nとされる \x0e\0\0\x0c\x04\0\x08\0g0\x930[0d0伝説の\x0e\0\0\x08\x02\0\x04\0W0\x870書には、かつて４\x0e\0\0\x08\x02\0\x04\0k0\x930人の \x0e\0\0\x08\x02\0\x04\0H0D0英ゆうが\n\x0e\0\0\x08\x02\0\x04\0\x8400闇を\x0e\0\0\x06\x02\0\x02\0F0生み\x0e\0\0\x06\x02\0\x02\0`0出し \x0e\0\0\x08\x02\0\x04\0d0e0続けていた ニルの\x0e\0\0\x06\x02\0\x02\0W0始そを、４\x0e\0\0\x08\x02\0\x04\0\{0\x930本の\n\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心のヤリで ふういんした、としか \x0e\0\0\x06\x02\0\x02\0K0書かれていない。\nその\x0e\0\0\x06\x02\0\x02\0T0後、かれらは どこへ \x0e\0\0\x06\x02\0\x02\0M0消えてしまったの だろうか。{s[100]}
+TitleHiness2Arena	VS ハイネス
+TextHiness2Arena	{s[090]}ジャマハローア＝こんにちわ　ジャマッデム＝はらがたつ\nジャマサラーバ＝さようなら　ジャマカッシャ＝ありがとう\nンジャ？＝なんだって？　マジュ＝また　ウン＝とても\nジャグ＝すぐ　ジャワス＝わすれる　ジャゴメーナ＝ごめんなさい{s[100]}\n {s[100]}「ザン・パルル、マジュ ジャグジャワス、ウン ジャゴメーナ！」{s[100]}\n{s[080]}（\x0e\0\0\x08\x04\0\x04\0D00意味：ザン・パルル、また すぐわすれちゃって、すっごく ごめんね！）{s[100]}
+TitleLastBoss1	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBoss1	{s[095]}さぁ \x0e\0\0\x06\x02\0\x02\0_0立ち\x0e\0\0\x06\x02\0\x02\0B0上がれよ　\x0e\0\0\n\x04\0\x06\0o0K0D0破壊せし\x0e\0\0\x08\x02\0\x04\0K00神よ\n\x0e\0\0\x08\x02\0\x04\0\{0W0星\x0e\0\0\x08\x02\0\x04\0O0`0砕き \x0e\0\0\x08\x02\0\x04\0B0D0愛を\x0e\0\0\x08\x02\0\x04\0\x810c0滅せよ\n\n\x0e\x15\0\x02\x1e\0さぁ \x0e\0\0\x06\x02\0\x02\0a0地を\x0e\0\0\x08\x02\0\x04\0B0D0哀で\x0e\0\0\x08\x02\0\x04\0d0d0包め　\x0e\0\0\x08\x02\0\x04\0J0n0己が\x0e\0\0\x08\x02\0\x04\0n0^0望むまま \x0e\0\0\x0e\x04\0\n\0X0\x850F0\x8a0\x930蹂躙を\n\x0e\0\0\x0c\x04\0\x08\0\{0W0|0W0星々を\x0e\0\0\x08\x02\0\x04\0\x810P0巡り　\x0e\0\0\x0c\x04\0\x08\0\{0F0[0D0崩星を\x0e\0\0\n\x02\0\x06\0K0j0g0奏\n\x0e\0\0\n\x04\0\x06\0K0j0_0彼方\x0e\0\0\x0c\x04\0\x08\0\x890O0H0\x930楽園に \x0e\0\0\x0e\x04\0\n\0W0\x850F0H0\x930終焉を… \x0e\0\0\x08\x04\0\x04\0h0\x8f0永遠に{s[100]}
+TitleLastBoss2	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBoss2	{s[095]}さぁ \x0e\0\0\x06\x02\0\x02\0h0飛び\x0e\0\0\x06\x02\0\x02\0_0立つのだ　\x0e\0\0\n\x04\0\x06\0o0K0D0破壊せし\x0e\0\0\x08\x02\0\x04\0K00神よ\n\x0e\0\0\x08\x02\0\x04\0\{0W0星\x0e\0\0\x06\x02\0\x02\0O0喰らい \x0e\0\0\x08\x02\0\x04\0B0D0愛を\x0e\0\0\x08\x02\0\x04\0\x810c0滅せよ\n\n\x0e\x15\0\x02\x1e\0さぁ \x0e\0\0\x08\x02\0\x04\0B0~0天を\x0e\0\0\x06\x02\0\x02\0K0翔ける\x0e\0\0\x08\x02\0\x04\0B0D0哀よ　\x0e\0\0\x08\x04\0\x04\0]0\x890宇宙から\x0e\0\0\x06\x02\0\x02\0u0降る\x0e\0\0\x08\x02\0\x04\0\x8400闇よ \x0e\0\0\x0c\x04\0\x08\0W0\x930q0\x930審判を\n\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x06\x02\0\x02\0S0子\x0e\0\0\x06\x02\0\x02\0\x890等\x0e\0\0\x08\x02\0\x04\0D0n0祈り　\x0e\0\0\x08\x02\0\x04\0U0Q0叫びの\x0e\0\0\x06\x02\0\x02\0m0音を\x0e\0\0\n\x02\0\x06\0K0j0g0奏\n\x0e\0\0\x08\x02\0\x04\0\x860\x810夢の\x0e\0\0\x0c\x04\0\x08\0\x890O0H0\x930楽園に \x0e\0\0\x0e\x04\0\n\0W0\x850F0H0\x930終焉を… \x0e\0\0\x08\x04\0\x04\0h0\x8f0永遠に{s[100]}
+TitleLastBoss3	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBoss3	{s[095]}おどろきの ニル\x0e\0\0\x0c\x04\0\x08\0\{0\x930_0D0本体が あらわれたっ！\n\x0e\0\0\x08\x02\0\x04\0j0\x930何の\x0e\0\0\x0e\x04\0\n\0K0\x930X0\x870F0感情も \x0e\0\0\x06\x02\0\x02\0\x820持たない、\x0e\0\0\x08\x02\0\x04\0\x8400闇のエネルギーで \x0e\0\0\x08\x02\0\x04\0d0O0作られた\n\x0e\0\0\x0c\x04\0\x08\0v0c0W0d0物質のような そんざいから \x0e\0\0\x08\x02\0\x04\0D0~0今、\x0e\0\0\x08\x02\0\x04\0j0k0何かが \x0e\0\0\x06\x02\0\x02\0\x810目ざめつつある。 \nその ねむりの\x0e\0\0\x08\x02\0\x04\0j0K0中でニルは はじめて、\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心から\x0e\0\0\x08\x02\0\x04\0J0\x820思った…\n　{s[100]}\n{s[140]}\x0e\x15\0\x02\x1e\0\x0e\0\0\x06\x02\0\x02\0\x810目の\x0e\0\0\x08\x02\0\x04\0~0H0前のてきを、めっせねば とっ！{s[100]}
+TitleLastBoss4	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBoss4	{s[095]}はるかぜとともに あらわれた、\x0e\0\0\n\x04\0\x06\0r0h0\x8a0一人の\nたびする わかものは、たくさんの \x0e\0\0\x08\x02\0\x04\0h0\x820友だちと\n\x0e\0\0\x08\x04\0\x04\0g0B0出会い、わかれ、ついに ここまで たどりつく！\n\x0e\0\0\x08\x02\0\x04\0o0\x840早く あいつを やっつけて、さぁ みんなで…\n　{s[100]}\n{s[150]}\x0e\x15\0\x02\x1e\0ゴハンを\x0e\0\0\x06\x02\0\x02\0_0食べて、お\x0e\0\0\x08\x02\0\x04\0r0\x8b0昼ねタイムだっ！{s[100]}
+TitleLastBoss4Arena	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBoss4Arena	{s[095]}どこからともなく あらわれた、\x0e\0\0\x08\x02\0\x04\0r0h0一つの\nそんざいは、\x0e\0\0\x08\x02\0\x04\0j0L0長い \x0e\0\0\x08\x02\0\x04\0j0L0長い \x0e\0\0\n\x04\0\x06\0X0K0\x930時間、ぎんがを\nさまよいつづけ、ついに ここまで たどりつく。 \nそして\x0e\0\0\x08\x02\0\x04\0D0~0今、\x0e\0\0\x08\x02\0\x04\0j0k0何かを\x0e\0\0\x08\x02\0\x04\0K0\x930感じ、ねがい、\x0e\0\0\n\x02\0\x06\0K0\x930L0考えた…\n　\n{s[100]}{s[140]}\x0e\x15\0\x02\x1e\0ニルの\x0e\0\0\x08\x02\0\x04\0j0K0中で、たましいが やどろうとしているっ！{s[100]}
+TitleLastBossEx1	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBossEx1	{s[095]}さぁ \x0e\0\0\x06\x02\0\x02\0_0立ち\x0e\0\0\x06\x02\0\x02\0B0上がれよ　\x0e\0\0\n\x04\0\x06\0o0K0D0破壊せし\x0e\0\0\x08\x02\0\x04\0K00神よ\n\x0e\0\0\x08\x02\0\x04\0\{0W0星\x0e\0\0\x08\x02\0\x04\0O0`0砕き \x0e\0\0\x08\x02\0\x04\0B0D0愛を\x0e\0\0\x08\x02\0\x04\0\x810c0滅せよ\n\n\x0e\x15\0\x02\x1e\0さぁ \x0e\0\0\x06\x02\0\x02\0a0地を\x0e\0\0\x08\x02\0\x04\0B0D0哀で\x0e\0\0\x08\x02\0\x04\0d0d0包め　\x0e\0\0\x08\x02\0\x04\0J0n0己が\x0e\0\0\x08\x02\0\x04\0n0^0望むまま \x0e\0\0\x0e\x04\0\n\0X0\x850F0\x8a0\x930蹂躙を\n\x0e\0\0\x0c\x04\0\x08\0\{0W0|0W0星々を\x0e\0\0\x08\x02\0\x04\0\x810P0巡り　\x0e\0\0\x0c\x04\0\x08\0\{0F0[0D0崩星を\x0e\0\0\n\x02\0\x06\0K0j0g0奏\n\x0e\0\0\n\x04\0\x06\0K0j0_0彼方\x0e\0\0\x0c\x04\0\x08\0\x890O0H0\x930楽園に \x0e\0\0\x0e\x04\0\n\0W0\x850F0H0\x930終焉を… \x0e\0\0\x08\x04\0\x04\0h0\x8f0永遠に{s[100]}
+TitleLastBossEx2	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBossEx2	{s[095]}さぁ \x0e\0\0\x06\x02\0\x02\0h0飛び\x0e\0\0\x06\x02\0\x02\0_0立つのだ　\x0e\0\0\n\x04\0\x06\0o0K0D0破壊せし\x0e\0\0\x08\x02\0\x04\0K00神よ\n\x0e\0\0\x08\x02\0\x04\0\{0W0星\x0e\0\0\x06\x02\0\x02\0O0喰らい \x0e\0\0\x08\x02\0\x04\0B0D0愛を\x0e\0\0\x08\x02\0\x04\0\x810c0滅せよ\n\n\x0e\x15\0\x02\x1e\0さぁ \x0e\0\0\x08\x02\0\x04\0B0~0天を\x0e\0\0\x06\x02\0\x02\0K0翔ける\x0e\0\0\x08\x02\0\x04\0B0D0哀よ　\x0e\0\0\x08\x04\0\x04\0]0\x890宇宙から\x0e\0\0\x06\x02\0\x02\0u0降る\x0e\0\0\x08\x02\0\x04\0\x8400闇よ \x0e\0\0\x0c\x04\0\x08\0W0\x930q0\x930審判を\n\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x06\x02\0\x02\0S0子\x0e\0\0\x06\x02\0\x02\0\x890等\x0e\0\0\x08\x02\0\x04\0D0n0祈り　\x0e\0\0\x08\x02\0\x04\0U0Q0叫びの\x0e\0\0\x06\x02\0\x02\0m0音を\x0e\0\0\n\x02\0\x06\0K0j0g0奏\n\x0e\0\0\x08\x02\0\x04\0\x860\x810夢の\x0e\0\0\x0c\x04\0\x08\0\x890O0H0\x930楽園に \x0e\0\0\x0e\x04\0\n\0W0\x850F0H0\x930終焉を… \x0e\0\0\x08\x04\0\x04\0h0\x8f0永遠に{s[100]}
+TitleLastBossEx3	VS \x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル
+TextLastBossEx3	{s[095]}ぞう\x0e\0\0\x06\x02\0\x02\0J0悪、しゅうねん、しっと、よく\x0e\0\0\x08\x02\0\x04\0|0F0望… ハイネスが\n\x0e\0\0\x08\x02\0\x04\0B0d0集めた\x0e\0\0\x08\x02\0\x04\0\x8400闇は、ニルの\x0e\0\0\x08\x02\0\x04\0j0K0中で \x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒の\x0e\0\0\n\x02\0\x06\0a0K0\x890力へと \x0e\0\0\x08\x02\0\x04\0x0\x930変かんされ\x0e\0\0\x08\x02\0\x04\0d0e0続けていた！\n\x0e\0\0\x08\x02\0\x04\0B0\x890新たに \x0e\0\0\x06\x02\0\x02\0F0生まれた たましいと それが、カオスとなって\nよりぞうふくする。しかし、まけはしない… なぜならばっ\n　\n{s[100]}{s[140]}\x0e\x15\0\x02\x1e\0あの\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\x08\x02\0\x04\0h0\x820友だち みんなが、ついているからだ！{s[100]}
+TitleLastBossEx4	VS ソウル オブ ニル
+TextLastBossEx4	{s[090]}お\x0e\0\0\x0e\x04\0\n\0h0N0p0j0W0伽話か、\x0e\0\0\x08\x02\0\x04\0\x860\x810夢\x0e\0\0\x0e\x04\0\n\0\x820n0L0_0\x8a0物語かも \x0e\0\0\x06\x02\0\x02\0\x8f0分からない… その\x0e\0\0\x0c\x04\0\x08\0g0\x930[0d0伝説の\x0e\0\0\x08\x02\0\x04\0W0\x870書には\nまだ、\x0e\0\0\x08\x02\0\x04\0d0e0続きがあった。\x0e\0\0\x08\x02\0\x04\0d0i0集うエネルギーしだいで、\nニルは\x0e\0\0\x08\x02\0\x04\0U0~0様ざまな そんざいに なりうる かもしれない、と。 \n\x0e\0\0\x08\x02\0\x04\0h0\x820友もなく、\x0e\0\0\x08\x02\0\x04\0\x8400闇の\x0e\0\0\x0c\x04\0\x08\0v0c0W0d0物質に \x0e\0\0\x06\x02\0\x02\0F0生まれた\x0e\0\0\x08\x02\0\x04\0K0\x8c0彼もまた、\x0e\0\0\n\x04\0\x06\0N0\x930L0銀河をさまよい\nいつしか、\x0e\0\0\x08\x02\0\x04\0B0\x890新たな\x0e\0\0\x08\x02\0\x04\0[0D0生を うける\x0e\0\0\x06\x02\0\x02\0r0日が おとずれるのだろうか。\nはるか\x0e\0\0\x0c\x04\0\x08\0\{0W0|0W0星々をめぐって。その\x0e\0\0\x08\x02\0\x04\0h0M0時は、\x0e\0\0\x08\x02\0\x04\0h0\x820友として……！{s[100]}
+TitleGalacticKnight	VS ギャラクティックナイト
+TitleBknight	VS バルフレイナイト
+TextBknight	{s[090]}\x0e\0\0\x08\x02\0\x04\0j0k0何かが たえ、その しんぱんの\x0e\0\0\x06\x02\0\x02\0r0日に どこからか\n\x0e\0\0\x06\x02\0\x02\0r0飛らいする、\x0e\0\0\x0c\x04\0\x08\0T0O0\x890O0極楽の\x0e\0\0\x0e\x06\0\n\0\x860\x8100i0\x8a0夢見鳥。 \x0e\0\0\x14\x08\0\x10\0N0\x930L0U0D0M0\x870F0銀河最強と \x0e\0\0\x06\x02\0\x02\0D0言われる\n\x0e\0\0\x08\x02\0\x04\0W0\x8d0白き\x0e\0\0\x08\x04\0\x04\0M0W0騎士が もたらした、\x0e\0\0\x0c\x04\0\x08\0j0L0m0\x930長年の \x0e\0\0\x0c\x04\0\x08\0[0D0\x810D0生命のさけびに\n\x0e\0\0\n\x02\0\x06\0M0\x870F0共めいし、\x0e\0\0\x08\x04\0\x04\0\x8800黄泉からの\x0e\0\0\x08\x04\0\x04\0M0W0騎士となって こうりんする。\nれきしの\x0e\0\0\x08\x02\0\x04\0\x8400闇に ほうむられた、\x0e\0\0\x08\x02\0\x04\0Q0c0決して\x0e\0\0\n\x02\0\x06\0_0_0K0戦う はずの\x0e\0\0\x06\x02\0\x02\0j0無い\nアノそんざいとの、\x0e\0\0\x08\x02\0\x04\0\x860\x810夢の\x0e\0\0\x0c\x04\0\x08\0_0D0Q0d0対決の… まくあけだっ！！{s[100]}
+Pause\CommandAdeleine.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	\x0e\0\0\x06\x02\0\x02\0H0絵ふでスラッシュ
+C12	ダッシュ＋\x0e\x07\x01\x02\x01\0
+D12	がむしゃら\x0e\0\0\x06\x02\0\x02\0H0絵ふで
+C13	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0はなす
+D13	ペインター
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D14	アドペインター
+C15U	「アドペインター」は しょうかんした ボスに\x0e\0\0\x06\x02\0\x02\0n0乗って \x0e\0\0\n\x02\0\x06\0_0_0K0戦えるぞ！
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+D21	リボンのはね
+C22	リボンのはね\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0
+D22	リボンクリスタル
+C23	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D23	フェアリーダンス
+C24U	フェアリーダンスは アイテムキャッチできます！
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D31	キャンバスにかくれる
+C32	\x0e\x04\x17\x02\xc4\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+D32	ピクニッカペインター
+Pause\CommandArtist.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	スカルプチャーの\x0e\0\0\x08\x02\0\x04\0B0h0後に\x0e\x07\x01\x02\x01\0
+C23K	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x03\x02\x03\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+D11	\x0e\0\0\x06\x02\0\x02\0H0絵ふでスラッシュ
+D12	\x0e\0\0\x06\x02\0\x02\0H0絵ふでスプラッシュ
+D13	ペインター
+D21	スカルプチャー
+D22	じょうねつのはかい
+D23	ザ・ワールド・ドローペイン
+C51	\x0e\x04\x17\x02\xc4\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+D51	フードデルペインター
+C53W	\x0e\x05\x0c\x02\x0c\0の \x0e\0\0\x08\x02\0\x04\0D0W0石ころへんしん\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\n\x0e\0\0\x06\x02\0\x02\0H0絵ふでスラッシュなどの こうげきを あてる
+D53	ヌリクルオブジェ
+Pause\CommandBandanaWaddledee.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0の\x0e\0\0\x08\x02\0\x04\0B0h0後に\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C13W	\x0e\x07\x01\x02\x01\0れんだ
+C14	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C24	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0れんだ
+C31	ダッシュ＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C32	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C33	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	ヤリつき
+D12	うらつき
+D13	ワド\x0e\0\0\n\x02\0\x06\0r0\x830O0百れつスピア\n　～きゅうしょつき
+D14	ワドコプター
+D21	\x0e\0\0\x0c\x04\0\x08\0f0\x930O0F0天空つき
+D22	\x0e\0\0\x08\x02\0\x04\0d0M0月おとし
+D23	ワドスピアスロー
+D24	れんぞくワドスピアスロー
+D31	ワドトリプルスロー
+D32	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中ヤリつき
+D33	\x0e\0\0\x08\x02\0\x04\0Y0D0水めんつき
+D34	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中したつき
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x02\x02r\0
+D52	メラーガスピア
+D53	ブリザスピア
+D54	バリッカスピア
+Pause\CommandBeam.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C21	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C22W	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+D11	ビームウィップ
+D12	サイクルビーム
+D13	ビームマシンガン
+D21	はどうビーム
+D22	キャプチャービーム
+C51UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x04\0\x06\0g0\x930M0電気の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x1a\x02\x1a\0
+D52	バリッカソード
+D53	バリッカカッター
+D54	バリッカボム
+Pause\CommandBeetle.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0れんだ
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0＋\x0e\x04\x17\x02\xc4\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C23	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C32	キャッチ＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C33	キャッチ＋\x0e\x07\x01\x02\x01\0
+C41	キャッチ＋\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C42	キャッチ＋\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C43	キャッチ＋\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	ホーンアッパー
+D12	さみだれホーン～バックスラッシュ
+D13	ロケットホーン
+D14	ロケットホーン～ダイビング
+D21	スパイラルホーン
+D22	ホバーウィング
+D23	\x0e\0\0\x08\x02\0\x04\0D0W0石あたまノック
+D31	キャッチホーン
+D32	うんぱん
+D33	ぶんなげ
+D41	なげおとし
+D42	のうてんおとし
+D43	ドリルたたきつけ
+D51	フレンズキャッチ
+D52	フレンズうんぱん
+D53	ブンナゲフレンズ
+C51W	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手あげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\nフレンズが ジャンプで ふれる
+C52	フレンズキャッチ＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C53	フレンズキャッチ＋\x0e\x07\x01\x02\x01\0
+Pause\CommandBomb.msbt
+C11	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C12	ばくだんかかげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0はなす
+C13	ばくだんかかげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x13\x02\xc0\0
+C14	ばくだんかかげ～ほうち
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C22	てきのそばで\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	ばくだんかかげ
+D12	ばくだんなげ
+D13	なげる\x0e\0\0\x08\x02\0\x04\0K0O0角どをかえる
+D14	じばく
+D21	ストライクボウル
+D22	おきにげばくだん
+D23	しかけばくだん
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x02\x02r\0
+D52	メラーガボム
+D53	ブリザボム
+D54	バリッカボム
+Pause\CommandChefKawasaki.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C23UW	コックカワサキは 「クッキンポット」や 「さいごのばんさん」を\nじかんが たてば ふたたび {c[fe9a10]}つかえるようになるぞ！{c[000000]}
+C21	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C22	\x0e\x07\x01\x02\x01\0めちゃ\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D11	おたま
+D12	うえおたま
+D13	しょっき
+D21	クッキンポット
+D22	さいごのばんさん
+C51W	フレンズヘルパーがいる ときに\n「クッキンポット」をつかう
+C52W	フレンズヘルパーがいる ときに\n「さいごのばんさん」をつかう
+D51	ニコーミフレンズ
+D52	ナベブッパフレンズ
+Pause\CommandClean.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	\x0e\x07\x01\x02\x01\0おしながら\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C13	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0はなす
+C22	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C23	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C24	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+D11	はきそうじ
+D12	はきながらいどう
+D13	フィニッシュクリーニング
+D21	ピッチクリーン
+D22	ためピッチクリーン
+D23	ナゴクリーン
+D24	チュチュクリーン
+C51	ジャンプした フレンズを \x0e\x04\x17\x02\xc4\0で きゅういん
+D51	フレンズきゅういん
+C52	フレンズきゅういん\x0e\0\0\x06\x02\0\x02\0T0後に \x0e\x07\x01\x02\x01\0
+D52	バキューマフレンズ
+C53UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、 こうげきすると {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0K0\\0風{c[000000]}や{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水{c[000000]}の\x0e\0\0\n\x02\0\x06\0a0K0\x890力を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C54	\x0e\x06\x01\x02q\0＋\x0e\x05\x11\x02\x11\0
+D54	ウィンガソード
+Pause\CommandCook.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D11	クッキンポット
+D12	さいごのばんさん
+C51W	フレンズヘルパーがいる ときに\n「クッキンポット」をつかう
+C52W	フレンズヘルパーがいる ときに\n「さいごのばんさん」をつかう
+D51	ニコーミフレンズ
+D52	ナベブッパフレンズ
+Pause\CommandCrash.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12W	\x0e\x07\x01\x02\x01\0＋\x0e\x04\x13\x02\xc0\0を\x0e\0\0\x0c\x04\0\x08\0D0\x8d0D0\x8d0色々うごかす～\x0e\x07\x01\x02\x01\0はなす\n/\x0e\x07\x01\x02\x01\0＋コントローラーをふる～\x0e\x07\x01\x02\x01\0はなす
+D11	はかいのかえん
+D12	じごくのごうか
+C51W	フレンズヘルパーがいる ときに\n「はかいのかえん」/「じごくのごうか」をつかう
+D51	パニクルラッシュ
+Pause\CommandCutter.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0おしつづける
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	てきのそばで\x0e\x07\x01\x02\x01\0
+C23W	てきのそばで\x0e\x07\x01\x02\x01\0れんだ
+D11	カッターブーメラン
+D12	ハイパーブーメラン
+D13	ダッシュカッターぎり
+D14	なでぎりカッター
+D21	かぶとわり
+D22	からたけわり
+D23	カッターめったぎり～\nファイナルカッター
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x02\x02r\0
+D52	メラーガカッター
+D53	ブリザカッター
+D54	バリッカカッター
+Pause\CommandDarkMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\0\0\x0e\x04\0\n\0_0D0\x8a0\x870O0体力まんタンで\x0e\x07\x01\x02\x01\0
+C13	たてぎり\x0e\0\0\x06\x02\0\x02\0T0後に \x0e\x07\x01\x02\x01\0を ２\x0e\0\0\x08\x02\0\x04\0K0D0回
+C14	ダーク３れんぎり\x0e\0\0\x06\x02\0\x02\0T0後に\x0e\x07\x01\x02\x01\0
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C22	ダークドリル\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C23	ダークスパイラル\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C25	ダーククロス\x0e\0\0\x06\x02\0\x02\0T0後に\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C32	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C33	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす＋\x0e\x04\x17\x02\xc4\0
+C34	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0＋\x0e\x07\x01\x02\x01\0
+C35	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C41	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C43	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C44	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	たてぎり
+D12	ダークビーム
+D13	ダーク３れんぎり
+D14	ダーク\x0e\0\0\n\x02\0\x06\0r0\x830O0百れつぎり～エッジスマッシュ
+D21	ダークドリル～エッジアッパー
+D22	ダークスパイラル
+D23	エッジメテオ
+D24	ダーククロス
+D25	エッジスラスト
+D31	ダークチョッピング
+D32	ミラーズ\x0e\0\0\x08\x02\0\x04\0K0D0回てんぎり
+D33	ダークキャリバー
+D34	３れんムーンショット
+D35	ミラーズエッジ
+D41	ミラーズウォール
+D42	ダークぶんしん
+D43	ダークぶんしん・\x0e\0\0\x08\x02\0\x04\0H0\x930円
+D44	はばたき
+D45	リフミラー
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05$\x02$\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05$\x02$\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05$\x02$\0＋\x0e\x06\x02\x02r\0
+D52	メラーガソード
+D53	ブリザソード
+D54	バリッカソード
+Pause\CommandDaroach.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	アイスショット
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+D12	チャージ
+C13	チャージ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\0\x02\0\0または\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D13	チャージキープ
+C14	ちょいチャージ \x0e\x07\x01\x02\x01\0はなす
+D14	アイスレーザー
+C15	めちゃチャージ \x0e\x07\x01\x02\x01\0はなす
+D15	ごく・アイスレーザー
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D21	トリプルスター
+C22	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0はなす
+D22	ドロッチェボム
+C23	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D23	ドロッチェフレアボム
+C31	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0はなす
+D31	スピンさんじょう
+C32	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0ちょい\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D32	ドクさんじょう
+C33	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0めちゃ\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D33	ストロンさんじょう
+C41	ダッシュ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0
+D41	ハンタークロー
+C42	てきのそばで\x0e\x07\x01\x02\x01\0
+D42	ひっかき
+C43	ひっかき\x0e\0\0\x06\x02\0\x02\0T0後に\x0e\x07\x01\x02\x01\0
+D43	ジャンピングクロー
+C44	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D44	サプライズボックス
+C45	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D45	しゅんかんいどう
+Pause\CommandEsper.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし＋\x0e\x04\x13\x02\xc0\0をうごかす
+C13	\x0e\x07\x01\x02\x01\0めちゃ\x0e\0\0\x08\x02\0\x04\0j0L0長おし＋\x0e\x04\x13\x02\xc0\0をうごかす
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C21	バニシュ～\x0e\x07\x01\x02\x01\0はなす
+C22W	こうげきをうける\nちょくぜんに\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C23W	こうげきをうける\nしゅんかんに\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	サイコキネシス
+D12	サイコムーブ
+D13	エレクトリカルムーブ
+D14	バニシュ
+D21	テレポしゅつげん
+D22	テレポかいひ
+D23	よげんしゃのみきわめ
+C51	\x0e\x05\x06\x02\x06\0＋\x0e\x05\x0c\x02\x0c\0
+D51	ポルターガオブジェ
+C52UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x04\0\x06\0g0\x930M0電気の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+D53	バリッカソード
+D54	バリッカカッター
+Pause\CommandFestival.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	ダンスフェスタ
+C51W	フレンズヘルパーがいる ときに\n「ダンスフェスタ」をつかう
+D51	フェスティバーン
+Pause\CommandFighter.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0はなす
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0はなす
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C23	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C24	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0ちょい\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C32	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0ほどよく\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C33	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0めちゃ\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C34	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C41	てきのそば \x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0はなす
+C42	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C43W	つかみ＋\x0e\x07\x01\x02\x01\0/\nつかみ＋\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか
+C44	つかみ＋\x0e\x04\x15\x02\xc2\0\x0e\x04\x16\x02\xc3\0どれか
+D11	バルカンジャブ
+D12	スマッシュパンチ
+D13	あしばらい
+D14	スピンキック
+D21	ふみつけげり
+D22	ダブルキック
+D23	ライジンブレイク
+D24	スカイキック
+D31	はどうショット
+D32	メガはどうショット
+D33	ギガはどうショット
+D34	そっこうメガはどうショット
+D41	ムーンサルトキック
+D42	ファイターつかみ
+D43	かたてなげ
+D44	せおいなげ
+C51W	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手あげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\nフレンズが ジャンプで ふれる
+D51	フレンズつかみ
+C52	\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0で なげる\x0e\0\0\x0c\x04\0\x08\0\{0F0S0F0方向が かわる
+D52	ブンナゲフレンズ
+Pause\CommandFire.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	\x0e\0\0\x06\x02\0\x02\0r0火ふきこうげき
+C12	\x0e\0\0\x06\x02\0\x02\0r0火ふきこうげき＋\x0e\x04\x13\x02\xc0\0
+D12	\x0e\0\0\x06\x02\0\x02\0r0火のむきをかえる
+C13	\x0e\0\0\x06\x02\0\x02\0r0火ふきこうげき＋\x0e\x04\x16\x02\xc3\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+D13	\x0e\0\0\x06\x02\0\x02\0r0火だるまぢごく
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0
+D14	バーニングアタック
+C15	バーニングアタック\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\0\x02\0\0
+D15	バーニングバーン
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D21	\x0e\0\0\x06\x02\0\x02\0r0火だるまスピン
+C22	ちゃくちちょくぜんに\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D22	\x0e\0\0\x06\x02\0\x02\0r0火だるまころがり
+C23	\x0e\0\0\x06\x02\0\x02\0r0火だるまころがり\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\0\x02\0\0
+D23	\x0e\0\0\x06\x02\0\x02\0r0火だるまとび
+C24W	\x0e\0\0\x06\x02\0\x02\0r0火だるまスピン\x0e\0\0\n\x02\0\x06\0a0\x850F0中にカベをおす/\n\x0e\0\0\x06\x02\0\x02\0r0火だるまころがり\x0e\0\0\n\x02\0\x06\0a0\x850F0中にカベをおす
+D24	\x0e\0\0\x06\x02\0\x02\0r0火だるましょうりゅう
+C51	\x0e\x06\x04\x02t\0＋\x0e\x06\x01\x02q\0
+C52UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C53	\x0e\x06\x04\x02t\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x04\x02t\0＋\x0e\x05\x07\x02\x07\0
+D51	メラインガバーナー
+D53	メラーガソード
+D54	メラーガカッター
+Pause\CommandFriendCoop.msbt
+C61	なかまの\x0e\0\0\x08\x02\0\x04\0F0H0上から ジャンプ＋\x0e\x04\x15\x02\xc2\0
+C62	CPに おんぶ
+C63	おんぶ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x04\x17\x02\xc4\0/\x0e\x07\x03\x02\x03\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C64	おんぶ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0をおして なかまと\x0e\0\0\n\x04\0\x06\0i0F0X0同時に はなす
+C65	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x07\x03\x02\x03\0
+D61	おんぶ
+D62	のっとりおんぶ
+D63	おりる
+D64	せーのでドン！
+D65	さよならする フレンズを えらぶ
+Pause\CommandFriendsBridge.msbt
+D11	\x0e\0\0\x08\x02\0\x04\0F0H0上にいどう
+D12	\x0e\0\0\x08\x02\0\x04\0W0_0下にいどう
+C11	\x0e\x04\x17\x02\xc4\0
+C12	\x0e\x04\x15\x02\xc2\0
+Pause\CommandFriendsRolling.msbt
+D11	ジャンプ
+D12	\x0e\0\0\x08\x02\0\x04\0_0K0高くジャンプ
+C11	\x0e\x07\0\x02\0\0
+C12	\x0e\x07\0\x02\0\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+Pause\CommandFriendsStar.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	スターショット　
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D12	ミルキーウェイ
+C13	\x0e\x07\x02\x02\x02\0
+D13	せんとういれかえ　
+C14	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D14	スターガード
+C15	キャンディーをとる
+D15	りゅうせいになる　
+Pause\CommandFriendsTrain.msbt
+D11	ジャンプ
+C11	\x0e\x07\0\x02\0\0
+Pause\CommandGooey.msbt
+C11U	べろ こうげきは アイテムキャッチできます！
+C12	\x0e\x07\x01\x02\x01\0はなす
+C13	\x0e\x07\x01\x02\x01\0れんだ
+C14	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C15W	べろほしょく＋\x0e\x07\x01\x02\x01\0/\nべろほしょく＋\x0e\x04\x14\x02\xc1\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	グーイパラソル～\x0e\x07\x01\x02\x01\0長おし
+C23	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C25	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C32	マターもどき\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0
+C33	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D12	べろーん
+D13	べろべろーん
+D14	べろほしょく
+D15	したうち
+D21	グーイパラソル
+D22	くるくるパラソル
+D23	グーイバーニング
+D24	グーイストーン
+D25	かくさんダークレーザー
+D31	マターもどき
+D32	ダークレーザー
+D33	おまもりぶくろ
+C51W	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手あげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\nフレンズが ジャンプで ふれる
+D51	フレンズつかみ
+C52	\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0で なげる\x0e\0\0\x0c\x04\0\x08\0\{0F0S0F0方向が かわる
+D52	ブンナゲフレンズ
+C53UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+D54	スプラソード
+Pause\CommandHammer.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C15	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	おにごろしチャージハンマー\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	ダッシュ＋\x0e\x07\x03\x02\x03\0
+C24	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+D11	ハンマーたたき
+D12	ぐりぐりハンマー
+D13	ジャイアントスイング
+D14	だいしゃりん
+D15	ごく・だいしゃりん
+D21	おにごろしチャージハンマー
+D22	ためながらいどう
+D23	ばくれつハンマーなげ
+D24	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中だいしゃりん
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x02\x02r\0
+D52	メラーガハンマー
+D53	ブリザハンマー
+D54	バリッカハンマー
+Pause\CommandIce.msbt
+C11	ダッシュ
+C12	\x0e\x07\x01\x02\x01\0
+C13	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C14	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし/\x0e\x07\x01\x02\x01\0れんだ
+C22	ダッシュ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C24	アイスほおばり＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷にせっしょく
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C33	こちこちガード\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0はなす
+D11	かっそう
+D12	こちこちといき
+D13	こちこちスプリンクラー
+D14	ごく・こちこちスプリンクラー
+D21	こちこちブリザード
+D22	こちこちタックル
+D23	アイスほおばり
+D24	アイスはきだし
+D31	\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷キック
+D32	こちこちガード
+D33	こおりちらし
+C51UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0S0J0\x8a0氷の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x06\x03\x02s\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x03\x02s\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x03\x02s\0＋\x0e\x05\x0c\x02\x0c\0
+D52	ブリザソード
+D53	ブリザカッター
+D54	ツルーガカーリング
+Pause\CommandInWater.msbt
+C11	\x0e\x04\x13\x02\xc0\0
+C12	\x0e\x07\0\x02\0\0
+C13	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C14U	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中でも つかえる のうりょくが あります。
+D11	おした\x0e\0\0\x0c\x04\0\x08\0\{0F0S0F0方向におよぐ
+D12	\x0e\0\0\x08\x02\0\x04\0F0H0上におよぐ
+D13	\x0e\0\0\x08\x02\0\x04\00Z0水でっぽう
+Pause\CommandKingDedede.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C15	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	おにごろしデデデハンマー\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	ダッシュ＋\x0e\x07\x03\x02\x03\0
+C24	ダッシュ＋\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C32	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C33	ホバリング\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0
+D11	ハンマーたたき
+D12	ぐりぐりハンマー
+D13	ジャイアントデデデスイング
+D14	だいしゃりん
+D15	ごく・だいしゃりん
+D21	おにごろしデデデハンマー
+D22	ためながらいどう
+D23	ばくれつデデデハンマーなげ
+D24	ヘッドスライディング
+D31	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中ハンマースイング
+D32	ホバリング
+D33	くうきだん
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x02\x02r\0
+D52	メラーガハンマー
+D53	ブリザハンマー
+D54	バリッカハンマー
+Pause\CommandLastCloseContest.msbt
+Pause\CommandMarx.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	ピエロたまのり\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0
+C13	ピエロたまのり\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし＋\x0e\x04\x13\x02\xc0\0
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C15	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	てきのそばで\x0e\x07\x01\x02\x01\0
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C23	きらめきのはね\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x07\x01\x02\x01\0はなす
+C24	きらめきのはね\x0e\0\0\n\x02\0\x06\0a0\x850F0中に \x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C25	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C32	まっさかさマルクで \x0e\0\0\n\x04\0\x06\0X0\x810\x930地面にとびこむ
+C33	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C34	とっしん\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C35	とっしん\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	ピエロたまのり
+D12	たまけり
+D13	ける角どをかえる
+D14	たまけりシュート
+D15	しかけピエロだま
+D21	いたずらキック
+D22	きらめきのはね
+D23	くちからピエロだま
+D24	ブラックホール
+D25	きりもみマルク
+D31	まっさかさマルク
+D32	シャドウ～シャドウアッパー
+D33	とっしん
+D34	コンボまっさかさま
+D35	コンボきりもみ
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05!\x02!\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05!\x02!\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05!\x02!\0＋\x0e\x06\x02\x02r\0
+D52	メラーガマルク
+D53	ブリザマルク
+D54	バリッカマルク
+Pause\CommandMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\0\0\x0e\x04\0\n\0_0D0\x8a0\x870O0体力まんタンで\x0e\x07\x01\x02\x01\0
+C13	たてぎり\x0e\0\0\x06\x02\0\x02\0T0後に \x0e\x07\x01\x02\x01\0を ２\x0e\0\0\x08\x02\0\x04\0K0D0回
+C14	メタ３れんぎり\x0e\0\0\x06\x02\0\x02\0T0後に \x0e\x07\x01\x02\x01\0
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C22	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C23	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C24	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C32	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C33	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす＋\x0e\x04\x17\x02\xc4\0
+C41	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C43	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C44	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+D11	たてぎり
+D12	ナイトビーム
+D13	メタ３れんぎり
+D14	メタ\x0e\0\0\n\x02\0\x06\0r0\x830O0百れつぎり～きめぎり
+D21	ドリルスラッシュ
+D22	スピニングナイト
+D23	メタチョッピング
+D24	したづき
+D31	うえつき
+D32	メタ\x0e\0\0\x08\x02\0\x04\0K0D0回てんぎり
+D33	マッハトルネイド
+D41	メタコンドルダイブ
+D42	シャトルループ
+D43	はばたき
+D44	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中スピニング
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x02\x02r\0
+D52	メラーガソード
+D53	ブリザソード
+D54	バリッカソード
+Pause\CommandMike.msbt
+C11	\x0e\x07\x01\x02\x01\0 （1\x0e\0\0\n\x04\0\x06\0K0D0\x810回目）
+C12	\x0e\x07\x01\x02\x01\0 （2\x0e\0\0\n\x04\0\x06\0K0D0\x810回目）
+C13	\x0e\x07\x01\x02\x01\0はなす （3\x0e\0\0\n\x04\0\x06\0K0D0\x810回目）
+C14W	\x0e\x07\x01\x02\x01\0＋\x0e\x04\x13\x02\xc0\0を\x0e\0\0\x0c\x04\0\x08\0D0\x8d0D0\x8d0色々うごかす～\x0e\x07\x01\x02\x01\0はなす （3\x0e\0\0\n\x04\0\x06\0K0D0\x810回目）\n/\x0e\x07\x01\x02\x01\0＋コントローラーをふる～\x0e\x07\x01\x02\x01\0はなす（3\x0e\0\0\n\x04\0\x06\0K0D0\x810回目）
+D11	メガホン
+D12	デスクマイク
+D13	スタンドマイク
+D14	ラストコンサート
+C51W	フレンズヘルパーがいる ときに\n「スタンドマイク」/「ラストコンサート」を\x0e\0\0\x08\x02\0\x04\0d0K0使う
+D51	デスボイコーラス
+Pause\CommandNinja.msbt
+C11	\x0e\x07\x01\x02\x01\0はなす
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	てきのそばで\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C24	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で カベをおす
+C32	カベはりつきで\x0e\x07\x01\x02\x01\0
+C33	カベはりつきで\x0e\x07\0\x02\0\0
+C41W	こうげきをうける\nちょくぜんに\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C42	\x0e\0\0\x08\x02\0\x04\0Y0D0水めんで\x0e\x07\x01\x02\x01\0
+D11	クナイしゅりけん
+D12	はたきぎり
+D13	いあいぬき
+D14	ニンジャキック
+D21	えんまく
+D22	みだれ\x0e\0\0\x08\x02\0\x04\0o0j0花ふぶき
+D23	はたきぎり～かえし4れん
+D24	いづなおとし
+D31	カベはりつき
+D32	はりつきうち
+D33	\x0e\0\0\x0c\x04\0\x08\0U0\x930K0O0三角とび
+D41	かわりみのじゅつ
+D42	すいとん
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x02\x02r\0
+D52	メラーガニンジャ
+D53	ブリザニンジャ
+D54	バリッカニンジャ
+Pause\CommandNormal.msbt
+C11	\x0e\x07\0\x02\0\0
+C12	\x0e\x07\x01\x02\x01\0
+C13	ほおばり\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\0\x02\0\0
+C21	すばやく\x0e\x04\x14\x02\xc1\0/\x0e\x04\x14\x02\xc1\0\x0e\x16\0\0\x0e\x04\x14\x02\xc1\0
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0\x0e\x04\x15\x02\xc2\0
+C23	\x0e\x07\x02\x02\x02\0
+C24W	\x0e\x07\x03\x02\x03\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし / \x0e\x04\x12\x02\x95\0
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+C33	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	ジャンプ / ホバリング
+D12	すいこみ / はきだし
+D13	のみこみ / コピー
+D14	スライディング
+D21	ダッシュ
+D22	きゅうこうか
+D23	フレンズハートをなげる
+D24	なかまをけす\n/ のうりょくをすてる
+D31	ガード
+D32	そのばかいひ
+D33	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中かいひ
+Pause\CommandParasol.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C13	パラソルシールド\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23W	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C24	らっかする
+C31	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C32	\x0e\0\0\x08\x02\0\x04\0Y0D0水めんで\x0e\x07\x01\x02\x01\0
+C33	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	パラソルスイング
+D12	パラソルシールド
+D13	シールドのむきをかえる
+D14	パラソルドリル
+D21	ぐりぐりパラソル
+D22	パラソルダイブ
+D23	だいどうげいなげ
+D24	パラソルらっかさん
+D31	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中パラソルドリル
+D32	\x0e\0\0\x08\x02\0\x04\0Y0D0水めんドリルしぶき
+D33	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中パラソルダイブ
+C51	\x0e\x04\x17\x02\xc4\0
+D51	アイアイパラソル
+C52UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、 こうげきすると {c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C53	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x07\x02\x07\0
+D53	スプラソード
+D54	スプラカッター
+Pause\CommandPlasma.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	プラズマニードル
+C12	\x0e\x04\x13\x02\xc0\0を\x0e\0\0\x0c\x04\0\x08\0D0\x8d0D0\x8d0色々うごかす/コントローラーをふる
+D12	プラズマため
+C13	ちょいプラズマため \x0e\x07\x01\x02\x01\0
+D13	プラズマアロー
+C14	ほどよくプラズマため \x0e\x07\x01\x02\x01\0
+D14	プラズマレーザー
+C15	めちゃプラズマため \x0e\x07\x01\x02\x01\0
+D15	プラズマはどうだん
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D21	うえプラズマニードル
+C22	ちょいプラズマため \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D22	うえプラズマアロー
+C23	ほどよくプラズマため \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D23	かくさんプラズマ
+C24	めちゃプラズマため \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D24	スパーキングプラズマだん
+C31W	ほどよくプラズマためで\nはっせい
+D31	プラズマバリア
+C32W	プラズマバリア\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\n\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+D32	でんこうせっか
+C51	\x0e\x06\x02\x02r\0＋\x0e\x05\x05\x02\x05\0
+C52UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x04\0\x06\0g0\x930M0電気の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+D51	スプライデーン
+D53	バリッカソード
+D54	バリッカカッター
+Pause\CommandRick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+C15	はばたき\x0e\0\0\x06\x02\0\x02\0T0後に \x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C23	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0長おし
+C24	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C25	リックで てきを ふむ
+D11	リックファイア
+D12	リックストーン
+D13	クーパラソル
+D14	はばたき
+D15	クーカッター
+D21	はねる
+D22	カインアイス
+D23	れいとうカイン
+D24	おまもりぶくろ
+D25	ふみつけ
+C51UW	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手をあげて、なかまに {c[fe9a10]}ぞくせい{c[000000]}を もらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05 \x02 \0＋\x0e\x06\x03\x02s\0
+D52	ツルーガカーリング
+C53UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると {c[fe9a10]}\x0e\0\0\n\x02\0\x06\0\{0n0J0炎、\x0e\0\0\x08\x02\0\x04\00Z0水、\x0e\0\0\x08\x02\0\x04\0K0\\0風の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C54	\x0e\x06\x04\x02t\0＋\x0e\x05\x11\x02\x11\0
+D54	メラーガソード
+Pause\CommandSleep.msbt
+C11	のみこみ\x0e\0\0\x06\x02\0\x02\0X0時
+C12	\x0e\x04\x13\x02\xc0\0を\x0e\0\0\x0c\x04\0\x08\0D0\x8d0D0\x8d0色々うごかす/コントローラーをふる
+C51W	ねむっているカービィの はなちょうちんを\nフレンズが わっておこす
+D11	すいみん
+D12	がんばり\x0e\0\0\x08\x02\0\x04\0o0\x840早おき
+D51	オメザフレンズ
+Pause\CommandSpider.msbt
+D11	\x0e\0\0\x08\x02\0\x04\0D0h0糸
+C11	\x0e\x07\x01\x02\x01\0はなす
+D12	ネットワーク
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D13	\x0e\0\0\x08\x02\0\x04\0f0\x930天をつく\x0e\0\0\x08\x02\0\x04\0D0h0糸
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D21	ウェブとばし
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+D22	かくさんウェブとばし
+C22	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+D24	したうちウェブ
+C24	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D25	けりまゆ
+C25	まゆにせっしょく
+D31	まゆほかく
+C31	まゆのそばで\x0e\x07\x01\x02\x01\0
+D32	まゆボンボン
+C32	まゆほかく＋\x0e\x07\x01\x02\x01\0/まゆほかく＋\x0e\x04\x14\x02\xc1\0
+D33	まゆまゆボンボン
+C33	まゆほかく＋\x0e\x04\x17\x02\xc4\0\x0e\x04\x16\x02\xc3\0\x0e\x04\x15\x02\xc2\0どれか
+D34	まゆなかガード
+C34	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D51	ウェブひろげ
+C51	\x0e\x04\x17\x02\xc4\0
+D52	ボヨンガフレンズ
+C52	ウェブひろげの ウェブに ジャンプで ふれる
+Pause\CommandStick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0の\x0e\0\0\x08\x02\0\x04\0B0h0後に\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x07\x01\x02\x01\0れんだ
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23W	たかとびざつぎ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\n\x0e\x07\x01\x02\x01\0れんだ
+C31	ダッシュ＋\x0e\x07\x01\x02\x01\0はなす
+C32	ダッシュ＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C33	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34W	こうげきをうける\nちょくぜんに\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C41	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+C42	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C43	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	ぼう
+D12	うらぼう
+D13	たかたかぼう
+D14	さこんうこん
+D21	ぼうじゅつらんぶ
+D22	たかとびざつぎ
+D23	つくつくぼう
+D31	にょいぼうせんり
+D32	にょいぼうばんり
+D33	たけとんぼう
+D34	きゅうそのかまえ
+D41	りゅうすいぼう
+D42	りゅうすいたか
+D43	りゅうすいげ
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x02\x02r\0
+D52	メラーガスティック
+D53	ブリザスティック
+D54	バリッカスティック
+Pause\CommandStone.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C14U	へんしん\x0e\0\0\n\x02\0\x06\0a0\x850F0中は ほとんどの こうげきを ガード！
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0はなす
+C23	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C24	さか\x0e\0\0\x08\x02\0\x04\00a0道で\x0e\x07\x01\x02\x01\0
+C25	へんしん\x0e\0\0\n\x02\0\x06\0a0\x850F0中にダッシュ
+D11	\x0e\0\0\x08\x02\0\x04\0D0W0石ころへんしん
+D12	\x0e\0\0\x08\x02\0\x04\0D0W0石ころへんしんおしつぶし
+D13	ダッシュ\x0e\0\0\x08\x02\0\x04\0D0W0石ころへんしん
+D21	ヘビーおしつぶし
+D22	\x0e\0\0\x08\x02\0\x04\0D0W0石ころアッパーカット
+D23	こんしんアッパーカット
+D24	さか\x0e\0\0\x08\x02\0\x04\00a0道でズリズリすべる
+D25	ズリズリまわる
+C51UW	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手をあげて、なかまに {c[fe9a10]}ぞくせい{c[000000]}を もらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x0c\x02\x0c\0＋\x0e\x06\x03\x02s\0
+C53	\x0e\x05\x0c\x02\x0c\0＋\x0e\x06\0\x02p\0
+C54	\x0e\x05\x0c\x02\x0c\0＋\x0e\x05\x06\x02\x06\0
+D52	ツルーガカーリング
+D53	ザブンガカーリング
+D54	ポルターガオブジェ
+Pause\CommandSuplex.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C13	てきのちかくで\x0e\x07\x01\x02\x01\0
+C14	つかむしゅんかん\x0e\x07\x01\x02\x01\0
+C15	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21U	－リフトアップの\x0e\0\0\x08\x02\0\x04\0B0h0後　その１－
+C22	\x0e\x04\x17\x02\xc4\0
+C23	\x0e\x04\x15\x02\xc2\0
+C24	\x0e\x04\x16\x02\xc3\0
+C25	\x0e\x04\x14\x02\xc1\0
+C31U	－リフトアップの\x0e\0\0\x08\x02\0\x04\0B0h0後　その２－
+C32	\x0e\x07\x01\x02\x01\0
+C33	\x0e\x07\0\x02\0\0
+C34	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x16\x02\xc3\0/\x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0
+C35	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0
+D11	つかみダッシュ
+D12	つかみダッシュターボ
+D13	リフトアップ
+D14	もうれつストンピング
+D15	ピンポイントキック
+D22	バックブリーカー
+D23	ボディスラム
+D24	ジャーマンスープレックス
+D25	パイルドライバー
+D32	てっぽう\x0e\0\0\x08\x02\0\x04\00Z0水ラリアット
+D33	がんせきおとし
+D34	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中ボディスラム
+D35	\x0e\0\0\x12\x06\0\x0e\0O0F0a0\x850F0W0_0空中下なげボディスラム
+C51W	\x0e\x04\x17\x02\xc4\0で \x0e\0\0\x06\x02\0\x02\0f0手あげ\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\nフレンズが ジャンプで ふれる
+D51	フレンズつかみ
+C52	\x0e\x07\0\x02\0\0/\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0で なげる\x0e\0\0\x0c\x04\0\x08\0\{0F0S0F0方向が かわる
+D52	ブンナゲフレンズ
+Pause\CommandSword.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	たてぎり
+C12	\x0e\0\0\x0e\x04\0\n\0_0D0\x8a0\x870O0体力まんタンで\x0e\x07\x01\x02\x01\0
+D12	ソードビーム
+C13	たてぎり\x0e\0\0\x06\x02\0\x02\0T0後に\x0e\x07\x01\x02\x01\0
+D13	ソード\x0e\0\0\n\x02\0\x06\0r0\x830O0百れつぎり～きめぎり
+C14	ダッシュ＋\x0e\x07\x01\x02\x01\0
+D14	ドリルソード
+C21	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+D21	スピニングソード
+C22	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+D22	チョッピング～つきだし
+C23	つきだし～\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D23	かぶとづき
+C24	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D24	したづき
+C31	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D31	きり\x0e\0\0\x06\x02\0\x02\0B0上げスラッシュ
+C32W	きり\x0e\0\0\x06\x02\0\x02\0B0上げスラッシュの\n\x0e\0\0\n\x02\0\x06\0X0\x870F0上しょう\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D32	メテオエンド
+C33	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D33	\x0e\0\0\x08\x02\0\x04\0K0D0回てんぎり
+C34	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす＋\x0e\x04\x17\x02\xc4\0
+D34	たつまきぎり
+C25	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+D25	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中スピニング
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x04\x02t\0
+D52	メラーガソード
+C53	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x03\x02s\0
+D53	ブリザソード
+C54	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x02\x02r\0
+D54	バリッカソード
+Pause\CommandTwinkleStarAllies.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	ティンクルコメット
+C12	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+D12	ティンクルスター
+C13	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～みんなで\x0e\0\0\n\x04\0\x06\0i0F0X0同時にはなす
+D13	せーのでスターアライズ！
+C14	\x0e\x07\x02\x02\x02\0
+D14	せんとういれかえ　
+C15	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D15	ティンクルン
+Pause\CommandWater.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	ダッシュ
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24	\x0e\0\0\x0e\x04\0\n\0Y0D0a0\x850F0水中で\x0e\x07\x01\x02\x01\0
+D11	ウェーブショット
+D12	なみのり
+D13	かんけつせん
+D14	ふんすいホバー
+D21	サーファータックル
+D22	レインボーレイン
+D23	ウォータークラウン
+D24	\x0e\0\0\x08\x02\0\x04\00Z0水でっぽうきょうか
+C51	\x0e\x05\x05\x02\x05\0＋\x0e\x06\x03\x02s\0
+C52	\x0e\x05\x05\x02\x05\0＋\x0e\x06\x02\x02r\0
+C53UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\00Z0水の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+D51	アイシックランス
+D52	バリカンデーン
+D54	スプラソード
+Pause\CommandWhip.msbt
+C11U	ムチの こうげきは \x0e\0\0\x08\x02\0\x04\0Y0y0全て アイテムキャッチ！
+C12	\x0e\x07\x01\x02\x01\0はなす
+C13	\x0e\x07\x01\x02\x01\0れんだ
+C14	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0はなす
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C24	\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし～はなす
+C31W	キャプチャー＋\x0e\x07\x01\x02\x01\0/\nキャプチャー＋\x0e\x04\x14\x02\xc1\0
+C32	キャプチャー＋\x0e\x04\x15\x02\xc2\0
+C33	キャプチャー＋\x0e\x04\x16\x02\xc3\0
+C34	キャプチャー＋\x0e\x04\x17\x02\xc4\0
+D12	ムチうち
+D13	\x0e\0\0\n\x02\0\x06\0r0\x830O0百れつウィップ
+D14	\x0e\0\0\x08\x02\0\x04\0f0\x930天じょううち
+D21	ジャンプうち
+D22	サイクルリボン
+D23	パラダイスタイフーン
+D24	キャプチャーウィップ
+D31	フロントたたきつけ
+D32	ダブルたたきつけ
+D33	バックたたきつけ
+D34	たかいたかい
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x02\x02r\0
+D52	メラーガウィップ
+D53	ブリザウィップ
+D54	バリッカウィップ
+Pause\CommandWing.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	フェザーガン＋\x0e\x04\x13\x02\xc0\0
+C13	ダッシュ＋\x0e\x07\x01\x02\x01\0/ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C14	コンドルずつき\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C15	コンドルずつき\x0e\0\0\n\x02\0\x06\0a0\x850F0中に\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0
+C24	トスの\x0e\0\0\x0c\x04\0\x08\0a0\x870O0T0直後に\x0e\x07\x01\x02\x01\0
+C25	\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\0\x02\0\0
+D11	フェザーガン
+D12	フェザーねらいうち
+D13	コンドルずつき
+D14	コンボらっか
+D15	コンボダイブ
+D21	ばくげきらっか
+D22	コンドルダイブ
+D23	トス
+D24	シャトルループ
+D25	はばたき
+C51UW	\x0e\x04\x17\x02\xc4\0で なかまが かかげた{c[fe9a10]}ぶき{c[000000]}に、こうげきすると{c[fe9a10]}\x0e\0\0\x08\x02\0\x04\0K0\\0風の\x0e\0\0\n\x02\0\x06\0a0K0\x890力{c[000000]}を つけられる！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x06\x01\x02q\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x01\x02q\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x01\x02q\0＋\x0e\x05\x1a\x02\x1a\0
+D52	ウィンガソード
+D53	ウィンガカッター
+D54	ウィンガボム
+Pause\CommandYoyo.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0はなす
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0\x0e\0\0\x08\x02\0\x04\0j0L0長おし
+C15	いぬのさんぽ＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C21	ダッシュ＋\x0e\x07\x01\x02\x01\0
+C22	ダッシュ＋\x0e\0\0\x0e\x04\0\n\0O0F0a0\x850F0空中で\x0e\x07\x01\x02\x01\0
+C23W	てきのそばで\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0どれか＋\x0e\x07\x01\x02\x01\0\n～\x0e\x04\x13\x02\xc0\0/\x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D11	ヨーヨーなげ
+D12	\x0e\0\0\x08\x02\0\x04\0F0H0上なぎヨーヨー
+D13	よこなぎヨーヨー
+D14	いぬのさんぽ
+D15	さんぽかいし
+D21	ブレイクスピン
+D22	ジャンプスピン
+D23	ハンマードロップ
+D24	ゲイザースパイラル
+C51UW	\x0e\x04\x17\x02\xc4\0で {c[fe9a10]}ぶき{c[000000]}を かかげ、なかまに {c[fe9a10]}ぞくせい{c[000000]}を つけてもらおう！\nほかにも いろいろな\x0e\0\0\x06\x02\0\x02\0O0組み\x0e\0\0\x06\x02\0\x02\0B0合わせが あるぞ！
+C52	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x02\x02r\0
+D52	メラーガヨーヨー
+D53	ブリザヨーヨー
+D54	バリッカヨーヨー
+Pause\Special.msbt
+TitleWMapLv1	へいわなくに\nプププランド
+TextWMapLv1	あきれかえるほど へいわな くにで\nだいじけん。 デデデだいおうが\nたべもの ぜ～んぶ ひとりじめに！\nわかきたびびと カービィは フレンズたちと\nいざ、ぼうけんの たびへ。
+TitleWMapLv2	きせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星\nポップスター
+TextWMapLv2	やみのハートを おいかけて、\nきせきの\x0e\0\0\x08\x02\0\x04\0\{0W0星を かけめぐる！ \x0e\x04\x17\x02\xc4\0を おして\n\x0e\0\0\x06\x02\0\x02\0F0生まれる フレンズ\x0e\0\0\x0e\x04\0\n\0n0F0\x8a0\x870O0能力を あやつって、\n\x0e\0\0\x08\x02\0\x04\0F00海あり \x0e\0\0\x08\x02\0\x04\0\x840~0山あり カービィたちの\nフレンドリーな たびは つづきます。
+TitleWMapLv3	\x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい\nジャマハルダ
+TextWMapLv3	メタナイトさえも くるわせる、\nてきが\x0e\0\0\x06\x02\0\x02\0~0待つは とつじょ あらわる \x0e\0\0\x0c\x04\0\x08\0B0\x930S0O0暗黒ようさい。\n\x0e\0\0\x08\x02\0\x04\0j0k0何が ねらいで この\x0e\0\0\x06\x02\0\x02\0a0地へ…？\nカービィたち ご\x0e\0\0\x0c\x04\0\x08\0D0c0S0F0一行は おそれもせずに、\nいつものように スルリと とつ\x0e\0\0\n\x02\0\x06\0k0\x850F0入しちゃいます！
+TitleWMapLv4	\x0e\0\0\x08\x02\0\x04\0o0\x8b0遥か、\nきらめきの\x0e\0\0\x0c\x04\0\x08\0\x860F0W0\x830勇者たち 
+TextWMapLv4	\x0e\0\0\x06\x02\0\x02\0M0気がつけば そこは\x0e\0\0\x0c\x04\0\x08\0F0a0\x850F0宇宙…\nふり\x0e\0\0\x08\x02\0\x04\0K0H0返ると ポップスターが \x0e\0\0\x08\x02\0\x04\0a0D0小さく きらめいていた。\nあの\x0e\0\0\x08\x02\0\x04\0\{0W0星の\x0e\0\0\n\x04\0\x06\0x0D0\x8f0平和と お\x0e\0\0\x08\x02\0\x04\0r0\x8b0昼ねタイムは、\x0e\0\0\x08\x02\0\x04\0~0\x820守る！\nそう\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心に\x0e\0\0\x06\x02\0\x02\0M0決めた {s[070]}かもしれない {s[100]}カービィたちは\nきらめく\x0e\0\0\x08\x02\0\x04\0\{0W0星となって、\x0e\0\0\x06\x02\0\x02\0h0飛ぶ！
+TitleWMapLv5	\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ\nスターアライズ
+TextWMapLv5	ハイネスが\x0e\0\0\x06\x02\0\x02\0D0言う「\x0e\0\0\x08\x02\0\x04\0K00神」とは せいぎや \x0e\0\0\x08\x02\0\x04\0B0O0悪の\x0e\0\0\n\x02\0\x06\0S0S0\x8d0心も\n\x0e\0\0\x06\x02\0\x02\0\x820持たない、\x0e\0\0\n\x04\0\x06\0o0K0D0破壊のためだけに \x0e\0\0\x06\x02\0\x02\0F0生まれた そんざい…\nその\x0e\0\0\x06\x02\0\x02\0j0名は「\x0e\0\0\n\x04\0\x06\0o0X0\x930破神エンデ・ニル」。 そんなの カミサマ\nなんかじゃないし \x0e\0\0\x06\x02\0\x02\0f0手かげんも いらない！\n\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ \x0e\0\0\x0c\x04\0\x08\0U0D0`0D0最大の\x0e\0\0\n\x02\0\x06\0_0_0K0戦いが…\x0e\0\0\x08\x02\0\x04\0D0~0今、はじまる!!
+TitleArena	The　アルティメットチョイス
+TextArena	\x0e\0\0\x08\x02\0\x04\0B0\x890新たなる バトルの\x0e\0\0\x08\x02\0\x04\0U0D0祭てんは、\x0e\0\0\x08\x02\0\x04\0H0\x890選べ！おのれの\n\x0e\0\0\x0c\x04\0\x08\0R0\x930K0D0限界を…The アルティメットチョイス！\n\x0e\0\0\n\x02\0\x06\00Z0K0自らで\x0e\0\0\x08\x02\0\x04\0H0\x890選ぶ \x0e\0\0\x10\x04\0\x0c\0M0\x850F0M0\x870O0究極の しれんの\x0e\0\0\x08\x02\0\x04\0[0\x930選たく！ ととうを\n\x0e\0\0\x06\x02\0\x02\0O0組んで せまりくる、\x0e\0\0\x0c\x04\0\x08\0R0M0K0\x890激辛ボス\x0e\0\0\x08\x02\0\x04\0P0\x930軍だん さえも\nフレンズたちと ペロリ\x0e\0\0\x0e\x04\0\n\0K0\x930W0\x870O0完食 しちゃうんだ！
+Pause\SpecialHelperGo.msbt
+TextBladeknight	{s[120]}「ワタシも あの\x0e\0\0\x08\x02\0\x04\0r0h0人のような、\x0e\0\0\x08\x02\0\x04\0Q0\x930剣の\x0e\0\0\x08\x02\0\x04\0d0K0使い\x0e\0\0\x06\x02\0\x02\0f0手に…！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　\x0e\0\0\n\x02\0\x06\00i0\x8a0緑の\x0e\0\0\n\x04\0\x06\0[0\x930W0戦士が \x0e\0\0\n\x02\0\x06\00Z0K0自らの\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣に ちかいを\x0e\0\0\x06\x02\0\x02\0_0立てる。\n　それは \x0e\0\0\x08\x02\0\x04\0Q0\x930剣の\x0e\0\0\x08\x02\0\x04\00a0道を きわめ、\x0e\0\0\n\x04\0\x06\0[0K0D0世界をせいする\n　ソードマスターに なること！ \x0e\0\0\n\x02\0\x06\0\{0n0J0炎で \x0e\0\0\x08\x02\0\x04\0K0\\0風で\n　\x0e\0\0\x08\x02\0\x04\0g0\x930電ゲキで、\x0e\0\0\x08\x02\0\x04\0B0\x890新たな\x0e\0\0\x08\x02\0\x04\0Q0\x930剣ぎで つき\x0e\0\0\x08\x02\0\x04\0Y0Y0進め！
+TextSirkibble	{s[120]}「この\x0e\0\0\n\x02\0\x06\0\x840D0p0刃のように \x0e\0\0\n\x04\0\x06\0j0\x930i0何度でも、もどってくるぞ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ヨロイの\x0e\0\0\n\x04\0\x06\0j0K00中身は ごく・トップシークレット。\n　そんな アイツが ぼうけんの\x0e\0\0\x08\x02\0\x04\0_0s0旅へ！ \x0e\0\0\x06\x02\0\x02\0f0手もどる\n　\x0e\0\0\x0c\x04\0\x08\0J0F0T0\x930黄金ざん\x0e\0\0\x06\x02\0\x02\0p0刃の ごとく、\x0e\0\0\x06\x02\0\x02\0~0負けても めげずに\n　\x0e\0\0\n\x04\0\x06\0j0\x930i0何度でも \x0e\0\0\x06\x02\0\x02\0_0立ち\x0e\0\0\x06\x02\0\x02\0\x800向かう… くじけぬ ヨロイだ！
+TextPoppyjr	{s[120]}「アハハッ ドンパチハデに、いっちゃうよ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ほほえむ あくまだ \x0e\0\0\x0e\x04\0\n\0D0c0W0\x870F0一生 え\x0e\0\0\x08\x02\0\x04\0L0J0顔！\n　ニッコリしながら ドンパチ ぼうけん！\n　ねがうは \x0e\0\0\n\x04\0\x06\0o0j0s0花火の みりょくで みなニッコリ\n　\x0e\0\0\n\x04\0\x06\0x0D0\x8f0平和に おまつり \x0e\0\0\x08\x02\0\x04\0_0n0楽しめる \x0e\0\0\n\x04\0\x06\0[0K0D0世界に！
+TextRocky	{s[120]}「…………フンッ！{s[090]}（ドッスン）{s[120]}」\n\x0e\x15\0\x02\xe2\xff{s[100]}　カターイ カターイ \x0e\0\0\x08\x02\0\x04\0j0k0何かを \x0e\0\0\n\x04\0\x06\0Q0d0D0決意し、\n　\x0e\0\0\n\x04\0\x06\0\x800O0a0無口で おカタイ アイツが ヘビーな\x0e\0\0\x08\x02\0\x04\0_0s0旅へ！\n　アイスや お\x0e\0\0\x08\x02\0\x04\00Z0水で はてまで スベって\n　こぶし ふるわせ いかりの アッパーだ！
+TextWester	{s[120]}「\x0e\0\0\n\x04\0\x06\0[0K0D0世界\x0e\0\0\n\x02\0\x06\0X0\x850F0中の お\x0e\0\0\n\x02\0\x06\0_0K0\x890宝は…オレのものだっ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ウェスタン スタイルに ダンディハート。\n　もうしこまれた いらいは \x0e\0\0\n\x04\0\x06\0\\0\x930v0全部うけ、\x0e\0\0\n\x04\0\x06\0[0K0D0世界を\n　またにかけ たんけんだ！ しなる ムチうち\n　お\x0e\0\0\n\x04\0\x06\0_0K0\x890宝 \x0e\0\0\x08\x02\0\x04\0\x820h0求めて トレジャーハンティング！
+TextBonkers	{s[120]}「ウホッ おれ、バナナ、だいすき。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　バナナを さがして さがして さがして…\n　たとえ\x0e\0\0\x08\x02\0\x04\0j0k0何を さがしてたか \x0e\0\0\x08\x02\0\x04\0\x8f0Y0忘れちゃっても\n　\x0e\0\0\x06\x02\0\x02\0O0食いしんぼうの \x0e\0\0\x08\x02\0\x04\0M0\x870巨かんの おサルは\n　ジャマもの たたいて、どこまでも！
+TextBioSpark	{s[120]}「…せっしゃ、しゅぎょうの \x0e\0\0\x08\x02\0\x04\0_0s0旅に\x0e\0\0\x06\x02\0\x02\0g0出るで ござる。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　\x0e\0\0\n\x04\0\x06\0R0c0K0月下にひそむ かくれ\x0e\0\0\x08\x02\0\x04\0V0h0里の エリートシノビが\n　ニンジャしゅぎょうの \x0e\0\0\x08\x02\0\x04\0_0s0旅に\x0e\0\0\x06\x02\0\x02\0g0出る！\n　\x0e\0\0\x0c\x04\0\x08\0\x810D0h0F0名刀「\x0e\0\0\n\x04\0\x06\0W0g0\x930紫電」に わが\x0e\0\0\x06\x02\0\x02\00身を たくし、\n　い\x0e\0\0\x08\x02\0\x04\0S0O0国の はてまで シュタタッと かける！
+TextGim	{s[120]}「コレは いよいよ、ワタクシの\x0e\0\0\n\x04\0\x06\0g0p0\x930出番デスね！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　キカイ\x0e\0\0\x06\x02\0\x02\0K0化しんりゃくプロジェクト と\n　\x0e\0\0\x08\x02\0\x04\0D0~0今さっき じょうほう \x0e\0\0\x06\x02\0\x02\0M0聞きつけ \x0e\0\0\x08\x02\0\x04\0_0s0旅に\x0e\0\0\x06\x02\0\x02\0g0出た！\n　そんな お\x0e\0\0\n\x04\0\x06\0a0\x830\x810茶目な ギミックロボットの ギムが\n　\x0e\0\0\x06\x02\0\x02\0\x810目にした\x0e\0\0\n\x04\0\x06\0[0K0D0世界。 それは\x0e\0\0\x0c\x04\0\x08\0D0c0_0D0一体…！？
+TextStickEnemy	{s[120]}「\x0e\0\0\x08\x02\0\x04\0W0\x930信じる\x0e\0\0\x08\x02\0\x04\0\x820n0者は すくわれるのですか…？」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ピンクの アイツに \x0e\0\0\x08\x02\0\x04\0J0W0教えられたのは\n　\x0e\0\0\x08\x02\0\x04\0W0\x930信じ\x0e\0\0\x06\x02\0\x02\0B0合える \x0e\0\0\x08\x02\0\x04\0h0\x820友の そんざいほど、\n　とうとい ものはない ということ。\n　その しん\x0e\0\0\x08\x02\0\x04\0X0d0実を この\x0e\0\0\x06\x02\0\x02\0\x810目で、たしかめたい！
+TextBurningleo	{s[120]}「オレの ハートに…\x0e\0\0\x06\x02\0\x02\0r0火を つけたなぁっ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　もえあがる たてがみが じまんの レオが\n　\x0e\0\0\x08\x02\0\x04\0B0d0熱い ハートを むねに いだき、\n　\x0e\0\0\x08\x02\0\x04\0B0d0熱い \x0e\0\0\n\x02\0\x06\0\{0n0J0炎を みなに\x0e\0\0\x06\x02\0\x02\0\x8f0分け、\x0e\0\0\x08\x02\0\x04\0`0D0大ぼうけんへ！\n　うかつに \x0e\0\0\x08\x02\0\x04\0a0K0近づくと… ヤケド しちゃうぞっ！
+TextChilly	{s[120]}「ボク、\x0e\0\0\n\x04\0\x06\0[0K0D0世界の はてまで \x0e\0\0\x06\x02\0\x02\0D0行ってみたいな…。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　その\x0e\0\0\x08\x02\0\x04\0\x860M0雪だるまは \x0e\0\0\x08\x02\0\x04\0J0\x820思った。 あたたかく なって\n　\x0e\0\0\x06\x02\0\x02\0M0消えてしまう その\x0e\0\0\x08\x02\0\x04\0~0H0前に、\x0e\0\0\n\x04\0\x06\0[0K0D0世界の はてまで\n　\x0e\0\0\x08\x02\0\x04\0_0s0旅が したい。 \x0e\0\0\x08\x02\0\x04\0\x860\x810夢は かなうと \x0e\0\0\x08\x02\0\x04\0W0\x930信じて、\n　こきょうを はなれ チリーは \x0e\0\0\x08\x02\0\x04\0_0s0旅に\x0e\0\0\x06\x02\0\x02\0g0出ます。
+TextWaddledoo	{s[120]}「ワタシ、このビームの かのうせいに…かけたい！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　れきしてき にも、\x0e\0\0\n\x02\0\x06\0\x820c0h0最も さいしょに ゲットできる\n　コピーのうりょく… つまり のうりょくの\x0e\0\0\x0c\x04\0\x08\0R0\x930f0\x930原点。\n　その\x0e\0\0\x0c\x04\0\x08\0R0\x930f0\x930原点が ひめる かのうせいに かけたい！\n　そしてビームなのに しなる フシギも…ときあかしたい！
+TextConce	{s[120]}「やぁコンセだよ!…えーっ ボクを しらないの？」\n\x0e\x15\0\x02\xe2\xff{s[100]}　\x0e\0\0\n\x04\0\x06\0X0`0D0時代に\x0e\0\0\x06\x02\0\x02\0B0合わせ プラズマを はなてるよう かいぞう\n　してもらった コンセ！ しらない\x0e\0\0\x08\x02\0\x04\0r0h0人も いるかも\n　しれないけど… \x0e\0\0\x0c\x04\0\x08\0S0\x930K0D0今回 さん\x0e\0\0\x08\x02\0\x04\0[0\x930戦 できなかった\n　なかまのためにも そんざい\x0e\0\0\x08\x02\0\x04\0K0\x930感を はなつべく、\x0e\0\0\x08\x02\0\x04\0r0K0光るっ！
+TextWaterEnemy	{s[120]}「アタシ プルアンナ！ キレイなお\x0e\0\0\x08\x02\0\x04\00Z0水、\x0e\0\0\x08\x02\0\x04\0`0D0大スキ㊤」\n\x0e\x15\0\x02\xe2\xff{s[100]}　かんきょう はかいは ゆるさない！ すんだ\n　お\x0e\0\0\x08\x02\0\x04\00Z0水が \x0e\0\0\x08\x02\0\x04\0`0D0大スキな、ウルルン お\x0e\0\0\x06\x02\0\x02\0\x810目めの キュートな\n　アノ\x0e\0\0\x06\x02\0\x02\0S0子が \x0e\0\0\x08\x02\0\x04\00Z0水あふれる \x0e\0\0\x08\x02\0\x04\0\x890O0楽えんを \x0e\0\0\x08\x02\0\x04\0\x860\x810夢に\x0e\0\0\x06\x02\0\x02\00見て、\n　あい と うるおいを ふりまく \x0e\0\0\x08\x02\0\x04\0_0s0旅に\x0e\0\0\x06\x02\0\x02\0g0出ます。
+TextNesp	{s[120]}「フッ…… フフフッ…………。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　まだまだ \x0e\0\0\n\x04\0\x06\0J0h0j0大人じゃ ないけれど、ねむれる\n　パワーは ニュージェネレーション！\n　\x0e\0\0\x08\x02\0\x04\0j0k0何かを \x0e\0\0\x08\x04\0\x04\0\x880a0予知して かなたの \x0e\0\0\x08\x02\0\x04\0\x8400闇を\x0e\0\0\x08\x04\0\x04\0\x810V0目指す\n　エスパー\x0e\0\0\x0e\x04\0\n\0W0\x870F0m0\x930少年。 \x0e\0\0\n\x04\0\x06\0[0K0D0世界のはてまで テレポートォ！
+TextBirdon	{s[120]}「バタタッ！ まだ\x0e\0\0\x06\x02\0\x02\00見ぬ\x0e\0\0\n\x04\0\x06\0[0K0D0世界へ \x0e\0\0\x06\x02\0\x02\0h0飛びたちマス！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　こんな \x0e\0\0\x08\x02\0\x04\0h0\x8a0鳥カゴに \x0e\0\0\x06\x02\0\x02\0D0入れられたような\n　\x0e\0\0\x0c\x04\0\x08\0~0D0k0a0毎日は イヤだ！ どこまで \x0e\0\0\x08\x02\0\x04\0_0K0高く\x0e\0\0\x06\x02\0\x02\0h0飛べるか\n　たしかめたい！ そう\x0e\0\0\x06\x02\0\x02\0D0言って \x0e\0\0\n\x04\0\x06\0X0\x860F0自由を\x0e\0\0\x08\x02\0\x04\0\x820h0求め…\n　いざ \x0e\0\0\x08\x02\0\x04\0]0\x890空\x0e\0\0\x08\x02\0\x04\0_0K0高く、\x0e\0\0\x06\x02\0\x02\0h0飛べ！\x0e\0\0\x08\x02\0\x04\0\{0W0星のバードンよっ！
+TextBroomhatter	{s[120]}「ササッ \x0e\0\0\n\x04\0\x06\0[0K0D0世界まるごと \x0e\0\0\x08\x02\0\x04\0J0J0大そうじします！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ここにも あそこにも ホコリホコリ！ \x0e\0\0\x06\x02\0\x02\00見かねた\n　ハッターは \x0e\0\0\x0c\x04\0\x08\0D0a0`0D0一大\x0e\0\0\x0c\x04\0\x08\0Q0c0W0\x930決心！ \x0e\0\0\n\x04\0\x06\0[0K0D0世界\x0e\0\0\n\x02\0\x06\0X0\x850F0中のホコリを\n　ぜーんぶ のこさず はいてやるっ、と。\n　チリ１つない \x0e\0\0\n\x04\0\x06\0[0K0D0世界を \x0e\0\0\x08\x04\0\x04\0\x810V0目指して、どこまでも…！
+TextKnucklejoe	{s[120]}「オラオラ！ オイラ、かくとう\x0e\0\0\x08\x02\0\x04\0J0F0王に なるんだ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　\x0e\0\0\x0c\x04\0\x08\0g0\x930[0d0伝説の\x0e\0\0\x0c\x04\0\x08\0_0D0K0D0大会、かくとう\x0e\0\0\x08\x02\0\x04\0J0F0王への\x0e\0\0\x08\x02\0\x04\00a0道の \x0e\0\0\x0e\x04\0\n\0K0D0X0\x870F0会場を\n　\x0e\0\0\x08\x04\0\x04\0\x810V0目指し、ちょとつもう\x0e\0\0\x08\x02\0\x04\0W0\x930進 ひた\x0e\0\0\x08\x02\0\x04\0o0W0走る！ \x0e\0\0\x0c\x04\0\x08\0S0\x930K0D0今回は\n　まだ、かいさい\x0e\0\0\x06\x02\0\x02\0a0地を しらされて いないけど…\n　\x0e\0\0\x08\x02\0\x04\0d0H0強ぇヤツに \x0e\0\0\x06\x02\0\x02\0B0会えるなら、どこまでも \x0e\0\0\x06\x02\0\x02\0D0行くぜ！
+TextBugzzy	{s[120]}「ワシは かつて、こん\x0e\0\0\n\x02\0\x06\0a0\x850F0虫キング だった\x0e\0\0\x08\x02\0\x04\0\x820n0者だぁ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　さいきんは \x0e\0\0\x08\x02\0\x04\0\x8f0K0若いヤツに そのざを\n　ゆずっていた おう\x0e\0\0\x08\x02\0\x04\0m0\x930年の こん\x0e\0\0\n\x02\0\x06\0a0\x850F0虫キングが\n　かなたの \x0e\0\0\x08\x02\0\x04\0\x8400闇をうつべく、レスラー\x0e\0\0\n\x04\0\x06\0K0J0~0顔負けな\n　ワザひっさげ じまんの\x0e\0\0\x08\x02\0\x04\0J0J0大アゴを ふるう！
+TextBeetlie	{s[120]}「オレこそ、\x0e\0\0\x08\x02\0\x04\0B0\x890新たなる こん\x0e\0\0\n\x02\0\x06\0a0\x850F0虫キングだっ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　かつてのキングに、どちらが チャンピオンに\n　ふさわしいかと \x0e\0\0\x08\x02\0\x04\0\x8f0K0若きキングが いどむ！\n　…が、まずは あの\x0e\0\0\x08\x02\0\x04\0\x8400闇から けちらすぜ！ と\n　\x0e\0\0\x0c\x04\0\x08\0W0\x930W0\x930新進\x0e\0\0\x06\x02\0\x02\0M0気えい じまんのツノを ふるう\x0e\0\0\x08\x02\0\x04\0_0s0旅へ！
+TextComo	{s[120]}「\x0e\0\0\x06\x02\0\x02\0O0苦せつウン\x0e\0\0\x08\x02\0\x04\0m0\x930年… ついに\x0e\0\0\x08\x02\0\x04\0W0\x850主やくに なれました。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ただ ぶら\x0e\0\0\x06\x02\0\x02\0U0下がっている だけじゃない！\n　いちぞくから \x0e\0\0\x08\x02\0\x04\0`0D0大ばってきの ３つ\x0e\0\0\x06\x02\0\x02\0\x810目のヒーロー！\n　こんなにワザを かくし\x0e\0\0\x06\x02\0\x02\0\x820持っていた とは…\n　\x0e\0\0\x06\x02\0\x02\0_0多さいな \x0e\0\0\x08\x02\0\x04\0D0h0糸ワザで、\x0e\0\0\n\x04\0\x06\0[0K0D0世界の\x0e\0\0\x08\x02\0\x04\0B0O0悪さえ ほかくせよ！
+TextParasolWaddledee	{s[120]}「\x0e\0\0\x08\x02\0\x04\0H0\x890選んでくれて うれしいから… \x0e\0\0\x08\x02\0\x04\0F0_0歌っちゃお！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ひがさして パラソルさして さんぽして。\n　てきもふせげて ふわふわおちて。ゆれるおもいは\n　おそらにうかび、たゆたう きもちは はるかぜいろに。\n　ふわふわたびする、あぁ ボク パラソルワドルディ。
+TextVivitia	{s[120]}「\x0e\0\0\x06\x02\0\x02\00見ててね お\x0e\0\0\x08\x02\0\x04\0m0H0姉さま\x0e\0\0\x08\x02\0\x04\0L0_0方㊤ ワタシ、がんばるの！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　バトルも アートも、しんあいなる お\x0e\0\0\x08\x02\0\x04\0m0H0姉さま\x0e\0\0\x08\x02\0\x04\0L0_0方に\n　\x0e\0\0\x06\x02\0\x02\0~0負けないように、このハートに ちかって がんばる\n　おとめ㊤ \x0e\0\0\x0e\x04\0\n\0D0a0\x8a0\x850F0一流アート\x0e\0\0\x0c\x04\0\x08\0L0O0H0\x930学園\x0e\0\0\x06\x02\0\x02\0D0入りを \x0e\0\0\x08\x04\0\x04\0\x810V0目指して、\n　お\x0e\0\0\x06\x02\0\x02\0H0絵かきガールが いざ、むしゃ しゅぎょうへ！
+TextChefKawasaki	{s[120]}「\x0e\0\0\x10\x04\0\x0c\0M0\x850F0M0\x870O0究極のメニュー…{s[090]} ゴクリ、{s[120]}ぜひ\x0e\0\0\x06\x02\0\x02\0_0食べたいですねぇ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　そんなメニューを \x0e\0\0\x08\x02\0\x04\0\x820h0求め、あのコックが とつげき！\n　\x0e\0\0\n\x04\0\x06\0[0K0D0世界の はてには、\x0e\0\0\x0c\x04\0\x08\0D0c0_0D0一体どんな まだ\x0e\0\0\x06\x02\0\x02\00見ぬ \x0e\0\0\x0c\x04\0\x08\0\x8a0\x870F0\x8a0料理が\n　ねむっているの だろうか… \x0e\0\0\n\x02\0\x06\0K0\x930L0考えただけで、\n　グルメなコックの ヨダレは、もぉ \x0e\0\0\x06\x02\0\x02\0h0止まりませぇんっ！
+TextBandanaWaddledee	{s[120]}「ボクだって、カワイイだけじゃ ないんだよ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　カービィシリーズ かいきんしょうっ。\n　ザコキャラの レジェンドが ヤリふるう！\n　\x0e\0\0\n\x02\0\x06\0B0_0~0頭のバンダナは ゆう\x0e\0\0\x06\x02\0\x02\0M0気と \x0e\0\0\x06\x02\0\x02\0S0個せいの あかし。\n　のんきな パラソル\x0e\0\0\x06\x02\0\x02\0\x820持ちとは… ちがうのだっ！
+TextKingDedede	{s[120]}「この\x0e\0\0\x08\x02\0\x04\0O0k0国の \x0e\0\0\n\x04\0\x06\0x0D0\x8f0平和は… オレさまが、\x0e\0\0\x08\x02\0\x04\0~0\x820守るぜ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　いくぜっ「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ」さいしょの ライバル、\n　\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王さまが ふっけんを かけ タフネスハートで\n　しゅつげきだ！ \x0e\0\0\x08\x02\0\x04\0X0d0実は イイヤツで \x0e\0\0\x0c\x04\0\x08\0S0O00\x930国民\x0e\0\0\x08\x02\0\x04\0J0\x820思い？ \n　ヤルときゃヤル、\x0e\0\0\x06\x02\0\x02\0X0自しょう \x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王さまが \x0e\0\0\x08\x02\0\x04\0\x8400闇をたたく！
+TextMetaknight	{s[120]}「ムッ \x0e\0\0\x0e\x04\0\n\0M0\x870F0[0D0凶星…。さればその\x0e\0\0\x08\x02\0\x04\0\x8400闇、わが\x0e\0\0\n\x02\0\x06\0d0\x8b0N0剣のかてに…！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　あのナイトが「\x0e\0\0\x08\x02\0\x04\0\x860\x810夢の\x0e\0\0\n\x02\0\x06\0D0Z00泉の\x0e\0\0\x0e\x04\0\n\0\x820n0L0_0\x8a0物語」から \x0e\0\0\x08\x02\0\x04\0Q0\x930見ざん！\n　\x0e\0\0\x0c\x04\0\x08\0`0D0J0F0大王の はい\x0e\0\0\x06\x02\0\x02\0K0下のようで ありながら カービィを\x0e\0\0\x08\x02\0\x04\0_0Y0助け\n　\x0e\0\0\x08\x02\0\x04\0h0M0時には \x0e\0\0\x0c\x04\0\x08\0M0\x870`0D0巨大\x0e\0\0\x08\x02\0\x04\0[0\x930戦かんで かくめいも おこす…\n　そんなナゾ\x0e\0\0\x08\x02\0\x04\0J0J0多きナイトが、かなたの\x0e\0\0\x08\x02\0\x04\0\x8400闇さえ さっし、\x0e\0\0\x06\x02\0\x02\0h0飛ぶ！
+TextRick	{s[120]}「アニマルフレンズが \x0e\0\0\x10\x06\0\x0c\0\x8a0O0K0D0O0F0陸海空に きたよっ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　ごうかトリオで「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ２」から \x0e\0\0\x12\x06\0\x0e\0`0D0W0\x850F0T0F0大集合！\n　\x0e\0\0\x06\x02\0\x02\0\x840野せいの カンが \x0e\0\0\x08\x02\0\x04\0J0W0教えてくれた、かなたからの ききに\n　トリプルでデラックスな パーティが せーので\x0e\0\0\x0e\x04\0\n\0W0\x850c0q0d0出発！\n　とことこ ぴちぴち バッサバサ。３\x0e\0\0\x08\x02\0\x04\0k0\x930人よれば…\x0e\0\0\x08\x02\0\x04\0J0J0大さわぎ！
+TextGooey	{s[120]}「なまえ？ {s[090]}えっと グーイ…{s[120]}よくわかんないっ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　\x0e\0\0\x06\x02\0\x02\0M0気づいたら「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ３」から まよいこみ、\n　\x0e\0\0\x08\x02\0\x04\0j0k0何かを \x0e\0\0\x08\x02\0\x04\0J0\x820思って キョロキョロ にょろ～んと \x0e\0\0\x08\x02\0\x04\0B0\x8b0歩き\x0e\0\0\x06\x02\0\x02\0`0出す！\n　ボクは どこで \x0e\0\0\x06\x02\0\x02\0F0生まれたの？ ナゾ\x0e\0\0\x08\x02\0\x04\0J0J0多き かれが\n　\x0e\0\0\n\x04\0\x06\0X0v0\x930自分さがしの\x0e\0\0\x08\x02\0\x04\0_0s0旅に、\x0e\0\0\x08\x02\0\x04\0_0s0旅する\x0e\0\0\n\x04\0\x06\0\x8a0\x860F0理由も わからぬまま \x0e\0\0\x06\x02\0\x02\0\x860行く！?\n
+TextMarx	{s[120]}「ボクを さしおいて、な～に \x0e\0\0\x0c\x04\0\x08\0Q0D0K0O0計画してるのサ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　おっほっほっほ と「スーパーデラックス」から\n　\x0e\0\0\n\x04\0\x06\0i0F0Q0道化のラスボス、ゆるしてちょーよと まさかの\x0e\0\0\x0c\x04\0\x08\0U0\x930[0\x930参戦！\n　かなたの\x0e\0\0\x08\x02\0\x04\0\{0W0星からの アブナ～イ ニオイを かぎつけて\n　ボクも まぜるのサ、と \x0e\0\0\n\x04\0\x06\0N0\x930L0銀河を\x0e\0\0\x08\x04\0\x04\0\x810V0目指し \x0e\0\0\x08\x02\0\x04\0_0~0玉のり\x0e\0\0\x08\x02\0\x04\0Y0Y0進むっ！
+TextAdeleine	{s[120]}「ただいま！ また いっしょに \x0e\0\0\x08\x02\0\x04\0_0s0旅をしようよ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　アドレーヌ＆リボンが「\x0e\0\0\x08\x02\0\x04\0\{0W0星のカービィ64」から\n　おかえりなさい！ ゴメンね \x0e\0\0\x08\x02\0\x04\0D0~0今まで ちょっと\x0e\0\0\x08\x02\0\x04\0h0J0遠くへ \x0e\0\0\x08\x02\0\x04\0_0s0旅に\n　\x0e\0\0\x06\x02\0\x02\0g0出てたの… けど、\x0e\0\0\x06\x02\0\x02\0H0絵も もっと\x0e\0\0\x0c\x04\0\x08\0X0\x870F0Z0上手になって リボンちゃんと\n　\x0e\0\0\x08\x02\0\x04\0K0H0帰ってきたよ。また、あたしたちも まぜてね！
+TextDarkMetaknight	{s[120]}「………………。」\n\x0e\x15\0\x02\xe2\xff{s[100]}　あの まねかれざる きしが「\x0e\0\0\n\x02\0\x06\0K0L00鏡の\x0e\0\0\x08\x02\0\x04\0`0D0大\x0e\0\0\x0e\x04\0\n\0\x810D0M0\x850F0迷宮」から \n　よみがえる！ え？ メタナイトと ケンカしたの？\n　けど、フレンズに なっちゃえば もう だいじょうぶ。\n　\x0e\0\0\n\x02\0\x06\0K0L00鏡の\x0e\0\0\x08\x02\0\x04\0O0k0国のカゲが、\x0e\0\0\n\x04\0\x06\0N0\x930L0銀河かなたの\x0e\0\0\x08\x02\0\x04\0\x8400闇に ひかれ、\x0e\0\0\x06\x02\0\x02\0h0飛ぶ！
+TextDaroach	{s[120]}「その\x0e\0\0\x08\x02\0\x04\0O0\x8d0黒き ハートの\x0e\0\0\x0c\x04\0\x08\0\{0F0[0M0宝石とやら… いただくぞ！」\n\x0e\x15\0\x02\xe2\xff{s[100]}　あの とうぞくが「\x0e\0\0\x0e\x04\0\n\0U0\x930X0\x870F0参上！ドロッチェ\x0e\0\0\x08\x02\0\x04\0`0\x930団」から さっそう\n　\x0e\0\0\x06\x02\0\x02\0\x880予こくじょう！ \x0e\0\0\n\x04\0\x06\0N0\x930L0銀河に\x0e\0\0\x08\x02\0\x04\0O0\x8d0黒き ハートの\x0e\0\0\x0c\x04\0\x08\0\{0F0[0M0宝石が あると\x0e\0\0\x06\x02\0\x02\0W0知り\n　\x0e\0\0\n\x04\0\x06\0_0s0`0旅立つ… フッ、これは ぜひとも いただかねば。\n　ヤバそうな ニオイの お\x0e\0\0\n\x02\0\x06\0_0K0\x890宝を、またしても ねらうっ！

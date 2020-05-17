@@ -1,0 +1,2638 @@
+Arena.msbt
+BtnBack	Back
+BtnNext	OK
+DialogControllerConnectConfirmMessage	There are {c[fe9a10]}not enough\ncontrollers {c[000000]}connected.
+DialogDeleteRankingHighScoreMessage	{c[fe9a10]}All recorded scores{c[000000]} for\nThe Ultimate Choice will\nbe {c[fe9a10]}reset{c[000000]}. Continue?
+DialogBackConfirmMessage	Leave {c[fe9a10]}Select Character{c[000000]} and\nreturn to the previous screen?
+DialogTutorialTitle_00	The Ultimate Choice!
+DialogTutorialText_00	Go for a {c[fe9a10]}high score{c[000000]} as you take\non a series of {c[fe9a10]}bosses{c[000000]}!
+DialogTutorialTitle_01	Select a {c[fe9a10]}character{c[000000]}!
+DialogTutorialText_01	After you select a character, you'll\nchoose which {c[fe9a10]}friends {c[000000]}will help you. This\nwill be your team for the whole run!
+DialogTutorialTitle_02	Pick a {c[fe9a10]}difficulty level{c[000000]}!
+DialogTutorialText_02	Try this challenge on any {c[fe9a10]}difficulty level{c[000000]}!\nThe {c[fe9a10]}harder {c[000000]}the level, the better your score.\nPush yourself and {c[fe9a10]}aim for victory{c[000000]}!
+DialogSpecialHelperTitle	Dream Friends Appear!
+DialogSpecialHelperText	You can now select {c[fe9a10]}Dream Friends{c[000000]}\nwhen selecting a character! Change\nthings up and {c[fe9a10]}aim for victory{c[000000]}!
+DialogAbilityAllClear01	You've selected {c[fe9a10]}all characters{c[000000]}\nand {c[fe9a10]}grasped victory {c[000000]}in the\nultimate battle!
+DialogLocked	Available after you {c[fe9a10]}clear{c[000000]}\nThe Ultimate Choice!
+$TitleClose	Back
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+TitleStartBtn	Start
+TitleHighScoreBtn	Best Scores
+TitleTutorialBtn	Tutorial
+MemberNumHeader	Number of Players
+ArenaMemberNumBtn	{s[150]}\x0e\x03\x01\0{s[100]}
+CharaSelectHeader	Select Character
+CharaSelectSinglePlay	Solo
+CharaSelectMultiPlay	With Friends
+CharaSelectAbilityName	\x0e\x03\x05\0
+CharaSelectAbilityHighScore	\x0e\x03\x05\0\nHigh Score
+CharaSelectDifficulty	\x0e\x03\x06\0
+ScorePanelDifficultyText	\x0e\x03\x06\0
+$CharaSelStartBtn	Start
+LevelSelectHeader	Difficulty
+LevelSelectConfirmBtn	Start
+LevelSelectConfirmText0	Consume all in {c[fe9a10]}\x0e\x03\x06\0{c[000000]}!\nBon app\xe9tit!
+LevelSelectConfirmText1	Power up and polish off\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}!
+LevelSelectConfirmText2	Give it your all! Challenge yourself with\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}!
+LevelSelectConfirmText3	It's the super-ultra-final-omega battle! Make the\nultimate choice with {c[fe9a10]}\x0e\x03\x06\0{c[000000]}!!
+$LvSelIllustPieceText	Rewards
+$LvSelLv8Text	Secret
+LvSelLvNameText	\x0e\x03\x06\0
+$LvSelBattleText	Battles
+LvSelBattleNumSecret	??
+HighScoreHeader	Best Scores
+HighScoreSinglePlayHeader	Solo
+HighScoreMultiPlayHeader	With Friends
+$HelperHeroChangeText	\x0e\x04\x02\x02\x02\0 Change Friend
+$HighScoreDetailText	\x0e\x04\x03\x02\x03\0 Details
+$RecordDelete	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0: Erase Records
+ResultWinCaption0	Victory!
+ResultWinCaption1	Huge Victory!!
+ResultWinCaption2	Incredible Victory!!!
+ResultWinDifficultyName	\x0e\x03\x06\0
+ResultWinClearBonus	+Clear Bonus \x0e\x03\x01\0
+ResultLoseCaption	You'll get 'em next time...
+ResultLoseCaption2	The road is long...
+ResultLoseCaption3	Just a bit further!
+ResultLoseBtnRetry	Retry
+ResultLoseBtnQuit	Quit
+ResultLoseHighScoreSingle	Solo Rank
+ResultLoseHighScoreMulti	With Friends Rank
+$ArenaBonusText	Time Bonus
+$ArenaStepNextBoss	Next
+ArenaStepBattleRemaining	{s[150]}\x0e\x03\x01\0 more{s[100]}
+ArenaStepBattleRemainingQuestion	{s[150]}\x0e\x03\x01\0 more?{s[100]}
+ArenaStepLvName	\x0e\x03\x06\0
+$ArenaLvSelHighScore	High Score
+$LvSelBestHighScore	Best Score
+BossClear.msbt
+DialogSpecialHelperUnlockLv1_Title	Dream Friend King Dedede
+DialogSpecialHelperUnlockLv1	You can now call on Dream\nFriend {c[fe9a10]}King Dedede{c[000000]}! Head to a\n{c[fe9a10]}Dream Palace{c[000000]}!
+DialogSpecialHelperUnlockLv1DLC_Title	New Dream Friends {c[fe9a10]}added{c[000000]}!
+DialogSpecialHelperUnlockLv1DLC	It's a dream come true! You can now call\non Dream Friends {c[fe9a10]}Adeleine & Ribbon{c[000000]},\n{c[fe9a10]}Dark Meta Knight{c[000000]}, and {c[fe9a10]}Daroach{c[000000]}!
+DialogSpecialHelperUnlockLv2_Title	Dream Friend Meta Knight
+DialogSpecialHelperUnlockLv2	You can now call on Dream Friend\n{c[fe9a10]}Meta Knight{c[000000]}! Head to the {c[fe9a10]}Dream\nPalace{c[000000]}!
+Cmn.msbt
+DialogWindowYes	Yes
+DialogWindowNo	No
+DialogWindowOK	OK
+DialogTutorialSnsShareTitle_00	Show off on {c[fe9a10]}social media{c[000000]}!
+DialogTutorialSnsShareText_00	{c[fe9a10]}Take pictures{c[000000]} of game action with\nthe \x0e\x04\x10\x02\x91\0 {c[fe9a10]}Capture Button{c[000000]}! Share your\nbest moments on {c[fe9a10]}social media{c[000000]}!
+HeaderFriendExplain	Get fire from a friend!
+FriendCopyFriendAbility	Tilt the control stick up!
+FriendCopyMakeFriends	Make a friend!
+IconBalloonControllerJoin	Join
+IconBalloonControllerLRJoin	\x0e\x04\t\x02`\0 + \x0e\x04\n\x02a\0: Join
+HeroPanelAbilityName	\x0e\x03\x05\0
+HelperRouletteTutorialTitle_00	Welcome to the {c[fe9a10]}Dream Palace{c[000000]}
+HelperRouletteTutorialText_00	This is the {c[fe9a10]}Dream Palace{c[000000]}. You can\nmeet a {c[fe9a10]}dream character{c[000000]} here if\nyou use the {c[fe9a10]}Dream Rod{c[000000]}.
+HelperRouletteTutorialTitle_01	Calling {c[fe9a10]}Dream Friends{c[000000]}
+HelperRouletteTutorialText_01	When you grab the {c[fe9a10]}Dream Rod{c[000000]},\nthe roulette will start. Press \x0e\x04\0\x02\0\0\nto call {c[fe9a10]}Dream Friends{c[000000]}!
+$HelperRouletteDecideText	OK
+$AmiiboBtnText	amiibo
+TimeDisplaySecPunctuation	:
+TimeDisplayCsecPunctuation	.
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	-
+ScoreDisplayEmpty	------
+$CmnEndCutText	Onward!
+CmnEndCutText_Credit	THE END
+PlayerNumberCharaName	\x0e\x03\x05\0
+WTitlePupupuSubTitle	World of Peace
+WTitlePupupuTitle	Dream Land
+WTitlePopSubTitle	World of Miracles
+WTitlePopTitle	Planet Popstar
+WTitleJamaSubTitle	Fortress of Shadows
+WTitleJamaTitle	Jambastion
+WTitleGalaxySubTitle	Far-Flung
+WTitleGalaxyTitle	Starlight Heroes
+WTitleFinalSubTitle	Kirby
+WTitleFinalTitle	Star Allies
+HowToWindowTitle1	{c[fe9a10]}Share {c[000000]}the Joy-Con controllers\nto play with a friend anytime!
+HowToWindowTitle2	Make a {c[fe9a10]}friend{c[000000]}, and then use {c[fe9a10]}Quick Join{c[000000]}!
+HowToWindowTitle3	When your controllers\n{c[fe9a10]}aren't connected{c[000000]}...
+HowToWindowText1	With enough extra {c[fe9a10]}controllers{c[000000]}, you can\nplay with up to {c[fe9a10]}three other players{c[000000]}!
+HowToWindowText2L	\x0e\x04\x02\x02\x02\0Make Friend
+HowToWindowText2R	Press \x0e\x04\t\x02`\0 + \x0e\x04\n\x02a\0 to\nuse {c[fe9a10]}Quick Join{c[000000]}.
+HowToWindowText3	To pair controllers, press \x0e\x04\x11\x02\x94\0 to go to the\npause menu, and then use {c[fe9a10]}Control Options{c[000000]}.
+SkipText	\x0e\x04\x11\x02\x94\0Skip
+$HelperRouletteNew	New
+Version	Ver. \x0e\x03\x01\0.\x0e\x03\x01\0.\x0e\x03\x01\0
+Complete.msbt
+$CompleteClear	Clear
+$CompleteText	Congratulations!
+Credit.msbt
+Staff	STAFF
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+SequenceDirector	SEQUENCE DIRECTOR
+SequenceDirector_00	TATSUYA KAMIYAMA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	YUKI ENDO
+LevelDesign	LEVEL DESIGN
+LevelDesign_00	YUTAKA WATANABE
+AssistantDirector	ASSISTANT DIRECTORS
+AssistantDirector_00	TAKAAKI HIRANO
+AssistantDirector_01	SATOSHI AKIYAMA
+AssistantDirector_02	SAHO MINESHIMA
+ProgramDirector	PROGRAMMING DIRECTOR
+ProgramDirector_00	HIROSHI OHNISHI
+LeadActionProgramming	LEAD ACTION PROGRAMMING
+LeadActionProgramming_00	KATSUYOSHI SUMITOMO
+LeadProgramming	LEAD PROGRAMMING
+LeadProgramming_00	KEITA TANIFUJI
+Programming	PROGRAMMING
+Programming_00	TAKASHI NOZUE
+Programming_01	RUI UCHIDA
+Programming_02	TOMOHIRO KAMOCHI
+Programming_03	YUYA SUZUKI
+Programming_04	TATSUYA MURASE
+Programming_05	MASAYA MAEJIMA
+Programming_06	MASAYUKI NAGATA
+Programming_07	KEISUKE TAKEMURA
+Programming_08	KENSHI ABE
+Programming_09	YUDAI HIRATA
+Programming_10	SATORU YOSHIDA
+LeadTechnicalProgramming	LEAD TECHNICAL PROGRAMMING
+LeadTechnicalProgramming_00	HIROAKI NAKANO
+TechnicalProgramming	TECHNICAL PROGRAMMING
+TechnicalProgramming_00	MUNEMASA KIMURA
+TechnicalProgramming_01	AYUMU KATO
+LeadUIProgramming	LEAD UI PROGRAMMING
+LeadUIProgramming_00	SHUN YASAKA
+UIProgramming	UI PROGRAMMING
+UIProgramming_00	AKIHIRO YAMASHITA
+UIProgramming_01	TOSHIYUKI TAGOYA
+DesignDirector	DESIGN DIRECTOR
+DesignDirector_00	RIKI FUHRMANN
+LeadDesign	LEAD DESIGN
+LeadDesign_00	KENICHIRO KITA
+Design	DESIGN
+Design_00	ETSUKO SATO
+Design_01	HITOSHI KIKKAWA
+Design_02	KENICHI SAKUMA
+Design_03	RIE MIYAUCHI
+Design_04	EMI IMAMURA
+Design_05	KUMI HABUTA
+Design_06	YUKINOBU SEITA
+Design_07	YUKIKO TAGAWA
+Design_08	KAORI ESAKI
+Design_09	HITOMU ITO
+LeadTechnicalDesign	LEAD TECHNICAL DESIGN
+LeadTechnicalDesign_00	TSUYOSHI FUJITA
+TechnicalDesign	TECHNICAL DESIGN
+TechnicalDesign_00	HIKARI MIURA
+LeadMotifDesign	LEAD MOTIF DESIGN
+LeadMotifDesign_00	DAISUKE MORISHITA
+MotifDesign	MOTIF DESIGN
+MotifDesign_00	TADASHI HASHIKURA
+MotifDesign_01	TOMOMI MINAMI
+MotifDesign_02	YUKI HONDA
+MotifDesign_03	YUSUKE OTA
+MotifDesign_04	TSUKASA KIRINOE
+MotifDesign_05	MINORU YOSHIKOSHI
+MotifDesign_06	SHINGO YAMADA
+TechnicalMotifDesign	TECHNICAL MOTIF DESIGN
+TechnicalMotifDesign_00	AKIHIRO KANNO
+LeadUIDesign	LEAD UI DESIGN
+LeadUIDesign_00	YUMI TODO
+UIDesign	UI DESIGN
+UIDesign_00	HARUKA ITOH
+UIDesign_01	SHIGEYUKI KAWATA
+UIDesign_02	MASASHI FUJIURA
+UIDesign_03	YURI SHIONO
+UIDesign_04	SAORI ONO
+UIDesign_05	SHUNTA AKIHO
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	HISANORI MATSUSHIMA
+Movie_02	YORIKO FURUYA
+Movie_03	AKIKO SASAOKA
+Movie_04	YUKI KUROSU
+Movie_05	TAKAYOSHI HIRANAI
+Movie_06	TAKAHIRO KAKUTA
+Movie_07	SHOGO YOSHIDA
+Movie_08	MIZUHO KAIBE
+Movie_09	TORU NISHIOKA
+Movie_10	SAYOKO YAMADA
+Movie_11	KAZUKI SUZUKI
+Movie_12	KASUMI SAKA
+Movie_13	AYANA FUKUI
+Movie_14	RYO YAMADA
+Movie_15	SHIHO HARIYA
+Movie_16	RINA YAMAMOTO
+Movie_17	HIROAKI HIRANO
+Movie_18	SHOUHEI KOMIYAMA
+Movie_19	RYOSUKE HASHIMOTO
+Movie_20	AKIRA SAKAI
+Movie_21	AYAKA CHIDA
+Movie_22	KATSUMI NIHOMMATSU
+Movie_23	TOMOKO INOUE
+SubGame	MINIGAME
+SubGame_00	Eighting Inc.
+SubGame_01	DAISUKE WARASHINA
+SubGame_02	NORIMASA MITSUMA
+SubGame_03	KAZUYA KOINUMA
+SubGame_04	KIYOKO SHIMANAKA
+SubGame_05	YUMIKO WATANABE
+SubGame_06	MARIKO WATANABE
+SubGame_07	SHINICHI KAMOHARA
+SubGame_08	GOYU MITANI
+SubGame_09	HIROAKI IWASAKI
+SubGame_10	MAYUKO SANO
+SubGame_11	NAOTO KITAYAMA
+LeadSound	LEAD SOUND
+LeadSound_00	HIROKAZU ANDO
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	YUUTA OGASAWARA
+VoiceActor	VOICE
+VoiceActor_00	MAKIKO OHMOTO
+VoiceActor_02	RYOKA YUZUKI
+VoiceActor_03	RIE TAKAHASHI
+VoiceActor_04	REINA UEDA
+VoiceActor_06	SHIGERU CHIBA
+GuestIllustrator	GUEST ILLUSTRATORS
+GuestIllustrator_00	Toshinao Aoki
+GuestIllustrator_01	kanahei
+GuestIllustrator_02	lack
+GuestIllustrator_03	Kouichi Ooyama
+GuestIllustrator_04	Ashura Benimaru Itoh
+GuestIllustrator_05	Yuji KAIDA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	SEIJI OTOGURO
+TeamSupport_02	SHIGERU HIRAYAMA
+TeamSupport_03	SHIGERU HASHIGUCHI
+PlanningSupport	PLANNING SUPPORT
+PlanningSupport_00	RYOTA YAMANAKA
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	YOSHIYA TANIGUCHI
+TechnicalSupport_01	TOMOKAZU TSURUOKA
+TechnicalSupport_02	SHINYA WATANABE
+TechnicalSupport_03	RYOICHIRO ATONO
+TechnicalSupport_04	YUKI NISHIMURA
+TechnicalSupport_05	SHO TAJIMA
+TechnicalSupport_06	TETSUYA NOGE
+TechnicalSupport_07	KAZUYA SUETSUGU
+TechnicalSupport_08	TATSUHIRO TANOUE
+TechnicalSupport_09	TAKESHI MINAGAWA
+TechnicalSupport_10	AKIO HANYU
+TechnicalSupport_11	YUYA NATSUMI
+TechnicalSupport_12	TATSUYA UEHARA
+TechnicalSupport_13	KAZUYA KONISHI
+TechnicalSupport_14	TETSUYA MOCHIDUKI
+TechnicalSupport_15	KUNIO WATANABE
+TechnicalSupport_16	TAKUYA ABE
+TechnicalSupport_17	YUKI YASUHARA
+TechnicalSupport_18	KATSUHIRO SAKODA
+TechnicalSupport_19	TAKAYUKI SUGANO
+TechnicalSupport_20	HAJIME KOJIMA
+TechnicalSupport_21	TAKASHI MATSUDA
+TechnicalSupport_22	TSUYOSHI MASADA
+TechnicalSupport_23	MITSUO IWAMOTO
+ArtWork	ARTWORK
+ArtWork_00	YUTO IBARAKI 
+ArtWork_01	YUKARI KEMMOCHI
+ArtWork_02	MONAMI MATSUURA
+ArtWork_03	YUMIKO SANO
+ArtWork_04	NANAKO TOKUNO
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	DAI SUZUKI
+Testing_02	TAKESHI TAMURA
+Testing_03	MASAHARU SHIMA
+Testing_04	AKIKO OHASHI
+Testing_05	HAL DEBUG TEAM
+Testing_06	Mario Club Co., Ltd.
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	MASANOBU YAMAMOTO
+SpecialThanks_01	KATSURA TABATA
+SpecialThanks_02	HIROYUKI HAYASHI
+SpecialThanks_03	TADASHI IKEGAMI
+SpecialThanks_04	NOBUYUKI OKADA
+SpecialThanks_05	HIROSHI FUJIE
+SpecialThanks_06	KOHEI NATSUME
+SpecialThanks_07	SATOSHI ISHIDA
+SpecialThanks_08	TOMOHIRO MINEMURA
+SpecialThanks_09	MASAYO NAKAGAMI
+SpecialThanks_10	HARUKA ABE
+SpecialThanks_11	AKANE KISHI
+SpecialThanks_12	KENICHI MASUDA
+SpecialThanks_13	SHIGENOBU KASAI
+SpecialThanks_14	YOUSUKE FUKUNAGA
+SpecialThanks_15	JYUNICHI AOYAGI
+SpecialThanks_16	TAKAAKI KAZUNO
+SpecialThanks_17	HIROAKI IKARASHI
+SpecialThanks_18	TADASHI KAWAI
+SpecialThanks_19	AIKO NAGAOKA
+SpecialThanks_20	JEFF MILLER
+SpecialThanks_24	BARNHOUSE EFFECT Co., Ltd.
+SpecialThanks_25	GRDRIVE Inc.
+SpecialThanks_26	TA Inc.
+SuperVisor	SUPERVISOR
+SuperVisor_00	SHIGEFUMI KAWASE
+Coordinator	COORDINATORS
+Coordinator_00	KEI NINOMIYA
+Coordinator_01	RYUICHI NAKADA
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	YOSHIHIRO NAGATA
+ProjectManagement_01	TETSUYA ABE
+Producer	PRODUCERS
+Producer_00	TADASHI KAMITAKE
+Producer_01	HITOSHI YAMAGAMI
+GeneralProducer	GENERAL PRODUCERS
+GeneralProducer_00	SATOSHI MITSUHARA
+GeneralProducer_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	TATSUMI KIMISHIMA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n\xa92018 HAL Laboratory, Inc. / Nintendo
+NOALocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NOALocalizationManagement_00	NATE BIHLDORFF
+NOALocalizationManagement_01	REIKO NINOMIYA
+NOALocalizationManagement_02	RICH AMTOWER
+NOALocalizationManagement_03	TIM O'LEARY
+NOALocalizationManagement_04	SCOT RITCHEY
+NOALocalization	NOA LOCALIZATION
+NOALocalization_00	MICHAEL BENEDETTO
+NOALocalization_01	AUDREY DRAKE
+NOALocalization_02	MARJOLAINE DROUIN
+NOALocalization_03	STEVEN GRIMM
+NOALocalization_04	KENTO OIWA
+NOALocalization_05	AYAKA OSAKABE
+NOALocalization_06	GALIA RODR\xcdGUEZ HORNEDO
+NOALocalization_07	ERIC SMITH
+NOALocalization_08	ETHAN STOCKTON
+NOAProductTesting	NOA PRODUCT TESTING
+NOAProductTesting_00	RODRIGO BRISTOL
+NOAProductTesting_01	Q DEQUINA
+NOAProductTesting_02	ZAC EVANS
+NOAProductTesting_03	SEBASTIAN GALLOWAY
+NOAProductTesting_04	PAUL GARDNER
+NOAProductTesting_05	SETH HANSER
+NOAProductTesting_06	BLANCA HERNANDEZ
+NOAProductTesting_07	TOM HERTZOG
+NOAProductTesting_08	TOMOKO MIKAMI
+NOAProductTesting_09	FABIANE NIEMEYER
+NOAProductTesting_10	KENTARO NISHIMURA
+NOAProductTesting_11	MATTTHEW POTTER
+NOAProductTesting_12	PABLO REYES
+NOAProductTesting_13	MICHAEL SAHLIN
+NOAProductTesting_14	CRAIG SO
+NOAProductTesting_15	SEAN TAYLOR
+NOAProductTesting_16	VINCENT VILLEGAS
+NOAProductTesting_17	MANNA YAMASAKI
+NOAProductTesting_18	PRODUCT TESTING TECHNICIANS
+LocalisationProducer	NOE LOCALISATION PRODUCERS
+LocalisationProducer_00	LIAM HIGGINS
+LocalisationProducer_01	RYOKO SAWABE
+EuropeanTranslation	NOE TRANSLATION
+EuropeanTranslation_00	MICHAEL FRISCH
+EuropeanTranslation_01	DANIEL IDOINE-SHIRAI
+EuropeanTranslation_02	MARTINA LEONOR BASSANI
+EuropeanTranslation_03	PETE SHEPPARD
+EuropeanTranslation_04	CLAUDIA SMITH
+EuropeanTranslation_05	EMMANUEL ADIEN
+EuropeanTranslation_06	CL\xc9MENCE DIERYCK
+EuropeanTranslation_07	JEAN-PAUL HAUSMANN
+EuropeanTranslation_08	KENT ROBELLO
+EuropeanTranslation_09	GIOVANNA PRATI
+EuropeanTranslation_10	MARCO MORBIN
+EuropeanTranslation_11	FRITHJOF KOEPP
+EuropeanTranslation_12	SASCHA WEINARD
+EuropeanTranslation_13	SEBASTIAN BR\xdcCK
+EuropeanTranslation_14	AINHOA BERNAD HURTADO
+EuropeanTranslation_15	J\xd3NATAN MARCOS MILL\xc1N
+EuropeanTranslation_16	JOS\xc9 MANUEL MALAG\xd3N LE\xd3N
+EuropeanTranslation_17	CHRISTIAN BUTER
+EuropeanTranslation_18	PATRICK KOUDSTAAL
+EuropeanTranslation_19	CARSTEN HARMANS
+EuropeanQualityAssurance	NOE QUALITY ASSURANCE
+EuropeanQualityAssurance_00	STEFANIA MONTAGNESE
+EuropeanQualityAssurance_01	LAURENCE UHLEN
+EuropeanQualityAssurance_02	J\xc9R\xd4ME PETIT
+EuropeanQualityAssurance_03	VERONICA CASI
+EuropeanQualityAssurance_04	SIEL GARRONE
+EuropeanQualityAssurance_05	MANUEL TANTS
+EuropeanQualityAssurance_06	SWEN HARDER
+EuropeanQualityAssurance_07	MERCEDES D\xd3LERA HERN\xc1NDEZ
+EuropeanQualityAssurance_08	MIGUEL \xc1NGEL CARNERO CALDER\xd3N
+EuropeanQualityAssurance_09	SOUFIAN YAHYAOUI
+AddScore	\x0e\x03\x01\0
+SubScore	-\x0e\x03\x01\0
+EndTextNormal	There's more!
+EndTextExtra	Thank you!
+$CreditBestScore	Best Score
+$CreditNew	NEW
+Demo.msbt
+UnknownName	????
+ExecutiveIceName	Francisca
+ExecutiveIceSerif_Appear_00	...Bonjam.\x0e\x14\x03\0
+ExecutiveIceSerif_Appear_01	Heh. That's how we greet people\non MY planet.\x0e\0\x04\0I am Francisca, one of the three\ngenerals of magic.\x0e\0\x04\0Together, we command the Fortress\nof Shadows known as...Jambastion!
+ExecutiveIceSerif_Appear_02	We wish to assemble the dark\nJamba Heart pieces that were\nscattered across the universe.\x0e\0\x04\0Once we do, our most twisted of\nvisions will finally be...untwisted.\nUnthawed? Unfurled!\x0e\0\x04\0But I do not wish to waste my time with\npointless chatter. So I won't!\x0e\0\x04\0Just know that should you attempt\nto oppose us...
+ExecutiveIceSerif_Appear_03	\x0e\x14\0\0I'll have no choice but to put you\non ice...FOREVER!
+ExecutiveIceSerif_AppearEx_00	...Hmph. Color me surprised.\x0e\x14\x03\0
+ExecutiveIceSerif_AppearEx_01	I certainly didn't expect to run into\nyour puffy self again.\x0e\0\x04\0{s[070]}And here I thought you were buried along with\nthe Jambastion...{s[100]}\x0e\0\x04\0Well then! I'll just have to ensure that\nmy victory is complete this time!
+ExecutiveIceSerif_AppearEx_02	I shall now turn this pink ball of nice\ninto a frozen block of ice!
+ExecutiveIceSerif_AppearEx_03	\x0e\x14\0\0Heh! I always wanted an ice sculpture\nfor my trophy collection!
+ExecutiveFireName	Flamberge
+ExecutiveFireSerif_Appear_00	\x0e\x14\0\0{s[120]}HEY, YOU!\n{s[100]}Stubby little...pink thing!\x0e\x14\x03\0
+ExecutiveFireSerif_Appear_01	{s[130]}Yes, YOU! {s[100]}I have a buuuurning\nquestion for you!\x0e\0\x04\0You're the one who was so rude to\nsweet Francisca, aren't you?!\nDon't you dare try to deny it!\x0e\0\x04\0Fiend! Coward! I swear, if you've\nharmed a single blue hair on her\nperfect head...you'll BURN for it!!!\x0e\x14\0\0
+ExecutiveFireSerif_Appear_02	\x0e\x14\0\0{s[130]}Jamblasted!!\n{s[100]}I will never EVER forgive you!\x0e\0\x04\0Now you must face Flamberge!\nThat's ME!
+ExecutiveFireSerif_Appear_03	For what you've done, I'll scorch you\nto such a degree that...that...
+ExecutiveFireSerif_Appear_04	\x0e\x14\0\0{s[130]}even tasty, toasty marshmallows\nwill seem like ice cubes\ncompared to you!{s[100]}
+ExecutiveFireSerif_AppearEx_00	{s[130]}Bahaha!{s[100]}\x0e\x14\x03\0
+ExecutiveFireSerif_AppearEx_01	Who would have thought my search for\nthe Jamba Heart pieces would lead me\nback to you and your puffery!\x0e\0\x04\0This must be the fiery flames of fate\nat work!
+ExecutiveFireSerif_AppearEx_02	{s[130]}Ooooh yeaaaah!\n{s[100]}My flames and I are fully stoked now!
+ExecutiveFireSerif_AppearEx_03	Beware, you puny pink pest!\x0e\0\x04\0In the name of Lord Hyness...
+ExecutiveFireSerif_AppearEx_04	\x0e\x14\0\0{s[130]}I'll turn you into a burning ball\nof meddlesomeness!{s[100]}
+ExecutiveThunderName	Zan Partizanne
+ExecutiveThunderSerif_Appear_00	Bonjam.\x0e\x14\x03\0
+ExecutiveThunderSerif_Appear_01	I am Zan Partizanne, the eldest of the\nthree generals of magic.
+ExecutiveThunderSerif_Appear_02	At first I thought you to be just a\nsimpleton with a knack for annoyance.
+ExecutiveThunderSerif_Appear_03	Hmph! Now it is clear that you are an\ninterfering interloper!\x0e\0\x04\0But I am afraid your unwanted\nwanderings end here.\x0e\0\x04\0By the will of our beloved liege,\nLord Hyness, Officiant of Doom...
+ExecutiveThunderSerif_Appear_04	\x0e\x14\0\0I shall destroy you here and now!
+ExecutiveThunderSerif_Dead_00	{s[070]}Ugh... Jam...blasted...{s[100]}
+ExecutiveThunderSerif_Dead_01	Bah! How could there be such opposition\non a measly and remote planet like this?!
+ExecutiveThunderSerif_Dead_02	Well, it matters not. This Jamba Heart\npiece is already within my grasp!\x0e\0\x04\0Listen here, you tiny ball of puffy pink\nmischief! For all I care...
+ExecutiveThunderSerif_Dead_03	\x0e\x14\0\0You and this Jambastion can\nrot in ruin forever!!
+ExecutiveThunderSerif_Dead_04	\x0e\x14\0\0Baaahahahaha!
+ExecutiveThunderSerif_Dead_05	\x0e\x14\0\0{s[130]}Jambuhbye!{s[100]}
+ExecutiveThunderSerif_AppearEx_00	\x0e\x14\0\0{s[130]}Stop right there, pink one!{s[100]}
+ExecutiveThunderSerif_AppearEx_01	I did not expect you to survive\nyour visit to Jambastion.\x0e\0\x04\0What's more, you somehow bested\nmy darling Franny and Berge!\x0e\0\x04\0However, your luck has run out.\nIt is the dearest wish of Lord Hyness...
+ExecutiveThunderSerif_AppearEx_02	\x0e\x14\0\0{s[130]}THAT NO ONE INTERFERES!{s[100]}
+ExecutiveThunderSerif_DeadEx_00	{s[070]}Heeelp... Hy...ness...{s[100]}
+HinessName	Hyness
+HinessSerif_Appear_00_1	Juh?
+HinessSerif_Appear_00_2	What is this...interference?
+HinessSerif_Appear_01	{s[070]}You... You seem to be in my way.{s[100]}
+HinessSerif_Appear_02	Well then...\x0e\0\x04\0It seems...\x0e\0\x04\0we do not have enough energy...\x0e\0\x04\0to revive our Dark Lord...\x0e\0\x04\0Must we...\x0e\0\x04\0allow ourselves...\x0e\0\x04\0to fall...\x0e\0\x04\0into oblivion?
+HinessSerif_Appear_03_1	\x0e\x14\0\0{s[150]}No.{s[100]}
+HinessSerif_Appear_03_2	\x0e\x14\0\0{s[150]}NO!{s[100]}
+HinessSerif_Appear_03_3	\x0e\x14\x01\0{s[150]}No no no no no!{s[100]}
+HinessSerif_Appear_03_4	NONONONONONONONONO!!!
+HinessSerif_Appear_03_5	{s[150]}NOOOOO, I SAAAAY!!!{s[100]}\x0e\x14\x02\0
+HinessSerif_Appear_04_1	We are the masters of a power driven to the far reaches of the\nuniverse, and we have but one desire! Can one such as you possibly\nfathom how dearly we have clung to this dream across the aeons?\x0e\0\x04\0How could you! You couldn't! Never ever ever! We who once faced\nthose who were in such fear of our power that they sealed us\naway and banished us to the edge of the galaxy! US!\x0e\0\x04\0As if THAT loveliness wasn't enough, they tried to erase our very\nexistence from history! RUDE! Only through our magic were we\nable to overcome their science and achieve great prosperity!\x0e\0\x04\0We alone were responsible for stopping that repulsive nightmare\nof a galactic crisis, yet this is how you repay us! This won't stand!\nIt won't be forgiven! It won't be forgotten! Never ever EVER!\x0e\0\x04\0Those who called us mad, are you listening? You left us at the edge\nof the galaxy to be forgotten, then went along your merry way,\nprobably living somewhere pretty and peaceful! But know this!\x0e\0\x04\0Your future is a farce! You have none! We, masters of a matter\nmost dark, vow to be restored, as foretold in the book of legend,\nwhich everyone thought was just a fairy tale! It WASN'T!\x0e\0\x04\0We have already obtained the vessel that contains our Dark Lord,\nand he will soon awaken and shower us in compassion! Look!\nThe vessel of our Dark Lord is filling up even as we speak!\x0e\0\x04\0Now the time for his greatness to enter our world has come!\nWelcome to a new history! A new age! The age of awesome!\nHAPPY BIRTHDAY, DARK LORD! HAPPY BIRTHDAY!
+HinessSerif_Appear_04_2	\x0e\x14\0\0Grace us, Gloriously Dark Looooooord!\x0e\x14\x03\0
+HinessSerif_Appear_05	{s[080]}Huff... Hah... Huff... Hah...{s[100]}
+HinessSerif_Appear_06	You see it now...don't you?\x0e\0\x04\0Anyone who interrupts our revival ceremony...
+HinessSerif_Appear_07	We must kindly ask that they...
+HinessSerif_Appear_08	\x0e\x14\0\0{s[150]}PLEASE DISAPPEAR FOREVER!{s[100]}
+HinessSerif_Crazy_00_1	{s[070]}Juh?{s[100]}
+HinessSerif_Crazy_00_2	JUH...
+HinessSerif_Crazy_00_3	{s[150]}JUH!{s[100]}
+HinessSerif_Crazy_01	\x0e\x14\0\0{s[150]}JUHYAMBAVITRIGOKOPOKOJAAAH!!{s[100]}\x0e\x14\x03\0
+HinessSerif_Dead_00	Youuuuu...\x0e\0\x04\0How could you defeat me...\nTHE Lord Hyness...
+HinessSerif_Dead_01_1	An offering to our Dark Lord...
+HinessSerif_Dead_01_2	Perhaps if there is...an offering...
+HinessSerif_Dead_02	What should I do...\x0e\0\x04\0Only one option remains...
+HinessSerif_Dead_03	Those who harbor the greatest of magic,\nI call upon you...
+HinessSerif_Dead_04	Make it so...\nAccept my aid...\x0e\0\x04\0I pledge myself to you...\x0e\0\x04\0Dark Lord of Destruction...
+HinessSerif_Dead_05	I do this so that...\nour Dark Lord...\x0e\0\x04\0may be rebooooorn...
+HinessSerif_Dead_06	\x0e\x14\0\0{s[150]}Rise, Destroyer of Worlds...\nRISE, VOID TERMINA!!{s[100]}
+GameInfo.msbt
+AddHelperBalloonText	Make friends with\nFriend Hearts!
+ChargeInfo_DiscardAbility	Drop\nAbility
+ChargeInfo_DetachPiggybackDisconnect	Dismount
+ChargeInfo_DetachPiggybackUp	Dismount
+ChargeInfo_Suicide	Good-bye
+ChargeInfo_TrustControlToCpu	Autoplay
+ChargeInfo_Revive	Revive
+ChargeInfo_ResetAbilitySeat	Reset
+ChargeInfo_ReturnHelper	Unfriend
+OperationGuide_Heart	Make Friend
+OperationGuide_Attack	Attack
+OperationGuide_Suicide	Unfriend
+OperationGuide_Jump	Jump
+OperationGuide_DetachPiggyback	Dismount
+OperationGuide_DiscardAbility	Drop Ability
+OperationGuide_Sliding	Slide
+OperationGuide_Hover	Hover
+OperationGuide_Swim	Swim
+GameOver.msbt
+DialogMessage	{c[fe9a10]}End the game {c[000000]}and\nreturn to the menu?
+$ContinueBtn	Continue
+$ExitGameBtn	Quit
+$TitleGameOver	GAME OVER
+GoalGame.msbt
+$Jump	Jump
+$Start	Start
+$TitleOver	Goal Game
+$TitleUnder	Goal Game
+$RepdigitBonusText	TEAM BONUS!
+$30UPText	{s[150]}30{s[100]}{s[075]}UP{s[100]}
+$SpecialBonusText	SPECIAL\nBONUS!
+HelperGo.msbt
+$CheckpointReached	Checkpoint!
+$LevelClear	Cleared!
+$CharaTitleStart	Start
+CharaTitleCharaName	\x0e\x03\x05\0
+$BestTime	Best Time
+$TimeListTotal	TOTAL
+$TitleBestTime	Best Time
+$TitleContinue	Continue
+$TitleStart	New Game
+$TitleClose	Back
+$TimeListClose	Back
+TimeListCharaName	\x0e\x03\x05\0
+TimeListStart	Start
+TimeListNext	Next
+TimeListLevelNum	Level \x0e\x03\x01\0
+$MidpointTime	TIME
+$New	NEW
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$ClearTime	Clear Time
+$PowerIconLv	Lv
+$PowerIconLvSub	Lv
+DialogTutorialTitle_00	{c[fe9a10]}Friends{c[000000]} take the lead!
+DialogTutorialText_00	You can do it...even without Kirby!\nGo for a {c[fe9a10]}time attack{c[000000]} score in an\n{c[fe9a10]}adventure{c[000000]} with only {c[fe9a10]}friends{c[000000]}!
+DialogTutorialTitle_01	{c[fe9a10]}Use {c[000000]}special Hearts!
+DialogTutorialText_01	{c[fe9a10]}Power-Up Hearts{c[000000]} have fallen\nthroughout the land. Collect them\nto raise attack, health, and speed!
+DialogTutorialTitle_02	And use {c[fe9a10]}Friend Hearts{c[000000]}!
+DialogTutorialText_02	Gain new {c[fe9a10]}friends{c[000000]} with {c[fe9a10]}Friend Hearts{c[000000]}!\nUp to {c[fe9a10]}four{c[000000]} {c[fe9a10]}players{c[000000]} can hop in with\nQuick Join. Adventure awaits!
+DialogSpecialHelperTitle	Dream Friends lead!
+DialogSpecialHelperText	{c[fe9a10]}Dream Friends{c[000000]} will now appear in\nthe {c[fe9a10]}friend selection{c[000000]}! The Dream\nFriends' {c[fe9a10]}adventure{c[000000]} has just begun!
+DialogAbilityAllClear01	You cleared it with {c[fe9a10]}all of your\nfriends{c[000000]}! Lots of friends have\nnow become {c[fe9a10]}Star Heroes{c[000000]}!
+CheckpointDialog	You can start from\nhere next time!
+CheckpointDialogNext	Next stage
+CheckpointDialogNextLevel	Next level
+CheckpointDialogExit	Title Screen
+$ResultBestTime	Best Time
+$ResultClose	Quit
+$ResultTimeList	Clear Time
+$ResultTotal	TOTAL
+$StepStartSign	READY
+$StepStartSignGo	GO!
+$TitleTutorial	Tutorial
+$CharaSelBestTime	Best Time
+$CharaSelDetail	\x0e\x04\x03\x02\x03\0 Details
+$CharaSelInfo	When playing with others, you can\nuse {c[fe9a10]}Quick Join{c[000000]} while in a stage.
+CharaSelCaption	Friend Select
+$BestTimeTotal	TOTAL
+$HelperGoBestTimeInfo	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0: Erase Records
+BestTimeCaption	Best Time
+BestTimeLevelNum	Level \x0e\x03\x01\0
+DialogDeleteHighScoreMessage	This will {c[fe9a10]}erase{c[000000]} the best time\nfor {c[fe9a10]}\x0e\x03\x05\0{c[000000]}.\nIs this okay?
+DialogDeleteContinueData	{c[fe9a10]}\x0e\x03\x05\0 {c[000000]}save data\nalready exists. Do you want to\n{c[fe9a10]}start over{c[000000]}?
+DialogLocked	Available after you\n{c[fe9a10]}clear{c[000000]} Guest Star ????
+DialogAboutContinue	You can now{c[fe9a10]} create save data\n{c[000000]}for all Dream Friends.\n{c[fe9a10]}Swap out {c[000000]}your friends as\nyou continue your adventure!
+BestTimeClose	Back
+CharaSelClose	Back
+$CharaTitlelReturn	Back
+PowerUpAttack	Attack\nLv
+PowerUpDefense	Health\nLv
+PowerUpSpeed	Speed\nLv
+Max	MAX
+$CharaSelContinue	Continue
+$CharaSelNewGame	New Game
+HelperGoSubtitle.msbt
+Bladeknight	Staying Sharp
+Sirkibble	Cutting in Style
+Poppyjr	Bombs Away!
+Rocky	Rock the World
+Wester	Wild-West Whip
+Bonkers	Banana Mania
+BioSpark	Savage Silence
+Gim	Up-and-Down Dynamo
+StickEnemy	Staff Striker
+Burningleo	Roaring Fire
+Chilly	Chill Winds
+Waddledoo	Beam Land
+Conce	Powered Up
+WaterEnemy	Rinse and Repeat
+Nesp	Psych Out
+Birdon	Freedom in the Sky
+Broomhatter	Spring Cleaning
+Knucklejoe	The Contender
+Bugzzy	What's the Bug Idea?
+Beetlie	Unbeatable Beetle
+Como	A Tangled Web
+ParasolWaddledee	Floaty Dreamer
+Vivitia	A Colorful ㊤
+ChefKawasaki	Flavor Attack
+BandanaWaddledee	The Legend of Dee
+KingDedede	Fight for the Crown
+Metaknight	Scourge of Darkness
+Gooey	Who...Me?
+Rick	Animal Trio
+Marx	Galactic Ambition
+Adeleine	Artful Adventurers
+DarkMetaknight	From the Shadows
+Daroach	Enter the Space Thieves
+Illust.msbt
+$IllustHeader	Gallery
+$ViewBtn	Zoom
+$IllustComplete	Picture Complete!
+Complete0X	You finished {c[fe9a10]}\x0e\x03\x01\0{c[000000]} celebration pictures! \nSee all pictures in the {c[fe9a10]}Picture Gallery{c[000000]}!
+Complete01	You finished your first {c[fe9a10]}celebration picture{c[000000]}!\nSee all pictures in the {c[fe9a10]}Picture Gallery{c[000000]}!
+CompleteAll	You've finished {c[fe9a10]}all \x0e\x03\x01\0 celebration pictures{c[000000]} by\ncollecting Picture Pieces around the world!
+Title01	The First Rival
+Title02	A Dream Above the Clouds
+Title03	Super Ultra Battle!
+Title04	A Delicious Picnic
+Title05	The Great Labyrinth Battle
+Title06	FIGHT FOR THE CROWN!
+Title07	A Miracle Sent to the Skies
+Title08	Robobot Memories
+Title09	Crazy Mischief in the Stars
+Title10	Chasing Our Dreams
+Title11	Friends' Getaway
+Title12	Shadowy Partners
+$ViewClose	\x0e\x04\x01\x02\x01\0 Close
+$ViewBtnA	\x0e\x04\0\x02\0\0
+GalleryDialogNoSheetUnlocked	You don't have any {c[fe9a10]}Picture\nPieces{c[000000]} yet. Collect them by\ncompleting stages!
+CloseInfoTextClose	Close
+CloseInfoTextBack	Back
+IllustAuthor.msbt
+Author01	Toshinao Aoki
+Author02	kanahei
+Author03	lack
+Author04	Kouichi Ooyama
+Author05	Ashura Benimaru Itoh
+Author06	Ashura Benimaru Itoh
+Author07	Toshinao Aoki
+Author08	Yuji KAIDA
+Author09	R.F. (HAL Laboratory, Inc.)
+Author10	H.M. (HAL Laboratory, Inc.)
+Author11	T.K. (HAL Laboratory, Inc.)
+Author12	S.O. (HAL Laboratory, Inc.)
+Movie.msbt
+Nfp.msbt
+InvalidTiming	You cannot use amiibo now.
+AskStartNfp	If you have an amiibo, you can\nuse it to get {c[fe9a10]}healing items{c[000000]} and\n{c[fe9a10]}Picture Pieces{c[000000]}. Do you want\nto use amiibo?
+NoticeLimitation	You can use amiibo up to\n{c[fe9a10]}\x0e\x03\x01\0 time(s){c[000000]} in a row. Once you\n{c[fe9a10]}clear{c[000000]} a stage, you can use\nthem again.
+NoticeLimitationHelperGo	You can use amiibo up to\n{c[fe9a10]}\x0e\x03\x01\0 time(s){c[000000]} in a row. Once you\nreach a {c[fe9a10]}checkpoint{c[000000]} or {c[fe9a10]}clear{c[000000]} a\nstage, you can use them again.
+NoticeLimitationArena	You can use amiibo up to\n{c[fe9a10]}\x0e\x03\x01\0 time(s){c[000000]} in a row. Once you\nstart a new game, you can\nuse them again.
+ErrorNfcDeviceNotFound	Unable to find a controller\nthat can read amiibo.
+AskTouchAmiibo	Tap an amiibo to the {c[fe9a10]}NFC area\n{c[000000]}of {c[fe9a10]}P\x0e\x03\x01\0{c[000000]}'s controller.
+AskTouchAmiiboCancel	\x0e\x04\x01\x02\x01\0 Cancel
+Reading	Reading...
+Canceling	Canceling...
+ErrorOther	An error occurred.
+NoticeUsedTag	You already {c[fe9a10]}received{c[000000]} items\nfrom this amiibo. Once you\n{c[fe9a10]}clear{c[000000]} a stage, you can use\nit again.
+NoticeUsedTagHelperGo	You already {c[fe9a10]}received{c[000000]} items from\nthis amiibo. Once you reach a\n{c[fe9a10]}checkpoint{c[000000]} or {c[fe9a10]}clear{c[000000]} a stage, you\ncan use it again.
+NoticeUsedTagArena	You already {c[fe9a10]}received{c[000000]} items\nfrom this amiibo. Once you\nstart a new game, you can\nuse it again.
+Option.msbt
+FileDeleteFirst_Text	Delete all data in {c[fe9a10]}File{c[000000]} {c[fe9a10]}\x0e\x03\x01\0{c[000000]}?
+FileDeleteFirst_BtnYes	Yes
+FileDeleteFirst_BtnNo	No
+FileDeleteConfirm_Text	Are you sure?
+FileDeleteConfirm_BtnYes	Yes, delete it.
+FileDeleteConfirm_BtnNo	No, don't.
+FileDeleteConfirm2_Text	Are you really, really sure?
+FileDeleteConfirm2_BtnYes	I'm sure. Delete it.
+FileDeleteConfirm2_BtnNo	Don't delete it!
+FileDeleteWarn_Text	This can't be undone. Are\nyou {c[fe9a10]}REALLY{c[000000]} sure?
+FileDeleteWarn_BtnYes	Delete it! I'm sure!
+FileDeleteWarn_BtnNo	I don't want to do it.
+FileDeleteEnd_Text	File \x0e\x03\x01\0 has been deleted.
+FileDeleteEnd_BtnOK	OK
+OptionSettingReset_Text	{c[fe9a10]}Reset{c[000000]} game settings?
+OptionSettingReset_BtnYes	Yes
+OptionSettingReset_BtnNo	No
+OptionHeader_Menu	Options
+OptionHeader_GameSetting	Settings
+OptionHeader_KeyConfig	Control Options
+OptionClose	Back
+OptionBack	Back
+OptionSettingGuide_On	ON
+OptionSettingGuide_Off	OFF
+OptionSettingFriendCopy_OnlyFirst	First time
+OptionSettingFriendCopy_All	Always
+OptionSettingFriendCopy_No	Don't view
+OptionSettingVibration_On	ON
+OptionSettingVibration_Off	OFF
+OptionKeyConfig_TypeA	Type A
+OptionKeyConfig_TypeB	Type B
+OptionKeyConfig_Stick	Move
+OptionKeyConfig_Attack	Attack
+OptionKeyConfig_Jump	Jump
+OptionKeyConfig_Heart	Friend Heart
+OptionKeyConfig_Delete	Drop Ability
+$OptionMenuConfigBtnText	Control Options
+$OptionMenuDeleteBtnText	Delete File
+$OptionMenuSettingBtnText	Settings
+$OptionSettingFriendCipyBtnText	Friend Ability Movie
+$OptionSettingGuideBtnText	Display tips
+$OptionSettingVibrationBtnText	Rumble
+$OptionKeyConfigBtnText	Control type
+$OptionSettingResetBtnText	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0
+$OptionSettingResetText	Reset
+Pause.msbt
+$CommandToRightText	Facing Right
+HeaderAbility	\x0e\x03\x05\0 \x0e\x03\x01\0
+HeaderAbilityFriendsStar	Friend Star \x0e\x03\x01\0
+HeaderAbilityFriendsRolling	Friend Circle \x0e\x03\x01\0
+HeaderAbilityFriendsBridge	Friend Bridge \x0e\x03\x01\0
+HeaderAbilityFriendsTrain	Friend Train \x0e\x03\x01\0
+HeaderAbilityTwinkleStarAllies	Star Allies Sparkler \x0e\x03\x01\0
+HeaderAbilityLastCloseContest	Star Allies Sparkler \x0e\x03\x01\0
+HeaderAbilityNormal	Using Kirby \x0e\x03\x01\0
+HeaderAbilityInWater	Swimming Controls
+HeaderAbilityFriend	{s[080]}\x0e\x03\x05\0's\nFriend Abilities{s[100]}
+HeaderFriendCoop	Controlling Friends
+HeaderKeyConfig	Basic Controls
+HeaderController	Control Options
+DialogWindowExitStage	Any big switches you hit and\nPicture Pieces you got {c[fe9a10]}won't\nbe saved{c[000000]}. Do you want to\nleave the stage anyway?
+DialogWindowExitWorld	Do you want to return to the\nSelect World screen?
+DialogWindowExitScoreGame	{c[fe9a10]}Quit the game{c[000000]} and return\nto the title screen?
+DialogWindowAmiiboDisabled	You can use amiibo only\nin specific stages.
+CloseInfoText	Close
+KeyConfigTypeA	Type A
+KeyConfigTypeB	Type B
+BtnController	Control Options
+BtnInformation	Play with Others
+BtnContinue	Continue Game
+BtnExitWorld	Select World
+BtnExitScoreGame	Title Screen
+BtnExitStage	Exit Stage
+BtnTime	View Time
+HelperGoStageName	Guest Star ???? Level \x0e\x03\x01\0
+ArenaStageName	\x0e\x03\x06\0
+Lv5StageName	Kirby Star Allies
+Resident.msbt
+HIDErrorDialog_MainPlayer_Text	{c[fe9a10]}Cannot find{c[000000]} the {c[fe9a10]}P1{c[000000]}\ncontroller.
+HIDErrorDialog_DropOutText	Connection with the {c[fe9a10]}P\x0e\x03\x01\0{c[000000]}\ncontroller lost. Resume with\nP\x0e\x03\x01\0 {c[fe9a10]}controlled by CPU{c[000000]}?
+HIDErrorDialog_QuitText	Connection with the {c[fe9a10]}P\x0e\x03\x01\0{c[000000]}\ncontroller lost. Return\nto the{c[fe9a10]} title screen{c[000000]}?
+HIDErrorDialog_EncourageText	Please {c[fe9a10]}connect{c[000000]} a controller\nfor {c[fe9a10]}P\x0e\x03\x01\0{c[000000]}.\n\n\x0e\x04\x01\x02\x01\0Cancel
+HIDErrorDialog_BtnNo	No
+HIDErrorDialog_BtnYes	Yes
+TipsAbilityGet_Title	{c[fe9a10]}Inhale{c[000000]} enemies for abilities!
+TipsAbilityGet_Text	Inhale an {c[fe9a10]}enemy{c[000000]} with an {c[fe9a10]}ability{c[000000]} and\nthen swallow it with \x0e\x04\x15\x02\xc2\0 to get\nthe {c[fe9a10]}Copy Ability{c[000000]}.
+TipsFriendHeart_Title	Use {c[fe9a10]}Friend Hearts{c[000000]} to make friends!
+TipsFriendHeart_Text	To make {c[fe9a10]}friends{c[000000]} with an enemy that\nhas an ability, press \x0e\x07\x02\x02\x02\0 to throw\na {c[fe9a10]}heart{c[000000]} at it.
+TipsFriendCopy1_Title	Set a {c[fe9a10]}weapon{c[000000]} on fire for a {c[fe9a10]}Friend Ability{c[000000]}!
+TipsFriendCopy1_Text	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 to get\na {c[fe9a10]}friend's flames {c[000000]}put on it.
+TipsFriendCopy2_Title	Add various effects to your {c[fe9a10]}weapon{c[000000]}!
+TipsFriendCopy2_Text	You can add {c[fe9a10]}fire{c[000000]}, {c[fe9a10]}ice{c[000000]}, {c[fe9a10]}electricity{c[000000]}, and\nother power effects to a weapon.
+TipsCopyResource_Title	Use {c[fe9a10]}Copy Essences {c[000000]}to get friends.
+TipsCopyResource_Text	If you hit a {c[fe9a10]}Copy Essence{c[000000]} with a\nFriend Heart, you'll get a friend\nfrom it!
+TipsStoneCurling_Title	Friend Abilities for {c[fe9a10]}Stone{c[000000]}:
+TipsStoneCurling_Text	The {c[fe9a10]}Stone{c[000000]} ability can access\n{c[fe9a10]}Friend Abilities{c[000000]} from a friend's\n{c[fe9a10]}ice{c[000000]} or {c[fe9a10]}water{c[000000]} effects.
+TipsRequestUnion_Title	Add to a {c[fe9a10]}friend's{c[000000]} weapon!
+TipsRequestUnion_Text	If a friend {c[fe9a10]}raises a weapon {c[000000]}with \x0e\x04\x17\x02\xc4\0,\n{c[fe9a10]}attach effects{c[000000]} like fire to your friend's\nweapon by {c[fe9a10]}hitting{c[000000]} it with \x0e\x07\x01\x02\x01\0.
+TipsOKIcon_Title	Get the right number of {c[fe9a10]}friends{c[000000]}!
+TipsOKIcon_Text	The icons in the picture on the right\nindicate the {c[fe9a10]}number of friends{c[000000]} that\nyou need.
+TipsMultiPlay_Title	Play {c[fe9a10]}together{c[000000]} with other players!
+TipsMultiPlay_Text	Play with others by handing them a\nJoy-Con! Other players can join in any\ntime by pressing \x0e\x04\x0d\x02d\0 + \x0e\x04\x0e\x02e\0.
+TipsResetAbility_Title	Use a {c[fe9a10]}Reset Platform {c[000000]}to make changes!
+TipsResetAbility_Text	You can use a Reset Platform to turn\n{c[fe9a10]}friends{c[000000]} into {c[fe9a10]}Copy Essences{c[000000]} and make\nchanges to {c[fe9a10]}members {c[000000]}as you see fit!
+TipsVacuum_Title	{c[fe9a10]}Kirby{c[000000]} inhales everything he can!
+TipsVacuum_Text	Press \x0e\x07\x01\x02\x01\0 to make Kirby {c[fe9a10]}inhale enemies{c[000000]}.
+TipsMouthFeed_Title	{c[fe9a10]}Share{c[000000]} healing items.
+TipsMouthFeed_Text	To {c[fe9a10]}restore a teammate's stamina{c[000000]},\npick up a healing item and {c[fe9a10]}feed{c[000000]} it to\nyour teammate.
+TipsCommand_Title	Learn how to use {c[fe9a10]}techniques{c[000000]}!
+TipsCommand_Text	Press \x0e\x04\x11\x02\x94\0 to open the {c[fe9a10]}pause menu{c[000000]}, \nwhere there's lots of info about\nvarious {c[fe9a10]}techniques{c[000000]}.
+TipsPointStar_Title	Collect {c[fe9a10]}Point Stars{c[000000]}!
+TipsPointStar_Text	Collect {c[fe9a10]}100{c[000000]} Point Stars to get a {c[fe9a10]}1-Up{c[000000]},\nwhich gives you an extra Kirby!
+TipsQuickDiscard_Title	How to {c[fe9a10]}drop{c[000000]} a Copy Ability:
+TipsQuickDiscard_Text	You can {c[fe9a10]}drop{c[000000]} a Copy Ability by\npressing and holding \x0e\x07\x03\x02\x03\0 or\npressing \x0e\x07\x04\x02\x04\0.
+TipsRestruction_Title	How to say {c[fe9a10]}good-bye{c[000000]} to a friend:
+TipsRestruction_Text	Press \x0e\x04\t\x02`\0 + \x0e\x07\x03\x02\x03\0 to select which friend\nto say {c[fe9a10]}good-bye{c[000000]} to.
+TipsSwitchBig_Title	Look for the {c[fe9a10]}big switch{c[000000]}!
+TipsSwitchBig_Text	{c[fe9a10]}Big switches{c[000000]} are hidden in stages.\nFind them to open {c[fe9a10]}Extra Stages{c[000000]}!
+TipsGalaxy_Title	Viewing the World Map:
+TipsGalaxy_Text	Use the R Stick to control the\n{c[fe9a10]}view{c[000000]} on the World Map so you\ncan see all the sights in the galaxy!
+TipsMuseumGeneral_Title	About the {c[fe9a10]}Dream Palace{c[000000]}:
+TipsMuseumGeneral_Text	Grab the {c[fe9a10]}Dream Rod{c[000000]} to summon\n{c[fe9a10]}special friends{c[000000]}!
+TipsMuseumRepeat_Title	Entering the {c[fe9a10]}Dream Palace{c[000000]} again:
+TipsMuseumRepeat_Text	You can re-enter the palace only\nafter you {c[fe9a10]}clear{c[000000]} a stage.
+TipsMuseumHelper2_Title	Dream Friends {c[fe9a10]}join the fun{c[000000]}!
+TipsMuseumHelper2_Text	Dream Friends will be added in a free\nupdate. It's a {c[fe9a10]}dream come true{c[000000]}!
+TipsBossFriendCopy_Title	Use Friend Abilities to power up!
+TipsBossFriendCopy_Text	When you use Friend Abilities, your {c[fe9a10]}attack\npower{c[000000]} will {c[fe9a10]}increase{c[000000]}. Take full advantage!
+TipsBossHP_Title	{c[fe9a10]}Don't give up{c[000000]} if you're defeated!
+TipsBossHP_Text	{c[fe9a10]}Bosses{c[000000]} grow more exhausted and \nget {c[fe9a10]}weaker{c[000000]} as they fight more battles.\nSo {c[fe9a10]}don't give up{c[000000]}. Keep fighting!
+TipsBossRevive_Title	{c[fe9a10]}Help{c[000000]} your teammates!
+TipsBossRevive_Text	Use \x0e\x07\x02\x02\x02\0 to {c[fe9a10]}help{c[000000]} any teammates who\nfall in battle.
+TipsBossWeakness_Title	Look for a boss's {c[fe9a10]}weakness{c[000000]}!
+TipsBossWeakness_Text	Watch the boss's attacks and try fire, ice,\nand electricity to see what {c[fe9a10]}works best{c[000000]}.
+TipsBoss72_Title	You can use {c[fe9a10]}amiibo{c[000000]} to {c[fe9a10]}recover{c[000000]}!
+TipsBoss72_Text	You can use {c[fe9a10]}amiibo{c[000000]} via the {c[fe9a10]}pause menu{c[000000]}\nto help you defeat difficult bosses.
+TipsBossWhispy1_Title	Try {c[fe9a10]}fire{c[000000]} on Whispy Woods!
+TipsBossWhispy1_Text	You can {c[fe9a10]}burn{c[000000]} Whispy Woods when it's\nlarger. Have everyone attack with {c[fe9a10]}fire{c[000000]}!
+TipsBossDedede1_Title	A way to {c[fe9a10]}restore health{c[000000]}!
+TipsBossDedede1_Text	The dirty food thrown around can\nbe {c[fe9a10]}washed clean{c[000000]} with a {c[fe9a10]}water{c[000000]} attack!
+TipsBossMetaKnight1_Title	Smash rocks to {c[fe9a10]}make headway{c[000000]}!
+TipsBossMetaKnight1_Text	Smash the {c[fe9a10]}stacked rocks{c[000000]}! It will\n{c[fe9a10]}weaken{c[000000]} Meta Knight's defense!
+TipsBossPon1_Title	How to destroy bombs:
+TipsBossPon1_Text	{c[fe9a10]}Smash{c[000000]} ice bombs with {c[fe9a10]}fire{c[000000]}, and\nfire bombs with {c[fe9a10]}water{c[000000]} or {c[fe9a10]}ice{c[000000]}!
+TipsBossIce1_Title	Francisca's use of {c[fe9a10]}water{c[000000]} and {c[fe9a10]}ice{c[000000]}:
+TipsBossIce1_Text	Francisca attacks with {c[fe9a10]}ice{c[000000]} and {c[fe9a10]}water{c[000000]}.\nUse {c[fe9a10]}Friend Abilities{c[000000]} with {c[fe9a10]}fire{c[000000]} and\n{c[fe9a10]}electricity{c[000000]} against her!
+TipsBossFire1_Title	Flamberge's use of {c[fe9a10]}fire{c[000000]}:
+TipsBossFire1_Text	Flamberge attacks with {c[fe9a10]}fire{c[000000]}. Use\n{c[fe9a10]}Friend Abilities{c[000000]} with {c[fe9a10]}ice{c[000000]} to cool down\nher fiery assault.
+TipsBossThunder1_Title	Zan Partizanne's {c[fe9a10]}electric shocks{c[000000]}:
+TipsBossThunder1_Text	Zan Partizanne attacks with {c[fe9a10]}electric\nshocks{c[000000]}. Use {c[fe9a10]}Friend Abilities{c[000000]} with\n{c[fe9a10]}water{c[000000]} to get the best of her!
+TipsBossYugu1_Title	{c[fe9a10]}Set fire{c[000000]} to Yggy Woods!
+TipsBossYugu1_Text	Give your team {c[fe9a10]}Friend Abilities{c[000000]} with\n{c[fe9a10]}fire{c[000000]}! Then blaze your way to victory!
+TipsBossPonEX1_Title	Break the {c[fe9a10]}Shutter Gate{c[000000]}!
+TipsBossPonEX1_Text	The {c[fe9a10]}Shutter Gate{c[000000]} can divide teammates.\nUse {c[fe9a10]}fire{c[000000]} to burn it instantly.
+TipsBossGiantironmom_Title	Watch the weapons on each hand!
+TipsBossGiantironmom_Text	There is a {c[fe9a10]}bomb{c[000000]} on each hand! To fight\nback, cut the {c[fe9a10]}rope{c[000000]} and light the fire!
+TipsBossKracko_Title	Fight back with {c[fe9a10]}team freezing{c[000000]}!
+TipsBossKracko_Text	You can {c[fe9a10]}freeze the rain{c[000000]} if your whole\nteam works together!
+TipsBossHiness_Title	Use Friend Abilities to your advantage!
+TipsBossHiness_Text	Team up with friends to best use\n{c[fe9a10]}Friend Abilities{c[000000]} to fight back!
+TipsBossLastBoss1_Title	{c[fe9a10]}Charge up{c[000000]} and aim at the {c[fe9a10]}weak spot{c[000000]}!
+TipsBossLastBoss1_Text	Keep your {c[fe9a10]}distance{c[000000]} while you {c[fe9a10]}charge up{c[000000]},\nand then fire! You can dodge the\nenemy's attacks with a {c[fe9a10]}double jump{c[000000]}.
+TipsBossLastBoss2_Title	Avoiding the {c[fe9a10]}dripping liquid{c[000000]}:
+TipsBossLastBoss2_Text	{c[fe9a10]}Liquid{c[000000]} drips when you do damage.\nBlock it with the {c[fe9a10]}Parasol{c[000000]}!
+TipsBossLastBoss3_Title	Use {c[fe9a10]}Friend Hearts{c[000000]} to save friends!
+TipsBossLastBoss3_Text	When a friend's {c[fe9a10]}soul{c[000000]} falls under the\nenemy's control, use a {c[fe9a10]}Friend Heart{c[000000]} to\nget your friend back again!
+TipsA19_Title	Following the dark hearts...
+TipsA19_Text	The friends have followed the dark\nhearts and at long last arrive at\na {c[fe9a10]}mysterious altar{c[000000]}...
+TipsA20_Title	Onward, to the final battle!
+TipsA20_Text	The friends have joined to create the\nlegendary {c[fe9a10]}Star Allies Sparkler{c[000000]} and\nconfront the chaotic darkness!
+TipsA21_Title	Hold \x0e\x07\0\x02\0\0 to {c[fe9a10]}jump high in the air{c[000000]}!
+TipsA21_Text	Hold \x0e\x07\0\x02\0\0 while in a {c[fe9a10]}Friend Circle{c[000000]} to\nperform a {c[fe9a10]}high jump{c[000000]}!
+TipsA27_Title	Want to play without {c[fe9a10]}hints{c[000000]}?
+TipsA27_Text	Set {c[fe9a10]}display tips{c[000000]} to OFF in the {c[fe9a10]}Options{c[000000]}\nmenu to remove the tutorial signs.
+TipsA28_Title	Hold \x0e\x04\x17\x02\xc4\0 to activate in {c[fe9a10]}order{c[000000]}!
+TipsA28_Text	Use \x0e\x04\x17\x02\xc4\0 repeatedly to activate\n{c[fe9a10]}Friend Abilities{c[000000]} with your current\nmembers {c[fe9a10]}in order{c[000000]}.
+TipsA29_Title	Control a CPU player from its {c[fe9a10]}back{c[000000]}!
+TipsA29_Text	Jump on a CPU friend while holding \x0e\x04\x15\x02\xc2\0\nto {c[fe9a10]}take control{c[000000]} and then be able to\nuse {c[fe9a10]}Control Piggyback{c[000000]}!
+TipsA50_Title	Collect the {c[fe9a10]}Picture Pieces{c[000000]}!
+TipsA50_Text	Collect Picture Pieces to complete\n{c[fe9a10]}celebration pictures{c[000000]}!
+TipsA51_Title	Get bonuses in the {c[fe9a10]}Goal Game{c[000000]}!
+TipsA51_Text	Press \x0e\x04\0\x02\0\0 when you reach your {c[fe9a10]}lowest\npoint{c[000000]} to jump as {c[fe9a10]}high{c[000000]} as possible.
+TipsA52_Title	Get items from {c[fe9a10]}Pop Flowers{c[000000]}!
+TipsA52_Text	Touch {c[fe9a10]}Pop Flowers{c[000000]} to get items. Run for\nthese {c[fe9a10]}flowers{c[000000]} if you're in a pinch!
+TipsA53_Title	Get abilities from {c[fe9a10]}friends{c[000000]}!
+TipsA53_Text	Inhale {c[fe9a10]}friends{c[000000]} with \x0e\x07\x01\x02\x01\0, and then use \n\x0e\x04\x15\x02\xc2\0 to swallow them and get their\n{c[fe9a10]}Copy Abilities{c[000000]}!
+TipsA54_Title	Using {c[fe9a10]}Guard{c[000000]} and {c[fe9a10]}Dodge{c[000000]}:
+TipsA54_Text	Hold \x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 to {c[fe9a10]}guard against attacks{c[000000]}.\nUse \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0 while guarding to {c[fe9a10]}dodge{c[000000]}.
+TipsA55_Title	Attack with {c[fe9a10]}Slide{c[000000]}!
+TipsA55_Text	Press \x0e\x04\x15\x02\xc2\0+\x0e\x07\0\x02\0\0 to perform a {c[fe9a10]}Slide attack{c[000000]}.\nYou can do this even when you have\nno ability equipped!
+TipsA56_Title	When it's {c[fe9a10]}game over{c[000000]}...
+TipsA56_Text	If Kirby is defeated and has {c[fe9a10]}no more\nKirbys remaining{c[000000]}, it's game over!
+TipsA57_Title	Use {c[fe9a10]}Artist{c[000000]} to paint masterpieces!
+TipsA57_Text	Paint pictures on blank signs to\nget {c[fe9a10]}items{c[000000]}!
+TipsA58_Title	Pound {c[fe9a10]}stakes{c[000000]} down!
+TipsA58_Text	Pound {c[fe9a10]}stakes{c[000000]} into the ground with the\n{c[fe9a10]}Stone{c[000000]} and {c[fe9a10]}Hammer{c[000000]} abilities!
+TipsA59_Title	Sweep up {c[fe9a10]}leaves{c[000000]}!
+TipsA59_Text	Use the {c[fe9a10]}Cleaning{c[000000]} ability to sweep\nup piles of {c[fe9a10]}leaves{c[000000]}.
+TipsA60_Title	Use {c[fe9a10]}Hover{c[000000]} to take flight!
+TipsA60_Text	Press \x0e\x07\0\x02\0\0 repeatedly while jumping to\n{c[fe9a10]}hover{c[000000]} through the air.
+TipsA61_Title	Drop through floors!
+TipsA61_Text	Press \x0e\x04\x15\x02\xc2\0 to {c[fe9a10]}drop through{c[000000]} the floor\nyou're standing on.
+TipsA62_Title	Use round-trip doors all you want!
+TipsA62_Text	You can {c[fe9a10]}enter these doors{c[000000]} as many\ntimes as you like. Take a look inside if\nyou find one!
+TipsA63_Title	Use {c[fe9a10]}wind{c[000000]} to see some {c[fe9a10]}techniques{c[000000]}!
+TipsA63_Text	Add the power of {c[fe9a10]}wind{c[000000]} to a weapon\nto infuse it with airiness and see\nhow some {c[fe9a10]}techniques flow{c[000000]}!
+TipsA64_Title	Co-op technique: {c[fe9a10]}Friend Actions{c[000000]}!
+TipsA64_Text	Climb onto a {c[fe9a10]}Friend Platform{c[000000]} with three\nfriends and press \x0e\x04\x17\x02\xc4\0 to perform a\n{c[fe9a10]}Friend Action{c[000000]}!
+TipsA73_Title	View techniques of {c[fe9a10]}CPU friends{c[000000]}!
+TipsA73_Text	Press \x0e\x04\x11\x02\x94\0 to pause while riding\npiggyback on a {c[fe9a10]}CPU friend{c[000000]} to view its\n{c[fe9a10]}technique commands{c[000000]}.
+TipsA74_Title	Using the \x0e\x04\x10\x02\x91\0 Capture Button:
+TipsA74_Text	Snap a screenshot anytime with the\n{c[fe9a10]}Capture Button{c[000000]} \x0e\x04\x10\x02\x91\0. You can also\n{c[fe9a10]}share your shots{c[000000]} with friends!
+WTitleLv1SubTitle	World of Peace
+WTitleLv1Title	Dream Land
+WTitleLv2SubTitle	World of Miracles
+WTitleLv2Title	Planet Popstar
+WTitleLv3SubTitle	Fortress of Shadows
+WTitleLv3Title	Jambastion
+WTitleLv4SubTitle	Far-Flung
+WTitleLv4Title	Starlight Heroes
+WTitleLv5SubTitle	Kirby
+WTitleLv5Title	Star Allies
+$SavingText	Saving...
+SoundRoom.msbt
+$SoundRoomBtn	Track
+$SoundRoomBtn02	Track
+$SoundRoomAutoBtn	AUTO
+$SoundRoomAutoBtn02	AUTO
+$SoundRoomHeader	Jukebox
+SoundRoomBackBtn	Back
+StageList.msbt
+Lv1	Dream Land
+Lv2	Planet Popstar
+Lv3	Jambastion
+Lv4	Far-Flung\nStarlight Heroes
+StageName	\x0e\x03\x08\0
+CloseInfoText	Close
+Step.msbt
+SwitchBigMuseumTitleText	{c[fe9a10]}Dream Palace{c[000000]} Open!
+SwitchBigMuseumBodyText	You pushed the big switch that\nopens the {c[fe9a10]}Dream Palace{c[000000]} on\nthe {c[fe9a10]}World Map{c[000000]}!
+SwitchBigExStageTitleText	{c[fe9a10]}Extra Stage{c[000000]} Open!
+SwitchBigExStageBodyText	You pushed the big switch that\nopens an {c[fe9a10]}Extra Stage{c[000000]} on the\n{c[fe9a10]}World Map{c[000000]}!
+HelperClearTitleText	Select a friend to say {c[fe9a10]}good-bye{c[000000]} to.
+HelperClearTitleHelperText	You said good-bye to {c[fe9a10]}friend P\x0e\x03\x01\0{c[000000]}.
+HelperClearTitleSpecialText	Please select the friend to replace\nwith {c[fe9a10]}\x0e\x03\x05\0{c[000000]}.
+HelperClearCancelText	Quit
+HelperClearCancelSpecialText	Cancel
+$ReviveHelp	Help!
+ReviveCountdownText	Save Kirby!
+ReviveCountdown_HelperText	Save P1 \x0e\x03\x05\0!
+HeroPanelTwinkleStarName	Friend Star
+HeroPanelTwinkleStarAlliesName	Star Allies\nSparkler
+FriendHeartDemoTitle	About Friend Hearts
+FriendHeartDemoShootHeart	Throw a Friend Heart...
+FriendHeartDemoGetFriend	to make a friend!
+$FriendCopyAttackUpText	Attack up!
+FriendCopyRequestElement	Add it!
+FriendCopyRequestRide	Get on!
+SubGame1.msbt
+#Subgame1IngameRemainingNum	{s[150]}\x0e\x03\x01\0{s[100]}m left
+#Subgame1ResultRemainingNum	{s[150]}\x0e\x03\x01\0{s[100]}.\x0e\x03\x01\0m left
+#Subgame1OutgameDescriptionText_Lv1	Easy does it! Chop away as much of your\ntree as you can. Avoid caterpillars!
+#Subgame1OutgameDescriptionText_Lv2	Chop faster, chief! Just watch out for\nthe Gordos that come flying!
+#Subgame1OutgameDescriptionText_Lv3	A challenge for champions, with lots of\nGordos and caterpillars. Chop away!
+#Subgame1OutgameLv1Apprentice	{s[075]}Chop{s[100]}\nAmateur
+#Subgame1OutgameLv2Master	{s[075]}Chop{s[100]}\nChief
+#Subgame1OutgameLv3Expert	{s[075]}Chop{s[100]}\nChampion
+$Subgame1Lv1Apprentice	{s[070]}Chop {s[100]}Amateur
+$Subgame1Lv2Master	{s[070]}Chop{s[100]} Chief
+$Subgame1Lv3Expert	{s[070]}Chop{s[100]} Champion
+#ExplanationTextPage1	{c[fe9a10]}Chop your tree{c[000000]} as much as you can before time\nruns out. {c[fe9a10]}Swing the Joy-Con{c[000000]} to swing the axe!
+#ExplanationTextPage2	Watch out for {c[fe9a10]}caterpillars{c[000000]} and {c[fe9a10]}Gordos{c[000000]}!\nUse \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0 to {c[fe9a10]}dodge quickly{c[000000]}!
+#ExplanationTextPage3	Gordos fly to {c[fe9a10]}other trees{c[000000]}! Chop down your\ntree as much as possible to build a {c[fe9a10]}log house{c[000000]}!
+$Subgame1HighScore	High Score
+$Subgame1HowToPlay	Tutorial
+$Subgame1Start	Start
+#Subgame1LevelReleaseExplanatory	Now you can play the {c[fe9a10]}Chief\n{c[000000]}and {c[fe9a10]}Champion{c[000000]} stages!
+$SubgameCmnStickTagL	\x0e\x04\x16\x02\xc3\0
+$SubgameCmnStickTagR	\x0e\x04\x14\x02\xc1\0
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame1OutgamePeopleUnitNum1	{s[150]}1{s[100]}{s[090]} Player{s[100]}
+#Subgame1OutgamePeopleUnitNum2	{s[150]}2{s[100]}{s[090]} Players{s[100]}
+#Subgame1OutgamePeopleUnitNum3	{s[150]}3{s[100]}{s[090]} Players{s[100]}
+#Subgame1OutgamePeopleUnitNum4	{s[150]}4{s[100]}{s[090]} Players{s[100]}
+SubGame2.msbt
+$Subgame2HighScore	High Score
+$Subgame2HowToPlay	Tutorial
+$Subgame2Start	Start
+#Subgame2ResultScore	{s[150]}\x0e\x03\x01\0 {s[100]}{s[090]}lt. yrs.{s[100]}
+#Subgame2OutgameDescTextLv1	A meteor is blazing toward town! Charge your\npower gauge and slam it with your bat!
+#Subgame2OutgameDescTextLv2	Your gauge is faster! Charge it three times and\nslam that meteor before it destroys the country!
+#Subgame2OutgameDescTextLv3	Your gauge is really fast! Charge it five times\nand slam the meteor. Save the world!
+#Subgame2LevelReleaseExplanatory	Now you can play the {c[fe9a10]}Country\nCrisis{c[000000]} and {c[fe9a10]}World Crisis {c[000000]}stages!
+#Explanation2TextPage1	Emergency! A {c[fe9a10]}meteor{c[000000]} is coming! Smack it\nback into space with your bat!
+#Explanation2TextPage2	Press \x0e\x04\x04\x020\0 to {c[fe9a10]}fill your power gauge{c[000000]}. Try to\nfill the gauge {c[fe9a10]}as high as you can{c[000000]}!
+#Explanation2TextPage3	When the meteor arrives, {c[fe9a10]}swing the Joy-Con\nat the right time{c[000000]} to get the best slam you can!
+$Subgame2Lv1Crisis	Town\nCrisis
+$Subgame2Lv2Crisis	Country\nCrisis
+$Subgame2Lv3Crisis	World\nCrisis
+#Subgame2OutgameLv1Crisis	Town\nCrisis
+#Subgame2OutgameLv2Crisis	Country\nCrisis
+#Subgame2OutgameLv3Crisis	World\nCrisis
+#Subgame2HighScoreUnit	lt. yrs.
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame2OutgamePeopleUnitNum1	{s[150]}1{s[100]}{s[090]} Player{s[100]}
+#Subgame2OutgamePeopleUnitNum2	{s[150]}2{s[100]}{s[090]} Players{s[100]}
+#Subgame2OutgamePeopleUnitNum3	{s[150]}3{s[100]}{s[090]} Players{s[100]}
+#Subgame2OutgamePeopleUnitNum4	{s[150]}4{s[100]}{s[090]} Players{s[100]}
+SubGameCmn.msbt
+#SubgameCancelBtn	Back
+#SubgameCancelBtn_End	Back
+#SubgameBackBtn	Close
+#SubgameCmnPauseWindow_AgainGame	Play Again
+#SubgameCmnPauseWindow_ChoiceLevel	Select Difficulty
+#SubgameCmnPauseWindow_ToTitle	To Title Screen
+#2SubgameCmnPauseWindow_AgainGame	Play Again
+#2SubgameCmnPauseWindow_ChoiceLevel	Select Difficulty
+#2SubgameCmnPauseWindow_ToTitle	To Title Screen
+#PausetWindowIngame_GameContinue	Continue the Game
+#PausetWindowIngame_Redo	Start Over
+#PausetWindowIngame_BackTitle	To Title Screen
+#2PausetWindowIngame_GameContinue	Continue the Game
+#2PausetWindowIngame_Redo	Start Over
+#2PausetWindowIngame_BackTitle	To Title Screen
+#SubgameCmnHowToPlayBtn	You can also play\nusing buttons!
+#2SubgameCmnHowToPlayBtn	You can also play\nusing buttons!
+#SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 Controller Settings
+#2SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 Controller Settings
+#SubgameHoldContllorInfoScreen	To play with motion controls, detach the right and left Joy-Con and press \x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0.
+#2SubgameHoldContllorInfoScreen	To play with motion controls, detach the right and left Joy-Con and press \x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0.
+#SubgameCmnOutgameHoldBeforeOK	Select
+#SubgameCmnOutgameHoldOK	OK
+#SubgameHowToPlayController_Btn	Button Control
+#SubgameHowToPlayController_Shake	Motion Control
+#2SubgameHowToPlayController_Btn	Button Control
+#2SubgameHowToPlayController_Shake	Motion Control
+#SubgameCmnJoyConL	Left Joy-Con
+#SubgameCmnJoyConR	Right Joy-Con
+#2SubgameCmnJoyConL	Left Joy-Con
+#2SubgameCmnJoyConR	Right Joy-Con
+#SubgameCmnHighScoreFreind	With Friends
+#SubgameCmnHighScoreSingle	Solo
+#2SubgameCmnHighScoreFreind	With Friends
+#2SubgameCmnHighScoreSingle	Solo
+#SubgameCmnHeadline_PlayerNum	# of Players
+#SubgameCmnHeadline_Hold	Controls
+#SubgameCmnHeadline_Level	Difficulty
+#SubgameCmnHeadline_HighScore	High Score
+#SubgameCmnHeadline_HowToPlay	Tutorial
+#2SubgameCmnHeadline_PlayerNum	# of Players
+#2SubgameCmnHeadline_Hold	Controls
+#2SubgameCmnHeadline_Level	Difficulty
+#2SubgameCmnHeadline_HighScore	High Score
+#2SubgameCmnHeadline_HowToPlay	Tutorial
+#SubgameCmnHeadline_HowToPlayPage1	1/3
+#SubgameCmnHeadline_HowToPlayPage2	2/3
+#SubgameCmnHeadline_HowToPlayPage3	3/3
+#2SubgameCmnHeadline_HowToPlayPage1	1/3
+#2SubgameCmnHeadline_HowToPlayPage2	2/3
+#2SubgameCmnHeadline_HowToPlayPage3	3/3
+#SubgameCmnControllerHold_Vertical	For those playing with motion\ncontrols, detach the Joy-Con\nand hold it {c[fe9a10]}vertically{c[000000]}.
+#2SubgameCmnControllerHold_Vertical	For those playing with motion\ncontrols, detach the Joy-Con\nand hold it {c[fe9a10]}vertically{c[000000]}.
+#SubgameCmnNumberError	There are {c[fe9a10]}not enough controllers{c[000000]}\nconnected.
+#2SubgameCmnNumberError	There are {c[fe9a10]}not enough controllers{c[000000]}\nconnected.
+#SubgameCmnControllerDisconnection	Controllers have been changed.\nNow returning to the title screen.
+#2SubgameCmnControllerDisconnection	Controllers have been changed.\nNow returning to the title screen.
+#SubgameCmnControllerBothHands	Resume holding the Joy-Con\n{c[fe9a10]}with two hands{c[000000]}.
+#2SubgameCmnControllerBothHands	Resume holding the Joy-Con\n{c[fe9a10]}with two hands{c[000000]}.
+#SubgameCmnResultHighScore	High Score
+Theater.msbt
+$TheaterHeader	Theater
+BtnBack	Back
+MovieUnknown	????
+SimpleCredit	Credits
+ImageMovie	Let's Be Friends㊤
+OpeningMovie	Starfall: A Rude Awakening
+KibidangoDemo	A Friend Heart Appears!
+EndingDemo	Star Allies: Return from Afar
+CreditNormal	Kirby's Curtain Call
+CreditExtra	Friends' Curtain Call
+$TheaterNew	NEW
+TitleMenu.msbt
+$TitleMenuNoticeBtn	Info
+TitleMenuCloseBtn	Back
+TitleMenuHeaderFileName	File \x0e\x03\x01\0
+TitleMenuHeaderRatio	\x0e\x03\x01\0
+TitleMenuFileSelectFileName	File \x0e\x03\x01\0
+TitleMenuFileSelectRatio	\x0e\x03\x01\0
+UnlockTheater	Watch movies again! The\n{c[fe9a10]}Theater{c[000000]} is now unlocked!
+UnlockSound	Play all your fave Kirby music!\nThe {c[fe9a10]}Jukebox{c[000000]} is now unlocked!
+UnlockHelperGo	Go on a friend adventure!\n{c[fe9a10]}Guest Star ???? Star Allies Go!{c[000000]}\nis now unlocked!
+UnlockArenaLv1	How much can you take? Find\nout in {c[fe9a10]}The Ultimate Choice{c[000000]}.\nIt's now unlocked!
+UnlockArenaLv2	The {c[fe9a10]}Fiery Showdown{c[000000]} and\n{c[fe9a10]}Infernal Crisis{c[000000]} difficulties\nare now unlocked in\nThe Ultimate Choice!
+UnlockArenaLv3	Only the truly chosen dare make\nthis choice... The {c[fe9a10]}Soul Melter\n{c[000000]}difficulty is now unlocked!
+$TitleMenuHeaderPercent	%
+$TitleMenuHowToBtn	Play Together!
+$PressStartBtn	PRESS \x0e\x04\0\x02\0\0
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$FileSelectPercent	%
+DialogWindowNoticeTitle_00	More {c[fe9a10]}Dream Friends{c[000000]}!
+DialogWindowNoticeText_00	There are now {c[fe9a10]}\x0e\x03\x01\0{c[000000]} Dream Friends!\nUse them all as {c[fe9a10]}allies{c[000000]}!
+DialogWindowNoticeTitle_01	Find them at the {c[fe9a10]}Dream Palace{c[000000]}!
+DialogWindowNoticeText_01	You can call on Dream Friends at\nthe {c[fe9a10]}Dream Palace{c[000000]} in {c[fe9a10]}Story Mode{c[000000]}.\nMake your {c[fe9a10]}dream team{c[000000]}!
+DialogWindowNoticeTitle_02	Play {c[fe9a10]}The Ultimate Choice{c[000000]}!
+DialogWindowNoticeText_02	You can select the new Dream\nFriends when you make the \n{c[fe9a10]}big choice{c[000000]} to face the biggest foes!
+DialogWindowNoticeTitle_02B	New Dream Friends {c[fe9a10]}added{c[000000]}!
+DialogWindowNoticeText_02B	New Dream Friends from the {c[fe9a10]}latest\nupdate {c[000000]}are ready to go. Join forces\nand take down those {c[fe9a10]}fearsome foes{c[000000]}!
+DialogWindowNoticeTitle_03	{c[fe9a10]}New map{c[000000]} in Guest Star ????
+DialogWindowNoticeText_03	Choose one of the new Dream Friends in\n{c[fe9a10]}Guest Star ????{c[000000]} to play {c[fe9a10]}updated levels{c[000000]}!\nHead out on fresh adventures!
+DialogWindowNoticeTitle_03B	A {c[fe9a10]}new map{c[000000]} is available!
+DialogWindowNoticeText_03B	Choose a {c[fe9a10]}newly added {c[000000]}Dream Friend\nto play on a {c[fe9a10]}newly added {c[000000]}map, and\nembark on a {c[fe9a10]}very new adventure{c[000000]}!
+DialogWindowNoticeTitle_04	New {c[fe9a10]}celebration picture{c[000000]}!
+DialogWindowNoticeText_04	A new {c[fe9a10]}celebration picture{c[000000]} has been\nadded! There are now {c[fe9a10]}\x0e\x03\x01\0{c[000000]} of them.\nCan you collect them all?
+DialogBottom_Rick	{c[fe9a10]}Rick & Kine & Coo{c[000000]} from {c[fe9a10]}Kirby's Dream\nLand 2{c[000000]} are here! What a trio!
+DialogBottom_Marx	{c[fe9a10]}Marx{c[000000]} from {c[fe9a10]}Kirby Super Star{c[000000]} has popped in!\nA final boss here to help? Unbelievable!
+DialogBottom_Gooey	{c[fe9a10]}Gooey{c[000000]} from {c[fe9a10]}Kirby's Dream Land 3{c[000000]} has\nhopped over for a visit. That oddball!
+DialogBottom_Adeleine	{c[fe9a10]}Adeleine & Ribbon{c[000000]} from {c[fe9a10]}Kirby 64: The Crystal\nShards {c[000000]}are back! Ready your paintbrushes!
+DialogBottom_DarkMetaknight	{c[fe9a10]}Dark Meta Knight{c[000000]} from {c[fe9a10]}Kirby & The Amazing\nMirror{c[000000]} has appeared. How mysterious!
+DialogBottom_Daroach	{c[fe9a10]}Daroach {c[000000]}from {c[fe9a10]}Kirby: Squeak Squad{c[000000]} has\nsneaked in! Hide your treasure!
+DialogWindowUpdateTitle	New {c[fe9a10]}update{c[000000]} available! 
+DialogWindowUpdateText	Kirby Star Allies has been {c[fe9a10]}updated{c[000000]}!\nCheck out all the {c[fe9a10]}new content{c[000000]}!
+WMap.msbt
+ToWMapSelect	Back
+DialogWindowExit	Do you want to return to the\nSelect World screen?
+DialogWindowUnlockEx	There's more adventure to be\nfound! An {c[fe9a10]}Extra Stage{c[000000]} is now\nunlocked!
+DialogWindowUnlockMuseum	You might {c[fe9a10]}meet{c[000000]} legendary\ncharacters! The {c[fe9a10]}Dream Palace{c[000000]}\nis now unlocked!
+DialogWindowUnlockAll	You've activated {c[fe9a10]}all big switches{c[000000]} \nhidden in the world!
+DialogWindowUnlockAbilityRoom	You unlocked the {c[fe9a10]}Ability Planet{c[000000]},\na special place where you can\ngrab any {c[fe9a10]}Copy Ability{c[000000]} you like!
+DialogWindowUnlockExAfterStoryCleared	You've cleared Story Mode!\nThe path to {c[fe9a10]}Extra Planet δ\n{c[000000]}is now unlocked!
+DialogWindowCancelMuseum	You've already used the\n{c[fe9a10]}Dream Rod{c[000000]}. You must {c[fe9a10]}clear a\nstage{c[000000]} to use it again.
+WMapStageName	\x0e\x03\x08\0
+WMapToIllustGallaryText	Picture Gallery
+WMapToIllustGallaryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WMapToIllustGallaryBtn_TypeB	\x0e\x04\t\x02`\0
+WMapToStageListText	Stage List
+WMapToStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WMapToStageListBtn_TypeB	\x0e\x04\n\x02a\0
+WMapLv1NextWinNormal	To Planet Popstar
+WMapLv1NextWinArrow	To Planet Popstar
+WMapLv2PrevWinNormal	To Dream Land
+WMapLv2PrevWinArrow	Back to Dream Land
+WMapLv2NextWinNormal	To Jambastion
+WMapLv2NextWinArrow	To Jambastion
+WMapLv3PrevWinNormal	To Planet Popstar
+WMapLv3PrevWinArrow	Back to Planet Popstar
+WMapLv3NextWinNormal	Fly into Space
+WMapLv3NextWinArrow	Fly into Space
+WMapLv4PrevWinNormal	To Jambastion
+WMapLv4PrevWinArrow	Back to Jambastion
+WMapLv4NextWinNormal	To the Final Battle
+WMapLv4NextWinArrow	Face the Final Battle!
+$StageTitleWindowIn	Enter
+WarpPointMoveStart	Ride
+WSelect.msbt
+WSelectCaptionW1	A disaster of catastrophic proportions has occurred\nin this peaceful land. King Dedede has stolen\nall of the food for himself! The nerve of that guy!\nNow Kirby must set out on a grand adventure\nwith a new group of friends.
+WSelectCaptionW2	Chase the dark hearts across the world of miracles!\nHold \x0e\x04\x17\x02\xc4\0 to wield mighty Friend Abilities as Kirby\nand pals continue their journey of companionship\nacross the vast seas and rolling hills.
+WSelectCaptionW3	Even the stoic Meta Knight has fallen prey to the\nenemy's evil influence, and now their foreboding\nfortress has suddenly appeared. Why have they\ncome to this land? WHY?! Undeterred, Kirby and\nhis friends charge forward with gusto.
+WSelectCaptionW4	Before they knew it, they were in deep space...\nLooking back, they saw that Planet Popstar was\nbut a tiny glimmer in the distance. Kirby and his\nfriends are determined to {s[070]}hopefully{s[100]} protect the peace\n(and tasty naptimes) of their beloved home!\nNow! Become a shining star and FLY!
+WSelectCaptionW5	This "Dark Lord" that Hyness likes to talk about is a\nbeing with no sense of right or wrong. He was born\nonly to destroy...and is known as Void Termina,\nDestroyer of Worlds. Hmm...that sounds\npretty hardcore, so no pulling your punches!\nKirby's biggest battle begins NOW!!
+WSelectToIllustGalleryBtn	Picture Gallery
+WSelectToStageInfoBtn	Stage List
+WSelectToModeSelectBtn	Main Menu
+WSelectUnlockDialog	You cleared Story Mode! The {c[fe9a10]}Ability\nPlanet{c[000000]} and {c[fe9a10]}Extra Planet δ {c[000000]}are\nunlocked. Head for {c[fe9a10]}Far-Flung\nStarlight Heroes{c[000000]}!
+WSelectToModeSelectDialog	Return to Select Mode?
+WSelectGalleryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WSelectGalleryBtn_TypeB	\x0e\x04\t\x02`\0
+WSelectStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WSelectStageListBtn_TypeB	\x0e\x04\n\x02a\0
+Name\AbilityName.msbt
+AbilityNormal	Kirby
+AbilityArtist	Artist
+AbilityIce	Ice
+AbilityWhip	Whip
+AbilityWater	Water
+AbilityWing	Wing
+AbilityEsper	ESP
+AbilityCutter	Cutter
+AbilityCrash	Crash
+AbilityClean	Cleaning
+AbilityCook	Cook
+AbilityStick	Staff
+AbilityStone	Stone
+AbilitySpider	Spider
+AbilityPlasma	Plasma
+AbilitySleep	Sleep
+AbilitySuplex	Suplex
+AbilitySword	Sword
+AbilityNinja	Ninja
+AbilityParasol	Parasol
+AbilityHammer	Hammer
+AbilityBeetle	Beetle
+AbilityBeam	Beam
+AbilityFire	Fire
+AbilityFighter	Fighter
+AbilityFestival	Festival
+AbilityBomb	Bomb
+AbilityMike	Mike
+AbilityYoyo	Yo-Yo
+Name\ArenaDifficultyName.msbt
+D1	Sweet Breeze
+LowerD1	sweet breeze
+D2	Mild Stroll
+LowerD2	mild stroll
+D3	Zesty Expedition
+LowerD3	zesty expedition
+D4	Spicy Adventure
+LowerD4	spicy adventure
+D5	Sizzling Threat
+LowerD5	sizzling threat
+D6	Fiery Showdown
+LowerD6	fiery showdown
+D7	Infernal Crisis
+LowerD7	infernal crisis
+Secret	Soul Melter
+LowerSecret	soul melter
+Name\BossName.msbt
+BossNameBonkers	Bonkers
+BossNameGiantironmom	Grand Mam
+BossTitleGiantironmom	Big Bad Mama
+BossNameMisterfrosty	Mr. Frosty
+BossNameVivitia	Vividria
+BossNameWhispywoods	Whispy Woods
+BossTitleWhispywoods	Guardian of the Forest
+BossNameWhispywoodsEx	Yggy Woods
+BossTitleWhispywoodsEx	Old-Growth Elder
+BossNameKingdedede	King Dedede
+BossTitleKingdedede	His Royal Nemesis
+BossNameMetaKnight	Meta Knight
+BossTitleMetaKnight	The Lone Swordsman
+BossNameBonkersAndMisterfrosty	Bonkers\n& Mr. Frosty
+BossNameBonkersAndVivitia	Bonkers\n& Vividria
+BossNameMisterfrostyAndBugzzy	Mr. Frosty\n& Bugzzy
+BossNameChefKawasakiAndVivitia	Chef Kawasaki\n& Vividria
+BossNameChefKawasakiAndChefKawasaki	Twin Kawasaki
+BossNameVivitiaAndVivitia	Twin Vividria
+BossNameMisterfrostyAndMisterfrosty	Twin Frosty
+BossNameBonkersAndBonkers	Twin Bonkers
+BossNameBugzzyAndBugzzy	Twin Bugzzy
+BossNameBugzzyAndVivitia	Bugzzy & Vividria
+BossNamePonAndKon	Pon & Con
+BossTitlePonAndKon	Dual Defenders
+BossNameGoldPonAndSilverKon	Goldon & Silvox
+BossTitleGoldPonAndSilverKon	The Metal Heavies
+BossNameBugzzy	Bugzzy
+BossNameKracko	Kracko
+BossTitleKracko	Cycloptic Stormcloud
+BossNameTwinKracko	Twin Kracko
+BossTitleTwinKracko	Dual Thunderheads
+BossNameExecutiveIce	Francisca
+BossTitleExecutiveIce	Frozen General
+BossNameExecutiveIceEx	Francisca
+BossTitleExecutiveIceEx	Bringer of Icy Doom
+BossNameExecutiveFire	Flamberge
+BossTitleExecutiveFire	Blazing General
+BossNameExecutiveFireEx	Flamberge
+BossTitleExecutiveFireEx	Bringer of Flame
+BossNameExecutiveThunder	Zan Partizanne
+BossTitleExecutiveThunder	Lightning General
+BossNameExecutiveThunderEx	Zan Partizanne
+BossTitleExecutiveThunderEx	Bringer of Shock
+BossNameChefKawasaki	Chef Kawasaki
+BossNameHiness	Hyness
+BossTitleHiness	Officiant of Doom
+BossNameLastBoss	Void Termina
+BossTitleLastBoss	Destroyer of Worlds
+BossNameLastBossEx	Void Soul
+BossTitleLastBossEx	Essence of Chaos
+BossNameGalacticKnight	Galacta Knight
+BossTitleGalacticKnight	Temporal Warrior
+BossNameSecretHades	Morpho Knight
+BossTitleSecretHades	Reborn Butterfly
+Name\CharaName.msbt
+CharaKirby	Kirby
+CharaWester	Wester
+CharaSirkibble	Sir Kibble
+CharaChilly	Chilly
+CharaKnucklejoe	Knuckle Joe
+CharaBirdon	Birdon
+CharaBurningleo	Burning Leo
+CharaBroomhatter	Broom Hatter
+CharaBladeknight	Blade Knight
+CharaBonkers	Bonkers
+CharaPoppyjr	Poppy Bros. Jr.
+CharaRocky	Rocky
+CharaParasolWaddledee	Parasol Waddle Dee
+CharaWaddledoo	Waddle Doo
+CharaWaterEnemy	Driblee
+CharaKingDedede	King Dedede
+CharaBandanaWaddledee	Bandana Waddle Dee
+CharaMetaknight	Meta Knight
+CharaBeetlie	Beetley
+CharaBioSpark	Bio Spark
+CharaVivitia	Vividria
+CharaNesp	NESP
+CharaBugzzy	Bugzzy
+CharaStickEnemy	Jammerjab
+CharaConce	Plugg
+CharaComo	Como
+CharaGim	Gim
+CharaChefKawasaki	Chef Kawasaki
+CharaGooey	Gooey
+CharaRick	Rick & Kine & Coo
+CharaMarx	Marx 
+CharaAdeleine	Adeleine & Ribbon
+CharaDarkMetaknight	Dark Meta Knight
+CharaDaroach	Daroach
+Name\FriendCopy.msbt
+SwordFlame	Sizzle Sword
+SwordFreeze	Blizzard Sword
+SwordThunder	Zap Sword
+SwordAqua	Splash Sword
+SwordWind	Bluster Sword
+HammerFlame	Sizzle Hammer
+HammerFreeze	Blizzard Hammer
+HammerThunder	Zap Hammer
+HammerAqua	Splash Hammer
+HammerWind	Bluster Hammer
+BombFlame	Sizzle Bomb
+BombFreeze	Blizzard Bomb
+BombThunder	Zap Bomb
+BombAqua	Splash Bomb
+BombWind	Bluster Bomb
+CutterFlame	Sizzle Cutter
+CutterFreeze	Blizzard Cutter
+CutterThunder	Zap Cutter
+CutterAqua	Splash Cutter
+CutterWind	Bluster Cutter
+WhipFlame	Sizzle Whip
+WhipFreeze	Blizzard Whip
+WhipThunder	Zap Whip
+WhipAqua	Splash Whip
+WhipWind	Bluster Whip
+StoneFreeze	Ice Curling
+StoneAqua	Splash Curling
+StoneClean	Clean Curling
+ParasolGuard	Chumbrella
+NinjaFlame	Sizzle Ninja
+NinjaFreeze	Blizzard Ninja
+NinjaThunder	Zap Ninja
+NinjaAqua	Splash Ninja
+NinjaWind	Bluster Ninja
+StickFlame	Sizzle Staff
+StickFreeze	Blizzard Staff
+StickThunder	Zap Staff
+StickAqua	Splash Staff
+StickWind	Bluster Staff
+YoyoFlame	Sizzle Yo-Yo
+YoyoFreeze	Blizzard Yo-Yo
+YoyoThunder	Zap Yo-Yo
+YoyoAqua	Splash Yo-Yo
+YoyoWind	Bluster Yo-Yo
+FighterThrow	Friend Throw
+SuplexThrow	Friend Throw
+FriendRolling	Friend Circle
+FriendBridge	Friend Bridge
+PlasmaAqua	Thundersplash
+WaterFreeze	Icicle Lance
+WaterThunder	Zap Splasher
+FireWind	Rising Sizzler
+SpearFlame	Sizzle Spear
+SpearFreeze	Blizzard Spear
+SpearThunder	Zap Spear
+SpearAqua	Splash Spear
+SpearWind	Bluster Spear
+TwinkleStar	Friend Star
+EsperStone	Geokinesis
+FriendTrain	Friend Train
+TwinkleStarFinal	Star Allies\nSparkler
+CookNormal	Cook Potluck
+CookCharged	Supper Party
+CrashSingle	Crash Rush
+CleanThrow	Friend Super-Vac
+ArtistStone	Rock Painter
+BeetleThrow	Friend Throw
+MikeSingle	Fatal Chorus
+ArtistMulti	Still Life
+Spider	Friend Bounce
+Festival	Festival Dance
+MarxFlame	Sizzle Marx
+MarxFreeze	Blizzard Marx
+MarxThunder	Zap Marx
+MarxAqua	Splash Marx
+MarxWind	Bluster Marx
+AdeleineMulti	Al Fresco
+Name\StageName.msbt
+L1S1	Green Gardens
+L1S2	Donut Dome
+L1S3	Honey Hill
+L1S4	Fruity Forest
+L1S5	Clash at\nCastle Dedede
+L1S6	Extra Eclair
+L2S1	Friendly Field
+L2S2	Reef Resort
+L2S3	Echo's Edge
+L2S4	Nature's Navel
+L2S5	Sacred Square
+L2S6	Inside Islands
+L2S7	Duplex Dream
+L3S1	Gatehouse Road
+L3S2	Eastern Wall
+L3S3	Longview Corridor
+L3S4	Western Outer Wall
+L3S5	Inner Sanctum
+L3S6	Heavenly Hall
+L3S7	Sector A
+L3S8	Sector B
+L3S9	Sector C
+L4S1	Planet Earthfall
+L4S1B	Falluna Moon
+L4S2	Planet Misteen
+L4S2B	Mareen Moon
+L4S3	Planet Caverna
+L4S3B	Grott Moon
+L4S4	Planet Frostak
+L4S4B	Blizzno Moon
+L4S5	Planet Towara
+L4S5B	Gabbel Moon
+L4S6	Star Lavadom
+L4S6B	Sizzlai Moon
+L4S7	Jambandra Base
+L4S7B	The Divine Terminus
+L4S8	Extra Planet α
+L4S9	Extra Planet β
+L4S10	Extra Planet γ
+L4S11	Extra Planet δ
+Museum	Dream Palace
+AbilityRoom	Ability Planet
+Name\WorldName.msbt
+Lv1SubTitle	World of Peace
+Lv1Title	Dream Land
+Lv2SubTitle	World of Miracles
+Lv2Title	Planet Popstar
+Lv3SubTitle	Fortress of Shadows
+Lv3Title	Jambastion
+Lv4SubTitle	Far-Flung
+Lv4Title	Starlight Heroes
+Lv5SubTitle	Kirby
+Lv5Title	Star Allies
+Pause\Ability.msbt
+Normal	Press \x0e\x07\x02\x02\x02\0 to throw Hearts and make all kinds\nof friends! Change up your team for variety,\nand press \x0e\x04\x17\x02\xc4\0 to call upon the power of\nfriendship and gain Friend Abilities\nwhenever you need to!
+InWater	Kirby can swim with the best of them,\nand this time he can even go diagonally!\nYou can't use Hearts in the water, but you\ncan bring certain friends along to back\nyou up with their abilities!
+Plasma	The supercharged Plasma Ability returns!\nWaggle the control stick to build up energy,\nthen fire it off. You can even shoot upwards!\nYou can also zap your friends' weapons\nwith a mighty jolt to grant them\nextra shocking powers!
+Suplex	A fighter with an indomitable spirit!\nUse a Pinpoint Kick or Dash to attack.\nYou can also grab enemies and stars\nand then hurl them away. Hyah! Grab\nfriends with \x0e\x04\x17\x02\xc4\0, then fling them to\nsmash the hardest rocks!
+Cook	A long-lost technique is rediscovered!\nCombine different ingredients to whip up\nall kinds of dishes. Chuck in a friend or two,\nlet it simmer, serve, and voil\xe0! For a little\nextra spice, hold the button longer to bring\nit to a boil and boom! Massive damage.
+Clean	Fly about the sky on your broom and\nsweep up a breeze to blow fallen leaves and\nenemies away. You can even put out flames\nwith a bucketful of water! And perhaps\nold friends will pop up to help you scrub?
+Stick	Become a staff-wielding martial\nartist and mow down your enemies!\nThe product of a strange land, this\nstaff is the ultimate telescoping\nweapon that extends to let you\npole-vault over obstacles.
+Water	A positively refreshing ability with many\napplications! Harness the waves and surf\nalong the ground. Enjoy a powered-up version\nof the Water Gun and carry heavy stones with\nease! And make sure you find out what\nhappens if you freeze a fountain...
+Wing	There's no better feeling than taking\nyour friends soaring through the skies\non your back, controlling the winds at will.\nCharge up weapons with gusts of wind\nto create a great air current and shoot up\nto the heavens!
+Beetle	A flash of light reflects off its horn\nas the king of bugs returns! You can\npound stakes with Hardhead Slam\nand use \x0e\x04\x17\x02\xc4\0 to gather your friends\non your head and fling them into\nthe air!
+Artist	Set out on a voyage of training with a colorful\npaintbrush on your side! Materialize yummies\nto share with your friends. It's like magic!\nArt has the power to save the world!
+Spider	What predator is more impressive?\nNone shall escape such a hunter!\nYou can spin threads with skill to\nexecute the Friend Bounce, which\nwill get your friends up high.\nReady, set...jump!
+Festival	Honk, toot, and bammity-bam! This\nability creates a festival of drums\nand horns, which makes everyone\nbreak into a wild dance! Gather your\nall-star friends and have a party!
+Sword	Use \x0e\x04\x17\x02\xc4\0 to raise your noble blade, and\nthen work with a friend to add Sizzle,\nZap, Blizzard, and other effects to it!\nIf you've got an icy blade, create ice\nand smash it with a Sword Dive. Got\na windy blade? Use its wild updraft!
+Cutter	This boomerang slices grass and vines!\nIf it skims land your friends are burning\nwith fire or drenching with water, it will\ntake on those elements. And if it\nabsorbs wind, it can fly upward. Wreak\nhavoc with your Final Cutter!
+Fire	Its flame techniques burn bright!\nLight fuses, your friends' weapons,\nor whatever you want with this searing\nfire. When these flames get in the\nmiddle of friends, all sorts of fiery\ndevastation is possible!
+Ice	A great way to cool down hot-headed enemies\nand then send them flying as a block of ice\nwith a kick! You can also turn on a dime\nwith skate dash or freeze your friends'\nweapons! You can even give a stone a\nslippery path for a bit of curling!
+Stone	Look cool, be invincible, and slide down\nslopes! You can turn into various things\nand pound down pegs. You can even do some\ncurling with water or ice or float above your\nfriends and then drop on them! Who knows\nwhat sort of stone sculptures you'll see?
+Beam	This crackling attack releases a ton of\nenergy. Shoot a Cycle Beam or fire a\nBeam Blast from midair! And if you\nneed to electrify your friends'\nweapons in a flash, use the rapid-fire\nWave Beam!
+Hammer	A giant hammer inherited from the king\nhimself that can pound pegs flat! You can\ncharge it up for a pulverizing blow, but be\ncareful not to overdo it. Imbue it with a\nfriend's power and use it to fight!
+Parasol	Shake the water off it to attack with a\nsplash or enjoy a floaty flight through\nthe sky. Open it with \x0e\x04\x17\x02\xc4\0 to protect\nyou and your friends from deluges\nand waterfalls. Is there anything\nchummier than sharing an umbrella?
+Bomb	Anyone can pick up a bomb, and if it\nrolls over terrain covered with friendly\nfire or water, the bomb will transform!\nFor a surprise attack, infuse bombs\nwith wind to make them float!
+Ninja	Some battle backup from the village\nof ninjas! Add a friend's power to the\nsword and knives to slash with wind,\nfire, and other attributes. Has a\nninja ever been seen wielding such\nelemental blades? Impressive!
+Fighter	Oh boy! It's the Fighting Copy Ability,\ncomplete with tons of techniques! Grab and\nthrow foes with ease. You can even grab\nand throw...your friends! Throw them\nagainst rocks and other things you\nwant to smash.
+Whip	Flick! Snap! It's the classic whip-cracking\nCopy Ability. Grab and throw items and\nenemies! If there's fire on your whip,\nunleash a blazing lash. With ice, create\na pile of frost, or use Whip Tornado to\nmake a thunderstorm!
+Esper	Disappear with mind powers, just like magic,\nand revel in the effects when you use \x0e\x04\x17\x02\xc4\0\nto tap into your powers! Also, use PK\nInsight to guard yourself, and release a\npsychokinetic charge with PK Electroshift!\nIt's an ESPecially good time!
+Yoyo	There it is, the mischievous yo-yo!\nYo-Yo Up, Yo-Yo Orbit, Break Spin, Walk\nthe Dog—it's all child's play! Add an\nattribute to make it even more powerful.\nWith a variety of moves at your disposal,\nlooking cool has never been easier.
+Sleep	Zzz... Just a...few more...minutes...\n...Please...I mean...just lemme sleep...\nZzz...If you need...to wake me up...\n...just ask...a friend...to...hit...me...zzz...
+Crash	WARNING! DANGER! This is the ultimate\nweapon! One attack and you'll be blown\naway. Pull your friends into a Crash Rush!\nWaggle \x0e\x04\x13\x02\xc0\0 to charge it up for extra\nDANGER! Now everyone's REALLY frantic!
+Mike	Yeah! Yeah! Whooooa-oh-oh-oh! There are\nthree songs to sing with resounding\nenthusiasm! Store up power to pump up\nthe volume. Sing with friends for explosive\nharmony. Gather multiple singers for\na glorious chorus.
+BandanaWaddledee	Is this Dream Friend making a special\nappearance? This fella was selected to\nrepresent the Waddle Dees as they accept their\nperfect attendance award for the Kirby series.\nWhen asked, he said, "Oh, I couldn't!" But he\nwas practicing his spear moves at the time...
+KingDedede	The rival to rival all rivals, ever since Kirby's\nDream Land! This tough guy calls himself a\nking and can take a friend's power and add it\nto that of his hammer... Wait, rather than\nreading about it, you should just try it out!\nGo on! You know you can't resist!
+Metaknight	First introduced way back in Kirby's Adventure,\nthis warrior takes the spirit of chivalry to\nheart. He has set out on a journey of training,\nbut he would never forget his connection\nto his friends. May new friend powers\nawaken and imbue his blade!
+Rick	Three pals from Kirby's Dream Land 2\njoin the fray! They've formed a\ndream-team trio, so they can help\neach other out. Rick rules the land.\nKine swims the seas. Coo soars\nthrough skies. Animal friends forever!
+Gooey	It's Gooey—with the ridiculously long\ntongue! This weird wobbler has hopped\nin from Kirby's Dream Land 3. Not\neven Gooey knows why he's here, but\nwe're all glad to see him show up!
+Marx	The famous jester from Kirby Super\nStar has finally arrived to get in\non the action! Sure, he's had a\ndiabolical past as a final boss, but\nhe'll be your buddy if you keep him\nwell-fed. It's a dream come true!
+Adeleine	The wait is over! This clever artist and her\nfairy companion from Kirby 64: The Crystal\nShards are back on Planet Popstar! They\nmay not be the galaxy's most powerful\nduo, but their perilous paintings and shiny\ncrystals are nothing to scoff at.
+DarkMetaknight	This shadowy figure makes a bold return\nfrom the land of The Amazing Mirror!\nPerhaps he was drawn by the dark hearts,\nbut while his motivations may be shady,\nhe'll sure make a mighty ally. The power of\nthe shadow can pierce through any light!
+Daroach	The illustrious thief from Kirby: Squeak\nSquad is back, and there's nothing\nhe can't—or won't—steal! If making\nfriends is all it takes to find some\ntreasure, this purloiner is happy to tag\nalong with the Squeak Squad in tow!
+FriendsStar	When friends combine their power, a sparkling,\nfluttering star appears! Now everyone can\nshoot stars that fly across the land and sky.\nTake turns using it with \x0e\x07\x02\x02\x02\0, and have\nthe friend in front shoot the weak spot.
+FriendsRolling	When friends combine their power, they can\nform a ring! This big hoop rolls down slopes,\npicking up items, and if you hold the jump\nbutton, the hoop will spring high—BOING!\nIt's a great way to avoid gaps.
+FriendsBridge	When friends combine their power, a\nfriendship bridge appears! The key to\nsolving certain puzzles is moving \x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0\nto adjust the route. This bridge might\neven help you guide you-know-who!
+FriendsTrain	When friends combine their power, they\ncan become a full-steam train! It\nchoo-choos right over walls, charging\nfull speed ahead. It's the Dream\nFriendship Express! Hop on!
+TwinkleStarAllies	Star Allies Sparkler is a secret\ntechnique based on the warmth of giving\nhearts. The desire to save everyone in the\ngalaxy transforms into a sparkling star...\nwhich heads straight for the final boss!
+LastCloseContest	{s[140]}There's NO WAY we can lose after\nmaking it this far! Let fly the\nSparkler Starshot, brave Kirby,\nand finish your final foe!{s[100]}
+Pause\Boss.msbt
+TitleWhispywoods	VS Whispy Woods
+TextWhispywoods	{s[095]}Kirby's familiar foe Whispy Woods is back—\nbright eyed, bushy headed, and dropping\nmore apples than should even be possible!\nUse your Friend Abilities with \x0e\x04\x17\x02\xc4\0,\nand cut him down to size!{s[100]}
+TitleKingdedede	VS King Dedede
+TextKingdedede	Surely King Dedede would never steal\nall the food in the kingdom and hoard\nit for himself... Why would he do such\na vile deed?! Such questions will have to\nwait, as the king is coming for his eternal\nrival with all the fury of a wild beast!
+TitleMetaKnight	VS Meta Knight
+TextMetaKnight	Corrupted by the power of a dark heart,\nMeta Knight's dedication to the purity\nof combat has been eclipsed by a secret\nwild streak that always lurked within him.\nThis once-hidden fury is now unleashed with\nevery stab and thrust of his sword!
+TitlePonKon	VS Pon & Con
+TextPonKon	Pon & Con block the way!\nKitted out in sinister black armor, these\ncombat-ready critters have got a gate to\nguard, and they aren't about to let the\nStar Allies through without a fight!
+TitleYggdrawoods	VS Yggy Woods
+TextYggdrawoods	No—that's not Whispy Woods!\nThis venerable elder is Yggy Woods,\nancient king of trees. Any travelers\nwho stray into his neck of the woods\nwill feel the full force of nature's wrath!
+TitleSPonGKon	VS Goldon & Silvox
+TextSPonGKon	This glittering duo made their home on\na backwater island on a certain planetoid,\nand they'll viciously attack anyone who\nstumbles into their territory. Beware the\nfurry fury of Goldon and Silvox!
+TitleGiantironmom	VS Grand Mam
+TextGiantironmom	Grand Mam prides herself on her\nimpenetrable steel armor! Even the\nbullets of the Friend Star bounce off\nher harmlessly. Team up and experiment\nwith abilities to find her weak points,\nand bring that clanking calamity down!
+TitleKracko1	VS Kracko
+TextKracko1	Even in the far-flung reaches of space,\nas long as there's a sky, Kirby's long-time\nnemesis Kracko can show up and cast a\nshadow across it. But out here, something\nabout his energy feels...different.\nStay on your guard, Star Allies!
+TitleKracko2	VS Twin Kracko
+TextKracko2	Two eyes glare in the gloom like an\nangry face in the sky—this isn't what\nKracko's like back on Popstar! Twice as\nfluffy and twice as mean, Twin Kracko's\ncombo attacks are brutal—but they're\nno match for the power of friendship!
+TitleExecutiveIce	VS Francisca
+TextExecutiveIce	Calm, cool, and collected, Frozen General\nFrancisca is one of three mages at the\nhead of Jambastion's forces. The freezing\nattacks she unleashes are enough to chill\nthe very hearts of those who oppose her.
+TitleExecutiveFire	VS Flamberge
+TextExecutiveFire	One of the three Jambastion mages,\nthe Blazing General Flamberge rains\nfiery vengeance upon any who stand in\nher way. She gets pretty mad if anyone\ndoes anything to upset Francisca. In fact,\nshe's kind of riled up right now...
+TitleExecutiveThunder	VS Zan Partizanne
+TextExecutiveThunder	The dutiful leader of the three Jambastion\nmages, Lightning General Zan Partizanne\nseems to energize the fortress itself\nand uses high-speed attacks to render her\nprey helpless. At the bidding of some\nunknown power, she hunts for dark hearts...
+TitleExecutiveIceRevenge	VS Francisca
+TextExecutiveIceRevenge	Undeterred from her quest to find the\ndark hearts that have rained down across\nthe galaxy, the Frozen General is back\nand tougher than ever before! Her duties\nhave kept her away from Flamberge\nlately... She kind of misses her.
+TitleExecutiveFireRevenge	VS Flamberge
+TextExecutiveFireRevenge	She's supposed to be looking for dark\nhearts, but Flamberge has found her way\nto a nice, toasty spot and is taking a\nbit of a break. She'd like to invite\nFrancisca to join her but worries she\nmight melt in the heat...
+TitleExecutiveThunderRevenge	VS Zan Partizanne
+TextExecutiveThunderRevenge	Zan Partizanne swore an oath of loyalty to\nHyness—even though he has yet to remember\nher overly long name! Her respect for Hyness\nnever falters, thanks to his intoxicating\ncharisma and her deep sense of duty\n(and despite his poor treatment of her).
+TitleExecutiveIceRevengeArena	VS Francisca
+TextExecutiveIceRevengeArena	-{s[095]}Song of Supplication-\nIn spite of all, cold as ice! In spite of all, hard as stone!\nIn spite of all, hear our plea! In spite of all, all alone!\nIn spite of all, we reconcile! In spite of all, we pass the trial!\nIn spite of all, hear us three! We beg of thee! We beg of thee!{s[100]}
+TitleExecutiveFireRevengeArena	VS Flamberge
+TextExecutiveFireRevengeArena	{s[095]}In spite of all, we sing to you!\nPlease hear our pleas and help us too!\nIn spite of all, sadness rose!\nIn spite of all, yearning grows!\n\n\x0e\x15\0\x02\x1e\0We call to you! We dream of you!\nIn spite of all, this all is true!{s[100]}
+TitleExecutiveThunderRevengeArena	VS Zan Partizanne
+TextExecutiveThunderRevengeArena	{s[095]}In spite of all, cold as ice! In spite of all, hard as stone!\nIn spite of it all, it would seem...\nin spite of all, we're but a dream.\n\n\x0e\x15\0\x02\x1e\0Hear our plea, you must! {s[080]}(You must!){s[095]}\nPlease return our hearts to us!{s[100]}
+TitleHiness1	VS Hyness
+TextHiness1	Hyness worships a deity of destruction whom he\nplans to bring back to life. However, a rite gone\nwrong has led to the dark power he needs being\nscattered across the galaxy. Now he seeks to\ngather this power at an altar. Stop him, Star Allies!
+TitleHiness2	VS Hyness
+TextHiness2	His once carefully concealed face now\nexposed, Hyness is on the rampage! Tossing\nthe three unconscious sisters around like rag\ndolls, it's clear he's lost his grip on reality.\nIt's up to the Star Allies to bring an end to\nthis nightmare, and save...everything!
+TitleHiness1Arena	VS Hyness
+TextHiness1Arena	Hyness did not fully grasp how to completely\nbreak the seal. All that was written about\nVoid Termina in the ancient scrolls was that\nthe progenitor of darkness was vanquished by\nfour heroes of yore, using four spears of the\nheart. After that, they were never seen again.
+TitleHiness2Arena	VS Hyness
+TextHiness2Arena	{s[090]}Bonjam = Greeting     Jambuhbye = Goodbye\nJamblasted = Anger    Juh? = Huh?    Vun = Very\nJamanke = Thank you     Japologa = I'm sorry\nJonto = Soon    Jaway = I forgot    Majaja = Again{s[100]}{s[100]}\n{s[100]}{s[080]}Example: "Zan Par...? Jaway majaja! Japologa vun."\nTranslation: "Zan Par...? I forgot again! I'm very sorry."{s[100]}
+TitleLastBoss1	VS Void Termina
+TextLastBoss1	Rise! Oh, Dark Lord of Despair!\nCrush the stars! Lay waste to care!\n\n\x0e\x15\0\x02\x1e\0Rise and cover the land in sorrows!\nMay your symphony of emptiness\nbring the end of all tomorrows!
+TitleLastBoss2	VS Void Termina
+TextLastBoss2	Rise! Oh, Dark Lord of Despair!\nCrush the stars! Lay waste to care!\n\n\x0e\x15\0\x02\x1e\0Upon your wing, dark judgment bring!\nMay your symphony of tragedy\ncause the end of everything!
+TitleLastBoss3	VS Void Termina
+TextLastBoss3	{s[095]}The shocking true form of Void Termina has been\nrevealed! Born from the total absence of care\nand composed of dark energy, he has awakened\nfrom a state of mere existence to that of true\nsentience. He now desires only one thing...{s[100]}\n\x0e\x15\0\x02\xec\xff{s[140]}to CRUSH all opposition!{s[100]}
+TitleLastBoss4	VS Void Termina
+TextLastBoss4	{s[095]}As the spring breeze blows, a young traveler appears.\nAfter greeting new friends and bidding farewell\nto old ones, his path has finally led him here.\nLet's beat this guy already!{s[100]}\n\n\x0e\x15\0\x02\x1e\0{s[150]}After that, lunch and a nap!{s[100]}
+TitleLastBoss4Arena	VS Void Termina
+TextLastBoss4Arena	{s[095]}No one knows from whence he came, only that he has\nexisted for aeons, unchanging and unrelenting.\nPerpetually roaming the cosmos, he has finally arrived.\nAnd now, he has begun to feel. To desire. To think.{s[100]}\n\n\x0e\x15\0\x02\x1e\0{s[140]}Within the Void, there lurks...a Soul!{s[100]}
+TitleLastBossEx1	VS Void Termina
+TextLastBossEx1	Rise! Oh, Dark Lord of Despair!\nCrush the stars! Lay waste to care!\n\n\x0e\x15\0\x02\x1e\0Rise and cover the land in sorrows!\nMay your symphony of emptiness\nbring the end of all tomorrows!
+TitleLastBossEx2	VS Void Termina
+TextLastBossEx2	Rise! Oh, Dark Lord of Despair!\nCrush the stars! Lay waste to care!\n\n\x0e\x15\0\x02\x1e\0Upon your wing, dark judgment bring!\nMay your symphony of tragedy\ncause the end of everything!
+TitleLastBossEx3	VS Void Termina
+TextLastBossEx3	{s[095]}Hatred, obsession, jealousy, greed... The darkness\ngathered by Hyness has transformed into a corrupt\npower within Void Termina that conflicts with his newly\nforged soul. Chaos descends, but...you'll be OK.{s[100]}\n\n\x0e\x15\0\x02\x1e\0{s[140]}The Star Allies have your back!{s[100]}
+TitleLastBossEx4	VS Void Soul
+TextLastBossEx4	{s[090]}No telling if it's true, but according to the ancient scrolls,\nVoid Termina may rise again in other forms depending\non whether positive or negative energy is gathered.\nIt seems this being of darkness will wander the galaxy\nuntil one day he is reborn into a new existence.\nWhen he returns, hopefully it will be as...a friend.{s[100]}
+TitleGalacticKnight	VS Galacta Knight
+TitleBknight	VS Morpho Knight
+TextBknight	{s[090]}On the day of judgment, this fluttery fiend will fly\ninto action. Brought into existence by "the greatest\nwarrior in the galaxy" and reborn as a knight of doom\nthrough years of adversity—now begins an epic battle\nwith a pure being twisted by a dark past.{s[100]}
+Pause\CommandAdeleine.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Brush Slash
+C12	Dash + \x0e\x07\x01\x02\x01\0
+D12	Brush Force
+C13	\x0e\x04\x15\x02\xc2\0 + press and release \x0e\x07\x01\x02\x01\0
+D13	Painter
+C14	\x0e\x04\x15\x02\xc2\0 + press and hold \x0e\x07\x01\x02\x01\0,\nthen release
+D14	Ado's Painter
+C15U	Use Ado's Painter to draw a boss and ride it into battle!
+C21	\x0e\x07\0\x02\0\0 in midair
+D21	Ribbon Flight
+C22	Ribbon Flight + \x0e\x07\x01\x02\x01\0
+D22	Ribbon's Crystal
+C23	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D23	Fairy Dance
+C24U	Use Fairy Dance to grab items!
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D31	Canvas Cover
+C32	Press and hold \x0e\x04\x17\x02\xc4\0
+D32	Al Fresco
+Pause\CommandArtist.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Dash + \x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	Press \x0e\x07\x01\x02\x01\0 after Sculpture
+C23K	Press and hold \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x03\x02\x03\0
+D11	Brush Slash
+D12	Brush Splash
+D13	Painter
+D21	Sculpture
+D22	Creative Destruction
+D23	Painbrush
+C51	Press and hold \x0e\x04\x17\x02\xc4\0
+D51	Still Life
+C53W	During \x0e\x05\x0c\x02\x0c\0's Stone Change,\nattack with Brush Slash, etc.
+D53	Rock Painter
+Pause\CommandBandanaWaddledee.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	After pressing \x0e\x07\x01\x02\x01\0, press \x0e\x04\x16\x02\xc3\0 + \x0e\x07\x01\x02\x01\0
+C13W	\x0e\x07\x01\x02\x01\0 repeatedly
+C14	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C23	Dash + \x0e\x07\x01\x02\x01\0
+C24	Dash + \x0e\x07\x01\x02\x01\0 repeatedly in midair
+C31	Dash + hold \x0e\x07\x01\x02\x01\0, release
+C32	\x0e\x07\x01\x02\x01\0 underwater
+C33	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 underwater
+C34	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 underwater
+D11	Spear Thrust
+D12	Back Thrust
+D13	Multispear Thrust
+D14	Waddle Copter
+D21	Skyward Thrust
+D22	Moon Drop
+D23	Waddle Spear Throw
+D24	Waddle Spear Barrage
+D31	Waddle Triple Throw
+D32	Underwater Thrust
+D33	Surface Thrust
+D34	Underwater Downward Thrust
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x1d\x02\x1d\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1d\x02\x1d\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1d\x02\x1d\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Spear
+D53	Blizzard Spear
+D54	Zap Spear
+Pause\CommandBeam.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Dash + \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C21	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C22W	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+D11	Beam Whip
+D12	Cycle Beam
+D13	Beam Blast
+D21	Wave Beam
+D22	Capture Beam
+C51UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}electrify{c[000000]} it! These are some combos!
+C52	\x0e\x06\x02\x02r\0 + \x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x02\x02r\0 + \x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x02\x02r\0 + \x0e\x05\x1a\x02\x1a\0
+D52	Zap Sword
+D53	Zap Cutter
+D54	Zap Bomb
+Pause\CommandBeetle.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0 repeatedly
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14	Dash + \x0e\x07\x01\x02\x01\0 + \x0e\x04\x17\x02\xc4\0
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x07\0\x02\0\0 in midair
+C23	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C31	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C32	Catching Horn + either \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C33	Catching Horn + \x0e\x07\x01\x02\x01\0
+C41	Catching Horn + \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C42	Catching Horn + \x0e\x04\x16\x02\xc3\0 + \x0e\x07\x01\x02\x01\0
+C43	Catching Horn + \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+D11	Horn Upper
+D12	Horn Flurry
+D13	Rocket Horn
+D14	Rocket Horn Dive
+D21	Spiral Horn
+D22	Hover Wing
+D23	Hardhead Slam
+D31	Catching Horn
+D32	Carry Around
+D33	Quick Throw
+D41	Throw Drop
+D42	Crown Drop
+D43	Slamming Drill
+D51	Friend Hoist
+D52	Friend Carry
+D53	Friend Throw
+C51W	Friends jump and touch your\nhand while you raise it with \x0e\x04\x17\x02\xc4\0
+C52	Friend Hoist + \x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C53	Friend Hoist + \x0e\x07\x01\x02\x01\0
+Pause\CommandBomb.msbt
+C11	Press and hold \x0e\x07\x01\x02\x01\0
+C12	Release \x0e\x07\x01\x02\x01\0 during Bomb Prep
+C13	\x0e\x04\x13\x02\xc0\0 during Bomb Prep
+C14	Don't release bomb during Bomb Prep
+C21	Dash + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x07\x01\x02\x01\0 near an enemy
+C23	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+D11	Bomb Prep
+D12	Bomb Throw
+D13	Target Throw
+D14	Self-Destruct
+D21	Bomb Bowl
+D22	Bomb Drop
+D23	Bomb Set
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x1a\x02\x1a\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1a\x02\x1a\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1a\x02\x1a\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Bomb
+D53	Blizzard Bomb
+D54	Zap Bomb
+Pause\CommandChefKawasaki.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C23UW	Cook Pot and Souper Supper will be {c[fe9a10]}available{c[000000]}\nfor Chef Kawasaki after some time passes!
+C21	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C22	Press and hold \x0e\x07\x01\x02\x01\0 longer before releasing.
+D11	Ladle
+D12	Up Ladle
+D13	Plateware
+D21	Cook Pot
+D22	Souper Supper
+C51W	Use Cook Pot with friends nearby
+C52W	Use Souper Supper with friends nearby
+D51	Cook Potluck
+D52	Supper Party
+Pause\CommandClean.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0 while pressing \x0e\x07\x01\x02\x01\0
+C13	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C21	\x0e\x04\x17\x02\xc4\0 + press and release \x0e\x07\x01\x02\x01\0
+C22	Press and hold \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0,\nand then release
+C23	Dash + \x0e\x07\x01\x02\x01\0
+C24	Dash + \x0e\x07\x01\x02\x01\0 in midair
+D11	Sweep
+D12	Sweep and Move
+D13	Broom Flick
+D21	Clean Pitch
+D22	Charged Clean Pitch
+D23	Clean Nago
+D24	Clean ChuChu
+C51	Vacuum jumping friends with \x0e\x04\x17\x02\xc4\0
+D51	Friend Vacuum
+C52	\x0e\x07\x01\x02\x01\0 after using Friend Vacuum
+D52	Friend Super-Vac
+C53UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]} to\n{c[fe9a10]}add wind{c[000000]} or {c[fe9a10]}water{c[000000]} to it. Here's a combo!
+C54	\x0e\x06\x01\x02q\0 + \x0e\x05\x11\x02\x11\0
+D54	Bluster Sword
+Pause\CommandCook.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+D11	Cook Pot
+D12	Souper Supper
+C51W	Use Cook Pot when friends are\nwith you
+C52W	Use Souper Supper when friends\nare with you
+D51	Cook Potluck
+D52	Supper Party
+Pause\CommandCrash.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12W	Hold \x0e\x07\x01\x02\x01\0 + waggle \x0e\x04\x13\x02\xc0\0 (or shake\ncontroller), and then release \x0e\x07\x01\x02\x01\0
+D11	Crash Fireball
+D12	Supernova
+C51W	Use Crash Fireball or Supernova\nwhen friends are with you
+D51	Crash Rush
+Pause\CommandCutter.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14	Press and hold \x0e\x07\x01\x02\x01\0 in midair
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C22	\x0e\x07\x01\x02\x01\0 near an enemy
+C23W	\x0e\x07\x01\x02\x01\0 repeatedly when\nnear an enemy
+D11	Cutter Boomerang
+D12	Hyper Boomerang
+D13	Cutter Dash
+D14	Sweep Cutter
+D21	Cutter Drop
+D22	Cleaving Cutter
+D23	Final Cutter
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x07\x02\x07\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x07\x02\x07\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x07\x02\x07\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Cutter
+D53	Blizzard Cutter
+D54	Zap Cutter
+Pause\CommandDarkMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0 with full health
+C13	\x0e\x07\x01\x02\x01\0 twice after Overhead Slash
+C14	\x0e\x07\x01\x02\x01\0 after Dark Triple Slash
+C21	Dash + \x0e\x07\x01\x02\x01\0
+C22	Dark Drill + \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C23	Dark Spiral + \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C24	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C25	\x0e\x07\x01\x02\x01\0 after Dark Crosscut
+C31	\x0e\x07\x01\x02\x01\0 in midair
+C32	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C33	Press and hold \x0e\x07\x01\x02\x01\0,\nand then release + \x0e\x04\x17\x02\xc4\0
+C34	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0
+C35	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C41	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C43	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C44	\x0e\x07\0\x02\0\0 in midair
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	Overhead Slash
+D12	Dark Beam
+D13	Dark Triple Slash
+D14	Dark Multithrust - Edge Smash
+D21	Dark Drill - Upper Edge
+D22	Dark Spiral
+D23	Meteor Edge
+D24	Dark Crosscut
+D25	Triple Thrust
+D31	Dark Chop
+D32	Mirror Spin Slash
+D33	Dark Calibur
+D34	Triple Crescent Shot
+D35	Blade Burst
+D41	Wall of Mirrors
+D42	Dark Mirror
+D43	Dark Mirror - Ring
+D44	Hover
+D45	Reflector Shield
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05$\x02$\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05$\x02$\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05$\x02$\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Sword
+D53	Blizzard Sword
+D54	Zap Sword
+Pause\CommandDaroach.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Ice Shot
+C12	Press and hold \x0e\x07\x01\x02\x01\0
+D12	Charge
+C13	Charge + \x0e\x07\0\x02\0\0 or \x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D13	Charged Up
+C14	Small Charge, then release \x0e\x07\x01\x02\x01\0
+D14	Ice Laser
+C15	Large Charge, then release \x0e\x07\x01\x02\x01\0
+D15	Ultra Ice Laser
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D21	Triple Star
+C22	\x0e\x04\x17\x02\xc4\0 + press and release \x0e\x07\x01\x02\x01\0
+D22	Daroach Bomb
+C23	\x0e\x04\x17\x02\xc4\0 + hold \x0e\x07\x01\x02\x01\0 briefly,\nthen release
+D23	Daroach Fire Bomb
+C31	\x0e\x04\x15\x02\xc2\0 + press and release \x0e\x07\x01\x02\x01\0
+D31	Summon Spinni
+C32	\x0e\x04\x15\x02\xc2\0 + hold \x0e\x07\x01\x02\x01\0 briefly\nbefore releasing
+D32	Summon Doc
+C33	\x0e\x04\x15\x02\xc2\0 + hold \x0e\x07\x01\x02\x01\0 even\nlonger before releasing
+D33	Summon Storo
+C41	Dash + \x0e\x07\x01\x02\x01\0
+D41	Hunter Claw
+C42	\x0e\x07\x01\x02\x01\0 near an enemy
+D42	Scratch Out
+C43	Scratch Out, then \x0e\x07\x01\x02\x01\0
+D43	Cross Claw
+C44	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D44	Smack-in-the-Box
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 in midair
+D45	Teleport
+Pause\CommandEsper.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Hold \x0e\x07\x01\x02\x01\0 + move \x0e\x04\x13\x02\xc0\0
+C13	Hold \x0e\x07\x01\x02\x01\0 for a long\ntime + move \x0e\x04\x13\x02\xc0\0
+C14	Dash + press and hold \x0e\x07\x01\x02\x01\0
+C21	Vanish, then release \x0e\x07\x01\x02\x01\0
+C22W	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\nright before getting hit
+C23W	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\nwhen getting hit
+D11	Psychokinesis
+D12	PK Shift
+D13	PK Electroshift
+D14	Vanish
+D21	Reappear
+D22	PK Evade
+D23	PK Insight
+C51	\x0e\x05\x06\x02\x06\0 + \x0e\x05\x0c\x02\x0c\0
+D51	Geokinesis
+C52UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}electrify{c[000000]} it! These are some combos!
+C53	\x0e\x06\x02\x02r\0 + \x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0 + \x0e\x05\x07\x02\x07\0
+D53	Zap Sword
+D54	Zap Cutter
+Pause\CommandFestival.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Dance Solo
+C51W	Use Dance Solo with friends
+D51	Festival Dance
+Pause\CommandFighter.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Press and hold \x0e\x07\x01\x02\x01\0
+C13	Dash + press and release \x0e\x07\x01\x02\x01\0
+C14	Dash + press and hold \x0e\x07\x01\x02\x01\0
+C21	Press and release \x0e\x07\x01\x02\x01\0 in midair
+C22	Press and hold \x0e\x07\x01\x02\x01\0 in midair
+C23	\x0e\x04\x17\x02\xc4\0 and hold \x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C31	\x0e\x04\x15\x02\xc2\0 + hold \x0e\x07\x01\x02\x01\0 briefly\nbefore releasing
+C32	\x0e\x04\x15\x02\xc2\0 + hold \x0e\x07\x01\x02\x01\0 even\nlonger before releasing
+C33	\x0e\x04\x15\x02\xc2\0 + hold \x0e\x07\x01\x02\x01\0 even\nlonger before releasing
+C34	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0 + press and hold \x0e\x07\x01\x02\x01\0
+C41	Press and release \x0e\x07\x01\x02\x01\0\nnear an enemy in midair
+C42	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C43W	Foe Grab + \x0e\x07\x01\x02\x01\0, or \nFoe Grab + either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0
+C44	Foe Grab + either \x0e\x04\x15\x02\xc2\0/\x0e\x04\x16\x02\xc3\0
+D11	Vulcan Jab
+D12	Smash Punch
+D13	Leg Sweep
+D14	Spin Kick
+D21	Down Kick
+D22	Double Kick
+D23	Rising Break
+D24	Sky Kick
+D31	Force Blast
+D32	Mega Force Blast
+D33	Giga Force Blast
+D34	Instant Mega Force Blast
+D41	Moon Somersault Kick
+D42	Foe Grab
+D43	Arm Throw
+D44	Judo Throw
+C51W	Friends jump into your arms when\nyou raise your hand with \x0e\x04\x17\x02\xc4\0
+D51	Friend Grab
+C52	Throw the friend you're holding in\ndifferent directions with \x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0
+D52	Friend Throw
+Pause\CommandFire.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Fire Breath
+C12	Fire Breath + \x0e\x04\x13\x02\xc0\0
+D12	Target Fire
+C13	Press and hold \x0e\x04\x16\x02\xc3\0 during Fire Breath
+D13	Fireball Inferno
+C14	Dash + \x0e\x07\x01\x02\x01\0
+D14	Burn
+C15	\x0e\x07\0\x02\0\0 during Burn
+D15	Searing Burn
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D21	Fireball Spin
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 prior to landing
+D22	Fireball Roll
+C23	Press \x0e\x07\0\x02\0\0 during Fireball Roll
+D23	Fireball Jump
+C24W	Touch a wall during\nFireball Roll or Fireball Spin
+D24	Fireball Climb
+C51	\x0e\x06\x04\x02t\0 + \x0e\x06\x01\x02q\0
+C52UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add fire{c[000000]} to it! These are some combos!
+C53	\x0e\x06\x04\x02t\0 + \x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x04\x02t\0 + \x0e\x05\x07\x02\x07\0
+D51	Rising Sizzler
+D53	Sizzle Sword
+D54	Sizzle Cutter
+Pause\CommandFriendCoop.msbt
+C61	Jump on top of friend + \x0e\x04\x15\x02\xc2\0
+C62	Piggyback on CPU
+C63	During piggyback, press and\nhold \x0e\x04\x17\x02\xc4\0/\x0e\x07\x03\x02\x03\0
+C64	During piggyback, press and hold \x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\nthen release at same time with friends
+C65	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x07\x03\x02\x03\0
+D61	Ride Piggyback
+D62	Control Piggyback
+D63	Dismount
+D64	Team Attack
+D65	Select a Friend to Part With
+Pause\CommandFriendsBridge.msbt
+D11	Move up
+D12	Move down
+C11	\x0e\x04\x17\x02\xc4\0
+C12	\x0e\x04\x15\x02\xc2\0
+Pause\CommandFriendsRolling.msbt
+D11	Jump
+D12	Jump high
+C11	\x0e\x07\0\x02\0\0
+C12	Press and hold \x0e\x07\0\x02\0\0
+Pause\CommandFriendsStar.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Star Shot
+C12	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+D12	Milky Way
+C13	\x0e\x07\x02\x02\x02\0
+D13	Rider Switch
+C14	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D14	Star Guard
+C15	Eat Candy
+D15	Shooting Star
+Pause\CommandFriendsTrain.msbt
+D11	Jump
+C11	\x0e\x07\0\x02\0\0
+Pause\CommandGooey.msbt
+C11U	Use tongue attacks to grab items
+C12	Press and release \x0e\x07\x01\x02\x01\0
+C13	\x0e\x07\x01\x02\x01\0 repeatedly
+C14	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C15W	Snack Lick + \x0e\x07\x01\x02\x01\0/\nSnack Lick + \x0e\x04\x14\x02\xc1\0
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	Press and hold \x0e\x07\x01\x02\x01\0 during\nParasol Gooey
+C23	Dash + \x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C25	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C31	\x0e\x07\0\x02\0\0 in midair
+C32	\x0e\x07\x01\x02\x01\0 during Mock Matter
+C33	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D12	Quick Lick
+D13	Flicker Lick
+D14	Snack Lick
+D15	Tongue Slingshot
+D21	Parasol Gooey
+D22	Parasol Spin
+D23	Burning Gooey
+D24	Stone Gooey
+D25	Dark Laser Flare
+D31	Mock Matter
+D32	Dark Laser
+D33	Protective Bag
+C51W	Friends jump on your tongue\nwhen you raise it with \x0e\x04\x17\x02\xc4\0
+D51	Friend Grab
+C52	Throw the friend you're holding in\ndifferent directions with \x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0
+D52	Friend Throw
+C53UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add water{c[000000]} to it. Here's a combo!
+C54	\x0e\x06\0\x02p\0 + \x0e\x05\x11\x02\x11\0
+D54	Splash Sword
+Pause\CommandHammer.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14	\x0e\x07\x01\x02\x01\0 in midair
+C15	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	During Charge Hammer Flip \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	Dash + \x0e\x07\x03\x02\x03\0
+C24	\x0e\x07\x01\x02\x01\0 underwater
+D11	Hammer
+D12	Hammer Twirl
+D13	Hammer Swing
+D14	Giant Swing
+D15	Ultra-Giant Swing
+D21	Charge Hammer Flip
+D22	Move while charging
+D23	Hammer Throw
+D24	Underwater Wheel
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x14\x02\x14\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x14\x02\x14\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x14\x02\x14\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Hammer
+D53	Blizzard Hammer
+D54	Zap Hammer
+Pause\CommandIce.msbt
+C11	Dash
+C12	\x0e\x07\x01\x02\x01\0
+C13	\x0e\x07\x01\x02\x01\0 in midair
+C14	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C21	Dash + hold \x0e\x07\x01\x02\x01\0, or press\n\x0e\x07\x01\x02\x01\0 repeatedly
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 while dashing
+C23	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C24	Ice Suction + \x0e\x07\x01\x02\x01\0
+C31	Touch a frozen enemy
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C33	While using Ice Block,\nrelease \x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	Ice Skate
+D12	Ice Breath
+D13	Ice Sprinkle
+D14	Super Ice Sprinkle
+D21	Ice Storm
+D22	Ice Ball
+D23	Ice Suction
+D24	Ice Ejection
+D31	Ice Kick
+D32	Ice Block
+D33	Ice Scatter
+C51UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add ice{c[000000]} to it! These are some combos!
+C52	\x0e\x06\x03\x02s\0 + \x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x03\x02s\0 + \x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x03\x02s\0 + \x0e\x05\x0c\x02\x0c\0
+D52	Blizzard Sword
+D53	Blizzard Cutter
+D54	Ice Curling
+Pause\CommandInWater.msbt
+C11	\x0e\x04\x13\x02\xc0\0
+C12	\x0e\x07\0\x02\0\0
+C13	\x0e\x07\x01\x02\x01\0 while underwater
+C14U	Kirby can use some Copy Abilities underwater.
+D11	Swim
+D12	Swim Up
+D13	Water Gun
+Pause\CommandKingDedede.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14	\x0e\x07\x01\x02\x01\0 in midair
+C15	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C22	During Dedede Hammer Flip \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	Dash + \x0e\x07\x03\x02\x03\0
+C24	Dash + \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C31	\x0e\x07\x01\x02\x01\0 underwater
+C32	\x0e\x07\0\x02\0\0 in midair
+C33	\x0e\x07\x01\x02\x01\0 during Hover
+D11	Hammer
+D12	Hammer Twirl
+D13	Giant Dedede Swing
+D14	Giant Swing
+D15	Ultra-Giant Swing
+D21	Dedede Hammer Flip
+D22	Move While Charging
+D23	Dedede Hammer Throw
+D24	Head Slide
+D31	Underwater Hammer Swing
+D32	Hover
+D33	Air Bullet
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x1e\x02\x1e\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1e\x02\x1e\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1e\x02\x1e\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Hammer
+D53	Blizzard Hammer
+D54	Zap Hammer
+Pause\CommandLastCloseContest.msbt
+Pause\CommandMarx.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0 during Jester Ball Ride
+C13	Press and hold \x0e\x07\x01\x02\x01\0 + \x0e\x04\x13\x02\xc0\0\nduring Jester Ball Ride
+C14	Dash + \x0e\x07\x01\x02\x01\0
+C15	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C21	\x0e\x07\x01\x02\x01\0 near an enemy
+C22	\x0e\x07\0\x02\0\0 in midair
+C23	Press and release \x0e\x07\x01\x02\x01\0 during\nRadiant Flight
+C24	Press and hold \x0e\x07\x01\x02\x01\0 during\nRadiant Flight, then release
+C25	Dash and press \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C31	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C32	Fly into the ground using\nMarx Flip Ultima
+C33	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C34	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 during Rush
+C35	\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 during Rush
+D11	Jester Ball Ride
+D12	Ball Kick
+D13	Change Kick Angle
+D14	Ball Kick Shot
+D15	Time-Bomb Jester Ball
+D21	Prank Kick
+D22	Radiant Flight
+D23	Jester Ball Spit-Drop
+D24	Black Hole
+D25	Marx Megaspin
+D31	Marx Flip Ultima
+D32	Shadow Uppercut
+D33	Rush
+D34	Flip Ultima Combo
+D35	Spin Combo
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05!\x02!\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05!\x02!\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05!\x02!\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Marx
+D53	Blizzard Marx
+D54	Zap Marx
+Pause\CommandMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0 with full health
+C13	\x0e\x07\x01\x02\x01\0 twice after Overhead Slash
+C14	\x0e\x07\x01\x02\x01\0 after Meta Triple Slash
+C21	Dash + \x0e\x07\x01\x02\x01\0
+C22	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C23	\x0e\x07\x01\x02\x01\0 in midair
+C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C31	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C32	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C33	Press and hold \x0e\x07\x01\x02\x01\0,\nand then release + \x0e\x04\x17\x02\xc4\0
+C41	Dash and press \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C42	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C43	\x0e\x07\0\x02\0\0 in midair
+C44	\x0e\x07\x01\x02\x01\0 underwater
+D11	Overhead Slash
+D12	Knight Beam
+D13	Meta Triple Slash
+D14	Meta Multithrust
+D21	Piercing Slash
+D22	Knight Spin
+D23	Meta Chop
+D24	Down Thrust
+D31	Up Thrust
+D32	Meta Spin Slash
+D33	Mach Tornado
+D41	Meta Condor Dive
+D42	Shuttle Loop
+D43	Hover
+D44	Underwater Spin
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x1f\x02\x1f\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1f\x02\x1f\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1f\x02\x1f\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Sword
+D53	Blizzard Sword
+D54	Zap Sword
+Pause\CommandMike.msbt
+C11	\x0e\x07\x01\x02\x01\0 (first press)
+C12	\x0e\x07\x01\x02\x01\0 (second press)
+C13	\x0e\x07\x01\x02\x01\0 (third press)
+C14W	\x0e\x07\x01\x02\x01\0 and waggle \x0e\x04\x13\x02\xc0\0 (or shake controller),\nand then release \x0e\x07\x01\x02\x01\0 (third press)
+D11	Megaphone
+D12	Desk Mike
+D13	Stand Mike
+D14	Encore
+C51W	Use Stand Mike or Encore\nwith a friend nearby
+D51	Fatal Chorus
+Pause\CommandNinja.msbt
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Press and hold \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0, and then \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C23	Press and hold \x0e\x07\x01\x02\x01\0 near an enemy
+C24	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C31	Hold \x0e\x04\x18\x02\xc5\0 against a wall in midair
+C32	\x0e\x07\x01\x02\x01\0 during Wall Cling
+C33	\x0e\x07\0\x02\0\0 during Wall Cling
+C41W	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\nright before getting hit
+C42	\x0e\x07\x01\x02\x01\0 while floating on water's surface
+D11	Knife Throw
+D12	Shock
+D13	Stealth Slash
+D14	Ninja Kick
+D21	Smoke Screen
+D22	Blossom Storm
+D23	Quad Shock
+D24	Air Drop
+D31	Wall Cling
+D32	Wall Strike
+D33	Wall Jump
+D41	Clone Technique
+D42	Stealth Water Gun
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x12\x02\x12\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x12\x02\x12\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x12\x02\x12\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Ninja
+D53	Blizzard Ninja
+D54	Zap Ninja
+Pause\CommandNormal.msbt
+C11	\x0e\x07\0\x02\0\0
+C12	\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0 after inhaling a foe or object
+C14	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\0\x02\0\0
+C21	Quickly \x0e\x04\x14\x02\xc1\0/\x0e\x04\x14\x02\xc1\0\x0e\x16\0\0\x0e\x04\x14\x02\xc1\0
+C22	\x0e\x04\x15\x02\xc2\0\x0e\x04\x15\x02\xc2\0 in midair
+C23	\x0e\x07\x02\x02\x02\0
+C24W	Press and hold \x0e\x07\x03\x02\x03\0/\x0e\x04\x12\x02\x95\0
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x04\x13\x02\xc0\0
+C33	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 in midair
+D11	Jump/Hover
+D12	Inhale/Spit
+D13	Swallow/Copy
+D14	Slide
+D21	Dash
+D22	Quick Fall
+D23	Throw Friend Heart
+D24	Unfriend/Drop Copy Ability
+D31	Guard
+D32	Dodge
+D33	Air Dodge
+Pause\CommandParasol.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Press and hold \x0e\x07\x01\x02\x01\0
+C13	Either of \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0 during Parasol Shield
+C14	Dash + \x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C23W	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C24	Activates while falling
+C31	\x0e\x07\x01\x02\x01\0 underwater
+C32	\x0e\x07\x01\x02\x01\0 while floating on water's surface
+C33	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 underwater
+D11	Parasol Swing
+D12	Parasol Shield
+D13	Change Shield Direction
+D14	Parasol Drill
+D21	Parasol Twirl
+D22	Parasol Dive
+D23	Circus Throw
+D24	Parasol Drift
+D31	Underwater Parasol Drill
+D32	Surface Drill Spray
+D33	Underwater Parasol Dive
+C51	\x0e\x04\x17\x02\xc4\0
+D51	Chumbrella
+C52UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add water{c[000000]} to it! These are some combos!
+C53	\x0e\x06\0\x02p\0 + \x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\0\x02p\0 + \x0e\x05\x07\x02\x07\0
+D53	Splash Sword
+D54	Splash Cutter
+Pause\CommandPlasma.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Plasma Needle
+C12	Waggle \x0e\x04\x13\x02\xc0\0 in various directions/\nshake controller
+D12	Plasma Charge
+C13	Small Plasma Charge \x0e\x07\x01\x02\x01\0
+D13	Plasma Arrow
+C14	Medium Plasma Charge \x0e\x07\x01\x02\x01\0
+D14	Plasma Laser
+C15	Large Plasma Charge \x0e\x07\x01\x02\x01\0
+D15	Plasma Wave
+C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D21	Up Plasma Needle
+C22	Small Plasma Charge \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D22	Up Plasma Arrow
+C23	Medium Plasma Charge \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D23	Plasma Scatter
+C24	Large Plasma Charge \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D24	Sparking Plasma Bullet
+C31W	Medium Plasma Charge\nwill activate
+D31	Plasma Barrier
+C32W	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x04\x13\x02\xc0\0\nduring Plasma Barrier
+D32	Light-Speed Dash
+C51	\x0e\x06\x02\x02r\0 + \x0e\x05\x05\x02\x05\0
+C52UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}electrify{c[000000]} it! These are some combos!
+C53	\x0e\x06\x02\x02r\0 + \x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0 + \x0e\x05\x07\x02\x07\0
+D51	Thundersplash
+D53	Zap Sword
+D54	Zap Cutter
+Pause\CommandRick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Dash + \x0e\x07\x01\x02\x01\0
+C13	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C14	\x0e\x07\0\x02\0\0 in midair
+C15	\x0e\x07\x01\x02\x01\0 in midair after Flutter
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x07\x01\x02\x01\0 underwater
+C23	Hold \x0e\x07\x01\x02\x01\0 underwater
+C24	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C25	Stomp on enemies as Rick
+D11	Fire Rick
+D12	Stone Rick
+D13	Parasol Coo
+D14	Flutter
+D15	Cutter Coo
+D21	Fish Flop
+D22	Ice Kine
+D23	Kine Freeze
+D24	Protective Bag
+D25	Stomp
+C51UW	Raise your nose with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05 \x02 \0 + \x0e\x06\x03\x02s\0
+D52	Ice Curling
+C53UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]} to\n{c[fe9a10]}add fire{c[000000]}, {c[fe9a10]}water{c[000000]}, or {c[fe9a10]}wind{c[000000]} to it! These are some combos!
+C54	\x0e\x06\x04\x02t\0 + \x0e\x05\x11\x02\x11\0
+D54	Sizzle Sword
+Pause\CommandSleep.msbt
+C11	When swallowing
+C12	Waggle \x0e\x04\x13\x02\xc0\0 in various directions/\nshake controller
+C51W	Friends pop the nose balloon\nto wake Kirby up
+D11	Sleep
+D12	Early Wake-Up
+D51	Friend Wake-Up Call
+Pause\CommandSpider.msbt
+D11	String Shot
+C11	Press and release \x0e\x07\x01\x02\x01\0
+D12	Net Work
+C12	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+D13	Skyward Web
+C13	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D21	Web Sling
+C21	Dash + \x0e\x07\x01\x02\x01\0
+D22	Web Scatter
+C22	Dash + \x0e\x07\x01\x02\x01\0 in midair
+D24	Downward Web
+C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D25	Pod Kick
+C25	When touching pod
+D31	Pod Snatch
+C31	\x0e\x07\x01\x02\x01\0 when near a pod
+D32	Pod Slam
+C32	Pod Snatch + \x0e\x07\x01\x02\x01\0 / Pod Snatch + \x0e\x04\x14\x02\xc1\0
+D33	Pod Slamabam
+C33	Pod Snatch + \x0e\x04\x17\x02\xc4\0, \x0e\x04\x16\x02\xc3\0, or \x0e\x04\x15\x02\xc2\0
+D34	Pod Guard
+C34	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D51	Bouncy Web
+C51	\x0e\x04\x17\x02\xc4\0
+D52	Friend Bounce
+C52	Jump and touch Bouncy Web
+Pause\CommandStick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	After pressing \x0e\x07\x01\x02\x01\0, press \x0e\x04\x16\x02\xc3\0 + \x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C21	\x0e\x07\x01\x02\x01\0 repeatedly
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C23W	Press \x0e\x07\x01\x02\x01\0 repeatedly during Pole Vault
+C31	Dash + press and release \x0e\x07\x01\x02\x01\0
+C32	Dash + hold \x0e\x07\x01\x02\x01\0, release
+C33	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C34W	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0\nright before getting hit
+C41	\x0e\x07\x01\x02\x01\0 underwater
+C42	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 underwater
+C43	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 underwater
+D11	Jab
+D12	Back Jab
+D13	Up Jab
+D14	L-R Jab
+D21	Raging Staff
+D22	Pole Vault
+D23	Unrelenting Staff
+D31	Long Jab
+D32	Super Long Jab
+D33	Spinning Staff
+D34	Staff Counter
+D41	Wet Jab
+D42	Wet Up Jab
+D43	Wet Down Jab
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x0b\x02\x0b\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x0b\x02\x0b\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x0b\x02\x0b\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Staff
+D53	Blizzard Staff
+D54	Zap Staff
+Pause\CommandStone.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0 in midair
+C13	Dash + \x0e\x07\x01\x02\x01\0
+C14U	Block most enemy attacks as a stone!
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C22	\x0e\x04\x17\x02\xc4\0 + press and release \x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x17\x02\xc4\0 and hold \x0e\x07\x01\x02\x01\0
+C24	\x0e\x07\x01\x02\x01\0 when on a slope
+C25	Dash while transformed
+D11	Stone Change
+D12	Stone Smash
+D13	Turbo Stone
+D21	Heavy Smash
+D22	Stone Uppercut
+D23	Mighty Uppercut
+D24	Slope Slide
+D25	Spin
+C51UW	Raise your hand with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x0c\x02\x0c\0 + \x0e\x06\x03\x02s\0
+C53	\x0e\x05\x0c\x02\x0c\0 + \x0e\x06\0\x02p\0
+C54	\x0e\x05\x0c\x02\x0c\0 + \x0e\x05\x06\x02\x06\0
+D52	Ice Curling
+D53	Splash Curling
+D54	Geokinesis
+Pause\CommandSuplex.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Dash + \x0e\x07\x01\x02\x01\0
+C13	\x0e\x07\x01\x02\x01\0 near foe
+C14	\x0e\x07\x01\x02\x01\0 when grabbing
+C15	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C21U	After Lifting, Part 1
+C22	\x0e\x04\x17\x02\xc4\0
+C23	\x0e\x04\x15\x02\xc2\0
+C24	\x0e\x04\x16\x02\xc3\0
+C25	\x0e\x04\x14\x02\xc1\0
+C31U	After Lifting, Part 2
+C32	\x0e\x07\x01\x02\x01\0
+C33	\x0e\x07\0\x02\0\0
+C34	\x0e\x04\x16\x02\xc3\0/\x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 in midair
+C35	\x0e\x04\x15\x02\xc2\0 in midair
+D11	Dash Grab
+D12	Turbo Dash Grab
+D13	Lift
+D14	Fury Stomp
+D15	Pinpoint Kick
+D22	Back Breaker
+D23	Body Slam
+D24	Big Suplex
+D25	Pile Driver
+D32	Torrent Lariat
+D33	Rock Drop
+D34	Air Body Slam
+D35	Plunge Body Slam
+C51W	Friends jump into your arms when\nyou raise your hand with \x0e\x04\x17\x02\xc4\0
+D51	Friend Grab
+C52	Throw the friend you're holding in\ndifferent directions with \x0e\x07\0\x02\0\0/\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0
+D52	Friend Throw
+Pause\CommandSword.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Overhead Slash
+C12	\x0e\x07\x01\x02\x01\0 with full health
+D12	Sword Beam
+C13	\x0e\x07\x01\x02\x01\0 after Overhead Slash
+D13	Multisword Attack
+C14	Dash + \x0e\x07\x01\x02\x01\0
+D14	Drill Stab
+C21	Dash + \x0e\x07\x01\x02\x01\0 in midair
+D21	Sword Spin
+C22	\x0e\x07\x01\x02\x01\0 in midair
+D22	Chop and Thrust
+C23	Chop and Thrust, and\nthen \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D23	Hat Thrust
+C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D24	Down Thrust
+C31	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D31	Upward Slash
+C32W	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 while rising\nduring Upward Slash
+D32	Sword Dive
+C33	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+D33	Spin Slash
+C34	Press and hold \x0e\x07\x01\x02\x01\0,\nand then release + \x0e\x04\x17\x02\xc4\0
+D34	Twister Slash
+C25	\x0e\x07\x01\x02\x01\0 underwater
+D25	Underwater Spin
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x11\x02\x11\0 + \x0e\x06\x04\x02t\0
+D52	Sizzle Sword
+C53	\x0e\x05\x11\x02\x11\0 + \x0e\x06\x03\x02s\0
+D53	Blizzard Sword
+C54	\x0e\x05\x11\x02\x11\0 + \x0e\x06\x02\x02r\0
+D54	Zap Sword
+Pause\CommandTwinkleStarAllies.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	Sparkler Comet
+C12	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+D12	Sparkler Starshot
+C13	All hold \x0e\x07\x01\x02\x01\0, then release at the same time
+D13	Team Star Allies!
+C14	\x0e\x07\x02\x02\x02\0
+D14	Rider Switch
+C15	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D15	Sparkler Turn
+Pause\CommandWater.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Dash
+C13	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C21	Dash + \x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C24	\x0e\x07\x01\x02\x01\0 underwater
+D11	Wave Attack
+D12	Surf
+D13	Geyser
+D14	Fountain Hover
+D21	Wave Surf
+D22	Rainbow Rain
+D23	Water Crown
+D24	Enhanced Water Gun
+C51	\x0e\x05\x05\x02\x05\0 + \x0e\x06\x03\x02s\0
+C52	\x0e\x05\x05\x02\x05\0 + \x0e\x06\x02\x02r\0
+C53UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add water{c[000000]} to it. Here's a combo!
+C54	\x0e\x06\0\x02p\0 + \x0e\x05\x11\x02\x11\0
+D51	Icicle Lance
+D52	Zap Splasher
+D54	Splash Sword
+Pause\CommandWhip.msbt
+C11U	Use any whip attack to grab items!
+C12	Press and release \x0e\x07\x01\x02\x01\0
+C13	\x0e\x07\x01\x02\x01\0 repeatedly
+C14	\x0e\x04\x17\x02\xc4\0 + press and release \x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C22	Dash + \x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C24	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C31W	Whip Grab + \x0e\x07\x01\x02\x01\0 /\nWhip Grab + \x0e\x04\x14\x02\xc1\0
+C32	Whip Grab + \x0e\x04\x15\x02\xc2\0
+C33	Whip Grab + \x0e\x04\x16\x02\xc3\0
+C34	Whip Grab + \x0e\x04\x17\x02\xc4\0
+D12	Whip Strike
+D13	100-Whip Slap
+D14	Ceiling Strike
+D21	Jump Strike
+D22	100-Whip Dash
+D23	Whip Tornado
+D24	Whip Grab
+D31	Front Lash
+D32	Double Lash
+D33	Back Lash
+D34	High Lash
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x03\x02\x03\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x03\x02\x03\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x03\x02\x03\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Whip
+D53	Blizzard Whip
+D54	Zap Whip
+Pause\CommandWing.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	Feather Gun + \x0e\x04\x13\x02\xc0\0
+C13	Dash + \x0e\x07\x01\x02\x01\0 / Dash + \x0e\x07\x01\x02\x01\0 in midair
+C14	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 during Condor Head
+C15	\x0e\x04\x17\x02\xc4\0, and then \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0\nduring Condor Head
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C22	Dash and press \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C23	Either \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 near an enemy 
+C24	\x0e\x07\x01\x02\x01\0 immediately after Toss
+C25	\x0e\x07\0\x02\0\0 in midair
+D11	Feather Gun
+D12	Target Feather 
+D13	Condor Head
+D14	Combo Bomb
+D15	Combo Dive
+D21	Dive-Bomb
+D22	Condor Dive
+D23	Toss
+D24	Shuttle Loop
+D25	Hover Flap
+C51UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto {c[fe9a10]}add wind{c[000000]} to it! These are some combos!
+C52	\x0e\x06\x01\x02q\0 + \x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x01\x02q\0 + \x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x01\x02q\0 + \x0e\x05\x1a\x02\x1a\0
+D52	Bluster Sword
+D53	Bluster Cutter
+D54	Bluster Bomb
+Pause\CommandYoyo.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0 + press and release \x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0 + press and hold \x0e\x07\x01\x02\x01\0
+C15	Walk the Dog + \x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C21	Dash + \x0e\x07\x01\x02\x01\0
+C22	Dash + \x0e\x07\x01\x02\x01\0 in midair
+C23W	Either of \x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 or \x0e\x04\x13\x02\xc0\0/\x0e\x07\x01\x02\x01\0\nnear an enemy 
+C24	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D11	Yo-Yo Throw
+D12	Yo-Yo Up
+D13	Yo-Yo Orbit
+D14	Walk the Dog
+D15	Dog Walker
+D21	Break Spin
+D22	Jump Spin
+D23	Hammer Drop
+D24	Gazer Spiral
+C51UW	Raise your {c[fe9a10]}weapon{c[000000]} with \x0e\x04\x17\x02\xc4\0 so a friend can add\nan {c[fe9a10]}effect{c[000000]}! These are some combos!
+C52	\x0e\x05\x1c\x02\x1c\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1c\x02\x1c\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1c\x02\x1c\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Yo-Yo
+D53	Blizzard Yo-Yo
+D54	Zap Yo-Yo
+Pause\Special.msbt
+TitleWMapLv1	World of Peace\nDream Land
+TextWMapLv1	A disaster of catastrophic proportions has occurred\nin this peaceful land. King Dedede has stolen\nall of the food for himself! The nerve of that guy!\nNow Kirby must set out on a grand adventure\nwith a new group of friends.
+TitleWMapLv2	World of Miracles\nPlanet Popstar
+TextWMapLv2	Chase the dark hearts across the world of miracles!\nHold \x0e\x04\x17\x02\xc4\0 to wield mighty Friend Abilities as Kirby\nand pals continue their journey of companionship\nacross the vast seas and rolling hills.
+TitleWMapLv3	Fortress of Shadows\nJambastion
+TextWMapLv3	Even the stoic Meta Knight has fallen prey to the\nenemy's evil influence, and now their foreboding\nfortress has suddenly appeared. Why have they\ncome to this land? WHY?! Undeterred, Kirby and\nhis friends charge forward with gusto.
+TitleWMapLv4	Far-Flung\nStarlight Heroes
+TextWMapLv4	Before they knew it, they were in deep space...\nLooking back, they saw that Planet Popstar was\nbut a tiny glimmer in the distance. Kirby and his\nfriends are determined to {s[070]}hopefully{s[100]} protect the peace\n(and tasty naptimes) of their beloved home!\nNow! Become a shining star and FLY!
+TitleWMapLv5	Kirby\nStar Allies
+TextWMapLv5	This "Dark Lord" that Hyness likes to talk about is a\nbeing with no sense of right or wrong. He was born\nonly to destroy...and is known as Void Termina,\nDestroyer of Worlds. Hmm...that sounds\npretty hardcore, so no pulling your punches!\nKirby's biggest battle begins NOW!!
+TitleArena	The Ultimate Choice
+TextArena	A new festival of battle is about to begin!\nTest your limits with...The Ultimate Choice!\nKirby and friends will face off against a gaggle\nof super-spicy bosses in their unending quest\nto gobble up everything in sight!
+Pause\SpecialHelperGo.msbt
+TextBladeknight	{s[120]}"I will be a swordmaster like my idol!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This green warrior swears upon his blade\n  that he will master his weapon, learn how\n  to attack with flame, wind, and lightning,\n  and ultimately conquer the world!
+TextSirkibble	{s[120]}"Just like my blade, I keep coming back!"\n\x0e\x15\0\x02\xec\xff{s[100]}  What's inside that armor? Classified!\n  Just like his golden blade, this guy\n  returns to the fight again and again.\n  Pluckiness is the best armor of all!
+TextPoppyjr	{s[120]}"BOOM! I love that sound!"\n\x0e\x15\0\x02\xec\xff{s[100]}  It's the guy with the eternal grin!\n  He's off on an explosive adventure, but\n  all he really wants to do is bring a little\n  fun and fireworks into people's lives.
+TextRocky	{s[120]}"...Hmph! {s[090]}*THUD*{s[120]}"\n\x0e\x15\0\x02\xec\xff{s[100]}  With a will as hard as...something very\n  hard, this rugged fellow is a real heavy\n  hitter. He slides on water or ice and\n  has an uppercut to end any argument!
+TextWester	{s[120]}"The world's treasure is all mine!"\n\x0e\x15\0\x02\xec\xff{s[100]}  With western style and a dandy heart,\n  he takes on any task, all so he can set\n  out again to explore the world! With his\n  flexible whip, he searches for treasure!
+TextBonkers	{s[120]}"Ook ook! I love bananas!"\n\x0e\x15\0\x02\xec\xff{s[100]}  He's always looking for bananas!\n  Even when he loses sight of this goal,\n  this giant gourmand smashes anything\n  in his way, wherever he likes!
+TextBioSpark	{s[120]}"...I will walk the path of mastery."\n\x0e\x15\0\x02\xec\xff{s[100]}  Under cover of the night, hidden in villages,\n  this elite ninja takes a journey to learn\n  the ninja's way. With his blade of violet\n  lightning, he speeds through the land!
+TextGim	{s[120]}"Finally, it's my turn!"\n\x0e\x15\0\x02\xec\xff{s[100]}  With word of a mechanized invasion in the\n  the works, Gim sets out on a journey! What\n  does the robot see? Why does he use his\n  mischievous gimmick? Who knows?
+TextStickEnemy	{s[120]}"Can true believers find their way?"\n\x0e\x15\0\x02\xec\xff{s[100]}  The pink hero taught him that nothing is\n  more precious than friends who believe in\n  each other. And now he sets out to\n  see the truth of this for himself!
+TextBurningleo	{s[120]}"You set fire to my heart!"\n\x0e\x15\0\x02\xec\xff{s[100]}  Burning Leo, proud of his blazing mane,\n  declares from his heart, "I will go on an\n  adventure and share my flames!" But don't\n  get carried away. He might burn you!
+TextChilly	{s[120]}"To the edge of the world!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This snowman wishes to travel far before\n  it gets too warm...and he disappears.\n  He sets out from his home, sure that\n  he can achieve his dream!
+TextWaddledoo	{s[120]}"I'll bet it all on this beam!"\n\x0e\x15\0\x02\xec\xff{s[100]}  It was the first Copy Ability that anyone ever\n  got, and the origin of all abilities that came\n  later! So much potential from a beam! And\n  now, he wants to see why the beam...bends!
+TextConce	{s[120]}"I'm Plugg! What? Never heard of me?"\n\x0e\x15\0\x02\xec\xff{s[100]}  Plugg has been updated to shoot plasma!\n  He might not be well-known, but for all\n  who couldn't join him now, he will\n  shine brightly for all their sakes!
+TextWaterEnemy	{s[120]}"I'm Driblee! I ㊤ clean water!"\n\x0e\x15\0\x02\xec\xff{s[100]}  Driblee can't stand the destruction of the\n  environment and wishes for only the\n  purest of waters for the world! With that,\n  Driblee sets off on a journey!
+TextNesp	{s[120]}"Hee hee hee..."\n\x0e\x15\0\x02\xec\xff{s[100]}  Though not quite yet an adult, he brims with\n  the power of a new generation! He predicts\n  there's something out in the darkness and\n  sets off to find it...with teleportation!
+TextBirdon	{s[120]}"Flapping to new horizons!"\n\x0e\x15\0\x02\xec\xff{s[100]}  He hates spending every day stuck in a\n  bird cage and decides to see how high\n  he can fly! And just that easily, he's off\n  to find freedom. Fly high and fast!
+TextBroomhatter	{s[120]}"I'll clean the whole world!"\n\x0e\x15\0\x02\xec\xff{s[100]}  Dust here, dust there! Broom Hatter\n  just can't stand so much mess. So he\n  takes on the quest of a lifetime:\n  to make the world spotless!
+TextKnucklejoe	{s[120]}"Gonna be the top fighter anywhere!"\n\x0e\x15\0\x02\xec\xff{s[100]}  He's eager to prove himself in a legendary\n  tournament and sets off at full speed to\n  find it...wherever it is! He's up for any\n  battle, no matter how tough!
+TextBugzzy	{s[120]}"I was the king of insects!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This aging insect king passed on his title to\n  someone younger. Now he's off to fight\n  dark forces with techniques that would put\n  a wrestler to shame. What a mandible!
+TextBeetlie	{s[120]}"I'm the new king of insects!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This young king wants to challenge the\n  old one to see who's truly mightier.\n  But first...into the darkness! He braves\n  any challenger with his horn!
+TextComo	{s[120]}"After years of work...a major role!"\n\x0e\x15\0\x02\xec\xff{s[100]}  He doesn't just hang around anymore.\n  He's the three-eyed hero who was\n  nominated by his kind to go on a quest!\n  Now he can snare evil in his web!
+TextParasolWaddledee	{s[120]}"You chose me? Great! Time to sing!"\n\x0e\x15\0\x02\xec\xff{s[100]}  The sun is shining! The parasol's open!\n  And it's time for a stroll! That parasol is\n  great protection, after all, and it lets\n  him float sweet as a breeze.
+TextVivitia	{s[120]}"Watch me, sisters! I'll do my best!"\n\x0e\x15\0\x02\xec\xff{s[100]}  She swears on her ㊤ to do her best, so she\n  doesn't lose to her sisters, not in battle and\n  not in artistry! She sets off to prove herself...\n  and hopefully get into a good art school!
+TextChefKawasaki	{s[120]}"Extreme feast? {s[090]}Eep!{s[120]} I'll get cooking!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This chef goes on the hunt for ingredients\n  beyond the edge of the world! He senses\n  great deliciousness and must control his\n  hunger until his culinary quest is done!
+TextBandanaWaddledee	{s[120]}"I'm not just a pretty face!"\n\x0e\x15\0\x02\xec\xff{s[100]}  He's got stellar attendance in the Kirby\n  series and deserves a prize. That bandana!\n  That spear! With his courage, he sets\n  himself apart from carefree parasol holders!
+TextKingDedede	{s[120]}"I'll be the one to keep the peace!"\n\x0e\x15\0\x02\xec\xff{s[100]}  Kirby's first rival, from Kirby's Dream Land,\n  wants to clean up his image, so he's set\n  off to save his people. There's no stopping\n  this self-made king, so watch out, world!
+TextMetaknight	{s[120]}"This darkness must meet my sword!"\n\x0e\x15\0\x02\xec\xff{s[100]}  The knight that dates back to Kirby's\n  Adventure joins the fray! This mysterious\n  figure occasionally shows up in his massive\n  ship to stir things up. Now, into darkness!
+TextRick	{s[120]}"Friends by air, sea, and land!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This triple-deluxe pack of pals from\n  Kirby's Dream Land 2 is here to help!\n  You'll hear 'em coming: pitter-patter,\n  splish-splash, and flutter-flap!
+TextGooey	{s[120]}"My name? Gooey? Maybe?"\n\x0e\x15\0\x02\xec\xff{s[100]}  This googly-eyed wonder from Kirby's\n  Dream Land 3 comes in search of\n  answers to the big questions in life...\n  Who am I? Where? What time is it?
+TextMarx	{s[120]}"Got a plan? Glad to help!"\n\x0e\x15\0\x02\xec\xff{s[100]}  The cosmic jester from Kirby Super Star\n  sensed danger from afar and is ready\n  to roll across galaxies on his ball!\n  This final boss is here to help!
+TextAdeleine	{s[120]}"Back for a new adventure!"{s[100]}\n\x0e\x15\0\x02\xec\xff  The attack artist from Kirby 64: The Crystal\n  Shards and her pal Ribbon have returned!\n  And with Adeleine's newly improved painting\n  skills, these two are ready to be in the mix!
+TextDarkMetaknight	{s[120]}"..."{s[100]}\n\x0e\x15\0\x02\xec\xff  Is that the uninvited knight from Kirby & The\n  Amazing Mirror?! Guess he had a fight with Meta\n  Knight. The Mirror World must cast a long shadow\n  across the galaxy... At least he's here as a friend!
+TextDaroach	{s[120]}"Those bejeweled hearts will be mine!"{s[100]}\n\x0e\x15\0\x02\xec\xff  The famous thief from Kirby: Squeak Squad\n  heard tales of dark, gem-shaped hearts and\n  set out to find them. Such seemingly wicked\n  treasures are certainly worthy of his talents!

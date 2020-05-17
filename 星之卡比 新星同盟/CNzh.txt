@@ -1,0 +1,2585 @@
+Arena.msbt
+BtnBack	返回
+BtnNext	确定
+DialogControllerConnectConfirmMessage	连接的{c[fe9a10]}手柄数量{c[000000]}不够。
+DialogDeleteRankingHighScoreMessage	The 终极抉择的\n{c[fe9a10]}分数{c[000000]}记录将{c[fe9a10]}全部重置{c[000000]}。\n真的可以吗？
+DialogBackConfirmMessage	要退出{c[fe9a10]}选择角色{c[000000]}，\n返回之前的画面吗？
+DialogTutorialTitle_00	The 终极抉择！
+DialogTutorialText_00	把接连出现的{c[fe9a10]}魔头角色{c[000000]}们\n全部打败，以{c[fe9a10]}最高分{c[000000]}为目标！
+DialogTutorialTitle_01	选择喜爱的{c[fe9a10]}角色{c[000000]}！
+DialogTutorialText_01	选择角色吧！\n盟友的{c[fe9a10]}成员也可以选择{c[000000]}。\n成员选定后就不能改变了！
+DialogTutorialTitle_02	选择喜爱的{c[fe9a10]}难度{c[000000]}！
+DialogTutorialText_02	挑战的{c[fe9a10]}难度{c[000000]}也可以自由选择！\n越是{c[fe9a10]}困难{c[000000]}，分数越高。\n作出最终的选择，{c[fe9a10]}获取胜利{c[000000]}！
+DialogSpecialHelperTitle	梦幻盟友登场！
+DialogSpecialHelperText	你可以在选择角色里\n选择{c[fe9a10]}梦幻盟友{c[000000]}了！\n以新的选择{c[fe9a10]}获取胜利{c[000000]}！
+DialogAbilityAllClear01	亲手选择{c[fe9a10]}全部的角色{c[000000]}，\n在最终的战斗中取得了\n{c[fe9a10]}出色的胜利{c[000000]}！！
+DialogLocked	通过一次{c[fe9a10]}The 终极抉择{c[000000]}后，\n下次就可以直接选择了！
+$TitleClose	返回
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+TitleStartBtn	开始
+TitleHighScoreBtn	排行榜
+TitleTutorialBtn	教学
+MemberNumHeader	玩家人数
+ArenaMemberNumBtn	{s[150]}\x0e\x03\x01\0{s[100]}人
+CharaSelectHeader	选择角色
+CharaSelectSinglePlay	单人
+CharaSelectMultiPlay	与朋友一起
+CharaSelectAbilityName	\x0e\x03\x05\0
+CharaSelectAbilityHighScore	\x0e\x03\x05\0\n最高分
+CharaSelectDifficulty	\x0e\x03\x06\0
+ScorePanelDifficultyText	\x0e\x03\x06\0
+$CharaSelStartBtn	开始
+LevelSelectHeader	选择难度
+LevelSelectConfirmBtn	开始
+LevelSelectConfirmText0	全部吃光光，\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}，开吃！
+LevelSelectConfirmText1	变得更强吧！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}，要一下子吃光哦！
+LevelSelectConfirmText2	选择极限！\n向{c[fe9a10]}\x0e\x03\x06\0{c[000000]}发起挑战！！
+LevelSelectConfirmText3	超～级～最～终～决～战！！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}……终极抉择！！
+$LvSelIllustPieceText	奖励
+$LvSelLv8Text	秘密
+LvSelLvNameText	\x0e\x03\x06\0
+$LvSelBattleText	战斗
+LvSelBattleNumSecret	??
+HighScoreHeader	排行榜
+HighScoreSinglePlayHeader	单人
+HighScoreMultiPlayHeader	与朋友一起
+$HelperHeroChangeText	\x0e\x04\x02\x02\x02\0更换盟友
+$HighScoreDetailText	\x0e\x04\x03\x02\x03\0详情
+$RecordDelete	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0 删除记录
+ResultWinCaption0	胜利！
+ResultWinCaption1	巨大胜利！
+ResultWinCaption2	究极胜利！！
+ResultWinDifficultyName	\x0e\x03\x06\0
+ResultWinClearBonus	＋通关奖励 \x0e\x03\x01\0
+ResultLoseCaption	下次还有机会……
+ResultLoseCaption2	路漫漫其修远兮……
+ResultLoseCaption3	还差一点儿！
+ResultLoseBtnRetry	重试
+ResultLoseBtnQuit	退出
+ResultLoseHighScoreSingle	单人排行榜
+ResultLoseHighScoreMulti	与朋友一起排行榜
+$ArenaBonusText	时间奖励
+$ArenaStepNextBoss	NEXT
+ArenaStepBattleRemaining	还有{s[150]}\x0e\x03\x01\0{s[100]}战
+ArenaStepBattleRemainingQuestion	还有{s[150]}\x0e\x03\x01\0{s[100]}战？
+ArenaStepLvName	\x0e\x03\x06\0
+$ArenaLvSelHighScore	最高分
+$LvSelBestHighScore	最好成绩
+BossClear.msbt
+DialogSpecialHelperUnlockLv1_Title	梦幻盟友 帝帝帝大王
+DialogSpecialHelperUnlockLv1	你现在可以召唤\n梦幻盟友{c[fe9a10]}帝帝帝大王{c[000000]}了！\n去{c[fe9a10]}梦幻神殿{c[000000]}看看吧！
+DialogSpecialHelperUnlockLv1DLC_Title	{c[fe9a10]}通过更新而增加{c[000000]}的梦幻盟友
+DialogSpecialHelperUnlockLv1DLC	梦幻般的成员也集结到此！\n现在，可以召唤{c[fe9a10]}阿朵莱妮&莉宝、\n暗魅塔骑士和怪盗洛切{c[000000]}了！
+DialogSpecialHelperUnlockLv2_Title	梦幻盟友 魅塔骑士
+DialogSpecialHelperUnlockLv2	你现在可以召唤\n梦幻盟友{c[fe9a10]}魅塔骑士{c[000000]}了！\n去{c[fe9a10]}梦幻神殿{c[000000]}看看吧！
+Cmn.msbt
+DialogWindowYes	是
+DialogWindowNo	否
+DialogWindowOK	OK
+DialogTutorialSnsShareTitle_00	在{c[fe9a10]}社交媒体{c[000000]}上炫耀一下吧！
+DialogTutorialSnsShareText_00	可以用\x0e\x04\x10\x02\x91\0{c[fe9a10]}截图键{c[000000]}\n{c[fe9a10]}拍摄{c[000000]}游戏画面！发布到{c[fe9a10]}社交媒体{c[000000]}上，\n分享一下你引以为傲的游戏瞬间吧！
+HeaderFriendExplain	从伙伴那儿点燃火焰！
+FriendCopyFriendAbility	向上推摇杆！
+FriendCopyMakeFriends	结交伙伴
+IconBalloonControllerJoin	加入
+IconBalloonControllerLRJoin	\x0e\x04\t\x02`\0＋\x0e\x04\n\x02a\0 加入
+HeroPanelAbilityName	\x0e\x03\x05\0
+HelperRouletteTutorialTitle_00	欢迎光临{c[fe9a10]}梦幻神殿{c[000000]}
+HelperRouletteTutorialText_00	这里是{c[fe9a10]}梦幻神殿{c[000000]}。\n你可以在此用特殊物品{c[fe9a10]}梦幻神杖{c[000000]}\n与梦幻般的{c[fe9a10]}那个角色{c[000000]}相见。
+HelperRouletteTutorialTitle_01	召唤{c[fe9a10]}梦幻盟友{c[000000]}吧
+HelperRouletteTutorialText_01	拿到{c[fe9a10]}梦幻神杖{c[000000]}后，\n就可以开始玩转盘。\n按\x0e\x04\0\x02\0\0召唤{c[fe9a10]}梦幻盟友{c[000000]}！
+$HelperRouletteDecideText	确定
+$AmiiboBtnText	amiibo
+TimeDisplaySecPunctuation	:
+TimeDisplayCsecPunctuation	.
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	-
+ScoreDisplayEmpty	------
+$CmnEndCutText	继续
+CmnEndCutText_Credit	剧终
+PlayerNumberCharaName	\x0e\x03\x05\0
+WTitlePupupuSubTitle	和平的世界
+WTitlePupupuTitle	噗噗噗之国
+WTitlePopSubTitle	奇迹的星球
+WTitlePopTitle	波普之星
+WTitleJamaSubTitle	暗黑要塞
+WTitleJamaTitle	邪魔哈鲁达！
+WTitleGalaxySubTitle	遥远
+WTitleGalaxyTitle	闪耀光辉的勇者们
+WTitleFinalSubTitle	星之卡比
+WTitleFinalTitle	新星同盟
+HowToWindowTitle1	通过{c[fe9a10]}分享游玩{c[000000]}，\n可以随时随地一起玩！
+HowToWindowTitle2	结交{c[fe9a10]}伙伴{c[000000]}，{c[fe9a10]}随时加入{c[000000]}！
+HowToWindowTitle3	手柄{c[fe9a10]}未连接{c[000000]}时……
+HowToWindowText1	各自拿着{c[fe9a10]}手柄{c[000000]}，\n最多可以{c[fe9a10]}4人{c[000000]}一起玩哦！
+HowToWindowText2L	\x0e\x04\x02\x02\x02\0 结交伙伴
+HowToWindowText2R	按\x0e\x04\t\x02`\0＋\x0e\x04\n\x02a\0，\n{c[fe9a10]}随时加入{c[000000]}。
+HowToWindowText3	按\x0e\x04\x11\x02\x94\0暂停画面的{c[fe9a10]}手柄设置{c[000000]}，\n添加手柄吧。
+SkipText	\x0e\x04\x11\x02\x94\0跳过
+$HelperRouletteNew	New
+Version	Ver. \x0e\x03\x01\0.\x0e\x03\x01\0.\x0e\x03\x01\0
+Complete.msbt
+$CompleteClear	通过
+$CompleteText	恭喜！
+Credit.msbt
+Staff	STAFF
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+SequenceDirector	SEQUENCE DIRECTOR
+SequenceDirector_00	TATSUYA KAMIYAMA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	YUKI ENDO
+LevelDesign	LEVEL DESIGN
+LevelDesign_00	YUTAKA WATANABE
+AssistantDirector	ASSISTANT DIRECTORS
+AssistantDirector_00	TAKAAKI HIRANO
+AssistantDirector_01	SATOSHI AKIYAMA
+AssistantDirector_02	SAHO MINESHIMA
+ProgramDirector	PROGRAMMING DIRECTOR
+ProgramDirector_00	HIROSHI OHNISHI
+LeadActionProgramming	LEAD ACTION PROGRAMMING
+LeadActionProgramming_00	KATSUYOSHI SUMITOMO
+LeadProgramming	LEAD PROGRAMMING
+LeadProgramming_00	KEITA TANIFUJI
+Programming	PROGRAMMING
+Programming_00	TAKASHI NOZUE
+Programming_01	RUI UCHIDA
+Programming_02	TOMOHIRO KAMOCHI
+Programming_03	YUYA SUZUKI
+Programming_04	TATSUYA MURASE
+Programming_05	MASAYA MAEJIMA
+Programming_06	MASAYUKI NAGATA
+Programming_07	KEISUKE TAKEMURA
+Programming_08	KENSHI ABE
+Programming_09	YUDAI HIRATA
+Programming_10	SATORU YOSHIDA
+LeadTechnicalProgramming	LEAD TECHNICAL PROGRAMMING
+LeadTechnicalProgramming_00	HIROAKI NAKANO
+TechnicalProgramming	TECHNICAL PROGRAMMING
+TechnicalProgramming_00	MUNEMASA KIMURA
+TechnicalProgramming_01	AYUMU KATO
+LeadUIProgramming	LEAD UI PROGRAMMING
+LeadUIProgramming_00	SHUN YASAKA
+UIProgramming	UI PROGRAMMING
+UIProgramming_00	AKIHIRO YAMASHITA
+UIProgramming_01	TOSHIYUKI TAGOYA
+DesignDirector	DESIGN DIRECTOR
+DesignDirector_00	RIKI FUHRMANN
+LeadDesign	LEAD DESIGN
+LeadDesign_00	KENICHIRO KITA
+Design	DESIGN
+Design_00	ETSUKO SATO
+Design_01	HITOSHI KIKKAWA
+Design_02	KENICHI SAKUMA
+Design_03	RIE MIYAUCHI
+Design_04	EMI IMAMURA
+Design_05	KUMI HABUTA
+Design_06	YUKINOBU SEITA
+Design_07	YUKIKO TAGAWA
+Design_08	KAORI ESAKI
+Design_09	HITOMU ITO
+LeadTechnicalDesign	LEAD TECHNICAL DESIGN
+LeadTechnicalDesign_00	TSUYOSHI FUJITA
+TechnicalDesign	TECHNICAL DESIGN
+TechnicalDesign_00	HIKARI MIURA
+LeadMotifDesign	LEAD MOTIF DESIGN
+LeadMotifDesign_00	DAISUKE MORISHITA
+MotifDesign	MOTIF DESIGN
+MotifDesign_00	TADASHI HASHIKURA
+MotifDesign_01	TOMOMI MINAMI
+MotifDesign_02	YUKI HONDA
+MotifDesign_03	YUSUKE OTA
+MotifDesign_04	TSUKASA KIRINOE
+MotifDesign_05	MINORU YOSHIKOSHI
+MotifDesign_06	SHINGO YAMADA
+TechnicalMotifDesign	TECHNICAL MOTIF DESIGN
+TechnicalMotifDesign_00	AKIHIRO KANNO
+LeadUIDesign	LEAD UI DESIGN
+LeadUIDesign_00	YUMI TODO
+UIDesign	UI DESIGN
+UIDesign_00	HARUKA ITOH
+UIDesign_01	SHIGEYUKI KAWATA
+UIDesign_02	MASASHI FUJIURA
+UIDesign_03	YURI SHIONO
+UIDesign_04	SAORI ONO
+UIDesign_05	SHUNTA AKIHO
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	HISANORI MATSUSHIMA
+Movie_02	YORIKO FURUYA
+Movie_03	AKIKO SASAOKA
+Movie_04	YUKI KUROSU
+Movie_05	TAKAYOSHI HIRANAI
+Movie_06	TAKAHIRO KAKUTA
+Movie_07	SHOGO YOSHIDA
+Movie_08	MIZUHO KAIBE
+Movie_09	TORU NISHIOKA
+Movie_10	SAYOKO YAMADA
+Movie_11	KAZUKI SUZUKI
+Movie_12	KASUMI SAKA
+Movie_13	AYANA FUKUI
+Movie_14	RYO YAMADA
+Movie_15	SHIHO HARIYA
+Movie_16	RINA YAMAMOTO
+Movie_17	HIROAKI HIRANO
+Movie_18	SHOUHEI KOMIYAMA
+Movie_19	RYOSUKE HASHIMOTO
+Movie_20	AKIRA SAKAI
+Movie_21	AYAKA CHIDA
+Movie_22	KATSUMI NIHOMMATSU
+Movie_23	TOMOKO INOUE
+SubGame	MINIGAME
+SubGame_00	Eighting Inc.
+SubGame_01	DAISUKE WARASHINA
+SubGame_02	NORIMASA MITSUMA
+SubGame_03	KAZUYA KOINUMA
+SubGame_04	KIYOKO SHIMANAKA
+SubGame_05	YUMIKO WATANABE
+SubGame_06	MARIKO WATANABE
+SubGame_07	SHINICHI KAMOHARA
+SubGame_08	GOYU MITANI
+SubGame_09	HIROAKI IWASAKI
+SubGame_10	MAYUKO SANO
+SubGame_11	NAOTO KITAYAMA
+LeadSound	LEAD SOUND
+LeadSound_00	HIROKAZU ANDO
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	YUUTA OGASAWARA
+VoiceActor	VOICE
+VoiceActor_00	MAKIKO OHMOTO
+VoiceActor_02	RYOKA YUZUKI
+VoiceActor_03	RIE TAKAHASHI
+VoiceActor_04	REINA UEDA
+VoiceActor_06	SHIGERU CHIBA
+GuestIllustrator	GUEST ILLUSTRATORS
+GuestIllustrator_00	Toshinao Aoki
+GuestIllustrator_01	kanahei
+GuestIllustrator_02	lack
+GuestIllustrator_03	Kouichi Ooyama
+GuestIllustrator_04	Ashura Benimaru Itoh
+GuestIllustrator_05	Yuji KAIDA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	SEIJI OTOGURO
+TeamSupport_02	SHIGERU HIRAYAMA
+TeamSupport_03	SHIGERU HASHIGUCHI
+PlanningSupport	PLANNING SUPPORT
+PlanningSupport_00	RYOTA YAMANAKA
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	YOSHIYA TANIGUCHI
+TechnicalSupport_01	TOMOKAZU TSURUOKA
+TechnicalSupport_02	SHINYA WATANABE
+TechnicalSupport_03	RYOICHIRO ATONO
+TechnicalSupport_04	YUKI NISHIMURA
+TechnicalSupport_05	SHO TAJIMA
+TechnicalSupport_06	TETSUYA NOGE
+TechnicalSupport_07	KAZUYA SUETSUGU
+TechnicalSupport_08	TATSUHIRO TANOUE
+TechnicalSupport_09	TAKESHI MINAGAWA
+TechnicalSupport_10	AKIO HANYU
+TechnicalSupport_11	YUYA NATSUMI
+TechnicalSupport_12	TATSUYA UEHARA
+TechnicalSupport_13	KAZUYA KONISHI
+TechnicalSupport_14	TETSUYA MOCHIDUKI
+TechnicalSupport_15	KUNIO WATANABE
+TechnicalSupport_16	TAKUYA ABE
+TechnicalSupport_17	YUKI YASUHARA
+TechnicalSupport_18	KATSUHIRO SAKODA
+TechnicalSupport_19	TAKAYUKI SUGANO
+TechnicalSupport_20	HAJIME KOJIMA
+TechnicalSupport_21	TAKASHI MATSUDA
+TechnicalSupport_22	TSUYOSHI MASADA
+TechnicalSupport_23	MITSUO IWAMOTO
+ArtWork	ARTWORK
+ArtWork_00	YUTO IBARAKI 
+ArtWork_01	YUKARI KEMMOCHI
+ArtWork_02	MONAMI MATSUURA
+ArtWork_03	YUMIKO SANO
+ArtWork_04	NANAKO TOKUNO
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	DAI SUZUKI
+Testing_02	TAKESHI TAMURA
+Testing_03	MASAHARU SHIMA
+Testing_04	AKIKO OHASHI
+Testing_05	HAL DEBUG TEAM
+Testing_06	Mario Club Co., Ltd.
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	MASANOBU YAMAMOTO
+SpecialThanks_01	KATSURA TABATA
+SpecialThanks_02	HIROYUKI HAYASHI
+SpecialThanks_03	TADASHI IKEGAMI
+SpecialThanks_04	NOBUYUKI OKADA
+SpecialThanks_05	HIROSHI FUJIE
+SpecialThanks_06	KOHEI NATSUME
+SpecialThanks_07	SATOSHI ISHIDA
+SpecialThanks_08	TOMOHIRO MINEMURA
+SpecialThanks_09	MASAYO NAKAGAMI
+SpecialThanks_10	HARUKA ABE
+SpecialThanks_11	AKANE KISHI
+SpecialThanks_12	KENICHI MASUDA
+SpecialThanks_13	SHIGENOBU KASAI
+SpecialThanks_14	YOUSUKE FUKUNAGA
+SpecialThanks_15	JYUNICHI AOYAGI
+SpecialThanks_16	TAKAAKI KAZUNO
+SpecialThanks_17	HIROAKI IKARASHI
+SpecialThanks_18	TADASHI KAWAI
+SpecialThanks_19	AIKO NAGAOKA
+SpecialThanks_20	JEFF MILLER
+SpecialThanks_24	BARNHOUSE EFFECT Co., Ltd.
+SpecialThanks_25	GRDRIVE Inc.
+SpecialThanks_26	TA Inc.
+SuperVisor	SUPERVISOR
+SuperVisor_00	SHIGEFUMI KAWASE
+Coordinator	COORDINATORS
+Coordinator_00	KEI NINOMIYA
+Coordinator_01	RYUICHI NAKADA
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	YOSHIHIRO NAGATA
+ProjectManagement_01	TETSUYA ABE
+Producer	PRODUCERS
+Producer_00	TADASHI KAMITAKE
+Producer_01	HITOSHI YAMAGAMI
+GeneralProducer	GENERAL PRODUCERS
+GeneralProducer_00	SATOSHI MITSUHARA
+GeneralProducer_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	TATSUMI KIMISHIMA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n\xa92018 HAL Laboratory, Inc. / Nintendo
+iQueLocalizationManagement	iQue LOCALIZATION MANAGEMENT
+iQueLocalizationManagement_00	KEISUKE FUKUSHIMA
+iQueLocalization	iQue LOCALIZATION
+iQueLocalization_00	QIU XIAOCHUN
+iQueLocalization_01	YUAN JUN
+iQueLocalization_02	ZHANG XI
+iQueArtwork	iQue ARTWORK
+iQueArtwork_00	PENG YI
+iQueTesting	iQue TESTING
+iQueTesting_00	ZHANG JIONG
+iQueTesting_01	LING YAYUN
+AddScore	\x0e\x03\x01\0
+SubScore	-\x0e\x03\x01\0
+EndTextNormal	还有更多……
+EndTextExtra	谢谢！
+$CreditBestScore	最佳分数
+$CreditNew	NEW
+Demo.msbt
+UnknownName	？？？？
+ExecutiveIceName	冰斧基斯
+ExecutiveIceSerif_Appear_00	……邪魔了哈。\x0e\x14\x03\0\n
+ExecutiveIceSerif_Appear_01	……呵{s[080]}呵{s[100]}。这是我们星球的\n寒暄语哦。\x0e\0\x04\0……我是负责指挥\n暗黑要塞邪魔哈鲁达的\x0e\0\x04\0三魔官之一，“冰斧基斯”……
+ExecutiveIceSerif_Appear_02	……散落于宇宙的\n黑暗之心“邪魔之心”\n收齐时……\x0e\0\x04\0我们的誓愿\n就将……实现。\x0e\0\x04\0虽然我们不想进行\n无谓的杀戮……\x0e\0\x04\0但如果有人阻挡我们……
+ExecutiveIceSerif_Appear_03	\x0e\x14\0\0我别无选择，\n只能把你冻成冰块！
+ExecutiveIceSerif_AppearEx_00	……呵{s[080]}呵{s[100]}。你让我很吃惊啊。\x0e\x14\x03\0
+ExecutiveIceSerif_AppearEx_01	……真没想到，\n我竟然还能再遇见你……\x0e\0\x04\0{s[070]}我还以为你已经和邪魔哈鲁达\n一起被埋葬了……{s[100]}\x0e\0\x04\0那么这次的话……
+ExecutiveIceSerif_AppearEx_02	我要把这个粉色的圆球\n整个儿冻起来！
+ExecutiveIceSerif_AppearEx_03	\x0e\x14\0\0……加入我的\n绝密收藏品吧！
+ExecutiveFireName	炎剑露啾
+ExecutiveFireSerif_Appear_00	\x0e\x14\0\0{s[120]}喂！{s[100]}\n那边的粉胖墩！\x0e\x14\x03\0
+ExecutiveFireSerif_Appear_01	说的就是你哦！\n{s[130]}在！说！你！！{s[100]}\x0e\0\x04\0你对我的“冰斧基斯”\n也太、太、太粗鲁了！\x0e\0\x04\0你要是胆敢伤了她可爱的脸蛋，\n我跟你没完哦！！\x0e\x14\0\0
+ExecutiveFireSerif_Appear_02	\x0e\x14\0\0{s[130]}邪魔我气……！！\n{s[100]}不可饶恕！\x0e\0\x04\0在你面前的我，“炎剑露啾”……
+ExecutiveFireSerif_Appear_03	忍不住要对你燃起\n地狱的业火！
+ExecutiveFireSerif_Appear_04	\x0e\x14\0\0{s[130]}我要让你\n遭到最惨痛的下场！{s[100]}
+ExecutiveFireSerif_AppearEx_00	{s[130]}啊哈哈！{s[100]}\x0e\x14\x03\0
+ExecutiveFireSerif_AppearEx_01	真没想到，寻找邪魔之心\n竟然还会遇到你呢！\x0e\0\x04\0一定是我每天向神祈祷\n得来的奖励呢！
+ExecutiveFireSerif_AppearEx_02	{s[130]}哦耶～！\n{s[100]}我的火焰一下子燃烧起来了！
+ExecutiveFireSerif_AppearEx_03	喂，粉胖墩！\x0e\0\x04\0这次，为了海内司大人，
+ExecutiveFireSerif_AppearEx_04	\x0e\x14\0\0{s[130]}我要把你烧成煤球！{s[100]}
+ExecutiveThunderName	雷枪帕噜提扎努
+ExecutiveThunderSerif_Appear_00	邪魔了哈。\x0e\x14\x03\0
+ExecutiveThunderSerif_Appear_01	我，是三魔官之首，\n“雷枪帕噜提扎努”……
+ExecutiveThunderSerif_Appear_02	虽然一开始，\n只把你看做是个俗物……
+ExecutiveThunderSerif_Appear_03	呵呵，但现在看，\n似乎是个高手啊。\x0e\0\x04\0不过，你的高歌猛进\n要到此为止了……\x0e\0\x04\0我们遵从伟大的主人\n“魔神官海内司”大人的旨意……
+ExecutiveThunderSerif_Appear_04	\x0e\x14\0\0现在，\n我要将你就地肃清！
+ExecutiveThunderSerif_Dead_00	{s[070]}呃……\n邪魔……我气……{s[100]}
+ExecutiveThunderSerif_Dead_01	啊！在如此边远的星球，\n竟然能遇到这种程度的高手……
+ExecutiveThunderSerif_Dead_02	但是，没用了。\n邪魔之心已经在我手上。\x0e\0\x04\0粉胖墩哦，\n你就和这个邪魔哈鲁达一起……
+ExecutiveThunderSerif_Dead_03	\x0e\x14\0\0毁灭吧……！
+ExecutiveThunderSerif_Dead_04	\x0e\x14\0\0啊哈哈哈哈！！
+ExecutiveThunderSerif_Dead_05	\x0e\x14\0\0{s[130]}邪魔了拜！{s[100]}
+ExecutiveThunderSerif_AppearEx_00	\x0e\x14\0\0{s[130]}给我站住，粉胖墩！{s[100]}
+ExecutiveThunderSerif_AppearEx_01	没想到你能活着从\n那个邪魔哈鲁达出来啊……\x0e\0\x04\0这么看来，\n你已经打败\n基斯和露啾了吧。\x0e\0\x04\0不过，神圣的\n海内司大人的祈祷……
+ExecutiveThunderSerif_AppearEx_02	\x0e\x14\0\0{s[130]}任何人都不能打扰！{s[100]}
+ExecutiveThunderSerif_DeadEx_00	{s[070]}啊啊……\n海、海内司……大……大人……{s[100]}
+HinessName	海内司
+HinessSerif_Appear_00_1	嗯邪？
+HinessSerif_Appear_00_2	什么事啊？\n很吵呢～
+HinessSerif_Appear_01	{s[070]}那个～\n你，挡住我了。{s[100]}
+HinessSerif_Appear_02	哦，那个～\x0e\0\x04\0我们要用来～\x0e\0\x04\0复活神的能量～\x0e\0\x04\0好像还不够呢～\x0e\0\x04\0这样下去～\x0e\0\x04\0只能我们自己～\x0e\0\x04\0走上灭亡之路了～\x0e\0\x04\0对吧～～～～？
+HinessSerif_Appear_03_1	\x0e\x14\0\0{s[150]}不。{s[100]}
+HinessSerif_Appear_03_2	\x0e\x14\0\0{s[150]}不！{s[100]}
+HinessSerif_Appear_03_3	\x0e\x14\x01\0{s[150]}不！不！不！{s[100]}
+HinessSerif_Appear_03_4	不不不不不不不不……
+HinessSerif_Appear_03_5	{s[150]}绝对～不～～～～～～～～～～不！！！！{s[100]}\x0e\x14\x02\0
+HinessSerif_Appear_04_1	我们是被驱逐到银河边缘的魔力掌控者，但我们还心存渴望！\n像你这样的人如何能够理解我们经年累月追求的这个梦想？如\n何能够！你不能够！永远不能！我们曾经遇到过那些因恐惧我\x0e\0\x04\0们的力量而将我们封印并驱逐到银河边缘的家伙们！即便这样\n他们仍不满足，还试图从历史中抹去我们曾经的存在！粗鲁！\n只有通过我们的魔法，才能与他们的科学融合，并获得繁荣！\x0e\0\x04\0我们以一己之力阻止那令人厌恶的银河危机的噩梦，然而这就\n是你偿还我们的！这不公平！不可原谅！不能忘却！永远不会，\n不会！说我们疯了的人，你在听吗？你把我们留在银河的边缘，\x0e\0\x04\0让我们被忘却，然后过着逍遥的日子，或许正生活在某个漂亮\n又和平的地方！但记住！你的未来就是场闹剧！你一无所有！\n我们，最黑暗物质的主宰，即将卷土重来，就如传说之书中预\x0e\0\x04\0言的，虽然所有人都曾认为那不过是个童话！但不是！我们已\n经得到了装有我们黑暗之主的容器，不久，他将苏醒，让我们\n沐浴在他的怜悯之中！看！正如我们所说的，我们黑暗之主的\x0e\0\x04\0容器正不断满溢！现在，他进入我们这个世界的伟大时刻已经\n到来！欢迎来到新的时代！伟大而荣耀的时代！全新的历史！\n生日快乐，黑暗之主！生日快乐！
+HinessSerif_Appear_04_2	\x0e\x14\0\0至高无上的神啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！\x0e\x14\x03\0
+HinessSerif_Appear_05	{s[080]}呼……哈……呼……哈………………{s[100]}
+HinessSerif_Appear_06	这么说来～\x0e\0\x04\0复活的仪式被人打扰了～
+HinessSerif_Appear_07	我们由衷地～
+HinessSerif_Appear_08	\x0e\x14\0\0{s[150]}请你消失！！{s[100]}
+HinessSerif_Crazy_00_1	{s[070]}啊……{s[100]}
+HinessSerif_Crazy_00_2	啊……
+HinessSerif_Crazy_00_3	{s[150]}啊！{s[100]}
+HinessSerif_Crazy_01	\x0e\x14\0\0{s[150]}啊比拉卡哦啊杜拉查克！！{s[100]}\x0e\x14\x03\0\n
+HinessSerif_Dead_00	你、你、你～\x0e\0\x04\0竟、竟然打败了我～\n尊贵的海内司大人～
+HinessSerif_Dead_01_1	祭品～
+HinessSerif_Dead_01_2	如果有～\n祭品的话～
+HinessSerif_Dead_02	到底该怎么办？\x0e\0\x04\0只有一个选择了～
+HinessSerif_Dead_03	拥有最高魔力的诸位～\n我召唤你们～
+HinessSerif_Dead_04	请接受我的请求～\n我的这个身体～\x0e\0\x04\0将全部奉献给～\x0e\0\x04\0破坏之神～
+HinessSerif_Dead_05	那么……\n请苏醒吧…………\x0e\0\x04\0我们的神………………
+HinessSerif_Dead_06	\x0e\x14\0\0{s[150]}破神……终焉\x0e\x17\0\0・\x0f\x17\0虚无！！{s[100]}
+GameInfo.msbt
+AddHelperBalloonText	用盟友之心\n增加伙伴吧！
+ChargeInfo_DiscardAbility	舍弃\n能力
+ChargeInfo_DetachPiggybackDisconnect	下来
+ChargeInfo_DetachPiggybackUp	下来
+ChargeInfo_Suicide	分别
+ChargeInfo_TrustControlToCpu	托管
+ChargeInfo_Revive	复活
+ChargeInfo_ResetAbilitySeat	解散
+ChargeInfo_ReturnHelper	消除\n盟友
+OperationGuide_Heart	盟友之心
+OperationGuide_Attack	攻击
+OperationGuide_Suicide	消除盟友
+OperationGuide_Jump	跳跃
+OperationGuide_DetachPiggyback	下来
+OperationGuide_DiscardAbility	舍弃能力
+OperationGuide_Sliding	滑垒
+OperationGuide_Hover	盘旋
+OperationGuide_Swim	游泳
+GameOver.msbt
+DialogMessage	要{c[fe9a10]}退出游戏{c[000000]}，\n返回选择模式吗？
+$ContinueBtn	继续
+$ExitGameBtn	退出游戏
+$TitleGameOver	GAME OVER
+GoalGame.msbt
+$Jump	跳跃
+$Start	开始
+$TitleOver	终点游戏
+$TitleUnder	终点游戏
+$RepdigitBonusText	同层奖励！
+$30UPText	{s[150]}30{s[100]}{s[075]}UP{s[100]}
+$SpecialBonusText	特殊奖励！
+HelperGo.msbt
+$CheckpointReached	到达中间点！
+$LevelClear	通过此等级！
+$CharaTitleStart	开始
+CharaTitleCharaName	\x0e\x03\x05\0
+$BestTime	最佳时间
+$TimeListTotal	TOTAL
+$TitleBestTime	最佳时间
+$TitleContinue	继续游戏
+$TitleStart	从头开始
+$TitleClose	返回
+$TimeListClose	返回
+TimeListCharaName	\x0e\x03\x05\0
+TimeListStart	开始
+TimeListNext	下一个
+TimeListLevelNum	等级\x0e\x03\x01\0
+$MidpointTime	TIME
+$New	NEW
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$ClearTime	通关时间
+$PowerIconLv	Lv
+$PowerIconLvSub	Lv
+DialogTutorialTitle_00	主角是{c[fe9a10]}盟友帮手{c[000000]}！
+DialogTutorialText_00	即使卡比不在……也能做到！\n只用{c[fe9a10]}盟友帮手{c[000000]}们来挑战\n{c[fe9a10]}计时赛＆大冒险{c[000000]}！
+DialogTutorialTitle_01	用特殊的心来{c[fe9a10]}变强{c[000000]}吧！
+DialogTutorialText_01	散落在世界各地的{c[fe9a10]}升级之心{c[000000]}！\n攻击、体力、速度……\n收集后，大家一起升级吧！
+DialogTutorialTitle_02	也可以使用{c[fe9a10]}盟友之心{c[000000]}！
+DialogTutorialText_02	用{c[fe9a10]}盟友之心{c[000000]}增加{c[fe9a10]}伙伴{c[000000]}吧！\n通过随时加入，最多可以{c[fe9a10]}4人{c[000000]}一起玩。\n出发，和{c[fe9a10]}盟友们{c[000000]}开始大冒险吧！
+DialogSpecialHelperTitle	梦幻盟友领队！
+DialogSpecialHelperText	在{c[fe9a10]}选择盟友{c[000000]}中\n有{c[fe9a10]}梦幻盟友{c[000000]}登场了！\n梦幻盟友们的{c[fe9a10]}大冒险{c[000000]}开始了！
+DialogAbilityAllClear01	用{c[fe9a10]}所有盟友{c[000000]}通关了！\n许许多多的朋友\n成为了{c[fe9a10]}星之勇者{c[000000]}！
+CheckpointDialog	下次游戏时\n可以从这里开始！
+CheckpointDialogNext	前往下一关卡
+CheckpointDialogNextLevel	前往下一等级
+CheckpointDialogExit	前往标题画面
+$ResultBestTime	最佳时间
+$ResultClose	结束
+$ResultTimeList	通关时间
+$ResultTotal	TOTAL
+$StepStartSign	READY
+$StepStartSignGo	GO!
+$TitleTutorial	教学
+$CharaSelBestTime	最佳时间
+$CharaSelDetail	\x0e\x04\x03\x02\x03\0详情
+$CharaSelInfo	大家一起玩时，\n可以{c[fe9a10]}随时进入{c[000000]}关卡。
+CharaSelCaption	选择盟友
+$BestTimeTotal	TOTAL
+$HelperGoBestTimeInfo	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0 删除记录
+BestTimeCaption	最佳时间
+BestTimeLevelNum	等级\x0e\x03\x01\0
+DialogDeleteHighScoreMessage	{c[fe9a10]}即将删除{c[000000]}\n{c[fe9a10]}\x0e\x03\x05\0{c[000000]}的最佳时间。\n可以吗？
+DialogDeleteContinueData	{c[fe9a10]}\x0e\x03\x05\0{c[000000]}的保存数据\n已存在。\n要{c[fe9a10]}从头开始{c[000000]}玩吗？
+DialogLocked	{c[fe9a10]}通过一次{c[000000]}星之○○○○后，\n下次就可以直接选择了！
+DialogAboutContinue	所有盟友的{c[fe9a10]}保存数据{c[000000]}\n都{c[fe9a10]}留下{c[000000]}来了！\n{c[fe9a10]}换来换去{c[000000]}，和各位盟友\n一起出发去冒险吧！
+BestTimeClose	返回
+CharaSelClose	返回
+$CharaTitlelReturn	返回
+PowerUpAttack	攻击\nLv
+PowerUpDefense	体力\nLv
+PowerUpSpeed	速度\nLv
+Max	MAX
+$CharaSelContinue	继续游戏
+$CharaSelNewGame	从头开始
+HelperGoSubtitle.msbt
+Bladeknight	对剑起誓
+Sirkibble	回归斩刃
+Poppyjr	绽放在空中的花朵
+Rocky	怒火重石
+Wester	西部牛仔
+Bonkers	黄色香蕉在哪里
+BioSpark	紫电月影
+Gim	机姆的行星之旅
+StickEnemy	这才是挚友
+Burningleo	燃烧吧！王者之心
+Chilly	春风拂面
+Waddledoo	关于光束未知的可能性
+Conce	忘却的希望之光
+WaterEnemy	冲刷！焕然一新
+Nesp	超能力者
+Birdon	自由的天空
+Broomhatter	净化世界宣言
+Knucklejoe	遥远的强者们
+Bugzzy	身经百战的昆虫战士
+Beetlie	后起之秀的昆虫战士
+Como	千丝万缕
+ParasolWaddledee	飘然落下的阳伞
+Vivitia	彩色的\x0e\x17\0\0㊤\x0f\x17\0心灵的
+ChefKawasaki	直击灵魂的厨师
+BandanaWaddledee	瓦豆鲁迪的传说
+KingDedede	收复王权
+Metaknight	黑暗，我剑之食！
+Gooey	这是哪里，我是～谁？
+Rick	陆海空动物
+Marx	对银河野心勃勃
+Adeleine	我们也要加入
+DarkMetaknight	暗影故事
+Daroach	宇宙盗贼团前来拜访！
+Illust.msbt
+$IllustHeader	插画画廊
+$ViewBtn	放大
+$IllustComplete	插画完成！
+Complete0X	你完成了{c[fe9a10]}第\x0e\x03\x01\0幅{c[000000]}纪念插画！\n去{c[fe9a10]}插画画廊{c[000000]}看看吧！
+Complete01	你初次完成了{c[fe9a10]}纪念插画{c[000000]}！\n去{c[fe9a10]}插画画廊{c[000000]}看看吧！
+CompleteAll	你收集了散落在世界各地的插画拼图，\n完成了{c[fe9a10]}所有的纪念插画{c[000000]}，总计\x0e\x03\x01\0幅！
+Title01	最初的对手
+Title02	云上梦幻
+Title03	超究极大战！
+Title04	美味的野餐
+Title05	宝物争夺大迷宫
+Title06	FIGHT FOR THE CROWN!!
+Title07	延续到天空的奇迹
+Title08	机器博博的回忆
+Title09	星空的恶作剧慌乱
+Title10	向实现梦想出发！
+Title11	盟友假期
+Title12	成为影子的共同战斗
+$ViewClose	\x0e\x04\x01\x02\x01\0关闭
+$ViewBtnA	\x0e\x04\0\x02\0\0
+GalleryDialogNoSheetUnlocked	还有{c[fe9a10]}插画拼图{c[000000]}没拿到。\n去关卡收集吧！
+CloseInfoTextClose	关闭
+CloseInfoTextBack	返回
+IllustAuthor.msbt
+Author01	Toshinao Aoki
+Author02	kanahei
+Author03	lack
+Author04	Kouichi Ooyama
+Author05	Ashura Benimaru Itoh
+Author06	Ashura Benimaru Itoh
+Author07	Toshinao Aoki
+Author08	Yuji KAIDA
+Author09	R.F (HAL Laboratory, Inc.)
+Author10	H.M (HAL Laboratory, Inc.)
+Author11	T.K (HAL Laboratory, Inc.)
+Author12	S.O (HAL Laboratory, Inc.)
+Movie.msbt
+Nfp.msbt
+InvalidTiming	现在无法使用amiibo。
+AskStartNfp	可以使用amiibo\n获得{c[fe9a10]}回复物品{c[000000]}和\n{c[fe9a10]}插画拼图{c[000000]}等物品了！\n要使用amiibo吗？
+NoticeLimitation	你可以连续使用amiibo\n最多{c[fe9a10]}\x0e\x03\x01\0次{c[000000]}。\n{c[fe9a10]}通过{c[000000]}关卡后，\n就能再次使用了。
+NoticeLimitationHelperGo	你可以连续使用amiibo\n最多{c[fe9a10]}\x0e\x03\x01\0次{c[000000]}。\n到达{c[fe9a10]}中间点{c[000000]}或是{c[fe9a10]}通过此等级{c[000000]}后，\n就能再次使用了。
+NoticeLimitationArena	你可以连续使用amiibo\n最多{c[fe9a10]}\x0e\x03\x01\0次{c[000000]}。\n从头开始玩的话，\n就能再次使用了。
+ErrorNfcDeviceNotFound	没有找到\n能读取amiibo的手柄。
+AskTouchAmiibo	请用amiibo触碰\n{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}手柄的{c[fe9a10]}NFC区{c[000000]}。
+AskTouchAmiiboCancel	\x0e\x04\x01\x02\x01\0取消
+Reading	正在读取……
+Canceling	正在取消……
+ErrorOther	发生错误。
+NoticeUsedTag	已经从这个amiibo\n{c[fe9a10]}收到{c[000000]}了物品。\n{c[fe9a10]}通过{c[000000]}关卡后，\n就能再次使用了。
+NoticeUsedTagHelperGo	已经从这个amiibo\n{c[fe9a10]}收到{c[000000]}了物品。\n到达{c[fe9a10]}中间点{c[000000]}或是{c[fe9a10]}通过此等级{c[000000]}后，\n就能再次使用了。
+NoticeUsedTagArena	已经从这个amiibo\n{c[fe9a10]}收到{c[000000]}了物品。\n从头开始玩的话，\n就能再次使用了。
+Option.msbt
+FileDeleteFirst_Text	要删除{c[fe9a10]}文件\x0e\x03\x01\0{c[000000]}的\n所有数据吗？
+FileDeleteFirst_BtnYes	删除
+FileDeleteFirst_BtnNo	不删除
+FileDeleteConfirm_Text	真的要删除了哦？
+FileDeleteConfirm_BtnYes	真的要删除。
+FileDeleteConfirm_BtnNo	还是不删除吧。
+FileDeleteConfirm2_Text	真的下定决心要删除了？
+FileDeleteConfirm2_BtnYes	真的下定决心要删除！！
+FileDeleteConfirm2_BtnNo	还是不删除吧。
+FileDeleteWarn_Text	删除的数据无法恢复！！\n{c[fe9a10]}你可不要后悔哦？{c[000000]}
+FileDeleteWarn_BtnYes	不后悔！！！！
+FileDeleteWarn_BtnNo	我不想删除……
+FileDeleteEnd_Text	文件\x0e\x03\x01\0已删除。
+FileDeleteEnd_BtnOK	OK
+OptionSettingReset_Text	要{c[fe9a10]}重置{c[000000]}游戏设置吗？
+OptionSettingReset_BtnYes	是
+OptionSettingReset_BtnNo	否
+OptionHeader_Menu	选项
+OptionHeader_GameSetting	游戏设置
+OptionHeader_KeyConfig	主要参数
+OptionClose	返回
+OptionBack	返回
+OptionSettingGuide_On	ON
+OptionSettingGuide_Off	OFF
+OptionSettingFriendCopy_OnlyFirst	只限初次
+OptionSettingFriendCopy_All	全部查看
+OptionSettingFriendCopy_No	不查看
+OptionSettingVibration_On	ON
+OptionSettingVibration_Off	OFF
+OptionKeyConfig_TypeA	A类型
+OptionKeyConfig_TypeB	B类型
+OptionKeyConfig_Stick	移动
+OptionKeyConfig_Attack	攻击
+OptionKeyConfig_Jump	跳跃
+OptionKeyConfig_Heart	盟友之心
+OptionKeyConfig_Delete	舍弃能力
+$OptionMenuConfigBtnText	主要参数
+$OptionMenuDeleteBtnText	删除数据
+$OptionMenuSettingBtnText	游戏设置
+$OptionSettingFriendCipyBtnText	盟友能力演示
+$OptionSettingGuideBtnText	显示指引
+$OptionSettingVibrationBtnText	振动
+$OptionKeyConfigBtnText	操作类型
+$OptionSettingResetBtnText	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0
+$OptionSettingResetText	重置
+Pause.msbt
+$CommandToRightText	向右时
+HeaderAbility	\x0e\x03\x05\0\x0e\x03\x01\0
+HeaderAbilityFriendsStar	盟友新星\x0e\x03\x01\0
+HeaderAbilityFriendsRolling	盟友滚轮\x0e\x03\x01\0
+HeaderAbilityFriendsBridge	盟友吊桥\x0e\x03\x01\0
+HeaderAbilityFriendsTrain	盟友列车\x0e\x03\x01\0
+HeaderAbilityTwinkleStarAllies	闪耀新星同盟\x0e\x03\x01\0
+HeaderAbilityLastCloseContest	闪耀新星同盟\x0e\x03\x01\0
+HeaderAbilityNormal	关于卡比\x0e\x03\x01\0
+HeaderAbilityInWater	水中操作
+HeaderAbilityFriend	{s[085]}\x0e\x03\x05\0的\n盟友能力{s[100]}
+HeaderFriendCoop	通用盟友操作
+HeaderKeyConfig	操作说明
+HeaderController	手柄设置
+DialogWindowExitStage	按下的大开关和\n插画拼图{c[fe9a10]}无法保存{c[000000]}。\n真的要离开关卡吗？
+DialogWindowExitWorld	要返回选择世界吗？
+DialogWindowExitScoreGame	要{c[fe9a10]}退出游戏{c[000000]}，\n返回标题吗？
+DialogWindowAmiiboDisabled	amiibo可以在关卡中使用。
+CloseInfoText	关闭
+KeyConfigTypeA	A类型
+KeyConfigTypeB	B类型
+BtnController	手柄设置
+BtnInformation	要大家一起玩的话？
+BtnContinue	继续游戏
+BtnExitWorld	前往选择世界
+BtnExitScoreGame	前往标题画面
+BtnExitStage	退出关卡
+BtnTime	查看时间
+HelperGoStageName	星之○○○○ 等级\x0e\x03\x01\0
+ArenaStageName	\x0e\x03\x06\0
+Lv5StageName	星之卡比 新星同盟
+Resident.msbt
+HIDErrorDialog_MainPlayer_Text	{c[fe9a10]}无法找到{c[000000]}\n控制{c[fe9a10]}1P{c[000000]}的手柄。
+HIDErrorDialog_DropOutText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}的手柄\n已断开连接。\n{c[fe9a10]}要替换CP{c[000000]}，\n继续游戏吗？
+HIDErrorDialog_QuitText	{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}的手柄\n已断开连接。\n要返回{c[fe9a10]}标题画面{c[000000]}吗？
+HIDErrorDialog_EncourageText	请{c[fe9a10]}连接{c[000000]}\n{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}的手柄。\n\n\x0e\x04\x01\x02\x01\0取消
+HIDErrorDialog_BtnNo	否
+HIDErrorDialog_BtnYes	是
+TipsAbilityGet_Title	获得了{c[fe9a10]}吞入{c[000000]}敌人的能力！
+TipsAbilityGet_Text	吸入持有{c[fe9a10]}能力{c[000000]}的{c[fe9a10]}敌人{c[000000]}，\n按\x0e\x04\x15\x02\xc2\0获得吞入的{c[fe9a10]}复制能力{c[000000]}。
+TipsFriendHeart_Title	用{c[fe9a10]}盟友之心{c[000000]}结交伙伴吧！
+TipsFriendHeart_Text	按\x0e\x07\x02\x02\x02\0将{c[fe9a10]}心{c[000000]}打中\n持有能力的敌人，对方就会成为你的{c[fe9a10]}伙伴{c[000000]}。
+TipsFriendCopy1_Title	让{c[fe9a10]}武器{c[000000]}着火的{c[fe9a10]}盟友能力{c[000000]}！
+TipsFriendCopy1_Text	用\x0e\x04\x17\x02\xc4\0可以给举起的{c[fe9a10]}武器{c[000000]}\n加上{c[fe9a10]}伙伴的火{c[000000]}！
+TipsFriendCopy2_Title	试着给{c[fe9a10]}武器{c[000000]}加上各种各样的力量吧！
+TipsFriendCopy2_Text	可以加在武器上的力量\n有{c[fe9a10]}火{c[000000]}、{c[fe9a10]}冰{c[000000]}、{c[fe9a10]}电{c[000000]}等很多种。
+TipsCopyResource_Title	用{c[fe9a10]}复制之源{c[000000]}增加伙伴吧！
+TipsCopyResource_Text	用盟友之心击中{c[fe9a10]}复制之源{c[000000]}，\n就能{c[fe9a10]}增加伙伴{c[000000]}！
+TipsStoneCurling_Title	{c[fe9a10]}石块{c[000000]}的盟友能力
+TipsStoneCurling_Text	{c[fe9a10]}石块{c[000000]}可以通过伙伴的{c[fe9a10]}冰{c[000000]}或{c[fe9a10]}水{c[000000]}等的力量\n发动{c[fe9a10]}盟友能力{c[000000]}。
+TipsRequestUnion_Title	给{c[fe9a10]}伙伴{c[000000]}的武器加上吧！
+TipsRequestUnion_Text	对于用\x0e\x04\x17\x02\xc4\0{c[fe9a10]}举起手{c[000000]}的伙伴，\n通过\x0e\x07\x01\x02\x01\0{c[fe9a10]}攻击{c[000000]}能给伙伴的武器{c[fe9a10]}加上火等属性{c[000000]}！
+TipsOKIcon_Title	按{c[fe9a10]}图标{c[000000]}数字召集{c[fe9a10]}伙伴{c[000000]}吧！
+TipsOKIcon_Text	右图的图标会显示{c[fe9a10]}伙伴的数字{c[000000]}。\n无论是谁都可以，召集伙伴吧！
+TipsMultiPlay_Title	和朋友{c[fe9a10]}一起{c[000000]}玩玩看吧！
+TipsMultiPlay_Text	可以和朋友们{c[fe9a10]}分享游玩{c[000000]}。\n按Joy-Con的\x0e\x04\x0d\x02d\0＋\x0e\x04\x0e\x02e\0随时加入！
+TipsResetAbility_Title	用{c[fe9a10]}重置平台{c[000000]}更换成员！
+TipsResetAbility_Text	使用重置平台把{c[fe9a10]}伙伴{c[000000]}作为{c[fe9a10]}复制之源{c[000000]}，\n把成员更换为{c[fe9a10]}喜欢的成员{c[000000]}！
+TipsVacuum_Title	什么都能吸入的{c[fe9a10]}星之卡比{c[000000]}！
+TipsVacuum_Text	卡比可以用\x0e\x07\x01\x02\x01\0\n{c[fe9a10]}吸入敌人{c[000000]}！
+TipsMouthFeed_Title	{c[fe9a10]}分享{c[000000]}回复物品。
+TipsMouthFeed_Text	拿着回复物品前往{c[fe9a10]}伙伴{c[000000]}那儿，\n可以通过{c[fe9a10]}喂食{c[000000]}让伙伴{c[fe9a10]}回复{c[000000]}！
+TipsCommand_Title	{c[fe9a10]}招式{c[000000]}的用法在{c[fe9a10]}暂停画面{c[000000]}！
+TipsCommand_Text	用\x0e\x04\x11\x02\x94\0打开{c[fe9a10]}暂停画面{c[000000]}看看吧！\n可以查看各种{c[fe9a10]}招式{c[000000]}的用法哦。
+TipsPointStar_Title	收集{c[fe9a10]}分数星{c[000000]}吧！
+TipsPointStar_Text	收集满{c[fe9a10]}100个{c[000000]}分数星，就能{c[fe9a10]}1UP{c[000000]}！\n剩余卡比数量会增加！
+TipsQuickDiscard_Title	{c[fe9a10]}舍弃{c[000000]}能力
+TipsQuickDiscard_Text	长按\x0e\x07\x03\x02\x03\0或是按\x0e\x07\x04\x02\x04\0，\n{c[fe9a10]}可以舍弃{c[000000]}能力。
+TipsRestruction_Title	要和盟友{c[fe9a10]}分别{c[000000]}的话
+TipsRestruction_Text	按\x0e\x04\t\x02`\0＋\x0e\x07\x03\x02\x03\0可以选择\n要{c[fe9a10]}分别{c[000000]}的盟友。
+TipsSwitchBig_Title	寻找{c[fe9a10]}大开关{c[000000]}！
+TipsSwitchBig_Text	能够打开{c[fe9a10]}特别关卡{c[000000]}的{c[fe9a10]}大开关{c[000000]}\n隐藏在关卡的某个地方。
+TipsGalaxy_Title	世界地图的镜头操作
+TipsGalaxy_Text	在广阔的宇宙自由驰骋吧。\n用R摇杆可以操作{c[fe9a10]}镜头{c[000000]}！
+TipsMuseumGeneral_Title	{c[fe9a10]}梦幻神殿{c[000000]}
+TipsMuseumGeneral_Text	握住{c[fe9a10]}梦幻神杖{c[000000]}，\n召唤{c[fe9a10]}特别的盟友{c[000000]}吧！
+TipsMuseumRepeat_Title	要再次进入{c[fe9a10]}梦幻神殿{c[000000]}？
+TipsMuseumRepeat_Text	{c[fe9a10]}通过{c[000000]}某处的关卡后，\n就能再次进入了。
+TipsMuseumHelper2_Title	梦幻盟友，{c[fe9a10]}陆续新增{c[000000]}！
+TipsMuseumHelper2_Text	梦幻盟友预定通过{c[fe9a10]}免费更新{c[000000]}进行新增。\n和系列角色一起冒险{c[fe9a10]}犹如梦幻一般{c[000000]}！
+TipsBossFriendCopy_Title	用盟友能力增强力量！
+TipsBossFriendCopy_Text	只要发动盟友能力，\n{c[fe9a10]}攻击力{c[000000]}就会{c[fe9a10]}提高{c[000000]}，能获取优势！
+TipsBossHP_Title	即使被打败{c[fe9a10]}也不要放弃{c[000000]}啊！
+TipsBossHP_Text	反复战斗后，{c[fe9a10]}魔头{c[000000]}就会筋疲力尽，然后{c[fe9a10]}变弱{c[000000]}！\n{c[fe9a10]}不要放弃{c[000000]}，再次挑战吧！
+TipsBossRevive_Title	{c[fe9a10]}帮助{c[000000]}伙伴吧！
+TipsBossRevive_Text	可以用\x0e\x07\x02\x02\x02\0{c[fe9a10]}帮助{c[000000]}被打败的伙伴哦！
+TipsBossWeakness_Title	对于魔头的大招式，要瞄准{c[fe9a10]}弱点{c[000000]}来反击！
+TipsBossWeakness_Text	好好观察魔头的招式，试试看\n火、水、电等哪一种会{c[fe9a10]}有效{c[000000]}！
+TipsBoss72_Title	使用{c[fe9a10]}amiibo回复{c[000000]}！
+TipsBoss72_Text	无法战胜魔头时，\n可以试试从{c[fe9a10]}暂停画面{c[000000]}使用{c[fe9a10]}amiibo{c[000000]}！
+TipsBossWhispy1_Title	用{c[fe9a10]}火烧{c[000000]}风语大树！
+TipsBossWhispy1_Text	大家可以用{c[fe9a10]}火{c[000000]}来攻击，\n{c[fe9a10]}燃烧{c[000000]}变大了的风语大树！
+TipsBossDedede1_Title	{c[fe9a10]}大量回复{c[000000]}的机会！
+TipsBossDedede1_Text	丢过来的脏兮兮的食物\n可以用{c[fe9a10]}水{c[000000]}的攻击来{c[fe9a10]}清洗{c[000000]}！
+TipsBossMetaKnight1_Title	打碎岩石，制造{c[fe9a10]}机会{c[000000]}！
+TipsBossMetaKnight1_Text	{c[fe9a10]}堆积起来的岩石{c[000000]}可以打碎！\n打碎后，魅塔骑士就会有{c[fe9a10]}裂缝{c[000000]}！
+TipsBossPon1_Title	可以破坏炸弹！
+TipsBossPon1_Text	冰的炸弹可以用{c[fe9a10]}火{c[000000]}，\n火的炸弹可以用{c[fe9a10]}水{c[000000]}或{c[fe9a10]}冰{c[000000]}来{c[fe9a10]}破坏{c[000000]}！
+TipsBossIce1_Title	操纵{c[fe9a10]}水{c[000000]}和{c[fe9a10]}冰{c[000000]}的冰斧基斯
+TipsBossIce1_Text	冰斧基斯会操纵{c[fe9a10]}冰{c[000000]}和{c[fe9a10]}水{c[000000]}。\n用{c[fe9a10]}火{c[000000]}或{c[fe9a10]}电{c[000000]}的{c[fe9a10]}盟友能力{c[000000]}挑战吧！
+TipsBossFire1_Title	操纵{c[fe9a10]}火{c[000000]}的炎剑露啾
+TipsBossFire1_Text	炎剑露啾会操纵{c[fe9a10]}火{c[000000]}。\n用{c[fe9a10]}水{c[000000]}或{c[fe9a10]}冰{c[000000]}的{c[fe9a10]}盟友能力{c[000000]}冷却吧！
+TipsBossThunder1_Title	操纵{c[fe9a10]}电击{c[000000]}的雷枪帕噜提扎努
+TipsBossThunder1_Text	雷枪帕噜提扎努会操纵{c[fe9a10]}电击{c[000000]}。\n用{c[fe9a10]}水{c[000000]}的{c[fe9a10]}盟友能力{c[000000]}能令其短路！
+TipsBossYugu1_Title	{c[fe9a10]}燃烧{c[000000]}远古巨树！
+TipsBossYugu1_Text	准备火的{c[fe9a10]}盟友能力{c[000000]}吧！\n大家用{c[fe9a10]}火燃烧{c[000000]}！
+TipsBossPonEX1_Title	破坏{c[fe9a10]}闸门{c[000000]}吧！
+TipsBossPonEX1_Text	破坏分开伙伴的{c[fe9a10]}闸门{c[000000]}！\n用{c[fe9a10]}火{c[000000]}可以迅速燃烧。
+TipsBossGiantironmom_Title	仔细看双手的武器！
+TipsBossGiantironmom_Text	双手的{c[fe9a10]}武器{c[000000]}是{c[fe9a10]}炸弹{c[000000]}！\n割断{c[fe9a10]}绳子{c[000000]}，点{c[fe9a10]}火{c[000000]}反击吧。
+TipsBossKracko_Title	{c[fe9a10]}大家{c[000000]}齐心协力，就能冻住！
+TipsBossKracko_Text	就算是{c[fe9a10]}瀑布{c[000000]}般的大雨，\n只要有大家的帮助，就能{c[fe9a10]}冻住{c[000000]}！
+TipsBossHiness_Title	运用盟友能力！
+TipsBossHiness_Text	组成更卓越的团队，\n一起运用{c[fe9a10]}盟友能力{c[000000]}，提高力量来挑战！
+TipsBossLastBoss1_Title	{c[fe9a10]}蓄力{c[000000]}后瞄准{c[fe9a10]}弱点{c[000000]}！
+TipsBossLastBoss1_Text	保持{c[fe9a10]}距离{c[000000]}，{c[fe9a10]}蓄力{c[000000]}后开火！\n敌人的攻击可以通过{c[fe9a10]}二段跳{c[000000]}来躲避。
+TipsBossLastBoss2_Title	受伤后落下的{c[fe9a10]}液体{c[000000]}……
+TipsBossLastBoss2_Text	受伤后落下的{c[fe9a10]}液体{c[000000]}\n就用{c[fe9a10]}阳伞{c[000000]}来遮挡！
+TipsBossLastBoss3_Title	用{c[fe9a10]}盟友之心{c[000000]}恢复！
+TipsBossLastBoss3_Text	要恢复受操纵盟友的{c[fe9a10]}心{c[000000]}，\n只有靠{c[fe9a10]}盟友之心{c[000000]}才行！
+TipsA19_Title	追随着黑暗之心……
+TipsA19_Text	追随着黑暗之心，\n盟友们终于\n到达了{c[fe9a10]}封印的祭坛{c[000000]}……
+TipsA20_Title	向着最后的战斗……！
+TipsA20_Text	变为传说中的秘宝，\n{c[fe9a10]}闪耀新星同盟{c[000000]}后，\n盟友们向失控的黑暗……发起挑战！！
+TipsA21_Title	长按\x0e\x07\0\x02\0\0，{c[fe9a10]}跳跃得更高{c[000000]}！
+TipsA21_Text	{c[fe9a10]}盟友滚轮{c[000000]}时，长按\x0e\x07\0\x02\0\0的话，\n就能{c[fe9a10]}跳跃得更高{c[000000]}！
+TipsA27_Title	想要无{c[fe9a10]}提示{c[000000]}进行游戏的话……
+TipsA27_Text	可以关闭{c[fe9a10]}选项{c[000000]}里的{c[fe9a10]}显示指引{c[000000]}，\n{c[fe9a10]}删除{c[000000]}指引看板。
+TipsA28_Title	长按\x0e\x04\x17\x02\xc4\0，按{c[fe9a10]}顺序{c[000000]}发动！
+TipsA28_Text	持续按\x0e\x04\x17\x02\xc4\0，\n当前的伙伴就会按{c[fe9a10]}顺序{c[000000]}发动{c[fe9a10]}盟友能力{c[000000]}。
+TipsA29_Title	可以用{c[fe9a10]}控制背负{c[000000]}操作CP！
+TipsA29_Text	边按\x0e\x04\x15\x02\xc2\0边用跳跃乘到CP身上，\n就会变为{c[fe9a10]}控制背负{c[000000]}。可以{c[fe9a10]}操作{c[000000]}CP！
+TipsA50_Title	收集{c[fe9a10]}插画拼图{c[000000]}吧！
+TipsA50_Text	收集{c[fe9a10]}插画拼图{c[000000]}，\n完成{c[fe9a10]}纪念插画{c[000000]}吧！
+TipsA51_Title	通过{c[fe9a10]}终点游戏{c[000000]}获得奖励！
+TipsA51_Text	到达{c[fe9a10]}最低点{c[000000]}时，\n掐准时机按\x0e\x04\0\x02\0\0就能{c[fe9a10]}高高{c[000000]}跳起。
+TipsA52_Title	通过{c[fe9a10]}波普之花{c[000000]}获得物品！
+TipsA52_Text	碰触{c[fe9a10]}花朵{c[000000]}获得物品！\n危机时刻就碰触{c[fe9a10]}波普之花{c[000000]}吧。
+TipsA53_Title	从{c[fe9a10]}伙伴{c[000000]}那儿获得能力！
+TipsA53_Text	用\x0e\x07\x01\x02\x01\0吸入{c[fe9a10]}伙伴{c[000000]}，\n用\x0e\x04\x15\x02\xc2\0获得吞入的{c[fe9a10]}复制能力{c[000000]}！
+TipsA54_Title	{c[fe9a10]}防御{c[000000]}和{c[fe9a10]}当下回避{c[000000]}
+TipsA54_Text	长按\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0，{c[fe9a10]}防御{c[000000]}敌人的{c[fe9a10]}攻击{c[000000]}！\n在防御时按\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0还能{c[fe9a10]}当下回避{c[000000]}！
+TipsA55_Title	用{c[fe9a10]}滑垒{c[000000]}攻击！
+TipsA55_Text	用\x0e\x04\x15\x02\xc2\0＋\x0e\x07\0\x02\0\0{c[fe9a10]}滑垒{c[000000]}，\n即使没有能力也能{c[fe9a10]}攻击{c[000000]}。
+TipsA56_Title	{c[fe9a10]}游戏结束{c[000000]}
+TipsA56_Text	{c[fe9a10]}剩余卡比{c[000000]}变为{c[fe9a10]}0{c[000000]}时，\n一旦被打败就会{c[fe9a10]}游戏结束{c[000000]}。
+TipsA57_Title	用{c[fe9a10]}艺术家{c[000000]}画画吧！
+TipsA57_Text	在空白的{c[fe9a10]}看板{c[000000]}上画画\n可以获得{c[fe9a10]}物品{c[000000]}！
+TipsA58_Title	打{c[fe9a10]}桩{c[000000]}吧！
+TipsA58_Text	用{c[fe9a10]}石块{c[000000]}或{c[fe9a10]}锤子{c[000000]}把扎在地面上的\n{c[fe9a10]}桩{c[000000]}打进地里！
+TipsA59_Title	把{c[fe9a10]}落叶{c[000000]}清扫干净吧。
+TipsA59_Text	试着用{c[fe9a10]}清洁{c[000000]}\n把{c[fe9a10]}落叶{c[000000]}清扫干净吧。
+TipsA60_Title	用{c[fe9a10]}盘旋{c[000000]}飞上空中吧！
+TipsA60_Text	在跳跃时持续按\x0e\x07\0\x02\0\0，\n就能在空中{c[fe9a10]}盘旋{c[000000]}飞行。
+TipsA61_Title	穿过地板
+TipsA61_Text	按\x0e\x04\x15\x02\xc2\0，\n可以穿过地板{c[fe9a10]}下来{c[000000]}。
+TipsA62_Title	往返门可以来回通过。
+TipsA62_Text	这个门可以{c[fe9a10]}反复来回{c[000000]}！\n发现后就试着进去看看吧！
+TipsA63_Title	可以用{c[fe9a10]}风{c[000000]}的力量改变招式的{c[fe9a10]}动作{c[000000]}！
+TipsA63_Text	如果在武器上加上{c[fe9a10]}风{c[000000]}的力量，\n有些招式的{c[fe9a10]}动作{c[000000]}会改变，就像{c[fe9a10]}向上浮起{c[000000]}一样。
+TipsA64_Title	协助招式：{c[fe9a10]}盟友特技{c[000000]}！
+TipsA64_Text	在4人状态下，爬上{c[fe9a10]}盟友台座{c[000000]}，\n按\x0e\x04\x17\x02\xc4\0发动{c[fe9a10]}盟友特技{c[000000]}！
+TipsA73_Title	可以查看{c[fe9a10]}CP盟友{c[000000]}的命令招式。
+TipsA73_Text	在向{c[fe9a10]}CP盟友{c[000000]}使用背负时按\x0e\x04\x11\x02\x94\0暂停的话，\n就能查看该盟友的{c[fe9a10]}命令招式{c[000000]}。
+TipsA74_Title	\x0e\x04\x10\x02\x91\0 截图键
+TipsA74_Text	用{c[fe9a10]}\x0e\x04\x10\x02\x91\0截图键{c[000000]}随时拍摄！\n拍到好东西的话，就向朋友们{c[fe9a10]}炫耀{c[000000]}下吧！
+WTitleLv1SubTitle	和平的世界
+WTitleLv1Title	噗噗噗之国
+WTitleLv2SubTitle	奇迹的星球
+WTitleLv2Title	波普之星
+WTitleLv3SubTitle	暗黑要塞
+WTitleLv3Title	邪魔哈鲁达！
+WTitleLv4SubTitle	遥远
+WTitleLv4Title	闪耀光辉的勇者们
+WTitleLv5SubTitle	星之卡比
+WTitleLv5Title	新星同盟
+$SavingText	正在保存……
+SoundRoom.msbt
+$SoundRoomBtn	音乐
+$SoundRoomBtn02	音乐
+$SoundRoomAutoBtn	自动
+$SoundRoomAutoBtn02	自动
+$SoundRoomHeader	音响室
+SoundRoomBackBtn	返回
+StageList.msbt
+Lv1	噗噗噗之国
+Lv2	波普之星
+Lv3	邪魔哈鲁达
+Lv4	遥远闪耀光辉的勇者们
+StageName	\x0e\x03\x08\0
+CloseInfoText	关闭
+Step.msbt
+SwitchBigMuseumTitleText	{c[fe9a10]}梦幻神殿{c[000000]}开放！
+SwitchBigMuseumBodyText	按下大开关，{c[fe9a10]}世界地图{c[000000]}上的\n{c[fe9a10]}梦幻神殿{c[000000]}开放了！
+SwitchBigExStageTitleText	{c[fe9a10]}特别关卡{c[000000]}开放！
+SwitchBigExStageBodyText	按下大开关，{c[fe9a10]}世界地图{c[000000]}上的\n{c[fe9a10]}特别关卡{c[000000]}开放了！
+HelperClearTitleText	请选择要{c[fe9a10]}分别{c[000000]}的\n盟友帮手。
+HelperClearTitleHelperText	和{c[fe9a10]}\x0e\x03\x01\0P{c[000000]}的{c[fe9a10]}盟友{c[000000]}分别。 
+HelperClearTitleSpecialText	请选择和{c[fe9a10]}\x0e\x03\x05\0\n{c[000000]}交换的盟友帮手。
+HelperClearCancelText	退出
+HelperClearCancelSpecialText	取消
+$ReviveHelp	救命！
+ReviveCountdownText	拯救卡比吧！
+ReviveCountdown_HelperText	拯救1P\x0e\x03\x05\0吧！
+HeroPanelTwinkleStarName	盟友新星
+HeroPanelTwinkleStarAlliesName	闪耀新星同盟
+FriendHeartDemoTitle	关于盟友之心
+FriendHeartDemoShootHeart	用盟友之心
+FriendHeartDemoGetFriend	增加伙伴吧！
+$FriendCopyAttackUpText	攻击提升！
+FriendCopyRequestElement	加上！
+FriendCopyRequestRide	跳上去！
+SubGame1.msbt
+#Subgame1IngameRemainingNum	还剩{s[150]}\x0e\x03\x01\0{s[100]}m
+#Subgame1ResultRemainingNum	还剩{s[150]}\x0e\x03\x01\0{s[100]}.\x0e\x03\x01\0m
+#Subgame1OutgameDescriptionText_Lv1	这是又慢又简单的关卡。\n避开毛毛虫，多砍树吧！
+#Subgame1OutgameDescriptionText_Lv2	名人的工作速度提高了！\n也要小心突然飞来的黑刺球！
+#Subgame1OutgameDescriptionText_Lv3	毛毛虫和黑刺球大量来袭！\n用目不暇接的速度劈斧，创造巅峰吧！
+#Subgame1OutgameLv1Apprentice	{s[075]}伐木{s[100]}\n见习
+#Subgame1OutgameLv2Master	{s[075]}伐木{s[100]}\n名人
+#Subgame1OutgameLv3Expert	{s[075]}伐木{s[100]}\n仙人
+$Subgame1Lv1Apprentice	{s[070]}伐木{s[100]}见习
+$Subgame1Lv2Master	{s[070]}伐木{s[100]}名人
+$Subgame1Lv3Expert	{s[070]}伐木{s[100]}仙人
+#ExplanationTextPage1	在时间到之前，{c[fe9a10]}大量伐木吧{c[000000]}！\n{c[fe9a10]}摇晃Joy-Con{c[000000]}，挥舞伐木卡比的斧子！
+#ExplanationTextPage2	小心{c[fe9a10]}毛毛虫{c[000000]}和{c[fe9a10]}黑刺球{c[000000]}！\n用\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0向相反方向{c[fe9a10]}快速躲避{c[000000]}！
+#ExplanationTextPage3	黑刺球突然飞向{c[fe9a10]}其他的树{c[000000]}！\n砍断大量的树，建造{c[fe9a10]}气派的木屋{c[000000]}吧！
+$Subgame1HighScore	最高分
+$Subgame1HowToPlay	教学
+$Subgame1Start	开始
+#Subgame1LevelReleaseExplanatory	现在可以玩\n{c[fe9a10]}名人{c[000000]}和{c[fe9a10]}仙人{c[000000]}关卡了！
+$SubgameCmnStickTagL	\x0e\x04\x16\x02\xc3\0
+$SubgameCmnStickTagR	\x0e\x04\x14\x02\xc1\0
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame1OutgamePeopleUnitNum1	{s[150]}1{s[100]}人
+#Subgame1OutgamePeopleUnitNum2	{s[150]}2{s[100]}人
+#Subgame1OutgamePeopleUnitNum3	{s[150]}3{s[100]}人
+#Subgame1OutgamePeopleUnitNum4	{s[150]}4{s[100]}人
+SubGame2.msbt
+$Subgame2HighScore	最高分
+$Subgame2HowToPlay	教学
+$Subgame2Start	开始
+#Subgame2ResultScore	{s[150]}\x0e\x03\x01\0{s[100]}{s[090]}光年{s[100]}
+#Subgame2OutgameDescTextLv1	陨石正逼近城市！\n蓄满力量槽，用球棒反击！
+#Subgame2OutgameDescTextLv2	陨石正袭击和平的世界！\n快点蓄满3次力量槽，看清楚！
+#Subgame2OutgameDescTextLv3	你能拯救奇迹的星球吗？\n更快地蓄满5次力量槽，瞄准全垒打！
+#Subgame2LevelReleaseExplanatory	现在可以玩\n{c[fe9a10]}国家的危机{c[000000]}和{c[fe9a10]}星球的危机{c[000000]}关卡了！
+#Explanation2TextPage1	{c[fe9a10]}陨石的危机{c[000000]}正逼近我们的星球。\n用1根球棒来对抗吧！
+#Explanation2TextPage2	按\x0e\x04\x04\x020\0任意一个，{c[fe9a10]}力量槽会停止积蓄{c[000000]}。\n尽可能{c[fe9a10]}积蓄到最高位吧{c[000000]}！
+#Explanation2TextPage3	陨石袭来的话，{c[fe9a10]}摇晃Joy-Con{c[000000]}！\n{c[fe9a10]}掐准时机{c[000000]}瞄准，全垒打！
+$Subgame2Lv1Crisis	城市的危机
+$Subgame2Lv2Crisis	国家的危机
+$Subgame2Lv3Crisis	星球的危机
+#Subgame2OutgameLv1Crisis	城市的危机
+#Subgame2OutgameLv2Crisis	国家的危机
+#Subgame2OutgameLv3Crisis	星球的危机
+#Subgame2HighScoreUnit	光年
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+#Subgame2OutgamePeopleUnitNum1	{s[150]}1{s[100]}人
+#Subgame2OutgamePeopleUnitNum2	{s[150]}2{s[100]}人
+#Subgame2OutgamePeopleUnitNum3	{s[150]}3{s[100]}人
+#Subgame2OutgamePeopleUnitNum4	{s[150]}4{s[100]}人
+SubGameCmn.msbt
+#SubgameCancelBtn	返回
+#SubgameCancelBtn_End	返回
+#SubgameBackBtn	关闭
+#SubgameCmnPauseWindow_AgainGame	再玩一次
+#SubgameCmnPauseWindow_ChoiceLevel	选择难度
+#SubgameCmnPauseWindow_ToTitle	前往标题画面
+#2SubgameCmnPauseWindow_AgainGame	再玩一次
+#2SubgameCmnPauseWindow_ChoiceLevel	选择难度
+#2SubgameCmnPauseWindow_ToTitle	前往标题画面
+#PausetWindowIngame_GameContinue	继续游戏
+#PausetWindowIngame_Redo	重来
+#PausetWindowIngame_BackTitle	前往标题画面
+#2PausetWindowIngame_GameContinue	继续游戏
+#2PausetWindowIngame_Redo	重来
+#2PausetWindowIngame_BackTitle	前往标题画面
+#SubgameCmnHowToPlayBtn	{s[110]}用按键\n也可以玩！{s[100]}
+#2SubgameCmnHowToPlayBtn	{s[110]}用按键\n也可以玩！{s[100]}
+#SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 手柄设置
+#2SubgameHoldContllorInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0 手柄设置
+#SubgameHoldContllorInfoScreen	摇晃玩的时候，取下左右的Joy-Con，按\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0。
+#2SubgameHoldContllorInfoScreen	摇晃玩的时候，取下左右的Joy-Con，按\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0。
+#SubgameCmnOutgameHoldBeforeOK	确定
+#SubgameCmnOutgameHoldOK	OK
+#SubgameHowToPlayController_Btn	用按键玩
+#SubgameHowToPlayController_Shake	摇晃玩
+#2SubgameHowToPlayController_Btn	用按键玩
+#2SubgameHowToPlayController_Shake	摇晃玩
+#SubgameCmnJoyConL	左Joy-Con
+#SubgameCmnJoyConR	右Joy-Con
+#2SubgameCmnJoyConL	左Joy-Con
+#2SubgameCmnJoyConR	右Joy-Con
+#SubgameCmnHighScoreFreind	与朋友一起
+#SubgameCmnHighScoreSingle	单人
+#2SubgameCmnHighScoreFreind	与朋友一起
+#2SubgameCmnHighScoreSingle	单人
+#SubgameCmnHeadline_PlayerNum	人数
+#SubgameCmnHeadline_Hold	握法
+#SubgameCmnHeadline_Level	难度
+#SubgameCmnHeadline_HighScore	最高分
+#SubgameCmnHeadline_HowToPlay	教学
+#2SubgameCmnHeadline_PlayerNum	人数
+#2SubgameCmnHeadline_Hold	握法
+#2SubgameCmnHeadline_Level	难度
+#2SubgameCmnHeadline_HighScore	最高分
+#2SubgameCmnHeadline_HowToPlay	教学
+#SubgameCmnHeadline_HowToPlayPage1	1/3
+#SubgameCmnHeadline_HowToPlayPage2	2/3
+#SubgameCmnHeadline_HowToPlayPage3	3/3
+#2SubgameCmnHeadline_HowToPlayPage1	1/3
+#2SubgameCmnHeadline_HowToPlayPage2	2/3
+#2SubgameCmnHeadline_HowToPlayPage3	3/3
+#SubgameCmnControllerHold_Vertical	摇晃玩的人\n请取下Joy-Con并{c[fe9a10]}直握{c[000000]}。
+#2SubgameCmnControllerHold_Vertical	摇晃玩的人\n请取下Joy-Con并{c[fe9a10]}直握{c[000000]}。
+#SubgameCmnNumberError	连接的{c[fe9a10]}手柄数量{c[000000]}不够。
+#2SubgameCmnNumberError	连接的{c[fe9a10]}手柄数量{c[000000]}不够。
+#SubgameCmnControllerDisconnection	手柄已更改。\n即将返回标题画面。
+#2SubgameCmnControllerDisconnection	手柄已更改。\n即将返回标题画面。
+#SubgameCmnControllerBothHands	请{c[fe9a10]}双手握{c[000000]}Joy-Con。
+#2SubgameCmnControllerBothHands	请{c[fe9a10]}双手握{c[000000]}Joy-Con。
+#SubgameCmnResultHighScore	最高分
+Test.msbt
+$Text	\x0e\x04\0\x02\0\0\x0e\x04\x01\x02\x01\0\x0e\x04\x02\x02\x02\0\x0e\x04\x03\x02\x03\0\n\x0e\x04\x04\x020\0\x0e\x04\x05\x021\0\x0e\x04\x06\x022\0\x0e\x04\x07\x023\0\x0e\x04\x08\x024\0\n\x0e\x04\t\x02`\0\x0e\x04\n\x02a\0\x0e\x04\x0b\x02b\0\x0e\x04\x0c\x02c\0\x0e\x04\x0d\x02d\0\x0e\x04\x0e\x02e\0\n\x0e\x04\x0f\x02\x90\0\x0e\x04\x10\x02\x91\0\x0e\x04\x11\x02\x94\0\x0e\x04\x12\x02\x95\0\n\x0e\x04\x13\x02\xc0\0\x0e\x04\x14\x02\xc1\0\x0e\x04\x15\x02\xc2\0\x0e\x04\x16\x02\xc3\0\x0e\x04\x17\x02\xc4\0\x0e\x04\x18\x02\xc5\0
+$ExtAbility	\x0e\x05\0\x02\0\0\x0e\x05\x01\x02\x01\0\x0e\x05\x02\x02\x02\0\x0e\x05\x03\x02\x03\0\x0e\x05\x04\x02\x04\0\x0e\x05\x05\x02\x05\0\x0e\x05\x06\x02\x06\0\x0e\x05\x07\x02\x07\0\n\x0e\x05\x08\x02\x08\0\x0e\x05\t\x02\t\0\x0e\x05\n\x02\n\0\x0e\x05\x0b\x02\x0b\0\x0e\x05\x0c\x02\x0c\0\x0e\x05\x0d\x02\x0d\0\x0e\x05\x0f\x02\x0f\0\n\x0e\x05\x10\x02\x10\0\x0e\x05\x11\x02\x11\0\x0e\x05\x12\x02\x12\0\x0e\x05\x13\x02\x13\0\x0e\x05\x14\x02\x14\0\x0e\x05\x15\x02\x15\0\x0e\x05\x16\x02\x16\0\x0e\x05\x17\x02\x17\0\n\x0e\x05\x18\x02\x18\0\x0e\x05\x19\x02\x19\0\x0e\x05\x1a\x02\x1a\0\x0e\x05\x1b\x02\x1b\0\x0e\x05\x1c\x02\x1c\0\x0e\x05\x1d\x02\x1d\0\x0e\x05\x1e\x02\x1e\0\x0e\x05\x1f\x02\x1f\0\n\x0e\x05 \x02 \0\x0e\x05!\x02!\0\x0e\x05"\x02"\0\x0e\x05#\x02#\0\x0e\x05$\x02$\0\x0e\x05%\x02%\0\n\x0e\x06\0\x02p\0\x0e\x06\x01\x02q\0\x0e\x06\x02\x02r\0\x0e\x06\x03\x02s\0\x0e\x06\x04\x02t\0
+$Test2A	&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+DialogTwoBtn	{c[fe9a10]}２つボタン{c[000000]}があるダイアログ\nテスト\ntest
+DialogOneBtn	{c[fe9a10]}1つだけボタン{c[000000]}があるダイアログ\nテスト\ntest
+DialogBottom	{c[fe9a10]}ダイアログボトム{c[000000]}\nテスト\ntest
+Theater.msbt
+$TheaterHeader	影像室
+BtnBack	返回
+MovieUnknown	？？？？
+SimpleCredit	制作人员名单
+ImageMovie	Let's Make Friends\x0e\x17\0\0㊤\x0f\x17\0
+OpeningMovie	星之危机～崩坏的午睡时间
+KibidangoDemo	出现了！盟友之心
+EndingDemo	遥远的生还～飞吧！新星同盟
+CreditNormal	卡比的谢幕
+CreditExtra	盟友的谢幕
+$TheaterNew	NEW
+TitleMenu.msbt
+$TitleMenuNoticeBtn	通知
+TitleMenuCloseBtn	返回
+TitleMenuHeaderFileName	文件 \x0e\x03\x01\0
+TitleMenuHeaderRatio	\x0e\x03\x01\0
+TitleMenuFileSelectFileName	文件 \x0e\x03\x01\0
+TitleMenuFileSelectRatio	\x0e\x03\x01\0
+UnlockTheater	再看一次那部电影！\n{c[fe9a10]}影像室{c[000000]}现已开放。
+UnlockSound	播放所有你喜欢的卡比音乐，\n{c[fe9a10]}音响室{c[000000]}现已开放！
+UnlockHelperGo	用盟友帮手大冒险！\n现在可以玩\n{c[fe9a10]}星之○○○○{c[000000]}了。
+UnlockArenaLv1	那么，来选择自己的极限吧！\n现在可以玩\n{c[fe9a10]}The 终极抉择{c[000000]}了。
+UnlockArenaLv2	The 终极抉择里\n出现了新的难度\n{c[fe9a10]}地狱辣决战口味{c[000000]}和\n{c[fe9a10]}极辣危机口味{c[000000]}！
+UnlockArenaLv3	只有被选上的人\n才敢做这个选择……\n秘密难度\n{c[fe9a10]}灵魂出窍的辣{c[000000]}出现了！！
+$TitleMenuHeaderPercent	%
+$TitleMenuHowToBtn	要大家一起玩的话
+$PressStartBtn	按\x0e\x04\0\x02\0\0开始
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$FileSelectPercent	%
+DialogWindowNoticeTitle_00	新的{c[fe9a10]}梦幻盟友{c[000000]}登场！！
+DialogWindowNoticeText_00	可以召唤的梦幻盟友里\n有{c[fe9a10]}新的伙伴{c[000000]}加入，\n现在总共有{c[fe9a10]}\x0e\x03\x01\0位{c[000000]}了！
+DialogWindowNoticeTitle_01	在{c[fe9a10]}梦幻神殿{c[000000]}里召唤出来吧！
+DialogWindowNoticeText_01	梦幻盟友可以从{c[fe9a10]}故事模式{c[000000]}的\n{c[fe9a10]}梦幻神殿{c[000000]}里召唤出来！\n终于可以和{c[fe9a10]}梦幻的成员{c[000000]}一起出发啦！
+DialogWindowNoticeTitle_02	向{c[fe9a10]}The 终极抉择{c[000000]}前进！
+DialogWindowNoticeText_02	现在可以{c[fe9a10]}选择{c[000000]}\n新的梦幻盟友了！\n组成梦幻队伍向{c[fe9a10]}劲敌{c[000000]}挑战！
+DialogWindowNoticeTitle_02B	{c[fe9a10]}通过更新而增加{c[000000]}的梦幻盟友
+DialogWindowNoticeText_02B	{c[fe9a10]}通过更新而增加{c[000000]}的\n梦幻盟友也来参战了！\n集结梦幻盟友，向{c[fe9a10]}强敌{c[000000]}发起挑战！
+DialogWindowNoticeTitle_03	为星之○○○○增加了{c[fe9a10]}新的地图{c[000000]}！
+DialogWindowNoticeText_03	在{c[fe9a10]}星之○○○○{c[000000]}里选择新的梦幻盟友，\n就能玩{c[fe9a10]}新的地图{c[000000]}！\n向全新的冒险旅程出发吧，GO！
+DialogWindowNoticeTitle_03B	可以玩{c[fe9a10]}新的地图{c[000000]}！
+DialogWindowNoticeText_03B	如果选择{c[fe9a10]}通过更新而增加{c[000000]}的\n梦幻盟友，就可以玩{c[fe9a10]}新的地图{c[000000]}！\n向着新的冒险之旅……GO！
+DialogWindowNoticeTitle_04	增加了新的{c[fe9a10]}纪念插画{c[000000]}！！
+DialogWindowNoticeText_04	增加了新的{c[fe9a10]}纪念插画{c[000000]}，\n现在总共有{c[fe9a10]}\x0e\x03\x01\0幅{c[000000]}了！\n你能收集齐全部插画吗！？
+DialogBottom_Rick	{c[fe9a10]}“陆库&海恩&空”{c[000000]}来自{c[fe9a10]}《Kirby's Dream Land 2》{c[000000]}！\n这三位集结起来组成了豪华的阵容！
+DialogBottom_Marx	来自{c[fe9a10]}《Kirby Super Star》{c[000000]}的大惊喜！\n那位最终魔头{c[fe9a10]}“魔噜酷”{c[000000]}闪亮登场了！
+DialogBottom_Gooey	来自{c[fe9a10]}《Kirby's Dream Land 3》{c[000000]}的充满谜团的怪家伙\n{c[fe9a10]}“蛊依”{c[000000]}突然到访了！
+DialogBottom_Adeleine	来自{c[fe9a10]}《Kirby 64: The Crystal Shards》{c[000000]}的\n{c[fe9a10]}“阿朵莱妮&莉宝”{c[000000]}到了！又见面了呢，绘画的女孩和小精灵！
+DialogBottom_DarkMetaknight	来自{c[fe9a10]}《Kirby & The Amazing Mirror》{c[000000]}，不请自来的\n黑家伙……{c[fe9a10]}“暗魅塔骑士”{c[000000]}，诡异地复苏了！
+DialogBottom_Daroach	来自{c[fe9a10]}《Kirby: Squeak Squad》{c[000000]}的盗贼到了！\n{c[fe9a10]}“怪盗洛切”{c[000000]}寻找宝物，英姿飒爽地登场了！
+DialogWindowUpdateTitle	{c[fe9a10]}更新{c[000000]}的通知！
+DialogWindowUpdateText	《星之卡比 新星同盟》\n已{c[fe9a10]}更新{c[000000]}。\n新增了{c[fe9a10]}许多新的要素{c[000000]}！
+WMap.msbt
+ToWMapSelect	前往选择世界
+DialogWindowExit	要返回选择世界吗？
+DialogWindowUnlockEx	还有更多冒险亟待发现。\n前往{c[fe9a10]}特别关卡{c[000000]}的道路\n现已打开！
+DialogWindowUnlockMuseum	{c[fe9a10]}或许能遇见{c[000000]}梦幻般的那个角色！？\n{c[fe9a10]}梦幻神殿{c[000000]}已开放！
+DialogWindowUnlockAll	隐藏在世界上的\n{c[fe9a10]}所有大开关{c[000000]}已被启动！
+DialogWindowUnlockAbilityRoom	任何时候都能随意拿取\n{c[fe9a10]}复制能力{c[000000]}的特殊星星。\n{c[fe9a10]}能力星{c[000000]}已开放！
+DialogWindowUnlockExAfterStoryCleared	你已通过故事模式！\n前往{c[fe9a10]}特别之星δ{c[000000]}的道路\n现已打开！
+DialogWindowCancelMuseum	此处的梦幻神杖\n已经{c[fe9a10]}使用过了{c[000000]}。\n如果{c[fe9a10]}通过关卡{c[000000]}，\n就能再次使用。
+WMapStageName	\x0e\x03\x08\0
+WMapToIllustGallaryText	插画画廊
+WMapToIllustGallaryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WMapToIllustGallaryBtn_TypeB	\x0e\x04\t\x02`\0
+WMapToStageListText	关卡一览
+WMapToStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WMapToStageListBtn_TypeB	\x0e\x04\n\x02a\0
+WMapLv1NextWinNormal	前往波普之星
+WMapLv1NextWinArrow	前往波普之星
+WMapLv2PrevWinNormal	前往噗噗噗之国
+WMapLv2PrevWinArrow	返回噗噗噗之国
+WMapLv2NextWinNormal	前往邪魔哈鲁达
+WMapLv2NextWinArrow	前往邪魔哈鲁达
+WMapLv3PrevWinNormal	前往波普之星
+WMapLv3PrevWinArrow	返回波普之星
+WMapLv3NextWinNormal	飞向宇宙
+WMapLv3NextWinArrow	飞向宇宙
+WMapLv4PrevWinNormal	前往邪魔哈鲁达
+WMapLv4PrevWinArrow	返回邪魔哈鲁达
+WMapLv4NextWinNormal	前往最后的战斗
+WMapLv4NextWinArrow	直面最后的战斗！
+$StageTitleWindowIn	进入
+WarpPointMoveStart	乘坐
+WSelect.msbt
+WSelectCaptionW1	在和平的世界，发生了一件惊天大事。\n帝帝帝大王偷走了所有的食物！\n年轻的旅人卡比，\n和盟友们踏上了冒险的旅途。
+WSelectCaptionW2	追寻着黑暗之心，在奇迹的星球里穿行！\n按\x0e\x04\x17\x02\xc4\0操纵获取的盟友能力，\n卡比他们翻山越岭，\n不断继续着友情之旅。
+WSelectCaptionW3	在这个突然出现的暗黑要塞里\n埋伏着连魅塔骑士都为之抓狂的敌人。\n到底是为了什么来到此地……？\n卡比一行毫不迟疑，\n一如既往地直捣黄龙！
+WSelectCaptionW4	回过神来已身在宇宙……\n往回看，波普之星正闪着微小的光。\n要守护那颗星球的和平和午睡时间！\n下定了这样的决心{s[070]}（或许吧）{s[100]}，\n卡比他们化作闪耀的星星，飞去！
+WSelectCaptionW5	海内司所说的“神”，实际是没有\n善恶之心，只为了破坏而诞生的存在……\n名为“破神终焉\x0e\x17\0\0・\x0f\x17\0虚无”。\n哪有这样的神，不要手下留情！\n星之卡比最大的战斗……现在开始！！
+WSelectToIllustGalleryBtn	插画画廊
+WSelectToStageInfoBtn	关卡一览
+WSelectToModeSelectBtn	返回选择模式
+WSelectUnlockDialog	已通过故事模式，\n{c[fe9a10]}能力星{c[000000]}和{c[fe9a10]}特别之星δ{c[000000]}现已开放！\n去{c[fe9a10]}“遥远闪耀光辉的勇者们”{c[000000]}\n看看吧！
+WSelectToModeSelectDialog	要返回选择模式吗？
+WSelectGalleryBtn_TypeA	\x0e\x04\x02\x02\x02\0
+WSelectGalleryBtn_TypeB	\x0e\x04\t\x02`\0
+WSelectStageListBtn_TypeA	\x0e\x04\x03\x02\x03\0
+WSelectStageListBtn_TypeB	\x0e\x04\n\x02a\0
+Name\AbilityName.msbt
+AbilityNormal	卡比
+AbilityArtist	艺术家
+AbilityIce	冰冻
+AbilityWhip	鞭子
+AbilityWater	清水
+AbilityWing	风羽
+AbilityEsper	超能力
+AbilityCutter	弯刀
+AbilityCrash	爆裂
+AbilityClean	清洁
+AbilityCook	料理
+AbilityStick	如意棒
+AbilityStone	石块
+AbilitySpider	蜘蛛
+AbilityPlasma	电离子
+AbilitySleep	睡觉
+AbilitySuplex	摔角手
+AbilitySword	利剑
+AbilityNinja	忍者
+AbilityParasol	阳伞
+AbilityHammer	锤子
+AbilityBeetle	独角仙
+AbilityBeam	光束
+AbilityFire	烈火
+AbilityFighter	格斗家
+AbilityFestival	庆典
+AbilityBomb	炸弹
+AbilityMike	麦克风
+AbilityYoyo	溜溜球
+Name\ArenaDifficultyName.msbt
+D1	超甜春风口味
+LowerD1	超甜春风口味
+D2	甜甜散步口味
+LowerD2	甜甜散步口味
+D3	微辣探险口味
+LowerD3	微辣探险口味
+D4	中辣冒险口味
+LowerD4	中辣冒险口味
+D5	超辣试炼口味
+LowerD5	超辣试炼口味
+D6	地狱辣决战口味
+LowerD6	地狱辣决战口味
+D7	极辣危机口味
+LowerD7	极辣危机口味
+Secret	灵魂出窍的辣
+LowerSecret	灵魂出窍的辣
+Name\BossName.msbt
+BossNameBonkers	锤星猩
+BossNameGiantironmom	巨大装甲玛姆
+BossTitleGiantironmom	顽强的大母
+BossNameMisterfrosty	冰霜先生
+BossNameVivitia	彩绘比比提安
+BossNameWhispywoods	风语大树
+BossTitleWhispywoods	森林的守卫
+BossNameWhispywoodsEx	远古巨树
+BossTitleWhispywoodsEx	残樱的古树
+BossNameKingdedede	帝帝帝大王
+BossTitleKingdedede	宿敌之暴君
+BossNameMetaKnight	魅塔骑士
+BossTitleMetaKnight	孤高的骑士
+BossNameBonkersAndMisterfrosty	锤星猩&冰霜先生
+BossNameBonkersAndVivitia	锤星猩&彩绘比比提安
+BossNameMisterfrostyAndBugzzy	冰霜先生&锹形大甲虫
+BossNameChefKawasakiAndVivitia	厨师川崎&彩绘比比提安
+BossNameChefKawasakiAndChefKawasaki	双重厨师川崎
+BossNameVivitiaAndVivitia	双重彩绘比比提安
+BossNameMisterfrostyAndMisterfrosty	双重冰霜先生
+BossNameBonkersAndBonkers	双重锤星猩
+BossNameBugzzyAndBugzzy	双重锹形大甲虫
+BossNameBugzzyAndVivitia	锹形大甲虫&彩绘比比提安
+BossNamePonAndKon	阿狸&阿狐
+BossTitlePonAndKon	守门兽
+BossNameGoldPonAndSilverKon	金狸&银狐
+BossTitleGoldPonAndSilverKon	金角银角
+BossNameBugzzy	锹形大甲虫
+BossNameKracko	独眼云
+BossTitleKracko	单眼的雷云
+BossNameTwinKracko	双重独眼云
+BossTitleTwinKracko	乱舞双云
+BossNameExecutiveIce	冰斧基斯
+BossTitleExecutiveIce	冰晶三魔官
+BossNameExecutiveIceEx	冰斧基斯
+BossTitleExecutiveIceEx	灾厄再来的冰晶
+BossNameExecutiveFire	炎剑露啾
+BossTitleExecutiveFire	业火三魔官
+BossNameExecutiveFireEx	炎剑露啾
+BossTitleExecutiveFireEx	灾厄再来的业火
+BossNameExecutiveThunder	雷枪帕噜提扎努
+BossTitleExecutiveThunder	雷牙三魔官
+BossNameExecutiveThunderEx	雷枪帕噜提扎努
+BossTitleExecutiveThunderEx	灾厄再来的雷牙
+BossNameChefKawasaki	厨师川崎
+BossNameHiness	海内司
+BossTitleHiness	魔神官
+BossNameLastBoss	终焉\x0e\x17\0\0・\x0f\x17\0虚无
+BossTitleLastBoss	破神
+BossNameLastBossEx	虚无之灵魂
+BossTitleLastBossEx	魂沌
+BossNameGalacticKnight	星河骑士
+BossTitleGalacticKnight	时空巡逻战士
+BossNameSecretHades	冥蝶骑士
+BossTitleSecretHades	复活的极蝶
+Name\CharaName.msbt
+CharaKirby	卡比
+CharaWester	牛仔
+CharaSirkibble	弯刀骑士
+CharaChilly	粗眉雪人
+CharaKnucklejoe	格斗家乔
+CharaBirdon	飞行鸟
+CharaBurningleo	燃烧鬃冠
+CharaBroomhatter	魔扫把
+CharaBladeknight	剑骑士
+CharaBonkers	锤星猩
+CharaPoppyjr	小波比兄弟
+CharaRocky	硬石
+CharaParasolWaddledee	阳伞瓦豆鲁迪
+CharaWaddledoo	瓦豆鲁笃
+CharaWaterEnemy	噗噜鳗
+CharaKingDedede	帝帝帝大王
+CharaBandanaWaddledee	头巾瓦豆鲁迪
+CharaMetaknight	魅塔骑士
+CharaBeetlie	大角甲虫
+CharaBioSpark	暗忍
+CharaVivitia	彩绘比比提安
+CharaNesp	咒术师
+CharaBugzzy	锹形大甲虫
+CharaStickEnemy	邪哈鲁武人
+CharaConce	电插头
+CharaComo	三眼蜘蛛
+CharaGim	机姆
+CharaChefKawasaki	厨师川崎
+CharaGooey	蛊依
+CharaRick	陆库&海恩&空
+CharaMarx	魔噜酷
+CharaAdeleine	阿朵莱妮&莉宝
+CharaDarkMetaknight	暗魅塔骑士
+CharaDaroach	怪盗洛切
+Name\FriendCopy.msbt
+SwordFlame	火焰剑
+SwordFreeze	冰雪剑
+SwordThunder	电气剑
+SwordAqua	冲击剑
+SwordWind	风切剑
+HammerFlame	火焰锤
+HammerFreeze	冰雪锤
+HammerThunder	电气锤
+HammerAqua	冲击锤
+HammerWind	风切锤
+BombFlame	火焰炸弹
+BombFreeze	冰雪炸弹
+BombThunder	电气炸弹
+BombAqua	冲击炸弹
+BombWind	风切炸弹
+CutterFlame	火焰弯刀
+CutterFreeze	冰雪弯刀
+CutterThunder	电气弯刀
+CutterAqua	冲击弯刀
+CutterWind	风切弯刀
+WhipFlame	火焰鞭
+WhipFreeze	冰雪鞭
+WhipThunder	电气鞭
+WhipAqua	冲击鞭
+WhipWind	风切鞭
+StoneFreeze	滑溜溜冰壶
+StoneAqua	流水冰壶
+StoneClean	扫把冰壶
+ParasolGuard	相亲相爱伞
+NinjaFlame	火焰忍者
+NinjaFreeze	冰雪忍者
+NinjaThunder	电气忍者
+NinjaAqua	冲击忍者
+NinjaWind	风切忍者
+StickFlame	火焰如意棒
+StickFreeze	冰雪如意棒
+StickThunder	电气如意棒
+StickAqua	冲击如意棒
+StickWind	风切如意棒
+YoyoFlame	火焰溜溜球
+YoyoFreeze	冰雪溜溜球
+YoyoThunder	电气溜溜球
+YoyoAqua	冲击溜溜球
+YoyoWind	风切溜溜球
+FighterThrow	力投盟友
+SuplexThrow	力投盟友
+FriendRolling	盟友滚轮
+FriendBridge	盟友吊桥
+PlasmaAqua	冲击电波
+WaterFreeze	冰柱弹
+WaterThunder	电气水弹
+FireWind	火焰风射
+SpearFlame	火焰枪
+SpearFreeze	冰雪枪
+SpearThunder	电气枪
+SpearAqua	冲击枪
+SpearWind	风切枪
+TwinkleStar	盟友新星
+EsperStone	念力移物
+FriendTrain	盟友列车
+TwinkleStarFinal	闪耀新星同盟
+CookNormal	炖锅盟友
+CookCharged	火锅盟友
+CrashSingle	慌乱爆裂
+CleanThrow	吸尘器盟友
+ArtistStone	乱涂物体
+BeetleThrow	力投盟友
+MikeSingle	死亡之声合唱团
+ArtistMulti	食物具体化
+Spider	弹跳盟友
+Festival	热情庆典
+MarxFlame	火焰魔噜酷
+MarxFreeze	冰雪魔噜酷
+MarxThunder	电气魔噜酷
+MarxAqua	冲击魔噜酷
+MarxWind	风切魔噜酷
+AdeleineMulti	野餐画家
+Name\StageName.msbt
+L1S1	绿庭旅途
+L1S2	甜甜圈土穴
+L1S3	蜂蜜风丘
+L1S4	水果山林
+L1S5	顶峰决战 帝帝帝城堡
+L1S6	特别糖果
+L2S1	卡通枯叶
+L2S2	比肩滨海
+L2S3	新生雪界
+L2S4	星球险境
+L2S5	盟军梦想
+L2S6	与伴勇者
+L2S7	同步拓地
+L3S1	通往敌营的道路
+L3S2	东侧的高墙
+L3S3	凝视的回廊
+L3S4	西侧的外墙
+L3S5	中央深处
+L3S6	天启之间
+L3S7	甲区域
+L3S8	乙区域
+L3S9	丙区域
+L4S1	落叶之秋行星
+L4S1B	秋月小行星
+L4S2	水汪汪行星
+L4S2B	汪洋大海小行星
+L4S3	洞窟行星
+L4S3B	窟窿小行星
+L4S4	冰雪寒行星
+L4S4B	寒冬小行星
+L4S5	机关塔行星
+L4S5B	塔顶小行星
+L4S6	陨石岩初星
+L4S6B	火焰小行星
+L4S7	邪魔哈洛亚大魔星
+L4S7B	终焉神降卫星
+L4S8	特别之星α
+L4S9	特别之星β
+L4S10	特别之星γ
+L4S11	特别之星δ
+Museum	梦幻神殿
+AbilityRoom	能力星
+Name\WorldName.msbt
+Lv1SubTitle	和平的世界
+Lv1Title	噗噗噗之国
+Lv2SubTitle	奇迹的星球
+Lv2Title	波普之星
+Lv3SubTitle	暗黑要塞
+Lv3Title	邪魔哈鲁达！
+Lv4SubTitle	遥远
+Lv4Title	闪耀光辉的勇者们
+Lv5SubTitle	星之卡比
+Lv5Title	新星同盟
+Pause\Ability.msbt
+Normal	按\x0e\x07\x02\x02\x02\0咻咻咻地投出心，\n增加个性丰富的盟友！\n变换组成各种各样的队伍，\n按\x0e\x04\x17\x02\xc4\0召唤友情的力量，\n无论何时何地都能获得盟友能力！
+InWater	轻快舒畅地游泳！\n这次还能斜着游哦。\n虽然在水中不能使用心，\n但是带着可使用能力的盟友，\n代替自己不断出战，就完全不用担心啦！
+Plasma	发电，蓄电，电离子复活！\n咔嚓咔嚓推动摇杆储蓄的能量，\n可以向上发射子弹哦！\n使盟友的武器能够释放电击，\n成为能释放雷电的雷鸣武器！
+Suplex	是个燃烧着斗志的冠军。\n可以用定点踢和冲刺来攻击，\n也能抓住敌人或星星后甩出！\n按\x0e\x04\x17\x02\xc4\0抓住盟友甩出去！\n坚硬的岩石都能被撞得粉碎！
+Cook	失落已久的超级美味复活了！\n碟子里放着各种各样的食材，\n把这个或那个盟友都放进去，\n咕嘟咕嘟地煮，好咧，上桌！\n长按后咕嘟咕嘟地煮，伤害大大的！
+Clean	乘着扫帚呼啦啦地飞到空中！\n轻轻一扫，清风四起，\n将落叶和敌人都吹飞！\n还能用水桶将火都浇熄哦。\n和老伙伴们一起进行大扫除吧！
+Stick	挥舞细长如意棒的武术。\n一骑当千，横扫敌人！\n而且这根如意棒还能咻地伸长，\n运用它像高跳一样，咻地飞起来。\n真是神奇哦。异国的武器！
+Water	清澈的水让人顿感清新，精神为之振奋！\n连水枪的威力也增强了。\n用冲浪在水面悠哉地滑行，\n连很重的石块也能轻松地运走！\n把喷泉冻起来的话，会发生什么事！？
+Wing	驮着朋友们飞上天空，\n感觉爽快而愉悦。\n展翅，自由自在地操纵着风！\n武器被风层层包裹，\n产生的气流直冲天际！
+Beetle	尖尖的头部闪闪发光，\n昆虫之王再次驾临！\n可以用铁头撞击打桩。\n按\x0e\x04\x17\x02\xc4\0把大家召集到头上，\n盟友全员集合，大力地投掷出去！
+Artist	挥舞彩色的画笔，\n踏上绘画修行的旅途！\n将那美味成真的感觉，\n分享给朋友们，就像魔法一样。\n用艺术拯救世界吧，和平万岁！
+Spider	完美地抓住啦，蜘蛛！\n逼得对手无处可逃，简直是猎人！\n用蜘蛛丝不断施展妙技，\n在周围架起有弹性的蜘蛛丝，\n让盟友弹起来，好咧，跳跃！
+Festival	嘭！啪！这是关于庆典的能力。\n大家都情不自禁地跳起舞来！\n全明星的盟友们都聚集起来，\n开始跳起节日的舞蹈！\n真是令人难以忘怀的庆典啊！
+Sword	按\x0e\x04\x17\x02\xc4\0亮剑吧，武器之王！\n盟友会根据信号增添各种炫目的效果！\n替换成员，让火或水环绕剑身。\n还能生出冰，用陨石砸得粉碎吧。\n用风疯狂上升，形成狂野的气流！
+Cutter	这是能割断草和藤蔓的回旋镖哦。\n盟友们所施加在地面的火或水，\n只要让镖身掠过，就能让其附带这些元素。\n如果被风环绕，还能蹭蹭地往上飞！\n用最终弯刀清扫大地吧！
+Fire	这是灼热燃烧的火焰招式哦。\n导火线呀，盟友的武器呀，\n可以点燃各种东西！\n火热的友情力量聚集在一起，\n从这火焰中甚至还能诞生出全新的武器！
+Ice	呼呼地吹气，将敌人都冻起来，\n用脚踢攻击，将对方踹飞！\n要小心滑冰冲刺时的转向，\n盟友的武器也会冻得硬邦邦的！\n还能让石块像冰壶一样滑行！
+Stone	可以很酷地在坡道上无敌滑行哦。\n还能进行各种变形，打桩。\n无论在哪里都能用水或冰来打冰壶！\n或是让朋友浮在空中，然后重重坠下！\n或许偶尔还会被这艺术弄得眼花？
+Beam	噼哩啪啦电光四射的电击。\n射击的话会打出周波，跳起来就会放电哦。\n威力经过强化的机关枪！\n能迅速射出波动光束，\n连盟友的武器也会一下子触电！
+Hammer	是大王亲传的巨大锤子，\n能打桩并将周围夷为平地！\n用不断积蓄的力量把一切砸得粉碎，\n但请小心，别积蓄过度。\n借用盟友合力，战斗吧！
+Parasol	帅气地飞洒出水花来进行攻击，\n时不时还能轻飘飘地在空中散步。\n按\x0e\x04\x17\x02\xc4\0打开，\n就会展开一把连瀑布都能挡住的大阳伞哦。\n还有什么比共享一把阳伞更美妙的呢？
+Bomb	地上的炸弹，大家都能捡！\n在盟友施展了火或水的地面上\n滚动，就会炸弹大变身！\n发出惊人一击，被风环绕的话，\n会轻飘飘地在空中飞翔吧！？
+Ninja	来自忍者故乡的帮手们前来襄助！\n用盟友合力让小刀和剑\n环绕火或风，咻咻咻地挥舞！\n以居合之术穿过特殊的地面，\n时令花草纷纷绽放！！
+Fighter	充满雄性气息的格斗复制能力！\n还包含了很多招式！\n抓住敌人狠狠地扔出去！\n也可以把盟友扔出去！\n扔出去，把岩石什么都撞碎！
+Whip	噼！啪！复制熟悉的鞭击能力。\n可以卷住物品后扔向敌人。\n是火焰鞭子的话，能带着火挥鞭！\n用冰冻的话，就能源源不断挥出冰柱，\n用电击或台风，就能下雷雨！
+Esper	念咒语后就会消失哦，就像魔法一样！\n用\x0e\x04\x17\x02\xc4\0施展念力移动些什么试试？\n预知未来进行防御。\n释放念力，造成电击伤害！\n好，来吧，超能力少年！
+Yoyo	来啦，调皮的溜溜球！\n一会儿上，一会儿下，霹雳旋转，\n连带狗散步都轻轻松松的！\n附加上属性后，威力会提升，\n酷帅地做出花样繁多的动作吧！
+Sleep	……再……稍微……呼噜噜……\n拜托你了……就让我……睡会儿……\n……要叫醒……我的话……呼噜噜……\n……就让朋友……打我……一下……
+Crash	危险！危险！最终兵器！\n嘭地一击，就能打飞。\n让盟友也加入，一起慌乱吧。\n拼命用\x0e\x04\x13\x02\xc0\0充电的话，\n会更危险！慌乱大爆发！
+Mike	耶！耶！哇哦！哇哦！\n饱含热情连唱3首歌！\n积蓄能量的话，音量会提高。\n和盟友一起唱，会默契爆棚哦。\n集合众人，来个大合唱吧！
+BandanaWaddledee	只有这次是特别的吗，梦幻盟友！\n他代表瓦豆鲁迪们来接受\n他们在卡比系列中的完美全勤奖。\n在被问及是否辛苦时，他一边回答\n哪里哪里，一边还在锻炼着刺枪的动作！
+KingDedede	来自《星之卡比》的对手！\n这个拥有大王之名的强悍家伙，\n会继承盟友的力量，注入锤子。\n心动不如行动，亲自试试看吧！\n你一定无法拒绝！
+Metaknight	在《梦之泉物语》中初次登场！\n心怀骑士精神，\n向孤高的修行发起挑战的他，\n绝不会忘记和朋友之间的情谊。\n让崭新的盟友合力擦亮你的剑吧！
+Rick	伙伴们从《Kirby's Dream Land 2》前来参战！\n决定让谁来上场这种事还真是棘手啊。\n就这样了，组成三人的梦幻队伍！\n陆库是陆地，海恩是大海，空是天空，\n称霸陆海空！动物盟友的陆海空战队！
+Gooey	这个怪家伙扭啊扭地，从《Kirby's Dream Land 3》\n突然到访于此。他就是以长长的舌头为傲的蛊依！\n会来到这里似乎有很多原因……？\n虽然不太明白，但既然来了，\n那就一起愉快地冒险吧！
+Marx	嘿、嘿、嘿！来自《Kirby Super Star》的\n小丑终于登场了！\n或许还是会干很多坏事……\n但吃了饭的话，就是好朋友了。\n太梦幻了，和那位最终魔头一起踏上旅途吧！
+Adeleine	久等了！来自《Kirby 64: The Crystal Shards》，\n真没想到还能与她们相见……\n艺术女孩和小精灵，重返波普之星！\n对体力没什么自信……但会描绘奇迹般的画来战斗，\n用闪闪发光的水晶射击敌人！
+DarkMetaknight	来自天空那边的《Kirby & The Amazing Mirror》，\n不请自来的影子无所畏惧地复苏了！\n用心的力量革新过了？心怦怦跳，\n虽然是个极度怪异的家伙，但与其同行的话，\n会很放心。用影子的力量，让光……到来！
+Daroach	我要获得那宝物！来自《Kirby: Squeak Squad》，\n预告……怪盗洛切前来参战！\n没有偷不到的东西。不管是盟友还是其他，\n都会去偷，所以一起去寻宝吧。\n现在，带上团员去财宝大狩猎！
+FriendsStar	聚集了盟友们的力量，\n闪闪发光的星星诞生了！\n不论是空中还是地上，\n大家都能随意射出星星子弹！\n按\x0e\x07\x02\x02\x02\0调换位置，\n由领头的成员瞄准对手的弱点！
+FriendsRolling	聚集了盟友们的力量，\n朋友们的大环诞生了！\n顺着斜坡骨碌骨碌地滚，\n用大大的轮环顺走物品，\n沟渠的话，可以通过长按来跳跃！
+FriendsBridge	聚集了盟友们的力量，\n友谊的桥梁诞生了！\n按\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0快速地舞动手脚，\n调整路线，是解开谜题的关键！\n引导你前往那家伙所在地的桥梁！
+FriendsTrain	聚集了盟友们的力量，\n成为了一辆蒸汽列车！\n呜～呜～，攀登墙壁，\n全速驶向广阔的天地！\n这就是梦之友谊特快列车！
+TwinkleStarAllies	由温暖心意诞生的\n神秘的“闪耀新星同盟”。\n想要拯救银河中所有人的愿望\n化为了闪闪发光的星星，现在，\n向着最后的敌人……发起挑战！！
+LastCloseContest	{s[140]}已经到了这里，就绝不能输了！\n发射闪耀新星，\n打败最后的敌人吧，星之卡比！！{s[100]}
+Pause\Boss.msbt
+TitleWhispywoods	VS 风语大树
+TextWhispywoods	{s[095]}每次都能相遇的老对手，魔头中的魔头，\n风语大树出现了！\n他变得郁郁葱葱，连掉落的苹果也变多了。\n按\x0e\x04\x17\x02\xc4\0发动盟友能力，\n讨伐这棵长着人脸的大树吧！{s[100]}
+TitleKingdedede	VS 帝帝帝大王
+TextKingdedede	{s[095]}真没想到，那个帝帝帝大王竟然\n独占了全国的食物。如此可怕的\n状况，究竟有谁能够制止呢……\n极度凶恶的大王毫不掩饰自己的\n野兽之心，向他永远的对手袭来！{s[100]}
+TitleMetaKnight	VS 魅塔骑士
+TextMetaKnight	{s[095]}一心一意追求强大的力量，苦心修行，\n这就是孤高的魅塔骑士。\n但是，他再一次被黑暗之心蒙蔽了心灵。\n那潜藏在心底的一点点野心\n被大大激发，他挥舞着剑袭击过来！{s[100]}
+TitlePonKon	VS 阿狸&阿狐
+TextPonKon	{s[095]}出现在眼前的果然是那两只，\n阿狸＆阿狐！盘踞在敌人营门下的\n他们身着玄铁铠甲，\n作为这个营门的守门人，\n阻挡盟友们的前进！\n{s[100]}
+TitleYggdrawoods	VS 远古巨树
+TextYggdrawoods	{s[095]}咦？风语大树……不是的！？\n经历过漫长岁月的年迈的树木之王，\n远古巨树现身了！\n他向在这个未知行星迷路的旅人们\n疯狂地发起了大自然的试炼！{s[100]}
+TitleSPonGKon	VS 金狸&银狐
+TextSPonGKon	{s[095]}金色的狸猫！银色的狐狸！\n以某个行星上的小岛腹地为巢穴，\n2只盟友组合！他们领地意识非常强，\n一旦发现闯入者就会咻地变身，\n以迅雷不及掩耳的速度袭来，是怪物般的野兽！{s[100]}
+TitleGiantironmom	VS 巨大装甲玛姆
+TextGiantironmom	{s[095]}无论怎样的攻击都能反弹，以铜墙铁壁般的\n防御自夸的女战士，巨大装甲玛姆！\n连星星的炮弹都无法打倒，但是……\n找到那家伙的弱点属性，\n用盟友合力击败钢铁的巨人吧！{s[100]}
+TitleKracko1	VS 独眼云
+TextKracko1	{s[095]}哪怕是未知的行星，只要有天空就会出现！\n是那再熟悉不过的独眼云！\n但是，因为成长的环境不同，\n感受到了一股和平常不太一样的能量……\n不要大意，一鼓作气打败他！{s[100]}
+TitleKracko2	VS 双重独眼云
+TextKracko2	{s[095]}波普之星上出生的会有所不同！\n云朵变成两倍大以后，再度登场！\n像描绘在天空中的脸一样，用他的\n2道目光盯着你！如果是盟友合力的话，\n就算是凶猛的组合攻击也一定能战胜！{s[100]}
+TitleExecutiveIce	VS 冰斧基斯
+TextExecutiveIce	{s[095]}冰晶三魔官……蓝色的“冰斧基斯”。\n是负责指挥邪魔哈鲁达的首领。\n沉着冷静的她所使出的\n如冻冰般的冷气攻击，\n据说连对手的心都能冻住。{s[100]}
+TitleExecutiveFire	VS 炎剑露啾
+TextExecutiveFire	{s[095]}业火三魔官……红色的“炎剑露啾”。\n用燃烧的心踢飞敌人，十分火热，\n是三魔官之一。好像只要事关\n蓝色的冰斧基斯，就会变得有点火热过头。\n现在也正处于相当愤怒的状态。{s[100]}
+TitleExecutiveThunder	VS 雷枪帕噜提扎努
+TextExecutiveThunder	{s[095]}雷牙三魔官……金色的“雷枪帕噜提扎努”。\n责任感很强，是三魔官的首领。\n会高高跳起，愚弄敌人。她持续不断地\n向这个要塞供应电力。似乎因为什么人的命令\n而在回收着黑暗之心……{s[100]}
+TitleExecutiveIceRevenge	VS 冰斧基斯
+TextExecutiveIceRevenge	{s[095]}在银河里四处寻找黑暗之心，\n搜索各种各样星星的蓝色三魔官，\n力量增强后袭来了！\n在本次任务中，不太能见到\n炎剑露啾，可能会有点想念她。{s[100]}
+TitleExecutiveFireRevenge	VS 炎剑露啾
+TextExecutiveFireRevenge	{s[095]}正在执行寻找黑暗之心的任务，\n但实际上，来到舒适的星球后，\n稍稍有点偷懒，过得很舒坦。\n虽然很想和冰斧基斯一起来这个星球，\n但这个热度她恐怕马上就会融化消失吧。{s[100]}
+TitleExecutiveThunderRevenge	VS 雷枪帕噜提扎努
+TextExecutiveThunderRevenge	{s[095]}发誓绝对效忠于主人海内司，\n是三魔官的首领。只是那位主人还没能\n记住她那过长的名字。就算没有被\n好好对待，她也因为被收养的恩情以及\n臣服于那份超凡魅力，而由衷敬爱着他。{s[100]}
+TitleExecutiveIceRevengeArena	VS 冰斧基斯
+TextExecutiveIceRevengeArena	{s[095]}～ 致神的祈祷 ～\n尽管，寒冷如冰！尽管，坚硬如石！\n但是，听我们祈祷！\n尽管，寂寞如雪！尽管，只求相见！\n但是，请听我们三个祈祷！{s[100]}
+TitleExecutiveFireRevengeArena	VS 炎剑露啾
+TextExecutiveFireRevengeArena	{s[095]}即便如此，我们歌唱，\n神啊，请把我们的心声传递给那个人！\n\n\x0e\x15\0\x02\x1e\0尽管痛苦，尽管渴望！\n但是，所念所想，皆是你！{s[100]}
+TitleExecutiveThunderRevengeArena	VS 雷枪帕噜提扎努
+TextExecutiveThunderRevengeArena	{s[095]}尽管，寒冷如冰！尽管，坚硬如石！\n但是，我们不会停止！\n\n\x0e\x15\0\x02\x1e\0没错，我们只是祈祷！{s[090]}（没错，我们只是祈祷！）{s[095]}\n请听到我们的心声哦。{s[100]}
+TitleHiness1	VS 海内司
+TextHiness1	{s[095]}企图让自己崇拜的破坏神复苏的男人。\n但是仪式失败，导致黑暗的力量\n散落在了整个银河中。现在他正将\n所有的黑暗都搜集到封印的祭坛。\n盟友们哦，一起来阻止破坏神的复活吧！{s[100]}
+TitleHiness2	VS 海内司
+TextHiness2	{s[095]}将内心压抑的情绪毫不掩饰地表露出来，\n海内司开始了他狂乱的舞蹈！\n简直把没有意识的三魔官姐妹\n当成人偶一样摆弄，完全不是正义所为。\n结束这场噩梦般的战斗，拯救这一切！{s[100]}
+TitleHiness1Arena	VS 海内司
+TextHiness1Arena	{s[095]}海内司还没能完全解开封印，掌控一切。\n在关于虚无的传说之书里只写着，\n从前有4位英雄，用4支心之枪封印了\n不断生出黑暗的虚无。\n在那之后，他们就全都消失了吧。{s[100]}
+TitleHiness2Arena	VS 海内司
+TextHiness2Arena	{s[090]}邪魔了哈＝你好呀　邪魔我气＝愤怒\n邪魔了拜＝再见啦　邪魔卡夏＝谢谢\n嗯邪？＝什么事？　魔久＝又　旺常＝非常\n邪格＝马上　邪忘斯＝忘记　邪歉＝抱歉{s[100]}\n{s[100]}例如：雷枪帕噜，魔久邪格邪忘斯，旺常邪歉！{s[100]}\n{s[080]}翻译：雷枪帕噜，又马上忘记，非常抱歉！{s[100]}
+TitleLastBoss1	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBoss1	{s[095]}升起来吧！破坏神啊！\n碾碎星星，毁灭爱啊！\n\n\x0e\x15\0\x02\x1e\0让大地哀鸿遍野，如你所愿，\n踏遍群星，奏响摧毁之乐，\n让远方的乐园，永远……终结！{s[100]}
+TitleLastBoss2	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBoss2	{s[095]}升起来吧！破坏神啊！\n吞噬星星，毁灭爱啊！\n\n\x0e\x15\0\x02\x1e\0让天空响彻哀鸣，从天而降的黑暗哦，\n审判星之子，奏响尖叫之乐，\n让梦的乐园，永远……终结！{s[100]}
+TitleLastBoss3	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBoss3	{s[095]}令人惊恐的虚无本体现身了！\n不带有任何情感，由黑暗的能量制作而成，\n如物质一般的存在，现在有什么正逐渐觉醒。\n在这样的睡梦中，虚无第一次真心渴求……{s[100]}\n\n{s[140]}\x0e\x15\0\x02\x1e\0碾碎面前的敌人！{s[100]}
+TitleLastBoss4	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBoss4	{s[095]}一位伴着春风出现的年轻旅行者，\n与许许多多的朋友们相会，分别，\n最后终于到达了这里！\n快点，击败那家伙，那大家……{s[100]}\n\n{s[150]}\x0e\x15\0\x02\x1e\0吃个午饭，打个盹！{s[100]}
+TitleLastBoss4Arena	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBoss4Arena	{s[095]}不知何时何地出现的一个存在，\n在漫长的岁月里，他不断在银河里游荡，\n最后终于到达了这里！\n然后现在，他开始感受、祈愿和思考……{s[100]}\n\n{s[140]}\x0e\x15\0\x02\x1e\0虚无的身体里，蕴藏着魂魄！{s[100]}
+TitleLastBossEx1	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossEx1	{s[095]}升起来吧！破坏神啊！\n碾碎星星，毁灭爱啊！\n\n\x0e\x15\0\x02\x1e\0让大地哀鸿遍野，如你所愿，\n踏遍群星，奏响摧毁之乐，\n让远方的乐园，永远……终结！{s[100]}
+TitleLastBossEx2	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossEx2	{s[095]}升起来吧！破坏神啊！\n吞噬星星，毁灭爱啊！\n\n\x0e\x15\0\x02\x1e\0让天空响彻哀鸣，从天而降的黑暗哦，\n审判星之子，奏响尖叫之乐，\n让梦的乐园，永远……终结！{s[100]}
+TitleLastBossEx3	VS 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossEx3	{s[095]}憎恶、执念、嫉妒和欲望……海内司\n所搜集的黑暗在虚无的体内转变成了\n一股暗黑的力量。与他体内新生的灵魂\n发生冲突，成为混沌，并不断增强。\n但是，我们不会输……因为，{s[100]}\n\n{s[140]}\x0e\x15\0\x02\x1e\0星星的朋友们会一直支持你！{s[100]}
+TitleLastBossEx4	VS 虚无之灵魂
+TextLastBossEx4	{s[090]}分不清是童话还是梦话……那本传说的书\n还有续写。据说，根据收集到的能量，\n虚无或许会变成各种各样的形态。\n没有朋友，由黑暗的物质诞生而成的他，\n只能继续在银河里徘徊，等待新生的那一天吧。\n绕着遥远的星星巡游。到那时，作为朋友……！{s[100]}
+TitleGalacticKnight	VS 星河骑士
+TitleBknight	VS 冥蝶骑士
+TextBknight	{s[090]}默默忍耐着的极乐梦蝶于审判之日飞临。\n带它来此的据说是银河最强的白色骑士。\n与漫长的生命呼喊产生共鸣，\n化身黄泉骑士降临于世。\n本已被埋葬在历史的黑暗中，绝无可能一战。\n但现在，与它的梦幻对决……即将拉开帷幕！！{s[100]}
+Pause\CommandAdeleine.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	彩笔挥击
+C12	冲刺＋\x0e\x07\x01\x02\x01\0
+D12	奋不顾身彩笔
+C13	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+D13	画家
+C14	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+D14	阿朵画家
+C15U	“阿朵画家”可以乘着召唤来的魔头战斗！
+C21	在空中\x0e\x07\0\x02\0\0
+D21	莉宝的翅膀
+C22	在使用莉宝的翅膀时\x0e\x07\x01\x02\x01\0
+D22	莉宝水晶
+C23	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D23	精灵飞舞
+C24U	精灵飞舞可以抓取道具！
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D31	躲在画布后
+C32	长按\x0e\x04\x17\x02\xc4\0
+D32	野餐画家
+Pause\CommandArtist.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	冲刺＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	在雕像后\x0e\x07\x01\x02\x01\0
+C23K	长按\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x03\x02\x03\0
+D11	彩笔挥击
+D12	彩笔洒击
+D13	画家
+D21	雕像
+D22	尽情破坏
+D23	画满全世界
+C51	长按\x0e\x04\x17\x02\xc4\0
+D51	食物具体化
+C53W	\x0e\x05\x0c\x02\x0c\0在变身石块时，\n会被彩笔挥击等攻击击中。
+D53	乱涂物体
+Pause\CommandBandanaWaddledee.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0之后\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C13W	连打\x0e\x07\x01\x02\x01\0
+C14	长按\x0e\x07\x01\x02\x01\0～放开
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	冲刺＋\x0e\x07\x01\x02\x01\0
+C24	冲刺＋在空中连打\x0e\x07\x01\x02\x01\0
+C31	冲刺＋长按\x0e\x07\x01\x02\x01\0～放开
+C32	在水中\x0e\x07\x01\x02\x01\0
+C33	在水中\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34	在水中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	刺枪
+D12	回马枪
+D13	瓦豆百烈枪\n　～致命刺
+D14	瓦豆直升机
+D21	天空刺
+D22	落月刺
+D23	瓦豆掷枪
+D24	连续瓦豆掷枪
+D31	瓦豆三连掷
+D32	水中刺枪
+D33	水中上刺
+D34	水中下刺
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1d\x02\x1d\0＋\x0e\x06\x02\x02r\0
+D52	火焰枪
+D53	冰雪枪
+D54	电气枪
+Pause\CommandBeam.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	冲刺＋\x0e\x07\x01\x02\x01\0
+C13	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C21	长按\x0e\x07\x01\x02\x01\0～放开
+C22W	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+D11	光束鞭
+D12	周波光束
+D13	光束机关枪
+D21	波动光束
+D22	捕捉光束
+C51UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}电之力{c[000000]}！\n另外还有各种各样的组合！
+C52	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x1a\x02\x1a\0
+D52	电气剑
+D53	电气弯刀
+D54	电气炸弹
+Pause\CommandBeetle.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	连打\x0e\x07\x01\x02\x01\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14	冲刺＋\x0e\x07\x01\x02\x01\0＋\x0e\x04\x17\x02\xc4\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	在空中\x0e\x07\0\x02\0\0
+C23	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C32	勾住＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C33	勾住＋\x0e\x07\x01\x02\x01\0
+C41	勾住＋\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C42	勾住＋\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C43	勾住＋\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	向上勾角
+D12	连续勾角
+D13	火箭角
+D14	火箭角～俯冲
+D21	螺旋角
+D22	盘旋翅膀
+D23	铁头撞击
+D31	勾角
+D32	搬运
+D33	力投
+D41	垂直落下重击
+D42	旋转落下重击
+D43	地面钻击
+D51	勾住盟友
+D52	搬运盟友
+D53	力投盟友
+C51W	用\x0e\x04\x17\x02\xc4\0举起手，\n盟友用跳跃碰触。
+C52	勾住盟友＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C53	勾住盟友＋\x0e\x07\x01\x02\x01\0
+Pause\CommandBomb.msbt
+C11	长按\x0e\x07\x01\x02\x01\0
+C12	举起炸弹时放开\x0e\x07\x01\x02\x01\0
+C13	举起炸弹时\x0e\x04\x13\x02\xc0\0
+C14	举起炸弹～放置
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+C22	在敌人旁边\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	举起炸弹
+D12	丢炸弹
+D13	改变丢的角度
+D14	自爆
+D21	保龄球炸弹
+D22	定时炸弹
+D23	放置炸弹
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1a\x02\x1a\0＋\x0e\x06\x02\x02r\0
+D52	火焰炸弹
+D53	冰雪炸弹
+D54	电气炸弹
+Pause\CommandChefKawasaki.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C13	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C23UW	厨师川崎经过一段时间后，\n就能再次{c[fe9a10]}使用{c[000000]}“料理锅”和“最后的晚餐”了！
+C21	长按\x0e\x07\x01\x02\x01\0～放开
+C22	超长按\x0e\x07\x01\x02\x01\0～放开
+D11	汤勺
+D12	汤勺向上
+D13	餐具
+D21	料理锅
+D22	最后的晚餐
+C51W	盟友帮手在的时候，\n使用“料理锅”。
+C52W	盟友帮手在的时候，\n使用“最后的晚餐”。
+D51	炖锅盟友
+D52	火锅盟友
+Pause\CommandClean.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	边按\x0e\x07\x01\x02\x01\0边\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C13	长按\x0e\x07\x01\x02\x01\0～放开
+C21	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+C23	冲刺＋\x0e\x07\x01\x02\x01\0
+C24	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+D11	扫地
+D12	扫地移动
+D13	清扫完毕
+D21	哔奇清洁
+D22	蓄力哔奇清洁
+D23	喵果清洁
+D24	啾啾清洁
+C51	用\x0e\x04\x17\x02\xc4\0吸住跳跃的盟友
+D51	吸住盟友
+C52	在吸住盟友后\x0e\x07\x01\x02\x01\0
+D52	吸尘器盟友
+C53UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}风{c[000000]}或{c[fe9a10]}水{c[000000]}之力！\n另外还有各种各样的组合！
+C54	\x0e\x06\x01\x02q\0＋\x0e\x05\x11\x02\x11\0
+D54	风切剑
+Pause\CommandCook.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0～放开
+D11	料理锅
+D12	最后的晚餐
+C51W	盟友帮手在的时候，\n使用“料理锅”。
+C52W	盟友帮手在的时候，\n使用“最后的晚餐”。
+D51	炖锅盟友
+D52	火锅盟友
+Pause\CommandCrash.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12W	\x0e\x07\x01\x02\x01\0＋任意转动\x0e\x04\x13\x02\xc0\0～放开\x0e\x07\x01\x02\x01\0\n/\x0e\x07\x01\x02\x01\0＋摇晃手柄～放开\x0e\x07\x01\x02\x01\0
+D11	破坏的火焰
+D12	地狱的业火
+C51W	盟友帮手在的时候，\n使用“破坏的火焰”/“地狱的业火”。
+D51	慌乱爆裂
+Pause\CommandCutter.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0～放开
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14	在空中持续按\x0e\x07\x01\x02\x01\0
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	在敌人旁边\x0e\x07\x01\x02\x01\0
+C23W	在敌人旁边连打\x0e\x07\x01\x02\x01\0
+D11	回旋弯刀
+D12	超级回旋弯刀
+D13	冲刺弯刀斩
+D14	落下弯刀斩
+D21	破盔斩
+D22	一刀两断
+D23	弯刀乱斩～\n最终弯刀
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x07\x02\x07\0＋\x0e\x06\x02\x02r\0
+D52	火焰弯刀
+D53	冰雪弯刀
+D54	电气弯刀
+Pause\CommandDarkMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	体力全满时\x0e\x07\x01\x02\x01\0
+C13	直斩后进行\x0e\x07\x01\x02\x01\02次
+C14	暗3连斩后\x0e\x07\x01\x02\x01\0
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+C22	暗钻击时\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C23	暗螺旋时\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C25	暗十字后\x0e\x07\x01\x02\x01\0
+C31	在空中\x0e\x07\x01\x02\x01\0
+C32	长按\x0e\x07\x01\x02\x01\0～放开
+C33	长按\x0e\x07\x01\x02\x01\0～放开＋\x0e\x04\x17\x02\xc4\0
+C34	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0＋\x0e\x07\x01\x02\x01\0
+C35	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C41	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C43	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C44	在空中\x0e\x07\0\x02\0\0
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	直斩
+D12	暗光束
+D13	暗3连斩
+D14	暗百烈斩～粉碎大刃
+D21	暗钻击～翔天刃
+D22	暗螺旋
+D23	天降大刃
+D24	暗十字
+D25	刃突进
+D31	暗劈
+D32	镜回旋斩
+D33	暗霸者剑
+D34	3连新月射击
+D35	镜刃
+D41	镜壁
+D42	暗分身
+D43	暗分身\x0e\x17\0\0・\x0f\x17\0圆
+D44	展翅
+D45	反镜防御
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05$\x02$\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05$\x02$\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05$\x02$\0＋\x0e\x06\x02\x02r\0
+D52	火焰剑
+D53	冰雪剑
+D54	电气剑
+Pause\CommandDaroach.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	冰冻射击
+C12	长按\x0e\x07\x01\x02\x01\0
+D12	蓄力
+C13	蓄力时\x0e\x07\0\x02\0\0或\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D13	保持蓄力
+C14	微蓄力后放开\x0e\x07\x01\x02\x01\0
+D14	冰冻镭射
+C15	超蓄力后放开\x0e\x07\x01\x02\x01\0
+D15	极\x0e\x17\0\0・\x0f\x17\0冰冻镭射
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D21	三重星弹
+C22	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+D22	怪盗洛切炸弹
+C23	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+D23	怪盗洛切炎烧弹
+C31	\x0e\x04\x15\x02\xc2\0＋放开\x0e\x07\x01\x02\x01\0
+D31	鼠宾驾到
+C32	\x0e\x04\x15\x02\xc2\0＋稍微长按\x0e\x07\x01\x02\x01\0～放开
+D32	多库驾到
+C33	\x0e\x04\x15\x02\xc2\0＋超长按\x0e\x07\x01\x02\x01\0～放开
+D33	鼠泰隆驾到
+C41	冲刺时\x0e\x07\x01\x02\x01\0
+D41	猎人利爪
+C42	在敌人旁边\x0e\x07\x01\x02\x01\0
+D42	迅抓
+C43	迅抓后\x0e\x07\x01\x02\x01\0
+D43	跳跃利爪
+C44	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D44	惊奇箱
+C45	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D45	瞬间移动
+Pause\CommandEsper.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0＋转动\x0e\x04\x13\x02\xc0\0
+C13	超长按\x0e\x07\x01\x02\x01\0＋转动\x0e\x04\x13\x02\xc0\0
+C14	冲刺＋长按\x0e\x07\x01\x02\x01\0
+C21	消失～放开\x0e\x07\x01\x02\x01\0
+C22W	即将受到攻击之前\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C23W	受到攻击瞬间\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	念力
+D12	移动念力球
+D13	移动念力电球
+D14	消失
+D21	传送出现
+D22	传送回避
+D23	预言者的预见
+C51	\x0e\x05\x06\x02\x06\0＋\x0e\x05\x0c\x02\x0c\0
+D51	念力移物
+C52UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}电之力{c[000000]}！\n另外还有各种各样的组合！
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+D53	电气剑
+D54	电气弯刀
+Pause\CommandFestival.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	跳舞庆典
+C51W	盟友帮手在的时候，\n使用“跳舞庆典”。
+D51	热情庆典
+Pause\CommandFighter.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0
+C13	冲刺＋放开\x0e\x07\x01\x02\x01\0
+C14	冲刺＋长按\x0e\x07\x01\x02\x01\0
+C21	在空中放开\x0e\x07\x01\x02\x01\0
+C22	在空中长按\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0
+C24	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x15\x02\xc2\0＋稍微长按\x0e\x07\x01\x02\x01\0～放开
+C32	\x0e\x04\x15\x02\xc2\0＋适当长按\x0e\x07\x01\x02\x01\0～放开
+C33	\x0e\x04\x15\x02\xc2\0＋超长按\x0e\x07\x01\x02\x01\0～放开
+C34	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0＋长按\x0e\x07\x01\x02\x01\0
+C41	在敌人旁边的空中放开\x0e\x07\x01\x02\x01\0
+C42	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C43W	抓住＋\x0e\x07\x01\x02\x01\0/\n抓住＋\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0的任意一个
+C44	抓住＋\x0e\x04\x15\x02\xc2\0\x0e\x04\x16\x02\xc3\0的任意一个
+D11	无影拳
+D12	猛击拳
+D13	扫堂腿
+D14	飞脚踢
+D21	踩踢
+D22	双脚踢
+D23	雷神破
+D24	天空踢
+D31	波动射击
+D32	百万波动射击
+D33	十亿波动射击
+D34	速成百万波动射击
+D41	月面宙返踢
+D42	格斗家抓住
+D43	单手摔
+D44	过肩摔
+C51W	用\x0e\x04\x17\x02\xc4\0举起手，\n盟友用跳跃碰触。
+D51	抓住盟友
+C52	用\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0改变投掷的方向。
+D52	力投盟友
+Pause\CommandFire.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	吐火攻击
+C12	吐火攻击＋\x0e\x04\x13\x02\xc0\0
+D12	改变火的方向
+C13	吐火攻击＋长按\x0e\x04\x16\x02\xc3\0
+D13	火达摩地狱
+C14	冲刺＋\x0e\x07\x01\x02\x01\0
+D14	燃烧攻击
+C15	燃烧攻击时\x0e\x07\0\x02\0\0
+D15	燃烧砰
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D21	火达摩旋转
+C22	即将落地前\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D22	火达摩滚轮
+C23	火达摩滚轮时\x0e\x07\0\x02\0\0
+D23	火达摩跳
+C24W	火达摩旋转时推墙/\n火达摩滚轮时推墙
+D24	火达摩升龙
+C51	\x0e\x06\x04\x02t\0＋\x0e\x06\x01\x02q\0
+C52UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}火之力{c[000000]}！\n另外还有各种各样的组合！
+C53	\x0e\x06\x04\x02t\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x04\x02t\0＋\x0e\x05\x07\x02\x07\0
+D51	火焰风射
+D53	火焰剑
+D54	火焰弯刀
+Pause\CommandFriendCoop.msbt
+C61	从伙伴的上方跳跃＋\x0e\x04\x15\x02\xc2\0
+C62	背负在CP身上
+C63	背负时长按\x0e\x04\x17\x02\xc4\0/\x0e\x07\x03\x02\x03\0
+C64	背负时按\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0，与伙伴同时放开
+C65	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x07\x03\x02\x03\0
+D61	背负
+D62	控制背负
+D63	下来
+D64	预备～发射！
+D65	选择要分别的盟友
+Pause\CommandFriendsBridge.msbt
+D11	向上移动
+D12	向下移动
+C11	\x0e\x04\x17\x02\xc4\0
+C12	\x0e\x04\x15\x02\xc2\0
+Pause\CommandFriendsRolling.msbt
+D11	跳跃
+D12	跳跃得更高
+C11	\x0e\x07\0\x02\0\0
+C12	长按\x0e\x07\0\x02\0\0
+Pause\CommandFriendsStar.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	新星射击
+C12	长按\x0e\x07\x01\x02\x01\0～放开
+D12	星河
+C13	\x0e\x07\x02\x02\x02\0
+D13	交换先锋
+C14	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D14	新星防御
+C15	吃糖
+D15	成为流星
+Pause\CommandFriendsTrain.msbt
+D11	跳跃
+C11	\x0e\x07\0\x02\0\0
+Pause\CommandGooey.msbt
+C11U	吐舌攻击可以勾住物品
+C12	放开\x0e\x07\x01\x02\x01\0
+C13	连打\x0e\x07\x01\x02\x01\0
+C14	长按\x0e\x07\x01\x02\x01\0～放开
+C15W	舌头捕食＋\x0e\x07\x01\x02\x01\0/\n舌头捕食＋\x0e\x04\x14\x02\xc1\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	蛊依阳伞～长按\x0e\x07\x01\x02\x01\0
+C23	冲刺＋\x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C25	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C31	在空中\x0e\x07\0\x02\0\0
+C32	模拟暗物质时\x0e\x07\x01\x02\x01\0
+C33	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D12	吐舌
+D13	吐舌吐～舌
+D14	舌头捕食
+D15	舌头摔击
+D21	蛊依阳伞
+D22	转圈圈阳伞
+D23	蛊依燃烧
+D24	蛊依石块
+D25	扩散暗镭射
+D31	模拟暗物质
+D32	暗镭射
+D33	守护袋
+C51W	用\x0e\x04\x17\x02\xc4\0举起手，\n盟友用跳跃碰触。
+D51	抓住盟友
+C52	用\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0改变投掷的方向。
+D52	力投盟友
+C53UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}水之力{c[000000]}！\n另外还有各种各样的组合！
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+D54	冲击剑
+Pause\CommandHammer.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14	在空中\x0e\x07\x01\x02\x01\0
+C15	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	鬼杀蓄力锤时\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	冲刺＋\x0e\x07\x03\x02\x03\0
+C24	在水中\x0e\x07\x01\x02\x01\0
+D11	锤子敲击
+D12	转转锤子
+D13	大回环
+D14	大车轮
+D15	极\x0e\x17\0\0・\x0f\x17\0大车轮
+D21	鬼杀蓄力锤
+D22	蓄力中移动
+D23	丢出爆裂锤
+D24	水中大车轮
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x14\x02\x14\0＋\x0e\x06\x02\x02r\0
+D52	火焰锤
+D53	冰雪锤
+D54	电气锤
+Pause\CommandIce.msbt
+C11	冲刺
+C12	\x0e\x07\x01\x02\x01\0
+C13	在空中\x0e\x07\x01\x02\x01\0
+C14	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C21	冲刺＋长按\x0e\x07\x01\x02\x01\0/连打\x0e\x07\x01\x02\x01\0
+C22	冲刺中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C24	冰冻塞满嘴＋\x0e\x07\x01\x02\x01\0
+C31	接触冰
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C33	寒冰防御时放开\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	滑行
+D12	寒冰吐息
+D13	寒冰喷洒
+D14	极\x0e\x17\0\0・\x0f\x17\0寒冰喷洒
+D21	寒冰暴风雪
+D22	寒冰冻球
+D23	冰冻塞满嘴
+D24	冰冻吐出
+D31	踢冰
+D32	寒冰防御
+D33	寒冰四散
+C51UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}冰之力{c[000000]}！\n另外还有各种各样的组合！
+C52	\x0e\x06\x03\x02s\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x03\x02s\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x03\x02s\0＋\x0e\x05\x0c\x02\x0c\0
+D52	冰雪剑
+D53	冰雪弯刀
+D54	滑溜溜冰壶
+Pause\CommandInWater.msbt
+C11	\x0e\x04\x13\x02\xc0\0
+C12	\x0e\x07\0\x02\0\0
+C13	在水中\x0e\x07\x01\x02\x01\0
+C14U	有可以在水中使用的能力。
+D11	往按的方向游
+D12	往上游
+D13	水枪
+Pause\CommandKingDedede.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14	在空中\x0e\x07\x01\x02\x01\0
+C15	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C22	帝帝帝鬼杀锤时\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+C23	冲刺＋\x0e\x07\x03\x02\x03\0
+C24	冲刺＋\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	在水中\x0e\x07\x01\x02\x01\0
+C32	在空中\x0e\x07\0\x02\0\0
+C33	盘旋时\x0e\x07\x01\x02\x01\0
+D11	锤子敲击
+D12	转转锤子
+D13	帝帝帝大回环
+D14	大车轮
+D15	极\x0e\x17\0\0・\x0f\x17\0大车轮
+D21	帝帝帝鬼杀锤
+D22	蓄力中移动
+D23	帝帝帝丢出爆裂锤
+D24	扑垒
+D31	水中大车轮
+D32	盘旋
+D33	空气弹
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1e\x02\x1e\0＋\x0e\x06\x02\x02r\0
+D52	火焰锤
+D53	冰雪锤
+D54	电气锤
+Pause\CommandLastCloseContest.msbt
+Pause\CommandMarx.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	站上小丑球时\x0e\x07\x01\x02\x01\0
+C13	站上小丑球时长按\x0e\x07\x01\x02\x01\0＋\x0e\x04\x13\x02\xc0\0
+C14	冲刺＋\x0e\x07\x01\x02\x01\0
+C15	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	在敌人旁边\x0e\x07\x01\x02\x01\0
+C22	在空中\x0e\x07\0\x02\0\0
+C23	闪耀光辉的羽翼时放开\x0e\x07\x01\x02\x01\0
+C24	闪耀光辉的羽翼时长按\x0e\x07\x01\x02\x01\0～放开
+C25	冲刺＋在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C32	使用魔噜酷反转倒冲钻入地面
+C33	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C34	突进时\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C35	突进时\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	站上小丑球
+D12	踢小丑球
+D13	改变踢的角度
+D14	小丑球射门
+D15	放置小丑球
+D21	恶作剧踢飞
+D22	闪耀光辉的羽翼
+D23	口吐小丑球
+D24	黑洞
+D25	魔噜酷斜冲
+D31	魔噜酷反转倒冲
+D32	影子～影子上勾拳
+D33	突进
+D34	结合反转倒冲
+D35	结合斜冲
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05!\x02!\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05!\x02!\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05!\x02!\0＋\x0e\x06\x02\x02r\0
+D52	火焰魔噜酷
+D53	冰雪魔噜酷
+D54	电气魔噜酷
+Pause\CommandMetaknight.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	体力全满时\x0e\x07\x01\x02\x01\0
+C13	直斩后进行\x0e\x07\x01\x02\x01\02次
+C14	魅塔3连斩后\x0e\x07\x01\x02\x01\0
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+C22	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C23	在空中\x0e\x07\x01\x02\x01\0
+C24	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C32	长按\x0e\x07\x01\x02\x01\0～放开
+C33	长按\x0e\x07\x01\x02\x01\0～放开＋\x0e\x04\x17\x02\xc4\0
+C41	冲刺＋在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C43	在空中\x0e\x07\0\x02\0\0
+C44	在水中\x0e\x07\x01\x02\x01\0
+D11	直斩
+D12	骑士光束
+D13	魅塔3连斩
+D14	魅塔百烈斩～决定一斩
+D21	旋风钻击
+D22	旋转骑士斩
+D23	魅塔劈
+D24	下刺
+D31	上刺
+D32	魅塔回旋斩
+D33	马赫龙卷风
+D41	魅塔秃鹰俯冲
+D42	翻转穿梭
+D43	展翅
+D44	水中旋转斩
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1f\x02\x1f\0＋\x0e\x06\x02\x02r\0
+D52	火焰剑
+D53	冰雪剑
+D54	电气剑
+Pause\CommandMike.msbt
+C11	\x0e\x07\x01\x02\x01\0（第1次）
+C12	\x0e\x07\x01\x02\x01\0（第2次）
+C13	放开\x0e\x07\x01\x02\x01\0（第3次）
+C14W	\x0e\x07\x01\x02\x01\0＋拨动\x0e\x04\x13\x02\xc0\0～放开\x0e\x07\x01\x02\x01\0（第3次）\n/\x0e\x07\x01\x02\x01\0＋摇晃手柄～放开\x0e\x07\x01\x02\x01\0（第3次）
+D11	加油棒
+D12	桌上型麦克风
+D13	站立式麦克风
+D14	最后的演唱会
+C51W	盟友帮手在的时候，\n使用“站立式麦克风”/“最后的演唱会”。
+D51	死亡之声合唱团
+Pause\CommandNinja.msbt
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	在敌人旁边长按\x0e\x07\x01\x02\x01\0
+C24	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C31	在空中推墙
+C32	贴住墙壁后\x0e\x07\x01\x02\x01\0
+C33	贴住墙壁后\x0e\x07\0\x02\0\0
+C41W	即将受到攻击之前\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C42	在水面\x0e\x07\x01\x02\x01\0
+D11	苦无手里剑
+D12	挥斩
+D13	居合斩
+D14	忍者踢
+D21	烟幕
+D22	扰乱花吹雪
+D23	挥斩～反手4连
+D24	饭纲落下重击
+D31	贴住墙壁
+D32	贴住射击
+D33	三角跳
+D41	替身术
+D42	水遁
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x12\x02\x12\0＋\x0e\x06\x02\x02r\0
+D52	火焰忍者
+D53	冰雪忍者
+D54	电气忍者
+Pause\CommandNormal.msbt
+C11	\x0e\x07\0\x02\0\0
+C12	\x0e\x07\x01\x02\x01\0
+C13	塞满嘴中\x0e\x04\x15\x02\xc2\0
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\0\x02\0\0
+C21	快速\x0e\x04\x14\x02\xc1\0/\x0e\x04\x14\x02\xc1\0\x0e\x16\0\0\x0e\x04\x14\x02\xc1\0
+C22	在空中\x0e\x04\x15\x02\xc2\0\x0e\x04\x15\x02\xc2\0
+C23	\x0e\x07\x02\x02\x02\0
+C24W	长按\x0e\x07\x03\x02\x03\0/\x0e\x04\x12\x02\x95\0
+C31	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C32	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+C33	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D11	跳跃/盘旋
+D12	吸入/吐出
+D13	吞入/复制
+D14	滑垒
+D21	冲刺
+D22	急降下
+D23	投掷盟友之心
+D24	消除盟友/舍弃能力
+D31	防御
+D32	当下回避
+D33	空中回避
+Pause\CommandParasol.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	长按\x0e\x07\x01\x02\x01\0
+C13	在阳伞盾时\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C14	冲刺＋\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23W	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C24	落下
+C31	在水中\x0e\x07\x01\x02\x01\0
+C32	在水面\x0e\x07\x01\x02\x01\0
+C33	在水中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	挥动阳伞
+D12	阳伞盾
+D13	改变盾的方向
+D14	阳伞钻击
+D21	转转阳伞
+D22	阳伞俯冲
+D23	街头表演投掷
+D24	降落阳伞
+D31	水中阳伞钻击
+D32	水面钻击飞溅
+D33	水中阳伞俯冲
+C51	\x0e\x04\x17\x02\xc4\0
+D51	相亲相爱伞
+C52UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}水之力{c[000000]}！\n另外还有各种各样的组合！
+C53	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x07\x02\x07\0
+D53	冲击剑
+D54	冲击弯刀
+Pause\CommandPlasma.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	电离子针
+C12	任意转动\x0e\x04\x13\x02\xc0\0/摇晃手柄
+D12	蓄电离子
+C13	微蓄电离子 \x0e\x07\x01\x02\x01\0
+D13	电离子箭
+C14	中蓄电离子 \x0e\x07\x01\x02\x01\0
+D14	电离子镭射
+C15	超蓄电离子 \x0e\x07\x01\x02\x01\0
+D15	电离子波动弹
+C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D21	电离子针向上
+C22	微蓄电离子 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D22	电离子箭向上
+C23	中蓄电离子 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D23	扩散电离子
+C24	超蓄电离子 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D24	火花电离子弹
+C31W	用中蓄电离子\n发射
+D31	电离子防护罩
+C32W	电离子防护罩时\n\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+D32	电光石火
+C51	\x0e\x06\x02\x02r\0＋\x0e\x05\x05\x02\x05\0
+C52UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}电之力{c[000000]}！\n另外还有各种各样的组合！
+C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+D51	冲击电波
+D53	电气剑
+D54	电气弯刀
+Pause\CommandRick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	冲刺＋\x0e\x07\x01\x02\x01\0
+C13	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C14	在空中\x0e\x07\0\x02\0\0
+C15	展翅后在空中\x0e\x07\x01\x02\x01\0
+C21	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	在水中\x0e\x07\x01\x02\x01\0
+C23	在水中长按\x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C25	用陆库踩踏敌人
+D11	陆库烈火
+D12	陆库石块
+D13	空阳伞
+D14	展翅
+D15	空弯刀
+D21	跳动
+D22	海恩冰冻
+D23	冷冻海恩
+D24	守护袋
+D25	踩踏
+C51UW	用\x0e\x04\x17\x02\xc4\0举起手，从伙伴那儿获得{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05 \x02 \0＋\x0e\x06\x03\x02s\0
+D52	滑溜溜冰壶
+C53UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}火、水、风之力{c[000000]}！\n另外还有各种各样的组合！
+C54	\x0e\x06\x04\x02t\0＋\x0e\x05\x11\x02\x11\0
+D54	火焰剑
+Pause\CommandSleep.msbt
+C11	吞入时
+C12	任意转动\x0e\x04\x13\x02\xc0\0/摇晃手柄
+C51W	盟友把睡着的卡比\n鼻子上的泡泡弄破。
+D11	睡眠
+D12	努力早起
+D51	唤醒盟友
+Pause\CommandSpider.msbt
+D11	蜘蛛丝
+C11	放开\x0e\x07\x01\x02\x01\0
+D12	蜘蛛网
+C12	长按\x0e\x07\x01\x02\x01\0～放开
+D13	朝天蜘蛛丝
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D21	发射蜘蛛网
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+D22	散射蜘蛛网
+C22	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+D24	朝下蜘蛛网
+C24	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D25	踢飞丝茧
+C25	接触丝茧
+D31	丝茧捕获
+C31	在丝茧旁边\x0e\x07\x01\x02\x01\0
+D32	摔丝茧
+C32	丝茧捕获＋\x0e\x07\x01\x02\x01\0/丝茧捕获＋\x0e\x04\x14\x02\xc1\0
+D33	摔摔丝茧
+C33	丝茧捕获＋\x0e\x04\x17\x02\xc4\0\x0e\x04\x16\x02\xc3\0\x0e\x04\x15\x02\xc2\0的任意一个
+D34	丝茧防御
+C34	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D51	张开蜘蛛网
+C51	\x0e\x04\x17\x02\xc4\0
+D52	弹跳盟友
+C52	用跳跃触碰张开的蜘蛛网
+Pause\CommandStick.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x07\x01\x02\x01\0之后\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	连打\x0e\x07\x01\x02\x01\0
+C22	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23W	撑棒跳时\n连打\x0e\x07\x01\x02\x01\0
+C31	冲刺＋放开\x0e\x07\x01\x02\x01\0
+C32	冲刺＋长按\x0e\x07\x01\x02\x01\0～放开
+C33	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34W	即将受到攻击之前\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C41	在水中\x0e\x07\x01\x02\x01\0
+C42	在水中\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C43	在水中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D11	如意棒
+D12	反手如意棒
+D13	上伸如意棒
+D14	左右伸长如意棒
+D21	棒术乱舞
+D22	撑棒跳
+D23	戳戳如意棒
+D31	千里如意棒
+D32	万里如意棒
+D33	飞天如意棒
+D34	反击姿势
+D41	流水如意棒
+D42	上伸流水如意棒
+D43	下伸流水如意棒
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x0b\x02\x0b\0＋\x0e\x06\x02\x02r\0
+D52	火焰如意棒
+D53	冰雪如意棒
+D54	电气如意棒
+Pause\CommandStone.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	在空中\x0e\x07\x01\x02\x01\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0
+C14U	变身时可以防御几乎所有攻击！
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0
+C24	在斜坡\x0e\x07\x01\x02\x01\0
+C25	变身时冲刺
+D11	变身石块
+D12	变身石块压顶
+D13	冲刺变身石块
+D21	重量级压顶
+D22	石块上勾拳
+D23	浑身一击上勾拳
+D24	下坡溜滑梯
+D25	一点点地转圈
+C51UW	用\x0e\x04\x17\x02\xc4\0举起手，从伙伴那儿获得{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x0c\x02\x0c\0＋\x0e\x06\x03\x02s\0
+C53	\x0e\x05\x0c\x02\x0c\0＋\x0e\x06\0\x02p\0
+C54	\x0e\x05\x0c\x02\x0c\0＋\x0e\x05\x06\x02\x06\0
+D52	滑溜溜冰壶
+D53	流水冰壶
+D54	念力移物
+Pause\CommandSuplex.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	冲刺＋\x0e\x07\x01\x02\x01\0
+C13	在敌人附近\x0e\x07\x01\x02\x01\0
+C14	抓住瞬间\x0e\x07\x01\x02\x01\0
+C15	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21U	－举起后　其１－
+C22	\x0e\x04\x17\x02\xc4\0
+C23	\x0e\x04\x15\x02\xc2\0
+C24	\x0e\x04\x16\x02\xc3\0
+C25	\x0e\x04\x14\x02\xc1\0
+C31U	－举起后　其２－
+C32	\x0e\x07\x01\x02\x01\0
+C33	\x0e\x07\0\x02\0\0
+C34	在空中\x0e\x04\x16\x02\xc3\0/\x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0
+C35	在空中\x0e\x04\x15\x02\xc2\0
+D11	冲刺抓住
+D12	涡轮冲刺抓住
+D13	举起
+D14	猛烈重踩
+D15	定点踢
+D22	背部粉碎
+D23	背摔
+D24	德式拱桥摔
+D25	打桩机
+D32	套索式闪光拳
+D33	岩石落下重击
+D34	空中背摔
+D35	空中丢下背摔
+C51W	用\x0e\x04\x17\x02\xc4\0举起手，\n盟友用跳跃碰触。
+D51	抓住盟友
+C52	用\x0e\x07\0\x02\0\0/\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0改变投掷方向
+D52	力投盟友
+Pause\CommandSword.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	直斩
+C12	体力全满时\x0e\x07\x01\x02\x01\0
+D12	剑光束
+C13	直斩后\x0e\x07\x01\x02\x01\0
+D13	剑百烈斩～决定一斩
+C14	冲刺＋\x0e\x07\x01\x02\x01\0
+D14	钻击剑
+C21	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+D21	旋转剑
+C22	在空中\x0e\x07\x01\x02\x01\0
+D22	劈～出剑
+C23	出剑～在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D23	破盔刺
+C24	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D24	下刺
+C31	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D31	飞升斩
+C32W	在用飞升斩上升时\n\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D32	陨石终结
+C33	长按\x0e\x07\x01\x02\x01\0～放开
+D33	回旋斩
+C34	长按\x0e\x07\x01\x02\x01\0～放开＋\x0e\x04\x17\x02\xc4\0
+D34	龙卷斩
+C25	在水中\x0e\x07\x01\x02\x01\0
+D25	水中旋转斩
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x04\x02t\0
+D52	火焰剑
+C53	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x03\x02s\0
+D53	冰雪剑
+C54	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x02\x02r\0
+D54	电气剑
+Pause\CommandTwinkleStarAllies.msbt
+C11	\x0e\x07\x01\x02\x01\0
+D11	闪耀彗星
+C12	长按\x0e\x07\x01\x02\x01\0～放开
+D12	闪耀新星
+C13	长按\x0e\x07\x01\x02\x01\0～大家同时放开
+D13	预备～新星同盟！
+C14	\x0e\x07\x02\x02\x02\0
+D14	交换先锋
+C15	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D15	闪耀回避
+Pause\CommandWater.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	冲刺
+C13	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C14	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24	在水中\x0e\x07\x01\x02\x01\0
+D11	波浪攻击
+D12	冲浪
+D13	间歇泉
+D14	喷水盘旋
+D21	乘风破浪
+D22	彩虹雨
+D23	清水王冠
+D24	强化水枪
+C51	\x0e\x05\x05\x02\x05\0＋\x0e\x06\x03\x02s\0
+C52	\x0e\x05\x05\x02\x05\0＋\x0e\x06\x02\x02r\0
+C53UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}水之力{c[000000]}！\n另外还有各种各样的组合！
+C54	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+D51	冰柱弹
+D52	电气水弹
+D54	冲击剑
+Pause\CommandWhip.msbt
+C11U	所有的鞭子攻击都能抓住物品！
+C12	放开\x0e\x07\x01\x02\x01\0
+C13	连打\x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	冲刺＋\x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C24	长按\x0e\x07\x01\x02\x01\0～放开
+C31W	捕捉＋\x0e\x07\x01\x02\x01\0/捕捉＋\x0e\x04\x14\x02\xc1\0
+C32	捕捉＋\x0e\x04\x15\x02\xc2\0
+C33	捕捉＋\x0e\x04\x16\x02\xc3\0
+C34	捕捉＋\x0e\x04\x17\x02\xc4\0
+D12	鞭击
+D13	百烈鞭
+D14	天花板鞭击
+D21	跳跃鞭击
+D22	周波鞭击
+D23	鞭卷风
+D24	捕捉鞭
+D31	向前摔
+D32	双重摔
+D33	向后摔
+D34	向上摔
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x03\x02\x03\0＋\x0e\x06\x02\x02r\0
+D52	火焰鞭
+D53	冰雪鞭
+D54	电气鞭
+Pause\CommandWing.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	羽毛镖＋\x0e\x04\x13\x02\xc0\0
+C13	冲刺＋\x0e\x07\x01\x02\x01\0/冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C14	秃鹰头槌时\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C15	秃鹰头槌时\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C21	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C22	冲刺＋在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+C24	抛起后立即\x0e\x07\x01\x02\x01\0
+C25	在空中\x0e\x07\0\x02\0\0
+D11	羽毛镖
+D12	羽毛狙击
+D13	秃鹰头槌
+D14	结合落下
+D15	结合俯冲
+D21	爆击落下
+D22	秃鹰俯冲
+D23	抛起
+D24	翻转穿梭
+D25	展翅
+C51UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}风之力{c[000000]}！\n另外还有各种各样的组合！
+C52	\x0e\x06\x01\x02q\0＋\x0e\x05\x11\x02\x11\0
+C53	\x0e\x06\x01\x02q\0＋\x0e\x05\x07\x02\x07\0
+C54	\x0e\x06\x01\x02q\0＋\x0e\x05\x1a\x02\x1a\0
+D52	风切剑
+D53	风切弯刀
+D54	风切炸弹
+Pause\CommandYoyo.msbt
+C11	\x0e\x07\x01\x02\x01\0
+C12	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0＋放开\x0e\x07\x01\x02\x01\0
+C14	\x0e\x04\x15\x02\xc2\0＋长按\x0e\x07\x01\x02\x01\0
+C15	带狗散步＋\x0e\x04\x16\x02\xc3\0\x0e\x04\x14\x02\xc1\0
+C21	冲刺＋\x0e\x07\x01\x02\x01\0
+C22	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+C23W	在敌人旁边\x0e\x04\x17\x02\xc4\0\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0\n～\x0e\x04\x13\x02\xc0\0/\x0e\x07\x01\x02\x01\0
+C24	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D11	丢溜溜球
+D12	半圆溜溜球
+D13	横扫溜溜球
+D14	带狗散步
+D15	开始散步
+D21	霹雳旋转
+D22	跳跃旋转
+D23	落锤溜溜球
+D24	螺旋上升
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05\x1c\x02\x1c\0＋\x0e\x06\x02\x02r\0
+D52	火焰溜溜球
+D53	冰雪溜溜球
+D54	电气溜溜球
+Pause\Special.msbt
+TitleWMapLv1	和平的世界\n噗噗噗之国
+TextWMapLv1	在和平的世界，发生了一件惊天大事。\n帝帝帝大王偷走了所有的食物！\n年轻的旅人卡比，\n和盟友们踏上了冒险的旅途。
+TitleWMapLv2	奇迹的星球\n波普之星
+TextWMapLv2	追寻着黑暗之心，在奇迹的星球里穿行！\n按\x0e\x04\x17\x02\xc4\0操纵获取的盟友能力，\n卡比他们翻山越岭，\n不断继续着友情之旅。
+TitleWMapLv3	暗黑要塞\n邪魔哈鲁达
+TextWMapLv3	在这个突然出现的暗黑要塞里\n埋伏着连魅塔骑士都为之抓狂的敌人。\n到底是为了什么来到此地……？\n卡比一行毫不迟疑，\n一如既往地直捣黄龙！
+TitleWMapLv4	遥远\n闪耀光辉的勇者们
+TextWMapLv4	回过神来已身在宇宙……\n往回看，波普之星正闪着微小的光。\n要守护那颗星球的和平和午睡时间！\n下定了这样的决心{s[070]}（或许吧）{s[100]}，\n卡比他们化作闪耀的星星，飞去！
+TitleWMapLv5	星之卡比\n新星同盟
+TextWMapLv5	海内司所说的“神”，实际是没有\n善恶之心，只为了破坏而诞生的存在……\n名为“破神终焉\x0e\x17\0\0・\x0f\x17\0虚无”。\n哪有这样的神，不要手下留情！\n星之卡比最大的战斗……现在开始！！
+TitleArena	The 终极抉择
+TextArena	现在可以选择全新的战斗庆典！\n突破自己的极限……The 终极抉择！\n自己选择究极的试炼种类！\n和盟友们一起，把成群结队逼近的\n超辣魔头军团也全部大口大口吃完！
+Pause\SpecialHelperGo.msbt
+TextBladeknight	{s[120]}“我也要像那人一样，成为剑术高手！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　绿色的战士向自己的剑起誓。\n　要追求剑道的极致，成为征服世界的\n　剑术大师！用火、用风、用电、\n　用全新的剑招不断前进！{s[100]}
+TextSirkibble	{s[120]}“我会像这把弯刀一样，不管多少次都会回来的！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　铠甲的里面是高度机密。\n　那家伙踏上了冒险的旅程！就像他的黄金残刀一样，\n　无论输了多少次，都会再次发起挑战……\n　永不气馁才是真正的铠甲！{s[100]}
+TextPoppyjr	{s[120]}“啊哈哈！嘭！我喜欢这声音！”{s[100]}{s[100]}\n\x0e\x15\0\x02\xe2\xff　微笑的魔王永远笑嘻嘻的！\n　一边嘻嘻笑着，一边吵吵闹闹地冒险！\n　他的愿望是用烟火的魅力让大家展开笑颜，\n　给庆典带来和平，给世界带来欢乐！{s[100]}
+TextRocky	{s[120]}“…………哼！{s[100]}{s[090]}（咚）{s[100]}{s[100]}”\n\x0e\x15\0\x02\xe2\xff　下定决心，排除万难，\n　那沉默而坚定的家伙，踏上艰难的旅途！\n　用冰和水一路滑行到终点，\n　挥舞着拳头，一记愤怒的上勾拳！{s[100]}
+TextWester	{s[120]}“全世界的宝物……都是我的！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　西方风格的潇洒内心。\n　收到的请求全盘都接受，在全世界\n　展开探险！熟练地使用鞭击，\n　寻找宝物，进行财富狩猎！{s[100]}
+TextBonkers	{s[120]}“哇哦，我超级爱吃香蕉。”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　不停地寻找着香蕉……\n　即使忘记了自己在找什么，\n　这个贪吃的巨大猩猩\n　也会把挡路的东西都击碎，无论是在哪里！{s[100]}
+TextBioSpark	{s[120]}“……鄙人要出发去修业旅行。”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　被月光掩映，隐居的\n　精英忍者踏上了忍者修行之旅！\n　把自己寄托于名刀“紫电”，\n　咻咻地出招，直到异国的尽头！{s[100]}
+TextGim	{s[120]}“终于轮到我登场了！”\n\x0e\x15\0\x02\xe2\xff{s[100]}　听到机械化侵略项目的\n　信息后，机姆立刻出发去旅行了！\n　这个调皮捣蛋的机器人眼中的世界，\n　到底是怎样的……！？
+TextStickEnemy	{s[120]}“信仰者能找到他们的路吗……？”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　粉色的家伙告诉他，\n　没有比互相信任的朋友\n　更加珍贵的东西了。\n　他想亲眼见证这个真理！{s[100]}
+TextBurningleo	{s[120]}“我的心……着火了！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　以熊熊燃烧的鬃毛为傲的狮子，\n　胸怀火热之心，将炽热的火焰\n　分与众人，展开一场大冒险！\n　要是稀里糊涂靠近他，可会被烧伤哦！{s[100]}
+TextChilly	{s[120]}“我，想去世界的尽头……”\n{s[100]}{s[100]}\x0e\x15\0\x02\xe2\xff　那个雪人这么想着。\n　在天气变热消失前，想要旅行\n　去世界的尽头。相信自己能实现梦想，\n　粗眉雪人离开故乡，踏上了旅途。{s[100]}
+TextWaddledoo	{s[120]}“我想赌一赌……这道光束的可能性！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　这是具有历史性的，最初可获得的\n　复制能力……也就是，能力的源头。\n　想要赌一赌这个源头所蕴藏的可能性！\n　而且光束还会神奇地弯曲……这个也想弄明白！{s[100]}
+TextConce	{s[120]}“我是电插头哟！……什么？你没听说过我？”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　配合时代的步伐，改造后能够发射\n　电离子的电插头！或许也有人不知道……\n　但是这次，为了没能参战的伙伴，\n　他要释放存在感，发出闪耀光芒！{s[100]}
+TextWaterEnemy	{s[120]}“我是噗噜鳗！我非常喜欢\x0e\x17\0\0㊤\x0f\x17\0干净的水！”\n{s[100]}{s[100]}\x0e\x15\0\x02\xe2\xff　不能容忍破坏环境的行为！\n　非常喜欢清澈的水源，这个有着水汪汪\n　大眼睛的可爱孩子梦见了充满水的乐园，\n　便带着爱与润泽出发去旅行了。{s[100]}
+TextNesp	{s[120]}“嘿……嘿嘿嘿……”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　虽然还没成年，\n　但催眠的能力是超越时代的！\n　能预知未来，以远方的黑暗为目标的\n　超能力少年，世界的尽头，传送！{s[100]}
+TextBirdon	{s[120]}“啪塔啪塔！飞向还没见过的世界！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　每天被装在这样的\n　鸟笼里可不行！因为想要确认一下自己\n　究竟能飞多高！而追求自由……\n　飞向高高的天空！星之飞行鸟！{s[100]}
+TextBroomhatter	{s[120]}“唰唰，把整个世界来个大扫除！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　到处都是灰尘！\n　看不惯这一切的魔扫把的一大决心，\n　就是把全世界的灰尘都扫得干干净净。\n　以一尘不染的世界为目标，直到最后……！{s[100]}
+TextKnucklejoe	{s[120]}“嘿呀嘿呀！我要成为格斗之王！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　以传说的大赛、格斗之王的赛场\n　为目标，不顾一切往前冲，全力奔跑！\n　这次虽然还没被通知开赛地……\n　但只要能会一会厉害的家伙，去哪儿都行！{s[100]}
+TextBugzzy	{s[120]}“我以前可是昆虫之王！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　最近，这位昔年的昆虫之王将自己的宝座\n　让给了年轻人，踏上了讨伐远方黑暗的旅途。\n　他施展能令摔跤手汗颜的招式，\n　挥舞着引以为傲的大颚！{s[100]}
+TextBeetlie	{s[120]}“我就是新任的昆虫之王！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　年轻的王者向过去的王挑战，\n　想看看谁才是真正的冠军！\n　……但是，首先要驱散那黑暗！他雄赳赳地\n　挥舞着引以为傲的角踏上了旅途！{s[100]}
+TextComo	{s[120]}“辛苦多年……终于熬成了主角。”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　并不只是悬垂着而已！\n　他还是从一族中选拔出来的三眼英雄！\n　甚至还暗藏有那样的招式……\n　能用多彩的蜘蛛丝捕获世界上的罪恶哦！{s[100]}
+TextParasolWaddledee	{s[120]}“很高兴被选上了……让我唱首歌！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　阳光正好，打着阳伞散散步。\n　还能防御敌人，轻飘飘地降落。摇摆的思绪\n　在空中游荡，漂浮不定的心情如春风一般。\n　轻飘飘的旅行，我是阳伞瓦豆鲁迪。{s[100]}
+TextVivitia	{s[120]}“看着我，姐姐\x0e\x17\0\0㊤\x0f\x17\0，我会加油的！”\n{s[100]}{s[100]}\x0e\x15\0\x02\xe2\xff　战斗也好，艺术也好，为了不输给\n　敬爱的姐姐，她从心底发誓要努力。\n　以进入一流的女子\x0e\x17\0\0㊤\x0f\x17\0艺术学院为目标，\n　绘画女孩，出发去武术修学！{s[100]}
+TextChefKawasaki	{s[120]}“究极的菜单……{s[090]}咕噜噜，{s[120]}一定要尝尝！”\n\x0e\x15\0\x02\xe2\xff{s[100]}　为了寻求那样的菜单，那位厨师展开了突击！\n　在世界的尽头，究竟还沉睡着何种\n　未曾见过的料理呢……光是这么想想，\n　这位喜好美食的厨师就垂涎不止了！
+TextBandanaWaddledee	{s[120]}“我可不只是长得可爱哦！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　他是卡比系列的全勤奖获得者。\n　这位配角中的传说人物挥舞着长枪！\n　头上的头带表明了他的勇气和个性。\n　和悠闲地撑着阳伞的家伙……可不一样！{s[100]}
+TextKingDedede	{s[120]}“这个国家的和平……由我来守护！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　上吧，《星之卡比》最初的对手，\n　大王陛下为了复位，以坚韧之心出击了！\n　实际上是个为民着想的好人？\n　说干就干，自封的大王向黑暗发起攻击！{s[100]}
+TextMetaknight	{s[120]}“凶星……这黑暗必须要直面我的剑……！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　那位骑士是自《梦之泉物语》开始登场的！\n　身为大王的麾下，同时还协助卡比。\n　有时还会用巨大的战舰引发革命……\n　这样深藏诸多谜团的骑士，向着远方的黑暗飞去！{s[100]}
+TextRick	{s[120]}“动物盟友纵横陆海空喽！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　《Kirby's Dream Land 2》豪华三人组大集合！\n　三人团体浩浩荡荡地向着野性的直觉所感知的\n　远方的危机，预备～出发！\n　嘀咕嘀咕，啪嚓啪嚓，叽喳叽喳。3人喧闹不已！{s[100]}
+TextGooey	{s[120]}“名字？{s[090]}嗯，蛊依……{s[120]}不太明白！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　回过神来，已从《Kirby's Dream Land 3》误入此处，\n　思考着什么，踱着步扭啊扭地走出来！\n　到底是在哪里出生的呢？充满谜团的他\n　连旅行的理由也不清楚就踏上了寻找自我的旅途！？{s[100]}
+TextMarx	{s[120]}“无视我的存在，正在计划着什～么！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　来自《Kirby Super Star》的搞笑最终魔头，\n　啊哈哈哈地大笑着前来参战了！\n　嗅着来自远方星球的危险气息，掺上一脚，\n　站上小丑球向银河前进！{s[100]}
+TextAdeleine	{s[120]}“我回来了！一起去旅行吧！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　阿朵莱妮&莉宝从《Kirby 64: The Crystal Shards》\n　归来了！抱歉，这次旅行去了稍微有点远的\n　地方……不过，我画画更厉害了，和莉宝\n　一起回来了哦。让我们也加入吧！{s[100]}
+TextDarkMetaknight	{s[120]}“………………”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　那不请自来的骑士从《Kirby & The Amazing Mirror》\n　复苏了！哎？和魅塔骑士打架了？\n　不过，如果成为盟友的话，就没关系了。\n　镜之国的影子，被银河那头的黑暗吸引，飞翔！{s[100]}
+TextDaroach	{s[120]}“那黑色的，心之宝石……收下！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　那盗贼来自《Kirby: Squeak Squad》，\n　精神抖擞，预告！知道银河里有黑色的心之宝石，\n　展开了旅行……呼，这个必须要拿到。\n　再次盯上散发着危险气息的宝物！{s[100]}

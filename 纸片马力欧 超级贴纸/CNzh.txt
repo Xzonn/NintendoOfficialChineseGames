@@ -1,0 +1,2437 @@
+Enemy.msbt
+enemy_name_MARIO	马力欧
+enemy_name_LUCIE	智贴贴
+enemy_name_KOOPA	酷霸王
+enemy_name_KPJ	酷霸王Jr.
+enemy_name_KMK	卡美克
+enemy_name_HNB	花之子的身体
+enemy_name_KUR	栗子小子
+enemy_name_KUR_K	闪闪栗子小子
+enemy_name_2MAI_KUR	２张栗子小子
+enemy_name_2MAI_KUR_K	２张闪闪栗子小子
+enemy_name_4MAI_KUR	４张栗子小子
+enemy_name_4MAI_KUR_K	４张闪闪栗子小子
+enemy_name_KAMI_TGK	纸锥栗子小子
+enemy_name_KAMI_TGK_K	闪闪纸锥栗子小子
+enemy_name_16MAI_KUR	栗子小子头头
+enemy_name_PTK	啪嗒栗子小子
+enemy_name_5MAI_PTK	５张啪嗒栗子小子
+enemy_name_PTK_K	闪闪啪嗒栗子小子
+enemy_name_NKT	喏库喏库
+enemy_name_NKT_K	闪闪喏库喏库
+enemy_name_PTT	啪嗒啪嗒
+enemy_name_PTT_K	闪闪啪嗒啪嗒
+enemy_name_MET	钢盔甲虫
+enemy_name_MET_K	闪闪钢盔甲虫
+enemy_name_HMT	枯骨甲虫
+enemy_name_TMT	刺壳甲虫
+enemy_name_DMT	巨型钢盔甲虫
+enemy_name_TGZ	刺虫
+enemy_name_BOM	炸弹兵
+enemy_name_BOM_K	闪闪炸弹兵
+enemy_name_SNB	刺球
+enemy_name_DSB	刺球头头
+enemy_name_PKPK	泡泡怪
+enemy_name_SPU	巡游泡泡怪
+enemy_name_BIG_PKPK	巨型泡泡怪
+enemy_name_HEI	嘿虎
+enemy_name_MHE	墨西哥帽嘿虎
+enemy_name_MRHE	沙球嘿虎
+enemy_name_AHE	手风琴嘿虎
+enemy_name_PHE	油漆嘿虎
+enemy_name_CHE	回形针嘿虎
+enemy_name_YHH	长矛嘿虎
+enemy_name_MCH	木乔
+enemy_name_GSA	蜘蛛怪
+enemy_name_DGSGS	巨型蜘蛛怪
+enemy_name_EMP	毒乌贼怪
+enemy_name_BOS_GES	乌贼怪头头
+enemy_name_TRS	嘘嘘鬼
+enemy_name_TTR	束束嘘嘘鬼
+enemy_name_DTR	巨型嘘嘘鬼
+enemy_name_SKP	酷霸王雪雕
+enemy_name_THM	雪球人头头
+enemy_name_WAN	汪汪
+enemy_name_DWN	巨型汪汪
+enemy_name_POO	扳手仔
+enemy_name_CPO	黄鼹鼠
+enemy_name_PKF	食人花
+enemy_name_IPK	喷墨食人花
+enemy_name_FPK	火焰食人花
+enemy_name_FFPK	呼呼食人花
+enemy_name_BPK	食人花头头
+enemy_name_KIL	弹头杀手
+enemy_name_KHD	弹头杀手炮台
+enemy_name_MKL	大弹头杀手
+enemy_name_MKH	大弹头杀手炮台
+enemy_name_HBR	锤子兄弟
+enemy_name_BBR	飞旋镖兄弟
+enemy_name_FBR	火焰兄弟
+enemy_name_IBR	冰冻兄弟
+enemy_name_GBN	加邦
+enemy_name_IGB	雪球加邦
+enemy_name_BSA	啪萨啪萨
+enemy_name_KRN	枯骨怪
+enemy_name_HKN	哈库
+enemy_name_CBN	绒毛怪
+enemy_name_CYU	吱吱
+enemy_name_CRA	砸砖拳手
+enemy_name_BTN	嘭嘭
+enemy_name_HKR	壁画栗子小子
+enemy_name_HNK	壁画喏库喏库
+global.msbt
+yesno	是\n否
+noyes	否\n是
+kanban_ura	　背面什么也没写。
+item_full	　无法再粘贴到收集册中。
+bero_to_stagemap	　要去世界地图吗？\x0e\x03\0\x14\0\0\x01\0\0\0d\0\n\0y\0e\0s\0n\0o\0
+query_save	要保存至今为止的\n　游戏内容吗？\x0e\x03\0\x14\0\0\xff\xff\0\0d\0\n\0y\0e\0s\0n\0o\0
+wait_saving	正在保存……\n　请不要关闭电源。\x0e\x01\x01\0
+info_saved	　保存完毕。\x0e\x04\x04\x04\xe8\x03\0\0\x0e\x01\x01\0
+query_save_to_title	　要保存并返回标题画面吗？\x0e\x03\0\x14\0\0\x01\0\0\0d\0\n\0y\0e\0s\0n\0o\0
+info_saved_to_title	　保存完毕。\n　即将返回标题画面。\x0e\x04\x04\x04\xe8\x03\0\0\x0e\x01\x01\0
+rest_00	在感到疲劳之前，先休息一下吧！
+info_staff	\x0e\x02\x06\x04\0\0\x03\0贴纸嘉年华的会场里\n\x0e\x02\x06\x04\0\0\xfc\xff　多了一个奇诺比奥。\x0e\0\x04\0\x0e\x02\x06\x04\0\0\x0b\0　试着跟他说话吧。
+getitem_ok_01	贴纸
+getmonoart_ok_00	得到
+getmonoart_ok_01	了！
+getmappeace_ok_00	得到
+getmappeace_ok_01	了！
+getitem_ng	已经拿不下了！
+IC_HAMMER	锤子
+SL_LUCIE	智贴贴
+SL_RAGGED_JUMP	破烂跳
+SL_JUMP	跳
+SL_JUMP_K	闪闪跳
+SL_JUMP_KK	闪耀跳
+SL_DEKA_JUMP_K	巨型闪闪跳
+SL_DODEKA_JUMP_KK	巨大闪耀跳
+SL_IRON_JUMP	钢铁跳
+SL_IRON_JUMP_K	闪闪钢铁跳
+SL_IRON_JUMP_KK	闪耀钢铁跳
+SL_DEKA_IRON_JUMP_K	巨型闪闪钢铁跳
+SL_DODEKA_IRON_JUMP_KK	巨大闪耀钢铁跳
+SL_BANE_JUMP	弹簧跳
+SL_BANE_JUMP_K	闪闪弹簧跳
+SL_BANE_JUMP_KK	闪耀弹簧跳
+SL_DEKA_BANE_JUMP_K	巨型闪闪弹簧跳
+SL_DODEKA_BANE_JUMP_KK	巨大闪耀弹簧跳
+SL_TSUGI_JUMP	轮流跳
+SL_TSUGI_JUMP_K	闪闪轮流跳
+SL_TSUGI_JUMP_KK	闪耀轮流跳
+SL_DEKA_TSUGI_JUMP_K	巨型闪闪轮流跳
+SL_DODEKA_TSUGI_JUMP_KK	巨大闪耀轮流跳
+SL_BUNSIN_JUMP_KK	闪耀分身跳
+SL_DEKA_BUNSIN_JUMP_KK	巨型闪闪分身跳
+SL_DODEKA_BUNSIN_JUMP_KK	巨大闪耀分身跳
+SL_MUGEN_JUMP_KK	闪耀无尽跳
+SL_DEKA_MUGEN_JUMP_KK	巨型闪闪无尽跳
+SL_DODEKA_MUGEN_JUMP_KK	巨大闪耀无尽跳
+SL_RAGGED_HAMMER	破烂锤子
+SL_HAMMER	锤子
+SL_HAMMER_K	闪闪锤子
+SL_HAMMER_KK	闪耀锤子
+SL_DEKA_HAMMER_K	巨型闪闪锤子
+SL_DODEKA_HAMMER_KK	巨大闪耀锤子
+SL_BUN_HAMMER	砰砰锤子
+SL_BUN_HAMMER_K	闪闪砰砰锤子
+SL_BUN_HAMMER_KK	闪耀砰砰锤子
+SL_DEKA_BUN_HAMMER_K	巨型闪闪砰砰锤子
+SL_DODEKA_BUN_HAMMER_KK	巨大闪耀砰砰锤子
+SL_PICO_HAMMER	卟卟锤子
+SL_PICO_HAMMER_K	闪闪卟卟锤子
+SL_PICO_HAMMER_KK	闪耀卟卟锤子
+SL_DEKA_PICO_HAMMER_K	巨型闪闪卟卟锤子
+SL_DODEKA_PICO_HAMMER_KK	巨大闪耀卟卟锤子
+SL_MEGATON_HAMMER	丢丢锤子
+SL_MEGATON_HAMMER_K	闪闪丢丢锤子
+SL_MEGATON_HAMMER_KK	闪耀丢丢锤子
+SL_DEKA_MEGATON_HAMMER_K	巨型闪闪丢丢锤子
+SL_DODEKA_MEGATON_HAMMER_KK	巨大闪耀丢丢锤子
+SL_MEE_HAMMER	咩咩锤子
+SL_DEKA_MEE_HAMMER_K	巨型闪闪咩咩锤子
+SL_DODEKA_MEE_HAMMER_KK	巨大闪耀咩咩锤子
+SL_BURNING_HAMMER	灼热锤子
+SL_DEKA_BURNING_HAMMER_K	巨型闪闪灼热锤子
+SL_DODEKA_BURNING_HAMMER_KK	巨大闪耀灼热锤子
+SL_SEVERE_HAMMER	极寒锤子
+SL_DEKA_SEVERE_HAMMER_K	巨型闪闪极寒锤子
+SL_DODEKA_SEVERE_HAMMER_KK	巨大闪耀极寒锤子
+SL_SANDAL	沙滩鞋
+SL_SANDAL_K	闪闪沙滩鞋
+SL_SANDAL_KK	闪耀沙滩鞋
+SL_TOGE_HAT	钉刺帽
+SL_TOGE_HAT_K	闪闪钉刺帽
+SL_TOGE_HAT_KK	闪耀钉刺帽
+SL_DEKA_BOOTS	超级靴
+SL_DEKA_BOOTS_K	闪闪超级靴
+SL_DEKA_TAIL	尾巴
+SL_DEKA_TAIL_K	闪闪尾巴
+SL_DEKA_FROG	青蛙服
+SL_DEKA_FROG_K	闪闪青蛙服
+SL_FIRE_FLOWER	火之花
+SL_FIRE_FLOWER_K	闪闪火之花
+SL_FIRE_FLOWER_KK	闪耀火之花
+SL_ICE_FLOWER	冰之花
+SL_ICE_FLOWER_K	闪闪冰之花
+SL_ICE_FLOWER_KK	闪耀冰之花
+SL_POW_BLOCK	力量块
+SL_POW_BLOCK_K	闪闪力量块
+SL_POW_BLOCK_KK	闪耀力量块
+SL_NOKONOKO_KOURA	龟壳
+SL_NOKONOKO_KOURA_K	闪闪龟壳
+SL_NOKONOKO_KOURA_KK	闪耀龟壳
+SL_KINOKO	蘑菇
+SL_KINOKO_K	闪闪蘑菇
+SL_KINOKO_KK	闪耀蘑菇
+SL_DEKA_1UP_KINOKO	巨型加命蘑菇
+SL_DEKA_1UP_KINOKO_K	巨型闪闪加命蘑菇
+SL_POISON_KINOKO	毒蘑菇
+SL_LEAF	叶子
+SL_LEAF_K	闪闪叶子
+SL_BOMB	炸弹
+SL_SOMBRERO	墨西哥帽
+SL_BONE	骨头
+SL_BOOMERANG	飞旋镖
+SL_THROW_KNIFE	飞镖
+SL_GABON_BALL	殊力钢
+SL_SNOW_BALL	雪球
+SL_BARREL	木桶
+SL_SPANNER	扳手
+SL_DOOR	秘密门
+SL_BELLOWS	手风箱
+SL_PAPER_FAN	扇子
+SL_FAN	电风扇
+SL_HANDY_CLEANER	手持吸尘器
+SL_UPLIGHT_CLEANER	立式吸尘器
+SL_CLEANER	吸尘器
+SL_JAPANESE_SCISSORS	燕尾剪
+SL_HAIRCUT_SCISSORS	理发剪
+SL_SCISSORS	剪刀
+SL_CLOTH_SCISSORS	裁缝剪
+SL_GOAT	山羊
+SL_MANEKINEKO	招财猫
+SL_WATERING_CAN	喷壶
+SL_TAP	水龙头
+SL_KETTLE	水壶
+SL_LAMP	灯泡
+SL_FLASHLIGHT	手电筒
+SL_SEARCHLIGHT	探照灯
+SL_FOOK	鱼钩
+SL_TRUMPET	小号
+SL_VIOLIN	小提琴
+SL_GUITAR	吉他
+SL_NEWSPAPER_BAT	报纸
+SL_PLASTIC_BAT	玩具球棒
+SL_BAT	球棒
+SL_ITTOKAN	一斗罐
+SL_DRUMKAN	油桶
+SL_TUB	铁盆
+SL_HIGHHEEL	高跟鞋
+SL_OIL_HEATER	油汀取暖器
+SL_DRYER	吹风机
+SL_OVEN	烤箱
+SL_BILLIARD_BALL	台球
+SL_CURLING_STONE	冰壶
+SL_BOWLING	保龄球
+SL_SHAVED_ICE	沙冰
+SL_AIR_CONDITIONER	空调
+SL_FRIDGE	冰箱
+SL_BATTERY_BUTTON	纽扣电池
+SL_BATTERY_1	１号电池
+SL_BATTERY_CAR	汽车电池
+SL_BALLOON	气球
+SL_POCKET_WATCH	怀表
+SL_MAGNIFYING_GLASS	放大镜
+SL_MATCH	火柴
+SL_LIGHTER	打火机
+SL_DUCK	小鸭鸭
+SL_PILLOW	枕头
+SL_BED	床
+SL_CANOPY_BED	豪华床
+SL_MOBILE_PHONE	手机
+SL_JACKHAMMER	凿岩机
+SL_CELLOPHANE_TAPE	透明胶带
+SL_THUMBTACK	图钉
+SL_STAPLER	订书机
+SL_POWDER_PUFF	粉扑
+SL_SPONGE	海绵
+SL_CAR_WASH_SPONGE	汽车清洁海绵
+SL_JUICE	苏打水
+SL_WATER_PISTOL	水枪
+SL_CAKE	蛋糕
+SL_TROPHY	奖杯
+SL_BOOM_BOX	立体声收录机
+SL_TURKEY	火鸡
+PK_FIELD_BRIDGE_KUSYA	木桥
+PK_FIELD_STAR_KUSYA	彗星碎片
+SL_HEI_BRIDGE	木桥
+SL_HEI_DOKAN	绿色水管
+SL_IWA_4_DOOR	白色的门
+SL_HEI_GOAL_STAR	彗星碎片
+SL_IWA_2_BLOCK_BEFOR	砖块开关
+SL_IWA_2_BLOCK_AFTER	砖块开关
+SL_MAC_1_FOUNTAIN	贴花小镇喷泉
+SL_TRE_STUMP_R	树墩
+SL_TRE_STUMP_L	树墩
+SL_SAR_WOOD_DOOR	巢穴的门
+SL_BIG_KOOPA_TAPE	酷霸王纸带
+SL_HANACHAN_BODY_1	花之子的身体
+SL_HANACHAN_BODY_2	花之子的身体
+SL_HANACHAN_BODY_3	花之子的身体
+SL_HANACHAN_BODY_4	花之子的身体
+SL_WAREHOME_DOOR_BEFORE	仓库的门
+SL_WAREHOME_DOOR_AFTER	仓库的门
+SL_MAC_2_RUDDER	船舵
+SL_TOW_WINDOW_BEFORE	塔的外墙
+SL_TOW_WINDOW_AFTER	塔的外墙
+SL_W5_WAN_BLOCK_BEFORE	突面墩
+SL_W5_WAN_BLOCK_AFTER	突面墩
+SL_W5_WAN_STAIRS_BEFORE	遗迹斜坡
+SL_W5_WAN_STAIRS_AFTER	遗迹斜坡
+SL_TOW_ENTRANCE_1	石板碎片
+SL_TOW_ENTRANCE_2	石板碎片
+SL_TOW_ENTRANCE_3	石板碎片
+SL_TOW_04_DOOR	石头大门
+SL_W5_JUN_BRIDGE_1	石桥碎片
+SL_W5_JUN_BRIDGE_2	石桥碎片
+SL_W5_JUN_BRIDGE_3	石桥碎片
+SL_W5_BAK_GATE_BEFORE	丛林水闸
+SL_W5_BAK_GATE_AFTER	丛林水闸
+SL_W5_WAN_PIT	遗迹地板
+SL_W5_MAG_GATE_BEFORE	登山道的岩石
+SL_W5_MAG_GATE_AFTER	登山道的洞穴
+SL_W5_MAG_FLOOR	有裂缝的岩石
+SL_W4_BOS_RAIL	手推车轨道
+SL_W4_BOS_DIVERGENCE_RAIL_BEFORE	斜式轨道
+SL_W4_BOS_DIVERGENCE_RAIL_AFTER	斜式轨道
+SL_W4_BOS_RAIL_EXIT	手推车出口
+SL_W4_LIF_LIFT	往日的上一代
+SL_W4_YAK_BOOKSHELF_S	公馆的书架
+SL_W4_YAK_BOOKSHELF_L	公馆的大书架
+SL_W4_YAK_VAULT	公馆的金库
+SL_W4_YAK_WALL_R	公馆的墙
+SL_W4_YAK_WALL_L	公馆的墙与门
+SL_W4_YUK_DOKAN	洞中的水管
+SL_W4_YUK_PORTRAIT	主人的肖像画
+SL_W4_YUK_PORTRAIT_DOOR	公馆的门
+SL_W5_MAG_ROCK_BEFORE	登山道的大岩石
+SL_W5_MAG_ROCK_AFTER	登山道的大岩石
+SL_W6_KOOPA_CASTLE_GATE_BEFORE	隐藏的酷霸王城堡
+SL_W6_KOOPA_CASTLE_GATE_AFTER	隐藏的酷霸王城堡
+SL_W6_KILLER_CANNON_BEFORE	大弹头杀手炮台
+SL_W6_KILLER_CANNON_AFTER	大弹头杀手炮台
+IC_HP_PLUS	体力UP之心
+IC_BOO_BOOK	封印之书
+STATUS_SLEEP	睡着了，什么也做不了！
+STATUS_GURUGURU	攻击变得难以命中了！
+STATUS_POISON	受到毒的伤害了！
+STATUS_JIWAJIWA	HP回复了！
+STATUS_MORIMORI	攻击力提升了！
+STATUS_FUNYAFUNYA	攻击力下降了！
+STATUS_KUSYA	因皱巴巴而动弹不得！
+STATUS_NORINORI	攻击力变为２倍！
+STATUS_BISYOBISYO	因湿嗒嗒而动弹不得！
+STATUS_CLIP	因回形针而动弹不得！
+STATUS_POISON_SUMI	攻击变得难以命中了！
+STATUS_PIN	因图钉而动弹不得！
+STATUS_STAPLER	因订书钉而动弹不得！
+STATUS_TAPE	因透明胶带而动弹不得！
+STATUS_STOP	停住了，什么也做不了！
+BTL_LEAF_INFO	什么也没发生……
+BTL_NO_HIT	攻击没有命中！
+BTL_NO_TARGET	攻击不到！
+BTL_NO_EFFECT	没有效果！
+BTL_NO_ESCAPE	攻击被避开了！
+BTL_NO_HAMMER	没有带锤子！
+BTL_DIALOGUE_COIN_SHORT	金币不够！
+BTL_DIALOGUE_SLOT_NO_LUCIE	智贴贴不在，无法摇奖！
+BTL_DIALOGUE_SEAL_ZERO	贴纸一张不剩了！
+BTL_SLOT_PRESS_A	\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0停
+BTL_SLOT_PRESS_A_00	\x0e\x02\x02\x14\n\0m\0i\0c\0_\0x\0\x18\0\x06\0 \0 \0特别机会 \x0e\x02\x02\x1a\x10\0m\0i\0c\0_\0c\0o\0i\0n\0\x18\0\x06\0 \0 \0x
+BTL_SLOT_PRESS_A_01	\x0e\x02\x02\x14\n\0m\0i\0c\0_\0x\0\x18\0\x06\0 \0 \0慢 \x0e\x02\x02\x1a\x10\0m\0i\0c\0_\0c\0o\0i\0n\0\x18\0\x06\0 \0 \0x
+BTL_SLOT_PRESS_A_15	15
+BTL_SLOT_PRESS_A_30	30
+BTL_SLOT_PRESS_A_45	45
+BTL_SLOT_PRESS_A_60	60
+BTL_SLOT_PRESS_A_75	75
+BTL_SLOT_PRESS_A_90	90
+BTL_DIALOGUE_NEW_PAGE	收集册里增加了新页面！
+BTL_DIALOGUE_READY_GO	　准备OK？
+PEPA_DIALOGUE_MORE_SEAL	　还要再贴？
+DIALOGUE_SORT	　贴纸整理完毕。
+DIALOGUE_SKIP	跳过剧情
+shop_kanban_kumo	贴纸商店\n咚啪啦山分店
+shop_kanban_mori	贴纸商店\n眺望岬分店
+shop_kanban_saka	贴纸商店\n碎冰山洞分店
+shop_kanban_kazan	贴纸商店\n隆隆火山分店
+shop_hi_kumo	欢迎光临！\n向您推荐火之花贴纸。\n也有稀有的蘑菇贴纸。\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+shop_hi_mori	欢迎光临！\n秘密门的贴纸\n只有在我店里可以买到。\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+shop_hi_saka	欢迎光临！\n本店备齐了各种闪闪的贴纸。\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+shop_hi_kazan	欢迎光临。\n很热的吧。\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+SHOP_00	欢迎光临！\n这里是贴纸商店。\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+SHOP_01	欢迎光临！\n这里是彗星官方贴纸商店。\n今天想买些什么呢？\n\x0e\x03\02\0\0\x02\0\0\0d\0(\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0_\0S\0E\0L\0L\0
+SHOP_BUY_02	抱歉。\n您持有的金币好像不够。
+SHOP_BUY_04	那种贴纸已断货。
+SHOP_SEND_00	收集册已满，\n此贴纸无法购买。
+SHOP_SELL_00	要卖哪张贴纸呢？\x0e\x01\x01\0
+SHOP_SELL_01	是“\x0e\x03\x01\n\x08\0i\0t\0e\0m\0”吧。\n要以\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币卖掉吗？\x0e\x03\0*\0\0\x01\0\0\0d\0 \0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0S\0E\0L\0L\0
+SHOP_NO_SEAL	好像没有可以卖掉的贴纸。
+SHOP_SELECT_BUY_SELL	想买\n想卖\n退出
+SHOP_SELECT_BUY	买\n退出
+SHOP_SELECT_SELL	卖\n退出
+SHOP_THANKS	非常感谢。
+SELECT_DISCARD_00	保留\n丢掉
+skillup_maxhp5	马力欧的最大HP变为“\x0e\x03\x02\x08\0\0\x04\0%\0D\0”了！
+PAD_GUIDE_A	跳
+PAD_GUIDE_B	锤子
+PAD_GUIDE_X	展开／合上收集册
+PAD_GUIDE_Y	纸片变变变
+PAD_GUIDE_L	与智贴贴交谈
+PAD_GUIDE_START	离开已通过的关卡
+PAD_GUIDE_START_01	贴纸的整理（操作收集册时）
+FILEM_SELECT_PLAY	　请选择文件。
+FILEM_SELECT_DELETE	　请选择要删除的文件。
+FILEM_SELECT_COPY	　请选择要复制的文件。
+FILEM_SELECT_COPY_TO	　要复制到哪里？
+FILEM_DIALOG_CREATE_DONE	　文件创建完毕。
+FILEM_DIALOG_DELETE	　请选择要删除的文件。
+FILEM_DIALOG_DELETE_Q	　要删除文件吗？
+FILEM_DIALOG_DELETE_Q_2ND	　确定要删除吗？
+FILEM_DIALOG_DELETE_DONE	　文件删除完毕。
+FILEM_DIALOG_COPY	　请选择要复制的文件。
+FILEM_DIALOG_COPY_Q	　要复制吗？
+FILEM_DIALOG_COPY_Q_OVERRIDE	　要复制并覆盖文件吗？
+FILEM_DIALOG_COPY_DONE	　复制完毕。
+FILEM_DIALOG_COPY_DONE_OVERRIDE	　文件已复制并覆盖。
+FILEM_TASK_CREATE	正在创建文件……
+FILEM_TASK_DELETE	正在删除……
+FILEM_TASK_COPY	正在复制……
+FILEM_DIALOG_BROKEN	　文件已损坏，\n　即将重新创建文件。
+loading	纸片马力欧\n{s[075]}～ 超级贴纸 ～{s[100]}
+OP_00	这个故事是\n　从某个贴纸嘉年华的夜晚开始的。
+OP_01	所谓贴纸嘉年华\n是指每年在蘑菇王国举行的\n　贴纸庆祝活动。
+OP_02	　那个夜晚，\n贴纸彗星从遥远的天空\n　降临大地。
+OP_03	据说，如果大家诚心\n向这个贴纸彗星许愿……
+OP_04	　那个愿望就一定会实现。
+global_event.msbt
+rucy_seal_first	咦。\n那不是贴纸嘛！\n捡了个好东西呀。\x0e\0\x04\0那么，我给你一本收集册吧，\n可以收藏捡到的贴纸。
+rucy_seal_first_2	听好噢！\n得到的贴纸就收藏\n在这个收集册里。\x0e\0\x04\0贴纸以后肯定能派上用场，\n因此好好保管到那个时候吧。
+rucy_help_00	在干什么呀？\n好像已经能走出小镇啦。
+join_kinopio_system_mess	奇诺比奥聚成一束跟过来了！
+join_single_kino_system_mess	奇诺比奥跟过来了！
+away_kinopio_system_mess	　和奇诺比奥们分开了。
+away_single_kino_system_mess	　和奇诺比奥分开了。
+join_hana_system_mess	花之子跟过来了！
+join_hana_system_mess_2	　花之子好像深刻地反省了。
+join_hana_system_mess_3	　花之子太失望了。
+hana_BTSL_enpty_W3_01	哎呀，贴纸是不是已经没了呀。\n没有办法……这是特别服务！
+hana_BTSL_enpty_W3_02	又没有啦？\n真是的！认真做呀……\n特别服务中的特别服务啊！
+hana_cannot_escape_W3	嗨！\n放着花之子身体不管，\n想到哪里去呀！？
+lucie_boss_powerplay_0	哎……\n虽然是打倒了，\n但是用了很多的贴纸。\x0e\0\x04\0说不定还有更有效的贴纸呢。
+lucie_boss_powerplay_1	但是，反正打倒了，\n这次就OK了！\n下次再努力吧！
+lucie_boss_powerplay_2	哎，\n这次又用了相当多的贴纸呀。\x0e\0\x04\0如果好好思考后再使用贴纸，\n说不定可以更顺利地打倒呢。
+lucie_boss_powerplay_3	反正都打倒了，这次就OK了，\n但是下次还是要\n再下点功夫为好！
+no_rucie_paperise	　智贴贴不在，\n　所以无法进行纸片变变变。
+no_rucie_info	　智贴贴不在，\n　所以无法交谈。
+no_rucie_hammer	　没有锤子，所以无法使用。
+find_newtype_waku	咦？\n这里的贴贴纸的空间，\n还是头一次看到的类型。\x0e\0\x04\0这里是不是贴\n连我也不知道的，\n有点稀有的贴纸的地方呀。
+LH_T1	贴花小镇的中心。\n从这里可以走到外面。
+LH_T1_A	在卖贴纸！\n我究竟能值多少钱呢？
+LH_T1_B	以房子的里面来说，\n感觉有点怪怪的。
+LH_T1_C	贴纸博物馆！\n这里让人感觉很放松。
+LH_T2	这里有奇诺比奥所居住的家。\n再往前走就是贴纸嘉年华的会场呀。
+LH_T2_A	奇诺比奥的家。\n嗯，朴素的生活呀。
+LH_T3_A	哎呀呀，一片惨状！\n酷霸王这家伙，飚得有点过了。
+LH_T3_B	空空的。\n居然被搞得什么都没有了。
+LH_T3_C	非常遗憾，\n贴纸嘉年华已经不可能举办了。
+LH_T3_D	贴纸嘉年华真的会复活吗？
+LH_T3_E	奇诺比奥好努力呀。\n我们也要努力！
+LH_T3_F	好厉害！这样说不定\n真的能复活。我们再加把劲！
+LH_T3_G	正在进行贴纸嘉年华的彩排！\n我们也要做最后的努力！
+LH_T4_A	这是什么地方呀。\n感觉有很多可疑之处啊。
+LH_T4_B	虽然有很多可疑之处，\n但是要承认物品贴纸确实厉害。
+LH_M1	有海水的味道。\n离海很近呀。
+LH_M1_A	看起来很像废弃物的东西或者\n不像废弃物的东西，好多呀。
+LH_M1_B	因为什么都看不到，\n所以不好说什么。
+LH_M2	波浪闪耀的，就像我的皮肤。\n闪浪海港……真是个好名字。
+LH_M2_A	好大！\n这个是相当大的家伙呀。
+LH_M2_B	这艘船，虽然是纸做的，\n却不会沉下去噢。
+LH_W1_1	暖暖平原真是暖暖的，\n非常舒服呢。
+LH_W1_2_A	讨厌，风太大，\n造型会被弄乱的！
+LH_W1_2_B	没有花的花圃\n是不能叫做花圃的噢。
+LH_W1_2_C	绿绿的真好看，\n简直就像是公园。
+LH_W1_2_D	传来阵阵花香，\n不愧是盛开花园！
+LH_W1_3	这里有很多水。\n水是纸的天敌噢。
+LH_W1_3_A	由于瀑布的负离子，\n皮肤很水润。
+LH_W1_3_B	上面那个很可疑的\n物品是什么呀？
+LH_W1_3_C	只是站在上面的话，\n是不会有变化的。
+LH_W1_4	风车是借助风的力量来转动的，\n所以叫风车。
+LH_W1_4_A	又暗又冷。\n有点害怕呀。有那么一点。
+LH_W1_5	我是第一次登山。\n感觉就像个山贴贴呢！
+LH_W1_5_A	在云中间呀！\n好棒！
+LH_W1_6	还挺坚固的堡垒呢。\n栗子小子是怎样造的？
+LH_W2_1	好热呀！\n这样胶水会干掉的。
+LH_W2_1_A	哪里是沙漠呀？\n难道是在这个的后面吗？
+LH_W2_1_B	这里还算凉快，但是\n门的后面应该很热吧。
+LH_W2_1_C	沙子在哗啦哗啦地流着呢。\n小心！
+LH_W2_1_D	地下原来是这个样子的。\n注意不要被沙子冲走噢。
+LH_W2_1_E	好酷呀！\n这就叫金字塔吧？
+LH_W2_1_F	穿过通道的话，那里是……\n沙漠吗？
+LH_W2_2	就像在动物身体里的感觉。\n这里是哪个部位？
+LH_W2_2_A	那里有个非常大的……\n……那是什么动物？
+LH_W2_2_B	近看确实好大呀。\n像只恐龙似的。
+LH_W2_2_C	哇哦——鼻子的上面好高呀！\n所谓鼻孔朝天就是这么回事啊。
+LH_W2_3	简直像个迷宫呀。\n来过一次的地方要记住的啊。
+LH_W2_3_A	有通往地下的楼梯呀。\n是遗迹的入口啊。
+LH_W2_4_A	沙尘暴该怎么办呀！\n贴纸最怕沙子了！
+LH_W2_4_B	呼。\n那个沙尘暴简直太糟糕啦。
+LH_W2_4_C	绿洲？\n哪里有啊？
+LH_W2_4_D	好像度假村一样。游泳池看起来\n好舒服呀，虽然我不能下水。
+LH_W2_4_E	唉呀，好美的别墅！\n住在这种地方肯定很贵噢。
+LH_W2_5	虽然历史悠久，但是建得很牢固。\n真是不敢想象是个纸。
+LH_W2_5_A	这里什么都没有，\n可总感觉很不自然。
+LH_W2_5_B	竟然造出这样的塔，太惊讶啦。\n真是高高耸立呀——
+LH_W2_5_C	这里应该是屋顶……\n但简直像……
+LH_W3_1	这是毒的味道？\n好臭呀，讨厌！
+LH_W3_1_X	这就是森林真正的姿态呀。\n静谧地散发着绿色植物的清香。
+LH_W3_1_A	在这种地方睡觉，\n我是绝对做不到的！
+LH_W3_1_B	真的是森林。\n嗯，是森林呀。
+LH_W3_2	不会是随便走走的吧？\n我可不喜欢迷路。
+LH_W3_3_A	好大的树呀。\n使用电梯吧。
+LH_W3_3_B	感觉像个小朋友的房间。\n但还是挺干净的。
+LH_W3_3_C	住在树上，\n还真有童话般的感觉呀。
+LH_W3_4	这种毒湖真是让人恶心。\n真想赶紧解决掉这个毒的问题。
+LH_W3_5	坐在叶子上顺流而下看起来很爽。\n只要没有毒……
+LH_W3_6	可以看到海的山丘，真是浪漫。\n只要没有毒……
+LH_W3_7	这里，我天生就不行的！\n小心不要被抓住呀。
+LH_W3_7_A	巢穴？\n有种不好的预感……
+LH_W3_8	能见度很差呀。\n不要踩空。
+LH_W3_9	现在就让他们见识见识跳的本领！\n掉下去就是毒呀！会泡在毒里噢！
+LH_W3_10	问答题是要自己想的。\n不要依赖我。
+LH_W3_10_A	好大的树墩呀。\n而且下面好像有什么东西似的。
+LH_W3_11	地上有洞，路况不好噢。\n虽然跟浮在空中的我没有什么关系。
+LH_W3_12	是海滩！这海风真舒服！啊啊，\n就这样，要是没有毒该有多好呀……
+LH_W4_1_A	是雪！第一次看见呢！\n真美呀！
+LH_W4_1_B	这个坡，好累呀。\n雪虽说好看，但是路很难走呢。
+LH_W4_1_C	嗨，你是说要横穿这里吗？\n有奇怪的东西滑过来呢。
+LH_W4_1_D	雪的山丘融化光了，\n感觉好畅快呀。
+LH_W4_2	河面被冻得滑溜溜的！\n而且又有奇怪的东西滑过来了！
+LH_W4_2_A	又暗又冷。\n注意脚下很滑。
+LH_W4_2_B	连瀑布也冻住了。\n好像时间停止了一样。
+LH_W4_3	马力欧，\n你不会是有点害怕了吧？
+LH_W4_3_A	这样的深山里竟然\n还有这么气派的公馆呀。
+LH_W4_3_B	好宽敞的入口大厅呀。\n名人的房子都是这样的吧。
+LH_W4_3_C	有点发霉的臭臭的味道。\n纸一旦发霉就完蛋了。
+LH_W4_3_D	外面仍然下着雪呀。\n太冷了，赶紧进去吧。
+LH_W4_3_E	这个房子如果仔细看的话，\n既豪华又漂亮，不错吧。
+LH_W4_4	是的，冷到这种程度的话\n是要结冰的噢。
+LH_W4_5_A	因为来到了相当高的地方，\n所以更加冷了。
+LH_W4_5_B	乘缆车吗？\n好兴奋呀。
+LH_W4_5_C	哇——，看下面！好棒——呀！\n乘缆车真好玩——！
+LH_W4_5_D	哦——洞窟！\n好暗——呀！
+LH_W4_5_E	哇——，又到外面了——！\n乘缆车非常好玩——！
+LH_W4_5_F	咦——，缆车已经结束啦——？\n再乘一次吧。
+LH_W4_6_A	咦，什么呀，这么长的队？\n太兴奋了。
+LH_W4_6_B	终于要开始啦？\n好紧张呀。
+LH_W4_6_C	咔——！\n快停——！好害——怕！
+LH_W4_6_D	好，好，\n好恶心……
+LH_W4_6_E	又要乘……那个呀？\n我会努力，至少不出声。
+LH_W5_1	丛林真是闷热呀。\n对纸可不怎么好呢。
+LH_W5_1_A	垃圾场？\n浪费纸可不好呢。
+LH_W5_2	我什么忙都帮不上呢。\n漂流的事就自己加油吧！
+LH_W5_2_A	因为丛林的河流速很快，\n所以声音很惊人。
+LH_W5_2_B	哎呀，是水管。\n当然要进去的吧？
+LH_W5_3	我什么忙都帮不上呢。\n是大嘴鱼噢，你自己小心吧！
+LH_W5_3_A	啊——啊，\n被瀑布的水花弄湿了。
+LH_W5_4	丛林的深处竟然\n有这样的遗迹……
+LH_W5_5	烫烫烫！\n又烫又热！
+LH_W5_5_A	水温感觉还可以，但我还是\n放弃吧，因为胶水会脱落的。
+LH_W5_5_B	嘣嘣嘣嘣！\n被冻得硬邦邦的噢！
+LH_W5_6	你，没有被花吃掉过吧？\n我有过，真的是糟透了。
+LH_W5_6_A	从火山口进去吗！？\n觉得很酷啊！
+LH_W5_6_B	掉到很深的地方了吧。\n这个热是因为岩浆？
+LH_W6_1	这个嘛，嗯——\n再怎么仔细看也只是个岩壁呀。
+LH_W6_1_A	来自皇家贴纸的光束……\n也有这种力量的呀。
+LH_W6_1_B	纸片变变变成功了！\n怎么回事？
+LH_W6_1_C	酷霸王城堡竟然\n藏在这种地方。
+LH_W6_2	那爱撒娇的家伙竟然拿到了非常\n棒的玩具呢。简直是太宠他了。
+LH_W6_2_A	这艘船因为是用纸做的，\n所以很轻，能飞得很好。
+LH_W6_3_A	入口竟然是自己的脸……\n真是品味很差。
+LH_W6_3_B	马上就……的感觉。\n说实话，非常紧张。
+LH_W6_3_C	下面的尖刺，碰到肯定一下子\n就完了！品味很差的机关呢。
+LH_W6_3_D	地板上也是酷霸王的脸？\n实在是太没有品味啦。
+LH_HIMITSU	一贴就可以打开秘密场所，\n真不愧是秘密门。
+lucie_call_00	\n话说回来，需要建议吗？\x0e\x03\0*\0\0\x01\0\0\0d\0 \0l\0u\0c\0i\0e\0_\0c\0a\0l\0l\0_\0y\0n\0_\00\00\0
+lucie_call_01	\n那，听个建议怎么样？\x0e\x03\0*\0\0\x01\0\0\0d\0 \0l\0u\0c\0i\0e\0_\0c\0a\0l\0l\0_\0y\0n\0_\00\01\0
+lucie_call_02	\n要听建议吗？\x0e\x03\0*\0\0\x01\0\0\0d\0 \0l\0u\0c\0i\0e\0_\0c\0a\0l\0l\0_\0y\0n\0_\00\02\0
+lucie_call_yn_00	要\n不要
+lucie_call_yn_01	要\n不要
+lucie_call_yn_02	要\n不要
+lucie_call_wait	\x0e\x01\x01\0
+LA_W1_1_A	出发去找皇家贴纸吧！\n总之向前进吧。
+LA_W1_1_B	被揭下来的桥竟然在\n那么高的地方！\n有谁能帮助一下吗？
+LA_W1_1_D	把被揭下来的桥\n放到原来的地方吧。\n我来告诉你一件好事情。
+LA_W1_1_C	桥也修好了，\n这样就可以向前进了。
+LA_W1_2_A	好大的风，\n从哪里吹过来的呀？
+LA_W1_3_A	要取彗星碎片，\n应该想办法解决那个水的问题。\n能去的地方都去了吗？
+LA_W1_4_A	竟然有我不知道的种类的贴纸，\n有点在意呀。就是在暖暖平原\n捡到并使用过的那张。\x0e\0\x04\0在贴花小镇上收集一下信息吧。
+LA_W1_4_B	感觉可疑或在意的地方\n首先要用纸片变变变噢。\n这样就不会有错了。
+LA_W1_4_C	那个爱哭鼻子的奇诺比奥，\n看起来好可怜呀，\n去帮一下，怎么样？
+LA_W1_4_D	那样说来，那个爱哭鼻子的奇诺比奥，\n是因为在思考着问题才迷路的吧。\n到底想什么想得那么入神呀。
+LA_W1_6_A	不知道该怎么办的时候，\n就用一下纸片变变变。\n说不定能开辟一条新的道路噢。
+LA_W2_2_A	既然叫斯芬克斯，\n那最起码也该有一两样宝贝。\n就是这样闪闪发光的。
+LA_W2_3_A	既然叫遗迹，\n那最起码也该有一两样宝贝。\n比如说棺材里面等等。
+LA_W2_4_A	闪浪海港的仓库之类的地方，\n没有能帮上忙的东西吗？
+LA_W2_4_B	纸片变变变太重要了。\n在贴纸星上，从小学的时候\n就开始学习啦。
+LA_W2_4_C	总之这个世界\n还是要纸片变变变的。\n爷爷经常这么说噢。
+LA_W2_5_A	好不容易把绿洲\n恢复到原来状态了，\n我想再感受一下度假的氛围。\x0e\0\x04\0那个别墅什么的真的很不错。\n让我们好好看一下里面吧。
+LA_W2_5_B	润泽绿洲的沙尘暴消失之后，\n还没有好好调查过那附近呢。\x0e\0\x04\0或许有由于沙尘暴\n而看漏掉的东西。
+LA_W2_5_C	知道润泽绿洲的石板上\n写着的内容是什么意思了吗？\n调查一下干旱沙漠吧。
+LA_W2_5_D	在耀西斯芬克斯那里\n不是还有忘记拿的东西吗？\n在舌尖上还有个发光的东西呢。
+LA_W2_5_E	感觉好像在哪里还有\n忘记拿的诸如宝藏那种\n重要的物品。
+LA_W2_5_F	这个壁画上的人物看上去\n都一样的，但里面似乎也有\n姿势略微不同的人物。
+LA_W2_5_G	壁画里说不定还藏有提示呢，\n所以全部仔细调查一下吧。
+LA_W2_5_H	这个楼层的壁画，\n人物的朝向和摆出的姿势\n都各不相同。好——好看看呢。
+LA_W3_1_A	那么说来，在栗子小子堡垒，\n是栗子小子把睡着的炸弹兵叫醒的。\n虽然是栗子小子，但非常认真。
+LA_W3_1_B	不必客气，\n尽情使用纸片变变变吧。\n我非常喜欢纸片变变变。
+LA_W3_2_A	总之去看一下花之子的家吧。\n只有穿过迷途森林才行。
+LA_W3_3_A	首先找一下第一个\n花之子的身体吧。
+LA_W3_3_B	第二个花之子的身体\n会在哪里呢？
+LA_W3_3_C	要抓住第三个花之子的身体噢。
+LA_W3_3_D	找一下第四个花之子的身体吧。\n这个是最后一个啦，加油。
+LA_W3_3_E	花之子说过在惊涛海岸等的吧。
+LA_W3_4	花之子的身体肯定还在\n这个全中湖的什么地方噢。
+LA_M2_A	那么，\n似乎这附近的皇家贴纸\n收集得差不多啦，\x0e\0\x04\0看来终于到了\n去海对面大陆的时候！\n去闪浪海港看看吧。
+LA_W4_1_A	寒冷的天，还是\n得来个热的纸片变变变呀。\n暖暖身吧。
+LA_W4_3_A	以我的感觉，这附近\n肯定有恐怖的东西。
+LA_W4_3_B	隐约地感觉到了风。\n是不是哪里漏风呀。
+LA_W4_6_A	有个谚语是“纸片变变变，好处\n多又多”。说的是使用纸片变变变，\n会有很多好事情发生噢。
+LA_W5_3_A	到目前为止好几次都是通过\n纸片变变变开辟道路的呀。
+LA_W5_5_A	小心熔岩！\n这落下来的气势都能在地面打\n个洞啦，因此被打中会很疼的。
+LA_W6_1_A	虽然收集了５张皇家贴纸，\n但是不知道往哪里走。\n是要去还没通过的地方……
+LA_W6_1_B	酷霸王城堡在云上噢。\n有没有谁能带我们\n一飞冲天呀。
+LM_01	咦，\n这是什么？\x0e\0\x04\0得到个来路不明的“物品”。\n竟然不是单薄的，\n非常稀有呀。\x0e\0\x04\0机会难得，\n就作为纪念收起来吧。\n在收集册上也记录一下吧。
+LM_02	哎呀，\n又是个来路不明的“物品”。\x0e\0\x04\0跟之前拿到的一样，\n这个也同样很稀有。\n那就先收着吧。
+lucie_royal_angry	马力欧，\n忘了重要的东西啦！\n去拿皇家贴纸呀！
+intermission.msbt
+intermission_w1_0	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}一张贴纸从天上飘落下来了{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w1_1	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}栗子小子们一阵骚乱{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w1_2	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}１６张合为一体{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w1_3	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}但是最后分道扬镳{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w2_0	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}沙漠之塔的竞技场{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w2_1	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}在刺球的头上贴上皇家贴纸{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w2_2	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}最后{c[000000]}{c[5d3a17]}卡美克{c[000000]}{c[5d3a17]}施了魔法{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w2_3	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}把塔叠起来，纸界匿踪{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w3_0	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}大乌贼怪，非常喜欢跳舞{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w3_1	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}小乌贼怪，非常喜欢恶作剧{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w3_2	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}都怪皇家贴纸的力量{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w3_3	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}毒{c[000000]}{c[5d3a17]}咕嘟咕嘟涌个不停{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w4_0	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}春天到来冰雪融化{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w4_1	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}我的身体也开始融化{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w4_2	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}我想要不会融化的高大身躯{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w4_3	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}向皇家贴纸传达愿望{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w5_0	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}山正在发怒隆隆震响{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w5_1	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}嘿虎，长矛嘿虎，庙会好热闹{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w5_2	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}刺亮刺亮贴纸{c[000000]}{c[5d3a17]}飘落下来了{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+intermission_w5_3	{d}\x0e\x04\x03\x04\0\0\0\0{c[5d3a17]}贪吃鬼饱餐一顿{c[000000]}\x0e\x01\x01\0\x0f\x04\x03{/d}
+porttown_harbor.msbt
+hrb_entrance_kino_00	马力欧先生，你好。\n这里是有船、仓库和港口的小镇，\n闪浪海港。
+hrb_captain_kino_00	我是这艘船的船长。\n也就是说驾驶船是\n我的工作……\x0e\0\x04\0但是我那重要的船目前出了故障，\n不能航行了。\x0e\0\x04\0我对机械是一窍不通，\n所以完全不知道原因在哪里。\n真是让人头疼呀。
+hrb_captain_kino_01	船由于原因不明的故障而不能航行。\n真是让人头疼呀。
+hrb_captain_kino_02	是这样啊，没有船舵！\n这就是故障的原因呀！\x0e\0\x04\0非常感谢！\n原来马力欧先生\n对机械也非常精通呢！\x0e\0\x04\0好，这样我就可以\n将船长的工作做得很棒了。\x0e\0\x04\0也就是说，船就要起航了！
+hrb_captain_kino_03	要起航吗？\x0e\x03\0\x14\0\0\x01\0\0\0d\0\n\0y\0e\0s\0n\0o\0
+hrb_captain_kino_04	遵——命，长官！\n船要起航了——！
+hrb_captain_kino_05	遵——命，长官。\n那么，在此等候您。
+hrb_captain_kino_06	咦～不对劲？\n怎么不能前进啊。\x0e\0\x04\0好不容易排除了故障，\n这次又是为什么呀？
+hrb_captain_kino_07	什么什么！？\n是巨浪吗？\n船当然不能出航了！
+hrb_captain_kino_08	那么大的泡泡怪\n还是第一次看到！\n就叫它“巨型泡泡怪”吧。
+hrb_captain_kino_09	没想到会有那么大的泡泡怪，\n大海真是可怕呀……。\x0e\0\x04\0相比之下我的存在\n真是微不足道呀。\x0e\0\x04\0我想暂时干干岸上的活，\n重新审视一下自己。\n也就是说……\x0e\0\x04\0从今天开始你就是船长，\n马力欧先生！\x0e\0\x04\0请握着这个船舵，\n自由自在地驾驶这艘船吧。\n马力欧船长！
+hrb_captain_kino_10	嗨，马力欧船长！\n进入船舱，握着船舵，\n朝着大海出发如何？
+hrb_sanbashi_kino_00	这艘船是\n驶向大海对面的大陆的，\n但现在正在休航中。
+hrb_sanbashi_kino_01	那个是叫做泡泡怪的鱼。\n但是大到那种程度的\n还真是没有见过。
+hrb_sanbashi_kino_02	啊，马力欧船长。船也修好了，\n泡泡怪也消失了，这样就可以\n朝着大海对面的大陆出发了吧。
+hrb_sanbashi_kino_03	船也修好了，泡泡怪也消失了，\n这样就可以朝着大海对面的\n大陆出发了吧。
+hrb_fisher_kino_00	你知道能钓起\n非常非常大的鱼的鱼钩吗？\x0e\0\x04\0听说前几天出航的渔船上\n就载有那种鱼钩。\x0e\0\x04\0肯定是非常大的鱼钩吧。
+hrb_fisher_kino_01	我也想用很大的鱼钩\n钓一次那么大的！\x0e\0\x04\0啊～只要有鱼钩，\n或者是有鱼钩的贴纸，\n我就可以帮你钓上来！\x0e\0\x04\0载有鱼钩的渔船，\n什么时候回来呀！？
+hrb_fisher_kino_02	啊，马力欧师傅！\n竟然能钓到那么大的鱼！\n请允许我叫您一声师傅！
+hrb_world_kino_00	世界真是非常大。\x0e\0\x04\0大海的对面，\n肯定还有没看到的大陆\n和更大的冒险在等着我们！
+hrb_world_kino_01	世界真是非常大！\n竟然存在\n那么巨大的鱼！\x0e\0\x04\0驶向森林方向的渔船\n是否安然无恙！？
+hrb_world_kino_02	马力欧船长，\n世界真是非常大。\x0e\0\x04\0大海的对面，\n肯定还有没看到的大陆\n和更大的冒险在等着我们！
+hrb_town_kino_00	贴花小镇的传闻\n都传到了这里喔。\n就是，那个常说的恐怖话题。\x0e\0\x04\0{s[075]}{d}救命呀……{/d}\x0e\0\x04\0{s[100]}好像从广场的喷泉那里\n传来的声音，时隐时现的。\x0e\0\x04\0其实那不就是水的声音吗？\n贴花小镇的大伙儿\n有点过于胆小了。
+hrb_town_kino_01	好像听不到\n贴花小镇上的\n喷泉的声音了。\x0e\0\x04\0你看，还是心理作用吧！\n恐怖的话题大多数是那样的。
+hrb_soko_kino_01	这里的仓库保管着\n来自海外的罕见物品。\x0e\0\x04\0没有装箱的物品\n基本上是废弃物，\n请随意拿吧。
+hrb_ne_kino_01	啊……咦？\n马力欧先生？\x0e\0\x04\0对了！找东西的时候，\n电灯泡坏了，变得很暗，\n搞得我困起来了！\x0e\0\x04\0挡住了你的路，非常抱歉噢！\n如果亮的话，是不会打盹的。\n是真的！
+hrb_ne_kino_02	但是想不到在高的地方睡觉\n会这么舒服。\x0e\0\x04\0因为这个，\n我都忘记要找什么了！
+hrb_hanajoin_captain	船是不会去危险的地方的！
+hrb_hanajoin_souko	这里是仓库，\n请勿带小孩来。
+hrb_lock_captain	现在\n正在保养机械设备。
+hrb_mech_kino_00	船长现在\n正在保养机械设备。
+hrb_mech_kino_01	那边那位蓝色的先生\n就是这艘船的船长。
+hrb_mech_kino_02	为了以防万一，\n让钟点工到仓库那里\n找船的备件了。
+hrb_mech_kino_03	为了以防万一，\n让钟点工到仓库那里\n找船的备件了。\x0e\0\x04\0但是到现在\n还没有回来，\n所以打算降低他的工钱。
+hrb_mech_kino_04	这个港口开港以来的\n大事件！
+hana_take_ship_01	乘客，这样我们很为难！
+hana_take_ship_02	花之子，怎么了？\n冷静点。
+hana_take_ship_03	这位乘客说什么\n也要到森林里的湖心小岛上去。\x0e\0\x04\0在那一带，\n最近有艘渔船音讯全无了。\x0e\0\x04\0也就是说很危险！\n危险的地方船是不会去的。
+hana_take_ship_04	听到了？花之子。\n船是不会去的。\x0e\0\x04\0虽然可以理解你想要\n解决毒气问题的那种心情，\n但还是放弃坐船到那里的想法吧。
+SealHelp.msbt
+HELP_CONTENTS_SL_LUCIE	牺牲自己\n把自己的力量给与马力欧，\n并将一切托付给他。
+HELP_CONTENTS_SL_RAGGED_JUMP	用轻跳来踩踏敌人。
+HELP_CONTENTS_SL_JUMP	用跳来踩踏１个敌人，\n但是踩到尖刺就会感到疼。\n努力的话能够多踩几次。
+HELP_CONTENTS_SL_JUMP_K	用有点强的跳来踩踏敌人。
+HELP_CONTENTS_SL_JUMP_KK	用相当强的跳来踩踏敌人。
+HELP_CONTENTS_SL_DEKA_JUMP_K	用非常强的跳来踩踏敌人。
+HELP_CONTENTS_SL_DODEKA_JUMP_KK	用超强的跳来踩踏敌人。
+HELP_CONTENTS_SL_IRON_JUMP	可以进行即使踩到尖刺\n也毫发无伤的跳。
+HELP_CONTENTS_SL_IRON_JUMP_K	可以进行即使踩到尖刺\n也毫发无伤的有点强的跳。
+HELP_CONTENTS_SL_IRON_JUMP_KK	可以进行即使踩到尖刺\n也毫发无伤的相当强的跳。
+HELP_CONTENTS_SL_DEKA_IRON_JUMP_K	可以进行即使踩到尖刺\n也毫发无伤的非常强的跳。
+HELP_CONTENTS_SL_DODEKA_IRON_JUMP_KK	可以进行即使踩到尖刺\n也毫发无伤的超强的跳。
+HELP_CONTENTS_SL_BANE_JUMP	只要努力就可以用跳\n多次地踩踏同一个敌人。
+HELP_CONTENTS_SL_BANE_JUMP_K	只要努力就可以用有点强的跳\n多次地踩踏同一个敌人。
+HELP_CONTENTS_SL_BANE_JUMP_KK	只要努力就可以用相当强的跳\n多次地踩踏同一个敌人。
+HELP_CONTENTS_SL_DEKA_BANE_JUMP_K	只要努力就可以用非常强的跳\n多次地踩踏同一个敌人。
+HELP_CONTENTS_SL_DODEKA_BANE_JUMP_KK	只要努力就可以用超强的跳\n多次地踩踏同一个敌人。
+HELP_CONTENTS_SL_TSUGI_JUMP	可以按顺序踩所有的敌人。\n越是最先被踩到的敌人，\n越能用强的力量踩踏。
+HELP_CONTENTS_SL_TSUGI_JUMP_K	可以按顺序用有点强的力量\n踩所有的敌人。
+HELP_CONTENTS_SL_TSUGI_JUMP_KK	可以按顺序用相当强的力量\n踩所有的敌人。
+HELP_CONTENTS_SL_DEKA_TSUGI_JUMP_K	可以按顺序用非常强的力量\n踩所有的敌人。
+HELP_CONTENTS_SL_DODEKA_TSUGI_JUMP_KK	可以按顺序用超强的力量\n踩所有的敌人。
+HELP_CONTENTS_SL_BUNSIN_JUMP_KK	马力欧所有的分身\n去踩踏同一个敌人。
+HELP_CONTENTS_SL_DEKA_BUNSIN_JUMP_KK	马力欧所有的分身\n用非常强的力量\n去踩踏同一个敌人。
+HELP_CONTENTS_SL_DODEKA_BUNSIN_JUMP_KK	马力欧所有的分身\n用超强的力量\n去踩踏同一个敌人。
+HELP_CONTENTS_SL_MUGEN_JUMP_KK	只要努力就可以持续踩\n同一个敌人无数次。\n只要能持续踩，就是强的贴纸。
+HELP_CONTENTS_SL_DEKA_MUGEN_JUMP_KK	只要努力就可以持续踩\n同一个敌人无数次。\n只要能持续踩，就是非常强的贴纸。
+HELP_CONTENTS_SL_DODEKA_MUGEN_JUMP_KK	只要努力就可以持续踩\n同一个敌人无数次。\n只要能持续踩，就是超强的贴纸。
+HELP_CONTENTS_SL_RAGGED_HAMMER	轻轻挥下锤子来敲击敌人。
+HELP_CONTENTS_SL_HAMMER	挥下锤子来敲击敌人。\n有时可以攻击很多敌人\n但是无法攻击飞行中的敌人。
+HELP_CONTENTS_SL_HAMMER_K	挥下锤子用有点强的力量\n来敲击敌人。
+HELP_CONTENTS_SL_HAMMER_KK	挥下锤子用相当强的力量\n来敲击敌人。
+HELP_CONTENTS_SL_DEKA_HAMMER_K	挥下锤子用非常强的力量\n来敲击敌人。
+HELP_CONTENTS_SL_DODEKA_HAMMER_KK	挥下锤子用超强的力量\n来敲击敌人。
+HELP_CONTENTS_SL_BUN_HAMMER	把锤子用力挥过去，\n从侧面敲击１个敌人。
+HELP_CONTENTS_SL_BUN_HAMMER_K	用有点强的力量把锤子用力挥过去，\n从侧面敲击１个敌人。
+HELP_CONTENTS_SL_BUN_HAMMER_KK	用相当强的力量把锤子用力挥过去，\n从侧面敲击１个敌人。
+HELP_CONTENTS_SL_DEKA_BUN_HAMMER_K	用非常强的力量把锤子用力挥过去，\n从侧面敲击１个敌人。
+HELP_CONTENTS_SL_DODEKA_BUN_HAMMER_KK	用超强的力量把锤子用力挥过去，\n从侧面敲击１个敌人。
+HELP_CONTENTS_SL_PICO_HAMMER	只要努力就可以把１个敌人\n敲击很多次。
+HELP_CONTENTS_SL_PICO_HAMMER_K	只要努力就可以把１个敌人\n用有点强的力量\n敲击很多次。
+HELP_CONTENTS_SL_PICO_HAMMER_KK	只要努力就可以把１个敌人\n用相当强的力量\n敲击很多次。
+HELP_CONTENTS_SL_DEKA_PICO_HAMMER_K	只要努力就可以把１个敌人\n用非常强的力量\n敲击很多次。
+HELP_CONTENTS_SL_DODEKA_PICO_HAMMER_KK	只要努力就可以把１个敌人\n用超强的力量\n敲击很多次。
+HELP_CONTENTS_SL_MEGATON_HAMMER	正想要敲击时，\n有个很大的锤子落下来\n攻击所有的敌人。\n也能击中飞行中的敌人。
+HELP_CONTENTS_SL_MEGATON_HAMMER_K	有个很大的锤子落下来\n用有点强的力量\n攻击所有的敌人。\n也能击中飞行中的敌人。
+HELP_CONTENTS_SL_MEGATON_HAMMER_KK	有个很大的锤子落下来\n用相当强的力量\n攻击所有的敌人。\n也能击中飞行中的敌人。
+HELP_CONTENTS_SL_DEKA_MEGATON_HAMMER_K	有个很大的锤子落下来\n用非常强的力量\n攻击所有的敌人。\n也能击中飞行中的敌人。
+HELP_CONTENTS_SL_DODEKA_MEGATON_HAMMER_KK	有个很大的锤子落下来\n用超强的力量\n攻击所有的敌人。\n也能击中飞行中的敌人。
+HELP_CONTENTS_SL_MEE_HAMMER	进行会使所有的敌人\n感到有点困的攻击。
+HELP_CONTENTS_SL_DEKA_MEE_HAMMER_K	进行会使所有的敌人\n感到非常困的攻击。
+HELP_CONTENTS_SL_DODEKA_MEE_HAMMER_KK	进行会使所有的敌人\n感到超困的攻击。
+HELP_CONTENTS_SL_BURNING_HAMMER	敲击下去后会窜出大火焰，\n燃烧整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_DEKA_BURNING_HAMMER_K	敲击下去后会窜出大火焰，\n非常剧烈地燃烧整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_DODEKA_BURNING_HAMMER_KK	敲击下去后会窜出大火焰，\n超剧烈地燃烧整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_SEVERE_HAMMER	敲击下去后寒气就会扩散，\n冻住整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_DEKA_SEVERE_HAMMER_K	敲击下去后寒气就会扩散，\n非常厉害地冻住整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_DODEKA_SEVERE_HAMMER_KK	敲击下去后寒气就会扩散，\n超厉害地冻住整个敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_SANDAL	被卡美克的魔法变成沙滩鞋的贴纸。\n嗯，本来是什么贴纸呢……
+HELP_CONTENTS_SL_SANDAL_K	被卡美克的魔法变成沙滩鞋的贴纸。\n嗯，本来是什么贴纸呢……
+HELP_CONTENTS_SL_SANDAL_KK	被卡美克的魔法变成沙滩鞋的贴纸。\n嗯，本来是什么贴纸呢……
+HELP_CONTENTS_SL_TOGE_HAT	对从上而来的攻击，\n用有尖刺的帽子\n进行防御和反击。
+HELP_CONTENTS_SL_TOGE_HAT_K	对从上而来的攻击，\n用有尖刺的帽子进行\n防御和有点强的反击。
+HELP_CONTENTS_SL_TOGE_HAT_KK	对从上而来的攻击，\n用有尖刺的帽子进行\n防御和相当强的反击。
+HELP_CONTENTS_SL_DEKA_BOOTS	可以用跳避开敌人的攻击。\n再加上在靴子里的话，\n跳的攻击力会略微提高。
+HELP_CONTENTS_SL_DEKA_BOOTS_K	可以用跳避开敌人的攻击。\n再加上在靴子里的话，\n跳的攻击力会有点提高。
+HELP_CONTENTS_SL_DEKA_TAIL	对敌人的攻击\n甩着尾巴进行反击。\n对从上而来的攻击不会有效果。
+HELP_CONTENTS_SL_DEKA_TAIL_K	对敌人的攻击，\n用有点强的力量\n甩着尾巴进行反击。\n对从上而来的攻击不会有效果。
+HELP_CONTENTS_SL_DEKA_FROG	可以用跳来避开敌人的攻击。\n再加上保持青蛙状态的话，\n攻击力会略微提高。
+HELP_CONTENTS_SL_DEKA_FROG_K	可以用跳来避开敌人的攻击。\n再加上保持青蛙状态的话，\n攻击力会有点提高。
+HELP_CONTENTS_SL_FIRE_FLOWER	投出火球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_FIRE_FLOWER_K	投出有点灼热的火球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_FIRE_FLOWER_KK	投出相当灼热的火球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_ICE_FLOWER	投出冰球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_ICE_FLOWER_K	投出有点冰的冰球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_ICE_FLOWER_KK	投出相当冰的冰球攻击很多敌人。\n对有的敌人会不起作用或无法击中。
+HELP_CONTENTS_SL_POW_BLOCK	给所有的敌人带来伤害，\n有时甚至还能让敌人变得皱巴巴的。\n但是无法攻击飞行中的敌人。
+HELP_CONTENTS_SL_POW_BLOCK_K	给所有的敌人带来有点强的伤害，\n有时甚至还能让敌人变得皱巴巴的。\n但是无法攻击飞行中的敌人。
+HELP_CONTENTS_SL_POW_BLOCK_KK	给所有的敌人带来相当强的伤害，\n有时甚至还能让敌人变得皱巴巴的。\n但是无法攻击飞行中的敌人。
+HELP_CONTENTS_SL_NOKONOKO_KOURA	使龟壳滑出并打中\n所有敌人的攻击。
+HELP_CONTENTS_SL_NOKONOKO_KOURA_K	使龟壳有点强地滑出并打中\n所有敌人的攻击。
+HELP_CONTENTS_SL_NOKONOKO_KOURA_KK	使龟壳非常强地滑出并打中\n所有敌人的攻击。
+HELP_CONTENTS_SL_KINOKO	变得精神。\n疲倦的时候，还是得靠这个。
+HELP_CONTENTS_SL_KINOKO_K	变得有点精神。\n不知道好不好吃。
+HELP_CONTENTS_SL_KINOKO_KK	变得非常精神。\n请在非常疲倦的时候用一下。
+HELP_CONTENTS_SL_DEKA_1UP_KINOKO	在短暂的时间里\n会渐渐地变得略微有精神。\n请在容易感到疲倦的战斗中使用。
+HELP_CONTENTS_SL_DEKA_1UP_KINOKO_K	在短暂的时间里\n会渐渐地变得有点精神。\n请把它作为长期战斗的伙伴使用。
+HELP_CONTENTS_SL_POISON_KINOKO	能使对方中毒的很可怕的蘑菇。\n当然也包括你自己……
+HELP_CONTENTS_SL_LEAF	用途不明的叶子。\n拿到商店说不定会有好事情。
+HELP_CONTENTS_SL_LEAF_K	用途不明的叶子。\n拿到商店说不定会有点好事情。
+HELP_CONTENTS_SL_BOMB	是炸弹兵时不时掉落的贴纸。\n投掷呼唤来的炸弹兵，\n用那个爆炸攻击很多的敌人。
+HELP_CONTENTS_SL_SOMBRERO	是墨西哥帽嘿虎时不时掉落的贴纸。\n投掷帽子攻击１个敌人。
+HELP_CONTENTS_SL_BONE	是枯骨怪时不时掉落的贴纸。\n投掷来路不明的骨头攻击１个敌人。
+HELP_CONTENTS_SL_BOOMERANG	是飞旋镖兄弟时不时掉落的贴纸。\n投掷的飞旋镖飞出去之后\n还会返回来，\n因此很容易打中各种敌人。
+HELP_CONTENTS_SL_THROW_KNIFE	是哈库时不时掉落的贴纸。\n投掷飞镖攻击１个敌人。
+HELP_CONTENTS_SL_GABON_BALL	是加邦时不时掉落的贴纸。\n向１个敌人投掷殊力钢进行攻击。\n无法打中飞行中的敌人。
+HELP_CONTENTS_SL_SNOW_BALL	是雪球加邦时不时掉落的贴纸。\n投掷很大的雪球\n把所有的敌人都卷进来。\n无法攻击飞行中的敌人。
+HELP_CONTENTS_SL_BARREL	是砸砖拳手时不时掉落的贴纸。\n投掷木桶攻击１个敌人。
+HELP_CONTENTS_SL_SPANNER	是扳手仔时不时掉落的贴纸。\n投掷扳手攻击１个敌人。
+HELP_CONTENTS_SL_DOOR	作为便携式的安全出口\n可以从大部分的战斗中逃脱。
+SealMuseum.msbt
+MUSEUM_00	{c[00535f]}数据{c[000000]}
+MUSEUM_01	{c[00535f]}No.\x0e\x03\x02\x0c\0\0\x08\0%\00\02\0d\0{c[000000]}
+MUSEUM_02	{c[00535f]}攻 击 力：{c[000000]}
+MUSEUM_06	{c[00535f]}攻击范围：{c[000000]}
+MUSEUM_03	{c[000000]}{s[075]}简介{c[000000]}{s[075]}\xb7\xb7\xb7\xb7\xb7\xb7{s[075]}{c[000000]}\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7\xb7{s[100]}{c[000000]}
+MUSEUM_04	{c[00535f]}物品获得地点{c[000000]}
+MUSEUM_POWER_0	{c[000000]}－{c[000000]}
+MUSEUM_POWER_1	{c[000000]}★{c[000000]}
+MUSEUM_POWER_2	{c[000000]}★★{c[000000]}
+MUSEUM_POWER_3	{c[000000]}★★★{c[000000]}
+MUSEUM_POWER_4	{c[000000]}★★★★{c[000000]}
+MUSEUM_POWER_5	{c[000000]}★★★★★{c[000000]}
+MUSEUM_AREA_00	{c[000000]}地面{c[000000]}
+MUSEUM_AREA_01	{c[000000]}低空{c[000000]}
+MUSEUM_AREA_02	{c[000000]}空中{c[000000]}
+MUSEUM_AREA_03	{c[000000]}地面\xb7低空{c[000000]}
+MUSEUM_AREA_04	{c[000000]}地面\xb7空中{c[000000]}
+MUSEUM_AREA_05	{c[000000]}地面\xb7低空\xb7空中{c[000000]}
+MUSEUM_AREA_06	{c[000000]}低空\xb7空中{c[000000]}
+MUSEUM_AREA_07	{c[000000]}－{c[000000]}
+SL_RAGGED_JUMP_M0	是跳和踩踏攻击，但由于攻击力\n不太强，所以在商店没有出售。
+SL_JUMP_M0	{c[000000]}可以对敌人进行跳并踩踏的攻击。对\n有尖刺的家伙没有效果，所以要注意。{c[000000]}
+SL_JUMP_K_M0	就像它漂亮的外观，可以进行\n略微强一些的跳和踩踏的攻击。
+SL_JUMP_KK_M0	可以进行比较强的跳和踩踏攻击。\n相当漂亮。
+SL_DEKA_JUMP_K_M0	尺寸稍微变大变闪闪了。\n被踩的敌人也可能变得皱巴巴的。
+SL_DODEKA_JUMP_KK_M0	不只是巨大且闪闪的，还能很轻松地\n将被踩的敌人变得皱巴巴的强力贴纸。
+SL_IRON_JUMP_M0	正如其名，即使是有尖刺的敌人也能\n从容地踩下去的战斗贴纸。这个很爽。
+SL_IRON_JUMP_K_M0	有尖刺的敌人也能踩得略微强一些。\n而且因为是贴纸，虽然是铁却很轻。
+SL_IRON_JUMP_KK_M0	小巧，漂亮，钢铁。\n能进行相当有力的踩踏。
+SL_DEKA_IRON_JUMP_K_M0	对有尖刺的敌人也能强力地踩踏。尺寸\n大了点，但毕竟是贴纸，还是很轻的。
+SL_DODEKA_IRON_JUMP_KK_M0	诸如尖刺之类的一起踩扁，\n简直是进行跳和踩踏攻击的极品。
+SL_BANE_JUMP_M0	虽然攻击力如外观一样很弱，\n但是如果跳得好，能连踩１０次。
+SL_BANE_JUMP_K_M0	确实攻击力是不怎么强的，但是最多\n可以踩１０次，这个非弹簧莫属……
+SL_BANE_JUMP_KK_M0	因为是配有弹簧的拖鞋，所以闪耀，\n但设计有点土。却也能踩１０次。
+SL_DEKA_BANE_JUMP_K_M0	跟尺寸相比，１次的攻击力不是很强。\n但是能踩中１０次就是１０倍了。
+SL_DODEKA_BANE_JUMP_KK_M0	虽然尺寸又大又闪耀的，却是个拖鞋。\n但若能踩完１０次，破坏力就相当大。
+SL_TSUGI_JUMP_M0	如果跳得很好，就连旁边的敌人\n和旁边的旁边的敌人也都能不断踩到。
+SL_TSUGI_JUMP_K_M0	攻击力有所提高的轮流跳。如果能\n持续跳，还能往返于所有敌人之间。
+SL_TSUGI_JUMP_KK_M0	轮流踩过去，在小尺寸的\n轮流跳当中具有最大攻击力。
+SL_DEKA_TSUGI_JUMP_K_M0	尺寸也变大了，而且会用不错的\n攻击力轮流踩踏敌人。
+SL_DODEKA_TSUGI_JUMP_KK_M0	对所有的敌人进行巨大级的跳的攻击，\n轮流系列当中最强的贴纸。
+SL_BUNSIN_JUMP_KK_M0	分身成４个身体，并进行连续的攻击。\n偶尔还会发动使敌人皱巴巴的效果。
+SL_DEKA_BUNSIN_JUMP_KK_M0	闪烁的分身攻击，具有跟贴纸尺寸\n大小相当的高攻击力。
+SL_DODEKA_BUNSIN_JUMP_KK_M0	最强的分身们进行最强的攻击。\n还有使敌人皱巴巴的效果，很厉害。
+SL_MUGEN_JUMP_KK_M0	虽然攻击力非常非常弱，但是踩的次数\n是超群的。挑战最高次数１００次。
+SL_DEKA_MUGEN_JUMP_KK_M0	尺寸略微大了些，但攻击力仍然很弱。\n踩踏１００次定胜负。
+SL_DODEKA_MUGEN_JUMP_KK_M0	据说集中精神不断地踩下去，\n最终就会达到心无杂念的境界。
+SL_RAGGED_HAMMER_M0	看上去不怎么样的，能进行锤子攻击的\n战斗贴纸。效果也一般般。
+SL_HAMMER_M0	用锤子把敌人敲扁。\n请注意，飞行中的敌人是敲不到的。
+SL_HAMMER_K_M0	锤子是蓄积的力量越多攻击力会越大，\n但是蓄积过多就会失败的。
+SL_HAMMER_KK_M0	锤子对敲击到的敌人的周围也会\n带来伤害，因此好好使用吧。
+SL_DEKA_HAMMER_K_M0	巨型又闪闪，能给对方带来很大伤害。\n就是不要打不中，绝对！
+SL_DODEKA_HAMMER_KK_M0	最高级的锤子攻击。对被敲击的敌人，\n以及后面的敌人都会带来巨大级伤害。
+SL_BUN_HAMMER_M0	从敌人侧面打下去，如果很好地打下去\n就会豪爽地把敌人打飞的锤子攻击。
+SL_BUN_HAMMER_K_M0	从侧面打下去的锤子攻击，如果运气\n好，让敌人晕倒就完全不会被攻击到。
+SL_BUN_HAMMER_KK_M0	不能给后面的敌人带来伤害，\n但是对１个敌人的伤害是强烈的。\n偶尔还会使敌人晕头转向。
+SL_DEKA_BUN_HAMMER_K_M0	尺寸很大，对敌人的伤害也是很大的，\n但是错过时机也有可能失败，请注意。
+SL_DODEKA_BUN_HAMMER_KK_M0	砰砰挥下去来个大的伤害！如果能做到\n使敌人头晕、飞出去，那就最最好了！
+SL_PICO_HAMMER_M0	看起来完全就是个玩具。卟卟地最多\n敲击５次，就会让敌人不耐烦５次。
+SL_PICO_HAMMER_K_M0	变成了闪闪也仍是卟卟锤子，不能否认\n有挑逗的感觉，可５次还是有点疼的。
+SL_PICO_HAMMER_KK_M0	看上去相当炫。\n攻击５次就会闪耀卟卟卟卟卟。
+SL_DEKA_PICO_HAMMER_K_M0	最多可以敲击５次，每敲击一次攻击力\n就会变大一些。而且是大尺寸的。
+SL_DODEKA_PICO_HAMMER_KK_M0	巨大尺寸的卟卟锤子，看似玩具，\n但攻击力不容小觑。想来个５次成功。
+SL_MEGATON_HAMMER_M0	猛地投出锤子，给所有敌人带来伤害。\n对空中的也有效，但成败取决于时机。
+SL_MEGATON_HAMMER_K_M0	跟锤子一样，力量蓄积过多就会失败。\n如果挥得过早只能打到１个敌人。
+SL_MEGATON_HAMMER_KK_M0	猛投锤子的全体伤害，对越是\n在前面的敌人，给予的伤害越大。
+SL_DEKA_MEGATON_HAMMER_K_M0	差不多这么大的闪闪的东西从上面落\n下来，这对敌人来说可不是开玩笑的。
+SL_DODEKA_MEGATON_HAMMER_KK_M0	又大又漂亮的，超强力的投掷锤子。\n投过去甚至会有点可惜的感觉。
+SL_MEE_HAMMER_M0	抓住时机挥下去的话，竟然还能\n让敌人睡着。意思意思的伤害程度。
+SL_DEKA_MEE_HAMMER_K_M0	无论多么不困的敌人，只要使用得好，\n都能使其确实睡着的非常方便的锤子。
+SL_DODEKA_MEE_HAMMER_KK_M0	成功的话会让敌人睡着，而且攻击力也\n值得期待。但失败的话就成一场空了。
+SL_BURNING_HAMMER_M0	用炽热的火焰一并攻击所有的小喽罗。\n时机不恰当的话，火焰就不会出来。
+SL_DEKA_BURNING_HAMMER_K_M0	火焰的全体攻击很强，但对甲虫系列的\n敌人是不起作用的，因此请注意。
+SL_DODEKA_BURNING_HAMMER_KK_M0	全体攻击的火焰给所有的敌人带来\n同样大的伤害。真想一次成功。
+SL_SEVERE_HAMMER_M0	超冷的寒气，会给全体敌人带来伤害。\n要发动的话，挥锤子的时机很重要。
+SL_DEKA_SEVERE_HAMMER_K_M0	敲击会给怕冷的敌人带来毫不留情的\n寒气伤害。但对不怕冷的不起作用。
+SL_DODEKA_SEVERE_HAMMER_KK_M0	巨大闪耀的伤害会变成寒气袭击所有\n敌人，但一旦失败，将会功亏一篑。
+SL_TOGE_HAT_M0	只要蹲下来等待，就可以刺敌人一下。\n但是只对从上而来的攻击才有效。
+SL_TOGE_HAT_K_M0	钉刺帽的攻击力会提高。抓住敌人\n碰到的时机刺下去，就会更加提高。
+SL_TOGE_HAT_KK_M0	用闪耀的尖刺反击从上而来的攻击！\n成功的话，敌人会非常疼！
+SL_DEKA_BOOTS_M0	进到靴子里的期间可避开敌人的攻击，\n而且跳系列贴纸的攻击力也会提高。
+SL_DEKA_BOOTS_K_M0	跟超级靴效果相同，多了个闪闪的，\n因此会大幅提高跳系列贴纸的攻击力。
+SL_DEKA_TAIL_M0	马力欧会长出尾巴，把直着飞过来的\n东西弹回去。抓住时机打下去！
+SL_DEKA_TAIL_K_M0	用闪闪的尾巴把直着飞来的敌人或弹丸\n打回去。打得好的话心情会很舒畅。
+SL_DEKA_FROG_M0	穿着青蛙服期间可以避开敌人的攻击，\n而且还会提高其他贴纸的攻击力。
+SL_DEKA_FROG_K_M0	青蛙服变得闪闪的，可以避开\n敌人的攻击，而且还会大幅提高\n其他贴纸的攻击力。
+SL_FIRE_FLOWER_M0	投出和敌人数量相同的火球。\n但是无法击中空中的敌人。
+SL_FIRE_FLOWER_K_M0	投出跟敌人数量相同的闪闪火球。\n时机恰当就会变得略微强一些。
+SL_FIRE_FLOWER_KK_M0	让地面和低空的所有的敌人\n尝尽强力的火球滋味。
+SL_ICE_FLOWER_M0	投出和敌人数量相同的冰球。\n空中的话，只能击中在低空的敌人。
+SL_ICE_FLOWER_K_M0	把冰球投向所有的敌人。\n变成闪闪的，因此攻击力也提高了。
+SL_ICE_FLOWER_KK_M0	发射闪耀的，强力的冰球。\n要是发射得顺利，威力会再提高一些。
+SL_POW_BLOCK_M0	把地面的敌人弄得皱巴巴的。\n有２次机会，抓住时机好好敲吧。
+SL_POW_BLOCK_K_M0	越是敲得好，越能高概率地使地面的\n敌人皱巴巴的，伤害程度也会提高。
+SL_POW_BLOCK_KK_M0	通过敲击２次把敌人弄得皱巴巴的。\n因为是闪耀的，所以攻击力也会提高。
+SL_NOKONOKO_KOURA_M0	踢龟壳把敌人踢飞掉。\n踢的时机恰当，威力会提高。
+SL_NOKONOKO_KOURA_K_M0	被踢的龟壳会把其他的龟壳击飞。\n踩下喏库喏库一口气把敌人踢飞掉吧。
+SL_NOKONOKO_KOURA_KK_M0	闪耀的龟壳会给敌人带来很大的伤害，\n若时机恰当，伤害会提高到２倍左右。
+SL_KINOKO_M0	回复体力的重要的贴纸。只能在\n战斗中使用。想一直随身携带。
+SL_KINOKO_K_M0	比起一般的蘑菇回复的量会有所提高。\n抓住马力欧高举双手的时机使用吧。
+SL_KINOKO_KK_M0	闪耀的蘑菇，回复量也大幅提高。\n时机恰当会进一步得到回复的奖励。
+SL_DEKA_1UP_KINOKO_M0	是个大的蘑菇，对身体很有帮助。\n在１０个回合当中会渐渐地回复。
+SL_DEKA_1UP_KINOKO_K_M0	在１０个回合中一直闪耀回复。抓住\n双手高举的时机，回复量会更加提高。
+SL_POISON_KINOKO_M0	马力欧竟然中毒了！但是在那种\n状态下碰敌人的话，就会……
+SL_LEAF_M0	贴着叶子的期间，攻击会自动变成\n“好极了”，而且防御也会成功。
+SL_LEAF_K_M0	效果和普通叶子贴纸完全一样。是个\n闪耀的，因此能在商店里卖个高价。
+SL_DOOR_M0	打开秘密场所的门。\n也能从战斗中逃脱。
+SL_SNOW_BALL_M0	用雪球加邦吐出的雪球，\n向地上的所有敌人发起强力的攻击。
+SL_GABON_BALL_M0	是加邦从嘴里吐出的铁球。如果抓住\n投出的时机，还能在伤害上获得奖励。
+SL_BARREL_M0	砸砖拳手扔出的木桶。虽然攻击只能对\n１个敌人，但即使在空中也能击中。
+SL_SPANNER_M0	扳手仔投出的扳手。不仅仅是修理\n工具，还是比较强的投掷武器。
+SL_BONE_M0	枯骨怪投出的骨头。因为很轻所以伤害\n程度也就那样。会是自己的骨头吗？
+SL_BOOMERANG_M0	飞旋镖兄弟最爱的全体攻击武器。去时\n攻击地上敌人，归时攻击空中敌人。
+SL_BOMB_M0	炸弹兵的炸弹。如果投得好，\n还可以给周围的敌人带来伤害。
+SL_SOMBRERO_M0	听说墨西哥帽嘿虎投帽子\n是打算回馈粉丝的。
+SL_THROW_KNIFE_M0	哈库最擅长的投掷武器。如果投出的\n时机恰当，伤害程度就会翻倍。
+MUSEUM_SL_JAPANESE_SCISSORS	没有伸进手指的孔，因此要整个握住\n使用。也正因为这样，猜拳时不像\n一般的剪刀一样出剪刀，而是出石头。
+MUSEUM_SL_HAIRCUT_SCISSORS	《理发之湖》　第４幕　\n由于恶魔的诅咒变成剪刀的公主，\n月夜在湖畔哀叹自己悲伤的命运，\n梦想着来世能与王子在一起。
+MUSEUM_SL_SCISSORS	燕尾剪、理发剪和裁缝剪各擅长\n剪线、头发和布，但是单纯的剪刀\n是没有特殊技能的。只能尽力剪碎\n出现在眼前的纸。
+MUSEUM_SL_CLOTH_SCISSORS	能拔出被刺在石头上的裁缝剪的，\n是能最大限度发挥裁缝剪的力量，\n并且能将它运用自如的人。\n也就是说，是个洋裁缝师傅。
+MUSEUM_SL_BELLOWS	做了一个实验，把这个像鞋一样穿在\n两只脚上，用力踏步，排出空气，\n利用那个力量在空中行走，\n但最终还是失败了。
+MUSEUM_SL_PAPER_FAN	拿着棒状的部分，上下或者左右移动\n而产生风的工具。虽说是为了凉快才\n去扇风的，但是太过于使劲反而会\n变热，所以效率不怎么高。
+MUSEUM_SL_FAN	通过３枚叶片的高速旋转，\n使说话声音产生颤音的机器。\n但是伴随着运作，会产生大量的风，\n因此需要小心使用。
+MUSEUM_SL_HANDY_CLEANER	轻巧到可以单手拿的东西，\n真不愧是吸尘器，食欲很旺盛。\n正因为这样才叫吸尘器小朋友吧。
+MUSEUM_SL_UPLIGHT_CLEANER	中型的吸尘器。\n轻盈妖娆的步伐，优美的姿态，\n正因为这样才叫吸尘器妹妹吧。
+MUSEUM_SL_CLEANER	强大的吸力，什么都能完整地吸进去，\n食量很大的壮汉。作为吸尘器的\n顶梁柱，从日常的打扫到年底大扫除，\n总是很用心地投入。
+MUSEUM_SL_WATERING_CAN	从被打开的无数孔中喷出来的\n甘露般的淋水，使种子发芽，\n根部生长，叶子散开，花朵绽放，\n再制造种子，给纸带来伤害。
+MUSEUM_SL_TAP	调节水流量的器具。\n巨大到足以灌溉绿洲，\n因此打开此开关需要\n有旋转跳那样强的力量。
+MUSEUM_SL_KETTLE	煮好了也不会哔——哔——地喧哗，\n只是静静地从嘴里吐出热气，\n头部稍微咔哒地响一下，然后就默默地\n等待。老古董水壶是那样子的。
+MUSEUM_SL_TRUMPET	开关３个阀门的同时送出空气\n产生激烈的音波，是叫人起床的闹钟，\n连栗子小子也会用。\n但是如何操作阀门还是个谜。
+MUSEUM_SL_VIOLIN	将４把小提琴分别用弓压住弦之后，\n断断续续地向前后滑动，就会拉出\n很难听的四重奏，给与观众大大的\n失望感和精神上的伤害。
+MUSEUM_SL_GUITAR	此演奏使用了推弦、颤音、点弦、\n回授、摇把颤音、勾弦、捶弦等技巧。
+MUSEUM_SL_NEWSPAPER_BAT	有不好的新闻时就骨碌骨碌地卷起来，\n瞄准具有冲击性的瞬间来个全力挥杆。\n猛地击飞，好极了！\n但愿明天有个好新闻。
+MUSEUM_SL_PLASTIC_BAT	虽说是塑料的玩具，但只要\n站在击球区，总是很认真地\n迎接比赛。打出击中心里的\n计分屏那样华丽的“好极了”！
+MUSEUM_SL_BAT	集中精神，在球棒碰到的瞬间，\n抓住时机狠狠地挥下去，\n清脆的金属音回荡在整个球场，\n做到啦！一局定胜负满垒好极了！
+MUSEUM_SL_ITTOKAN	仰望着天空向前走吧。那样\n即使突然从空中掉下个一斗罐\n也能马上察觉并躲避。
+MUSEUM_SL_TUB	这个世道，不知道什么时候\n会从空中掉下铁盆。现代社会\n总是伴随着铁盆的危险。
+MUSEUM_SL_DRUMKAN	一想到从空中掉下油桶的事情，\n就怕得晚上都睡不着觉。\n今天一天没掉油桶下来，\n就感到非常庆幸了。
+MUSEUM_SL_LAMP	它的光芒不仅照亮黑暗的地方，\n也用来照亮敌人，从而达到精神上的\n追击。谁都会有心中黑暗的地方。
+MUSEUM_SL_FLASHLIGHT	用镜片和反射板集中灯泡的光芒，\n容易握的形状更能准确地瞄准敌人。\n光线就像一把剑，\n双手一握就更像那么一回事了。
+MUSEUM_SL_SEARCHLIGHT	像探照灯一样强烈的光线，不仅给敌人\n带来伤害，晃眼的光亮还可以使敌人的\n攻击很难命中。\n不要给你阳光你就灿烂！
+MUSEUM_SL_BATTERY_BUTTON	储藏在小小身体里的电量变成正义\n之雷，对敌人给予制裁。外表看起来\n像纽扣一样很温和，但是心中被\n憎恨邪恶的心情充满了电。
+MUSEUM_SL_BATTERY_1	强壮的体格中蓄满了正义的电量，\n怒火之心会把那变成闪电。\n为了让邪恶之人尝尝那一击，\n一直在云上面张望着地上。
+MUSEUM_SL_BATTERY_CAR	发电量、容量都是最大级别的电池。\n发怒时会用大闪电把敌人一扫而光，\n但平常就是发动引擎呀，开开窗户呀，\n放放收音机呀，还是非常温和的。
+MUSEUM_SL_BILLIARD_BALL	用手滚动写着数字的球，碰到叫球杆的\n杆子就会获得与那个数字相应的分数。\n９号球得分最高，这种得分方式\n叫做扎杆，也被叫做榨干。
+MUSEUM_SL_CURLING_STONE	瞄准冰上的圆圈滑动石头，\n以看谁更接近圆圈为目标的竞赛。\n作为赏罚而进行的游戏就是\n输的队要用扫把打扫冰面。
+MUSEUM_SL_BOWLING	发祥于全中湖的运动，是把纸球\n滚到纸的球道上，击倒纸球瓶。\n打球的时候，需穿着喷有\n特殊液体（防滑？）的鞋。
+MUSEUM_SL_TROPHY	的军冠球龄保给发颁是这\n的持所像人把，杯奖的华豪\n。击攻行进了极好向投球圆\n。纸贴的样这是
+MUSEUM_SL_MOBILE_PHONE	是一种通过主机的震动传声音的通信\n机器。是从２个纸杯和线改良过来的\n东西，不同的地方就是能不能看到线\n仅此而已，基本的结构是一样的。
+MUSEUM_SL_JACKHAMMER	{d}“民谣　凿岩颂”{/d}\n因打孔的　凿子　哈～　地盘也沉下\n地鼠　吓得　伸出脸　嗨哟嗨哟\n压缩空气　月夜回荡　啊～哎哟哎哟
+MUSEUM_SL_OIL_HEATER	正如其名，是把油加热的器具。\n通过内置的加热器把在主机内\n循环着的油加热，这个油还在\n食堂的厨房等地方用于炸食品等。
+MUSEUM_SL_DRYER	正式名称叫做纸吹风机。\n通过内置的加热器和送风扇吹干\n湿纸的暖风送风机。有了这个，\n即使是掉进池子里也没有关系。
+MUSEUM_SL_OVEN	火烤沙龙，通称“火沙龙”的地方\n所使用的大型烤箱。只要烤上几次，\n不管什么样的纸，\n都可以烤成漆黑的健康肤色。
+MUSEUM_SL_MAGNIFYING_GLASS	用放大镜看了一下虫子，就跟虫子\n对上了眼神。虫子的眼睛很多，不过\n跟那些眼睛全都对上了眼神。用放大镜\n对上眼神的话，可不能假装看不见。
+MUSEUM_SL_MATCH	唰地打开盒子，咔地取出１根火柴，\n哗地一划就呼地点着了。一开始\n忽闪忽闪的，然后噼——啪——的，\n最后扑呲一声灭掉了。
+MUSEUM_SL_LIGHTER	对于纸来说火焰是非常危险的，\n只要前面的脚趾头稍微碰到火焰，\n就会一瞬间地扩散并燃烧到全身。\n使用时一定要多加注意火。
+MUSEUM_SL_SHAVED_ICE	纸就算一口气吃掉沙冰，头也不会\n“叮——”地疼。只是稍微变湿一点\n而已。吃起来头不会“叮——”地\n疼的沙冰，好像有点不过瘾的感觉。
+MUSEUM_SL_AIR_CONDITIONER	空调设备应该是冷气和暖气两个都可以\n使用的，但是使用冷气的时候把遥控器\n给弄丢了，所以现在不能叫做空调了，\n只能叫冷气机。
+MUSEUM_SL_FRIDGE	买回来的冰淇淋\n不让别人吃掉的最好的方法\n就是不要放进冰箱里，\n而是当场马上吃掉。
+MUSEUM_SL_JUICE	清凉舒爽！爆爆蘑菇！\n曾经以这个宣传口号风靡一时的\n碳酸饮料。自从变成低热量之后，\n就完全卖不掉了。
+MUSEUM_SL_WATER_PISTOL	这把高性能的枪，将无数的纸\n弄得湿淋淋的。水箱的更换是\n需要经验的，如果好好地操作，\n就能补充更多的水吧。
+MUSEUM_SL_DUCK	辛苦的单身母鸭独自抚养了４个孩子，\n鸭子妈妈的一击超乎想象的重。\n孩子的名字是马力子、马力藏、\n马力之介、马力安努。
+MUSEUM_SL_POWDER_PUFF	粉扑厌倦了每天扑脸的生活，\n忽然想到了这个问题。\n是因为扑脸粉，而被称为粉扑了呢，\n还是因为是粉扑，所以才要扑脸呢。
+MUSEUM_SL_SPONGE	海绵厌倦了每天洗碗的生活，\n去旅行了。然后发现了真正的自己。\n那就是，原来自己最喜欢的还是洗碗。
+MUSEUM_SL_CAR_WASH_SPONGE	汽车清洁海绵厌倦了每天洗车的生活，\n断然地改变了每次都从车门开始洗的\n习惯，尝试从发动机罩开始洗了。\n这个简直是个非常大的冒险。
+MUSEUM_SL_PILLOW	枕头是最轻巧且实用的睡眠器具。\n床需要两个人才搬得动，\n但是枕头只要一个穿着睡袍的女人\n夹在腋下就可以开开心心地搬运了。
+MUSEUM_SL_BED	如果因为失眠而苦恼，就来贴这张贴纸\n吧。飘荡着舒服的声音和清香的味道，\n把你带入深深的睡眠之中。但是要小心\n不要被“好极了”的声音给吵醒。
+MUSEUM_SL_CANOPY_BED	像是公主睡的床一样。\n但公主本身已经对这种\n豪华床感到厌倦了，\n希望有一天能睡一下马圈。
+MUSEUM_SL_CELLOPHANE_TAPE	在细长带状的玻璃纸上涂上强力的粘合\n剂，然后贴很多层来固定，之后要用力\n地把它揭下来，导致身体被撕裂掉。\n对纸来说是非常恐怖的工具。
+MUSEUM_SL_THUMBTACK	用锐利的针刺到身体的某一部分，\n然后让身体紧贴墙壁，被牢牢固定得\n不能动弹，而且就那么放着不管。\n对纸来说实在是很恐怖的工具。
+MUSEUM_SL_STAPLER	咔哧咔哧咔哧，咔哧，咔哧咔哧，\n咔哧咔哧……咔哧……咔哧咔哧。\n（咬住很多的纸，用针固定住的俺……\n马上就要……完蛋了……吗）
+MUSEUM_SL_FOOK	人生很像钓鱼。即使机会来了也\n绝不能焦急，要沉着地一直等待，\n这是最重要的。而且大的鱼，\n多半总是会逃跑的。
+MUSEUM_SL_BALLOON	这个世上有两种人，一种是想弄破\n鼓起来的气球的人，还有一种是不想\n弄破的人，根据连续按键的速度，\n就知道你是哪种人了。
+MUSEUM_SL_POCKET_WATCH	\n“没有时间，说这句话的时间\n　　　　　　　　才真正是浪费时间”
+MUSEUM_SL_MANEKINEKO	抱着写了１０００００００金币的\n金板的独特姿势，就像在用手招呼\n金币一样，非常吉利。\n我给它起了个“招财猫”的名字。
+MUSEUM_SL_HIGHHEEL	在森林里发现它，就拿回家了，\n结果尺寸不对穿不上，\n就作为喝饮料的杯子在使用。
+MUSEUM_SL_GOAT	出生在能望到大雪山的小村庄。\n站在山顶上梦想着能吃饱纸的日子时，\n被可疑的秋千绑架了。
+MUSEUM_SL_TURKEY	作为舞蹈者虽然在很多比赛中得了\n第一，如今仍在暗地里持续着舞蹈\n比赛。那就是他作为舞蹈者的信念。\n吃起来很好吃的。
+MUSEUM_SL_CAKE	据说在生日蛋糕上插着和年龄\n相同数量的蜡烛，然后能一口气\n吹灭的话，就会发生好事情。\n用这张贴纸尝试一下吧。
+MUSEUM_SL_BOOM_BOX	只要从立体声收录机飘出轻快的音乐，\n无论何时那里都能成为舞蹈场地。\n从小一起在街头长大的好朋友火鸡，\n跟他一起梦想着成功。
+music_w0_01	{d}侦探马力欧{/d}\x0e\x01\x01\0
+music_w0_02	{d}嘻嘻嚷嚷{/d}\x0e\x01\x01\0
+music_w0_03	{d}贴纸智贴贴{/d}\x0e\x01\x01\0
+music_w0_04	{d}蓝天、白云{/d}\x0e\x01\x01\0
+music_w0_05	{d}晃晃悠悠的秋千{/d}\x0e\x01\x01\0
+music_w0_06	{d}别叫我小人物{/d}\x0e\x01\x01\0
+music_w0_07	{d}我的东西{/d}\x0e\x01\x01\0
+music_w0_08	{d}无法停止的暴走{/d}\x0e\x01\x01\0
+music_w0_09	{d}迫在眉睫{/d}\x0e\x01\x01\0
+music_w0_10	{d}海市蜃楼的彼端{/d}\x0e\x01\x01\0
+music_w0_11	{d}赤色羽翼{/d}\x0e\x01\x01\0
+music_w0_12	{d}蓝色魔法师{/d}\x0e\x01\x01\0
+music_w0_13	{d}剧毒森林{/d}\x0e\x01\x01\0
+music_w0_14	{d}怒火中烧{/d}\x0e\x01\x01\0
+music_w0_15	{d}抓不住{/d}\x0e\x01\x01\0
+music_w0_16	{d}木乔 de 木乔{/d}\x0e\x01\x01\0
+music_w0_17	{d}哀愁的波涛之间{/d}\x0e\x01\x01\0
+music_w0_18	{d}闪浪海港的危机{/d}\x0e\x01\x01\0
+music_w0_19	{d}嘘嘘鬼的狂热夜{/d}\x0e\x01\x01\0
+music_w0_20	{d}恐怖公馆{/d}\x0e\x01\x01\0
+music_w0_21	{d}乘缆车带我走{/d}\x0e\x01\x01\0
+music_w0_22	{d}Go! Go! 手推车{/d}\x0e\x01\x01\0
+music_w0_23	{d}丛林丛林{/d}\x0e\x01\x01\0
+music_w0_24	{d}逼近的巨鱼{/d}\x0e\x01\x01\0
+music_w0_25	{d}遗迹探险队{/d}\x0e\x01\x01\0
+music_w0_26	{d}热浪滔天{/d}\x0e\x01\x01\0
+music_w0_27	{d}战舰{/d}\x0e\x01\x01\0
+music_w0_28	{d}展翅高飞{/d}\x0e\x01\x01\0
+music_w0_29	{d}觉醒的大魔王{/d}\x0e\x01\x01\0
+music_w0_30	{d}恐怖故事{/d}\x0e\x01\x01\0
+museum_chief_kino_00	马力欧先生。\x0e\0\x04\0刚才谢谢你救了我。\x0e\0\x04\0想赶紧恢复骨碌骨碌地\n被卷起来的贴花小镇，\n可能有点太过于急切了，\x0e\0\x04\0当我回过神来的时候，\n已经在又暗又窄\n又薄的喷泉下面啦。\x0e\0\x04\0那么作为你救我的谢礼……\n请到这边来一下。
+museum_chief_kino_01	无论如何我也想让小镇\n恢复原样……\x0e\0\x04\0其理由，\n就在这扇门的后面。\x0e\0\x04\0那请吧。
+museum_chief_kino_02	怎么样，马力欧先生！\x0e\0\x04\0\x0e\x04\x02\0欢迎来到贴纸博物馆！\x0e\0\x04\0\x0e\x04\x02\0这里就是为了把世界上存在的\n各种各样的很优秀的贴纸\n流传给后世而建造的！\x0e\0\x04\0\x0e\x04\x02\0我耗尽个人财产，\n一个人默默地在地下\n进行建造的！\x0e\0\x04\0\x0e\x04\x02\0在王国里是最大\n又是唯一的贴纸博物馆！
+museum_chief_kino_03	真厉害！\n你对那贴纸的爱，\n真令人感动呀！\x0e\0\x04\0\x0e\x04\x02\0在贴纸星里也没有\n这么优秀的博物馆呀！\n你真是太棒啦！\x0e\0\x04\0\x0e\x04\x02\0另外，在这里展示的\n贴纸有多少张呢！？
+museum_chief_kino_04	嗯！\n重要的贴纸还一张都没有！
+museum_chief_kino_05	听说马力欧先生也是\n非常非常喜爱贴纸的人……\n也就是说是我们的同伴！
+museum_chief_kino_06	虽然跟我比起来\n还是差很多。
+museum_chief_kino_07	那么更想让马力欧先生帮我\n收集要展示在这里的贴纸了！\x0e\0\x04\0\x0e\x04\x02\0同样是爱贴纸的人，肯定没有\n比这个更光荣的事情了！\n是吧，马力欧先生！
+museum_chief_kino_08	马力欧，\n我非常赞成！\n来做贴纸收集吧。\x0e\0\x04\0不但能增长贴纸的知识，\n肯定还对寻找\n皇家贴纸有帮助的。\x0e\0\x04\0而且，等回到贴纸星后，\n我也能在大家面前炫耀我曾经\n帮助过贴纸博物馆的事啦！
+museum_chief_kino_09	非常感谢！请一定要\n让这个贴纸博物馆完成！！\x0e\0\x04\0\x0e\x04\x02\0那就拜托了。
+museum_chief_kino_talk_00	贴纸的展示场所定了下来，\n只要收集册里有那张贴纸，\n图案就会在画框中浮现出来。\x0e\0\x04\0贴的方法呢，马力欧先生\n饱含着对贴纸的热爱，\n应该不用说也知道的吧。\x0e\0\x04\0那么，\n博物馆的完成就拜托您啦！
+museum_chief_kino_talk_01	贴上贴纸了呀！\n就这样继续下去，\n将博物馆完成吧。
+museum_chief_kino_talk_02	博物馆的完成度是\n战斗贴纸　　\x0e\x03\x02\x08\0\0\x04\0%\0D\0／９６\n物品贴纸　　\x0e\x03\x02\x08\x01\0\x04\0%\0D\0／６４
+museum_chief_kino_talk_03	博物馆的完成度是\n战斗贴纸　　\x0e\x03\x02\x08\0\0\x04\0%\0D\0／９６\n
+museum_chief_kino_talk_04	努力把博物馆完成吧！
+museum_chief_kino_talk_05	马力欧先生！\n终于完成战斗贴纸的展示区啦！\x0e\0\x04\0作为纪念\n会开放特别展示厅！
+museum_chief_kino_talk_06	马力欧先生！\n终于完成物品贴纸的展示区啦！\x0e\0\x04\0作为纪念\n会开放特别展示厅！
+museum_chief_kino_talk_07	马力欧先生！\n做到了！做到了呀！\x0e\0\x04\0\x0e\x04\x02\0终于！\n收集到所有的贴纸，\n完成了博物馆！\x0e\0\x04\0\x0e\x04\x02\0我多年以来的梦想\n终于实现啦！！
+museum_chief_kino_talk_08	啊——！\n做到了呀！\x0e\0\x04\0\x0e\x04\x02\0我也帮了很多忙，\n所以当副馆长也可以吧！
+museum_chief_kino_talk_09	可以呀！\n智贴贴副馆长！\x0e\0\x04\0\x0e\x04\x02\0马力欧先生是……\n嗯……，胡须看起来很合适，\n所以做名誉馆长怎么样！
+museum_chief_kino_talk_10	马力欧先生是名誉馆长\n智贴贴小姐是副馆长\n请多多关照！\x0e\0\x04\0\x0e\x04\x02\0我每天都到这里来做客噢！
+museum_guide_sound_01	请坐在沙发上，听听喜欢的BGM\n　放松放松吧。
+museum_guide_chara_01	　用１金币就可以享受了。\n　看一下吗？\x0e\x03\04\0\0\x01\0\0\0d\0*\0m\0u\0s\0e\0u\0m\0_\0g\0u\0i\0d\0e\0_\0c\0h\0a\0r\0a\0_\0y\0n\0
+museum_guide_chara_yn	看\n不看
+museum_guide_chara_02	　因为没有金币，所以不能看。
+StaffCredit.msbt
+T00	纸片马力欧 超级贴纸
+T01	STAFF CREDITS
+T02	DIRECTORS
+T41	DIRECTORS & SCENARIO
+T03	LEVEL DESIGN
+T04	PLANNING
+T05	CHARACTER DESIGN
+T06	MAP DESIGN
+T07	MAP DESIGN SUPPORT
+T08	BATTLE MAP DESIGN
+T09	VISUAL EFFECTS & "THINGS" DESIGN
+T10	"THINGS" DESIGN
+T11	UI DESIGN
+T12	TECHNICAL DESIGN
+T13	MAIN PROGRAMMING
+T14	PROGRAMMING
+T15	SCRIPT
+T16	SCRIPT SUPPORT
+T17	SOUND DIRECTOR
+T18	SOUND
+T19	SOUND SUPPORT
+T20	SOUND SUPERVISOR
+T21	CHARACTER VOICES
+T22	GRAPHIC SUPERVISORS
+T23	ILLUSTRATION
+T24	ILLUSTRATION SUPERVISOR
+T25	ARTWORK
+T26	MANUAL EDITING
+T27	TECHNICAL SUPPORT
+T28	SPECIAL THANKS
+T29	NORTH AMERICAN \nLOCALIZATION MANAGEMENT
+T30	NORTH AMERICAN LOCALIZATION
+T42	NOE LOCALISATION MANAGEMENT
+T43	NOE LOCALISATION
+T44	LOCALIZATION MANAGEMENT
+T45	LOCALIZATION COORDINATION
+T46	KOREAN LOCALIZATION MANAGEMENT
+T47	KOREAN LOCALIZATION
+T48	KOREAN ARTWORK
+T49	SIMPLIFIED CHINESE\nLOCALIZATION MANAGEMENT
+T50	SIMPLIFIED CHINESE\nLOCALIZATION
+T51	SIMPLIFIED CHINESE\nARTWORK
+T52	TRADITIONAL CHINESE\nLOCALIZATION MANAGEMENT
+T53	TRADITIONAL CHINESE\nLOCALIZATION
+T54	TRADITIONAL CHINESE\nLOCALIZATION SUPPORT
+T55	TRADITIONAL CHINESE\nARTWORK
+T31	DEBUG
+T32	DEBUG SUPPORT
+T33	COORDINATION
+T34	COORDINATION SUPPORT
+T35	SUPERVISORS
+T36	PROJECT MANAGEMENT
+T37	PRODUCERS
+T38	GENERAL PRODUCER
+T39	EXECUTIVE PRODUCER
+T40	Nintendo and INTELLIGENT SYSTEMS are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n\xa9 2012-2013 Nintendo\nProgram \xa92012-2013 Nintendo / INTELLIGENT SYSTEMS
+N000	Naohiko Aoyama
+N001	Taro Kudo
+N002	Yukio Morimoto
+N003	Toshitaka Muramatsu
+N004	Tomomi Fujisawa
+N005	Naoya Inui
+N006	Masayuki Horikawa
+N007	Ai Tsujimura
+N008	Akira Ueda
+N009	Masahide Miyata
+N010	Takeo Enomoto
+N011	Tomohiro Ozawa
+N012	Madoka Kadono
+N013	Koichiro Yamada
+N014	Naoko Tsukamoto
+N015	Shingo Igata
+N016	Yuki Masuda
+N017	Kayoko Murakami
+N018	Shouko Kotsuki
+N019	Satoko Kurihara
+N020	Miho Sakamoto
+N021	Shunsuke Takenaka
+N022	Takanobu Tsujihata
+N023	Hitomi Sakuma
+N024	Sayoko Hayashi
+N025	Takao Shimoeda
+N026	Teruyuki Ishiko
+N027	Junko Takagi
+N028	Kei Shimura
+N029	Atsumi Hosokawa
+N030	Shingo Nakai
+N031	Masayuki Hashimoto
+N032	Nobuhiro Arai
+N033	Shin Kazoe
+N034	Koji Yokota
+N035	Jun Nagashima
+N036	Seimi Oshiro
+N037	Akira Katsuta
+N038	Sachiko Daigohou
+N039	Hidemi Yamaguchi
+N040	Megumi Yasue
+N041	Kyoko Suzuki
+N042	Naruki Sugeno
+N043	Shiho Iwabuchi
+N044	Takeshi Ando
+N045	Jun'ya Kadono
+N046	Kaoru Kita
+N047	Youichi Tada
+N048	Mitsuru Matsumoto
+N049	Takanori Hino
+N050	Naoki Habu
+N051	James W Anderson
+N052	Kazuhiro Tamura
+N053	Yusuke Ozawa
+N054	Koichi Kishi
+N055	Motomu Chikaraishi
+N056	Taro Kato
+N057	Yusuke Murakami
+N058	Tomohiro Obayashi
+N059	Hiroki Azumada
+N060	Naoyuki Ukeda
+N061	Masahiro Oshinomi
+N062	Yasuhiro Yokoyama
+N063	Jun Kuronuma
+N064	Takuya Sato
+N065	Tsubasa Mizuno
+N066	Isao Watanabe
+N067	Masanobu Matsunaga
+N068	Saki Kurata
+N069	Shoh Murakami
+N070	Yoshito Sekigawa
+N071	Yasuhisa Baba
+N072	Hiroki Morishita
+N073	Masanori Adachi
+N074	Kiyoshi Hazemoto
+N075	Tomoko Sano
+N076	Kosei Muraki
+N077	Hiroaki Hanaoka
+N078	Yasumasa Yamada
+N079	Jumpei Ikawa
+N080	Bungo Fujiwara
+N081	Koji Kondo
+N082	Kenny James
+N083	Caety Sagoian
+N084	Sam Kelly
+N085	Kazumi Totaka
+N086	Sanae Susaki
+N087	Kanae Dohta
+N088	Chiaki Aida
+N089	Tsuyoshi Watanabe
+N090	Naoya Hasegawa
+N091	Yusuke Nakano
+N092	Yuka Kotaki
+N093	Ryota Kanno
+N094	Ryo Koizumi
+N095	Aki Sakurai
+N096	Shingo Okamoto
+N097	Kotaro Hiromatsu
+N098	Tsutomu Kitanishi
+N099	Taku Sugioka
+N100	Ryota Kawade
+N101	Kazuhito Norimoto
+N102	Tsutomu Tei
+N103	Toshio Sengoku
+N104	Tohru Narihiro
+N105	Naoki Nakano
+N106	Kenji Imai
+N107	Masakazu Umehara
+N108	Kenichi Nishimaki
+N109	Masahiro Higuchi
+N110	Kenji Yamada
+N111	Atsushi Ikuno
+N112	Naoko Mori
+N113	Daisuke Nakajima
+N114	Makoto Katayama
+N115	Mayuko Tsukamoto
+N116	Atsunori Ina
+N117	Hiroyuki Tashiro
+N118	Naohiro Yasuhara
+N119	Yoshihisa Isa
+N120	Manabu Matumoto
+N121	Yotaro Kiriyama
+N122	Yoshinori Isoda
+N123	Katsuhiko Kurahashi
+N124	Shizue Kiriyama
+N125	Atsushi Iio
+N126	Kazuki Hamamura
+N127	Leslie Swan
+N128	Nate Bihldorff
+N129	Billy Carroll
+N130	Galia Rodriguez Hornedo
+N131	Derek Seklecki
+N132	Simplified Chinese\nProduct Testing Group
+N133	Mario Club Co., Ltd.
+N134	DIGITAL Hearts Co.,Ltd.
+N135	Masashi Okamoto
+N136	Jumpei Horita
+N137	Kazuyuki Gofuku
+N138	Ryuichi Nakada
+N139	Shigeru Miyamoto
+N140	Takashi Tezuka
+N141	Keisuke Terasaki
+N142	Kenji Nakajima
+N143	Osamu Yamauchi
+N144	Kensuke Tanabe
+N145	Toshiyuki Nakamura
+N146	Shinya Takahashi
+N147	Satoru Iwata
+N148	Takeru Kanazaki
+N149	Daisuke Yasumatsu
+N150	Yasuhito Fujisawa
+N151	Takafumi Kaneko
+N152	Takashi Akiyama
+N153	Andy Fey
+N154	Jan Peitzmeier
+N155	Silvio Schmelz
+N156	Federico Maggi
+N157	Roby Liebetruth
+N158	Claudia Smith
+N159	Ciaran Edwards
+N160	Emmanuel Adien
+N161	Olivier Strag
+N162	Pierre-Guillaume Mabboux
+N163	Adriano Antonini
+N164	Laura Innocenti
+N165	Alessandro Pagano
+N166	Jessica Ferlmann
+N167	Nele Quegwer
+N168	Thomas Ito
+N169	Nils Dittbrenner
+N170	Janine Wetherell
+N171	Javier Mart\xedn \xc1lvarez
+N172	Ales\xe1nder Valero Fern\xe1ndez
+N173	Sof\xeda Mar\xedn Aguilar-Galindo
+N174	Ainhoa Bernad Hurtado
+N175	NOE Quality Assurance
+N176	Kimiko Nakamichi
+N177	Jonghoon Park
+N178	Xu Xizhou
+N179	Yu Fukaya
+N180	Hyokjin Jung
+N181	Jihyun Choi
+N182	Dongyeon Kim
+N183	Kwanja Lim
+N184	Jiyoung Shin
+N185	Siyoung An
+N186	Shin'ichi Sasamoto
+N187	Qiu Xiaochun
+N188	Shen Jingdan
+N189	Peng Yi
+N190	Xu Jie
+N191	Sung Ching-Yun
+N192	Tan Ya-Yun
+N193	Kirsty Wong
+N194	Liu Tzu-Yun
+N195	Lin Hui-Jung
+N196	Chou Yung-Yu
+stg1_1.msbt
+step_kino_A_01	这里是一直阳光暖暖的\n“暖暖平原”。
+step_kino_A_02	这里是一直阳光暖暖的\n“暖暖平原”！
+step_kino_A_03	这里是一直阳光暖暖的\n“暖暖平原”，晕！
+step_kino_A_04	虽然经历过很多事情，\n但这里是一直阳光暖暖的\n“暖暖平原”。
+step_kino_B_01	栗子小子们正在转来转去呢。\n看见的话就请用力踩一下。
+step_kino_B_02	栗子小子们正在转来转去呢！\n看见的话就请用力踩一下！
+step_kino_B_03	栗子小子们也正在转来转去呢！\n我正留意不要踩到他们！
+step_kino_B_04	栗子小子们还在转来转去呢。\n看见的话就请用力踩一下。
+step_kino_C_01	{d}告示板上{/d}\n{d}　写着对你有帮助的内容。{/d}\x0e\0\x04\0……是奇诺比奥界著名的格言。
+step_kino_C_02	{d}告示板上{/d}\n{d}　写着对你有帮助的内容。{/d}\x0e\0\x04\0……是奇诺比奥界著名的格言！
+step_kino_C_03	要注意酷霸王Jr.！\n得赶紧写在告示板上！
+step_kino_C_04	{d}奇诺比奥{/d}\n{d}如果聚成一束的话{/d}\n{d}　也是可以有所帮助的。{/d}\x0e\0\x04\0……是奇诺比奥界的新格言！
+step_kino_D_01	今天和朋友们一起\n来贴纸狩猎了，\n但是有一个人不见了。\x0e\0\x04\0不会是自己\n独吞贴纸了什么的吧。
+step_kino_D_02	今天和朋友们一起\n来贴纸狩猎了，\n但是有一个人不见了！\x0e\0\x04\0不会是自己\n独吞贴纸了什么的吧！
+step_kino_D_03	酷霸王Jr.！\n现在可不是\n贴纸狩猎什么的时候！
+step_kino_D_04	酷霸王Jr.也不见了，\n和朋友们一起\n继续贴纸狩猎。
+ore_kino_01	啊，马力欧先生！\n现在可不是\n在这里聊天的时候噢！
+ore_kino_02	啊，马力欧先生！\n您把那难缠的酷霸王Jr.\n打倒了呢！\x0e\0\x04\0从来没有见过这么稀有的贴纸，\n要捡起来的时候，被他缠住了……\n多亏您才得救了呀。\x0e\0\x04\0……咦，桥被揭下来了？\n这可是当务之急！\x0e\0\x04\0虽然我们如此地单薄，但是\n说不定也有可以帮上忙的地方。\n带我们一起去吧。\x0e\0\x04\0{d}大家集合——！{/d}
+ore_kino_03	虽说如此，\n那从来没见过的贴纸，\n应该是非常稀奇的东西。\x0e\0\x04\0还有没有掉在什么地方的呀。\n肯定能高价出售噢。
+kino_unired_01	咦？\n要回去了吗，马力欧先生？\x0e\0\x04\0那么在此等候您。\n办完事情后请再过来呀。
+kino_unired_02	一直在等候着您，马力欧先生。\n那走吧！
+kino_unired_03	原来如此，\n就是那个地方的“那个”呀？
+kino_unired_03_01	好， 大家！\n要齐心协力，\n相信自己，来做做看吧！\x0e\0\x04\0{d}全～体……\x0e\x04\x04\x04\xfa\0\0\0伸展开来！{/d}
+kino_unired_03_02	{d}好了，请吧！{/d}
+kino_unired_04	挺顺利的呀！\n非常高兴能够为您效劳。
+kino_unired_05	我们大家聚合成束\n大概就是这个样子啦！\x0e\0\x04\0那么我们在此告辞了！
+scissor_seal_m01_01	{d}{s[150]}救命呀～！{s[100]}{/d}
+scissor_seal_m01_02_0	啊疼疼疼……
+scissor_seal_m01_02_1	啊，啊，马力欧先生！\n现在可不是趴下的时候！
+scissor_seal_m01_02_2	正在被一个难缠的人追赶着呢，\n所以先告辞了！\n接下来就拜托你了！
+scissor_seal_m01_06	看起来非常慌张呀。\n难道发生了什么事情……？
+scissors_full_01	持有的贴纸太多了，\n所以捡不了这张贴纸。\x0e\0\x04\0但是挺可惜的，\n先整理收集册之后，\n再过来拿吧。
+scissor_seal_m02_01	哎哟，这是什么？\n非常稀有的贴纸呀。\x0e\0\x04\0即使对贴纸非常精通的我\n也是第一次看到这种贴纸。\x0e\0\x04\0在这种地方一直这么放着，\n感觉贴纸也挺可怜的。\n机会难得，收着吧。
+scissor_seal_m02_02	{d}别逃～！等等～！{/d}
+scissor_seal_m02_03	你这家伙就是马力欧！\n怎么会在这种地方？
+scissor_seal_m02_04	哼哼，这味道……\n你这家伙也有稀奇的贴纸呀？\x0e\0\x04\0稀奇的贴纸全～部都是我的，\n赶快交出来～！
+scissor_seal_b00_01	好！那张稀奇的贴纸，\n我会拼命抢过来的，\n你可要谢谢我。
+scissor_seal_b01_01	哈哈哈，我是很厉害的吧。\n像你现在这样\n完～全没有得胜的可能吧。\x0e\0\x04\0但是，不要因为赢不了\n就自暴自弃，用掉那张稀奇贴纸\n什么的，可别干那种蠢事！\x0e\0\x04\0那贴纸是我要在\n打倒你这家伙之后，\n完整地拿到手的！
+scissor_seal_b04_05	还真有两下子……\n那只好用从老爸那里\n得到的力量来进行回复啦～！
+scissor_seal_m03_01	什么嘛！？\n使用那么胡闹的贴纸\n简直是不择手段！
+scissor_seal_m03_02	我要发火啦～！\n这样的话，\n也要让你看看我珍藏的技能！
+scissor_seal_m03_02a	{d}{s[150]}嘿～嘿～！{s[100]}{/d}
+scissor_seal_m03_02a_02	{d}还没完呢～！再～来～！{/d}
+scissor_seal_m03_02b	这样就不能通过这里。\n活该！\x0e\0\x04\0{d}那我就闪啦～！！{/d}
+scissor_seal_m03_03	那家伙到底是何方神圣？\n不可能是一个无名小卒。\x0e\x04\x02\0\x0e\0\x04\0虽然如此，\n竟然会使用那种力量，\n难道是……\x0e\0\x04\0……算了，总之\n先要解决这座桥的问题，\n要不然就不能前进了。\x0e\0\x04\0好，想办法吧！
+pape_tuto_01	好，那么马上就能\n让这座桥恢复原样。\x0e\0\x04\0从现在开始我会助你一臂之力。\n准备好了吗？
+pape_tuto_03	OK——\n那就开始了！\n来吧……\x0e\0\x04\0{d}{s[150]}纸　片　变　变　变！{s[100]}{/d}
+pape_tuto_04	你看，时间停止了，\n整个世界变得好像一张纸。\n这就是“纸片变变变”！\x0e\0\x04\0那么首先，从下屏幕中\n选择刚刚捡到的“桥”的纸片。
+pape_tuto_04_01	是的，就是这样的。\n然后把那张纸片\n贴在桥原来的位置上。\x0e\0\x04\0用\x0e\x02\x02\x16\x0c\0m\0i\0c\0_\0s\0t\0\x18\0\x06\0 \0 \0把纸片的影子\n对准想要贴上的位置，\n按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0粘上去。\x0e\0\x04\0{d}那，做做看吧！{/d}
+pape_tuto_04_02	嗯，就是这种感觉！\x0e\0\x04\0那么作为最后的工序，\n用\x0e\x02\x02\x16\x0c\0m\0i\0c\0_\0s\0t\0\x18\0\x06\0 \0 \0把整个纸片抚平，\n让每个边缘都贴吻合吧。
+pape_tuto_07_not	哎呀，有点可惜，\n纸片的位置有点偏了。\x0e\0\x04\0好好看一下桥影子的形状，\n尽量要贴得和\n被揭下来的地方完全重合。\x0e\0\x04\0不熟练的时候，有可能很难，\n但是要加油呀！\x0e\0\x04\0用\x0e\x02\x02\x16\x0c\0m\0i\0c\0_\0s\0t\0\x18\0\x06\0 \0 \0对准想要贴的位置，\n按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0呀。\x0e\0\x04\0{d}好，再来一次！{/d}
+pape_tuto_09	{d}完成～！{/d}\x0e\0\x04\0你相当有潜质呀。\n不愧是单薄的纸。\x0e\0\x04\0从今以后随时都可以按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0y\0\x18\0\x06\0 \0 \0\n选择纸片变变变！\x0e\0\x04\0被揭下来的地方用纸片贴上去，或者\n觉得有点奇怪的地方用贴纸贴上去\n等等，纸片变变变可以做很多的事。\x0e\0\x04\0按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0y\0\x18\0\x06\0 \0 \0纸片变变变！\n一定要记住呀！
+goalstar_01	{d}　啊！？\x0e\x04\x04\x04d\0\0\0那个是！？{/d}
+goalstar_02	我到这里来时乘坐的\n是贴纸彗星，那个是贴纸彗星\n被分散掉的一个碎片呀！\x0e\0\x04\0贴纸彗星和皇家贴纸，\n因为同样受贴纸星的力量，\n所以互相吸引的。\x0e\0\x04\0只要收集彗星碎片，\n就可以很自然地被指引到\n皇家贴纸所在的地方了。\x0e\0\x04\0再加上，在战斗中打倒\n很多敌人的话，作为奖励\n就可以相应地得到很多金币！\x0e\0\x04\0那么，取下彗星碎片，\n让它指引我们到\n皇家贴纸那里吧！
+trio_kuri_01	给我站住～！
+trio_kuri_06	嘿嘿嘿，\n好像没有察觉到呀。
+trio_kuri_07	怎么样！\n单薄如纸！\x0e\0\x04\0趁他还在吃惊的时候，\n赶紧干掉吧～！
+trio_kuri_02	{d}哦，被察觉到啦！{/d}
+trio_kuri_03	刚才是因为稍微放松了警惕，\n才会像单薄的古惑仔一样\n被干掉的。\x0e\0\x04\0这次就不会那样了！\n好好领教一下纸的看家本领吧！
+trio_kuri_04	再来几次，也是一样的。\n好好领教一下纸的看家本领吧！
+trio_kuri_05	再次甘拜下风！\n俺们还真是\n单薄的古惑仔呀——！
+trio_kuri_08	哇哈哈，逃了，逃了！\n可能太畏惧\n纸的看家本领吧！
+trio_kuri_09	哎呀？\n真是好了伤疤忘了疼，还来呀！
+signboard_ac_01	攻击的时候\n要抓住时机按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0键
+signboard_ac_02	受到攻击的时候\n也要按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0键
+stg1_2.msbt
+flo_tlk_01	好大的风呀！\n不好了！\n好像要被吹走似的！
+flo_tlk_04	呜呜呜……\n我珍贵的花\n全部被吹走了……
+flo_tlk_06	又吹来了好大的风！\n花儿肯定又要被　\n吹走了吧！
+flo_tlk_repairhint_00	像火烧般红的花也好……\n像冰冻般蓝的花也好……\x0e\0\x04\0全——部都被风给吹走了！\n呜——呜——！
+flo_tlk_repairhint_01	啊，花？\n虽然有点高兴，但是就这一朵花\n也说不上是花圃。
+flo_tlk_repairhint_02	啊啊，花！？\n虽然相当高兴，但是作为花圃\n还是感觉少了点什么。
+flo_tlk_papeNG_Noseal	咦？\n我还以为是花开了，\n原来是错觉。
+flo_kino_result_normal	哇——！\n花开了——！
+flo_kino_result_kira	耶～耶～！\n花开了——！\n而且还是闪闪的！
+flo_kino_result_kirakira	耶耶～耶～！\n花开了——！\n而且是非常非常闪耀的！！
+flo_kino_result_thx	非常感谢！\n马力欧先生的贴纸\n所拥有的力量好厉害呀！\x0e\0\x04\0我很感动！\n请收下这个吧。
+flo_tlk_repairsecond_02	花儿们，太好了——\n风已经停了，所以可以放心了。
+flo_tlk_repairsecond_04	花又全部被吹走了……\n啊，饶了我吧……
+kino_vs_kuri_02	哎，哎～\n刚才拿着的物品是什么呀。\n给俺们看一下吧～
+kino_vs_kuri_03	能不能爽快一点呀～\n好了啦，快点拿出来。
+kino_vs_kuri_01	住手！\n住手！
+kino_vs_kuri_04	啊，是马力欧！\x0e\0\x04\0怎么啦？\n俺们只是在友好、\n开心地玩而已。
+kino_vs_kuri_06	找这个奇诺比奥\n有什么事情吗？\n如果是这样……\x0e\0\x04\0花２０金币就可以放了他。\n怎么样？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0k\0i\0n\0o\0_\0v\0s\0_\0k\0u\0r\0i\0_\00\08\0
+kino_vs_kuri_06_01	啊，马力欧又来了！
+kino_vs_kuri_07	是吧是吧，\n那是听错了。\n那再问一次。\x0e\0\x04\0花２０金币就可以放了他。\n怎么样？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0k\0i\0n\0o\0_\0v\0s\0_\0k\0u\0r\0i\0_\00\08\0
+kino_vs_kuri_08	支付２０金币\n靠动武来救助
+kino_vs_kuri_09	咦？咦？\n真的可以吗？\n你这家伙也挺识相的嘛。
+kino_vs_kuri_10	说了果然不一样！\n这个呢我就笑纳了。\n走～啦～！
+kino_vs_kuri_10_01	什么呀？\n金币不够呀！\n耍俺……干掉他——！
+kino_vs_kuri_11	想救他？\n不会是听错了吧。\x0e\0\x04\0好好听着，俺们是比其它的\n栗子小子高出一等的。\n那样也……要靠动武来救他？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0k\0i\0n\0o\0_\0v\0s\0_\0k\0u\0r\0i\0_\01\02\0
+kino_vs_kuri_12	靠动武来救助！\n还是让我想想
+kino_vs_kuri_13	胆量好大呀！\n既然都这么讲了，那就来吧！
+kino_vs_kuri_18	原来如此，这就是动武呀！\n甘拜下风～！
+kino_vs_kuri_19	非常感谢，马力欧先生！\n给你带来了麻烦，真是抱歉。\x0e\0\x04\0其实刚才，\n发现了很稀有的物品。
+kino_vs_kuri_20	是吧？\n是不是很棒呀，这个。\n虽然我完全不知道这是什么……\x0e\0\x04\0总之这个就作为刚才的谢礼，\n送给马力欧先生。\n请您收下吧！\x0e\0\x04\0如果用不到，\n就送给正在找稀有物品的人吧。\x0e\0\x04\0那么我就告辞了，\n因为我还要去一个地方！
+pentagon_kuri_00	{d}给我站住——！{/d}
+pentagon_kuri_01	哎！你以为，\n俺就是一张单薄的小人物？\x0e\0\x04\0别小看俺了！\n俺们的发飚已经刹不住了——！
+pentagon_kuri_04	是俺们小看你了！\n不会再发飚了。\n还是应该安全驾驶呀！
+pentagon_kuri_06	怎么样！\n不要小看俺们的发飚！
+pentagon_kuri_07	又来了是以为\n这次肯定会赢？\n别小看人了！
+slot_open_event_00_00	哎哟，这样大张旗鼓、\n华丽地登场。\x0e\0\x04\0但即使是小人物，\n有５张聚在一起杀过来\n那也有点麻烦呀。
+slot_open_event_00	哎，马力欧。\n面对着那么多的敌人，\n又花时间，是不是很不容易呀？\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0s\0l\0o\0t\0_\0o\0p\0e\0n\0_\0e\0v\0e\0n\0t\0_\00\01\0
+slot_open_event_01	是的\n没什么
+slot_open_event_02	啊，是吗？\n但内心是不是觉得很辛苦呀？
+slot_open_event_03	哎呀，太不坦诚了。\n面对那么多的对手\n却只有一张贴纸很麻烦吧？\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0s\0l\0o\0t\0_\0o\0p\0e\0n\0_\0e\0v\0e\0n\0t\0_\00\01\0
+slot_open_event_04	肯定是说谎！\n男人的话，不是很想一次\n用很多贴纸的吗？\n\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0s\0l\0o\0t\0_\0o\0p\0e\0n\0_\0e\0v\0e\0n\0t\0_\00\01\0
+slot_open_event_05	哎，哎！\n是想救叫桃花的公主吧！？\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0s\0l\0o\0t\0_\0o\0p\0e\0n\0_\0e\0v\0e\0n\0t\0_\00\06\0
+slot_open_event_06	是的\n当然
+slot_open_event_07	果然如此！\n那么就传授你很厉害的本领吧。\x0e\0\x04\0{d}嘿～！{/d}
+slot_open_event_08	{d}战斗摇奖！{/d}\x0e\0\x04\0３个图案是不是在骨碌骨碌地\n转呀？按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0一张一张地停下。\n然后，如果图案转齐的话……\x0e\0\x04\0就会增加在一次攻击中\n可以使用的贴纸张数！\n很棒吧！？\x0e\0\x04\0{d}来，试一下！{/d}
+slot_open_event_09	唉哟，真可惜，\n图案没有转齐呀……\n嗯，又是第一次没有办法呀。\x0e\0\x04\0那么这次就来个\n特别服务吧！
+slot_open_event_10	你看！\n这样一次可以使用的\n贴纸就达到３张了。\x0e\0\x04\0而且，图案３个全转齐的话\n会有更好的事情发生。\x0e\0\x04\0例如这次\n转齐的是金币图案，\n那么会得到金币的奖励！\x0e\0\x04\0怎么样，很厉害吧？\n下次开始呢，\n自己努力转齐吧！
+slot_open_event_11	图案转齐了２个。\n这样一次可以使用的\n贴纸就达到２张了！\x0e\0\x04\0但是，有点可惜呀。\n图案如果３个都转齐了，\n贴纸就可以使用３张了……\x0e\0\x04\0好吧——，\n就这次来个特别服务吧！
+slot_open_event_13	哎呀，好厉害呀！\n这样一次可以使用的\n贴纸就达到３张了！\x0e\0\x04\0……但怎么偏偏是毒蘑菇呀！\n这个是……所谓的落空。\n啊，也会有这样的时候的。
+slot_open_event_14	哎呀，好厉害呀！\n这样一次可以使用的\n贴纸就达到３张了！\x0e\0\x04\0而且转齐的是金币图案，\n那么会得到金币的奖励！\x0e\0\x04\0就这么做吧，今后也要\n好好使用战斗摇奖呀。
+slot_open_event_15	战斗中只要支付金币\n随时都可以使用战斗摇奖的。\x0e\0\x04\0追加支付大量金币的话，\n就会更容易地转齐图案，\n所以好好使用呀。
+slot_open_event_16	哎呀，好厉害呀！\n这样一次可以使用的\n贴纸就达到３张了。\x0e\0\x04\0顺便讲一下，\n当转齐的是蘑菇图案的时候，\n就会有回复HP的优惠！\x0e\0\x04\0就这么做下去，今后也要\n好好使用战斗摇奖呀。
+slot_open_event_17	哎呀，好厉害呀！\n转齐的是花的图案啊。\n这次中了大奖噢！\x0e\0\x04\0不仅一次就可以使用\n３张贴纸，\n而且火球也会飞出去。\x0e\0\x04\0就这么做下去，今后也要\n好好使用战斗摇奖呀。
+slot_open_event_18	哎呀，好厉害呀！\n转齐的是力量块的图案啊。\n这次中了大奖噢！\x0e\0\x04\0不仅一次就可以使用\n３张贴纸，\n而且还会给对方带来伤害。\x0e\0\x04\0就这样做下去，今后也要\n好好使用战斗摇奖呀。
+slot_open_event_19	非常棒！太厉害了！\n转齐的是闪电的图案啊。\n这次中了巨奖噢！\x0e\0\x04\0不仅一次就可以使用\n３张贴纸，\n而且还会给对方带来伤害。\x0e\0\x04\0就这样做下去，今后也要\n好好使用战斗摇奖呀。
+signboard_1_3_0	花圃　在这边→
+stg1_3.msbt
+kinopio_butsukaru_01	{d}{s[150]}救命～！{s[100]}{/d}
+kinopio_butsukaru_03	啊，马力欧先生！\n我正被难缠的人追着呢！
+kameck_appear_01b	……咦，\n怎么感觉好像不久前　\n也有过和这类似的场景呢。
+kameck_butsukari_04	我没有做要让人追的坏事情呀！\x0e\0\x04\0只是在散步途中\n捡到了有点稀有的东西而已！\x0e\0\x04\0但是也不知道它的用途，\n这个就请马力欧先生收下吧！\n拜托了！
+kinopio_butsukaru_after_00	我身上已经没有什么\n稀有的东西了噢！
+kinopio_butsukaru_after_03	我们总是要么慌慌张张，\n要么不知所措。\n给你添麻烦了。
+kinopio_butsukaru_after_04	啊，马力欧先生。\x0e\0\x04\0那么说来，在散步的时候，\n看到流星往水畔瀑布的方向滑落了。\x0e\0\x04\0就像贴纸彗星一样\n闪耀着光芒。
+kinopio_butsukaru_after_05	看到流星\n往水畔瀑布的方向滑落了。\x0e\0\x04\0就像贴纸彗星一样\n闪耀着光芒。
+kameck_appear_03	嗯嗯嗯……奇诺比奥小子，\n去哪儿了呀！？
+kameck_appear_04	那家伙，不反抗，干干脆脆地\n让我看看就好了，却藏在了\n怀里，实在是有点可疑。\x0e\0\x04\0肯定是跟贴纸有关的稀奇之物。\n抢回来之后一定要\n向酷霸王大人汇报！
+kameck_appear_05	哎哟，还在想是谁呢，\n这不是马力欧嘛。\x0e\0\x04\0酷酷酷……原来如此，\n由于贴纸嘉年华的骚乱，\n你也出马了是吧。\x0e\0\x04\0说起马力欧，\n那是酷霸王大人永远的敌人。\n那也就是说，是我的敌人。\x0e\0\x04\0难得碰上面，\n马上就说这么冒昧的话\n是有点残忍……\x0e\0\x04\0我会尽快把你打倒的！\n你做好心理准备吧！
+kamk_escape	成为逃兵实在是太遗憾了。\n随时愿意与你交手。\n咔咔咔！
+kameck_appear_05a	还来呀？\n真了不起，那种单薄的意志。\x0e\0\x04\0算了，做多少次都是一样的。\n那，开战吧！
+kamk_battlefnish_evvent10	嗯嗯嗯……\n正如传闻，还挺有两下子呀。\n我竟然会输掉。\x0e\0\x04\0啊——啊，\n这次弄得非常不愉快，因此……
+kamk_battlefnish_evvent10a	{d}看招！{/d}
+kamk_battlefnish_evvent13	酷酷酷……\n是不是正在收集这种碎片呀？\x0e\0\x04\0那就好好接住吧！
+kamk_battlefnish_evvent14	哎呀哎呀，\n往哪儿飞去了！？\x0e\0\x04\0你怎么不好好接住呀，\n那样是不行的。\n咔咔咔咔！\x0e\0\x04\0那就加油吧～！
+kamk_battlefnish_evvent05	这算什么事呀！\n那么贵重的彗星碎片\n竟然被当成了玩具！\x0e\0\x04\0那骑着扫把的眼镜男，\n到底是什么东西呀！？\n真是讨厌极了！\x0e\0\x04\0而且那家伙，\n竟然会使用纸片变变变！\n需要注意呀。\x0e\0\x04\0不管怎样还是先要\n找到那个彗星碎片。\n好，走吧！
+kamk_battlefnish_page_lucie	啊！\n那个，是收集册的页面！\n讨厌，是在哪里丢的呀。\x0e\0\x04\0收集册的页面增加的话，\n可以持有的贴纸也会\n相应地增加噢。运气真好！
+signboard_1_2_0	请注意从隐蔽处蹿出来的东东
+signboard_1_2_2	－　水畔瀑布　－
+stg1_4.msbt
+join_kinopio_1st_00	马力欧先生！\x0e\0\x04\0是听到了我的哭泣声\n过来救我的吧！\n看来大声哭泣还挺管用的。\x0e\0\x04\0边走边思考问题，\n结果就走到这种地方了，\n发现周围全是敌人。\x0e\0\x04\0一个人是怎么也回不去了，\n所以正在用哭声来表达\n我内心的寂寞。\x0e\0\x04\0我只是在后面跟着，\n不会妨碍你的，\n所以请把我带回小镇吧！
+away_kinopio_fance_00	等等，马力欧先生！\n从这种地方跳下去\n我的脚会疼的！\x0e\0\x04\0我会在这里等，\n请再过来接我呀！
+away_kinopio_enemy_00	哇，是敌人！\n好害怕呀！
+join_kinopio_2nd_fence_00	太好了！\n还没把我抛弃呀。\x0e\0\x04\0对不起，\n我可不像马力欧先生那样\n腿脚利落。\x0e\0\x04\0让我再一次跟着你，\n请把我带回小镇吧！
+join_kinopio_2nd_enemy_00	太好了！\n还没把我抛弃呀。\x0e\0\x04\0对不起，\n我可不像马力欧先生那样\n英勇善战……\x0e\0\x04\0如果可以，先帮我打倒\n那些可怕的家伙吧，\n那就帮了我大忙了！\x0e\0\x04\0让我再一次跟着你，\n请把我带回小镇吧！
+join_kinopio_please_town_00	太好了，回到地面上了！\n不愧是马力欧先生，\n很会让人跟着呢！\x0e\0\x04\0就这样把我带回小镇吧。\n只差一点了！
+dekamet_battle_00	嗯——，即使攻击了也会被弹回来。\n如果是翻过来的时候攻击，\n会怎么样呢？
+dekamet_battle_01	嗯——，即使攻击了也会被弹回来。\n如果是翻过来的时候攻击，\n会怎么样呢？\x0e\0\x04\0但是马上就会回到原来的状态，\n所以得使用２张以上的\n贴纸连续攻击。\x0e\0\x04\0瞧，按照我教你的那个技巧\n使用２张贴纸连续攻击吧！
+dont_open_the_windmill	这是什么！\n这门被叶片挡着，打不开呀。\n真是糟透了的错误设计。
+windmill_00	－风车小屋－\n风力强的日子\n请注意叶片
+stg1_5.msbt
+kumoue_shop_kino_01	非常感谢您救了我！\x0e\0\x04\0酷霸王竟然都\n到这种山上来搞破坏了！\n吓了一跳噢！\x0e\0\x04\0我是前面的贴纸商店\n咚啪啦山分店的店员。\x0e\0\x04\0店马上就会开张了噢。\n请一定要来光顾！
+stg1_6.msbt
+fort_watch_01	哎呀，\n作为栗子小子的堡垒\n会不会太过气派啊？
+fort_watch_02	嗯，\n从这堡垒感觉到了\n皇家贴纸的力量。\x0e\0\x04\0就像酷霸王变得怪怪的一样，\n这里也有可能受皇家贴纸的\n影响变得怪怪的。\x0e\0\x04\0小心点吧，马力欧。
+parabomb_event00	那人是马力欧！\n为什么到这个栗子小子堡垒来？\x0e\0\x04\0……那一定是来抢由酷霸王大人\n托管的重要的“那个”！
+parabomb_event01	这些浑球，\n现在可不是睡觉的时候！\n起来——！
+parabomb_event02	瞄准～……\x0e\0\x04\0射击——！
+boss_kuri16_appear_01	刺刺刺……\n刺呀刺呀……刺亮刺亮……
+boss_kuri16_appear_01_2	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮——！{s[100]}{/d}\x0f\x04\x03
+boss_kuri16_appear_02	刺刺刺！\n远道而来呀，马力欧。\x0e\0\x04\0但是，你这家伙就要在这里　\n变成五彩纸屑，纷纷洒落了！\n活该！刺亮刺亮！
+boss_kuri16_appear_03	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}哎呀呀——！{s[100]}{/d}\x0f\x04\x03
+boss_kuri16_appear_04	看呀，马力欧，\n他头顶上的贴纸！\n是皇家贴纸！\x0e\0\x04\0哎，你！\n把我的重要贴纸还给我！
+boss_kuri16_appear_06	好吵呀，\n闪耀小姐。\x0e\0\x04\0这张贴纸是酷霸王大人\n赏赐给俺们的非常厉害的贴纸！\x0e\0\x04\0因为这张贴纸的力量，\n俺们大家的情绪\n也变得相当高涨了！
+boss_kuri16_appear_07	刺刺刺……\n虽说是马力欧，\n面对这个张数，能赢吗？
+boss_kuri16_btl_00_01	刺亮！刺亮！\x0e\0\x04\0啊～厉害吧，这力量——！\n简直是刺眼亮眼加上刺亮刺亮！
+boss_kuri16_btl_02_01	哎，浑球，\n马上就来真的了！
+boss_kuri16_btl_02_02	怎么样！\n分散开的１６张\n合成一体后，简直是天下无敌！\x0e\0\x04\0尽管使用箭呀，\n枪炮呀，剪刀吧！\x0e\0\x04\0怎么了，\n是不是被胆怯的风吹到了呀？\n放马过来吧，刺亮刺亮——！
+boss_kuri16_btl_03_01	刺刺刺……\n浑球，起来！
+boss_kuri16_btl_03_02	分散开的１６张重新\n合成一体后就……
+boss_kuri16_btl_03_03	不是不是……刺亮刺亮的大哥，\n俺们还是想变回一张普通的纸。
+boss_kuri16_btl_03_04	俺也是……\n因为那厉害的贴纸的力量，\n身体啊，心啊，都被折掉了……\x0e\0\x04\0先告辞了！
+boss_kuri16_btl_03_05	刺刺刺……\n单薄又薄情的东西……
+boss_kuri16_btl_03_06	{d}……………………………………{/d}
+boss_kuri16_btl_03_07	这、这样的话\n俺就用这１张来对付你！\n刺亮——
+boss_kuri16_btl_04_01	哎哟！对如今刺亮刺亮\n又硬硬邦邦的俺们，\n那样的是不管用的！
+boss_kuri16_btl_05_01	刺刺刺……\n哎，你们这些家伙，\n已经被分散开了呀！
+boss_kuri16_btl_after_01	啊……啊……\x0e\0\x04\0那个刺亮刺亮的力量，\n就如同梦境一般……\x0e\0\x04\0也就是到这里呀……\n刺……亮……
+boss_kuri16_btl_after_02	这张皇家贴纸……\n就因为被贴了“这个”，\n栗子小子才得到那种力量的。\x0e\0\x04\0是偶然粘上的呢，\n还是被谁贴上去的呢……
+boss_kuri16_btl_after_03	总之！\n正如你所见，皇家贴纸\n蕴藏着非常危险的力量！\x0e\0\x04\0其他的贴纸也被谁贴上的话，\n又会变成刺亮刺亮的，真头疼！\n就不只是刺眼亮眼大骚乱了！
+boss_kuri16_btl_after_04	……哎呀，不行。\n我太兴奋了，\n结果刺亮刺亮的了。
+boss_kuri16_btl_after_05	那么，\n把夺回来的皇家贴纸\n放回收集册吧。
+boss_kuri16_btl_retry_hint_0	看呀，马力欧！\n硬硬邦邦开始变得松松散散了！\n现在就是好机会呀？\x0e\0\x04\0在这个节骨眼上最好是一口气\n把他吹散掉或者剪碎掉……
+boss_kuri16_btl_retry_hint_1	……但是非常遗憾，\n我没有那种很有力量的贴纸。\x0e\0\x04\0马力欧，\n不能用你的贴纸搞定吗？
+stg2_1.msbt
+6seardoor_miss_A_01	嗨，马力欧，\n这两幅画看起来都像蘑菇，\x0e\0\x04\0但为什么只有蘑菇\n有两幅画呢？
+6seardoor_miss_A_02	为什么只有蘑菇\n有两幅画呢？
+6seardoor_miss_B_01	嗨嗨，马力欧，\n仔细比较一下这两个蘑菇。\x0e\0\x04\0总觉得那脸看起来\n有点微妙的不同，不是吗？\n这个看起来似乎坏一些……\x0e\0\x04\0是心理作用吗？\n还是，真的有坏蘑菇啊。
+6seardoor_miss_B_02	总觉得那脸看起来\n有点微妙的不同，不是吗？\n这个看起来似乎坏一些……\x0e\0\x04\0是心理作用吗？\n还是，真的有坏蘑菇啊。
+6seardoor_miss_C_01	非常大，而且重……\n是门吗？
+kino_vs_kuri_w2_05	哎呀呀——？\n是马力欧来了！\x0e\0\x04\0你说要救这个奇诺比奥？\n真是个好人呀——\n难怪有人气喽。\x0e\0\x04\0不过，我们要５张联合\n一起上的哟！无意义的战斗\n还是避免比较好啊。\x0e\0\x04\0现在的话，\n花２５金币就放过他噢。\n怎么样？\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0k\0i\0n\0o\0_\0v\0s\0_\0k\0u\0r\0i\0_\0w\02\0_\00\08\0
+kino_vs_kuri_w2_07	马力欧又来了！\x0e\0\x04\0还是那句老话，\n花２５金币就放过他噢。\n怎么样？\x0e\x03\0.\0\0\xff\xff\0\0d\0$\0k\0i\0n\0o\0_\0v\0s\0_\0k\0u\0r\0i\0_\0w\02\0_\00\08\0
+kino_vs_kuri_w2_08	支付！\n战斗！
+kino_vs_kuri_w2_09	真不愧是人气明星——！
+kino_vs_kuri_w2_10	大家真是太棒了！\n每人５金币！\n去喝点冰爽的饮料吧！
+kino_vs_kuri_w2_11	{d}耶～！{/d}
+kino_vs_kuri_w2_12	哇塞，逃掉了！\n人气明星居然这么差劲～！
+kino_vs_kuri_w2_13	金币不够啊！\n耍俺啊？\n俺要发火啦！\x0e\0\x04\0{d}干掉你——！{/d}
+kino_vs_kuri_w2_14	{d}噢噢——{/d}
+kino_vs_kuri_w2_15	果然是胆量很大啊！\x0e\0\x04\0{d}干掉你——！{/d}
+kino_vs_kuri_w2_16	觉得俺们只不过是\n长着翅膀的栗子小子吧？\x0e\0\x04\0好吧，大家让他见识见识，\n俺们真正的样子！
+kino_vs_kuri_w2_17	这个怎么样？\n可不仅仅只是５张！
+kino_vs_kuri_w2_18	竟然被打败了！\n俺们很差劲啊——！
+kino_vs_kuri_w2_19	得救了，马力欧先生！\n我是之前也被您救过的\n奇诺比奥。
+kino_vs_kuri_w2_20	对金字塔和斯芬克斯万分憧憬，\n终于来到了这里，\x0e\0\x04\0但却被困在了这样的\n沙漠入口，没法前进，\n我是没有办法了。\x0e\0\x04\0这个是为了以防万一\n而随身带着的，\n就给马力欧先生吧。
+kino_vs_kuri_w2_22	说起来，这附近回荡着\n奇怪的音乐，好吵啊。\n沙子钻进鞋子里真令人郁闷，\x0e\0\x04\0沙漠不适合我。\n我想在更安静的地方\n悠闲地度过。\x0e\0\x04\0再见了，马力欧先生。
+kino_explore_saboten	这个仙人掌不是条纹的……\x0e\0\x04\0没法发现石板的秘密……
+stg2_2.msbt
+form_pata_01	……目标…………\n…………发现……
+form_pata_02	这里是１号机。\n发现目标，报告完毕。
+form_pata_02_2	这里是２号机。\n目标感觉很强，报告完毕。
+form_pata_02_3	这里是３号机。\n不要紧张嘛，报告完毕。
+form_pata_02_4	{d}攻击——！{/d}
+form_pata_02_5	立即攻击目标，\n报告完毕。
+form_pata_02_6	请先攻击，报告完毕。
+form_pata_05	目标逃脱，报告完毕。
+form_pata_06	目标瑟瑟发抖，报告完毕！
+form_pata_07	目标又来了，报告完毕。
+form_pata_08	{d}攻击——！{/d}
+form_pata_09	被打败了，报告完毕——！
+kamk_battle_w2_16	难得在这么棒的地方战斗，\n那么士气再高涨些吧。
+kamk_battle_w2_16_01	所有的贴纸\n都变成沙滩鞋贴纸！\x0e\x01\x01\0
+kamk_battle_w2_17	等等！\n你刚才做了什么！
+kamk_battle_w2_18	酷酷酷……\n看起来相当强的贴纸噢。\n啊啊，好恐怖啊。\x0e\0\x04\0说不定我这回真的会输掉呢。\n咔咔咔！
+kamk_battle_w2_19	那么，再来一次吧。
+kamk_battle_w2_20_01	如果卡美克浮得很高，沙滩鞋\n就够不到了。但话说回来，\n为什么是沙滩鞋啊！\x0e\0\x04\0马力欧，要顶住攻击噢！\n加油！
+kamk_battle_w2_21	你是赢不了我的，明白吗？\n滚滚滚，回老家去！
+kamk_battle_w2_22	　沙滩鞋的魔法破解了。
+kamk_battle_w2_24	明知道赢不了我还要来，\n看来真的很喜欢被揍啊。\x0e\0\x04\0让你如愿以偿吧！
+kamk_battle_w2_25	酷酷酷……真不愧是马力欧，\n你这种不被我的魔法迷惑而战斗到\n最后的勇气，令我刮目相看啊。\x0e\0\x04\0还有，那里的智贴贴\n将贴纸的力量给予你的这件事，\n我也很清楚了。\x0e\0\x04\0酷酷酷……事情变得有意思了呢。\n期待着下次的胜负噢。\n那么，下次再见吧。
+kamk_battle_w2_26	怎么回事，那家伙，\n说得好像早就知道似的，\n到底知不知道什么是贴纸的力量！\x0e\0\x04\0反正，也就是死不认输罢了。\n一定是的。
+kameck_bero_00	吼吼吼……竟然到达了\n如此高远的舌尖，\n真不愧是马力欧，了不起！
+kameck_bero_01	在舌尖上凭着\n三寸不烂之舌净说些漂亮话！\x0e\0\x04\0反正，又是怀着\n什么诡计来这里的吧？
+kameck_bero_02	哦不！竟然说是诡计，\n真是很过分的说法。\x0e\0\x04\0依我们看，你们才是\n来这里捣乱的恶棍。\x0e\0\x04\0……对了，你是智贴贴吧？\x0e\0\x04\0看那闪耀的样子，\n难道是从贴纸星来的？\x0e\0\x04\0酷酷酷……\n原来如此，真有意思。\x0e\0\x04\0好了，那么就和\n那单薄的马力欧一起\n在这里被打得薄薄的吧！
+stg2_3.msbt
+stg2_4.msbt
+oasis_secret_info	{d}干旱沙漠　流淌沙子的　山丘{/d}\n{d}展示　跳入　两个　双色条纹{/d}\n{d}仙人掌的　缝隙间的　勇气{/d}
+oasis_secret_info_before_01	{d}～旱～漠　～淌沙～的　山～{/d}\n{d}展～　～入　两～　双～条～{/d}\n{d}～人～的　缝～间～　勇～{/d}
+oasis_secret_info_before_01_2	{d}干～沙～　流～～子～　～丘{/d}\n{d}～示　跳～　～个　～色～纹{/d}\n{d}仙～掌～　～隙～的　～气{/d}
+oasis_secret_info_before_02	　眼睛里进了沙子，\n　无法好好查看。
+oasis_kino_01	马、马力欧先生……\n能听我讲吗……\x0e\0\x04\0这里在过去是曾被称为\n绿洲的地方……\x0e\0\x04\0水泽丰沛……草木滋长……\n是缓解疲劳，\n给人舒适感觉的地方……\x0e\0\x04\0但是如今，这一切都荡然无存了。\n水也干涸了……草木也干枯了……\n这也是因为酷霸王吗……\x0e\0\x04\0啊啊……过去的富饶绿洲……\n好想回到水缸也满满的\n那个时候……
+oasis_kino_01_2	水也干涸了……草木也干枯了……\n这也是因为酷霸王吗……\x0e\0\x04\0啊啊……过去的富饶绿洲……\n好想回到水缸也满满的\n那个时候……
+oasis_kino_02	啊，您好——\x0e\0\x04\0非常感谢您\n帮我们把绿洲恢复原——貌。\x0e\0\x04\0果然沙漠里还是有水最好呀——\n好久没有这样舒服——了呢。\x0e\0\x04\0啊，因为急着换衣服，\n那附近有些杂乱，\n不过还是请慢慢逛——
+oasis_kino_03	啊——，怎么了？\n还不舒服吗——\x0e\0\x04\0因为急着换衣服，\n那附近有些杂乱，\n不过还是请慢慢逛——
+oasis_kino_04	你说的是衣柜的宝箱吧——？\n舒服了吗？\n好——吧，给你啦——\x0e\0\x04\0把被沙尘暴吹飞的东西\n捡了回来，但还没弄明白\n是怎么回事——\x0e\0\x04\0我已经舒服了，\n所以可——以啦，\n非常感——谢。
+oasis_kino_05	好舒服——啊，\n非常感——谢。
+oasis_doorlocking	啊呀，门关着。
+oasis_explore_kino_0	被隐藏起来的绿洲的传说\n到底是真的吗？\x0e\0\x04\0话说，好厉害的沙尘暴，\n这个也是因为受到\n那龙卷风的影响吧。
+oasis_explore_kino_1	发现绿洲之事\n被马力欧先生先行一步了。\x0e\0\x04\0但是我目前在\n对这个石板的解读方面\n获得了新的成功。\x0e\0\x04\0这次先发现秘密的\n一定是我！
+stg2_5.msbt
+tower_appear_before	好大一块被揭下来的痕迹啊。\n那意味着在什么地方一定有一块\n能和这个痕迹吻合的大块纸片吧。
+tower_appear_after	真厉害！\n这里竟然耸立着\n如此气派的塔啊！\x0e\0\x04\0那个居然被揭下来了……\n毫无疑问是使用了\n皇家贴纸的强大力量啊。\x0e\0\x04\0那么，马力欧，\n准备好了吧？\n这座塔中一定有秘密噢。
+boss_sanbo_appear_01	那、那个！\n不是皇家贴纸吗！？
+boss_sanbo_appear_02	{d}{s[075]}刺刺刺……{s[100]}{/d}
+boss_sanbo_appear_03	刺刺刺刺刺……
+boss_sanbo_appear_04	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮刺亮——！{s[100]}{/d}\x0f\x04\x03
+boss_sanbo_appear_05	刺刺刺……！刺亮！刺亮！
+boss_sanbo_appear_06	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮——！{s[100]}{/d}\x0f\x04\x03
+boss_sanbo_after_01	{d}　刺……刺亮刺……亮？{/d}
+boss_sanbo_after_02	皇家贴纸把刺球都\n变成了那种样子噢。\n好强大的力量啊。\x0e\0\x04\0事不宜迟，\n去拿那张皇家贴纸吧。
+boss_sanbo_retry_hint_0	啊——！身体个数也好，\n体力也好，都有很多。\n这样下去的话，不会有任何进展！ 
+boss_sanbo_retry_hint_1	我说，没带能把它\n一下子击飞的贴纸吗！？
+stg3_1.msbt
+hana_wakeup_09	这个森林里\n如果有酷霸王同伙在的话，\n那皇家贴纸可能也在这里噢。\x0e\0\x04\0花之子好像对这个森林很熟悉，\n所以多多请教他吧。
+hana_wakeup_10	马马马马力欧！\n刚才的你看到了吧！？\n花之子消失了啊！
+hana_wakeup_10_2	哎呀，没想到你竟然这么冷静。\x0e\0\x04\0\x0e\x04\x02\0但也有可能因为太好玩了，\n先飞跑回去了。\x0e\0\x04\0\x0e\x04\x02\0虽然不太清楚\n花之子的家在哪里，\n但肯定是住在森林里……\x0e\0\x04\0好，前进吧！
+hana_saraware	嗨——我在这里！\x0e\0\x04\0\x0e\x04\x02\0花之子总是独自一人，\n所以非常高兴\n能有朋友到家里来玩！\x0e\0\x04\0对了对了，从这里开始，因为\n毒的缘故，即使是白天也是很\n黑暗的，所以需要注意脚下噢。\x0e\0\x04\0\x0e\x04\x02\0希望到了家以后，\n一起看看花之子的图画日记，\n听听我讲述的回忆。\x0e\x01\x01\0
+hana_saraware_01	\x0e\x04\x03\x04\0\0\0\0{s[150]}{d}　花之子\x0e\x04\x04\x04\x05\0\0\0呀——！？{/d}{s[100]}\x0f\x04\x03
+boome_bro_21	{d}飞旋镖！\x0e\x04\x01\0\x0e\x04\x02\0{/d}\n{d}兄弟！{/d}
+boome_bro_21_2	两个人加起来就是飞旋镖兄弟！
+boome_bro_21_3	别说俩人一起是卑鄙的。\x0e\0\x04\0俺们也是拼了命的！
+boome_bro_22	你这家伙肯定会回来的！\x0e\0\x04\0对，像飞旋镖一样！
+boome_bro_23	你这家伙果然还是回来啦！\x0e\0\x04\0对，像飞旋镖一样！
+boome_bro_24	两个人加起来就是飞旋镖兄弟！\x0e\0\x04\0被打败的时候也是俩人一起！
+hana_mezame_00	耶～早上好！\n真是个心情愉快的早晨。\x0e\0\x04\0睡得很好，\n所以花之子的心情超棒。\n今天似乎有好事情。
+hana_mezame_01	哎，你，是叫花之子吧？\n想睡的话，为什么不在家睡呢？
+hana_mezame_02	咦，真的呀。\n花之子为什么睡在这种地方？\x0e\0\x04\0……哦！\n好久没有吃叶子吃得这么饱了，\n所以吃饱后就很想睡觉。
+hana_mezame_03	其实，最近这森林变得\n遍地都是毒……\x0e\0\x04\0花之子最爱吃的美味叶子\n也被毒污染吃不了……\x0e\0\x04\0所以就到森林的入口\n来寻找没被污染的叶子。
+hana_mezame_04	全都是毒！？\n这也是酷霸王的所为？\n不赶紧想办法可不行！
+hana_mezame_05	咦，你能帮我解决吗！？因为\n花之子正是能吃的时候，所以\n如果毒消失，我就会很开心的！\x0e\0\x04\0那么带你们到花之子的家，\n一起商量吧。
+hana_mezame_06	出发——！
+hana_neteru_00	啊，这孩子是怎么回事呀？\n在这种地方睡觉，\n我们就过不去了嘛。
+hana_neteru_01	嗨，你，\n能不能让一下？
+hana_neteru_02	{d}别太过～分……{/d}
+hana_neteru_03	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}快起来～啦！！{s[100]}{/d}\x0f\x04\x03
+hana_neteru_04	嗯，这孩子很棘手呀。\n我这细柔的声音\n好像完全不起作用。
+hana_neteru_05	我这细柔的声音好像不行。\n能不能快点起来呀。
+stg3_10.msbt
+quiz_show_B1_00	准备中……\n请您稍等……
+quiz_show_B1_01	哎呀，怎么一片漆黑。\n看看哪里有灯呀。
+quiz_show_B1_02	{s[150]}\x0e\x04\x03\x04\0\0\0\0{d}女士们！{/d}\x0f\x04\x03\n\x0e\x04\x03\x04\0\0\0\0{d}先生们！{/d}\x0f\x04\x03{s[100]}
+quiz_show_B1_03	大家久等了。\n好，愉快的时光就要开始了。\n口号是……
+quiz_show_B1_04	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B1_04_01	\x0e\x04\x03\x04\0\0\0\0\x0f\x04\x03{s[100]}\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0{s[100]}\x0e\x01\x01\0
+quiz_show_B1_06	这周也如期举行。\n“木乔 de 木乔”！\n……我是主持人木乔。\x0e\x04\x02\0
+quiz_show_B1_07	每次让特邀嘉宾挑战３个\n很棒游戏的３０分钟的节目。
+quiz_show_B1_08	今天的嘉宾是\n我们都痛恨的马力欧先生！\x0e\x04\x02\0
+quiz_show_B1_09	还有，所有游戏都通过就可以\n得到的很棒的奖品——这就是！
+quiz_show_B1_09_01	{d}　花、花之子呀！？{/d}
+quiz_show_B1_10	那，挑战者马力欧先生\n做好身体和心理上的准备了吗？
+quiz_show_B1_11	马力欧……怎么样？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0q\0u\0i\0z\0_\0s\0h\0o\0w\0_\0B\01\0_\01\02\0
+quiz_show_B1_12	挑战游戏\n想回去
+quiz_show_B1_13	一旦挑战开始，\n就不能保证你能活到最后。\n那样也要挑战吗？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0q\0u\0i\0z\0_\0s\0h\0o\0w\0_\0B\01\0_\01\04\0
+quiz_show_B1_14	挑战\n还是放弃
+quiz_show_B1_15	哇哦！没劲了——！\n好吧。那就请回吧！
+quiz_show_B1_16	太棒了！回答得好。\n那就马上开始吧……\n最初的游戏是这个！
+quiz_show_B1_17	{d}{s[150]}好紧张呀！２选１——！{s[100]}{/d}
+quiz_show_B1_18	现在开始出题了。\n马力欧先生请敲\n○或者\xd7砖块来回答。\x0e\0\x04\0开始的同时会喷出毒气。\n不加紧答题的话，\n体力就会消耗掉，请注意！\x0e\0\x04\0好了，开始吧……
+quiz_show_B1_24_02	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B1_24_03	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_B1_40	不愧是这些年来一直\n折磨酷霸王大人的男人，\n即使在毒气中也这么冷静——！\x0e\0\x04\0第１关很漂亮地通过了！\n那就带你进入下一关。
+quiz_show_B2_01	好了，这是第２关。\n接下来要挑战的\n游戏是这个！
+quiz_show_B2_02	{s[150]}{d}卜库卜库！{/d}\n{d}敲打木乔游戏——！{/d}{s[100]}
+quiz_show_B2_03	木乔会从地面的洞里　\n把头伸出来。
+quiz_show_B2_04	在缩回去之前请按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0b\0\x18\0\x06\0 \0 \0，\n用锤子迅速地敲打。\n敲打２０次就可以通过。
+quiz_show_B2_05	当然，这次也要在\n有毒气喷出的情况下进行挑战。\n那就开始吧。
+quiz_show_B2_05_02	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B2_05_03	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_B2_07	相当不错呀。\n不愧是蘑菇王国的守护神。\n锤子用得得心应手。
+quiz_show_B2_08	虽然好像花了点时间……\n但是总算通过了呀。\n真不爽！
+quiz_show_B2_09	第２关也很漂亮地通过了！\n恭喜！\x0e\0\x04\0那么，带你进入下一关～！
+quiz_show_B3_01	接下来，令人愉快的\n“木乔 de 木乔”，\n终于要进入最后一关了。\x0e\0\x04\0{d}最后的挑战是这个！{/d}
+quiz_show_B3_02	{s[150]}{d}忐忐忑忑！{/d}\n{d}猜猜猜游戏——！{/d}{s[100]}
+quiz_show_B3_03	这３个箱子当中\n只有１个是正确的。
+quiz_show_B3_04	剩下的是错误的。
+quiz_show_B3_05	箱子会被重排。\x0e\0\x04\0重排之后\n请选择喜欢的箱子。
+quiz_show_B3_07	３次敲中正确的\n箱子就可以通过了！\x0e\0\x04\0如果敲中错误的箱子，\n那等着你的是与木乔的\n有趣战斗。
+quiz_show_B3_7_01	可以吗？\n那么喊口号的\n同时就开始了。
+quiz_show_B3_7_02	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B3_7_03	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_B3_08	是那个箱子吗？\n那么就打开看看吧。
+quiz_show_B3_10	啊，这种速度的话，\n被识破是理所当然的。\x0e\0\x04\0还有２次，\n猜中的话就可以通过了。\n那么请继续挑战吧。
+quiz_show_B3_11	{d}{s[150]}重排开始——！{s[100]}{/d}
+quiz_show_B3_11_01	那么，请敲喜欢的箱子吧！
+quiz_show_B3_13	太漂亮了。\n但是，这种好状态也就\n到此为止啦。\x0e\0\x04\0哇哦！从现在开始　\n箱子会再增加一个。\x0e\0\x04\0再猜中１次就可以通过了。\n那么请挑战吧！
+quiz_show_B3_15	{s[100]}非常漂亮，全游戏通过——！\n祝贺你——！{s[100]}
+quiz_show_B3_16	马力欧先生，\n虽不是我的真心话，\n但还是要说一声恭喜。\x0e\0\x04\0这是说好的奖品。\n请收下！
+quiz_show_B3_18	非常遗憾，“木乔 de 木乔”\n又到了说再见的时候了。\x0e\0\x04\0这次与您相伴的是我\n——主持人木乔和\n嘉宾马力欧先生。
+quiz_show_B3_19	下次在什么地方再相会吧。\n那么，最后还是用那个口号！
+quiz_show_B3_19_01	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B3_19_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_B3_20	真可惜！猜错了！\n那么，再挑战一次吧。\x0e\0\x04\0{d}{s[150]}重排开始——！{s[100]}{/d}
+quiz_show_B4_01	哎呀——　\n马力欧先生，辛苦了。
+quiz_show_B4_02	这种程度的挑战\n简直是小菜一碟啊。\x0e\0\x04\0为了那样的马力欧先生，\n特地准备了“特别关卡”。\x0e\0\x04\0通过特别关卡\n就可以得到豪华的奖品。
+quiz_show_B4_04	要挑战特别关卡吗？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0q\0u\0i\0z\0_\0s\0h\0o\0w\0_\0B\04\0_\00\05\0
+quiz_show_B4_05	挑战\n放弃
+quiz_show_B4_06	在犹豫不决呀。\n我会在这里\n一直等下去的。\x0e\0\x04\0身体和心理上准备好之后，\n就叫我吧。
+quiz_show_B4_07	这次真的是\n不能保证你能活下去。\n那样也OK？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0q\0u\0i\0z\0_\0s\0h\0o\0w\0_\0B\04\0_\00\08\0
+quiz_show_B4_08	OK！\n还是放弃
+quiz_show_B4_09	回答得好。\n那么就带你进入特别关卡～！
+quiz_show_B4_10	哎呀呀……不挑战吗？\n是个在寒冷的地方，有就安心，\n没有就很痛苦的豪华奖品噢！\x0e\0\x04\0我会一直在这里\n等马力欧先生来挑战。
+quiz_show_B5_01	欢迎来到特别关卡！\n我一直坚信，马力欧先生\n一定会来挑战的。\x0e\0\x04\0这次一定要在这个游戏里\n让你输得很惨很惨。\x0e\0\x04\0让你挑战的游戏是这个！
+quiz_show_B5_09	{s[150]}{d}快速抢答！{/d}\n{d}敲打木乔抢答题——！{/d}{s[100]}
+quiz_show_B5_10	现在开始由我出题。\n马力欧先生就用\n○或\xd7来答题……\x0e\0\x04\0如果没有敲中５个木乔，\n○\xb7\xd7砖块是不会出来的。
+quiz_show_B5_11	迅速敲打木乔来答题，３道题\n回答正确就可以通过了。\x0e\0\x04\0这个关卡依然会有毒气喷出来，\n所以请放心。\x0e\0\x04\0那么，特别关卡也还用\n我们的老口号来开始吧。\n大家一起……
+quiz_show_B5_11_00_01	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_B5_11_00_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_B5_11_00	{s[150]}{d}问题！{/d}{s[100]}
+quiz_show_B5_13_07	通过特别关卡——！\n很漂亮！恭喜！\n祝贺你！
+quiz_show_B5_31	真令人刮目相看。\n这样所有的\n挑战就都结束了。
+quiz_show_B5_39	大家给马力欧先生\n来个热烈的掌声！
+quiz_show_B5_33	会场的气氛非常热烈！\n非常感谢观看到最后，谢谢！\x0e\0\x04\0我是主持人木乔。\n那么大家在什么地方\n再相会吧！
+quiz_show_B5_34	一直都很酷——！\n感谢您的陪伴。\x0e\0\x04\0我是主持人木乔。\n那么大家在什么地方\n再相会吧！
+quiz_show_B5_35	稍等一下！那奖品呢？
+quiz_show_B5_36	当然要给你奖品啦。\n那么，请收下吧。
+quiz_show_B5_37	这个……用在什么地方的呀？
+quiz_show_after_01	{s[150]}{d}\x0e\x04\x03\x04\0\0\0\0女士们！\x0f\x04\x03{/d}\n{d}\x0e\x04\x03\x04\0\0\0\0先生们！\x0f\x04\x03{/d}{s[100]}
+quiz_show_after_02	大家久等了。\n好，愉快的时光就要开始了。\n口号是……
+quiz_show_after_03	{d}{s[150]}　木乔 de——？{s[100]}{/d}
+quiz_show_after_04	\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}木乔——！！{s[100]}{/d}\x0f\x04\x03\x0e\x04\x02\0\x0e\x01\x01\0
+quiz_show_after_05	好——，\n彩排OK——！
+quiz_show_after_06	接下来是拍手练习——！\n我说“好！”，\n就请鼓掌——！\x0e\0\x04\0那来一遍……
+quiz_show_after_07	\x0e\x04\x03\x04\0\0\0\0\x0f\x04\x03{s[150]}\x0e\x04\x03\x04\0\0\0\0{d}{s[150]}好！{s[150]}{/d}\x0f\x04\x03{s[100]}
+quiz_show_after_08	嗯～不错！\n正式开始的时候也要\n像现在这个状态，拜托了！
+quiz_show_after_09	哎呀？这不是马力欧先生嘛！\n又来这里啦……？\n好闲呀。\x0e\0\x04\0那么正式开始吧！
+quiz_show_quiz_01	\x0e\x04\x03\x04\0\0\0\0贴花小镇的贴纸商店。\n“蘑菇贴纸”的价格是\n“１５金币”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_02	\x0e\x04\x03\x04\0\0\0\0贴花小镇上被关进柜子里的\n奇诺比奥是“９人”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_03	\x0e\x04\x03\x04\0\0\0\0单刀直入！比起马力欧，\n酷霸王大人更酷！\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_04	\x0e\x04\x03\x04\0\0\0\0“战斗摇奖”中，转齐的如果是\n“毒蘑菇”图案，那全体敌人\n会变成“中毒”的状态。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_05	\x0e\x04\x03\x04\0\0\0\0跳贴纸买的时候是“３金币”。\n卖的时候价格是“２金币”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_06	\x0e\x04\x03\x04\0\0\0\0“喏库喏库”、“啪嗒啪嗒”\n和“朱盖木”。\n全部都可以在天空飞翔。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_07	\x0e\x04\x03\x04\0\0\0\0马力欧和智贴贴第一次碰面的时候，\n智贴贴是被贴在了“告示板”上。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_08	\x0e\x04\x03\x04\0\0\0\0使用“蘑菇贴纸”\n体力会回复。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_09	\x0e\x04\x03\x04\0\0\0\0我，木乔昨天的\n晚饭是“蘑菇排”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_10	\x0e\x04\x03\x04\0\0\0\0“卡美克”、“朱盖木”\n和“酷霸王Jr.大人”。\n全部都戴着眼镜。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_11	\x0e\x04\x03\x04\0\0\0\0能在天空飞翔的卡美克。\n他骑的是“扫把”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_12	\x0e\x04\x03\x04\0\0\0\0只能在这里说的秘密……\n其实桃花公主是“男”的。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_13	\x0e\x04\x03\x04\0\0\0\0主持人的名字是“木乔”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_14	\x0e\x04\x03\x04\0\0\0\0挥锤子时按的键是\x0e\x02\x02\x14\n\0m\0i\0c\0_\0y\0\x18\0\x06\0 \0 \0。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_15	\x0e\x04\x03\x04\0\0\0\0挥锤子时按的键是\x0e\x02\x02\x14\n\0m\0i\0c\0_\0b\0\x18\0\x06\0 \0 \0。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_16	\x0e\x04\x03\x04\0\0\0\0只能在这里说的秘密……\n酷霸王大人其实\n不喜欢桃花公主。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_17	\x0e\x04\x03\x04\0\0\0\0得到无敌星，\n暂时会变成“无敌”状态。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_18	\x0e\x04\x03\x04\0\0\0\0得到无敌星，\n暂时会变成“不敌”状态。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_19	\x0e\x04\x03\x04\0\0\0\0如果使用“钢铁跳贴纸”，\n还能踩有尖刺的敌人。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_20	\x0e\x04\x03\x04\0\0\0\0马力欧没有兄弟。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_21	\x0e\x04\x03\x04\0\0\0\0要使用“战斗摇奖”，\n需要的金币是“５枚”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_22	\x0e\x04\x03\x04\0\0\0\0使用“蘑菇贴纸”，\n马力欧的身体会变大。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_23	\x0e\x04\x03\x04\0\0\0\0现在，在观众席上的木乔\n有“３０人”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_24	\x0e\x04\x03\x04\0\0\0\0如果体力不足，\n就不能使用“纸片变变变”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_25	\x0e\x04\x03\x04\0\0\0\0“马力欧”、“奇诺比奥”和\n“喏库喏库”。全部都穿着鞋。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_26	\x0e\x04\x03\x04\0\0\0\0酷霸王Jr.大人的\n父亲是“酷霸王大人”，\n母亲是“桃花公主”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_27	\x0e\x04\x03\x04\0\0\0\0花之子的身体的\n数量有“４个”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_28	\x0e\x04\x03\x04\0\0\0\0“锤子贴纸”和“闪闪锤子贴纸”。\n攻击力强的是“锤子贴纸”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_29	\x0e\x04\x03\x04\0\0\0\0“跳贴纸”和“闪闪跳贴纸”。\n价格贵的是“闪闪跳贴纸”。\x0f\x04\x03\x0e\x01\x01\0
+quiz_show_quiz_30	\x0e\x04\x03\x04\0\0\0\0如果使用“钉刺帽贴纸”，\n还能踩有尖刺的敌人。\x0f\x04\x03\x0e\x01\x01\0
+stg3_11.msbt
+morimono_kino_00	啊，顾客？\n哇——真的是顾客。\x0e\0\x04\0这里是物品投掷店的\n岬分店。\x0e\0\x04\0嗯，顾客，\n您不是新手吧。\n那么就不用说明了吧。
+morimono_kino_01	欢迎光临，顾客。\n那，请您使劲\n把物品投掷过去吧。
+morimono_kino_02	啊，顾客，\n物品是不是用完了啊。\n原来如此，原来如此。\x0e\0\x04\0啊——太遗憾了。\n不能做那么有意思的事情了。\n哦不，太可惜了。\x0e\0\x04\0{s[075]}……{s[075]}……{s[075]}……到小镇{s[075]}{s[075]}上的\n物品投掷店的话，\n说不定有办法。{s[100]}
+morimono_kino_03	咦？\n贴纸收集册上好像没有空间了。\x0e\0\x04\0你把贴纸卖给那家商店什么的，\n请将贴纸减少之后再来吧。
+morimono_kino_04	把所有物品都投掷了吧。\n顾客您精力好充沛呀。\n您辛苦——了。
+hana_travel_3_11	花之子呀，冷静点。\n毒的问题，我们会想办法\n解决的，别担心噢。
+mori_ranger_00	本该早作自我介绍。\n我是深爱森林的奇诺比奥。\x0e\0\x04\0听说你对毒不屑一顾，\n正在帮助那些住在森林里的\n可怜的小家伙。\x0e\0\x04\0非常感谢。\n这是我替森林向你\n转达的感谢的话。\x0e\0\x04\0而且，如果我的有关森林的知识\n能给你的冒险带来帮助的话，\n那就没有比这个更高兴的事情了。\x0e\0\x04\0下次再来这里的时候，不论何时\n都请听我讲讲森林的事情吧。\n那是爱森林之人的义务。
+mori_ranger_01	以前环绕河的入口\n架着一座桥。\n但如今倒塌了。\x0e\0\x04\0曾经架着桥的地方\n什么都看不到……\n是的，看不到。只是看不到。
+mori_ranger_02	虽然从表面看不到什么，\n但是如果知道后面，\n就会发现有一条能打开的路。\x0e\0\x04\0树干小径里有条路，\n而且路的后面有一条叫\n捷径之路的后面的路。
+mori_ranger_03	深藏在迷途森林中的\n神秘的球形黑光。\x0e\0\x04\0通往圣地的名叫栅栏的结界，\n被悲哀的小家伙给破坏掉了。\x0e\0\x04\0来自补中启示录\n第十二章的引用。
+mori_ranger_04	不要畏惧毒。\n有时也是需要鼓起勇气\n试着勇敢跳下去的。\x0e\0\x04\0虽然对如此没有勇气的我来说，\n跳进没有毒的洞穴\n就已经是很了不起了。
+mori_ranger_05	我从这里\n看到了在那小岛上\n发生的一切。\x0e\0\x04\0没有被那奇怪的舞蹈所迷惑住，\n勇敢地迎刃而上，\n取回辉煌灿烂的贴纸。\x0e\0\x04\0而且还止住了毒！\x0e\0\x04\0非常感谢！非常感谢！\n这是我替森林向你\n转达的感谢的话。\x0e\0\x04\0之后就在这里静静地\n守护幼小家伙，看着他成长。
+mori_ranger_06	请看，那小岛。
+mori_ranger_07	现在，森林被从那岛\n流淌过来的毒所侵害，\n正处于被破坏的危险境地。\x0e\0\x04\0为什么会发生这样的事情呢……\n这个呢，不到那个岛\n去看看是不会知道的。\x0e\0\x04\0但是……\n只要看看那艘遇难的船，\n就知道那里是非常危险的地方。
+mori_ranger_08	马力欧，\n终于知道毒的原因了吧。\x0e\0\x04\0不到那个小岛去止住毒的话，\n森林是不会恢复原样的。
+mori_ranger_08_2	马力欧，\n毒确实是从那\n小岛流过来的。\x0e\0\x04\0不前往那里止住毒的话，\n森林是不会恢复原样的。
+mori_ranger_09	我听说你们拯救了森林。\x0e\0\x04\0非常感谢。\n这是我替森林向你\n转达的感谢的话。\x0e\0\x04\0而且为了我的有关森林的知识\n能在你的冒险中帮上忙，\n一直在这里等着你。\x0e\0\x04\0不过如今森林变得和平了，\n也没有必要了。\x0e\0\x04\0之后就在这里静静地\n守护幼小家伙，看着他成长。
+mori_ranger_10	之后就在这里静静地\n守护幼小家伙，看着他成长。
+mori_ranger_11	幼小家伙平安无事地长大了。\n一定也很想见到你们。
+stg3_12.msbt
+hana_Search04B_3_12_04	哎哟哎哟，花之子呀，\n全身都是毒，还想发飙啊？\x0e\0\x04\0卡美克魔法的效力\n相当难缠噢。\n完全就像他本人的性格。\x0e\0\x04\0而且连乌贼怪也\n趁着混乱跑进来了。\x0e\0\x04\0虽然感觉很麻烦，\n但是不管了，那就来吧！
+hana_wait01_03	花之子等好久了！\n快点到那个岛上去吧！\x0e\0\x04\0很快毒就会消失，\n还能吃到美味的叶子，\n花之子很开心！
+hana_wait01_15	真是急性子啊，花之子呀……
+hana_wait01_16	马力欧，\n不知道那个岛上还会有什么，\n所以切忌麻痹大意。\x0e\0\x04\0跟卡美克有关系就意味着\n肯定会发生不好的事。
+hana_wait01_04	花之子已经准备好了。\n要去毒岛吗？\x0e\x03\0&\0\0\xff\xff\0\0d\0\x1c\0h\0a\0n\0a\0_\0w\0a\0i\0t\00\01\0_\00\05\0
+hana_wait01_05	去！\n还不要
+hana_wait01_06	那，在这里等吧。
+hana_wait01_07	好的——\n那么坐到花之子身上吧。
+hana_wait01_08	那么走吧！
+hana_wait01_08_01	花之子，\n身体被分散开后，\n一开始觉得很伤心，\x0e\0\x04\0但是多亏了这个，\n才能在那么多的地方\n看到了那么多的东西。\x0e\0\x04\0而且，还竭尽全力地帮我找回\n逃走的大家——\n看到你们两位这样，\x0e\0\x04\0花之子觉得自己也要\n打起精神。
+hana_wait01_08_02	呵呵呵……花之子呀，\n学到很多东西了嘛。\x0e\0\x04\0说不定经过此次事件\n变得稍微成熟点了呢。
+hana_wait01_08_03	哇——成熟耶！\n要吃很多很多干净的叶子，\n长得更大！
+hana_wait01_08_04	没错，\n为此也要早点止住那个毒，\n恢复森林的原样！\x0e\0\x04\0啊，渐渐地可以看到岛了。
+hana_wait01_09	那么，花之子就在这里等着吧。\n马力欧先生，智贴贴小姐，\n剧毒就拜托你们了！
+hana_wait01_10	那，马力欧，走吧。\n找一下毒流出来的原因！
+hana_wait01_11	早去早回——！
+hana_wait02_01	要返回惊涛海岸吗？\x0e\x03\0&\0\0\xff\xff\0\0d\0\x1c\0h\0a\0n\0a\0_\0w\0a\0i\0t\00\02\0_\00\02\0
+hana_wait02_02	返回\n留下
+hana_wait02_03	是吗？\n那么，在此恭候。
+hana_wait02_04	好——！\n返回吧。
+boss_geso01_01	刺！
+boss_geso01_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮～～！{s[100]}{/d}\x0f\x04\x03
+boss_geso01_03	刺刺！
+boss_geso01_04	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮刺亮～～！{s[100]}{/d}\x0f\x04\x03
+boss_geso02_01	{d}刺刺刺！{/d}
+boss_geso_retry_hint_0	喀！\n因为毒看不见！\n看不见啊！\x0e\0\x04\0赶紧冲洗掉！\n没有什么好的贴纸吗？
+boss_geso_retry_hint_1	……嗯，可是在没有中毒前\n好歹要想个方法来防御呀。\x0e\0\x04\0因为毒是液体的，所以\n有能吸收的东西就好了。
+hana_poison_sea_01	花之子呀，\n怎么啦？
+hana_poison_sea_02	啊，马力欧，\n看那个，那小岛！\x0e\0\x04\0毒是不是从那里\n流出来的呀！？\x0e\0\x04\0可是，该怎么办呢？\n没有可以前去调查的办法。\n也不可能游着过毒海。
+hana_poison_sea_03	花之子呀……\n看着那个毒岛就很气愤。\x0e\0\x04\0但是很遗憾，\n没有可以前去调查的办法。\n也不可能游着过毒海。
+hana_poison_sea_05	啊！\n又走掉了！
+stg3_2345789.msbt
+maze_kinoA_02	马力欧先生，是不是\n迷路了呀？\x0e\0\x04\0因为我是个路盲，\n所以完全迷路了！\x0e\0\x04\0最起码在路上设个路标，\n就不会那么容易迷路了。
+maze_kinoA_03	有１张又圆又黄的东西\n从这里经过了噢。\x0e\0\x04\0我是个路盲，因此只能\n在这里挥挥手，送个别。
+maze_kanban_01	〈　入口　〉\n请注意
+maze_kanban_01_2	〈　入口　〉\n请注意\n不要再次迷路
+maze_kanban_01_3	〈　入口　〉\n请注意\n不要迷路\x0e\x03\x02\x08\0\0\x04\0%\0D\0次
+maze_kanban_01_4	〈　入口　〉\n请注意\n从今以后绝对不要再迷路了
+maze_kanban_02	〈　出口　〉\n辛苦了\n欢迎下次再来
+maze_kanban_03	回去请走这边
+hana_Search01A_3_5_05	呃……\n怎么啦？花之子呀。\n我们是来迎接你的噢。
+hana_Search01A_3_5_05_2	嗯——，说了也不听\n真是没办法呀。\n对不听话的孩子，只有处罚了！
+hana_pit_fall_02	哎呀呀，不好了！\n那孩子没事吧？
+hana_Search02A_3_7_01	就因为你逃到这种地方，\n我们才被弄得这么惨。\x0e\0\x04\0马力欧！好好教训他一下！
+hana_Search02B_3_4_02	还有干劲呀？\n有点闹过头了哟。\n对那种孩子要打打小屁屁！\x0e\0\x04\0虽然不太清楚哪里是小屁屁。
+poison_spa_kanban_01	〈　隐秘温泉　毒之温泉　〉\n涌出的源泉　无加水\n泉之成分：毒
+hana_Search03A_3_9_01	在那种地方！
+hana_Search03C_3_3_01	哎！\n你们不都是同一个身体吗？\n都几次啦！一点儿都不反省！\x0e\0\x04\0马力欧，\n给他们一拳！
+hana_Search04A_3_8_14	对花之子的身体来说，\n是没办法区分我们和乌贼怪吗？\x0e\0\x04\0不管了，太麻烦了，\n一并干掉吧！
+hana_pit_fall_03	{d}{s[075]}起来……{s[100]}{/d}\x0e\0\x04\0{d}快起来呀{/d}
+hana_pit_fall_04	{d}别太过～分……{/d}
+hana_pit_fall_05	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}快起来～啦！！{s[100]}{/d}\x0f\x04\x03\x0e\x01\x01\0
+lucie_pit_wait_00	啊，讨厌！\n为什么倒霉的总是我呀！\x0e\x01\x01\0
+lucie_pit_wait_01	唉！\n打算把我一直关在\n这种地方吗！？\x0e\x01\x01\0
+lucie_pit_wait_02	等着瞧！\n只要马力欧来，就会把你们\n打得一败涂地！\x0e\x01\x01\0
+lucie_pit_wait_03	哎哟，马力欧怎么这么慢呀！\n在哪里都干了什么啦？\n不要让柔弱的女士等这么久。
+lucie_pit_wait_04	是不是让我等得太久了呀？\n……该不会是回去了吧？\n嗨，马力欧，到底怎么回事？
+lucie_pit_wait_05	怎么办呀……\n皇家贴纸会不见，\n全部都是我的责任……
+lucie_pit_wait_06	这个样子是回不了贴纸星的呀。\n啊啊……实在是……\n为什么变成了这样啊……
+lucie_pit_wait_07	……啊啊，都想要哭了……说是\n这么说，但是已经哭起来啦……\n……笨蛋……呜～呜～……
+lucie_pit_wait_08	…………
+karamare_kino_w3_03	哎！\n又在欺负弱小呀！\n不要太过分，住手！
+karamare_kino_w3_06	是的，又见面了，\n还是那个弱小的老朋友。\n如果能得到救助，那就太好了！
+karamare_kino_w3_12	马力欧！　\n这些家伙嘛，赶紧给\n５０金币打发走吧！\x0e\x03\00\0\0\xff\xff\0\0d\0&\0k\0a\0r\0a\0m\0a\0r\0e\0_\0k\0i\0n\0o\0_\0w\03\0_\00\09\0
+karamare_kino_w3_09	给金币\n惩罚
+karamare_kino_w3_10	哎呀，\n真的给金币了呀。\n还以为会说惩罚呢。
+karamare_kino_w3_11	不愧是马力欧！\n嗯，给他点颜色看看！
+karamare_kino_w3_14	哎！\n不会是金币不够吧！？
+karamare_kino_w3_18	谢谢你救了我，马力欧先生。\n每次都这样，真不好意思。\x0e\0\x04\0本打算在安静的地方\n慢慢地缓解旅行中的疲劳，\n就来到了森林。\x0e\0\x04\0可是没听到森林被毒侵害的\n消息！结果不但没有缓解疲劳，\n反而深深中毒了。\x0e\0\x04\0想在森林里缓解疲劳什么的，\n最终却惹了个大麻烦。\n没错，还是这个不费功夫。
+karamare_kino_w3_21	听说也有热爱森林的奇诺比奥，\n对我来说那种慢节奏的生活方式\n简直是难以接受。\x0e\0\x04\0我要去更加刺激且有速度感的\n好玩的地方！
+hana_shun_00	嗨……
+hana_shun_01	花之子呀！\n不要太过——分！
+hana_kumo_saraware_00	嗨！\n柔弱的女士要被绑架啦。\x0e\0\x04\0这个时候，\n如果是马力欧的话会怎么做呢？\n知道了吧？
+lucie_cry_00	啊……马力欧！
+lucie_cry_04	正如你所看到的，这个样子\n哪怕是我也束手无策呀。\n赶紧想办法吧。
+lucie_cry_01	{d}{s[150]}你在干嘛～！！{s[100]}{/d}
+lucie_cry_02	被那些家伙绑架，还被直勾勾地\n盯着！都怪你傻愣愣的，\n我才会有那样的遭遇。
+lucie_cry_02_2	蜘蛛怪的巢穴黏乎乎的，皮肤也变\n干燥了。竟然就这样一直被放着不管，\n实在是……总而言之，太可恶啦！
+lucie_cry_03	……呼……\x0e\0\x04\0啊，总之，\n你救了我，很感激噢。\x0e\0\x04\0虽然花了很长时间……\x0e\0\x04\0\x0e\x04\x04\x04\xe8\x03\0\0谢谢。
+lucie_cry_06	嗨！\n你是不是把锤子也弄丢了！？\n赶紧找呀！\x0e\0\x04\0好，走吧！
+stg3_6.msbt
+hana_head_14	稍等一下，马力欧。\n花之子的身体才是当务之急。\x0e\0\x04\0取彗星碎片的事情，\n之后再做吧。
+hana_head_15	等一下，马力欧。\n救了第２个身体之后，\n再去取彗星碎片吧。\x0e\0\x04\0能去的地方太多，\n我会搞不清楚的。
+hana_atama_01	马力欧先生……\n这里……
+hana_atama_02	怎怎怎怎么啦！\n花之子呀！\n怎么说呢……
+hana_atama_02_01	身体的张数少了很多呀。
+hana_atama_03	嗯……\n当时在森林的入口，\n被很长的腿缠住了……
+hana_kaisou_01	住手——！\n放开——！
+hana_kaisou_02	那样粗暴的话\n花之子会被扯断的呀——！
+hana_kaisou_03	哎呀，\n一直都在找你噢，毛毛虫。\x0e\0\x04\0为了见你才特意来你家，\n竟然不在家。\x0e\0\x04\0在森林的入口和马力欧他们一起\n商量了一些不可告人的事情了吧……
+hana_kaisou_04	谁呀？\n什么？\n为什么？\x0e\0\x04\0花之子，\n只是想吃到好吃的叶子而已。
+hana_kaisou_05	酷酷酷……\n有你在的话，\n就会给我添很多麻烦噢。\x0e\0\x04\0所以呢，给你施点魔法吧。\n非常有意思的魔法……酷酷酷！
+hana_kaisou_06	咦，有意思吗！？\n耶～！\n快点快点！
+hana_kaisou_07	咔哈哈哈！\n看起来大家都很高兴呀！\n到底是小家伙，很淘气啊。\x0e\0\x04\0好吧，你们互相追跑也好，\n捉迷藏也好，在外面尽情地玩吧！
+hana_kaisou_08	好好。\n这样就放心了。\x0e\0\x04\0呀，毛毛虫，\n能开心地玩着度过一生\n实在是太令人羡慕了。
+hana_kaisou_12	那我就走啦。\n再见。
+hana_kaisou_09	身体……\x0e\0\x04\0没有了。
+hana_atama2_01	好啦好啦……\n冷静点，花之子呀。
+hana_atama2_02	哎，马力欧。\x0e\0\x04\0卡美克是个聪明的家伙，\n做出这么离谱的事\n肯定是有原因的。
+hana_atama2_03	无论如何，花之子这个样子\n什么也干不了，\n所以我们先去找那些身体吧。
+hana_atama2_04	耶——！\n你们能帮忙找\n花之子的身体吗！？\x0e\0\x04\0４个身体全都\n在各自的地方神采奕奕\n兴高采烈地玩着。\x0e\0\x04\0要抓住应该很难，\n但是要努力啊！\x0e\0\x04\0还有，\n不要弄得很疼噢。
+hana_atama2_05	呼……到底是小朋友，\n真是无忧无虑啊。\n嗨，走吧！
+hana_help_01	４个身体全都\n在各自的地方神采奕奕\n兴高采烈地玩着。
+hana_help_01_01	要抓住应该很难，\n但是要努力啊！
+hana_help_02	啊，是花之子的身体！\n欢迎回来——。
+hana_help_02_01	谢谢！\n还有３个，拜托了！
+hana_help_03	耶～！\n第２个也回来了，欢迎欢迎！
+hana_help_03_01	谢谢！\n还有２个——
+hana_help_04	哇——\n第３个，好久不见！\n看起来有精神就好。
+hana_help_04_01	还剩下１个！\n最后再努力一下！
+hana_unite_01	花之子的身体\n全部聚齐了！
+hana_unite_02	嗯，嗯。
+hana_unite_03	花之子也要代\n花之子的身体说声感谢。\n谢谢！
+hana_unite_04	逃的逃，躲的躲，闹的闹。\n都抓回来真是太不容易了。\n但是大家全都安然无恙，太好了。\x0e\0\x04\0不过，一直都是那种样子的话\n会感冒的呀。\n快点恢复原样如何？
+hana_unite_04_01	好——\n那么，恢复原——样。
+hana_unite_04_01_2	呜～呜……
+hana_unite_04_01_3	不行呀。\n身体连不起来。
+hana_unite_04_02	是吗……\n卡美克的魔法也相当厉害的嘛。\x0e\0\x04\0那我也要加把劲了。
+hana_unite_04_03	好了，来吧，马力欧！
+hana_unite_04_04	{d}一、二！{/d}
+hana_unite_04_05	呼！\n对活着的小家伙\n纸片变变变还是第一次呢。\x0e\0\x04\0不过，因为同样是单薄的东西，\n所以肯定会很顺利。\n之后就要看马力欧的啦。\x0e\0\x04\0做法跟纸片变变变是一样的。\n将花之子的身体连起来，粘上吧。
+hana_unite_04_09	最后１张！
+hana_unite_06	耶～！\n花之子恢复原样啦！\x0e\0\x04\0多亏马力欧先生\n和智贴贴小姐的帮助。\n非常感谢！
+hana_unite_07	……虽然……\n花之子是恢复原样了，\n但森林仍然还是有剧毒的状态……\x0e\0\x04\0花之子即使可以在有毒的地方\n行走，但也不能吃有毒的叶子。\n说不定会饿死的……
+hana_unite_07_2	啊，稍等一下！\x0e\0\x04\0也就是说卡美克知道\n花之子可以在有毒的地方行走，\x0e\0\x04\0为了不让他到那个岛上去，\n就用魔法把他的身体分散开了！
+hana_unite_07_22	太可恶了！\n连我这个温文尔雅的人\n也都恼火了呀！
+hana_unite_07_3	是的，花之子也总觉得……
+hana_unite_08	哼——！！\n花之子也恼火啦！！\x0e\0\x04\0我要去那个毒岛止住剧毒！！\x0e\0\x04\0马力欧！智贴贴！\n我在惊涛海岸上等你们！！
+hana_unite_09	好强大的气势！\x0e\0\x04\0那我们也去惊涛海岸吧。\n目标是那个毒岛噢。
+hana_miss_combin_01	咦——感觉有点凉风飕飕的，\n是不是还有哪里\n没有粘好呀？
+hana_miss_combin_02	咦——感觉有点凉风飕飕的，\n是不是还有哪里\n没有粘好呀？
+hana_miss_combin_03	嗯——感觉有点闷热呀。\n好像哪里粘得太紧啦。
+hana_miss_combin_04	嗯——感觉有点闷热呀。\n好像哪里粘得太紧啦。
+hana_miss_combin_05	哎呀，\n不好意思，花之子呀。\x0e\0\x04\0马力欧，好好回想一下\n花之子原来的样子，\n再挑战一次吧。
+diary_DOR_00	海里的剧毒\n流到森林里了。\n感到非常懊悔。
+diary_CHO_06	敲打白色的花\n就会轻飘飘地飞起来。\n很有意思。
+diary_STA_02	和红色的人一起洗澡，\n花之子也变成红色了。
+diary_BEA_01	参加了好玩的秀。\n题目非常难，\n完全不知道怎么答。
+diary_MAC_02	为了止住海里的剧毒\n想要坐船，却被人骂了。
+hana_growup_00	马力欧先生，还有智贴贴小姐！\n毒从森林里消失了，\n变得非常干净！\x0e\0\x04\0多亏两位呢。\n非常感谢！
+hana_growup_00_2	哪里哪里，多亏花之子\n把我们运到了岛上，\n这样才能拿回很重要的贴纸。\x0e\0\x04\0谢谢，花之子呀！\n尽管吃很多很多干净的叶子吧。
+hana_growup_00_3	好的——！\n肚子一直很饿，\n所以大口大口吃多少都可以！\x0e\0\x04\0花之子不愧是正在长身体啊！
+hana_growup_00_4	是啊。\n吃多点，长得更大点噢。
+hana_growup_00_5	太好了，马力欧。
+hana_growup_01	肚子一直很饿，\n所以大口大口地吃，\n有多少都能吃得下！
+hana_growup_02	肚子一直很饿。\n干净的叶子真好吃呀！
+hana_growup_03	森林变得干净真是好呀。\n叶子好好吃呀！
+hana_growup_04	因为干净的叶子太好吃了，\n所以肚子吃得很饱，\n但是还能吃下去！\x0e\0\x04\0这就是所谓的长身体！？
+hana_growup_05	哇哦，\n干净的叶子吃了很多，\n实在是太饱了。\x0e\0\x04\0话说回来，之前就开始觉得\n身体里面很热呢。\n怎么回事呀。
+hana_Adult_01	怎么样，请看一下。\n吃叶子吃得肚子很饱很饱，\n就变成大人了！
+hana_Adult_02	哎呀！\n花之……子，\n完全变了个样子！\x0e\0\x04\0这才是你真正的模样啊。\n好漂亮。\x0e\0\x04\0还有那个背上，\n难道是……
+hana_Adult_03	是的，正如您所看到的一样。\n我自己也很惊讶。\x0e\0\x04\0竟然还可以在天上飞，\n这是连想都没想过的。\n人生真是个未知数呀。
+hana_Adult_03_01	太好了，马力欧！\n让花之子带我们到\n门悬崖的上空去吧！
+hana_Adult_03_02	嗨，花之子，\n可以拜托你吗？
+hana_Adult_03_03	当然可以，小事一桩。\n多亏您两位的救助，\n我才能变成大人。\x0e\0\x04\0能够报恩，那是我的愿望。\n我反而要拜托你们了。\n请一定让我护送你们吧！
+hana_Adult_03_04	哎呀——。\n花之子完全是个大人呀。\n谢谢！\x0e\0\x04\0那么恭敬不如从命，拜托了。\n多多关照。
+hana_Adult_04	去门悬崖吧。\n准备好了吗？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0h\0a\0n\0a\0_\0A\0d\0u\0l\0t\0_\00\04\0_\0y\0n\0
+hana_Adult_04_yn	好了\n还没好
+hana_Adult_04_yes	清楚了！\n那么走吧。\n坐上来时请注意安全。
+hana_Adult_04_no	清楚了。\n那么就在此等候你们吧。\n随时都可以叫我帮忙的。
+hana_Adult_05	啊啊，好怀念呀！\n那个时候，也是这样带着\n你们两位到毒岛上的。
+hana_Adult_05_2	花之子，\n说什么好怀念……\n那，就是刚刚才发生的事情噢。
+hana_Adult_05_3	没错呢。\n小时候的回忆总感觉\n像是很久很久以前的事。\x0e\0\x04\0那么，走吧！
+hana_Adult_06	哎呀……？\n花之子难道不在？
+hana_Adult_07	马力欧先生，智贴贴小姐，\n辛苦了！
+stg4_1.msbt
+kanban_02	〈　！　〉\n小心野生企鹅
+catherine_rylic_0	\x0e\x04\x03\x04\0\0\0\0{d}{c[f4f4f4]}女人的心　和　男人的心{c[000000]}{/d}\x0f\x04\x03\x0e\x01\x01\0
+catherine_rylic_1	\x0e\x04\x03\x04\0\0\0\0{d}{c[f4f4f4]}总是　飘忽不定的　恋爱之心{c[000000]}{/d}\x0f\x04\x03\x0e\x01\x01\0
+catherine_rylic_2	\x0e\x04\x03\x04\0\0\0\0{d}{c[f4f4f4]}蝴蝶结　飘乎飘乎　相当　忐忑忐忑{c[000000]}{/d}\x0f\x04\x03\x0e\x01\x01\0
+stg4_2.msbt
+stg4_3.msbt
+mansion_door_locking_01	门打不开呢。\n是不是上锁了？\n还是……
+mansion_ghost_party_01	哎，哎，\n刚刚的是很恐怖的东西？\n怎么看起来有些好玩呢。
+mansion_ghost_party_02	不过，他们都在\n一瞬间躲起来了呢。\n是害羞的家伙吧。\x0e\0\x04\0那么，把他们全部找到\n并封印起来吧！
+mansion_bookshelf_02	○月○日　　　天气　雪\n主人终于结束了多年的工作，\n退休了。\x0e\0\x04\0而且，\n好像还收到了一个纪念品，\n是一幅描绘工作中身影的画。\x0e\0\x04\0把那幅画装饰在了客厅，\n主人喝着我泡的茶，\n一直在欣赏着那幅画。\x0e\0\x04\0一定是回忆起了\n自己还在职时的工作场面吧。\x0e\0\x04\0主人，这３０年来辛苦了。
+mansion_bookshelf_03_before	法方用使的纸贴跳尽无\x0e\0\x04\0，跳续连地好好果如但\n，小常非害伤的与给次一跳\n，纸贴的有稀常非张这\x0e\0\x04\0。害伤与给地断不地次一又次一\n，去下续持地尽无以可直简\x0e\0\x04\0。候时个那到藏收好好你荐推\n此因，用有常非会\n合场的等时现出堆扎人敌的小弱
+mansion_bookshelf_03_after	无尽跳贴纸的使用方法\x0e\0\x04\0这张非常稀有的贴纸，\n跳一次给与的伤害非常小，\n但如果好好地连续跳，\x0e\0\x04\0简直可以无尽地持续下去，\n一次又一次地不断地给与伤害。\x0e\0\x04\0弱小的敌人扎堆出现时等的场合\n会非常有用，因此\n推荐你好好收藏到那个时候。
+mansion_bookshelf_04	{d}白色山谷\xb7缆车的说明{/d}\x0e\0\x04\0此缆车是可以\n一览白色山谷美景的\n极具人气的观光点。\x0e\0\x04\0可以一边悠闲地乘着缆车\n摇摇晃晃，一边欣赏\n脚下广阔无垠的银色世界。\x0e\0\x04\0{d}○　！注意！　○{/d}\n摇晃缆车或是跳出去的话，\n动物会因此而受惊逃走！
+mansion_bookshelf_05	{d}专业列传　第５５４次{/d}\n{d}“安全确认３０年的专家”{/d}\x0e\0\x04\0位于某个深山里的缆车。\n有位专家一直在不停地确认使用\n该缆车的滑雪客以及观光客的安全。\x0e\0\x04\0下雪天也一个人站在平台上，\n为了确认安全，一直守望着载有\n客人的缆车，直到消失在雪中。\x0e\0\x04\0热爱缆车热爱安全的３０年。\n听说他退休后，在缆车附近的公馆\n里和仆人两个人过着安静的生活。\x0e\0\x04\0而且，这个缆车自从失去了\n这位安全确认专家，就没运转过。\n下次：“靠软磨硬泡卖贴纸的专家”
+mansion_bookshelf_06	{d}★★★　独家新闻！　★★★{/d}\n{d}不可思议！幽灵之书的谜！！{/d}\x0e\0\x04\0曾经有个著名的幽灵猎人\n将自己打倒的所有幽灵\n都封印在了一本书里。\x0e\0\x04\0据说如果随随便便\n就打开了那本书，\n幽灵们有可能还会复活。\x0e\0\x04\0这本幽灵之书或许现在\n还存在于世上的某个角落……
+mansion_bookshelf_07_after	{d}圣纸节心得{/d}\x0e\0\x04\0所谓圣纸节，是指一年一度\n降临大地的六位圣纸神\n倾听人们愿望的节日。\x0e\0\x04\0一、从天空落到这地面的圣纸，\n大家要友好地捡起来。\x0e\0\x04\0二、一心向六位圣纸神居住的彗星，\n为你的愿望虔诚地祈祷。\x0e\0\x04\0三、彗星是神圣的，\n决不能粗暴地\n或是用充满欲望的手去触摸。\x0e\0\x04\0要知道，只有遵守了这些，\n你的愿望才能传达给六位圣纸神。
+mansion_bookshelf_08	{d}摇奖全面解析！{/d}\n{d}轻松转齐图案的{/d}\n{d}３个方法{/d}\x0e\0\x04\0●根据“ＰＯＷ”等醒目的图案\n通过的周期，\n抓住时机按会有效。\x0e\0\x04\0●不要连续按键，\n而是按照同样的间隔来按的话，\n图案会很容易地转齐。\x0e\0\x04\0●摇奖内的图案金币是数量最多的。\n从概率来说，瞄准金币，\n转齐的可能性是最高的。
+mansion_bookshelf_09	纸片签片贴纸　纸片纸贴贴纸贴\n纸贴贴纸　纸片签　纸片签纸片贴\n贴纸纸贴片　签纸纸　纸片签贴纸
+mansion_bookshelf_09_2	咦！？\n这本书是用古代贴纸语书写的！\x0e\0\x04\0让我读读看。\n不过古代语什么的，\n以前只在学校里学过……
+mansion_bookshelf_09_3	皇家贴纸收集齐的时候\n五道光束照亮墙壁\n真相将被揭晓
+mansion_bookshelf_09_4	是用古代贴纸语书写的。\n我来读一下吧。
+mansion_bookshelf_09_5	光束……真相……？\x0e\0\x04\0嗯……知道是在说\n和皇家贴纸有关的事情，\x0e\0\x04\0但具体的意思……\n很抱歉啊，一点都不明白。\x0e\0\x04\0古代语的成绩不怎么样……
+mansion_bookshelf_09_6	五道光束……\n真相将被揭晓！\x0e\0\x04\0啊，这个是在说\n那个门悬崖的事情啊！\x0e\0\x04\0这个，一定是\n从贴纸星带来的古老预言书啊！
+mansion_ghost_seal_01	　把嘘嘘鬼封印了。
+mansion_all_ghost_seal_01	加上刚刚那只，书的页面\n都满了。这是不是说\n所有的嘘嘘鬼都封印好了……？
+yakata_kino_soto_door	首先，能不能听听我的话呢？
+yakata_kino_soto_00	马力欧先生到这么寒冷的\n地方来，真是辛苦了。\n我是这个公馆的主人。\x0e\0\x04\0\x0e\x04\x02\0说实话，我真的很想\n在这个公馆里好好招待\n长途劳累的马力欧先生。\x0e\0\x04\0\x0e\x04\x02\0但现在不是这种时候。\x0e\0\x04\0\x0e\x04\x02\0封印着非常恐怖的东西的那本书，\n不知被什么人打开了。\x0e\0\x04\0\x0e\x04\x02\0很多恐怖的东西\n从里面逃了出来。\x0e\0\x04\0\x0e\x04\x02\0那恐怖的东西是……\x0e\0\x04\0\x0e\x04\x02\0……太、太、太过恐怖，\n以至于没法从口中说出那名字，\x0e\0\x04\0\x0e\x04\x02\0总之，有很多恐怖的东西\n游荡着的公馆太恐怖了，\n根本没法住人。\x0e\0\x04\0\x0e\x04\x02\0怎么样，是很恐怖的吧？
+yakata_kino_soto_01	马力欧先生，那个就是\n提到的封印之书。\x0e\0\x04\0\x0e\x04\x02\0啊啊，拿着那本书的\n马力欧先生的勇姿，\n是多么的值得信赖啊！\x0e\0\x04\0\x0e\x04\x02\0如果把公馆里的所有恐怖的东西\n重新封印回那本书里，\n然后放回原来所在的地下室，\x0e\0\x04\0\x0e\x04\x02\0我就能进公馆里去，\n可以好好地招待马力欧先生。\x0e\0\x04\0\x0e\x04\x02\0无论如何，请让我好好地招待\n马力欧先生！\n拜托了！
+yakata_kino_soto_02	请把所有恐怖的东西\n重新封印回那本书里，\n然后放回原来所在的地下室。\x0e\0\x04\0我无论如何也想好好地招待\n马力欧先生！\n拜托了！
+yakata_kino_soto_01_lucie	啊……嗯，也就是说，\n想让我们封印\n公馆里的恐怖的东西？\x0e\0\x04\0书的封印被打破这样的事，\n这话听起来有点奇怪啊。\n是皇家贴纸的缘故吗？\x0e\0\x04\0但是，在有恐怖东西的公馆里\n击退这些恐怖的东西，\n好像蛮有趣啊。\x0e\0\x04\0那么，马力欧，\n到公馆里看看吧。
+yakata_kino_soto_01_lucie_2	……当然，如果你也\n对恐怖的东西有恐怖感的话，\n不做也可以的，呵呵呵。
+yakata_kino_soto_03	啊，马力欧先生。\n背部突然觉得阵阵发冷的。\n怎么回事啊。\x0e\0\x04\0而且即使靠近篝火，\n阵阵发冷的感觉也没消失。\n是感冒了吗？
+yakata_kino_soto_04	啊，马力欧先生。\n背部觉得阵阵发冷的。\n就请让我烤烤火吧。
+yakata_kino_soto_06	啊，马力欧先生。\n刚才背部阵阵发冷的感觉\n就像没发生过一样。\x0e\0\x04\0感冒痊愈了吗？
+yakata_kino_soto_07	公馆里仍然充满着很多\n恐怖的东西。\x0e\0\x04\0即使是在这里，\n那种恐怖感也会一点点地渗透过来。\n拜托你好好地封印吧。
+yakata_kino_soto_08	看起来减少了很多，\n但即使这样还是很恐怖。
+yakata_kino_soto_10	好像减少了相当多，\n但还是有点恐怖呢。
+yakata_kino_soto_10_8	大概还有８只恐怖的！\n马力欧先生，请加油。
+yakata_kino_soto_10_7	大概还有７只恐怖的！\n马力欧先生，请加油。
+yakata_kino_soto_10_6	大概还有６只恐怖的！\n马力欧先生，请加油。
+yakata_kino_soto_10_5	大概还有５只恐怖的！\n马力欧先生，做得好。
+yakata_kino_soto_10_4	大概还有４只恐怖的！\n马力欧先生，做得好。
+yakata_kino_soto_10_3	大概还有３只恐怖的！\n马力欧先生，还有一点点了。
+yakata_kino_soto_10_2	大概还有２只恐怖的！\n马力欧先生，还有一点点了。
+yakata_kino_soto_10_1	大概还有１只恐怖的！\n马力欧先生，还有一点点了。
+yakata_kino_soto_11	公馆里已经不恐怖了，\n但是马力欧先生，那本书还是\n很恐怖。请放到地下室去吧。
+yakata_boss_00	嘿，这里不是\n原来放封印之书的地方吗？
+yakata_boss_01	要放下书吗？\x0e\x03\04\0\0\xff\xff\0\0d\0*\0y\0a\0k\0a\0t\0a\0_\0b\0o\0s\0s\0_\00\01\0_\0s\0e\0l\0e\0c\0t\0
+yakata_boss_01_select	放\n稍后
+yakata_boss_02	哎呀，好像不行。\n看来还没有全部封印起来呢。
+yakata_fuin_ok	呼……似乎封印完成了呢。
+yakata_boss_03	呀，您辛苦了。
+yakata_boss_04	竟然把那么多的嘘嘘鬼\n全都找到了，你还是\n和过去一样勤勉啊，马力欧。
+yakata_boss_05	卡美克！\n你怎么会在这里！\x0e\0\x04\0……啊！打破这本书的封印\n果然是你干的好事！？
+yakata_boss_06	酷酷酷……\n真不愧是智贴贴，\n相当的敏锐呢。\x0e\0\x04\0听说这个公馆里有本\n关于贴纸的古书，\n就这里那里地调查起来了。\x0e\0\x04\0于是，打开这本书看了下，\n嘘嘘鬼们就从里面飞了出来，\n就是这么一回事。\x0e\0\x04\0而且，你们来到这里，\n有趣的捉迷藏就开始了，\n因此我不得不留下观赏。\x0e\0\x04\0看到你们在公馆里到处搜寻\n拼尽全力的样子\n真是相当好笑啊，酷酷酷。
+yakata_boss_07	什么啊！\n还是一副令人恶心的样子！
+yakata_boss_08	酷酷酷……\n感谢你给予的赞美。\x0e\0\x04\0但是竟然能把那么多\n嘘嘘鬼封印，看来这本书\n蕴藏着很强的力量啊。\x0e\0\x04\0既然是你们二人\n费了一番辛苦\n才完成的重要的书，\x0e\0\x04\0那就再热烈一些吧！
+yakata_boss_09	酷酷酷……\n和好不容易收集齐的\n嘘嘘鬼们再一起玩会儿如何？\x0e\0\x04\0那么，不好意思啦。
+yakata_boss_after_01	呼……好像总算都结束了呢。
+yakata_boss_after_02	马力欧先生！\n成功了呢！
+yakata_boss_after_03	公馆里已经\n一点也不恐怖了！\x0e\0\x04\0果然，那本书已经\n像原来一样被封印了！\n非常感谢！\x0e\0\x04\0按照约定，让我好好招待您！\n请去大厅左侧的房间。
+yakata_boss_after_04	但是，听说卡美克\n来寻找关于贴纸的书了。\x0e\0\x04\0难道是那本书？\n哎呀，当然，即便是卡美克\n也不会读古代贴纸语吧。\x0e\0\x04\0会不会写着什么被人读到了\n就会有麻烦的事情呢？\x0e\0\x04\0……不过，看来只是无意之中\n打开了封印之书，\n并没有什么特别的收获。\x0e\0\x04\0好了，那么，\n去奇诺比奥正等着的\n大厅左侧的房间吧。
+yakata_boss_after_05	但是，听说卡美克\n来寻找关于贴纸的书了。\x0e\0\x04\0是不是有被我们读了之后\n会给他带来麻烦的书呢？\x0e\0\x04\0……不过，看来只是无意之中\n打开了封印之书，\n并没有什么特别的收获。\x0e\0\x04\0好了，那么，\n去奇诺比奥正等着的\n大厅左侧的房间吧。
+yakata_toushu_02	{d}啊，欢迎——{/d}
+yakata_toushu_02_2	这个漂亮的客厅怎么样？\n有被款待的感觉吧？\x0e\0\x04\0能像这样招待马力欧先生，\n我也感到很高兴噢。\x0e\0\x04\0像我这样的公馆主人，\n是不是要雇佣个仆人什么的啊？\n哈哈哈。
+yakata_toushu_02_3	马力欧先生，\n不要站着说话，\n请坐到那边的椅子上。
+yakata_toushu_02_4	怎么样，很好听的曲子吧？\n有被款待的感觉吧？
+yakata_toushu_04	啊啊，是那幅画吗？\x0e\0\x04\0那是描绘了这个公馆\n上一代的主人，也就是\n我之前的主人过去生活的画。\x0e\0\x04\0上一代的主人去世时，\n就把这个公馆转让给了\n关系亲近的我。\x0e\0\x04\0对那幅画感兴趣的话，\n也可以转让给您噢。\n毕竟现在的主人已经是我了。\x0e\0\x04\0嗯，请别客气，\n带着走吧。\n因为要好好招待您啊。
+yakata_toushu_05	啊啊，没有画的话，\n也有没有画的清爽呢。\x0e\0\x04\0为了让这里更像是我的公馆，\n也应该用我自己的画\n装饰一下呢。
+yakata_sendai_01	{d}啊，欢迎——{/d}
+yakata_sendai_02	不要站着说话，\n请坐到那边的椅子上。
+yakata_sendai_03	哎呀呀，这不是\n之前乘坐缆车的客人吗？\x0e\0\x04\0在大雪之中，\n欢迎来到这个遥远的地方。\n请随意。\x0e\0\x04\0{d}哎——{/d}
+yakata_sendai_04	哎呀说起来，\n这个家里已经很久\n没来客人了，真是高兴啊。
+yakata_sendai_05	能多次招待马力欧先生\n真的很高兴。
+yakata_sendai_06	能够招待马力欧先生，\n我也感到很高兴。
+yakata_sendai_07	{d}啊，欢迎——{/d}
+yakata_sendai_08	最近，这样的音乐\n很流行吗？\n我对这个不太懂。
+stg4_4.msbt
+snow_lift_01	呀，欢迎光临。\n这里是白色山谷缆车。\n要乘坐吗？
+snow_lift_02	好的，两位。
+snow_lift_03	安全确认，无误！
+snow_lift_03_2	缆车出发——！
+snow_lift_04	走好。\n祝您旅途愉快。
+stg4_5.msbt
+karamare_kino_w4_03	啊，马力欧先生，\n来得刚刚好！\x0e\0\x04\0这帮家伙正在恐吓我，\n要我用１００金币\n买这里的贵宾券。\x0e\x03\00\0\0\xff\xff\0\0d\0&\0k\0a\0r\0a\0m\0a\0r\0e\0_\0k\0i\0n\0o\0_\0w\04\0_\00\04\0
+karamare_kino_w4_04	买\n不买
+karamare_kino_w4_06	马力欧先生，\n金币不够啊！\n拜托了！
+karamare_kino_w4_10	那是贵宾券？\n在我看来，\n那只是门的贴纸……\x0e\0\x04\0啊啊，没被骗就好！\n那么，我就走了啊。\n一直以来，非常感谢！
+boss_snow_sta_battle_01	{s[075]}刺……{s[100]}
+boss_snow_sta_battle_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[100]}刺亮！{s[100]}{/d}\x0f\x04\x03
+boss_snow_sta_battle_retry_hint_0	啊——！\n好大！好大啊！\n这样不是有点犯规吗！？
+boss_snow_sta_battle_retry_hint_1	如果是用普通的贴纸，\n无论怎么努力，\n也只是挠挠脚趾头的效果吧。\x0e\0\x04\0以力量对抗力量！\n这种时候，就用物品贴纸\n猛烈地去攻击吧！
+boss_snow_sta_after_01	唔……\n很抱歉。\x0e\0\x04\0就因为我随意地对这个贴纸\n许了愿，结果事情\n变成了这个样子……\x0e\0\x04\0消失……\n返回天空，\n好害怕啊……
+boss_snow_sta_after_02	不过……\n来年变成雪飘落的话，\n还会被做成雪人的吧？\x0e\0\x04\0那么下次就可以再见面了！
+kanban_01	★贵宾入口★\n用较少的等待时间\n享受游乐项目
+stg5_1.msbt
+get_junk00	奇诺比奥　１８分\n再努力一些吧！
+get_junk01	新装开店！\n仅限持有此广告单者\n折扣５５％！
+get_junk02	XD3R - B8HH - 9ZR2 - FL16
+get_junk03	★贴纸嘉年华★　～星星飘落之夜的梦～\n　贴花竞技场　【F区　７排】\n[预购]全席站票　　赞助：蘑菇商会
+get_junk04	蘑菇　……３个\n叶子　……２片\n砂糖　……２大勺
+get_junk05	前往闪浪海港　船票\n２等舱　３－B\n※此票不退
+get_junk06	蘑菇商会\n法人代表　董事长\n　　　　　　奇　诺　比　奥
+get_junk07	蘑菇商会\n砖块事业组　力量课　课长\n　　　　　　奇　诺　比　奥
+get_junk08	蘑菇商会\n水管开发单位　资材本部　部长\n　　　　　　奇　诺　比　奥
+get_junk09	蘑菇商会\n总务部　总务课　果汁线　线长\n　　　　　　奇　诺　比　奥
+get_junk10	女人的心　和　男人的心\n总是　飘忽不定的　恋爱之心\n　　　　　　　- 1/2 -
+get_junk11	蝴蝶结　飘乎飘乎　相当　忐忑忐忑\n不行啊　蛋　出来啦　呼——\n　　　　　　　- 2/2 -
+get_junk12	栗子小子：\n救救我吧的秘密，我解开来啦！\n是９５８，应该。　　栗子小子
+get_junk13	１号机：\n最近３号机没精神。也许是有什么\n烦恼。报告完毕。　　　　２号机
+get_junk14	枯　０００　０１０　０１０　　２\n刺　００２　００１　４０\xd7　　７\n刺球队获胜！
+get_junk15	栗子锅子　树叶锅子　蘑菇锅子
+get_junk16	物品屋音乐教室　【正在招收学员】\n\xb7小号课　\xb7小提琴课\n\xb7电吉他课
+get_junk17	{d}〈新上市〉{/d}\n{d}清凉舒爽！　爆爆蘑菇！{/d}\n{d}低热量　新登场！{/d}
+get_junk18	■保存方法\n请不要在直射阳光和高温多湿的\n环境下保存。
+get_junk19	{d}○　仆人　招聘　○{/d}\n公馆打扫　洗衣　泡茶　整理书架\n时薪　２金币
+get_junk20	{d}肩部按摩券　（３０分钟）{/d}
+get_junk21	[不在留言] 信已送到，但收件人\n不在，因此暂时由我保管     啪来嗒
+get_junk22	“关于汪汪遗迹和古代文明”\n酷栗福尼亚大学　酷栗斯汀
+get_junk23	当当～当！\n在巨大石门的那一头\n巨大耀西真的存在！
+get_junk24	{d}没　有　中{/d}
+get_junk25	{d}<请款单>{/d}\n贴纸模板费　　：３０金币　\n贴纸印刷费　　：８５金币
+get_junk26	周一：休息 周二：营业 周三：休息\n周四：休息 周五：蘑菇 周六：休息\n周日：休息
+get_junk27	正正正Ｔ
+get_junk28	【卖房信息】\n雪山独栋别墅　５室２厅１厨　房龄：不详\n２亿４千万金币～　※可面谈
+get_junk29	是垃圾\n请扔掉
+get_junk30	什么也没写
+get_junk31	来吧！充满干劲的奇诺比奥\n为了贴纸嘉年华的复活\n正在招募布置会场的志愿者。
+get_junk32	幸福的信\n如果不将这封信转寄给１０个人，\n幸福就会来到你身边。
+get_junk33	【彗星舞】\n１．彗星　彗星　彗星\n（双手上举　单脚旋转）
+get_junk34	【彗星舞】\n２．从夜空降落\n（双手摇摆　大大地跳）
+get_junk35	【彗星舞】\n３．实现愿望\n（落地后　大大地旋转，回到１）
+get_junk36	{d}○贴纸占卜○{/d}\n闪闪钢铁跳的你……尖刺什么的\n不用在意，但是不要疏忽大意。
+get_junk37	{d}○贴纸占卜○{/d}\n闪闪龟壳的你……\n不要关在自己的壳里与外界隔绝。
+get_junk38	{d}○贴纸占卜○{/d}\n闪耀沙滩鞋的你……\n改变自己的机会到了。
+get_junk39	<MEMO>
+get_junk40	{d}【问答节目　观赏招募】{/d}\n要不要试试在观众席喝倒彩？\n集合地点：树墩广场前
+get_junk41	{d}这个纸屑１００％由纸做成{/d}
+get_junk42	{d}梦之蘑菇彩票{/d}\n　　{d}７５组{/d}\n{d}７２０５３３{/d}
+get_junk43	{d}金币还来！{/d}
+get_junk44	\x0e\x02\x06\x04\0\0\x0c\0{s[150]}栗子小子堡垒里\n神秘的绿色人物！？{s[100]}
+stg5_2.msbt
+karamare_yari_00	马力欧先生！\x0e\0\x04\0我在这么遥远的异国他乡\n也被缠上了。\n真是不好意思。\x0e\0\x04\0但是，金币应该是无国界的。\n能不能支付５００金币，\n让我得以逃脱呢？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0a\0r\0a\0m\0a\0r\0e\0_\0y\0a\0r\0i\0_\00\01\0
+karamare_yari_01	支付\n付什么付啊！
+karamare_yari_02	这样啊！\n战斗也是无国界的噢！\x0e\0\x04\0那么，拜托了！
+karamare_yari_03	金币不够啊！\n那么，拜托了！
+karamare_yari_04	马力欧先生。\n我在许多地方\n被许多家伙抓住，\x0e\0\x04\0每次都是您来救助我，\n真的非常感谢。\x0e\0\x04\0为了找到真正适合自己的\n生活方式，而试着外出旅行，\x0e\0\x04\0结果却尽是\n让马力欧先生来救我。
+karamare_yari_05	嗯！\n但是多亏了您，\n让我意识到了重要的事情！\x0e\0\x04\0虽然有可能意识到得太晚，\n但不管怎样，旅行结束了。\n马上就回贴花小镇去！\x0e\0\x04\0非常感谢！
+stg5_3.msbt
+stg5_4.msbt
+lucie_wanwan_escape_00	啊？\n难得他睡着了，\n却醒来了！
+lucie_wanwan_escape_01	啊——\n又醒来了！\x0e\0\x04\0早知道趁着他睡着的时候\n逃跑就好了。
+lucie_wanwan_escape_02	又醒来了！\n这样的话要没完没了啦。\n还是逃跑吧！
+stg5_5.msbt
+kanban_01	欢迎\n天然温泉　隆隆温泉\n功效：划伤　弯折　褶皱
+stg5_6.msbt
+kanban_01	\x0e\x02\x06\x04\0\0#\0{s[200]}！危险！{s[100]}
+boss_plant_first_01	哇哦，好厉害！\n火山的里面\n竟然是这样的呢。\x0e\0\x04\0非常热啊！\n在这种地方寻找皇家贴纸\n感觉会很困难呢。
+boss_plant_first_02	嗯？
+boss_plant_appear_01	刺刺刺……
+boss_plant_appear_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮亮亮——！{s[100]}{/d}\x0f\x04\x03
+boss_plant_escape_01	刺刺刺刺！
+boss_plant_appear2_01	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}刺亮亮亮亮——！{s[100]}{/d}\x0f\x04\x03
+boss_plant_haku_lucie_0	{d}{s[150]}糟透了！{s[100]}{/d}\x0e\0\x04\0真的是遇到麻烦啦！\n竟然被吃掉了，我无法接受！
+boss_plant_haku_lucie_1	好啊，你，\n竟然吃我这柔弱的女士！\x0e\0\x04\0马力欧！隆隆地转动进行摇奖，\n火力全开吧！
+boss_plant_after_01	{d}嗝噗{/d}
+boss_plant_after_02	哼。\n贴纸可不是吃的东西。
+boss_plant_after_03	好了，\n去拿皇家贴纸吧！
+lucie_wanwan_escape2_00	好了，\n赶紧逃跑吧。
+stg6_1.msbt
+Incomplete_5royalsticker_01	哎呀，\n这里是岩壁，是条死路。
+5royalsticker_set_01	马力欧！\n从收集到的皇家贴纸那里\n感受到很强的力量！\x0e\0\x04\0是不是发生什么事了。\n看看收集册吧！
+5royalsticker_set_02	皇家贴纸收集齐的时候\n五道光束照亮墙壁\n真相将被揭晓\x0e\0\x04\0……五道光束！\n真相将被揭晓！\x0e\0\x04\0原来在那个公馆里的书上写着的\n古代贴纸语就是这个意思呀！\x0e\0\x04\0马力欧，\n真相揭晓啦！
+5royalsticker_set_03	酷霸王的脸……\n刚刚的原来就是酷霸王城堡呀！\x0e\0\x04\0最后的皇家贴纸就是在那里。\n决战的时刻终于要到了。\x0e\0\x04\0好，去酷霸王城堡吧！
+5royalsticker_set_05	“好，去……”虽然这样想，\n但是他们却逃到云上面了呀。\x0e\0\x04\0就算是我也不能在天上飞。\x0e\0\x04\0马力欧，你有没有\n可以在天上飞的朋友呀？
+5royalsticker_set_04	皇家贴纸的光在山崖上……\n到底发生了什么事？
+stg6_2.msbt
+jr._ship_appear_01	好，\n已经在云上面了。\x0e\0\x04\0应该马上就要\n看到酷霸王城堡了。
+jr._ship_appear_02	有什么东西飞过来了。\n危险！\n请抓紧啦！
+jr._ship_appear_03	{d}{s[150]}在等着你呢，马力欧～{s[100]}{s[150]}！{s[100]}{/d}
+jr._battle_w6_appear_01	马力欧～！\n终于来到这里啦！\x0e\0\x04\0因为一直输给你们这些家伙，\n所以被我老爸狠狠地骂啦！\x0e\0\x04\0这些贴纸什么的已经不重要了！\n如果想要这个彗星碎片就先打倒\n我吧，我这次是动真格的啦！
+jr._battle_w6_appear_02	出来啦，你这个爱撒娇的家伙！\n我们也是动真格的呀。\n真是求之不得呢！
+jr._battle_w6_appear_03	来啦！\n好了，你已经逃不掉了。\n做好心理准备吧！
+jr._battle_w6_appear_04	烦死了，烦死了！\x0e\0\x04\0竟然在飞船上打个洞，\n又要被老爸骂了！\x0e\0\x04\0把你们这些家伙干掉之后\n回去让老爸夸奖我～！
+jr._battle_w6_battle_01	这次我实在是\n不能输掉！\x0e\0\x04\0这个怎么样！
+jr._battle_w6_battle_02	{d}{s[075]}是个防御罩～！{s[100]}{/d}\x0e\0\x04\0{d}{s[075]}好，放马过来吧！{s[100]}{/d}
+jr._battle_w6_escape_01	呀～逃啦～！\x0e\0\x04\0老爸用不着出马。\n最后的终结者我一个\n就已经足够啦！
+jr._battle_w6_appear2_01	又来啦！\n反正还要逃，对吧～？
+jr._battle_w6_after_01	可恶～！\n绝对不想承认！\x0e\0\x04\0但我可能是要……\x0e\0\x04\0{d}{s[150]}被干掉了～！{s[100]}{/d}
+jr._battle_w6_after_02	呼——。\n到最后还在撒娇呀。
+hana_bero_to_stagemap	要返回吗？\x0e\x03\0\x14\0\0\x01\0\0\0d\0\n\0y\0e\0s\0n\0o\0
+stg6_3.msbt
+kamk_battle_w6_appear_02	好久不见，两位，\n终于来到这里了。
+kamk_battle_w6_appear_03	卡美克！\n终于出现啦！\x0e\0\x04\0一直被你折磨得很痛苦，\n终于到了要了断的时候啦！
+kamk_battle_w6_appear_04	是啊。\n既然都到这里了，\n谁也不能退缩喽。
+kamk_battle_w6_appear_05	不要再自我吹嘘啦。\n就战到一方倒下为止！\x0e\0\x04\0那么，开始吧！
+kamk_battle_w6_battle_01	啊，对了对了，\n战斗之前不要忘了\n做“那件”事情。
+kamk_battle_w6_battle_02	真是的！\n又做了件麻烦的事情！\x0e\0\x04\0但我们是不会认输的！\n用这个沙滩鞋狠狠地\n抽你那张可恶的脸！
+kamk_battle_w6_battle_03	什么呀！\n就是个没了贴纸就什么都不行，\n贴纸星的贴纸呆子！\x0e\0\x04\0那就在那儿摇摇晃晃地\n瞧着马力欧被整的样子吧！
+kamk_battle_w6_battle_04	　所有的贴纸都变成沙滩鞋贴纸了。\x0e\x01\x01\0
+kamk_battle_w6_escape_01	逃多少次都可以的。\n我会一直在这边等着的。\n酷酷酷。
+kamk_battle_w6_appear2_01	哎哟，又来啦。\n竟然没有放弃，真让人感动呀。
+kamk_battle_w6_after_01	原来如此。\n不愧是能一路收集皇家贴纸\n到这里的人呀。\x0e\0\x04\0我承认你们两位变强大了！\n至少可以干掉我了。\x0e\0\x04\0……但是，酷霸王大人所持有的\n最后的皇家贴纸有着\n前所未有的、全然不同的力量。\x0e\0\x04\0这世界上没有能战胜\n那刺亮刺亮的力量。\x0e\0\x04\0\x0e\x04\x04\x04\xe8\x03\0\0啊啊……\x0e\0\x04\0光想象你们被酷霸王大人\n整得单单薄薄的样子，\n就已经非常有意思啦。\x0e\0\x04\0所以对消失这种事情\n我完全不会害怕。\n咔咔咔咔！\x0e\0\x04\0让你们被酷霸王大人干掉～！\x0e\x04\x01\0\n让你们被酷霸王大人干掉～！\x0e\x04\x01\0\n让你们被酷霸王大人干……\x0e\x01\x01\0
+kamk_battle_w6_sealbook_restore_01	　沙滩鞋的魔法破解了。
+koopa_event_01	{d}{s[100]}马力欧——！{s[100]}{/d}
+koopa_event_02	啊，\n那位就是桃花公主吧！\x0e\0\x04\0是你很重要的人吧？\n趁酷霸王不在的时候\n赶快去救她吧！
+koopa_event_06	终于出现啦！\n酷霸王！\x0e\0\x04\0什么呀，\n用皇家贴纸打扮得刺亮刺亮的！\x0e\x04\x01\0\n怕，\x0e\x04\x01\0怕什么呀！\x0e\0\x04\0就是为了夺回你额头上的\n皇家贴纸，才努力到现在的！\x0e\0\x04\0快快……
+koopa_event_06_2	{d}{s[150]}还给我们啦～！！{s[100]}{/d}
+koopa_event_2_01	哎！\n皇家贴纸也和酷霸王\n一起掉下去了！
+koopa_2nd_battle_01	不愧是最后一张皇家贴纸。\n刺亮刺亮的力量太过于强大了，\n我们的贴纸完全不起作用呀。
+koopa_2nd_battle_02	马力欧。\n这样的话就使用最后的招数吧。\x0e\0\x04\0把我当作贴纸来用吧。
+koopa_2nd_battle_03	好好听着，马力欧。\x0e\0\x04\0对皇家贴纸的刺亮刺亮的力量，\n只有同样的贴纸星的\n闪耀力量才有效。\x0e\0\x04\0用你的勇气\n把我的闪耀增强几倍，\n去攻击那个酷霸王吧！\x0e\0\x04\0知道啦？\n好，那我进入收集册啦！\n如果拿到商店卖掉，我可饶不了你！
+koopa_2nd_battle_04	{c[f4f4f4]}谢谢你把我贴上去，\n马力欧。{c[000000]}
+koopa_2nd_battle_04_2	{c[f4f4f4]}把我全部的闪耀送给你。\n一定要赢啊！{c[000000]}
+koopa_2nd_battle_05	{c[f4f4f4]}现在想来，好像是一直勉强你\n陪我一起冒险的。真是抱歉。{c[000000]}
+koopa_2nd_battle_05_2	{c[f4f4f4]}不过，虽然发生了很多事情，\n还是很开心。\x0e\x04\x01\0那么，就……{c[000000]}
+koopa_2nd_battle_06	{c[f4f4f4]}再见了！{c[000000]}
+koopa_event_3_01	谢谢，马力欧。\n果然值得信赖。\x0e\0\x04\0变得怪怪的酷霸王，\n在皇家贴纸被揭下之后\n也好像恢复正常了。
+koopa_event_3_04	虽然被整得单单薄薄的，\n不过这是常有的事，\n不用担心的吧。
+koopa_event_3_02	贴纸嘉年华的夜晚，\n乘着贴纸彗星来的\n６张皇家贴纸……\x0e\0\x04\0虽说那个力量可以实现愿望，\n但是如果使用方法不对，\n也会带来灾难。
+koopa_event_3_03	啊，\n那就是皇家贴纸呀。\x0e\0\x04\0将６张全部收集到，\n应该非常不容易的吧。\x0e\0\x04\0但是，多亏你把那些都收集到了，\n所以王国的和平——\n我的愿望……\x0e\0\x04\0不，王国里所有人的愿望\n都得到了实现。
+koopa_event_3_05	那些皇家贴纸的力量，\n请用于实现你的心愿吧。\x0e\0\x04\0那，马力欧，\n许下你的心愿……
+town_epilogue.msbt
+town_feast.msbt
+honor_frag_a_01	{d}“？？？？？”\n收集所有的彗星碎片。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0％{/d}
+honor_frag_a_02	{d}“彗星修理匠”\n收集所有的彗星碎片。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0％！{/d}
+honor_frag_b_01	{d}“？？？？？”\n让秘密门全部出现。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0％{/d}
+honor_frag_b_02	{d}“门全开”\n让秘密门全部出现。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0％！{/d}
+honor_frag_c_01	{d}“？？？？？”\n收集世界上所有的贴纸。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0％{/d}
+honor_frag_c_02	{d}“名誉馆长”\n收集世界上所有的贴纸。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0％！{/d}
+honor_frag_d_01	{d}“？？？？？”\n收集所有的体力UP之心。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0％{/d}
+honor_frag_d_02	{d}“极限之心”\n收集所有的体力UP之心。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0％！{/d}
+honor_frag_e_01	{d}“？？？？？”\n在贴纸商店里使用１００００金币。\n目前为止：\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币{/d}
+honor_frag_e_02	{d}“超级购物狂”\n在贴纸商店里使用１００００金币。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币{/d}
+honor_frag_f_01	{d}“？？？？？”\n在战斗中获得５００次完美奖励。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+honor_frag_f_02	{d}“极速之星”\n在战斗中获得５００次完美奖励。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+honor_frag_g_01	{d}“？？？？？”\n在战斗中获得１０００次“好极了”攻击。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+honor_frag_g_02	{d}“好极了先生”\n在战斗中获得１０００次“好极了”攻击。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+honor_frag_h_01	{d}“？？？？？”\n在战斗摇奖中获得５０次３样一致。\n目前：\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+honor_frag_h_02	{d}“摇奖王”\n在战斗摇奖中获得５０次３样一致。\n祝贺！\x0e\x03\x02\x08\0\0\x04\0%\0D\0次{/d}
+before_staffroll_peach	王国里的各位！\x0e\0\x04\0终于在今晚，\n象征和平的\n贴纸嘉年华复活了。\x0e\0\x04\0但是，这绝不是\n因为贴纸彗星的力量。\x0e\0\x04\0\x0e\x04\x02\0是夺回皇家贴纸的   \n这位马力欧的勇气和……\x0e\0\x04\0\x0e\x04\x02\0从心底里渴望着复活，\n并竭尽全力努力了的大家的功劳。
+before_staffroll_lucie_01	{d}{s[150]}你这是在做什么～！{s[100]}{/d}
+before_staffroll_lucie_01_2	你现在\n是不是又想要碰\n贴纸彗星了！？
+before_staffroll_lucie_01_3	你有想过因为你的恶作剧，\n给大家带来了多么大的麻烦吗？
+before_staffroll_lucie_02	哎……\n多亏了马力欧的愿望，\n我得以重生了。\x0e\0\x04\0但是一想到每年贴纸嘉年华的时候\n都会这样，就感到前途堪忧。
+revival_pre_center	呜哇——！\n贴纸嘉年华的会场\n被搞得一塌糊涂。
+revival_lv0_center	那么欢快的\n贴纸嘉年华的景象\n已不复存在了……
+revival_lv1_center	贴纸嘉年华？\x0e\0\x04\0那只是一场梦。\n还是忘了吧。
+revival_lv1_material	重新这么一看，\n什么都没有了……
+revival_lv2_center	贴纸嘉年华要复活？\x0e\0\x04\0简直是……\n天方夜谭……
+revival_lv2_material	听到贴纸嘉年华要复活的消息，\n奇诺比奥就聚过来了。
+revival_lv2_stage	踌躇不定是\n解决不了问题的，\n只能做下去。
+revival_lv2_benchi	先来看一下再说，\n不知怎的，总觉得没干劲……
+revival_lv2_field	听说贴纸嘉年华要复活，\n才来看看的。是真的吗？
+revival_lv2_hasamare	等等——\n被夹住啦——
+revival_lv3_center	所以嘛，\n要贴纸嘉年华复活\n是不可能的事情……
+revival_lv3_center_2	咦！？\x0e\0\x04\0了不起！\n大家都在努力！
+revival_lv3_center_3	马力欧先生！\n我已经醒悟了！\n不会再哭了！\x0e\0\x04\0我也会为贴纸嘉年华的复活\n竭尽全力的！！
+revival_lv3_center_4	此刻，\n为了释放出这种干劲，\n正在拼命奔跑。
+revival_lv3_tower_0	最下面是最重的！\n最痛苦的。
+revival_lv3_tower_1	从下数第二个。\n我也觉得重啊！
+revival_lv3_tower_2	正中间要掌握好平衡，\n也很难的！
+revival_lv3_tower_3	我大概是比较轻松的吧。
+revival_lv3_tower_4	最上面是\n最高的，好害怕呀！
+revival_lv3_tower_5	好啦，快点递过来——
+revival_lv3_yatai	嘉年华还是要有\n小吃摊呀。
+revival_lv3_stagesode	马力欧先生\n已经找到３张皇家贴纸啦！？\x0e\0\x04\0我也不能输！\n我也要为贴纸嘉年华的复活努力！
+revival_lv3_benchi	这附近还是要有\n栅栏比较好。
+revival_lv4_benchi	跑得有点过头，累着了，\n正在休息。\n但是，干劲当然还是有的。
+revival_lv4_yatai_upper	大家好努力呀——\n我也要努力——
+revival_lv4_yatai_around	要做的事情太多了，\n不知道从哪里开始着手！
+revival_lv4_push	你也看到了，\n我现在忙得很。
+revival_lv4_kamite	舞台正在搭建中。\n还不能看噢。
+revival_lv4_lighting	这个照明灯\n再往那儿一点。
+revival_lv4_ladder_0	在上面蹦蹦跳跳的话\n是很危险的呀！
+revival_lv4_porttown	听到嘉年华复活的传闻，\n赶紧跑过来了。\n嗯，从哪儿开始帮忙呢。
+revival_lv4_stay_1	太期待贴纸嘉年华了，\n晚上根本不能入睡。\n因此白天就非常困。
+revival_lv4_walk_1	咦？\n在着急什么来着？
+revival_lv4_walk_2	虽然要做的事情非常多，\n很辛苦……\n但是很开心！
+revival_lv4_walk_3	皇家贴纸有４张了呀！\n我的情绪也跟着\n高涨起来了！
+revival_lv5_dancer_0	５！　６！　７！　８！\n再来一次！
+revival_lv5_dancer_1	彗星！彗星！\n噢——彗——星——！
+revival_lv5_dancer_2	正在练习要在嘉年华余兴派对中\n表演的彗星舞蹈。
+revival_lv5_dancer_3	仿佛变成了贴纸彗星一样！\n从夜空中——！耶！降临——！
+revival_lv5_stage	是的，这里是\n桃花公主要站的位置——
+revival_lv5_lighting	照明灯的角度也很完美！
+revival_lv5_shopman_0	好，微笑！\n欢迎光临——！
+revival_lv5_shopman_1	欢迎光临——！！
+revival_lv5_captain	好久不见！马力欧船长！\n我当然也要参加贴纸嘉年华啦！
+revival_lv5_world	世界很大。\n真没想到有这么多\n热心的奇诺比奥。
+revival_lv5_kinoD	现在不是在贴纸商店里\n吆喝的时候！
+revival_lv5_stay_0	有志者事竟成。\n幸好没有中途放弃！
+revival_lv5_stay_1	呀——贴纸嘉年华！\n好激动呀。
+revival_lv5_stay_2	哇——贴纸嘉年华！\n好紧张呀。
+revival_lv5_stay_3	功夫不负有心人，\n已经恢复到这里了。
+revival_lv5_stay_4	马力欧先生还差一步！\n最后一张皇家贴纸，\n请加油呀。
+revival_lv5_stay_5	在这里能看清楚舞台，\n所以占位子还是要捷足先登。
+revival_lv5_stay_6	听说这长椅是嘉年华当天\n给远道而来的客人提供的座位。
+revival_lv5_stay_7	不能这样袖手旁观了。
+pennant_kino_00	你好，马力欧先生。\x0e\0\x04\0在这次贴纸嘉年华会场上，\n特意准备了赞扬马力欧先生\n丰功伟绩的超级旗帜。\x0e\0\x04\0查看各个旗帜\n就可以看出\n其内容和达成度。\x0e\0\x04\0超级旗帜共有８面。\n这样可以把会场\n布置得更加华丽了！\x0e\0\x04\0为了增添\n贴纸嘉年华复活高涨的气氛，\n请您一定配合！
+pennant_kino_01	竖起更多的超级旗帜，\n增添贴纸嘉年华复活\n高涨的气氛吧！
+pennant_kino_02	啊，马力欧先生，看你这表情，\n一定是知道了贴纸嘉年华的最后\n还有游行的事情吧？\x0e\0\x04\0为了给大家一个惊喜\n一直是秘密进行的，\n但既然被发现了，那就没有办法啦。\x0e\0\x04\0怎么样？\n想看游行吗？\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0p\0e\0n\0n\0a\0n\0t\0_\0k\0i\0n\0o\0_\0y\0n\0
+pennant_kino_yn	想看\n稍后
+pennant_kino_yes	这样呀，想看是吧。\n那么先保存好现在的进度吧。
+pennant_kino_yes_2	好了，那么\n请尽情享受吧！
+pennant_kino_no	这样呀，稍后是吧。\n那么下次再见。
+town_houses.msbt
+kinoE_talk_01	就像你所见到的，我躲在这里呢。
+kinoE_talk_02	这附近的栗子小子们\n好像要翻山越岭，\n从栗子小子堡垒过来了。\x0e\0\x04\0自从贴纸嘉年华的事件发生后，\n他们总是一副要打架的样子，\n看都不敢看。
+kinoF_talk_01	好可惜啊，\n还没有到手呢。\n请以后再来吧。
+kinoF_talk_02	让您久等了。\n终于到手了噢。\n相当稀有的东西呢。
+kinoF_talk_03	花\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_yn	支付\n不付
+kinoF_talk_03_no	这样啊。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_no_last	嗯，这样啊。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\n已经快到底线了噢。\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_no_light	哎，这样啊。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何啊？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_tarinai	金币不够噢。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_tarinai_last	嗯，金币不够哟。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\n已经快到底线了噢。\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_tarinai_light	呃，金币不够噢。\n那么\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币如何？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0k\0i\0n\0o\0F\0_\0t\0a\0l\0k\0_\00\03\0_\0y\0n\0
+kinoF_talk_03_harau	好的，非常感谢。\x0e\0\x04\0那么，这个拿去。\n确实给你了噢。
+kinoF_talk_03_no_end	不能低于这个价了！\n看来这次真的是\n没什么缘分了！
+kinoF_talk_04	嗯，\n似乎没有什么金币呢。\n这些话就当没听到吧！
+kinoG_talk_01	喷泉附近的红色房子\n门总是锁着的，\n很奇怪呢。\x0e\0\x04\0里面一定有人正在\n秘密地做着什么诡异的事情。
+kinoG_talk_02	偷偷看过贴纸商店\n隔壁房子的里面，\n不知怎么的只有楼梯。\x0e\0\x04\0真的很诡异。
+kinoG_talk_03	从贴纸商店隔壁房子的\n楼梯下面，\n可以听见贴贴纸的声音。\x0e\0\x04\0果真很诡异。
+kinoH_talk_01	据说，在耀西斯芬克斯里\n沉睡着照亮黑暗的魔法宝物。\x0e\0\x04\0黑暗被照亮后，\n因为太明亮，睡也睡不着啊。
+kinoH_talk_02	据说，在沙漠墓穴遗迹里\n沉睡着神圣的棒子。\x0e\0\x04\0因为是棒子，\n所以是站着睡的吧。
+kinoJ_talk_01	发布大风警报！\n盛开花园\n正刮着极强的风！
+kinoJ_talk_02	再次发布大风警报！\n盛开花园\n又一次刮起极强的风！\x0e\0\x04\0本来应该已经停了，\n但又刮起来了！\n到底是怎么回事啊？
+kara_kino_friend_01	住在这个家里的朋友\n外出旅行了，\n所以我暂时在这里看家。
+kara_kino_friend_02	那家伙还好吧。\n现在这个时候不知在哪儿呢。
+kara_kino_friend_03	收到了外出旅行的朋友\n寄来的明信片。
+kara_kino_friend_04	感觉朋友状态正佳。\n旅行什么的，真是了不起啊。
+kara_kino_friend_05	哇！\n作为奇诺比奥的最重要的使命！\n太、太感动了！
+kara_kino_friend_06	嗯！\x0e\0\x04\0我也一直相信\n马力欧先生一定能\n帮我们救出桃花公主！\x0e\0\x04\0还有，用热情的笑脸\n迎接两位返回王国\n是作为奇诺比奥的职责！\x0e\0\x04\0我也和朋友们一样，\n找到了自己应该做的事情！\n非常感谢！
+kara_pict_01	亲爱的朋友，\n旅行充满了危险。\x0e\0\x04\0我还不小心被\n单薄的古惑仔栗子小子缠上，\n但很轻松地就打赢了。\x0e\0\x04\0而且还留下了２０金币\n请求我的原谅。\n啊，真是心情愉快。\x0e\0\x04\0我的旅行才刚刚开始。\n那么，下次再写信给你。
+kara_pict_02	亲爱的朋友，\n沙漠真的是很热，\n使人情绪高涨。哇！\x0e\0\x04\0吉他的声音也令人心情愉快，\n在海市蜃楼中摇曳的金字塔和\n斯芬克斯简直是梦幻的世界。\x0e\0\x04\0在途中，还请可怜的小朋友们\n吃了些冷饮。\n旅途中的相逢真是太棒了呢。\x0e\0\x04\0还想在这里多呆些时候，\n但是我还在旅途中。\n那么，下次再写信给你。
+kara_pict_03	亲爱的朋友，\n仔细聆听，\n可以听到森林的声音。\x0e\0\x04\0对小镇的喧嚣感到厌倦\n而外出旅行的我，\n在森林里重新审视自己，\x0e\0\x04\0明白了要身心充实地生活，\n意识到了应当充分理解\n自己所处的位置，舍弃欲望。\x0e\0\x04\0即使中毒，也只要忍忍就好了。\n这个闪闪蘑菇贴纸\n就送给别人吧。\x0e\0\x04\0探寻自我的旅行\n还将继续下去。\n下次再写信给你。
+kara_pict_04	亲爱的朋友，\n身体虽然感觉冷，\n但心却是温暖的。\x0e\0\x04\0令人愉快的游乐项目\n和娱乐活动数不胜数，\n连时间都忘了。\x0e\0\x04\0票价稍稍有些贵，\n但是让我见到了只有在那里\n才能见到的梦幻世界。\x0e\0\x04\0那么，下面就要到\n未开发之地了。将会有\n怎样的相逢在等着我呢。\x0e\0\x04\0我的旅行\n就要到最关键的时刻。\n下次再写信给你。
+kara_pict_05	亲爱的朋友，\x0e\0\x04\0在这次旅行中，我知道自己\n得到了别人许多的帮助，\n对此非常感谢。\x0e\0\x04\0并且，我意识到了……\x0e\0\x04\0对于我来说，默默地\n保护并协助支持桃花公主，\n是我最重要的使命！\x0e\0\x04\0虽然还不知道能不能赶得上\n贴纸嘉年华的复活，\n但我一定会尽快赶回去的。\x0e\0\x04\0就此搁笔。
+join_kinopio_return_house_00	马力欧先生！\n让您久等了。\x0e\0\x04\0虽然是到处都有的东西，\n但作为感谢的物品，\n还是请收下！
+join_kinopio_return_house_01	对了，\n说起迷路时思考的问题，\x0e\0\x04\0之前在那附近，\n栗子小子们在反复说着\n“救救我吧！救救我吧！”呢。\x0e\0\x04\0救救我吧？\nJiu jiu wo ba吧……\n到底是什么东西呢……\x0e\0\x04\0……哎哟，这样可不行！\n再这样思考下去\n又要迷路了呢。
+join_kinopio_return_house_02	那时候的栗子小子们\n所说的“救救我吧”\n到底是什么意思呢。\x0e\0\x04\0Jiu jiu wo ba……ba……８？\n如果再迷路的话可不行。\n所以还是安静地呆在家里思考。
+join_kinopio_return_house_03	啊，马力欧先生！\n关于之前思考的那件事，\x0e\0\x04\0我突然有了灵感！\n或许，和那个风车有关喔！\x0e\0\x04\0呀，竟然能有这么离谱的想法，\n我或许是个天才。
+luigi_kino_00	{c[000000]}初次见面，马力欧先生。\x0e\0\x04\0\x0e\x02\x06\x04\0\0\t\0{s[150]}贴纸嘉年华{c[000000]}\n酷霸王大暴乱！！\x0e\0\x04\0{s[100]}以这样的{c[000000]}标题写新闻报道，\n心情也变得灰暗了。{c[000000]}{s[150]}{c[000000]}{s[100]}{c[000000]}{c[f4f4f4]}{c[000000]}\x0e\0\x04\0其实我想写能让大家\n心跳不止的梦幻般的文章。\x0e\0\x04\0如果有这样的新闻爆出，\n无论何时我都会\n立刻飞奔去采访的{c[f4f4f4]}{c[000000]}！{c[f4f4f4]}{c[000000]}
+luigi_kino_01	\x0e\x02\x06\x04\0\0\t\0{s[150]}贴纸嘉年华\n酷霸王大暴乱！！\x0e\0\x04\0{s[100]}以这样的标题写新闻报道，\n心情也变得灰暗了。{s[150]}{s[100]}\x0e\0\x04\0其实我想写能让大家\n心跳不止的梦幻般的文章。
+newspaper_w1_first	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}栗子小子{c[f4f4f4]}堡垒里出现\n神秘的绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0作为栗子小子们的藏身处而为人\n所知的栗子小子堡垒，在其城墙上\n被目击到有神秘的绿色人物。\x0e\0\x04\0栗子小子目击者的证词：\n“总而言之全身都是绿色，\n 没错儿～，好像有点虚弱。”\x0e\0\x04\0被最弱小的栗子小子\n说是感觉虚弱的绿色人物。\x0e\0\x04\0这真的是事实吗？\n真的有绿色人物存在吗？{c[000000]}
+newspaper_w1_mid	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}栗子小子{c[f4f4f4]}堡垒里\n出现了绿色人物！{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0作为栗子小子们的藏身处而为人\n所知的栗子小子堡垒，在其城墙上\n被目击到有个神秘的绿色人物。\x0e\0\x04\0栗子小子目击者的证词：\n“总而言之全身都是绿色，\n没错儿～，好像有点虚弱。”\x0e\0\x04\0被最弱小的栗子小子\n说是感觉虚弱的绿色人物。\x0e\0\x04\0被谣传为极度怯懦的\n绿色人物为何会出现在栗子小子堡垒\n这样险恶的地方还是一个谜。{c[000000]}
+newspaper_w2_first	\x0e\x02\x06\x04\0\0\t\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}干旱竞技场里{c[f4f4f4]}\n神秘的绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0干旱竞技场里高耸入云的塔。\n追查到的消息，说是在那窗口\n可以看见神秘的绿色人物。\x0e\0\x04\0据说那个绿色人物\n听附近的嘿虎所弹奏的吉他，\n听到入迷了。\x0e\0\x04\0但是，那只是\n在闭目养神而已，\n也有这样的说法。\x0e\0\x04\0这真的是事实吗？\n真的有绿色人物存在吗？{c[000000]}
+newspaper_w2_mid	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}奇怪{c[f4f4f4]}！从窗口\n看到了绿色的脸！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0干旱竞技场里高耸入云的塔。\n追查到的消息，说是在那窗口\n可以看见神秘的绿色的脸。\x0e\0\x04\0据说那张绿色的脸\n听附近的嘿虎所弹奏的吉他，\n听到入迷了。\x0e\0\x04\0但是，那只是在闭目养神而已，\n也有这样的说法，\n真相依旧是个谜。{c[000000]}
+newspaper_w3_first	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}惊涛{c[f4f4f4]}海岸上的\n神秘的绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0在惊涛海岸的石滩上，\n被目击到有个神秘的绿色人物。\x0e\0\x04\0听说这个绿色人物把绿色的帽子\n戴得低低的，尽量避开人们的\n视线，静静地伫立在石滩上。\x0e\0\x04\0最初觉得是人鱼，\n没想到那脸上竟然长满了胡子。\x0e\0\x04\0这真的是事实吗？\n真的有绿色人物存在吗？{c[000000]}
+newspaper_w3_mid	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}惊涛{c[f4f4f4]}海岸上\n出现了绿色的人鱼！{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0那个人鱼把绿色的帽子\n戴得低低的，尽量避开人们的\n视线，静静地伫立在石滩上。\x0e\0\x04\0说到人鱼就会自然地联想到女性，\n没想到这个人鱼\n脸上竟然长满了胡子。\x0e\0\x04\0说不定和以前的绿色人物\n有一定关系。\n这个谜团深不见底。{c[000000]}
+newspaper_w4_first	\x0e\x02\x06\x04\0\0\t\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}白色山谷里的{c[f4f4f4]}\n神秘的绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03\x0e\0\x04\0{c[f4f4f4]}有目击消息说，\n神秘的绿色人物乘上了\n再度开始营业的白色山谷缆车。\x0e\0\x04\0据说，似乎不能忍受寒冷的地方，\n牙齿咯咯作响，一边凄厉地哀嚎着，\n一边哭丧着脸独自往下去了。\x0e\0\x04\0这真的是事实吗？\n真的有绿色人物存在吗？{c[000000]}
+newspaper_w4_mid	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}缆车上{c[f4f4f4]}乘坐的\n绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03\x0e\0\x04\0{c[f4f4f4]}有目击消息说，\n绿色人物乘上了\n再度开始营业的白色山谷缆车。\x0e\0\x04\0据说，似乎不能忍受寒冷的地方，\n牙齿咯咯作响，一边凄厉地哀嚎着，\n一边哭丧着脸独自往下去了。\x0e\0\x04\0如此寒冷的话，\n安安静静地呆在家里会比较好，\n他究竟要去哪儿呢。{c[000000]}
+newspaper_w5_first	\x0e\x02\x06\x04\0\0\t\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}崎岖小径上的{c[f4f4f4]}\n神秘的绿色人物！？{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0崎岖小径上鲜为人知的极佳温泉\n“天然温泉　隆隆温泉”，\n被目击到有个神秘的绿色人物。\x0e\0\x04\0不知怎的，听说他泡温泉的时候\n竟然也把帽子戴得低低的，\n那上面画着一个“Ｌ”。\x0e\0\x04\0还有消息说，离去时那张脸\n不是绿色而是红色，\n完全被汗水浸透了。\x0e\0\x04\0这真的是事实吗？\n真的有绿色人物存在吗？{c[000000]}
+newspaper_w5_mid	\x0e\x02\x06\x04\0\0\x0c\0\x0e\x04\x03\x04\0\0\0\0{c[f4f4f4]}{s[150]}神秘温泉{c[f4f4f4]}秘闻\n消失于温泉雾气的Ｌ{c[f4f4f4]}{s[100]}{c[000000]}\x0f\x04\x03{c[f4f4f4]}\x0e\0\x04\0崎岖小径上鲜为人知的极佳温泉\n“天然温泉　隆隆温泉”，\n被目击到有个绿色人物。\x0e\0\x04\0不知怎的，听说他泡温泉的时候\n竟然也把帽子戴得低低的，\n那上面画着一个“Ｌ”。\x0e\0\x04\0还有消息说，离去时那张脸\n不是绿色而是红色，\n完全被汗水浸透了。\x0e\0\x04\0隆隆温泉的温度很高，\n纸片在里面时间过久的话，\n要当心。{c[000000]}
+newspaper_sel	　要查看之前的文章吗？\x0e\x03\0*\0\0\xff\xff\0\0d\0 \0n\0e\0w\0s\0p\0a\0p\0e\0r\0_\0s\0e\0l\0_\0y\0n\0
+newspaper_sel_yn	查看\n不看
+door_02_locked	呀，关上了。
+town_other.msbt
+monoya_kino_00	你好。\x0e\0\x04\0虽然贴纸嘉年华的事情\n非常遗憾，但是也不能\n一直这样消沉下去。\x0e\0\x04\0说到此我想起了一件\n很棒的事情。\x0e\0\x04\0马力欧先生，如果在世界的\n某个地方发现了不可思议的\n“物品”，请再到这里来吧。\x0e\0\x04\0会有令人惊讶的奇迹\n在等着你呢。
+monoya_kino_01	如果在世界的某个地方\n发现了不可思议的“物品”，\n请再到这里来吧。\x0e\0\x04\0会有令人惊讶的奇迹\n在等着你呢。
+monoya_kino_02	啊，\n带着不可思议的“物品”呀！\n我一看就知道了。\x0e\0\x04\0那么，请站到那个台上。
+monoya_kino_03	那么，请把“那个”物品\n朝着前面的板\n使劲投过去吧！
+monoya_kino_04	怎么样！\n从现在开始，贴纸变成不是\n捡来的，而是做出来的物品！\x0e\0\x04\0以后只要有物品，\n随时可以在这里变成贴纸。
+monoya_kino_04_01	{s[075]}……嗯～没有物品的时候嘛，\n到那时候再商量……{s[100]}
+monoya_kino_04_02	那么今后\n也请多多关照！
+monoya_kino_05	欢迎光～临。\n请投物品吧。
+monoya_kino_06	咦，马力欧先生，\n没带物品吗？\n这样啊，这样啊。\x0e\0\x04\0哎呀——真可惜。\n不能做那么有意思的事情，\n想必很不甘心吧。
+monoya_kino_06_01	{s[075]}…………那么……那边的，\n里面的墙壁附近，\n……说不定会有点好事喔。{s[100]}
+monoya_kino_07	哎呀？不好意思，\n贴纸收集册里的\n空间好像不够呀。\x0e\0\x04\0要么用掉要么卖掉，\n总之请减少贴纸之后\n再来吧。
+monoya_kino_08	所有的物品都用光了。\n好了，开心时刻就到此为止。\n辛苦——了。
+monoya_kino_09	辛苦——了。
+monoya_kino_10	是吧！？\n怎么样，很神奇吧！\x0e\0\x04\0在这里投掷物品，\n竟然会变成贴纸。\n这个就是物品贴纸！\x0e\0\x04\0能有如此棒的体验，\n简直太幸运了，马力欧先生！
+uraya_kino_00	{s[075]}嗯。{s[100]}\x0e\0\x04\0{s[075]}我听说了。\n想要吧？\n有各种各样的。{s[100]}
+MONOSHOP_FIRST	{s[075]}嗯。{s[100]}\x0e\0\x04\0{s[075]}我听说了你的事。\n想要吧？\n有的。{s[100]}
+MONOSHOP_00	{s[075]}有的呀。{s[100]}
+MONOSHOP_01	{s[075]}选吧。{s[100]}
+MONOSHOP_02	{s[075]}卖完了。{s[100]}
+MONOSHOP_BUY_SELECT	“\x0e\x03\x01\n\x08\0i\0t\0e\0m\0”{s[075]}是吧。{s[100]}\n\x0e\x03\x02\x08\0\0\x04\0%\0D\0金币{s[075]}呀{s[100]}{s[075]}！{s[100]}\x0e\x03\0(\0\0\xff\xff\0\0d\0\x1e\0S\0H\0O\0P\0_\0S\0E\0L\0E\0C\0T\0_\0B\0U\0Y\0
+MONOSHOP_NO_COIN	{s[075]}金币不够。{s[100]}
+MONOSHOP_THANKS	{s[075]}再见。{s[100]}
+town_prologue.msbt
+start_event_01	\x0e\x04\x04\x04,\x01\0\0{d}{s[075]}起来……{s[100]}{/d}\x0e\0\x04\0\x0e\x04\x04\x04,\x01\0\0{d}起来呀！{/d}
+start_event_01_01	\x0e\x04\x04\x04\x96\0\0\0{d}别太过～分……{/d}
+start_event_01_02	\x0e\x04\x03\x04\0\0\0\0{d}{s[200]}快起来～啦！！{s[100]}{/d}\x0f\x04\x03\x0e\x01\x01\0
+start_event_02	哎，你……\n能不能过来一下？
+start_event_03	这里呀，这里。
+start_event_04	不是那里啦！
+start_event_05	快到这里来！
+start_event_06	不是那里，是这里！\n哎呀，真叫人不耐烦！
+start_event_07	别太过～分……\n到这里来！
+start_event_08	拜托……\n到我这边来……
+start_event_09	正如你所看到的，\n我被牢牢地粘住动弹不得啦。\n快点把我揭下来吧！\x0e\0\x04\0只要在我的旁边\n一直按住\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0就可以啦。\n做得到吧？\x0e\0\x04\0{d}是的，揭下来！{/d}
+start_event_09_01	终于来了。\n虽然等了一会儿……\n无所谓啦。
+start_event_09_02	咦，这么快就来啦。\n很机灵嘛。
+start_event_11	唉……\n好惨呀。\x0e\0\x04\0你，到底……
+start_event_11_02	{d}{s[150]}在做什么～！！{s[100]}{/d}
+start_event_11_01	是你吧！？\n刚才碰了贴纸彗星的！\x0e\0\x04\0绝对不能碰的，\n这是代代相传下来的规矩，\n你一定听说过的！\x0e\0\x04\0知道啦？\n承载着大家愿望的\n贴纸彗星是非常危险的！\x0e\0\x04\0用那么脏的手去胡乱碰它的话，\n那当然会爆炸的呀！\x0e\0\x04\0再加上受到刺激，\n重要的{c[000000]}皇家贴纸{c[000000]}\n也会不翼而飞的！\x0e\0\x04\0全都是你的错！\n既然这样，你要负全责！
+start_event_11_07	咦？\x0e\0\x04\0碰了贴纸彗星的是\n“{c[000000]}酷霸王”，{c[000000]}\n而你是“马力欧”……？
+start_event_11_08	{d}{s[150]}什～么～？！{s[100]}{/d}\x0e\0\x04\0把责任推在别人身上\n是一种很卑鄙的行为，\n根本不能算是纸！\x0e\0\x04\0女士正在为此困惑！\n这个时候传说中的马力欧\n会怎么做呀？
+start_event_11_09	哎呀，是吗？\n你说你会帮助我？\n谢谢！\x0e\0\x04\0那么让我作一下自我介绍噢。
+start_event_11_10	{d}我叫“智贴贴”！{/d}
+start_event_12	我是为了在贴纸嘉年华上\n实现大家的愿望，\n从很远的贴纸星过来的。\x0e\0\x04\0还有，{c[bf0000]}{c[000000]}皇家贴纸{c[bf0000]}{c[000000]}\n蕴藏着能够实现愿望的力量，\n是非常强大的贴纸。\x0e\0\x04\0作为责任人，我如果收集不全\n散落在各地的６张贴纸，\n就不能回贴纸星了！\x0e\0\x04\0因为这样，所以想让你和我结伴\n去找皇家贴纸。\x0e\0\x04\0皇家贴纸好像飞到\n小镇的外面了，\n所以先找一下小镇的出口吧！
+kinoC__peel_01	马力欧先生！\n酷霸王把我们到处乱贴一通！\x0e\0\x04\0为这种时候，\n我收藏了那个东西。\n请收下！
+kinoC__peel_02	看上去虽然比较普通，\n却是在王国里代代相传的\n有来头的锤子。\x0e\0\x04\0马力欧先生按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0b\0\x18\0\x06\0 \0 \0\n就一定会运用自如的。\n接下来就拜托了！
+kinoC__peel _03	咦，你不只是会跳，\n还会用这么厉害的东西呀。\x0e\0\x04\0对感兴趣的东西\n敲坏也好敲倒也好，\n什么都试一下吧。
+kinoC__standby__01	看上去虽然比较普通，\n却是王国里代代相传的\n有来头的锤子。在用吗？
+kinoD__peel _A_01	在这种角落，\n像是躲在隐蔽处一样\n被贴起来的我……\x0e\0\x04\0如我所料，即使被救出来也是\n第\x0e\x03\x02\x08\0\0\x04\0%\0D\0个……\n是的，总是这样子的……
+kinoD__peel _A_02	没有存在感，\n我自己也知道的——！
+kinoD__standby__01	找东西的时候\n请把房间的每一个角落\n都调查一下，不要有遗漏。\x0e\0\x04\0还没被找到的东西\n肯定会在某个角落里\n独自伤心地哭着……
+kinoE__peel _A_01	每当刮风的时候飘来飘去的，\n看上去就像被晒的\n衣服一样，好丢脸呀！\x0e\0\x04\0但是把我贴在这么高的地方，\n那家伙自己也很累吧。
+kinoE__standby__01	每当刮风的时候飘来飘去的，\n其实还有点挺好玩的感觉。
+kinoF__peel _A_01	竟然被折起来贴在这种地方，\n简直是……再怎么方方正正的\n我也会蹦出一两句脏话……
+kinoF__peel _A_02	……但是这不能让\n马力欧先生听到，\n所以在这种情况下要忍着。
+kinoF__standby__01	不经过这里，\n就去不了广场！？\n……切！\x0e\0\x04\0啊，虽然我是一个方方正正之人，\n也不禁发出啧的声音。失礼！
+rucy_talk_01	好像从“广场”那里\n可以走出小镇。
+rucy_talk_02	咦，是条路呀！\n这样就可以前进了。\n快点找到小镇的出口吧。
+kinoG__peel _02	没有弄破我的头，\n揭下贴纸的手艺\n真是太棒了！
+kinoG__standby__01	被揭下的地方有点火辣辣的。\n不能小看贴纸的粘贴力。
+rucy_seal_first_3	等等！等等！\n揭下的贴纸\n要好好捡起来！
+rucy_seal_first_4	对、对。\n因为是好东西，\n所以要好好珍惜呀。\x0e\0\x04\0对啦！我给你一本保管\n贴纸的收集册吧。
+kinoH__peel__01	我还以为能被轻轻地揭下，\n没想到要用这么大的力气。\x0e\0\x04\0我，哪儿都没有破吧？\n啊～那就好。\n得救啦。
+kinoH__standby__01	好不容易把我救了。当然不会\n说诸如“因为力气太大，\n揭下来也很疼！”之类的话。
+rucy_talk_03	嗯～，这里就是小镇……\n比想象中的还安静。\n那～，出口在哪里呢。
+rucy_talk_04	呃……\n救人固然是好的，\n但不先走出小镇吗？
+kino_bush_back_01	确实是盼望自己\n能像杂草一样顽强地活着。\x0e\0\x04\0但是我想那也不是\n现在这种样子啊。
+kino_256fold_00	{d}{s[075]}马力欧先生……就是这种感觉！{s[100]}{/d}
+kino_256fold_01	呼——啊！\n太难受了——！\x0e\0\x04\0马力欧先生是被折成了８片吧？\n我是被折成了２５６片呀！\x0e\0\x04\0也就是说我的难受度\n应该是你的３２倍。
+kino_mat_under_01	{d}\x0e\x04\x03\x04\0\0\0\0{c[000000]}{s[075]}痛呀！{s[100]}{c[000000]}\x0f\x04\x03{/d}\x0e\x01\x01\0
+kino_mat_under_02	{d}\x0e\x04\x03\x04\0\0\0\0{c[ff0000]}{s[150]}{c[000000]}痛啊——！！{c[ff0000]}{s[100]}{c[000000]}\x0f\x04\x03{/d}\x0e\x01\x01\0
+kino_mat_under_03	每天每天，\n我出去了！我回来了！\n有人在吗！欢迎你来！\x0e\0\x04\0每当这些时候都被人踩，\n一想起就毛骨悚然。宁愿变成\n别的，也不想变成入口地垫！
+kino_house_back_01	啊……马力欧先生。\x0e\0\x04\0我本来已经做好了\n在这种没有被任何人发现的情况下，\n静静地到另一个世界的心理准备了。\x0e\0\x04\0但是竟然得救了，\n那就要在这险恶的世界里\n继续活下去。\x0e\0\x04\0我会努力！
+kino_house_back_03	我要努力地活下去！\n马力欧先生也要加油呀！
+kino_closet_01	酷霸王把我们叠在一起后，\n还对齐边缘收藏在柜子里。\x0e\0\x04\0没想到酷霸王还很细心呢。\n那是我们也要学习的地方。
+kino_dustbox_01	揉成团，\n弄得皱巴巴之后，\n厌倦了再随手一扔……\x0e\0\x04\0作为纸来说没有\n比这个更感到屈辱的。\n冲个澡赶紧忘掉……
+kino_pictframe_A01	本以为躲得很好，没想到\n一下子就被看穿了了了了了。\x0e\0\x04\0咦，酷霸王不在吗？\n太好了——！\n回去吧——！！！！！
+hum_tuto_00	谁，谁呀？\n这里一个人都没有。
+hum_tuto_01	啊，马力欧先生。\n我正在这里埋伏着\n等酷霸王过来呢。\x0e\0\x04\0放马过来，酷霸王这家伙。\n什么大魔王呀，别逗了！\n我要为大家报仇！
+hum_tuto_02	咦，被彻底看到了呀！\n好不容易躲起来的，\n这样就不算埋伏了。\x0e\0\x04\0酷霸王这家伙，\n算你走运，捡了一条命。\n那马力欧先生，再会啦！
+kino_leader_00	唉哟，好厉害呀！被卷成了\n这个样子。那个叫什么酷霸王的\n家伙还是挺厉害的啊。
+kino_leader_01	看呀！\n广场被骨碌骨碌地卷起来了，\n这样是走不出小镇的。\x0e\0\x04\0虽然情况比较严峻，\n但是如果小镇上的所有奇诺比奥\n团结起来说不定可以解决呢。\x0e\0\x04\0马力欧先生，\n找出受困中的奇诺比奥们，\n救出他们吧！
+kino_leader_01_01	什么！\n这个广场里有通往外面的出口？\n那样的话真想快点让它恢复呀。\x0e\0\x04\0那，马力欧，\n救救奇诺比奥们吧。\n那么，去找找吧！
+kino_leader_02	看呀！\n广场被骨碌骨碌地卷起来了，\n这样是走不出小镇的。\x0e\0\x04\0但是，如果马力欧先生救出的\n所有奇诺比奥\n团结起来说不定可以解决呢。
+kino_leader_04_pre	多亏您，\n奇诺比奥全体到齐了！\x0e\0\x04\0真不愧是马力欧先生，\n是拯救奇诺比奥的专家呀。\n那么，马上行动吧！
+kino_leader_04	好了——，\n大家都准备好了吗！？
+kino_leader_05	OK——！！！
+kino_leader_06	好的——！推——！！
+kino_leader_07	哇——！太好了——！\n非常感谢，马力欧先生！\x0e\0\x04\0广场恢复原貌，\n可以走出小镇了！\x0e\0\x04\0这样可以去救桃花公主了。\n早去早回！
+kino_leader_08	还是人手不足……\n需要小镇的奇诺比奥\n全体人员的力量。\x0e\0\x04\0这件事就拜托您了！
+kino_leader_09	虽然聚集了小镇一半左右的\n奇诺比奥，但是力量还是不够。\x0e\0\x04\0就这样继续\n寻找奇诺比奥吧！
+kino_leader_10	聚集了好多奇诺比奥呀。\n只差一点点了！\x0e\0\x04\0看一下小镇的每个角落，\n请努力找出落下的\n奇诺比奥！
+kino_wating_hint_01	贴纸嘉年华的会场里\n已经没有人了吗？
+kino_wating_hint_02	贴纸嘉年华的会场里\n已经没有人了吗？\x0e\0\x04\0大家不一定都在看得见的地方。\n每个角落都要好好找一下。
+kino_wating_hint_03	贴纸嘉年华会场里的\n所有人都得救了吗？
+kino_wating_hint_04	贴纸嘉年华会场里的\n所有人都得救了吗？
+kino_wating_hint_14	贴纸嘉年华会场里的\n所有人都得救了吗？
+kino_wating_hint_15	锤子用得如何？\n小草之类的也可以敲倒的呀。\n知道吗？
+kino_wating_hint_16	不要把被弄得皱巴巴的\n奇诺比奥误认为是垃圾\n随便扔掉噢。
+kino_wating_hint_06	房子里的每个角落也都要调查一下，\n有可能被收在某个地方了。
+kino_wating_hint_07	锤子用得如何？\n小草之类的也可以敲倒的呀。\n知道吗？
+kino_wating_hint_08	小的东西也不要漏掉，\n小镇的边缘部分也要\n认真地看一下呀。\x0e\0\x04\0奇诺比奥也希望自己能被发现，\n也许在那里拼命地惹人注意呢。
+kino_wating_hint_10	听说在某个地方好像有\n可以躲避粗暴的酷霸王的，\n如入画中般理想的藏身之处。
+kino_wating_hint_11	锤子用得如何？\n听说也有东西\n会在敲打地面后翻面。
+kino_wating_hint_12	听说，“到后面来一下！”\n像这样被酷霸王\n叫过去的奇诺比奥也有。\x0e\0\x04\0不知道在后面没人看到的地方，\n会做些什么……\n酷霸王真可怕！
+town_square.msbt
+sealshop_npc_05	开在后面的贴纸商店，\n怎么说呢……有点觉得……\x0e\0\x04\0我店里的贴纸是正宗的\n从贴纸彗星上飘落的，\n是如假包换的真品噢！
+sealshop_npc_03	嗯……\n是用金币兑换贴纸呢。\x0e\0\x04\0这么说的话，\n我能换多少金币呢？\n全身闪耀的，不便宜喔！
+shop_kino_04	“从此以后，贴纸不是\n捡来的，而是做出来的物品！”\n这样说的人也会有吧。\x0e\0\x04\0我店里的贴纸\n是从贴纸彗星上飘落的\n正宗的真品！\x0e\0\x04\0欢迎光临！\n奇诺比奥的官方贴纸商店！
+shop_kino_05	欢迎光临！\n奇诺比奥的官方贴纸商店！
+tutorial_start_event_00	{d}站住～！{/d}
+tutorial_start_event_01	嘿嘿嘿～\n和俺们玩会儿吧？
+tutorial_start_event_02	干什么呀，这些单薄的古惑仔！\n敢找我们麻烦，胆量很大嘛。\x0e\0\x04\0好吧，用贴纸的力量\n把你们变成纸屑。\n做好心理准备吧！
+tutorial_start_event_03	那么，之后就拜托你了！\n保护柔弱的女士\n是你的责任喔！
+tutorial_start_event_04	说俺们单薄？\n敢小瞧俺们……干掉你们～！
+tutorial_event_battle_00	嘿嘿嘿～\n不要以为俺们只是\n单薄的古惑仔。\x0e\0\x04\0俺们的背后可是有\n那位酷霸王大人撑腰的！
+tutorial_event_battle_01	嗯？真怪！\n看起来只是单薄的\n古惑仔而已……\x0e\0\x04\0怎么感觉到了贴纸的力量！
+tutorial_event_battle_01_2	既然这样，我们\n也使用贴纸的力量吧！\n马力欧，快亮出贴纸！
+tutorial_event_battle_02	什么——？\n没有带！？\n这样的话要早点说噢！\x0e\0\x04\0没办法了呢。\n特别服务，把我的贴纸给你吧。
+tutorial_event_battle_03	只有这个的话，有点不够呢。\n特别服务，把我的贴纸给你吧。
+tutorial_event_battle_04	从智贴贴那儿得到了贴纸！
+tutorial_event_battle_05	首先看这里！\n选择想使用技能的贴纸，\n贴在这里！
+tutorial_event_battle_06	贴纸是通过点触下屏幕，\n或者用\x0e\x02\x02\x16\x0c\0m\0i\0c\0_\0s\0t\0\x18\0\x06\0 \0 \0移动光标，\n按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0a\0\x18\0\x06\0 \0 \0来选择的噢。\x0e\0\x04\0那么，贴纸战斗开始！！
+tutorial_event_battle_after_attack	好，干得好！\n就是这样！
+tutorial_event_battle_hp_low	快要被打败了呢……\n如果HP变为０，\n游戏就会结束噢。小心！
+tutorial_event_battle_use_kinoko	那个是让人变得有精神的\n贴纸噢。HP会回复。\n在紧要关头使用！
+tutorial_event_battle_after_event_00	甘拜下风！\n俺们确实只是\n单薄的古惑仔——！
+tutorial_event_battle_after_event_01	呼……\n因为皇家贴纸飞散出去了，\n栗子小子们也变得很奇怪。\x0e\0\x04\0在镇上的贴纸商店里\n准备好贴纸后再前进\n会比较好呢。\x0e\0\x04\0好了，那么再次\n出发去寻找皇家贴纸吧！
+lucie_after_roll	做得好！\n现在可以从那个出口\n去小镇的外面啦。\x0e\0\x04\0那么，终于要出发\n去寻找皇家贴纸了噢！\x0e\0\x04\0对了对了，以后如果\n想要听听我的话，\n按\x0e\x02\x02\x14\n\0m\0i\0c\0_\0l\0\x18\0\x06\0 \0 \0就可以对我说话了。\x0e\0\x04\0在感到困惑的时候，\n或许能给你什么建议噢。\n拜托了。
+join_kinopio_return_town_00	做得好！\n终于回到小镇了。\n非常感谢。\x0e\0\x04\0虽然微不足道，\n但有礼物想给你，\n所以请一定要来我家。\x0e\0\x04\0就是这前面并排着的３家\n正中间的那家。\n那么，我等着你噢。
+kino_leader_12	{d}{s[075]}得……{s[100]}{/d}\x0e\0\x04\0{d}{s[075]}得救了……{s[100]}{/d}
+kinoA_talk_01	奇诺比奥们结伴外出\n去暖暖平原贴纸狩猎了。\x0e\0\x04\0所谓贴纸狩猎就是指在这个季节\n去山野间收集掉落的贴纸，\n是人气休闲活动。
+kinoA_talk_02	在水畔小径有个\n有名的水畔瀑布。\x0e\0\x04\0刚才，有个奇诺比奥\n独自一人去那里散步了噢。
+kinoA_talk_03	去水畔小径散步的\n奇诺比奥还没回来。\x0e\0\x04\0不要发生被水畔瀑布的美景迷住\n以致失足落水之类的事就好。
+kinoB_talk_01	{s[075]}{d}救……{/d}\x0e\0\x04\0{s[100]}不会不会，幻听了。\n一定是心理作用……
+kinoB_talk_02	喷泉！\n没有！
+kinoB_talk_03	喷泉！\n有的！
+kinoC_talk_01	贴纸嘉年华的会场\n被酷霸王搞得乱七八糟，\n一片惨不忍睹的样子。\x0e\0\x04\0到底有多么惨不忍睹，\n请亲眼去看看吧。\n会场就在那边。
+kinoC_talk_02	收拾好被搞乱的贴纸嘉年华后，\n四周变得空空荡荡的。\x0e\0\x04\0因为太冷清了，\n就试着用贴纸装饰，但是……
+kinoC_talk_03	贴纸嘉年华\n能再举办的话就好了，\n恐怕这是很遥远的事啦。\x0e\0\x04\0贴贴纸，\n尽量让它看起来像那么回事儿，\n还是差的很远啊。
+kinoC_talk_04	让贴纸嘉年华复活的声音\n开始在四处响起。\x0e\0\x04\0但是，并不是\n那么简单的事情呢。
+kinoC_talk_05	已经看过\n贴纸嘉年华的会场了！？\n很厉害吧！
+kinoC_talk_06	如今王国的所有奇诺比奥\n都不再怀疑贴纸嘉年华的复活了！\x0e\0\x04\0当然也包括我！
+kinoC_talk_07	贴纸嘉年华的复活\n要渐渐地实现了。\x0e\0\x04\0贴纸嘉年华万岁！
+kinoD_talk_01	把贴纸作为贴花小镇的\n纪念品如何？\x0e\0\x04\0因为遭到了酷霸王的破坏，\n手头的种类还很少，\n但今后会逐渐进货的。\x0e\0\x04\0请进店内慢慢挑选。
+kinoD_talk_02	贴纸商店\n咚啪啦山分店\n也欢迎您的惠顾。
+kinoD_talk_03	贴纸商店\n眺望岬分店\n也请多多光顾。
+kinoD_talk_04	贴纸商店\n隆隆火山分店\n也请多多利用。
+kinoD_talk_05	把贴纸作为贴花小镇的\n纪念品如何？\n请进店内挑选。
+kinoD_talk_06	新的贴纸到货了！\n请进店内选购。
+kinoD_talk_07	是真的！\n在森林那边的天空里\n看到有个移动的影子。\x0e\0\x04\0那可不是像啪嗒啪嗒或是\n啪嗒栗子小子之类的小东西噢！
+kinoD_talk_08	这次在门悬崖的方向\n看到有个飞着的东西！\n是真的！\x0e\0\x04\0而且头上还坐着什么人！
+kinoI_talk_01	那边有一家新的商店开张了。\n看上去非常有意思噢！
+kinoI_talk_02	那边的新商店，\n据说能自己来制作贴纸。\n似乎非常有意思！\x0e\0\x04\0不过我还没有叫做“物品”的\n东西，所以没法制作。\n非常可惜啊！
+kinoI_talk_03	马力欧先生，你有\n非常酷的物品呢。\x0e\0\x04\0是盛开花园里的\n超棒的东西吧！\x0e\0\x04\0３枚叶片非常酷！\n把它做成贴纸的话\n会更棒吧。
+kinoI_talk_04	哇——\n那是电风扇贴纸吗？\n果然非常酷！
+kinoI_talk_05	我也想试着自己做贴纸，\n但是没有物品，好可惜！\x0e\0\x04\0如果能在什么地方\n用金币买物品就好了呢。
+kinoI_talk_06	{s[075]}……太贵了，我买不起。\n太可惜了。{s[100]}
+door_01_locked	……门开不了呀。\n似乎上了锁呢。
+kinoK_talk_01	马力欧先生，欢迎您归来！\n长途旅行真的是辛苦了呢！\x0e\0\x04\0咦？桃花公主还没回来？
+worldmap.msbt
+WM_AP_X00	贴花小镇
+WM_AP_X01	闪浪海港
+WM_AP_X02	贴花海峡
+WM_AP_A01	暖暖平原
+WM_AP_A02	盛开花园
+WM_AP_A03	水畔小径
+WM_AP_A04	这儿那儿山丘
+WM_AP_A05	咚啪啦山
+WM_AP_A06	栗子小子堡垒
+WM_AP_B01	干旱沙漠
+WM_AP_B02	耀西斯芬克斯
+WM_AP_B03	沙漠墓穴遗迹
+WM_AP_B04	润泽绿洲
+WM_AP_B05	干旱竞技场
+WM_AP_C01	落叶小径
+WM_AP_C03	迷途森林
+WM_AP_C06	花之子的巨型树屋
+WM_AP_C05	全中湖
+WM_AP_C02	环绕河
+WM_AP_C11	眺望岬
+WM_AP_C07	蜘蛛怪巢穴
+WM_AP_C04	树干小径
+WM_AP_C09	勇敢者之湖
+WM_AP_C10	树墩广场
+WM_AP_C08	百孔森林
+WM_AP_C12	惊涛海岸
+WM_AP_D01	白雪山丘
+WM_AP_D02	冰冻河流
+WM_AP_D03	神秘公馆
+WM_AP_D06	碎冰山洞
+WM_AP_D04	白色山谷
+WM_AP_D05	酷霸王雪雕堡垒
+WM_AP_E01	嘿虎丛林
+WM_AP_E02	丛林河流
+WM_AP_E03	巨大瀑布
+WM_AP_E04	汪汪遗迹
+WM_AP_E05	崎岖小径
+WM_AP_E06	隆隆火山
+WM_AP_F01	门悬崖
+WM_AP_F02	酷霸王Jr.舰队
+WM_AP_F03	空中酷霸王城堡
+join_kinopio_worldmap_00	马力欧先生，\n这里不是小镇哟。
+hana_Search01A_3_5_08	啊，\n花之子逃走啦！\x0e\0\x04\0哎呀……\n这下麻烦了呢。\n必须要去抓回来。
+hana_Search01B_3_2_06	呼……哎哟哎哟。\n好了，花之子呀，　\n回家吧。
+hana_Search04C_1_3_05	把花之子\n带回巨型树屋吧。
+jr._battle_appear_02	呀～\n逃啦～逃啦～！\x0e\0\x04\0一点都没有变强嘛！\n好丢人～！
+jr._battle_appear_04	可恶～\n你欺负我啦！\n我要去告诉爸爸！\x0e\0\x04\0现在的爸爸刺亮刺亮，\n比你们这些家伙\n要强很多很多！\x0e\0\x04\0{d}做好心理准备，闪啦～！！{/d}
+jr_battle_2nd_01	{d}{s[150]}当当当～！{s[100]}{/d}\x0e\0\x04\0好久不见啊，马力欧！\n看上去状态不错啊，不是吗？\x0e\0\x04\0哼哼……嗯嗯～\n有了更稀有的贴纸了呢。\x0e\0\x04\0可恶～\n真不甘心啊！\n交出来交出来交出来！
+jr_battle_2nd_02	啊，说起来是有\n那么爱撒娇的家伙。\x0e\0\x04\0那么，就先陪你玩玩吧。\n事先说明，\n我们比之前强很多的噢！
+jr_battle_2nd_03	逃走的胆小鬼\n又来了呢。\n嗨，把贴纸交出来～！

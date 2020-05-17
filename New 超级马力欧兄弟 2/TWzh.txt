@@ -1,0 +1,519 @@
+CoinRushCourseIn\CoinRushCourseIn_00\CoinRushCourseIn_00.msbt
+T_Mii_00_PID01	正在挑戰自己的紀錄！
+T_Mii_00_PID02	正在挑戰此紀錄！
+T_Msg_00_PID00	\x0e\x01\t\x02\0\n
+CoinRushCourseInTop\CoinRushCourseInTop_00\CoinRushCourseInTop_00.msbt
+T_CInWorld_00_PID00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+T_CInWorld_00_PID01	關卡 1
+T_CInWorld_00_PID02	關卡 2
+T_CInWorld_00_PID03	關卡 3
+T_DLC_00_PID00	\x0e\x01\x0c\x02\0@
+T_DLC_00_PID01	等級１關卡包
+T_DLC_00_PID02	等級２關卡包
+T_DLC_00_PID03	等級３關卡包
+CoinRushMiiList\CoinRushMiiList_00\CoinRushMiiList_00.msbt
+T_StartMii_00	以瑪利歐挑戰
+T_StartMii_01	以白尾瑪利歐挑戰
+T_StartMy_00	挑戰自己的紀錄
+T_MyData_00	自己的紀錄
+T_BookMark_00	我的最愛
+T_MiiChange_00	更改Mii
+T_Change_00_PID00	更改Mii
+CoinRushMiiListTop\CoinRushABtnTop_00\CoinRushABtnTop_00.msbt
+T_Challenge_00_PID00	挑戰
+T_Challenge_00_PID01	開啟
+CoinRushMiiListTop\CoinRushMiiListMiiInfoTop_00\CoinRushMiiListMiiInfoTop_00.msbt
+T_MiiName_00_PID00	\x0e\x01\t\x02\0\n
+T_MiiCourse_00_PID00	\x0e\x01\x0c\x02\0@
+T_MiiCourse_00_PID01	等級１關卡包
+T_MiiCourse_00_PID02	等級２關卡包
+T_MiiCourse_00_PID03	等級３關卡包
+T_MiiCourse_00_PID04	未持有的新增關卡包
+T_MiiName_01	-----
+T_BtnIcon_00	!
+T_Caption_00	挑戰瞬間交錯資料
+T_MyBest_00	個人最佳紀錄
+T_Message_00_PID00	無瞬間交錯資料
+T_Message_00_PID01	返回前一畫面
+CoinRushMiiListTop\CoinRushMiiListMyInfoTop_00\CoinRushMiiListMyInfoTop_00.msbt
+T_Index_00_PID00	自己的紀錄
+T_Index_00_PID01	自己的紀錄
+T_MyName_00_PID00	\x0e\x01\t\x02\0\n
+T_NoCoin_00	;----
+T_MyCourse_00_PID00	\x0e\x01\x0c\x02\0@
+T_MyCourse_00_PID01	等級１關卡包
+T_MyCourse_00_PID02	等級２關卡包
+T_MyCourse_00_PID03	等級３關卡包
+T_MyCourse_00_PID04	未持有的新增關卡包
+T_MyCourse_00_PID05	ーーーーー
+T_TortalInfo_00	瞬間交錯次數
+T_WinInfo_00	勝利次數
+T_HatenaName_00	？？？？？
+CoinRushResultTop\CoinRushResultClear1PTop_00\CoinRushResultClear1PTop_00.msbt
+T_CRText_00	遊戲過關！
+T_Text_00	;
+CoinRushResultTop\CoinRushResultClearMiiTop_00\CoinRushResultClearMiiTop_00.msbt
+T_CRText_00	遊戲過關！
+T_Win_00	得到勝利金幣！
+T_WinlCoin_00	1000
+T_MiiText_00	;
+T_MyText_00	;
+CoinRushResultTop\CoinRushResultfailureTop_00\CoinRushResultfailureTop_00.msbt
+T_Failure_00	失敗！
+CommonWindowA\CommonWindowA_00\CommonWindowA_00.msbt
+T_Menu_02_PID00	繼續遊戲
+T_Menu_03_PID00	中斷
+T_Menu_03_PID01	儲存
+T_Menu_03_PID02	退出關卡
+T_Menu_03_PID03	從頭再玩
+T_Menu_03_PID04	返回標題畫面
+T_Menu_03_PID05	退出遊戲
+T_Menu_03_PID06	退出關卡
+T_Menu_04_PID00	返回標題畫面
+T_Menu_04_PID01	退出挑戰
+T_Message4_00_PID01	要儲存嗎？
+T_Message4_00_PID02	儲存完畢。
+T_Message4_00_PID03	要「中斷」遊戲，\n返回標題畫面嗎？\n\n只有一次機會可以\n　從這裡繼續玩。
+T_Message4_00_PID04	儲存完畢。\n\n即將返回標題畫面。
+T_Message4_00_PID05	即將返回標題畫面，\n確定可以嗎？\n\n未儲存的遊戲資料將會遺失。
+T_Message4_00_PID06	即將返回地圖畫面，\n確定可以嗎？\n\n如果退出關卡，\n就會回到進入關卡前的狀態。
+T_Message4_00_PID07	即將退出通訊，\n返回標題畫面。\n確定可以嗎？\n\n未儲存的遊戲資料將會遺失。
+T_Message4_00_PID08	即將退出挑戰。\n\n這次收集的金幣將會消失，\n確定可以嗎？
+T_Message4_00_PID09	即將從頭再玩相同關卡。\n\n這次收集的金幣將會消失，\n確定可以嗎？
+T_Message4_00_PID10	用{c[ff0000]}5枚星星金幣{c[000000]}\n就可以向前進。\n要前進嗎？
+T_Message4_00_PID11	{c[ff0000]}星星金幣{c[000000]}不夠！\n要向前進，\n需要{c[ff0000]}5枚{c[000000]}{c[ff0000]}星星金幣{c[000000]}。
+T_Message4_00_PID16	用{c[ff0000]}90枚星星金幣{c[000000]}\n就可以向前進。\n要前進嗎？
+T_Message4_00_PID17	{c[ff0000]}星星金幣{c[000000]}不夠！\n要向前進，\n需要{c[ff0000]}90枚{c[000000]}{c[ff0000]}星星金幣{c[000000]}。
+T_Message4_00_PID18	用{c[ff0000]}9枚星星金幣{c[000000]}\n就可以向前進。\n要前進嗎？
+T_Message4_00_PID19	{c[ff0000]}星星金幣{c[000000]}不夠！\n要向前進，\n需要{c[ff0000]}9枚{c[000000]}{c[ff0000]}星星金幣{c[000000]}。
+T_Message4_00_PID20	瑪利歐他們的冒險到此結束。\n\n即將退出通訊，\n返回標題畫面。
+T_Message4_00_PID21	儲存完畢。\n即將返回標題畫面。\n\n在地圖畫面的暫停選單裡，\n可以隨時按「儲存」來儲存。
+T_Message4_00_PID12	即將返回選單。\n確定可以嗎？\n\n如果退出關卡，\n就會回到進入關卡前的狀態。
+T_Message4_00_PID80	儲存中……
+T_Message4_00_PID81	瑪利歐正在操作中……
+T_BtnB_00_PID00	取消
+T_BtnB_00_PID01	否
+T_BtnA_00_PID00	中斷
+T_BtnA_00_PID01	OK
+T_BtnA_00_PID02	儲存
+T_BtnA_00_PID03	是
+CommonWindowA\CommonWindowA_00\CommonWindowA_00_coinrush.msbt
+T_Menu_02_PID00	儲存紀錄
+T_Menu_02_PID01	重玩相同關卡
+T_Menu_02_PID02	再挑戰一次
+T_Menu_02_PID03	重玩
+T_Menu_03_PID00	重玩相同關卡
+T_Menu_03_PID01	返回關卡包選擇畫面
+T_Menu_03_PID02	再挑戰一次
+T_Menu_03_PID03	返回Mii清單
+T_Menu_03_PID04	重玩
+T_Menu_04_PID00	返回關卡包選擇畫面
+T_Menu_04_PID01	返回標題畫面
+T_Menu_04_PID02	返回Mii清單
+T_Menu_05_PID00	返回標題畫面
+T_Message4_00_PID00	已設為「我的最愛」！\n「我的最愛」的紀錄\n不會從清單上消失。\n\n無法挑戰的紀錄\n　不能設為「我的最愛」。
+T_Message4_00_PID01	即將退出金幣衝衝衝，\n返回標題畫面。\n\n確定可以嗎？
+T_Message4_00_PID02	內含未過關的世界，\n因此無法進行挑戰。
+T_Message4_00_PID03	尚未持有所需的新增關卡包，\n因此無法進行挑戰。
+T_Message4_00_PID05	儲存完畢。
+T_Message4_00_PID10	要在主機上登錄{c[009000]}瞬間交錯通訊{c[000000]}嗎？\n\n即使結束遊戲，\n也會自動進行{c[009000]}瞬間交錯通訊{c[000000]}。
+T_Message4_00_PID11	因為沒有可以使用的Mii，\n將以替代的Mii開始遊戲。\n新的Mii可以在Mii工作室製作。
+T_Message4_00_PID12	已在主機上登錄{c[009000]}瞬間交錯通訊{c[000000]}。
+T_Message4_00_PID13	在「家長或監護人設定的使用限制」中\n已限制使用{c[009000]}瞬間交錯通訊{c[000000]}。\n請確認主機設定。
+T_Message4_00_PID14	要開啟{c[009000]}瞬間交錯通訊{c[000000]}，\n必須同意使用協議。\n請確認主機設定。
+T_Message4_00_PID15	無法再登錄更多的\n{c[009000]}瞬間交錯通訊{c[000000]}。\n請在主機設定的\n「瞬間交錯通訊管理」中，\n退出其他軟體的\n{c[009000]}瞬間交錯通訊{c[000000]}。
+T_Message4_00_PID16	沒有登錄{c[009000]}瞬間交錯通訊{c[000000]}。\n\n{c[009000]}瞬間交錯通訊{c[000000]}可以隨時在\n金幣衝衝衝中進行登錄。
+T_Message4_00_PID17	～{c[009000]}瞬間交錯通訊{c[000000]}～\n可以交換金幣衝衝衝的紀錄。\n\n已登錄的Mii和暱稱\n將公開給通訊對象。
+T_Message4_00_PID18	～{c[6b4b1b]}金幣衝衝衝{c[000000]}～\n\n玩3個關卡，\n收集大量金幣的模式。
+T_Message4_00_PID20	未插入SD卡。\n\n即將返回金幣衝衝衝選單。
+T_Message4_00_PID21	無法辨識SD卡。\n\n即將返回金幣衝衝衝選單。
+T_Message4_00_PID22	SD卡已設定為防寫保護。\n\n即將返回金幣衝衝衝選單。
+T_Message4_00_PID23	無法辨識新增關卡包。\n請在Shop中確認。\n\n即將返回金幣衝衝衝選單。
+T_Message4_00_PID80	請稍候。\n\n請不要碰觸電源鍵。
+T_Message4_00_PID81	儲存中……
+T_Message4_00_PID82	請稍候。\n\n請不要碰觸SD卡\n或電源鍵。
+T_Message4_00_PID98	New 超級瑪利歐兄弟 2
+T_Message4_00_PID99	已接收到金幣衝衝衝的紀錄。
+T_BtnB_00_PID00	取消
+T_BtnA_00_PID00	OK
+CommonWindowA\CommonWindowA_00\CommonWindowA_00_error.msbt
+T_Message4_00_PID00	請滑動主機的無線開關，\n{c[ff0000]}開啟{c[000000]}無線通訊功能。
+T_Message4_00_PID01	發生通訊錯誤，\n即將返回標題畫面。
+T_Message4_00_PID02	通訊已被切斷，\n即將返回標題畫面。
+T_BtnA_00_PID00	OK
+CommonWindowA\CommonWindowA_00\CommonWindowA_00_multi.msbt
+T_Menu_02_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_Menu_03_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_Menu_04_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_Message4_00_PID00	請稍候。\n\n請不要碰觸SD卡\n或電源鍵。
+T_Message4_00_PID01	正在尋找瑪利歐……\n按\x0e\x08\x01\x02"\0即可返回。\n\n如果在通訊中合上主機，\n通訊將被切斷。
+T_Message4_00_PID02	正在尋找路易吉……\n按\x0e\x08\x01\x02"\0即可返回。\n\n如果在通訊中合上主機，\n通訊將被切斷。
+T_Message4_00_PID03	\x0e\x01\t\x02\0\n路易吉來玩了！
+T_Message4_00_PID04	即將退出通訊，\n返回標題畫面。\n\n確定可以嗎？
+T_Message4_00_PID05	正在等待遊戲開始……
+T_Message4_00_PID08	請稍候。\n\n請不要碰觸電源鍵。
+T_Message4_00_PID09	請稍候。\n\n請不要碰觸電源鍵。\n\n按\x0e\x08\x01\x02"\0即可返回。
+T_MessageC_00_PID01	\x0e\x01\t\x02\0\n瑪利歐不見了。
+T_MessageC_00_PID02	\x0e\x01\t\x02\0\n路易吉不見了。
+T_BtnB_00_PID00	取消
+T_BtnB_00_PID01	開始遊戲
+T_BtnA_00_PID00	OK
+CommonWindowA\CommonWindowA_00\CommonWindowA_00_shop.msbt
+T_Message4_00_PID01	Shop中可以購買能在\n金幣衝衝衝玩的新增關卡包。
+T_Message4_00_PID02	請從目錄中選擇\n想購買的新增關卡包。
+T_Message4_00_PID03	已購買的新增關卡包\n會新增到金幣衝衝衝，\n隨時都可以玩。
+T_Message4_00_PID10	使用Shop前必須同意使用協議。\n請確認主機設定。
+T_Message4_00_PID11	即將退出通訊，結束Shop。\n\n確定可以嗎？
+T_Message4_00_PID12	即將返回標題畫面。
+T_Message4_00_PID13	要將這個新增關卡包\n從SD卡上刪除嗎？\n已刪除的新增關卡包\n可以在Shop再次接收。
+T_Message4_00_PID14	刪除完畢。
+T_Message4_00_PID15	無法確認新增關卡包。\n\n即將返回金幣衝衝衝選單。
+T_Message4_00_PID16	目前無法在您所居住的地區使用。\n造成您的不便，敬請見諒。
+T_Message4_00_PID17	所選擇的商品內含\n已購買的新增關卡包。\n\n重複部分的金額無法折抵\n或退款，可以嗎？
+T_Message4_00_PID18	Shop正在維護中。\n\n請隔一段時間後再試。
+T_Message4_00_PID20	～{c[0040ff]}選擇新增關卡包{c[000000]}～\n點觸箭頭圖示\n　即捲動目錄。\n～{c[6b4b1b]}購買新增關卡包{c[000000]}～\n按「購買」\n　即進入購買流程。
+T_Message4_00_PID21	～{c[ff0000]}刪除新增關卡包{c[000000]}～\n按「刪除」\n即從SD卡上刪除新增關卡包。\n～{c[009000]}再次接收{c[000000]}{c[009000]}新增關卡包{c[000000]}～\n按「再次接收」\n即進入再次接收流程。
+T_Message4_00_PID30	已購買的新增關卡包\n可以在金幣衝衝衝的\n「單人挑戰」裡玩了！
+T_Message4_00_PID80	請稍候。\n\n請不要碰觸SD卡\n或電源鍵。
+T_BtnB_00_PID00	取消
+T_BtnA_00_PID00	OK
+T_BtnA_00_PID01	下一步
+CommonWindowA\CommonWindowA_00\CommonWindowA_00_system.msbt
+T_Message4_00_PID01	要刪除『New 超級瑪利歐兄弟 2』的\n所有儲存資料嗎？
+T_Message4_00_PID02	包含{c[009000]}瞬間交錯通訊{c[000000]}和\n{c[0040ff]}悄悄通訊{c[000000]}的登錄在內， \n所有的儲存資料都將遺失。\n\n確定可以嗎？
+T_Message4_00_PID03	儲存資料已損壞，\n即將刪除所有儲存資料。
+T_Message4_00_PID05	所有儲存資料已刪除完畢。
+T_Message4_00_PID10	歡迎來到\n『New 超級瑪利歐兄弟 2』
+T_Message4_00_PID11	～目標：100萬枚金幣～\n\n在遊戲中收集到的金幣\n將記錄成「金幣數合計」。\n以100萬枚為目標\n收集金幣吧！
+T_Message4_00_PID12	～{c[0040ff]}悄悄通訊{c[000000]}～\n\n發送並累計在遊戲收集到的金幣枚數，\n接收全世界金幣數合計的資訊和資料。\n（含瑪利歐相關廣告）
+T_Message4_00_PID20	要在主機上登錄{c[0040ff]}悄悄通訊{c[000000]}嗎？\n\n將在SD卡上製作{c[0040ff]}悄悄通訊{c[000000]}\n所使用的新增資料。
+T_Message4_00_PID31	未插入SD卡。
+T_Message4_00_PID32	無法辨識SD卡。
+T_Message4_00_PID33	插入SD卡插槽的設備無法使用。
+T_Message4_00_PID34	SD卡已設定為防寫保護。\n請解除SD卡的防寫保護開關。
+T_Message4_00_PID35	SD卡的剩餘容量不足，\n無法製作新增資料。
+T_Message4_00_PID36	SD卡處理失敗。
+T_Message4_00_PID40	已在主機上登錄{c[0040ff]}悄悄通訊{c[000000]}。\n\n已在SD卡上製作新增資料。
+T_Message4_00_PID41	已在SD卡上製作新增資料。
+T_Message4_00_PID44	{c[0040ff]}悄悄通訊{c[000000]}可以\n隨時在選項裡設定。
+T_Message4_00_PID50	要開啟{c[0040ff]}悄悄通訊{c[000000]}，\n必須同意使用協議。\n請確認主機設定。
+T_Message4_00_PID51	無{c[0040ff]}悄悄通訊{c[000000]}所使用的新增資料，\n即將在SD卡上製作。
+T_Message4_00_PID52	新增資料已損壞，\n即將在SD卡上重新製作。
+T_Message4_00_PID53	無法使用SD卡，\n即將退出{c[0040ff]}悄悄通訊{c[000000]}。
+T_Message4_00_PID54	無法辨識新增關卡包。\n請在Shop確認。
+T_Message4_00_PID60	確定要退出{c[0040ff]}悄悄通訊{c[000000]}嗎？
+T_Message4_00_PID61	已退出{c[0040ff]}悄悄通訊{c[000000]}。
+T_Message4_00_PID70	全世界收集到的金幣已超過\n\x0e\x01\x0b\x02\0\x1e枚！
+T_Message4_00_PID80	正在刪除儲存資料……
+T_Message4_00_PID81	請稍候。\n\n請不要碰觸SD卡\n或電源鍵。
+T_Message4_00_PID82	請稍候。\n\n請不要碰觸電源鍵。
+T_Message4_00_PID83	正在準備\n開始遊戲……
+T_Message4_00_PID84	1234567890-^\\qwertyuiop@[\nasdfghjkl;:]zxcvbnm,./\\*-+\n!"#$%&'()=~|QWERTYUIOP`\{\nASDFGHJKL+*}ZXCVBNM<>?_\n１２３４５６７８９０－＾￥\n！”＃＄％＆’（）＝～｜
+T_Message4_00_PID85	ｑｗｅｒｔｙｕｉｏｐ＠［\nＱＷＥＲＴＹＵＩＯＰ‘｛\nａｓｄｆｇｈｊｋｌ；：］\nＡＳＤＦＧＨＪＫＬ＋＊｝\nｚｘｃｖｂｎｍ，．／￥\nＺＸＣＶＢＮＭ＜＞？＿円説
+T_Message4_00_PID86	一右雨円王音下火花貝学気九休玉金空月犬見\n五口校左三山子四糸字耳七車手十出女小上森\n人水正生青夕石赤千川先早草足村大男竹中虫\n町天田土二日入年白八百文木本名目立力林六
+T_Message4_00_PID87	引羽雲園遠何科夏家歌画回会海絵外角楽活間\n丸岩顔汽記帰弓牛魚京強教近兄形計元言原戸\n古午後語工公広交光考行高黄合谷国黒今才細\n作算止市矢姉思紙寺自時室社弱首秋週春書少
+T_Message4_00_PID88	場色食心新親図数西声星晴切雪船線前組走多\n太体台地池知茶昼長鳥朝直通弟店点電刀冬当\n東答頭同道読内南肉馬売買麦半番父風分聞米\n歩母方北毎妹万明鳴毛門夜野友用曜来里理話
+T_Message4_00_PID89	悪安暗医委意育員院飲運泳駅央横屋温化荷開\n界階寒感漢館岸起期客究急級宮球去橋業曲局\n銀区苦具君係軽血決研県庫湖向幸港号根祭皿\n仕死使始指歯詩次事持式実写者主守取酒受州\n拾終習集住重宿所暑助昭消商章勝乗植申身神
+T_Message4_00_PID90	真深進世整昔全相送想息速族他打対待代第題\n炭短談着注柱丁帳調追定庭笛鉄転都度投豆島\n湯登等動童農波配倍箱畑発反坂板皮悲美鼻筆\n氷表秒病品負部服福物平返勉放味命面問役薬\n由油有遊予羊洋葉陽様落流旅両緑礼列練路和
+T_MessageC_00_PID00	發生錯誤。\n請先長按主機電源鍵關閉電源，\n並重新開啟電源後再試。
+T_BtnB_00_PID00	取消
+T_BtnB_00_PID01	刪除
+T_BtnA_00_PID00	取消
+T_BtnA_00_PID01	OK
+T_BtnA_00_PID02	下一步
+T_BtnA_00_PID03	退出
+ContinueWindowTop\ContinueWindowTop_00\ContinueWindowTop_00.msbt
+T_Continue_00	繼續
+T_Continue2P_00	繼續
+T_Continue2_00	繼續
+CountDownStartTop\CountDownStartTop_00\CountDownStartTop_00.msbt
+T_CountDown1_00	1
+T_CountDown2_00	2
+T_CountDown3_00	3
+T_CDStart_00	START!
+CourseClearTop\CourseClearTop_00\CourseClearTop_00.msbt
+T_DummyText_00	COURSE CLEAR!
+CourseInTop\CourseInTop_00\CourseInTop_00.msbt
+T_CInWorld_00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+CourseSelect\CourseSelect_00\CourseSelect_00.msbt
+T_Message_00_PID00	點觸來選擇想前往的世界
+T_WorldName_00	W>
+T_WorldName_01	W1
+T_WorldName_02	W2
+T_WorldName_03	W3
+T_WorldName_04	W4
+T_WorldName_05	W5
+T_WorldName_06	W6
+T_WorldName_07	W)
+T_WorldName_08	W*
+T_G_WorldName_00	W?
+T_G_WorldName_07	W?
+T_G_WorldName_08	W?
+DemoCourseSelect\DemoCourseSelect_00\DemoCourseSelect_00.msbt
+T_ButtonName_00	最初的關卡
+T_WorldName_00	W1-1
+T_ButtonName_01	尾巴瑪利歐
+T_WorldName_01	W1-3
+T_ButtonName_02	金環
+T_WorldName_02	W1-4
+T_ButtonName_03	金色瑪利歐
+T_WorldName_03	W2-1
+T_Message_00_PID00	請選擇關卡
+DemoThanks\DemoThanks_00\DemoThanks_00.msbt
+T_Thanks_00	感謝您的試玩！
+T_Text_00	體驗版到此結束。\n後續內容請在正式版中繼續享受。
+DemoTitle\DemoTitle_00\DemoTitle_00.msbt
+T_Type1J_00	跳
+T_Type1D_00	衝
+T_YBtn_00	$
+T_XBtn_00	#
+T_BBtn_00	"
+T_ABtn_00	!
+T_Info_00	操作方法
+T_Start_00	請按 $ 開始
+DemoTitleTop\DemoTitleTop_00\DemoTitleTop_00.msbt
+T_Text_00	體驗版
+EventWindowTop\EventWindowTop_00\EventWindowTop_00.msbt
+T_Message4_00_PID01	全部的{c[ffde00]}星星金幣{c[000000]}都已收集完畢！
+T_Message4_00_PID02	全部過關！
+T_Message4_00_PID03	{c[ffde00]}星星世界{c[000000]}出現了！
+T_Message4_00_PID04	全部的{c[ffde00]}月亮金幣{c[000000]}都已收集完畢！
+T_Message4_00_PID05	模式選擇畫面裡\n增加了金幣衝衝衝！
+T_Message4_00_PID06	金幣衝衝衝裡\n增加了等級２ ！
+T_Message4_00_PID07	金幣衝衝衝裡\n增加了等級３ ！
+T_Message4_00_PID08	金幣衝衝衝的等級１裡\n能玩的世界增加了！
+T_Message4_00_PID09	金幣衝衝衝的等級２裡\n能玩的世界增加了！
+T_Message4_00_PID10	金幣衝衝衝的等級３裡\n能玩的世界增加了！
+T_Message4_00_PID11	從現在起金之花\n存放在金幣衝衝衝了！
+T_Message_00_PID20	{c[bae717]}金幣合計{c[000000]}\n達到500枚了！
+T_Message_00_PID21	{c[bae717]}金幣合計{c[000000]}\n達到1000枚了！
+T_Message_00_PID22	{c[bae717]}金幣合計{c[000000]}\n達到2000枚了！
+T_Message_00_PID23	{c[bae717]}金幣合計{c[000000]}\n達到3000枚了！
+T_Message_00_PID24	{c[bae717]}金幣合計{c[000000]}\n達到5000枚了！
+T_Message_00_PID25	{c[bae717]}金幣合計{c[000000]}\n達到1萬枚了！
+T_Message_00_PID26	{c[bae717]}金幣合計{c[000000]}\n達到1萬5千枚了！
+T_Message_00_PID27	{c[bae717]}金幣合計{c[000000]}\n達到2萬枚了！
+T_Message_00_PID28	{c[bae717]}金幣合計{c[000000]}\n達到2萬5千枚了！
+T_Message_00_PID29	{c[bae717]}金幣合計{c[000000]}\n達到3萬枚了！
+T_Message_00_PID30	{c[bae717]}金幣合計{c[000000]}\n達到3萬5千枚了！
+T_Message_00_PID31	{c[bae717]}金幣合計{c[000000]}\n達到4萬枚了！
+T_Message_00_PID32	{c[bae717]}金幣合計{c[000000]}\n達到4萬5千枚了！
+T_Message_00_PID33	{c[bae717]}金幣合計{c[000000]}\n達到5萬枚了！
+T_Message_00_PID34	{c[bae717]}金幣合計{c[000000]}\n達到6萬枚了！
+T_Message_00_PID35	{c[bae717]}金幣合計{c[000000]}\n達到7萬枚了！
+T_Message_00_PID36	{c[bae717]}金幣合計{c[000000]}\n達到8萬枚了！
+T_Message_00_PID37	{c[bae717]}金幣合計{c[000000]}\n達到9萬枚了！
+T_Message_00_PID38	{c[bae717]}金幣合計{c[000000]}\n達到10萬枚了！
+T_Message_00_PID39	{c[bae717]}金幣合計{c[000000]}\n達到15萬枚了！
+T_Message_00_PID40	{c[bae717]}金幣合計{c[000000]}\n達到20萬枚了！
+T_Message_00_PID41	{c[bae717]}金幣合計{c[000000]}\n達到25萬枚了！
+T_Message_00_PID42	{c[bae717]}金幣合計{c[000000]}\n達到30萬枚了！
+T_Message_00_PID43	{c[bae717]}金幣合計{c[000000]}\n達到35萬枚了！
+T_Message_00_PID44	{c[bae717]}金幣合計{c[000000]}\n達到40萬枚了！
+T_Message_00_PID45	{c[bae717]}金幣合計{c[000000]}\n達到45萬枚了！
+T_Message_00_PID46	{c[bae717]}金幣合計{c[000000]}\n達到50萬枚了！
+T_Message_00_PID47	{c[bae717]}金幣合計{c[000000]}\n達到60萬枚了！
+T_Message_00_PID48	{c[bae717]}金幣合計{c[000000]}\n達到70萬枚了！
+T_Message_00_PID49	{c[bae717]}金幣合計{c[000000]}\n達到80萬枚了！
+T_Message_00_PID50	{c[bae717]}金幣合計{c[000000]}\n達到90萬枚了！
+T_Message_00_PID51	{c[bae717]}金幣合計{c[000000]}\n達到100萬枚了！
+T_Message_00_PID61	達到10萬枚！\n收集之路才剛開始，加油！
+T_Message_00_PID62	達到20萬枚！\n今晚也會夢到金幣！
+T_Message_00_PID63	達到30萬枚！\n還有更多金幣在等著你！
+T_Message_00_PID64	達到40萬枚！\n還差一點點就到一半了！
+T_Message_00_PID65	做得好！ 達到50萬枚！\n收集金幣，魅力無法擋！
+T_Message_00_PID66	達到60萬枚！\n收集金幣不手軟！
+T_Message_00_PID67	達到70萬枚！\n金幣收集到欲罷不能！
+T_Message_00_PID68	達到80萬枚！\n金幣！金幣！金幣！
+T_Message_00_PID69	達到90萬枚！\n金幣塔高高聳立！
+T_Message_00_PID70	厲害！100萬枚收集成功！\n送你成功的證明！
+T_Message_00_PID71	不會吧！停止累計！\n已經數不清了！
+T_Message_00_PID90	1234567890-^\\qwertyuiop@[\nasdfghjkl;:]zxcvbnm,./\\*-+\n!"#$%&'()=~|QWERTYUIOP`\{
+T_Message_00_PID91	ASDFGHJKL+*}ZXCVBNM<>?_\n１２３４５６７８９０－＾￥\n！”＃＄％＆’（）＝～｜
+T_Message_00_PID92	ｑｗｅｒｔｙｕｉｏｐ＠［\nＱＷＥＲＴＹＵＩＯＰ‘｛\nａｓｄｆｇｈｊｋｌ；：］
+T_Message_00_PID93	ＡＳＤＦＧＨＪＫＬ＋＊｝\nｚｘｃｖｂｎｍ，．／￥\nＺＸＣＶＢＮＭ＜＞？＿
+FileSelect\FileSelect_00\FileSelect_00.msbt
+T_WorldName_00_PID00	WORLD\x0e\x07\x02\x02\0\xcd
+T_NewFile_00	新遊戲
+T_WorldName_01_PID00	WORLD\x0e\x07\x02\x02\0\xcd
+T_NewFile_01	新遊戲
+T_WorldName_02_PID00	WORLD\x0e\x07\x02\x02\0\xcd
+T_NewFile_02	新遊戲
+T_Copy2_03	複製
+T_Copy_03	複製
+T_Dlete2_04	刪除
+T_Dlete_04	刪除
+T_Message_00_PID00	請選擇檔案
+T_Message_01_PID00	要複製哪一個檔案？
+T_Message_01_PID01	要複製到哪一個檔案？
+T_Message_01_PID02	要刪除哪一個檔案？
+T_WorldName_04_PID00	WORLD\x0e\x07\x02\x02\0\xcd
+T_WorldName_03_PID00	WORLD\x0e\x07\x02\x02\0\xcd
+T_Yajirushi_00_PID00	↓
+T_LeftBtn_00	取消
+T_RightBtn_00	OK
+T_MessageW_00_PID00	要複製嗎？
+T_MessageW_00_PID01	確定要刪除嗎？
+T_MessageW_01_PID00	複製中……
+T_MessageW_01_PID01	刪除中……
+T_MessageW_02_PID00	檔案複製完畢。
+T_MessageW_02_PID01	檔案刪除完畢。
+T_NewFile_03	新遊戲
+T_BtnB_05	取消
+T_BtnA_06	OK
+GameOverTop\GameOverTop_00\GameOverTop_00.msbt
+T_DummyText_00	GAME OVER
+MapSceneTop\MapSceneTop_00\MapSceneTop_00.msbt
+T_CourseNum_00_PID00	W\x0e\x06\x02\x02\0\xcd-\x0e\x06\x03\x02\x01\xcd
+T_CourseNum_00_PID01	W\x0e\x06\x02\x02\0\xcd-\x0e\x06\x03\x02\x01\xcdP
+T_CourseNum_00_PID02	W\x0e\x06\x02\x02\0\xcd-\x0e\x06\x03\x02\x01\xcdQ
+MarioSelect\MarioSelect_00\MarioSelect_00.msbt
+T_UserName_00_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_UserName_01_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_UserName_02_PID00	\x0e\x01\t\x02\0\n瑪利歐
+T_Message_00_PID00	請選譯想一起玩的瑪利歐
+NumberSelect\NumberSelect_00\NumberSelect_00.msbt
+T_Number_00	單人遊戲
+T_Number_01	雙人遊戲
+T_Number_02	金幣衝衝衝
+T_Option_00	選項
+Option\Option_00\Option_00.msbt
+T_ButtonName_00_PID00	操作方法
+T_Type1Gray_00_PID00	類型 1
+T_Type2Gray_00_PID00	類型 2
+T_Type1J_00_PID00	跳
+T_Type1D_00_PID00	衝
+T_Type1Black_00_PID00	類型 1
+T_Type2J_00_PID00	跳
+T_Type2D_00_PID00	衝
+T_Type2Black_00_PID00	類型 2
+T_YBtn_00	$
+T_XBtn_00	#
+T_BBtn_00	"
+T_ABtn_00	!
+T_ButtonName_02_PID00	悄悄通訊
+T_On_02_PID00	ON
+T_Off_02_PID00	OFF
+T_Ok_03	OK
+PackSelect\PackSelect_01\PackSelect_01.msbt
+T_Start_00	以瑪利歐挑戰
+T_Start_01	以白尾瑪利歐挑戰
+PackSelectTop\PackSelectTop_00\PackSelectTop_00.msbt
+T_TitleA_00_PID00	\x0e\x01\x0c\x02\0@
+T_TitleA_00_PID01	等級１關卡包
+T_TitleA_00_PID02	等級２關卡包
+T_TitleA_00_PID03	等級３關卡包
+T_TitleB_00_PID00	\x0e\x01\n\x02\0\x14
+T_TitleB_00_PID01	等級１關卡包
+T_TitleB_00_PID02	等級２關卡包
+T_TitleB_00_PID03	等級３關卡包
+T_DPriceText1_00_PID00	\x0e\x01\x0e\x02\0\x80
+T_DPriceText1_00_PID01	玩W1、W2和秘密世界的關卡
+T_DPriceText1_00_PID02	玩W3、W4和秘密世界的關卡
+T_DPriceText1_00_PID03	玩W5、W6和秘密世界的關卡
+T_BottomText_00	單人挑戰
+PauseTop\PauseTop_00\PauseTop_00.msbt
+T_Pause_00	PAUSE
+T_Save_00	Saving...
+T_Wait_00	Please wait...
+PlayerSelect\PlayerSelect_00\PlayerSelect_00.msbt
+T_Number_00_PID00	瑪利歐
+T_Number_01_PID00	路易吉
+T_Message_00_PID00	請選擇想使用的角色
+PlaySceneInfoMeter\PlaySceneInfoMeter_00\PlaySceneInfoMeter_00.msbt
+T_World_00_PID00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+T_ScoreText_00	得分
+T_BestCoin_00	最佳紀錄
+PlaySceneInfoMeterCoin1P\PlaySceneInfoMeterCoin1P_00\PlaySceneInfoMeterCoin1P_00.msbt
+T_World_00_PID00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+T_World_00_PID01	關卡 1
+T_World_00_PID02	關卡 2
+T_World_00_PID03	關卡 3
+PlaySceneInfoMeterCoinStreetPass\PlaySceneInfoMeterCoinStreetPass_00\PlaySceneInfoMeterCoinStreetPass_00.msbt
+T_World_00_PID00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+T_World_00_PID01	關卡 1
+T_World_00_PID02	關卡 2
+T_World_00_PID03	關卡 3
+T_RecordText_00_PID00	紀錄
+PlaySceneInfoMeter_2P\PlaySceneInfoMeter_2P_00\PlaySceneInfoMeter_2P_00.msbt
+T_World_00_PID00	WORLD \x0e\x07\0\0-\x0e\x07\x01\0
+T_ScoreText_00	得分
+T_BestCoin_00	最佳紀錄
+SaveConfirmWindow\SaveConfirmWindow_00\SaveConfirmWindow_00.msbt
+T_MyBest_00_PID00	自己的紀錄
+T_Message_00	這次的紀錄\n　將覆寫到此原有紀錄上。\n\n確定可以嗎？
+T_BtnB_00	取消
+T_BtnA_00	OK
+ShopInfo\ShopInfo_00\ShopInfo_00.msbt
+T_BtnText_00_PID00	購買
+T_BtnText_00_PID01	再次接收
+T_BtnText_00_PID02	刪除
+T_BtnText_00_PID03	ーーーー
+T_BtnText_01_PID00	購買
+T_BtnText_01_PID01	再次接收
+T_BtnText_01_PID02	刪除
+T_BtnText_01_PID03	ーーーー
+T_ShopInfo_00	Shop說明
+T_BottomInfo_00_PID00	\x0e\x01\x0b\x02\0\x1e
+T_Zandaka_00	餘額
+T_DPriceText1_00_PID00	已購買
+T_DPriceText1_00_PID01	\x0e\x01\x0b\x02\0\x1e
+T_DPriceText1_00_PID02	ーーーー
+T_DPriceText1_01_PID00	已購買
+T_DPriceText1_01_PID01	\x0e\x01\x0b\x02\0\x1e
+T_DPriceText1_01_PID02	ーーーー
+ShopTop\ShopTop_00\ShopTop_00.msbt
+T_TitleA_00_PID00	\x0e\x01\x0c\x02\0@
+T_TitleB_00_PID00	\x0e\x01\x0c\x02\0@
+T_DPStatusB1_00_PID00	所需區域
+T_DPStatusBb1_00_PID00	\x0e\x01\x04\x02\0\x05個區域
+T_DPStatusC1_00_PID00	發售日
+T_DPStatusCc1_00_PID00	\x0e\x04\x03\x02\0\x04年\x0e\x04\x01\x02\x01\x02月\x0e\x04\x01\x02\x02\x02日
+T_PackShopA_00	Shop
+T_Message_00_PID00	\x0e\x01\x0e\x02\0\x80
+T_Message_00_PID80	1234567890-^\\qwertyuiop@[\nasdfghjkl;:]zxcvbnm,./\\*-+\n!"#$%&'()=~|QWERTYUIOP`\{
+T_Message_00_PID81	ASDFGHJKL+*}ZXCVBNM<>?_\n１２３４５６７８９０－＾￥\n！”＃＄％＆’（）＝～｜
+T_Message_00_PID82	ｑｗｅｒｔｙｕｉｏｐ＠［\nＱＷＥＲＴＹＵＩＯＰ‘｛\nａｓｄｆｇｈｊｋｌ；：］
+T_Message_00_PID83	ＡＳＤＦＧＨＪＫＬ＋＊｝\nｚｘｃｖｂｎｍ，．／￥\nＺＸＣＶＢＮＭ＜＞？＿円説
+T_Message_00_PID84	一右雨円王音下火花貝学気九休玉金空月犬見\n五口校左三山子四糸字耳七車手十出女小上森
+T_Message_00_PID85	人水正生青夕石赤千川先早草足村大男竹中虫\n町天田土二日入年白八百文木本名目立力林六
+T_Message_00_PID86	引羽雲園遠何科夏家歌画回会海絵外角楽活間\n丸岩顔汽記帰弓牛魚京強教近兄形計元言原戸\n古午後語工公広交光考行高黄合谷国黒今才細
+T_Message_00_PID87	作算止市矢姉思紙寺自時室社弱首秋週春書少\n場色食心新親図数西声星晴切雪船線前組走多\n太体台地池知茶昼長鳥朝直通弟店点電刀冬当
+T_Message_00_PID88	東答頭同道読内南肉馬売買麦半番父風分聞米\n歩母方北毎妹万明鳴毛門夜野友用曜来里理話
+T_Message_00_PID90	悪安暗医委意育員院飲運泳駅央横屋温化荷開\n界階寒感漢館岸起期客究急級宮球去橋業曲局\n銀区苦具君係軽血決研県庫湖向幸港号根祭皿
+T_Message_00_PID91	仕死使始指歯詩次事持式実写者主守取酒受州\n拾終習集住重宿所暑助昭消商章勝乗植申身神\n真深進世整昔全相送想息速族他打対待代第題
+T_Message_00_PID92	炭短談着注柱丁帳調追定庭笛鉄転都度投豆島\n湯登等動童農波配倍箱畑発反坂板皮悲美鼻筆\n氷表秒病品負部服福物平返勉放味命面問役薬
+T_Message_00_PID93	由油有遊予羊洋葉陽様落流旅両緑礼列練路和
+T_New1_00_PID00	NEW!
+Surechigai\Surechigai_00\Surechigai_00.msbt
+T_Number_00_PID00	單人挑戰
+T_Number_01_PID00	挑戰瞬間交錯資料
+T_Shop_00	Shop
+T_Connect_00	瞬間交錯通訊
+SurechigaiTop\SrechigaiTop_00\SrechigaiTop_00.msbt
+T_Caption_00	金幣衝衝衝
+T_MyBest_00_PID00	自己的紀錄
+T_MyBest_00_PID01	交換中的紀錄
+T_NoMyCoin_00	;----
+T_Msg_00_PID00	可以登錄瞬間交錯通訊。\n可以透過瞬間交錯通訊來交換紀錄。
+T_Msg_00_PID01	玩隨機選出的3個關卡。\n挑戰零失誤，收集大量金幣吧！
+T_Msg_00_PID02	用交換到的瞬間交錯資料來玩，\n還可以確認已儲存的「自己的紀錄」。
+T_Msg_00_PID03	可以購買在金幣衝衝衝玩的新增關卡包，\n來玩主遊戲未收錄的關卡。
+T_Msg_00_PID04	返回標題畫面。
+T_MyCourse_00_PID00	\x0e\x01\x0c\x02\0@
+T_MyCourse_00_PID01	等級１關卡包
+T_MyCourse_00_PID02	等級２關卡包
+T_MyCourse_00_PID03	等級３關卡包
+T_MyCourse_00_PID04	未持有的新增關卡包
+T_MyCourse_00_PID05	ーーーーー
+TheEndTop\TheEndTop_00\TheEndTop_00.msbt
+T_TheEnd_00	THE END
+TotalCoin\TotalCoin_00\TotalCoin_00.msbt
+T_GetCoin_00_PID00	達到10,000枚！
+T_GetCoin_00_PID01	達到30,000枚！
+T_GetCoin_00_PID02	達到50,000枚！
+T_GetCoin_00_PID03	達到100,000枚！
+T_GetCoin_00_PID04	達到200,000枚！
+T_GetCoin_00_PID05	達到400,000枚！
+T_GetCoin_00_PID06	達到700,000枚！
+T_GetCoin_00_PID07	達到1,000,000枚！

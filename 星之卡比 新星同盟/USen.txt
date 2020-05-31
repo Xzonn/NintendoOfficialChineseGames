@@ -1,3 +1,52 @@
+Adc.msbt
+$TitleClose	Back
+$TitleContinue	Continue
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$TitleStart	New Game
+$TitleTutorial	Tutorial
+$StageClear	Cleared!
+StageName0	Dimension{s[070]} {s[100]}Ⅰ
+StageName1	Dimension{s[070]} {s[100]}Ⅱ
+StageName2	Dimension{s[070]} {s[100]}Ⅲ
+StageName3	Dimension IV
+StageName4	Final Dimension
+$HeartListHeaderText	Friend Hearts
+HeartCountEmpty	--
+$HeartListClose	Back
+DialogTutorialTitle_00	Heroes in Another Dimension
+DialogTutorialText_00	The repeated chants of Hyness have\nopened a rift in the fabric of space\nthat leads to {c[fe9a10]}another dimension{c[000000]}!
+DialogTutorialTitle_01	{c[fe9a10]}Calling all{c[000000]} Dream Friends!
+DialogTutorialText_01	An action-packed, challenging mode\nfor {c[fe9a10]}Kirby{c[000000]} and all his {c[fe9a10]}Dream Friends{c[000000]}\nset in {c[fe9a10]}another dimension{c[000000]}!
+DialogTutorialTitle_02	{c[fe9a10]}Tag in friends{c[000000]} and go for it!
+DialogTutorialText_02	Duck inside a {c[fe9a10]}Hero Door{c[000000]} to {c[fe9a10]}change{c[000000]}\nKirby's ability, or {c[fe9a10]}tag in{c[000000]} a Dream\nFriend and keep going!
+DialogTutorialTitle_03	Collect {c[fe9a10]}Friend Hearts{c[000000]}!
+DialogTutorialText_03	Your {c[fe9a10]}rank is set {c[000000]}when you defeat\nyour {c[fe9a10]}final foe{c[000000]}. Collect Friend Hearts\nto {c[fe9a10]}change the outcome{c[000000]} of the battle!
+DialogAboutContinueTitle_00	All stages now {c[fe9a10]}open{c[000000]}!
+DialogAboutContinueText_00	Using {c[fe9a10]}Continue{c[000000]} will let you {c[fe9a10]}pick the\nstage{c[000000]} you play. You can take on the\ntoughest challenges over and over!
+DialogAboutContinueTitle_01	Aim for a {c[fe9a10]}higher rank{c[000000]}!
+DialogAboutContinueText_01	Friend Hearts {c[fe9a10]}change{c[000000]} color after\nyou collect them. Look for hidden\nhearts and {c[fe9a10]}raise your rank{c[000000]}!
+DialogConditionSatisfiedTitle_00	You got {c[fe9a10]}100 {c[000000]}Friend Hearts!
+DialogConditionSatisfiedText_00	The Friend Hearts you collected are\nmaking a difference... Now, let's see\nwhat awaits in the {c[fe9a10]}final dimension{c[000000]}!
+DialogDeleteContinueData	Save data detected. Are you\nsure you want a {c[fe9a10]}New Game{c[000000]}?
+DialogDeleteHighScoreMessage	{c[fe9a10]}High score{c[000000]} data will be\n{c[fe9a10]}deleted{c[000000]}. Is this OK?
+DialogExecutivesUnlockedTitle_99	The Three Mage-Sisters!
+DialogExecutivesUnlockedText_99	Your Friend Hearts have brought\nabout a miracle. The {c[fe9a10]}Three Mage-\nSisters {c[000000]}are now Dream Friends!
+DialogExecutivesUnlockedTitle_00	Now in {c[fe9a10]}The Ultimate Choice{c[000000]}!
+DialogExecutivesUnlockedText_00	You can now {c[fe9a10]}choose{c[000000]} the Three Mage-\nSisters as Dream Friends. Put the\n{c[fe9a10]}power {c[000000]}of the {c[fe9a10]}trio{c[000000]} to work in battle!
+DialogExecutivesUnlockedTitle_01	Now in Guest Star ????
+DialogExecutivesUnlockedText_01	The Three Mage-Sisters are now\navailable in Guest Star ???? Finally,\nan {c[fe9a10]}adventure of their own{c[000000]}!
+DialogExecutivesUnlockedTitle_02	New {c[fe9a10]}celebration picture{c[000000]} added!
+DialogExecutivesUnlockedText_02	Three new {c[fe9a10]}celebration pictures{c[000000]} are\navailable now that you've gathered\nall {c[fe9a10]}Dream Friends{c[000000]}. That's {c[fe9a10]}\x0e\x03\x01\0 {c[000000]}total!
+$GameClear	Final results
+$Total	Total
+CheckpointDialog	You can start from\nhere the next time\nyou play!
+CheckpointDialogNext	Continue
+CheckpointDialogExit	Title Screen
+$TopRank	High Score
+$DataDelete	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0 to erase records.
+$New	NEW
+$GameClearRank	Rank
+$Perfect	Perfect
 Arena.msbt
 BtnBack	Back
 BtnNext	OK
@@ -12,8 +61,15 @@ DialogTutorialTitle_02	Pick a {c[fe9a10]}difficulty level{c[000000]}!
 DialogTutorialText_02	Try this challenge on any {c[fe9a10]}difficulty level{c[000000]}!\nThe {c[fe9a10]}harder {c[000000]}the level, the better your score.\nPush yourself and {c[fe9a10]}aim for victory{c[000000]}!
 DialogSpecialHelperTitle	Dream Friends Appear!
 DialogSpecialHelperText	You can now select {c[fe9a10]}Dream Friends{c[000000]}\nwhen selecting a character! Change\nthings up and {c[fe9a10]}aim for victory{c[000000]}!
-DialogAbilityAllClear01	You've selected {c[fe9a10]}all characters{c[000000]}\nand {c[fe9a10]}grasped victory {c[000000]}in the\nultimate battle!
+DialogAbilityAllClear01	You have used {c[fe9a10]}each character{c[000000]}\nand tasted {c[fe9a10]}victory{c[000000]} with all!\nYou have proven yourself as...\na true {c[fe9a10]}Ultimate Kirby Master{c[000000]}!
+DialogKirbySwitchTitle	Celebration Picture Reward!
+DialogKirbySwitchText	A {c[fe9a10]}Dream Button{c[000000]} has been added\nto the Select Mode screen. It gives\n{c[fe9a10]}Kirby the look he had {c[000000]}when he {c[fe9a10]}first\ndebuted{c[000000]} as a character!
 DialogLocked	Available after you {c[fe9a10]}clear{c[000000]}\nThe Ultimate Choice!
+DialogLockedSecret	This will be available once a\n{c[fe9a10]}certain character {c[000000]}becomes\nyour ally!
+DialogSecretExTitle_00	\x0e\x17\0\0㊤\x0f\x17\0Good Job!
+DialogSecretExText_00	Champions of another dimension...\nSelect {c[fe9a10]}Soul Melter{c[000000]} difficulty and\n{c[fe9a10]}enter these commands{c[000000]}...if you dare!
+DialogSecretExInAdcTitle_00	\x0e\x17\0\0㊤\x0f\x17\0Good Job!
+DialogSecretExInAdcText_00	Soul Melter EX now available in\nThe Ultimate Choice. Select {c[fe9a10]}Soul\nMelter {c[000000]}difficulty and {c[fe9a10]}enter these\ncommands{c[000000]}...if you dare!
 $TitleClose	Back
 $TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
 TitleStartBtn	Start
@@ -31,10 +87,12 @@ ScorePanelDifficultyText	\x0e\x03\x06\0
 $CharaSelStartBtn	Start
 LevelSelectHeader	Difficulty
 LevelSelectConfirmBtn	Start
+LevelSelectConfirmBtnEx	Good luck!
 LevelSelectConfirmText0	Consume all in {c[fe9a10]}\x0e\x03\x06\0{c[000000]}!\nBon app\xe9tit!
 LevelSelectConfirmText1	Power up and polish off\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}!
 LevelSelectConfirmText2	Give it your all! Challenge yourself with\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}!
 LevelSelectConfirmText3	It's the super-ultra-final-omega battle! Make the\nultimate choice with {c[fe9a10]}\x0e\x03\x06\0{c[000000]}!!
+LevelSelectConfirmText4	It's the TRUE Mega-Final-Ultra-Omega Battle! No\nregrets! Make the ultimate choice with {c[fe9a10]}\x0e\x03\x06\0{c[000000]}!
 $LvSelIllustPieceText	Rewards
 $LvSelLv8Text	Secret
 LvSelLvNameText	\x0e\x03\x06\0
@@ -49,6 +107,7 @@ $RecordDelete	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0: Erase Records
 ResultWinCaption0	Victory!
 ResultWinCaption1	Huge Victory!!
 ResultWinCaption2	Incredible Victory!!!
+ResultWinCaption3	Truly\nIncredible Victory!!!
 ResultWinDifficultyName	\x0e\x03\x06\0
 ResultWinClearBonus	+Clear Bonus \x0e\x03\x01\0
 ResultLoseCaption	You'll get 'em next time...
@@ -62,9 +121,12 @@ $ArenaBonusText	Time Bonus
 $ArenaStepNextBoss	Next
 ArenaStepBattleRemaining	{s[150]}\x0e\x03\x01\0 more{s[100]}
 ArenaStepBattleRemainingQuestion	{s[150]}\x0e\x03\x01\0 more?{s[100]}
+ArenaStepBattleRemainingTrueLast	{s[120]}Final Battle!{s[100]}
 ArenaStepLvName	\x0e\x03\x06\0
 $ArenaLvSelHighScore	High Score
 $LvSelBestHighScore	Best Score
+$InfoCommand	Select Soul Melter and press \x0e\x04\x17\x02\xc4\0 + \x0e\x04\0\x02\0\0 + \x0e\x04\x12\x02\x95\0
+$InfoPlayExtaMode	Play Extra
 BossClear.msbt
 DialogSpecialHelperUnlockLv1_Title	Dream Friend King Dedede
 DialogSpecialHelperUnlockLv1	You can now call on Dream\nFriend {c[fe9a10]}King Dedede{c[000000]}! Head to a\n{c[fe9a10]}Dream Palace{c[000000]}!
@@ -72,6 +134,8 @@ DialogSpecialHelperUnlockLv1DLC_Title	New Dream Friends {c[fe9a10]}added{c[00000
 DialogSpecialHelperUnlockLv1DLC	It's a dream come true! You can now call\non Dream Friends {c[fe9a10]}Adeleine & Ribbon{c[000000]},\n{c[fe9a10]}Dark Meta Knight{c[000000]}, and {c[fe9a10]}Daroach{c[000000]}!
 DialogSpecialHelperUnlockLv2_Title	Dream Friend Meta Knight
 DialogSpecialHelperUnlockLv2	You can now call on Dream Friend\n{c[fe9a10]}Meta Knight{c[000000]}! Head to the {c[fe9a10]}Dream\nPalace{c[000000]}!
+DialogSpecialHelperUnlockLv2DLC_Title	New Dream Friends {c[fe9a10]}added{c[000000]}!
+DialogSpecialHelperUnlockLv2DLC	It's another dream come true!\nYou can now call on Dream Friends\n{c[fe9a10]}Magolor{c[000000]}, {c[fe9a10]}Taranza{c[000000]}, and {c[fe9a10]}Susie{c[000000]}.
 Cmn.msbt
 DialogWindowYes	Yes
 DialogWindowNo	No
@@ -118,6 +182,7 @@ HowToWindowText3	To pair controllers, press \x0e\x04\x11\x02\x94\0 to go to the\
 SkipText	\x0e\x04\x11\x02\x94\0Skip
 $HelperRouletteNew	New
 Version	Ver. \x0e\x03\x01\0.\x0e\x03\x01\0.\x0e\x03\x01\0
+$ArenaSecretExCommand	\x0e\x04\x17\x02\xc4\0 + \x0e\x04\0\x02\0\0 + \x0e\x04\x12\x02\x95\0
 Complete.msbt
 $CompleteClear	Clear
 $CompleteText	Congratulations!
@@ -266,6 +331,8 @@ TeamSupport_02	SHIGERU HIRAYAMA
 TeamSupport_03	SHIGERU HASHIGUCHI
 PlanningSupport	PLANNING SUPPORT
 PlanningSupport_00	RYOTA YAMANAKA
+PlanningSupport_01	YUYA KOZUKA
+PlanningSupport_02	KOSUKE YAMAZAKI
 TechnicalSupport	TECHNICAL SUPPORT
 TechnicalSupport_00	YOSHIYA TANIGUCHI
 TechnicalSupport_01	TOMOKAZU TSURUOKA
@@ -326,7 +393,9 @@ SpecialThanks_16	TAKAAKI KAZUNO
 SpecialThanks_17	HIROAKI IKARASHI
 SpecialThanks_18	TADASHI KAWAI
 SpecialThanks_19	AIKO NAGAOKA
-SpecialThanks_20	JEFF MILLER
+SpecialThanks_20	MAO YAMASE
+SpecialThanks_21	AKIRA EGUCHI
+SpecialThanks_22	JEFF MILLER
 SpecialThanks_24	BARNHOUSE EFFECT Co., Ltd.
 SpecialThanks_25	GRDRIVE Inc.
 SpecialThanks_26	TA Inc.
@@ -422,6 +491,8 @@ AddScore	\x0e\x03\x01\0
 SubScore	-\x0e\x03\x01\0
 EndTextNormal	There's more!
 EndTextExtra	Thank you!
+EndTextAdc	The End?
+EndTextAdcTrueEnding	Happy Ending!
 $CreditBestScore	Best Score
 $CreditNew	NEW
 Demo.msbt
@@ -463,6 +534,7 @@ ExecutiveThunderSerif_AppearEx_01	I did not expect you to survive\nyour visit to
 ExecutiveThunderSerif_AppearEx_02	\x0e\x14\0\0{s[130]}THAT NO ONE INTERFERES!{s[100]}
 ExecutiveThunderSerif_DeadEx_00	{s[070]}Heeelp... Hy...ness...{s[100]}
 HinessName	Hyness
+HinessUltimateName	Corrupt Hyness
 HinessSerif_Appear_00_1	Juh?
 HinessSerif_Appear_00_2	What is this...interference?
 HinessSerif_Appear_01	{s[070]}You... You seem to be in my way.{s[100]}
@@ -482,6 +554,7 @@ HinessSerif_Crazy_00_1	{s[070]}Juh?{s[100]}
 HinessSerif_Crazy_00_2	JUH...
 HinessSerif_Crazy_00_3	{s[150]}JUH!{s[100]}
 HinessSerif_Crazy_01	\x0e\x14\0\0{s[150]}JUHYAMBAVITRIGOKOPOKOJAAAH!!{s[100]}\x0e\x14\x03\0
+HinessSerif_Crazy_01_Ex	\x0e\x14\0\0{s[150]}VUNMAJICIOUSEVITIRIGGAMAPOP---!{s[100]}\x0e\x14\x03\0
 HinessSerif_Dead_00	Youuuuu...\x0e\0\x04\0How could you defeat me...\nTHE Lord Hyness...
 HinessSerif_Dead_01_1	An offering to our Dark Lord...
 HinessSerif_Dead_01_2	Perhaps if there is...an offering...
@@ -490,6 +563,19 @@ HinessSerif_Dead_03	Those who harbor the greatest of magic,\nI call upon you...
 HinessSerif_Dead_04	Make it so...\nAccept my aid...\x0e\0\x04\0I pledge myself to you...\x0e\0\x04\0Dark Lord of Destruction...
 HinessSerif_Dead_05	I do this so that...\nour Dark Lord...\x0e\0\x04\0may be rebooooorn...
 HinessSerif_Dead_06	\x0e\x14\0\0{s[150]}Rise, Destroyer of Worlds...\nRISE, VOID TERMINA!!{s[100]}
+ExecutivesSerif_Appear_Thunder_00	{s[150]}Lord Hyness!{s[100]}
+ExecutivesSerif_Appear_Thunder_01	Wha—what is this?\x0e\0\x04\0I merely sought Lord Hyness, who\nwas said to have been swallowed into\nthe void.\x0e\0\x04\0And now...I find myself at the precipice\nof another dimension!
+ExecutivesSerif_Appear_Thunder_02	Wait a minute...that stubby pink ball...\nIs that you?!\x0e\0\x04\0Francisca! Flamberge! Get over here!
+ExecutivesSerif_Appear_Fire_00	Whoa...\x0e\0\x04\0{s[120]}What is this?{s[100]}\x0e\x14\0\0\x0e\0\x04\0Lord Hyness...
+ExecutivesSerif_Appear_Fire_01	Oh, it's YOU again.\x0e\0\x04\0Well, there's nothing else to say,\nbut...jamblasted.
+ExecutivesSerif_Appear_Fire_02	{s[130]}VUN JAMBLASTED!{s[100]}
+ExecutivesSerif_Appear_Ice_00	Ms. Flamberge...\nPlease calm down a little.
+ExecutivesSerif_Appear_Ice_01	Oh, look at you...\x0e\0\x04\0You're not the same Lord Hyness\nwe once knew...\x0e\0\x04\0{s[075]}Oh, but for the glorious old days when\nyou led us toward a bright future...{s[100]}
+ExecutivesSerif_Appear_Thunder_03	Francisca. Flamberge.\nThere's no time for sorrow.\x0e\0\x04\0It's time now for us to repay our debt\nto Lord Hyness.\x0e\0\x04\0But before that...you stubby little\npink ball... OH!
+ExecutivesSerif_Appear_Thunder_04	{s[130]}KIRBY!{s[100]}
+ExecutivesSerif_Appear_Thunder_05	It seems the fated time is\nhere at last.\x0e\0\x04\0We, the three Mage-Sisters, will bring\nthis battle to its end...
+ExecutivesName	The Three Mage-Sisters
+ExecutivesSerif_Appear_Sisters_00	{s[140]}ONCE AND FOR ALL!{s[100]}\x0e\x14\x03\0
 GameInfo.msbt
 AddHelperBalloonText	Make friends with\nFriend Hearts!
 ChargeInfo_DiscardAbility	Drop\nAbility
@@ -552,7 +638,7 @@ DialogTutorialTitle_02	And use {c[fe9a10]}Friend Hearts{c[000000]}!
 DialogTutorialText_02	Gain new {c[fe9a10]}friends{c[000000]} with {c[fe9a10]}Friend Hearts{c[000000]}!\nUp to {c[fe9a10]}four{c[000000]} {c[fe9a10]}players{c[000000]} can hop in with\nQuick Join. Adventure awaits!
 DialogSpecialHelperTitle	Dream Friends lead!
 DialogSpecialHelperText	{c[fe9a10]}Dream Friends{c[000000]} will now appear in\nthe {c[fe9a10]}friend selection{c[000000]}! The Dream\nFriends' {c[fe9a10]}adventure{c[000000]} has just begun!
-DialogAbilityAllClear01	You cleared it with {c[fe9a10]}all of your\nfriends{c[000000]}! Lots of friends have\nnow become {c[fe9a10]}Star Heroes{c[000000]}!
+DialogAbilityAllClear01	You've cleared this mode with\n{c[fe9a10]}all Dream Friends{c[000000]}, who are\nnow {c[fe9a10]}heroes{c[000000]} in their own right.\nYou are the {c[fe9a10]}master of friends{c[000000]}!
 CheckpointDialog	You can start from\nhere next time!
 CheckpointDialogNext	Next stage
 CheckpointDialogNextLevel	Next level
@@ -572,9 +658,10 @@ $BestTimeTotal	TOTAL
 $HelperGoBestTimeInfo	\x0e\x04\t\x02`\0 + \x0e\x04\x03\x02\x03\0: Erase Records
 BestTimeCaption	Best Time
 BestTimeLevelNum	Level \x0e\x03\x01\0
-DialogDeleteHighScoreMessage	This will {c[fe9a10]}erase{c[000000]} the best time\nfor {c[fe9a10]}\x0e\x03\x05\0{c[000000]}.\nIs this okay?
-DialogDeleteContinueData	{c[fe9a10]}\x0e\x03\x05\0 {c[000000]}save data\nalready exists. Do you want to\n{c[fe9a10]}start over{c[000000]}?
+DialogDeleteHighScoreMessage	This will {c[fe9a10]}erase{c[000000]} the best time\nfor {c[fe9a10]}\x0e\x03\t\0{c[000000]}.\nIs this okay?
+DialogDeleteContinueData	\x0e\x03\x0d\0The \x0f\x03\x0d{c[fe9a10]}\x0e\x03\t\0 {c[000000]}save data\nalready exists. Do you want to\n{c[fe9a10]}start over{c[000000]}?
 DialogLocked	Available after you\n{c[fe9a10]}clear{c[000000]} Guest Star ????
+DialogLockedSecret	You'll need to befriend this\n{c[fe9a10]}character {c[000000]}before proceeding...
 DialogAboutContinue	You can now{c[fe9a10]} create save data\n{c[000000]}for all Dream Friends.\n{c[fe9a10]}Swap out {c[000000]}your friends as\nyou continue your adventure!
 BestTimeClose	Back
 CharaSelClose	Back
@@ -619,6 +706,10 @@ Marx	Galactic Ambition
 Adeleine	Artful Adventurers
 DarkMetaknight	From the Shadows
 Daroach	Enter the Space Thieves
+Mahoroa	Best Friends Forever
+Taranza	To Meet That Flower
+Susie	Extermination By Blaster㊤
+Executives	From Prayers to Hope
 Illust.msbt
 $IllustHeader	Gallery
 $ViewBtn	Zoom
@@ -638,6 +729,12 @@ Title09	Crazy Mischief in the Stars
 Title10	Chasing Our Dreams
 Title11	Friends' Getaway
 Title12	Shadowy Partners
+Title13	The Shape of a Heart
+Title14	Rockabilly And Blues
+Title15	Break Time Breakdown
+Title16	Let Them Know We're Happy
+Title17	Bad Boss Brothers
+Title18	A Farewell to Kirby
 $ViewClose	\x0e\x04\x01\x02\x01\0 Close
 $ViewBtnA	\x0e\x04\0\x02\0\0
 GalleryDialogNoSheetUnlocked	You don't have any {c[fe9a10]}Picture\nPieces{c[000000]} yet. Collect them by\ncompleting stages!
@@ -656,6 +753,12 @@ Author09	R.F. (HAL Laboratory, Inc.)
 Author10	H.M. (HAL Laboratory, Inc.)
 Author11	T.K. (HAL Laboratory, Inc.)
 Author12	S.O. (HAL Laboratory, Inc.)
+Author13	K.K. (HAL Laboratory, Inc.)
+Author14	M.Y. (HAL Laboratory, Inc.)
+Author15	S.K. (HAL Laboratory, Inc.)
+Author16	T.F. (HAL Laboratory, Inc.)
+Author17	A.K. (HAL Laboratory, Inc.)
+Author18	S.K. (HAL Laboratory, Inc.)
 Movie.msbt
 Nfp.msbt
 InvalidTiming	You cannot use amiibo now.
@@ -729,13 +832,14 @@ HeaderAbilityTwinkleStarAllies	Star Allies Sparkler \x0e\x03\x01\0
 HeaderAbilityLastCloseContest	Star Allies Sparkler \x0e\x03\x01\0
 HeaderAbilityNormal	Using Kirby \x0e\x03\x01\0
 HeaderAbilityInWater	Swimming Controls
-HeaderAbilityFriend	{s[080]}\x0e\x03\x05\0's\nFriend Abilities{s[100]}
+HeaderAbilityFriend	{s[080]}\x0e\x03\x05\0'\x0e\x03\n\0s\x0f\x03\n\nFriend Abilities{s[100]}
 HeaderFriendCoop	Controlling Friends
 HeaderKeyConfig	Basic Controls
 HeaderController	Control Options
 DialogWindowExitStage	Any big switches you hit and\nPicture Pieces you got {c[fe9a10]}won't\nbe saved{c[000000]}. Do you want to\nleave the stage anyway?
 DialogWindowExitWorld	Do you want to return to the\nSelect World screen?
 DialogWindowExitScoreGame	{c[fe9a10]}Quit the game{c[000000]} and return\nto the title screen?
+DialogWindowExitStageAdc	Any Friend Hearts or Picture\nPieces you collected {c[fe9a10]}won't be\nsaved{c[000000]}. Do you want to leave\nthe stage anyway?
 DialogWindowAmiiboDisabled	You can use amiibo only\nin specific stages.
 CloseInfoText	Close
 KeyConfigTypeA	Type A
@@ -747,6 +851,7 @@ BtnExitWorld	Select World
 BtnExitScoreGame	Title Screen
 BtnExitStage	Exit Stage
 BtnTime	View Time
+BtnHeartList	View hearts
 HelperGoStageName	Guest Star ???? Level \x0e\x03\x01\0
 ArenaStageName	\x0e\x03\x06\0
 Lv5StageName	Kirby Star Allies
@@ -797,8 +902,8 @@ TipsMuseumGeneral_Title	About the {c[fe9a10]}Dream Palace{c[000000]}:
 TipsMuseumGeneral_Text	Grab the {c[fe9a10]}Dream Rod{c[000000]} to summon\n{c[fe9a10]}special friends{c[000000]}!
 TipsMuseumRepeat_Title	Entering the {c[fe9a10]}Dream Palace{c[000000]} again:
 TipsMuseumRepeat_Text	You can re-enter the palace only\nafter you {c[fe9a10]}clear{c[000000]} a stage.
-TipsMuseumHelper2_Title	Dream Friends {c[fe9a10]}join the fun{c[000000]}!
-TipsMuseumHelper2_Text	Dream Friends will be added in a free\nupdate. It's a {c[fe9a10]}dream come true{c[000000]}!
+TipsMuseumHelper2_Title	A new adventure with {c[fe9a10]}Dream Friends{c[000000]}!
+TipsMuseumHelper2_Text	Former {c[fe9a10]}allies{c[000000]} and {c[fe9a10]}rivals{c[000000]} return as friends.\nEmbark on the adventure of your {c[fe9a10]}dreams{c[000000]}\nwith characters from the Kirby series!
 TipsBossFriendCopy_Title	Use Friend Abilities to power up!
 TipsBossFriendCopy_Text	When you use Friend Abilities, your {c[fe9a10]}attack\npower{c[000000]} will {c[fe9a10]}increase{c[000000]}. Take full advantage!
 TipsBossHP_Title	{c[fe9a10]}Don't give up{c[000000]} if you're defeated!
@@ -917,12 +1022,12 @@ SwitchBigExStageTitleText	{c[fe9a10]}Extra Stage{c[000000]} Open!
 SwitchBigExStageBodyText	You pushed the big switch that\nopens an {c[fe9a10]}Extra Stage{c[000000]} on the\n{c[fe9a10]}World Map{c[000000]}!
 HelperClearTitleText	Select a friend to say {c[fe9a10]}good-bye{c[000000]} to.
 HelperClearTitleHelperText	You said good-bye to {c[fe9a10]}friend P\x0e\x03\x01\0{c[000000]}.
-HelperClearTitleSpecialText	Please select the friend to replace\nwith {c[fe9a10]}\x0e\x03\x05\0{c[000000]}.
+HelperClearTitleSpecialText	Please select the friend to replace\nwith {c[fe9a10]}\x0e\x03\t\0{c[000000]}.
 HelperClearCancelText	Quit
 HelperClearCancelSpecialText	Cancel
 $ReviveHelp	Help!
 ReviveCountdownText	Save Kirby!
-ReviveCountdown_HelperText	Save P1 \x0e\x03\x05\0!
+ReviveCountdown_HelperText	Save P1 \x0e\x03\t\0!
 HeroPanelTwinkleStarName	Friend Star
 HeroPanelTwinkleStarAlliesName	Star Allies\nSparkler
 FriendHeartDemoTitle	About Friend Hearts
@@ -1053,6 +1158,8 @@ KibidangoDemo	A Friend Heart Appears!
 EndingDemo	Star Allies: Return from Afar
 CreditNormal	Kirby's Curtain Call
 CreditExtra	Friends' Curtain Call
+CreditAdc	The Happiest (?) Curtain Call
+CreditAdcTrueEnding	The Happiest Curtain Call
 $TheaterNew	NEW
 TitleMenu.msbt
 $TitleMenuNoticeBtn	Info
@@ -1067,13 +1174,18 @@ UnlockHelperGo	Go on a friend adventure!\n{c[fe9a10]}Guest Star ???? Star Allies
 UnlockArenaLv1	How much can you take? Find\nout in {c[fe9a10]}The Ultimate Choice{c[000000]}.\nIt's now unlocked!
 UnlockArenaLv2	The {c[fe9a10]}Fiery Showdown{c[000000]} and\n{c[fe9a10]}Infernal Crisis{c[000000]} difficulties\nare now unlocked in\nThe Ultimate Choice!
 UnlockArenaLv3	Only the truly chosen dare make\nthis choice... The {c[fe9a10]}Soul Melter\n{c[000000]}difficulty is now unlocked!
+UnlockAdc	Collect hearts to change the\noutcome! Calling all Dream\nFriends—{c[fe9a10]}Heroes in Another\nDimension {c[000000]}is now available!
 $TitleMenuHeaderPercent	%
 $TitleMenuHowToBtn	Play Together!
 $PressStartBtn	PRESS \x0e\x04\0\x02\0\0
 $TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
 $FileSelectPercent	%
 DialogWindowNoticeTitle_00	More {c[fe9a10]}Dream Friends{c[000000]}!
-DialogWindowNoticeText_00	There are now {c[fe9a10]}\x0e\x03\x01\0{c[000000]} Dream Friends!\nUse them all as {c[fe9a10]}allies{c[000000]}!
+DialogWindowNoticeText_00	There are now {c[fe9a10]}\x0e\x03\x01\0{c[000000]} Dream Friends!\nWow! You can use them all as {c[fe9a10]}allies{c[000000]}!
+DialogWindowNoticeTitle_05	More {c[fe9a10]}Dream Friends{c[000000]}!
+DialogWindowNoticeText_05	There are now {c[fe9a10]}\x0e\x03\x01\0{c[000000]} Dream Friends!\nWow! You can use them all as {c[fe9a10]}allies{c[000000]}!
+DialogWindowNoticeTitle_06	Dream Friends {c[fe9a10]}Three Mage-Sisters{c[000000]}!
+DialogWindowNoticeText_06	The {c[fe9a10]}Three Mage-Sisters{c[000000]} are now\navailable as Dream Friends! That\nmakes {c[fe9a10]}\x0e\x03\x01\0 {c[000000]}total. Whoa!
 DialogWindowNoticeTitle_01	Find them at the {c[fe9a10]}Dream Palace{c[000000]}!
 DialogWindowNoticeText_01	You can call on Dream Friends at\nthe {c[fe9a10]}Dream Palace{c[000000]} in {c[fe9a10]}Story Mode{c[000000]}.\nMake your {c[fe9a10]}dream team{c[000000]}!
 DialogWindowNoticeTitle_02	Play {c[fe9a10]}The Ultimate Choice{c[000000]}!
@@ -1092,8 +1204,11 @@ DialogBottom_Gooey	{c[fe9a10]}Gooey{c[000000]} from {c[fe9a10]}Kirby's Dream Lan
 DialogBottom_Adeleine	{c[fe9a10]}Adeleine & Ribbon{c[000000]} from {c[fe9a10]}Kirby 64: The Crystal\nShards {c[000000]}are back! Ready your paintbrushes!
 DialogBottom_DarkMetaknight	{c[fe9a10]}Dark Meta Knight{c[000000]} from {c[fe9a10]}Kirby & The Amazing\nMirror{c[000000]} has appeared. How mysterious!
 DialogBottom_Daroach	{c[fe9a10]}Daroach {c[000000]}from {c[fe9a10]}Kirby: Squeak Squad{c[000000]} has\nsneaked in! Hide your treasure!
-DialogWindowUpdateTitle	New {c[fe9a10]}update{c[000000]} available! 
-DialogWindowUpdateText	Kirby Star Allies has been {c[fe9a10]}updated{c[000000]}!\nCheck out all the {c[fe9a10]}new content{c[000000]}!
+DialogWindowUpdateTitle	{c[fe9a10]}3rd Free Update{c[000000]} available!
+DialogWindowUpdateText	Another {c[fe9a10]}free update{c[000000]} is here for\nKirby Star Allies! Adventure with\nnew Dream Friends and take on\na {c[fe9a10]}challenging new mode{c[000000]}!
+DialogBottom_Mahoroa	{c[fe9a10]}Magolor{c[000000]} from {c[fe9a10]}Kirby's Return to Dream Land\n{c[000000]}is here! Is he your ally, or is he...all lies?
+DialogBottom_Taranza	{c[fe9a10]}Taranza{c[000000]} makes a dazzling descent from\nthe world of {c[fe9a10]}Kirby: Triple Deluxe{c[000000]}!
+DialogBottom_Susie	Say hello to {c[fe9a10]}Susie{c[000000]}, reporting to work from\n{c[fe9a10]}Kirby: Planet Robobot{c[000000]}! Science is her weapon!
 WMap.msbt
 ToWMapSelect	Back
 DialogWindowExit	Do you want to return to the\nSelect World screen?
@@ -1188,6 +1303,8 @@ D7	Infernal Crisis
 LowerD7	infernal crisis
 Secret	Soul Melter
 LowerSecret	soul melter
+SecretEx	Soul Melter EX
+LowerSecretEx	soul melter ex
 Name\BossName.msbt
 BossNameBonkers	Bonkers
 BossNameGiantironmom	Grand Mam
@@ -1244,6 +1361,27 @@ BossNameGalacticKnight	Galacta Knight
 BossTitleGalacticKnight	Temporal Warrior
 BossNameSecretHades	Morpho Knight
 BossTitleSecretHades	Reborn Butterfly
+BossNameWhispywoodsUltimate	Parallel Woods
+BossTitleWhispywoodsUltimate	Otherworldly Arbor
+BossNameKingdededeUltimate	Parallel Dedede
+BossTitleKingdededeUltimate	Otherworldly Dark Liege
+BossNameMetaKnightUltimate	Parallel Meta Knight
+BossTitleMetaKnightUltimate	Otherworldly Frost Blade
+BossNameKrackoUltimate	Parallel Big Kracko
+BossTitleKrackoUltimate	Unearthly Thunderhead
+BossNameTwinKrackoUltimate	Parallel Twin Kracko
+BossTitleTwinKrackoUltimate	Unearthly Storm Front
+BossNameExecutiveUltimate	The Three Mage-Sisters
+BossNameExecutiveUltimateShort	Three Mage-Sisters
+BossTitleExecutiveUltimate	Repentant Retaliators
+BossNameHinessUltimate	Corrupt Hyness
+BossTitleHinessUltimate	Fell Officiant
+BossNameSecretHadesUltimate	Morpho Knight EX
+BossTitleSecretHadesUltimate	Dark-Winged Disaster
+BossNameLastBossColossusUltimate	Void Termina
+BossTitleLastBossColossusUltimate	The True Destroyer of Worlds
+BossNameLastBossUltimate	Void
+BossTitleLastBossUltimate	Astral Birth
 Name\CharaName.msbt
 CharaKirby	Kirby
 CharaWester	Wester
@@ -1279,6 +1417,11 @@ CharaMarx	Marx
 CharaAdeleine	Adeleine & Ribbon
 CharaDarkMetaknight	Dark Meta Knight
 CharaDaroach	Daroach
+CharaMahoroa	Magolor
+CharaTaranza	Taranza
+CharaSusie	Susie
+CharaExecutives	The Three Mage-Sisters
+CharaExecutivesShort	Three Mage-Sisters
 Name\FriendCopy.msbt
 SwordFlame	Sizzle Sword
 SwordFreeze	Blizzard Sword
@@ -1357,6 +1500,12 @@ MarxThunder	Zap Marx
 MarxAqua	Splash Marx
 MarxWind	Bluster Marx
 AdeleineMulti	Al Fresco
+MagolorThrow	Magoloran Launch
+SusieFlame	Sizzle Susie
+SusieFreeze	Blizzard Susie
+SusieThunder	Zap Susie
+SusieAqua	Splash Susie
+SusieWind	Bluster Susie
 Name\StageName.msbt
 L1S1	Green Gardens
 L1S2	Donut Dome
@@ -1451,6 +1600,12 @@ Marx	The famous jester from Kirby Super\nStar has finally arrived to get in\non 
 Adeleine	The wait is over! This clever artist and her\nfairy companion from Kirby 64: The Crystal\nShards are back on Planet Popstar! They\nmay not be the galaxy's most powerful\nduo, but their perilous paintings and shiny\ncrystals are nothing to scoff at.
 DarkMetaknight	This shadowy figure makes a bold return\nfrom the land of The Amazing Mirror!\nPerhaps he was drawn by the dark hearts,\nbut while his motivations may be shady,\nhe'll sure make a mighty ally. The power of\nthe shadow can pierce through any light!
 Daroach	The illustrious thief from Kirby: Squeak\nSquad is back, and there's nothing\nhe can't—or won't—steal! If making\nfriends is all it takes to find some\ntreasure, this purloiner is happy to tag\nalong with the Squeak Squad in tow!
+Mahoroa	This charming rogue magician arrives from\nKirby's Return to Dream Land with a wink\nand something up his sleeve. But he's\nyour Dream Friend, and he's more than\nwilling to help you conquer the galaxy.
+Taranza	This clumsy smarty-pants stumbled his\nway here from the heights of Kirby: Triple\nDeluxe. He's a lonely insect on a journey\nin search of a queen, and he's one of\nyour new Dream Friends!
+Susie	The exterminator will see you now! No\nmere secretary, Susie from Kirby: Planet\nRobobot is capable of corporate\nrestructuring. She's all business with\nher Business Suit on, so schedule a\nmeeting and see what she can do!
+ExecutivesFreeze	Bonjam. Can it be? Frosty Francisca from\nKirby Star Allies is your new ally?!\nIndeed, this cool character is known for\nswiftly encasing her enemies in ice and\nkeeping them as trophies. Looks like her\ncollection is about to get even bigger...
+ExecutivesFlame	BONJAM! No way! The fiery mage sister\nFlamberge from Kirby Star Allies has\njoined the fight as one of your Dream\nFriends! She's known for accidentally\nroasting Francisca's frozen foes, but now\nyou can put her fire to work for you.
+ExecutivesThunder	Never forget her name! Not that you could\nwith a name like Zan Partizanne... The\neldest mage-sister will lend her lightning\nto your cause, because she's loyal and\nshe always repays her debts. But just\nthis once. You got that, puffball?!
 FriendsStar	When friends combine their power, a sparkling,\nfluttering star appears! Now everyone can\nshoot stars that fly across the land and sky.\nTake turns using it with \x0e\x07\x02\x02\x02\0, and have\nthe friend in front shoot the weak spot.
 FriendsRolling	When friends combine their power, they can\nform a ring! This big hoop rolls down slopes,\npicking up items, and if you hold the jump\nbutton, the hoop will spring high—BOING!\nIt's a great way to avoid gaps.
 FriendsBridge	When friends combine their power, a\nfriendship bridge appears! The key to\nsolving certain puzzles is moving \x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0\nto adjust the route. This bridge might\neven help you guide you-know-who!
@@ -1523,6 +1678,40 @@ TextLastBossEx4	{s[090]}No telling if it's true, but according to the ancient sc
 TitleGalacticKnight	VS Galacta Knight
 TitleBknight	VS Morpho Knight
 TextBknight	{s[090]}On the day of judgment, this fluttery fiend will fly\ninto action. Brought into existence by "the greatest\nwarrior in the galaxy" and reborn as a knight of doom\nthrough years of adversity—now begins an epic battle\nwith a pure being twisted by a dark past.{s[100]}
+TitleWhispywoodsUltimate	VS Parallel Woods
+TextWhispywoodsUltimate	The fabric of spacetime has broken down,\ncreating four rifts to another dimension.\nEach of these rifts leads to an unholy\nincarnation of a past foe—like Whispy\nWoods! The rotten, blighted arbor has\nbeen imbued with terrible new power!
+TitleKrackoUltimate1	VS Parallel Big Kracko
+TextKrackoUltimate1	How do you defeat that which is ethereal?\nReborn from pure hate and the terrible\npower of a jet-black sky, Kracko lives\nagain! Tasked with keeping the gate,\nKracko is bigger, badder, and more\ndangerous than ever. Be warned...
+TitleKrackoUltimate2	VS Parallel Twin Kracko
+TextKrackoUltimate2	All worlds—whether in another\ndimension or some far-flung\ngalaxy—are bound by earth and sky. And\nwhere there is sky, there is Kracko! Made\nof fallen tears and the scattered mists of\nhis enemies, Kracko roars with dark power.
+TitleKingdededeUltimate	VS Parallel Dedede
+TextKingdededeUltimate	A dark liege was born from the Jamba\nHeart that King Dedede brought to\nHyness! Cast out into another dimension\nalong with the King's own spirit, this foul\ndoppelganger is NOT the original Dedede!\nBeware his aberrant rage.
+TitleMetaKnightUltimate	VS Parallel Meta Knight
+TextMetaKnightUltimate	When the Jamba Hearts rained down,\nMeta Knight set out alone to protect the\nSacred Square. Ah, but he was turned by\nthe dark power of the hearts...and reborn\nas a deviant corruption of his usual\nchivalrous form!
+TitleSPonGKonUltimate	VS Goldon & Silvox
+TextSPonGKonUltimate	Fighting off treasure hunters is\nhard work, and these two dream of\nsetting off on an adventure. Rumor has\nit they've built a raft...so why not leave?\n{s[140]}\x0e\x15\0\x02\xec\xff"Because we'll sink! Can't you\nsee we're made of metal?!"{s[100]}
+TitleExecutiveIceUltimate	VS Francisca
+TextExecutiveIceUltimate	Once upon a time, a girl was stranded\nfreezing in a snowstorm. As she got\ncolder and colder, a mysterious traveler\nappeared and unlocked her natural talent\nfor ice magic. She kept turning blue, all\nright—the beautiful blue of Francisca!
+TitleExecutiveFireUltimate	VS Flamberge
+TextExecutiveFireUltimate	Once upon a time, a girl facing a raging\ninferno tilted her head to the sky and let\nloose a fiery scream. Just before she lost\nconsciousness, a mysterious traveler\nappeared and unlocked her natural talent\nfor fire magic. Thus, Flamberge was born.
+TitleExecutiveThunderUltimate	VS Zan Partizanne
+TextExecutiveThunderUltimate	Once upon a time, a poor girl climbed a\ntower in desperation, only to be struck by\nlightning. As she breathed her last, a\nmysterious traveler appeared and\nunlocked her natural talent for lightning\nmagic. ZAP! Zan Partizanne was born.
+TitleHinessUltimate1	VS Corrupt Hyness
+TextHinessUltimate1	Hyness has fallen into a hole leading to\nanother dimension. The darkness left its\nmaster, transforming into a giant Jamba\nHeart and swallowing him whole. Is there\nhope for escape? Friends in another\ndimension offer a sliver of hope...
+TitleHinessUltimate2	VS Corrupt Hyness
+TextHinessUltimate2	Jes = yes. Janno = no. Ji = me. Jhappy = happy. Majicious\n= tasty. Jawaii = cute. Mafo = lie. Jif = if. Jaitty = good night.\nRigga = painful. Goppoko = surprise. Bastion = heart. Jorrow\n= sad. Konjy = crazy. Mapop = hope. Lor = paradise. \n{s[140]}\x0e\x15\0\x02\xec\xff{s[100]}Example: "Zan Par! Jif Majaja Ji Bastion Konjy...  Janno."\n{s[140]}\x0e\x15\0\x02\n\0{s[100]}Translation: "Zan Par! If my heart goes crazy again... No, never mind.)
+TitleExecutiveUltimate	VS The Three Mage-Sisters
+TextExecutiveUltimate	The fierce sisters are fired up for the final\nfight! Pursuit of their master has led to\nthe border of another dimension, only to\nfind him a shadow of his former self. Can\ntheir one wish restore him to glory? Dare\nthey dream of the happiest ending?
+TitleBknightUltimate	VS Morpho Knight EX
+TextBknightUltimate	Come judgement day, this fluttery fiend\nwill fly into action. Will it land in a dream\nworld, or a nightmare? It has mastered\nits new abilities, now all will witness its\ntrue power!
+TitleLastBossUltimate1	VS Void Termina, \nTrue Destroyer of Worlds
+TextLastBossUltimate1	Rise! Oh, Dark Lord of Despair!\nCrush the stars! Lay waste to care! {s[070]}(x 4){s[100]}\n{s[070]}- Inst. -{s[100]}\nRise and cover the land in sorrows!\nMay your symphony of emptiness\nbring the end of all tomorrows! {s[070]}(x 2){s[100]}
+TitleLastBossUltimate2	VS Void Termina, \nTrue Destroyer of Worlds
+TextLastBossUltimate2	Rise! Oh, Dark Lord of Despair! Crush\nthe stars! Lay waste to care! {s[070]}(x 4){s[100]}\n{s[070]}- Inst. -{s[100]}\nUpon your wing, dark judgment bring!\nMay your symphony of tragedy\ncause the end of everything. {s[070]}(x 2){s[100]}
+TitleLastBossUltimate3	VS Void Termina, \nTrue Destroyer of Worlds
+TextLastBossUltimate3	Void exists in all dimensions, but his\nshining form in another dimension inspired\nthe ancients to transcribe his mysteries in\nsacred texts. What will be written next?\n\x0e\x15\0\x02\xce\xffWill the new scrolls describe a destroyer\nof worlds, {s[140]}or an ally to the stars?{s[100]}
+TitleLastBossUltimate4	VS Void
+TextLastBossUltimate4	The final battle at hand, Void takes his\nfirst steps toward a new age. In place of\ntyrannical rage, will he find...naptime?\nGentle breezes? Treats? He may even\ndream again...\n\x0e\x15\0\x02\xd8\xff{s[150]}A dream of friends reunited!{s[100]}
 Pause\CommandAdeleine.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	Brush Slash
@@ -1567,9 +1756,10 @@ C12	After pressing \x0e\x07\x01\x02\x01\0, press \x0e\x04\x16\x02\xc3\0 + \x0e\x
 C13W	\x0e\x07\x01\x02\x01\0 repeatedly
 C14	Press and hold \x0e\x07\x01\x02\x01\0, and then release
 C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
-C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
-C23	Dash + \x0e\x07\x01\x02\x01\0
-C24	Dash + \x0e\x07\x01\x02\x01\0 repeatedly in midair
+C22	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C23	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C24	Dash + \x0e\x07\x01\x02\x01\0
+C25	Dash + \x0e\x07\x01\x02\x01\0 repeatedly in midair
 C31	Dash + hold \x0e\x07\x01\x02\x01\0, release
 C32	\x0e\x07\x01\x02\x01\0 underwater
 C33	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 underwater
@@ -1579,9 +1769,10 @@ D12	Back Thrust
 D13	Multispear Thrust
 D14	Waddle Copter
 D21	Skyward Thrust
-D22	Moon Drop
-D23	Waddle Spear Throw
-D24	Waddle Spear Barrage
+D22	Ground Thrust
+D23	Moon Drop
+D24	Waddle Spear Throw
+D25	Waddle Spear Barrage
 D31	Waddle Triple Throw
 D32	Underwater Thrust
 D33	Surface Thrust
@@ -1843,6 +2034,84 @@ C53	\x0e\x06\x02\x02r\0 + \x0e\x05\x11\x02\x11\0
 C54	\x0e\x06\x02\x02r\0 + \x0e\x05\x07\x02\x07\0
 D53	Zap Sword
 D54	Zap Cutter
+Pause\CommandExecutives.msbt
+D11	Sister Tag
+D22Freeze	Cisca Slash
+D23Freeze	Cisca Dash
+D24Freeze	Cisca Uppercut
+D25Freeze	Cisca Slam
+D31Freeze	Deadly Ice Candy
+D32Freeze	Frozen Gelato
+D33Freeze	Shaken Soda Blaster
+D34Freeze	Elegant Escape
+D52Freeze	Blizzard Sword
+D53Freeze	Blizzard Cutter
+D54Freeze	Splash Sword
+D22Flame	Berge Slash
+D23Flame	Berge Rush
+D24Flame	Berge Finish
+D25Flame	Flam Flamb\xe9
+D31Flame	BBQ Skewer
+D32Flame	Scorching Sword Plunge
+D33Flame	Mega Broiler
+D34Flame	Burst Jump
+D35Flame	Burst Step
+D52Flame	Sizzle Sword
+D53Flame	Sizzle Cutter
+D54Flame	Sizzle Bomb
+D22Thunder	Zan Zlash
+D23Thunder	Zan Ztab
+D24Thunder	Zan Zkewers
+D31Thunder	Lightning Lemonade
+D32Thunder	Drum N Waste
+D33Thunder	Electro Eclair
+D34Thunder	Lightning Dodge
+D52Thunder	Zap Sword
+D53Thunder	Zap Cutter
+D54Thunder	Zap Bomb
+D41	Sister Circle
+C11	\x0e\x04\x15\x02\xc2\0 + press and release \x0e\x07\x01\x02\x01\0
+C12U	Tag in to switch Mage Sisters with "Sister Tag!"
+C21UFreeze	Francisca's Controls
+C22Freeze	Press and release \x0e\x07\x01\x02\x01\0
+C23Freeze	Dash + \x0e\x07\x01\x02\x01\0
+C24Freeze	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C25Freeze	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 after Cisca Uppercut
+C31Freeze	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C32Freeze	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C33Freeze	\x0e\x04\x15\x02\xc2\0, then press and hold \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0,\nthen release
+C34Freeze	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x04\x13\x02\xc0\0
+C51UWFreeze	{c[fe9a10]}Francisca{c[000000]} can press \x0e\x04\x17\x02\xc4\0 to strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nand give it the power of {c[fe9a10]}ice{c[000000]} or {c[fe9a10]}water{c[000000]}! 
+C52Freeze	\x0e\x06\x03\x02s\0 + \x0e\x05\x11\x02\x11\0
+C53Freeze	\x0e\x06\x03\x02s\0 + \x0e\x05\x07\x02\x07\0
+C54Freeze	\x0e\x06\0\x02p\0 + \x0e\x05\x11\x02\x11\0
+C21UFlame	Flamberge's Controls
+C22Flame	\x0e\x07\x01\x02\x01\0, then \x0e\x07\x01\x02\x01\0 again
+C23Flame	\x0e\x07\x01\x02\x01\0 after Berge Slash
+C24Flame	\x0e\x07\x01\x02\x01\0 after Berge Rush
+C25Flame	Dash + \x0e\x07\x01\x02\x01\0
+C31Flame	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C32Flame	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 in midair
+C33Flame	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C34Flame	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C35Flame	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x04\x13\x02\xc0\0
+C51UWFlame	{c[fe9a10]}Flamberge{c[000000]} can press \x0e\x04\x17\x02\xc4\0 to strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nand give it the power of {c[fe9a10]}fire{c[000000]}! 
+C52Flame	\x0e\x06\x04\x02t\0 + \x0e\x05\x11\x02\x11\0
+C53Flame	\x0e\x06\x04\x02t\0 + \x0e\x05\x07\x02\x07\0
+C54Flame	\x0e\x06\x04\x02t\0 + \x0e\x05\x1a\x02\x1a\0
+C21UThunder	Zan Partizanne's Controls
+C22Thunder	\x0e\x07\x01\x02\x01\0, then \x0e\x07\x01\x02\x01\0 again
+C23Thunder	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+C24Thunder	Dash + \x0e\x07\x01\x02\x01\0
+C31Thunder	Press and hold \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C32Thunder	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0 repeatedly
+C33Thunder	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C34Thunder	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 + \x0e\x04\x13\x02\xc0\0
+C51UWThunder	{c[fe9a10]}Zan Partizanne{c[000000]} can press \x0e\x04\x17\x02\xc4\0 to strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nand give it the power of {c[fe9a10]}lightning{c[000000]}! 
+C52Thunder	\x0e\x06\x02\x02r\0 + \x0e\x05\x11\x02\x11\0
+C53Thunder	\x0e\x06\x02\x02r\0 + \x0e\x05\x07\x02\x07\0
+C54Thunder	\x0e\x06\x02\x02r\0 + \x0e\x05\x1a\x02\x1a\0
+C41	Press and hold \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0,\nand then release
 Pause\CommandFestival.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	Dance Solo
@@ -2053,6 +2322,7 @@ C21	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
 C22	During Dedede Hammer Flip \x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
 C23	Dash + \x0e\x07\x03\x02\x03\0
 C24	Dash + \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C25	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
 C31	\x0e\x07\x01\x02\x01\0 underwater
 C32	\x0e\x07\0\x02\0\0 in midair
 C33	\x0e\x07\x01\x02\x01\0 during Hover
@@ -2065,6 +2335,7 @@ D21	Dedede Hammer Flip
 D22	Move While Charging
 D23	Dedede Hammer Throw
 D24	Head Slide
+D25	Super Dedede Jump
 D31	Underwater Hammer Swing
 D32	Hover
 D33	Air Bullet
@@ -2076,6 +2347,42 @@ D52	Sizzle Hammer
 D53	Blizzard Hammer
 D54	Zap Hammer
 Pause\CommandLastCloseContest.msbt
+Pause\CommandMahoroa.msbt
+D11	Magic Sphere
+D12	Revolution Orbs
+D13	Revolution Flame
+D21	Deadly Needles
+D22	Double Deadly Needles
+D23	Double Deadly Needles Deluxe
+D24	Magalor Surge
+D31	Gem Apple Bombs
+D32	Detonate
+D33	Black Hole
+D34	Summon
+D41	Ultra Sword
+D42	Magic Barrier
+D43	Dimensional Vanish
+D51	Summon Lor
+D52	Magoloran Launch
+D54	Bluster Sword
+C11	Press and release \x0e\x07\x01\x02\x01\0
+C12	Hold \x0e\x07\x01\x02\x01\0 briefly before releasing
+C13	Hold \x0e\x07\x01\x02\x01\0 even longer before releasing
+C21	\x0e\x04\x17\x02\xc4\0 + press and release \x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0 + hold \x0e\x07\x01\x02\x01\0 briefly before releasing
+C23	\x0e\x04\x17\x02\xc4\0 + hold \x0e\x07\x01\x02\x01\0 even longer before releasing
+C24	Dash + \x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C32	Gem Apple Bombs, then \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C33	While in the air, \x0e\x04\x17\x02\xc4\0 + press and\nhold \x0e\x07\x01\x02\x01\0, then move \x0e\x04\x13\x02\xc0\0
+C34	Summon Black Hole\nand then release \x0e\x07\x01\x02\x01\0
+C41	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C43	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0 in midair
+C51	Press and hold \x0e\x04\x17\x02\xc4\0
+C52	Release \x0e\x04\x17\x02\xc4\0 once Friends are aboard
+C53UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon {c[000000]}to give\nit the power of {c[fe9a10]}fire{c[000000]} or {c[fe9a10]}wind{c[000000]}! Those are some combos!
+C54	\x0e\x06\x01\x02q\0 + \x0e\x05\x11\x02\x11\0
 Pause\CommandMarx.msbt
 C11	\x0e\x07\x01\x02\x01\0
 C12	\x0e\x07\x01\x02\x01\0 during Jester Ball Ride
@@ -2124,8 +2431,9 @@ C22	Dash + \x0e\x07\x01\x02\x01\0 in midair
 C23	\x0e\x07\x01\x02\x01\0 in midair
 C24	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
 C31	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
-C32	Press and hold \x0e\x07\x01\x02\x01\0, and then release
-C33	Press and hold \x0e\x07\x01\x02\x01\0,\nand then release + \x0e\x04\x17\x02\xc4\0
+C32	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+C33	Press and hold \x0e\x07\x01\x02\x01\0, and then release
+C34	Press and hold \x0e\x07\x01\x02\x01\0,\nand then release + \x0e\x04\x17\x02\xc4\0
 C41	Dash and press \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
 C42	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
 C43	\x0e\x07\0\x02\0\0 in midair
@@ -2139,8 +2447,9 @@ D22	Knight Spin
 D23	Meta Chop
 D24	Down Thrust
 D31	Up Thrust
-D32	Meta Spin Slash
-D33	Mach Tornado
+D32	Galactic Counter
+D33	Meta Spin Slash
+D34	Mach Tornado
 D41	Meta Condor Dive
 D42	Shuttle Loop
 D43	Hover
@@ -2435,6 +2744,52 @@ C51W	Friends jump into your arms when\nyou raise your hand with \x0e\x04\x17\x02
 D51	Friend Grab
 C52	Throw the friend you're holding in\ndifferent directions with \x0e\x07\0\x02\0\0/\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0
 D52	Friend Throw
+Pause\CommandSusie.msbt
+D11	H.W.C. Blaster
+C11	\x0e\x07\x01\x02\x01\0
+D12	Charge
+C12	Dash + press and hold \x0e\x07\x01\x02\x01\0
+D13	Transporter Burst
+C13	Charge briefly, then release \x0e\x07\x01\x02\x01\0
+D14	Super Transporter Burst
+C14	Charge longer, then release \x0e\x07\x01\x02\x01\0
+D21	Ultra Transporter Burst
+C21	Charge even longer, then release \x0e\x07\x01\x02\x01\0
+D22	Terra Burst
+C22	Run into a wall while performing\nUltra Transporter Burst
+D23	Aero Cracker
+C23	\x0e\x07\x01\x02\x01\0 during Ultra Transporter Burst
+D24	Diving Heart
+C24W	Charge a long time next to an enemy,\nthen \x0e\x04\x17\x02\xc4\0 or\x0e\x04\x14\x02\xc1\0 + \x0e\x07\x01\x02\x01\0
+D31	Charge Stock
+C31	\x0e\x07\0\x02\0\0, \x0e\x04\t\x02`\0, or \x0e\x04\n\x02a\0 after charging\nfor a long time
+D32	Transporter Jump
+C32	Charge Stock, then \x0e\x07\0\x02\0\0 in midair
+D33	Transporter
+C33	\x0e\x07\0\x02\0\0 in midair
+D34	One-Handed Shot
+C34	\x0e\x07\x01\x02\x01\0 while performing Transporter
+D41	Business Suit Up
+C41	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0
+D42	Jump / Double Jump
+C42	Business Suit Up, then \x0e\x07\0\x02\0\0
+D43	Spin Cycle
+C43	Business Suit Up, then \x0e\x07\x01\x02\x01\0
+D44	Spin Cycle Dash
+C44	\x0e\x04\x16\x02\xc3\0 or \x0e\x04\x14\x02\xc1\0 while in Spin Cycle
+D81	Drillbit
+C81	Business Suit Up, then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D82	Driver Slam
+C82W	Business Suit Up, then\n\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0 in midair
+D83	Business Suit Stow
+C83W	Business Suit Up, then press\nand hold \x0e\x04\x03\x02\x03\0, \x0e\x04\t\x02`\0, or \x0e\x04\n\x02a\0
+C51UW	Hold \x0e\x04\x17\x02\xc4\0, and then strike a friend's raised {c[fe9a10]}weapon{c[000000]}\nto give it an {c[fe9a10]}elemental{c[000000]} power! These are some combos!
+C52	\x0e\x05(\x02(\0 + \x0e\x06\x04\x02t\0
+C53	\x0e\x05(\x02(\0 + \x0e\x06\x03\x02s\0
+C54	\x0e\x05(\x02(\0 + \x0e\x06\x02\x02r\0
+D52	Sizzle Susie
+D53	Blizzard Susie
+D54	Zap Susie
 Pause\CommandSword.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	Overhead Slash
@@ -2469,6 +2824,43 @@ C53	\x0e\x05\x11\x02\x11\0 + \x0e\x06\x03\x02s\0
 D53	Blizzard Sword
 C54	\x0e\x05\x11\x02\x11\0 + \x0e\x06\x02\x02r\0
 D54	Zap Sword
+Pause\CommandTaranza.msbt
+D11	Magic String Shot
+C11	Press and release \x0e\x07\x01\x02\x01\0
+D12	Taranza Web Hold
+C12	Press and hold \x0e\x07\x01\x02\x01\0 + move \x0e\x04\x13\x02\xc0\0
+D13	Pop Off
+C13	Release \x0e\x07\x01\x02\x01\0 while holding an\nenemy in your web
+D14	Darling Dreamstalk
+C14	\x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D21	Taranza Burst
+C21	\x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0, then release
+D22	Super Taranza Burst
+C22	Press and hold \x0e\x04\x15\x02\xc2\0 + \x0e\x07\x01\x02\x01\0,\nand then release
+D23	Taranza Ball
+C23	Press \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 and release midair
+D24	Super Taranza Ball
+C24	Press and hold \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0 midair,\nthen release
+D31	Web Sling
+C31	Dash + \x0e\x07\x01\x02\x01\0
+D32	Web Scatter
+C32	Dash + \x0e\x07\x01\x02\x01\0 in midair
+D33	Queen's Phantom
+C33	\x0e\x04\x15\x02\xc2\0, and then \x0e\x04\x17\x02\xc4\0 + \x0e\x07\x01\x02\x01\0
+D41	Pod Kick
+C41	When touching pod
+D42	Pod Snatch
+C42	\x0e\x07\x01\x02\x01\0 when near a pod
+D43	Pod Slam
+C43	Pod Snatch + \x0e\x07\x01\x02\x01\0 / Pod Snatch + \x0e\x04\x14\x02\xc1\0
+D44	Pod Slamabam
+C44	Pod Snatch + \x0e\x04\x17\x02\xc4\0, \x0e\x04\x16\x02\xc3\0, or \x0e\x04\x15\x02\xc2\0
+D45	Magic Guard
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D51	Bouncy Web
+C51	\x0e\x04\x17\x02\xc4\0
+D52	Friend Bounce
+C52	Jump and touch Bouncy Web
 Pause\CommandTwinkleStarAllies.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	Sparkler Comet
@@ -2602,6 +2994,8 @@ TitleWMapLv5	Kirby\nStar Allies
 TextWMapLv5	This "Dark Lord" that Hyness likes to talk about is a\nbeing with no sense of right or wrong. He was born\nonly to destroy...and is known as Void Termina,\nDestroyer of Worlds. Hmm...that sounds\npretty hardcore, so no pulling your punches!\nKirby's biggest battle begins NOW!!
 TitleArena	The Ultimate Choice
 TextArena	A new festival of battle is about to begin!\nTest your limits with...The Ultimate Choice!\nKirby and friends will face off against a gaggle\nof super-spicy bosses in their unending quest\nto gobble up everything in sight!
+TitleAdc	Heroes in Another Dimension
+TextAdc	Hyness' prayer opened a path from another\ndimension...to new dimensions untold.\nWhat possibilities await? Will you be a\nDream Friend? Will you face even greater\nevil? Collect hearts and explore new worlds.\nThe light of hope is yours to create.
 Pause\SpecialHelperGo.msbt
 TextBladeknight	{s[120]}"I will be a swordmaster like my idol!"\n\x0e\x15\0\x02\xec\xff{s[100]}  This green warrior swears upon his blade\n  that he will master his weapon, learn how\n  to attack with flame, wind, and lightning,\n  and ultimately conquer the world!
 TextSirkibble	{s[120]}"Just like my blade, I keep coming back!"\n\x0e\x15\0\x02\xec\xff{s[100]}  What's inside that armor? Classified!\n  Just like his golden blade, this guy\n  returns to the fight again and again.\n  Pluckiness is the best armor of all!
@@ -2636,3 +3030,9 @@ TextMarx	{s[120]}"Got a plan? Glad to help!"\n\x0e\x15\0\x02\xec\xff{s[100]}  Th
 TextAdeleine	{s[120]}"Back for a new adventure!"{s[100]}\n\x0e\x15\0\x02\xec\xff  The attack artist from Kirby 64: The Crystal\n  Shards and her pal Ribbon have returned!\n  And with Adeleine's newly improved painting\n  skills, these two are ready to be in the mix!
 TextDarkMetaknight	{s[120]}"..."{s[100]}\n\x0e\x15\0\x02\xec\xff  Is that the uninvited knight from Kirby & The\n  Amazing Mirror?! Guess he had a fight with Meta\n  Knight. The Mirror World must cast a long shadow\n  across the galaxy... At least he's here as a friend!
 TextDaroach	{s[120]}"Those bejeweled hearts will be mine!"{s[100]}\n\x0e\x15\0\x02\xec\xff  The famous thief from Kirby: Squeak Squad\n  heard tales of dark, gem-shaped hearts and\n  set out to find them. Such seemingly wicked\n  treasures are certainly worthy of his talents!
+TextMahoroa	{s[120]}"I will show you the power of Best\n Friends!"{s[100]} {s[100]}\x0e\x15\0\x02\xe2\xff\n  The fearless deceiving mage from Kirby's\n  Return to Dream Land has mysteriously\n  joined the battle. You don't want him as\n  an enemy...is it possible that he could\n  end up becoming a true friend?{s[100]}
+TextTaranza	{s[120]}"No doubt. A miracle will happen for\n sure!"{s[100]} {s[100]}\x0e\x15\0\x02\xe2\xff\n  Hoping for a true miracle, the boy with\n  silver hair from Kirby: Triple Deluxe is\n  making a bid for the altar. Deep in his\n  heart, he already knows the outcome.\n  But if he could just reach that bright light...{s[100]}
+TextSusie	\n{s[120]}"The company he built... I will bring\n it back!"{s[100]} {s[100]}\x0e\x15\0\x02\xe2\xff\n  Cool and collected, Susie from Kirby: Planet\n  Robobot is all business. Following in the\n  footsteps of her employer, she uses science\n  to advance her mission— mechanizing new\n  planets and peoples.{s[100]}
+TextExecutivesFreeze	{s[120]}"If you resist, I will freeze you into ice."{s[100]}\x0e\x15\0\x02\xe2\xff\n  The cold-blooded blue priestess from Kirby\n  Star Allies pays a surprise visit! Along with\n  her sisters, she seeks paradise. But will\n  standing too close to Flamberge throw water\n  on her dreams?
+TextExecutivesFlame	{s[120]}"Ha, ha, ha! Come on Francisca.\n Let's get wild!"{s[100]}\x0e\x15\0\x02\xe2\xff \n  The hot-blooded red priestess from Kirby\n  Star Allies pays a surprise visit! Along with\n  her sisters, she seeks paradise. But can\n  the trio handle her at her most heated?
+TextExecutivesThunder	{s[120]}"Sure thing. I will show you...the\n terror of the Three Mage-Sisters!"\x0e\x15\0\x02\xe2\xff\n  {s[100]}The lightning gold priestess from Kirby\n  Star Allies pays a surprise visit. Along\n  with her sisters, she seeks paradise.\n  Will she make Lord Hyness proud?

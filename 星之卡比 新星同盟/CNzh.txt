@@ -1,3 +1,52 @@
+Adc.msbt
+$TitleClose	返回
+$TitleContinue	接着开始
+$TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
+$TitleStart	从头开始
+$TitleTutorial	教学
+$StageClear	通过！
+StageName0	空间Ⅰ
+StageName1	空间Ⅱ
+StageName2	空间Ⅲ
+StageName3	空间Ⅳ
+StageName4	最终空间
+$HeartListHeaderText	盟友之心数
+HeartCountEmpty	--
+$HeartListClose	返回
+DialogTutorialTitle_00	异次元空间英雄同盟！
+DialogTutorialText_00	由于海内司的反复祈祷，\n此空间所打开的洞\n终于和{c[fe9a10]}异次元空间{c[000000]}连接了。
+DialogTutorialTitle_01	梦幻盟友，{c[fe9a10]}全员集合{c[000000]}！
+DialogTutorialText_01	以此{c[fe9a10]}异次元空间{c[000000]}为舞台，\n用{c[fe9a10]}卡比{c[000000]}和{c[fe9a10]}梦幻盟友{c[000000]}全员进行挑战，\n是很有可玩性的挑战模式！
+DialogTutorialTitle_02	通过{c[fe9a10]}接力{c[000000]}，以终点为目标前进！
+DialogTutorialText_02	进入{c[fe9a10]}英雄同盟之门{c[000000]}，\n利用卡比的{c[fe9a10]}能力改变{c[000000]}，\n或是和梦幻盟友{c[fe9a10]}接力{c[000000]}，一路前进吧！
+DialogTutorialTitle_03	收集{c[fe9a10]}盟友之心{c[000000]}吧！
+DialogTutorialText_03	收集散落的盟友之心吧。\n打败{c[fe9a10]}最后的敌人{c[000000]}时，会{c[fe9a10]}决定级别{c[000000]}！\n多多收集，{c[fe9a10]}改变战斗的结局{c[000000]}吧！
+DialogAboutContinueTitle_00	所有关卡已{c[fe9a10]}开放{c[000000]}！
+DialogAboutContinueText_00	用{c[fe9a10]}“接着开始”{c[000000]}玩的话，\n可以自由地{c[fe9a10]}选择关卡{c[000000]}！\n反复多次挑战难的关卡！
+DialogAboutContinueTitle_01	以{c[fe9a10]}更高级别{c[000000]}为目标吧！
+DialogAboutContinueText_01	挑战过的盟友之心，{c[fe9a10]}颜色会变化{c[000000]}。\n得到还没有入手的盟友之心，\n以{c[fe9a10]}提升级别{c[000000]}为目标吧！
+DialogConditionSatisfiedTitle_00	盟友之心超过了{c[fe9a10]}100个{c[000000]}！
+DialogConditionSatisfiedText_00	因为大量收集的盟友之心，\n好像发生了什么事。\n赶紧去{c[fe9a10]}最后的空间{c[000000]}吧！
+DialogDeleteContinueData	留下了接着开始的\n保存数据。\n要{c[fe9a10]}从头开始{c[000000]}玩吗？
+DialogDeleteHighScoreMessage	即将删除最高分的记录。\n可以吗？
+DialogExecutivesUnlockedTitle_99	梦幻盟友三魔官姐妹！
+DialogExecutivesUnlockedText_99	通过收集到的大量盟友之心的力量，\n创造了令人难以置信的奇迹！\n{c[fe9a10]}三魔官姐妹{c[000000]}成为了梦幻盟友！
+DialogExecutivesUnlockedTitle_00	参战{c[fe9a10]}The 终极抉择{c[000000]}！
+DialogExecutivesUnlockedText_00	现在可以{c[fe9a10]}选择{c[000000]}\n三魔官姐妹了！\n灵活运用{c[fe9a10]}3人的团体合作{c[000000]}战斗吧！
+DialogExecutivesUnlockedTitle_01	在{c[fe9a10]}星之○○○○{c[000000]}里也登场了！
+DialogExecutivesUnlockedText_01	在星之○○○○里\n也可以选择三魔官姐妹了！\n向{c[fe9a10]}以她们为主角{c[000000]}的冒险出发吧！
+DialogExecutivesUnlockedTitle_02	还新增了{c[fe9a10]}纪念插画{c[000000]}！！
+DialogExecutivesUnlockedText_02	为了纪念收集齐所有的{c[fe9a10]}梦幻盟友{c[000000]}，\n又新增了3幅{c[fe9a10]}纪念插画{c[000000]}！\n总共有{c[fe9a10]}\x0e\x03\x01\0幅{c[000000]}了！
+$GameClear	最终结果
+$Total	总分
+CheckpointDialog	下次玩的时候，\n可以从这里开始！
+CheckpointDialogNext	继续
+CheckpointDialogExit	前往标题画面
+$TopRank	最高分
+$DataDelete	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0 删除记录
+$New	NEW
+$GameClearRank	级别
+$Perfect	Perfect
 Arena.msbt
 BtnBack	返回
 BtnNext	确定
@@ -12,8 +61,15 @@ DialogTutorialTitle_02	选择喜爱的{c[fe9a10]}难度{c[000000]}！
 DialogTutorialText_02	挑战的{c[fe9a10]}难度{c[000000]}也可以自由选择！\n越是{c[fe9a10]}困难{c[000000]}，分数越高。\n作出最终的选择，{c[fe9a10]}获取胜利{c[000000]}！
 DialogSpecialHelperTitle	梦幻盟友登场！
 DialogSpecialHelperText	你可以在选择角色里\n选择{c[fe9a10]}梦幻盟友{c[000000]}了！\n以新的选择{c[fe9a10]}获取胜利{c[000000]}！
-DialogAbilityAllClear01	亲手选择{c[fe9a10]}全部的角色{c[000000]}，\n在最终的战斗中取得了\n{c[fe9a10]}出色的胜利{c[000000]}！！
+DialogAbilityAllClear01	选择{c[fe9a10]}全部的角色{c[000000]}，\n全员获取了{c[fe9a10]}胜利{c[000000]}！\n毫无疑问，你……\n才是真正的{c[fe9a10]}终极卡比大师{c[000000]}！
+DialogKirbySwitchTitle	纪念★噗噗噗奖励！
+DialogKirbySwitchText	模式选择中新增了{c[fe9a10]}噗噗噗键{c[000000]}！\n好像是会变成{c[fe9a10]}卡比诞生{c[000000]}时候\n{c[fe9a10]}那张脸{c[000000]}的键！
 DialogLocked	通过一次{c[fe9a10]}The 终极抉择{c[000000]}后，\n下次就可以直接选择了！
+DialogLockedSecret	与{c[fe9a10]}某个角色{c[000000]}成为朋友后，\n就可以选择对方了！
+DialogSecretExTitle_00	\x0e\x17\0\0㊤\x0f\x17\0Good Job!
+DialogSecretExText_00	你已通过异次元空间的战斗！\n配合难易度{c[fe9a10]}“灵魂出窍的辣”{c[000000]}，\n按{c[fe9a10]}这幅画像的命令{c[000000]}，前往最凶恶的战斗！
+DialogSecretExInAdcTitle_00	\x0e\x17\0\0㊤\x0f\x17\0Good Job!
+DialogSecretExInAdcText_00	The 终极抉择里出现了EX模式！\n配合难易度{c[fe9a10]}“灵魂出窍的辣”{c[000000]}，\n按{c[fe9a10]}这幅画像的命令{c[000000]}，前往最凶恶的战斗！
 $TitleClose	返回
 $TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
 TitleStartBtn	开始
@@ -31,10 +87,12 @@ ScorePanelDifficultyText	\x0e\x03\x06\0
 $CharaSelStartBtn	开始
 LevelSelectHeader	选择难度
 LevelSelectConfirmBtn	开始
+LevelSelectConfirmBtnEx	……加油！！
 LevelSelectConfirmText0	全部吃光光，\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}，开吃！
 LevelSelectConfirmText1	变得更强吧！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}，要一下子吃光哦！
 LevelSelectConfirmText2	选择极限！\n向{c[fe9a10]}\x0e\x03\x06\0{c[000000]}发起挑战！！
 LevelSelectConfirmText3	超～级～最～终～决～战！！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}……终极抉择！！
+LevelSelectConfirmText4	真正的超～级～最～终～决～战！！\n{c[fe9a10]}\x0e\x03\x06\0{c[000000]}……会后悔哦！
 $LvSelIllustPieceText	奖励
 $LvSelLv8Text	秘密
 LvSelLvNameText	\x0e\x03\x06\0
@@ -49,6 +107,7 @@ $RecordDelete	\x0e\x04\t\x02`\0＋\x0e\x04\x03\x02\x03\0 删除记录
 ResultWinCaption0	胜利！
 ResultWinCaption1	巨大胜利！
 ResultWinCaption2	究极胜利！！
+ResultWinCaption3	真 究极胜利！！
 ResultWinDifficultyName	\x0e\x03\x06\0
 ResultWinClearBonus	＋通关奖励 \x0e\x03\x01\0
 ResultLoseCaption	下次还有机会……
@@ -62,9 +121,12 @@ $ArenaBonusText	时间奖励
 $ArenaStepNextBoss	NEXT
 ArenaStepBattleRemaining	还有{s[150]}\x0e\x03\x01\0{s[100]}战
 ArenaStepBattleRemainingQuestion	还有{s[150]}\x0e\x03\x01\0{s[100]}战？
+ArenaStepBattleRemainingTrueLast	{s[120]}最终战！！{s[100]}
 ArenaStepLvName	\x0e\x03\x06\0
 $ArenaLvSelHighScore	最高分
 $LvSelBestHighScore	最好成绩
+$InfoCommand	选择灵魂出窍的辣，按\x0e\x04\x17\x02\xc4\0+\x0e\x04\0\x02\0\0+\x0e\x04\x12\x02\x95\0
+$InfoPlayExtaMode	玩Extra
 BossClear.msbt
 DialogSpecialHelperUnlockLv1_Title	梦幻盟友 帝帝帝大王
 DialogSpecialHelperUnlockLv1	你现在可以召唤\n梦幻盟友{c[fe9a10]}帝帝帝大王{c[000000]}了！\n去{c[fe9a10]}梦幻神殿{c[000000]}看看吧！
@@ -72,6 +134,8 @@ DialogSpecialHelperUnlockLv1DLC_Title	{c[fe9a10]}通过更新而增加{c[000000]
 DialogSpecialHelperUnlockLv1DLC	梦幻般的成员也集结到此！\n现在，可以召唤{c[fe9a10]}阿朵莱妮&莉宝、\n暗魅塔骑士和怪盗洛切{c[000000]}了！
 DialogSpecialHelperUnlockLv2_Title	梦幻盟友 魅塔骑士
 DialogSpecialHelperUnlockLv2	你现在可以召唤\n梦幻盟友{c[fe9a10]}魅塔骑士{c[000000]}了！\n去{c[fe9a10]}梦幻神殿{c[000000]}看看吧！
+DialogSpecialHelperUnlockLv2DLC_Title	{c[fe9a10]}通过更新而增加{c[000000]}的梦幻盟友
+DialogSpecialHelperUnlockLv2DLC	梦幻般的成员也{c[fe9a10]}集结{c[000000]}到此！\n现在，可以召唤\n{c[fe9a10]}魔法洛亚、塔狼蛛和秘书苏姿{c[000000]}了！
 Cmn.msbt
 DialogWindowYes	是
 DialogWindowNo	否
@@ -118,6 +182,7 @@ HowToWindowText3	按\x0e\x04\x11\x02\x94\0暂停画面的{c[fe9a10]}手柄设置
 SkipText	\x0e\x04\x11\x02\x94\0跳过
 $HelperRouletteNew	New
 Version	Ver. \x0e\x03\x01\0.\x0e\x03\x01\0.\x0e\x03\x01\0
+$ArenaSecretExCommand	\x0e\x04\x17\x02\xc4\0+\x0e\x04\0\x02\0\0+\x0e\x04\x12\x02\x95\0
 Complete.msbt
 $CompleteClear	通过
 $CompleteText	恭喜！
@@ -266,6 +331,8 @@ TeamSupport_02	SHIGERU HIRAYAMA
 TeamSupport_03	SHIGERU HASHIGUCHI
 PlanningSupport	PLANNING SUPPORT
 PlanningSupport_00	RYOTA YAMANAKA
+PlanningSupport_01	YUYA KOZUKA
+PlanningSupport_02	KOSUKE YAMAZAKI
 TechnicalSupport	TECHNICAL SUPPORT
 TechnicalSupport_00	YOSHIYA TANIGUCHI
 TechnicalSupport_01	TOMOKAZU TSURUOKA
@@ -326,7 +393,8 @@ SpecialThanks_16	TAKAAKI KAZUNO
 SpecialThanks_17	HIROAKI IKARASHI
 SpecialThanks_18	TADASHI KAWAI
 SpecialThanks_19	AIKO NAGAOKA
-SpecialThanks_20	JEFF MILLER
+SpecialThanks_20	MAO YAMASE
+SpecialThanks_21	AKIRA EGUCHI
 SpecialThanks_24	BARNHOUSE EFFECT Co., Ltd.
 SpecialThanks_25	GRDRIVE Inc.
 SpecialThanks_26	TA Inc.
@@ -362,6 +430,8 @@ AddScore	\x0e\x03\x01\0
 SubScore	-\x0e\x03\x01\0
 EndTextNormal	还有更多……
 EndTextExtra	谢谢！
+EndTextAdc	The End？
+EndTextAdcTrueEnding	Happy End！
 $CreditBestScore	最佳分数
 $CreditNew	NEW
 Demo.msbt
@@ -403,6 +473,7 @@ ExecutiveThunderSerif_AppearEx_01	没想到你能活着从\n那个邪魔哈鲁�
 ExecutiveThunderSerif_AppearEx_02	\x0e\x14\0\0{s[130]}任何人都不能打扰！{s[100]}
 ExecutiveThunderSerif_DeadEx_00	{s[070]}啊啊……\n海、海内司……大……大人……{s[100]}
 HinessName	海内司
+HinessUltimateName	暗化海内司
 HinessSerif_Appear_00_1	嗯邪？
 HinessSerif_Appear_00_2	什么事啊？\n很吵呢～
 HinessSerif_Appear_01	{s[070]}那个～\n你，挡住我了。{s[100]}
@@ -422,6 +493,7 @@ HinessSerif_Crazy_00_1	{s[070]}啊……{s[100]}
 HinessSerif_Crazy_00_2	啊……
 HinessSerif_Crazy_00_3	{s[150]}啊！{s[100]}
 HinessSerif_Crazy_01	\x0e\x14\0\0{s[150]}啊比拉卡哦啊杜拉查克！！{s[100]}\x0e\x14\x03\0\n
+HinessSerif_Crazy_01_Ex	\x0e\x14\0\0{s[150]}旺常麻吉邪斯耶比提里加魔破望！！{s[100]}\x0e\x14\x03\0
 HinessSerif_Dead_00	你、你、你～\x0e\0\x04\0竟、竟然打败了我～\n尊贵的海内司大人～
 HinessSerif_Dead_01_1	祭品～
 HinessSerif_Dead_01_2	如果有～\n祭品的话～
@@ -430,6 +502,19 @@ HinessSerif_Dead_03	拥有最高魔力的诸位～\n我召唤你们～
 HinessSerif_Dead_04	请接受我的请求～\n我的这个身体～\x0e\0\x04\0将全部奉献给～\x0e\0\x04\0破坏之神～
 HinessSerif_Dead_05	那么……\n请苏醒吧…………\x0e\0\x04\0我们的神………………
 HinessSerif_Dead_06	\x0e\x14\0\0{s[150]}破神……终焉\x0e\x17\0\0・\x0f\x17\0虚无！！{s[100]}
+ExecutivesSerif_Appear_Thunder_00	{s[150]}海内司大人！！{s[100]}
+ExecutivesSerif_Appear_Thunder_01	这、这是……\x0e\0\x04\0为了寻找被次元之洞\n吞噬的海内司大人，\n来到了异界的尽头，但是……
+ExecutivesSerif_Appear_Thunder_02	粉胖墩！\n真的是你！\x0e\0\x04\0基斯、露啾！\n到这里来！
+ExecutivesSerif_Appear_Fire_00	什……\x0e\0\x04\0{s[120]}什么啊，这是！{s[100]}\x0e\x14\0\0\x0e\0\x04\0海内司大人……
+ExecutivesSerif_Appear_Fire_01	又是你这家伙啊！！\x0e\0\x04\0……邪魔我气，\n邪魔啊我气！！
+ExecutivesSerif_Appear_Fire_02	{s[130]}旺常邪魔我气——！！{s[100]}
+ExecutivesSerif_Appear_Ice_00	……露啾，\n冷静点儿。
+ExecutivesSerif_Appear_Ice_01	这个样子……\x0e\0\x04\0果然，还不是\n那个时候的海内司大人呢……\x0e\0\x04\0{s[075]}引领着我们走向未来的，\n那个时候……{s[100]}
+ExecutivesSerif_Appear_Thunder_03	基斯、露啾，\n不要担心。\x0e\0\x04\0现在正是轮到我们\n来报答海内司大人的恩情了。\x0e\0\x04\0在这之前，\n粉胖墩啊！\x0e\0\x04\0哦不……
+ExecutivesSerif_Appear_Thunder_04	{s[130]}星之卡比！{s[100]}
+ExecutivesSerif_Appear_Thunder_05	得偿夙愿的时刻似乎\n终于来到了。\x0e\0\x04\0由我们“三魔官姐妹”亲手\n将这场战斗……
+ExecutivesName	三魔官姐妹
+ExecutivesSerif_Appear_Sisters_00	{s[140]}好好做个了结！！{s[100]}\x0e\x14\x03\0
 GameInfo.msbt
 AddHelperBalloonText	用盟友之心\n增加伙伴吧！
 ChargeInfo_DiscardAbility	舍弃\n能力
@@ -492,7 +577,7 @@ DialogTutorialTitle_02	也可以使用{c[fe9a10]}盟友之心{c[000000]}！
 DialogTutorialText_02	用{c[fe9a10]}盟友之心{c[000000]}增加{c[fe9a10]}伙伴{c[000000]}吧！\n通过随时加入，最多可以{c[fe9a10]}4人{c[000000]}一起玩。\n出发，和{c[fe9a10]}盟友们{c[000000]}开始大冒险吧！
 DialogSpecialHelperTitle	梦幻盟友领队！
 DialogSpecialHelperText	在{c[fe9a10]}选择盟友{c[000000]}中\n有{c[fe9a10]}梦幻盟友{c[000000]}登场了！\n梦幻盟友们的{c[fe9a10]}大冒险{c[000000]}开始了！
-DialogAbilityAllClear01	用{c[fe9a10]}所有盟友{c[000000]}通关了！\n许许多多的朋友\n成为了{c[fe9a10]}星之勇者{c[000000]}！
+DialogAbilityAllClear01	用{c[fe9a10]}所有的盟友{c[000000]}通过关卡，\n全员成为了{c[fe9a10]}星之勇者{c[000000]}！\n和大家成为朋友的你，\n毫无疑问是{c[fe9a10]}盟友大师{c[000000]}！
 CheckpointDialog	下次游戏时\n可以从这里开始！
 CheckpointDialogNext	前往下一关卡
 CheckpointDialogNextLevel	前往下一等级
@@ -515,6 +600,7 @@ BestTimeLevelNum	等级\x0e\x03\x01\0
 DialogDeleteHighScoreMessage	{c[fe9a10]}即将删除{c[000000]}\n{c[fe9a10]}\x0e\x03\x05\0{c[000000]}的最佳时间。\n可以吗？
 DialogDeleteContinueData	{c[fe9a10]}\x0e\x03\x05\0{c[000000]}的保存数据\n已存在。\n要{c[fe9a10]}从头开始{c[000000]}玩吗？
 DialogLocked	{c[fe9a10]}通过一次{c[000000]}星之○○○○后，\n下次就可以直接选择了！
+DialogLockedSecret	与{c[fe9a10]}某个角色{c[000000]}成为朋友后，\n就可以选择对方了！
 DialogAboutContinue	所有盟友的{c[fe9a10]}保存数据{c[000000]}\n都{c[fe9a10]}留下{c[000000]}来了！\n{c[fe9a10]}换来换去{c[000000]}，和各位盟友\n一起出发去冒险吧！
 BestTimeClose	返回
 CharaSelClose	返回
@@ -559,6 +645,10 @@ Marx	对银河野心勃勃
 Adeleine	我们也要加入
 DarkMetaknight	暗影故事
 Daroach	宇宙盗贼团前来拜访！
+Mahoroa	心中的最佳盟友
+Taranza	为了与那朵花相会
+Susie	被镭射枪驱逐\x0e\x17\0\0㊤\x0f\x17\0
+Executives	前往来自祈祷的希望之旅
 Illust.msbt
 $IllustHeader	插画画廊
 $ViewBtn	放大
@@ -578,6 +668,12 @@ Title09	星空的恶作剧慌乱
 Title10	向实现梦想出发！
 Title11	盟友假期
 Title12	成为影子的共同战斗
+Title13	心的姿态
+Title14	昆虫鸣叫的乡村摇滚乐
+Title15	休息\x0e\x17\0\0・\x0f\x17\0安息
+Title16	传递“幸福”
+Title17	坏魔头兄弟
+Title18	再见卡比
 $ViewClose	\x0e\x04\x01\x02\x01\0关闭
 $ViewBtnA	\x0e\x04\0\x02\0\0
 GalleryDialogNoSheetUnlocked	还有{c[fe9a10]}插画拼图{c[000000]}没拿到。\n去关卡收集吧！
@@ -596,6 +692,12 @@ Author09	R.F (HAL Laboratory, Inc.)
 Author10	H.M (HAL Laboratory, Inc.)
 Author11	T.K (HAL Laboratory, Inc.)
 Author12	S.O (HAL Laboratory, Inc.)
+Author13	K.K (HAL Laboratory, Inc.)
+Author14	M.Y (HAL Laboratory, Inc.)
+Author15	S.K (HAL Laboratory, Inc.)
+Author16	T.F (HAL Laboratory, Inc.)
+Author17	A.K (HAL Laboratory, Inc.)
+Author18	S.K (HAL Laboratory, Inc.)
 Movie.msbt
 Nfp.msbt
 InvalidTiming	现在无法使用amiibo。
@@ -676,6 +778,7 @@ HeaderController	手柄设置
 DialogWindowExitStage	按下的大开关和\n插画拼图{c[fe9a10]}无法保存{c[000000]}。\n真的要离开关卡吗？
 DialogWindowExitWorld	要返回选择世界吗？
 DialogWindowExitScoreGame	要{c[fe9a10]}退出游戏{c[000000]}，\n返回标题吗？
+DialogWindowExitStageAdc	获得的盟友之心和\n插画拼图{c[fe9a10]}无法保存{c[000000]}。\n真的要离开关卡吗？
 DialogWindowAmiiboDisabled	amiibo可以在关卡中使用。
 CloseInfoText	关闭
 KeyConfigTypeA	A类型
@@ -687,6 +790,7 @@ BtnExitWorld	前往选择世界
 BtnExitScoreGame	前往标题画面
 BtnExitStage	退出关卡
 BtnTime	查看时间
+BtnHeartList	查看记录
 HelperGoStageName	星之○○○○ 等级\x0e\x03\x01\0
 ArenaStageName	\x0e\x03\x06\0
 Lv5StageName	星之卡比 新星同盟
@@ -737,8 +841,8 @@ TipsMuseumGeneral_Title	{c[fe9a10]}梦幻神殿{c[000000]}
 TipsMuseumGeneral_Text	握住{c[fe9a10]}梦幻神杖{c[000000]}，\n召唤{c[fe9a10]}特别的盟友{c[000000]}吧！
 TipsMuseumRepeat_Title	要再次进入{c[fe9a10]}梦幻神殿{c[000000]}？
 TipsMuseumRepeat_Text	{c[fe9a10]}通过{c[000000]}某处的关卡后，\n就能再次进入了。
-TipsMuseumHelper2_Title	梦幻盟友，{c[fe9a10]}陆续新增{c[000000]}！
-TipsMuseumHelper2_Text	梦幻盟友预定通过{c[fe9a10]}免费更新{c[000000]}进行新增。\n和系列角色一起冒险{c[fe9a10]}犹如梦幻一般{c[000000]}！
+TipsMuseumHelper2_Title	和{c[fe9a10]}梦幻盟友{c[000000]}出发去冒险！
+TipsMuseumHelper2_Text	过去的{c[fe9a10]}伙伴{c[000000]}和{c[fe9a10]}对手{c[000000]}也成为了盟友！\n和系列角色一起冒险{c[fe9a10]}简直是梦幻{c[000000]}！
 TipsBossFriendCopy_Title	用盟友能力增强力量！
 TipsBossFriendCopy_Text	只要发动盟友能力，\n{c[fe9a10]}攻击力{c[000000]}就会{c[fe9a10]}提高{c[000000]}，能获取优势！
 TipsBossHP_Title	即使被打败{c[fe9a10]}也不要放弃{c[000000]}啊！
@@ -984,7 +1088,7 @@ SubGameCmn.msbt
 #SubgameCmnResultHighScore	最高分
 Test.msbt
 $Text	\x0e\x04\0\x02\0\0\x0e\x04\x01\x02\x01\0\x0e\x04\x02\x02\x02\0\x0e\x04\x03\x02\x03\0\n\x0e\x04\x04\x020\0\x0e\x04\x05\x021\0\x0e\x04\x06\x022\0\x0e\x04\x07\x023\0\x0e\x04\x08\x024\0\n\x0e\x04\t\x02`\0\x0e\x04\n\x02a\0\x0e\x04\x0b\x02b\0\x0e\x04\x0c\x02c\0\x0e\x04\x0d\x02d\0\x0e\x04\x0e\x02e\0\n\x0e\x04\x0f\x02\x90\0\x0e\x04\x10\x02\x91\0\x0e\x04\x11\x02\x94\0\x0e\x04\x12\x02\x95\0\n\x0e\x04\x13\x02\xc0\0\x0e\x04\x14\x02\xc1\0\x0e\x04\x15\x02\xc2\0\x0e\x04\x16\x02\xc3\0\x0e\x04\x17\x02\xc4\0\x0e\x04\x18\x02\xc5\0
-$ExtAbility	\x0e\x05\0\x02\0\0\x0e\x05\x01\x02\x01\0\x0e\x05\x02\x02\x02\0\x0e\x05\x03\x02\x03\0\x0e\x05\x04\x02\x04\0\x0e\x05\x05\x02\x05\0\x0e\x05\x06\x02\x06\0\x0e\x05\x07\x02\x07\0\n\x0e\x05\x08\x02\x08\0\x0e\x05\t\x02\t\0\x0e\x05\n\x02\n\0\x0e\x05\x0b\x02\x0b\0\x0e\x05\x0c\x02\x0c\0\x0e\x05\x0d\x02\x0d\0\x0e\x05\x0f\x02\x0f\0\n\x0e\x05\x10\x02\x10\0\x0e\x05\x11\x02\x11\0\x0e\x05\x12\x02\x12\0\x0e\x05\x13\x02\x13\0\x0e\x05\x14\x02\x14\0\x0e\x05\x15\x02\x15\0\x0e\x05\x16\x02\x16\0\x0e\x05\x17\x02\x17\0\n\x0e\x05\x18\x02\x18\0\x0e\x05\x19\x02\x19\0\x0e\x05\x1a\x02\x1a\0\x0e\x05\x1b\x02\x1b\0\x0e\x05\x1c\x02\x1c\0\x0e\x05\x1d\x02\x1d\0\x0e\x05\x1e\x02\x1e\0\x0e\x05\x1f\x02\x1f\0\n\x0e\x05 \x02 \0\x0e\x05!\x02!\0\x0e\x05"\x02"\0\x0e\x05#\x02#\0\x0e\x05$\x02$\0\x0e\x05%\x02%\0\n\x0e\x06\0\x02p\0\x0e\x06\x01\x02q\0\x0e\x06\x02\x02r\0\x0e\x06\x03\x02s\0\x0e\x06\x04\x02t\0
+$ExtAbility	\x0e\x05\0\x02\0\0\x0e\x05\x01\x02\x01\0\x0e\x05\x02\x02\x02\0\x0e\x05\x03\x02\x03\0\x0e\x05\x04\x02\x04\0\x0e\x05\x05\x02\x05\0\x0e\x05\x06\x02\x06\0\x0e\x05\x07\x02\x07\0\n\x0e\x05\x08\x02\x08\0\x0e\x05\t\x02\t\0\x0e\x05\n\x02\n\0\x0e\x05\x0b\x02\x0b\0\x0e\x05\x0c\x02\x0c\0\x0e\x05\x0d\x02\x0d\0\x0e\x05\x0f\x02\x0f\0\n\x0e\x05\x10\x02\x10\0\x0e\x05\x11\x02\x11\0\x0e\x05\x12\x02\x12\0\x0e\x05\x13\x02\x13\0\x0e\x05\x14\x02\x14\0\x0e\x05\x15\x02\x15\0\x0e\x05\x16\x02\x16\0\x0e\x05\x17\x02\x17\0\n\x0e\x05\x18\x02\x18\0\x0e\x05\x19\x02\x19\0\x0e\x05\x1a\x02\x1a\0\x0e\x05\x1b\x02\x1b\0\x0e\x05\x1c\x02\x1c\0\x0e\x05\x1d\x02\x1d\0\x0e\x05\x1e\x02\x1e\0\x0e\x05\x1f\x02\x1f\0\n\x0e\x05 \x02 \0\x0e\x05!\x02!\0\x0e\x05"\x02"\0\x0e\x05#\x02#\0\x0e\x05$\x02$\0\x0e\x05%\x02%\0\x0e\x05&\x02&\0\x0e\x05'\x02'\0\x0e\x05(\x02(\0\x0e\x05)\x02)\0\n\x0e\x06\0\x02p\0\x0e\x06\x01\x02q\0\x0e\x06\x02\x02r\0\x0e\x06\x03\x02s\0\x0e\x06\x04\x02t\0
 $Test2A	&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 DialogTwoBtn	{c[fe9a10]}２つボタン{c[000000]}があるダイアログ\nテスト\ntest
 DialogOneBtn	{c[fe9a10]}1つだけボタン{c[000000]}があるダイアログ\nテスト\ntest
@@ -1000,6 +1104,8 @@ KibidangoDemo	出现了！盟友之心
 EndingDemo	遥远的生还～飞吧！新星同盟
 CreditNormal	卡比的谢幕
 CreditExtra	盟友的谢幕
+CreditAdc	快乐结局（？）的谢幕
+CreditAdcTrueEnding	快乐结局的谢幕
 $TheaterNew	NEW
 TitleMenu.msbt
 $TitleMenuNoticeBtn	通知
@@ -1014,13 +1120,18 @@ UnlockHelperGo	用盟友帮手大冒险！\n现在可以玩\n{c[fe9a10]}星之�
 UnlockArenaLv1	那么，来选择自己的极限吧！\n现在可以玩\n{c[fe9a10]}The 终极抉择{c[000000]}了。
 UnlockArenaLv2	The 终极抉择里\n出现了新的难度\n{c[fe9a10]}地狱辣决战口味{c[000000]}和\n{c[fe9a10]}极辣危机口味{c[000000]}！
 UnlockArenaLv3	只有被选上的人\n才敢做这个选择……\n秘密难度\n{c[fe9a10]}灵魂出窍的辣{c[000000]}出现了！！
+UnlockAdc	收集盟友之心，改变结局吧！\n用梦幻盟友全员进行挑战，\n{c[fe9a10]}异次元空间英雄同盟{c[000000]}\n现在可以玩了。
 $TitleMenuHeaderPercent	%
 $TitleMenuHowToBtn	要大家一起玩的话
 $PressStartBtn	按\x0e\x04\0\x02\0\0开始
 $TitleMenuCopyright	\xa92018 HAL Laboratory, Inc. / Nintendo
 $FileSelectPercent	%
 DialogWindowNoticeTitle_00	新的{c[fe9a10]}梦幻盟友{c[000000]}登场！！
-DialogWindowNoticeText_00	可以召唤的梦幻盟友里\n有{c[fe9a10]}新的伙伴{c[000000]}加入，\n现在总共有{c[fe9a10]}\x0e\x03\x01\0位{c[000000]}了！
+DialogWindowNoticeText_00	在可召唤的梦幻盟友中\n增加了{c[fe9a10]}新的伙伴{c[000000]}，\n现在总共有{c[fe9a10]}\x0e\x03\x01\0位{c[000000]}了！ 
+DialogWindowNoticeTitle_05	新的{c[fe9a10]}梦幻盟友{c[000000]}登场！！
+DialogWindowNoticeText_05	在可召唤的梦幻盟友中\n增加了{c[fe9a10]}新的伙伴{c[000000]}，\n现在总共有{c[fe9a10]}\x0e\x03\x01\0位{c[000000]}了！ 
+DialogWindowNoticeTitle_06	梦幻盟友{c[fe9a10]}三魔官姐妹{c[000000]}！
+DialogWindowNoticeText_06	{c[fe9a10]}三魔官姐妹{c[000000]}\n也加入了梦幻盟友！\n现在总共有{c[fe9a10]}\x0e\x03\x01\0位{c[000000]}了！
 DialogWindowNoticeTitle_01	在{c[fe9a10]}梦幻神殿{c[000000]}里召唤出来吧！
 DialogWindowNoticeText_01	梦幻盟友可以从{c[fe9a10]}故事模式{c[000000]}的\n{c[fe9a10]}梦幻神殿{c[000000]}里召唤出来！\n终于可以和{c[fe9a10]}梦幻的成员{c[000000]}一起出发啦！
 DialogWindowNoticeTitle_02	向{c[fe9a10]}The 终极抉择{c[000000]}前进！
@@ -1039,8 +1150,11 @@ DialogBottom_Gooey	来自{c[fe9a10]}《Kirby's Dream Land 3》{c[000000]}的充�
 DialogBottom_Adeleine	来自{c[fe9a10]}《Kirby 64: The Crystal Shards》{c[000000]}的\n{c[fe9a10]}“阿朵莱妮&莉宝”{c[000000]}到了！又见面了呢，绘画的女孩和小精灵！
 DialogBottom_DarkMetaknight	来自{c[fe9a10]}《Kirby & The Amazing Mirror》{c[000000]}，不请自来的\n黑家伙……{c[fe9a10]}“暗魅塔骑士”{c[000000]}，诡异地复苏了！
 DialogBottom_Daroach	来自{c[fe9a10]}《Kirby: Squeak Squad》{c[000000]}的盗贼到了！\n{c[fe9a10]}“怪盗洛切”{c[000000]}寻找宝物，英姿飒爽地登场了！
-DialogWindowUpdateTitle	{c[fe9a10]}更新{c[000000]}的通知！
-DialogWindowUpdateText	《星之卡比 新星同盟》\n已{c[fe9a10]}更新{c[000000]}。\n新增了{c[fe9a10]}许多新的要素{c[000000]}！
+DialogWindowUpdateTitle	{c[fe9a10]}免费更新第3批{c[000000]}的通知！
+DialogWindowUpdateText	《星之卡比 新星同盟》\n{c[fe9a10]}免费更新{c[000000]}！\n增加了新的梦幻盟友，\n{c[fe9a10]}具有可玩性的新模式{c[000000]}也登场了！
+DialogBottom_Mahoroa	来自{c[fe9a10]}《Kirby's Return to Dream Land》{c[000000]}的{c[fe9a10]}“魔法洛亚”{c[000000]}登场了！\n谎言的魔法师，真的假的？成为盟友了！
+DialogBottom_Taranza	来自{c[fe9a10]}《Kirby: Triple Deluxe》{c[000000]}！\n{c[fe9a10]}“塔狼蛛”{c[000000]}从天空之国大驾光临！
+DialogBottom_Susie	来自{c[fe9a10]}《Kirby: Planet Robobot》{c[000000]}！\n{c[fe9a10]}“秘书苏姿”{c[000000]}以科学为武器前来参战！
 WMap.msbt
 ToWMapSelect	前往选择世界
 DialogWindowExit	要返回选择世界吗？
@@ -1135,6 +1249,8 @@ D7	极辣危机口味
 LowerD7	极辣危机口味
 Secret	灵魂出窍的辣
 LowerSecret	灵魂出窍的辣
+SecretEx	灵魂出窍的辣EX
+LowerSecretEx	灵魂出窍的辣EX
 Name\BossName.msbt
 BossNameBonkers	锤星猩
 BossNameGiantironmom	巨大装甲玛姆
@@ -1191,6 +1307,27 @@ BossNameGalacticKnight	星河骑士
 BossTitleGalacticKnight	时空巡逻战士
 BossNameSecretHades	冥蝶骑士
 BossTitleSecretHades	复活的极蝶
+BossNameWhispywoodsUltimate	异次元大树
+BossTitleWhispywoodsUltimate	异界的人面树
+BossNameKingdededeUltimate	异次元帝帝帝
+BossTitleKingdededeUltimate	异界的暗君
+BossNameMetaKnightUltimate	异次元魅塔骑士
+BossTitleMetaKnightUltimate	异界的霜刃
+BossNameKrackoUltimate	异次元大独眼云
+BossTitleKrackoUltimate	异空间的大乱云
+BossNameTwinKrackoUltimate	异次元双重独眼云
+BossTitleTwinKrackoUltimate	异空间的丛云
+BossNameExecutiveUltimate	三魔官姐妹
+BossNameExecutiveUltimateShort	三魔官姐妹
+BossTitleExecutiveUltimate	复仇的忏党
+BossNameHinessUltimate	暗化海内司
+BossTitleHinessUltimate	堕神官
+BossNameSecretHadesUltimate	冥蝶骑士EX
+BossTitleSecretHadesUltimate	灾厄再来的黑极蝶
+BossNameLastBossColossusUltimate	终焉\x0e\x17\0\0・\x0f\x17\0虚无
+BossTitleLastBossColossusUltimate	真 破神
+BossNameLastBossUltimate	虚无
+BossTitleLastBossUltimate	星诞
 Name\CharaName.msbt
 CharaKirby	卡比
 CharaWester	牛仔
@@ -1226,6 +1363,11 @@ CharaMarx	魔噜酷
 CharaAdeleine	阿朵莱妮&莉宝
 CharaDarkMetaknight	暗魅塔骑士
 CharaDaroach	怪盗洛切
+CharaMahoroa	魔法洛亚
+CharaTaranza	塔狼蛛
+CharaSusie	秘书苏姿
+CharaExecutives	三魔官姐妹
+CharaExecutivesShort	三魔官姐妹
 Name\FriendCopy.msbt
 SwordFlame	火焰剑
 SwordFreeze	冰雪剑
@@ -1304,6 +1446,12 @@ MarxThunder	电气魔噜酷
 MarxAqua	冲击魔噜酷
 MarxWind	风切魔噜酷
 AdeleineMulti	野餐画家
+MagolorThrow	飞吧魔法帆洛亚
+SusieFlame	火焰苏姿
+SusieFreeze	冰雪苏姿
+SusieThunder	电气苏姿
+SusieAqua	冲击苏姿
+SusieWind	风切苏姿
 Name\StageName.msbt
 L1S1	绿庭旅途
 L1S2	甜甜圈土穴
@@ -1398,6 +1546,12 @@ Marx	嘿、嘿、嘿！来自《Kirby Super Star》的\n小丑终于登场了！
 Adeleine	久等了！来自《Kirby 64: The Crystal Shards》，\n真没想到还能与她们相见……\n艺术女孩和小精灵，重返波普之星！\n对体力没什么自信……但会描绘奇迹般的画来战斗，\n用闪闪发光的水晶射击敌人！
 DarkMetaknight	来自天空那边的《Kirby & The Amazing Mirror》，\n不请自来的影子无所畏惧地复苏了！\n用心的力量革新过了？心怦怦跳，\n虽然是个极度怪异的家伙，但与其同行的话，\n会很放心。用影子的力量，让光……到来！
 Daroach	我要获得那宝物！来自《Kirby: Squeak Squad》，\n预告……怪盗洛切前来参战！\n没有偷不到的东西。不管是盟友还是其他，\n都会去偷，所以一起去寻宝吧。\n现在，带上团员去财宝大狩猎！
+Mahoroa	哇哦，太棒了！《Kirby's Return to Dream Land》的\n可爱谎言魔术师终于来了！\n要说盟友的话，就是朋友。要说朋友的话，\n没错，是最佳的盟友。也就是说，轮到我出场了！\n那么，大家一起速速出发，支配这个宇宙吧！
+Taranza	真的是能一眼看透呢！来自《Kirby: Triple Deluxe》的\n这位呆萌又有点小聪明的大少爷从天空\n降临到了地面！啊，好想见见女王陛下呢……\n赶紧和这位沉湎于思念又孤单的昆虫\n成为盟友，踏上寻找某物的旅途吧！
+Susie	让我驱逐你吧！来自《Kirby: Planet Robobot》的\n干练美女秘书苏姿前来参战！\n一边说着我日程全满，忙得不可开交，\n一边以科学为武器，计划着要重振公司。\n乘坐着心爱的“力炼霸”，去遥远的地方出差！
+ExecutivesFreeze	……邪魔了哈。难道是来自《新星同盟》，\n操纵冰的三魔官冰斧基斯也成为了盟友！？\n收集心，创造奇迹，意想不到的特别参战！\n不喜欢无谓的杀生，但会把自己认为的敌人冻成冰。\n因此冰冻的收藏品也随之不断在增加。
+ExecutivesFlame	……邪魔了哈好热。难道是来自《新星同盟》，\n操纵火的三魔官炎剑露啾也成为了盟友！？\n收集心，创造奇迹，意想不到的特别参战！\n经常去基斯家里玩，但无论什么都会立刻被融化，\n因而会惹基斯生气。不过，又无所畏惧地去玩了。
+ExecutivesThunder	我的名字，不要忘记！难道是来自《新星同盟》，\n操纵雷的三魔官雷枪帕噜提扎努也成为了盟友！？\n收集心，创造奇迹，意想不到的特别参战！\n身为三魔官中最年长的，她恪守礼节，有恩必报。\n但是，粉胖墩……帮你的忙可是只此一回哦！
 FriendsStar	聚集了盟友们的力量，\n闪闪发光的星星诞生了！\n不论是空中还是地上，\n大家都能随意射出星星子弹！\n按\x0e\x07\x02\x02\x02\0调换位置，\n由领头的成员瞄准对手的弱点！
 FriendsRolling	聚集了盟友们的力量，\n朋友们的大环诞生了！\n顺着斜坡骨碌骨碌地滚，\n用大大的轮环顺走物品，\n沟渠的话，可以通过长按来跳跃！
 FriendsBridge	聚集了盟友们的力量，\n友谊的桥梁诞生了！\n按\x0e\x04\x17\x02\xc4\0\x0e\x04\x15\x02\xc2\0快速地舞动手脚，\n调整路线，是解开谜题的关键！\n引导你前往那家伙所在地的桥梁！
@@ -1470,14 +1624,48 @@ TextLastBossEx4	{s[090]}分不清是童话还是梦话……那本传说的书\n
 TitleGalacticKnight	VS 星河骑士
 TitleBknight	VS 冥蝶骑士
 TextBknight	{s[090]}默默忍耐着的极乐梦蝶于审判之日飞临。\n带它来此的据说是银河最强的白色骑士。\n与漫长的生命呼喊产生共鸣，\n化身黄泉骑士降临于世。\n本已被埋葬在历史的黑暗中，绝无可能一战。\n但现在，与它的梦幻对决……即将拉开帷幕！！{s[100]}
+TitleWhispywoodsUltimate	VS 异次元大树
+TextWhispywoodsUltimate	前往充斥着各种杂乱次元的异次元空间的洞被打开了。\n总共有4个洞。在那里还有未曾见过的凶恶敌人\n“异界四天王”正翘首以待。那前锋是风语大树！？\n风语大树无数次被打败的意念集合在异界，\n成为历代最凶的人面树，现在就挑战吧！
+TitleKrackoUltimate1	VS 异次元大独眼云
+TextKrackoUltimate1	因为是从双重开始的，所以觉得非常怪异。\n因源自黑色天空的力量和怨念而复苏，\n在小小异空间闹腾的充满执念的独眼云！\n赌上初代开始就身为看门魔头的荣耀，\n以满溢的力量而变大的独眼云，前来决战！
+TitleKrackoUltimate2	VS 异次元双重独眼云
+TextKrackoUltimate2	无论那里是异次元空间还是其他次元的世界，\n天地一定就在那里！而且，那里只要有天空，\n就会无数次地生成缭绕的云雾！\n流着泪消失飞散的同胞们的强烈逆反之心，\n如今在异界的天空集合了！
+TitleKingdededeUltimate	VS 异次元帝帝帝
+TextKingdededeUltimate	从故事的一开始，帝帝帝大王就参与其中了。\n将邪魔之心收集到海内司那里，\n与那位大王的意念一起前往异界。诞生于那里的\n黑暗君主与那家伙很像，但并非是那家伙！\n如野兽般狂暴，真不愧是与异界之王相称的猛士！
+TitleMetaKnightUltimate	VS 异次元魅塔骑士
+TextMetaKnightUltimate	魅塔骑士在纷纷落下的邪魔之心中，独自面对\n盟军梦想，守护着居民们。因此而受邪魔之心的影响，\n失去了意识，但被赶来的卡比他们所救。\n那个时候，他的意识通过邪魔之心被带到了异界，\n和克隆也有所不同，而是诞生为了异界的骑士！
+TitleSPonGKonUltimate	VS 金狸&银狐
+TextSPonGKonUltimate	他们不断击退盯上金银的赏金猎人，\n但实际上偶尔也会希望能出岛旅行。\n好像还曾经制作了华丽的竹筏。\n那么，为什么没有去旅行呢？试着打听下的话……\n{s[140]}\x0e\x15\0\x02\xec\xff“会沉没的哦！因为全身都是金属！！”{s[100]}
+TitleExecutiveIceUltimate	VS 冰斧基斯
+TextExecutiveIceUltimate	据说，很久以前……暴风雪中有个冻得瑟瑟发抖的人。\n在这个渐渐冻僵的人面前，出现了某位旅人并赐予其魔力。\n于是，这人因为魔力的影响而觉醒，\n成为了美丽的蓝色少女，获得了强大的冰之魔力。\n那就是后来的冰斧基斯。
+TitleExecutiveFireUltimate	VS 炎剑露啾
+TextExecutiveFireUltimate	据说，很久以前……在逼近的业火中，向天怒吼的人。\n在这穷途末路的人面前，出现了某位旅人并赐予其魔力。\n于是，这人因为魔力的影响而觉醒，\n成为了美丽的红色少女，获得了强大的火之魔力。\n那就是后来的炎剑露啾。
+TitleExecutiveThunderUltimate	VS 雷枪帕噜提扎努
+TextExecutiveThunderUltimate	据说，很久以前……有个因失去一切而登上高塔的人，\n被毫无慈悲之心的雷击落。在这个气息奄奄的人面前，\n出现了某位旅人并赐予其魔力。于是，这人因为魔力的影响\n而觉醒，成为了美丽的金色少女，获得了强大的雷之魔力。\n那就是……后来的雷枪帕噜提扎努。
+TitleHinessUltimate1	VS 暗化海内司
+TextHinessUltimate1	落入了其中一个通往异界的洞穴中的海内司。\n曾经的黑暗离开主人之手，成为异界的巨大邪魔之心，\n反抗海内司的意志，并将其身体吞没！有什么办法\n将他从这黑暗中解救出来吗……来到异空间的盟友，\n能够创造奇迹，点亮希望之光吧……！？
+TitleHinessUltimate2	VS 暗化海内司
+TextHinessUltimate2	{s[085]}邪得＝是的 邪否＝不 吉＝我 邪皮＝高兴\n麻吉邪斯＝美味 邪外那＝可爱 麻佛＝说谎 基弗＝如果\n邪斯密＝晚安 里加＝疼 哥破可＝吃惊 哈鲁达＝心\n邪乃伤＝悲伤 空久＝疯狂 魔破望＝希望 洛亚＝乐园\n{s[100]}{s[140]}\x0e\x15\0\x02\xec\xff{s[100]}{s[100]} “雷枪帕噜提扎努，基弗魔久，吉哈鲁达空久……邪否。”\n{s[100]}{s[140]}\x0e\x15\0\x02\n\0{s[100]}{s[075]}（意思：雷枪帕噜提扎努，如果我的心又疯狂了……不，没关系～）{s[100]}
+TitleExecutiveUltimate	VS 三魔官姐妹
+TextExecutiveUltimate	齐心协力，成为强大的三叉，挑战最终决战的三魔官！\n她们一路追着主人，最终到达了这个通往各种世界的\n异界之尽头。依赖暗之神的目的只有一个，就是希望\n能够再次见到那时候的主人，祈祷奇迹的发生。\n相信她们……虽然只有一丝希望，但一定能获得大团圆！！
+TitleBknightUltimate	VS 冥蝶骑士EX
+TextBknightUltimate	在审判之日由异次元空间飞来的极乐梦蝶。\n是梦之国，还是黄泉之国……接下来要去\n哪个次元呢。获得自白色骑士的力量日益增强，\n终于将那力量据为己有。发挥出真正力量的\n黑色极蝶的审判之日……就是现在，直面黄昏！
+TitleLastBossUltimate1	VS 真 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossUltimate1	{s[095]}升起来吧！破坏神啊！\n碾碎星星，毁灭爱啊！{s[070]} （4times repeat）\n- Inter -{s[095]}\n让大地哀鸿遍野，如你所愿，\n踏遍群星，奏响摧毁之乐，\n让远方的乐园，永远{s[070]}（2times repeat）{s[095]}……终结！{s[100]}
+TitleLastBossUltimate2	VS 真 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossUltimate2	{s[095]}升起来吧！破坏神啊！\n吞噬星星，毁灭爱啊！{s[070]} （4times repeat）\n- Inter -{s[095]}\n让天空响彻哀鸣，从天而降的黑暗哦，\n审判星之子，奏响尖叫之乐，\n让梦的乐园，永远{s[070]}（2times repeat）{s[095]}……终结！{s[100]}
+TitleLastBossUltimate3	VS 真 破神终焉\x0e\x17\0\0・\x0f\x17\0虚无
+TextLastBossUltimate3	{s[090]}只有在异空间里，才有自由飞翔的“虚无”。\n古代的人们看到如星星般闪耀的他，将他与谜团一起留在了典籍上。\n梦、黑暗、灵魂、心……\n那物质里集合了所有混沌与可能性，成为了渊源的鼻祖。\n被留在典籍上的这个新的存在是，\n{s[100]}{s[140]}\x0e\x15\0\x02\xce\xff破神、星之盟友、还是……！？{s[100]}
+TitleLastBossUltimate4	VS 虚无
+TextLastBossUltimate4	{s[090]}结束这场战斗……超越那个星星……虚无不紧不慢地\n走到了下一个时代。只知蹂躏之术的他，不知不觉地\n被和煦的春风包围，降落到遥远的乐园，懂得人心。\n{s[100]}{s[140]}\x0e\x15\0\x02\xc9\xff{s[100]}{s[090]}在那里，自由飞翔，吃饱喝足。还能午睡。\n一直以来无法实现的梦想，或许能成真了。没错……\n{s[100]}{s[140]}\x0e\x15\0\x02\xd8\xff和朋友相遇，那个梦想{s[100]}{s[150]}……！{s[100]}
 Pause\CommandAdeleine.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	彩笔挥击
 C12	冲刺＋\x0e\x07\x01\x02\x01\0
 D12	奋不顾身彩笔
-C13	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+C13	\x0e\x04\x15\x02\xc2\0＋放开\x0e\x07\x01\x02\x01\0
 D13	画家
-C14	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+C14	\x0e\x04\x15\x02\xc2\0＋长按\x0e\x07\x01\x02\x01\0～放开
 D14	阿朵画家
 C15U	“阿朵画家”可以乘着召唤来的魔头战斗！
 C21	在空中\x0e\x07\0\x02\0\0
@@ -1514,9 +1702,10 @@ C12	\x0e\x07\x01\x02\x01\0之后\x0e\x04\x16\x02\xc3\0＋\x0e\x07\x01\x02\x01\0
 C13W	连打\x0e\x07\x01\x02\x01\0
 C14	长按\x0e\x07\x01\x02\x01\0～放开
 C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
-C22	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
-C23	冲刺＋\x0e\x07\x01\x02\x01\0
-C24	冲刺＋在空中连打\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C23	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24	冲刺＋\x0e\x07\x01\x02\x01\0
+C25	冲刺＋在空中连打\x0e\x07\x01\x02\x01\0
 C31	冲刺＋长按\x0e\x07\x01\x02\x01\0～放开
 C32	在水中\x0e\x07\x01\x02\x01\0
 C33	在水中\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
@@ -1526,9 +1715,10 @@ D12	回马枪
 D13	瓦豆百烈枪\n　～致命刺
 D14	瓦豆直升机
 D21	天空刺
-D22	落月刺
-D23	瓦豆掷枪
-D24	连续瓦豆掷枪
+D22	大地刺
+D23	落月刺
+D24	瓦豆掷枪
+D25	连续瓦豆掷枪
 D31	瓦豆三连掷
 D32	水中刺枪
 D33	水中上刺
@@ -1790,6 +1980,84 @@ C53	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
 C54	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
 D53	电气剑
 D54	电气弯刀
+Pause\CommandExecutives.msbt
+D11	姐妹击掌
+D22Freeze	奇斯卡斧\x0e\x17\0\0・\x0f\x17\0下劈
+D23Freeze	奇斯卡斧\x0e\x17\0\0・\x0f\x17\0横行
+D24Freeze	奇斯卡斧\x0e\x17\0\0・\x0f\x17\0上劈
+D25Freeze	奇斯卡斧\x0e\x17\0\0・\x0f\x17\0陨石
+D31Freeze	冰品
+D32Freeze	冰结意式冰淇淋
+D33Freeze	摇晃汽水
+D34Freeze	优雅逃脱
+D52Freeze	冰雪剑
+D53Freeze	冰雪弯刀
+D54Freeze	冲击剑
+D22Flame	焰形剑\x0e\x17\0\0・\x0f\x17\0挥击
+D23Flame	焰形剑\x0e\x17\0\0・\x0f\x17\0进袭
+D24Flame	焰形剑\x0e\x17\0\0・\x0f\x17\0终了
+D25Flame	炎剑\x0e\x17\0\0・\x0f\x17\0炎烧
+D31Flame	烧烤派对
+D32Flame	炽热\x0e\x17\0\0・\x0f\x17\0烘烤剑
+D33Flame	烤炉\x0e\x17\0\0・\x0f\x17\0全熟
+D34Flame	爆发跳跃
+D35Flame	爆发跨步
+D52Flame	火焰剑
+D53Flame	火焰弯刀
+D54Flame	火焰炸弹
+D22Thunder	阔头枪\x0e\x17\0\0・\x0f\x17\0斩
+D23Thunder	阔头枪\x0e\x17\0\0・\x0f\x17\0下斩
+D24Thunder	阔头枪\x0e\x17\0\0・\x0f\x17\0千斩
+D31Thunder	电光柠檬汽水
+D32Thunder	发起雷电
+D33Thunder	闪电泡芙
+D34Thunder	闪光电光
+D52Thunder	电气剑
+D53Thunder	电气弯刀
+D54Thunder	电气炸弹
+D41	姐妹滚轮
+C11	\x0e\x04\x15\x02\xc2\0＋放开\x0e\x07\x01\x02\x01\0
+C12U	可以使用“姐妹击掌”和下一位三魔官交换！
+C21UFreeze	冰斧基斯的操作
+C22Freeze	放开\x0e\x07\x01\x02\x01\0
+C23Freeze	冲刺＋\x0e\x07\x01\x02\x01\0
+C24Freeze	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C25Freeze	奇斯卡斧\x0e\x17\0\0・\x0f\x17\0上劈后\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C31Freeze	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C32Freeze	长按\x0e\x07\x01\x02\x01\0～放开
+C33Freeze	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+C34Freeze	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+C51UWFreeze	{c[fe9a10]}冰斧基斯{c[000000]}\n用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}冰{c[000000]}或{c[fe9a10]}水{c[000000]}之力！
+C52Freeze	\x0e\x06\x03\x02s\0＋\x0e\x05\x11\x02\x11\0
+C53Freeze	\x0e\x06\x03\x02s\0＋\x0e\x05\x07\x02\x07\0
+C54Freeze	\x0e\x06\0\x02p\0＋\x0e\x05\x11\x02\x11\0
+C21UFlame	炎剑露啾的操作
+C22Flame	\x0e\x07\x01\x02\x01\0～\x0e\x07\x01\x02\x01\0
+C23Flame	焰形剑\x0e\x17\0\0・\x0f\x17\0挥击后\x0e\x07\x01\x02\x01\0
+C24Flame	焰形剑\x0e\x17\0\0・\x0f\x17\0进袭后\x0e\x07\x01\x02\x01\0
+C25Flame	冲刺＋\x0e\x07\x01\x02\x01\0
+C31Flame	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C32Flame	在空中\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C33Flame	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34Flame	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C35Flame	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+C51UWFlame	{c[fe9a10]}炎剑露啾{c[000000]}\n用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}火之力{c[000000]}！
+C52Flame	\x0e\x06\x04\x02t\0＋\x0e\x05\x11\x02\x11\0
+C53Flame	\x0e\x06\x04\x02t\0＋\x0e\x05\x07\x02\x07\0
+C54Flame	\x0e\x06\x04\x02t\0＋\x0e\x05\x1a\x02\x1a\0
+C21UThunder	雷枪帕噜提扎努的操作
+C22Thunder	\x0e\x07\x01\x02\x01\0～\x0e\x07\x01\x02\x01\0
+C23Thunder	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C24Thunder	冲刺＋\x0e\x07\x01\x02\x01\0
+C31Thunder	\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0
+C32Thunder	\x0e\x04\x15\x02\xc2\0\x0e\x04\x14\x02\xc1\0＋连打\x0e\x07\x01\x02\x01\0
+C33Thunder	\x0e\x04\x15\x02\xc2\0\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C34Thunder	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0＋\x0e\x04\x13\x02\xc0\0
+C51UWThunder	{c[fe9a10]}雷枪帕噜提扎努{c[000000]}\n用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}电之力{c[000000]}！
+C52Thunder	\x0e\x06\x02\x02r\0＋\x0e\x05\x11\x02\x11\0
+C53Thunder	\x0e\x06\x02\x02r\0＋\x0e\x05\x07\x02\x07\0
+C54Thunder	\x0e\x06\x02\x02r\0＋\x0e\x05\x1a\x02\x1a\0
+C41	\x0e\x04\x15\x02\xc2\0＋长按\x0e\x07\x01\x02\x01\0～放开
 Pause\CommandFestival.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	跳舞庆典
@@ -2000,6 +2268,7 @@ C21	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
 C22	帝帝帝鬼杀锤时\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
 C23	冲刺＋\x0e\x07\x03\x02\x03\0
 C24	冲刺＋\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C25	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
 C31	在水中\x0e\x07\x01\x02\x01\0
 C32	在空中\x0e\x07\0\x02\0\0
 C33	盘旋时\x0e\x07\x01\x02\x01\0
@@ -2012,6 +2281,7 @@ D21	帝帝帝鬼杀锤
 D22	蓄力中移动
 D23	帝帝帝丢出爆裂锤
 D24	扑垒
+D25	超级帝帝帝跳跃
 D31	水中大车轮
 D32	盘旋
 D33	空气弹
@@ -2023,6 +2293,42 @@ D52	火焰锤
 D53	冰雪锤
 D54	电气锤
 Pause\CommandLastCloseContest.msbt
+Pause\CommandMahoroa.msbt
+D11	魔力球
+D12	革命球
+D13	革命火焰
+D21	弑针
+D22	双重弑针
+D23	四重弑针
+D24	魔法洛亚猛攻
+D31	苹果宝石炸弹
+D32	起爆
+D33	黑洞
+D34	发动
+D41	究极剑
+D42	反弹防护罩
+D43	异空间消失
+D51	呼叫洛亚
+D52	飞吧魔法帆洛亚
+D54	风切剑
+C11	放开\x0e\x07\x01\x02\x01\0
+C12	稍微长按\x0e\x07\x01\x02\x01\0～放开
+C13	超长按\x0e\x07\x01\x02\x01\0～放开
+C21	\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+C22	\x0e\x04\x17\x02\xc4\0＋稍微长按\x0e\x07\x01\x02\x01\0～放开
+C23	\x0e\x04\x17\x02\xc4\0＋超长按\x0e\x07\x01\x02\x01\0～放开
+C24	冲刺＋\x0e\x07\x01\x02\x01\0
+C31	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C32	苹果宝石炸弹～\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C33	在空中\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～转动\x0e\x04\x13\x02\xc0\0
+C34	黑洞～放开\x0e\x07\x01\x02\x01\0
+C41	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+C42	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C43	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C51	长按\x0e\x04\x17\x02\xc4\0
+C52	盟友乘坐时放开\x0e\x04\x17\x02\xc4\0
+C53UW	用\x0e\x04\x17\x02\xc4\0攻击伙伴举起的{c[fe9a10]}武器{c[000000]}，就能给武器加上{c[fe9a10]}风{c[000000]}或{c[fe9a10]}火{c[000000]}之力！\n另外还有各种各样的组合！
+C54	\x0e\x06\x01\x02q\0＋\x0e\x05\x11\x02\x11\0
 Pause\CommandMarx.msbt
 C11	\x0e\x07\x01\x02\x01\0
 C12	站上小丑球时\x0e\x07\x01\x02\x01\0
@@ -2071,8 +2377,9 @@ C22	冲刺＋在空中\x0e\x07\x01\x02\x01\0
 C23	在空中\x0e\x07\x01\x02\x01\0
 C24	在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
 C31	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
-C32	长按\x0e\x07\x01\x02\x01\0～放开
-C33	长按\x0e\x07\x01\x02\x01\0～放开＋\x0e\x04\x17\x02\xc4\0
+C32	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+C33	长按\x0e\x07\x01\x02\x01\0～放开
+C34	长按\x0e\x07\x01\x02\x01\0～放开＋\x0e\x04\x17\x02\xc4\0
 C41	冲刺＋在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
 C42	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
 C43	在空中\x0e\x07\0\x02\0\0
@@ -2086,8 +2393,9 @@ D22	旋转骑士斩
 D23	魅塔劈
 D24	下刺
 D31	上刺
-D32	魅塔回旋斩
-D33	马赫龙卷风
+D32	银河反击
+D33	魅塔回旋斩
+D34	马赫龙卷风
 D41	魅塔秃鹰俯冲
 D42	翻转穿梭
 D43	展翅
@@ -2382,6 +2690,52 @@ C51W	用\x0e\x04\x17\x02\xc4\0举起手，\n盟友用跳跃碰触。
 D51	抓住盟友
 C52	用\x0e\x07\0\x02\0\0/\x0e\x07\x01\x02\x01\0/\x0e\x04\x13\x02\xc0\0改变投掷方向
 D52	力投盟友
+Pause\CommandSusie.msbt
+D11	H.W.C.制镭射枪
+C11	\x0e\x07\x01\x02\x01\0
+D12	蓄力
+C12	冲刺＋长按\x0e\x07\x01\x02\x01\0
+D13	运输器攻击
+C13	微蓄力～放开\x0e\x07\x01\x02\x01\0
+D14	运输器推进
+C14	中蓄力～放开\x0e\x07\x01\x02\x01\0
+D21	火箭少女
+C21	超蓄力～放开\x0e\x07\x01\x02\x01\0
+D22	少女砰
+C22	火箭少女～碰撞墙壁
+D23	少女爆竹
+C23	火箭少女～\x0e\x07\x01\x02\x01\0
+D24	全心全意俯冲
+C24W	超蓄力～在敌人旁边\n\x0e\x04\x17\x02\xc4\0/\x0e\x04\x14\x02\xc1\0任意一个＋\x0e\x07\x01\x02\x01\0
+D31	蓄力库存
+C31	超蓄力时\x0e\x07\0\x02\0\0或\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D32	推进跳高
+C32	蓄力库存～在空中\x0e\x07\0\x02\0\0
+D33	运输器
+C33	在空中\x0e\x07\0\x02\0\0
+D34	单手射击
+C34	运输器时\x0e\x07\x01\x02\x01\0
+D41	搭乘力炼霸
+C41	\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D42	跳跃 / ２段跳跃
+C42	乘坐力炼霸\x0e\x07\0\x02\0\0
+D43	高速旋转
+C43	乘坐力炼霸\x0e\x07\x01\x02\x01\0
+D44	高速旋转跳舞
+C44	高速旋转时\x0e\x04\x16\x02\xc3\0/\x0e\x04\x14\x02\xc1\0
+D81	多粒导弹
+C81	乘坐力炼霸\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D82	螺丝起子落下
+C82W	乘坐力炼霸\n在空中\x0e\x04\x15\x02\xc2\0＋\x0e\x07\x01\x02\x01\0
+D83	离开力炼霸
+C83W	乘坐力炼霸长按\x0e\x04\x03\x02\x03\0\n或\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+C51UW	用\x0e\x04\x17\x02\xc4\0举起{c[fe9a10]}武器{c[000000]}，让伙伴加上{c[fe9a10]}属性{c[000000]}吧！\n另外还有各种各样的组合！
+C52	\x0e\x05(\x02(\0＋\x0e\x06\x04\x02t\0
+C53	\x0e\x05(\x02(\0＋\x0e\x06\x03\x02s\0
+C54	\x0e\x05(\x02(\0＋\x0e\x06\x02\x02r\0
+D52	火焰苏姿
+D53	冰雪苏姿
+D54	电气苏姿
 Pause\CommandSword.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	直斩
@@ -2416,6 +2770,43 @@ C53	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x03\x02s\0
 D53	冰雪剑
 C54	\x0e\x05\x11\x02\x11\0＋\x0e\x06\x02\x02r\0
 D54	电气剑
+Pause\CommandTaranza.msbt
+D11	魔术蜘蛛丝
+C11	放开\x0e\x07\x01\x02\x01\0
+D12	塔狼蛛捕捉蜘蛛网
+C12	长按\x0e\x07\x01\x02\x01\0＋转动\x0e\x04\x13\x02\xc0\0
+D13	弹飞
+C13	敌人在捕捉蜘蛛网中放开\x0e\x07\x01\x02\x01\0
+D14	心爱的世界树
+C14	\x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D21	塔狼蛛爆发
+C21	\x0e\x04\x15\x02\xc2\0＋放开\x0e\x07\x01\x02\x01\0
+D22	超级塔狼蛛爆发
+C22	\x0e\x04\x15\x02\xc2\0＋长按\x0e\x07\x01\x02\x01\0～放开
+D23	塔狼蛛球
+C23	在空中\x0e\x04\x17\x02\xc4\0＋放开\x0e\x07\x01\x02\x01\0
+D24	超级塔狼蛛球
+C24	在空中\x0e\x04\x17\x02\xc4\0＋长按\x0e\x07\x01\x02\x01\0～放开
+D31	发射蜘蛛网
+C31	冲刺＋\x0e\x07\x01\x02\x01\0
+D32	散射蜘蛛网
+C32	冲刺＋在空中\x0e\x07\x01\x02\x01\0
+D33	女王幻影
+C33	\x0e\x04\x15\x02\xc2\0 \x0e\x04\x17\x02\xc4\0＋\x0e\x07\x01\x02\x01\0
+D41	踢飞丝茧
+C41	接触丝茧
+D42	丝茧捕获
+C42	在丝茧旁边\x0e\x07\x01\x02\x01\0
+D43	摔丝茧
+C43	丝茧捕获＋\x0e\x07\x01\x02\x01\0/丝茧捕获＋\x0e\x04\x14\x02\xc1\0
+D44	摔摔丝茧
+C44	丝茧捕获＋\x0e\x04\x17\x02\xc4\0\x0e\x04\x16\x02\xc3\0\x0e\x04\x15\x02\xc2\0的任意一个
+D45	魔术防御
+C45	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+D51	张开蜘蛛网
+C51	\x0e\x04\x17\x02\xc4\0
+D52	弹跳盟友
+C52	用跳跃触碰张开蜘蛛网
 Pause\CommandTwinkleStarAllies.msbt
 C11	\x0e\x07\x01\x02\x01\0
 D11	闪耀彗星
@@ -2549,6 +2940,8 @@ TitleWMapLv5	星之卡比\n新星同盟
 TextWMapLv5	海内司所说的“神”，实际是没有\n善恶之心，只为了破坏而诞生的存在……\n名为“破神终焉\x0e\x17\0\0・\x0f\x17\0虚无”。\n哪有这样的神，不要手下留情！\n星之卡比最大的战斗……现在开始！！
 TitleArena	The 终极抉择
 TextArena	现在可以选择全新的战斗庆典！\n突破自己的极限……The 终极抉择！\n自己选择究极的试炼种类！\n和盟友们一起，把成群结队逼近的\n超辣魔头军团也全部大口大口吃完！
+TitleAdc	异次元空间英雄同盟
+TextAdc	受到海内司不断祈祷的影响，\n通往各种次元的异次元空间之洞被打开了。\n因此，在这个次元你也能成为梦幻盟友了！\n但是，等待着你的是颠覆常规的强大魔头们。\n前往异空间，收集心，生出……希望之光吧！
 Pause\SpecialHelperGo.msbt
 TextBladeknight	{s[120]}“我也要像那人一样，成为剑术高手！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　绿色的战士向自己的剑起誓。\n　要追求剑道的极致，成为征服世界的\n　剑术大师！用火、用风、用电、\n　用全新的剑招不断前进！{s[100]}
 TextSirkibble	{s[120]}“我会像这把弯刀一样，不管多少次都会回来的！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　铠甲的里面是高度机密。\n　那家伙踏上了冒险的旅程！就像他的黄金残刀一样，\n　无论输了多少次，都会再次发起挑战……\n　永不气馁才是真正的铠甲！{s[100]}
@@ -2583,3 +2976,9 @@ TextMarx	{s[120]}“无视我的存在，正在计划着什～么！”{s[100]}\
 TextAdeleine	{s[120]}“我回来了！一起去旅行吧！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　阿朵莱妮&莉宝从《Kirby 64: The Crystal Shards》\n　归来了！抱歉，这次旅行去了稍微有点远的\n　地方……不过，我画画更厉害了，和莉宝\n　一起回来了哦。让我们也加入吧！{s[100]}
 TextDarkMetaknight	{s[120]}“………………”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　那不请自来的骑士从《Kirby & The Amazing Mirror》\n　复苏了！哎？和魅塔骑士打架了？\n　不过，如果成为盟友的话，就没关系了。\n　镜之国的影子，被银河那头的黑暗吸引，飞翔！{s[100]}
 TextDaroach	{s[120]}“那黑色的，心之宝石……收下！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　那盗贼来自《Kirby: Squeak Squad》，\n　精神抖擞，预告！知道银河里有黑色的心之宝石，\n　展开了旅行……呼，这个必须要拿到。\n　再次盯上散发着危险气息的宝物！{s[100]}
+TextMahoroa	{s[120]}“让你们见识下，最佳盟友之力！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　嘿嘿笑着从《Kirby's Return to Dream Land》中来，\n　厚脸皮的谎言魔术师，自称朋友，诡异参战了！\n　邪恶就有着能感受邪恶气氛的力量！？\n　作为敌人很棘手，不过是朋友的话……很可靠？{s[100]}
+TextTaranza	{s[120]}“……一定要创造奇迹！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　只是想要见一面，从《Kirby: Triple Deluxe》\n　来到此处的银发小子，目标是能实现奇迹的\n　那个祭坛！其实他自己也知道结局。但是，\n　仍然不得不朝着那光飞过去……！{s[100]}
+TextSusie	{s[120]}“那位大人的公司……我要重建给你们看！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　酷酷地拨开那闪亮的头发，从《Kirby: Planet Robobot》而来的\n　美女秘书苏姿，继承了那位的意志，前来挑战！\n　她立志要用科学之力让全家过上幸福美满的生活……\n　而这个理念的根本，就是要把那些野蛮家伙都赶走！{s[100]}
+TextExecutivesFreeze	{s[120]}“……要是敢反抗，就把你冻成冰块！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　真不愧是来自《新星同盟》的冷血蓝女巫！\n　已经不光是祈祷了。三人为了主人的生命，驱逐出现在\n　遥远祭坛的黑暗，寻找新的乐园，一起踏上了希望之旅。\n　但因为露啾在附近，所以有点热，好烦恼！{s[100]}
+TextExecutivesFlame	{s[120]}“啊哈哈！基斯，要大显身手了哦！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　真不愧是来自《新星同盟》的热血红女巫！\n　已经不光是祈祷了。三人为了主人的生命，驱逐出现在\n　遥远祭坛的黑暗，寻找新的乐园，一起踏上了希望之旅。\n　和基斯在一起，总会比平时燃烧得更～火热！{s[100]}
+TextExecutivesThunder	{s[120]}“好吧！让你看看三魔官之首的厉害！”{s[100]}\n{s[100]}\x0e\x15\0\x02\xe2\xff　真不愧是来自《新星同盟》的雷电金色女巫！\n　已经不光是祈祷了。三人为了主人的生命，驱逐出现在\n　遥远祭坛的黑暗，寻找新的乐园，一起踏上了希望之旅。\n　海内司大人，请期待……我的积极表现！{s[100]}

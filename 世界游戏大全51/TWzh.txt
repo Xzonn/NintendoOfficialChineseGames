@@ -1,0 +1,5399 @@
+common.msbt
+cmn_tlp01	[0]
+cmn_tlp02	GO
+cmn_tlp111	遊戲結束
+cmn_tlp113	遊戲結束
+cmn_tlp112	時間到
+cmn_tlp121	連接賽道，開始競賽！
+cmn_tlp122	製作釣場，一起釣魚吧！
+cmn_tlp123	用連接好的樂器開始演奏吧！
+cmn_tlp124	連接戰場，打倒敵人吧！
+cmn_tlp125	排列畫面，滑動硬幣。
+cmn_tlp150	關卡 [0]
+cmn_tlp160	等級 [0]
+cmn_tlp161	回合 [0]
+cmn_tlp162	最終回合
+cmn_tlp200	步驟[0]\x0d\n[1]
+cmn_tlp70	[0]
+cmn_tlp71	-
+cmn_tlp75	佔先
+cmn_tlp999	999手結束
+cmn_rank_00	{c[ffffff]}1st{c[ffffff]}
+cmn_rank_01	2nd
+cmn_rank_02	3rd
+cmn_rank_03	4th
+cmn_btn00	OK
+cmn_btn01	重置
+cmn_guest2	玩家 2
+cmn_guest3	玩家 3
+cmn_guest4	玩家 4
+cmn_com0	CPU
+cmn_com1	CPU 1
+cmn_com2	CPU 2
+cmn_com3	CPU 3
+cmn_name_figure00	哈林
+cmn_name_figure01	雷恩
+cmn_name_figure02	肯妮莎
+cmn_name_figure03	式部
+cmn_name_figure04	奧利維
+cmn_name_figure05	里卡多
+cmn_name_figure06	亨利
+cmn_name_figure07	薩米亞
+cmn_name_figure08	尼可拉斯
+cmn_name_figure09	泰隆
+cmn_name_figure10	丹尼爾
+cmn_name_figure11	克莉絲蒂娜
+cmn_name_figure12	美玲
+cmn_name_figure13	云
+cmn_name_figure14	蘇菲亞
+cmn_name_figure15	希巴姆
+cmn_name_figure16	艾達
+cmn_name_figure17	愛德華
+cmn_name_figure_34p	艾達
+cmn_name_figure_ttm	查克
+cmn_name_figure_mc_00	拉賽爾
+cmn_name_figure_mc_01	莉塔
+cmn_name_figure_mc_02	尚海
+cmn_name_figure_mc_03	亞伯特
+cmn_name_filter00	馬上就能遊玩的世界上遊戲！
+cmn_name_filter01	用觸碰方式來對戰吧！
+cmn_name_filter02	你知道這個遊戲嗎？
+cmn_name_filter03	任天堂的古老遊戲
+cmn_name_filter04	收集了卡牌遊戲喔！
+cmn_name_filter05	激烈的運動遊戲！
+cmn_name_filter06	能獨自悠閒享受忘記時間的遊戲
+cmn_name_filter07	具有歷史的遊戲
+cmn_name_filter08	來玩室外遊戲吧
+cmn_name_filter09	世界四大遊戲
+cmn_name_filter10	測試一天的運氣！
+cmn_name_filter11	大家可以帶著主機聚在一起……
+cmn_name_filter12	只要熟記了就能玩一輩子
+cmn_name_filter13	不用想太多就能爽快遊玩！
+cmn_name_filter14	陪你度過空中之旅
+cmn_name_filter15	追求高分的遊戲
+cmn_name_filter16	只有1台也能大家玩
+cmn_name_filter17	要認真分出勝負就玩這個！
+cmn_name_filter_3p	3個人一起玩
+cmn_name_filter_4p	4個人一起玩
+cmn_name_filter_ttm	把Nintendo Switch排在一起吧
+cmn_name_filter_desc00	以下收錄了雖然不為人知，\x0d\n玩起來卻非常有趣的世界遊戲。
+cmn_name_filter_desc01	可以與對方面對面，\x0d\n用觸碰方式來輕鬆對戰的遊戲。
+cmn_name_filter_desc02	以下精選了雖然規則很困難，\x0d\n但只要熟記之後就會很帥氣的遊戲。
+cmn_name_filter_desc03	現在向您介紹的，都是日本的任天堂公司\x0d\n在家用遊戲前曾實際製作過的遊戲。
+cmn_name_filter_desc04	有收錄許多不管是誰\x0d\n都能遊玩的卡牌遊戲喔！
+cmn_name_filter_desc05	我們收錄了激烈的運動遊戲，\x0d\n玩足球炒熱氣氛吧！
+cmn_name_filter_desc06	偶爾也享受一下\x0d\n能獨自靜心的奢侈時光吧。
+cmn_name_filter_desc07	請容許我介紹歷史悠久的遊戲。\x0d\n也有包含西元以前的遊戲。
+cmn_name_filter_desc08	能感受著自然並揮竿釣魚。\x0d\n在吃完飯後悠閒地對戰一場吧。
+cmn_name_filter_desc09	在世界上擁有許多競技選手的遊戲，\x0d\n就是西洋棋、雙陸棋、西洋骨牌和撲克牌喔。
+cmn_name_filter_desc10	玩這些遊戲時贏的那一天，\x0d\n或許會發生好事喔！
+cmn_name_filter_desc11	因為不知道對方手上有什麼牌，\x0d\n所以更讓人覺得緊張刺激！
+cmn_name_filter_desc12	一開始不會玩是當然的啦！\x0d\n先輕鬆地開始遊戲吧。
+cmn_name_filter_desc13	以反射神經來一決勝負，\x0d\n能夠瞬間分出高下，非常有趣！
+cmn_name_filter_desc14	在長距離的空中之旅途中，\x0d\n常常拿出來玩的遊戲。
+cmn_name_filter_desc15	向高分紀錄衝刺，\x0d\n不停地練習吧。
+cmn_name_filter_desc16	只有1台也能3～4個人一起玩。\x0d\n每個人要各拿一隻Joy-Con進行操作。
+cmn_name_filter_desc17	這些是要跟朋友\x0d\n認真分勝負時常用的遊戲。
+cmn_name_gam001	玩具網球
+cmn_name_gam002	玩具足球
+cmn_name_gam003	高爾夫球
+cmn_name_gam004	撞球
+cmn_name_gam005	保齡球
+cmn_name_gam006	軌道車
+cmn_name_gam007	黑白棋
+cmn_name_gam008	西洋棋
+cmn_name_gam009	將棋
+cmn_name_gam010	玩具棒球
+cmn_name_gam011	坦克對決
+cmn_name_gam012	釣魚
+cmn_name_gam013	射靶
+cmn_name_gam014	滑塊益智
+cmn_name_gam022	鋼琴
+cmn_name_gam031	五子棋
+cmn_name_gam032	直棋
+cmn_name_gam033	四子棋
+cmn_name_gam034	點格棋
+cmn_name_gam035	兔子和獵犬
+cmn_name_gam036	快艇骰子
+cmn_name_gam037	雙陸棋
+cmn_name_gam038	西洋跳棋
+cmn_name_gam039	六貫棋
+cmn_name_gam040	英國十字戲
+cmn_name_gam041	中國跳棋
+cmn_name_gam042	日式麻將
+cmn_name_gam043	麻將對對消
+cmn_name_gam044	5五將棋
+cmn_name_gam045	播棋
+cmn_name_gam046	猜顏色
+cmn_name_gam047	西洋骨牌
+cmn_name_gam048	花牌
+cmn_name_gam050	玩具冰壺
+cmn_name_gam051	玩具拳擊
+cmn_name_gam052	彈戲
+cmn_name_gam053	氣墊球
+cmn_name_gam054	6連珠益智
+cmn_name_gam055	協力坦克
+cmn_name_gam056	飛鏢
+cmn_name_gam101	快速接龍
+cmn_name_gam102	記憶卡牌
+cmn_name_gam103	比大小
+cmn_name_gam104	章魚燒
+cmn_name_gam105	德州撲克
+cmn_name_gam106	豬尾巴
+cmn_name_gam107	大富豪
+cmn_name_gam108	最後一張牌
+cmn_name_gam109	二十一點
+cmn_name_gam110	排七
+cmn_name_gam112	接龍
+cmn_name_gam113	連環新接龍
+cmn_name_rule010	3洞
+cmn_name_rule011	9洞
+cmn_name_rule030	五計分格
+cmn_name_rule031	十計分格
+cmn_name_rule032	挑戰球道
+cmn_name_rule040	賽道 No.1
+cmn_name_rule041	賽道 No.2
+cmn_name_rule042	賽道 No.3
+cmn_name_rule043	3賽道比賽
+cmn_name_rule070	3分鐘
+cmn_name_rule080	烏龜
+cmn_name_rule081	兔子
+cmn_name_rule140	計分
+cmn_name_rule141	301
+cmn_name_rule142	501
+cmn_name_rule160	翻1張
+cmn_name_rule161	翻3張
+cmn_name_rule170	初級
+cmn_name_rule171	中級
+cmn_name_rule172	高級
+dict000.msbt
+dict000_index00	遊玩方式
+dict000_index02	提示
+dict000_index04	牌型
+dict000_index04_b	牌型
+dict000_index04_c	排列組合
+dict000_index04_d	牌型
+dict000_index07	3分 / 5分比賽
+dict000_index08	動作
+dict000_index09	規則
+dict000_index10	限制
+dict000_index11	關於棋子
+dict000_index12	卡牌的種類
+dict000_index13	計分的名字
+dict000_index14	專業術語
+dict000_index16	王后
+dict000_index17	9號球
+dict000_index18	8號球
+dict000_index19	計分
+dict000_index20	301/501規則的遊玩方式
+dict000_index21	初級 / 中級 / 高級
+dict000_index23	簡單規則
+dict000_index24	役滿
+dict000_index25	商數5規則
+dict000_index99	OK
+dict000graph.msbt
+dict001.msbt
+menu_trivia_gam001_0	使用球拍互相來回擊球的玩具網球
+dict001_rule_index00	基本遊玩方式
+dict001_rule_index01	首先
+dict001_rule_index02	回合球
+dict001_rule_index03	分數
+dict001_rule_index04	局
+dict001_rule_index05	點數顯示
+dict001_rule_index06	勝利條件
+dict001_rule00	以一對一的形式互相來回擊球，\x0d\n先取得指定點數的一方獲勝。\x0d\n
+dict001_rule01	以發球來開始比賽。
+dict001_rule02	試著回擊對手的球吧。
+dict001_rule03	當對手無法回擊球時，\x0d\n便能獲得分數（點數）。
+dict001_rule04	一次比賽的流程被稱為局，\x0d\n獲得四次分數，便能贏下該局！
+dict001_rule05	網球比賽的分數表示如下：\x0d\n0分＝0（love）\x0d\n1分＝15（fifteen）\x0d\n2分＝30（thirty）\x0d\n3分＝40（forty）\x0d\n4分＝G（Game）
+dict001_rule06	先取得規定局數的一方獲勝。
+dict001_words_index00	平分
+dict001_words_index01	快速球
+dict001_words_index02	上網擊球
+dict001_words_index03	高吊球
+dict001_words_index04	局點
+dict001_words_index05	賽點
+dict001_words00	當比數為40-40時，\x0d\n直到一方率先取得兩分前，比賽將持續進行下去。
+dict001_words01	若能巧妙地抓準時機，\x0d\n便能擊出強力的一球。
+dict001_words02	只要往前移動，就能打出強力的回擊喔！
+dict001_words03	把\ue005推向下方並擊球，就能打出高吊球。\x0d\n這讓你能爭取到往前移動的時間。
+dict001_words04	只要再拿下一分\x0d\n便能贏下該局。
+dict001_words05	只要再拿下一分\x0d\n便能贏下該盤比賽。
+dict001_tips_index00	時機
+dict001_tips_index01	遇到力道不足的擊球
+dict001_tips_index02	風險
+dict001_tips00	依球拍擊中球時的角度\x0d\n球的方向也會產生改變。
+dict001_tips01	一定要以快速球回擊，\x0d\n不要錯過任何機會！
+dict001_tips02	若是太向前就會接不到高吊球！\x0d\n輕率地向前是很危險的舉動！
+dict001_doya_index00	佔先
+dict001_doya_index01	0點＝0（零，英文稱love）
+dict001_doya_index02	30後面之所以是40的理由
+dict001_doya00	在平分之後，\x0d\n由一方先取得分數，\x0d\n稍微佔得上風的狀態。
+dict001_doya01	據說這個叫法是從法文的「蛋」，\x0d\n也就是「I'oeuf」變化而來的。
+dict001_doya02	據可信度最高的說法，是將Forty-five（45）\x0d\n省略過後，便變成了Forty（40）。
+dict002.msbt
+menu_trivia_gam002_0	把球踢入球門吧！
+dict002_rule_index00	基本遊玩方式
+dict002_rule_index01	運球
+dict002_rule_index02	得分
+dict002_rule_index03	勝利條件
+dict002_rule00	把球射進球門，\x0d\n拿下更多分的一方獲勝。
+dict002_rule01	移動人偶，\x0d\n一邊踢球一邊將球向前運。
+dict002_rule02	把球射進對手球門即可得分！
+dict002_rule03	比對手射進更多球吧！
+dict002_point_index00	射門
+dict002_point_index01	烏龍球
+dict002_point_index02	時限
+dict002_point00	瞄準對手的球門，\x0d\n創造射門的機會吧。
+dict002_point01	小心別把球踢進\x0d\n自己的球門了。
+dict002_point02	在比賽時間結束後，將會追加「補時」。這是最後的逆轉機會！
+dict002_tips_index00	注意！
+dict002_tips_index01	為了運好球
+dict002_tips_index02	機會
+dict002_tips00	若球被運到我方球門附近，\x0d\n這時就要專心操作守門員！
+dict002_tips01	善加利用左右方向的旋轉吧。
+dict002_tips02	巧妙地接住從角落彈來的球，\x0d\n然後起腳射門吧！
+dict002_doya_index00	帽子戲法
+dict002_doya_index01	Fantasista
+dict002_doya_index02	Golazo
+dict002_doya_index03	足球的秘密
+dict002_doya00	指個人在單場比賽中拿下三分。
+dict002_doya01	在義大利，\x0d\n這個詞經常被用來讚美優秀的足球選手。
+dict002_doya02	在西班牙語裡，是指「漂亮地得分」的意思喔。
+dict002_doya03	據說在黑白電視機的年代，\x0d\n若是球只有單一顏色的話，會很難看清楚球，\x0d\n因此才演變成如今這種配色……
+dict003.msbt
+menu_trivia_gam003_0	注重禮節的紳士運動
+dict003_rule_index00	基本遊玩方式
+dict003_rule_index01	揮桿
+dict003_rule_index02	進洞
+dict003_rule_index03	標準桿
+dict003_rule_index04	計分
+dict003_rule_index05	1人遊玩
+dict003_rule_index06	2人遊玩
+dict003_rule00	盡量用更少的揮桿次數\x0d\n將球打進地上的球洞吧！
+dict003_rule01	決定好方向和力道後再揮桿擊球吧！
+dict003_rule02	盡可能地以最少桿數\x0d\n將球打進球洞吧。
+dict003_rule03	將球打進球洞所需的桿數，是計分的標準。\x0d\n會隨著球場不同而有所不同。
+dict003_rule04	在3標準桿的球洞用「2桿」打進球洞，分數就是「-1」，\x0d\n「4桿」打進球洞，分數就是「+1」。
+dict003_rule05	遊玩先前設定的球場洞數，\x0d\n盡可能以減少合計分數為目標吧！
+dict003_rule06	遊玩先前設定的球場洞數，\x0d\n合計分數最少的人獲勝！
+dict003_point_index00	球桿
+dict003_point_index01	木桿
+dict003_point_index02	鐵桿
+dict003_point_index03	推桿
+dict003_point_index04	落水
+dict003_point_index05	出界
+dict003_point00	用來擊球的道具。\x0d\n請考量球與球洞間的距離，適當地選用球桿吧。
+dict003_point01	想要把球打到最遠處的時候使用。
+dict003_point02	雖然無法打得比木桿遠，\x0d\n但能打出高飛球。
+dict003_point03	要讓球在地面滾動，仔細瞄準球洞的時候使用。
+dict003_point04	指球飛入水中的情況，\x0d\n下一球將從附近重新擊球喔。
+dict003_point05	指球飛入森林的情況，\x0d\n下一球得在原處重新擊球喔。
+dict003_score_index00	一桿進洞
+dict003_score_index01	計分的名稱①
+dict003_score_index02	計分的名稱②
+dict003_score00	指以一桿將球打進球洞。
+dict003_score01	信天翁：低於標準桿三桿\x0d\n老鷹：低於標準桿二桿\x0d\n小鳥：低於標準桿一桿
+dict003_score02	標準桿：「平」標準桿數\x0d\n柏忌：高於標準桿一桿\x0d\n雙柏忌：高於標準桿二桿
+dict003_tips_index00	掌握風向變化吧
+dict003_tips_index01	學會這招就能算是高手！
+dict003_tips00	球被擊出後會比想像中更容易受風向影響，\x0d\n先計算風的方向與強度後再擊球吧。
+dict003_tips01	如果把球打中果嶺的旗桿(或旗子)，\x0d\n或許有可能就這樣進洞了……！？
+dict003_doya_index00	球洞的秘密
+dict003_doya_index01	計分的秘密
+dict003_doya_index02	「Fore！」
+dict003_doya_index03	高爾夫球的秘密
+dict003_doya00	據說最早是用\x0d\n鼴鼠洞來作為球洞……
+dict003_doya01	這些揮桿的名稱都源自於鳥類的名字！\x0d\n例如：小鳥、老鷹、信天翁……
+dict003_doya02	在球場上用來提醒他人「小心球！」的意思，\x0d\n好好記住吧！
+dict003_doya03	聽說高爾夫球的表面上\x0d\n凹凸不平的造型，可以讓球飛得更遠喔。
+dict004.msbt
+menu_trivia_gam004_0	運用頭腦和技術的大人遊戲
+dict004_rule_index00	基本遊玩方式
+dict004_rule_index01	輪流出桿
+dict004_rule_index02	犯規
+dict004_rule_index03	擊球過程中
+dict004_rule00	從\ue04a號球開始依序將球打進洞，\x0d\n先打進\ue052號球的一方獲勝！
+dict004_rule01	只要能依序將球打進洞，就能繼續出桿。\x0d\n(去打最小數字的球，讓它撞其它球進洞也OK)\x0d\n反之則輪到對手出桿。
+dict004_rule02	母球進洞就犯規了！除了輪到對手進攻，\x0d\n對手還能把球擺在任意位置出桿。
+dict004_rule03	若母球在撞擊\ue04a～\ue051號球的過程中，\x0d\n順勢將\ue052號球撞進洞的話也算獲勝！
+dict004_easy_index00	遊玩方式
+dict004_easy00	先打進五顆球的一方獲勝！
+dict004_cho_index00	遊玩方式
+dict004_cho_index01	小花球與大花球
+dict004_cho_index02	第一顆打進洞的球決定花色
+dict004_cho_index03	進球順序無關勝敗！
+dict004_cho_index04	也有可能突然就輸了
+dict004_cho00	將7顆小花球或大花球打進洞，\x0d\n最後先將\ue051號球打進洞的一方獲勝。
+dict004_cho01	數字小於\ue051號的\ue04a～\ue050號為小花球。\x0d\n數字大於\ue051號的\ue052～\ue058號為大花球。
+dict004_cho02	若玩家打進洞的第一顆球為小花球，\x0d\n之後就必須將\ue04a～\ue050號球全打進洞才能鎖定\ue051號球。
+dict004_cho03	球進洞的順序無關勝敗。
+dict004_cho04	還沒有把全部球打進洞，\x0d\n就把\ue051號球打進洞的話就算輸了！
+dict004_tips_index00	別讓母球進洞了
+dict004_tips_index01	軟墊
+dict004_tips00	留意母球撞擊子球後會滾動到哪裡。
+dict004_tips01	利用檯桌內緣（軟墊）的反彈\x0d\n來鎖定想打的球吧。
+dict004_doya_index00	先角
+dict004_doya_index01	起源
+dict004_doya_index02	現實中的撞球
+dict004_doya_index03	球的秘密
+dict004_doya00	據說在以前，球桿的前端\x0d\n是使用動物的角製成的……
+dict004_doya01	據說公元前400年左右的希臘\x0d\n是撞球的發源地。
+dict004_doya02	也有將球桿架在背上出桿\x0d\n這種帥氣的打法。
+dict004_doya03	據說「塑膠」就是為了製作撞球\x0d\n才被發明出來的！
+dict005.msbt
+menu_trivia_gam005_0	全倒！第二次！火雞！接下來……
+dict005_rule_index00	基本遊玩方式
+dict005_rule_index01	在一次計分格裡……
+dict005_rule_index02	在最後的計分格裡
+dict005_rule_index03	1人遊玩
+dict005_rule_index04	2人遊玩
+dict005_rule00	這是透過滾動球來擊倒球瓶的遊戲。\x0d\n擊倒越多球瓶，得分越高的人獲勝！
+dict005_rule01	丟2次球後要換人。
+dict005_rule02	只要丟出全倒或補中，\x0d\n丟球的機會就會變成3次喔！
+dict005_rule03	1個人丟球以獲得高分吧！
+dict005_rule04	依事先指定的計分格內丟球，\x0d\n合計分數最高的人獲勝！
+dict005_point_index00	要讓球的軌道彎曲時
+dict005_point_index01	全倒！
+dict005_point_index02	補中！
+dict005_point_index03	第二次全倒
+dict005_point_index04	火雞
+dict005_point00	觸碰螢幕：要劃出如「ㄑ」的軌跡！\x0d\nJoy-Con操作：丟球的時候要彎起手腕！
+dict005_point01	指第1次丟球時擊倒10個球瓶的情況。\x0d\n接下來的兩次丟球時得到的分數，會追加到這次的分數上。
+dict005_point02	指第2次丟球時擊倒10個球瓶的情況。\x0d\n下一次丟球時得到的分數，會追加到這次的分數上。
+dict005_point03	指連續兩次丟出全倒的狀況，\x0d\n沒有特殊的獎勵。
+dict005_point04	指連續三次丟出全倒的狀況，\x0d\n沒有特殊的獎勵。
+dict005_tips_index00	如果要瞄準的話……
+dict005_tips_index01	不要放棄！
+dict005_tips_index02	試著達成完全比賽吧！
+dict005_tips00	與其瞄準正中央，不如瞄準稍微旁邊一點的位置\x0d\n比較容易丟出全倒喔！
+dict005_tips01	遇到分瓶(剩下的球瓶彼此分開)的狀況，\x0d\n就撞飛球瓶來撞倒所有目標吧！
+dict005_tips02	採用五計分格規則要達成完全比賽的分數為150分，\x0d\n十計分格規則則是300分！
+dict005_doya_index00	光滑的球道
+dict005_doya_index01	專屬保齡球
+dict005_doya_index02	火雞
+dict005_doya00	為了讓球能夠順利的滑出去，\x0d\n會給賽道上油。
+dict005_doya01	也有人會拿自己專用的保齡球來玩。
+dict005_doya02	以前只要連續三次丟出全倒，\x0d\n就能得到火雞(Turkey)當作獎勵。
+dict006.msbt
+menu_trivia_gam006_0	操作簡單，只需要加速，一口氣衝到終點吧
+dict006_rule_index00	基本遊玩方式
+dict006_rule_index01	操作方法
+dict006_rule_index02	調整速度
+dict006_rule00	賽車在賽道上奔馳，\x0d\n只要比對手先抵達終點就算獲勝！
+dict006_rule01	傾斜\ue005使你的賽車奔馳起來吧！\x0d\n或者按鍵也OK！
+dict006_rule02	\ue005推到底為全速！\x0d\n輕推為低速行駛。
+dict006_tips_index00	注意彎道
+dict006_tips_index01	內側與外側
+dict006_tips00	全速入彎會衝出賽道喔！
+dict006_tips01	在內側彎道更容易衝出賽道。\x0d\n減低速度再進入彎道吧！
+dict006_doya_index00	始祖
+dict006_doya_index01	名稱的秘密
+dict006_doya_index02	軌道車
+dict006_doya00	據說軌道車是起源於英國……
+dict006_doya01	由於是讓賽車在設有凹軌（Slot）的賽道上奔馳，\x0d\n所以才稱作「軌道」車。
+dict006_doya02	現實中的賽道\x0d\n是透過遙控器與賽車連線，\x0d\n以調整電壓的方式來改變速度。
+dict007.msbt
+menu_trivia_gam007_0	包夾並翻轉對手的棋子吧
+dict007_rule_index00	基本遊玩方式
+dict007_rule_index01	放置方式
+dict007_rule_index02	被包夾的棋子
+dict007_rule_index03	格子填滿了之後
+dict007_rule00	雙方輪流放置黑色與白色的棋子，\x0d\n最後自己顏色的棋子較多的那一方獲勝。
+dict007_rule01	棋子不能放置在不能包夾對手的棋子的位置上。
+dict007_rule02	翻轉對手的棋子將其變成自己的顏色。
+dict007_rule03	最後自己顏色的棋子較多的那一方獲勝。
+dict007_point_index00	包夾方式
+dict007_point_index01	過
+dict007_point_index02	完全比賽
+dict007_point00	可直向、橫向或是斜向連線。
+dict007_point01	無法包夾對手棋子時會跳過。
+dict007_point02	所有棋子都變成自己的顏色時就獲勝囉。
+dict007_tips_index00	角落
+dict007_tips_index01	內側的四個角落
+dict007_tips_index02	學會這招就能獨當一面
+dict007_tips00	絕對不會被對手翻轉的特別格子。
+dict007_tips01	試著將棋子擺在這小小的四個角落吧。
+dict007_tips02	以自己的顏色排出一條平行棋盤邊的直線吧。
+dict007_doya_index00	黑白棋的語源
+dict007_doya_index01	英國紳士？
+dict007_doya_index02	棋子的顏色
+dict007_doya_index03	各式各樣的黑白棋
+dict007_doya_index04	其實……
+dict007_doya00	是源自於\x0d\n英文的Reverse（翻轉）喔。
+dict007_doya01	據說黑白棋起源於英國……
+dict007_doya02	據說以前的棋子是紅、黑雙色……
+dict007_doya03	也有能夠讓3名以上玩家一起遊玩的種類喔。
+dict007_doya04	據說棋盤的顏色與棋子大小，\x0d\n以及格子數都沒有明確的規定……
+dict008.msbt
+menu_trivia_gam008_0	據說是全世界玩家人數最多的遊戲之一
+dict008_rule_index00	基本遊玩方式
+dict008_rule_index01	棋子分為六種
+dict008_rule_index02	吃棋方式
+dict008_rule_index03	以國王為目標吧
+dict008_rule_index04	要是被將軍了
+dict008_rule_index05	將死
+dict008_rule_index06	特別規則
+dict008_rule00	雙方輪流移動棋子，\x0d\n先吃掉對手「國王」的一方獲勝！
+dict008_rule01	每枚棋子能前進的格子都是固定的。
+dict008_rule02	將棋子移動到對手棋子的格子上，就可以吃下該棋。
+dict008_rule03	將棋子移動到能吃掉國王的格子，這步棋稱作「將軍」！
+dict008_rule04	此時一定要逃跑，或是以其他棋子防守！
+dict008_rule05	當對手的「國王」無路可逃時獲勝！
+dict008_rule06	當棋盤上棋子數量減少，\x0d\n雙方都無法將死對方時，則判定為平手。
+dict008_point_index00	升變
+dict008_point_index01	易位
+dict008_point_index02	吃過路兵
+dict008_point_index03	逼和
+dict008_point_index04	重複
+dict008_point_index05	50回合制
+dict008_point_index06	放棄
+dict008_point_index07	危險區域
+dict008_point00	當士兵走到棋盤對面的底端時，\x0d\n能夠變身成其他更強的棋子喔！
+dict008_point01	可以一口氣移動國王和城堡的特別走法。\x0d\n當兩者都保持在開局時的位置，\x0d\n且都沒被「將軍」時，國王就可以移動兩格。
+dict008_point02	對手的士兵移動了兩格，並且和自己的士兵並排時，\x0d\n就可以讓士兵往斜向前進並吃下對手的士兵。
+dict008_point03	雖然還沒被將軍，\x0d\n但要是沒有能動的棋子時則平手！
+dict008_point04	使用三次相同走法便會被判定為平手！
+dict008_point05	雙方都不移動士兵，且都沒有吃掉對手的棋子，\x0d\n這樣的狀態持續50回合後便會被判定為平手！
+dict008_point06	自行認輸。
+dict008_point07	輔助機能之一。\x0d\n在下步棋會被對手吃掉的格子將標示為紅色。
+dict008_coma_index00	國王
+dict008_coma_index01	王后
+dict008_coma_index02	城堡
+dict008_coma_index03	主教
+dict008_coma_index04	騎士
+dict008_coma_index05	士兵 ①
+dict008_coma_index06	士兵 ②
+dict008_coma_index07	士兵 ③
+dict008_coma00	一次可朝縱向、橫向與斜向移動一格的棋子。\x0d\n這枚棋子被吃掉就輸了！
+dict008_coma01	能不限格數朝縱向、橫向與斜向移動的棋子。
+dict008_coma02	能不限格數朝縱向與橫向移動的棋子。
+dict008_coma03	能不限格數朝斜向移動的棋子。
+dict008_coma04	能朝前後左右兩格的\x0d\n左右格子前進的棋子。
+dict008_coma05	一次可前進一格的棋子，\x0d\n但是不能吃掉正前方的棋子。
+dict008_coma06	當對手的棋子在士兵斜前方時，\x0d\n能朝斜向前進並吃掉那枚棋子。
+dict008_coma07	只有在初次移動時可以前進兩格。
+dict008_tips_index00	首先是士兵
+dict008_tips_index01	騎士
+dict008_tips_index02	王后與騎士
+dict008_tips00	移動士兵，為其他強力的棋子開道吧。
+dict008_tips01	可以一口氣鎖定對手的國王以及強大棋子！
+dict008_tips02	形成這個局面後就可以「將死」對手了！
+dict008_doya_index00	玩家人數
+dict008_doya_index01	易位
+dict008_doya_index02	古印度象棋
+dict008_doya_index03	真人西洋棋
+dict008_doya00	據說全世界有超過8億\x0d\n以上的玩家喔。
+dict008_doya01	英文的易位（castling）與城堡（castle）讀音很像，\x0d\n也許是因為城堡與國王居住的建築外型相似？
+dict008_doya02	將棋與西洋棋\x0d\n都是源自印度的遊戲，\x0d\n就像親兄弟一樣。
+dict008_doya03	有的活動會讓人們裝扮成棋子的模樣，\x0d\n在超大的西洋棋盤上進行對弈喔。
+dict009.msbt
+menu_trivia_gam009_0	重視禮法的日本傳統棋盤遊戲
+dict009_rule_index00	基本遊玩方式
+dict009_rule_index01	棋子分為八種
+dict009_rule_index02	吃棋方式
+dict009_rule_index03	若是吃掉棋子
+dict009_rule_index04	以王將為目標吧
+dict009_rule_index05	要是被將軍了
+dict009_rule_index06	欠行
+dict009_rule00	雙方輪流移動棋子，\x0d\n先吃掉對手「王將」的一方獲勝！
+dict009_rule01	每枚棋子能前進的格子都是固定的。
+dict009_rule02	將棋子移動到對手棋子的格子上，就可以吃下該棋。
+dict009_rule03	吃掉的棋子可以當作俘虜（自己的棋子）來使用。
+dict009_rule04	將棋子移動到能吃掉王將的格子，這步棋稱作「將軍」！
+dict009_rule05	此時一定要逃跑，或是以其他棋子防守。
+dict009_rule06	當對手的「王將」無處可逃時獲勝！
+dict009_point_index00	升變
+dict009_point_index01	二步
+dict009_point_index02	打步欠行
+dict009_point_index03	千日手
+dict009_point_index04	放棄
+dict009_point_index05	讓子
+dict009_point_index06	危險區域
+dict009_point00	棋子進入敵陣後可以選擇變強！\x0d\n（王將與金將除外）
+dict009_point01	同一直列上不能同時擺放兩枚步兵！
+dict009_point02	不能利用打入俘虜的步兵\x0d\n來讓對手的王將「欠行」！
+dict009_point03	雙方重複下同一步棋\x0d\n導致比賽陷入僵局時，遊戲宣告結束！
+dict009_point04	自行認輸。
+dict009_point05	指減少可用的棋子，為自己設置不利設定。
+dict009_point06	輔助機能之一。\x0d\n在下步棋會被對手吃掉的格子將標示為紅色。
+dict009_coma_index00	王將
+dict009_coma_index01	飛車
+dict009_coma_index02	角行
+dict009_coma_index03	金將
+dict009_coma_index04	銀將
+dict009_coma_index05	桂馬
+dict009_coma_index06	香車
+dict009_coma_index07	步兵
+dict009_coma00	一次可朝縱向、橫向與斜向移動一格的棋子。\x0d\n這枚棋子被吃掉就等於輸了。
+dict009_coma01	能不限格數朝縱向與橫向移動的棋子。\x0d\n經過升變後，還能朝斜向移動！
+dict009_coma02	能不限格數朝斜向移動的棋子。\x0d\n經過升變後，還能朝縱向與橫向移動！
+dict009_coma03	一次能朝前後左右與斜前方移動一格的棋子。
+dict009_coma04	一次能朝前方與斜向移動一格的棋子。\x0d\n經過升變後，便能與金將走相同的棋步喔。
+dict009_coma05	能朝左、右前方移動兩格的棋子。\x0d\n經過升變後，便能與金將走相同的棋步喔。
+dict009_coma06	能不限格數朝前方移動的棋子。\x0d\n經過升變後，便能與金將走相同的棋步喔。
+dict009_coma07	一次能向前移動一格的棋子。\x0d\n經過升變後，便能與金將走相同的棋步喔。
+dict009_tips_index00	首先是步兵
+dict009_tips_index01	桂馬
+dict009_tips_index02	金將
+dict009_tips00	打開一條棋路，\x0d\n為其他強力的棋子開道吧
+dict009_tips01	進入敵陣時，\x0d\n刻意不升變也是一種戰術！
+dict009_tips02	移動至對手的王將前方更容易形成欠行
+dict009_doya_index00	棋子的形狀
+dict009_doya_index01	粗心大意！？
+dict009_doya_index02	任天堂
+dict009_doya_index03	試試這樣做？
+dict009_doya00	據說是因為「方便區分敵我雙方的棋子」，\x0d\n所以才做成五角形……
+dict009_doya01	在將棋的職業賽中\x0d\n最常見的犯規就是……「二步」。
+dict009_doya02	如今在日本，任天堂依然有在製造\x0d\n及販賣正宗的將棋棋子和將棋盤喔。
+dict009_doya03	在玩本遊戲的時候，\x0d\n把Nintendo Switch主機從平放翻轉過來的話……？
+dict010.msbt
+menu_trivia_gam010_0	一球入魂！目標是全壘打！
+dict010_rule_index00	基本遊玩方式
+dict010_rule_index01	本遊戲是
+dict010_rule_index02	攻擊
+dict010_rule_index03	守備
+dict010_rule_index04	錯開時機？
+dict010_rule_index05	出局
+dict010_rule_index06	最後
+dict010_rule00	這是一種用球棒擊球，藉此得分的運動。
+dict010_rule01	兩隊會輪流擔任攻擊方與守備方。
+dict010_rule02	將對手的球漂亮地打回去，\x0d\n拿下分數吧！
+dict010_rule03	投出能錯開揮棒時機的球，\x0d\n藉此讓對手的打者出局吧。
+dict010_rule04	傾斜操控搖桿能夠切換球速，\x0d\n善加利用吧。
+dict010_rule05	攻擊方與守備方將會交替3次。
+dict010_rule06	獲得較多分數的那一方獲勝！
+dict010_point_index00	安打
+dict010_point_index01	跑者
+dict010_point_index02	好球
+dict010_point_index03	出局①
+dict010_point_index04	出局②
+dict010_point00	若打者擊出安打，跑者可跑壘。
+dict010_point01	跑者成功跑完一圈返回本壘就獲得1分！
+dict010_point02	攻擊方揮棒落空，\x0d\n或是讓球通過本壘。
+dict010_point03	打出去的球要是\x0d\n掉進外野的口袋裡就算出局！
+dict010_point04	好球三次即三振出局！
+dict010_tech_index00	壞球
+dict010_tech_index01	四壞球
+dict010_tech_index02	二壘安打
+dict010_tech_index03	三壘安打
+dict010_tech_index04	全壘打
+dict010_tech_index05	界外球
+dict010_tech00	指投手所投的球沒有通過本壘板上方的情況。
+dict010_tech01	當投手投出4次「壞球」，跑者可跑壘。
+dict010_tech02	指可讓跑者跑上2壘的安打。
+dict010_tech03	指可讓跑者跑上3壘的安打。
+dict010_tech04	擊出全壘打時可直接得到1分，\x0d\n且所有在壘上的跑者都可得分。
+dict010_tech05	指打出去的球掉到場地外側，\x0d\n此時會被判定為好球。
+dict010_tips_index00	完美揮棒
+dict010_tips_index01	讓對手揮棒落空的訣竅
+dict010_tips_index02	變化球①
+dict010_tips_index03	變化球②
+dict010_tips00	如果以球棒的中心擊中球的話，\x0d\n也許……能打出全壘打！
+dict010_tips01	分別運用快速球及慢速球，\x0d\n讓對手無法摸清你的球路吧。
+dict010_tips02	按下\ue003或，就能使投出去的球轉彎。
+dict010_tips03	慢～速球的角度變化可是很大的喔！
+dict010_doya_index00	棒球
+dict010_doya_index01	幸運七
+dict010_doya_index02	以前的本壘……
+dict010_doya_index03	以前
+dict010_doya00	在美國是具代表性的運動之一。
+dict010_doya01	由於棒球到第七回合時容易出現全壘打，\x0d\n才有了這樣的說法。
+dict010_doya02	據說是以鐵或大理石所製成的……
+dict010_doya03	據說還有規則是先獲得21分的那一方獲勝……
+dict011.msbt
+menu_trivia_gam011_0	利用地形趁機發動攻擊，一對一進行的戰車大戰
+dict011_rule_index00	基本遊玩方式
+dict011_rule_index01	就算被打倒也無妨！
+dict011_rule_index02	勝利條件
+dict011_rule00	操縱戰車與對手互相射擊，\x0d\n打倒對方較多次的一方獲勝！
+dict011_rule01	即使中彈了，\x0d\n也能無限次從起始點復活喔！
+dict011_rule02	在限定時間內，比賽誰打倒對方更多次。
+dict011_point_index00	抵銷
+dict011_point_index01	高飛彈
+dict011_point_index02	圓錐
+dict011_point00	雙方發射的砲彈\x0d\n可以互相抵銷。
+dict011_point01	按\ue002鍵可以發射以拋物線飛行的砲彈。
+dict011_point02	戰車無法通過圓錐，\x0d\n但發射的砲彈可以。
+dict011_tips_index00	磚塊
+dict011_tips_index01	反彈
+dict011_tips_index02	磚塊的另一側
+dict011_tips00	發射砲彈破壞磚塊來轟出一條路吧。
+dict011_tips01	砲彈擊中牆壁後會反彈。
+dict011_tips02	可以用高飛彈來打倒\x0d\n牆壁另一側的敵人！
+dict011_doya_index00	遙控
+dict011_doya_index01	又大又重？
+dict011_doya_index02	遙控器？
+dict011_doya00	無線電遙控的縮寫。\x0d\n意思是無線操控。
+dict011_doya01	世界最大的無線電遙控戰車\x0d\n重達250公斤。
+dict011_doya02	指操縱遙控模型的機器。\x0d\n語源為英文的Proportional(比例)。
+dict012.msbt
+menu_trivia_gam012_0	使用Joy-Con來拋竿！
+dict012_rule_index00	基本遊玩方式
+dict012_rule_index01	基本的操作
+dict012_rule_index02	上鉤
+dict012_rule_index03	把魚釣上來吧！
+dict012_rule_index04	1人遊玩
+dict012_rule_index05	2人遊玩
+dict012_rule00	以釣到的魚的總重量來分勝負的遊戲。
+dict012_rule01	試著揮動Joy-Con，\x0d\n將魚鉤拋入魚群中吧。
+dict012_rule02	當魚咬住魚餌的時候，就會上鉤了！
+dict012_rule03	轉動\ue005來收線吧。
+dict012_rule04	分數為你釣到的魚的合計重量，盡可能拿到高分吧。
+dict012_rule05	在限制時間內，釣到的魚的總重量較重的那一方獲勝。
+dict012_tips_index00	仔細觀察水流
+dict012_tips_index01	如果釣線變成紅色的話
+dict012_tips_index02	釣大魚的訣竅①
+dict012_tips_index03	釣大魚的訣竅②
+dict012_tips00	請考慮到水流的情況再拋出魚鉤吧。
+dict012_tips01	那是釣線快斷掉的警訊！\x0d\n趕緊將魚釣上來吧。
+dict012_tips02	要注意大魚力量強勁，很容易扯斷釣線，\x0d\n所以要在牠靠近的時候下手！
+dict012_tips03	在大魚上鉤前，\x0d\n先慢慢地吸引牠靠近岸邊吧。
+dict012_doya_index00	釣魚的起源
+dict012_doya_index01	以前的魚鉤
+dict012_doya_index02	在德國……
+dict012_doya_index03	在日本……
+dict012_doya00	據說可以追溯到\x0d\n大約四萬年前。
+dict012_doya01	據說是用動物的骨頭製成的……
+dict012_doya02	聽說不先通過國家考試的話，\x0d\n是不能釣魚的喔！
+dict012_doya03	釣客們的釣線纏繞在一起的情況，\x0d\n被稱為祭典（festival）。
+dict013.msbt
+menu_trivia_gam013_0	不慌不忙地快速射擊！神出鬼沒的射擊遊戲
+dict013_rule_index00	基本遊玩方式
+dict013_rule_index01	回合
+dict013_rule_index02	2人遊玩
+dict013_rule00	瞄準接二連三出現的目標\x0d\n不停地射擊吧！
+dict013_rule01	總共有3個回合。
+dict013_rule02	採用在所有的回合結束後\x0d\n以雙方的得分決定勝負的規則。
+dict013_point_index00	氣球
+dict013_point_index01	靶
+dict013_point_index02	UFO
+dict013_point00	1顆1分
+dict013_point01	有1分、3分、10分的靶，\x0d\n要小心會扣命中者分數的「-3靶」！
+dict013_point02	有價值5分的銀色UFO\x0d\n跟價值10分的金色UFO存在喔！
+dict013_tips_index00	要好好瞄準
+dict013_tips_index01	漸漸熟練之後
+dict013_tips_index02	優先瞄準標靶吧！
+dict013_tips00	不認真瞄準的話，\x0d\n搞不好會打中「-3靶」喔！？
+dict013_tips01	記住標靶的出現模式\x0d\n以獲得「完美」稱號為目標吧！
+dict013_tips02	標靶的出現時間比UFO還要短\x0d\n所以先射擊標靶吧！
+dict013_doya_index00	氣球的秘密
+dict013_doya_index01	UFO
+dict013_doya00	其實只要把檸檬汁或橘子汁灑在氣球上，\x0d\n氣球就會自己破掉。
+dict013_doya01	是Unidentified flying object的縮寫，\x0d\n也就是所謂的「不明飛行物體」。
+dict014.msbt
+menu_trivia_gam014_0	移動拼板來製造道路！適合單獨遊玩的腦力遊戲
+dict014_rule_index00	基本遊玩方式
+dict014_rule_index01	寶石
+dict014_rule_index02	目標是拿下高分
+dict014_rule00	移動拼板做出一條路吧。
+dict014_rule01	只要吃到寶石即可得分！\x0d\n若是連續吃到寶石，得分將進一步提升！
+dict014_rule02	小心不要掉下拼板，\x0d\n以拿高分為目標吧！
+dict014_tips_index00	一口氣滑動拼板！
+dict014_tips_index01	訣竅
+dict014_tips00	最多可一次移動三塊拼板喔！
+dict014_tips01	將有寶石的拼板移到離自己更近的位置吧。
+dict014_doya_index00	拼板
+dict014_doya00	全世界有著許多不同種類的木製拼板喔。
+dict022.msbt
+menu_trivia_gam022_0	稍微喘口氣……用樂器之王來開場音樂會吧
+dict022_rule_index00	基本遊玩方式
+dict022_rule_index01	想結束的時候
+dict022_rule00	沒有任何規則！\x0d\n隨心所欲地演奏音樂吧！
+dict022_rule01	按下 \ue007/\ue006 鍵。
+dict022_point_index00	要是倒過來拿
+dict022_point_index01	Joy-Con①
+dict022_point_index02	Joy-Con②
+dict022_point00	還能搖身一變，變成背式鋼琴！？
+dict022_point01	試著揮動看看吧！
+dict022_point02	試著按下按鍵吧！
+dict022_doya_index00	鋼琴的名字
+dict022_doya_index01	鋼琴
+dict022_doya_index02	不僅僅是有趣而已……？
+dict022_doya00	鋼琴的正式名稱是\x0d\n「gravicembali col piano e forte」。
+dict022_doya01	用於管弦樂團，\x0d\n幾乎能涵蓋所有樂器的音域。
+dict022_doya02	據說學鋼琴的人\x0d\n會變得更聰明喔。
+dict031.msbt
+menu_trivia_gam031_0	將五枚棋子連成一線吧
+dict031_rule_index00	基本遊玩方式
+dict031_rule_index01	搶先對手
+dict031_rule00	雙方輪流在棋盤上放置棋子，\x0d\n先將五枚棋子連成一直線的一方勝利。
+dict031_rule01	五枚棋子連成一直線即可獲勝。\x0d\n可直向、橫向或是斜向連線。
+dict031_foul_index00	限制是？
+dict031_foul_index01	禁止三三
+dict031_foul_index02	禁止四四
+dict031_foul_index03	禁止長連
+dict031_foul00	指針對先手（黑）的禁止配置方式，\x0d\n後手則無此限制。
+dict031_foul01	先手不可以同時組成兩條三！
+dict031_foul02	先手不可以同時組成兩條四！
+dict031_foul03	不可以在一條直線上擺放超過６枚棋子！
+dict031_tips_index00	四連
+dict031_tips_index01	四三
+dict031_tips00	只要能將四枚棋子連成一線，並且兩側都沒有\x0d\n對手棋子的狀態下，就等於是獲勝了。
+dict031_tips01	另外還有四與三同時完成的狀態，\x0d\n也同樣等於獲勝。
+dict031_doya_index00	五子
+dict031_doya_index01	棋盤
+dict031_doya_index02	棋子
+dict031_doya_index03	棋盤的裏側
+dict031_doya00	在日本，棋盤上的線與線的交叉點被稱為「目」，\x0d\n連在一起的五個子稱作「五目」。
+dict031_doya01	日本還有任天堂製造的棋盤喔。
+dict031_doya02	黑棋是由一種叫作「那智黑石」的石頭製成，\x0d\n白棋則大多是由「文蛤」的貝殼製作而成。
+dict031_doya03	據說為了使下棋時的聲音更加悅耳，\x0d\n還會特地將棋子正中央加工成凹陷的形狀……
+dict032.msbt
+menu_trivia_gam032_0	玩法深奧，世界最古老的棋盤遊戲
+dict032_rule_index00	基本遊玩方式
+dict032_rule_index01	步驟一
+dict032_rule_index02	連線！
+dict032_rule_index03	步驟二
+dict032_rule_index04	隨意跳躍！
+dict032_rule_index05	最後
+dict032_rule00	雙方輪流移動稱作「棋子（Piece）」的珠子，\x0d\n將三枚棋子連成一線，減少對手的棋子吧。
+dict032_rule01	雙方輪流將九枚棋子擺上棋盤。
+dict032_rule02	只要將三枚棋子連成一線，\x0d\n就能移除對手棋盤上的一枚棋子。
+dict032_rule03	擺完所有的棋子後，\x0d\n再來就沿著棋盤上的軌線來移動棋子吧。
+dict032_rule04	當剩下三枚棋子時，\x0d\n可移動至任意空格。
+dict032_rule05	只要將對手的棋子減少至僅剩兩枚就算獲勝。
+dict032_point_index00	注意①
+dict032_point_index01	注意②
+dict032_point_index02	阻攔
+dict032_point00	在擺完所有的棋子之前，\x0d\n雙方都不能移動先前擺好的棋子。
+dict032_point01	無法移除對手已經「連線」的棋子。
+dict032_point02	對手的棋子無法移動就算獲勝！
+dict032_tips_index00	鎖定三角位置！
+dict032_tips_index01	不斷連線
+dict032_tips_index02	必殺！無限連線！
+dict032_tips00	將棋子放在棋盤上的時候，\x0d\n只要佔據三角位置，下步棋就必定能夠完成連線！
+dict032_tips01	只要將移動過一次的棋子擺回原位，即可不斷連線！
+dict032_tips02	這是能實現無限次數連線的必殺擺法！
+dict032_doya_index00	直棋的歷史久遠……
+dict032_doya_index01	九子（Nine Men's）
+dict032_doya_index02	直棋（Morris）
+dict032_doya_index03	從前從前……
+dict032_doya00	傳說早在遙遠的兩千年前，\x0d\n人們就已經開始在玩直棋了。
+dict032_doya01	「棋子（Piece）」也被稱作「人」，\x0d\n代表「九人」的意思。
+dict032_doya02	在拉丁語中代表「棋子」的意思。
+dict032_doya03	據說西洋跳棋棋盤的背面，\x0d\n就刻有直棋遊戲的棋盤圖案。
+dict033.msbt
+menu_trivia_gam033_0	放入棋子使四枚棋子連成一線吧
+dict033_rule_index00	基本遊玩方式
+dict033_rule_index01	以輪流的方式
+dict033_rule_index02	比對手更快地
+dict033_rule00	輪流從底端堆疊棋子，\x0d\n搶在對手之前將四枚棋子連成一線吧。
+dict033_rule01	繼續放入棋子。
+dict033_rule02	四枚棋子連成一線即可獲勝。\x0d\n不論是排直線、橫線或是斜線都OK。
+dict033_tips_index00	防守也是很重要的
+dict033_tips_index01	別讓對手猜透你的想法……
+dict033_tips_index02	積極展開攻勢便能獲勝！？
+dict033_tips00	別放過對手已經完成三子連線「聽牌」的部分！
+dict033_tips01	刻意排列出第四枚棋子在\x0d\n中間的情況，也是一種戰術。
+dict033_tips02	總之先創造出大量的「聽牌」局面吧。
+dict033_doya_index00	四子棋
+dict033_doya_index01	遊戲的起源
+dict033_doya_index02	重力
+dict033_doya_index03	重力？
+dict033_doya00	意思是「將四個東西連接起來」。
+dict033_doya01	據說原本是用兩種顏色的小球\x0d\n來代替棋子進行遊戲。
+dict033_doya02	月球的重力約為地球的1/6！\x0d\n在上面跳躍，人會緩慢落地。
+dict033_doya03	太陽的重力約為地球的28倍！\x0d\n在上面跳躍……是很危險的。
+dict034.msbt
+menu_trivia_gam034_0	不可大意的紙筆地盤爭奪戰
+dict034_rule_index00	基本遊玩方式
+dict034_rule_index01	首先
+dict034_rule_index02	完成一個格子
+dict034_rule_index03	再一條
+dict034_rule_index04	最後
+dict034_rule00	雙方輪流劃線形成格子，\x0d\n最後格子較多的一方獲勝！
+dict034_rule01	劃線讓點連接起來吧。
+dict034_rule02	只要劃上第四條線，就能塗上\x0d\n自己的顏色讓格子完成囉！
+dict034_rule03	格子完成後可以再多劃一條線！
+dict034_rule04	完成較多格子的人獲勝！
+dict034_tips_index00	訣竅
+dict034_tips_index01	一次兩格！
+dict034_tips_index02	一次四格！！
+dict034_tips00	要是劃上格子上的第三條線，就會被對手搶先！\x0d\n劃上第二條線時停下來吧。
+dict034_tips01	要是在長方形的中間劃上線，\x0d\n就能得到兩個格子！
+dict034_tips02	劃出這個形狀，\x0d\n接下來就能一口氣得到四個格子！
+dict034_doya_index00	在國外……
+dict034_doya_index01	鉛筆
+dict034_doya_index02	橡皮擦①
+dict034_doya_index03	橡皮擦②
+dict034_doya00	點格棋是家喻戶曉的童年遊戲。
+dict034_doya01	六角形的形狀較為常見，因為方便攜帶且不容易滾動。
+dict034_doya02	雖然被稱為「橡皮」擦，\x0d\n但最近的橡皮擦都是由塑膠製成。
+dict034_doya03	在沒有橡皮擦的年代，人們會用「麵包」擦掉筆跡喔。
+dict035.msbt
+menu_trivia_gam035_0	這是獵犬追捕逃兔的２人策略遊戲
+dict035_rule_index00	基本遊玩方式
+dict035_rule_index01	獵犬勝利
+dict035_rule_index02	兔子勝利
+dict035_rule_index03	獵犬的走法
+dict035_rule_index04	兔子的走法
+dict035_rule_index05	逃跑成功
+dict035_rule00	這是雙方輪流移動兔子和獵犬來遊玩的遊戲。
+dict035_rule01	當兔子無路可逃時，就算獵犬獲勝。
+dict035_rule02	當兔子成功逃到獵犬後方時，就算兔子獲勝。
+dict035_rule03	獵犬不可向後移動。
+dict035_rule04	兔子可往任意方向移動。
+dict035_rule05	只要三十回合內不被獵犬逮住，就算兔子獲勝！
+dict035_tips_index00	獵犬編隊！
+dict035_tips_index01	給兔子的提示
+dict035_tips00	將獵犬列隊組成防線吧。
+dict035_tips01	無法前進時，就先後退等待時機吧。
+dict035_doya_index00	獵犬和兔子
+dict035_doya_index01	獵犬①
+dict035_doya_index02	獵犬②
+dict035_doya_index03	兔子
+dict035_doya00	據說這是古代的法國軍人們遊玩的遊戲……
+dict035_doya01	獵犬是指用來協助狩獵的狗，\x0d\n會幫獵人尋找、捉捕獵物。
+dict035_doya02	據說人類與狗這種動物的關係\x0d\n可追溯到一萬年前……
+dict035_doya03	據說比起胡蘿蔔，\x0d\n兔子似乎更愛吃芹菜……
+dict036.msbt
+menu_trivia_gam036_0	使用骰子來進行的撲克風遊戲
+dict036_rule_index00	基本遊玩方式
+dict036_rule_index01	首先
+dict036_rule_index02	確認擲出的組合
+dict036_rule_index03	即使沒有完整的組合
+dict036_rule_index04	可以改變保留的骰子
+dict036_rule_index05	最多能重骰兩次！
+dict036_rule_index06	當填滿整張計分表後
+dict036_rule00	這是輪流擲骰湊出組合，\x0d\n再以點數合計定勝負的遊戲。
+dict036_rule01	要擲骰子。
+dict036_rule02	若擲出高分的組合，就從左邊的計分表上選擇該組合吧。\x0d\n選了一次的組合就不能再選了。
+dict036_rule03	可以僅保留自己滿意的骰子，\x0d\n再重新進行擲骰。
+dict036_rule04	也能在重新擲骰後，\x0d\n更改想要保留的骰子。
+dict036_rule05	即使湊不出組合，\x0d\n也必須填寫計分表！
+dict036_rule06	最後合計分數最高的一方獲勝！
+dict036_hand_index00	一點～六點
+dict036_hand_index01	葫蘆
+dict036_hand_index02	四骰同花
+dict036_hand_index03	順子
+dict036_hand_index04	快艇
+dict036_hand_index05	特別的組合
+dict036_hand_index06	全選
+dict036_hand_index07	獎勵！
+dict036_hand00	各個點數的合計即為分數\x0d\n\ue025：一點\x0d\n\ue026：二點\x0d\n\ue027：三點\x0d\n\ue028：四點\x0d\n\ue029：五點\x0d\n\ue02a：六點
+dict036_hand01	擲出兩顆同點數，以及三顆同點數的骰子時成立的組合。\x0d\n該組合的點數合計即為分數。
+dict036_hand02	當擲出四顆以上同點數的骰子時成立的組合。\x0d\n該組合的點數合計即為分數。
+dict036_hand03	當擲出的骰子點數為數列順序時成立的組合。\x0d\n大順 30分：\ue025~\ue029 / \ue026~\ue02a\x0d\n小順 15分：\ue025~\ue028 / \ue026~\ue029 / \ue027~\ue02a
+dict036_hand04	當所有的骰子皆為同樣點數時，可獲得 50分！
+dict036_hand05	遊戲裡有名為全選和獎勵的特別組合。
+dict036_hand06	不論擲出怎樣的點數皆可成立的組合。\x0d\n該組合的點數合計即為分數。
+dict036_hand07	若一點至六點的合計超過63時即可成立！\x0d\n可獲得獎勵分數35分！
+dict036_tips_index00	選擇組合的方式
+dict036_tips_index01	達成獎勵！
+dict036_tips_index02	率先填滿順子的欄位
+dict036_tips_index03	分數低的組合
+dict036_tips00	選擇能比對手獲得更多分數的組合吧。
+dict036_tips01	只要將一點至六點\x0d\n各擲出三次以上即可獲得！
+dict036_tips02	以湊齊相同的點數為目標吧！
+dict036_tips03	當擲出的點數不佳時，\x0d\n刻意保留不好的點數也是一種選擇！
+dict036_doya_index00	名稱的由來
+dict036_doya_index01	快艇（組合）
+dict036_doya_index02	容易出現五點！？
+dict036_doya00	據說是因為人們曾在快艇（船隻）上\x0d\n玩過這款遊戲。
+dict036_doya01	一次就擲出的機率為1296分之1。
+dict036_doya02	雖然要看骰子本身的情況，\x0d\n據說是跟骰面孔洞所造成的重量差異有關……
+dict037.msbt
+menu_trivia_gam037_0	除了西洋棋以外最多人遊玩的西方雙陸
+dict037_rule_index00	基本遊玩方式
+dict037_rule_index01	各自的終點
+dict037_rule_index02	棋子前進方式
+dict037_rule_index03	無法進終點！
+dict037_rule_index04	恰好進終點
+dict037_rule_index05	最後
+dict037_rule00	投擲兩顆骰子，\x0d\n先讓所有棋子先進入終點的那一方獲勝。
+dict037_rule01	白棋與黑棋的終點不一樣。
+dict037_rule02	遊戲時會用到兩顆骰子。\x0d\n你可以一次讓兩枚棋子前進，\x0d\n或是讓一枚棋子連續前進兩次。
+dict037_rule03	必須先將自己所有的棋子聚集在\x0d\n自己的終點前（內盤），才能進入終點。
+dict037_rule04	以剛好能抵達終點的骰數，讓棋子進入終點吧。\x0d\n但只有最後方的棋子不須骰出剛好的點數也能進入終點。
+dict037_rule05	讓所有棋子都抵達終點後，遊戲宣告結束。
+dict037_point_index00	當擲出相同點數時
+dict037_point_index01	可以排列棋子
+dict037_point_index02	用排列棋子的方式阻擋對手
+dict037_point_index03	攻擊
+dict037_point_index04	遭到攻擊的棋子
+dict037_point_index05	遊蕩（跳過1回合）
+dict037_point_index06	關於骰子的規則①
+dict037_point_index07	關於骰子的規則②
+dict037_point00	骰子的點數會加倍！
+dict037_point01	在同一格內，要放多少枚自己的棋子都可以。
+dict037_point02	藉由排列棋子，可以製造出對手無法放置棋子的格子。
+dict037_point03	如果對手的棋子單獨停留在格子裡，\x0d\n可以將其擠出格子喔！
+dict037_point04	在回到棋盤以前不可以移動其他棋子。
+dict037_point05	如果遭受攻擊的棋子無法返回棋盤，將跳過1回合。
+dict037_point06	必須盡可能將兩顆骰子的點數用完，\x0d\n把握每一次前進的機會。
+dict037_point07	無論先使用哪一顆骰子，\x0d\n若下回合沒有可移動的棋子，\x0d\n就只能「以較大的點數前進」喔。
+dict037_match_index00	規則
+dict037_match_index01	獲勝
+dict037_match_index02	全勝
+dict037_match_index03	完勝
+dict037_match_index04	加倍
+dict037_match_index05	克羅福規則
+dict037_match00	可獲得的分數會根據遊戲的結果而不同，\x0d\n得到指定分數的那一方獲勝。
+dict037_match01	一般勝利可獲得1分。
+dict037_match02	在「對手連一枚棋子都沒有抵達終點」的狀態下，\x0d\n讓自己的棋子先進入終點，可獲得2分。
+dict037_match03	達成「全勝」的條件，並讓1枚以上對手的棋子\x0d\n停在自己的終點前(也就是內盤)或場外的話，\x0d\n勝利時便能獲得3分。
+dict037_match04	在遊玩中可向對手提出的提案。\x0d\n對手同意後，該次遊戲的分數將會加倍。\x0d\n\x0d\n如果「取消」加倍提案的話，\x0d\n就會輸掉該回合。\x0d\n\x0d\n最多可以讓分數增長到64倍。
+dict037_match05	當任一邊的玩家只剩1分就要勝利時，\x0d\n雙方都無法提出加倍提案。\x0d\n\x0d\n只要因為克羅福規則而無法提出加倍後，\x0d\n自下一局遊戲開始，將不適用克羅福規則。
+dict037_tips_index00	防範攻擊的對策
+dict037_tips_index01	讓對手遊蕩吧
+dict037_tips00	盡可能在同格內放置2枚以上的棋子，形成阻礙吧。
+dict037_tips01	在內盤放置許多阻礙，\x0d\n就能更容易讓對手遊蕩喔。
+dict037_doya_index00	歷史
+dict037_doya_index01	雙陸棋
+dict037_doya_index02	玩家人數
+dict037_doya_index03	棋盤的秘密
+dict037_doya00	據說起源於古埃及，\x0d\n也有一種說法是起源於古代美索不達米亞。
+dict037_doya01	在威爾斯文中的意思為\x0d\n「小型戰爭」。
+dict037_doya02	據說全世界有3億玩家。
+dict037_doya03	折疊式的棋盤附有手把，\x0d\n方便攜帶。
+dict038.msbt
+menu_trivia_gam038_0	斜角跳躍吃掉棋子，起源於法國南部的遊戲
+dict038_rule_index00	基本遊玩方式
+dict038_rule_index01	棋子的吃法
+dict038_rule_index02	棋子只能跳越一枚棋子
+dict038_rule_index03	連吃！
+dict038_rule_index04	最後
+dict038_rule00	以斜角移動棋子，\x0d\n吃光對手所有棋子的一方獲勝！
+dict038_rule01	斜跳過對手的棋子，即可將其吃下。
+dict038_rule02	棋子無法跳越兩枚以上並排的棋子。
+dict038_rule03	可以連續吃棋，但中間不能停止！
+dict038_rule04	「吃光對手的所有棋子」\x0d\n或是「讓對手的棋子無法移動」的一方獲勝。
+dict038_point_index00	不吃不行
+dict038_point_index01	成王
+dict038_point00	當有棋可吃時就必須吃棋。
+dict038_point01	當棋子前進到對面棋盤的底線就會「成王」，\x0d\n此後可以向斜後方移動。
+dict038_tips_index00	保護自己的棋子吧
+dict038_tips_index01	棋盤角落
+dict038_tips00	只要在斜後方擺放一枚棋子\x0d\n就不會被吃掉。
+dict038_tips01	在這裡擺放棋子，對手將無法吃棋。
+dict038_doya_index00	西洋跳棋的起源
+dict038_doya_index01	西洋跳棋（Checker）的Check
+dict038_doya00	據說原型\x0d\n是過去從埃及獅身人面像出土的文物。
+dict038_doya01	意指方格紋路。
+dict039.msbt
+menu_trivia_gam039_0	這是一款連接六角形的石子排成一條道路的遊戲
+dict039_rule_index00	基本遊玩方式
+dict039_rule_index01	比對手更快地
+dict039_rule_index02	特別的格子
+dict039_rule00	雙方輪流放置石子，\x0d\n先將棋盤「兩端」連接起來的一方獲勝。
+dict039_rule01	放置屬於自己的石子\x0d\n讓我方顏色的「兩端」連結起來吧。
+dict039_rule02	對兩邊的顏色都能判定為「兩端」的格子。
+dict039_tips_index00	如果對手已經完成連線
+dict039_tips_index01	如果被阻擋了
+dict039_tips_index02	發動奇襲
+dict039_tips00	稍微繞到前面阻擋對手吧。
+dict039_tips01	注意，之後可能會追不上對手的石子！
+dict039_tips02	最後故意在正中央放置石子也是一種策略。
+dict039_doya_index00	六貫棋
+dict039_doya00	六貫棋的英文名「Hex」\x0d\n是源自希臘文中的數字6「Hexa」。
+dict040.msbt
+menu_trivia_gam040_0	能夠悠哉遊玩的歐洲經典雙陸
+dict040_rule_index00	基本遊玩方式
+dict040_rule_index01	棋子的走法
+dict040_rule_index02	棋子的出發方式
+dict040_rule_index03	最後
+dict040_rule_index04	攻擊！
+dict040_rule_index05	如果擲出6點的話……
+dict040_rule00	透過擲骰子的點數，\x0d\n盡快地讓4枚棋子抵達終點吧。
+dict040_rule01	投擲骰子，並選擇要前進的棋子。
+dict040_rule02	在擲出「6」點以前無法出發。
+dict040_rule03	最快讓4枚棋子\x0d\n抵達相同顏色終點的人獲勝。
+dict040_rule04	若與對手的棋子停留在同一格，\x0d\n便能將該棋子打回起點。
+dict040_rule05	能夠再擲一次骰子。
+dict040_cho_index00	出發骰
+dict040_cho_index01	「有」攔阻時
+dict040_cho00	沒有棋子在場上時，\x0d\n要決定擲幾次骰子。
+dict040_cho01	當前方有其他棋子擋路時，\x0d\n便無法越過棋子前進。
+dict040_tips_index00	妨礙你的對手吧
+dict040_tips_index01	仔細地思考……
+dict040_tips_index02	起點
+dict040_tips00	向對手棋子所在的格子發動攻擊吧！
+dict040_tips01	先讓可能被攻擊的棋子逃跑吧。
+dict040_tips02	要注意對手可能會從起點移動棋子出現！
+dict040_doya_index00	英國十字戲
+dict040_doya_index01	英國十字戲的意思
+dict040_doya_index02	英國十字戲的起源
+dict040_doya_index03	在法國
+dict040_doya00	據說是在英國被發明出來的遊戲。
+dict040_doya01	在拉丁語中，英國十字戲（Ludo）是「遊戲」的意思。
+dict040_doya02	據說是起源於印度的棋盤遊戲。
+dict040_doya03	「攔阻」似乎是相當普遍的規則。
+dict041.msbt
+menu_trivia_gam041_0	用連續跳躍前往終點吧
+dict041_rule_index00	基本遊玩方式
+dict041_rule_index01	當輪到玩家時
+dict041_rule_index02	跳躍
+dict041_rule_index03	只能跳過1枚
+dict041_rule_index04	連續跳躍
+dict041_rule_index05	最後
+dict041_rule00	最早讓6枚棋子抵達終點的人獲勝！
+dict041_rule01	棋子只能一次動一格。
+dict041_rule02	當棋子旁有別的棋子時，就可以跳過去！
+dict041_rule03	如果有2枚以上的棋子並列，就跳不過去。
+dict041_rule04	如果有遇到每隔一個空格擺放的棋子，就能連續跳躍！\x0d\n另外也能在中途轉向！
+dict041_rule05	把所有的棋子聚集在終點吧！
+dict041_tips_index00	相連才能搬家
+dict041_tips_index01	以進行連續跳躍為目標吧！
+dict041_tips00	棋子彼此離太遠的話就不能跳躍了！\x0d\n把棋子擺近一點再前進吧。
+dict041_tips01	利用對手的棋子移動到遠方吧。
+dict041_doya_index00	其實……
+dict041_doya_index01	調職族
+dict041_doya00	本遊戲與「中國」和「西洋跳棋(Checker)」\x0d\n完全沒有任何關係。
+dict041_doya01	據說本遊戲是在英國誕生，\x0d\n在德國演變成現在的模式，\x0d\n最後在美國被命名的……
+dict042.msbt
+menu_trivia_gam042_0	起源於中國，學會以後能玩一輩子的桌上遊戲
+dict042_rule_index00	基本遊玩方式
+dict042_rule_index01	麻將牌
+dict042_rule_index02	當輪到玩家時
+dict042_rule_index03	重複以上流程
+dict042_rule_index04	面子（由三張牌組成）
+dict042_rule_index06	即使完成基本牌型
+dict042_rule_index07	和牌時要喊「自摸」或「和」！
+dict042_rule_index08	在最後一局結束時
+dict042_rule00	以每次1張牌的頻率更換14張牌，\x0d\n並以盡快完成牌型為目標吧。\x0d\n最後獲得分數最高的人獲勝！
+dict042_rule01	麻將牌分成數字1～9的「數牌」，\x0d\n以及中發白&東南西北的「字牌」等三種牌。\x0d\n每張牌各4張。
+dict042_rule02	摸進1張牌，再丟掉1張不需要的牌。
+dict042_rule03	湊齊4組「由3張牌」組成的面子，\x0d\n以及1組「由相同的2張牌」組成的雀頭，\x0d\n以完成「3‧3‧3‧3‧2」基本牌型為目標吧。
+dict042_rule04	指湊齊同種類數字連續的3張牌，\x0d\n或是湊齊同樣的3張牌。
+dict042_rule06	必須湊齊能被稱為牌型的組合才能和牌。
+dict042_rule07	以自己新摸進的牌和牌稱為「自摸」！\x0d\n以別人打出的牌和牌稱為「和」！
+dict042_rule08	分數最高的人獲勝！
+dict042_point_index00	聽牌
+dict042_point_index01	沒聽
+dict042_point_index02	向聽數
+dict042_point_index03	叫牌
+dict042_point_index04	「叫牌」的種類
+dict042_point_index05	「槓」的重點
+dict042_point_index06	流局
+dict042_point00	指再湊齊一張牌便能「和牌」的狀態。
+dict042_point01	非「聽牌」狀態稱為「沒聽」。
+dict042_point02	指需要進幾張牌才能聽牌。
+dict042_point03	取得其他玩家所打出的牌，也能藉此湊齊面子。\x0d\n叫牌後，相對地要打出1張自己的牌。
+dict042_point04	碰：同樣的2張牌 ⇒使其湊成同樣的3張牌\x0d\n槓：同樣的3張牌 ⇒使其湊成同樣的4張牌\x0d\n吃：數字連續的2張牌 ⇒使其湊成數字連續的3張牌
+dict042_point05	① 當自己的牌湊齊4張牌時可以做的動作。\x0d\n② 槓牌後要再拿1張牌。\x0d\n③ 槓牌後，能變成加分牌的牌會多1張。
+dict042_point06	指在沒有人和牌的狀況下結束該局。\x0d\n在流局時已經聽牌的人可以獲得分數。
+dict042_words_index00	莊家，閒家與各家
+dict042_words_index01	場
+dict042_words_index02	局
+dict042_words_index03	東風戰與東南戰
+dict042_words_index05	加分牌
+dict042_words_index06	裏加分牌
+dict042_words_index07	紅加分牌
+dict042_words_index08	門風牌
+dict042_words_index09	場風牌
+dict042_words00	一場麻將會有一位莊家與三位閒家。\x0d\n從莊家開始依序稱為「東家、南家、西家、北家」。
+dict042_words01	當所有人都輪過一次莊家後，被稱為場。\x0d\n之後從「東場」→「南場」做輪替。
+dict042_words02	當莊家換人時則該局結束。\x0d\n從「一局」到「四局」，所有人會輪流當一次莊家。
+dict042_words03	只玩到「東場」結束被稱為「東風戰」。\x0d\n而只玩「東場與南場」則被稱為「東南戰」。
+dict042_words05	在和牌時，若手上持有該牌便能加分。\x0d\n畫面中顯示的牌的「下一張牌」便是加分牌。
+dict042_words06	只有在立直和牌時，才能多摸一張的加分牌。
+dict042_words07	在和牌時，若手上持有該牌，該牌就會變成「加分牌」。\x0d\n由5的數牌各一張所組成。
+dict042_words08	持有三張與門風一致的字牌（東家為東）。
+dict042_words09	持有三張與場風一致的字牌。\x0d\n(東場時為東，南場時為南)
+dict042_hand_index_a	1翻役☆
+dict042_hand_index_b	2翻役☆☆
+dict042_hand_index_c	3翻役☆☆☆
+dict042_hand_index_d	6翻役☆☆☆☆☆☆
+dict042_hand_index00	總共有40種牌型！
+dict042_hand_index01	立直
+dict042_hand_index02	役牌
+dict042_hand_index03	斷么九
+dict042_hand_index04	平和
+dict042_hand_index05	門前自摸
+dict042_hand_index06	一發
+dict042_hand_index07	一盃口
+dict042_hand_index08	河底撈魚
+dict042_hand_index09	海底撈月
+dict042_hand_index10	槓上開花
+dict042_hand_index11	搶槓
+dict042_hand_index12	風牌
+dict042_hand_index13	連風牌
+dict042_hand_index14	對對和
+dict042_hand_index15	三色同順
+dict042_hand_index16	七對子
+dict042_hand_index17	一氣通貫
+dict042_hand_index18	混全帶么九
+dict042_hand_index19	三暗刻
+dict042_hand_index20	雙重立直
+dict042_hand_index21	小三元
+dict042_hand_index22	混老頭
+dict042_hand_index23	三色同刻
+dict042_hand_index24	三槓子
+dict042_hand_index25	混一色
+dict042_hand_index26	純全帶么九
+dict042_hand_index27	二盃口
+dict042_hand_index28	清一色
+dict042_hand00	按下\ue008便能透過手牌組合\x0d\n來查看「推薦牌型」。
+dict042_hand01	在不叫牌的情況下，於聽牌（和牌的前一手）時\x0d\n選擇「立直」便能成立牌型。
+dict042_hand02	白、發、中任一種牌湊齊三張（或是槓牌）。
+dict042_hand03	整副牌僅由2～8的數牌所湊成的牌型
+dict042_hand04	在不叫牌的情況下，湊齊四組「三張連續數牌」\x0d\n加一組雀頭（數牌或風牌以外的東南西北），且聽牌時為「兩面聽」即可成立
+dict042_hand05	不利用對手的牌，\x0d\n全部都用自己的牌來和牌。
+dict042_hand06	於立直後在下次輪到自己前靠自摸或著和來和牌。\x0d\n當有其他人叫牌時就會無效。
+dict042_hand07	在不叫牌的情況下，湊齊兩組「相同種類」的三張連續數牌
+dict042_hand08	在牌局的最後，靠著其他人所丟棄的牌來和。
+dict042_hand09	在牌局的最後，靠著自己摸到的牌來和牌。
+dict042_hand10	在槓之後，靠著槓所摸到的牌來和牌。
+dict042_hand11	當其他人「槓了他自己曾經碰過的牌」，\x0d\n且這張牌可以讓自己「和」時就能「和牌」。
+dict042_hand12	湊齊三張圈風（東場時為東、南場時為南）牌（或是槓牌），\x0d\n或是三張與門風（東南西北）相同的風牌（或是槓牌）。
+dict042_hand13	當門風牌與圈風牌相同時，收集3張該牌（或是槓牌）。
+dict042_hand14	四組「三張相同的牌（或是槓牌）」\x0d\n和一組雀頭（兩張相同的牌）湊成的牌型。
+dict042_hand15	手牌裡湊齊三組「不同種類」的三張連續數牌。\x0d\n三組皆得是數字排序相同的順子
+dict042_hand16	手牌裡湊齊七組「兩張相同的牌」的特殊牌型
+dict042_hand17	湊齊「1～9」相同種類的數牌的牌型
+dict042_hand18	全部牌組皆是帶有么九的數牌，\x0d\n再加上字牌（中發白、東南西北）所湊成的牌型
+dict042_hand19	在不叫牌的情況下，手牌裡湊齊三組三張相同的牌（或是槓牌）。
+dict042_hand20	在開始遊戲後的第一圈就「立直」，\x0d\n當有其他人叫牌時就會無效。
+dict042_hand21	白、發、中任一組牌湊成「兩張」，\x0d\n其餘兩組各湊到「三張」（或是槓牌）。
+dict042_hand22	由「么九牌」或「字牌」湊成四組三張相同的牌。\x0d\n加上雀頭也是「么九牌」或「字牌」所湊成的牌型。
+dict042_hand23	用「種類不同的牌」做出3組3張相同數字的牌（或是槓牌）。\x0d\n3組牌的數字必須相同。
+dict042_hand24	做出3組相同的4張牌（槓）。
+dict042_hand25	整副牌僅由相同種類的數牌和字牌（中發白、東南西北）所湊成的牌型
+dict042_hand26	所有的組合必須包含1或9的數牌。
+dict042_hand27	在不叫牌的情況下，湊滿2組一盃口。
+dict042_hand28	整副牌僅由相同種類的數牌所湊成的牌型
+dict042_yakuman_index_a	役滿
+dict042_yakuman_index00	四暗刻
+dict042_yakuman_index01	國士無雙
+dict042_yakuman_index02	大三元
+dict042_yakuman_index03	大四喜
+dict042_yakuman_index04	小四喜
+dict042_yakuman_index05	字一色
+dict042_yakuman_index06	清老頭
+dict042_yakuman_index07	綠一色
+dict042_yakuman_index08	九蓮寶燈
+dict042_yakuman_index09	地和
+dict042_yakuman_index10	天和
+dict042_yakuman_index11	四槓子
+dict042_yakuman_00	在不叫牌的情況下，手牌裡湊齊四組三張相同的牌。\x0d\n但用槓牌湊成四張牌的話，就會變成其他牌型。
+dict042_yakuman_01	手牌裡湊齊全部十三張的「么九牌」和「字牌」\x0d\n其中任一組湊成兩張組成雀頭
+dict042_yakuman_02	白、發、中全部湊到三張（或是槓牌）。
+dict042_yakuman_03	湊齊所有的東南西北各三張的牌型（或是槓牌）。
+dict042_yakuman_04	東南西北的其中三組湊成三張（或是槓牌），\x0d\n剩下一組湊成兩張組成雀頭的牌型。
+dict042_yakuman_05	整副牌僅由「中發白、東南西北」等字牌所湊成的牌型
+dict042_yakuman_06	整副牌僅由么九牌所湊成的牌型
+dict042_yakuman_07	整副牌皆是「綠色牌」的役滿牌。\x0d\n由二、三、四、六、八索和青發湊成的牌型
+dict042_yakuman_08	在不叫牌的情況下，把相同種類的數牌湊成「三張一」、「三張九」、\x0d\n「二～八各一張」，再加上任一張「一～九」的牌型
+dict042_yakuman_09	身為閒家時靠著最一開始摸到的牌來和牌。\x0d\n當有其他人叫牌時就會無效。
+dict042_yakuman_10	身為莊家時靠著最一開始摸到的牌來和牌。
+dict042_yakuman_11	做出4組相同的4張牌（槓）。
+dict042_tips_index00	莊家的優勢
+dict042_tips_index01	振聽
+dict042_tips_index02	完成簡單的牌型吧
+dict042_tips_index04	好記的牌型
+dict042_tips00	和牌時獲得的分數會變成1.5倍。\x0d\n只要和牌便能繼續當莊家。
+dict042_tips01	不能使用跟自己打出去過的牌\x0d\n來進行「和牌」。
+dict042_tips02	先鎖定「立直」、「斷么」、「平和」\x0d\n等牌型來和牌吧。
+dict042_tips04	有七對子（七組同樣的2張牌）及\x0d\n對對和（四組同樣的3張牌與2張同樣的牌）\x0d\n等牌型。
+dict042_doya_index00	語源
+dict042_doya_index01	起源
+dict042_doya_index02	最難完成的牌型
+dict042_doya_index03	「加分牌是戀人」
+dict042_doya00	日文的「焦急(tenparu)」，\x0d\n語源其實就來自於麻將的聽牌(tenpai)。
+dict042_doya01	據說起源於一種中國自古流傳的卡牌遊戲。
+dict042_doya02	湊齊四槓子的機率\x0d\n竟然只有0.000234%！？
+dict042_doya03	這是在日本很有名的麻將格言。\x0d\n意思是要好好珍惜加分牌。
+dict043.msbt
+menu_trivia_gam043_0	找出相同的牌配對消除的益智遊戲
+dict043_rule_index00	基本遊玩方式
+dict043_rule_index01	可選擇的牌
+dict043_rule_index02	過關條件
+dict043_rule00	消除成對的牌，\x0d\n將牌全部消除掉即可過關。
+dict043_rule01	只能選擇滿足以下兩種條件的牌進行消除。\x0d\n①該牌左右任一側為空。\x0d\n②上方沒有堆疊其他牌。
+dict043_rule02	將牌全部消除掉即可過關！
+dict043_tips_index00	訣竅
+dict043_tips_index01	季節牌
+dict043_tips00	先消除上方堆疊的牌吧。
+dict043_tips01	相同顏色的季節牌可以消除喔！
+dict043_doya_index00	麻將對對消
+dict043_doya_index01	在歐洲
+dict043_doya00	這是使用麻將的單人遊戲，\x0d\n「麻將對對消」。
+dict043_doya01	只要提到「麻將」，大家似乎就會聯想到這個遊戲呢。
+dict044.msbt
+menu_trivia_gam044_0	開局即進入激戰的變體將棋
+dict044_rule_index00	基本遊玩方式
+dict044_rule_index01	首先
+dict044_rule_index02	與將棋的差異①
+dict044_rule_index03	與將棋的差異②
+dict044_rule00	基本規則等同將棋！雙方輪流移動棋子，\x0d\n先吃掉對手「王將」的一方獲勝。
+dict044_rule01	玩玩看普通的將棋吧！
+dict044_rule02	使用小於一般將棋盤的\x0d\n「5\xd75」棋盤進行對弈。
+dict044_rule03	棋子要進行「升變」時，\x0d\n必須前進到對面棋盤的底線。
+dict044_tips_index00	就算棋子被吃掉
+dict044_tips_index01	果斷很重要
+dict044_tips00	就算棋子被吃掉也無妨，趕快再搶回來吧。
+dict044_tips01	別猶豫，將吃掉的棋子拿來利用吧。
+dict044_doya_index00	5五將棋
+dict044_doya_index01	大局將棋
+dict044_doya_index02	盲將棋
+dict044_doya00	可能是因為分別以「英文數字」和「漢文數字」來標示\x0d\n將棋棋盤橫、直兩列的棋格，\x0d\n所以才叫5五將棋吧……
+dict044_doya01	也有一種雙方各自使用402枚棋子\x0d\n進行對弈的超大盤將棋，\x0d\n與簡單的5五將棋截然不同。
+dict044_doya02	職業將棋選手\x0d\n似乎光靠憑空想像就能進行對弈。
+dict045.msbt
+menu_trivia_gam045_0	源自非洲，世界最古老的益智遊戲
+dict045_rule_index00	基本遊玩方式
+dict045_rule_index01	輪到自己行動時
+dict045_rule_index02	終點
+dict045_rule_index03	最後
+dict045_rule00	雙方輪流移動自己口袋內的石頭，\x0d\n終點石頭較多的一方獲勝！
+dict045_rule01	選擇一個口袋，將裡面的石頭一顆顆分配到隔壁口袋。
+dict045_rule02	在分配石頭的過程中，若有石頭抵達終點便得一分！
+dict045_rule03	當一方的口袋全部清空便宣告遊戲結束。
+dict045_point_index00	恰好進終點
+dict045_point_index01	取子
+dict045_point_index02	最後的機會
+dict045_point00	最後分配出去的一顆石頭，\x0d\n若是落在自己的終點即可再一次行動！
+dict045_point01	最後一顆石頭若是落在空的口袋，\x0d\n即可取走對面口袋中的所有石頭！真幸運！
+dict045_point02	當對手的口袋全部清空後，\x0d\n剩下的石頭將全部歸自己所有！
+dict045_tips_index00	取子時的注意事項
+dict045_tips_index01	以恰好進終點為目標吧！
+dict045_tips00	當對面口袋清空時需要特別注意！
+dict045_tips01	訣竅就是預先分配一顆石頭到終點隔壁的口袋。
+dict045_doya_index00	全世界的人都在玩播棋！
+dict045_doya_index01	播棋的歷史
+dict045_doya_index02	非洲的播棋
+dict045_doya_index03	播種
+dict045_doya_index04	撒豆子
+dict045_doya00	不僅是非洲與亞洲，\x0d\n全世界的人都在玩播棋！
+dict045_doya01	據說播棋起源自公元前四千年。
+dict045_doya02	古人會在地上挖洞，透過在洞裡排石頭這種方式來玩播棋。
+dict045_doya03	播棋是一種\x0d\n將石頭當成種子的「播種」遊戲。
+dict045_doya04	日本有一種不停對人撒豆子\x0d\n的瘋狂節慶。
+dict046.msbt
+menu_trivia_gam046_0	讓人腦袋過熱的猜顏色推理遊戲
+dict046_rule_index00	基本遊玩方式
+dict046_rule_index01	首先
+dict046_rule_index02	按下OK後進行判定
+dict046_rule_index03	全對
+dict046_rule_index04	半對
+dict046_rule_index05	如果是「1枚全對1枚半對」
+dict046_rule_index06	在判定之後
+dict046_rule_index07	以4全對為目標吧！
+dict046_rule_index08	如果是2人遊玩
+dict046_rule00	試著猜出隱藏的4枚大頭針的「顏色和位置」的遊戲。
+dict046_rule01	在6種顏色的大頭針裡，\x0d\n選擇4枚自己喜歡的顏色插入吧。
+dict046_rule02	判定結果分為「全對」與「半對」。
+dict046_rule03	猜對顏色和位置的數量。
+dict046_rule04	只猜對顏色的數量。
+dict046_rule05	1個全對：有1枚猜對顏色和位置的大頭針。\x0d\n1個半對：有1枚只猜對顏色的大頭針。\x0d\n且代表其中沒猜對的顏色有2種。
+dict046_rule06	替換掉沒猜對的大頭針，\x0d\n再進行一次判定吧！
+dict046_rule07	有8次機會！
+dict046_rule08	輪流進行遊玩，\x0d\n比賽誰先猜中正確答案。
+dict046_tips_index00	可以插入相同的顏色！
+dict046_tips_index01	即使是「0枚全對0枚半對」……
+dict046_tips_index02	首先
+dict046_tips00	遊戲開始時，將大頭針以2枚同色為1組的\x0d\n方式插入，更容易推敲出正確的顏色喔。
+dict046_tips01	也可以得知哪種大頭針沒被使用，\x0d\n是重要的提示！
+dict046_tips02	從6種顏色當中\x0d\n找出還沒被使用的顏色吧！
+dict046_doya_index00	從數學的觀點來看
+dict046_doya_index01	不是顏色……
+dict046_doya_index02	第一次就猜中的機率
+dict046_doya00	據說在5次的推理內，\x0d\n一定能找出正確答案……
+dict046_doya01	據說也有\x0d\n猜4位數字的遊戲喔。
+dict046_doya02	答案沒有重複顏色時機率是360分之1。\x0d\n有重複顏色時猜對的機率是1296分之1。
+dict047.msbt
+menu_trivia_gam047_0	排好骨牌後推倒！不對！……這才是本遊戲原來的玩法
+dict047_rule_index00	基本遊玩方式
+dict047_rule_index01	首先
+dict047_rule_index02	當手上的牌裡
+dict047_rule_index03	完成
+dict047_rule_index04	若完成排列的話
+dict047_rule_index05	遊戲結束
+dict047_rule_index06	最後
+dict047_rule_index07	商數5的分數
+dict047_rule_index09	遊玩簡單規則時
+dict047_rule00	將「西洋骨牌」連接起來，\x0d\n取得指定分數的人獲勝。
+dict047_rule01	打出數字相同的牌，使其連接。
+dict047_rule02	若沒有可連接的牌，則無法出牌。
+dict047_rule03	當玩家將手上的牌全部出完時\x0d\n即「完成」排列，回合結束。
+dict047_rule04	計算其他人所剩下的牌，其合計分數即為該局得分。
+dict047_rule05	當超過指定的分數（35/61）時，比賽結束。
+dict047_rule06	由合計分數最高的人獲勝！
+dict047_rule07	「西洋骨牌排列的末端牌點數總和」，\x0d\n若為5的倍數，便能直接作為分數加算！
+dict047_rule08	即使「西洋骨牌排列的末端牌點數總和」，\x0d\n為5的倍數，也無法作為分數加算。
+dict047_rule09	其他人剩下的牌面點數總和\x0d\n「除以5後的商數」將追加至自己的分數上。
+dict047_point_index00	封牌
+dict047_point00	當所有玩家都無法出牌時，該輪便直接結束。
+dict047_tips_index00	盡快打出數字大的牌
+dict047_tips00	不然對手完成排列時會得到高分喔。
+dict047_doya_index00	西洋骨牌（domino）
+dict047_doya_index01	世界四大遊戲
+dict047_doya_index02	誕生地
+dict047_doya_index03	在中國……
+dict047_doya00	「domino」一詞的原意為\x0d\n「化裝舞會上戴的面具」。
+dict047_doya01	指的是西洋骨牌、雙陸棋、\x0d\n撲克牌和西洋棋。
+dict047_doya02	據說西洋骨牌起源於義大利……
+dict047_doya03	也有類似西洋骨牌，\x0d\n名為「牌九」的遊戲。
+dict048.msbt
+menu_trivia_gam048_0	牌面繪有四季花草，令人賞心悅目的卡牌遊戲
+dict048_rule_index00	基本遊玩方式
+dict048_rule_index01	出牌
+dict048_rule_index02	場上沒有可配對的牌
+dict048_rule_index03	出完牌後
+dict048_rule_index04	收集花牌
+dict048_rule_index05	繼續繼續
+dict048_rule_index06	無法湊成牌型時
+dict048_rule_index07	最後
+dict048_rule00	收集相同月分的牌並湊成牌型，\x0d\n最後分數較高的一方獲勝！
+dict048_rule01	選出與場牌相同月分的牌配對，收下該張牌吧！
+dict048_rule02	選出一張手牌丟到場上吧。
+dict048_rule03	從牌堆翻開一張牌，再次挑戰配對！
+dict048_rule04	若是湊成牌型就宣告「完成」！
+dict048_rule05	湊成牌型後，選擇「就此結束」或「繼續」牌局。
+dict048_rule06	牌局將一直進行到打光手牌為止。
+dict048_rule07	遊玩指定的回合數，\x0d\n最終分數較高的一方獲勝！
+dict048_point_index00	只有一次繼續繼續的機會
+dict048_point_index01	逆轉機會
+dict048_point_index02	牌型分數
+dict048_point_index03	真幸運！①
+dict048_point_index04	真幸運！②
+dict048_point00	每局只有一次宣告繼續繼續的機會，\x0d\n下次當任一方湊出牌型時，由該方宣告完成牌型！
+dict048_point01	在對手宣告「繼續繼續」後，\x0d\n若自己完成牌型將獲得兩倍分數。
+dict048_point02	分數因完成的牌型種類不同而異。\x0d\n若完成的牌型分數合計超過七分，\x0d\n最終分數將變成兩倍。
+dict048_point03	當場上有3張月份相同的牌時，\x0d\n拿到剩下的1張就可以得到所有的牌！
+dict048_point04	也會發生在手牌分配完的當下，牌型便已完成的情況。\x0d\n①手四（6分）：湊齊四張同月分的牌。\x0d\n②連對（6分）：湊齊兩張同月分的牌，總共四組。
+dict048_hand_index00	牌型確認
+dict048_hand_index01	五光：10分
+dict048_hand_index02	四光：8分
+dict048_hand_index03	雨四光：7分
+dict048_hand_index04	三光：5分
+dict048_hand_index05	賞花一浮白：5分
+dict048_hand_index06	賞月一浮白：5分
+dict048_hand_index07	赤短：5分
+dict048_hand_index08	青短：5分
+dict048_hand_index09	豬鹿蝶：5分
+dict048_hand_index10	短：1分
+dict048_hand_index11	種：1分
+dict048_hand_index12	雜牌：1分
+dict048_hand00	按\ue008鍵會顯示「牌型列表」和「牌種列表」喔。
+dict048_hand01	湊齊五張光牌
+dict048_hand02	湊到除「雨」（柳的光牌）以外的四張光牌
+dict048_hand03	湊到包含「雨」（柳的光牌）在內的四張光牌
+dict048_hand04	湊到除「雨」（柳的光牌）以外任意三張光牌的牌型
+dict048_hand05	湊齊櫻的光牌與「菊上盃」（菊的種牌）
+dict048_hand06	湊齊「月」（芒草的光牌）與「菊上盃」（菊的種牌）
+dict048_hand07	每多湊到一張不同的短冊牌加一點
+dict048_hand08	每多湊到一張不同的短冊牌加一點
+dict048_hand09	每多湊到一張不同的種牌加一點
+dict048_hand10	湊到五張短冊牌。每多湊到一張短冊牌加一點
+dict048_hand11	湊到五張種牌。每多湊到一張種牌加一點
+dict048_hand12	湊到十張雜牌。每多湊到一張雜牌加一點\x0d\n就算「菊上盃」是種牌，也能當作雜牌使用
+dict048_tips_index00	先從雜牌開始出吧
+dict048_tips_index01	抓準時機
+dict048_tips_index02	賞月與賞花
+dict048_tips00	先出雜牌（無★牌）吧。
+dict048_tips01	就算持有三張相同月分的牌，也不必急著出牌喔！
+dict048_tips02	某些牌只需要兩張就能組成牌型。\x0d\n對手拿到這些牌時要小心！
+dict048_doya_index00	任天堂
+dict048_doya00	任天堂在日本製作並販售花牌的歷史，\x0d\n已經超過130年囉。
+dict050.msbt
+menu_trivia_gam050_0	瞄準圓心輪流擲出石壺的運動遊戲
+dict050_rule_index00	基本遊玩方式
+dict050_rule_index01	回合制
+dict050_rule_index02	最後
+dict050_rule00	擲出石壺，\x0d\n最後靠近中央圓心（大本營）的一方獲勝！
+dict050_rule01	雙方輪流擲出10個石壺。
+dict050_rule02	最後石壺較靠近圓心（大本營）的一方獲勝！
+dict050_tips_index00	最後一步是關鍵！
+dict050_tips_index01	防禦！
+dict050_tips_index02	撞開對手的石壺！
+dict050_tips00	好好思考該如何布置石壺的位置，\x0d\n以便在最後占領圓心（大本營）吧。
+dict050_tips01	利用自己的石壺來阻擋對手石壺\x0d\n的前進路線，藉此妨礙對手吧！
+dict050_tips02	若對手的石壺已經在圓心（大本營）附近，\x0d\n那就把它撞開吧！
+dict050_doya_index00	冰壺
+dict050_doya_index01	名稱的由來
+dict050_doya_index02	石壺其實很重！？
+dict050_doya_index03	拿起刷子刷刷刷！
+dict050_doya00	由於其具備高度的策略性，\x0d\n因此又被稱作「冰上西洋棋」。
+dict050_doya01	據說是因為將石壺擲出時，其滑行軌跡就像\x0d\n彎曲（curl）的頭髮，故稱作冰壺（curling）……
+dict050_doya02	一個石壺約重20公斤。
+dict050_doya03	在實際比賽中，選手拿刷子刷冰\x0d\n其實是為了讓石壺更容易滑行。
+dict051.msbt
+menu_trivia_gam051_0	從古希臘就有的格鬥競技
+dict051_rule_index00	基本遊玩方式
+dict051_rule_index01	防禦
+dict051_rule_index02	揮拳
+dict051_rule_index03	擊倒勝利
+dict051_rule_index04	判定勝利
+dict051_rule00	揮拳！揮拳！藉此打倒對手的一方獲勝！
+dict051_rule01	舉起左腕，抵擋對手的揮拳吧！
+dict051_rule02	當對手放下防禦時，就趁機攻擊吧！
+dict051_rule03	揮拳把對手逼退、打倒就算獲勝了！
+dict051_rule04	當時間到的時候，不論距離，\x0d\n逼退對手的那一方獲勝！
+dict051_tips_index00	反擊
+dict051_tips_index01	就算被逼退了
+dict051_tips00	只要在對手揮出的拳頭命中之前\x0d\n先揮拳打中對手就能造成巨大傷害！
+dict051_tips01	保持冷靜，等待出手的時機吧。
+dict051_doya_index00	擊倒
+dict051_doya_index01	拳套
+dict051_doya_index02	比賽用鐘(gong)
+dict051_doya_index03	雖然現在是四角型……
+dict051_doya_index04	拳擊量級
+dict051_doya00	在英文稱作K.O.，是Knock Out的縮寫，\x0d\n也就是徹底打倒對手的意思。
+dict051_doya01	其實是為了避免讓自己的手受傷而穿戴的防具。
+dict051_doya02	其實是一種正規的打擊樂器。
+dict051_doya03	據說是因為以前人們會手牽手圍成一個大圓圈，\x0d\n所以擂台在英文中才被稱作「ring」……
+dict051_doya04	比較輕的量級名會用現實中很輕的存在來命名，\x0d\n像是羽量級(Feather)跟蠅量級(Fly)。
+dict052.msbt
+menu_trivia_gam052_0	撞球的原型！？源自印度的彈射遊戲
+dict052_rule_index00	基本遊玩方式
+dict052_rule_index01	硬幣分為三種
+dict052_rule_index02	將硬幣打進袋吧
+dict052_rule_index03	進袋！
+dict052_rule_index04	最後
+dict052_rule00	先將自己所有的硬幣打進袋的那一方獲勝。
+dict052_rule01	　①衛兵：用衛兵將硬幣彈開\x0d\n　②硬幣：讓硬幣掉進洞裡吧\x0d\n　③王后：很重要喔！
+dict052_rule02	將硬幣彈射出去，\x0d\n讓屬於自己顏色的硬幣掉進洞裡吧。
+dict052_rule03	要是屬於自己顏色的硬幣進袋了，就可以再彈射一次喔。\x0d\n沒有成功進洞時就輪到對手。
+dict052_rule04	先將自己的硬幣全部打進袋的那一方獲勝。
+dict052_queen_index00	王后……
+dict052_queen_index01	掩護
+dict052_queen_index02	掩護失敗
+dict052_queen_index03	即使被對手打進袋也沒問題
+dict052_queen00	王后得在自己的硬幣全部進袋以前進袋。
+dict052_queen01	王后進袋之後，\x0d\n接下來一定要讓自己的硬幣進袋。
+dict052_queen02	接下來要是無法讓自己的硬幣進袋，\x0d\n王后就會回到棋盤上。
+dict052_queen03	考慮要先將哪一個打進袋，也是策略的一環。
+dict052_tips_index00	對手的硬幣
+dict052_tips_index01	獲勝的訣竅
+dict052_tips_index02	學會這招就能算是高手！
+dict052_tips00	即使打進袋了也只會讓對手變得更有利，\x0d\n要注意不要將對手的群眾打進袋！
+dict052_tips01	連續將硬幣打進袋中吧。
+dict052_tips02	善加利用牆壁的反彈吧！
+dict052_doya_index00	現實中的彈戲
+dict052_doya_index01	彈戲盛行的地區
+dict052_doya_index02	彈戲
+dict052_doya_index03	彈戲撞球
+dict052_doya00	在70公分\xd770公分的棋盤上，\x0d\n用大約4公分寬的硬幣來玩。
+dict052_doya01	在南亞非常受歡迎！\x0d\n因為移民的緣故，也擴展到了歐洲及美洲。
+dict052_doya02	有人說是源自於印度，也有人說是源自於埃及。
+dict052_doya03	以一種撞球的規則，\x0d\n套用在沒有口袋的桌上遊玩。
+dict053.msbt
+menu_trivia_gam053_0	互相打擊浮在空氣上的球
+dict053_rule_index00	基本遊玩方式
+dict053_rule_index01	殺球
+dict053_rule00	瞄準對方的球門互相擊球，\x0d\n先比對方取得指定分數的一方獲勝！
+dict053_rule01	可以用打出殺球!
+dict053_tips_index00	利用牆壁
+dict053_tips_index01	注意！
+dict053_tips_index02	假動作？
+dict053_tips00	如果把球打向旁邊的牆壁反彈，\x0d\n可以讓對手難以攔截喔。
+dict053_tips01	如果雙方持續擊球，球的速度也會變快，\x0d\n可能會不小心打出烏龍球喔！？
+dict053_tips02	故意錯開擊球的時機，\x0d\n趁對手大意時進攻吧！
+dict053_doya_index00	用來擊球的這個東西的名字……
+dict053_doya_index01	氣墊球
+dict053_doya00	叫做「擊球槌」。\x0d\n其英文mallet是「木槌」的意思。
+dict053_doya01	在球檯表面上的洞會噴出空氣使球漂浮，\x0d\n玩家再加以擊打，故稱為「氣墊」球。
+dict054.msbt
+menu_trivia_gam054_0	連接6個相同顏色珠子的落下型益智遊戲
+dict054_rule_index00	基本遊玩方式
+dict054_rule_index01	基本操作
+dict054_rule_index02	好好活用吧
+dict054_rule_index03	最後
+dict054_rule00	連接6個相同顏色的珠子並將其消除，\x0d\n比對方更早堆到最上層的一方就輸了。
+dict054_rule01	按向右旋轉，\ue001向左旋轉。
+dict054_rule02	把\ue005推向上方可以快速疊放珠子。
+dict054_rule03	先把珠子堆到最上層的一方就輸了！
+dict054_point_index00	招式
+dict054_point_index01	六角
+dict054_point_index02	金字塔
+dict054_point_index03	直線
+dict054_point00	只要用特定的形狀連結珠子，\x0d\n就可以發動招式向對手進攻！
+dict054_point01	在對手的場地降下36個珠子。
+dict054_point02	在對手的場地降下24個珠子。
+dict054_point03	在對手的場地降下19個珠子。
+dict054_tips_index00	聚集相同的顏色吧①
+dict054_tips_index01	聚集相同的顏色吧②
+dict054_tips00	如果成功發動招式，就可以一口氣\x0d\n消除相同顏色的珠子了！
+dict054_tips01	要是順利，也許還能連續發動招式……
+dict054_doya_index00	益智遊戲(Puzzle)①
+dict054_doya_index01	益智遊戲(Puzzle)②
+dict054_doya_index02	益智遊戲的歷史
+dict054_doya00	其實就是指所謂的「謎語」喔！
+dict054_doya01	Puzzle在英文裡也帶有「混亂」的意思喔。
+dict054_doya02	據說其起源能\x0d\n追溯到至今3700年前的埃及。
+dict055.msbt
+menu_trivia_gam055_0	排列、連接主機、然後協力對戰！
+dict055_rule_index00	基本遊玩方式
+dict055_rule_index01	被打倒就輸了
+dict055_rule_index02	通過關卡
+dict055_rule00	打倒所有的敵人來過關吧！
+dict055_rule01	被敵人的砲彈命中就出局了。
+dict055_rule02	別大意了，下一關馬上就要開始囉！
+dict055_point_index00	同伴發射的砲彈
+dict055_point_index01	高飛彈
+dict055_point00	同伴發射的砲彈不會打中自己。
+dict055_point01	按上鍵可發射以拋物線飛行的砲彈。
+dict055_tips_index00	敵人的動向
+dict055_tips_index01	ＢＯＳＳ
+dict055_tips_index02	1個人的極限
+dict055_tips00	要好好看清楚敵人會採取什麼樣的行動喔～
+dict055_tips01	試著繞到後方，或者善用反射\x0d\n來攻擊對手的弱點吧！
+dict055_tips02	當1個人無法過關時，\x0d\n就找朋友一起協力挑戰吧！
+dict055_doya_index00	履帶①
+dict055_doya_index01	履帶②
+dict055_doya_index02	履帶③
+dict055_doya00	是一種會安裝在戰車上\x0d\n或挖土機上的車輪
+dict055_doya01	真正的戰車能行駛於難以行走的地面，\x0d\n還能爬上階梯！
+dict055_doya03	據說其英文(caterpillar)有另一個涵義叫「毛毛蟲」。
+dict056.msbt
+menu_trivia_gam056_0	投擲小型箭矢來競爭分數的細膩打靶遊戲
+dict056_rule_index00	基本遊玩方式
+dict056_rule_index01	1回合……
+dict056_rule_index02	最後
+dict056_rule00	朝鏢靶射飛鏢，以射中的\x0d\n區域來計分，並以此競爭的遊戲。
+dict056_rule01	每次射完3鏢後換人。
+dict056_rule02	總共要玩8回合，獲得分數更多的一方獲勝。
+dict056_point_index00	雙倍紅心區 ＆ 紅心區
+dict056_point_index01	雙倍區
+dict056_point_index02	三倍區
+dict056_point00	指靶心及其周圍的區域，\x0d\n雙倍紅心區為50分，\x0d\n紅心區為25分。
+dict056_point01	射中該格分數變兩倍，真幸運！
+dict056_point02	射中該格分數變三倍，超幸運！！
+dict056_cho_index00	基本遊玩方式
+dict056_cho_index01	自己的分數
+dict056_cho_index02	雙倍出
+dict056_cho_index03	直出
+dict056_cho_index04	爆鏢
+dict056_cho00	要把自己的分數扣除在回合中取得的分數，\x0d\n先把分數降為0分的一方獲勝。
+dict056_cho01	如果是「301」規則就從301分開始算，\x0d\n如果是「501」規則就從501分開始算。
+dict056_cho02	最後結鏢時必須射中「紅心區」或是「雙倍紅心區」，\x0d\n並將分數降為「0」。
+dict056_cho03	最後分數歸0時，不論射中哪個區域都OK。
+dict056_cho04	如果取得了比剩餘分數更多的分數就會失敗。\x0d\n會恢復原本的分數。
+dict056_tips_index00	其實
+dict056_tips_index01	要好好瞄準
+dict056_tips00	比起雙倍紅心區，20分的三倍區得分更高！
+dict056_tips01	為了不讓飛鏢射偏，\x0d\n讓飛鏢筆直地射出去也是很重要的。
+dict056_doya_index00	飛鏢①
+dict056_doya_index01	飛鏢②
+dict056_doya_index02	世界上最昂貴的飛鏢
+dict056_doya_index03	自備飛鏢
+dict056_doya00	據說最早的飛鏢誕生於\x0d\n1300年代的英國。
+dict056_doya01	據說最早的飛鏢遊戲，\x0d\n是以木桶當靶來玩的。
+dict056_doya02	據說有價值200萬日圓以上的\x0d\n飛鏢……
+dict056_doya03	高手都會自備飛鏢。
+dict101.msbt
+menu_trivia_gam101_0	瞬間定勝負的卡牌對戰遊戲
+dict101_rule_index00	基本遊玩方式
+dict101_rule_index01	「K」和「A」
+dict101_rule00	不停打出與場上的牌面數字相連的卡牌，\x0d\n比對手更早把牌出完的人獲勝！
+dict101_rule01	這兩張牌可作為相連的卡牌來出牌。
+dict101_point_index00	重來
+dict101_point_index01	「有」鬼牌
+dict101_point00	當雙方都無牌可出的時候，\x0d\n就同時從牌組重抽一張牌放到場上重新開始！
+dict101_point01	隨時都能打出鬼牌喔。
+dict101_tips_index00	當對手無牌可出的時候
+dict101_tips_index01	搶先出牌！
+dict101_tips00	在玩家出牌之前對手都不能動。\x0d\n不要慌忙，好好的思考順序吧。
+dict101_tips01	如果對手打出了鬼牌，請立刻打出手牌，\x0d\n搶下出牌的機會吧。
+dict101_doya_index00	快速接龍
+dict101_doya_index01	在日本
+dict101_doya_index02	反射神經
+dict101_doya00	這是在撲克牌遊戲裡\x0d\n非常稀有的「動作遊戲」。
+dict101_doya01	這款遊戲被當作經典的撲克牌遊戲之一。
+dict101_doya02	其實……\x0d\n人體裡並沒有被稱為「反射神經」的神經。
+dict102.msbt
+menu_trivia_gam102_0	以記憶力為致勝關鍵的數字對對碰
+dict102_rule_index00	基本遊玩方式
+dict102_rule_index01	記憶遊戲
+dict102_rule_index02	如果翻出一對了
+dict102_rule00	彼此輪流翻開卡片，\x0d\n找到最多對卡片的人獲勝！
+dict102_rule01	選一張被覆蓋的卡牌，把它翻開來吧。
+dict102_rule02	就可以繼續翻開卡牌！
+dict102_tips_index00	翻卡牌的時候
+dict102_tips_index01	在習慣之前……
+dict102_tips00	先從還沒被人翻過的卡牌\x0d\n開始翻起吧！
+dict102_tips01	事先決定要記住的卡牌位置也是一種手段。
+dict102_doya_index00	當神經疲勞時
+dict102_doya_index01	記憶力
+dict102_doya_index02	人類的腦容量
+dict102_doya00	據說攝取「葡萄糖」對恢復十分有效。
+dict102_doya01	據說用藍色的筆學習的話，\x0d\n就能夠提升記憶力……
+dict102_doya02	據說人腦的容量\x0d\n大約有1PiB（GB的100萬倍）
+dict103.msbt
+menu_trivia_gam103_0	競爭卡牌強度的簡單一對一運氣對決
+dict103_rule_index00	基本遊玩方式
+dict103_rule_index01	一決勝負！
+dict103_rule_index02	然後
+dict103_rule_index03	卡牌的強度
+dict103_rule00	獲得較多卡牌的一方勝利！
+dict103_rule01	從手牌中選出一張牌打出，\x0d\n讓雙方的卡牌進行對決吧！
+dict103_rule02	如果打出強於對手的牌，\x0d\n便能收下對手的牌！
+dict103_rule03	2是最弱的牌，而A是最強的牌。\x0d\n2→ 3→ 4→ … J→ Q→ K→ A
+dict103_point_index00	平手
+dict103_point_index01	機會
+dict103_point00	若是雙方的牌一樣強，就重新抽牌再比一次！
+dict103_point01	若是在平手後的對決中獲勝，\x0d\n便能一次收下對手的兩張牌！
+dict103_tips_index00	一切靠直覺
+dict103_tips_index01	為了變強……①
+dict103_tips_index02	為了變強……②
+dict103_tips00	別用腦……要用心……
+dict103_tips01	謹記平時要多行善積德。
+dict103_tips02	參考一下那些\x0d\n幸運兒們的生活態度吧。
+dict103_doya_index00	在日本
+dict103_doya_index01	生存遊戲
+dict103_doya00	據說……某些地方在出牌時，\x0d\n有著邊喊「比～大～小！」邊出牌的習慣……
+dict103_doya01	據說是起源於日本一種使用空氣槍\x0d\n進行的戰爭體驗遊戲。
+dict104.msbt
+menu_trivia_gam104_0	將牌當作章魚燒一樣，將1～10烤好吧！
+dict104_rule_index00	基本遊玩方式
+dict104_rule_index01	首先
+dict104_rule_index02	命中！
+dict104_rule_index03	真幸運！
+dict104_rule_index04	最後
+dict104_rule00	將在場上的10張牌翻過來吧！
+dict104_rule01	從牌堆中抽出一張牌吧。
+dict104_rule02	如果抽出的牌裡有「A～10」，\x0d\n就可以將對應位置的牌翻過來！
+dict104_rule03	如果翻出的牌也屬於「A～10」之一，\x0d\n就可以再翻一次牌！
+dict104_rule04	先將場上所有牌翻過來的那一方獲勝！
+dict104_point_index00	沒抽中①
+dict104_point_index01	沒抽中②
+dict104_point_index02	鬼牌
+dict104_point00	抽出「J、Q、K」都不能算數……\x0d\n此時就會直接變成對方的回合囉。
+dict104_point01	抽出的牌屬於已經翻過的位置時也不算數喔。
+dict104_point02	偶～爾會出現的稀有牌！\x0d\n此時可以選一個任意的位置翻牌喔！
+dict104_tips_index00	鬼牌
+dict104_tips_index01	背景音樂
+dict104_tips00	盡可能用在感覺已經很難翻牌的位置上吧！
+dict104_tips01	只要跟著節奏翻牌好像就會很順利……
+dict104_doya_index00	章魚燒①
+dict104_doya_index01	章魚燒②
+dict104_doya_index02	名字的由來？
+dict104_doya_index03	章魚行星
+dict104_doya00	將章魚裹上生麵團後烤熟，\x0d\n是日本的靈魂美食！\x0d\n能在像攤販一樣的小吃店買到喔。
+dict104_doya01	將材料放入專用的烹調器材中，\x0d\n先讓一面烤熟後，\x0d\n再用鐵籤將其一個一個翻面。
+dict104_doya02	章魚燒的器具與撲克牌\x0d\n一張一張翻過來的樣子，\x0d\n仔～細一看的話……是不是有點像？
+dict104_doya03	據說有顆行星名為「Takoyaki」……\x0d\n（日語中章魚燒之意）
+dict105.msbt
+menu_trivia_gam105_0	考驗策略頭腦也兼具運氣的卡牌遊戲
+dict105_rule_index00	基本遊玩方式
+dict105_rule_index01	遊戲開始
+dict105_rule_index02	總共有4次下注籌碼的機會
+dict105_rule_index03	賭上的籌碼
+dict105_rule_index04	當4次的下注結束後
+dict105_rule_index05	下注時的策略
+dict105_rule_index06	出局
+dict105_rule_index07	最後
+dict105_rule00	預想能組成的牌型，並賭上自己的籌碼\x0d\n從大家的手上贏得最多籌碼的人獲勝
+dict105_rule01	在該回合的第一和第二個玩家\x0d\n必須拿籌碼先行下注。
+dict105_rule02	玩家可一邊評估自己的牌面，\x0d\n一邊決定是否要繼續下注。\x0d\n\x0d\n第一回合：收下兩張底牌\x0d\n第二回合：抽出三張公共牌到場上\x0d\n第三回合：補上第四張公共牌到場上\x0d\n第四回合：補上第五張公共牌到場上
+dict105_rule03	大家所賭的籌碼會聚集到彩池裡
+dict105_rule04	玩家公開自己的底牌互相比較，並結束該回合\x0d\n由湊成最強牌型的人\x0d\n獲得彩池內的籌碼
+dict105_rule05	本遊戲的訣竅在於將大家下注的金額拉高\x0d\n所以即使牌型很弱，也要放膽賭一把
+dict105_rule06	當回合結束後籌碼歸零時，\x0d\n就會被當場淘汰出局。
+dict105_rule07	在所有的回合結束時，\x0d\n從大家的手上贏得最多籌碼的人獲勝。
+dict105_act_index00	下注
+dict105_act_index01	跟注
+dict105_act_index02	加注
+dict105_act_index03	過
+dict105_act_index04	退出
+dict105_act_index05	全押
+dict105_act00	指第一次下籌碼的舉動\x0d\n之後的玩家也必須跟著下籌碼
+dict105_act01	指跟前一位玩家下了同樣的籌碼數量
+dict105_act02	指比前一個下注的玩家多下注兩倍的籌碼\x0d\n之後的玩家也必須賭上相同數量的籌碼
+dict105_act03	只在沒人下注的情況下才能使用。\x0d\n當沒有自信時就不下注，把順序讓給下一個人。
+dict105_act04	在該回合認輸\x0d\n並放棄該輪所下注的所有籌碼。\x0d\n當所有玩家都退出時，最後一位獲勝
+dict105_act05	當沒有足夠的籌碼可以跟注時，\x0d\n可以賭上剩下的所有籌碼來一決勝負。
+dict105_hand_index00	確認牌型
+dict105_hand_index01	卡牌的強度
+dict105_hand_index07	散牌
+dict105_hand_index08	一對
+dict105_hand_index09	兩對
+dict105_hand_index10	三條
+dict105_hand_index11	順子
+dict105_hand_index12	同花
+dict105_hand_index13	葫蘆
+dict105_hand_index14	四條
+dict105_hand_index15	同花順
+dict105_hand_index16	同花大順
+dict105_hand00	在遊戲中按下\ue008\x0d\n便能確認牌型。
+dict105_hand01	「2」是最小的牌，而「A」是最大的牌。\x0d\n２→3→ 4→  … 10 →J→ Q→ K→ A
+dict105_hand02	最弱的牌型。\x0d\n沒有湊齊任何牌型的狀態。
+dict105_hand03	有一組同數字的牌（2張）。
+dict105_hand04	有2組同數字的牌。
+dict105_hand05	有3張同數字的牌。
+dict105_hand06	由連續的數字組成的牌型。
+dict105_hand07	由5張同花色的牌組成的牌型。
+dict105_hand08	由3張同數字及2張同數字的牌組成的牌型。
+dict105_hand09	有4張同數字的牌。
+dict105_hand10	由同花色且連續的數字組成的牌型。
+dict105_hand11	最強的牌型。\x0d\n以同花色的「10‧J‧Q‧K‧A」組成。
+dict105_tips_index00	增加彩池內的籌碼數吧！
+dict105_tips_index01	贏了就跑
+dict105_tips00	當想要逆轉時，請先從自己開始加注\x0d\n把大家的籌碼的聚集到彩池裡吧。
+dict105_tips01	如果在遊戲初期便贏得大量籌碼的話，\x0d\n之後靠著退出維持優勢也是一種策略……？
+dict105_doya_index00	撲克
+dict105_doya_index01	德州撲克
+dict105_doya00	在世界上被廣泛遊玩，\x0d\n一種具代表性的卡牌遊戲。
+dict105_doya01	據說這款遊戲最早起源於\x0d\n1900年代初的德克薩斯州。
+dict106.msbt
+menu_trivia_gam106_0	抽出相同花色的牌就出局！緊張又刺激的測運氣遊戲
+dict106_rule_index00	基本遊玩方式
+dict106_rule_index01	首先
+dict106_rule_index02	安全！
+dict106_rule_index03	太可惜了……
+dict106_rule_index04	最後
+dict106_rule00	儘可能減少手牌數！
+dict106_rule01	試著從場牌裡抽一張牌吧。
+dict106_rule02	若抽到與上個人不同花色的牌，\x0d\n就直接輪到下個人抽牌。
+dict106_rule03	如果抽到與上個人相同花色的牌，\x0d\n就得收回場上所有的牌！
+dict106_rule04	最後手牌最少的一方獲勝！
+dict106_cho_index00	可以「打出」懲罰牌
+dict106_cho00	可以打出手上的牌\x0d\n來減少持有牌的張數。
+dict106_tips_index00	本遊戲是
+dict106_tips00	決定勝負的關鍵，或許取決於對豬的喜愛程度……
+dict106_doya_index00	豬尾巴湯的食譜 ①
+dict106_doya_index00_1	豬尾巴湯的食譜 ②
+dict106_doya_index00_2	豬尾巴湯的食譜 ③
+dict106_doya_index00_3	豬尾巴湯的食譜 ④
+dict106_doya00	豬尾巴、洋蔥、\x0d\n清湯、胡椒鹽、水。
+dict106_doya01	首先將豬尾巴切塊放入平底鍋，\x0d\n將表面煎成焦黃。
+dict106_doya02	接著將煎好的豬尾巴放入鍋中，\x0d\n並加入熱水和清湯。
+dict106_doya03	等湯熬至濃稠狀後加入洋蔥，\x0d\n再用胡椒鹽調味，最後耐心加熱就大功告成了。
+dict107.msbt
+menu_trivia_gam107_0	逆轉！逆轉！以大逆轉來炒熱氣氛的卡牌遊戲
+dict107_rule_index00	基本遊玩方式
+dict107_rule_index01	當輪到玩家時
+dict107_rule_index02	卡牌的強度
+dict107_rule_index03	鬼牌 ①
+dict107_rule_index04	過
+dict107_rule_index05	當所有玩家都喊「過」時
+dict107_rule_index06	收尾
+dict107_rule_index07	換牌
+dict107_rule_index08	在最後一回合
+dict107_rule00	打出比上一位玩家更強的牌，\x0d\n然後最早把手中的牌全部出光的話就贏了！
+dict107_rule01	打出比上一個出牌者更強的牌。
+dict107_rule02	3是最弱的牌，而2比A更強。\x0d\n3→ 4→ 5→ … J→ Q→ K→ A→ 2
+dict107_rule03	比任何數字牌都強的最強卡牌！
+dict107_rule04	當玩家無牌可出時，可以喊「過」。
+dict107_rule05	會重置場上的卡牌，\x0d\n然後由最後一位出牌的人重新開始遊戲。
+dict107_rule06	先出完手牌的人就收尾了！\x0d\n依照收尾的先後順序就會決定排名。
+dict107_rule07	在下一回合開始前，\x0d\n所有玩家要依排名高低進行換牌。
+dict107_rule08	最先收尾的人獲勝！
+dict107_point_index00	如果是同數字的話
+dict107_point_index01	運用同花色的牌
+dict107_point_index02	下剋上
+dict107_point_index03	鬼牌 ②
+dict107_point_index04	違規出牌
+dict107_point00	同數字的卡牌能夠一次打出兩張以上，\x0d\n下一個玩家必須用相同的形式出牌。
+dict107_point01	如果手上有三張以上同花色且數字連續的卡牌，\x0d\n就可以當作一組牌，並一次打出。\x0d\n下一個玩家必須用相同的形式出牌。
+dict107_point02	當有人打出4張同數字的卡牌時，\x0d\n在那回合裡，卡牌的強度將會逆轉。\x0d\n（但鬼牌還是最強的牌）
+dict107_point03	可以代替原本應該打出去的手牌使用。
+dict107_point04	不能在最後用鬼牌收尾。\x0d\n在用鬼牌收尾的當下就會變成第4名。
+dict107_cho_index00	「有」8切時
+dict107_cho_index01	「有」\ue01b3反擊時
+dict107_cho_index02	「有」限制時
+dict107_cho_index03	「有」一落千丈時
+dict107_cho00	打出「8」的時候將重整場面，然後從自己重新出牌。\x0d\n且就算把鬼牌代替「8」打出，也無法產生8切效果。
+dict107_cho01	只有「\ue01b3」可以勝過鬼牌。
+dict107_cho02	當玩家們連續出了相同花色的卡牌，\x0d\n下一個人也只能出相同花色的卡牌。
+dict107_cho03	成為大富豪（第1）的人如果不在下一回合取得第1，\x0d\n就會被貶為大貧民（第4）。
+dict107_tips_index00	按下\ue008鍵
+dict107_tips_index01	要出牌的時候
+dict107_tips_index02	「過」的使用方法
+dict107_tips_index03	學會這招就能算是高手！
+dict107_tips00	可將手牌依「數字 / 花色」\x0d\n的順序進行排列喔。
+dict107_tips01	先打出較小的牌，\x0d\n盡可能保留強力的牌吧！
+dict107_tips02	為了保存強力的牌，\x0d\n在能出牌的時候故意喊「過」也是一種手段。
+dict107_tips03	藉由觀察場上打出的卡牌，\x0d\n來預測對手剩下的手牌吧。
+dict107_doya_index00	在日本
+dict107_doya_index01	在美國
+dict107_doya00	玩家人數眾多，\x0d\n具代表性的派對遊戲之一。
+dict107_doya01	以「大總統（President）」這個名稱廣為人知。
+dict108.msbt
+menu_trivia_gam108_0	當剩下一張牌時，宣告「最後一張牌」！
+dict108_rule_index00	基本遊玩方式
+dict108_rule_index01	當輪到自己出牌時
+dict108_rule_index02	數字以外的卡牌
+dict108_rule_index03	當無牌可出時
+dict108_rule_index04	最後一張牌！
+dict108_rule_index05	決定順位
+dict108_rule00	打出和前一位出牌者相連的手牌，\x0d\n最先出完手牌的人獲勝！
+dict108_rule01	打出和前一位出牌者相同「顏色」或「數字」的牌吧。
+dict108_rule02	有些卡牌能夠逆轉出牌順序，\x0d\n或是轉換場牌的顏色。\x0d\n
+dict108_rule03	從牌堆中抽一張牌後，\x0d\n就換下一個人出牌。
+dict108_rule04	在剩下最後一張牌前要宣告「\ue002：最後一張牌」！\x0d\n忘記宣告可是會遭受懲罰的。
+dict108_rule05	最先出完手牌的人獲得第一！\x0d\n其他則視各家剩下的手牌數量，由少到多來決定2～4名。
+dict108_card_index00	數字牌
+dict108_card_index01	跳過
+dict108_card_index02	反轉順序
+dict108_card_index03	更換顏色
+dict108_card_index04	抽兩張牌
+dict108_card_index05	抽三張牌
+dict108_card_index06	特別的卡牌
+dict108_card00	指數字1～9這些普通的數字牌。\x0d\n只要數字相同，就算顏色不同也能出牌。
+dict108_card01	跳過旁邊玩家的回合。
+dict108_card02	使出牌順序逆轉。
+dict108_card03	可任意轉換場牌的「顏色」。
+dict108_card04	下一個人要抽兩張牌。
+dict108_card05	下一個人要抽三張牌。
+dict108_card06	只要是「同種類的牌」，就算顏色不同也可以出！
+dict108_tips_index00	最後
+dict108_tips_index02	只要按下\ue008
+dict108_tips00	也能用數字以外的牌做收尾喔！
+dict108_tips02	可將手牌依「顏色 / 數字」\x0d\n的順序進行排列喔。
+dict108_doya_index00	最後一張牌
+dict108_doya00	世界上還有使用相同規則、\x0d\n名為「瘋狂八八」的撲克牌遊戲。
+dict109.msbt
+menu_trivia_gam109_0	到底能多接近21點呢？考驗運氣與膽量的卡牌遊戲
+dict109_rule_index00	基本遊玩方式
+dict109_rule_index01	要接近21點
+dict109_rule_index02	遊玩卡牌時的策略
+dict109_rule_index03	「要牌」與「停牌」
+dict109_rule_index04	「爆牌」
+dict109_rule_index05	「加倍下注」
+dict109_rule_index06	最後要看籌碼
+dict109_rule00	這是和荷官之間的撲克牌比試。\x0d\n在指定的回合數內，贏得最多籌碼的人獲勝。
+dict109_rule01	讓卡牌的合計點數比荷官更接近21點，\x0d\n獲得兩倍賭上的籌碼吧。
+dict109_rule02	一開始會發2張卡牌。\x0d\n請決定要繼續追加卡牌，\x0d\n還是以現在的手牌分勝負吧。
+dict109_rule03	想追加卡牌時就「要牌」，\x0d\n想以現在的手牌分勝負的話就「停牌」。
+dict109_rule04	如果卡牌的點數超過21點就會「爆牌」，\x0d\n賭上的籌碼會被沒收。
+dict109_rule05	追加要下注的籌碼，\x0d\n靠下一張牌分勝負的豪邁選項。
+dict109_rule06	最後會依籌碼的多寡來決定玩家和對手的排名。\x0d\n建議用「獲得的籌碼是否能贏過對手」為基準，\x0d\n來決定要下注多少籌碼吧。
+dict109_card_index00	花牌①
+dict109_card_index01	花牌②
+dict109_card_index02	「10‧J‧Q‧K」
+dict109_card_index03	令人高興的A
+dict109_card_index04	二十一點
+dict109_card00	「J‧Q‧K」能作為「10」點計算。
+dict109_card01	只要湊齊2張「J‧Q‧K」就有「20」點！\x0d\n光是這樣就很接近21點了！
+dict109_card02	有許多可以「當成10點計算的卡牌」喔。
+dict109_card03	A是能同時作為「1」跟「11」點計算的便利卡片。
+dict109_card04	指的是用「A」和「10點的卡牌」組成「21」點的牌型。\x0d\n若是用這牌型獲勝，就能贏得2.5倍的籌碼。
+dict109_tips_index00	當手牌點數低於11點時
+dict109_tips_index01	荷官必須
+dict109_tips_index02	當處於劣勢時……
+dict109_tips00	下一張卡牌的點數合計絕不會超過21點，\x0d\n所以不論要牌或加倍下注都OK！
+dict109_tips01	在合計點數超過17點之前不斷抽牌。
+dict109_tips02	就賭上比剛才更多的籌碼，來分勝負吧。
+dict109_doya_index00	二十一點
+dict109_doya_index01	荷官必須
+dict109_doya00	全世界人都在玩，\x0d\n一種具代表性的撲克遊戲。
+dict109_doya01	在合計分數超過「17點」前不斷「要牌」，\x0d\n超過以後便直接「停牌」。
+dict110.msbt
+menu_trivia_gam110_0	排列從「7」開始持續的數字吧
+dict110_rule_index00	基本遊玩方式
+dict110_rule_index01	首先
+dict110_rule_index02	當輪到玩家時
+dict110_rule_index03	敗北
+dict110_rule_index04	最後
+dict110_rule00	從數字「7」開始，\x0d\n打出與其前後連接的數字。
+dict110_rule01	將「7」那張牌列出來。
+dict110_rule02	若手牌的數字與場上的牌相連接，\x0d\n且花色也與其相同，就將那些牌打出去吧。
+dict110_rule03	在沒有牌可以出的情況下則敗北。\x0d\n（可以藉由變更設定切換成跳過）
+dict110_rule04	將手上所有的牌都出完後就「收尾」了，\x0d\n依照出完卡片的順序決定排名。
+dict110_cho_index00	過
+dict110_cho_index01	A與K
+dict110_cho00	不論手上是否有能打出的卡片，\x0d\n都能夠跳過事先指定的次數。
+dict110_cho01	在「K」出現時，即使自己沒有「2」，\x0d\n也可以打出「A」作為「K」的連接牌。反過來（A→K）也可以。\x0d\n（可以在設定裡進行變更）
+dict110_tips_index00	出牌時
+dict110_tips_index01	運用策略
+dict110_tips_index02	按下\ue008
+dict110_tips00	先將手牌中\x0d\n相同花色較多的牌打出去吧。
+dict110_tips01	在有牌的時候故意不出牌，\x0d\n也是一種技巧喔。
+dict110_tips02	可將手牌依「花色 / 數字」\x0d\n的順序進行排列喔。
+dict110_doya_index00	起源地
+dict110_doya_index01	便利的遊戲
+dict110_doya00	據說這個遊戲是在日本誕生的……
+dict110_doya01	有時候會為了確認牌組\x0d\n是否有缺牌而遊玩喔。
+dict112.msbt
+menu_trivia_gam112_0	組合數字與花色，打發時間的代名詞
+dict112_rule_index00	基本遊玩方式
+dict112_rule_index01	首先
+dict112_rule_index02	紅色與黑色的牌要交替堆疊
+dict112_rule_index03	要是無法再移動牌了
+dict112_rule_index04	要是A出現了
+dict112_rule00	一邊替換打散的牌，\x0d\n一邊將相同花色的牌按順序堆疊吧。
+dict112_rule01	將翻開的牌以數字\x0d\n由大到小的順序堆疊。
+dict112_rule02	不可以連續堆疊相同顏色的牌。
+dict112_rule03	你可以從這裡翻牌，尋找能夠移動的牌。\x0d\n沒牌可用時隨時都可以翻喔！
+dict112_rule04	以數字由小到大的順序將牌堆疊在終點上，\x0d\n讓四種花色的牌全部堆疊到終點後過關！
+dict112_point_index00	若檯面清空了
+dict112_point_index01	一起移動
+dict112_point_index02	只不過……
+dict112_point00	在檯面清空的那一列上，\x0d\n可以擺上「K」。
+dict112_point01	可以一口氣移動連接在一起的牌。
+dict112_point02	依照卡牌的配置也可能出現\x0d\n一開始就無法過關的狀況。
+dict112_tips_index00	將牌翻到正面
+dict112_tips_index01	從終點拿回來
+dict112_tips00	訣竅是先移動覆蓋牌較多的那一列牌組，\x0d\n並將覆蓋的牌翻到正面喔。
+dict112_tips01	也可以從終點將牌取回牌組連接。
+dict112_doya_index00	接龍（Klondike）
+dict112_doya_index01	單人遊戲（Solitaire）
+dict112_doya_index02	河川的名字？
+dict112_doya00	是一種用撲克牌\x0d\n來玩的『單人遊戲』。
+dict112_doya01	Solitaire在法文中的意思為「寂寞」。
+dict112_doya02	據說在加拿大與美國的國境，\x0d\n有一條河川名叫「Klondike」……
+dict113.msbt
+menu_trivia_gam113_0	以湊齊花色和數字來進行的終極版單人遊戲
+dict113_rule_index00	基本遊玩方式
+dict113_rule_index01	首先
+dict113_rule_index02	牌組
+dict113_rule_index03	如果動不了牌了
+dict113_rule_index04	最後
+dict113_rule00	透過移動打亂順序的卡牌，\x0d\n依照由大到小的數字順序排列出牌組吧。
+dict113_rule01	交互擺放被翻開的卡牌，\x0d\n讓牌依照由大到小的數字順序排列吧。
+dict113_rule02	湊齊相同花色的牌組吧。\x0d\n要注意，就算用不同的花色構成牌組，也無法移除卡牌！
+dict113_rule03	從這裡翻開卡牌，找出可以放的牌吧。
+dict113_rule04	當檯面上的牌全數消失即可過關。
+dict113_point_index00	若檯面上已無牌時
+dict113_point_index01	一起移動
+dict113_point00	當檯面上的某一列無牌時，\x0d\n可以在該空位任意放置一張牌。
+dict113_point01	用相同花色的牌組成的牌組\x0d\n可以一起移動位置。
+dict113_cho_index00	初級
+dict113_cho_index01	中級
+dict113_cho_index02	高級
+dict113_cho00	只使用\ue01b花色，所以沒有排列上的限制。
+dict113_cho01	因為混合了\ue01b和\ue01d2種花色，所以要小心沒牌可出喔。
+dict113_cho02	使用了\ue01b・\ue01d・\ue01c・\ue01a 所有花色的高難易度等級。
+dict113_tips_index00	翻開被覆蓋的卡牌
+dict113_tips_index01	當從牌堆分配卡牌時
+dict113_tips00	翻開卡牌是本遊戲的訣竅，\x0d\n所以要先移動覆蓋牌數量較多的那一列。
+dict113_tips01	由於會讓好不容易連結的數字中斷，\x0d\n因此要謹慎地分配喔！
+dict113_doya_index00	連環新接龍①
+dict113_doya_index01	連環新接龍②
+dict113_doya_index02	連環新接龍③
+dict113_doya00	用撲克牌來遊玩的一種「接龍」。
+dict113_doya01	連環新接龍的英文spider\x0d\n是「蜘蛛」的意思。
+dict113_doya02	由於蜘蛛有八隻腳，因此不是昆蟲，\x0d\n而是節肢動物。
+gam000_graph.msbt
+gam001.msbt
+gam001_00	發球
+gam001_01	本局結束
+gam001_03	局點
+gam001_03_mess	這是贏下這局的好機會
+gam001_04	破發點
+gam001_04_mess	這是贏下這局的好機會
+gam001_05	賽點
+gam001_05_mess	再得１分就獲勝了！
+gam001_07	[0]局比賽
+gam001_08	平分
+gam001_08_mess	再得２分即可獲勝
+gam001_100	[0]
+gam001_101	[0]
+gam001_102	G
+gam001_button_guide03	移動
+gam001_button_guide01	右揮
+gam001_button_guide02	左揮
+gam001_result_telop00	Result
+gam001_result_telop01	[0]
+gam001_result_telop02	GAME
+gam001_telop_check_v0	15-0
+gam001_telop_check_v1	30-0
+gam001_telop_check_v2	40-0
+gam001_telop_check_v3	15-15
+gam001_telop_check_v4	15-30
+gam001_telop_check_v5	15-40
+gam001_telop_check_v6	30-15
+gam001_telop_check_v7	30-30
+gam001_telop_check_v8	30-40
+gam001_telop_check_v9	40-15
+gam001_telop_check_v10	40-30
+gam001_telop_check_v11	40-40
+gam001_telop_check_v12	0-15
+gam001_telop_check_v13	0-30
+gam001_telop_check_v14	0-40
+gam002.msbt
+gam002_01	開球
+gam002_02	得分！
+gam002_06	補時
+gam002_08	中場休息
+gam002_10	移動
+gam002_11	踢球
+gam002_12	踢球
+gam003.msbt
+gam003_telop00	一桿進洞
+gam003_telop01	信天翁
+gam003_telop02	老鷹
+gam003_telop03	小鳥
+gam003_telop04	標準桿
+gam003_telop05	柏忌
+gam003_telop06	雙柏忌
+gam003_telop07	三柏忌
+gam003_telop08	棄權
+gam003_telop09	出界
+gam003_telop15	落水
+gam003_telop16	+[0]
+gam003_telop17	第[0]桿
+gam003_telop18	計分-[0]
+gam003_telop19	計分\xb10
+gam003_telop20	計分+[0]
+gam003_telop21	罰桿+1
+gam003_score02	-[0]
+gam003_score07	0
+gam003_score08	+[0]
+gam003_score03	[0]
+gam003_score04	合計
+gam003_score05	-[0]
+gam003_score09	0
+gam003_score10	+[0]
+gam003_score06	洞
+gam003_score11	{c[ffe83b]}1st{c[ffffff]}
+gam003_score12	2nd
+gam003_info00	洞 [0]　標準桿[1]
+gam003_shot_info08	距離球洞[0]碼
+gam003_shot_info09	距離球洞[0]公尺
+gam003_club00	木桿
+gam003_club01	鐵桿
+gam003_club02	推桿
+gam003_club09	[0]碼
+gam003_club10	[0]公尺
+gam003_guide00	[0] 更換球桿　/
+gam003_guide01	[0] 方向
+gam003_guide02	[0] 選擇方向
+gam003_guide03	[0] 取消
+gam003_guide04	[0] 揮桿
+gam003_pop00	[0]碼
+gam003_pop01	[0]公尺
+gam003_wind00	[0]公尺/秒
+gam004.msbt
+gam004_telop00	進洞
+gam004_telop01	犯規
+gam004_telop08	從數字較小的球開始打吧
+gam004_telop09	將\ue052打進洞吧
+gam004_telop10	將\ue04a～\ue050打進洞吧
+gam004_telop11	將\ue052～\ue058打進洞吧
+gam004_telop12	選擇一個球洞吧
+gam004_telop13	開球
+gam004_pop00	OK
+gam004_ball_number	[0]
+gam004_ball_stats_00	\ue04a\ue04b\ue04c\ue04d\ue04e\ue04f\ue050
+gam004_ball_stats_01	\ue052\ue053\ue054\ue055\ue056\ue057\ue058
+gam004_guide02	[0] 方向
+gam004_guide03	[0] 選擇方向
+gam004_guide04	[0] 取消
+gam004_guide05	[0] 拉動搖桿後放開就能出桿擊球
+gam005.msbt
+gam005_03	全倒！
+gam005_04	補中
+gam005_05	全倒！\x0d\n第二次
+gam005_06	全倒！\x0d\n火雞
+gam005_07	全倒！\x0d\n第四次
+gam005_08	全倒！\x0d\n第五次
+gam005_09	全倒！\x0d\n第六次
+gam005_10	全倒！\x0d\n第七次
+gam005_11	全倒！\x0d\n第八次
+gam005_12	全倒！\x0d\n第九次
+gam005_13	全倒！\x0d\n第十次
+gam005_14	全倒！\x0d\n第十一次
+gam005_15	全倒！\x0d\n完全比賽
+gam005_17	[0]瓶
+gam005_100	[0]
+gam005_105	[0]
+gam005_106	[0]
+gam005_106_w	[0]
+gam005_107	G
+gam005_107_w	G
+gam005_108	-
+gam005_109	[0]
+gam005_110	[0]
+gam005_132	請觸碰並滑動球
+gam005_151	往後拉…
+gam005_152	按著\ue009扔出去
+gam005_153	按著\ue008扔出去
+gam005_160	移動
+gam005_161	方向
+gam005_170	\ue009持球
+gam005_171	\ue008持球
+gam005_180	不要放開\ue009鍵！
+gam005_181	不要放開\ue008鍵！
+gam006.msbt
+gam006_00	抵達終點\x0d\n
+gam006_01	比賽結束
+gam006_06	[0][1]:[2][3].[4]
+gam006_07	[0][1]:[2][3].[4]
+gam006_08	第１場
+gam006_09	第２場
+gam006_10	最終場
+gam006_11	第[0]賽道 贏家！
+gam006_guide01	[0] 加速
+gam006_result00	第[0]場
+gam006_result01	最終場
+gam006_result02	總計
+gam006_result03	[0][1]:[2][3].[4]
+gam006_result04	[0][1]:[2][3].[4]
+gam007.msbt
+gam007_04	過
+gam008.msbt
+gam008_04	將軍
+gam008_05	將死
+gam008_06	升變
+gam008_07	逼和
+gam008_08	易位
+gam008_09	吃過路兵
+gam008_10	50回合制
+gam008_11	重複三次行動
+gam008_12	死局
+gam008_14	王后
+gam008_15	城堡
+gam008_16	騎士
+gam008_17	主教
+gam008_26	士兵
+gam008_27	國王
+gam008_pawn_notes00	只有第一次移動時能前進兩格
+gam008_20	放棄
+gam008_30	下一回合就能吃掉國王
+gam008_31	這是能讓國王與城堡同時移動的特殊走法
+gam008_32	這是士兵的特殊走法，能夠吃掉移動兩格的敵人
+gam008_33	到達底線的士兵，能夠變成別的棋子
+gam008_34	士兵只有在吃子時，才能往斜前方前進
+gam008_35	重複了三次同樣的局面
+gam008_36	沒有任何棋子被吃掉的狀態持續了五十回合
+gam008_37	將死所需要的棋子不足
+gam008_38	已經沒有能夠移動的棋子了
+gam008_39	由於玩家放棄對局，遊戲結束
+gam008_warning_01	只能移動可防止將軍的棋子
+gam008_warning_02	只能將棋子擺在可防止將軍的位置上
+gam008_warning_03	不能將棋子擺在會被將軍的位置上
+gam008_warning_04	此枚棋子不能擺在此位置
+gam008_replay00	檢討
+gam008_replay01	第[0]步
+gam008_replay02	[0] 退出
+gam008_replay03	[0]
+gam008_replay04	[0]
+gam008_replay05	[0]  輔助ON
+gam008_replay06	[0]  輔助OFF
+gam008_promotion00	升變
+gam008_promotion01	王后
+gam008_promotion02	城堡
+gam008_promotion03	騎士
+gam008_promotion04	主教
+gam008_step1_00	西洋棋是一種將對手的{c[f40428]}國王{c[020202]}逼入絕境的遊戲
+gam008_step1_01	首先要學的是{c[f40428]}士兵{c[020202]}的走法，這是西洋棋的基本喔！
+gam008_step1_02	{c[f40428]}士兵{c[020202]}在第一次移動時能夠前進兩格，之後一次只能前進一格喔
+gam008_step1_03	移動你的{c[f40428]}士兵{c[020202]}，吃掉對手的兩枚棋子吧！
+gam008_step1_04	要注意，進入{c[f40428]}紅色格子{c[020202]}的棋子會被對手吃掉
+gam008_step1_05	你可以吃掉進入{c[1d00ff]}藍色格子{c[020202]}的對手棋子！
+gam008_step1_06	{c[f40428]}士兵{c[020202]}是一種只能吃掉斜前方棋子的特殊棋子喔
+gam008_step1_07	可以吃掉斜前方的棋子喔
+gam008_step1_08	{c[f40428]}士兵{c[020202]}不能往後走！ 移動前先思考一下吧
+gam008_step1_09	太棒了！用{c[f40428]}士兵{c[020202]}再吃掉對手的一枚棋子吧
+gam008_step1_10	吃掉兩枚棋子了！步驟一過關！
+gam008_step1_11	移動{c[f40428]}士兵{c[020202]}，為後方強力的棋子開道吧
+gam008_step1_12	太厲害了！是將死呢！
+gam008_step1_13	這是最基本的走法！要記得喔！
+gam008_step1_14	雖然輸掉了，但你也學會士兵的走法了！
+gam008_step1_15	別氣餒，下一個步驟也要加油喔！
+gam008_step1_16	平手也很厲害呢！你已經很努力了！
+gam008_step2_00	接下來是關於{c[f40428]}騎士{c[020202]}與{c[f40428]}主教{c[020202]}的介紹！
+gam008_step2_01	{c[f40428]}騎士{c[020202]}是一種能跳過其他棋子的棋子喔！
+gam008_step2_02	{c[f40428]}主教{c[020202]}是一種能往斜向自由移動的棋子喔！
+gam008_step2_03	為了移動主教，先讓{c[f40428]}士兵{c[020202]}前進開出一條路吧
+gam008_step2_04	能夠移動{c[f40428]}主教{c[020202]}了！{c[f40428]}主教{c[020202]}能夠往斜向自由移動喔！
+gam008_step2_05	太棒了！使用{c[f40428]}騎士{c[020202]}或{c[f40428]}主教{c[020202]}再吃掉對手的一枚棋子吧！
+gam008_step2_06	成功吃掉兩枚棋子了！步驟二過關，恭喜你！
+gam008_step2_07	{c[f40428]}主教{c[020202]}與{c[f40428]}騎士{c[020202]}是在序盤表現優異的棋子，讓他們上戰場吧！
+gam008_step2_08	太厲害了！是將死呢！
+gam008_step2_09	雖然輸掉了，但你也學會騎士和主教的走法了！
+gam008_step2_10	別氣餒，下一個步驟也要加油喔！
+gam008_step2_11	平手也很厲害！你已經很努力了！
+gam008_step2_12	用{c[f40428]}騎士{c[020202]}或{c[f40428]}主教{c[020202]}吃掉兩枚對手的棋子吧！
+gam008_step3_00	首先是關於{c[f40428]}城堡{c[020202]}與{c[f40428]}王后{c[020202]}的介紹！
+gam008_step3_01	{c[f40428]}城堡{c[020202]}能夠往縱向與橫向自由移動喔！
+gam008_step3_02	{c[f40428]}王后{c[020202]}是最強的棋子！縱向、橫向與斜向都能自由移動！
+gam008_step3_04	首先移動{c[f40428]}士兵{c[020202]}，開出一條路讓城堡與王后通行吧！
+gam008_step3_05	{c[f40428]}國王{c[020202]}是最重要的棋子
+gam008_step3_06	如果遭到將軍，就得想辦法讓{c[f40428]}國王{c[020202]}不被吃掉才行喔！
+gam008_step3_07	可以移動{c[f40428]}城堡{c[020202]}囉！
+gam008_step3_08	移動成功！接下來移動{c[f40428]}王后{c[020202]}吧
+gam008_step3_09	可以移動{c[f40428]}王后{c[020202]}囉！
+gam008_step3_10	移動成功！接下來移動{c[f40428]}城堡{c[020202]}吧
+gam008_step3_11	成功移動兩種棋子了！
+gam008_step3_12	那最後就以{c[f40428]}將軍{c[020202]}為目標吧！
+gam008_step3_13	所謂的{c[f40428]}將軍{c[020202]}，就是指能在下回合將對手的國王吃掉的狀態喔
+gam008_step3_14	簡單來說，只要讓對手的國王進入{c[1d00ff]}藍色格子{c[020202]}就可以了
+gam008_step3_15	恭喜你！你已經踏出成為西洋棋棋手的第一步了！
+gam008_step3_16	西洋棋的關鍵，就在於如何封鎖對手國王的逃跑路線喔
+gam008_step3_17	正式對戰一場並到將死對手為止吧！
+gam008_step3_18	雖然輸掉了，但你也學會城堡和王后的走法了！
+gam008_step3_19	是平手！你已經很努力了！
+gam008_step3_20	是將死！？真厲害～！
+gam009.msbt
+gam009_04	將軍
+gam009_05	千日手
+gam009_06	是
+gam009_07	否
+gam009_09	欠行
+gam009_13	放棄
+gam009_23	要進行升變嗎？
+gam009_guide_mes00	下一步就能吃掉王將
+gam009_guide_mes01	棋子進入敵陣後可以選擇變強
+gam009_guide_mes02	同一局面重複四次則對局無效
+gam009_guide_mes03	由於出現連續將軍的千日手，判定叫將的一方輸棋
+gam009_guide_mes04	放棄對局並結束遊戲
+gam009_warning_01	對手祭出將軍，請防禦
+gam009_warning_02	對手祭出將軍，請防禦
+gam009_warning_03	你要被將軍了
+gam009_warning_04	此枚棋子不能擺在此位置
+gam009_warning_05	同一直列上不能同時擺放兩枚步兵
+gam009_warning_06	不能利用打入俘虜的步兵來讓對手的王將欠行
+gam009_warning_07	步兵不能打入敵陣底線
+gam009_warning_08	香車不能打入敵陣底線
+gam009_warning_09	桂馬不能打入敵陣次底線
+gam009_piece_name00	步兵
+gam009_piece_name01	香車
+gam009_piece_name02	桂馬
+gam009_piece_name03	銀將
+gam009_piece_name04	金將
+gam009_piece_name05	角行
+gam009_piece_name06	飛車
+gam009_piece_name07	王將
+gam009_piece_name08	成金
+gam009_piece_name09	成香
+gam009_piece_name10	成桂
+gam009_piece_name11	成銀
+gam009_piece_name12	龍馬
+gam009_piece_name13	龍王
+gam009_replay00	檢討
+gam009_replay01	第[0]步
+gam009_replay02	[0]  退出
+gam009_replay03	[0]
+gam009_replay04	[0]
+gam009_replay05	[0]  輔助ON
+gam009_replay06	[0]  輔助OFF
+gam009_mochigoma00	[0]
+gam009_komadai00	[0]  棋台
+gam009_komadai01	[0]  放回棋盤
+gam009_step1_00	將棋是一種將對手的{c[f40428]}王將{c[020202]}逼入絕境的遊戲
+gam009_step1_01	在保護自己的王將同時，將對手的王將逼入絕境吧！
+gam009_step1_02	嘗試吃掉兩枚對手的棋子吧！
+gam009_step1_03	{c[f40428]}步兵{c[020202]}只能向前走一格喔
+gam009_step1_04	注意，棋子若是下在{c[f40428]}紅色格子{c[020202]}上，下一手就會被吃掉
+gam009_step1_05	在{c[f40428]}紅色{c[020202]}與{c[1d00ff]}藍色{c[020202]}重疊的格子，雙方都可以吃掉棋子喔
+gam009_step1_06	可以吃掉對手擺在{c[1d00ff]}藍色格子{c[020202]}上的棋子！
+gam009_step1_07	太棒了！再吃掉一枚對手的棋子吧
+gam009_step1_08	吃掉兩枚棋子了！恭喜你！
+gam009_step1_09	{c[f40428]}步兵{c[020202]}是將棋中的基本單位
+gam009_step1_10	有不少下法能有效地改變對局的走向喔！
+gam009_step1_11	太厲害了！你把王將逼入絕境了
+gam009_step1_12	憑著這股氣勢前往下一個步驟吧！
+gam009_step1_13	你學會步兵的走法了！
+gam009_step1_14	下一個步驟也要加油喔！
+gam009_step2_00	接下來，再嘗試吃掉五枚對手的棋子吧！
+gam009_step2_01	盡量嘗試移動各種不同的棋子吧！
+gam009_step2_02	太棒了！再吃掉[0]枚對手的棋子吧
+gam009_step2_03	步兵的走法雖然簡單，卻是用途最廣泛的棋子！
+gam009_step2_04	飛車是進攻的核心，是一枚很強的棋子
+gam009_step2_05	斜向移動就交給角行吧！角行是能遠距離移動的好用棋子
+gam009_step2_06	香車只能往前不能回頭。留到關鍵時刻再使用吧！
+gam009_step2_07	桂馬的走法特殊，有可能會被輕易吃掉
+gam009_step2_08	銀將既可攻又可守，是一枚平衡性很棒的棋子！
+gam009_step2_09	金將是一枚防禦力大於攻擊力的棋子
+gam009_step2_10	保護自己的王將，或是反過來攻擊對手的金將也是致勝之道
+gam009_step2_11	{c[f40428]}王將{c[020202]}是最重要的棋子，如果被對手逼入絕境就會輸掉棋局……
+gam009_step2_12	吃掉五枚棋子了！步驟二過關。
+gam009_step2_13	掌握不同棋子的特性，試著靈活地運用棋子吧
+gam009_step2_14	恭喜！你把王將逼入絕境了
+gam009_step2_15	憑著這股氣勢前往下一個步驟吧！
+gam009_step2_16	你學會棋子的走法了！
+gam009_step2_17	下一個步驟也要加油喔！
+gam009_step3_00	其實在將棋中，你可以將吃掉的棋子當成同伴使用喔！
+gam009_step3_01	這就是它和西洋棋的差異！
+gam009_step3_02	可以將吃掉的棋子放到棋台上喔
+gam009_step3_03	可以將這些棋子擺在王將旁當護衛，
+gam009_step3_04	也可以出奇不意地打入敵陣發動進攻喔
+gam009_step3_05	那就來試試看吧！
+gam009_step3_06	吃掉五枚對手的棋子吧！
+gam009_step3_07	再吃掉[0]枚對手的棋子吧！
+gam009_step3_08	哦，棋子翻過來了
+gam009_step3_09	這叫作{c[f40428]}升變{c[020202]}，是一種藉由進入敵陣
+gam009_step3_10	使棋子變強的手段
+gam009_step3_11	那麼，繼續吃掉對手的棋子吧！
+gam009_step3_12	吃掉五枚棋子了！步驟三過關！
+gam009_step3_13	在將棋中，像這樣利用吃掉的棋子是很重要的戰術！
+gam009_step3_14	記下來吧！
+gam009_step3_15	那麼就前往最後一個步驟吧！
+gam009_step3_16	恭喜！你把王將逼入絕境了
+gam009_step3_17	憑著這股氣勢，前往最後一個步驟吧！
+gam009_step3_18	你學會運用吃掉的棋子了！
+gam009_step3_19	最後一個步驟也要加油喔！
+gam009_step4_00	實際運用目前學到的知識吧
+gam009_step4_02	使用所有的棋子，以{c[f40428]}將軍{c[020202]}為目標吧！
+gam009_step4_03	所謂的{c[f40428]}將軍{c[020202]}，就是指能在下回合將對手的王將吃掉的狀態
+gam009_step4_04	簡單來說，只要讓對手的王將進入{c[1d00ff]}藍色格子{c[020202]}就可以了
+gam009_step4_05	恭喜！這樣你也成為一名棋士了！
+gam009_step4_06	正式對局時就憑著這股氣勢，以讓對手欠行為目標吧！
+gam009_step4_07	你把王將逼入絕境了！
+gam009_step4_08	憑著這股氣勢，正式對局時也要加油喔！
+gam009_step4_09	你已經很努力了！
+gam009_step4_10	接下來就努力以將軍對手為目標吧！
+gam010.msbt
+gam010_01	比賽開始！
+gam010_02	好球！
+gam010_02_b	兩好球！
+gam010_04	界外球！
+gam010_05	壞球！
+gam010_05_b	兩壞球！
+gam010_05_c	三壞球！
+gam010_06	四壞球！
+gam010_07	出局！
+gam010_07_b	兩出局！
+gam010_08	安打！
+gam010_09	二壘安打！
+gam010_10	三壘安打！
+gam010_11	全壘打！
+gam010_12	攻守交換！
+gam010_14	第[0]局上
+gam010_15	第[0]局下
+gam010_16	好球！出局！
+gam010_20	移動
+gam010_21	揮棒
+gam010_22	投球
+gam010_23	曲球
+gam010_23_b	曲球
+gam010_24	內飄球
+gam010_24_b	內飄球
+gam010_25	變速球
+gam010_30	R
+gam010_31	[0]
+gam010_32	[0]
+gam010_33	[0]
+gam010_35	X
+gam011.msbt
+gam011_06	還剩[0]秒
+gam011_02	高飛彈
+gam011_03	發射
+gam011_stick00	前進
+gam011_stick01	後退
+gam011_stick02	向左旋轉
+gam011_stick03	向右旋轉
+gam012.msbt
+gam012_fishname_00	[0]
+gam012_fishname_01	藍鰓太陽魚
+gam012_fishname_02	黑鱸魚
+gam012_fishname_03	錦鯉
+gam012_fishname_04	金色錦鯉
+gam012_fishname_05	鰻魚
+gam012_fishname_06	鯰魚
+gam012_fishname_07	櫻花鉤吻鮭
+gam012_fishname_08	鮭魚
+gam012_fishname_09	蝴蝶魚
+gam012_fishname_10	揚旛蝴蝶魚
+gam012_fishname_11	鯊魚
+gam012_fishname_12	鰩魚
+gam012_fishname_13	金槍魚
+gam012_fishname_14	巨大鯊魚
+gam012_fishname_15	巨大金槍魚
+gam012_fishname_16	鯛魚
+gam012_weight_00	[0]
+gam012_weight_01	克
+gam012_weight_04	[0]
+gam012_weight_05	克
+gam012_weight_result_00	[0]
+gam012_weight_result_unit_00	克
+gam012_result_title04	釣到的魚的大小 TOP3
+gam012_rank_00	{c[ffe83b]}1st{c[ffffff]}
+gam012_rank_01	2nd
+gam012_rank_02	3rd
+gam012_rank_03	4th
+gam012_result_waight00	[0]克
+gam012_result_count00	[0]
+gam012_result_count01	條
+gam012_touch_end00	\ue008 / \ue009 退出
+gam012_itemname_00	長靴
+gam012_posmove_00	\ue005移動浮標　\ue014 移動釣竿
+gam012_posmove_01	\ue005 移動浮標　\ue019\ue018移動釣竿
+gam012_cast_hand_00	\ue00e 拋出 / 收回浮標
+gam012_retire_00	確定要結束釣魚嗎？
+gam012_retire_01	結束
+gam012_retire_02	取消
+gam012_fishstart_00	開始釣魚！
+gam012_castinfo_00	1{c[fff475]}. 移動浮標……{c[ffffff]}
+gam012_castinfo_02	1. 移動浮標……
+gam012_castinfo_01	2{c[fff475]}. 輕輕地揮動{c[ffffff]}
+gam012_castinfo_03	2. 輕輕地揮動
+gam012_timeinfo_last30	剩下30秒
+gam012_result_total00	合計
+gam012_endwait_00	其他玩家正在中斷遊戲中……
+gam012_castinfo_05	拋出 / 收回浮標
+gam013.msbt
+gam013_cali_telop006	將Joy-Con對準螢幕\x0d\n並按下\ue00a
+gam013_cali_telop008	將Joy-Con對準螢幕\x0d\n並按下\ue00b
+gam013_cali_telop002	按下\ue00a來射靶吧！
+gam013_cali_telop003	按下\ue00b來射靶吧！
+gam013_cali_telop004	按下\ue00a來射靶吧！
+gam013_cali_telop005	按下\ue00b來射靶吧！
+gam013_roundtelop_000	回合 [0]
+gam013_result_012	合計
+gam013_result_016	階級
+gam013_result_001	{c[ffe83b]}1st{c[ffffff]}
+gam013_result_002	2nd
+gam013_result_006	[0]
+gam013_result_006_red	{c[f40428]}[0]{c[ffffff]}
+gam013_result_015	分
+gam013_result_010	[0]
+gam013_result_011	[0]
+gam013_result_010_red	{c[f40428]}[0]{c[ffffff]}
+gam013_result_011_red	{c[f40428]}[0]{c[ffffff]}
+gam013_result_013	回合[0]
+gam013_ok_000	OK
+gam013_reset_000	\ue002 重置陀螺儀
+gam013_retry_000	\ue002 重新校正
+gam013_resetinfo_000	無法順利擊中標靶時，請將Joy-Con對準螢幕正中央並按下\ue002
+gam013_parfect_000	{c[ffe83b]}完美！{c[020202]}
+gam013_calibration_wait00	對戰對手正在進行校正當中
+gam013_calibration_zl	\ue00a
+gam013_calibration_zr	\ue00b
+gam014.msbt
+gam014_telop_ex_02	加速！
+gam014_telop_ex_08	突破[0]分！
+gam014_telop_dash_00	長按螢幕：衝刺
+gam014_telop_dash_01	\ue001 衝刺
+gam014_help_telop_02	大量收集寶石吧！
+gam014_help_telop_03	觸碰拼板！
+gam014_score_00	[0]分
+gam014_combo_00	+[0]
+gam014_combo_01	連鎖！
+gam014_resultinfo_01	最大連鎖
+gam014_resultinfo_02	[0]
+gam014_resultinfo_03	次
+gam014_resultinfo_04	分數
+gam014_resultinfo_05	[0]
+gam014_resultinfo_06	分
+gam014_resultinfo_07	階級
+gam014_resultinfo_08	刷新記錄！
+gam022.msbt
+gam022_genre_number	[0][1]
+gam022_genre_00	basic
+gam022_genre_01	jazz
+gam022_genre_02	rock
+gam022_genre_03	classic
+gam031.msbt
+gam031_05	三三
+gam031_06	四四
+gam031_07	長連
+gam031_warning01	先手被限制不得組成三三
+gam031_warning02	先手被限制不得組成四四
+gam031_warning03	先手被限制不得組成長連
+gam032.msbt
+gam032_00	請放置你的棋子
+gam032_01	移除對手的棋子
+gam032_02	將棋子移動1格
+gam032_03	連線！
+gam032_04	不能放置於有其他棋子的格子上
+gam032_05	請選擇想移除的棋子
+gam032_06	還剩[0]步
+gam032_07	將對手的棋子移除到僅剩2枚
+gam032_08	對手已無棋可走
+gam032_09	我方的棋子被移除到僅剩2枚
+gam032_10	我方無棋可走
+gam032_11	此棋子無法移動
+gam032_13	請選擇想移動的棋子
+gam032_12	無法移動對手的棋子
+gam032_14	請選擇對手的棋子
+gam032_15	無法移除已形成連線的棋子
+gam032_16	無法移動至此處。
+gam032_20	3枚棋子已連成一線
+gam032_21	可移動一步棋至任意格子
+gam032_22	隨意跳躍！
+gam032_23	還剩3枚棋子
+gam034.msbt
+gam034_telop_info00	請選擇要劃線的位置
+gam034_telop_info01	請再劃另一條線
+gam034_score_result00	[0]
+gam035.msbt
+gam035_turn00	[0]/[1] 回合
+gam036.msbt
+gam036_guide00	 擲骰子
+gam036_guide01	[0] 將骰子放入骰盅
+gam036_guide02	[0] 游標
+gam036_guide03	[0] 確定
+gam036_guide04	 保留
+gam036_guide05	\ue001放回骰子
+gam036_guide06	[0] 返回
+gam036_guide08	 搖晃骰盅
+gam036_guide09	[0] 移動
+gam036_guide10	選擇組合
+gam036_guide11	重新擲骰
+gam036_sheet00	[0]
+gam036_sheet24	[0]
+gam036_sheet01	[0]
+gam036_sheet02	\ue025一點
+gam036_sheet03	\ue026二點
+gam036_sheet04	\ue027三點
+gam036_sheet05	\ue028四點
+gam036_sheet06	\ue029五點
+gam036_sheet07	\ue02a六點
+gam036_sheet08	全選
+gam036_sheet09	四骰同花
+gam036_sheet10	葫蘆
+gam036_sheet11	小順
+gam036_sheet12	大順
+gam036_sheet13	快艇
+gam036_sheet14	總積分
+gam036_sheet15	回合
+gam036_sheet16	[0]/[1]
+gam036_sheet17	1st
+gam036_sheet18	2nd
+gam036_sheet19	獎勵+35
+gam036_sheet20	+35
+gam036_sheet28	+0
+gam036_sheet21	[0]
+gam036_sheet29	{c[ffe83b]}[0]{c[ffffff]}
+gam036_sheet22	/63
+gam036_sheet23	Result
+gam036_sheet25	組合名稱
+gam036_sheet26	小計
+gam036_sheet27	\ue025～\ue02a點合計超過63即可獲得獎勵
+gam036_mess05	\ue024還有[0]次
+gam036_telop00	+35
+gam036_telop08	四骰同花
+gam036_telop09	葫蘆
+gam036_telop10	小順
+gam036_telop11	大順
+gam036_telop12	快艇！
+gam036_telop13	獎勵！
+gam036_hand_info00	一點合計
+gam036_hand_info01	二點合計
+gam036_hand_info02	三點合計
+gam036_hand_info03	四點合計
+gam036_hand_info04	五點合計
+gam036_hand_info05	六點合計
+gam036_hand_info06	全部點數合計
+gam036_hand_info07	四個同點
+gam036_hand_info08	三個同點+兩個同點
+gam036_hand_info09	四個連續點數
+gam036_hand_info10	五個連續點數
+gam036_hand_info11	五顆骰子的點數相同
+gam036_hand_info12	1～6點合計超過63時＋35分
+gam037.msbt
+gam037_openingroll00	決定順序
+gam037_openingroll01	請擲骰子
+gam037_openingroll03	回合[0]
+gam037_telop00	由於擲出相同點數\x0d\n請重新擲骰
+gam037_telop01	遊蕩
+gam037_telop02	封鎖
+gam037_telop06	拒絕
+gam037_telop08	接受
+gam037_button00	\ue002加倍
+gam037_point00	[0]
+gam037_pip_count00	[0]
+gam037_double00	對手希望加倍。\x0d\n你要接受嗎？
+gam037_double00_no	選擇戰敗
+gam037_double00_yes	接受加倍
+gam037_double01	加倍
+gam037_double02	對手正在思考是否接受加倍……
+gam037_guide_mes00	請將被攻擊的棋子放回棋盤上
+gam037_guide_mes01	由於擲出了相同數字，可以前進四次
+gam037_guide_mes02	由於所有棋子於內盤匯集完畢，可以獲勝了
+gam037_guide_mes03	請擲骰子
+gam037_guide_mes04	由於擲出相同點數，請重新擲骰
+gam037_guide_mes09	請決定要擲骰或提出加倍
+gam037_guide_mes10	由於加入了克羅福規則，無法加倍
+gam037_round00	得分
+gam037_round01	[0]
+gam037_round02	加倍
+gam037_round03	\xd7[0]
+gam037_round04	結果
+gam037_round05	[0]
+gam037_round06	獲勝
+gam037_round07	全勝
+gam037_round08	完勝
+gam037_round09	勝利
+gam037_round10	對手的棋子抵達終點。
+gam037_round11	對手連一枚棋子都沒有抵達終點。
+gam037_round12	對手的棋子還留在內盤。
+gam037_round13	對手拒絕接受加倍。
+gam037_assist00	將棋子移動到這裡吧
+gam038.msbt
+gam038_telop00	成王
+gam038_telop01	50回合制
+gam038_telop02	重複三次行動
+gam040.msbt
+gam040_telop00	過
+gam040_telop02	過關！
+gam040_mes00	請擲骰子
+gam040_mes01	請移動棋子
+gam040_mes02	可以再擲一次骰子
+gam040_button00	[0]  擲骰子
+gam040_button01	[0]  跳過
+gam040_button02	[0]  跳到最後
+gam040_result00	1st
+gam040_result01	2nd
+gam040_result02	3rd
+gam040_result03	4th
+gam041.msbt
+gam041_telop00	過關！
+gam041_telop01	過
+gam041_telop02	過關！
+gam042.msbt
+gam042_ui_center_1	東一局
+gam042_ui_center_2	東二局
+gam042_ui_center_3	東三局
+gam042_ui_center_4	東四局
+gam042_ui_center_5	南一局
+gam042_ui_center_6	南二局
+gam042_ui_center_7	南三局
+gam042_ui_center_8	南四局
+gam042_ui_center_wind_1	東
+gam042_ui_center_wind_2	南
+gam042_ui_center_wind_3	西
+gam042_ui_center_wind_4	北
+gam042_ui_score_home_1	東家
+gam042_ui_score_home_2	南家
+gam042_ui_score_home_3	西家
+gam042_ui_score_home_4	北家
+gam042_ui_score_info_1	東一局
+gam042_ui_score_info_2	東二局
+gam042_ui_score_info_3	東三局
+gam042_ui_score_info_4	東四局
+gam042_ui_score_info_5	南一局
+gam042_ui_score_info_6	南二局
+gam042_ui_score_info_7	南三局
+gam042_ui_score_info_8	南四局
+gam042_ui_result_home_1	東家
+gam042_ui_result_home_2	南家
+gam042_ui_result_home_3	西家
+gam042_ui_result_home_4	北家
+gam042_ui_score_total_1	[0]{s[075]}符{s[100]}
+gam042_ui_score_total_2	[0]{s[075]}翻{s[100]}
+gam042_ui_score_total_3	[0]{s[075]}分{s[100]}
+gam042_ui_score_1	[0]分
+gam042_ui_score_fan	[0]{s[090]}翻{s[100]}
+gam042_ui_result_score	[0]{s[075]}分{s[100]}
+gam042_ui_result_1	[0]
+gam042_ui_result_rank_1	{s[075]}第{s[100]}1
+gam042_ui_result_rank_2	{s[075]}第{s[100]}2
+gam042_ui_result_rank_3	{s[075]}第{s[100]}3
+gam042_ui_result_rank_4	{s[075]}第{s[100]}4
+gam042_ui_wild_00	[n0]
+gam042_ui_wild_01	[0]
+gam042_ui_wild_02	[0]
+gam042_ui_wild_03	[0]
+gam042_ui_wild_dg_score	[0]
+gam042_ui_wild_result_num	[0]
+gam042_ui_result_oya_1	東
+gam042_ui_result_oya_2	南
+gam042_ui_main_guide	目前聽的牌
+gam042_ui_main_guide_1	振聽
+gam042_ui_main_tenpai_1	[0]向聽
+gam042_ui_main_tenpai_2	聽牌
+gam042_button_reach	立直
+gam042_button_chow	吃
+gam042_button_pong	碰
+gam042_button_kong	槓
+gam042_button_tsumo	自摸
+gam042_button_ron	和
+gam042_button_nine	九種九牌
+gam042_button_ok	確定
+gam042_button_cancel	\ue001取消
+gam042_button_cancel_1	取消
+gam042_button_on	\ue009叫牌確認 OFF
+gam042_button_off	\ue009叫牌確認 ON
+gam042_button_yaku_1	\ue008推薦牌型ON
+gam042_button_yaku_2	\ue008推薦牌型OFF
+gam042_button_long	\ue003 長考
+gam042_button_long_cnt	[0]/[1]
+gam042_telop_info_1	東一局
+gam042_telop_info_2	東二局
+gam042_telop_info_3	東三局
+gam042_telop_info_4	東四局
+gam042_telop_info_5	南一局
+gam042_telop_info_6	南二局
+gam042_telop_info_7	南三局
+gam042_telop_info_8	南四局
+gam042_telop_info_br_1	東一局\x0d\n[0]連莊
+gam042_telop_info_br_2	東二局\x0d\n[0]連莊
+gam042_telop_info_br_3	東三局\x0d\n[0]連莊
+gam042_telop_info_br_4	東四局\x0d\n[0]連莊
+gam042_telop_info_br_5	南一局\x0d\n[0]連莊
+gam042_telop_info_br_6	南二局\x0d\n[0]連莊
+gam042_telop_info_br_7	南三局\x0d\n[0]連莊
+gam042_telop_info_br_8	南四局\x0d\n[0]連莊
+gam042_telop_bl_reach	立直
+gam042_telop_bl_chow	吃
+gam042_telop_bl_pong	碰
+gam042_telop_bl_kong	槓
+gam042_telop_bl_tsumo	自摸
+gam042_telop_bl_ron	和
+gam042_telop_bl_reach_r	立直
+gam042_telop_bl_chow_r	吃
+gam042_telop_bl_pong_r	碰
+gam042_telop_bl_kong_r	槓
+gam042_telop_bl_tsumo_r	自摸
+gam042_telop_bl_ron_r	和
+gam042_telop_bl_reach_l	立直
+gam042_telop_bl_chow_l	吃
+gam042_telop_bl_pong_l	碰
+gam042_telop_bl_kong_l	槓
+gam042_telop_bl_tsumo_l	自摸
+gam042_telop_bl_ron_l	和
+gam042_telop_draw	荒牌
+gam042_telop_draw_nine	九種九牌
+gam042_telop_draw_nine_r	九種九牌
+gam042_telop_draw_nine_l	九種九牌
+gam042_result_draw_nine	九種九牌
+gam042_result_draw_kaze	四風連打
+gam042_result_draw_reach	四家立直
+gam042_result_draw_triple	三家和
+gam042_result_draw_kong	四開槓
+gam042_telop_draw_1	聽牌
+gam042_telop_draw_2	沒聽
+gam042_telop_draw_1_r	聽牌
+gam042_telop_draw_2_r	沒聽
+gam042_telop_draw_1_l	聽牌
+gam042_telop_draw_2_l	沒聽
+gam042_yaku_01	立直
+gam042_yaku_02	役牌
+gam042_yaku_03	斷么九
+gam042_yaku_04	平和
+gam042_yaku_05	門前自摸
+gam042_yaku_06	一發
+gam042_yaku_07	混一色
+gam042_yaku_08	一盃口
+gam042_yaku_09	對對和
+gam042_yaku_10	三色同順
+gam042_yaku_11	七對子
+gam042_yaku_12	一氣通貫
+gam042_yaku_13	混全帶么九
+gam042_yaku_14	清一色
+gam042_yaku_15	三暗刻
+gam042_yaku_16	河底撈魚
+gam042_yaku_17	純全帶么九
+gam042_yaku_18	海底撈月
+gam042_yaku_19	槓上開花
+gam042_yaku_20	雙重立直
+gam042_yaku_21	小三元
+gam042_yaku_22	混老頭
+gam042_yaku_23	三色同刻
+gam042_yaku_24	二盃口
+gam042_yaku_25	搶槓
+gam042_yaku_26	四暗刻
+gam042_yaku_27	國士無雙
+gam042_yaku_28	大三元
+gam042_yaku_29	大四喜
+gam042_yaku_30	小四喜
+gam042_yaku_31	字一色
+gam042_yaku_32	三槓子
+gam042_yaku_33	清老頭
+gam042_yaku_34	地和
+gam042_yaku_35	綠一色
+gam042_yaku_36	九蓮寶燈
+gam042_yaku_37	天和
+gam042_yaku_38	四槓子
+gam042_yaku_39	風牌
+gam042_yaku_40	連風牌
+gam042_yaku_41	累計役滿
+gam042_yaku_42	加分牌
+gam042_pdc_01	滿貫
+gam042_pdc_02	跳滿
+gam042_pdc_03	倍滿
+gam042_pdc_04	三倍滿
+gam042_pdc_05	役滿
+gam042_osusume_00	沒有可推薦的牌型
+gam042_osusume_01_1	役牌
+gam042_osusume_01_2	白、發、中任一種牌湊齊三張（或是槓牌）。
+gam042_osusume_02_1	斷么九
+gam042_osusume_02_2	整副牌僅由2～8的數牌所湊成的牌型
+gam042_osusume_03_1	平和
+gam042_osusume_03_2	在不叫牌的情況下，湊齊四組「三張連續數牌」\x0d\n加一組雀頭（數牌或風牌以外的東南西北），且聽牌時為「兩面聽」即可成立
+gam042_osusume_04_1	一盃口
+gam042_osusume_04_2	在不叫牌的情況下，湊齊兩組「相同種類」的三張連續數牌
+gam042_osusume_05_1	三色同順
+gam042_osusume_05_2	手牌裡湊齊三組「不同種類」的三張連續數牌。\x0d\n三組皆得是數字排序相同的順子
+gam042_osusume_06_1	三暗刻
+gam042_osusume_06_2	在不叫牌的情況下，手牌裡湊齊三組三張相同的牌（或是槓牌）。
+gam042_osusume_07_1	一氣通貫
+gam042_osusume_07_2	湊齊「1～9」相同種類的數牌的牌型
+gam042_osusume_08_1	七對子
+gam042_osusume_08_2	手牌裡湊齊七組「兩張相同的牌」的特殊牌型
+gam042_osusume_09_1	對對和
+gam042_osusume_09_2	四組「三張相同的牌（或是槓牌）」\x0d\n和一組雀頭（兩張相同的牌）湊成的牌型。
+gam042_osusume_10_1	混全帶么九
+gam042_osusume_10_2	全部牌組皆是帶有么九的數牌，\x0d\n再加上字牌（中發白、東南西北）所湊成的牌型
+gam042_osusume_11_1	純全帶么九
+gam042_osusume_11_2	全部牌組皆是帶有么九的數牌所湊成的牌型
+gam042_osusume_12_1	混一色
+gam042_osusume_12_2	整副牌僅由相同種類的數牌和字牌（中發白、東南西北）所湊成的牌型
+gam042_osusume_13_1	小三元
+gam042_osusume_13_2	白、發、中任一組牌湊成「兩張」，\x0d\n其餘兩組各湊到「三張」（或是槓牌）。
+gam042_osusume_14_1	混老頭
+gam042_osusume_14_2	由「么九牌」或「字牌」湊成四組三張相同的牌。\x0d\n加上雀頭也是「么九牌」或「字牌」所湊成的牌型。
+gam042_osusume_15_1	清一色
+gam042_osusume_15_2	整副牌僅由相同種類的數牌所湊成的牌型
+gam042_osusume_16_1	立直
+gam042_osusume_16_2	在不叫牌的情況下，於聽牌（和牌的前一手）時\x0d\n選擇立直
+gam042_osusume_51_1	四暗刻
+gam042_osusume_51_2	在不叫牌的情況下，手牌裡湊齊四組三張相同的牌。\x0d\n但用槓牌湊成四張牌的話，就會變成其他牌型。
+gam042_osusume_52_1	大三元
+gam042_osusume_52_2	白、發、中全部湊到三張（或是槓牌）的牌型。
+gam042_osusume_53_1	國士無雙
+gam042_osusume_53_2	手牌裡湊齊全部十三張的「么九牌」和「字牌」\x0d\n其中任一組湊成兩張組成雀頭
+gam042_osusume_54_1	綠一色
+gam042_osusume_54_2	整副牌皆是「綠色牌」的役滿牌。\x0d\n由二、三、四、六、八索和青發湊成的牌型
+gam042_osusume_55_1	字一色
+gam042_osusume_55_2	整副牌僅由「中發白、東南西北」等字牌所湊成的牌型
+gam042_osusume_56_1	清老頭
+gam042_osusume_56_2	整副牌僅由么九牌所湊成的牌型
+gam042_osusume_57_1	小四喜
+gam042_osusume_57_2	東南西北的其中三組湊成三張（或是槓牌），\x0d\n剩下一組湊成兩張組成雀頭的牌型。
+gam042_osusume_58_1	大四喜
+gam042_osusume_58_2	湊齊所有的東南西北各三張的牌型（或是槓牌）。
+gam042_osusume_59_1	九蓮寶燈
+gam042_osusume_59_2	在不叫牌的情況下，把相同種類的數牌湊成「三張一」、「三張九」、\x0d\n「二～八各一張」，再加上任一張「一～九」的牌型
+gam042_osusume_99	推薦的牌型
+gam042_osusume_60_1	風牌
+gam042_osusume_60_2	湊齊三張圈風（東場時為東、南場時為南）牌（或是槓牌），\x0d\n或是三張與門風（東南西北）相同的風牌（或是槓牌）。
+gam042_osusume_100	推薦牌型一覽
+gam042_osusume_yakuman	役滿
+gam042_osusume_window_1	\ue008關閉
+gam042_osusume_window_2	[0] / 14
+gam042_stepup_1_01	麻將是一種利用十四張牌湊成牌型的遊戲
+gam042_stepup_1_02	麻將牌分成三種{c[f40428]}數牌{c[020202]}和一種{c[f40428]}字牌{c[020202]}
+gam042_stepup_1_05	首先來體驗一下麻將的基本遊玩方式吧！
+gam042_stepup_1_06	你摸到一張{c[f40428]}北{c[020202]}，湊成兩張北了
+gam042_stepup_1_07	先丟掉數字不連續的牌，或是孤張的字牌吧
+gam042_stepup_1_08	你摸到一張{c[f40428]}三索{c[020202]}，湊成三張數字連續的牌了
+gam042_stepup_1_09	進牌了，那就把不要的牌丟掉吧
+gam042_stepup_1_10	你摸到一張北，湊成三張北了
+gam042_stepup_1_11	丟掉一張不要的牌吧
+gam042_stepup_1_14	丟掉一張不要的牌吧
+gam042_stepup_1_15	你摸到一張{c[f40428]}五萬{c[020202]}，湊成三張數字連續的牌了
+gam042_stepup_1_16	你聽牌了！還差一張牌就能和牌了！
+gam042_stepup_1_17	僅靠摸牌來完成聽牌就能宣告{c[f40428]}立直{c[020202]}
+gam042_stepup_1_18	宣告立直，等待最後一張牌現身吧！
+gam042_stepup_1_19	你摸到聽的牌了！太好了！
+gam042_stepup_1_20	已湊齊了14張能組成牌型的牌，請宣告{c[f40428]}自摸{c[020202]}並和牌吧！！
+gam042_stepup_1_21	像這樣，麻將是以湊齊牌型和牌為目的的遊戲。
+gam042_stepup_1_23	湊不成牌型就不能和牌，這點一定要注意喔！
+gam042_stepup_1_24	這就是麻將的基本規則
+gam042_stepup_1_25	下個步驟，就讓我們來學習{c[f40428]}「叫牌」{c[020202]}吧！
+gam042_stepup_2_01	在麻將裡，可以{c[f40428]}得到{c[020202]}對手丟掉的牌！
+gam042_stepup_2_02	此行為稱作{c[f40428]}「叫牌」{c[020202]}
+gam042_stepup_2_03	這次就嘗試利用「叫牌」來和牌吧
+gam042_stepup_2_04	上家丟出一張與手牌中的牌數字相連的牌
+gam042_stepup_2_05	那就宣告{c[f40428]}「吃」{c[020202]}吧
+gam042_stepup_2_06	從上家那裡得到數字相連的牌稱作{c[f40428]}「吃」{c[020202]}
+gam042_stepup_2_07	丟掉一張不要的牌吧
+gam042_stepup_2_08	對家丟出一張與手牌中的牌相同種類的牌
+gam042_stepup_2_09	那就宣告{c[f40428]}「碰」{c[020202]}吧
+gam042_stepup_2_10	得到與手牌中的牌相同種類的牌稱作{c[f40428]}「碰」{c[020202]}
+gam042_stepup_2_11	可以「碰」任一家手上的牌
+gam042_stepup_2_12	丟掉一張不要的牌吧
+gam042_stepup_2_13	上家丟出一張{c[f40428]}八筒{c[020202]}
+gam042_stepup_2_14	這樣就湊成了{c[f40428]}「斷么」{c[020202]}的牌型，可以和牌了！
+gam042_stepup_2_15	要和對手的牌時就喊{c[f40428]}「和」{c[020202]}來和牌
+gam042_stepup_2_16	那就趕快宣告「和」來和牌吧！
+gam042_stepup_2_17	恭喜！你和牌了！
+gam042_stepup_2_18	在麻將裡，利用對手丟掉的牌也是很重要的技巧！
+gam042_stepup_3_01	麻將存在各式各樣的牌型
+gam042_stepup_3_03	這次就以湊成{c[f40428]}七對子{c[020202]}這種特殊牌型為目標吧！
+gam042_stepup_3_04	七對子有別於先前學到的組合，是一種兩兩成對的簡單牌型！
+gam042_stepup_3_05	由於需要湊齊七組兩張牌組成的{c[f40428]}對子{c[020202]}，
+gam042_stepup_3_06	因此稱作「七對子」
+gam042_stepup_3_07	你現在已經湊成四組對子了
+gam042_stepup_3_08	你摸到一張{c[f40428]}四萬{c[020202]}，湊成五組對子了
+gam042_stepup_3_09	進牌了，那就把不要的牌丟掉吧
+gam042_stepup_3_10	你摸到一張{c[f40428]}六索{c[020202]}，湊成六組對子了
+gam042_stepup_3_11	你聽牌了！還差一張牌就能和牌了！
+gam042_stepup_3_12	宣告立直，等待最後一張牌現身吧！
+gam042_stepup_3_13	你聽的牌被丟到場上了！\x0d\n這樣就湊成七對子的牌型了！
+gam042_stepup_3_14	要和對手的牌時就喊「和」來和牌！
+gam042_stepup_3_15	宣告和牌吧！
+gam042_stepup_3_16	雖然麻將存在各式各樣的牌型
+gam042_stepup_3_17	不過初學者還是先嘗試\x0d\n以「立直」、「斷么」、「七對子」等簡單的牌型和牌吧！
+gam042_stepup_3_18	在熟記牌面之前，\x0d\n建議先將麻將牌設計切換成全球通用版。
+gam042_stepup_99	牌種
+gam042_stepup_fig_0	數牌
+gam042_stepup_fig_1	萬子
+gam042_stepup_fig_2	索子
+gam042_stepup_fig_3	筒子
+gam042_stepup_fig_4	字牌
+gam043.msbt
+gam043_select00	請選擇關卡
+gam043_select01	初級
+gam043_select02	中級
+gam043_select03	高級
+gam043_select05	\ue008
+gam043_select06	\ue009
+gam044.msbt
+gam044_04	將軍
+gam044_05	千日手
+gam044_06	是
+gam044_07	否
+gam044_09	欠行
+gam044_13	放棄
+gam044_23	要進行升變嗎？
+gam044_guide_mes00	下一步就能吃掉王將
+gam044_guide_mes01	棋子進入敵陣後可以選擇變強
+gam044_guide_mes02	同一局面重複四次則對局無效
+gam044_guide_mes03	由於出現連續將軍的千日手，判定叫將的一方輸棋
+gam044_guide_mes04	放棄對局並結束遊戲
+gam044_warning_01	對手祭出將軍，請防禦
+gam044_warning_02	對手祭出將軍，請防禦
+gam044_warning_03	你要被將軍了
+gam044_warning_04	此枚棋子不能擺在此位置
+gam044_warning_05	同一直列上不能同時擺放兩枚步兵
+gam044_warning_06	不能利用打入俘虜的步兵來讓對手的王將欠行
+gam044_warning_07	步兵不能打入敵陣底線
+gam044_piece_name00	步兵
+gam044_piece_name03	銀將
+gam044_piece_name04	金將
+gam044_piece_name05	角行
+gam044_piece_name06	飛車
+gam044_piece_name07	王將
+gam044_piece_name08	成金
+gam044_piece_name11	成銀
+gam044_piece_name12	龍馬
+gam044_piece_name13	龍王
+gam044_replay00	檢討
+gam044_replay01	第[0]步
+gam044_replay02	[0]  退出
+gam044_replay03	[0]
+gam044_replay04	[0]
+gam044_replay05	[0]  輔助ON
+gam044_replay06	[0]  輔助OFF
+gam044_mochigoma00	[0]
+gam044_komadai00	[0]  棋台
+gam044_komadai01	[0]  放回棋盤
+gam045.msbt
+gam045_number00	[0]
+gam045_number01	[0]
+gam045_telop00	恰好進終點
+gam045_telop01	取子
+gam045_telop03	移動剩下的石頭
+gam045_telop04	得到了對手口袋中的石頭！
+gam045_telop05	繼續 再一次！
+gam045_telop06	收集石頭到自己的終點！
+gam045_pop00	到此為止
+gam045_pop01	恰好進終點
+gam045_pop02	取子機會
+gam045_pop03	終點
+gam046.msbt
+gam046_telop_inst_00	猜對4枚大頭針的顏色和順序吧！
+gam046_telop_check_00	[0]個全對！　[1]個半對！
+gam046_telop_check_v0	0個全對！ 0個半對！
+gam046_telop_check_v1	0個全對！ 1個半對！
+gam046_telop_check_v2	0個全對！ 2個半對！
+gam046_telop_check_v3	0個全對！ 3個半對！
+gam046_telop_check_v4	0個全對！ 4個半對！
+gam046_telop_check_v5	1個全對！ 0個半對！
+gam046_telop_check_v6	1個全對！ 1個半對！
+gam046_telop_check_v7	1個全對！ 2個半對！
+gam046_telop_check_v8	1個全對！ 3個半對！
+gam046_telop_check_v9	2個全對！ 0個半對！
+gam046_telop_check_v10	2個全對！ 1個半對！
+gam046_telop_check_v13	2個全對！ 2個半對！
+gam046_telop_check_v11	3個全對！ 0個半對！
+gam046_telop_clear_00	4個全對！
+gam046_telop_clear_02	太可惜了……
+gam046_subinfo_01	全對：猜對顏色和位置
+gam046_subinfo_02	半對：只猜對顏色
+gam046_ok_00	OK
+gam047.msbt
+gam047_telop01	WIN
+gam047_telop06	FINISH
+gam047_telop02	DRAW
+gam047_telop03	過
+gam047_telop04	以[0]分為目標吧
+gam047_telop05	封牌
+gam047_oya00	決定莊家
+gam047_oya01	請選擇一張牌
+gam047_oya02	第1
+gam047_pass00	過
+gam047_point00	[0]
+gam047_point01	[0]
+gam047_point02	[0]分
+gam047_point03	/
+gam047_5up00	[0]
+gam048.msbt
+gam048_oya01	請選牌
+gam048_oya03	莊家
+gam048_oya06	決定莊家
+gam048_oya_mth00	1月
+gam048_oya_mth01	2月
+gam048_oya_mth02	3月
+gam048_oya_mth03	4月
+gam048_oya_mth04	5月
+gam048_oya_mth05	6月
+gam048_oya_mth06	7月
+gam048_oya_mth07	8月
+gam048_oya_mth08	9月
+gam048_oya_mth09	10月
+gam048_oya_mth10	11月
+gam048_oya_mth11	12月
+gam048_telop02	繼續繼續
+gam048_telop03	五光
+gam048_telop04	四光
+gam048_telop05	雨四光
+gam048_telop06	三光
+gam048_telop07	賞花一浮白
+gam048_telop08	賞月一浮白
+gam048_telop09	豬鹿蝶
+gam048_telop10	種
+gam048_telop11	赤短
+gam048_telop12	青短
+gam048_telop14	短
+gam048_telop15	雜牌
+gam048_telop16	手四
+gam048_telop17	連對
+gam048_telop18	完成
+gam048_telop20	流局
+gam048_yaku00	五光
+gam048_yaku01	四光
+gam048_yaku02	雨四光
+gam048_yaku03	三光
+gam048_yaku04	賞花一浮白
+gam048_yaku05	賞月一浮白
+gam048_yaku06	豬鹿蝶
+gam048_yaku07	種[0]
+gam048_yaku08	赤短
+gam048_yaku09	青短
+gam048_yaku11	短[0]
+gam048_yaku12	雜牌[0]
+gam048_2p_yaku00	五光
+gam048_2p_yaku01	四光
+gam048_2p_yaku02	雨四光
+gam048_2p_yaku03	三光
+gam048_2p_yaku04	賞花一浮白
+gam048_2p_yaku05	賞月一浮白
+gam048_2p_yaku06	豬鹿蝶
+gam048_2p_yaku07	種[0]
+gam048_2p_yaku08	赤短
+gam048_2p_yaku09	青短
+gam048_2p_yaku11	短[0]
+gam048_2p_yaku12	雜牌[0]
+gam048_round00	第[1]月/[0]月
+gam048_point00	[0]分
+gam048_koikoi00	要接著喊出「繼續繼續」嗎？
+gam048_koikoi00_no	完成
+gam048_koikoi00_yes	繼續繼續
+gam048_koikoi00_yes_00	對手正在考慮是否要喊出繼續繼續……
+gam048_result01	倍率\xd7[0]
+gam048_result02	合計
+gam048_result03	[0]分
+gam048_result09	第[0]月
+gam048_result10	/[0]月
+gam048_result05	[0]月
+gam048_result06	合計
+gam048_result07	[0]
+gam048_result08	[0]分
+gam048_result_yaku00	五光
+gam048_result_yaku01	四光
+gam048_result_yaku02	雨四光
+gam048_result_yaku03	三光
+gam048_result_yaku04	賞花一浮白
+gam048_result_yaku05	賞月一浮白
+gam048_result_yaku06	豬鹿蝶
+gam048_result_yaku07	種
+gam048_result_yaku08	赤短
+gam048_result_yaku09	青短
+gam048_result_yaku10	赤短與青短
+gam048_result_yaku11	短
+gam048_result_yaku12	雜牌
+gam048_result_yaku13	[0]分
+gam048_result_yaku14	手四
+gam048_result_yaku15	連對
+gam048_button00	[0]  牌型/牌種列表
+gam048_list00	牌型列表
+gam048_list01	花牌列表
+gam048_list02	[0] / 5
+gam048_list_yaku00	五光
+gam048_list_yaku01	四光
+gam048_list_yaku02	雨四光
+gam048_list_yaku03	三光
+gam048_list_yaku04	賞花一浮白
+gam048_list_yaku05	賞月一浮白
+gam048_list_yaku06	豬鹿蝶
+gam048_list_yaku07	種
+gam048_list_yaku08	赤短
+gam048_list_yaku09	青短
+gam048_list_yaku10	短
+gam048_list_yaku11	雜牌
+gam048_list_yaku12	[0]分
+gam048_list_yaku_ex00	湊齊五張光牌
+gam048_list_yaku_ex01	湊到除「雨」（柳的光牌）以外的四張光牌
+gam048_list_yaku_ex02	湊到包含「雨」（柳的光牌）在內的四張光牌
+gam048_list_yaku_ex03	湊到除「雨」（柳的光牌）以外任意三張光牌的牌型
+gam048_list_yaku_ex04	湊齊櫻的光牌與「菊上盃」（菊的種牌）
+gam048_list_yaku_ex05	湊齊「月」（芒草的光牌）與「菊上盃」（菊的種牌）
+gam048_list_yaku_ex06	每多湊到一張不同的種牌加一點
+gam048_list_yaku_ex07	湊到五張種牌。每多湊到一張種牌加一點
+gam048_list_yaku_ex08	每多湊到一張不同的短冊牌加一點
+gam048_list_yaku_ex09	每多湊到一張不同的短冊牌加一點
+gam048_list_yaku_ex10	湊到五張短冊牌。每多湊到一張短冊牌加一點
+gam048_list_yaku_ex11	湊到十張雜牌。每多湊到一張雜牌加一點
+gam048_list_yaku_ex12	依據遊戲設定無法使用
+gam048_list_mth00	1月
+gam048_list_mth01	2月
+gam048_list_mth02	3月
+gam048_list_mth03	4月
+gam048_list_mth04	5月
+gam048_list_mth05	6月
+gam048_list_mth06	7月
+gam048_list_mth07	8月
+gam048_list_mth08	9月
+gam048_list_mth09	10月
+gam048_list_mth10	11月
+gam048_list_mth11	12月
+gam048_list_fuda01	松
+gam048_list_fuda02	梅
+gam048_list_fuda03	櫻
+gam048_list_fuda04	藤
+gam048_list_fuda05	菖蒲
+gam048_list_fuda06	牡丹
+gam048_list_fuda07	萩
+gam048_list_fuda08	芒草
+gam048_list_fuda09	菊
+gam048_list_fuda10	楓
+gam048_list_fuda11	柳
+gam048_list_fuda12	桐
+gam048_list_star00	：光牌
+gam048_list_star01	：種牌
+gam048_list_star02	：短冊牌
+gam050.msbt
+gam050_00	發射
+gam050_01	[0]
+gam050_10	最後最靠近圓心的一方獲勝
+gam051.msbt
+gam051_telop_02	擊倒！
+gam051_button_guide00	揮拳
+gam051_button_guide01	防禦
+gam052.msbt
+gam052_telop00	進袋！
+gam052_telop01	犯規
+gam052_telop02	掩護成功！
+gam052_telop03	掩護失敗！
+gam052_telop04	王后 進袋！
+gam052_telop07	掩護 挑戰！
+gam052_guide00	[0] 方向
+gam052_guide02	[0] 準備射擊
+gam052_guide03	[0] 彈射
+gam052_guide04	[0] 調整位置
+gam052_sup00	你的衛兵落袋了
+gam052_sup01	將自己的群眾打入袋中的話　就算掩護成功
+gam052_sup02	因王后以外的棋子全數落袋　遊戲結束
+gam052_mess00	如果場上只剩下王后，且自己的\x0d\n群眾全數落袋，即判定為敗北。
+gam052_pop00	掩護 挑戰中
+gam052_button00	調整位置
+gam053.msbt
+gam053_telop00	決勝點
+gam053_telop01	再得到１分就獲勝了！
+gam053_guide00	移動
+gam053_guide01	殺球
+gam054.msbt
+gam054_telop_bonus_000	直線！
+gam054_telop_bonus_001	金字塔！
+gam054_telop_bonus_002	六角！
+gam054_nextwin_000	下一個
+gam054_start_00	開始！
+gam054_rule_00	連接６個同色的珠子吧！
+gam055.msbt
+gam055_02	高飛彈
+gam055_03	發射
+gam055_stick00	前進
+gam055_stick01	後退
+gam055_stick02	向左旋轉
+gam055_stick03	向右旋轉
+gam055_06	還剩[0]秒
+gam055_select00	請選擇關卡
+gam055_select01	[0]
+gam056.msbt
+gam056_rule00	計分
+gam056_rule01	301
+gam056_rule02	501
+gam056_rule03	直出
+gam056_rule04	雙倍出
+gam056_round_info00	[0]/[1]
+gam056_round_info03	回合
+gam056_score_info00	[0]
+gam056_score_info01	[0]
+gam056_score_info02	單倍區
+gam056_score_info03	雙倍區
+gam056_score_info04	三倍區
+gam056_score_info06	出界
+gam056_score_info05	紅心區
+gam056_score_info07	雙倍紅心區
+gam056_telop00	[0]
+gam056_telop01	爆鏢
+gam056_telop02	紅心區
+gam056_telop06	雙倍紅心區
+gam056_telop07	出界
+gam056_telop05	[0]\xd7[1]
+gam056_guide07	並擺出投擲飛鏢的姿勢
+gam056_guide08	按下\ue012拿起飛鏢
+gam056_guide09	請像這樣拿著Joy-Con
+gam056_guide10	觸碰螢幕即可拿起飛鏢
+gam056_guide11	按著\ue012鍵扔出去
+gam056_guide12	不要放開\ue012鍵！
+gam056_score00	[0]
+gam056_score01	[0]
+gam056_score02	[0]
+gam056_score03	合計
+gam103.msbt
+gam103_00	WIN
+gam103_01	LOSE
+gam103_02	DRAW
+gam103_04	[0]連勝！
+gam105.msbt
+gam105_button00	[0]退出
+gam105_button01	[0]跟注
+gam105_button02	[0]加注
+gam105_button03	[0]過
+gam105_button04	[0]下注
+gam105_button05	[0]  說明/牌型列表
+gam105_button06	[0]全押
+gam105_bet00	[0]
+gam105_bet01	[0]
+gam105_chip01	[0]
+gam105_chip02	[0]
+gam105_pot00	彩池
+gam105_pot01	[0]
+gam105_selected00	退出
+gam105_selected01	跟注
+gam105_selected02	加注
+gam105_selected03	過
+gam105_selected04	下注
+gam105_selected05	全押
+gam105_dealer00	荷官
+gam105_player_hand00	同花大順
+gam105_player_hand01	同花順
+gam105_player_hand02	四條
+gam105_player_hand03	葫蘆
+gam105_player_hand04	同花
+gam105_player_hand05	順子
+gam105_player_hand06	三條
+gam105_player_hand07	兩對
+gam105_player_hand08	一對
+gam105_player_hand09	散牌
+gam105_telop00	盲注
+gam105_telop04	攤牌
+gam105_telop05	WIN
+gam105_telop07	DRAW
+gam105_guide_mes00	由荷官左側的兩位玩家支付參加費用
+gam105_guide_mes04	公開所有人員的手牌
+gam105_result00	回合[0]
+gam105_result01	合計
+gam105_result02	[0]
+gam105_result03	[0]
+gam105_list00	[0] / 9
+gam105_list02	A是最大的牌
+gam105_list03	強牌
+gam105_list04	當牌型相同時，會依數字的大小來決定強度
+gam105_list05	牌型列表
+gam105_list06	動作說明
+gam105_list_act00	\ue003 下注：賭上籌碼
+gam105_list_act01	 跟注：打出同樣的籌碼
+gam105_list_act02	\ue003 加注：增加籌碼
+gam105_list_act03	 過牌：不下注跳過
+gam105_list_act04	\ue001 退出：從遊戲中離開
+gam105_list_act05	 全押：賭上所有籌碼
+gam105_list_act_ex00	指第一次下籌碼的舉動\x0d\n之後的玩家也必須跟著下籌碼
+gam105_list_act_ex01	指跟前一位玩家下了同樣的籌碼數量
+gam105_list_act_ex02	指比前一個下注的玩家多下注兩倍的籌碼\x0d\n之後的玩家也必須賭上相同數量的籌碼
+gam105_list_act_ex03	只在沒人下注的情況下才能使用。\x0d\n當沒有自信時就不下注，把順序讓給下一個人
+gam105_list_act_ex04	在該回合認輸\x0d\n並放棄該輪所下注的所有籌碼。\x0d\n當所有玩家都退出時，最後一位獲勝
+gam105_list_act_ex05	當想要跟注卻沒有足夠的籌碼時\x0d\n賭上剩下所有的籌碼一決勝負
+gam105_list_hand00	散牌
+gam105_list_hand01	一對
+gam105_list_hand02	兩對
+gam105_list_hand03	三條
+gam105_list_hand04	順子
+gam105_list_hand05	同花
+gam105_list_hand06	葫蘆
+gam105_list_hand07	四條
+gam105_list_hand08	同花順
+gam105_list_hand09	同花大順
+gam105_list_ex00	最弱的牌型。\x0d\n沒有湊齊任何牌型的狀態。
+gam105_list_ex01	有一組同數字的牌（2張）。
+gam105_list_ex02	有兩組同數字的牌。
+gam105_list_ex03	有三張同數字的牌。
+gam105_list_ex04	由連續的數字組成的牌型。
+gam105_list_ex05	由五張同花色的牌組成的牌型。
+gam105_list_ex06	由三張及兩張同數字的牌組成的牌型。
+gam105_list_ex07	有四張同數字的牌。
+gam105_list_ex08	由同花色且連續的數字組成的牌型。
+gam105_list_ex09	最強的牌型。\x0d\n以同花色的「10‧J‧Q‧K‧A」組成。
+gam105_roundresult02	3rd
+gam105_roundresult03	4th
+gam106.msbt
+gam106_01	[0]
+gam107.msbt
+gam107_button00	[0]過
+gam107_button01	[0]取消
+gam107_button02	[0]出牌
+gam107_button03	[0]交換手牌
+gam107_button04	[0]選擇
+gam107_pass00	過
+gam107_player_result00	1st
+gam107_player_result01	2nd
+gam107_player_result02	3rd
+gam107_player_result03	4th
+gam107_rival_result00	1st
+gam107_rival_result01	2nd
+gam107_rival_result02	3rd
+gam107_rival_result03	4th
+gam107_revolution00	下剋上
+gam107_special_rule00	限制花色
+gam107_telop00	交換手牌
+gam107_telop01	違規出牌
+gam107_telop02	8切
+gam107_telop03	\ue01b3反擊
+gam107_telop04	限制花色
+gam107_telop05	一落千丈
+gam107_telop06	下剋上
+gam107_telop07	阻止下剋上
+gam107_assist00	8切
+gam107_assist01	\ue01b3反擊
+gam107_exchange00	請選擇[0]張強力的手牌
+gam107_exchange01	請選擇[0]張要交換的手牌
+gam107_guide_mes00	手牌的強度將會反轉
+gam107_guide_mes01	誤出鬼牌
+gam107_result00	回合[0]
+gam107_result01	最終回合
+gam108.msbt
+gam108_telop00	跳過
+gam108_telop01	抽兩張牌\x0d\n[0]張
+gam108_telop02	抽三張牌\x0d\n[0]張
+voice108_001	抽兩張牌
+voice108_002	抽三張牌
+gam108_telop03	更換顏色
+gam108_telop04	反轉順序
+gam108_telop05	罰牌\x0d\n[0]張
+gam108_telop06	最後一張牌
+gam108_telop07	結束
+gam108_assist00	跳過
+gam108_assist01	抽兩張牌
+gam108_assist02	抽三張牌
+gam108_assist03	更換顏色
+gam108_assist04	反轉順序
+gam108_button00	\ue002宣告「最後一張牌」
+gam108_button02	[0]出牌
+gam108_eight00	顏色
+gam108_eight01	請選擇顏色
+gam108_result00	1st
+gam108_result01	2nd
+gam108_result02	3rd
+gam108_result03	4th
+gam109.msbt
+gam109_button00	[0]要牌
+gam109_button01	[0]停牌
+gam109_button02	[0]加倍下注
+gam109_button03	[0]確定
+gam109_selected00	要牌
+gam109_selected01	停牌
+gam109_selected02	加倍下注
+gam109_bet01	[0]
+gam109_bet02	請下注
+gam109_bet03	[0]
+gam109_chip01	[0]
+gam109_hand00	[0]
+gam109_bust00	爆牌
+gam109_blackjack00	二十一點！
+gam109_result00	WIN
+gam109_result01	LOSE
+gam109_result02	DRAW
+gam109_result03	回合[0]
+gam109_result04	合計
+gam109_result05	[0]
+gam109_result06	[0]
+gam110.msbt
+gam110_button00	[0]  過
+gam110_button01	出牌
+gam110_button03	[0]  放棄
+gam110_telop00	過
+gam110_pass00	過
+gam110_player00	過 [0]/[1]
+gam110_result00	1st
+gam110_result01	2nd
+gam110_result02	3rd
+gam110_result03	4th
+gam112.msbt
+gam112_button03	\ue002
+gam112_completion00	要自動完成剩下的接龍嗎？
+gam112_completion00_no	取消
+gam112_completion00_yes	自動完成
+gam113.msbt
+gam113_button02	\ue002
+glossary.msbt
+glo_gam001.msbt
+glo_gam002.msbt
+glo_gam003.msbt
+glo_gam004.msbt
+glo_gam005.msbt
+glo_gam008.msbt
+glo_gam009.msbt
+glo_gam010.msbt
+glo_gam012.msbt
+glo_gam013.msbt
+glo_gam014.msbt
+glo_gam022.msbt
+glo_gam031.msbt
+glo_gam032.msbt
+glo_gam034.msbt
+glo_gam036.msbt
+glo_gam037.msbt
+glo_gam038.msbt
+glo_gam042.msbt
+glo_gam044.msbt
+glo_gam045.msbt
+glo_gam046.msbt
+glo_gam048.msbt
+glo_gam051.msbt
+glo_gam052.msbt
+glo_gam053.msbt
+glo_gam054.msbt
+glo_gam056.msbt
+glo_gam105.msbt
+glo_gam107.msbt
+glo_gam108.msbt
+glo_gam109.msbt
+glo_guide.msbt
+hands_list.msbt
+hands_list00	[0]  關閉
+menu.msbt
+menu_gamenum00	[0]
+menu_gamenum01	[0]
+menu_gamename00	[0]
+menu_gamename01	[0]
+menu_gamename02	[0]
+menu_gamename03	[0]
+menu_gamename04	[0]
+menu_name00	[n0]
+menu_name01	[n0]
+menu_name02	[n0]
+menu_playlist00	推薦地球儀
+menu_play00	遊玩次數 [0]次
+menu_play01	遊玩 [0]次    \ue045[1]
+menu_window00	[0]
+menu_window00_index	[0]
+menu_window01	最近要推薦的是 這款遊戲！
+menu_window10	人們將從世界各地聚集於此，\x0d\n並向大家介紹自己推薦的遊戲！
+menu_window20	新的導遊來了！
+menu_win_num01	[0]
+menu_check	獎牌
+menu_record	我的記錄
+menu_chk_rcd	[0]　/　[1]
+menu_check00	[0]
+menu_record00	[0]
+menu_record_score00	[0]分
+menu_record_score01	[0]
+menu_record_score02	-[0]
+menu_record_score03	[0]g
+menu_record_score04	+[0]
+menu_record_score05	\ue046合計[0]
+menu_record_time00	[0]:[1][2]:[3][4]
+menu_record_time01	[0]:[1][2].[3]
+menu_record_time02	[0]秒
+menu_record_non	----
+menu_doya	讓人想說的小知識
+menu_doya_index	[0]
+menu_doya_index_not	???
+menu_doya_not	?????
+menu_doya_get_mes00	剛剛你獲得的是\x0d\n會想告訴給其他人知道的遊戲冷知識。\x0d\n在這裡被稱為「小知識」。
+menu_doya_get_mes01	多玩幾次遊戲，來收集它們吧。
+menu_doya_get_mes02	可以用\ue008\ue009來隨時查閱這些知識，\x0d\n當你跟誰玩遊戲時，就告訴他們吧！
+menu_figure_get_mes00	[0]\x0d\n來到地球儀上一起玩了！
+menu_figure_get_mes01	[0]\x0d\n帶著禮物來了！
+menu_favorite_mes00	要不要向世界上的大家\x0d\n介紹你推薦的遊戲呢？
+menu_favorite_mes01	透過放在地球儀上的個人人偶\x0d\n來進行設定吧！
+menu_release11	通過所有的關卡了！
+menu_comp00	通過[0]了！！
+menu_comp01	精通世界上的遊戲了！！
+menu_comp02	玩過所有的遊戲了！
+menu_new00	New !
+menu_new01	New !
+menu_title_mode00	單機遊玩
+menu_title_mode01	相聚遊玩
+menu_title_mode02	線上遊玩
+menu_title_mode03	排列遊玩
+menu_title_mode04	鄰近主機通訊
+menu_title_mode05	與朋友一起遊玩
+menu_title_mode06	與全世界的玩家一起遊玩
+menu_title_mode10	選擇大廳
+menu_title_mode11	創建大廳
+menu_title_mode20	用Joy-Con進行遊玩
+menu_title_mode21	用觸控方式進行遊玩
+menu_title_pnum00	[0]人遊玩
+menu_title_start00	\ue008＋\ue009 GAME START
+menu_touch_index00	用這種方式一起玩吧
+menu_touch_guide00	要結束遊戲時就按 \ue007/\ue006鍵
+menu_ttm_guide00	使用Joy-Con進行遊玩
+menu_touch_ok	觸碰畫面開始遊戲！
+menu_jc_index00	這是你的Joy-Con！
+menu_jc_name00	[n0]
+menu_jc_name01	[0]
+menu_wireless_index00	[0]
+menu_wireless_index01	正在等待要一起玩的人……
+menu_wireless_index03	正在創建大廳……
+menu_wireless_index04	決定好一起玩的成員了！
+menu_wireless_index05	要在哪個大廳遊玩呢？
+menu_wireless_index06	正在等待成員完成選擇……
+menu_wireless_name00	[n0]
+menu_wireless_load00	找不到大廳
+menu_wireless_load01	正在尋找大廳……
+menu_wireless_load10	正再度尋找大廳中
+menu_wireless_cnl00	即將退出鄰近主機通訊並返回上一頁。\x0d\n確定要這樣做嗎？
+menu_wireless_cnl01	即將退出排列遊玩並返回上一頁。\x0d\n確定要這樣做嗎？
+menu_wireless_cnl_n	否
+menu_wireless_cnl_y	是
+menu_ttm_index01	要遊玩的人是？
+menu_ttm_select00	Nintendo Switch主機
+menu_ttm_select01	一起遊玩的人
+menu_ttm_select00_0	[0]台
+menu_ttm_select01_0	[0]人
+menu_ttm_select_ok	OK
+menu_ttm_tlp_standby	排列遊玩準備中……
+menu_online_cnl00	即將退出連線遊玩並返回上一頁。\x0d\n確定要這樣做嗎？
+menu_online_cnl01	即將返回上一頁並重新選擇遊戲。\x0d\n確定要這樣做嗎？
+menu_online_much00	開始尋找可以連線遊玩的玩家。\x0d\n在此之前，\x0d\n請先享受1人遊玩的樂趣。
+menu_online_rm_slct	請選擇3款想遊玩的遊戲
+menu_online_rm_slct_rule01	[0]
+menu_online_rm_slct_num	[0]
+menu_online_rm_slct_actv	[0]人正在等待
+menu_online_rm_cfm	要以這個遊戲展開配對嗎？
+menu_online_rm_cfm_num	[0]
+menu_online_rm_cfm_gam00	[0] [1]
+menu_online_rm_cfm_gam01	未選擇
+menu_online_rm_cfm_n	\ue001 返回
+menu_online_rm_cfm_y	OK
+menu_guide00	[0] 確定
+menu_guide01	[0] OK
+menu_guide02	[0] 跳過
+menu_guide10	[0] 返回
+menu_guide11	[0] 切換遊玩人數
+menu_guide12	[0] 退出
+menu_guide13	[0] 取消
+menu_guide20	[0] 排序
+menu_guide22	[0] 任意
+menu_guide33	[0] 隨機
+menu_guide35	[0] 影片
+menu_guide36	[0] 遊戲資訊
+menu_guide38	[0] 語音聊天？
+menu_guide39	[0] 關閉
+menu_guide90	\ue007/\ue006
+menu_gam_filter_title	[0]
+menu_gam_demmed00	需要跟玩家數量相同的Nintendo Switch
+menu_gam_demmed01	一次最多只能[0]個人一起玩！
+menu_gam_demmed04	1人遊玩專用的遊戲
+menu_gam_demmed05	在本模式下無法遊玩
+menu_gam_demmed06	調到1台遊玩模式再來看看吧！
+menu_gam_demmed07	用Nintendo Switch排列遊玩！
+menu_gam_demmed08	在本模式下無法選擇
+menu_gam_demmed10	用「鄰近主機通訊」模式遊玩
+menu_gam_demmed11	最多只能[0]個人一起玩！
+menu_gam_demmed14	1人遊玩專用
+menu_gam_demmed15	在本模式下無法遊玩
+menu_gam_demmed16	調到1台遊玩模式再來看看吧！
+menu_gam_demmed17	用「排列遊玩」模式遊玩
+menu_gam_demmed18	在本模式下無法選擇
+menu_resume00	已儲存中斷資料
+menu_setting_pop01	通訊中斷。
+menu_setting_pop02	[n0]正在進行操作。
+menu_config.msbt
+menu_cfg_rule	遊玩方式
+menu_cfg_ttm	排列在一起玩的話……
+menu_cfg_step00	小試身手 步驟[0]
+menu_cfg_step01	開始小試身手
+menu_cfg_start	開始遊玩
+menu_cfg_resume	繼續遊玩
+menu_cfg_return	返回
+menu_cfg_resume_mess	中斷的資料將會被刪除
+menu_cfg_newgame	重新開始
+menu_cfg_newgame_mess	中斷的資料將會被刪除
+menu_cfg_procon_supp00	無法使用Pro控制器進行遊玩
+menu_cfg_resume_supp0	有被中斷的資料存檔
+menu_cfg_gam009_step0	試著移動步兵吧
+menu_cfg_gam009_step1	試著移動棋子吧
+menu_cfg_gam009_step2	試著打入俘虜吧
+menu_cfg_gam009_step3	以將軍為目標吧
+menu_cfg_gam008_step0	移動士兵吧
+menu_cfg_gam008_step1	移動騎士和主教吧
+menu_cfg_gam008_step2	試著將死對手吧！
+menu_cfg_gam042_step0	記住如何「立直」吧
+menu_cfg_gam042_step1	記住如何「叫牌」吧
+menu_cfg_gam042_step2	試著完成「七對子」吧
+menu_cfg_main000	以[0]局比賽遊玩
+menu_cfg_main000_online	[0]局比賽
+menu_cfg_main010	以[0]洞遊玩
+menu_cfg_main010_online	[0]洞
+menu_cfg_main020	遊玩9號球規則
+menu_cfg_main021	遊玩簡單規則
+menu_cfg_main022	遊玩8號球規則
+menu_cfg_main020_online	9號球規則
+menu_cfg_main022_online	8號球規則
+menu_cfg_main030	遊玩[0]計分格
+menu_cfg_main031	遊玩挑戰球道
+menu_cfg_main030_online	[0]計分格
+menu_cfg_main040	遊玩賽道 No.[0]
+menu_cfg_main041	遊玩3賽道比賽
+menu_cfg_main040_online	賽道 No.[0]
+menu_cfg_main041_online	3賽道比賽
+menu_cfg_main050	遊玩[0]局
+menu_cfg_main050_online	[0]局
+menu_cfg_main060	遊玩關卡[0]
+menu_cfg_main060_online	關卡[0]
+menu_cfg_main070	[0]分鐘釣魚
+menu_cfg_main071	遊玩自由時間模式
+menu_cfg_main070_online	[0]分鐘釣魚
+menu_cfg_main071_online	自由時間
+menu_cfg_main080	以烏龜遊玩
+menu_cfg_main081	以兔子遊玩
+menu_cfg_main080_online	烏龜
+menu_cfg_main081_online	兔子
+menu_cfg_main090	遊玩單局比賽
+menu_cfg_main091	遊玩[0]分比賽
+menu_cfg_main090_online	單局比賽
+menu_cfg_main091_online	[0]分比賽
+menu_cfg_main100	以東風戰開始
+menu_cfg_main101	以東南戰開始
+menu_cfg_main100_online	東風戰
+menu_cfg_main110_online	無提示
+menu_cfg_main111_online	有提示
+menu_cfg_main120	以35分規則遊玩
+menu_cfg_main121	以61分規則遊玩
+menu_cfg_main121_online	61分規則
+menu_cfg_main130	以三回合對戰開始
+menu_cfg_main131	以六回合對戰開始
+menu_cfg_main132	以十二回合對戰開始
+menu_cfg_main130_online	三回合對戰
+menu_cfg_main131_online	六回合對戰
+menu_cfg_main132_online	十二回合對戰
+menu_cfg_main140	遊玩計分規則
+menu_cfg_main141	遊玩301規則
+menu_cfg_main142	遊玩501規則
+menu_cfg_main140_online	計分
+menu_cfg_main141_online	301
+menu_cfg_main142_online	501
+menu_cfg_main150	以[0]回合遊玩
+menu_cfg_main150_online	[0]回合
+menu_cfg_main160	以翻[0]張規則遊玩
+menu_cfg_main160_online	翻[0]張
+menu_cfg_main170	遊玩初級
+menu_cfg_main171	遊玩中級
+menu_cfg_main172	遊玩高級
+menu_cfg_main170_online	初級
+menu_cfg_main171_online	中級
+menu_cfg_main172_online	高級
+menu_cfg_main180	1P以兔子遊玩
+menu_cfg_main181	1P以獵犬遊玩
+menu_cfg_main182	以兔子遊玩
+menu_cfg_main183	以獵犬遊玩
+menu_cfg_main181_online	1P為獵犬
+menu_cfg_non	———
+menu_cfg00	CPU強度
+menu_cfg04	先手
+menu_cfg05	先攻
+menu_cfg07	護欄
+menu_cfg09	圈數
+menu_cfg10	先手讓子棋
+menu_cfg14	三三
+menu_cfg15	四四
+menu_cfg16	長連
+menu_cfg19	當路線上沒有棋子時
+menu_cfg21	攔阻
+menu_cfg22	可跳過自己的棋子
+menu_cfg23	在敵陣放置棋子
+menu_cfg25	紅色加分牌
+menu_cfg27	規則
+menu_cfg28	賞花一浮白
+menu_cfg29	賞月一浮白
+menu_cfg30	鬼牌
+menu_cfg31	如果牌湊齊了
+menu_cfg32	湊齊的牌數
+menu_cfg34	懲罰牌
+menu_cfg35	8切
+menu_cfg36	黑桃3反擊
+menu_cfg37	限制
+menu_cfg38	一落千丈
+menu_cfg39	遊戲結束
+menu_cfg40	加倍下注
+menu_cfg41	過
+menu_cfg42	A與K
+menu_cfg44	導引
+menu_cfg45	不利設定
+menu_cfg46	無法打出手牌時
+menu_cfg47	球
+menu_cfg48	棋子設計
+menu_cfg49	麻將牌設計
+menu_cfg50	結束
+menu_cfg51	卡片類型
+menu_cfg52	答案有重複顏色
+menu_cfg53	抵達終點條件
+menu_cfg54	兔子的位置
+menu_cfg55	開始球洞
+menu_cfg56	花牌類型
+menu_cfg_item_non	———
+menu_cfg00_item00	一般
+menu_cfg00_item01	稍強
+menu_cfg00_item02	強勁
+menu_cfg00_item03	超強
+menu_cfg04_item00	[0]P
+menu_cfg04_item01	CPU
+menu_cfg04_item02	隨機
+menu_cfg07_item00	有
+menu_cfg07_item01	無
+menu_cfg09_item00	[0]圈
+menu_cfg10_item00	不讓子
+menu_cfg10_item01	不使用飛車
+menu_cfg10_item02	不使用角行
+menu_cfg10_item03	讓[0]枚子
+menu_cfg14_item00	限定先手禁止
+menu_cfg14_item01	同意
+menu_cfg19_item00	起步擲骰[0]次
+menu_cfg19_item01	不使用骰子
+menu_cfg22_item00	可以
+menu_cfg22_item01	不可以
+menu_cfg27_item00	商數5
+menu_cfg27_item01	簡單
+menu_cfg31_item00	再翻一次
+menu_cfg31_item01	換手
+menu_cfg32_item00	[0]張
+menu_cfg34_item00	能打出
+menu_cfg34_item01	不能打出
+menu_cfg39_item00	第一名確定
+menu_cfg39_item01	確定所有人的排名
+menu_cfg41_item00	[0]次
+menu_cfg42_item00	能連接
+menu_cfg42_item01	不能連接
+menu_cfg45_item00	有[0]P
+menu_cfg45_item01	有CPU
+menu_cfg46_item00	在抽出目標前持續抽牌
+menu_cfg46_item01	只抽一次
+menu_cfg46_item02	不抽牌直接過
+menu_cfg47_item00	沒有數字
+menu_cfg47_item01	有數字
+menu_cfg48_item00	一般版
+menu_cfg48_item01	全球版
+menu_cfg48_item02	全球通用版
+menu_cfg50_item00	直出
+menu_cfg50_item01	雙倍出
+menu_cfg51_item00	一般
+menu_cfg51_item01	瑪利歐
+menu_cfg53_item00	剛剛好
+menu_cfg53_item01	數字夠大就OK
+menu_cfg54_item00	固定
+menu_cfg54_item01	隨機
+menu_cfg55_item00	No.[0]
+menu_movie_gam000.msbt
+menu_movie_tlp00	這就是
+menu_movie_tlp01	這就是排列遊玩
+menu_movie_tlp10	[0]
+menu_movie_gam001.msbt
+menu_movie_gam001_05	要過去了喔～！！
+menu_movie_gam001_00	哈！
+menu_movie_gam001_01	嘿！
+menu_movie_gam001_02	\x0e\x01\x06\x02\0\xcd{s[120]}殺球！{s[100]}
+menu_movie_gam001_03	唉，輸掉了～！！
+menu_movie_gam001_04	真開心～☆
+menu_movie_gam002.msbt
+menu_movie_gam002_03	一決勝負！
+menu_movie_gam002_02	進球～～～～！！！
+menu_movie_gam002_04	呵！
+menu_movie_gam002_05	喲！
+menu_movie_gam002_00	好耶！
+menu_movie_gam002_06	呀！
+menu_movie_gam002_07	喂！
+menu_movie_gam002_01	太棒了！
+menu_movie_gam003.msbt
+menu_movie_gam003_00	首先從我開始。
+menu_movie_gam003_01	打到了球道的正中間啊，感覺不錯！
+menu_movie_gam003_02	接著換我。
+menu_movie_gam003_03	嗯，還可以吧？
+menu_movie_gam003_04	這邊嗎……
+menu_movie_gam003_05	啊～被風吹偏了……
+menu_movie_gam003_06	必須注意風向……
+menu_movie_gam003_09	嘿！
+menu_movie_gam003_07	太好了，小鳥！
+menu_movie_gam003_08	我輸了……
+menu_movie_gam003_10	第1桿
+menu_movie_gam003_11	{s[125]}小鳥{s[100]}
+menu_movie_gam004.msbt
+menu_movie_gam004_00	這是有品味的大人會玩的運動呢。
+menu_movie_gam004_01	撞擊白色的母球，依照數字順序一個一個進洞！
+menu_movie_gam004_02	你示範給我看看！
+menu_movie_gam004_03	好，那從我開始。
+menu_movie_gam004_04	哦，真有一手！
+menu_movie_gam004_05	還好啦，開球就是這樣。
+menu_movie_gam004_06	唉，沒進……
+menu_movie_gam004_07	別在意！\x0e\x01\x06\x02\x01\xcd接著換我了吧！
+menu_movie_gam004_08	啊，母球進洞了……
+menu_movie_gam004_09	哈哈哈，\x0e\x01\x06\x02\x01\xcd風水輪流轉喔？
+menu_movie_gam004_10	這個角度的話……
+menu_movie_gam004_15	嘿！
+menu_movie_gam004_11	哇哦，厲害！
+menu_movie_gam004_12	嗯，還好啦。\x0e\x01\x06\x02\x02\xcd（太好了，讓她看到了我帥氣的一面～）
+menu_movie_gam004_13	也教教我吧！
+menu_movie_gam004_14	{s[140]}交給我吧！{s[100]}
+menu_movie_gam004_30	{s[140]}犯規{s[100]}
+menu_movie_gam004_31	可以從任何一處瞄準的好機會
+menu_movie_gam004_32	九號球進洞！
+menu_movie_gam004_36	母球進洞的話，就輪到對手。
+menu_movie_gam005.msbt
+menu_movie_gam005_00	來打保齡球吧☆
+menu_movie_gam005_01	嗯……
+menu_movie_gam005_02	怎麼了嗎？
+menu_movie_gam005_03	我不想～保齡球太重了。
+menu_movie_gam005_04	那就沒問題了，只是遊戲，所以跟重量沒有關係☆
+menu_movie_gam005_05	啊，是喔。\x0e\x01\x06\x02\x01\xcd那麼我要玩！\x0e\x01\x06\x02\x01\xcd開始了喔～！
+menu_movie_gam005_06	哦～真厲害！！
+menu_movie_gam005_07	咦？
+menu_movie_gam005_08	……喂，你也太強了吧？
+menu_movie_gam005_09	小時候就有點接觸呢。
+menu_movie_gam005_10	你……幾歲啊……
+menu_movie_gam005_11	{s[125]}全倒！{s[100]}
+menu_movie_gam005_12	{s[125]}全倒！\x0d\n第二次{s[100]}
+menu_movie_gam005_13	{s[125]}全倒！\x0d\n火雞{s[100]}
+menu_movie_gam006.msbt
+menu_movie_gam006_00	{s[120]}油門全開！！{s[100]}
+menu_movie_gam006_01	轉不過去啦～～！！
+menu_movie_gam006_02	有時候必須要放鬆油門喔。
+menu_movie_gam006_ttm.msbt
+menu_movie_gam006_ttm_00	各位～一起來玩軌道車吧！
+menu_movie_gam006_ttm_01	來玩！來玩！
+menu_movie_gam006_ttm_01_2	來玩！來玩！
+menu_movie_gam006_ttm_02	我也要玩～！！
+menu_movie_gam006_ttm_03	把Nintendo Switch排列放置，就可以做出很長～的賽道。
+menu_movie_gam006_ttm_05	首先試著將四台連接成一條直線吧。
+menu_movie_gam006_ttm_06	用手指把這個滑過去……
+menu_movie_gam006_ttm_07	{s[140]}哦～連接上了！！{s[100]}
+menu_movie_gam006_ttm_07_2	{s[140]}哦～連接上了！！{s[100]}
+menu_movie_gam006_ttm_07_3	{s[140]}哦～連接上了！！{s[100]}
+menu_movie_gam006_ttm_08	煞車決勝負的橢圓形賽道完成！
+menu_movie_gam006_ttm_09	也讓我試試看！
+menu_movie_gam006_ttm_04	怎樣排列都可以嗎？
+menu_movie_gam006_ttm_10	{s[140]}哦哦哦～！！！{s[100]}
+menu_movie_gam006_ttm_10_2	{s[140]}哦哦哦～！！！{s[100]}
+menu_movie_gam006_ttm_10_3	{s[140]}哦哦哦～！！！{s[100]}
+menu_movie_gam006_ttm_11	連續彎道的技巧賽道！
+menu_movie_gam007.msbt
+menu_movie_gam007_00	啊，這個我知道！
+menu_movie_gam007_01	包夾對方的棋子，就可以反轉的遊戲對吧！
+menu_movie_gam007_02	對。
+menu_movie_gam007_03	我老是在最後瞬間輸掉……
+menu_movie_gam007_04	那是因為角落被奪走了是嗎？
+menu_movie_gam007_05	角落？
+menu_movie_gam007_06	像這個樣子，取得角落的話……
+menu_movie_gam007_07	就可以一口氣大逆轉！
+menu_movie_gam007_08	原來如此……好～我要取得角落～！！
+menu_movie_gam008.msbt
+menu_movie_gam008_00	西洋棋這遊戲是要互相吃掉彼此的＜國王＞喔。
+menu_movie_gam008_01	先手是白色對吧。
+menu_movie_gam008_02	有６種棋子，每種都有不同的移動方式。
+menu_movie_gam008_03	只有＜騎士＞可以跳過棋子是吧。
+menu_movie_gam008_04	吃掉的棋子不可以再使用。
+menu_movie_gam008_05	這一點跟將棋不同呢。
+menu_movie_gam008_06	走到最裡面的士兵會變強喔。
+menu_movie_gam008_07	最弱的＜士兵＞搖身一變成為最強的＜王后＞！
+menu_movie_gam008_08	啊……
+menu_movie_gam008_09	那個……我可以說嗎？
+menu_movie_gam008_10	嗯～～請……
+menu_movie_gam008_11	{s[120]}將死♪{s[100]}
+menu_movie_gam008_12	……我認輸了！
+menu_movie_gam008_13	{s[140]}升變{s[100]}
+menu_movie_gam008_14	走到另一端的士兵可以變化成其他棋子
+menu_movie_gam008_15	{s[140]}將死{s[100]}
+menu_movie_gam008_16	白色獲勝
+menu_movie_gam008_17	{s[080]}士兵{s[100]}
+menu_movie_gam008_18	{s[080]}主教{s[100]}
+menu_movie_gam008_19	{s[080]}騎士{s[100]}
+menu_movie_gam009.msbt
+menu_movie_gam009_00	將棋，\x0e\x01\x06\x02\x01\xcd我不會耶……
+menu_movie_gam009_01	將棋就是\x0e\x01\x06\x02\x01\xcd打倒國王的戰爭喔。
+menu_movie_gam009_02	這個就是國王。
+menu_movie_gam009_03	周圍的是？
+menu_movie_gam009_04	那些是同伴。\x0e\x01\x06\x02\x01\xcd大家都有許多移動方式。
+menu_movie_gam009_05	嗯嗯～
+menu_movie_gam009_06	進入敵陣的同伴會……
+menu_movie_gam009_07	變強！
+menu_movie_gam009_08	哦！
+menu_movie_gam009_09	還有吃掉敵人的話，\x0e\x01\x06\x02\x01\xcd可以變成我方！
+menu_movie_gam009_10	哦哦！
+menu_movie_gam009_11	其他的詳細部分就……
+menu_movie_gam009_12	詳細部分就？
+menu_movie_gam009_13	多玩個幾次來記住吧！
+menu_movie_gam009_14	哦哦，來玩吧！
+menu_movie_gam009_15	了解得越多越覺得深奧。
+menu_movie_gam009_20	我方
+menu_movie_gam010.msbt
+menu_movie_gam010_00	嘿～！！
+menu_movie_gam010_01	要投了喔～！！
+menu_movie_gam010_02	再來再來！
+menu_movie_gam010_03	去吧～！！！！
+menu_movie_gam010_04	耶～☆
+menu_movie_gam010_05	真、真幼稚……
+menu_movie_gam010_06	{s[140]}全壘打！{s[100]}
+menu_movie_gam011.msbt
+menu_movie_gam011_00	用無線電操控戰車一對一決勝負。
+menu_movie_gam011_01	上吧！
+menu_movie_gam011_02	發射！發射！
+menu_movie_gam011_03	其實\ue002也可以往上發射。
+menu_movie_gam011_04	啊，真狡猾！
+menu_movie_gam012.msbt
+menu_movie_gam012_01	……大自然……真舒服……
+menu_movie_gam012_02	對啊……真是治癒啊～
+menu_movie_gam012_07	啊，上鉤了！
+menu_movie_gam012_11	！
+menu_movie_gam012_08	唔哦哦哦哦哦～！！
+menu_movie_gam012_09	{s[120]}來了————————！！！{s[100]}
+menu_movie_gam012_10	咦—————————！？
+menu_movie_gam012_10_2	咦—————————！？
+menu_movie_gam012_30	長靴
+menu_movie_gam012_31	櫻花鉤吻鮭
+menu_movie_gam012_ttm.msbt
+menu_movie_gam012_ttm_00	各位，要去釣魚囉！
+menu_movie_gam012_ttm_01	哦～！
+menu_movie_gam012_ttm_01_2	哦～！
+menu_movie_gam012_ttm_01_3	哦～！
+menu_movie_gam012_ttm_02	將Nintendo Switch排列放置，就可以在不同地方釣魚。
+menu_movie_gam012_ttm_03	首先試著將四台連接成一條直線吧！
+menu_movie_gam012_ttm_04	把這個滑過去……
+menu_movie_gam012_ttm_05	{s[140]}變成河川了～～！{s[100]}
+menu_movie_gam012_ttm_05_2	{s[140]}變成河川了～～！{s[100]}
+menu_movie_gam012_ttm_05_3	{s[140]}變成河川了～～！{s[100]}
+menu_movie_gam012_ttm_06	不只這樣！
+menu_movie_gam012_ttm_07	{s[140]}瀑布出來了～～！{s[100]}
+menu_movie_gam012_ttm_07_2	{s[140]}瀑布出來了～～！{s[100]}
+menu_movie_gam012_ttm_07_3	{s[140]}瀑布出來了～～！{s[100]}
+menu_movie_gam012_ttm_08	要驚訝還太早了！
+menu_movie_gam012_ttm_09	{s[140]}大海～！！{s[100]}
+menu_movie_gam012_ttm_09_2	{s[140]}大海～！！{s[100]}
+menu_movie_gam012_ttm_09_3	{s[140]}大海～！！{s[100]}
+menu_movie_gam012_ttm_10	看，有大魚喔！
+menu_movie_gam012_ttm_11	根據連接方式，可以釣到的魚也會有許多變化呢。
+menu_movie_gam012_ttm_12	那麼看誰可以釣上來最多，來比賽吧！
+menu_movie_gam012_ttm_13	比賽！比賽！
+menu_movie_gam012_ttm_13_2	比賽！比賽！
+menu_movie_gam012_ttm_13_3	比賽！比賽！
+menu_movie_gam013.msbt
+menu_movie_gam013_00	我是狙擊手。
+menu_movie_gam013_01	我不會讓盯上的獵物逃走的。
+menu_movie_gam013_02	咦、咦？
+menu_movie_gam013_03	啊啊啊啊啊啊啊啊啊～
+menu_movie_gam013_04	{s[140]}啊～！！{s[100]}
+menu_movie_gam013_05	可惡……我不夠格當狙擊手。磨練技術重新再來吧……
+menu_movie_gam014.msbt
+menu_movie_gam014_00	滑動拼板讓道路連接起來。
+menu_movie_gam014_01	然後烏龜會沿著道路前進。
+menu_movie_gam014_02	好～來玩玩看！
+menu_movie_gam014_03	在途中獲得寶石的話可以得到分數！
+menu_movie_gam014_04	你看你看！
+menu_movie_gam014_05	拼板可以一次一個，也可以一起移動喔！
+menu_movie_gam014_06	烏龜爬很慢，真容易☆
+menu_movie_gam014_07	啊，不太妙……
+menu_movie_gam014_08	啊～要掉下去了！！
+menu_movie_gam014_09	其實烏龜……\x0e\x01\x06\x02\x02\xcd意外的快呢。\x0e\x01\x06\x02\x02\xcd 
+menu_movie_gam014_09_2	其實烏龜……意外的快呢。
+menu_movie_gam014_10	{s[140]}+10{s[100]}
+menu_movie_gam022.msbt
+menu_movie_gam022_11	……等等，就這樣？
+menu_movie_gam022_00	嗯。
+menu_movie_gam022_01	至少說明些什麼吧！
+menu_movie_gam022_02	‧\x0e\x01\x06\x02\x01\xcd‧\x0e\x01\x06\x02\x01\xcd‧\x0e\x01\x06\x02\x01\xcd‧\x0e\x01\x06\x02\x01\xcd‧
+menu_movie_gam022_03	這個是白鍵，這個是黑鍵……
+menu_movie_gam022_04	唉～算了啦！
+menu_movie_gam022_ttm.msbt
+menu_movie_gam022_ttm_00	將各位的Nintendo Switch相聚在一起的話……
+menu_movie_gam022_ttm_01	就可以做出真正的鋼琴演奏喔！
+menu_movie_gam022_ttm_02	用手指把這個滑過去……
+menu_movie_gam022_ttm_03	{s[140]}哦哦～～！！{s[100]}
+menu_movie_gam022_ttm_03_2	{s[140]}哦哦～～！！{s[100]}
+menu_movie_gam022_ttm_03_3	{s[140]}哦哦～～！！{s[100]}
+menu_movie_gam022_ttm_04	剩下的Joy-Con用來
+menu_movie_gam022_ttm_05	\ue002沙錘！
+menu_movie_gam022_ttm_06	\ue003響板！
+menu_movie_gam022_ttm_07	\ue001鼓！
+menu_movie_gam022_ttm_08	鈴～～鼓～～！
+menu_movie_gam022_ttm_09	根據連接方式也可以成為電風琴！
+menu_movie_gam022_ttm_10	{s[140]}真～有～趣～！！{s[100]}
+menu_movie_gam022_ttm_10_2	{s[140]}真～有～趣～！！{s[100]}
+menu_movie_gam022_ttm_10_3	{s[140]}真～有～趣～！！{s[100]}
+menu_movie_gam022_ttm_10_4	{s[140]}真～有～趣～！！{s[100]}
+menu_movie_gam031.msbt
+menu_movie_gam031_00	來下五子棋吧！
+menu_movie_gam031_01	來吧來吧♪
+menu_movie_gam031_02	那麼，\x0e\x01\x06\x02\x02\xcd為你們說明一下五子棋吧？
+menu_movie_gam031_03	欸～我們知道喔。
+menu_movie_gam031_04	直、橫、斜，先連成５個一線就獲勝對吧？
+menu_movie_gam031_05	嗯，對。沒錯……
+menu_movie_gam031_06	不用說明。
+menu_movie_gam031_07	嗯，不需要。
+menu_movie_gam031_08	這樣……啊。
+menu_movie_gam031_09	先手是我！
+menu_movie_gam031_10	先手的棋是……
+menu_movie_gam031_11	黑的對吧，我知道。
+menu_movie_gam031_16	啊……\x0e\x01\x06\x02\x02\xcd是啊。
+menu_movie_gam031_17	這裡！
+menu_movie_gam031_18	嘿嘿！
+menu_movie_gam031_19	……看起來真開心。
+menu_movie_gam032.msbt
+menu_movie_gam032_00	很久很久以前……在某個地方……
+menu_movie_gam032_01	存在著一個羅馬帝國。
+menu_movie_gam032_02	羅馬帝國的偉人，
+menu_movie_gam032_03	正在輪流互相放置棋子，
+menu_movie_gam032_04	並在棋子三個排成一線後，說了一聲……
+menu_movie_gam032_05	{s[140]}連線！{s[100]}
+menu_movie_gam032_06	接著對手的棋子便消失了一個。
+menu_movie_gam032_07	隨著棋子漸漸地一個一個消失……
+menu_movie_gam032_09	終於，\x0e\x01\x06\x02\0\xcd對手\x0e\x01\x06\x02\0\xcd無法喊出\x0e\x01\x06\x02\0\xcd連線……
+menu_movie_gam032_08	據說，\x0e\x01\x06\x02\x01\xcd羅馬\x0e\x01\x06\x02\0\xcd便迎來了和平，\x0e\x01\x06\x02\x02\xcd\x0e\x01\x06\x02\x02\xcd\x0e\x01\x06\x02\x02\xcd\x0e\x01\x06\x02\x02\xcd真是可喜可賀、\x0e\x01\x06\x02\x02\xcd\x0e\x01\x06\x02\x02\xcd\x0e\x01\x06\x02\x01\xcd可喜可賀。
+menu_movie_gam032_20	連線！
+menu_movie_gam032_30	漸漸地減少對手棋子的棋盤遊戲
+menu_movie_gam032_31	棋子剩下兩個後就無法連線
+menu_movie_gam033.msbt
+menu_movie_gam033_00	誰能夠先排列到４個呢？
+menu_movie_gam033_01	好了。
+menu_movie_gam033_02	好了。
+menu_movie_gam033_03	好了。
+menu_movie_gam033_04	好了。
+menu_movie_gam033_05	好了。
+menu_movie_gam033_06	太好了～即將連線♪
+menu_movie_gam033_07	好，我贏了。
+menu_movie_gam033_08	啊～沒有看到～！！
+menu_movie_gam034.msbt
+menu_movie_gam034_00	你知道這個遊戲嗎？
+menu_movie_gam034_01	咦，這是什麼？
+menu_movie_gam034_02	只要有紙跟筆就可以遊玩的遊戲。
+menu_movie_gam034_03	嗯～
+menu_movie_gam034_04	像這樣子畫線……
+menu_movie_gam034_05	完成四邊形的話就有1分！
+menu_movie_gam034_06	我知道了，來玩玩看吧。
+menu_movie_gam034_07	咦～！！
+menu_movie_gam034_08	重點是像這樣子連續取得喔★
+menu_movie_gam034_09	這個要先說啊！
+menu_movie_gam035.msbt
+menu_movie_gam035_00	真可愛！
+menu_movie_gam035_01	兔子如果逃到對面的話就獲勝，
+menu_movie_gam035_02	嗯～嗯～
+menu_movie_gam035_03	狗如果堵住逃走道路的話就獲勝。
+menu_movie_gam035_04	太狡猾了，兔子只有一隻，狗卻有三隻？
+menu_movie_gam035_05	兔子可以往任何方向移動，
+menu_movie_gam035_06	狗一次只可以移動一隻，
+menu_movie_gam035_07	而且還不可以後退。
+menu_movie_gam035_08	兔子比較強對吧～？
+menu_movie_gam035_09	……狗真是可憐。
+menu_movie_gam035_10	咦～！？
+menu_movie_gam036.msbt
+menu_movie_gam036_00	這是使用骰子的撲克牌遊戲喔。
+menu_movie_gam036_01	用骰子的數字做出這裡有的排列組合。
+menu_movie_gam036_02	比拼排列組合的合計得分對吧。
+menu_movie_gam036_03	那麼從我先來……\x0e\x01\x06\x02\x01\xcd開始了喔～！
+menu_movie_gam036_04	嘿！
+menu_movie_gam036_05	湊到３個１了。
+menu_movie_gam036_06	將１保留起來……
+menu_movie_gam036_07	嘿！
+menu_movie_gam036_08	太好了！\x0e\x01\x06\x02\x01\xcd湊到４個了！
+menu_movie_gam036_09	哦，好厲害！
+menu_movie_gam036_10	好，湊到５個的話就有５０分的＜快艇＞了！
+menu_movie_gam036_11	哎～５個果然是很勉強啊。
+menu_movie_gam036_12	不能再骰了，決定排列組合吧。
+menu_movie_gam036_13	嗯～雖然＜四骰同花＞的分數比較高……
+menu_movie_gam036_14	６的＜四骰同花＞的話可以瞄準２４分……
+menu_movie_gam036_15	這裡就先選擇＜一點＞吧！
+menu_movie_gam036_16	要選擇哪個排列組合是決定勝負的關鍵呢。
+menu_movie_gam036_17	來，下一個換你！
+menu_movie_gam036_18	好，我不會輸的！
+menu_movie_gam036_19	\ue024還有3次
+menu_movie_gam036_20	\ue024還有2次
+menu_movie_gam036_21	\ue024還有1次
+menu_movie_gam036_22	\ue024還有0次
+menu_movie_gam036_23	 保留
+menu_movie_gam037.msbt
+menu_movie_gam037_00	據說這是世界最古老的雙陸！
+menu_movie_gam037_01	是要互相往不同方向移動嗎？\x0d\n
+menu_movie_gam037_02	沒錯！我是往這邊。
+menu_movie_gam037_03	那我是往這邊吧。
+menu_movie_gam037_04	好，開始吧！
+menu_movie_gam037_05	那麼這個棋子前進３格……
+menu_movie_gam037_06	這一個前進５格♪
+menu_movie_gam037_09	來了來了！把這個棋子往前三個……
+menu_movie_gam037_07	啊！\x0e\x01\x06\x02\x02\xcd被返回出發點了！
+menu_movie_gam037_08	呵呵～！不只是運氣，也是需要戰略的喔。
+menu_movie_gam037_20	終點
+menu_movie_gam037_21	【決定順序】投擲出較大數字的一方為「先手」
+menu_movie_gam037_22	【先手】使用一開始「決定順序」時投擲出的數字
+menu_movie_gam037_23	和對手的棋子同一格，就可以讓對方返回出發點！
+menu_movie_gam038.msbt
+menu_movie_gam038_00	斜著前進……
+menu_movie_gam038_01	跳過去……\x0e\x01\x06\x02\x01\xcd吃掉！
+menu_movie_gam038_02	啊！
+menu_movie_gam038_03	將對手的棋子全部吃掉就獲勝了喔！
+menu_movie_gam038_04	到達另一端的話……\x0e\x01\x06\x02\x02\xcd \x0e\x01\x06\x02\x02\xcd{s[120]}成王！{s[100]}
+menu_movie_gam038_05	啊，戴上王冠了！
+menu_movie_gam038_06	王冠棋子可以往回走喔！
+menu_movie_gam038_07	想要衣錦還鄉，就變強吧！
+menu_movie_gam039.msbt
+menu_movie_gam039_00	來製作道路吧！
+menu_movie_gam039_01	好喔～！
+menu_movie_gam039_02	我從這裡開始到那邊。
+menu_movie_gam039_03	我從這裡開始到這邊。
+menu_movie_gam039_04	這是競爭！
+menu_movie_gam039_05	哦～！
+menu_movie_gam039_06	啊，道路被擋住了！不要妨礙我啦！
+menu_movie_gam039_07	你才是！
+menu_movie_gam039_08	還剩１個♪
+menu_movie_gam039_09	啊，糟了……不擋住的話！
+menu_movie_gam039_10	太好了，我贏了～♪
+menu_movie_gam039_11	真不甘心！！！！
+menu_movie_gam040.msbt
+menu_movie_gam040_00	來玩英國十字戲吧！
+menu_movie_gam040_01	{s[120]}英國十字戲！？ {s[100]}
+menu_movie_gam040_01_2	英國十字戲！？
+menu_movie_gam040_01_3	英國十字戲！？
+menu_movie_gam040_02	這是在印度誕生但在英國發揚光大的雙陸。
+menu_movie_gam040_03	真可愛。
+menu_movie_gam040_04	投擲骰子，棋子就可以前進。
+menu_movie_gam040_05	如果踩到同一格，可以讓對手回到出發點喔。
+menu_movie_gam040_06	好壞喔～！
+menu_movie_gam040_07	阻礙對手也是重要的戰略之一。
+menu_movie_gam040_08	這樣啊～
+menu_movie_gam040_09	最先讓４個棋子都到達終點的人就獲勝。
+menu_movie_gam040_10	{s[120]}簡單～♪ {s[100]}
+menu_movie_gam040_10_2	簡單～♪
+menu_movie_gam040_11	那來玩玩看吧！
+menu_movie_gam040_12	{s[120]}要來阻礙了喔～！ {s[100]}
+menu_movie_gam040_12_2	要來阻礙了喔～！
+menu_movie_gam040_12_3	要來阻礙了喔～！
+menu_movie_gam040_13	喂喂……
+menu_movie_gam040_14	終點
+menu_movie_gam041.msbt
+menu_movie_gam041_00	這是可以三個人玩的搬家遊戲喔。
+menu_movie_gam041_01	搬家？
+menu_movie_gam041_01_2	搬家？
+menu_movie_gam041_02	將自己的棋子移動到這裡吧！
+menu_movie_gam041_03	如果有別人的棋子，可以跳過去對吧！
+menu_movie_gam041_04	只要有可以跳過去的棋子，就可以連續跳喔！
+menu_movie_gam041_05	真～有～趣♪
+menu_movie_gam041_06	跳☆\x0e\x01\x06\x02\0\xcd跳☆\x0e\x01\x06\x02\0\xcd跳\x0e\x01\x06\x02\0\xcd地來搬家！
+menu_movie_gam041_06_2	跳☆\x0e\x01\x06\x02\0\xcd跳☆\x0e\x01\x06\x02\0\xcd跳\x0e\x01\x06\x02\0\xcd地來搬家！
+menu_movie_gam041_07	誰最快呀\x0e\x01\x06\x02\x01\xcd跳☆\x0e\x01\x06\x02\0\xcd跳\x0e\x01\x06\x02\0\xcd☆跳！
+menu_movie_gam042.msbt
+menu_movie_gam042_00	這是源自中國，擁有數千年歷史的遊戲喔……\x0d\n
+menu_movie_gam042_01	可以感受到歷史的悠久呢！
+menu_movie_gam042_02	使用這些描繪著文字或圖案的＜牌＞。
+menu_movie_gam042_03	嗯～嗯～
+menu_movie_gam042_04	１４張牌組合湊成＜牌型＞。
+menu_movie_gam042_05	也就是搭配圖案的遊戲？
+menu_movie_gam042_06	沒錯，可以做出的牌型大概有４０種左右。
+menu_movie_gam042_07	哇～這麼多怎麼記得住啊！
+menu_movie_gam042_08	沒問題的，附帶的功能會告訴你有哪些推薦牌型。
+menu_movie_gam042_09	哇～有這個真方便！
+menu_movie_gam042_10	也會提示牌型一覽以及遊玩方法喔。
+menu_movie_gam042_11	這樣的話，就算是我好像也可以玩呢！
+menu_movie_gam042_12	要玩玩看嗎？
+menu_movie_gam042_13	你都這樣說了……我就玩玩看吧！
+menu_movie_gam042_14	一旦學會了，絕對會深陷其奧妙之處。
+menu_movie_gam042_22	立直
+menu_movie_gam042_23	斷么九
+menu_movie_gam042_24	役牌
+menu_movie_gam042_25	一盃口
+menu_movie_gam042_26	推薦牌型一覽
+menu_movie_gam042_27	推薦的牌型
+menu_movie_gam043.msbt
+menu_movie_gam043_00	這是取走相同花色麻將牌的遊戲喔。
+menu_movie_gam043_01	原來如此。
+menu_movie_gam043_02	例如……
+menu_movie_gam043_03	這個和這個可以取走喔。
+menu_movie_gam043_04	原來如此……那這個和這個呢？
+menu_movie_gam043_05	那個不行。
+menu_movie_gam043_06	咦，為什麼？
+menu_movie_gam043_07	左右其中一邊是空的才可以取走。
+menu_movie_gam043_08	你按一下這個看看。
+menu_movie_gam043_09	啊，原來如此……\x0e\x01\x06\x02\x01\xcd變暗的牌是不能取走的啊。
+menu_movie_gam043_10	沒錯沒錯！ \x0e\x01\x06\x02\x01\xcd很方便對吧？
+menu_movie_gam043_11	好，來玩玩看吧！
+menu_movie_gam044.msbt
+menu_movie_gam044_00	這個看起來很簡單！
+menu_movie_gam044_01	是這樣嗎？
+menu_movie_gam044_02	咦……！
+menu_movie_gam044_03	原來如此，\x0e\x01\x06\x02\x01\xcd因為棋盤很小，所以立刻就會被吃掉啊……
+menu_movie_gam044_04	呵呵～
+menu_movie_gam044_05	看起來很簡單……\x0e\x01\x06\x02\x02\xcd{s[140]}卻很難！{s[100]}
+menu_movie_gam044_06	立刻就能享受到將棋的精彩之處！
+menu_movie_gam044_20	將軍
+menu_movie_gam045.msbt
+menu_movie_gam045_00	播種的遊戲，\x0e\x01\x06\x02\x02\xcd這就是播棋。
+menu_movie_gam045_01	播種？
+menu_movie_gam045_02	啊～取得的棋子要一個一個放置對吧。
+menu_movie_gam045_03	從自己的袋子中選擇要移動的棋子。
+menu_movie_gam045_04	從６個裡面選擇是吧。
+menu_movie_gam045_05	將棋子收集到自己的終點。
+menu_movie_gam045_06	好，我知道了！
+menu_movie_gam045_07	然後，這個遊戲最重要的一點是……
+menu_movie_gam045_08	請說。
+menu_movie_gam045_09	最後一個棋子放到空袋子裡的話就可以「取子」！
+menu_movie_gam045_10	可以獲得對方的棋子呢！
+menu_movie_gam045_11	如果其中一方的袋子裡面沒有棋子了，遊戲就結束。
+menu_movie_gam045_12	那終點棋子多的一方就獲勝對吧。
+menu_movie_gam045_13	剩下的，\x0e\x01\x06\x02\x02\xcd{s[140]}玩就知道了！{s[100]}
+menu_movie_gam045_14	好，我總覺得我會贏呢！
+menu_movie_gam045_15	{s[140]}取子{s[100]}
+menu_movie_gam045_16	取得對手袋子裡的棋子！
+menu_movie_gam045_17	{s[080]}終點{s[100]}
+menu_movie_gam045_19	1
+menu_movie_gam045_20	7
+menu_movie_gam045_21	空袋子
+menu_movie_gam046.msbt
+menu_movie_gam046_00	這是在做什麼？
+menu_movie_gam046_01	要猜出隱藏的大頭針是什麼顏色的推理遊戲。
+menu_movie_gam046_02	嗯～～
+menu_movie_gam046_03	你看這裡，
+menu_movie_gam046_04	咖啡色的「全對」大頭針是顏色和位置都對。
+menu_movie_gam046_05	嗯～嗯～
+menu_movie_gam046_06	白色的「半對」大頭針是只有猜中顏色的記號。
+menu_movie_gam046_07	那麼現在是顏色全部都對，但有兩個位置是錯的是吧。
+menu_movie_gam046_08	正是如此。
+menu_movie_gam046_09	嗯，紅色是絕對沒錯的……
+menu_movie_gam046_10	這樣如何！
+menu_movie_gam046_11	咦，有點不同了？
+menu_movie_gam046_12	嗯～～～\x0e\x01\x06\x02\x02\xcd那麼這樣如何！
+menu_movie_gam046_13	咦…真是奇怪啊……
+menu_movie_gam046_14	真是讓人心急啊！讓我來！
+menu_movie_gam046_15	不想動紅色的話就這樣……
+menu_movie_gam046_16	藍色是下面兩個的其中一個……應該是這個……
+menu_movie_gam046_17	我想和剛剛不一樣，所以紫色和白色交換……
+menu_movie_gam046_18	是這樣吧！
+menu_movie_gam046_19	哼哼～♪
+menu_movie_gam046_20	再、再一次！
+menu_movie_gam046_30	2全對！2半對！
+menu_movie_gam046_31	4全對！
+menu_movie_gam046_32	全對：猜對顏色和位置
+menu_movie_gam046_33	半對：只猜對顏色
+menu_movie_gam047.msbt
+menu_movie_gam047_00	來玩西洋骨牌！
+menu_movie_gam047_01	咦？不是排列的啊……
+menu_movie_gam047_02	嗯，不是排列而是連接喔。
+menu_movie_gam047_03	我想玩玩看～！
+menu_movie_gam047_03_2	我想玩玩看～！
+menu_movie_gam047_04	好，首先由我先放。
+menu_movie_gam047_05	連接手裡有同樣數字的牌。
+menu_movie_gam047_06	那麼連接６的……這個嗎？
+menu_movie_gam047_20	5對5……
+menu_movie_gam047_21	4對4……
+menu_movie_gam047_22	1對1……
+menu_movie_gam047_07	欸～沒有可以連接的牌？
+menu_movie_gam047_08	那就抽新的牌吧。
+menu_movie_gam047_09	我手裡沒有牌了，我贏了。
+menu_movie_gam047_10	欸～我們輸了～！？
+menu_movie_gam047_10_2	欸～我們輸了～！？
+menu_movie_gam047_11	哦，骨牌效應。
+menu_movie_gam048.msbt
+menu_movie_gam048_00	這是日本傳統的卡牌遊戲。
+menu_movie_gam048_01	以四季更迭為設計呢。
+menu_movie_gam048_02	一月是「松上鶴」。
+menu_movie_gam048_03	二月是「梅上鶯」。
+menu_movie_gam048_04	像這樣子從１月到１２月各有４張卡牌。
+menu_movie_gam048_05	也有根據季節而不同的花及動物呢。
+menu_movie_gam048_06	這是透過配對同種類的卡牌，
+menu_movie_gam048_07	做出許多牌型的遊戲喔！
+menu_movie_gam048_08	順便一提……
+menu_movie_gam048_09	順便一提？
+menu_movie_gam048_10	１２月「桐」的卡牌是……
+menu_movie_gam048_11	{s[120]}啊，任天堂！{s[100]}
+menu_movie_gam048_12	這是可以知道任天堂起源的卡牌遊戲！
+menu_movie_gam048_20	豬鹿蝶
+menu_movie_gam048_21	牌種列表
+menu_movie_gam048_22	1月
+menu_movie_gam048_23	2月
+menu_movie_gam048_24	3月
+menu_movie_gam048_25	4月
+menu_movie_gam048_26	5月
+menu_movie_gam048_27	6月
+menu_movie_gam048_28	Nintendo
+menu_movie_gam048_29	7月
+menu_movie_gam048_30	8月
+menu_movie_gam048_31	9月
+menu_movie_gam048_32	10月
+menu_movie_gam048_33	11月
+menu_movie_gam048_34	12月
+menu_movie_gam048_35	豬
+menu_movie_gam048_36	鹿
+menu_movie_gam048_37	蝶
+menu_movie_gam050.msbt
+menu_movie_gam050_00	在最後最靠近正中間的一方獲勝喔！
+menu_movie_gam050_01	我不會輸的～！
+menu_movie_gam050_02	啊，等等！不要擋在前面！
+menu_movie_gam050_03	呵呵呵……正如我所願。
+menu_movie_gam050_04	啊，糟了！
+menu_movie_gam050_05	直到最後一次出手都不能鬆懈呢。
+menu_movie_gam050_06	唔唔……真不甘心！
+menu_movie_gam051.msbt
+menu_movie_gam051_00	刺拳！刺拳！
+menu_movie_gam051_01	\ue001防禦！
+menu_movie_gam051_02	咻！咻！
+menu_movie_gam051_03	忍住……忍住……
+menu_movie_gam051_04	致命的……直拳！！
+menu_movie_gam051_05	就是現在！
+menu_movie_gam051_06	唔啊！！
+menu_movie_gam051_07	太棒了☆
+menu_movie_gam052.msbt
+menu_movie_gam052_00	彈戲是起源於印度的彈射遊戲。
+menu_movie_gam052_01	將自己顏色的硬幣彈進洞口吧！
+menu_movie_gam052_02	有點像是撞球對吧。
+menu_movie_gam052_03	要彈這個～
+menu_movie_gam052_04	要從這條線上彈喔。
+menu_movie_gam052_05	我是白色硬幣吧……好，要來了喔！
+menu_movie_gam052_06	接著輪到我了！
+menu_movie_gam052_07	這個也可以彈進去嗎？
+menu_movie_gam052_08	那個是＜王后＞喔。
+menu_movie_gam052_09	必須要在彈進最後一個硬幣之前將其彈進洞口。
+menu_movie_gam052_10	是喔，那我一定要彈進！
+menu_movie_gam052_11	嘿！
+menu_movie_gam052_12	太好了！！
+menu_movie_gam052_13	哦～真有一手！
+menu_movie_gam052_14	如果繼續彈進自己的硬幣，就是＜掩護＞成功。
+menu_movie_gam052_15	好，要彈了喔～！
+menu_movie_gam052_16	嘿！
+menu_movie_gam052_17	哇～進了！我贏了！
+menu_movie_gam052_18	恭喜！！太好了！
+menu_movie_gam052_19	……欸那個，姊姊？
+menu_movie_gam052_20	嗯？
+menu_movie_gam052_21	仔細一看，姊姊一個都沒有彈進？
+menu_movie_gam052_22	……哈哈哈，被發現了。
+menu_movie_gam052_30	王后
+menu_movie_gam052_31	王后 進袋！
+menu_movie_gam052_32	掩護 挑戰中
+menu_movie_gam052_33	掩護成功！
+menu_movie_gam053.msbt
+menu_movie_gam053_00	需要……說明嗎？
+menu_movie_gam053_01	不需要喔。
+menu_movie_gam053_02	……
+menu_movie_gam053_03	……
+menu_movie_gam053_04	把臉靠近檯面，吹出來的風很舒服♪
+menu_movie_gam053_05	感想是這個！？
+menu_movie_gam054.msbt
+menu_movie_gam054_00	這就是所謂的「落下型益智遊戲」吧。
+menu_movie_gam054_01	６個同樣顏色的珠子碰在一起就會消失。
+menu_movie_gam054_02	好，累積堆疊到上面就輸了對吧。
+menu_movie_gam054_03	Ready～GO！！！
+menu_movie_gam054_03_2	Ready～GO！！！
+menu_movie_gam054_04	{s[120]}來了喔，大招式！{s[100]}
+menu_movie_gam054_21	哇～來了一堆！
+menu_movie_gam054_05	輸了～
+menu_movie_gam054_06	如何～我很強吧？
+menu_movie_gam054_07	哎呀，真是漂亮！
+menu_movie_gam054_08	弄錯重點了吧！？
+menu_movie_gam054_20	{s[140]}六角！{s[100]}
+menu_movie_gam054_22	\ue001：向左轉動     ：向右轉動
+menu_movie_gam055.msbt
+menu_movie_gam055_00	兩人一起合作打倒敵人吧！
+menu_movie_gam055_01	哦～！
+menu_movie_gam055_02	哇～攻過來這邊了！
+menu_movie_gam055_03	好，我趁現在從後面……\x0e\x01\x06\x02\x02\xcd這樣！
+menu_movie_gam055_05	哦～～～！\x0e\x01\x06\x02\x01\xcd太棒啦！打倒了！！
+menu_movie_gam055_05_2	哦～～～！\x0e\x01\x06\x02\x01\xcd太棒啦！打倒了！！
+menu_movie_gam055_06	敵人
+menu_movie_gam055_07	追過來了！
+menu_movie_gam055_08	我現在就去救你～！
+menu_movie_gam055_ttm.msbt
+menu_movie_gam055_ttm_00	我是戰車隊的司令官！
+menu_movie_gam055_ttm_01	全體集合！
+menu_movie_gam055_ttm_02	Yes,Sir！
+menu_movie_gam055_ttm_02_2	Yes,Sir！
+menu_movie_gam055_ttm_02_3	Yes,Sir！
+menu_movie_gam055_ttm_03	接下來全軍攻擊敵人戰車部隊！
+menu_movie_gam055_ttm_04	Yes,Sir！
+menu_movie_gam055_ttm_04_2	Yes,Sir！
+menu_movie_gam055_ttm_04_3	Yes,Sir！
+menu_movie_gam055_ttm_05	全員各就各位！
+menu_movie_gam055_ttm_06	Yes,Sir！
+menu_movie_gam055_ttm_06_2	Yes,Sir！
+menu_movie_gam055_ttm_06_3	Yes,Sir！
+menu_movie_gam055_ttm_07	好，出擊！
+menu_movie_gam055_ttm_08	Yes,Sir！
+menu_movie_gam055_ttm_08_2	Yes,Sir！
+menu_movie_gam055_ttm_08_3	Yes,Sir！
+menu_movie_gam055_ttm_09	被敵人坦克包圍了！
+menu_movie_gam055_ttm_10	從這裡……唔哇～！！
+menu_movie_gam055_ttm_11	司令官……全、全滅。
+menu_movie_gam055_ttm_12	唔唔唔……不行了啊。
+menu_movie_gam055_ttm_13	司令官，重新制定戰略吧！
+menu_movie_gam055_ttm_14	好！那麼……
+menu_movie_gam055_ttm_15	首先全員一起攻擊敵人Boss坦克……
+menu_movie_gam055_ttm_16	之後，再將其他敵人各個擊破！
+menu_movie_gam055_ttm_17	司令官，這樣跟剛剛是一樣的！
+menu_movie_gam055_ttm_18	嗯～唔～那麼……
+menu_movie_gam055_ttm_19	這樣的話，就可以按照順序打倒敵人戰車了！
+menu_movie_gam055_ttm_20	真不愧是司令官～☆
+menu_movie_gam055_ttm_21	呵呵呵……那麼，出擊！！
+menu_movie_gam055_ttm_22	Yes,Sir！
+menu_movie_gam055_ttm_22_2	Yes,Sir！
+menu_movie_gam055_ttm_22_3	Yes,Sir！
+menu_movie_gam055_ttm_23	Boss
+menu_movie_gam056.msbt
+menu_movie_gam056_00	真可惜。
+menu_movie_gam056_01	等、等一下，再一次！
+menu_movie_gam056_02	……
+menu_movie_gam056_03	今天狀況不太好啊。
+menu_movie_gam056_04	射中靶的中心就可以了吧？我來！
+menu_movie_gam056_05	朝向目標筆直地……
+menu_movie_gam056_06	嗯。
+menu_movie_gam056_07	投擲時，仔細注意地瞄準……
+menu_movie_gam056_08	這樣？
+menu_movie_gam056_09	太好了～真簡單♪
+menu_movie_gam056_10	厲害厲害！
+menu_movie_gam056_11	看來你挺擅長教學呢～（嘻嘻）
+menu_movie_gam056_12	……
+menu_movie_gam056_13	1
+menu_movie_gam056_14	3
+menu_movie_gam056_15	雙倍紅心區
+menu_movie_gam101.msbt
+menu_movie_gam101_00	來玩快速接龍吧～！
+menu_movie_gam101_01	來玩！來玩～！！
+menu_movie_gam101_02	發牌了喔～
+menu_movie_gam101_03	要快速地放上相鄰數字的牌。
+menu_movie_gam101_04	好～要來了喔～！！
+menu_movie_gam101_05	那麼，開始！
+menu_movie_gam101_06	能夠發揮反射神經和瞬間判斷的激烈戰鬥！
+menu_movie_gam101_07	喂喂，不要看別的地方喔！
+menu_movie_gam101_08	啊，真狡猾！！！
+menu_movie_gam102.msbt
+menu_movie_gam102_00	來玩記憶卡牌吧！
+menu_movie_gam102_00_2	來玩記憶卡牌吧！
+menu_movie_gam102_01	好喔♪
+menu_movie_gam102_02	我們兩個一起，這是大人對小孩的對戰！
+menu_movie_gam102_03	好，我不會輸的！
+menu_movie_gam102_04	從我開始！
+menu_movie_gam102_05	錯了……
+menu_movie_gam102_06	那換我了。
+menu_movie_gam102_07	算了，才剛開始嘛。
+menu_movie_gam102_08	接著換我～！
+menu_movie_gam102_09	呵呵呵☆
+menu_movie_gam102_10	還要繼續喔～！
+menu_movie_gam102_11	咦～！？已經不記得了！
+menu_movie_gam102_12	多謝提示♪
+menu_movie_gam102_13	不要小看大人的……記‧憶‧力♪
+menu_movie_gam102_14	真狡猾～！！
+menu_movie_gam102_14_2	真狡猾～！！
+menu_movie_gam103.msbt
+menu_movie_gam103_00	互相拿出各自的牌。
+menu_movie_gam103_01	牌的數字比較大的一方可以拿走牌。
+menu_movie_gam103_02	超級簡單的撲克牌遊戲。
+menu_movie_gam103_03	我贏了！
+menu_movie_gam103_04	反對戰爭，愛與和平。
+menu_movie_gam103_05	跟愛又沒有關係。
+menu_movie_gam104.msbt
+menu_movie_gam104_00	請給我１０個章魚燒♪
+menu_movie_gam104_00_2	請給我１０個章魚燒♪
+menu_movie_gam104_01	多謝惠顧！來～自己做。
+menu_movie_gam104_02	咦！？
+menu_movie_gam104_03	由你們來做啊，章魚燒。
+menu_movie_gam104_04	要怎麼做呢？
+menu_movie_gam104_05	從這牌堆中，
+menu_movie_gam104_06	抽出一張牌……
+menu_movie_gam104_07	{s[120]}原來是撲克牌啊！{s[100]}
+menu_movie_gam104_07_2	原來是撲克牌啊！
+menu_movie_gam104_08	抽出來的牌如果是Ａ～１０的話，
+menu_movie_gam104_09	翻開同樣號碼的公用牌。
+menu_movie_gam104_10	啊，像是章魚燒一樣。
+menu_movie_gam104_11	如果是還沒有翻開過的號碼，可以再翻一次。
+menu_movie_gam104_12	如果是花牌的話就結束。然後換對方。
+menu_movie_gam104_13	比對手先翻開１０張就獲勝對吧。
+menu_movie_gam104_14	嘿，久等了！１０個章魚燒，３００萬元♪
+menu_movie_gam104_15	{s[120]}這什麼鬼啦！！{s[100]}
+menu_movie_gam104_15_2	這什麼鬼啦！！
+menu_movie_gam105.msbt
+menu_movie_gam105_00	這是將手牌搭配場上的牌，湊成牌型的撲克牌遊戲。
+menu_movie_gam105_01	撲克牌遊戲……大人的遊戲呢。
+menu_movie_gam105_02	據說在歐美這是最受歡迎的玩法喔。
+menu_movie_gam105_03	哦～這樣啊。
+menu_movie_gam105_04	有兩張相同數字……一對啊。
+menu_movie_gam105_05	我什麼都沒有湊到。
+menu_movie_gam105_06	噓～不可以說出自己的牌！
+menu_movie_gam105_07	我知道了！
+menu_movie_gam105_08	嗯～～都沒有出現好牌啊～
+menu_movie_gam105_09	……
+menu_movie_gam105_10	……（湊到三張了，這個不錯！一決勝負吧！）
+menu_movie_gam105_11	……（這個，可以做出牌型嗎？）
+menu_movie_gam105_12	一決勝負！！\x0e\x01\x06\x02\x01\xcd
+menu_movie_gam105_12_2	一決勝負！！
+menu_movie_gam105_13	咦，是我……贏了？
+menu_movie_gam105_14	{s[120]}同、同花大順！？{s[100]}
+menu_movie_gam105_15	同花……那是什麼？
+menu_movie_gam105_16	喂～真的假的～
+menu_movie_gam105_33	一對
+menu_movie_gam105_35	三條
+menu_movie_gam105_36	同花大順
+menu_movie_gam105_37	三條：有三張同數字的牌
+menu_movie_gam105_38	同花大順：由同花色的10‧J‧Q‧K‧A所組成的牌型
+menu_movie_gam105_39	一對：有一組同數字的牌（2張）
+menu_movie_gam106.msbt
+menu_movie_gam106_00	真奇怪的名字。
+menu_movie_gam106_01	豬尾巴是捲捲的對吧？
+menu_movie_gam106_02	是啊。
+menu_movie_gam106_03	這個遊戲是將撲克牌排成一個圓圈……
+menu_movie_gam106_04	嗯。
+menu_movie_gam106_05	所以像是豬尾巴喔。
+menu_movie_gam106_06	原來是這樣！
+menu_movie_gam106_07	首先選擇一張牌放到場上。
+menu_movie_gam106_08	這樣子\x0e\x01\x06\x02\0\xcd對吧。
+menu_movie_gam106_09	不要是同花色就可以。
+menu_movie_gam106_10	如果是同花色的話？
+menu_movie_gam106_11	場上的牌就得全部拿走。
+menu_movie_gam106_12	{s[140]}噗～☆{s[100]}
+menu_movie_gam107.msbt
+menu_movie_gam107_00	哦～終於拿到一手好牌了～♪
+menu_movie_gam107_01	太好了～
+menu_movie_gam107_01_2	太好了～
+menu_movie_gam107_02	{s[140]}哇\x0e\x01\x06\x02\0\xcd哈\x0e\x01\x06\x02\0\xcd哈\x0e\x01\x06\x02\0\xcd哈！{s[100]}
+menu_movie_gam107_03	是的～領主大人！！
+menu_movie_gam107_03_2	是的～領主大人！！
+menu_movie_gam107_04	臣民們，給我繳納稅金啊！
+menu_movie_gam107_05	呀～\x0e\x01\x06\x02\x02\xcd請寬恕我～
+menu_movie_gam107_06	不行！\x0e\x01\x06\x02\0\xcd不行！\x0e\x01\x06\x02\0\xcd這我就收下了！
+menu_movie_gam107_07	相對的，這個就拿去吧！
+menu_movie_gam107_08	怎～\x0e\x01\x06\x02\0\xcd麼～會……\x0e\x01\x06\x02\x02\xcd（偷笑）\x0e\x01\x06\x02\x01\xcd　
+menu_movie_gam107_09	嘿\x0e\x01\x06\x02\0\xcd　嘿\x0e\x01\x06\x02\0\xcd　嘿\x0e\x01\x06\x02\0\xcd　嘿\x0e\x01\x06\x02\0\xcd　
+menu_movie_gam107_10	嘿～我等很久了。
+menu_movie_gam107_11	{s[140]}以　\x0e\x01\x06\x02\x01\xcd下　\x0e\x01\x06\x02\0\xcd\x0e\x01\x06\x02\x02\xcd剋　\x0e\x01\x06\x02\x01\xcd上{s[100]}
+menu_movie_gam107_12	哦哦哦哦哦～！！
+menu_movie_gam107_12_2	哦哦哦哦哦～！！
+menu_movie_gam107_13	怎～麼～會，我竟然輸了！！！
+menu_movie_gam107_14	{s[120]}下剋上 \x0e\x01\x06\x02\x02\xcd萬歲～！！{s[100]}
+menu_movie_gam107_14_2	下剋上萬歲～！！
+menu_movie_gam107_15	{s[140]}哇\x0e\x01\x06\x02\0\xcd哈\x0e\x01\x06\x02\0\xcd哈\x0e\x01\x06\x02\0\xcd哈！{s[100]}
+menu_movie_gam107_16	咦？
+menu_movie_gam107_16_2	咦？
+menu_movie_gam107_17	臣民們，給我繳納稅金啊！
+menu_movie_gam107_18	……\x0e\x01\x06\x02\0\xcd又來啊。
+menu_movie_gam107_18_2	……\x0e\x01\x06\x02\0\xcd又來啊。
+menu_movie_gam107_19	\ue01b3反擊
+menu_movie_gam107_20	下剋上
+menu_movie_gam108.msbt
+menu_movie_gam108_00	這個遊戲就好像是人生一樣。
+menu_movie_gam108_01	咦？這人在說什麼？
+menu_movie_gam108_02	根據時機，有時候拋出一切是必要的。
+menu_movie_gam108_03	手牌越早出完就算獲勝對吧。
+menu_movie_gam108_04	違抗世界的走向……
+menu_movie_gam108_05	喔……嗯。
+menu_movie_gam108_06	背叛以及傷害……
+menu_movie_gam108_07	是～是～
+menu_movie_gam108_08	有時候要嘗試停止……
+menu_movie_gam108_09	嗯，\x0e\x01\x06\x02\x01\xcd算是吧……
+menu_movie_gam108_10	然後最後是……
+menu_movie_gam108_11	然後最後是？
+menu_movie_gam108_12	{s[140]}最後一張牌！！{s[100]}
+menu_movie_gam108_12_2	最後一張牌！！
+menu_movie_gam108_13	不可以忘記這個口號。
+menu_movie_gam108_14	{s[140]}最後一張牌！！{s[100]}
+menu_movie_gam108_14_2	最後一張牌！！
+menu_movie_gam108_15	這些小孩是誰？
+menu_movie_gam108_16	給忘記的你\x0e\x01\x06\x02\x01\xcd懲罰！
+menu_movie_gam108_17	{s[140]}懲罰！！{s[100]}
+menu_movie_gam108_17_2	懲罰！！
+menu_movie_gam108_18	人生真是……艱難。
+menu_movie_gam108_27	{s[125]}反轉順序{s[100]}
+menu_movie_gam108_28	{s[125]}抽三張牌{s[100]}
+menu_movie_gam108_29	{s[125]}跳過{s[100]}
+menu_movie_gam108_31	{s[125]}懲罰{s[100]}
+menu_movie_gam108_32	順序會反轉回去。
+menu_movie_gam108_33	下一位要抽三張牌。
+menu_movie_gam108_34	跳過下一位。
+menu_movie_gam108_35	即將剩下最後一張牌時，如果忘記宣言，手牌要多加五張牌。
+menu_movie_gam108_36	要出和場上相同「數字」或「顏色」的牌。
+menu_movie_gam108_37	{c[ffcf0d]}\ue002「最後一張牌」宣言{c[555520]}
+menu_movie_gam109.msbt
+menu_movie_gam109_00	要發牌了。
+menu_movie_gam109_01	接近２１點的一方就獲勝，那麼開始吧！
+menu_movie_gam109_02	嗯～６點啊……\x0e\x01\x06\x02\x01\xcd離２１點還遠。
+menu_movie_gam109_03	還要抽牌嗎？
+menu_movie_gam109_04	我要！「要牌」！
+menu_movie_gam109_05	１６點……再一張！「要牌」！
+menu_movie_gam109_06	哦……２０點，一決勝負吧！　「停牌」！
+menu_movie_gam109_07	那麼，我的牌是……
+menu_movie_gam109_08	{s[120]}二十一點！{s[100]}\x0e\x01\x06\x02\x01\xcd我贏了。
+menu_movie_gam109_09	咦～！？
+menu_movie_gam109_10	目標是２１點的遊戲——二十一點，考驗你的勇氣！
+menu_movie_gam109_15	2 + 4 = 6
+menu_movie_gam109_16	6 + J(10)  = 16
+menu_movie_gam109_17	16 + 4 = 20
+menu_movie_gam109_18	K10+A11=21
+menu_movie_gam109_19	要牌
+menu_movie_gam109_20	停牌
+menu_movie_gam110.msbt
+menu_movie_gam110_00	來玩排七吧。
+menu_movie_gam110_01	來玩！來玩！
+menu_movie_gam110_01_2	來玩！來玩！
+menu_movie_gam110_02	是可以陪你玩啦。
+menu_movie_gam110_03	好囂張喔～
+menu_movie_gam110_03_2	好囂張喔～
+menu_movie_gam110_03_3	好囂張喔～
+menu_movie_gam110_04	那麼要發牌了喔。
+menu_movie_gam110_05	從我開始。首先是連接７的６或是８！
+menu_movie_gam110_06	嗯～～沒辦法出牌。過。
+menu_movie_gam110_07	我也過。
+menu_movie_gam110_08	我也過。
+menu_movie_gam110_09	我也過。
+menu_movie_gam110_10	啊，不能再過了，輸了～！
+menu_movie_gam110_11	抓住黑桃６不出的是誰啊～！？
+menu_movie_gam110_20	我輸了～
+menu_movie_gam110_12	好，是我贏了～♪
+menu_movie_gam110_13	果然是這傢伙！
+menu_movie_gam110_13_2	果然是這傢伙！
+menu_movie_gam110_13_3	果然是這傢伙！
+menu_movie_gam112.msbt
+menu_movie_gam112_00	這是單人遊戲「接龍」的代表作。
+menu_movie_gam112_01	首先將牌移動到數字連接的位置吧。
+menu_movie_gam112_02	紅色跟黑色的牌必須要交替呢。
+menu_movie_gam112_03	將場上的牌全部排完就過關了！
+menu_movie_gam112_04	啊～真暢快！
+menu_movie_gam112_05	【牌組】分開花色並以A→2……K的順序堆疊上去吧！
+menu_movie_gam113.msbt
+menu_movie_gam113_00	單人遊戲「接龍」的一種。
+menu_movie_gam113_01	把數字從Ｋ到Ａ排成一條龍。
+menu_movie_gam113_02	沒辦法再動的話，就選擇牌堆。
+menu_movie_gam113_03	嗯～有點困難呢……
+menu_movie_gam113_04	啊，但是只要這樣做的話……
+menu_movie_gam113_05	一旦迷上了就無法自拔。
+move_ProperNoun.msbt
+ProperNoun20	Nintendo Switch
+play_list.msbt
+pl_guide_01	[0] 返回
+pl_guide_04	\ue009
+pl_guide_05	\ue008
+pl_guide_06	[0] 放在這裡
+pl_guide_07	[0] 到個人人偶介面
+pl_guide_09	[0] 資料更新
+pl_guide_10	[0] OK
+pl_guide_11	[0] 調整位置
+pl_guide_12	[0] 更改位置/設定
+pl_mess_01	是
+pl_mess_03	否
+pl_mess_04	要更新世界上的人\x0d\n他們的資料嗎？？
+pl_mess_06	這個是個人人偶。\x0d\n可以透過它確認遊戲成績喔。
+pl_mess_07	嗯？這個聲音是……
+pl_connect_00	正在連線中……
+pl_myfigure_00	你喜歡的地方是？
+pl_filter_00	遊戲導遊
+pl_filter_01	等級相近的20個人
+pl_filter_02	喜歡相同食物的20個人
+pl_filter_04	想要相同東西的20個人
+pl_filter_06	好友
+pl_filter_07	最近一起玩的人
+pl_profile_00	\ue002 請這個導遊來
+pl_profile_21	\ue002 請這個人偶來
+pl_profile_20	 選擇推薦遊戲
+pl_profile_01	[n0]
+pl_select_00	[0]
+pl_select_02	[0]
+pl_time_01	----/--/-- --：--
+pl_time_02	[0]/[1]/[2] [3][4]:[5][6]
+pl_name_00	[n0]
+pl_present_pop_00	撲克牌非常有趣對吧～
+pl_present_pop_01	玩記憶卡牌的時候很開心對吧？
+pl_present_pop_02	花牌非常漂亮呢。
+pl_present_pop_03	那個，你還玩得開心嗎？
+pl_present_pop_04	你最喜歡哪一副撲克牌呢？
+pl_present_pop_05	你知道記憶卡牌的秘密嗎？
+pl_present_pop_06	順便跟你說……
+pl_present_pop_07	你就是世界遊戲大師！！
+pl_present_pop_08	將新的撲克牌送給你！
+pl_present_pop_09	這個禮物就送給你吧！
+pl_present_pop_10	來，請收下我的禮物！
+pl_present_pop_11	我的禮物是最棒的！
+pl_present_pop_12	我喜歡的遊戲是排七。
+pl_present_pop_13	改變卡牌的配對牌數來玩\x0d\n也非常有趣喔～
+pl_present_pop_14	我還沒有湊齊過五光來和一次牌呢～
+pl_present_pop_15	從今以後你也是遊戲導遊了！
+pl_present_btn_00	 拿取
+pl_present_btn_01	 製作人員名單
+pl_present_mess_00	撲克牌的設計變成瑪利歐風格了！
+pl_present_mess_01	記憶卡牌用的牌改成瑪利歐卡牌了！
+pl_present_mess_02	花牌的設計變成瑪利歐風格了！
+pl_first_mess_00_sub	個人人偶的內容會對其他玩家公開。
+pl_first_mess_01	看來第一位遊戲導遊\x0d\n來到這裡了呢。
+pl_first_mess_02	請先試著玩玩看\x0d\n他們推薦的遊戲吧。
+pl_first_mess_03	那麼等等再見吧！
+pl_select_talk_00_00	世界上有許多不為人知\x0d\n卻又十分有趣的遊戲。
+pl_select_talk_00_01	先選擇可以馬上遊玩的遊戲吧。
+pl_select_talk_01_00	我喜歡觸碰畫面來輕鬆的玩遊戲。
+pl_select_talk_01_01	面對面地對戰一場吧！
+pl_select_talk_02_00	由我來向您介紹，會讓人想學怎麼玩的遊戲。
+pl_select_talk_02_01	請選擇雖然規則很難，\x0d\n但熟記之後會讓人覺得帥氣的遊戲。
+pl_select_talk_02_02	對於想玩簡單遊戲的人，\x0d\n我也會推薦撞球的「簡單規則」模式。
+pl_select_talk_03_00	在家用遊戲前出現的古老遊戲。
+pl_select_talk_03_01	這些都是日本的任天堂公司\x0d\n實際製作過的遊戲。
+pl_select_talk_03_02	從撲克牌遊戲中\x0d\n選取大富豪吧。
+pl_select_talk_04_00	我喜歡輕鬆的卡牌遊戲和撲克牌遊戲！
+pl_select_talk_04_01	大家都能享受其中的遊戲，真的很棒呢。
+pl_select_talk_05_00	我來介紹激烈的運動遊戲！
+pl_select_talk_05_01	要如何熟練地踢出角球，\x0d\n是足球取勝的關鍵。
+pl_select_talk_06_00	這邊收錄了能讓你忘記時間的遊戲。
+pl_select_talk_06_01	偶爾也享受一下\x0d\n能獨自靜心的奢侈時光吧。
+pl_select_talk_07_00	請容許我介紹歷史悠久的遊戲。
+pl_select_talk_07_01	在西元前曾有過一款遊戲，\x0d\n據說是雙陸棋的前身喔。
+pl_select_talk_08_00	這邊收錄了非常適合\x0d\n在室外遊玩的遊戲。
+pl_select_talk_08_01	例如說你可以一邊感受大自然，一邊揮竿釣魚。
+pl_select_talk_08_02	很適合在吃完飯後拿出來，\x0d\n悠閒地對戰一場的遊戲。
+pl_select_talk_09_00	我要介紹世界四大遊戲！
+pl_select_talk_09_01	在世界上擁有許多競技選手的遊戲，\x0d\n應該是西洋棋、雙陸棋、\x0d\n西洋骨牌和撲克牌喔。
+pl_select_talk_09_02	我在撲克牌的遊戲裡\x0d\n選了二十一點喔。
+pl_select_talk_10_00	我每天都會玩一次這邊的遊戲。
+pl_select_talk_10_01	贏的那一天或許會發生好事喔！
+pl_select_talk_11_00	能用4台一起玩，需要應對策略的遊戲。
+pl_select_talk_11_01	因為不知道對方手上有什麼牌，\x0d\n所以更讓人覺得緊張刺激！
+pl_select_talk_12_00	這些是只要精通了規則，\x0d\n就能成為專家的深奧遊戲。
+pl_select_talk_12_01	因為有許多要記的東西，\x0d\n一開始不會玩是當然的啦！
+pl_select_talk_12_02	一開始先輕鬆玩，\x0d\n之後慢慢理解的過程就會非常有趣！
+pl_select_talk_13_00	我喜歡可以馬上分出勝負的動作遊戲。
+pl_select_talk_13_01	想用反射神經來分勝負，爽快地玩一場！
+pl_select_talk_14_00	在長距離的空中之旅途中，\x0d\n常常拿出來玩的遊戲。
+pl_select_talk_14_01	即使機身搖晃棋子也不會掉，所以非常放心。
+pl_select_talk_15_00	對於想追求高分的人，\x0d\n我推薦這款遊戲。
+pl_select_talk_15_01	不停的練習，並變得熟練的過程非常有趣。
+pl_select_talk_15_02	你知道保齡球\x0d\n有挑戰規則嗎？
+pl_select_talk_16_00	這邊收集了只有1台主機，\x0d\n也可以3～4人一起玩的遊戲。
+pl_select_talk_16_01	建議大家可以打開電視，\x0d\n每個人各拿1隻Joy-Con來玩。
+pl_select_talk_17_00	這些是要跟朋友\x0d\n認真分勝負時常用的遊戲。
+pl_select_talk_17_01	就算現在輸了，只要每天勤奮地練習，\x0d\n下次一定能贏！
+pl_pop_name_00	[n0]
+pl_pop_name_01	[n0]
+pl_pop_new_00	New !
+pl_pop_new_01	New !
+pl_pop_myfigure_00	個人人偶
+result.msbt
+rst_mes03	Result
+rst_mes04	對局結束
+sb_result.msbt
+sb_result_1st	1st
+sb_result_2nd	2nd
+sb_result_3rd	3rd
+sb_result_4th	4th
+sb_result_order00	第[0]位
+slight_trump.msbt
+slight_trump_00	請翻開一張牌。
+slight_trump_01	請出一張牌。
+slight_trump_02	沒有可以出的牌了。
+slight_trump_03	[0]次命中！
+slight_trump_05	手牌較少的一方獲勝
+slight_trump_06	先出光手上的牌吧！
+slight_trump_07	收集大量的手牌吧！
+slight_trump_08	先湊齊１～１０的牌吧！
+slight_trump_09	找出相同數字的牌吧！
+solitaire_common.msbt
+solitaire_time00	[0][1]:[2][3]:[4][5]
+solitaire_stalemate00	沒有下一步了
+solitaire_stalemate00_no	重新來過
+solitaire_stalemate00_yes	繼續遊戲
+solitaire_button00	[0]返回上一步
+solitaire_button01	[0]輔助
+solitaire_button02	[0]提示
+solitaire_button03	[0]自動完成
+solitaire_button04	[0]切換視角
+solitaire_result_new	刷新記錄！
+solitaire_result_time00	過關時間
+solitaire_result_time	[0][1]:[2][3]:[4][5]
+solitaire_result_winning00	勝率
+solitaire_result_winning	 [0].[1]％
+solitaire_result_rank00	階級
+solitaire_mess00	沒有可提供的提示了
+staffcredits.msbt
+credit_title_00	Staff
+credit_end_00	Thank you for playing !
+credit_bezel_00	Made with NintendoWare Bezel Engine.
+credit_position_00	{c[fff475]}DIRECTOR{c[ffffff]}
+credit_position_01	{c[fff475]}DESIGN DIRECTORS{c[ffffff]}
+credit_position_02	{c[fff475]}GAME DESIGN{c[ffffff]}
+credit_position_03	{c[fff475]}CHIEF PROGRAM DIRECTOR{c[ffffff]}
+credit_position_04	{c[fff475]}PROGRAM DIRECTORS{c[ffffff]}
+credit_position_05	{c[fff475]}PROGRAM{c[ffffff]}
+credit_position_06	{c[fff475]}CHIEF ART DIRECTOR{c[ffffff]}
+credit_position_07	{c[fff475]}ART DIRECTORS{c[ffffff]}
+credit_position_08	{c[fff475]}ART{c[ffffff]}
+credit_position_09	{c[fff475]}CHIEF SOUND DIRECTOR{c[ffffff]}
+credit_position_10	{c[fff475]}SOUND DIRECTOR{c[ffffff]}
+credit_position_11	{c[fff475]}MUSIC DIRECTOR{c[ffffff]}
+credit_position_12	{c[fff475]}MUSIC{c[ffffff]}
+credit_position_13	{c[fff475]}SOUND EFFECTS{c[ffffff]}
+credit_position_14	{c[fff475]}SOUND SUPPORT{c[ffffff]}
+credit_position_15	{c[fff475]}SOUND COODINATION{c[ffffff]}
+credit_position_16	{c[fff475]}CHARACTER VOICES{c[ffffff]}
+credit_position_17	{c[fff475]}PACKAGE DESIGN{c[ffffff]}
+credit_position_18	{c[fff475]}TECHNICAL SUPPORT{c[ffffff]}
+credit_position_19	{c[fff475]}NOA LOCALIZATION MANAGEMENT{c[ffffff]}
+credit_position_20	{c[fff475]}NOA LOCALIZATION{c[ffffff]}
+credit_position_21	{c[fff475]}NOA COPY EDITING{c[ffffff]}
+credit_position_22	{c[fff475]}NOE LOCALISATION PRODUCERS{c[ffffff]}
+credit_position_23	{c[fff475]}NOE TRANSLATION{c[ffffff]}
+credit_position_24	TRANSLATION COORDINATION
+credit_position_25	ENGLISH SUPPORT
+credit_position_26	FRENCH TRANSLATION
+credit_position_27	ITALIAN TRANSLATION
+credit_position_28	GERMAN TRANSLATION
+credit_position_29	SPANISH TRANSLATION
+credit_position_30	DUTCH TRANSLATION
+credit_position_31	{c[fff475]}NHL LOCALIZATION{c[ffffff]}
+credit_position_32	COORDINATION
+credit_position_33	{c[fff475]}TRANSLATION{c[ffffff]}
+credit_position_34	{c[fff475]}QUALITY ASSURANCE{c[ffffff]}
+credit_position_35	{c[fff475]}ARTWORK SUPPORT{c[ffffff]}
+credit_position_36	{c[fff475]}iQue LOCALIZATION{c[ffffff]}
+credit_position_37	COORDINATION
+credit_position_38	{c[fff475]}TRANSLATION{c[ffffff]}
+credit_position_39	{c[fff475]}QUALITY ASSURANCE{c[ffffff]}
+credit_position_40	{c[fff475]}TESTING{c[ffffff]}
+credit_position_41	{c[fff475]}NOA PRODUCT TESTING{c[ffffff]}
+credit_position_42	{c[fff475]}NOE QUALITY ASSURANCE{c[ffffff]}
+credit_position_43	{c[fff475]}SPECIAL THANKS{c[ffffff]}
+credit_position_44	{c[fff475]}COORDINATION{c[ffffff]}
+credit_position_45	{c[fff475]}PROJECT MANAGER{c[ffffff]}
+credit_position_46	{c[fff475]}ASSOCIATE PRODUCER{c[ffffff]}
+credit_position_47	{c[fff475]}PRODUCERS{c[ffffff]}
+credit_position_48	{c[fff475]}GENERAL PRODUCERS{c[ffffff]}
+credit_position_49	{c[fff475]}EXECUTIVE PRODUCER{c[ffffff]}
+credit_name_00_00	Atsushi Nakao
+credit_name_01_00	Makoto Eguchi
+credit_name_01_01	Hiroyuki Seki
+credit_name_01_02	Ryo Yokomizo
+credit_name_01_03	Yuya Rokuyama
+credit_name_01_04	Takaki Kobayashi
+credit_name_02_00	Kunio Asahara
+credit_name_02_01	Masafumi Ojika
+credit_name_02_02	Takayuki Ide
+credit_name_02_03	Yukako Kawauchi
+credit_name_02_04	Yasuki Toyosawa
+credit_name_02_05	Akihito Sato
+credit_name_03_00	Tadao Shohyama
+credit_name_04_00	Akira Matsumoto
+credit_name_04_01	Atsushi Hamada
+credit_name_05_00	Izumi Fukuda
+credit_name_05_01	Takashi Iwanaga
+credit_name_05_02	Kenji Oohira
+credit_name_05_03	Akihiro Terada
+credit_name_05_04	Yasutaka Ikeda
+credit_name_05_05	Tomoaki Tanaka
+credit_name_05_06	Noriｆumi Hira
+credit_name_05_07	Satoshi Sakaguchi
+credit_name_05_08	Hikaru Hino
+credit_name_05_09	Takahiro Matsumoto 
+credit_name_05_10	Sayaka Matsumoto
+credit_name_05_11	Kana Mizota
+credit_name_05_12	Daizo Yamauchi
+credit_name_05_13	Souichiro Yamamoto 
+credit_name_05_14	Nobuya Wada
+credit_name_05_15	Hiroyuki Watanabe
+credit_name_05_16	Tetsuya Kimura
+credit_name_05_17	Hideki Horita
+credit_name_05_18	Shingo Takahashi
+credit_name_05_19	Yukihiko Tani
+credit_name_05_20	Shota Takahashi
+credit_name_05_21	Hiroyuki Horita
+credit_name_05_22	Norimasa Matsuura
+credit_name_06_00	Takahiro Karino
+credit_name_07_00	Hidenobu Sasaki
+credit_name_07_01	Ryoichi Okayama
+credit_name_08_00	Hideki Morinaga
+credit_name_08_01	Yasuhiro Ando
+credit_name_08_02	Yoshinori Ikeshita
+credit_name_08_03	Keisuke Izaki
+credit_name_08_04	Mikio Kita
+credit_name_08_05	Tsukasa Tanaka
+credit_name_08_06	Yurie Itou
+credit_name_08_07	Fumihiko Sugino
+credit_name_08_08	Takuya Tawaratsumida 
+credit_name_08_09	Sho Nakamura
+credit_name_08_10	Shohei Higashi
+credit_name_08_11	Akira Mizoguchi
+credit_name_08_12	Shinsuke Miyazaki
+credit_name_08_13	Chika Kawase
+credit_name_08_14	Takanori Goto
+credit_name_08_15	Masami Kodaira
+credit_name_08_16	Tomohisa Terabe
+credit_name_08_17	Kenta Kondo
+credit_name_08_18	Sumihiro Kawai
+credit_name_08_19	Kazuhiro Nagata
+credit_name_09_00	Ichiro Shimakura
+credit_name_10_00	Yuhki Mori
+credit_name_11_00	Chamy Ishi
+credit_name_12_00	Toshiki Aida
+credit_name_13_00	Yutaka Takahashi
+credit_name_13_01	Janjeff Aquinde
+credit_name_13_02	Masako Ishii
+credit_name_14_00	Takahiro Nagano
+credit_name_14_01	Taisuke Kobayashi
+credit_name_14_02	Naruki Kadosaka
+credit_name_15_00	Hiroyuki Tsuboguchi
+credit_name_15_01	Shinji Yoshikawa
+credit_language_00	JAPANESE
+credit_name_16_00	Ikuya Sawaki
+credit_name_16_01	Satoru Inoue
+credit_name_16_02	Yui Hashimoto
+credit_name_16_03	Sayaka Aida
+credit_name_16_04	Yukimi Hayase
+credit_language_01	ENGLISH
+credit_name_16_05	Tiana Camacho 
+credit_name_16_06	Alejandra Evette 
+credit_name_16_07	Scott Whyte 
+credit_name_16_08	Erin Yvette 
+credit_name_16_09	Apryl Kay Washington 
+credit_language_02	CHINESE
+credit_name_16_10	Li Chun Yin
+credit_name_16_11	Chen Rui Jie
+credit_name_16_12	Wu Qiu Yun
+credit_language_03	ITALIAN
+credit_name_16_13	Matteo Zanotti 
+credit_name_16_14	Ilaria Egitto
+credit_name_16_15	Valentina Pallavicino 
+credit_name_16_16	Cinzia Massironi 
+credit_language_04	FRENCH
+credit_name_16_17	Mathias Casartelli
+credit_name_16_18	Julie Turin 
+credit_name_16_19	B\xe9n\xe9dicte Rivi\xe8re
+credit_name_16_20	Catherine Desplaces
+credit_language_05	GERMAN
+credit_name_16_21	Bernd Vollbrecht
+credit_name_16_22	Kim Pfeiffer
+credit_name_16_23	Rieke Werner
+credit_name_16_24	Sebastian Fitzner
+credit_language_06	DUTCH
+credit_name_16_25	Thijs van Aken 
+credit_name_16_26	Lotte Horlings
+credit_name_16_27	Mandy de Lee
+credit_name_16_28	Viggo Neijs
+credit_language_07	SPANISH
+credit_name_16_29	Mariana Ort\xedz
+credit_name_16_30	Paola Fonseca
+credit_name_16_31	V\xedctor Ugarte
+credit_name_16_32	Oliver D\xedaz Barba
+credit_name_16_33	Sergio Guti\xe9rrez Coto
+credit_name_16_34	Jordi Salas
+credit_name_16_35	Maribel Pomar Arrana
+credit_name_16_36	Graciela Molina Ruiz
+credit_name_16_37	Carme Ambr\xf3s
+credit_company_02_00	SIDE UK
+credit_name_17_00	Shiori Adachi
+credit_name_17_01	Koichiro Hirano
+credit_name_17_02	Mitsuo Iwamoto
+credit_name_18_00	Nate Bihldorff
+credit_name_18_01	Reiko Ninomiya
+credit_name_18_02	Rich Amtower
+credit_name_18_03	Ann Lin
+credit_name_18_04	Tim O'Leary
+credit_name_18_05	Scot Ritchey
+credit_name_18_06	Billy Carroll
+credit_name_18_07	Owen Cooney
+credit_name_18_08	Rhiona Dey
+credit_name_18_09	Nich Maragos
+credit_name_18_10	Ayaka Osakabe
+credit_name_18_11	C\xe9sar P\xe9rez
+credit_name_18_12	Galia Rodr\xedguez Hornedo
+credit_name_18_13	Beth Studer
+credit_name_18_14	Sam AbouHarb
+credit_name_18_15	Yanett Cepeda Valor
+credit_name_18_16	Lara Gibran
+credit_name_18_17	Nicko Gonzalez De Santiago
+credit_name_18_18	Paloma Hernandez
+credit_name_18_19	Sara Hoad
+credit_name_18_20	Nina Legout
+credit_name_18_21	Carolina Quesada
+credit_name_18_22	Ludovic Tientcheu
+credit_name_18_23	Taryn Ziegler
+credit_name_19_00	Barbara Wallace
+credit_name_19_01	Iv\xe1n Garrido Gonz\xe1lez
+credit_name_19_02	Nils Dittbrenner
+credit_name_19_03	Martina Leonor Bassani
+credit_name_19_04	Pierre Sanchez
+credit_name_19_05	John Mullen
+credit_name_19_06	Matthew Fosbrook
+credit_name_19_07	Claire Stalter
+credit_name_19_08	Gurvan Le Guen
+credit_name_19_09	Florence d'Anterroches
+credit_name_19_10	Mirko Capocelli
+credit_name_19_11	Alessandro Pagano
+credit_name_19_12	Anna Tarantini
+credit_name_19_13	Frithjof Koepp
+credit_name_19_14	Benedikt Grosser
+credit_name_19_15	Martina Deimel
+credit_name_19_16	Alexander van de Bergh
+credit_name_19_17	Thomas Ito
+credit_name_19_18	Miguel Rodr\xedguez Ramos
+credit_name_19_19	Jos\xe9 Manuel Malag\xf3n Le\xf3n
+credit_name_19_20	Ainhoa Bernad Hurtado
+credit_name_19_21	Thomas den Haan
+credit_name_19_22	Patrick Koudstaal
+credit_name_19_23	Lennart Rotteveel
+credit_name_19_24	Marijke Pustjens
+credit_name_19_25	Suzanne Turgeon
+credit_name_19_26	Vincent Meijer
+credit_name_19_27	Carsten Harmans
+credit_name_20_00	Claudia Chan
+credit_name_20_01	Sean Shen
+credit_name_20_02	Wang Chung Long
+credit_name_20_03	Tracy Cheng
+credit_company_03_00	Pole To Win Singapore Pte. Ltd., Taiwan Branch
+credit_name_20_04	Mike Kan
+credit_name_21_00	Keisuke Fukushima
+credit_name_21_01	Qiu Xiao Chun
+credit_name_21_02	Xu Ming
+credit_name_21_03	Hu Hui Ming
+credit_company_03_01	Pole To Win Shanghai Co., Ltd.
+credit_name_22_00	Takeshi Tamura
+credit_name_22_01	Maki Yoshitake
+credit_name_22_02	Hayato Ookura
+credit_name_22_03	Kaori Kushima
+credit_name_22_04	Emika Yamamoto
+credit_name_22_05	Ayaka Onoda
+credit_company_01_00	Mario Club Co., Ltd.
+credit_name_22_06	Takayuki Miura
+credit_name_22_07	Yuki Watanabe
+credit_name_22_08	Koki Kuradomi
+credit_name_22_09	Takashi Yokoyama
+credit_name_22_10	Tetsuo Uchihori
+credit_name_22_11	Naoki Uchitoku
+credit_name_22_12	Makoto Yamaga
+credit_name_22_13	Go Fukuma
+credit_name_22_14	Gakuyo Senba
+credit_name_22_15	Takuma Onaka
+credit_name_22_16	Ryota Maeno
+credit_name_22_17	Keiji Okuda
+credit_name_22_18	Hideyuki Yamashita
+credit_name_22_19	Tetsuya Koga
+credit_name_22_20	Haruna Furumichi
+credit_name_22_21	Seiya Hamada
+credit_name_22_22	Takashi Miyazaki
+credit_name_22_23	Kenta Aoki
+credit_name_22_24	Yasuyuki Kuramochi
+credit_company_01_01	DIGITAL HEARTS Co., Ltd.
+credit_name_23_00	Rafael Arvilla
+credit_name_23_01	Frank Caraan
+credit_name_23_02	Lynsey Curulla
+credit_name_23_03	Patrick Fallin
+credit_name_23_04	Emily Gass
+credit_name_23_05	Zach Gerken
+credit_name_23_06	Robert Jahn
+credit_name_23_07	Jake Lokhom
+credit_name_23_08	Ashley Minor
+credit_name_23_09	Joseph Talbot
+credit_name_23_10	Andrew Von Arx
+credit_name_23_11	Marko Wallenius
+credit_name_24_00	Marco Gruden
+credit_name_24_01	Steffen Lotz
+credit_name_24_02	Jes\xfas Guti\xe9rrez Cuadra
+credit_company_03_03	NOE Quality Assurance Team
+credit_company_03_02	PTW International UK
+credit_name_25_00	Miyuki Hirose
+credit_name_25_01	Yoshiaki Onishi
+credit_name_25_02	Toru Osawa
+credit_name_25_03	Takayasu Morisawa
+credit_name_25_04	Tomoyoshi Yamane
+credit_name_25_05	Takeshi Tateishi
+credit_name_25_06	Team Cococii
+credit_name_25_07	Keisuke Terasaki
+credit_name_25_08	Jeff Miller
+credit_name_26_00	Hideki Sahashi
+credit_name_26_01	Shinji Shibasaki
+credit_name_26_02	Yuhei Tsukami
+credit_name_26_03	Satoshi Ezaki
+credit_name_26_04	Takuya Fujimoto
+credit_name_26_05	Yuki Konno
+credit_name_26_06	Kousuke Akashi
+credit_name_26_07	Keisuke Kasahara
+credit_name_26_08	Tomoaki Watanabe
+credit_name_26_09	Mari Inomata
+credit_name_26_10	Shizuka Abe
+credit_name_26_11	Toshifumi Sekijima
+credit_name_26_12	Takuya Funaki
+credit_name_26_13	Terue Yasunaga
+credit_name_26_14	Masahiko Yamada
+credit_name_26_15	Hayato Ogawa
+credit_name_26_16	Takamitsu Manabe
+credit_name_26_17	Saori Yamashita
+credit_name_26_18	Tsuyoshi Mizuguchi
+credit_name_26_19	Kazuhisa Okamoto
+credit_name_26_20	Arata Kobayashi
+credit_name_26_21	Osamu Tsuchihashi
+credit_name_26_22	Tatsumitsu Watanabe
+credit_name_26_23	Shinichi Nakata
+credit_name_26_24	Daisuke Izumi
+credit_name_26_25	Karin Kawakami
+credit_name_26_26	Osamu Tsujikawa
+credit_name_26_27	Shigeru Okita
+credit_company_00_00	NDcube Co., Ltd.
+credit_company_00_01	CA PRODUCTION Co., Ltd.
+credit_company_00_02	SmileBoom Co. Ltd.
+credit_company_00_03	T's MUSIC Co., Ltd.
+credit_company_00_04	ARTSVISION Co., Ltd.
+credit_name_27_00	Yoshinori Tsuchiyama
+credit_name_27_01	Makoto Okazaki
+credit_name_27_02	Tsutomu Komiyama
+credit_name_27_03	Shinya Saito 
+credit_name_27_04	Misaki Hiraga
+credit_name_27_05	Toshiaki Suzuki
+credit_name_27_06	Toyokazu Nonaka
+credit_name_27_07	Takashi Tezuka
+credit_name_27_08	Katsuya Eguchi
+credit_name_27_09	Shinya Takahashi
+credit_name_27_10	Shuichiro Nishiya
+credit_name_27_11	Shuntaro Furukawa
+sub_menu.msbt
+smenu_name	[n0]
+smenu_lv	[0]
+smenu_tab00	個人檔案
+smenu_tab01	獎牌
+smenu_tab02	小知識
+smenu_tab03	我的記錄
+smenu_tab04	遊玩次數
+smenu_tab05	與朋友遊玩的次數
+smenu_gam	[0]
+smenu_gam_rule	[0]：[1]
+smenu_medal00	[0]/
+smenu_medal01	[0]
+smenu_prfset02	[0]替換人偶
+smenu_prfset00	頭髮顏色
+smenu_prfset01	皮膚顏色
+smenu_prf00	喜歡的食物
+smenu_prf02	想要的東西
+smenu_prf03	我的最新記錄
+smenu_prfset_item00	[0]
+smenu_prf04_guide	[0] 選擇遊戲
+smenu_prfset_btn00	完成
+smenu_prf05	推薦的遊戲
+smenu_prf00_00	漢堡
+smenu_prf00_01	煙燻鮭魚
+smenu_prf00_02	墨西哥夾餅
+smenu_prf00_03	俄羅斯酸奶牛肉
+smenu_prf00_04	燉菜
+smenu_prf00_05	牛排
+smenu_prf00_06	炸魚薯條
+smenu_prf00_07	燉內臟
+smenu_prf00_08	香腸
+smenu_prf00_09	披薩
+smenu_prf00_10	蘋果派
+smenu_prf00_11	起司火鍋
+smenu_prf00_12	西班牙海鮮燉飯
+smenu_prf00_13	義大利麵
+smenu_prf00_14	薯條
+smenu_prf00_15	巧克力
+smenu_prf00_16	焗烤馬鈴薯
+smenu_prf00_17	高麗菜捲
+smenu_prf00_18	可樂餅
+smenu_prf00_19	羅宋湯
+smenu_prf00_20	生菜沙拉
+smenu_prf00_21	壽司
+smenu_prf00_22	烤肉串
+smenu_prf00_23	餃子
+smenu_prf00_24	韓式拌飯
+smenu_prf00_25	打拋肉飯
+smenu_prf00_26	印尼炒飯
+smenu_prf00_27	咖哩
+smenu_prf00_28	肉餡餅
+smenu_prf00_29	龍蝦
+smenu_prf02_00	寶石
+smenu_prf02_01	手錶
+smenu_prf02_02	服裝
+smenu_prf02_03	遊戲軟體
+smenu_prf02_04	玩具
+smenu_prf02_05	書籍與漫畫
+smenu_prf02_06	吉他
+smenu_prf02_07	布偶
+smenu_prf02_08	智慧型手機
+smenu_prf02_09	相機
+smenu_prf02_10	飾品
+smenu_prf02_11	公路腳踏車
+smenu_prf02_12	家
+smenu_prf02_13	狗
+smenu_prf02_14	貓
+smenu_prf02_15	身高
+smenu_prf02_16	游泳池
+smenu_prf02_17	多肉植物
+smenu_prf02_18	療癒
+smenu_prf02_19	天才般的頭腦
+smenu_prf02_20	別墅
+smenu_prf02_21	結實的腹肌
+smenu_prf02_22	絕對音感
+smenu_prf02_23	廚藝
+smenu_prf02_24	私人噴射機
+smenu_prf02_25	心靈感應能力
+smenu_prf02_26	時光機器
+smenu_prf02_27	永恆的生命
+smenu_prf02_28	愛
+smenu_prf02_29	全世界
+smenu_prf_none_00	???
+smenu_record_score00	[0]分
+smenu_record_score01	[0]
+smenu_record_score02	-[0]
+smenu_record_score03	[0]g
+smenu_record_score04	+[0]
+smenu_record_score05	\ue046合計[0]
+smenu_record_time00	[0]:[1][2]:[3][4]
+smenu_record_time01	[0]:[1][2].[3]
+smenu_record_time02	[0]秒
+smenu_record_none_00	----
+smenu_count_total	總遊玩次數
+smenu_count_friend	總遊玩次數
+smenu_count_runk_num	[0]
+smenu_count_gam	[0]
+smenu_count_friend_name	[n0]
+smenu_count_total_num	[0]次
+smenu_md_mess00	你的頭髮是什麼顏色？
+smenu_md_mess01	你的皮膚是什麼顏色？
+smenu_md_mess02	你喜歡的食物是？
+smenu_md_mess04	你想要的東西是？
+smenu_md_mess05	可以選取最多５款推薦的遊戲
+smenu_telop_00	選擇你的人偶吧。
+smenu_op_mess_00	這是我們所居住的地球。
+smenu_op_mess_01	在這個地球上，我們的祖先啊……
+smenu_op_mess_02	使用石頭和紙，製造了許多的遊戲。
+smenu_op_mess_03	要介紹「世界上遊戲」的人，就是我……
+smenu_op_mess_04	我是遊戲導遊拉賽爾，請多指教！
+smenu_op_mess_05	可以請你告訴我有關你的事嗎？
+smenu_fav_gam_00	[0]
+smenu_fav_button_00	\ue002 這樣就OK了
+smenu_guide_00	[0] 返回
+smenu_guide_01	[0] 消除1個
+smenu_guide_02	[0] 退出編輯
+system.msbt
+sys_score_num00	[0]
+sys_time00	[0]
+sys_time01	[0]:[1][2].[3]
+sys_time02	[0]
+sys_order_01	順序
+sys_order_02	[0]
+sys_user_name_00	[n0]
+sys_user_name_01	⋯
+sys_user_name_02	？？？？
+sys_guide_shake_01	揮得太用力了！
+sys_guide_turn_wait01	[n0] 操作中……
+sys_pause_gname	[0]
+sys_result_select04	結束
+sys_result_select05	繼續
+sys_result_select06	重新來過
+sys_result_select07	更改關卡
+sys_result_select10	以同樣的成員再玩一次
+sys_ready_ok_00	OK！
+sys_ready_ok_01	/
+sys_ready_s	先手
+sys_ready_g	後手
+sys_guide00	[0]  下一個
+sys_guide01	[0]  跳過
+sys_guide02	[0]   OK
+sys_guide03	[0]  結束
+sys_guide04	[0]  輔助ON
+sys_guide05	[0]  放棄
+sys_guide06	[0]  返回上一步
+sys_guide07	[0]  返回
+sys_guide09	[0]  危險區域
+sys_guide10	[0]  輔助OFF
+sys_guide11	回合
+sys_guide12	[0]
+sys_guide13	[0]/
+sys_guide14	CPU思考中
+sys_guide15	\ue007/\ue006　遊玩方式
+sys_guide16	[0]遊玩方式
+sys_guide17	[0]提示
+sys_guide18	[0]檢討
+sys_guide_icon01	
+sys_guide_icon02	\ue002
+sys_guide_icon03	\ue008/\ue009
+sys_guide_icon04	\ue003
+sys_guide_icon05	\ue001
+sys_guide_icon07	\ue005
+sys_guide_icon08	\ue008
+sys_guide_icon09	\ue009
+sys_guide_icon10	\ue047
+sys_guide_icon11	\ue048
+sys_guide_icon12	\ue007/\ue006
+sys_button_telop_01	已返回上一步
+sys_conf_default	你要放棄嗎？
+sys_conf_gam008	你要放棄嗎？
+sys_conf_gam009	你要放棄嗎？
+sys_conf_gam044	你要放棄嗎？
+sys_conf_back_01	要返回上一步嗎？
+sys_conf_back_02	正在等待其他玩家操作……
+sys_conf_back_03	要返回標題畫面嗎？
+sys_conf_yes	是
+sys_conf_no	否
+sys_victory_score	[0]
+sys_victory_score_2	[0]
+sys_victory_score_3	[0]分
+sys_victory_00	Winner!
+sys_victory_01	Lose...
+sys_victory_02	勝利
+sys_victory_03	敗北
+sys_victory_04	過關！
+sys_victory_05	失敗……
+sys_victory_06	Draw
+sys_victory_07	平手
+sys_victory_08	[0]
+sys_victory_09	Draw
+sys_victory_10	{c[ffffff]}[0]{c[ffffff]}
+sys_victory_11	[0]
+sys_victory_12	完全稱霸！
+sys_victory_13	1st
+sys_victory_14	2nd
+sys_victory_15	比賽結束
+sys_update01_00	贏過一般的CPU
+sys_update01_01	贏過稍強的CPU
+sys_update01_02	贏過強勁的CPU
+sys_update01_03	贏過超強的CPU
+sys_update01_04	以一般的CPU為對手得到第一名
+sys_update01_05	以稍強的CPU為對手得到第一名
+sys_update01_06	以強勁的CPU為對手得到第一名
+sys_update01_07	以超強的CPU為對手得到第一名
+sys_update01_08	贏過CPU
+sys_update01_09	以CPU為對手獲得第一名
+sys_update01_10	以簡單規則獲勝
+sys_update01_11	以9號球規則獲勝
+sys_update01_12	以8號球規則獲勝
+sys_update01_13	以計分規則獲勝
+sys_update01_14	以301規則獲勝
+sys_update01_37	以501規則獲勝
+sys_update01_15	以不同色答案過關
+sys_update01_16	以同色答案過關
+sys_update01_17	獲得100分
+sys_update01_18	1人遊玩3洞
+sys_update01_19	1人遊玩9洞
+sys_update01_20	在五計分格獲得50分
+sys_update01_21	在十計分格獲得100分
+sys_update01_22	遊玩挑戰球道獲得80分
+sys_update01_23	以烏龜獲得300分
+sys_update01_24	以兔子獲得300分
+sys_update01_25	過關一次初級
+sys_update01_26	過關一次中級
+sys_update01_27	過關一次高級
+sys_update01_28	以翻1張模式過關
+sys_update01_29	以翻3張模式過關
+sys_update01_30	初級過關
+sys_update01_31	中級過關
+sys_update01_32	高級過關
+sys_update01_33	關卡1過關
+sys_update01_34	關卡2過關
+sys_update01_35	關卡3過關
+sys_update01_36	在3分鐘內釣起2000g
+sys_update01_38	玩商數5規則時獲得第一名
+sys_update01_39	玩簡單規則時獲得第一名
+sys_win_total	\ue045
+sys_win_num	[0]
+sys_gam_num	[0]
+sys_gam_10game	最近玩的10種遊戲
+sys_win_guide00	[0] 關閉
+sys_win_guide01	[0] 重置
+sys_win_first	按下\ue007/\ue006鍵，\x0d\n可以確認遊戲的勝敗和成績。
+sys_step_gam009_01	試著移動步兵吧
+sys_step_gam009_02	試著移動棋子吧
+sys_step_gam009_03	試著將俘虜打入吧
+sys_step_gam009_04	以將軍為目標吧
+sys_step_gam008_01	移動士兵吧
+sys_step_gam008_02	移動騎士和主教吧
+sys_step_gam008_03	試著將軍對手吧！
+sys_step_gam042_01	記住如何「立直」吧
+sys_step_gam042_02	記住如何「叫牌」吧
+sys_step_gam042_03	試著完成「七對子」吧
+sys_match00	配對中……
+sys_match01	配對完成
+sys_match10	配對中……
+sys_match_time	[0]
+sys_match_gam	[0]
+sys_match_rule00	主要規則
+sys_match_rule01	[0]
+sys_match_rule01_item00	[0]
+sys_error_net00	發生通訊錯誤。
+sys_error_net01	鄰近主機通訊無法\x0d\n進行配對。
+sys_error_net02	無法在網路上\x0d\n進行配對。
+sys_error_net03	服務期間已結束。
+sys_error_net04	伺服器正在維修中。
+sys_error_net09	參加者離開了。
+sys_error_net10	找不到繼續遊玩的參加者。
+sys_error_net11	由於未與Nintendo Switch Online\x0d\n應用程式進行連動，\x0d\n無法進行語音聊天。
+sys_error_net12	找不到朋友。
+sys_error_net13	無法取得資料。
+sys_error_net14	無法進行語音聊天。
+sys_error_net15	正在進行網路處理……
+sys_error_net16	由於軟體版本過舊，無法進行通訊。\x0d\n請重新啟動並更新軟體。\x0d\n※重新啟動後，未儲存的內容將會消失。
+sys_error_net17	無法通訊。\x0d\n通訊對象須更新軟體。
+sys_strap_00	可以使用觸控或動感\x0d\n兩種操作方式遊玩！
+sys_strap_01	動感操作時先戴上腕帶\x0d\n再進行遊戲吧！
+sys_strap_03	\ue002 腕帶的穿戴方式
+voice.msbt

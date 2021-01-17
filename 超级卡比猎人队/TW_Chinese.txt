@@ -1,0 +1,3654 @@
+CheckSaveData.msbt
+CreateFile	正在建立{c[dc000d]}儲存資料{c[000000]}，\n請稍候片刻。
+CreateFileSuccess	已成功建立{c[dc000d]}儲存資料{c[000000]}。
+RepairData	{c[dc000d]}儲存資料{c[000000]}損毀。\n正在刪除並重新建立，\n請稍候片刻。
+ErrorOccured	發生{c[dc000d]}錯誤{c[000000]}。
+CommonUI.msbt
+DialogYes	是
+DialogNo	不是
+DialogOK	OK
+SaveInfoMessage	儲存中
+AccessInfoMessage	通訊中
+SkipText	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0跳過
+MelonCommon.msbt
+ComputerNum1	\x0e\x17\x01\0朋友1\x0f\x17\x01
+ComputerNum2	\x0e\x17\x01\0朋友2\x0f\x17\x01
+ComputerNum3	\x0e\x17\x01\0朋友3\x0f\x17\x01
+ComputerNum4	\x0e\x17\x01\0朋友4\x0f\x17\x01
+OtomoNum1	\x0e\x17\x01\0朋友1\x0f\x17\x01
+OtomoNum2	\x0e\x17\x01\0朋友2\x0f\x17\x01
+OtomoNum3	\x0e\x17\x01\0朋友3\x0f\x17\x01
+OtomoNum4	\x0e\x17\x01\0朋友4\x0f\x17\x01
+HelperNum1	\x0e\x17\x01\0玩家朋友1\x0f\x17\x01
+HelperNum2	\x0e\x17\x01\0玩家朋友2\x0f\x17\x01
+HelperNum3	\x0e\x17\x01\0玩家朋友3\x0f\x17\x01
+HelperNum4	\x0e\x17\x01\0玩家朋友4\x0f\x17\x01
+GemApple_purchase	是
+GemApple_cancel	不是
+DialogYes	是
+DialogNo	不是
+DialogOK	OK
+NetworkConfirmDialogText	將進行交換道具的確認。\n要連接到{c[dc000d]}網路{c[000000]}嗎？
+Disconnect1PJoyCon	{c[dc000d]}找不到{c[000000]}操作{c[dc000d]}1P{c[000000]}的控制器。
+ButtonGuide_01	\x0e\x04\x06\x022\0關閉
+ButtonGuide_02	\x0e\x04\x06\x022\0返回
+ButtonGuide_03	\x0e\x04\x07\x023\0人物簡介
+ButtonGuide_04	\x0e\x04\x08\x024\0選項
+ButtonGuide_05	\x0e\x04\x07\x023\0切換姿勢
+ButtonGuide_06	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0操作說明
+ButtonGuide_07	\x0e\x04\n\x02a\0前往防具
+ButtonGuide_08	\x0e\x04\t\x02`\0前往武器
+ButtonGuide_09	\x0e\x04\x08\x024\0試用
+ButtonGuide_11	\x0e\x04\x07\x023\0說明
+ButtonGuide_12	\x0e\x04\x07\x023\0強度
+ButtonGuide_13	\x0e\x04\x08\x024\0說明
+ButtonGuide_14	\x0e\x04\x08\x024\0報酬
+ButtonGuide_15	{c[fe9a10]}\x0e\x04\x07\x023\0任務內容{c[000000]}
+ButtonGuide_16	\x0e\x04\x08\x024\0圖章
+ButtonGuide_17	\x0e\x04\n\x02a\0輔助道具
+ButtonGuide_18	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0改變玩家人數
+ButtonGuide_19	\x0e\x04\x08\x024\0退出
+ButtonGuide_20	\x0e\x04\x07\x023\0重新開始
+ButtonGuide_21	\x0e\x04\x05\x021\0查看
+ButtonGuide_23	\x0e\x04\x07\x023\0全部使用
+ButtonGuide_24	\x0e\x04\x06\x022\0取消
+ButtonGuide_25	\x0e\x04\n\x02a\0更新列表
+ButtonGuide_26	\x0e\x04\x18\x02Å\0查看旅人
+MelonEquipArms.msbt
+SwordA0	新手之劍
+SwordB0	劍士之劍
+SwordB1	疾風之劍
+SwordC0	獨角獸劍
+SwordC1	緋紅劍
+SwordD0	黃金劍
+SwordE0	白金英雄劍
+SwordFn0	闇物質魔劍
+SwordFn1	龍帝翁
+SwordJk0	魚鋸
+SwordN0	騎士劍
+SwordN1	青金之劍
+SwordN2	白鷹之劍
+SwordN3	驚奇非凡劍
+SwordN4	蒼炎之劍
+SwordN5	鯊魚鋸
+SwordN6	深淵金屬刃
+SwordN7	異次元龍帝翁
+SwordN8	冥王之斬閃冥蝶
+SwordN9	星光劍
+HammerA0	新手之槌
+HammerB0	重戰士之錘
+HammerB1	獸錘
+HammerC0	恐龍錘
+HammerC1	獨眼巨人錘矛
+HammerD0	黃金錘
+HammerE0	白金重錘子
+HammerFn0	哇姆霸姆拳
+HammerFn1	闇意向鏡錘
+HammerJk0	幸福小槌
+HammerN0	英勇錘
+HammerN1	青金之錘
+HammerN2	白虎之錘
+HammerN3	驚奇非凡錘
+HammerN4	凝視者錘矛
+HammerN5	花開小槌
+HammerN6	深淵金屬錘
+HammerN7	D狂錘‧意向 復仇
+HammerN8	逆襲之錘‧改
+HammerN9	星光錘
+BeamA0	新手之杖
+BeamB0	魔法師之杖
+BeamB1	巫師神杖
+BeamC0	玫瑰神杖
+BeamC1	星空之杖
+BeamD0	黃金神杖
+BeamE0	白金魔法神杖
+BeamFn0	魔力繪畫墮落錫安神杖
+BeamFn1	魔力魔法洛亞神杖
+BeamJk0	魔法少女之杖
+BeamN0	術師神杖
+BeamN1	青金之杖
+BeamN2	白兔之杖
+BeamN3	驚奇非凡神杖
+BeamN4	克洛諾斯神杖
+BeamN5	皇女神杖
+BeamN6	深淵金屬神杖
+BeamN7	店主魔法洛亞神杖
+BeamN8	魔嚕酷之杖
+BeamN9	星光神杖
+DoctorA0	新手之燒瓶
+DoctorB0	學士之燒瓶
+DoctorB1	聖徒燒瓶
+DoctorC0	海水玻璃瓶
+DoctorC1	薩滿玻璃瓶
+DoctorD0	黃金玻璃瓶
+DoctorE0	白金治癒玻璃瓶
+DoctorFn0	啾啾燒瓶
+DoctorFn1	塔狼蛛玻璃瓶
+DoctorJk0	瘋狂燒瓶
+DoctorN0	醫生燒瓶
+DoctorN1	青金之燒瓶
+DoctorN2	白貓頭鷹之燒瓶
+DoctorN3	驚奇非凡燒瓶
+DoctorN4	治癒師之瓶
+DoctorN5	魅惑燒瓶
+DoctorN6	深淵金屬燒瓶
+DoctorN7	闇塔狼蛛玻璃瓶
+DoctorN8	塞昆托霓雅玻璃瓶
+DoctorN9	星光治癒玻璃瓶
+MelonEquipArmsDescription.msbt
+SwordA0	初出茅廬的劍士裝備的劍。\n就算碰到劍身\n也不會痛。
+SwordB0	獨當一面的劍士會用的劍。\n雖然沒有特殊的力量，\n但非常容易使用。
+SwordB1	寄宿著風之力量的劍。\n如同羽毛一般輕盈，\n能夠加快蓄力速度。
+SwordC0	聖獸之劍。利用聖獸角的力量，\n能夠提高蓄力速度\n與好友隕石的威力。
+SwordC1	代表著紅蓮鬥志的劍。\n劍身有如烈火般灼熱，\n以高攻擊力著稱。
+SwordD0	王國的遠古英雄\n曾揮舞過的黃金劍。\n能夠增強各種戰鬥能力。
+SwordE0	寄宿著神之力的傳說武器。\n充滿白金光輝，\n能斬裂世間萬物。
+SwordFn0	據說是把\n屬於黑暗劍士的劍。\n傳言他們潛伏於暗處，\n企圖將世界封鎖於黑暗中。
+SwordFn1	仿造勇敢的四頭龍\n頭上的角製成的劍。\n而龍帝亞本來則是一位\n心地善良的守護神。
+SwordJk0	一拿在手上就會\n充滿活力地躍動的鋸狀武器。\n為了別讓它亂動，\n還是小心為上。
+SwordN0	被允許進行戰鬥的劍士\n所使用的劍。\n只要能取得這把劍，\n就是名獨當一面的劍士。
+SwordN1	以湛藍寶石之力\n提高攻擊力的\n雙面刃。\n藍色的光澤非常美麗。
+SwordN2	有如純白老鷹，\n以速度著稱的劍。\n能夠加快蓄力速度。
+SwordN3	獨角獸劍升級後\n變得七彩繽紛。\n更容易取得碎片，\n而且還很可愛。
+SwordN4	據說是仿造\n傳說之龍噴出的藍色火焰\n錘鍊而成的劍。
+SwordN5	擁有銳利劍刃，\n會活蹦亂跳的鋸狀武器。\n比魚鋸更加銳利，\n擁有驚人的殺傷力。
+SwordN6	以深海底部\n找到的罕見金屬\n打造而成的利刃。\n能夠增強各種能力。
+SwordN7	劍上寄宿著\n來自異世界的龍帝亞之力。\n據說如果由邪惡之人拿起此劍，\n就會有災厄發生。
+SwordN8	依照據說無人知曉\n從何處飛來的極樂蝴蝶的模樣\n所鍛造的利劍。\n傳說此劍甚至能使出巨大斬閃。
+SwordN9	拯救了王國的勇者們\n秘密繼承的夢幻武器。\n據說只有在世界面臨危機時才會出現，\n是這世上最強的利劍。
+HammerA0	初出茅廬的重戰士\n所裝備的木槌，\n就算是新手也能輕易掌握。
+HammerB0	獨當一面的重戰士\n所裝備的錘子。\n能拿起它就代表學成出師了。
+HammerB1	貼著野獸的毛皮，\n風格狂野的錘子。\n能夠提升好友隕石的威力。
+HammerC0	利用遠古生物的骨頭\n打造而成的錘子。\n能夠加快蓄力速度。
+HammerC1	裝飾著水藍寶石，\n有如巨大獨眼的錘矛。\n能夠加快蓄力速度。
+HammerD0	遠古英雄曾經揮舞的黃金錘。\n能夠增強各種戰鬥能力。
+HammerE0	寄宿著神之力的\n傳說武器。\n據說只要那白金的錘頭一揮，\n就能輕易粉碎大地。
+HammerFn0	似乎是潛伏在地底深處的\n魔人的部分身軀。\n會給任何敵人\n一記強力的右鉤拳。
+HammerFn1	鏡之國的邪惡之心的錘子。\n在金色的鏡中國度裡，\n流傳著拯救危機的\n4名英雄的故事。
+HammerJk0	據說能夠招來福氣的小槌。\n只要一揮，寶藏就會蜂擁而來……\n雖然辦不到這種事情，\n但能夠增加取得的碎片。
+HammerN0	備受王國的錘子使用者喜愛，\n歷史悠久的武器。\n雖然用了輕盈的素材，\n卻能揮出沉重的打擊。
+HammerN1	帶有湛藍寶石\n不可思議力量的錘子。\n會讓持有者的力量湧現，\n使出強力一擊。
+HammerN2	寄宿著\n純白猛虎之力的錘子。\n不只能夠增加攻擊力，\n也能提高復活速度。
+HammerN3	以七色石打造而成，\n是把色彩繽紛，\n令人嘖嘖稱奇的錘子。\n更容易取得碎片。
+HammerN4	仿造擁有魔力的獨眼\n所製成的錘子。\n只要一瞪就能讓對方\n動彈不得……的話就厲害了！
+HammerN5	有如百花齊開般\n華麗的槌子。\n這把武器擁有旺盛的生命力，\n只要揮舞就能讓花朵盛放。
+HammerN6	以深海底部\n找到的罕見金屬\n打造而成的錘子。\n能夠增強各種能力。
+HammerN7	據說是讓世界墮入恐怖漩渦的\n黑暗之王的邪惡之錘。\n扭曲的黑鏡之力\n會增加持有者的力量。
+HammerN8	據說是大王\n曾經揮舞的巨錘。\n大王似乎是為了戰勝宿敵，\n才使用這把武器。
+HammerN9	拯救了王國的勇者們\n秘密繼承的夢幻武器。\n據說只有在世界面臨危機時才會出現，\n是這世上最強的錘子。
+BeamA0	初出茅廬的魔法師\n所裝備的法杖。\n用樸素的木材打造而成。
+BeamB0	獨當一面的魔法師\n所使用的法杖。\n鑲著能增強魔法力量的石頭。
+BeamB1	使用閃耀紫色光芒的\n高品質魔石\n注入魔力的法杖。
+BeamC0	法杖上裝飾著\n永不枯萎的玫瑰。\n擁有治癒的力量。
+BeamC1	蘊含宇宙奧秘的法杖。\n藉由星之力\n增強好友隕石的威力。
+BeamD0	蘊含遠古英雄強大魔力的法杖。\n能夠增強各種戰鬥能力。
+BeamE0	寄宿著神之力的傳說武器。\n這把杖所施展的魔法\n據說能夠停止\n任何對手的時間。
+BeamFn0	依照曾由繪畫魔女持有的\n魔法畫筆所製成。\n這畫筆所畫出的彩虹，\n將成為引導英雄的道路。
+BeamFn1	仿造來自遠方的旅人──\n魔法洛亞製成的法杖。\n想必他現在也在世上某處\n與遨翔天際的飛船旅行吧。
+BeamJk0	魔法少女用可愛姿勢\n揮舞的漂亮法杖。\n星光★閃耀\n轉轉圈圈鈴！
+BeamN0	受王宮雇用的魔法師\n所使用的法杖。\n碩大的紅寶石\n能夠增強使用者的魔力。
+BeamN1	擁有湛藍寶石\n不可思議力量的法杖。\n不只能提高攻擊力，\n也能提高蓄力速度。
+BeamN2	以純白的兔子為形象\n所打造的魔法之杖。\n能夠增強各種能力。
+BeamN3	在最前端飾有\n世上罕見的七彩玫瑰，\n是把能夠增強魔力的法杖。\n擁有七彩繽紛的外表。
+BeamN4	能夠操控時間的魔法之杖。\n據說擁有在時空中旅行的能力。
+BeamN5	和美麗的魔法公主\n十分相配的華麗法杖。\n亮晶晶★鑽石\n既高雅又珍貴！
+BeamN6	以深海底部\n找到的罕見金屬\n打造而成的法杖。\n能夠增強各種能力。
+BeamN7	雖然是雜貨店祈求生意興隆\n所打造的紀念品，\n但其實是把擁有隱藏力量，\n不為人知的強力法杖。
+BeamN8	以想要將星球據為己有的小丑\n為形象打造的法杖。\n只要握著這把法杖，\n就會有點想要惡作劇喔！
+BeamN9	拯救了王國的勇者們\n秘密繼承的夢幻武器。\n據說只有在世界面臨危機時才會出現，\n是這世上最強的法杖。
+DoctorA0	初出茅廬的學士\n都會裝備的\n平凡燒瓶。
+DoctorB0	獨當一面的學士使用的燒瓶。\n既輕便又耐用，\n因此受到許多人喜愛。
+DoctorB1	裝有聖水的燒瓶。\n能夠縮短復活的咒文\n所需要的詠唱時間。
+DoctorC0	擁有大海治癒力量的玻璃瓶。\n裝滿了寄宿著\n生命之力的水。
+DoctorC1	異國術士所使用的玻璃瓶。\n能夠加快復活速度。
+DoctorD0	曾經治癒遠古英雄的黃金玻璃瓶。\n能夠增強各種戰鬥能力。
+DoctorE0	寄宿著神之力的\n傳說武器。\n從瓶中湧出的秘藥，\n能夠治癒各種疾病與傷口。
+DoctorFn0	以某位神秘少女為形象\n所打造的燒瓶。\n愛情的力量\n能夠增強各種能力。
+DoctorFn1	仿造傀儡魔法師\n所打造的玻璃瓶。\n據說他的心意，\n從未傳達給侍奉之主。
+DoctorJk0	裝滿了\n危險液體的燒瓶。\n有流言指出\n是由某間企業生產的。
+DoctorN0	王國學士很愛使用的燒瓶。\n不但擁有治癒的力量，\n也能夠提升攻擊力。
+DoctorN1	注入湛藍寶石\n不可思議力量的燒瓶。\n提高了回復效果，\n擅長治癒的武器。
+DoctorN2	仿造純白的貓頭鷹\n所打造的燒瓶。\n如果仔細觀察，\n就能發現繪有貓頭鷹的臉。
+DoctorN3	以散發彩虹光芒的\n罕見玻璃\n打造而成的燒瓶。\n可以提高各種能力。
+DoctorN4	大量吸收了\n森林所含有的翠綠能量，\n玻璃製的四角瓶。
+DoctorN5	這個燒瓶內裝滿了\n能夠讓任何人\n對使用者著迷的液體。\n或許可以交到許多朋友？
+DoctorN6	以深海底部\n找到的罕見金屬\n打造而成的燒瓶。\n可以增強各種能力。
+DoctorN7	仿造從黑鏡誕生的\n另一名傀儡魔法師\n所打造的玻璃瓶。\n有著耀眼奪目的金髮。
+DoctorN8	仿造曾經支配天空之民的女王\n所打造的玻璃瓶。\n其對美麗的執著\n因為某面鏡子而加速。
+DoctorN9	拯救了王國的勇者們\n秘密繼承的夢幻武器。\n據說只有在世界面臨危機時才會出現。\n世上最強的玻璃瓶。
+MelonEquipCommon.msbt
+LevelText1	DX
+LevelText2	SDX
+UpBaseEquipNameText	\x0e\x02\x06\0\x0e\x02\x07\0
+ButtonText	\x0e\x02\x06\0\x0e\x02\x07\0
+LoHeaderRarityText	稀有
+UpBaseRarityText	稀有
+UpFunction01	復活速度
+UpFunction02	蓄力速度
+UpFunction03	取得素材
+MelonEquipHat.msbt
+SwordA0	新手之兜帽
+SwordB0	劍士之兜帽
+SwordB1	疾風之兜帽
+SwordC0	獨角獸帽盔
+SwordC1	緋紅帽盔
+SwordD0	黃金帽盔
+SwordE0	白金英雄帽盔
+SwordFn0	闇物質魔裝
+SwordFn1	龍帝翁帽盔
+SwordJk0	魚頭帽
+SwordN0	騎士帽盔
+SwordN1	青金之兜帽
+SwordN2	白鷹之兜帽
+SwordN3	驚奇非凡帽盔
+SwordN4	蒼炎之兜帽
+SwordN5	南洋魚頭帽
+SwordN6	深淵金屬帽盔
+SwordN7	異次元龍帝翁帽盔
+SwordN8	極樂之鱗羽冥蝶
+SwordN9	星光帽盔
+HammerA0	新手之頭盔
+HammerB0	重戰士之頭盔
+HammerB1	獸頭盔
+HammerC0	恐龍頭盔
+HammerC1	獨眼巨人頭盔
+HammerD0	黃金戰帽
+HammerE0	白金重戰帽
+HammerFn0	哇姆霸姆面罩
+HammerFn1	闇意向鏡冑
+HammerJk0	幸福頭巾
+HammerN0	英勇頭盔
+HammerN1	青金之頭盔
+HammerN2	白虎之頭盔
+HammerN3	驚奇非凡頭盔
+HammerN4	凝視者頭盔
+HammerN5	花開頭巾
+HammerN6	深淵金屬頭盔
+HammerN7	D狂冑‧意向 復仇
+HammerN8	逆襲之面罩‧改
+HammerN9	星光戰帽
+BeamA0	新手之帽子
+BeamB0	魔法師之帽子
+BeamB1	巫師帽
+BeamC0	玫瑰帽
+BeamC1	星空之帽子
+BeamD0	黃金帽
+BeamE0	白金魔法帽
+BeamFn0	繪畫墮落錫安帽
+BeamFn1	魔法洛亞帽
+BeamJk0	魔法少女造型
+BeamN0	術師風帽
+BeamN1	青金之帽子
+BeamN2	白兔之風帽
+BeamN3	驚奇非凡帽
+BeamN4	克洛諾斯帽
+BeamN5	皇女造型
+BeamN6	深淵金屬帽
+BeamN7	店主魔法洛亞帽
+BeamN8	魔嚕酷之帽子
+BeamN9	星光帽
+DoctorA0	新手之頭巾
+DoctorB0	學士之頭巾
+DoctorB1	聖徒冠帽
+DoctorC0	海水冠帽
+DoctorC1	薩滿冠帽
+DoctorD0	黃金冠帽
+DoctorE0	白金治癒面紗
+DoctorFn0	啾啾頭巾
+DoctorFn1	塔狼蛛帽
+DoctorJk0	瘋狂腦殼
+DoctorN0	醫生冠帽
+DoctorN1	青金之頭巾
+DoctorN2	白貓頭鷹之頭巾
+DoctorN3	驚奇非凡冠帽
+DoctorN4	治癒師之頭巾
+DoctorN5	魅惑眼鏡
+DoctorN6	深淵金屬冠帽
+DoctorN7	闇塔狼蛛帽
+DoctorN8	塞昆托霓雅裝飾面罩
+DoctorN9	星光治癒面紗
+MelonEquipHatDescription.msbt
+SwordA0	初出茅廬的劍士\n所裝備的兜帽。\n不要太期待它的防禦能力。
+SwordB0	獨當一面的劍士所使用的兜帽。\n隨風飄揚的赤紅帽飾\n會給予穿戴者勇氣。
+SwordB1	以飛羽為形象\n打造而成的輕巧兜帽。\n能夠加快蓄力速度。
+SwordC0	聖獸的帽盔。\n能夠提高蓄力速度\n與好友隕石的威力。
+SwordC1	代表著紅蓮鬥志的帽盔。\n有如烈焰騰空般\n守護穿戴者。
+SwordD0	遠古英雄的帽盔。\n閃爍著金黃色的光輝，\n能夠增強戰鬥方面的\n各種能力。
+SwordE0	寄宿著神之力的\n傳說防具。\n白金色的護甲上\n從來沒有留下過傷痕。
+SwordFn0	仿造獨眼魔劍士\n所打造的防具。\n看似頭髮的物體\n似乎其實是身體的一部分。
+SwordFn1	寄宿著四頭龍之力的帽盔。\n據說龍帝亞守護著\n某個古代文明的遺產。
+SwordJk0	以一種躲在其他生物體內的魚為形象\n所打造的防具。\n……這該不會是真正的魚吧？
+SwordN0	被允許戰鬥的劍士\n才能夠擁有的帽盔。\n火紅的顏色\n非常受到強者們喜愛。
+SwordN1	以湛藍寶石之力\n提高防禦力的\n劍士用兜帽。\n藍色的光澤非常美麗。
+SwordN2	以純白老鷹之羽為形象\n打造而成的兜帽。\n能夠加快蓄力速度。
+SwordN3	獨角獸帽盔\n變成更加時髦的模樣！\n更容易取得碎片，\n而且還很可愛！
+SwordN4	仿造藍色火焰所打造的兜帽。\n搖曳的火焰沉靜堅定地\n守護穿戴者。
+SwordN5	有如魚一般的防具。\n一開始可能會嚇一跳，\n但應該很快就會發現它的優點。
+SwordN6	以深海底部\n找到的罕見金屬\n打造而成的帽盔。\n能夠增強各種能力。
+SwordN7	仿造另一頭龍帝亞\n所打造的帽盔。\n受到不祥之冠的影響，\n力量失去控制。
+SwordN8	模仿黃泉騎士所打造的防具。\n據說是呼應銀河最強戰士\n傾盡生命的吶喊\n而降臨於世。
+SwordN9	據說只有在世界面臨危機時\n才會出現的夢幻防具。\n有如照亮黑夜的一縷希望之光，\n是這世上最強的帽盔。
+HammerA0	初出茅廬的重戰士\n所裝備的頭盔。\n作工有點不可靠。
+HammerB0	獨當一面的重戰士所使用的頭盔。\n雖然沒有特殊的力量，\n但性能已經足以應付戰鬥。
+HammerB1	使用了觸感優良的毛皮\n所製成的堅韌頭盔。\n能夠提升好友隕石的威力。
+HammerC0	利用遠古生物的骨頭\n打造而成的頭盔。\n能夠加快蓄力速度。
+HammerC1	將水藍寶石裝飾得\n有如獨眼的頭盔。\n能夠加快蓄力速度。
+HammerD0	為勇猛重戰士\n所打造的黃金戰帽。\n能夠增強各種戰鬥能力。
+HammerE0	寄宿著神之力的\n傳說防具。\n據說白金色的大角\n能夠彈開任何攻擊。
+HammerFn0	仿造哇姆霸姆岩石的臉孔\n打造而成的防具。\n雖然和本人相比小了很多，\n但其震撼力已十分足夠。
+HammerFn1	過去企圖支配鏡之國的人\n所裝備的裝甲。\n據說那邪惡的心思\n被一把利劍所打碎。
+HammerJk0	非常適合配上滿面微笑的招福頭巾。\n只要戴著它，\n臉上就會出現\n和頭巾相襯的鬍子。
+HammerN0	備受王國的錘子使用者喜愛，\n歷史悠久的頭盔。\n兩隻尖角與額上的寶石\n是勇氣與決意的證明。
+HammerN1	帶有湛藍寶石\n不可思議力量的頭盔。\n能夠提升好友隕石的威力。
+HammerN2	寄宿著純白猛虎之力的頭盔。\n不只能保護頭部，\n也能夠提高復活速度。
+HammerN3	上頭鑲有七色石，\n是頂色彩繽紛且令人嘖嘖稱奇的頭盔。\n更容易取得碎片。
+HammerN4	仿造擁有魔力的獨眼\n所打造的頭盔。\n在深綠外殼上閃爍的金色眼眸\n看起來威嚇力十足。
+HammerN5	有如百花齊開般華麗的頭巾。\n只要戴著它，\n臉上就會出現\n白色的鬍子。
+HammerN6	以深海底部\n找到的罕見金屬\n打造而成的頭盔。\n能夠增強各種能力。
+HammerN7	據說是讓世界墮入恐怖漩渦的\n黑暗之王的頭盔。\n復仇的怒火所帶來的力量\n增加了黑暗力量。
+HammerN8	仿造一心只想復仇的大王的面具\n所打造的頭盔。\n當大王認真想決一勝負時，\n所使用的防具。
+HammerN9	據說只有在世界面臨危機時\n才會出現的夢幻防具。\n有如照亮黑夜的一縷希望之光，\n是這世上最強的戰帽。
+BeamA0	初出茅廬的魔法師\n所裝備的帽子。\n作工相當簡單。
+BeamB0	獨當一面的魔法師\n所裝備的帽子。\n作工也非常適合長途旅行。
+BeamB1	使用了優質線材，\n織入護身魔法的帽子。
+BeamC0	寄宿著自然之力的帽子。\n擁有柔軟的質地及芬芳的香氣。\n能夠增強治癒能力。
+BeamC1	有如璀璨夜空的帽子。\n藉由星之力\n增強好友隕石的威力。
+BeamD0	遠古魔法師的帽子。\n藉由黃金之力，\n能夠增強\n各種戰鬥能力。
+BeamE0	寄宿著神之力的\n傳說防具。\n額上的寶石\n施有強力的守護魔法。
+BeamFn0	依照不知名繪畫上的帽子所製成。\n據說過去戴著這帽子的那位魔女，\n曾將整個世界變成繪畫。
+BeamFn1	來自異世界的旅人所穿戴的防具。\n一戴上連嘴巴都能遮住的這頂帽子，\n可能就會開始想要說謊。
+BeamJk0	隨處可見的平凡少女\n準備前往秘密戰鬥時的髮型。\n用亮晶晶★粉紅色\n來點綴得可愛一點吧！
+BeamN0	受王宮雇用的魔法師\n所戴的風帽。\n藍色絲綢的觸感也相當舒適。
+BeamN1	擁有湛藍寶石\n不可思議力量的帽子。\n能夠提高蓄力速度。
+BeamN2	仿造純白的兔子\n所製成的魔法風帽。\n上頭有著兔耳般的圖樣。
+BeamN3	裝飾著世上罕見的七彩玫瑰，\n能夠增強魔力的帽子。\n擁有花俏的外表。
+BeamN4	能夠操控時間的魔法帽子。\n據說擁有在時空中旅行的能力。
+BeamN5	與充滿勇氣與同理心，\n從來不會忘記笑容的你\n非常搭配的魔法假髮！\n用亮晶晶★頭飾變美麗！
+BeamN6	以深海底部\n找到的罕見金屬\n所製成的帽子。\n能夠增強各種能力。
+BeamN7	雖然是雜貨店的紀念品，\n但卻值得信賴的魔法帽子。\n裝備以後，身心都會變得潔白無暇，\n再也不會撒謊……可能吧。
+BeamN8	據說是最終BOSS的小丑\n很愛使用的魔法帽子。\n小丑曾經向銀河祈求，\n希望能將星球據為己有。
+BeamN9	據說只有在世界面臨危機時\n才會出現的夢幻防具。\n有如照亮黑夜的一縷希望之光，\n是這世上最強的帽子。
+DoctorA0	初出茅廬的學士\n所裝備的頭巾。\n性能並不好。
+DoctorB0	獨當一面的學士所使用的頭巾。\n白色的面紗就是\n學成獨立的治療師的證明。
+DoctorB1	與小型圓框眼鏡成套的\n神聖治療師冠帽。\n能夠加快復活速度。
+DoctorC0	充滿上古海水的冠帽。\n神秘的水之力\n能夠增強回復力。
+DoctorC1	異國術士的冠帽。\n上面貼著一張靈符，\n能夠加快復活速度。
+DoctorD0	引領人們走向正道的學士\n所使用的黃金冠帽。\n能夠增強各種戰鬥能力。
+DoctorE0	寄宿著神之力的傳說防具。\n隨著面紗飄盪，\n穿戴者能夠優雅地閃過強力攻擊。
+DoctorFn0	仿造過去一同冒險的朋友外型\n所製作的帽子。\n如果你覺得看起來好像在動，\n那一定是眼睛的錯覺。
+DoctorFn1	模仿銀髮親信髮型的帽子。\n因為戴著眼鏡的關係，\n感覺看起來更聰明了。
+DoctorJk0	仿造優秀科學家的腦袋\n所打造的防具。\n不過那顆腦袋\n其實只是個普通的玩具。
+DoctorN0	王國的學士很愛使用的冠帽。\n以紅色眼鏡來鞏固防守\n兼具魅力的一項防具。
+DoctorN1	使用了湛藍寶石的頭巾。\n提高了回復效果，\n擅長治癒的防具。
+DoctorN2	仿造純白的貓頭鷹\n所製成的頭巾。\n特徵是和燒瓶成套的\n貓頭鷹的臉龐。
+DoctorN3	以散發彩虹光芒的罕見絲線\n所織成的冠帽。\n和七彩繽紛的眼鏡成套。
+DoctorN4	草紋的美麗頭巾\n與成套的金框眼鏡，\n可以協助完成詠唱咒文的職責。
+DoctorN5	這是一副充滿愛的眼鏡，\n只要戴上就會想認識許多朋友。\n頭頂的愛心是力量的來源。
+DoctorN6	以深海底部\n找到的罕見金屬\n所製成的冠帽。\n可以增強各種能力。
+DoctorN7	將可憐的魔法師黑暗的一面\n具象化而成的帽子。\n與過去的主人的樣貌\n有點相似。
+DoctorN8	以美麗女王相關素材\n所打造的優雅面具。\n在她變成現在的樣貌前，\n據說與她的親信十分雷同。
+DoctorN9	據說只有在世界面臨危機時\n才會出現的夢幻防具。\n有如照亮黑夜的一縷希望之光，\n是這世上最強的面紗。
+MelonMenu.msbt
+BackBtnText	返回
+ChallengingQuest	試煉探索
+BossRankText2	高：
+BossRankText2nc	高：
+BossRankText5	{c[ffde00]}鬼{c[000000]}：
+BossRankText5nc	鬼：
+BossRankText6	{c[ff6400]}神{c[000000]}：
+BossRankText6nc	神：
+BossRankText7	{c[bf00ff]}超{c[000000]}：
+BossRankText7nc	超：
+BossRankText8	{c[ff0000]}極超{c[000000]}：
+BossRankText8nc	極超：
+BossCardRankText2	高級別
+BossCardRankText5	鬼級別
+BossCardRankText6	神級別
+BossCardRankText7	超級別
+BossCardRankText8	極超級別
+BestScoreText	最高分數
+BossNameTextGigantedge	龐大刃
+BossNameTextMisterfrosty	冰霜先生
+BossNameTextWhispyflowers	風語大樹
+BossNameTextVolgerom	火山蛙
+BossNameTextLandia	龍帝亞
+BossNameTextLandiaEx	龍帝亞EX
+BossNameTextLandiaAnother	異次元龍帝亞
+BossNameTextGranWaddledee	大型‧槍瓦豆魯迪
+BossNameTextGranKabu	大型‧石像怪
+BossNameTextGranKabuQBoard	雙重 大型隊伍
+BossNameTextGranHothead	大型‧熾熱頭
+BossNameTextGranHotheadQBoard	三重 大型隊伍
+BossNameTextTaranza	塔狼蛛
+BossNameTextMaskedBlackDedede	D大王‧意向
+BossNameTextMaskedBlackDededeQBoard	最終決戰
+BossNameTextMaskedBlackDededeQBoardAprExtremeDemon	真 最終決戰
+BossNameTextZankibble	彎刀騎士老大
+BossNameTextKracko	獨眼雲
+BossNameTextLowper	大洛啪
+BossNameTextBlocky	大塊頭
+BossNameTextBonkers	錘星猩
+BossNameTextIcedragon	冰龍
+BossNameTextKingsdoo	瓦豆魯篤老大
+BossNameTextPoisonboros	毒波洛斯
+BossNameTextTelepatris	傳送帕托利斯
+BossNameTextSusie	異次元蘇姿
+BossNameTextHelmehorn	盔角蟲
+BossNameTextSparkbonkers	電火花錘星猩
+BossNameTextTeam01	隊伍‧起始
+BossNameTextBlazeedge	炎刃
+BossNameTextNightmare	異次元夢魘
+BossNameTextTeam02	隊伍‧堅若磐石
+BossNameTextWaterfrosty	泳將先生
+BossNameTextTeam03	隊伍‧一刀兩半
+BossNameTextIcezankibble	凍霜彎刀騎士老大
+BossNameTextTeam04	隊伍‧敲金擊石
+BossNameTextThunderdragon	電龍
+BossNameTextFlamegalboros	火焰加爾波洛斯
+BossNameTextTeam05	隊伍‧冷若冰霜
+BossNameTextTeam06	隊伍‧三位一體
+BossNameTextTeam07	隊伍‧風刀霜劍
+BossNameTextGranPuruannaQBoard	四重 大型隊伍
+BossNameTextGranPuruanna	大型‧噗嚕鰻
+BossNameTextPoisonkracko	毒液獨眼雲
+BossNameTextSusieEx	Pres.異次元蘇姿
+BossNameTextNightmareEx	異次元夢魘 復仇
+BossNameTextGalacticknight	圍繞淵源的英雄
+BossNameTextGalacticknight_2	最終決戰
+BossNameTextGalacticknightEx	圍繞淵源的英雄 光
+BossNameTextGalacticknightEx_2	真 最終決戰
+BossNameTextTeam08	隊伍‧三重浮空
+BossNameTextTeam09	隊伍‧雙重擺動屁屁
+BossNameTextTeam10	隊伍‧三重怪獸
+BossNameTextVolgeromEx	火山蛙EX
+BossNameTextTeam11	隊伍‧三重元素
+BossNameTextMaskedBlackDededeEx	D大王‧意向 復仇
+BossNameTextGalacticknightEx2	圍繞淵源的英雄 闇
+BossNameTextGalacticknightEx2_2	真 最終決戰EX
+BossNameTextUnknown	???
+BossProfileTextUnknown	?????
+BossProfileTextGigantedgeNormal	手中利刃閃耀著太陽的光芒！\n龐大刃登場了！\n躲開他揮舞的巨劍吧！
+BossProfileTextBlazeedgeNormal	高舉火焰之劍的盔甲士兵\n擋在了獵人隊的面前！\n突破試煉探索吧！
+BossProfileTextBlazeedgeNormal2	高舉火焰之劍的盔甲士兵\n擋在了獵人隊的面前！\n同心協力打倒他吧！
+BossProfileTextBlazeedgeGod	撲克臉的火焰士兵\n隨時隨地都全力以赴！\n火氣不要那麼大嘛！
+BossProfileTextMisterfrostyNormal	寒冰野獸現身！\n趕在沙丘凍結以前\n打敗讓人困擾的傢伙吧！
+BossProfileTextMisterfrostyDemon	沸騰至赤紅的灼熱熔岩。\n回憶中故鄉的純白細雪。\n懷抱思鄉之情……使出冰凍頭錘！
+BossProfileTextWaterfrostyHard	今天想要去海邊玩耍？\n全新版本的寒冰野獸\n絕對能讓大家全身濕透！
+BossProfileTextWaterfrostyGod	即使來到了雲朵的盡頭，\n他也在這裡戲水！\n礙事的傢伙們全部濕透了！
+BossProfileTextWhispyflowersNormal	蓊鬱深林中的古跡之主。\n從沉睡中甦醒的古老大樹\n堵住了去路……！
+BossProfileTextWhispyflowersDemon	籠罩夜空的翠綠帷幕……\n古跡之主再度擋住去路！\n擊退那巨大的碩果吧！
+BossProfileTextVolgeromHard	火山之王現身！\n躲過暴雨般的火焰與岩漿，\n正面迎戰試煉探索吧！
+BossProfileTextVolgeromHard2	火山之王現身！\n躲過暴雨般的火焰與岩漿，\n正面迎戰灼熱的巨蛙吧！
+BossProfileTextVolgeromDemon	全力以赴的火山之王！\n再怎麼令人熱血沸騰的戰鬥\n都不如最後光榮凱旋……！
+BossProfileTextVolgeromExSuper	統治火山的王者，\n岩漿界的頂尖巨蛙\n向獵人隊襲來！
+BossProfileTextLandiaHard	英勇慈祥的守護神\n突然向王國發起了攻擊！\n冷靜下來啊……四頭龍！
+BossProfileTextLandiaDemon	四頭的天空守護者\n再次露出銳利的獠牙！\n仔細看清對方的動作，躲避攻擊吧！
+BossProfileTextLandiaAprAnotherDemon	遭到王冠之力吞噬的\n異世界飛龍……\n為其墮落之翼找回光明吧……！
+BossProfileTextLandiaExDemon	再度降臨的四頭守護神\n解放了真正的力量！\n這是代表決戰的試煉探索！
+BossProfileTextLandiaExGod	解放了王冠之力的四頭龍，\n龍帝亞EX！\n躲過來自四方的攻擊吧！
+BossProfileTextHelmehornNormal	最初的探索！\n打倒突然開始在海岸肆虐的\n巨大盔角蟲吧！
+BossProfileTextHelmehornNormal2	性格溫和的森林居民盔角蟲，\n突然巨大化之後在海岸肆虐！\n到底是誰做出這種事情？
+BossProfileTextHelmehornHard	響徹古跡的振翅聲！\n要小心對應他那\n自豪巨角的一擊！
+BossProfileTextHelmehornGod	巨大的尖角劃過天際！\n他變得更強以後再度回歸！\n躲過來自空中的一擊吧！
+BossProfileTextGranWaddledeeNormal	沉重的巨大瓦豆魯迪！\n善用長槍距離的遠程刺擊！\n一旦大意，就會被一「刺」解決！
+BossProfileTextGranKabuNormal	巨像「大型‧石像怪」現身！\n從頭頂砸下的巨大落石，\n這次攜手合作襲來！
+BossProfileTextGranHotheadHard	有一就有二，無三不成禮！\n這次加入了超高溫的熾熱頭！\n大塊頭們前來復仇！
+BossProfileTextGranPuruanna	大型隊伍再度登場！\n大型‧噗嚕鰻的水流\n向獵人隊襲來！
+BossProfileTextTaranzaHard	終於找到了魔法師的蹤跡！\n掙脫魔法之網，\n讓王國恢復和平吧！
+BossProfileTextTaranzaDemon	在不同位置間不斷傳送！\n使用魔法迷惑獵人隊！\n抓緊機會，將攻擊傾注在對方身上！
+BossProfileTextTaranzaSuper	最強級別的傀儡魔法師\n與身經百戰的獵人隊決戰！\n堂堂正正，一決勝負！
+BossProfileTextNightmareNormal	只要有騷動的地方，\n一定都會有那個斗篷男的蹤影……\n勇闖試煉探索，揭開他的真面目吧！
+BossProfileTextNightmareDemon	跟隨傳聞抵達了雲端……\n覺悟吧！斗篷魔法師！\n在試煉探索中好好教訓他！
+BossProfileTextNightmareGod	以次元斗篷籠罩夜空，\n用粗糙雙手施放強力魔法！\n好好見識異世界魔法師的真正力量吧！
+BossProfileTextNightmareExGod	過往的野心已經被狂怒吞噬，\n心裡只剩下恨意的男人\n等待著獵人隊到來……
+BossProfileTextNightmareExGod_after	復仇的斗篷魔法師\n喚醒了遠古英雄！\n銀河最強的存在阻礙了去路！
+BossProfileTextNightmareExSuper	魔法造詣登峰造極的異世界惡夢！\n為了讓眾人陷入永眠，\n施展復仇的一擊！
+BossProfileTextNightmareExUber	傷痕另一側的獨眼閃爍光芒，\n因憎恨而失控的瘋狂復仇者！\n他想要的只有……獵人隊的命！
+BossProfileTextMaskedBlackDededeDemon	斗篷魔法師打破了次元的界線，\n召喚出的敵人……是可怕的黑暗之王！\n守護王國的和平吧！卡比獵人隊！
+BossProfileTextMaskedBlackDededeGod	再次與黑暗之王相對！\n巨大眼球放出的光束\n將會橫掃獵人隊！
+BossProfileTextMaskedBlackDededeExUber	被喚醒的究極黑暗之王！\n僅有一縷希望之光能夠拯救王國，\n正是卡比獵人隊！前往大決戰吧！
+BossProfileTextZankibbleNormal	白銀盔甲現身！\n巨大利刃劃破空氣！\n識破那蓄力彎刀吧！
+BossProfileTextIceZankibbleHard	冰凍的藍色盔甲以嶄新姿態出現！\n寒冰利刃更加銳利，\n以優美的弧形逼近……！
+BossProfileTextZankibbleDemon	再度與白銀盔甲相遇！\n他擲出的巨大利刃，\n就連幻影都能切斷！
+BossProfileTextIceZankibbleGod	在草原現身的寒冰盔甲！\n巨大冰刃在空中飛舞，\n讓大地為之凍結！
+BossProfileTextKrackoHard	獵人隊，千萬小心！\n統治天空的雲之精靈\n將化身天災阻礙去路……！
+BossProfileTextPoisonKrackoDemon	毒時多雲偶陣雷！\n世上最可怕的氣象預報\n讓大家的表情無法放晴！
+BossProfileTextPoisonKrackoGod	帶有劇毒的雷雲\n會往地面散布瓦斯！\n仔細觀察、躲避、反擊！
+BossProfileTextPoisonKrackoSuper	傾注於深林的大雨\n化為令人畏懼的劇毒攻擊……\n讓這使大地腐爛的陰天轉晴吧！
+BossProfileTextLowperHard	出現在空中的怪異身影……\n似乎是受到這個世界的能量吸引，\n不知道是從何處闖來。
+BossProfileTextLowperDemon	來自遠方的迷途巨鳥再現！\n飛越次元的翅膀\n能夠融入漆黑的暗夜！
+BossProfileTextLowperGod	出於對能量的貪婪，\n怪鳥從異世界潛入王國！\n看穿他的動作，將其擊退吧！
+BossProfileTextBlockyNormal	頑固的傢伙出現了！\n注意它的動作與外表相反，\n出乎意料地迅速！
+BossProfileTextBlockyHard	頑固的岩塊，再度登場！\n在荒涼的岩地不斷滾動，\n既重又硬，讓人困擾的傢伙！
+BossProfileTextBlockyGod	還是一樣堅硬的傢伙！\n會以沉重身體震撼大地……\n躲開它的骰子突進吧！
+BossProfileTextSparkBonkersNormal	那個會讓爭執對象\n通通麻痺的傢伙颯爽登場！\n巨大的木槌會帶著雷霆一起砸下！
+BossProfileTextBonkersHard	纏繞著火焰的強力打擊！\n與狂野強者相約\n在沙丘決鬥！
+BossProfileTextBonkersDemon	在古老之地靜靜等待……\n與揮舞木槌的狂野鬥士\n一決死戰！
+BossProfileTextSparkBonkersDemon	王國廣為人知的惡棍\n變得更加狂暴！\n強大的電力已經讓他無人能擋！
+BossProfileTextSparkBonkersGod	他得到了更加強大的力量，\n揮舞出電光四射的攻擊！\n躲避閃電，將他打敗吧！
+BossProfileTextKingsdooNormal	那閃閃發光的圓潤大眼\n居然會射出光束！\n眼球型的敵人登場！
+BossProfileTextPoisonborosHard	滿身毒液的敵人登場！\n不只會到處噴灑冒泡毒液，\n還會不斷爬行衝撞！
+BossProfileTextPoisonborosGod	不斷出現的毒液敵人！\n它的毒液變得更加危險！\n用正義之力進行消毒吧！
+BossProfileTextPoisonborosSuper	玷污草原的不肖之徒！\n只是弄黏還沒有關係，\n但不可以到處亂吐垃圾！
+BossProfileTextFlamegalborosDemon	生於岩漿，長於火山！\n以吐火球當做招呼！\n如果輕易靠近我，可是會燙傷的！
+BossProfileTextFlamegalborosGod	奇粗無比的眉毛可以讓眼睛涼爽！\n火山出身的熱血存在！\n生氣時的鼻息也相當粗魯！
+BossProfileTextFlamegalborosSuper	超級別的敵人登場了！\n得到了更強的火力，\n纏繞著烈焰四處肆虐！
+BossProfileTextTelepatrisHard	擅長使用奇異力量的\n魔法生物登場了！\n小心來自空中的奇襲！
+BossProfileTextTelepatrisDemon	在空中飛舞的奇異敵人再度登場！\n識破從天而降的魔法，\n拿下這場讓人熱血沸騰的勝利吧！
+BossProfileTextTelepatrisGod	輕鬆飛舞著玩弄對手，\n奇異的空中魔法生物！\n預測動向，躲避魔法！
+BossProfileTextSusieDemon	從次元的裂縫降臨，\n來自遠方的美麗侵略者！\n擊退……未知文明的力量吧！
+BossProfileTextSusieGod	在空中飛舞的鋼鐵身軀！\n未知文明的武器\n毫不留情地朝獵人隊襲來！
+BossProfileTextSusieExGod	美貌與凶猛並存！\n降臨大地的異世界侵略者！\n不愧其Pres.之名……
+BossProfileTextSusieExSuper	美麗的侵略者再次降臨！\n在異空間徬徨後取得更強的力量，\n她到底希望用這股力量得到什麼呢……
+BossProfileTextIcedragonHard	從那龐然巨軀吐出的暴雪\n甚至能夠凍結草木！\n討伐寒冰之龍吧！
+BossProfileTextIcedragonDemon	為什麼我會在這裡……\n暴風雪之龍\n對著晴朗的天空長吼……！
+BossProfileTextIcedragonDemon2	讓帶有涼意的夜之沙丘\n變得更加寒冷的是冰之氣息！\n在結凍前打倒他吧！
+BossProfileTextThunderdragonHard	漆黑的眼眸與電流攻擊！\n纏繞在身上的不是寒冰而是電氣，\n他的名字叫做電龍！
+BossProfileTextThunderdragonDemon	古跡的居民全都逃跑了！\n那麻麻的電流攻擊讓人無法忍受！\n趕走電力之龍吧！
+BossProfileTextThunderdragonGod	他召喚的雷霆\n將會襲向所有敵對者！\n在他坐倒以後要小心空中！
+BossProfileTextThunderdragonSuper	呼喚閃電的飛龍再度登場！\n儲存在背板的百萬伏特，\n透過擺動尾巴四處飛散！
+BossProfileTextTeamBigins	搗蛋鬼們組成了隊伍！\n用眼球光束打招呼，\n接著使出寒冰般的頭錘！
+BossProfileTextTeamHardbodies	擅長突擊的麻煩對手\n這次組成隊伍襲來！\n要先躲開再從背後攻擊！
+BossProfileTextTeamCutinhalf	我從左到右，一刀兩半！\n我從上到下，一刀兩半！\n我們是──隊伍‧一刀兩半！
+BossProfileTextTeamRockhummers	碰！咚！低沉的聲音不輸浪潮聲，\n在四周不斷迴盪！\n沉重的那些傢伙組成隊伍登場！
+BossProfileTextTeamFridges	冰凍利刃與冷凍吐息組成強大的隊伍！\n連靈魂都會為之凍結──\n隊伍‧冷若冰霜！
+BossProfileTextTeamTriplets	眼球、巨角，還有黏糊糊的身體！\n是相當難以對付的3個對手！\n為什麼會組隊呢？三人組的原因是……
+BossProfileTextTeamSwordstorms	盔甲士兵喚來了雷雲！\n斬斷一切的利刃\n與狂風暴雨發起雙重攻擊！
+BossProfileTextTeamTripleAirs	魔法、異世界，還有糟糕的天氣！\n非常棘手的空中三人組\n躲過來自空中的攻擊吧！
+BossProfileTextTeamTwinhips	不停搖擺的兩個屁屁！\n既軟嫩又美麗的二人組\n為你獻上冰雪與急流的慶典騷動！
+BossProfileTextTeamTripleDragons	集結於超級別的3條龍！\n響徹沙丘的咆哮\n就是宣告激戰開始的號角！
+BossProfileTextTeamTripleElements	利刃與錘子的攻擊！\n炎、雷、冰……3種屬性齊聚，\n最強隊伍在此成立！
+BossProfileTextGalacticknightGod	復仇的斗篷魔法師\n喚醒了遠古英雄！\n銀河最強的存在阻礙了去路！
+BossProfileTextGalacticknightSuper	遠古英雄，銀河最強的戰士！\n獵人隊，無須畏懼！\n展現你們4人的力量吧！
+BossProfileTextGalacticknightExGod	圍繞淵源的英雄再度降臨！\n勇敢面對這場賭上世界命運的戰鬥吧！\n超級卡比獵人隊！
+BossProfileTextGalacticknightEx2Uber	失去光明，染上黑暗的遠古英雄……！\n出發吧！超級卡比獵人隊！\n為這不斷輪迴的戰鬥畫下終止符！
+JobBtnNameText1	英雄利劍
+JobBtnNameText2	魔法光束
+JobBtnNameText3	重錘子
+JobBtnNameText4	治癒醫生
+JobNameText1	英雄利劍
+JobNameText2	魔法光束
+JobNameText3	重錘子
+JobNameText4	治癒醫生
+JobDescriptionText1	{c[ff4b32]}攻守兼備{c[000000]}的劍士！\n在靈巧進攻的同時\n以手中的{c[ff4b32]}英雄盾\n{c[000000]}守護大家吧！
+JobDescriptionText2	能{c[ff4b32]}讓時間停止{c[000000]}的魔法師！\n與敵人拉開距離，\n讓{c[ff4b32]}時間光束{c[000000]}不斷命中，\n製造攻擊的機會！
+JobDescriptionText3	擁有{c[ff4b32]}最強力量{c[000000]}的重戰士！\n雖然速度比較慢，\n但是{c[ff4b32]}鬼殺火焰錘{c[000000]}\n擁有極高的攻擊力！
+JobDescriptionText4	{c[ff4b32]}輔助回復{c[000000]}的學士！\n能夠用{c[ff4b32]}治癒地帶{c[000000]}\n來協助同伴，\n並且連續使出各種攻擊！
+JobLevelText	等級
+JobTotalExpText	經驗值
+JobParamHpText	體力
+JobParamAtkText	攻擊
+JobParamCureText	回復
+JobParamMeteorText	好友隕石
+JobTotalExpValueText	\x0e\x02\x01\0
+JobNextExpValueText	\x0e\x02\x01\0
+JobNextLevelExpText	NEXT
+JobNextLevelExpFullText	MAX！
+MemberCheckDecideBtnText	出擊
+MemberCheckClientDecideBtnText	準備OK！
+MemberCheckClientDecideBtnText2	等待出擊
+MemberBtnLevelText	等級
+ConfirmDialogYesBtnText	是
+ConfirmDialogNoBtnText	不是
+ConfirmDialogWindowText	即將{c[dc000d]}出擊{c[000000]}探索。\n確定嗎？
+TitleSingleBtnText	故事\n{s[080]}探索{s[100]}
+TitleMultiBtnText	熱鬧\n{s[080]}探索{s[100]}
+WaiwaiBtnInetText	{s[100]}線上{s[100]}\n{s[080]}廣場{s[100]}
+WaiwaiBtnLocalText	鄰近主機\n{s[080]}通訊{s[100]}
+WaiwaiBtnSingleText	單人\n{s[080]}遊玩{s[100]}
+InetBtnOmakaseText	委託\n{s[080]}配對{s[100]}
+InetBtnErandeText	選擇\n{s[080]}配對{s[100]}
+InetBtnFriendText	朋友\n{s[080]}配對{s[100]}
+TipsNowLoadingText	Now Loading……
+TipsSword1HeaderText	英雄利劍的必殺技
+TipsSword1BodyText	長按\x0e\x04\x06\x022\0施展{c[ffde00]}迴旋斬{c[000000]}！\n最多可3段蓄力！
+TipsHammer1HeaderText	重錘子的必殺技
+TipsHammer1BodyText	\x0e\x04\x17\x02Ä\0+長按\x0e\x04\x06\x022\0施展{c[ffde00]}鬼殺火焰錘{c[000000]}！\n最多可3段蓄力！
+TipsDoctor1HeaderText	治癒醫生的必殺技
+TipsDoctor1BodyText	長按\x0e\x04\x06\x022\0創造出治癒傷口的{c[ffde00]}治癒地帶{c[000000]}！\n最多可3段蓄力！
+TipsBeam1HeaderText	魔法光束的必殺技
+TipsBeam1BodyText	長按\x0e\x04\x06\x022\0發射讓敵人動作停滯的{c[ffde00]}時間光束{c[000000]}！\n最多可3段蓄力！
+TipsSword2HeaderText	英雄利劍的盾
+TipsSword2BodyText	以\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0舉起{c[ffde00]}英雄盾{c[000000]}！\n製造防護罩，保護同伴吧！
+TipsHammer2HeaderText	最強的鬼殺火焰錘
+TipsHammer2BodyText	已達最大蓄力階段的{c[ffde00]}鬼殺火焰錘{c[000000]}\n擁有全職業當中{c[ffde00]}最強的攻擊力{c[000000]}！
+TipsDoctor2HeaderText	善用科學研究所
+TipsDoctor2BodyText	\x0e\x04\x15\x02Â\0+超長按\x0e\x04\x06\x022\0就能使出{c[ffde00]}科學研究所{c[000000]}，\n只要命中就能造成巨大傷害！
+TipsBeam2HeaderText	魔法光束與空中的敵人
+TipsBeam2BodyText	{c[ffde00]}在空中飛舞的敵人{c[000000]}比起其他敵人\n更容易動作停滯，大約{c[ffde00]}1.5倍{c[000000]}！
+TipsLithographHeaderText	取得石板吧
+TipsLithographBodyText	不斷攻擊敵人，\n大家一起{c[ffde00]}收集石板{c[000000]}吧！
+TipsMeteorHeaderText	協力技 好友隕石
+TipsMeteorBodyText	收集所有石板，發動{c[ffde00]}好友隕石{c[000000]}！\n大家一起同心協力，造成巨大傷害吧！
+TipsReviveHeaderText	復活的咒文
+TipsReviveBodyText	跑到倒下的同伴附近，\n按\x0e\x04\x07\x023\0使對方{c[ffde00]}復活{c[000000]}！
+TipsRevive2HeaderText	如果反覆施展復活的話
+TipsRevive2BodyText	每次{c[ffde00]}復活{c[000000]}倒下的{c[ffde00]}同伴{c[000000]}所需的時間\n就會變得{c[ffde00]}更長{c[000000]}！
+TipsMotivationHeaderText	回復幹勁
+TipsMotivationBodyText	{c[ffde00]}幹勁{c[000000]}會隨時間經過而{c[ffde00]}回復{c[000000]}！\n如果吃下{c[ffde00]}蘋果寶石{c[000000]}的話，就能立刻回復！
+TipsTimeUpHeaderText	即使時間耗盡
+TipsTimeUpBodyText	即使{c[ffde00]}時間耗盡{c[000000]}，只要使用{c[ffde00]}蘋果寶石{c[000000]}\n就能增加時間，繼續戰鬥！
+TipsGameOverHeaderText	即使遊戲結束
+TipsGameOverBodyText	即使隊伍{c[ffde00]}全滅{c[000000]}，只要使用{c[ffde00]}蘋果寶石{c[000000]}\n就能原地{c[ffde00]}復活{c[000000]}！
+TipsGameMaxLevelHeaderText	提升最大等級
+TipsGameMaxLevelBodyText	只要{c[ffde00]}勇者級別{c[000000]}上升，\n{c[ffde00]}最大等級{c[000000]}也會跟著提升！
+TipsMouthFeedHeaderText	由用嘴餵食回復體力
+TipsMouthFeedBodyText	拿著食物往同伴靠近吧！\n{c[ffde00]}用嘴餵食{c[000000]}，回復體力！
+TipsGuardHeaderText	按\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0來防禦
+TipsGuardBodyText	按\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0來{c[ffde00]}防禦{c[000000]}敵人的攻擊！\n這樣就能降低受到的傷害！
+TipsJustGuardHeaderText	完美防禦
+TipsJustGuardBodyText	在即將受到攻擊的時間點防禦，\n就能發動無敵的{c[ffde00]}完美防禦{c[000000]}！
+TipsGuideHeaderText	確認操作方法
+TipsGuideBodyText	在探索時開啟{c[ffde00]}暫停選單{c[000000]}，\n就能確認{c[ffde00]}操作方法{c[000000]}！
+TipsDashHeaderText	快速地按\x0e\x04\x14\x02Á\0來衝刺
+TipsDashBodyText	{c[ffde00]}衝刺{c[000000]}進行高速移動！\n有些招式只能在衝刺時使用喔！
+TipsGenkiAttackHeaderText	元氣攻擊
+TipsGenkiAttackBodyText	{c[ffde00]}體力{c[000000]}MAX的時候會發動元氣攻擊！\n所有攻擊都會受到{c[ffde00]}強化{c[000000]}！
+TipsLuckyBoxHeaderText	幸運箱的內容物
+TipsLuckyBoxBodyText	{c[ffde00]}幸運箱{c[000000]}裡面有可能會開出\n蘋果寶石或稀有碎片！
+TipsDyingEnemyHeaderText	敵人的剩餘體力
+TipsDyingEnemyBodyText	如果敵人開始{c[ffde00]}發出紅光{c[000000]}就代表快要被打倒了！\n一鼓作氣，奮力攻擊吧！
+TipsDocReviveHeaderText	治癒醫生的高速復活
+TipsDocReviveBodyText	治癒醫生復活倒下的同伴的速度\n{c[ffde00]}比其他職業更快{c[000000]}！
+TipsStampHeaderText	用圖章來表達自己的心情吧
+TipsStampBodyText	在探索時按\x0e\x04\x08\x024\0就能使用{c[ffde00]}圖章{c[000000]}！\n可以用來道謝或打氣，有著許多不同的用途！
+TipsInvincibleHeaderText	具有無敵時間的攻擊
+TipsInvincibleBodyText	有些招式在攻擊時，會在短時間內變得{c[ffde00]}無敵{c[000000]}！\n善用這些招式，在探索中取勝吧！
+TipsDodgeHeaderText	緊急迴避
+TipsDodgeBodyText	按\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0+\x0e\x04\x13\x02À\0進行{c[ffde00]}緊急迴避{c[000000]}！\n這是能夠躲避敵人攻擊的技巧！
+UnlockDialogCPSingleText	聽聞你的活躍，\n{c[dc000d]}1名朋友成為了同伴{c[000000]}！
+UnlockDialogCPSingleCompleteText	聽聞你的活躍，\n{c[dc000d]}1名朋友成為了同伴{c[000000]}！\n4名同伴都湊齊了！
+NoticeDialogTrophyText	達成{c[dc000d]}勇者任務{c[000000]}\n就能得到蘋果寶石！\n在{c[dc000d]}探索選擇{c[000000]}或{c[dc000d]}人物簡介{c[000000]}\n確認任務內容吧！
+NoticeDialogSupportText	送給你一些能在探索中\n發揮效果的{c[dc000d]}輔助道具{c[000000]}！\n{c[dc000d]}出擊前{c[000000]}試著使用看看吧！\n在雜貨店也可以購買喔！
+NoticeDialogTicketText	{c[dc000d]}稀有碎片{c[000000]}能用來\n購買稀有的裝備！\n{c[dc000d]}勇者級別{c[000000]}越高，\n就越容易在戰鬥中出現！
+NoticeDialogEquipEnhanceText	能夠在{c[dc000d]}雜貨店{c[000000]}進行\n最強的{c[dc000d]}DX強化{c[000000]}了！\n解放{c[dc000d]}裝備{c[000000]}真正的力量吧！
+NoticeDialogLuckyQuestText	在某個地方出現了{c[dc000d]}幸運探索{c[000000]}！
+NoticeDialogLuckyQuestText2	{c[dc000d]}幸運探索{c[000000]}是會讓一起戰鬥的所有人\n都開心起來的探索！\n在戰鬥時會出現球，只要{c[dc000d]}將球破壞{c[000000]}，\n大家就能{c[dc000d]}得到寶物{c[000000]}！
+NetGroupWaitEntryExplain	在「鄰近主機通訊」與「朋友配對」中，\n帶有{c[ff4b32]}紅色標記{c[000000]}的勇者任務，\n只限{c[ff4b32]}創建團隊的人{c[000000]}才能達成！
+NetGroupWaitCommonLo	請稍待片刻。
+NetGroupMakeGroupText	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0創建團隊
+RoomSelectNotFoundInfoText	目前沒有正在招募同伴的探索。\n按\x0e\x04\n\x02a\0鍵可以{c[dc000d]}更新列表{c[000000]}，\n也可以按\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0鍵\n{c[dc000d]}創建新的團隊{c[000000]}進行探索。
+RoomSelectNotFoundInfoText2	目前沒有正在招募同伴的探索。\n按\x0e\x04\n\x02a\0可以{c[dc000d]}更新列表{c[000000]}。\n此外，用{c[dc000d]}「選擇配對」{c[000000]}也可能會找到同伴，\n也請試試看吧。
+NetErrorDefaultText	發生{c[dc000d]}通訊錯誤{c[000000]}。\n將返回模式選擇。
+NetEndConfirmDialogWindowText	要退出遊戲，\n並{c[dc000d]}解散{c[000000]}團隊嗎？
+NetEndConfirmClientDialogWindowText	要{c[dc000d]}退出遊戲{c[000000]}，\n返回探索選擇嗎？
+NetQuestDecideConfirmDialogWindowText	要挑戰\n{c[dc000d]}\x0e\x02\x02\0{c[000000]}嗎？
+MotivationText	幹勁
+CashConsumptionText	要吃{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石\n來回復\x0e\x05\x04\x024\0幹勁（故事）嗎？
+CashConsumptionText2	要吃{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石\n來回復\x0e\x05\x05\x025\0幹勁（熱鬧）嗎？
+InsufficientMaxMotivationText	{c[dc000d]}幹勁{c[000000]}的{c[dc000d]}最大值{c[000000]}不足。\n如果想挑戰這個探索，\n需要先{c[dc000d]}提升等級{c[000000]}。
+HeaderUpModeSelectText	模式選擇
+HeaderUpWaiwaiSelectText	熱鬧探索
+HeaderUpInetSelectText	線上廣場
+NewForAreaSelect	NEW
+HeaderUpAreaSelectText	區域選擇
+HeaderUpQuestSelectText	探索選擇
+HeaderUpJobSelectText	職業選擇
+HeaderUpArmsSelectText	武器選擇
+HeaderUpHatSelectText	防具選擇
+HeaderUpMemberCheckSelectText	成員選擇
+HeaderUpBuddySelectText	朋友選擇
+HeaderUpSetupSelectText	準備
+HeaderUpSupportSelectText	輔助道具
+HeaderUpRoomSelectText	探索選擇
+ModeSelectSingleBodyText	打倒到處作亂的{c[ff4b32]}敵人{c[000000]}，拯救{c[ff4b32]}噗噗噗王國{c[000000]}吧！\n如果有多個控制器，\n最多可以{c[ff4b32]}4人{c[000000]}一起遊玩喔！
+ModeSelectMultiBodyText	一個人也好，跟大家一起也好，{c[ff4b32]}熱鬧{c[000000]}戰鬥吧！\n能得到比「故事探索」更多的{c[ff4b32]}獎賞{c[000000]}喔！
+ModeSelectInTutorialBodyText	選擇{c[ff4b32]}探索{c[000000]}，\n戰鬥{c[ff4b32]}出擊{c[000000]}吧！
+WaiwaiInetBodyText	消耗較少{c[ff4b32]}幹勁{c[000000]}的超值探索！\n透過{c[ff4b32]}網路{c[000000]}跟全世界的同伴一起戰鬥吧！
+WaiwaiLocalBodyText	帶著Nintendo Switch，\n以{c[ff4b32]}鄰近主機通訊{c[000000]}跟附近的人一起戰鬥吧！
+WaiwaiSingleBodyText	跟{c[ff4b32]}旅人{c[000000]}或是{c[ff4b32]}朋友{c[000000]}一起挑戰熱鬧探索！\n如果有多個控制器，\n最多可以{c[ff4b32]}4人{c[000000]}一起遊玩喔！
+InetOmakaseBodyText	透過網路遊玩「熱鬧探索」吧！\n出擊{c[ff4b32]}委託配對所選的探索{c[000000]}！
+InetErandeBodyText	透過網路遊玩「熱鬧探索」吧！\n出擊{c[ff4b32]}自己所選的探索{c[000000]}！
+InetFriendBodyText	透過網路遊玩「熱鬧探索」吧！\n{c[ff4b32]}跟朋友一起{c[000000]}出擊！ 
+AreaBtn1	海岸
+AreaBtn2	沙丘
+AreaBtn3	古跡
+AreaBtn4	火山
+AreaBtn5	天空
+AreaBtn6	大決戰
+AreaBtn7	草原
+AreaBtn8	夢幻異界
+QuestBtnMotivationText	幹勁
+QuestBtnCashText	蘋果
+QuestSelectMissionText	任務
+QuestSelectRewardMaterialText	報酬
+QuestSelectRewardMaterialNum	\x0e\x02\x01\0
+QuestSelectMotivationNum	\x0e\x02\x01\0
+QuestSelectRankedBossText	\x0e\x02\x02\0\x0e\x02\x02\0
+BuddyBtnLevelText	等級
+BuddyLevelText	等級
+BuddyBraveRankText	勇者級別
+BuddyBraveRankNum	\x0e\x02\x01\0
+BuddyLimitText	還能出擊\x0e\x02\x01\0次。
+SetupJobBtn	\x0e\x04\x05\x021\0改變職業
+SetupJobBtnNoIcon	改變職業
+SetupArmsBtn	更改武器
+SetupHatBtn	更改防具
+AreaUnlockedText	{c[dc000d]}新的探索{c[000000]}\n出現了！
+QuestUnlockedText	用蘋果寶石的力量\n成功開闢了{c[dc000d]}通往探索的道路{c[000000]}！
+QuestUnlockFailedForNet	{c[dc000d]}蘋果寶石{c[000000]}不足。
+MotivationShortForNet	\x0e\x05\x05\x025\0幹勁（熱鬧）不足。
+UnlockCheckText	要使用{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石，\n{c[dc000d]}開放{c[000000]}這個探索嗎？
+SupportItemConsumptionText	將使用{c[dc000d]}\x0e\x02\x0b\0{c[000000]}。\n確定嗎？
+SupportItemUseText	{s[120]}\x0e\x02\x01\0{s[100]}/\x0e\x02\x01\0
+SupportItemExpUpRestTimeMinText	\x0e\x02\x01\0 分
+SupportItemExpUpRestTimeSecText	\x0e\x02\x01\0 秒
+SupportItemUsedCountText	{s[100]}×{s[100]}{s[120]}\x0e\x02\x01\0{s[100]}
+SupportItemToShopBtn	前往雜貨店
+TipsTownTreeHeaderText	只要在雜貨店購買蘋果寶石
+TipsTownTreeBodyText	只要購買{c[ffde00]}蘋果寶石{c[000000]}，{c[ffde00]}樹{c[000000]}就會成長！\n能夠收成的蘋果將會增加！
+TipsTownCropHeaderText	收成蘋果寶石
+TipsTownCropBodyText	{c[ffde00]}蘋果寶石{c[000000]}在收成後經過{c[ffde00]}12小時\n{c[000000]}就會再次結出鮮紅的果實！
+TipsTownTrophyHeaderText	達成勇者任務
+TipsTownTrophyBodyText	只要{c[ffde00]}達成勇者任務{c[000000]}，\n就能得到{c[ffde00]}蘋果寶石{c[000000]}等獎賞！
+TipsTownTrophyAppleHeaderText	蘋果寶石不夠用的時候
+TipsTownTrophyAppleBodyText	試著{c[ffde00]}達成勇者任務{c[000000]}吧！\n能夠從人物簡介進行確認喔！
+TipsTownBookHeaderText	會一直發揮效果的輔助之書
+TipsTownBookBodyText	在{c[ffde00]}雜貨店{c[000000]}裡能購入{c[ffde00]}提升獲得碎片數量{c[000000]}的書\n以及{c[ffde00]}讓幹勁更容易回復{c[000000]}的書！
+TipsTownBookEnhanceHeaderText	湊齊輔助之書吧
+TipsTownBookEnhanceBodyText	{c[ffde00]}輔助之書{c[000000]}共有{c[ffde00]}6本{c[000000]}！\n每次購買都能得到更強的效果！
+TipsTownSupplementHeaderText	屬於消耗品的輔助藥
+TipsTownSupplementBodyText	使用提升{c[ffde00]}攻擊{c[000000]}與{c[ffde00]}體力{c[000000]}的{c[ffde00]}藥{c[000000]}，\n讓探索中的戰鬥更加有利！
+TipsTownEquipmentHeaderText	收集裝備吧
+TipsTownEquipmentBodyText	購買更加{c[ffde00]}稀有的裝備{c[000000]}，\n增強{c[ffde00]}攻擊{c[000000]}與{c[ffde00]}體力{c[000000]}吧！
+TipsTownRareMaterialHeaderText	透過戰鬥取得稀有碎片
+TipsTownRareMaterialBodyText	{c[ffde00]}勇者級別{c[000000]}越高，購買{c[ffde00]}稀有裝備{c[000000]}時\n需要的{c[ffde00]}稀有碎片{c[000000]}就越容易掉落！
+TipsTownBellHeaderText	旅人之鐘
+TipsTownBellBodyText	敲響小鎮的{c[ffde00]}鐘{c[000000]}，就會有{c[ffde00]}旅人{c[000000]}造訪！\n能夠成為朋友一起前往探索喔！
+TipsTownTraveller3HeaderText	與旅人分別
+TipsTownTraveller3BodyText	{c[ffde00]}一起前往過1次{c[000000]}探索後，\n{c[ffde00]}旅人{c[000000]}就會離開小鎮！
+TipsTownMemberHeaderText	更換朋友
+TipsTownMemberBodyText	在{c[ffde00]}成員選擇{c[000000]}中，\n能夠替換在探索中一起戰鬥的{c[ffde00]}朋友{c[000000]}！
+TipsTownExpBallHeaderText	屬於消耗品的經驗值球
+TipsTownExpBallBodyText	使用{c[ffde00]}經驗值球{c[000000]}後的30分鐘內\n取得的經驗值會提升為{c[ffde00]}2倍{c[000000]}！
+TipsTownEquipSeriesHeaderText	以成套裝備來提升威力
+TipsTownEquipSeriesBodyText	只要裝備{c[ffde00]}稀有度相同{c[000000]}的武器與防具，\n裝備的性能就會提升！
+TipsTownResidentHeaderText	小鎮會變得更熱鬧
+TipsTownResidentBodyText	只要推進故事，\n{c[ffde00]}小鎮{c[000000]}的{c[ffde00]}居民{c[000000]}就會逐漸增加！
+TipsTownWatchwordHeaderText	透過暗號取得道具
+TipsTownWatchwordBodyText	在小鎮的{c[ffde00]}祠堂{c[000000]}輸入{c[ffde00]}暗號{c[000000]}，\n就能得到道具！
+TipsTownAmiiboHeaderText	透過amiibo像取得道具
+TipsTownAmiiboBodyText	在小鎮的{c[ffde00]}amiibo像{c[000000]}使用{c[ffde00]}amiibo{c[000000]}，\n就能取得道具！
+TipsTownWaiwaiOverviewHeaderText	熱鬧探索
+TipsTownWaiwaiOverviewBodyText	如果無法獨自在{c[ffde00]}熱鬧探索{c[000000]}中得勝，\n就用線上或鄰近主機通訊遊玩吧！
+TipsTownWaiwaiOnlineHeaderText	線上廣場
+TipsTownWaiwaiOnlineBodyText	在{c[ffde00]}熱鬧探索{c[000000]}的{c[ffde00]}線上廣場{c[000000]}，\n能和線上的其他人一起遊玩！
+TipsTownGoMultiHeaderText	和全世界的獵人隊遊玩
+TipsTownGoMultiBodyText	在{c[ffde00]}線上廣場{c[000000]}能和全世界的人們遊玩！\n還可以得到{c[ffde00]}1.3倍{c[000000]}的經驗值喔！
+TipsTownMatchOverviewHeaderText	委託配對與選擇配對
+TipsTownMatchOverviewBodyText	如果使用{c[ffde00]}委託配對{c[000000]}，會隨機前往某個探索。\n如果使用{c[ffde00]}選擇配對{c[000000]}，則會前往自己選擇的探索。
+TipsTownForgeZHeaderText	裝備的強化
+TipsTownForgeZBodyText	所有裝備都能進行{c[ffde00]}DX強化{c[000000]}！\n強化後，性能會大幅提升喔！
+TipsTownForgeSZHeaderText	裝備的終極強化
+TipsTownForgeSZBodyText	所有裝備都能進行最強的{c[ffde00]}SDX強化{c[000000]}！\n強化後，性能會有十分驚人的提升喔！
+TipsTownMiniExpBallHeaderText	能輕鬆使用的迷你經驗值球
+TipsTownMiniExpBallBodyText	使用{c[ffde00]}迷你經驗值球{c[000000]}後的10分鐘內\n取得的經驗值會提升為{c[ffde00]}1.5倍{c[000000]}！
+TipsTownChangeHomeHeaderText	切換小鎮
+TipsTownChangeHomeBodyText	在小鎮的邊緣持續按住\x0e\x04\x16\x02Ã\0/\x0e\x04\x14\x02Á\0\n就能前往{c[ffde00]}另一個小鎮{c[000000]}！
+TipsTownSharingHeaderText	以分享遊玩進行故事探索
+TipsTownSharingBodyText	如果有多個控制器，\n最多可以{c[ffde00]}4人{c[000000]}一起遊玩喔！
+TipsTownEquipSaleHeaderText	裝備特賣
+TipsTownEquipSaleBodyText	老舊的裝備偶爾會進行{c[ffde00]}特賣{c[000000]}。\n最便宜時能用{c[ffde00]}50%折扣{c[000000]}購入！
+TipsTownLuckyOverviewHeaderText	幸運探索
+TipsTownLuckyOverviewBodyText	{c[ffde00]}幸運探索{c[000000]}是能透過線上或\n鄰近主機通訊遊玩的超值探索！
+TipsTownNpcEquipHeaderText	購買朋友的裝備吧
+TipsTownNpcEquipBodyText	為了取得勝利，{c[ffde00]}朋友{c[000000]}的裝備也很重要。\n幫他們購買{c[ffde00]}各種職業{c[000000]}的裝備吧！
+TipsTownJobBookHeaderText	購買職業之書來提升威力
+TipsTownJobBookBodyText	在雜貨店購買{c[ffde00]}職業之書{c[000000]}，\n自己職業的強度將會永久提升！
+TipsTownJemPresentHeaderText	蘋果寶石贈禮
+TipsTownJemPresentBodyText	有時候雜貨店會\n{c[ffde00]}贈送{c[000000]}蘋果寶石！
+TipsTownProfileHeaderText	透過人物簡介確認任務
+TipsTownProfileBodyText	{c[ffde00]}勇者任務{c[000000]}的相關資訊\n能從{c[ffde00]}人物簡介{c[000000]}進行確認！
+TitleCopyright	©2019 HAL Laboratory, Inc. / Nintendo
+QuestGiveUpConfirmText	要{c[dc000d]}結束{c[000000]}探索嗎？
+ContinueWaitDialog	有其他玩家正在選擇，\n請稍候片刻。
+BuddyEquipChangeRandom	\x0e\x04\x07\x023\0隨機裝備
+BuddyEquipChangeRecommend	\x0e\x04\x07\x023\0推薦裝備
+MessageTutorialMultiModeStartDlog	由於卡比們的活躍，\n{c[dc000d]}熱鬧探索{c[000000]}已開放！\n比故事探索更容易收集到\n{c[dc000d]}碎片{c[000000]}與{c[dc000d]}蘋果寶石{c[000000]}喔！
+MessageTutorialDoubleMotivBar	遊玩{c[dc000d]}故事探索{c[000000]}\n要使用\x0e\x05\x04\x024\0幹勁（故事）。\n遊玩{c[dc000d]}熱鬧探索\n{c[000000]}則需要\x0e\x05\x05\x025\0幹勁（熱鬧）。
+KeyBossUnlockedMainPhase04	阻擋去路的{c[dc000d]}試煉探索{c[000000]}\n出現了！
+KeyBossUnlockedMainPhase07	只要有騷動的地方，\n一定都會有那個斗篷男的蹤影……\n透過{c[dc000d]}試煉探索{c[000000]}，查出他的真面目吧！
+KeyBossUnlockedMainPhase11	阻擋去路的{c[dc000d]}試煉探索{c[000000]}\n出現了！
+KeyBossUnlockedMainPhase14	阻擋去路的{c[dc000d]}試煉探索{c[000000]}\n出現了！
+KeyBossUnlockedMainPhase17	終於要找到那個斗篷男了……！？\n勇闖{c[dc000d]}試煉探索，{c[000000]}\n確認那身影的真面目吧！
+KeyBossUnlockedMainPhase21	終於找到了\n在幕後操縱一切的斗篷男！\n勇闖{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase22	四頭守護神出現了！\n挑戰{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase23	美麗的侵略者出現了！\n挑戰{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase24	終於把來自異世界的魔法師\n逼入絕境了！\n勇闖一決勝負的{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase28	帶有劇毒的雲出現了！\n挑戰{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase31	美麗的侵略者再次降臨！\n挑戰{c[dc000d]}試煉探索{c[000000]}吧！
+KeyBossUnlockedMainPhase32	畫下句點的時刻到了！\n贏得{c[dc000d]}最終決戰{c[000000]}，\n讓王國恢復和平吧！
+KeyBossUnlockedMainPhase33	這就是真正的最終決戰……\n{c[dc000d]}真 最終決戰{c[000000]}出現了！\n和同伴一起拯救世界吧！\n超級卡比獵人隊！
+KeyBossUnlockedMainPhase38	遠古英雄再度降臨……！\n{c[dc000d]}試煉探索{c[000000]}出現了！
+KeyBossUnlockedMainPhase39	一心只想復仇的\n異世界魔法師再次降臨……！\n極超級別的{c[dc000d]}試煉探索{c[000000]}出現了！
+KeyBossUnlockedMainPhase40	被喚醒的終極黑暗之王\n在眾人面前阻礙了去路……！\n極超級別的{c[dc000d]}試煉探索{c[000000]}出現了！
+KeyBossUnlockedMainPhase41	只有被選中的勇者才能勇闖\n名副其實的最終決戰……\n{c[dc000d]}真 最終決戰EX{c[000000]}出現了！\n贏得勝利吧！真正的超級卡比獵人隊！
+PenaltySuspended2	由於上次進行線上遊玩時{c[dc000d]}通訊中斷{c[000000]}，\n因此在一定時間內無法進行線上遊玩。\n預計約\x0e\x02\x01\0小時\x0e\x02\x01\0分鐘無法連接。
+PenaltyNotSuspended	上次進行線上遊玩時發生了{c[dc000d]}通訊中斷{c[000000]}，\n這個狀況如果持續發生，\n將可能導致暫時{c[dc000d]}無法進行線上遊玩{c[000000]}。\n請先確認您的通訊環境後再試一次。
+FriendLocalClientWait	正與隊長通訊中。\n請稍候片刻……
+ConfirmAlone	要獨自一人{c[dc000d]}出擊{c[000000]}嗎？\n（如果選擇不出擊，\n則會以{c[dc000d]}「委託配對」{c[000000]}搜尋探索。）
+TutorialMultiQuestDialog	幹勁分成\x0e\x05\x04\x024\0{c[dc000d]}故事探索{c[000000]}與\n\x0e\x05\x05\x025\0{c[dc000d]}熱鬧探索{c[000000]}兩種喔！\n請試著輪流遊玩吧！
+SortDefault	排序：依委託配對
+SortNotCleared	排序：依尚未過關的任務數
+SortDifficultyDesc	排序：依推薦等級 高
+SortDifficultyAsc	排序：依推薦等級 低
+SortPersonNum	排序：依參加人數
+SortLuckyQuest	排序：依是否有幸運探索
+MemberCheckNetGuestIn	有玩家參加了團隊！
+MemberCheckNetGuestOut	有玩家離開了團隊。
+RecommendLevel	推薦等級：\x0e\x02\x01\0
+NetErrorCommon	發生通訊錯誤。
+NetErrorSessionCreate	建立團隊失敗。
+NetErrorSessionJoin	無法參加團隊。\n該團隊可能人數已滿，\n或是已經出擊。
+NetErrorSessionAuto	配對失敗。
+NetErrorHostLeft	隊長解散了團隊。
+NetErrorStationDecreased	將解散團隊。
+NetErrorInetSomebodyDisconnect	由於通訊發生異常，\n探索已中途結束。
+InetDisconnect	通訊連接已中斷。\n請勿主動中斷連線。\n請先確認您的通訊環境後，\n再試一次。
+MemberSelectOK	OK
+LQuestApp	出現了幸運探索！
+WaitOtherPlayers	正在等待其他參加者
+MelonMission2.msbt
+HeaderText	勇者任務
+RankText	勇者級別
+RankNumText	{s[135]}\x0e\x02\x01\0{s[100]}{s[060]} {s[100]}{s[100]}/\x0e\x02\x01\0{s[100]}
+RewardTitleText	獎賞
+ClosedTrophyBtnText	？？？？
+HeaderBtnTextLevel	玩家等級
+HeaderBtnTextShop	雜貨店
+HeaderBtnTextOther1	其他1
+HeaderBtnTextOther2	其他2
+HeaderBtnTextOther3	其他3
+HeaderBtnTextMain1	故事1
+HeaderBtnTextMain2	故事2
+HeaderBtnTextMain3	故事3
+HeaderBtnTextMain4	故事4
+HeaderBtnTextWaiwai1	熱鬧1
+HeaderBtnTextWaiwai2	熱鬧2
+HeaderBtnTextWaiwai3	熱鬧3
+HeaderBtnTextWaiwai4	熱鬧4
+HeaderBtnTextWaiwai5	熱鬧5
+HeaderBtnTextWaiwai6	熱鬧6
+HeaderBtnTextWaiwai7	熱鬧7
+HeaderBtnTextWaiwai8	熱鬧8
+HeaderBtnTextWaiwai9	熱鬧9
+HeaderBtnPageText	{s[135]}\x0e\x02\x01\0{s[100]}{s[050]} {s[100]}/\x0e\x02\x01\0
+Area1Stage1Mission1	通過「盔角蟲」探索。
+Area1Stage1Mission2	在「盔角蟲」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area1Stage1Mission3	使用職業\x0e\x05\0\x020\0\n通過「盔角蟲」探索。
+Area1Stage1Mission4	於通過「盔角蟲」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area1Stage2Mission1	通過「大型‧槍瓦豆魯迪」探索。
+Area1Stage2Mission2	在「大型‧槍瓦豆魯迪」探索中\n使用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「迴旋斬」{c[000000]}命中敵人。
+Area1Stage2Mission3	使用職業\x0e\x05\x01\x021\0\n通過「大型‧槍瓦豆魯迪」探索。
+Area1Stage2Mission4	於通過「大型‧槍瓦豆魯迪」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area1Stage3Mission1	通過「瓦豆魯篤老大」探索。
+Area1Stage3Mission2	在「瓦豆魯篤老大」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area1Stage3Mission3	使用職業\x0e\x05\x03\x023\0\n通過「瓦豆魯篤老大」探索。
+Area1Stage3Mission4	於通過「瓦豆魯篤老大」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area2Stage1Mission1	通過「冰霜先生」探索。
+Area2Stage1Mission2	在「冰霜先生」探索中\n由玩家使出{c[dc000d]}用嘴餵食{c[000000]}。
+Area2Stage1Mission3	使用職業\x0e\x05\x02\x022\0\n通過「冰霜先生」探索。
+Area2Stage1Mission4	於通過「冰霜先生」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area2Stage2Mission1	通過「炎刃」探索。
+Area2Stage2Mission2	{c[dc000d]}防禦{c[000000]}「炎刃」的攻擊。
+Area2Stage2Mission3	在玩家等級{c[dc000d]}7以上{c[000000]}的情況下\n通過「炎刃」探索。
+Area2Stage2Mission4	於通過「炎刃」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area2Stage3Mission1	通過「大塊頭」探索。
+Area2Stage3Mission2	在「大塊頭」探索中\n獲得{c[dc000d]}快速過關獎勵{c[000000]}。
+Area2Stage3Mission3	與{c[dc000d]}旅人{c[000000]}一同出擊\n前往「大塊頭」探索。
+Area2Stage3Mission4	於通過「大塊頭」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage1Mission1	通過「雙重 大型隊伍」探索。
+Area3Stage1Mission2	在「雙重 大型隊伍」探索中\n使用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人。
+Area3Stage1Mission3	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「雙重 大型隊伍」探索。
+Area3Stage1Mission4	於通過「雙重 大型隊伍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage2Mission1	通過「異次元夢魘」探索。
+Area3Stage2Mission2	在玩家等級{c[dc000d]}15以上{c[000000]}的情況下\n通過「異次元夢魘」探索。
+Area3Stage2Mission3	{c[dc000d]}防禦2次{c[000000]}「異次元夢魘」的攻擊。
+Area3Stage2Mission4	於通過「異次元夢魘」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area1Stage4Mission1	通過「高：龐大刃」探索。
+Area1Stage4Mission2	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「高：龐大刃」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area1Stage4Mission3	在「高：龐大刃」探索中\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+Area1Stage4Mission4	於通過「高：龐大刃」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area2Stage4Mission1	通過「高：錘星猩」探索。
+Area2Stage4Mission2	使用職業\x0e\x05\x01\x021\0通過「高：錘星猩」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+Area2Stage4Mission3	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x01\x021\0的情況下\n通過「高：錘星猩」探索。
+Area2Stage4Mission4	於通過「高：錘星猩」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage3Mission1	通過「高：風語大樹」探索。
+Area3Stage3Mission2	使用職業\x0e\x05\x02\x022\0\n通過「高：風語大樹」探索。
+Area3Stage3Mission3	在「高：風語大樹」探索中\n使用職業\x0e\x05\x02\x022\0\n由自己使出治癒地帶{c[dc000d]}回復同伴{c[000000]}。
+Area3Stage3Mission4	於通過「高：風語大樹」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area4Stage1Mission1	通過「高：三重 大型隊伍」探索。
+Area4Stage1Mission2	使用職業\x0e\x05\x03\x023\0通過「高：三重 大型隊伍」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area4Stage1Mission3	在「高：三重 大型隊伍」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area4Stage1Mission4	於通過「高：三重 大型隊伍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area1Stage5Mission1	通過「高：凍霜彎刀騎士老大」探索。
+Area1Stage5Mission2	在玩家等級{c[dc000d]}22以上{c[000000]}的情況下\n通過「高：凍霜彎刀騎士老大」探索。
+Area1Stage5Mission3	於通過「高：凍霜彎刀騎士老大」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area1Stage5Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「高：凍霜彎刀騎士老大」探索。
+Area1Stage6Mission1	通過「高：毒波洛斯」探索。
+Area1Stage6Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「疾風」套裝{c[000000]}\n通過「高：毒波洛斯」探索。
+Area1Stage6Mission3	使用職業\x0e\x05\0\x020\0通過「高：毒波洛斯」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area1Stage6Mission4	於通過「高：毒波洛斯」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area2Stage5Mission1	通過「高：大洛啪」探索。
+Area2Stage5Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x03\x023\0的情況下\n通過「高：大洛啪」探索。
+Area2Stage5Mission3	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「魔法師」套裝{c[000000]}\n通過「高：大洛啪」探索。
+Area2Stage5Mission4	於通過「高：大洛啪」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage4Mission1	通過「高：盔角蟲」探索。
+Area3Stage4Mission2	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：盔角蟲」探索。
+Area3Stage4Mission3	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「高：盔角蟲」探索。
+Area3Stage4Mission4	於通過「高：盔角蟲」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area4Stage2Mission1	通過「高：火山蛙」探索。
+Area4Stage2Mission2	在玩家等級{c[dc000d]}25以上{c[000000]}的情況下\n通過「高：火山蛙」探索。
+Area4Stage2Mission3	於通過「高：火山蛙」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area4Stage2Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「高：火山蛙」探索。
+Area3Stage5Mission1	通過「高：獨眼雲」探索。
+Area3Stage5Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「白虎」套裝{c[000000]}\n通過「高：獨眼雲」探索。
+Area3Stage5Mission3	於通過「高：獨眼雲」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage5Mission4	於通過「高：獨眼雲」探索時獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage1Mission1	通過「高：電龍」探索。
+Area5Stage1Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\0\x020\0的情況下\n通過「高：電龍」探索。
+Area5Stage1Mission3	在「高：電龍」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area5Stage1Mission4	於通過「高：電龍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage2Mission1	通過「高：龍帝亞」探索。
+Area5Stage2Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「治癒師」套裝{c[000000]}\n通過「高：龍帝亞」探索。
+Area5Stage2Mission3	於通過「高：龍帝亞」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area5Stage2Mission4	於通過「高：龍帝亞」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage3Mission1	通過「高：塔狼蛛」探索。
+Area5Stage3Mission2	在玩家等級{c[dc000d]}34以上{c[000000]}的情況下\n通過「高：塔狼蛛」探索。
+Area5Stage3Mission3	於通過「高：塔狼蛛」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage3Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「高：塔狼蛛」探索。
+Area1Stage7Mission1	通過「鬼：冰龍」探索。
+Area1Stage7Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x02\x022\0的情況下\n通過「鬼：冰龍」探索。
+Area1Stage7Mission3	於通過「鬼：冰龍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area1Stage7Mission4	於通過「鬼：冰龍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area2Stage6Mission1	通過「鬼：彎刀騎士老大」探索。
+Area2Stage6Mission2	使用職業\x0e\x05\0\x020\0\n通過「鬼：彎刀騎士老大」探索。
+Area2Stage6Mission3	於通過「鬼：彎刀騎士老大」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area2Stage6Mission4	於通過「鬼：彎刀騎士老大」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area3Stage6Mission1	通過「鬼：錘星猩」探索。
+Area3Stage6Mission2	使用職業\x0e\x05\x01\x021\0\n通過「鬼：錘星猩」探索。
+Area3Stage6Mission3	用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}\n給予「鬼：錘星猩」最後一擊。
+Area3Stage6Mission4	於通過「鬼：錘星猩」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area3Stage7Mission1	通過「鬼：風語大樹」探索。
+Area3Stage7Mission2	使用職業\x0e\x05\x03\x023\0\n通過「鬼：風語大樹」探索。
+Area3Stage7Mission3	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「克洛諾斯」套裝{c[000000]}\n通過「鬼：風語大樹」探索。
+Area3Stage7Mission4	於通過「鬼：風語大樹」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area4Stage3Mission1	通過「鬼：火焰加爾波洛斯」探索。
+Area4Stage3Mission2	在「鬼：火焰加爾波洛斯」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area4Stage3Mission3	於通過「鬼：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area4Stage3Mission4	於通過「鬼：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area4Stage4Mission1	通過「鬼：冰霜先生」探索。
+Area4Stage4Mission2	使用職業\x0e\x05\x02\x022\0\n通過「鬼：冰霜先生」探索。
+Area4Stage4Mission3	在「鬼：冰霜先生」探索中，\n使用職業\x0e\x05\x02\x022\0\n由自己使出治癒地帶{c[dc000d]}回復同伴2次{c[000000]}。
+Area4Stage4Mission4	於通過「鬼：冰霜先生」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage4Mission1	通過「鬼：大洛啪」探索。
+Area5Stage4Mission2	使用職業\x0e\x05\x03\x023\0通過「鬼：大洛啪」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area5Stage4Mission3	在「鬼：大洛啪」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+Area5Stage4Mission4	於通過「鬼：大洛啪」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage5Mission1	通過「鬼：異次元夢魘」探索。
+Area5Stage5Mission2	在玩家等級{c[dc000d]}42以上{c[000000]}的情況下\n通過「鬼：異次元夢魘」探索。
+Area5Stage5Mission3	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：異次元夢魘」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area5Stage5Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：異次元夢魘」探索。
+Area6Stage1Mission1	通過「鬼：龍帝亞EX」探索。
+Area6Stage1Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「深淵金屬」套裝{c[000000]}\n通過「鬼：龍帝亞EX」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area6Stage1Mission3	於通過「鬼：龍帝亞EX」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area6Stage1Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：龍帝亞EX」探索。
+Area6Stage2Mission1	通過「鬼：異次元蘇姿」探索。
+Area6Stage2Mission2	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「鬼：異次元蘇姿」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area6Stage2Mission3	於通過「鬼：異次元蘇姿」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area6Stage2Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「鬼：異次元蘇姿」探索。
+Area6Stage3Mission1	通過「鬼：D大王‧意向」探索。
+Area6Stage3Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「闇意向」套裝{c[000000]}\n通過「鬼：D大王‧意向」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area6Stage3Mission3	於通過「鬼：D大王‧意向」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area6Stage3Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：D大王‧意向」探索。
+Area7Stage1Mission1	通過「神：四重 大型隊伍」探索。
+Area7Stage1Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x02\x022\0的情況下\n通過「神：四重 大型隊伍」探索。
+Area7Stage1Mission3	在「神：四重 大型隊伍」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area7Stage1Mission4	於通過「神：四重 大型隊伍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area1Stage8Mission1	通過「神：大塊頭」探索。
+Area1Stage8Mission2	使用職業\x0e\x05\x01\x021\0\n通過「神：大塊頭」探索。
+Area1Stage8Mission3	於通過「神：大塊頭」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area1Stage8Mission4	於通過「神：大塊頭」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area2Stage7Mission1	通過「神：電火花錘星猩」探索。
+Area2Stage7Mission2	裝備{c[dc000d]}DX強化的武器\n{c[000000]}通過「神：電火花錘星猩」探索。
+Area2Stage7Mission3	以{c[dc000d]}好友隕石\n{c[000000]}給予「神：電火花錘星猩」最後一擊。
+Area2Stage7Mission4	於通過「神：電火花錘星猩」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area3Stage8Mission1	通過「神：毒波洛斯」探索。
+Area3Stage8Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x01\x021\0的情況下\n通過「神：毒波洛斯」探索。
+Area3Stage8Mission3	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「恐龍」套裝{c[000000]}\n通過「神：毒波洛斯」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area3Stage8Mission4	於通過「神：毒波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area4Stage5Mission1	通過「神：炎刃」探索。
+Area4Stage5Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\0\x020\0的情況下\n通過「神：炎刃」探索。
+Area4Stage5Mission3	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「魚魚」套裝{c[000000]}\n通過「神：炎刃」探索。
+Area4Stage5Mission4	於通過「神：炎刃」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area5Stage6Mission1	通過「神：泳將先生」探索。
+Area5Stage6Mission2	在「神：泳將先生」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area5Stage6Mission3	與{c[dc000d]}旅人{c[000000]}一同出擊\n前往「神：泳將先生」探索。
+Area5Stage6Mission4	於通過「神：泳將先生」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area7Stage2Mission1	通過「神：盔角蟲」探索。
+Area7Stage2Mission2	裝備{c[dc000d]}DX強化的防具{c[000000]}\n通過「神：盔角蟲」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area7Stage2Mission3	以{c[dc000d]}好友隕石\n{c[000000]}給予「神：盔角蟲」最後一擊。
+Area7Stage2Mission4	於通過「神：盔角蟲」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area7Stage3Mission1	通過「神：凍霜彎刀騎士老大」探索。
+Area7Stage3Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x03\x023\0的情況下\n通過「神：凍霜彎刀騎士老大」探索。
+Area7Stage3Mission3	於通過「神：凍霜彎刀騎士老大」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area7Stage3Mission4	在{c[dc000d]}45秒內{c[000000]}通過\n「神：凍霜彎刀騎士老大」探索。
+Area2Stage8Mission1	通過「神：毒液獨眼雲」探索。
+Area2Stage8Mission2	在玩家等級{c[dc000d]}52以上{c[000000]}的情況下\n通過「神：毒液獨眼雲」探索。
+Area2Stage8Mission3	於通過「神：毒液獨眼雲」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area2Stage8Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「神：毒液獨眼雲」探索。
+Area1Stage9Mission1	通過「神：大洛啪」探索。
+Area1Stage9Mission2	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\x03\x023\0的情況下\n通過「神：大洛啪」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area1Stage9Mission3	裝備{c[dc000d]}DX強化的武器{c[000000]}\n通過「神：大洛啪」探索。
+Area1Stage9Mission4	於通過「神：大洛啪」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area3Stage9Mission1	通過「神：電龍」探索。
+Area3Stage9Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「瘋狂」套裝{c[000000]}\n通過「神：電龍」探索。
+Area3Stage9Mission3	於通過「神：電龍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area3Stage9Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「神：電龍」探索。
+Area5Stage7Mission1	通過「神：傳送帕托利斯」探索。
+Area5Stage7Mission2	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「神：傳送帕托利斯」探索。
+Area5Stage7Mission3	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「神：傳送帕托利斯」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area5Stage7Mission4	於通過「神：傳送帕托利斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area7Stage4Mission1	通過「神：火焰加爾波洛斯」探索。
+Area7Stage4Mission2	使用職業\x0e\x05\x02\x022\0\n通過「神：火焰加爾波洛斯」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area7Stage4Mission3	在「神：火焰加爾波洛斯」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+Area7Stage4Mission4	於通過「神：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area8Stage1Mission1	通過「神：Pres.異次元蘇姿」探索。
+Area8Stage1Mission2	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「神：Pres.異次元蘇姿」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area8Stage1Mission3	於通過「神：Pres.異次元蘇姿」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area8Stage1Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「神：Pres.異次元蘇姿」探索。
+Area8Stage2Mission1	通過「神：最終決戰」探索。
+Area8Stage2Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「羽冥蝶」套裝{c[000000]}\n通過「神：最終決戰」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+Area8Stage2Mission3	於通過「神：最終決戰」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+Area8Stage2Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「神：最終決戰」探索。
+Area8Stage3Mission1	通過「超：真 最終決戰」探索。
+Area8Stage3Mission2	使用任何職業，\n裝備{c[dc000d]}「新手」套裝{c[000000]}\n通過「超：真 最終決戰」探索。
+Area8Stage3Mission3	在玩家等級{c[dc000d]}70以上{c[000000]}的情況下\n通過「超：真 最終決戰」探索。
+Area8Stage3Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：真 最終決戰」探索。
+WArea1Stage1Mission1	通過「電火花錘星猩」探索。
+WArea1Stage1Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「英勇錘」{c[000000]}\n通過「電火花錘星猩」探索。
+WArea1Stage1Mission3	使用職業\x0e\x05\x01\x021\0\n通過「電火花錘星猩」探索。
+WArea1Stage1Mission4	於通過「電火花錘星猩」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage1Mission5	通過「電火花錘星猩」探索，\n並且在探索中{c[dc000d]}破壞2次敵人的椰子炸彈{c[000000]}。
+WArea1Stage1Mission6	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「英勇錘」{c[000000]}\n通過「電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage1Mission7	使用職業\x0e\x05\x01\x021\0\n通過「電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage1Mission8	在{c[dc000d]}25秒內{c[000000]}通過\n「電火花錘星猩」探索。
+WArea1Stage2Mission1	通過「盔角蟲」探索。
+WArea1Stage2Mission2	在使用了{c[dc000d]}攻擊藥{c[000000]}的情況下\n通過「盔角蟲」探索。
+WArea1Stage2Mission3	於通過「盔角蟲」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage2Mission4	在{c[dc000d]}40秒內{c[000000]}通過\n「盔角蟲」探索。
+WArea1Stage2Mission5	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「盔角蟲」探索。
+WArea1Stage2Mission6	以任意職業裝備{c[dc000d]}「新手」套裝{c[000000]}\n通過「盔角蟲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage2Mission7	在{c[dc000d]}4人分別使用不同職業{c[000000]}的情況下\n通過「盔角蟲」探索。
+WArea1Stage2Mission8	在{c[dc000d]}25秒內{c[000000]}通過\n「盔角蟲」探索。
+WArea2Stage1Mission1	通過「隊伍‧起始」探索。
+WArea2Stage1Mission2	在{c[dc000d]}使用了體力藥{c[000000]}的情況下\n通過「隊伍‧起始」探索。
+WArea2Stage1Mission3	在「隊伍‧起始」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea2Stage1Mission4	於通過「隊伍‧起始」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea2Stage1Mission5	以任意職業裝備{c[dc000d]}稀有度5以上的{c[000000]}武器\n通過「隊伍‧起始」探索。
+WArea2Stage1Mission6	使用職業\x0e\x05\x02\x022\0\n通過「隊伍‧起始」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage1Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「隊伍‧起始」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage1Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「隊伍‧起始」探索。
+WArea1Stage3Mission1	通過「炎刃」探索。
+WArea1Stage3Mission2	使用職業\x0e\x05\0\x020\0\n通過「炎刃」探索。
+WArea1Stage3Mission3	使用職業\x0e\x05\x03\x023\0\n通過「炎刃」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage3Mission4	於通過「炎刃」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage3Mission5	使用職業\x0e\x05\0\x020\0\n通過「炎刃」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage3Mission6	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}\n給予「炎刃」最後一擊。
+WArea1Stage3Mission7	在玩家等級{c[dc000d]}14以上{c[000000]}的情況下\n通過「炎刃」探索。
+WArea1Stage3Mission8	在{c[dc000d]}25秒內{c[000000]}通過\n「炎刃」探索。
+WArea2Stage2Mission1	通過「雙重 大型隊伍」探索。
+WArea2Stage2Mission2	使用職業\x0e\x05\x02\x022\0\n通過「雙重 大型隊伍」探索。
+WArea2Stage2Mission3	於通過「雙重 大型隊伍」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea2Stage2Mission4	於通過「雙重 大型隊伍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea2Stage2Mission5	使用職業\x0e\x05\x02\x022\0\n通過「雙重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage2Mission6	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「醫生」套裝{c[000000]}\n通過「雙重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage2Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「雙重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage2Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「雙重 大型隊伍」探索。
+WArea3Stage1Mission1	通過「彎刀騎士老大」探索。
+WArea3Stage1Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「劍士」套裝{c[000000]}\n通過「彎刀騎士老大」探索。
+WArea3Stage1Mission3	於通過「彎刀騎士老大」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea3Stage1Mission4	在{c[dc000d]}45秒內{c[000000]}通過\n「彎刀騎士老大」探索。
+WArea3Stage1Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「劍士」套裝{c[000000]}\n通過「彎刀騎士老大」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage1Mission6	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「學士之頭巾」{c[000000]}\n通過「彎刀騎士老大」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage1Mission7	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「彎刀騎士老大」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage1Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「彎刀騎士老大」探索。
+WArea2Stage3Mission1	通過「高：獨眼雲」探索。
+WArea2Stage3Mission2	使用職業\x0e\x05\x01\x021\0\n通過「高：獨眼雲」探索。
+WArea2Stage3Mission3	在「高：獨眼雲」探索中，使用職業\x0e\x05\x01\x021\0的招式\n{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人2次。
+WArea2Stage3Mission4	於通過「高：獨眼雲」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea2Stage3Mission5	使用職業\x0e\x05\x01\x021\0\n通過「高：獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage3Mission6	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「重戰士」套裝{c[000000]}\n通過「高：獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage3Mission7	用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}\n給予「高：獨眼雲」最後一擊。
+WArea2Stage3Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：獨眼雲」探索。
+WArea1Stage4Mission1	通過「高：大塊頭」探索。
+WArea1Stage4Mission2	在「高：大塊頭」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea1Stage4Mission3	於通過「高：大塊頭」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage4Mission4	於通過「高：大塊頭」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage4Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「魔法師」套裝{c[000000]}\n通過「高：大塊頭」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage4Mission6	在「高：大塊頭」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea1Stage4Mission7	在{c[dc000d]}自己沒有被壓扁過{c[000000]}的情況下\n通過「高：大塊頭」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage4Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：大塊頭」探索。
+WArea3Stage2Mission1	通過「高：隊伍‧堅若磐石」探索。
+WArea3Stage2Mission2	使用職業\x0e\x05\0\x020\0\n通過「高：隊伍‧堅若磐石」探索。
+WArea3Stage2Mission3	在「高：隊伍‧堅若磐石」探索中，\n使用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}命中敵人2次。
+WArea3Stage2Mission4	於通過「高：隊伍‧堅若磐石」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage2Mission5	使用職業\x0e\x05\0\x020\0\n通過「高：隊伍‧堅若磐石」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage2Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：隊伍‧堅若磐石」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage2Mission7	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}\n給予「高：隊伍‧堅若磐石」最後一擊。
+WArea3Stage2Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：隊伍‧堅若磐石」探索。
+WArea1Stage5Mission1	通過「高：泳將先生」探索。
+WArea1Stage5Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「玫瑰」套裝{c[000000]}\n通過「高：泳將先生」探索。
+WArea1Stage5Mission3	於通過「高：泳將先生」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage5Mission4	於通過「高：泳將先生」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage5Mission5	於通過「高：泳將先生」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage5Mission6	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「玫瑰」套裝{c[000000]}\n通過「高：泳將先生」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage5Mission7	在{c[dc000d]}自己沒有被壓扁過{c[000000]}的情況下\n通過「高：泳將先生」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage5Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：泳將先生」探索。
+WArea2Stage4Mission1	通過「高：隊伍‧一刀兩半」探索。
+WArea2Stage4Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「獨角獸」套裝{c[000000]}\n通過「高：隊伍‧一刀兩半」探索。
+WArea2Stage4Mission3	在{c[dc000d]}4人職業{c[000000]}都是\x0e\x05\0\x020\0的情況下\n通過「高：隊伍‧一刀兩半」探索。
+WArea2Stage4Mission4	於通過「高：隊伍‧一刀兩半」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea2Stage4Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「疾風之劍」{c[000000]}\n通過「高：隊伍‧一刀兩半」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage4Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：隊伍‧一刀兩半」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage4Mission7	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「高：隊伍‧一刀兩半」探索。
+WArea2Stage4Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「高：隊伍‧一刀兩半」探索。
+WArea3Stage3Mission1	通過「高：三重 大型隊伍」探索。
+WArea3Stage3Mission2	使用職業\x0e\x05\x01\x021\0\n通過「高：三重 大型隊伍」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea3Stage3Mission3	在「高：三重 大型隊伍」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea3Stage3Mission4	於通過「高：三重 大型隊伍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage3Mission5	使用職業\x0e\x05\x01\x021\0\n通過「高：三重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage3Mission6	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「勇氣」套裝{c[000000]}\n通過「高：三重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage3Mission7	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「白兔」套裝{c[000000]}\n通過「高：三重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage3Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「高：三重 大型隊伍」探索。
+WArea4Stage1Mission1	通過「高：毒波洛斯」探索。
+WArea4Stage1Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「野獸」套裝{c[000000]}\n通過「高：毒波洛斯」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea4Stage1Mission3	在「高：毒波洛斯」探索中，\n使用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人2次。
+WArea4Stage1Mission4	於通過「高：毒波洛斯」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage1Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「野獸」套裝{c[000000]}\n通過「高：毒波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage1Mission6	用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}\n給予「高：毒波洛斯」最後一擊。
+WArea4Stage1Mission7	在玩家等級{c[dc000d]}36以上{c[000000]}的情況下\n通過「高：毒波洛斯」探索。
+WArea4Stage1Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：毒波洛斯」探索。
+WArea1Stage6Mission1	通過「高：隊伍‧敲金擊石」探索。
+WArea1Stage6Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「白貓頭鷹」套裝{c[000000]}\n通過「高：隊伍‧敲金擊石」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage6Mission3	在「高：隊伍‧敲金擊石」探索中，\n使用職業\x0e\x05\x02\x022\0\n由自己使出治癒地帶{c[dc000d]}回復同伴3次{c[000000]}。
+WArea1Stage6Mission4	於通過「高：隊伍‧敲金擊石」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage6Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「聖徒」套裝{c[000000]}\n通過「高：隊伍‧敲金擊石」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：隊伍‧敲金擊石」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage6Mission7	在{c[dc000d]}自己沒有被壓扁過{c[000000]}的情況下\n通過「高：隊伍‧敲金擊石」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage6Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：隊伍‧敲金擊石」探索。
+WArea4Stage2Mission1	通過「高：大洛啪」探索。
+WArea4Stage2Mission2	使用職業\x0e\x05\x01\x021\0\n通過「高：大洛啪」探索。
+WArea4Stage2Mission3	於通過「高：大洛啪」探索時\n獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea4Stage2Mission4	於通過「高：大洛啪」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage2Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「巫師」套裝{c[000000]}\n通過「高：大洛啪」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage2Mission6	在「高：大洛啪」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea4Stage2Mission7	在玩家等級{c[dc000d]}40以上{c[000000]}的情況下\n通過「高：大洛啪」探索。
+WArea4Stage2Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：大洛啪」探索。
+WArea3Stage4Mission1	通過「高：凍霜彎刀騎士老大」探索。
+WArea3Stage4Mission2	使用職業\x0e\x05\0\x020\0\n通過「高：凍霜彎刀騎士老大」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea3Stage4Mission3	於通過「高：凍霜彎刀騎士老大」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage4Mission4	使用職業\x0e\x05\x02\x022\0\n通過「高：凍霜彎刀騎士老大」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage4Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「驚奇非凡」套裝{c[000000]}\n通過「高：凍霜彎刀騎士老大」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage4Mission6	以{c[dc000d]}好友隕石\n{c[000000]}給予「高：凍霜彎刀騎士老大」最後一擊。
+WArea3Stage4Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：凍霜彎刀騎士老大」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage4Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：凍霜彎刀騎士老大」探索。
+WArea1Stage7Mission1	通過「高：冰龍」探索。
+WArea1Stage7Mission2	使用職業\x0e\x05\x02\x022\0\n通過「高：冰龍」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea1Stage7Mission3	在「高：冰龍」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea1Stage7Mission4	於通過「高：冰龍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage7Mission5	使用職業\x0e\x05\x02\x022\0\n通過「高：冰龍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage7Mission6	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「高：冰龍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage7Mission7	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「黃金」套裝{c[000000]}\n通過「高：冰龍」探索。
+WArea1Stage7Mission8	在{c[dc000d]}25秒內{c[000000]}通過\n「高：冰龍」探索。
+WArea4Stage3Mission1	通過「高：火山蛙」探索。
+WArea4Stage3Mission2	使用職業\x0e\x05\x01\x021\0\n通過「高：火山蛙」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage3Mission3	在「高：火山蛙」探索中\n發動{c[dc000d]}好友隕石{c[000000]}。
+WArea4Stage3Mission4	於通過「高：火山蛙」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage3Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「獨眼巨人」套裝{c[000000]}\n通過「高：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage3Mission6	在{c[dc000d]}自己沒有被吞掉過{c[000000]}的情況下\n通過「高：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage3Mission7	以任意職業裝備{c[dc000d]}稀有度5以下的{c[000000]}武器防具\n通過「高：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage3Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「高：火山蛙」探索。
+WArea5Stage1Mission1	通過「高：傳送帕托利斯」探索。
+WArea5Stage1Mission2	使用職業\x0e\x05\x03\x023\0\n通過「高：傳送帕托利斯」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea5Stage1Mission3	在「高：傳送帕托利斯」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea5Stage1Mission4	於通過「高：傳送帕托利斯」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea5Stage1Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「青金」套裝{c[000000]}\n通過「高：傳送帕托利斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage1Mission6	在{c[dc000d]}40秒內{c[000000]}通過\n「高：傳送帕托利斯」探索。
+WArea5Stage1Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「高：傳送帕托利斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage1Mission8	在{c[dc000d]}30秒內{c[000000]}通過\n「高：傳送帕托利斯」探索。
+WArea1Stage8Mission1	通過「鬼：毒液獨眼雲」探索。
+WArea1Stage8Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「海水」套裝{c[000000]}\n通過「鬼：毒液獨眼雲」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea1Stage8Mission3	在「鬼：毒液獨眼雲」探索中，\n使用職業\x0e\x05\x02\x022\0\n由自己使出治癒地帶{c[dc000d]}回復同伴3次{c[000000]}。
+WArea1Stage8Mission4	於通過「鬼：毒液獨眼雲」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage8Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「醫生」套裝{c[000000]}\n通過「鬼：毒液獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage8Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：毒液獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage8Mission7	在玩家等級{c[dc000d]}50以上{c[000000]}的情況下\n通過「鬼：毒液獨眼雲」探索。
+WArea1Stage8Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：毒液獨眼雲」探索。
+WArea2Stage5Mission1	通過「鬼：冰龍」探索。
+WArea2Stage5Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「深淵金屬」套裝{c[000000]}\n通過「鬼：冰龍」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea2Stage5Mission3	在「鬼：冰龍」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea2Stage5Mission4	於通過「鬼：冰龍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage5Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「魚魚」套裝{c[000000]}\n通過「鬼：冰龍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage5Mission6	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}\n給予「鬼：冰龍」最後一擊。
+WArea2Stage5Mission7	以職業\x0e\x05\0\x020\0裝備{c[dc000d]}稀有度4以下的{c[000000]}武器防具\n通過「鬼：冰龍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage5Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：冰龍」探索。
+WArea3Stage5Mission1	通過「鬼：電火花錘星猩」探索。
+WArea3Stage5Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「花開」套裝{c[000000]}\n通過「鬼：電火花錘星猩」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage5Mission3	在「鬼：電火花錘星猩」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea3Stage5Mission4	於通過「鬼：電火花錘星猩」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage5Mission5	以職業\x0e\x05\x01\x021\0裝備{c[dc000d]}稀有度7以下的{c[000000]}武器防具\n通過「鬼：電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage5Mission6	用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}\n給予「鬼：電火花錘星猩」最後一擊。
+WArea3Stage5Mission7	通過「鬼：電火花錘星猩」探索，\n並且在探索中將敵人的{c[dc000d]}椰子炸彈破壞2次{c[000000]}，\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage5Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：電火花錘星猩」探索。
+WArea1Stage9Mission1	通過「鬼：隊伍‧冷若冰霜」探索。
+WArea1Stage9Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「蒼炎」套裝{c[000000]}\n通過「鬼：隊伍‧冷若冰霜」探索。
+WArea1Stage9Mission3	在「鬼：隊伍‧冷若冰霜」探索中，\n使用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}命中敵人3次。
+WArea1Stage9Mission4	於通過「鬼：隊伍‧冷若冰霜」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage9Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「騎士」套裝{c[000000]}\n通過「鬼：隊伍‧冷若冰霜」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage9Mission6	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「鬼：隊伍‧冷若冰霜」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage9Mission7	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「緋紅」套裝{c[000000]}\n通過「鬼：隊伍‧冷若冰霜」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage9Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「鬼：隊伍‧冷若冰霜」探索。
+WArea2Stage6Mission1	通過「鬼：傳送帕托利斯」探索。
+WArea2Stage6Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「墮落錫安」套裝{c[000000]}\n通過「鬼：傳送帕托利斯」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea2Stage6Mission3	在「鬼：傳送帕托利斯」探索中\n發動{c[dc000d]}好友隕石{c[000000]}。
+WArea2Stage6Mission4	於通過「鬼：傳送帕托利斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage6Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「黃金」套裝{c[000000]}\n通過「鬼：傳送帕托利斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：傳送帕托利斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage6Mission7	使用職業\x0e\x05\x03\x023\0通過「鬼：傳送帕托利斯」探索，\n並且在探索中{c[dc000d]}停止敵人的時間{c[000000]}，\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage6Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：傳送帕托利斯」探索。
+WArea3Stage6Mission1	通過「鬼：風語大樹」探索。
+WArea3Stage6Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「啾啾」套裝{c[000000]}\n通過「鬼：風語大樹」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage6Mission3	在「鬼：風語大樹」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea3Stage6Mission4	於通過「鬼：風語大樹」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage6Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「瘋狂」套裝{c[000000]}\n通過「鬼：風語大樹」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：風語大樹」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage6Mission7	在{c[dc000d]}自己沒有被壓扁過{c[000000]}的情況下\n通過「鬼：風語大樹」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage6Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「鬼：風語大樹」探索。
+WArea3Stage7Mission1	通過「鬼：電龍」探索。
+WArea3Stage7Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「黃金」套裝{c[000000]}\n通過「鬼：電龍」探索，\n並獲得{c[dc000d]}白銀勳章以上{c[000000]}的評價。
+WArea3Stage7Mission3	於通過「鬼：電龍」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage7Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：電龍」探索。
+WArea3Stage7Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「黃金」套裝{c[000000]}\n通過「鬼：電龍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage7Mission6	在「鬼：電龍」探索中，\n使用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人3次。
+WArea3Stage7Mission7	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「鬼：電龍」探索。
+WArea3Stage7Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：電龍」探索。
+WArea4Stage4Mission1	通過「鬼：隊伍‧三位一體」探索。
+WArea4Stage4Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「凝視者」套裝{c[000000]}\n通過「鬼：隊伍‧三位一體」探索。
+WArea4Stage4Mission3	於通過「鬼：隊伍‧三位一體」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage4Mission4	於通過「鬼：隊伍‧三位一體」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage4Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「獨眼巨人」套裝{c[000000]}\n通過「鬼：隊伍‧三位一體」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage4Mission6	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「鬼：隊伍‧三位一體」探索。
+WArea4Stage4Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：隊伍‧三位一體」探索。
+WArea4Stage4Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：隊伍‧三位一體」探索。
+WArea4Stage5Mission1	通過「鬼：火焰加爾波洛斯」探索。
+WArea4Stage5Mission2	使用職業\x0e\x05\0\x020\0\n裝備{c[dc000d]}「鯊魚鋸」{c[000000]}與{c[dc000d]}「南洋魚頭帽」{c[000000]}\n通過「鬼：火焰加爾波洛斯」探索。
+WArea4Stage5Mission3	於通過「鬼：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage5Mission4	於通過「鬼：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage5Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「魚魚」套裝{c[000000]}\n通過「鬼：火焰加爾波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage5Mission6	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「鬼：火焰加爾波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage5Mission7	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「迴旋斬」{c[000000]}\n給予「鬼：火焰加爾波洛斯」最後一擊。
+WArea4Stage5Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：火焰加爾波洛斯」探索。
+WArea4Stage6Mission1	通過「鬼：火山蛙」探索。
+WArea4Stage6Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「啾啾」套裝{c[000000]}\n通過「鬼：火山蛙」探索。
+WArea4Stage6Mission3	於通過「鬼：火山蛙」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage6Mission4	於通過「鬼：火山蛙」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage6Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「塔狼蛛」套裝{c[000000]}\n通過「鬼：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage6Mission7	在{c[dc000d]}自己沒有被吞掉過{c[000000]}的情況下\n通過「鬼：火山蛙」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage6Mission8	在{c[dc000d]}45秒內{c[000000]}通過\n「鬼：火山蛙」探索。
+WArea4Stage7Mission1	通過「鬼：大洛啪」探索。
+WArea4Stage7Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「幸福」套裝{c[000000]}\n通過「鬼：大洛啪」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage7Mission3	在「鬼：大洛啪」探索中，\n使用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人2次。
+WArea4Stage7Mission4	於通過「鬼：大洛啪」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage7Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「驚奇非凡」套裝{c[000000]}\n通過「鬼：大洛啪」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage7Mission6	以{c[dc000d]}好友隕石{c[000000]}\n給予「鬼：大洛啪」最後一擊。
+WArea4Stage7Mission7	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「薩滿」套裝{c[000000]}\n通過「鬼：大洛啪」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage7Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：大洛啪」探索。
+WArea5Stage2Mission1	通過「鬼：隊伍‧風刀霜劍」探索。
+WArea5Stage2Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「魔法少女」套裝{c[000000]}\n通過「鬼：隊伍‧風刀霜劍」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea5Stage2Mission3	在「鬼：隊伍‧風刀霜劍」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea5Stage2Mission4	於通過「鬼：隊伍‧風刀霜劍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage2Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}稀有度6以下的{c[000000]}武器防具\n通過「鬼：隊伍‧風刀霜劍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage2Mission6	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「玫瑰」套裝{c[000000]}\n通過「鬼：隊伍‧風刀霜劍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage2Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「鬼：隊伍‧風刀霜劍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage2Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「鬼：隊伍‧風刀霜劍」探索。
+WArea5Stage3Mission1	通過「鬼：龍帝亞」探索。
+WArea5Stage3Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「星空」套裝{c[000000]}\n通過「鬼：龍帝亞」探索。
+WArea5Stage3Mission3	以{c[dc000d]}好友隕石{c[000000]}\n給予「鬼：龍帝亞」最後一擊。
+WArea5Stage3Mission4	於通過「鬼：龍帝亞」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea5Stage3Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「術師」套裝{c[000000]}\n通過「鬼：龍帝亞」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage3Mission6	在「鬼：龍帝亞」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea5Stage3Mission7	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「學士之燒瓶」{c[000000]}\n通過「鬼：龍帝亞」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage3Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：龍帝亞」探索。
+WArea5Stage4Mission1	通過「鬼：塔狼蛛」探索。
+WArea5Stage4Mission2	在「鬼：塔狼蛛」探索中{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea5Stage4Mission3	於通過「鬼：塔狼蛛」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage4Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「鬼：塔狼蛛」探索。
+WArea5Stage4Mission5	以任意職業裝備{c[dc000d]}稀有度7以下的{c[000000]}武器防具\n通過「鬼：塔狼蛛」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage4Mission6	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「鬼：塔狼蛛」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage4Mission7	使用職業\x0e\x05\x03\x023\0通過「鬼：塔狼蛛」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage4Mission8	在{c[dc000d]}35秒內{c[000000]}通過\n「鬼：塔狼蛛」探索。
+WArea1Stage10Mission1	通過「神：四重 大型隊伍」探索。
+WArea1Stage10Mission2	以任意職業裝備{c[dc000d]}「星光」套裝{c[000000]}\n通過「神：四重 大型隊伍」探索。
+WArea1Stage10Mission3	在「神：四重 大型隊伍」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea1Stage10Mission4	於通過「神：四重 大型隊伍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage10Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「瘋狂腦殼」\n{c[000000]}通過「神：四重 大型隊伍」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage10Mission6	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「神：四重 大型隊伍」探索。
+WArea1Stage10Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「神：四重 大型隊伍」探索。
+WArea1Stage10Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：四重 大型隊伍」探索。
+WArea2Stage7Mission1	通過「神：大洛啪」探索。
+WArea2Stage7Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「魔嚕酷」套裝{c[000000]}\n通過「神：大洛啪」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea2Stage7Mission3	於通過「神：大洛啪」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage7Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「神：大洛啪」探索。
+WArea2Stage7Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「魔力繪畫墮落錫安神杖」{c[000000]}\n通過「神：大洛啪」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage7Mission6	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「玫瑰帽」{c[000000]}\n通過「神：大洛啪」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage7Mission7	在「神：大洛啪」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間{c[000000]}。
+WArea2Stage7Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：大洛啪」探索。
+WArea3Stage8Mission1	通過「神：盔角蟲」探索。
+WArea3Stage8Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「闇塔狼蛛」套裝{c[000000]}\n通過「神：盔角蟲」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea3Stage8Mission3	在「神：盔角蟲」探索中，\n使用職業\x0e\x05\x02\x022\0\n由自己使出治癒地帶{c[dc000d]}回復同伴3次{c[000000]}。
+WArea3Stage8Mission4	於通過「神：盔角蟲」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage8Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「啾啾燒瓶」{c[000000]}\n通過「神：盔角蟲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage8Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「神：盔角蟲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage8Mission7	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「神：盔角蟲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage8Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：盔角蟲」探索。
+WArea4Stage8Mission1	通過「神：電火花錘星猩」探索。
+WArea4Stage8Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的武器{c[000000]}\n通過「神：電火花錘星猩」探索。
+WArea4Stage8Mission3	通過「神：電火花錘星猩」探索，\n並且使用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」{c[000000]}命中敵人2次，\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea4Stage8Mission4	於通過「神：電火花錘星猩」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage8Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的「幸福小槌」{c[000000]}\n通過「神：電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage8Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「神：電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage8Mission7	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的「恐龍頭盔」{c[000000]}\n通過「神：電火花錘星猩」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage8Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：電火花錘星猩」探索。
+WArea5Stage5Mission1	通過「神：炎刃」探索。
+WArea5Stage5Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}DX強化的武器{c[000000]}\n通過「神：炎刃」探索。
+WArea5Stage5Mission3	通過「神：炎刃」探索，\n並且使用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」{c[000000]}命中敵人3次，\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea5Stage5Mission4	於通過「神：炎刃」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage5Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}DX強化的「緋紅劍」\n{c[000000]}通過「神：炎刃」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage5Mission6	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「迴旋斬」{c[000000]}\n給予「神：炎刃」最後一擊。
+WArea5Stage5Mission7	在{c[dc000d]}沒有受到過{c[000000]}敵人{c[dc000d]}任何傷害{c[000000]}的情況下\n通過「神：炎刃」探索。
+WArea5Stage5Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：炎刃」探索。
+WArea7Stage1Mission1	通過「神：大塊頭」探索。
+WArea7Stage1Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「塞昆托霓雅」套裝{c[000000]}\n通過「神：大塊頭」探索。
+WArea7Stage1Mission3	以{c[dc000d]}好友隕石{c[000000]}\n給予「神：大塊頭」最後一擊。
+WArea7Stage1Mission4	於通過「神：大塊頭」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage1Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「治癒師之瓶」{c[000000]}\n通過「神：大塊頭」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage1Mission6	在{c[dc000d]}自己沒有被壓扁過{c[000000]}的情況下\n通過「神：大塊頭」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage1Mission7	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的防具{c[000000]}\n通過「神：大塊頭」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage1Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：大塊頭」探索。
+WArea5Stage6Mission1	通過「神：異次元夢魘」探索。
+WArea5Stage6Mission2	裝備{c[dc000d]}DX強化的武器{c[000000]}\n通過「神：異次元夢魘」探索。
+WArea5Stage6Mission3	於通過「神：異次元夢魘」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea5Stage6Mission4	於通過「神：異次元夢魘」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage6Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「海水玻璃瓶」{c[000000]}\n通過「神：異次元夢魘」探索。
+WArea5Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「神：異次元夢魘」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage6Mission7	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「神：異次元夢魘」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage6Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：異次元夢魘」探索。
+WArea6Stage1Mission1	通過「神：龍帝亞EX」探索。
+WArea6Stage1Mission2	裝備{c[dc000d]}DX強化的防具{c[000000]}\n通過「神：龍帝亞EX」探索。
+WArea6Stage1Mission3	於通過「神：龍帝亞EX」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea6Stage1Mission4	於通過「神：龍帝亞EX」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage1Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的「獸頭盔」{c[000000]}\n通過「神：龍帝亞EX」探索。
+WArea6Stage1Mission6	以職業\x0e\x05\x01\x021\0裝備{c[dc000d]}稀有度5以下的{c[000000]}武器防具\n通過「神：龍帝亞EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage1Mission7	在玩家等級{c[dc000d]}68以上{c[000000]}的情況下\n通過「神：龍帝亞EX」探索。
+WArea6Stage1Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：龍帝亞EX」探索。
+WArea6Stage2Mission1	通過「神：異次元蘇姿」探索。
+WArea6Stage2Mission2	在「神：異次元蘇姿」探索中\n發動{c[dc000d]}好友隕石{c[000000]}。
+WArea6Stage2Mission3	於通過「神：異次元蘇姿」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage2Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「神：異次元蘇姿」探索。
+WArea6Stage2Mission5	使用職業\x0e\x05\x02\x022\0\n通過「神：異次元蘇姿」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage2Mission6	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「聖徒燒瓶」{c[000000]}\n通過「神：異次元蘇姿」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage2Mission7	以{c[dc000d]}好友隕石{c[000000]}\n給予「神：異次元蘇姿」最後一擊。
+WArea6Stage2Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「神：異次元蘇姿」探索。
+WArea6Stage3Mission1	通過「神：D大王‧意向」探索。
+WArea6Stage3Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「白金」套裝\n{c[000000]}通過「神：D大王‧意向」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage3Mission3	於通過「神：D大王‧意向」探索時\n獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea6Stage3Mission4	於通過「神：D大王‧意向」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage3Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「星空之杖」{c[000000]}\n通過「神：D大王‧意向」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage3Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「神：D大王‧意向」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage3Mission7	以任意職業裝備{c[dc000d]}「新手」套裝{c[000000]}\n通過「神：D大王‧意向」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage3Mission8	在{c[dc000d]}50秒內{c[000000]}通過\n「神：D大王‧意向」探索。
+WArea1Stage11Mission1	通過「超：火焰加爾波洛斯」探索。
+WArea1Stage11Mission2	在「超：火焰加爾波洛斯」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea1Stage11Mission3	於通過「超：火焰加爾波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage11Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：火焰加爾波洛斯」探索。
+WArea1Stage11Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}DX強化的「黃金帽盔」{c[000000]}\n通過「超：火焰加爾波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage11Mission6	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的「獨眼巨人錘矛」{c[000000]}\n通過「超：火焰加爾波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea1Stage11Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：火焰加爾波洛斯」探索。
+WArea1Stage11Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：火焰加爾波洛斯」探索。
+WArea3Stage9Mission1	通過「超：毒液獨眼雲」探索。
+WArea3Stage9Mission2	在「超：毒液獨眼雲」探索中，\n使用職業\x0e\x05\x03\x023\0{c[dc000d]}停止敵人的時間2次{c[000000]}。
+WArea3Stage9Mission3	於通過「超：毒液獨眼雲」探索\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage9Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：毒液獨眼雲」探索。
+WArea3Stage9Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「魔力魔法洛亞神杖」{c[000000]}\n通過「超：毒液獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage9Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：毒液獨眼雲」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea3Stage9Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：毒液獨眼雲」探索。
+WArea3Stage9Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：毒液獨眼雲」探索。
+WArea7Stage2Mission1	通過「超：電龍」探索。
+WArea7Stage2Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「騎士」套裝{c[000000]}\n通過「超：電龍」探索。
+WArea7Stage2Mission3	於通過「超：電龍」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage2Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：電龍」探索。
+WArea7Stage2Mission5	使用職業\x0e\x05\0\x020\0\n裝備{c[dc000d]}DX強化的「南洋魚頭帽」{c[000000]}與{c[dc000d]}「鯊魚鋸」{c[000000]}\n通過「超：電龍」探索，並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage2Mission6	以{c[dc000d]}好友隕石{c[000000]}\n給予「超：電龍」最後一擊。
+WArea7Stage2Mission7	裝備{c[dc000d]}SDX強化的武器防具\n{c[000000]}通過「超：電龍」探索。
+WArea7Stage2Mission8	在{c[dc000d]}50秒內{c[000000]}通過\n「超：電龍」探索。
+WArea5Stage8Mission1	通過「超：隊伍‧三重浮空」探索。
+WArea5Stage8Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「醫生」套裝{c[000000]}\n通過「超：隊伍‧三重浮空」探索。
+WArea5Stage8Mission3	於通過「超：隊伍‧三重浮空」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage8Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：隊伍‧三重浮空」探索。
+WArea5Stage8Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}DX強化的「塔狼蛛玻璃瓶」{c[000000]}\n通過「超：隊伍‧三重浮空」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage8Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：隊伍‧三重浮空」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage8Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：隊伍‧三重浮空」探索。
+WArea5Stage8Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：隊伍‧三重浮空」探索。
+WArea7Stage3Mission1	通過「超：毒波洛斯」探索。
+WArea7Stage3Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「凝視者」套裝{c[000000]}\n通過「超：毒波洛斯」探索。
+WArea7Stage3Mission3	於通過「超：毒波洛斯」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage3Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：毒波洛斯」探索。
+WArea7Stage3Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}DX強化的「哇姆霸姆拳」{c[000000]}\n通過「超：毒波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage3Mission6	在{c[dc000d]}不使用好友隕石{c[000000]}的情況下\n通過「超：毒波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage3Mission7	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「魔嚕酷之杖」{c[000000]}\n通過「超：毒波洛斯」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage3Mission8	在{c[dc000d]}50秒內{c[000000]}通過\n「超：毒波洛斯」探索。
+WArea5Stage7Mission1	通過「超：隊伍‧雙重擺動屁屁」探索。
+WArea5Stage7Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「驚奇非凡」{c[000000]}套裝\n通過「超：隊伍‧雙重擺動屁屁」探索，\n並獲得{c[dc000d]}黃金勳章{c[000000]}以上的評價。
+WArea5Stage7Mission3	於通過「超：隊伍‧雙重擺動屁屁」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage7Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：隊伍‧雙重擺動屁屁」探索。
+WArea5Stage7Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}DX強化的「皇女造型」{c[000000]}\n通過「超：隊伍‧雙重擺動屁屁」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage7Mission6	在{c[dc000d]}自己都沒有被壓扁過{c[000000]}的情況下\n通過「超：隊伍‧雙重擺動屁屁」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage7Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：隊伍‧雙重擺動屁屁」探索。
+WArea5Stage7Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：隊伍‧雙重擺動屁屁」探索。
+WArea7Stage4Mission1	通過「超：隊伍‧三重元素」探索。
+WArea7Stage4Mission2	裝備{c[dc000d]}SDX強化的防具{c[000000]}\n通過「超：隊伍‧三重元素」探索。
+WArea7Stage4Mission3	通過「超：隊伍‧三重元素」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage4Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：隊伍‧三重元素」探索。
+WArea7Stage4Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}SDX強化的「驚奇非凡冠帽」{c[000000]}\n通過「超：隊伍‧三重元素」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage4Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：隊伍‧三重元素」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea7Stage4Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：隊伍‧三重元素」探索。
+WArea7Stage4Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：隊伍‧三重元素」探索。
+WArea4Stage9Mission1	通過「超：火山蛙EX」探索。
+WArea4Stage9Mission2	裝備{c[dc000d]}SDX強化的武器{c[000000]}\n通過「超：火山蛙EX」探索。
+WArea4Stage9Mission3	於通過「超：火山蛙EX」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage9Mission4	在{c[dc000d]}50秒內{c[000000]}通過\n「超：火山蛙EX」探索。
+WArea4Stage9Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}SDX強化的「驚奇非凡燒瓶」{c[000000]}\n通過「超：火山蛙EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage9Mission6	在{c[dc000d]}自己沒有被吞掉過{c[000000]}的情況下\n通過「超：火山蛙EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea4Stage9Mission7	在玩家等級{c[dc000d]}75{c[000000]}以上的情況下\n通過「超：火山蛙EX」探索。
+WArea4Stage9Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：火山蛙EX」探索。
+WArea2Stage8Mission1	通過「超：隊伍‧三重怪獸」探索。
+WArea2Stage8Mission2	在「超：隊伍‧三重怪獸」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea2Stage8Mission3	於通過「超：隊伍‧三重怪獸」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage8Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：隊伍‧三重怪獸」探索。
+WArea2Stage8Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}DX強化的「劍士之劍」{c[000000]}\n通過「超：隊伍‧三重怪獸」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage8Mission6	通過「超：隊伍‧三重怪獸」探索，\n並且使用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」命中敵人3次{c[000000]}，\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea2Stage8Mission7	在{c[dc000d]}50秒內{c[000000]}通過\n「超：隊伍‧三重怪獸」探索。
+WArea2Stage8Mission8	在{c[dc000d]}40秒內{c[000000]}通過\n「超：隊伍‧三重怪獸」探索。
+WArea5Stage9Mission1	通過「超：塔狼蛛」探索。
+WArea5Stage9Mission2	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}「塔狼蛛」套裝\n{c[000000]}通過「超：塔狼蛛」探索。
+WArea5Stage9Mission3	通過「超：塔狼蛛」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage9Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：塔狼蛛」探索。
+WArea5Stage9Mission5	使用職業\x0e\x05\x02\x022\0裝備{c[dc000d]}SDX強化的「闇塔狼蛛」套裝{c[000000]}\n通過「超：塔狼蛛」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage9Mission6	在{c[dc000d]}沒有受到過敵人任何傷害{c[000000]}的情況下\n通過「超：塔狼蛛」探索。
+WArea5Stage9Mission7	以任意職業裝備{c[dc000d]}稀有度7以下的{c[000000]}武器防具\n通過「超：塔狼蛛」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea5Stage9Mission8	在{c[dc000d]}45秒內{c[000000]}通過\n「超：塔狼蛛」探索。
+WArea6Stage4Mission1	通過「超：Pres.異次元蘇姿」探索。
+WArea6Stage4Mission2	以{c[dc000d]}好友隕石{c[000000]}給予\n「超：Pres.異次元蘇姿」最後一擊。
+WArea6Stage4Mission3	於通過「超：Pres.異次元蘇姿」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage4Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：Pres.異次元蘇姿」探索。
+WArea6Stage4Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}SDX強化的「闇物質魔劍」{c[000000]}\n通過「超：Pres.異次元蘇姿」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage4Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：Pres.異次元蘇姿」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage4Mission7	用職業\x0e\x05\0\x020\0的招式{c[dc000d]}「龍捲斬」\n{c[000000]}給予「超：Pres.異次元蘇姿」最後一擊。
+WArea6Stage4Mission8	在{c[dc000d]}45秒內{c[000000]}通過\n「超：Pres.異次元蘇姿」探索。
+WArea6Stage5Mission1	通過「超：異次元夢魘 復仇」探索。
+WArea6Stage5Mission2	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}「逆襲」套裝\n{c[000000]}通過「超：異次元夢魘 復仇」探索。
+WArea6Stage5Mission3	於通過「超：異次元夢魘 復仇」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage5Mission4	在{c[dc000d]}1分10秒內{c[000000]}通過\n「超：異次元夢魘 復仇」探索。
+WArea6Stage5Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}SDX強化的「D狂錘‧意向 復仇」{c[000000]}\n通過「超：異次元夢魘 復仇」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage5Mission6	用職業\x0e\x05\x01\x021\0的招式{c[dc000d]}「鬼殺火焰錘」\n{c[000000]}給予「超：異次元夢魘 復仇」最後一擊。
+WArea6Stage5Mission7	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：異次元夢魘 復仇」探索。
+WArea6Stage5Mission8	在{c[dc000d]}50秒內{c[000000]}通過\n「超：異次元夢魘 復仇」探索。
+WArea6Stage6Mission1	通過「超：異次元龍帝亞」探索。
+WArea6Stage6Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「異次元龍帝翁」套裝\n{c[000000]}通過「超：異次元龍帝亞」探索。
+WArea6Stage6Mission3	於通過「超：異次元龍帝亞」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage6Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：異次元龍帝亞」探索。
+WArea6Stage6Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}SDX強化的「異次元龍帝翁帽盔」{c[000000]}\n通過「超：異次元龍帝亞」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage6Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：異次元龍帝亞」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage6Mission7	以任意職業裝備{c[dc000d]}稀有度6以下的{c[000000]}武器防具\n通過「超：異次元龍帝亞」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage6Mission8	在{c[dc000d]}45秒內{c[000000]}通過\n「超：異次元龍帝亞」探索。
+WArea8Stage1Mission1	通過「超：圍繞淵源的英雄」探索。
+WArea8Stage1Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}「冥蝶」套裝\n{c[000000]}通過「超：圍繞淵源的英雄」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea8Stage1Mission3	於通過「超：圍繞淵源的英雄」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage1Mission4	在{c[dc000d]}1分鐘內{c[000000]}通過\n「超：圍繞淵源的英雄」探索。
+WArea8Stage1Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}SDX強化的「冥王之斬閃冥蝶」{c[000000]}\n通過「超：圍繞淵源的英雄」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage1Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「超：圍繞淵源的英雄」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage1Mission7	以{c[dc000d]}好友隕石{c[000000]}給予\n「超：圍繞淵源的英雄」最後一擊。
+WArea8Stage1Mission8	在{c[dc000d]}45秒內{c[000000]}通過\n「超：圍繞淵源的英雄」探索。
+WArea6Stage7Mission1	通過「極超：異次元夢魘 復仇」探索。
+WArea6Stage7Mission2	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}「店主魔法洛亞」套裝{c[000000]}\n通過「極超：異次元夢魘 復仇」探索，\n並獲得{c[dc000d]}黃金勳章以上{c[000000]}的評價。
+WArea6Stage7Mission3	於通過「極超：異次元夢魘 復仇」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage7Mission4	在{c[dc000d]}1分15秒內{c[000000]}通過\n「極超：異次元夢魘 復仇」探索。
+WArea6Stage7Mission5	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}SDX強化的「店主魔法洛亞」套裝{c[000000]}\n通過「極超：異次元夢魘 復仇」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage7Mission6	使用職業\x0e\x05\x03\x023\0裝備{c[dc000d]}SDX強化的「魔嚕酷」套裝{c[000000]}\n通過「極超：異次元夢魘 復仇」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage7Mission7	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「極超：異次元夢魘 復仇」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage7Mission8	在{c[dc000d]}1分5秒內{c[000000]}通過\n「極超：異次元夢魘 復仇」探索。
+WArea6Stage8Mission1	通過「極超：D大王‧意向 復仇」探索。
+WArea6Stage8Mission2	在「極超：D大王‧意向 復仇」探索中\n{c[dc000d]}沒有任何人力竭{c[000000]}。
+WArea6Stage8Mission3	於通過「極超：D大王‧意向 復仇」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage8Mission4	在{c[dc000d]}1分10秒內{c[000000]}通過\n「極超：D大王‧意向 復仇」探索。
+WArea6Stage8Mission5	使用職業\x0e\x05\x01\x021\0裝備{c[dc000d]}SDX強化的「逆襲之錘‧改」{c[000000]}\n通過「極超：D大王‧意向 復仇」探索。
+WArea6Stage8Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「極超：D大王‧意向 復仇」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea6Stage8Mission7	玩家等級{c[dc000d]}90{c[000000]}以上\n通過「極超：D大王‧意向 復仇」探索。
+WArea6Stage8Mission8	在{c[dc000d]}55秒內{c[000000]}通過\n「極超：D大王‧意向 復仇」探索。
+WArea8Stage2Mission1	通過「極超：真 最終決戰EX」探索。
+WArea8Stage2Mission2	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}DX強化的「騎士」套裝{c[000000]}\n通過「極超：真 最終決戰EX」探索。
+WArea8Stage2Mission3	於通過「極超：真 最終決戰EX」探索時\n獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage2Mission4	在{c[dc000d]}1分10秒內{c[000000]}通過\n「極超：真 最終決戰EX」探索。
+WArea8Stage2Mission5	使用職業\x0e\x05\0\x020\0裝備{c[dc000d]}SDX強化的「新手之劍」{c[000000]}\n通過「極超：真 最終決戰EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage2Mission6	在{c[dc000d]}沒有任何人力竭{c[000000]}的情況下\n通過「極超：真 最終決戰EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage2Mission7	裝備{c[dc000d]}SDX強化的「星光」套裝{c[000000]}\n通過「極超：真 最終決戰EX」探索，\n並獲得{c[dc000d]}白金勳章{c[000000]}。
+WArea8Stage2Mission8	在{c[dc000d]}55秒內{c[000000]}通過\n「極超：真 最終決戰EX」探索。
+Quest1	通過故事探索中的{c[dc000d]}7個鬼級別{c[000000]}探索。
+Quest2	開放故事探索中的{c[dc000d]}夢幻異界{c[000000]}。
+Quest3	通過{c[dc000d]}所有鬼級別{c[000000]}的熱鬧探索。
+Quest4	開放熱鬧探索中的{c[dc000d]}極超級別{c[000000]}。
+Level1	達到玩家等級{c[dc000d]}3{c[000000]}。
+Level2	達到玩家等級{c[dc000d]}5{c[000000]}。
+Level3	達到玩家等級{c[dc000d]}7{c[000000]}。
+Level4	達到玩家等級{c[dc000d]}10{c[000000]}。
+Level5	達到玩家等級{c[dc000d]}12{c[000000]}。
+Level6	達到玩家等級{c[dc000d]}15{c[000000]}。
+Level7	達到玩家等級{c[dc000d]}17{c[000000]}。
+Level8	達到玩家等級{c[dc000d]}20{c[000000]}。
+Level9	達到玩家等級{c[dc000d]}22{c[000000]}。
+Level10	達到玩家等級{c[dc000d]}25{c[000000]}。
+Level11	達到玩家等級{c[dc000d]}27{c[000000]}。
+Level12	達到玩家等級{c[dc000d]}30{c[000000]}。
+Level13	達到玩家等級{c[dc000d]}32{c[000000]}。
+Level14	達到玩家等級{c[dc000d]}35{c[000000]}。
+Level15	達到玩家等級{c[dc000d]}37{c[000000]}。
+Level16	達到玩家等級{c[dc000d]}40{c[000000]}。
+Level17	達到玩家等級{c[dc000d]}42{c[000000]}。
+Level18	達到玩家等級{c[dc000d]}45{c[000000]}。
+Level19	達到玩家等級{c[dc000d]}47{c[000000]}。
+Level20	達到玩家等級{c[dc000d]}50{c[000000]}。
+Level21	達到玩家等級{c[dc000d]}52{c[000000]}。
+Level22	達到玩家等級{c[dc000d]}55{c[000000]}。
+Level23	達到玩家等級{c[dc000d]}57{c[000000]}。
+Level24	達到玩家等級{c[dc000d]}60{c[000000]}。
+Level25	達到玩家等級{c[dc000d]}62{c[000000]}。
+Level26	達到玩家等級{c[dc000d]}65{c[000000]}。
+Level27	達到玩家等級{c[dc000d]}67{c[000000]}。
+Level28	達到玩家等級{c[dc000d]}70{c[000000]}。
+Level29	達到玩家等級{c[dc000d]}72{c[000000]}。
+Level30	達到玩家等級{c[dc000d]}75{c[000000]}。
+Level31	達到玩家等級{c[dc000d]}77{c[000000]}。
+Level32	達到玩家等級{c[dc000d]}80{c[000000]}。
+Level33	達到玩家等級{c[dc000d]}82{c[000000]}。
+Level34	達到玩家等級{c[dc000d]}85{c[000000]}。
+Level35	達到玩家等級{c[dc000d]}87{c[000000]}。
+Level36	達到玩家等級{c[dc000d]}90{c[000000]}。
+Level37	達到玩家等級{c[dc000d]}92{c[000000]}。
+Level38	達到玩家等級{c[dc000d]}95{c[000000]}。
+Level39	達到玩家等級{c[dc000d]}97{c[000000]}。
+Level40	達到玩家等級{c[dc000d]}100{c[000000]}。
+JobSword1	使用職業\x0e\x05\0\x020\0通過{c[dc000d]}5次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobSword2	使用職業\x0e\x05\0\x020\0通過{c[dc000d]}10次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobSword3	使用職業\x0e\x05\0\x020\0通過{c[dc000d]}20次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobSword4	使用職業\x0e\x05\0\x020\0通過{c[dc000d]}30次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobSword5	使用職業\x0e\x05\0\x020\0通過{c[dc000d]}50次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobHammer1	使用職業\x0e\x05\x01\x021\0通過{c[dc000d]}5次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobHammer2	使用職業\x0e\x05\x01\x021\0通過{c[dc000d]}10次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobHammer3	使用職業\x0e\x05\x01\x021\0通過{c[dc000d]}20次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobHammer4	使用職業\x0e\x05\x01\x021\0通過{c[dc000d]}30次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobHammer5	使用職業\x0e\x05\x01\x021\0通過{c[dc000d]}50次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobDoctor1	使用職業\x0e\x05\x02\x022\0通過{c[dc000d]}5次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobDoctor2	使用職業\x0e\x05\x02\x022\0通過{c[dc000d]}10次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobDoctor3	使用職業\x0e\x05\x02\x022\0通過{c[dc000d]}20次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobDoctor4	使用職業\x0e\x05\x02\x022\0通過{c[dc000d]}30次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobDoctor5	使用職業\x0e\x05\x02\x022\0通過{c[dc000d]}50次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobBeam1	使用職業\x0e\x05\x03\x023\0通過{c[dc000d]}5次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobBeam2	使用職業\x0e\x05\x03\x023\0通過{c[dc000d]}10次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobBeam3	使用職業\x0e\x05\x03\x023\0通過{c[dc000d]}20次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobBeam4	使用職業\x0e\x05\x03\x023\0通過{c[dc000d]}30次{c[000000]}探索{c[dc000d]} {c[000000]}。
+JobBeam5	使用職業\x0e\x05\x03\x023\0通過{c[dc000d]}50次{c[000000]}探索{c[dc000d]} {c[000000]}。
+Equipment1	在雜貨店購買{c[dc000d]}3個{c[000000]}裝備。
+Equipment2	在雜貨店購買{c[dc000d]}6個{c[000000]}裝備。
+Equipment3	在雜貨店購買{c[dc000d]}10個{c[000000]}裝備。
+Equipment4	在雜貨店購買{c[dc000d]}20個{c[000000]}裝備。
+Equipment5	在雜貨店購買{c[dc000d]}30個{c[000000]}裝備。
+Equipment6	在雜貨店購買{c[dc000d]}40個{c[000000]}裝備。
+Equipment7	在雜貨店購買{c[dc000d]}50個{c[000000]}裝備。
+Equipment8	在雜貨店購買{c[dc000d]}60個{c[000000]}裝備。
+Equipment9	在雜貨店購買{c[dc000d]}70個{c[000000]}裝備。
+Equipment10	在雜貨店購買{c[dc000d]}80個{c[000000]}裝備。
+Equipment11	在雜貨店購買{c[dc000d]}90個{c[000000]}裝備。
+Equipment12	在雜貨店購買{c[dc000d]}100個{c[000000]}裝備。
+AllEquipmentSword	在雜貨店購買了\n職業\x0e\x05\0\x020\0的{c[dc000d]}全部{c[000000]}裝備。
+AllEquipmentHammer	在雜貨店購買了\n職業\x0e\x05\x01\x021\0的{c[dc000d]}全部{c[000000]}裝備。
+AllEquipmentDoctor	在雜貨店購買了\n職業\x0e\x05\x02\x022\0的{c[dc000d]}全部{c[000000]}裝備。
+AllEquipmentBeam	在雜貨店購買了\n職業\x0e\x05\x03\x023\0的{c[dc000d]}全部{c[000000]}裝備。
+ArmsForgeZ1	在雜貨店將{c[dc000d]}1個{c[000000]}武器進行DX強化。
+ArmsForgeZ2	在雜貨店將{c[dc000d]}20個{c[000000]}武器進行DX強化。
+ArmsForgeZ3	在雜貨店將{c[dc000d]}50個{c[000000]}武器進行DX強化。
+AllArmsForgeZ	在雜貨店將所有職業的{c[dc000d]}全部武器\n{c[000000]}進行DX強化。
+HatForgeZ1	在雜貨店將{c[dc000d]}1個{c[000000]}防具進行DX強化。
+HatForgeZ2	在雜貨店將{c[dc000d]}20個{c[000000]}防具進行DX強化。
+HatForgeZ3	在雜貨店將{c[dc000d]}50個{c[000000]}防具進行DX強化。
+AllHatForgeZ	在雜貨店將所有職業的{c[dc000d]}全部防具\n{c[000000]}進行DX強化。
+ArmsForgeSZ1	在雜貨店將{c[dc000d]}1個{c[000000]}武器進行SDX強化。
+ArmsForgeSZ2	在雜貨店將{c[dc000d]}20個{c[000000]}武器進行SDX強化。
+ArmsForgeSZ3	在雜貨店將{c[dc000d]}50個{c[000000]}武器進行SDX強化。
+AllArmsForgeSZ	在雜貨店將所有職業的{c[dc000d]}全部武器\n{c[000000]}進行SDX強化。
+HatForgeSZ1	在雜貨店將{c[dc000d]}1個{c[000000]}防具進行SDX強化。
+HatForgeSZ2	在雜貨店將{c[dc000d]}20個{c[000000]}防具進行SDX強化。
+HatForgeSZ3	在雜貨店將{c[dc000d]}50個{c[000000]}防具進行SDX強化。
+AllHatForgeSZ	在雜貨店將所有職業的{c[dc000d]}全部防具\n{c[000000]}進行SDX強化。
+SupportItem1	在雜貨店購買{c[dc000d]}輔助道具{c[000000]}。
+SupportItem2	在雜貨店購買{c[dc000d]}3個輔助道具{c[000000]}。
+SupportMiniExp1	在探索前使用{c[dc000d]}迷你經驗值球{c[000000]}。
+SupportMiniExp2	在探索前使用{c[dc000d]}3次迷你經驗值球{c[000000]}。
+SupportExp1	在探索前使用{c[dc000d]}經驗值球{c[000000]}。
+SupportExp2	在探索前使用{c[dc000d]}3次經驗值球{c[000000]}。
+SupportHP1	在探索前使用{c[dc000d]}體力藥{c[000000]}。
+SupportHP2	在探索前使用{c[dc000d]}3次體力藥{c[000000]}。
+SupportAtk1	在探索前使用{c[dc000d]}攻擊藥{c[000000]}。
+SupportAtk2	在探索前使用{c[dc000d]}3次攻擊藥{c[000000]}。
+SupportBook1	在雜貨店購買{c[dc000d]}1本{c[000000]}書。
+SupportBook2	合計在雜貨店購買{c[dc000d]}3本{c[000000]}書。
+SupportBook3	合計在雜貨店購買{c[dc000d]}5本{c[000000]}書。
+SupportBook4	合計在雜貨店購買{c[dc000d]}8本{c[000000]}書。
+SupportBook5	合計在雜貨店購買{c[dc000d]}10本{c[000000]}書。
+SupportBook6	合計在雜貨店購買{c[dc000d]}15本{c[000000]}書。
+SupportBook7	合計在雜貨店購買{c[dc000d]}20本{c[000000]}書。
+SupportBook8	合計在雜貨店購買{c[dc000d]}30本{c[000000]}書。
+SupportBook9	合計在雜貨店購買{c[dc000d]}40本{c[000000]}書。
+SupportBook10	合計在雜貨店購買{c[dc000d]}50本{c[000000]}書。
+HighScore1	合計最高分數超過{c[dc000d]}3000分{c[000000]}。
+HighScore2	合計最高分數超過{c[dc000d]}10000分{c[000000]}。
+HighScore3	合計最高分數超過{c[dc000d]}20000分{c[000000]}。
+HighScore4	合計最高分數超過{c[dc000d]}30000分{c[000000]}。
+HighScore5	合計最高分數超過{c[dc000d]}50000分{c[000000]}。
+HighScore6	合計最高分數超過{c[dc000d]}75000分{c[000000]}。
+HighScore7	合計最高分數超過{c[dc000d]}100000分{c[000000]}。
+HighScore8	合計最高分數超過{c[dc000d]}120000分{c[000000]}。
+HighScore9	合計最高分數超過{c[dc000d]}130000分{c[000000]}。
+HighScore10	合計最高分數超過{c[dc000d]}150000分{c[000000]}。
+HighScore11	合計最高分數超過{c[dc000d]}170000分{c[000000]}。
+HighScore12	合計最高分數超過{c[dc000d]}200000分{c[000000]}。
+HighScore13	合計最高分數超過{c[dc000d]}220000分{c[000000]}。
+HighScore14	合計最高分數超過{c[dc000d]}240000分{c[000000]}。
+HighScore15	合計最高分數超過{c[dc000d]}260000分{c[000000]}。
+HighScore16	合計最高分數超過{c[dc000d]}280000分{c[000000]}。
+Clear1	通過{c[dc000d]}3次{c[000000]}故事探索。
+Clear2	通過{c[dc000d]}7次{c[000000]}故事探索。
+Clear3	通過{c[dc000d]}10次{c[000000]}故事探索。
+Clear4	通過{c[dc000d]}20次{c[000000]}故事探索。
+Clear5	通過{c[dc000d]}30次{c[000000]}故事探索。
+Clear6	通過{c[dc000d]}50次{c[000000]}故事探索。
+Clear7	通過{c[dc000d]}70次{c[000000]}故事探索。
+Clear8	通過{c[dc000d]}100次{c[000000]}故事探索。
+Clear9	通過{c[dc000d]}120次{c[000000]}故事探索。
+Clear10	通過{c[dc000d]}150次{c[000000]}故事探索。
+Clear11	通過{c[dc000d]}170次{c[000000]}故事探索。
+Clear12	通過{c[dc000d]}200次{c[000000]}故事探索。
+Clear13	通過{c[dc000d]}220次{c[000000]}故事探索。
+Clear14	通過{c[dc000d]}250次{c[000000]}故事探索。
+Clear15	通過{c[dc000d]}270次{c[000000]}故事探索。
+Clear16	通過{c[dc000d]}300次{c[000000]}故事探索。
+MultiPlay1	和{c[dc000d]}其他人一起{c[000000]}通過探索。\n（包含分享遊玩）
+MultiPlay2	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}3次{c[000000]}。\n（包含分享遊玩）
+MultiPlay3	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}7次{c[000000]}。\n（包含分享遊玩）
+MultiPlay4	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}10次{c[000000]}。\n（包含分享遊玩）
+MultiPlay5	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}15次{c[000000]}。\n（包含分享遊玩）
+MultiPlay6	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}20次{c[000000]}。\n（包含分享遊玩）
+MultiPlay7	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}30次{c[000000]}。\n（包含分享遊玩）
+MultiPlay8	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}40次{c[000000]}。\n（包含分享遊玩）
+MultiPlay9	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}50次{c[000000]}。\n（包含分享遊玩）
+MultiPlay10	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}60次{c[000000]}。\n（包含分享遊玩）
+MultiPlay11	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}70次{c[000000]}。\n（包含分享遊玩）
+MultiPlay12	和{c[dc000d]}其他人一起{c[000000]}通過探索{c[dc000d]}80次{c[000000]}。\n（包含分享遊玩）
+AllArea1Clear	通過{c[dc000d]}海岸{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea2Clear	通過{c[dc000d]}沙丘{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea3Clear	通過{c[dc000d]}古跡{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea4Clear	通過{c[dc000d]}火山{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea5Clear	通過{c[dc000d]}天空{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea6Clear	通過{c[dc000d]}大決戰{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea7Clear	通過{c[dc000d]}草原{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea8Clear	通過{c[dc000d]}夢幻異界{c[000000]}的{c[dc000d]}全部{c[000000]}探索。
+AllArea1ClearPlatinum	通過{c[dc000d]}海岸{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea2ClearPlatinum	通過{c[dc000d]}沙丘{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea3ClearPlatinum	通過{c[dc000d]}古跡{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea4ClearPlatinum	通過{c[dc000d]}火山{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea5ClearPlatinum	通過{c[dc000d]}天空{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea6ClearPlatinum	通過{c[dc000d]}大決戰{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea7ClearPlatinum	通過{c[dc000d]}草原{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+AllArea8ClearPlatinum	通過{c[dc000d]}夢幻異界{c[000000]}的所有探索，\n並{c[dc000d]}全部{c[000000]}獲得{c[dc000d]}白金勳章{c[000000]}。
+VisitTraveller1	合計和{c[dc000d]}15名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+VisitTraveller2	合計和{c[dc000d]}30名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+VisitTraveller3	合計和{c[dc000d]}60名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+VisitTraveller4	合計和{c[dc000d]}100名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+VisitTraveller5	合計和{c[dc000d]}150名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+VisitTraveller6	合計和{c[dc000d]}300名{c[000000]}\n{c[dc000d]}旅人{c[000000]}相遇。
+TravellerBell1	敲響{c[dc000d]}旅人之鐘{c[000000]}的次數\n合計達到{c[dc000d]}5次{c[000000]}。
+TravellerBell2	敲響{c[dc000d]}旅人之鐘{c[000000]}的次數\n合計達到{c[dc000d]}15次{c[000000]}。
+TravellerBell3	敲響{c[dc000d]}旅人之鐘{c[000000]}的次數\n合計達到{c[dc000d]}30次{c[000000]}。
+TravellerBell4	敲響{c[dc000d]}旅人之鐘{c[000000]}的次數\n合計達到{c[dc000d]}50次{c[000000]}。
+MaterialFrame	持有的{c[dc000d]}炎之碎片{c[000000]}數量\n超過了{c[dc000d]}1000個{c[000000]}。
+MaterialWater	持有的{c[dc000d]}水之碎片{c[000000]}數量\n超過了{c[dc000d]}1000個{c[000000]}。
+MaterialLight	持有的{c[dc000d]}光之碎片{c[000000]}數量\n超過了{c[dc000d]}1000個{c[000000]}。
+MaterialFrameMax	持有的{c[dc000d]}炎之碎片{c[000000]}數量\n超過了{c[dc000d]}9999個{c[000000]}。
+MaterialWaterMax	持有的{c[dc000d]}水之碎片{c[000000]}數量\n超過了{c[dc000d]}9999個{c[000000]}。
+MaterialLightMax	持有的{c[dc000d]}光之碎片{c[000000]}數量\n超過了{c[dc000d]}9999個{c[000000]}。
+Watchword	在暗號之祠中{c[dc000d]}使用暗號{c[000000]}。
+Picture	從以前的遊戲{c[dc000d]}跳往Nintendo eShop{c[000000]}。
+Ticket	在探索的戰鬥中\n取得{c[dc000d]}稀有碎片{c[000000]} 。
+StampSingle	在成員選擇畫面{c[dc000d]}使用圖章{c[000000]}。
+StampStep	在探索的戰鬥中{c[dc000d]}使用圖章{c[000000]}。
+TravellerBellFirst	第一次敲響{c[dc000d]}旅人之鐘{c[000000]}。
+TrophyClear1	達成{c[dc000d]}100個{c[000000]}勇者任務。
+TrophyClear2	達成{c[dc000d]}200個{c[000000]}勇者任務。
+TrophyClear3	達成{c[dc000d]}300個{c[000000]}勇者任務。
+TrophyClear4	達成{c[dc000d]}400個{c[000000]}勇者任務。
+TrophyClear5	達成{c[dc000d]}500個{c[000000]}勇者任務。
+TrophyClear6	達成{c[dc000d]}600個{c[000000]}勇者任務。
+TrophyClear7	達成{c[dc000d]}700個{c[000000]}勇者任務。
+TrophyAllComplete	達成{c[dc000d]}全部的勇者任務{c[000000]}。
+StampCollect1	收藏的圖章數量\n合計達到{c[dc000d]}10個{c[000000]}。
+StampCollect2	收藏的圖章數量\n合計達到{c[dc000d]}15個{c[000000]}。
+StampCollect3	收藏的圖章數量\n合計達到{c[dc000d]}20個{c[000000]}。
+StampCollect4	收藏的圖章數量\n合計達到{c[dc000d]}30個{c[000000]}。
+StampCollect5	收藏的圖章數量\n合計達到{c[dc000d]}40個{c[000000]}。
+StampCollect6	收藏{c[dc000d]}全部的圖章{c[000000]}。
+AppleGet1	合計收集到\n{c[dc000d]}30顆{c[000000]}蘋果寶石。
+AppleGet2	合計收集到\n{c[dc000d]}100顆{c[000000]}蘋果寶石。
+AppleGet3	合計收集到\n{c[dc000d]}300顆{c[000000]}蘋果寶石。
+AppleGet4	合計收集到\n{c[dc000d]}500顆{c[000000]}蘋果寶石。
+AppleGet5	合計收集到\n{c[dc000d]}1000顆{c[000000]}蘋果寶石。
+AppleGet6	合計收集到\n{c[dc000d]}2500顆{c[000000]}蘋果寶石。
+AppleGet7	合計收集到\n{c[dc000d]}5000顆{c[000000]}蘋果寶石。
+AppleGet8	合計收集到\n{c[dc000d]}10000顆{c[000000]}蘋果寶石。
+AppleUse1	合計使用了\n{c[dc000d]}30顆{c[000000]}蘋果寶石。
+AppleUse2	合計使用了\n{c[dc000d]}100顆{c[000000]}蘋果寶石。
+AppleUse3	合計使用了\n{c[dc000d]}300顆{c[000000]}蘋果寶石。
+AppleUse4	合計使用了\n{c[dc000d]}500顆{c[000000]}蘋果寶石。
+AppleUse5	合計使用了\n{c[dc000d]}1000顆{c[000000]}蘋果寶石。
+AppleUse6	合計使用了\n{c[dc000d]}2500顆{c[000000]}蘋果寶石。
+AppleUse7	合計使用了\n{c[dc000d]}5000顆{c[000000]}蘋果寶石。
+AppleUse8	合計使用了\n{c[dc000d]}10000顆{c[000000]}蘋果寶石。
+RewardApple	蘋果寶石 {c[dc000d]}\x0e\x02\x01\0顆{c[000000]}
+RewardTicket	稀有碎片 {c[dc000d]}\x0e\x02\x01\0個{c[000000]}
+RewardStamp01	可以購買\n{c[dc000d]}\x0e\x02\x0f\0{c[000000]}圖章了。
+RewardStamp02	?????
+MelonPauseMenu.msbt
+PageNumSlash	/
+HeaderMelonRightDir	朝向右邊時
+DialogExitMelon	要{c[dc000d]}退出遊戲{c[000000]}，\n返回區域選擇嗎？
+DialogRetryMelon	要{c[dc000d]}重新開始{c[000000]}探索嗎？
+DialogRetryMelonMotivationCheck	要使用{c[dc000d]}\x0e\x02\x01\0{c[000000]}幹勁，\n{c[dc000d]}重新開始{c[000000]}探索嗎？
+AblMelonSwordTitle1	英雄利劍1
+AblMelonSwordTitle2	英雄利劍2
+AblMelonSwordTitle3	英雄利劍3
+AblMelonSwordTitle4	英雄利劍4
+AblMelonSwordTitle5	基本操作1
+AblMelonSwordTitle6	基本操作2
+AblMelonHammerTitle1	重錘子1
+AblMelonHammerTitle2	重錘子2
+AblMelonHammerTitle3	基本操作1
+AblMelonHammerTitle4	基本操作2
+AblMelonBeamTitle1	魔法光束1
+AblMelonBeamTitle2	魔法光束2
+AblMelonBeamTitle3	基本操作1
+AblMelonBeamTitle4	基本操作2
+AblMelonDoctorTitle1	治癒醫生1
+AblMelonDoctorTitle2	治癒醫生2
+AblMelonDoctorTitle3	治癒醫生3
+AblMelonDoctorTitle4	基本操作1
+AblMelonDoctorTitle5	基本操作2
+AblMelonSwordNormal	直斬
+AblMelonSwordComboAttack	劍百烈斬～決定一斬
+AblMelonSwordDril	鑽擊劍
+AblMelonSwordSpin	旋轉劍
+AblMelonSwordChopping	劈～出劍
+AblMelonSwordChoppingUnder	破盔刺
+AblMelonSwordUnder	下刺
+AblMelonSwordUpper	飛昇斬
+AblMelonSwordMeteoend	隕石終結
+AblMelonSwordRoll	迴旋斬
+AblMelonSwordTornade	龍捲斬
+AblMelonSwordSkyCharge	天空能量劍
+AblMelonSwordHeroBarrier	英雄盾
+AblMelonSwordSpell	復活的咒文
+AblMelonSwordJump	跳躍/盤旋
+AblMelonSwordDash	衝刺
+AblMelonSwordSquat	蹲下
+AblMelonSwordSliding	滑壘
+AblMelonSwordAvoid	當下迴避
+AblMelonSwordAirAvoid	空中迴避
+AblMelonSwordNormalBtn	\x0e\x04\x06\x022\0
+AblMelonSwordComboAttackBtn	直斬後\x0e\x04\x06\x022\0
+AblMelonSwordDrilBtn	衝刺＋\x0e\x04\x06\x022\0
+AblMelonSwordSpinBtn	衝刺＋在空中\x0e\x04\x06\x022\0
+AblMelonSwordChoppingBtn	在空中\x0e\x04\x06\x022\0
+AblMelonSwordChoppingUnderBtn	劈出劍～在空中\n\x0e\x04\x15\x02Â\0＋\x0e\x04\x06\x022\0
+AblMelonSwordUnderBtn	在空中\x0e\x04\x15\x02Â\0＋\x0e\x04\x06\x022\0
+AblMelonSwordUpperBtn	\x0e\x04\x17\x02Ä\0＋\x0e\x04\x06\x022\0
+AblMelonSwordMeteoendBtn	飛昇斬的上升時\n\x0e\x04\x15\x02Â\0＋\x0e\x04\x06\x022\0
+AblMelonSwordRollBtn	長按\x0e\x04\x06\x022\0～放開
+AblMelonSwordTornadeBtn	長按\x0e\x04\x06\x022\0～放開＋\x0e\x04\x17\x02Ä\0
+AblMelonSwordSkyChargeBtn	長按\x0e\x04\x17\x02Ä\0～放開＋\x0e\x04\x06\x022\0
+AblMelonSwordHeroBarrierBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonSwordSpellBtn	在被打倒的\n同伴身旁\x0e\x04\x07\x023\0
+AblMelonSwordJumpBtn	\x0e\x04\x05\x021\0
+AblMelonSwordDashBtn	快速地\x0e\x04\x14\x02Á\0/\x0e\x04\x14\x02Á\0\x0e\x16\0\0\x0e\x04\x14\x02Á\0
+AblMelonSwordSquatBtn	\x0e\x04\x15\x02Â\0
+AblMelonSwordSlidingBtn	\x0e\x04\x15\x02Â\0+\x0e\x04\x05\x021\0
+AblMelonSwordAvoidBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0+\x0e\x04\x13\x02À\0
+AblMelonSwordAirAvoidBtn	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonDoctorBoundCrystal	彈跳寶石
+AblMelonDoctorLabo	科學研究所
+AblMelonDoctorKeepLabo	研究保存
+AblMelonDoctorSpray	藥劑噴霧
+AblMelonDoctorSpin	繃帶旋轉
+AblMelonDoctorCrystalPot	寶石商店
+AblMelonDoctorImpact	書本‧衝擊
+AblMelonDoctorHealing	治癒地帶
+AblMelonDoctorSpell	復活的咒文
+AblMelonDoctorJump	跳躍/盤旋
+AblMelonDoctorDash	衝刺
+AblMelonDoctorSquat	蹲下
+AblMelonDoctorSliding	滑壘
+AblMelonDoctorGuard	防禦
+AblMelonDoctorAvoid	當下迴避
+AblMelonDoctorAirAvoid	空中迴避
+AblMelonDoctorBoundCrystalBtn	\x0e\x04\x06\x022\0
+AblMelonDoctorLaboBtn	\x0e\x04\x15\x02Â\0＋超長按\x0e\x04\x06\x022\0\n～放開
+AblMelonDoctorKeepLaboBtn	科學研究所\n～\x0e\x04\x05\x021\0/防禦
+AblMelonDoctorSprayBtn	\x0e\x04\x17\x02Ä\0＋\x0e\x04\x06\x022\0
+AblMelonDoctorSpinBtn	衝刺＋在空中\x0e\x04\x06\x022\0
+AblMelonDoctorCrystalPotBtn	衝刺＋在空中\n長按\x0e\x04\x06\x022\0
+AblMelonDoctorImpactBtn	衝刺＋\x0e\x04\x06\x022\0
+AblMelonDoctorHealingBtn	長按\x0e\x04\x06\x022\0～放開
+AblMelonDoctorSpellBtn	在被打倒的\n同伴身旁\x0e\x04\x07\x023\0
+AblMelonDoctorJumpBtn	\x0e\x04\x05\x021\0
+AblMelonDoctorDashBtn	快速地\x0e\x04\x14\x02Á\0/\x0e\x04\x14\x02Á\0\x0e\x16\0\0\x0e\x04\x14\x02Á\0
+AblMelonDoctorSquatBtn	\x0e\x04\x15\x02Â\0
+AblMelonDoctorSlidingBtn	\x0e\x04\x15\x02Â\0+\x0e\x04\x05\x021\0
+AblMelonDoctorGuardBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonDoctorAvoidBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0+\x0e\x04\x13\x02À\0
+AblMelonDoctorAirAvoidBtn	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonHammerNormal	錘子敲擊
+AblMelonHammerGiantSwing	大回環
+AblMelonHammerRoll	大車輪
+AblMelonHammerRoolHyper	極‧大車輪
+AblMelonHammerUnder	轉轉錘子
+AblMelonHammerFire	鬼殺火焰錘
+AblMelonHammerSpell	復活的咒文
+AblMelonHammerJump	跳躍/盤旋
+AblMelonHammerDash	衝刺
+AblMelonHammerSquat	蹲下
+AblMelonHammerSliding	滑壘
+AblMelonHammerGuard	防禦
+AblMelonHammerAvoid	當下迴避
+AblMelonHammerAirAvoid	空中迴避
+AblMelonHammerNormalBtn	\x0e\x04\x06\x022\0
+AblMelonHammerGiantSwingBtn	衝刺＋\x0e\x04\x06\x022\0
+AblMelonHammerRollBtn	在空中\x0e\x04\x06\x022\0
+AblMelonHammerRoolHyperBtn	衝刺＋在空中\x0e\x04\x06\x022\0
+AblMelonHammerUnderBtn	\x0e\x04\x15\x02Â\0＋\x0e\x04\x06\x022\0
+AblMelonHammerFireBtn	\x0e\x04\x17\x02Ä\0＋長按\x0e\x04\x06\x022\0～放開
+AblMelonHammerSpellBtn	在被打倒的\n同伴身旁\x0e\x04\x07\x023\0
+AblMelonHammerJumpBtn	\x0e\x04\x05\x021\0
+AblMelonHammerDashBtn	快速地\x0e\x04\x14\x02Á\0/\x0e\x04\x14\x02Á\0\x0e\x16\0\0\x0e\x04\x14\x02Á\0
+AblMelonHammerSquatBtn	\x0e\x04\x15\x02Â\0
+AblMelonHammerSlidingBtn	\x0e\x04\x15\x02Â\0+\x0e\x04\x05\x021\0
+AblMelonHammerGuardBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonHammerAvoidBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0+\x0e\x04\x13\x02À\0
+AblMelonHammerAirAvoidBtn	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonBeamWhip	光束鞭
+AblMelonBeamCicle	周波光束
+AblMelonBeamMachinegun	光束機關槍
+AblMelonBeamTime	時間光束
+AblMelonBeamSpell	復活的咒文
+AblMelonBeamJump	跳躍/盤旋
+AblMelonBeamDash	衝刺
+AblMelonBeamSquat	蹲下
+AblMelonBeamSliding	滑壘
+AblMelonBeamGuard	防禦
+AblMelonBeamAvoid	當下迴避
+AblMelonBeamAirAvoid	空中迴避
+AblMelonBeamWhipBtn	\x0e\x04\x06\x022\0
+AblMelonBeamCicleBtn	衝刺＋\x0e\x04\x06\x022\0
+AblMelonBeamMachinegunBtn	衝刺＋在空中\x0e\x04\x06\x022\0
+AblMelonBeamTimeBtn	長按\x0e\x04\x06\x022\0～放開
+AblMelonBeamSpellBtn	在被打倒的\n同伴身旁\x0e\x04\x07\x023\0
+AblMelonBeamJumpBtn	\x0e\x04\x05\x021\0
+AblMelonBeamDashBtn	快速地\x0e\x04\x14\x02Á\0/\x0e\x04\x14\x02Á\0\x0e\x16\0\0\x0e\x04\x14\x02Á\0
+AblMelonBeamSquatBtn	\x0e\x04\x15\x02Â\0
+AblMelonBeamSlidingBtn	\x0e\x04\x15\x02Â\0+\x0e\x04\x05\x021\0
+AblMelonBeamGuardBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+AblMelonBeamAvoidBtn	\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0+\x0e\x04\x13\x02À\0
+AblMelonBeamAirAvoidBtn	在空中\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0
+MelonResult.msbt
+ExpText	經驗值
+ClearTimeText	過關時間
+TimeUpText	時間到
+NewRecordText	NEW
+BonusTextBossKill	擊破獎勵
+BonusTextSpeedClear	快速過關獎勵
+BonusTelopTextClearTime	+過關時間 \x0e\x02\x01\0:\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0.\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0
+BonusTelopTextBossKill	+擊破獎勵\x0e\x02\x01\0
+BonusTelopTextSpeedClear	+快速過關獎勵\x0e\x02\x01\0
+ClearTimeNum1	\x0e\x02\x01\0:\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0
+ClearTimeNum2	.\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0
+QuestClear	Quest Clear
+NextButtonText	\x0e\x04\x05\x021\0下一步
+CreditButtonText	前往製作人員名單
+TownButtonText	前往小鎮
+LastSlayer	給予最後一擊的玩家
+AllMember	\x0e\x17\x01\0大家一起\x0f\x17\x01
+LevelUpExp	獲得了\x0e\x02\x01\0{c[dc000d]}經驗值{c[000000]}！
+LevelUpLevel	{c[dc000d]}等級{c[000000]}提升至\x0e\x02\x01\0了！
+LevelUpParam	因為等級提升而變得更加強大了！
+LevelUpOther1	鬥志提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther2	溫柔度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther3	眼睛的光澤度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther4	噗噗噗提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther5	臉頰肉提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther6	肌膚觸感提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther7	誠意提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther8	身體的圓潤度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther9	成熟氣質提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther10	與同伴間的默契提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther11	可靠度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther12	美麗度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther13	肚子的健康度提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther14	唱歌的技巧提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther15	領袖魅力提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther16	夢想力提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther17	魅力提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther18	彈力提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther19	野性的直覺提高了\x0e\x02\x01\0點！（但沒有意義）
+LevelUpOther20	與同伴的默契{c[dc000d]}超{c[000000]}越極限了！（但沒有意義）
+LevelUpMaximum	終於達到了{c[dc000d]}最大等級{c[000000]}！
+LevelUpJobMaster	{c[dc000d]}最強的職業大師{c[000000]}誕生了！
+BonusTextNetwork	透過{c[dc000d]}通訊獎勵{c[000000]}能獲得的{c[dc000d]}經驗值{c[000000]}增加了！
+BonusTextExpBallWithNetwork	而且透過{c[dc000d]}經驗值球{c[000000]}所獲得的{c[dc000d]}經驗值{c[000000]}提升為2倍！
+BonusTextMiniExpBallWithNetwork	而且透過{c[dc000d]}迷你經驗值球{c[000000]}所獲得的{c[dc000d]}經驗值{c[000000]}提升為1.5倍！
+BonusTextExpBall	透過{c[dc000d]}經驗值球{c[000000]}所獲得的{c[dc000d]}經驗值{c[000000]}變成2倍！
+BonusTextMiniExpBall	透過{c[dc000d]}迷你經驗值球{c[000000]}所獲得的{c[dc000d]}經驗值{c[000000]}變成1.5倍！
+LevelUpMotivation	{c[dc000d]}幹勁{c[000000]}提升了\x0e\x02\x01\0，並且完全回復了！
+MaterialFlame	炎之碎片
+MaterialWater	水之碎片
+MaterialLight	光之碎片
+MaterialTicket_00	稀有碎片
+MaterialApple	蘋果寶石
+SupportHP	體力藥
+SupportAttack	攻擊藥
+SupportExp	經驗值球
+SupportMiniExp	迷你經驗值球
+ResultReward	獲得了{c[dc000d]}獎賞{c[000000]}！
+ResultEquipmentReward	現在能購入{c[dc000d]}稀有\x0e\x02\x01\0{c[000000]}裝備了！
+ResultEquipmentZPowerUp	現在能對{c[dc000d]}稀有\x0e\x02\x01\0{c[000000]}裝備進行DX強化！
+ResultEquipmentSZPowerUp	現在能對{c[dc000d]}稀有\x0e\x02\x01\0{c[000000]}裝備進行SDX強化！
+ResultTicketReward	竟然獲得了{c[dc000d]}稀有碎片{c[000000]}！
+LuckyBoxOpen	打開{c[dc000d]}幸運箱{c[000000]}！
+SupportItemPresent	獲得了{c[dc000d]}輔助道具{c[000000]}！
+LoseItemPresent	什麼？是來自小鎮居民們的{c[dc000d]}鼓勵{c[000000]}！
+ItemMaxFirst	目前道具{c[dc000d]}已滿{c[000000]}，無法持有更多。\n請多多使用道具吧。
+ItemMaxMark	MAX
+NextWindowBtn1	進行相同的探索
+NextWindowBtn2	進行不同的探索
+NextWindowBtn3	進行委託配對的探索
+NextWindowBtn4	前往小鎮
+NextWindowBtn5	解散
+LevelCapRaised	由於勇者級別提高，\n{c[dc000d]}最大等級{c[000000]}也提升了！\n現在能夠將等級提升至\x0e\x02\x01\0！
+LevelCapRaisedMax	由於勇者級別提高，\n{c[dc000d]}最大等級{c[000000]}也提升了！\n現在能夠提升至\n最終的{c[dc000d]}最大等級{c[000000]}了！
+OpenNewStamp	能夠購入圖章{c[dc000d]}\x0e\x02\x0f\0{c[000000]}了！
+OpenNewYYQuest	追加了全新的{c[dc000d]}熱鬧探索{c[000000]}！
+ReachMaxLevelDlog	已達{c[dc000d]}最大等級{c[000000]}。\n勇者級別成長至\x0e\x02\x01\0後，\n{c[dc000d]}最大等級{c[000000]}也會提升。
+ReachMaxLevelInfo	達成勇者任務，\n提升{c[ff4b32]}最大等級{c[000000]}吧！
+ReachMaxLevelInfo2	再達成{c[dc000d]}\x0e\x02\x01\0個{c[000000]}勇者任務吧！
+NextRankTime1	\x0e\x02\x01\0:\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0即可獲得白銀級別
+NextRankTime2	\x0e\x02\x01\0:\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0即可獲得黃金級別
+NextRankTime3	\x0e\x02\x01\0:\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0即可獲得白金級別
+ComplatePlatinam	白金完成！
+ComplateMission	任務完成！
+MelonStep.msbt
+LivePinch	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0陷入危機了！
+LiveDeath	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0力竭倒下了……
+LiveRevive	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0復活了！
+LiveRecovery	被\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0用嘴餵食後回復了！
+LiveEnemyAppear	\x0e\x02\x02\0出現了！
+LiveEnemyAnger	\x0e\x02\x02\0生氣了……！
+LiveEnemyAnger2	\x0e\x02\x02\0解放力量了……！
+LiveEliminate	差一點點就能打敗了！
+LiveAttack	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0的攻擊炸裂了！
+LiveHealingArea	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0製造了治癒地帶！
+LiveWaveShot	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0的時間光束命中了！
+LiveTimeStop	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0暫停了敵人的時間！
+LivePay	\x0e\x17\0\0\x0e\x02\x02\0\x0f\x17\0使用了蘋果寶石！
+LiveLithographAppear	第\x0e\x02\x01\0個石板出現了！
+LiveLithographLost	有1個石板消失了……
+LiveLithographEverything	湊齊所有石板了！
+LiveMeteorSmash	使用好友隕石造成了嚴重傷害！
+QTEProdText	在移動到正中間時停止吧！
+QTECountDownText	還剩下
+QTEResultText01	完美！！
+QTEResultText02	優秀！
+QTEResultText03	很好！
+QTEResultText04	不佳
+QTEResultText05	失敗……
+TipsGameOverEquipmentHeaderText	當無法獲勝時，就購買新的裝備吧！
+TipsGameOverEquipmentBodyText	當無法獲勝時，\n就前往{c[ffde00]}雜貨店{c[000000]}購入更強的{c[ffde00]}武器{c[000000]}和{c[ffde00]}防具{c[000000]}吧！
+TipsGameOverLevelUpHeaderText	當無法獲勝時，就先提升等級吧！
+TipsGameOverLevelUpBodyText	當無法獲勝時，\n就先挑戰其他探索{c[ffde00]}提升等級吧！{c[000000]}
+TipsGameOverJobBalanceHeaderText	隊伍的平衡就是致勝關鍵！
+TipsGameOverJobBalanceBodyText	輔助與攻擊間的平衡十分重要！\n仔細思考隊伍內的{c[ffde00]}職業平衡{c[000000]}吧！
+TipsGameOverGuardHeaderText	使用防禦吧！
+TipsGameOverGuardBodyText	碰到難以閃躲的攻擊，\n就按下\x0e\x04\t\x02`\0/\x0e\x04\n\x02a\0，用{c[ffde00]}防禦{c[000000]}來減輕傷害！
+TipsGameOverBetterLevelHeaderText	探索的推薦等級
+TipsGameOverBetterLevelBodyText	每個探索都有各自的{c[ffde00]}推薦等級{c[000000]}！\n難以取勝的時候，就先提升自己的等級吧！
+TipsGameOverTravellerHeaderText	呼叫旅人吧！
+TipsGameOverTravellerBodyText	敲響旅人之鐘呼叫旅人吧！\n說不定其他玩家或朋友會來喔……？
+TipsGameOverFlyEnemySwordHeaderText	英雄利劍與在空中飛舞的敵人
+TipsGameOverFlyEnemySwordBodyText	按下\x0e\x04\x17\x02Ä\0+\x0e\x04\x06\x022\0，\n使出{c[ffde00]}飛昇斬{c[000000]}來攻擊{c[ffde00]}空中的敵人{c[000000]}！
+TipsGameOverFlyEnemyDoctorHeaderText	治癒醫生與在空中飛舞的敵人
+TipsGameOverFlyEnemyDoctorBodyText	按下\x0e\x04\x17\x02Ä\0+\x0e\x04\x06\x022\0，\n使出{c[ffde00]}藥劑噴霧{c[000000]}來攻擊{c[ffde00]}空中的敵人{c[000000]}！
+TipsGameOverGoWaiwaiHeaderText	和別人一起遊玩
+TipsGameOverGoWaiwaiBodyText	在熱鬧探索中無法獲勝的時候，\n就用{c[ffde00]}線上通訊{c[000000]}或{c[ffde00]}鄰近主機通訊{c[000000]}一起遊玩吧！
+TipsGameOverGoStoryHeaderText	和別人一起遊玩故事探索吧
+TipsGameOverGoStoryBodyText	在故事探索中無法獲勝的時候，\n就用{c[ffde00]}分享遊玩功能{c[000000]}和別人一起遊玩吧！
+NetQuestCancelCommand	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0+\x0e\x04\t\x02`\0
+NetQuestCancelText	退出探索
+CheckContinueText	要使用{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石\n{c[dc000d]}復活{c[000000]}所有人嗎？
+CheckTimeUpContinueText	{s[100]}要使用{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石\n延長30秒{c[dc000d]}剩餘時間{c[000000]}嗎？{s[100]}
+LiveRareMaterialAppear	敵人掉落了稀有碎片！
+LiveRareMaterialAppear_00	敵人掉落了幸運箱！
+LiveRareMaterialBreak	打破稀有碎片的防護罩吧！
+LiveRareMaterialBreak_00	打破幸運箱的防護罩吧！
+LiveRareMaterialGet	獲得了稀有碎片！
+LiveRareMaterialGet_00	獲得了幸運箱！
+LiveRareMaterialLost	稀有碎片消失了……
+LiveRareMaterialLost_00	幸運箱消失了……
+SupportExpUpNotification	經驗值2倍的探索！
+SupportMiniExpUpNotification	經驗值1.5倍的探索！
+PauseButtonTitle	暫停
+instWindow_01	按\x0e\x04\x06\x022\0進行{c[dc000d]}攻擊！{c[000000]}
+instWindow_02	按\x0e\x04\t\x02`\0或\x0e\x04\n\x02a\0進行{c[dc000d]}防禦！{c[000000]}
+instWindow_03	按\x0e\x04\x05\x021\0進行{c[dc000d]}跳躍！{c[000000]}
+pauseInfo	\x0e\x04\x12\x02\x95\0/\x0e\x04\x11\x02\x94\0暫停（操作說明）
+pinchIcon	危機!
+helpIcon	HELP!
+MelonTown.msbt
+BalloonShop	\x0e\x04\x17\x02Ä\0雜貨店
+BalloonQuestBoard	\x0e\x04\x17\x02Ä\0探索
+BalloonTree	\x0e\x04\x17\x02Ä\0收成
+BalloonTreeTutorial	\x0e\x04\x17\x02Ä\0對話
+BalloonAmiiboStatue	\x0e\x04\x17\x02Ä\0amiibo
+BalloonWatchwordTemple	\x0e\x04\x17\x02Ä\0暗號
+BalloonTraveler	\x0e\x04\x17\x02Ä\0\x0e\x17\0\0\x0e\x02\x02\0 \x0f\x17\0
+BalloonBell	\x0e\x04\x17\x02Ä\0旅人之鐘
+BalloonTreeLevel	樹等級 \x0e\x02\x01\0
+MessageTreeCrop	你要{c[dc000d]}收成蘋果寶石{c[000000]}，對吧！
+MessageTreeCropAfter01	接下來要等{c[dc000d]}\x0e\x02\x01\0小時{c[000000]}才能{c[dc000d]}收成{c[000000]}喔。\n路上小心！
+MessageTreeCropAfter02	快要能{c[dc000d]}收成{c[000000]}\n下一次的{c[dc000d]}蘋果寶石{c[000000]}囉！
+MessageTreeNextCrop01	好像要等{c[dc000d]}\x0e\x02\x01\0小時{c[000000]}\n才能{c[dc000d]}收成蘋果寶石{c[000000]}喔。
+MessageTreeNextCrop02	好像要等{c[dc000d]}\x0e\x02\x01\0分鐘{c[000000]}\n才能{c[dc000d]}收成蘋果寶石{c[000000]}喔。
+MessageTreeNextCrop03	{c[dc000d]}蘋果寶石{c[000000]}\n好像就快要結果了！\x0e\0\x04\0先去{c[dc000d]}買東西{c[000000]}或是進行{c[dc000d]}探索{c[000000]}，\n回來的時候或許就能{c[dc000d]}收成{c[000000]}了！
+MessageTreeNotifyLevel	這是我偷偷聽到的消息……\x0e\0\x04\0據說只要達成{c[dc000d]}勇者任務{c[000000]}，\n就能獲得{c[dc000d]}獎賞{c[000000]}喔。\x0e\0\x04\0聽說能夠在探索{c[dc000d]}出擊前{c[000000]}或{c[dc000d]}人物簡介{c[000000]}中\n確認這些任務。\x0e\0\x04\0我也好想要獎賞喔……
+MessageTreeNotifyTree	這是我偷偷聽到的消息……\x0e\0\x04\0只要購買{c[dc000d]}蘋果寶石{c[000000]}，樹就會成長，\n能夠收成的蘋果數量也會{c[dc000d]}增加{c[000000]}。\x0e\0\x04\0好像再買{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}，樹就會成長喔！
+MessageTreeNotifyScreenShot	這是我偷偷聽到的消息……\x0e\0\x04\0聽說按\x0e\x04\x10\x02\x91\0\n能夠拍攝{c[dc000d]}遊戲畫面{c[000000]}喔。\x0e\0\x04\0我也要拍下很多{c[dc000d]}照片{c[000000]}給大家看！
+MessageTreeNotifyTraveller	這是我偷偷聽到的消息……\x0e\0\x04\0只要敲響{c[dc000d]}旅人之鐘{c[000000]}，\nNintendo Switch的{c[dc000d]}朋友{c[000000]}就有可能造訪喔。\x0e\0\x04\0大家會裝備什麼樣的{c[dc000d]}武器{c[000000]}和{c[dc000d]}防具{c[000000]}呢……？\n真讓人在意！
+MessageTreeStepup01	{s[150]}快看快看！{s[100]}\x0e\0\x04\0多虧你買了{c[dc000d]}蘋果寶石{c[000000]}，\n{c[dc000d]}樹{c[000000]}才能長大喔！\x0e\0\x04\0也因為這樣，\n可{c[dc000d]}收成{c[000000]}的數量變多了！\x0e\0\x04\0來，請收下吧！
+MessageTreeClear02	卡比，歡迎回來！\x0e\0\x04\0{c[dc000d]}斗篷魔法師{c[000000]}……還有{c[dc000d]}遠古英雄{c[000000]}也消失了……\n世界似乎真的因此恢復了{c[dc000d]}和平{c[000000]}呢！\x0e\0\x04\0你一定經歷了\n許多困難吧……\x0e\0\x04\0你為了大家\n努力奮戰至今，\x0e\0\x04\0我實在是感激不盡！\x0e\0\x04\0你活躍的表現\n一定會成為{c[dc000d]}這個世界的傳說{c[000000]}喔！\x0e\0\x04\0真的很謝謝你，卡比！\x0e\0\x04\0啊，話說回來……\x0e\0\x04\0似乎{c[dc000d]}追加{c[000000]}了\n全新的{c[dc000d]}熱鬧探索{c[000000]}喔！\x0e\0\x04\0如果你想追求更高的目標，\n嘗試挑戰或許也不錯喔？\x0e\0\x04\0你一定能夠跨越難關！\x0e\0\x04\0我會為你加油的，{c[dc000d]}卡比{c[000000]}！
+MessageTreeLevelMax	{s[150]}快看快看！{s[100]}\x0e\0\x04\0多虧你買了{c[dc000d]}蘋果寶石{c[000000]}，\n{c[dc000d]}樹{c[000000]}才會長得這麼高大！\x0e\0\x04\0這棵{c[dc000d]}樹的大小{c[000000]}……是不是很驚人啊？\x0e\0\x04\0似乎已經{c[dc000d]}成長{c[000000]}到\n前所未見的樣子呢！\x0e\0\x04\0樹竟然能長得這麼高大，\n我真的也很開心喔！{c[dc000d]}卡比{c[000000]}！\x0e\0\x04\0現在一次能夠收成\n{c[dc000d]}非～常多{c[000000]}的{c[dc000d]}蘋果寶石{c[000000]}囉！\x0e\0\x04\0雖然就算繼續購買蘋果寶石，{c[dc000d]}\n樹也不會再長大{c[000000]}了……\x0e\0\x04\0但這棵樹會{c[dc000d]}繼續結出{c[000000]}比以往更多的蘋果寶石，\n所以請盡情{c[dc000d]}收成{c[000000]}吧！
+MessageShopNormal01	嗨，歡迎光臨！\x0e\0\x04\0{c[dc000d]}朋友{c[000000]}也能裝備你購買的{c[dc000d]}武器{c[000000]}或{c[dc000d]}防具{c[000000]}喔！\n希望你能湊齊{c[dc000d]}裝備，{c[000000]}這也是為了你的{c[dc000d]}朋友{c[000000]}喔。
+MessageShopNormal02	歡迎光臨！\x0e\0\x04\0好像只要再買{c[dc000d]}\x0e\x02\x01\0顆蘋果寶石{c[000000]}，\n樹就會成長喔！
+MessageShopNormal03	嗨，卡比！\x0e\0\x04\0要不要買點\n能夠幫上忙的{c[dc000d]}輔助道具{c[000000]}啊？
+MessageShopNormal05	我的{c[dc000d]}雜貨店{c[000000]}在{c[dc000d]}噗噗噗王國{c[000000]}當中\n也是首屈一指的喔！\x0e\0\x04\0請你慢慢逛吧！
+MessageShopNormal06	歡迎光臨，卡比！\n歡迎來到{c[dc000d]}雜貨店{c[000000]}！
+MessageShopNormal07	嗨，卡比！\x0e\0\x04\0為了將你的心情傳達給同伴，\n試著購買個{c[dc000d]}圖章{c[000000]}如何呀？
+MessageShopNormal09	歡迎光臨，卡比！\x0e\0\x04\0好消息！你還沒擁有的\n{c[dc000d]}武器{c[000000]}和{c[dc000d]}防具{c[000000]}正在{c[dc000d]}特價中{c[000000]}喔！
+MessageShopNormal10	歡迎光臨，卡比！\x0e\0\x04\0好消息！{c[dc000d]}蘋果寶石折扣特賣中{c[000000]}喔！\n請你慢慢逛吧！
+MessageShopNormal11	歡迎光臨，卡比！\x0e\0\x04\0今天有{c[dc000d]}蘋果寶石贈禮{c[000000]}喔！\n請去蘋果寶石的賣場領取吧！
+MessageShopNormal08	歡迎光臨，卡比！\x0e\0\x04\0好消息！{c[dc000d]}蘋果寶石折扣特賣中{c[000000]}喔！\n請你慢慢逛吧！
+MessageShopPowerUpZ	嗨，卡比！\x0e\0\x04\0你購買的{c[dc000d]}武器{c[000000]}和{c[dc000d]}防具{c[000000]}，\n現在能夠進行{c[dc000d]}強化{c[000000]}了！\x0e\0\x04\0名為{c[dc000d]}DX強化{c[000000]}！\x0e\0\x04\0雖然並不是所有的裝備\n都已經能進行強化……\x0e\0\x04\0往後會逐漸增加能夠進行{c[dc000d]}DX強化{c[000000]}的裝備，\n所以請你持續通過更多探索吧！
+MessageShopPowerUpSZ	嗨，卡比！\x0e\0\x04\0好消息！你之前進行過{c[dc000d]}DX強化{c[000000]}的{c[dc000d]}武器{c[000000]}和{c[dc000d]}防具{c[000000]}，\n現在能夠{c[dc000d]}提升更～多的威力{c[000000]}了！\x0e\0\x04\0名為……{c[dc000d]}SDX強化{c[000000]}！！\x0e\0\x04\0嘿嘿嘿……請你務必要見識一下……\n威力十分驚人喔！\x0e\0\x04\0往後會逐漸增加能夠進行{c[dc000d]}SDX強化{c[000000]}的裝備，\n所以請你持續通過更多探索吧！
+MessageShopMany01	卡比，\n看到你這麼常光顧{c[dc000d]}雜貨店{c[000000]}，我很開心……\x0e\0\x04\0但是你也差不多該去{c[dc000d]}探索{c[000000]}了吧？\x0e\0\x04\0不過我對{c[dc000d]}噗噗噗王國{c[000000]}的狀況\n完全沒有興趣……\x0e\0\x04\0所以只要你有購買{c[dc000d]}店裡的東西{c[000000]}，\n我就覺得無所謂啦！
+MessageShopStepup01	太好啦！卡比！\n多虧你把{c[dc000d]}全部的裝備{c[000000]}都買下來……\x0e\0\x04\0我的店才能變得這～麼豪華！\x0e\0\x04\0真是太～感謝你了！\x0e\0\x04\0以後也要常來光顧我的店喔！\n{c[dc000d]}星之卡比{c[000000]}！
+MessageShopStepup02	……太棒了，太棒了。\x0e\0\x04\0不愧是星之卡比。\x0e\0\x04\0竟然能把全部的裝備……\n都{c[dc000d]}強化{c[000000]}完畢啦。\x0e\0\x04\0喔喔……\n這一刻終於來了……\x0e\0\x04\0沒想到居然不只{c[dc000d]}DX強化{c[000000]}，連{c[dc000d]}SDX強化{c[000000]}都完成了。\n真是太～感謝你了。\x0e\0\x04\0這麼一來，我就能成為所有雜貨店的……\x0e\0\x04\0{s[150]}不！{s[100]}噗噗噗王國的……\x0e\0\x04\0{s[150]}不！！{s[100]}{c[dc000d]}全宇宙的統治者{c[000000]}……\x0e\0\x04\0………\x0e\0\x04\0……開玩笑的啦！哈～哈哈哈！\x0e\0\x04\0嚇到你了嗎？\x0e\0\x04\0真沒想到你能把全部的裝備弄到{c[dc000d]}SDX強化{c[000000]}，\x0e\0\x04\0你啊，\n真的很～{c[dc000d]}了不起{c[000000]}呢！\x0e\0\x04\0我覺得我和你\n或許能變成{c[dc000d]}最好的朋友{c[000000]}喔。\x0e\0\x04\0今後也請多～多關照啦！\x0e\0\x04\0{c[dc000d]}星之卡比{c[000000]}！
+MessageShopOut01	請多多光顧我的{c[dc000d]}雜貨店{c[000000]}喔！
+MessageShopOut02	真～的很謝謝你經常光顧本店！
+MessageShopOut03	下次再來喔，卡比！
+MessageShopMaxCharging	謝謝你，卡比！\x0e\0\x04\0多虧你買了\n這～麼多的{c[dc000d]}蘋果寶石{c[000000]}……\x0e\0\x04\0{c[dc000d]}蘋果寶石樹{c[000000]}成長到\n前所未見的巨大呢！\x0e\0\x04\0這麼一來，距離實現{c[dc000d]}我的野心{c[000000]}又更近一步了……\n呵呵呵！\x0e\0\x04\0我的心裡真～的滿滿都是\n對你的{c[dc000d]}感謝之情{c[000000]}喔！
+MessageTutorialQReq	初次見面！\x0e\0\x04\0你就是{c[dc000d]}卡比{c[000000]}吧！\x0e\0\x04\0能夠讓守護{c[dc000d]}噗噗噗王國{c[000000]}的{c[dc000d]}英雄{c[000000]}\n向自己報上名號，我感到十分光榮！\x0e\0\x04\0那就事不宜遲……\x0e\0\x04\0{c[dc000d]}盔角蟲\n{c[000000]}突然在{c[dc000d]}海岸{c[000000]}開始肆虐……\x0e\0\x04\0真是令人傷透腦筋呢……\x0e\0\x04\0希望你能為了王國打倒他們！\x0e\0\x04\0只要在左手邊的{c[dc000d]}探索板{c[000000]}前按下\x0e\x04\x17\x02Ä\0，\n就能和{c[dc000d]}同伴{c[000000]}一起{c[dc000d]}出擊{c[000000]}………\x0e\0\x04\0路上請注意安全喔！
+MessageTutorialQReqReplay	在{c[dc000d]}探索板{c[000000]}前按下\x0e\x04\x17\x02Ä\0，\n就能夠出擊喔！
+MessageTutorialQDone	歡迎回來～！\x0e\0\x04\0謝謝你幫忙收拾了{c[dc000d]}盔角蟲{c[000000]}！\x0e\0\x04\0但是，還有{c[dc000d]}敵人正在肆虐{c[000000]}……\x0e\0\x04\0接下來還要請你幫忙喔，{c[dc000d]}卡比{c[000000]}！\x0e\0\x04\0對了……\x0e\0\x04\0就在剛剛，\n{c[dc000d]}蘋果寶石樹成長{c[000000]}了！\x0e\0\x04\0因為已經能\n{c[dc000d]}收成蘋果寶石{c[000000]}了……\x0e\0\x04\0我要把那些都當成禮物送給你！
+MessageTutorialQDone_1	對了對了！\x0e\0\x04\0{c[dc000d]}雜貨店{c[000000]}的店主在叫你，\n請你去找他吧！
+MessageTutorialQDone_2	{c[dc000d]}雜貨店{c[000000]}的店主在叫你，\n請你去找他吧！
+MessageTutorialMultiModeStart	歡迎回來，卡比！\x0e\0\x04\0{c[dc000d]}全新類型的探索{c[000000]}\n好像增加了。\x0e\0\x04\0是一種名為{c[dc000d]}熱鬧探索{c[000000]}，不管是{c[dc000d]}一個人或和大家{c[000000]}，\n都能遊玩的超值探索喔！\x0e\0\x04\0請你先去{c[dc000d]}探索板{c[000000]}看看吧！
+MessageTutorialSecondTown	歡迎回來，卡比！\n這裡是{c[dc000d]}城堡外小鎮{c[000000]}喔！\x0e\0\x04\0這景色……\n有種令人懷念的感覺呢……\x0e\0\x04\0不對不對！重要的是……\x0e\0\x04\0{c[dc000d]}斗篷男{c[000000]}似乎飛到\n這個小鎮的附近了。\x0e\0\x04\0或許他已經在打算做什麼壞事了……？\n請小心追上他，卡比！\x0e\0\x04\0……啊，說起來！\x0e\0\x04\0如果想回到{c[dc000d]}港口小鎮{c[000000]}的時候，\n就在{c[dc000d]}小鎮的邊緣{c[000000]}持續按住\x0e\x04\x16\x02Ã\0/\x0e\x04\x14\x02Á\0吧！\x0e\0\x04\0這樣一來，似乎就可以在兩個小鎮之間\n自由來回了喔！
+MessageTutorialShopPrepare	{c[dc000d]}雜貨店{c[000000]}目前還在準備中喔！\x0e\0\x04\0待會再來看看吧！
+MessageTutorialShopFirst	嗨，初次見面！\x0e\0\x04\0你就是傳聞中\n那位來到{c[dc000d]}噗噗噗王國{c[000000]}的{c[dc000d]}卡比{c[000000]}嗎？\x0e\0\x04\0我是這家{c[dc000d]}雜貨店{c[000000]}的店長，\n{c[dc000d]}魔法洛亞{c[000000]}！\x0e\0\x04\0在這裡可以買到\n在探索中能派上用場的{c[dc000d]}各種物品{c[000000]}喔。\x0e\0\x04\0快快，\n請你先進來店裡面看看吧！
+MessageTutorialShopFirst_01	這裡可以購買{c[dc000d]}武器{c[000000]}喔！\n裝備武器就能提高{c[dc000d]}攻擊力{c[000000]}！\x0e\0\x04\0這裡有{c[dc000d]}利劍{c[000000]}、{c[dc000d]}錘子{c[000000]}、{c[dc000d]}法杖、{c[000000]}還有{c[dc000d]}燒瓶{c[000000]}，\n武器應有盡有喔！\x0e\0\x04\0想要變得更強的時候，\n就購買{c[dc000d]}武器{c[000000]}吧！
+MessageTutorialShopFirst_02	接下來是{c[dc000d]}防具{c[000000]}！\n裝備防具就能增加{c[dc000d]}體力{c[000000]}！\x0e\0\x04\0出色的{c[dc000d]}防具{c[000000]}和{c[dc000d]}護盔{c[000000]}\n都會持續進貨喔……\x0e\0\x04\0我認為選來打扮自己\n也很不錯喔！
+MessageTutorialShopFirst_03	第3種是{c[dc000d]}輔助道具{c[000000]}！\n這些是能幫助你的便利道具喔！\x0e\0\x04\0例如在探索前使用，\n就能讓力量湧現的{c[dc000d]}藥{c[000000]}……\x0e\0\x04\0也有只要閱讀1次就會一直發揮效果， \n非常划算的{c[dc000d]}書{c[000000]}喔！
+MessageTutorialShopFirst_04	第4種是{c[dc000d]}圖章{c[000000]}！\n這是能在{c[dc000d]}通訊遊玩{c[000000]}中大顯身手的道具喔！\x0e\0\x04\0能夠在探索時\n將你的{c[dc000d]}心情{c[000000]}傳達出去！ \x0e\0\x04\0或許會有你喜歡的{c[dc000d]}角色{c[000000]}的圖章，\n請來看看吧！
+MessageTutorialShopFirst_05	最後是{c[dc000d]}蘋果寶石{c[000000]}喔！\n這是有各種用途的重要道具！\x0e\0\x04\0比如{c[dc000d]}武器{c[000000]}、{c[dc000d]}防具{c[000000]}、\n{c[dc000d]}輔助道具{c[000000]}、{c[dc000d]}圖章{c[000000]}等等……\x0e\0\x04\0不管要購買哪種道具，\n都需要{c[dc000d]}蘋果寶石{c[000000]}喔！
+MessageTutorialShopFirst_06	……以上就是我的介紹。\x0e\0\x04\0你看！店裡有很多\n能夠幫助你進行冒險的道具吧？\x0e\0\x04\0事不宜遲，\n請你趕快用{c[dc000d]}蘋果寶石購物{c[000000]}吧！
+MessageFirstStart	卡比！\n謝謝你再次來訪！
+MessageFirstEnd	今天也祝你\n一路順風！
+MessageFirstMiddle01	對了，你也有購買{c[dc000d]}朋友{c[000000]}的{c[dc000d]}裝備{c[000000]}嗎？\n{c[dc000d]}朋友{c[000000]}變得更強的話，戰鬥應該會更輕鬆喔！
+MessageFirstMiddle02	對了，我聽說按下\x0e\x04\n\x02a\0能{c[dc000d]}防禦{c[000000]}敵人攻擊呢！　\n不管哪種{c[dc000d]}職業{c[000000]}都能使用，請你試看看吧！
+MessageFirstMiddle03	對了，你知道{c[dc000d]}元氣攻擊{c[000000]}嗎？\n當{c[dc000d]}體力{c[000000]}十足的時候，{c[dc000d]}攻擊力似乎{c[000000]}會增加喔！
+MessageFirstMiddle04	對了，聽說通過{c[dc000d]}熱鬧探索{c[000000]}得到的{c[dc000d]}獎賞\n{c[000000]}比{c[dc000d]}故事探索{c[000000]}更多喔！
+MessageFirstMiddle05	對了，聽說只要有控制器，就能透過1台Nintendo Switch\n讓{c[dc000d]}最多4人一起{c[000000]}戰鬥喔！
+MessagePageBreak	\x0e\0\x04\0
+RewardTreeText	收成了{c[dc000d]}\x0e\x02\x01\0顆蘋果寶石{c[000000]}！
+ProfileMissionListBtnText	勇者任務
+ProfileEquipChangeBtnText	職業／裝備
+ProfileGreetsChangeBtnText	圖章
+ProfileHeaderText	人物簡介
+ProfileLevelText	等級
+ProfileRecordNumberText	過關次數
+ProfileRecordPlayTimeText	遊玩時間
+ProfileRecordScoreText	合計最高分數
+ProfileRecordRankText	勇者級別
+ProfileRecordPlayTimeNumText	\x0e\x02\x01\0：\x0e\x02\x01\0\x0e\x16\0\0\x0e\x02\x01\0
+TravellerHeaderText	旅人
+TravellerRewardText	從\x0e\x02\x01\0名旅人的手上得到了{c[dc000d]}土產{c[000000]}！
+TravellerRewardRareText	得到的土產是{c[dc000d]}稀有碎片{c[000000]}！
+TravellerSpotPassSecondCheckText	在{c[dc000d]}\x0e\x02\x01\0小時{c[000000]}內再次使用需要蘋果寶石。\n請問要呼叫旅人嗎？
+TravellerSpotPassSecondCheckText2	在{c[dc000d]}\x0e\x02\x01\0分鐘{c[000000]}內再次使用\n需要蘋果寶石。\n請問要呼叫旅人嗎？
+TravellerSpotPassSelectInternetText	將尋找能成為朋友的{c[dc000d]}旅人{c[000000]}。\n也可以連接網路，\n在線上尋找{c[dc000d]}旅人{c[000000]}。\n請問你要使用哪種方法尋找呢？
+TravellerSpotPassSelectInternetButton	線上
+TravellerSpotPassSelectLocalButton	離線
+TravellerNickname00	流浪的
+TravellerNickname01	熱情的
+TravellerNickname02	孤獨的
+TravellerNickname03	穿越時空的
+TravellerNickname04	熱情如火的
+TravellerNickname05	華麗的
+TravellerNickname06	害怕寂寞的
+TravellerNickname07	喋喋不休的
+TravellerNickname08	玩世不恭的
+TravellerNickname09	冒失的
+TravellerNickname10	回歸的
+TravellerNickname11	貪吃的
+TravellerNickname12	唱功一流的
+TravellerNickname13	青春期的
+TravellerNickname14	自戀的
+TravellerNickname15	怕生的
+TravellerNickname16	噗噗噗的
+TravellerNickname17	春風的
+TravellerNickname18	星星的
+TravellerNickname19	剎那的
+TravellerJobname00	利劍
+TravellerJobname01	醫生
+TravellerJobname02	錘子
+TravellerJobname03	光束
+TravellerFullName	\x0e\x17\x01\0\x0e\x02\x10\0\x0e\x02\x11\0\x0f\x17\x01
+WatchwordDialogText	只要輸入公開的{c[dc000d]}暗號{c[000000]}，\n就能得到{c[dc000d]}獎賞{c[000000]}。\n請問要連接到{c[dc000d]}網路{c[000000]}輸入暗號嗎？
+WatchwordDialogUsedText	這個{c[dc000d]}暗號{c[000000]}\n已經輸入過了。
+WatchwordDialogNoMatchText	{c[dc000d]}暗號{c[000000]}錯誤。\n請輸入正確的暗號。
+WatchwordRewardText	透過{c[dc000d]}暗號{c[000000]}獲得了獎賞！
+NewsRewardText	因為看了{c[dc000d]}新聞{c[000000]}，所以獲得了{c[dc000d]}獎賞{c[000000]}！
+WaitCommon	請稍等一下。
+WaitCommonWithCancel	請稍等一下。\n\n{s[085]}\x0e\x04\x06\x022\0取消{s[100]}
+StampHeaderText	圖章
+StampResetConfirmText	要選擇全部的{c[dc000d]}圖章{c[000000]}嗎？
+StampUseText	使用的圖章
+MoveOldTownConfirmText	請問要前往{c[dc000d]}城堡外小鎮{c[000000]}嗎？
+MoveNewTownConfirmText	請問要前往{c[dc000d]}港口小鎮{c[000000]}嗎？
+AfterShirenTalk01	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0沒想到你能夠戰勝那種敵人，真讓我驚訝呢。\x0e\0\x04\0啊！對了……聽說只要在小鎮中敲響{c[dc000d]}旅人之鐘{c[000000]}，\n就能夠呼叫{c[dc000d]}旅人{c[000000]}喔！\x0e\0\x04\0和旅人一起在探索中戰鬥，\n似乎也能得到土產，請試著敲響它吧！
+AfterShirenTalk02	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0那個逃走的{c[dc000d]}斗篷男{c[000000]}，\n究竟是什麼人呢……\x0e\0\x04\0似乎也增加了{c[dc000d]}全新的探索{c[000000]}，\n追上去的時候還請你小心喔！
+AfterShirenTalk03	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0似乎增加了{c[dc000d]}全新的探索{c[000000]}喔，\n請你路上小心！
+AfterShirenTalk04	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0似乎增加了{c[dc000d]}全新的探索{c[000000]}喔，\n請你路上小心！
+AfterShirenTalk05	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0結果斗篷魔法師的真面目是\n{c[dc000d]}塔狼蛛{c[000000]}啊……！\x0e\0\x04\0{c[dc000d]}異次元夢魘{c[000000]}\n究竟在什麼地方呢……\x0e\0\x04\0請小心追上他喔……！卡比！
+AfterShirenTalk06	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0不過這次又以些微之差\n被{c[dc000d]}異次元夢魘{c[000000]}給逃了呢……\x0e\0\x04\0我想他一定在接下來的{c[dc000d]}大決戰{c[000000]}\n蓄勢待發喔！\x0e\0\x04\0請你好好整頓裝備，前往挑戰吧！
+AfterShirenTalk07	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0似乎又出現了{c[dc000d]}全新的探索{c[000000]}……！\n請你提升足夠的等級，前往挑戰吧！
+AfterShirenTalk08	啊！歡迎回來，卡比！\x0e\0\x04\0我跟你說喔……！\x0e\0\x04\0似乎終於到了……\n與幕後黑手{c[dc000d]}異次元夢魘{c[000000]}一決{c[dc000d]}勝負{c[000000]}的時刻！\x0e\0\x04\0我……總覺得\n心裡{c[dc000d]}好不安{c[000000]}……！\x0e\0\x04\0你一定要回來喔，卡比！
+AfterShirenTalk10	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0似乎又出現了{c[dc000d]}全新的探索{c[000000]}……！\n請你提升足夠的等級，前往挑戰吧！
+AfterShirenTalk11	啊！歡迎回來，卡比！\x0e\0\x04\0我跟你說喔……！\x0e\0\x04\0似乎終於到了……\n與幕後黑手{c[dc000d]}異次元夢魘{c[000000]}一決{c[dc000d]}勝負{c[000000]}的時刻……！\x0e\0\x04\0雖然我相信\n你一定能戰勝{c[dc000d]}異次元夢魘{c[000000]}……\x0e\0\x04\0可是……總覺得這次比過去的所有戰鬥\n都還要讓我{c[dc000d]}不安{c[000000]}……！\x0e\0\x04\0有種非常不好的預感……\x0e\0\x04\0請你小心挑戰喔！\x0e\0\x04\0我會和小鎮上的大家一起等你回來！
+AfterShirenTalk12	歡迎回來，卡比！\n你應該沒有受傷吧……？\x0e\0\x04\0沒想到竟然會有\n那麼{c[dc000d]}恐怖的敵人{c[000000]}出現……\x0e\0\x04\0再這樣下去……\n王國一定會陷入混亂……\x0e\0\x04\0但是！我相信你絕對\n能夠拯救{c[dc000d]}噗噗噗王國{c[000000]}！\x0e\0\x04\0請你一定要平安無事地回來喔！
+AfterShirenTalk14	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0沒想到你能收拾那種強敵……\n你真的很強呢！\x0e\0\x04\0對了，似乎又出現了{c[dc000d]}全新的探索{c[000000]}……！\n請你提升足夠的等級，前往挑戰吧！
+AfterShirenTalk15	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0沒想到你能收拾那種強敵……\n你真的很強呢！\x0e\0\x04\0對了，似乎又出現了{c[dc000d]}全新的探索{c[000000]}……！\n請你提升足夠的等級，前往挑戰吧！
+AfterShirenTalk16	歡迎回來，卡比！\n恭喜你通過了{c[dc000d]}試煉探索{c[000000]}！\x0e\0\x04\0沒想到你能夠變得這麼強，\n真讓我驚訝呢……！\x0e\0\x04\0對了……{c[dc000d]}最強的探索{c[000000]}\n似乎終於出現了！\x0e\0\x04\0這就是真正的{c[dc000d]}最終決戰{c[000000]}啊……！\n請你一定要回來啊，卡比！
+AfterShirenTalk17	{s[150]}卡、卡、卡卡卡卡卡……{s[100]}\x0e\0\x04\0{s[150]}卡比！！{s[100]}\x0e\0\x04\0沒想到能夠看到你毫髮無傷地回來！\n我真是太開心了──！\x0e\0\x04\0話說，你居然打倒了擁有銀河最強力量的{c[dc000d]}遠古英雄{c[000000]}……\n今天開始，你就是{c[dc000d]}銀河最強{c[000000]}了呢！\x0e\0\x04\0……或許{c[dc000d]}遠古英雄{c[000000]}會跨越漫長的時間，\n再次復活……\x0e\0\x04\0但我相信那時候一定會有\n像你這樣的{c[dc000d]}年輕人{c[000000]}拯救世界喔！\x0e\0\x04\0真的很感謝你！\n{c[dc000d]}超級卡比獵人隊！{c[000000]}
+GetServiceItem	領取了道具。
+MelonTrophy2.msbt
+ClearMission	達成勇者任務了！
+ProgressMission	還差一點就達成了！
+Area1Stage1Mission1	通過盔角蟲探索
+Area1Stage1Mission2	沒有任何人力竭
+Area1Stage1Mission3	使用職業\x0e\x05\0\x020\0通過探索
+Area1Stage1Mission4	通過探索時獲得白銀勳章
+Area1Stage2Mission1	通過大型‧槍瓦豆魯迪探索
+Area1Stage2Mission2	使用招式「迴旋斬」命中敵人
+Area1Stage2Mission3	使用職業\x0e\x05\x01\x021\0通過探索
+Area1Stage2Mission4	通過探索時獲得白銀勳章
+Area1Stage3Mission1	通過瓦豆魯篤老大探索
+Area1Stage3Mission2	沒有任何人力竭
+Area1Stage3Mission3	使用職業\x0e\x05\x03\x023\0通過探索
+Area1Stage3Mission4	通過探索時獲得白銀勳章
+Area2Stage1Mission1	通過冰霜先生探索
+Area2Stage1Mission2	使出用嘴餵食
+Area2Stage1Mission3	使用職業\x0e\x05\x02\x022\0通過探索
+Area2Stage1Mission4	通過探索時獲得白銀勳章
+Area2Stage2Mission1	通過炎刃探索
+Area2Stage2Mission2	防禦攻擊
+Area2Stage2Mission3	等級7以上通過探索
+Area2Stage2Mission4	通過探索時獲得黃金勳章
+Area2Stage3Mission1	通過大塊頭探索
+Area2Stage3Mission2	獲得快速通關獎勵
+Area2Stage3Mission3	帶著旅人前往探索
+Area2Stage3Mission4	通過探索時獲得黃金勳章
+Area3Stage1Mission1	通過雙重 大型隊伍探索
+Area3Stage1Mission2	使用招式「鬼殺火焰錘」命中敵人
+Area3Stage1Mission3	所有人分別使用不同職業並通過探索
+Area3Stage1Mission4	通過探索時獲得黃金勳章
+Area3Stage2Mission1	通過異次元夢魘探索
+Area3Stage2Mission2	等級15以上通過探索
+Area3Stage2Mission3	防禦2次攻擊
+Area3Stage2Mission4	通過探索時獲得白金勳章
+Area1Stage4Mission1	通過高：龐大刃探索
+Area1Stage4Mission2	所有人分別使用不同職業並獲得\x0e\x05\x08\x028\0
+Area1Stage4Mission3	使用職業\x0e\x05\x03\x023\0停止時間
+Area1Stage4Mission4	通過探索時獲得黃金勳章
+Area2Stage4Mission1	通過高：錘星猩探索
+Area2Stage4Mission2	使用職業\x0e\x05\x01\x021\0在通過探索時獲得白銀勳章
+Area2Stage4Mission3	所有人都使用職業\x0e\x05\x01\x021\0並通過探索
+Area2Stage4Mission4	通過探索時獲得黃金勳章
+Area3Stage3Mission1	通過高：風語大樹探索
+Area3Stage3Mission2	使用職業\x0e\x05\x02\x022\0通過探索
+Area3Stage3Mission3	使用\x0e\x05\x02\x022\0回復同伴的體力
+Area3Stage3Mission4	通過探索時獲得黃金勳章
+Area4Stage1Mission1	通過高：三重 大型隊伍探索
+Area4Stage1Mission2	使用職業\x0e\x05\x03\x023\0在通過探索時獲得黃金勳章
+Area4Stage1Mission3	沒有任何人力竭
+Area4Stage1Mission4	通過探索時獲得白金勳章
+Area1Stage5Mission1	通過高：凍霜彎刀騎士老大探索
+Area1Stage5Mission2	等級22以上通過探索
+Area1Stage5Mission3	通過探索時獲得白金勳章
+Area1Stage5Mission4	在50秒內通過探索
+Area1Stage6Mission1	通過高：毒波洛斯探索
+Area1Stage6Mission2	裝備\x0e\x05\0\x020\0「疾風」套裝通過探索
+Area1Stage6Mission3	使用職業\x0e\x05\0\x020\0在通過探索時獲得黃金勳章
+Area1Stage6Mission4	通過探索時獲得黃金勳章
+Area2Stage5Mission1	通過高：大洛啪探索
+Area2Stage5Mission2	所有人都使用職業\x0e\x05\x03\x023\0並通過探索
+Area2Stage5Mission3	裝備\x0e\x05\x03\x023\0「魔法師」套裝通過探索
+Area2Stage5Mission4	通過探索時獲得黃金勳章
+Area3Stage4Mission1	通過高：盔角蟲探索
+Area3Stage4Mission2	沒有任何人力竭
+Area3Stage4Mission3	所有人分別使用不同職業並通過探索
+Area3Stage4Mission4	通過探索時獲得白金勳章
+Area4Stage2Mission1	通過高：火山蛙探索
+Area4Stage2Mission2	等級25以上通過探索
+Area4Stage2Mission3	通過探索時獲得白金勳章
+Area4Stage2Mission4	在40秒內通過探索
+Area3Stage5Mission1	通過高：獨眼雲探索
+Area3Stage5Mission2	裝備\x0e\x05\x01\x021\0「白虎」套裝通過探索
+Area3Stage5Mission3	通過探索時獲得黃金勳章
+Area3Stage5Mission4	通過探索時獲得白金勳章
+Area5Stage1Mission1	通過高：電龍探索
+Area5Stage1Mission2	所有人都使用職業\x0e\x05\0\x020\0並通過探索
+Area5Stage1Mission3	沒有任何人力竭
+Area5Stage1Mission4	通過探索時獲得白金勳章
+Area5Stage2Mission1	通過高：龍帝亞探索
+Area5Stage2Mission2	裝備\x0e\x05\x02\x022\0「治癒師」套裝通過探索
+Area5Stage2Mission3	通過探索時獲得黃金勳章
+Area5Stage2Mission4	通過探索時獲得白金勳章
+Area5Stage3Mission1	通過高：塔狼蛛探索
+Area5Stage3Mission2	等級34以上通過探索
+Area5Stage3Mission3	通過探索時獲得白金勳章
+Area5Stage3Mission4	在40秒內通過探索
+Area1Stage7Mission1	通過鬼：冰龍探索
+Area1Stage7Mission2	所有人都使用職業\x0e\x05\x02\x022\0並通過探索
+Area1Stage7Mission3	通過探索時獲得黃金勳章
+Area1Stage7Mission4	通過探索時獲得白金勳章
+Area2Stage6Mission1	通過鬼：彎刀騎士老大探索
+Area2Stage6Mission2	使用職業\x0e\x05\0\x020\0通過探索
+Area2Stage6Mission3	通過探索時獲得黃金勳章
+Area2Stage6Mission4	通過探索時獲得白金勳章
+Area3Stage6Mission1	通過鬼：錘星猩探索
+Area3Stage6Mission2	使用職業\x0e\x05\x01\x021\0通過探索
+Area3Stage6Mission3	以招式「鬼殺火焰錘」給予最後一擊
+Area3Stage6Mission4	通過探索時獲得白金勳章
+Area3Stage7Mission1	通過鬼：風語大樹探索
+Area3Stage7Mission2	使用職業\x0e\x05\x03\x023\0通過探索
+Area3Stage7Mission3	裝備\x0e\x05\x03\x023\0「克洛諾斯」套裝通過探索
+Area3Stage7Mission4	通過探索時獲得白金勳章
+Area4Stage3Mission1	通過鬼：火焰加爾波洛斯探索
+Area4Stage3Mission2	沒有任何人力竭
+Area4Stage3Mission3	通過探索時獲得黃金勳章
+Area4Stage3Mission4	通過探索時獲得白金勳章
+Area4Stage4Mission1	通過鬼：冰霜先生探索
+Area4Stage4Mission2	使用職業\x0e\x05\x02\x022\0通過探索
+Area4Stage4Mission3	使用\x0e\x05\x02\x022\0回復同伴的體力2次
+Area4Stage4Mission4	通過探索時獲得白金勳章
+Area5Stage4Mission1	通過鬼：大洛啪探索
+Area5Stage4Mission2	使用職業\x0e\x05\x03\x023\0在通過探索時獲得黃金勳章
+Area5Stage4Mission3	使用職業\x0e\x05\x03\x023\0停止時間
+Area5Stage4Mission4	通過探索時獲得白金勳章
+Area5Stage5Mission1	通過鬼：異次元夢魘探索
+Area5Stage5Mission2	等級42以上通過探索
+Area5Stage5Mission3	在沒有任何人力竭的情況下獲得\x0e\x05\x07\x027\0
+Area5Stage5Mission4	在50秒內通過探索
+Area6Stage1Mission1	通過鬼：龍帝亞EX探索
+Area6Stage1Mission2	裝備\x0e\x05\x01\x021\0「深淵金屬」套裝獲得\x0e\x05\x07\x027\0
+Area6Stage1Mission3	通過探索時獲得白金勳章
+Area6Stage1Mission4	在50秒內通過探索
+Area6Stage2Mission1	通過鬼：異次元蘇姿探索
+Area6Stage2Mission2	所有人分別使用不同職業並獲得\x0e\x05\x07\x027\0
+Area6Stage2Mission3	通過探索時獲得白金勳章
+Area6Stage2Mission4	在40秒內通過探索
+Area6Stage3Mission1	通過鬼：D大王‧意向探索
+Area6Stage3Mission2	裝備\x0e\x05\x01\x021\0「闇意向」套裝獲得\x0e\x05\x07\x027\0
+Area6Stage3Mission3	通過探索時獲得白金勳章
+Area6Stage3Mission4	在50秒內通過探索
+Area7Stage1Mission1	通過神：四重 大型隊伍探索
+Area7Stage1Mission2	所有人都使用職業\x0e\x05\x02\x022\0並通過探索
+Area7Stage1Mission3	沒有任何人力竭
+Area7Stage1Mission4	通過探索時獲得白金勳章
+Area1Stage8Mission1	通過神：大塊頭探索
+Area1Stage8Mission2	使用職業\x0e\x05\x01\x021\0通過探索
+Area1Stage8Mission3	通過探索時獲得黃金勳章
+Area1Stage8Mission4	通過探索時獲得白金勳章
+Area2Stage7Mission1	通過神：電火花錘星猩探索
+Area2Stage7Mission2	裝備DX強化的武器通過探索
+Area2Stage7Mission3	以好友隕石給予最後一擊
+Area2Stage7Mission4	通過探索時獲得白金勳章
+Area3Stage8Mission1	通過神：毒波洛斯探索
+Area3Stage8Mission2	所有人都使用職業\x0e\x05\x01\x021\0並通過探索
+Area3Stage8Mission3	裝備\x0e\x05\x01\x021\0「恐龍」套裝獲得\x0e\x05\x07\x027\0
+Area3Stage8Mission4	通過探索時獲得白金勳章
+Area4Stage5Mission1	通過神：炎刃探索
+Area4Stage5Mission2	所有人都使用職業\x0e\x05\0\x020\0並通過探索
+Area4Stage5Mission3	裝備\x0e\x05\0\x020\0「魚魚」套裝通過探索
+Area4Stage5Mission4	通過探索時獲得白金勳章
+Area5Stage6Mission1	通過神：泳將先生探索
+Area5Stage6Mission2	沒有任何人力竭
+Area5Stage6Mission3	帶著旅人前往探索
+Area5Stage6Mission4	通過探索時獲得白金勳章
+Area7Stage2Mission1	通過神：盔角蟲探索
+Area7Stage2Mission2	裝備DX強化的防具獲得\x0e\x05\x07\x027\0
+Area7Stage2Mission3	以好友隕石給予最後一擊
+Area7Stage2Mission4	通過探索時獲得白金勳章
+Area7Stage3Mission1	通過神：凍霜彎刀騎士老大探索
+Area7Stage3Mission2	所有人都使用職業\x0e\x05\x03\x023\0並通過探索
+Area7Stage3Mission3	通過探索時獲得白金勳章
+Area7Stage3Mission4	在45秒內通過探索
+Area2Stage8Mission1	通過神：毒液獨眼雲探索
+Area2Stage8Mission2	等級52以上通過探索
+Area2Stage8Mission3	通過探索時獲得白金勳章
+Area2Stage8Mission4	在40秒內通過探索
+Area1Stage9Mission1	通過神：大洛啪探索
+Area1Stage9Mission2	所有人都使用職業\x0e\x05\x03\x023\0在通過探索時獲得黃金勳章
+Area1Stage9Mission3	裝備DX強化的武器通過探索
+Area1Stage9Mission4	通過探索時獲得白金勳章
+Area3Stage9Mission1	通過神：電龍探索
+Area3Stage9Mission2	裝備\x0e\x05\x02\x022\0「瘋狂」套裝通過探索
+Area3Stage9Mission3	通過探索時獲得白金勳章
+Area3Stage9Mission4	在40秒內通過探索
+Area5Stage7Mission1	通過神：傳送帕托利斯探索
+Area5Stage7Mission2	所有人分別使用不同職業並通過探索
+Area5Stage7Mission3	所有人分別使用不同職業並獲得\x0e\x05\x07\x027\0
+Area5Stage7Mission4	通過探索時獲得白金勳章
+Area7Stage4Mission1	通過神：火焰加爾波洛斯探索
+Area7Stage4Mission2	使用職業\x0e\x05\x02\x022\0在通過探索時獲得黃金勳章
+Area7Stage4Mission3	沒有任何人力竭
+Area7Stage4Mission4	通過探索時獲得白金勳章
+Area8Stage1Mission1	通過神：Pres.異次元蘇姿探索
+Area8Stage1Mission2	所有人分別使用不同職業並獲得\x0e\x05\x07\x027\0
+Area8Stage1Mission3	通過探索時獲得白金勳章
+Area8Stage1Mission4	在50秒內通過探索
+Area8Stage2Mission1	通過神：最終決戰探索
+Area8Stage2Mission2	裝備\x0e\x05\0\x020\0「冥蝶」套裝獲得\x0e\x05\x07\x027\0
+Area8Stage2Mission3	通過探索時獲得白金勳章
+Area8Stage2Mission4	在50秒內通過探索
+Area8Stage3Mission1	通過超：真 最終決戰探索
+Area8Stage3Mission2	裝備「新手」套裝通過探索
+Area8Stage3Mission3	等級70以上通過探索
+Area8Stage3Mission4	在1分鐘內通過探索
+WArea1Stage1Mission1	通過電火花錘星猩探索
+WArea1Stage1Mission2	裝備\x0e\x05\x01\x021\0「英勇錘」通過探索
+WArea1Stage1Mission3	使用職業\x0e\x05\x01\x021\0通過探索
+WArea1Stage1Mission4	通過探索時獲得白銀勳章
+WArea1Stage1Mission5	破壞2次椰子炸彈
+WArea1Stage1Mission6	裝備\x0e\x05\x01\x021\0「英勇錘」獲得\x0e\x05\x06\x026\0
+WArea1Stage1Mission7	使用職業\x0e\x05\x01\x021\0在通過探索時獲得白金勳章
+WArea1Stage1Mission8	在25秒內通過探索
+WArea1Stage2Mission1	通過盔角蟲探索
+WArea1Stage2Mission2	在使用了攻擊藥的情況下通過探索
+WArea1Stage2Mission3	通過探索時獲得白銀勳章
+WArea1Stage2Mission4	在40秒內通過探索
+WArea1Stage2Mission5	在自己沒有受到任何傷害的情況下通過探索
+WArea1Stage2Mission6	裝備「新手」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage2Mission7	所有人分別使用不同職業並通過探索
+WArea1Stage2Mission8	在25秒內通過探索
+WArea2Stage1Mission1	通過隊伍‧起始探索
+WArea2Stage1Mission2	在使用了體力藥的情況下通過探索
+WArea2Stage1Mission3	沒有任何人力竭
+WArea2Stage1Mission4	通過探索時獲得白銀勳章
+WArea2Stage1Mission5	裝備稀有度5以上的武器通過探索
+WArea2Stage1Mission6	使用職業\x0e\x05\x02\x022\0在通過探索時獲得白金勳章
+WArea2Stage1Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea2Stage1Mission8	在30秒內通過探索
+WArea1Stage3Mission1	通過炎刃探索
+WArea1Stage3Mission2	使用職業\x0e\x05\0\x020\0通過探索
+WArea1Stage3Mission3	使用職業\x0e\x05\x03\x023\0在通過探索時獲得黃金勳章
+WArea1Stage3Mission4	通過探索時獲得白銀勳章
+WArea1Stage3Mission5	使用職業\x0e\x05\0\x020\0在通過探索時獲得白金勳章
+WArea1Stage3Mission6	以招式「龍捲斬」給予最後一擊
+WArea1Stage3Mission7	等級14以上通過探索
+WArea1Stage3Mission8	在25秒內通過探索
+WArea2Stage2Mission1	通過雙重 大型隊伍探索
+WArea2Stage2Mission2	使用職業\x0e\x05\x02\x022\0通過探索
+WArea2Stage2Mission3	通過探索時獲得白銀勳章
+WArea2Stage2Mission4	通過探索時獲得黃金勳章
+WArea2Stage2Mission5	使用職業\x0e\x05\x02\x022\0在通過探索時獲得白金勳章
+WArea2Stage2Mission6	裝備\x0e\x05\x02\x022\0「醫生」套裝獲得\x0e\x05\x06\x026\0
+WArea2Stage2Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea2Stage2Mission8	在30秒內通過探索
+WArea3Stage1Mission1	通過彎刀騎士老大探索
+WArea3Stage1Mission2	裝備\x0e\x05\0\x020\0「劍士」套裝通過探索
+WArea3Stage1Mission3	通過探索時獲得白銀勳章
+WArea3Stage1Mission4	在45秒內通過探索
+WArea3Stage1Mission5	裝備\x0e\x05\0\x020\0「劍士」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage1Mission6	裝備\x0e\x05\x02\x022\0「學士之頭巾」獲得\x0e\x05\x06\x026\0
+WArea3Stage1Mission7	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage1Mission8	在30秒內通過探索
+WArea2Stage3Mission1	通過高：獨眼雲探索
+WArea2Stage3Mission2	使用職業\x0e\x05\x01\x021\0通過探索
+WArea2Stage3Mission3	使用招式「鬼殺火焰錘」命中敵人2次
+WArea2Stage3Mission4	通過探索時獲得白銀勳章
+WArea2Stage3Mission5	使用職業\x0e\x05\x01\x021\0在通過探索時獲得白金勳章
+WArea2Stage3Mission6	裝備\x0e\x05\x01\x021\0「重戰士」套裝獲得\x0e\x05\x06\x026\0
+WArea2Stage3Mission7	以招式「鬼殺火焰錘」給予最後一擊
+WArea2Stage3Mission8	在30秒內通過探索
+WArea1Stage4Mission1	通過高：大塊頭探索
+WArea1Stage4Mission2	沒有任何人力竭
+WArea1Stage4Mission3	通過探索時獲得白銀勳章
+WArea1Stage4Mission4	通過探索時獲得黃金勳章
+WArea1Stage4Mission5	裝備\x0e\x05\x03\x023\0「魔法師」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage4Mission6	使用職業\x0e\x05\x03\x023\0停止時間
+WArea1Stage4Mission7	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage4Mission8	在30秒內通過探索
+WArea3Stage2Mission1	通過高：隊伍‧堅若磐石探索
+WArea3Stage2Mission2	使用職業\x0e\x05\0\x020\0通過探索
+WArea3Stage2Mission3	使用招式「龍捲斬」命中敵人2次
+WArea3Stage2Mission4	通過探索時獲得黃金勳章
+WArea3Stage2Mission5	使用職業\x0e\x05\0\x020\0在通過探索時獲得白金勳章
+WArea3Stage2Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage2Mission7	以招式「龍捲斬」給予最後一擊
+WArea3Stage2Mission8	在30秒內通過探索
+WArea1Stage5Mission1	通過高：泳將先生探索
+WArea1Stage5Mission2	裝備\x0e\x05\x03\x023\0「玫瑰」套裝通過探索
+WArea1Stage5Mission3	通過探索時獲得白銀勳章
+WArea1Stage5Mission4	通過探索時獲得黃金勳章
+WArea1Stage5Mission5	通過探索時獲得白金勳章
+WArea1Stage5Mission6	裝備\x0e\x05\x03\x023\0「玫瑰」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage5Mission7	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage5Mission8	在30秒內通過探索
+WArea2Stage4Mission1	通過高：隊伍‧一刀兩半探索
+WArea2Stage4Mission2	裝備\x0e\x05\0\x020\0「獨角獸」套裝通過探索
+WArea2Stage4Mission3	所有人都使用職業\x0e\x05\0\x020\0並通過探索
+WArea2Stage4Mission4	通過探索時獲得黃金勳章
+WArea2Stage4Mission5	裝備\x0e\x05\0\x020\0「疾風之劍」獲得\x0e\x05\x06\x026\0
+WArea2Stage4Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea2Stage4Mission7	在自己沒有受到任何傷害的情況下通過探索
+WArea2Stage4Mission8	在35秒內通過探索
+WArea3Stage3Mission1	通過高：三重 大型隊伍探索
+WArea3Stage3Mission2	使用職業\x0e\x05\x01\x021\0在通過探索時獲得白銀勳章
+WArea3Stage3Mission3	沒有任何人力竭
+WArea3Stage3Mission4	通過探索時獲得黃金勳章
+WArea3Stage3Mission5	使用職業\x0e\x05\x01\x021\0在通過探索時獲得白金勳章
+WArea3Stage3Mission6	裝備\x0e\x05\x01\x021\0「英勇」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage3Mission7	裝備\x0e\x05\x03\x023\0「白兔」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage3Mission8	在35秒內通過探索
+WArea4Stage1Mission1	通過高：毒波洛斯探索
+WArea4Stage1Mission2	裝備\x0e\x05\x01\x021\0「野獸」套裝獲得\x0e\x05\x08\x028\0
+WArea4Stage1Mission3	使用招式「鬼殺火焰錘」命中敵人2次
+WArea4Stage1Mission4	通過探索時獲得黃金勳章
+WArea4Stage1Mission5	裝備\x0e\x05\x01\x021\0「野獸」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage1Mission6	以招式「鬼殺火焰錘」給予最後一擊
+WArea4Stage1Mission7	等級36以上通過探索
+WArea4Stage1Mission8	在30秒內通過探索
+WArea1Stage6Mission1	通過高：隊伍‧敲金擊石探索
+WArea1Stage6Mission2	裝備\x0e\x05\x02\x022\0「白貓頭鷹」套裝獲得\x0e\x05\x08\x028\0
+WArea1Stage6Mission3	使用\x0e\x05\x02\x022\0回復同伴的體力3次
+WArea1Stage6Mission4	通過探索時獲得黃金勳章
+WArea1Stage6Mission5	裝備\x0e\x05\x02\x022\0「聖徒」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage6Mission7	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage6Mission8	在30秒內通過探索
+WArea4Stage2Mission1	通過高：大洛啪探索
+WArea4Stage2Mission2	使用職業\x0e\x05\x01\x021\0通過探索
+WArea4Stage2Mission3	通過探索時獲得白銀勳章
+WArea4Stage2Mission4	通過探索時獲得黃金勳章
+WArea4Stage2Mission5	裝備\x0e\x05\x03\x023\0「巫師」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage2Mission6	使用職業\x0e\x05\x03\x023\0停止時間
+WArea4Stage2Mission7	等級40以上通過探索
+WArea4Stage2Mission8	在30秒內通過探索
+WArea3Stage4Mission1	通過高：凍霜彎刀騎士老大探索
+WArea3Stage4Mission2	使用職業\x0e\x05\0\x020\0在通過探索時獲得白銀勳章
+WArea3Stage4Mission3	通過探索時獲得黃金勳章
+WArea3Stage4Mission4	使用職業\x0e\x05\x02\x022\0在通過探索時獲得黃金勳章
+WArea3Stage4Mission5	裝備\x0e\x05\0\x020\0「驚奇非凡」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage4Mission6	以好友隕石給予最後一擊
+WArea3Stage4Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage4Mission8	在30秒內通過探索
+WArea1Stage7Mission1	通過高：冰龍探索
+WArea1Stage7Mission2	使用職業\x0e\x05\x02\x022\0在通過探索時獲得白銀勳章
+WArea1Stage7Mission3	沒有任何人力竭
+WArea1Stage7Mission4	通過探索時獲得黃金勳章
+WArea1Stage7Mission5	使用職業\x0e\x05\x02\x022\0在通過探索時獲得白金勳章
+WArea1Stage7Mission6	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage7Mission7	裝備\x0e\x05\x02\x022\0「黃金」套裝通過探索
+WArea1Stage7Mission8	在25秒內通過探索
+WArea4Stage3Mission1	通過高：火山蛙探索
+WArea4Stage3Mission2	使用職業\x0e\x05\x01\x021\0通過探索時獲得黃金勳章
+WArea4Stage3Mission3	發動好友隕石
+WArea4Stage3Mission4	通過探索時獲得黃金勳章
+WArea4Stage3Mission5	裝備\x0e\x05\x01\x021\0「獨眼巨人」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage3Mission6	在自己沒有被吞食過的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage3Mission7	裝備稀有度5以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea4Stage3Mission8	在40秒內通過探索
+WArea5Stage1Mission1	通過高：傳送帕托利斯探索
+WArea5Stage1Mission2	使用職業\x0e\x05\x03\x023\0在通過探索時獲得白銀勳章
+WArea5Stage1Mission3	使用職業\x0e\x05\x03\x023\0停止時間
+WArea5Stage1Mission4	通過探索時獲得黃金勳章
+WArea5Stage1Mission5	裝備\x0e\x05\x03\x023\0「青金」套裝獲得\x0e\x05\x06\x026\0
+WArea5Stage1Mission6	在40秒內通過探索
+WArea5Stage1Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage1Mission8	在30秒內通過探索
+WArea1Stage8Mission1	通過鬼：毒液獨眼雲探索
+WArea1Stage8Mission2	裝備\x0e\x05\x02\x022\0「海水」套裝獲得\x0e\x05\x07\x027\0
+WArea1Stage8Mission3	使用\x0e\x05\x02\x022\0回復同伴的體力3次
+WArea1Stage8Mission4	通過探索時獲得白金勳章
+WArea1Stage8Mission5	裝備\x0e\x05\x02\x022\0「醫生」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage8Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage8Mission7	等級50以上通過探索
+WArea1Stage8Mission8	在35秒內通過探索
+WArea2Stage5Mission1	通過鬼：冰龍探索
+WArea2Stage5Mission2	裝備\x0e\x05\0\x020\0「深淵金屬」套裝獲得\x0e\x05\x07\x027\0
+WArea2Stage5Mission3	沒有任何人力竭
+WArea2Stage5Mission4	通過探索時獲得白金勳章
+WArea2Stage5Mission5	裝備\x0e\x05\0\x020\0「魚魚」套裝獲得\x0e\x05\x06\x026\0
+WArea2Stage5Mission6	以招式「龍捲斬」給予最後一擊
+WArea2Stage5Mission7	裝備\x0e\x05\0\x020\0稀有度4以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea2Stage5Mission8	在35秒內通過探索
+WArea3Stage5Mission1	通過鬼：電火花錘星猩探索
+WArea3Stage5Mission2	裝備\x0e\x05\x01\x021\0「花開」套裝獲得\x0e\x05\x07\x027\0
+WArea3Stage5Mission3	沒有任何人力竭
+WArea3Stage5Mission4	通過探索時獲得白金勳章
+WArea3Stage5Mission5	裝備\x0e\x05\x01\x021\0稀有度7以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea3Stage5Mission6	以招式「鬼殺火焰錘」給予最後一擊
+WArea3Stage5Mission7	破壞2次椰子炸彈並獲得\x0e\x05\x06\x026\0
+WArea3Stage5Mission8	在35秒內通過探索
+WArea1Stage9Mission1	通過鬼：隊伍‧冷若冰霜探索
+WArea1Stage9Mission2	裝備\x0e\x05\0\x020\0「蒼炎」套裝通過探索
+WArea1Stage9Mission3	使用招式「龍捲斬」命中敵人3次
+WArea1Stage9Mission4	通過探索時獲得白金勳章
+WArea1Stage9Mission5	裝備\x0e\x05\0\x020\0「騎士」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage9Mission6	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea1Stage9Mission7	裝備\x0e\x05\0\x020\0「緋紅」套裝獲得\x0e\x05\x06\x026\0
+WArea1Stage9Mission8	在40秒內通過探索
+WArea2Stage6Mission1	通過鬼：傳送帕托利斯探索
+WArea2Stage6Mission2	裝備\x0e\x05\x03\x023\0「墮落錫安」套裝獲得\x0e\x05\x07\x027\0
+WArea2Stage6Mission3	發動好友隕石。
+WArea2Stage6Mission4	通過探索時獲得白金勳章
+WArea2Stage6Mission5	裝備\x0e\x05\x03\x023\0「黃金」套裝獲得\x0e\x05\x06\x026\0
+WArea2Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea2Stage6Mission7	使用職業\x0e\x05\x03\x023\0停止時間並獲得\x0e\x05\x06\x026\0
+WArea2Stage6Mission8	在35秒內通過探索
+WArea3Stage6Mission1	通過鬼：風語大樹探索
+WArea3Stage6Mission2	裝備\x0e\x05\x02\x022\0「啾啾」套裝獲得\x0e\x05\x07\x027\0
+WArea3Stage6Mission3	沒有任何人力竭
+WArea3Stage6Mission4	通過探索時獲得白金勳章
+WArea3Stage6Mission5	裝備\x0e\x05\x02\x022\0「瘋狂」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage6Mission7	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage6Mission8	在40秒內通過探索
+WArea3Stage7Mission1	通過鬼：電龍探索
+WArea3Stage7Mission2	裝備\x0e\x05\x01\x021\0「黃金」套裝獲得\x0e\x05\x08\x028\0
+WArea3Stage7Mission3	通過探索時獲得黃金勳章
+WArea3Stage7Mission4	在50秒內通過探索
+WArea3Stage7Mission5	裝備\x0e\x05\x01\x021\0「黃金」套裝獲得\x0e\x05\x06\x026\0
+WArea3Stage7Mission6	使用招式「鬼殺火焰錘」命中敵人3次
+WArea3Stage7Mission7	在自己沒有受到任何傷害的情況下通過探索
+WArea3Stage7Mission8	在35秒內通過探索
+WArea4Stage4Mission1	通過鬼：隊伍‧三位一體探索
+WArea4Stage4Mission2	裝備\x0e\x05\x01\x021\0「凝視者」套裝通過探索
+WArea4Stage4Mission3	通過探索時獲得黃金勳章
+WArea4Stage4Mission4	通過探索時獲得白金勳章
+WArea4Stage4Mission5	裝備\x0e\x05\x01\x021\0「獨眼巨人」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage4Mission6	在自己沒有受到任何傷害的情況下通過探索
+WArea4Stage4Mission7	在50秒內通過探索
+WArea4Stage4Mission8	在35秒內通過探索
+WArea4Stage5Mission1	通過鬼：火焰加爾波洛斯探索
+WArea4Stage5Mission2	裝備\x0e\x05\0\x020\0「鯊魚鋸」和「南洋魚頭帽」通過探索
+WArea4Stage5Mission3	通過探索時獲得黃金勳章
+WArea4Stage5Mission4	通過探索時獲得白金勳章
+WArea4Stage5Mission5	裝備\x0e\x05\0\x020\0「魚魚」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage5Mission6	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage5Mission7	以招式「迴旋斬」給予最後一擊
+WArea4Stage5Mission8	在35秒內通過探索
+WArea4Stage6Mission1	通過鬼：火山蛙探索
+WArea4Stage6Mission2	裝備\x0e\x05\x02\x022\0「啾啾」套裝通過探索
+WArea4Stage6Mission3	通過探索時獲得黃金勳章
+WArea4Stage6Mission4	通過探索時獲得白金勳章
+WArea4Stage6Mission5	裝備\x0e\x05\x02\x022\0「塔狼蛛」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage6Mission7	在自己沒有被吞食過的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage6Mission8	在45秒內通過探索
+WArea4Stage7Mission1	通過鬼：大洛啪探索
+WArea4Stage7Mission2	裝備\x0e\x05\x01\x021\0「幸福」套裝獲得\x0e\x05\x07\x027\0
+WArea4Stage7Mission3	使用招式「鬼殺火焰錘」命中敵人2次
+WArea4Stage7Mission4	通過探索時獲得白金勳章
+WArea4Stage7Mission5	裝備\x0e\x05\x01\x021\0「驚奇非凡」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage7Mission6	以好友隕石給予最後一擊
+WArea4Stage7Mission7	裝備\x0e\x05\x02\x022\0「薩滿」套裝獲得\x0e\x05\x06\x026\0
+WArea4Stage7Mission8	在35秒內通過探索
+WArea5Stage2Mission1	通過鬼：隊伍‧風刀霜劍探索
+WArea5Stage2Mission2	裝備\x0e\x05\x03\x023\0「魔法少女」套裝獲得\x0e\x05\x07\x027\0
+WArea5Stage2Mission3	使用職業\x0e\x05\x03\x023\0停止時間
+WArea5Stage2Mission4	通過探索時獲得白金勳章
+WArea5Stage2Mission5	裝備\x0e\x05\x03\x023\0稀有度6以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea5Stage2Mission6	裝備\x0e\x05\x03\x023\0「玫瑰」套裝獲得\x0e\x05\x06\x026\0
+WArea5Stage2Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage2Mission8	在40秒內通過探索
+WArea5Stage3Mission1	通過鬼：龍帝亞探索
+WArea5Stage3Mission2	裝備\x0e\x05\x03\x023\0「星空」套裝通過探索
+WArea5Stage3Mission3	以好友隕石給予最後一擊
+WArea5Stage3Mission4	通過探索時獲得黃金勳章
+WArea5Stage3Mission5	裝備\x0e\x05\x03\x023\0「術師」套裝獲得\x0e\x05\x06\x026\0
+WArea5Stage3Mission6	使用職業\x0e\x05\x03\x023\0停止時間
+WArea5Stage3Mission7	裝備\x0e\x05\x02\x022\0「學士之燒瓶」獲得\x0e\x05\x06\x026\0
+WArea5Stage3Mission8	在35秒內通過探索
+WArea5Stage4Mission1	通過鬼：塔狼蛛探索
+WArea5Stage4Mission2	沒有任何人力竭
+WArea5Stage4Mission3	通過探索時獲得白金勳章
+WArea5Stage4Mission4	在50秒內通過探索
+WArea5Stage4Mission5	裝備稀有度7以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea5Stage4Mission6	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage4Mission7	使用職業\x0e\x05\x03\x023\0在通過探索時獲得白金勳章
+WArea5Stage4Mission8	在35秒內通過探索
+WArea1Stage10Mission1	通過神：四重 大型隊伍探索
+WArea1Stage10Mission2	裝備「星光」套裝通過探索
+WArea1Stage10Mission3	沒有任何人力竭
+WArea1Stage10Mission4	通過探索時獲得白金勳章
+WArea1Stage10Mission5	裝備\x0e\x05\x02\x022\0「瘋狂腦殼DX」獲得\x0e\x05\x06\x026\0
+WArea1Stage10Mission6	在自己沒有受到任何傷害的情況下通過探索
+WArea1Stage10Mission7	在50秒內通過探索
+WArea1Stage10Mission8	在40秒內通過探索
+WArea2Stage7Mission1	通過神：大洛啪探索
+WArea2Stage7Mission2	裝備\x0e\x05\x03\x023\0「魔嚕酷」套裝獲得\x0e\x05\x07\x027\0
+WArea2Stage7Mission3	通過探索時獲得白金勳章
+WArea2Stage7Mission4	在50秒內通過探索
+WArea2Stage7Mission5	裝備\x0e\x05\x03\x023\0「魔力繪畫墮落錫安神杖DX」獲得\x0e\x05\x06\x026\0
+WArea2Stage7Mission6	裝備\x0e\x05\x03\x023\0「玫瑰帽DX」獲得\x0e\x05\x06\x026\0
+WArea2Stage7Mission7	使用職業\x0e\x05\x03\x023\0停止時間
+WArea2Stage7Mission8	在40秒內通過探索
+WArea3Stage8Mission1	通過神：盔角蟲探索
+WArea3Stage8Mission2	裝備\x0e\x05\x02\x022\0「闇塔狼蛛」套裝獲得\x0e\x05\x07\x027\0
+WArea3Stage8Mission3	使用\x0e\x05\x02\x022\0回復同伴的體力3次
+WArea3Stage8Mission4	通過探索時獲得白金勳章
+WArea3Stage8Mission5	裝備\x0e\x05\x02\x022\0「啾啾燒瓶DX」獲得\x0e\x05\x06\x026\0
+WArea3Stage8Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage8Mission7	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage8Mission8	在40秒內通過探索
+WArea4Stage8Mission1	通過神：電火花錘星猩探索
+WArea4Stage8Mission2	裝備DX強化的\x0e\x05\x01\x021\0武器通過探索
+WArea4Stage8Mission3	使用招式「鬼殺火焰錘」命中敵人2次並獲得\x0e\x05\x07\x027\0
+WArea4Stage8Mission4	通過探索時獲得白金勳章
+WArea4Stage8Mission5	裝備\x0e\x05\x01\x021\0「幸福小槌DX」獲得\x0e\x05\x06\x026\0
+WArea4Stage8Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage8Mission7	裝備\x0e\x05\x01\x021\0「恐龍頭盔DX」獲得\x0e\x05\x06\x026\0
+WArea4Stage8Mission8	在40秒內通過探索
+WArea5Stage5Mission1	通過神：炎刃探索
+WArea5Stage5Mission2	裝備DX強化的\x0e\x05\0\x020\0武器通過探索
+WArea5Stage5Mission3	使用招式「龍捲斬」命中敵人3次並獲得\x0e\x05\x07\x027\0
+WArea5Stage5Mission4	通過探索時獲得白金勳章
+WArea5Stage5Mission5	裝備\x0e\x05\0\x020\0「緋紅劍DX」獲得\x0e\x05\x06\x026\0
+WArea5Stage5Mission6	以招式「迴旋斬」給予最後一擊
+WArea5Stage5Mission7	在自己沒有受到任何傷害的情況下通過探索
+WArea5Stage5Mission8	在40秒內通過探索
+WArea7Stage1Mission1	通過神：大塊頭探索
+WArea7Stage1Mission2	裝備\x0e\x05\x02\x022\0「塞昆托霓雅」套裝通過探索
+WArea7Stage1Mission3	以好友隕石給予最後一擊
+WArea7Stage1Mission4	通過探索時獲得白金勳章
+WArea7Stage1Mission5	裝備\x0e\x05\x02\x022\0「治癒師之瓶DX」獲得\x0e\x05\x06\x026\0
+WArea7Stage1Mission6	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea7Stage1Mission7	裝備DX強化的\x0e\x05\x01\x021\0防具獲得\x0e\x05\x06\x026\0
+WArea7Stage1Mission8	在40秒內通過探索
+WArea5Stage6Mission1	通過神：異次元夢魘探索
+WArea5Stage6Mission2	裝備DX強化的武器通過探索
+WArea5Stage6Mission3	通過探索時獲得黃金勳章
+WArea5Stage6Mission4	通過探索時獲得白金勳章
+WArea5Stage6Mission5	裝備\x0e\x05\x02\x022\0「海水玻璃瓶DX」通過探索
+WArea5Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage6Mission7	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage6Mission8	在40秒內通過探索
+WArea6Stage1Mission1	通過神：龍帝亞EX探索
+WArea6Stage1Mission2	裝備DX強化的防具通過探索
+WArea6Stage1Mission3	通過探索時獲得黃金勳章
+WArea6Stage1Mission4	通過探索時獲得白金勳章
+WArea6Stage1Mission5	裝備\x0e\x05\x01\x021\0「獸頭盔DX」通過探索
+WArea6Stage1Mission6	裝備\x0e\x05\x01\x021\0稀有度5以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea6Stage1Mission7	等級68以上通過探索
+WArea6Stage1Mission8	在40秒內通過探索
+WArea6Stage2Mission1	通過神：異次元蘇姿探索
+WArea6Stage2Mission2	發動好友隕石
+WArea6Stage2Mission3	通過探索時獲得白金勳章
+WArea6Stage2Mission4	在1分鐘內通過探索
+WArea6Stage2Mission5	使用職業\x0e\x05\x02\x022\0在通過探索時獲得白金勳章
+WArea6Stage2Mission6	裝備\x0e\x05\x02\x022\0「聖徒燒瓶DX」獲得\x0e\x05\x06\x026\0
+WArea6Stage2Mission7	以好友隕石給予最後一擊
+WArea6Stage2Mission8	在40秒內通過探索
+WArea6Stage3Mission1	通過神：D大王‧意向探索
+WArea6Stage3Mission2	裝備\x0e\x05\x03\x023\0「白金」套裝通過探索
+WArea6Stage3Mission3	通過探索時獲得黃金勳章
+WArea6Stage3Mission4	通過探索時獲得白金勳章
+WArea6Stage3Mission5	裝備\x0e\x05\x03\x023\0「星空之杖DX」獲得\x0e\x05\x06\x026\0
+WArea6Stage3Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea6Stage3Mission7	裝備「新手」套裝獲得\x0e\x05\x06\x026\0
+WArea6Stage3Mission8	在50秒內通過探索
+WArea1Stage11Mission1	通過超：火焰加爾波洛斯探索
+WArea1Stage11Mission2	沒有任何人力竭
+WArea1Stage11Mission3	通過探索時獲得白金勳章
+WArea1Stage11Mission4	在1分鐘內通過探索
+WArea1Stage11Mission5	裝備\x0e\x05\0\x020\0「黃金帽盔DX」獲得\x0e\x05\x06\x026\0
+WArea1Stage11Mission6	裝備\x0e\x05\x01\x021\0「獨眼巨人錘矛DX」獲得\x0e\x05\x06\x026\0
+WArea1Stage11Mission7	在50秒內通過探索
+WArea1Stage11Mission8	在40秒內通過探索
+WArea3Stage9Mission1	通過超：毒液獨眼雲探索
+WArea3Stage9Mission2	使用職業\x0e\x05\x03\x023\0停止時間2次
+WArea3Stage9Mission3	通過探索時獲得白金勳章
+WArea3Stage9Mission4	在1分鐘內通過探索
+WArea3Stage9Mission5	裝備\x0e\x05\x03\x023\0「魔力魔法洛亞神杖DX」獲得\x0e\x05\x06\x026\0
+WArea3Stage9Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea3Stage9Mission7	在50秒內通過探索
+WArea3Stage9Mission8	在40秒內通過探索
+WArea7Stage2Mission1	通過超：電龍探索
+WArea7Stage2Mission2	裝備\x0e\x05\0\x020\0「騎士」套裝通過探索
+WArea7Stage2Mission3	通過探索時獲得白金勳章
+WArea7Stage2Mission4	在1分鐘內通過探索
+WArea7Stage2Mission5	裝備\x0e\x05\0\x020\0「鯊魚鋸DX」和「南洋魚頭帽DX」獲得\x0e\x05\x06\x026\0
+WArea7Stage2Mission6	以好友隕石給予最後一擊
+WArea7Stage2Mission7	裝備SDX強化的武器與防具通過探索
+WArea7Stage2Mission8	在50秒內通過探索
+WArea5Stage8Mission1	通過超：隊伍‧三重浮空探索
+WArea5Stage8Mission2	裝備\x0e\x05\x02\x022\0「醫生」套裝通過探索
+WArea5Stage8Mission3	通過探索時獲得白金勳章
+WArea5Stage8Mission4	在1分鐘內通過探索
+WArea5Stage8Mission5	裝備\x0e\x05\x02\x022\0「塔狼蛛玻璃瓶DX」獲得\x0e\x05\x06\x026\0
+WArea5Stage8Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage8Mission7	在50秒內通過探索
+WArea5Stage8Mission8	在40秒內通過探索
+WArea7Stage3Mission1	通過超：毒波洛斯探索
+WArea7Stage3Mission2	裝備\x0e\x05\x01\x021\0「凝視者」套裝通過探索
+WArea7Stage3Mission3	通過探索時獲得白金勳章
+WArea7Stage3Mission4	在1分鐘內通過探索
+WArea7Stage3Mission5	裝備\x0e\x05\x01\x021\0「哇姆霸姆拳DX」獲得\x0e\x05\x06\x026\0
+WArea7Stage3Mission6	在不使用好友隕石的情況下獲得\x0e\x05\x06\x026\0
+WArea7Stage3Mission7	裝備\x0e\x05\x03\x023\0「魔嚕酷之杖DX」獲得\x0e\x05\x06\x026\0
+WArea7Stage3Mission8	在50秒內通過探索
+WArea5Stage7Mission1	通過超：隊伍‧雙重擺動屁屁探索
+WArea5Stage7Mission2	裝備\x0e\x05\x03\x023\0「驚奇非凡」套裝獲得\x0e\x05\x07\x027\0
+WArea5Stage7Mission3	通過探索時獲得白金勳章
+WArea5Stage7Mission4	在1分鐘內通過探索
+WArea5Stage7Mission5	裝備\x0e\x05\x03\x023\0「皇女造型DX」獲得\x0e\x05\x06\x026\0
+WArea5Stage7Mission6	在自己沒有被壓扁過的情況下獲得\x0e\x05\x06\x026\0
+WArea5Stage7Mission7	在50秒內通過探索
+WArea5Stage7Mission8	在40秒內通過探索
+WArea7Stage4Mission1	通過超：隊伍‧三重元素探索
+WArea7Stage4Mission2	裝備SDX強化的防具通過探索
+WArea7Stage4Mission3	通過探索時獲得白金勳章
+WArea7Stage4Mission4	在1分鐘內通過探索
+WArea7Stage4Mission5	裝備\x0e\x05\x02\x022\0「驚奇非凡冠帽SDX」獲得\x0e\x05\x06\x026\0
+WArea7Stage4Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea7Stage4Mission7	在50秒內通過探索
+WArea7Stage4Mission8	在40秒內通過探索
+WArea4Stage9Mission1	通過超：火山蛙EX探索
+WArea4Stage9Mission2	裝備SDX強化的武器通過探索
+WArea4Stage9Mission3	通過探索時獲得白金勳章
+WArea4Stage9Mission4	在50秒內通過探索
+WArea4Stage9Mission5	裝備\x0e\x05\x02\x022\0「驚奇非凡燒瓶SDX」獲得\x0e\x05\x06\x026\0
+WArea4Stage9Mission6	在自己沒有被吞食過的情況下獲得\x0e\x05\x06\x026\0
+WArea4Stage9Mission7	等級75以上通過探索
+WArea4Stage9Mission8	在40秒內通過探索
+WArea2Stage8Mission1	通過超：隊伍‧三重怪獸探索
+WArea2Stage8Mission2	沒有任何人力竭
+WArea2Stage8Mission3	通過探索時獲得白金勳章
+WArea2Stage8Mission4	在1分鐘內通過探索
+WArea2Stage8Mission5	裝備\x0e\x05\0\x020\0「劍士之劍DX」獲得\x0e\x05\x06\x026\0
+WArea2Stage8Mission6	使用招式「龍捲斬」命中敵人3次並獲得\x0e\x05\x06\x026\0
+WArea2Stage8Mission7	在50秒內通過探索
+WArea2Stage8Mission8	在40秒內通過探索
+WArea5Stage9Mission1	通過超：塔狼蛛探索
+WArea5Stage9Mission2	裝備\x0e\x05\x02\x022\0「塔狼蛛」套裝通過探索
+WArea5Stage9Mission3	通過探索時獲得白金勳章
+WArea5Stage9Mission4	在1分鐘內通過探索
+WArea5Stage9Mission5	裝備\x0e\x05\x02\x022\0「闇塔狼蛛SDX」套裝獲得\x0e\x05\x06\x026\0
+WArea5Stage9Mission6	在自己沒有受到任何傷害的情況下通過探索
+WArea5Stage9Mission7	裝備稀有度7以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea5Stage9Mission8	在45秒內通過探索
+WArea6Stage4Mission1	通過超：Pres.異次元蘇姿探索
+WArea6Stage4Mission2	以好友隕石給予最後一擊
+WArea6Stage4Mission3	通過探索時獲得白金勳章
+WArea6Stage4Mission4	在1分鐘內通過探索
+WArea6Stage4Mission5	裝備\x0e\x05\0\x020\0「闇物質魔劍SDX」獲得\x0e\x05\x06\x026\0
+WArea6Stage4Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea6Stage4Mission7	以招式「龍捲斬」給予最後一擊
+WArea6Stage4Mission8	在45秒內通過探索
+WArea6Stage5Mission1	通過超：異次元夢魘 復仇探索
+WArea6Stage5Mission2	裝備\x0e\x05\x01\x021\0「逆襲」套裝通過探索
+WArea6Stage5Mission3	通過探索時獲得白金勳章
+WArea6Stage5Mission4	在1分10秒內通過探索
+WArea6Stage5Mission5	裝備\x0e\x05\x01\x021\0「D狂錘‧意向 復仇SDX」獲得\x0e\x05\x06\x026\0
+WArea6Stage5Mission6	以招式「鬼殺火焰錘」給予最後一擊
+WArea6Stage5Mission7	在1分鐘內通過探索
+WArea6Stage5Mission8	在50秒內通過探索
+WArea6Stage6Mission1	通過超：異次元龍帝亞探索
+WArea6Stage6Mission2	裝備\x0e\x05\0\x020\0「異次元龍帝翁」套裝通過探索
+WArea6Stage6Mission3	通過探索時獲得白金勳章
+WArea6Stage6Mission4	在1分鐘內通過探索
+WArea6Stage6Mission5	裝備\x0e\x05\0\x020\0「異次元龍帝翁帽盔SDX」獲得\x0e\x05\x06\x026\0
+WArea6Stage6Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea6Stage6Mission7	裝備稀有度6以下的武器防具獲得\x0e\x05\x06\x026\0
+WArea6Stage6Mission8	在45秒內通過探索
+WArea8Stage1Mission1	通過超：圍繞淵源的英雄探索
+WArea8Stage1Mission2	裝備\x0e\x05\0\x020\0「冥蝶」套裝獲得\x0e\x05\x07\x027\0
+WArea8Stage1Mission3	通過探索時獲得白金勳章
+WArea8Stage1Mission4	在1分鐘內通過探索
+WArea8Stage1Mission5	裝備\x0e\x05\0\x020\0「冥王之斬閃冥蝶SDX」獲得\x0e\x05\x06\x026\0
+WArea8Stage1Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea8Stage1Mission7	以好友隕石給予最後一擊
+WArea8Stage1Mission8	在45秒內通過探索
+WArea6Stage7Mission1	通過極超：異次元夢魘 復仇探索
+WArea6Stage7Mission2	裝備\x0e\x05\x03\x023\0「店主魔法洛亞」套裝獲得\x0e\x05\x07\x027\0
+WArea6Stage7Mission3	通過探索時獲得白金勳章
+WArea6Stage7Mission4	在1分15秒內通過探索
+WArea6Stage7Mission5	使用職業\x0e\x05\x03\x023\0「店主魔法洛亞SDX」套裝獲得\x0e\x05\x06\x026\0
+WArea6Stage7Mission6	裝備\x0e\x05\x03\x023\0「魔嚕酷SDX」套裝獲得\x0e\x05\x06\x026\0
+WArea6Stage7Mission7	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea6Stage7Mission8	在1分5秒內通過探索
+WArea6Stage8Mission1	通過極超：D大王‧意向 復仇探索
+WArea6Stage8Mission2	沒有任何人力竭
+WArea6Stage8Mission3	通過探索時獲得白金勳章
+WArea6Stage8Mission4	在1分10秒內通過探索
+WArea6Stage8Mission5	裝備\x0e\x05\x01\x021\0「逆襲之錘‧改SDX」通過探索
+WArea6Stage8Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea6Stage8Mission7	等級90以上通過探索
+WArea6Stage8Mission8	在55秒內通過探索
+WArea8Stage2Mission1	通過極超：真 最終決戰EX探索
+WArea8Stage2Mission2	裝備\x0e\x05\0\x020\0「騎士DX」套裝通過探索
+WArea8Stage2Mission3	通過探索時獲得白金勳章
+WArea8Stage2Mission4	在1分10秒內通過探索
+WArea8Stage2Mission5	裝備\x0e\x05\0\x020\0「新手之劍SDX」獲得\x0e\x05\x06\x026\0
+WArea8Stage2Mission6	在沒有任何人力竭的情況下獲得\x0e\x05\x06\x026\0
+WArea8Stage2Mission7	裝備「星光SDX」套裝獲得\x0e\x05\x06\x026\0
+WArea8Stage2Mission8	在55秒內通過探索
+Quest1	在故事探索中通過7個鬼級別探索
+Quest2	開放故事探索中的「夢幻異界」區域
+Quest3	通過所有鬼級別熱鬧探索
+Quest4	開放熱鬧探索的極超級別
+Level1	達到等級3
+Level2	達到等級5
+Level3	達到等級7
+Level4	達到等級10
+Level5	達到等級12
+Level6	達到等級15
+Level7	達到等級17
+Level8	達到等級20
+Level9	達到等級22
+Level10	達到等級25
+Level11	達到等級27
+Level12	達到等級30
+Level13	達到等級32
+Level14	達到等級35
+Level15	達到等級37
+Level16	達到等級40
+Level17	達到等級42
+Level18	達到等級45
+Level19	達到等級47
+Level20	達到等級50
+Level21	達到等級52
+Level22	達到等級55
+Level23	達到等級57
+Level24	達到等級60
+Level25	達到等級62
+Level26	達到等級65
+Level27	達到等級67
+Level28	達到等級70
+Level29	達到等級72
+Level30	達到等級75
+Level31	達到等級77
+Level32	達到等級80
+Level33	達到等級82
+Level34	達到等級85
+Level35	達到等級87
+Level36	達到等級90
+Level37	達到等級92
+Level38	達到等級95
+Level39	達到等級97
+Level40	達到等級100
+JobSword1	使用職業\x0e\x05\0\x020\0通過5次探索
+JobSword2	使用職業\x0e\x05\0\x020\0通過10次探索
+JobSword3	使用職業\x0e\x05\0\x020\0通過20次探索
+JobSword4	使用職業\x0e\x05\0\x020\0通過30次探索
+JobSword5	使用職業\x0e\x05\0\x020\0通過50次探索
+JobHammer1	使用職業\x0e\x05\x01\x021\0通過5次探索
+JobHammer2	使用職業\x0e\x05\x01\x021\0通過10次探索
+JobHammer3	使用職業\x0e\x05\x01\x021\0通過20次探索
+JobHammer4	使用職業\x0e\x05\x01\x021\0通過30次探索
+JobHammer5	使用職業\x0e\x05\x01\x021\0通過50次探索
+JobDoctor1	使用職業\x0e\x05\x02\x022\0通過5次探索
+JobDoctor2	使用職業\x0e\x05\x02\x022\0通過10次探索
+JobDoctor3	使用職業\x0e\x05\x02\x022\0通過20次探索
+JobDoctor4	使用職業\x0e\x05\x02\x022\0通過30次探索
+JobDoctor5	使用職業\x0e\x05\x02\x022\0通過50次探索
+JobBeam1	使用職業\x0e\x05\x03\x023\0通過5次探索
+JobBeam2	使用職業\x0e\x05\x03\x023\0通過10次探索
+JobBeam3	使用職業\x0e\x05\x03\x023\0通過20次探索
+JobBeam4	使用職業\x0e\x05\x03\x023\0通過30次探索
+JobBeam5	使用職業\x0e\x05\x03\x023\0通過50次探索
+Equipment1	購買3個裝備
+Equipment2	購買6個裝備
+Equipment3	購買10個裝備
+Equipment4	購買20個裝備
+Equipment5	購買30個裝備
+Equipment6	購買40個裝備
+Equipment7	購買50個裝備
+Equipment8	購買60個裝備
+Equipment9	購買70個裝備
+Equipment10	購買80個裝備
+Equipment11	購買90個裝備
+Equipment12	購買100個裝備
+AllEquipmentSword	收集所有\x0e\x05\0\x020\0的裝備
+AllEquipmentHammer	收集所有\x0e\x05\x01\x021\0的裝備
+AllEquipmentDoctor	收集所有\x0e\x05\x02\x022\0的裝備
+AllEquipmentBeam	收集所有\x0e\x05\x03\x023\0的裝備
+ArmsForgeZ1	將1把武器進行DX強化
+ArmsForgeZ2	將20把武器進行DX強化
+ArmsForgeZ3	將50把武器進行DX強化
+AllArmsForgeZ	將所有武器進行DX強化
+HatForgeZ1	將1個防具進行DX強化
+HatForgeZ2	將20個防具進行DX強化
+HatForgeZ3	將50個防具進行DX強化
+AllHatForgeZ	將所有防具進行DX強化
+ArmsForgeSZ1	將1個武器進行SDX強化
+ArmsForgeSZ2	將20個武器進行SDX強化
+ArmsForgeSZ3	將50個武器進行SDX強化
+AllArmsForgeSZ	將所有武器進行SDX強化
+HatForgeSZ1	將1個防具進行SDX強化
+HatForgeSZ2	將20個防具進行SDX強化
+HatForgeSZ3	將50個防具進行SDX強化
+AllHatForgeSZ	將所有防具進行SDX強化
+SupportItem1	第一次購買輔助道具
+SupportItem2	購買3個輔助道具
+SupportMiniExp1	使用迷你經驗值球
+SupportMiniExp2	使用迷你經驗值球3次
+SupportExp1	使用經驗值球
+SupportExp2	使用經驗值球3次
+SupportHP1	使用體力藥
+SupportHP2	使用體力藥3次
+SupportAtk1	使用攻擊藥
+SupportAtk2	使用攻擊藥3次
+SupportBook1	購買1本書
+SupportBook2	購買3本書
+SupportBook3	購買5本書
+SupportBook4	購買8本書
+SupportBook5	購買10本書
+SupportBook6	購買15本書
+SupportBook7	購買20本書
+SupportBook8	購買30本書
+SupportBook9	購買40本書
+SupportBook10	購買50本書
+HighScore1	合計最高分數達到3000
+HighScore2	合計最高分數達到10000
+HighScore3	合計最高分數達到20000
+HighScore4	合計最高分數達到30000
+HighScore5	合計最高分數達到50000
+HighScore6	合計最高分數達到75000
+HighScore7	合計最高分數達到100000
+HighScore8	合計最高分數達到120000
+HighScore9	合計最高分數達到130000
+HighScore10	合計最高分數達到150000
+HighScore11	合計最高分數達到170000
+HighScore12	合計最高分數達到200000
+HighScore13	合計最高分數達到220000
+HighScore14	合計最高分數達到240000
+HighScore15	合計最高分數達到260000
+HighScore16	合計最高分數達到280000
+Clear1	通過故事探索3次以上
+Clear2	通過故事探索7次以上
+Clear3	通過故事探索10次以上
+Clear4	通過故事探索20次以上
+Clear5	通過故事探索30次以上
+Clear6	通過故事探索50次以上
+Clear7	通過故事探索70次以上
+Clear8	通過故事探索100次以上
+Clear9	通過故事探索120次以上
+Clear10	通過故事探索150次以上
+Clear11	通過故事探索170次以上
+Clear12	通過故事探索200次以上
+Clear13	通過故事探索220次以上
+Clear14	通過故事探索250次以上
+Clear15	通過故事探索270次以上
+Clear16	通過故事探索300次以上
+MultiPlay1	第一次和其他人一起通過探索
+MultiPlay2	和其他人一起通過探索3次以上
+MultiPlay3	和其他人一起通過探索7次以上
+MultiPlay4	和其他人一起通過探索10次以上
+MultiPlay5	和其他人一起通過探索15次以上
+MultiPlay6	和其他人一起通過探索20次以上
+MultiPlay7	和其他人一起通過探索30次以上
+MultiPlay8	和其他人一起通過探索40次以上
+MultiPlay9	和其他人一起通過探索50次以上
+MultiPlay10	和其他人一起通過探索60次以上
+MultiPlay11	和其他人一起通過探索70次以上
+MultiPlay12	和其他人一起通過探索80次以上
+AllArea1Clear	通過所有海岸的探索
+AllArea2Clear	通過所有沙丘的探索
+AllArea3Clear	通過所有古跡的探索
+AllArea4Clear	通過所有火山的探索
+AllArea5Clear	通過所有天空的探索
+AllArea6Clear	通過所有大決戰的探索
+AllArea7Clear	通過所有草原的探索
+AllArea8Clear	通過所有夢幻異界的探索
+AllArea1ClearPlatinum	海岸的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea2ClearPlatinum	沙丘的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea3ClearPlatinum	古跡的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea4ClearPlatinum	火山的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea5ClearPlatinum	天空的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea6ClearPlatinum	大決戰的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea7ClearPlatinum	草原的所有探索全部獲得\x0e\x05\x06\x026\0
+AllArea8ClearPlatinum	夢幻異界的所有探索全部獲得\x0e\x05\x06\x026\0
+VisitTraveller1	和15名旅人相遇
+VisitTraveller2	和30名旅人相遇
+VisitTraveller3	和60名旅人相遇
+VisitTraveller4	和100名旅人相遇
+VisitTraveller5	和150名旅人相遇
+VisitTraveller6	和300名旅人相遇
+TravellerBell1	敲響旅人之鐘5次
+TravellerBell2	敲響旅人之鐘15次
+TravellerBell3	敲響旅人之鐘30次
+TravellerBell4	敲響旅人之鐘50次
+MaterialFrame	收集1000個以上的炎之碎片
+MaterialWater	收集1000個以上的水之碎片
+MaterialLight	收集1000個以上的光之碎片
+MaterialFrameMax	收集9999個炎之碎片
+MaterialWaterMax	收集9999個水之碎片
+MaterialLightMax	收集9999個光之碎片
+Watchword	使用暗號
+Picture	從以前的遊戲跳往Nintendo eShop
+Ticket	在戰鬥中取得稀有碎片
+StampSingle	在成員選擇畫面使用圖章
+StampStep	在戰鬥中使用圖章
+TravellerBellFirst	第一次敲響旅人之鐘
+TrophyClear1	達成100個勇者任務
+TrophyClear2	達成200個勇者任務
+TrophyClear3	達成300個勇者任務
+TrophyClear4	達成400個勇者任務
+TrophyClear5	達成500個勇者任務
+TrophyClear6	達成600個勇者任務
+TrophyClear7	達成700個勇者任務
+TrophyAllComplete	達成全部的勇者任務！
+StampCollect1	收集到10個圖章
+StampCollect2	收集到15個圖章
+StampCollect3	收集到20個圖章
+StampCollect4	收集到30個圖章
+StampCollect5	收集到40個圖章
+StampCollect6	收集到全部的圖章
+AppleGet1	收集到30顆蘋果寶石
+AppleGet2	收集到100顆蘋果寶石
+AppleGet3	收集到300顆蘋果寶石
+AppleGet4	收集到500顆蘋果寶石
+AppleGet5	收集到1000顆蘋果寶石
+AppleGet6	收集到2500顆蘋果寶石
+AppleGet7	收集到5000顆蘋果寶石
+AppleGet8	收集到10000顆蘋果寶石
+AppleUse1	使用30顆蘋果寶石
+AppleUse2	使用100顆蘋果寶石
+AppleUse3	使用300顆蘋果寶石
+AppleUse4	使用500顆蘋果寶石
+AppleUse5	使用1000顆蘋果寶石
+AppleUse6	使用2500顆蘋果寶石
+AppleUse7	使用5000顆蘋果寶石
+AppleUse8	使用10000顆蘋果寶石
+Nfp.msbt
+Reading	讀取中……
+Canceling	取消中……
+TouchNfcReader	請以amiibo點觸{c[dc000d]}NFC範圍{c[000000]}。
+ErrorNotSupported	這不是{c[dc000d]}amiibo{c[000000]}。
+ErrorInvalidFormatVersion	並無對應此{c[dc000d]}amiibo{c[000000]}。
+ErrorOther	發生{c[dc000d]}錯誤{c[000000]}。
+ErrorNfcDeviceNotFound	找不到\n能夠讀取{c[dc000d]}amiibo{c[000000]}的\n控制器。
+DialogYesText	使用
+DialogNoText	退出
+DialogMainText	若獻上amiibo，\n就能獲得{c[dc000d]}各種碎片{c[000000]}。\n要使用amiibo嗎？
+UsedAlreadyText	已經使用這個amiibo\n獲得過{c[dc000d]}碎片{c[000000]}了。\n經過{c[dc000d]}\x0e\x02\x01\0小時{c[000000]}後便能再次使用。
+UsedAlreadyText2	已經使用這個amiibo\n獲得過{c[dc000d]}碎片{c[000000]}了。\n經過{c[dc000d]}\x0e\x02\x01\0分鐘{c[000000]}後便能再次使用。
+MAXCountText	每1天最多只能使用\n{c[dc000d]}5個{c[000000]}amiibo。\n經過{c[dc000d]}\x0e\x02\x01\0小時{c[000000]}後便能再次使用。
+MAXCountText2	每1天最多只能使用\n{c[dc000d]}5個{c[000000]}amiibo。\n經過{c[dc000d]}\x0e\x02\x01\0分鐘{c[000000]}後便能再次使用。
+RewardText	用amiibo獲得了{c[dc000d]}碎片{c[000000]}！
+Shop.msbt
+HeaderLabel	雜貨店
+HeaderLabelArms	武器
+HeaderLabelHat	防具
+HeaderLabelSupport	輔助道具
+HeaderLabelStamp	圖章
+HeaderLabelCash	蘋果寶石
+TopButtonArms	武器
+TopButtonHat	防具
+TopButtonSupport	輔助\n道具
+TopButtonCash	蘋果寶石
+TopButtonStamp	圖章
+TopMessageArms	能夠購買\n提升{c[ff4b32]}攻擊{c[000000]}的{c[ff4b32]}武器{c[000000]}。
+TopMessageHat	能夠購買\n提升{c[ff4b32]}體力{c[000000]}的{c[ff4b32]}防具{c[000000]}。
+TopMessageArmsZ	能夠購買\n提升{c[ff4b32]}攻擊{c[000000]}的{c[ff4b32]}武器{c[000000]}，\n或是{c[ff4b32]}強化{c[000000]}已經購買過的品項。
+TopMessageHatZ	能夠購買\n提升{c[ff4b32]}體力{c[000000]}的{c[ff4b32]}防具{c[000000]}，\n或是{c[ff4b32]}強化{c[000000]}已經購買過的品項。
+TopMessageSupport	能夠購買\n在探索當中相當有用的\n{c[ff4b32]}輔助道具{c[000000]}。
+TopMessageStamp	能夠購買\n在線上遊玩時\n用來表達想法的{c[ff4b32]}圖章{c[000000]}。
+TopMessageCash	能夠連接到\n{c[ff4b32]}Nintendo eShop{c[000000]}，\n並購買{c[ff4b32]}蘋果寶石{c[000000]}。
+TopDialogCashTreeMax	即使繼續購買蘋果寶石，\n{c[dc000d]}蘋果寶石樹也不會再成長{c[000000]}。\n確定要購買嗎？
+DialogCashSoldOut	{c[dc000d]}蘋果寶石{c[000000]}不足。
+SaleSealText	SALE
+SaleSealText2	超值
+SaleOffText	OFF
+SoldOutText	SOLD OUT
+WeaponRareText	稀有
+WeaponUnknownButton	？？？？？
+WeaponUnknownUpText	？？？？？
+WeaponDialogText	要購買\n{c[dc000d]}\x0e\x02\x06\0\x0e\x02\x07\0{c[000000]}嗎？
+WeaponDialogEnhanceText	要強化\n{c[dc000d]}\x0e\x02\x06\0\x0e\x02\x07\0{c[000000]}嗎？
+WeaponDialogTextLack	{c[dc000d]}素材{c[000000]}不足。
+WeaponDialogBuyText	得到\n{c[dc000d]}\x0e\x02\x06\0\x0e\x02\x07\0{c[000000]}了！
+WeaponDialogBuyEnhanceText	強化\n{c[dc000d]}\x0e\x02\x06\0\x0e\x02\x07\0{c[000000]}了！
+WeaponDialogEquipText	要現在馬上{c[dc000d]}裝備{c[000000]}嗎？
+WeaponDialogEquipEndText	裝備\n{c[dc000d]}\x0e\x02\x06\0\x0e\x02\x07\0{c[000000]}了。
+WeaponDialogAbilityText	要將職業\n更改為{c[dc000d]}\x0e\x02\x05\0{c[000000]}嗎？
+WeaponDialogAbilityEndText	將職業\n更改為{c[dc000d]}\x0e\x02\x05\0{c[000000]}了。
+WeaponDialogNeedMaterial	使用素材
+WeaponDialogNeedCash	使用數量
+WeaponDialogHaveMaterial	持有素材
+WeaponDialogHaveCash	持有數量
+WeaponParamUnknown	+?
+WeaponUnlockUnknown	通過探索吧！
+WeaponPurchasedText	已經持有了。
+SupportHaveLabel	目前持有{s[135]}\x0e\x02\x01\0{s[100]}個
+BookLevelText0	1卷
+BookLevelText1	2卷
+BookLevelText2	3卷
+BookLevelText3	4卷
+BookLevelText4	5卷
+BookLevelText5	最後之卷
+SupportItemNameFrameBook	炎之碎片之書
+SupportItemNameWaterBook	水之碎片之書
+SupportItemNameLightBook	光之碎片之書
+SupportItemNameStaminaBook	幹勁提升之書
+SupportItemNameRareBook	稀有碎片之書
+SupportItemNameTravelerBook	旅人土產之書
+SupportItemNameLuckyBook	幸運探索之書
+SupportItemNameSwordBook	英雄利劍之書
+SupportItemNameHammerBook	重錘子之書
+SupportItemNameBeamBook	魔法光束之書
+SupportItemNameDoctorBook	治癒醫生之書
+SupportItemNameHitPointSupplement	體力藥
+SupportItemNameAttackSupplement	攻擊藥
+SupportItemNameMiniExperienceBall	迷你經驗值球
+SupportItemNameExperienceBall	經驗值球
+SupportItemConsumptionNumText	\x0e\x02\x01\0個
+SupportItemDescriptionFrameBook	將在探索中得到的{c[ff4b32]}炎之碎片{c[000000]}數量\n提升為{c[ff4b32]}\x0e\x02\x01\0倍{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionWaterBook	將在探索中得到的{c[ff4b32]}水之碎片{c[000000]}數量\n提升為{c[ff4b32]}\x0e\x02\x01\0倍{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionLightBook	將在探索中得到的{c[ff4b32]}光之碎片{c[000000]}數量\n提升為{c[ff4b32]}\x0e\x02\x01\0倍{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionStaminaBook	能夠讓{c[ff4b32]}幹勁{c[000000]}更容易{c[ff4b32]}回復{c[000000]}的書。\n回復速度會變為每{c[ff4b32]}\x0e\x02\x01\0分鐘{c[000000]}回復1。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionRareBook	可以在探索中讓{c[ff4b32]}稀有碎片{c[000000]}\n變得更容易出現的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionTravelerBook	敲響{c[ff4b32]}旅人之鐘{c[000000]}時，\n能夠取得{c[ff4b32]}更多土產{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionLuckyBook	可以讓{c[ff4b32]}幸運探索{c[000000]}中出現的\n{c[ff4b32]}幸運箱{c[000000]}開出更多{c[ff4b32]}獎賞{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionSwordBook	當職業是{c[ff4b32]}英雄利劍{c[000000]}的時候，\n主要可以讓體力得到{c[ff4b32]}強化{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionHammerBook	當職業是{c[ff4b32]}重錘子{c[000000]}的時候，\n主要可以讓攻擊得到{c[ff4b32]}強化{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionBeamBook	當職業是{c[ff4b32]}魔法光束{c[000000]}的時候，\n可以讓能力平均地得到{c[ff4b32]}強化{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionDoctorBook	當職業是{c[ff4b32]}治癒醫生{c[000000]}的時候，\n主要可以讓回復得到{c[ff4b32]}強化{c[000000]}的書。\n只要買過一次，就會一直發揮效果。
+SupportItemDescriptionHitPointSupplement	於{c[ff4b32]}出擊前{c[000000]}喝下，\n就能在該次探索時{c[ff4b32]}提升體力{c[000000]}的藥。\n一個人最多可以重複使用5次。
+SupportItemDescriptionAttackSupplement	於{c[ff4b32]}出擊前{c[000000]}喝下，\n就能在該次探索時{c[ff4b32]}提升攻擊力{c[000000]}的藥。\n一個人最多可以重複使用5次。
+SupportItemDescriptionMiniExperienceBall	於{c[ff4b32]}出擊前{c[000000]}使用，\n就能在{c[ff4b32]}10分鐘內{c[000000]}讓經驗值變為{c[ff4b32]}1.5倍{c[000000]}的球。\n持續時間內不論進行幾次探索都會發揮效果。
+SupportItemDescriptionExperienceBall	於{c[ff4b32]}出擊前{c[000000]}使用，\n就能在{c[ff4b32]}30分鐘內{c[000000]}讓經驗值變為{c[ff4b32]}2倍{c[000000]}的球。\n持續時間內不論進行幾次探索都會發揮效果。
+UpBaseSupportItemNameText	\x0e\x02\x08\0 \x0e\x02\n\0
+SupportItemButtonText	\x0e\x02\x08\0 \x0e\x02\n\0
+SupportDialogOverText	因為超過了\n{c[dc000d]}同時最大持有數{c[000000]}，\n所以無法購買。
+SupportDialogText	要購買\n{c[dc000d]}\x0e\x02\x08\0 \x0e\x02\n\0{c[000000]}嗎？
+SupportDialogBuyText	得到\n{c[dc000d]}\x0e\x02\x08\0 \x0e\x02\n\0{c[000000]}了！
+AttachableItemDetected	因擁有{c[dc000d]}交換道具{c[000000]}，\n將返回小鎮。
+CashSaleText	超值初次限定箱
+CashSaleText3	\x0e\x02\x01\0%折扣優惠中！
+CashItemDialogOverText	因為超過了\n{c[dc000d]}同時最大持有數{c[000000]}，\n所以無法購買。
+CashItemDialogEndText	購買了\n{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石。
+CashItemDialogErrorEmptyList2	現在並沒有能夠販賣的道具。
+CashItemName	\x0e\x02\x01\0顆蘋果寶石
+CashItemButtonName	\x0e\x02\x01\0顆
+PresentItemDialogEndText	獲得贈送的\n{c[dc000d]}\x0e\x02\x01\0顆{c[000000]}蘋果寶石！
+CashItemMaxPack	超值\nMAX箱
+CashItemDescriptionDown_01	購買的話，\n樹等級將能夠{c[ff4b32]}成長至\x0e\x02\x01\0{c[000000]}！\n1次能夠收成的量會變成{c[ff4b32]}\x0e\x02\x01\0顆{c[000000]}！
+CashItemDescriptionDown_01B	十分划算的{c[ff4b32]}超值MAX箱{c[000000]}！\n一旦購買，樹等級就能夠{c[ff4b32]}成長至最大等級{c[000000]}！\n1次能夠收成的量會變成{c[ff4b32]}\x0e\x02\x01\0顆{c[000000]}！
+CashItemDescriptionDown_01C	一旦購買，樹等級就能夠{c[ff4b32]}成長至最大等級{c[000000]}！\n1次能夠收成的量會變成{c[ff4b32]}\x0e\x02\x01\0顆{c[000000]}！
+CashItemDescriptionDown_02	即使購買，\n蘋果寶石樹也不會成長。
+StampDialogText	要購買{c[dc000d]}\x0e\x02\x0f\0{c[000000]}嗎？
+StampDialogBuyText	得到{c[dc000d]}\x0e\x02\x0f\0{c[000000]}了！
+DialogPurchaseButton	購買
+DialogCancelButton	取消
+NewForShopTopMenu	NEW
+StaffCredit.msbt
+Staff	STAFF
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+Director	DIRECTORS
+Director_00	YUMI TODO
+Director_01	TADASHI KAWAI
+Director_02	JUN TSUDA
+LeadGameDesign	LEAD GAME DESIGN
+LeadGameDesign_00	JUN TANIGUCHI
+LeadBattleDesign	LEAD BATTLE DESIGN
+LeadBattleDesign_00	YUKI WATANABE
+BattleDesign	BATTLE DESIGN
+BattleDesign_00	JIDEOCK KIM
+UIPlanning	UI PLANNING
+UIPlanning_00	YUICHI KOBAYASHI
+UIPlanning_01	SEIKA NAKATSUJI
+ProgramDirector	PROGRAMMING DIRECTOR
+ProgramDirector_00	HIROSHI OHNISHI
+Programming	PROGRAMMING
+Programming_00	KOUJI KIKKAWA
+Programming_01	YOHEI FUKUDA
+Programming_02	SATOSHI OHTAKE
+Programming_03	HIROKI AZUMADA
+Programming_04	TAKAYA NAKAMURA
+ProgrammingSupport	PROGRAMMING SUPPORT
+ProgrammingSupport_00	YUYA SUZUKI
+DesignDirector	DESIGN DIRECTOR
+DesignDirector_00	RIKI FUHRMANN
+LeadDesign	LEAD DESIGN
+LeadDesign_00	NATSUKI TSUJI
+MotifDesign	MOTIF DESIGN
+MotifDesign_00	KOUICHI NODA
+MotifModeling	MOTIF MODELING
+MotifModeling_00	AYAKO SOUMA
+MotifModeling_01	SACHIE MIKUNI
+MotifModeling_02	YUUSUKE FURUHATA
+CharacterItemDesign	CHARACTER/ITEM DESIGN
+CharacterItemDesign_00	SHINGO KABAYA
+CharacterModeling	CHARACTER MODELING
+CharacterModeling_00	TOMOKA OGURA
+CharacterModeling_01	AKIRA HIGAKI
+ItemModeling	ITEM MODELING
+ItemModeling_00	KENSUKE FUKUMARU
+ItemModeling_01	TAKAHIRO KUMADA
+ItemModeling_02	HARUKA HIROTA
+EffectDesign	EFFECT DESIGN
+EffectDesign_00	MUNEYUKI TEJIMA
+Animation	ANIMATION
+Animation_00	FUMIE TOMONO
+UIConceptDesign	UI CONCEPT DESIGN
+UIConceptDesign_00	YUJI OSHIMOTO
+UIDesign	UI DESIGN
+UIDesign_00	TAKASHI SAGAWA
+UIDesign_01	MASUMI SUGIYAMA
+UIDesign_02	KIYOHISA SUZUHIGASHI
+UIDesign_03	MIKI TANIE
+UIDesign_04	JUNPEI SUZAKI
+UIDesignSupport	UI DESIGN ASSIST
+UIDesignSupport_00	YUKARI KEMMOCHI
+Sound	SOUND
+Sound_00	KIYOSHI HAZEMOTO
+Sound_01	　
+Sound_02	HIROKAZU ANDO
+Sound_03	JUN ISHIKAWA
+VoiceActor	VOICE
+VoiceActor_00	MAKIKO OHMOTO
+VoiceActor_01	BANJO GINGA
+VoiceActor_02	　
+VoiceActor_03	RYOKA YUZUKI
+VoiceActor_04	RIE TAKAHASHI
+VoiceActor_05	REINA UEDA
+VoiceActor_06	SHIGERU CHIBA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	SHIGERU HASHIGUCHI
+TeamSupport_02	SHIGERU HIRAYAMA
+TeamSupport_03	KATSUHIRO SAKODA
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	KAZUHIRO MIZUSAWA
+TechnicalSupport_01	TETSUYA NOGE
+TechnicalSupport_02	SHO TAJIMA
+TechnicalSupport_03	RYOICHIRO ATONO
+TechnicalSupport_04	SHINYA WATANABE
+TechnicalSupport_05	MUNEMASA KIMURA
+TechnicalSupport_06	KAZUKI TSUKUDA
+TechnicalSupport_07	TSUYOSHI MASADA
+ArtWork	ARTWORK
+ArtWork_00	RIEKO KAWAHARA
+ArtWork_01	SUMIKO BESSHO
+ArtWork_02	EMI IMAMURA
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	TAKESHI TAMURA
+Testing_02	AKIKO OHASHI
+Testing_03	SHOJI MATSUYOSHI
+Testing_04	MANAMI SAIGO
+Testing_05	MAYUMI ITO
+Testing_06	HAL DEBUG TEAM
+Testing_07	Mario Club Co., Ltd.
+LocalizationManagement	LOCALIZATION MANAGEMENT
+LocalizationManagement_00	TETSUYA ABE
+LocalizationManagement_01	SEIJI OTOGURO
+NOALocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NOALocalizationManagement_00	REIKO NINOMIYA
+NOALocalizationManagement_01	RICH AMTOWER
+NOALocalizationManagement_02	TIM O'LEARY
+NOALocalizationManagement_03	SCOT RITCHEY
+NOALocalizationManagement_04	ÁLEX ZARZA
+NOALocalization	NOA LOCALIZATION
+NOALocalization_00	SAM ABOUHARB
+NOALocalization_01	YANETT CEPEDA VALOR
+NOALocalization_02	RICH COMEGYS
+NOALocalization_03	MARJOLAINE DROUIN
+NOALocalization_04	NICKO GONZALEZ DE SANTIAGO
+NOALocalization_05	YUNICA HARA
+NOALocalization_06	ROBERT HEIRET
+NOALocalization_07	SARA HOAD
+NOALocalization_08	NORIKO KAJI
+NOALocalization_09	CÉSAR PÉREZ
+NOALocalization_10	LUDOVIC TIENTCHEU PONKIN
+NOAProductTestingManagement	NOA PRODUCT TESTING MANAGEMENT
+NOAProductTestingManagement_00	KENTARO NISHIMURA
+NOAProductTestingManagement_01	KIRK BUCHANAN
+NOAProductTestingManagement_02	Q DEQUINA
+NOAProductTestingManagement_03	TOMOKO MIKAMI
+NOAProductTesting	NOA PRODUCT TESTING
+NOAProductTesting_00	STEPHEN WARD
+NOAProductTesting_01	DAMIANO PINTON
+NOAProductTesting_02	KATHY HUGUENARD
+NOAProductTesting_03	DAVID POTTS
+NOAProductTesting_04	ANNA SEMENETS
+NOAProductTesting_05	MICHAEL SAHLIN
+NOAProductTesting_06	JOSH YAGI-STANTON
+NOAProductTesting_07	JAKE LOKHOLM
+NOAProductTesting_08	GARY MEADS
+NOAProductTesting_09	CODY DELAY
+NOAProductTesting_10	DENNIS QUIRAY
+NOAProductTesting_11	PASCAL RAMIREZ
+NOAProductTesting_12	TIMOTHY ROSAAEN
+NOAProductTesting_13	JAMARI SUAZO-WEST
+NOAProductTesting_14	DANIEL WEIMER
+NOAProductTesting_15	PRODUCT TESTING TECHNICIANS
+NOELocalizationProducers	NOE LOCALISATION PRODUCERS
+NOELocalizationProducers_00	LIAM HIGGINS
+NOELocalizationProducers_01	BARBARA WALLACE
+NOELocalizationProducers_02	RYOKO SAWABE
+NOETranslation	NOE TRANSLATION
+NOETranslation_00	PIERRE SANCHEZ
+NOETranslation_01	MARTINA LEONOR BASSANI
+NOETranslation_02	EREN BAYKAL
+NOETranslation_03	JOHN MULLEN
+NOETranslation_04	FLORENCE D'ANTERROCHES
+NOETranslation_05	JEAN-PAUL HAUSMANN
+NOETranslation_06	EMMANUEL ADIEN
+NOETranslation_07	CLÉMENCE DIERYCK
+NOETranslation_08	GIOVANNA CANTA
+NOETranslation_09	ALESSANDRO PAGANO
+NOETranslation_10	GIOVANNA PRATI
+NOETranslation_11	BRUNO GRAMIGNA
+NOETranslation_12	ALEXANDER VAN DE BERGH
+NOETranslation_13	MARTINA DEIMEL
+NOETranslation_14	SASCHA WEINARD
+NOETranslation_15	AINHOA BERNAD HURTADO
+NOETranslation_16	ELIZABETH SÁNCHEZ LEÓN
+NOETranslation_17	JÓNATAN MARCOS MILLÁN
+NOETranslation_18	CHRISTIAN BUTER
+NOETranslation_19	THOMAS DEN HAAN
+NOETranslation_20	CARSTEN HARMANS
+NOEQualityAssurance	NOE QUALITY ASSURANCE
+NOEQualityAssurance_00	MARCO GRUDEN
+NOEQualityAssurance_01	LAURENT SIDDI
+NOEQualityAssurance_02	EMILIEN DE SALLES COSTA
+NOEQualityAssurance_03	DAMIEN BRICHARD
+NOEQualityAssurance_04	PASQUALE MICELI
+NOEQualityAssurance_05	ANDREA MARINO
+NOEQualityAssurance_06	PETER EISELT
+NOEQualityAssurance_07	ZORAN TASEVSKI
+NOEQualityAssurance_08	MIGUEL ÁNGEL CARNERO CALDERÓN
+NOEQualityAssurance_09	JORGE HERAS GARCÍA
+NOEQualityAssurance_10	SOUFIAN YAHYAOUI
+NOEQualityAssurance_11	STIJN LEBON
+NOEQualityAssurance_12	STEFAN VERMIJ
+NOKTranslation	NOK TRANSLATION
+NOKTranslation_00	JIHYUEN YOO
+NOKQualityAssurance	NOK QUALITY ASSURANCE
+NOKQualityAssurance_00	KIUNG SEOUNG
+NOKQualityAssurance_01	KYOUNGIM NA
+NOKQualityAssurance_02	Pole To Win Korea Co., Ltd.
+NOKArtwork	NOK ARTWORK
+NOKArtwork_00	SUZY DO
+NHLLocalization	NHL LOCALIZATION
+NHLLocalization_00	CLAUDIA CHAN
+NHLLocalization_01	SEAN SHEN
+NHLLocalization_02	TRACY CHENG
+NHLLocalization_03	Pole To Win Singapore Pte. Ltd., Taiwan Branch
+NHLArtwork	NHL ARTWORK
+NHLArtwork_00	MIKE KAN
+iQueLocalization	iQue LOCALIZATION
+iQueLocalization_00	KEISUKE FUKUSHIMA
+iQueLocalization_01	QIU XIAOCHUN
+iQueLocalization_02	XU MING
+iQueLocalization_03	ZHANG JIONG
+iQueLocalization_04	Pole To Win Shanghai Co., Ltd.
+EndingSong	ENDING SONG
+EndingSong_00	Green Tree Memories from Kirby
+EndingSong_01	VOCALS - NATSUMI IWAIDE
+EndingSong_02	LYRICS - SHINYA KUMAZAKI
+EndingSong_03	ENGLISH TRANSLATION - OWEN COONEY
+EndingSong_04	COMPOSITION - TADASHI IKEGAMI
+EndingSong_05	ARRANGEMENT - NAOHISA TANIGUCHI
+EndingSong_06	HIROKAZU ANDO
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	WINDS CO.,LTD.
+SpecialThanks_01	YASUO TAKAGI
+SpecialThanks_02	YOSHIHIRO NAGATA
+SpecialThanks_03	KEITA YAMADA
+SpecialThanks_04	TOMOHIRO MINEMURA
+SpecialThanks_05	MASAYO NAKAGAMI
+SpecialThanks_06	SATOSHI ISHIDA
+SpecialThanks_07	HARUKA ABE
+SpecialThanks_08	HIROAKI IKARASHI
+SpecialThanks_09	AKIRA EGUCHI
+SpecialThanks_10	YUMI OSADA
+SpecialThanks_11	JEFF MILLER
+SpecialThanks_12	manual of errors artists, inc.
+SpecialThanks_13	Good-Feel Co., Ltd.
+Coordinators	COORDINATOR
+Coordinators_00	KEI NINOMIYA
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	YOSHIKI SUZUKI
+ProjectManagement_01	ISAO TAKAHASHI
+ProjectManagement_02	TATSUYA KIKUCHI
+Producer	PRODUCERS
+Producer_00	TADASHI KAMITAKE
+Producer_01	HITOSHI YAMAGAMI
+GeneralProducer	GENERAL PRODUCERS
+GeneralProducer_00	SHIGEFUMI KAWASE
+GeneralProducer_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	SHUNTARO FURUKAWA
+Copyright	HAL Laboratory, Inc. and Nintendo are \nthe authors of this software for the purpose \nof copyright. All rights reserved. \n©2019 HAL Laboratory, Inc. / Nintendo
+Stamp.msbt
+Stamp_01	請多指教！
+Stamp_02	辛苦了！
+Stamp_03	謝謝！
+Stamp_04	被打倒了！
+Stamp_06	抱歉！
+Stamp_07	等我一下……
+Stamp_08	大家辛苦了
+Stamp_09	下次再見～！
+Stamp_10	出發吧～！
+Stamp_12	我的鬥志\n燃燒起來了！
+Stamp_13	我還能繼續！
+Stamp_14	來啦～！
+Stamp_15	哈哈哈
+Stamp_16	拜託你們了！
+Stamp_17	再會！
+Stamp_20	交給本大爺吧！
+Stamp_21	一決勝負！
+Stamp_22	再一起玩喔！
+Stamp_23	甘、甘拜下風……
+Stamp_24	久等了！
+Stamp_25	請多指教
+Stamp_26	太好了！
+Stamp_28	超棒的！
+Stamp_29	哇～！
+Stamp_30	再見～
+Stamp_31	辛苦了
+Stamp_32	登登～！
+Stamp_33	太棒了……
+Stamp_34	OK＞
+Stamp_35	嘿嘿嘿～
+Stamp_36	喔呵呵
+Stamp_37	啪沙～
+Stamp_38	別小看我了！
+Stamp_39	哼……做得不錯！
+Stamp_40	銀河最強！
+Stamp_41	我很看好你喔
+Stamp_42	再見啦
+Stamp_43	只要有這個的話
+Stamp_44	你還挺行的嘛
+Stamp_45	那就拜託了唷\x0e\x17\0\0♪\x0f\x17\0
+Stamp_46	一起加油吧
+Stamp_47	讓我們\n肅清一切吧！
+Stamp_48	……邪魔哈洛阿
+Stamp_49	我燃燒起來啦！
+Stamp_50	我要來煮飯囉～！
+Stamp_51	大家一起上吧
+Stamp_52	久等了！
+Stamp_53	（緊盯～）
+Stamp_54	嗯邪？
+Stamp_55	再見啦！
+StampName.msbt
+StampName_rocked	？？？？？？？？？？
+StampName_01	基本1
+StampName_02	基本3
+StampName_03	基本2
+StampName_04	基本6
+StampName_05	基本4
+StampName_06	基本7
+StampName_07	基本5
+StampName_08	卡比7
+StampName_09	卡比6
+StampName_10	卡比1
+StampName_11	卡比8
+StampName_12	卡比2
+StampName_13	卡比3
+StampName_14	卡比4
+StampName_15	卡比5
+StampName_16	帝帝帝大王1
+StampName_17	帝帝帝大王3
+StampName_18	帝帝帝大王4
+StampName_19	帝帝帝大王5
+StampName_20	帝帝帝大王2
+StampName_21	魅塔騎士1
+StampName_22	魅塔騎士4
+StampName_23	魅塔騎士3
+StampName_24	魅塔騎士2
+StampName_25	瓦豆魯迪1
+StampName_26	瓦豆魯迪2
+StampName_27	瓦豆魯迪6
+StampName_28	瓦豆魯迪3
+StampName_29	瓦豆魯迪4
+StampName_30	瓦豆魯迪5
+StampName_31	夢魘
+StampName_32	陸庫&海恩&空
+StampName_33	闇物質
+StampName_34	銀河‧新星
+StampName_35	魔嚕酷
+StampName_36	魔嚕酷靈魂
+StampName_37	巨大鋒翼鳥
+StampName_38	蠱依
+StampName_39	闇魅塔騎士
+StampName_40	星河騎士
+StampName_41	怪盜洛切
+StampName_42	魔法洛亞
+StampName_43	店主魔法洛亞
+StampName_44	塔狼蛛
+StampName_45	秘書蘇姿
+StampName_46	艾莉妮
+StampName_47	雷槍帕嚕提扎努
+StampName_48	冰斧基斯
+StampName_49	炎劍露啾
+StampName_50	廚師川崎
+StampName_51	卡比9
+StampName_52	阿朵萊妮&莉寶
+StampName_53	闇零
+StampName_54	海內司
+StampName_55	暗影卡比
+StoryText.msbt
+StoryText_01	這是很久很久以前，一個非常遙遠的世界的故事……\n\n有個和平到令人訝異的王國──{c[ff4600]}噗噗噗王國{c[000000]}。\n然而這裡卻發生了一起事件。\x0e\0\x04\0某一天，住在{c[ff4600]}海岸{c[000000]}的\n{c[ff4600]}盔角蟲{c[000000]}突然開始肆虐。\n為了使王國重獲和平，\n{c[ff4600]}卡比獵人隊{c[000000]}踏上了戰鬥的旅途……
+StoryText_02	在前往{c[ff4600]}沙丘{c[000000]}的卡比們面前，\n出現了身穿盔甲的劍士擋住去路。\n對方是手持炎之大劍的強敵！\n突破{c[ff4600]}試煉探索{c[000000]}吧！
+StoryText_03	卡比們順利通過了{c[ff4600]}試煉探索{c[000000]}，\n隨之而來的是\n位於{c[ff4600]}古跡{c[000000]}的探索。\x0e\0\x04\0為了解開不斷持續的\n狂暴化騷動之謎，\n卡比們只能餓著肚子，\n繼續朝著{c[ff4600]}古跡{c[000000]}前進……
+StoryText_04	除了騷動的消息之外，\n卡比們還聽到了關於{c[ff4600]}斗篷男{c[000000]}的傳聞……\n為了找出他的真實身分，\n卡比們跟著他的腳步，來到夜晚的{c[ff4600]}古跡{c[000000]}……！
+StoryText_05	卡比們成功打倒了{c[ff4600]}斗篷男{c[000000]}，\n不過他卻往{c[ff4600]}火山{c[000000]}的另一頭逃走了……\x0e\0\x04\0為了追上逃走的{c[ff4600]}斗篷男{c[000000]}……\n以及保護王國的居民\n不受到處肆虐的敵人侵害……\n卡比們將前往全新區域──{c[ff4600]}火山{c[000000]}。
+StoryText_06	{c[ff4600]}海岸{c[000000]}突然出現了\n能操縱寒冰利刃的藍色盔甲！\n好好整頓身上的裝備，\n通過這場{c[ff4600]}試煉探索{c[000000]}吧！
+StoryText_07	卡比們漂亮地通過了\n第3個{c[ff4600]}試煉探索{c[000000]}。\n但是這場狂暴化騷動卻尚未平息。\x0e\0\x04\0雖然卡比們緊追著\n時有耳聞的{c[ff4600]}斗篷男{c[000000]}的蹤影，\n但同時也為了王國的居民們繼續戰鬥。
+StoryText_08	在灼熱{c[ff4600]}火山{c[000000]}的最深處……\n烈焰之蛙──{c[ff4600]}火山蛙{c[000000]}\n從滾燙的岩漿中跳了出來！\n挑戰……第4個{c[ff4600]}試煉探索{c[000000]}吧！
+StoryText_09	卡比們打倒烈焰之蛙，\n成功通過了第4個{c[ff4600]}試煉探索{c[000000]}。\n他們朝著新開啟的區域──{c[ff4600]}天空{c[000000]}前進，\n奮力挑戰更加困難的戰鬥。
+StoryText_10	卡比們終於在{c[ff4600]}天空{c[000000]}發現了\n{c[ff4600]}斗篷男{c[000000]}的身影！\x0e\0\x04\0卡比們逮住了那黑影，\n向他發起挑戰……\n不過……總覺得……\n好像有什麼不對勁……！？
+StoryText_11	出現在{c[ff4600]}天空{c[000000]}的{c[ff4600]}斗篷男{c[000000]}\n並不是{c[ff4600]}異次元夢魘{c[000000]}。\n他的真實身分竟然是傀儡魔法師──{c[ff4600]}塔狼蛛{c[000000]}。\x0e\0\x04\0和恢復理智的{c[ff4600]}塔狼蛛{c[000000]}道別後，\n卡比們為了追趕幕後黑手{c[ff4600]}斗篷男{c[000000]}，\n再次踏上旅程。
+StoryText_12	卡比們終於找到了\n來自異世界的魔法師！\n打倒為王國帶來混亂的\n{c[ff4600]}幕後黑手{c[000000]}吧！
+StoryText_13	就在即將抓住{c[ff4600]}異次元夢魘{c[000000]}時，\n他卻揮舞身上的斗篷，\n再次逃得無影無蹤……\x0e\0\x04\0在持續追趕的卡比們面前\n出現了全新區域──{c[ff4600]}大決戰{c[000000]}。\n強敵正在此處等待他們。
+StoryText_14	卡比們來到了決戰之地──{c[ff4600]}大決戰{c[000000]}。\n他們終於將{c[ff4600]}異次元夢魘\n{c[000000]}這名幕後黑手逼到了絕境！\x0e\0\x04\0但是，那個男人的嘴角卻露出了一絲冷笑。\n對方肯定還有什麼{c[ff4600]}陰謀{c[000000]}……！\n{c[ff4600]}卡比獵人隊{c[000000]}，千萬別輸給他！
+StoryText_15	由{c[ff4600]}異次元夢魘{c[000000]}從異世界召喚而來的\n黑暗之王──{c[ff4600]}D大王‧意向{c[000000]}，\n被4名卡比打敗了。\x0e\0\x04\0{c[ff4600]}噗噗噗王國{c[000000]}終於重獲和平。\n\n但是安穩的日子卻沒有持續太久……\n各地又再次傳出有敵人肆虐的消息！\x0e\0\x04\0有可能是被打飛的{c[ff4600]}異次元夢魘{c[000000]}\n依然持續進行他的邪惡計畫。\n卡比們立刻趕往對方墜落的\n{c[ff4600]}城堡外小鎮{c[000000]}和{c[ff4600]}草原{c[000000]}……
+StoryText_16	在酷寒的 {c[ff4600]}沙丘{c[000000]}夜晚，\n升起了一朵帶有毒性的雷雲……\n穿過危險的瓦斯和毒雨，\n突破{c[ff4600]}試煉探索{c[000000]}吧！
+StoryText_17	劇毒之雲──{c[ff4600]}毒液獨眼雲{c[000000]}，\n也被以勇氣和友情\n緊緊結合的卡比們打倒了。\x0e\0\x04\0不過這一帶卻找不到\n{c[ff4600]}異次元夢魘{c[000000]}的行蹤……\n卡比們為了尋找線索，\n決定繼續前進。
+StoryText_18	來自異世界的魔法師……{c[ff4600]}異次元夢魘{c[000000]}。\n他的目的已經從征服王國\n轉為對卡比們{c[ff4600]}復仇{c[000000]}了……\x0e\0\x04\0現在，和他做個{c[ff4600]}了斷{c[000000]}，\n進行最終決戰的時刻終於到了……！\n和同伴一起拯救世界吧……\n{c[ff4600]}超級卡比獵人隊{c[000000]}！
+StoryText_19	為了使噗噗噗王國重獲和平，\n{c[ff4600]}超級卡比獵人隊{c[000000]}4人一路奮戰至今。\x0e\0\x04\0從異世界的魔法師{c[ff4600]}異次元夢魘{c[000000]}出現後，\n王國裡就開始不斷發生\n狂暴化騷動。\x0e\0\x04\0在戰鬥的最後，\n雖然卡比們成功將{c[ff4600]}異次元夢魘{c[000000]}逼入絕境，\n但被稱為銀河最強的{c[ff4600]}遠古英雄{c[000000]}\n卻從次元裂縫中被召喚了出來。\x0e\0\x04\0即使過程充滿挫敗，令人流盡淚水，\n卡比們最終還是集結了4人之力，\n成功打倒{c[ff4600]}遠古英雄{c[000000]}。\x0e\0\x04\0這麼一來，噗噗噗王國應該能迎來\n{c[ff4600]}真正的和平{c[000000]}吧。\n今晚，夜空高掛著一彎美麗的眉月。\x0e\0\x04\0感覺從今天開始，\n終於能高枕無憂地好好睡到飽了……
+StreetPass.msbt
+TitleMenu.msbt
+ShopConfirmDialogEclair	要移動到{c[dc000d]}Nintendo eShop{c[000000]}嗎？
+HardwareName_00	Nintendo Switch
+HardwareName_01	Nintendo 3DS
+HardwareName_02	Wii U
+ShopTitleTextParufe	Kirby: Triple Deluxe
+ShopTitleTextParufeDetail	特色是不再侷限於橫向，能夠在關卡的前後移動。\n除了25種複製能力以外，\n還能夠享受「超新星吸入」帶來的衝擊性與樂趣！
+ShopTitleTextPizza	Kirby Fighters Deluxe
+ShopTitleTextPizzaDetail	在《Kirby: Triple Deluxe》的小遊戲新增了更多要素。\n能夠從10種複製能力當中選擇喜歡的能力進行對戰，\n也可以使用通訊遊玩4人同樂！
+ShopTitleTextDrop	Dedede's Drum Dash Deluxe
+ShopTitleTextDropDetail	在《Kirby: Triple Deluxe》的小遊戲新增了更多要素。\n配合節奏操作帝帝帝大王，\n使用不同跳躍往終點前進！
+ShopTitleTextTorte	Kirby: Planet Robobot
+ShopTitleTextTorteDetail	為了拯救被邪惡企業侵略的世界，\n卡比將與擁有10種以上不同型態的「機器博博裝甲」一同奮戰！\n可對應所有的amiibo。
+ShopTitleTextEclair	星之卡比 新星同盟
+ShopTitleTextEclairDetail	以盟友之心讓敵人成為同伴！\n與同伴搭配依序使出「盟友能力」，為拯救世界而戰吧！\n透過分享Joy-Con，最多可以4人一起遊玩。
+ShopTitleTextYarns	Kirby's Extra Epic Yarn
+ShopTitleTextYarnsDetail	操控毛線外觀的卡比，使用毛線特有的多種招式\n進行冒險的動作遊戲。除了可以讓卡比變身成各種樣貌的「變形能力」，\n還能夠使用全新的「裁縫能力」！
+ShopTitleTextIbiza	Kirby Battle Royale
+ShopTitleTextIbizaDetail	操控卡比與眾多對手展開多彩多姿戰鬥的動作遊戲。\n除了可以1個人遊玩，也能夠透過網路通訊\n或鄰近主機通訊與最多4名玩家互相競爭！
+ShopTitleTextSuck	Kirby's Blowout Blast
+ShopTitleTextSuckDetail	《Kirby: Planet Robobot》的小遊戲脫胎換骨，\n搖身一變成為捲軸式3D動作遊戲。\n在3D空間奔馳，藉由吸入與吐出打倒敵人並取得高分吧！
+ShopTitleTextlime	Team Kirby Clash Deluxe
+ShopTitleTextlimeDetail	在《Kirby: Planet Robobot》的小遊戲中加入了新的探索、超過80種的「裝備」，\n以及作為據點的「小鎮」等等嶄新要素。\n還能夠享受4人合作遊玩，基本上是免費遊戲。
+ShopTitleTextTouch	Kirby and the Rainbow Curse
+ShopTitleTextTouchDetail	使用觸控筆畫出彩虹線條，將卡比引導至終點吧！\n卡比還可以變身成3種不同種類的運輸設備。\n其他玩家也能夠操縱瓦豆魯迪，享受4人合作遊戲！
+OptionShopBtnText	以前的遊戲
+OptionCreditBtnText	製作人員名單
+OptionEtcBtnText	其他
+OptionControllerBtnText	控制器\n分配
+OptionVibrationBtnText	震動設定
+OptionDealBtnText	確認\n交換道具
+ShopHeaderText	查看以前的遊戲
+CreditDialogText	請問要看哪一種製作人員名單呢？
+CreditDialogBtnYes	特殊
+CreditDialogBtnNo	一般
+VibrationOn	ON
+VibrationOff	OFF
+NoRightsInShop	沒有能夠\n進行交換的道具。
+CheckRightsUnabled	目前還不能進行{c[ff4b32]}交換{c[000000]}。\n請先繼續推進遊戲進度。
+OptionCaption	選項
+versionNumber	ver. \x0e\x02\x02\0
+Week.msbt

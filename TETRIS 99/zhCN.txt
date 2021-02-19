@@ -1,0 +1,712 @@
+zhCN.msbt
+title	TETRIS 99
+loading	Now loading…
+loading_m	正在获取数据……\n可能会需要一些时间。
+saving	Now saving…
+me_001	TETRIS 99
+me_002	和全世界的对手们\n展开99人大混战！
+me_010	组队战
+me_011	和同伴一起瞄准TETRIS冠军\n展开队伍大混战！
+me_020	CPU对战
+me_021	和CPU进行99人对战！\n把握对战的感觉吧！
+me_022	模式
+me_023	选择游戏模式。
+me_024	TETRIS 99
+me_026	CPU等级
+me_027	更改CPU的等级。
+me_030	开启
+me_031	关闭
+me_032	K.O.徽章
+me_033	可以选择游戏开始时的K.O.徽章数。
+me_040	马拉松
+me_041	不慌不忙一个人\n练习＆分数挑战
+me_042	等级
+me_043	更改游戏开始时的等级。
+me_044	模式
+me_045	999行
+me_046	150行
+me_047	选择游戏模式。
+me_048	游玩150行。
+me_050	个人数据
+me_060	定制
+me_080	选项
+me_081	更改各种设置。
+me_090	每日任务
+me_101	游戏开始
+me_102	规则设置
+me_103	确定
+me_104	取消
+me_105	活动说明
+me_106	关闭
+me_110	TETRIS 99 VIP
+me_111	看谁才是真正的TETRIS冠军！\n强者与强者之间的大混战！
+me_113	TETRIS 99 VIP及其新任务解锁了！\n只有获得TETRIS冠军的\n玩家才能够游玩。
+me_150	如果参加互联网对战，\n有可能会在游戏内或\n网站上公开游戏数据。
+me_151	要去Nintendo eShop\n购买新增内容吗？
+me_152	如果您已购买新增内容，\n请在下载完成后，结束《TETRIS 99》。\n再次开始游戏时，才会显示新增内容。
+me_153	在分享对战里将不会反映\n选项的按键设置。
+me_154	当前还未举办组队战。
+me_200	各自准备主机对战
+me_201	各自准备好Switch，\n进行最多8人的本地对战！
+me_210	分享对战
+me_211	到哪都能进行的\n双人大混战！
+an_001	通知
+gf_001	HOLD
+gf_002	NEXT
+gf_003	YOUR
+gf_004	K.O.
+gf_005	Caution!!
+gf_006	%up
+gf_007	T-Spin
+gf_008	Mini
+gf_009	Single
+gf_010	Double
+gf_011	Triple
+gf_012	Back-to-Back
+gf_013	Combo
+gf_014	All\nClear！
+gf_015	Tetris
+gf_100	追击
+gf_101	随机
+gf_102	瞄准徽章
+gf_103	反击
+gf_104	手动指定对手
+gf_110	Select Target
+ba_001	TETRIS 99
+ba_002	正在匹配……
+ba_003	Ready
+ba_004	GO!!
+ba_005	游戏开始准备中……
+ba_010	K.O.
+ba_020	剩余
+ba_021	人
+ba_030	结果
+ba_031	EXP
+ba_032	K.O.
+ba_033	消除的行数
+ba_034	Single
+ba_035	Double
+ba_036	Triple
+ba_037	Tetris
+ba_038	T-Spin总计
+ba_039	T-Spin
+ba_040	Mini T-Spin
+ba_041	T-Spin Single
+ba_042	T-Spin Double
+ba_043	T-Spin Triple
+ba_044	最大Combo
+ba_045	Back-to-Back
+ba_046	剩余
+ba_047	名次
+ba_048	Player Rank UP!!
+ba_049	All Clear
+ba_050	TETRIS冠军
+ba_100	隐藏
+ba_101	主菜单
+ba_102	再战
+ba_103	名次
+ba_104	结果
+ba_110	发生连接错误。\n即将返回主菜单。
+te_001	队伍
+te_002	队伍
+te_003	队伍
+te_004	队伍
+te_005	选择队伍
+te_006	正在匹配……
+te_007	游戏开始准备中……
+te_008	主菜单
+te_009	由于只有1支队伍，\n因此系统将自动选择队伍。
+te_010	READY
+te_011	GO
+te_012	随机
+te_013	随机
+te_014	随机
+te_015	随机
+te_016	反击
+te_017	K.O.
+te_018	SPEED UP！
+te_019	发生连接错误。\n即将返回主菜单。
+te_101	队伍名次
+te_102	名次
+te_103	结果
+te_104	观战
+te_105	主菜单
+te_106	再战
+te_107	队伍名次
+te_108	名次
+te_109	结果
+te_110	OK
+te_111	队伍
+te_112	K.O.
+te_113	EXP
+te_114	Single
+te_115	Double
+te_116	Triple
+te_117	Tetris
+te_118	消除的行数
+te_119	T-Spin
+te_120	Mini T-Spin
+te_121	T-Spin Single
+te_122	T-Spin Double
+te_123	T-Spin Triple
+te_124	T-Spin总计
+te_125	最大Combo
+te_126	Back-to-Back
+te_127	All Clear
+te_128	根据队伍名次所获得的EXP
+te_129	根据“赞！”所获得的EXP
+te_130	赞！
+te_131	观战
+te_132	赞！
+te_133	队伍名次
+te_134	RED
+te_135	BLUE
+te_136	YELLOW
+te_137	GREEN
+te_138	按可以观战。给同伴送出“赞！”来助威吧！\n队伍名次确定后会得到EXP奖励。
+co_001	CPU
+ma_001	Ready
+ma_002	GO!!
+ma_003	马拉松
+ma_004	150行模式
+ma_005	999行模式
+ma_006	TIME
+ma_007	LEVEL
+ma_008	LINES
+ma_009	HIGH SCORE
+ma_010	SCORE
+ma_011	LEVEL UP！
+ma_012	T-Spin
+ma_013	Mini
+ma_014	Single
+ma_015	Double
+ma_016	Triple
+ma_017	Combo
+ma_018	Back-to-Back
+ma_030	PAUSE
+ma_031	继续
+ma_032	返回游戏
+ma_033	重来
+ma_034	重新开始游戏
+ma_035	退出
+ma_036	返回主菜单
+ma_100	返回
+ma_101	确定
+ma_110	Congratulations!!
+ma_111	GAME OVER
+ma_112	NEW RECORD！
+ma_113	SCORE
+ma_114	主菜单
+ma_115	重来
+ma_116	GAME CLEAR
+ma_150	Single
+ma_151	Double
+ma_152	Triple
+ma_153	Tetris
+ma_154	消除的行数
+ma_155	T-Spin
+ma_156	Mini T-Spin
+ma_157	T-Spin Single
+ma_158	T-Spin Double
+ma_159	T-Spin Triple
+ma_160	T-Spin总计
+ma_161	最大Combo
+ma_162	Back-to-Back
+ma_163	All Clear
+st_001	统计
+st_002	Rank
+st_010	全体
+st_011	TETRIS 99
+st_012	组队战
+st_013	CPU对战
+st_014	组队战（CPU）
+st_015	马拉松
+st_016	TETRIS 99 VIP
+st_100	主菜单
+st_101	切换分类
+st_102	切换信息
+st_200	总游戏时间
+st_201	全体实绩达成数
+st_202	消除的行数
+st_203	Single
+st_204	Double
+st_205	Triple
+st_206	Tetris
+st_207	最大Combo
+st_208	T-Spin总计
+st_209	T-Spin
+st_210	Mini T-Spin
+st_211	T-Spin Single
+st_212	T-Spin Double
+st_213	T-Spin Triple
+st_214	Back-to-Back
+st_215	All Clear
+st_216	Tetrimino旋转次数
+st_217	Tetrimino落下距离
+st_218	Hold次数
+st_219	活动第1名次数
+st_300	总游戏次数
+st_301	最高名次
+st_302	第1名次数
+st_303	最大K.O.数
+st_304	总K.O.数
+st_305	消除的行数
+st_306	Single
+st_307	Double
+st_308	Triple
+st_309	Tetris
+st_310	最大Combo
+st_311	T-Spin总计
+st_312	T-Spin
+st_313	Mini T-Spin
+st_314	T-Spin Single
+st_315	T-Spin Double
+st_316	T-Spin Triple
+st_317	Back-to-Back
+st_318	All Clear
+st_319	K.O.徽章获得数
+st_320	最多同时受到多少人狙击
+st_400	总游戏次数
+st_401	队伍第1名次数
+st_402	加入红队次数
+st_403	加入蓝队次数
+st_404	加入黄队次数
+st_405	加入绿队次数
+st_406	最大队伍人数
+st_407	最少队伍人数
+st_408	重新排列次数
+st_409	最大K.O.数
+st_410	总K.O.数
+st_411	Single
+st_412	Double
+st_413	Triple
+st_414	Tetris
+st_415	消除的行数
+st_416	最大Combo
+st_417	T-Spin
+st_418	Mini T-Spin
+st_419	T-Spin Single
+st_420	T-Spin Double
+st_421	T-Spin Triple
+st_422	T-Spin总计
+st_423	Back-to-Back
+st_424	All Clear
+st_425	K.O.徽章获得数
+st_426	最多同时受到多少人狙击
+st_427	“赞！”获得数
+st_428	“赞！”送出数
+st_500	总游戏次数
+st_501	最高名次
+st_502	第1名次数
+st_503	最大K.O.数
+st_504	总K.O.数
+st_505	消除的行数
+st_506	Single
+st_507	Double
+st_508	Triple
+st_509	Tetris
+st_510	最大Combo
+st_511	T-Spin总计
+st_512	T-Spin
+st_513	Mini T-Spin
+st_514	T-Spin Single
+st_515	T-Spin Double
+st_516	T-Spin Triple
+st_517	Back-to-Back
+st_518	All Clear
+st_519	K.O.徽章获得数
+st_520	最多同时受到多少人狙击
+st_700	总游戏次数
+st_701	150行过关次数
+st_702	150行最快过关时间
+st_703	150行最高纪录
+st_704	999行最高纪录
+st_705	最高达到的等级
+st_706	消除的行数
+st_707	Single
+st_708	Double
+st_709	Triple
+st_710	Tetris
+st_711	最大Combo
+st_712	T-Spin总计
+st_713	T-Spin
+st_714	Mini T-Spin
+st_715	T-Spin Single
+st_716	T-Spin Double
+st_717	T-Spin Triple
+st_718	Back-to-Back
+st_719	All Clear
+st_720	999行最快过关时间
+st_721	999行过关次数
+st_800	最近结果
+st_801	平均名次
+st_802	平均K.O.
+st_813	名次
+st_814	K.O.
+st_820	队伍名次
+st_821	队伍人数
+st_822	？
+st_900	总游戏次数
+st_901	最高名次
+st_902	第1名次数
+st_903	最大K.O.数
+st_904	总K.O.数
+st_905	消除的行数
+st_906	Single
+st_907	Double
+st_908	Triple
+st_909	Tetris
+st_910	最大Combo
+st_911	T-Spin总计
+st_912	T-Spin
+st_913	Mini T-Spin
+st_914	T-Spin Single
+st_915	T-Spin Double
+st_916	T-Spin Triple
+st_917	Back-to-Back
+st_918	All Clear
+st_919	K.O.徽章获得数
+st_920	最多同时受到多少人狙击
+op_001	选项
+op_002	瞬间落下
+op_003	Tetrimino落下时使用瞬间落下。
+op_004	Tetrimino落下时不使用瞬间落下。
+op_005	振动
+op_006	让手柄在游戏时振动。
+op_007	不让手柄在游戏时振动。
+op_011	操作类型
+op_012	更改操作类型。
+op_013	ON
+op_014	OFF
+op_015	A类
+op_016	B类
+op_017	将键设置为瞬间落下。
+op_018	将键设置为瞬间落下。
+op_019	Tetrimino影子
+op_020	显示Tetrimino影子。
+op_021	不显示Tetrimino影子。
+op_022	制作人员
+op_023	播放制作人员。
+op_024	设置按键
+op_025	类型
+op_026	更改按键的分配。
+op_050	保存中
+op_100	确定
+op_101	返回
+op_102	关闭
+op_200	右转
+op_201	左转
+op_202	移动
+op_203	HOLD
+op_204	瞬间落下
+op_205	缓缓落下
+op_206	任意目标切换
+op_207	作战切换
+ev_001	活动举办中！
+ev_002	2018/12/01 12:00截止
+ev_003	get
+ev_004	活动已结束。\n期待您下次参与。
+ev_005	活动预告
+ev_011	截止
+ev_012	活动结束
+ev_014	开始
+ev_050	pt
+ev_051	Congratulations!!
+ev_052	get
+ev_053	活动期间获得了第1名！\n恭喜您！
+ev_054	活动分数已达到最大！\n恭喜您！
+ev_055	活动开始了！\n移动到主菜单。
+ev_056	已获得特别主题！\n可以在定制画面中进行更改。
+ev_057	按可以观战。给同伴送出“赞！”来助威吧！\n队伍名次确定后会得到活动分数和EXP奖励。
+ev_100	OK
+dm_001	在TETRIS 99里进入40名以内
+dm_002	在TETRIS 99里总计5次K.O.
+dm_003	在TETRIS 99一局游戏中\n完成2个K.O.徽章
+dm_004	在TETRIS 99里总计完成5个K.O.徽章
+dm_005	在TETRIS 99一局游戏中进行3次K.O.
+dm_006	在TETRIS 99里总计进行10次Tetris
+dm_007	在TETRIS 99里总计进行5次T-Spin
+dm_008	在TETRIS 99里总计消除100行
+dm_009	在TETRIS 99里进行3Combo
+dm_010	在TETRIS 99里2次进入50名以内
+dm_011	在TETRIS 99一局游戏中\n进行2次T-Spin
+dm_012	在TETRIS 99一局游戏中\n进行3次Tetris
+dm_013	在TETRIS 99一局游戏中消除50行
+dm_014	在TETRIS 99里总计攻击30次
+dm_015	在TETRIS 99里总计进行5次Triple
+dm_016	在TETRIS 99里总计\n进行10次Double
+dm_017	在TETRIS 99里总计\n进行3次Back-to-Back
+dm_018	游玩3次TETRIS 99
+dm_019	在TETRIS 99里总计进行5次Hold
+dm_020	在TETRIS 99里总计进行10行抵消
+dm_021	游玩1次CPU对战
+dm_022	在CPU对战里总计进行10次K.O.
+dm_023	在CPU对战一局游戏中消除30行
+dm_024	在CPU对战里进入20名以内
+dm_025	在CPU对战一局游戏中进行5次K.O.
+dm_026	在CPU对战里总计进行10次Tetris
+dm_027	在CPU对战里游玩1次\nCPU等级3以上的游戏
+dm_028	在CPU对战里总计消除100行
+dm_029	在CPU对战一局游戏中进行3Combo
+dm_030	在CPU对战里总计3次进入50名以内
+dm_031	在马拉松一局游戏中进行2次T-Spin
+dm_032	在马拉松一局游戏中进行3次Tetris
+dm_033	在马拉松一局游戏中消除50行
+dm_034	在马拉松150行模式里总计消除100行
+dm_035	在马拉松里总计进行5次Triple
+dm_036	在马拉松里总计进行10次Double
+dm_037	在马拉松里总计\n进行3次Back-to-Back
+dm_038	游玩2次马拉松的150行模式
+dm_039	在马拉松999行模式的\n一局游戏中消除100行
+dm_040	在马拉松里总计进行5次T-Spin
+dm_100	每日任务
+dm_101	当前持有的兑换券
+dm_102	任务内容将在每天00：00更新。
+dm_111	兑换：
+dm_112	兑换
+dm_113	使用兑换券获得了主题！
+dm_114	通过任务获得了纹章！
+dm_115	Clear！
+dm_116	Congratulations！
+cu_001	特制主题
+cu_002	选择游戏画面的主题。
+cu_003	纹章
+cu_004	选择显示的纹章。
+cu_005	GET!!
+cu_006	可以在定制画面中更改纹章。
+cu_007	已更改纹章。
+cu_008	已更改主题。
+cu_009	NEW
+cu_010	在活动中可优先游玩活动主题。
+cu_050	特别主题
+cu_051	默认主题
+th_001	银河
+th_002	梦幻
+th_003	恐怖城堡
+th_004	甜点
+th_005	学校
+th_006	积木
+th_007	寻宝
+th_008	超级马力欧兄弟
+th_009	塞尔达传说
+th_010	森喜刚
+lo_001	创建房间
+lo_003	正在对战……
+lo_004	正在寻找房间……
+lo_005	无法进入房间。
+lo_008	确定
+lo_009	主菜单
+lo_010	更新
+lo_011	房间
+lo_012	满员
+lo_013	OK
+lo_100	CPU等级
+lo_101	READY
+lo_102	HOST
+lo_103	要离开房间吗？
+lo_104	已成为房间主人。
+lo_105	即将开始游戏。
+lo_107	由于人员没有到齐，\n因此无法开始游戏。
+lo_110	发生连接错误，\n即将返回主菜单。
+lo_120	CPU等级
+lo_121	返回
+lo_122	准备OK
+lo_123	解除准备
+lo_124	OK
+lo_130	游戏开始准备中……
+lo_200	名次
+lo_201	结果
+lo_202	剩余
+lo_203	人
+lo_204	名次
+lo_205	K.O.
+lo_206	Single
+lo_207	Double
+lo_208	Triple
+lo_209	Tetris
+lo_210	消除的行数
+lo_211	T-Spin
+lo_212	Mini T-Spin
+lo_213	T-Spin Single
+lo_214	T-Spin Double
+lo_215	T-Spin Triple
+lo_216	T-Spin总计
+lo_217	最大Combo
+lo_218	Back-to-Back
+lo_219	All Clear
+lo_220	已成为房间主人。
+lo_300	隐藏
+lo_301	房间
+lo_302	再战
+lo_303	结果
+lo_304	名次
+sh_001	CPU等级
+sh_002	更改CPU的等级。
+sh_003	K.O.徽章（1P）
+sh_004	在1P游戏开始时可以选择K.O.徽章数。
+sh_005	K.O.徽章（2P）
+sh_006	在2P游戏开始时可以选择K.O.徽章数。
+sh_010	瞬间落下
+sh_011	移动
+sh_012	缓缓落下
+sh_013	HOLD
+sh_014	作战切换（顺向）
+sh_015	作战切换（逆向）
+sh_016	右转
+sh_017	左转
+sh_018	操作指南
+sh_019	Joy-Con 横握
+sh_020	Joy-Con 左右握持\nPro手柄
+sh_021	作战切换
+sh_022	※Joy-Con（R）也是同样的操作方法。
+sh_023	※按照选项设置的不同，操作方法可能会不一样。
+sh_100	游戏开始
+sh_101	主菜单
+sh_102	操作指南
+sh_103	关闭
+sh_200	1P
+sh_201	2P
+sh_202	K.O.
+sh_203	K.O.
+sh_204	剩余
+sh_205	人
+sh_206	隐藏
+sh_207	设置菜单
+sh_208	再战
+mi_001	在TETRIS 99和CPU对战里总计消除10000行
+mi_002	在TETRIS 99和CPU对战里总计消除80000行
+mi_003	★在TETRIS 99和CPU对战里总计消除150000行
+mi_004	在TETRIS 99和CPU对战里总计进行100次Tetris
+mi_005	在TETRIS 99和CPU对战里总计进行500次Tetris
+mi_006	在TETRIS 99和CPU对战里总计进行1000次Tetris
+mi_007	在TETRIS 99和CPU对战里总计进行10次2Combo
+mi_008	在TETRIS 99和CPU对战里总计进行100次2Combo
+mi_009	在TETRIS 99和CPU对战里总计进行500次2Combo
+mi_010	在TETRIS 99和CPU对战里总计进行10次T-Spin
+mi_011	在TETRIS 99和CPU对战里总计进行100次T-Spin
+mi_012	在TETRIS 99和CPU对战里总计进行500次T-Spin
+mi_013	在TETRIS 99和CPU对战任何一个模式中进行1次All Clear
+mi_014	在TETRIS 99和CPU对战里总计进行5次All Clear
+mi_015	在TETRIS 99和CPU对战里总计进行20次All Clear
+mi_016	在马拉松里过关1次150行模式
+mi_017	★在马拉松里过关1次999行模式
+mi_018	在TETRIS 99里获得1次TETRIS冠军
+mi_019	在TETRIS 99里总计获得5次TETRIS冠军
+mi_020	在TETRIS 99里总计获得15次TETRIS冠军
+mi_021	在TETRIS 99里总计K.O.10次
+mi_022	在TETRIS 99里总计K.O.100次
+mi_023	在TETRIS 99里总计K.O.500次
+mi_024	在TETRIS 99里总计10次进入50名以内
+mi_025	在TETRIS 99一局游戏中K.O.10次
+mi_026	在TETRIS 99里使用“作战：追击”总计发起100次攻击
+mi_027	在TETRIS 99里使用“作战：追击”总计发起1000次攻击
+mi_028	在TETRIS 99里使用“作战：追击”总计发起3000次攻击
+mi_029	在TETRIS 99里使用“作战：瞄准徽章”总计发起100次攻击
+mi_030	在TETRIS 99里使用“作战：瞄准徽章”总计发起1000次攻击
+mi_031	在TETRIS 99里使用“作战：瞄准徽章”总计发起3000次攻击
+mi_032	在TETRIS 99里使用“作战：反击”总计发起100次攻击
+mi_033	在TETRIS 99里使用“作战：反击”总计发起1000次攻击
+mi_034	在TETRIS 99里使用“作战：反击”总计发起3000次攻击
+mi_035	在TETRIS 99里使用“作战：随机”总计发起100次攻击
+mi_036	在TETRIS 99里使用“作战：随机”总计发起1000次攻击
+mi_037	在TETRIS 99里使用“作战：随机”总计发起3000次攻击
+mi_038	在TETRIS 99里使用“作战：反击”并同时给5人以上发起攻击
+mi_039	在TETRIS 99里首先达成K.O.
+mi_040	★在TETRIS 99里连续3次获得TETRIS冠军
+mi_041	总计游玩9次TETRIS 99
+mi_042	总计游玩99次TETRIS 99
+mi_043	总计游玩999次TETRIS 99
+mi_044	在TETRIS 99里以“作战：反击”且不被任何人瞄准的状态下总计发起50次攻击
+mi_045	在TETRIS 99里K.O.数为3以下的条件下获得TETRIS冠军
+mi_046	在TETRIS 99里以K.O.数为0的状态下总计3次进入10名以内
+mi_047	在TETRIS 99里受到10行以上的攻击并陷入危机，再从该危机状态中解脱出来
+mi_048	在TETRIS 99里以持有2个以上K.O.徽章的状态下总计K.O.10次K.O.徽章数为0的玩家
+mi_049	在TETRIS 99里不使用T-Spin、Tetris、Hold并总计3次进入10名以内
+mi_050	完成所有★任务
+mi_051	兑换券持有数达到99张
+mi_052	兑换券持有数达到999张
+mi_053	在CPU对战里将CPU等级设置成5并总计获得10次TETRIS冠军
+mi_054	☆在马拉松里7分钟以内过关150行模式
+mi_055	在马拉松里将150行模式以等级10以上开始并过关
+mi_056	在马拉松里50分钟以内过关999行模式
+mi_057	在TETRIS 99里连续10次进入10名以内
+mi_058	在TETRIS 99一局游戏中消除230行
+mi_059	在TETRIS 99一局游戏中进行10次Tetris
+mi_060	在TETRIS 99一局游戏中进行5次T-Spin
+mi_061	在TETRIS 99里进行1次15Combo
+mi_062	在TETRIS 99一局游戏中进行3次All Clear
+mi_063	在TETRIS 99里连续进行10次Back-to-Back
+mi_064	在TETRIS 99一局游戏中消除50行障碍Tetrimino
+mi_065	在TETRIS 99里进行1次Hold
+mi_066	在TETRIS 99里进行1次瞬间落下
+mi_067	总计游玩20次TETRIS 99 VIP
+mi_068	☆总计游玩200次TETRIS 99 VIP
+mi_069	在TETRIS 99 VIP里总计20次进入10名以内
+mi_070	在TETRIS 99 VIP里总计消除20000行
+mi_071	在TETRIS 99 VIP里总计消除100000行
+mi_072	在TETRIS 99 VIP一局游戏中进行15次Tetris
+mi_073	在TETRIS 99 VIP一局游戏中进行10次T-Spin
+mi_074	☆在TETRIS 99 VIP里总计获得10次TETRIS冠军
+mi_075	在TETRIS 99 VIP里总计K.O.200次
+mi_076	完成所有☆任务
+mi_077	在组队战中加入红队，且红队获得总计5次TETRIS冠军
+mi_078	在组队战中加入蓝队，且蓝队获得总计5次TETRIS冠军
+mi_079	在组队战中加入黄队，且黄队获得总计5次TETRIS冠军
+mi_080	在组队战中加入绿队，且绿队获得总计5次TETRIS冠军
+mi_081	总计游玩20次组队战
+mi_082	总计游玩200次组队战
+mi_083	在组队战中总计K.O.100次
+mi_084	在组队战中总计K.O.500次
+mi_085	在组队战中总计300次Tetris
+mi_086	在组队战中加入35人以上的队伍，且队伍获得总计10次TETRIS冠军
+mi_087	在组队战中加入10人以下的队伍，且队伍获得总计10次TETRIS冠军
+mi_088	在组队战中以加入的队伍剩最后1人的状态下获得总计3次TETRIS冠军
+mi_089	在组队战中以自己被K.O.的状态下，队伍获得总计5次TETRIS冠军
+mi_090	在组队战中加入红队或是蓝队，且总计K.O.200次
+mi_091	在组队战中加入黄队或是绿队，且总计K.O.200次
+mi_092	在组队战一局游戏中K.O.3支对手队伍中各4人以上
+mi_093	在组队战一局游戏中K.O.1支队伍的玩家10人以上
+mi_094	在组队战中K.O.对手队伍最后1人
+mi_095	在组队战中使用“作战：反击”，同时向3支对手队伍的玩家发起攻击
+mi_096	在组队战中以持有未满4个K.O.徽章的状态下，一局游戏中K.O.2个以上的玩家2次
+mi_097	在组队战中以持有4个K.O.徽章的状态且加入的队伍连续3次获得TETRIS冠军
+mi_098	在组队战中总计获得或是送出10次“赞！”
+mi_099	在组队战中总计获得或是送出30次“赞！”
+mi_100	在组队战中总计获得或是送出100次“赞！”
+mi_200	已获得纹章！
+mi_201	请在定制画面中确认。
+pw_001	密码匹配
+pw_002	密码匹配注意事项：\n\n·不适用于活动。\n·不适用于任务。\n·结果不会被记录在各游戏模式的个人数据中。\n·获得的EXP变少。
+pw_003	请输入要匹配的密码。
+kc_001	操作类型
+kc_002	类型
+kc_003	使用操作Tetrimino的\n移动和缓缓落下。
+kc_004	Tetrimino的旋转
+kc_005	使用顺时针旋转，使用逆时针旋转来进行操作。
+kc_006	瞬间落下
+kc_007	使用设置的按键进行操作。
+kc_008	以键的输入灵敏度进行操作。
+kc_009	以键的输入灵敏度进行操作。
+kc_010	不能使用瞬间落下。
+kc_011	HOLD
+kc_012	使用设置的按键进行操作。
+kc_013	作战切换
+kc_014	往倒下的方向进行切换。
+kc_015	目标切换
+kc_016	往倒下的方向进行切换。
+kc_017	使用操作Tetrimino的\n移动和缓缓落下。
+kc_018	使用顺时针旋转，使用逆时针旋转来进行操作。
+kc_019	使用顺时针旋转，使用逆时针旋转来进行操作。
+kc_020	使用顺时针旋转，使用逆时针旋转来进行操作。
+kc_021	按切换方向。
+kc_022	使用设置的按键进行顺时针切换。
+kc_023	按切换方向。
+kc_024	使用设置的按键进行操作。
+kc_025	使用设置的按键进行操作。
+kc_050	返回初始设置
+kc_051	返回
+kc_100	要初始化操作类型的设置吗？
+kc_101	要初始化操作类型的设置吗？
+kc_102	OK
+kc_103	该按键已被设置，\n请更换按键，以免重复。
+kc_105	取消

@@ -1,0 +1,844 @@
+MessageData\LayoutMessage_szs\ButtonBackParts.msbt
+MessageData\LayoutMessage_szs\ButtonFileParts.msbt
+MessageData\LayoutMessage_szs\CourseSelectSceneLayout.msbt
+CourseSelectSceneLayout_World	WORLD \x0e\x03\0\x04\0\0\0\0
+CourseSelectSceneLayout_WorldStage	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\LayoutMessage_szs\GameOverMenu.msbt
+GameOverMenu_Continue	Continue
+GameOverMenu_Quit	Quit
+MessageData\LayoutMessage_szs\GuideGoal.msbt
+GuideGoal_Goal	GOAL
+MessageData\LayoutMessage_szs\GuideWindowParts.msbt
+GuideWindowParts_MatchingA	Select a character.
+GuideWindowParts_FriendMatch	Online Play
+GuideWindowParts_LocalMatch	Local Wireless Play
+MessageData\LayoutMessage_szs\HeadCourseClear.msbt
+HeadCourseClear_CourseClear	COURSE CLEAR!
+MessageData\LayoutMessage_szs\HeadGameOver.msbt
+HeadGameOver_GameOver	GAME OVER
+MessageData\LayoutMessage_szs\HeadIslandClear.msbt
+HeadIslandClear_Goal	CAT SHINE!
+MessageData\LayoutMessage_szs\HeadMiss.msbt
+HeadMiss_Miss	TOO BAD!
+MessageData\LayoutMessage_szs\HeadSlotResult.msbt
+HeadSlotResult_SlotResult	\x0e\x02\0\x04\0\0\0\0UP!
+MessageData\LayoutMessage_szs\HeadTimeUp.msbt
+HeadTimeUp_TimeUp	TIME'S UP!
+MessageData\LayoutMessage_szs\IslandMap.msbt
+IslandMap_YouAreHere	You are here
+IslandMap_Island	Island
+IslandMap_SuperBell	Giga Bell
+MessageData\LayoutMessage_szs\ListClearStar.msbt
+ListClearStar_List	World \x0e\x03\0\x04\0\0\0\0 Progress
+ListClearStar_World0	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World1	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World2	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World3	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World5	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World6	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World7	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World4	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World8	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World9	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World10	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World11	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World12	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_WorldMax	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_WorldFairy	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\LayoutMessage_szs\MapMenu.msbt
+MapMenu_W1	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W2	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W3	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W4	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W5	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W6	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W7	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W8	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WKinoko	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WFire	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WStar	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WChampion	W\x0e\x03\0\x04\0\0\0\0
+MessageData\LayoutMessage_szs\PauseMenu.msbt
+PauseMenu_Button0	Continue
+PauseMenu_Button1	Exit Course
+PauseMenu_World	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+PauseMenu_Button2	Try Again
+PauseMenu_Button3	Exit to Title Screen
+PauseMenu_ButtonSub4	Options
+PauseMenu_ButtonSub3	Guides
+PauseMenu_ButtonSub1	Controllers
+PauseMenu_ButtonSub2	Save Files
+PauseMenu_Button5	Leave Game
+MessageData\LayoutMessage_szs\PlayerEntry.msbt
+PlayerEntry_Guide	Select a character.
+MessageData\LayoutMessage_szs\PlayerEntryMini.msbt
+PlayerEntryMini_Random	 /  Random
+MessageData\LayoutMessage_szs\PlayerEntryMiniParts.msbt
+PlayerEntryMiniParts_PressButton	 +  Join
+MessageData\LayoutMessage_szs\PlayerEntryParts.msbt
+PlayerEntryParts_Entry	 +  Join
+PlayerEntryParts_Waiting	Searching...
+MessageData\LayoutMessage_szs\RCS_ControlGuide.msbt
+RCS_ControlGuide_GuideNameP1	Mario
+RCS_ControlGuide_GuideNameP2	Bowser Jr.
+RCS_ControlGuide_GuideOtherInfo_Touch	Press  /  to activate the touch cursor, and move it around the screen by tilting the controller.\nTo touch an object, point the cursor at it and press  /  again. You may cause surprising\nthings to happen or send Bowser Jr. to investigate. In handheld mode, you can interact with\nobjects by tapping them directly on the  screen.
+RCS_ControlGuide_GuideOtherInfo_amiibo	Hold , and place an amiibo on the NFC touchpoint of the controller.\nSome amiibo may give you useful items. Try many different amiibo and see what happens!\n{s[075]}*Some areas of the game may not allow you to use amiibo, including local wireless play and online play.{s[100]}
+RCS_ControlGuide_GuideOtherInfo_Snapshot	When you're playing solo, you can press  to enter snapshot mode and apply\nspecial filters to a scene. You can also press  (or touch the  screen directly)\nto add any stamps you've collected! To remove a stamp, just grab it with  and\nquickly slide it off-screen. When you're ready, press  to take a photo!\nThese photos will be saved in your  album on the  HOME Menu.
+RCS_ControlGuide_3DWDualJC1_GuideMap	 Map
+RCS_ControlGuide_3DWDualJC1_GuideCrouch	 /  Crouch
+RCS_ControlGuide_3DWDualJC1_GuideResetCameraGyro	{s[100]} Reset camera / touch cursor{s[100]}
+RCS_ControlGuide_3DWDualJC1_GuideMove	 Move
+RCS_ControlGuide_3DWDualJC1_GuideItem	 Item reserve
+RCS_ControlGuide_3DWSingleJC1_GuideItem	 Item reserve
+RCS_ControlGuide_3DWDualJC1_Guideamiibo	 amiibo
+RCS_ControlGuide_3DWDualJC1_GuideSnapshotMode	 Snapshot mode
+RCS_ControlGuide_3DWDualJC2_GuideCamera	Look around 
+RCS_ControlGuide_3DWDualJC2_GuidePause	Menu 
+RCS_ControlGuide_3DWDualJC2_GuidePointer	Use touch cursor 
+RCS_ControlGuide_3DWDualJC2_GuideJump	Jump  / 
+RCS_ControlGuide_3DWDualJC2_GuideAction	Dash  +  / 
+RCS_ControlGuide_3DWSingleJC1_GuideCrouch	 Crouch
+RCS_ControlGuide_3DWSingleJC1_GuideBubble	 +  Enter a bubble
+RCS_ControlGuide_3DWSingleJC1_GuidePause	 Menu
+RCS_ControlGuide_3DWSingleJC1_GuidePointer	 Use touch cursor
+RCS_ControlGuide_3DWSingleJC1_GuideMove	 Move
+RCS_ControlGuide_3DWSingleJC1_GuideAction	 +  Dash
+RCS_ControlGuide_3DWSingleJC1_GuideJump	 /  Jump
+RCS_ControlGuide_3DWSingleJC2_GuideCrouch	 Crouch
+RCS_ControlGuide_3DWSingleJC2_GuideBubble	 +  Enter a bubble
+RCS_ControlGuide_3DWSingleJC2_GuideItem	 Item reserve
+RCS_ControlGuide_3DWSingleJC2_GuidePause	 Menu
+RCS_ControlGuide_3DWSingleJC2_GuidePointer	 Use touch cursor
+RCS_ControlGuide_3DWSingleJC2_GuideJump	 /  Jump
+RCS_ControlGuide_3DWSingleJC2_GuideAction	 +  Dash
+RCS_ControlGuide_3DWSingleJC2_GuideMove	 Move
+RCS_ControlGuide_NewSingleJC1_GuideResetCamera	 Reset camera
+RCS_ControlGuide_NewSingleJC1_GuideItem	 Item reserve
+RCS_ControlGuide_NewSingleJC1_GuideCrouch	 /  Crouch
+RCS_ControlGuide_NewSingleJC1_GuideMap	 Map
+RCS_ControlGuide_NewSingleJC1_GuideMove	 Move
+RCS_ControlGuide_NewSingleJC1_GuideCamera	 +  Look around
+RCS_ControlGuide_NewSingleJC1_GuideAction	 +  Dash
+RCS_ControlGuide_NewSingleJC1_GuideJump	 Jump
+RCS_ControlGuide_NewSingleJC2_GuideWarp	 +  Warp
+RCS_ControlGuide_NewSingleJC2_GuideResetCamera	 Reset camera
+RCS_ControlGuide_NewSingleJC2_GuidePauseA	 Menu
+RCS_ControlGuide_NewSingleJC2_GuideFlyUp	 Fly up
+RCS_ControlGuide_NewSingleJC2_GuideAction	 Attack
+RCS_ControlGuide_NewSingleJC2_GuideMove	 Move
+RCS_ControlGuide_NewSingleJC2_GuideCamera	 +  Look around
+RCS_ControlGuide_NewDualJC1_GuideCrouch	 /  Crouch
+RCS_ControlGuide_NewDualJC1_GuideResetCameraGyro	 {s[100]}Reset camera / touch cursor{s[100]}
+RCS_ControlGuide_NewDualJC1_GuideMap	 /  Map
+RCS_ControlGuide_NewDualJC1_GuideMove	 Move
+RCS_ControlGuide_NewDualJC1_GuideItem	 Item reserve
+RCS_ControlGuide_NewDualJC1_Guideamiibo	 amiibo
+RCS_ControlGuide_NewDualJC1_GuideSnapshotMode	 Snapshot mode
+RCS_ControlGuide_NewDualJC2_GuidePointer	Use touch cursor 
+RCS_ControlGuide_NewDualJC2_GuidePause	Menu 
+RCS_ControlGuide_NewDualJC2_GuideJump	Jump  / 
+RCS_ControlGuide_NewDualJC2_GuideAction	Dash  +  / 
+RCS_ControlGuide_NewDualJC2_GuideCamera	Look around 
+RCS_ControlGuide_BasicAction01DualJoyCon	Press  near an item
+RCS_ControlGuide_BasicAction01SingleJoyCon	Press  near an item
+RCS_ControlGuide_BasicAction01Title	Hold items
+RCS_ControlGuide_BasicAction02DualJoyCon	While holding an item,\npress  to throw it
+RCS_ControlGuide_BasicAction02SingleJoyCon	While holding an item,\npress  to throw it
+RCS_ControlGuide_BasicAction02Title	Throw items
+RCS_ControlGuide_BasicAction03DualJoyCon	
+RCS_ControlGuide_BasicAction03SingleJoyCon	
+RCS_ControlGuide_BasicAction03Title	Spin
+RCS_ControlGuide_BasicAction04DualJoyCon	While spinning, press 
+RCS_ControlGuide_BasicAction04SingleJoyCon	While spinning, press 
+RCS_ControlGuide_BasicAction04Title	Spin jump
+RCS_ControlGuide_BasicAction05DualJoyCon	Hold , then press 
+RCS_ControlGuide_BasicAction05SingleJoyCon	Hold , then press 
+RCS_ControlGuide_BasicAction05Title	Crouch jump
+RCS_ControlGuide_BasicAction06DualJoyCon	While in midair, press 
+RCS_ControlGuide_BasicAction06SingleJoyCon	While in midair, press 
+RCS_ControlGuide_BasicAction06Title	Ground-pound
+RCS_ControlGuide_BasicAction07DualJoyCon	Press  in midair, then press\n when you hit the ground
+RCS_ControlGuide_BasicAction07SingleJoyCon	Press  in midair, then press\n when you hit the ground
+RCS_ControlGuide_BasicAction07Title	Ground-pound jump
+RCS_ControlGuide_BasicAction08DualJoyCon	While moving, press  + 
+RCS_ControlGuide_BasicAction08SingleJoyCon	While moving, press  + 
+RCS_ControlGuide_BasicAction08Title	Long jump
+RCS_ControlGuide_BasicAction09DualJoyCon	 + 
+RCS_ControlGuide_BasicAction09SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction09Title	Roll
+RCS_ControlGuide_BasicAction10DualJoyCon	During a roll, press 
+RCS_ControlGuide_BasicAction10SingleJoyCon	During a roll, press 
+RCS_ControlGuide_BasicAction10Title	Rolling long jump
+RCS_ControlGuide_BasicAction11DualJoyCon	While in midair, press  + 
+RCS_ControlGuide_BasicAction11SingleJoyCon	While in midair, press  + 
+RCS_ControlGuide_BasicAction11Title	Midair roll
+RCS_ControlGuide_BasicAction12DualJoyCon	While running, tilt  in the\nopposite direction and press 
+RCS_ControlGuide_BasicAction12SingleJoyCon	While running, tilt  in the\nopposite direction and press 
+RCS_ControlGuide_BasicAction12Title	Side somersault
+RCS_ControlGuide_BasicAction13DualJoyCon	While touching a wall\nin midair, press 
+RCS_ControlGuide_BasicAction13SingleJoyCon	While touching a wall\nin midair, press 
+RCS_ControlGuide_BasicAction13Title	Wall jump
+RCS_ControlGuide_BasicAction14DualJoyCon	
+RCS_ControlGuide_BasicAction14SingleJoyCon	
+RCS_ControlGuide_BasicAction14Title	Claw
+RCS_ControlGuide_BasicAction15DualJoyCon	 + 
+RCS_ControlGuide_BasicAction15SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction15Title	Pounce
+RCS_ControlGuide_BasicAction16DualJoyCon	While in midair, hold 
+RCS_ControlGuide_BasicAction16SingleJoyCon	While in midair, hold 
+RCS_ControlGuide_BasicAction16Title	Claw dive
+RCS_ControlGuide_BasicAction17DualJoyCon	While touching a wall\nin midair, tilt 
+RCS_ControlGuide_BasicAction17SingleJoyCon	While touching a wall\nin midair, tilt 
+RCS_ControlGuide_BasicAction17Title	Climb walls
+RCS_ControlGuide_BasicAction18DualJoyCon	
+RCS_ControlGuide_BasicAction18SingleJoyCon	
+RCS_ControlGuide_BasicAction18Title	Throw fireballs
+RCS_ControlGuide_BasicAction19DualJoyCon	
+RCS_ControlGuide_BasicAction19SingleJoyCon	
+RCS_ControlGuide_BasicAction19Title	Throw boomerang
+RCS_ControlGuide_BasicAction20DualJoyCon	
+RCS_ControlGuide_BasicAction20SingleJoyCon	
+RCS_ControlGuide_BasicAction20Title	Tail attack
+RCS_ControlGuide_BasicAction21DualJoyCon	While in midair, hold 
+RCS_ControlGuide_BasicAction21SingleJoyCon	While in midair, hold 
+RCS_ControlGuide_BasicAction21Title	Float downward
+RCS_ControlGuide_BasicAction22DualJoyCon	 + 
+RCS_ControlGuide_BasicAction22SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction22Title	Enter a bubble
+RCS_ControlGuide_BasicAction23DualJoyCon	Press  next to a friend
+RCS_ControlGuide_BasicAction23SingleJoyCon	Press  next to a friend
+RCS_ControlGuide_BasicAction23Title	Pick up a friend
+RCS_ControlGuide_BasicAction24DualJoyCon	While holding a\nfriend, press 
+RCS_ControlGuide_BasicAction24SingleJoyCon	While holding a\nfriend, press 
+RCS_ControlGuide_BasicAction24Title	Throw a friend
+RCS_ControlGuide_BasicAction25DualJoyCon	While in midair, press  at the\nsame time as other players
+RCS_ControlGuide_BasicAction25SingleJoyCon	While in midair, press  at the\nsame time as other players
+RCS_ControlGuide_BasicAction25Title	Synchro ground-pound
+RCS_ControlGuide_GuideOtherInfo_Network	You can play Super Mario 3D World with friends by connecting to other Nintendo Switch systems\nnearby or online! Up to four people can play using either method, and up to two people can play\non a single Nintendo Switch system. Press  /  on the course-selection screen to begin.
+MessageData\LayoutMessage_szs\RCS_ControlGuideBarNetworkInfo.msbt
+RCS_ControlGuideBarNetworkInfo_TxtNetworkConnectionInfo	Your network connection is unstable.
+MessageData\LayoutMessage_szs\RCS_ControlGuideBarParts.msbt
+RCS_ControlGuideBarParts_FileOverlaySaveStart	Saving...
+RCS_ControlGuideBarParts_FileOverlayDeleteStart	Erasing...
+RCS_ControlGuideBarParts_FileOverlaySaveEnd	Saved.
+RCS_ControlGuideBarParts_FileOverlayDeleteEnd	Erased.
+RCS_ControlGuideBarParts_NetworkInfoPlayer	Waiting for the game to start...
+MessageData\LayoutMessage_szs\RCS_PauseNetwork.msbt
+RCS_PauseNetwork_ButtonLocal	Local Wireless Play
+RCS_PauseNetwork_ButtonFriend	Online Play
+RCS_PauseNetwork_MainMenuHeader	Connect and Play
+RCS_PauseNetwork_ButtonHost	Create Room
+RCS_PauseNetwork_SearchHeader	Room List
+RCS_PauseNetwork_HostStartHeader	Set password
+RCS_PauseNetwork_HostGuestSelectInfo	The host player's current\n\x0e\0\x03\x02\x01\0save file\x0e\0\x03\x02ÿÿ will be used.\n{s[075]}Progress will be saved only to this file.{s[100]}
+RCS_PauseNetwork_ButtonJoin	Join Game
+RCS_PauseNetwork_ButtonHostStart	Don't set
+RCS_PauseNetwork_ButtonHostStartPasscode	Set password
+RCS_PauseNetwork_HostStartInfo	If you set a password, friends will have to\nenter it before they can join your room.
+RCS_PauseNetwork_SearchEmpty	No rooms found.
+MessageData\LayoutMessage_szs\RCS_PauseOptions.msbt
+RCS_PauseOptions_Options	Options
+RCS_PauseOptions_Sensitivity	Camera Sensitivity
+RCS_PauseOptions_Horizontal	Horizontal Camera
+RCS_PauseOptions_Vertical	Vertical Camera
+RCS_PauseOptions_Assist	Help from Bowser Jr.
+MessageData\LayoutMessage_szs\RCS_SaveData.msbt
+RCS_SaveData_NoData	No Data
+RCS_SaveData_Info	Please select a file.
+RCS_SaveData_Playing	Now Playing
+MessageData\LayoutMessage_szs\RCS_SaveDataManage.msbt
+RCS_SaveDataManage_Header	Save Files
+RCS_SaveDataManage_Load	Load
+RCS_SaveDataManage_Delete	Erase
+RCS_SaveDataManage_Save	Save
+MessageData\LayoutMessage_szs\RCS_SceneSkip.msbt
+RCS_SceneSkip_Skip	 /  Skip
+MessageData\LayoutMessage_szs\RCS_SnapshotSceneLayout.msbt
+RCS_SnapshotSceneLayout_TakePicture	 Take picture
+RCS_SnapshotSceneLayout_Header	Snapshot Mode
+RCS_SnapshotSceneLayout_Move	 Move
+RCS_SnapshotSceneLayout_Rotate	 Rotate
+RCS_SnapshotSceneLayout_Tilt	 /  Tilt
+RCS_SnapshotSceneLayout_ChangeFilter	 /  Change filter
+RCS_SnapshotSceneLayout_Zoom	 /  Zoom in/out
+RCS_SnapshotSceneLayout_ToggleDisplay	 Display on/off
+RCS_SnapshotSceneLayout_Quit	 Quit
+RCS_SnapshotSceneLayout_Warning	These controls may be unavailable depending on\nwhere you are taking the picture.
+RCS_SnapshotSceneLayout_Logo	 Logo
+MessageData\LayoutMessage_szs\RCS_TopMenu.msbt
+RCS_TopMenu_3DWorldPlay	Super Mario 3D World
+RCS_TopMenu_SingleModePlay	Bowser's Fury
+RCS_TopMenu_3DWorldInfo	For 1-4 players, including local wireless and online multiplayer.
+RCS_TopMenu_SingleModeInfo	For 1-2 players.
+RCS_TopMenu_Resume	Resume
+RCS_TopMenu_NewGame	New Game
+MessageData\LayoutMessage_szs\StaffRollFin.msbt
+StaffRollFin_Fin	THE END
+MessageData\LayoutMessage_szs\StaffRollNintendo.msbt
+MessageData\LayoutMessage_szs\TalkBalloon.msbt
+TalkBalloon_Talk	HELP!
+TalkBalloon_TalkBowserJr	HELP!
+MessageData\LayoutMessage_szs\ThankYouForPlaying.msbt
+ThankYouForPlaying_Thanks	{s[100]}THANK YOU FOR PLAYING!{s[100]}
+MessageData\LayoutMessage_szs\TitleLogo.msbt
+TitleLogo_Resume	Resume
+TitleLogo_NewGame	New Game
+MessageData\LayoutMessage_szs\WipeCurtainResult.msbt
+WipeCurtainResult_Time	Clear Time:
+WipeCurtainResult_Score	Clear Score:
+MessageData\LayoutMessage_szs\WipeCurtainStart.msbt
+WipeCurtainStart_World	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+WipeCurtainStart_Score	Best Score:
+WipeCurtainStart_Time	Best Time:
+MessageData\SystemMessage_szs\ControlGuide.msbt
+DualJoy	Dual Joy-Con Controls
+SingleJoy	Single Joy-Con Controls
+AssistMode	Two-Player Mode Controls
+BasicActions	Action Guide
+Amiibo	amiibo
+TouchControls	Cursor and Touch Screen Actions
+SnapshotMode	Snapshot Mode
+NetworkMultiplayer	Connect and Play
+MessageData\SystemMessage_szs\CourseSelectSceneLayout.msbt
+CourseSelectSceneLayout_GuideMenu_Plus	 Menu
+CourseSelectSceneLayout_GuideMap_Dual	 Map
+CourseSelectSceneLayout_GuideMenu_Minus	 Menu
+CourseSelectSceneLayout_GuideMap_Single	 Map
+CourseSelectSceneLayout_GuideNetwork_Dual	 Local/Online
+CourseSelectSceneLayout_GuideNetwork_Single	 Local/Online
+MessageData\SystemMessage_szs\GameOverMenu.msbt
+MessageData\SystemMessage_szs\GuideMessage.msbt
+RaidonRideDualJoycons	\x0e\0\x01\x02\x05\05 \x0e\0\x01\x02ÿÿDash    Jump
+RaidonRideSingleJoycons	\x0e\0\x01\x02\x05\06 \x0e\0\x01\x02ÿÿDash    Jump
+KinopioBrigadeDualJoycons	 Look around
+KinopioBrigadeSingleJoycons	 +  Look around
+WorldMapStartDualJoycons	 Jump
+WorldMapStartSingleJoycons	 Jump
+RabbitDashDualJoycons	 +  Dash
+RabbitDashSingleJoycons	 +  Dash
+TouchGuideMessageDualJoycons	 Touch cursor\n{s[075]}Tilt the controller to aim the touch cursor{s[100]}
+TouchGuideMessageSingleJoycons	 Touch cursor\n{s[075]}Tilt the controller to aim the touch cursor{s[100]}
+TouchGuideMessage_Handheld	Tap the  screen to touch objects
+MessageData\SystemMessage_szs\IslandMap.msbt
+IslandMap_Warp	 Warp
+IslandMap_Warp_SingleJoycon	 Warp
+MessageData\SystemMessage_szs\IslandName.msbt
+Island1_Name	Fur Step Island
+Island2_Name	Scamper Shores
+Island3_Name	Pounce Bounce Isle
+Island4_Name	Fort Flaptrap
+Island5_Name	Slipskate Slope
+Island6_Name	Trickity Tower
+Island7_Name	Clawswipe Colosseum
+Island8_Name	Crisp Climb Castle
+Island9_Name	Risky Whisker Island
+Island10_Name	Mount Magmeow
+Island11_Name	Roiling Roller Isle 
+Island12_Name	Pipe Path Tower
+Island14_Name	Lakeside Giga Bell
+Island15_Name	Ruins Giga Bell
+Island16_Name	Wasteland Giga Bell
+OpenWater	Lake Lapcat
+LuckyIsland	Lucky Isle
+MessageData\SystemMessage_szs\LuigiBrosGuide.msbt
+LuigiBrosGuide_Dual	 Back    Select    Start
+LuigiBrosGuide_Left	 Back    Select    Start
+LuigiBrosGuide_Right	 Back    Select    Start
+MessageData\SystemMessage_szs\LuigiBrosMessage.msbt
+ConfirmComment	Do you want to play \x0e\0\x03\x02\x02\0Luigi Bros.\x0e\0\x03\x02ÿÿ, the Luigi\nversion of the classic Mario Bros. arcade game?
+ConfirmComment_Left	Cancel
+ConfirmComment_Right	Play
+ControllerWarning	To play \x0e\0\x03\x02\x02\0Luigi Bros. \x0e\0\x03\x02ÿÿwith two players, connect two\ncontrollers via \x0e\0\x03\x02\x03\0 Controllers\x0e\0\x03\x02ÿÿ in the \x0e\0\x03\x02\x03\0 HOME Menu\x0e\0\x03\x02ÿÿ.
+MessageData\SystemMessage_szs\NetworkingErrors.msbt
+GenericError	An error has occurred.\n\nPlease try again later.
+GenericError_Btn	OK
+Timeout	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+Timeout_Btn	OK
+MeshIsFull	The target device cannot accept\nany more connections.\n\nPlease try again later.
+MeshIsFull_Btn	OK
+SessionIsNotFound	An error has occurred.\n\nPlease try again later.
+SessionIsNotFound_Btn	OK
+MatchmakeSessionIsFull	The target device cannot accept\nany more connections.\n\nPlease try again later.
+MatchmakeSessionIsFull_Btn	OK
+DeniedByParticipant	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+DeniedByParticipant_Btn	OK
+ParticipantInBlockList	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+ParticipantInBlockList_Btn	OK
+SessionUserPasswordUnmatch	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+SessionUserPasswordUnmatch_Btn	OK
+SessionWrongState	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+SessionWrongState_Btn	OK
+GameServerProcessAborted	An error has occurred.\n\nPlease try again later.
+GameServerProcessAborted_Btn	OK
+UserAccountNotExisted	An error has occurred.\nPlease try again later.\n\n{s[075]}If the problem persists, please try performing a\nsystem update from  System Settings ⇒ System\non the HOME Menu.{s[100]}
+UserAccountNotExisted_Btn	OK
+MessageData\SystemMessage_szs\PauseMenu.msbt
+CameraNormal	Normal
+CameraReverse	Inverted
+CameraSensitivityVeryLow	Very low
+CameraSensitivityLow	Low
+CameraSensitivityMedium	Normal
+CameraSensitivityHigh	High
+CameraSensitivityVeryHigh	Very high
+AssistOff	None
+AssistLow	A little
+AssistOn	A lot
+NetworkDisconnectLocal	End Local Wireless Play
+NetworkDisconnectFriend	End Online Play
+2PPlayStart	Two-Player Mode
+2PPlayStop	End Two-Player Mode
+PauseMenuMap_World	WORLD \x0e\x03\0\x04\0\0\0\0
+PauseMenuMap_WorldStage	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\SystemMessage_szs\PlayerEntryMessage.msbt
+PlayerEntryMiniParts_Change	Change
+PlayerEntryMiniParts_Cancel	Cancel
+PlayerEntryMiniParts_Decide	OK
+PlayerEntryParts_Decide	OK
+PlayerEntryParts_Cancel	Cancel
+MessageData\SystemMessage_szs\PlayerName.msbt
+Mario	Mario
+Luigi	Luigi
+Peach	Peach
+Kinopio	Toad
+Rosetta	Rosalina
+MessageData\SystemMessage_szs\RCS_ControlGuideBar.msbt
+ControlGuideBar_Back	 Back
+ControlGuideBar_Back_Gen	 Back
+ListClearStar	 Back
+ListClearStar_Gen	 Back
+ListStamp	 Back
+ListStamp_Gen	 Back
+MapMenu	 Back    OK
+MapMenu_Gen	 Back    OK
+PauseMenu	 Back    OK
+PauseMenu_Gen	 Back    OK
+PauseMenuMap	 Back    OK
+PauseMenuMap_Gen	 Back    OK
+RCS_ControlGuide	 Back
+RCS_ControlGuide_Gen	 Back
+RCS_SaveData	 Back    OK
+RCS_SaveData_Gen	 Back    OK
+Confirm	 OK
+TitleLogo	 Back
+TitleLogo_Gen	 Back
+SingleModeMap	 Move cursor    Zoom    Close
+SingleModeMap_SingleJoycon	 Move cursor    +  Zoom    Close
+RCS_ControlGuideBar_NetworkInfoHost	When everyone is ready, press  to start the game.
+RCS_ControlGuideBar_NetworkInfoHost_Gen	When everyone is ready, press  to start the game.
+RCS_ControlGuideBar_NetworkInfoHost_Wait	Waiting for others to join...
+RCS_ControlGuideBar_VoiceInfoOption	 About Voice Chat    Back    OK
+RCS_ControlGuideBar_VoiceInfoOption_SingleJoycon	 About Voice Chat    Back    OK
+ControlGuideBar_NetworkBack	 /  End Connection
+MessageData\SystemMessage_szs\RCS_CourseSelectSubHeaderParts.msbt
+Map	Map of Sprixie Kingdom
+Stamps	Stamp Collection
+Progress	Course List
+MessageData\SystemMessage_szs\RCS_PauseNetwork.msbt
+RCS_PauseNetwork_LocalInfo	Play with up to four people by connecting\nwith nearby Nintendo Switch systems.\nTwo people can play on a single Nintendo\nSwitch system.
+RCS_PauseNetwork_FriendInfo	Play with up to four people by connecting\nwith your friends online. Two people can\nplay locally on a single Nintendo Switch\nsystem.
+RCS_PauseNetwork_EndConnection	All other players have exited. Your connection will now end.
+RCS_PauseNetwork_FriendSearchResults	The following friends are waiting to play:
+RCS_PauseNetwork_LocalSearchResults	Who would you like to play with?
+RCS_PauseNetwork_HostGuestLocal	Local Wireless Play
+RCS_PauseNetwork_HostGuestFriend	Online Play
+RCS_PauseNetwork_RefreshSearch	 Refresh
+RCS_PauseNetwork_RefreshSearch_Gen	 Refresh
+RCS_PauseNetwork_Connecting	Connecting...
+RCS_PauseNetwork_Shutdown	Disconnecting...
+RCS_PauseNetwork_SessionSlots	Remaining spots: \x0e\x02\0\x04\0\0\0\0
+RCS_PauseNetwork_EnterNewPasscode	Please enter the password.
+RCS_PauseNetwork_NowOffline	Your connection has ended.
+RCS_PauseNetwork_OverCapacity	You are unable to join this room, as that\nwould result in more than four players.
+RCS_PauseNetwork_EndConnectionError	An error has occurred.\nYou will now be disconnected.
+MessageData\SystemMessage_szs\RCS_SaveData.msbt
+WindowConfirmDouble_Overwrite	Are you sure you want to overwrite this file?\n\n{s[075]}Overwritten files cannot be recovered.{s[100]}
+WindowConfirmDouble_Overwrite_Left	Cancel
+WindowConfirmDouble_Overwrite_Right	Overwrite
+WindowConfirmDouble_Delete	Are you sure you want to erase this file?\n\n{s[075]}Erased files cannot be recovered.{s[100]}
+WindowConfirmDouble_Delete_Left	Cancel
+WindowConfirmDouble_Delete_Right	Erase
+WindowConfirmDouble_Load	Are you sure you want to load a different file?\n\n{s[075]}Progress in the current file will not be saved.{s[100]}
+WindowConfirmDouble_Load_Left	Cancel
+WindowConfirmDouble_Load_Right	Load
+RCS_SaveData_FileDateTime	\x0e\x02\x01\x04\x01\0\0\0/\x0e\x02\x01\x04\x02\0\0\0/\x0e\x02\x03\x04\0\0\0\0   \x0e\x02\x01\x04\x03\0\0\0:\x0e\x02\x01\x04\x04\0\0\0
+RCS_SaveData_HeaderLoad	Load
+RCS_SaveData_HeaderSave	Save
+RCS_SaveData_HeaderDelete	Erase
+WindowConfirmReport_PlayingFile	You are currently playing this file, so it cannot be deleted.
+RCS_SaveData_World	WORLD \x0e\x03\0\x04\0\0\0\0
+MessageData\SystemMessage_szs\RCS_SnapshotSceneLayout.msbt
+PlaceStamp	 Add a stamp
+PlaceStamp_Handheld	\x0e\0\x01\x02\x05\04 Add a stamp\x0e\0\x01\x02ÿÿ
+RotateStamp	 + 
+RotateStamp_Handheld	\x0e\0\x01\x02\x05\04 \x0e\0\x01\x02ÿÿ+ 
+ChangeStamp	 + 
+ChangeStamp_Handheld	\x0e\0\x01\x02\x05\04 \x0e\0\x01\x02ÿÿ+ 
+RotateStamp_Right	 Rotate stamp
+RotateStamp_Handheld_Right	 Rotate stamp
+ChangeStamp_Right	 Change stamp
+ChangeStamp_Handheld_Right	 Change stamp
+MessageData\SystemMessage_szs\RCS_TopMenu.msbt
+Confirm	 OK
+Confirm_Gen	 OK
+MessageData\SystemMessage_szs\SaveSequence.msbt
+WindowProcessing_Save	Saving...
+MessageData\SystemMessage_szs\ScenarioName.msbt
+Island1_Scenario1	Make the Lighthouse Shine
+Island1_Scenario2	Junior's Graffiti Gratitude
+Island1_Scenario3	Fury Shadow on Deck
+Island1_Scenario4	Five Cat Shine Shards
+Island1_Scenario5	Blast the Fury Blocks
+Island2_Scenario1	Make the Lighthouse Shine
+Island2_Scenario2	Fury Shadow by the Shore
+Island2_Scenario3	Key to the Cat Shine
+Island2_Scenario4	Five Cat Shine Shards
+Island2_Scenario5	Blast the Fury Blocks
+Island3_Scenario1	Make the Lighthouse Shine
+Island3_Scenario2	Hurry! Jump High, Jump Fast!
+Island3_Scenario3	Key to the Cat Shine
+Island3_Scenario4	Five Cat Shine Shards
+Island3_Scenario5	Blast the Fury Blocks
+Island4_Scenario1	Bully the Cat Bullies
+Island4_Scenario2	Blue Coin Bustle
+Island4_Scenario3	Show's Over, Cat Magikoopas
+Island4_Scenario4	Five Cat Shine Shards
+Island4_Scenario5	Blast the Fury Blocks
+Island5_Scenario1	Make the Lighthouse Shine
+Island5_Scenario2	Blue Coin Bustle
+Island5_Scenario3	Key to the Cat Shine
+Island5_Scenario4	Five Cat Shine Shards
+Island5_Scenario5	Blast the Fury Blocks
+Island6_Scenario1	So Close Yet So Far
+Island6_Scenario2	Blue Coin Bustle
+Island6_Scenario3	Hurry! Watch Your Step!
+Island6_Scenario4	Five Cat Shine Shards
+Island6_Scenario5	Blast the Fury Blocks
+Island7_Scenario1	Clash with Cat Boom Boom
+Island7_Scenario2	Cat Pom Pom's Counterattack
+Island7_Scenario3	Final Bout with Cat Boom Boom
+Island7_Scenario4	Five Cat Shine Shards
+Island7_Scenario5	Blast the Fury Blocks
+Island8_Scenario1	Make the Lighthouse Shine
+Island8_Scenario2	Hurry! Fly through the Frost!
+Island8_Scenario3	Fury Shadow on Ice
+Island8_Scenario4	Five Cat Shine Shards
+Island8_Scenario5	Blast the Fury Blocks
+Island9_Scenario1	Fury Shadow Hops to It
+Island9_Scenario2	Feasting on Fuzzies
+Island9_Scenario3	Hurry! Hop behind the Wall!
+Island9_Scenario4	Five Cat Shine Shards
+Island9_Scenario5	Blast the Fury Blocks
+Island10_Scenario1	Back Off, Cat Prince Bully!
+Island10_Scenario2	Atop Mount Magmeow
+Island10_Scenario3	Hurry! Steer the Switchboards!
+Island10_Scenario4	Five Cat Shine Shards
+Island10_Scenario5	Blast the Fury Blocks
+Island11_Scenario1	Make the Lighthouse Shine
+Island11_Scenario2	Hurry! Hot Cross Run!
+Island11_Scenario3	Key to the Cat Shine
+Island11_Scenario4	Five Cat Shine Shards
+Island11_Scenario5	Blast the Fury Blocks
+Island12_Scenario1	Make the Lighthouse Shine
+Island12_Scenario2	Blue Coin Bustle
+Island12_Scenario3	Key to the Cat Shine
+Island12_Scenario4	Five Cat Shine Shards
+Island12_Scenario5	Blast the Fury Blocks
+Ocean_South_Scenario1	Climb to the Shine
+Ocean_South_Scenario2	Shoreside Rabbit Plays Tag
+Ocean_South_Scenario3	Bounce and Trounce in the Clouds
+Ocean_South_Scenario4	Plessie Medal Catcher
+Ocean_South_Scenario5	Plessie Medal Collector
+Ocean_South_Scenario6	Toad Brigade: Lost Leader
+Ocean_South_Scenario7	Lost Kitten by the Shore
+Ocean_South_Scenario8	Hurry! Dash and Dive!
+Ocean_East_Scenario1	Dash and Smash in the Clouds
+Ocean_East_Scenario2	Toad Brigade: Stuck under the Slope
+Ocean_East_Scenario3	Gazing Down at the Islands
+Ocean_East_Scenario4	Cold Cove Combat
+Ocean_East_Scenario5	Hurry! Swim and Slide!
+Ocean_East_Scenario6	Lost Kittens near the Ruins
+Ocean_North_Scenario1	Ruins Rabbit Plays Tag
+Ocean_North_Scenario2	Lake Rabbit Plays Tag
+Ocean_North_Scenario3	Plessie Medal Mania
+Ocean_North_Scenario4	Toad Brigade: Cuddly Castaway
+Ocean_North_Scenario5	Slippery Skirmish
+Ocean_North_Scenario6	Hurry! Slide through the Sky!
+Ocean_North_Scenario7	Go with the Floe
+Ocean_West_Scenario1	Spin, Scramble, Shine
+Ocean_West_Scenario2	Wasteland Rabbit Plays Tag
+Ocean_West_Scenario3	Jump and Thump in the Clouds
+Ocean_West_Scenario4	Plessie Medal Master
+Ocean_West_Scenario5	Toad Brigade: Hot Pursuit
+Ocean_West_Scenario6	Gazing Over the Falls
+Ocean_West_Scenario7	Surprise Prizefight
+Ocean_West_Scenario8	Footprint Free-for-all
+Ocean_West_Scenario9	Hurry! Slip to the Shine!
+Ocean_West_Scenario10	Shining on a Hidden Isle
+Ocean_West_Scenario11	Lost Kittens in the Wasteland
+Ocean_West_Scenario12	Hurry! Climb the Falls!
+Ocean_West_Scenario13	On the Floodgate's Edge
+Ocean_West_Scenario14	Gazing Down at Lava
+LuckyIslandScenario1	First Lucky Shine
+LuckyIslandScenario2	Second Lucky Shine
+LuckyIslandScenario3	Third Lucky Shine
+LuckyIslandScenario4	Fourth Lucky Shine
+LuckyIslandScenario5	Fifth Lucky Shine
+GigaBell_Scenario01	5 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ to awaken
+GigaBell_Scenario02	15 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ to awaken
+GigaBell_Scenario03	20 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ to awaken
+GigaBell_Scenario04	40 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ to awaken
+GigaBell_Scenario05	50 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ to awaken
+MessageData\SystemMessage_szs\SingleModeSceneLayout.msbt
+SingleModeSceneLayout_GuideMenu	 Menu
+SingleModeSceneLayout_GuideMap	 Map
+MessageData\SystemMessage_szs\SingleMode_GenericDialogCutscene.msbt
+GigaBellCutscene_Phase1	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"Whoa! It's a \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\03\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ!\nI heard a cool saying about these.\x0e\0\x04\0"I think it was, 'When the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿbeast \x0e\0\x03\x02ÿÿrises,\nthe \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x04\0Giga Bell \x0e\0\x03\x02ÿÿwill ring...' or something.\x0e\0\x04\0"Maybe we've gotta get this splotchy goop off first...\nSome more \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x01\0Cat Shines \x0e\0\x03\x02ÿÿmight do the trick!"
+PhaseStartGuide_Phase2_PartA	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"He sank back into the lake...but trust me,\nit'll take more than that to beat my \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ papa\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0"We need to make him REALLY see the light.\nThe way to do that is to find more \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x01\0Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0"More of that splotchy stuff went away,\nso there must be new islands to explore.\x0e\0\x04\0"Let's check the map and get going! Hurry up, Mario!"
+PhaseStartGuide_Phase2_PartB	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"Oh yeah! I almost forgot something important.\x0e\0\x04\0"If you get lost, just press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ to bring up the \x0e\0\x03\x02\x03\0map\x0e\0\x03\x02ÿÿ!"
+PhaseReturnGuide_Phase2	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"Argh! I can't believe he ran away again!\x0e\0\x04\0"I mean, um...\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿDad\x0e\0\x03\x02ÿÿ's the best at everything.\nOf course he knows when it's time to retreat! Heh heh.\x0e\0\x04\0"This \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\03 \x0e\0\x01\x02ÿÿGiga Bell \x0e\0\x03\x02ÿÿis all splotchy again.\nWe need more\x0e\0\x03\x02\t\0 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\t\0 \x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0"Maybe we'll find some hiding on the islands\nwe've already visited. Let's go find out!"
+PhaseStartGuide_Phase3	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"Aw, nuts! I really hoped he would change back this time...\x0e\0\x04\0"I mean, um...of course he didn't! Nobody shrugs off\na hit from Mario better than my \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿpapa\x0e\0\x03\x02ÿÿ, after all.\x0e\0\x04\0"Come on! Let's find a way up that waterfall\nto look for more \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x01\0Cat Shines\x0e\0\x03\x02ÿÿ!"
+PhaseReturnGuide_Phase3	Looks like Bowser Jr. has more to say...\x0e\0\x04\0"I can't believe how big and strong \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ Dad \x0e\0\x03\x02ÿÿis now.\nFighting him gets scarier every time he appears...\x0e\0\x04\0"I know we'll change him back to 'regular scary'\nif we keep trying. We can't give up now!"
+PhaseStartGuide_Phase4_PartA	"\x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ Dad\x0e\0\x03\x02ÿÿ and I were supposed to have a fun day on\nthis lake together...but then he got all big and mad!\x0e\0\x04\0"I put marks on the map where more\n\x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x01\0Cat Shines\x0e\0\x03\x02ÿÿ might be hiding.\x0e\0\x04\0"Let's find them all and change \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ Dad \x0e\0\x03\x02ÿÿback!"
+PhaseStartGuide_Phase4_PartB	"Listen up, Mario!\x0e\0\x04\0"You're helping me a lot, so I'll make it easy on you.\x0e\0\x04\0"If you want to visit a different island, just point to it on\nthe map and press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ, and I'll \x0e\0\x03\x02\x03\0warp\x0e\0\x03\x02ÿÿ us straight there!"
+MessageData\SystemMessage_szs\SingleMode_GuideMessage.msbt
+PlayerControlsGuide_DualJoycons	 Jump\n{s[075]} Look around{s[100]}
+PlayerControlsGuide_SingleJoycons	 Jump\n{s[075]} +  Look around{s[100]}
+CameraControlsGuide_DualJoycons	 Look around
+CameraControlsGuide_SingleJoycons	 +  Look around
+HipDropGuide_DualJoycons	 (in midair) Ground-pound
+HipDropGuide_SingleJoycons	 (in midair) Ground-pound
+FlingPoleGuide_DualJoycons	 Fling    Cancel
+FlingPoleGuide_SingleJoycons	 Fling    Cancel
+PlessiGuide_DualJoycons	 Dismount    Jump
+PlessiGuide_SingleJoycons	 Dismount    Jump
+PlessiDismountGuide_DualJoycons	 Dismount
+PlessiDismountGuide_SingleJoycons	 Dismount
+PlessiDiveGuide_DualJoycons	 Dive\n{s[075]}Jump out of a dive to speed up{s[100]}
+PlessiDiveGuide_SingleJoycons	 Dive\n{s[075]}Jump out of a dive to speed up{s[100]}
+BowserJrControlsGuide_DualJoycons	 Attack    Fly up\n{s[075]} Look around{s[100]}
+BowserJrControlsGuide_SingleJoycons	 Attack    Fly up\n{s[075]} +  Look around{s[100]}
+GyroControlsGuide_DualJoycons	 Send Bowser Jr. to investigate\n{s[075]}Tilt the controller to move the touch cursor{s[100]}
+GyroControlsGuide_Handheld	 Touch to send Bowser Jr. to investigate
+KouraGuide_DualJoycons	 Enter shell
+KouraGuide_SingleJoycons	 Enter shell
+PickupGuide_DualJoycons	 Hold items\n{s[075]}Hold  while moving to grab{s[100]}
+PickupGuide_SingleJoycons	 Hold items\n{s[075]}Hold  while moving to grab{s[100]}
+PickupSpikeGuide_DualJoycons	 Hold items\n{s[075]}Hold  while moving to grab{s[100]}
+PickupSpikeGuide_SingleJoycons	 Hold items\n{s[075]}Hold  while moving to grab{s[100]}
+JumpGuide_DualJoycons	 Jump
+DashGuide_DualJoycons	 +  Dash
+DashGuide_SingleJoycons	 +  Dash
+PropellerGuide_DualJoycons	 Hold to fly
+PropellerGuide_SingleJoycons	 Hold to fly
+MessageData\SystemMessage_szs\SingleMode_PlayerName.msbt
+Mario	Mario
+BowserJr	Bowser Jr.
+MessageData\SystemMessage_szs\SingleMode_WindowMessage.msbt
+BowserJrExplanation_01	It looks like Bowser Jr. is in trouble.\x0e\0\x04\0"Mario! \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ Dad \x0e\0\x03\x02ÿÿis out of control!\nI don't know what happened..."
+BowserJrExplanation_02	"I tried to help him, but he's too big and mad.\x0e\0\x04\0"I can't change \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿDad \x0e\0\x03\x02ÿÿback by myself..."
+BowserJrExplanation_02b	"I'd never ask you for help. Never EVER!\x0e\0\x04\0"But I'll do anything to save \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿPapa\x0e\0\x03\x02ÿÿ. So...{s[075]}help me, Mario.{s[100]}"
+BowserJrExplanation_03a	You've teamed up with Bowser Jr.!\x0e\0\x04\0But...how much should he help you?
+BowserJrExplanation_03b	You've asked Bowser Jr. \x0e\0\x03\x02\x01\0not to help\x0e\0\x03\x02ÿÿ.\nTo change this setting, select \x0e\0\x03\x02\x03\0options \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0There's one more thing to mention...\x0e\0\x04\0If you share two Joy-Con controllers,\na second person can play as Bowser Jr.!\nJust select \x0e\0\x03\x02\x03\0two-player mode \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.
+BowserJrExplanation_03c	You've asked Bowser Jr. to \x0e\0\x03\x02\x01\0help a little\x0e\0\x03\x02ÿÿ.\nTo change this setting, select \x0e\0\x03\x02\x03\0options \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0There's one more thing to mention...\x0e\0\x04\0If you share two Joy-Con controllers,\na second person can play as Bowser Jr.!\nJust select \x0e\0\x03\x02\x03\0two-player mode \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.
+BowserJrExplanation_03d	You've asked Bowser Jr. to \x0e\0\x03\x02\x01\0help a lot\x0e\0\x03\x02ÿÿ!\x0e\0\x03\x02\x01\0\n\x0e\0\x03\x02ÿÿTo change this setting, select \x0e\0\x03\x02\x03\0options \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0There's one more thing to mention...\x0e\0\x04\0If you share two Joy-Con controllers,\na second person can play as Bowser Jr.!\nJust select \x0e\0\x03\x02\x03\0two-player mode \x0e\0\x03\x02ÿÿin the \x0e\0\x03\x02\x03\0 menu\x0e\0\x03\x02ÿÿ.
+AmiiboGuide	This lighthouse just had a bright idea!\x0e\0\x04\0Have you tried using \x0e\0\x03\x02\x01\0amiibo\x0e\0\x03\x02ÿÿ?\x0e\0\x04\0If you hold \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿand tap an amiibo to your controller,\nyou can get items or cause special things to happen!\x0e\0\x04\0Check the \x0e\0\x03\x02\x03\0guides \x0e\0\x03\x02ÿÿsection of the \x0e\0\x03\x02\x03\0 menu \x0e\0\x03\x02ÿÿto learn more.
+SnapshotGuide	This lighthouse wants to shed some light on something...\x0e\0\x04\0Do you know about \x0e\0\x03\x02\x01\0snapshot mode\x0e\0\x03\x02ÿÿ?\x0e\0\x04\0It's a great way to capture memories during your adventure!\nJust press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ to freeze the action and take some snapshots.
+ScenarioGuide	This lighthouse wants to bring something to light.\x0e\0\x04\0That splotchy goop will vanish under the light of a \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shine\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0But some of those \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines \x0e\0\x03\x02ÿÿare a bit shy...\x0e\0\x04\0If you can't find one, try looking on another island.\x0e\0\x04\0Islands with lighthouses are usually hiding something.\nGet to a high-up spot, and look for one nearby!
+CoinRewardGuide	This lighthouse has some light news for you.\x0e\0\x04\0Collecting coins can be worth your while!\x0e\0\x04\0You'll get a power-up each time you collect \x0e\0\x03\x02\x01\0100 \x0e\0\x03\x02ÿÿcoins.\nYou can store \x0e\0\x03\x02\x01\0up to five of each power-up\x0e\0\x03\x02ÿÿ too!\x0e\0\x04\0That's sure to come in handy during your adventure.\nGrab some coins, and pocket a few extra power-ups!
+ItemInventoryGuide	This lighthouse has a light suggestion for you...\x0e\0\x04\0If you've \x0e\0\x03\x02\x01\0saved up\x0e\0\x03\x02ÿÿ some extra power-ups,\nyou can use them by pressing \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0And if you \x0e\0\x03\x02\x01\0hold \x0e\0\x03\x02ÿÿ or , you'll use a power-up \x0e\0\x03\x02\x01\0right away\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0If you're ever in a pinch, use those power-ups!
+HelpGuide	This lighthouse has one final tip for you...\x0e\0\x04\0Have you checked the \x0e\0\x03\x02\x01\0guides\x0e\0\x03\x02ÿÿ?\x0e\0\x04\0They'll show you how to perform special actions, offer useful\ninformation, and teach basic info about how to play.\x0e\0\x04\0Visit the \x0e\0\x03\x02\x03\0 menu \x0e\0\x03\x02ÿÿand select \x0e\0\x03\x02\x03\0guides\x0e\0\x03\x02ÿÿ.\nYou might learn something new!\x0e\0\x04\0That's all the lighthouses have to say.\nThanks for listening! They hope they helped!
+DisasterBlockGuide	Here's a light hint from this lighthouse...\x0e\0\x04\0If you want to avoid the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07 \x0e\0\x01\x02ÿÿbeast\x0e\0\x03\x02ÿÿ's fury blasts,\nfind some cover to hide behind.\x0e\0\x04\0There are also special blocks on each island\nthat can be broken only by fury blasts.\x0e\0\x04\0Try to find them when disaster strikes.\nThey may be hiding something!
+ShineCountReached_Phase1_Count1	You've collected five \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"When the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast \x0e\0\x03\x02ÿÿawakens, so shall I..."
+ShineCountReached_Phase2_Count1	You've collected 15 \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"When the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast \x0e\0\x03\x02ÿÿawakens, so shall I..."
+ShineCountReached_Phase2_Count2	You've collected 20 \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"When the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast \x0e\0\x03\x02ÿÿawakens, so shall I..."
+ShineCountReached_Phase3_Count1	You've collected 40 \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"When the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast \x0e\0\x03\x02ÿÿawakens, so shall I..."
+ShineCountReached_Phase4_Count1	Congratulations!\nYou've collected all of the \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"You are ready. Go! Cleanse the \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast \x0e\0\x03\x02ÿÿof its\nfury with the full power of the \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines\x0e\0\x03\x02ÿÿ!"
+ShineCountReached_SuperHardDisaster	A message is ringing out from the \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ Giga Bell\x0e\0\x03\x02ÿÿ...\x0e\0\x04\0"The \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ beast\x0e\0\x03\x02ÿÿ's fury has grown too strong. The light\nof the \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 Cat Shines \x0e\0\x03\x02ÿÿcan no longer keep it at bay..."
+MessageData\SystemMessage_szs\SnapshotFilterNames.msbt
+NoFilter	Filter: No Filter
+PencilSketch	Filter: Pencil Sketch
+Sepia	Filter: Sepia
+BlackAndWhite	Filter: Black and White
+FishEyeLens	Filter: Fish-Eye Lens
+Smear	Filter: Smear
+Hypercolor	Filter: Hypercolor
+OilPainting	Filter: Oil Painting
+Neon	Filter: Neon
+Tile	Filter: Tile
+Sharpen	Filter: Sharpen
+Manga	Filter: Manga
+MessageData\SystemMessage_szs\StaffRoll.msbt
+StaffRoll	Super Mario 3D World + Bowser’s Fury\n\n@STAFF\nYuri Adachi\nKaori Ando\nKatsuyasu Ando\nNorihiro Aoyagi\nKoji Aoyama\nYukinori Arata\nHiroki Araya\nTaiki Asamizu\nRuchi Bhatwal\nPhilip Brodsky\nJonathan Bryant\nDavid Carlson\nKevin Chung\nYotaro Doi\nSilvia Draper\nBrandon Dulyea\nRika Fukumoto\nEiji Funahashi\nMizuki Fujisawa\nJeremiah Gallardo\nMarcos Gomes\nFrancisco Guerrero López\nGregory Hall\nErica Hanson\nKazunori Hashimoto\nTakeshi Hayakawa\nShinya Hiratake\nKenichiro Ikeya\nShuhei Ishii\nKaren Ishikawa\nToru Inage\nNozomi Isoda\nYuichi Iwasa\nNami Jamesson\nArturo Jáuregui Osante\nJonathan Johnson\nNobuyo Johnston\nRory Johnston\nAmber Kalina\nTeppei Kamata\nKyoko Kamikubo\nMasayuki Kawakita\nMio Kikuchi\nYuka Kitahara\nKanji Kobayashi\nKazuki Kobayashi\nYoshiaki Koizumi\nPaul Kranich\nYuichi Kurata\nYoonjoon Lee\nVincent Leone\nSean Lutterman\nKees Luyendijk\nRyan Lynd\nDaisuke Matsuoka\nYasuhiko Matsuzaki\nDeana McCarthy\nBrian McNeely\nVivek Melwani\nGabriel Miller\nTimothy Minalia\nMasato Misaki\nShigeru Miyamoto\nJami Moravetz\nYujiro Mori\nKenta Motokura\nSho Murata\nHitomi Naitoh\nYuki Nakamura\nShigehisa Nakaue\nLaura Nelson\nNaoya Nihei\nAsuka Nishiura\nIkki Oikawa\nKeisuke Okubo\nCarlie Olson\nSteven Petofalvi\nJames Phillipsen\nGeoff Phoenix\nDaisy Pigeon\nCristina Pohlenz Garza\nChris Polney\nFei Mi Quek\nDiego Rothenbach\nKoki Sasaki\nEisaku Sato\nTomosumi Sato\nHaruka Seko\nAnthony Settimi\nEdward Sherman\nJames Showecker\nFutoshi Shirai\nMark Smith\nHideyuki Sugawara\nMayako Sugimoto\nRisa Sugimoto\nShuhei Sugimoto\nNobuyoshi Suzuki\nSayaka Takagi\nShinya Takahashi\nTakeshi Tamura\nHirotaka Tanikawa\nMizuki Tatsuno\nKumiko Terashima\nMark Trono\nYuki Tsuji\nDaisuke Tsujimura\nLauren Wells\nZakary Wilson\nTakayuki Yaeno\nAtsushi Yamaguchi\nShigeki Yamashiro\nSean Yamura\nRikuto Yoshida\n\nBased on the work of\nthe original Wii U version\ndevelopment and localization staff\n\n@NORTH AMERICAN LOCALIZATION\nLocalization Management\nNate Bihldorff\nReiko Ninomiya\nRich Amtower\nTim O’Leary\nScot Ritchey\nMorgan Ritchie\nÁlex Zarza\n\nLocalization\nSam AbouHarb\nLauren Ammerman\nAna Celeste Ascanio\nBilly Carroll\nOwen Cooney\nKatie Dunlop\nRaymond Elliget\nBrandon Kraemer\nAudrey Drake Rigg\nFannie Senécal\nYanett Cepeda Valor\nThaddée Wiseur\n\nNOA Product Testing\n\n@NOE LOCALISATION STAFF\nChiara Botta\nMirko Capocelli\nYannick Carrey\nVeronica Casi\nDario De Leo\nSandra Díaz Cabral\nJesús Gordo Martín\nSylvain Gsell\nThomas den Haan\nSwen Harder\nCarsten Harmans\nIhar Havenka\nBlanca Hueso Taulés\nAnton Ivanchikov\nDanielle Jorgenson-Murray\nGurvan Le Guen\nJ. Ignacio León López\nRoby Liebetruth\nVincent Meijer\nRui Mendes\nAlexander Meng\nJessica Morandi\nAna Rodrigues\nEnrique Sánchez Rosa\nGeorg Schmalhofer\nAnastasiia Voronkova\nSoufian Yahyaoui\nGrace Yon\n\n@NHL LOCALIZATION STAFF\nTracy Cheng\nMike Kan\nSean Shen\nWang Zhong Long\nDigital Hearts Linguitronics Taiwan Co., Ltd.\n\n@iQue LOCALIZATION STAFF\nLing Yayun\nMisa Matsumoto\nXu Ming\nYan Gang\nZhang Xi\n\n@NOK LOCALIZATION STAFF\nDongyeon Kim\nKiung Seoung\nInseon Song\nJihyuen Yoo\nOrgoSoft Co., Ltd.\n\n@SPECIAL THANKS\nHiroshi Arai\nTakuhiro Dohta\nKoichi Hayashida\nWataru Hinoshita\nYoichi Hirota\nGen Kadoi\nSayo Kato\nRyo Kawasaki\nTakeshi Kawasaki\nNoriaki Manaka\nHirokazu Matsuda\nKeisuke Matsui\nJeff Miller\nYosuke Mori\nHajime Nakao\nYu Ogasawara\nKaoru Sato\nMasakaze Sato\nAkiyo Shigeyama\nMakiko Takada\nKeiichiro Terao\nTakashi Tezuka\nDaisuke Watanabe\nKenji Yamamoto\nYoshito Yasuda\nAkane Yoshida\nMahito Yokota\nTohru Yoshio\nFace Music\n\nAll General Support Group\nNintendo Tokyo Office\nAll EPD\n\n@EXECUTIVE PRODUCER\nShuntaro Furukawa
+MessageData\SystemMessage_szs\StageName.msbt
+RotateFieldStage	Really Rolling Hills
+DownRiverStage	Plessie's Plunging Falls
+FlipCircusStage	Switch Scramble Circus
+KinopioBrigadeTentenStage	Captain Toad Goes Forth
+KoopaChaseLv1Stage	Bowser's Highway Showdown
+GateKeeperBullLv1Stage	Chargin' Chuck Blockade
+ClimbWirenetStage	Chain-Link Charge
+ShadowTunnelStage	Shadow-Play Alley
+SideWaveDesertStage	Conkdor Canyon
+DoubleMarioFieldStage	Double Cherry Pass
+MysteryHouseEnemyStage	Mystery House Melee
+KillerTankStage	Bowser's Bullet Bill Brigade
+GateKeeperKuribonLv1Stage	Big Galoomba Blockade
+SnowBallParkStage	Snowball Park
+TeresaConveyorStage	Shifty Boo Mansion
+DashRidgeStage	Mount Must Dash
+ShortGardenStage	Pretty Plaza Panic
+DokanAquariumStage	Pipeline Lagoon
+TouchAndMikeStage	Puffprod Peaks
+CrawlerHillStage	Ant Trooper Hill
+KinopioBrigadeWaterStage	Captain Toad Makes a Splash
+KillerExpressStage	The Bullet Bill Express
+GateKeeperFireBrosLv2Stage	Fire Bros. Hideout #2
+PipePackunDenStage	Piranha Creeper Creek
+TrampolineHighlandStage	Big Bounce Byway
+GabonMountainStage	Spike's Lost City
+ChikaChikaBoomerangStage	Beep Block Skyway
+TruckWaterfallStage	Switchboard Falls
+MysteryHouseDashStage	Mystery House Mad Dash
+BossGorobonStage	Lava Rock Lair
+GateKeeperTentackLv1Stage	A Banquet with Hisstocrat
+GateKeeperGorobonLv1Stage	Brolder Blockade
+NokonokoBeachStage	Sunshine Seaside
+BombCaveStage	Bob-ombs Below
+ShortMultiLiftStage	Backstreet Bustle
+SavannaRockStage	Sprawling Savanna
+SwingCircusStage	Tricky Trapeze Theater
+JumpFlipSweetsStage	Cakewalk Flip
+SneakingLightStage	Searchlight Sneak
+KinopioBrigadeTeresaStage	Captain Toad Plays Peek-a-Boo
+BossWackunFortressStage	King Ka-thunk's Castle
+GateKeeperKameckLv1Stage	Magikoopa Blockade
+GateKeeperFireBrosLv1Stage	Fire Bros. Hideout #1
+GateKeeperFireBrosLv4Stage	Fire Bros. Hideout #4
+RouteDokanTourStage	Clear Pipe Cruise
+WeavingShipStage	Spooky Seasick Wreck
+ClimbFortressStage	Bullet Bill Base
+JungleCruiseStage	Deep Jungle Drift
+BlastSnowFieldStage	Ty-Foo Flurries
+KarakuriCastleStage	Hands-On Hall
+ChorobonTowerStage	Fuzzy Time Mine
+MysteryHouseBallStage	Mystery House Throwdown
+BombTankStage	Bowser's Bob-omb Brigade
+GateKeeperFireBrosLv3Stage	Fire Bros. Hideout #3
+FireBrosFortressStage	Fort Fire Bros.
+DarkFlipPanelStage	Switchblack Ruins
+ShortAmidaStage	Red-Hot Run
+DonketsuArrowStepStage	Boiling Blue Bully Belt
+ZigzagBuildingStage	Trick Trap Tower
+SyumockSpotStage	Rammerhead Reef
+RagingMagmaStage	Simmering Lava Lake
+KinopioBrigadeConveyorStage	Captain Toad Gets Thwomped
+GateKeeperBossBunretsuLv1Stage	Motley Bossblob's Big Battle
+NeedleBridgeStage	Spiky Spike Bridge
+GearSweetsStage	Cookie Cogworks
+DownDesertStage	Plessie's Dune Downhill
+EchoRoadStage	Footlight Lane
+WaterElevatorCaveStage	Deepwater Dungeon
+GotogotonValleyStage	Grumblump Inferno
+MysteryHouseClimbStage	Mystery House Claw Climb
+EnemyExpressStage	The Bowser Express
+KoopaLastStage	The Great Tower of Bowser Land
+GateKeeperTentackLv2Stage	Hisstocrat Returns
+RainbowRoadStage	Rainbow Run
+HexScrollStage	Honeycomb Starway
+BlockLandStage	Super Block Land
+GoalPoleRunawayStage	The Great Goal Pole
+GiantUnderGroundStage	Gargantuan Grotto
+GalaxyRoadStage	Super Galaxy
+WheelCanyonStage	Rolling Ride Run
+TerenFogStage	Peepa's Fog Bog
+KinopioBrigadeRotateRoomStage	Captain Toad Takes a Spin
+KinopioBrigadeInfernoStage	Captain Toad's Fiery Finale
+MysteryHouseMaxStage	Mystery House Marathon
+GateKeeperKyupponLv1Stage	Prince Bully Blockade
+GateKeeperKyupponLv2Stage	Prince Bully Blockade Is Back
+GateKeeperBossBunretsuLv2Stage	Motley Bossblob's Encore
+BoxKillerStage	Cosmic Cannon Cluster
+NokonokoCaveStage	Koopa Troopa Cave
+DarknessHauntedHouseStage	A Beam in the Dark
+GateKeeperBullLv2Stage	Chargin' Chuck Blockade Is Back
+GateKeeperGorobonLv2Stage	Brolder Blockade Is Back
+ClimbMountainStage	Mount Beanpole
+ArrangeClimbMountainStage	Spiky Mount Beanpole
+ArrangeDonketsuArrowStepStage	Broken Blue Bully Belt
+ArrangeJungleCruiseStage	Deep-Black Jungle Drift
+ArrangeTeresaConveorStage	Shiftier Boo Mansion
+ArrangeNeedleBridgeStage	Spiky Spike Bridge Sneak
+ArrangeHexScrollStage	Honeycomb Skyway
+ArrangeBossParadeStage	Boss Blitz
+ArrangeRotateFieldStage	Night Falls on Really Rolling Hills 
+ChampionshipStage	Champion's Road
+ArrangeWeavingShipStage	Gigantic Seasick Wreck
+ArrangeFlipCircusStage	Switch Shock Circus
+ArrangePipePackunDenStage	Piranha Creeper Creek after Dark
+ArrangeFireBrosFortressStage	Faster Fort Fire Bros.
+ArrangeKarakuriCastleStage	Back to Hands-On Hall
+ArrangeShadowTunnelStage	Trouble in Shadow-Play Alley
+ArrangeMysteryHouseEnemyStage	Mystery House Brawl
+ArrangeChorobonTowerStage	Floating Fuzzy Time Mine
+ArrangeChikaChikaBoomerangStage	Blast Block Skyway
+ArrangeSavannaRockStage	Sprawling Savanna Rabbit Run
+ArrangeDokanAquariumStage	Pipeline Boom Lagoon
+ArrangeNokonokoBeachStage	Towering Sunshine Seaside
+EnterCatMarioStage	Super Bell Hill
+KoopaChaseLv2Stage	Bowser's Lava Lake Keep
+MessageData\SystemMessage_szs\TitleLogo.msbt
+TitleLogo_Start	 Start
+TitleLogo_Start_SingleJoy	 Start
+MessageData\SystemMessage_szs\WindowConfirmNetworkMenu.msbt
+MessageData\SystemMessage_szs\WindowConfirmPauseMenu.msbt
+ReturnToMap	Leave the course?\n\n{s[075]}You will lose any items gained\nin this course if you leave.{s[100]}
+ReturnToMap_Left	Cancel
+ReturnToMap_Right	OK
+RestartStage	Restart this course?\n\n{s[075]}You will lose any items gained\nin this course if you restart.{s[100]}
+RestartStage_Left	Cancel
+RestartStage_Right	OK
+ChangeControls	Change controllers?
+ChangeControls_Left	Cancel
+ChangeControls_Right	OK
+MessageData\SystemMessage_szs\WindowConfirmTitleScene.msbt
+NewFileWarning	There are no empty save slots available.\n\n{s[075]}Would you like to erase a file to make room for a new game?{s[100]}
+NewFileWarning_Left	Cancel
+NewFileWarning_Right	OK
+MessageData\SystemMessage_szs\WindowMessage.msbt
+RaidonGuide	Hop on Plessie and head for the goal!\x0e\0\x04\0Control your speed by tilting up and down\non \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0Jump by pressing \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0When playing with friends, you'll find that\nyou can turn faster and jump higher when\neveryone is working together!\x0e\0\x04\0Are you ready? Then let's get going!
+OpenAllClearMario	Well done!\nYou cleared all of the courses playing as \x0e\0\x03\x02\x01\0Mario\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0That gets you a new\x0e\0\x03\x02\x06\0 \x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ!
+OpenAllClearLuigi	Well done!\nYou cleared all of the courses playing as \x0e\0\x03\x02\x02\0Luigi\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0That gets you a new\x0e\0\x03\x02\x06\0 \x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ!
+OpenAllClearPeach	Well done!\nYou cleared all of the courses playing as \x0e\0\x03\x02\x05\0Peach\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0That gets you a new\x0e\0\x03\x02\x06\0 \x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ!
+OpenAllClearKinopio	Well done!\nYou cleared all of the courses playing as \x0e\0\x03\x02\x03\0Toad\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0That gets you a new\x0e\0\x03\x02\x06\0 \x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ!
+OpenAllClearRosetta	Well done!\nYou cleared all of the courses playing as \x0e\0\x03\x02\x06\0Rosalina\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0That gets you a new\x0e\0\x03\x02\x06\0 \x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ!
+OpenRosettaPlayable	You can now play as a new character: \x0e\0\x03\x02\x06\0Rosalina\x0e\0\x03\x02ÿÿ!
+OpenShowBestTime	\x0e\0\x03\x02\x01\0Best times\x0e\0\x03\x02ÿÿ for completing\ncourses will now be displayed.
+OpenWorldStar	A \x0e\0\x03\x02\x01\0new world\x0e\0\x03\x02ÿÿ has opened!
+OpenWorldArrange	A \x0e\0\x03\x02\x01\0bonus world\x0e\0\x03\x02ÿÿ has opened!
+OpenWorldChampionship	The \x0e\0\x03\x02\x01\0final world\x0e\0\x03\x02ÿÿ is now open!
+ShowWorldJumpMenuInfo	Press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ to access the \x0e\0\x03\x02\x03\0map\x0e\0\x03\x02ÿÿ and travel to\nworlds you've already visited.\x0e\0\x04\0You can also use it to check out\nyour \x0e\0\x01\x02\x05\0\x0e\0\x03\x02\x06\01\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ and \x0e\0\x01\x02\x05\0\x0e\0\x03\x02\x02\00\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ collections.
+ShowWorldJumpMenuInfoSecond	Press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ to access the \x0e\0\x03\x02\x03\0map\x0e\0\x03\x02ÿÿ and travel to\nworlds you've already visited.\x0e\0\x04\0You can also use it to check out\nyour \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ and \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ collections.
+FirstClearKinopioBrigade	You can use \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor\x0e\0\x03\x02\x03\0  + \x0e\0\x03\x02ÿÿ to \x0e\0\x03\x02\x03\0control the camera\x0e\0\x03\x02ÿÿ in\nsingle-player mode on other courses too!\x0e\0\x04\0Give it a try!
+FirstPlayKinopioBrigade	Captain Toad, fearless hunter of Green Stars,\nis ready for adventure!\x0e\0\x04\0Guide him safely through the course in\nhis search for \x0e\0\x03\x02\x02\0five \x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ! Make sure to get\n\x0e\0\x03\x02\x01\0all five \x0e\0\x03\x02ÿÿin order to take them home.\x0e\0\x04\0\x0e\0\x03\x02\x03\0Move the camera\x0e\0\x03\x02ÿÿ with \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0 + \n\x0e\0\x03\x02ÿÿto see the course from another angle.\x0e\0\x04\0And just so you know...\nCaptain Toad can't jump.\nKeep that in mind!
+FirstPlayCasinoRoom	Hit the blocks and make the pictures line up!\nYou could win up to \x0e\0\x03\x02\x01\0777 Coins\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0You'll get an extra life for every \x0e\0\x03\x02\x01\0100 Coins\x0e\0\x03\x02ÿÿ you collect.
+ShowCharacterChangeExplain	Press \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor\x0e\0\x03\x02\x03\0  \x0e\0\x03\x02ÿÿon the \x0e\0\x03\x02\x01\0red course-start screen\n\x0e\0\x03\x02ÿÿto change characters.\x0e\0\x04\0Each character has a different\x0e\0\x03\x02\x01\0 jump power\n\x0e\0\x03\x02ÿÿand \x0e\0\x03\x02\x01\0run speed\x0e\0\x03\x02ÿÿ.\x0e\0\x04\0Be sure to try them all out!
+FirstPlayMysteryHouseStage	Welcome to the Mystery House.\x0e\0\x04\0There's one \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ in each room,\nso do your best to get them all!\x0e\0\x04\0Good luck! Now get going!
+FirstRetryMysteryHouseStage	Aww, that's too bad...\x0e\0\x04\0But at least you get to keep every \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\nyou've collected so far.\x0e\0\x04\0Come back again when you're\nready to try for the rest!
+FirstPlayKinopioHouse	Welcome to a Toad House!\x0e\0\x04\0Pick a box. Its contents will\nhelp you on your way.
+FirstClearDrcTouchStage	Remember you can also use the touch cursor with \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor\x0e\0\x03\x02\x03\0 \n\x0e\0\x03\x02ÿÿin other courses to make interesting things happen!
+FirstClearDrcTouchStage_Handheld	Remember you can also touch the \x0e\0\x03\x02\x03\0 screen \x0e\0\x03\x02ÿÿin other\ncourses to make interesting things happen!
+ShowAfterGameOverInfo	If you get a GAME OVER, all \x0e\0\x03\x02\x01\0Toad Houses\n\x0e\0\x03\x02ÿÿand \x0e\0\x03\x02\x01\0Lucky Houses \x0e\0\x03\x02ÿÿwill open again,\nso be sure to revisit them!
+SnapshotGuide	If you're playing alone, you can press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ\nto take snapshots of your adventure!
+AmiiboGuide	You can use \x0e\0\x03\x02\x01\0amiibo\x0e\0\x03\x02ÿÿ during your adventure!\x0e\0\x04\0Just hold \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿand tap an amiibo to your controller\nwithin a course to make something surprising happen.\x0e\0\x04\0Check the \x0e\0\x03\x02\x03\0guides \x0e\0\x03\x02ÿÿsection of the \x0e\0\x03\x02\x03\0menu \x0e\0\x03\x02ÿÿto learn more.\x0e\0\x04\0You won't be able to use amiibo when you're communicating\nwith other Nintendo Switch systems. Keep that in mind!
+TouchGuide	You can play this course using \x0e\0\x03\x02\x01\0touch controls\x0e\0\x03\x02ÿÿ!\x0e\0\x04\0Press \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿor\x0e\0\x03\x02\x03\0  \x0e\0\x03\x02ÿÿto make the touch cursor appear.\nUse it to move the rainbow-colored blocks!\x0e\0\x04\0If you're playing in handheld mode, touching\nthe blocks on the \x0e\0\x03\x02\x03\0 screen\x0e\0\x03\x02ÿÿ works too.
+NetworkGuide	Have you tried connecting and playing with friends?\x0e\0\x04\0Just \x0e\0\x03\x02\x01\0connect online\x0e\0\x03\x02ÿÿ or with \x0e\0\x03\x02\x01\0other Nintendo Switch systems\x0e\0\x03\x02ÿÿ\nto try multiplayer with up to four players!\x0e\0\x04\0To begin online or local wireless play, press \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ or \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ.
+MessageData\SystemMessage_szs\WindowNetworkInfo.msbt
+WindowNetworkInfo_Connected	\x0e\x03\x02\x04\0\0\0\0 has joined.
+WindowNetworkInfo_Disconnected	\x0e\x03\x02\x04\0\0\0\0 has left the room.
+WindowNetworkInfo_Controlling	\x0e\x03\x02\x04\0\0\0\0 is controlling.
+WindowNetworkInfo_Error	Lost connection with \x0e\x03\x02\x04\0\0\0\0.
+MessageData\SystemMessage_szs\WipeCurtainRanking.msbt
+WipeCurtainRanking_Rank1	1st
+WipeCurtainRanking_Rank2	2nd
+WipeCurtainRanking_Rank3	3rd
+WipeCurtainRanking_Rank4	4th

@@ -1,0 +1,844 @@
+MessageData\LayoutMessage_szs\ButtonBackParts.msbt
+MessageData\LayoutMessage_szs\ButtonFileParts.msbt
+MessageData\LayoutMessage_szs\CourseSelectSceneLayout.msbt
+CourseSelectSceneLayout_World	WORLD \x0e\x03\0\x04\0\0\0\0
+CourseSelectSceneLayout_WorldStage	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\LayoutMessage_szs\GameOverMenu.msbt
+GameOverMenu_Continue	ゲームをつづける
+GameOverMenu_Quit	ゲームをやめる
+MessageData\LayoutMessage_szs\GuideGoal.msbt
+GuideGoal_Goal	ゴール
+MessageData\LayoutMessage_szs\GuideWindowParts.msbt
+GuideWindowParts_MatchingA	キャラクターを{r2[えら]}選{/r2}んでください
+GuideWindowParts_FriendMatch	フレンド通信
+GuideWindowParts_LocalMatch	ローカル通信
+MessageData\LayoutMessage_szs\HeadCourseClear.msbt
+HeadCourseClear_CourseClear	COURSE CLEAR!
+MessageData\LayoutMessage_szs\HeadGameOver.msbt
+HeadGameOver_GameOver	GAME OVER
+MessageData\LayoutMessage_szs\HeadIslandClear.msbt
+HeadIslandClear_Goal	CAT SHINE!
+MessageData\LayoutMessage_szs\HeadMiss.msbt
+HeadMiss_Miss	MISS
+MessageData\LayoutMessage_szs\HeadSlotResult.msbt
+HeadSlotResult_SlotResult	\x0e\x02\0\x04\0\0\0\0UP!
+MessageData\LayoutMessage_szs\HeadTimeUp.msbt
+HeadTimeUp_TimeUp	TIME'S UP!
+MessageData\LayoutMessage_szs\IslandMap.msbt
+IslandMap_YouAreHere	現在地
+IslandMap_Island	島
+IslandMap_SuperBell	ギガべル
+MessageData\LayoutMessage_szs\ListClearStar.msbt
+ListClearStar_List	WORLD \x0e\x03\0\x04\0\0\0\0 クリアリスト
+ListClearStar_World0	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World1	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World2	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World3	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World5	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World6	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World7	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World4	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World8	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World9	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World10	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World11	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_World12	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_WorldMax	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+ListClearStar_WorldFairy	W\x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\LayoutMessage_szs\MapMenu.msbt
+MapMenu_W1	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W2	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W3	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W4	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W5	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W6	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W7	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_W8	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WKinoko	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WFire	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WStar	W\x0e\x03\0\x04\0\0\0\0
+MapMenu_WChampion	W\x0e\x03\0\x04\0\0\0\0
+MessageData\LayoutMessage_szs\PauseMenu.msbt
+PauseMenu_Button0	ゲームをつづける
+PauseMenu_Button1	コースをでる
+PauseMenu_World	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+PauseMenu_Button2	やりなおす
+PauseMenu_Button3	タイトルにもどる
+PauseMenu_ButtonSub4	オプション
+PauseMenu_ButtonSub3	ヘルプ
+PauseMenu_ButtonSub1	コントローラー
+PauseMenu_ButtonSub2	データ
+PauseMenu_Button5	ぬける
+MessageData\LayoutMessage_szs\PlayerEntry.msbt
+PlayerEntry_Guide	キャラクターを{r2[えら]}選{/r2}んでください
+MessageData\LayoutMessage_szs\PlayerEntryMini.msbt
+PlayerEntryMini_Random	 /  シャッフル
+MessageData\LayoutMessage_szs\PlayerEntryMiniParts.msbt
+PlayerEntryMiniParts_PressButton	 +  参加
+MessageData\LayoutMessage_szs\PlayerEntryParts.msbt
+PlayerEntryParts_Entry	 +  参加
+PlayerEntryParts_Waiting	{r2[ぼしゅうちゅう]}募集中{/r2}…
+MessageData\LayoutMessage_szs\RCS_ControlGuide.msbt
+RCS_ControlGuide_GuideNameP1	マリオ
+RCS_ControlGuide_GuideNameP2	クッパJr.
+RCS_ControlGuide_GuideOtherInfo_Touch	（または  ）でポインターを{r2[ひょうじ]}表示{/r2}して コントローラーをかたむけてうごかします\nポインターを{r2[ひょうじ]}表示{/r2}したまま （または  ）を{r2[お]}押{/r2}すことで モノにタッチできます\nタッチすることで モノをアクションさせたり クッパJr.にたのんだりできます\n を{r2[ちょくせつ]}直接{/r2}タッチしても{r2[おな]}同{/r2}じことができます
+RCS_ControlGuide_GuideOtherInfo_amiibo	 を{r2[お]}押{/r2}しながら コントローラーのNFCエリアにamiiboをタッチします \nさまざまなamiiboをタッチして{r2[なに]}何{/r2}が{r2[お]}起{/r2}こるか{r2[かくにん]}確認{/r2}してみましょう！\nなかには {r2[べんり]}便利{/r2}なアイテムをくれるamiiboもあるようです\n{s[075]}※「{r2[つうしん]}通信{/r2}であそぶ」など amiiboを{r2[つか]}使{/r2}えない{r2[ばめん]}場面{/r2}があります{s[100]}
+RCS_ControlGuide_GuideOtherInfo_Snapshot	{r2[ひとり]}１人{/r2}であそんでいるときに  を{r2[お]}押{/r2}すと スナップショットモードを{r2[たの]}楽{/r2}しめます\nフィルターをかけたり （または  を{r2[ちょくせつ]}直接{/r2}タッチ）でハンコを{r2[お]}押{/r2}すこともできます\nハンコを{r2[け]}消{/r2}したいときはつかんで{r2[がめんがい]}画面外{/r2}にすばやくスライドします\n を{r2[お]}押{/r2}して{r2[と]}撮{/r2}った{r2[しゃしん]}写真{/r2}は  {r2[ホーム]}HOME{/r2} ＞  アルバムに{r2[ほぞん]}保存{/r2}されます
+RCS_ControlGuide_3DWDualJC1_GuideMap	 マップ
+RCS_ControlGuide_3DWDualJC1_GuideCrouch	 {s[075]}\x0e\0\x03\x02\x07\0または \x0e\0\x03\x02ÿÿ{s[100]} しゃがむ
+RCS_ControlGuide_3DWDualJC1_GuideResetCameraGyro	 {s[100]}カメラ＆ポインターリセット{s[100]}
+RCS_ControlGuide_3DWDualJC1_GuideMove	 いどう
+RCS_ControlGuide_3DWDualJC1_GuideItem	 アイテムストック
+RCS_ControlGuide_3DWSingleJC1_GuideItem	 アイテムストック
+RCS_ControlGuide_3DWDualJC1_Guideamiibo	 amiibo
+RCS_ControlGuide_3DWDualJC1_GuideSnapshotMode	 スナップショットモード
+RCS_ControlGuide_3DWDualJC2_GuideCamera	みまわす 
+RCS_ControlGuide_3DWDualJC2_GuidePause	メニュー 
+RCS_ControlGuide_3DWDualJC2_GuidePointer	ポインターON 
+RCS_ControlGuide_3DWDualJC2_GuideJump	ジャンプ  \x0e\0\x03\x02\x07\0{s[075]}または {s[100]}\x0e\0\x03\x02ÿÿ
+RCS_ControlGuide_3DWDualJC2_GuideAction	ダッシュ  +  {s[075]}\x0e\0\x03\x02\x07\0または \x0e\0\x03\x02ÿÿ{s[100]}
+RCS_ControlGuide_3DWSingleJC1_GuideCrouch	 しゃがむ
+RCS_ControlGuide_3DWSingleJC1_GuideBubble	 +  シャボンに{r2[はい]}入{/r2}る
+RCS_ControlGuide_3DWSingleJC1_GuidePause	 メニュー
+RCS_ControlGuide_3DWSingleJC1_GuidePointer	 ポインターON
+RCS_ControlGuide_3DWSingleJC1_GuideMove	 いどう
+RCS_ControlGuide_3DWSingleJC1_GuideAction	 +  ダッシュ
+RCS_ControlGuide_3DWSingleJC1_GuideJump	 {s[075]}\x0e\0\x03\x02\x07\0または \x0e\0\x03\x02ÿÿ{s[100]} ジャンプ
+RCS_ControlGuide_3DWSingleJC2_GuideCrouch	 しゃがむ
+RCS_ControlGuide_3DWSingleJC2_GuideBubble	 +  シャボンに{r2[はい]}入{/r2}る
+RCS_ControlGuide_3DWSingleJC2_GuideItem	 アイテムストック
+RCS_ControlGuide_3DWSingleJC2_GuidePause	 メニュー
+RCS_ControlGuide_3DWSingleJC2_GuidePointer	 ポインターON
+RCS_ControlGuide_3DWSingleJC2_GuideJump	 \x0e\0\x03\x02\x07\0{s[075]}または {s[100]}\x0e\0\x03\x02ÿÿ ジャンプ
+RCS_ControlGuide_3DWSingleJC2_GuideAction	 +  ダッシュ
+RCS_ControlGuide_3DWSingleJC2_GuideMove	 いどう
+RCS_ControlGuide_NewSingleJC1_GuideResetCamera	 カメラリセット
+RCS_ControlGuide_NewSingleJC1_GuideItem	 アイテムストック
+RCS_ControlGuide_NewSingleJC1_GuideCrouch	 \x0e\0\x03\x02\x07\0{s[075]}または {s[100]}\x0e\0\x03\x02ÿÿ しゃがむ
+RCS_ControlGuide_NewSingleJC1_GuideMap	 マップ
+RCS_ControlGuide_NewSingleJC1_GuideMove	 いどう
+RCS_ControlGuide_NewSingleJC1_GuideCamera	 +  みまわす
+RCS_ControlGuide_NewSingleJC1_GuideAction	 +  ダッシュ
+RCS_ControlGuide_NewSingleJC1_GuideJump	 ジャンプ
+RCS_ControlGuide_NewSingleJC2_GuideWarp	 +  ワープ
+RCS_ControlGuide_NewSingleJC2_GuideResetCamera	 カメラリセット
+RCS_ControlGuide_NewSingleJC2_GuidePauseA	 メニュー
+RCS_ControlGuide_NewSingleJC2_GuideFlyUp	 {r2[じょうしょう]}上昇{/r2}する
+RCS_ControlGuide_NewSingleJC2_GuideAction	 こうげき
+RCS_ControlGuide_NewSingleJC2_GuideMove	 いどう
+RCS_ControlGuide_NewSingleJC2_GuideCamera	 +  みまわす
+RCS_ControlGuide_NewDualJC1_GuideCrouch	 \x0e\0\x03\x02\x07\0{s[075]}または {s[100]}\x0e\0\x03\x02ÿÿ しゃがむ
+RCS_ControlGuide_NewDualJC1_GuideResetCameraGyro	 {s[100]}カメラ＆ポインターリセット{s[100]}
+RCS_ControlGuide_NewDualJC1_GuideMap	 {s[075]}\x0e\0\x03\x02\x07\0または \x0e\0\x03\x02ÿÿ{s[100]} マップ
+RCS_ControlGuide_NewDualJC1_GuideMove	 いどう
+RCS_ControlGuide_NewDualJC1_GuideItem	 アイテムストック
+RCS_ControlGuide_NewDualJC1_Guideamiibo	 amiibo
+RCS_ControlGuide_NewDualJC1_GuideSnapshotMode	 スナップショットモード
+RCS_ControlGuide_NewDualJC2_GuidePointer	ポインターON 
+RCS_ControlGuide_NewDualJC2_GuidePause	メニュー 
+RCS_ControlGuide_NewDualJC2_GuideJump	ジャンプ  \x0e\0\x03\x02\x07\0{s[075]}または {s[100]}\x0e\0\x03\x02ÿÿ
+RCS_ControlGuide_NewDualJC2_GuideAction	ダッシュ  +   {s[075]}\x0e\0\x03\x02\x07\0または \x0e\0\x03\x02ÿÿ{s[100]}
+RCS_ControlGuide_NewDualJC2_GuideCamera	みまわす 
+RCS_ControlGuide_BasicAction01DualJoyCon	モノの{r2[ちか]}近{/r2}くで 
+RCS_ControlGuide_BasicAction01SingleJoyCon	モノの{r2[ちか]}近{/r2}くで 
+RCS_ControlGuide_BasicAction01Title	{r2[も]}持{/r2}つ
+RCS_ControlGuide_BasicAction02DualJoyCon	モノを{r2[も]}持{/r2}って 
+RCS_ControlGuide_BasicAction02SingleJoyCon	モノを{r2[も]}持{/r2}って 
+RCS_ControlGuide_BasicAction02Title	{r2[な]}投{/r2}げる
+RCS_ControlGuide_BasicAction03DualJoyCon	
+RCS_ControlGuide_BasicAction03SingleJoyCon	
+RCS_ControlGuide_BasicAction03Title	スピン
+RCS_ControlGuide_BasicAction04DualJoyCon	スピン{r2[ちゅう]}中{/r2}に 
+RCS_ControlGuide_BasicAction04SingleJoyCon	スピン{r2[ちゅう]}中{/r2}に 
+RCS_ControlGuide_BasicAction04Title	スピンジャンプ
+RCS_ControlGuide_BasicAction05DualJoyCon	  {r2[ながお]}長押{/r2}し + 
+RCS_ControlGuide_BasicAction05SingleJoyCon	 {r2[ながお]}長押{/r2}し + 
+RCS_ControlGuide_BasicAction05Title	しゃがみジャンプ
+RCS_ControlGuide_BasicAction06DualJoyCon	{r2[くうちゅう]}空中{/r2}で 
+RCS_ControlGuide_BasicAction06SingleJoyCon	{r2[くうちゅう]}空中{/r2}で 
+RCS_ControlGuide_BasicAction06Title	ヒップドロップ
+RCS_ControlGuide_BasicAction07DualJoyCon	１．{r2[くうちゅう]}空中{/r2}で \n２．{r2[ちゃくち]}着地{/r2}した{r2[しゅんかん]}瞬間{/r2}に 
+RCS_ControlGuide_BasicAction07SingleJoyCon	１．{r2[くうちゅう]}空中{/r2}で \n２．{r2[ちゃくち]}着地{/r2}した{r2[しゅんかん]}瞬間{/r2}に 
+RCS_ControlGuide_BasicAction07Title	ヒップドロップジャンプ
+RCS_ControlGuide_BasicAction08DualJoyCon	いどう{r2[ちゅう]}中{/r2}に  + 
+RCS_ControlGuide_BasicAction08SingleJoyCon	いどう{r2[ちゅう]}中{/r2}に  + 
+RCS_ControlGuide_BasicAction08Title	{r2[はばと]}幅跳{/r2}び
+RCS_ControlGuide_BasicAction09DualJoyCon	 + 
+RCS_ControlGuide_BasicAction09SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction09Title	ころがる
+RCS_ControlGuide_BasicAction10DualJoyCon	ころがり{r2[ちゅう]}中{/r2}に 
+RCS_ControlGuide_BasicAction10SingleJoyCon	ころがり{r2[ちゅう]}中{/r2}に 
+RCS_ControlGuide_BasicAction10Title	ころがり{r2[はばと]}幅跳{/r2}び
+RCS_ControlGuide_BasicAction11DualJoyCon	{r2[くうちゅう]}空中{/r2}で  + 
+RCS_ControlGuide_BasicAction11SingleJoyCon	{r2[くうちゅう]}空中{/r2}で  + 
+RCS_ControlGuide_BasicAction11Title	{r2[ちゅうがえ]}宙返{/r2}り
+RCS_ControlGuide_BasicAction12DualJoyCon	いどう{r2[ちゅう]}中{/r2}に  ({r2[ぎゃくほうこう]}逆方向{/r2}) + 
+RCS_ControlGuide_BasicAction12SingleJoyCon	いどう{r2[ちゅう]}中{/r2}に  ({r2[ぎゃくほうこう]}逆方向{/r2}) + 
+RCS_ControlGuide_BasicAction12Title	{r2[よこちゅうがえ]}横宙返{/r2}り
+RCS_ControlGuide_BasicAction13DualJoyCon	{r2[かべ]}壁{/r2}にくっついて 
+RCS_ControlGuide_BasicAction13SingleJoyCon	{r2[かべ]}壁{/r2}にくっついて 
+RCS_ControlGuide_BasicAction13Title	{r2[かべ]}壁{/r2}キック
+RCS_ControlGuide_BasicAction14DualJoyCon	
+RCS_ControlGuide_BasicAction14SingleJoyCon	
+RCS_ControlGuide_BasicAction14Title	ひっかく
+RCS_ControlGuide_BasicAction15DualJoyCon	 + 
+RCS_ControlGuide_BasicAction15SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction15Title	スライディング
+RCS_ControlGuide_BasicAction16DualJoyCon	{r2[くうちゅう]}空中{/r2}で  {r2[ながお]}長押{/r2}し
+RCS_ControlGuide_BasicAction16SingleJoyCon	{r2[くうちゅう]}空中{/r2}で  {r2[ながお]}長押{/r2}し
+RCS_ControlGuide_BasicAction16Title	とびつき
+RCS_ControlGuide_BasicAction17DualJoyCon	{r2[かべ]}壁{/r2}にくっついて 
+RCS_ControlGuide_BasicAction17SingleJoyCon	{r2[かべ]}壁{/r2}にくっついて  
+RCS_ControlGuide_BasicAction17Title	{r2[かべ]}壁{/r2}のぼり
+RCS_ControlGuide_BasicAction18DualJoyCon	
+RCS_ControlGuide_BasicAction18SingleJoyCon	
+RCS_ControlGuide_BasicAction18Title	ファイアボール
+RCS_ControlGuide_BasicAction19DualJoyCon	
+RCS_ControlGuide_BasicAction19SingleJoyCon	
+RCS_ControlGuide_BasicAction19Title	ブーメラン
+RCS_ControlGuide_BasicAction20DualJoyCon	
+RCS_ControlGuide_BasicAction20SingleJoyCon	
+RCS_ControlGuide_BasicAction20Title	しっぽこうげき
+RCS_ControlGuide_BasicAction21DualJoyCon	 {r2[ながお]}長押{/r2}し
+RCS_ControlGuide_BasicAction21SingleJoyCon	 {r2[ながお]}長押{/r2}し
+RCS_ControlGuide_BasicAction21Title	ゆっくり{r2[こうか]}降下{/r2}する
+RCS_ControlGuide_BasicAction22DualJoyCon	 + 
+RCS_ControlGuide_BasicAction22SingleJoyCon	 + 
+RCS_ControlGuide_BasicAction22Title	シャボンに{r2[はい]}入{/r2}る
+RCS_ControlGuide_BasicAction23DualJoyCon	{r2[なかま]}仲間{/r2}の{r2[ちか]}近{/r2}くで 
+RCS_ControlGuide_BasicAction23SingleJoyCon	{r2[なかま]}仲間{/r2}の{r2[ちか]}近{/r2}くで 
+RCS_ControlGuide_BasicAction23Title	{r2[なかま]}仲間{/r2}を{r2[も]}持{/r2}ち{r2[あ]}上{/r2}げる
+RCS_ControlGuide_BasicAction24DualJoyCon	{r2[なかま]}仲間{/r2}を{r2[も]}持{/r2}っているときに 
+RCS_ControlGuide_BasicAction24SingleJoyCon	{r2[なかま]}仲間{/r2}を{r2[も]}持{/r2}っているときに 
+RCS_ControlGuide_BasicAction24Title	{r2[なかま]}仲間{/r2}を{r2[な]}投{/r2}げる
+RCS_ControlGuide_BasicAction25DualJoyCon	タイミングを{r2[あ]}合{/r2}わせて{r2[くうちゅう]}空中{/r2}で 
+RCS_ControlGuide_BasicAction25SingleJoyCon	タイミングを{r2[あ]}合{/r2}わせて{r2[くうちゅう]}空中{/r2}で 
+RCS_ControlGuide_BasicAction25Title	{r2[どうじ]}同時{/r2}ヒップドロップ
+RCS_ControlGuide_GuideOtherInfo_Network	スーパーマリオ ３Dワールドには\nオンラインでフレンドと{r2[ま]}待{/r2}ち{r2[あ]}合{/r2}わせてあそぶ フレンド{r2[つうしん]}通信{/r2} と\n{r2[ちか]}近{/r2}くのSwitchを{r2[せつぞく]}接続{/r2}してあそぶ ローカル{r2[つうしん]}通信{/r2} があります\nそれぞれ{r2[さいだい]}最大{/r2}４{r2[にん]}人{/r2}まで{r2[さんか]}参加{/r2}ができ １{r2[だい]}台{/r2}のSwitchからは{r2[ふたり]}２人{/r2}まで{r2[さんか]}参加{/r2}することができます\nはじめるときは コース{r2[せんたくがめん]}選択画面{/r2}で （または  ）を{r2[お]}押{/r2}してください
+MessageData\LayoutMessage_szs\RCS_ControlGuideBarNetworkInfo.msbt
+RCS_ControlGuideBarNetworkInfo_TxtNetworkConnectionInfo	通信状態が よくありません
+MessageData\LayoutMessage_szs\RCS_ControlGuideBarParts.msbt
+RCS_ControlGuideBarParts_FileOverlaySaveStart	セーブしています…
+RCS_ControlGuideBarParts_FileOverlayDeleteStart	{r2[しょうきょ]}消去{/r2}しています…
+RCS_ControlGuideBarParts_FileOverlaySaveEnd	セーブしました
+RCS_ControlGuideBarParts_FileOverlayDeleteEnd	{r2[しょうきょ]}消去{/r2}しました
+RCS_ControlGuideBarParts_NetworkInfoPlayer	ゲーム{r2[かいし]}開始{/r2}を{r2[ま]}待{/r2}っています
+MessageData\LayoutMessage_szs\RCS_PauseNetwork.msbt
+RCS_PauseNetwork_ButtonLocal	ローカル{r2[つうしん]}通信{/r2}
+RCS_PauseNetwork_ButtonFriend	フレンド{r2[つうしん]}通信{/r2}
+RCS_PauseNetwork_MainMenuHeader	{r2[つうしん]}通信{/r2}であそぶ
+RCS_PauseNetwork_ButtonHost	{r2[へや]}部屋{/r2}をつくる
+RCS_PauseNetwork_SearchHeader	{r2[へや]}部屋{/r2}リスト
+RCS_PauseNetwork_HostStartHeader	パスワード{r2[せってい]}設定{/r2}
+RCS_PauseNetwork_HostGuestSelectInfo	{r2[へや]}部屋{/r2}をつくった{r2[ひと]}人{/r2}の\n\x0e\0\x03\x02\x01\0セーブファイル\x0e\0\x03\x02ÿÿであそびます\n{s[075]}あそんだ{r2[けっか]}結果{/r2}はそのままセーブされます{s[100]}
+RCS_PauseNetwork_ButtonJoin	あそびにいく
+RCS_PauseNetwork_ButtonHostStart	{r2[せってい]}設定{/r2}しない
+RCS_PauseNetwork_ButtonHostStartPasscode	パスワードを{r2[せってい]}設定{/r2}する
+RCS_PauseNetwork_HostStartInfo	パスワードを{r2[せってい]}設定{/r2}すると\nパスワードを{r2[し]}知{/r2}っているフレンドだけが\n{r2[へや]}部屋{/r2}に{r2[はい]}入{/r2}ることができます
+RCS_PauseNetwork_SearchEmpty	{r2[へや]}部屋{/r2}が{r2[み]}見{/r2}つかりませんでした
+MessageData\LayoutMessage_szs\RCS_PauseOptions.msbt
+RCS_PauseOptions_Options	オプション
+RCS_PauseOptions_Sensitivity	カメラ：{r2[かんど]}感度{/r2}
+RCS_PauseOptions_Horizontal	カメラ：よこ{r2[ほうこう]}方向{/r2}
+RCS_PauseOptions_Vertical	カメラ：たて{r2[ほうこう]}方向{/r2}
+RCS_PauseOptions_Assist	クッパJr.のおたすけ
+MessageData\LayoutMessage_szs\RCS_SaveData.msbt
+RCS_SaveData_NoData	データなし
+RCS_SaveData_Info	ファイルを{r2[せんたく]}選択{/r2}してください
+RCS_SaveData_Playing	プレイ中
+MessageData\LayoutMessage_szs\RCS_SaveDataManage.msbt
+RCS_SaveDataManage_Header	データ{r2[かんり]}管理{/r2}
+RCS_SaveDataManage_Load	ロードする
+RCS_SaveDataManage_Delete	{r2[しょうきょ]}消去{/r2}する
+RCS_SaveDataManage_Save	セーブする
+MessageData\LayoutMessage_szs\RCS_SceneSkip.msbt
+RCS_SceneSkip_Skip	 /  スキップ
+MessageData\LayoutMessage_szs\RCS_SnapshotSceneLayout.msbt
+RCS_SnapshotSceneLayout_TakePicture	 さつえい
+RCS_SnapshotSceneLayout_Header	スナップショットモード
+RCS_SnapshotSceneLayout_Move	 いどう
+RCS_SnapshotSceneLayout_Rotate	 かいてん
+RCS_SnapshotSceneLayout_Tilt	 /  かたむける
+RCS_SnapshotSceneLayout_ChangeFilter	 /  フィルター
+RCS_SnapshotSceneLayout_Zoom	 /  ズーム
+RCS_SnapshotSceneLayout_ToggleDisplay	 {r2[ひょうじ]}表示{/r2} / {r2[ひひょうじ]}非表示{/r2}
+RCS_SnapshotSceneLayout_Quit	 やめる
+RCS_SnapshotSceneLayout_Warning	さつえい{r2[ばしょ]}場所{/r2}によっては{r2[そうさ]}操作{/r2}できない{r2[ばあい]}場合{/r2}もあります
+RCS_SnapshotSceneLayout_Logo	 ロゴ
+MessageData\LayoutMessage_szs\RCS_TopMenu.msbt
+RCS_TopMenu_3DWorldPlay	スーパーマリオ ３Dワールド
+RCS_TopMenu_SingleModePlay	フューリーワールド
+RCS_TopMenu_3DWorldInfo	１～４人でたのしめます  通信であそべます
+RCS_TopMenu_SingleModeInfo	１～２人でたのしめます
+RCS_TopMenu_Resume	つづきから
+RCS_TopMenu_NewGame	はじめから
+MessageData\LayoutMessage_szs\StaffRollFin.msbt
+StaffRollFin_Fin	Fin.
+MessageData\LayoutMessage_szs\StaffRollNintendo.msbt
+MessageData\LayoutMessage_szs\TalkBalloon.msbt
+TalkBalloon_Talk	HELP!!
+TalkBalloon_TalkBowserJr	HELP!
+MessageData\LayoutMessage_szs\ThankYouForPlaying.msbt
+ThankYouForPlaying_Thanks	{s[100]}THANK YOU FOR PLAYING!{s[100]}
+MessageData\LayoutMessage_szs\TitleLogo.msbt
+TitleLogo_Resume	つづきから
+TitleLogo_NewGame	はじめから
+MessageData\LayoutMessage_szs\WipeCurtainResult.msbt
+WipeCurtainResult_Time	クリアタイム 
+WipeCurtainResult_Score	クリアスコア 
+MessageData\LayoutMessage_szs\WipeCurtainStart.msbt
+WipeCurtainStart_World	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+WipeCurtainStart_Score	マイベストスコア 
+WipeCurtainStart_Time	マイベストタイム 
+MessageData\SystemMessage_szs\ControlGuide.msbt
+DualJoy	２{r2[ほんも]}本持{/r2}ち
+SingleJoy	{r2[よこも]}横持{/r2}ち
+AssistMode	２Pプレイ
+BasicActions	プレイヤーアクション
+Amiibo	amiibo
+TouchControls	タッチアクション
+SnapshotMode	スナップショットモード
+NetworkMultiplayer	{r2[つうしん]}通信{/r2}であそぶ
+MessageData\SystemMessage_szs\CourseSelectSceneLayout.msbt
+CourseSelectSceneLayout_GuideMenu_Plus	 メニュー
+CourseSelectSceneLayout_GuideMap_Dual	 マップ
+CourseSelectSceneLayout_GuideMenu_Minus	 メニュー
+CourseSelectSceneLayout_GuideMap_Single	 マップ
+CourseSelectSceneLayout_GuideNetwork_Dual	 通信であそぶ
+CourseSelectSceneLayout_GuideNetwork_Single	 通信であそぶ
+MessageData\SystemMessage_szs\GameOverMenu.msbt
+MessageData\SystemMessage_szs\GuideMessage.msbt
+RaidonRideDualJoycons	\x0e\0\x01\x02\x05\05\x0e\0\x01\x02ÿÿ ダッシュ    ジャンプ
+RaidonRideSingleJoycons	\x0e\0\x01\x02\x05\06\x0e\0\x01\x02ÿÿ ダッシュ    ジャンプ
+KinopioBrigadeDualJoycons	 みまわす
+KinopioBrigadeSingleJoycons	 +  みまわす
+WorldMapStartDualJoycons	 ジャンプ
+WorldMapStartSingleJoycons	 ジャンプ
+RabbitDashDualJoycons	 +  ダッシュ
+RabbitDashSingleJoycons	 +  ダッシュ
+TouchGuideMessageDualJoycons	 タッチ\n{s[075]}コントローラーをかたむけて ポインター{r2[そうさ]}操作{/r2}{s[100]}
+TouchGuideMessageSingleJoycons	 タッチ\n{s[075]}コントローラーをかたむけて ポインター{r2[そうさ]}操作{/r2}{s[100]}
+TouchGuideMessage_Handheld	 にタッチしてモノにさわる
+MessageData\SystemMessage_szs\IslandMap.msbt
+IslandMap_Warp	 ワープ
+IslandMap_Warp_SingleJoycon	 ワープ
+MessageData\SystemMessage_szs\IslandName.msbt
+Island1_Name	ファース島
+Island2_Name	ネコネコ島
+Island3_Name	ビョンビョン島
+Island4_Name	パタンパタン島
+Island5_Name	ロングスライダー
+Island6_Name	トウメイ島
+Island7_Name	コロッセオ島
+Island8_Name	プロペラ砦
+Island9_Name	チクワッカ島
+Island10_Name	ネコマンマウンテン
+Island11_Name	ローリングファクトリー
+Island12_Name	ドカンタワー
+Island14_Name	はまべのギガベル
+Island15_Name	いせきのギガベル
+Island16_Name	あれちのギガベル
+OpenWater	ネコ湖
+LuckyIsland	ラッキーアイランド
+MessageData\SystemMessage_szs\LuigiBrosGuide.msbt
+LuigiBrosGuide_Dual	 もどる   SELECT   START
+LuigiBrosGuide_Left	 もどる   SELECT   START
+LuigiBrosGuide_Right	 もどる   SELECT   START
+MessageData\SystemMessage_szs\LuigiBrosMessage.msbt
+ConfirmComment	なつかしのゲーム マリオブラザーズのルイージ{r2[へん]}編{/r2}\n\x0e\0\x03\x02\x02\0ルイージブラザーズ\x0e\0\x03\x02ÿÿで あそびますか？
+ConfirmComment_Left	キャンセル
+ConfirmComment_Right	あそぶ
+ControllerWarning	\x0e\0\x03\x02\x02\0ルイージブラザーズ\x0e\0\x03\x02ÿÿを{r2[ふたり]}２人{/r2}であそびたいときは\n\x0e\0\x03\x02\x03\0 {r2[ホーム]}HOME{/r2} ＞  コントローラー\x0e\0\x03\x02ÿÿ で\nコントローラーを２{r2[ほんせつぞく]}本接続{/r2}してください
+MessageData\SystemMessage_szs\NetworkingErrors.msbt
+GenericError	エラーが{r2[はっせい]}発生{/r2}しました\n\nしばらく{r2[ま]}待{/r2}って やりなおしてください
+GenericError_Btn	OK
+Timeout	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+Timeout_Btn	OK
+MeshIsFull	{r2[せつぞくさき]}接続先{/r2}が{r2[まんいん]}満員{/r2}で{r2[さんか]}参加{/r2}できませんでした\n\nしばらく{r2[ま]}待{/r2}って やりなおしてください
+MeshIsFull_Btn	OK
+SessionIsNotFound	エラーが{r2[はっせい]}発生{/r2}しました\n\nしばらく{r2[ま]}待{/r2}って やりなおしてください
+SessionIsNotFound_Btn	OK
+MatchmakeSessionIsFull	エラーが{r2[はっせい]}発生{/r2}しました\n\nしばらく{r2[ま]}待{/r2}って やりなおしてください
+MatchmakeSessionIsFull_Btn	OK
+DeniedByParticipant	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+DeniedByParticipant_Btn	OK
+ParticipantInBlockList	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+ParticipantInBlockList_Btn	OK
+SessionUserPasswordUnmatch	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+SessionUserPasswordUnmatch_Btn	OK
+SessionWrongState	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+SessionWrongState_Btn	OK
+GameServerProcessAborted	{r2[せつぞくさき]}接続先{/r2}が{r2[まんいん]}満員{/r2}で{r2[さんか]}参加{/r2}できませんでした\n\nしばらく{r2[ま]}待{/r2}って やりなおしてください
+GameServerProcessAborted_Btn	OK
+UserAccountNotExisted	エラーが{r2[はっせい]}発生{/r2}しました\nしばらく{r2[ま]}待{/r2}って やりなおしてください\n\n{s[075]}このエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは\nHOMEメニューの  {r2[せってい]}設定{/r2} ＞ 「{r2[ほんたい]}本体{/r2}」 \nで{r2[ほんたい]}本体{/r2}の{r2[こうしん]}更新{/r2}をおためしください{s[100]}
+UserAccountNotExisted_Btn	OK
+MessageData\SystemMessage_szs\PauseMenu.msbt
+CameraNormal	ノーマル
+CameraReverse	リバース
+CameraSensitivityVeryLow	すごく{r2[ひく]}低{/r2}い
+CameraSensitivityLow	{r2[ひく]}低{/r2}い
+CameraSensitivityMedium	ふつう
+CameraSensitivityHigh	{r2[たか]}高{/r2}い
+CameraSensitivityVeryHigh	すごく{r2[たか]}高{/r2}い
+AssistOff	なにもしない
+AssistLow	まあまあ
+AssistOn	すごくたすける
+NetworkDisconnectLocal	{r2[つうしん]}通信{/r2}をやめる
+NetworkDisconnectFriend	{r2[つうしん]}通信{/r2}をやめる
+2PPlayStart	２Pプレイ
+2PPlayStop	２Pプレイをやめる
+PauseMenuMap_World	WORLD \x0e\x03\0\x04\0\0\0\0
+PauseMenuMap_WorldStage	WORLD \x0e\x03\0\x04\0\0\0\0-\x0e\x03\x01\x04\x01\0\0\0
+MessageData\SystemMessage_szs\PlayerEntryMessage.msbt
+PlayerEntryMiniParts_Change	へんこう
+PlayerEntryMiniParts_Cancel	キャンセル
+PlayerEntryMiniParts_Decide	決定
+PlayerEntryParts_Decide	決定
+PlayerEntryParts_Cancel	キャンセル
+MessageData\SystemMessage_szs\PlayerName.msbt
+Mario	マリオ
+Luigi	ルイージ
+Peach	ピーチ
+Kinopio	キノピオ
+Rosetta	ロゼッタ
+MessageData\SystemMessage_szs\RCS_ControlGuideBar.msbt
+ControlGuideBar_Back	 もどる
+ControlGuideBar_Back_Gen	 もどる
+ListClearStar	 もどる
+ListClearStar_Gen	 もどる
+ListStamp	 もどる
+ListStamp_Gen	 もどる
+MapMenu	 もどる    {r2[けってい]}決定{/r2}
+MapMenu_Gen	 もどる    {r2[けってい]}決定{/r2}
+PauseMenu	 もどる    {r2[けってい]}決定{/r2}
+PauseMenu_Gen	 もどる    {r2[けってい]}決定{/r2}
+PauseMenuMap	 もどる    {r2[けってい]}決定{/r2}
+PauseMenuMap_Gen	 もどる    {r2[けってい]}決定{/r2}
+RCS_ControlGuide	 もどる
+RCS_ControlGuide_Gen	 もどる
+RCS_SaveData	 もどる    {r2[けってい]}決定{/r2}
+RCS_SaveData_Gen	 もどる    {r2[けってい]}決定{/r2}
+Confirm	 {r2[けってい]}決定{/r2}
+TitleLogo	 もどる
+TitleLogo_Gen	 もどる
+SingleModeMap	 カーソルいどう    ズーム    とじる
+SingleModeMap_SingleJoycon	 カーソルいどう    +  ズーム    とじる
+RCS_ControlGuideBar_NetworkInfoHost	あそぶ{r2[ひと]}人{/r2}が そろったら  でゲーム{r2[かいし]}開始{/r2}
+RCS_ControlGuideBar_NetworkInfoHost_Gen	あそぶ{r2[ひと]}人{/r2}が そろったら  でゲーム{r2[かいし]}開始{/r2}
+RCS_ControlGuideBar_NetworkInfoHost_Wait	いっしょにあそぶ{r2[ひと]}人{/r2}をまっています
+RCS_ControlGuideBar_VoiceInfoOption	 ボイスチャットについて    もどる    {r2[けってい]}決定{/r2}
+RCS_ControlGuideBar_VoiceInfoOption_SingleJoycon	 ボイスチャットについて    もどる    {r2[けってい]}決定{/r2}
+ControlGuideBar_NetworkBack	 /  {r2[つうしん]}通信{/r2}をやめる
+MessageData\SystemMessage_szs\RCS_CourseSelectSubHeaderParts.msbt
+Map	ようせいの{r2[くに]}国{/r2} マップ
+Stamps	ハンコ コレクション
+Progress	クリアリスト
+MessageData\SystemMessage_szs\RCS_PauseNetwork.msbt
+RCS_PauseNetwork_LocalInfo	{r2[ちか]}近{/r2}くのSwitchを{r2[せつぞく]}接続{/r2}すれば\n{r2[さいだい]}最大{/r2}４{r2[にん]}人{/r2}であそべます\n１{r2[だい]}台{/r2}のSwitchから{r2[ふたり]}２人{/r2}まで{r2[さんか]}参加{/r2}できます
+RCS_PauseNetwork_FriendInfo	オンラインでフレンドと{r2[ま]}待{/r2}ち{r2[あ]}合{/r2}わせれば \n{r2[さいだい]}最大{/r2}４{r2[にん]}人{/r2}であそべます\n１{r2[だい]}台{/r2}のSwitchから{r2[ふたり]}２人{/r2}まで{r2[さんか]}参加{/r2}できます
+RCS_PauseNetwork_EndConnection	{r2[へや]}部屋{/r2}からプレイヤーがいなくなりました\n{r2[つうしん]}通信{/r2}を{r2[しゅうりょう]}終了{/r2}します
+RCS_PauseNetwork_FriendSearchResults	{r2[ま]}待{/r2}っているフレンドが{r2[ひょうじ]}表示{/r2}されます
+RCS_PauseNetwork_LocalSearchResults	だれとあそびますか？
+RCS_PauseNetwork_HostGuestLocal	ローカル{r2[つうしん]}通信{/r2}
+RCS_PauseNetwork_HostGuestFriend	フレンド{r2[つうしん]}通信{/r2}
+RCS_PauseNetwork_RefreshSearch	 {r2[こうしん]}更新{/r2}
+RCS_PauseNetwork_RefreshSearch_Gen	 {r2[こうしん]}更新{/r2}
+RCS_PauseNetwork_Connecting	{r2[つうしん]}通信{/r2}の{r2[じゅんび]}準備{/r2}をしています…
+RCS_PauseNetwork_Shutdown	{r2[つうしん]}通信{/r2}を{r2[しゅうりょう]}終了{/r2}しています…
+RCS_PauseNetwork_SessionSlots	のこり ： \x0e\x02\0\x04\0\0\0\0
+RCS_PauseNetwork_EnterNewPasscode	パスワードを{r2[にゅうりょく]}入力{/r2}してください
+RCS_PauseNetwork_NowOffline	{r2[つうしん]}通信{/r2}を{r2[しゅうりょう]}終了{/r2}しました
+RCS_PauseNetwork_OverCapacity	{r2[ていいん]}定員{/r2}を{r2[こ]}超{/r2}えるので{r2[さんか]}参加{/r2}できません
+RCS_PauseNetwork_EndConnectionError	{r2[つうしん]}通信{/r2}に エラーがおきました\n{r2[つうしん]}通信{/r2}を{r2[しゅうりょう]}終了{/r2}します
+MessageData\SystemMessage_szs\RCS_SaveData.msbt
+WindowConfirmDouble_Overwrite	ファイルを{r2[うわが]}上書{/r2}きします\nよろしいですか？\n\n{s[075]}{r2[うわが]}上書{/r2}きすると もとにもどすことができません{s[100]}
+WindowConfirmDouble_Overwrite_Left	キャンセル
+WindowConfirmDouble_Overwrite_Right	{r2[うわが]}上書{/r2}きする
+WindowConfirmDouble_Delete	ファイルを{r2[しょうきょ]}消去{/r2}します\nよろしいですか？\n\n{s[075]}{r2[しょうきょ]}消去{/r2}すると もとにもどすことができません{s[100]}
+WindowConfirmDouble_Delete_Left	キャンセル
+WindowConfirmDouble_Delete_Right	{r2[しょうきょ]}消去{/r2}する
+WindowConfirmDouble_Load	ファイルをロードします\nよろしいですか？\n\n{s[075]}{r2[いま]}今{/r2}あそんでいるファイルをセーブしないで{r2[しゅうりょう]}終了{/r2}します{s[100]}
+WindowConfirmDouble_Load_Left	キャンセル
+WindowConfirmDouble_Load_Right	ロードする
+RCS_SaveData_FileDateTime	\x0e\x02\x03\x04\0\0\0\0/\x0e\x02\x01\x04\x01\0\0\0/\x0e\x02\x01\x04\x02\0\0\0   \x0e\x02\x01\x04\x03\0\0\0:\x0e\x02\x01\x04\x04\0\0\0
+RCS_SaveData_HeaderLoad	ロード
+RCS_SaveData_HeaderSave	セーブ
+RCS_SaveData_HeaderDelete	{r2[しょうきょ]}消去{/r2}
+WindowConfirmReport_PlayingFile	プレイ{r2[ちゅう]}中{/r2}のファイルは{r2[しょうきょ]}消去{/r2}できません
+RCS_SaveData_World	WORLD \x0e\x03\0\x04\0\0\0\0
+MessageData\SystemMessage_szs\RCS_SnapshotSceneLayout.msbt
+PlaceStamp	 ハンコを{r2[お]}押{/r2}す
+PlaceStamp_Handheld	\x0e\0\x01\x02\x05\04\x0e\0\x01\x02ÿÿ ハンコを{r2[お]}押{/r2}す
+RotateStamp	 + 
+RotateStamp_Handheld	\x0e\0\x01\x02\x05\04\x0e\0\x01\x02ÿÿ + 
+ChangeStamp	 + 
+ChangeStamp_Handheld	\x0e\0\x01\x02\x05\04\x0e\0\x01\x02ÿÿ + 
+RotateStamp_Right	 ハンコかたむけ
+RotateStamp_Handheld_Right	 ハンコかたむけ
+ChangeStamp_Right	 ハンコ{r2[き]}切{/r2}り{r2[か]}替{/r2}え
+ChangeStamp_Handheld_Right	 ハンコ{r2[き]}切{/r2}り{r2[か]}替{/r2}え
+MessageData\SystemMessage_szs\RCS_TopMenu.msbt
+Confirm	 {r2[けってい]}決定{/r2}
+Confirm_Gen	 {r2[けってい]}決定{/r2}
+MessageData\SystemMessage_szs\SaveSequence.msbt
+WindowProcessing_Save	セーブしています…
+MessageData\SystemMessage_szs\ScenarioName.msbt
+Island1_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island1_Scenario2	{r2[かんぱん]}甲板{/r2}にラクガキしちゃえ！
+Island1_Scenario3	やっつけろ！フューリーシャドウ
+Island1_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island1_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island2_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island2_Scenario2	やっつけろ！フューリーシャドウ
+Island2_Scenario3	カゴのカギを{r2[さが]}探{/r2}せ！
+Island2_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island2_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island3_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island3_Scenario2	{r2[は]}跳{/r2}ねろ！チクタクアスレチック
+Island3_Scenario3	カゴのカギを{r2[さが]}探{/r2}せ！
+Island3_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island3_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island4_Scenario1	ネコドンケツをすべて{r2[お]}落{/r2}とせ！
+Island4_Scenario2	{r2[あお]}青{/r2}コインをすべて{r2[あつ]}集{/r2}めろ！
+Island4_Scenario3	ネコカメックをすべて{r2[たお]}倒{/r2}せ！
+Island4_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island4_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island5_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island5_Scenario2	{r2[あお]}青{/r2}コインをすべて{r2[あつ]}集{/r2}めろ！
+Island5_Scenario3	カゴのカギを{r2[さが]}探{/r2}せ！
+Island5_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island5_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island6_Scenario1	{r2[ちか]}近{/r2}くて{r2[とお]}遠{/r2}いネコシャイン
+Island6_Scenario2	{r2[あお]}青{/r2}コインをすべて{r2[あつ]}集{/r2}めろ！
+Island6_Scenario3	{r2[あしもとちゅうい]}足元注意{/r2}！チクタクアスレチック
+Island6_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island6_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island7_Scenario1	{r2[たいけつ]}対決{/r2}！ネコブンブン
+Island7_Scenario2	{r2[ぎゃくしゅう]}逆襲{/r2}！ネコプンプン
+Island7_Scenario3	{r2[けっとう]}決闘{/r2}！ネコブンブン
+Island7_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island7_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island8_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island8_Scenario2	{r2[と]}飛{/r2}べ！チクタクアスレチック
+Island8_Scenario3	やっつけろ！フューリーシャドウ
+Island8_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island8_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island9_Scenario1	やっつけろ！フューリーシャドウ
+Island9_Scenario2	{r2[た]}食{/r2}べつくせ！ネコチョロボン
+Island9_Scenario3	{r2[こ]}越{/r2}えろ！チクタクアスレチック
+Island9_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island9_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island10_Scenario1	{r2[たお]}倒{/r2}せ！ネコドンケツプリンス
+Island10_Scenario2	ネコマンマウンテンの{r2[ちょうじょう]}頂上{/r2}へ\t
+Island10_Scenario3	{r2[すす]}進{/r2}め！チクタクアスレチック
+Island10_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island10_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island11_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island11_Scenario2	{r2[わた]}渡{/r2}れ！チクタクアスレチック
+Island11_Scenario3	カゴのカギを{r2[さが]}探{/r2}せ！
+Island11_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island11_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Island12_Scenario1	{r2[かがや]}輝{/r2}け！{r2[とうだい]}灯台{/r2}のネコシャイン
+Island12_Scenario2	{r2[あお]}青{/r2}コインをすべて{r2[あつ]}集{/r2}めろ！
+Island12_Scenario3	カゴのカギを{r2[さが]}探{/r2}せ！
+Island12_Scenario4	ネコシャインチップを５{r2[まいあつ]}枚集{/r2}めろ！
+Island12_Scenario5	{r2[ねっせん]}熱線{/r2}で{r2[はっくつ]}発掘{/r2}！ネコシャイン
+Ocean_South_Scenario1	{r2[まわ]}回{/r2}して{r2[のぼ]}登{/r2}ってゲットだニャ！
+Ocean_South_Scenario2	{r2[みなみ]}南{/r2}のウサギをつかまえて！
+Ocean_South_Scenario3	{r2[みなみ]}南{/r2}の{r2[くも]}雲{/r2}の{r2[うえ]}上{/r2}で すべて{r2[たお]}倒{/r2}した！
+Ocean_South_Scenario4	プレッシーメダルコレクター！
+Ocean_South_Scenario5	プレッシーメダルゲッター！
+Ocean_South_Scenario6	{r2[まいご]}迷子{/r2}！キノピオ{r2[たんけんたい]}探検隊{/r2}
+Ocean_South_Scenario7	はまべの{r2[まいご]}迷子{/r2}の{r2[こ]}子{/r2}ネコちゃん
+Ocean_South_Scenario8	ブクブク！チクタクプレッシー
+Ocean_East_Scenario1	{r2[ひがし]}東{/r2}の{r2[くも]}雲{/r2}の{r2[うえ]}上{/r2}で すべて{r2[たお]}倒{/r2}した！
+Ocean_East_Scenario2	{r2[こりつ]}孤立{/r2}！キノピオ{r2[たんけんたい]}探検隊{/r2}
+Ocean_East_Scenario3	{r2[しまじま]}島々{/r2}を{r2[みお]}見下{/r2}ろして
+Ocean_East_Scenario4	{r2[げきとう]}激闘{/r2}！{r2[い]}入{/r2}り{r2[え]}江{/r2}のボックスバトル
+Ocean_East_Scenario5	ゴーゴー！チクタクプレッシー
+Ocean_East_Scenario6	いせきの{r2[まいご]}迷子{/r2}の{r2[こ]}子{/r2}ネコちゃん
+Ocean_North_Scenario1	{r2[きた]}北{/r2}のウサギをつかまえて！
+Ocean_North_Scenario2	{r2[みずうみ]}湖{/r2}のウサギをつかまえて！
+Ocean_North_Scenario3	プレッシーメダルマニア！
+Ocean_North_Scenario4	{r2[ひょうりゅう]}漂流{/r2}！キノピオ{r2[たんけんたい]}探検隊{/r2}
+Ocean_North_Scenario5	{r2[はくねつ]}白熱{/r2}！{r2[　ひょうじょう]}氷上{/r2}のボックスバトル
+Ocean_North_Scenario6	ザブザブ！チクタクプレッシー
+Ocean_North_Scenario7	{r2[りゅうひょう]}流氷{/r2}のネコシャイン
+Ocean_West_Scenario1	{r2[まわ]}回{/r2}して{r2[と]}飛{/r2}んでゲットだニャ！
+Ocean_West_Scenario2	{r2[にし]}西{/r2}のウサギをつかまえて！
+Ocean_West_Scenario3	{r2[にし]}西{/r2}の{r2[くも]}雲{/r2}の{r2[うえ]}上{/r2}で すべて{r2[たお]}倒{/r2}した！
+Ocean_West_Scenario4	プレッシーメダルマスター！
+Ocean_West_Scenario5	{r2[そうなん]}遭難{/r2}！キノピオ{r2[たんけんたい]}探検隊{/r2}
+Ocean_West_Scenario6	{r2[みずうみ]}湖{/r2}を{r2[みお]}見下{/r2}ろして
+Ocean_West_Scenario7	{r2[ねっせん]}熱戦{/r2}！{r2[こじま]}小島{/r2}のボックスバトル
+Ocean_West_Scenario8	{r2[かれつ]}苛烈{/r2}！{r2[みず]}水{/r2}たまりのボックスバトル
+Ocean_West_Scenario9	ツルツル！チクタクプレッシー
+Ocean_West_Scenario10	{r2[りとう]}離島{/r2}のネコシャイン
+Ocean_West_Scenario11	あれちの{r2[まいご]}迷子{/r2}の{r2[こ]}子{/r2}ネコちゃん
+Ocean_West_Scenario12	{r2[のぼ]}登{/r2}れ！チクタクアスレチック
+Ocean_West_Scenario13	{r2[すいもん]}水門{/r2}のネコシャイン
+Ocean_West_Scenario14	マグマを{r2[みお]}見下{/r2}ろして
+LuckyIslandScenario1	ラッキーアイランド１
+LuckyIslandScenario2	ラッキーアイランド２
+LuckyIslandScenario3	ラッキーアイランド３
+LuckyIslandScenario4	ラッキーアイランド４
+LuckyIslandScenario5	ラッキーアイランド５
+GigaBell_Scenario01	{r2[めざ]}目覚{/r2}めよ！ギガベル \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0 \x0e\0\x03\x02ÿÿ ５
+GigaBell_Scenario02	{r2[めざ]}目覚{/r2}めよ！ギガベル \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ １５
+GigaBell_Scenario03	{r2[めざ]}目覚{/r2}めよ！ギガベル \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ ２０
+GigaBell_Scenario04	{r2[めざ]}目覚{/r2}めよ！ギガベル \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ ４０
+GigaBell_Scenario05	{r2[めざ]}目覚{/r2}めよ！ギガベル \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ ５０
+MessageData\SystemMessage_szs\SingleModeSceneLayout.msbt
+SingleModeSceneLayout_GuideMenu	 メニュー
+SingleModeSceneLayout_GuideMap	 マップ
+MessageData\SystemMessage_szs\SingleMode_GenericDialogCutscene.msbt
+GigaBellCutscene_Phase1	お！ これは \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\03\x0e\0\x01\x02ÿÿ ギガベル\x0e\0\x03\x02ÿÿ！？\x0e\0\x04\0「\x0e\0\x03\x02\t\0 \x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿがあらわれしとき \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル\x0e\0\x03\x02ÿÿ も{r2[めざ]}目覚{/r2}める」 と\n{r2[き]}聞{/r2}いたことあるぞ\x0e\0\x04\0でもこんな{r2[え]}絵{/r2}の{r2[ぐ]}具{/r2}まみれじゃ{r2[むり]}無理{/r2}だ…\n\x0e\0\x03\x02\x01\0 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿをあつめれば ベトベトを{r2[お]}落{/r2}とせるかも？\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseStartGuide_Phase2_PartA	あー！ {r2[しず]}沈{/r2}んでいっちゃった…\x0e\0\x04\0\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん \x0e\0\x03\x02ÿÿが あのくらいで やられたとは{r2[おも]}思{/r2}えない！\x0e\0\x04\0{r2[もと]}元{/r2}にもどすには もっともっと \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ \x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0ネコシャイン \x0e\0\x03\x02ÿÿをあつめて\nぎゃふんと{r2[い]}言{/r2}わせるんだ！\x0e\0\x04\0{r2[え]}絵{/r2}の{r2[ぐ]}具{/r2}が{r2[き]}消{/r2}えて {r2[い]}行{/r2}ける{r2[しま]}島{/r2}が{r2[ふ]}増{/r2}えたみたいだ\nほら マップを{r2[み]}見{/r2}てみてくれよ\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseStartGuide_Phase2_PartB	おっと！ ひとつ{r2[い]}言{/r2}い{r2[わす]}忘{/r2}れてた\x0e\0\x04\0マップはいつでも{r2[つか]}使{/r2}えるぞ\n{r2[まよ]}迷{/r2}ったら \x0e\0\x03\x02\x03\0（または  ）マップ\x0e\0\x03\x02ÿÿだ！\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseReturnGuide_Phase2	うーん！ なんで{r2[に]}逃{/r2}げるんだよ…\x0e\0\x04\0だけど \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん\x0e\0\x03\x02ÿÿ って{r2[に]}逃{/r2}げるのもうまいよな～！\x0e\0\x04\0\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\03\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿがまた{r2[え]}絵{/r2}の{r2[ぐ]}具{/r2}で{r2[よご]}汚{/r2}されちゃったから\nもっと\x0e\0\x03\x02\x01\0 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ が{r2[ひつよう]}必要{/r2}だ！\x0e\0\x04\0そういえば {r2[い]}行{/r2}ったことがある{r2[しま]}島{/r2}にまだ{r2[のこ]}残{/r2}っているかも…\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseStartGuide_Phase3	くっそー！ {r2[こんど]}今度{/r2}こそ{r2[もと]}元{/r2}にもどると{r2[おも]}思{/r2}ったのに\x0e\0\x04\0… \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん \x0e\0\x03\x02ÿÿって すごくがんじょうだよな！\x0e\0\x04\0こうしちゃいられない！\n{r2[む]}向{/r2}こうの{r2[たき]}滝{/r2}の{r2[うえ]}上{/r2}へ\x0e\0\x03\x02\x01\0 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ を{r2[さが]}探{/r2}しに{r2[い]}行{/r2}くぞ！\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseReturnGuide_Phase3	\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん\x0e\0\x03\x02ÿÿ {r2[ほんとう]}本当{/r2}にどうしちゃったんだよ\nつぎに{r2[あ]}会{/r2}うのが こわくなってきた…\x0e\0\x04\0だけど もう{r2[すこ]}少{/r2}しで{r2[なん]}何{/r2}とかなる{r2[き]}気{/r2}がする…\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseStartGuide_Phase4_PartA	{r2[ほんとう]}本当{/r2}はこの{r2[みずうみ]}湖{/r2}で\x0e\0\x03\x02\x02\0 \x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん \x0e\0\x03\x02ÿÿと\nのんびり{r2[す]}過{/r2}ごすはずだったんだけどなー\x0e\0\x04\0あっ！\x0e\0\x03\x02\x01\0 \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ がありそうなところに{r2[しるし]}印{/r2}をつけといたんだ\n\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん\x0e\0\x03\x02ÿÿをもどすの {r2[てつだ]}手伝{/r2}ってくれるよな！\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+PhaseStartGuide_Phase4_PartB	そうだ！ いろいろ{r2[てつだ]}手伝{/r2}ってくれてるから\nサービスしてやるぞ！！\x0e\0\x04\0マップで{r2[い]}行{/r2}きたい{r2[しま]}島{/r2}をえらんだら\n\x0e\0\x03\x02\x03\0 ワープ \x0e\0\x03\x02ÿÿで{r2[つ]}連{/r2}れてってやるよ\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+MessageData\SystemMessage_szs\SingleMode_GuideMessage.msbt
+PlayerControlsGuide_DualJoycons	 ジャンプ\n{s[075]} みまわす{s[100]}
+PlayerControlsGuide_SingleJoycons	 ジャンプ\n{s[075]} +  みまわす{s[100]}
+CameraControlsGuide_DualJoycons	 みまわす
+CameraControlsGuide_SingleJoycons	 +  みまわす
+HipDropGuide_DualJoycons	{r2[くうちゅう]}空中{/r2}で  ヒップドロップ
+HipDropGuide_SingleJoycons	{r2[くうちゅう]}空中{/r2}で  ヒップドロップ
+FlingPoleGuide_DualJoycons	 はじく    やめる
+FlingPoleGuide_SingleJoycons	 はじく    やめる
+PlessiGuide_DualJoycons	 おりる    ジャンプ
+PlessiGuide_SingleJoycons	 おりる    ジャンプ
+PlessiDismountGuide_DualJoycons	 おりる
+PlessiDismountGuide_SingleJoycons	 おりる
+PlessiDiveGuide_DualJoycons	 もぐる\n{s[075]}もぐってからジャンプすると スピードUP{s[100]}
+PlessiDiveGuide_SingleJoycons	 もぐる\n{s[075]}もぐってからジャンプすると スピードUP{s[100]}
+BowserJrControlsGuide_DualJoycons	 こうげき    {r2[じょうしょう]}上昇{/r2}する\n{s[075]} みまわす{s[100]}
+BowserJrControlsGuide_SingleJoycons	 こうげき    {r2[じょうしょう]}上昇{/r2}する\n{s[075]} +  みまわす{s[100]}
+GyroControlsGuide_DualJoycons	 クッパJr.に たのむ\n{s[075]}コントローラーをかたむけて ポインター{r2[そうさ]}操作{/r2}{s[100]}
+GyroControlsGuide_Handheld	 タッチしてクッパJr.に たのむ
+KouraGuide_DualJoycons	 コウラ
+KouraGuide_SingleJoycons	 コウラ
+PickupGuide_DualJoycons	 {r2[も]}持{/r2}つ\n{s[075]} を{r2[お]}押{/r2}しながら{r2[ちか]}近{/r2}づくと {r2[も]}持{/r2}ちやすい{s[100]}
+PickupGuide_SingleJoycons	 {r2[も]}持{/r2}つ\n{s[075]} を{r2[お]}押{/r2}しながら{r2[ちか]}近{/r2}づくと {r2[も]}持{/r2}ちやすい{s[100]}
+PickupSpikeGuide_DualJoycons	 {r2[も]}持{/r2}つ\n{s[075]} を{r2[お]}押{/r2}しながら{r2[ちか]}近{/r2}づくと {r2[も]}持{/r2}ちやすい{s[100]}
+PickupSpikeGuide_SingleJoycons	 {r2[も]}持{/r2}つ\n{s[075]} を{r2[お]}押{/r2}しながら{r2[ちか]}近{/r2}づくと {r2[も]}持{/r2}ちやすい{s[100]}
+JumpGuide_DualJoycons	 ジャンプ
+DashGuide_DualJoycons	 +  ダッシュ
+DashGuide_SingleJoycons	 +  ダッシュ
+PropellerGuide_DualJoycons	 {r2[ながお]}長押{/r2}しでとぶ
+PropellerGuide_SingleJoycons	 {r2[ながお]}長押{/r2}しでとぶ
+MessageData\SystemMessage_szs\SingleMode_PlayerName.msbt
+Mario	マリオ
+BowserJr	クッパJr.
+MessageData\SystemMessage_szs\SingleMode_WindowMessage.msbt
+BowserJrExplanation_01	\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん \x0e\0\x03\x02ÿÿがおかしくなったので {r2[たす]}助{/r2}けて{r2[ほ]}欲{/r2}しい\nかもしれない\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+BowserJrExplanation_02	{r2[じぶん]}自分{/r2}じゃ  \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ おとうさん\x0e\0\x03\x02ÿÿ をどうにもできなかったんだ\x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+BowserJrExplanation_02b	マリオにお{r2[ねが]}願{/r2}いするなんて{r2[ほんとう]}本当{/r2}はすごくイヤだけど\n{s[075]}たすけてよ…{s[100]} \x0e\0\x04\0…とクッパJr.は{r2[つた]}伝{/r2}えたいようだ
+BowserJrExplanation_03a	クッパJr.が{r2[なかま]}仲間{/r2}になった！\x0e\0\x04\0クッパJr.の\x0e\0\x03\x02\x01\0 「おたすけ」\x0e\0\x03\x02ÿÿ が{r2[つか]}使{/r2}えるようになります
+BowserJrExplanation_03b	クッパJr.が \x0e\0\x03\x02\x01\0「なにもしない」 \x0e\0\x03\x02ÿÿでいてくれます\nどれくらい 「おたすけ」 してもらうかは\n\x0e\0\x03\x02\x03\0 メニュー ＞ オプション\x0e\0\x03\x02ÿÿ から いつでも{r2[へんこう]}変更{/r2}できます\x0e\0\x04\0…さらに もうひとつアドバイス！\x0e\0\x04\0コントローラーをおすそわけすれば\nマリオとクッパJr.をそれぞれ{r2[そうさ]}操作{/r2}することができます\n\x0e\0\x03\x02\x03\0 メニュー ＞ ２Pプレイ\x0e\0\x03\x02ÿÿ をためしてみてください！
+BowserJrExplanation_03c	クッパJr.が \x0e\0\x03\x02\x01\0「まあまあ」 \x0e\0\x03\x02ÿÿおたすけしてくれます\nどれくらい 「おたすけ」 してもらうかは\n\x0e\0\x03\x02\x03\0 メニュー ＞ オプション\x0e\0\x03\x02ÿÿ から いつでも{r2[へんこう]}変更{/r2}できます\x0e\0\x04\0…さらに もうひとつアドバイス！\x0e\0\x04\0コントローラーをおすそわけすれば\nマリオとクッパJr.をそれぞれ{r2[そうさ]}操作{/r2}することができます\n\x0e\0\x03\x02\x03\0 メニュー ＞ ２Pプレイ\x0e\0\x03\x02ÿÿ をためしてみてください！
+BowserJrExplanation_03d	クッパJr.が \x0e\0\x03\x02\x01\0「すごくたすける」\x0e\0\x03\x02ÿÿ {r2[きも]}気持{/r2}ちマンマンです\nどれくらい 「おたすけ」 してもらうかは\n\x0e\0\x03\x02\x03\0 メニュー ＞ オプション\x0e\0\x03\x02ÿÿ から いつでも{r2[へんこう]}変更{/r2}できます\x0e\0\x04\0…さらに もうひとつアドバイス！\x0e\0\x04\0コントローラーをおすそわけすれば\nマリオとクッパJr.をそれぞれ{r2[そうさ]}操作{/r2}することができます\n\x0e\0\x03\x02\x03\0 メニュー ＞ ２Pプレイ\x0e\0\x03\x02ÿÿ をためしてみてください！
+AmiiboGuide	ここで{r2[とうだい]}灯台{/r2}からちょっと お{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\x01\0amiibo\x0e\0\x03\x02ÿÿが{r2[つか]}使{/r2}えます\x0e\0\x04\0\x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿを{r2[お]}押{/r2}しながら amiiboをタッチすると\nアイテムがもらえたり {r2[なに]}何{/r2}か{r2[へんか]}変化{/r2}が{r2[お]}起{/r2}こります\x0e\0\x04\0くわしくは \x0e\0\x03\x02\x03\0 メニュー ＞ ヘルプ\x0e\0\x03\x02ÿÿ をごらんください
+SnapshotGuide	ここで{r2[とうだい]}灯台{/r2}からいつもの お{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\x01\0スナップショットモード\x0e\0\x03\x02ÿÿをご{r2[ぞんじ]}存知{/r2}ですか？\x0e\0\x04\0\x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ を{r2[お]}押{/r2}すと プレイ{r2[がめん]}画面{/r2}の{r2[さつえい]}撮影{/r2}を{r2[たの]}楽{/r2}しむことができます\n{r2[けしき]}景色{/r2}の{r2[よ]}良{/r2}いところで ためしてみてください！
+ScenarioGuide	ここで{r2[とうだい]}灯台{/r2}からちょっとした お{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿの{r2[かがや]}輝{/r2}きで {r2[え]}絵{/r2}の{r2[ぐ]}具{/r2}の{r2[よご]}汚{/r2}れを{r2[お]}落{/r2}とせます\x0e\0\x04\0でもでも  \x0e\0\x03\x02\0\0\x0e\0\x01\x02\x03\0k\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿはきまぐれ…\x0e\0\x04\0{r2[み]}見{/r2}つからない{r2[とき]}時{/r2}は ほかの{r2[しま]}島{/r2}を{r2[さが]}探{/r2}してみましょう\x0e\0\x04\0{r2[とうだい]}灯台{/r2}のある{r2[しま]}島{/r2}が{r2[あや]}怪{/r2}しいので\nぜひ {r2[たか]}高{/r2}いところから{r2[み]}見{/r2}まわしてみてください
+CoinRewardGuide	ここで{r2[とうだい]}灯台{/r2}から{r2[みみ]}耳{/r2}よりな お{r2[し]}知{/r2}らせです\x0e\0\x04\0コインをあつめてみてはいかがでしょう？\x0e\0\x04\0\x0e\0\x03\x02\x01\0１００{r2[まい]}枚{/r2}\x0e\0\x03\x02ÿÿあつめると {r2[へんしん]}変身{/r2}アイテムが１つもらえます\n{r2[へんしん]}変身{/r2}アイテムは１{r2[しゅるい]}種類{/r2}につき \x0e\0\x03\x02\x01\0{r2[さいだい]}最大{/r2}５つ\x0e\0\x03\x02ÿÿまでストックできます\x0e\0\x04\0きっと{r2[ぼうけん]}冒険{/r2}のやくに{r2[た]}立{/r2}つはず…
+ItemInventoryGuide	ここで{r2[とうだい]}灯台{/r2}からもうちょっと お{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\x01\0ストック\x0e\0\x03\x02ÿÿした{r2[へんしん]}変身{/r2}アイテムは\n\x0e\0\x03\x02\x03\0（または ）\x0e\0\x03\x02ÿÿを{r2[お]}押{/r2}すと{r2[えら]}選{/r2}んで{r2[つか]}使{/r2}えます\x0e\0\x04\0ちなみに （または ）を\x0e\0\x03\x02\x01\0{r2[ながお]}長押{/r2}し\x0e\0\x03\x02ÿÿすると\n\x0e\0\x03\x02\x01\0すぐに\x0e\0\x03\x02ÿÿアイテムを{r2[つか]}使{/r2}うこともできますよ\x0e\0\x04\0ぜひ{r2[かつよう]}活用{/r2}してみてください！
+HelpGuide	これが{r2[とうだい]}灯台{/r2}からの{r2[さいご]}最後{/r2}のお{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\x01\0ヘルプ \x0e\0\x03\x02ÿÿをご{r2[ぞんじ]}存知{/r2}ですか？\x0e\0\x04\0ヘルプでは{r2[きほんてき]}基本的{/r2}な{r2[あそ]}遊{/r2}びかただけでなく\n{r2[とくしゅ]}特殊{/r2}なアクションやお{r2[やくだ]}役立{/r2}ち{r2[じょうほう]}情報{/r2}をお{r2[つた]}伝{/r2}えしています\x0e\0\x04\0\x0e\0\x03\x02\x03\0 メニュー ＞ ヘルプ \x0e\0\x03\x02ÿÿをご{r2[かくにん]}確認{/r2}いただくと\nなにか{r2[あたら]}新{/r2}しい{r2[はっけん]}発見{/r2}があるかもしれません\x0e\0\x04\0…お{r2[し]}知{/r2}らせは{r2[いじょう]}以上{/r2}です\nもうアドバイスはありませーん！
+DisasterBlockGuide	ここで{r2[とうだい]}灯台{/r2}からまたまた お{r2[し]}知{/r2}らせです\x0e\0\x04\0\x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿの{r2[は]}吐{/r2}く{r2[きょうりょく]}強力{/r2}な{r2[ねっせん]}熱線{/r2}は\n{r2[なに]}何{/r2}かの{r2[かげ]}影{/r2}に{r2[かく]}隠{/r2}れれば{r2[さ]}避{/r2}けることができます\x0e\0\x04\0そういえば！\x0e\0\x04\0{r2[ねっせん]}熱線{/r2}でしか{r2[こわ]}壊{/r2}せない{r2[かた]}固{/r2}いブロックもあるみたいです
+ShineCountReached_Phase1_Count1	\x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿを ５こ あつめました！\x0e\0\x04\0… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『 \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿが あらわれしとき{r2[われ]}我{/r2}も{r2[めざ]}目覚{/r2}める… 』
+ShineCountReached_Phase2_Count1	\x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿを １５こ あつめました！\x0e\0\x04\0… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『 \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿが あらわれしとき {r2[われ]}我{/r2}も{r2[めざ]}目覚{/r2}める… 』
+ShineCountReached_Phase2_Count2	\x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿを ２０こ あつめました！\x0e\0\x04\0… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『 \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿが あらわれしとき {r2[われ]}我{/r2}も{r2[めざ]}目覚{/r2}める… 』
+ShineCountReached_Phase3_Count1	\x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン \x0e\0\x03\x02ÿÿを ４０こ あつめました！\x0e\0\x04\0… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『 \x0e\0\x03\x02\t\0\x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2}\x0e\0\x03\x02ÿÿ が あらわれしとき {r2[われ]}我{/r2}も{r2[めざ]}目覚{/r2}める… 』
+ShineCountReached_Phase4_Count1	おめでとうございます！\n\x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ をコンプリートしました！\x0e\0\x04\0… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『 すべての \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ のチカラで\n{r2[さいきょう]}最強{/r2}の\x0e\0\x03\x02\t\0 \x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿに{r2[ちょうせん]}挑戦{/r2}できる… 』
+ShineCountReached_SuperHardDisaster	… \x0e\0\x03\x02\x04\0\x0e\0\x01\x02\x05\02\x0e\0\x01\x02ÿÿ ギガベル \x0e\0\x03\x02ÿÿから{r2[こえ]}声{/r2}が{r2[き]}聞{/r2}こえる\x0e\0\x04\0『\x0e\0\x03\x02\t\0 \x0e\0\x01\x02\x05\07\x0e\0\x01\x02ÿÿ {r2[かいぶつ]}怪物{/r2} \x0e\0\x03\x02ÿÿは{r2[いか]}怒{/r2}り{r2[くる]}狂{/r2}っている\n   もう \x0e\0\x01\x02\x03\0\x0e\0\x03\x02\0\0k\x0e\0\x03\x02ÿÿ\x0e\0\x01\x02ÿÿ\x0e\0\x03\x02\x01\0 ネコシャイン\x0e\0\x03\x02ÿÿ の{r2[かがや]}輝{/r2}きでは{r2[おさ]}抑{/r2}えられぬ… 』
+MessageData\SystemMessage_szs\SnapshotFilterNames.msbt
+NoFilter	フィルター: なし
+PencilSketch	フィルター: {r2[てんびょう]}点描{/r2}
+Sepia	フィルター: セピア
+BlackAndWhite	フィルター: {r2[しろくろ]}白黒{/r2}
+FishEyeLens	フィルター: {r2[ぎょがん]}魚眼{/r2}カメラ
+Smear	フィルター: ブラー
+Hypercolor	フィルター: おしゃれ
+OilPainting	フィルター: {r2[あぶらえ]}油絵{/r2}
+Neon	フィルター: ネオン
+Tile	フィルター: タイル
+Sharpen	フィルター: リアル
+Manga	フィルター: {r2[まんが]}漫画{/r2}
+MessageData\SystemMessage_szs\StaffRoll.msbt
+StaffRoll	Super Mario 3D World + Fury World\n\n@STAFF\nYuri Adachi\nKaori Ando\nKatsuyasu Ando\nNorihiro Aoyagi\nKoji Aoyama\nYukinori Arata\nHiroki Araya\nTaiki Asamizu\nRuchi Bhatwal\nPhilip Brodsky\nJonathan Bryant\nDavid Carlson\nKevin Chung\nYotaro Doi\nSilvia Draper\nBrandon Dulyea\nRika Fukumoto\nEiji Funahashi\nMizuki Fujisawa\nJeremiah Gallardo\nMarcos Gomes\nFrancisco Guerrero López\nGregory Hall\nErica Hanson\nKazunori Hashimoto\nTakeshi Hayakawa\nShinya Hiratake\nKenichiro Ikeya\nShuhei Ishii\nKaren Ishikawa\nToru Inage\nNozomi Isoda\nYuichi Iwasa\nNami Jamesson\nArturo Jáuregui Osante\nJonathan Johnson\nNobuyo Johnston\nRory Johnston\nAmber Kalina\nTeppei Kamata\nKyoko Kamikubo\nMasayuki Kawakita\nMio Kikuchi\nYuka Kitahara\nKanji Kobayashi\nKazuki Kobayashi\nYoshiaki Koizumi\nPaul Kranich\nYuichi Kurata\nYoonjoon Lee\nVincent Leone\nSean Lutterman\nKees Luyendijk\nRyan Lynd\nDaisuke Matsuoka\nYasuhiko Matsuzaki\nDeana McCarthy\nBrian McNeely\nVivek Melwani\nGabriel Miller\nTimothy Minalia\nMasato Misaki\nShigeru Miyamoto\nJami Moravetz\nYujiro Mori\nKenta Motokura\nSho Murata\nHitomi Naitoh\nYuki Nakamura\nShigehisa Nakaue\nLaura Nelson\nNaoya Nihei\nAsuka Nishiura\nIkki Oikawa\nKeisuke Okubo\nCarlie Olson\nSteven Petofalvi\nJames Phillipsen\nGeoff Phoenix\nDaisy Pigeon\nCristina Pohlenz Garza\nChris Polney\nFei Mi Quek\nDiego Rothenbach\nKoki Sasaki\nEisaku Sato\nTomosumi Sato\nHaruka Seko\nAnthony Settimi\nEdward Sherman\nJames Showecker\nFutoshi Shirai\nMark Smith\nHideyuki Sugawara\nMayako Sugimoto\nRisa Sugimoto\nShuhei Sugimoto\nNobuyoshi Suzuki\nSayaka Takagi\nShinya Takahashi\nTakeshi Tamura\nHirotaka Tanikawa\nMizuki Tatsuno\nKumiko Terashima\nMark Trono\nYuki Tsuji\nDaisuke Tsujimura\nLauren Wells\nZakary Wilson\nTakayuki Yaeno\nAtsushi Yamaguchi\nShigeki Yamashiro\nSean Yamura\nRikuto Yoshida\n\nBased on the work of\nthe original Wii U version\ndevelopment and localization staff\n\n@NORTH AMERICAN LOCALIZATION\nLocalization Management\nNate Bihldorff\nReiko Ninomiya\nRich Amtower\nTim O’Leary\nScot Ritchey\nMorgan Ritchie\nÁlex Zarza\n\nLocalization\nSam AbouHarb\nLauren Ammerman\nAna Celeste Ascanio\nBilly Carroll\nOwen Cooney\nKatie Dunlop\nRaymond Elliget\nBrandon Kraemer\nAudrey Drake Rigg\nFannie Senécal\nYanett Cepeda Valor\nThaddée Wiseur\n\nNOA Product Testing\n\n@NOE LOCALISATION STAFF\nChiara Botta\nMirko Capocelli\nYannick Carrey\nVeronica Casi\nDario De Leo\nSandra Díaz Cabral\nJesús Gordo Martín\nSylvain Gsell\nThomas den Haan\nSwen Harder\nCarsten Harmans\nIhar Havenka\nBlanca Hueso Taulés\nAnton Ivanchikov\nDanielle Jorgenson-Murray\nGurvan Le Guen\nJ. Ignacio León López\nRoby Liebetruth\nVincent Meijer\nRui Mendes\nAlexander Meng\nJessica Morandi\nAna Rodrigues\nEnrique Sánchez Rosa\nGeorg Schmalhofer\nAnastasiia Voronkova\nSoufian Yahyaoui\nGrace Yon\n\n@NHL LOCALIZATION STAFF\nTracy Cheng\nMike Kan\nSean Shen\nWang Zhong Long\nDigital Hearts Linguitronics Taiwan Co., Ltd.\n\n@iQue LOCALIZATION STAFF\nLing Yayun\nMisa Matsumoto\nXu Ming\nYan Gang\nZhang Xi\n\n@NOK LOCALIZATION STAFF\nDongyeon Kim\nKiung Seoung\nInseon Song\nJihyuen Yoo\nOrgoSoft Co., Ltd.\n\n@SPECIAL THANKS\nHiroshi Arai\nTakuhiro Dohta\nKoichi Hayashida\nWataru Hinoshita\nYoichi Hirota\nGen Kadoi\nSayo Kato\nRyo Kawasaki\nTakeshi Kawasaki\nNoriaki Manaka\nHirokazu Matsuda\nKeisuke Matsui\nJeff Miller\nYosuke Mori\nHajime Nakao\nYu Ogasawara\nKaoru Sato\nMasakaze Sato\nAkiyo Shigeyama\nMakiko Takada\nKeiichiro Terao\nTakashi Tezuka\nDaisuke Watanabe\nKenji Yamamoto\nYoshito Yasuda\nAkane Yoshida\nMahito Yokota\nTohru Yoshio\nFace Music\n\nAll General Support Group\nNintendo Tokyo Office\nAll EPD\n\n@EXECUTIVE PRODUCER\nShuntaro Furukawa
+MessageData\SystemMessage_szs\StageName.msbt
+RotateFieldStage	くるくる{r2[かいてんへいげん]}回転平原{/r2}
+DownRiverStage	プレッシーのザブンリバー
+FlipCircusStage	オン！オフ！スイッチサーカス
+KinopioBrigadeTentenStage	キノピオ{r2[たいちょう]}隊長{/r2}のさいしょの{r2[ぼうけん]}冒険{/r2}
+KoopaChaseLv1Stage	{r2[たいけつ]}対決{/r2}！クッパのハイウェイ{r2[じょう]}城{/r2}
+GateKeeperBullLv1Stage	とおせんぼ！ブル
+ClimbWirenetStage	かなあみアスレチック
+ShadowTunnelStage	{r2[かげ]}影{/r2}の{r2[ろじうら]}路地裏{/r2}
+SideWaveDesertStage	{r2[さばく]}砂漠{/r2}のツッコンドル{r2[いせき]}遺跡{/r2}
+DoubleMarioFieldStage	ダブルチェリー{r2[とうげ]}峠{/r2}
+MysteryHouseEnemyStage	{r2[たお]}倒{/r2}して！{r2[たお]}倒{/r2}して！ミステリーハウス
+KillerTankStage	クッパ{r2[ぐん]}軍{/r2}のキラー{r2[せんしゃ]}戦車{/r2}
+GateKeeperKuribonLv1Stage	とおせんぼ！でかクリボン
+SnowBallParkStage	スノーボールパーク
+TeresaConveyorStage	オバケ{r2[やしき]}屋敷{/r2}のうごく{r2[ゆか]}床{/r2}
+DashRidgeStage	ダッシュレーシング
+ShortGardenStage	ラブリーガーデン
+DokanAquariumStage	{r2[どかん]}土管{/r2}の{r2[い]}入{/r2}り{r2[え]}江{/r2}
+TouchAndMikeStage	さわって！ひきだし{r2[さんみゃく]}山脈{/r2}
+CrawlerHillStage	アリへいの{r2[す]}巣{/r2}{r2[あな]}穴{/r2}
+KinopioBrigadeWaterStage	キノピオ{r2[たいちょう]}隊長{/r2}とふしぎな{r2[みずうみ]}湖{/r2}
+KillerExpressStage	{r2[とつにゅう]}突入{/r2}！キラーエクスプレス
+GateKeeperFireBrosLv2Stage	かくれファイアブロス その２
+PipePackunDenStage	のびのびパックンの{r2[ぬま]}沼{/r2}
+TrampolineHighlandStage	トランポリン{r2[こうげん]}高原{/r2}
+GabonMountainStage	ガボンマウンテン
+ChikaChikaBoomerangStage	ピッピッピッ！{r2[くうちゅうさんぽ]}空中散歩{/r2}
+TruckWaterfallStage	あっちこっち トロッコの{r2[たに]}谷{/r2}
+MysteryHouseDashStage	{r2[か]}駆{/r2}け{r2[ぬ]}抜{/r2}けろ！ミステリーハウス
+BossGorobonStage	{r2[ころ]}転{/r2}がる{r2[いわ]}岩{/r2}の{r2[ようがんとりで]}溶岩砦{/r2}
+GateKeeperTentackLv1Stage	{r2[たいけつ]}対決{/r2}！！ヘビースネーク
+GateKeeperGorobonLv1Stage	とおせんぼ！ゴロボン
+NokonokoBeachStage	サンサンビーチ
+BombCaveStage	バクレツ！ボム{r2[どうくつ]}洞窟{/r2}
+ShortMultiLiftStage	ちょっとした{r2[まちかど]}街角{/r2}
+SavannaRockStage	かけまわれ！ワイルドサバンナ
+SwingCircusStage	ぶらぶら ブランコサーカス
+JumpFlipSweetsStage	ジャンプ！ホイップ！スイーツ
+SneakingLightStage	かいくぐれ！サーチライト
+KinopioBrigadeTeresaStage	キノピオ{r2[たいちょう]}隊長{/r2}とオバケ{r2[やしき]}屋敷{/r2}
+BossWackunFortressStage	ガッチンキングの{r2[とりで]}砦{/r2}
+GateKeeperKameckLv1Stage	とおせんぼ！カメック
+GateKeeperFireBrosLv1Stage	かくれファイアブロス その１
+GateKeeperFireBrosLv4Stage	かくれファイアブロス その４
+RouteDokanTourStage	とうめい{r2[どかん]}土管{/r2}ツアー
+WeavingShipStage	ゆらゆら{r2[ゆうれいせん]}幽霊船{/r2}
+ClimbFortressStage	{r2[こうりゃく]}攻略{/r2}！キラー{r2[ようさい]}要塞{/r2}
+JungleCruiseStage	イカダでジャングルツアー
+BlastSnowFieldStage	とっぷうの{r2[ゆきやま]}雪山{/r2}
+KarakuriCastleStage	タッチ！{r2[なぞ]}謎{/r2}のからくり{r2[じょう]}城{/r2}
+ChorobonTowerStage	チョロボン{r2[たんこう]}炭鉱{/r2}
+MysteryHouseBallStage	{r2[な]}投{/r2}げろ！ミステリーハウス
+BombTankStage	クッパ{r2[ぐん]}軍{/r2}のボム{r2[せんしゃ]}戦車{/r2}
+GateKeeperFireBrosLv3Stage	かくれファイアブロス その３
+FireBrosFortressStage	ファイアブロスの{r2[とりで]}砦{/r2}
+DarkFlipPanelStage	まっくらスイッチ{r2[いせき]}遺跡{/r2}
+ShortAmidaStage	{r2[しゃくねつ]}灼熱{/r2}ジャンクション
+DonketsuArrowStepStage	ドンケツのアッチッちたい
+ZigzagBuildingStage	スケルトンタワーのワナ
+SyumockSpotStage	シュモックのなわばり
+RagingMagmaStage	グツグツ{r2[ようがんこ]}溶岩湖{/r2}
+KinopioBrigadeConveyorStage	キノピオ{r2[たいちょう]}隊長{/r2}とドッスン{r2[こうじょう]}工場{/r2}
+GateKeeperBossBunretsuLv1Stage	{r2[たいけつ]}対決{/r2}！！ボスブンレツ
+NeedleBridgeStage	トゲトゲブリッジ
+GearSweetsStage	くるくるブラウニーパーク
+DownDesertStage	プレッシーのサラサラ{r2[さきゅう]}砂丘{/r2}
+EchoRoadStage	イルミネーションロード
+WaterElevatorCaveStage	すいすい {r2[みず]}水{/r2}エレベーター
+GotogotonValleyStage	ゴトゴトンの{r2[ようがんだに]}溶岩谷{/r2}
+MysteryHouseClimbStage	よじのぼれ！ミステリーハウス
+EnemyExpressStage	{r2[とつにゅう]}突入{/r2}！エネミーエクスプレス
+KoopaLastStage	{r2[けっせん]}決戦{/r2}！クッパランドのスーパータワー
+GateKeeperTentackLv2Stage	ヘビースネーク ふたたび！！
+RainbowRoadStage	レインボーパーク
+HexScrollStage	{r2[ほしぞら]}星空{/r2}ロッカクロード
+BlockLandStage	ブロックランド
+GoalPoleRunawayStage	{r2[と]}飛{/r2}びつけ！ゴールポール
+GiantUnderGroundStage	{r2[たんけん]}探検{/r2}！でっかい{r2[どうくつ]}洞窟{/r2}
+GalaxyRoadStage	スーパーギャラクシー
+WheelCanyonStage	{r2[まわ]}回{/r2}せ！つみ{r2[き]}木{/r2}のアスレチック
+TerenFogStage	{r2[きり]}霧{/r2}の{r2[なか]}中{/r2}のテレン
+KinopioBrigadeRotateRoomStage	キノピオ{r2[たいちょう]}隊長{/r2}とまわる{r2[へや]}部屋{/r2}
+KinopioBrigadeInfernoStage	キノピオ{r2[たいちょう]}隊長{/r2}のさいごの{r2[ぼうけん]}冒険{/r2}
+MysteryHouseMaxStage	{r2[げんかい]}限界{/r2}！ミステリーハウス
+GateKeeperKyupponLv1Stage	とおせんぼ！ドンケツプリンス
+GateKeeperKyupponLv2Stage	とおせんぼ！ドンケツプリンスふたたび
+GateKeeperBossBunretsuLv2Stage	ボスブンレツ ふたたび！！
+BoxKillerStage	{r2[ほうだい]}砲台{/r2}のキケン{r2[ちたい]}地帯{/r2}
+NokonokoCaveStage	ノコノコ{r2[ちかどうくつ]}地下洞窟{/r2}
+DarknessHauntedHouseStage	{r2[て]}照{/r2}らせ！くらやみ{r2[やしき]}屋敷{/r2}
+GateKeeperBullLv2Stage	とおせんぼ！ブルふたたび
+GateKeeperGorobonLv2Stage	とおせんぼ！ゴロボンふたたび
+ClimbMountainStage	てっぺんめざせ！ノッポ{r2[やま]}山{/r2}
+ArrangeClimbMountainStage	トゲトゲ！ノッポ{r2[やま]}山{/r2}
+ArrangeDonketsuArrowStepStage	こわれかけのアッチッちたい
+ArrangeJungleCruiseStage	{r2[まよなか]}真夜中{/r2}ジャングルツアー
+ArrangeTeresaConveorStage	オバケ{r2[やしき]}屋敷{/r2}のうごく{r2[ゆか]}床{/r2} ふたたび
+ArrangeNeedleBridgeStage	{r2[せんにゅう]}潜入{/r2}！トゲトゲブリッジ
+ArrangeHexScrollStage	{r2[あおぞら]}青空{/r2}ロッカクロード
+ArrangeBossParadeStage	ボスパラダイス
+ArrangeRotateFieldStage	{r2[いそ]}急{/r2}げ！{r2[よる]}夜{/r2}の{r2[かいてんへいげん]}回転平原{/r2}
+ChampionshipStage	ファイナル！チャンピオンシップロード
+ArrangeWeavingShipStage	{r2[きょだい]}巨大{/r2}ゆらゆら{r2[ゆうれいせん]}幽霊船{/r2}
+ArrangeFlipCircusStage	ビリビリ！スイッチサーカス
+ArrangePipePackunDenStage	{r2[て]}照{/r2}らせ！のびのびパックンの{r2[ぬま]}沼{/r2}
+ArrangeFireBrosFortressStage	{r2[いそ]}急{/r2}げ！ファイアブロスの{r2[とりで]}砦{/r2}
+ArrangeKarakuriCastleStage	もっと！{r2[なぞ]}謎{/r2}のからくり{r2[じょう]}城{/r2}
+ArrangeShadowTunnelStage	{r2[ろじうら]}路地裏{/r2}のタワークリボー
+ArrangeMysteryHouseEnemyStage	もっと{r2[たお]}倒{/r2}して！ミステリーハウス
+ArrangeChorobonTowerStage	チョロボンと{r2[みず]}水{/r2}の{r2[たんこう]}炭鉱{/r2}
+ArrangeChikaChikaBoomerangStage	ドタバタ！{r2[くうちゅうさんぽ]}空中散歩{/r2}
+ArrangeSavannaRockStage	{r2[お]}追{/r2}いかけろ！ワイルドサバンナ
+ArrangeDokanAquariumStage	{r2[ほうだい]}砲台{/r2}の{r2[い]}入{/r2}り{r2[え]}江{/r2}
+ArrangeNokonokoBeachStage	タワークリボービーチ
+EnterCatMarioStage	スーパーベルの{r2[おか]}丘{/r2}
+KoopaChaseLv2Stage	{r2[げきとつ]}激突{/r2}！クッパの{r2[ようがんじょう]}溶岩城{/r2}
+MessageData\SystemMessage_szs\TitleLogo.msbt
+TitleLogo_Start	Press 
+TitleLogo_Start_SingleJoy	Press 
+MessageData\SystemMessage_szs\WindowConfirmNetworkMenu.msbt
+MessageData\SystemMessage_szs\WindowConfirmPauseMenu.msbt
+ReturnToMap	コースをでます\nよろしいですか？\n\n{s[075]}コース{r2[ない]}内{/r2}で{r2[と]}取{/r2}ったアイテムは なくなります{s[100]}
+ReturnToMap_Left	キャンセル
+ReturnToMap_Right	OK
+RestartStage	コースを やりなおします\nよろしいですか？\n\n{s[075]}コース{r2[ない]}内{/r2}で{r2[と]}取{/r2}ったアイテムは なくなります{s[100]}
+RestartStage_Left	キャンセル
+RestartStage_Right	OK
+ChangeControls	コントローラーを{r2[も]}持{/r2}ち{r2[か]}替{/r2}えます\nよろしいですか？
+ChangeControls_Left	キャンセル
+ChangeControls_Right	OK
+MessageData\SystemMessage_szs\WindowConfirmTitleScene.msbt
+NewFileWarning	{r2[から]}空{/r2}のセーブファイルがありません\n\n{s[075]}{r2[ふる]}古{/r2}いファイルを{r2[しょうきょ]}消去{/r2}して {r2[あたら]}新{/r2}しいファイルをつくります{s[100]}
+NewFileWarning_Left	キャンセル
+NewFileWarning_Right	OK
+MessageData\SystemMessage_szs\WindowMessage.msbt
+RaidonGuide	プレッシーにのってゴールをめざそう！\x0e\0\x04\0\x0e\0\x03\x02\x03\0 （または  ）{r2[うえ]}上{/r2}で{r2[はや]}速{/r2}く {r2[した]}下{/r2}で{r2[おそ]}遅{/r2}く\x0e\0\x03\x02ÿÿなります\x0e\0\x04\0\x0e\0\x03\x02\x03\0 （または\x0e\0\x03\x02ÿÿ \x0e\0\x03\x02\x03\0 ）でジャンプ\x0e\0\x03\x02ÿÿできます\x0e\0\x04\0みんなでプレイするときは {r2[おな]}同{/r2}じ{r2[そうさ]}操作{/r2}をすることで\n{r2[おお]}大{/r2}きく{r2[ま]}曲{/r2}がったり{r2[たか]}高{/r2}くジャンプしたりできます\x0e\0\x04\0{r2[じゅんび]}準備{/r2}はいいですか？\nそれでは スタート！！
+OpenAllClearMario	おめでとうございます！！\n\x0e\0\x03\x02\x01\0マリオ\x0e\0\x03\x02ÿÿで すべてのコースをクリアしました\x0e\0\x04\0{r2[あたら]}新{/r2}しい \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ\x0e\0\x03\x02ÿÿ を{r2[て]}手{/r2}にいれました
+OpenAllClearLuigi	おめでとうございます！！\n\x0e\0\x03\x02\x02\0ルイージ\x0e\0\x03\x02ÿÿで すべてのコースをクリアしました\x0e\0\x04\0{r2[あたら]}新{/r2}しい \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ \x0e\0\x03\x02ÿÿを{r2[て]}手{/r2}にいれました
+OpenAllClearPeach	おめでとうございます！！\n\x0e\0\x03\x02\x05\0ピーチ\x0e\0\x03\x02ÿÿで すべてのコースをクリアしました\x0e\0\x04\0{r2[あたら]}新{/r2}しい \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ \x0e\0\x03\x02ÿÿを{r2[て]}手{/r2}にいれました
+OpenAllClearKinopio	おめでとうございます！！\n\x0e\0\x03\x02\x03\0キノピオ\x0e\0\x03\x02ÿÿで すべてのコースをクリアしました\x0e\0\x04\0{r2[あたら]}新{/r2}しい \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ \x0e\0\x03\x02ÿÿを{r2[て]}手{/r2}にいれました
+OpenAllClearRosetta	おめでとうございます！！\n\x0e\0\x03\x02\x06\0ロゼッタ\x0e\0\x03\x02ÿÿで すべてのコースをクリアしました\x0e\0\x04\0{r2[あたら]}新{/r2}しい \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ\x0e\0\x03\x02ÿÿ を{r2[て]}手{/r2}にいれました
+OpenRosettaPlayable	{r2[あたら]}新{/r2}しいキャラクター \x0e\0\x03\x02\x06\0ロゼッタ\x0e\0\x03\x02ÿÿが{r2[つか]}使{/r2}えるようになりました
+OpenShowBestTime	コースの\x0e\0\x03\x02\x01\0ベストタイム\x0e\0\x03\x02ÿÿが\n{r2[ひょうじ]}表示{/r2}されるようになりました
+OpenWorldStar	\x0e\0\x03\x02\x01\0{r2[あたら]}新{/r2}しいワールド\x0e\0\x03\x02ÿÿがオープンしました
+OpenWorldArrange	\x0e\0\x03\x02\x01\0ボーナスワールド\x0e\0\x03\x02ÿÿがオープンしました
+OpenWorldChampionship	\x0e\0\x03\x02\x01\0{r2[さいご]}最後{/r2}のワールド\x0e\0\x03\x02ÿÿがオープンしました
+ShowWorldJumpMenuInfo	\x0e\0\x03\x02\x03\0 （または  ）でマップ\x0e\0\x03\x02ÿÿをひらくと\nこれまでのワールドに{r2[いどう]}移動{/r2}することができます\x0e\0\x04\0あつめた \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ \x0e\0\x03\x02ÿÿや \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ グリーンスター \x0e\0\x03\x02ÿÿを\n{r2[かくにん]}確認{/r2}することもできます
+ShowWorldJumpMenuInfoSecond	\x0e\0\x03\x02\x03\0 （または  ）でマップ\x0e\0\x03\x02ÿÿをひらくと\nこれまでのワールドに{r2[いどう]}移動{/r2}することができます\x0e\0\x04\0あつめた \x0e\0\x03\x02\x06\0\x0e\0\x01\x02\x05\01\x0e\0\x01\x02ÿÿ ハンコ\x0e\0\x03\x02ÿÿ や \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ グリーンスター \x0e\0\x03\x02ÿÿを\n{r2[かくにん]}確認{/r2}することもできます
+FirstClearKinopioBrigade	{r2[ひとり]}１人{/r2}であそぶときは\nほかのコースでも \x0e\0\x03\x02\x03\0（または  +  ）でカメラを{r2[そうさ]}操作{/r2}\x0e\0\x03\x02ÿÿできます\x0e\0\x04\0ぜひ ためしてみてください
+FirstPlayKinopioBrigade	グリーンスターハンター キノピオ{r2[たいちょう]}隊長{/r2}の{r2[だいぼうけん]}大冒険{/r2}！\x0e\0\x04\0コース{r2[ちゅう]}中{/r2}の\x0e\0\x03\x02\x02\0 \x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ グリーンスター \x0e\0\x03\x02ÿÿをあつめましょう！\n\x0e\0\x03\x02\x01\0５つ\x0e\0\x03\x02ÿÿすべて{r2[と]}取{/r2}れたら さしあげます\x0e\0\x04\0{r2[ちけい]}地形{/r2}を {r2[べつ]}別{/r2}の{r2[かくど]}角度{/r2}から{r2[み]}見{/r2}たいときは\n\x0e\0\x03\x02\x03\0 （または  +  ）でカメラを{r2[そうさ]}操作{/r2}\x0e\0\x03\x02ÿÿすることができます\x0e\0\x04\0さいごに…\nキノピオ{r2[たいちょう]}隊長{/r2}はジャンプができません\nご{r2[ちゅうい]}注意{/r2}を！
+FirstPlayCasinoRoom	ブロックをたたいて {r2[え]}絵{/r2}をそろえよう！\n\x0e\0\x03\x02\x01\0{r2[さいだい]}最大{/r2}７７７{r2[まい]}枚{/r2}のコイン\x0e\0\x03\x02ÿÿをゲットするチャンス！！\x0e\0\x04\0コインを\x0e\0\x03\x02\x01\0１００{r2[まい]}枚{/r2}\x0e\0\x03\x02ÿÿあつめると\nプレイヤーの{r2[のこ]}残{/r2}り{r2[すう]}数{/r2}が１{r2[ふ]}増{/r2}えます
+ShowCharacterChangeExplain	\x0e\0\x03\x02\x01\0コース{r2[かいし]}開始{/r2}の{r2[あか]}赤{/r2}い{r2[がめん]}画面{/r2}\x0e\0\x03\x02ÿÿで \x0e\0\x03\x02\x03\0 （または  ）\x0e\0\x03\x02ÿÿを{r2[お]}押{/r2}すと\nキャラクターを{r2[へんこう]}変更{/r2}できます\x0e\0\x04\0キャラクターごとに\n\x0e\0\x03\x02\x01\0ジャンプ{r2[りょく]}力{/r2}\x0e\0\x03\x02ÿÿや \x0e\0\x03\x02\x01\0{r2[あし]}足{/r2}の{r2[はや]}速{/r2}さ\x0e\0\x03\x02ÿÿがちがいます\x0e\0\x04\0ぜひ ほかのキャラクターでもあそんでみてください
+FirstPlayMysteryHouseStage	ここはミステリーハウス\x0e\0\x04\0１{r2[へや]}部屋{/r2}に１つ \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ グリーンスター \x0e\0\x03\x02ÿÿがあります\nたくさん{r2[も]}持{/r2}ってかえってね！\x0e\0\x04\0それでは いってらっしゃい！！
+FirstRetryMysteryHouseStage	うーん ざんねん…\x0e\0\x04\0ここまでに{r2[て]}手{/r2}にいれた \x0e\0\x03\x02\x02\0\x0e\0\x01\x02\x05\00\x0e\0\x01\x02ÿÿ グリーンスター \x0e\0\x03\x02ÿÿは\n{r2[も]}持{/r2}ちかえることができます\x0e\0\x04\0またチャレンジしてね！
+FirstPlayKinopioHouse	キノピオの{r2[いえ]}家{/r2}にようこそ！\x0e\0\x04\0どちらかすきな{r2[はこ]}箱{/r2}をあげます\nきっと{r2[なに]}何{/r2}かのやくに{r2[た]}立{/r2}つから…
+FirstClearDrcTouchStage	ほかのコースでも \x0e\0\x03\x02\x03\0 （または  ）\x0e\0\x03\x02ÿÿで\nポインターをだして いろいろなモノにタッチできます\nぜひ ためしてみてください
+FirstClearDrcTouchStage_Handheld	ほかのコースでも \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿにタッチすることで\nいろいろなモノにタッチできます\nぜひ ためしてみてください
+ShowAfterGameOverInfo	ゲームオーバーになると\nこれまでの\x0e\0\x03\x02\x01\0キノピオの{r2[いえ]}家{/r2}\x0e\0\x03\x02ÿÿや \x0e\0\x03\x02\x01\0ルーレットハウス\x0e\0\x03\x02ÿÿが{r2[ふっかつ]}復活{/r2}します\nぜひ {r2[ぼうけん]}冒険{/r2}に{r2[やくだ]}役立{/r2}ててください！
+SnapshotGuide	{r2[ひとり]}１人{/r2}であそんでいるときに \x0e\0\x03\x02\x03\0\x0e\0\x03\x02ÿÿ を{r2[お]}押{/r2}すと \nプレイ{r2[がめん]}画面{/r2}の{r2[さつえい]}撮影{/r2}を{r2[たの]}楽{/r2}しむことができます
+AmiiboGuide	\x0e\0\x03\x02\x01\0amiibo\x0e\0\x03\x02ÿÿが{r2[つか]}使{/r2}えます\x0e\0\x04\0コース{r2[ない]}内{/r2}で \x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿを{r2[お]}押{/r2}しながら amiiboをタッチすると\n{r2[すこ]}少{/r2}しいいことが{r2[お]}起{/r2}こります\x0e\0\x04\0くわしくは \x0e\0\x03\x02\x03\0メニュー ＞ ヘルプ\x0e\0\x03\x02ÿÿ をごらんください\x0e\0\x04\0ただし！\n{r2[つうしん]}通信{/r2}で{r2[あそ]}遊{/r2}んでいる{r2[とき]}時{/r2}は{r2[つか]}使{/r2}えないので {r2[ちゅうい]}注意{/r2}してくださいね
+TouchGuide	\x0e\0\x03\x02\x01\0タッチ\x0e\0\x03\x02ÿÿを{r2[つか]}使{/r2}ってあそぼう！\x0e\0\x04\0コースに{r2[とうじょう]}登場{/r2}する {r2[にじいろ]}虹色{/r2}のタッチブロックは\nタッチして{r2[うご]}動{/r2}かすことができます\x0e\0\x04\0\x0e\0\x03\x02\x03\0 （または  ）\x0e\0\x03\x02ÿÿでポインターをうごかしてタッチしたり \n\x0e\0\x03\x02\x03\0 \x0e\0\x03\x02ÿÿに{r2[ちょくせつ]}直接{/r2}タッチして{r2[そうさ]}操作{/r2}することができます
+NetworkGuide	ご{r2[ぞんじ]}存知{/r2}ですか？\n\x0e\0\x03\x02\x01\0ネットワーク{r2[つうしん]}通信{/r2}\x0e\0\x03\x02ÿÿを{r2[つか]}使{/r2}ってもあそべます\x0e\0\x04\0オンラインのフレンドや\n{r2[も]}持{/r2}ちよったNintendo Switchで {r2[いっしょ]}一緒{/r2}にあそべます\x0e\0\x04\0{r2[つうしん]}通信{/r2}であそびたい{r2[とき]}時{/r2}は\n\x0e\0\x03\x02\x03\0 （または  ）\x0e\0\x03\x02ÿÿを{r2[お]}押{/r2}してください
+MessageData\SystemMessage_szs\WindowNetworkInfo.msbt
+WindowNetworkInfo_Connected	\x0e\x03\x02\x04\0\0\0\0 が 参加しました
+WindowNetworkInfo_Disconnected	\x0e\x03\x02\x04\0\0\0\0 が 抜けました
+WindowNetworkInfo_Controlling	\x0e\x03\x02\x04\0\0\0\0 が 操作しています
+WindowNetworkInfo_Error	\x0e\x03\x02\x04\0\0\0\0 との通信が切れました
+MessageData\SystemMessage_szs\WipeCurtainRanking.msbt
+WipeCurtainRanking_Rank1	1st
+WipeCurtainRanking_Rank2	2nd
+WipeCurtainRanking_Rank3	3rd
+WipeCurtainRanking_Rank4	4th

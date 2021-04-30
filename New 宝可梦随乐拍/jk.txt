@@ -52,7 +52,7 @@ ComWindow005_Select1	OK
 ComWindow006_Info	ちょうさをやめて　はかせにしゃしんをみせますか？
 ComWindow006_Select1	はい
 ComWindow006_Select2	いいえ
-ComWindow007_Info	ルートのさいしょから　ちょうさをやりなおしますか？\n\x0e\0\x03\x02\x08\0さつえいしたしゃしんは　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow007_Info	ルートのさいしょから　ちょうさをやりなおしますか？\n{color[0800]}さつえいしたしゃしんは　なくなります{color[ffff]}
 ComWindow007_Select1	はい
 ComWindow007_Select2	いいえ
 ComWindow008_Info	チュートリアルを　スキップしますか？
@@ -82,17 +82,17 @@ ComWindow017_Select2	いいえ
 ComWindow018_Info	Nintendo Switchのアルバムに\nしゃしんを　ほぞんしますか？
 ComWindow018_Select1	はい
 ComWindow018_Select2	いいえ
-ComWindow019_Info	しゃしんを　さくじょしますか？\n\x0e\0\x03\x02\x08\0さくじょすると　もとにはもどせません\x0e\0\x03\x02ÿÿ
+ComWindow019_Info	しゃしんを　さくじょしますか？\n{color[0800]}さくじょすると　もとにはもどせません{color[ffff]}
 ComWindow019_Select1	はい
 ComWindow019_Select2	いいえ
-ComWindow020_Info	しゃしんを　ほぞんしています。\nしばらく　おまちください。\nかんりょうまで　あと　\x0e\x03\x01\x02\0Íまい
-ComWindow021_Info	えらんだしゃしんを　まとめてさくじょしますか？\n\x0e\0\x03\x02\x08\0さくじょすると　もとにはもどせません\x0e\0\x03\x02ÿÿ
+ComWindow020_Info	しゃしんを　ほぞんしています。\nしばらく　おまちください。\nかんりょうまで　あと　{[0301|00cd]}まい
+ComWindow021_Info	えらんだしゃしんを　まとめてさくじょしますか？\n{color[0800]}さくじょすると　もとにはもどせません{color[ffff]}
 ComWindow021_Select1	はい
 ComWindow021_Select2	いいえ
 ComWindow022_Info	かこうしたしゃしんを　あたらしいしゃしんとして\nほぞんし　しゅうりょうしますか？
 ComWindow022_Select1	はい
 ComWindow022_Select2	いいえ
-ComWindow023_Info	かこうしたしゃしんを　ほぞんせず\nしゅうりょうしますか？\n\x0e\0\x03\x02\x08\0かこうないようは　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow023_Info	かこうしたしゃしんを　ほぞんせず\nしゅうりょうしますか？\n{color[0800]}かこうないようは　なくなります{color[ffff]}
 ComWindow023_Select1	はい
 ComWindow023_Select2	いいえ
 ComWindow024_Info	これいじょう　スタンプは　はいちできません。
@@ -100,24 +100,24 @@ ComWindow024_Select1	OK
 ComWindow025_Info	さいしょのじょうたいに　もどしますか？
 ComWindow025_Select1	はい
 ComWindow025_Select2	いいえ
-ComWindow026_Info	エクストラさつえいを　しゅうりょうしますか？\n\x0e\0\x03\x02\x08\0せっていないようは　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow026_Info	エクストラさつえいを　しゅうりょうしますか？\n{color[0800]}せっていないようは　なくなります{color[ffff]}
 ComWindow026_Select1	はい
 ComWindow026_Select2	いいえ
-ComWindow027_Info	ほぞんまいすうの　のこりが5まいになりました。\n\nセーブデータを　かくちょうして\nほぞんまいすうを　\x0e\x03\x01\x02\0Íまい　ふやしますか？\n\x0e\0\x03\x02\x08\0やく\x0e\x03\x02\x02\0ÍMBの　あきようりょうが　ひつようです\x0e\0\x03\x02ÿÿ
+ComWindow027_Info	ほぞんまいすうの　のこりが5まいになりました。\n\nセーブデータを　かくちょうして\nほぞんまいすうを　{[0301|00cd]}まい　ふやしますか？\n{color[0800]}やく{[0302|00cd]}MBの　あきようりょうが　ひつようです{color[ffff]}
 ComWindow027_Select1	はい
 ComWindow027_Select2	いいえ
-ComWindow028_Info	ほぞんまいすうの　のこりが0まいになりました。\n\nセーブデータを　かくちょうして\nほぞんまいすうを　\x0e\x03\x01\x02\0Íまい　ふやしますか？\n\x0e\0\x03\x02\x08\0やく\x0e\x03\x02\x02\0ÍMBの　あきようりょうが　ひつようです\x0e\0\x03\x02ÿÿ
+ComWindow028_Info	ほぞんまいすうの　のこりが0まいになりました。\n\nセーブデータを　かくちょうして\nほぞんまいすうを　{[0301|00cd]}まい　ふやしますか？\n{color[0800]}やく{[0302|00cd]}MBの　あきようりょうが　ひつようです{color[ffff]}
 ComWindow028_Select1	はい
 ComWindow028_Select2	いいえ
-ComWindow029_Info	セーブデータを　かくちょうしますか？\n\x0e\0\x03\x02\x08\0かくちょうすると　もとにはもどせません\x0e\0\x03\x02ÿÿ
+ComWindow029_Info	セーブデータを　かくちょうしますか？\n{color[0800]}かくちょうすると　もとにはもどせません{color[ffff]}
 ComWindow029_Select1	はい
 ComWindow029_Select2	いいえ
-ComWindow030_Info	セーブデータを　かくちょうしています。\nしばらく　おまちください。\n\x0e\0\x03\x02\x08\0でんげんを　きらないでください\x0e\0\x03\x02ÿÿ
+ComWindow030_Info	セーブデータを　かくちょうしています。\nしばらく　おまちください。\n{color[0800]}でんげんを　きらないでください{color[ffff]}
 ComWindow031_Info	セーブデータの　かくちょうが　かんりょうしました。
 ComWindow031_Select1	OK
-ComWindow032_Info	セーブデータの　かくちょうが　かんりょうしました。\n\x0e\0\x03\x02\x08\0これいじょう　かくちょうできません\x0e\0\x03\x02ÿÿ
+ComWindow032_Info	セーブデータの　かくちょうが　かんりょうしました。\n{color[0800]}これいじょう　かくちょうできません{color[ffff]}
 ComWindow032_Select1	OK
-ComWindow033_Info	ほぞんまいすうの　のこりがありません。\nほぞんしているしゃしんを　さくじょしてください。\n\x0e\0\x03\x02\x08\0これいじょう　セーブデータは　かくちょうできません\x0e\0\x03\x02ÿÿ
+ComWindow033_Info	ほぞんまいすうの　のこりがありません。\nほぞんしているしゃしんを　さくじょしてください。\n{color[0800]}これいじょう　セーブデータは　かくちょうできません{color[ffff]}
 ComWindow033_Select1	OK
 ComWindow036_Info	このさつえいしゃを　ブロックしますか？
 ComWindow036_Select1	はい
@@ -131,47 +131,47 @@ ComWindow038_Select2	いいえ
 ComWindow039_Info	このさつえいしゃの　なまえや　コメントを\nつうほうしますか？
 ComWindow039_Select1	はい
 ComWindow039_Select2	いいえ
-ComWindow040_Info	つうほうを　うけつけました。\n\x0e\0\x03\x02\x08\0そうしんは　じどうで　おこなわれます\x0e\0\x03\x02ÿÿ\n\nこのさつえいしゃの　なまえやコメント　しゃしんを\nひひょうじにするには　ブロックしてください。
+ComWindow040_Info	つうほうを　うけつけました。\n{color[0800]}そうしんは　じどうで　おこなわれます{color[ffff]}\n\nこのさつえいしゃの　なまえやコメント　しゃしんを\nひひょうじにするには　ブロックしてください。
 ComWindow040_Select1	OK
 ComWindow041_Info	これいじょう　さくじょするしゃしんは　えらべません。\nいちどに　さくじょできるのは　99まいまでです。
 ComWindow041_Select1	OK
 ComWindow042_Info	しゃしんを　さくじょしました。
 ComWindow042_Select1	OK
-ComWindow043_Info	ぼくに　しゃしんをみせると　ずかんにページができるよ。\nページないの　ポケモンに　ポインタをあわせて\n をおすと　\x0e\0\x03\x02\0\0うごき\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0なきごえ\x0e\0\x03\x02ÿÿが　かくにんできるんだ。\nちょうさすれば　\x0e\0\x03\x02\0\0べつのすがた\x0e\0\x03\x02ÿÿも　みれるようになるよ。
+ComWindow043_Info	ぼくに　しゃしんをみせると　ずかんにページができるよ。\nページないの　ポケモンに　ポインタをあわせて\n をおすと　{color[0000]}うごき{color[ffff]}や　{color[0000]}なきごえ{color[ffff]}が　かくにんできるんだ。\nちょうさすれば　{color[0000]}べつのすがた{color[ffff]}も　みれるようになるよ。
 ComWindow043_Select1	OK
-ComWindow044_Info	ちょうさした　\x0e\0\x03\x02\0\0ルートのじょうほう\x0e\0\x03\x02ÿÿが　かくにんできるよ。\nはっけんした\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿが\nちずにひょうじされるので　ふりかえることができるんだ。
+ComWindow044_Info	ちょうさした　{color[0000]}ルートのじょうほう{color[ffff]}が　かくにんできるよ。\nはっけんした{color[0000]}ポケモン{color[ffff]}や　{color[0000]}コレクション{color[ffff]}が\nちずにひょうじされるので　ふりかえることができるんだ。
 ComWindow044_Select1	OK
-ComWindow045_Info	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0レンティルのれきしにかかわるもの\x0e\0\x03\x02ÿÿを\n\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿとして　このずかんに　まとめていくよ。\nちょうさしたら　ページができるので\nときどき　かくにんしに　きてみてね。
+ComWindow045_Info	{color[0000]}クリスタフラワー{color[ffff]}や　{color[0000]}レンティルのれきしにかかわるもの{color[ffff]}を\n{color[0000]}コレクション{color[ffff]}として　このずかんに　まとめていくよ。\nちょうさしたら　ページができるので\nときどき　かくにんしに　きてみてね。
 ComWindow045_Select1	OK
-ComWindow046_Info	ちょうさしたあと　ほぞんしたしゃしんと　\x0e\0\x03\x02\0\0かこう\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0エクストラさつえい\x0e\0\x03\x02ÿÿした　しゃしんが　かくにんできるよ。\n\x0e\0\x03\x02\0\0ほぞんまいすう\x0e\0\x03\x02ÿÿが　たりなくなったら　かくちょうしてね。
+ComWindow046_Info	ちょうさしたあと　ほぞんしたしゃしんと　{color[0000]}かこう{color[ffff]}や\n{color[0000]}エクストラさつえい{color[ffff]}した　しゃしんが　かくにんできるよ。\n{color[0000]}ほぞんまいすう{color[ffff]}が　たりなくなったら　かくちょうしてね。
 ComWindow046_Select1	OK
-ComWindow047_Info	ちょうさの　すすみぐあいに　おうじて\n\x0e\0\x03\x02\0\0ちょうさしょうごう\x0e\0\x03\x02ÿÿを　おくるよ。\nここでは　どんなものがあるのか？\nそれぞれ　どれくらい　すすんでいるのか？\nなどが　かくにんできるんだ。
+ComWindow047_Info	ちょうさの　すすみぐあいに　おうじて\n{color[0000]}ちょうさしょうごう{color[ffff]}を　おくるよ。\nここでは　どんなものがあるのか？\nそれぞれ　どれくらい　すすんでいるのか？\nなどが　かくにんできるんだ。
 ComWindow047_Select1	OK
 ComWindow048_Info	ちょうさにかんする　さまざまなきろくを\nここに　まとめているよ。\nどんどん　こうしんされるから\nたまに　かくにんしに　きてみてね。
 ComWindow048_Select1	OK
-ComWindow049_Info	さつえいしたしゃしんに　\x0e\0\x03\x02\0\0スタンプ\x0e\0\x03\x02ÿÿなどをはいちして\nさらに　たのしむことができるよ。\nちょうさを　すすめると　つかえるそざいが\nふえていくから　たのしみにしててね。
+ComWindow049_Info	さつえいしたしゃしんに　{color[0000]}スタンプ{color[ffff]}などをはいちして\nさらに　たのしむことができるよ。\nちょうさを　すすめると　つかえるそざいが\nふえていくから　たのしみにしててね。
 ComWindow049_Select1	OK
-ComWindow050_Info	いろんなせっていを　つかいやすいように\nへんこうできるよ。\nちょうさちゅうでも　いちぶは　\x0e\0\x03\x02\0\0ポーズメニュー\x0e\0\x03\x02ÿÿから\nへんこうできるから　きになったら　かくにんしてみてね。
+ComWindow050_Info	いろんなせっていを　つかいやすいように\nへんこうできるよ。\nちょうさちゅうでも　いちぶは　{color[0000]}ポーズメニュー{color[ffff]}から\nへんこうできるから　きになったら　かくにんしてみてね。
 ComWindow050_Select1	OK
-ComWindow051_Info	「\x0e\0\x03\x02\0\0そのた\x0e\0\x03\x02ÿÿ」に　\x0e\0\x03\x02\0\0クレジットひょうじ\x0e\0\x03\x02ÿÿを　ついかしたよ。\nもういちど　みたくなったら\n「\x0e\0\x03\x02\0\0さいせい\x0e\0\x03\x02ÿÿ」を　おしてみてね。
+ComWindow051_Info	「{color[0000]}そのた{color[ffff]}」に　{color[0000]}クレジットひょうじ{color[ffff]}を　ついかしたよ。\nもういちど　みたくなったら\n「{color[0000]}さいせい{color[ffff]}」を　おしてみてね。
 ComWindow051_Select1	OK
 ComWindow052_Info	ベースキャンプで　さつえいしますか？
 ComWindow052_Select1	はい
 ComWindow052_Select2	いいえ
-ComWindow053_Info	オンラインのマイページから　しゃしんをとりさげますか？\n\nこのしゃしんを　もういちど　アップロードすると\nりんごメダルのまいすうは　リセットされます。\n\x0e\0\x03\x02\x08\0りんごメダルをもらったかずの　そうすうは　へりません\x0e\0\x03\x02ÿÿ
+ComWindow053_Info	オンラインのマイページから　しゃしんをとりさげますか？\n\nこのしゃしんを　もういちど　アップロードすると\nりんごメダルのまいすうは　リセットされます。\n{color[0800]}りんごメダルをもらったかずの　そうすうは　へりません{color[ffff]}
 ComWindow053_Select1	はい
 ComWindow053_Select2	いいえ
-ComWindow054_Info	\x0e\0\x03\x02\0\0せかいじゅうの　ともだち\x0e\0\x03\x02ÿÿが　とった\x0e\0\x03\x02\0\0しゃしん\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　かくにんできるよ！\n\x0e\0\x03\x02\0\0マイページ\x0e\0\x03\x02ÿÿでは　いろいろ　せっていできるから\nきになったら　かくにんしてみてね。
+ComWindow054_Info	{color[0000]}せかいじゅうの　ともだち{color[ffff]}が　とった{color[0000]}しゃしん{color[ffff]}や\n{color[0000]}ランキング{color[ffff]}が　かくにんできるよ！\n{color[0000]}マイページ{color[ffff]}では　いろいろ　せっていできるから\nきになったら　かくにんしてみてね。
 ComWindow054_Select1	OK
-ComWindow055_Info	かく\x0e\0\x03\x02\0\0スコア\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　きになったら\nここに　みにきてね！\n\x0e\0\x03\x02\0\0フレンド\x0e\0\x03\x02ÿÿや　つかっている\x0e\0\x03\x02\0\0げんご\x0e\0\x03\x02ÿÿで\nしぼりこむこともできるよ。
+ComWindow055_Info	かく{color[0000]}スコア{color[ffff]}の　{color[0000]}ランキング{color[ffff]}が　きになったら\nここに　みにきてね！\n{color[0000]}フレンド{color[ffff]}や　つかっている{color[0000]}げんご{color[ffff]}で\nしぼりこむこともできるよ。
 ComWindow055_Select1	OK
-ComWindow056_Info	キミの　\x0e\0\x03\x02\0\0プロフィール\x0e\0\x03\x02ÿÿを　せっていできるよ。\nせかいじゅうの　ひとに　みてもらいたい\nしゃしんがあったら　ここに　\x0e\0\x03\x02\0\0アップロード\x0e\0\x03\x02ÿÿしてね！
+ComWindow056_Info	キミの　{color[0000]}プロフィール{color[ffff]}を　せっていできるよ。\nせかいじゅうの　ひとに　みてもらいたい\nしゃしんがあったら　ここに　{color[0000]}アップロード{color[ffff]}してね！
 ComWindow056_Select1	OK
 ComWindow057_Info	しゃしんを　アップロードしました。
 ComWindow057_Select1	OK
 ComWindow058_Info	オンラインのマイページから　しゃしんを　とりさげました。
 ComWindow058_Select1	OK
-ComWindow059_Info	しゃしんを　アップロードしています。\nしばらく　おまちください。\n\x0e\x03\x01\x02\0Í％
+ComWindow059_Info	しゃしんを　アップロードしています。\nしばらく　おまちください。\n{[0301|00cd]}％
 ComWindow060_Info	データを　しゅとくしています。
 ComWindow061_Info	つうしんしています。\nしばらく　おまちください。
 ComWindow064_Info	ネットワークエラーが　はっせいしました。
@@ -188,10 +188,10 @@ ComWindow069_Select1	はい
 ComWindow069_Select2	いいえ
 ComWindow070_Info	はかせに　みせられるしゃしんが　ありません。\nこのまま　しゅうりょうします。
 ComWindow070_Select1	OK
-ComWindow071_Info	\x0e\0\x03\x02\x08\0オンラインの　ちゅういじこう\x0e\0\x03\x02ÿÿ\x0e\0\x04\0オンラインでは　あなたの　\x0e\0\x03\x02\x08\0なまえ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\x08\0コメント\x0e\0\x03\x02ÿÿ\n\x0e\0\x03\x02\x08\0アップロードしたしゃしん\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\x08\0タイトル\x0e\0\x03\x02ÿÿなどの\nコンテンツを　ほかのひとも　みることができます。\n\nふてきせつな　ないようを　さけて　おたのしみください。\x0e\0\x04\0いほうな　ないよう　／　こじんじょうほう\nたにんのけんりを　しんがいする　ないよう\nふかいな　おもいをさせる　ないよう\nを　ふくむ　コンテンツの　アップロードや\x0e\0\x04\0ほかのひとに　ふかいなおもいをさせる　こうい\nふせいこういは　しないでください。\x0e\0\x04\0コンテンツや　ゲームちゅうの　こういには\n「\x0e\0\x03\x02\x08\0ニンテンドーアカウントりようきやく\x0e\0\x03\x02ÿÿ」\nが　てきようされます。\nいはんしているばあい　コンテンツが　さくじょされたり\nオンラインせつぞくが　せいげんされることがあります。\x0e\0\x04\0ふてきせつな　コンテンツは　つうほうできます。\nじじつと　ことなる　つうほうは　おやめください。\n\n「\x0e\0\x03\x02\x08\0ニンテンドーアカウントりようきやく\x0e\0\x03\x02ÿÿ」に\nしたがって　おたのしみください。
+ComWindow071_Info	{color[0800]}オンラインの　ちゅういじこう{color[ffff]}{[0004]}オンラインでは　あなたの　{color[0800]}なまえ{color[ffff]}や　{color[0800]}コメント{color[ffff]}\n{color[0800]}アップロードしたしゃしん{color[ffff]}や　{color[0800]}タイトル{color[ffff]}などの\nコンテンツを　ほかのひとも　みることができます。\n\nふてきせつな　ないようを　さけて　おたのしみください。{[0004]}いほうな　ないよう　／　こじんじょうほう\nたにんのけんりを　しんがいする　ないよう\nふかいな　おもいをさせる　ないよう\nを　ふくむ　コンテンツの　アップロードや{[0004]}ほかのひとに　ふかいなおもいをさせる　こうい\nふせいこういは　しないでください。{[0004]}コンテンツや　ゲームちゅうの　こういには\n「{color[0800]}ニンテンドーアカウントりようきやく{color[ffff]}」\nが　てきようされます。\nいはんしているばあい　コンテンツが　さくじょされたり\nオンラインせつぞくが　せいげんされることがあります。{[0004]}ふてきせつな　コンテンツは　つうほうできます。\nじじつと　ことなる　つうほうは　おやめください。\n\n「{color[0800]}ニンテンドーアカウントりようきやく{color[ffff]}」に\nしたがって　おたのしみください。
 ComWindow071_Select1	つぎへ
 ComWindow075_Select1	OK
-ComWindow076_Info	ほかのひとの　\x0e\0\x03\x02\0\0プロフィール\x0e\0\x03\x02ÿÿが　かくにんできるよ。\n\nいいしゃしんがあったら　\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿを　おくろう！\x0e\0\x04\0もし　ふかいにかんじたら　そのないようを\nつうほうボタンから　\x0e\0\x03\x02\0\0つうほう\x0e\0\x03\x02ÿÿしてね。\n\n\x0e\0\x03\x02\0\0ブロック\x0e\0\x03\x02ÿÿすると　そのひとの　なまえや　コメント\nしゃしんを　ひひょうじにできるよ。
+ComWindow076_Info	ほかのひとの　{color[0000]}プロフィール{color[ffff]}が　かくにんできるよ。\n\nいいしゃしんがあったら　{color[0000]}りんごメダル{color[ffff]}を　おくろう！{[0004]}もし　ふかいにかんじたら　そのないようを\nつうほうボタンから　{color[0000]}つうほう{color[ffff]}してね。\n\n{color[0000]}ブロック{color[ffff]}すると　そのひとの　なまえや　コメント\nしゃしんを　ひひょうじにできるよ。
 ComWindow076_Select1	つぎへ
 ComWindow076_Select2	OK
 ComWindow077_Info	おくった　りんごメダルを　とりさげますか？
@@ -199,13 +199,13 @@ ComWindow077_Select1	はい
 ComWindow077_Select2	いいえ
 ComWindow078_Info	けんきゅうしつから　オンラインを　えらんで\nちゅういじこうを　かくにんしてください。
 ComWindow078_Select1	OK
-ComWindow080_Info	ちょうさしたあとは　\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿの\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿにある\n\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿにほぞんする　しゃしんを　えらべるよ。\n\x0e\0\x03\x02\0\0エクストラさつえい\x0e\0\x03\x02ÿÿでは　せっていをへんこうして\nもういちど　さつえいできるから　ためしてみてね。
+ComWindow080_Info	ちょうさしたあとは　{color[0000]}けんきゅうしつ{color[ffff]}の{color[0000]}マイスペース{color[ffff]}にある\n{color[0000]}アルバム{color[ffff]}にほぞんする　しゃしんを　えらべるよ。\n{color[0000]}エクストラさつえい{color[ffff]}では　せっていをへんこうして\nもういちど　さつえいできるから　ためしてみてね。
 ComWindow080_Select1	OK
 ComWindow081_Info	これいじょう　アップロードできません。\nオンラインのマイページから　しゃしんを　とりさげて\nわくを　あけてから　もういちど　おためしください。
 ComWindow081_Select1	OK
 ComWindow082_Info	ひょうじできるデータがありません。\nランキングの　こうしんには\nじかんが　かかるばあいが　あります。
 ComWindow082_Select1	OK
-ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルのまいすうは　リセットされます。\n\x0e\0\x03\x02\x08\0りんごメダルをもらったかずの　そうすうは　へりません\x0e\0\x03\x02ÿÿ
+ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルのまいすうは　リセットされます。\n{color[0800]}りんごメダルをもらったかずの　そうすうは　へりません{color[ffff]}
 ComWindow083_Select1	はい
 ComWindow083_Select2	いいえ
 EvaluationPhotoCaption_Info.msbt
@@ -919,13 +919,13 @@ EB_NoSnap_03	おや？\nこんかいは　0まいなんだね。
 ES_Com_01	さて　こんかいは\nどんな　しゃしんがあるかな？
 ES_Com_02	よし　それじゃあ\nいっしょに　みていこうか。
 ES_Com_03	さあ　しゃしんのチェックを\nはじめようか！
-EV_Fr_1st_01	これは　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Boss_Light_01	これは　イルミナじょうたいの　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Boss_Dark_01	これは　イルミナポケモンの　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Unknown_01	これは･･････　\x0e\x03\x01\x02\0Íだろうか？
-EV_Fr_2nd_01	さて　つぎは　\x0e\x03\x01\x02\0Íか！
-EV_Fr_2nd_02	つぎは　\x0e\x03\x01\x02\0Íか。
-EV_Fr_2nd_03	このしゃしんは　\x0e\x03\x01\x02\0Íか。
+EV_Fr_1st_01	これは　{[0301|00cd]}か！
+EV_Fr_Boss_Light_01	これは　イルミナじょうたいの　{[0301|00cd]}か！
+EV_Fr_Boss_Dark_01	これは　イルミナポケモンの　{[0301|00cd]}か！
+EV_Fr_Unknown_01	これは･･････　{[0301|00cd]}だろうか？
+EV_Fr_2nd_01	さて　つぎは　{[0301|00cd]}か！
+EV_Fr_2nd_02	つぎは　{[0301|00cd]}か。
+EV_Fr_2nd_03	このしゃしんは　{[0301|00cd]}か。
 EV_Cat_Cute_01	なごやかな　ふんいきだね。
 EV_Cat_Cute_02	とても　チャーミングだね。
 EV_Cat_Cute_03	なんだか　ほほえましいね。
@@ -1579,9 +1579,9 @@ EV_Tim_Star2_03	いいね。　なかなかの　ショットだ。
 EV_Tim_Star1_01	つぎは･･････　うごきを　よくみて　タイミングを　あわせてみよう。
 EV_Tim_Star1_02	タイミングは･･････　もうひとがんばりかな。
 EV_Tim_Star1_03	おしいなあ･･････　タイミングが　あとすこしよければ。
-EV_End_CompPokedex_01	\x0e\x03\x01\x02\0Íの　ページのしゃしんが\nすべてうまったね！　おめでとう！
-EV_End_CompPokedex_02	すべての★のしゃしんが　うまったね！\nこれで　\x0e\x03\x01\x02\0Íの　ページはかんせいだ！
-EV_End_CompPokedex_03	\x0e\x03\x01\x02\0Íの　ページのしゃしんが　うまったね！\nさすが！　としか　いえないよ！
+EV_End_CompPokedex_01	{[0301|00cd]}の　ページのしゃしんが\nすべてうまったね！　おめでとう！
+EV_End_CompPokedex_02	すべての★のしゃしんが　うまったね！\nこれで　{[0301|00cd]}の　ページはかんせいだ！
+EV_End_CompPokedex_03	{[0301|00cd]}の　ページのしゃしんが　うまったね！\nさすが！　としか　いえないよ！
 EV_End_Outcome_SizeGP_01	ポケモンが　しっかりおおきく\nうつっているところがいいね。
 EV_End_Outcome_SizeGP_02	ポケモンを　おおきく　とらえられているね。\nよく　とれているよ。
 EV_End_Outcome_SizeTips_01	ポケモンのぜんしんを　おおきくうつす。\n「おおきさ」の　きほんだよ。　おぼえておいてね。
@@ -1865,20 +1865,20 @@ Evaluation_Start_PhotoBy_Tx	さつえいしゃ
 Evaluation_Evaluation_BookPhoto_Tx	ずかんのしゃしん
 Evaluation_Evaluation_SubmitPhoto_Tx	こんかいのしゃしん
 Evaluation_AfterClear_ResearchLv_Tx	ちょうさレベル
-Evaluation_AfterClear_ResearchLv_Num	Lv.\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_ResearchLv_Num	Lv.{[0301|00cd]}
 Evaluation_AfterClear_ResearchLvMax_Num	Lv.MAX
-Evaluation_AfterClear_NextLv_Num	つぎのレベルまであと  \x0e\0\x03\x02\x04\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+Evaluation_AfterClear_NextLv_Num	つぎのレベルまであと  {color[0400]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 Evaluation_AfterClear_GetExp_Tx	こんかいのちょうさポイント
-Evaluation_AfterClear_GetExp_Num	＋\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_GetExp_Num	＋{[0301|00cd]}
 Evaluation_AfterClear_CourseScore_Tx	ルートスコア
 Evaluation_AfterClear_HighScore_Tx	ハイスコア
 Evaluation_AfterClear_ProfessorRecommend_Tx	はかせのおきにいり
 Evaluation_AfterClear_NewRecord_Tx	NEW RECORD !!
 Evaluation_Jingle_ResearchLv_Tx	ちょうさレベル
 Evaluation_Jingle_LvUp_Tx	レベルアップ！
-Evaluation_Evaluation_ScoreLow_Num	\x0e\x03\x01\x02\0Í
-Evaluation_Evaluation_ScoreHigh_Num	\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
-Evaluation_Evaluation_ScoreHigh2_Num	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
+Evaluation_Evaluation_ScoreLow_Num	{[0301|00cd]}
+Evaluation_Evaluation_ScoreHigh_Num	{color[0800]}{[0301|00cd]}{color[ffff]}
+Evaluation_Evaluation_ScoreHigh2_Num	{color[0000]}{[0301|00cd]}{color[ffff]}
 General.msbt
 GameTitle_PressStart_Tx	PRESS ANY BUTTON
 GameTitle_Copyright_Tx	© 2021 Pokémon/Nintendo/Creatures/GAME FREAK.
@@ -1906,7 +1906,7 @@ NotOpen_Tx	？？？
 NotExist_Tx	ーーー
 Skip_Tx	 スキップ
 NoTarget_Tx	No Data
-Number_Num	No.\x0e\x03\x01\x02\0Í
+Number_Num	No.{[0301|00cd]}
 Distance_Unit	km
 Ending_Thanks_Tx	Thank you, everyone!
 Order_Date_Tx	にちじ
@@ -1949,7 +1949,7 @@ Keyboard_ErrorNgWord_Info	つかえないことばが　ふくまれています
 Keyboard_ErrorNumbers_Info	つかえるすうじは　5もじまでです。
 InitialSetting_UI.msbt
 InitialSetting_Save_AutoSave1_Info	このゲームは　オートセーブをおこないます。\nオートセーブアイコンがでているあいだは　でんげんをきらないでください。
-InitialSetting_Language_SelectText1_Info	どのげんごで　あそびますか？\n\x0e\0\x03\x02\x08\0あとからへんこうすることが　できません\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectText1_Info	どのげんごで　あそびますか？\n{color[0800]}あとからへんこうすることが　できません{color[ffff]}
 InitialSetting_Language_Jpn_Tx	日本語
 InitialSetting_Language_JpnKana_Tx	にほんご
 InitialSetting_Language_English_Tx	English
@@ -1960,14 +1960,14 @@ InitialSetting_Language_Spanish_Tx	Español
 InitialSetting_Language_Korean_Tx	한국어
 InitialSetting_Language_Cn_Tx	简体中文
 InitialSetting_Language_Tw_Tx	繁體中文
-InitialSetting_Language_SelectVoice1_Info	とうじょうじんぶつのボイスのしゅるいを　えらんでください\n\x0e\0\x03\x02\x08\0あとからへんこうすることが　できます\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectVoice1_Info	とうじょうじんぶつのボイスのしゅるいを　えらんでください\n{color[0800]}あとからへんこうすることが　できます{color[ffff]}
 InitialSetting_Language_JpnVoice_Tx	にほんご
 InitialSetting_Language_EnVoice_Tx	えいご
 InitialSetting_Language_NonVoice_Tx	ボイスなし
-InitialSetting_PlayerSetting_SelectAvatar1_Info	あなたのしゃしんを　えらんでください\n\x0e\0\x03\x02\x08\0あとからへんこうすることが　できません\x0e\0\x03\x02ÿÿ
+InitialSetting_PlayerSetting_SelectAvatar1_Info	あなたのしゃしんを　えらんでください\n{color[0800]}あとからへんこうすることが　できません{color[ffff]}
 InitialSetting_PlayerSetting_EnterName1_Info	あなたのなまえを　おしえてください
 InitialSetting_PlayerSetting_EnterName2_Info	あとからへんこうすることが　できます
-InitialSetting_PlayerSetting_FinalCheck1_Info	こちらで　よろしいですか？\n\x0e\0\x03\x02\x08\0ひらがなと　かんじは　あとからへんこうできます\x0e\0\x03\x02ÿÿ
+InitialSetting_PlayerSetting_FinalCheck1_Info	こちらで　よろしいですか？\n{color[0800]}ひらがなと　かんじは　あとからへんこうできます{color[ffff]}
 InitialSetting_PlayerSetting_Yes_Tx	はい
 InitialSetting_PlayerSetting_No_Tx	いいえ
 MainMenu_UI.msbt
@@ -2000,9 +2000,9 @@ MapSelect_StageSelect_Head	レンティルマップ
 MapSelect_StageSelect_Help	ちょうさするエリアを　えらんでください
 MapSelect_CourseSelect_Help	ちょうさするルートを　えらんでください
 MapSelect_CourseSelect_CourseLv_Tx	ちょうさレベル
-MapSelect_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+MapSelect_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 MapSelect_CourseSelect_CourseLvMax_Num	Lv. MAX
-MapSelect_CourseSelect_NextLv_Num	つぎのレベルまであと  \x0e\0\x03\x02\x07\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+MapSelect_CourseSelect_NextLv_Num	つぎのレベルまであと  {color[0700]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 MapSelect_CourseSelect_HighScore_Tx	ハイスコア
 MapSelect_CourseSelect_ChangeCourseLv_Tx	 ちょうさレベルをへんこう
 MapSelect_CourseSelect_ChangeCourseLv1_Tx	Lv. 1
@@ -2043,7 +2043,7 @@ PlayerData_HighScore_Star3_Tx	★3　さいこう
 PlayerData_HighScore_Star4_Tx	★4　さいこう
 PlayerData_CourseScore_Tx	ルートスコア
 PlayerData_CourseScore_TotalScore_Tx	    そうごう
-PlayerData_CourseScore_HighScore_Num	    さいこう　\x0e\x03\x01\x02\0Í
+PlayerData_CourseScore_HighScore_Num	    さいこう　{[0301|00cd]}
 PlayerData_CountPhoto_Poke_Tx	ポケモンをさつえいしたまいすう
 PlayerData_CountPhoto_Flower_Tx	クリスタフラワーをさつえいしたまいすう
 PlayerData_CountPhoto_Remains_Tx	こだいいせきをさつえいしたまいすう
@@ -2063,245 +2063,245 @@ PlayerData_CountLike_TotalGive_Tx	りんごメダルをおくったかず
 PlayerData_CountPhoto_Upload_Tx	じぶんでオンラインにアップロードしたまいすう
 PlayerData_CountPhoto_ProfessorRecommend_Tx	はかせがオンラインにアップロードしたまいすう
 MySpaceTitle_Info.msbt
-Title001_Info2	\x0e\0\x03\x02\0\0フロレオしぜんこうえん\x0e\0\x03\x02ÿÿを\nはじめて　ちょうさした
-Title002_Info2	\x0e\0\x03\x02\0\0フロレオしぜんこうえん\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ビッパのダムに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title005_Info2	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0けんきゅうしょないに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title006_Info2	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿを　はじめて　ちょうさした
-Title007_Info2	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ぬまちに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title008_Info2	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0たきのうらがわに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title010_Info2	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0はるなつあきふゆ　4つのきせつ\x0e\0\x03\x02ÿÿを\nめぐった
-Title011_Info2	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ひだまりに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title012_Info2	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿを　はじめて　ちょうさした
-Title013_Info2	\x0e\0\x03\x02\0\0ニジイロビーチ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0かくれたすなはまに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title014_Info2	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ホエルオーのあたまのそばを　とおるルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title015_Info2	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ブルーホールに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title016_Info2	\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0かいちゅうどうくつに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title017_Info2	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿを　はじめて　ちょうさした
-Title018_Info2	\x0e\0\x03\x02\0\0ネッサさばく\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0オアシスしゅうへんのルート\x0e\0\x03\x02ÿÿを　すべて\nちょうさした
-Title020_Info2	\x0e\0\x03\x02\0\0ドローかざん\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0あおいようがんどうくつに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title021_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ウルガモス\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Title022_Info2	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿを　はじめて　ちょうさした
-Title023_Info2	\x0e\0\x03\x02\0\0ヒエールせつげん\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ゆきのかべのむこうに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title024_Info2	\x0e\0\x03\x02\0\0ヒエールせつげん\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0こおりのどうくつに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title025_Info2	\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0きょだいけっしょうに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title026_Info2	\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0リムストーンプールに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title027_Info2	\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ちていくうかんの　かべむこうのルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title028_Info2	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿを　はじめて　ちょうさした
-Title029_Info2	\x0e\0\x03\x02\0\0シューゴいせき\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ちじょうにつづく　ひかりのみち\x0e\0\x03\x02ÿÿを\nはっけんした
-Title030_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ゼルネアス\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
+Title001_Info2	{color[0000]}フロレオしぜんこうえん{color[ffff]}を\nはじめて　ちょうさした
+Title002_Info2	{color[0000]}フロレオしぜんこうえん{color[ffff]}で　{color[0000]}ビッパのダムに　つづくルート{color[ffff]}を\nはっけんした
+Title005_Info2	{color[0000]}ベースキャンプ{color[ffff]}で　{color[0000]}けんきゅうしょないに　つづくルート{color[ffff]}を\nはっけんした
+Title006_Info2	{color[0000]}ベラスとう{color[ffff]}を　はじめて　ちょうさした
+Title007_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}ぬまちに　つづくルート{color[ffff]}を\nはっけんした
+Title008_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}たきのうらがわに　つづくルート{color[ffff]}を\nはっけんした
+Title010_Info2	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}はるなつあきふゆ　4つのきせつ{color[ffff]}を\nめぐった
+Title011_Info2	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}ひだまりに　つづくルート{color[ffff]}を\nはっけんした
+Title012_Info2	{color[0000]}コピアしょとう{color[ffff]}を　はじめて　ちょうさした
+Title013_Info2	{color[0000]}ニジイロビーチ{color[ffff]}で　{color[0000]}かくれたすなはまに　つづくルート{color[ffff]}を\nはっけんした
+Title014_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}ホエルオーのあたまのそばを　とおるルート{color[ffff]}を\nはっけんした
+Title015_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}ブルーホールに　つづくルート{color[ffff]}を\nはっけんした
+Title016_Info2	{color[0000]}レンティルかいしょう{color[ffff]}で　{color[0000]}かいちゅうどうくつに　つづくルート{color[ffff]}を\nはっけんした
+Title017_Info2	{color[0000]}ボルクとう{color[ffff]}を　はじめて　ちょうさした
+Title018_Info2	{color[0000]}ネッサさばく{color[ffff]}で　{color[0000]}オアシスしゅうへんのルート{color[ffff]}を　すべて\nちょうさした
+Title020_Info2	{color[0000]}ドローかざん{color[ffff]}で　{color[0000]}あおいようがんどうくつに　つづくルート{color[ffff]}を\nはっけんした
+Title021_Info2	イルミナポケモンの　{color[0000]}ウルガモス{color[ffff]}を\nフォトずかんに　とうろくした
+Title022_Info2	{color[0000]}デュラスとう{color[ffff]}を　はじめて　ちょうさした
+Title023_Info2	{color[0000]}ヒエールせつげん{color[ffff]}で　{color[0000]}ゆきのかべのむこうに　つづくルート{color[ffff]}を\nはっけんした
+Title024_Info2	{color[0000]}ヒエールせつげん{color[ffff]}で　{color[0000]}こおりのどうくつに　つづくルート{color[ffff]}を\nはっけんした
+Title025_Info2	{color[0000]}ハナレどうくつ{color[ffff]}で　{color[0000]}きょだいけっしょうに　つづくルート{color[ffff]}を\nはっけんした
+Title026_Info2	{color[0000]}ハナレどうくつ{color[ffff]}で　{color[0000]}リムストーンプールに　つづくルート{color[ffff]}を\nはっけんした
+Title027_Info2	{color[0000]}ハナレどうくつ{color[ffff]}で　{color[0000]}ちていくうかんの　かべむこうのルート{color[ffff]}を\nはっけんした
+Title028_Info2	{color[0000]}アウラムとう{color[ffff]}を　はじめて　ちょうさした
+Title029_Info2	{color[0000]}シューゴいせき{color[ffff]}で　{color[0000]}ちじょうにつづく　ひかりのみち{color[ffff]}を\nはっけんした
+Title030_Info2	イルミナポケモンの　{color[0000]}ゼルネアス{color[ffff]}を\nフォトずかんに　とうろくした
 Title031_Info2	レンティルちほうを　ひととおり　ちょうさした
-Title032_Info1	ちょうさレベルを　\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿルート\nMAXにしよう
-Title032_Info2	ちょうさレベルを　\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title033_Info1	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title033_Info2	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title034_Info1	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title034_Info2	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title035_Info1	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title035_Info2	ちょうさレベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
+Title032_Info1	ちょうさレベルを　{color[0000]}1{color[ffff]}ルート\nMAXにしよう
+Title032_Info2	ちょうさレベルを　{color[0000]}1{color[ffff]}ルート\nMAXにした
+Title033_Info1	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title033_Info2	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
+Title034_Info1	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title034_Info2	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
+Title035_Info1	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title035_Info2	ちょうさレベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
 Title036_Info1	ちょうさレベルを　すべてのルート\nMAXにしよう
 Title036_Info2	ちょうさレベルを　すべてのルート\nMAXにした
-Title037_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title037_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title038_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title038_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title039_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title039_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title040_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title040_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title041_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title041_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title042_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title042_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title043_Info1	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title043_Info2	しゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title044_Info1	いちどのちょうさで　\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿのしゃしんを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　さつえいしよう
-Title044_Info2	いちどのちょうさで　\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿのしゃしんを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　さつえいした
-Title045_Info1	いちどのちょうさで　\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿのしゃしんを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　さつえいしよう
-Title045_Info2	いちどのちょうさで　\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿのしゃしんを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　さつえいした
-Title046_Info1	おなじ　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title046_Info2	おなじ　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい　はかせにみせた
-Title047_Info2	しゅやくのいないしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい　さつえいした
-Title048_Info1	いどうしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title048_Info2	いどうしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title049_Info1	しょくじしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title049_Info2	しょくじしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title050_Info1	よろこんでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title050_Info2	よろこんでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title051_Info1	とくべつなこうどうをしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title051_Info2	とくべつなこうどうをしている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title052_Info1	ねている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title052_Info2	ねている　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title053_Info1	およいでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title053_Info2	およいでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title054_Info1	とんでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title054_Info2	とんでいる　ポケモンのしゃしんを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　はかせにみせた
-Title056_Info1	\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title056_Info2	\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title057_Info1	\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title057_Info2	\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title058_Info1	\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title058_Info2	\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title059_Info1	\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title059_Info2	\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title062_Info1	ひょうかが　\x0e\0\x03\x02\0\0きん\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title062_Info2	ひょうかが　\x0e\0\x03\x02\0\0きん\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title063_Info1	ひょうかが　\x0e\0\x03\x02\0\0ダイヤモンド\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title063_Info2	ひょうかが　\x0e\0\x03\x02\0\0ダイヤモンド\x0e\0\x03\x02ÿÿのしゃしんを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nさつえいした
-Title064_Info1	\x0e\0\x03\x02\0\0むしタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title064_Info2	\x0e\0\x03\x02\0\0むしタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title065_Info1	\x0e\0\x03\x02\0\0でんきタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title065_Info2	\x0e\0\x03\x02\0\0でんきタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title066_Info1	\x0e\0\x03\x02\0\0みずタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title066_Info2	\x0e\0\x03\x02\0\0みずタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title067_Info1	\x0e\0\x03\x02\0\0あくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title067_Info2	\x0e\0\x03\x02\0\0あくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title068_Info1	\x0e\0\x03\x02\0\0フェアリータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title068_Info2	\x0e\0\x03\x02\0\0フェアリータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title069_Info1	\x0e\0\x03\x02\0\0くさタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title069_Info2	\x0e\0\x03\x02\0\0くさタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title070_Info1	\x0e\0\x03\x02\0\0ほのおタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title070_Info2	\x0e\0\x03\x02\0\0ほのおタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title071_Info1	\x0e\0\x03\x02\0\0エスパータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title071_Info2	\x0e\0\x03\x02\0\0エスパータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title072_Info1	\x0e\0\x03\x02\0\0ゴーストタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title072_Info2	\x0e\0\x03\x02\0\0ゴーストタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title073_Info1	\x0e\0\x03\x02\0\0どくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title073_Info2	\x0e\0\x03\x02\0\0どくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title074_Info1	\x0e\0\x03\x02\0\0かくとうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title074_Info2	\x0e\0\x03\x02\0\0かくとうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title075_Info1	\x0e\0\x03\x02\0\0じめんタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title075_Info2	\x0e\0\x03\x02\0\0じめんタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title076_Info1	\x0e\0\x03\x02\0\0いわタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title076_Info2	\x0e\0\x03\x02\0\0いわタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title077_Info1	\x0e\0\x03\x02\0\0ドラゴンタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title077_Info2	\x0e\0\x03\x02\0\0ドラゴンタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title078_Info1	\x0e\0\x03\x02\0\0こおりタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title078_Info2	\x0e\0\x03\x02\0\0こおりタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title079_Info1	\x0e\0\x03\x02\0\0はがねタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title079_Info2	\x0e\0\x03\x02\0\0はがねタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title080_Info1	\x0e\0\x03\x02\0\0ノーマルタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title080_Info2	\x0e\0\x03\x02\0\0ノーマルタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title081_Info1	\x0e\0\x03\x02\0\0ひこうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title081_Info2	\x0e\0\x03\x02\0\0ひこうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title082_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title082_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title083_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title083_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title084_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title084_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
-Title085_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title085_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい\nフォトずかんに　とうろくした
+Title037_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title037_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title038_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title038_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title039_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title039_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title040_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title040_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title041_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title041_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title042_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title042_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title043_Info1	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title043_Info2	しゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title044_Info1	いちどのちょうさで　{color[0000]}★3{color[ffff]}のしゃしんを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　さつえいしよう
+Title044_Info2	いちどのちょうさで　{color[0000]}★3{color[ffff]}のしゃしんを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　さつえいした
+Title045_Info1	いちどのちょうさで　{color[0000]}★4{color[ffff]}のしゃしんを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　さつえいしよう
+Title045_Info2	いちどのちょうさで　{color[0000]}★4{color[ffff]}のしゃしんを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　さつえいした
+Title046_Info1	おなじ　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title046_Info2	おなじ　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい　はかせにみせた
+Title047_Info2	しゅやくのいないしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい　さつえいした
+Title048_Info1	いどうしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title048_Info2	いどうしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title049_Info1	しょくじしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title049_Info2	しょくじしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title050_Info1	よろこんでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title050_Info2	よろこんでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title051_Info1	とくべつなこうどうをしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title051_Info2	とくべつなこうどうをしている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title052_Info1	ねている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title052_Info2	ねている　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title053_Info1	およいでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title053_Info2	およいでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title054_Info1	とんでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title054_Info2	とんでいる　ポケモンのしゃしんを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　はかせにみせた
+Title056_Info1	{color[0000]}★1{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title056_Info2	{color[0000]}★1{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title057_Info1	{color[0000]}★2{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title057_Info2	{color[0000]}★2{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title058_Info1	{color[0000]}★3{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title058_Info2	{color[0000]}★3{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title059_Info1	{color[0000]}★4{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title059_Info2	{color[0000]}★4{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title062_Info1	ひょうかが　{color[0000]}きん{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title062_Info2	ひょうかが　{color[0000]}きん{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title063_Info1	ひょうかが　{color[0000]}ダイヤモンド{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title063_Info2	ひょうかが　{color[0000]}ダイヤモンド{color[ffff]}のしゃしんを　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}まい\nさつえいした
+Title064_Info1	{color[0000]}むしタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title064_Info2	{color[0000]}むしタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title065_Info1	{color[0000]}でんきタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title065_Info2	{color[0000]}でんきタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title066_Info1	{color[0000]}みずタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title066_Info2	{color[0000]}みずタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title067_Info1	{color[0000]}あくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title067_Info2	{color[0000]}あくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title068_Info1	{color[0000]}フェアリータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title068_Info2	{color[0000]}フェアリータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title069_Info1	{color[0000]}くさタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title069_Info2	{color[0000]}くさタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title070_Info1	{color[0000]}ほのおタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title070_Info2	{color[0000]}ほのおタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title071_Info1	{color[0000]}エスパータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title071_Info2	{color[0000]}エスパータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title072_Info1	{color[0000]}ゴーストタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title072_Info2	{color[0000]}ゴーストタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title073_Info1	{color[0000]}どくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title073_Info2	{color[0000]}どくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title074_Info1	{color[0000]}かくとうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title074_Info2	{color[0000]}かくとうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title075_Info1	{color[0000]}じめんタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title075_Info2	{color[0000]}じめんタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title076_Info1	{color[0000]}いわタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title076_Info2	{color[0000]}いわタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title077_Info1	{color[0000]}ドラゴンタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title077_Info2	{color[0000]}ドラゴンタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title078_Info1	{color[0000]}こおりタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title078_Info2	{color[0000]}こおりタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title079_Info1	{color[0000]}はがねタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title079_Info2	{color[0000]}はがねタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title080_Info1	{color[0000]}ノーマルタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title080_Info2	{color[0000]}ノーマルタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title081_Info1	{color[0000]}ひこうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title081_Info2	{color[0000]}ひこうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title082_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title082_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title083_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title083_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title084_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title084_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
+Title085_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title085_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい\nフォトずかんに　とうろくした
 Title086_Info1	ポケモンを　すべて\nフォトずかんに　とうろくしよう
 Title086_Info2	ポケモンを　すべて\nフォトずかんに　とうろくした
-Title087_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title087_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせた
-Title088_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title088_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせた
-Title089_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title089_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせた
-Title090_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title090_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿしゅるい　かんせいさせた
+Title087_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title087_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせた
+Title088_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title088_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせた
+Title089_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title089_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせた
+Title090_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title090_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}しゅるい　かんせいさせた
 Title091_Info1	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nすべてのポケモン　かんせいさせよう
 Title091_Info2	★1～4のしゃしんを　うめて　フォトずかんじょうほうを\nすべてのポケモン　かんせいさせた
-Title092_Info1	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title092_Info2	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせた
-Title093_Info1	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title093_Info2	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせた
-Title094_Info1	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title094_Info2	ルートの　ちょうさマップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿこ\nかんせいさせた
+Title092_Info1	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title092_Info2	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせた
+Title093_Info1	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title093_Info2	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせた
+Title094_Info1	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title094_Info2	ルートの　ちょうさマップを　{color[0000]}{[0301|00cd]}{color[ffff]}こ\nかんせいさせた
 Title095_Info1	すべてのルートの　ちょうさマップを\nかんせいさせよう
 Title095_Info2	すべてのルートの　ちょうさマップを\nかんせいさせた
-Title096_Info1	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくしよう
-Title096_Info2	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくした
-Title097_Info1	\x0e\0\x03\x02\0\0こだいいせき\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくしよう
-Title097_Info2	\x0e\0\x03\x02\0\0こだいいせき\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくした
-Title099_Info1	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title099_Info2	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title100_Info1	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title100_Info2	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title101_Info1	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title101_Info2	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title102_Info1	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title102_Info2	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title103_Info1	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title103_Info2	そうごうずかんスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title104_Info1	しゃしんひょうかで　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうのスコアを\nかくとくしよう
-Title104_Info2	しゃしんひょうかで　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうのスコアを\nかくとくした
-Title105_Info1	しゃしんひょうかで　\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうのスコアを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title105_Info2	しゃしんひょうかで　\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうのスコアを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title106_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくしよう
-Title106_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくした
-Title107_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title107_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title108_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0おおきさ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくしよう
-Title108_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0おおきさ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくした
-Title109_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0おおきさ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title109_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0おおきさ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title110_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくしよう
-Title110_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくした
-Title111_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title111_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title112_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0いち\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくしよう
-Title112_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0いち\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくした
-Title113_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0いち\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title113_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0いち\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title114_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくしよう
-Title114_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょう　かくとくした
-Title115_Info1	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title115_Info2	しゃしんひょうかで　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい　かくとくした
-Title116_Info1	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title116_Info2	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title117_Info1	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title117_Info2	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title118_Info1	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title118_Info2	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title119_Info1	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title119_Info2	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title120_Info1	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいしよう
-Title120_Info2	そうごうルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿてんいじょうを\nたっせいした
-Title121_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかしょ\nぶんせきしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title121_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかしょ\nぶんせきした
-Title122_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかしょ\nぶんせきしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title122_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかしょ\nぶんせきした
-Title123_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　すべてのちょうさかしょを\nぶんせきしよう
-Title123_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって　すべてのちょうさかしょを\nぶんせきした
-Title124_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title124_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせた
-Title125_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title125_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせた
-Title126_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title126_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nポケモンに　たべさせた
-Title129_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm\nポケモンを　ゆうどうしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title129_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm\nポケモンを　ゆうどうした
-Title136_Info1	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nクリスタフラワーを　はっこうさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title136_Info2	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿをつかって　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿかい\nクリスタフラワーを　はっこうさせた
-Title137_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title137_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうした
-Title138_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title138_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうした
-Title139_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title139_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nしゃしんを　とうこうした
-Title140_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　おくろう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title140_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　おくった
-Title141_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title141_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらった
-Title142_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title142_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらった
-Title143_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title143_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらった
-Title144_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title144_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらった
-Title145_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title145_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿまい\nりんごメダルを　もらった
-Title146_Info2	\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ルギアのすみかに　つづくルート\x0e\0\x03\x02ÿÿを\nはっけんした
-Title147_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ハガネール\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Title148_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0メガニウム\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Title149_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ミロカロス\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Title150_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ヨワシ（むれたすがた）\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Title151_Info1	もようのことなる　\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿを　すべて\nさつえいしよう
-Title151_Info2	もようのことなる　\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿを　すべて\nさつえいした
-Title152_Info1	\x0e\0\x03\x02\0\0イーブイ\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0イーブイからしんかするポケモン\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくしよう
-Title152_Info2	\x0e\0\x03\x02\0\0イーブイ\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0イーブイからしんかするポケモン\x0e\0\x03\x02ÿÿを　すべて\nフォトずかんに　とうろくした
+Title096_Info1	{color[0000]}クリスタフラワー{color[ffff]}を　すべて\nフォトずかんに　とうろくしよう
+Title096_Info2	{color[0000]}クリスタフラワー{color[ffff]}を　すべて\nフォトずかんに　とうろくした
+Title097_Info1	{color[0000]}こだいいせき{color[ffff]}を　すべて\nフォトずかんに　とうろくしよう
+Title097_Info2	{color[0000]}こだいいせき{color[ffff]}を　すべて\nフォトずかんに　とうろくした
+Title099_Info1	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title099_Info2	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title100_Info1	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title100_Info2	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title101_Info1	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title101_Info2	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title102_Info1	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title102_Info2	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title103_Info1	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title103_Info2	そうごうずかんスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title104_Info1	しゃしんひょうかで　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうのスコアを\nかくとくしよう
+Title104_Info2	しゃしんひょうかで　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうのスコアを\nかくとくした
+Title105_Info1	しゃしんひょうかで　{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうのスコアを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title105_Info2	しゃしんひょうかで　{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうのスコアを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title106_Info1	しゃしんひょうかで　「{color[0000]}ポーズ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくしよう
+Title106_Info2	しゃしんひょうかで　「{color[0000]}ポーズ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくした
+Title107_Info1	しゃしんひょうかで　「{color[0000]}ポーズ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title107_Info2	しゃしんひょうかで　「{color[0000]}ポーズ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title108_Info1	しゃしんひょうかで　「{color[0000]}おおきさ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくしよう
+Title108_Info2	しゃしんひょうかで　「{color[0000]}おおきさ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくした
+Title109_Info1	しゃしんひょうかで　「{color[0000]}おおきさ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title109_Info2	しゃしんひょうかで　「{color[0000]}おおきさ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title110_Info1	しゃしんひょうかで　「{color[0000]}むき{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくしよう
+Title110_Info2	しゃしんひょうかで　「{color[0000]}むき{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくした
+Title111_Info1	しゃしんひょうかで　「{color[0000]}むき{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title111_Info2	しゃしんひょうかで　「{color[0000]}むき{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title112_Info1	しゃしんひょうかで　「{color[0000]}いち{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくしよう
+Title112_Info2	しゃしんひょうかで　「{color[0000]}いち{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくした
+Title113_Info1	しゃしんひょうかで　「{color[0000]}いち{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title113_Info2	しゃしんひょうかで　「{color[0000]}いち{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title114_Info1	しゃしんひょうかで　「{color[0000]}ほかのポケモン{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくしよう
+Title114_Info2	しゃしんひょうかで　「{color[0000]}ほかのポケモン{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょう　かくとくした
+Title115_Info1	しゃしんひょうかで　「{color[0000]}ほかのポケモン{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title115_Info2	しゃしんひょうかで　「{color[0000]}ほかのポケモン{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}てんいじょうを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい　かくとくした
+Title116_Info1	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title116_Info2	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title117_Info1	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title117_Info2	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title118_Info1	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title118_Info2	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title119_Info1	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title119_Info2	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title120_Info1	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいしよう
+Title120_Info2	そうごうルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}てんいじょうを\nたっせいした
+Title121_Info1	{color[0000]}サーチ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かしょ\nぶんせきしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title121_Info2	{color[0000]}サーチ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かしょ\nぶんせきした
+Title122_Info1	{color[0000]}サーチ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かしょ\nぶんせきしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title122_Info2	{color[0000]}サーチ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かしょ\nぶんせきした
+Title123_Info1	{color[0000]}サーチ{color[ffff]}をつかって　すべてのちょうさかしょを\nぶんせきしよう
+Title123_Info2	{color[0000]}サーチ{color[ffff]}をつかって　すべてのちょうさかしょを\nぶんせきした
+Title124_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title124_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせた
+Title125_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title125_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせた
+Title126_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title126_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nポケモンに　たべさせた
+Title129_Info1	{color[0000]}ふわりんご{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}km\nポケモンを　ゆうどうしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title129_Info2	{color[0000]}ふわりんご{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}km\nポケモンを　ゆうどうした
+Title136_Info1	{color[0000]}イルミナオーブ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nクリスタフラワーを　はっこうさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title136_Info2	{color[0000]}イルミナオーブ{color[ffff]}をつかって　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}かい\nクリスタフラワーを　はっこうさせた
+Title137_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title137_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうした
+Title138_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title138_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうした
+Title139_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title139_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nしゃしんを　とうこうした
+Title140_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　おくろう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title140_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　おくった
+Title141_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title141_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらった
+Title142_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title142_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらった
+Title143_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title143_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらった
+Title144_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title144_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらった
+Title145_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title145_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}まい\nりんごメダルを　もらった
+Title146_Info2	{color[0000]}レンティルかいしょう{color[ffff]}で　{color[0000]}ルギアのすみかに　つづくルート{color[ffff]}を\nはっけんした
+Title147_Info2	イルミナポケモンの　{color[0000]}ハガネール{color[ffff]}を\nフォトずかんに　とうろくした
+Title148_Info2	イルミナポケモンの　{color[0000]}メガニウム{color[ffff]}を\nフォトずかんに　とうろくした
+Title149_Info2	イルミナポケモンの　{color[0000]}ミロカロス{color[ffff]}を\nフォトずかんに　とうろくした
+Title150_Info2	イルミナポケモンの　{color[0000]}ヨワシ（むれたすがた）{color[ffff]}を\nフォトずかんに　とうろくした
+Title151_Info1	もようのことなる　{color[0000]}ビビヨン{color[ffff]}を　すべて\nさつえいしよう
+Title151_Info2	もようのことなる　{color[0000]}ビビヨン{color[ffff]}を　すべて\nさつえいした
+Title152_Info1	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イーブイからしんかするポケモン{color[ffff]}を　すべて\nフォトずかんに　とうろくしよう
+Title152_Info2	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イーブイからしんかするポケモン{color[ffff]}を　すべて\nフォトずかんに　とうろくした
 MySpaceTitle_Name.msbt
 Title001_Name	さつえいたいけんかい
 Title002_Name	ダムかんせい
@@ -2443,7 +2443,7 @@ MySpaceTitle_UI.msbt
 MySpaceTitle_Top_Help	かくにんしたい　ちょうさしょうごうを　えらんでください
 MySpaceTitle_Top_Head	ちょうさしょうごう
 MySpaceTitle_Top_AchievementCondition_Tx	たっせいじょうけん
-MySpaceTitle_Top_AchievementDate_Num	\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ たっせい！
+MySpaceTitle_Top_AchievementDate_Num	{color[0800]}{[0301|00cd]}{color[ffff]} たっせい！
 MySpaceTop_UI.msbt
 MySpaceTop_Top_Head	マイスペース
 MySpaceTop_Top_Help	メニューこうもくを　えらんでください
@@ -2535,7 +2535,7 @@ Online_Top_PopularPhoto_Tx	いまにんきのしゃしん！
 Online_Top_PopularPhoto_Help	おおくの　りんごメダルを　かくとくしているしゃしんを　かくにんします
 Online_Top_RecommendPhoto_Tx	あなたにオススメ！
 Online_Top_RecommendPhoto_Help	あなたにオススメのしゃしんを　かくにんします
-Online_Top_Event01_Tx	ちゅうもくのルート！　\x0e\x03\x01\x02\0Í
+Online_Top_Event01_Tx	ちゅうもくのルート！　{[0301|00cd]}
 Online_Top_Event01_Help	いま　ちゅうもくのルートで　さつえいされたしゃしんを　かくにんします
 Online_Top_AllLang_Help	せかいじゅうのひとが　とったしゃしんを　ひょうじします
 Online_Top_YourLang_Help	あなたと　おなじげんごで　あそんでいるひとが　とったしゃしんを　ひょうじします
@@ -2664,13 +2664,13 @@ HowToPlay_Operation_Head	そうさほうほう
 HowToPlay_Operation_Page1_Tx	1
 HowToPlay_Operation_Page2_Tx	1/5
 HowToPlay_Operation1_Info	のこりさつえいまいすうが　0になると\nちょうさしゅうりょうだよ！
-HowToPlay_Operation2_Info	このアイコンがでたら　ちかくになにかあるよ。\n\x0e\x03\x01\x02\0Í でサーチして　あたりをみまわしてみよう！
+HowToPlay_Operation2_Info	このアイコンがでたら　ちかくになにかあるよ。\n{[0301|00cd]} でサーチして　あたりをみまわしてみよう！
 HowToPlay_Photograph_Head	しゃしんのとりかた
 HowToPlay_Photograph_Page1_Tx	2
 HowToPlay_Photograph_Page2_Tx	2/5
-HowToPlay_Photograph1_Info	\x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í でカメラをうごかして\nポケモンをみつけたら･･････
-HowToPlay_Photograph2_Info	\x0e\x03\x01\x02\0Í でさつえい！！
-HowToPlay_Photograph3_Info	\x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í でズームもできるよ！
+HowToPlay_Photograph1_Info	{[0301|00cd]} {[0302|00cd]} でカメラをうごかして\nポケモンをみつけたら･･････
+HowToPlay_Photograph2_Info	{[0301|00cd]} でさつえい！！
+HowToPlay_Photograph3_Info	{[0301|00cd]} {[0302|00cd]} でズームもできるよ！
 HowToPlay_PhotographTips_Head	さつえいのコツ
 HowToPlay_PhotographTips_Page1_Tx	3
 HowToPlay_PhotographTips_Page2_Tx	3/5
@@ -3098,9 +3098,9 @@ PictureBookMap_StageSelect_Head	レンティルマップ
 PictureBookMap_StageSelect_Help	かくにんしたいエリアを　えらんでください
 PictureBookMap_CourseSelect_Help	かくにんしたいルートを　えらんでください
 PictureBookMap_CourseSelect_CourseLv_Tx	ちょうさレベル
-PictureBookMap_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+PictureBookMap_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 PictureBookMap_CourseSelect_CourseLvMax_Num	Lv. MAX
-PictureBookMap_CourseSelect_NextLv_Num	つぎのレベルまであと  \x0e\0\x03\x02\n\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+PictureBookMap_CourseSelect_NextLv_Num	つぎのレベルまであと  {color[0a00]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 PictureBookMap_CourseSelect_HighScore_Tx	ハイスコア
 PictureBookMap_EcologySelect_Help	  で　ちずのかくだいや　しゅくしょうができます
 PictureBookPoke_UI.msbt
@@ -4561,29 +4561,29 @@ Reward_ItemType3_Tx	「フレーム」　かくとく！
 Reward_ItemType4_Tx	「フィルタ」　かくとく！
 Reward_ItemType5_Tx	「ちょうさしょうごう」　かくとく！
 Reward_ItemType6_Tx	「ちょうさステッカー」　かくとく！
-Reward001_Reward_Info	リクエスト「\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ」\nを　たっせいした
-Reward002_Reward_Info	ちょうさしょうごう「\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ」\nを　かくとくした
-Reward003_Reward_Info	すべてのしまの　\x0e\0\x03\x02\0\0ちょうさステッカー\x0e\0\x03\x02ÿÿを\nかくとくした
-Reward004_Reward_Info	\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward005_Reward_Info	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward006_Reward_Info	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward007_Reward_Info	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward008_Reward_Info	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward009_Reward_Info	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォトずかんに　とうろくした
-Reward010_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿを\nはじめて　ちょうさした
-Reward011_Reward_Info	\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward012_Reward_Info	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward013_Reward_Info	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward014_Reward_Info	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward015_Reward_Info	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward016_Reward_Info	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\nてにいれた
-Reward017_Reward_Info	レンティルちほうの　\x0e\0\x03\x02\0\0ちょうさたい\x0e\0\x03\x02ÿÿに\nせいしきに　かにゅうした
-Reward018_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿの\nちょうさレベルが　\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿになった
-Reward019_Reward_Info	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0はるのきせつ\x0e\0\x03\x02ÿÿを\nはっけんした
-Reward020_Reward_Info	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0なつのきせつ\x0e\0\x03\x02ÿÿを\nはっけんした
-Reward021_Reward_Info	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0あきのきせつ\x0e\0\x03\x02ÿÿを\nはっけんした
-Reward022_Reward_Info	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ふゆのきせつ\x0e\0\x03\x02ÿÿを\nはっけんした
-Reward023_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿの\nちょうさレベルが　\x0e\0\x03\x02\0\0MAX\x0e\0\x03\x02ÿÿになった
+Reward001_Reward_Info	リクエスト「{color[0000]}{[0301|00cd]}{color[ffff]}」\nを　たっせいした
+Reward002_Reward_Info	ちょうさしょうごう「{color[0000]}{[0301|00cd]}{color[ffff]}」\nを　かくとくした
+Reward003_Reward_Info	すべてのしまの　{color[0000]}ちょうさステッカー{color[ffff]}を\nかくとくした
+Reward004_Reward_Info	{color[0000]}フロレオとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward005_Reward_Info	{color[0000]}ベラスとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward006_Reward_Info	{color[0000]}コピアしょとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward007_Reward_Info	{color[0000]}ボルクとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward008_Reward_Info	{color[0000]}デュラスとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward009_Reward_Info	{color[0000]}アウラムとう{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォトずかんに　とうろくした
+Reward010_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}を\nはじめて　ちょうさした
+Reward011_Reward_Info	{color[0000]}フロレオとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward012_Reward_Info	{color[0000]}ベラスとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward013_Reward_Info	{color[0000]}コピアしょとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward014_Reward_Info	{color[0000]}ボルクとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward015_Reward_Info	{color[0000]}デュラスとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward016_Reward_Info	{color[0000]}アウラムとう{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\nてにいれた
+Reward017_Reward_Info	レンティルちほうの　{color[0000]}ちょうさたい{color[ffff]}に\nせいしきに　かにゅうした
+Reward018_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\nちょうさレベルが　{color[0000]}{[0302|00cd]}{color[ffff]}になった
+Reward019_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}はるのきせつ{color[ffff]}を\nはっけんした
+Reward020_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}なつのきせつ{color[ffff]}を\nはっけんした
+Reward021_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}あきのきせつ{color[ffff]}を\nはっけんした
+Reward022_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}ふゆのきせつ{color[ffff]}を\nはっけんした
+Reward023_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\nちょうさレベルが　{color[0000]}MAX{color[ffff]}になった
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	おーい！\nこっちこっち！
 SD_01_01_cs_002	やぁ
@@ -4596,9 +4596,9 @@ SD_07_01_cs_001	すごいことが　おきたんだ。
 SD_07_01_cs_002	まずは　これをみてくれ。
 CD_001_1C_00_001	はんのうがあったのは\nそのあたりなんだけど･･････
 CD_001_1C_00_002	ちょっと\nまわりを　みてもらえるかな？
-CD_001_1C_00_003	そのメガニウムが　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだ！\nさつえいをたのむ！
+CD_001_1C_00_003	そのメガニウムが　{color[0000]}イルミナポケモン{color[ffff]}だ！\nさつえいをたのむ！
 SD_09_02_cs_001	よし！
-SD_09_02_cs_002	では　そのあかしに\nこの\x0e\0\x03\x02\0\0クルーバッジ\x0e\0\x03\x02ÿÿをあげよう！
+SD_09_02_cs_002	では　そのあかしに\nこの{color[0000]}クルーバッジ{color[ffff]}をあげよう！
 SD_11_01_cs_005	うしろ　うしろ！　そっちそっち！
 SD_11_01_cs_006	ほら　がんばって！
 SD_11_01_cs_001	やっときたか
@@ -4616,7 +4616,7 @@ CD_006_3A_00_003	そのミロカロスを　おってくれ！
 SD_15_01_cs_001	では　はじめようか。
 CD_008_3A_00_001	うーん　さすがに\nようがんのなか　ってことは･･････
 CD_008_3A_00_002	ウルガモスが2ひき･･････
-CD_008_3A_00_003	まさか　イルミナポケモンが\n\x0e\0\x03\x02\0\02ひき\x0e\0\x03\x02ÿÿだったとは･･････
+CD_008_3A_00_003	まさか　イルミナポケモンが\n{color[0000]}2ひき{color[ffff]}だったとは･･････
 CD_008_3A_00_004	よこあなに　はいっていったぞ！
 CD_008_3A_00_005	おいかけよう！
 SD_17_01_cs_004	いーじゃん　それ！
@@ -4632,7 +4632,7 @@ CD_010_3A_01_002	もどってくるまえに　ちょっと\nよりみちして�
 CD_010_3A_01_003	さっき　ハガネールを　おいかけているとき\nきになることがあって･･････
 CD_010_3A_01_004	とちゅう　こわれた　かべのおくに･･････
 CD_010_3A_01_005	おおきなくうかんが　あるみたいなんだ。
-CD_010_3A_01_006	サーチのけっか　それは\n\x0e\0\x03\x02\0\0じんこうのモノ\x0e\0\x03\x02ÿÿとでている。
+CD_010_3A_01_006	サーチのけっか　それは\n{color[0000]}じんこうのモノ{color[ffff]}とでている。
 CD_010_3A_01_007	これは　いってみるしかないよね。
 CD_010_3A_01_008	わぁ\nここはなんなの？？　はかせ。
 CD_010_3A_01_009	･･････
@@ -4648,7 +4648,7 @@ CD_011_1A_00_005	そのさきで　てんそうスポットを　こていする
 CD_011_3A_00_001	すごくよわいけど　はんのうのしょうたいは\nそれのようだね。
 CD_011_3A_00_002	これは　なんだろう･･････？？
 CD_011_3A_00_003	すごい　いままでに\nみたことのないほどの　はんのうだ！
-CD_011_3A_00_004	ぼくらが　さがしもとめてきた\nさいごの\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだ！
+CD_011_3A_00_004	ぼくらが　さがしもとめてきた\nさいごの{color[0000]}イルミナポケモン{color[ffff]}だ！
 CD_011_3A_00_005	たのんだぞ！
 CD_011_3A_01_003	どうなっちゃったの？？
 CD_011_3A_01_005	はなしは･･････\nもどってからにしようか。
@@ -5304,10 +5304,10 @@ C006_0190	ニューポケモンスナップ！
 C006_0191	ニューポケモンスナップ！
 C006_0192	ニューポケモンスナップ！
 ScenarioHudNavi_Lines.msbt
-VC_001_1A_s00_001	そこは　\x0e\0\x03\x02\0\0フロレオしぜんこうえん\x0e\0\x03\x02ÿÿの　いりぐちだよ。
+VC_001_1A_s00_001	そこは　{color[0000]}フロレオしぜんこうえん{color[ffff]}の　いりぐちだよ。
 VC_001_1A_s00_002	ネオワンごうは　じどうでルートを\nはんべつして　すすむんだ。
 VC_001_1A_s00_003	キミは　まわりをよくみて\nさつえいに　しゅうちゅうすればOKだよ！
-VC_001_1A_e00_001	それは　\x0e\0\x03\x02\0\0てんそうマーカー\x0e\0\x03\x02ÿÿといって\nベースキャンプにもどるための　めじるしなんだ。
+VC_001_1A_e00_001	それは　{color[0000]}てんそうマーカー{color[ffff]}といって\nベースキャンプにもどるための　めじるしなんだ。
 VC_001_1A_e00_002	わかりやすくいうと　ゴールかな。
 VC_001_1A_e00_003	もどってきたら　とったしゃしんを\nみせてもらうよ！
 VC_001_1A_e01_001	あ　ビッパのすが　できてる！\nじょうぶだから　うえもとおれるんだって。
@@ -5317,12 +5317,12 @@ VC_001_1B_e00_001	きこえる？　いま　そのちかくで\nすごいエネ
 VC_001_1B_e00_002	はかせが　あわてて　データをしらべてるから\nもどったら　はなしをきいてみようね。
 VC_001_1C_e00_001	いってしまったようだね。
 VC_001_1C_e00_002	エネルギーはんのうも　きえたので\nもどってきてから　はなそうか。
-VC_005_1A_s00_001	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿに　はつじょうりく！\nまさにジャングルだね。
+VC_005_1A_s00_001	{color[0000]}ベラスとう{color[ffff]}に　はつじょうりく！\nまさにジャングルだね。
 VC_005_1A_s00_002	ポケモンたちを　よ～くさがして\nちょうさ　たのんだよ！
 VC_005_1A_e01_001	よくみつけたな。\nぬまのポケモンに　ちかづけるぞ！
 VC_005_1A_e02_001	わー　たきのうらがわに　いけるみたいだよ。\nどうみえるのかな？
 VC_005_1B_s00_001	かなりのくらさだね。\nポケモンをみつけるのも　たいへんそうだ。
-VC_005_1B_s00_002	ひかったじょうたいの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nさがしてみてくれ。
+VC_005_1B_s00_002	ひかったじょうたいの　{color[0000]}クリスタフラワー{color[ffff]}を\nさがしてみてくれ。
 VC_006_1A_s00_001	きりが　ずいぶん　ふかいようだね。
 VC_006_1A_s00_002	つうしんも　すこし　ふあんていかな。\nしんちょうにいこう。
 VC_006_1A_e00_001	これって　はるにさく　はなだよね？\nきゅうに　はるになっちゃったの？？
@@ -5347,7 +5347,7 @@ VC_004_1A_e01_001	おってみようぜ！\nこのさきに　ぜったい　な
 VC_004_3A_e00_001	だいじょうぶ！？
 VC_004_3A_e00_002	よかった～。
 VC_004_3A_e00_003	ネオワンごうも　いじょうはないよ！
-VC_004_3A_e00_004	いまのが　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだとおもう。
+VC_004_3A_e00_004	いまのが　{color[0000]}イルミナポケモン{color[ffff]}だとおもう。
 VC_004_3A_e00_005	このまま　おえるかな？
 VC_004_3A_e00_006	よし！\nしゅういを　ちゅういぶかく　さがしてくれ！
 VC_004_3A_e01_001	こんかいは　ちょっとびっくりしたね。
@@ -5393,7 +5393,7 @@ VC_010_3A_e00_007	しょうわくせいが　しょうとつしたのと　お�
 VC_010_3A_e00_008	すごい！　これはだいはっけんだよ！
 VC_010_3A_e00_009	むかしのひとが　みたことが　えがかれているの？
 VC_010_3A_e00_010	おちてくる　いんせきから\nポケモンたちが　まもってくれてるのかな？
-VC_010_3A_e00_011	ん　ポケモンたちの　このもようは･･････\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿ？
+VC_010_3A_e00_011	ん　ポケモンたちの　このもようは･･････\n{color[0000]}イルミナポケモン{color[ffff]}？
 VC_010_3A_e00_012	つまり　いんせきの　らっかのまえに\nイルミナポケモンがいた？
 VC_010_3A_e00_013	そして　このちゅうおうには　6ぴきめの\nイルミナポケモンが･･････？
 VC_010_3A_e00_014	･･････
@@ -5403,7 +5403,7 @@ VC_010_3A_e00_017	ごめん　ごめん。
 VC_010_3A_e00_018	ちょっと　かんがえこんでしまった･･････。
 VC_010_3A_e00_019	データは　ひととおり　とれたので\nいちど　もどってから　せいりしよう。
 VC_010_3A_e01_001	はんのうが　とおざかっていくよ。
-VC_010_3A_e01_002	\x0e\0\x03\x02\0\0イルミナじょうたい\x0e\0\x03\x02ÿÿは　とれなかったようだね。\nいちど　もどってこようか。
+VC_010_3A_e01_002	{color[0000]}イルミナじょうたい{color[ffff]}は　とれなかったようだね。\nいちど　もどってこようか。
 VC_010_3A_e02_001	ぜったい　なかにいるよね？\nまわりのあなに　ふわりんごを　なげてみて！
 VC_010_3A_e02_002	おおきいから　イルミナオーブを\nなんこも　あてないと　ダメなのかも･･････。
 VC_010_3A_e02_003	したにいそう！　サーチしてみて！\nふわりんごで　でてきてくれるかな？
@@ -5411,7 +5411,7 @@ VC_010_3A_e02_004	ひかるもようが　あらわれたら\nすぐとってね
 VC_011_1A_s00_001	かなり　おおきな　いせきみたいだね。
 VC_011_1A_s00_002	はんのうがあったのは　そのおくだよ。\nしんちょうにね。
 VC_011_3A_e00_001	はんのうは　きえてしまったようだ。
-VC_011_3A_e00_002	\x0e\0\x03\x02\0\0イルミナじょうたい\x0e\0\x03\x02ÿÿの　ゼルネアスはとれなかったね。\nいちど　もどってこようか。
+VC_011_3A_e00_002	{color[0000]}イルミナじょうたい{color[ffff]}の　ゼルネアスはとれなかったね。\nいちど　もどってこようか。
 VC_011_3A_e01_001	そのオーラに　イルミナオーブをあてると\nどうなるかな？
 VC_011_3A_e01_002	イルミナオーブなら　ゼルネアスに\nエネルギーを　あたえられるかもしれない･･････。
 VC_011_3A_e01_003	ひかるもようが　でたら\nそのようすの　さつえいをたのむよ！
@@ -5515,27 +5515,27 @@ VC_Com_SearchAnalysis_037	さっきあった　かくしまのクリスタフラ
 VC_Com_SearchAnalysis_038	まんなかは　ゼルネアスだったんだね･･････
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	やぁ　よくきたね。
-SD_01_02_sk_015	\x0e\0\x03\x02\0\0レンティル ポケモンしぜんかがくけんきゅうじょ\x0e\0\x03\x02ÿÿへ\nようこそ！
-SD_01_02_sk_002	ぼくのなまえは　\x0e\0\x03\x02\0\0カガミ\x0e\0\x03\x02ÿÿ。 
-SD_01_02_sk_003	ここ　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿで　ポケモンや\nしぜんかんきょうについて　けんきゅうしているよ。
-SD_01_02_sk_004	はかせはね　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの\nほかのしまも　ぜーんぶ　しらべるんだって！
+SD_01_02_sk_015	{color[0000]}レンティル ポケモンしぜんかがくけんきゅうじょ{color[ffff]}へ\nようこそ！
+SD_01_02_sk_002	ぼくのなまえは　{color[0000]}カガミ{color[ffff]}。 
+SD_01_02_sk_003	ここ　{color[0000]}フロレオとう{color[ffff]}で　ポケモンや\nしぜんかんきょうについて　けんきゅうしているよ。
+SD_01_02_sk_004	はかせはね　{color[0000]}レンティルちほう{color[ffff]}の\nほかのしまも　ぜーんぶ　しらべるんだって！
 SD_01_02_sk_005	いままでだれも　ちょうさしてないんだよ！\nこれって　すごいことなんだから！
 SD_01_02_sk_016	ビクトルのことを　わすれてない？
-SD_01_02_sk_006	あ　そうだった！　キミもよんだよね？\n\x0e\0\x03\x02\0\0ぼうけんか　キャプテン・ビクトル\x0e\0\x03\x02ÿÿの　おはなし。
+SD_01_02_sk_006	あ　そうだった！　キミもよんだよね？\n{color[0000]}ぼうけんか　キャプテン・ビクトル{color[ffff]}の　おはなし。
 SD_01_02_sk_007	でも　100ねんぶりなんだから\nやっぱり　はかせ　すごいよ！
 SD_01_02_sk_008	ありがとう。
-SD_01_02_sk_009	かのじょは　\x0e\0\x03\x02\0\0リタ\x0e\0\x03\x02ÿÿ。　しんゆうの　おじょうさんで\nがっこうが　やすみのあいだ　あそびにきてるんだ。
+SD_01_02_sk_009	かのじょは　{color[0000]}リタ{color[ffff]}。　しんゆうの　おじょうさんで\nがっこうが　やすみのあいだ　あそびにきてるんだ。
 SD_01_02_sk_010	はかせ！　あそびじゃなく　”じょーしゅ”！
 SD_01_02_sk_011	そうだったね。\nいつも　たすかっているよ。
 SD_01_02_sk_012	では　こんかいの　たいけんかいについて\nせつめいしようと　おもうんだけど･･････
 SD_01_02_sk_013	まずは　ひといきつくために\nけんきゅうしつのなかに　いこうか。
 SD_01_02_sk_014	はーい！\nじゃ　わたしがあんないするね！
 SD_01_03_sk_001	では　あらためて　せつめいしよう。
-SD_01_03_sk_002	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿにも　たくさんのポケモンたちが\nくらしているよね。
+SD_01_03_sk_002	{color[0000]}レンティルちほう{color[ffff]}にも　たくさんのポケモンたちが\nくらしているよね。
 SD_01_03_sk_003	かれらを　さつえいすることで\nポケモンのせいたいや　しぜんのことを　もっとりかいする。
 SD_01_03_sk_004	･･････というのが\nこんかいのたいけんかいの　もくてきだよ。
-SD_01_03_sk_005	よるには　\x0e\0\x03\x02\0\0ひかっているポケモン\x0e\0\x03\x02ÿÿにあえるかもよ。\nすっごくキレイなんだから。
-SD_01_03_sk_006	ではさっそく\nこの\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿを　キミにあげよう。
+SD_01_03_sk_005	よるには　{color[0000]}ひかっているポケモン{color[ffff]}にあえるかもよ。\nすっごくキレイなんだから。
+SD_01_03_sk_006	ではさっそく\nこの{color[0000]}リサーチカメラ{color[ffff]}を　キミにあげよう。
 SD_01_03_sk_007	わたしも　おなじのもってるよ。\nメンバーどうしで　つうしんもできるから　よろしくね。
 SD_01_03_sk_008	さつえいだけでなく　つうしんや　データぶんせきもできる\nちょうさせんようのカメラなんだ。
 SD_01_03_sk_009	キミのIDにもなっているから　だいじにしてね。
@@ -5546,7 +5546,7 @@ SD_01_04b_sk_004	では　じょしゅに　おねがいしようかな。\nぼ�
 SD_01_04b_sk_005	はーい！\nじゃ　さっそく　そとにいこう！
 SD_01_06_sk_001	じゅんびは　ととのったね。
 SD_01_06_sk_002	このポッドで　いどうしながら\nさつえいを　おこなうんだ。
-SD_01_06_sk_003	なまえは　\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿっていうんだよ！
+SD_01_06_sk_003	なまえは　{color[0000]}ネオワンごう{color[ffff]}っていうんだよ！
 SD_01_06_sk_004	とおく　はなれたばしょにも　いっしゅんでいけちゃう\nすごいのりものなんだから。
 SD_01_06_sk_005	あるひとに　きょうりょくしてもらって\nさいきん　ようやくかんせいしたんだ。
 SD_01_06_sk_006	レンティルちほうにはね　たかいエネルギーはんのうが\nてんざいしていて･･････
@@ -5555,7 +5555,7 @@ SD_01_06_sk_008	うん　では　ネオワンごうにのって\nカメラを�
 SD_03_01_sk_001	さて　これでひととおり　せつめいできたかな。
 SD_03_01_sk_002	よるのさつえいは　まだなの？
 SD_03_01_sk_003	それは　もうすこし　なれてきてからね。
-SD_03_01_sk_004	あと　\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿへは　いつきてもいいよ。\n\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿのかくにんも　だいじだからね。
+SD_03_01_sk_004	あと　{color[0000]}けんきゅうしつ{color[ffff]}へは　いつきてもいいよ。\n{color[0000]}フォトずかん{color[ffff]}のかくにんも　だいじだからね。
 SD_03_01_sk_005	いったときに　わたしがせつめいするね。
 SD_03_01_sk_006	では　ひきつづき\nさつえいをたのしんできてね！
 SD_04_01_sk_001	ここが　はかせのけんきゅうしつだよ。
@@ -5565,27 +5565,27 @@ SD_04_01_sk_004	あとほとんど　すんでるみたい･･････。
 SD_04_01_sk_005	じゃ　かんたんに　せつめいするね！
 SD_04_01_sk_006	わたしたちが　あつめたデータは\nそこのサーバーに　どんどんたまっていくんだって。
 SD_04_01_sk_007	ここでは　そのデータをつかって\nいろんなことが　できるんだよ。
-SD_04_01_sk_008	まずは　\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_008	まずは　{color[0000]}フォトずかん{color[ffff]}。
 SD_04_01_sk_009	じぶんでとったしゃしんでつくる\nずかんが　みれるよ。
 SD_04_01_sk_010	じぶんだけの　フォトずかんって\nワクワクするでしょ！
-SD_04_01_sk_011	つぎに　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_011	つぎに　{color[0000]}マイスペース{color[ffff]}。
 SD_04_01_sk_012	ここでは　アルバムのしゃしんをみたり\nぼうけんのきろくを　みれたりするよ。
-SD_04_01_sk_013	\x0e\0\x03\x02\0\0アルバムのしゃしん\x0e\0\x03\x02ÿÿ　っていうのは\nずかんとはべつに　ほぞんしたしゃしんのことね。
-SD_04_01_sk_014	アルバムのしゃしんは　\x0e\0\x03\x02\0\0かこう\x0e\0\x03\x02ÿÿもできるんだよ。
+SD_04_01_sk_013	{color[0000]}アルバムのしゃしん{color[ffff]}　っていうのは\nずかんとはべつに　ほぞんしたしゃしんのことね。
+SD_04_01_sk_014	アルバムのしゃしんは　{color[0000]}かこう{color[ffff]}もできるんだよ。
 SD_04_01_sk_015	あとは　なにかあったかな？
 SD_04_01_sk_016	はかせ～。\nほか　なにか　せつめいしておくことある？？
 SD_04_01_sk_017	オンラインについては？
 SD_04_01_sk_018	あ　まだしてない！
-SD_04_01_sk_019	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　インターネットをつかって\nせかいじゅうの　ともだちのしゃしんが　みれるの。
+SD_04_01_sk_019	{color[0000]}オンライン{color[ffff]}では　インターネットをつかって\nせかいじゅうの　ともだちのしゃしんが　みれるの。
 SD_04_01_sk_020	しかも　きにいったしゃしんには\nメダルをおくることが　できるんだよ。
-SD_04_01_sk_025	\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿ　っていって\nもらうとうれしいから　キミもおくってみてね。
-SD_04_01_sk_021	そうだね。\nほかには　\x0e\0\x03\x02\0\0かくスコアのランキング\x0e\0\x03\x02ÿÿもみれたりするよ。
+SD_04_01_sk_025	{color[0000]}りんごメダル{color[ffff]}　っていって\nもらうとうれしいから　キミもおくってみてね。
+SD_04_01_sk_021	そうだね。\nほかには　{color[0000]}かくスコアのランキング{color[ffff]}もみれたりするよ。
 SD_04_01_sk_022	よし！　これでぜんぶかな。
 SD_04_01_sk_023	どれも　やってみれば　すぐわかるよ！
 SD_04_01_sk_024	じゃ　いろいろ　ためしてみてね！
 SD_05_01_sk_001	おっ\nもう　つぎのさつえいに　いくのかな。
 SD_05_01_sk_002	では　そのまえに\nリサーチカメラのきのうを1つ　おしえよう。
-SD_05_01_sk_003	そのなも　\x0e\0\x03\x02\0\0サーチきのう\x0e\0\x03\x02ÿÿ！
+SD_05_01_sk_003	そのなも　{color[0000]}サーチきのう{color[ffff]}！
 SD_05_01_sk_004	なまえのとおり　しゅういをちょうさする　きのうだよ。
 SD_05_01_sk_005	ポケモンのじょうほうを　しらべたり\nあやしいところを　みつけたりできるんだ。
 SD_05_01_sk_006	まえにも　きいたけど　あやしいところって？
@@ -5598,11 +5598,11 @@ SD_05_03_sk_002	リタ　ありがとう。
 SD_05_03_sk_003	サーチすると　いろんなことがわかるので\nせっきょくてきに　つかってみるといいよ。
 SD_06_01_sk_001	さつえいは　じゅんちょうみたいだね。
 SD_06_01_sk_002	では　そろそろ\nよるのしぜんこうえんを　みにいこうか。
-SD_06_01_sk_003	レンティルちほうでは　\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿ\nとよばれる　はっこうげんしょうが　おこるんだ。
+SD_06_01_sk_003	レンティルちほうでは　{color[0000]}イルミナげんしょう{color[ffff]}\nとよばれる　はっこうげんしょうが　おこるんだ。
 SD_06_01_sk_004	はかせが　そのしくみを　かいめいしたんだよね。
 SD_06_01_sk_005	うん　でもまだ　かがくてきな　しくみを\nみつけただけなんだ。
 SD_06_01_sk_006	いいつたえにでてくる　とくべつなポケモンを　みつけるのが\nぼくの　けんきゅうのもくてきさ。
-SD_06_01_sk_007	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだっけ？
+SD_06_01_sk_007	{color[0000]}イルミナポケモン{color[ffff]}だっけ？
 SD_06_01_sk_008	あれって　おはなしのなかの　ポケモンじゃないの？
 SD_06_01_sk_009	いや　ちゃんといるよ。\nぼうけんきのしゃしん　みたことあるよね？
 SD_06_01_sk_010	それ　なにがうつってるか　わからないよね。\nしかも　100ねんまえとか　おおむかしだし･･････。
@@ -5612,7 +5612,7 @@ SD_07_02_sk_001	キミが　はなばたけに　ちかづいたとき
 SD_07_02_sk_002	ものすごいエネルギーはんのうが　あらわれたんだ。
 SD_07_02_sk_003	そして　このはんのうは　すこしだけど\nうごいている。
 SD_07_02_sk_004	つまり･･････。
-SD_07_02_sk_005	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿ！？
+SD_07_02_sk_005	{color[0000]}イルミナポケモン{color[ffff]}！？
 SD_07_02_sk_006	まだ　かくていはしてないけどね。
 SD_07_02_sk_007	キミ　なにか　とくべつなことでもしたの？
 SD_07_02_sk_008	そう　ぼくも　むかんけいとは　おもえないんだ。
@@ -5625,11 +5625,11 @@ SD_08_01_sk_002	どうだった？　きれいだったよね？\nすっごく�
 SD_08_01_sk_003	リタ　すこしおちついて。
 SD_08_01_sk_004	むー\nはかせも　はしゃいでたくせに。
 SD_08_01_sk_005	･･････\nえーと
-SD_08_01_sk_006	あのメガニウムは　まちがいなく\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだよ。\nいいつたえとも　いっちする。
+SD_08_01_sk_006	あのメガニウムは　まちがいなく{color[0000]}イルミナポケモン{color[ffff]}だよ。\nいいつたえとも　いっちする。
 SD_08_01_sk_007	いいつたえって･･････\nおおむかし　すごい　わざわいがおきたとき
 SD_08_01_sk_008	イルミナポケモンのおかげで　たすかった\nとかいうやつ？
 SD_08_01_sk_009	そうだね。
-SD_08_01_sk_010	そして　そのイルミナポケモンたちは\n\x0e\0\x03\x02\0\0からだにもよう\x0e\0\x03\x02ÿÿがあって　\x0e\0\x03\x02\0\0とくべつなひかり\x0e\0\x03\x02ÿÿをはなってた　とね。
+SD_08_01_sk_010	そして　そのイルミナポケモンたちは\n{color[0000]}からだにもよう{color[ffff]}があって　{color[0000]}とくべつなひかり{color[ffff]}をはなってた　とね。
 SD_08_01_sk_011	あのポケモンだ！
 SD_08_01_sk_012	ね。
 SD_08_01_sk_013	あのいいつたえは　ほんとうにおきたことだと\nぼくは　かんがえているんだ。
@@ -5639,7 +5639,7 @@ SD_08_01_sk_016	きょうは　もうおそいので\nつづきは　あした�
 SD_09_01_sk_001	おはよう。\nきのうは　よくねむれたかな？
 SD_09_01_sk_002	まえに　リタもいってたけど
 SD_09_01_sk_003	レンティルちほう　ぜんどのちょうさを\nちょうど　はじめるとこだったんだ。
-SD_09_01_sk_004	そこに　キミがあらわれ\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿを　みつけることができた。
+SD_09_01_sk_004	そこに　キミがあらわれ\n{color[0000]}イルミナポケモン{color[ffff]}を　みつけることができた。
 SD_09_01_sk_005	なにか　かんけいがあるの？
 SD_09_01_sk_006	それは　まだわからない。
 SD_09_01_sk_007	ただ　いっしょに　ちょうさにいけば\nなにかがおこる･･････。
@@ -5661,7 +5661,7 @@ SD_10_01_sk_002	つかいかたは　リタ　よろしくね！
 SD_10_01_sk_003	はーい！
 SD_10_01_sk_004	でもはかせ　さいきん　らくしてない？？
 SD_10_01_sk_005	まぁいっか。\nわたし　じょしゅだし！　せつめいするね！
-SD_10_01_sk_006	これは　\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿ　っていって\nレンティルちほうでとれる　くだものなの。
+SD_10_01_sk_006	これは　{color[0000]}ふわりんご{color[ffff]}　っていって\nレンティルちほうでとれる　くだものなの。
 SD_10_01_sk_007	あまくておいしい　ポケモンのだいこうぶつなんだよ。
 SD_10_01_sk_008	みためは　ふつうのりんごだけど･･････
 SD_10_01_sk_009	かるくて　やわらかいの。
@@ -5676,16 +5676,16 @@ SD_10_03_sk_006	はかせがいうには　いろいろなつかいみちが　�
 SD_10_03_sk_007	せつめいは　おわったのかな。\nリタ　ありがとう。
 SD_10_03_sk_008	ここで　1つ　おしらせがあるよ。
 SD_10_03_sk_009	これからのちょうさを　スムーズにすすめるため\nちょうさじょうほうを　きょうゆうしようと　おもうんだ。
-SD_10_03_sk_010	キミたち　\x0e\0\x03\x02\0\0レンティルチャット\x0e\0\x03\x02ÿÿは\nしってるかな？
+SD_10_03_sk_010	キミたち　{color[0000]}レンティルチャット{color[ffff]}は\nしってるかな？
 SD_10_03_sk_011	ん？　なんだっけ？
 SD_10_03_sk_012	レンティルちほうで　つかわれている\nコミュニケーションツールのことだよ。
 SD_10_03_sk_013	たとえば　リタが　ちょうさできになったことを\nしゃしんといっしょに　おくることができるんだ。
 SD_10_03_sk_014	ぼくが　モニターをみて　きづいたことも\nおくっていくよ。
 SD_10_03_sk_015	へー　おもしろそう！
-SD_10_03_sk_016	ベースキャンプなどの　\x0e\0\x03\x02\0\0みぎうえ\x0e\0\x03\x02ÿÿに　ひょうじされるので\nちょうさの　やくにたててみてね。
-SD_11_02_sk_001	かれは　\x0e\0\x03\x02\0\0トオル\x0e\0\x03\x02ÿÿ。
+SD_10_03_sk_016	ベースキャンプなどの　{color[0000]}みぎうえ{color[ffff]}に　ひょうじされるので\nちょうさの　やくにたててみてね。
+SD_11_02_sk_001	かれは　{color[0000]}トオル{color[ffff]}。
 SD_11_02_sk_002	せかいじゅうを　たびしている\nプロの　ポケモンカメラマンだよ。
-SD_11_02_sk_003	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿをとったのは　キミ？\nすごいじゃないか！
+SD_11_02_sk_003	{color[0000]}イルミナポケモン{color[ffff]}をとったのは　キミ？\nすごいじゃないか！
 SD_11_02_sk_004	トオル　れいのものは？
 SD_11_02_sk_005	もってきたよ。
 SD_11_02_sk_006	ありがとう　これでしゅっぱつできるぞ。
@@ -5695,17 +5695,17 @@ SD_11_02_sk_009	こんかいの　ちょうさについても\nいろいろア�
 SD_11_02_sk_010	へぇ～。
 SD_11_02_sk_011	お　あれがこんかい　かいはつしたポッド？\nいいねぇ　むかしをおもいだすよ。
 SD_11_02_sk_012	とりあえず　イルミナポケモンのしゃしん　みせてよ！
-SD_11_04_sk_001	ししょうの　いちばんでしの\x0e\0\x03\x02\0\0フィル\x0e\0\x03\x02ÿÿだ。\nよろしくな！
+SD_11_04_sk_001	ししょうの　いちばんでしの{color[0000]}フィル{color[ffff]}だ。\nよろしくな！
 SD_11_04_sk_002	はいはい。
 SD_11_04_sk_003	ホントは　ぼくがさつえいに\nいきたいところなんだけど･･････
 SD_11_04_sk_004	フィルをいかせる\nってことで　いいかな？
 SD_11_04_sk_005	トオルがそういうのなら　ぼくはOKさ。
 SD_11_04_sk_006	やったー！
-SD_11_04_sk_007	ただし　あくまで　ぼくのかわりだからね。\nその\x0e\0\x03\x02\0\0バッジ\x0e\0\x03\x02ÿÿも　かしてるだけだよ。
+SD_11_04_sk_007	ただし　あくまで　ぼくのかわりだからね。\nその{color[0000]}バッジ{color[ffff]}も　かしてるだけだよ。
 SD_11_04_sk_008	ぐ･･････\nでも　すごいのがとれたら　ちょーだいね！
 SD_11_04_sk_009	で　ちょうさって　なんだっけ？？
 SD_11_04_sk_010	･･････。
-SD_13_02_sk_001	これが　ぼくたちのくらす　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿで\nいま　いるばしょは　ここ。
+SD_13_02_sk_001	これが　ぼくたちのくらす　{color[0000]}フロレオとう{color[ffff]}で\nいま　いるばしょは　ここ。
 SD_13_02_sk_002	そして　こんかいのちょうさでは\nこのしまをでて
 SD_13_02_sk_003	さいしょに　しらべるばしょは　ここだ！
 SD_13_02_sk_004	なんで　ここがさいしょなの？
@@ -5718,22 +5718,22 @@ SD_13_02_sk_010	では　100ねんぶりとなる\nレンティルちほうの�
 CI_005_1B_00_001	あたらしいしまにも　なれたみたいだね。
 CI_005_1B_00_002	では　つぎのちょうさを　おねがいしようかな。
 CI_005_1B_00_003	なに？　なに？
-CI_005_1B_00_004	よるのジャングルで　ひかっている\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてほしいんだ。
+CI_005_1B_00_004	よるのジャングルで　ひかっている\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてほしいんだ。
 CI_005_1B_00_005	クリスタフラワー？
 CI_005_1B_00_006	ひかるはなのことだよ。
 CI_005_1B_00_007	どこかで　ふしぎなはなを　みなかったかな？
 CI_005_1B_00_008	オレ　みた！　あかいやつ！
 CI_005_1B_00_009	たぶん　それかな。
-CI_005_1B_00_010	よるにはひかって　\x0e\0\x03\x02\0\0イルミナじょうたい\x0e\0\x03\x02ÿÿのがあるはずなんだ。
+CI_005_1B_00_010	よるにはひかって　{color[0000]}イルミナじょうたい{color[ffff]}のがあるはずなんだ。
 CI_005_1B_00_011	みつけたら　どうすればいいの？
 CI_005_1B_00_012	リサーチカメラで　とるだけでいいよ。
 CI_005_1B_00_013	そのカメラには　ぶんせきするきのうもあるからね。
-CI_005_1B_00_014	では　\x0e\0\x03\x02\0\0よるのジャングル\x0e\0\x03\x02ÿÿのちょうさ\nよろしくね！
+CI_005_1B_00_014	では　{color[0000]}よるのジャングル{color[ffff]}のちょうさ\nよろしくね！
 SD_14_01_sk_001	よく　とれていたね。\nデータも　じゅうぶんあつまったよ。
 SD_14_01_sk_002	さてと　これをみてごらん。
 SD_14_01_sk_003	あ　はかせがつくった　なんとかオーブ？
 SD_14_01_sk_004	ポケモンや　クリスタフラワーを\nひからすことが　できるんだよね？
-SD_14_01_sk_005	そう　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿね。
+SD_14_01_sk_005	そう　{color[0000]}イルミナオーブ{color[ffff]}ね。
 SD_14_01_sk_006	ただ　このあおいイルミナオーブは\nぼくらのすむ　フロレオとうでしか　つかえないんだ。
 SD_14_01_sk_007	えっ　なんで？？
 SD_14_01_sk_008	しまによって　エネルギーが\nすこしちがうのが　げんいんかな。
@@ -5742,9 +5742,9 @@ SD_14_01_sk_010	みてて！
 SD_14_03_sk_001	すげー！
 SD_14_03_sk_002	わー　きれー！
 SD_14_03_sk_003	へえー\nいまのが　レンティルちほうでのみおこる　はっこうげんしょうか。
-SD_14_03_sk_004	\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿ･･････　だっけ？
+SD_14_03_sk_004	{color[0000]}イルミナげんしょう{color[ffff]}･･････　だっけ？
 SD_14_03_sk_005	ポケモンとしょくぶつで　おなじげんしょうがおこる\nというのは　おもしろいね。
-SD_14_03_sk_006	これをつかえば　ポケモンやクリスタフラワーを\nいちじてきに　\x0e\0\x03\x02\0\0イルミナじょうたい\x0e\0\x03\x02ÿÿにすることができるんだ。
+SD_14_03_sk_006	これをつかえば　ポケモンやクリスタフラワーを\nいちじてきに　{color[0000]}イルミナじょうたい{color[ffff]}にすることができるんだ。
 SD_14_03_sk_007	そのとき　ポケモンや\nまわりのへんかも　みておくといいよ。
 SD_14_03_sk_008	フロレオとうのも　もらっていい？
 SD_14_03_sk_009	もちろん！
@@ -5765,13 +5765,13 @@ CI_006_3A_00_001	おまえが　ちょうさにでてるとき\nまた　すご�
 CI_006_3A_00_002	はかせ！　はやく　おしえてよ！
 CI_006_3A_00_003	では　はじめるね。
 CI_006_3A_00_004	じゅかいのおくに　ものすごい\nエネルギーはんのうが　でたんだ。
-CI_006_3A_00_005	これは　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　まちがいないよ。
+CI_006_3A_00_005	これは　{color[0000]}イルミナポケモン{color[ffff]}に　まちがいないよ。
 CI_006_3A_00_006	あのあたりにあった　いせきも\nやはり　なにか　かんけいありそうだね。
 CI_006_3A_00_007	じゅんびができたら　すぐしゅっぱつしてくれるかな？
 SD_15_02_sk_001	さて　また　あたらしいしまに　いけるよ。
 SD_15_02_sk_002	あらたに2つ　てんそうスポットを　とくていできたんだ。
 SD_15_02_sk_003	どこ？　どこ？
-SD_15_02_sk_004	この　\x0e\0\x03\x02\0\0ほそながいしま\x0e\0\x03\x02ÿÿと\n\x0e\0\x03\x02\0\0うみのまんなか\x0e\0\x03\x02ÿÿの　2かしょだよ。
+SD_15_02_sk_004	この　{color[0000]}ほそながいしま{color[ffff]}と\n{color[0000]}うみのまんなか{color[ffff]}の　2かしょだよ。
 SD_15_02_sk_005	うみのまんなかって　キャプテン・ビクトルが\nいけなかったばしょだよね。
 SD_15_02_sk_006	すごい！
 SD_15_02_sk_007	ちょうさのじゅんばんは　キミにまかせる。\nひきつづき　たのんだよ！
@@ -5779,13 +5779,13 @@ SD_16_01_sk_001	どう？　ちょうさはたのしめてるかな？
 SD_16_01_sk_002	じつは　はかせに\nつたえわすれていたことがあって･･････
 SD_16_01_sk_003	さっき　ついかでつくってもらったんだ。
 SD_16_01_sk_004	なにを？
-SD_16_01_sk_005	\x0e\0\x03\x02\0\0メロディきのう\x0e\0\x03\x02ÿÿといって\nリサーチカメラから　おとがなるきのうだよ。
+SD_16_01_sk_005	{color[0000]}メロディきのう{color[ffff]}といって\nリサーチカメラから　おとがなるきのうだよ。
 SD_16_01_sk_006	これがあると　ポケモンたちの\nちがったようすが　みられるんだ。
 SD_16_01_sk_007	おもしろそう！
 SD_16_01_sk_008	リタ　さっきのせつめい　たのめるかな？
 SD_16_01_sk_009	はーい。
-SD_16_01_sk_010	\x0e\x03\x01\x02\0Í をおすと　メロディがなるの。
-SD_16_01_sk_011	なっているときに　もう1かい \x0e\x03\x01\x02\0Í で\nていしできるよ。
+SD_16_01_sk_010	{[0301|00cd]} をおすと　メロディがなるの。
+SD_16_01_sk_011	なっているときに　もう1かい {[0301|00cd]} で\nていしできるよ。
 SD_16_01_sk_012	ねむっているポケモンが　おきたり
 SD_16_01_sk_013	おどりだすポケモンも　いるんだって。
 SD_16_01_sk_014	って　わたしもつかうのは　これからなんだけどね！
@@ -5798,7 +5798,7 @@ CI_004_1A_00_001	はかせ～。\nみんな　そろったよ。
 CI_004_1A_00_002	ありがとう。\nでは　はじめるね。
 CI_004_1A_00_003	あらたに　てんそうスポットが\nみつかったんだけど･･････。
 CI_004_1A_00_004	やった！　どこ？　どこ？
-CI_004_1A_00_005	なんと　\x0e\0\x03\x02\0\0うみのなか\x0e\0\x03\x02ÿÿ　なんだ。
+CI_004_1A_00_005	なんと　{color[0000]}うみのなか{color[ffff]}　なんだ。
 CI_004_1A_00_006	すげー！
 CI_004_1A_00_007	ただ　ネオワンごうは　うみにもぐれないので
 CI_004_1A_00_008	えええええ！！
@@ -5807,15 +5807,15 @@ CI_004_1A_00_010	なんだ　びっくりさせんなよ！
 CI_004_1A_00_011	わー　すっごくたのしみ！
 CI_004_1A_00_012	なので　こんどは\nうみのなかの　ちょうさも　おねがいするね。
 CI_004_1A_00_013	へー　うみのなかか･･････。
-CI_004_0A_00_001	ようやく　\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿでつかえる\n\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿができたよ。
+CI_004_0A_00_001	ようやく　{color[0000]}コピアしょとう{color[ffff]}でつかえる\n{color[0000]}イルミナオーブ{color[ffff]}ができたよ。
 CI_004_0A_00_002	はまべや　かいじょうの\nさいちょうさも　わすれないでね！
 CI_004_3A_00_001	キミ　またなにか　とくべつなことした？？
 CI_004_3A_00_002	いま　はかせが　おおあわてでデータをしらべてるよ。
 CI_004_3A_00_003	はかせ～。\nなにか　わかった？？
 CI_004_3A_00_004	かいていに　いせきがあったよね？
-CI_004_3A_00_005	あれはやっぱり　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに\nかんけいするものだったんだ。
+CI_004_3A_00_005	あれはやっぱり　{color[0000]}イルミナポケモン{color[ffff]}に\nかんけいするものだったんだ。
 CI_004_3A_00_006	そのしょうこに　また\nあのエネルギーはんのうが　あらわれたんだ。
-CI_004_3A_00_007	あのいせきのさきの　\x0e\0\x03\x02\0\0しんかい\x0e\0\x03\x02ÿÿに。
+CI_004_3A_00_007	あのいせきのさきの　{color[0000]}しんかい{color[ffff]}に。
 CI_004_3A_00_008	だから　100ねんまえ　いくことができなかったんだね。
 CI_004_3A_00_009	でも　ネオワンごうなら　だいじょうぶ！
 CI_004_3A_00_010	たのんだよ！
@@ -5829,7 +5829,7 @@ CI_003_2B_00_002	いいはなしって　なんだよ？
 CI_003_2B_00_003	ききたい？？
 CI_003_2B_00_004	そっちが　いいだしたんだろ？
 CI_003_2B_00_005	まあまあ。
-CI_003_2B_00_006	はかせにおねがいして　\x0e\0\x03\x02\0\0かいじょうのゆうがた\x0e\0\x03\x02ÿÿに\nいけるようにしてもらっちゃった。
+CI_003_2B_00_006	はかせにおねがいして　{color[0000]}かいじょうのゆうがた{color[ffff]}に\nいけるようにしてもらっちゃった。
 CI_003_2B_00_007	えー　すげーじゃん。
 CI_003_2B_00_008	でしょー。
 CI_003_2B_00_009	ぜったい　きれーだとおもうんだよねぇ\nかいじょうの　ゆうやけって。
@@ -5838,11 +5838,11 @@ CI_003_2B_00_011	あ　いちばんにいくのは　オレね！
 CI_003_2B_00_012	えぇ～。
 CI_007_1B_00_001	さばくのちょうさも　じゅんちょうだね。
 CI_007_1B_00_002	では　つづいて\nよるのちょうさも　おねがいしようかな。
-CI_007_1B_00_003	このしまの　イルミナオーブをつくるために\n\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿの　さつえいも　たのんだよ！
+CI_007_1B_00_003	このしまの　イルミナオーブをつくるために\n{color[0000]}イルミナげんしょう{color[ffff]}の　さつえいも　たのんだよ！
 CI_008_0A_00_001	おかえり。
-CI_008_0A_00_002	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　イルミナげんしょうも　ぶんせきできたよ。
+CI_008_0A_00_002	{color[0000]}ボルクとう{color[ffff]}の　イルミナげんしょうも　ぶんせきできたよ。
 CI_008_0A_00_003	ではさっそく　これを。
-CI_008_0A_00_004	\x0e\0\x03\x02\0\0ボルクとうの　イルミナオーブ\x0e\0\x03\x02ÿÿだ。
+CI_008_0A_00_004	{color[0000]}ボルクとうの　イルミナオーブ{color[ffff]}だ。
 CI_008_0A_00_005	これをつかって　さらに　ちょうさをたのんだよ！
 CI_008_1A_00_001	よし　ミーティングをはじめるよ。
 CI_008_1A_00_002	はかせ！
@@ -5850,7 +5850,7 @@ CI_008_1A_00_003	つぎ　いけるばしょが　わかったんだろ！
 CI_008_1A_00_004	そう　あいかわらず　げんきだね。
 CI_008_1A_00_005	はやく！！
 CI_008_1A_00_006	わかった　わかった。
-CI_008_1A_00_007	つぎのちょうさは　\x0e\0\x03\x02\0\0かざん\x0e\0\x03\x02ÿÿだ。
+CI_008_1A_00_007	つぎのちょうさは　{color[0000]}かざん{color[ffff]}だ。
 CI_008_1A_00_008	かざん！　すげー！
 CI_008_1A_00_009	だいじょうぶなの？？
 CI_008_1A_00_010	もちろん！\nネオワンごうの　きょうかも　おわっているよ。
@@ -5861,23 +5861,23 @@ CI_008_3A_00_001	あんなところに　いせきがあるなんて････
 CI_008_3A_00_002	あれも　ひとが　つくったんだよね？
 CI_008_3A_00_003	うん　なにか　とくべつなもくてきがあって\nつくったんだとおもう。
 CI_008_3A_00_004	そして　かべにあった　おおきなあな。
-CI_008_3A_00_005	あのおくから　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿのはんのうがあったんだ。
+CI_008_3A_00_005	あのおくから　{color[0000]}イルミナポケモン{color[ffff]}のはんのうがあったんだ。
 CI_008_3A_00_006	おくには　なにがあるの？
 CI_008_3A_00_007	おそらく　とおくのかざんまで\nつながっているんじゃないかと。
 CI_008_3A_00_008	そこを　いどうしていたポケモン\nってことだよね？
 CI_008_3A_00_009	どんなポケモンなんだろう？
 CI_008_3A_00_010	いってみればわかるよ。\nでは　ここのちょうさもよろしくね。
-SD_16B_01_sk_001	やっぱり　このしまにも\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿがいたね。
+SD_16B_01_sk_001	やっぱり　このしまにも\n{color[0000]}イルミナポケモン{color[ffff]}がいたね。
 SD_16B_01_sk_002	いいつたえは　じっさいにおきたことって\nまえに　はなしたよね。
 SD_16B_01_sk_003	うん　でも　ポケモンたちがすくった\nおおむかしの　わざわいって？
-SD_16B_01_sk_004	おそらく　\x0e\0\x03\x02\0\0いんせきのらっか\x0e\0\x03\x02ÿÿ　のことなんだ。
-SD_16B_01_sk_005	なまえは　\x0e\0\x03\x02\0\0テルルいんせき\x0e\0\x03\x02ÿÿ。\nいまから　2000ねんくらいまえの　できごとだよ。
+SD_16B_01_sk_004	おそらく　{color[0000]}いんせきのらっか{color[ffff]}　のことなんだ。
+SD_16B_01_sk_005	なまえは　{color[0000]}テルルいんせき{color[ffff]}。\nいまから　2000ねんくらいまえの　できごとだよ。
 SD_16B_01_sk_006	いいつたえには
 SD_16B_01_sk_007	イルミナポケモンのちからが　ちらばって\nポケモンたち　みんなが　ひかるようになった
 SD_16B_01_sk_008	とある。
 SD_16B_01_sk_009	しかし　ぼくのかんがえでは
 SD_16B_01_sk_010	ポケモンたちが　ひかるようになったのは\nテルルいんせきの　えいきょうで
-SD_16B_01_sk_011	そのえいきょうを　おおきくうけたのが\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだと　かんがえているんだ。
+SD_16B_01_sk_011	そのえいきょうを　おおきくうけたのが\n{color[0000]}イルミナポケモン{color[ffff]}だと　かんがえているんだ。
 SD_16B_01_sk_012	いいつたえが　まちがってるの？
 SD_16B_01_sk_013	それを　たしかめるために\nこのちょうさが　じゅうようなんだよ。
 SD_16B_02_sk_001	このしまでも　イルミナポケモンにあえたね。
@@ -5885,7 +5885,7 @@ SD_16B_02_sk_002	うん　ぼうけんきのとおりだね。
 SD_16B_02_sk_003	やはり　レンティルちほうの\nしまごとに　いるみたいなんだ。
 SD_16B_02_sk_004	キャプテン・ビクトルは　どうやって\nそのことを　しったんだろう？
 SD_16B_02_sk_005	でも　ほんでは　2ひきのイルミナポケモンにしか\nあってなかったような？
-SD_16B_02_sk_006	ただ　かれは　\x0e\0\x03\x02\0\04ひきはいる\x0e\0\x03\x02ÿÿ\nとも　かいていたよね。
+SD_16B_02_sk_006	ただ　かれは　{color[0000]}4ひきはいる{color[ffff]}\nとも　かいていたよね。
 SD_16B_02_sk_007	むー。
 SD_16B_02_sk_008	まだまだ　わからないことだらけだね。
 SD_16B_02_sk_009	そこが　おもしろいんだよ。
@@ -5899,23 +5899,23 @@ SD_16B_03_sk_007	ふーん　ふしぎだねぇ･･････
 SD_16B_03_sk_008	さっきのイルミナポケモンが　さいごなの？
 SD_16B_03_sk_009	それについては　すごいはっけんがあったんだ。
 SD_16B_03_sk_010	みんなをあつめて　はなそう。
-SD_17_02_sk_001	さて　ぼくたちは　これまで　\x0e\0\x03\x02\0\04つのしま\x0e\0\x03\x02ÿÿで\nそれぞれ　イルミナポケモンに　であうことができたよね。
+SD_17_02_sk_001	さて　ぼくたちは　これまで　{color[0000]}4つのしま{color[ffff]}で\nそれぞれ　イルミナポケモンに　であうことができたよね。
 SD_17_02_sk_002	どのポケモンも　キレイだった～。
 SD_17_02_sk_003	そして　そのたびに　ほかのばしょでも\nエネルギーはんのうが　あらわれていたんだ。
 SD_17_02_sk_004	ポケモンたちが　れんらくを　とりあっているのかな？
 SD_17_02_sk_005	そうかもしれないね。
-SD_17_02_sk_006	エネルギーはんのうは　5つあったんだけど\nついに　\x0e\0\x03\x02\0\05つめのばしょ\x0e\0\x03\x02ÿÿが　とくていできたんだ。
+SD_17_02_sk_006	エネルギーはんのうは　5つあったんだけど\nついに　{color[0000]}5つめのばしょ{color[ffff]}が　とくていできたんだ。
 SD_17_02_sk_007	つぎが　さいごってこと？？
 SD_17_02_sk_008	と　ぼくはおもってる。
 SD_17_02_sk_009	そう　ぼくたちが　さいごにむかうのは\nこのしまだ！
 SD_17_02_sk_010	すっげ―とおい！
-SD_17_02_sk_011	これってもしかして　\x0e\0\x03\x02\0\0ゆき\x0e\0\x03\x02ÿÿ？
+SD_17_02_sk_011	これってもしかして　{color[0000]}ゆき{color[ffff]}？
 SD_17_02_sk_012	たぶん　いちめん　ゆきだらけだよ。
 SD_17_02_sk_013	はやくみたい！！
 SD_17_02_sk_014	では　かつて　ぼうけんかが　たどりつけなかった\nしまのちょうさを　かいししよう！
 SD_18_01_sk_001	ちょうさできるばしょが　ふえてきたね。
 SD_18_01_sk_002	そこで　ネオワンごうを\nさらに　かいりょうしてみたよ。
-SD_18_01_sk_003	\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿといって　ネオワンごうのスピードを\nアップするきのう　なんだ。
+SD_18_01_sk_003	{color[0000]}ターボ{color[ffff]}といって　ネオワンごうのスピードを\nアップするきのう　なんだ。
 SD_18_01_sk_004	へっへ～！\nさっき　ためしてきちゃった。
 SD_18_01_sk_005	すごい　かそくだったよ。
 SD_18_01_sk_006	はやく　すすめるだけでなく\nさつえいのタイミングも　かえられるんだ。
@@ -5924,45 +5924,45 @@ SD_18_01_sk_008	はーい！
 SD_18_01_sk_009	ターボをつかうには　 をおす\nそれだけだよ。
 SD_18_01_sk_010	おしているあいだ\nネオワンごうが　はやくすすむの。
 SD_18_01_sk_011	ちなみに･･････
-SD_18_01_sk_012	うしろむいたり　ズームしているとき\nネオワンごうが　\x0e\0\x03\x02\0\0おそくなってる\x0e\0\x03\x02ÿÿの　しってた？
+SD_18_01_sk_012	うしろむいたり　ズームしているとき\nネオワンごうが　{color[0000]}おそくなってる{color[ffff]}の　しってた？
 SD_18_01_sk_013	カメラのうごきに　れんどうしてるんだって。
 SD_18_01_sk_014	ターボといっしょにつかえば\nいろんなむきで　ポケモンたちがとれそうだよね！
 SD_18_01_sk_015	じゃあまた　あたらしいしまのちょうさ\nがんばっていこー！
 CI_009_1B_00_001	これが　ゆきなんだね。
 CI_009_1B_00_002	フロレオとうでは　ふらないから　しんせんだったよ。
 CI_009_1B_00_003	そろそろ　よるのようすも　みてみたいかな。
-CI_009_1B_00_004	\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿを　みかけたら\nわすれずに　とってきてね。
+CI_009_1B_00_004	{color[0000]}イルミナげんしょう{color[ffff]}を　みかけたら\nわすれずに　とってきてね。
 CI_010_0A_00_001	イルミナげんしょうの　ぶんせきができたよ。
-CI_010_0A_00_002	これが　\x0e\0\x03\x02\0\0デュラスとうの　イルミナオーブ\x0e\0\x03\x02ÿÿだ。
+CI_010_0A_00_002	これが　{color[0000]}デュラスとうの　イルミナオーブ{color[ffff]}だ。
 CI_010_0A_00_003	これで　ちょうさがすすめば･･････
 CI_010_0A_00_004	さいごのイルミナポケモンの　いばしょも\nわかるはずだ。
 CI_010_0A_00_005	たのんだよ！
 CI_010_1A_00_001	はかせ！\nあたらしい　てんそうスポットが　みつかったんだって？
 CI_010_1A_00_002	さすがじょしゅ　じょうほうがはやいね。
-CI_010_1A_00_003	こんどのはんのうは　\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　さらにおく\nその\x0e\0\x03\x02\0\0ちか\x0e\0\x03\x02ÿÿからなんだ。
+CI_010_1A_00_003	こんどのはんのうは　{color[0000]}デュラスとう{color[ffff]}の　さらにおく\nその{color[0000]}ちか{color[ffff]}からなんだ。
 CI_010_1A_00_004	ちていたんけんかぁ！　ワクワクしてきた！
-CI_010_1A_00_005	\x0e\0\x03\x02\0\0どうくつ\x0e\0\x03\x02ÿÿは　かなりふかくまで　つづいているようなんだ。
+CI_010_1A_00_005	{color[0000]}どうくつ{color[ffff]}は　かなりふかくまで　つづいているようなんだ。
 CI_010_1A_00_006	しっかり　ちょうさたのむよ！
 CI_010_3A_00_001	あんなちかに　しょくぶつが　せいそくしているとは。
 CI_010_3A_00_002	せかいには　まだまだ　ふしぎなばしょがあるんだね。
 CI_010_3A_00_003	はかせ！\nだいじなはなしって　なんだよ！
 CI_010_3A_00_004	お　そうだった。
-CI_010_3A_00_005	\x0e\0\x03\x02\0\0デュラスとうの　イルミナポケモン\x0e\0\x03\x02ÿÿをみつけたんだって。
-CI_010_3A_00_006	そう　どうくつの　さらにおく\n\x0e\0\x03\x02\0\0きょだいなくうかん\x0e\0\x03\x02ÿÿから　れいのはんのうが　あらわれたんだ。
-CI_010_3A_00_007	さいごの\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだね！
+CI_010_3A_00_005	{color[0000]}デュラスとうの　イルミナポケモン{color[ffff]}をみつけたんだって。
+CI_010_3A_00_006	そう　どうくつの　さらにおく\n{color[0000]}きょだいなくうかん{color[ffff]}から　れいのはんのうが　あらわれたんだ。
+CI_010_3A_00_007	さいごの{color[0000]}イルミナポケモン{color[ffff]}だね！
 CI_010_3A_00_008	しっかり　たのんだよ！
 SD_19_02_sk_001	さっきの　へきがには　おどろいたなぁ。
 SD_19_02_sk_002	もう1ぴき　イルミナポケモンがいるだけでなく\nいんせきのらっかのまえから　いるなんて･･････。
 SD_19_02_sk_003	はかせ　なんだかうれしそうだね。
 SD_19_02_sk_004	うん　ぼくのよそうとは　ちがったけど\nこのはっけんは　ほんとうに　すごいことなんだよ。
 SD_19_02_sk_005	そして　いままでの　ぶんせきのけっか　かくしまのエネルギーが\nいっかしょに　あつまっているのが　わかったんだ。
-SD_19_02_sk_006	かすかだけど　そこに\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿのはんのうもね。
+SD_19_02_sk_006	かすかだけど　そこに\n{color[0000]}イルミナポケモン{color[ffff]}のはんのうもね。
 SD_19_02_sk_007	へきがの　まんなかの！？
 SD_19_02_sk_008	おそらく。
 SD_19_02_sk_009	そのばしょは　どこなんだよ～！
 SD_19_02_sk_010	それはね。
 SD_19_02_sk_011	ここ　ちずにものってない\nちいさなしまを　さしているんだ。
-SD_19_02_sk_012	いいつたえにでてくる　\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿが　ここだとおもう。
+SD_19_02_sk_012	いいつたえにでてくる　{color[0000]}アウラムとう{color[ffff]}が　ここだとおもう。
 SD_19_02_sk_013	では　しんじつをめざして\nさいごのちょうさに　しゅっぱつしよう！
 CI_011_0A_00_001	なんか　すごいいせきがあったよね？？
 CI_011_0A_00_002	そうだね。
@@ -5971,26 +5971,26 @@ CI_011_0A_00_004	2しゅるい？
 CI_011_0A_00_005	そう　いりぐちのいせきと\nおくのどうくつは　すこしちがうかんじなんだ。
 CI_011_0A_00_006	どうくつのほうは　あとから　いそいでつくったような･･････。
 CI_011_0A_00_007	ほかのしまの　はなも　さいていて\nすごく　ふしぎなかんじだった･･････。
-CI_011_0A_00_008	\x0e\0\x03\x02\0\0かくしまのエネルギー\x0e\0\x03\x02ÿÿが　あつまっている　しょうこだね。
+CI_011_0A_00_008	{color[0000]}かくしまのエネルギー{color[ffff]}が　あつまっている　しょうこだね。
 CI_011_0A_00_009	あのばしょの　なぞがとければ\nさきにすすめるはず！
-CI_011_0A_00_010	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿのかいはつも　できているよ。
+CI_011_0A_00_010	{color[0000]}イルミナオーブ{color[ffff]}のかいはつも　できているよ。
 CI_011_0A_00_011	あとすこしだ。\nキミたちのちょうさに　きたいしているよ。
 CI_011_3A_00_001	ついにきたね。
 CI_011_3A_00_002	ちけいから　すいそくすると･･････
-CI_011_3A_00_003	おそらく　てんそうさきは　さいしょにみた　もんのおく\n\x0e\0\x03\x02\0\0いせきちゅうおう\x0e\0\x03\x02ÿÿ　にでるはずだ。
-CI_011_3A_00_004	わー　そこに　あの\x0e\0\x03\x02\0\0へきが\x0e\0\x03\x02ÿÿの\nまんなかのポケモンがいるんだよね。
+CI_011_3A_00_003	おそらく　てんそうさきは　さいしょにみた　もんのおく\n{color[0000]}いせきちゅうおう{color[ffff]}　にでるはずだ。
+CI_011_3A_00_004	わー　そこに　あの{color[0000]}へきが{color[ffff]}の\nまんなかのポケモンがいるんだよね。
 CI_011_3A_00_005	そう　ついに　であえるしゅんかんが　きたんだ。
 CI_011_3A_00_006	そのしゅんかんは\nやっぱり　キミにまかせるよ！
 CI_011_3A_00_007	ちぇっ　しかたねーな。\nちゃんと　とってこいよな！
 CI_011_3A_00_008	イルミナポケモンによろしくね！
 CI_011_3A_00_009	いいひょうじょうするように　なったんじゃないか？
 CI_011_3A_00_010	よし　ではげんきよく\nいっておいで！
-SD_20_01_sk_001	ほんとうに　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿがいたね･･････。
+SD_20_01_sk_001	ほんとうに　{color[0000]}イルミナポケモン{color[ffff]}がいたね･･････。
 SD_20_01_sk_002	へきがのとおり　だったね！
 SD_20_01_sk_003	うん。
 SD_20_01_sk_004	つまり　へきがにあるのは　じっさいにおこったこと･･････\nなのか･･････。
 SD_20_01_sk_023	ゼルネアスが　みんなに　よびかけて
-SD_20_01_sk_005	\x0e\0\x03\x02\0\0バリア\x0e\0\x03\x02ÿÿのようなもので　いんせきから\nまもってくれたんじゃないのかな？
+SD_20_01_sk_005	{color[0000]}バリア{color[ffff]}のようなもので　いんせきから\nまもってくれたんじゃないのかな？
 SD_20_01_sk_006	レンティルちほう　ぜんどを　おおうほどの？？
 SD_20_01_sk_007	うーん･･････。
 SD_20_01_sk_008	ぜったいに　そうだって！
@@ -6016,22 +6016,22 @@ SD_21_01_sk_005	わたしも　まだまだ　てつだうよ！
 SD_21_01_sk_006	うん　たのんだよ。
 SD_21_01_sk_008	そして　キミのちょうさも　まだまだ　つづくよ。
 SD_21_01_sk_009	あ　はかせ。\nあの　せつめいは？
-SD_21_01_sk_010	そうそう　\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿという\nあたらしいきのうを　つくったんだ。
+SD_21_01_sk_010	そうそう　{color[0000]}ルートスコア{color[ffff]}という\nあたらしいきのうを　つくったんだ。
 SD_21_01_sk_011	かくルートで　1かいのちょうさぜんたいを\nひょうかするきのうなんだ。
 SD_21_01_sk_012	いいしゃしんだけじゃなく　たくさんのポケモンを\nとるのがコツかな。
-SD_21_01_sk_013	オンラインでは　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿもあるんだって。\nあとで　みてみてね。
+SD_21_01_sk_013	オンラインでは　{color[0000]}ランキング{color[ffff]}もあるんだって。\nあとで　みてみてね。
 SD_21_01_sk_014	もう1つ　ステキなおしらせが\nあるんだよね？
-SD_21_01_sk_015	\x0e\0\x03\x02\0\0れんしゃモード\x0e\0\x03\x02ÿÿのことかな。
+SD_21_01_sk_015	{color[0000]}れんしゃモード{color[ffff]}のことかな。
 SD_21_01_sk_016	はかせにたのんで　リサーチカメラにきのうを\nついかしてもらったんだ。
-SD_21_01_sk_017	\x0e\0\x03\x02\0\01かいのシャッター\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0れんぞくしたしゃしん\x0e\0\x03\x02ÿÿが　とれるから\nベストなタイミングが　とらえやすくなるよ。
-SD_21_01_sk_018	\x0e\0\x03\x02\0\0せってい\x0e\0\x03\x02ÿÿで　きのうの　ON/OFF　ができるから\nためしてみてね！　やくだつとおもうよ！
+SD_21_01_sk_017	{color[0000]}1かいのシャッター{color[ffff]}で　{color[0000]}れんぞくしたしゃしん{color[ffff]}が　とれるから\nベストなタイミングが　とらえやすくなるよ。
+SD_21_01_sk_018	{color[0000]}せってい{color[ffff]}で　きのうの　ON/OFF　ができるから\nためしてみてね！　やくだつとおもうよ！
 SD_21_01_sk_019	ししょーも　はかせも　やっぱすげー。\nちょっと　またちょうさに　いってくる！
 SD_21_01_sk_020	ははは。
-SD_21_01_sk_007	では　これからも　たのしみながら\nキミだけの\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿを　つくりあげてね！
+SD_21_01_sk_007	では　これからも　たのしみながら\nキミだけの{color[0000]}フォトずかん{color[ffff]}を　つくりあげてね！
 CI_101_0A_00_001	どう？　ちょうさは　すすんでる？
 CI_101_0A_00_002	ネオワンごうで　ほかのしまにいくのもいいけど\nここで　さつえいするのはどうかな？
 CI_101_0A_00_003	ふだんみてる　ポケモンたちも\nいろんなひょうじょうを　みせてくれるよ。
-CI_101_0A_00_004	ベースキャンプの　\x0e\0\x03\x02\0\0ひだりうえのアイコン\x0e\0\x03\x02ÿÿから\nはじめられるんだ。
+CI_101_0A_00_004	ベースキャンプの　{color[0000]}ひだりうえのアイコン{color[ffff]}から\nはじめられるんだ。
 CI_101_0A_00_005	きがむいたら　やってみてね。
 CI_101_0A_01_001	やぁ　いいしゃしんは　とれている？
 CI_101_0A_01_002	こないだは　キミたちに　ここ\nベースキャンプでの　さつえいをすすめたよね？
@@ -6042,7 +6042,7 @@ CI_101_0A_01_006	？？ 　べつのばしょって？
 CI_101_0A_01_007	ここのことさ。\nいつもと　ちがうだろ？
 CI_101_0A_01_008	けんきゅうしつまえと　ここ。\nかいしするばしょで　ルートがかわるんだ。
 CI_101_0A_01_009	へー　わたしも\nあとから　やってみよーっと。
-CI_101_0A_01_010	あ　ベースキャンプでのさつえいは\n\x0e\0\x03\x02\0\0ひだりうえのアイコン\x0e\0\x03\x02ÿÿを　えらぶんだよ。
+CI_101_0A_01_010	あ　ベースキャンプでのさつえいは\n{color[0000]}ひだりうえのアイコン{color[ffff]}を　えらぶんだよ。
 CI_101_0A_01_011	みぢかなできごとに　きづくことも\nカメラマンには　だいじなことなんだ。
 CI_101_0A_01_012	ま　いまはおもいのまま　たくさんとる\nをつづけていけば　だいじょうぶ！
 Search_Info.msbt
@@ -6150,12 +6150,12 @@ Search_101_1_A_008	けんきゅうしつの　2かいは\nはかせの　せい�
 Search_101_1_A_011	ねいきが　きこえる。\nゆかのしたに\nなにかいるようだ。
 Search_Tu_001	ネオワンごう。\nポケモンちょうさには\nかかせない　のりものだ。
 Stickers_Info.msbt
-Stickers001_Reward_Info	\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
-Stickers002_Reward_Info	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
-Stickers003_Reward_Info	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
-Stickers004_Reward_Info	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
-Stickers005_Reward_Info	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
-Stickers006_Reward_Info	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers001_Reward_Info	{color[0000]}フロレオとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers002_Reward_Info	{color[0000]}ベラスとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers003_Reward_Info	{color[0000]}コピアしょとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers004_Reward_Info	{color[0000]}ボルクとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers005_Reward_Info	{color[0000]}デュラスとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
+Stickers006_Reward_Info	{color[0000]}アウラムとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
 Stickers_Name.msbt
 Stickers001_Name	ちょうさステッカー
 Stickers002_Name	ちょうさステッカー
@@ -6246,8 +6246,8 @@ NH_Chat_079	トオルとは　けんきゅうのたびで　であってね。\n
 NH_Chat_080	トオルさんに　すごいしゃしん　みせてもらっちゃった！\nふるいしゃしんだったけど　にじいろでキラキラしてたよ。
 NH_Chat_081	オレは　ししょーよりも　すごいカメラマンになるぞ！\nゆだんしてると　おまえなんか　すぐおいぬくからな！
 NH_Chat_082	いや～　キミたちをみていたら\nぼくもまた　さつえいりょこうに　いきたくなってきたよ。
-NH_Tips_001	レンティルちほうには　いろいろな　しまがあるけど･･････\nこれは　ぼくたちのいる　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿだよ。
-NH_Tips_002	これは　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿだよ。\nさっそく　ちょうさいってみよー！
+NH_Tips_001	レンティルちほうには　いろいろな　しまがあるけど･･････\nこれは　ぼくたちのいる　{color[0000]}フロレオとう{color[ffff]}だよ。
+NH_Tips_002	これは　{color[0000]}フロレオとう{color[ffff]}だよ。\nさっそく　ちょうさいってみよー！
 NH_Tips_003	ほかのしまへの　いどうは　むずかしかったんだけど\nいまは　だいじょうぶだよ。　どんどん　ちょうさしてきてね！
 NH_Tips_004	しまによって　かんきょうがちがうから\nあえるポケモンも　ちがうって　はかせがいってたよ！
 NH_Tips_005	こっちが　もりっぽいしまで　こっちが･･････？\nまっ　いけばわかるよな！　さっさといこうぜ！
@@ -6256,80 +6256,80 @@ NH_Tips_007	こうみると　しまごとに\nきこうが　まったくちが
 NH_Tips_008	うーん　どのしまのポケモンに\nあいにいくか　なやんじゃうね。
 NH_Tips_009	どこのしまに　いくんだ？\nオレはー･･････　なやみちゅう！
 NH_Tips_010	しまごとに　ここまで　かんきょうがちがうのは\nめずらしいことなんだよ。
-NH_Tips_011	ここ　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿでは　しぜんをほごしながら\nひととポケモンが　きょうぞんしているよ。
-NH_Tips_012	\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿって　いちねんじゅう　おなじような　きおんだよね。\nすっごくあつかったり　さむかったりするばしょって　どんなかんじなんだろ？
-NH_Tips_013	ここ　\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿは　1ねんをとおして　むしあついんだ。\nみたとおり　ほとんどが　もりでおおわれているよ。
+NH_Tips_011	ここ　{color[0000]}フロレオとう{color[ffff]}では　しぜんをほごしながら\nひととポケモンが　きょうぞんしているよ。
+NH_Tips_012	{color[0000]}フロレオとう{color[ffff]}って　いちねんじゅう　おなじような　きおんだよね。\nすっごくあつかったり　さむかったりするばしょって　どんなかんじなんだろ？
+NH_Tips_013	ここ　{color[0000]}ベラスとう{color[ffff]}は　1ねんをとおして　むしあついんだ。\nみたとおり　ほとんどが　もりでおおわれているよ。
 NH_Tips_014	きが　いっぱいある　しまだっけ。\nはっぱで　かくれちゃって　とるのムズカシーよな。
-NH_Tips_015	ここ　\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿは　あつくて\nほとんどのばしょが　かんそうした　きこうなんだ。
+NH_Tips_015	ここ　{color[0000]}ボルクとう{color[ffff]}は　あつくて\nほとんどのばしょが　かんそうした　きこうなんだ。
 NH_Tips_016	きびしいかんきょうだからこそ　ポケモンたちが\nどんなふうに　いきているか　きになるね。
-NH_Tips_017	ここ　\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿは　りくちがすくないから\nうみがメインの　ちょうさになるよ。
+NH_Tips_017	ここ　{color[0000]}コピアしょとう{color[ffff]}は　りくちがすくないから\nうみがメインの　ちょうさになるよ。
 NH_Tips_018	うみのポケモンかぁ～！\nみずがキラキラして　きれいなしゃしん　とれるかなぁ。
-NH_Tips_019	ここ　\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　しろいぶぶんは　すべてゆきだよ。\nまさに　ゆきとこおりのしまだね。
+NH_Tips_019	ここ　{color[0000]}デュラスとう{color[ffff]}の　しろいぶぶんは　すべてゆきだよ。\nまさに　ゆきとこおりのしまだね。
 NH_Tips_020	さむさで　ゆびが～･･････　って\nネオワンごうのなかは　ぜんぜんさむくないけどな！
-NH_Tips_021	ここ　\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿは　なぞのおおい　しまなんだ。\nりくちと　ほぼおなじおおきさの　だいきぼな　いせきがあるよ。
+NH_Tips_021	ここ　{color[0000]}アウラムとう{color[ffff]}は　なぞのおおい　しまなんだ。\nりくちと　ほぼおなじおおきさの　だいきぼな　いせきがあるよ。
 NH_Tips_022	しめいをもって　いせきをまもりつづける　ポケモンかぁ･･････\nぼくは　あまりとってこなかった　だいざいだけど　ロマンをかんじるね。
-NH_Tips_023	\x0e\0\x03\x02\0\0フロレオしぜんこうえん\x0e\0\x03\x02ÿÿは　たいけんかいでも　よくいくので\nひとなつっこいポケモンが　おおいんだよ。
-NH_Tips_024	\x0e\0\x03\x02\0\0しぜんこうえん\x0e\0\x03\x02ÿÿといえば　ビッパだね！\nあのマイペースなかんじが　たまらないよね。
-NH_Tips_027	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿは　きがおいしげっているから\nポケモンが　かくれないよう　うまくとってね。
+NH_Tips_023	{color[0000]}フロレオしぜんこうえん{color[ffff]}は　たいけんかいでも　よくいくので\nひとなつっこいポケモンが　おおいんだよ。
+NH_Tips_024	{color[0000]}しぜんこうえん{color[ffff]}といえば　ビッパだね！\nあのマイペースなかんじが　たまらないよね。
+NH_Tips_027	{color[0000]}ミッケジャングル{color[ffff]}は　きがおいしげっているから\nポケモンが　かくれないよう　うまくとってね。
 NH_Tips_028	きのところを　よ～くみて･･････　いた！\nってなると　ちょっとたのしいよね！
-NH_Tips_031	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿは　ちょっとしたきっかけで\nべつのばしょに　まよいこむようだね･･････。
+NH_Tips_031	{color[0000]}トキシキのもり{color[ffff]}は　ちょっとしたきっかけで\nべつのばしょに　まよいこむようだね･･････。
 NH_Tips_032	オレ　あんまり　ここのちょうさ　いってないけど\nこわいから　じゃないからな！
-NH_Tips_033	\x0e\0\x03\x02\0\0ネッサさばく\x0e\0\x03\x02ÿÿのような　かこくなかんきょうでも\nくらせるなんて　ポケモンって　すごいよね。
-NH_Tips_034	\x0e\0\x03\x02\0\0さばく\x0e\0\x03\x02ÿÿはあついから　きをつけてね！\nって　ネオワンごうにのってたら　かんけいないか～。
-NH_Tips_037	\x0e\0\x03\x02\0\0ドローかざん\x0e\0\x03\x02ÿÿのあたりは　おおむかしの　かんきょうが\nそのままに　ちかいかたちで　のこっているみたいなんだ。
+NH_Tips_033	{color[0000]}ネッサさばく{color[ffff]}のような　かこくなかんきょうでも\nくらせるなんて　ポケモンって　すごいよね。
+NH_Tips_034	{color[0000]}さばく{color[ffff]}はあついから　きをつけてね！\nって　ネオワンごうにのってたら　かんけいないか～。
+NH_Tips_037	{color[0000]}ドローかざん{color[ffff]}のあたりは　おおむかしの　かんきょうが\nそのままに　ちかいかたちで　のこっているみたいなんだ。
 NH_Tips_038	ここ　ちっちゃいのから　でけーのまで\nすげーかずの　かざんが　くっついてるんだってよ！
-NH_Tips_039	\x0e\0\x03\x02\0\0ニジイロビーチ\x0e\0\x03\x02ÿÿは　あたたかいし\nうみかぜも　ここちよくて　いいよね。
+NH_Tips_039	{color[0000]}ニジイロビーチ{color[ffff]}は　あたたかいし\nうみかぜも　ここちよくて　いいよね。
 NH_Tips_040	ここのすなはま　ほんのりピンクなんだよ！\nネオワンごうをおりて　あるけたらいいのになぁ。
-NH_Tips_041	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿでは　かいじょうをすすむ　ネオワンごうを　なかまだとおもって\nポケモンたちが　いっしょに　およいでくれるかもしれないね。
-NH_Tips_042	\x0e\0\x03\x02\0\0かいじょう\x0e\0\x03\x02ÿÿといえば　ホエルオー！\nあのダイナミックさは　ほかでは　とれないよね。
-NH_Tips_043	\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿでは　ふだんみられない\nうみのなかの　ポケモンたちのくらしが　ちょうさできるよ。
+NH_Tips_041	{color[0000]}コピアリーフ{color[ffff]}では　かいじょうをすすむ　ネオワンごうを　なかまだとおもって\nポケモンたちが　いっしょに　およいでくれるかもしれないね。
+NH_Tips_042	{color[0000]}かいじょう{color[ffff]}といえば　ホエルオー！\nあのダイナミックさは　ほかでは　とれないよね。
+NH_Tips_043	{color[0000]}レンティルかいしょう{color[ffff]}では　ふだんみられない\nうみのなかの　ポケモンたちのくらしが　ちょうさできるよ。
 NH_Tips_044	およぎじゃ　ぜったい　いけないよな。\nいいしゃしん　とれそーだぜ！
-NH_Tips_045	\x0e\0\x03\x02\0\0ヒエールせつげん\x0e\0\x03\x02ÿÿ･･････　キャプテン・ビクトルが　ぼうけんしていたら\nどんなふうに　かきしるしたんだろうね。
+NH_Tips_045	{color[0000]}ヒエールせつげん{color[ffff]}･･････　キャプテン・ビクトルが　ぼうけんしていたら\nどんなふうに　かきしるしたんだろうね。
 NH_Tips_046	あっちも　こっちも　まっしろ！\nポケモンたちと　ゆきあそび　してみたいなぁ。
-NH_Tips_047	\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿみたいな　くらいところでは\nサーチをつかうと　ポケモンがみつけやすいよ。
+NH_Tips_047	{color[0000]}ハナレどうくつ{color[ffff]}みたいな　くらいところでは\nサーチをつかうと　ポケモンがみつけやすいよ。
 NH_Tips_048	ここ　くらくて　ちょ～っとこわいけど\nポケモンたちは　どこにいても　たのしそうだよね！
-NH_Tips_049	\x0e\0\x03\x02\0\0シューゴいせき\x0e\0\x03\x02ÿÿは　いままでみたなかで\nじょうたいも　きぼも　いちばんだよ。　じっくり　しらべよう。
+NH_Tips_049	{color[0000]}シューゴいせき{color[ffff]}は　いままでみたなかで\nじょうたいも　きぼも　いちばんだよ。　じっくり　しらべよう。
 NH_Tips_050	ここってさ　ちょっとかわったポケモン　おおいよな！\nゴルーグ　かっこいいよなぁ･･････。
-NH_Tips_051	「\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿ」とよばれている　はっこうげんしょうは\nレンティルちほうでしか　かくにんされていないんだ。
-NH_Tips_052	\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿって　ふわ～っとひかって　キレイだよね。\nポケモンたちは　げんきになるんだって。
-NH_Tips_053	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿは　ひかるもようが　うきでるのが　とくちょうだよ。\nふつうよりも　おおきいポケモンがいたのには　びっくりしたね。
-NH_Tips_054	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　オレもあいたい！\nでっかくてひかるとか　かっこよすぎだろ！
-NH_Tips_055	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿは　イルミナげんしょうを\nおこす　ふしぎな　はななんだ。
-NH_Tips_056	ひかりをはなつはな　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿか･･････\nちかくにいる　ポケモンたちのはんのうも　おもしろいね。
-NH_Tips_057	\x0e\0\x03\x02\0\0テルルいんせき\x0e\0\x03\x02ÿÿは　いまから　やく2000ねんまえ\nレンティルにおちたとされる　いんせきだよ。
+NH_Tips_051	「{color[0000]}イルミナげんしょう{color[ffff]}」とよばれている　はっこうげんしょうは\nレンティルちほうでしか　かくにんされていないんだ。
+NH_Tips_052	{color[0000]}イルミナげんしょう{color[ffff]}って　ふわ～っとひかって　キレイだよね。\nポケモンたちは　げんきになるんだって。
+NH_Tips_053	{color[0000]}イルミナポケモン{color[ffff]}は　ひかるもようが　うきでるのが　とくちょうだよ。\nふつうよりも　おおきいポケモンがいたのには　びっくりしたね。
+NH_Tips_054	{color[0000]}イルミナポケモン{color[ffff]}に　オレもあいたい！\nでっかくてひかるとか　かっこよすぎだろ！
+NH_Tips_055	{color[0000]}クリスタフラワー{color[ffff]}は　イルミナげんしょうを\nおこす　ふしぎな　はななんだ。
+NH_Tips_056	ひかりをはなつはな　{color[0000]}クリスタフラワー{color[ffff]}か･･････\nちかくにいる　ポケモンたちのはんのうも　おもしろいね。
+NH_Tips_057	{color[0000]}テルルいんせき{color[ffff]}は　いまから　やく2000ねんまえ\nレンティルにおちたとされる　いんせきだよ。
 NH_Tips_058	なんとかいんせき　ってやつ\nそらから　おちてきたんだろ？　やべー！
-NH_Tips_059	ぼくが　かいはつした　\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿは\nポケモンちょうさに　かかせない　とくべつなマシンだよ！
-NH_Tips_060	\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿは　むかし　ぼくがつかっていた\nちょうさポッドの　ぎじゅつも　つかわれているんだよ。
-NH_Tips_061	キャプテン・ビクトルの　「\x0e\0\x03\x02\0\0レンティルぼうけんき\x0e\0\x03\x02ÿÿ」は\nフロレオとうの　どのいえにもある　ゆうめいなほんだよね。
-NH_Tips_062	あの　「\x0e\0\x03\x02\0\0レンティルぼうけんき\x0e\0\x03\x02ÿÿ」みたいな　ぼうけんを\nオレらがするなんて　おもわなかったぜ！
-NH_Tips_063	いまから　100ねんまえ　レンティルちほうを　ぼうけんした\n\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿ。　ぼくの　そんけいするひとだよ。
-NH_Tips_064	\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿかぁ。　ぼくは　カメラマンだけど\nぼうけんしてるトコは　にているね。　はなしてみたかったなぁ。
-NH_Tips_065	ポインタを　ポケモンにあわせると　しゅやくをきめられるよ。\n\x0e\0\x03\x02\0\0しゅやくをきめて　まんなかでとる\x0e\0\x03\x02ÿÿ！　もうおぼえたよね！
-NH_Tips_066	ポケモンを　おおきくとるには　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿ！\nねらいをさだめてから　ズームするのが　コツなんだって。
-NH_Tips_067	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかうと　かくれているポケモンを\nみつけることもできるよ！
-NH_Tips_068	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿでみつけた　  をしらべると　\x0e\0\x03\x02\0\0ぶんせきけっか\x0e\0\x03\x02ÿÿが　でるよ。\nポケモンの　あたらしい　いちめんを　みつける　ヒントになるかも？
-NH_Tips_069	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿするときにでる　おとや　でんぱってね\nポケモンによっては　きになっちゃうみたい。
-NH_Tips_070	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　ポケモンにあげると　たべてくれたりするよ。\nすこし　はなれたばしょに　みちびくのにも　つかえるみたい！
-NH_Tips_071	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを　ポケモンやクリスタフラワーに\nあてると　イルミナげんしょうが　おこせるよ。
-NH_Tips_072	\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿはつかってる？　ねむっているポケモンのちかくで\nつかってみるのも　いいかもしれないね。
-NH_Tips_073	おんがくがすきそうなポケモンに　\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿをならすと\nうたったり　おどったりしてくれるかもね。
-NH_Tips_074	\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿで　はやくすすむだけじゃなくて　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0うしろむき\x0e\0\x03\x02ÿÿで\nゆっくりすすめば　いろんなしゃしんが　とれそうだよね。
-NH_Tips_075	かくルートで　いいしゃしんを　たくさんとって\n\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿの　ハイスコアをねらってみてね！
-NH_Tips_076	\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿでは　ちょうさしたデータがみれるよ。\nはかせっぽくいうと　「ふりかえることも　だいじだからね！」
-NH_Tips_077	\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿでは　キミがさつえいした　しゃしんがみれるよ。\nふりかえることも　だいじだからだね。
-NH_Tips_079	\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0マップ\x0e\0\x03\x02ÿÿでは　かくルートのどこに\nポケモンがいたのか　ふりかえることができるよ。
-NH_Tips_080	ひかっている　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　みつけたら　さつえいしてみてね。\n\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿに　まとめておくよ。
-NH_Tips_081	かくちにある　\x0e\0\x03\x02\0\0こだいいせき\x0e\0\x03\x02ÿÿを　みつけたら　さつえいしてみてね。\n\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿに　まとめておくよ。
-NH_Tips_082	\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿにほぞんしたしゃしんは　いろいろ　\x0e\0\x03\x02\0\0かこう\x0e\0\x03\x02ÿÿできるよ。\nともだちと　みせあうのも　すっごくたのしいんだから！
-NH_Tips_083	ちょうさちゅうにしたことは　ネオワンごうが　きろくしているよ。\n\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0ちょうさログ\x0e\0\x03\x02ÿÿで　かくにんしてみてね。
-NH_Tips_084	キミのちょうさの　しんてんによって　\x0e\0\x03\x02\0\0ちょうさしょうごう\x0e\0\x03\x02ÿÿを　おくるよ。\nどんなものがあるかは　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿで　かくにんしてみてね。
-NH_Tips_085	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　せかいじゅうにいる\nたくさんの　ともだちのしゃしんが　みられるよ。
-NH_Tips_086	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　\x0e\0\x03\x02\0\0スコアランキング\x0e\0\x03\x02ÿÿもあるよ。\nじょういにいるひとが　アップしたしゃしんも　みられるんだ。
-NH_Tips_087	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿで　きにいったしゃしんを　みつけたら\n\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿを　おくってみてね。　もらったら　うれしいものなんだ。
-NH_Tips_088	ポケモンのこうどうを　しるためには\n\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ　すべてのしゃしんが　ひつようなんだよ。
-NH_Tips_089	\x0e\0\x03\x02\0\0ちょうさレベル\x0e\0\x03\x02ÿÿは　ルートごとの　ちょうさぐあいを　あらわすので\n\x0e\0\x03\x02\0\0ひる\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0よる\x0e\0\x03\x02ÿÿは　それぞれ　ちょうさがひつようだよ。
-NH_Tips_090	おなじポケモンでも　\x0e\0\x03\x02\0\0じかんによって　こうどうがかわる\x0e\0\x03\x02ÿÿんだ。\n\x0e\0\x03\x02\0\0ひる\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0よる\x0e\0\x03\x02ÿÿ　りょうほうみかけたら　どちらもさつえいしてね。
-NH_Tips_091	ちょうさしたあとは　\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿにほぞんするしゃしんを　えらべるよ。\n\x0e\0\x03\x02\0\0エクストラさつえい\x0e\0\x03\x02ÿÿでは　とりなおしもできるから　やってみてね。
+NH_Tips_059	ぼくが　かいはつした　{color[0000]}ネオワンごう{color[ffff]}は\nポケモンちょうさに　かかせない　とくべつなマシンだよ！
+NH_Tips_060	{color[0000]}ネオワンごう{color[ffff]}は　むかし　ぼくがつかっていた\nちょうさポッドの　ぎじゅつも　つかわれているんだよ。
+NH_Tips_061	キャプテン・ビクトルの　「{color[0000]}レンティルぼうけんき{color[ffff]}」は\nフロレオとうの　どのいえにもある　ゆうめいなほんだよね。
+NH_Tips_062	あの　「{color[0000]}レンティルぼうけんき{color[ffff]}」みたいな　ぼうけんを\nオレらがするなんて　おもわなかったぜ！
+NH_Tips_063	いまから　100ねんまえ　レンティルちほうを　ぼうけんした\n{color[0000]}キャプテン・ビクトル{color[ffff]}。　ぼくの　そんけいするひとだよ。
+NH_Tips_064	{color[0000]}キャプテン・ビクトル{color[ffff]}かぁ。　ぼくは　カメラマンだけど\nぼうけんしてるトコは　にているね。　はなしてみたかったなぁ。
+NH_Tips_065	ポインタを　ポケモンにあわせると　しゅやくをきめられるよ。\n{color[0000]}しゅやくをきめて　まんなかでとる{color[ffff]}！　もうおぼえたよね！
+NH_Tips_066	ポケモンを　おおきくとるには　{color[0000]}ズーム{color[ffff]}！\nねらいをさだめてから　ズームするのが　コツなんだって。
+NH_Tips_067	{color[0000]}サーチ{color[ffff]}をつかうと　かくれているポケモンを\nみつけることもできるよ！
+NH_Tips_068	{color[0000]}サーチ{color[ffff]}でみつけた　  をしらべると　{color[0000]}ぶんせきけっか{color[ffff]}が　でるよ。\nポケモンの　あたらしい　いちめんを　みつける　ヒントになるかも？
+NH_Tips_069	{color[0000]}サーチ{color[ffff]}するときにでる　おとや　でんぱってね\nポケモンによっては　きになっちゃうみたい。
+NH_Tips_070	{color[0000]}ふわりんご{color[ffff]}を　ポケモンにあげると　たべてくれたりするよ。\nすこし　はなれたばしょに　みちびくのにも　つかえるみたい！
+NH_Tips_071	{color[0000]}イルミナオーブ{color[ffff]}を　ポケモンやクリスタフラワーに\nあてると　イルミナげんしょうが　おこせるよ。
+NH_Tips_072	{color[0000]}メロディ{color[ffff]}はつかってる？　ねむっているポケモンのちかくで\nつかってみるのも　いいかもしれないね。
+NH_Tips_073	おんがくがすきそうなポケモンに　{color[0000]}メロディ{color[ffff]}をならすと\nうたったり　おどったりしてくれるかもね。
+NH_Tips_074	{color[0000]}ターボ{color[ffff]}で　はやくすすむだけじゃなくて　{color[0000]}ズーム{color[ffff]}や　{color[0000]}うしろむき{color[ffff]}で\nゆっくりすすめば　いろんなしゃしんが　とれそうだよね。
+NH_Tips_075	かくルートで　いいしゃしんを　たくさんとって\n{color[0000]}ルートスコア{color[ffff]}の　ハイスコアをねらってみてね！
+NH_Tips_076	{color[0000]}けんきゅうしつ{color[ffff]}では　ちょうさしたデータがみれるよ。\nはかせっぽくいうと　「ふりかえることも　だいじだからね！」
+NH_Tips_077	{color[0000]}フォトずかん{color[ffff]}では　キミがさつえいした　しゃしんがみれるよ。\nふりかえることも　だいじだからだね。
+NH_Tips_079	{color[0000]}フォトずかん{color[ffff]}の　{color[0000]}マップ{color[ffff]}では　かくルートのどこに\nポケモンがいたのか　ふりかえることができるよ。
+NH_Tips_080	ひかっている　{color[0000]}クリスタフラワー{color[ffff]}を　みつけたら　さつえいしてみてね。\n{color[0000]}フォトずかん{color[ffff]}の　{color[0000]}コレクション{color[ffff]}に　まとめておくよ。
+NH_Tips_081	かくちにある　{color[0000]}こだいいせき{color[ffff]}を　みつけたら　さつえいしてみてね。\n{color[0000]}フォトずかん{color[ffff]}の　{color[0000]}コレクション{color[ffff]}に　まとめておくよ。
+NH_Tips_082	{color[0000]}アルバム{color[ffff]}にほぞんしたしゃしんは　いろいろ　{color[0000]}かこう{color[ffff]}できるよ。\nともだちと　みせあうのも　すっごくたのしいんだから！
+NH_Tips_083	ちょうさちゅうにしたことは　ネオワンごうが　きろくしているよ。\n{color[0000]}マイスペース{color[ffff]}の　{color[0000]}ちょうさログ{color[ffff]}で　かくにんしてみてね。
+NH_Tips_084	キミのちょうさの　しんてんによって　{color[0000]}ちょうさしょうごう{color[ffff]}を　おくるよ。\nどんなものがあるかは　{color[0000]}マイスペース{color[ffff]}で　かくにんしてみてね。
+NH_Tips_085	{color[0000]}オンライン{color[ffff]}では　せかいじゅうにいる\nたくさんの　ともだちのしゃしんが　みられるよ。
+NH_Tips_086	{color[0000]}オンライン{color[ffff]}では　{color[0000]}スコアランキング{color[ffff]}もあるよ。\nじょういにいるひとが　アップしたしゃしんも　みられるんだ。
+NH_Tips_087	{color[0000]}オンライン{color[ffff]}で　きにいったしゃしんを　みつけたら\n{color[0000]}りんごメダル{color[ffff]}を　おくってみてね。　もらったら　うれしいものなんだ。
+NH_Tips_088	ポケモンのこうどうを　しるためには\n{color[0000]}★1～4{color[ffff]}　すべてのしゃしんが　ひつようなんだよ。
+NH_Tips_089	{color[0000]}ちょうさレベル{color[ffff]}は　ルートごとの　ちょうさぐあいを　あらわすので\n{color[0000]}ひる{color[ffff]}と{color[0000]}よる{color[ffff]}は　それぞれ　ちょうさがひつようだよ。
+NH_Tips_090	おなじポケモンでも　{color[0000]}じかんによって　こうどうがかわる{color[ffff]}んだ。\n{color[0000]}ひる{color[ffff]}と{color[0000]}よる{color[ffff]}　りょうほうみかけたら　どちらもさつえいしてね。
+NH_Tips_091	ちょうさしたあとは　{color[0000]}アルバム{color[ffff]}にほぞんするしゃしんを　えらべるよ。\n{color[0000]}エクストラさつえい{color[ffff]}では　とりなおしもできるから　やってみてね。
 NH_Sugg_001	このあたりには　まだちょうさできていない\nばしょが　ありそうだね。
 NH_Sugg_002	ちけいてきに　まだいけそうなみちが　ありそうだな･･････\nもうすこし　ちょうさしてみたら　どうかな？
 NH_Sugg_003	このへん　もっといけるトコありそう！
@@ -6339,48 +6339,48 @@ NH_Sugg_006	このへん　もっといけるトコありそう！
 NH_Sugg_007	このあたりには　まだちょうさできていない\nポケモンが　いそうだね。
 NH_Sugg_008	このあたり　まだキミが　さつえいできていない\nポケモンが　いるんじゃないかな。
 NH_Sugg_009	このまえ　モニターに　チラッとうつったポケモン\nまだ　フォトずかんにいなかったような･･････？
-NH_Sugg_010	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿには　たくさんポケモンがくるんだ。\n\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿのほうでも　よくみかけるよね。
-NH_Sugg_011	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿでの　さつえいはしてる？\nまだ　いってないところが　あるんじゃないかな？
-NH_Sugg_012	ここってさ　\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿのなかも\nポケモンがいて　にぎやかだよな！
-NH_Sugg_013	そういえば　キミの\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿに\nとうろくされていないポケモンが　\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿにいるよ。
-NH_Sugg_014	このまえ　ぼくが\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿで　みかけたポケモン。\nまだ　キミは　とったこと　ないんじゃないかなぁ。
-NH_Sugg_015	ねえねえ　\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿにいるポケモン\nせっかくだし　キミの\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿにも　ぜんぶとうろくしようよ！
-NH_Sugg_016	よーし！\n\x0e\0\x03\x02\0\0しぜんこうえん\x0e\0\x03\x02ÿÿの　さつえいにいってみよ～！
-NH_Sugg_017	まずは　\x0e\0\x03\x02\0\0ひるのしぜんこうえん\x0e\0\x03\x02ÿÿで\nたくさん　ポケモンをとってみてね。
-NH_Sugg_018	ねえねえ！\n\x0e\0\x03\x02\0\0よるのしぜんこうえん\x0e\0\x03\x02ÿÿ　さつえいしにいこうよ！
-NH_Sugg_019	\x0e\0\x03\x02\0\0よるのしぜんこうえん\x0e\0\x03\x02ÿÿでは　イルミナげんしょうが　みられるとおもうよ。\nまわりを　よくかんさつしてみてね。
-NH_Sugg_020	\x0e\0\x03\x02\0\0しぜんこうえん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿに　いこうよ！\nそこに　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　いるかもなんだって！
-NH_Sugg_021	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿの　ひかるもよう･･････\n\x0e\0\x03\x02\0\0しぜんこうえん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで　ちょうさをたのむ！
-NH_Sugg_022	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかえば　ちがったしゃしんが　とれるかも！\nどんどん　つかってみてね！
-NH_Sugg_023	じゅんびは　もうすこしかかるので　\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿをつかって\n\x0e\0\x03\x02\0\0しぜんこうえん\x0e\0\x03\x02ÿÿにいるポケモンを　ちょうさしててね。
-NH_Sugg_024	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\n\x0e\0\x03\x02\0\0ジャングル\x0e\0\x03\x02ÿÿでは　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿが　やくにたつとおもうよ！
-NH_Sugg_025	\x0e\0\x03\x02\0\0よるのジャングル\x0e\0\x03\x02ÿÿで　ひかっているじょうたいの\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてね。
+NH_Sugg_010	{color[0000]}ベースキャンプ{color[ffff]}には　たくさんポケモンがくるんだ。\n{color[0000]}けんきゅうしつ{color[ffff]}のほうでも　よくみかけるよね。
+NH_Sugg_011	{color[0000]}ベースキャンプ{color[ffff]}での　さつえいはしてる？\nまだ　いってないところが　あるんじゃないかな？
+NH_Sugg_012	ここってさ　{color[0000]}けんきゅうしつ{color[ffff]}のなかも\nポケモンがいて　にぎやかだよな！
+NH_Sugg_013	そういえば　キミの{color[0000]}フォトずかん{color[ffff]}に\nとうろくされていないポケモンが　{color[0000]}ベースキャンプ{color[ffff]}にいるよ。
+NH_Sugg_014	このまえ　ぼくが{color[0000]}ベースキャンプ{color[ffff]}で　みかけたポケモン。\nまだ　キミは　とったこと　ないんじゃないかなぁ。
+NH_Sugg_015	ねえねえ　{color[0000]}ベースキャンプ{color[ffff]}にいるポケモン\nせっかくだし　キミの{color[0000]}フォトずかん{color[ffff]}にも　ぜんぶとうろくしようよ！
+NH_Sugg_016	よーし！\n{color[0000]}しぜんこうえん{color[ffff]}の　さつえいにいってみよ～！
+NH_Sugg_017	まずは　{color[0000]}ひるのしぜんこうえん{color[ffff]}で\nたくさん　ポケモンをとってみてね。
+NH_Sugg_018	ねえねえ！\n{color[0000]}よるのしぜんこうえん{color[ffff]}　さつえいしにいこうよ！
+NH_Sugg_019	{color[0000]}よるのしぜんこうえん{color[ffff]}では　イルミナげんしょうが　みられるとおもうよ。\nまわりを　よくかんさつしてみてね。
+NH_Sugg_020	{color[0000]}しぜんこうえん{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}に　いこうよ！\nそこに　{color[0000]}イルミナポケモン{color[ffff]}が　いるかもなんだって！
+NH_Sugg_021	{color[0000]}イルミナポケモン{color[ffff]}の　ひかるもよう･･････\n{color[0000]}しぜんこうえん{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で　ちょうさをたのむ！
+NH_Sugg_022	{color[0000]}ふわりんご{color[ffff]}や　{color[0000]}サーチ{color[ffff]}をつかえば　ちがったしゃしんが　とれるかも！\nどんどん　つかってみてね！
+NH_Sugg_023	じゅんびは　もうすこしかかるので　{color[0000]}ふわりんご{color[ffff]}や　{color[0000]}サーチ{color[ffff]}をつかって\n{color[0000]}しぜんこうえん{color[ffff]}にいるポケモンを　ちょうさしててね。
+NH_Sugg_024	{color[0000]}ベラスとう{color[ffff]}の　ちょうさをすすめてみてね！\n{color[0000]}ジャングル{color[ffff]}では　{color[0000]}サーチ{color[ffff]}が　やくにたつとおもうよ！
+NH_Sugg_025	{color[0000]}よるのジャングル{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
 NH_Sugg_026	よーし！　いろんなトコ　ちょうさしにいこうぜ！\nどっちが　いいしゃしん　とれるか　しょうぶだ！
-NH_Sugg_027	いままで　ちょうさしたルートも　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿをつかって\nもういちど　ちょうさしてみようよ！
-NH_Sugg_028	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
-NH_Sugg_029	\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿについて　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
-NH_Sugg_030	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　あいにいこう！\n\x0e\0\x03\x02\0\0トキシキのもり\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_031	\x0e\0\x03\x02\0\0ベラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\nひかるもようの　うきでた　\x0e\0\x03\x02\0\0ミロカロス\x0e\0\x03\x02ÿÿを　さつえいしてきてくれ！
-NH_Sugg_032	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
-NH_Sugg_033	\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿについて　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
-NH_Sugg_034	\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿで　ひかっているじょうたいの\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてね。
-NH_Sugg_035	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　あいにいこう！\n\x0e\0\x03\x02\0\0レンティルかいしょう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_036	\x0e\0\x03\x02\0\0コピアしょとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\nひかるもようの　うきでた　\x0e\0\x03\x02\0\0むれたすがたのヨワシ\x0e\0\x03\x02ÿÿを　さつえいしてきてくれ！
-NH_Sugg_037	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
-NH_Sugg_038	\x0e\0\x03\x02\0\0ドローかざん\x0e\0\x03\x02ÿÿについて　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
-NH_Sugg_039	\x0e\0\x03\x02\0\0よるのネッサさばく\x0e\0\x03\x02ÿÿで　ひかっているじょうたいの\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてね。
-NH_Sugg_040	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　あいにいこう！\n\x0e\0\x03\x02\0\0ドローかざん\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_041	\x0e\0\x03\x02\0\0ボルクとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\nひかるもようの　うきでた　\x0e\0\x03\x02\0\0ウルガモス\x0e\0\x03\x02ÿÿを　さつえいしてきてくれ！
-NH_Sugg_042	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
-NH_Sugg_043	\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿについて　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
-NH_Sugg_044	\x0e\0\x03\x02\0\0よるのヒエールせつげん\x0e\0\x03\x02ÿÿで　ひかっているじょうたいの\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてね。
-NH_Sugg_045	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　あいにいこう！\n\x0e\0\x03\x02\0\0ハナレどうくつ\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_046	\x0e\0\x03\x02\0\0デュラスとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\nひかるもようの　うきでた　\x0e\0\x03\x02\0\0ハガネール\x0e\0\x03\x02ÿÿを　さつえいしてきてくれ！
-NH_Sugg_047	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿの　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
-NH_Sugg_048	\x0e\0\x03\x02\0\0シューゴいせき\x0e\0\x03\x02ÿÿについて　もうすこし　ちょうさをおねがいできるかな。\n\x0e\0\x03\x02\0\0だいざの　なぞ\x0e\0\x03\x02ÿÿをとけば　さきにすすめるとおもうんだ。
-NH_Sugg_049	\x0e\0\x03\x02\0\0いせき\x0e\0\x03\x02ÿÿで　ひかっているじょうたいの\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　さつえいしてきてね。
-NH_Sugg_050	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿで　さいごの\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　あいにいこう！\n\x0e\0\x03\x02\0\0シューゴいせき\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_051	\x0e\0\x03\x02\0\0アウラムとう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\nひかるもようの　うきでた　\x0e\0\x03\x02\0\0ゼルネアス\x0e\0\x03\x02ÿÿを　さつえいしてきてくれ！
+NH_Sugg_027	いままで　ちょうさしたルートも　{color[0000]}イルミナオーブ{color[ffff]}をつかって\nもういちど　ちょうさしてみようよ！
+NH_Sugg_028	{color[0000]}ベラスとう{color[ffff]}の　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
+NH_Sugg_029	{color[0000]}トキシキのもり{color[ffff]}について　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
+NH_Sugg_030	{color[0000]}ベラスとう{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}トキシキのもり{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_031	{color[0000]}ベラスとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}ミロカロス{color[ffff]}を　さつえいしてきてくれ！
+NH_Sugg_032	{color[0000]}コピアしょとう{color[ffff]}の　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
+NH_Sugg_033	{color[0000]}レンティルかいしょう{color[ffff]}について　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
+NH_Sugg_034	{color[0000]}レンティルかいしょう{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
+NH_Sugg_035	{color[0000]}コピアしょとう{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}レンティルかいしょう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_036	{color[0000]}コピアしょとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}むれたすがたのヨワシ{color[ffff]}を　さつえいしてきてくれ！
+NH_Sugg_037	{color[0000]}ボルクとう{color[ffff]}の　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
+NH_Sugg_038	{color[0000]}ドローかざん{color[ffff]}について　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
+NH_Sugg_039	{color[0000]}よるのネッサさばく{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
+NH_Sugg_040	{color[0000]}ボルクとう{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}ドローかざん{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_041	{color[0000]}ボルクとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}ウルガモス{color[ffff]}を　さつえいしてきてくれ！
+NH_Sugg_042	{color[0000]}デュラスとう{color[ffff]}の　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
+NH_Sugg_043	{color[0000]}ハナレどうくつ{color[ffff]}について　もうすこし　ちょうさをおねがいできるかな。\nきょうみぶかい　エネルギーはんのうが　でているんだ。
+NH_Sugg_044	{color[0000]}よるのヒエールせつげん{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
+NH_Sugg_045	{color[0000]}デュラスとう{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}ハナレどうくつ{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_046	{color[0000]}デュラスとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}ハガネール{color[ffff]}を　さつえいしてきてくれ！
+NH_Sugg_047	{color[0000]}アウラムとう{color[ffff]}の　ちょうさをすすめてみてね！\nきっと　あたらしいはっけんが　あるはずだよ！
+NH_Sugg_048	{color[0000]}シューゴいせき{color[ffff]}について　もうすこし　ちょうさをおねがいできるかな。\n{color[0000]}だいざの　なぞ{color[ffff]}をとけば　さきにすすめるとおもうんだ。
+NH_Sugg_049	{color[0000]}いせき{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
+NH_Sugg_050	{color[0000]}アウラムとう{color[ffff]}で　さいごの{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}シューゴいせき{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_051	{color[0000]}アウラムとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}ゼルネアス{color[ffff]}を　さつえいしてきてくれ！
 TipsLoading_Head.msbt
 LT_Tips_001_Head	じんぶつしょうかい：カガミはかせ
 LT_Tips_002_Head	じんぶつしょうかい：リタ
@@ -6459,82 +6459,82 @@ LT_Tips_074_Head	Switchへのほぞん
 LT_Tips_075_Head	ベースキャンプのポケモンたち
 LT_Tips_076_Head	けんきゅうしつにあるしゃしん
 TipsLoading_Info.msbt
-LT_Tips_001_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿで　かつどうする　\x0e\0\x03\x02\0\0ポケモンはかせ\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿにかんする　けんきゅうが　みとめられて\nレンティルぜんどで　ちょうさをおこなう　きょかをえた。
-LT_Tips_002_Info	\x0e\0\x03\x02\0\0くるんとした　ポニーテール\x0e\0\x03\x02ÿÿが　トレードマーク。\nポケモンがだいすきで　\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿの　けんきゅうを\n\x0e\0\x03\x02\0\0じょしゅ\x0e\0\x03\x02ÿÿとして　てつだっている。
-LT_Tips_003_Info	\x0e\0\x03\x02\0\0ツンツンとした　ヘアスタイル\x0e\0\x03\x02ÿÿが　トレードマーク。\n\x0e\0\x03\x02\0\0トオル\x0e\0\x03\x02ÿÿがとった　ポケモンのしゃしんに　かんどうして\nせかいいちの　\x0e\0\x03\x02\0\0ポケモンカメラマン\x0e\0\x03\x02ÿÿを　めざすようになった。
-LT_Tips_004_Info	\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿの　ふるいゆうじんで　\x0e\0\x03\x02\0\0てんさいカメラマン\x0e\0\x03\x02ÿÿ。\nしぜんたいのポケモンを　さつえいするのが　モットー。\nむかし　\x0e\0\x03\x02\0\0とあるはかせ\x0e\0\x03\x02ÿÿに　たのまれて\nポケモンさつえいに　きょうりょくしたことがある。
-LT_Tips_005_Info	\x0e\0\x03\x02\0\0ふくすうのしま\x0e\0\x03\x02ÿÿからなる　どくじの　ぶんかをもつ　ちほう。\nしまによって　おおきく　かんきょうがことなり\n\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0はな\x0e\0\x03\x02ÿÿなどが　\x0e\0\x03\x02\0\0ひかりをはなつげんしょう\x0e\0\x03\x02ÿÿが　かくにんされている。
-LT_Tips_006_Info	\x0e\0\x03\x02\0\0ひと\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿが　ともに　くらしている\n\x0e\0\x03\x02\0\0おだやかなきこう\x0e\0\x03\x02ÿÿの　しま。\nほごされた　しぜんのなかに　\x0e\0\x03\x02\0\0ポケモンを　けんきゅうする　しせつ\x0e\0\x03\x02ÿÿがある。
-LT_Tips_007_Info	\x0e\0\x03\x02\0\0ゆたかなみず\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0おんだんなきこう\x0e\0\x03\x02ÿÿによって　そだてられた\nさまざまな　しょくぶつが　おいしげる　\x0e\0\x03\x02\0\0みどりのしま\x0e\0\x03\x02ÿÿ。\nしぜんのめぐみが　ポケモンのくらしを　ささえている。
-LT_Tips_008_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの　うみの　ちゅうおうに　いちする　\x0e\0\x03\x02\0\0ちいさなしまじま\x0e\0\x03\x02ÿÿ。\nたべものが　ほうふな　\x0e\0\x03\x02\0\0あたたかなうみ\x0e\0\x03\x02ÿÿは\nみずべにくらす　ポケモンたちの　らくえん。
-LT_Tips_009_Info	\x0e\0\x03\x02\0\0きょだいな　かざん\x0e\0\x03\x02ÿÿがそびえる　\x0e\0\x03\x02\0\0もうしょのしま\x0e\0\x03\x02ÿÿ。\nかんそうや　きょうふう　ねつや　どくなど　\x0e\0\x03\x02\0\0かこくなかんきょう\x0e\0\x03\x02ÿÿで\nたくましくいきる　ポケモンたちが　くらしている。
-LT_Tips_010_Info	\x0e\0\x03\x02\0\0ぼうけんかビクトル\x0e\0\x03\x02ÿÿも　たどりつけなかった\n\x0e\0\x03\x02\0\0ゆきとこおり\x0e\0\x03\x02ÿÿに　とざされた　\x0e\0\x03\x02\0\0さいはてのしま\x0e\0\x03\x02ÿÿ。\nこおるようなさむさと　きょうぞんする　ポケモンたちがいる。
-LT_Tips_011_Info	\x0e\0\x03\x02\0\0ひとびとの　きおくから　きえた\x0e\0\x03\x02ÿÿ　ちいさなしま。\nいにしえのむかし　なにがおきたのか\nそれをしるために　のこされた　\x0e\0\x03\x02\0\0てがかり\x0e\0\x03\x02ÿÿ。
-LT_Tips_012_Info	\x0e\0\x03\x02\0\0レンティル ポケモンしぜんかがくけんきゅうじょ\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿなど　ちょうさしたデータが　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」
-LT_Tips_013_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿでおこなった　ちょうさのデータが\nさつえいしたしゃしんとともに　きろくされている。\n\x0e\0\x03\x02\0\0けんきゅうしつ\x0e\0\x03\x02ÿÿで　いつでも　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」　＞　「フォトずかん」
-LT_Tips_014_Info	\x0e\0\x03\x02\0\0ポケモンのしゃしん\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0じょうほう\x0e\0\x03\x02ÿÿが　かくにんできる　\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿ。\nかくページ　\x0e\0\x03\x02\0\04まいのしゃしん\x0e\0\x03\x02ÿÿをうめると　ページがかんせいする。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「ポケモン」
-LT_Tips_015_Info	ちょうさした　\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿを\nルートごとに　かくにんできる　\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿ。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「マップ」
-LT_Tips_016_Info	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0こだいいせき\x0e\0\x03\x02ÿÿの\nちょうさデータが　かくにんできる　\x0e\0\x03\x02\0\0フォトずかん\x0e\0\x03\x02ÿÿ。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「コレクション」
-LT_Tips_017_Info	ほぞんしたしゃしんの　かくにんや　かこうができる。\n\x0e\0\x03\x02\0\0エクストラさつえい\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0かこうしたしゃしん\x0e\0\x03\x02ÿÿも　ほぞんされている。\n「けんきゅうしつ」　＞　「マイスペース」　＞　「アルバム」
-LT_Tips_018_Info	さつえいしたしゃしんに　\x0e\0\x03\x02\0\0スタンプなどをついか\x0e\0\x03\x02ÿÿして　さらにたのしむ　きのう。\nちょうさをすすめると　つかえるそざいが　ふえていく。\n「アルバム」など　＞　しゃしんせんたく　＞　「しゃしんかこう」
-LT_Tips_019_Info	ちょうさがおわったあと　さつえいしたしゃしんの　\x0e\0\x03\x02\0\0あかるさ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿなどの\nせっていをへんこうして　\x0e\0\x03\x02\0\0もういちど　さつえいできる\x0e\0\x03\x02ÿÿ　きのう。\n「リトライメニュー」　＞　「アルバムほぞん」　＞　しゃしんせんたく　＞　「エクストラさつえい」
+LT_Tips_001_Info	{color[0000]}レンティルちほう{color[ffff]}で　かつどうする　{color[0000]}ポケモンはかせ{color[ffff]}。\n{color[0000]}イルミナげんしょう{color[ffff]}にかんする　けんきゅうが　みとめられて\nレンティルぜんどで　ちょうさをおこなう　きょかをえた。
+LT_Tips_002_Info	{color[0000]}くるんとした　ポニーテール{color[ffff]}が　トレードマーク。\nポケモンがだいすきで　{color[0000]}カガミはかせ{color[ffff]}の　けんきゅうを\n{color[0000]}じょしゅ{color[ffff]}として　てつだっている。
+LT_Tips_003_Info	{color[0000]}ツンツンとした　ヘアスタイル{color[ffff]}が　トレードマーク。\n{color[0000]}トオル{color[ffff]}がとった　ポケモンのしゃしんに　かんどうして\nせかいいちの　{color[0000]}ポケモンカメラマン{color[ffff]}を　めざすようになった。
+LT_Tips_004_Info	{color[0000]}カガミはかせ{color[ffff]}の　ふるいゆうじんで　{color[0000]}てんさいカメラマン{color[ffff]}。\nしぜんたいのポケモンを　さつえいするのが　モットー。\nむかし　{color[0000]}とあるはかせ{color[ffff]}に　たのまれて\nポケモンさつえいに　きょうりょくしたことがある。
+LT_Tips_005_Info	{color[0000]}ふくすうのしま{color[ffff]}からなる　どくじの　ぶんかをもつ　ちほう。\nしまによって　おおきく　かんきょうがことなり\n{color[0000]}ポケモン{color[ffff]}や　{color[0000]}はな{color[ffff]}などが　{color[0000]}ひかりをはなつげんしょう{color[ffff]}が　かくにんされている。
+LT_Tips_006_Info	{color[0000]}ひと{color[ffff]}と{color[0000]}ポケモン{color[ffff]}が　ともに　くらしている\n{color[0000]}おだやかなきこう{color[ffff]}の　しま。\nほごされた　しぜんのなかに　{color[0000]}ポケモンを　けんきゅうする　しせつ{color[ffff]}がある。
+LT_Tips_007_Info	{color[0000]}ゆたかなみず{color[ffff]}と　{color[0000]}おんだんなきこう{color[ffff]}によって　そだてられた\nさまざまな　しょくぶつが　おいしげる　{color[0000]}みどりのしま{color[ffff]}。\nしぜんのめぐみが　ポケモンのくらしを　ささえている。
+LT_Tips_008_Info	{color[0000]}レンティルちほう{color[ffff]}の　うみの　ちゅうおうに　いちする　{color[0000]}ちいさなしまじま{color[ffff]}。\nたべものが　ほうふな　{color[0000]}あたたかなうみ{color[ffff]}は\nみずべにくらす　ポケモンたちの　らくえん。
+LT_Tips_009_Info	{color[0000]}きょだいな　かざん{color[ffff]}がそびえる　{color[0000]}もうしょのしま{color[ffff]}。\nかんそうや　きょうふう　ねつや　どくなど　{color[0000]}かこくなかんきょう{color[ffff]}で\nたくましくいきる　ポケモンたちが　くらしている。
+LT_Tips_010_Info	{color[0000]}ぼうけんかビクトル{color[ffff]}も　たどりつけなかった\n{color[0000]}ゆきとこおり{color[ffff]}に　とざされた　{color[0000]}さいはてのしま{color[ffff]}。\nこおるようなさむさと　きょうぞんする　ポケモンたちがいる。
+LT_Tips_011_Info	{color[0000]}ひとびとの　きおくから　きえた{color[ffff]}　ちいさなしま。\nいにしえのむかし　なにがおきたのか\nそれをしるために　のこされた　{color[0000]}てがかり{color[ffff]}。
+LT_Tips_012_Info	{color[0000]}レンティル ポケモンしぜんかがくけんきゅうじょ{color[ffff]}の　{color[0000]}カガミはかせ{color[ffff]}の　{color[0000]}けんきゅうしつ{color[ffff]}。\n{color[0000]}フォトずかん{color[ffff]}や　{color[0000]}マイスペース{color[ffff]}など　ちょうさしたデータが　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」
+LT_Tips_013_Info	{color[0000]}レンティルちほう{color[ffff]}でおこなった　ちょうさのデータが\nさつえいしたしゃしんとともに　きろくされている。\n{color[0000]}けんきゅうしつ{color[ffff]}で　いつでも　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」　＞　「フォトずかん」
+LT_Tips_014_Info	{color[0000]}ポケモンのしゃしん{color[ffff]}や　{color[0000]}じょうほう{color[ffff]}が　かくにんできる　{color[0000]}フォトずかん{color[ffff]}。\nかくページ　{color[0000]}4まいのしゃしん{color[ffff]}をうめると　ページがかんせいする。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「ポケモン」
+LT_Tips_015_Info	ちょうさした　{color[0000]}ポケモン{color[ffff]}や　{color[0000]}コレクション{color[ffff]}を\nルートごとに　かくにんできる　{color[0000]}フォトずかん{color[ffff]}。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「マップ」
+LT_Tips_016_Info	{color[0000]}クリスタフラワー{color[ffff]}や　{color[0000]}こだいいせき{color[ffff]}の\nちょうさデータが　かくにんできる　{color[0000]}フォトずかん{color[ffff]}。\n「けんきゅうしつ」　＞　「フォトずかん」　＞　「コレクション」
+LT_Tips_017_Info	ほぞんしたしゃしんの　かくにんや　かこうができる。\n{color[0000]}エクストラさつえい{color[ffff]}や　{color[0000]}かこうしたしゃしん{color[ffff]}も　ほぞんされている。\n「けんきゅうしつ」　＞　「マイスペース」　＞　「アルバム」
+LT_Tips_018_Info	さつえいしたしゃしんに　{color[0000]}スタンプなどをついか{color[ffff]}して　さらにたのしむ　きのう。\nちょうさをすすめると　つかえるそざいが　ふえていく。\n「アルバム」など　＞　しゃしんせんたく　＞　「しゃしんかこう」
+LT_Tips_019_Info	ちょうさがおわったあと　さつえいしたしゃしんの　{color[0000]}あかるさ{color[ffff]}や　{color[0000]}むき{color[ffff]}などの\nせっていをへんこうして　{color[0000]}もういちど　さつえいできる{color[ffff]}　きのう。\n「リトライメニュー」　＞　「アルバムほぞん」　＞　しゃしんせんたく　＞　「エクストラさつえい」
 LT_Tips_020_Info	ちょうさにかんする　さまざまなきろくが　かくにんできる。\n「けんきゅうしつ」　＞　「マイスペース」　＞　「ちょうさログ」
-LT_Tips_021_Info	ちょうさの　しんてんによって　もらえる　\x0e\0\x03\x02\0\0ちょうさしょうごう\x0e\0\x03\x02ÿÿが　かくにんできる。\nそれぞれの　すすみぐあいも　きろくされている。\n「けんきゅうしつ」　＞　「マイスペース」　＞　「ちょうさしょうごう」
-LT_Tips_022_Info	せかいじゅうにいる　たくさんのともだちが　\x0e\0\x03\x02\0\0とったしゃしん\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」　＞　「オンライン」
-LT_Tips_023_Info	せかいじゅうにいる　たくさんのともだちが　とった\n\x0e\0\x03\x02\0\0りんごメダルのおおいしゃしん\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ちゅうもくのルートのしゃしん\x0e\0\x03\x02ÿÿが　かくにんできる。\n「けんきゅうしつ」　＞　「オンライン」　＞　「みんなのしゃしん」
-LT_Tips_024_Info	ほかのひとが　とったしゃしんが　\x0e\0\x03\x02\0\0きにいったときに　おくることができる\x0e\0\x03\x02ÿÿ　メダル。\nせかいじゅうにいる　たくさんのともだちと　おくりあおう！
-LT_Tips_025_Info	せかいじゅうにいる　たくさんのともだちの\n\x0e\0\x03\x02\0\0そうごうずかんスコア\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　かくにんできる。\n「けんきゅうしつ」　＞　「オンライン」　＞　「ランキング」
-LT_Tips_026_Info	\x0e\0\x03\x02\0\0ジャイロ\x0e\0\x03\x02ÿÿの　ON/OFF　や　\x0e\0\x03\x02\0\0コントローラのしんどう\x0e\0\x03\x02ÿÿなど\n\x0e\0\x03\x02\0\0ゲーム\x0e\0\x03\x02ÿÿにかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「ゲーム」
-LT_Tips_027_Info	どのボタンで　どのそうさをするか\n\x0e\0\x03\x02\0\0そうさほうほう\x0e\0\x03\x02ÿÿにかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「ボタン」
-LT_Tips_028_Info	\x0e\0\x03\x02\0\0カメラ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ポインタのいどうそくど\x0e\0\x03\x02ÿÿなど\n\x0e\0\x03\x02\0\0さつえい\x0e\0\x03\x02ÿÿにかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「カメラ」
-LT_Tips_029_Info	\x0e\0\x03\x02\0\0おんがく\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0こうかおん\x0e\0\x03\x02ÿÿのおおきさ　\x0e\0\x03\x02\0\0じんぶつのボイスしゅるい\x0e\0\x03\x02ÿÿなどの\n\x0e\0\x03\x02\0\0サウンド\x0e\0\x03\x02ÿÿにかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「サウンド」
-LT_Tips_030_Info	\x0e\0\x03\x02\0\0かんじ\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0ひらがな\x0e\0\x03\x02ÿÿの　きりかえや\n\x0e\0\x03\x02\0\0オンラインのしゃしん\x0e\0\x03\x02ÿÿにかんする　せっていを　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「そのた」
-LT_Tips_031_Info	\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿが　かいはつした　\x0e\0\x03\x02\0\0ポケモンちょうさ\x0e\0\x03\x02ÿÿせんようの　マシン。\nどんなかんきょうでも　かいてきなじょうたいで　ちょうさできるうえ\nじどうで　ルートをはんべつするので　さつえいに　しゅうちゅうできる。\n\x0e\0\x03\x02\0\0とあるはかせ\x0e\0\x03\x02ÿÿが　かいはつした　\x0e\0\x03\x02\0\0ちょうさポッド\x0e\0\x03\x02ÿÿが　ベースになっている。
-LT_Tips_032_Info	\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿが　かいはつした　\x0e\0\x03\x02\0\0ポケモンちょうさ\x0e\0\x03\x02ÿÿせんようの　カメラ。\n\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿと　れんどうしており　さまざまなきのうを　つかうことができる。\n\x0e\0\x03\x02\0\0つうしん\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ぶんせき\x0e\0\x03\x02ÿÿのほか　こじんのIDにもなっている。
-LT_Tips_033_Info	\x0e\0\x03\x02\0\0しゅういをぶんせき\x0e\0\x03\x02ÿÿして　\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿのけんきゅうデータから\nわりだした　\x0e\0\x03\x02\0\0じょうほう\x0e\0\x03\x02ÿÿを　おしえてくれる　きのう。\nサーチじたいの　おとや　でんぱに　\x0e\0\x03\x02\0\0ポケモンがはんのう\x0e\0\x03\x02ÿÿすることもある。
-LT_Tips_034_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿでとれる　あまくておいしい　\x0e\0\x03\x02\0\0かじつ\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ポケモンのだいこうぶつ\x0e\0\x03\x02ÿÿで　ちかくになげると　\x0e\0\x03\x02\0\0たべてくれる\x0e\0\x03\x02ÿÿこともある。\nかるくて　やわらかいので　あたっても　いたくない。
-LT_Tips_035_Info	\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿにあてると\nいちじてきに　\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿを　おこすことができる　\x0e\0\x03\x02\0\0オーブ\x0e\0\x03\x02ÿÿ。\nしまごとに　エネルギーのせいしつがちがうため\nそのしまの　クリスタフラワーを　ちょうさしないと　つくれない。
-LT_Tips_036_Info	\x0e\0\x03\x02\0\0おんがく\x0e\0\x03\x02ÿÿを　ならすことができる　\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿのきのう。\n\x0e\0\x03\x02\0\0おんがくにはんのう\x0e\0\x03\x02ÿÿして　ねむっているポケモンが\x0e\0\x03\x02\0\0おきたり　おどりだしたり\x0e\0\x03\x02ÿÿする。
-LT_Tips_037_Info	\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿで　せいぎょできる　\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0かそくそうち\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿをつかうと　ふだんより　\x0e\0\x03\x02\0\0はやくすすむ\x0e\0\x03\x02ÿÿことができる。
-LT_Tips_038_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿでのみ　おこる　\x0e\0\x03\x02\0\0はっこうげんしょう\x0e\0\x03\x02ÿÿ。\nひかっているじょうたいのことを　「\x0e\0\x03\x02\0\0イルミナじょうたい\x0e\0\x03\x02ÿÿ」と　よぶ。\nポケモンや　クリスタフラワーが　イルミナじょうたいのときは\nせいめいエネルギーが　\x0e\0\x03\x02\0\0かっせいかされる\x0e\0\x03\x02ÿÿことが　わかっている。
-LT_Tips_039_Info	\x0e\0\x03\x02\0\0いいつたえ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0レンティルぼうけんき\x0e\0\x03\x02ÿÿに　でてくる\n\x0e\0\x03\x02\0\0からだにもよう\x0e\0\x03\x02ÿÿがあり　\x0e\0\x03\x02\0\0とくべつなひかり\x0e\0\x03\x02ÿÿを　はなっている　ポケモン。\nおおむかしにおこった　わざわいから　レンティルちほうを　まもったと　いわれている。
-LT_Tips_040_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿにだけさく　しまごとに　ことなる　とくちょうをもつ　\x0e\0\x03\x02\0\0はな\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿと　どうように　\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿが　おきることが　わかっており\nはなの　ちゅうしんにある　ほうせきのような　かくと　おなじいろの　ひかりをはなつ。
-LT_Tips_041_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの　かくちで　はっけんされている　\x0e\0\x03\x02\0\0ふるい　けんぞうぶつ\x0e\0\x03\x02ÿÿ。\nもとのかたちが　わからない　じょうたいのものが　ほとんどだが\nレンティルちほうの　\x0e\0\x03\x02\0\0いいつたえ\x0e\0\x03\x02ÿÿに　かかわるものだと　いわれている。
-LT_Tips_042_Info	\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの　だいちにながれる　\x0e\0\x03\x02\0\0エネルギー\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿは　\x0e\0\x03\x02\0\0イルミナフォース\x0e\0\x03\x02ÿÿが　かっせいかし\nポケモンや　クリスタフラワーに　さようして　おこることを\n\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿが　つきとめた。
-LT_Tips_043_Info	やく2000ねんまえ　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿに　らっかしたと　いわれている　\x0e\0\x03\x02\0\0いんせき\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0いいつたえ\x0e\0\x03\x02ÿÿいがいのことは　ほとんど　なぞにつつまれている。
-LT_Tips_044_Info	\x0e\0\x03\x02\0\0どうくつ\x0e\0\x03\x02ÿÿのおくに　のこされていた　やく2000ねんまえの　\x0e\0\x03\x02\0\0へきが\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0テルルいんせき\x0e\0\x03\x02ÿÿから　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿを\nまもったことが　えがかれているようだが　いちぶが　かけてしまっている。
-LT_Tips_045_Info	やく2000ねんまえのひとびとが　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの　かくちにのこした　\x0e\0\x03\x02\0\0へきが\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0テルルいんせき\x0e\0\x03\x02ÿÿから　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿを\nまもったことが　えがかれていると　\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿは　すいさつしている。
-LT_Tips_046_Info	やく100ねんまえ　\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの\nほかのしまじまを　めぐったときの　きろくが　まとめられている　ほん。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿのことも　しるされており\nぼうけんたんとして　\x0e\0\x03\x02\0\0フロレオとう\x0e\0\x03\x02ÿÿの　こどもたちに　だいにんき。
-LT_Tips_047_Info	やく100ねんまえ　\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿの　ほかのしまじまを　めぐった　\x0e\0\x03\x02\0\0ぼうけんか\x0e\0\x03\x02ÿÿ。\nこどものころ　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　であったことをきっかけに\nそのじんせいを　ぼうけんに　ささげた。
-LT_Tips_048_Info	ポケモンを　さつえいするときは\n\x0e\0\x03\x02\0\0しゅやくを　まんなかに　とらえる\x0e\0\x03\x02ÿÿと　GOOD！
-LT_Tips_049_Info	ポケモンの　こうどうのなかで\nどこが　\x0e\0\x03\x02\0\0ベストタイミング\x0e\0\x03\x02ÿÿか　かんさつしてみよう！
-LT_Tips_050_Info	ポケモンが　\x0e\0\x03\x02\0\0こちらを　みているとき\x0e\0\x03\x02ÿÿに\nさつえいすると　よりよい　しゃしんになるよ！
-LT_Tips_051_Info	ポケモンのかおが　からだや　ちけいなどで\n\x0e\0\x03\x02\0\0かくれないよう\x0e\0\x03\x02ÿÿ　きをつけてみよう！
-LT_Tips_052_Info	ポケモンを　\x0e\0\x03\x02\0\0カメラの　フレームのなか\x0e\0\x03\x02ÿÿに\nなるべく　おおきく　とらえよう！
-LT_Tips_053_Info	ポケモンが　\x0e\0\x03\x02\0\0カメラの　フレームから　はみださないよう\x0e\0\x03\x02ÿÿ\nしゅやくのいちや　ちかづきすぎに　ちゅういしよう！
-LT_Tips_054_Info	ポケモンなどの　\x0e\0\x03\x02\0\0しゅやくが　うつっていない\x0e\0\x03\x02ÿÿ　しゃしんは\n「\x0e\0\x03\x02\0\0No Data\x0e\0\x03\x02ÿÿ」という　あつかいになって　\x0e\0\x03\x02\0\0はかせに　みせられない\x0e\0\x03\x02ÿÿよ。\n\x0e\0\x03\x02\0\0スコアも　つかない\x0e\0\x03\x02ÿÿので　ちゅういしよう！
-LT_Tips_055_Info	ポケモンを　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿして　さつえいするときは\nカメラのフレームから　\x0e\0\x03\x02\0\0はみだしやすい\x0e\0\x03\x02ÿÿので　ちゅういしよう！
-LT_Tips_056_Info	ポケモンが　\x0e\0\x03\x02\0\0なかまといるとき\x0e\0\x03\x02ÿÿだけ\nみられる　こうどうを　さがしてみよう！
-LT_Tips_057_Info	ふくすうのポケモンを　さつえいするときは\n\x0e\0\x03\x02\0\0バランスよく\x0e\0\x03\x02ÿÿ　とるようにしよう！
-LT_Tips_058_Info	ふくすうのポケモンを　さつえいするときは\n\x0e\0\x03\x02\0\0かぶって　かくれないよう\x0e\0\x03\x02ÿÿ　きをつけよう！
-LT_Tips_059_Info	\x0e\0\x03\x02\0\0しゅやくいがい\x0e\0\x03\x02ÿÿのポケモンも　スコアに　えいきょうするので\nなるべく　\x0e\0\x03\x02\0\0おおきく　うつるよう\x0e\0\x03\x02ÿÿ　いしきしてみよう！
-LT_Tips_060_Info	\x0e\0\x03\x02\0\0しゅやくいがい\x0e\0\x03\x02ÿÿのポケモンも　スコアに　えいきょうするので\n\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿも　きにしてみよう！
-LT_Tips_061_Info	ポケモンと　いっしょにとると　スコアに　えいきょうする\n\x0e\0\x03\x02\0\0とくべつなふうけい\x0e\0\x03\x02ÿÿを　さがしてみよう！
-LT_Tips_062_Info	\x0e\0\x03\x02\0\0とくべつなふうけい\x0e\0\x03\x02ÿÿを　さつえいするときは\n\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿにも　ちゅういしてみよう！
-LT_Tips_063_Info	\x0e\0\x03\x02\0\0ネオワンごう\x0e\0\x03\x02ÿÿは　じどうで　ルートをはんべつして　すすむので　\x0e\0\x03\x02\0\0カメラそうさ\x0e\0\x03\x02ÿÿに　しゅうちゅうしよう。\nカメラ／ポインタのいどう： \x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í\nズーム：  \nさつえい： \x0e\x03\x03\x02\0Í
-LT_Tips_064_Info	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿして　かくれているポケモンを　みつけたり\nあやしいところを　\x0e\0\x03\x02\0\0ぶんせき\x0e\0\x03\x02ÿÿしてみよう。\nサーチ： \x0e\x03\x01\x02\0Í でサーチ\nぶんせき：サーチしたあと　  に    をあわせて　\x0e\x03\x01\x02\0Í をながおしして　ぶんせき
-LT_Tips_065_Info	ポケモンにむかって　なげてみよう。\n\x0e\0\x03\x02\0\0たべてくれたり\x0e\0\x03\x02ÿÿ　ちがうばしょに　\x0e\0\x03\x02\0\0みちびいたり\x0e\0\x03\x02ÿÿできる。\nふわりんご：    で　むきをきめて　\x0e\x03\x01\x02\0Í で　なげる
-LT_Tips_066_Info	ポケモンや　クリスタフラワーにむかって　なげてみよう。\n\x0e\0\x03\x02\0\0イルミナげんしょう\x0e\0\x03\x02ÿÿがおきて　ふだんとは　ちがうことが　おきるかもしれない。\nイルミナオーブ：    で　むきをきめて　\x0e\x03\x01\x02\0Í で　なげる
-LT_Tips_067_Info	ポケモンにむかって　\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿをつかってみよう。\n\x0e\0\x03\x02\0\0おんがくにはんのう\x0e\0\x03\x02ÿÿして　ふだんとは　ちがうこうどうが　みられるかもしれない。\nメロディをならす： \x0e\x03\x01\x02\0Í で　ならす\nメロディをとめる： メロディがなっているとき　\x0e\x03\x01\x02\0Í で　ていし
-LT_Tips_068_Info	はやくすすみたいときは　\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿをつかってみよう。\n\x0e\0\x03\x02\0\0はやくすすむ\x0e\0\x03\x02ÿÿことで　ふだんとは　ちがうようすが　さつえいできるかもしれない。\nターボ： \x0e\x03\x01\x02\0Í
-LT_Tips_069_Info	その1：ポケモンを　さつえいすると　ずかんにページができるよ！\nその2：うまっていない　\x0e\0\x03\x02\0\0★のしゃしん\x0e\0\x03\x02ÿÿを　さつえいして　\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ　すべてうめよう！
-LT_Tips_070_Info	その1：\x0e\0\x03\x02\0\0ちょうさレベル\x0e\0\x03\x02ÿÿは　ルートごとにあるよ\nその2：そのルートでの　はかせのひょうかが　\x0e\0\x03\x02\0\0ちょうさポイント\x0e\0\x03\x02ÿÿになるよ\nその3：\x0e\0\x03\x02\0\0いろいろなポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0とったことのない　★のしゃしん\x0e\0\x03\x02ÿÿを　はかせにみせよう！
-LT_Tips_071_Info	その1：\x0e\0\x03\x02\0\0たくさんのしゅるい\x0e\0\x03\x02ÿÿの　ポケモンを　さつえいしよう！\nその2：\x0e\0\x03\x02\0\0たかいスコア\x0e\0\x03\x02ÿÿのしゃしんを　たくさんとろう！
-LT_Tips_072_Info	\x0e\0\x03\x02\0\01かいのちょうさ\x0e\0\x03\x02ÿÿで　さつえいできるまいすうは　\x0e\0\x03\x02\0\072まい\x0e\0\x03\x02ÿÿまで。\nはじめての　ルートいがいでは　\x0e\0\x03\x02\0\00まい\x0e\0\x03\x02ÿÿになったら\n\x0e\0\x03\x02\0\0ちょうさしゅうりょうになる\x0e\0\x03\x02ÿÿので　のこりまいすうに　きをつけよう！
-LT_Tips_073_Info	さつえいしたしゃしんの　タイトルは　\x0e\0\x03\x02\0\0へんこうすることができる\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0すきな　タイトル\x0e\0\x03\x02ÿÿをつけて　どんなシーンを　とったのか\nせかいじゅうの　ともだちに　つたえよう！\n「アルバム」など　＞　しゃしんせんたく　＞　「タイトル」
-LT_Tips_074_Info	さつえいしたしゃしんは　\x0e\0\x03\x02\0\0Nintendo Switchのアルバム\x0e\0\x03\x02ÿÿに　ほぞんすることができる。\n「アルバム」　＞　しゃしんせんたく　＞　「Switchにほぞん」
-LT_Tips_075_Info	\x0e\0\x03\x02\0\0レンティル ポケモンしぜんかがくけんきゅうじょ\x0e\0\x03\x02ÿÿ（つうしょう：\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿ）\nには　さまざまな　ポケモンたちが　じゆうに　でいりしている。\n\x0e\0\x03\x02\0\0ムーランド\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0タブンネ\x0e\0\x03\x02ÿÿは　\x0e\0\x03\x02\0\0カガミはかせ\x0e\0\x03\x02ÿÿと\nいっしょに　くらしている　\x0e\0\x03\x02\0\0あいぼう\x0e\0\x03\x02ÿÿのような　そんざい。
-LT_Tips_076_Info	\x0e\0\x03\x02\0\0リタ\x0e\0\x03\x02ÿÿが　さつえいした　ふうけいしゃしん。\n\x0e\0\x03\x02\0\0レンティルちほう\x0e\0\x03\x02ÿÿとは　すこしちがう　ふんいきだが\nココが　どこなのかは　わからない。
+LT_Tips_021_Info	ちょうさの　しんてんによって　もらえる　{color[0000]}ちょうさしょうごう{color[ffff]}が　かくにんできる。\nそれぞれの　すすみぐあいも　きろくされている。\n「けんきゅうしつ」　＞　「マイスペース」　＞　「ちょうさしょうごう」
+LT_Tips_022_Info	せかいじゅうにいる　たくさんのともだちが　{color[0000]}とったしゃしん{color[ffff]}や\n{color[0000]}ランキング{color[ffff]}が　かくにんできる。\n「ベースキャンプ」　＞　「けんきゅうしつ」　＞　「オンライン」
+LT_Tips_023_Info	せかいじゅうにいる　たくさんのともだちが　とった\n{color[0000]}りんごメダルのおおいしゃしん{color[ffff]}や　{color[0000]}ちゅうもくのルートのしゃしん{color[ffff]}が　かくにんできる。\n「けんきゅうしつ」　＞　「オンライン」　＞　「みんなのしゃしん」
+LT_Tips_024_Info	ほかのひとが　とったしゃしんが　{color[0000]}きにいったときに　おくることができる{color[ffff]}　メダル。\nせかいじゅうにいる　たくさんのともだちと　おくりあおう！
+LT_Tips_025_Info	せかいじゅうにいる　たくさんのともだちの\n{color[0000]}そうごうずかんスコア{color[ffff]}や　{color[0000]}ルートスコア{color[ffff]}の　{color[0000]}ランキング{color[ffff]}が　かくにんできる。\n「けんきゅうしつ」　＞　「オンライン」　＞　「ランキング」
+LT_Tips_026_Info	{color[0000]}ジャイロ{color[ffff]}の　ON/OFF　や　{color[0000]}コントローラのしんどう{color[ffff]}など\n{color[0000]}ゲーム{color[ffff]}にかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「ゲーム」
+LT_Tips_027_Info	どのボタンで　どのそうさをするか\n{color[0000]}そうさほうほう{color[ffff]}にかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「ボタン」
+LT_Tips_028_Info	{color[0000]}カメラ{color[ffff]}や　{color[0000]}ポインタのいどうそくど{color[ffff]}など\n{color[0000]}さつえい{color[ffff]}にかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「カメラ」
+LT_Tips_029_Info	{color[0000]}おんがく{color[ffff]}や　{color[0000]}こうかおん{color[ffff]}のおおきさ　{color[0000]}じんぶつのボイスしゅるい{color[ffff]}などの\n{color[0000]}サウンド{color[ffff]}にかんする　せっていが　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「サウンド」
+LT_Tips_030_Info	{color[0000]}かんじ{color[ffff]}と　{color[0000]}ひらがな{color[ffff]}の　きりかえや\n{color[0000]}オンラインのしゃしん{color[ffff]}にかんする　せっていを　へんこうできる。\n「ベースキャンプ」　＞　「せってい」　＞　「そのた」
+LT_Tips_031_Info	{color[0000]}カガミはかせ{color[ffff]}が　かいはつした　{color[0000]}ポケモンちょうさ{color[ffff]}せんようの　マシン。\nどんなかんきょうでも　かいてきなじょうたいで　ちょうさできるうえ\nじどうで　ルートをはんべつするので　さつえいに　しゅうちゅうできる。\n{color[0000]}とあるはかせ{color[ffff]}が　かいはつした　{color[0000]}ちょうさポッド{color[ffff]}が　ベースになっている。
+LT_Tips_032_Info	{color[0000]}カガミはかせ{color[ffff]}が　かいはつした　{color[0000]}ポケモンちょうさ{color[ffff]}せんようの　カメラ。\n{color[0000]}ネオワンごう{color[ffff]}と　れんどうしており　さまざまなきのうを　つかうことができる。\n{color[0000]}つうしん{color[ffff]}や　{color[0000]}ぶんせき{color[ffff]}のほか　こじんのIDにもなっている。
+LT_Tips_033_Info	{color[0000]}しゅういをぶんせき{color[ffff]}して　{color[0000]}カガミはかせ{color[ffff]}のけんきゅうデータから\nわりだした　{color[0000]}じょうほう{color[ffff]}を　おしえてくれる　きのう。\nサーチじたいの　おとや　でんぱに　{color[0000]}ポケモンがはんのう{color[ffff]}することもある。
+LT_Tips_034_Info	{color[0000]}レンティルちほう{color[ffff]}でとれる　あまくておいしい　{color[0000]}かじつ{color[ffff]}。\n{color[0000]}ポケモンのだいこうぶつ{color[ffff]}で　ちかくになげると　{color[0000]}たべてくれる{color[ffff]}こともある。\nかるくて　やわらかいので　あたっても　いたくない。
+LT_Tips_035_Info	{color[0000]}ポケモン{color[ffff]}や　{color[0000]}クリスタフラワー{color[ffff]}にあてると\nいちじてきに　{color[0000]}イルミナげんしょう{color[ffff]}を　おこすことができる　{color[0000]}オーブ{color[ffff]}。\nしまごとに　エネルギーのせいしつがちがうため\nそのしまの　クリスタフラワーを　ちょうさしないと　つくれない。
+LT_Tips_036_Info	{color[0000]}おんがく{color[ffff]}を　ならすことができる　{color[0000]}リサーチカメラ{color[ffff]}のきのう。\n{color[0000]}おんがくにはんのう{color[ffff]}して　ねむっているポケモンが{color[0000]}おきたり　おどりだしたり{color[ffff]}する。
+LT_Tips_037_Info	{color[0000]}リサーチカメラ{color[ffff]}で　せいぎょできる　{color[0000]}ネオワンごう{color[ffff]}の　{color[0000]}かそくそうち{color[ffff]}。\n{color[0000]}ターボ{color[ffff]}をつかうと　ふだんより　{color[0000]}はやくすすむ{color[ffff]}ことができる。
+LT_Tips_038_Info	{color[0000]}レンティルちほう{color[ffff]}でのみ　おこる　{color[0000]}はっこうげんしょう{color[ffff]}。\nひかっているじょうたいのことを　「{color[0000]}イルミナじょうたい{color[ffff]}」と　よぶ。\nポケモンや　クリスタフラワーが　イルミナじょうたいのときは\nせいめいエネルギーが　{color[0000]}かっせいかされる{color[ffff]}ことが　わかっている。
+LT_Tips_039_Info	{color[0000]}いいつたえ{color[ffff]}や　{color[0000]}レンティルぼうけんき{color[ffff]}に　でてくる\n{color[0000]}からだにもよう{color[ffff]}があり　{color[0000]}とくべつなひかり{color[ffff]}を　はなっている　ポケモン。\nおおむかしにおこった　わざわいから　レンティルちほうを　まもったと　いわれている。
+LT_Tips_040_Info	{color[0000]}レンティルちほう{color[ffff]}にだけさく　しまごとに　ことなる　とくちょうをもつ　{color[0000]}はな{color[ffff]}。\n{color[0000]}ポケモン{color[ffff]}と　どうように　{color[0000]}イルミナげんしょう{color[ffff]}が　おきることが　わかっており\nはなの　ちゅうしんにある　ほうせきのような　かくと　おなじいろの　ひかりをはなつ。
+LT_Tips_041_Info	{color[0000]}レンティルちほう{color[ffff]}の　かくちで　はっけんされている　{color[0000]}ふるい　けんぞうぶつ{color[ffff]}。\nもとのかたちが　わからない　じょうたいのものが　ほとんどだが\nレンティルちほうの　{color[0000]}いいつたえ{color[ffff]}に　かかわるものだと　いわれている。
+LT_Tips_042_Info	{color[0000]}レンティルちほう{color[ffff]}の　だいちにながれる　{color[0000]}エネルギー{color[ffff]}。\n{color[0000]}イルミナげんしょう{color[ffff]}は　{color[0000]}イルミナフォース{color[ffff]}が　かっせいかし\nポケモンや　クリスタフラワーに　さようして　おこることを\n{color[0000]}カガミはかせ{color[ffff]}が　つきとめた。
+LT_Tips_043_Info	やく2000ねんまえ　{color[0000]}レンティルちほう{color[ffff]}に　らっかしたと　いわれている　{color[0000]}いんせき{color[ffff]}。\n{color[0000]}いいつたえ{color[ffff]}いがいのことは　ほとんど　なぞにつつまれている。
+LT_Tips_044_Info	{color[0000]}どうくつ{color[ffff]}のおくに　のこされていた　やく2000ねんまえの　{color[0000]}へきが{color[ffff]}。\n{color[0000]}イルミナポケモン{color[ffff]}が　{color[0000]}テルルいんせき{color[ffff]}から　{color[0000]}レンティルちほう{color[ffff]}を\nまもったことが　えがかれているようだが　いちぶが　かけてしまっている。
+LT_Tips_045_Info	やく2000ねんまえのひとびとが　{color[0000]}レンティルちほう{color[ffff]}の　かくちにのこした　{color[0000]}へきが{color[ffff]}。\n{color[0000]}イルミナポケモン{color[ffff]}が　{color[0000]}テルルいんせき{color[ffff]}から　{color[0000]}レンティルちほう{color[ffff]}を\nまもったことが　えがかれていると　{color[0000]}カガミはかせ{color[ffff]}は　すいさつしている。
+LT_Tips_046_Info	やく100ねんまえ　{color[0000]}キャプテン・ビクトル{color[ffff]}が　{color[0000]}レンティルちほう{color[ffff]}の\nほかのしまじまを　めぐったときの　きろくが　まとめられている　ほん。\n{color[0000]}イルミナポケモン{color[ffff]}のことも　しるされており\nぼうけんたんとして　{color[0000]}フロレオとう{color[ffff]}の　こどもたちに　だいにんき。
+LT_Tips_047_Info	やく100ねんまえ　{color[0000]}レンティルちほう{color[ffff]}の　ほかのしまじまを　めぐった　{color[0000]}ぼうけんか{color[ffff]}。\nこどものころ　{color[0000]}イルミナポケモン{color[ffff]}に　であったことをきっかけに\nそのじんせいを　ぼうけんに　ささげた。
+LT_Tips_048_Info	ポケモンを　さつえいするときは\n{color[0000]}しゅやくを　まんなかに　とらえる{color[ffff]}と　GOOD！
+LT_Tips_049_Info	ポケモンの　こうどうのなかで\nどこが　{color[0000]}ベストタイミング{color[ffff]}か　かんさつしてみよう！
+LT_Tips_050_Info	ポケモンが　{color[0000]}こちらを　みているとき{color[ffff]}に\nさつえいすると　よりよい　しゃしんになるよ！
+LT_Tips_051_Info	ポケモンのかおが　からだや　ちけいなどで\n{color[0000]}かくれないよう{color[ffff]}　きをつけてみよう！
+LT_Tips_052_Info	ポケモンを　{color[0000]}カメラの　フレームのなか{color[ffff]}に\nなるべく　おおきく　とらえよう！
+LT_Tips_053_Info	ポケモンが　{color[0000]}カメラの　フレームから　はみださないよう{color[ffff]}\nしゅやくのいちや　ちかづきすぎに　ちゅういしよう！
+LT_Tips_054_Info	ポケモンなどの　{color[0000]}しゅやくが　うつっていない{color[ffff]}　しゃしんは\n「{color[0000]}No Data{color[ffff]}」という　あつかいになって　{color[0000]}はかせに　みせられない{color[ffff]}よ。\n{color[0000]}スコアも　つかない{color[ffff]}ので　ちゅういしよう！
+LT_Tips_055_Info	ポケモンを　{color[0000]}ズーム{color[ffff]}して　さつえいするときは\nカメラのフレームから　{color[0000]}はみだしやすい{color[ffff]}ので　ちゅういしよう！
+LT_Tips_056_Info	ポケモンが　{color[0000]}なかまといるとき{color[ffff]}だけ\nみられる　こうどうを　さがしてみよう！
+LT_Tips_057_Info	ふくすうのポケモンを　さつえいするときは\n{color[0000]}バランスよく{color[ffff]}　とるようにしよう！
+LT_Tips_058_Info	ふくすうのポケモンを　さつえいするときは\n{color[0000]}かぶって　かくれないよう{color[ffff]}　きをつけよう！
+LT_Tips_059_Info	{color[0000]}しゅやくいがい{color[ffff]}のポケモンも　スコアに　えいきょうするので\nなるべく　{color[0000]}おおきく　うつるよう{color[ffff]}　いしきしてみよう！
+LT_Tips_060_Info	{color[0000]}しゅやくいがい{color[ffff]}のポケモンも　スコアに　えいきょうするので\n{color[0000]}ポーズ{color[ffff]}も　きにしてみよう！
+LT_Tips_061_Info	ポケモンと　いっしょにとると　スコアに　えいきょうする\n{color[0000]}とくべつなふうけい{color[ffff]}を　さがしてみよう！
+LT_Tips_062_Info	{color[0000]}とくべつなふうけい{color[ffff]}を　さつえいするときは\n{color[0000]}むき{color[ffff]}にも　ちゅういしてみよう！
+LT_Tips_063_Info	{color[0000]}ネオワンごう{color[ffff]}は　じどうで　ルートをはんべつして　すすむので　{color[0000]}カメラそうさ{color[ffff]}に　しゅうちゅうしよう。\nカメラ／ポインタのいどう： {[0301|00cd]} {[0302|00cd]}\nズーム：  \nさつえい： {[0303|00cd]}
+LT_Tips_064_Info	{color[0000]}サーチ{color[ffff]}して　かくれているポケモンを　みつけたり\nあやしいところを　{color[0000]}ぶんせき{color[ffff]}してみよう。\nサーチ： {[0301|00cd]} でサーチ\nぶんせき：サーチしたあと　  に    をあわせて　{[0301|00cd]} をながおしして　ぶんせき
+LT_Tips_065_Info	ポケモンにむかって　なげてみよう。\n{color[0000]}たべてくれたり{color[ffff]}　ちがうばしょに　{color[0000]}みちびいたり{color[ffff]}できる。\nふわりんご：    で　むきをきめて　{[0301|00cd]} で　なげる
+LT_Tips_066_Info	ポケモンや　クリスタフラワーにむかって　なげてみよう。\n{color[0000]}イルミナげんしょう{color[ffff]}がおきて　ふだんとは　ちがうことが　おきるかもしれない。\nイルミナオーブ：    で　むきをきめて　{[0301|00cd]} で　なげる
+LT_Tips_067_Info	ポケモンにむかって　{color[0000]}メロディ{color[ffff]}をつかってみよう。\n{color[0000]}おんがくにはんのう{color[ffff]}して　ふだんとは　ちがうこうどうが　みられるかもしれない。\nメロディをならす： {[0301|00cd]} で　ならす\nメロディをとめる： メロディがなっているとき　{[0301|00cd]} で　ていし
+LT_Tips_068_Info	はやくすすみたいときは　{color[0000]}ターボ{color[ffff]}をつかってみよう。\n{color[0000]}はやくすすむ{color[ffff]}ことで　ふだんとは　ちがうようすが　さつえいできるかもしれない。\nターボ： {[0301|00cd]}
+LT_Tips_069_Info	その1：ポケモンを　さつえいすると　ずかんにページができるよ！\nその2：うまっていない　{color[0000]}★のしゃしん{color[ffff]}を　さつえいして　{color[0000]}★1～4{color[ffff]}　すべてうめよう！
+LT_Tips_070_Info	その1：{color[0000]}ちょうさレベル{color[ffff]}は　ルートごとにあるよ\nその2：そのルートでの　はかせのひょうかが　{color[0000]}ちょうさポイント{color[ffff]}になるよ\nその3：{color[0000]}いろいろなポケモン{color[ffff]}や　{color[0000]}とったことのない　★のしゃしん{color[ffff]}を　はかせにみせよう！
+LT_Tips_071_Info	その1：{color[0000]}たくさんのしゅるい{color[ffff]}の　ポケモンを　さつえいしよう！\nその2：{color[0000]}たかいスコア{color[ffff]}のしゃしんを　たくさんとろう！
+LT_Tips_072_Info	{color[0000]}1かいのちょうさ{color[ffff]}で　さつえいできるまいすうは　{color[0000]}72まい{color[ffff]}まで。\nはじめての　ルートいがいでは　{color[0000]}0まい{color[ffff]}になったら\n{color[0000]}ちょうさしゅうりょうになる{color[ffff]}ので　のこりまいすうに　きをつけよう！
+LT_Tips_073_Info	さつえいしたしゃしんの　タイトルは　{color[0000]}へんこうすることができる{color[ffff]}。\n{color[0000]}すきな　タイトル{color[ffff]}をつけて　どんなシーンを　とったのか\nせかいじゅうの　ともだちに　つたえよう！\n「アルバム」など　＞　しゃしんせんたく　＞　「タイトル」
+LT_Tips_074_Info	さつえいしたしゃしんは　{color[0000]}Nintendo Switchのアルバム{color[ffff]}に　ほぞんすることができる。\n「アルバム」　＞　しゃしんせんたく　＞　「Switchにほぞん」
+LT_Tips_075_Info	{color[0000]}レンティル ポケモンしぜんかがくけんきゅうじょ{color[ffff]}（つうしょう：{color[0000]}ベースキャンプ{color[ffff]}）\nには　さまざまな　ポケモンたちが　じゆうに　でいりしている。\n{color[0000]}ムーランド{color[ffff]}や　{color[0000]}タブンネ{color[ffff]}は　{color[0000]}カガミはかせ{color[ffff]}と\nいっしょに　くらしている　{color[0000]}あいぼう{color[ffff]}のような　そんざい。
+LT_Tips_076_Info	{color[0000]}リタ{color[ffff]}が　さつえいした　ふうけいしゃしん。\n{color[0000]}レンティルちほう{color[ffff]}とは　すこしちがう　ふんいきだが\nココが　どこなのかは　わからない。
 TipsSns_Lines.msbt
 Mis_Stage001_003_01_Head	たべてねるばしょ
 Mis_Stage001_003_01_Info1	このあたりで　ねむる\nポケモンが　いるんだよ。\nほかのポケモンが　いたら\nでてくるかもしれないね。
@@ -7197,68 +7197,68 @@ TU_photo_02	あのポケモンを　とってみて！\n で　さつえい�
 TU_photo_03	さつえいは  だよ！
 TU_photo_04	うん！　いいかんじ！
 TU_photo_05	つぎは　カメラをうごかして\nとってみよっか。
-TU_photo_06	いま　まんなかにみえる　まるいマークは\n\x0e\0\x03\x02\0\0ポインタ\x0e\0\x03\x02ÿÿっていうの。
-TU_photo_07	 で　この  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  をうごかすと\nいっしょに　カメラも　うごかすことができるんだよ。
+TU_photo_06	いま　まんなかにみえる　まるいマークは\n{color[0000]}ポインタ{color[ffff]}っていうの。
+TU_photo_07	 で　この  {color[0c00]}{color[ffff]}  をうごかすと\nいっしょに　カメラも　うごかすことができるんだよ。
 TU_photo_08	じゃあ　やってみて！
 TU_photo_09	カメラは　じょうげさゆう\nぐるーっといっしゅう　うごかせるよ。
-TU_photo_28	カメラをかたむけて　\x0e\0\x03\x02\0\0ジャイロ\x0e\0\x03\x02ÿÿで\nうごかすこともできるよ。
+TU_photo_28	カメラをかたむけて　{color[0000]}ジャイロ{color[ffff]}で\nうごかすこともできるよ。
 TU_photo_10	あ　みて！\nピカチュウがきてる。
-TU_photo_11	こんどは　あの\x0e\0\x03\x02\0\0ピカチュウ\x0e\0\x03\x02ÿÿを\nとってみよう！
-TU_photo_12	まずは  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を　ピカチュウに\nあわせるように　うごかしてみて。
-TU_photo_13	 で　 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  をうごかせるよ。\nピカチュウに　あわせてみてね。
-TU_photo_14	いま　ピカチュウのまわりに\n\x0e\0\x03\x02\0\0しかくいマーク\x0e\0\x03\x02ÿÿが　でたよね。
-TU_photo_15	これは　\x0e\0\x03\x02\0\0しゃしんのしゅやく\x0e\0\x03\x02ÿÿをしめす\nってことだけ　おぼえておいてね。
+TU_photo_11	こんどは　あの{color[0000]}ピカチュウ{color[ffff]}を\nとってみよう！
+TU_photo_12	まずは  {color[0c00]}{color[ffff]}  を　ピカチュウに\nあわせるように　うごかしてみて。
+TU_photo_13	 で　 {color[0c00]}{color[ffff]}  をうごかせるよ。\nピカチュウに　あわせてみてね。
+TU_photo_14	いま　ピカチュウのまわりに\n{color[0000]}しかくいマーク{color[ffff]}が　でたよね。
+TU_photo_15	これは　{color[0000]}しゃしんのしゅやく{color[ffff]}をしめす\nってことだけ　おぼえておいてね。
 TU_photo_16	はかせに　ひょうかしてもらうとき\nだいじだから！
 TU_photo_27	じゃ　とってみて！
 TU_photo_17	そう！　ばっちりだね！
 TU_photo_18	でも　ちょっととおいから\nピカチュウが　すこしちいさくみえるよね。
-TU_photo_19	そんなときは\n\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿを　つかうといいよ。
+TU_photo_19	そんなときは\n{color[0000]}ズーム{color[ffff]}を　つかうといいよ。
 TU_photo_20	ズームするには \nおしているあいだだけ　ズームするよ。
 TU_photo_21	じゃあ　ピカチュウを\nおおきく　とってみよう！
 TU_photo_22	 でズームして　 でさつえいだよ。
 TU_photo_23	やったね！\nおおきく　とれたでしょ！
-TU_photo_24	\x0e\0\x03\x02\0\0ぜんたいをおおきく\x0e\0\x03\x02ÿÿ　そして\n\x0e\0\x03\x02\0\0まんなかでとる\x0e\0\x03\x02ÿÿのが　コツだよ！
+TU_photo_24	{color[0000]}ぜんたいをおおきく{color[ffff]}　そして\n{color[0000]}まんなかでとる{color[ffff]}のが　コツだよ！
 TU_photo_25	よし！　もう　そうさはカンペキだね。\nすごいよ　キミ！
-TU_photo_29	あ　カメラや　ジャイロのちょうせいをしたかったら\n\x0e\0\x03\x02\0\0せっていメニュー\x0e\0\x03\x02ÿÿから　できるよ！
-TU_photo_30	ちょうさちゅう　\x0e\0\x03\x02\0\0ポーズメニュー\x0e\0\x03\x02ÿÿからも\nできるから　おぼえておいてね！
+TU_photo_29	あ　カメラや　ジャイロのちょうせいをしたかったら\n{color[0000]}せっていメニュー{color[ffff]}から　できるよ！
+TU_photo_30	ちょうさちゅう　{color[0000]}ポーズメニュー{color[ffff]}からも\nできるから　おぼえておいてね！
 TU_photo_26	はかせ～\nせつめい　おわったよ～。
 EB_Tu_01	リサーチカメラの　つかいかたは　おぼえたかな？
 EB_Tu_02	では　いまから　キミがとったしゃしんを\nひょうかさせてもらうよ。
-EB_Tu_03	まずは　\x0e\0\x03\x02\0\0ポケモンごとに1まい\x0e\0\x03\x02ÿÿ\nしゃしんを　えらんでくれるかな？
+EB_Tu_03	まずは　{color[0000]}ポケモンごとに1まい{color[ffff]}\nしゃしんを　えらんでくれるかな？
 EB_Tu_04	それを　ぼくがつくった　とくべつシステムをつかって\nひょうかするんだ。
 EB_Tu_05	じぶんで　イイとおもったしゃしんを　えらんでみてね。
 EV_Mot_Tu_01	さいしょのしゃしんは･･････
-EV_Mot_Tu_02	まず　ひょうかでだいじなのは\n\x0e\0\x03\x02\0\0★（ほし）のかず\x0e\0\x03\x02ÿÿで　しめされるカテゴリー。
+EV_Mot_Tu_02	まず　ひょうかでだいじなのは\n{color[0000]}★（ほし）のかず{color[ffff]}で　しめされるカテゴリー。
 EV_Mot_Tu_03	これは　ポケモンのこうどうを　しるために\nぼくがつくった　しくみなんだ。
 EV_Mot_Tu_04	★がすくないのは　ふだんのようす。\n★がおおいのは　なかなかみられないようす。
 EV_Mot_Tu_05	というぐあいにね。
 EV_Mot_Tu_06	すべてのカテゴリーが　だいじなので\n★のかずで　スコアのちがいはないよ。
 EV_Mot_Tu_07	カテゴリーのはんていには　カメラがきろくしている\nさつえいぜんごの　じょうほうも　りようしてるんだよ。
-EV_Mot_Tu_08	では　こんかいのしゃしんの　ひょうかをはじめよう。\nまずは「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」
-EV_Mot_Tu_19	いい\x0e\0\x03\x02\0\0タイミング\x0e\0\x03\x02ÿÿでとると　スコアがあがるよ。
+EV_Mot_Tu_08	では　こんかいのしゃしんの　ひょうかをはじめよう。\nまずは「{color[0000]}ポーズ{color[ffff]}」
+EV_Mot_Tu_19	いい{color[0000]}タイミング{color[ffff]}でとると　スコアがあがるよ。
 EV_Mot_Tu_09	つぎのこうもくも　みていこう。
-EV_Mot_Tu_10	「\x0e\0\x03\x02\0\0おおきさ\x0e\0\x03\x02ÿÿ」は　そのなのとおり\nうつったポケモンの　おおきさで　ひょうかするよ。
-EV_Mot_Tu_11	「\x0e\0\x03\x02\0\0むき\x0e\0\x03\x02ÿÿ」は　ポケモンのかおのむきだ。\nなるべく　しょうめんから　とるようにね。
-EV_Mot_Tu_12	「\x0e\0\x03\x02\0\0いち\x0e\0\x03\x02ÿÿ」は　しゃしんのバランス。\nちゅうおうに　ポケモンがうつっているのが　きほんかな。
-EV_Mot_Tu_13	「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」は　いっしょにうつった\nポケモンがいると　スコアがはいるんだ。
+EV_Mot_Tu_10	「{color[0000]}おおきさ{color[ffff]}」は　そのなのとおり\nうつったポケモンの　おおきさで　ひょうかするよ。
+EV_Mot_Tu_11	「{color[0000]}むき{color[ffff]}」は　ポケモンのかおのむきだ。\nなるべく　しょうめんから　とるようにね。
+EV_Mot_Tu_12	「{color[0000]}いち{color[ffff]}」は　しゃしんのバランス。\nちゅうおうに　ポケモンがうつっているのが　きほんかな。
+EV_Mot_Tu_13	「{color[0000]}ほかのポケモン{color[ffff]}」は　いっしょにうつった\nポケモンがいると　スコアがはいるんだ。
 EV_Mot_Tu_14	たくさん　はなしたけど･･････
 EV_Mot_Tu_15	「ポケモンを　カメラのまんなかで\nおおきくとらえて　シャッターをきる」
 EV_Mot_Tu_16	まずは　これだけ　いしきしてみるといいよ。
 EV_Mot_Tu_17	では　いまいったところの　ひょうかは･･････
 EV_Mot_Tu_18	すごいぞ！\nはじめてには　おもえないな。
 EA_Tu_Rlv_01	どうだった？
-EA_Tu_Rlv_02	さつえいとひょうかを　くりかえして\nキミだけの　\x0e\0\x03\x02\0\0ポケモンフォトずかん\x0e\0\x03\x02ÿÿをつくる。
+EA_Tu_Rlv_02	さつえいとひょうかを　くりかえして\nキミだけの　{color[0000]}ポケモンフォトずかん{color[ffff]}をつくる。
 EA_Tu_Rlv_03	というのが　おおきなもくてきだよ。
 EA_Tu_Rlv_05	よし　ではそろそろ\nぼうけんに　しゅっぱつしようか！
-TU_search_01	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿのそうさは　かんたん。\n をおすだけだよ。
+TU_search_01	{color[0000]}サーチ{color[ffff]}のそうさは　かんたん。\n をおすだけだよ。
 TU_search_02	やってみて！
 TU_search_03	 でサーチだよ。
 TU_search_04	ポケモンのなまえが　ひょうじされたよね。
-TU_search_06	あと　 \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  がでてるの　きづいた？
+TU_search_06	あと　 {color[0b00]}{color[ffff]}  がでてるの　きづいた？
 TU_search_07	それはね　「もっとくわしく　しらべられます」\nって　いみなんだよ。
-TU_search_08	まずは　 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を\n \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  に　あわせてみて。
-TU_search_09	 で　 \x0e\0\x03\x02\x0c\0 \x0e\0\x03\x02ÿÿ をうごかして\n \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  に　あわせてみてね。
-TU_search_10	 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  のかたちが　かわったよね。
+TU_search_08	まずは　 {color[0c00]}{color[ffff]}  を\n {color[0b00]}{color[ffff]}  に　あわせてみて。
+TU_search_09	 で　 {color[0c00]} {color[ffff]} をうごかして\n {color[0b00]}{color[ffff]}  に　あわせてみてね。
+TU_search_10	 {color[0c00]}{color[ffff]}  のかたちが　かわったよね。
 TU_search_11	そのまま　 をながおしすると\nぶんせきしてくれるよ。
 TU_search_12	やってみて。
 TU_search_13	 をながおしで　ぶんせきだよ。
@@ -7273,10 +7273,10 @@ TU_search_21	サーチのだすおとや　でんぱに\nポケモンたちが�
 TU_search_22	もし　こっちをみたら\nシャッターチャンスだよ。
 TU_search_23	はかせに　きくと\nぐうぜん　らしいんだけどね！
 TU_search_24	よし　もうだいじょうぶ！
-TU_food_01	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿは　 でなげられるよ。\nやってみよう！
+TU_food_01	{color[0000]}ふわりんご{color[ffff]}は　 でなげられるよ。\nやってみよう！
 TU_food_02	 で　ふわりんごを\nポケモンにむかって　なげてみよう。
 TU_food_03	ほら　たべにきたでしょ。\nみんな　だいすきなんだ。
-TU_food_04	すきなところに　なげるには\n \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  をうごかすんだよ。
+TU_food_04	すきなところに　なげるには\n {color[0c00]}{color[ffff]}  をうごかすんだよ。
 TU_food_05	カメラのそうさと　おなじだね。
 TU_food_06	 でむきをきめて\n でなげる　がきほんだよ。
 TU_food_07	じゃあ　もう1かい　やってみよう！
@@ -7289,7 +7289,7 @@ TU_food_13	よし！　れんしゅうは　このくらいで。
 TU_food_16	いまいったこと　わすれないでね。
 Tutorial_UI.msbt
 Tutorial_Button_Operation01_Info	チュートリアルでは　しょきせっていのボタンで\nせつめいをおこないます
-Tutorial_PhotoSubmit_Operation08_Info	「\x0e\0\x03\x02\0\0ピカチュウ\x0e\0\x03\x02ÿÿ」のフォルダを　えらんでみよう。
-Tutorial_PhotoSubmit_Operation01_Info	「\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿ」のフォルダを　えらんでみよう。
-Tutorial_PhotoSubmit_Operation06_Info	\x0e\0\x03\x02\0\0 　\x0e\0\x03\x02ÿÿもしくは　\x0e\0\x03\x02\0\0ポインタ\x0e\0\x03\x02ÿÿで\nしゃしんを　えらべるよ。\nぼくにみせるしゃしんが　きまったら\n\x0e\0\x03\x02\0\0 \x0e\0\x03\x02ÿÿをおしてね。
-Tutorial_PhotoSubmit_Operation07_Info	\x0e\0\x03\x02\0\0　\x0e\0\x03\x02ÿÿもしくは　「\x0e\0\x03\x02\0\0はかせにみせる\x0e\0\x03\x02ÿÿ」を　おせば\nしゃしんひょうかを　はじめるよ！
+Tutorial_PhotoSubmit_Operation08_Info	「{color[0000]}ピカチュウ{color[ffff]}」のフォルダを　えらんでみよう。
+Tutorial_PhotoSubmit_Operation01_Info	「{color[0000]}ビビヨン{color[ffff]}」のフォルダを　えらんでみよう。
+Tutorial_PhotoSubmit_Operation06_Info	{color[0000]} 　{color[ffff]}もしくは　{color[0000]}ポインタ{color[ffff]}で\nしゃしんを　えらべるよ。\nぼくにみせるしゃしんが　きまったら\n{color[0000]} {color[ffff]}をおしてね。
+Tutorial_PhotoSubmit_Operation07_Info	{color[0000]}　{color[ffff]}もしくは　「{color[0000]}はかせにみせる{color[ffff]}」を　おせば\nしゃしんひょうかを　はじめるよ！

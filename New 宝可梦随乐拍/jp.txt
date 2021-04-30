@@ -52,7 +52,7 @@ ComWindow005_Select1	OK
 ComWindow006_Info	調査をやめて　博士に写真を見せますか？
 ComWindow006_Select1	はい
 ComWindow006_Select2	いいえ
-ComWindow007_Info	ルートの最初から　調査をやり直しますか？\n\x0e\0\x03\x02\x08\0撮影した写真は　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow007_Info	ルートの最初から　調査をやり直しますか？\n{color[0800]}撮影した写真は　なくなります{color[ffff]}
 ComWindow007_Select1	はい
 ComWindow007_Select2	いいえ
 ComWindow008_Info	チュートリアルを　スキップしますか？
@@ -82,17 +82,17 @@ ComWindow017_Select2	いいえ
 ComWindow018_Info	Nintendo Switchのアルバムに\n写真を　保存しますか？
 ComWindow018_Select1	はい
 ComWindow018_Select2	いいえ
-ComWindow019_Info	写真を　削除しますか？\n\x0e\0\x03\x02\x08\0削除すると　元には戻せません\x0e\0\x03\x02ÿÿ
+ComWindow019_Info	写真を　削除しますか？\n{color[0800]}削除すると　元には戻せません{color[ffff]}
 ComWindow019_Select1	はい
 ComWindow019_Select2	いいえ
-ComWindow020_Info	写真を　保存しています。\nしばらく　お待ちください。\n完了まで　あと　\x0e\x03\x01\x02\0Í枚
-ComWindow021_Info	選んだ写真を　まとめて削除しますか？\n\x0e\0\x03\x02\x08\0削除すると　元には戻せません\x0e\0\x03\x02ÿÿ
+ComWindow020_Info	写真を　保存しています。\nしばらく　お待ちください。\n完了まで　あと　{[0301|00cd]}枚
+ComWindow021_Info	選んだ写真を　まとめて削除しますか？\n{color[0800]}削除すると　元には戻せません{color[ffff]}
 ComWindow021_Select1	はい
 ComWindow021_Select2	いいえ
 ComWindow022_Info	加工した写真を　新しい写真として\n保存し　終了しますか？
 ComWindow022_Select1	はい
 ComWindow022_Select2	いいえ
-ComWindow023_Info	加工した写真を　保存せず\n終了しますか？\n\x0e\0\x03\x02\x08\0加工内容は　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow023_Info	加工した写真を　保存せず\n終了しますか？\n{color[0800]}加工内容は　なくなります{color[ffff]}
 ComWindow023_Select1	はい
 ComWindow023_Select2	いいえ
 ComWindow024_Info	これ以上　スタンプは　配置できません。
@@ -100,24 +100,24 @@ ComWindow024_Select1	OK
 ComWindow025_Info	最初の状態に　戻しますか？
 ComWindow025_Select1	はい
 ComWindow025_Select2	いいえ
-ComWindow026_Info	エクストラ撮影を　終了しますか？\n\x0e\0\x03\x02\x08\0設定内容は　なくなります\x0e\0\x03\x02ÿÿ
+ComWindow026_Info	エクストラ撮影を　終了しますか？\n{color[0800]}設定内容は　なくなります{color[ffff]}
 ComWindow026_Select1	はい
 ComWindow026_Select2	いいえ
-ComWindow027_Info	保存枚数の　残りが5枚になりました。\n\nセーブデータを　拡張して\n保存枚数を　\x0e\x03\x01\x02\0Í枚　増やしますか？\n\x0e\0\x03\x02\x08\0約\x0e\x03\x02\x02\0ÍMBの　空き容量が　必要です\x0e\0\x03\x02ÿÿ
+ComWindow027_Info	保存枚数の　残りが5枚になりました。\n\nセーブデータを　拡張して\n保存枚数を　{[0301|00cd]}枚　増やしますか？\n{color[0800]}約{[0302|00cd]}MBの　空き容量が　必要です{color[ffff]}
 ComWindow027_Select1	はい
 ComWindow027_Select2	いいえ
-ComWindow028_Info	保存枚数の　残りが0枚になりました。\n\nセーブデータを　拡張して\n保存枚数を　\x0e\x03\x01\x02\0Í枚　増やしますか？\n\x0e\0\x03\x02\x08\0約\x0e\x03\x02\x02\0ÍMBの　空き容量が　必要です\x0e\0\x03\x02ÿÿ
+ComWindow028_Info	保存枚数の　残りが0枚になりました。\n\nセーブデータを　拡張して\n保存枚数を　{[0301|00cd]}枚　増やしますか？\n{color[0800]}約{[0302|00cd]}MBの　空き容量が　必要です{color[ffff]}
 ComWindow028_Select1	はい
 ComWindow028_Select2	いいえ
-ComWindow029_Info	セーブデータを　拡張しますか？\n\x0e\0\x03\x02\x08\0拡張すると　元には戻せません\x0e\0\x03\x02ÿÿ
+ComWindow029_Info	セーブデータを　拡張しますか？\n{color[0800]}拡張すると　元には戻せません{color[ffff]}
 ComWindow029_Select1	はい
 ComWindow029_Select2	いいえ
-ComWindow030_Info	セーブデータを　拡張しています。\nしばらく　お待ちください。\n\x0e\0\x03\x02\x08\0電源を　切らないでください\x0e\0\x03\x02ÿÿ
+ComWindow030_Info	セーブデータを　拡張しています。\nしばらく　お待ちください。\n{color[0800]}電源を　切らないでください{color[ffff]}
 ComWindow031_Info	セーブデータの　拡張が　完了しました。
 ComWindow031_Select1	OK
-ComWindow032_Info	セーブデータの　拡張が　完了しました。\n\x0e\0\x03\x02\x08\0これ以上　拡張できません\x0e\0\x03\x02ÿÿ
+ComWindow032_Info	セーブデータの　拡張が　完了しました。\n{color[0800]}これ以上　拡張できません{color[ffff]}
 ComWindow032_Select1	OK
-ComWindow033_Info	保存枚数の　残りがありません。\n保存している写真を　削除してください。\n\x0e\0\x03\x02\x08\0これ以上　セーブデータは　拡張できません\x0e\0\x03\x02ÿÿ
+ComWindow033_Info	保存枚数の　残りがありません。\n保存している写真を　削除してください。\n{color[0800]}これ以上　セーブデータは　拡張できません{color[ffff]}
 ComWindow033_Select1	OK
 ComWindow036_Info	この撮影者を　ブロックしますか？
 ComWindow036_Select1	はい
@@ -131,47 +131,47 @@ ComWindow038_Select2	いいえ
 ComWindow039_Info	この撮影者の　名前や　コメントを\n通報しますか？
 ComWindow039_Select1	はい
 ComWindow039_Select2	いいえ
-ComWindow040_Info	通報を　受け付けました。\n\x0e\0\x03\x02\x08\0送信は　自動で　行われます\x0e\0\x03\x02ÿÿ\n\nこの撮影者の　名前やコメント　写真を\n非表示にするには　ブロックしてください。
+ComWindow040_Info	通報を　受け付けました。\n{color[0800]}送信は　自動で　行われます{color[ffff]}\n\nこの撮影者の　名前やコメント　写真を\n非表示にするには　ブロックしてください。
 ComWindow040_Select1	OK
 ComWindow041_Info	これ以上　削除する写真は　選べません。\n一度に　削除できるのは　99枚までです。
 ComWindow041_Select1	OK
 ComWindow042_Info	写真を　削除しました。
 ComWindow042_Select1	OK
-ComWindow043_Info	僕に　写真を見せると　図鑑にページができるよ。\nページ内の　ポケモンに　ポインタを合わせて\n を押すと　\x0e\0\x03\x02\0\0動き\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0鳴き声\x0e\0\x03\x02ÿÿが　確認できるんだ。\n調査すれば　\x0e\0\x03\x02\0\0別のすがた\x0e\0\x03\x02ÿÿも　見れるようになるよ。
+ComWindow043_Info	僕に　写真を見せると　図鑑にページができるよ。\nページ内の　ポケモンに　ポインタを合わせて\n を押すと　{color[0000]}動き{color[ffff]}や　{color[0000]}鳴き声{color[ffff]}が　確認できるんだ。\n調査すれば　{color[0000]}別のすがた{color[ffff]}も　見れるようになるよ。
 ComWindow043_Select1	OK
-ComWindow044_Info	調査した　\x0e\0\x03\x02\0\0ルートの情報\x0e\0\x03\x02ÿÿが　確認できるよ。\n発見した\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿが\n地図に表示されるので　振り返ることができるんだ。
+ComWindow044_Info	調査した　{color[0000]}ルートの情報{color[ffff]}が　確認できるよ。\n発見した{color[0000]}ポケモン{color[ffff]}や　{color[0000]}コレクション{color[ffff]}が\n地図に表示されるので　振り返ることができるんだ。
 ComWindow044_Select1	OK
-ComWindow045_Info	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0レンティルの歴史に関わるもの\x0e\0\x03\x02ÿÿを\n\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿとして　この図鑑に　まとめていくよ。\n調査したら　ページができるので\nときどき　確認しに　来てみてね。
+ComWindow045_Info	{color[0000]}クリスタフラワー{color[ffff]}や　{color[0000]}レンティルの歴史に関わるもの{color[ffff]}を\n{color[0000]}コレクション{color[ffff]}として　この図鑑に　まとめていくよ。\n調査したら　ページができるので\nときどき　確認しに　来てみてね。
 ComWindow045_Select1	OK
-ComWindow046_Info	調査したあと　保存した写真と　\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0エクストラ撮影\x0e\0\x03\x02ÿÿした　写真が　確認できるよ。\n\x0e\0\x03\x02\0\0保存枚数\x0e\0\x03\x02ÿÿが　足りなくなったら　拡張してね。
+ComWindow046_Info	調査したあと　保存した写真と　{color[0000]}加工{color[ffff]}や\n{color[0000]}エクストラ撮影{color[ffff]}した　写真が　確認できるよ。\n{color[0000]}保存枚数{color[ffff]}が　足りなくなったら　拡張してね。
 ComWindow046_Select1	OK
-ComWindow047_Info	調査の　進み具合に　応じて\n\x0e\0\x03\x02\0\0調査称号\x0e\0\x03\x02ÿÿを　贈るよ。\nここでは　どんなものがあるのか？\nそれぞれ　どれくらい　進んでいるのか？\nなどが　確認できるんだ。
+ComWindow047_Info	調査の　進み具合に　応じて\n{color[0000]}調査称号{color[ffff]}を　贈るよ。\nここでは　どんなものがあるのか？\nそれぞれ　どれくらい　進んでいるのか？\nなどが　確認できるんだ。
 ComWindow047_Select1	OK
 ComWindow048_Info	調査に関する　さまざまな記録を\nここに　まとめているよ。\nどんどん　更新されるから\nたまに　確認しに　来てみてね。
 ComWindow048_Select1	OK
-ComWindow049_Info	撮影した写真に　\x0e\0\x03\x02\0\0スタンプ\x0e\0\x03\x02ÿÿなどを配置して\nさらに　楽しむことができるよ。\n調査を　進めると　使える素材が\n増えていくから　楽しみにしててね。
+ComWindow049_Info	撮影した写真に　{color[0000]}スタンプ{color[ffff]}などを配置して\nさらに　楽しむことができるよ。\n調査を　進めると　使える素材が\n増えていくから　楽しみにしててね。
 ComWindow049_Select1	OK
-ComWindow050_Info	色んな設定を　使いやすいように\n変更できるよ。\n調査中でも　一部は　\x0e\0\x03\x02\0\0ポーズメニュー\x0e\0\x03\x02ÿÿから\n変更できるから　気になったら　確認してみてね。
+ComWindow050_Info	色んな設定を　使いやすいように\n変更できるよ。\n調査中でも　一部は　{color[0000]}ポーズメニュー{color[ffff]}から\n変更できるから　気になったら　確認してみてね。
 ComWindow050_Select1	OK
-ComWindow051_Info	「\x0e\0\x03\x02\0\0その他\x0e\0\x03\x02ÿÿ」に　\x0e\0\x03\x02\0\0クレジット表示\x0e\0\x03\x02ÿÿを　追加したよ。\nもう一度　見たくなったら\n「\x0e\0\x03\x02\0\0再生\x0e\0\x03\x02ÿÿ」を　押してみてね。
+ComWindow051_Info	「{color[0000]}その他{color[ffff]}」に　{color[0000]}クレジット表示{color[ffff]}を　追加したよ。\nもう一度　見たくなったら\n「{color[0000]}再生{color[ffff]}」を　押してみてね。
 ComWindow051_Select1	OK
 ComWindow052_Info	ベースキャンプで　撮影しますか？
 ComWindow052_Select1	はい
 ComWindow052_Select2	いいえ
-ComWindow053_Info	オンラインのマイページから　写真を取り下げますか？\n\nこの写真を　もう一度　アップロードすると\nりんごメダルの枚数は　リセットされます。\n\x0e\0\x03\x02\x08\0りんごメダルをもらった数の　総数は　減りません\x0e\0\x03\x02ÿÿ
+ComWindow053_Info	オンラインのマイページから　写真を取り下げますか？\n\nこの写真を　もう一度　アップロードすると\nりんごメダルの枚数は　リセットされます。\n{color[0800]}りんごメダルをもらった数の　総数は　減りません{color[ffff]}
 ComWindow053_Select1	はい
 ComWindow053_Select2	いいえ
-ComWindow054_Info	\x0e\0\x03\x02\0\0世界中の　友だち\x0e\0\x03\x02ÿÿが　撮った\x0e\0\x03\x02\0\0写真\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　確認できるよ！\n\x0e\0\x03\x02\0\0マイページ\x0e\0\x03\x02ÿÿでは　色々　設定できるから\n気になったら　確認してみてね。
+ComWindow054_Info	{color[0000]}世界中の　友だち{color[ffff]}が　撮った{color[0000]}写真{color[ffff]}や\n{color[0000]}ランキング{color[ffff]}が　確認できるよ！\n{color[0000]}マイページ{color[ffff]}では　色々　設定できるから\n気になったら　確認してみてね。
 ComWindow054_Select1	OK
-ComWindow055_Info	各\x0e\0\x03\x02\0\0スコア\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　気になったら\nここに　見に来てね！\n\x0e\0\x03\x02\0\0フレンド\x0e\0\x03\x02ÿÿや　使っている\x0e\0\x03\x02\0\0言語\x0e\0\x03\x02ÿÿで\n絞り込むこともできるよ。
+ComWindow055_Info	各{color[0000]}スコア{color[ffff]}の　{color[0000]}ランキング{color[ffff]}が　気になったら\nここに　見に来てね！\n{color[0000]}フレンド{color[ffff]}や　使っている{color[0000]}言語{color[ffff]}で\n絞り込むこともできるよ。
 ComWindow055_Select1	OK
-ComWindow056_Info	キミの　\x0e\0\x03\x02\0\0プロフィール\x0e\0\x03\x02ÿÿを　設定できるよ。\n世界中の　人に　見てもらいたい\n写真があったら　ここに　\x0e\0\x03\x02\0\0アップロード\x0e\0\x03\x02ÿÿしてね！
+ComWindow056_Info	キミの　{color[0000]}プロフィール{color[ffff]}を　設定できるよ。\n世界中の　人に　見てもらいたい\n写真があったら　ここに　{color[0000]}アップロード{color[ffff]}してね！
 ComWindow056_Select1	OK
 ComWindow057_Info	写真を　アップロードしました。
 ComWindow057_Select1	OK
 ComWindow058_Info	オンラインのマイページから　写真を　取り下げました。
 ComWindow058_Select1	OK
-ComWindow059_Info	写真を　アップロードしています。\nしばらく　お待ちください。\n\x0e\x03\x01\x02\0Í％
+ComWindow059_Info	写真を　アップロードしています。\nしばらく　お待ちください。\n{[0301|00cd]}％
 ComWindow060_Info	データを　取得しています。
 ComWindow061_Info	通信しています。\nしばらく　お待ちください。
 ComWindow064_Info	ネットワークエラーが　発生しました。
@@ -188,10 +188,10 @@ ComWindow069_Select1	はい
 ComWindow069_Select2	いいえ
 ComWindow070_Info	博士に　見せられる写真が　ありません。\nこのまま　終了します。
 ComWindow070_Select1	OK
-ComWindow071_Info	\x0e\0\x03\x02\x08\0オンラインの　注意事項\x0e\0\x03\x02ÿÿ\x0e\0\x04\0オンラインでは　あなたの　\x0e\0\x03\x02\x08\0名前\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\x08\0コメント\x0e\0\x03\x02ÿÿ\n\x0e\0\x03\x02\x08\0アップロードした写真\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\x08\0タイトル\x0e\0\x03\x02ÿÿなどの\nコンテンツを　他の人も　見ることができます。\n\n不適切な　内容を　避けて　お楽しみください。\x0e\0\x04\0違法な　内容　／　個人情報\n他人の権利を　侵害する　内容\n不快な　思いをさせる　内容\nを　含む　コンテンツの　アップロードや\x0e\0\x04\0他の人に　不快な思いをさせる　行為\n不正行為は　しないでください。\x0e\0\x04\0コンテンツや　ゲーム中の　行為には\n「\x0e\0\x03\x02\x08\0ニンテンドーアカウント利用規約\x0e\0\x03\x02ÿÿ」\nが　適用されます。\n違反している場合　コンテンツが　削除されたり\nオンライン接続が　制限されることがあります。\x0e\0\x04\0不適切な　コンテンツは　通報できます。\n事実と　異なる　通報は　おやめください。\n\n「\x0e\0\x03\x02\x08\0ニンテンドーアカウント利用規約\x0e\0\x03\x02ÿÿ」に\n従って　お楽しみください。
+ComWindow071_Info	{color[0800]}オンラインの　注意事項{color[ffff]}{[0004]}オンラインでは　あなたの　{color[0800]}名前{color[ffff]}や　{color[0800]}コメント{color[ffff]}\n{color[0800]}アップロードした写真{color[ffff]}や　{color[0800]}タイトル{color[ffff]}などの\nコンテンツを　他の人も　見ることができます。\n\n不適切な　内容を　避けて　お楽しみください。{[0004]}違法な　内容　／　個人情報\n他人の権利を　侵害する　内容\n不快な　思いをさせる　内容\nを　含む　コンテンツの　アップロードや{[0004]}他の人に　不快な思いをさせる　行為\n不正行為は　しないでください。{[0004]}コンテンツや　ゲーム中の　行為には\n「{color[0800]}ニンテンドーアカウント利用規約{color[ffff]}」\nが　適用されます。\n違反している場合　コンテンツが　削除されたり\nオンライン接続が　制限されることがあります。{[0004]}不適切な　コンテンツは　通報できます。\n事実と　異なる　通報は　おやめください。\n\n「{color[0800]}ニンテンドーアカウント利用規約{color[ffff]}」に\n従って　お楽しみください。
 ComWindow071_Select1	次へ
 ComWindow075_Select1	OK
-ComWindow076_Info	他の人の　\x0e\0\x03\x02\0\0プロフィール\x0e\0\x03\x02ÿÿが　確認できるよ。\n\nいい写真があったら　\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿを　贈ろう！\x0e\0\x04\0もし　不快に感じたら　その内容を\n通報ボタンから　\x0e\0\x03\x02\0\0通報\x0e\0\x03\x02ÿÿしてね。\n\n\x0e\0\x03\x02\0\0ブロック\x0e\0\x03\x02ÿÿすると　その人の　名前や　コメント\n写真を　非表示にできるよ。
+ComWindow076_Info	他の人の　{color[0000]}プロフィール{color[ffff]}が　確認できるよ。\n\nいい写真があったら　{color[0000]}りんごメダル{color[ffff]}を　贈ろう！{[0004]}もし　不快に感じたら　その内容を\n通報ボタンから　{color[0000]}通報{color[ffff]}してね。\n\n{color[0000]}ブロック{color[ffff]}すると　その人の　名前や　コメント\n写真を　非表示にできるよ。
 ComWindow076_Select1	次へ
 ComWindow076_Select2	OK
 ComWindow077_Info	贈った　りんごメダルを　取り下げますか？
@@ -199,13 +199,13 @@ ComWindow077_Select1	はい
 ComWindow077_Select2	いいえ
 ComWindow078_Info	研究室から　オンラインを　選んで\n注意事項を　確認してください。
 ComWindow078_Select1	OK
-ComWindow080_Info	調査したあとは　\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿの\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿにある\n\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿに保存する　写真を　選べるよ。\n\x0e\0\x03\x02\0\0エクストラ撮影\x0e\0\x03\x02ÿÿでは　設定を変更して\nもう一度　撮影できるから　試してみてね。
+ComWindow080_Info	調査したあとは　{color[0000]}研究室{color[ffff]}の{color[0000]}マイスペース{color[ffff]}にある\n{color[0000]}アルバム{color[ffff]}に保存する　写真を　選べるよ。\n{color[0000]}エクストラ撮影{color[ffff]}では　設定を変更して\nもう一度　撮影できるから　試してみてね。
 ComWindow080_Select1	OK
 ComWindow081_Info	これ以上　アップロードできません。\nオンラインのマイページから　写真を　取り下げて\n枠を　空けてから　もう一度　お試しください。
 ComWindow081_Select1	OK
 ComWindow082_Info	表示できるデータがありません。\nランキングの　更新には\n時間が　かかる場合が　あります。
 ComWindow082_Select1	OK
-ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルの枚数は　リセットされます。\n\x0e\0\x03\x02\x08\0りんごメダルをもらった数の　総数は　減りません\x0e\0\x03\x02ÿÿ
+ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルの枚数は　リセットされます。\n{color[0800]}りんごメダルをもらった数の　総数は　減りません{color[ffff]}
 ComWindow083_Select1	はい
 ComWindow083_Select2	いいえ
 EvaluationPhotoCaption_Info.msbt
@@ -919,13 +919,13 @@ EB_NoSnap_03	おや？\n今回は　0枚なんだね。
 ES_Com_01	さて　今回は\nどんな　写真があるかな？
 ES_Com_02	よし　それじゃあ\n一緒に　見ていこうか。
 ES_Com_03	さあ　写真のチェックを\nはじめようか！
-EV_Fr_1st_01	これは　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Boss_Light_01	これは　イルミナ状態の　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Boss_Dark_01	これは　イルミナポケモンの　\x0e\x03\x01\x02\0Íか！
-EV_Fr_Unknown_01	これは･･････　\x0e\x03\x01\x02\0Íだろうか？
-EV_Fr_2nd_01	さて　次は　\x0e\x03\x01\x02\0Íか！
-EV_Fr_2nd_02	次は　\x0e\x03\x01\x02\0Íか。
-EV_Fr_2nd_03	この写真は　\x0e\x03\x01\x02\0Íか。
+EV_Fr_1st_01	これは　{[0301|00cd]}か！
+EV_Fr_Boss_Light_01	これは　イルミナ状態の　{[0301|00cd]}か！
+EV_Fr_Boss_Dark_01	これは　イルミナポケモンの　{[0301|00cd]}か！
+EV_Fr_Unknown_01	これは･･････　{[0301|00cd]}だろうか？
+EV_Fr_2nd_01	さて　次は　{[0301|00cd]}か！
+EV_Fr_2nd_02	次は　{[0301|00cd]}か。
+EV_Fr_2nd_03	この写真は　{[0301|00cd]}か。
 EV_Cat_Cute_01	和やかな　雰囲気だね。
 EV_Cat_Cute_02	とても　チャーミングだね。
 EV_Cat_Cute_03	何だか　ほほえましいね。
@@ -1579,9 +1579,9 @@ EV_Tim_Star2_03	いいね。　なかなかの　ショットだ。
 EV_Tim_Star1_01	次は･･････　動きを　よく見て　タイミングを　合わせてみよう。
 EV_Tim_Star1_02	タイミングは･･････　もうひと頑張りかな。
 EV_Tim_Star1_03	惜しいなあ･･････　タイミングが　あと少しよければ。
-EV_End_CompPokedex_01	\x0e\x03\x01\x02\0Íの　ページの写真が\nすべて埋まったね！　おめでとう！
-EV_End_CompPokedex_02	すべての★の写真が　埋まったね！\nこれで　\x0e\x03\x01\x02\0Íの　ページは完成だ！
-EV_End_CompPokedex_03	\x0e\x03\x01\x02\0Íの　ページの写真が　埋まったね！\nさすが！　としか　言えないよ！
+EV_End_CompPokedex_01	{[0301|00cd]}の　ページの写真が\nすべて埋まったね！　おめでとう！
+EV_End_CompPokedex_02	すべての★の写真が　埋まったね！\nこれで　{[0301|00cd]}の　ページは完成だ！
+EV_End_CompPokedex_03	{[0301|00cd]}の　ページの写真が　埋まったね！\nさすが！　としか　言えないよ！
 EV_End_Outcome_SizeGP_01	ポケモンが　しっかり大きく\n写っているところがいいね。
 EV_End_Outcome_SizeGP_02	ポケモンを　大きく　捉えられているね。\nよく　撮れているよ。
 EV_End_Outcome_SizeTips_01	ポケモンの全身を　大きく写す。\n「大きさ」の　基本だよ。　覚えておいてね。
@@ -1865,20 +1865,20 @@ Evaluation_Start_PhotoBy_Tx	撮影者
 Evaluation_Evaluation_BookPhoto_Tx	図鑑の写真
 Evaluation_Evaluation_SubmitPhoto_Tx	今回の写真
 Evaluation_AfterClear_ResearchLv_Tx	調査レベル
-Evaluation_AfterClear_ResearchLv_Num	Lv.\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_ResearchLv_Num	Lv.{[0301|00cd]}
 Evaluation_AfterClear_ResearchLvMax_Num	Lv.MAX
-Evaluation_AfterClear_NextLv_Num	次のレベルまであと  \x0e\0\x03\x02\x04\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+Evaluation_AfterClear_NextLv_Num	次のレベルまであと  {color[0400]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 Evaluation_AfterClear_GetExp_Tx	今回の調査ポイント
-Evaluation_AfterClear_GetExp_Num	＋\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_GetExp_Num	＋{[0301|00cd]}
 Evaluation_AfterClear_CourseScore_Tx	ルートスコア
 Evaluation_AfterClear_HighScore_Tx	ハイスコア
 Evaluation_AfterClear_ProfessorRecommend_Tx	博士のお気に入り
 Evaluation_AfterClear_NewRecord_Tx	NEW RECORD !!
 Evaluation_Jingle_ResearchLv_Tx	調査レベル
 Evaluation_Jingle_LvUp_Tx	レベルアップ！
-Evaluation_Evaluation_ScoreLow_Num	\x0e\x03\x01\x02\0Í
-Evaluation_Evaluation_ScoreHigh_Num	\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
-Evaluation_Evaluation_ScoreHigh2_Num	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
+Evaluation_Evaluation_ScoreLow_Num	{[0301|00cd]}
+Evaluation_Evaluation_ScoreHigh_Num	{color[0800]}{[0301|00cd]}{color[ffff]}
+Evaluation_Evaluation_ScoreHigh2_Num	{color[0000]}{[0301|00cd]}{color[ffff]}
 General.msbt
 GameTitle_PressStart_Tx	PRESS ANY BUTTON
 GameTitle_Copyright_Tx	© 2021 Pokémon/Nintendo/Creatures/GAME FREAK.
@@ -1906,7 +1906,7 @@ NotOpen_Tx	？？？
 NotExist_Tx	ーーー
 Skip_Tx	 スキップ
 NoTarget_Tx	No Data
-Number_Num	No.\x0e\x03\x01\x02\0Í
+Number_Num	No.{[0301|00cd]}
 Distance_Unit	km
 Ending_Thanks_Tx	Thank you, everyone!
 Order_Date_Tx	日時
@@ -1949,7 +1949,7 @@ Keyboard_ErrorNgWord_Info	使えない言葉が　含まれています。
 Keyboard_ErrorNumbers_Info	使える数字は　5文字までです。
 InitialSetting_UI.msbt
 InitialSetting_Save_AutoSave1_Info	このゲームは　オートセーブを行います。\nオートセーブアイコンが出ているあいだは　電源を切らないでください。
-InitialSetting_Language_SelectText1_Info	どの言語で　遊びますか？\n\x0e\0\x03\x02\x08\0あとから変更することが　できません\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectText1_Info	どの言語で　遊びますか？\n{color[0800]}あとから変更することが　できません{color[ffff]}
 InitialSetting_Language_Jpn_Tx	日本語
 InitialSetting_Language_JpnKana_Tx	にほんご
 InitialSetting_Language_English_Tx	English
@@ -1960,14 +1960,14 @@ InitialSetting_Language_Spanish_Tx	Español
 InitialSetting_Language_Korean_Tx	한국어
 InitialSetting_Language_Cn_Tx	简体中文
 InitialSetting_Language_Tw_Tx	繁體中文
-InitialSetting_Language_SelectVoice1_Info	登場人物のボイスの種類を　選んでください\n\x0e\0\x03\x02\x08\0あとから変更することが　できます\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectVoice1_Info	登場人物のボイスの種類を　選んでください\n{color[0800]}あとから変更することが　できます{color[ffff]}
 InitialSetting_Language_JpnVoice_Tx	日本語
 InitialSetting_Language_EnVoice_Tx	英語
 InitialSetting_Language_NonVoice_Tx	ボイスなし
-InitialSetting_PlayerSetting_SelectAvatar1_Info	あなたの写真を　選んでください\n\x0e\0\x03\x02\x08\0あとから変更することが　できません\x0e\0\x03\x02ÿÿ
+InitialSetting_PlayerSetting_SelectAvatar1_Info	あなたの写真を　選んでください\n{color[0800]}あとから変更することが　できません{color[ffff]}
 InitialSetting_PlayerSetting_EnterName1_Info	あなたの名前を　教えてください
 InitialSetting_PlayerSetting_EnterName2_Info	あとから変更することが　できます
-InitialSetting_PlayerSetting_FinalCheck1_Info	こちらで　よろしいですか？\n\x0e\0\x03\x02\x08\0ひらがなと　漢字は　あとから変更できます\x0e\0\x03\x02ÿÿ
+InitialSetting_PlayerSetting_FinalCheck1_Info	こちらで　よろしいですか？\n{color[0800]}ひらがなと　漢字は　あとから変更できます{color[ffff]}
 InitialSetting_PlayerSetting_Yes_Tx	はい
 InitialSetting_PlayerSetting_No_Tx	いいえ
 MainMenu_UI.msbt
@@ -2000,9 +2000,9 @@ MapSelect_StageSelect_Head	レンティルマップ
 MapSelect_StageSelect_Help	調査するエリアを　選んでください
 MapSelect_CourseSelect_Help	調査するルートを　選んでください
 MapSelect_CourseSelect_CourseLv_Tx	調査レベル
-MapSelect_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+MapSelect_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 MapSelect_CourseSelect_CourseLvMax_Num	Lv. MAX
-MapSelect_CourseSelect_NextLv_Num	次のレベルまであと  \x0e\0\x03\x02\x07\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+MapSelect_CourseSelect_NextLv_Num	次のレベルまであと  {color[0700]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 MapSelect_CourseSelect_HighScore_Tx	ハイスコア
 MapSelect_CourseSelect_ChangeCourseLv_Tx	 調査レベルを変更
 MapSelect_CourseSelect_ChangeCourseLv1_Tx	Lv. 1
@@ -2043,7 +2043,7 @@ PlayerData_HighScore_Star3_Tx	★3　最高
 PlayerData_HighScore_Star4_Tx	★4　最高
 PlayerData_CourseScore_Tx	ルートスコア
 PlayerData_CourseScore_TotalScore_Tx	    総合
-PlayerData_CourseScore_HighScore_Num	    最高　\x0e\x03\x01\x02\0Í
+PlayerData_CourseScore_HighScore_Num	    最高　{[0301|00cd]}
 PlayerData_CountPhoto_Poke_Tx	ポケモンを撮影した枚数
 PlayerData_CountPhoto_Flower_Tx	クリスタフラワーを撮影した枚数
 PlayerData_CountPhoto_Remains_Tx	古代遺跡を撮影した枚数
@@ -2063,245 +2063,245 @@ PlayerData_CountLike_TotalGive_Tx	りんごメダルを贈った数
 PlayerData_CountPhoto_Upload_Tx	自分でオンラインにアップロードした枚数
 PlayerData_CountPhoto_ProfessorRecommend_Tx	博士がオンラインにアップロードした枚数
 MySpaceTitle_Info.msbt
-Title001_Info2	\x0e\0\x03\x02\0\0フロレオ自然公園\x0e\0\x03\x02ÿÿを\n初めて　調査した
-Title002_Info2	\x0e\0\x03\x02\0\0フロレオ自然公園\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ビッパのダムに　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title005_Info2	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0研究所内に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title006_Info2	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿを　初めて　調査した
-Title007_Info2	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0沼地に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title008_Info2	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0滝の裏側に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title010_Info2	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0春夏秋冬　4つの季節\x0e\0\x03\x02ÿÿを\n巡った
-Title011_Info2	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0陽だまりに　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title012_Info2	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿを　初めて　調査した
-Title013_Info2	\x0e\0\x03\x02\0\0ニジイロビーチ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0隠れた砂浜に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title014_Info2	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ホエルオーの頭のそばを　通るルート\x0e\0\x03\x02ÿÿを\n発見した
-Title015_Info2	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ブルーホールに　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title016_Info2	\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0海中洞窟に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title017_Info2	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿを　初めて　調査した
-Title018_Info2	\x0e\0\x03\x02\0\0ネッサ砂漠\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0オアシス周辺のルート\x0e\0\x03\x02ÿÿを　すべて\n調査した
-Title020_Info2	\x0e\0\x03\x02\0\0ドロー火山\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0青い溶岩洞窟に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title021_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ウルガモス\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Title022_Info2	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿを　初めて　調査した
-Title023_Info2	\x0e\0\x03\x02\0\0ヒエール雪原\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0雪の壁の向こうに　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title024_Info2	\x0e\0\x03\x02\0\0ヒエール雪原\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0氷の洞窟に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title025_Info2	\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0巨大結晶に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title026_Info2	\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0リムストーンプールに　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title027_Info2	\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0地底空間の　壁向こうのルート\x0e\0\x03\x02ÿÿを\n発見した
-Title028_Info2	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿを　初めて　調査した
-Title029_Info2	\x0e\0\x03\x02\0\0シューゴ遺跡\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0地上に続く　光の道\x0e\0\x03\x02ÿÿを\n発見した
-Title030_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ゼルネアス\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
+Title001_Info2	{color[0000]}フロレオ自然公園{color[ffff]}を\n初めて　調査した
+Title002_Info2	{color[0000]}フロレオ自然公園{color[ffff]}で　{color[0000]}ビッパのダムに　続くルート{color[ffff]}を\n発見した
+Title005_Info2	{color[0000]}ベースキャンプ{color[ffff]}で　{color[0000]}研究所内に　続くルート{color[ffff]}を\n発見した
+Title006_Info2	{color[0000]}ベラス島{color[ffff]}を　初めて　調査した
+Title007_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}沼地に　続くルート{color[ffff]}を\n発見した
+Title008_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}滝の裏側に　続くルート{color[ffff]}を\n発見した
+Title010_Info2	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}春夏秋冬　4つの季節{color[ffff]}を\n巡った
+Title011_Info2	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}陽だまりに　続くルート{color[ffff]}を\n発見した
+Title012_Info2	{color[0000]}コピア諸島{color[ffff]}を　初めて　調査した
+Title013_Info2	{color[0000]}ニジイロビーチ{color[ffff]}で　{color[0000]}隠れた砂浜に　続くルート{color[ffff]}を\n発見した
+Title014_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}ホエルオーの頭のそばを　通るルート{color[ffff]}を\n発見した
+Title015_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}ブルーホールに　続くルート{color[ffff]}を\n発見した
+Title016_Info2	{color[0000]}レンティル海床{color[ffff]}で　{color[0000]}海中洞窟に　続くルート{color[ffff]}を\n発見した
+Title017_Info2	{color[0000]}ボルク島{color[ffff]}を　初めて　調査した
+Title018_Info2	{color[0000]}ネッサ砂漠{color[ffff]}で　{color[0000]}オアシス周辺のルート{color[ffff]}を　すべて\n調査した
+Title020_Info2	{color[0000]}ドロー火山{color[ffff]}で　{color[0000]}青い溶岩洞窟に　続くルート{color[ffff]}を\n発見した
+Title021_Info2	イルミナポケモンの　{color[0000]}ウルガモス{color[ffff]}を\nフォト図鑑に　登録した
+Title022_Info2	{color[0000]}デュラス島{color[ffff]}を　初めて　調査した
+Title023_Info2	{color[0000]}ヒエール雪原{color[ffff]}で　{color[0000]}雪の壁の向こうに　続くルート{color[ffff]}を\n発見した
+Title024_Info2	{color[0000]}ヒエール雪原{color[ffff]}で　{color[0000]}氷の洞窟に　続くルート{color[ffff]}を\n発見した
+Title025_Info2	{color[0000]}ハナレ洞窟{color[ffff]}で　{color[0000]}巨大結晶に　続くルート{color[ffff]}を\n発見した
+Title026_Info2	{color[0000]}ハナレ洞窟{color[ffff]}で　{color[0000]}リムストーンプールに　続くルート{color[ffff]}を\n発見した
+Title027_Info2	{color[0000]}ハナレ洞窟{color[ffff]}で　{color[0000]}地底空間の　壁向こうのルート{color[ffff]}を\n発見した
+Title028_Info2	{color[0000]}アウラム島{color[ffff]}を　初めて　調査した
+Title029_Info2	{color[0000]}シューゴ遺跡{color[ffff]}で　{color[0000]}地上に続く　光の道{color[ffff]}を\n発見した
+Title030_Info2	イルミナポケモンの　{color[0000]}ゼルネアス{color[ffff]}を\nフォト図鑑に　登録した
 Title031_Info2	レンティル地方を　ひと通り　調査した
-Title032_Info1	調査レベルを　\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿルート\nMAXにしよう
-Title032_Info2	調査レベルを　\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title033_Info1	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title033_Info2	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title034_Info1	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title034_Info2	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
-Title035_Info1	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにしよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title035_Info2	調査レベルを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿルート\nMAXにした
+Title032_Info1	調査レベルを　{color[0000]}1{color[ffff]}ルート\nMAXにしよう
+Title032_Info2	調査レベルを　{color[0000]}1{color[ffff]}ルート\nMAXにした
+Title033_Info1	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title033_Info2	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
+Title034_Info1	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title034_Info2	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
+Title035_Info1	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにしよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title035_Info2	調査レベルを　{color[0000]}{[0301|00cd]}{color[ffff]}ルート\nMAXにした
 Title036_Info1	調査レベルを　すべてのルート\nMAXにしよう
 Title036_Info2	調査レベルを　すべてのルート\nMAXにした
-Title037_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title037_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title038_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title038_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title039_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title039_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title040_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title040_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title041_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title041_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title042_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title042_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title043_Info1	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title043_Info2	写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title044_Info1	一度の調査で　\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿの写真を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　撮影しよう
-Title044_Info2	一度の調査で　\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿの写真を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　撮影した
-Title045_Info1	一度の調査で　\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿの写真を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　撮影しよう
-Title045_Info2	一度の調査で　\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿの写真を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　撮影した
-Title046_Info1	同じ　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title046_Info2	同じ　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚　博士に見せた
-Title047_Info2	主役のいない写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚　撮影した
-Title048_Info1	移動している　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title048_Info2	移動している　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title049_Info1	食事している　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title049_Info2	食事している　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title050_Info1	喜んでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title050_Info2	喜んでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title051_Info1	特別な行動をしている　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title051_Info2	特別な行動をしている　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title052_Info1	寝ている　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title052_Info2	寝ている　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title053_Info1	泳いでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title053_Info2	泳いでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title054_Info1	飛んでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title054_Info2	飛んでいる　ポケモンの写真を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　博士に見せた
-Title056_Info1	\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title056_Info2	\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title057_Info1	\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title057_Info2	\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title058_Info1	\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title058_Info2	\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title059_Info1	\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title059_Info2	\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title062_Info1	評価が　\x0e\0\x03\x02\0\0金\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title062_Info2	評価が　\x0e\0\x03\x02\0\0金\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title063_Info1	評価が　\x0e\0\x03\x02\0\0ダイヤモンド\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title063_Info2	評価が　\x0e\0\x03\x02\0\0ダイヤモンド\x0e\0\x03\x02ÿÿの写真を　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n撮影した
-Title064_Info1	\x0e\0\x03\x02\0\0むしタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title064_Info2	\x0e\0\x03\x02\0\0むしタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title065_Info1	\x0e\0\x03\x02\0\0でんきタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title065_Info2	\x0e\0\x03\x02\0\0でんきタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title066_Info1	\x0e\0\x03\x02\0\0みずタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title066_Info2	\x0e\0\x03\x02\0\0みずタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title067_Info1	\x0e\0\x03\x02\0\0あくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title067_Info2	\x0e\0\x03\x02\0\0あくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title068_Info1	\x0e\0\x03\x02\0\0フェアリータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title068_Info2	\x0e\0\x03\x02\0\0フェアリータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title069_Info1	\x0e\0\x03\x02\0\0くさタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title069_Info2	\x0e\0\x03\x02\0\0くさタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title070_Info1	\x0e\0\x03\x02\0\0ほのおタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title070_Info2	\x0e\0\x03\x02\0\0ほのおタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title071_Info1	\x0e\0\x03\x02\0\0エスパータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title071_Info2	\x0e\0\x03\x02\0\0エスパータイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title072_Info1	\x0e\0\x03\x02\0\0ゴーストタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title072_Info2	\x0e\0\x03\x02\0\0ゴーストタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title073_Info1	\x0e\0\x03\x02\0\0どくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title073_Info2	\x0e\0\x03\x02\0\0どくタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title074_Info1	\x0e\0\x03\x02\0\0かくとうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title074_Info2	\x0e\0\x03\x02\0\0かくとうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title075_Info1	\x0e\0\x03\x02\0\0じめんタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title075_Info2	\x0e\0\x03\x02\0\0じめんタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title076_Info1	\x0e\0\x03\x02\0\0いわタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title076_Info2	\x0e\0\x03\x02\0\0いわタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title077_Info1	\x0e\0\x03\x02\0\0ドラゴンタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title077_Info2	\x0e\0\x03\x02\0\0ドラゴンタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title078_Info1	\x0e\0\x03\x02\0\0こおりタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title078_Info2	\x0e\0\x03\x02\0\0こおりタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title079_Info1	\x0e\0\x03\x02\0\0はがねタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title079_Info2	\x0e\0\x03\x02\0\0はがねタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title080_Info1	\x0e\0\x03\x02\0\0ノーマルタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title080_Info2	\x0e\0\x03\x02\0\0ノーマルタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title081_Info1	\x0e\0\x03\x02\0\0ひこうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title081_Info2	\x0e\0\x03\x02\0\0ひこうタイプ\x0e\0\x03\x02ÿÿのポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title082_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title082_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title083_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title083_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title084_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title084_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
-Title085_Info1	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title085_Info2	ポケモンを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類\nフォト図鑑に　登録した
+Title037_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title037_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title038_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title038_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title039_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title039_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title040_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title040_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title041_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title041_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title042_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title042_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title043_Info1	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title043_Info2	写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title044_Info1	一度の調査で　{color[0000]}★3{color[ffff]}の写真を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　撮影しよう
+Title044_Info2	一度の調査で　{color[0000]}★3{color[ffff]}の写真を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　撮影した
+Title045_Info1	一度の調査で　{color[0000]}★4{color[ffff]}の写真を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　撮影しよう
+Title045_Info2	一度の調査で　{color[0000]}★4{color[ffff]}の写真を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　撮影した
+Title046_Info1	同じ　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title046_Info2	同じ　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚　博士に見せた
+Title047_Info2	主役のいない写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚　撮影した
+Title048_Info1	移動している　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title048_Info2	移動している　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title049_Info1	食事している　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title049_Info2	食事している　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title050_Info1	喜んでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title050_Info2	喜んでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title051_Info1	特別な行動をしている　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title051_Info2	特別な行動をしている　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title052_Info1	寝ている　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title052_Info2	寝ている　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title053_Info1	泳いでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title053_Info2	泳いでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title054_Info1	飛んでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title054_Info2	飛んでいる　ポケモンの写真を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類　博士に見せた
+Title056_Info1	{color[0000]}★1{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title056_Info2	{color[0000]}★1{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title057_Info1	{color[0000]}★2{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title057_Info2	{color[0000]}★2{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title058_Info1	{color[0000]}★3{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title058_Info2	{color[0000]}★3{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title059_Info1	{color[0000]}★4{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title059_Info2	{color[0000]}★4{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title062_Info1	評価が　{color[0000]}金{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title062_Info2	評価が　{color[0000]}金{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title063_Info1	評価が　{color[0000]}ダイヤモンド{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title063_Info2	評価が　{color[0000]}ダイヤモンド{color[ffff]}の写真を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}枚\n撮影した
+Title064_Info1	{color[0000]}むしタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title064_Info2	{color[0000]}むしタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title065_Info1	{color[0000]}でんきタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title065_Info2	{color[0000]}でんきタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title066_Info1	{color[0000]}みずタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title066_Info2	{color[0000]}みずタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title067_Info1	{color[0000]}あくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title067_Info2	{color[0000]}あくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title068_Info1	{color[0000]}フェアリータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title068_Info2	{color[0000]}フェアリータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title069_Info1	{color[0000]}くさタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title069_Info2	{color[0000]}くさタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title070_Info1	{color[0000]}ほのおタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title070_Info2	{color[0000]}ほのおタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title071_Info1	{color[0000]}エスパータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title071_Info2	{color[0000]}エスパータイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title072_Info1	{color[0000]}ゴーストタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title072_Info2	{color[0000]}ゴーストタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title073_Info1	{color[0000]}どくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title073_Info2	{color[0000]}どくタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title074_Info1	{color[0000]}かくとうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title074_Info2	{color[0000]}かくとうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title075_Info1	{color[0000]}じめんタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title075_Info2	{color[0000]}じめんタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title076_Info1	{color[0000]}いわタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title076_Info2	{color[0000]}いわタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title077_Info1	{color[0000]}ドラゴンタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title077_Info2	{color[0000]}ドラゴンタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title078_Info1	{color[0000]}こおりタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title078_Info2	{color[0000]}こおりタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title079_Info1	{color[0000]}はがねタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title079_Info2	{color[0000]}はがねタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title080_Info1	{color[0000]}ノーマルタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title080_Info2	{color[0000]}ノーマルタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title081_Info1	{color[0000]}ひこうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title081_Info2	{color[0000]}ひこうタイプ{color[ffff]}のポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title082_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title082_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title083_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title083_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title084_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title084_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
+Title085_Info1	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title085_Info2	ポケモンを　{color[0000]}{[0301|00cd]}{color[ffff]}種類\nフォト図鑑に　登録した
 Title086_Info1	ポケモンを　すべて\nフォト図鑑に　登録しよう
 Title086_Info2	ポケモンを　すべて\nフォト図鑑に　登録した
-Title087_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title087_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させた
-Title088_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title088_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させた
-Title089_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title089_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させた
-Title090_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title090_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ種類　完成させた
+Title087_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title087_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させた
+Title088_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title088_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させた
+Title089_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title089_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させた
+Title090_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title090_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nポケモン{color[0000]}{[0301|00cd]}{color[ffff]}種類　完成させた
 Title091_Info1	★1～4の写真を　埋めて　フォト図鑑情報を\nすべてのポケモン　完成させよう
 Title091_Info2	★1～4の写真を　埋めて　フォト図鑑情報を\nすべてのポケモン　完成させた
-Title092_Info1	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title092_Info2	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させた
-Title093_Info1	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title093_Info2	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させた
-Title094_Info1	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title094_Info2	ルートの　調査マップを　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ個\n完成させた
+Title092_Info1	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title092_Info2	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させた
+Title093_Info1	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title093_Info2	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させた
+Title094_Info1	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title094_Info2	ルートの　調査マップを　{color[0000]}{[0301|00cd]}{color[ffff]}個\n完成させた
 Title095_Info1	すべてのルートの　調査マップを\n完成させよう
 Title095_Info2	すべてのルートの　調査マップを\n完成させた
-Title096_Info1	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録しよう
-Title096_Info2	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録した
-Title097_Info1	\x0e\0\x03\x02\0\0古代遺跡\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録しよう
-Title097_Info2	\x0e\0\x03\x02\0\0古代遺跡\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録した
-Title099_Info1	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title099_Info2	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title100_Info1	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title100_Info2	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title101_Info1	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title101_Info2	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title102_Info1	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title102_Info2	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title103_Info1	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title103_Info2	総合図鑑スコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title104_Info1	写真評価で　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上のスコアを\n獲得しよう
-Title104_Info2	写真評価で　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上のスコアを\n獲得した
-Title105_Info1	写真評価で　\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上のスコアを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title105_Info2	写真評価で　\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上のスコアを\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title106_Info1	写真評価で　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得しよう
-Title106_Info2	写真評価で　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得した
-Title107_Info1	写真評価で　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title107_Info2	写真評価で　「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title108_Info1	写真評価で　「\x0e\0\x03\x02\0\0大きさ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得しよう
-Title108_Info2	写真評価で　「\x0e\0\x03\x02\0\0大きさ\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得した
-Title109_Info1	写真評価で　「\x0e\0\x03\x02\0\0大きさ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title109_Info2	写真評価で　「\x0e\0\x03\x02\0\0大きさ\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title110_Info1	写真評価で　「\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得しよう
-Title110_Info2	写真評価で　「\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得した
-Title111_Info1	写真評価で　「\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title111_Info2	写真評価で　「\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title112_Info1	写真評価で　「\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得しよう
-Title112_Info2	写真評価で　「\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得した
-Title113_Info1	写真評価で　「\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title113_Info2	写真評価で　「\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title114_Info1	写真評価で　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得しよう
-Title114_Info2	写真評価で　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」のスコアを\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上　獲得した
-Title115_Info1	写真評価で　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title115_Info2	写真評価で　「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\nトータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回　獲得した
-Title116_Info1	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title116_Info2	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title117_Info1	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title117_Info2	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title118_Info1	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title118_Info2	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title119_Info1	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title119_Info2	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title120_Info1	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成しよう
-Title120_Info2	総合ルートスコア　\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ点以上を\n達成した
-Title121_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ箇所\n分析しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title121_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ箇所\n分析した
-Title122_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ箇所\n分析しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title122_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ箇所\n分析した
-Title123_Info1	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　すべての調査箇所を\n分析しよう
-Title123_Info2	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って　すべての調査箇所を\n分析した
-Title124_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title124_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせた
-Title125_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title125_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせた
-Title126_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title126_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nポケモンに　食べさせた
-Title129_Info1	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm\nポケモンを　誘導しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title129_Info2	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm\nポケモンを　誘導した
-Title136_Info1	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nクリスタフラワーを　発光させよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title136_Info2	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを使って　トータルで\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ回\nクリスタフラワーを　発光させた
-Title137_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title137_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿した
-Title138_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title138_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿した
-Title139_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿しよう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title139_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\n写真を　投稿した
-Title140_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　贈ろう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title140_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　贈った
-Title141_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title141_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらった
-Title142_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title142_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらった
-Title143_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title143_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらった
-Title144_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title144_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらった
-Title145_Info1	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらおう（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title145_Info2	オンラインで　トータル\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚\nりんごメダルを　もらった
-Title146_Info2	\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0ルギアの住処に　続くルート\x0e\0\x03\x02ÿÿを\n発見した
-Title147_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ハガネール\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Title148_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0メガニウム\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Title149_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ミロカロス\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Title150_Info2	イルミナポケモンの　\x0e\0\x03\x02\0\0ヨワシ（むれたすがた）\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Title151_Info1	模様の異なる　\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿを　すべて\n撮影しよう
-Title151_Info2	模様の異なる　\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿを　すべて\n撮影した
-Title152_Info1	\x0e\0\x03\x02\0\0イーブイ\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0イーブイから進化するポケモン\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録しよう
-Title152_Info2	\x0e\0\x03\x02\0\0イーブイ\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0イーブイから進化するポケモン\x0e\0\x03\x02ÿÿを　すべて\nフォト図鑑に　登録した
+Title096_Info1	{color[0000]}クリスタフラワー{color[ffff]}を　すべて\nフォト図鑑に　登録しよう
+Title096_Info2	{color[0000]}クリスタフラワー{color[ffff]}を　すべて\nフォト図鑑に　登録した
+Title097_Info1	{color[0000]}古代遺跡{color[ffff]}を　すべて\nフォト図鑑に　登録しよう
+Title097_Info2	{color[0000]}古代遺跡{color[ffff]}を　すべて\nフォト図鑑に　登録した
+Title099_Info1	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title099_Info2	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title100_Info1	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title100_Info2	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title101_Info1	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title101_Info2	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title102_Info1	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title102_Info2	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title103_Info1	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title103_Info2	総合図鑑スコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title104_Info1	写真評価で　{color[0000]}{[0301|00cd]}{color[ffff]}点以上のスコアを\n獲得しよう
+Title104_Info2	写真評価で　{color[0000]}{[0301|00cd]}{color[ffff]}点以上のスコアを\n獲得した
+Title105_Info1	写真評価で　{color[0000]}{[0303|00cd]}{color[ffff]}点以上のスコアを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title105_Info2	写真評価で　{color[0000]}{[0303|00cd]}{color[ffff]}点以上のスコアを\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title106_Info1	写真評価で　「{color[0000]}ポーズ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得しよう
+Title106_Info2	写真評価で　「{color[0000]}ポーズ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得した
+Title107_Info1	写真評価で　「{color[0000]}ポーズ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title107_Info2	写真評価で　「{color[0000]}ポーズ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title108_Info1	写真評価で　「{color[0000]}大きさ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得しよう
+Title108_Info2	写真評価で　「{color[0000]}大きさ{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得した
+Title109_Info1	写真評価で　「{color[0000]}大きさ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title109_Info2	写真評価で　「{color[0000]}大きさ{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title110_Info1	写真評価で　「{color[0000]}向き{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得しよう
+Title110_Info2	写真評価で　「{color[0000]}向き{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得した
+Title111_Info1	写真評価で　「{color[0000]}向き{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title111_Info2	写真評価で　「{color[0000]}向き{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title112_Info1	写真評価で　「{color[0000]}位置{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得しよう
+Title112_Info2	写真評価で　「{color[0000]}位置{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得した
+Title113_Info1	写真評価で　「{color[0000]}位置{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title113_Info2	写真評価で　「{color[0000]}位置{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title114_Info1	写真評価で　「{color[0000]}ほかのポケモン{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得しよう
+Title114_Info2	写真評価で　「{color[0000]}ほかのポケモン{color[ffff]}」のスコアを\n{color[0000]}{[0301|00cd]}{color[ffff]}点以上　獲得した
+Title115_Info1	写真評価で　「{color[0000]}ほかのポケモン{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title115_Info2	写真評価で　「{color[0000]}ほかのポケモン{color[ffff]}」{color[0000]}{[0303|00cd]}{color[ffff]}点以上を\nトータルで{color[0000]}{[0301|00cd]}{color[ffff]}回　獲得した
+Title116_Info1	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title116_Info2	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title117_Info1	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title117_Info2	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title118_Info1	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title118_Info2	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title119_Info1	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title119_Info2	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title120_Info1	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成しよう
+Title120_Info2	総合ルートスコア　{color[0000]}{[0301|00cd]}{color[ffff]}点以上を\n達成した
+Title121_Info1	{color[0000]}サーチ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}箇所\n分析しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title121_Info2	{color[0000]}サーチ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}箇所\n分析した
+Title122_Info1	{color[0000]}サーチ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}箇所\n分析しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title122_Info2	{color[0000]}サーチ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}箇所\n分析した
+Title123_Info1	{color[0000]}サーチ{color[ffff]}を使って　すべての調査箇所を\n分析しよう
+Title123_Info2	{color[0000]}サーチ{color[ffff]}を使って　すべての調査箇所を\n分析した
+Title124_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title124_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせた
+Title125_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title125_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせた
+Title126_Info1	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title126_Info2	{color[0000]}ふわりんご{color[ffff]}を　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nポケモンに　食べさせた
+Title129_Info1	{color[0000]}ふわりんご{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}km\nポケモンを　誘導しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title129_Info2	{color[0000]}ふわりんご{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}km\nポケモンを　誘導した
+Title136_Info1	{color[0000]}イルミナオーブ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nクリスタフラワーを　発光させよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title136_Info2	{color[0000]}イルミナオーブ{color[ffff]}を使って　トータルで{color[0000]}{[0301|00cd]}{color[ffff]}回\nクリスタフラワーを　発光させた
+Title137_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title137_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿した
+Title138_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title138_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿した
+Title139_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿しよう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title139_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\n写真を　投稿した
+Title140_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　贈ろう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title140_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　贈った
+Title141_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title141_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらった
+Title142_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title142_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらった
+Title143_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title143_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらった
+Title144_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title144_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらった
+Title145_Info1	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらおう（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title145_Info2	オンラインで　トータル{color[0000]}{[0301|00cd]}{color[ffff]}枚\nりんごメダルを　もらった
+Title146_Info2	{color[0000]}レンティル海床{color[ffff]}で　{color[0000]}ルギアの住処に　続くルート{color[ffff]}を\n発見した
+Title147_Info2	イルミナポケモンの　{color[0000]}ハガネール{color[ffff]}を\nフォト図鑑に　登録した
+Title148_Info2	イルミナポケモンの　{color[0000]}メガニウム{color[ffff]}を\nフォト図鑑に　登録した
+Title149_Info2	イルミナポケモンの　{color[0000]}ミロカロス{color[ffff]}を\nフォト図鑑に　登録した
+Title150_Info2	イルミナポケモンの　{color[0000]}ヨワシ（むれたすがた）{color[ffff]}を\nフォト図鑑に　登録した
+Title151_Info1	模様の異なる　{color[0000]}ビビヨン{color[ffff]}を　すべて\n撮影しよう
+Title151_Info2	模様の異なる　{color[0000]}ビビヨン{color[ffff]}を　すべて\n撮影した
+Title152_Info1	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イーブイから進化するポケモン{color[ffff]}を　すべて\nフォト図鑑に　登録しよう
+Title152_Info2	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イーブイから進化するポケモン{color[ffff]}を　すべて\nフォト図鑑に　登録した
 MySpaceTitle_Name.msbt
 Title001_Name	撮影体験会
 Title002_Name	ダム完成
@@ -2443,7 +2443,7 @@ MySpaceTitle_UI.msbt
 MySpaceTitle_Top_Help	確認したい　調査称号を　選んでください
 MySpaceTitle_Top_Head	調査称号
 MySpaceTitle_Top_AchievementCondition_Tx	達成条件
-MySpaceTitle_Top_AchievementDate_Num	\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ 達成！
+MySpaceTitle_Top_AchievementDate_Num	{color[0800]}{[0301|00cd]}{color[ffff]} 達成！
 MySpaceTop_UI.msbt
 MySpaceTop_Top_Head	マイスペース
 MySpaceTop_Top_Help	メニュー項目を　選んでください
@@ -2535,7 +2535,7 @@ Online_Top_PopularPhoto_Tx	いま人気の写真！
 Online_Top_PopularPhoto_Help	多くの　りんごメダルを　獲得している写真を　確認します
 Online_Top_RecommendPhoto_Tx	あなたにオススメ！
 Online_Top_RecommendPhoto_Help	あなたにオススメの写真を　確認します
-Online_Top_Event01_Tx	注目のルート！　\x0e\x03\x01\x02\0Í
+Online_Top_Event01_Tx	注目のルート！　{[0301|00cd]}
 Online_Top_Event01_Help	いま　注目のルートで　撮影された写真を　確認します
 Online_Top_AllLang_Help	世界中の人が　撮った写真を　表示します
 Online_Top_YourLang_Help	あなたと　同じ言語で　遊んでいる人が　撮った写真を　表示します
@@ -2664,13 +2664,13 @@ HowToPlay_Operation_Head	操作方法
 HowToPlay_Operation_Page1_Tx	1
 HowToPlay_Operation_Page2_Tx	1/5
 HowToPlay_Operation1_Info	残り撮影枚数が　0になると\n調査終了だよ！
-HowToPlay_Operation2_Info	このアイコンが出たら　近くに何かあるよ。\n\x0e\x03\x01\x02\0Í でサーチして　あたりを見まわしてみよう！
+HowToPlay_Operation2_Info	このアイコンが出たら　近くに何かあるよ。\n{[0301|00cd]} でサーチして　あたりを見まわしてみよう！
 HowToPlay_Photograph_Head	写真の撮り方
 HowToPlay_Photograph_Page1_Tx	2
 HowToPlay_Photograph_Page2_Tx	2/5
-HowToPlay_Photograph1_Info	\x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í でカメラを動かして\nポケモンを見つけたら･･････
-HowToPlay_Photograph2_Info	\x0e\x03\x01\x02\0Í で撮影！！
-HowToPlay_Photograph3_Info	\x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í でズームもできるよ！
+HowToPlay_Photograph1_Info	{[0301|00cd]} {[0302|00cd]} でカメラを動かして\nポケモンを見つけたら･･････
+HowToPlay_Photograph2_Info	{[0301|00cd]} で撮影！！
+HowToPlay_Photograph3_Info	{[0301|00cd]} {[0302|00cd]} でズームもできるよ！
 HowToPlay_PhotographTips_Head	撮影のコツ
 HowToPlay_PhotographTips_Page1_Tx	3
 HowToPlay_PhotographTips_Page2_Tx	3/5
@@ -3098,9 +3098,9 @@ PictureBookMap_StageSelect_Head	レンティルマップ
 PictureBookMap_StageSelect_Help	確認したいエリアを　選んでください
 PictureBookMap_CourseSelect_Help	確認したいルートを　選んでください
 PictureBookMap_CourseSelect_CourseLv_Tx	調査レベル
-PictureBookMap_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+PictureBookMap_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 PictureBookMap_CourseSelect_CourseLvMax_Num	Lv. MAX
-PictureBookMap_CourseSelect_NextLv_Num	次のレベルまであと  \x0e\0\x03\x02\n\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+PictureBookMap_CourseSelect_NextLv_Num	次のレベルまであと  {color[0a00]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 PictureBookMap_CourseSelect_HighScore_Tx	ハイスコア
 PictureBookMap_EcologySelect_Help	  で　地図の拡大や　縮小ができます
 PictureBookPoke_UI.msbt
@@ -4561,29 +4561,29 @@ Reward_ItemType3_Tx	「フレーム」　獲得！
 Reward_ItemType4_Tx	「フィルタ」　獲得！
 Reward_ItemType5_Tx	「調査称号」　獲得！
 Reward_ItemType6_Tx	「調査ステッカー」　獲得！
-Reward001_Reward_Info	リクエスト「\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ」\nを　達成した
-Reward002_Reward_Info	調査称号「\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ」\nを　獲得した
-Reward003_Reward_Info	すべての島の　\x0e\0\x03\x02\0\0調査ステッカー\x0e\0\x03\x02ÿÿを\n獲得した
-Reward004_Reward_Info	\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward005_Reward_Info	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward006_Reward_Info	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward007_Reward_Info	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward008_Reward_Info	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward009_Reward_Info	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\nフォト図鑑に　登録した
-Reward010_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿを\n初めて　調査した
-Reward011_Reward_Info	\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward012_Reward_Info	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward013_Reward_Info	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward014_Reward_Info	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward015_Reward_Info	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward016_Reward_Info	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを\n手に入れた
-Reward017_Reward_Info	レンティル地方の　\x0e\0\x03\x02\0\0調査隊\x0e\0\x03\x02ÿÿに\n正式に　加入した
-Reward018_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿの\n調査レベルが　\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿになった
-Reward019_Reward_Info	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0春の季節\x0e\0\x03\x02ÿÿを\n発見した
-Reward020_Reward_Info	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0夏の季節\x0e\0\x03\x02ÿÿを\n発見した
-Reward021_Reward_Info	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0秋の季節\x0e\0\x03\x02ÿÿを\n発見した
-Reward022_Reward_Info	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0冬の季節\x0e\0\x03\x02ÿÿを\n発見した
-Reward023_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿの\n調査レベルが　\x0e\0\x03\x02\0\0MAX\x0e\0\x03\x02ÿÿになった
+Reward001_Reward_Info	リクエスト「{color[0000]}{[0301|00cd]}{color[ffff]}」\nを　達成した
+Reward002_Reward_Info	調査称号「{color[0000]}{[0301|00cd]}{color[ffff]}」\nを　獲得した
+Reward003_Reward_Info	すべての島の　{color[0000]}調査ステッカー{color[ffff]}を\n獲得した
+Reward004_Reward_Info	{color[0000]}フロレオ島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward005_Reward_Info	{color[0000]}ベラス島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward006_Reward_Info	{color[0000]}コピア諸島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward007_Reward_Info	{color[0000]}ボルク島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward008_Reward_Info	{color[0000]}デュラス島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward009_Reward_Info	{color[0000]}アウラム島{color[ffff]}の　{color[0000]}クリスタフラワー{color[ffff]}を\nフォト図鑑に　登録した
+Reward010_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}を\n初めて　調査した
+Reward011_Reward_Info	{color[0000]}フロレオ島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward012_Reward_Info	{color[0000]}ベラス島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward013_Reward_Info	{color[0000]}コピア諸島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward014_Reward_Info	{color[0000]}ボルク島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward015_Reward_Info	{color[0000]}デュラス島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward016_Reward_Info	{color[0000]}アウラム島{color[ffff]}の　{color[0000]}イルミナオーブ{color[ffff]}を\n手に入れた
+Reward017_Reward_Info	レンティル地方の　{color[0000]}調査隊{color[ffff]}に\n正式に　加入した
+Reward018_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\n調査レベルが　{color[0000]}{[0302|00cd]}{color[ffff]}になった
+Reward019_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}春の季節{color[ffff]}を\n発見した
+Reward020_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}夏の季節{color[ffff]}を\n発見した
+Reward021_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}秋の季節{color[ffff]}を\n発見した
+Reward022_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}冬の季節{color[ffff]}を\n発見した
+Reward023_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\n調査レベルが　{color[0000]}MAX{color[ffff]}になった
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	おーい！\nこっちこっち！
 SD_01_01_cs_002	やぁ
@@ -4596,9 +4596,9 @@ SD_07_01_cs_001	すごいことが　起きたんだ。
 SD_07_01_cs_002	まずは　これを見てくれ。
 CD_001_1C_00_001	反応があったのは\nその辺りなんだけど･･････
 CD_001_1C_00_002	ちょっと\nまわりを　見てもらえるかな？
-CD_001_1C_00_003	そのメガニウムが　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだ！\n撮影を頼む！
+CD_001_1C_00_003	そのメガニウムが　{color[0000]}イルミナポケモン{color[ffff]}だ！\n撮影を頼む！
 SD_09_02_cs_001	よし！
-SD_09_02_cs_002	では　その証に\nこの\x0e\0\x03\x02\0\0クルーバッジ\x0e\0\x03\x02ÿÿをあげよう！
+SD_09_02_cs_002	では　その証に\nこの{color[0000]}クルーバッジ{color[ffff]}をあげよう！
 SD_11_01_cs_005	うしろ　うしろ！　そっちそっち！
 SD_11_01_cs_006	ほら　がんばって！
 SD_11_01_cs_001	やっと来たか
@@ -4616,7 +4616,7 @@ CD_006_3A_00_003	そのミロカロスを　追ってくれ！
 SD_15_01_cs_001	では　始めようか。
 CD_008_3A_00_001	うーん　さすがに\n溶岩の中　ってことは･･････
 CD_008_3A_00_002	ウルガモスが2匹･･････
-CD_008_3A_00_003	まさか　イルミナポケモンが\n\x0e\0\x03\x02\0\02匹\x0e\0\x03\x02ÿÿだったとは･･････
+CD_008_3A_00_003	まさか　イルミナポケモンが\n{color[0000]}2匹{color[ffff]}だったとは･･････
 CD_008_3A_00_004	横穴に　入っていったぞ！
 CD_008_3A_00_005	追いかけよう！
 SD_17_01_cs_004	いーじゃん　それ！
@@ -4632,7 +4632,7 @@ CD_010_3A_01_002	戻ってくる前に　ちょっと\n寄り道してもらっ�
 CD_010_3A_01_003	さっき　ハガネールを　追いかけているとき\n気になることがあって･･････
 CD_010_3A_01_004	途中　壊れた　壁の奥に･･････
 CD_010_3A_01_005	大きな空間が　あるみたいなんだ。
-CD_010_3A_01_006	サーチの結果　それは\n\x0e\0\x03\x02\0\0人工のモノ\x0e\0\x03\x02ÿÿと出ている。
+CD_010_3A_01_006	サーチの結果　それは\n{color[0000]}人工のモノ{color[ffff]}と出ている。
 CD_010_3A_01_007	これは　行ってみるしかないよね。
 CD_010_3A_01_008	わぁ\nここは何なの？？　博士。
 CD_010_3A_01_009	･･････
@@ -4648,7 +4648,7 @@ CD_011_1A_00_005	その先で　転送スポットを　固定するから\nい�
 CD_011_3A_00_001	すごく弱いけど　反応の正体は\nそれのようだね。
 CD_011_3A_00_002	これは　なんだろう･･････？？
 CD_011_3A_00_003	すごい　今までに\n見たことのないほどの　反応だ！
-CD_011_3A_00_004	僕らが　探し求めてきた\n最後の\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだ！
+CD_011_3A_00_004	僕らが　探し求めてきた\n最後の{color[0000]}イルミナポケモン{color[ffff]}だ！
 CD_011_3A_00_005	頼んだぞ！
 CD_011_3A_01_003	どうなっちゃったの？？
 CD_011_3A_01_005	話は･･････\n戻ってからにしようか。
@@ -5304,10 +5304,10 @@ C006_0190	ニューポケモンスナップ！
 C006_0191	ニューポケモンスナップ！
 C006_0192	ニューポケモンスナップ！
 ScenarioHudNavi_Lines.msbt
-VC_001_1A_s00_001	そこは　\x0e\0\x03\x02\0\0フロレオ自然公園\x0e\0\x03\x02ÿÿの　入口だよ。
+VC_001_1A_s00_001	そこは　{color[0000]}フロレオ自然公園{color[ffff]}の　入口だよ。
 VC_001_1A_s00_002	ネオワン号は　自動でルートを\n判別して　進むんだ。
 VC_001_1A_s00_003	キミは　まわりをよく見て\n撮影に　集中すればOKだよ！
-VC_001_1A_e00_001	それは　\x0e\0\x03\x02\0\0転送マーカー\x0e\0\x03\x02ÿÿといって\nベースキャンプに戻るための　目印なんだ。
+VC_001_1A_e00_001	それは　{color[0000]}転送マーカー{color[ffff]}といって\nベースキャンプに戻るための　目印なんだ。
 VC_001_1A_e00_002	わかりやすく言うと　ゴールかな。
 VC_001_1A_e00_003	戻ってきたら　撮った写真を\n見せてもらうよ！
 VC_001_1A_e01_001	あ　ビッパの巣が　できてる！\n丈夫だから　上も通れるんだって。
@@ -5317,12 +5317,12 @@ VC_001_1B_e00_001	聞こえる？　今　その近くで\nすごいエネルギ
 VC_001_1B_e00_002	博士が　慌てて　データを調べてるから\n戻ったら　話を聞いてみようね。
 VC_001_1C_e00_001	行ってしまったようだね。
 VC_001_1C_e00_002	エネルギー反応も　消えたので\n戻ってきてから　話そうか。
-VC_005_1A_s00_001	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿに　初上陸！\nまさにジャングルだね。
+VC_005_1A_s00_001	{color[0000]}ベラス島{color[ffff]}に　初上陸！\nまさにジャングルだね。
 VC_005_1A_s00_002	ポケモンたちを　よ～く探して\n調査　頼んだよ！
 VC_005_1A_e01_001	よく見つけたな。\n沼のポケモンに　近付けるぞ！
 VC_005_1A_e02_001	わー　滝の裏側に　行けるみたいだよ。\nどう見えるのかな？
 VC_005_1B_s00_001	かなりの暗さだね。\nポケモンを見つけるのも　大変そうだ。
-VC_005_1B_s00_002	光った状態の　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを\n探してみてくれ。
+VC_005_1B_s00_002	光った状態の　{color[0000]}クリスタフラワー{color[ffff]}を\n探してみてくれ。
 VC_006_1A_s00_001	霧が　ずいぶん　深いようだね。
 VC_006_1A_s00_002	通信も　少し　不安定かな。\n慎重に行こう。
 VC_006_1A_e00_001	これって　春に咲く　花だよね？\n急に　春になっちゃったの？？
@@ -5347,7 +5347,7 @@ VC_004_1A_e01_001	追ってみようぜ！\nこの先に　絶対　何かいる
 VC_004_3A_e00_001	大丈夫！？
 VC_004_3A_e00_002	よかった～。
 VC_004_3A_e00_003	ネオワン号も　異常はないよ！
-VC_004_3A_e00_004	今のが　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだと思う。
+VC_004_3A_e00_004	今のが　{color[0000]}イルミナポケモン{color[ffff]}だと思う。
 VC_004_3A_e00_005	このまま　追えるかな？
 VC_004_3A_e00_006	よし！\n周囲を　注意深く　探してくれ！
 VC_004_3A_e01_001	今回は　ちょっとびっくりしたね。
@@ -5393,7 +5393,7 @@ VC_010_3A_e00_007	小惑星が　衝突したのと　同じ時期に\n描かれ
 VC_010_3A_e00_008	すごい！　これは大発見だよ！
 VC_010_3A_e00_009	昔の人が　見たことが　描かれているの？
 VC_010_3A_e00_010	落ちてくる　隕石から\nポケモンたちが　守ってくれてるのかな？
-VC_010_3A_e00_011	ん　ポケモンたちの　この模様は･･････\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿ？
+VC_010_3A_e00_011	ん　ポケモンたちの　この模様は･･････\n{color[0000]}イルミナポケモン{color[ffff]}？
 VC_010_3A_e00_012	つまり　隕石の　落下の前に\nイルミナポケモンがいた？
 VC_010_3A_e00_013	そして　この中央には　6匹目の\nイルミナポケモンが･･････？
 VC_010_3A_e00_014	･･････
@@ -5403,7 +5403,7 @@ VC_010_3A_e00_017	ごめん　ごめん。
 VC_010_3A_e00_018	ちょっと　考え込んでしまった･･････。
 VC_010_3A_e00_019	データは　一通り　取れたので\n一度　戻ってから　整理しよう。
 VC_010_3A_e01_001	反応が　遠ざかっていくよ。
-VC_010_3A_e01_002	\x0e\0\x03\x02\0\0イルミナ状態\x0e\0\x03\x02ÿÿは　撮れなかったようだね。\n一度　戻ってこようか。
+VC_010_3A_e01_002	{color[0000]}イルミナ状態{color[ffff]}は　撮れなかったようだね。\n一度　戻ってこようか。
 VC_010_3A_e02_001	絶対　中にいるよね？\nまわりの穴に　ふわりんごを　投げてみて！
 VC_010_3A_e02_002	大きいから　イルミナオーブを\n何個も　当てないと　ダメなのかも･･････。
 VC_010_3A_e02_003	下にいそう！　サーチしてみて！\nふわりんごで　出てきてくれるかな？
@@ -5411,7 +5411,7 @@ VC_010_3A_e02_004	光る模様が　現れたら\nすぐ撮ってね！
 VC_011_1A_s00_001	かなり　大きな　遺跡みたいだね。
 VC_011_1A_s00_002	反応があったのは　その奥だよ。\n慎重にね。
 VC_011_3A_e00_001	反応は　消えてしまったようだ。
-VC_011_3A_e00_002	\x0e\0\x03\x02\0\0イルミナ状態\x0e\0\x03\x02ÿÿの　ゼルネアスは撮れなかったね。\n一度　戻ってこようか。
+VC_011_3A_e00_002	{color[0000]}イルミナ状態{color[ffff]}の　ゼルネアスは撮れなかったね。\n一度　戻ってこようか。
 VC_011_3A_e01_001	そのオーラに　イルミナオーブを当てると\nどうなるかな？
 VC_011_3A_e01_002	イルミナオーブなら　ゼルネアスに\nエネルギーを　与えられるかもしれない･･････。
 VC_011_3A_e01_003	光る模様が　出たら\nその様子の　撮影を頼むよ！
@@ -5515,27 +5515,27 @@ VC_Com_SearchAnalysis_037	さっきあった　各島のクリスタフラワー
 VC_Com_SearchAnalysis_038	真ん中は　ゼルネアスだったんだね･･････
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	やぁ　よく来たね。
-SD_01_02_sk_015	\x0e\0\x03\x02\0\0レンティル ポケモン自然科学研究所\x0e\0\x03\x02ÿÿへ\nようこそ！
-SD_01_02_sk_002	僕の名前は　\x0e\0\x03\x02\0\0カガミ\x0e\0\x03\x02ÿÿ。 
-SD_01_02_sk_003	ここ　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿで　ポケモンや\n自然環境について　研究しているよ。
-SD_01_02_sk_004	博士はね　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの\nほかの島も　ぜーんぶ　調べるんだって！
+SD_01_02_sk_015	{color[0000]}レンティル ポケモン自然科学研究所{color[ffff]}へ\nようこそ！
+SD_01_02_sk_002	僕の名前は　{color[0000]}カガミ{color[ffff]}。 
+SD_01_02_sk_003	ここ　{color[0000]}フロレオ島{color[ffff]}で　ポケモンや\n自然環境について　研究しているよ。
+SD_01_02_sk_004	博士はね　{color[0000]}レンティル地方{color[ffff]}の\nほかの島も　ぜーんぶ　調べるんだって！
 SD_01_02_sk_005	今まで誰も　調査してないんだよ！\nこれって　すごいことなんだから！
 SD_01_02_sk_016	ビクトルのことを　忘れてない？
-SD_01_02_sk_006	あ　そうだった！　キミも読んだよね？\n\x0e\0\x03\x02\0\0冒険家　キャプテン・ビクトル\x0e\0\x03\x02ÿÿの　お話。
+SD_01_02_sk_006	あ　そうだった！　キミも読んだよね？\n{color[0000]}冒険家　キャプテン・ビクトル{color[ffff]}の　お話。
 SD_01_02_sk_007	でも　100年ぶりなんだから\nやっぱり　博士　すごいよ！
 SD_01_02_sk_008	ありがとう。
-SD_01_02_sk_009	彼女は　\x0e\0\x03\x02\0\0リタ\x0e\0\x03\x02ÿÿ。　親友の　お嬢さんで\n学校が　休みのあいだ　遊びに来てるんだ。
+SD_01_02_sk_009	彼女は　{color[0000]}リタ{color[ffff]}。　親友の　お嬢さんで\n学校が　休みのあいだ　遊びに来てるんだ。
 SD_01_02_sk_010	はかせ！　遊びじゃなく　”じょーしゅ”！
 SD_01_02_sk_011	そうだったね。\nいつも　助かっているよ。
 SD_01_02_sk_012	では　今回の　体験会について\n説明しようと　思うんだけど･･････
 SD_01_02_sk_013	まずは　一息つくために\n研究室の中に　行こうか。
 SD_01_02_sk_014	はーい！\nじゃ　わたしが案内するね！
 SD_01_03_sk_001	では　あらためて　説明しよう。
-SD_01_03_sk_002	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿにも　たくさんのポケモンたちが\n暮らしているよね。
+SD_01_03_sk_002	{color[0000]}レンティル地方{color[ffff]}にも　たくさんのポケモンたちが\n暮らしているよね。
 SD_01_03_sk_003	かれらを　撮影することで\nポケモンの生態や　自然のことを　もっと理解する。
 SD_01_03_sk_004	･･････というのが\n今回の体験会の　目的だよ。
-SD_01_03_sk_005	夜には　\x0e\0\x03\x02\0\0光っているポケモン\x0e\0\x03\x02ÿÿに会えるかもよ。\nすっごくキレイなんだから。
-SD_01_03_sk_006	ではさっそく\nこの\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿを　キミにあげよう。
+SD_01_03_sk_005	夜には　{color[0000]}光っているポケモン{color[ffff]}に会えるかもよ。\nすっごくキレイなんだから。
+SD_01_03_sk_006	ではさっそく\nこの{color[0000]}リサーチカメラ{color[ffff]}を　キミにあげよう。
 SD_01_03_sk_007	わたしも　同じの持ってるよ。\nメンバー同士で　通信もできるから　よろしくね。
 SD_01_03_sk_008	撮影だけでなく　通信や　データ分析もできる\n調査専用のカメラなんだ。
 SD_01_03_sk_009	キミのIDにもなっているから　大事にしてね。
@@ -5546,7 +5546,7 @@ SD_01_04b_sk_004	では　助手に　お願いしようかな。\n僕は　別�
 SD_01_04b_sk_005	はーい！\nじゃ　さっそく　外に行こう！
 SD_01_06_sk_001	準備は　整ったね。
 SD_01_06_sk_002	このポッドで　移動しながら\n撮影を　行うんだ。
-SD_01_06_sk_003	名前は　\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿっていうんだよ！
+SD_01_06_sk_003	名前は　{color[0000]}ネオワン号{color[ffff]}っていうんだよ！
 SD_01_06_sk_004	遠く　離れた場所にも　一瞬で行けちゃう\nすごい乗り物なんだから。
 SD_01_06_sk_005	ある人に　協力してもらって\n最近　ようやく完成したんだ。
 SD_01_06_sk_006	レンティル地方にはね　高いエネルギー反応が\n点在していて･･････
@@ -5555,7 +5555,7 @@ SD_01_06_sk_008	うん　では　ネオワン号に乗って\nカメラをか�
 SD_03_01_sk_001	さて　これで一通り　説明できたかな。
 SD_03_01_sk_002	夜の撮影は　まだなの？
 SD_03_01_sk_003	それは　もう少し　慣れてきてからね。
-SD_03_01_sk_004	あと　\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿへは　いつ来てもいいよ。\n\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿの確認も　大事だからね。
+SD_03_01_sk_004	あと　{color[0000]}研究室{color[ffff]}へは　いつ来てもいいよ。\n{color[0000]}フォト図鑑{color[ffff]}の確認も　大事だからね。
 SD_03_01_sk_005	行ったときに　わたしが説明するね。
 SD_03_01_sk_006	では　引き続き\n撮影を楽しんできてね！
 SD_04_01_sk_001	ここが　博士の研究室だよ。
@@ -5565,27 +5565,27 @@ SD_04_01_sk_004	あとほとんど　住んでるみたい･･････。
 SD_04_01_sk_005	じゃ　簡単に　説明するね！
 SD_04_01_sk_006	わたしたちが　集めたデータは\nそこのサーバーに　どんどんたまっていくんだって。
 SD_04_01_sk_007	ここでは　そのデータを使って\n色んなことが　できるんだよ。
-SD_04_01_sk_008	まずは　\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_008	まずは　{color[0000]}フォト図鑑{color[ffff]}。
 SD_04_01_sk_009	自分で撮った写真で作る\n図鑑が　見れるよ。
 SD_04_01_sk_010	自分だけの　フォト図鑑って\nワクワクするでしょ！
-SD_04_01_sk_011	次に　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_011	次に　{color[0000]}マイスペース{color[ffff]}。
 SD_04_01_sk_012	ここでは　アルバムの写真を見たり\n冒険のきろくを　見れたりするよ。
-SD_04_01_sk_013	\x0e\0\x03\x02\0\0アルバムの写真\x0e\0\x03\x02ÿÿ　っていうのは\n図鑑とは別に　保存した写真のことね。
-SD_04_01_sk_014	アルバムの写真は　\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿもできるんだよ。
+SD_04_01_sk_013	{color[0000]}アルバムの写真{color[ffff]}　っていうのは\n図鑑とは別に　保存した写真のことね。
+SD_04_01_sk_014	アルバムの写真は　{color[0000]}加工{color[ffff]}もできるんだよ。
 SD_04_01_sk_015	あとは　何かあったかな？
 SD_04_01_sk_016	はかせ～。\nほか　何か　説明しておくことある？？
 SD_04_01_sk_017	オンラインについては？
 SD_04_01_sk_018	あ　まだしてない！
-SD_04_01_sk_019	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　インターネットを使って\n世界中の　友だちの写真が　見れるの。
+SD_04_01_sk_019	{color[0000]}オンライン{color[ffff]}では　インターネットを使って\n世界中の　友だちの写真が　見れるの。
 SD_04_01_sk_020	しかも　気に入った写真には\nメダルを贈ることが　できるんだよ。
-SD_04_01_sk_025	\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿ　っていって\nもらうとうれしいから　キミも贈ってみてね。
-SD_04_01_sk_021	そうだね。\nほかには　\x0e\0\x03\x02\0\0各スコアのランキング\x0e\0\x03\x02ÿÿも見れたりするよ。
+SD_04_01_sk_025	{color[0000]}りんごメダル{color[ffff]}　っていって\nもらうとうれしいから　キミも贈ってみてね。
+SD_04_01_sk_021	そうだね。\nほかには　{color[0000]}各スコアのランキング{color[ffff]}も見れたりするよ。
 SD_04_01_sk_022	よし！　これで全部かな。
 SD_04_01_sk_023	どれも　やってみれば　すぐわかるよ！
 SD_04_01_sk_024	じゃ　色々　試してみてね！
 SD_05_01_sk_001	おっ\nもう　次の撮影に　行くのかな。
 SD_05_01_sk_002	では　その前に\nリサーチカメラの機能を1つ　教えよう。
-SD_05_01_sk_003	その名も　\x0e\0\x03\x02\0\0サーチ機能\x0e\0\x03\x02ÿÿ！
+SD_05_01_sk_003	その名も　{color[0000]}サーチ機能{color[ffff]}！
 SD_05_01_sk_004	名前の通り　周囲を調査する　機能だよ。
 SD_05_01_sk_005	ポケモンの情報を　調べたり\nあやしいところを　見つけたりできるんだ。
 SD_05_01_sk_006	前にも　聞いたけど　あやしいところって？
@@ -5598,11 +5598,11 @@ SD_05_03_sk_002	リタ　ありがとう。
 SD_05_03_sk_003	サーチすると　色んなことがわかるので\n積極的に　使ってみるといいよ。
 SD_06_01_sk_001	撮影は　順調みたいだね。
 SD_06_01_sk_002	では　そろそろ\n夜の自然公園を　見に行こうか。
-SD_06_01_sk_003	レンティル地方では　\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿ\nと呼ばれる　発光現象が　起こるんだ。
+SD_06_01_sk_003	レンティル地方では　{color[0000]}イルミナ現象{color[ffff]}\nと呼ばれる　発光現象が　起こるんだ。
 SD_06_01_sk_004	博士が　その仕組みを　解明したんだよね。
 SD_06_01_sk_005	うん　でもまだ　科学的な　仕組みを\n見つけただけなんだ。
 SD_06_01_sk_006	言い伝えに出てくる　特別なポケモンを　見つけるのが\n僕の　研究の目的さ。
-SD_06_01_sk_007	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだっけ？
+SD_06_01_sk_007	{color[0000]}イルミナポケモン{color[ffff]}だっけ？
 SD_06_01_sk_008	あれって　お話の中の　ポケモンじゃないの？
 SD_06_01_sk_009	いや　ちゃんといるよ。\n冒険記の写真　見たことあるよね？
 SD_06_01_sk_010	それ　何が写ってるか　分からないよね。\nしかも　100年前とか　大昔だし･･････。
@@ -5612,7 +5612,7 @@ SD_07_02_sk_001	キミが　花畑に　近付いたとき
 SD_07_02_sk_002	ものすごいエネルギー反応が　現れたんだ。
 SD_07_02_sk_003	そして　この反応は　少しだけど\n動いている。
 SD_07_02_sk_004	つまり･･････。
-SD_07_02_sk_005	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿ！？
+SD_07_02_sk_005	{color[0000]}イルミナポケモン{color[ffff]}！？
 SD_07_02_sk_006	まだ　確定はしてないけどね。
 SD_07_02_sk_007	キミ　何か　特別なことでもしたの？
 SD_07_02_sk_008	そう　僕も　無関係とは　思えないんだ。
@@ -5625,11 +5625,11 @@ SD_08_01_sk_002	どうだった？　きれいだったよね？\nすっごく�
 SD_08_01_sk_003	リタ　少し落ち着いて。
 SD_08_01_sk_004	むー\n博士も　はしゃいでたくせに。
 SD_08_01_sk_005	･･････\nえーと
-SD_08_01_sk_006	あのメガニウムは　間違いなく\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだよ。\n言い伝えとも　一致する。
+SD_08_01_sk_006	あのメガニウムは　間違いなく{color[0000]}イルミナポケモン{color[ffff]}だよ。\n言い伝えとも　一致する。
 SD_08_01_sk_007	言い伝えって･･････\n大昔　すごい　災いが起きたとき
 SD_08_01_sk_008	イルミナポケモンのおかげで　助かった\nとかいうやつ？
 SD_08_01_sk_009	そうだね。
-SD_08_01_sk_010	そして　そのイルミナポケモンたちは\n\x0e\0\x03\x02\0\0体に模様\x0e\0\x03\x02ÿÿがあって　\x0e\0\x03\x02\0\0特別な光\x0e\0\x03\x02ÿÿを放ってた　とね。
+SD_08_01_sk_010	そして　そのイルミナポケモンたちは\n{color[0000]}体に模様{color[ffff]}があって　{color[0000]}特別な光{color[ffff]}を放ってた　とね。
 SD_08_01_sk_011	あのポケモンだ！
 SD_08_01_sk_012	ね。
 SD_08_01_sk_013	あの言い伝えは　本当に起きたことだと\n僕は　考えているんだ。
@@ -5639,7 +5639,7 @@ SD_08_01_sk_016	今日は　もう遅いので\n続きは　明日にしよう�
 SD_09_01_sk_001	おはよう。\n昨日は　よく眠れたかな？
 SD_09_01_sk_002	前に　リタも言ってたけど
 SD_09_01_sk_003	レンティル地方　全土の調査を\nちょうど　始めるとこだったんだ。
-SD_09_01_sk_004	そこに　キミが現れ\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿを　見つけることができた。
+SD_09_01_sk_004	そこに　キミが現れ\n{color[0000]}イルミナポケモン{color[ffff]}を　見つけることができた。
 SD_09_01_sk_005	何か　関係があるの？
 SD_09_01_sk_006	それは　まだ分からない。
 SD_09_01_sk_007	ただ　一緒に　調査に行けば\n何かが起こる･･････。
@@ -5661,7 +5661,7 @@ SD_10_01_sk_002	使い方は　リタ　よろしくね！
 SD_10_01_sk_003	はーい！
 SD_10_01_sk_004	でも博士　最近　楽してない？？
 SD_10_01_sk_005	まぁいっか。\nわたし　助手だし！　説明するね！
-SD_10_01_sk_006	これは　\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿ　っていって\nレンティル地方で採れる　果物なの。
+SD_10_01_sk_006	これは　{color[0000]}ふわりんご{color[ffff]}　っていって\nレンティル地方で採れる　果物なの。
 SD_10_01_sk_007	甘くておいしい　ポケモンの大好物なんだよ。
 SD_10_01_sk_008	見た目は　普通のりんごだけど･･････
 SD_10_01_sk_009	軽くて　柔らかいの。
@@ -5676,16 +5676,16 @@ SD_10_03_sk_006	博士が言うには　色々な使い道が　あるんだっ�
 SD_10_03_sk_007	説明は　終わったのかな。\nリタ　ありがとう。
 SD_10_03_sk_008	ここで　1つ　お知らせがあるよ。
 SD_10_03_sk_009	これからの調査を　スムーズに進めるため\n調査情報を　共有しようと　思うんだ。
-SD_10_03_sk_010	キミたち　\x0e\0\x03\x02\0\0レンティルチャット\x0e\0\x03\x02ÿÿは\n知ってるかな？
+SD_10_03_sk_010	キミたち　{color[0000]}レンティルチャット{color[ffff]}は\n知ってるかな？
 SD_10_03_sk_011	ん？　何だっけ？
 SD_10_03_sk_012	レンティル地方で　使われている\nコミュニケーションツールのことだよ。
 SD_10_03_sk_013	例えば　リタが　調査で気になったことを\n写真と一緒に　送ることができるんだ。
 SD_10_03_sk_014	僕が　モニターを見て　気付いたことも\n送っていくよ。
 SD_10_03_sk_015	へー　面白そう！
-SD_10_03_sk_016	ベースキャンプなどの　\x0e\0\x03\x02\0\0右上\x0e\0\x03\x02ÿÿに　表示されるので\n調査の　役に立ててみてね。
-SD_11_02_sk_001	彼は　\x0e\0\x03\x02\0\0トオル\x0e\0\x03\x02ÿÿ。
+SD_10_03_sk_016	ベースキャンプなどの　{color[0000]}右上{color[ffff]}に　表示されるので\n調査の　役に立ててみてね。
+SD_11_02_sk_001	彼は　{color[0000]}トオル{color[ffff]}。
 SD_11_02_sk_002	世界中を　旅している\nプロの　ポケモンカメラマンだよ。
-SD_11_02_sk_003	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿを撮ったのは　キミ？\nすごいじゃないか！
+SD_11_02_sk_003	{color[0000]}イルミナポケモン{color[ffff]}を撮ったのは　キミ？\nすごいじゃないか！
 SD_11_02_sk_004	トオル　例のものは？
 SD_11_02_sk_005	持ってきたよ。
 SD_11_02_sk_006	ありがとう　これで出発できるぞ。
@@ -5695,17 +5695,17 @@ SD_11_02_sk_009	今回の　調査についても\n色々アドバイスを　�
 SD_11_02_sk_010	へぇ～。
 SD_11_02_sk_011	お　あれが今回　開発したポッド？\nいいねぇ　昔を思い出すよ。
 SD_11_02_sk_012	とりあえず　イルミナポケモンの写真　見せてよ！
-SD_11_04_sk_001	師匠の　一番弟子の\x0e\0\x03\x02\0\0フィル\x0e\0\x03\x02ÿÿだ。\nよろしくな！
+SD_11_04_sk_001	師匠の　一番弟子の{color[0000]}フィル{color[ffff]}だ。\nよろしくな！
 SD_11_04_sk_002	はいはい。
 SD_11_04_sk_003	ホントは　僕が撮影に\n行きたいところなんだけど･･････
 SD_11_04_sk_004	フィルを行かせる\nってことで　いいかな？
 SD_11_04_sk_005	トオルがそう言うのなら　僕はOKさ。
 SD_11_04_sk_006	やったー！
-SD_11_04_sk_007	ただし　あくまで　僕の代わりだからね。\nその\x0e\0\x03\x02\0\0バッジ\x0e\0\x03\x02ÿÿも　貸してるだけだよ。
+SD_11_04_sk_007	ただし　あくまで　僕の代わりだからね。\nその{color[0000]}バッジ{color[ffff]}も　貸してるだけだよ。
 SD_11_04_sk_008	ぐ･･････\nでも　すごいのが撮れたら　ちょーだいね！
 SD_11_04_sk_009	で　調査って　何だっけ？？
 SD_11_04_sk_010	･･････。
-SD_13_02_sk_001	これが　僕たちの暮らす　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿで\n今　いる場所は　ここ。
+SD_13_02_sk_001	これが　僕たちの暮らす　{color[0000]}フロレオ島{color[ffff]}で\n今　いる場所は　ここ。
 SD_13_02_sk_002	そして　今回の調査では\nこの島を出て
 SD_13_02_sk_003	最初に　調べる場所は　ここだ！
 SD_13_02_sk_004	なんで　ここが最初なの？
@@ -5718,22 +5718,22 @@ SD_13_02_sk_010	では　100年ぶりとなる\nレンティル地方の冒険�
 CI_005_1B_00_001	新しい島にも　慣れたみたいだね。
 CI_005_1B_00_002	では　次の調査を　お願いしようかな。
 CI_005_1B_00_003	なに？　なに？
-CI_005_1B_00_004	夜のジャングルで　光っている\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてほしいんだ。
+CI_005_1B_00_004	夜のジャングルで　光っている\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてほしいんだ。
 CI_005_1B_00_005	クリスタフラワー？
 CI_005_1B_00_006	光る花のことだよ。
 CI_005_1B_00_007	どこかで　ふしぎな花を　見なかったかな？
 CI_005_1B_00_008	オレ　見た！　赤いやつ！
 CI_005_1B_00_009	たぶん　それかな。
-CI_005_1B_00_010	夜には光って　\x0e\0\x03\x02\0\0イルミナ状態\x0e\0\x03\x02ÿÿのがあるはずなんだ。
+CI_005_1B_00_010	夜には光って　{color[0000]}イルミナ状態{color[ffff]}のがあるはずなんだ。
 CI_005_1B_00_011	見つけたら　どうすればいいの？
 CI_005_1B_00_012	リサーチカメラで　撮るだけでいいよ。
 CI_005_1B_00_013	そのカメラには　分析する機能もあるからね。
-CI_005_1B_00_014	では　\x0e\0\x03\x02\0\0夜のジャングル\x0e\0\x03\x02ÿÿの調査\nよろしくね！
+CI_005_1B_00_014	では　{color[0000]}夜のジャングル{color[ffff]}の調査\nよろしくね！
 SD_14_01_sk_001	よく　撮れていたね。\nデータも　十分集まったよ。
 SD_14_01_sk_002	さてと　これを見てごらん。
 SD_14_01_sk_003	あ　博士が作った　何とかオーブ？
 SD_14_01_sk_004	ポケモンや　クリスタフラワーを\n光らすことが　できるんだよね？
-SD_14_01_sk_005	そう　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿね。
+SD_14_01_sk_005	そう　{color[0000]}イルミナオーブ{color[ffff]}ね。
 SD_14_01_sk_006	ただ　この青いイルミナオーブは\n僕らの住む　フロレオ島でしか　使えないんだ。
 SD_14_01_sk_007	えっ　なんで？？
 SD_14_01_sk_008	島によって　エネルギーが\n少し違うのが　原因かな。
@@ -5742,9 +5742,9 @@ SD_14_01_sk_010	見てて！
 SD_14_03_sk_001	すげー！
 SD_14_03_sk_002	わー　きれー！
 SD_14_03_sk_003	へえー\n今のが　レンティル地方でのみ起こる　発光現象か。
-SD_14_03_sk_004	\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿ･･････　だっけ？
+SD_14_03_sk_004	{color[0000]}イルミナ現象{color[ffff]}･･････　だっけ？
 SD_14_03_sk_005	ポケモンと植物で　同じ現象が起こる\nというのは　面白いね。
-SD_14_03_sk_006	これを使えば　ポケモンやクリスタフラワーを\n一時的に　\x0e\0\x03\x02\0\0イルミナ状態\x0e\0\x03\x02ÿÿにすることができるんだ。
+SD_14_03_sk_006	これを使えば　ポケモンやクリスタフラワーを\n一時的に　{color[0000]}イルミナ状態{color[ffff]}にすることができるんだ。
 SD_14_03_sk_007	そのとき　ポケモンや\nまわりの変化も　見ておくといいよ。
 SD_14_03_sk_008	フロレオ島のも　もらっていい？
 SD_14_03_sk_009	もちろん！
@@ -5765,13 +5765,13 @@ CI_006_3A_00_001	お前が　調査に出てるとき\nまた　すごい反応�
 CI_006_3A_00_002	はかせ！　早く　教えてよ！
 CI_006_3A_00_003	では　始めるね。
 CI_006_3A_00_004	樹海の奥に　ものすごい\nエネルギー反応が　出たんだ。
-CI_006_3A_00_005	これは　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　間違いないよ。
+CI_006_3A_00_005	これは　{color[0000]}イルミナポケモン{color[ffff]}に　間違いないよ。
 CI_006_3A_00_006	あの辺りにあった　遺跡も\nやはり　何か　関係ありそうだね。
 CI_006_3A_00_007	準備ができたら　すぐ出発してくれるかな？
 SD_15_02_sk_001	さて　また　新しい島に　行けるよ。
 SD_15_02_sk_002	新たに2つ　転送スポットを　特定できたんだ。
 SD_15_02_sk_003	どこ？　どこ？
-SD_15_02_sk_004	この　\x0e\0\x03\x02\0\0細長い島\x0e\0\x03\x02ÿÿと\n\x0e\0\x03\x02\0\0海の真ん中\x0e\0\x03\x02ÿÿの　2か所だよ。
+SD_15_02_sk_004	この　{color[0000]}細長い島{color[ffff]}と\n{color[0000]}海の真ん中{color[ffff]}の　2か所だよ。
 SD_15_02_sk_005	海の真ん中って　キャプテン・ビクトルが\n行けなかった場所だよね。
 SD_15_02_sk_006	すごい！
 SD_15_02_sk_007	調査の順番は　キミにまかせる。\n引き続き　頼んだよ！
@@ -5779,13 +5779,13 @@ SD_16_01_sk_001	どう？　調査は楽しめてるかな？
 SD_16_01_sk_002	実は　博士に\n伝え忘れていたことがあって･･････
 SD_16_01_sk_003	さっき　追加で作ってもらったんだ。
 SD_16_01_sk_004	何を？
-SD_16_01_sk_005	\x0e\0\x03\x02\0\0メロディ機能\x0e\0\x03\x02ÿÿといって\nリサーチカメラから　音が鳴る機能だよ。
+SD_16_01_sk_005	{color[0000]}メロディ機能{color[ffff]}といって\nリサーチカメラから　音が鳴る機能だよ。
 SD_16_01_sk_006	これがあると　ポケモンたちの\n違った様子が　見られるんだ。
 SD_16_01_sk_007	面白そう！
 SD_16_01_sk_008	リタ　さっきの説明　頼めるかな？
 SD_16_01_sk_009	はーい。
-SD_16_01_sk_010	\x0e\x03\x01\x02\0Í を押すと　メロディが鳴るの。
-SD_16_01_sk_011	鳴っているときに　もう1回 \x0e\x03\x01\x02\0Í で\n停止できるよ。
+SD_16_01_sk_010	{[0301|00cd]} を押すと　メロディが鳴るの。
+SD_16_01_sk_011	鳴っているときに　もう1回 {[0301|00cd]} で\n停止できるよ。
 SD_16_01_sk_012	眠っているポケモンが　起きたり
 SD_16_01_sk_013	踊りだすポケモンも　いるんだって。
 SD_16_01_sk_014	って　わたしも使うのは　これからなんだけどね！
@@ -5798,7 +5798,7 @@ CI_004_1A_00_001	はかせ～。\nみんな　そろったよ。
 CI_004_1A_00_002	ありがとう。\nでは　始めるね。
 CI_004_1A_00_003	新たに　転送スポットが\n見つかったんだけど･･････。
 CI_004_1A_00_004	やった！　どこ？　どこ？
-CI_004_1A_00_005	なんと　\x0e\0\x03\x02\0\0海の中\x0e\0\x03\x02ÿÿ　なんだ。
+CI_004_1A_00_005	なんと　{color[0000]}海の中{color[ffff]}　なんだ。
 CI_004_1A_00_006	すげー！
 CI_004_1A_00_007	ただ　ネオワン号は　海に潜れないので
 CI_004_1A_00_008	えええええ！！
@@ -5807,15 +5807,15 @@ CI_004_1A_00_010	なんだ　びっくりさせんなよ！
 CI_004_1A_00_011	わー　すっごく楽しみ！
 CI_004_1A_00_012	なので　今度は\n海の中の　調査も　お願いするね。
 CI_004_1A_00_013	へー　海の中か･･････。
-CI_004_0A_00_001	ようやく　\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿで使える\n\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿができたよ。
+CI_004_0A_00_001	ようやく　{color[0000]}コピア諸島{color[ffff]}で使える\n{color[0000]}イルミナオーブ{color[ffff]}ができたよ。
 CI_004_0A_00_002	浜辺や　海上の\n再調査も　忘れないでね！
 CI_004_3A_00_001	キミ　また何か　特別なことした？？
 CI_004_3A_00_002	今　博士が　大慌てでデータを調べてるよ。
 CI_004_3A_00_003	はかせ～。\n何か　分かった？？
 CI_004_3A_00_004	海底に　遺跡があったよね？
-CI_004_3A_00_005	あれはやっぱり　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに\n関係するものだったんだ。
+CI_004_3A_00_005	あれはやっぱり　{color[0000]}イルミナポケモン{color[ffff]}に\n関係するものだったんだ。
 CI_004_3A_00_006	その証拠に　また\nあのエネルギー反応が　現れたんだ。
-CI_004_3A_00_007	あの遺跡の先の　\x0e\0\x03\x02\0\0深海\x0e\0\x03\x02ÿÿに。
+CI_004_3A_00_007	あの遺跡の先の　{color[0000]}深海{color[ffff]}に。
 CI_004_3A_00_008	だから　100年前　行くことができなかったんだね。
 CI_004_3A_00_009	でも　ネオワン号なら　大丈夫！
 CI_004_3A_00_010	頼んだよ！
@@ -5829,7 +5829,7 @@ CI_003_2B_00_002	いい話って　何だよ？
 CI_003_2B_00_003	聞きたい？？
 CI_003_2B_00_004	そっちが　言い出したんだろ？
 CI_003_2B_00_005	まあまあ。
-CI_003_2B_00_006	博士にお願いして　\x0e\0\x03\x02\0\0海上の夕方\x0e\0\x03\x02ÿÿに\n行けるようにしてもらっちゃった。
+CI_003_2B_00_006	博士にお願いして　{color[0000]}海上の夕方{color[ffff]}に\n行けるようにしてもらっちゃった。
 CI_003_2B_00_007	えー　すげーじゃん。
 CI_003_2B_00_008	でしょー。
 CI_003_2B_00_009	絶対　きれーだと思うんだよねぇ\n海上の　夕焼けって。
@@ -5838,11 +5838,11 @@ CI_003_2B_00_011	あ　一番に行くのは　オレね！
 CI_003_2B_00_012	えぇ～。
 CI_007_1B_00_001	砂漠の調査も　順調だね。
 CI_007_1B_00_002	では　続いて\n夜の調査も　お願いしようかな。
-CI_007_1B_00_003	この島の　イルミナオーブを作るために\n\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿの　撮影も　頼んだよ！
+CI_007_1B_00_003	この島の　イルミナオーブを作るために\n{color[0000]}イルミナ現象{color[ffff]}の　撮影も　頼んだよ！
 CI_008_0A_00_001	おかえり。
-CI_008_0A_00_002	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　イルミナ現象も　分析できたよ。
+CI_008_0A_00_002	{color[0000]}ボルク島{color[ffff]}の　イルミナ現象も　分析できたよ。
 CI_008_0A_00_003	ではさっそく　これを。
-CI_008_0A_00_004	\x0e\0\x03\x02\0\0ボルク島の　イルミナオーブ\x0e\0\x03\x02ÿÿだ。
+CI_008_0A_00_004	{color[0000]}ボルク島の　イルミナオーブ{color[ffff]}だ。
 CI_008_0A_00_005	これを使って　さらに　調査を頼んだよ！
 CI_008_1A_00_001	よし　ミーティングを始めるよ。
 CI_008_1A_00_002	はかせ！
@@ -5850,7 +5850,7 @@ CI_008_1A_00_003	次　行ける場所が　分かったんだろ！
 CI_008_1A_00_004	そう　相変わらず　元気だね。
 CI_008_1A_00_005	早く！！
 CI_008_1A_00_006	わかった　わかった。
-CI_008_1A_00_007	次の調査は　\x0e\0\x03\x02\0\0火山\x0e\0\x03\x02ÿÿだ。
+CI_008_1A_00_007	次の調査は　{color[0000]}火山{color[ffff]}だ。
 CI_008_1A_00_008	火山！　すげー！
 CI_008_1A_00_009	大丈夫なの？？
 CI_008_1A_00_010	もちろん！\nネオワン号の　強化も　終わっているよ。
@@ -5861,23 +5861,23 @@ CI_008_3A_00_001	あんなところに　遺跡があるなんて･････
 CI_008_3A_00_002	あれも　人が　作ったんだよね？
 CI_008_3A_00_003	うん　何か　特別な目的があって\n作ったんだと思う。
 CI_008_3A_00_004	そして　壁にあった　大きな穴。
-CI_008_3A_00_005	あの奥から　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿの反応があったんだ。
+CI_008_3A_00_005	あの奥から　{color[0000]}イルミナポケモン{color[ffff]}の反応があったんだ。
 CI_008_3A_00_006	奥には　何があるの？
 CI_008_3A_00_007	おそらく　遠くの火山まで\n繋がっているんじゃないかと。
 CI_008_3A_00_008	そこを　移動していたポケモン\nってことだよね？
 CI_008_3A_00_009	どんなポケモンなんだろう？
 CI_008_3A_00_010	行ってみればわかるよ。\nでは　ここの調査もよろしくね。
-SD_16B_01_sk_001	やっぱり　この島にも\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿがいたね。
+SD_16B_01_sk_001	やっぱり　この島にも\n{color[0000]}イルミナポケモン{color[ffff]}がいたね。
 SD_16B_01_sk_002	言い伝えは　実際に起きたことって\n前に　話したよね。
 SD_16B_01_sk_003	うん　でも　ポケモンたちが救った\n大昔の　災いって？
-SD_16B_01_sk_004	おそらく　\x0e\0\x03\x02\0\0隕石の落下\x0e\0\x03\x02ÿÿ　のことなんだ。
-SD_16B_01_sk_005	名前は　\x0e\0\x03\x02\0\0テルル隕石\x0e\0\x03\x02ÿÿ。\n今から　2000年くらい前の　出来事だよ。
+SD_16B_01_sk_004	おそらく　{color[0000]}隕石の落下{color[ffff]}　のことなんだ。
+SD_16B_01_sk_005	名前は　{color[0000]}テルル隕石{color[ffff]}。\n今から　2000年くらい前の　出来事だよ。
 SD_16B_01_sk_006	言い伝えには
 SD_16B_01_sk_007	イルミナポケモンの力が　散らばって\nポケモンたち　みんなが　光るようになった
 SD_16B_01_sk_008	とある。
 SD_16B_01_sk_009	しかし　僕の考えでは
 SD_16B_01_sk_010	ポケモンたちが　光るようになったのは\nテルル隕石の　影響で
-SD_16B_01_sk_011	その影響を　大きく受けたのが\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだと　考えているんだ。
+SD_16B_01_sk_011	その影響を　大きく受けたのが\n{color[0000]}イルミナポケモン{color[ffff]}だと　考えているんだ。
 SD_16B_01_sk_012	言い伝えが　間違ってるの？
 SD_16B_01_sk_013	それを　確かめるために\nこの調査が　重要なんだよ。
 SD_16B_02_sk_001	この島でも　イルミナポケモンに会えたね。
@@ -5885,7 +5885,7 @@ SD_16B_02_sk_002	うん　冒険記の通りだね。
 SD_16B_02_sk_003	やはり　レンティル地方の\n島ごとに　いるみたいなんだ。
 SD_16B_02_sk_004	キャプテン・ビクトルは　どうやって\nそのことを　知ったんだろう？
 SD_16B_02_sk_005	でも　本では　2匹のイルミナポケモンにしか\n会ってなかったような？
-SD_16B_02_sk_006	ただ　彼は　\x0e\0\x03\x02\0\04匹はいる\x0e\0\x03\x02ÿÿ\nとも　書いていたよね。
+SD_16B_02_sk_006	ただ　彼は　{color[0000]}4匹はいる{color[ffff]}\nとも　書いていたよね。
 SD_16B_02_sk_007	むー。
 SD_16B_02_sk_008	まだまだ　分からないことだらけだね。
 SD_16B_02_sk_009	そこが　面白いんだよ。
@@ -5899,23 +5899,23 @@ SD_16B_03_sk_007	ふーん　ふしぎだねぇ･･････
 SD_16B_03_sk_008	さっきのイルミナポケモンが　最後なの？
 SD_16B_03_sk_009	それについては　すごい発見があったんだ。
 SD_16B_03_sk_010	みんなを集めて　話そう。
-SD_17_02_sk_001	さて　僕たちは　これまで　\x0e\0\x03\x02\0\04つの島\x0e\0\x03\x02ÿÿで\nそれぞれ　イルミナポケモンに　出会うことができたよね。
+SD_17_02_sk_001	さて　僕たちは　これまで　{color[0000]}4つの島{color[ffff]}で\nそれぞれ　イルミナポケモンに　出会うことができたよね。
 SD_17_02_sk_002	どのポケモンも　キレイだった～。
 SD_17_02_sk_003	そして　そのたびに　ほかの場所でも\nエネルギー反応が　現れていたんだ。
 SD_17_02_sk_004	ポケモンたちが　連絡を　取り合っているのかな？
 SD_17_02_sk_005	そうかもしれないね。
-SD_17_02_sk_006	エネルギー反応は　5つあったんだけど\nついに　\x0e\0\x03\x02\0\05つ目の場所\x0e\0\x03\x02ÿÿが　特定できたんだ。
+SD_17_02_sk_006	エネルギー反応は　5つあったんだけど\nついに　{color[0000]}5つ目の場所{color[ffff]}が　特定できたんだ。
 SD_17_02_sk_007	次が　最後ってこと？？
 SD_17_02_sk_008	と　僕は思ってる。
 SD_17_02_sk_009	そう　僕たちが　最後に向かうのは\nこの島だ！
 SD_17_02_sk_010	すっげ―遠い！
-SD_17_02_sk_011	これってもしかして　\x0e\0\x03\x02\0\0雪\x0e\0\x03\x02ÿÿ？
+SD_17_02_sk_011	これってもしかして　{color[0000]}雪{color[ffff]}？
 SD_17_02_sk_012	たぶん　一面　雪だらけだよ。
 SD_17_02_sk_013	早く見たい！！
 SD_17_02_sk_014	では　かつて　冒険家が　辿り着けなかった\n島の調査を　開始しよう！
 SD_18_01_sk_001	調査できる場所が　増えてきたね。
 SD_18_01_sk_002	そこで　ネオワン号を\nさらに　改良してみたよ。
-SD_18_01_sk_003	\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿといって　ネオワン号のスピードを\nアップする機能　なんだ。
+SD_18_01_sk_003	{color[0000]}ターボ{color[ffff]}といって　ネオワン号のスピードを\nアップする機能　なんだ。
 SD_18_01_sk_004	へっへ～！\nさっき　試してきちゃった。
 SD_18_01_sk_005	すごい　加速だったよ。
 SD_18_01_sk_006	速く　進めるだけでなく\n撮影のタイミングも　変えられるんだ。
@@ -5924,45 +5924,45 @@ SD_18_01_sk_008	はーい！
 SD_18_01_sk_009	ターボを使うには　 を押す\nそれだけだよ。
 SD_18_01_sk_010	押しているあいだ\nネオワン号が　速く進むの。
 SD_18_01_sk_011	ちなみに･･････
-SD_18_01_sk_012	後ろ向いたり　ズームしているとき\nネオワン号が　\x0e\0\x03\x02\0\0遅くなってる\x0e\0\x03\x02ÿÿの　知ってた？
+SD_18_01_sk_012	後ろ向いたり　ズームしているとき\nネオワン号が　{color[0000]}遅くなってる{color[ffff]}の　知ってた？
 SD_18_01_sk_013	カメラの動きに　連動してるんだって。
 SD_18_01_sk_014	ターボと一緒に使えば\n色んな向きで　ポケモンたちが撮れそうだよね！
 SD_18_01_sk_015	じゃあまた　新しい島の調査\nがんばっていこー！
 CI_009_1B_00_001	これが　雪なんだね。
 CI_009_1B_00_002	フロレオ島では　降らないから　新鮮だったよ。
 CI_009_1B_00_003	そろそろ　夜の様子も　見てみたいかな。
-CI_009_1B_00_004	\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿを　見かけたら\n忘れずに　撮ってきてね。
+CI_009_1B_00_004	{color[0000]}イルミナ現象{color[ffff]}を　見かけたら\n忘れずに　撮ってきてね。
 CI_010_0A_00_001	イルミナ現象の　分析ができたよ。
-CI_010_0A_00_002	これが　\x0e\0\x03\x02\0\0デュラス島の　イルミナオーブ\x0e\0\x03\x02ÿÿだ。
+CI_010_0A_00_002	これが　{color[0000]}デュラス島の　イルミナオーブ{color[ffff]}だ。
 CI_010_0A_00_003	これで　調査が進めば･･････
 CI_010_0A_00_004	最後のイルミナポケモンの　居場所も\n分かるはずだ。
 CI_010_0A_00_005	頼んだよ！
 CI_010_1A_00_001	はかせ！\n新しい　転送スポットが　見つかったんだって？
 CI_010_1A_00_002	さすが助手　情報が早いね。
-CI_010_1A_00_003	今度の反応は　\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　さらに奥\nその\x0e\0\x03\x02\0\0地下\x0e\0\x03\x02ÿÿからなんだ。
+CI_010_1A_00_003	今度の反応は　{color[0000]}デュラス島{color[ffff]}の　さらに奥\nその{color[0000]}地下{color[ffff]}からなんだ。
 CI_010_1A_00_004	地底探検かぁ！　ワクワクしてきた！
-CI_010_1A_00_005	\x0e\0\x03\x02\0\0洞窟\x0e\0\x03\x02ÿÿは　かなり深くまで　続いているようなんだ。
+CI_010_1A_00_005	{color[0000]}洞窟{color[ffff]}は　かなり深くまで　続いているようなんだ。
 CI_010_1A_00_006	しっかり　調査頼むよ！
 CI_010_3A_00_001	あんな地下に　植物が　生息しているとは。
 CI_010_3A_00_002	世界には　まだまだ　ふしぎな場所があるんだね。
 CI_010_3A_00_003	はかせ！\n大事な話って　何だよ！
 CI_010_3A_00_004	お　そうだった。
-CI_010_3A_00_005	\x0e\0\x03\x02\0\0デュラス島の　イルミナポケモン\x0e\0\x03\x02ÿÿを見つけたんだって。
-CI_010_3A_00_006	そう　洞窟の　さらに奥\n\x0e\0\x03\x02\0\0巨大な空間\x0e\0\x03\x02ÿÿから　例の反応が　現れたんだ。
-CI_010_3A_00_007	最後の\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿだね！
+CI_010_3A_00_005	{color[0000]}デュラス島の　イルミナポケモン{color[ffff]}を見つけたんだって。
+CI_010_3A_00_006	そう　洞窟の　さらに奥\n{color[0000]}巨大な空間{color[ffff]}から　例の反応が　現れたんだ。
+CI_010_3A_00_007	最後の{color[0000]}イルミナポケモン{color[ffff]}だね！
 CI_010_3A_00_008	しっかり　頼んだよ！
 SD_19_02_sk_001	さっきの　壁画には　驚いたなぁ。
 SD_19_02_sk_002	もう1匹　イルミナポケモンがいるだけでなく\n隕石の落下の前から　いるなんて･･････。
 SD_19_02_sk_003	はかせ　なんだか嬉しそうだね。
 SD_19_02_sk_004	うん　僕の予想とは　違ったけど\nこの発見は　本当に　すごいことなんだよ。
 SD_19_02_sk_005	そして　今までの　分析の結果　各島のエネルギーが\n一か所に　集まっているのが　分かったんだ。
-SD_19_02_sk_006	かすかだけど　そこに\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿの反応もね。
+SD_19_02_sk_006	かすかだけど　そこに\n{color[0000]}イルミナポケモン{color[ffff]}の反応もね。
 SD_19_02_sk_007	壁画の　真ん中の！？
 SD_19_02_sk_008	おそらく。
 SD_19_02_sk_009	その場所は　どこなんだよ～！
 SD_19_02_sk_010	それはね。
 SD_19_02_sk_011	ここ　地図にも載ってない\n小さな島を　指しているんだ。
-SD_19_02_sk_012	言い伝えに出てくる　\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿが　ここだと思う。
+SD_19_02_sk_012	言い伝えに出てくる　{color[0000]}アウラム島{color[ffff]}が　ここだと思う。
 SD_19_02_sk_013	では　真実を目指して\n最後の調査に　出発しよう！
 CI_011_0A_00_001	なんか　すごい遺跡があったよね？？
 CI_011_0A_00_002	そうだね。
@@ -5971,26 +5971,26 @@ CI_011_0A_00_004	2種類？
 CI_011_0A_00_005	そう　入口の遺跡と\n奥の洞窟は　少し違う感じなんだ。
 CI_011_0A_00_006	洞窟の方は　あとから　急いで作ったような･･････。
 CI_011_0A_00_007	ほかの島の　花も　咲いていて\nすごく　ふしぎな感じだった･･････。
-CI_011_0A_00_008	\x0e\0\x03\x02\0\0各島のエネルギー\x0e\0\x03\x02ÿÿが　集まっている　証拠だね。
+CI_011_0A_00_008	{color[0000]}各島のエネルギー{color[ffff]}が　集まっている　証拠だね。
 CI_011_0A_00_009	あの場所の　謎が解ければ\n先に進めるはず！
-CI_011_0A_00_010	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿの開発も　できているよ。
+CI_011_0A_00_010	{color[0000]}イルミナオーブ{color[ffff]}の開発も　できているよ。
 CI_011_0A_00_011	あと少しだ。\nキミたちの調査に　期待しているよ。
 CI_011_3A_00_001	ついに来たね。
 CI_011_3A_00_002	地形から　推測すると･･････
-CI_011_3A_00_003	おそらく　転送先は　最初に見た　門の奥\n\x0e\0\x03\x02\0\0遺跡中央\x0e\0\x03\x02ÿÿ　に出るはずだ。
-CI_011_3A_00_004	わー　そこに　あの\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿの\n真ん中のポケモンがいるんだよね。
+CI_011_3A_00_003	おそらく　転送先は　最初に見た　門の奥\n{color[0000]}遺跡中央{color[ffff]}　に出るはずだ。
+CI_011_3A_00_004	わー　そこに　あの{color[0000]}壁画{color[ffff]}の\n真ん中のポケモンがいるんだよね。
 CI_011_3A_00_005	そう　ついに　出会える瞬間が　きたんだ。
 CI_011_3A_00_006	その瞬間は\nやっぱり　キミにまかせるよ！
 CI_011_3A_00_007	ちぇっ　しかたねーな。\nちゃんと　撮って来いよな！
 CI_011_3A_00_008	イルミナポケモンによろしくね！
 CI_011_3A_00_009	いい表情するように　なったんじゃないか？
 CI_011_3A_00_010	よし　では元気よく\n行っておいで！
-SD_20_01_sk_001	本当に　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿがいたね･･････。
+SD_20_01_sk_001	本当に　{color[0000]}イルミナポケモン{color[ffff]}がいたね･･････。
 SD_20_01_sk_002	壁画の通り　だったね！
 SD_20_01_sk_003	うん。
 SD_20_01_sk_004	つまり　壁画にあるのは　実際に起こったこと･･････\nなのか･･････。
 SD_20_01_sk_023	ゼルネアスが　みんなに　呼びかけて
-SD_20_01_sk_005	\x0e\0\x03\x02\0\0バリア\x0e\0\x03\x02ÿÿのようなもので　隕石から\n守ってくれたんじゃないのかな？
+SD_20_01_sk_005	{color[0000]}バリア{color[ffff]}のようなもので　隕石から\n守ってくれたんじゃないのかな？
 SD_20_01_sk_006	レンティル地方　全土を　覆うほどの？？
 SD_20_01_sk_007	うーん･･････。
 SD_20_01_sk_008	絶対に　そうだって！
@@ -6016,22 +6016,22 @@ SD_21_01_sk_005	わたしも　まだまだ　手伝うよ！
 SD_21_01_sk_006	うん　頼んだよ。
 SD_21_01_sk_008	そして　キミの調査も　まだまだ　続くよ。
 SD_21_01_sk_009	あ　博士。\nあの　説明は？
-SD_21_01_sk_010	そうそう　\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿという\n新しい機能を　作ったんだ。
+SD_21_01_sk_010	そうそう　{color[0000]}ルートスコア{color[ffff]}という\n新しい機能を　作ったんだ。
 SD_21_01_sk_011	各ルートで　1回の調査全体を\n評価する機能なんだ。
 SD_21_01_sk_012	いい写真だけじゃなく　たくさんのポケモンを\n撮るのがコツかな。
-SD_21_01_sk_013	オンラインでは　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿもあるんだって。\nあとで　見てみてね。
+SD_21_01_sk_013	オンラインでは　{color[0000]}ランキング{color[ffff]}もあるんだって。\nあとで　見てみてね。
 SD_21_01_sk_014	もう1つ　ステキなお知らせが\nあるんだよね？
-SD_21_01_sk_015	\x0e\0\x03\x02\0\0連写モード\x0e\0\x03\x02ÿÿのことかな。
+SD_21_01_sk_015	{color[0000]}連写モード{color[ffff]}のことかな。
 SD_21_01_sk_016	博士に頼んで　リサーチカメラに機能を\n追加してもらったんだ。
-SD_21_01_sk_017	\x0e\0\x03\x02\0\01回のシャッター\x0e\0\x03\x02ÿÿで　\x0e\0\x03\x02\0\0連続した写真\x0e\0\x03\x02ÿÿが　撮れるから\nベストなタイミングが　捉えやすくなるよ。
-SD_21_01_sk_018	\x0e\0\x03\x02\0\0設定\x0e\0\x03\x02ÿÿで　機能の　ON/OFF　ができるから\n試してみてね！　役立つと思うよ！
+SD_21_01_sk_017	{color[0000]}1回のシャッター{color[ffff]}で　{color[0000]}連続した写真{color[ffff]}が　撮れるから\nベストなタイミングが　捉えやすくなるよ。
+SD_21_01_sk_018	{color[0000]}設定{color[ffff]}で　機能の　ON/OFF　ができるから\n試してみてね！　役立つと思うよ！
 SD_21_01_sk_019	ししょーも　博士も　やっぱすげー。\nちょっと　また調査に　行ってくる！
 SD_21_01_sk_020	ははは。
-SD_21_01_sk_007	では　これからも　楽しみながら\nキミだけの\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿを　作り上げてね！
+SD_21_01_sk_007	では　これからも　楽しみながら\nキミだけの{color[0000]}フォト図鑑{color[ffff]}を　作り上げてね！
 CI_101_0A_00_001	どう？　調査は　進んでる？
 CI_101_0A_00_002	ネオワン号で　ほかの島に行くのもいいけど\nここで　撮影するのはどうかな？
 CI_101_0A_00_003	ふだん見てる　ポケモンたちも\n色んな表情を　見せてくれるよ。
-CI_101_0A_00_004	ベースキャンプの　\x0e\0\x03\x02\0\0左上のアイコン\x0e\0\x03\x02ÿÿから\n始められるんだ。
+CI_101_0A_00_004	ベースキャンプの　{color[0000]}左上のアイコン{color[ffff]}から\n始められるんだ。
 CI_101_0A_00_005	気が向いたら　やってみてね。
 CI_101_0A_01_001	やぁ　いい写真は　撮れている？
 CI_101_0A_01_002	こないだは　キミたちに　ここ\nベースキャンプでの　撮影をすすめたよね？
@@ -6042,7 +6042,7 @@ CI_101_0A_01_006	？？ 　別の場所って？
 CI_101_0A_01_007	ここのことさ。\nいつもと　違うだろ？
 CI_101_0A_01_008	研究室前と　ここ。\n開始する場所で　ルートが変わるんだ。
 CI_101_0A_01_009	へー　わたしも\nあとから　やってみよーっと。
-CI_101_0A_01_010	あ　ベースキャンプでの撮影は\n\x0e\0\x03\x02\0\0左上のアイコン\x0e\0\x03\x02ÿÿを　選ぶんだよ。
+CI_101_0A_01_010	あ　ベースキャンプでの撮影は\n{color[0000]}左上のアイコン{color[ffff]}を　選ぶんだよ。
 CI_101_0A_01_011	身近な出来事に　気付くことも\nカメラマンには　大事なことなんだ。
 CI_101_0A_01_012	ま　今は思いのまま　たくさん撮る\nを続けていけば　大丈夫！
 Search_Info.msbt
@@ -6150,12 +6150,12 @@ Search_101_1_A_008	研究室の　2階は\n博士の　生活\nスペースに�
 Search_101_1_A_011	寝息が　聞こえる。\n床の下に\n何かいるようだ。
 Search_Tu_001	ネオワン号。\nポケモン調査には\n欠かせない　乗り物だ。
 Stickers_Info.msbt
-Stickers001_Reward_Info	\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
-Stickers002_Reward_Info	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
-Stickers003_Reward_Info	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
-Stickers004_Reward_Info	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
-Stickers005_Reward_Info	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
-Stickers006_Reward_Info	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿの　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers001_Reward_Info	{color[0000]}フロレオ島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers002_Reward_Info	{color[0000]}ベラス島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers003_Reward_Info	{color[0000]}コピア諸島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers004_Reward_Info	{color[0000]}ボルク島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers005_Reward_Info	{color[0000]}デュラス島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
+Stickers006_Reward_Info	{color[0000]}アウラム島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
 Stickers_Name.msbt
 Stickers001_Name	調査ステッカー
 Stickers002_Name	調査ステッカー
@@ -6246,8 +6246,8 @@ NH_Chat_079	トオルとは　研究の旅で　出会ってね。\n何だかん
 NH_Chat_080	トオルさんに　すごい写真　見せてもらっちゃった！\n古い写真だったけど　虹色でキラキラしてたよ。
 NH_Chat_081	オレは　ししょーよりも　すごいカメラマンになるぞ！\n油断してると　お前なんか　すぐ追い抜くからな！
 NH_Chat_082	いや～　キミたちを見ていたら\n僕もまた　撮影旅行に　行きたくなってきたよ。
-NH_Tips_001	レンティル地方には　色々な　島があるけど･･････\nこれは　僕たちのいる　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿだよ。
-NH_Tips_002	これは　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿだよ。\nさっそく　調査行ってみよー！
+NH_Tips_001	レンティル地方には　色々な　島があるけど･･････\nこれは　僕たちのいる　{color[0000]}フロレオ島{color[ffff]}だよ。
+NH_Tips_002	これは　{color[0000]}フロレオ島{color[ffff]}だよ。\nさっそく　調査行ってみよー！
 NH_Tips_003	ほかの島への　移動は　難しかったんだけど\n今は　大丈夫だよ。　どんどん　調査してきてね！
 NH_Tips_004	島によって　環境が違うから\n会えるポケモンも　違うって　博士が言ってたよ！
 NH_Tips_005	こっちが　森っぽい島で　こっちが･･････？\nまっ　行けば分かるよな！　さっさと行こうぜ！
@@ -6256,80 +6256,80 @@ NH_Tips_007	こう見ると　島ごとに\n気候が　まったく違うのが
 NH_Tips_008	うーん　どの島のポケモンに\n会いに行くか　悩んじゃうね。
 NH_Tips_009	どこの島に　行くんだ？\nオレはー･･････　悩み中！
 NH_Tips_010	島ごとに　ここまで　環境が違うのは\nめずらしいことなんだよ。
-NH_Tips_011	ここ　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿでは　自然を保護しながら\n人とポケモンが　共存しているよ。
-NH_Tips_012	\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿって　一年中　同じような　気温だよね。\nすっごく暑かったり　寒かったりする場所って　どんな感じなんだろ？
-NH_Tips_013	ここ　\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿは　1年を通して　蒸し暑いんだ。\n見た通り　ほとんどが　森で覆われているよ。
+NH_Tips_011	ここ　{color[0000]}フロレオ島{color[ffff]}では　自然を保護しながら\n人とポケモンが　共存しているよ。
+NH_Tips_012	{color[0000]}フロレオ島{color[ffff]}って　一年中　同じような　気温だよね。\nすっごく暑かったり　寒かったりする場所って　どんな感じなんだろ？
+NH_Tips_013	ここ　{color[0000]}ベラス島{color[ffff]}は　1年を通して　蒸し暑いんだ。\n見た通り　ほとんどが　森で覆われているよ。
 NH_Tips_014	木が　いっぱいある　島だっけ。\n葉っぱで　隠れちゃって　撮るのムズカシーよな。
-NH_Tips_015	ここ　\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿは　暑くて\nほとんどの場所が　乾燥した　気候なんだ。
+NH_Tips_015	ここ　{color[0000]}ボルク島{color[ffff]}は　暑くて\nほとんどの場所が　乾燥した　気候なんだ。
 NH_Tips_016	厳しい環境だからこそ　ポケモンたちが\nどんな風に　生きているか　気になるね。
-NH_Tips_017	ここ　\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿは　陸地が少ないから\n海がメインの　調査になるよ。
+NH_Tips_017	ここ　{color[0000]}コピア諸島{color[ffff]}は　陸地が少ないから\n海がメインの　調査になるよ。
 NH_Tips_018	海のポケモンかぁ～！\n水がキラキラして　きれいな写真　撮れるかなぁ。
-NH_Tips_019	ここ　\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　白い部分は　すべて雪だよ。\nまさに　雪と氷の島だね。
+NH_Tips_019	ここ　{color[0000]}デュラス島{color[ffff]}の　白い部分は　すべて雪だよ。\nまさに　雪と氷の島だね。
 NH_Tips_020	寒さで　指が～･･････　って\nネオワン号の中は　全然寒くないけどな！
-NH_Tips_021	ここ　\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿは　謎の多い　島なんだ。\n陸地と　ほぼ同じ大きさの　大規模な　遺跡があるよ。
+NH_Tips_021	ここ　{color[0000]}アウラム島{color[ffff]}は　謎の多い　島なんだ。\n陸地と　ほぼ同じ大きさの　大規模な　遺跡があるよ。
 NH_Tips_022	使命を持って　遺跡を守り続ける　ポケモンかぁ･･････\n僕は　あまり撮ってこなかった　題材だけど　ロマンを感じるね。
-NH_Tips_023	\x0e\0\x03\x02\0\0フロレオ自然公園\x0e\0\x03\x02ÿÿは　体験会でも　よく行くので\n人懐っこいポケモンが　多いんだよ。
-NH_Tips_024	\x0e\0\x03\x02\0\0自然公園\x0e\0\x03\x02ÿÿといえば　ビッパだね！\nあのマイペースな感じが　たまらないよね。
-NH_Tips_027	\x0e\0\x03\x02\0\0ミッケジャングル\x0e\0\x03\x02ÿÿは　木が生い茂っているから\nポケモンが　隠れないよう　うまく撮ってね。
+NH_Tips_023	{color[0000]}フロレオ自然公園{color[ffff]}は　体験会でも　よく行くので\n人懐っこいポケモンが　多いんだよ。
+NH_Tips_024	{color[0000]}自然公園{color[ffff]}といえば　ビッパだね！\nあのマイペースな感じが　たまらないよね。
+NH_Tips_027	{color[0000]}ミッケジャングル{color[ffff]}は　木が生い茂っているから\nポケモンが　隠れないよう　うまく撮ってね。
 NH_Tips_028	木のところを　よ～く見て･･････　いた！\nってなると　ちょっと楽しいよね！
-NH_Tips_031	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿは　ちょっとしたきっかけで\n別の場所に　迷い込むようだね･･････。
+NH_Tips_031	{color[0000]}トキシキの森{color[ffff]}は　ちょっとしたきっかけで\n別の場所に　迷い込むようだね･･････。
 NH_Tips_032	オレ　あんまり　ここの調査　行ってないけど\n怖いから　じゃないからな！
-NH_Tips_033	\x0e\0\x03\x02\0\0ネッサ砂漠\x0e\0\x03\x02ÿÿのような　過酷な環境でも\n暮らせるなんて　ポケモンって　すごいよね。
-NH_Tips_034	\x0e\0\x03\x02\0\0砂漠\x0e\0\x03\x02ÿÿは暑いから　気を付けてね！\nって　ネオワン号に乗ってたら　関係ないか～。
-NH_Tips_037	\x0e\0\x03\x02\0\0ドロー火山\x0e\0\x03\x02ÿÿの辺りは　大昔の　環境が\nそのままに　近い形で　残っているみたいなんだ。
+NH_Tips_033	{color[0000]}ネッサ砂漠{color[ffff]}のような　過酷な環境でも\n暮らせるなんて　ポケモンって　すごいよね。
+NH_Tips_034	{color[0000]}砂漠{color[ffff]}は暑いから　気を付けてね！\nって　ネオワン号に乗ってたら　関係ないか～。
+NH_Tips_037	{color[0000]}ドロー火山{color[ffff]}の辺りは　大昔の　環境が\nそのままに　近い形で　残っているみたいなんだ。
 NH_Tips_038	ここ　ちっちゃいのから　でけーのまで\nすげー数の　火山が　くっついてるんだってよ！
-NH_Tips_039	\x0e\0\x03\x02\0\0ニジイロビーチ\x0e\0\x03\x02ÿÿは　あたたかいし\n海風も　心地よくて　いいよね。
+NH_Tips_039	{color[0000]}ニジイロビーチ{color[ffff]}は　あたたかいし\n海風も　心地よくて　いいよね。
 NH_Tips_040	ここの砂浜　ほんのりピンクなんだよ！\nネオワン号を降りて　歩けたらいいのになぁ。
-NH_Tips_041	\x0e\0\x03\x02\0\0コピアリーフ\x0e\0\x03\x02ÿÿでは　海上を進む　ネオワン号を　仲間だと思って\nポケモンたちが　一緒に　泳いでくれるかもしれないね。
-NH_Tips_042	\x0e\0\x03\x02\0\0海上\x0e\0\x03\x02ÿÿといえば　ホエルオー！\nあのダイナミックさは　ほかでは　撮れないよね。
-NH_Tips_043	\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿでは　ふだん見られない\n海の中の　ポケモンたちの暮らしが　調査できるよ。
+NH_Tips_041	{color[0000]}コピアリーフ{color[ffff]}では　海上を進む　ネオワン号を　仲間だと思って\nポケモンたちが　一緒に　泳いでくれるかもしれないね。
+NH_Tips_042	{color[0000]}海上{color[ffff]}といえば　ホエルオー！\nあのダイナミックさは　ほかでは　撮れないよね。
+NH_Tips_043	{color[0000]}レンティル海床{color[ffff]}では　ふだん見られない\n海の中の　ポケモンたちの暮らしが　調査できるよ。
 NH_Tips_044	泳ぎじゃ　ぜったい　行けないよな。\nいい写真　撮れそーだぜ！
-NH_Tips_045	\x0e\0\x03\x02\0\0ヒエール雪原\x0e\0\x03\x02ÿÿ･･････　キャプテン・ビクトルが　冒険していたら\nどんな風に　書き記したんだろうね。
+NH_Tips_045	{color[0000]}ヒエール雪原{color[ffff]}･･････　キャプテン・ビクトルが　冒険していたら\nどんな風に　書き記したんだろうね。
 NH_Tips_046	あっちも　こっちも　真っ白！\nポケモンたちと　雪あそび　してみたいなぁ。
-NH_Tips_047	\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿみたいな　暗いところでは\nサーチを使うと　ポケモンが見つけやすいよ。
+NH_Tips_047	{color[0000]}ハナレ洞窟{color[ffff]}みたいな　暗いところでは\nサーチを使うと　ポケモンが見つけやすいよ。
 NH_Tips_048	ここ　暗くて　ちょ～っとこわいけど\nポケモンたちは　どこにいても　楽しそうだよね！
-NH_Tips_049	\x0e\0\x03\x02\0\0シューゴ遺跡\x0e\0\x03\x02ÿÿは　今まで見た中で\n状態も　規模も　一番だよ。　じっくり　調べよう。
+NH_Tips_049	{color[0000]}シューゴ遺跡{color[ffff]}は　今まで見た中で\n状態も　規模も　一番だよ。　じっくり　調べよう。
 NH_Tips_050	ここってさ　ちょっと変わったポケモン　多いよな！\nゴルーグ　かっこいいよなぁ･･････。
-NH_Tips_051	「\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿ」と呼ばれている　発光現象は\nレンティル地方でしか　確認されていないんだ。
-NH_Tips_052	\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿって　ふわ～っと光って　キレイだよね。\nポケモンたちは　元気になるんだって。
-NH_Tips_053	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿは　光る模様が　浮き出るのが　特徴だよ。\n普通よりも　大きいポケモンがいたのには　びっくりしたね。
-NH_Tips_054	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　オレも会いたい！\nでっかくて光るとか　かっこよすぎだろ！
-NH_Tips_055	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿは　イルミナ現象を\n起こす　ふしぎな　花なんだ。
-NH_Tips_056	光を放つ花　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿか･･････\n近くにいる　ポケモンたちの反応も　面白いね。
-NH_Tips_057	\x0e\0\x03\x02\0\0テルル隕石\x0e\0\x03\x02ÿÿは　今から　約2000年前\nレンティルに落ちたとされる　隕石だよ。
+NH_Tips_051	「{color[0000]}イルミナ現象{color[ffff]}」と呼ばれている　発光現象は\nレンティル地方でしか　確認されていないんだ。
+NH_Tips_052	{color[0000]}イルミナ現象{color[ffff]}って　ふわ～っと光って　キレイだよね。\nポケモンたちは　元気になるんだって。
+NH_Tips_053	{color[0000]}イルミナポケモン{color[ffff]}は　光る模様が　浮き出るのが　特徴だよ。\n普通よりも　大きいポケモンがいたのには　びっくりしたね。
+NH_Tips_054	{color[0000]}イルミナポケモン{color[ffff]}に　オレも会いたい！\nでっかくて光るとか　かっこよすぎだろ！
+NH_Tips_055	{color[0000]}クリスタフラワー{color[ffff]}は　イルミナ現象を\n起こす　ふしぎな　花なんだ。
+NH_Tips_056	光を放つ花　{color[0000]}クリスタフラワー{color[ffff]}か･･････\n近くにいる　ポケモンたちの反応も　面白いね。
+NH_Tips_057	{color[0000]}テルル隕石{color[ffff]}は　今から　約2000年前\nレンティルに落ちたとされる　隕石だよ。
 NH_Tips_058	なんとか隕石　ってやつ\n空から　落ちてきたんだろ？　やべー！
-NH_Tips_059	僕が　開発した　\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿは\nポケモン調査に　欠かせない　特別なマシンだよ！
-NH_Tips_060	\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿは　昔　僕が使っていた\n調査ポッドの　技術も　使われているんだよ。
-NH_Tips_061	キャプテン・ビクトルの　「\x0e\0\x03\x02\0\0レンティル冒険記\x0e\0\x03\x02ÿÿ」は\nフロレオ島の　どの家にもある　有名な本だよね。
-NH_Tips_062	あの　「\x0e\0\x03\x02\0\0レンティル冒険記\x0e\0\x03\x02ÿÿ」みたいな　冒険を\nオレらがするなんて　思わなかったぜ！
-NH_Tips_063	今から　100年前　レンティル地方を　冒険した\n\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿ。　僕の　尊敬する人だよ。
-NH_Tips_064	\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿかぁ。　僕は　カメラマンだけど\n冒険してるトコは　似ているね。　話してみたかったなぁ。
-NH_Tips_065	ポインタを　ポケモンに合わせると　主役を決められるよ。\n\x0e\0\x03\x02\0\0主役を決めて　真ん中で撮る\x0e\0\x03\x02ÿÿ！　もう覚えたよね！
-NH_Tips_066	ポケモンを　大きく撮るには　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿ！\n狙いを定めてから　ズームするのが　コツなんだって。
-NH_Tips_067	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使うと　隠れているポケモンを\n見つけることもできるよ！
-NH_Tips_068	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿで見つけた　  を調べると　\x0e\0\x03\x02\0\0分析結果\x0e\0\x03\x02ÿÿが　出るよ。\nポケモンの　新しい　一面を　見つける　ヒントになるかも？
-NH_Tips_069	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿするときに出る　音や　電波ってね\nポケモンによっては　気になっちゃうみたい。
-NH_Tips_070	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿを　ポケモンにあげると　食べてくれたりするよ。\n少し　離れた場所に　導くのにも　使えるみたい！
-NH_Tips_071	\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを　ポケモンやクリスタフラワーに\n当てると　イルミナ現象が　起こせるよ。
-NH_Tips_072	\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿは使ってる？　眠っているポケモンの近くで\n使ってみるのも　いいかもしれないね。
-NH_Tips_073	音楽が好きそうなポケモンに　\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿを鳴らすと\n歌ったり　踊ったりしてくれるかもね。
-NH_Tips_074	\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿで　速く進むだけじゃなくて　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0後ろ向き\x0e\0\x03\x02ÿÿで\nゆっくり進めば　色んな写真が　撮れそうだよね。
-NH_Tips_075	各ルートで　いい写真を　たくさん撮って\n\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿの　ハイスコアを狙ってみてね！
-NH_Tips_076	\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿでは　調査したデータが見れるよ。\n博士っぽく言うと　「振り返ることも　大事だからね！」
-NH_Tips_077	\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿでは　キミが撮影した　写真が見れるよ。\n振り返ることも　大事だからだね。
-NH_Tips_079	\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0マップ\x0e\0\x03\x02ÿÿでは　各ルートのどこに\nポケモンがいたのか　振り返ることができるよ。
-NH_Tips_080	光っている　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　見つけたら　撮影してみてね。\n\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿに　まとめておくよ。
-NH_Tips_081	各地にある　\x0e\0\x03\x02\0\0古代遺跡\x0e\0\x03\x02ÿÿを　見つけたら　撮影してみてね。\n\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿに　まとめておくよ。
-NH_Tips_082	\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿに保存した写真は　色々　\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿできるよ。\n友だちと　見せ合うのも　すっごく楽しいんだから！
-NH_Tips_083	調査中にしたことは　ネオワン号が　記録しているよ。\n\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0調査ログ\x0e\0\x03\x02ÿÿで　確認してみてね。
-NH_Tips_084	キミの調査の　進展によって　\x0e\0\x03\x02\0\0調査称号\x0e\0\x03\x02ÿÿを　贈るよ。\nどんなものがあるかは　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿで　確認してみてね。
-NH_Tips_085	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　世界中にいる\nたくさんの　友だちの写真が　見られるよ。
-NH_Tips_086	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿでは　\x0e\0\x03\x02\0\0スコアランキング\x0e\0\x03\x02ÿÿもあるよ。\n上位にいる人が　アップした写真も　見られるんだ。
-NH_Tips_087	\x0e\0\x03\x02\0\0オンライン\x0e\0\x03\x02ÿÿで　気に入った写真を　見つけたら\n\x0e\0\x03\x02\0\0りんごメダル\x0e\0\x03\x02ÿÿを　贈ってみてね。　もらったら　嬉しいものなんだ。
-NH_Tips_088	ポケモンの行動を　知るためには\n\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ　すべての写真が　必要なんだよ。
-NH_Tips_089	\x0e\0\x03\x02\0\0調査レベル\x0e\0\x03\x02ÿÿは　ルートごとの　調査具合を　表すので\n\x0e\0\x03\x02\0\0昼\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0夜\x0e\0\x03\x02ÿÿは　それぞれ　調査が必要だよ。
-NH_Tips_090	同じポケモンでも　\x0e\0\x03\x02\0\0時間によって　行動が変わる\x0e\0\x03\x02ÿÿんだ。\n\x0e\0\x03\x02\0\0昼\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0夜\x0e\0\x03\x02ÿÿ　両方見かけたら　どちらも撮影してね。
-NH_Tips_091	調査したあとは　\x0e\0\x03\x02\0\0アルバム\x0e\0\x03\x02ÿÿに保存する写真を　選べるよ。\n\x0e\0\x03\x02\0\0エクストラ撮影\x0e\0\x03\x02ÿÿでは　撮り直しもできるから　やってみてね。
+NH_Tips_059	僕が　開発した　{color[0000]}ネオワン号{color[ffff]}は\nポケモン調査に　欠かせない　特別なマシンだよ！
+NH_Tips_060	{color[0000]}ネオワン号{color[ffff]}は　昔　僕が使っていた\n調査ポッドの　技術も　使われているんだよ。
+NH_Tips_061	キャプテン・ビクトルの　「{color[0000]}レンティル冒険記{color[ffff]}」は\nフロレオ島の　どの家にもある　有名な本だよね。
+NH_Tips_062	あの　「{color[0000]}レンティル冒険記{color[ffff]}」みたいな　冒険を\nオレらがするなんて　思わなかったぜ！
+NH_Tips_063	今から　100年前　レンティル地方を　冒険した\n{color[0000]}キャプテン・ビクトル{color[ffff]}。　僕の　尊敬する人だよ。
+NH_Tips_064	{color[0000]}キャプテン・ビクトル{color[ffff]}かぁ。　僕は　カメラマンだけど\n冒険してるトコは　似ているね。　話してみたかったなぁ。
+NH_Tips_065	ポインタを　ポケモンに合わせると　主役を決められるよ。\n{color[0000]}主役を決めて　真ん中で撮る{color[ffff]}！　もう覚えたよね！
+NH_Tips_066	ポケモンを　大きく撮るには　{color[0000]}ズーム{color[ffff]}！\n狙いを定めてから　ズームするのが　コツなんだって。
+NH_Tips_067	{color[0000]}サーチ{color[ffff]}を使うと　隠れているポケモンを\n見つけることもできるよ！
+NH_Tips_068	{color[0000]}サーチ{color[ffff]}で見つけた　  を調べると　{color[0000]}分析結果{color[ffff]}が　出るよ。\nポケモンの　新しい　一面を　見つける　ヒントになるかも？
+NH_Tips_069	{color[0000]}サーチ{color[ffff]}するときに出る　音や　電波ってね\nポケモンによっては　気になっちゃうみたい。
+NH_Tips_070	{color[0000]}ふわりんご{color[ffff]}を　ポケモンにあげると　食べてくれたりするよ。\n少し　離れた場所に　導くのにも　使えるみたい！
+NH_Tips_071	{color[0000]}イルミナオーブ{color[ffff]}を　ポケモンやクリスタフラワーに\n当てると　イルミナ現象が　起こせるよ。
+NH_Tips_072	{color[0000]}メロディ{color[ffff]}は使ってる？　眠っているポケモンの近くで\n使ってみるのも　いいかもしれないね。
+NH_Tips_073	音楽が好きそうなポケモンに　{color[0000]}メロディ{color[ffff]}を鳴らすと\n歌ったり　踊ったりしてくれるかもね。
+NH_Tips_074	{color[0000]}ターボ{color[ffff]}で　速く進むだけじゃなくて　{color[0000]}ズーム{color[ffff]}や　{color[0000]}後ろ向き{color[ffff]}で\nゆっくり進めば　色んな写真が　撮れそうだよね。
+NH_Tips_075	各ルートで　いい写真を　たくさん撮って\n{color[0000]}ルートスコア{color[ffff]}の　ハイスコアを狙ってみてね！
+NH_Tips_076	{color[0000]}研究室{color[ffff]}では　調査したデータが見れるよ。\n博士っぽく言うと　「振り返ることも　大事だからね！」
+NH_Tips_077	{color[0000]}フォト図鑑{color[ffff]}では　キミが撮影した　写真が見れるよ。\n振り返ることも　大事だからだね。
+NH_Tips_079	{color[0000]}フォト図鑑{color[ffff]}の　{color[0000]}マップ{color[ffff]}では　各ルートのどこに\nポケモンがいたのか　振り返ることができるよ。
+NH_Tips_080	光っている　{color[0000]}クリスタフラワー{color[ffff]}を　見つけたら　撮影してみてね。\n{color[0000]}フォト図鑑{color[ffff]}の　{color[0000]}コレクション{color[ffff]}に　まとめておくよ。
+NH_Tips_081	各地にある　{color[0000]}古代遺跡{color[ffff]}を　見つけたら　撮影してみてね。\n{color[0000]}フォト図鑑{color[ffff]}の　{color[0000]}コレクション{color[ffff]}に　まとめておくよ。
+NH_Tips_082	{color[0000]}アルバム{color[ffff]}に保存した写真は　色々　{color[0000]}加工{color[ffff]}できるよ。\n友だちと　見せ合うのも　すっごく楽しいんだから！
+NH_Tips_083	調査中にしたことは　ネオワン号が　記録しているよ。\n{color[0000]}マイスペース{color[ffff]}の　{color[0000]}調査ログ{color[ffff]}で　確認してみてね。
+NH_Tips_084	キミの調査の　進展によって　{color[0000]}調査称号{color[ffff]}を　贈るよ。\nどんなものがあるかは　{color[0000]}マイスペース{color[ffff]}で　確認してみてね。
+NH_Tips_085	{color[0000]}オンライン{color[ffff]}では　世界中にいる\nたくさんの　友だちの写真が　見られるよ。
+NH_Tips_086	{color[0000]}オンライン{color[ffff]}では　{color[0000]}スコアランキング{color[ffff]}もあるよ。\n上位にいる人が　アップした写真も　見られるんだ。
+NH_Tips_087	{color[0000]}オンライン{color[ffff]}で　気に入った写真を　見つけたら\n{color[0000]}りんごメダル{color[ffff]}を　贈ってみてね。　もらったら　嬉しいものなんだ。
+NH_Tips_088	ポケモンの行動を　知るためには\n{color[0000]}★1～4{color[ffff]}　すべての写真が　必要なんだよ。
+NH_Tips_089	{color[0000]}調査レベル{color[ffff]}は　ルートごとの　調査具合を　表すので\n{color[0000]}昼{color[ffff]}と{color[0000]}夜{color[ffff]}は　それぞれ　調査が必要だよ。
+NH_Tips_090	同じポケモンでも　{color[0000]}時間によって　行動が変わる{color[ffff]}んだ。\n{color[0000]}昼{color[ffff]}と{color[0000]}夜{color[ffff]}　両方見かけたら　どちらも撮影してね。
+NH_Tips_091	調査したあとは　{color[0000]}アルバム{color[ffff]}に保存する写真を　選べるよ。\n{color[0000]}エクストラ撮影{color[ffff]}では　撮り直しもできるから　やってみてね。
 NH_Sugg_001	このあたりには　まだ調査できていない\n場所が　ありそうだね。
 NH_Sugg_002	地形的に　まだ行けそうな道が　ありそうだな･･････\nもう少し　調査してみたら　どうかな？
 NH_Sugg_003	この辺　もっと行けるトコありそう！
@@ -6339,48 +6339,48 @@ NH_Sugg_006	この辺　もっと行けるトコありそう！
 NH_Sugg_007	このあたりには　まだ調査できていない\nポケモンが　いそうだね。
 NH_Sugg_008	このあたり　まだキミが　撮影できていない\nポケモンが　いるんじゃないかな。
 NH_Sugg_009	この前　モニターに　チラッと映ったポケモン\nまだ　フォト図鑑にいなかったような･･････？
-NH_Sugg_010	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿには　たくさんポケモンが来るんだ。\n\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿの方でも　よく見かけるよね。
-NH_Sugg_011	\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿでの　撮影はしてる？\nまだ　行ってないところが　あるんじゃないかな？
-NH_Sugg_012	ここってさ　\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿの中も\nポケモンがいて　にぎやかだよな！
-NH_Sugg_013	そういえば　キミの\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿに\n登録されていないポケモンが　\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿにいるよ。
-NH_Sugg_014	この前　僕が\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿで　見かけたポケモン。\nまだ　キミは　撮ったこと　ないんじゃないかなぁ。
-NH_Sugg_015	ねえねえ　\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿにいるポケモン\nせっかくだし　キミの\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿにも　全部登録しようよ！
-NH_Sugg_016	よーし！\n\x0e\0\x03\x02\0\0自然公園\x0e\0\x03\x02ÿÿの　撮影に行ってみよ～！
-NH_Sugg_017	まずは　\x0e\0\x03\x02\0\0昼の自然公園\x0e\0\x03\x02ÿÿで\nたくさん　ポケモンを撮ってみてね。
-NH_Sugg_018	ねえねえ！\n\x0e\0\x03\x02\0\0夜の自然公園\x0e\0\x03\x02ÿÿ　撮影しに行こうよ！
-NH_Sugg_019	\x0e\0\x03\x02\0\0夜の自然公園\x0e\0\x03\x02ÿÿでは　イルミナ現象が　見られると思うよ。\nまわりを　よく観察してみてね。
-NH_Sugg_020	\x0e\0\x03\x02\0\0自然公園\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿに　行こうよ！\nそこに　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　いるかもなんだって！
-NH_Sugg_021	\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿの　光る模様･･････\n\x0e\0\x03\x02\0\0自然公園\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで　調査を頼む！
-NH_Sugg_022	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使えば　違った写真が　撮れるかも！\nどんどん　使ってみてね！
-NH_Sugg_023	準備は　もう少しかかるので　\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿを使って\n\x0e\0\x03\x02\0\0自然公園\x0e\0\x03\x02ÿÿにいるポケモンを　調査しててね。
-NH_Sugg_024	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\n\x0e\0\x03\x02\0\0ジャングル\x0e\0\x03\x02ÿÿでは　\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿが　役に立つと思うよ！
-NH_Sugg_025	\x0e\0\x03\x02\0\0夜のジャングル\x0e\0\x03\x02ÿÿで　光っている状態の\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてね。
+NH_Sugg_010	{color[0000]}ベースキャンプ{color[ffff]}には　たくさんポケモンが来るんだ。\n{color[0000]}研究室{color[ffff]}の方でも　よく見かけるよね。
+NH_Sugg_011	{color[0000]}ベースキャンプ{color[ffff]}での　撮影はしてる？\nまだ　行ってないところが　あるんじゃないかな？
+NH_Sugg_012	ここってさ　{color[0000]}研究室{color[ffff]}の中も\nポケモンがいて　にぎやかだよな！
+NH_Sugg_013	そういえば　キミの{color[0000]}フォト図鑑{color[ffff]}に\n登録されていないポケモンが　{color[0000]}ベースキャンプ{color[ffff]}にいるよ。
+NH_Sugg_014	この前　僕が{color[0000]}ベースキャンプ{color[ffff]}で　見かけたポケモン。\nまだ　キミは　撮ったこと　ないんじゃないかなぁ。
+NH_Sugg_015	ねえねえ　{color[0000]}ベースキャンプ{color[ffff]}にいるポケモン\nせっかくだし　キミの{color[0000]}フォト図鑑{color[ffff]}にも　全部登録しようよ！
+NH_Sugg_016	よーし！\n{color[0000]}自然公園{color[ffff]}の　撮影に行ってみよ～！
+NH_Sugg_017	まずは　{color[0000]}昼の自然公園{color[ffff]}で\nたくさん　ポケモンを撮ってみてね。
+NH_Sugg_018	ねえねえ！\n{color[0000]}夜の自然公園{color[ffff]}　撮影しに行こうよ！
+NH_Sugg_019	{color[0000]}夜の自然公園{color[ffff]}では　イルミナ現象が　見られると思うよ。\nまわりを　よく観察してみてね。
+NH_Sugg_020	{color[0000]}自然公園{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}に　行こうよ！\nそこに　{color[0000]}イルミナポケモン{color[ffff]}が　いるかもなんだって！
+NH_Sugg_021	{color[0000]}イルミナポケモン{color[ffff]}の　光る模様･･････\n{color[0000]}自然公園{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で　調査を頼む！
+NH_Sugg_022	{color[0000]}ふわりんご{color[ffff]}や　{color[0000]}サーチ{color[ffff]}を使えば　違った写真が　撮れるかも！\nどんどん　使ってみてね！
+NH_Sugg_023	準備は　もう少しかかるので　{color[0000]}ふわりんご{color[ffff]}や　{color[0000]}サーチ{color[ffff]}を使って\n{color[0000]}自然公園{color[ffff]}にいるポケモンを　調査しててね。
+NH_Sugg_024	{color[0000]}ベラス島{color[ffff]}の　調査を進めてみてね！\n{color[0000]}ジャングル{color[ffff]}では　{color[0000]}サーチ{color[ffff]}が　役に立つと思うよ！
+NH_Sugg_025	{color[0000]}夜のジャングル{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
 NH_Sugg_026	よーし！　色んなトコ　調査しに行こうぜ！\nどっちが　いい写真　撮れるか　勝負だ！
-NH_Sugg_027	今まで　調査したルートも　\x0e\0\x03\x02\0\0イルミナオーブ\x0e\0\x03\x02ÿÿを使って\nもう一度　調査してみようよ！
-NH_Sugg_028	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
-NH_Sugg_029	\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿについて　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
-NH_Sugg_030	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　会いに行こう！\n\x0e\0\x03\x02\0\0トキシキの森\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_031	\x0e\0\x03\x02\0\0ベラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\n光る模様の　浮き出た　\x0e\0\x03\x02\0\0ミロカロス\x0e\0\x03\x02ÿÿを　撮影してきてくれ！
-NH_Sugg_032	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
-NH_Sugg_033	\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿについて　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
-NH_Sugg_034	\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿで　光っている状態の\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてね。
-NH_Sugg_035	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　会いに行こう！\n\x0e\0\x03\x02\0\0レンティル海床\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_036	\x0e\0\x03\x02\0\0コピア諸島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\n光る模様の　浮き出た　\x0e\0\x03\x02\0\0むれたすがたのヨワシ\x0e\0\x03\x02ÿÿを　撮影してきてくれ！
-NH_Sugg_037	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
-NH_Sugg_038	\x0e\0\x03\x02\0\0ドロー火山\x0e\0\x03\x02ÿÿについて　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
-NH_Sugg_039	\x0e\0\x03\x02\0\0夜のネッサ砂漠\x0e\0\x03\x02ÿÿで　光っている状態の\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてね。
-NH_Sugg_040	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　会いに行こう！\n\x0e\0\x03\x02\0\0ドロー火山\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_041	\x0e\0\x03\x02\0\0ボルク島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\n光る模様の　浮き出た　\x0e\0\x03\x02\0\0ウルガモス\x0e\0\x03\x02ÿÿを　撮影してきてくれ！
-NH_Sugg_042	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
-NH_Sugg_043	\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿについて　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
-NH_Sugg_044	\x0e\0\x03\x02\0\0夜のヒエール雪原\x0e\0\x03\x02ÿÿで　光っている状態の\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてね。
-NH_Sugg_045	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　会いに行こう！\n\x0e\0\x03\x02\0\0ハナレ洞窟\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_046	\x0e\0\x03\x02\0\0デュラス島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\n光る模様の　浮き出た　\x0e\0\x03\x02\0\0ハガネール\x0e\0\x03\x02ÿÿを　撮影してきてくれ！
-NH_Sugg_047	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿの　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
-NH_Sugg_048	\x0e\0\x03\x02\0\0シューゴ遺跡\x0e\0\x03\x02ÿÿについて　もう少し　調査をお願いできるかな。\n\x0e\0\x03\x02\0\0台座の　謎\x0e\0\x03\x02ÿÿを解けば　先に進めると思うんだ。
-NH_Sugg_049	\x0e\0\x03\x02\0\0遺跡\x0e\0\x03\x02ÿÿで　光っている状態の\n\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿを　撮影してきてね。
-NH_Sugg_050	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿで　最後の\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　会いに行こう！\n\x0e\0\x03\x02\0\0シューゴ遺跡\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿだよ！
-NH_Sugg_051	\x0e\0\x03\x02\0\0アウラム島\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0イルミナスポット\x0e\0\x03\x02ÿÿで\n光る模様の　浮き出た　\x0e\0\x03\x02\0\0ゼルネアス\x0e\0\x03\x02ÿÿを　撮影してきてくれ！
+NH_Sugg_027	今まで　調査したルートも　{color[0000]}イルミナオーブ{color[ffff]}を使って\nもう一度　調査してみようよ！
+NH_Sugg_028	{color[0000]}ベラス島{color[ffff]}の　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
+NH_Sugg_029	{color[0000]}トキシキの森{color[ffff]}について　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
+NH_Sugg_030	{color[0000]}ベラス島{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}トキシキの森{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_031	{color[0000]}ベラス島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}ミロカロス{color[ffff]}を　撮影してきてくれ！
+NH_Sugg_032	{color[0000]}コピア諸島{color[ffff]}の　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
+NH_Sugg_033	{color[0000]}レンティル海床{color[ffff]}について　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
+NH_Sugg_034	{color[0000]}レンティル海床{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
+NH_Sugg_035	{color[0000]}コピア諸島{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}レンティル海床{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_036	{color[0000]}コピア諸島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}むれたすがたのヨワシ{color[ffff]}を　撮影してきてくれ！
+NH_Sugg_037	{color[0000]}ボルク島{color[ffff]}の　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
+NH_Sugg_038	{color[0000]}ドロー火山{color[ffff]}について　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
+NH_Sugg_039	{color[0000]}夜のネッサ砂漠{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
+NH_Sugg_040	{color[0000]}ボルク島{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}ドロー火山{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_041	{color[0000]}ボルク島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}ウルガモス{color[ffff]}を　撮影してきてくれ！
+NH_Sugg_042	{color[0000]}デュラス島{color[ffff]}の　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
+NH_Sugg_043	{color[0000]}ハナレ洞窟{color[ffff]}について　もう少し　調査をお願いできるかな。\n興味深い　エネルギー反応が　出ているんだ。
+NH_Sugg_044	{color[0000]}夜のヒエール雪原{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
+NH_Sugg_045	{color[0000]}デュラス島{color[ffff]}の　{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}ハナレ洞窟{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_046	{color[0000]}デュラス島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}ハガネール{color[ffff]}を　撮影してきてくれ！
+NH_Sugg_047	{color[0000]}アウラム島{color[ffff]}の　調査を進めてみてね！\nきっと　新しい発見が　あるはずだよ！
+NH_Sugg_048	{color[0000]}シューゴ遺跡{color[ffff]}について　もう少し　調査をお願いできるかな。\n{color[0000]}台座の　謎{color[ffff]}を解けば　先に進めると思うんだ。
+NH_Sugg_049	{color[0000]}遺跡{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
+NH_Sugg_050	{color[0000]}アウラム島{color[ffff]}で　最後の{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}シューゴ遺跡{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
+NH_Sugg_051	{color[0000]}アウラム島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}ゼルネアス{color[ffff]}を　撮影してきてくれ！
 TipsLoading_Head.msbt
 LT_Tips_001_Head	人物紹介：カガミ博士
 LT_Tips_002_Head	人物紹介：リタ
@@ -6459,82 +6459,82 @@ LT_Tips_074_Head	Switchへの保存
 LT_Tips_075_Head	ベースキャンプのポケモンたち
 LT_Tips_076_Head	研究室にある写真
 TipsLoading_Info.msbt
-LT_Tips_001_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿで　活動する　\x0e\0\x03\x02\0\0ポケモン博士\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿに関する　研究が　認められて\nレンティル全土で　調査を行う　許可を得た。
-LT_Tips_002_Info	\x0e\0\x03\x02\0\0くるんとした　ポニーテール\x0e\0\x03\x02ÿÿが　トレードマーク。\nポケモンが大好きで　\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿの　研究を\n\x0e\0\x03\x02\0\0助手\x0e\0\x03\x02ÿÿとして　手伝っている。
-LT_Tips_003_Info	\x0e\0\x03\x02\0\0ツンツンとした　ヘアスタイル\x0e\0\x03\x02ÿÿが　トレードマーク。\n\x0e\0\x03\x02\0\0トオル\x0e\0\x03\x02ÿÿが撮った　ポケモンの写真に　感動して\n世界一の　\x0e\0\x03\x02\0\0ポケモンカメラマン\x0e\0\x03\x02ÿÿを　目指すようになった。
-LT_Tips_004_Info	\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿの　古い友人で　\x0e\0\x03\x02\0\0天才カメラマン\x0e\0\x03\x02ÿÿ。\n自然体のポケモンを　撮影するのが　モットー。\n昔　\x0e\0\x03\x02\0\0とある博士\x0e\0\x03\x02ÿÿに　頼まれて\nポケモン撮影に　協力したことがある。
-LT_Tips_005_Info	\x0e\0\x03\x02\0\0複数の島\x0e\0\x03\x02ÿÿからなる　独自の　文化を持つ　地方。\n島によって　大きく　環境が異なり\n\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0花\x0e\0\x03\x02ÿÿなどが　\x0e\0\x03\x02\0\0光を放つ現象\x0e\0\x03\x02ÿÿが　確認されている。
-LT_Tips_006_Info	\x0e\0\x03\x02\0\0人\x0e\0\x03\x02ÿÿと\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿが　ともに　暮らしている\n\x0e\0\x03\x02\0\0おだやかな気候\x0e\0\x03\x02ÿÿの　島。\n保護された　自然の中に　\x0e\0\x03\x02\0\0ポケモンを　研究する　施設\x0e\0\x03\x02ÿÿがある。
-LT_Tips_007_Info	\x0e\0\x03\x02\0\0豊かな水\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0温暖な気候\x0e\0\x03\x02ÿÿによって　育てられた\nさまざまな　植物が　生い茂る　\x0e\0\x03\x02\0\0緑の島\x0e\0\x03\x02ÿÿ。\n自然の恵みが　ポケモンの暮らしを　支えている。
-LT_Tips_008_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの　海の　中央に　位置する　\x0e\0\x03\x02\0\0小さな島々\x0e\0\x03\x02ÿÿ。\n食べ物が　豊富な　\x0e\0\x03\x02\0\0あたたかな海\x0e\0\x03\x02ÿÿは\n水辺に暮らす　ポケモンたちの　楽園。
-LT_Tips_009_Info	\x0e\0\x03\x02\0\0巨大な　火山\x0e\0\x03\x02ÿÿがそびえる　\x0e\0\x03\x02\0\0猛暑の島\x0e\0\x03\x02ÿÿ。\n乾燥や　強風　熱や　毒など　\x0e\0\x03\x02\0\0過酷な環境\x0e\0\x03\x02ÿÿで\nたくましく生きる　ポケモンたちが　暮らしている。
-LT_Tips_010_Info	\x0e\0\x03\x02\0\0冒険家ビクトル\x0e\0\x03\x02ÿÿも　たどりつけなかった\n\x0e\0\x03\x02\0\0雪と氷\x0e\0\x03\x02ÿÿに　閉ざされた　\x0e\0\x03\x02\0\0最果ての島\x0e\0\x03\x02ÿÿ。\n凍るような寒さと　共存する　ポケモンたちがいる。
-LT_Tips_011_Info	\x0e\0\x03\x02\0\0人々の　記憶から　消えた\x0e\0\x03\x02ÿÿ　小さな島。\nいにしえの昔　何が起きたのか\nそれを知るために　残された　\x0e\0\x03\x02\0\0手がかり\x0e\0\x03\x02ÿÿ。
-LT_Tips_012_Info	\x0e\0\x03\x02\0\0レンティル ポケモン自然科学研究所\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0マイスペース\x0e\0\x03\x02ÿÿなど　調査したデータが　確認できる。\n「ベースキャンプ」　＞　「研究室」
-LT_Tips_013_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿで行った　調査のデータが\n撮影した写真とともに　記録されている。\n\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿで　いつでも　確認できる。\n「ベースキャンプ」　＞　「研究室」　＞　「フォト図鑑」
-LT_Tips_014_Info	\x0e\0\x03\x02\0\0ポケモンの写真\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0情報\x0e\0\x03\x02ÿÿが　確認できる　\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿ。\n各ページ　\x0e\0\x03\x02\0\04枚の写真\x0e\0\x03\x02ÿÿを埋めると　ページが完成する。\n「研究室」　＞　「フォト図鑑」　＞　「ポケモン」
-LT_Tips_015_Info	調査した　\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0コレクション\x0e\0\x03\x02ÿÿを\nルートごとに　確認できる　\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿ。\n「研究室」　＞　「フォト図鑑」　＞　「マップ」
-LT_Tips_016_Info	\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0古代遺跡\x0e\0\x03\x02ÿÿの\n調査データが　確認できる　\x0e\0\x03\x02\0\0フォト図鑑\x0e\0\x03\x02ÿÿ。\n「研究室」　＞　「フォト図鑑」　＞　「コレクション」
-LT_Tips_017_Info	保存した写真の　確認や　加工ができる。\n\x0e\0\x03\x02\0\0エクストラ撮影\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0加工した写真\x0e\0\x03\x02ÿÿも　保存されている。\n「研究室」　＞　「マイスペース」　＞　「アルバム」
-LT_Tips_018_Info	撮影した写真に　\x0e\0\x03\x02\0\0スタンプなどを追加\x0e\0\x03\x02ÿÿして　さらに楽しむ　機能。\n調査を進めると　使える素材が　増えていく。\n「アルバム」など　＞　写真選択　＞　「写真加工」
-LT_Tips_019_Info	調査が終わったあと　撮影した写真の　\x0e\0\x03\x02\0\0明るさ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿなどの\n設定を変更して　\x0e\0\x03\x02\0\0もう一度　撮影できる\x0e\0\x03\x02ÿÿ　機能。\n「リトライメニュー」　＞　「アルバム保存」　＞　写真選択　＞　「エクストラ撮影」
+LT_Tips_001_Info	{color[0000]}レンティル地方{color[ffff]}で　活動する　{color[0000]}ポケモン博士{color[ffff]}。\n{color[0000]}イルミナ現象{color[ffff]}に関する　研究が　認められて\nレンティル全土で　調査を行う　許可を得た。
+LT_Tips_002_Info	{color[0000]}くるんとした　ポニーテール{color[ffff]}が　トレードマーク。\nポケモンが大好きで　{color[0000]}カガミ博士{color[ffff]}の　研究を\n{color[0000]}助手{color[ffff]}として　手伝っている。
+LT_Tips_003_Info	{color[0000]}ツンツンとした　ヘアスタイル{color[ffff]}が　トレードマーク。\n{color[0000]}トオル{color[ffff]}が撮った　ポケモンの写真に　感動して\n世界一の　{color[0000]}ポケモンカメラマン{color[ffff]}を　目指すようになった。
+LT_Tips_004_Info	{color[0000]}カガミ博士{color[ffff]}の　古い友人で　{color[0000]}天才カメラマン{color[ffff]}。\n自然体のポケモンを　撮影するのが　モットー。\n昔　{color[0000]}とある博士{color[ffff]}に　頼まれて\nポケモン撮影に　協力したことがある。
+LT_Tips_005_Info	{color[0000]}複数の島{color[ffff]}からなる　独自の　文化を持つ　地方。\n島によって　大きく　環境が異なり\n{color[0000]}ポケモン{color[ffff]}や　{color[0000]}花{color[ffff]}などが　{color[0000]}光を放つ現象{color[ffff]}が　確認されている。
+LT_Tips_006_Info	{color[0000]}人{color[ffff]}と{color[0000]}ポケモン{color[ffff]}が　ともに　暮らしている\n{color[0000]}おだやかな気候{color[ffff]}の　島。\n保護された　自然の中に　{color[0000]}ポケモンを　研究する　施設{color[ffff]}がある。
+LT_Tips_007_Info	{color[0000]}豊かな水{color[ffff]}と　{color[0000]}温暖な気候{color[ffff]}によって　育てられた\nさまざまな　植物が　生い茂る　{color[0000]}緑の島{color[ffff]}。\n自然の恵みが　ポケモンの暮らしを　支えている。
+LT_Tips_008_Info	{color[0000]}レンティル地方{color[ffff]}の　海の　中央に　位置する　{color[0000]}小さな島々{color[ffff]}。\n食べ物が　豊富な　{color[0000]}あたたかな海{color[ffff]}は\n水辺に暮らす　ポケモンたちの　楽園。
+LT_Tips_009_Info	{color[0000]}巨大な　火山{color[ffff]}がそびえる　{color[0000]}猛暑の島{color[ffff]}。\n乾燥や　強風　熱や　毒など　{color[0000]}過酷な環境{color[ffff]}で\nたくましく生きる　ポケモンたちが　暮らしている。
+LT_Tips_010_Info	{color[0000]}冒険家ビクトル{color[ffff]}も　たどりつけなかった\n{color[0000]}雪と氷{color[ffff]}に　閉ざされた　{color[0000]}最果ての島{color[ffff]}。\n凍るような寒さと　共存する　ポケモンたちがいる。
+LT_Tips_011_Info	{color[0000]}人々の　記憶から　消えた{color[ffff]}　小さな島。\nいにしえの昔　何が起きたのか\nそれを知るために　残された　{color[0000]}手がかり{color[ffff]}。
+LT_Tips_012_Info	{color[0000]}レンティル ポケモン自然科学研究所{color[ffff]}の　{color[0000]}カガミ博士{color[ffff]}の　{color[0000]}研究室{color[ffff]}。\n{color[0000]}フォト図鑑{color[ffff]}や　{color[0000]}マイスペース{color[ffff]}など　調査したデータが　確認できる。\n「ベースキャンプ」　＞　「研究室」
+LT_Tips_013_Info	{color[0000]}レンティル地方{color[ffff]}で行った　調査のデータが\n撮影した写真とともに　記録されている。\n{color[0000]}研究室{color[ffff]}で　いつでも　確認できる。\n「ベースキャンプ」　＞　「研究室」　＞　「フォト図鑑」
+LT_Tips_014_Info	{color[0000]}ポケモンの写真{color[ffff]}や　{color[0000]}情報{color[ffff]}が　確認できる　{color[0000]}フォト図鑑{color[ffff]}。\n各ページ　{color[0000]}4枚の写真{color[ffff]}を埋めると　ページが完成する。\n「研究室」　＞　「フォト図鑑」　＞　「ポケモン」
+LT_Tips_015_Info	調査した　{color[0000]}ポケモン{color[ffff]}や　{color[0000]}コレクション{color[ffff]}を\nルートごとに　確認できる　{color[0000]}フォト図鑑{color[ffff]}。\n「研究室」　＞　「フォト図鑑」　＞　「マップ」
+LT_Tips_016_Info	{color[0000]}クリスタフラワー{color[ffff]}や　{color[0000]}古代遺跡{color[ffff]}の\n調査データが　確認できる　{color[0000]}フォト図鑑{color[ffff]}。\n「研究室」　＞　「フォト図鑑」　＞　「コレクション」
+LT_Tips_017_Info	保存した写真の　確認や　加工ができる。\n{color[0000]}エクストラ撮影{color[ffff]}や　{color[0000]}加工した写真{color[ffff]}も　保存されている。\n「研究室」　＞　「マイスペース」　＞　「アルバム」
+LT_Tips_018_Info	撮影した写真に　{color[0000]}スタンプなどを追加{color[ffff]}して　さらに楽しむ　機能。\n調査を進めると　使える素材が　増えていく。\n「アルバム」など　＞　写真選択　＞　「写真加工」
+LT_Tips_019_Info	調査が終わったあと　撮影した写真の　{color[0000]}明るさ{color[ffff]}や　{color[0000]}向き{color[ffff]}などの\n設定を変更して　{color[0000]}もう一度　撮影できる{color[ffff]}　機能。\n「リトライメニュー」　＞　「アルバム保存」　＞　写真選択　＞　「エクストラ撮影」
 LT_Tips_020_Info	調査に関する　さまざまな記録が　確認できる。\n「研究室」　＞　「マイスペース」　＞　「調査ログ」
-LT_Tips_021_Info	調査の　進展によって　もらえる　\x0e\0\x03\x02\0\0調査称号\x0e\0\x03\x02ÿÿが　確認できる。\nそれぞれの　進み具合も　記録されている。\n「研究室」　＞　「マイスペース」　＞　「調査称号」
-LT_Tips_022_Info	世界中にいる　たくさんの友だちが　\x0e\0\x03\x02\0\0撮った写真\x0e\0\x03\x02ÿÿや\n\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　確認できる。\n「ベースキャンプ」　＞　「研究室」　＞　「オンライン」
-LT_Tips_023_Info	世界中にいる　たくさんの友だちが　撮った\n\x0e\0\x03\x02\0\0りんごメダルの多い写真\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0注目のルートの写真\x0e\0\x03\x02ÿÿが　確認できる。\n「研究室」　＞　「オンライン」　＞　「みんなの写真」
-LT_Tips_024_Info	他の人が　撮った写真が　\x0e\0\x03\x02\0\0気に入ったときに　贈ることができる\x0e\0\x03\x02ÿÿ　メダル。\n世界中にいる　たくさんの友だちと　贈り合おう！
-LT_Tips_025_Info	世界中にいる　たくさんの友だちの\n\x0e\0\x03\x02\0\0総合図鑑スコア\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ルートスコア\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0ランキング\x0e\0\x03\x02ÿÿが　確認できる。\n「研究室」　＞　「オンライン」　＞　「ランキング」
-LT_Tips_026_Info	\x0e\0\x03\x02\0\0ジャイロ\x0e\0\x03\x02ÿÿの　ON/OFF　や　\x0e\0\x03\x02\0\0コントローラの振動\x0e\0\x03\x02ÿÿなど\n\x0e\0\x03\x02\0\0ゲーム\x0e\0\x03\x02ÿÿに関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「ゲーム」
-LT_Tips_027_Info	どのボタンで　どの操作をするか\n\x0e\0\x03\x02\0\0操作方法\x0e\0\x03\x02ÿÿに関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「ボタン」
-LT_Tips_028_Info	\x0e\0\x03\x02\0\0カメラ\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0ポインタの移動速度\x0e\0\x03\x02ÿÿなど\n\x0e\0\x03\x02\0\0撮影\x0e\0\x03\x02ÿÿに関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「カメラ」
-LT_Tips_029_Info	\x0e\0\x03\x02\0\0音楽\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0効果音\x0e\0\x03\x02ÿÿの大きさ　\x0e\0\x03\x02\0\0人物のボイス種類\x0e\0\x03\x02ÿÿなどの\n\x0e\0\x03\x02\0\0サウンド\x0e\0\x03\x02ÿÿに関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「サウンド」
-LT_Tips_030_Info	\x0e\0\x03\x02\0\0漢字\x0e\0\x03\x02ÿÿと　\x0e\0\x03\x02\0\0ひらがな\x0e\0\x03\x02ÿÿの　切り替えや\n\x0e\0\x03\x02\0\0オンラインの写真\x0e\0\x03\x02ÿÿに関する　設定を　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「その他」
-LT_Tips_031_Info	\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿが　開発した　\x0e\0\x03\x02\0\0ポケモン調査\x0e\0\x03\x02ÿÿ専用の　マシン。\nどんな環境でも　快適な状態で　調査できる上\n自動で　ルートを判別するので　撮影に　集中できる。\n\x0e\0\x03\x02\0\0とある博士\x0e\0\x03\x02ÿÿが　開発した　\x0e\0\x03\x02\0\0調査ポッド\x0e\0\x03\x02ÿÿが　ベースになっている。
-LT_Tips_032_Info	\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿが　開発した　\x0e\0\x03\x02\0\0ポケモン調査\x0e\0\x03\x02ÿÿ専用の　カメラ。\n\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿと　連動しており　さまざまな機能を　使うことができる。\n\x0e\0\x03\x02\0\0通信\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0分析\x0e\0\x03\x02ÿÿのほか　個人のIDにもなっている。
-LT_Tips_033_Info	\x0e\0\x03\x02\0\0周囲を分析\x0e\0\x03\x02ÿÿして　\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿの研究データから\n割り出した　\x0e\0\x03\x02\0\0情報\x0e\0\x03\x02ÿÿを　教えてくれる　機能。\nサーチ自体の　音や　電波に　\x0e\0\x03\x02\0\0ポケモンが反応\x0e\0\x03\x02ÿÿすることもある。
-LT_Tips_034_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿで採れる　甘くておいしい　\x0e\0\x03\x02\0\0果実\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ポケモンの大好物\x0e\0\x03\x02ÿÿで　近くに投げると　\x0e\0\x03\x02\0\0食べてくれる\x0e\0\x03\x02ÿÿこともある。\n軽くて　やわらかいので　当たっても　痛くない。
-LT_Tips_035_Info	\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0クリスタフラワー\x0e\0\x03\x02ÿÿに当てると\n一時的に　\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿを　起こすことができる　\x0e\0\x03\x02\0\0オーブ\x0e\0\x03\x02ÿÿ。\n島ごとに　エネルギーの性質が違うため\nその島の　クリスタフラワーを　調査しないと　作れない。
-LT_Tips_036_Info	\x0e\0\x03\x02\0\0音楽\x0e\0\x03\x02ÿÿを　鳴らすことができる　\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿの機能。\n\x0e\0\x03\x02\0\0音楽に反応\x0e\0\x03\x02ÿÿして　眠っているポケモンが\x0e\0\x03\x02\0\0起きたり　踊りだしたり\x0e\0\x03\x02ÿÿする。
-LT_Tips_037_Info	\x0e\0\x03\x02\0\0リサーチカメラ\x0e\0\x03\x02ÿÿで　制御できる　\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿの　\x0e\0\x03\x02\0\0加速装置\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿを使うと　ふだんより　\x0e\0\x03\x02\0\0速く進む\x0e\0\x03\x02ÿÿことができる。
-LT_Tips_038_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿでのみ　起こる　\x0e\0\x03\x02\0\0発光現象\x0e\0\x03\x02ÿÿ。\n光っている状態のことを　「\x0e\0\x03\x02\0\0イルミナ状態\x0e\0\x03\x02ÿÿ」と　呼ぶ。\nポケモンや　クリスタフラワーが　イルミナ状態のときは\n生命エネルギーが　\x0e\0\x03\x02\0\0活性化される\x0e\0\x03\x02ÿÿことが　分かっている。
-LT_Tips_039_Info	\x0e\0\x03\x02\0\0言い伝え\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0レンティル冒険記\x0e\0\x03\x02ÿÿに　出てくる\n\x0e\0\x03\x02\0\0体に模様\x0e\0\x03\x02ÿÿがあり　\x0e\0\x03\x02\0\0特別な光\x0e\0\x03\x02ÿÿを　放っている　ポケモン。\n大昔に起こった　災いから　レンティル地方を　守ったと　いわれている。
-LT_Tips_040_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿにだけ咲く　島ごとに　異なる　特徴を持つ　\x0e\0\x03\x02\0\0花\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0ポケモン\x0e\0\x03\x02ÿÿと　同様に　\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿが　起きることが　分かっており\n花の　中心にある　宝石のような　核と　同じ色の　光を放つ。
-LT_Tips_041_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの　各地で　発見されている　\x0e\0\x03\x02\0\0古い　建造物\x0e\0\x03\x02ÿÿ。\n元の形が　分からない　状態のものが　ほとんどだが\nレンティル地方の　\x0e\0\x03\x02\0\0言い伝え\x0e\0\x03\x02ÿÿに　関わるものだと　いわれている。
-LT_Tips_042_Info	\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの　大地に流れる　\x0e\0\x03\x02\0\0エネルギー\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿは　\x0e\0\x03\x02\0\0イルミナフォース\x0e\0\x03\x02ÿÿが　活性化し\nポケモンや　クリスタフラワーに　作用して　起こることを\n\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿが　突き止めた。
-LT_Tips_043_Info	約2000年前　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿに　落下したと　いわれている　\x0e\0\x03\x02\0\0隕石\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0言い伝え\x0e\0\x03\x02ÿÿ以外のことは　ほとんど　謎に包まれている。
-LT_Tips_044_Info	\x0e\0\x03\x02\0\0洞窟\x0e\0\x03\x02ÿÿの奥に　残されていた　約2000年前の　\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0テルル隕石\x0e\0\x03\x02ÿÿから　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿを\n守ったことが　描かれているようだが　一部が　欠けてしまっている。
-LT_Tips_045_Info	約2000年前の人々が　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの　各地に残した　\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0テルル隕石\x0e\0\x03\x02ÿÿから　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿを\n守ったことが　描かれていると　\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿは　推察している。
-LT_Tips_046_Info	約100年前　\x0e\0\x03\x02\0\0キャプテン・ビクトル\x0e\0\x03\x02ÿÿが　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの\nほかの島々を　めぐったときの　記録が　まとめられている　本。\n\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿのことも　記されており\n冒険譚として　\x0e\0\x03\x02\0\0フロレオ島\x0e\0\x03\x02ÿÿの　子どもたちに　大人気。
-LT_Tips_047_Info	約100年前　\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿの　ほかの島々を　めぐった　\x0e\0\x03\x02\0\0冒険家\x0e\0\x03\x02ÿÿ。\n子どもの頃　\x0e\0\x03\x02\0\0イルミナポケモン\x0e\0\x03\x02ÿÿに　出会ったことをきっかけに\nその人生を　冒険に　捧げた。
-LT_Tips_048_Info	ポケモンを　撮影するときは\n\x0e\0\x03\x02\0\0主役を　真ん中に　捉える\x0e\0\x03\x02ÿÿと　GOOD！
-LT_Tips_049_Info	ポケモンの　行動の中で\nどこが　\x0e\0\x03\x02\0\0ベストタイミング\x0e\0\x03\x02ÿÿか　観察してみよう！
-LT_Tips_050_Info	ポケモンが　\x0e\0\x03\x02\0\0こちらを　見ているとき\x0e\0\x03\x02ÿÿに\n撮影すると　よりよい　写真になるよ！
-LT_Tips_051_Info	ポケモンの顔が　体や　地形などで\n\x0e\0\x03\x02\0\0隠れないよう\x0e\0\x03\x02ÿÿ　気を付けてみよう！
-LT_Tips_052_Info	ポケモンを　\x0e\0\x03\x02\0\0カメラの　フレームの中\x0e\0\x03\x02ÿÿに\nなるべく　大きく　捉えよう！
-LT_Tips_053_Info	ポケモンが　\x0e\0\x03\x02\0\0カメラの　フレームから　はみ出さないよう\x0e\0\x03\x02ÿÿ\n主役の位置や　近付きすぎに　注意しよう！
-LT_Tips_054_Info	ポケモンなどの　\x0e\0\x03\x02\0\0主役が　写っていない\x0e\0\x03\x02ÿÿ　写真は\n「\x0e\0\x03\x02\0\0No Data\x0e\0\x03\x02ÿÿ」という　扱いになって　\x0e\0\x03\x02\0\0博士に　見せられない\x0e\0\x03\x02ÿÿよ。\n\x0e\0\x03\x02\0\0スコアも　つかない\x0e\0\x03\x02ÿÿので　注意しよう！
-LT_Tips_055_Info	ポケモンを　\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿして　撮影するときは\nカメラのフレームから　\x0e\0\x03\x02\0\0はみだしやすい\x0e\0\x03\x02ÿÿので　注意しよう！
-LT_Tips_056_Info	ポケモンが　\x0e\0\x03\x02\0\0仲間といるとき\x0e\0\x03\x02ÿÿだけ\n見られる　行動を　探してみよう！
-LT_Tips_057_Info	複数のポケモンを　撮影するときは\n\x0e\0\x03\x02\0\0バランスよく\x0e\0\x03\x02ÿÿ　撮るようにしよう！
-LT_Tips_058_Info	複数のポケモンを　撮影するときは\n\x0e\0\x03\x02\0\0被って　隠れないよう\x0e\0\x03\x02ÿÿ　気を付けよう！
-LT_Tips_059_Info	\x0e\0\x03\x02\0\0主役以外\x0e\0\x03\x02ÿÿのポケモンも　スコアに　影響するので\nなるべく　\x0e\0\x03\x02\0\0大きく　写るよう\x0e\0\x03\x02ÿÿ　意識してみよう！
-LT_Tips_060_Info	\x0e\0\x03\x02\0\0主役以外\x0e\0\x03\x02ÿÿのポケモンも　スコアに　影響するので\n\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿも　気にしてみよう！
-LT_Tips_061_Info	ポケモンと　一緒に撮ると　スコアに　影響する\n\x0e\0\x03\x02\0\0特別な風景\x0e\0\x03\x02ÿÿを　探してみよう！
-LT_Tips_062_Info	\x0e\0\x03\x02\0\0特別な風景\x0e\0\x03\x02ÿÿを　撮影するときは\n\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿにも　注意してみよう！
-LT_Tips_063_Info	\x0e\0\x03\x02\0\0ネオワン号\x0e\0\x03\x02ÿÿは　自動で　ルートを判別して　進むので　\x0e\0\x03\x02\0\0カメラ操作\x0e\0\x03\x02ÿÿに　集中しよう。\nカメラ／ポインタの移動： \x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í\nズーム：  \n撮影： \x0e\x03\x03\x02\0Í
-LT_Tips_064_Info	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿして　隠れているポケモンを　見つけたり\nあやしいところを　\x0e\0\x03\x02\0\0分析\x0e\0\x03\x02ÿÿしてみよう。\nサーチ： \x0e\x03\x01\x02\0Í でサーチ\n分析：サーチしたあと　  に    を合わせて　\x0e\x03\x01\x02\0Í を長押しして　分析
-LT_Tips_065_Info	ポケモンに向かって　投げてみよう。\n\x0e\0\x03\x02\0\0食べてくれたり\x0e\0\x03\x02ÿÿ　違う場所に　\x0e\0\x03\x02\0\0導いたり\x0e\0\x03\x02ÿÿできる。\nふわりんご：    で　向きを決めて　\x0e\x03\x01\x02\0Í で　投げる
-LT_Tips_066_Info	ポケモンや　クリスタフラワーに向かって　投げてみよう。\n\x0e\0\x03\x02\0\0イルミナ現象\x0e\0\x03\x02ÿÿが起きて　ふだんとは　違うことが　起きるかもしれない。\nイルミナオーブ：    で　向きを決めて　\x0e\x03\x01\x02\0Í で　投げる
-LT_Tips_067_Info	ポケモンに向かって　\x0e\0\x03\x02\0\0メロディ\x0e\0\x03\x02ÿÿを使ってみよう。\n\x0e\0\x03\x02\0\0音楽に反応\x0e\0\x03\x02ÿÿして　ふだんとは　違う行動が　見られるかもしれない。\nメロディを鳴らす： \x0e\x03\x01\x02\0Í で　鳴らす\nメロディを止める： メロディが鳴っているとき　\x0e\x03\x01\x02\0Í で　停止
-LT_Tips_068_Info	速く進みたいときは　\x0e\0\x03\x02\0\0ターボ\x0e\0\x03\x02ÿÿを使ってみよう。\n\x0e\0\x03\x02\0\0速く進む\x0e\0\x03\x02ÿÿことで　ふだんとは　違う様子が　撮影できるかもしれない。\nターボ： \x0e\x03\x01\x02\0Í
-LT_Tips_069_Info	その1：ポケモンを　撮影すると　図鑑にページができるよ！\nその2：埋まっていない　\x0e\0\x03\x02\0\0★の写真\x0e\0\x03\x02ÿÿを　撮影して　\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ　すべて埋めよう！
-LT_Tips_070_Info	その1：\x0e\0\x03\x02\0\0調査レベル\x0e\0\x03\x02ÿÿは　ルートごとにあるよ\nその2：そのルートでの　博士の評価が　\x0e\0\x03\x02\0\0調査ポイント\x0e\0\x03\x02ÿÿになるよ\nその3：\x0e\0\x03\x02\0\0色々なポケモン\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0撮ったことのない　★の写真\x0e\0\x03\x02ÿÿを　博士に見せよう！
-LT_Tips_071_Info	その1：\x0e\0\x03\x02\0\0たくさんの種類\x0e\0\x03\x02ÿÿの　ポケモンを　撮影しよう！\nその2：\x0e\0\x03\x02\0\0高いスコア\x0e\0\x03\x02ÿÿの写真を　たくさん撮ろう！
-LT_Tips_072_Info	\x0e\0\x03\x02\0\01回の調査\x0e\0\x03\x02ÿÿで　撮影できる枚数は　\x0e\0\x03\x02\0\072枚\x0e\0\x03\x02ÿÿまで。\n初めての　ルート以外では　\x0e\0\x03\x02\0\00枚\x0e\0\x03\x02ÿÿになったら\n\x0e\0\x03\x02\0\0調査終了になる\x0e\0\x03\x02ÿÿので　残り枚数に　気を付けよう！
-LT_Tips_073_Info	撮影した写真の　タイトルは　\x0e\0\x03\x02\0\0変更することができる\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0好きな　タイトル\x0e\0\x03\x02ÿÿを付けて　どんなシーンを　撮ったのか\n世界中の　友だちに　伝えよう！\n「アルバム」など　＞　写真選択　＞　「タイトル」
-LT_Tips_074_Info	撮影した写真は　\x0e\0\x03\x02\0\0Nintendo Switchのアルバム\x0e\0\x03\x02ÿÿに　保存することができる。\n「アルバム」　＞　写真選択　＞　「Switchに保存」
-LT_Tips_075_Info	\x0e\0\x03\x02\0\0レンティル ポケモン自然科学研究所\x0e\0\x03\x02ÿÿ（通称：\x0e\0\x03\x02\0\0ベースキャンプ\x0e\0\x03\x02ÿÿ）\nには　さまざまな　ポケモンたちが　自由に　出入りしている。\n\x0e\0\x03\x02\0\0ムーランド\x0e\0\x03\x02ÿÿや　\x0e\0\x03\x02\0\0タブンネ\x0e\0\x03\x02ÿÿは　\x0e\0\x03\x02\0\0カガミ博士\x0e\0\x03\x02ÿÿと\n一緒に　暮らしている　\x0e\0\x03\x02\0\0相棒\x0e\0\x03\x02ÿÿのような　存在。
-LT_Tips_076_Info	\x0e\0\x03\x02\0\0リタ\x0e\0\x03\x02ÿÿが　撮影した　風景写真。\n\x0e\0\x03\x02\0\0レンティル地方\x0e\0\x03\x02ÿÿとは　少し違う　雰囲気だが\nココが　どこなのかは　分からない。
+LT_Tips_021_Info	調査の　進展によって　もらえる　{color[0000]}調査称号{color[ffff]}が　確認できる。\nそれぞれの　進み具合も　記録されている。\n「研究室」　＞　「マイスペース」　＞　「調査称号」
+LT_Tips_022_Info	世界中にいる　たくさんの友だちが　{color[0000]}撮った写真{color[ffff]}や\n{color[0000]}ランキング{color[ffff]}が　確認できる。\n「ベースキャンプ」　＞　「研究室」　＞　「オンライン」
+LT_Tips_023_Info	世界中にいる　たくさんの友だちが　撮った\n{color[0000]}りんごメダルの多い写真{color[ffff]}や　{color[0000]}注目のルートの写真{color[ffff]}が　確認できる。\n「研究室」　＞　「オンライン」　＞　「みんなの写真」
+LT_Tips_024_Info	他の人が　撮った写真が　{color[0000]}気に入ったときに　贈ることができる{color[ffff]}　メダル。\n世界中にいる　たくさんの友だちと　贈り合おう！
+LT_Tips_025_Info	世界中にいる　たくさんの友だちの\n{color[0000]}総合図鑑スコア{color[ffff]}や　{color[0000]}ルートスコア{color[ffff]}の　{color[0000]}ランキング{color[ffff]}が　確認できる。\n「研究室」　＞　「オンライン」　＞　「ランキング」
+LT_Tips_026_Info	{color[0000]}ジャイロ{color[ffff]}の　ON/OFF　や　{color[0000]}コントローラの振動{color[ffff]}など\n{color[0000]}ゲーム{color[ffff]}に関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「ゲーム」
+LT_Tips_027_Info	どのボタンで　どの操作をするか\n{color[0000]}操作方法{color[ffff]}に関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「ボタン」
+LT_Tips_028_Info	{color[0000]}カメラ{color[ffff]}や　{color[0000]}ポインタの移動速度{color[ffff]}など\n{color[0000]}撮影{color[ffff]}に関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「カメラ」
+LT_Tips_029_Info	{color[0000]}音楽{color[ffff]}や　{color[0000]}効果音{color[ffff]}の大きさ　{color[0000]}人物のボイス種類{color[ffff]}などの\n{color[0000]}サウンド{color[ffff]}に関する　設定が　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「サウンド」
+LT_Tips_030_Info	{color[0000]}漢字{color[ffff]}と　{color[0000]}ひらがな{color[ffff]}の　切り替えや\n{color[0000]}オンラインの写真{color[ffff]}に関する　設定を　変更できる。\n「ベースキャンプ」　＞　「設定」　＞　「その他」
+LT_Tips_031_Info	{color[0000]}カガミ博士{color[ffff]}が　開発した　{color[0000]}ポケモン調査{color[ffff]}専用の　マシン。\nどんな環境でも　快適な状態で　調査できる上\n自動で　ルートを判別するので　撮影に　集中できる。\n{color[0000]}とある博士{color[ffff]}が　開発した　{color[0000]}調査ポッド{color[ffff]}が　ベースになっている。
+LT_Tips_032_Info	{color[0000]}カガミ博士{color[ffff]}が　開発した　{color[0000]}ポケモン調査{color[ffff]}専用の　カメラ。\n{color[0000]}ネオワン号{color[ffff]}と　連動しており　さまざまな機能を　使うことができる。\n{color[0000]}通信{color[ffff]}や　{color[0000]}分析{color[ffff]}のほか　個人のIDにもなっている。
+LT_Tips_033_Info	{color[0000]}周囲を分析{color[ffff]}して　{color[0000]}カガミ博士{color[ffff]}の研究データから\n割り出した　{color[0000]}情報{color[ffff]}を　教えてくれる　機能。\nサーチ自体の　音や　電波に　{color[0000]}ポケモンが反応{color[ffff]}することもある。
+LT_Tips_034_Info	{color[0000]}レンティル地方{color[ffff]}で採れる　甘くておいしい　{color[0000]}果実{color[ffff]}。\n{color[0000]}ポケモンの大好物{color[ffff]}で　近くに投げると　{color[0000]}食べてくれる{color[ffff]}こともある。\n軽くて　やわらかいので　当たっても　痛くない。
+LT_Tips_035_Info	{color[0000]}ポケモン{color[ffff]}や　{color[0000]}クリスタフラワー{color[ffff]}に当てると\n一時的に　{color[0000]}イルミナ現象{color[ffff]}を　起こすことができる　{color[0000]}オーブ{color[ffff]}。\n島ごとに　エネルギーの性質が違うため\nその島の　クリスタフラワーを　調査しないと　作れない。
+LT_Tips_036_Info	{color[0000]}音楽{color[ffff]}を　鳴らすことができる　{color[0000]}リサーチカメラ{color[ffff]}の機能。\n{color[0000]}音楽に反応{color[ffff]}して　眠っているポケモンが{color[0000]}起きたり　踊りだしたり{color[ffff]}する。
+LT_Tips_037_Info	{color[0000]}リサーチカメラ{color[ffff]}で　制御できる　{color[0000]}ネオワン号{color[ffff]}の　{color[0000]}加速装置{color[ffff]}。\n{color[0000]}ターボ{color[ffff]}を使うと　ふだんより　{color[0000]}速く進む{color[ffff]}ことができる。
+LT_Tips_038_Info	{color[0000]}レンティル地方{color[ffff]}でのみ　起こる　{color[0000]}発光現象{color[ffff]}。\n光っている状態のことを　「{color[0000]}イルミナ状態{color[ffff]}」と　呼ぶ。\nポケモンや　クリスタフラワーが　イルミナ状態のときは\n生命エネルギーが　{color[0000]}活性化される{color[ffff]}ことが　分かっている。
+LT_Tips_039_Info	{color[0000]}言い伝え{color[ffff]}や　{color[0000]}レンティル冒険記{color[ffff]}に　出てくる\n{color[0000]}体に模様{color[ffff]}があり　{color[0000]}特別な光{color[ffff]}を　放っている　ポケモン。\n大昔に起こった　災いから　レンティル地方を　守ったと　いわれている。
+LT_Tips_040_Info	{color[0000]}レンティル地方{color[ffff]}にだけ咲く　島ごとに　異なる　特徴を持つ　{color[0000]}花{color[ffff]}。\n{color[0000]}ポケモン{color[ffff]}と　同様に　{color[0000]}イルミナ現象{color[ffff]}が　起きることが　分かっており\n花の　中心にある　宝石のような　核と　同じ色の　光を放つ。
+LT_Tips_041_Info	{color[0000]}レンティル地方{color[ffff]}の　各地で　発見されている　{color[0000]}古い　建造物{color[ffff]}。\n元の形が　分からない　状態のものが　ほとんどだが\nレンティル地方の　{color[0000]}言い伝え{color[ffff]}に　関わるものだと　いわれている。
+LT_Tips_042_Info	{color[0000]}レンティル地方{color[ffff]}の　大地に流れる　{color[0000]}エネルギー{color[ffff]}。\n{color[0000]}イルミナ現象{color[ffff]}は　{color[0000]}イルミナフォース{color[ffff]}が　活性化し\nポケモンや　クリスタフラワーに　作用して　起こることを\n{color[0000]}カガミ博士{color[ffff]}が　突き止めた。
+LT_Tips_043_Info	約2000年前　{color[0000]}レンティル地方{color[ffff]}に　落下したと　いわれている　{color[0000]}隕石{color[ffff]}。\n{color[0000]}言い伝え{color[ffff]}以外のことは　ほとんど　謎に包まれている。
+LT_Tips_044_Info	{color[0000]}洞窟{color[ffff]}の奥に　残されていた　約2000年前の　{color[0000]}壁画{color[ffff]}。\n{color[0000]}イルミナポケモン{color[ffff]}が　{color[0000]}テルル隕石{color[ffff]}から　{color[0000]}レンティル地方{color[ffff]}を\n守ったことが　描かれているようだが　一部が　欠けてしまっている。
+LT_Tips_045_Info	約2000年前の人々が　{color[0000]}レンティル地方{color[ffff]}の　各地に残した　{color[0000]}壁画{color[ffff]}。\n{color[0000]}イルミナポケモン{color[ffff]}が　{color[0000]}テルル隕石{color[ffff]}から　{color[0000]}レンティル地方{color[ffff]}を\n守ったことが　描かれていると　{color[0000]}カガミ博士{color[ffff]}は　推察している。
+LT_Tips_046_Info	約100年前　{color[0000]}キャプテン・ビクトル{color[ffff]}が　{color[0000]}レンティル地方{color[ffff]}の\nほかの島々を　めぐったときの　記録が　まとめられている　本。\n{color[0000]}イルミナポケモン{color[ffff]}のことも　記されており\n冒険譚として　{color[0000]}フロレオ島{color[ffff]}の　子どもたちに　大人気。
+LT_Tips_047_Info	約100年前　{color[0000]}レンティル地方{color[ffff]}の　ほかの島々を　めぐった　{color[0000]}冒険家{color[ffff]}。\n子どもの頃　{color[0000]}イルミナポケモン{color[ffff]}に　出会ったことをきっかけに\nその人生を　冒険に　捧げた。
+LT_Tips_048_Info	ポケモンを　撮影するときは\n{color[0000]}主役を　真ん中に　捉える{color[ffff]}と　GOOD！
+LT_Tips_049_Info	ポケモンの　行動の中で\nどこが　{color[0000]}ベストタイミング{color[ffff]}か　観察してみよう！
+LT_Tips_050_Info	ポケモンが　{color[0000]}こちらを　見ているとき{color[ffff]}に\n撮影すると　よりよい　写真になるよ！
+LT_Tips_051_Info	ポケモンの顔が　体や　地形などで\n{color[0000]}隠れないよう{color[ffff]}　気を付けてみよう！
+LT_Tips_052_Info	ポケモンを　{color[0000]}カメラの　フレームの中{color[ffff]}に\nなるべく　大きく　捉えよう！
+LT_Tips_053_Info	ポケモンが　{color[0000]}カメラの　フレームから　はみ出さないよう{color[ffff]}\n主役の位置や　近付きすぎに　注意しよう！
+LT_Tips_054_Info	ポケモンなどの　{color[0000]}主役が　写っていない{color[ffff]}　写真は\n「{color[0000]}No Data{color[ffff]}」という　扱いになって　{color[0000]}博士に　見せられない{color[ffff]}よ。\n{color[0000]}スコアも　つかない{color[ffff]}ので　注意しよう！
+LT_Tips_055_Info	ポケモンを　{color[0000]}ズーム{color[ffff]}して　撮影するときは\nカメラのフレームから　{color[0000]}はみだしやすい{color[ffff]}ので　注意しよう！
+LT_Tips_056_Info	ポケモンが　{color[0000]}仲間といるとき{color[ffff]}だけ\n見られる　行動を　探してみよう！
+LT_Tips_057_Info	複数のポケモンを　撮影するときは\n{color[0000]}バランスよく{color[ffff]}　撮るようにしよう！
+LT_Tips_058_Info	複数のポケモンを　撮影するときは\n{color[0000]}被って　隠れないよう{color[ffff]}　気を付けよう！
+LT_Tips_059_Info	{color[0000]}主役以外{color[ffff]}のポケモンも　スコアに　影響するので\nなるべく　{color[0000]}大きく　写るよう{color[ffff]}　意識してみよう！
+LT_Tips_060_Info	{color[0000]}主役以外{color[ffff]}のポケモンも　スコアに　影響するので\n{color[0000]}ポーズ{color[ffff]}も　気にしてみよう！
+LT_Tips_061_Info	ポケモンと　一緒に撮ると　スコアに　影響する\n{color[0000]}特別な風景{color[ffff]}を　探してみよう！
+LT_Tips_062_Info	{color[0000]}特別な風景{color[ffff]}を　撮影するときは\n{color[0000]}向き{color[ffff]}にも　注意してみよう！
+LT_Tips_063_Info	{color[0000]}ネオワン号{color[ffff]}は　自動で　ルートを判別して　進むので　{color[0000]}カメラ操作{color[ffff]}に　集中しよう。\nカメラ／ポインタの移動： {[0301|00cd]} {[0302|00cd]}\nズーム：  \n撮影： {[0303|00cd]}
+LT_Tips_064_Info	{color[0000]}サーチ{color[ffff]}して　隠れているポケモンを　見つけたり\nあやしいところを　{color[0000]}分析{color[ffff]}してみよう。\nサーチ： {[0301|00cd]} でサーチ\n分析：サーチしたあと　  に    を合わせて　{[0301|00cd]} を長押しして　分析
+LT_Tips_065_Info	ポケモンに向かって　投げてみよう。\n{color[0000]}食べてくれたり{color[ffff]}　違う場所に　{color[0000]}導いたり{color[ffff]}できる。\nふわりんご：    で　向きを決めて　{[0301|00cd]} で　投げる
+LT_Tips_066_Info	ポケモンや　クリスタフラワーに向かって　投げてみよう。\n{color[0000]}イルミナ現象{color[ffff]}が起きて　ふだんとは　違うことが　起きるかもしれない。\nイルミナオーブ：    で　向きを決めて　{[0301|00cd]} で　投げる
+LT_Tips_067_Info	ポケモンに向かって　{color[0000]}メロディ{color[ffff]}を使ってみよう。\n{color[0000]}音楽に反応{color[ffff]}して　ふだんとは　違う行動が　見られるかもしれない。\nメロディを鳴らす： {[0301|00cd]} で　鳴らす\nメロディを止める： メロディが鳴っているとき　{[0301|00cd]} で　停止
+LT_Tips_068_Info	速く進みたいときは　{color[0000]}ターボ{color[ffff]}を使ってみよう。\n{color[0000]}速く進む{color[ffff]}ことで　ふだんとは　違う様子が　撮影できるかもしれない。\nターボ： {[0301|00cd]}
+LT_Tips_069_Info	その1：ポケモンを　撮影すると　図鑑にページができるよ！\nその2：埋まっていない　{color[0000]}★の写真{color[ffff]}を　撮影して　{color[0000]}★1～4{color[ffff]}　すべて埋めよう！
+LT_Tips_070_Info	その1：{color[0000]}調査レベル{color[ffff]}は　ルートごとにあるよ\nその2：そのルートでの　博士の評価が　{color[0000]}調査ポイント{color[ffff]}になるよ\nその3：{color[0000]}色々なポケモン{color[ffff]}や　{color[0000]}撮ったことのない　★の写真{color[ffff]}を　博士に見せよう！
+LT_Tips_071_Info	その1：{color[0000]}たくさんの種類{color[ffff]}の　ポケモンを　撮影しよう！\nその2：{color[0000]}高いスコア{color[ffff]}の写真を　たくさん撮ろう！
+LT_Tips_072_Info	{color[0000]}1回の調査{color[ffff]}で　撮影できる枚数は　{color[0000]}72枚{color[ffff]}まで。\n初めての　ルート以外では　{color[0000]}0枚{color[ffff]}になったら\n{color[0000]}調査終了になる{color[ffff]}ので　残り枚数に　気を付けよう！
+LT_Tips_073_Info	撮影した写真の　タイトルは　{color[0000]}変更することができる{color[ffff]}。\n{color[0000]}好きな　タイトル{color[ffff]}を付けて　どんなシーンを　撮ったのか\n世界中の　友だちに　伝えよう！\n「アルバム」など　＞　写真選択　＞　「タイトル」
+LT_Tips_074_Info	撮影した写真は　{color[0000]}Nintendo Switchのアルバム{color[ffff]}に　保存することができる。\n「アルバム」　＞　写真選択　＞　「Switchに保存」
+LT_Tips_075_Info	{color[0000]}レンティル ポケモン自然科学研究所{color[ffff]}（通称：{color[0000]}ベースキャンプ{color[ffff]}）\nには　さまざまな　ポケモンたちが　自由に　出入りしている。\n{color[0000]}ムーランド{color[ffff]}や　{color[0000]}タブンネ{color[ffff]}は　{color[0000]}カガミ博士{color[ffff]}と\n一緒に　暮らしている　{color[0000]}相棒{color[ffff]}のような　存在。
+LT_Tips_076_Info	{color[0000]}リタ{color[ffff]}が　撮影した　風景写真。\n{color[0000]}レンティル地方{color[ffff]}とは　少し違う　雰囲気だが\nココが　どこなのかは　分からない。
 TipsSns_Lines.msbt
 Mis_Stage001_003_01_Head	食べて寝る場所
 Mis_Stage001_003_01_Info1	この辺りで　眠る\nポケモンが　いるんだよ。\nほかのポケモンが　いたら\n出てくるかもしれないね。
@@ -7197,68 +7197,68 @@ TU_photo_02	あのポケモンを　撮ってみて！\n で　撮影でき�
 TU_photo_03	撮影は  だよ！
 TU_photo_04	うん！　いい感じ！
 TU_photo_05	次は　カメラを動かして\n撮ってみよっか。
-TU_photo_06	今　真ん中に見える　丸いマークは\n\x0e\0\x03\x02\0\0ポインタ\x0e\0\x03\x02ÿÿっていうの。
-TU_photo_07	 で　この  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を動かすと\n一緒に　カメラも　動かすことができるんだよ。
+TU_photo_06	今　真ん中に見える　丸いマークは\n{color[0000]}ポインタ{color[ffff]}っていうの。
+TU_photo_07	 で　この  {color[0c00]}{color[ffff]}  を動かすと\n一緒に　カメラも　動かすことができるんだよ。
 TU_photo_08	じゃあ　やってみて！
 TU_photo_09	カメラは　上下左右\nぐるーっと一周　動かせるよ。
-TU_photo_28	カメラを傾けて　\x0e\0\x03\x02\0\0ジャイロ\x0e\0\x03\x02ÿÿで\n動かすこともできるよ。
+TU_photo_28	カメラを傾けて　{color[0000]}ジャイロ{color[ffff]}で\n動かすこともできるよ。
 TU_photo_10	あ　見て！\nピカチュウが来てる。
-TU_photo_11	今度は　あの\x0e\0\x03\x02\0\0ピカチュウ\x0e\0\x03\x02ÿÿを\n撮ってみよう！
-TU_photo_12	まずは  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を　ピカチュウに\n合わせるように　動かしてみて。
-TU_photo_13	 で　 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を動かせるよ。\nピカチュウに　合わせてみてね。
-TU_photo_14	今　ピカチュウのまわりに\n\x0e\0\x03\x02\0\0四角いマーク\x0e\0\x03\x02ÿÿが　出たよね。
-TU_photo_15	これは　\x0e\0\x03\x02\0\0写真の主役\x0e\0\x03\x02ÿÿをしめす\nってことだけ　覚えておいてね。
+TU_photo_11	今度は　あの{color[0000]}ピカチュウ{color[ffff]}を\n撮ってみよう！
+TU_photo_12	まずは  {color[0c00]}{color[ffff]}  を　ピカチュウに\n合わせるように　動かしてみて。
+TU_photo_13	 で　 {color[0c00]}{color[ffff]}  を動かせるよ。\nピカチュウに　合わせてみてね。
+TU_photo_14	今　ピカチュウのまわりに\n{color[0000]}四角いマーク{color[ffff]}が　出たよね。
+TU_photo_15	これは　{color[0000]}写真の主役{color[ffff]}をしめす\nってことだけ　覚えておいてね。
 TU_photo_16	博士に　評価してもらうとき\n大事だから！
 TU_photo_27	じゃ　撮ってみて！
 TU_photo_17	そう！　ばっちりだね！
 TU_photo_18	でも　ちょっと遠いから\nピカチュウが　少し小さく見えるよね。
-TU_photo_19	そんなときは\n\x0e\0\x03\x02\0\0ズーム\x0e\0\x03\x02ÿÿを　使うといいよ。
+TU_photo_19	そんなときは\n{color[0000]}ズーム{color[ffff]}を　使うといいよ。
 TU_photo_20	ズームするには \n押しているあいだだけ　ズームするよ。
 TU_photo_21	じゃあ　ピカチュウを\n大きく　撮ってみよう！
 TU_photo_22	 でズームして　 で撮影だよ。
 TU_photo_23	やったね！\n大きく　撮れたでしょ！
-TU_photo_24	\x0e\0\x03\x02\0\0全体を大きく\x0e\0\x03\x02ÿÿ　そして\n\x0e\0\x03\x02\0\0真ん中で撮る\x0e\0\x03\x02ÿÿのが　コツだよ！
+TU_photo_24	{color[0000]}全体を大きく{color[ffff]}　そして\n{color[0000]}真ん中で撮る{color[ffff]}のが　コツだよ！
 TU_photo_25	よし！　もう　操作はカンペキだね。\nすごいよ　キミ！
-TU_photo_29	あ　カメラや　ジャイロの調整をしたかったら\n\x0e\0\x03\x02\0\0設定メニュー\x0e\0\x03\x02ÿÿから　できるよ！
-TU_photo_30	調査中　\x0e\0\x03\x02\0\0ポーズメニュー\x0e\0\x03\x02ÿÿからも\nできるから　覚えておいてね！
+TU_photo_29	あ　カメラや　ジャイロの調整をしたかったら\n{color[0000]}設定メニュー{color[ffff]}から　できるよ！
+TU_photo_30	調査中　{color[0000]}ポーズメニュー{color[ffff]}からも\nできるから　覚えておいてね！
 TU_photo_26	はかせ～\n説明　終わったよ～。
 EB_Tu_01	リサーチカメラの　使い方は　覚えたかな？
 EB_Tu_02	では　今から　キミが撮った写真を\n評価させてもらうよ。
-EB_Tu_03	まずは　\x0e\0\x03\x02\0\0ポケモンごとに1枚\x0e\0\x03\x02ÿÿ\n写真を　選んでくれるかな？
+EB_Tu_03	まずは　{color[0000]}ポケモンごとに1枚{color[ffff]}\n写真を　選んでくれるかな？
 EB_Tu_04	それを　僕が作った　特別システムを使って\n評価するんだ。
 EB_Tu_05	自分で　イイと思った写真を　選んでみてね。
 EV_Mot_Tu_01	最初の写真は･･････
-EV_Mot_Tu_02	まず　評価で大事なのは\n\x0e\0\x03\x02\0\0★（星）の数\x0e\0\x03\x02ÿÿで　示されるカテゴリー。
+EV_Mot_Tu_02	まず　評価で大事なのは\n{color[0000]}★（星）の数{color[ffff]}で　示されるカテゴリー。
 EV_Mot_Tu_03	これは　ポケモンの行動を　知るために\n僕が作った　仕組みなんだ。
 EV_Mot_Tu_04	★が少ないのは　ふだんの様子。\n★が多いのは　なかなか見られない様子。
 EV_Mot_Tu_05	という具合にね。
 EV_Mot_Tu_06	すべてのカテゴリーが　大事なので\n★の数で　スコアの違いはないよ。
 EV_Mot_Tu_07	カテゴリーの判定には　カメラが記録している\n撮影前後の　情報も　利用してるんだよ。
-EV_Mot_Tu_08	では　今回の写真の　評価をはじめよう。\nまずは「\x0e\0\x03\x02\0\0ポーズ\x0e\0\x03\x02ÿÿ」
-EV_Mot_Tu_19	いい\x0e\0\x03\x02\0\0タイミング\x0e\0\x03\x02ÿÿで撮ると　スコアが上がるよ。
+EV_Mot_Tu_08	では　今回の写真の　評価をはじめよう。\nまずは「{color[0000]}ポーズ{color[ffff]}」
+EV_Mot_Tu_19	いい{color[0000]}タイミング{color[ffff]}で撮ると　スコアが上がるよ。
 EV_Mot_Tu_09	次の項目も　見ていこう。
-EV_Mot_Tu_10	「\x0e\0\x03\x02\0\0大きさ\x0e\0\x03\x02ÿÿ」は　その名の通り\n写ったポケモンの　大きさで　評価するよ。
-EV_Mot_Tu_11	「\x0e\0\x03\x02\0\0向き\x0e\0\x03\x02ÿÿ」は　ポケモンの顔の向きだ。\nなるべく　正面から　撮るようにね。
-EV_Mot_Tu_12	「\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ」は　写真のバランス。\n中央に　ポケモンが写っているのが　基本かな。
-EV_Mot_Tu_13	「\x0e\0\x03\x02\0\0ほかのポケモン\x0e\0\x03\x02ÿÿ」は　一緒に写った\nポケモンがいると　スコアが入るんだ。
+EV_Mot_Tu_10	「{color[0000]}大きさ{color[ffff]}」は　その名の通り\n写ったポケモンの　大きさで　評価するよ。
+EV_Mot_Tu_11	「{color[0000]}向き{color[ffff]}」は　ポケモンの顔の向きだ。\nなるべく　正面から　撮るようにね。
+EV_Mot_Tu_12	「{color[0000]}位置{color[ffff]}」は　写真のバランス。\n中央に　ポケモンが写っているのが　基本かな。
+EV_Mot_Tu_13	「{color[0000]}ほかのポケモン{color[ffff]}」は　一緒に写った\nポケモンがいると　スコアが入るんだ。
 EV_Mot_Tu_14	たくさん　話したけど･･････
 EV_Mot_Tu_15	「ポケモンを　カメラの真ん中で\n大きく捉えて　シャッターを切る」
 EV_Mot_Tu_16	まずは　これだけ　意識してみるといいよ。
 EV_Mot_Tu_17	では　今言ったところの　評価は･･････
 EV_Mot_Tu_18	すごいぞ！\n初めてには　思えないな。
 EA_Tu_Rlv_01	どうだった？
-EA_Tu_Rlv_02	撮影と評価を　繰り返して\nキミだけの　\x0e\0\x03\x02\0\0ポケモンフォト図鑑\x0e\0\x03\x02ÿÿを作る。
+EA_Tu_Rlv_02	撮影と評価を　繰り返して\nキミだけの　{color[0000]}ポケモンフォト図鑑{color[ffff]}を作る。
 EA_Tu_Rlv_03	というのが　大きな目的だよ。
 EA_Tu_Rlv_05	よし　ではそろそろ\n冒険に　出発しようか！
-TU_search_01	\x0e\0\x03\x02\0\0サーチ\x0e\0\x03\x02ÿÿの操作は　簡単。\n を押すだけだよ。
+TU_search_01	{color[0000]}サーチ{color[ffff]}の操作は　簡単。\n を押すだけだよ。
 TU_search_02	やってみて！
 TU_search_03	 でサーチだよ。
 TU_search_04	ポケモンの名前が　表示されたよね。
-TU_search_06	あと　 \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  が出てるの　気付いた？
+TU_search_06	あと　 {color[0b00]}{color[ffff]}  が出てるの　気付いた？
 TU_search_07	それはね　「もっと詳しく　調べられます」\nって　意味なんだよ。
-TU_search_08	まずは　 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を\n \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  に　合わせてみて。
-TU_search_09	 で　 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を動かして\n \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  に　合わせてみてね。
-TU_search_10	 \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  の形が　変わったよね。
+TU_search_08	まずは　 {color[0c00]}{color[ffff]}  を\n {color[0b00]}{color[ffff]}  に　合わせてみて。
+TU_search_09	 で　 {color[0c00]}{color[ffff]}  を動かして\n {color[0b00]}{color[ffff]}  に　合わせてみてね。
+TU_search_10	 {color[0c00]}{color[ffff]}  の形が　変わったよね。
 TU_search_11	そのまま　 を長押しすると\n分析してくれるよ。
 TU_search_12	やってみて。
 TU_search_13	 を長押しで　分析だよ。
@@ -7273,10 +7273,10 @@ TU_search_21	サーチの出す音や　電波に\nポケモンたちが　反�
 TU_search_22	もし　こっちを見たら\nシャッターチャンスだよ。
 TU_search_23	博士に　聞くと\n偶然　らしいんだけどね！
 TU_search_24	よし　もう大丈夫！
-TU_food_01	\x0e\0\x03\x02\0\0ふわりんご\x0e\0\x03\x02ÿÿは　 で投げられるよ。\nやってみよう！
+TU_food_01	{color[0000]}ふわりんご{color[ffff]}は　 で投げられるよ。\nやってみよう！
 TU_food_02	 で　ふわりんごを\nポケモンに向かって　投げてみよう。
 TU_food_03	ほら　食べにきたでしょ。\nみんな　大好きなんだ。
-TU_food_04	好きなところに　投げるには\n \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  を動かすんだよ。
+TU_food_04	好きなところに　投げるには\n {color[0c00]}{color[ffff]}  を動かすんだよ。
 TU_food_05	カメラの操作と　同じだね。
 TU_food_06	 で向きを決めて\n で投げる　が基本だよ。
 TU_food_07	じゃあ　もう1回　やってみよう！
@@ -7289,7 +7289,7 @@ TU_food_13	よし！　練習は　このくらいで。
 TU_food_16	今言ったこと　忘れないでね。
 Tutorial_UI.msbt
 Tutorial_Button_Operation01_Info	チュートリアルでは　初期設定のボタンで\n説明を行います
-Tutorial_PhotoSubmit_Operation08_Info	「\x0e\0\x03\x02\0\0ピカチュウ\x0e\0\x03\x02ÿÿ」のフォルダを　選んでみよう。
-Tutorial_PhotoSubmit_Operation01_Info	次は　「\x0e\0\x03\x02\0\0ビビヨン\x0e\0\x03\x02ÿÿ」のフォルダを　選んでみよう。
-Tutorial_PhotoSubmit_Operation06_Info	\x0e\0\x03\x02\0\0 \x0e\0\x03\x02ÿÿ　もしくは　\x0e\0\x03\x02\0\0ポインタ\x0e\0\x03\x02ÿÿで\n写真を　選べるよ。\n僕に見せる写真が　決まったら\n\x0e\0\x03\x02\0\0 \x0e\0\x03\x02ÿÿを押してね。
-Tutorial_PhotoSubmit_Operation07_Info	\x0e\0\x03\x02\0\0　\x0e\0\x03\x02ÿÿもしくは　「\x0e\0\x03\x02\0\0博士に見せる\x0e\0\x03\x02ÿÿ」を　押せば\n写真評価を　はじめるよ！
+Tutorial_PhotoSubmit_Operation08_Info	「{color[0000]}ピカチュウ{color[ffff]}」のフォルダを　選んでみよう。
+Tutorial_PhotoSubmit_Operation01_Info	次は　「{color[0000]}ビビヨン{color[ffff]}」のフォルダを　選んでみよう。
+Tutorial_PhotoSubmit_Operation06_Info	{color[0000]} {color[ffff]}　もしくは　{color[0000]}ポインタ{color[ffff]}で\n写真を　選べるよ。\n僕に見せる写真が　決まったら\n{color[0000]} {color[ffff]}を押してね。
+Tutorial_PhotoSubmit_Operation07_Info	{color[0000]}　{color[ffff]}もしくは　「{color[0000]}博士に見せる{color[ffff]}」を　押せば\n写真評価を　はじめるよ！

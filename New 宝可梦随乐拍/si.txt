@@ -52,7 +52,7 @@ ComWindow005_Select1	OK
 ComWindow006_Info	要退出调查，并且把照片交给博士看吗？
 ComWindow006_Select1	是
 ComWindow006_Select2	否
-ComWindow007_Info	要从路线的起点重新调查吗？\n\x0e\0\x03\x02\x08\0已拍摄的照片将会消失。\x0e\0\x03\x02ÿÿ
+ComWindow007_Info	要从路线的起点重新调查吗？\n{color[0800]}已拍摄的照片将会消失。{color[ffff]}
 ComWindow007_Select1	是
 ComWindow007_Select2	否
 ComWindow008_Info	要跳过教学吗？
@@ -82,17 +82,17 @@ ComWindow017_Select2	否
 ComWindow018_Info	要将照片保存到\nNintendo Switch的相册吗？
 ComWindow018_Select1	是
 ComWindow018_Select2	否
-ComWindow019_Info	要删除照片吗？\n\x0e\0\x03\x02\x08\0照片一旦被删除，将无法复原。\x0e\0\x03\x02ÿÿ
+ComWindow019_Info	要删除照片吗？\n{color[0800]}照片一旦被删除，将无法复原。{color[ffff]}
 ComWindow019_Select1	是
 ComWindow019_Select2	否
-ComWindow020_Info	正在保存照片……\n请稍等片刻。\n还剩\x0e\x03\x01\x02\0Í张即可完成。
-ComWindow021_Info	要批量删除所选择的照片吗？\n\x0e\0\x03\x02\x08\0照片一旦被删除，将无法复原。\x0e\0\x03\x02ÿÿ
+ComWindow020_Info	正在保存照片……\n请稍等片刻。\n还剩{[0301|00cd]}张即可完成。
+ComWindow021_Info	要批量删除所选择的照片吗？\n{color[0800]}照片一旦被删除，将无法复原。{color[ffff]}
 ComWindow021_Select1	是
 ComWindow021_Select2	否
 ComWindow022_Info	要把加工后的照片\n保存为新的照片并结束吗？
 ComWindow022_Select1	是
 ComWindow022_Select2	否
-ComWindow023_Info	确定不保存加工后的照片\n就结束吗？\n\x0e\0\x03\x02\x08\0加工的内容将会消失。\x0e\0\x03\x02ÿÿ
+ComWindow023_Info	确定不保存加工后的照片\n就结束吗？\n{color[0800]}加工的内容将会消失。{color[ffff]}
 ComWindow023_Select1	是
 ComWindow023_Select2	否
 ComWindow024_Info	无法再使用更多的图章。
@@ -100,24 +100,24 @@ ComWindow024_Select1	OK
 ComWindow025_Info	要恢复成初始状态吗？
 ComWindow025_Select1	是
 ComWindow025_Select2	否
-ComWindow026_Info	确定要结束特殊拍摄吗？\n\x0e\0\x03\x02\x08\0所有设置内容将会消失。\x0e\0\x03\x02ÿÿ
+ComWindow026_Info	确定要结束特殊拍摄吗？\n{color[0800]}所有设置内容将会消失。{color[ffff]}
 ComWindow026_Select1	是
 ComWindow026_Select2	否
-ComWindow027_Info	可保存的照片数剩下5张。\n\n要扩充保存数据的容量，\n增加\x0e\x03\x01\x02\0Í张可保存的照片数吗？\n\x0e\0\x03\x02\x08\0这会需要大约\x0e\x03\x02\x02\0ÍMB的剩余空间。\x0e\0\x03\x02ÿÿ
+ComWindow027_Info	可保存的照片数剩下5张。\n\n要扩充保存数据的容量，\n增加{[0301|00cd]}张可保存的照片数吗？\n{color[0800]}这会需要大约{[0302|00cd]}MB的剩余空间。{color[ffff]}
 ComWindow027_Select1	是
 ComWindow027_Select2	否
-ComWindow028_Info	可保存的照片数剩下0张。\n\n要扩充保存数据的容量，\n增加\x0e\x03\x01\x02\0Í张可保存的照片数吗？\n\x0e\0\x03\x02\x08\0这会需要大约\x0e\x03\x02\x02\0ÍMB的剩余空间。\x0e\0\x03\x02ÿÿ
+ComWindow028_Info	可保存的照片数剩下0张。\n\n要扩充保存数据的容量，\n增加{[0301|00cd]}张可保存的照片数吗？\n{color[0800]}这会需要大约{[0302|00cd]}MB的剩余空间。{color[ffff]}
 ComWindow028_Select1	是
 ComWindow028_Select2	否
-ComWindow029_Info	要扩充保存数据的容量吗？\n\x0e\0\x03\x02\x08\0扩充后将无法复原。\x0e\0\x03\x02ÿÿ
+ComWindow029_Info	要扩充保存数据的容量吗？\n{color[0800]}扩充后将无法复原。{color[ffff]}
 ComWindow029_Select1	是
 ComWindow029_Select2	否
-ComWindow030_Info	正在扩充保存数据的容量……\n请稍等片刻。\n\x0e\0\x03\x02\x08\0请勿切断电源。\x0e\0\x03\x02ÿÿ
+ComWindow030_Info	正在扩充保存数据的容量……\n请稍等片刻。\n{color[0800]}请勿切断电源。{color[ffff]}
 ComWindow031_Info	已成功扩充保存数据的容量。
 ComWindow031_Select1	OK
-ComWindow032_Info	已成功扩充保存数据的容量。\n\x0e\0\x03\x02\x08\0无法进一步扩充了。\x0e\0\x03\x02ÿÿ
+ComWindow032_Info	已成功扩充保存数据的容量。\n{color[0800]}无法进一步扩充了。{color[ffff]}
 ComWindow032_Select1	OK
-ComWindow033_Info	可保存的照片数已满。\n请删除已保存的照片。\n\x0e\0\x03\x02\x08\0无法进一步扩充保存数据的容量。\x0e\0\x03\x02ÿÿ
+ComWindow033_Info	可保存的照片数已满。\n请删除已保存的照片。\n{color[0800]}无法进一步扩充保存数据的容量。{color[ffff]}
 ComWindow033_Select1	OK
 ComWindow036_Info	要屏蔽此拍摄者吗？
 ComWindow036_Select1	是
@@ -131,47 +131,47 @@ ComWindow038_Select2	否
 ComWindow039_Info	要举报此拍摄者的名字或个性签名吗？
 ComWindow039_Select1	是
 ComWindow039_Select2	否
-ComWindow040_Info	已受理举报。\n\x0e\0\x03\x02\x08\0举报的发送会自动进行。\x0e\0\x03\x02ÿÿ\n\n如果要隐藏此拍摄者的名字、个性签名及照片，\n请屏蔽此拍摄者。
+ComWindow040_Info	已受理举报。\n{color[0800]}举报的发送会自动进行。{color[ffff]}\n\n如果要隐藏此拍摄者的名字、个性签名及照片，\n请屏蔽此拍摄者。
 ComWindow040_Select1	OK
 ComWindow041_Info	无法选择更多想要删除的照片。\n每次最多只能删除99张。
 ComWindow041_Select1	OK
 ComWindow042_Info	已删除照片。
 ComWindow042_Select1	OK
-ComWindow043_Info	让我看一下照片，图鉴上就会生成页面。\n将游标对准页面上的宝可梦后按下  ，\n就能确认它的\x0e\0\x03\x02\0\0动作\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0叫声\x0e\0\x03\x02ÿÿ。\n进行调查的话，还能看到它\x0e\0\x03\x02\0\0其他的样子\x0e\0\x03\x02ÿÿ。
+ComWindow043_Info	让我看一下照片，图鉴上就会生成页面。\n将游标对准页面上的宝可梦后按下  ，\n就能确认它的{color[0000]}动作{color[ffff]}和{color[0000]}叫声{color[ffff]}。\n进行调查的话，还能看到它{color[0000]}其他的样子{color[ffff]}。
 ComWindow043_Select1	OK
-ComWindow044_Info	在这里可以查看已调查的\x0e\0\x03\x02\0\0路线的信息\x0e\0\x03\x02ÿÿ。\n地图上会显示已发现的\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0收藏\x0e\0\x03\x02ÿÿ，\n可以用来回顾以前的调查。
+ComWindow044_Info	在这里可以查看已调查的{color[0000]}路线的信息{color[ffff]}。\n地图上会显示已发现的{color[0000]}宝可梦{color[ffff]}和{color[0000]}收藏{color[ffff]}，\n可以用来回顾以前的调查。
 ComWindow044_Select1	OK
-ComWindow045_Info	\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0与蓝蒂尔的历史有关的事物\x0e\0\x03\x02ÿÿ，\n我会持续整理在图鉴的\x0e\0\x03\x02\0\0收藏\x0e\0\x03\x02ÿÿ里。\n在你调查之后就会生成页面，\n时不时地来确认一下吧。
+ComWindow045_Info	{color[0000]}晶奇花{color[ffff]}和{color[0000]}与蓝蒂尔的历史有关的事物{color[ffff]}，\n我会持续整理在图鉴的{color[0000]}收藏{color[ffff]}里。\n在你调查之后就会生成页面，\n时不时地来确认一下吧。
 ComWindow045_Select1	OK
-ComWindow046_Info	调查结束后，可以查看保存下来的照片，\n还有\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿ后以及\x0e\0\x03\x02\0\0特殊拍摄\x0e\0\x03\x02ÿÿ后的照片哦。\n如果\x0e\0\x03\x02\0\0保存照片数\x0e\0\x03\x02ÿÿ不够了，就扩充容量吧。
+ComWindow046_Info	调查结束后，可以查看保存下来的照片，\n还有{color[0000]}加工{color[ffff]}后以及{color[0000]}特殊拍摄{color[ffff]}后的照片哦。\n如果{color[0000]}保存照片数{color[ffff]}不够了，就扩充容量吧。
 ComWindow046_Select1	OK
-ComWindow047_Info	我会根据你的调查进度\n来授予你不同的\x0e\0\x03\x02\0\0调查称号\x0e\0\x03\x02ÿÿ。\n你可以在这里确认有哪些称号，\n以及各自的进展。
+ComWindow047_Info	我会根据你的调查进度\n来授予你不同的{color[0000]}调查称号{color[ffff]}。\n你可以在这里确认有哪些称号，\n以及各自的进展。
 ComWindow047_Select1	OK
 ComWindow048_Info	这里整理了关于调查的各种记录。\n记录会持续更新，\n记得偶尔来查看一下啊。
 ComWindow048_Select1	OK
-ComWindow049_Info	你可以为拍摄的照片添加\n\x0e\0\x03\x02\0\0图章\x0e\0\x03\x02ÿÿ等素材，享受更多乐趣。\n随着不断调查，能使用的素材\n也会越来越多，好好期待吧。
+ComWindow049_Info	你可以为拍摄的照片添加\n{color[0000]}图章{color[ffff]}等素材，享受更多乐趣。\n随着不断调查，能使用的素材\n也会越来越多，好好期待吧。
 ComWindow049_Select1	OK
-ComWindow050_Info	你可以更改各种设置，\n让操作更加顺手。\n即使在调查中也可以从\x0e\0\x03\x02\0\0暂停菜单\x0e\0\x03\x02ÿÿ\n更改部分设置，记得确认一下吧。
+ComWindow050_Info	你可以更改各种设置，\n让操作更加顺手。\n即使在调查中也可以从{color[0000]}暂停菜单{color[ffff]}\n更改部分设置，记得确认一下吧。
 ComWindow050_Select1	OK
-ComWindow051_Info	已经在“\x0e\0\x03\x02\0\0其他\x0e\0\x03\x02ÿÿ”添加了\x0e\0\x03\x02\0\0制作团队\x0e\0\x03\x02ÿÿ。\n如果想再看一次，\n就按“\x0e\0\x03\x02\0\0播放\x0e\0\x03\x02ÿÿ”吧。
+ComWindow051_Info	已经在“{color[0000]}其他{color[ffff]}”添加了{color[0000]}制作团队{color[ffff]}。\n如果想再看一次，\n就按“{color[0000]}播放{color[ffff]}”吧。
 ComWindow051_Select1	OK
 ComWindow052_Info	你要在研究基地拍照吗？
 ComWindow052_Select1	是
 ComWindow052_Select2	否
-ComWindow053_Info	要从线上的我的页面中撤回照片吗？\n\n再次上传这张照片时，\n苹果徽章的个数将会重置。\n\x0e\0\x03\x02\x08\0已获得的苹果徽章总数不会减少。\x0e\0\x03\x02ÿÿ
+ComWindow053_Info	要从线上的我的页面中撤回照片吗？\n\n再次上传这张照片时，\n苹果徽章的个数将会重置。\n{color[0800]}已获得的苹果徽章总数不会减少。{color[ffff]}
 ComWindow053_Select1	是
 ComWindow053_Select2	否
-ComWindow054_Info	可以查看\x0e\0\x03\x02\0\0世界各地的好友\x0e\0\x03\x02ÿÿ\n所拍摄的\x0e\0\x03\x02\0\0照片\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0排行榜\x0e\0\x03\x02ÿÿ！\n在\x0e\0\x03\x02\0\0我的页面\x0e\0\x03\x02ÿÿ可以进行各种设置，\n感兴趣的话就确认一下吧。
+ComWindow054_Info	可以查看{color[0000]}世界各地的好友{color[ffff]}\n所拍摄的{color[0000]}照片{color[ffff]}和{color[0000]}排行榜{color[ffff]}！\n在{color[0000]}我的页面{color[ffff]}可以进行各种设置，\n感兴趣的话就确认一下吧。
 ComWindow054_Select1	OK
-ComWindow055_Info	如果你想查看各种\x0e\0\x03\x02\0\0得分\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0排行榜\x0e\0\x03\x02ÿÿ，\n就来这里看看吧！\n你也可以按照\x0e\0\x03\x02\0\0好友\x0e\0\x03\x02ÿÿ，\n或是正在使用的\x0e\0\x03\x02\0\0语言\x0e\0\x03\x02ÿÿ来筛选。
+ComWindow055_Info	如果你想查看各种{color[0000]}得分{color[ffff]}的{color[0000]}排行榜{color[ffff]}，\n就来这里看看吧！\n你也可以按照{color[0000]}好友{color[ffff]}，\n或是正在使用的{color[0000]}语言{color[ffff]}来筛选。
 ComWindow055_Select1	OK
-ComWindow056_Info	可以编辑你的\x0e\0\x03\x02\0\0个人信息\x0e\0\x03\x02ÿÿ。\n如果有想让世界各地的人看的照片，\n就\x0e\0\x03\x02\0\0上传\x0e\0\x03\x02ÿÿ到这里吧！
+ComWindow056_Info	可以编辑你的{color[0000]}个人信息{color[ffff]}。\n如果有想让世界各地的人看的照片，\n就{color[0000]}上传{color[ffff]}到这里吧！
 ComWindow056_Select1	OK
 ComWindow057_Info	已上传照片。
 ComWindow057_Select1	OK
 ComWindow058_Info	已从线上的我的页面中撤回了照片。
 ComWindow058_Select1	OK
-ComWindow059_Info	正在上传照片……\n请稍等片刻。\n\x0e\x03\x01\x02\0Í％。
+ComWindow059_Info	正在上传照片……\n请稍等片刻。\n{[0301|00cd]}％。
 ComWindow060_Info	正在获取数据……
 ComWindow061_Info	正在连接……\n请稍等片刻。
 ComWindow064_Info	发生了网络错误。
@@ -188,10 +188,10 @@ ComWindow069_Select1	是
 ComWindow069_Select2	否
 ComWindow070_Info	没有可以交给博士看的照片。\n即将结束。
 ComWindow070_Select1	OK
-ComWindow071_Info	\x0e\0\x03\x02\x08\0线上的注意事项\x0e\0\x03\x02ÿÿ\x0e\0\x04\0在线上，其他玩家能够看到你的\n\x0e\0\x03\x02\x08\0名字\x0e\0\x03\x02ÿÿ、\x0e\0\x03\x02\x08\0个性签名\x0e\0\x03\x02ÿÿ、\x0e\0\x03\x02\x08\0上传的照片\x0e\0\x03\x02ÿÿ\n以及\x0e\0\x03\x02\x08\0标题\x0e\0\x03\x02ÿÿ等内容。\n\n请在游戏中避开不良行为。\x0e\0\x04\0请不要上传含有违法、个人信息、\n或侵害他人权利的内容，\n以及会令人感到不快的内容。\n请不要做出令人感到不快的行为或作弊行为。\x0e\0\x04\0《\x0e\0\x03\x02\x08\0Nintendo Account使用条款\x0e\0\x03\x02ÿÿ》适用于\n你上传的内容以及在游戏中的行为。\n一旦违反上述条款，该内容将有可能被删除，\n你的账号也可能会被限制线上连接。\x0e\0\x04\0发现不恰当的内容时，你可以进行举报，\n但请勿做出与事实不符的举报。\n\n享受本游戏乐趣的同时，请务必\n遵守《\x0e\0\x03\x02\x08\0Nintendo Account使用条款\x0e\0\x03\x02ÿÿ》。
+ComWindow071_Info	{color[0800]}线上的注意事项{color[ffff]}{[0004]}在线上，其他玩家能够看到你的\n{color[0800]}名字{color[ffff]}、{color[0800]}个性签名{color[ffff]}、{color[0800]}上传的照片{color[ffff]}\n以及{color[0800]}标题{color[ffff]}等内容。\n\n请在游戏中避开不良行为。{[0004]}请不要上传含有违法、个人信息、\n或侵害他人权利的内容，\n以及会令人感到不快的内容。\n请不要做出令人感到不快的行为或作弊行为。{[0004]}《{color[0800]}Nintendo Account使用条款{color[ffff]}》适用于\n你上传的内容以及在游戏中的行为。\n一旦违反上述条款，该内容将有可能被删除，\n你的账号也可能会被限制线上连接。{[0004]}发现不恰当的内容时，你可以进行举报，\n但请勿做出与事实不符的举报。\n\n享受本游戏乐趣的同时，请务必\n遵守《{color[0800]}Nintendo Account使用条款{color[ffff]}》。
 ComWindow071_Select1	继续
 ComWindow075_Select1	OK
-ComWindow076_Info	你可以在这里查看其他人的\x0e\0\x03\x02\0\0个人信息\x0e\0\x03\x02ÿÿ。\n\n如果你发现了喜欢的照片，\n就送出\x0e\0\x03\x02\0\0苹果徽章\x0e\0\x03\x02ÿÿ吧！\x0e\0\x04\0如果看到了令你感到不快的内容，\n就用举报按键\x0e\0\x03\x02\0\0举报\x0e\0\x03\x02ÿÿ对方吧。\n\n一旦\x0e\0\x03\x02\0\0屏蔽\x0e\0\x03\x02ÿÿ了对方，画面上将不会再\n显示对方的名字、个性签名和照片了。
+ComWindow076_Info	你可以在这里查看其他人的{color[0000]}个人信息{color[ffff]}。\n\n如果你发现了喜欢的照片，\n就送出{color[0000]}苹果徽章{color[ffff]}吧！{[0004]}如果看到了令你感到不快的内容，\n就用举报按键{color[0000]}举报{color[ffff]}对方吧。\n\n一旦{color[0000]}屏蔽{color[ffff]}了对方，画面上将不会再\n显示对方的名字、个性签名和照片了。
 ComWindow076_Select1	继续
 ComWindow076_Select2	OK
 ComWindow077_Info	要撤回已赠送的苹果徽章吗？
@@ -199,13 +199,13 @@ ComWindow077_Select1	是
 ComWindow077_Select2	否
 ComWindow078_Info	请从研究室选择“线上”，\n并查看注意事项。
 ComWindow078_Select1	OK
-ComWindow080_Info	调查之后，你可以选择照片保存到\n位于\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0我的空间\x0e\0\x03\x02ÿÿ内的\x0e\0\x03\x02\0\0相册\x0e\0\x03\x02ÿÿ。\n使用\x0e\0\x03\x02\0\0特殊拍摄\x0e\0\x03\x02ÿÿ，则可以更改设置\n重新拍摄一次照片。你试试看吧。
+ComWindow080_Info	调查之后，你可以选择照片保存到\n位于{color[0000]}研究室{color[ffff]}的{color[0000]}我的空间{color[ffff]}内的{color[0000]}相册{color[ffff]}。\n使用{color[0000]}特殊拍摄{color[ffff]}，则可以更改设置\n重新拍摄一次照片。你试试看吧。
 ComWindow080_Select1	OK
 ComWindow081_Info	无法再上传更多的照片。\n请从线上的我的页面中撤回照片，\n腾出空间后再试一次。
 ComWindow081_Select1	OK
 ComWindow082_Info	没有可以显示的数据。\n更新排行榜可能需要一些时间。
 ComWindow082_Select1	OK
-ComWindow083_Info	要将照片上传至线上的我的页面吗？\n\n苹果徽章的个数将会重置。\n\x0e\0\x03\x02\x08\0已获得的苹果徽章总数不会减少。\x0e\0\x03\x02ÿÿ
+ComWindow083_Info	要将照片上传至线上的我的页面吗？\n\n苹果徽章的个数将会重置。\n{color[0800]}已获得的苹果徽章总数不会减少。{color[ffff]}
 ComWindow083_Select1	是
 ComWindow083_Select2	否
 EvaluationPhotoCaption_Info.msbt
@@ -919,13 +919,13 @@ EB_NoSnap_03	咦？\n这次你1张照片都没拍啊。
 ES_Com_01	好了，你这次拍到了\n什么样的照片呢？
 ES_Com_02	好！\n那我们一起看看吧。
 ES_Com_03	来，我们开始看照片吧！
-EV_Fr_1st_01	这是\x0e\x03\x01\x02\0Í吧？
-EV_Fr_Boss_Light_01	这是霓光状态的\x0e\x03\x01\x02\0Í吧？
-EV_Fr_Boss_Dark_01	这是霓光宝可梦\x0e\x03\x01\x02\0Í吧？
-EV_Fr_Unknown_01	这是……\x0e\x03\x01\x02\0Í吗？
-EV_Fr_2nd_01	好，接下来是\x0e\x03\x01\x02\0Í啊！
-EV_Fr_2nd_02	接下来是\x0e\x03\x01\x02\0Í啊。
-EV_Fr_2nd_03	这张拍的是\x0e\x03\x01\x02\0Í吧。
+EV_Fr_1st_01	这是{[0301|00cd]}吧？
+EV_Fr_Boss_Light_01	这是霓光状态的{[0301|00cd]}吧？
+EV_Fr_Boss_Dark_01	这是霓光宝可梦{[0301|00cd]}吧？
+EV_Fr_Unknown_01	这是……{[0301|00cd]}吗？
+EV_Fr_2nd_01	好，接下来是{[0301|00cd]}啊！
+EV_Fr_2nd_02	接下来是{[0301|00cd]}啊。
+EV_Fr_2nd_03	这张拍的是{[0301|00cd]}吧。
 EV_Cat_Cute_01	它看起来很温和啊。
 EV_Cat_Cute_02	它真可爱啊。
 EV_Cat_Cute_03	看到它我的嘴角都上扬了。
@@ -1579,9 +1579,9 @@ EV_Tim_Star2_03	很好，拍得不错。
 EV_Tim_Star1_01	下次……先好好观察动作，再抓住拍摄的好时机吧。
 EV_Tim_Star1_02	这拍摄时机……再加把劲吧。
 EV_Tim_Star1_03	太可惜了……拍摄时机要是抓得再准一点就好了。
-EV_End_CompPokedex_01	\x0e\x03\x01\x02\0Í这页的照片\n都填满啦！恭喜！
-EV_End_CompPokedex_02	所有★数的照片都被你填满啦！\n这样一来\x0e\x03\x01\x02\0Í这页就大功告成了！
-EV_End_CompPokedex_03	\x0e\x03\x01\x02\0Í这页的照片都被填满啦！\n我只能夸你太棒了！
+EV_End_CompPokedex_01	{[0301|00cd]}这页的照片\n都填满啦！恭喜！
+EV_End_CompPokedex_02	所有★数的照片都被你填满啦！\n这样一来{[0301|00cd]}这页就大功告成了！
+EV_End_CompPokedex_03	{[0301|00cd]}这页的照片都被填满啦！\n我只能夸你太棒了！
 EV_End_Outcome_SizeGP_01	你把宝可梦拍得又大又清楚，\n这一点很好。
 EV_End_Outcome_SizeGP_02	这张照片真不错。\n把宝可梦拍得很大。
 EV_End_Outcome_SizeTips_01	把宝可梦全身拍得大大的。\n这就是“大小”的基础，要记住啊。
@@ -1865,20 +1865,20 @@ Evaluation_Start_PhotoBy_Tx	拍摄者
 Evaluation_Evaluation_BookPhoto_Tx	图鉴的照片
 Evaluation_Evaluation_SubmitPhoto_Tx	这次的照片
 Evaluation_AfterClear_ResearchLv_Tx	调查等级
-Evaluation_AfterClear_ResearchLv_Num	Lv.\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_ResearchLv_Num	Lv.{[0301|00cd]}
 Evaluation_AfterClear_ResearchLvMax_Num	Lv.MAX
-Evaluation_AfterClear_NextLv_Num	距离下一等级还需  \x0e\0\x03\x02\x04\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+Evaluation_AfterClear_NextLv_Num	距离下一等级还需  {color[0400]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 Evaluation_AfterClear_GetExp_Tx	这次的调查点数
-Evaluation_AfterClear_GetExp_Num	＋\x0e\x03\x01\x02\0Í
+Evaluation_AfterClear_GetExp_Num	＋{[0301|00cd]}
 Evaluation_AfterClear_CourseScore_Tx	路线得分
 Evaluation_AfterClear_HighScore_Tx	最高得分
 Evaluation_AfterClear_ProfessorRecommend_Tx	博士的最爱
 Evaluation_AfterClear_NewRecord_Tx	NEW RECORD !!
 Evaluation_Jingle_ResearchLv_Tx	调查等级
 Evaluation_Jingle_LvUp_Tx	升级！
-Evaluation_Evaluation_ScoreLow_Num	\x0e\x03\x01\x02\0Í
-Evaluation_Evaluation_ScoreHigh_Num	\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
-Evaluation_Evaluation_ScoreHigh2_Num	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ
+Evaluation_Evaluation_ScoreLow_Num	{[0301|00cd]}
+Evaluation_Evaluation_ScoreHigh_Num	{color[0800]}{[0301|00cd]}{color[ffff]}
+Evaluation_Evaluation_ScoreHigh2_Num	{color[0000]}{[0301|00cd]}{color[ffff]}
 General.msbt
 GameTitle_PressStart_Tx	PRESS ANY BUTTON
 GameTitle_Copyright_Tx	© 2021 Pokémon/Nintendo/Creatures/GAME FREAK.
@@ -1906,7 +1906,7 @@ NotOpen_Tx	？？？
 NotExist_Tx	ーーー
 Skip_Tx	 跳过
 NoTarget_Tx	No Data
-Number_Num	No.\x0e\x03\x01\x02\0Í
+Number_Num	No.{[0301|00cd]}
 Distance_Unit	km
 Ending_Thanks_Tx	Thank you, everyone!
 Order_Date_Tx	日期与时间
@@ -1949,7 +1949,7 @@ Keyboard_ErrorNgWord_Info	包含无法使用的词语。
 Keyboard_ErrorNumbers_Info	最多可输入5个数字。
 InitialSetting_UI.msbt
 InitialSetting_Save_AutoSave1_Info	本游戏采用自动保存机制。\n出现自动保存图标时，请勿关闭主机电源。
-InitialSetting_Language_SelectText1_Info	以哪种语言进行游戏？\n\x0e\0\x03\x02\x08\0一旦确定，之后就无法变更。\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectText1_Info	以哪种语言进行游戏？\n{color[0800]}一旦确定，之后就无法变更。{color[ffff]}
 InitialSetting_Language_Jpn_Tx	日本語
 InitialSetting_Language_JpnKana_Tx	にほんご
 InitialSetting_Language_English_Tx	English
@@ -1960,11 +1960,11 @@ InitialSetting_Language_Spanish_Tx	Español
 InitialSetting_Language_Korean_Tx	한국어
 InitialSetting_Language_Cn_Tx	简体中文
 InitialSetting_Language_Tw_Tx	繁體中文
-InitialSetting_Language_SelectVoice1_Info	请选择角色语音的种类。\n\x0e\0\x03\x02\x08\0之后也可以变更。\x0e\0\x03\x02ÿÿ
+InitialSetting_Language_SelectVoice1_Info	请选择角色语音的种类。\n{color[0800]}之后也可以变更。{color[ffff]}
 InitialSetting_Language_JpnVoice_Tx	日语
 InitialSetting_Language_EnVoice_Tx	英语
 InitialSetting_Language_NonVoice_Tx	无语音
-InitialSetting_PlayerSetting_SelectAvatar1_Info	请选择你的照片。\n\x0e\0\x03\x02\x08\0一旦确定，之后就无法变更。\x0e\0\x03\x02ÿÿ
+InitialSetting_PlayerSetting_SelectAvatar1_Info	请选择你的照片。\n{color[0800]}一旦确定，之后就无法变更。{color[ffff]}
 InitialSetting_PlayerSetting_EnterName1_Info	请问你叫什么名字。
 InitialSetting_PlayerSetting_EnterName2_Info	之后也可以变更。
 InitialSetting_PlayerSetting_FinalCheck1_Info	确定使用以上设定吗？
@@ -2000,9 +2000,9 @@ MapSelect_StageSelect_Head	蓝蒂尔地图
 MapSelect_StageSelect_Help	请选择要调查的区域。
 MapSelect_CourseSelect_Help	请选择要调查的路线。
 MapSelect_CourseSelect_CourseLv_Tx	调查等级
-MapSelect_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+MapSelect_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 MapSelect_CourseSelect_CourseLvMax_Num	Lv. MAX
-MapSelect_CourseSelect_NextLv_Num	距离下一等级还需  \x0e\0\x03\x02\x07\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+MapSelect_CourseSelect_NextLv_Num	距离下一等级还需  {color[0700]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 MapSelect_CourseSelect_HighScore_Tx	最高得分
 MapSelect_CourseSelect_ChangeCourseLv_Tx	按  更改调查等级
 MapSelect_CourseSelect_ChangeCourseLv1_Tx	Lv. 1
@@ -2043,7 +2043,7 @@ PlayerData_HighScore_Star3_Tx	★3　最高得分
 PlayerData_HighScore_Star4_Tx	★4　最高得分
 PlayerData_CourseScore_Tx	路线得分
 PlayerData_CourseScore_TotalScore_Tx	    总得分
-PlayerData_CourseScore_HighScore_Num	    最高得分　\x0e\x03\x01\x02\0Í
+PlayerData_CourseScore_HighScore_Num	    最高得分　{[0301|00cd]}
 PlayerData_CountPhoto_Poke_Tx	拍摄宝可梦的照片数
 PlayerData_CountPhoto_Flower_Tx	拍摄晶奇花的照片数
 PlayerData_CountPhoto_Remains_Tx	拍摄古代遗迹的照片数
@@ -2063,245 +2063,245 @@ PlayerData_CountLike_TotalGive_Tx	赠送的苹果徽章数
 PlayerData_CountPhoto_Upload_Tx	自己上传至线上的照片数
 PlayerData_CountPhoto_ProfessorRecommend_Tx	博士上传至线上的照片数
 MySpaceTitle_Info.msbt
-Title001_Info2	初次调查\x0e\0\x03\x02\0\0芙罗蕾自然公园\x0e\0\x03\x02ÿÿ。
-Title002_Info2	在\x0e\0\x03\x02\0\0芙罗蕾自然公园\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往大牙狸的水坝的路线\x0e\0\x03\x02ÿÿ。
-Title005_Info2	在\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往研究所内部的路线\x0e\0\x03\x02ÿÿ。
-Title006_Info2	初次调查\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ。
-Title007_Info2	在\x0e\0\x03\x02\0\0秘界丛林\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往沼泽的路线\x0e\0\x03\x02ÿÿ。
-Title008_Info2	在\x0e\0\x03\x02\0\0秘界丛林\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往瀑布后面的路线\x0e\0\x03\x02ÿÿ。
-Title010_Info2	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ经历了\n\x0e\0\x03\x02\0\0春夏秋冬4个季节\x0e\0\x03\x02ÿÿ。
-Title011_Info2	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往向阳处的路线\x0e\0\x03\x02ÿÿ。
-Title012_Info2	初次调查\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ。
-Title013_Info2	在\x0e\0\x03\x02\0\0霓基柔海滩\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往隐藏沙滩的路线\x0e\0\x03\x02ÿÿ。
-Title014_Info2	在\x0e\0\x03\x02\0\0珂博亚岩礁\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0经过吼鲸王头部旁的路线\x0e\0\x03\x02ÿÿ。
-Title015_Info2	在\x0e\0\x03\x02\0\0珂博亚岩礁\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往蓝洞的路线\x0e\0\x03\x02ÿÿ。
-Title016_Info2	在\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往海中洞窟的路线\x0e\0\x03\x02ÿÿ。
-Title017_Info2	初次调查\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ。
-Title018_Info2	在\x0e\0\x03\x02\0\0尼撒沙漠\x0e\0\x03\x02ÿÿ调查过了\n\x0e\0\x03\x02\0\0绿洲周围所有的路线\x0e\0\x03\x02ÿÿ。
-Title020_Info2	在\x0e\0\x03\x02\0\0多熔火山\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往蓝色熔岩洞窟的路线\x0e\0\x03\x02ÿÿ。
-Title021_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0火神蛾\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Title022_Info2	初次调查\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ。
-Title023_Info2	在\x0e\0\x03\x02\0\0希埃冷雪原\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往雪墙另一边的路线\x0e\0\x03\x02ÿÿ。
-Title024_Info2	在\x0e\0\x03\x02\0\0希埃冷雪原\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往冰之洞窟的路线\x0e\0\x03\x02ÿÿ。
-Title025_Info2	在\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往巨大结晶的路线\x0e\0\x03\x02ÿÿ。
-Title026_Info2	在\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往缘石池的路线\x0e\0\x03\x02ÿÿ。
-Title027_Info2	在\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往地底空间墙壁另一边的路线\x0e\0\x03\x02ÿÿ。
-Title028_Info2	初次调查\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ。
-Title029_Info2	在\x0e\0\x03\x02\0\0矢欧护遗迹\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往地面的光之道路\x0e\0\x03\x02ÿÿ。
-Title030_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0哲尔尼亚斯\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
+Title001_Info2	初次调查{color[0000]}芙罗蕾自然公园{color[ffff]}。
+Title002_Info2	在{color[0000]}芙罗蕾自然公园{color[ffff]}发现了\n{color[0000]}通往大牙狸的水坝的路线{color[ffff]}。
+Title005_Info2	在{color[0000]}研究基地{color[ffff]}发现了\n{color[0000]}通往研究所内部的路线{color[ffff]}。
+Title006_Info2	初次调查{color[0000]}美乐斯岛{color[ffff]}。
+Title007_Info2	在{color[0000]}秘界丛林{color[ffff]}发现了\n{color[0000]}通往沼泽的路线{color[ffff]}。
+Title008_Info2	在{color[0000]}秘界丛林{color[ffff]}发现了\n{color[0000]}通往瀑布后面的路线{color[ffff]}。
+Title010_Info2	在{color[0000]}多奇思季森林{color[ffff]}经历了\n{color[0000]}春夏秋冬4个季节{color[ffff]}。
+Title011_Info2	在{color[0000]}多奇思季森林{color[ffff]}发现了\n{color[0000]}通往向阳处的路线{color[ffff]}。
+Title012_Info2	初次调查{color[0000]}珂博亚群岛{color[ffff]}。
+Title013_Info2	在{color[0000]}霓基柔海滩{color[ffff]}发现了\n{color[0000]}通往隐藏沙滩的路线{color[ffff]}。
+Title014_Info2	在{color[0000]}珂博亚岩礁{color[ffff]}发现了\n{color[0000]}经过吼鲸王头部旁的路线{color[ffff]}。
+Title015_Info2	在{color[0000]}珂博亚岩礁{color[ffff]}发现了\n{color[0000]}通往蓝洞的路线{color[ffff]}。
+Title016_Info2	在{color[0000]}蓝蒂尔海床{color[ffff]}发现了\n{color[0000]}通往海中洞窟的路线{color[ffff]}。
+Title017_Info2	初次调查{color[0000]}玻鸥克岛{color[ffff]}。
+Title018_Info2	在{color[0000]}尼撒沙漠{color[ffff]}调查过了\n{color[0000]}绿洲周围所有的路线{color[ffff]}。
+Title020_Info2	在{color[0000]}多熔火山{color[ffff]}发现了\n{color[0000]}通往蓝色熔岩洞窟的路线{color[ffff]}。
+Title021_Info2	将霓光宝可梦{color[0000]}火神蛾{color[ffff]}\n添加到了写真图鉴。
+Title022_Info2	初次调查{color[0000]}杜牢斯岛{color[ffff]}。
+Title023_Info2	在{color[0000]}希埃冷雪原{color[ffff]}发现了\n{color[0000]}通往雪墙另一边的路线{color[ffff]}。
+Title024_Info2	在{color[0000]}希埃冷雪原{color[ffff]}发现了\n{color[0000]}通往冰之洞窟的路线{color[ffff]}。
+Title025_Info2	在{color[0000]}哈那离洞窟{color[ffff]}发现了\n{color[0000]}通往巨大结晶的路线{color[ffff]}。
+Title026_Info2	在{color[0000]}哈那离洞窟{color[ffff]}发现了\n{color[0000]}通往缘石池的路线{color[ffff]}。
+Title027_Info2	在{color[0000]}哈那离洞窟{color[ffff]}发现了\n{color[0000]}通往地底空间墙壁另一边的路线{color[ffff]}。
+Title028_Info2	初次调查{color[0000]}奥朗岛{color[ffff]}。
+Title029_Info2	在{color[0000]}矢欧护遗迹{color[ffff]}发现了\n{color[0000]}通往地面的光之道路{color[ffff]}。
+Title030_Info2	将霓光宝可梦{color[0000]}哲尔尼亚斯{color[ffff]}\n添加到了写真图鉴。
 Title031_Info2	调查过了一遍蓝蒂尔地区。
-Title032_Info1	将\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿ条路线的调查等级提升到MAX。
-Title032_Info2	将\x0e\0\x03\x02\0\01\x0e\0\x03\x02ÿÿ条路线的调查等级提升到了MAX。
-Title033_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到MAX。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title033_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到了MAX。
-Title034_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到MAX。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title034_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到了MAX。
-Title035_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到MAX。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title035_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查等级提升到了MAX。
+Title032_Info1	将{color[0000]}1{color[ffff]}条路线的调查等级提升到MAX。
+Title032_Info2	将{color[0000]}1{color[ffff]}条路线的调查等级提升到了MAX。
+Title033_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到MAX。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title033_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到了MAX。
+Title034_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到MAX。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title034_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到了MAX。
+Title035_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到MAX。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title035_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查等级提升到了MAX。
 Title036_Info1	将所有路线的调查等级提升到MAX。
 Title036_Info2	将所有路线的调查等级提升到了MAX。
-Title037_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title037_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title038_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title038_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title039_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title039_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title040_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title040_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title041_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title041_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title042_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title042_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title043_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title043_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title044_Info1	在一次调查中拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n宝可梦的\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿ照片。
-Title044_Info2	在一次调查中拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n宝可梦的\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿ照片。
-Title045_Info1	在一次调查中拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n宝可梦的\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿ照片。
-Title045_Info2	在一次调查中拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n宝可梦的\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿ照片。
-Title046_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\n相同宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title046_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\n相同宝可梦的照片。
-Title047_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\n没有主角的照片。
-Title048_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在移动的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title048_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在移动的宝可梦的照片。
-Title049_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在进食的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title049_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在进食的宝可梦的照片。
-Title050_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n高兴的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title050_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n高兴的宝可梦的照片。
-Title051_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n做出特别行动的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title051_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n做出特别行动的宝可梦的照片。
-Title052_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在睡觉的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title052_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在睡觉的宝可梦的照片。
-Title053_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在游泳的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title053_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在游泳的宝可梦的照片。
-Title054_Info1	总计给博士看\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在飞行的宝可梦的照片。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title054_Info2	总计给博士看了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\n正在飞行的宝可梦的照片。
-Title056_Info1	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿ照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title056_Info2	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★1\x0e\0\x03\x02ÿÿ照片\n添加到了写真图鉴。
-Title057_Info1	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿ照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title057_Info2	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★2\x0e\0\x03\x02ÿÿ照片\n添加到了写真图鉴。
-Title058_Info1	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿ照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title058_Info2	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★3\x0e\0\x03\x02ÿÿ照片\n添加到了写真图鉴。
-Title059_Info1	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿ照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title059_Info2	总计将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0★4\x0e\0\x03\x02ÿÿ照片\n添加到了写真图鉴。
-Title062_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\x0e\0\x03\x02\0\0金\x0e\0\x03\x02ÿÿ评价的照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title062_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\x0e\0\x03\x02\0\0金\x0e\0\x03\x02ÿÿ评价的照片。
-Title063_Info1	总计拍摄\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\x0e\0\x03\x02\0\0钻石\x0e\0\x03\x02ÿÿ评价的照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title063_Info2	总计拍摄了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张\x0e\0\x03\x02\0\0钻石\x0e\0\x03\x02ÿÿ评价的照片。
-Title064_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0虫属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title064_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0虫属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title065_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0电属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title065_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0电属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title066_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0水属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title066_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0水属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title067_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0恶属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title067_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0恶属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title068_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0妖精属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title068_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0妖精属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title069_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0草属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title069_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0草属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title070_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0火属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title070_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0火属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title071_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0超能力属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title071_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0超能力属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title072_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0幽灵属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title072_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0幽灵属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title073_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0毒属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title073_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0毒属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title074_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0格斗属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title074_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0格斗属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title075_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0地面属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title075_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0地面属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title076_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0岩石属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title076_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0岩石属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title077_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0龙属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title077_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0龙属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title078_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0冰属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title078_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0冰属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title079_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0钢属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title079_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0钢属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title080_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0一般属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title080_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0一般属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title081_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0飞行属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title081_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种\x0e\0\x03\x02\0\0飞行属性\x0e\0\x03\x02ÿÿ宝可梦的照片\n添加到了写真图鉴。
-Title082_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title082_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到了写真图鉴。
-Title083_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title083_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到了写真图鉴。
-Title084_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title084_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到了写真图鉴。
-Title085_Info1	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到写真图鉴。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title085_Info2	将\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦\n添加到了写真图鉴。
+Title037_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title037_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title038_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title038_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title039_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title039_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title040_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title040_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title041_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title041_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title042_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title042_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title043_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title043_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title044_Info1	在一次调查中拍摄{color[0000]}{[0301|00cd]}{color[ffff]}种\n宝可梦的{color[0000]}★3{color[ffff]}照片。
+Title044_Info2	在一次调查中拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}种\n宝可梦的{color[0000]}★3{color[ffff]}照片。
+Title045_Info1	在一次调查中拍摄{color[0000]}{[0301|00cd]}{color[ffff]}种\n宝可梦的{color[0000]}★4{color[ffff]}照片。
+Title045_Info2	在一次调查中拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}种\n宝可梦的{color[0000]}★4{color[ffff]}照片。
+Title046_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}张\n相同宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title046_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}张\n相同宝可梦的照片。
+Title047_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张\n没有主角的照片。
+Title048_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在移动的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title048_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在移动的宝可梦的照片。
+Title049_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在进食的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title049_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在进食的宝可梦的照片。
+Title050_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n高兴的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title050_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n高兴的宝可梦的照片。
+Title051_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}种\n做出特别行动的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title051_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}种\n做出特别行动的宝可梦的照片。
+Title052_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在睡觉的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title052_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在睡觉的宝可梦的照片。
+Title053_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在游泳的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title053_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在游泳的宝可梦的照片。
+Title054_Info1	总计给博士看{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在飞行的宝可梦的照片。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title054_Info2	总计给博士看了{color[0000]}{[0301|00cd]}{color[ffff]}种\n正在飞行的宝可梦的照片。
+Title056_Info1	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★1{color[ffff]}照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title056_Info2	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★1{color[ffff]}照片\n添加到了写真图鉴。
+Title057_Info1	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★2{color[ffff]}照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title057_Info2	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★2{color[ffff]}照片\n添加到了写真图鉴。
+Title058_Info1	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★3{color[ffff]}照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title058_Info2	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★3{color[ffff]}照片\n添加到了写真图鉴。
+Title059_Info1	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★4{color[ffff]}照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title059_Info2	总计将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}★4{color[ffff]}照片\n添加到了写真图鉴。
+Title062_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张{color[0000]}金{color[ffff]}评价的照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title062_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张{color[0000]}金{color[ffff]}评价的照片。
+Title063_Info1	总计拍摄{color[0000]}{[0301|00cd]}{color[ffff]}张{color[0000]}钻石{color[ffff]}评价的照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title063_Info2	总计拍摄了{color[0000]}{[0301|00cd]}{color[ffff]}张{color[0000]}钻石{color[ffff]}评价的照片。
+Title064_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}虫属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title064_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}虫属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title065_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}电属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title065_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}电属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title066_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}水属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title066_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}水属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title067_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}恶属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title067_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}恶属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title068_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}妖精属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title068_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}妖精属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title069_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}草属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title069_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}草属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title070_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}火属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title070_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}火属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title071_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}超能力属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title071_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}超能力属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title072_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}幽灵属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title072_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}幽灵属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title073_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}毒属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title073_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}毒属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title074_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}格斗属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title074_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}格斗属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title075_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}地面属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title075_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}地面属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title076_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}岩石属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title076_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}岩石属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title077_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}龙属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title077_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}龙属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title078_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}冰属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title078_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}冰属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title079_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}钢属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title079_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}钢属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title080_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}一般属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title080_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}一般属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title081_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}飞行属性{color[ffff]}宝可梦的照片\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title081_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种{color[0000]}飞行属性{color[ffff]}宝可梦的照片\n添加到了写真图鉴。
+Title082_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title082_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到了写真图鉴。
+Title083_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title083_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到了写真图鉴。
+Title084_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title084_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到了写真图鉴。
+Title085_Info1	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到写真图鉴。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title085_Info2	将{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦\n添加到了写真图鉴。
 Title086_Info1	将所有宝可梦\n添加到写真图鉴。
 Title086_Info2	将所有宝可梦\n添加到了写真图鉴。
-Title087_Info1	收集★1～4的照片，\n完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title087_Info2	收集★1～4的照片，\n完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。
-Title088_Info1	收集★1～4的照片，\n完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title088_Info2	收集★1～4的照片，\n完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。
-Title089_Info1	收集★1～4的照片，\n完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title089_Info2	收集★1～4的照片，\n完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。
-Title090_Info1	收集★1～4的照片，\n完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title090_Info2	收集★1～4的照片，\n完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ种宝可梦的写真图鉴信息。
+Title087_Info1	收集★1～4的照片，\n完成{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title087_Info2	收集★1～4的照片，\n完成了{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。
+Title088_Info1	收集★1～4的照片，\n完成{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title088_Info2	收集★1～4的照片，\n完成了{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。
+Title089_Info1	收集★1～4的照片，\n完成{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title089_Info2	收集★1～4的照片，\n完成了{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。
+Title090_Info1	收集★1～4的照片，\n完成{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title090_Info2	收集★1～4的照片，\n完成了{color[0000]}{[0301|00cd]}{color[ffff]}种宝可梦的写真图鉴信息。
 Title091_Info1	收集★1～4的照片，\n完成所有宝可梦的写真图鉴信息。
 Title091_Info2	收集★1～4的照片，\n完成了所有宝可梦的写真图鉴信息。
-Title092_Info1	完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title092_Info2	完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。
-Title093_Info1	完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title093_Info2	完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。
-Title094_Info1	完成\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title094_Info2	完成了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ条路线的调查地图。
+Title092_Info1	完成{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title092_Info2	完成了{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。
+Title093_Info1	完成{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title093_Info2	完成了{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。
+Title094_Info1	完成{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title094_Info2	完成了{color[0000]}{[0301|00cd]}{color[ffff]}条路线的调查地图。
 Title095_Info1	完成所有路线的调查地图。
 Title095_Info2	完成了所有路线的调查地图。
-Title096_Info1	将所有\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ添加到写真图鉴。
-Title096_Info2	将所有\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ添加到了写真图鉴。
-Title097_Info1	将所有\x0e\0\x03\x02\0\0古代遗迹\x0e\0\x03\x02ÿÿ添加到写真图鉴。
-Title097_Info2	将所有\x0e\0\x03\x02\0\0古代遗迹\x0e\0\x03\x02ÿÿ添加到了写真图鉴。
-Title099_Info1	图鉴总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title099_Info2	图鉴总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title100_Info1	图鉴总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title100_Info2	图鉴总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title101_Info1	图鉴总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title101_Info2	图鉴总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title102_Info1	图鉴总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title102_Info2	图鉴总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title103_Info1	图鉴总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title103_Info2	图鉴总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title104_Info1	在照片评价获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title104_Info2	在照片评价获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title105_Info1	在照片评价总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title105_Info2	在照片评价总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title106_Info1	在照片评价的“\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ”项目获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title106_Info2	在照片评价的“\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ”项目获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title107_Info1	在照片评价的“\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ”项目总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title107_Info2	在照片评价的“\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ”项目总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title108_Info1	在照片评价的“\x0e\0\x03\x02\0\0大小\x0e\0\x03\x02ÿÿ”项目获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title108_Info2	在照片评价的“\x0e\0\x03\x02\0\0大小\x0e\0\x03\x02ÿÿ”项目获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title109_Info1	在照片评价的“\x0e\0\x03\x02\0\0大小\x0e\0\x03\x02ÿÿ”项目总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title109_Info2	在照片评价的“\x0e\0\x03\x02\0\0大小\x0e\0\x03\x02ÿÿ”项目总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title110_Info1	在照片评价的“\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ”项目获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title110_Info2	在照片评价的“\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ”项目获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title111_Info1	在照片评价的“\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ”项目总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title111_Info2	在照片评价的“\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ”项目总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title112_Info1	在照片评价的“\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ”项目获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title112_Info2	在照片评价的“\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ”项目获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title113_Info1	在照片评价的“\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ”项目总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title113_Info2	在照片评价的“\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ”项目总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title114_Info1	在照片评价的“\x0e\0\x03\x02\0\0其他宝可梦\x0e\0\x03\x02ÿÿ”项目获得\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title114_Info2	在照片评价的“\x0e\0\x03\x02\0\0其他宝可梦\x0e\0\x03\x02ÿÿ”项目获得了\n\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title115_Info1	在照片评价的“\x0e\0\x03\x02\0\0其他宝可梦\x0e\0\x03\x02ÿÿ”项目总计获得\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title115_Info2	在照片评价的“\x0e\0\x03\x02\0\0其他宝可梦\x0e\0\x03\x02ÿÿ”项目总计获得了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\n\x0e\0\x03\x02\0\0\x0e\x03\x03\x02\0Í\x0e\0\x03\x02ÿÿ分以上的得分。
-Title116_Info1	路线总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title116_Info2	路线总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title117_Info1	路线总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title117_Info2	路线总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title118_Info1	路线总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title118_Info2	路线总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title119_Info1	路线总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title119_Info2	路线总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title120_Info1	路线总得分达到\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title120_Info2	路线总得分达到了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ分以上。
-Title121_Info1	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ总计分析\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ处调查地点。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title121_Info2	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ总计分析了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ处调查地点。
-Title122_Info1	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ总计分析\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ处调查地点。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title122_Info2	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ总计分析了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ处调查地点。
-Title123_Info1	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ分析所有调查地点。
-Title123_Info2	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ分析了所有调查地点。
-Title124_Info1	总计让宝可梦吃\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title124_Info2	总计让宝可梦吃了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。
-Title125_Info1	总计让宝可梦吃\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title125_Info2	总计让宝可梦吃了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。
-Title126_Info1	总计让宝可梦吃\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title126_Info2	总计让宝可梦吃了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ。
-Title129_Info1	总计用\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ诱导宝可梦\n移动\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm。（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title129_Info2	总计用\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ诱导宝可梦\n移动了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿkm。
-Title136_Info1	总计用\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ让晶奇花发光\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title136_Info2	总计用\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ让晶奇花发光了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ次。
-Title137_Info1	总计在线上分享\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title137_Info2	总计在线上分享了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title138_Info1	总计在线上分享\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title138_Info2	总计在线上分享了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title139_Info1	总计在线上分享\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title139_Info2	总计在线上分享了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ张照片。
-Title140_Info1	总计在线上赠送\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title140_Info2	总计在线上赠送了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title141_Info1	总计在线上获赠\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title141_Info2	总计在线上获赠了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title142_Info1	总计在线上获赠\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title142_Info2	总计在线上获赠了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title143_Info1	总计在线上获赠\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title143_Info2	总计在线上获赠了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title144_Info1	总计在线上获赠\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title144_Info2	总计在线上获赠了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title145_Info1	总计在线上获赠\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。\n（\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ/\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ）
-Title145_Info2	总计在线上获赠了\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ枚苹果徽章。
-Title146_Info2	在\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ发现了\n\x0e\0\x03\x02\0\0通往洛奇亚的住处的路线\x0e\0\x03\x02ÿÿ。
-Title147_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0大钢蛇\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Title148_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0大竺葵\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Title149_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0美纳斯\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Title150_Info2	将霓光宝可梦\x0e\0\x03\x02\0\0弱丁鱼（鱼群的样子）\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Title151_Info1	拍摄到所有花纹的\x0e\0\x03\x02\0\0彩粉蝶\x0e\0\x03\x02ÿÿ。
-Title151_Info2	拍摄到了所有花纹的\x0e\0\x03\x02\0\0彩粉蝶\x0e\0\x03\x02ÿÿ。
-Title152_Info1	将\x0e\0\x03\x02\0\0伊布\x0e\0\x03\x02ÿÿ和其\x0e\0\x03\x02\0\0所有进化形态\x0e\0\x03\x02ÿÿ\n添加到写真图鉴。
-Title152_Info2	将\x0e\0\x03\x02\0\0伊布\x0e\0\x03\x02ÿÿ和其\x0e\0\x03\x02\0\0所有进化形态\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
+Title096_Info1	将所有{color[0000]}晶奇花{color[ffff]}添加到写真图鉴。
+Title096_Info2	将所有{color[0000]}晶奇花{color[ffff]}添加到了写真图鉴。
+Title097_Info1	将所有{color[0000]}古代遗迹{color[ffff]}添加到写真图鉴。
+Title097_Info2	将所有{color[0000]}古代遗迹{color[ffff]}添加到了写真图鉴。
+Title099_Info1	图鉴总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title099_Info2	图鉴总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title100_Info1	图鉴总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title100_Info2	图鉴总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title101_Info1	图鉴总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title101_Info2	图鉴总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title102_Info1	图鉴总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title102_Info2	图鉴总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title103_Info1	图鉴总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title103_Info2	图鉴总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title104_Info1	在照片评价获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title104_Info2	在照片评价获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title105_Info1	在照片评价总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title105_Info2	在照片评价总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title106_Info1	在照片评价的“{color[0000]}姿势{color[ffff]}”项目获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title106_Info2	在照片评价的“{color[0000]}姿势{color[ffff]}”项目获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title107_Info1	在照片评价的“{color[0000]}姿势{color[ffff]}”项目总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title107_Info2	在照片评价的“{color[0000]}姿势{color[ffff]}”项目总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title108_Info1	在照片评价的“{color[0000]}大小{color[ffff]}”项目获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title108_Info2	在照片评价的“{color[0000]}大小{color[ffff]}”项目获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title109_Info1	在照片评价的“{color[0000]}大小{color[ffff]}”项目总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title109_Info2	在照片评价的“{color[0000]}大小{color[ffff]}”项目总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title110_Info1	在照片评价的“{color[0000]}朝向{color[ffff]}”项目获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title110_Info2	在照片评价的“{color[0000]}朝向{color[ffff]}”项目获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title111_Info1	在照片评价的“{color[0000]}朝向{color[ffff]}”项目总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title111_Info2	在照片评价的“{color[0000]}朝向{color[ffff]}”项目总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title112_Info1	在照片评价的“{color[0000]}位置{color[ffff]}”项目获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title112_Info2	在照片评价的“{color[0000]}位置{color[ffff]}”项目获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title113_Info1	在照片评价的“{color[0000]}位置{color[ffff]}”项目总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title113_Info2	在照片评价的“{color[0000]}位置{color[ffff]}”项目总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title114_Info1	在照片评价的“{color[0000]}其他宝可梦{color[ffff]}”项目获得\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title114_Info2	在照片评价的“{color[0000]}其他宝可梦{color[ffff]}”项目获得了\n{color[0000]}{[0301|00cd]}{color[ffff]}分以上的得分。
+Title115_Info1	在照片评价的“{color[0000]}其他宝可梦{color[ffff]}”项目总计获得{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title115_Info2	在照片评价的“{color[0000]}其他宝可梦{color[ffff]}”项目总计获得了{color[0000]}{[0301|00cd]}{color[ffff]}次\n{color[0000]}{[0303|00cd]}{color[ffff]}分以上的得分。
+Title116_Info1	路线总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title116_Info2	路线总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title117_Info1	路线总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title117_Info2	路线总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title118_Info1	路线总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title118_Info2	路线总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title119_Info1	路线总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title119_Info2	路线总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title120_Info1	路线总得分达到{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title120_Info2	路线总得分达到了{color[0000]}{[0301|00cd]}{color[ffff]}分以上。
+Title121_Info1	使用{color[0000]}搜索{color[ffff]}总计分析{color[0000]}{[0301|00cd]}{color[ffff]}处调查地点。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title121_Info2	使用{color[0000]}搜索{color[ffff]}总计分析了{color[0000]}{[0301|00cd]}{color[ffff]}处调查地点。
+Title122_Info1	使用{color[0000]}搜索{color[ffff]}总计分析{color[0000]}{[0301|00cd]}{color[ffff]}处调查地点。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title122_Info2	使用{color[0000]}搜索{color[ffff]}总计分析了{color[0000]}{[0301|00cd]}{color[ffff]}处调查地点。
+Title123_Info1	使用{color[0000]}搜索{color[ffff]}分析所有调查地点。
+Title123_Info2	使用{color[0000]}搜索{color[ffff]}分析了所有调查地点。
+Title124_Info1	总计让宝可梦吃{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title124_Info2	总计让宝可梦吃了{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。
+Title125_Info1	总计让宝可梦吃{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title125_Info2	总计让宝可梦吃了{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。
+Title126_Info1	总计让宝可梦吃{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title126_Info2	总计让宝可梦吃了{color[0000]}{[0301|00cd]}{color[ffff]}次{color[0000]}轻苹果{color[ffff]}。
+Title129_Info1	总计用{color[0000]}轻苹果{color[ffff]}诱导宝可梦\n移动{color[0000]}{[0301|00cd]}{color[ffff]}km。（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title129_Info2	总计用{color[0000]}轻苹果{color[ffff]}诱导宝可梦\n移动了{color[0000]}{[0301|00cd]}{color[ffff]}km。
+Title136_Info1	总计用{color[0000]}霓光珠{color[ffff]}让晶奇花发光{color[0000]}{[0301|00cd]}{color[ffff]}次。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title136_Info2	总计用{color[0000]}霓光珠{color[ffff]}让晶奇花发光了{color[0000]}{[0301|00cd]}{color[ffff]}次。
+Title137_Info1	总计在线上分享{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title137_Info2	总计在线上分享了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title138_Info1	总计在线上分享{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title138_Info2	总计在线上分享了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title139_Info1	总计在线上分享{color[0000]}{[0301|00cd]}{color[ffff]}张照片。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title139_Info2	总计在线上分享了{color[0000]}{[0301|00cd]}{color[ffff]}张照片。
+Title140_Info1	总计在线上赠送{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title140_Info2	总计在线上赠送了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title141_Info1	总计在线上获赠{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title141_Info2	总计在线上获赠了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title142_Info1	总计在线上获赠{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title142_Info2	总计在线上获赠了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title143_Info1	总计在线上获赠{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title143_Info2	总计在线上获赠了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title144_Info1	总计在线上获赠{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title144_Info2	总计在线上获赠了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title145_Info1	总计在线上获赠{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。\n（{color[0000]}{[0302|00cd]}{color[ffff]}/{color[0000]}{[0301|00cd]}{color[ffff]}）
+Title145_Info2	总计在线上获赠了{color[0000]}{[0301|00cd]}{color[ffff]}枚苹果徽章。
+Title146_Info2	在{color[0000]}蓝蒂尔海床{color[ffff]}发现了\n{color[0000]}通往洛奇亚的住处的路线{color[ffff]}。
+Title147_Info2	将霓光宝可梦{color[0000]}大钢蛇{color[ffff]}\n添加到了写真图鉴。
+Title148_Info2	将霓光宝可梦{color[0000]}大竺葵{color[ffff]}\n添加到了写真图鉴。
+Title149_Info2	将霓光宝可梦{color[0000]}美纳斯{color[ffff]}\n添加到了写真图鉴。
+Title150_Info2	将霓光宝可梦{color[0000]}弱丁鱼（鱼群的样子）{color[ffff]}\n添加到了写真图鉴。
+Title151_Info1	拍摄到所有花纹的{color[0000]}彩粉蝶{color[ffff]}。
+Title151_Info2	拍摄到了所有花纹的{color[0000]}彩粉蝶{color[ffff]}。
+Title152_Info1	将{color[0000]}伊布{color[ffff]}和其{color[0000]}所有进化形态{color[ffff]}\n添加到写真图鉴。
+Title152_Info2	将{color[0000]}伊布{color[ffff]}和其{color[0000]}所有进化形态{color[ffff]}\n添加到了写真图鉴。
 MySpaceTitle_Name.msbt
 Title001_Name	拍摄体验会
 Title002_Name	水坝完成
@@ -2443,7 +2443,7 @@ MySpaceTitle_UI.msbt
 MySpaceTitle_Top_Help	请选择想要确认的调查称号。
 MySpaceTitle_Top_Head	调查称号
 MySpaceTitle_Top_AchievementCondition_Tx	获得条件
-MySpaceTitle_Top_AchievementDate_Num	已于\x0e\0\x03\x02\x08\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ获得！
+MySpaceTitle_Top_AchievementDate_Num	已于{color[0800]}{[0301|00cd]}{color[ffff]}获得！
 MySpaceTop_UI.msbt
 MySpaceTop_Top_Head	我的空间
 MySpaceTop_Top_Help	请选择菜单项目。
@@ -2535,7 +2535,7 @@ Online_Top_PopularPhoto_Tx	现在的人气照片！
 Online_Top_PopularPhoto_Help	确认获得多个苹果徽章的照片。
 Online_Top_RecommendPhoto_Tx	为你推荐！
 Online_Top_RecommendPhoto_Help	确认为你推荐的照片。
-Online_Top_Event01_Tx	备受瞩目的路线！\x0e\x03\x01\x02\0Í
+Online_Top_Event01_Tx	备受瞩目的路线！{[0301|00cd]}
 Online_Top_Event01_Help	确认在备受瞩目的路线拍摄的照片。
 Online_Top_AllLang_Help	显示世界各地的人所拍摄的照片。
 Online_Top_YourLang_Help	显示与你使用相同语言游玩的人所拍摄的照片。
@@ -2664,13 +2664,13 @@ HowToPlay_Operation_Head	操作方法
 HowToPlay_Operation_Page1_Tx	1
 HowToPlay_Operation_Page2_Tx	1/5
 HowToPlay_Operation1_Info	当剩余照片数为0时，\n调查就会结束！
-HowToPlay_Operation2_Info	出现这个图标时，就表示附近有值得调查的东西。\n用 \x0e\x03\x01\x02\0Í 好好搜索一下你的周围吧！
+HowToPlay_Operation2_Info	出现这个图标时，就表示附近有值得调查的东西。\n用 {[0301|00cd]} 好好搜索一下你的周围吧！
 HowToPlay_Photograph_Head	拍摄方法
 HowToPlay_Photograph_Page1_Tx	2
 HowToPlay_Photograph_Page2_Tx	2/5
-HowToPlay_Photograph1_Info	当用 \x0e\x03\x01\x02\0Í 或 \x0e\x03\x02\x02\0Í 移动相机，\n发现宝可梦时……
-HowToPlay_Photograph2_Info	就按 \x0e\x03\x01\x02\0Í 拍摄吧！！
-HowToPlay_Photograph3_Info	还可以用 \x0e\x03\x01\x02\0Í 或 \x0e\x03\x02\x02\0Í 缩放哦！
+HowToPlay_Photograph1_Info	当用 {[0301|00cd]} 或 {[0302|00cd]} 移动相机，\n发现宝可梦时……
+HowToPlay_Photograph2_Info	就按 {[0301|00cd]} 拍摄吧！！
+HowToPlay_Photograph3_Info	还可以用 {[0301|00cd]} 或 {[0302|00cd]} 缩放哦！
 HowToPlay_PhotographTips_Head	拍摄技巧
 HowToPlay_PhotographTips_Page1_Tx	3
 HowToPlay_PhotographTips_Page2_Tx	3/5
@@ -3098,9 +3098,9 @@ PictureBookMap_StageSelect_Head	蓝蒂尔地图
 PictureBookMap_StageSelect_Help	请选择想要确认的区域。
 PictureBookMap_CourseSelect_Help	请选择想要确认的路线。
 PictureBookMap_CourseSelect_CourseLv_Tx	调查等级
-PictureBookMap_CourseSelect_CourseLv_Num	Lv. \x0e\x03\x01\x02\0Í
+PictureBookMap_CourseSelect_CourseLv_Num	Lv. {[0301|00cd]}
 PictureBookMap_CourseSelect_CourseLvMax_Num	Lv. MAX
-PictureBookMap_CourseSelect_NextLv_Num	距离下一等级还需  \x0e\0\x03\x02\n\0{s[117]}\x0e\x03\x01\x02\0Í{s[100]}\x0e\0\x03\x02ÿÿ
+PictureBookMap_CourseSelect_NextLv_Num	距离下一等级还需  {color[0a00]}{size[7500]}{[0301|00cd]}{size[6400]}{color[ffff]}
 PictureBookMap_CourseSelect_HighScore_Tx	最高得分
 PictureBookMap_EcologySelect_Help	按下   可以放大或缩小地图。
 PictureBookPoke_UI.msbt
@@ -4561,29 +4561,29 @@ Reward_ItemType3_Tx	获得“边框”！
 Reward_ItemType4_Tx	获得“滤镜”！
 Reward_ItemType5_Tx	获得“调查称号”！
 Reward_ItemType6_Tx	获得“调查贴纸”！
-Reward001_Reward_Info	完成了“\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ”委托。
-Reward002_Reward_Info	获得了“\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ”调查称号。
-Reward003_Reward_Info	获得了所有岛屿的\x0e\0\x03\x02\0\0调查贴纸\x0e\0\x03\x02ÿÿ。
-Reward004_Reward_Info	将\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward005_Reward_Info	将\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward006_Reward_Info	将\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward007_Reward_Info	将\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward008_Reward_Info	将\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward009_Reward_Info	将\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ\n添加到了写真图鉴。
-Reward010_Reward_Info	初次调查\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ。
-Reward011_Reward_Info	获得了\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward012_Reward_Info	获得了\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward013_Reward_Info	获得了\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward014_Reward_Info	获得了\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward015_Reward_Info	获得了\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward016_Reward_Info	获得了\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
-Reward017_Reward_Info	正式加入了蓝蒂尔地区的\x0e\0\x03\x02\0\0调查队\x0e\0\x03\x02ÿÿ。
-Reward018_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ的调查等级\n达到了\x0e\0\x03\x02\0\0\x0e\x03\x02\x02\0Í\x0e\0\x03\x02ÿÿ。
-Reward019_Reward_Info	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ发现了\x0e\0\x03\x02\0\0春季\x0e\0\x03\x02ÿÿ。
-Reward020_Reward_Info	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ发现了\x0e\0\x03\x02\0\0夏季\x0e\0\x03\x02ÿÿ。
-Reward021_Reward_Info	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ发现了\x0e\0\x03\x02\0\0秋季\x0e\0\x03\x02ÿÿ。
-Reward022_Reward_Info	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ发现了\x0e\0\x03\x02\0\0冬季\x0e\0\x03\x02ÿÿ。
-Reward023_Reward_Info	\x0e\0\x03\x02\0\0\x0e\x03\x01\x02\0Í\x0e\0\x03\x02ÿÿ的调查等级\n达到了\x0e\0\x03\x02\0\0MAX\x0e\0\x03\x02ÿÿ。
+Reward001_Reward_Info	完成了“{color[0000]}{[0301|00cd]}{color[ffff]}”委托。
+Reward002_Reward_Info	获得了“{color[0000]}{[0301|00cd]}{color[ffff]}”调查称号。
+Reward003_Reward_Info	获得了所有岛屿的{color[0000]}调查贴纸{color[ffff]}。
+Reward004_Reward_Info	将{color[0000]}芙罗蕾岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward005_Reward_Info	将{color[0000]}美乐斯岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward006_Reward_Info	将{color[0000]}珂博亚群岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward007_Reward_Info	将{color[0000]}玻鸥克岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward008_Reward_Info	将{color[0000]}杜牢斯岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward009_Reward_Info	将{color[0000]}奥朗岛{color[ffff]}的{color[0000]}晶奇花{color[ffff]}\n添加到了写真图鉴。
+Reward010_Reward_Info	初次调查{color[0000]}{[0301|00cd]}{color[ffff]}。
+Reward011_Reward_Info	获得了{color[0000]}芙罗蕾岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward012_Reward_Info	获得了{color[0000]}美乐斯岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward013_Reward_Info	获得了{color[0000]}珂博亚群岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward014_Reward_Info	获得了{color[0000]}玻鸥克岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward015_Reward_Info	获得了{color[0000]}杜牢斯岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward016_Reward_Info	获得了{color[0000]}奥朗岛{color[ffff]}的{color[0000]}霓光珠{color[ffff]}。
+Reward017_Reward_Info	正式加入了蓝蒂尔地区的{color[0000]}调查队{color[ffff]}。
+Reward018_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}的调查等级\n达到了{color[0000]}{[0302|00cd]}{color[ffff]}。
+Reward019_Reward_Info	在{color[0000]}多奇思季森林{color[ffff]}发现了{color[0000]}春季{color[ffff]}。
+Reward020_Reward_Info	在{color[0000]}多奇思季森林{color[ffff]}发现了{color[0000]}夏季{color[ffff]}。
+Reward021_Reward_Info	在{color[0000]}多奇思季森林{color[ffff]}发现了{color[0000]}秋季{color[ffff]}。
+Reward022_Reward_Info	在{color[0000]}多奇思季森林{color[ffff]}发现了{color[0000]}冬季{color[ffff]}。
+Reward023_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}的调查等级\n达到了{color[0000]}MAX{color[ffff]}。
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	喂～！\n这边这边！
 SD_01_01_cs_002	嗨！
@@ -4596,9 +4596,9 @@ SD_07_01_cs_001	令人惊讶的事发生了。
 SD_07_01_cs_002	你先看看这个。
 CD_001_1C_00_001	反应是在那附近出现的……
 CD_001_1C_00_002	你能去看看那周围吗？
-CD_001_1C_00_003	那只大竺葵就是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ！\n交给你去拍摄了！
+CD_001_1C_00_003	那只大竺葵就是{color[0000]}霓光宝可梦{color[ffff]}！\n交给你去拍摄了！
 SD_09_02_cs_001	很好！
-SD_09_02_cs_002	那么，作为入队的证明，\n这个\x0e\0\x03\x02\0\0队章\x0e\0\x03\x02ÿÿ就送给你了！
+SD_09_02_cs_002	那么，作为入队的证明，\n这个{color[0000]}队章{color[ffff]}就送给你了！
 SD_11_01_cs_005	在后面，后面！跑到那边去了！
 SD_11_01_cs_006	加油啊！
 SD_11_01_cs_001	你终于来了……
@@ -4616,7 +4616,7 @@ CD_006_3A_00_003	快去追那只美纳斯！
 SD_15_01_cs_001	那么，让我们开始吧。
 CD_008_3A_00_001	嗯……\n总该不会是在熔岩中吧……
 CD_008_3A_00_002	火神蛾，有2只……
-CD_008_3A_00_003	想不到霓光宝可梦\n竟然有\x0e\0\x03\x02\0\02只\x0e\0\x03\x02ÿÿ……
+CD_008_3A_00_003	想不到霓光宝可梦\n竟然有{color[0000]}2只{color[ffff]}……
 CD_008_3A_00_004	它们飞进那个洞穴里了！
 CD_008_3A_00_005	我们追上去吧！
 SD_17_01_cs_004	那很棒耶！
@@ -4632,7 +4632,7 @@ CD_010_3A_01_002	你回来之前，\n能不能稍微绕个道呀？
 CD_010_3A_01_003	刚刚在追大钢蛇时，\n有个地方让我很在意……
 CD_010_3A_01_004	途中路过的那个坍塌的墙壁……
 CD_010_3A_01_005	里面好像有片宽广的空间。
-CD_010_3A_01_006	我搜索了一下，\n结果显示那里是\x0e\0\x03\x02\0\0人造\x0e\0\x03\x02ÿÿ的。
+CD_010_3A_01_006	我搜索了一下，\n结果显示那里是{color[0000]}人造{color[ffff]}的。
 CD_010_3A_01_007	没有理由不去看看吧？
 CD_010_3A_01_008	哇……\n博士，这里是什么地方？？
 CD_010_3A_01_009	……
@@ -4648,7 +4648,7 @@ CD_011_1A_00_005	我会把传送点固定在那边，\n先回研究基地吧。
 CD_011_3A_00_001	虽然很微弱，\n但那应该就是反应的来源。
 CD_011_3A_00_002	这是什么……？？
 CD_011_3A_00_003	真不敢相信……\n我从来没见过这么强的反应！
-CD_011_3A_00_004	它就是我们一直在寻找的\n最后的\x0e\0\x03\x02\0\0霓光宝可梦！\x0e\0\x03\x02ÿÿ
+CD_011_3A_00_004	它就是我们一直在寻找的\n最后的{color[0000]}霓光宝可梦！{color[ffff]}
 CD_011_3A_00_005	就拜托你了！
 CD_011_3A_01_003	它怎么了？
 CD_011_3A_01_005	我看……\n等你回来之后再说吧。
@@ -4658,8 +4658,8 @@ SD_20_02_cs_003	你说呢？
 SD_20_02_cs_004	当然！
 SD_20_02_cs_005	博士，你真的不明白吗？
 SD_20_02_cs_011	嗯……
-SD_20_02_cs_006	当然是因为\x0e\n\0\nÿÍ\x02\0ÖN\x02\0yY非常喜欢宝可梦啊！
-SD_20_02_cs_007	宝可梦们也一定很喜欢\x0e\n\0\nÿÍ\x02\0ÖN\x02\0yY！
+SD_20_02_cs_006	当然是因为{[0a00|ffcd0200d64e02007959]}非常喜欢宝可梦啊！
+SD_20_02_cs_007	宝可梦们也一定很喜欢{[0a00|ffcd0200d64e02007959]}！
 SD_20_02_cs_008	对吧？
 SD_20_02_cs_009	这事有这么简单吗？
 SD_20_02_cs_010	看来，博士你的研究还不够哦。
@@ -5304,10 +5304,10 @@ C006_0190	ニューポケモンスナップ！
 C006_0191	ニューポケモンスナップ！
 C006_0192	ニューポケモンスナップ！
 ScenarioHudNavi_Lines.msbt
-VC_001_1A_s00_001	那里是\x0e\0\x03\x02\0\0芙罗蕾自然公园\x0e\0\x03\x02ÿÿ的入口。
+VC_001_1A_s00_001	那里是{color[0000]}芙罗蕾自然公园{color[ffff]}的入口。
 VC_001_1A_s00_002	新壹号能够自动识别路线前进。
 VC_001_1A_s00_003	你只要好好观察周围，\n专心拍摄就好！
-VC_001_1A_e00_001	那个叫做\x0e\0\x03\x02\0\0传送标记\x0e\0\x03\x02ÿÿ，\n是返回研究基地用的标志。
+VC_001_1A_e00_001	那个叫做{color[0000]}传送标记{color[ffff]}，\n是返回研究基地用的标志。
 VC_001_1A_e00_002	简单来说就是终点啦。
 VC_001_1A_e00_003	等你回来后，让我看看\n你拍摄的照片吧！
 VC_001_1A_e01_001	啊，大牙狸的巢穴筑好了！\n听说那很结实，还能从上面穿过去呢。
@@ -5317,12 +5317,12 @@ VC_001_1B_e00_001	听得到吗？听说刚刚那附近\n有很强的能量反应
 VC_001_1B_e00_002	博士正急着查资料呢。\n等你回来后听听他怎么说吧。
 VC_001_1C_e00_001	看样子是离开了。
 VC_001_1C_e00_002	而且能量反应也消失了，\n就等你回来再说吧。
-VC_005_1A_s00_001	\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ，初次登陆！\n这里完全是一片丛林啊。
+VC_005_1A_s00_001	{color[0000]}美乐斯岛{color[ffff]}，初次登陆！\n这里完全是一片丛林啊。
 VC_005_1A_s00_002	要好～好寻找宝可梦啊！\n调查就拜托你了！
 VC_005_1A_e01_001	厉害，你竟然能发现这里。\n这样就能接近沼泽中的宝可梦了！
 VC_005_1A_e02_001	哇～好像能去瀑布的后面哦。\n那里是什么样呢？
 VC_005_1B_s00_001	这里可真够黑的。\n看来要找到宝可梦也没那么容易。
-VC_005_1B_s00_002	去找找正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
+VC_005_1B_s00_002	去找找正在发光的{color[0000]}晶奇花{color[ffff]}吧。
 VC_006_1A_s00_001	这里的雾好像很浓。
 VC_006_1A_s00_002	通讯的信号也不太稳定。\n要小心一点啊。
 VC_006_1A_e00_001	这是春天才会开的花吧？\n突然变成春天了吗？？
@@ -5347,7 +5347,7 @@ VC_004_1A_e01_001	追过去看看吧！\n前面一定有些什么！
 VC_004_3A_e00_001	没事吧！？
 VC_004_3A_e00_002	太好啦～
 VC_004_3A_e00_003	新壹号也没有异常！
-VC_004_3A_e00_004	我想刚刚那就是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ了。
+VC_004_3A_e00_004	我想刚刚那就是{color[0000]}霓光宝可梦{color[ffff]}了。
 VC_004_3A_e00_005	能不能直接追上去？
 VC_004_3A_e00_006	好！\n仔细在周围寻找一下吧！
 VC_004_3A_e01_001	这次有点吓到我了。
@@ -5393,7 +5393,7 @@ VC_010_3A_e00_007	这幅壁画可是诞生于\n小行星冲撞的时期啊！
 VC_010_3A_e00_008	厉害！这是个大发现啊！
 VC_010_3A_e00_009	壁画上画的是古人看到的事情吗？
 VC_010_3A_e00_010	陨石坠落时，\n是宝可梦们保护了大家吗？
-VC_010_3A_e00_011	嗯，这些在宝可梦们身上的花纹……\n难道是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ？
+VC_010_3A_e00_011	嗯，这些在宝可梦们身上的花纹……\n难道是{color[0000]}霓光宝可梦{color[ffff]}？
 VC_010_3A_e00_012	也就是说，在陨石坠落之前，\n霓光宝可梦就已经存在了？
 VC_010_3A_e00_013	并且在这中间\n还有另1只霓光宝可梦……？
 VC_010_3A_e00_014	……
@@ -5403,7 +5403,7 @@ VC_010_3A_e00_017	抱歉，抱歉。
 VC_010_3A_e00_018	我想得有点入神了……
 VC_010_3A_e00_019	资料大致都收集到了。\n等你回来后，我们再整理一下吧。
 VC_010_3A_e01_001	反应越来越远了。
-VC_010_3A_e01_002	你好像没拍到\x0e\0\x03\x02\0\0霓光状态\x0e\0\x03\x02ÿÿ啊。\n先回来一趟吧。
+VC_010_3A_e01_002	你好像没拍到{color[0000]}霓光状态{color[ffff]}啊。\n先回来一趟吧。
 VC_010_3A_e02_001	它一定在这里面吧？\n朝周围的洞穴里扔些轻苹果吧！
 VC_010_3A_e02_002	它的体型太大了，\n可能要多丢中几个霓光珠才行……
 VC_010_3A_e02_003	应该在下面！搜索一下吧！\n用轻苹果能不能把它引出来呢？
@@ -5411,7 +5411,7 @@ VC_010_3A_e02_004	一出现发光的花纹，\n就要马上拍下来哦！
 VC_011_1A_s00_001	这座遗迹好像很大啊。
 VC_011_1A_s00_002	反应是从那里面发出来的。\n要小心啊。
 VC_011_3A_e00_001	反应似乎消失了。
-VC_011_3A_e00_002	没拍到\x0e\0\x03\x02\0\0霓光状态\x0e\0\x03\x02ÿÿ的哲尔尼亚斯啊。\n先回来一趟吧？
+VC_011_3A_e00_002	没拍到{color[0000]}霓光状态{color[ffff]}的哲尔尼亚斯啊。\n先回来一趟吧？
 VC_011_3A_e01_001	如果把霓光珠丢到那股气场中，\n会发生什么事呢？
 VC_011_3A_e01_002	如果是霓光珠的话，\n说不定能给哲尔尼亚斯提供能量……
 VC_011_3A_e01_003	如果出现了发光的花纹，\n就麻烦你把它拍下来！
@@ -5515,27 +5515,27 @@ VC_Com_SearchAnalysis_037	刚才各座岛上的晶奇花，\n会不会和石像�
 VC_Com_SearchAnalysis_038	原来正中间的是哲尔尼亚斯啊……
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	嗨！很高兴见到你。
-SD_01_02_sk_015	欢迎来到\n\x0e\0\x03\x02\0\0蓝蒂尔宝可梦自然科学研究所\x0e\0\x03\x02ÿÿ！
-SD_01_02_sk_002	我的名字叫\x0e\0\x03\x02\0\0阿镜\x0e\0\x03\x02ÿÿ。
-SD_01_02_sk_003	目前我正在这座\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ上\n研究宝可梦与自然环境。
-SD_01_02_sk_004	博士说他要把\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ\n其他的岛屿也全～都调查个遍呢！
+SD_01_02_sk_015	欢迎来到\n{color[0000]}蓝蒂尔宝可梦自然科学研究所{color[ffff]}！
+SD_01_02_sk_002	我的名字叫{color[0000]}阿镜{color[ffff]}。
+SD_01_02_sk_003	目前我正在这座{color[0000]}芙罗蕾岛{color[ffff]}上\n研究宝可梦与自然环境。
+SD_01_02_sk_004	博士说他要把{color[0000]}蓝蒂尔地区{color[ffff]}\n其他的岛屿也全～都调查个遍呢！
 SD_01_02_sk_005	至今为止还从来没人调查过呢！\n这简直太厉害了！
 SD_01_02_sk_016	你是不是把威克多给忘了？
-SD_01_02_sk_006	啊，对哦！你也读过\n\x0e\0\x03\x02\0\0冒险家威克多队长\x0e\0\x03\x02ÿÿ的故事吧？
+SD_01_02_sk_006	啊，对哦！你也读过\n{color[0000]}冒险家威克多队长{color[ffff]}的故事吧？
 SD_01_02_sk_007	不过那都隔了100年了，\n所以博士还是很厉害！
 SD_01_02_sk_008	谢谢你啊。
-SD_01_02_sk_009	她叫\x0e\0\x03\x02\0\0莉塔\x0e\0\x03\x02ÿÿ，是我朋友的女儿。\n她是趁着学校放假的这段时间跑来玩的。
+SD_01_02_sk_009	她叫{color[0000]}莉塔{color[ffff]}，是我朋友的女儿。\n她是趁着学校放假的这段时间跑来玩的。
 SD_01_02_sk_010	博士！不是来玩，我是来做“助手”的！
 SD_01_02_sk_011	啊～对对对。\n你帮了我不少忙呢。
 SD_01_02_sk_012	那么，在我说明这次的体验会之前……
 SD_01_02_sk_013	让我们先喘口气，\n先到研究室里去吧。
 SD_01_02_sk_014	好啊～！\n那我来带路吧！
 SD_01_03_sk_001	那我要开始说明了。
-SD_01_03_sk_002	\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ和其他地区一样，\n也栖息着很多宝可梦。对吧？
+SD_01_03_sk_002	{color[0000]}蓝蒂尔地区{color[ffff]}和其他地区一样，\n也栖息着很多宝可梦。对吧？
 SD_01_03_sk_003	通过拍摄这里的宝可梦，\n更深入地了解它们的生态和大自然……
 SD_01_03_sk_004	这就是这次体验会的目的。
-SD_01_03_sk_005	晚上你说不定还能见到\x0e\0\x03\x02\0\0发光的宝可梦\x0e\0\x03\x02ÿÿ呢。\n那可漂亮了。
-SD_01_03_sk_006	那我先把\n这台\x0e\0\x03\x02\0\0调查相机\x0e\0\x03\x02ÿÿ给你吧。
+SD_01_03_sk_005	晚上你说不定还能见到{color[0000]}发光的宝可梦{color[ffff]}呢。\n那可漂亮了。
+SD_01_03_sk_006	那我先把\n这台{color[0000]}调查相机{color[ffff]}给你吧。
 SD_01_03_sk_007	我也有一台一样的哦！\n队员之间还能用它来通讯呢。请多关照啦！
 SD_01_03_sk_008	这是专门用来调查的相机。\n不仅可以拍摄，还能用来通讯和分析资料。
 SD_01_03_sk_009	它也可以当做是你的ID，\n所以要好好保管啊。
@@ -5546,7 +5546,7 @@ SD_01_04b_sk_004	那就拜托我的助手吧。\n我先去准备别的事情。
 SD_01_04b_sk_005	好～！\n我们快到外面去吧！
 SD_01_06_sk_001	看来你都准备好了啊。
 SD_01_06_sk_002	你将驾驶这个小艇\n一边移动一边拍摄。
-SD_01_06_sk_003	它叫\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ！
+SD_01_06_sk_003	它叫{color[0000]}新壹号{color[ffff]}！
 SD_01_06_sk_004	再远的地方它都能瞬间抵达，\n是个很厉害的交通工具哦！
 SD_01_06_sk_005	我找了位高手帮忙，\n最近才总算把它给完成了。
 SD_01_06_sk_006	这蓝蒂尔地区啊，\n好多地方都有强大的能量反应……
@@ -5554,8 +5554,8 @@ SD_01_06_sk_007	博士！\n详细的之后再说吧！之后！
 SD_01_06_sk_008	好吧。那你先坐上新壹号，\n用相机去刷一下吧！
 SD_03_01_sk_001	好，这样大概就说明完了吧？
 SD_03_01_sk_002	还没有说晚上的拍摄吧？
-SD_03_01_sk_003	那部分就等\x0e\n\0\nÿÍ\x02\0ÖN\x02\0yY熟悉一点后再说吧。
-SD_03_01_sk_004	对了，你随时都可以来\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ。\n毕竟确认\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ也是很重要的。
+SD_03_01_sk_003	那部分就等{[0a00|ffcd0200d64e02007959]}熟悉一点后再说吧。
+SD_03_01_sk_004	对了，你随时都可以来{color[0000]}研究室{color[ffff]}。\n毕竟确认{color[0000]}写真图鉴{color[ffff]}也是很重要的。
 SD_03_01_sk_005	等去了那里时，我再详细说明吧。
 SD_03_01_sk_006	好了，你继续去\n享受拍摄的乐趣吧！
 SD_04_01_sk_001	这里就是博士的研究室啦。
@@ -5565,27 +5565,27 @@ SD_04_01_sk_004	还有，他好像几乎都住在这里了……
 SD_04_01_sk_005	那么，我就简单说明一下吧！
 SD_04_01_sk_006	博士说，我们收集到的资料\n会不断存储到那个服务器里面。
 SD_04_01_sk_007	在这里可以利用那些资料\n做很多事呢。
-SD_04_01_sk_008	首先是\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_008	首先是{color[0000]}写真图鉴{color[ffff]}。
 SD_04_01_sk_009	你可以翻阅用自己拍的照片\n做成的图鉴哦。
 SD_04_01_sk_010	只属于你自己的写真图鉴！\n怎么样，很让人兴奋吧？
-SD_04_01_sk_011	接下来是\x0e\0\x03\x02\0\0我的空间\x0e\0\x03\x02ÿÿ。
+SD_04_01_sk_011	接下来是{color[0000]}我的空间{color[ffff]}。
 SD_04_01_sk_012	在这里可以查看相册中的照片，\n以及你的冒险记录。
-SD_04_01_sk_013	而\x0e\0\x03\x02\0\0相册中的照片\x0e\0\x03\x02ÿÿ，\n就是与图鉴分开保存的照片了。
-SD_04_01_sk_014	你还可以为相册中的照片\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿ哦。
+SD_04_01_sk_013	而{color[0000]}相册中的照片{color[ffff]}，\n就是与图鉴分开保存的照片了。
+SD_04_01_sk_014	你还可以为相册中的照片{color[0000]}加工{color[ffff]}哦。
 SD_04_01_sk_015	还有什么来着？
 SD_04_01_sk_016	博士～\n还有什么要事先说明的吗？？
 SD_04_01_sk_017	关于线上的说明呢？
 SD_04_01_sk_018	啊，还没说呢！
-SD_04_01_sk_019	在\x0e\0\x03\x02\0\0线上\x0e\0\x03\x02ÿÿ，你可以通过网络\n查看世界各地好友的照片。
+SD_04_01_sk_019	在{color[0000]}线上{color[ffff]}，你可以通过网络\n查看世界各地好友的照片。
 SD_04_01_sk_020	而且，当你看到喜欢的照片时，\n还能为它送徽章呢。
-SD_04_01_sk_025	那叫做\x0e\0\x03\x02\0\0苹果徽章\x0e\0\x03\x02ÿÿ，\n收到的人会很开心的，你也送送看吧。
-SD_04_01_sk_021	是啊。除此之外，\n你还能查阅\x0e\0\x03\x02\0\0各种得分的排行榜\x0e\0\x03\x02ÿÿ呢。
+SD_04_01_sk_025	那叫做{color[0000]}苹果徽章{color[ffff]}，\n收到的人会很开心的，你也送送看吧。
+SD_04_01_sk_021	是啊。除此之外，\n你还能查阅{color[0000]}各种得分的排行榜{color[ffff]}呢。
 SD_04_01_sk_022	好！这下全都说过了吧？
 SD_04_01_sk_023	每项都是试试就能明白的！
 SD_04_01_sk_024	那么，你就多去试试吧！
 SD_05_01_sk_001	哦！\n这么快就又要去拍摄了吗？
 SD_05_01_sk_002	在那之前，\n我告诉你一个调查相机的功能吧。
-SD_05_01_sk_003	那就是\x0e\0\x03\x02\0\0搜索功能\x0e\0\x03\x02ÿÿ！
+SD_05_01_sk_003	那就是{color[0000]}搜索功能{color[ffff]}！
 SD_05_01_sk_004	顾名思义，这是用来调查周边的功能。
 SD_05_01_sk_005	你可以用它调查宝可梦的信息，\n或是去发现一些可疑的地方。
 SD_05_01_sk_006	我之前也听你说过，\n这“可疑的地方”指的到底是什么呢？
@@ -5598,11 +5598,11 @@ SD_05_03_sk_002	谢谢你，莉塔。
 SD_05_03_sk_003	搜索一下，你就能知道很多事情，\n所以我建议你积极使用这个功能。
 SD_06_01_sk_001	看来拍摄进展得很顺利啊。
 SD_06_01_sk_002	那好，我们差不多该去\n晚上的自然公园看看了吧？
-SD_06_01_sk_003	在蓝蒂尔地区会发生一种\n被称做\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ的发光现象。
+SD_06_01_sk_003	在蓝蒂尔地区会发生一种\n被称做{color[0000]}霓光现象{color[ffff]}的发光现象。
 SD_06_01_sk_004	解开它的发光原理的，就是博士你吧？
 SD_06_01_sk_005	嗯。不过，我只是发现了\n一些科学层面上的原理罢了。
 SD_06_01_sk_006	我的研究目的，\n就是要找到传说中提到的特殊宝可梦。
-SD_06_01_sk_007	你说的是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ？
+SD_06_01_sk_007	你说的是{color[0000]}霓光宝可梦{color[ffff]}？
 SD_06_01_sk_008	那不是故事里的宝可梦吗？
 SD_06_01_sk_009	不，它们真的存在。\n你看过冒险记里的照片吧？
 SD_06_01_sk_010	根本看不出来照片里照了什么啊。\n而且，100年前简直是远古时代了……
@@ -5612,7 +5612,7 @@ SD_07_02_sk_001	在你靠近花海的时候……
 SD_07_02_sk_002	出现了十分强烈的能量反应。
 SD_07_02_sk_003	而且，虽然很细微，\n但这个反应是会移动的。
 SD_07_02_sk_004	也就是说……
-SD_07_02_sk_005	是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ！？
+SD_07_02_sk_005	是{color[0000]}霓光宝可梦{color[ffff]}！？
 SD_07_02_sk_006	虽然还不能确定就是了。
 SD_07_02_sk_007	你做了什么特别的事情吗？
 SD_07_02_sk_008	嗯，我也觉得这一定有所关联。
@@ -5625,11 +5625,11 @@ SD_08_01_sk_002	怎么样？它很漂亮吧？\n是不是特别大？它有没�
 SD_08_01_sk_003	莉塔，你冷静一点。
 SD_08_01_sk_004	唔～还说我呢。\n博士，你刚才不也是很兴奋吗？
 SD_08_01_sk_005	……\n嗯……
-SD_08_01_sk_006	那只大竺葵确实是只\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ。\n与传说也完全吻合。
+SD_08_01_sk_006	那只大竺葵确实是只{color[0000]}霓光宝可梦{color[ffff]}。\n与传说也完全吻合。
 SD_08_01_sk_007	你说的传说……\n是很久以前发生大灾难时……
 SD_08_01_sk_008	多亏了霓光宝可梦，\n大家才得救的那个传说？
 SD_08_01_sk_009	对，就是那个。
-SD_08_01_sk_010	而且传说还提到，那些霓光宝可梦的\n\x0e\0\x03\x02\0\0身上有花纹\x0e\0\x03\x02ÿÿ，散发着\x0e\0\x03\x02\0\0特殊的光芒\x0e\0\x03\x02ÿÿ。
+SD_08_01_sk_010	而且传说还提到，那些霓光宝可梦的\n{color[0000]}身上有花纹{color[ffff]}，散发着{color[0000]}特殊的光芒{color[ffff]}。
 SD_08_01_sk_011	就是那只宝可梦！
 SD_08_01_sk_012	是吧？
 SD_08_01_sk_013	我认为那个传说描述的\n是真正发生过的事情。
@@ -5639,7 +5639,7 @@ SD_08_01_sk_016	今天已经很晚了，\n剩下的明天再说吧。
 SD_09_01_sk_001	早上好。\n昨晚睡得还好吧？
 SD_09_01_sk_002	之前莉塔也说过……
 SD_09_01_sk_003	我正准备开始调查\n整个蓝蒂尔地区。
-SD_09_01_sk_004	然后你就来了，\n还发现了\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ。
+SD_09_01_sk_004	然后你就来了，\n还发现了{color[0000]}霓光宝可梦{color[ffff]}。
 SD_09_01_sk_005	难道这有什么关联么？
 SD_09_01_sk_006	我还不太清楚。
 SD_09_01_sk_007	但我觉得，如果一起去调查的话，\n可能会发生什么事……
@@ -5661,7 +5661,7 @@ SD_10_01_sk_002	用法嘛……莉塔，拜托你啦！
 SD_10_01_sk_003	好～！
 SD_10_01_sk_004	不过博士，最近你是不是太能偷懒了？？
 SD_10_01_sk_005	哎，算啦，谁让我是助手呢！\n还是我来说明吧！
-SD_10_01_sk_006	这东西叫\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ，\n是能在蓝蒂尔地区采到的水果。
+SD_10_01_sk_006	这东西叫{color[0000]}轻苹果{color[ffff]}，\n是能在蓝蒂尔地区采到的水果。
 SD_10_01_sk_007	又甜又好吃，宝可梦们可喜欢了。
 SD_10_01_sk_008	虽然看起来就是个普通的苹果……
 SD_10_01_sk_009	但是它又轻又软的。
@@ -5676,16 +5676,16 @@ SD_10_03_sk_006	听博士说，轻苹果有很多种用途哦。
 SD_10_03_sk_007	说明已经结束了吧？\n莉塔，谢谢你。
 SD_10_03_sk_008	现在我要告诉你们一件事。
 SD_10_03_sk_009	为了让今后的调查顺利进展，\n我想把调查信息共享给你们。
-SD_10_03_sk_010	你们知道\x0e\0\x03\x02\0\0蓝蒂尔聊天\x0e\0\x03\x02ÿÿ吗？
+SD_10_03_sk_010	你们知道{color[0000]}蓝蒂尔聊天{color[ffff]}吗？
 SD_10_03_sk_011	嗯？那是什么？
 SD_10_03_sk_012	就是大家在蓝蒂尔地区\n使用的一种通讯工具。
 SD_10_03_sk_013	比如莉塔你在调查时使用这个工具，\n就能把你在意的事和照片一起发出去。
 SD_10_03_sk_014	而我也可以把看屏幕时\n注意到的事情发出去。
 SD_10_03_sk_015	哦～真有意思！
-SD_10_03_sk_016	它会显示在研究基地等的\x0e\0\x03\x02\0\0右上方\x0e\0\x03\x02ÿÿ，\n调查时你可以多加利用。
-SD_11_02_sk_001	他是\x0e\0\x03\x02\0\0阿彻\x0e\0\x03\x02ÿÿ。
+SD_10_03_sk_016	它会显示在研究基地等的{color[0000]}右上方{color[ffff]}，\n调查时你可以多加利用。
+SD_11_02_sk_001	他是{color[0000]}阿彻{color[ffff]}。
 SD_11_02_sk_002	是位环游世界的\n专业宝可梦摄影师。
-SD_11_02_sk_003	拍到\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的就是你？\n太厉害了！
+SD_11_02_sk_003	拍到{color[0000]}霓光宝可梦{color[ffff]}的就是你？\n太厉害了！
 SD_11_02_sk_004	阿彻，我拜托你的东西呢？
 SD_11_02_sk_005	我带来啦。
 SD_11_02_sk_006	谢谢，这样就能出发了。
@@ -5695,17 +5695,17 @@ SD_11_02_sk_009	关于这次的调查\n他也给了我很多宝贵建议。
 SD_11_02_sk_010	这样啊～
 SD_11_02_sk_011	哦！那就是你这次开发的小艇吗？\n真不错，让我想起了以前啊。
 SD_11_02_sk_012	但现在还是先给我看看\n霓光宝可梦的照片吧！
-SD_11_04_sk_001	我是师傅的头号弟子\x0e\0\x03\x02\0\0菲尔\x0e\0\x03\x02ÿÿ。\n请多指教啦！
+SD_11_04_sk_001	我是师傅的头号弟子{color[0000]}菲尔{color[ffff]}。\n请多指教啦！
 SD_11_04_sk_002	好了，好了。
 SD_11_04_sk_003	老实说，\n我是很想亲自去拍摄的……
 SD_11_04_sk_004	不过，还是让菲尔去吧。\n怎么样？
 SD_11_04_sk_005	既然阿彻你都这么说了，\n我当然没问题。
 SD_11_04_sk_006	太棒了～！
-SD_11_04_sk_007	不过你要知道，你只是代替我去，\n那个\x0e\0\x03\x02\0\0队章\x0e\0\x03\x02ÿÿ也只是借给你用的。
+SD_11_04_sk_007	不过你要知道，你只是代替我去，\n那个{color[0000]}队章{color[ffff]}也只是借给你用的。
 SD_11_04_sk_008	唔……那要是我照到了很棒的照片，\n队章可就归我咯！
 SD_11_04_sk_009	话说，是要调查什么啊？？
 SD_11_04_sk_010	……
-SD_13_02_sk_001	这是我们生活的\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ。\n我们现在在这里。
+SD_13_02_sk_001	这是我们生活的{color[0000]}芙罗蕾岛{color[ffff]}。\n我们现在在这里。
 SD_13_02_sk_002	而这次调查\n我们将会离开这座岛。
 SD_13_02_sk_003	最初前往的调查地点就是这里！
 SD_13_02_sk_004	为什么要先调查这里啊？
@@ -5718,22 +5718,22 @@ SD_13_02_sk_010	那你们就去好好享受100年来都无人体验的\n蓝蒂�
 CI_005_1B_00_001	看来你们对新的岛也很熟悉了。
 CI_005_1B_00_002	那我就拜托你们进行下一项调查吧。
 CI_005_1B_00_003	什么？是什么？
-CI_005_1B_00_004	我想请你们去晚上的丛林里\n拍摄发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ。
+CI_005_1B_00_004	我想请你们去晚上的丛林里\n拍摄发光的{color[0000]}晶奇花{color[ffff]}。
 CI_005_1B_00_005	晶奇花？
 CI_005_1B_00_006	是一种会发光的花。
 CI_005_1B_00_007	你们有没有在哪里看到过奇特的花？
 CI_005_1B_00_008	我看到过！是红色的！
 CI_005_1B_00_009	大概就是它了。
-CI_005_1B_00_010	它应该会在晚上发光，呈现出\x0e\0\x03\x02\0\0霓光状态\x0e\0\x03\x02ÿÿ。
+CI_005_1B_00_010	它应该会在晚上发光，呈现出{color[0000]}霓光状态{color[ffff]}。
 CI_005_1B_00_011	找到它后要怎么做？
 CI_005_1B_00_012	只要用调查相机拍下来就好。
 CI_005_1B_00_013	因为那台相机也有分析功能。
-CI_005_1B_00_014	那就麻烦你们去调查\n\x0e\0\x03\x02\0\0晚上的丛林\x0e\0\x03\x02ÿÿ吧！
+CI_005_1B_00_014	那就麻烦你们去调查\n{color[0000]}晚上的丛林{color[ffff]}吧！
 SD_14_01_sk_001	拍得真不错。\n我也收集到了足够的资料。
 SD_14_01_sk_002	来，你们看看这个。
 SD_14_01_sk_003	啊，这是博士你做的\n那个叫什么的珠子吗？
 SD_14_01_sk_004	它可以让宝可梦和\n晶奇花发光，是吧？
-SD_14_01_sk_005	对，它叫\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ。
+SD_14_01_sk_005	对，它叫{color[0000]}霓光珠{color[ffff]}。
 SD_14_01_sk_006	但这种蓝色的霓光珠\n只能在我们居住的芙罗蕾岛上使用。
 SD_14_01_sk_007	咦？为什么？？
 SD_14_01_sk_008	可能是因为每座岛上的能量\n都有点差别吧。
@@ -5742,9 +5742,9 @@ SD_14_01_sk_010	看着啊！
 SD_14_03_sk_001	厉害啊～！
 SD_14_03_sk_002	哇～好漂亮～！
 SD_14_03_sk_003	哦～这就是只会发生在\n蓝蒂尔地区的发光现象啊。
-SD_14_03_sk_004	我记得是叫……\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ吧？
+SD_14_03_sk_004	我记得是叫……{color[0000]}霓光现象{color[ffff]}吧？
 SD_14_03_sk_005	宝可梦和植物会发生相同的现象，\n这可真有意思啊。
-SD_14_03_sk_006	使用这个，就可以让宝可梦和晶奇花\n暂时进入\x0e\0\x03\x02\0\0霓光状态\x0e\0\x03\x02ÿÿ了。
+SD_14_03_sk_006	使用这个，就可以让宝可梦和晶奇花\n暂时进入{color[0000]}霓光状态{color[ffff]}了。
 SD_14_03_sk_007	到时我建议你们也可以\n观察一下宝可梦和周围发生的变化。
 SD_14_03_sk_008	可以把芙罗蕾岛的霓光珠\n也给我们吗？
 SD_14_03_sk_009	当然可以！
@@ -5765,13 +5765,13 @@ CI_006_3A_00_001	听说你出去调查的时候，\n又有了不得了的反应�
 CI_006_3A_00_002	博士！快告诉我们吧！
 CI_006_3A_00_003	那我开始说啦。
 CI_006_3A_00_004	在树海深处\n发生了非常剧烈的能量反应。
-CI_006_3A_00_005	这一定是\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ。
+CI_006_3A_00_005	这一定是{color[0000]}霓光宝可梦{color[ffff]}。
 CI_006_3A_00_006	看来的确和那附近的遗迹\n也有些关联啊。
 CI_006_3A_00_007	如果你们准备好了，\n能不能马上出发呢？
 SD_15_02_sk_001	好，又有新的岛可以去了。
 SD_15_02_sk_002	我新定位到了2个传送点。
 SD_15_02_sk_003	在哪里？在哪里？
-SD_15_02_sk_004	就是这座\x0e\0\x03\x02\0\0细长的岛\x0e\0\x03\x02ÿÿ，\n还有\x0e\0\x03\x02\0\0大海的中间\x0e\0\x03\x02ÿÿ，这两个地点。
+SD_15_02_sk_004	就是这座{color[0000]}细长的岛{color[ffff]}，\n还有{color[0000]}大海的中间{color[ffff]}，这两个地点。
 SD_15_02_sk_005	大海的中间是威克多队长\n没能抵达的地方吧？
 SD_15_02_sk_006	太厉害了！
 SD_15_02_sk_007	调查的顺序由你决定吧。\n之后也继续拜托啦！
@@ -5779,13 +5779,13 @@ SD_16_01_sk_001	怎么样？调查得还开心么？
 SD_16_01_sk_002	其实，有件事\n我之前忘记告诉博士了……
 SD_16_01_sk_003	所以我刚才请他追加了一个功能。
 SD_16_01_sk_004	什么功能？
-SD_16_01_sk_005	\x0e\0\x03\x02\0\0旋律功能\x0e\0\x03\x02ÿÿ。\n就是能让调查相机发出声音的功能。
+SD_16_01_sk_005	{color[0000]}旋律功能{color[ffff]}。\n就是能让调查相机发出声音的功能。
 SD_16_01_sk_006	有了这个。\n就能观察到宝可梦们不同的一面了。
 SD_16_01_sk_007	真有意思！
 SD_16_01_sk_008	莉塔，能麻烦你和他们\n说明一下这个的功能吗？
 SD_16_01_sk_009	没问题～
-SD_16_01_sk_010	按下 \x0e\x03\x01\x02\0Í 就会响起旋律哦。
-SD_16_01_sk_011	当响着旋律时再按一次 \x0e\x03\x01\x02\0Í ，\n旋律就会停下来。
+SD_16_01_sk_010	按下 {[0301|00cd]} 就会响起旋律哦。
+SD_16_01_sk_011	当响着旋律时再按一次 {[0301|00cd]} ，\n旋律就会停下来。
 SD_16_01_sk_012	听说这旋律\n有时能让睡着的宝可梦醒过来……
 SD_16_01_sk_013	有时还能让宝可梦跳起舞来呢。
 SD_16_01_sk_014	不过，我也还没有用过就是了！
@@ -5798,7 +5798,7 @@ CI_004_1A_00_001	博士～\n大家都到齐了。
 CI_004_1A_00_002	谢谢你。\n那么，我们开始吧。
 CI_004_1A_00_003	其实，我发现了新的传送点……
 CI_004_1A_00_004	太棒了！在哪里？在哪里？
-CI_004_1A_00_005	不在别处，就在\x0e\0\x03\x02\0\0海里\x0e\0\x03\x02ÿÿ！
+CI_004_1A_00_005	不在别处，就在{color[0000]}海里{color[ffff]}！
 CI_004_1A_00_006	厉害啊～！
 CI_004_1A_00_007	但是，由于新壹号没法潜到海里……
 CI_004_1A_00_008	咦咦咦！！
@@ -5807,15 +5807,15 @@ CI_004_1A_00_010	什么嘛，别吓唬我啊！
 CI_004_1A_00_011	哇～真是好期待！
 CI_004_1A_00_012	所以这次海里的调查\n也拜托你们了。
 CI_004_1A_00_013	嚯～海底啊……
-CI_004_0A_00_001	我终于把能够在\n\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ使用的\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ完成了。
+CI_004_0A_00_001	我终于把能够在\n{color[0000]}珂博亚群岛{color[ffff]}使用的{color[0000]}霓光珠{color[ffff]}完成了。
 CI_004_0A_00_002	别忘了重新调查一下\n海滩和海上啊！
 CI_004_3A_00_001	你又做了什么特别的事吗？？
 CI_004_3A_00_002	博士正在急急忙忙地查资料呢。
 CI_004_3A_00_003	博士～\n你查出什么来了吗？？
 CI_004_3A_00_004	海底有个遗迹，对吧？
-CI_004_3A_00_005	那果然和\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ有关。
+CI_004_3A_00_005	那果然和{color[0000]}霓光宝可梦{color[ffff]}有关。
 CI_004_3A_00_006	证据就是，\n那种能量反应又出现了。
-CI_004_3A_00_007	这次是在\n遗迹深处的\x0e\0\x03\x02\0\0深海\x0e\0\x03\x02ÿÿ。
+CI_004_3A_00_007	这次是在\n遗迹深处的{color[0000]}深海{color[ffff]}。
 CI_004_3A_00_008	难怪100年前没办法去啊。
 CI_004_3A_00_009	不过，有新壹号就没问题了！
 CI_004_3A_00_010	拜托你们了！
@@ -5829,7 +5829,7 @@ CI_003_2B_00_002	说吧。是什么好消息？
 CI_003_2B_00_003	你想知道吗？？
 CI_003_2B_00_004	不是你先说的吗？
 CI_003_2B_00_005	别激动，别激动。
-CI_003_2B_00_006	我拜托博士让我们可以\n去\x0e\0\x03\x02\0\0傍晚的海上\x0e\0\x03\x02ÿÿ调查了。
+CI_003_2B_00_006	我拜托博士让我们可以\n去{color[0000]}傍晚的海上{color[ffff]}调查了。
 CI_003_2B_00_007	嚯～太厉害了。
 CI_003_2B_00_008	是吧是吧～
 CI_003_2B_00_009	我想，海上的晚霞\n一定很漂亮吧。
@@ -5838,11 +5838,11 @@ CI_003_2B_00_011	啊，这次我要第一个去！
 CI_003_2B_00_012	哎呀呀～
 CI_007_1B_00_001	沙漠的调查进展得也挺顺利啊。
 CI_007_1B_00_002	那么，接下来晚上的\n调查也交给你们吧。
-CI_007_1B_00_003	为了制作这座岛上的霓光珠，\n拍摄\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ的事也拜托你们啦！
+CI_007_1B_00_003	为了制作这座岛上的霓光珠，\n拍摄{color[0000]}霓光现象{color[ffff]}的事也拜托你们啦！
 CI_008_0A_00_001	回来啦。
-CI_008_0A_00_002	正好\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的霓光现象我也分析好了。
+CI_008_0A_00_002	正好{color[0000]}玻鸥克岛{color[ffff]}的霓光现象我也分析好了。
 CI_008_0A_00_003	你们快看看这个吧。
-CI_008_0A_00_004	这是\x0e\0\x03\x02\0\0玻鸥克岛的霓光珠\x0e\0\x03\x02ÿÿ。
+CI_008_0A_00_004	这是{color[0000]}玻鸥克岛的霓光珠{color[ffff]}。
 CI_008_0A_00_005	拜托你们用它去做\n进一步的调查吧！
 CI_008_1A_00_001	好，那我们来开会吧。
 CI_008_1A_00_002	博士！
@@ -5850,7 +5850,7 @@ CI_008_1A_00_003	你已经知道下一个能去的地方了吧！
 CI_008_1A_00_004	没错。\n你总是这么有精神啊。
 CI_008_1A_00_005	快告诉我们吧！！
 CI_008_1A_00_006	知道了，知道了。
-CI_008_1A_00_007	接下来你们要去调查\x0e\0\x03\x02\0\0火山\x0e\0\x03\x02ÿÿ。
+CI_008_1A_00_007	接下来你们要去调查{color[0000]}火山{color[ffff]}。
 CI_008_1A_00_008	火山！厉害啊～！
 CI_008_1A_00_009	不会出事吗？？
 CI_008_1A_00_010	当然不会！\n我把新壹号也强化好了。
@@ -5861,23 +5861,23 @@ CI_008_3A_00_001	想不到那种地方竟然会有遗迹……
 CI_008_3A_00_002	那也是人类建造的吧？
 CI_008_3A_00_003	嗯，我想应该是出于\n某种特殊目的才建造的。
 CI_008_3A_00_004	而且从墙上的那个大洞深处……
-CI_008_3A_00_005	出现了\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的反应。
+CI_008_3A_00_005	出现了{color[0000]}霓光宝可梦{color[ffff]}的反应。
 CI_008_3A_00_006	洞的深处会有什么呢？
 CI_008_3A_00_007	我觉得它可能\n通向远处的火山。
 CI_008_3A_00_008	也就是说，是宝可梦在那里移动\n才产生的反应吧？
 CI_008_3A_00_009	那到底是什么宝可梦呢？
 CI_008_3A_00_010	去看看就知道了。\n那么，这里的调查也交给你们啦。
-SD_16B_01_sk_001	果然，这座岛上也有\n\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ啊。
+SD_16B_01_sk_001	果然，这座岛上也有\n{color[0000]}霓光宝可梦{color[ffff]}啊。
 SD_16B_01_sk_002	我之前不是说过吗？\n传说就是实际发生过的事情。
 SD_16B_01_sk_003	嗯。不过，很久以前那场\n被宝可梦阻止的灾难呢？
-SD_16B_01_sk_004	那大概说的是\x0e\0\x03\x02\0\0陨石坠落\x0e\0\x03\x02ÿÿ的事。
-SD_16B_01_sk_005	那颗陨石叫做\x0e\0\x03\x02\0\0碲陆陆陨石\x0e\0\x03\x02ÿÿ，\n大约是2000年前的事了。
+SD_16B_01_sk_004	那大概说的是{color[0000]}陨石坠落{color[ffff]}的事。
+SD_16B_01_sk_005	那颗陨石叫做{color[0000]}碲陆陆陨石{color[ffff]}，\n大约是2000年前的事了。
 SD_16B_01_sk_006	根据传说……
 SD_16B_01_sk_007	因为霓光宝可梦的力量四散，\n所以导致宝可梦们都会发光了。
 SD_16B_01_sk_008	传说是这么描述的。
 SD_16B_01_sk_009	但我认为……
 SD_16B_01_sk_010	宝可梦们变得会发光\n是因为受到了碲陆陆陨石的影响。
-SD_16B_01_sk_011	而\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ就是\n其中大受影响的宝可梦。
+SD_16B_01_sk_011	而{color[0000]}霓光宝可梦{color[ffff]}就是\n其中大受影响的宝可梦。
 SD_16B_01_sk_012	难道传说的内容是错的吗？
 SD_16B_01_sk_013	我们就是要查明真相，\n所以这项调查十分重要。
 SD_16B_02_sk_001	我们在这座岛上\n也遇到霓光宝可梦了啊。
@@ -5885,7 +5885,7 @@ SD_16B_02_sk_002	嗯，冒险记中记载得没错。
 SD_16B_02_sk_003	果然，看来蓝蒂尔地区的\n每座岛上都有霓光宝可梦啊。
 SD_16B_02_sk_004	威克多队长是怎么知道\n这件事的呢？
 SD_16B_02_sk_005	但是那本书里说\n他好像只遇到过2只霓光宝可梦吧？
-SD_16B_02_sk_006	不过，他还写到\x0e\0\x03\x02\0\0至少有4只\x0e\0\x03\x02ÿÿ呢。
+SD_16B_02_sk_006	不过，他还写到{color[0000]}至少有4只{color[ffff]}呢。
 SD_16B_02_sk_007	嗯～
 SD_16B_02_sk_008	看来还有太多我们不知道的事情呢。
 SD_16B_02_sk_009	这才是有意思的地方啊。
@@ -5899,23 +5899,23 @@ SD_16B_03_sk_007	嗯～真不可思议……
 SD_16B_03_sk_008	刚刚那只霓光宝可梦\n就是最后一只了吗？
 SD_16B_03_sk_009	关于这个，\n我有一个重大发现。
 SD_16B_03_sk_010	先把大家召集起来再说吧。
-SD_17_02_sk_001	好了，我们至今为止在\x0e\0\x03\x02\0\04座岛\x0e\0\x03\x02ÿÿ上\n都遇到了那里的霓光宝可梦，对吧？
+SD_17_02_sk_001	好了，我们至今为止在{color[0000]}4座岛{color[ffff]}上\n都遇到了那里的霓光宝可梦，对吧？
 SD_17_02_sk_002	它们每只都很漂亮啊～
 SD_17_02_sk_003	然后，我们每次遇到它们时，\n能量反应也会在其他地点出现。
 SD_17_02_sk_004	难道宝可梦们在互相联系吗？
 SD_17_02_sk_005	可能是吧。
-SD_17_02_sk_006	出现的能量反应一共有5个。\n现在我终于定位到\x0e\0\x03\x02\0\0第5个的位置\x0e\0\x03\x02ÿÿ了。
+SD_17_02_sk_006	出现的能量反应一共有5个。\n现在我终于定位到{color[0000]}第5个的位置{color[ffff]}了。
 SD_17_02_sk_007	也就是说，接下来就是最后一个了？？
 SD_17_02_sk_008	我觉得是。
 SD_17_02_sk_009	对，我们最后要去的\n就是这座岛！
 SD_17_02_sk_010	真是超～级远啊！
-SD_17_02_sk_011	这该不会是\x0e\0\x03\x02\0\0雪\x0e\0\x03\x02ÿÿ吧？
+SD_17_02_sk_011	这该不会是{color[0000]}雪{color[ffff]}吧？
 SD_17_02_sk_012	那里说不定遍地是雪。
 SD_17_02_sk_013	真想快点去看看啊！！
 SD_17_02_sk_014	那我们就开始去调查\n当年连冒险家都无法抵达的岛吧！
 SD_18_01_sk_001	可以调查的地点变多了啊。
 SD_18_01_sk_002	所以，我又试着\n进一步改良了新壹号。
-SD_18_01_sk_003	有个新功能叫做\x0e\0\x03\x02\0\0提速\x0e\0\x03\x02ÿÿ，\n它可以提升新壹号的速度。
+SD_18_01_sk_003	有个新功能叫做{color[0000]}提速{color[ffff]}，\n它可以提升新壹号的速度。
 SD_18_01_sk_004	嘿嘿～！\n我刚才小试了一下。
 SD_18_01_sk_005	速度快了很多哦。
 SD_18_01_sk_006	这不仅可以让新壹号高速移动，\n还能改变拍摄的时机。
@@ -5924,45 +5924,45 @@ SD_18_01_sk_008	好～！
 SD_18_01_sk_009	按下  就可以使用提速，\n就这么简单。
 SD_18_01_sk_010	按住按键的时候，\n新壹号就会前进得更快。
 SD_18_01_sk_011	顺带一提……
-SD_18_01_sk_012	当你面朝后方或是在使用缩放的时候，\n新壹号其实是会\x0e\0\x03\x02\0\0减速\x0e\0\x03\x02ÿÿ的，你知道么？
+SD_18_01_sk_012	当你面朝后方或是在使用缩放的时候，\n新壹号其实是会{color[0000]}减速{color[ffff]}的，你知道么？
 SD_18_01_sk_013	听说那是和相机的动作同步的。
 SD_18_01_sk_014	搭配提速一起使用的话，\n应该就能从各个角度拍摄到宝可梦了！
 SD_18_01_sk_015	那么，继续努力\n去调查新的岛吧！
 CI_009_1B_00_001	原来这就是雪啊。
 CI_009_1B_00_002	芙罗蕾岛不会下雪，\n所以我感觉挺新鲜的。
 CI_009_1B_00_003	是时候也想去看看晚上的样子了。
-CI_009_1B_00_004	如果碰到了\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ\n记得要拍回来啊。
+CI_009_1B_00_004	如果碰到了{color[0000]}霓光现象{color[ffff]}\n记得要拍回来啊。
 CI_010_0A_00_001	我已经分析完霓光现象了。
-CI_010_0A_00_002	这就是\x0e\0\x03\x02\0\0杜牢斯岛的霓光珠\x0e\0\x03\x02ÿÿ。
+CI_010_0A_00_002	这就是{color[0000]}杜牢斯岛的霓光珠{color[ffff]}。
 CI_010_0A_00_003	如果能用它推进调查的话……
 CI_010_0A_00_004	最后的霓光宝可梦的位置\n应该也能特定出来才对。
 CI_010_0A_00_005	拜托你们了！
 CI_010_1A_00_001	博士！\n听说你发现了新的传送点？
 CI_010_1A_00_002	不愧是我的助手，真是个顺风耳啊。
-CI_010_1A_00_003	这次的反应来自\n\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ更深处的\x0e\0\x03\x02\0\0地下\x0e\0\x03\x02ÿÿ。
+CI_010_1A_00_003	这次的反应来自\n{color[0000]}杜牢斯岛{color[ffff]}更深处的{color[0000]}地下{color[ffff]}。
 CI_010_1A_00_004	是地底探险啊！我兴奋起来啦！
-CI_010_1A_00_005	\x0e\0\x03\x02\0\0洞窟\x0e\0\x03\x02ÿÿ似乎通到很深的地方。
+CI_010_1A_00_005	{color[0000]}洞窟{color[ffff]}似乎通到很深的地方。
 CI_010_1A_00_006	麻烦你们好好调查啊！
 CI_010_3A_00_001	想不到在那么深的地下\n还有植物生长。
 CI_010_3A_00_002	看来这世上还有很多\n不可思议的地方啊。
 CI_010_3A_00_003	博士！你说的重要的事情\n是什么啊？
 CI_010_3A_00_004	哦，我都差点忘了。
-CI_010_3A_00_005	博士说他已经发现\n\x0e\0\x03\x02\0\0杜牢斯岛的霓光宝可梦\x0e\0\x03\x02ÿÿ了。
-CI_010_3A_00_006	对，从洞窟更深处的\x0e\0\x03\x02\0\0巨大空间\x0e\0\x03\x02ÿÿ\n出现了我们熟悉的那个反应。
-CI_010_3A_00_007	那就是最后的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！
+CI_010_3A_00_005	博士说他已经发现\n{color[0000]}杜牢斯岛的霓光宝可梦{color[ffff]}了。
+CI_010_3A_00_006	对，从洞窟更深处的{color[0000]}巨大空间{color[ffff]}\n出现了我们熟悉的那个反应。
+CI_010_3A_00_007	那就是最后的{color[0000]}霓光宝可梦{color[ffff]}吧！
 CI_010_3A_00_008	那我就都交给你们了！
 SD_19_02_sk_001	刚才那幅壁画真是让我大吃一惊啊。
 SD_19_02_sk_002	不仅发现了另一只霓光宝可梦，\n而且它竟然在陨石坠落之前就存在了……
 SD_19_02_sk_003	博士你好像很开心啊。
 SD_19_02_sk_004	嗯，虽然和我推测的不同，\n但这真是个大发现啊。
 SD_19_02_sk_005	而且根据至今为止的分析结果，\n我发现各座岛的能量都聚集在一处。
-SD_19_02_sk_006	虽然很微弱，但那里也有\n\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的反应。
+SD_19_02_sk_006	虽然很微弱，但那里也有\n{color[0000]}霓光宝可梦{color[ffff]}的反应。
 SD_19_02_sk_007	是壁画正中间的那只吗！？
 SD_19_02_sk_008	很有可能。
 SD_19_02_sk_009	反应到底在哪儿啊～！
 SD_19_02_sk_010	这个嘛……
 SD_19_02_sk_011	在这里，反应指向的是这座\n连地图上都没有标记的小岛。
-SD_19_02_sk_012	我觉得传说中提到的\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ\n应该就是这里了。
+SD_19_02_sk_012	我觉得传说中提到的{color[0000]}奥朗岛{color[ffff]}\n应该就是这里了。
 SD_19_02_sk_013	那么，为了揭开真相，\n我们去做最后的调查吧！
 CI_011_0A_00_001	刚才的遗迹真是不得了，是吧？？
 CI_011_0A_00_002	是啊。
@@ -5971,26 +5971,26 @@ CI_011_0A_00_004	两种？
 CI_011_0A_00_005	对，入口的遗迹和深处的洞窟\n给人的感觉有些不同。
 CI_011_0A_00_006	洞窟那边像是后来匆忙建造的……
 CI_011_0A_00_007	那里还开着其他岛上的花，\n有种不可思议的感觉……
-CI_011_0A_00_008	这就证明了那里聚集了\x0e\0\x03\x02\0\0各座岛的能量\x0e\0\x03\x02ÿÿ。
+CI_011_0A_00_008	这就证明了那里聚集了{color[0000]}各座岛的能量{color[ffff]}。
 CI_011_0A_00_009	如果我们能解开那里的谜团，\n应该就能继续前进了！
-CI_011_0A_00_010	\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ也已经完成了。
+CI_011_0A_00_010	{color[0000]}霓光珠{color[ffff]}也已经完成了。
 CI_011_0A_00_011	就差一点了。\n我期待你们的调查结果。
 CI_011_3A_00_001	终于走到这一步了。
 CI_011_3A_00_002	从地形推测……
-CI_011_3A_00_003	传送后的位置应该就在一开始看到的\n那扇门后面，也就是\x0e\0\x03\x02\0\0遗迹中央\x0e\0\x03\x02ÿÿ。
-CI_011_3A_00_004	哇～那副\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿ中间的宝可梦\n就在那里，是吧？
+CI_011_3A_00_003	传送后的位置应该就在一开始看到的\n那扇门后面，也就是{color[0000]}遗迹中央{color[ffff]}。
+CI_011_3A_00_004	哇～那副{color[0000]}壁画{color[ffff]}中间的宝可梦\n就在那里，是吧？
 CI_011_3A_00_005	对，这一刻终于到了。\n我们就要见到它了。
 CI_011_3A_00_006	这么重要的瞬间，\n当然要交给你了！
 CI_011_3A_00_007	啧，真拿你没办法～\n你可要好好拍啊！
 CI_011_3A_00_008	替我问候一下霓光宝可梦！
 CI_011_3A_00_009	你现在的表情不错哦！
 CI_011_3A_00_010	好了，高高兴兴地出发吧！\n祝你一切顺利！
-SD_20_01_sk_001	\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ真的在那里啊……
+SD_20_01_sk_001	{color[0000]}霓光宝可梦{color[ffff]}真的在那里啊……
 SD_20_01_sk_002	这和壁画上画的一样啊！
 SD_20_01_sk_003	嗯。
 SD_20_01_sk_004	也就是说，画在壁画上的……\n都是实际发生过的事吗……？
 SD_20_01_sk_023	是不是哲尔尼亚斯号召大家……
-SD_20_01_sk_005	用类似\x0e\0\x03\x02\0\0屏障\x0e\0\x03\x02ÿÿ的东西\n避免了陨石的冲击呢？
+SD_20_01_sk_005	用类似{color[0000]}屏障{color[ffff]}的东西\n避免了陨石的冲击呢？
 SD_20_01_sk_006	一个大到能罩住\n整个蓝蒂尔地区的屏障？
 SD_20_01_sk_007	嗯……
 SD_20_01_sk_008	一定就是这样！
@@ -6016,22 +6016,22 @@ SD_21_01_sk_005	我也会继续帮忙的！
 SD_21_01_sk_006	嗯，拜托你了。
 SD_21_01_sk_008	而且，你的调查也还有后续呢。
 SD_21_01_sk_009	啊，博士。\n关于那个的说明呢？
-SD_21_01_sk_010	对了对了，我做了一个\n叫做\x0e\0\x03\x02\0\0路线得分\x0e\0\x03\x02ÿÿ的新功能。
+SD_21_01_sk_010	对了对了，我做了一个\n叫做{color[0000]}路线得分{color[ffff]}的新功能。
 SD_21_01_sk_011	这个功能可以对你在各个路线\n每次调查时的整体做出评价。
 SD_21_01_sk_012	诀窍就是不仅要拍到好照片，\n还要拍到足够多的宝可梦。
-SD_21_01_sk_013	听说在线上还能看到\x0e\0\x03\x02\0\0排行榜\x0e\0\x03\x02ÿÿ呢。\n之后记得去看看吧。
+SD_21_01_sk_013	听说在线上还能看到{color[0000]}排行榜{color[ffff]}呢。\n之后记得去看看吧。
 SD_21_01_sk_014	还有一个很棒的消息，对吧？
-SD_21_01_sk_015	你是说\x0e\0\x03\x02\0\0连拍模式\x0e\0\x03\x02ÿÿ吧？
+SD_21_01_sk_015	你是说{color[0000]}连拍模式{color[ffff]}吧？
 SD_21_01_sk_016	我拜托博士\n给调查相机追加了这个功能。
-SD_21_01_sk_017	只要按\x0e\0\x03\x02\0\01次快门\x0e\0\x03\x02ÿÿ就能拍出\x0e\0\x03\x02\0\0连续的照片\x0e\0\x03\x02ÿÿ，\n可以让你更容易抓住最佳时机。
-SD_21_01_sk_018	在\x0e\0\x03\x02\0\0设置\x0e\0\x03\x02ÿÿ里可以开启或关闭这个功能。\n试试看吧！绝对有用！
+SD_21_01_sk_017	只要按{color[0000]}1次快门{color[ffff]}就能拍出{color[0000]}连续的照片{color[ffff]}，\n可以让你更容易抓住最佳时机。
+SD_21_01_sk_018	在{color[0000]}设置{color[ffff]}里可以开启或关闭这个功能。\n试试看吧！绝对有用！
 SD_21_01_sk_019	师傅和博士果然厉害啊。\n我这就再去调查一下！
 SD_21_01_sk_020	哈哈哈。
-SD_21_01_sk_007	接下来，你就继续去享受拍摄的乐趣，\n整理一本只属于你的\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ吧！
+SD_21_01_sk_007	接下来，你就继续去享受拍摄的乐趣，\n整理一本只属于你的{color[0000]}写真图鉴{color[ffff]}吧！
 CI_101_0A_00_001	怎么样？调查进展得还顺利吗？
 CI_101_0A_00_002	坐着新壹号去其他的岛当然也不错，\n不过，你要不要先留在这里拍摄呢？
 CI_101_0A_00_003	平常能够见到的宝可梦们\n也会显露出各种不同的表情。
-CI_101_0A_00_004	选择研究基地\x0e\0\x03\x02\0\0左上角的图标\x0e\0\x03\x02ÿÿ\n就能开始拍摄了。
+CI_101_0A_00_004	选择研究基地{color[0000]}左上角的图标{color[ffff]}\n就能开始拍摄了。
 CI_101_0A_00_005	有兴趣的话试试看吧。
 CI_101_0A_01_001	嘿，拍到好照片了吗？
 CI_101_0A_01_002	我之前建议过你们\n在研究基地拍照吧？
@@ -6042,7 +6042,7 @@ CI_101_0A_01_006	？？换个地点的话，去哪里呢？
 CI_101_0A_01_007	就是这里，\n和平时不一样吧？
 CI_101_0A_01_008	比如研究室前还有这里。\n根据起点不同，路线也会有变化。
 CI_101_0A_01_009	这样啊～\n等一下我也试试看吧～
-CI_101_0A_01_010	啊，在研究基地拍摄时\n记得选择\x0e\0\x03\x02\0\0左上角的图标\x0e\0\x03\x02ÿÿ啊。
+CI_101_0A_01_010	啊，在研究基地拍摄时\n记得选择{color[0000]}左上角的图标{color[ffff]}啊。
 CI_101_0A_01_011	察觉身边所发生的事情\n对于摄影师来说也是很重要的。
 CI_101_0A_01_012	不过，你们现在只要按照喜好多多拍照，\n并且坚持下去就行了！
 Search_Info.msbt
@@ -6150,12 +6150,12 @@ Search_101_1_A_008	研究室的2楼\n是博士的生活空间。
 Search_101_1_A_011	可以听到呼噜声。\n地板下似乎有什么。
 Search_Tu_001	新壹号。\n是调查宝可梦时\n不可欠缺的交通工具。
 Stickers_Info.msbt
-Stickers001_Reward_Info	\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
-Stickers002_Reward_Info	\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
-Stickers003_Reward_Info	\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
-Stickers004_Reward_Info	\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
-Stickers005_Reward_Info	\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
-Stickers006_Reward_Info	\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ的宝可梦\n全部登录到写真图鉴里了。
+Stickers001_Reward_Info	{color[0000]}芙罗蕾岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
+Stickers002_Reward_Info	{color[0000]}美乐斯岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
+Stickers003_Reward_Info	{color[0000]}珂博亚群岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
+Stickers004_Reward_Info	{color[0000]}玻鸥克岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
+Stickers005_Reward_Info	{color[0000]}杜牢斯岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
+Stickers006_Reward_Info	{color[0000]}奥朗岛{color[ffff]}的宝可梦\n全部登录到写真图鉴里了。
 Stickers_Name.msbt
 Stickers001_Name	调查贴纸
 Stickers002_Name	调查贴纸
@@ -6246,8 +6246,8 @@ NH_Chat_079	我是在研究的旅行中认识阿彻的。\n我们来来往往，
 NH_Chat_080	阿彻给我看了一张很神奇的照片！\n虽然照片很旧，但却是彩虹色的，还发着光哦。
 NH_Chat_081	我要成为比师傅更优秀的摄影师！\n你要是太松懈，就会被我超越哦！
 NH_Chat_082	哎呀～一看到你们这样，\n连我都想再去旅行，拍个尽兴了。
-NH_Tips_001	在蓝蒂尔地区有着各种各样的岛屿……\n而这里就是我们所在的\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ哦。
-NH_Tips_002	这里是\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ哦。\n我们快点去调查吧～！
+NH_Tips_001	在蓝蒂尔地区有着各种各样的岛屿……\n而这里就是我们所在的{color[0000]}芙罗蕾岛{color[ffff]}哦。
+NH_Tips_002	这里是{color[0000]}芙罗蕾岛{color[ffff]}哦。\n我们快点去调查吧～！
 NH_Tips_003	以前想要移动到别的岛上会很困难，\n但现在已经没问题了。尽情地去调查吧！
 NH_Tips_004	博士说过，每座岛的环境不同，\n所以你能遇到的宝可梦也不同哦！
 NH_Tips_005	这座岛好像有很多森林，那座岛呢……？\n哎，反正去了就知道了！我们快出发吧！
@@ -6256,80 +6256,80 @@ NH_Tips_007	这样一看，你就能充分理解到\n每座岛上的气候完全
 NH_Tips_008	嗯～我好纠结啊。\n要去见哪座岛上的宝可梦呢？
 NH_Tips_009	你要去哪座岛？\n我啊……还在纠结中！
 NH_Tips_010	每座岛的环境有这么大的差别，\n也是非常少见的哦。
-NH_Tips_011	在\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ上，人们一边保护大自然，\n一边和宝可梦共同生活。
-NH_Tips_012	\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ一整年的气温都差不多。\n有时超热有时又超冷的地方，是什么样的呢？
-NH_Tips_013	\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ这里一整年都很闷热。\n就像你看到的一样，几乎都被森林遮住了。
+NH_Tips_011	在{color[0000]}芙罗蕾岛{color[ffff]}上，人们一边保护大自然，\n一边和宝可梦共同生活。
+NH_Tips_012	{color[0000]}芙罗蕾岛{color[ffff]}一整年的气温都差不多。\n有时超热有时又超冷的地方，是什么样的呢？
+NH_Tips_013	{color[0000]}美乐斯岛{color[ffff]}这里一整年都很闷热。\n就像你看到的一样，几乎都被森林遮住了。
 NH_Tips_014	是那座有很多树的岛对吧？\n宝可梦会被树叶遮住，很难拍啊。
-NH_Tips_015	\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ这里很热，\n几乎到处气候都很干燥。
+NH_Tips_015	{color[0000]}玻鸥克岛{color[ffff]}这里很热，\n几乎到处气候都很干燥。
 NH_Tips_016	越是严峻的环境，就越令人在意\n宝可梦是怎样生活的。
-NH_Tips_017	\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ这个地方陆地很少，\n所以我们会以海里的调查为主哦。
+NH_Tips_017	{color[0000]}珂博亚群岛{color[ffff]}这个地方陆地很少，\n所以我们会以海里的调查为主哦。
 NH_Tips_018	是大海的宝可梦耶～！不知道能不能\n拍到海水闪闪发光的漂亮照片呢。
-NH_Tips_019	\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的白色部分全都是雪，\n简直就是冰雪之岛。
+NH_Tips_019	{color[0000]}杜牢斯岛{color[ffff]}的白色部分全都是雪，\n简直就是冰雪之岛。
 NH_Tips_020	太冷了，我的手指都……呃，\n反正在新壹号里一点都不冷就是了！
-NH_Tips_021	\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ上有很多谜团。\n这里有个很大的遗迹，和陆地几乎一样大。
+NH_Tips_021	{color[0000]}奥朗岛{color[ffff]}上有很多谜团。\n这里有个很大的遗迹，和陆地几乎一样大。
 NH_Tips_022	负担着使命而一直守护遗迹的宝可梦吗……\n虽然是我没怎么拍过的题材，但感觉很浪漫。
-NH_Tips_023	我们在体验会中也常去\x0e\0\x03\x02\0\0芙罗蕾自然公园\x0e\0\x03\x02ÿÿ，\n所以那里有很多和人亲近的宝可梦哦。
-NH_Tips_024	说到\x0e\0\x03\x02\0\0自然公园\x0e\0\x03\x02ÿÿ，当然会想到大牙狸了！\n它那我行我素的样子真令人着迷。
-NH_Tips_027	\x0e\0\x03\x02\0\0秘界丛林\x0e\0\x03\x02ÿÿ的树木枝繁叶茂，\n拍摄时注意不要让宝可梦被树木挡住哦。
+NH_Tips_023	我们在体验会中也常去{color[0000]}芙罗蕾自然公园{color[ffff]}，\n所以那里有很多和人亲近的宝可梦哦。
+NH_Tips_024	说到{color[0000]}自然公园{color[ffff]}，当然会想到大牙狸了！\n它那我行我素的样子真令人着迷。
+NH_Tips_027	{color[0000]}秘界丛林{color[ffff]}的树木枝繁叶茂，\n拍摄时注意不要让宝可梦被树木挡住哦。
 NH_Tips_028	仔～细看看树木……找到了！\n这样会很有趣，对吧！
-NH_Tips_031	在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ，好像一不留神\n就会迷失方向，跑到别的地方去啊……
+NH_Tips_031	在{color[0000]}多奇思季森林{color[ffff]}，好像一不留神\n就会迷失方向，跑到别的地方去啊……
 NH_Tips_032	我没怎么去调查过这里，\n不过这不是因为我害怕哦！
-NH_Tips_033	在\x0e\0\x03\x02\0\0尼撒沙漠\x0e\0\x03\x02ÿÿ这样严苛的环境下\n也能生活，宝可梦真的很厉害啊。
-NH_Tips_034	\x0e\0\x03\x02\0\0沙漠\x0e\0\x03\x02ÿÿ很热，你要小心哦！\n啊，乘坐新壹号的话就没关系了吧～
-NH_Tips_037	\x0e\0\x03\x02\0\0多熔火山\x0e\0\x03\x02ÿÿ周围的环境，\n好像保留着近似远古时代的状态哦。
+NH_Tips_033	在{color[0000]}尼撒沙漠{color[ffff]}这样严苛的环境下\n也能生活，宝可梦真的很厉害啊。
+NH_Tips_034	{color[0000]}沙漠{color[ffff]}很热，你要小心哦！\n啊，乘坐新壹号的话就没关系了吧～
+NH_Tips_037	{color[0000]}多熔火山{color[ffff]}周围的环境，\n好像保留着近似远古时代的状态哦。
 NH_Tips_038	听说这里有很多火山相连在一起，\n从小的到大的都有哦！
-NH_Tips_039	\x0e\0\x03\x02\0\0霓基柔海滩\x0e\0\x03\x02ÿÿ可真是个好地方，\n天气又温暖，海风又舒服，是吧？
+NH_Tips_039	{color[0000]}霓基柔海滩{color[ffff]}可真是个好地方，\n天气又温暖，海风又舒服，是吧？
 NH_Tips_040	这里的沙滩稍稍透着粉红色哦！\n如果我们能从新壹号下去沙滩上走走就好了。
-NH_Tips_041	在\x0e\0\x03\x02\0\0珂博亚岩礁\x0e\0\x03\x02ÿÿ，可能会有一些宝可梦把海上前行的\n新壹号当成伙伴，然后在旁边一起游泳哦。
-NH_Tips_042	说到\x0e\0\x03\x02\0\0海上\x0e\0\x03\x02ÿÿ，当然会想到吼鲸王！\n那种强有力的感觉在别处可拍不到。
-NH_Tips_043	在\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ中，我们可以调查到\n平时见不到的海里宝可梦们的生活哦。
+NH_Tips_041	在{color[0000]}珂博亚岩礁{color[ffff]}，可能会有一些宝可梦把海上前行的\n新壹号当成伙伴，然后在旁边一起游泳哦。
+NH_Tips_042	说到{color[0000]}海上{color[ffff]}，当然会想到吼鲸王！\n那种强有力的感觉在别处可拍不到。
+NH_Tips_043	在{color[0000]}蓝蒂尔海床{color[ffff]}中，我们可以调查到\n平时见不到的海里宝可梦们的生活哦。
 NH_Tips_044	想游到海里肯定是行不通的。\n我感觉能拍到很棒的照片哦！
-NH_Tips_045	\x0e\0\x03\x02\0\0希埃冷雪原\x0e\0\x03\x02ÿÿ……如果威克多队长来这里\n冒险的话，他会做怎样的记载呢？
+NH_Tips_045	{color[0000]}希埃冷雪原{color[ffff]}……如果威克多队长来这里\n冒险的话，他会做怎样的记载呢？
 NH_Tips_046	到处都是白白的积雪！\n好想和宝可梦们一起玩雪啊。
-NH_Tips_047	在\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ这种黑暗的地方\n使用搜索的话，就很容易找到宝可梦哦。
+NH_Tips_047	在{color[0000]}哈那离洞窟{color[ffff]}这种黑暗的地方\n使用搜索的话，就很容易找到宝可梦哦。
 NH_Tips_048	这里好黑哦，我有一点～点害怕……\n但是宝可梦们好像不管在哪儿都很开心呢！
-NH_Tips_049	在我至今看到的遗迹中，\x0e\0\x03\x02\0\0矢欧护遗迹\x0e\0\x03\x02ÿÿ的\n状态和规模都名列第一哦。仔细调查吧。
+NH_Tips_049	在我至今看到的遗迹中，{color[0000]}矢欧护遗迹{color[ffff]}的\n状态和规模都名列第一哦。仔细调查吧。
 NH_Tips_050	这里有很多比较奇特的宝可梦耶！\n泥偶巨人真帅啊……
-NH_Tips_051	被称为“\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ”的发光现象\n只有在蓝蒂尔地区被观测到。
-NH_Tips_052	\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ散发出柔～柔的光，好漂亮啊。\n听说它还会让宝可梦们变得充满活力呢。
-NH_Tips_053	\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的特征是会浮现出发光的花纹哦。\n让我吃惊的是，它们比普通的宝可梦要更大。
-NH_Tips_054	我也想见一见\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ！\n它们又大又会发光，简直太帅了！
-NH_Tips_055	\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ是一种神奇的花，\n它能引起霓光现象。
-NH_Tips_056	\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ，会发光的花……\n它附近的宝可梦们也会做出很有趣的反应。
-NH_Tips_057	据说，\x0e\0\x03\x02\0\0碲陆陆陨石\x0e\0\x03\x02ÿÿ是距今大约2000年前\n坠落到蓝蒂尔的陨石。
+NH_Tips_051	被称为“{color[0000]}霓光现象{color[ffff]}”的发光现象\n只有在蓝蒂尔地区被观测到。
+NH_Tips_052	{color[0000]}霓光现象{color[ffff]}散发出柔～柔的光，好漂亮啊。\n听说它还会让宝可梦们变得充满活力呢。
+NH_Tips_053	{color[0000]}霓光宝可梦{color[ffff]}的特征是会浮现出发光的花纹哦。\n让我吃惊的是，它们比普通的宝可梦要更大。
+NH_Tips_054	我也想见一见{color[0000]}霓光宝可梦{color[ffff]}！\n它们又大又会发光，简直太帅了！
+NH_Tips_055	{color[0000]}晶奇花{color[ffff]}是一种神奇的花，\n它能引起霓光现象。
+NH_Tips_056	{color[0000]}晶奇花{color[ffff]}，会发光的花……\n它附近的宝可梦们也会做出很有趣的反应。
+NH_Tips_057	据说，{color[0000]}碲陆陆陨石{color[ffff]}是距今大约2000年前\n坠落到蓝蒂尔的陨石。
 NH_Tips_058	那个什么陨石，\n是从天上掉下来的吧？太可怕了！
-NH_Tips_059	我开发的\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ对于宝可梦调查\n来说是不可或缺的特别机器哦！
-NH_Tips_060	在\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ上，也运用了\n我以前用过的调查小艇的技术。
-NH_Tips_061	威克多队长的《\x0e\0\x03\x02\0\0蓝蒂尔冒险记\x0e\0\x03\x02ÿÿ》非常有名，\n是芙罗蕾岛家家户户都有的书哦。
-NH_Tips_062	真想不到，我们也能经历\n像《\x0e\0\x03\x02\0\0蓝蒂尔冒险记\x0e\0\x03\x02ÿÿ》那样的冒险耶！
-NH_Tips_063	100年前在蓝蒂尔地区冒险过的\n\x0e\0\x03\x02\0\0威克多队长\x0e\0\x03\x02ÿÿ，是我很尊敬的一个人。
-NH_Tips_064	\x0e\0\x03\x02\0\0威克多队长\x0e\0\x03\x02ÿÿ啊……虽然我是摄影师，\n但喜欢冒险这点倒是和他很像。真想和他聊聊啊。
-NH_Tips_065	将游标对准宝可梦，就能确定主角哦。\n\x0e\0\x03\x02\0\0确定好主角并把它拍到中间去\x0e\0\x03\x02ÿÿ！你记住了吧？
-NH_Tips_066	要把宝可梦拍得大大的，就要使用\x0e\0\x03\x02\0\0缩放\x0e\0\x03\x02ÿÿ！\n听说诀窍是要在确定好目标之后再缩放哦。
-NH_Tips_067	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ，连藏起来的宝可梦\n也可以找到哦！
-NH_Tips_068	调查使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ找到的    ，就会看到\x0e\0\x03\x02\0\0分析结果\x0e\0\x03\x02ÿÿ。\n说不定发现宝可梦全新一面的钥匙就在里面呢。
-NH_Tips_069	\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ时发出的声音和电波，\n好像会让有些宝可梦很在意。
-NH_Tips_070	把\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ丢给宝可梦，有时它们会过来吃哦。\n好像还能用来把它们引去稍远一点的地方！
-NH_Tips_071	用\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ丢中宝可梦或晶奇花的话，\n就能引发霓光现象哦。
-NH_Tips_072	你用\x0e\0\x03\x02\0\0旋律\x0e\0\x03\x02ÿÿ了吗？可以试着\n在睡着的宝可梦附近用用看。
-NH_Tips_073	对着看起来喜欢音乐的宝可梦播放\x0e\0\x03\x02\0\0旋律\x0e\0\x03\x02ÿÿ的话，\n它说不定会唱歌跳舞哦。
-NH_Tips_074	不要一味地\x0e\0\x03\x02\0\0提速\x0e\0\x03\x02ÿÿ前进，也要使用\x0e\0\x03\x02\0\0缩放\x0e\0\x03\x02ÿÿ或是\x0e\0\x03\x02\0\0转向后方\x0e\0\x03\x02ÿÿ\n来慢慢前进，这样也许就能拍到更多样的照片了哦。
-NH_Tips_075	去各个路线多拍一些好照片，\n争取获得\x0e\0\x03\x02\0\0路线得分\x0e\0\x03\x02ÿÿ的最高得分吧！
-NH_Tips_076	你可以在\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ查看调查过的资料哦。\n用博士的话来说就是“毕竟回顾过去也很重要！”
-NH_Tips_077	你可以在\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ里查看自己拍过的照片。\n毕竟回顾过去也很重要，是吧？
-NH_Tips_079	你可以在\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0地图\x0e\0\x03\x02ÿÿ中回顾\n各路线里宝可梦出现的地方哦。
-NH_Tips_080	如果你发现了发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ，就把它拍下来吧。\n我会整理在\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0收藏\x0e\0\x03\x02ÿÿ里的。
-NH_Tips_081	如果你发现了各地的\x0e\0\x03\x02\0\0古代遗迹\x0e\0\x03\x02ÿÿ，就把它们拍下来吧。\n我会整理在\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0收藏\x0e\0\x03\x02ÿÿ里的。
-NH_Tips_082	你可以对保存在\x0e\0\x03\x02\0\0相册\x0e\0\x03\x02ÿÿ里的照片进行各种\x0e\0\x03\x02\0\0加工\x0e\0\x03\x02ÿÿ。\n和朋友互相分享照片也会很有趣的哦！
-NH_Tips_083	新壹号会记录你在调查中做过的事。\n到\x0e\0\x03\x02\0\0我的空间\x0e\0\x03\x02ÿÿ里的\x0e\0\x03\x02\0\0调查记录\x0e\0\x03\x02ÿÿ中确认一下吧。
-NH_Tips_084	我会根据你的调查进展授予你\x0e\0\x03\x02\0\0调查称号\x0e\0\x03\x02ÿÿ。\n你可以在\x0e\0\x03\x02\0\0我的空间\x0e\0\x03\x02ÿÿ里确认一下有哪些称号。
-NH_Tips_085	你可以在\x0e\0\x03\x02\0\0线上\x0e\0\x03\x02ÿÿ看到\n很多世界各地的好友拍的照片。
-NH_Tips_086	\x0e\0\x03\x02\0\0线上\x0e\0\x03\x02ÿÿ还有\x0e\0\x03\x02\0\0得分排行榜\x0e\0\x03\x02ÿÿ哦。\n你还能看到名列前茅的人上传的照片。
-NH_Tips_087	当你在\x0e\0\x03\x02\0\0线上\x0e\0\x03\x02ÿÿ发现自己喜欢的照片时，\n就送出\x0e\0\x03\x02\0\0苹果徽章\x0e\0\x03\x02ÿÿ吧。对方收到时一定会很开心的。
-NH_Tips_088	要了解宝可梦的行动，\n就需要集齐\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ所有的照片。
-NH_Tips_089	\x0e\0\x03\x02\0\0调查等级\x0e\0\x03\x02ÿÿ代表你在各路线的调查进度，\n你需要在\x0e\0\x03\x02\0\0白天\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0晚上\x0e\0\x03\x02ÿÿ分别展开调查。
-NH_Tips_090	同一种宝可梦\x0e\0\x03\x02\0\0在不同时间的行动也会有所变化\x0e\0\x03\x02ÿÿ。\n如果\x0e\0\x03\x02\0\0白天\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0晚上\x0e\0\x03\x02ÿÿ都遇到了，记得都要拍下来哦。
-NH_Tips_091	你可以在调查之后选择想要保存到\x0e\0\x03\x02\0\0相册\x0e\0\x03\x02ÿÿ里的照片。\n使用\x0e\0\x03\x02\0\0特殊拍摄\x0e\0\x03\x02ÿÿ还可以重新拍摄，试试看吧。
+NH_Tips_059	我开发的{color[0000]}新壹号{color[ffff]}对于宝可梦调查\n来说是不可或缺的特别机器哦！
+NH_Tips_060	在{color[0000]}新壹号{color[ffff]}上，也运用了\n我以前用过的调查小艇的技术。
+NH_Tips_061	威克多队长的《{color[0000]}蓝蒂尔冒险记{color[ffff]}》非常有名，\n是芙罗蕾岛家家户户都有的书哦。
+NH_Tips_062	真想不到，我们也能经历\n像《{color[0000]}蓝蒂尔冒险记{color[ffff]}》那样的冒险耶！
+NH_Tips_063	100年前在蓝蒂尔地区冒险过的\n{color[0000]}威克多队长{color[ffff]}，是我很尊敬的一个人。
+NH_Tips_064	{color[0000]}威克多队长{color[ffff]}啊……虽然我是摄影师，\n但喜欢冒险这点倒是和他很像。真想和他聊聊啊。
+NH_Tips_065	将游标对准宝可梦，就能确定主角哦。\n{color[0000]}确定好主角并把它拍到中间去{color[ffff]}！你记住了吧？
+NH_Tips_066	要把宝可梦拍得大大的，就要使用{color[0000]}缩放{color[ffff]}！\n听说诀窍是要在确定好目标之后再缩放哦。
+NH_Tips_067	使用{color[0000]}搜索{color[ffff]}，连藏起来的宝可梦\n也可以找到哦！
+NH_Tips_068	调查使用{color[0000]}搜索{color[ffff]}找到的    ，就会看到{color[0000]}分析结果{color[ffff]}。\n说不定发现宝可梦全新一面的钥匙就在里面呢。
+NH_Tips_069	{color[0000]}搜索{color[ffff]}时发出的声音和电波，\n好像会让有些宝可梦很在意。
+NH_Tips_070	把{color[0000]}轻苹果{color[ffff]}丢给宝可梦，有时它们会过来吃哦。\n好像还能用来把它们引去稍远一点的地方！
+NH_Tips_071	用{color[0000]}霓光珠{color[ffff]}丢中宝可梦或晶奇花的话，\n就能引发霓光现象哦。
+NH_Tips_072	你用{color[0000]}旋律{color[ffff]}了吗？可以试着\n在睡着的宝可梦附近用用看。
+NH_Tips_073	对着看起来喜欢音乐的宝可梦播放{color[0000]}旋律{color[ffff]}的话，\n它说不定会唱歌跳舞哦。
+NH_Tips_074	不要一味地{color[0000]}提速{color[ffff]}前进，也要使用{color[0000]}缩放{color[ffff]}或是{color[0000]}转向后方{color[ffff]}\n来慢慢前进，这样也许就能拍到更多样的照片了哦。
+NH_Tips_075	去各个路线多拍一些好照片，\n争取获得{color[0000]}路线得分{color[ffff]}的最高得分吧！
+NH_Tips_076	你可以在{color[0000]}研究室{color[ffff]}查看调查过的资料哦。\n用博士的话来说就是“毕竟回顾过去也很重要！”
+NH_Tips_077	你可以在{color[0000]}写真图鉴{color[ffff]}里查看自己拍过的照片。\n毕竟回顾过去也很重要，是吧？
+NH_Tips_079	你可以在{color[0000]}写真图鉴{color[ffff]}的{color[0000]}地图{color[ffff]}中回顾\n各路线里宝可梦出现的地方哦。
+NH_Tips_080	如果你发现了发光的{color[0000]}晶奇花{color[ffff]}，就把它拍下来吧。\n我会整理在{color[0000]}写真图鉴{color[ffff]}的{color[0000]}收藏{color[ffff]}里的。
+NH_Tips_081	如果你发现了各地的{color[0000]}古代遗迹{color[ffff]}，就把它们拍下来吧。\n我会整理在{color[0000]}写真图鉴{color[ffff]}的{color[0000]}收藏{color[ffff]}里的。
+NH_Tips_082	你可以对保存在{color[0000]}相册{color[ffff]}里的照片进行各种{color[0000]}加工{color[ffff]}。\n和朋友互相分享照片也会很有趣的哦！
+NH_Tips_083	新壹号会记录你在调查中做过的事。\n到{color[0000]}我的空间{color[ffff]}里的{color[0000]}调查记录{color[ffff]}中确认一下吧。
+NH_Tips_084	我会根据你的调查进展授予你{color[0000]}调查称号{color[ffff]}。\n你可以在{color[0000]}我的空间{color[ffff]}里确认一下有哪些称号。
+NH_Tips_085	你可以在{color[0000]}线上{color[ffff]}看到\n很多世界各地的好友拍的照片。
+NH_Tips_086	{color[0000]}线上{color[ffff]}还有{color[0000]}得分排行榜{color[ffff]}哦。\n你还能看到名列前茅的人上传的照片。
+NH_Tips_087	当你在{color[0000]}线上{color[ffff]}发现自己喜欢的照片时，\n就送出{color[0000]}苹果徽章{color[ffff]}吧。对方收到时一定会很开心的。
+NH_Tips_088	要了解宝可梦的行动，\n就需要集齐{color[0000]}★1～4{color[ffff]}所有的照片。
+NH_Tips_089	{color[0000]}调查等级{color[ffff]}代表你在各路线的调查进度，\n你需要在{color[0000]}白天{color[ffff]}和{color[0000]}晚上{color[ffff]}分别展开调查。
+NH_Tips_090	同一种宝可梦{color[0000]}在不同时间的行动也会有所变化{color[ffff]}。\n如果{color[0000]}白天{color[ffff]}和{color[0000]}晚上{color[ffff]}都遇到了，记得都要拍下来哦。
+NH_Tips_091	你可以在调查之后选择想要保存到{color[0000]}相册{color[ffff]}里的照片。\n使用{color[0000]}特殊拍摄{color[ffff]}还可以重新拍摄，试试看吧。
 NH_Sugg_001	这附近好像还有\n你没调查过的地方。
 NH_Sugg_002	从地形上来看，好像还有路可以走……\n再调查一会儿如何？
 NH_Sugg_003	这附近好像还有其他地方可以去！
@@ -6339,48 +6339,48 @@ NH_Sugg_006	这附近好像还有其他地方可以去！
 NH_Sugg_007	这附近好像还有\n你没调查过的宝可梦。
 NH_Sugg_008	说不定这附近还有\n你没拍过的宝可梦哦。
 NH_Sugg_009	之前在屏幕上出现过一小会儿的宝可梦\n好像还没添加到写真图鉴里……？
-NH_Sugg_010	有很多宝可梦会来\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ。\n你在\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ那边也总能看到它们吧？
-NH_Sugg_011	你经常在\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ拍照吗？\n说不定还有你没去过的地方哦。
-NH_Sugg_012	在这个地方，就连\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ里\n也有很多宝可梦，真热闹啊！
-NH_Sugg_013	对了，在\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ有你\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ上\n还没添加的宝可梦哦。
-NH_Sugg_014	也许你还没拍过我之前\n在\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ见到的宝可梦哦。
-NH_Sugg_015	哎，机会难得，你也把\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ的宝可梦\n都添加到自己的\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ里吧！
-NH_Sugg_016	好～！\n我们去\x0e\0\x03\x02\0\0自然公园\x0e\0\x03\x02ÿÿ拍照吧～！
-NH_Sugg_017	首先在\x0e\0\x03\x02\0\0白天的自然公园\x0e\0\x03\x02ÿÿ里\n多拍一些宝可梦试试看吧。
-NH_Sugg_018	哎！\n我们去\x0e\0\x03\x02\0\0晚上的自然公园\x0e\0\x03\x02ÿÿ拍照吧！
-NH_Sugg_019	你应该能在\x0e\0\x03\x02\0\0晚上的自然公园\x0e\0\x03\x02ÿÿ看到霓光现象。\n要仔细观察周围啊。
-NH_Sugg_020	我们去\x0e\0\x03\x02\0\0自然公园\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ吧！\n听说那里可能会有\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_021	\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的发光花纹……\n就拜托你去调查\x0e\0\x03\x02\0\0自然公园\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ了！
-NH_Sugg_022	用\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ说不定能拍到不同的照片！\n记得要多用几次哦！
-NH_Sugg_023	我还需要一些时间来准备，你就用\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ\n去调查一下\x0e\0\x03\x02\0\0自然公园\x0e\0\x03\x02ÿÿ里的宝可梦吧。
-NH_Sugg_024	继续调查\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ吧！\n在\x0e\0\x03\x02\0\0丛林\x0e\0\x03\x02ÿÿ里，\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ一定会派上用场的！
-NH_Sugg_025	去\x0e\0\x03\x02\0\0晚上的丛林\x0e\0\x03\x02ÿÿ，\n拍下正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
+NH_Sugg_010	有很多宝可梦会来{color[0000]}研究基地{color[ffff]}。\n你在{color[0000]}研究室{color[ffff]}那边也总能看到它们吧？
+NH_Sugg_011	你经常在{color[0000]}研究基地{color[ffff]}拍照吗？\n说不定还有你没去过的地方哦。
+NH_Sugg_012	在这个地方，就连{color[0000]}研究室{color[ffff]}里\n也有很多宝可梦，真热闹啊！
+NH_Sugg_013	对了，在{color[0000]}研究基地{color[ffff]}有你{color[0000]}写真图鉴{color[ffff]}上\n还没添加的宝可梦哦。
+NH_Sugg_014	也许你还没拍过我之前\n在{color[0000]}研究基地{color[ffff]}见到的宝可梦哦。
+NH_Sugg_015	哎，机会难得，你也把{color[0000]}研究基地{color[ffff]}的宝可梦\n都添加到自己的{color[0000]}写真图鉴{color[ffff]}里吧！
+NH_Sugg_016	好～！\n我们去{color[0000]}自然公园{color[ffff]}拍照吧～！
+NH_Sugg_017	首先在{color[0000]}白天的自然公园{color[ffff]}里\n多拍一些宝可梦试试看吧。
+NH_Sugg_018	哎！\n我们去{color[0000]}晚上的自然公园{color[ffff]}拍照吧！
+NH_Sugg_019	你应该能在{color[0000]}晚上的自然公园{color[ffff]}看到霓光现象。\n要仔细观察周围啊。
+NH_Sugg_020	我们去{color[0000]}自然公园{color[ffff]}的{color[0000]}霓光点{color[ffff]}吧！\n听说那里可能会有{color[0000]}霓光宝可梦{color[ffff]}哦！
+NH_Sugg_021	{color[0000]}霓光宝可梦{color[ffff]}的发光花纹……\n就拜托你去调查{color[0000]}自然公园{color[ffff]}的{color[0000]}霓光点{color[ffff]}了！
+NH_Sugg_022	用{color[0000]}轻苹果{color[ffff]}和{color[0000]}搜索{color[ffff]}说不定能拍到不同的照片！\n记得要多用几次哦！
+NH_Sugg_023	我还需要一些时间来准备，你就用{color[0000]}轻苹果{color[ffff]}和{color[0000]}搜索{color[ffff]}\n去调查一下{color[0000]}自然公园{color[ffff]}里的宝可梦吧。
+NH_Sugg_024	继续调查{color[0000]}美乐斯岛{color[ffff]}吧！\n在{color[0000]}丛林{color[ffff]}里，{color[0000]}搜索{color[ffff]}一定会派上用场的！
+NH_Sugg_025	去{color[0000]}晚上的丛林{color[ffff]}，\n拍下正在发光的{color[0000]}晶奇花{color[ffff]}吧。
 NH_Sugg_026	好～！我们去各种各样的地方调查吧！\n来比比看谁能拍到更棒的照片！
-NH_Sugg_027	就算是以前调查过的路线，\n这次也用上\x0e\0\x03\x02\0\0霓光珠\x0e\0\x03\x02ÿÿ再去调查一下吧！
-NH_Sugg_028	继续调查\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ吧！\n你一定会有新发现的哦！
-NH_Sugg_029	你能帮我再多调查一下\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ吗？\n那边出现了很令人好奇的能量反应。
-NH_Sugg_030	去见见\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！\n它就在\x0e\0\x03\x02\0\0多奇思季森林\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_031	去\x0e\0\x03\x02\0\0美乐斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ，\n拍下浮现出发光花纹的\x0e\0\x03\x02\0\0美纳斯\x0e\0\x03\x02ÿÿ吧！
-NH_Sugg_032	继续调查\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ吧！\n你一定会有新发现的哦！
-NH_Sugg_033	你能帮我再多调查一下\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ吗？\n那边出现了很令人好奇的能量反应。
-NH_Sugg_034	去\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ，\n拍下正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
-NH_Sugg_035	去见见\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！\n它就在\x0e\0\x03\x02\0\0蓝蒂尔海床\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_036	去\x0e\0\x03\x02\0\0珂博亚群岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ，\n拍下浮现出发光花纹的\x0e\0\x03\x02\0\0鱼群的样子的弱丁鱼\x0e\0\x03\x02ÿÿ吧！
-NH_Sugg_037	继续调查\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ吧！\n你一定会有新发现的哦！
-NH_Sugg_038	你能帮我再多调查一下\x0e\0\x03\x02\0\0多熔火山\x0e\0\x03\x02ÿÿ吗？\n那边出现了很令人好奇的能量反应。
-NH_Sugg_039	去\x0e\0\x03\x02\0\0晚上的尼撒沙漠\x0e\0\x03\x02ÿÿ，\n拍下正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
-NH_Sugg_040	去见见\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！\n它就在\x0e\0\x03\x02\0\0多熔火山\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_041	去\x0e\0\x03\x02\0\0玻鸥克岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ，\n拍下浮现出发光花纹的\x0e\0\x03\x02\0\0火神蛾\x0e\0\x03\x02ÿÿ吧！
-NH_Sugg_042	继续调查\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ吧！\n你一定会有新发现的哦！
-NH_Sugg_043	你能帮我再多调查一下\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ吗？\n那边出现了很令人好奇的能量反应。
-NH_Sugg_044	去\x0e\0\x03\x02\0\0晚上的希埃冷雪原\x0e\0\x03\x02ÿÿ，\n拍下正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
-NH_Sugg_045	去见见\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！\n它就在\x0e\0\x03\x02\0\0哈那离洞窟\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_046	去\x0e\0\x03\x02\0\0杜牢斯岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ，\n拍下浮现出发光花纹的\x0e\0\x03\x02\0\0大钢蛇\x0e\0\x03\x02ÿÿ吧！
-NH_Sugg_047	继续调查\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ吧！\n你一定会有新发现的哦！
-NH_Sugg_048	你能帮我再多调查一下\x0e\0\x03\x02\0\0矢欧护遗迹\x0e\0\x03\x02ÿÿ吗？\n我想，只要解开\x0e\0\x03\x02\0\0台座的谜团\x0e\0\x03\x02ÿÿ就能继续前进了。
-NH_Sugg_049	去\x0e\0\x03\x02\0\0遗迹\x0e\0\x03\x02ÿÿ，\n拍下正在发光的\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ吧。
-NH_Sugg_050	去见见\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ最后的\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ吧！\n它就在\x0e\0\x03\x02\0\0矢欧护遗迹\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ哦！
-NH_Sugg_051	去\x0e\0\x03\x02\0\0奥朗岛\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0霓光点\x0e\0\x03\x02ÿÿ，\n拍下浮现出发光花纹的\x0e\0\x03\x02\0\0哲尔尼亚斯\x0e\0\x03\x02ÿÿ吧！
+NH_Sugg_027	就算是以前调查过的路线，\n这次也用上{color[0000]}霓光珠{color[ffff]}再去调查一下吧！
+NH_Sugg_028	继续调查{color[0000]}美乐斯岛{color[ffff]}吧！\n你一定会有新发现的哦！
+NH_Sugg_029	你能帮我再多调查一下{color[0000]}多奇思季森林{color[ffff]}吗？\n那边出现了很令人好奇的能量反应。
+NH_Sugg_030	去见见{color[0000]}美乐斯岛{color[ffff]}的{color[0000]}霓光宝可梦{color[ffff]}吧！\n它就在{color[0000]}多奇思季森林{color[ffff]}的{color[0000]}霓光点{color[ffff]}哦！
+NH_Sugg_031	去{color[0000]}美乐斯岛{color[ffff]}的{color[0000]}霓光点{color[ffff]}，\n拍下浮现出发光花纹的{color[0000]}美纳斯{color[ffff]}吧！
+NH_Sugg_032	继续调查{color[0000]}珂博亚群岛{color[ffff]}吧！\n你一定会有新发现的哦！
+NH_Sugg_033	你能帮我再多调查一下{color[0000]}蓝蒂尔海床{color[ffff]}吗？\n那边出现了很令人好奇的能量反应。
+NH_Sugg_034	去{color[0000]}蓝蒂尔海床{color[ffff]}，\n拍下正在发光的{color[0000]}晶奇花{color[ffff]}吧。
+NH_Sugg_035	去见见{color[0000]}珂博亚群岛{color[ffff]}的{color[0000]}霓光宝可梦{color[ffff]}吧！\n它就在{color[0000]}蓝蒂尔海床{color[ffff]}的{color[0000]}霓光点{color[ffff]}哦！
+NH_Sugg_036	去{color[0000]}珂博亚群岛{color[ffff]}的{color[0000]}霓光点{color[ffff]}，\n拍下浮现出发光花纹的{color[0000]}鱼群的样子的弱丁鱼{color[ffff]}吧！
+NH_Sugg_037	继续调查{color[0000]}玻鸥克岛{color[ffff]}吧！\n你一定会有新发现的哦！
+NH_Sugg_038	你能帮我再多调查一下{color[0000]}多熔火山{color[ffff]}吗？\n那边出现了很令人好奇的能量反应。
+NH_Sugg_039	去{color[0000]}晚上的尼撒沙漠{color[ffff]}，\n拍下正在发光的{color[0000]}晶奇花{color[ffff]}吧。
+NH_Sugg_040	去见见{color[0000]}玻鸥克岛{color[ffff]}的{color[0000]}霓光宝可梦{color[ffff]}吧！\n它就在{color[0000]}多熔火山{color[ffff]}的{color[0000]}霓光点{color[ffff]}哦！
+NH_Sugg_041	去{color[0000]}玻鸥克岛{color[ffff]}的{color[0000]}霓光点{color[ffff]}，\n拍下浮现出发光花纹的{color[0000]}火神蛾{color[ffff]}吧！
+NH_Sugg_042	继续调查{color[0000]}杜牢斯岛{color[ffff]}吧！\n你一定会有新发现的哦！
+NH_Sugg_043	你能帮我再多调查一下{color[0000]}哈那离洞窟{color[ffff]}吗？\n那边出现了很令人好奇的能量反应。
+NH_Sugg_044	去{color[0000]}晚上的希埃冷雪原{color[ffff]}，\n拍下正在发光的{color[0000]}晶奇花{color[ffff]}吧。
+NH_Sugg_045	去见见{color[0000]}杜牢斯岛{color[ffff]}的{color[0000]}霓光宝可梦{color[ffff]}吧！\n它就在{color[0000]}哈那离洞窟{color[ffff]}的{color[0000]}霓光点{color[ffff]}哦！
+NH_Sugg_046	去{color[0000]}杜牢斯岛{color[ffff]}的{color[0000]}霓光点{color[ffff]}，\n拍下浮现出发光花纹的{color[0000]}大钢蛇{color[ffff]}吧！
+NH_Sugg_047	继续调查{color[0000]}奥朗岛{color[ffff]}吧！\n你一定会有新发现的哦！
+NH_Sugg_048	你能帮我再多调查一下{color[0000]}矢欧护遗迹{color[ffff]}吗？\n我想，只要解开{color[0000]}台座的谜团{color[ffff]}就能继续前进了。
+NH_Sugg_049	去{color[0000]}遗迹{color[ffff]}，\n拍下正在发光的{color[0000]}晶奇花{color[ffff]}吧。
+NH_Sugg_050	去见见{color[0000]}奥朗岛{color[ffff]}最后的{color[0000]}霓光宝可梦{color[ffff]}吧！\n它就在{color[0000]}矢欧护遗迹{color[ffff]}的{color[0000]}霓光点{color[ffff]}哦！
+NH_Sugg_051	去{color[0000]}奥朗岛{color[ffff]}的{color[0000]}霓光点{color[ffff]}，\n拍下浮现出发光花纹的{color[0000]}哲尔尼亚斯{color[ffff]}吧！
 TipsLoading_Head.msbt
 LT_Tips_001_Head	人物介绍：阿镜博士
 LT_Tips_002_Head	人物介绍：莉塔
@@ -6459,82 +6459,82 @@ LT_Tips_074_Head	保存到Switch
 LT_Tips_075_Head	研究基地的宝可梦们
 LT_Tips_076_Head	研究室里的照片
 TipsLoading_Info.msbt
-LT_Tips_001_Info	在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ活动的\x0e\0\x03\x02\0\0宝可梦博士\x0e\0\x03\x02ÿÿ。\n由于他对\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ的研究受到了肯定，\n因此获准在蓝蒂尔地区全境进行调查。
-LT_Tips_002_Info	\x0e\0\x03\x02\0\0卷起来的马尾辫\x0e\0\x03\x02ÿÿ是她的最大特征。\n非常喜爱宝可梦，以\x0e\0\x03\x02\0\0助手\x0e\0\x03\x02ÿÿ的身份\n协助\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ研究。
-LT_Tips_003_Info	\x0e\0\x03\x02\0\0尖尖的发型\x0e\0\x03\x02ÿÿ是他的最大特征。\n因\x0e\0\x03\x02\0\0阿彻\x0e\0\x03\x02ÿÿ拍的宝可梦照片而深受感动，\n从此立志要成为世界第一的\x0e\0\x03\x02\0\0宝可梦摄影师\x0e\0\x03\x02ÿÿ。
-LT_Tips_004_Info	\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ的老朋友，同时也是\x0e\0\x03\x02\0\0天才摄影师\x0e\0\x03\x02ÿÿ。\n他的信条是要拍摄宝可梦最自然的一面。\n曾受\x0e\0\x03\x02\0\0某位博士\x0e\0\x03\x02ÿÿ委托，协助拍摄宝可梦。
-LT_Tips_005_Info	由\x0e\0\x03\x02\0\0数座岛屿\x0e\0\x03\x02ÿÿ组成，拥有独特文化的地区。\n每座岛的环境大不相同，\n已观测到\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ、\x0e\0\x03\x02\0\0花朵\x0e\0\x03\x02ÿÿ等会出现\x0e\0\x03\x02\0\0发光的现象。\x0e\0\x03\x02ÿÿ
-LT_Tips_006_Info	\x0e\0\x03\x02\0\0人类\x0e\0\x03\x02ÿÿ与\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ在此共同生活，\n是个\x0e\0\x03\x02\0\0气候温和\x0e\0\x03\x02ÿÿ的岛屿。\n有\x0e\0\x03\x02\0\0研究宝可梦的设施\x0e\0\x03\x02ÿÿ坐落于\n受到保护的大自然中。
-LT_Tips_007_Info	由\x0e\0\x03\x02\0\0充足水源\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0温暖气候\x0e\0\x03\x02ÿÿ孕育出的各种植物\n在此茂密生长，是座\x0e\0\x03\x02\0\0绿意盎然的岛屿\x0e\0\x03\x02ÿÿ。\n大自然的恩惠为宝可梦提供了舒适的生活。
-LT_Tips_008_Info	位于\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ大海中央的\x0e\0\x03\x02\0\0多座小岛\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0温暖的大海\x0e\0\x03\x02ÿÿ里有着丰富的食物，\n是在水边生活的宝可梦们的乐园。
-LT_Tips_009_Info	耸立着\x0e\0\x03\x02\0\0巨大火山\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0酷热岛屿\x0e\0\x03\x02ÿÿ。\n生活在这里的都是能够在干燥、强风、\n高温、剧毒等\x0e\0\x03\x02\0\0严酷环境\x0e\0\x03\x02ÿÿ中生存下来的宝可梦们。
-LT_Tips_010_Info	这座被封在\x0e\0\x03\x02\0\0冰与雪\x0e\0\x03\x02ÿÿ之中的\x0e\0\x03\x02\0\0边远之岛\x0e\0\x03\x02ÿÿ\n连\x0e\0\x03\x02\0\0冒险家威克多\x0e\0\x03\x02ÿÿ也未曾到达。\n这里的宝可梦们能与滴水成冰的寒冷共存。
-LT_Tips_011_Info	\x0e\0\x03\x02\0\0从人们记忆中消失\x0e\0\x03\x02ÿÿ的小岛。\n通过这处残存的\x0e\0\x03\x02\0\0线索\x0e\0\x03\x02ÿÿ可以得知\n久远的过去发生了什么事。
-LT_Tips_012_Info	\x0e\0\x03\x02\0\0蓝蒂尔宝可梦自然科学研究所\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ。\n可以查看\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ、\x0e\0\x03\x02\0\0我的空间\x0e\0\x03\x02ÿÿ等调查过的资料。\n“研究基地”　＞　“研究室”
-LT_Tips_013_Info	在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ调查的资料\n和拍摄的照片一起记录在这里。\n你随时都可以在\x0e\0\x03\x02\0\0研究室\x0e\0\x03\x02ÿÿ里查看。\n“研究基地”　＞　“研究室”　＞　“写真图鉴”
-LT_Tips_014_Info	可以查看\x0e\0\x03\x02\0\0宝可梦的照片\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0信息\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ。\n填满每页的\x0e\0\x03\x02\0\04张照片\x0e\0\x03\x02ÿÿ，就能完成那一页。\n“研究室”　＞　“写真图鉴”　＞　“宝可梦”
-LT_Tips_015_Info	可以按路线查看已调查的\n\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0收藏\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ。\n“研究室”　＞　“写真图鉴”　＞　“地图”
-LT_Tips_016_Info	可以查看\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0古代遗迹\x0e\0\x03\x02ÿÿ的\n调查资料的\x0e\0\x03\x02\0\0写真图鉴\x0e\0\x03\x02ÿÿ。\n“研究室”　＞　“写真图鉴”　＞　“收藏”
-LT_Tips_017_Info	可以查看或加工已保存的照片。\n\x0e\0\x03\x02\0\0特殊拍摄\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0加工后的照片\x0e\0\x03\x02ÿÿ也保存在这里。\n“研究室”　＞　“我的空间”　＞　“相册”
-LT_Tips_018_Info	为拍摄的照片\x0e\0\x03\x02\0\0加上图章等\x0e\0\x03\x02ÿÿ素材，更添乐趣的功能。\n随着调查进行，可以使用的素材也会增多。\n“相册”等　＞　“选择照片”　＞　“照片加工”
-LT_Tips_019_Info	可以在调查结束后，为拍摄的照片更改\n\x0e\0\x03\x02\0\0亮度\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ等设置，并\x0e\0\x03\x02\0\0再次拍摄\x0e\0\x03\x02ÿÿ的功能。\n“重试菜单”　＞　“保存至相册”　＞　选择照片　＞　“特殊拍摄”
+LT_Tips_001_Info	在{color[0000]}蓝蒂尔地区{color[ffff]}活动的{color[0000]}宝可梦博士{color[ffff]}。\n由于他对{color[0000]}霓光现象{color[ffff]}的研究受到了肯定，\n因此获准在蓝蒂尔地区全境进行调查。
+LT_Tips_002_Info	{color[0000]}卷起来的马尾辫{color[ffff]}是她的最大特征。\n非常喜爱宝可梦，以{color[0000]}助手{color[ffff]}的身份\n协助{color[0000]}阿镜博士{color[ffff]}研究。
+LT_Tips_003_Info	{color[0000]}尖尖的发型{color[ffff]}是他的最大特征。\n因{color[0000]}阿彻{color[ffff]}拍的宝可梦照片而深受感动，\n从此立志要成为世界第一的{color[0000]}宝可梦摄影师{color[ffff]}。
+LT_Tips_004_Info	{color[0000]}阿镜博士{color[ffff]}的老朋友，同时也是{color[0000]}天才摄影师{color[ffff]}。\n他的信条是要拍摄宝可梦最自然的一面。\n曾受{color[0000]}某位博士{color[ffff]}委托，协助拍摄宝可梦。
+LT_Tips_005_Info	由{color[0000]}数座岛屿{color[ffff]}组成，拥有独特文化的地区。\n每座岛的环境大不相同，\n已观测到{color[0000]}宝可梦{color[ffff]}、{color[0000]}花朵{color[ffff]}等会出现{color[0000]}发光的现象。{color[ffff]}
+LT_Tips_006_Info	{color[0000]}人类{color[ffff]}与{color[0000]}宝可梦{color[ffff]}在此共同生活，\n是个{color[0000]}气候温和{color[ffff]}的岛屿。\n有{color[0000]}研究宝可梦的设施{color[ffff]}坐落于\n受到保护的大自然中。
+LT_Tips_007_Info	由{color[0000]}充足水源{color[ffff]}和{color[0000]}温暖气候{color[ffff]}孕育出的各种植物\n在此茂密生长，是座{color[0000]}绿意盎然的岛屿{color[ffff]}。\n大自然的恩惠为宝可梦提供了舒适的生活。
+LT_Tips_008_Info	位于{color[0000]}蓝蒂尔地区{color[ffff]}大海中央的{color[0000]}多座小岛{color[ffff]}。\n{color[0000]}温暖的大海{color[ffff]}里有着丰富的食物，\n是在水边生活的宝可梦们的乐园。
+LT_Tips_009_Info	耸立着{color[0000]}巨大火山{color[ffff]}的{color[0000]}酷热岛屿{color[ffff]}。\n生活在这里的都是能够在干燥、强风、\n高温、剧毒等{color[0000]}严酷环境{color[ffff]}中生存下来的宝可梦们。
+LT_Tips_010_Info	这座被封在{color[0000]}冰与雪{color[ffff]}之中的{color[0000]}边远之岛{color[ffff]}\n连{color[0000]}冒险家威克多{color[ffff]}也未曾到达。\n这里的宝可梦们能与滴水成冰的寒冷共存。
+LT_Tips_011_Info	{color[0000]}从人们记忆中消失{color[ffff]}的小岛。\n通过这处残存的{color[0000]}线索{color[ffff]}可以得知\n久远的过去发生了什么事。
+LT_Tips_012_Info	{color[0000]}蓝蒂尔宝可梦自然科学研究所{color[ffff]}的{color[0000]}阿镜博士{color[ffff]}的{color[0000]}研究室{color[ffff]}。\n可以查看{color[0000]}写真图鉴{color[ffff]}、{color[0000]}我的空间{color[ffff]}等调查过的资料。\n“研究基地”　＞　“研究室”
+LT_Tips_013_Info	在{color[0000]}蓝蒂尔地区{color[ffff]}调查的资料\n和拍摄的照片一起记录在这里。\n你随时都可以在{color[0000]}研究室{color[ffff]}里查看。\n“研究基地”　＞　“研究室”　＞　“写真图鉴”
+LT_Tips_014_Info	可以查看{color[0000]}宝可梦的照片{color[ffff]}和{color[0000]}信息{color[ffff]}的{color[0000]}写真图鉴{color[ffff]}。\n填满每页的{color[0000]}4张照片{color[ffff]}，就能完成那一页。\n“研究室”　＞　“写真图鉴”　＞　“宝可梦”
+LT_Tips_015_Info	可以按路线查看已调查的\n{color[0000]}宝可梦{color[ffff]}和{color[0000]}收藏{color[ffff]}的{color[0000]}写真图鉴{color[ffff]}。\n“研究室”　＞　“写真图鉴”　＞　“地图”
+LT_Tips_016_Info	可以查看{color[0000]}晶奇花{color[ffff]}和{color[0000]}古代遗迹{color[ffff]}的\n调查资料的{color[0000]}写真图鉴{color[ffff]}。\n“研究室”　＞　“写真图鉴”　＞　“收藏”
+LT_Tips_017_Info	可以查看或加工已保存的照片。\n{color[0000]}特殊拍摄{color[ffff]}和{color[0000]}加工后的照片{color[ffff]}也保存在这里。\n“研究室”　＞　“我的空间”　＞　“相册”
+LT_Tips_018_Info	为拍摄的照片{color[0000]}加上图章等{color[ffff]}素材，更添乐趣的功能。\n随着调查进行，可以使用的素材也会增多。\n“相册”等　＞　“选择照片”　＞　“照片加工”
+LT_Tips_019_Info	可以在调查结束后，为拍摄的照片更改\n{color[0000]}亮度{color[ffff]}和{color[0000]}朝向{color[ffff]}等设置，并{color[0000]}再次拍摄{color[ffff]}的功能。\n“重试菜单”　＞　“保存至相册”　＞　选择照片　＞　“特殊拍摄”
 LT_Tips_020_Info	可以查看与调查相关的各种记录。\n“研究室”　＞　“我的空间”　＞　“调查记录”
-LT_Tips_021_Info	可以查看依调查进度能够获得的\x0e\0\x03\x02\0\0调查称号\x0e\0\x03\x02ÿÿ。\n各个调查称号的进展也记录在这里。\n“研究室”　＞　“我的空间”　＞　“调查称号”
-LT_Tips_022_Info	可以查看世界各地众多好友\n\x0e\0\x03\x02\0\0拍摄的照片\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0排行榜\x0e\0\x03\x02ÿÿ。\n“研究基地”　＞　“研究室”　＞　“线上”
-LT_Tips_023_Info	可以查看世界各地众多好友拍摄的，\n\x0e\0\x03\x02\0\0获得较多苹果徽章的照片\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0备受瞩目的路线照片\x0e\0\x03\x02ÿÿ。\n“研究室”　＞　“线上”　＞　“大家的照片”
-LT_Tips_024_Info	当你\x0e\0\x03\x02\0\0喜欢别人拍摄的照片时可以赠送\x0e\0\x03\x02ÿÿ的徽章。\n和世界各地的众多好友互相赠送徽章吧！
-LT_Tips_025_Info	可以查看世界各地众多好友的\n\x0e\0\x03\x02\0\0图鉴总得分\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0路线得分\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0排行榜\x0e\0\x03\x02ÿÿ。\n“研究室”　＞　“线上”　＞　“排行榜”
-LT_Tips_026_Info	可以更改\x0e\0\x03\x02\0\0游戏\x0e\0\x03\x02ÿÿ相关的设置，\n包括\x0e\0\x03\x02\0\0陀螺仪\x0e\0\x03\x02ÿÿ的开启/关闭、\x0e\0\x03\x02\0\0手柄的振动\x0e\0\x03\x02ÿÿ等。\n“研究基地”　＞　“设置”　＞　“游戏”
-LT_Tips_027_Info	可以更改\x0e\0\x03\x02\0\0操作方法\x0e\0\x03\x02ÿÿ的设置，\n比如按键及其对应的操作。\n“研究基地”　＞　“设置”　＞　“按键”
-LT_Tips_028_Info	可以更改\x0e\0\x03\x02\0\0拍摄\x0e\0\x03\x02ÿÿ相关的设置，\n包括\x0e\0\x03\x02\0\0相机\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0游标的移动速度\x0e\0\x03\x02ÿÿ等。\n“研究基地”　＞　“设置”　＞　“相机”
-LT_Tips_029_Info	可以更改\x0e\0\x03\x02\0\0声音\x0e\0\x03\x02ÿÿ相关的设置，包括\n\x0e\0\x03\x02\0\0音乐\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0效果音\x0e\0\x03\x02ÿÿ的音量、\x0e\0\x03\x02\0\0角色的语音种类\x0e\0\x03\x02ÿÿ等。\n“研究基地”　＞　“设置”　＞　“声音”
-LT_Tips_030_Info	可以更改\x0e\0\x03\x02\0\0线上照片\x0e\0\x03\x02ÿÿ相关的设置。\n“研究基地”　＞　“设置”　＞　“其他”
-LT_Tips_031_Info	由\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ开发，专门用来\x0e\0\x03\x02\0\0调查宝可梦\x0e\0\x03\x02ÿÿ的机器。\n不仅让乘坐者在任何环境中都能舒适地调查，\n还能自动识别路线，从而让乘坐者专心拍摄。\n以\x0e\0\x03\x02\0\0某位博士\x0e\0\x03\x02ÿÿ开发的\x0e\0\x03\x02\0\0调查小艇\x0e\0\x03\x02ÿÿ为基础制造而成。
-LT_Tips_032_Info	由\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ开发，专门用来\x0e\0\x03\x02\0\0调查宝可梦\x0e\0\x03\x02ÿÿ的相机。\n和\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ同步，可以使用各种各样的功能。\n除\x0e\0\x03\x02\0\0通讯\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0分析\x0e\0\x03\x02ÿÿ之外，也可用做个人的ID。
-LT_Tips_033_Info	\x0e\0\x03\x02\0\0分析周围\x0e\0\x03\x02ÿÿ，从\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ的研究资料中\n计算出\x0e\0\x03\x02\0\0信息\x0e\0\x03\x02ÿÿ并告知给乘坐者的功能。\n\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ有时也会对搜索发出的声音和电波\x0e\0\x03\x02\0\0做出反应\x0e\0\x03\x02ÿÿ。
-LT_Tips_034_Info	能在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ采到的香甜美味的\x0e\0\x03\x02\0\0果实\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0宝可梦的最爱\x0e\0\x03\x02ÿÿ，丢到它们附近的话，有时还会\x0e\0\x03\x02\0\0去吃\x0e\0\x03\x02ÿÿ。\n这种果实又轻又柔软，所以就算被打到也不会痛。
-LT_Tips_035_Info	丢中\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ或\x0e\0\x03\x02\0\0晶奇花\x0e\0\x03\x02ÿÿ时，\n会暂时引起\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0珠子\x0e\0\x03\x02ÿÿ。\n由于每座岛的能量性质不同，因此必须要\n调查岛上的晶奇花才能做出那座岛的霓光珠。
-LT_Tips_036_Info	\x0e\0\x03\x02\0\0调查相机\x0e\0\x03\x02ÿÿ带有可以播放\x0e\0\x03\x02\0\0音乐\x0e\0\x03\x02ÿÿ的功能。\n睡着的宝可梦可能会\x0e\0\x03\x02\0\0对音乐做出反应\x0e\0\x03\x02ÿÿ而\x0e\0\x03\x02\0\0醒来，\x0e\0\x03\x02ÿÿ或\x0e\0\x03\x02\0\0跳起舞来\x0e\0\x03\x02ÿÿ。
-LT_Tips_037_Info	可由\x0e\0\x03\x02\0\0调查相机\x0e\0\x03\x02ÿÿ控制的\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ的\x0e\0\x03\x02\0\0加速装置\x0e\0\x03\x02ÿÿ。\n使用\x0e\0\x03\x02\0\0提速\x0e\0\x03\x02ÿÿ可以比平时\x0e\0\x03\x02\0\0更快地前进\x0e\0\x03\x02ÿÿ。
-LT_Tips_038_Info	只会在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ发生的\x0e\0\x03\x02\0\0发光现象\x0e\0\x03\x02ÿÿ。\n发光时的状态被称为“\x0e\0\x03\x02\0\0霓光状态\x0e\0\x03\x02ÿÿ”。\n目前已知，当宝可梦和晶奇花处于\n霓光状态时，生命能量会被\x0e\0\x03\x02\0\0活化\x0e\0\x03\x02ÿÿ。
-LT_Tips_039_Info	在\x0e\0\x03\x02\0\0传说\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0蓝蒂尔冒险记\x0e\0\x03\x02ÿÿ中出现的宝可梦，\n\x0e\0\x03\x02\0\0身上有花纹\x0e\0\x03\x02ÿÿ，会发出\x0e\0\x03\x02\0\0特别的光芒\x0e\0\x03\x02ÿÿ。\n据说在远古时代发生灾难时，它们保护了蓝蒂尔地区。
-LT_Tips_040_Info	一种只在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ绽放的\x0e\0\x03\x02\0\0花\x0e\0\x03\x02ÿÿ，其特征因岛而异。\n目前已知它和\x0e\0\x03\x02\0\0宝可梦\x0e\0\x03\x02ÿÿ一样会产生\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ，\n绽放与花朵中心类似宝石的核心部相同颜色的光芒。
-LT_Tips_041_Info	在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ各地发现的\x0e\0\x03\x02\0\0古老建筑\x0e\0\x03\x02ÿÿ。\n虽然几乎都看不出原来的形状，\n但据说和蓝蒂尔地区的\x0e\0\x03\x02\0\0传说\x0e\0\x03\x02ÿÿ有关。
-LT_Tips_042_Info	在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ的大地流动的\x0e\0\x03\x02\0\0能量\x0e\0\x03\x02ÿÿ。\n\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ查明了\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ是\x0e\0\x03\x02\0\0霓光能\x0e\0\x03\x02ÿÿ活化后\n作用于宝可梦和晶奇花时所产生的现象。
-LT_Tips_043_Info	据说是大约在2000年前坠落到\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ的陨石。\n除了\x0e\0\x03\x02\0\0传说\x0e\0\x03\x02ÿÿ里提到的内容之外几乎是谜团重重。
-LT_Tips_044_Info	遗留在\x0e\0\x03\x02\0\0洞窟\x0e\0\x03\x02ÿÿ深处的，大约2000年前的\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿ。\n画上好像描绘着\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ在\x0e\0\x03\x02\0\0碲陆陆陨石\x0e\0\x03\x02ÿÿ事件中\n保护了\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ的情形，但其中有部分残缺。
-LT_Tips_045_Info	大约2000年前人们在\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ各处留下的\x0e\0\x03\x02\0\0壁画\x0e\0\x03\x02ÿÿ。\n经\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ推测，画上描绘着\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ\n在\x0e\0\x03\x02\0\0碲陆陆陨石\x0e\0\x03\x02ÿÿ事件中保护了\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ的情形。
-LT_Tips_046_Info	由大约100年前，\x0e\0\x03\x02\0\0威克多队长\x0e\0\x03\x02ÿÿ周游\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ\n其他岛屿时的记录整理而成的书籍。\n书上也记载了\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ的事，\n是很受\x0e\0\x03\x02\0\0芙罗蕾岛\x0e\0\x03\x02ÿÿ的孩子们喜爱的冒险谭。
-LT_Tips_047_Info	大约100年前周游了\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ其他岛屿的\x0e\0\x03\x02\0\0冒险家\x0e\0\x03\x02ÿÿ。\n童年时期与\x0e\0\x03\x02\0\0霓光宝可梦\x0e\0\x03\x02ÿÿ相遇的经历\n促使他把自己的人生奉献给了冒险。
-LT_Tips_048_Info	拍摄宝可梦时，\n\x0e\0\x03\x02\0\0把主角拍到中间\x0e\0\x03\x02ÿÿ就对了！
-LT_Tips_049_Info	好好观察一下宝可梦的行动，\n从中找出\x0e\0\x03\x02\0\0最佳时机\x0e\0\x03\x02ÿÿ吧！
-LT_Tips_050_Info	在宝可梦\x0e\0\x03\x02\0\0看向这边\x0e\0\x03\x02ÿÿ时按下快门，\n就能拍出更棒的照片！
-LT_Tips_051_Info	小心别让宝可梦的脸被它的身体\n或周边地形之类的给\x0e\0\x03\x02\0\0遮住\x0e\0\x03\x02ÿÿ哦！
-LT_Tips_052_Info	尽量在\x0e\0\x03\x02\0\0相机取景框内\x0e\0\x03\x02ÿÿ\n把宝可梦拍得大大的！
-LT_Tips_053_Info	别让宝可梦\x0e\0\x03\x02\0\0超出相机取景框\x0e\0\x03\x02ÿÿ，还要留意\n主角的位置，以及不要靠得太近！
-LT_Tips_054_Info	\x0e\0\x03\x02\0\0没有拍到\x0e\0\x03\x02ÿÿ宝可梦等\x0e\0\x03\x02\0\0主角\x0e\0\x03\x02ÿÿ的照片\n会被视为“\x0e\0\x03\x02\0\0No Data\x0e\0\x03\x02ÿÿ”，\x0e\0\x03\x02\0\0无法拿给博士看\x0e\0\x03\x02ÿÿ。\n而且还\x0e\0\x03\x02\0\0拿不到得分\x0e\0\x03\x02ÿÿ，所以要多加注意！
-LT_Tips_055_Info	使用\x0e\0\x03\x02\0\0缩放\x0e\0\x03\x02ÿÿ拍照时，宝可梦会\n\x0e\0\x03\x02\0\0很容易超出取景框\x0e\0\x03\x02ÿÿ，要多加注意！
-LT_Tips_056_Info	找找看宝可梦\x0e\0\x03\x02\0\0和同伴在一起时\x0e\0\x03\x02ÿÿ\n才会表现出来的行动吧！
-LT_Tips_057_Info	拍摄多只宝可梦时，\n要让画面\x0e\0\x03\x02\0\0保持协调\x0e\0\x03\x02ÿÿ哦！
-LT_Tips_058_Info	拍摄多只宝可梦时，\n要注意\x0e\0\x03\x02\0\0别让它们挡住彼此\x0e\0\x03\x02ÿÿ！
-LT_Tips_059_Info	\x0e\0\x03\x02\0\0主角以外\x0e\0\x03\x02ÿÿ的宝可梦也会影响得分，\n所以记得要尽量都\x0e\0\x03\x02\0\0拍得大大\x0e\0\x03\x02ÿÿ的！
-LT_Tips_060_Info	\x0e\0\x03\x02\0\0主角以外\x0e\0\x03\x02ÿÿ的宝可梦也会影响得分，\n所以也要留意它们的\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ！
-LT_Tips_061_Info	找找看和宝可梦一起入镜时\n会影响得分的\x0e\0\x03\x02\0\0特别风景\x0e\0\x03\x02ÿÿ吧！
-LT_Tips_062_Info	拍摄\x0e\0\x03\x02\0\0特別的风景\x0e\0\x03\x02ÿÿ时，\n也要注意\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ！
-LT_Tips_063_Info	\x0e\0\x03\x02\0\0新壹号\x0e\0\x03\x02ÿÿ会自动识别路线前进，所以专注在\x0e\0\x03\x02\0\0相机的操作\x0e\0\x03\x02ÿÿ上吧。\n移动相机／游标： \x0e\x03\x01\x02\0Í \x0e\x03\x02\x02\0Í\n缩放：  \n拍摄： \x0e\x03\x03\x02\0Í
-LT_Tips_064_Info	使用\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ找出藏起来的宝可梦，\n或\x0e\0\x03\x02\0\0分析\x0e\0\x03\x02ÿÿ可疑的地方吧。\n搜索：按下 \x0e\x03\x01\x02\0Í 搜索。\n分析：在搜索后将    移动到    上，长按 \x0e\x03\x01\x02\0Í 分析。
-LT_Tips_065_Info	把轻苹果丢向宝可梦吧。\n宝可梦也许会\x0e\0\x03\x02\0\0吃下它\x0e\0\x03\x02ÿÿ，或被\x0e\0\x03\x02\0\0引导\x0e\0\x03\x02ÿÿ到不同的地方。\n轻苹果：用    决定方向后，按下 \x0e\x03\x01\x02\0Í 丢出。
-LT_Tips_066_Info	朝着宝可梦或晶奇花丢出去吧。\n说不定会引起\x0e\0\x03\x02\0\0霓光现象\x0e\0\x03\x02ÿÿ，发生不寻常的事。\n霓光珠：用    决定方向后，按下 \x0e\x03\x01\x02\0Í 丢出。
-LT_Tips_067_Info	朝着宝可梦使用\x0e\0\x03\x02\0\0旋律\x0e\0\x03\x02ÿÿ吧。\n宝可梦说不定会\x0e\0\x03\x02\0\0对音乐产生反应\x0e\0\x03\x02ÿÿ，做出和平时不同的行动。\n播放旋律：按下 \x0e\x03\x01\x02\0Í 播放。\n停止旋律：在旋律播放时按下 \x0e\x03\x01\x02\0Í 停止。
-LT_Tips_068_Info	想要快速前进时就使用\x0e\0\x03\x02\0\0提速\x0e\0\x03\x02ÿÿ吧。\n\x0e\0\x03\x02\0\0快速前进\x0e\0\x03\x02ÿÿ过程中可能会拍到不同以往的照片。\n提速： \x0e\x03\x01\x02\0Í
-LT_Tips_069_Info	1：拍下宝可梦，图鉴就能生成页面！\n2：拍到还没填上的\x0e\0\x03\x02\0\0★数的照片\x0e\0\x03\x02ÿÿ，集齐\x0e\0\x03\x02\0\0★1～4\x0e\0\x03\x02ÿÿ吧！
-LT_Tips_070_Info	1：每条路线都有各自的\x0e\0\x03\x02\0\0调查等级\x0e\0\x03\x02ÿÿ。\n2：博士对每条路线给出的评价就是\x0e\0\x03\x02\0\0调查点数\x0e\0\x03\x02ÿÿ。\n3：给博士看\x0e\0\x03\x02\0\0各种宝可梦\x0e\0\x03\x02ÿÿ，和\x0e\0\x03\x02\0\0还没成功拍到过的★数的照片\x0e\0\x03\x02ÿÿ吧！
-LT_Tips_071_Info	1：拍下\x0e\0\x03\x02\0\0许多种类\x0e\0\x03\x02ÿÿ的宝可梦吧！\n2：多拍一些\x0e\0\x03\x02\0\0高得分\x0e\0\x03\x02ÿÿ的照片吧！
-LT_Tips_072_Info	在\x0e\0\x03\x02\0\0单次调查\x0e\0\x03\x02ÿÿ中最多可以拍\x0e\0\x03\x02\0\072\x0e\0\x03\x02ÿÿ张照片。\n除了第一次调查的路线之外，若剩余照片数\n变为\x0e\0\x03\x02\0\00\x0e\0\x03\x02ÿÿ张，\x0e\0\x03\x02\0\0调查就会结束\x0e\0\x03\x02ÿÿ。要注意剩余照片数！
-LT_Tips_073_Info	\x0e\0\x03\x02\0\0可以更改\x0e\0\x03\x02ÿÿ拍到的照片的标题。\n起一个\x0e\0\x03\x02\0\0中意的标题\x0e\0\x03\x02ÿÿ，告诉世界各地的\n好友你拍到了什么样的场景吧！\n“相册”等　＞　选择照片　＞　“标题”
-LT_Tips_074_Info	可以将拍摄的照片保存到\x0e\0\x03\x02\0\0Nintendo Switch的相册\x0e\0\x03\x02ÿÿ。\n“相册”　＞　选择照片　＞　“保存到Switch”
-LT_Tips_075_Info	在\x0e\0\x03\x02\0\0蓝蒂尔宝可梦自然科学研究所\x0e\0\x03\x02ÿÿ（通称：\x0e\0\x03\x02\0\0研究基地\x0e\0\x03\x02ÿÿ）\n有各种各样的宝可梦自由进出。\n\x0e\0\x03\x02\0\0长毛狗\x0e\0\x03\x02ÿÿ和\x0e\0\x03\x02\0\0差不多娃娃\x0e\0\x03\x02ÿÿ就如同\n和\x0e\0\x03\x02\0\0阿镜博士\x0e\0\x03\x02ÿÿ一起生活的\x0e\0\x03\x02\0\0伙伴\x0e\0\x03\x02ÿÿ。
-LT_Tips_076_Info	\x0e\0\x03\x02\0\0莉塔\x0e\0\x03\x02ÿÿ拍的风景照片。\n氛围和\x0e\0\x03\x02\0\0蓝蒂尔地区\x0e\0\x03\x02ÿÿ有些不同，\n不知道这里是什么地方。
+LT_Tips_021_Info	可以查看依调查进度能够获得的{color[0000]}调查称号{color[ffff]}。\n各个调查称号的进展也记录在这里。\n“研究室”　＞　“我的空间”　＞　“调查称号”
+LT_Tips_022_Info	可以查看世界各地众多好友\n{color[0000]}拍摄的照片{color[ffff]}和{color[0000]}排行榜{color[ffff]}。\n“研究基地”　＞　“研究室”　＞　“线上”
+LT_Tips_023_Info	可以查看世界各地众多好友拍摄的，\n{color[0000]}获得较多苹果徽章的照片{color[ffff]}和{color[0000]}备受瞩目的路线照片{color[ffff]}。\n“研究室”　＞　“线上”　＞　“大家的照片”
+LT_Tips_024_Info	当你{color[0000]}喜欢别人拍摄的照片时可以赠送{color[ffff]}的徽章。\n和世界各地的众多好友互相赠送徽章吧！
+LT_Tips_025_Info	可以查看世界各地众多好友的\n{color[0000]}图鉴总得分{color[ffff]}和{color[0000]}路线得分{color[ffff]}的{color[0000]}排行榜{color[ffff]}。\n“研究室”　＞　“线上”　＞　“排行榜”
+LT_Tips_026_Info	可以更改{color[0000]}游戏{color[ffff]}相关的设置，\n包括{color[0000]}陀螺仪{color[ffff]}的开启/关闭、{color[0000]}手柄的振动{color[ffff]}等。\n“研究基地”　＞　“设置”　＞　“游戏”
+LT_Tips_027_Info	可以更改{color[0000]}操作方法{color[ffff]}的设置，\n比如按键及其对应的操作。\n“研究基地”　＞　“设置”　＞　“按键”
+LT_Tips_028_Info	可以更改{color[0000]}拍摄{color[ffff]}相关的设置，\n包括{color[0000]}相机{color[ffff]}和{color[0000]}游标的移动速度{color[ffff]}等。\n“研究基地”　＞　“设置”　＞　“相机”
+LT_Tips_029_Info	可以更改{color[0000]}声音{color[ffff]}相关的设置，包括\n{color[0000]}音乐{color[ffff]}和{color[0000]}效果音{color[ffff]}的音量、{color[0000]}角色的语音种类{color[ffff]}等。\n“研究基地”　＞　“设置”　＞　“声音”
+LT_Tips_030_Info	可以更改{color[0000]}线上照片{color[ffff]}相关的设置。\n“研究基地”　＞　“设置”　＞　“其他”
+LT_Tips_031_Info	由{color[0000]}阿镜博士{color[ffff]}开发，专门用来{color[0000]}调查宝可梦{color[ffff]}的机器。\n不仅让乘坐者在任何环境中都能舒适地调查，\n还能自动识别路线，从而让乘坐者专心拍摄。\n以{color[0000]}某位博士{color[ffff]}开发的{color[0000]}调查小艇{color[ffff]}为基础制造而成。
+LT_Tips_032_Info	由{color[0000]}阿镜博士{color[ffff]}开发，专门用来{color[0000]}调查宝可梦{color[ffff]}的相机。\n和{color[0000]}新壹号{color[ffff]}同步，可以使用各种各样的功能。\n除{color[0000]}通讯{color[ffff]}和{color[0000]}分析{color[ffff]}之外，也可用做个人的ID。
+LT_Tips_033_Info	{color[0000]}分析周围{color[ffff]}，从{color[0000]}阿镜博士{color[ffff]}的研究资料中\n计算出{color[0000]}信息{color[ffff]}并告知给乘坐者的功能。\n{color[0000]}宝可梦{color[ffff]}有时也会对搜索发出的声音和电波{color[0000]}做出反应{color[ffff]}。
+LT_Tips_034_Info	能在{color[0000]}蓝蒂尔地区{color[ffff]}采到的香甜美味的{color[0000]}果实{color[ffff]}。\n{color[0000]}宝可梦的最爱{color[ffff]}，丢到它们附近的话，有时还会{color[0000]}去吃{color[ffff]}。\n这种果实又轻又柔软，所以就算被打到也不会痛。
+LT_Tips_035_Info	丢中{color[0000]}宝可梦{color[ffff]}或{color[0000]}晶奇花{color[ffff]}时，\n会暂时引起{color[0000]}霓光现象{color[ffff]}的{color[0000]}珠子{color[ffff]}。\n由于每座岛的能量性质不同，因此必须要\n调查岛上的晶奇花才能做出那座岛的霓光珠。
+LT_Tips_036_Info	{color[0000]}调查相机{color[ffff]}带有可以播放{color[0000]}音乐{color[ffff]}的功能。\n睡着的宝可梦可能会{color[0000]}对音乐做出反应{color[ffff]}而{color[0000]}醒来，{color[ffff]}或{color[0000]}跳起舞来{color[ffff]}。
+LT_Tips_037_Info	可由{color[0000]}调查相机{color[ffff]}控制的{color[0000]}新壹号{color[ffff]}的{color[0000]}加速装置{color[ffff]}。\n使用{color[0000]}提速{color[ffff]}可以比平时{color[0000]}更快地前进{color[ffff]}。
+LT_Tips_038_Info	只会在{color[0000]}蓝蒂尔地区{color[ffff]}发生的{color[0000]}发光现象{color[ffff]}。\n发光时的状态被称为“{color[0000]}霓光状态{color[ffff]}”。\n目前已知，当宝可梦和晶奇花处于\n霓光状态时，生命能量会被{color[0000]}活化{color[ffff]}。
+LT_Tips_039_Info	在{color[0000]}传说{color[ffff]}和{color[0000]}蓝蒂尔冒险记{color[ffff]}中出现的宝可梦，\n{color[0000]}身上有花纹{color[ffff]}，会发出{color[0000]}特别的光芒{color[ffff]}。\n据说在远古时代发生灾难时，它们保护了蓝蒂尔地区。
+LT_Tips_040_Info	一种只在{color[0000]}蓝蒂尔地区{color[ffff]}绽放的{color[0000]}花{color[ffff]}，其特征因岛而异。\n目前已知它和{color[0000]}宝可梦{color[ffff]}一样会产生{color[0000]}霓光现象{color[ffff]}，\n绽放与花朵中心类似宝石的核心部相同颜色的光芒。
+LT_Tips_041_Info	在{color[0000]}蓝蒂尔地区{color[ffff]}各地发现的{color[0000]}古老建筑{color[ffff]}。\n虽然几乎都看不出原来的形状，\n但据说和蓝蒂尔地区的{color[0000]}传说{color[ffff]}有关。
+LT_Tips_042_Info	在{color[0000]}蓝蒂尔地区{color[ffff]}的大地流动的{color[0000]}能量{color[ffff]}。\n{color[0000]}阿镜博士{color[ffff]}查明了{color[0000]}霓光现象{color[ffff]}是{color[0000]}霓光能{color[ffff]}活化后\n作用于宝可梦和晶奇花时所产生的现象。
+LT_Tips_043_Info	据说是大约在2000年前坠落到{color[0000]}蓝蒂尔地区{color[ffff]}的陨石。\n除了{color[0000]}传说{color[ffff]}里提到的内容之外几乎是谜团重重。
+LT_Tips_044_Info	遗留在{color[0000]}洞窟{color[ffff]}深处的，大约2000年前的{color[0000]}壁画{color[ffff]}。\n画上好像描绘着{color[0000]}霓光宝可梦{color[ffff]}在{color[0000]}碲陆陆陨石{color[ffff]}事件中\n保护了{color[0000]}蓝蒂尔地区{color[ffff]}的情形，但其中有部分残缺。
+LT_Tips_045_Info	大约2000年前人们在{color[0000]}蓝蒂尔地区{color[ffff]}各处留下的{color[0000]}壁画{color[ffff]}。\n经{color[0000]}阿镜博士{color[ffff]}推测，画上描绘着{color[0000]}霓光宝可梦{color[ffff]}\n在{color[0000]}碲陆陆陨石{color[ffff]}事件中保护了{color[0000]}蓝蒂尔地区{color[ffff]}的情形。
+LT_Tips_046_Info	由大约100年前，{color[0000]}威克多队长{color[ffff]}周游{color[0000]}蓝蒂尔地区{color[ffff]}\n其他岛屿时的记录整理而成的书籍。\n书上也记载了{color[0000]}霓光宝可梦{color[ffff]}的事，\n是很受{color[0000]}芙罗蕾岛{color[ffff]}的孩子们喜爱的冒险谭。
+LT_Tips_047_Info	大约100年前周游了{color[0000]}蓝蒂尔地区{color[ffff]}其他岛屿的{color[0000]}冒险家{color[ffff]}。\n童年时期与{color[0000]}霓光宝可梦{color[ffff]}相遇的经历\n促使他把自己的人生奉献给了冒险。
+LT_Tips_048_Info	拍摄宝可梦时，\n{color[0000]}把主角拍到中间{color[ffff]}就对了！
+LT_Tips_049_Info	好好观察一下宝可梦的行动，\n从中找出{color[0000]}最佳时机{color[ffff]}吧！
+LT_Tips_050_Info	在宝可梦{color[0000]}看向这边{color[ffff]}时按下快门，\n就能拍出更棒的照片！
+LT_Tips_051_Info	小心别让宝可梦的脸被它的身体\n或周边地形之类的给{color[0000]}遮住{color[ffff]}哦！
+LT_Tips_052_Info	尽量在{color[0000]}相机取景框内{color[ffff]}\n把宝可梦拍得大大的！
+LT_Tips_053_Info	别让宝可梦{color[0000]}超出相机取景框{color[ffff]}，还要留意\n主角的位置，以及不要靠得太近！
+LT_Tips_054_Info	{color[0000]}没有拍到{color[ffff]}宝可梦等{color[0000]}主角{color[ffff]}的照片\n会被视为“{color[0000]}No Data{color[ffff]}”，{color[0000]}无法拿给博士看{color[ffff]}。\n而且还{color[0000]}拿不到得分{color[ffff]}，所以要多加注意！
+LT_Tips_055_Info	使用{color[0000]}缩放{color[ffff]}拍照时，宝可梦会\n{color[0000]}很容易超出取景框{color[ffff]}，要多加注意！
+LT_Tips_056_Info	找找看宝可梦{color[0000]}和同伴在一起时{color[ffff]}\n才会表现出来的行动吧！
+LT_Tips_057_Info	拍摄多只宝可梦时，\n要让画面{color[0000]}保持协调{color[ffff]}哦！
+LT_Tips_058_Info	拍摄多只宝可梦时，\n要注意{color[0000]}别让它们挡住彼此{color[ffff]}！
+LT_Tips_059_Info	{color[0000]}主角以外{color[ffff]}的宝可梦也会影响得分，\n所以记得要尽量都{color[0000]}拍得大大{color[ffff]}的！
+LT_Tips_060_Info	{color[0000]}主角以外{color[ffff]}的宝可梦也会影响得分，\n所以也要留意它们的{color[0000]}姿势{color[ffff]}！
+LT_Tips_061_Info	找找看和宝可梦一起入镜时\n会影响得分的{color[0000]}特别风景{color[ffff]}吧！
+LT_Tips_062_Info	拍摄{color[0000]}特別的风景{color[ffff]}时，\n也要注意{color[0000]}朝向{color[ffff]}！
+LT_Tips_063_Info	{color[0000]}新壹号{color[ffff]}会自动识别路线前进，所以专注在{color[0000]}相机的操作{color[ffff]}上吧。\n移动相机／游标： {[0301|00cd]} {[0302|00cd]}\n缩放：  \n拍摄： {[0303|00cd]}
+LT_Tips_064_Info	使用{color[0000]}搜索{color[ffff]}找出藏起来的宝可梦，\n或{color[0000]}分析{color[ffff]}可疑的地方吧。\n搜索：按下 {[0301|00cd]} 搜索。\n分析：在搜索后将    移动到    上，长按 {[0301|00cd]} 分析。
+LT_Tips_065_Info	把轻苹果丢向宝可梦吧。\n宝可梦也许会{color[0000]}吃下它{color[ffff]}，或被{color[0000]}引导{color[ffff]}到不同的地方。\n轻苹果：用    决定方向后，按下 {[0301|00cd]} 丢出。
+LT_Tips_066_Info	朝着宝可梦或晶奇花丢出去吧。\n说不定会引起{color[0000]}霓光现象{color[ffff]}，发生不寻常的事。\n霓光珠：用    决定方向后，按下 {[0301|00cd]} 丢出。
+LT_Tips_067_Info	朝着宝可梦使用{color[0000]}旋律{color[ffff]}吧。\n宝可梦说不定会{color[0000]}对音乐产生反应{color[ffff]}，做出和平时不同的行动。\n播放旋律：按下 {[0301|00cd]} 播放。\n停止旋律：在旋律播放时按下 {[0301|00cd]} 停止。
+LT_Tips_068_Info	想要快速前进时就使用{color[0000]}提速{color[ffff]}吧。\n{color[0000]}快速前进{color[ffff]}过程中可能会拍到不同以往的照片。\n提速： {[0301|00cd]}
+LT_Tips_069_Info	1：拍下宝可梦，图鉴就能生成页面！\n2：拍到还没填上的{color[0000]}★数的照片{color[ffff]}，集齐{color[0000]}★1～4{color[ffff]}吧！
+LT_Tips_070_Info	1：每条路线都有各自的{color[0000]}调查等级{color[ffff]}。\n2：博士对每条路线给出的评价就是{color[0000]}调查点数{color[ffff]}。\n3：给博士看{color[0000]}各种宝可梦{color[ffff]}，和{color[0000]}还没成功拍到过的★数的照片{color[ffff]}吧！
+LT_Tips_071_Info	1：拍下{color[0000]}许多种类{color[ffff]}的宝可梦吧！\n2：多拍一些{color[0000]}高得分{color[ffff]}的照片吧！
+LT_Tips_072_Info	在{color[0000]}单次调查{color[ffff]}中最多可以拍{color[0000]}72{color[ffff]}张照片。\n除了第一次调查的路线之外，若剩余照片数\n变为{color[0000]}0{color[ffff]}张，{color[0000]}调查就会结束{color[ffff]}。要注意剩余照片数！
+LT_Tips_073_Info	{color[0000]}可以更改{color[ffff]}拍到的照片的标题。\n起一个{color[0000]}中意的标题{color[ffff]}，告诉世界各地的\n好友你拍到了什么样的场景吧！\n“相册”等　＞　选择照片　＞　“标题”
+LT_Tips_074_Info	可以将拍摄的照片保存到{color[0000]}Nintendo Switch的相册{color[ffff]}。\n“相册”　＞　选择照片　＞　“保存到Switch”
+LT_Tips_075_Info	在{color[0000]}蓝蒂尔宝可梦自然科学研究所{color[ffff]}（通称：{color[0000]}研究基地{color[ffff]}）\n有各种各样的宝可梦自由进出。\n{color[0000]}长毛狗{color[ffff]}和{color[0000]}差不多娃娃{color[ffff]}就如同\n和{color[0000]}阿镜博士{color[ffff]}一起生活的{color[0000]}伙伴{color[ffff]}。
+LT_Tips_076_Info	{color[0000]}莉塔{color[ffff]}拍的风景照片。\n氛围和{color[0000]}蓝蒂尔地区{color[ffff]}有些不同，\n不知道这里是什么地方。
 TipsSns_Lines.msbt
 Mis_Stage001_003_01_Head	吃饱睡好的地方
 Mis_Stage001_003_01_Info1	有宝可梦在这附近睡觉。\n要是有其他宝可梦在这里的话，\n说不定它就会出来了。
@@ -7197,68 +7197,68 @@ TU_photo_02	拍一下那只宝可梦吧！\n按  就能拍摄啦！
 TU_photo_03	拍摄时要按  哦！
 TU_photo_04	嗯！感觉不错！
 TU_photo_05	接下来，\n我们动一动相机拍拍看吧。
-TU_photo_06	现在正中间出现的圆形标记\n叫做\x0e\0\x03\x02\0\0游标\x0e\0\x03\x02ÿÿ。
-TU_photo_07	用  移动  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  的话，\n相机也会跟着移动。
+TU_photo_06	现在正中间出现的圆形标记\n叫做{color[0000]}游标{color[ffff]}。
+TU_photo_07	用  移动  {color[0c00]}{color[ffff]}  的话，\n相机也会跟着移动。
 TU_photo_08	你试试看吧！
 TU_photo_09	相机可以朝上下左右移动，\n还能转一圈呢。
-TU_photo_28	另外，也可以倾斜相机，\n用\x0e\0\x03\x02\0\0陀螺仪\x0e\0\x03\x02ÿÿ移动。
+TU_photo_28	另外，也可以倾斜相机，\n用{color[0000]}陀螺仪{color[ffff]}移动。
 TU_photo_10	啊，快看！\n来了只皮卡丘。
-TU_photo_11	这次就来拍一下\n那只\x0e\0\x03\x02\0\0皮卡丘\x0e\0\x03\x02ÿÿ吧！
-TU_photo_12	你先试着移动一下  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  ，\n让它对准皮卡丘。
-TU_photo_13	用  就可以移动  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  。\n试着对准皮卡丘吧。
-TU_photo_14	现在，皮卡丘的周围\n出现了\x0e\0\x03\x02\0\0正方形标记\x0e\0\x03\x02ÿÿ。
-TU_photo_15	你只要记住这个标记\n代表\x0e\0\x03\x02\0\0照片的主角\x0e\0\x03\x02ÿÿ就好啦。
+TU_photo_11	这次就来拍一下\n那只{color[0000]}皮卡丘{color[ffff]}吧！
+TU_photo_12	你先试着移动一下  {color[0c00]}{color[ffff]}  ，\n让它对准皮卡丘。
+TU_photo_13	用  就可以移动  {color[0c00]}{color[ffff]}  。\n试着对准皮卡丘吧。
+TU_photo_14	现在，皮卡丘的周围\n出现了{color[0000]}正方形标记{color[ffff]}。
+TU_photo_15	你只要记住这个标记\n代表{color[0000]}照片的主角{color[ffff]}就好啦。
 TU_photo_16	让博士评价的时候，\n这点可是很重要的哦！
 TU_photo_27	那就拍拍看吧！
 TU_photo_17	嗯！好极了！
 TU_photo_18	不过，离得有点远，\n皮卡丘看起来小小的呢。
-TU_photo_19	像这样的时候，\n可以使用\x0e\0\x03\x02\0\0缩放\x0e\0\x03\x02ÿÿ功能哦。
+TU_photo_19	像这样的时候，\n可以使用{color[0000]}缩放{color[ffff]}功能哦。
 TU_photo_20	只要按住 \n就能够缩放啦。
 TU_photo_21	好了，试着拍张\n大大的皮卡丘吧！
 TU_photo_22	记得要按住  缩放，\n之后按  拍摄哦。
 TU_photo_23	太棒了！\n你看，这次拍得很大吧？
-TU_photo_24	诀窍就是\x0e\0\x03\x02\0\0把全身拍得大大的\x0e\0\x03\x02ÿÿ，\n并且\x0e\0\x03\x02\0\0让位置出现在中间\x0e\0\x03\x02ÿÿ！
+TU_photo_24	诀窍就是{color[0000]}把全身拍得大大的{color[ffff]}，\n并且{color[0000]}让位置出现在中间{color[ffff]}！
 TU_photo_25	很好！操作已经没问题了。\n你还真厉害呢！
-TU_photo_29	啊，如果想调整相机和陀螺仪，\n去\x0e\0\x03\x02\0\0设置菜单\x0e\0\x03\x02ÿÿ就好了！
-TU_photo_30	要记住，调查时按下\x0e\0\x03\x02\0\0暂停菜单\x0e\0\x03\x02ÿÿ\n也可以调整哦！
+TU_photo_29	啊，如果想调整相机和陀螺仪，\n去{color[0000]}设置菜单{color[ffff]}就好了！
+TU_photo_30	要记住，调查时按下{color[0000]}暂停菜单{color[ffff]}\n也可以调整哦！
 TU_photo_26	博士～\n我讲解完啦～
 EB_Tu_01	你已经掌握调查相机的用法了吧？
 EB_Tu_02	那么，现在让我来为\n你拍摄的照片做个评价吧。
-EB_Tu_03	首先，你能从\n\x0e\0\x03\x02\0\0每种宝可梦中各选1张\x0e\0\x03\x02ÿÿ照片吗？
+EB_Tu_03	首先，你能从\n{color[0000]}每种宝可梦中各选1张{color[ffff]}照片吗？
 EB_Tu_04	我会用我制作的\n特殊系统来评价你选的照片。
 EB_Tu_05	选出你觉得拍得不错的照片吧。
 EV_Mot_Tu_01	第一张照片是……
-EV_Mot_Tu_02	首先，评价时最重要的就是要看\n以\x0e\0\x03\x02\0\0★（星星）的数量\x0e\0\x03\x02ÿÿ表示的分类。
+EV_Mot_Tu_02	首先，评价时最重要的就是要看\n以{color[0000]}★（星星）的数量{color[ffff]}表示的分类。
 EV_Mot_Tu_03	这是我为了了解宝可梦的行动\n所设计的机制。
 EV_Mot_Tu_04	★数量少代表平时的举止，\n★数量多代表不常见的举止。
 EV_Mot_Tu_05	就是按照这样去区分的。
 EV_Mot_Tu_06	所有的分类都很重要，\n★的数量并不会影响得分的高低。
 EV_Mot_Tu_07	在判定照片分类的时候，还会用到\n相机中记录的拍摄前后的信息呢。
-EV_Mot_Tu_08	好了，开始评价这次的照片吧。\n首先是“\x0e\0\x03\x02\0\0姿势\x0e\0\x03\x02ÿÿ”。
-EV_Mot_Tu_19	只要抓好\x0e\0\x03\x02\0\0时机\x0e\0\x03\x02ÿÿ拍摄，就能提高得分。
+EV_Mot_Tu_08	好了，开始评价这次的照片吧。\n首先是“{color[0000]}姿势{color[ffff]}”。
+EV_Mot_Tu_19	只要抓好{color[0000]}时机{color[ffff]}拍摄，就能提高得分。
 EV_Mot_Tu_09	再来看看下一个项目吧。
-EV_Mot_Tu_10	“\x0e\0\x03\x02\0\0大小\x0e\0\x03\x02ÿÿ”，顾名思义会根据\n拍到的宝可梦的大小做评价。
-EV_Mot_Tu_11	“\x0e\0\x03\x02\0\0朝向\x0e\0\x03\x02ÿÿ”代表宝可梦的面部朝向。\n尽量从正面拍摄吧。
-EV_Mot_Tu_12	“\x0e\0\x03\x02\0\0位置\x0e\0\x03\x02ÿÿ”代表照片的协调程度。\n最基本的原则就是把宝可梦往中间拍。
-EV_Mot_Tu_13	至于“\x0e\0\x03\x02\0\0其他宝可梦\x0e\0\x03\x02ÿÿ”，只要一起拍到\n其他的宝可梦，就会获取得分。
+EV_Mot_Tu_10	“{color[0000]}大小{color[ffff]}”，顾名思义会根据\n拍到的宝可梦的大小做评价。
+EV_Mot_Tu_11	“{color[0000]}朝向{color[ffff]}”代表宝可梦的面部朝向。\n尽量从正面拍摄吧。
+EV_Mot_Tu_12	“{color[0000]}位置{color[ffff]}”代表照片的协调程度。\n最基本的原则就是把宝可梦往中间拍。
+EV_Mot_Tu_13	至于“{color[0000]}其他宝可梦{color[ffff]}”，只要一起拍到\n其他的宝可梦，就会获取得分。
 EV_Mot_Tu_14	我解释了很多，不过……
 EV_Mot_Tu_15	“让宝可梦位于镜头正中间，\n捕捉到大特写时按下快门。”
 EV_Mot_Tu_16	你只要先注意这一点就够了。
 EV_Mot_Tu_17	那么，按我刚才说的，\n你这次的评价是……
 EV_Mot_Tu_18	太厉害了！\n根本不像是第一次啊。
 EA_Tu_Rlv_01	感觉怎样？
-EA_Tu_Rlv_02	通过反复地拍摄与评价，\n制作只属于你的\x0e\0\x03\x02\0\0宝可梦写真图鉴\x0e\0\x03\x02ÿÿ。
+EA_Tu_Rlv_02	通过反复地拍摄与评价，\n制作只属于你的{color[0000]}宝可梦写真图鉴{color[ffff]}。
 EA_Tu_Rlv_03	这是一个很大的目的。
 EA_Tu_Rlv_05	好，那么时间差不多了，\n出发去冒险吧！
-TU_search_01	\x0e\0\x03\x02\0\0搜索\x0e\0\x03\x02ÿÿ的操作很简单。\n你只要按  就好啦。
+TU_search_01	{color[0000]}搜索{color[ffff]}的操作很简单。\n你只要按  就好啦。
 TU_search_02	试试看吧！
 TU_search_03	按  搜索哦。
 TU_search_04	宝可梦的名字显示出来了吧？
-TU_search_06	另外你注意到出现了  \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  标志吗？
+TU_search_06	另外你注意到出现了  {color[0b00]}{color[ffff]}  标志吗？
 TU_search_07	这个标志意味着你\n“能更详细地调查”。
-TU_search_08	先将  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  对准\n \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  试试看。
-TU_search_09	用  移动  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  ，\n对准  \x0e\0\x03\x02\x0b\0\x0e\0\x03\x02ÿÿ  试试看。
-TU_search_10	你看，  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  的形状变了吧？
+TU_search_08	先将  {color[0c00]}{color[ffff]}  对准\n {color[0b00]}{color[ffff]}  试试看。
+TU_search_09	用  移动  {color[0c00]}{color[ffff]}  ，\n对准  {color[0b00]}{color[ffff]}  试试看。
+TU_search_10	你看，  {color[0c00]}{color[ffff]}  的形状变了吧？
 TU_search_11	继续长按 \n相机就会开始分析了。
 TU_search_12	试试看吧。
 TU_search_13	长按  就能分析哦。
@@ -7273,10 +7273,10 @@ TU_search_21	有时宝可梦会注意到\n搜索时发出的声音和电波。
 TU_search_22	如果它们看了过来，\n那就是按下快门的好时机啦。
 TU_search_23	不过博士说，\n运气好才能碰到就是了。
 TU_search_24	好，应该没问题了！
-TU_food_01	\x0e\0\x03\x02\0\0轻苹果\x0e\0\x03\x02ÿÿ可以按  丢出去哦。\n试试看吧！
+TU_food_01	{color[0000]}轻苹果{color[ffff]}可以按  丢出去哦。\n试试看吧！
 TU_food_02	试着按  ，\n向宝可梦丢出轻苹果吧。
 TU_food_03	你看，它过来吃了。\n大家可喜欢这个了。
-TU_food_04	移动  \x0e\0\x03\x02\x0c\0\x0e\0\x03\x02ÿÿ  就能把轻苹果\n丢到你想丢去的地方。
+TU_food_04	移动  {color[0c00]}{color[ffff]}  就能把轻苹果\n丢到你想丢去的地方。
 TU_food_05	这和相机的操作方式一样。
 TU_food_06	用  决定方向，按  丢出去。\n这就是基本操作。
 TU_food_07	我们再试一次吧！
@@ -7289,7 +7289,7 @@ TU_food_13	好！练习到此为止。
 TU_food_16	别忘了我刚刚说的话哦。
 Tutorial_UI.msbt
 Tutorial_Button_Operation01_Info	在教学过程中，\n将以初始设置的按键进行说明。
-Tutorial_PhotoSubmit_Operation08_Info	选择“\x0e\0\x03\x02\0\0皮卡丘\x0e\0\x03\x02ÿÿ”的文件夹看看吧。
-Tutorial_PhotoSubmit_Operation01_Info	接下来，选择“\x0e\0\x03\x02\0\0彩粉蝶\x0e\0\x03\x02ÿÿ”的文件夹看看吧。
-Tutorial_PhotoSubmit_Operation06_Info	用 \x0e\0\x03\x02\0\0 \x0e\0\x03\x02ÿÿ 或者\x0e\0\x03\x02\0\0游标\x0e\0\x03\x02ÿÿ\n就可以选择照片哦。\n如果想要给我看的照片\n已经决定好了，就按 \x0e\0\x03\x02\0\0\x0e\0\x03\x02ÿÿ 吧。
-Tutorial_PhotoSubmit_Operation07_Info	按下 \x0e\0\x03\x02\0\0\x0e\0\x03\x02ÿÿ 或“\x0e\0\x03\x02\0\0交给博士看\x0e\0\x03\x02ÿÿ”，\n就会开始对照片做评价哦！
+Tutorial_PhotoSubmit_Operation08_Info	选择“{color[0000]}皮卡丘{color[ffff]}”的文件夹看看吧。
+Tutorial_PhotoSubmit_Operation01_Info	接下来，选择“{color[0000]}彩粉蝶{color[ffff]}”的文件夹看看吧。
+Tutorial_PhotoSubmit_Operation06_Info	用 {color[0000]} {color[ffff]} 或者{color[0000]}游标{color[ffff]}\n就可以选择照片哦。\n如果想要给我看的照片\n已经决定好了，就按 {color[0000]}{color[ffff]} 吧。
+Tutorial_PhotoSubmit_Operation07_Info	按下 {color[0000]}{color[ffff]} 或“{color[0000]}交给博士看{color[ffff]}”，\n就会开始对照片做评价哦！

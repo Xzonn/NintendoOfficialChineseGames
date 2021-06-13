@@ -1,0 +1,166 @@
+message.msbt
+title	Super Mario Bros. 35
+bg_001	Game Start
+bg_002	OK
+bg_004	Close
+bg_005	Main Menu
+bg_006	Surprise Me
+bg_007	Cancel
+bg_008	OK
+bg_009	Spectate
+bg_010	Rematch
+bg_011	Results
+bg_012	Rankings
+bg_013	Change Tabs
+bg_014	Change Stats
+bg_015	Change Week
+bg_016	Results Graph
+bg_017	Change
+bg_018	Back
+bg_019	Continue
+bg_020	Retry
+bg_021	Change Course
+bg_022	Repeat Course
+me_010	35-Player Battle
+me_011	Special Battle
+me_012	Course Practice
+me_013	Stats
+me_014	Options
+me_015	Coin Ranking
+me_016	Daily Challenges
+me_100	Up Next
+me_101	Starting
+me_102	 
+me_110	Active Now
+me_111	Until
+me_112	 
+me_120	Level
+me_121	MAX
+me_130	Icons
+me_131	Select an icon.
+me_132	NEW
+me_140	This Special Battle has now concluded.\nCheck back soon for a new Special Battle!\n\nWhat is a Special Battle?\n・ It's a limited-time event where you play\na set order of courses.\n・ The structure is like a regular 35-Player\nBattle but with added special conditions,\nsuch as starting with 100 coins.
+me_141	Participation in online matches may result in\nyour nickname and game stats being shared\nwithin the game or through promotional activity.
+me_142	A new Special Battle is now available!\n\nWhat is a Special Battle?\n・ It's a limited-time event where you play\na set order of courses.\n・ The structure is like a regular 35-Player\nBattle but with added special conditions,\nsuch as starting with 100 coins.
+ba_001	Select a course.
+ba_002	Matching...
+ba_003	Here we go...
+ba_010	Lowest Time
+ba_011	Most Coins
+ba_012	Attackers
+ba_013	Random
+ba_020	COURSE
+ba_024	Player
+ba_025	Level
+ba_026	Coins Collected
+ba_028	New Icon!
+ba_029	KOs
+ba_030	KOs
+ba_041	Ranking
+ba_042	Stat
+ba_043	Results
+ba_044	Coins Collected
+ba_045	Rank Bonus
+ba_046	Small Mario Bonus
+ba_047	Time Played
+ba_048	Distance Traveled
+ba_049	Jumps Jumped
+ba_050	Items Used
+ba_051	Enemies Stomped 
+ba_052	Best Streak: Continuous Stomps
+ba_053	Enemies Defeated
+ba_054	Courses Cleared
+ba_055	Enemies Sent
+ba_056	Enemies Received
+ba_060	(Spectating)
+ba_062	You can now access Coin Ranking from\nthe main menu!\n\nWhat is Coin Ranking?\n・ It's a competition that tracks the highest\nnumber of collected coins in each battle.\n・ These rankings will be reset at the start\nof each new period.
+st_001	Level
+st_002	Records
+st_003	Enemies Beaten
+st_004	Recent Results
+st_020	Total Time Played
+st_021	Courses Played
+st_022	Highest Ranking
+st_023	First-Place Wins
+st_024	All-Time Coins Collected
+st_025	Most Coins Collected
+st_026	All-Time KOs
+st_027	Most KOs
+st_028	Coins Collected via KOs
+st_029	All-Time Jumps
+st_030	All-Time Distance Traveled
+st_031	Greatest Distance Traveled
+st_032	All-Time Enemies Defeated
+st_033	Most Enemies Defeated
+st_034	Best Streak: Continuous Enemy Defeats
+st_035	Best Streak: Single-Shell Defeats
+st_036	Best Streak: Single Super Star Defeats
+st_037	Blocks Broken
+st_038	? Blocks Hit
+st_039	Items Used
+st_040	Super Mushrooms Acquired
+st_041	Fire Flowers Acquired
+st_042	Super Stars Acquired
+st_043	POW Blocks Used
+st_044	1-Up Mushrooms Acquired
+st_045	Most Players Targeting You
+st_100	Ranking
+st_101	KOs
+st_102	Average Ranking
+st_103	Average KOs
+op_001	Controls Setup
+op_002	Movement
+op_003	Buttons
+op_004	Run
+op_005	Jump
+cr_001	Level
+cr_009	Prev.
+cr_010	Next
+cr_011	Active Now
+cr_012	Your Ranking
+cr_013	Grade
+cr_014	S
+cr_015	A
+cr_016	B
+cr_017	C
+cr_018	D
+cr_019	E
+cr_020	No Data
+cr_021	Ranking
+cr_022	Player
+cr_023	Level
+cr_024	Most Coins
+cr_025	Overall Grade
+cr_026	A new Coin Ranking has begun!\n\n*It may take some time for your game\nresults to be reflected.
+cr_028	No Rank
+cr_100	Coin Ranking
+cr_101	Top Players
+cr_102	Results Graph
+dm_001	Daily Challenges
+dm_002	New challenges begin daily at 12:00 a.m.
+dm_003	Completed!
+dm_050	Defeat 20 enemies in 35-Player Battle. 
+dm_051	Use Item Roulette once in 35-Player Battle. 
+dm_052	Clear 30 courses in 35-Player Battle. 
+dm_053	Target and send enemies to "Attackers" 10 times \nin 35-Player Battle. 
+dm_054	Stomp on three enemies continuously in \n35-Player Battle. 
+dm_055	Collect 500 coins in 35-Player Battle. 
+dm_056	Clear four courses in 35-Player Battle. 
+dm_057	Use two Super Stars in a single 35-Player Battle. 
+dm_058	Use shells to defeat 30 enemies in \n35-Player Battle. 
+dm_059	Rank in the Top 20 in 35-Player Battle. 
+dm_060	Clear four courses in a single 35-Player Battle. 
+dm_061	Use the Item Roulette 10 times in 35-Player Battle. 
+dm_062	Use a shell to defeat three enemies in a row \nin 35-Player Battle. 
+dm_063	Rank in the Top 15 two times in 35-Player Battle. 
+dm_064	Stomp 30 enemies in 35-Player Battle. 
+dm_065	Use a Super Star to defeat 10 enemies in a row \nin 35-Player Battle. 
+dm_066	Use a Mushroom or Fire Flower three times \nin 35-Player Battle. 
+dm_067	Rank in the Top 15 five times in 35-Player Battle. 
+dm_068	Clear two courses in a single 35-Player Battle. 
+dm_069	Target and send enemies to "Lowest Time" 30 times \nin a single 35-Player Battle. 
+dm_070	Defeat 200 enemies in 35-Player Battle. 
+ti_001	MONTH(2)/DAY(2), HOUR(2):MIN(2)
+ti_002	 – 
+demical_point	.
+er_001	A communication error has occurred.\nReturning to the main menu.

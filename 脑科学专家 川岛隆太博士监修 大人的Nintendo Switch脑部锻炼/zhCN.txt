@@ -1,0 +1,2039 @@
+common_Kawashima.msbt
+Button_Back	返回
+Button_Cancel	中止
+Button_01	确定
+Button_02	取消
+Button_05	左
+Button_06	右
+Button_07	1个月
+Button_08	1周
+Button_09	继续
+Button_10	结束
+Button_11	继续开始
+Button_12	从最初开始
+Button_13	可用
+Button_14	不可用
+Button_15	使用
+Button_16	不使用
+Button_17	确定
+Button_18	修改
+Button_19	总是相同的笔画数
+Button_20	每次都不一样
+Button_21	参加
+Button_22	稍后
+Button_23	确认
+Button_24	稍后
+Button_25	发送
+Button_26	不发送
+Button_27	可以
+Button_28	不行
+Button_29	解锁
+Button_30	靠自己解锁
+Button_31	查看闹钟
+Button_32	稍后
+Button_33	查看详情
+Button_34	稍后
+Button_35	1笔
+Button_36	2笔
+Advance_03	下一步
+Advance_05	确定
+Result_Best	{color[ff0c00ff]}记录有了大幅度地提高{color[000000ff]}！\n我好感动！
+Result_Better	记录在稳步{color[ff0c00ff]}提高{color[000000ff]}呢！
+Result_Keep	{color[ff0c00ff]}维持现状{color[000000ff]}呢。\n这样很不错。
+Result_Keep_MAX	{color[ff0c00ff]}维持现状{color[000000ff]}呢。\n太棒了！
+Result_Bad	{color[ff0c00ff]}没关系！{color[000000ff]}锻炼能为你\n打下坚实的基础。
+Result_Worst	{color[ff0c00ff]}成绩是次要的{color[000000ff]}。\n锻炼才是最重要的。
+Result_First	下次争取超过\n这个记录吧！
+Result_First_MAX	下次也争取维持\n这个记录吧！
+Result_Worst2Best	太棒了！\n状态恢复了呢！
+Result_Worst2Better	恢复过来了呢！\n继续加油吧！
+Result_Worst2Keep	维持现状呢。这样的话，\n你可以向着更高的目标努力呢。
+Result_Bad2Bad	疲劳的状态好像还没有解除，\n不过坚持就是胜利！
+Result_Better2Better	太棒了！\n记录在不断提高呢！
+Result_Keep2Keep	一直很稳定呢。\n就这样保持下去吧！
+Result_Relax	充分放松了吗？
+Result_Stamp	那么，按下印章吧。
+Result_ReStamp	那么，重新按下印章吧。
+Result_Calc25_01	根据你的计算速度，\n向你推荐“计算100”哦！
+Result_Calc25_02	它可能有助于让大脑更活性化。
+Result_Sudoku_Failure_01	打起精神，\n下次加油吧。
+Result_Sudoku_Failure_02	如果需要建议的话……
+Result_Sudoku_Failure_03	请按开始前的\n画面中的{color[ff0c00ff]}“ｉ”键{color[000000ff]}。
+Result_Sudoku_Failure_04	会对与场景{color[ff0c00ff]}难度{color[000000ff]}相关的\n{color[ff0c00ff]}技巧{color[000000ff]}进行说明哦。
+Result_Sudoku_Clear	恭喜过关！\n干得漂亮！
+BAC_Info_01	在这里会根据随机选出的\n{color[ff0c00ff]}3项测验{color[000000ff]}来计算你的脑年龄。
+BAC_Info_03	详情请查看\n“{color[ff0c00ff]}脑年龄检查的原理{color[000000ff]}”。
+BAC_Info	将根据随机选出的{color[ff0c00ff]}3项测验\n{color[000000ff]}来测量你的脑年龄。
+BAC_Info_check01	通过3项测验来对你的{color[ff0c00ff]}抑制力{color[000000ff]}、\n{color[ff0c00ff]}处理速度{color[000000ff]}与{color[ff0c00ff]}短期记忆{color[000000ff]}进行评价……
+BAC_Info_check02	并根据其结果，\n算出你{color[ff0c00ff]}现在的脑年龄{color[000000ff]}。
+BAC_attention_01	脑年龄检查{color[ff0c00ff]}每天{color[000000ff]}只能\n留下{color[ff0c00ff]}1次{color[000000ff]}记录。
+BAC_Question_01	在脑年龄检查开始前\n我想问一下……
+BAC_Question_02	现在你可以使用{color[ff0c00ff]}Joy-Con(R){color[000000ff]}吗？
+BAC_First	最初是\n{color[ff0c00ff]}“{[010d]}”{color[000000ff]}。
+BAC_Next	接下来是\n{color[ff0c00ff]}“{[010d]}”{color[000000ff]}。
+BAC_Last	最后是\n{color[ff0c00ff]}“{[010d]}”{color[000000ff]}。
+BAC_Test_Janken	将对{color[ff0c00ff]}抑制（忍耐）力\n{color[000000ff]}进行评价。
+BAC_Test_WordMemory	将对{color[ff0c00ff]}短期记忆力\n{color[000000ff]}进行评价。
+BAC_Test_Keisan25	将对{color[ff0c00ff]}信息处理速度\n{color[000000ff]}进行评价。
+BAC_ResultJoke_01	嗯～你的大脑\n好像很疲劳呢……
+BAC_ResultJoke_02	……嗯？
+BAC_ResultJoke_03	啊，{color[ff0c00ff]}脑年龄计算错了{color[000000ff]}！\n不好意思。
+BAC_ResultJoke_04	这个才是正确的结果！
+BrainAge_Result_Last_00	你实际的年龄是\n{color[ff0c00ff]}{[0110]}岁{color[000000ff]}吧。
+BrainAge_Result_Last_00j	与你实际的年龄相同呢。
+BAC_Start	那么，让我们开始吧。
+BrainAge_Result	辛苦了。将计算你的脑年龄，\n其中{color[ff0c00ff]}以20岁为佳{color[000000ff]}。
+BrainAge_Result_01	{color[ff0c00ff]}了不起{color[000000ff]}！\n你的脑年龄无可挑剔！
+BrainAge_Result_01_02	请时刻{color[ff0c00ff]}保持{color[000000ff]}这个状态吧！
+BrainAge_Result_02	你的脑年龄非常{color[ff0c00ff]}理想{color[000000ff]}。\n太棒了！
+BrainAge_Result_02_02	继续加油，\n{color[ff0c00ff]}保持{color[000000ff]}这个状态吧。
+BrainAge_Result_03	你的脑年龄{color[ff0c00ff]}很不错{color[000000ff]}呢。\n这样的话……
+BrainAge_Result_03_02	你可以向着\n{color[ff0c00ff]}更高的目标{color[000000ff]}努力呢。
+BrainAge_Result_04	你的脑年龄很不错。\n不过……
+BrainAge_Result_04_02	要不要试着不满足于现状，\n向更高的目标努力呢？
+BrainAge_Result_05	你的脑年龄保持着\n很不错的状态呢。不过……
+BrainAge_Result_05_02	可不要大意哦。
+BrainAge_Result_06	脑年龄还算不错，\n但希望你能{color[ff0c00ff]}更加把劲{color[000000ff]}呢。
+BrainAge_Result_06_02	{color[ff0c00ff]}不过不用担心{color[000000ff]}。\n很快就能提高上去的。
+BrainAge_Result_07	嗯～你的脑年龄\n感觉{color[ff0c00ff]}有所欠缺{color[000000ff]}呢。
+BrainAge_Result_07_02	不过你{color[ff0c00ff]}可以继续努力的{color[000000ff]}。
+BrainAge_Result_08	你的脑年龄有点令人担心呢……
+BrainAge_Result_08_02	推荐你可以试着带给大脑\n一些新鲜的刺激哦。
+BrainAge_Result_08_03	向着更高的目标努力吧。
+BrainAge_Result_09	需要{color[ff0c00ff]}注意{color[000000ff]}哦。\n你的脑年龄正处于紧急状态。
+BrainAge_Result_09_02	不过没关系。\n还有{color[ff0c00ff]}挽救的余地{color[000000ff]}。
+BrainAge_Result_10	哎呀，你的脑年龄\n正处于{color[ff0c00ff]}严重的状态{color[000000ff]}哦！
+BrainAge_Result_10_02	不过，不要灰心。
+BrainAge_Result_10_03	反过来想，接下来等待着你的\n就只有提升了！
+BrainAge_Result_Chart	让我们分别来看看{color[ff0c00ff]}抑制力{color[000000ff]}、\n{color[ff0c00ff]}处理速度{color[000000ff]}与{color[ff0c00ff]}短期记忆{color[000000ff]}的结果吧。
+Sudoku_HintMode01	要使用{color[ff0c00ff]}辅助功能{color[000000ff]}吗？\n每个方格都将显示正确答案。
+Sudoku_Resume01	要从之前{color[ff0c00ff]}中断{color[000000ff]}的地方\n{color[ff0c00ff]}继续开始{color[000000ff]}吗？
+Greet_Special_01	{color[ff0c00ff]}生日快乐{color[000000ff]}！\n你{[010e]}岁了呢！
+Greet_Special_02	明天是你的{color[ff0c00ff]}生日{color[000000ff]}呢！
+Greet_Special_03	{color[ff0c00ff]}新年快乐！{color[000000ff]}
+Greet_Special_04	{color[ff0c00ff]}圣诞快乐！{color[000000ff]}
+Greet_Special_05	不好意思，\n今天是我的{color[ff0c00ff]}生日{color[000000ff]}哦。
+Greet_Special_05_02	今天我就{[010f]}岁了呢。
+Greet_Special_05_03	哎呀～真不好意思。
+Greet_Special_06	嗨！
+Greet_Special_06_02	♪我的大脑好棒棒\n♪你的大脑真棒棒
+Greet_Special_06_03	我已经放弃大脑的研究，\n成为一名脑科学的说唱歌手了！
+Greet_Special_06_03w	…………………………
+Greet_Special_06_04	开玩笑的啦！\n这只是愚人节的一个玩笑！
+Greet_Special_06_05	哎呀～思考说唱的内容\n也是一种大脑的锻炼呢！
+Greet_Time_01	早上好。\n太阳好耀眼呢！
+Greet_Time_02	{[0111]}，你好！
+Greet_Time_03	辛苦了！\n夕阳好美丽呢……
+Greet_Time_04	{[0111]}，晚上好！
+Greet_Time_05	晚上好！\n尽量不要熬夜哦！
+Greet_Time_06	{[0111]}，晚上好！
+Greet_Time_06_02	我稍微改变了一下主意，\n试着用手电筒照了一下。
+Greet_Season_01	阿嚏！
+Greet_Season_01_02	好多花粉呢。
+Greet_Season_02	哎呀～\n今天好热呢。
+Greet_Season_03	开始变冷了呢。
+Greet_Season_04	外面好冷呢。\n眼镜上都起雾了。
+Greet_Freq_01	我们又见面了呢。
+Greet_Freq_New	今天是第{[0107]}天了呢。
+Greet_Freq_02	今天也有在努力呢！
+Greet_Freq_03	2天没见了呢。\n我一直在等你。
+Greet_Freq_04	3天没见了呢。\n我一直在等你。
+Greet_Freq_05	4天没见了呢。\n我一直在等你。
+Greet_Freq_06	5天没见了呢。\n我一直在等你。
+Greet_Freq_07	6天没见了呢。\n我一直在等你。
+Greet_Freq_08	一周没见了呢。\n我就知道你会来的。
+Greet_Freq_09	两周没见了呢。\n我好想你。
+Greet_Freq_10	三周没见了呢。\n我好想你。
+Greet_Freq_11	一个月没见了呢。\n我好想你。
+Greet_Freq_12	好久不见了呢。\n你还好吗？
+Greet_Freq_13	你经常锻炼到很晚呢。
+Greet_Freq_13_02	锻炼大脑很好，\n但也要保重身体。
+Greet_Freq_14	你经常在晚上锻炼呢。
+Greet_Freq_14_02	锻炼大脑很重要，\n但也要保重身体。
+Greet_Freq_15	你经常在同一个时间锻炼呢。
+Greet_Freq_15_02	看来你养成了锻炼的习惯呢。
+Greet_Aniv3_01	今天是{color[ff0c00ff]}锻炼的第3天{color[000000ff]}。\n就这样继续下去吧。
+Greet_Aniv10_01	今天是{color[ff0c00ff]}锻炼的第10天{color[000000ff]}。\n进展很顺利呢。
+Greet_Aniv10_02	凡事先定一个小目标，\n做起来就比较容易了。
+Greet_Aniv10_03	接下来以持续锻炼\n30天为目标吧！
+Greet_Aniv30_01	今天是{color[ff0c00ff]}锻炼的第30天{color[000000ff]}。\n真是非常棒的持续力！
+Greet_Aniv30_02	“持续就是力量”！\n但是……
+Greet_Aniv30_03	不能仅以持续为目的。
+Greet_Aniv30_04	需要自己来改善方法，\n让自己变得不同。
+Greet_Aniv30_05	为了能让自己持续下去，\n不断摸索也是很重要的。
+Greet_Aniv100_01	其实今天是\n{color[ff0c00ff]}锻炼的第100天{color[000000ff]}！
+Greet_Aniv100_02	果然持续就是力量呢！\n我很钦佩。
+Greet_Aniv100_03	今后也请务必\n持续进行锻炼。
+Greet_Aniv365_01	其实……
+Greet_Aniv365_02	今天是{color[ff0c00ff]}锻炼的第365天{color[000000ff]}！
+Greet_Aniv365_03	恭喜恭喜！\n你真的是太棒了！
+Greet_Aniv365_04	我觉得只要持续锻炼大脑，\n每天的生活也会变得充实。
+Greet_Aniv365_05	今后也请务必\n持续进行锻炼吧。
+Greet_BA_Reset_01	啊，对了……
+Greet_BA_Reset_02	距上次的脑年龄检查\n已经过了{color[ff0c00ff]}1周{color[000000ff]}了……
+Greet_BA_Reset_03	脑年龄已经被重置了。\n请再测量一下看看吧。
+System_Virus_00_01	这个{color[ff0c00ff]}“细菌扑灭”\n{color[000000ff]}不是锻炼……
+System_Virus_00_02	它可能有助于\n让前额叶得到放松。
+System_Virus_01	只有在按下印章后，\n才可以选择{color[ff0c00ff]}“细菌扑灭”{color[000000ff]}。
+System_Virus_02	要从之前{color[ff0c00ff]}中断{color[000000ff]}的地方\n{color[ff0c00ff]}继续开始{color[000000ff]}吗？
+System_Virus_03	已保存的中断数据\n将会消失，可以吗？
+System_AlreadyPlayed	此锻炼今天已经\n{color[ff0c00ff]}记录过了{color[000000ff]}。
+System_AlreadyPlayed_01	今天已经{color[ff0c00ff]}锻炼过了{color[000000ff]}。\n还没有按下印章。
+System_AlreadyPlayed_02	均衡地进行锻炼吧。
+System_3times_01	你努力了呢。\n我想大脑已经得到了充分的锻炼。
+System_6times_01	你好好努力了呢。\n我想大脑已经得到了充分的锻炼。
+System_9times_01	你非常努力了呢。\n我想大脑已经得到了充分的锻炼。
+System_3times_02	今天的锻炼\n就到此结束吧。
+System_3times_03	今天一天也辛苦了。\n那么，明天见。
+System_IR_Start	请选择{color[ff0c00ff]}要使用哪只手{color[000000ff]}。
+System_nBackSymbol_Restart	将从最初重新开始游戏。\n准备好了吗？
+Unlock_01_01	由于印章数为{color[ff0c00ff]}1个{color[000000ff]}……
+Unlock_01_02	因此可以选择\n{color[ff0c00ff]}“细菌扑灭”{color[000000ff]}了。
+Unlock_01_03	这个{color[ff0c00ff]}“细菌扑灭”\n{color[000000ff]}不是锻炼……
+Unlock_01_04	它可能有助于\n让大脑得到{color[ff0c00ff]}放松{color[000000ff]}。
+Unlock_01_05	所以，只有在当天\n{color[ff0c00ff]}按下印章后{color[000000ff]}才可以游玩。
+Unlock_02_01	由于印章数为{color[ff0c00ff]}5个{color[000000ff]}……
+Unlock_02_02	因此追加了新的锻炼\n{color[ff0c00ff]}“手指体操”{color[000000ff]}。
+Unlock_02_03	请加油吧！
+Unlock_02_04	要进行此锻炼\n需要使用{color[ff0c00ff]}Joy-Con(R){color[000000ff]}。
+Unlock_03_01	由于印章数为{color[ff0c00ff]}7个{color[000000ff]}……
+Unlock_03_02	因此追加了新的锻炼\n{color[ff0c00ff]}“计算100”{color[000000ff]}。
+Unlock_03_03	请加油吧！
+Unlock_04_01	由于印章数为{color[ff0c00ff]}9个{color[000000ff]}……
+Unlock_04_02	因此追加了新的锻炼\n{color[ff0c00ff]}“数人数”{color[000000ff]}。
+Unlock_04_03	请加油吧！
+Unlock_05_01	由于印章数为{color[ff0c00ff]}11个{color[000000ff]}……
+Unlock_05_02	因此追加了新的锻炼\n{color[ff0c00ff]}“瞬间记忆”{color[000000ff]}。
+Unlock_05_03	请加油吧！
+Unlock_06_01	由于印章数为{color[ff0c00ff]}3个{color[000000ff]}……
+Unlock_06_02	因此追加了新的锻炼\n{color[ff0c00ff]}“前刻照片”{color[000000ff]}。
+Unlock_06_03	请加油吧！
+Unlock_10_01	由于印章数为{color[ff0c00ff]}2个{color[000000ff]}……
+Unlock_10_02	因此追加了新的锻炼\n{color[ff0c00ff]}“双重课题”{color[000000ff]}。
+Unlock_10_03	请加油吧！
+Unlock_SudokuEX_01	由于解开了数字拼图“中级”中的\n{color[ff0c00ff]}20道{color[000000ff]}问题……
+Unlock_SudokuEX_02	因此可以游玩\n{color[ff0c00ff]}“高级”{color[000000ff]}的问题了。
+Unlock_SudokuEX_03	请加油吧！
+Unlock_Complete_01	这样一来，{color[ff0c00ff]}所有的锻炼{color[000000ff]}和……
+Unlock_Complete_02	{color[ff0c00ff]}所有的功能{color[000000ff]}就都能使用了。
+Unlock_Complete_03	但是，接下来请\n持续进行锻炼哦。
+Tutorial_Keisan25_01	请{color[ff0c00ff]}尽可能快地{color[000000ff]}写出\n{color[ff0c00ff]}计算问题{color[000000ff]}的答案。
+Tutorial_Keisan25_02	点触{color[ff0c00ff]}橡皮标记{color[000000ff]}就能重写。
+Tutorial_Janken_01	这是对着Joy-Con(R)的\n动作感应IR摄像头{color[ff0c00ff]}使出手势{color[000000ff]}的{color[ff0c00ff]}猜拳{color[000000ff]}。
+Tutorial_Janken_02	请根据画面的指示，\n{color[ff0c00ff]}尽可能快地{color[000000ff]}……
+Tutorial_Janken_03	{color[ff0c00ff]}使出“石头”{color[000000ff]}、{color[ff0c00ff]}“剪刀”{color[000000ff]}、\n{color[ff0c00ff]}“布”{color[000000ff]}中的一种。
+Tutorial_Janken_03_02	分出胜负后，请先{color[ff0c00ff]}举手{color[000000ff]}，\n然后再使出下个手势。
+Tutorial_Janken_04	不仅要使出{color[ff0c00ff]}能赢的手势{color[000000ff]}……
+Tutorial_Janken_05	还需要使出{color[ff0c00ff]}会输的手势{color[000000ff]}，\n敬请注意。
+Tutorial_IRcommon_01	使出手势时，请将{color[ff0c00ff]}手掌对准{color[000000ff]}\n动作感应IR摄像头。
+Tutorial_IRcommon_02	如果将指尖对着动作感应IR摄像头，\n将会{color[ff0c00ff]}无法{color[000000ff]}很好地{color[ff0c00ff]}识别{color[000000ff]}，敬请注意。
+Tutorial_IRcommon_03	注意手与动作感应IR摄像头的{color[ff0c00ff]}距离{color[000000ff]}\n不要太近，也不要太远。
+Tutorial_IRcommon_04	最好是让手{color[ff0c00ff]}正好能映照{color[000000ff]}在\n动作感应IR摄像头的画面中。
+Tutorial_IRcommon_05	{color[ff0c00ff]}手以外的东西{color[000000ff]}被拍到的话，\n有时可能会被误认。
+Tutorial_NumberMemory_01	请在{color[ff0c00ff]}2分钟内尽可能快地{color[000000ff]}\n记住25个{color[ff0c00ff]}数字及其场所{color[000000ff]}。
+Tutorial_NumberMemory_02	之后的{color[ff0c00ff]}2分钟{color[000000ff]}内，\n写出所记住的数字。
+Tutorial_NumberMemory_03	请先{color[ff0c00ff]}点触记住的场所{color[000000ff]}，\n然后写出数字。
+Tutorial_Counting_01	当倒计时结束后，
+Tutorial_Counting_02	请尽可能快地\n大声地{color[ff0c00ff]}从1数到120{color[000000ff]}。
+Tutorial_Counting_03	请务必{color[ff0c00ff]}发出声音{color[000000ff]}。
+Tutorial_Counting_04	数完后，请点触{color[ff0c00ff]}“已数完”{color[000000ff]}。
+Tutorial_MTMTest_01	请按Ａ→１→Ｂ→２→…→Ｍ→13\n这样的顺序……
+Tutorial_MTMTest_02	尽可能快地将文字\n{color[ff0c00ff]}连线{color[000000ff]}起来吧。
+Tutorial_MTMTest_03	请注意不要碰到\n目标之外的文字。
+Tutorial_MaxNumber_01	请在显示的数字中，\n{color[ff0c00ff]}点触数值最大的数字{color[000000ff]}。
+Tutorial_MaxNumber_02	请注意字越大，\n并{color[ff0c00ff]}不代表{color[000000ff]}数字越大。
+Tutorial_SerialSubtract_01	请用画面上方\n显示的数字……
+Tutorial_SerialSubtract_02	{color[ff0c00ff]}减去{color[000000ff]}所给出数字，\n并在框内写出答案。
+Tutorial_SerialSubtract_03	请尽{color[ff0c00ff]}可能快地\n连续{color[000000ff]}进行运算。
+Tutorial_SerialSubtract_04	由于写好的答案\n会被不断地涂掉……
+Tutorial_SerialSubtract_05	当忘记被涂掉的数字时，\n就{color[ff0c00ff]}点触“再试一次”{color[000000ff]}吧。
+Tutorial_FingerGymnastics_01	这是对着Joy-Con(R)的\n动作感应IR摄像头\n{color[ff0c00ff]}使出手势{color[000000ff]}的{color[ff0c00ff]}手指体操{color[000000ff]}。
+Tutorial_FingerGymnastics_02	请{color[ff0c00ff]}尽可能快地依次{color[000000ff]}模仿\n画面中排列的手势。
+Tutorial_FingerGymnastics_03	在手指体操中，{color[ff0c00ff]}伸出手后{color[000000ff]}就这样\n直接更改手势回答就可以。
+Tutorial_BirdCounting_01	这是{color[ff0c00ff]}2人各持有1个Joy-Con{color[000000ff]}，\n{color[ff0c00ff]}进行比赛{color[000000ff]}的锻炼。
+Tutorial_BirdCounting_02	请{color[ff0c00ff]}尽可能快地数出{color[000000ff]}\n画面中鸟的数量。
+Tutorial_BirdCounting_03	注意画面中可能还会出现\n一些{color[ff0c00ff]}鸟以外的东西{color[000000ff]}。
+Tutorial_BirdCounting_04	会提出一些问题，\n{color[ff0c00ff]}快速答对{color[000000ff]}的一方获胜。
+Tutorial_BoxCounting_01	这是{color[ff0c00ff]}2人各持有1个Joy-Con{color[000000ff]}，\n{color[ff0c00ff]}进行比赛{color[000000ff]}的锻炼。
+Tutorial_BoxCounting_02	在倒计时结束后……
+Tutorial_BoxCounting_03	箱子会短暂地显示，\n请记住{color[ff0c00ff]}箱子的数量{color[000000ff]}。
+Tutorial_BoxCounting_04	箱子消失后，请快速且正确地\n回答{color[ff0c00ff]}箱子的数量{color[000000ff]}。
+Tutorial_BoxCounting_05	会提出一些问题，\n{color[ff0c00ff]}快速答对{color[000000ff]}的一方获胜。
+Tutorial_FlagUp_01	这是{color[ff0c00ff]}2人各持有1个Joy-Con{color[000000ff]}，\n{color[ff0c00ff]}进行比赛{color[000000ff]}的锻炼。
+Tutorial_FlagUp_02	请记住示例中的\n{color[ff0c00ff]}旗子的挥动方式{color[000000ff]}。
+Tutorial_FlagUp_03	之后，请{color[ff0c00ff]}与示例一样\n{color[000000ff]}挥动旗子。
+Tutorial_FlagUp_04	会提出一些问题，\n{color[ff0c00ff]}答对数多{color[000000ff]}的一方获胜。
+Tutorial_FlagUp_05	示例中挥动旗子的次数\n{color[ff0c00ff]}会逐渐增多{color[000000ff]}。
+Tutorial_Yubikeisan_01	这是对着Joy-Con(R)的\n动作感应IR摄像头\n{color[ff0c00ff]}使出手势{color[000000ff]}回答的计算问题。
+Tutorial_Yubikeisan_02	请计算{color[ff0c00ff]}手指的数量{color[000000ff]}……
+Tutorial_Yubikeisan_03	并{color[ff0c00ff]}尽可能快地{color[000000ff]}使用\n0到5的手势进行回答。
+Tutorial_Yubikeisan_04	在手指计算中，{color[ff0c00ff]}伸出手后{color[000000ff]}就这样\n直接更改手势回答就可以。
+Tutorial_ImageMemory_01	请记住最初显示的照片……
+Tutorial_ImageMemory_02	并根据画面的指示\n{color[ff0c00ff]}依次点触照片{color[000000ff]}。
+Tutorial_HumanCounting_01	房里有人进进出出……
+Tutorial_HumanCounting_02	请回答最后{color[ff0c00ff]}房子里有几人{color[000000ff]}。
+Tutorial_FlashKioku_01	倒计时结束后，\n在{color[ff0c00ff]}方框{color[000000ff]}的位置……
+Tutorial_FlashKioku_02	会{color[ff0c00ff]}短暂{color[000000ff]}地显示数字。
+Tutorial_FlashKioku_03	当方框显示后，\n请按{color[ff0c00ff]}从小到大{color[000000ff]}的顺序点触数字。
+Tutorial_DualTaskJump_01	这是同时进行\n{color[ff0c00ff]}2项课题{color[000000ff]}的锻炼。
+Tutorial_DualTaskJump_02	请在{color[ff0c00ff]}起跳{color[000000ff]}跨栏的{color[ff0c00ff]}同时{color[000000ff]}，\n点触{color[ff0c00ff]}数值最大的数字{color[000000ff]}。
+Tutorial_DualTaskJump_03	请注意字越大，\n并{color[ff0c00ff]}不代表{color[000000ff]}数字越大。
+Tutorial_Doctor_01	欢迎来到{color[ff0c00ff]}“细菌扑灭”{color[000000ff]}。
+Tutorial_Doctor_02	这个{color[ff0c00ff]}“细菌扑灭”\n{color[000000ff]}并{color[ff0c00ff]}不是{color[000000ff]}锻炼。
+Tutorial_Doctor_03	它无法让{color[ff0c00ff]}前额叶{color[000000ff]}活性化……
+Tutorial_Doctor_04	反而可能有助于\n让大脑得到{color[ff0c00ff]}放松{color[000000ff]}。
+Tutorial_Doctor_05	建议你在进行其他锻炼后，\n或者入睡前游玩它。
+Tutorial_Doctor_07	我来说明一下规则吧。
+Tutorial_Doctor_08	请点触操作不断\n扔进来的{color[ff0c00ff]}药丸{color[000000ff]}。
+Tutorial_Doctor_09	{color[ff0c00ff]}药丸{color[000000ff]}并可以通过\n{color[ff0c00ff]}点住{color[000000ff]}来{color[ff0c00ff]}移动{color[000000ff]}。
+Tutorial_Doctor_10	如果只进行{color[ff0c00ff]}点触{color[000000ff]}，\n就可以{color[ff0c00ff]}旋转{color[000000ff]}药丸。
+Tutorial_Doctor_11	当有{color[ff0c00ff]}4个相同颜色{color[000000ff]}的物体\n排列在{color[ff0c00ff]}纵向{color[000000ff]}或{color[ff0c00ff]}横向{color[000000ff]}上时，\n它们就会{color[ff0c00ff]}消除{color[000000ff]}……
+Tutorial_Doctor_12	请{color[ff0c00ff]}消灭所有的细菌{color[000000ff]}。
+Tutorial_Doctor_13	如果{color[ff0c00ff]}药丸{color[000000ff]}堆积到\n{color[ff0c00ff]}最上方{color[000000ff]}就会{color[ff0c00ff]}失败{color[000000ff]}。
+Tutorial_Sudoku_01	{color[ff0c00ff]}“数字拼图”{color[000000ff]}是用{color[ff0c00ff]}1～9的数字\n{color[000000ff]}填补空格的解谜游戏。
+Tutorial_Sudoku_02	填补数字的规则有3种。
+Tutorial_Sudoku_03	第1种是在{color[ff0c00ff]}纵向{color[000000ff]}上的9个方格里，\n{color[ff0c00ff]}不要放入相同的数字{color[000000ff]}。
+Tutorial_Sudoku_04	第2种是在{color[ff0c00ff]}横向{color[000000ff]}上的9个方格里，\n{color[ff0c00ff]}也不要放入相同的数字{color[000000ff]}。
+Tutorial_Sudoku_05	第3种是在由粗线围成的\n{color[ff0c00ff]}3×3的方格{color[000000ff]}里，\n{color[ff0c00ff]}也不要放入相同的数字{color[000000ff]}。
+Tutorial_Sudoku_06	满足这{color[ff0c00ff]}3个条件{color[000000ff]}，\n并将所有方格填满就算过关。
+Tutorial_Sudoku_07	接下来，是{color[ff0c00ff]}操作方法{color[000000ff]}的说明。
+Tutorial_Sudoku_08	请通过点触{color[ff0c00ff]}指定{color[000000ff]}\n想要写入数字的方格……
+Tutorial_Sudoku_09	然后在画面下方的\n{color[ff0c00ff]}输入栏{color[000000ff]}中写入数字，\n并按“确定”键。
+Tutorial_Sudoku_10	如果点触{color[ff0c00ff]}“备注”{color[000000ff]}旁边的数字，\n就能以小数字来做备注。
+Tutorial_Sudoku_11	1个方格中最多可以写入\n9个数字作为备注。
+Tutorial_Sudoku_12	点触{color[ff0c00ff]}箭头键{color[000000ff]}就可以\n回到上一步的状态。
+Tutorial_Sudoku_13	中途退出时，\n请点触{color[ff0c00ff]}“中断”{color[000000ff]}键。
+Tutorial_Sudoku_14	今后，可以接着上次\n退出的地方继续开始。
+Tips1_Sudoku_01	将为你介绍求解\n数字拼图的{color[ff0c00ff]}初级技巧{color[000000ff]}。
+Tips1_Sudoku_02	基本的思考方式有2种。
+Tips1_Sudoku_03	“{color[ff0c00ff]}此数字\n只能填入这个方格{color[000000ff]}”
+Tips1_Sudoku_04	“{color[ff0c00ff]}此方格\n只能填入这个数字{color[000000ff]}”
+Tips1_Sudoku_05	……也就是寻找这样的地方。
+Tips1_Sudoku_06	让我们一边解题\n一边试试看吧。
+Tips1_Sudoku_07	刚开始的话，\n我建议先观察{color[ff0c00ff]}某一个数字{color[000000ff]}……
+Tips1_Sudoku_08	“{color[ff0c00ff]}此数字\n只能填入这个方格{color[000000ff]}”
+Tips1_Sudoku_09	……然后寻找这样的地方。
+Tips1_Sudoku_10	先来观察{color[ff0c00ff]}1{color[000000ff]}吧。
+Tips1_Sudoku_11	通过3×3的{color[ff0c00ff]}大方格{color[000000ff]}\n来纵观整体……
+Tips1_Sudoku_12	能够填入1的方格\n就只有{color[ff0c00ff]}1处地方{color[000000ff]}，对吧？
+Tips1_Sudoku_13	让我们从{color[ff0c00ff]}左下{color[000000ff]}的\n大方格开始看吧。
+Tips1_Sudoku_14	因为对于{color[ff0c00ff]}A{color[000000ff]}方格来说，\n不管是在纵向还是横向上，\n都已经有1了……
+Tips1_Sudoku_15	所以在这个大方格中，\n能填1的地方就只有这里了呢。
+Tips1_Sudoku_16	接下来，对于{color[ff0c00ff]}中间{color[000000ff]}的大方格也一样，\n只有这个方格才能填1。
+Tips1_Sudoku_17	对于{color[ff0c00ff]}右侧中间{color[000000ff]}的大方格，\n由于刚才填入的1……
+Tips1_Sudoku_18	所以能填1的只有这个方格。
+Tips1_Sudoku_19	像这样，之前填入的数字\n也会成为其他方格的{color[ff0c00ff]}提示{color[000000ff]}。
+Tips1_Sudoku_20	同样的，{color[ff0c00ff]}右上及左上方{color[000000ff]}的\n大方格里的1也可以确定下来了。
+Tips1_Sudoku_21	这样一来，能填{color[ff0c00ff]}1{color[000000ff]}的方格\n就全部确定好了。
+Tips1_Sudoku_22	接下来，让我们来看{color[ff0c00ff]}2{color[000000ff]}吧。
+Tips1_Sudoku_23	使用和之前一样的方法，\n首先可以确定这2个地方。
+Tips1_Sudoku_24	但是，在{color[ff0c00ff]}左侧中间{color[000000ff]}的大方格中……
+Tips1_Sudoku_25	我们还无法确定\n{color[ff0c00ff]}A{color[000000ff]}、{color[ff0c00ff]}B{color[000000ff]}中哪个填入2。
+Tips1_Sudoku_26	{color[ff0c00ff]}左下{color[000000ff]}的大方格也一样。
+Tips1_Sudoku_27	这种时候，我们就先来\n看看其他数字，\n{color[ff0c00ff]}之后{color[000000ff]}再去考虑它吧。
+Tips1_Sudoku_28	依次查看3～9的数字后，\n这些方格就可以确定了。
+Tips1_Sudoku_29	这时我们再去重新看下\n之前暂时搁置的数字……
+Tips1_Sudoku_30	由于空白的方格所剩不多，\n所以这次就……
+Tips1_Sudoku_31	“{color[ff0c00ff]}此方格\n只能填入这个数字{color[000000ff]}”
+Tips1_Sudoku_32	……寻找这样的地方吧。
+Tips1_Sudoku_33	由于{color[ff0c00ff]}A{color[000000ff]}方格在{color[ff0c00ff]}横列{color[000000ff]}上，\n除{color[ff0c00ff]}4{color[000000ff]}以外所有的数字都齐了……
+Tips1_Sudoku_34	所以这里就是{color[ff0c00ff]}4{color[000000ff]}了。
+Tips1_Sudoku_35	对于{color[ff0c00ff]}B{color[000000ff]}方格来说，只从{color[ff0c00ff]}横列{color[000000ff]}上看，\n可以填入{color[ff0c00ff]}6{color[000000ff]}或{color[ff0c00ff]}8{color[000000ff]}……
+Tips1_Sudoku_36	但由于{color[ff0c00ff]}竖列{color[000000ff]}上已经有{color[ff0c00ff]}8{color[000000ff]}了……
+Tips1_Sudoku_37	所以这里就是{color[ff0c00ff]}6{color[000000ff]}了。
+Tips1_Sudoku_38	只要重复使用\n这些方法……
+Tips1_Sudoku_39	最终填完所有的方格，\n数字拼图就{color[ff0c00ff]}完成了！！{color[000000ff]}
+Tips1_Sudoku_40	怎么样？\n很简单吧。
+Tips1_Sudoku_41	可以通过{color[ff0c00ff]}练习问题{color[000000ff]}来复习一下\n我刚说明过的技巧。
+Tips1_Sudoku_42	请务必来尝试一下。
+Tips2_Sudoku_01	当题目变得越来越难时……
+Tips2_Sudoku_02	就会出现一些仅靠初级技巧\n无法解决的题目。
+Tips2_Sudoku_03	这次，一边解答此题，\n一边介绍{color[ff0c00ff]}中级技巧{color[000000ff]}吧。
+Tips2_Sudoku_04	与初级的时候一样，\n先观察{color[ff0c00ff]}1个数字{color[000000ff]}……
+Tips2_Sudoku_05	然后在每个{color[ff0c00ff]}大方格{color[000000ff]}中寻找\n“{color[ff0c00ff]}此数字只能填入这里{color[000000ff]}”的方格。
+Tips2_Sudoku_06	那就先从{color[ff0c00ff]}1{color[000000ff]}开始。
+Tips2_Sudoku_07	……看来，不管是哪个大方格，\n都无法确定1填在哪里呢。
+Tips2_Sudoku_08	这时候，就要改变一下\n思考方式了。
+Tips2_Sudoku_09	是不是有1{color[ff0c00ff]}列{color[000000ff]}\n能够填入1呢？
+Tips2_Sudoku_10	注意看{color[ff0c00ff]}最左边{color[000000ff]}的那竖列。
+Tips2_Sudoku_11	对于{color[ff0c00ff]}A{color[000000ff]}方格来说，\n由于在同一个大方格\n以及横列中已经有1了……
+Tips2_Sudoku_12	所以在这列中，\n能填{color[ff0c00ff]}1{color[000000ff]}的地方就只有这里。
+Tips2_Sudoku_13	也有观察{color[ff0c00ff]}大方格\n{color[000000ff]}找出1的方法。
+Tips2_Sudoku_14	在{color[ff0c00ff]}左侧中间{color[000000ff]}的大方格中，\n能填1的应该就是{color[ff0c00ff]}B{color[000000ff]}中的某个。
+Tips2_Sudoku_15	这样的话，在{color[ff0c00ff]}左上方{color[000000ff]}的大方格中，\n与B同列的{color[ff0c00ff]}C{color[000000ff]}就无法填1了。
+Tips2_Sudoku_16	而且，通过确认横竖相同的列中\n是否有1，我们就能得知……
+Tips2_Sudoku_17	在{color[ff0c00ff]}这个大方格{color[000000ff]}中，\n只有这里才能填入1。
+Tips2_Sudoku_18	像这样……
+Tips2_Sudoku_19	当可能可以填入某数字的方格\n存在于{color[ff0c00ff]}大方格中{color[000000ff]}的{color[ff0c00ff]}某一列{color[000000ff]}时……
+Tips2_Sudoku_20	先去看一下其他大方格中的数字，\n或者能从中找到{color[ff0c00ff]}提示{color[000000ff]}。
+Tips2_Sudoku_21	那么，填入1后，其他几个\n大方格中的1也就确定了。
+Tips2_Sudoku_22	接下来是2。首先{color[ff0c00ff]}左下方{color[000000ff]}的\n大方格比较简单。
+Tips2_Sudoku_23	在{color[ff0c00ff]}中间上方{color[000000ff]}的大方格中，\n由于能填2的{color[ff0c00ff]}A{color[000000ff]}中的某一个……
+Tips2_Sudoku_24	所以在{color[ff0c00ff]}右上方{color[000000ff]}的大方格中，\n{color[ff0c00ff]}B{color[000000ff]}就无法填入2了。
+Tips2_Sudoku_25	对于{color[ff0c00ff]}右侧中间{color[000000ff]}的大方格来说也一样，\n由于能填2的是{color[ff0c00ff]}C{color[000000ff]}中的某一个……
+Tips2_Sudoku_26	所以在{color[ff0c00ff]}右上方{color[000000ff]}的大方格中，\n{color[ff0c00ff]}D{color[000000ff]}就无法填入2了。
+Tips2_Sudoku_27	这样一来，在{color[ff0c00ff]}右上方{color[000000ff]}的大方格中，\n能填入2的方格就确定了。
+Tips2_Sudoku_28	像这样将{color[ff0c00ff]}部分确定的结果\n{color[000000ff]}综合起来考虑……
+Tips2_Sudoku_29	就能找出利用初级方法\n也无法找到的数字了。
+Tips2_Sudoku_30	……那么，让我们继续吧。\n接下来是{color[ff0c00ff]}3{color[000000ff]}。
+Tips2_Sudoku_31	这2个3可以立刻就找到。
+Tips2_Sudoku_32	{color[ff0c00ff]}左侧中间{color[000000ff]}的大方格中的3\n应该是{color[ff0c00ff]}A{color[000000ff]}或{color[ff0c00ff]}B{color[000000ff]}中的某个。
+Tips2_Sudoku_33	同样，{color[ff0c00ff]}右侧中间{color[000000ff]}的大方格中的3\n是{color[ff0c00ff]}C{color[000000ff]}或{color[ff0c00ff]}D{color[000000ff]}中的某个。
+Tips2_Sudoku_34	由于{color[ff0c00ff]}A{color[000000ff]}是3，那{color[ff0c00ff]}D{color[000000ff]}就是3。\n{color[ff0c00ff]}B{color[000000ff]}是3的话，{color[ff0c00ff]}C{color[000000ff]}就是3的关系，
+Tips2_Sudoku_35	所以不管怎样，\n{color[ff0c00ff]}中间{color[000000ff]}大方格中的{color[ff0c00ff]}E{color[000000ff]}都不可能是3。
+Tips2_Sudoku_36	也就是说，{color[ff0c00ff]}中间{color[000000ff]}大方格中的{color[ff0c00ff]}3{color[000000ff]}\n可以确定是这个方格了。
+Tips2_Sudoku_37	像这样，如果能填入某数字的方格\n{color[ff0c00ff]}只存在于大方格的2列中{color[000000ff]}……
+Tips2_Sudoku_38	而且在其他{color[ff0c00ff]}大方格中\n也存在着相同的2列{color[000000ff]}，\n这就可以作为{color[ff0c00ff]}提示{color[000000ff]}来用。
+Tips2_Sudoku_39	也可以通过观察列\n来找出这种模式。
+Tips2_Sudoku_40	接下来，就可以使用\n前面的技巧来解题了。
+Tips2_Sudoku_41	此技巧还可用来求解\n一些无需使用它的问题。
+Tips2_Sudoku_42	它可以{color[ff0c00ff]}大幅提高{color[000000ff]}解题的{color[ff0c00ff]}速度{color[000000ff]}，\n所以请务必{color[ff0c00ff]}掌握{color[000000ff]}它吧。
+Tips3_Sudoku_01	终于要开始介绍\n{color[ff0c00ff]}高级技巧{color[000000ff]}了。
+Tips3_Sudoku_02	只要掌握该技巧，\n就能解开几乎所有的问题。
+Tips3_Sudoku_03	这次，一边解答此题，\n一边介绍吧。
+Tips3_Sudoku_04	使用初级、中级的技巧，\n可以填满这些方格。
+Tips3_Sudoku_05	……但是，接下来就无法靠\n{color[ff0c00ff]}之前的方法{color[000000ff]}来求解了。
+Tips3_Sudoku_06	这时候！
+Tips3_Sudoku_07	我们来看看{color[ff0c00ff]}剩余的空白方格里\n都可以填入哪些数字{color[000000ff]}吧。
+Tips3_Sudoku_08	使用{color[ff0c00ff]}备注功能{color[000000ff]}，\n将可能的结果记录下来吧。
+Tips3_Sudoku_09	……那么，先检查\n上方3列的空白方格。
+Tips3_Sudoku_10	并记录下哪些{color[ff0c00ff]}数字还没有\n填入{color[000000ff]}相同的列或大方格中。
+Tips3_Sudoku_11	其实依靠现有的信息，\n已经可以确定这些{color[ff0c00ff]}3{color[000000ff]}了……
+Tips3_Sudoku_12	而且用来实现这一步的方法\n也不止一种。
+Tips3_Sudoku_13	这里，就来说明一下\n4种相关的方法吧。
+Tips3_Sudoku_14	第1种是在介绍中级技巧时\n已说明过的方法。
+Tips3_Sudoku_15	让我们观察{color[ff0c00ff]}上方中间{color[000000ff]}的\n大方格吧。
+Tips3_Sudoku_16	由于从上数{color[ff0c00ff]}第3横列{color[000000ff]}的\n某个方格中一定要填入{color[ff0c00ff]}5{color[000000ff]}……
+Tips3_Sudoku_17	所以同列中的这个方格里\n就{color[ff0c00ff]}不可能{color[000000ff]}填入{color[ff0c00ff]}5{color[000000ff]}了。
+Tips3_Sudoku_18	同样的，这个方格中\n也无法填入{color[ff0c00ff]}7{color[000000ff]}。
+Tips3_Sudoku_19	这样一来，左上方的\n方格里的{color[ff0c00ff]}3{color[000000ff]}就确定了。
+Tips3_Sudoku_20	虽然一个数字一个数字地看\n无法找到答案……
+Tips3_Sudoku_21	但如果像这样把方格中\n可填入的{color[ff0c00ff]}数字一个个排除{color[000000ff]}的话……
+Tips3_Sudoku_22	有些方格中{color[ff0c00ff]}可填入的数字\n就会只剩下一个{color[000000ff]}了。
+Tips3_Sudoku_23	接着是第2种方法。\n请观察这{color[ff0c00ff]}2个格子{color[000000ff]}。
+Tips3_Sudoku_24	不管是{color[ff0c00ff]}右上方的大方格{color[000000ff]}，\n还是{color[ff0c00ff]}从上数第3横列{color[000000ff]}……
+Tips3_Sudoku_25	{color[ff0c00ff]}1{color[000000ff]}和{color[ff0c00ff]}2{color[000000ff]}就只能填入\n这2个方格中。
+Tips3_Sudoku_26	由于这2个方格一个是{color[ff0c00ff]}1{color[000000ff]}，\n一个是{color[ff0c00ff]}2{color[000000ff]}……
+Tips3_Sudoku_27	所有不管怎样，\n都不可能填入{color[ff0c00ff]}3{color[000000ff]}。
+Tips3_Sudoku_28	这样一来，右上方的\n大方格中的{color[ff0c00ff]}3{color[000000ff]}就确定了。\n接着左上方的方格也确定了。
+Tips3_Sudoku_29	像这样，{color[ff0c00ff]}可填入2个数字的\n方格只有2个{color[000000ff]}时……
+Tips3_Sudoku_30	那么就能得知，这2个方格\n{color[ff0c00ff]}无法填入其他的数字{color[000000ff]}。
+Tips3_Sudoku_30_02	有时也会出现{color[ff0c00ff]}3个方格{color[000000ff]}中\n可以{color[ff0c00ff]}填入3个数字{color[000000ff]}的情况。
+Tips3_Sudoku_31	第3种方法的话，\n我们先要来做一下准备……
+Tips3_Sudoku_32	先来想想在{color[ff0c00ff]}右侧中间{color[000000ff]}的大方格中\n可以填入{color[ff0c00ff]}5{color[000000ff]}的地方吧。
+Tips3_Sudoku_33	那么，与第1种方法相同，\n可以得知这里不是{color[ff0c00ff]}5{color[000000ff]}。
+Tips3_Sudoku_34	这样一来，就能确定\n这2个方格不是填{color[ff0c00ff]}6{color[000000ff]}就是填{color[ff0c00ff]}9{color[000000ff]}……
+Tips3_Sudoku_35	然后这个方格填{color[ff0c00ff]}6{color[000000ff]}和{color[ff0c00ff]}9{color[000000ff]}以外的数字……\n也就是说，可以确定是填{color[ff0c00ff]}5{color[000000ff]}了。
+Tips3_Sudoku_36	那么，这个方格由于已经\n无法填{color[ff0c00ff]}5{color[000000ff]}了，所以就是{color[ff0c00ff]}3{color[000000ff]}。
+Tips3_Sudoku_36_02	同样的，这里的{color[ff0c00ff]}3{color[000000ff]}\n也能确定下来了。
+Tips3_Sudoku_37	这里进一步运用了\n第2种方法。
+Tips3_Sudoku_38	当{color[ff0c00ff]}2个方格中可填入的\n数字相同且只有2个{color[000000ff]}时……
+Tips3_Sudoku_39	那么在包含这2个方格的大方格或\n列中就{color[ff0c00ff]}无法填入这些数字{color[000000ff]}。
+Tips3_Sudoku_40	最后是第4种方法。\n请观察这{color[ff0c00ff]}3个格子{color[000000ff]}。
+Tips3_Sudoku_41	先不要去管怎样组合，\n这些格子能填入的是\n{color[ff0c00ff]}5{color[000000ff]}、{color[ff0c00ff]}6{color[000000ff]}、{color[ff0c00ff]}9{color[000000ff]}这些数字。
+Tips3_Sudoku_42	这样一来，在{color[ff0c00ff]}相同大方格{color[000000ff]}的这里\n就无法填入{color[ff0c00ff]}5{color[000000ff]}、{color[ff0c00ff]}6{color[000000ff]}、{color[ff0c00ff]}9{color[000000ff]}了。
+Tips3_Sudoku_43	所以，{color[ff0c00ff]}3{color[000000ff]}就能确定下来了。
+Tips3_Sudoku_44	这和第3种方法一样，\n但有{color[ff0c00ff]}3个方格{color[000000ff]}和{color[ff0c00ff]}3个数字{color[000000ff]}。
+Tips3_Sudoku_45	感觉怎么样？
+Tips3_Sudoku_46	对于比较困难的题目，\n有时需要{color[ff0c00ff]}同时{color[000000ff]}考虑\n{color[ff0c00ff]}多个数字和方格{color[000000ff]}。
+Tips3_Sudoku_48	……那么，只要这个3能确定下来，\n接下来就容易多了。
+Tips3_Sudoku_49	到目前为止，虽然我们已经\n见过了很多种技巧……
+Tips3_Sudoku_50	但这也不是\n数字拼图的全部解法。
+Tips3_Sudoku_51	{color[ff0c00ff]}寻找属于自己的解法{color[000000ff]}\n也是玩解谜游戏的乐趣之一。
+Tips3_Sudoku_52	请挑战各种题目，\n让自己变得更加熟练吧！！
+Setting_DominantHand	你要{color[ff0c00ff]}使用哪只手{color[000000ff]}\n书写文字？
+Setting_DominantHand_01	请倒过来握持\nNintendo Switch主机。
+Setting_Calendar	要在菜单画面中\n显示哪种日历？
+Setting_5Recognition_01	写“{color[ff0c00ff]}5{color[000000ff]}”时的{color[ff0c00ff]}笔画数{color[000000ff]}一直都相同吗？\n还是每次都不一样呢？
+Setting_5Recognition_02	写“5”时是{color[ff0c00ff]}1笔{color[000000ff]}？\n还是{color[ff0c00ff]}2笔{color[000000ff]}呢？
+Setting_5Recognition_03	我已让系统变得\n能更容易识别了。
+Setting_5Recognition_04	那么，就设置为“{color[ff0c00ff]}标准{color[000000ff]}”。
+First_Left_01	是左手吗！
+First_Left_02	有研究结果表明，惯用左手的人，\n由于左右两边的大脑\n都可以用来控制运动……
+First_Left_03	所以比惯用右手的人\n更适合体育运动。
+First_Left_04	说起来，所谓大脑……
+First_Left_05	……哎呀，一说起大脑的事情\n我就停不下来呢。\n我们还是接着往下进行吧。
+First_Left_06	虽然有点麻烦，\n请倒过来握持……
+First_Left_07	Nintendo Switch主机。
+First_02_01	啊，在{color[ff0c00ff]}脑年龄检查{color[000000ff]}开始前，\n我想请问一件事……
+First_02_02	在接下来开始的\n{color[ff0c00ff]}猜拳{color[000000ff]}测验中……
+First_02_03	需要使用“{color[ff0c00ff]}手{color[000000ff]}”来回答题目。\n你现在可以使用{color[ff0c00ff]}Joy-Con(R){color[000000ff]}吗？
+First_02_04	那么，需要{color[ff0c00ff]}手写{color[000000ff]}答案的\n计算测验即将开始。
+First_02_20	这次将要进行的测验是\n{color[ff0c00ff]}“{[010d]}”{color[000000ff]}。
+First_03_01	为了记录脑年龄检查\n以及锻炼的结果……
+First_03_02	我制作了你专用的\n{color[ff0c00ff]}“个人数据”{color[000000ff]}。
+First_03_03	请告诉我\n{color[ff0c00ff]}你的出生年月日{color[000000ff]}。
+First_03_Confirm	{color[ff0c00ff]}{b}年{[0106]}月{[0107]}日{color[000000ff]}，\n这样可以吗？
+First_03_Confirm_02	接下来将无法更改。\n是{color[ff0c00ff]}{b}年{[0106]}月{[0107]}日{color[000000ff]}，对吧？
+First_U20_01	对于{color[ff0c00ff]}不到20岁{color[000000ff]}的你来说……
+First_U20_02	请将这次测验中的脑年龄\n看做是一个{color[ff0c00ff]}大致目标{color[000000ff]}吧。
+First_U20_03	因为你正处于大脑拥有\n许多可能性的时期……
+First_U20_04	接下来也请在生活中\n{color[ff0c00ff]}有意识地{color[000000ff]}运用大脑吧。
+First_afterBAC_01	顺便说一下，\n由于这次{color[ff0c00ff]}并非{color[000000ff]}正式的测验，\n所以不会留下记录。
+First_afterBAC_02	在{color[ff0c00ff]}正式{color[000000ff]}的测量中，\n将能看到更详细的结果。
+First_01_01	{[0111]}，\n很高兴认识你！
+First_01_02	我是川岛隆太。\n在东北大学里进行{color[ff0c00ff]}大脑{color[000000ff]}的研究。
+First_01_02_02	请多指教！
+First_01_03	大脑的功能在过了\n{color[ff0c00ff]}20岁{color[000000ff]}这条分水岭后，\n便会不断地降低。
+First_01_04	有没有觉得自己最近\n越来越健忘了？
+First_01_05	或者想不出别人的名字\n或要写的汉字？
+First_01_06	又或者无法忍耐，\n变得易怒……
+First_01_07	等等这些情况呢？
+First_01_08	你的{color[ff0c00ff]}大脑{color[000000ff]}没有问题吧？
+First_01_09	那么先来测验一下\n你现在的{color[ff0c00ff]}脑年龄{color[000000ff]}吧。
+First_01_10	将会使用从20几岁到70几岁的\n被实验者那里收集到的数据，
+First_01_11	算出你的成绩与哪个\n年龄层次的成绩比较接近。
+First_04_01	当代社会里充满了文明的利器，\n使我们的生活变得{color[ff0c00ff]}“轻松便利”{color[000000ff]}。
+First_04_02	但是，“轻松便利”也意味着\n{color[ff0c00ff]}无需使用大脑以及身体{color[000000ff]}。
+First_04_03	那么，我们会在哪些\n事情上使用大脑呢……
+First_04_04	我使用能将大脑活动{color[ff0c00ff]}图像化{color[000000ff]}的\n最新机器进行了一下测量。
+First_04_05	请看这个大脑的照片。
+First_04_06	这是正在{color[ff0c00ff]}思考事情{color[000000ff]}时的大脑。
+First_04_07	左脑的前额叶\n只有极少的部分在运作。
+First_04_08	这是正在看{color[ff0c00ff]}电视节目{color[000000ff]}的大脑。
+First_04_09	只有观看物体的枕叶及\n听取声音的颞叶……
+First_04_10	在左右两边的大脑中运作着。
+First_04_11	而这是快速解答\n{color[ff0c00ff]}简单计算问题{color[000000ff]}时的大脑。
+First_04_12	我们可以看到左右两边大脑中的\n{color[ff0c00ff]}很多地方{color[000000ff]}都在活跃地运作。
+First_04_13	在正在{color[ff0c00ff]}朗读{color[000000ff]}的大脑中……
+First_04_14	左右两边大脑中的\n{color[ff0c00ff]}很多地方{color[000000ff]}都在运作。
+First_04_15	在这款软件中，\n基于这些研究制作的，
+First_04_16	其中又以{color[ff0c00ff]}简单计算{color[000000ff]}\n为代表的这些锻炼项目，
+First_04_17	都可能有助于让大脑中\n运作最频繁的……
+First_04_18	{color[ff0c00ff]}前额叶{color[000000ff]}的活性化得以提高。
+First_04_19	此软件仅收录了……
+First_04_20	对前额叶进行{color[ff0c00ff]}测量{color[000000ff]}，\n并{color[ff0c00ff]}确认到活性化{color[000000ff]}的锻炼项目。
+First_04_21	另外，我们之前也和此软件一样，
+First_04_22	让32名年轻人以及32名老年人\n（每个对照组16名）……
+First_04_23	在4周内每次15分钟，每周共5次地\n游玩能有助{color[ff0c00ff]}前额叶{color[000000ff]}活性化的
+First_04_24	{color[ff0c00ff]}Nintendo DS版{color[000000ff]}的\n“大人的DS脑部锻炼”。
+First_04_25	然后，游玩脑锻炼的那组……
+First_04_26	大脑的{color[ff0c00ff]}执行功能{color[000000ff]}与\n{color[ff0c00ff]}处理速度{color[000000ff]}都有了提高。
+First_04_27	我们得到了这样的验证结果。\n(Nouchi et al., 2013)
+First_04_28	所以，作为同样是以\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}为目的\n而制作的本软件……
+First_04_29	可能也有助于\n提高大脑的功能。
+First_04_30	那么，接下来就与我一起\n持续进行{color[ff0c00ff]}锻炼{color[000000ff]}吧！
+Training_effect_01	“计算25”可能有助于让\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_01_02	以及提高\n{color[ff0c00ff]}大脑的综合能力{color[000000ff]}。
+Training_effect_03	“数字拼图”可能有助于\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}。
+Training_effect_04	“手指计算”可能有助于\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_04_02	以及提高\n{color[ff0c00ff]}大脑的处理速度{color[000000ff]}。
+Training_effect_05	“手指体操”可能有助于\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_05_02	以及提高\n{color[ff0c00ff]}大脑的处理速度{color[000000ff]}。
+Training_effect_06	“前刻照片”可能有助于\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_06_02	以及提高{color[ff0c00ff]}记忆力{color[000000ff]}。
+Training_effect_09	“计算100”可能有助于让\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_09_02	以及提高\n{color[ff0c00ff]}大脑的综合能力{color[000000ff]}。
+Training_effect_10	“数人数”可能有助于让\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_10_02	以及提高\n{color[ff0c00ff]}记忆力{color[000000ff]}和{color[ff0c00ff]}集中力{color[000000ff]}。
+Training_effect_11	“瞬间记忆”可能有助于让\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}……
+Training_effect_11_02	以及提高{color[ff0c00ff]}记忆力{color[000000ff]}。
+TipsB_Start	那么，我来讲一个\n{color[ff0c00ff]}关于大脑的小知识{color[000000ff]}。
+TipsB_2_22_01	进行交谈时，
+TipsB_2_22_02	“{color[ff0c00ff]}最好是看着对方的眼睛交谈{color[000000ff]}”。\n(Jeong et al., 2011)
+TipsB_2_22_03	这样可能有助于提高\n沟通能力以及让大脑{color[ff0c00ff]}活性化{color[000000ff]}。
+TipsB_2_54_01	如果有机会\n去参加{color[ff0c00ff]}聚会{color[000000ff]}……
+TipsB_2_54_02	试着在喧闹的环境中\n聚精会神地……
+TipsB_2_54_03	{color[ff0c00ff]}只听你想要听的那个人的声音{color[000000ff]}吧。\n(Holdgraf et al., 2016)
+TipsB_2_54_05	这可能有助于前额叶的{color[ff0c00ff]}活性化{color[000000ff]}。
+TipsB_2_29_01	使用{color[ff0c00ff]}刀具{color[000000ff]}制作料理，\n{color[ff0c00ff]}前额叶{color[000000ff]}就会{color[ff0c00ff]}活性化{color[000000ff]}。
+TipsB_2_29_02	……存在着这样的验证结果。
+TipsB_2_29_03	可能是因为伴随着危险，\n所以需要将{color[ff0c00ff]}注意力{color[000000ff]}集中到手指上。
+TipsB_2_29_04	然而使用削皮工具的话，\n前额叶基本不会活动。
+TipsB_2_29_05	……得到了这样的结果。
+TipsB_2_29_06	或许多花一些{color[ff0c00ff]}工夫{color[000000ff]}\n能让大脑{color[ff0c00ff]}活性化{color[000000ff]}……
+TipsB_2_29_07	也会让料理变得更美味。
+TipsB_2_48_01	你能演奏什么{color[ff0c00ff]}乐器{color[000000ff]}吗？
+TipsB_2_48_02	{color[ff0c00ff]}演奏{color[000000ff]}可能有助于\n前额叶的活性化。
+TipsB_2_48_03	现在，即使你不会演奏，\n也试着作为兴趣尝试一下如何？
+TipsB_2_48_04	虽然练习时可能会\n影响到周围的人。
+TipsB_2_40_01	将你在路上{color[ff0c00ff]}看到的{color[000000ff]}\n汽车车牌号码等{color[ff0c00ff]}数字{color[000000ff]}……
+TipsB_2_40_02	进行{color[ff0c00ff]}“加减乘除”{color[000000ff]}，\n并将答案变为{color[ff0c00ff]}1{color[000000ff]}吧。
+TipsB_2_40_03	计算数字可能有助于\n大脑的活性化。
+TipsB_2_38_01	在开始工作学习前……
+TipsB_2_38_02	先花2，3分钟给这天的\n安排定个{color[ff0c00ff]}优先顺序{color[000000ff]}吧。
+TipsB_2_38_03	我认为这可能也有助于\n{color[ff0c00ff]}大脑的活性化{color[000000ff]}。
+TipsB_2_24_01	努力工作与学习后……
+TipsB_2_24_02	看会电视或玩会视频游戏\n来让前额叶{color[ff0c00ff]}放松{color[000000ff]}一下吧。
+TipsB_2_24_03	让前额叶得到休息\n可能有助于提高效率。
+TipsB_2_33_01	我认为给予大脑{color[ff0c00ff]}刺激{color[000000ff]}\n能有助于其活性化。
+TipsB_2_33_02	不过，我可不是指\n去敲打脑袋。
+TipsB_2_33_03	比如去未知之地旅行等等……
+TipsB_2_33_04	像这种带有{color[ff0c00ff]}刺激的行为{color[000000ff]}，\n可能有助于大脑的活性化。
+TipsB_2_35_01	首先，请在脑海里\n想像一下{color[ff0c00ff]}猫的样子{color[000000ff]}。
+TipsB_2_35_02	接着，想像一下\n{color[ff0c00ff]}梯子的样子{color[000000ff]}。
+TipsB_2_35_03	接下来，再想像一下\n{color[ff0c00ff]}“猫咪梯子”{color[000000ff]}这种虚构的东西。
+TipsB_2_35_04	它会是一种\n怎样的样子呢？
+TipsB_2_35_05	想像{color[ff0c00ff]}虚构的事物{color[000000ff]}\n可能有助于{color[ff0c00ff]}前额叶{color[000000ff]}的活性化。
+TipsB_2_37_01	最近，你有没有被治愈到呢？
+TipsB_2_37_02	被治愈时，\n也就是你在{color[ff0c00ff]}放松{color[000000ff]}时……
+TipsB_2_37_03	据说前额叶会得到\n充分的休息。
+TipsB_2_37_04	好好地让前额叶\n得到休息也是很重要的。
+TipsB_2_27_01	最近是否有在{color[ff0c00ff]}学习{color[000000ff]}呢？
+TipsB_2_27_02	随着年龄的增长，大脑的{color[ff0c00ff]}突触{color[000000ff]}和\n{color[ff0c00ff]}神经纤维{color[000000ff]}也会持续增加。
+TipsB_2_27_03	无论几岁，\n{color[ff0c00ff]}学习{color[000000ff]}对大脑都有好处。
+TipsB_2_42_01	极度{color[ff0c00ff]}紧张{color[000000ff]}时，\n{color[ff0c00ff]}前额叶{color[000000ff]}便不会运作。
+TipsB_2_42_02	那时，在脑中……
+TipsB_2_42_03	快速地{color[ff0c00ff]}数数{color[000000ff]}看看吧。
+TipsB_2_42_04	这是我推荐用来缓解\n紧张感的小技巧。
+TipsB_2_23_01	请想想{color[ff0c00ff]}糊弄{color[000000ff]}好友的{color[ff0c00ff]}方法{color[000000ff]}。
+TipsB_2_23_02	比如在玩扑克时，\n要让对方选择错误的扑克牌。
+TipsB_2_23_03	这时不仅要考虑方法，\n还要{color[ff0c00ff]}考虑对方的心理{color[000000ff]}……
+TipsB_2_23_04	这样一来，{color[ff0c00ff]}前额叶{color[000000ff]}或许\n就会活跃起来。
+TipsB_2_23_05	但是，如果糊弄会导致\n你们之间的关系破裂……
+TipsB_2_23_06	那还是只在脑海里\n想想就好了。
+TipsB_2_07_01	此软件的目标主要是让\n大脑的{color[ff0c00ff]}额叶{color[000000ff]}得以活性化。
+TipsB_2_07_02	{color[ff0c00ff]}额叶{color[000000ff]}起着抑制愤怒和\n欲望等冲动的作用。
+TipsB_2_07_03	小孩子容易冲动\n就是因为{color[ff0c00ff]}额叶{color[000000ff]}不发达。
+TipsB_2_07_04	即使是成年人，如果{color[ff0c00ff]}额叶{color[000000ff]}的功能衰退，\n也会变得不容易控制自己的情绪。
+TipsB_2_07_05	……我是这么认为的。
+TipsB_2_07_06	所以我希望大家也能借助此软件，\n让自己的额叶不再衰退。
+TipsB_2_10_01	根据时间的不同，
+TipsB_2_10_02	大脑{color[ff0c00ff]}运作的情况{color[000000ff]}也全然不同。\n（Schmidt et al., 2007）
+TipsB_2_10_03	为了能够感受到\n锻炼{color[ff0c00ff]}成绩的提高{color[000000ff]}……
+TipsB_2_10_04	最好每天都在\n同一时间进行锻炼。
+TipsB_2_08_01	刚开始锻炼那阵子，\n成绩会大幅提高……
+TipsB_2_08_02	但不久就会遇到瓶颈，\n变得停滞不前。
+TipsB_2_08_03	不过，只要坚持锻炼，\n就会迎来“突破期”。
+TipsB_2_08_04	{color[ff0c00ff]}成绩{color[000000ff]}也会再次大幅{color[ff0c00ff]}提高{color[000000ff]}。\n（Taylor & Smith, 1956）
+TipsB_2_08_05	或许大脑正在\n静静地积蓄力量……
+TipsB_2_08_06	为下一次的飞跃做准备呢。
+TipsB_2_14_01	最近经常通过邮件及\n聊天软件来沟通吧。
+TipsB_2_14_02	通过机器装置交谈……\n比如通过电话交谈时，\n前额叶就不会活跃地运作。
+TipsB_2_14_03	……存在着这样的研究结果。\n(Jeong et al., 2011)
+TipsB_2_14_04	所以为了让大脑能够活性化，\n建议直接与人面对面进行交谈。
+TipsB_2_14_05	如果交谈时能看着对方的眼睛，\n{color[ff0c00ff]}效果{color[000000ff]}可能会更好。
+TipsB_2_03_01	比起默读，朗读文章\n更能让大脑积极地运作……
+TipsB_2_03_02	我们得到了这样的验证结果。\n(Miura et al., 2003)
+TipsB_2_03_03	我认为让大脑的多个部位\n活跃地运作，
+TipsB_2_03_04	就能带来让前额叶\n活性化的效果。
+TipsB_2_03_05	如果家里有小孩子或孙子的话，\n建议{color[ff0c00ff]}读书给他们听{color[000000ff]}。
+TipsB_2_03_06	读给孩子听，\n能让孩子安心……
+TipsB_2_03_07	也能让家长的大脑\n活跃起来。
+TipsB_2_03_08	……我是这么认为的。\n（Bus et al., 1995）
+TipsB_2_09_01	为了保持大脑的健康……
+TipsB_2_09_02	首先要养成{color[ff0c00ff]}“用脑习惯”{color[000000ff]}。\n（Cheng 2016）
+TipsB_2_09_03	其次是{color[ff0c00ff]}“平衡膳食”{color[000000ff]}。\n（le Coutre & Schmitt, 2008）
+TipsB_2_09_04	接下来是{color[ff0c00ff]}“充足的睡眠”{color[000000ff]}。\n（Richards et al., 2017）
+TipsB_2_09_05	为了保持大脑的{color[ff0c00ff]}健康{color[000000ff]}，\n我认为以上3点是很有必要的。
+TipsB_2_02_01	其实人类的大脑中有一处\n特别发达的地方。
+TipsB_2_02_02	那就是额头附近的\n{color[ff0c00ff]}“前额叶”{color[000000ff]}这部分。
+TipsB_2_02_03	这部分据说是用来控制
+TipsB_2_02_04	{color[ff0c00ff]}创造力{color[000000ff]}、{color[ff0c00ff]}记忆力{color[000000ff]}、{color[ff0c00ff]}自制力{color[000000ff]}等功能……
+TipsB_2_02_05	让人类{color[ff0c00ff]}变得拥有人性{color[000000ff]}的重要部分。\n（Funahashi & Andreau 2013）
+TipsB_2_13_01	学习的内容会在{color[ff0c00ff]}睡眠中\n被记录在大脑里{color[000000ff]}固定下来。
+TipsB_2_13_02	……存在着这样的研究结果。\n(Stickgold et a., 2000)
+TipsB_2_13_03	如果睡眠时间不足的话……
+TipsB_2_13_04	这些内容或许就会消失，\n无法固定在大脑里。
+TipsB_2_13_05	所以睡眠可以说是\n{color[ff0c00ff]}“大脑复习，创造记忆的时间”{color[000000ff]}。
+TipsB_2_28_01	有时到户外{color[ff0c00ff]}活动活动身体吧{color[000000ff]}。
+TipsB_2_28_02	运动可能具有\n促进脑神经细胞……
+TipsB_2_28_03	成长的效果。\n(Griffin et al., 2009)
+TipsB_2_28_04	因此可以说是\n{color[ff0c00ff]}“运动也能使大脑成长”{color[000000ff]}。
+TipsB_2_06_01	锻炼的要点是\n{color[ff0c00ff]}挑战{color[000000ff]}能力的{color[ff0c00ff]}极限{color[000000ff]}。
+TipsB_2_06_02	如果锻炼时慢吞吞的，\n就不会有什么效果。
+TipsB_2_06_03	只有以{color[ff0c00ff]}极限的速度{color[000000ff]}、\n在{color[ff0c00ff]}极限困难{color[000000ff]}的状态下解决问题……
+TipsB_2_06_04	大脑才会{color[ff0c00ff]}加速运转{color[000000ff]}，\n记忆容量也会增加。
+TipsB_2_06_05	(Nouchi  et al., 2013)
+TipsB_2_15_01	大脑中掌管新记忆的部分\n叫做{color[ff0c00ff]}“海马回”{color[000000ff]}……
+TipsB_2_15_02	睡眠时间不足的话，\n它的发育就会变差。
+TipsB_2_15_03	……我们得到了这样的验证。\n(Taki et al., 2012)
+TipsB_2_15_04	所以，通过{color[ff0c00ff]}睡眠{color[000000ff]}来让大脑休息\n也是很必要的。
+TipsB_2_04_01	大脑的{color[ff0c00ff]}“前额叶”{color[000000ff]}实际上\n有着各种各样的功能。
+TipsB_2_04_02	比如读懂别人的心情，\n（Schurz et al., 2014）
+TipsB_2_04_03	{color[ff0c00ff]}预测{color[000000ff]}事物的功能……\n（Vassena et al., 2017）
+TipsB_2_04_04	{color[ff0c00ff]}学习{color[000000ff]}、{color[ff0c00ff]}研习{color[000000ff]}、{color[ff0c00ff]}记忆{color[000000ff]}的功能……
+TipsB_2_04_05	以及注意事物的功能……\n（Euston et al., 2012）
+TipsB_2_04_06	还有自己打算做什么的\n{color[ff0c00ff]}自发意识{color[000000ff]}也是……
+TipsB_2_04_07	前额叶的功能之一。\n（Cardinal et al., 2002）
+TipsB_2_04_08	可以说，前额叶在大脑中\n起着最高级的作用。
+TipsB_2_45_01	前额叶的功能变迟钝的话，\n或许突发性的感情控制力……
+TipsB_2_45_02	也就是说，忍耐力就会降低，\n处于{color[ff0c00ff]}“容易生气”{color[000000ff]}的状态。
+TipsB_2_45_03	请多加注意。\n（Mathew, 2012）
+TipsB_2_51_01	大脑{color[ff0c00ff]}活性化{color[000000ff]}后……
+TipsB_2_51_02	好像会容易对\n“未知事物”产生兴趣。
+TipsB_2_51_03	说不定会涌现出\n{color[ff0c00ff]}挑战新事物{color[000000ff]}的力量呢。
+TipsB_2_51_04	（Caballero et al., 2016）
+TipsB_2_17_01	长大后，虽然不怎么会\n“比拼速度”了……
+TipsB_2_17_02	但每天抽出一些时间，哪怕几分钟，\n{color[ff0c00ff]}尽可能快地做些{color[000000ff]}什么事情吧。
+TipsB_2_17_03	比拼速度\n可能有助于提高……
+TipsB_2_17_04	大脑的{color[ff0c00ff]}信息处理速度{color[000000ff]}。\n(Nouchi et al., 2016)
+TipsB_2_31_01	如果锻炼大脑的运转速度……
+TipsB_2_31_02	在采取行动时，
+TipsB_2_31_03	就会变得{color[ff0c00ff]}从容不迫{color[000000ff]}。\n（Tam et al., 2015）
+TipsB_2_31_04	真想以平静的心情\n度过每一天呢。
+TipsB_2_05_01	智商分为\n{color[ff0c00ff]}“语言性智商”{color[000000ff]}和
+TipsB_2_05_02	{color[ff0c00ff]}“动作性智商”{color[000000ff]}。\n（Wechsler, 1997）
+TipsB_2_05_03	与经验和学习的积累\n有很大关系的{color[ff0c00ff]}“语言性智商”{color[000000ff]}，
+TipsB_2_05_04	虽然容易在50～70岁之间\n迎来高峰……
+TipsB_2_05_05	但负责记忆力、判断力以及\n处理多个信息的{color[ff0c00ff]}“动作性智商”{color[000000ff]}，
+TipsB_2_05_06	几乎在20岁左右达到巅峰，\n之后就会一路下降。
+TipsB_2_05_07	此软件正是为了{color[ff0c00ff]}维持及提高{color[000000ff]}\n动作性智商而开发的。
+TipsB_2_20_01	最近有没有觉得容易落泪？
+TipsB_2_20_02	其实{color[ff0c00ff]}变得容易落泪{color[000000ff]}是……
+TipsB_2_20_03	大脑抑制感情功能下降的信号。\n（Wrosch et al., 2018）
+TipsB_2_20_04	抑制涌现出来的感情，\n努力平复心情……
+TipsB_2_20_05	或许对大脑也是一种\n很好的锻炼。
+TipsB_2_11_01	大脑的发育，
+TipsB_2_11_02	需要{color[ff0c00ff]}均衡的饮食{color[000000ff]}。\n（Prangthip et al., 2019）
+TipsB_2_11_03	虽然大脑的\n能量来源是{color[ff0c00ff]}葡萄糖{color[000000ff]}……
+TipsB_2_11_04	但要想学习与记忆，
+TipsB_2_11_05	光靠葡萄糖是不够的。\n（Akitsuki et al., 2011）
+TipsB_2_11_06	如果光吃面包与米饭，\n而不好好吃菜的话……
+TipsB_2_11_07	我觉得大脑是无法变得聪明的。
+TipsB_2_01_01	在进行计算和朗读的锻炼时，\n有很多人会认为……
+TipsB_2_01_02	……只是计算和朗读的\n速度变快了而已。
+TipsB_2_01_03	但如果持续进行\n{color[ff0c00ff]}计算{color[000000ff]}和{color[ff0c00ff]}朗读{color[000000ff]}的锻炼……
+TipsB_2_01_04	除了计算和朗读的成绩之外，
+TipsB_2_01_05	大脑的{color[ff0c00ff]}执行功能{color[000000ff]}和\n{color[ff0c00ff]}处理速度{color[000000ff]}也将得到{color[ff0c00ff]}提高{color[000000ff]}。
+TipsB_2_01_06	……得到了这样的结果。\n（Nouchi et al., 2013）
+TipsB_2_01_07	这叫做{color[ff0c00ff]}迁移效果{color[000000ff]}。
+TipsB_2_01_08	脑锻炼正是以这样的\n{color[ff0c00ff]}迁移效果{color[000000ff]}为目标。
+TipsB_2_16_01	同时处理多个事情的\n“{color[ff0c00ff]}多任务{color[000000ff]}”……
+TipsB_2_16_02	其实有{color[ff0c00ff]}两种{color[000000ff]}。
+TipsB_2_16_03	{color[ff0c00ff]}分散注意力{color[000000ff]}，处理多个\n事情的“多任务”……
+TipsB_2_16_04	以及将{color[ff0c00ff]}注意力集中{color[000000ff]}在各个事情上，\n依次处理的“多任务”。
+TipsB_2_16_05	{color[ff0c00ff]}分散注意力{color[000000ff]}，处理多个\n事情的“多任务”，
+TipsB_2_16_06	结果哪个都{color[ff0c00ff]}不会顺利{color[000000ff]}。\n（Junco & Cotton 2011及其他人）
+TipsB_2_16_07	“将注意力依次{color[ff0c00ff]}集中{color[000000ff]}在各个事情上”\n是非常重要的。
+TipsB_2_18_01	人类的大脑比我们想像的\n更富有{color[ff0c00ff]}适应性{color[000000ff]}。
+TipsB_2_18_02	如果戴着能让看见的事物\n{color[ff0c00ff]}上下颠倒的眼镜{color[000000ff]}生活的话……
+TipsB_2_18_03	只要一周时间就会觉得\n{color[ff0c00ff]}上下颠倒的世界是现实世界{color[000000ff]}。
+TipsB_2_18_04	……有着这样的报告。\n(Harris 1963等)
+TipsB_2_18_05	据说在那之后，\n如果{color[ff0c00ff]}摘掉眼镜生活{color[000000ff]}的话……
+TipsB_2_18_06	经过一段迷惘期后，\n就又会{color[ff0c00ff]}恢复原状{color[000000ff]}了。
+TipsB_2_18_07	正因为有着\n这样的{color[ff0c00ff]}适应性{color[000000ff]}……
+TipsB_2_18_08	人类才能存活至今吧。
+TipsB_2_19_01	“好好{color[ff0c00ff]}验证脑锻炼的效果{color[000000ff]}吧”
+TipsB_2_19_02	2016年，\n在杂志Psycological Science上……
+TipsB_2_19_03	曾发表过这样一篇方针类报告。\n（Simons et al., 2016, 17, 103-186.）
+TipsB_2_19_04	{color[ff0c00ff]}Nintendo DS的脑锻炼{color[000000ff]}效果的验证\n正是{color[ff0c00ff]}遵循着{color[000000ff]}这个{color[ff0c00ff]}方针{color[000000ff]}。
+TipsB_2_19_05	而且，除了我以外……
+TipsB_2_19_06	其他人也{color[ff0c00ff]}发表了多个\n与DS的脑锻炼有效果相关的验证{color[000000ff]}。
+TipsB_2_19_08	今后，我也会继续{color[ff0c00ff]}研究大脑{color[000000ff]}。
+TipsB_2_21_01	我曾经对仙台市的\n{color[ff0c00ff]}25016名中学生{color[000000ff]}进行了问卷调查…
+TipsB_2_21_02	目的是为了查明{color[ff0c00ff]}智能手机的\n使用方法与成绩的关系{color[000000ff]}。
+TipsB_2_21_03	然后，我得到了……
+TipsB_2_21_04	{color[ff0c00ff]}一边使用智能手机\n一边学习{color[000000ff]}的孩子{color[ff0c00ff]}成绩很低{color[000000ff]}。
+TipsB_2_21_05	……这样的分析结果。
+TipsB_2_21_06	而且，还得到了……
+TipsB_2_21_07	学习时使用的{color[ff0c00ff]}应用软件越多{color[000000ff]}，\n{color[ff0c00ff]}成绩就越低{color[000000ff]}。
+TipsB_2_21_08	……这样的数据。\n（Kawashima R 2018）
+TipsB_2_21_09	虽然这取决于应用程序的种类，
+TipsB_2_21_10	在学习时还是\n{color[ff0c00ff]}集中精神学习{color[000000ff]}比较好。
+TipsB_2_25_01	{color[ff0c00ff]}脑锻炼{color[000000ff]}有什么效果呢？
+TipsB_2_25_02	我觉得，如果以\n{color[ff0c00ff]}电脑{color[000000ff]}为例来说的话……
+TipsB_2_25_03	那就是“{color[ff0c00ff]}中央处理器将会变快{color[000000ff]}”。
+TipsB_2_25_04	顺便说一句，如果以{color[ff0c00ff]}电脑{color[000000ff]}为例来形容\n在Nintendo 3DS上开发的……
+TipsB_2_25_05	《突破极限 脑的5分钟魔鬼锻炼》
+TipsB_2_25_06	简称“{color[ff0c00ff]}魔鬼锻炼{color[000000ff]}”的效果的话……
+TipsB_2_25_07	那就是“{color[ff0c00ff]}存储容量将会增加{color[000000ff]}”。
+TipsB_2_25_08	啊，但是对于不熟悉\n电脑的人来说……
+TipsB_2_25_09	反而可能会难以理解吧。
+TipsB_2_26_01	如果在公司或学校\n遇到了非常{color[ff0c00ff]}厌恶的事情{color[000000ff]}……
+TipsB_2_26_02	光是想像一下\n就会觉得很厌恶吧。
+TipsB_2_26_03	但实际上不光是厌恶……
+TipsB_2_26_04	或许还会因为{color[ff0c00ff]}压力{color[000000ff]}……
+TipsB_2_26_05	导致{color[ff0c00ff]}大脑的存储容量减少{color[000000ff]}。\n（Seshadri et al., 2018）
+TipsB_2_26_06	如果遇到了非常令人厌恶的事情，\n有些人还会出现{color[ff0c00ff]}PTSD{color[000000ff]}……
+TipsB_2_26_07	也就是{color[ff0c00ff]}创伤后压力症候群{color[000000ff]}症。
+TipsB_2_26_08	有研究指出，\nPTSD患者大脑的……
+TipsB_2_26_09	{color[ff0c00ff]}工作记忆会降低{color[000000ff]}。\n（Yehuda et al., 2006）
+TipsB_2_26_10	不过这两者之间是否有关，\n现在仍在研究当中。
+TipsB_2_30_01	进行{color[ff0c00ff]}Nintendo DS的脑锻炼{color[000000ff]}后\n会{color[ff0c00ff]}发生什么{color[000000ff]}？
+TipsB_2_30_02	曾有{color[ff0c00ff]}实验{color[000000ff]}对{color[ff0c00ff]}96名人员\n（每个对照组48名）{color[000000ff]}……
+TipsB_2_30_03	进行过{color[ff0c00ff]}测试{color[000000ff]}。\n（Nouchi et al., 2016及其他人）
+TipsB_2_30_04	然后得到了大脑的{color[ff0c00ff]}工作记忆{color[000000ff]}\n以及{color[ff0c00ff]}处理速度{color[000000ff]}的成绩……
+TipsB_2_30_05	有{color[ff0c00ff]}提高的趋势{color[000000ff]}这样的结果。
+TipsB_2_30_06	也就是说，{color[ff0c00ff]}学习前进行脑锻炼{color[000000ff]}的话，\n可以更有效地进行学习。
+TipsB_2_30_07	我觉得可以这样认为。
+TipsB_2_34_01	人如果受到{color[ff0c00ff]}排挤{color[000000ff]}……
+TipsB_2_34_02	就会变得想要把自己封闭起来。
+TipsB_2_34_03	但其实有一种说法是\n人如果受到{color[ff0c00ff]}排挤{color[000000ff]}，\n就会开始{color[ff0c00ff]}寻找新的朋友{color[000000ff]}。
+TipsB_2_34_04	(Maner et al., 2007;\nDewall et al., 2009)
+TipsB_2_34_05	大脑中可能有着\n{color[ff0c00ff]}想与他人产生联系的功能{color[000000ff]}。
+TipsB_2_39_01	有研究表明，\n在学校的课堂上……
+TipsB_2_39_02	如果班上同学们的{color[ff0c00ff]}点头{color[000000ff]}等\n行动都很{color[ff0c00ff]}一致（同步）{color[000000ff]}的话……
+TipsB_2_39_03	那{color[ff0c00ff]}这节课{color[000000ff]}的{color[ff0c00ff]}效率就会很高{color[000000ff]}。\n（Kent 2013）
+TipsB_2_39_04	另外，在其他的研究中……
+TipsB_2_39_05	我们给中学班级里的学生\n一边测量大脑，一边让他们上课。
+TipsB_2_39_06	结果得到了在上{color[ff0c00ff]}生动有趣的课程{color[000000ff]}时，\n{color[ff0c00ff]}前额叶{color[000000ff]}的活动也会变得{color[ff0c00ff]}同步{color[000000ff]}。
+TipsB_2_39_07	这样的结果。\n（Nozawa et al., in preparation）
+TipsB_2_39_08	通过{color[ff0c00ff]}身心的同步{color[000000ff]}来提高\n对课程内容的理解力，
+TipsB_2_39_09	这样课程内容的趣味性\n或许也会得到提高。
+TipsB_2_41_01	有一种叫做\n“{color[ff0c00ff]}园艺疗法{color[000000ff]}”的治疗方法。
+TipsB_2_41_02	曾经有人做过这样的调查。
+TipsB_2_41_03	让患有{color[ff0c00ff]}轻度PTSD（创伤后压力\n症候群）{color[000000ff]}的人接受园艺疗法，
+TipsB_2_41_04	并看看他们的大脑\n会出现怎样的变化。
+TipsB_2_41_05	然后，据说因PTSD而缩小的\n{color[ff0c00ff]}大脑部分（左前扣带皮层）{color[000000ff]}的\n{color[ff0c00ff]}体积有增大{color[000000ff]}的趋势。
+TipsB_2_41_06	……得到了这样的结果。\n（Kotozaki 2013）
+TipsB_2_41_07	我认为……
+TipsB_2_41_08	对于大脑来说，\n或许培育植物……
+TipsB_2_41_09	{color[ff0c00ff]}具有治愈效果{color[000000ff]}。
+TipsB_2_43_01	有时候，我们会进行\n一些{color[ff0c00ff]}不好的想像{color[000000ff]}吧。
+TipsB_2_43_02	曾经有人在研究室\n对{color[ff0c00ff]}想像锻炼{color[000000ff]}进行了实验。
+TipsB_2_43_03	在{color[ff0c00ff]}3小时{color[000000ff]}内向{color[ff0c00ff]}40名大学生{color[000000ff]}\n展示了看不懂结局的场景……
+TipsB_2_43_04	并让部分人持续想像一段\n10秒钟左右的美好结局，
+TipsB_2_43_05	让另一部分人持续想像\n一段糟糕的结局。
+TipsB_2_43_06	结果，{color[ff0c00ff]}持续想像美好结局{color[000000ff]}的人
+TipsB_2_43_07	与进行想像锻炼前相比……
+TipsB_2_43_08	{color[ff0c00ff]}在人前闲聊时的不安减少了{color[000000ff]}。
+TipsB_2_43_09	……得到了这样的数据。\n（Sakaki et al., in preparation）
+TipsB_2_43_10	如果对交流\n感到不安的人……
+TipsB_2_43_11	或许{color[ff0c00ff]}经常想像一下\n美好结局{color[000000ff]}会比较好。
+TipsB_2_44_01	{color[ff0c00ff]}每天玩游戏的时间\n不超过1小时{color[000000ff]}的孩子，
+TipsB_2_44_02	与不玩游戏的孩子相比……
+TipsB_2_44_03	更容易{color[ff0c00ff]}发现规律{color[000000ff]}，在{color[ff0c00ff]}理解{color[000000ff]}及\n{color[ff0c00ff]}构筑能力{color[000000ff]}上也普遍{color[ff0c00ff]}较高{color[000000ff]}。
+TipsB_2_44_04	……存在着这样的数据。\n（Jones et al., 2014）
+TipsB_2_44_05	是因为玩了游戏，\n所以导致能力得到了提高……
+TipsB_2_44_06	还是能力较高的孩子\n会适度地玩会游戏……
+TipsB_2_44_07	仍不得而知。\n我会继续进行研究。
+TipsB_2_46_01	如果看到某人{color[ff0c00ff]}犯了错{color[000000ff]}，\n比如看到有人跌倒了……
+TipsB_2_46_02	就会觉得很可惜，感觉那个\n跌倒的人的{color[ff0c00ff]}魅力降低了{color[000000ff]}。
+TipsB_2_46_03	但是，如果失败的人……
+TipsB_2_46_04	本身{color[ff0c00ff]}能力就很高{color[000000ff]}时，\n反而{color[ff0c00ff]}会觉得他的魅力上升了{color[000000ff]}。
+TipsB_2_46_05	……存在着这样的研究结果。\n（Aronson, Willerman & Floyd, 1996）
+TipsB_2_46_06	虽然能力高的人\n会越来越有利……
+TipsB_2_46_07	但大脑好像也有着\n这样不合理的一面。
+TipsB_2_47_01	有一款游戏叫做\n“{color[ff0c00ff]}超级马力欧64{color[000000ff]}”。
+TipsB_2_47_02	在一些研究中\n也使用了此游戏。
+TipsB_2_47_03	看游戏画面的时候，\n掌管大脑记忆的……
+TipsB_2_47_04	{color[ff0c00ff]}海马回的活动量会增加{color[000000ff]}\n(Gleich et al., 2017)、
+TipsB_2_47_05	{color[ff0c00ff]}海马回的体积会增加\n{color[000000ff]}(Kuhn et al., 2014)、
+TipsB_2_47_06	{color[ff0c00ff]}老年人的短期记忆成绩提高了\n{color[000000ff]}（West et al., 2017）、
+TipsB_2_47_07	……存在着这样一些研究。
+TipsB_2_47_08	也就是说，玩游戏\n{color[ff0c00ff]}有时会使大脑发生变化{color[000000ff]}。
+TipsB_2_47_09	……我们或许可以这么认为。
+TipsB_2_49_01	{color[ff0c00ff]}Nintendo DS的脑锻炼{color[000000ff]}\n究竟有着怎样的效果……
+TipsB_2_49_02	有些人对此进行了\n进一步的验证。
+TipsB_2_49_03	他们让{color[ff0c00ff]}32名年轻人{color[000000ff]}、\n{color[ff0c00ff]}32名老年人{color[000000ff]}（每个对照组16名）……
+TipsB_2_49_04	{color[ff0c00ff]}连续4周{color[000000ff]}，{color[ff0c00ff]}每周5次{color[000000ff]}，\n{color[ff0c00ff]}每次15分钟{color[000000ff]}游玩此游戏。
+TipsB_2_49_05	然后，游玩脑锻炼的那一组……
+TipsB_2_49_06	大脑的{color[ff0c00ff]}执行功能{color[000000ff]}和\n{color[ff0c00ff]}处理速度{color[000000ff]}都{color[ff0c00ff]}提高了{color[000000ff]}。
+TipsB_2_49_07	……得到了这样的结果。\n(Nouchi et al., 2013)
+TipsB_2_49_08	也就是说，包含了与验证时使用的\n锻炼项目相同的此软件，
+TipsB_2_49_09	不管是对于{color[ff0c00ff]}年轻人{color[000000ff]}还是{color[ff0c00ff]}老年人{color[000000ff]}，\n都可能会{color[ff0c00ff]}起到效果{color[000000ff]}。
+TipsB_2_50_01	回忆{color[ff0c00ff]}成就{color[000000ff]}……\n比如说获奖、合格等……
+TipsB_2_50_02	{color[ff0c00ff]}只是回想{color[000000ff]}这些事情，\n大脑的能力就会暂时{color[ff0c00ff]}得到提高{color[000000ff]}。
+TipsB_2_50_03	……存在着这样的研究结果。\n（Karsh & Eyal, 2015）
+TipsB_2_50_04	对自己{color[ff0c00ff]}抱有信心{color[000000ff]}，\n或许有着{color[ff0c00ff]}提高{color[000000ff]}能力的{color[ff0c00ff]}效果{color[000000ff]}。
+TipsB_2_53_01	或许你会觉得\n这是理所当然的……
+TipsB_2_53_02	在听{color[ff0c00ff]}音乐{color[000000ff]}或玩{color[ff0c00ff]}游戏{color[000000ff]}后，\n人会变得{color[ff0c00ff]}乐观{color[000000ff]}。
+TipsB_2_53_03	……存在着这样的研究。\n（Westermann et al., 1996)
+TipsB_2_53_04	(Granic et al., 2014)\n另外，
+TipsB_2_53_05	变得{color[ff0c00ff]}乐观{color[000000ff]}之后，如果进行脑锻炼，\n{color[ff0c00ff]}效果会更好{color[000000ff]}。
+TipsB_2_53_06	……由于也有着这样的实验结果，
+TipsB_2_53_07	所以在进行脑锻炼之前，\n通过音乐和游戏来提高\n心情或许会更好。
+TipsB_2_55_01	在饲养多只老鼠时，\n在有迷宫或转轮等
+TipsB_2_55_02	{color[ff0c00ff]}刺激较多{color[000000ff]}的地方\n饲养的老鼠……
+TipsB_2_55_03	与其他地方饲养的老鼠相比，\n{color[ff0c00ff]}大脑要更为发达{color[000000ff]}。
+TipsB_2_55_04	……存在着这样的数据。\n（Kempermann et al., 1997及其他人）
+TipsB_2_55_05	人或许也一样，住在刺激多的地方，\n可能会对大脑的健康有好处。
+TipsB_2_56_01	有些{color[ff0c00ff]}机器可以让我们看到\n大脑的运转情况{color[000000ff]}。
+TipsB_2_56_02	如果通过这个机器\n来看的话……
+TipsB_2_56_03	我们可以看到自己{color[ff0c00ff]}做了什么{color[000000ff]}，\n大脑的{color[ff0c00ff]}哪里会发生运转{color[000000ff]}。
+TipsB_2_56_04	最后，即使不做\n什么特别的事情……
+TipsB_2_56_05	也能凭自己的意志\n来{color[ff0c00ff]}控制大脑的活动{color[000000ff]}。
+TipsB_2_56_06	……有着这样的研究。\n（Kotozaki et al., 2014）
+TipsB_2_56_07	如果能够看见自己的大脑，\n或许就能控制自己的大脑呢。
+TipsB_2_57_01	看着{color[ff0c00ff]}测量大脑的机器{color[000000ff]}……
+TipsB_2_57_02	{color[ff0c00ff]}仅凭{color[000000ff]}自己的{color[ff0c00ff]}意志\n决定是否让大脑活性化{color[000000ff]}。
+TipsB_2_57_03	有人正在对这个\n较为困难的锻炼进行研究。
+TipsB_2_57_04	在让{color[ff0c00ff]}30名成年男性{color[000000ff]}\n进行该锻炼后，
+TipsB_2_57_05	得到了{color[ff0c00ff]}心情低落有所缓解{color[000000ff]}，\n工作{color[ff0c00ff]}压力有所降低{color[000000ff]}，
+TipsB_2_57_06	{color[ff0c00ff]}满足感得到提高{color[000000ff]}这样的结果。\n(Kotozaki et al., 2014)
+TipsB_2_57_07	通过这一结果，\n当我们的心情低落时……
+TipsB_2_57_08	或许进行{color[ff0c00ff]}控制{color[000000ff]}自己{color[ff0c00ff]}大脑{color[000000ff]}的\n锻炼会比较好。
+TipsB_2_57_09	……我是这么认为的。
+TipsB_2_58_01	有一些报告指出……
+TipsB_2_58_02	{color[ff0c00ff]}老年人{color[000000ff]}玩{color[ff0c00ff]}游戏{color[000000ff]}的话，\n大脑的{color[ff0c00ff]}能力会得到提高{color[000000ff]}。
+TipsB_2_58_03	某个著名的\n{color[ff0c00ff]}方块解谜游戏{color[000000ff]}……
+TipsB_2_58_04	让大脑的{color[ff0c00ff]}处理速度得到了提高{color[000000ff]}。\n（Goldstein et al., 1997）
+TipsB_2_58_05	某个著名的{color[ff0c00ff]}吃豆游戏{color[000000ff]}\n以及{color[ff0c00ff]}森喜刚游戏{color[000000ff]}……
+TipsB_2_58_06	据说让{color[ff0c00ff]}反应时间得到了提高{color[000000ff]}。\n（Clark et al., 1987）
+TipsB_2_58_07	或许有人觉得\n游戏对大脑不好……
+TipsB_2_58_08	但我认为至少对于老年人来说，\n不可一概而论。
+TipsB_2_59_01	{color[ff0c00ff]}老年人{color[000000ff]}如果持续进行\n能提高{color[ff0c00ff]}处理速度{color[000000ff]}的脑锻炼……
+TipsB_2_59_02	不仅{color[ff0c00ff]}脑功能会有所好转{color[000000ff]}，\n{color[ff0c00ff]}心情低落也会得到缓解{color[000000ff]}。
+TipsB_2_59_03	……存在着这样的数据。\n（Nouchi et al., 2016）
+TipsB_2_59_04	对于心情低落的\n老年人来说……
+TipsB_2_59_05	脑锻炼或许会很值得推荐。
+TipsB_2_60_01	以{color[ff0c00ff]}积极的心情{color[000000ff]}进行脑锻炼吧。
+TipsB_2_60_02	如果以积极的心情\n进行脑锻炼……
+TipsB_2_60_02_02	比起以低落的心情\n进行脑锻炼……
+TipsB_2_60_03	大脑的{color[ff0c00ff]}工作记忆{color[000000ff]}和{color[ff0c00ff]}处理速度{color[000000ff]}\n能进一步得到{color[ff0c00ff]}提高{color[000000ff]}。
+TipsB_2_60_04	……存在着这样的实验结果。\n（Nouchi et al., 2017）
+TipsB_2_60_05	大脑好像会受到心情的影响。
+TipsB_2_61_01	有一种疗法叫做\n“{color[ff0c00ff]}化妆疗法{color[000000ff]}”。
+TipsB_2_61_02	据说是通过化妆来争取\n{color[ff0c00ff]}提高QOL（生活质量）{color[000000ff]}，
+TipsB_2_61_03	增加{color[ff0c00ff]}笑容{color[000000ff]}，提升{color[ff0c00ff]}幸福感{color[000000ff]}，
+TipsB_2_61_04	使{color[ff0c00ff]}交流能力{color[000000ff]}得到提高。
+TipsB_2_61_05	（岡本 2011; 作山等人, 2007）
+TipsB_2_61_06	而且，据说{color[ff0c00ff]}大脑会活性化{color[000000ff]}。\n也就是说……
+TipsB_2_61_07	万圣节上的浓妆艳抹\n或许对大脑也有好处。
+TipsS_Start	那么，为了能更好地乐享此软件，\n我来给你一个{color[ff0c00ff]}提示{color[000000ff]}吧。
+TipsS_01_01	如果按下足够多的印章……
+TipsS_01_02	就能进行{color[ff0c00ff]}新的锻炼{color[000000ff]}哦。
+TipsS_02_01	排名后会出现\n交通工具的动画。
+TipsS_02_02	意思是{color[ff0c00ff]}“速度越快成绩越好”{color[000000ff]}。
+TipsS_03_01	{color[ff0c00ff]}“轻松一刻”{color[000000ff]}模式中没有繁琐的步骤，\n可以立刻……
+TipsS_03_02	体验{color[ff0c00ff]}使用手指{color[000000ff]}的\n脑年龄检查及锻炼。
+TipsS_03_03	而且，可以2人一起进行的\n{color[ff0c00ff]}对战脑锻炼{color[000000ff]}一共有3种。
+TipsS_03_04	请一定要和家人朋友\n一起试试哦。
+TipsS_04_01	在{color[ff0c00ff]}“设置”{color[000000ff]}中的\n{color[ff0c00ff]}“惯用手”{color[000000ff]}里……
+TipsS_04_02	可以更改为{color[ff0c00ff]}惯用右手{color[000000ff]}\n还是{color[ff0c00ff]}惯用左手{color[000000ff]}。
+TipsS_05_01	如果{color[ff0c00ff]}每天{color[000000ff]}进行\n{color[ff0c00ff]}2种以上{color[000000ff]}的“锻炼”……
+TipsS_05_02	日历上就会记录下当天\n进行过的项目种类数。
+TipsS_06_01	此软件里含有可能有助于\n{color[ff0c00ff]}前额叶活性化{color[000000ff]}的锻炼……
+TipsS_06_02	以及反过来能让\n{color[ff0c00ff]}前额叶得以放松{color[000000ff]}的……
+TipsS_06_03	{color[ff0c00ff]}“细菌扑灭”{color[000000ff]}。
+TipsS_06_04	请在想要放松的时候试试吧！
+TipsS_08_01	在{color[ff0c00ff]}“设置”{color[000000ff]}中的\n{color[ff0c00ff]}“印章设计”{color[000000ff]}里……
+TipsS_08_02	可以对每天按下的\n{color[ff0c00ff]}印章{color[000000ff]}进行{color[ff0c00ff]}设计{color[000000ff]}。
+TipsS_09_01	在“手指计算”等\n{color[ff0c00ff]}使用手指的锻炼{color[000000ff]}中……
+TipsS_09_02	如果在{color[ff0c00ff]}“设置”{color[000000ff]}中更改{color[ff0c00ff]}“惯用手”{color[000000ff]}，\n握法就会发生变化。
+TipsS_09_03	有时候使用与平时\n{color[ff0c00ff]}相反的手{color[000000ff]}也很有趣呢！
+TipsS_10_01	在“轻松一刻”中的{color[ff0c00ff]}“数野鸟”{color[000000ff]}\n以及{color[ff0c00ff]}“数箱子”{color[000000ff]}里……
+TipsS_10_02	按{color[ff0c00ff]}X键{color[000000ff]}或{color[ff0c00ff]}方向键的上{color[000000ff]}\n可以让计数{color[ff0c00ff]}－1{color[000000ff]}。
+TipsS_10_03	请在不小心\n多数的时候使用它。
+TipsS_12_01	在{color[ff0c00ff]}“计算25”{color[000000ff]}中，其实不管\n答案{color[ff0c00ff]}写在哪里{color[000000ff]}都会被识别。
+TipsS_12_02	找到自己容易写的地方的话。\n{color[ff0c00ff]}速度{color[000000ff]}也会{color[ff0c00ff]}提升{color[000000ff]}吧。
+TipsS_13_01	在“脑年龄检查”中，\n如果{color[ff0c00ff]}脑年龄是20岁{color[000000ff]}的话……
+TipsS_13_02	在当天的“每日锻炼”的菜单中\n播放的{color[ff0c00ff]}乐曲会有所改变{color[000000ff]}。
+TipsS_13_03	其实这是{color[ff0c00ff]}Nintendo DS的\n脑锻炼{color[000000ff]}的乐曲。
+TipsS_14_01	请不要在{color[ff0c00ff]}标题画面{color[000000ff]}中\n来回转动我哦。
+TipsS_14_02	因为这样我会头晕……
+TipsS_15_01	如果想要在锻炼时{color[ff0c00ff]}中断{color[000000ff]}……
+TipsS_15_02	按{color[ff0c00ff]}＋键{color[000000ff]}或{color[ff0c00ff]}－键{color[000000ff]}\n就能回到菜单。
+TipsS_16_01	想要养成锻炼的习惯，\n建议使用“{color[ff0c00ff]}闹钟{color[000000ff]}”。
+TipsS_16_02	这样即使主机在休眠中，\n也会通知锻炼的时间。
+TipsS_16_03	请试试“{color[ff0c00ff]}设置{color[000000ff]}”中的\n“{color[ff0c00ff]}闹钟{color[000000ff]}”吧。
+Quick_Start_01	欢迎来到“{color[ff0c00ff]}轻松一刻{color[000000ff]}”模式！
+Quick_Start_02	在这里可以体验\n活动{color[ff0c00ff]}手指{color[000000ff]}的新脑锻炼。
+Quick_Start_03	建议和{color[ff0c00ff]}家人朋友{color[000000ff]}一起进行。
+Quick_Result_yubikeisan_01	“手指计算”可能有助于\n{color[ff0c00ff]}提高大脑的处理速度{color[000000ff]}。
+Quick_Result_yubikeisan_02	在“{color[ff0c00ff]}每日锻炼{color[000000ff]}”中，\n我们还为你准备好了……
+Quick_Result_yubikeisan_03	其他各种各样的{color[ff0c00ff]}锻炼项目{color[000000ff]}。
+Quick_Result_yubikeisan_04	建议每天孜孜不倦地\n持续进行锻炼。
+Quick_Result_fingergymnastics	“手指体操”可能有助于\n{color[ff0c00ff]}提高大脑的处理速度{color[000000ff]}。
+Quick_Result_birdcounting_01	“数野鸟”可能有助于\n{color[ff0c00ff]}提高大脑的处理速度{color[000000ff]}。
+Quick_Result_birdcounting_02	或许获胜一方的\n{color[ff0c00ff]}头脑运转速度比较快{color[000000ff]}。
+Quick_Result_birdcounting_03	顺便说一下，\n即使输了也完全没有必要在意。
+Quick_Result_birdcounting_04	在“{color[ff0c00ff]}每日锻炼{color[000000ff]}”中\n与我一起锻炼大脑吧！
+Quick_Result_flagup_01	“举旗子”可能有助于\n{color[ff0c00ff]}提高记忆力{color[000000ff]}。
+Quick_Result_flagup_02	或许获胜一方的\n{color[ff0c00ff]}集中力比较高{color[000000ff]}。
+Quick_Result_flagup_03	顺便说一下，\n即使输了也完全没有必要在意。
+Quick_Result_flagup_04	在“{color[ff0c00ff]}每日锻炼{color[000000ff]}”中\n与我一起锻炼大脑吧！
+Quick_Result_boxcounting_01	“数箱子”可能有助于\n{color[ff0c00ff]}提高注意力与集中力{color[000000ff]}。
+Quick_Result_boxcounting_02	或许获胜一方的\n{color[ff0c00ff]}集中力比较高{color[000000ff]}。
+Quick_Result_boxcounting_03	顺便说一下，\n即使输了也完全没有必要在意。
+Quick_Result_boxcounting_04	在“{color[ff0c00ff]}每日锻炼{color[000000ff]}”中\n与我一起锻炼大脑吧！
+Quick_Result_janken_01	与你的实际年龄相比怎么样？
+Quick_Result_janken_02	在“{color[ff0c00ff]}每日锻炼{color[000000ff]}”中，\n我们为你准备好了……
+Quick_Result_janken_03	各种各样的{color[ff0c00ff]}锻炼项目{color[000000ff]}。
+Quick_Result_janken_04	推荐你可以试着带给大脑\n一些新鲜的刺激哦。
+Compe_Result_End_01	感觉怎么样？\n与全世界的脑锻炼伙伴一较高低。
+Compe_Result_End_02	那么，为了下次的大会\n持续锻炼吧！
+System_CompeDay	今天正在举办{color[ff0c00ff]}大会{color[000000ff]}。\n请一定要参加哦！
+System_CompeSoon	今天{color[ff0c00ff]}大会{color[000000ff]}将于{color[ff0c00ff]}{[0112]}{[0101]}时开始{color[000000ff]}。\n请一定要参加哦！
+System_CompeResult	大会的{color[ff0c00ff]}结果{color[000000ff]}出来了！\n要立刻确认吗？
+System_CompeResult_01	在{color[ff0c00ff]}下次大会结束之前{color[000000ff]}\n都可以查看此结果。
+System_CompeResult_02	请在忘记之前\n去查看一下吧。
+Compe_Info_01	世界一同脑锻炼大会……
+Compe_Info_02	这是{color[ff0c00ff]}每周1次{color[000000ff]}，全世界的脑锻炼伙伴\n一起比比看看谁的记录更高的大会。
+Compe_Info_03	{color[ff0c00ff]}每次{color[000000ff]}的竞技项目都会包含“计算25”、\n“手指计算”等{color[ff0c00ff]}4种不同的项目{color[000000ff]}。
+Compe_Info_04	大会将持续{color[ff0c00ff]}24小时{color[000000ff]}。\n在这期间，随时都可以参加。
+Compe_Info_05	{color[ff0c00ff]}1个项目最多{color[000000ff]}可以挑战{color[ff0c00ff]}2次{color[000000ff]}。
+Compe_Info_06	大会结束后，将在{color[ff0c00ff]}1天内\n统计分数{color[000000ff]}，然后{color[ff0c00ff]}公布排名{color[000000ff]}。
+Compe_Info_07	请抱着轻松的心情挑战一下，\n看看自己的水平有多少吧。
+Compe_Info_08	另外，在大会的比赛中，\n{color[ff0c00ff]}不能{color[000000ff]}按＋－键中途退出。
+Compe_Info_09	那么，希望你能和\n全世界的对手玩得开心！
+System_Compe_Start_01	欢迎来到{color[ff0c00ff]}世界一同脑锻炼大会{color[000000ff]}！\n让我们来看看你平时的锻炼成果吧。
+System_Compe_Start_02	还会公布{color[ff0c00ff]}同世代的排名{color[000000ff]}，\n所以请好好加油！
+System_CompeTwice	此项目已挑战了{color[ff0c00ff]}2次{color[000000ff]}。
+Result_Compe_JoinF	辛苦了。\n你是{color[ff0c00ff]}首次出席{color[000000ff]}大会呢！
+Result_Compe_JoinS	辛苦了。\n这是你第{color[ff0c00ff]}{[0108]}次出席{color[000000ff]}大会呢！
+Result_Compe_Join1_01	在大会上，{color[ff0c00ff]}1个项目\n最多{color[000000ff]}可以挑战{color[ff0c00ff]}2次{color[000000ff]}。
+Result_Compe_Join2_01	上次的结果看过了吗？
+Result_Compe_Join2_02	在世界排名中获得的{color[ff0c00ff]}奖牌{color[000000ff]}……
+Result_Compe_Join2_03	会因进入的是{color[ff0c00ff]}全体靠前排名的\n百分之多少{color[000000ff]}而发生变化。
+Result_Compe_Join3_01	大会的记录会留在\n{color[ff0c00ff]}个人信息画面{color[000000ff]}中。
+Result_Compe_Join3_02	请点触日历所在画面\n右上方的图标。
+Result_Compe_Join4_01	实际上，大家在大会的计算25和\n计算100中遇到的{color[ff0c00ff]}题目都是一样的{color[000000ff]}。
+Result_Compe_Join4_02	也就是说{color[ff0c00ff]}大家{color[000000ff]}都是站在\n{color[ff0c00ff]}同一条起跑线{color[000000ff]}上。
+Result_Compe_Join5_01	辛苦了。\n这是值得纪念的{color[ff0c00ff]}第5次参加{color[000000ff]}大会！
+Result_Compe_Join5_02	全世界的脑锻炼伙伴\n果然是强手如云，好厉害。
+Result_Compe_Join5_03	今后也请好好感受\n大会特有的紧张感！
+Result_Compe_Join10_01	这是值得纪念的{color[ff0c00ff]}第10次参加{color[000000ff]}大会！\n非常出色的持续力！
+Result_Compe_Join10_02	你能乐在其中，\n我也非常高兴。
+Result_Compe_Join10_03	大会特有的这种节日感\n真是让人欲罢不能啊！
+Result_Compe_Join20_01	这是值得纪念的{color[ff0c00ff]}第20次参加{color[000000ff]}大会！\n恭喜恭喜！
+Result_Compe_Join20_02	真是了不起的挑战精神！
+Result_Compe_Join20_03	今后也请像这样\n继续挑战大会！
+Result_Compe_Join30_01	这是值得纪念的{color[ff0c00ff]}第30次参加{color[000000ff]}大会！\n恭喜恭喜！
+Result_Compe_Join30_02	对于这样的紧张感还能乐享其中……\n你可真是浑身是胆啊！
+Result_Compe_Join30_03	今后也和全世界的脑锻炼伙伴\n愉快地比赛吧！
+Result_Compe_Join40_01	这是值得纪念的{color[ff0c00ff]}第40次参加{color[000000ff]}大会！\n恭喜恭喜！
+Result_Compe_Join40_02	真是惊人的持续力！\n我太佩服你了。
+Result_Compe_Join40_03	接下来的{color[ff0c00ff]}目标{color[000000ff]}就是\n“{color[ff0c00ff]}50次参加大会{color[000000ff]}”呢！
+Result_Compe_Join50_01	{[0111]}！\n这是值得纪念的{color[ff0c00ff]}第50次参加{color[000000ff]}大会！
+Result_Compe_Join50_02	这可是一种伟业！\n真的恭喜你了！
+Result_Compe_Join50_03	继续参加脑锻炼大会，\n与全世界的伙伴一起比赛吧！
+Result_Compe_Announce	将于{color[ff0c00ff]}{[011b]}{color[000000ff]}的{color[ff0c00ff]}{[0112]}{[0101]}时之后{color[000000ff]}公布排名。\n敬请期待！
+Result_Compe_ChallengeComp	挑战所有项目辛苦了！
+System_Compe_Uploaded1	向大会本部发送了记录。
+System_Compe_Uploaded2	因为出现了比第一次更好的记录，\n所以{color[ff0c00ff]}发送了这次的记录{color[000000ff]}。
+System_Compe_NoUpload	因为未能更新第一次的记录，\n所以{color[ff0c00ff]}不发送这次的记录{color[000000ff]}。
+Compe_Result_1st_01	噢噢噢噢噢噢噢噢……！！
+Compe_Result_1st_02	{color[ff0c00ff]}第一名{color[000000ff]}！是第一名！\n恭喜恭喜！！
+Compe_Result_1st_03	我能亲眼目睹这一切，\n真的好感动。
+Compe_Result_1st_Gene01	由于获得了世界第一名，\n在同世代中自然也是{color[ff0c00ff]}第一名{color[000000ff]}！
+Compe_Result_2nd_01	竟然是！{color[ff0c00ff]}第二名{color[000000ff]}！\n太棒了！！
+Compe_Result_2nd_02	在强手云集的大会中斩获第二名\n其实就相当于第一名！
+Compe_Result_2nd_03	这是很值得骄傲的！
+Compe_Result_3rd_01	竟然是！{color[ff0c00ff]}第三名{color[000000ff]}！\n太棒了！！
+Compe_Result_3rd_02	对于这个值得纪念的日子……
+Compe_Result_3rd_03	请让我衷心地鼓掌祝贺！
+Compe_Result_1P_01	竟然在{color[ff0c00ff]}前1%以内{color[000000ff]}！\n你的实力真是力压群雄……\n我太佩服了！
+Compe_Result_10P_01	竟然在{color[ff0c00ff]}前10%以内{color[000000ff]}！\n这是只有达人才能进入的领域！
+Compe_Result_20P_01	{color[ff0c00ff]}前20%以内{color[000000ff]}！\n真是出色的成绩！
+Compe_Result_30P_01	竟然进入了{color[ff0c00ff]}前30%以内{color[000000ff]}！\n完全掌握脑锻炼的日子也快到来了！
+Compe_Result_40P_01	这是一个{color[ff0c00ff]}不错的记录{color[000000ff]}！\n期待你的下次挑战！
+Compe_Result_50P_01	排名进入{color[ff0c00ff]}上半区{color[000000ff]}！\n就是这样！
+Compe_Result_60P_01	排名正好处于{color[ff0c00ff]}中间位置{color[000000ff]}！\n让我们朝着更高的目标前进吧！
+Compe_Result_70P_01	成绩还过得去！\n下次也加油吧！
+Compe_Result_80P_01	是不是感觉很有挑战？\n下次的大会也很令人期待呢！
+Compe_Result_90P_01	接下来提升等级\n是很有意义的！
+Compe_Result_100P_01	在排名上你让得太多了呢。\n不用客气，拿出实力来吧！
+Compe_Result_UP_01	比上次的排名提升了{color[ff0c00ff]}{[0108]}名{color[000000ff]}！
+Compe_Result_PBest_01	{color[ff0c00ff]}自己的最佳排名{color[000000ff]}也更新了！\n恭喜恭喜！
+System_Compe_TimeAdjust	主机的时间好像不正确，\n我会把它更改为正确的时间。
+Compe_Err_DrTalk	在我们说话的间隙，\n时间就过去了呢……
+Compe_Err_General	无法参加大会。
+Compe_Err_Offline	参加大会需要连接互联网。
+Compe_Err_FailUpload_01	无法{color[ff0c00ff]}发送记录{color[000000ff]}。\n要重新发送吗？
+Compe_Err_FailUpload_02	即使不发送，{color[ff0c00ff]}挑战次数{color[000000ff]}\n也会{color[ff0c00ff]}减少1次{color[000000ff]}，可以吗？
+Compe_Err_TimeUp	因为已经过了大会的{color[ff0c00ff]}结束时间{color[000000ff]}，\n所以无法发送记录……
+Unlock_nBackSymbol_01	由于最新的脑年龄\n已经变为了{color[ff0c00ff]}20岁{color[000000ff]}……
+Unlock_nBackSymbol_02	所以增加了\n{color[ff0c00ff]}工作记忆锻炼{color[000000ff]}。
+Unlock_nBackSymbol_03	这是负担相对较大的{color[ff0c00ff]}特别{color[000000ff]}锻炼。\n你准备好了吗？
+Tutorial_nBackSymbol_01	这是用于锻炼{color[ff0c00ff]}工作记忆{color[000000ff]}的\n{color[ff0c00ff]}特别{color[000000ff]}的锻炼。
+Tutorial_nBackSymbol_02	如果想要知道更多关于\n工作记忆的内容……
+Tutorial_nBackSymbol_03	请查看“{color[ff0c00ff]}什么是工作记忆？{color[000000ff]}”
+Tutorial_nBackSymbol_04	那么，我来说明一下锻炼内容。
+Tutorial_nBackSymbol_05	请按顺序记住\n显示的记号……
+Tutorial_nBackSymbol_06	然后回答{color[ff0c00ff]}之前{color[000000ff]}\n显示的记号。
+Tutorial_nBackSymbol_07	回答时，请点触选择\n下面排列的记号。
+Tutorial_nBackSymbol_08	首先将从回答{color[ff0c00ff]}1题之前{color[000000ff]}的记号，\n也就是{color[ff0c00ff]}1溯答{color[000000ff]}开始……
+Tutorial_nBackSymbol_09	会根据结果的{color[ff0c00ff]}正确率{color[000000ff]}\n{color[ff0c00ff]}自动调整{color[000000ff]}需要记住的数量。
+Tutorial_nBackSymbol_09_02	{color[ff0c00ff]}2溯答{color[000000ff]}的话，\n请回答{color[ff0c00ff]}2题之前{color[000000ff]}的记号。
+Tutorial_nBackSymbol_10	以能力极限的难度\n持续锻炼吧！
+System_nBackSymbol_01	这是用于锻炼{color[ff0c00ff]}工作记忆{color[000000ff]}的\n特别的锻炼。
+System_nBackSymbol_02	以自己{color[ff0c00ff]}能力极限{color[000000ff]}的难度\n每天一点点地持续锻炼吧！
+System_nBackSymbol_Stop	此锻炼今天已经\n无法再进行了。
+Result_nBackSymbol_Up_01	太棒了！\n游刃有余呢。
+Result_nBackSymbol_Up_02	下次挑战的等级\n就要提高了哦。
+Result_nBackSymbol_UpB_01	很好！\n要提高一个等级了哦。
+Result_nBackSymbol_UpB_02	以能力极限来锻炼吧。
+Result_nBackSymbol_Keep_01	在以能力极限锻炼呢。\n这样很不错！
+Result_nBackSymbol_Keep_02	就是这样，\n不断地锻炼吧！
+Result_nBackSymbol_KeepB_01	感觉非常不错。
+Result_nBackSymbol_KeepB_02	以勉强可以完成的难度\n持续进行锻炼吧！
+Result_nBackSymbol_Down_01	好像有点难了呢。
+Result_nBackSymbol_Down_02	虽然下次的等级会降低，\n但仍然值得挑战。
+Result_nBackSymbol_DownB_01	好像很难呢。
+Result_nBackSymbol_DownB_02	难度不能太大，\n稍微简单一点吧。
+Result_nBackSymbol_MinKeep_01	好像还是有点难呢。
+Result_nBackSymbol_MinKeep_02	不过，不要放弃。\n再试一次看看吧。
+Result_nBackSymbol_MaxKeep_01	真是令人吃惊的结果！
+Result_nBackSymbol_MaxKeep_02	已经没有比这个更难的等级了，\n所以维持这个等级吧。
+Result_nBackSymbol_UpS_01	恭喜恭喜！\n终于越过难关了呢！
+Result_nBackSymbol_UpS_02	这就是持续锻炼的成果！\n就是这样。
+Result_nBackSymbol_Up4_01	等级在稳步提升呢！
+Result_nBackSymbol_Up4_02	不断挑战困难的等级吧！
+Result_nBackSymbol_Up3_01	哎呀！\n还是简单了么。
+Result_nBackSymbol_Up3_02	那么，下面这个等级怎么样？
+Result_nBackSymbol_Up2_01	什么！\n还是简单了呢。
+Result_nBackSymbol_Up2_02	等级再次提升。\n继续挑战吧。
+Result_nBackSymbol_Keep4_01	维持着同样的等级……\n说明现在这个等级正好适合你。
+Result_nBackSymbol_Keep4_02	以此等级持续锻炼吧！
+Result_nBackSymbol_Keep3_01	很好呢。能在能力极限的\n等级下持续集中精神。
+Result_nBackSymbol_Keep3_02	大脑得到了充分的锻炼！
+Result_nBackSymbol_Keep2_01	一直维持着\n差不多的正确率呢。
+Result_nBackSymbol_Keep2_02	它表示你有在最适合的\n强度下好好锻炼！
+Result_nBackSymbol_KKKU_01	之前一直都是相同的等级……\n不过现在终于等级提升了呢！
+Result_nBackSymbol_KKKU_02	你的这份坚持不懈真是太棒了！\n就这样继续加油吧。
+Result_nBackSymbol_KKKD_01	这次有点失败了呢。
+Result_nBackSymbol_KKKD_02	通过降低一个难度的等级\n找回状态吧。
+Result_nBackSymbol_Down3_01	有些日子，以前能完成的等级\n会变得完全无法完成。
+Result_nBackSymbol_Down3_02	即使是这样也没问题。\n总之只要尽全力就好。
+Result_nBackSymbol_Down2_01	好像状态有点不好呢。
+Result_nBackSymbol_Down2_02	有时也会出现这样的情况。\n要想努力的心情很重要。
+Result_nBackSymbol_UDUD_01	你不想等级下降呢。
+Result_nBackSymbol_UDUD_02	想持续以高等级练习吧。
+Result_nBackSymbol_UDUD_03	但是，只以太难的\n等级持续锻炼……
+Result_nBackSymbol_UDUD_04	是无法有效锻炼大脑的。
+Result_nBackSymbol_DUD_01	这个等级还是难了呢。
+Result_nBackSymbol_DUD_02	但只要集中精神持之以恒……\n就一定可以超越它的。
+Result_nBackSymbol_UDU_01	在两个等级之间\n摇摆不定呢。
+Result_nBackSymbol_UDU_02	加大脑的负担……\n更多地锻炼工作记忆吧！
+Result_nBackSymbol_DU_01	此等级也游刃有余呢！
+Result_nBackSymbol_DU_02	再次提高等级\n重新挑战！
+Result_nBackSymbol_UD_01	这次有点吃力呢。
+Result_nBackSymbol_UD_02	从稍微简单点的\n等级重来吧。
+Continue_nBackSymbol_01	辛苦了。
+Continue_nBackSymbol_02	今天{color[ff0c00ff]}还剩{[0108]}次{color[000000ff]}。\n要继续进行1组吗？
+Continue_nBackSymbol_05	辛苦了。\n你有好好努力了呢！
+Continue_nBackSymbol_03	{color[ff0c00ff]}锻炼不能过度{color[000000ff]}，\n今天就到此为止。
+Continue_nBackSymbol_04	明天见！
+System_Compe_Aggregating_01	现在，正在{color[ff0c00ff]}统计{color[000000ff]}\n已结束的大会的结果。
+System_Compe_Aggregating_02	将于{color[ff0c00ff]}{[011b]}{color[000000ff]}的{color[ff0c00ff]}{[0112]}{[0101]}时之后{color[000000ff]}公布排名。\n敬请期待！
+System_Compe_Aggregating_03	下次大会将于\n{color[ff0c00ff]}{[0106]}月{[0107]}日{[011b]}{color[000000ff]}、{color[ff0c00ff]}{[0112]}{[0101]}时{color[000000ff]}开始。\n敬请期待！
+Greet_Update2_01	啊，对了……
+Greet_Update2_02	请经常使用{color[ff0c00ff]}“脑年龄检查”{color[000000ff]}\n测量脑年龄……
+Greet_Update2_03	查看自己锻炼的成果吧。
+Greet_Update2_04	顺便说一句，\n脑年龄变为{color[ff0c00ff]}20岁{color[000000ff]}的话……
+Greet_Update2_08	就能解锁{color[ff0c00ff]}特别的锻炼{color[000000ff]}！
+Greet_Update2_09	这是一种负担较大的锻炼。\n是我给你的挑战书。
+Greet_Update2_10	如果，脑年龄如何也\n到不了20岁……
+Greet_Update2_11	据说也有{color[ff0c00ff]}其他{color[000000ff]}的\n解锁{color[ff0c00ff]}方法{color[000000ff]}……？
+Greet_Update2_13	最后，我想问一下有关\n数字“{color[ff0c00ff]}5{color[000000ff]}”的写法。
+Greet_Update2_14	谢谢。我已让系统\n变得能更容易识别了。
+Greet_Update2_15	可以随时在“设置”的\n“{color[ff0c00ff]}5{color[000000ff]}的识别方式”中进行更改。
+Greet_Update2_12	那么，让我们一起加油吧！
+System_UnlockWMT_01	被你找到了呢。
+System_UnlockWMT_02	这是脑年龄到20岁\n才能解锁的{color[ff0c00ff]}特别锻炼{color[000000ff]}……
+System_UnlockWMT_03	如果脑年龄无论如何也\n到不了{color[ff0c00ff]}20岁{color[000000ff]}……
+System_UnlockWMT_04	其实也可以在这里解锁。
+System_UnlockWMT_05	要把你的脑年龄当做20岁，\n解锁{color[ff0c00ff]}新的锻炼{color[000000ff]}吗？
+System_UnlockWMT_07	你的这份挑战精神真是太棒了！
+System_UnlockWMT_08	那么，让我们一起加油吧！
+System_intr_Alarm_01	对了……\n我来给你介绍一个{color[ff0c00ff]}方便的功能{color[000000ff]}吧。
+System_intr_Alarm_02	如果设置“{color[ff0c00ff]}闹钟{color[000000ff]}”……
+System_intr_Alarm_03	这样即使主机在{color[ff0c00ff]}休眠中{color[000000ff]}，\n也会通知锻炼的时间。
+System_intr_Alarm_04	试着设置一下\n锻炼与{color[ff0c00ff]}大会的时间{color[000000ff]}吧！
+System_intr_Alarm_05	那么，让我们前往\n“{color[ff0c00ff]}设置{color[000000ff]}”中的闹钟画面吧。
+System_intr_Alarm_06	这样啊。
+System_intr_Alarm_07	“闹钟”就在“{color[ff0c00ff]}设置{color[000000ff]}”中。\n今后请来看看吧。
+System_intr_Bmail_01	对了……\n我来给你介绍一个{color[ff0c00ff]}方便的功能{color[000000ff]}吧。
+System_intr_Bmail_02	如果设置“{color[ff0c00ff]}脑锻炼邮件{color[000000ff]}”……
+System_intr_Bmail_03	就能将每天的{color[ff0c00ff]}锻炼结果{color[000000ff]}\n通过邮件发送出去。
+System_intr_Bmail_04	“计算25的锻炼次数突破{color[ff0c00ff]}20次{color[000000ff]}！”
+System_intr_Bmail_05	……还能知道这样的\n{color[ff0c00ff]}达成纪念新闻{color[000000ff]}哦。
+System_intr_Bmail_06	另外，还可以将邮件{color[ff0c00ff]}发送给自己{color[000000ff]}。
+System_intr_Bmail_07	让我们来详细看看\n“{color[ff0c00ff]}脑锻炼邮件{color[000000ff]}”吧！
+System_intr_Bmail_08	那么，让我们前往“{color[ff0c00ff]}设置{color[000000ff]}”中的\n脑锻炼邮件画面吧。
+System_intr_Bmail_09	这样啊。
+System_intr_Bmail_10	今后请去“{color[ff0c00ff]}设置{color[000000ff]}”中\n看看“脑锻炼邮件”吧。
+System_Tutrial_Again_01	“说明”中增加了{color[ff0c00ff]}手指识别的技巧{color[000000ff]}，\n我来做一下说明！
+System_Compe_FriendRanking_01	看看参加大会的{color[ff0c00ff]}好友{color[000000ff]}吧！
+System_Compe_FriendRanking_02	排名在{color[ff0c00ff]}10000名以内{color[000000ff]}的好友\n会显示名次。
+System_FriendRanking_Again_01	请再次确认是否要与\n好友共享{color[ff0c00ff]}大会的结果{color[000000ff]}。
+Sunday	周日
+Monday	周一
+Tuesday	周二
+Wednesday	周三
+Thursday	周四
+Friday	周五
+Saturday	周六
+am	上午
+pm	下午
+common_MenuTerm.msbt
+RecordNotFound	没有记录
+RecordUnit_00	{[0108]}{size[4600]}岁{size[6400]}
+RecordUnit_01	{[0102]}{size[4600]}分{size[6400]}{[0103]}{size[4600]}秒{size[6400]}{[0104]}
+RecordUnit_02	{[0103]}{size[4600]}秒{size[6400]}{[0104]}
+RecordUnit_03	{[0108]}{size[4600]}题正确{size[6400]}
+RecordUnit_03_Perfect	{[0108]}{size[4600]}题全部正确{size[6400]}
+RecordUnit_03_Zero	{size[4b00]}全部不正确{size[6400]}
+RecordUnit_04	{[0108]}{size[4600]}/{size[6400]}{[010a]}{size[4600]}题{size[6400]}
+RecordUnit_06	{[0108]}{size[4600]}/{size[6400]}{[010a]}{size[4600]}个{size[6400]}
+RecordUnit_07	{[0108]}{size[4600]}个{size[6400]}
+RecordUnit_08	{[0108]}{size[4600]}分{size[6400]}
+RecordUnit_12	{[0108]}{size[4600]}个正确{size[6400]}
+RecordUnit_13	{[0108]}{size[4600]}%{size[6400]}
+RecordUnit_14	{[0108]}{size[4600]}溯答{size[6400]}
+RecordUnit_12_Perfect	{[0108]}{size[4600]}个全部正确{size[6400]}
+GraphUnit_00	岁
+GraphUnit_01	分
+GraphUnit_02	题
+GraphUnit_03	分
+GraphUnit_05	个
+GraphUnit_06	秒
+YearMonth	{b}年 {[0106]}月
+MonthDay	{[0106]}/{[0107]}
+YearMonthDay	{b}年 {[0106]}月 {[0107]}日
+SceneName_TrainingSelect	锻炼
+Best3	最佳5项
+PrivateBest3	个人最佳5项
+OverallRanking	排名
+BrainAge	脑年龄
+Suppression	抑制力
+Processing	处理速度
+Memory	短期记忆
+Rank	第%d名
+Guest	来宾
+Connecting	正在连接...
+ConnectFailed	连接失败。
+Week01	日
+Week02	一
+Week03	二
+Week04	三
+Week05	四
+Week06	五
+Week07	六
+Month_Full01	1月
+Month_Full02	2月
+Month_Full03	3月
+Month_Full04	4月
+Month_Full05	5月
+Month_Full06	6月
+Month_Full07	7月
+Month_Full08	8月
+Month_Full09	9月
+Month_Full10	10月
+Month_Full11	11月
+Month_Full12	12月
+Month_Abbreviation01	1月
+Month_Abbreviation02	2月
+Month_Abbreviation03	3月
+Month_Abbreviation04	4月
+Month_Abbreviation05	5月
+Month_Abbreviation06	6月
+Month_Abbreviation07	7月
+Month_Abbreviation08	8月
+Month_Abbreviation09	9月
+Month_Abbreviation10	10月
+Month_Abbreviation11	11月
+Month_Abbreviation12	12月
+TextColor_Sunday	{[010b|ff1e16ff000000cd]}
+TextColor_Saturday	{[010b|214effff000000cd]}
+TextColor_OtherMonthDay	{[010b|b2b2b2ff000000cd]}
+TextColor_ThisMonthDay	{[010b|0e0e0eff000000cd]}
+TextColor_Hidden	{[010b|00000000000000cd]}
+TextColor_White	{[010b|ffffffff000000cd]}
+Key_Skeleton_A	
+Key_Opaque_A	
+Key_Skeleton_B	
+Key_Opaque_B	
+Key_Skeleton_X	
+Key_Opaque_X	
+Key_Skeleton_Y	
+Key_Opaque_Y	
+Key_Skeleton_Up	
+Key_Opaque_Up	
+Key_Skeleton_Down	
+Key_Opaque_Down	
+Key_Skeleton_Left	
+Key_Opaque_Left	
+Key_Skeleton_Right	
+Key_Opaque_Right	
+Key_Skeleton_L	
+Key_Opaque_L	
+Key_Skeleton_R	
+Key_Opaque_R	
+Key_Skeleton_ZL	
+Key_Opaque_ZL	
+Key_Skeleton_ZR	
+Key_Opaque_ZR	
+Key_FourButton_Opaque_Right	
+Key_FourButton_Opaque_Down	
+Key_Opaque_Plus	
+Key_Opaque_Minus	
+Key_Stick	
+common_Training.msbt
+trainingName_Keisan25	计算25
+trainingName_Keisan25Test	计算25测验
+trainingName_Keisan100	计算100
+trainingName_YubiKeisan	手指计算
+trainingName_BirdCounting	数野鸟
+trainingName_Sudoku	数字拼图
+trainingName_HumanCounting	数人数
+trainingName_FlashKioku	瞬间记忆
+trainingName_ImageMemory	前刻照片
+trainingName_DualTaskJump	双重课题
+trainingName_FingerGymnastics	手指体操
+trainingName_FlagUp	举旗子
+trainingName_BoxCounting	数箱子
+trainingName_Counting	高速数数测验
+trainingName_NumberMemory	5×5记忆测验
+trainingName_MTMTestCompe	照顺序连连看
+trainingName_MTMTest	照顺序连连看测验
+trainingName_MaxNumberCompe	最大数字
+trainingName_MaxNumber	最大数字测验
+trainingName_SerialSubtract	连续减法测验
+trainingName_JankenCompe	慢出猜拳
+trainingName_Janken	慢出猜拳测验
+trainingName_Doctor	细菌扑灭
+trainingName_NBackSymbol	工作记忆锻炼
+MinSec100MSec	%02d:%02d.%d
+trainingInst_Keisan	请用最快的速度书写。
+trainingInst_BirdCounting	请用最快的速度来数。
+trainingInst_BoxCounting	请用最快的速度来数。
+common_Window.msbt
+Dialog_01	{color[ff0c00ff]}每日锻炼{color[000000ff]}\n无法使用TV模式。
+Dialog_02	请使用{color[ff0c00ff]}掌上模式{color[000000ff]}\n或{color[ff0c00ff]}桌面模式{color[000000ff]}。
+Dialog_03	“轻松一刻”对应TV模式。
+Dialog_04	请将画面{color[ff0c00ff]}横向放置{color[000000ff]}。
+Dialog_05	请将画面{color[ff0c00ff]}竖向放置{color[000000ff]}。
+Button_Back	返回
+Button_Cancel	退出
+Button_Close	关闭
+OK	确定
+Button_A_OK	确定 
+Message_04	Joy-Con\n未无线连接。
+Message_05	Joy-Con(R)\n未无线连接。
+ConnectON	连接
+ConnectOFF	未连接
+Dialog_06	要连接互联网\n使用“{color[ff0c00ff]}好友排名功能{color[000000ff]}”吗？\n\n向好友公开锻炼、\n大会的结果以及脑年龄，\n与好友一较高下吧！\n\n{size[4b00]}可以随时在“设置”中更改。{size[6400]}
+Button_Visible	使用
+Button_Invisible	不使用
+Button_Later	稍后
+Button_Join	向世界挑战
+Button_NoJion	稍后
+Dialog_08	没有记录
+Dialog_09	可以使用\n脑锻炼邮件。
+Dialog_10	未设置脑锻炼邮件。\n\n请连接网站进行设置。\n\n{size[4b00]}※设置内容有时需要\n一定时间才能生效。{size[6400]}
+Dialog_11	与世界各地的人一较高下吧！\n\n{size[4b00]}将根据世界排名及\nNintendo Account中的\n出生年月日，\n显示同世代的排名。\n\n※参加后，　　　　　　　　　\n　以下信息将向其他用户公开。\n　・用户名称　　　　　　　　\n　・大会记录　　　　　　　　\n　・国家或地区　　　　　　　{size[6400]}
+TextCompetition	世界一同脑锻炼大会
+mail_BrainTraining.msbt
+SubjectStandard	【脑锻炼】{[0111]}的记录
+SubjectNewsSudokuClearAllQuest	【脑锻炼】祝贺！{[0111]}在数字拼图的完成率达到100%！
+SubjectNewsSudokuClearAllAdvancedQuest	【脑锻炼】祝贺！{[0111]}完成了数字拼图的所有高级题目！
+SubjectNewsSudokuClearAllNormalQuest	【脑锻炼】祝贺！{[0111]}完成了数字拼图的所有中级题目！
+SubjectNewsSudokuClearAllEasyQuest	【脑锻炼】祝贺！{[0111]}完成了数字拼图的所有初级题目！
+SubjectNewsSudokuClearPercentage	【脑锻炼】祝贺！{[0111]}在数字拼图的完成率突破{[0108]}%！
+SubjectNewsGetResultRankRocketCount	【脑锻炼】祝贺！{[0111]}在{[010d]}中获得{[0108]}次火箭级！
+SubjectNewsTrainingPlayCount	【脑锻炼】祝贺！{[0111]}在{[010d]}的锻炼次数突破{[0108]}次！
+DateTrainingDays	这是脑锻炼第{[0108]}天\n{b}/{[0106]}/{[0107]}（{[011b]}）的记录。
+UserBrainTraining	这里是{[0111]}的脑锻炼记录。
+NewsNumberMemoryAllCorrect	・“5×5记忆测验”中全题回答正确！
+NewsSudokuClearAllQuest	・“数字拼图”的完成率变为{[0108]}%！
+NewsSudokuClearAllAdvancedQuest	・完成“数字拼图”的所有高级题目！
+NewsSudokuFirstClearAdvanced	・首次完成“数字拼图”的高级题目！
+NewsSudokuClearAllNormalQuest	・完成“数字拼图”的所有中级题目！
+NewsSudokuClearAllEasyQuest	・完成“数字拼图”的所有初级题目！
+NewsSudokuClearPercentage	・“数字拼图”的完成率超过{[0108]}%！
+NewsGetResultRankRocketCount	・在“{[010d]}”中，总计{[0108]}次获得火箭级！
+NewsTrainingPlayCount	・总计{[0108]}次游玩“{[010d]}”！
+NewsFirstGetResultRankRocket	・首次在“{[010d]}”中获得火箭级！
+NewsFirstPlayTraining	・首次游玩“{[010d]}”！
+NewsFirstEntryConpetition	・参加了世界一同脑锻炼大会！
+BrainAge	这次：脑年龄{[0108]}岁
+LastTimeBrainAge	上次：脑年龄{[0108]}岁
+NotMeasuredBrainAge	还未测量。\n\n上次：脑年龄{[0108]}岁\n（{b}/{[0106]}/{[0107]}）
+ItemsBrainAge	脑年龄具体内容\n・抑制力{[0117]}岁\n・处理速度{[0118]}岁\n・短期记忆{[0119]}岁
+TrainingName	{[010d]}
+MailResultGrade_Rocket	火箭级
+MailResultGrade_Airplane	飞机级
+MailResultGrade_Shinkansen	动车级
+MailResultGrade_Car	汽车级
+MailResultGrade_Bicycle	自行车级
+MailResultGrade_Walking	徒步级
+MailRecordTime	・{[0102]}分{[0103]}秒{[0104]}（{[0115]}）
+RecordTimeGrows	・比上次快了{[0102]}分{[0103]}秒{[0104]}！
+RecordTimeFalls	・比上次慢了{[0102]}分{[0103]}秒{[0104]}。
+RecordQuest	・{[0108]}/{[010a]}题（{[0115]}）
+RecordQuestGrows	・比上次记录多了{[0108]}题！
+RecordQuestFalls	・比上次记录少了{[0108]}题！
+RecordCount	・{[0108]}个（{[0115]}）
+RecordCountGrows	・比上次记录多了{[0108]}个！
+RecordCountFalls	・比上次记录少了{[0108]}个！
+RecordSudokuEasy	数字拼图（初级）\n・完成{[0108]}题
+RecordSudokuNormal	数字拼图（中级）\n・完成{[0108]}题
+RecordSudokuAdvanced	数字拼图（高级）\n・完成{[0108]}题
+RecordDoctorEasy	细菌扑灭（简单）\n・{[0108]}分
+RecordDoctorNormal	细菌扑灭（普通）\n・{[0108]}分
+RecordDoctorAdvanced	细菌扑灭（困难）\n・{[0108]}分
+RecordNBack	・{[0108]}溯答
+RecordUpdate	・更新了个人最佳成绩！
+RecordSame	・与上次的成绩相同。
+MailRecordTimeLessMinutes	・{[0103]}秒{[0104]}（{[0115]}）
+RecordTimeGrowsLessMinutes	・比上次快了{[0103]}秒{[0104]}！
+RecordTimeFallsLessMinutes	・比上次慢了{[0103]}秒{[0104]}！
+HeadlineNews	■新闻
+HeadlineBrainAgeCheck	■脑年龄检查
+HeadlineTraining	■锻炼
+HeadlineTips	■川岛教授的大脑小语
+TipsBrain_01	～“人性”存在于何处？～\n\n其实人类的大脑中有一处特别发达的地方。\n那就是额头附近的“前额叶”这部分。\n这部分据说是用来控制创造力、记忆力、自制力等功能，让人类拥有人性的重要部分。（Funahashi & Andreau 2013）
+TipsBrain_02	～“朗读”的好处～\n\n实验结果表明，“朗读”文章要比“默念”更能使大脑高速运转起来。（Miuraetal.,2003）\n它被认为有助于活化大脑多个部位，并拥有让前额叶活性化的效果。\n我觉得如果家里有小孩子或孙子的话，可以读书给他们听。\n这样可以安抚小孩子的心情，也能让自己的大脑活跃起来。（Busetal.,1995）
+TipsBrain_03	～在日常生活中可以轻松做到的脑锻炼！～\n\n试试看对汽车牌照号码等能看见的数字做“加减乘除”吧。\n计算数字可能有助于让大脑活性化。
+TipsBrain_04	～用想像力锻炼吧～\n\n首先，请在脑海里想像一下猫的样子。\n接着，想像一下梯子的样子。\n接下来，再想像一下“猫咪梯子”这种虚构的东西。\n它会是一种怎样的样子呢？\n想像虚构的事物可能有助于前额叶的活性化。
+TipsBrain_05	～大脑渴望刺激？～\n\n我认为给予大脑刺激能有助于其活性化。\n不过，我可不是指去敲打脑袋。\n比如去未知之地旅行等等，像这种带有刺激的行为可能有助于大脑的活性化。
+TipsBrain_06	～放松紧张的小诀窍～\n\n极度紧张时，前额叶便不会运作。\n那时，在脑中快速地数数看看吧。\n这是我推荐用来缓解紧张感的小技巧。
+TipsBrain_07	～睡眠时大脑都发生了些什么～\n\n学习的内容会在睡眠中被记录在大脑里固定下来。（Stickgold et a., 2000）\n如果睡眠时间不足的话，这些内容或许就会消失，无法固定在大脑里。\n所以睡眠可以说是“大脑复习，创造记忆的时间”。
+TipsBrain_08	～不睡觉的话，记忆力会降低？～\n\n大脑中掌管新记忆的部分叫做“海马回”。\n实验表明睡眠时间不足的话，它的发育就会变差。（Taki et al., 2012）\n所以，通过睡眠来让大脑休息也是很必要的。
+TipsBrain_09	～大脑的活性化与新挑战有关？～\n\n大脑活性化后，好像会容易对“未知事物”产生兴趣。\n说不定会涌现出挑战新事物的力量呢。（Caballero et al., 2016）
+TipsBrain_10	～追寻竞争“速度”的机会吧～\n\n长大后，虽然不怎么会“比拼速度”了，但每天抽出一些时间，哪怕几分钟，尽可能快地做些什么事情吧。\n比拼速度可能有助于提高大脑的信息处理速度。（Nouchi et al., 2016）
+TipsBrain_11	～老化与不老化的大脑～\n\n智商分为“语言性智商”和“动作性智商”。（Wechsler, 1997）\n与经验和学习的积累有很大关系的“语言性智商”，虽然容易在50～70岁之间迎来高峰，但负责记忆力、判断力以及处理多个信息的“动作性智商”，几乎都会在20岁左右达到巅峰，之后就会一路下降。
+TipsBrain_12	～大脑令人吃惊的适应性～\n\n人类的大脑比我们想像的更富有适应性。\n有报告显示，如果戴着能让看见的事物上下颠倒的眼镜生活的话，只要一周时间就会觉得\n上下颠倒的世界是现实世界。(Harris 1963等)\n据说在那之后，如果摘掉眼镜生活的话，经过一段迷惘期后，就又会恢复原状了。\n正因为有着这样的适应性，人类才能存活至今吧。
+TipsBrain_13	～失败竟然与魅力有关！？～\n\n如果看到某人犯了错，比如看到有人跌倒了，就会觉得很可惜，感觉那个跌倒的人的魅力降低了。\n但是，研究表明如果失败的人本身能力就很高时，反而会觉得他的魅力上升了。（Aronson, Willerman & Floyd, 1996）\n虽然能力高的人会越来越有利，但大脑好像也有着这样不合理的一面。
+TipsBrain_14	～光是想像就能提升能力？～\n\n研究表明，回忆成就比如说获奖、合格等，只是回想这些事情，大脑的能力就会暂时得到提高。（Karsh & Eyal, 2015）\n对自己抱有信心，或许有着提高能力的效果。
+TipsBrain_15	～在人群中锻炼大脑？～\n\n如果有机会去参加聚会，试着在喧闹的环境中聚精会神地只听你想要听的那个人的声音吧。（Holdgraf et al., 2016）\n这可能有助于前额叶的活性化。
+TipsBrain_16	～“轻松便利”无法让大脑工作？～\n\n实验结果表明，使用道具制作料理，前额叶就会活性化。\n可能是因为伴随着危险，所以需要将注意力集中到手指上。然而使用削皮工具的话，前额叶基本不会活动。\n或许多花一些工夫能让大脑活性化，也会让料理变得更美味。
+TipsBrain_17	～开始学习乐器吧～\n\n你能演奏什么乐器吗？\n演奏可能有助于前额叶的活性化。\n现在，即使你不会演奏，也试着作为兴趣尝试一下如何？\n虽然练习时可能会影响到周围的人。
+TipsBrain_18	～大脑也追求被疗愈？～\n\n最近，你有没有被治愈到呢？\n被治愈时，也就是你在放松时，据说前额叶会得到充分的休息。\n好好地让前额叶得到休息也是很重要的。
+TipsBrain_19	～就算上了年纪也要学习～\n\n最近是否有在学习呢？\n随着年龄的增长，大脑的突触和神经纤维也会持续增加。\n无论几岁，学习对大脑都有好处。
+TipsBrain_20	～糊弄别人也会用脑？～\n\n请想想糊弄好友的方法。\n比如在玩扑克时，要让对方选择错误的扑克牌。\n这时不仅要考虑方法，还要考虑对方的心理。这样一来，前额叶或许就会活跃起来。\n但是，如果糊弄会导致你们之间的关系破裂，那还是只在脑海里想想就好了。
+TipsBrain_21	～为什么会“无法忍耐”？～\n\n额叶起着抑制愤怒和欲望等冲动的作用。\n小孩子容易冲动就是因为额叶不发达。\n即使是大人，如果额叶的功能衰退，也会变得不容易控制自己的感情。\n所以我希望大家能让自己的额叶不再衰退。
+TipsBrain_22	～推荐“直接见面”的理由～\n\n最近经常通过邮件及聊天软件来沟通吧。\n研究表明通过机器装置交谈，比如通过电话交谈时，前额叶就不会活跃地运作。（Jeong et al., 2011）\n所以为了让大脑能够活性化，建议直接与人面对面进行交谈。\n如果交谈时能看着对方的眼睛，效果可能会更好。
+TipsBrain_23	～大脑的3大健康法则～\n\n为了保持大脑的健康，首先要养成“用脑习惯”。（Cheng 2016）\n其次是“平衡膳食”。（le Coutre & Schmitt, 2008）\n接下来是“充足的睡眠”。（Richards et al., 2017）\n为了保持大脑的健康，我认为以上3点是很有必要的。
+TipsBrain_24	～挑战极限吧！～\n\n锻炼的要点是挑战能力的极限。\n如果锻炼时慢吞吞的，就不会有什么效果。\n只有以极限的速度、在极限困难的状态下解决问题，大脑才会加速运转，记忆容量也会增加。（Nouchi  et al., 2013）
+TipsBrain_25	～前额叶好厉害！～\n\n大脑的“前额叶”实际上有着各种各样的功能。\n比如读懂别人的心情（Schurz et al., 2014）、预测事物的功能（Vassena et al., 2017）、学习、研习、记忆的功能以及注意事物的功能（Euston et al., 2012）。\n还有自己打算做什么的自发意识也是前额叶的功能之一。（Cardinal et al., 2002）\n可以说，前额叶在大脑中起着最高级的作用。
+TipsBrain_26	～容易生气的人要注意！～\n\n前额叶的功能变迟钝的话，或许突发性感情的控制力，也就是说忍耐力就会降低，\n处于“容易生气”的状态。\n请多加注意。（Mathew, 2012）
+TipsBrain_27	～从容地生活～\n\n如果锻炼大脑的运转速度，在采取行动时，就会变得从容不迫。（Tam et al., 2015）\n真想以平静的心情度过每一天呢。
+TipsBrain_28	～建议乐观地思考～\n\n有时候，我们会进行一些不好的想像吧。\n曾经有人在研究室对想像锻炼进行了实验。\n在3小时内向40名大学生展示了看不懂结局的场景，并让部分人持续想像一段\n10秒钟左右的美好结局，让另一部分人持续想像一段糟糕的结局。\n结果，持续想像美好结局的人与进行想像锻炼前相比，在人前闲聊时的不安减少了。（Sakaki et al., in preparation）\n如果对交流感到不安的人，或许经常想像一下美好结局会比较好。
+TipsBrain_29	～刺激的生活！～\n\n有数据表明，在饲养多只老鼠时，在有迷宫或转轮等刺激较多的地方饲养的老鼠，与其他地方饲养的老鼠相比，大脑要更为发达。（Kempermann et al., 1997及其他人）\n人或许也一样，住在刺激多的地方，可能会对大脑的健康有好处。
+TipsBrain_30	～自己控制大脑！？～\n\n有些机器可以让我们看到大脑的运转情况。\n有研究表明，如果通过这个机器来看的话，我们可以看到自己做了什么，大脑的哪里会发生运转。最后，即使不做什么特别的事情，也能凭自己的意志来控制大脑的活动。（Kotozaki et al., 2014）\n如果能够看见自己的大脑，或许就能控制自己的大脑呢。
+TipsBrain_31	～看着对方的眼睛交谈吧！～\n\n进行交谈时，“最好是看着对方的眼睛交谈”。(Jeong et al., 2011)\n这样可能有助于提高沟通能力以及让大脑活性化。
+TipsBrain_32	～大脑也需要休息！～\n\n努力工作与学习后，看会电视或玩会视频游戏来让前额叶放松一下吧。\n让前额叶得到休息可能有助于提高效率。
+TipsBrain_33	～运动对大脑有益！？～\n\n有时到户外活动活动身体吧。\n运动可能具有促进脑神经细胞成长的效果。(Griffin et al., 2009)\n因此可以说是“运动也能使大脑成长”。
+TipsBrain_34	～容易落泪是意外的征兆？～\n\n最近有没有觉得容易落泪？\n其实变得容易落泪是大脑抑制感情功能下降的信号。（Wrosch et al., 2018）\n抑制涌现出来的感情，努力平复心情或许对大脑也是一种很好的锻炼。
+TipsBrain_35	～健康大脑，从均衡的饮食开始！～\n\n大脑的发育，需要均衡的饮食。（Prangthip et al., 2019）\n虽然大脑的能量来源是葡萄糖，但要想学习与记忆，光靠葡萄糖是不够的。（Akitsuki et al., 2011）\n如果光吃面包与米饭，而不好好吃菜的话，我觉得大脑是无法变得聪明的。
+TipsBrain_36	～多任务其实有两种！～\n\n同时处理多个事情的“多任务”其实有两种。\n分散注意力，处理多个事情的“多任务”以及将注意力集中在各个事情上，依次处理的“多任务”。\n分散注意力，处理多个事情的“多任务”，结果哪个都不会顺利。（Junco & Cotton 2011及其他人）\n“将注意力依次集中在各个事情上”是非常重要的。
+TipsBrain_37	～要注意“学习分心”～\n\n我曾经对仙台市的25016名中学生进行了问卷调查目的是为了查明智能手机的使用方法与成绩的关系。\n然后，我得到了一边使用智能手机一边学习的孩子成绩很低这样的分析结果。\n而且，还得到了学习时使用的应用软件越多，成绩就越低这样的数据。（Kawashima R 2018）\n虽然这取决于应用程序的种类，在学习时还是集中精神学习比较好。
+TipsBrain_38	～大脑怕寂寞！？～\n\n人如果受到排挤，就会变得想要把自己封闭起来。但其实有一种说法是人如果受到排挤，就会开始寻找新的朋友。(Maner et al., 2007;Dewall et al., 2009)\n大脑中可能有着想与他人产生联系的功能。
+TipsBrain_39	～通过化妆提升幸福感！～\n\n有一种疗法叫做“化妆疗法”。\n据说是通过化妆来争取提高QOL（生活质量），增加笑容，提升幸福感，使交流能力得到提高。（岡本 2011; 作山等人, 2007）而且，据说大脑会活性化。\n也就是说万圣节上的浓妆艳抹或许对大脑也有好处。
+TipsBrain_40	～开始做某事之前～\n\n在开始工作学习前……先花2，3分钟给这天的安排定个优先顺序吧。\n我认为这可能也有助于大脑的活性化。
+TipsBrain_41	～要想切实地感受每天的成果～\n\n根据时间的不同，大脑运作的情况也全然不同。（Schmidt et al., 2007）\n为了能够感受到锻炼成绩的提高，最好每天都在同一时间进行锻炼。
+TipsBrain_42	～要想打破停滞烦恼～\n\n刚开始锻炼那阵子，成绩一下子就会得到提高，但不久就会遇到瓶颈，变得停滞不前。\n不过，只要坚持持续锻炼，就会迎来“突破期”，成绩也会再次大幅提高。（Taylor & Smith, 1956）\n或许大脑正在静静地积蓄力量，为下一次的飞跃做准备呢。
+TipsBrain_43	～关于压力的研究～\n\n如果在公司或学校遇到了非常厌恶的事情，光是想像一下就会觉得很厌恶吧。\n但实际上不光是厌恶，或许还会因为压力导致大脑的存储容量减少。（Seshadri et al., 2018）\n如果遇到了非常令人厌恶的事情，有些人还会出现PTSD，也就是创伤后压力症候群的症状。\n有研究指出，PTSD患者大脑的工作记忆会降低。（Yehuda et al., 2006）。\n不过这两者之间是否有关，现在仍在研究当中。
+TipsBrain_44	～身心同步的话？～\n\n有研究表明，在学校的课堂上，如果班上同学们的点头等行动都很一致（同步）的话，那这节课的效率就会很高。（Kent 2013）\n另外，在其他的研究中，我们给中学班级里的学生一边测量大脑，一边让他们上课。结果得到了在上生动有趣的课程时，前额叶的活动也会变得同步这样的结果。 （Nozawa et al., in preparation）\n通过身心的同步来提高对课程内容的理解力，这样课程内容的趣味性或许也会得到提高。
+TipsBrain_45	～培育植物治愈大脑～\n\n有一种叫做“园艺疗法”的治疗方法。\n曾经有人做过这样的调查。让患有轻度PTSD（创伤后压力症候群）的人接受园艺疗法，并看看他们的大脑会出现怎样的变化。\n然后得到了据说因PTSD而缩小的大脑部分（左前扣带皮层）的体积有增大的趋势这样的结果。（Kotozaki 2013）。\n我认为对于大脑来说，或许培育植物具有治愈效果。
+TipsBrain_46	～游戏1天1小时？～\n\n数据显示每天玩游戏的时间不超过1小时的孩子，与不玩游戏的孩子相比更容易发现规律，在理解及构筑能力上也普遍较高。（Jones et al., 2014）\n是因为玩了游戏，所以导致能力得到了提高，还是能力较高的孩子会适度地玩会游戏仍不得而知。\n我会继续进行研究。
+TipsBrain_47	～控制大脑减轻压力！？～\n\n看着测量大脑的机器，仅凭自己的意志决定是否让大脑活性化……有人正在对这个较为困难的锻炼进行研究。\n在让30名成年男性进行该锻炼后，得到了心情低落有所缓解，工作压力有所降低，满足感得到提高这样的结果。(Kotozaki et al., 2014)\n通过这一结果，我认为当我们的心情低落时，或许进行控制自己大脑的锻炼会比较好。
+mail_ConfigBrainMail.msbt
+SceneName	脑锻炼邮件
+Back	返回
+Caption	将每天的锻炼结果\n通过邮件发送给家人吧。\n设置后，在锻炼的隔日早上\n会自动发送锻炼结果。\n{color[ff0c00ff]}※也可以发送给自己{color[000000ff]}
+Description	请使用智能手机或个人电脑\n访问以下网站进行设置。
+URL	https://switch-as3m.srv.nintendo.net
+TestConnect	设置测验
+Checking	正在检查……
+scene_AccountSelect.msbt
+BtnBack	返回
+SelectUser	请选择用户
+AddUser	增加新用户
+PlayDate	第%d天
+StartNew	新开始
+LastPlayTraining	进行了{[010d]}
+LastPlayNBack	进行了{[0108]}溯答
+LastPlayBrainAgeCheck	进行了脑年龄检查
+LastEntryCompetition	参加了大会
+Today	今天
+Yesterday	昨天
+Daysago	2天以上
+scene_Alarm.msbt
+Title	闹钟
+WeekInfomation	致容易忘记锻炼的人：\n设置{color[ff0c00ff]}闹钟{color[000000ff]}后，即使主机在休眠中，\n也会通知锻炼的时间。
+ButtonBack	返回
+ButtonAlarmOn	开启
+ButtonAlarmOff	关闭
+SetTime	{color[ff0c00ff]}{[0112]} {[0114]}：{[0113]}{color[000000ff]}
+NotSet	未设置
+TimeInfomation	写下闹钟的时间后，\n请按“{color[ff0c00ff]}确定{color[000000ff]}”。
+am	上午
+pm	下午
+ButtonErace	消除
+ButtonDecide	确定
+ButtonEraceAlarm	删除闹钟
+Sunday	星期日
+Monday	星期一
+Tuesday	星期二
+Wednesday	星期三
+Thursday	星期四
+Friday	星期五
+Saturday	星期六
+scene_BrainCompeRankingTop100.msbt
+SceneName	前100名
+SceneNameFriend	好友排名
+RankingWorld	世界排名
+RankingGeneration	同世代排名
+Generation10	12岁以下
+Generation15	13～15岁
+Generation19	16～19岁
+Generation20	20～24岁
+Generation29	25～29岁
+Generation30	30～34岁
+Generation39	35～39岁
+Generation40	40～44岁
+Generation49	45～49岁
+Generation50	50～59岁
+Generation60	60～69岁
+Generation70	70岁以上
+Back	返回
+Switch_Generation	同世代
+Switch_World	世界
+GenerationName	・・・・・・・・・・
+CompetitionNumber	第{[0108]}次
+CompetitionTitle	世界一同\n脑锻炼大会
+NotFoundData	没有数据
+scene_BrainCompeResult.msbt
+TextBack	返回
+TextNext	下一步
+TextTimes	第{[0108]}次
+TextCompetition	世界一同\n脑锻炼大会
+WorldRanking	世界排名
+GenerationRanking	同世代排名
+TextThisRecord	这次的记录
+TextLastRecord	上次的记录
+TextNumOfPersons	{[0108]}人当中
+TextNumOfPersonsLastTime	（{[0108]}人当中）
+TextRankSuffix	名
+TextRecoedUpdate	刷新最高记录
+TextDistribution	记录的分布
+TextUnitSecond	（秒）
+TextUnitPersons	（人数）
+TextRankingNear	你的前后排名
+TextRankingNear_under	10000名以外
+TextCapture	拍摄画面
+Generation10	12岁以下
+Generation15	13～15岁
+Generation19	16～19岁
+Generation20	20～24岁
+Generation29	25～29岁
+Generation30	30～34岁
+Generation39	35～39岁
+Generation40	40～44岁
+Generation49	45～49岁
+Generation50	50～59岁
+Generation60	60～69岁
+Generation70	70岁以上
+NextTime	下次预告
+CompetitionEvents	竞技项目
+TextDate	{[0106]}月{[0107]}日（{[011b]}）
+TextTime	{[0112]}{[0101]}：{[0113]}开始
+scene_BrainCompeTop.msbt
+TextTimeLimit	到结束为止还剩：
+TextTimeLimitHidden	到结束为止还剩{color[00000000]}：{color[000000ff]}
+TextNumOfPersons	{color[00000000]}出场人数：{color[000000ff]}{[0108]}{color[00000000]}人{color[000000ff]}
+TextNumOfPersonsDigitUp	{color[00000000]}出场人数：0{color[000000ff]}{[0108]}{color[00000000]}人{color[000000ff]}
+TextNumOfPersonsBase	出场人数：{color[00000000]}{[0108]}{color[000000ff]}人
+TextRemaining	出场项目数：{[0108]}/4
+TextUntilHolding	到举办为止还剩：
+TextUntilHoldingHidden	到举办为止还剩{color[00000000]}：{color[000000ff]}
+TextHourMinute	{[0101]}小时{[0102]}分
+TextHour	{[0101]}小时
+TextDayHour	{[0107]}天{[0101]}小时
+TextDay	{[0107]}天
+TextMinuteSecond	{[0102]}分{[011a]}秒
+TextSecond	{[011a]}秒
+TextTimes	第{[0108]}次
+TextCompetition	世界一同\n脑锻炼大会
+TextInSession	举办中
+TextResultDisplay	到结果发表为止\n还剩：
+TextDateAndTime	{[0106]}月{[0107]}日（{[011b]}）\n{[0112]}{[0101]}：{[0113]}开始
+TextDownLoading	正在接收数据……
+TextConnecting	正在连接……
+ButtonPartake	出场
+ButtonTop100	前100名
+ButtonLastTimeTop100	上次的前100名
+ButtonPastResult	上次的结果
+ButtonBack	返回
+ButtonResultDisplay	公布结果
+ButtonExplanation	说明
+ButtonFriendRanking	好友排名
+Sunday	日
+Monday	一
+Tuesday	二
+Wednesday	三
+Thursday	四
+Friday	五
+Saturday	六
+scene_BrainCompeTrainingSelect.msbt
+CompetitionNumber	第{[0108]}次
+CompetitionTitle	世界一同脑锻炼大会
+OpenExplain	请选择挑战项目。\n每个项目最多可挑战2次。
+ResultExplain	请选择想查看结果的项目。
+RestChallengeCount	{size[5a00]}剩余挑战次数：{size[6400]}{[0108]}{size[5a00]}次{size[6400]}
+Challenged	已挑战
+MyBestRank	自我最佳：第{[0108]}名
+ResultMyData	第{[0108]}名／{[011c]}人当中
+RecordHeader	记录
+CheckResult	查看结果
+NotChallenged	未挑战
+NewResult	新
+Back	返回
+SceneNameOpen	出场
+SceneNameResult	公布结果
+scene_CheckBrainAge.msbt
+Tutorial	说明
+Close	关闭
+CheckResult	测量结果
+YourBrainAge	你的脑年龄是...
+Age	岁
+CheckBrainAge	脑年龄检查
+YearMonthDay	{b}/{[0106]}/{[0107]}
+BrainAgeDetail	脑年龄具体内容
+HowItWorks	脑年龄检查的原理
+HowItWorksText	从20几岁到70几岁各二十多名，\n共计149名被实验者那里\n收集的成绩数据中推算出\n最佳的近似值（图1）。\n通过本软件的脑年龄检查\n能测量的脑年龄（含具体内容中的\n抑制力、处理速度、短期记忆），\n是根据这个近似公式计算出来的。
+Illustration1	图1
+StartBrainAgeCheck	脑年龄检查\n开始
+StartBrainAgeCheck_A	脑年龄检查\n开始
+StartBrainAgeCheckTest	开始
+StartBrainAgeCheckTest_A	开始
+TextCapture	拍摄画面
+scene_Config.msbt
+Config	设置
+Back	返回
+DominantHand	惯用手
+Calender	显示日历
+StampDesign	印章设计
+Alarm	闹钟
+Staff	制作人员
+FriendStatus	好友排名
+WriteFiveInTwoStroke	“5”的识别方式
+BrainMail	脑锻炼邮件
+Right	右
+Left	左
+Month	1个月
+Week	1周
+Use	使用
+NotUse	不使用
+BothStroke	标准
+OneStroke	1笔
+TwoStroke	2笔
+scene_Doctor.msbt
+BtnInterruption	中断
+BtnBack	返回
+BtnSave	保存关卡进度后退出
+BtnQuit	退出
+BtnNextStage	前往下一关
+BtnNext	下一步
+TextScore	得分
+TextDifficulty	难度
+TextDifficultyEasy	简单
+TextDifficultyNormal	普通
+TextDifficultyHard	困难
+TextStageNumber	关卡数
+TextStageClear	扑灭完成
+TextGameOver	扑灭失败
+scene_EasyPlayHomeMenu.msbt
+EasyPlay	轻松一刻
+Back	返回
+Next	确定
+Move	移动
+EasyPlayBrainAgeCheckTitle	轻松一刻\n脑年龄检查
+Training	{color[ff0c00ff]}手指{color[000000ff]}脑锻炼
+TrainingTwoPlayer	{color[ff0c00ff]}对战{color[000000ff]}脑锻炼
+EasyPlayBrainAgeCheck	{color[ff0c00ff]}用猜拳{color[000000ff]}进行测验
+scene_HomeMenu.msbt
+Back	返回
+Close	关闭
+Calendar	日历
+Training	锻炼
+Competition	世界一同\n脑锻炼大会
+CompetitionPeriod	举办中
+CompetitionAggregating	统计结果中
+CompetitionResult	已公布结果
+WorkingMemory	工作记忆\n锻炼
+BackNumber	自我最佳：{[0108]}溯答
+Training_NotYet	今天还未进行锻炼
+Training_Already	今天已进行锻炼
+Day	第%d天
+BrainAgeCheck	脑年龄检查
+BrainAgeCheck_Already	已是最新脑年龄
+BrainAge	脑年龄{[0108]}岁
+Mail	脑锻炼邮件
+Alarm	闹钟
+Config	设置
+LetsPushStamp	请点触今天的日期
+BrainAgeCheck_CountDown	到重置为止还剩{[0107]}天
+BrainAgeCheck_Reset	已重置脑年龄
+CompetitionEntry	出场
+scene_InitialSetting.msbt
+Guide	请写下出生年月日。
+BirthYear	出生年（公历）
+BirthMonth	出生月
+BirthDay	出生日
+Delete	消除
+Decide	确定
+scene_Profile.msbt
+SceneName	个人信息
+Back	返回
+UnitTrainingDays	第%d{size[5a00]}天{size[6400]}
+SudokuUnitRate	%d{size[4600]}％{size[6400]}
+SudokuRateAll	完成率：
+TitleBrainAge	脑年龄
+ValueBrainAge	{[0108]}
+ValueBestBrainAge	{size[5a00]}脑年龄{size[6400]}{[0108]}{size[5a00]}岁{size[6400]}
+UnitAge	岁
+CheckDay	测量日{b}/{[0106]}/{[0107]}
+LastCheckDay	上次{b}/{[0106]}/{[0107]}
+TitleCompetition	世界一同脑锻炼大会
+Appearances	出场次数
+UnitCount	%d{size[4b00]}次{size[6400]}
+HighestRank	世界排名最高名次
+RankByItem	项目最高名次
+YearMonthDay	{b}/{[0106]}/{[0107]}
+UnitRank	第%d名
+GenerationRanking	（同世代第{[0108]}名）
+HighestMedal	世界排名最高级别
+MedalByItem	项目最高级别
+CompetitionBestRecord	大会自我最佳
+TitleTraining	锻炼
+TitleRelax	放松
+TitleBrainAgeCheck	脑年龄检查
+CommonBestRecord	自我最佳：
+CommonCountTotalPlay	游玩次数：
+SudokuItems	具体内容
+SudokuRateEasy	　　　初级完成率：
+SudokuRateNormal	　　　中级完成率：
+SudokuRateAdvanced	　　　高级完成率：
+DoctorCountEradication	累积扑灭数：
+DoctorBestScore	自我最佳分数
+DoctorScoreEasy	　　　简单：
+DoctorScoreNormal	　　　普通：
+DoctorScoreAdvanced	　　　困难：
+UnitNBack	{[0108]}溯答
+scene_StaffCredit.msbt
+Back	返回
+Staff	制作人员
+Name_000	{color[009800ff]}Nintendo Co., Ltd.{color[000000ff]}
+Name_001	Soshi Abe
+Name_002	Yosuke Fujino
+Name_003	Shuntaro Furukawa
+Name_004	Minako Hamano
+Name_005	Kunihiro Hasuoka
+Name_006	Yukihiko Hayashi
+Name_007	Masaki Horii
+Name_008	Haruka Kakinuma
+Name_009	Kouichi Kawamoto
+Name_010	Noriko Kitamura
+Name_011	Yoshiaki Koizumi
+Name_012	Kenta Kubo
+Name_013	Junji Morii
+Name_014	Sota Omiya
+Name_015	Yuichi Ozaki
+Name_016	Takayuki Shimamura
+Name_017	Shinya Takahashi
+Name_018	Kazuki Tsukuda
+Name_019	Hitoshi Yamazaki
+Name_020	Masami Yone
+Name_022	{color[009800ff]}indieszero Co., Ltd.{color[000000ff]}
+Name_023	Masaru Arai
+Name_024	Shinya Ebihara
+Name_025	Keiji Hara
+Name_026	Yuichi Igarashi
+Name_027	Mari Jinbo
+Name_028	Taeko Kuroda
+Name_029	Jun Maruyama
+Name_030	Giichiro Matsumoto
+Name_031	Masahito Muta
+Name_032	Yasuhiro Nakamura
+Name_033	Tsukasa Okayasu
+Name_034	Masanobu Suzui
+Name_035	Nobuaki Tanaka
+Name_036	Yasuhito Wakabayashi
+Name_037	Hirotaka Watanabe
+Name_038	Yuuki Yamada
+Name_039	Masahiro Yanaka
+Name_040	Katsunori Yazawa
+Name_042	{color[009800ff]}Nintendo of Europe GmbH{color[000000ff]}
+Name_043	Giaime Carbonara
+Name_044	Theodoros Spenis
+Name_046	{color[009800ff]}Nintendo (Hong Kong) Limited{color[000000ff]}
+Name_047	Wang Zhong Long
+Name_048	Iven Lin
+Name_049	Tracy Cheng
+Name_051	{color[009800ff]}iQue (China) Ltd.{color[000000ff]}
+Name_052	Keisuke Fukushima
+Name_053	Hu Huiming
+Name_054	Yuan Jun
+Name_055	Zhang Jiong
+Name_057	{color[009800ff]}Nintendo of Korea{color[000000ff]}
+Name_058	Jeewan Chun
+Name_059	Suzy Do
+Name_059_2	Soonil Kim
+Name_060	Kyoungim Na
+Name_062	{color[009800ff]}Special Thanks{color[000000ff]}
+Name_063	Shinya Fujiwara
+Name_064	Hiroki Hamaue
+Name_065	Yasuyuki Ikeda
+Name_066	Takeshi Kawasaki
+Name_067	Yoshiyuki Makino
+Name_068	Yoshifumi Masaki
+Name_069	Takafumi Masaoka
+Name_070	Takumi Masuda
+Name_071	Daiki Moriyama
+Name_072	Kazuyoshi Ohsawa
+Name_073	Shinji Okane
+Name_074	Shuhei Oshita
+Name_075	Yuichi Shimoda
+Name_076	Koji Sonoyama
+Name_077	Rika Sugo
+Name_078	Ryo Tanaka
+Name_079	Akitoshi Taniguchi
+Name_080	Tomoaki Toyama
+Name_081	Masaki Wada
+Name_082	Takeshi Wakasugi
+Name_083	Kenji Yamamoto
+Name_084	Shinya Yano
+Name_085	Yoshito Yasuda
+Name_086	Yuta Yoshimoto
+Name_088	{color[009800ff]}Very Special Thanks{color[000000ff]}
+Name_089	DIGITAL HEARTS Co., Ltd.
+Name_090	Finger Recognition Development Team
+Name_091	Mario Club Co., Ltd.
+Name_092	Nintendo European Research and Development
+Name_093	NintendoWare Bezel Engine Development Team
+Name_094	SRD Co., Ltd.
+Name_095_2	{color[009800ff]}Supervisor{color[000000ff]}
+Name_096	Ryuta Kawashima
+scene_StampDesign.msbt
+Back	返回
+SceneName	印章设计
+Explain	可以设计印章
+Decide	确定
+scene_Title.msbt
+HandyStart	开始
+TVStart	请按
+scene_TitleMenu.msbt
+Back	返回
+Next	确定
+EasyPlay	轻松一刻
+Training	每日锻炼
+EasyPlayText	活动手指的全新脑锻炼，\n还可以进行对战脑锻炼。
+TrainingText	持续锻炼维持大脑健康。\n还可以进行数字拼图。
+scene_TrainingLevelSelect.msbt
+BtnBack	返回
+TextRecord	{[0102]}分{[0103]}秒{[0104]}
+TextQuestionNo	题{[0108]}.
+TextStart	开始
+TextTryAgain	重新挑战
+TextRestart	重新开始
+TextPracticeNo	练习{[0108]}
+scene_TrainingResult.msbt
+ResultGrade_Rocket	火箭级
+ResultGrade_Airplane	飞机级
+ResultGrade_Shinkansen	动车级
+ResultGrade_Car	汽车级
+ResultGrade_Bicycle	自行车级
+ResultGrade_Walking	徒步级
+Finish	结束
+Record	记录
+TimeUsed	所用时间
+MissedFormula_Seconds	失误%d{size[4600]}ｘ{size[6400]}%d{size[4600]}秒{size[6400]}
+MissedFormula_Minute	失误%d{size[4600]}ｘ{size[6400]}%d{size[4600]}分{size[6400]}
+Minute	%d{size[4600]}分{size[6400]}
+NumberOfRightAnswers	答对数
+MissFormula_Jump	跳跃失误%d×%d秒
+MissFormula_Touch	数字失误%d×%d秒
+Win	胜利
+Lose	失败
+Draw	平手
+Miss	失败
+PlayerRecord	%dP记录
+Activation	锻炼结束
+Activation_Practice	练习结束
+NewRecord	最高记录更新
+Button_Next	下一步
+Button_Next_A	 下一步
+Checking	正在检查……
+CheckComplete	检查结束
+TextTimes	第{[0108]}次
+TextCompetition	世界一同\n脑锻炼大会
+TextNowSending	正在发送记录……
+TextCompSending	发送完成
+DateTitle	名次公布日
+Date	{[0106]}{size[4b00]}月{size[6400]}{[0107]}{size[4b00]}日（{[011b]}）{[0112]} {size[6400]}{[0101]}：{[0113]}{size[4b00]}～{size[6400]}
+NumOfPersonsTitle	现在的出场者人数：
+NumOfPersons	{color[00000000]}{[0108]}{color[000000ff]}人
+NumOfPersons_Num	{[0108]}{color[00000000]}人{color[000000ff]}
+NumOfPersons_0Num	{color[00000000]}０{color[000000ff]}{[0108]}{color[00000000]}人{color[000000ff]}
+BackNumber	{[0108]}溯答
+AccuracyRate	正确率
+ReasonLvUp	由于正确率在85％以上
+ReasonLvKeep	由于正确率在66～84％之间
+ReasonLvDown	由于正确率在65％以下
+ReasonLvKeepEx	由于与上次一致
+LevelUP	↑等级上升
+LevelKeep	→等级不变
+LevelDown	↓等级下降
+scene_TrainingSelect.msbt
+Btn_Back	返回
+NewTraining	新
+TrainingSudoku_AchievementRate	完成率%d{size[4600]}％{size[6400]}
+TrainingDoctor_TotalEradicationNumber	累积扑灭数%d
+RecordHeader0	自我最佳
+OverallOverview	可能有助于前额叶的活性化。\n尽量每天一点点地持续下去吧。
+TrainingOverview_00	快速计算计时赛
+TrainingOverview_01	仔细计算计时赛
+TrainingOverview_04	从新手到高手
+TrainingOverview_06	注意人们进出的地方
+TrainingOverview_07	难度会根据正确数自动调整
+TrainingOverview_08	使用工作记忆记住
+TrainingOverview_09	使用手指回答计算问题
+TrainingOverview_10	快速模仿计时赛
+TrainingOverview_21	锻炼后的放松
+TrainingOverview_22	同时处理两件事情
+scene_TrainingStart.msbt
+Back	返回
+Close	关闭
+Information	说明
+Start	开始
+Ranking	排名
+EasyPlayInfoButton	 / 
+ProvenText	前额叶活性化测量完成
+AchievementRate	完成率
+SudokuRule	数字拼图的规则
+SudokuLevel_00	初级
+SudokuLevel_01	中级
+SudokuLevel_02	高级
+SudokuLevel_02_Close	？？？
+AchievementRatePercent	%d{size[4600]}％{size[6400]}
+DoctorTotalScore	累积扑灭数
+DoctorRule	细菌扑灭的规则
+DoctorLevel_00	简单
+DoctorLevel_01	普通
+DoctorLevel_02	困难
+BrainCheck	脑年龄检查
+BrainCheckStructure	脑年龄检查的原理
+BrainCheckExplanation	将根据随机选出的3项测验\n来测量你的脑年龄。
+EasyPlayBrainAgeCheckTitle	轻松一刻 脑年龄检查
+Training	手指脑锻炼
+TrainingTwoPlayer	对战脑锻炼
+EasyPlayBrainCheck	猜拳测验
+IR_notice	无法准确识别时，\n请查看“说明{size[5a00]}”。{size[6400]}
+IR_notice_02	无法准确识别时，\n请查看“说明{size[5a00]} / ”。{size[6400]}
+Hold	第{[0108]}次
+BrainCompe	世界一同\n脑锻炼大会
+Record	记录
+PlayCount	剩余挑战次数：{[0108]}次
+InvaliedPlayCount	剩余挑战次数：无
+WorkingMemory	工作记忆\n锻炼
+TextNBackCurrent	现在
+TextNBack	{[0108]}溯答
+TextRecordNBack	自我最佳 {[0108]}溯答
+WMTPlayCount	{size[5a00]}今天剩余次数：{size[6400]}{[0108]}{size[4b00]}次{size[6400]}
+WMTInvaliedPlayCount	{size[5a00]}今天剩余次数：无{size[6400]}
+WahtIsWorkingMemory	工作记忆是什么？
+WahtIsWorkingMemoryText	工作记忆是1960年代发表的\n有关记忆的一种概念。\n它表示一系列的记忆过程，\n包括在脑内暂时保持信息的同时，\n操作并利用该信息。\n\n为了能健康地进行日常生活，\n工作记忆是必不可少的一种能力。\n\n例如，交流中一边听取对方的话，\n一边理解并回答的时候，\n以及考虑料理的步骤，\n然后烹饪的时候，\n都需要用到工作记忆。\n\n在体育运动中，预测对方的动作，\n然后考虑自己下一步的行动时，\n也需要用到工作记忆。\n\n工作记忆能力强的人，\n可以同时处理多件事情，\n也可以将这些事情\n记在脑中并依次处理。
+TrainingExplanation_00	●可能有助于前额叶的活性化\n●帮助大脑热身\n●可能有助于提高大脑的处理速度
+TrainingExplanation_01	●可能有助于前额叶的活性化\n●可能有助于提高大脑的处理速度
+TrainingExplanation_05	●可能有助于前额叶的活性化\n●可能有助于提高记忆力
+TrainingExplanation_07	●可能有助于前额叶的活性化\n●可能有助于提高记忆力与集中力
+TrainingExplanation_08	●可能有助于前额叶的活性化\n●可能有助于提高记忆力
+TrainingExplanation_09	●可能有助于前额叶的活性化\n●可能有助于提高记忆力
+TrainingExplanation_10	●可能有助于前额叶的活性化\n●可能有助于提高大脑的处理速度
+TrainingExplanation_11	●可能有助于前额叶的活性化\n●可能有助于提高大脑的处理速度
+TrainingExplanation_12	●可能有助于前额叶的活性化\n●可能有助于提高大脑的处理速度
+TrainingExplanation_13	●可能有助于前额叶的活性化\n●可能有助于提高记忆力
+TrainingExplanation_14	●可能有助于前额叶的活性化\n●可能有助于提高记忆力与集中力
+TrainingExplanation_21	将根据后出猜拳测验\n来测量你的脑年龄。
+TrainingExplanation_22	●帮助前额叶放松\n●建议在锻炼后或睡觉前进行
+TrainingExplanation_23	●可能有助于前额叶的活性化\n●可能有助于提高记忆力与集中力
+TrainingExplanation_24	将以自己能力极限的难度\n锻炼工作记忆。
+training_birdcounting.msbt
+Add	+1
+Finish	结束！
+TextQuestion	小鸟的数量是？
+training_boxcounting.msbt
+TextMemory	请记住
+TextQuestion	箱子的数量是？
+training_controllerguide.msbt
+back	返回
+ir_connect	请{color[ff0c00ff]}无线连接Joy-Con(R){color[000000ff]}。
+flag_connect	请{color[ff0c00ff]}无线连接Joy-Con{color[000000ff]}。\n请{color[ff0c00ff]}2人{color[000000ff]}像这样好好地拿着。
+count_connect	请{color[ff0c00ff]}无线连接Joy-Con{color[000000ff]}。\n请{color[ff0c00ff]}2人{color[000000ff]}像这样拿着。
+count_push_big	请按 / 。
+count_push_small	按 / 的话便会开始！
+flag_push_button	请先确认周围无障碍物后，\n再按{color[ff0c00ff]}任意键{color[000000ff]}。
+ir_notice_00	握持时请与地板或桌子保持平行。\n准备好后请按{color[ff0c00ff]}{size[5a00]}{size[6400]}键{color[000000ff]}。
+ir_notice_01	{color[464646ff]}在强光处有可能无法顺利识别手指。{color[000000ff]}
+training_counting.msbt
+TextQuestion	请尽可能快地\n大声地从1数到120。
+BtnFinish	数完了
+BtnFast	太快了。
+training_dualtaskjump.msbt
+TextTouchAndJump	通过点触来跳跃。
+TextQuestion	请在起跳跨栏的同时，\n点触数值最大的数字。
+training_fingergymnastics.msbt
+TextAdvice	请模仿。
+TextAdvice_02	无法识别。
+TextNoticeRightHand	请以左手握持Joy-Con(R)，\n并用{color[ff0c00ff]}右手出布{color[000000ff]}。
+TextNoticeLeftHand	请以右手握持Joy-Con(R)，\n并用{color[ff0c00ff]}左手出布{color[000000ff]}。
+TextIRCamera	动作感应IR摄像头
+TextIRCameraPicture	动作感应IR摄像头的影像
+training_flagup.msbt
+TextMemory	请记住示范的动作。
+TextQuestion	请以相同的顺序摇旗。
+TextModel	示范
+TextRest	剩余次数
+TextLast	最后！
+TextExtra	延长战！
+TextUp	上
+TextDown	下
+TextLeft	左
+TextRight	右
+TextStart	指向{color[ff0c00ff]}正前方{color[000000ff]}。
+TextCaribration	请{color[ff0c00ff]}水平{color[000000ff]}握持\n{color[ff0c00ff]}Joy-Con{color[000000ff]}。
+GuideCaribration	请让{color[ff0c00ff]}Joy-Con{color[000000ff]}保持水平。
+training_flashkioku.msbt
+TextMemory	请记住框中显示的数字。
+TextTouch	请按从小到大的顺序点触数字。
+training_humancounting.msbt
+Guide_00	请记住人数。
+Guide_01	房屋里有几人？
+TextWriteHere	请写在这里。
+training_imagememory.msbt
+TextMemory	请记住
+TextSelect	请选择前一张照片。
+BtnMemory	记住了
+training_janken.msbt
+TextWin	请获胜。
+TextLose	请输掉。
+TextAdvice	请举起你的手。
+TextAdvice_02	无法识别。
+TextPullRightHand	{color[ff0c00ff]}举手后{color[000000ff]}便会开始！
+TextNoticeRightHand	请以左手握持Joy-Con(R)，\n并用{color[ff0c00ff]}右手出布{color[000000ff]}。
+TextNoticeLeftHand	请以右手握持Joy-Con(R)，\n并用{color[ff0c00ff]}左手出布{color[000000ff]}。
+TextIRCamera	动作感应IR摄像头
+TextIRCameraPicture	动作感应IR摄像头的影像
+training_keisan.msbt
+TextClear	突破{[0108]}题！
+training_maxnumber.msbt
+QuestionTex	请点触数值\n最大的数字。
+training_mtmtest.msbt
+TextQuestion	请画线并按顺序连接。
+BtnRewrite	重写
+training_nbacksymbol.msbt
+TextMemory	请记住
+TextSelectSingular	请选择前{[0108]}个的记号。
+TextSelectPlural	请选择前{[0108]}个的记号。
+TextNBack	{[0108]}溯答
+ButtonMemory	记住了
+ButtonRetry	重试
+ButtonRetire	不行了
+ButtonPass	放弃
+training_numbermemory.msbt
+GiveUp	放弃
+Done	记住了
+RestTime	{[0102]}{size[4600]}分{size[6400]}{[0103]}{size[4600]}秒{size[6400]}
+RestTime_01	{[0103]}{size[4600]}秒{size[6400]}
+Guide_00	请记住数字及其位置。
+Guide_01	请通过点触选择位置。
+Guide_02	请写出记住的数字。
+TextWriteHere	请写在这里。
+training_serialsubtract.msbt
+BtnAgain	再试一次
+TextQuestion	请连续减{[0108]}。
+TextWriteHere	请写在这里。
+training_sudoku.msbt
+BtnInterruption	中断
+BtnConfirm	确定
+TextMemo	备注
+TextTouch	请点触要写入\n数字的方格。
+TextMissCount	失误：{[0108]}/5
+TextMissCountColor	失误：{color[cb120aff]}{[0108]}{color[000000ff]}/5
+TextCongrats	恭喜恭喜！
+TextFailed	真是可惜……
+TextPractice	练习
+TextPracticeMessage	请将数字填入正中间的方格。
+TextWriteHere	请写在这里。
+training_yubikeisan.msbt
+TextAdvice	无法识别。
+TextNoticeRightHand	请以左手握持Joy-Con(R)，\n并用{color[ff0c00ff]}右手出布{color[000000ff]}。
+TextNoticeLeftHand	请以右手握持Joy-Con(R)，\n并用{color[ff0c00ff]}左手出布{color[000000ff]}。
+TextIRCamera	动作感应IR摄像头
+TextIRCameraPicture	动作感应IR摄像头的影像

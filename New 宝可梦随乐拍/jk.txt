@@ -7,7 +7,6 @@ C003_Professor	カガミはかせ
 C004_FriendBoy	フィル
 C005_FriendGirl	リタ
 C006_Photographer	トオル
-C007_Adventurer	ビクトル
 Collection_Info.msbt
 Flower001_Info	フロレオとうの　クリスタフラワーだね。\nけんきゅうきこうのマークは　このはなが\nモチーフに　なっているんだよ。\nさいきん　ひかるしくみを　かいめいした\nばかりで　まだ　なぞがおおいんだ。
 Flower002_Info	ベラスとうの　クリスタフラワーだね。\nふわりんごに　にている\nあまいかおりが　とくちょうだよ。\nポケモンたちも　おもわず\nウットリしてしまうんだ。
@@ -208,6 +207,12 @@ ComWindow082_Select1	OK
 ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルのまいすうは　リセットされます。\n{color[0800]}りんごメダルをもらったかずの　そうすうは　へりません{color[ffff]}
 ComWindow083_Select1	はい
 ComWindow083_Select2	いいえ
+ComWindow101_Info	{color[0800]}アップデートの　おしらせ{color[ffff]}{[0004]}「しんエリアの　ついか」\nカクレぬけみち（ひる・よる）\nヨーヨーリバー（ひる・よる）\nカラリこうや（ひる・よる）\n{color[0800]}かいほうじょうけんを　みたすひつようが　あります{color[ffff]}{[0004]}「かくしゅコンテンツの　ついか」\nフィルタ　／　スタンプ　／　フレーム\nプロフィールアイコン　／　ちょうさしょうごう\n{color[0800]}いちぶは　じょうけんを　みたすひつようが　あります{color[ffff]}{[0004]}「コンプリートじょうけんの　へんこう」\nコンテンツの　コンプリートじょうけんが\nいちぶ　へんこうされました。{[0004]}ついかされた　エリアでは\nあらたなポケモンとの　であいが　まっています。\nひきつづき　レンティルちほうの\nちょうさを　おたのしみください。
+ComWindow101_Select1	つぎへ
+ComWindow101_Select2	OK
+ComWindow102_Info	ほんとうに　ベースキャンプに　もどりますか？\n{color[0800]}さつえいしたしゃしんは　なくなります{color[ffff]}
+ComWindow102_Select1	はい
+ComWindow102_Select2	いいえ
 EvaluationPhotoCaption_Info.msbt
 EV_Mot_Unknown_01_PCap	？？？
 EV_Mot_Unknown_02_PCap	？？？
@@ -256,6 +261,7 @@ EV_Mot_Sp_P006_01_PCap	ハイタッチ！
 EV_Mot_Sp_P006_02_PCap	おしゃれしててカワイイ！
 EV_Mot_Sp_P006_04_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P006_05_PCap	やったー！
+EV_Mot_Sp_P006_06_PCap	おなかのベッド
 EV_Mot_Sp_P007_01_PCap	そらをめざして
 EV_Mot_Sp_P007_02_PCap	ハデにとうじょう！
 EV_Mot_Sp_P007_03_PCap	いかくちゅう
@@ -338,12 +344,15 @@ EV_Mot_Sp_P046_02_PCap	きょうみしんしん
 EV_Mot_Sp_P047_01_PCap	おやすみタイム
 EV_Mot_Sp_P047_02_PCap	よつばのクローバー
 EV_Mot_Sp_P048_01_PCap	ナイスキャッチ！
-EV_Mot_Sp_P048_02_PCap	いかくちゅう
 EV_Mot_Sp_P048_03_PCap	うるさ～い！
 EV_Mot_Sp_P049_01_PCap	とっしんだー！
 EV_Mot_Sp_P049_02_PCap	だいジャーンプ！
 EV_Mot_Sp_P050_01_PCap	パンチされた！
 EV_Mot_Sp_P050_02_PCap	ひなたぼっこ
+EV_Mot_Sp_P051_01_PCap	リラックス
+EV_Mot_Sp_P051_02_PCap	がお～！
+EV_Mot_Sp_P051_03_PCap	ウトウト
+EV_Mot_Sp_P051_04_PCap	だいジャーンプ！
 EV_Mot_Sp_P052_01_PCap	たのしいダンス
 EV_Mot_Sp_P052_02_PCap	どんなダンスがいいかな～？
 EV_Mot_Sp_P053_01_PCap	いただきまーっす！
@@ -377,7 +386,6 @@ EV_Mot_Sp_P063_02_PCap	なにかおちてこないかなー？
 EV_Mot_Sp_P063_03_PCap	あやつりにんぎょう
 EV_Mot_Sp_P063_04_PCap	ナワバリあらそい
 EV_Mot_Sp_P064_01_PCap	たべてよ～！
-EV_Mot_Sp_P064_02_PCap	まひるにまよなか？
 EV_Mot_Sp_P064_03_PCap	とおぼえ
 EV_Mot_Sp_P064_04_PCap	いかくちゅう
 EV_Mot_Sp_P064_05_PCap	センチメンタル
@@ -407,13 +415,15 @@ EV_Mot_Sp_P071_05_PCap	うでたて100かいできるかな？
 EV_Mot_Sp_P072_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P072_03_PCap	みだしなみバッチリ！
 EV_Mot_Sp_P072_04_PCap	こんがりおいしそう！
+EV_Mot_Sp_P073_01_PCap	ねててもたべる
+EV_Mot_Sp_P073_02_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P073_03_PCap	ぜんりょくダッシュ！
 EV_Mot_Sp_P075_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P075_02_PCap	おきにいりのばしょ
 EV_Mot_Sp_P076_01_PCap	おやすみタイム
 EV_Mot_Sp_P076_02_PCap	おやすみタイム
 EV_Mot_Sp_P076_03_PCap	たのしいダンス
 EV_Mot_Sp_P076_04_PCap	しょうげきのしゅんかん！
-EV_Mot_Sp_P076_05_PCap	いかくちゅう
 EV_Mot_Sp_P076_06_PCap	げんきいっぱい！
 EV_Mot_Sp_P077_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P078_01_PCap	ちょっかい
@@ -430,13 +440,14 @@ EV_Mot_Sp_P082_01_PCap	はいたつちゅう
 EV_Mot_Sp_P083_01_PCap	しあわせなきぶん
 EV_Mot_Sp_P083_02_PCap	ケンカちゅう
 EV_Mot_Sp_P083_03_PCap	ケンカちゅう
+EV_Mot_Sp_P084_01_PCap	たのしいダンス
+EV_Mot_Sp_P084_02_PCap	たのしいダンス
 EV_Mot_Sp_P085_01_PCap	いかくちゅう
 EV_Mot_Sp_P085_02_PCap	ビックリ！
 EV_Mot_Sp_P086_01_PCap	たのしいダンス
 EV_Mot_Sp_P086_02_PCap	たのしいダンス
 EV_Mot_Sp_P086_03_PCap	ビークインにはナイショで
 EV_Mot_Sp_P086_04_PCap	おこられちゃった！
-EV_Mot_Sp_P087_01_PCap	やったー！
 EV_Mot_Sp_P087_02_PCap	いかくちゅう
 EV_Mot_Sp_P087_03_PCap	ねむいのに～
 EV_Mot_Sp_P088_01_PCap	かいてきなそらのたび
@@ -458,6 +469,8 @@ EV_Mot_Sp_P094_02_PCap	およぐのじょうずでしょ？
 EV_Mot_Sp_P094_03_PCap	たのしいきぶん
 EV_Mot_Sp_P094_04_PCap	みだしなみバッチリ！
 EV_Mot_Sp_P095_02_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P096_01_PCap	みんなでジャーンプ！
+EV_Mot_Sp_P096_02_PCap	なかよくダンス
 EV_Mot_Sp_P097_01_PCap	どっちがつよいかな？
 EV_Mot_Sp_P097_02_PCap	おしゃれしててカワイイ！
 EV_Mot_Sp_P098_01_PCap	かれいなジャンプ
@@ -495,36 +508,72 @@ EV_Mot_Sp_P113_03_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P113_04_PCap	ほのおのキック
 EV_Mot_Sp_P113_05_PCap	あおいほのお！
 EV_Mot_Sp_P113_06_PCap	やったー！
+EV_Mot_Sp_P113_07_PCap	おなかのベッド
 EV_Mot_Sp_P114_01_PCap	みずでっぽう！
 EV_Mot_Sp_P114_02_PCap	つよすぎた！
 EV_Mot_Sp_P115_01_PCap	こわい！
 EV_Mot_Sp_P115_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P115_03_PCap	ビックリ！
 EV_Mot_Sp_P116_02_PCap	こわい！
-EV_Mot_Sp_P116_03_PCap	なかよし
 EV_Mot_Sp_P116_04_PCap	いかくちゅう
 EV_Mot_Sp_P117_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P117_02_PCap	とまれた！
 EV_Mot_Sp_P117_03_PCap	おいかけっこ
+EV_Mot_Sp_P118_01_PCap	ヘディングー！
+EV_Mot_Sp_P118_02_PCap	ディグダのトリオ
+EV_Mot_Sp_P119_01_PCap	とびだしちゅうい
+EV_Mot_Sp_P120_01_PCap	もっとふくらむよ～
+EV_Mot_Sp_P120_02_PCap	ふくらみすぎちゃった！
+EV_Mot_Sp_P120_03_PCap	とばされた～！
 EV_Mot_Sp_P121_01_PCap	だいじなわがこ
 EV_Mot_Sp_P121_02_PCap	ここでやすんでね
 EV_Mot_Sp_P121_03_PCap	いいこ～いいこ～
 EV_Mot_Sp_P121_04_PCap	ナイショのおでかけ？
+EV_Mot_Sp_P122_01_PCap	たきのぼり！
 EV_Mot_Sp_P123_01_PCap	きょうみしんしん
 EV_Mot_Sp_P123_02_PCap	おいしーい！
 EV_Mot_Sp_P124_01_PCap	キラキラでしょ？
 EV_Mot_Sp_P124_02_PCap	おいしいな～
+EV_Mot_Sp_P125_01_PCap	ふしぎなダンス
+EV_Mot_Sp_P125_02_PCap	ゆびをふる
+EV_Mot_Sp_P125_03_PCap	うまくきまらなかった
+EV_Mot_Sp_P126_01_PCap	クリーンヒット！
+EV_Mot_Sp_P126_02_PCap	おちちゃった！
+EV_Mot_Sp_P126_03_PCap	おっきなまえあし
 EV_Mot_Sp_P127_01_PCap	しっぽでこうげき
 EV_Mot_Sp_P127_02_PCap	いかくちゅう
+EV_Mot_Sp_P128_01_PCap	まるのみにしちゃうぞ～
+EV_Mot_Sp_P128_02_PCap	おいしいな～
 EV_Mot_Sp_P129_01_PCap	とびだしちゅうい
 EV_Mot_Sp_P129_02_PCap	なんだろコレ～
+EV_Mot_Sp_P130_01_PCap	ひとやすみ
+EV_Mot_Sp_P130_02_PCap	とべるのすごいでしょ？
+EV_Mot_Sp_P130_03_PCap	ハッピーなきぶん
 EV_Mot_Sp_P132_01_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P132_02_PCap	あっちいってよー！
 EV_Mot_Sp_P132_03_PCap	しゅうごうしました
 EV_Mot_Sp_P132_04_PCap	おさんぽタイム
+EV_Mot_Sp_P133_01_PCap	アクロバティック！
+EV_Mot_Sp_P133_02_PCap	ナワバリあらそい
+EV_Mot_Sp_P134_01_PCap	ハックシュン！
+EV_Mot_Sp_P134_02_PCap	ここならあんしん
+EV_Mot_Sp_P135_01_PCap	あなほりちゅう
+EV_Mot_Sp_P135_02_PCap	とびだしちゅうい
+EV_Mot_Sp_P135_03_PCap	ズバーン！
+EV_Mot_Sp_P135_04_PCap	おっとっと！
+EV_Mot_Sp_P136_01_PCap	ナワバリあらそい
+EV_Mot_Sp_P136_02_PCap	ナワバリあらそい
+EV_Mot_Sp_P137_01_PCap	ナワバリあらそい
+EV_Mot_Sp_P137_02_PCap	さかさまだ～！
 EV_Mot_Sp_P138_01_PCap	すいめんダッシュ！
 EV_Mot_Sp_P138_02_PCap	じゅうでんちゅう
 EV_Mot_Sp_P138_03_PCap	パラボラチャージ！
+EV_Mot_Sp_P139_01_PCap	ルガルガンみたいに
+EV_Mot_Sp_P139_02_PCap	ウトウト
+EV_Mot_Sp_P140_01_PCap	しあわせなきぶん
+EV_Mot_Sp_P140_02_PCap	ごきげんななめ
+EV_Mot_Sp_P140_03_PCap	キレイずき
+EV_Mot_Sp_P140_04_PCap	センチメンタル
 EV_Mot_Sp_P141_01_PCap	シューティングスター
 EV_Mot_Sp_P141_02_PCap	そらたかくへ
 EV_Mot_Sp_P141_03_PCap	かれいなスピン
@@ -704,7 +753,6 @@ EV_Mot_Sp_P267_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P268_01_PCap	ほじゅうちゅう
 EV_Mot_Sp_P268_02_PCap	ひとくちでペロリ！
 EV_Mot_Sp_P268_03_PCap	あっちいってよー！
-EV_Mot_Sp_P268_04_PCap	キレイずき
 EV_Mot_Sp_P269_01_PCap	ここならあんしん
 EV_Mot_Sp_P270_01_PCap	ちょうのまい
 EV_Mot_Sp_P271_01_PCap	たのしいダンス
@@ -740,6 +788,8 @@ EV_Mot_Sp_P111_03_PCap	たべられちゃう～！？
 EV_Mot_Sp_P111_04_PCap	どこからとったかわかる？
 EV_Mot_Sp_P018_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P031_02_PCap	ハッピーなきぶん
+EV_Mot_Sp_P119_02_PCap	ねんりき！
+EV_Mot_Sp_P122_02_PCap	いかくちゅう
 EV_Mot_Sp_P131_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P003_04_PCap	ハッピーなきぶん
 EV_Mot_Sp_P004_03_PCap	ハッピーなきぶん
@@ -894,6 +944,90 @@ EV_Mot_Mis_Stage003_063_01_PCap	まちがえパンチ
 EV_Mot_Mis_Stage003_085_01_PCap	ちょっとレアかも？
 EV_Mot_Mis_Stage005_057_01_PCap	さかさまでねれるの？
 EV_Mot_Mis_Stage009_162_01_PCap	かいどくちゅう
+EV_Mot_Sp_P006_10_PCap	やったー！
+EV_Mot_Sp_P007_10_PCap	どこかなどこかな～？
+EV_Mot_Sp_P008_10_PCap	いとをはく
+EV_Mot_Sp_P015_10_PCap	どこでもねむれます！
+EV_Mot_Sp_P017_10_PCap	メロディにのってルンルン
+EV_Mot_Sp_P073_10_PCap	カビゴンがめをさました！
+EV_Mot_Sp_P073_11_PCap	きょうみしんしん
+EV_Mot_Sp_P084_10_PCap	おこったぞー！
+EV_Mot_Sp_P087_10_PCap	これであんしん！
+EV_Mot_Sp_P096_10_PCap	いいものみつけたぞ！
+EV_Mot_Sp_P113_10_PCap	やったー！
+EV_Mot_Sp_P011_10_PCap	おこしちゃった？
+EV_Mot_Sp_P011_11_PCap	やっほー！
+EV_Mot_Sp_P014_10_PCap	ビックリ！
+EV_Mot_Sp_P018_10_PCap	なかよし
+EV_Mot_Sp_P018_11_PCap	なかよくスイスイ
+EV_Mot_Sp_P031_10_PCap	なかよくスイスイ
+EV_Mot_Sp_P051_10_PCap	いかくちゅう
+EV_Mot_Sp_P116_10_PCap	いかくちゅう
+EV_Mot_Sp_P116_11_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P119_10_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P119_11_PCap	なかよくスイスイ
+EV_Mot_Sp_P122_10_PCap	とびだしちゅうい
+EV_Mot_Sp_P125_10_PCap	ゆびをふったら･･････
+EV_Mot_Sp_P126_10_PCap	いかくちゅう
+EV_Mot_Sp_P130_10_PCap	ウパーをのせて
+EV_Mot_Sp_P131_10_PCap	おやすみタイム
+EV_Mot_Sp_P131_11_PCap	ハデにとうじょう！
+EV_Mot_Sp_P005_10_PCap	ビックリ！
+EV_Mot_Sp_P005_11_PCap	あっちいってよー！
+EV_Mot_Sp_P005_12_PCap	なかよし
+EV_Mot_Sp_P005_14_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P005_15_PCap	かくれんぼ
+EV_Mot_Sp_P034_10_PCap	だんだんねむくなる～
+EV_Mot_Sp_P060_10_PCap	ビックリさせてやる～！
+EV_Mot_Sp_P064_10_PCap	じゃましないでよ！
+EV_Mot_Sp_P064_11_PCap	おこったぞー！
+EV_Mot_Sp_P064_12_PCap	イワンコといっしょ
+EV_Mot_Sp_P117_10_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P117_11_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P118_10_PCap	いかりばくはつ
+EV_Mot_Sp_P118_11_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P118_12_PCap	うしろうしろ～！
+EV_Mot_Sp_P127_10_PCap	はげしいたたかい
+EV_Mot_Sp_P128_10_PCap	みてみて～！
+EV_Mot_Sp_P128_11_PCap	ハデにとうじょう！
+EV_Mot_Sp_P132_10_PCap	なかよし
+EV_Mot_Sp_P132_12_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P132_13_PCap	かくれんぼ
+EV_Mot_Sp_P133_10_PCap	おもわずあくびが
+EV_Mot_Sp_P133_11_PCap	イタズラちゅう
+EV_Mot_Sp_P134_10_PCap	だいジャーンプ！
+EV_Mot_Sp_P134_11_PCap	あっちいってよー！
+EV_Mot_Sp_P134_12_PCap	なかよし
+EV_Mot_Sp_P134_14_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P134_15_PCap	かくれんぼ
+EV_Mot_Sp_P136_10_PCap	リラックス
+EV_Mot_Sp_P136_11_PCap	ばしゃーん！
+EV_Mot_Sp_P136_12_PCap	ごろごろ～！
+EV_Mot_Sp_P137_10_PCap	かったぞー！
+EV_Mot_Sp_P139_10_PCap	あっちいってよー！
+EV_Mot_Sp_P139_11_PCap	なかよし
+EV_Mot_Sp_P139_13_PCap	なかよくおやすみタイム
+EV_Mot_Mis_Stage012_084_01_PCap	たのしいダンス
+EV_Mot_Mis_Stage012_096_01_PCap	みんなでジャーンプ！
+EV_Mot_Mis_Stage012_073_01_PCap	ぜんりょくダッシュ！
+EV_Mot_Mis_Stage013_051_01_PCap	だいジャーンプ！
+EV_Mot_Mis_Stage013_130_01_PCap	ウパーをのせて
+EV_Mot_Mis_Stage013_119_01_PCap	ねんりき！
+EV_Mot_Mis_Stage013_126_01_PCap	クリーンヒット！
+EV_Mot_Mis_Stage013_135_01_PCap	ズバーン！
+EV_Mot_Mis_Stage013_125_01_PCap	ゆびをふったら･･････
+EV_Mot_Mis_Stage013_122_01_PCap	たきのぼり！
+EV_Mot_Mis_Stage015_118_01_PCap	ヘディングー！
+EV_Mot_Mis_Stage015_139_01_PCap	あっちいってよー！
+EV_Mot_Mis_Stage015_140_01_PCap	しあわせなきぶん
+EV_Mot_Mis_Stage015_134_01_PCap	だいジャーンプ！
+EV_Mot_Mis_Stage015_137_01_PCap	さかさまだ～！
+EV_Mot_Mis_Stage015_133_01_PCap	おもわずあくびが
+EV_Mot_Mis_Stage015_136_01_PCap	ナワバリあらそい
+EV_Mot_Mis_Stage015_120_01_PCap	ふくらみすぎちゃった！
+EV_Mot_Mis_Stage015_128_01_PCap	みてみて～！
+EV_Mot_Mis_Stage015_142_01_PCap	たいでんちゅう
+EV_Mot_Sp_P142_11_PCap	たいでんちゅう
 Evaluation_Lines.msbt
 EB_Course1st_01	はじめてのルートは　どうだった？\nどんなポケモンと　であえたのか　おしえてね。
 EB_Course1st_02	やあ　おかえり！\nあたらしいルートのしゃしん　たのしみだよ。
@@ -1032,6 +1166,7 @@ EV_Mot_Sp_P006_01	ハイタッチしているところか。
 EV_Mot_Sp_P006_02	はながのっていて　おしゃれだね。
 EV_Mot_Sp_P006_04	なかよく　ねむっているね。
 EV_Mot_Sp_P006_05	おおよろこびしているね。
+EV_Mot_Sp_P006_06	カビゴンの　おなかで　なかよく　ねむっているね。
 EV_Mot_Sp_P007_01	そらをとぼうと･･････　しているのかな。
 EV_Mot_Sp_P007_02	ごうかいな　とうじょうシーンだね。
 EV_Mot_Sp_P007_03	いかくしあっているね。
@@ -1130,13 +1265,16 @@ EV_Mot_Sp_P046_02	キミを　きにしているようだね。
 EV_Mot_Sp_P047_01	ねむっているようだね。
 EV_Mot_Sp_P047_02	まるで　よつばのクローバーだね！
 EV_Mot_Sp_P048_01	コイキングを　つかまえたところか。
-EV_Mot_Sp_P048_02	いかくしあっているね。
 EV_Mot_Sp_P048_03	ちょっかいを　だされているようだね。
 EV_Mot_Sp_P049_01	いわにとっしんして　なにをしているのかな。
 EV_Mot_Sp_P049_02	バルジーナを　ねらっているのかな。
 EV_Mot_Sp_P050_01	はまべのきと　まちがえられてしまったのかな。
 EV_Mot_Sp_P050_02	きのしたで　おひるねしているのかな。
 EV_Mot_Sp_P050_03	おいかけっこしているのかな。
+EV_Mot_Sp_P051_01	リラックスしているね。
+EV_Mot_Sp_P051_02	とびだしてきたところか！
+EV_Mot_Sp_P051_03	ねむそうにしているね。
+EV_Mot_Sp_P051_04	おもいきり　ジャンプしているね。
 EV_Mot_Sp_P052_01	ダンスしているのか。
 EV_Mot_Sp_P052_02	ダンスについて　そうだんしているのかな？
 EV_Mot_Sp_P053_01	ツツケラのちょぞうこから　かじつを　とっているのか！
@@ -1171,7 +1309,6 @@ EV_Mot_Sp_P063_03	さいみんじゅつを　かけられてしまったのか�
 EV_Mot_Sp_P063_04	ナワバリを　とりあっているのか。
 EV_Mot_Sp_P063_05	おいかけっこしているのかな。
 EV_Mot_Sp_P064_01	けいかいして　たべなかったのかな。
-EV_Mot_Sp_P064_02	このすがたを　ひるまに　みかけるのは　めずらしいね。
 EV_Mot_Sp_P064_03	とおぼえで　なかまに　なにかを　しらせているのかな。
 EV_Mot_Sp_P064_04	いかくしあっているね。
 EV_Mot_Sp_P064_05	すこし　さみしそうにしているね。
@@ -1201,6 +1338,9 @@ EV_Mot_Sp_P071_05	うでの　きんにくを　きたえているところか�
 EV_Mot_Sp_P072_02	よろこびいっぱい　げんきいっぱいのようだね。
 EV_Mot_Sp_P072_03	おていれしているところか。
 EV_Mot_Sp_P072_04	ふわりんごを　やいているところか。
+EV_Mot_Sp_P073_01	ねむりながら　しょくじをしているのか！
+EV_Mot_Sp_P073_02	なかよく　ねむっているね。
+EV_Mot_Sp_P073_03	めずらしい！　はしっているところか！
 EV_Mot_Sp_P074_01	イルミナげんしょうの　れんさが　おきたのか。
 EV_Mot_Sp_P074_02	ざんねんなことが　あったのかな。
 EV_Mot_Sp_P074_03	キュワワーとのあいだで　イルミナげんしょうの　れんさが　おきたのか。
@@ -1215,7 +1355,6 @@ EV_Mot_Sp_P076_01	ねむっているところか。
 EV_Mot_Sp_P076_02	ねむっているところか。
 EV_Mot_Sp_P076_03	ダンスしているのか。
 EV_Mot_Sp_P076_04	めずらしい！　りょうあしが　みえているところか！
-EV_Mot_Sp_P076_05	いかくしあっているね。
 EV_Mot_Sp_P076_06	ちからに　みちあふれているようだね。
 EV_Mot_Sp_P077_01	よろこんでいるところか。
 EV_Mot_Sp_P078_01	ちょっかいを　だしているのかな。
@@ -1234,6 +1373,8 @@ EV_Mot_Sp_P082_02	すいちゅうに　もぐっているところか。
 EV_Mot_Sp_P083_01	ごきげんな　ようすだね。
 EV_Mot_Sp_P083_02	いんねんのたいけつ･･････　といったかんじかな。
 EV_Mot_Sp_P083_03	いんねんのたいけつ･･････　といったかんじかな。
+EV_Mot_Sp_P084_01	ダンスしているのか。
+EV_Mot_Sp_P084_02	ダンスしているのか。
 EV_Mot_Sp_P085_01	いかくしているのかな。
 EV_Mot_Sp_P085_02	おどろいているようだね。
 EV_Mot_Sp_P085_03	しっぽを　といでいるのかな。
@@ -1241,7 +1382,6 @@ EV_Mot_Sp_P086_01	ダンスしているのか。
 EV_Mot_Sp_P086_02	ダンスしているのか。
 EV_Mot_Sp_P086_03	なかよく　あそんでいるようだね。
 EV_Mot_Sp_P086_04	おこられているのかな？
-EV_Mot_Sp_P087_01	みんな　おおよろこびしているね。
 EV_Mot_Sp_P087_02	いかくしあっているね。
 EV_Mot_Sp_P087_03	おおきな　あくびをしているね。
 EV_Mot_Sp_P088_01	フワライドに　はこんでもらっているのかな。
@@ -1266,6 +1406,8 @@ EV_Mot_Sp_P094_03	ごきげんな　ようすだね。
 EV_Mot_Sp_P094_04	おていれしているところか。
 EV_Mot_Sp_P095_02	なかよく　ねむっているね。
 EV_Mot_Sp_P095_03	なかよく　あそんでいるようだね。
+EV_Mot_Sp_P096_01	いきのあった　ジャンプだね。
+EV_Mot_Sp_P096_02	なかよく　ダンスしているね。
 EV_Mot_Sp_P097_01	ちからくらべしているようだね。
 EV_Mot_Sp_P097_02	はながのっていて　おしゃれだね。
 EV_Mot_Sp_P098_01	きもちよさそうに　ジャンプしているね。
@@ -1321,37 +1463,75 @@ EV_Mot_Sp_P113_03	なかよく　ねむっているね。
 EV_Mot_Sp_P113_04	キックの　ほのおが　ヒバニーらしいね。
 EV_Mot_Sp_P113_05	あおいほのおか！　イルミナげんしょうで　かっせいかされたのかな。
 EV_Mot_Sp_P113_06	おおよろこびしているね。
+EV_Mot_Sp_P113_07	カビゴンの　おなかで　なかよく　ねむっているね。
 EV_Mot_Sp_P114_01	フシギバナに　みずを　あげているのかな。
 EV_Mot_Sp_P114_02	みずでっぽうが　つよすぎたのかな。
 EV_Mot_Sp_P115_01	こわがっているようだね。
 EV_Mot_Sp_P115_02	よろこんでいるところか。
 EV_Mot_Sp_P115_03	おどろいているようだね。
 EV_Mot_Sp_P116_02	こわがっているようだね。
-EV_Mot_Sp_P116_03	なかよく　あそんでいるようだね。
 EV_Mot_Sp_P116_04	いかくしているのかな。
 EV_Mot_Sp_P117_01	よろこんでいるところか。
 EV_Mot_Sp_P117_02	かれいに　ちゃくちを　きめたようだね。
 EV_Mot_Sp_P117_03	おいかけっこしているのかな。
+EV_Mot_Sp_P118_01	ふわりんごで　あそんでいるところか。
+EV_Mot_Sp_P118_02	あたまが3つ？　いや　ごめんごめん。　3びき　ならんだ　ディグダだね。
+EV_Mot_Sp_P119_01	とびだしてきたところかな。
+EV_Mot_Sp_P119_02	ねんりきを　はなっているようだね。
+EV_Mot_Sp_P120_01	ふだんより　ふくらんでいるようだね。
+EV_Mot_Sp_P120_02	うわ！　いまにも　ばくはつしそうな　おおきさだ！
+EV_Mot_Sp_P120_03	マルノームに　ふきとばされてしまったのか！
 EV_Mot_Sp_P121_01	たべものを　あげているところか。
 EV_Mot_Sp_P121_02	たすけてあげているのかな。
 EV_Mot_Sp_P121_03	こどもを　だっこしているところか。
 EV_Mot_Sp_P121_04	おなかの　ふくろから　ぬけだしていたのか！
+EV_Mot_Sp_P122_01	たきのぼりか！
+EV_Mot_Sp_P122_02	こちらを　いかくしているのかな。
 EV_Mot_Sp_P123_01	キミを　きにしているようだね。
 EV_Mot_Sp_P123_02	おいしそうに　たべているね。
 EV_Mot_Sp_P124_01	きらめくこなを　ふりまきながら　とんでいるところか！
 EV_Mot_Sp_P124_02	ふわりんごが　たべたかったようだね。
+EV_Mot_Sp_P125_01	みんなで　ダンスしているのか。
+EV_Mot_Sp_P125_02	ゆびをふるか！　なにが　おきるんだろう･･････
+EV_Mot_Sp_P125_03	ゆびをふるが　しっぱいしてしまったようだね･･････
+EV_Mot_Sp_P126_01	クリーンヒット！　ってかんじだね･･････
+EV_Mot_Sp_P126_02	おちてしまったところか。
+EV_Mot_Sp_P126_03	まえあしで　こうげきをしているようだね。
 EV_Mot_Sp_P127_01	しっぽで　こうげきをしているようだね。
 EV_Mot_Sp_P127_02	いかくしあっているね。
+EV_Mot_Sp_P128_01	まるのみしようとしているのかな。
+EV_Mot_Sp_P128_02	どくガスを　まるのみしているところか。
 EV_Mot_Sp_P129_01	とびだしてきたところかな。
 EV_Mot_Sp_P129_02	なにかを　かじっているようだね。
+EV_Mot_Sp_P130_01	みずを　のんでいるところか。
+EV_Mot_Sp_P130_02	ゆったりと　とんでいるね。
+EV_Mot_Sp_P130_03	よろこんでいるところか。
 EV_Mot_Sp_P131_02	よろこんでいるところか。
 EV_Mot_Sp_P132_01	なかよく　ねむっているね。
 EV_Mot_Sp_P132_02	ほうでんで　みんなを　まもろうとしているのかな。
 EV_Mot_Sp_P132_03	かざんの　ポケモンたちが　あつまっているところか。
 EV_Mot_Sp_P132_04	なかよく　おさんぽしているようだね。
+EV_Mot_Sp_P133_01	アクロバティックに　ひこうしているね。
+EV_Mot_Sp_P133_02	ナワバリを　とりあっているのか。
+EV_Mot_Sp_P134_01	くしゃみを　しているようだね。
+EV_Mot_Sp_P134_02	ガルーラに　たすけてもらったようだね。
+EV_Mot_Sp_P135_01	すごいいきおいで　あなを　ほっているね。
+EV_Mot_Sp_P135_02	とびだしてきたところか！
+EV_Mot_Sp_P135_03	いきおいよく　とびだしたところだね。
+EV_Mot_Sp_P135_04	バランスを　くずしてしまったようだね。
+EV_Mot_Sp_P136_01	ナワバリを　とりあっているのか。
+EV_Mot_Sp_P136_02	ナワバリを　とりあっているのか。
+EV_Mot_Sp_P137_01	ナワバリを　とりあっているのか。
+EV_Mot_Sp_P137_02	ひっくりかえってしまったのか！
 EV_Mot_Sp_P138_01	すいじょうを　はしっているのか！
 EV_Mot_Sp_P138_02	にっこうよくを　しているようだね。
 EV_Mot_Sp_P138_03	パラボラチャージで　げんきいっぱいのようだね。
+EV_Mot_Sp_P139_01	ルガルガンの　まねをしているのかな。
+EV_Mot_Sp_P139_02	ねむそうにしているね。
+EV_Mot_Sp_P140_01	ごきげんな　ようすだね。
+EV_Mot_Sp_P140_02	きにいらないことがあったのかな。
+EV_Mot_Sp_P140_03	すなあび　しているところか。
+EV_Mot_Sp_P140_04	すこし　さみしそうにしているね。
 EV_Mot_Sp_P141_01	まるで　ながれぼしのようだ！
 EV_Mot_Sp_P141_02	そらたかく　のぼっていくところか。
 EV_Mot_Sp_P141_03	かれいに　くうちゅうを　とびまわっているね。
@@ -1563,7 +1743,6 @@ EV_Mot_Sp_P267_02	よろこんでいるところか。
 EV_Mot_Sp_P268_01	すなを　ためこんでいるのかな。
 EV_Mot_Sp_P268_02	ふわりんごを　まるのみしたのか！
 EV_Mot_Sp_P268_03	すなかけで　おいはらっているところか！
-EV_Mot_Sp_P268_04	すなあび　しているところか。
 EV_Mot_Sp_P269_01	いとを　からだに　まきつけて　ねているのか。
 EV_Mot_Sp_P270_01	まいおどっているところか。
 EV_Mot_Sp_P271_01	ダンスしているのか。
@@ -1748,6 +1927,8 @@ EA_Scenario1st_07	つまり　★1～4のしゃしんを\nあつめることが�
 EA_Scenario1st_08	かんたんにいうと　フォトずかんをうめる！\nきほん　それだけおぼえていれば　だいじょうぶかな。
 EA_Scenario1st_09	ポケモンとのであいを　たのしみながら\nたくさん　しゃしんをとっていこう！
 EB_ScenarioCom_01	はなしたいことが　たくさんあるけど･･････\nまずは　ひょうかをおこなおうか。
+EB_ScenarioCourse1st_mini_01	まずは　ひょうかをおこなうけど･･････\nあとでちょっと　はなしがあるよ。
+EA_ScenarioCourse1st_mini_01	このあと　みんな　あつまってもらえるかな？
 EA_GetFlower_01	ところで･･････
 EA_GetFlower_02	クリスタフラワーの　データもえられたので\nほうこくがあるよ。
 EA_GetFlower_03	たのしみにしててね。
@@ -1857,6 +2038,102 @@ EV_Mot_Mis_Stage003_063_01	まちがえて　パンチしてしまったのか�
 EV_Mot_Mis_Stage003_085_01	あまり　みないこうどうだ。
 EV_Mot_Mis_Stage005_057_01	えだに　つかまって　ねているのか。
 EV_Mot_Mis_Stage009_162_01	ツメあとから　メッセージをよみとっているのかな。
+EA_GetSticker1_Ud_01	おめでとう！\nフロレオとうのポケモンは　これでほんとうに　ぜんぶかな。
+EA_GetSticker1_Ud_02	みぢかなポケモンたちも　しっかり　しらべることで\nあらたなはっけんが　たくさんあったよね。
+EA_GetSticker2_Ud_01	おめでとう！\nベラスとうのポケモンは　これでほんとうに　ぜんぶかな。
+EA_GetSticker2_Ud_02	だいしぜんのなかで　くらすポケモンたちは\nとてもじゆうで　すごく　エネルギッシュだったよね。
+EA_GetSticker4_Ud_01	おめでとう！\nボルクとうのポケモンは　これでほんとうに　ぜんぶかな。
+EA_GetSticker4_Ud_02	かこくなかんきょうで　いきるポケモンたちを　しらべることは\nとても　しげきてきな　たいけんだったんじゃないかな。
+EA_CompAllPokedex_Ud_01	おめでとう！\nこれでほんとうに　フォトずかんは　すべてうまったね！
+EA_CompAllPokedex_Ud_02	でも　これでおわり！　ではないんだ。
+EA_CompAllPokedex_Ud_03	キミが　さつえいをつづけるかぎり　フォトずかんは\nさらに　すばらしいものになっていくと　おもうよ。
+EA_CompAllPokedex_Ud_04	これからも　キミだけの　フォトずかんつくりを　たのしんでね！\nぼくも　リタも　フィルも　トオルも　おうえんしているよ！
+EA_ScenarioCourse1st_mini_02	なかなか　おもしろい　ちょうさだったんじゃないかな。
+EA_ScenarioCourse1st_mini_03	さて･･････
+EV_Mot_Sp_P006_10	ドダイトスに　おれいを　いっているのかな。
+EV_Mot_Sp_P007_10	ピチューと　ヒバニーを　さがしているのかな。
+EV_Mot_Sp_P008_10	うれしそうに　いとを　はいているね。
+EV_Mot_Sp_P015_10	ひとやすみしているのかな。
+EV_Mot_Sp_P017_10	メロディを　たのしんでいるようだね。
+EV_Mot_Sp_P073_10	めをさましたところか！
+EV_Mot_Sp_P073_11	キミを　きにしているようだね。
+EV_Mot_Sp_P084_10	おこっているのかな。
+EV_Mot_Sp_P087_10	ピチューと　ヒバニーを　まもれて　うれしそうだね。
+EV_Mot_Sp_P096_10	たべものを　はこんでいるところか。
+EV_Mot_Sp_P113_10	ドダイトスに　おれいを　いっているのかな。
+EV_Mot_Sp_P011_10	ちょっと　きまずいシーンだね。
+EV_Mot_Sp_P011_11	キミに　てをふっているようだね。
+EV_Mot_Sp_P014_10	おどろいているようだね。
+EV_Mot_Sp_P018_10	トロピウスのうえで　あそんでいるところか。
+EV_Mot_Sp_P018_11	たのしそうに　およいでいるね。
+EV_Mot_Sp_P031_10	たのしそうに　およいでいるね。
+EV_Mot_Sp_P051_10	いかくしあっているね。
+EV_Mot_Sp_P116_10	いかくしているのかな。
+EV_Mot_Sp_P116_11	なかよく　ねむっているね。
+EV_Mot_Sp_P119_10	なかよく　ねむっているね。
+EV_Mot_Sp_P119_11	たのしそうに　およいでいるね。
+EV_Mot_Sp_P122_10	こちらに　むかってきているのか！
+EV_Mot_Sp_P125_10	ゆびをふるが　せいこうしたようだね！
+EV_Mot_Sp_P126_10	いかくしているのかな。
+EV_Mot_Sp_P130_10	ウパーをのせて　たのしそうに　とんでいるね。
+EV_Mot_Sp_P131_10	ずいぶんと　あんしんして　ねむっているようだね。
+EV_Mot_Sp_P131_11	ごうかいな　とうじょうシーンだね。
+EV_Mot_Sp_P005_10	おどろいているようだね。
+EV_Mot_Sp_P005_11	かえんほうしゃで　みんなを　まもろうとしているのかな。
+EV_Mot_Sp_P005_12	なかよく　あそんでいるようだね。
+EV_Mot_Sp_P005_14	なかよく　ねむっているね。
+EV_Mot_Sp_P005_15	かくれんぼ　しているのかな。
+EV_Mot_Sp_P034_10	ねむりごなを　ふりまいているところか！
+EV_Mot_Sp_P060_10	おどろかせようと　していたのかな。
+EV_Mot_Sp_P064_10	おこっているところか。
+EV_Mot_Sp_P064_11	おこっているところか。
+EV_Mot_Sp_P064_12	イワンコに　とおぼえを　おしえているのかな。
+EV_Mot_Sp_P117_10	ぶつかってしまったようだね。
+EV_Mot_Sp_P117_11	ぶつかってしまったようだね。
+EV_Mot_Sp_P118_10	おこっているところか。
+EV_Mot_Sp_P118_11	ぶつかってしまったようだね。
+EV_Mot_Sp_P118_12	ちょっかいを　だされているようだね。
+EV_Mot_Sp_P127_10	すなあらしを　おこしているところか！
+EV_Mot_Sp_P128_10	ドガースを　すいこんでしまったのか。
+EV_Mot_Sp_P128_11	ごうかいな　とうじょうシーンだね。
+EV_Mot_Sp_P132_10	なかよく　あそんでいるようだね。
+EV_Mot_Sp_P132_12	なかよく　ねむっているね。
+EV_Mot_Sp_P132_13	かくれんぼ　しているのかな。
+EV_Mot_Sp_P133_10	ねむそうにしているね。
+EV_Mot_Sp_P133_11	イタズラしているようだね。
+EV_Mot_Sp_P134_10	おもいきり　ジャンプしているね。
+EV_Mot_Sp_P134_11	ひのこで　みんなを　まもろうとしているのかな。
+EV_Mot_Sp_P134_12	なかよく　あそんでいるようだね。
+EV_Mot_Sp_P134_14	なかよく　ねむっているね。
+EV_Mot_Sp_P134_15	かくれんぼ　しているのかな。
+EV_Mot_Sp_P136_10	どくぬまで　あそんでいるところか。
+EV_Mot_Sp_P136_11	どくぬまで　あそんでいるところか。
+EV_Mot_Sp_P136_12	どくぬまで　あそんでいるところか。
+EV_Mot_Sp_P137_10	ナワバリあらそいに　かったところか！
+EV_Mot_Sp_P139_10	ゆうかんに　たちむかっているところか。
+EV_Mot_Sp_P139_11	なかよく　あそんでいるようだね。
+EV_Mot_Sp_P139_13	なかよく　ねむっているね。
+EV_Mot_Mis_Stage012_084_01	ダンスしているのか。
+EV_Mot_Mis_Stage012_096_01	いきのあった　ジャンプだね。
+EV_Mot_Mis_Stage012_073_01	めずらしい！　はしっているところか！
+EV_Mot_Mis_Stage013_051_01	おもいきり　ジャンプしているね。
+EV_Mot_Mis_Stage013_130_01	ウパーをのせて　たのしそうに　とんでいるね。
+EV_Mot_Mis_Stage013_119_01	ねんりきを　はなっているようだね。
+EV_Mot_Mis_Stage013_126_01	クリーンヒット！　ってかんじだね･･････
+EV_Mot_Mis_Stage013_135_01	いきおいよく　とびだしたところだね。
+EV_Mot_Mis_Stage013_125_01	ゆびをふるが　せいこうしたようだね！
+EV_Mot_Mis_Stage013_122_01	たきのぼりか！
+EV_Mot_Mis_Stage015_118_01	ふわりんごで　あそんでいるところか。
+EV_Mot_Mis_Stage015_139_01	ゆうかんに　たちむかっているところか。
+EV_Mot_Mis_Stage015_140_01	ごきげんな　ようすだね。
+EV_Mot_Mis_Stage015_134_01	おもいきり　ジャンプしているね。
+EV_Mot_Mis_Stage015_137_01	ひっくりかえってしまったのか！
+EV_Mot_Mis_Stage015_133_01	ねむそうにしているね。
+EV_Mot_Mis_Stage015_136_01	ナワバリを　とりあっているのか。
+EV_Mot_Mis_Stage015_120_01	うわ！　いまにも　ばくはつしそうな　おおきさだ！
+EV_Mot_Mis_Stage015_128_01	ドガースを　すいこんでしまったのか。
+EV_Mot_Mis_Stage015_142_01	これは　かみなりのエネルギー　だろうか･･････
+EV_Mot_Sp_P142_11	これは　かみなりのエネルギー　だろうか･･････
 Evaluation_UI.msbt
 Evaluation_Welcome_CountPhoto_Tx	さつえいしたまいすう
 Evaluation_Welcome_CountPoke_Tx	さつえいしたポケモン
@@ -2065,10 +2342,13 @@ PlayerData_CountPhoto_ProfessorRecommend_Tx	はかせがオンラインにアッ
 MySpaceTitle_Info.msbt
 Title001_Info2	{color[0000]}フロレオしぜんこうえん{color[ffff]}を\nはじめて　ちょうさした
 Title002_Info2	{color[0000]}フロレオしぜんこうえん{color[ffff]}で　{color[0000]}ビッパのダムに　つづくルート{color[ffff]}を\nはっけんした
+Title003_Info2	{color[0000]}カクレぬけみち{color[ffff]}で　{color[0000]}カビゴンのねどこに　つづくルート{color[ffff]}を\nはっけんした
+Title004_Info2	{color[0000]}カクレぬけみち{color[ffff]}で　{color[0000]}ドダイトスのすみかに　つづくルート{color[ffff]}を\nはっけんした
 Title005_Info2	{color[0000]}ベースキャンプ{color[ffff]}で　{color[0000]}けんきゅうしょないに　つづくルート{color[ffff]}を\nはっけんした
 Title006_Info2	{color[0000]}ベラスとう{color[ffff]}を　はじめて　ちょうさした
 Title007_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}ぬまちに　つづくルート{color[ffff]}を\nはっけんした
 Title008_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}たきのうらがわに　つづくルート{color[ffff]}を\nはっけんした
+Title009_Info2	{color[0000]}ヨーヨーリバー{color[ffff]}で　{color[0000]}どうくつに　つづくルート{color[ffff]}を\nはっけんした
 Title010_Info2	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}はるなつあきふゆ　4つのきせつ{color[ffff]}を\nめぐった
 Title011_Info2	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}ひだまりに　つづくルート{color[ffff]}を\nはっけんした
 Title012_Info2	{color[0000]}コピアしょとう{color[ffff]}を　はじめて　ちょうさした
@@ -2078,6 +2358,7 @@ Title015_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}�
 Title016_Info2	{color[0000]}レンティルかいしょう{color[ffff]}で　{color[0000]}かいちゅうどうくつに　つづくルート{color[ffff]}を\nはっけんした
 Title017_Info2	{color[0000]}ボルクとう{color[ffff]}を　はじめて　ちょうさした
 Title018_Info2	{color[0000]}ネッサさばく{color[ffff]}で　{color[0000]}オアシスしゅうへんのルート{color[ffff]}を　すべて\nちょうさした
+Title019_Info2	{color[0000]}カラリこうや{color[ffff]}で　{color[0000]}かんけつせんにのって　うえへつづくルート{color[ffff]}を\nはっけんした
 Title020_Info2	{color[0000]}ドローかざん{color[ffff]}で　{color[0000]}あおいようがんどうくつに　つづくルート{color[ffff]}を\nはっけんした
 Title021_Info2	イルミナポケモンの　{color[0000]}ウルガモス{color[ffff]}を\nフォトずかんに　とうろくした
 Title022_Info2	{color[0000]}デュラスとう{color[ffff]}を　はじめて　ちょうさした
@@ -2305,10 +2586,13 @@ Title152_Info2	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イー�
 MySpaceTitle_Name.msbt
 Title001_Name	さつえいたいけんかい
 Title002_Name	ダムかんせい
+Title003_Name	もりのふかふかベッド
+Title004_Name	あたまのうえとおります
 Title005_Name	けんきゅうしつのたんけん
 Title006_Name	レンティルちょうさたい
 Title007_Name	ぬまちのわかれみち
 Title008_Name	たきのうらがわ
+Title009_Name	つきあかりのどうくつ
 Title010_Name	しゅんかしゅうとう
 Title011_Name	ふしぎなひだまり
 Title012_Name	たいかいのちょうさたい
@@ -2318,6 +2602,7 @@ Title015_Name	ブルーホール
 Title016_Name	うみのそこ
 Title017_Name	もうしょのちょうさたい
 Title018_Name	オアシスのまわりかた
+Title019_Name	かんけつせんにのって
 Title020_Name	あおいようがん
 Title021_Name	ほのおのきょうえん
 Title022_Name	さいはてのちょうさたい
@@ -2647,6 +2932,10 @@ Option_Turbo_Tx	ターボモード
 Option_Turbo_Help	ターボのそうさほうほうを　ホールド（おしつづける）／スイッチ（きりかえ）　にへんこうします
 Option_Turbo_Hold_Tx	ホールド
 Option_Turbo_Switch_Tx	スイッチ
+Option_SnsUploadPhoto_Tx	レンティルチャットのとうこうしゃしん
+Option_SnsUploadPhoto_Help	レンティルチャットで　オンラインにとうこうされたしゃしんの　ひょうじ／ひひょうじ　をきりかえます
+Option_SnsUploadPhoto_On_Tx	ひょうじ
+Option_SnsUploadPhoto_Off_Tx	ひひょうじ
 PauseMenu_UI.msbt
 PauseMenu_Help	メニューこうもくを　えらんでください
 PauseMenu_Head	ポーズメニュー
@@ -2700,6 +2989,10 @@ HowToPlay_EvaluationTips_Point7_Tx	ふうけい
 HowToPlay_EvaluationTips_Point7_Info	スコアが　かてんされる　とくべつなふうけいが　あるよ！
 HowToPlay_EvaluationTips_Point8_Tx	★のいろ
 HowToPlay_EvaluationTips_Point8_Info	ごうけいスコアによって　4だんかいに　かわるよ！
+PauseMenu_Camp_Select_Info	ちょうさをやめて　はかせにしゃしんをみせますか？\nすぐに　ベースキャンプに　もどることもできます。
+PauseMenu_Camp_SelectBack_Tx	まえにもどる
+PauseMenu_Camp_SelectEvaluation_Tx	はかせにみせる
+PauseMenu_Camp_SelectCamp_Tx	ベースキャンプへ
 PhotoDetail_UI.msbt
 PhotoDetail_Expansion_Tx	かくだい
 PhotoDetail_AlbumSave_On_Tx	ほぞん
@@ -2733,9 +3026,11 @@ PhotoDetail_Unselected_Help	アイコンを　えらんでください
 PhotoEdit_Info.msbt
 PhotoEditEffect001_Info	しろくろしゃしん　のようになる　こうか
 PhotoEditEffect002_Info	むかしのしゃしん　のようになる　こうか
+PhotoEditEffect003_Info	とうめいかんのある　あおみがかった　こうか
 PhotoEditEffect004_Info	あざやかさを　ちょうせつする　こうか
 PhotoEditEffect005_Info	あかるさを　ちょうせつする　こうか
 PhotoEditEffect006_Info	ひかりのグラデーションを　くわえる　こうか
+PhotoEditEffect007_Info	しろとくろの　2しょくになる　こうか
 PhotoEditEffect008_Info	しんぶんのしゃしん　のようになる　こうか
 PhotoEditEffect009_Info	かげを　つよくする　こうか
 PhotoEditEffect010_Info	アニメのぬりかた　のようになる　こうか
@@ -2744,15 +3039,18 @@ PhotoEditEffect012_Info	ぜんたいに　トーンをかさねる　こうか
 PhotoEditEffect013_Info	おしゃれなイラスト　のようになる　こうか
 PhotoEditEffect014_Info	ぎょがんレンズで　のぞいたようになる　こうか
 PhotoEditEffect015_Info	ミニチュアしゃしん　のようになる　こうか
+PhotoEditEffect016_Info	てでかいたえ　のようになる　こうか
 PhotoEditEffect017_Info	ドットえ　のようになる　こうか
 PhotoEditEffect018_Info	テレビのそうさせん　のような　こうか
 PhotoEditEffect019_Info	しゃしんを　4×4に　ぶんかつする　こうか
 PhotoEditEffect020_Info	しゃしんを　2×2に　ぶんかつする　こうか
 PhotoEditEffect001_Param1_Tx	こうかのつよさ
 PhotoEditEffect002_Param1_Tx	こうかのつよさ
+PhotoEditEffect003_Param1_Tx	こうかのつよさ
 PhotoEditEffect004_Param1_Tx	こうかのバランス
 PhotoEditEffect005_Param1_Tx	こうかのつよさ
 PhotoEditEffect006_Param1_Tx	こうかのつよさ
+PhotoEditEffect007_Param1_Tx	こうかのバランス
 PhotoEditEffect008_Param1_Tx	こうかのつよさ
 PhotoEditEffect008_Param2_Tx	あかるさ
 PhotoEditEffect009_Param1_Tx	こうかのバランス
@@ -2764,6 +3062,7 @@ PhotoEditEffect013_Param1_Tx	こうかのつよさ
 PhotoEditEffect014_Param1_Tx	こうかのつよさ
 PhotoEditEffect015_Param1_Tx	ぼかしのつよさ
 PhotoEditEffect015_Param2_Tx	ぼかしのはんい
+PhotoEditEffect016_Param1_Tx	こうかのつよさ
 PhotoEditEffect017_Param1_Tx	こうかのつよさ
 PhotoEditEffect018_Param1_Tx	こうかのつよさ
 PhotoEdit_Name.msbt
@@ -2778,6 +3077,8 @@ PhotoEditStamp032_Name	アクセサリー08
 PhotoEditStamp023_Name	アクセサリー09
 PhotoEditStamp158_Name	アクセサリー10
 PhotoEditStamp159_Name	アクセサリー11
+PhotoEditStamp174_Name	アクセサリー12
+PhotoEditStamp176_Name	アクセサリー13
 PhotoEditStamp028_Name	たべもの01
 PhotoEditStamp175_Name	たべもの02
 PhotoEditStamp030_Name	たべもの03
@@ -2812,17 +3113,20 @@ PhotoEditStamp052_Name	キャラ：キミ
 PhotoEditStamp053_Name	キャラ：キミ
 PhotoEditStamp056_Name	キャラ：トオル
 PhotoEditStamp051_Name	キャラ：カガミはかせ
+PhotoEditStamp057_Name	キャラ：ビクトル
 PhotoEditStamp054_Name	キャラ：フィル
 PhotoEditStamp055_Name	キャラ：リタ
 PhotoEditStamp019_Name	キラキラ01
 PhotoEditStamp020_Name	キラキラ02
 PhotoEditStamp021_Name	キラキラ03
 PhotoEditStamp022_Name	キラキラ04
+PhotoEditStamp173_Name	キラキラ05
 PhotoEditStamp006_Name	スター01
 PhotoEditStamp007_Name	スター02
 PhotoEditStamp008_Name	スター03
 PhotoEditStamp009_Name	スター04
 PhotoEditStamp010_Name	スター05
+PhotoEditStamp171_Name	スター06
 PhotoEditStamp033_Name	タイプ：ノーマル
 PhotoEditStamp034_Name	タイプ：ほのお
 PhotoEditStamp035_Name	タイプ：みず
@@ -2845,18 +3149,22 @@ PhotoEditStamp001_Name	ハート01
 PhotoEditStamp002_Name	ハート02
 PhotoEditStamp003_Name	ハート03
 PhotoEditStamp004_Name	ハート04
+PhotoEditStamp005_Name	ハート05
 PhotoEditStamp011_Name	フラワー01
 PhotoEditStamp012_Name	フラワー02
 PhotoEditStamp013_Name	フラワー03
 PhotoEditStamp151_Name	フラワー04
+PhotoEditStamp014_Name	フラワー05
 PhotoEditStamp125_Name	ぼうし01
 PhotoEditStamp167_Name	ぼうし02
 PhotoEditStamp168_Name	ぼうし03
 PhotoEditStamp126_Name	ぼうし04
 PhotoEditStamp127_Name	ぼうし05
 PhotoEditStamp128_Name	ぼうし06
+PhotoEditStamp183_Name	ぼうし07
 PhotoEditStamp123_Name	かんむり01
 PhotoEditStamp166_Name	かんむり02
+PhotoEditStamp124_Name	かんむり03
 PhotoEditStamp129_Name	フキダシ01
 PhotoEditStamp130_Name	フキダシ02
 PhotoEditStamp131_Name	フキダシ03
@@ -2906,6 +3214,8 @@ PhotoEditStamp121_Name	めがね02
 PhotoEditStamp122_Name	めがね03
 PhotoEditStamp165_Name	めがね04
 PhotoEditStamp180_Name	めがね05
+PhotoEditStamp181_Name	めがね06
+PhotoEditStamp182_Name	めがね07
 PhotoEditStamp017_Name	ゆき01
 PhotoEditStamp018_Name	ゆき02
 PhotoEditStamp015_Name	リーフ01
@@ -2916,12 +3226,15 @@ PhotoEditStamp164_Name	リボン02
 PhotoEditStamp116_Name	リボン03
 PhotoEditStamp117_Name	リボン04
 PhotoEditStamp118_Name	リボン05
+PhotoEditStamp119_Name	リボン06
+PhotoEditStamp179_Name	リボン07
 PhotoEditStamp065_Name	ネオワンごう
 PhotoEditStamp064_Name	リサーチカメラ
 PhotoEditStamp029_Name	ふわりんご
 PhotoEditStamp066_Name	エンブレム
 PhotoEditStamp160_Name	クルーバッジ
 PhotoEditStamp161_Name	りんごメダル
+PhotoEditStamp067_Name	モンスターボール
 PhotoEditFrame000_Name	フレームなし
 PhotoEditFrame016_Name	エフェクト01
 PhotoEditFrame017_Name	エフェクト02
@@ -2929,6 +3242,8 @@ PhotoEditFrame018_Name	エフェクト03
 PhotoEditFrame019_Name	エフェクト04
 PhotoEditFrame020_Name	エフェクト05
 PhotoEditFrame021_Name	エフェクト06
+PhotoEditFrame069_Name	エフェクト07
+PhotoEditFrame070_Name	エフェクト08
 PhotoEditFrame031_Name	コミック01
 PhotoEditFrame032_Name	コミック02
 PhotoEditFrame033_Name	コミック03
@@ -2956,6 +3271,9 @@ PhotoEditFrame055_Name	デザイン16
 PhotoEditFrame056_Name	デザイン17
 PhotoEditFrame057_Name	デザイン18
 PhotoEditFrame058_Name	デザイン19
+PhotoEditFrame059_Name	デザイン20
+PhotoEditFrame060_Name	デザイン21
+PhotoEditFrame061_Name	デザイン22
 PhotoEditFrame012_Name	フォトフレーム01
 PhotoEditFrame013_Name	フォトフレーム02
 PhotoEditFrame014_Name	フォトフレーム03
@@ -2989,6 +3307,9 @@ PhotoEditFrame081_Name	レンティルちほう09
 PhotoEditFrame085_Name	レンティルちほう10
 PhotoEditFrame086_Name	レンティルちほう11
 PhotoEditFrame087_Name	レンティルちほう12
+PhotoEditFrame075_Name	レンティルちほう13
+PhotoEditFrame077_Name	レンティルちほう14
+PhotoEditFrame080_Name	レンティルちほう15
 PhotoEditFrame040_Name	ロゴ：ひだりうえ
 PhotoEditFrame041_Name	ロゴ：ひだりうえ
 PhotoEditFrame042_Name	ロゴ：ひだりうえ
@@ -3002,9 +3323,11 @@ PhotoEditFrame050_Name	ロゴ：みぎした
 PhotoEditEffect000_Name	フィルタなし
 PhotoEditEffect001_Name	モノクロ
 PhotoEditEffect002_Name	アンティーク
+PhotoEditEffect003_Name	クール
 PhotoEditEffect004_Name	コントラスト
 PhotoEditEffect005_Name	ろしゅつ
 PhotoEditEffect006_Name	ライト
+PhotoEditEffect007_Name	2かいちょう
 PhotoEditEffect008_Name	タブロイド
 PhotoEditEffect009_Name	ハイコントラスト
 PhotoEditEffect010_Name	セルぬり
@@ -3013,6 +3336,7 @@ PhotoEditEffect012_Name	デジタルトーン
 PhotoEditEffect013_Name	ポップ
 PhotoEditEffect014_Name	ぎょがん
 PhotoEditEffect015_Name	ミニチュア
+PhotoEditEffect016_Name	てぬり
 PhotoEditEffect017_Name	ドットか
 PhotoEditEffect018_Name	テレビ
 PhotoEditEffect019_Name	16ぶんかつ
@@ -3049,7 +3373,7 @@ PhotoEdit_Frame_Help	フレームを　えらんでください
 PhotoEdit_Effect_ModeAdjust_Help	こうかの　せっていを　ちょうせいできます
 PhotoEdit_Effect_Compare_Help	こうかを　かけるまえのしゃしんを　ひょうじします
 PhotoEx_UI.msbt
-PhotoEx_Info	  カメラそうさ　  かいてん　  ズーム　 パネルひひょうじ　 リセット　 しゅうりょう
+PhotoEx_Info	  カメラそうさ　  かいてん　  ズーム　 パネルひひょうじ　 リセット　 さつえいする　 Switchにほぞん　 しゅうりょう
 PhotoEx_Brightness_Tx	あかるさ
 PhotoEx_BlurStrength_Tx	ぼかしのつよさ
 PhotoEx_BlurScope_Tx	ぼかしのはんい
@@ -3066,9 +3390,12 @@ PhotoEx_ShootingType_Silhouette07_Tx	シルエット07
 PhotoEx_ShootingType_Silhouette08_Tx	シルエット08
 PhotoEx_EditCaption_Tx	タイトル
 PhotoEx_Shooting_Tx	さつえいする
-PhotoEx_PhotoSave_Info	このしゃしんを　ほぞんしますか？
+PhotoEx_PhotoSave_Info	このしゃしんを　アルバムに　ほぞんしますか？
 PhotoEx_PhotoSave_Yes_Tx	はい
 PhotoEx_PhotoSave_No_Tx	いいえ
+PhotoEx_PhotoSaveDownload_Info	このしゃしんを　Nintendo Switchのアルバムに　ほぞんしますか？
+PhotoEx_PhotoSaveDownload_Yes_Tx	はい
+PhotoEx_PhotoSaveDownload_No_Tx	いいえ
 PhotoSubmit_UI.msbt
 PhotoSubmit_Select_Help	はかせにみせるしゃしんを　えらんでください
 PhotoSubmit_Select_Submit_Tx	はかせにみせる
@@ -3089,6 +3416,8 @@ PhotoSubmit_Submit_CancelCheck_Tx	キャンセル
 PhotoSubmit_Submit_CancelCheck_Help	えらんだしゃしんのチェックを　はずします
 PhotoSubmit_Submit_NoIlluminaBoss_Help	イルミナげんしょうを　とらえていないしゃしんは　えらべません
 PhotoSubmit_Submit_NoIlluminaFlower_Help	イルミナげんしょうを　とらえていないしゃしんは　えらべません
+PhotoSubmit_Select_MisClear_Help	はかせにみせるしゃしんを　えらんでください（リクエストされたしゃしん）
+PhotoSubmit_Submit_CancelCheck_MisClear_Help	えらんだしゃしんのチェックを　はずします
 PictureBookEtc_UI.msbt
 PictureBookEtc_Top_Help	かくにんしたいコレクションを　えらんでください
 PictureBookEtc_Top_Head	コレクション
@@ -3141,13 +3470,20 @@ Stage008_Info	こだいのポケモンが\nいまも　いきつづける\nし�
 Stage009_Info	とけることのない　ゆきと\nこおりで　とざされた\nごっかんの　ぎんせかい。
 Stage010_Info	ちていへ　ふかく\nつづいている\nさいはての　どうくつ。
 Stage011_Info	わすれられたしまに　ねむる\nたいこに　つくられた\nなぞの　いせき。
+Stage012_Info	ネオワンごうの　きのうで\nちいさくなっていく\nヒミツの　ぬけみち。
+Stage013_Info	えいようたっぷりの　みずを\nしまじゅうに　とどける\nめぐみの　かわ。
 Stage014_Info	ここちよい　なみのおとと\nうたごえが　ひびきわたる\nサンゴのうみ。
+Stage015_Info	がんぺきそびえる　こうや。\nえぐられた　だいちからは\nどくや　ねつが　ふきだす。
 Stage101_Info	レンティルちほうの\nちょうさの　きょてんとなる\nけんきゅうしせつ。
 Course001_Info	ひろびろとしたみずうみと　いろとりどりのはなばたけをとおる\nポケモンをかんさつしやすい　たいけんかいの　ていばんルート。
 Course002_Info	つきのひかりにてらされ　ひるまとは　ちがうこうどうをする\nポケモンたちが　かんさつできるルート。
+Course003_Info	ポケモンだけがしっている　ヒミツのぬけみちのさき。\nちいさくなることで　いつもとちがうせかいが　みられる。
+Course004_Info	きぎのかげにおおわれた　ヒミツのぬけみちのさき。\nげんそうてきに　ひかるキノコに　てらされている。
 Course005_Info	しぜんこうえんの　こだかいおかにある　はなばたけ。\nフロレオとうのイルミナポケモン　メガニウムがいる。
 Course006_Info	はるかむかしから　いきつづけるきょぼくや　たきのある　みつりん。\nふくざつにおいしげる　きぎのあいだには　ポケモンがみえかくれする。
 Course007_Info	しずかなよるのみつりんでは　ひかりをはなつ　くさきに\nひかれるように　おおくのポケモンたちが　かつどうする。
+Course008_Info	きふくのはげしい　たににながれる　おおきなかわ。\nしぜんゆたかな　かわべには　さまざまなポケモンがあつまる。
+Course009_Info	よるのやみにつつまれた　きゅうりゅうをくだる　だいぼうけん。\nそこのみえぬ　すいちゅうや　いわばには　ポケモンたちのけはい。
 Course010_Info	きりのふかいじゅかいには　ときをわすれさせ\nきこうすらくるわす　ふしぎなちからが　ひめられている。
 Course011_Info	じゅかいの　おくちにある　すみわたった　みずうみ。\nベラスとうのイルミナポケモン　ミロカロスがいる。
 Course012_Info	コピアしょとうのなかでも　もっともうつくしい　はまべ。\nすなはまでは　ポケモンたちが　おだやかにくらしている。
@@ -3158,6 +3494,8 @@ Course016_Info	ブルーホールのなかを　もぐっていくと\nひかり
 Course017_Info	レンティルかいしょうの　もっともふかいばしょにある　いわば。\nコピアしょとうのイルミナポケモン　ヨワシがいる。
 Course018_Info	すなあらしが　ふきすさぶ　もうしょのさばく。\nだいしょう　さまざまなポケモンたちが　オアシスにあつまる。
 Course019_Info	ひがおちて　おおくのポケモンが　ねむりにつくころ\nちいさなポケモンたちが　かつどうをはじめる。
+Course020_Info	さばくからの　かわいたかぜのふく　こうやには\nガスのふきでる　どくぬまや　かんけつせんがひろがる。
+Course021_Info	たくさんのながれぼしが　だいちをけずり\nこうやの　きみょうなちけいを　つくりだしている。
 Course022_Info	しゃくねつのマグマがながれる　かざんたい。\nはるかこだいから　ちからをしめしてきたポケモンたちがいる。
 Course023_Info	かざんたいのなか　かこうが2つある　もっともおおきなかざん。\nボルクとうのイルミナポケモン　ウルガモスがいる。
 Course024_Info	ぼうけんきにもない　ぜんじんみとうの　ぎんせかい。\nふかいゆきにおおわれたやまも　ポケモンたちのすみか。
@@ -3168,7 +3506,6 @@ Course028_Info	レンティルのれきしを　しるための　おおきな�
 Course029_Info	シューゴいせきの　ガレキでとざされた　いりぐちのさき。\nアウラムとうのイルミナポケモン　ゼルネアスが　ねむりについている。
 Course030_Info	はかせのけんきゅうしつもある　ちょうさのきょてん。\nしぜんこうえんの　しきちないで　ポケモンもじゆうにでいりしている。
 Place_Name.msbt
-Region001_Name	レンティルちほう
 Island001_Name	フロレオとう
 Island002_Name	ベラスとう
 Island003_Name	コピアしょとう
@@ -3185,13 +3522,20 @@ Stage008_Name	ドローかざん
 Stage009_Name	ヒエールせつげん
 Stage010_Name	ハナレどうくつ
 Stage011_Name	シューゴいせき
+Stage012_Name	カクレぬけみち
+Stage013_Name	ヨーヨーリバー
 Stage014_Name	コピアリーフ
+Stage015_Name	カラリこうや
 Stage101_Name	ベースキャンプ
 Course001_Name	こうえん（ひる）
 Course002_Name	こうえん（よる）
+Course003_Name	ぬけみち（ひる）
+Course004_Name	ぬけみち（よる）
 Course005_Name	イルミナスポット
 Course006_Name	ジャングル（ひる）
 Course007_Name	ジャングル（よる）
+Course008_Name	リバー（ひる）
+Course009_Name	リバー（よる）
 Course010_Name	じゅかい
 Course011_Name	イルミナスポット
 Course012_Name	ビーチ（ひる）
@@ -3202,6 +3546,8 @@ Course016_Name	かいちゅう
 Course017_Name	イルミナスポット
 Course018_Name	さばく（ひる）
 Course019_Name	さばく（よる）
+Course020_Name	こうや（ひる）
+Course021_Name	こうや（よる）
 Course022_Name	かざん
 Course023_Name	イルミナスポット
 Course024_Name	せつげん（ひる）
@@ -3211,16 +3557,12 @@ Course027_Name	イルミナスポット
 Course028_Name	いせき
 Course029_Name	イルミナスポット
 Course030_Name	ベースキャンプ
-Collection_Course001_Name	こうえん
 Collection_Course003_Name	フロレオとうのイルミナスポット
 Collection_Course004_Name	ジャングル
 Collection_Course006_Name	じゅかい
 Collection_Course007_Name	ベラスとうのイルミナスポット
-Collection_Course008_Name	ビーチ
-Collection_Course009_Name	かいじょう
 Collection_Course010_Name	かいちゅう
 Collection_Course011_Name	コピアしょとうのイルミナスポット
-Collection_Course012_Name	さばく
 Collection_Course014_Name	かざん
 Collection_Course015_Name	ボルクとうのイルミナスポット
 Collection_Course016_Name	せつげん
@@ -3228,7 +3570,6 @@ Collection_Course017_Name	どうくつ
 Collection_Course018_Name	デュラスとうのイルミナスポット
 Collection_Course019_Name	いせき
 Collection_Course020_Name	アウラムとうのイルミナスポット
-Collection_Course021_Name	ベースキャンプ
 OtherPlace001_Name	レンティル ポケモンしぜんかがくけんきゅうじょ
 Poke_Class.msbt
 P001_Class_00	ねずみポケモン
@@ -3279,6 +3620,7 @@ P047_Class_00	ランデブーポケモン
 P048_Class_00	とりポケモン
 P049_Class_00	いわへびポケモン
 P050_Class_00	やしのみポケモン
+P051_Class_00	おおあごポケモン
 P052_Class_00	フラワーポケモン
 P053_Class_00	ものぐさポケモン
 P054_Class_00	きょうぼうポケモン
@@ -3300,6 +3642,7 @@ P069_Class_00	ねずみポケモン
 P070_Class_00	あわはきポケモン
 P071_Class_00	かいりきポケモン
 P072_Class_00	ほのおポケモン
+P073_Class_00	いねむりポケモン
 P074_Class_00	ハーブポケモン
 P075_Class_00	げっこうポケモン
 P076_Class_00	ふくろうポケモン
@@ -3310,6 +3653,7 @@ P080_Class_00	ふんしゃポケモン
 P081_Class_00	こツバメポケモン
 P082_Class_00	みずどりポケモン
 P083_Class_00	ネコイタチポケモン
+P084_Class_00	きのこポケモン
 P085_Class_00	キバへびポケモン
 P086_Class_00	はちのこポケモン
 P087_Class_00	たいりくポケモン
@@ -3321,6 +3665,7 @@ P092_Class_00	しんりょくポケモン
 P093_Class_00	ききゅうポケモン
 P094_Class_00	かいゆうポケモン
 P095_Class_00	かんしゃポケモン
+P096_Class_00	きのこポケモン
 P097_Class_00	ずつきうしポケモン
 P098_Class_00	かいてんポケモン
 P099_Class_00	むすびつきポケモン
@@ -3342,15 +3687,31 @@ P114_Class_00	みずとかげポケモン
 P115_Class_00	たねポケモン
 P116_Class_00	コブラポケモン
 P117_Class_00	ねずみポケモン
+P118_Class_00	もぐらポケモン
+P119_Class_00	あひるポケモン
+P120_Class_00	どくガスポケモン
 P121_Class_00	おやこポケモン
+P122_Class_00	きょうあくポケモン
 P123_Class_00	しんしゅポケモン
 P124_Class_00	いつつぼしポケモン
+P125_Class_00	ほしがたポケモン
+P126_Class_00	とうみんポケモン
 P127_Class_00	よろいポケモン
+P128_Class_00	どくぶくろポケモン
 P129_Class_00	ありじごくポケモン
+P130_Class_00	フルーツポケモン
 P131_Class_00	ぬまうおポケモン
 P132_Class_00	せんこうポケモン
+P133_Class_00	キバさそりポケモン
+P134_Class_00	ひぶたポケモン
+P135_Class_00	もぐらポケモン
+P136_Class_00	メガムカデポケモン
+P137_Class_00	いわやどポケモン
 P138_Class_00	はつでんポケモン
+P139_Class_00	こいぬポケモン
+P140_Class_00	どくトカゲポケモン
 P141_Class_00	ながれぼしポケモン
+P142_Class_00	じんらいポケモン
 P143_Class_00	ねずみポケモン
 P144_Class_00	ねずみポケモン
 P145_Class_00	きつねポケモン
@@ -3548,6 +3909,7 @@ P047_Height_00	0.6m
 P048_Height_00	1.5m
 P049_Height_00	8.8m
 P050_Height_00	2.0m
+P051_Height_00	2.3m
 P052_Height_00	0.4m
 P053_Height_00	2.0m
 P054_Height_00	1.8m
@@ -3570,6 +3932,7 @@ P069_Height_00	0.7m
 P070_Height_00	1.0m
 P071_Height_00	1.6m
 P072_Height_00	0.9m
+P073_Height_00	2.1m
 P074_Height_00	??.?m
 P075_Height_00	1.0m
 P076_Height_00	0.7m
@@ -3580,6 +3943,7 @@ P080_Height_00	0.9m
 P081_Height_00	0.3m
 P082_Height_00	1.2m
 P083_Height_00	1.3m
+P084_Height_00	0.4m
 P085_Height_00	2.7m
 P086_Height_00	0.3m
 P087_Height_00	2.2m
@@ -3591,6 +3955,7 @@ P092_Height_00	1.0m
 P093_Height_00	1.2m
 P094_Height_00	0.3m
 P095_Height_00	0.2m
+P096_Height_00	0.2m
 P097_Height_00	1.6m
 P098_Height_00	0.4m
 P099_Height_00	1.0m
@@ -3613,15 +3978,31 @@ P114_Height_00	0.3m
 P115_Height_00	2.0m
 P116_Height_00	3.5m
 P117_Height_00	0.6m
+P118_Height_00	0.2m
+P119_Height_00	0.8m
+P120_Height_00	0.6m
 P121_Height_00	2.2m
+P122_Height_00	6.5m
 P123_Height_00	0.4m
 P124_Height_00	1.4m
+P125_Height_00	0.3m
+P126_Height_00	1.8m
 P127_Height_00	2.0m
+P128_Height_00	1.7m
 P129_Height_00	0.7m
+P130_Height_00	2.0m
 P131_Height_00	1.5m
 P132_Height_00	0.5m
+P133_Height_00	2.0m
+P134_Height_00	0.5m
+P135_Height_00	0.3m
+P136_Height_00	2.5m
+P137_Height_00	1.4m
 P138_Height_00	1.0m
+P139_Height_00	0.5m
+P140_Height_00	1.2m
 P141_Height_00	0.3m
+P142_Height_00	1.5m
 P143_Height_00	0.3m
 P144_Height_00	1.2m
 P145_Height_00	0.6m
@@ -3768,6 +4149,7 @@ P047_Info_00	ハートのかたちをした　からだは\nめだつので　�
 P048_Info_00	はばたけば　あらゆるものを\nふきとばす　おおかぜをおこすよ。\nとおくではねる　コイキングも\nみのがさない　しりょくも　もっているんだ。
 P049_Info_00	いわのかべも　すなのうみも\nじゆうに　うごきまわることができるよ。\nイワークが　とおってできた　あなは\nほかのポケモンの　すあなになるんだ。
 P050_Info_00	3つあるあたまは　それぞれちがうことを\nかんがえているけど　なかよしなんだよ。\nはまべのきに　よりそって　ねむるのは\nぎたいして　みをまもるためなんだ。
+P051_Info_00	からだがおもいけど　ちからづよい　うしろあしで\nじめんをけると　すごいスピードが　だせるんだ。\nヨーヨーリバーでは　よく　すいちゅうから\nとびだしてきて　びっくりしたよね。
 P052_Info_00	ふだんは　しげみのなかで\nかくれて　くらしているよ。\nうれしいことがあると　でてきて\nなかまといっしょに　おどるんだ。
 P053_Info_00	せかいいち　ぐうたらで　てのとどくものしか\nたべない　ものぐさなポケモンだよ。\nでも　すごく　おなかが　すいていたのか\nよるには　あるいているようすも　みられたね。
 P054_Info_00	だれにでも　およぎのしょうぶを　しかける\n「うみのギャング」と　よばれているよ。\nおよぎは　はやいけど　ながいじかん\nスピードをたもてないのが　じゃくてんなんだ。
@@ -3790,6 +4172,7 @@ P069_Info_00	サイコパワーをつかった\nしっぽでのなみのりが�
 P070_Info_00	なにもいないように　みえる\nブルーホールで　くらしているよ。\nさいぼうが　みずのぶんしに　にているから\nすいちゅうにいると　みえなくなるんだ。
 P071_Info_00	きたえぬかれた　4ほんのうでは\nおよぐときにも　かつやくするんだ。\nうみでくらすポケモンにも　まけないほど\nはやく　およぐことができるんだよ。
 P072_Info_00	こうきしんがつよくて　さまざまなものに\nきょうみをしめすよ。　こうふんすると\nたいおんがあがるけど　ふさふさのたいもうから\nねつをだすことで　ひやすんだ。
+P073_Info_00	じぶんのおもさと　おなじくらいのりょうを\nたべるおなかは　まさにキングサイズだね。\nちいさなポケモンの　ベッドになっても\nカビゴンは　きにしないみたいだ。
 P074_Info_00	フロレオとうで　100ねんぶりに\nすがたをあらわし　キミがさつえいした\nイルミナポケモンだよ。\nはなのさくおかでは　いろんなポケモンと\nなかのいいようすが　みられたね。
 P075_Info_00	うれしいことがあると　からだにある\nもようがひかって　エネルギーをうみだすよ。\nいせきでは　よくアブソルと\nいっしょにいるようすが　みられたね。
 P076_Info_00	とけいよりも　じかんにせいかくだと\nいわれている　ポケモンだよ。\nひかりがにがてな　やこうせいなので\nひるまは　きのあなのなかで　ねむっているんだ。
@@ -3800,6 +4183,7 @@ P080_Info_00	ひそむのに　ぴったりな\nいわかげをさがして　�
 P081_Info_00	さむくなると　たべものをもとめて\nしぜんこうえんに　たくさんやってくるよ。\nケムッソに　ちょっかいをだすけど\nはんげきされることが　おおいんだ。
 P082_Info_00	クチバシに　ものをいれて　はこぶことから\n「そらのはこびや」と　よばれているよ。\nおなかがすいたときは　たべものをもとめて\nみずのなかに　もぐることもあるんだ。
 P083_Info_00	こうげきしてきたあいてに　するどいツメで\nたちむかう　いさましい　いちめんもあるよ。\nでもじつは　なみのおとや　うたごえをききながら\nおだやかに　すごすのが　すきみたいだね。
+P084_Info_00	こかげの　しめったばしょがすきで\nひっそりと　くらしているんだ。\nおどろいたりすると　あたまから　どくのほうしを\nばらまくから　ようちゅういだよ。
 P085_Info_00	きちょうめんな　せいかくなのか\nいつも　しっぽのやいばを　といでいたね。\nこのやいばは　するどいうえに\nもうどくが　しみだしていて　きけんなんだよ。
 P086_Info_00	うまれたときから　3びきでいっしょに\nビークインのために　はたらいているんだ。\nクリスタフラワーのちかくで　あつめられたミツは\nとてもあまくて　のうこうなんだよ。
 P087_Info_00	もりのおくで　むれをつくって　くらしているよ。\nくさきのはえた　おおきなせなかは\nちいさなポケモンにとって\nあんしんできる　ばしょのようだね。
@@ -3811,6 +4195,7 @@ P092_Info_00	ジャングルの　たきのちかくは\nとても　くうき�
 P093_Info_00	ひるまは　きままにうかんでいて\nゆうがたになると　どこかへとんでいくよ。\nフワライドが　いどうをてつだったあと\nみつからない　パールルもいるみたいだね。
 P094_Info_00	あらゆるポケモンと　こころをかよいあわせる\nふしぎなちからを　もっているよ。\nうつくしいうたごえに　ひかれるように\nかいていから　すがたをあらわすんだ。
 P095_Info_00	あれただいちも　ふっかつさせる\nふしぎなちからを　もっているよ。\nまるくなると　はなにしかみえないので\nちかくにいても　にんしきできないんだ。
+P096_Info_00	レンティルでは　りゅうつうしていないはずの\nモンスターボールににた　すがたをしているよ。\nなぜ　このすがたなのか\nりゆうは　かいめいされていないんだ。
 P097_Info_00	とっしんしながらの　ずつきのいりょくは\nおおいわを　ふんさいするほどなんだよ。\nむれのなかで　おおゲンカになっても\nあたまのふさふさの　おかげでケガはしないんだ。
 P098_Info_00	ひかるものや　すいちゅうにひびくおとに\nついつい　はんのうしてしまうよ。\nふだんは　はっこうすることで　なかまと\nじょうほうを　こうかんしているからなんだ。
 P099_Info_00	しぜんこうえんの　はなばたけが\nすきで　すみかにしているよ。\nこころをおだやかにする　はどうをだすときは\nかろやかなステップで　おどるんだ。
@@ -3833,16 +4218,32 @@ P114_Info_00	とてもおくびょうで　びっくりするだけで\nさい�
 P115_Info_00	せなかにある　おおきなはなのかおりは\nポケモンのこころを　なごませるんだ。\nみずべにいる　ちいさなポケモンたちも\nあんしんして　あそんでいたね。
 P116_Info_00	ジャングルでは　きのうえで\nきように　ねむっていたね。\nおなかにある　かおにもみえる　もようは\nあいてを　いかくするときに　みせつけるんだ。
 P117_Info_00	せなかが　かたいひふで　おおわれていて\nからだを　まるめることで　みをまもるよ。\nそのまま　ころがることで　さばくを\nすばやく　いどうすることもできるんだ。
+P118_Info_00	たいようこうが　にがてなので\nつちのなかで　くらしているよ。\nイワークが　ほりすすんだあと　できたあなは\nディグダのすに　ぴったりなんだ。
+P119_Info_00	いつも　ずつうに　なやまされていて\nぼんやりしていることが　おおいんだ。\nかわに　ながされることも　あるけど\nコダックは　きにしていないみたいだね。
+P120_Info_00	からだには　もうどくのガスが　つまっているよ。\nおおきく　ふくらむことがあるのは\nどくぬまの　せいぶんによって　かがくへんかが\nそくしんされるからなんだ。
 P121_Info_00	おなかのふくろで　こそだてをするよ。\nちかづくあいてには　いかくするけど\nこどもをまもろうという　いしがつよいからで\nほんとうは　やさしいポケモンなんだ。
+P122_Info_00	とてもきょうぼうで　あらゆるものを\nはかいする　ちからをもつポケモンだよ。\nヨーヨーリバーの　がんぺきが　けずられていたのは\nギャラドスが　たきを　のぼったからなんだ。
 P123_Info_00	いせきに　かくれてくらしている\nとても　ちのうのたかいポケモンだよ。\nきよらかな　こころのもちぬしの　ちかくにだけ\nすがたをあらわすと　いわれているよ。
 P124_Info_00	よるになると　きらめくこなを\nふりまきながら　とぶよ。\nほしあかりを　エネルギーにするせいしつから\nひかるものに　ひかれやすいみたいだね。
+P125_Info_00	よぞらのみえる　どうくつで\nおどっているようすが　みられたね。\nピィは　たいこのむかし　ながれぼしにのって\nやってきたと　いわれているんだよ。
+P126_Info_00	きに　おおきなツメあとが　あったら\nそこは　リングマの　ナワバリだよ。\nきにいったばしょを　ほかのポケモンに\nとられないよう　めじるしをつけるんだ。
 P127_Info_00	すなあらしのなかで　ねむれてしまうくらい\nがんじょうなからだを　もっているよ。\nさばくでは　つよいあいてとの　たたかいを\nまちのぞんでいるようだったね。
+P128_Info_00	なんでも　まるのみにして\nしょうかしてしまう　くいしんぼうだよ。\nどくがあるものが　すきだから　どくぬまは\nマルノームにとって　ごちそうのやまなんだ。
 P129_Info_00	さばくにある　すりばちじょうに\nくぼんだばしょは　ナックラーのすだよ。\nみをまもりながら　おちてきたたべものを\nうけとれる　ごうりてきなつくりなんだ。
+P130_Info_00	くびもとにみのった　あまいふさを\nみんなにわけあたえる　やさしいポケモンだよ。\nおおきなからだだけど　かろやかに\nそらをとぶことが　できるんだ。
 P131_Info_00	にごったかわのみずを　みとおすことができる\nしりょくを　もっているんだ。\nちじょうで　どろかけをしているのは\nひふのうるおいを　たもつためなんだよ。
 P132_Info_00	ヒトカゲと　おいかけっこしたり\nあそんでいるようすが　みられたね。\nまえあしには　かけまわることで\nでんきをつくりだす　しくみがあるんだよ。
+P133_Info_00	おおきなしっぽで　いわばにぶらさがって\nまわりを　かんさつしていたね。\nたべものを　ねらうときは　まったく　おとをたてず\nかっくうするように　とぶんだ。
+P134_Info_00	たいないで　つくった　ほのおを\nはなから　うつことができるよ。\nきゅうかくも　すぐれていて　においで\nたべものを　さがすのが　とくいなんだ。
+P135_Info_00	りょうてのツメを　かさねあわせたまま\nからだをスピンさせて　ちちゅうを　ほりすすむよ。\nちじょうに　かおをだすのは\nひとやすみするためなんだ。
+P136_Info_00	すばやいうごきで　あいてをおいつめる\nこうげきてきな　いちめんがあるよ。\nからだをまるめて　ねむるのは\nむかしの　なごりかもしれないね。
+P137_Info_00	せおっているいわは　ナワバリあらそいのときに\nこわされたら　まけになる　だいじなものなんだ。\nかんけつせんの　せいぶんで　かたくなったいわが\nイワパレスの　おきにいりみたいだね。
 P138_Info_00	あしのきんにくを　でんきでしげきして\nすばやくうごかすと　すいめんもはしれるんだ。\nエリマキをひろげると　いちどにつくれる\nでんきのりょうも　ふえるんだよ。
+P139_Info_00	ほかのポケモンと　なかよくなるのが　とくいで\nよく　あそんでいるようすが　みられたね。\nいざというときは　みんなをまもるために\nこうどうする　ゆうかんさを　もっているんだ。
+P140_Info_00	かんけつせんのあたりは　あまいかおりがしたよね。\nあれは　エンニュートの\nどくガスにふくまれる　フェロモンが\nすなや　みずに　しみこんでいるからなんだ。
 P141_Info_00	ふだんは　かたいカラにつつまれているけど\nこれが　ほんらいのすがたなんだ。\nコアのじょうたいでも　うごきまわれるのは\nイルミナげんしょうに　かんけいある\nかもしれないね。
 P141_Info_01	よぞらから　やってきたと\nいわれているポケモンだよ。\nさばくで　そらに　かえっていく\nようすは　きれいだったね。
+P142_Info_00	ボルクとうの　へいわをまもるため　かみなりが\nおちるのと　おなじはやさでパトロールしているよ。\nカラリこうやでは　すがたを\nみることができて　うんがよかったね。
 P143_Info_00	よく　けんきゅうしつのちかくで\nヤブクロンと　あそんでいるね。\nのびつづけるキバを　けずるためとはいえ\nはしらをかじられるのは　こまってしまうよ。
 P144_Info_00	おおきなツメのおかげで　ゆきのなかを\nおよぐように　いどうできるんだ。\nせなかにある　こおりのトゲは　ツメよりも\nするどくて　あらゆるものから　みをまもるよ。
 P145_Info_00	けいかいしているときは　くちから\nれいきをはいて　いかくするよ。\nなかよしのポケモンとは　おいかけっこしたり\nむじゃきに　あそんでいたね。
@@ -3989,6 +4390,7 @@ P047_Name	ラブカス
 P048_Name	ピジョット
 P049_Name	イワーク
 P050_Name	ナッシー
+P051_Name	オーダイル
 P052_Name	キレイハナ
 P053_Name	ケッキング
 P054_Name	サメハダー
@@ -4010,6 +4412,7 @@ P069_Name	ライチュウ
 P070_Name	シャワーズ
 P071_Name	カイリキー
 P072_Name	ブースター
+P073_Name	カビゴン
 P074_Name	メガニウム
 P075_Name	ブラッキー
 P076_Name	ホーホー
@@ -4020,6 +4423,7 @@ P080_Name	オクタン
 P081_Name	スバメ
 P082_Name	ペリッパー
 P083_Name	ザングース
+P084_Name	キノココ
 P085_Name	ハブネーク
 P086_Name	ミツハニー
 P087_Name	ドダイトス
@@ -4031,6 +4435,7 @@ P092_Name	リーフィア
 P093_Name	フワライド
 P094_Name	マナフィ
 P095_Name	シェイミ
+P096_Name	タマゲタケ
 P097_Name	バッフロン
 P098_Name	マーイーカ
 P099_Name	ニンフィア
@@ -4052,15 +4457,31 @@ P114_Name	メッソン
 P115_Name	フシギバナ
 P116_Name	アーボック
 P117_Name	サンド
+P118_Name	ディグダ
+P119_Name	コダック
+P120_Name	ドガース
 P121_Name	ガルーラ
+P122_Name	ギャラドス
 P123_Name	ミュウ
 P124_Name	レディアン
+P125_Name	ピィ
+P126_Name	リングマ
 P127_Name	バンギラス
+P128_Name	マルノーム
 P129_Name	ナックラー
+P130_Name	トロピウス
 P131_Name	ラグラージ
 P132_Name	コリンク
+P133_Name	グライオン
+P134_Name	ポカブ
+P135_Name	モグリュー
+P136_Name	ペンドラー
+P137_Name	イワパレス
 P138_Name	エレザード
+P139_Name	イワンコ
+P140_Name	エンニュート
 P141_Name	メテノ
+P142_Name	ゼラオラ
 P143_Name	コラッタ
 P144_Name	サンドパン
 P145_Name	ロコン
@@ -4223,6 +4644,7 @@ P047_Weight_00	8.7kg
 P048_Weight_00	39.5kg
 P049_Weight_00	210.0kg
 P050_Weight_00	120.0kg
+P051_Weight_00	88.8kg
 P052_Weight_00	5.8kg
 P053_Weight_00	130.5kg
 P054_Weight_00	88.8kg
@@ -4244,6 +4666,7 @@ P069_Weight_00	21.0kg
 P070_Weight_00	29.0kg
 P071_Weight_00	130.0kg
 P072_Weight_00	25.0kg
+P073_Weight_00	460.0kg
 P074_Weight_00	???.?kg
 P075_Weight_00	27.0kg
 P076_Weight_00	21.2kg
@@ -4254,6 +4677,7 @@ P080_Weight_00	28.5kg
 P081_Weight_00	2.3kg
 P082_Weight_00	28.0kg
 P083_Weight_00	40.3kg
+P084_Weight_00	4.5kg
 P085_Weight_00	52.5kg
 P086_Weight_00	5.5kg
 P087_Weight_00	310.0kg
@@ -4265,6 +4689,7 @@ P092_Weight_00	25.5kg
 P093_Weight_00	15.0kg
 P094_Weight_00	1.4kg
 P095_Weight_00	2.1kg
+P096_Weight_00	1.0kg
 P097_Weight_00	94.6kg
 P098_Weight_00	3.5kg
 P099_Weight_00	23.5kg
@@ -4287,16 +4712,32 @@ P114_Weight_00	4.0kg
 P115_Weight_00	100.0kg
 P116_Weight_00	65.0kg
 P117_Weight_00	12.0kg
+P118_Weight_00	0.8kg
+P119_Weight_00	19.6kg
+P120_Weight_00	1.0kg
 P121_Weight_00	80.0kg
+P122_Weight_00	235.0kg
 P123_Weight_00	4.0kg
 P124_Weight_00	35.6kg
+P125_Weight_00	3.0kg
+P126_Weight_00	125.8kg
 P127_Weight_00	202.0kg
+P128_Weight_00	80.0kg
 P129_Weight_00	15.0kg
+P130_Weight_00	100.0kg
 P131_Weight_00	81.9kg
 P132_Weight_00	9.5kg
+P133_Weight_00	42.5kg
+P134_Weight_00	9.9kg
+P135_Weight_00	8.5kg
+P136_Weight_00	200.5kg
+P137_Weight_00	200.0kg
 P138_Weight_00	21.0kg
+P139_Weight_00	9.2kg
+P140_Weight_00	22.2kg
 P141_Weight_00	40.0kg
 P141_Weight_01	0.3kg
+P142_Weight_00	44.5kg
 P143_Weight_00	3.5kg
 P144_Weight_00	55.0kg
 P145_Weight_00	9.9kg
@@ -4443,6 +4884,7 @@ ProfileIcon045_Name	トオル：きほん
 ProfileIcon046_Name	トオル：えがお
 ProfileIcon047_Name	トオル：ハート
 ProfileIcon048_Name	トオル：おどろき
+ProfileIcon049_Name	キャプテン・ビクトル
 ProfileIcon050_Name	タイプ：ノーマル
 ProfileIcon051_Name	タイプ：ほのお
 ProfileIcon052_Name	タイプ：みず
@@ -4461,9 +4903,12 @@ ProfileIcon064_Name	タイプ：ドラゴン
 ProfileIcon065_Name	タイプ：あく
 ProfileIcon066_Name	タイプ：はがね
 ProfileIcon067_Name	タイプ：フェアリー
+ProfileIcon068_Name	ひるのはなばたけ
+ProfileIcon069_Name	よるのはなばたけ
 ProfileIcon070_Name	みずうみ
 ProfileIcon071_Name	やま
 ProfileIcon072_Name	ジャングル
+ProfileIcon073_Name	リバー
 ProfileIcon074_Name	きりのもり
 ProfileIcon075_Name	はるのはな
 ProfileIcon076_Name	なつのちくりん
@@ -4476,6 +4921,7 @@ ProfileIcon082_Name	かいちゅう
 ProfileIcon083_Name	さばく
 ProfileIcon084_Name	オアシス
 ProfileIcon085_Name	ながれぼし
+ProfileIcon086_Name	こうや
 ProfileIcon087_Name	かざん
 ProfileIcon088_Name	こおりのどうくつ
 ProfileIcon089_Name	オーロラ
@@ -4584,6 +5030,7 @@ Reward020_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{colo
 Reward021_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}あきのきせつ{color[ffff]}を\nはっけんした
 Reward022_Reward_Info	{color[0000]}トキシキのもり{color[ffff]}で　{color[0000]}ふゆのきせつ{color[ffff]}を\nはっけんした
 Reward023_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\nちょうさレベルが　{color[0000]}MAX{color[ffff]}になった
+Reward101_Reward_Info	アップデートの　おしらせを\nかくにんした
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	おーい！\nこっちこっち！
 SD_01_01_cs_002	やぁ
@@ -5323,6 +5770,11 @@ VC_005_1A_e01_001	よくみつけたな。\nぬまのポケモンに　ちかづ
 VC_005_1A_e02_001	わー　たきのうらがわに　いけるみたいだよ。\nどうみえるのかな？
 VC_005_1B_s00_001	かなりのくらさだね。\nポケモンをみつけるのも　たいへんそうだ。
 VC_005_1B_s00_002	ひかったじょうたいの　{color[0000]}クリスタフラワー{color[ffff]}を\nさがしてみてくれ。
+VC_005_2A_s00_001	これは　かわの　しりゅうだね。
+VC_005_2A_s00_002	このまますすんで　ほんりゅうにでよう。
+VC_005_2A_e01_001	お　しんルートはっけんだね。\nここは･･････　いわが　うっすらひかってるのか？
+VC_005_2B_s00_001	このくらいの　あかるさがあれば\nじゅうぶん　さつえいできるかな。
+VC_005_2B_s00_002	よくみると　ポケモンたちが\nたくさん　いるはずだよ。
 VC_006_1A_s00_001	きりが　ずいぶん　ふかいようだね。
 VC_006_1A_s00_002	つうしんも　すこし　ふあんていかな。\nしんちょうにいこう。
 VC_006_1A_e00_001	これって　はるにさく　はなだよね？\nきゅうに　はるになっちゃったの？？
@@ -5364,6 +5816,11 @@ VC_007_1A_s00_002	ポケモンたちの　くらしも\nかなり　ちがって
 VC_007_1A_e01_001	あれ？　ここにいたポケモン　どこいった？\nいまのうちに　おくにいってみようぜ！
 VC_007_1B_s00_001	ほしが　すごくきれいだ。
 VC_007_1B_s00_002	ひるとちがって　よるは\nくうきが　すんでいるみたいだね。
+VC_007_2A_s00_001	さばくとは　がらっと\nかんきょうが　かわったね。
+VC_007_2A_s00_002	さっそく　はじめてみる\nポケモンが　いるみたいだよ。
+VC_007_2A_e00_001	だいじょうぶ？？\nいま　ネオワンごうが　とびあがらなかった？？
+VC_007_2B_s00_001	ひるは　あついから　よるのほうが\nポケモンたちも　すごしやすそうだね。
+VC_007_2B_s00_002	くつろいだようすが　みれるんじゃないかな？
 VC_008_1A_s00_001	かなりの　あつさだね。\nそれは･･････　おんせんかな。
 VC_008_1A_s00_002	かざんは　すこしさきに\nみえてくるはずだよ。
 VC_008_1A_e00_001	そのおくに　ふしぎなはんのうがあるって\nはかせが　いってるぞ。
@@ -5415,6 +5872,17 @@ VC_011_3A_e00_002	{color[0000]}イルミナじょうたい{color[ffff]}の　ゼ
 VC_011_3A_e01_001	そのオーラに　イルミナオーブをあてると\nどうなるかな？
 VC_011_3A_e01_002	イルミナオーブなら　ゼルネアスに\nエネルギーを　あたえられるかもしれない･･････。
 VC_011_3A_e01_003	ひかるもようが　でたら\nそのようすの　さつえいをたのむよ！
+VC_001_2A_e00_001	お　そこだ！
+VC_001_2A_e00_002	そのさきに　いけるって\nモニターにも　でてる！
+VC_001_2A_e00_003	ポケモンたちの　ひみつのせかいへ\nしゅっぱつだ！
+VC_001_2A_s00_001	すっげー　ホントにちいさくなった。
+VC_001_2A_s00_002	みはっとくから　たのしんでこいよな！
+VC_001_2A_e01_001	テストきのうでは　ここまでらしーぜ。
+VC_001_2A_e01_002	ここをぬけたら　じどうで\nもとのおおきさに　もどるみたい。
+VC_001_2A_e01_003	もどったら　はなし　きかせろよ！
+VC_001_2A_e02_001	こんなところに　はいっていくのかよ！\nどこに　つながっているんだ？
+VC_001_2B_s00_001	お　よるでも　そのきのうを\nつかってみたんだね。
+VC_001_2B_s00_002	あいつ　なかなか　おもしろい\nはつめいしたなぁ･･････。
 VC_Com_StartChange_001	あれ？\nすこしふんいきが　かわったかな？
 VC_Com_StartChange_002	これは･･････\nあたらしいはっけんが　ありそうだ。
 VC_Com_StartChange_003	まえに　ちょうさしたときと\nちょっと　ちがうきがするね。
@@ -5488,6 +5956,7 @@ VC_Com_Praise2_006	うわっ　くぅー！　いいトコ　とったな！
 VC_Com_SearchAnalysis_001	これは　ひで　やいたんじゃないよ。\nどのポケモンか　わかるかな？
 VC_Com_SearchAnalysis_002	これって　ねいき？
 VC_Com_SearchAnalysis_003	これは　こだいいせきの　1つだね。
+VC_Com_SearchAnalysis_004	どっかから　あっちにいけるのか？
 VC_Com_SearchAnalysis_006	これ　すきなポケモン　いそうだよね。
 VC_Com_SearchAnalysis_007	うーん　ウットリする　うたごえだねぇ。
 VC_Com_SearchAnalysis_008	すっげー！　これやったの\nどのポケモンだろ？
@@ -5497,10 +5966,14 @@ VC_Com_SearchAnalysis_011	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_012	あっち　いきたいのにー！\nこれ　こわせるポケモン　いないのか？
 VC_Com_SearchAnalysis_013	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_014	レパルダスが　とおしてくれればな～。
+VC_Com_SearchAnalysis_015	おお～！　どんなポケモンなんだろな！
+VC_Com_SearchAnalysis_016	なんか　オレンジいろのもの　みえたよね？
 VC_Com_SearchAnalysis_017	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_018	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_019	よーし！　さがそうぜ！
 VC_Com_SearchAnalysis_020	ん？　なかに　なにかいそうだね。
+VC_Com_SearchAnalysis_022	さいきんできたもの･･････　のようだね。
+VC_Com_SearchAnalysis_023	これ　ぜんぶ　とおったあと　なのかよー！？
 VC_Com_SearchAnalysis_024	ここにいるプテラは　もしかして･･････
 VC_Com_SearchAnalysis_025	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_026	これは　こだいいせきの　1つだね。
@@ -5513,6 +5986,10 @@ VC_Com_SearchAnalysis_035	これは　こだいいせきの　1つだね。
 VC_Com_SearchAnalysis_036	すべてのしまの　エネルギーが\nあつまっている　ということか･･････
 VC_Com_SearchAnalysis_037	さっきあった　かくしまのクリスタフラワーと\nせきぞうが　かんけいしているのかな？
 VC_Com_SearchAnalysis_038	まんなかは　ゼルネアスだったんだね･･････
+VC_Com_PhotoLimit_011	のこりまいすう　きをつけてね！
+VC_Com_SoonEnd_011	そろそろ　ちょうさしゅうりょうみたい。
+VC_Com_PhotoLimitZero01_011	のこりまいすう　なくなっちゃったね。\nでも　はじめてだし　さいごまで　みよっか！
+VC_Com_SearchAnalysis_101	さすがに　ふわりんごでは\nビクともしないかな？
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	やぁ　よくきたね。
 SD_01_02_sk_015	{color[0000]}レンティル ポケモンしぜんかがくけんきゅうじょ{color[ffff]}へ\nようこそ！
@@ -6045,6 +6522,61 @@ CI_101_0A_01_009	へー　わたしも\nあとから　やってみよーっと�
 CI_101_0A_01_010	あ　ベースキャンプでのさつえいは\n{color[0000]}ひだりうえのアイコン{color[ffff]}を　えらぶんだよ。
 CI_101_0A_01_011	みぢかなできごとに　きづくことも\nカメラマンには　だいじなことなんだ。
 CI_101_0A_01_012	ま　いまはおもいのまま　たくさんとる\nをつづけていけば　だいじょうぶ！
+CI_001_2A_00_001	ちょっといいか？
+CI_001_2A_00_002	ないしょのはなし　だぞ。
+CI_001_2A_00_003	じつは　ネオワンごうに　おもしろいきのうが\nテストで　はいってるんだって。
+CI_001_2A_00_004	なんと　オレらが　ネオワンごうごと\nめっちゃ　{color[0000]}ちいさくなるきのう{color[ffff]}　らしいぞ。
+CI_001_2A_00_005	こっそり　つかってみようぜ？
+CI_001_2A_00_006	なーに　やってるの？？
+CI_001_2A_00_007	なんでもねーよ。
+CI_001_2A_00_008	ふーん\nはかせー！
+CI_001_2A_00_009	おい！　やめろよ！
+CI_001_2A_00_010	わかったよ。\nあとで　せつめいするよ。
+CI_001_2A_00_011	にー。
+CI_001_2A_00_012	{color[0000]}しぜんこうえん{color[ffff]}の　とあるばしょで　{color[0000]}サーチ{color[ffff]}すると\nじどうで　はつどうするんだって。
+CI_001_2A_00_013	いっしょに　そのばしょを　さがしてみよーぜ。
+CI_001_2A_01_001	キミたち～！
+CI_001_2A_01_002	かってに　テストきのうを　つかうなんて！
+CI_001_2A_01_003	げ　もうばれた･･････
+CI_001_2A_01_004	ご　ごめんなさい。
+CI_001_2A_01_005	はかせ　ごめんなさい。
+CI_001_2A_01_006	まあ　いいじゃないか。\nおもしろいこうけいも　みれたわけだし。
+CI_001_2A_01_007	トオル　しってたのか？
+CI_001_2A_01_008	ははは･･････\nゴメン。
+CI_001_2A_01_009	ふぅ･･････
+CI_001_2A_01_010	ホントにまだ　テストきのうなんだ。
+CI_001_2A_01_011	{color[0000]}しぜんこうえん{color[ffff]}だけだよ。\nほかでは　つかえないからね。
+CI_001_2A_01_012	わかったー。
+CI_001_2A_01_013	はーい。
+UD_01_01_sk_001	はかせ！\nうれしそうだけど　なにか　あったの？
+UD_01_01_sk_002	お　キミたち！\nちょうど　いいところに。
+UD_01_01_sk_003	じつはね\nデータを　あらためて　ぶんせきしたけっか
+UD_01_01_sk_004	あたらしい　てんそうスポットを　みつけたんだ。
+UD_01_01_sk_005	ひとつは　{color[0000]}ベラスとう{color[ffff]}の　ジャングルのちかく\nもうひとつは　{color[0000]}ボルクとう{color[ffff]}の　さばくのおくにね。
+UD_01_01_sk_006	やった！　でも　そのしまって\nひととおり　ちょうさしたんじゃなかったっけ？
+UD_01_01_sk_007	けんきゅうや　ちょうさには\nひび　あたらしいはっけんが　あるものなんだよ。
+UD_01_01_sk_008	おなじ　しまだから　せいたいけいは\nにていると　おもうけど･･････。
+UD_01_01_sk_009	ま　それを　しらべるのが\nわたしたち　なんだよね！
+UD_01_01_sk_010	うん　たのんだよ！
+UD_01_01_sk_011	ぼくにとっては　ちょっと　なつかしいところかも\nって　きいてるよ。
+UD_01_01_sk_012	なかなか　おもしろい　ちょうさになりそうだね。
+UD_01_01_sk_013	よーし！\nまた　いっぱい　しゃしん　とるぞー！
+UD_01_02_sk_001	かわくだりは　どうだった？\nちょっとした　ぼうけんだよね。
+UD_01_02_sk_002	みていて　むかしを　おもいだしたよ。
+UD_01_02_sk_003	ネオワンごうが　きゅうに　おちたときは\nマジ　びっくりしたけどな！
+UD_01_02_sk_004	つぎは　{color[0000]}よるのかわくだり{color[ffff]}に　いってみようか？
+UD_01_02_sk_005	もちろん\nはかせの　きょかは　とってあるよ！
+UD_01_02_sk_006	あのたきを　くらいなか　おちるのか･･････
+UD_01_02_sk_007	こ　こわくなんかないぞ！
+UD_01_03_sk_001	こうやには　みどりいろのガスに　つつまれた\nぬまちが　あったでしょ？
+UD_01_03_sk_002	あれって　ゆうどくなガスなんだって。\nねえ？　はかせ！
+UD_01_03_sk_003	そうだね。
+UD_01_03_sk_004	ネオワンごうのなかは　あんぜんだけど\nかなりの　もうどくみたいだよ。
+UD_01_03_sk_005	そんなばしょを　このんで　くらしている\nポケモンが　いるのも　おもしろいよね。
+UD_01_03_sk_006	では･･････
+UD_01_03_sk_007	よるに　いっても　いいんだよね！
+UD_01_03_sk_008	ああ　しっかり　ちょうさしてくるんだよ。
+UD_01_03_sk_009	はーい！\nじゃあさっそく　いってみよう！
 Search_Info.msbt
 Search_Flower01_001	フロレオとうの\nクリスタフラワー。\nあおく　ひかっている。
 Search_Flower01_002	フロレオとうの\nクリスタフラワー。
@@ -6062,9 +6594,16 @@ Search_001_1_A_001	やかれた　かじつが\nおちている。　ポケモ�
 Search_001_1_A_002	レンティルちほうで\nとれる　かじつ。\nモジャンボの　だいこうぶつ。
 Search_001_1_A_003	いつも　いっぽんあしで\nたっている　ホーホーの\nいがいな　ねかただ。
 Search_001_1_AB_001	ビッパのすが\nかんせいしたようだ。
+Search_001_1_AB_003	きのねもとにある\nあなは　どこかに\nつながっているようだ。
 Search_001_1_B_001	ふしぜんに　もりあがった\nじめんから　なにかが\nきこえてくる。
 Search_001_1_B_003	はなばたけのなかで\nなにかが　うごいている。
 Search_001_1_C_002	かくちで　はっけんされている\nたいこの　いせきのカケラ。\nれきしをしる　てがかりだ。
+Search_001_2_A_001	おおきな　ねいきが\nきこえてくる。\nおくに　すすめそうだ。
+Search_001_2_A_002	とりポケモンのす。\nたべものを　さがしに\nでかけているのだろうか。
+Search_001_2_AB_001	おおきな　ねいきが\nきこえてくる。
+Search_001_2_B_001	さまざまな　ねいきが\nきこえてくる。
+Search_001_2_B_002	じめんから　なにかが\nはえている。\nこのおとは　ねいきだろうか。
+Search_001_2_B_003	すのなかに　\nなにか　ありそうだ。\nたべものだろうか。
 Search_003_1_A_001	くさむらに　なにか\nかくれているようだ。
 Search_003_1_A_002	すなのなかに　なにかが\nうまっているようだ。
 Search_003_1_A_003	あかい　スコップだ。\nながされてきたのだろうか？
@@ -6092,6 +6631,11 @@ Search_005_1_AB_005	たきの　うらがわも\nとおれそうだ。
 Search_005_1_AB_006	たきの　うらがわへ\nすすめそうだ。
 Search_005_1_B_001	からっぽのすだ。\nちかくに　ポケモンが\nいるかもしれない。
 Search_005_1_B_002	ふしぎな　けはいがする。\nなにかが　いるようだ。
+Search_005_2_A_002	かべにあいた　あなから\nみずが　ながれでている。
+Search_005_2_AB_001	リングマの　ツメあと。\nナワバリのしるしだ。
+Search_005_2_AB_002	きょだいなポケモンが\nたきを　のぼった\nあとがある。
+Search_005_2_B_001	くさのカーテンの　おくに\nどうくつが　あるようだ。
+Search_005_2_B_002	たきの　うらがわに\nなにか　ありそうだ。
 Search_006_1_A_001	なにかのちからによって\nいわが　くうちゅうに\nうかんでいる。
 Search_006_1_A_002	オーロットの　けいかいしんが\nうすまったようだ。\nいまなら　おくへいけそうだ。
 Search_006_1_A_003	ケンホロウのす。\nだいじそうに\nすを　まもっている。
@@ -6109,6 +6653,12 @@ Search_007_1_A_006	スナヘビは\nまだ　ちかくにいそうだ。
 Search_007_1_AB_002	ふうかしてできた\nあなが　ポケモンの\nすになっている。
 Search_007_1_B_002	すなのなかに\nなにかが　うまっている。
 Search_007_1_B_004	すなあらしで　むこうがわの\nようすは　わからない。
+Search_007_2_A_001	みずが　わいている。\nもう1つの　かんけつせんと\nつながっているようだ。
+Search_007_2_A_002	おおきなクレーターだ。\nなにが　おちて\nできたのだろか。
+Search_007_2_B_001	ビビヨンの　りんぷんで\nたにが　かがやいている。
+Search_007_2_AB_001	ちいさな　あなに\nポケモンが　くらしている\nあとがある。
+Search_007_2_AB_002	いわかべにある　あなは\nイワークが\nとおったあとだ。
+Search_007_2_B_002	ガスがふきだす　あな。\nまわりには　どくどくしい\nえきたいが　ついている。
 Search_008_1_A_001	たのしげな　ハミングが\nきこえてくる。
 Search_008_1_A_002	かべに　おおきなコハクが\nうまっている。
 Search_008_1_A_003	かべが　くずれている。\nこのさきには\nすすめなさそうだ。
@@ -6149,6 +6699,11 @@ Search_101_1_A_006	くさむらのなかに\nなにか　いるようだ。
 Search_101_1_A_008	けんきゅうしつの　2かいは\nはかせの　せいかつ\nスペースになっている。
 Search_101_1_A_011	ねいきが　きこえる。\nゆかのしたに\nなにかいるようだ。
 Search_Tu_001	ネオワンごう。\nポケモンちょうさには\nかかせない　のりものだ。
+Search_007_2_AB_003	どくぬまの　せいぶんが\nながい　ねんげつをかけて\nけっしょうか　したようだ。
+Search_007_2_AB_004	きょだいな　いわから\nもうどくのガスと　えきたいが\nもれでている。
+Search_007_2_A_005	あまい　かおりがする。\nこのあたりの　すなから\nただよってきているようだ。
+Search_007_2_AB_005	ふあんていな　いわ。\nつよいちからが　くわわったら\nころがり　おちてきそうだ。
+Search_007_2_AB_006	とりポケモンのす。\nさまざまな　そざいで\nつくられているようだ。
 Stickers_Info.msbt
 Stickers001_Reward_Info	{color[0000]}フロレオとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
 Stickers002_Reward_Info	{color[0000]}ベラスとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
@@ -6157,12 +6712,6 @@ Stickers004_Reward_Info	{color[0000]}ボルクとう{color[ffff]}の　ポケモ
 Stickers005_Reward_Info	{color[0000]}デュラスとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
 Stickers006_Reward_Info	{color[0000]}アウラムとう{color[ffff]}の　ポケモンをすべて\nフォトずかんに　とうろくした
 Stickers_Name.msbt
-Stickers001_Name	ちょうさステッカー
-Stickers002_Name	ちょうさステッカー
-Stickers003_Name	ちょうさステッカー
-Stickers004_Name	ちょうさステッカー
-Stickers005_Name	ちょうさステッカー
-Stickers006_Name	ちょうさステッカー
 TipsComNavi_Lines.msbt
 NH_Chat_001	ちょうさしにいくのかい？\nキミのしゃしん　たのしみにしているね。
 NH_Chat_002	いらっしゃい。\nデータなら　じゆうにみていいよ。
@@ -6270,12 +6819,18 @@ NH_Tips_021	ここ　{color[0000]}アウラムとう{color[ffff]}は　なぞの
 NH_Tips_022	しめいをもって　いせきをまもりつづける　ポケモンかぁ･･････\nぼくは　あまりとってこなかった　だいざいだけど　ロマンをかんじるね。
 NH_Tips_023	{color[0000]}フロレオしぜんこうえん{color[ffff]}は　たいけんかいでも　よくいくので\nひとなつっこいポケモンが　おおいんだよ。
 NH_Tips_024	{color[0000]}しぜんこうえん{color[ffff]}といえば　ビッパだね！\nあのマイペースなかんじが　たまらないよね。
+NH_Tips_025	ここからはじめると　さいしょから　ネオワンごうが\nちいさくなってるけど　びっくりしないでね。
+NH_Tips_026	やっぱ　ちいさくなるって　すっげーよな！\nまたいこーぜ！　いいだろ？
 NH_Tips_027	{color[0000]}ミッケジャングル{color[ffff]}は　きがおいしげっているから\nポケモンが　かくれないよう　うまくとってね。
 NH_Tips_028	きのところを　よ～くみて･･････　いた！\nってなると　ちょっとたのしいよね！
+NH_Tips_029	{color[0000]}ヨーヨーリバー{color[ffff]}は　まわりのいわばを　さがしがちだけど\nみずのなかも　ちゅういしてみてね。
+NH_Tips_030	かわをくだりながらの　さつえいは　たいへんだよね。\nどこをみるか　きめてからいくと　とりやすいよ。
 NH_Tips_031	{color[0000]}トキシキのもり{color[ffff]}は　ちょっとしたきっかけで\nべつのばしょに　まよいこむようだね･･････。
 NH_Tips_032	オレ　あんまり　ここのちょうさ　いってないけど\nこわいから　じゃないからな！
 NH_Tips_033	{color[0000]}ネッサさばく{color[ffff]}のような　かこくなかんきょうでも\nくらせるなんて　ポケモンって　すごいよね。
 NH_Tips_034	{color[0000]}さばく{color[ffff]}はあついから　きをつけてね！\nって　ネオワンごうにのってたら　かんけいないか～。
+NH_Tips_035	{color[0000]}カラリこうや{color[ffff]}をかこむ　いわかべは\nポケモンたちのすみかにも　なっているんだよ。
+NH_Tips_036	このあたりの　ちけいをつくりだしている　げんしょう･･････\nぜひ　そのしゅんかんを　とらえてみたいね。
 NH_Tips_037	{color[0000]}ドローかざん{color[ffff]}のあたりは　おおむかしの　かんきょうが\nそのままに　ちかいかたちで　のこっているみたいなんだ。
 NH_Tips_038	ここ　ちっちゃいのから　でけーのまで\nすげーかずの　かざんが　くっついてるんだってよ！
 NH_Tips_039	{color[0000]}ニジイロビーチ{color[ffff]}は　あたたかいし\nうみかぜも　ここちよくて　いいよね。
@@ -6381,6 +6936,8 @@ NH_Sugg_048	{color[0000]}シューゴいせき{color[ffff]}について　もう
 NH_Sugg_049	{color[0000]}いせき{color[ffff]}で　ひかっているじょうたいの\n{color[0000]}クリスタフラワー{color[ffff]}を　さつえいしてきてね。
 NH_Sugg_050	{color[0000]}アウラムとう{color[ffff]}で　さいごの{color[0000]}イルミナポケモン{color[ffff]}に　あいにいこう！\n{color[0000]}シューゴいせき{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
 NH_Sugg_051	{color[0000]}アウラムとう{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\nひかるもようの　うきでた　{color[0000]}ゼルネアス{color[ffff]}を　さつえいしてきてくれ！
+NH_Sugg_101	{color[0000]}ひるのしぜんこうえん{color[ffff]}に　いって\nネオワンごうの　テストきのうを　ためそうぜ！
+NH_Sugg_102	ネオワンごうの　テストきのうを　ためせるのは\nたしか　{color[0000]}ひるのしぜんこうえん{color[ffff]}だったかな？
 TipsLoading_Head.msbt
 LT_Tips_001_Head	じんぶつしょうかい：カガミはかせ
 LT_Tips_002_Head	じんぶつしょうかい：リタ
@@ -7175,6 +7732,69 @@ Mis_Stage101_171_01_Info2	うんうん　バッチリだよ！\nはかせ　こ�
 Mis_Stage101_174_01_Head	ほっぺにてをあてて
 Mis_Stage101_174_01_Info1	あのね！　アブリーが\nかわいい　ポーズしてたの！\nでも　ちいさいから\nとるの　むずかしくて･･････。
 Mis_Stage101_174_01_Info2	ありがと～！\nね？　すっごく\nかわいかったでしょ？
+Mis_Stage012_073_01_Head	カビゴンダッシュ
+Mis_Stage012_073_01_Info1	カビゴンは　のんびりしている\nって　イメージだよね。\nでも　じつは　はしると\nちょっと　すごいんだよ。
+Mis_Stage012_073_01_Info2	お！　キミなら　とれるって\nしんじていたよ。\nふだんとの　ギャップが　おおきくて\nおもわず　びっくりしちゃうよね。
+Mis_Stage012_084_01_Head	ダンシングトリオ
+Mis_Stage012_084_01_Info1	3びきで　おどってた！　って\nフィルが　いってたんだけど\n1ぴきで　おどってるところしか\nみたことないんだよねぇ。
+Mis_Stage012_084_01_Info2	ほんとに　3びきで　おどってる～！\nやっぱり　みんなで\nおどったほうが　たのしそうだね！
+Mis_Stage012_096_01_Head	みんなでパラシュート
+Mis_Stage012_096_01_Info1	タマゲタケたちが　ふわふわと\nくうちゅうを　おりていくようすは\nさつえいしがいがあると　おもうよ。\nぜひ　ちょうせんしてみてね。
+Mis_Stage012_096_01_Info2	おっ！　いいねぇ！\nなんだか　パラシュートみたいで\nちょっと　たのしそうだよね。
+Mis_Stage013_051_01_Head	とびこみスポット
+Mis_Stage013_051_01_Info1	きゅうに　ネオワンごうの　ルートが\nズレた！　って　フィルが。\nおおきなおとも　していたようだし\nなにかが　おちてきた　とかかな？
+Mis_Stage013_051_01_Info2	オーダイルだったのかぁ！\nこれは　さすがに\nネオワンごうも　よけちゃうよね。\nにしても　いいしゃしんだなぁ。
+Mis_Stage013_119_01_Head	ちょうのうりょく？
+Mis_Stage013_119_01_Info1	きいて　おどろけ！\nコイキングが　ういてたんだ。\nはねる　じゃないぞ！\n･･････　なんでだろな？
+Mis_Stage013_119_01_Info2	コダックが　ねんりきで\nたすけてあげてたって？\nへぇー　コダック　いいヤツじゃん！
+Mis_Stage013_122_01_Head	みずにひそむもの
+Mis_Stage013_122_01_Info1	いわのところが　けずれてるよね。\nこれは　そうとう　おおきなポケモンの\nしわざだと　おもうんだ。\nしらべてみて　くれるかな？
+Mis_Stage013_122_01_Info2	ありがとう！\nちけいを　かえるほどの\nパワーを　ひめているとは\nやはり　ポケモンは　すごいよ！
+Mis_Stage013_125_01_Head	ピィのとっくん
+Mis_Stage013_125_01_Info1	うーん　なにかの　れんしゅうを\nしてるけど　うまくいかないみたい。\nせいこうするまで　キミも\nおうえんしてあげてね！
+Mis_Stage013_125_01_Info2	やった！　せいこうしたんだね！\nキミが　おうえんした　おかげかな？
+Mis_Stage013_126_01_Head	リングマのゆうし？
+Mis_Stage013_126_01_Info1	これ　リングマが\nコイキングを　ねらってるんだぜ！\nすげーしゅんかん　とれそうだろ？\nうでが　なるぜ！
+Mis_Stage013_126_01_Info2	んんん？　これって･･････\nコイキングが　リングマに\nひとあわ　ふかせたのかよ！\nマジか～！？
+Mis_Stage013_130_01_Head	あたまのうえのともだち
+Mis_Stage013_130_01_Info1	そらをとんでたとき　たぶん\nちいさいポケモンを　のせてたの。\nぜったい　なかのいいポケモンを\nのせてたと　おもうんだよねぇ。
+Mis_Stage013_130_01_Info2	わあ　ありがとう！\nトロピウスも　ウパーも\nとっても　たのしそうだね！
+Mis_Stage013_135_01_Head	スクリューモグリュー
+Mis_Stage013_135_01_Info1	モグリューは　ものすごいスピードで\nちちゅうを　ほりすすむんだ。\nかべから　とびだした　しゅんかんなら\nさつえいできるかもしれないよ。
+Mis_Stage013_135_01_Info2	おっ　さっすがぁ！\nこうみると　まるで\nそらをとんでいるようだね。
+Mis_Stage015_034_01_Head	ビビヨンのたに
+Mis_Stage015_034_01_Info1	ボルクとうには　いないはずの\nもようの　ビビヨンの　りんぷんが\nここで　みつかったんだ。\nしらべてみて　もらえるかな？
+Mis_Stage015_034_01_Info2	やはり　ビビヨンたちは　このたにの\nエネルギーに　ひかれて\nうみをわたって　きているようだね。\nこれは　おもしろいはっけんだよ！
+Mis_Stage015_118_01_Head	あそびたいきぶん
+Mis_Stage015_118_01_Info1	ふわりんご　たべてくれないの。\nおなか　すいてないのかなぁ。\nでも　もうちょっとだけ\nなげてみようかな！
+Mis_Stage015_118_01_Info2	わっ　ディグダたち\nすっごく　たのしそう！\nあそびたいきぶん　だったんだね。
+Mis_Stage015_120_01_Head	ばいばいドガース
+Mis_Stage015_120_01_Info1	こーーーんな　でかい　ドガース\nみたことあるか？\nびっくりして　カメラ\nおとしてなければ　みせられたのに！
+Mis_Stage015_120_01_Info2	そう！　これ！　って\nオレが　みたときより　でかい！\nばくはつしそうで　ドキドキするな！
+Mis_Stage015_128_01_Head	ドガースイン？？？
+Mis_Stage015_128_01_Info1	おおきな　おとがしたと　おもったら\nものすごい　いきおいで\nドガースが　とんでいったの。\nなにが　あったのかな？
+Mis_Stage015_128_01_Info2	えええ！？　マルノームが\nドガースを　たべちゃってる！？\n･･････あ　わたしが　みたのは\nはきだしたところ　だったんだぁ。
+Mis_Stage015_133_01_Head	ねぼすけグライオン
+Mis_Stage015_133_01_Info1	グライオンが　あくびしてたんだ！\nひるま　いないから　そんとき\nねてると　おもってたけど\nまだ　ねむいのかな？
+Mis_Stage015_133_01_Info2	なんだ　ビビヨンのせいで\nねむたくなっちゃっただけかぁ。\nねぼすけ　じゃなかったな！
+Mis_Stage015_134_01_Head	ゆうきをだして
+Mis_Stage015_134_01_Info1	これ　あぶないよ～！\nって　おもったけど　きっと\nポカブなら　とべると　おもうの。\nキミも　おうえんしてあげてね！
+Mis_Stage015_134_01_Info2	やったぁ！　とべたんだ！\nジャンプりょくも　すごいんだよって\nはかせが　いってたけど\nほんとだったね！　ありがとう！
+Mis_Stage015_136_01_Head	どくぬまのけっとう
+Mis_Stage015_136_01_Info1	ふっふーん　すげーの　みちゃった！\nあの　ペンドラーの　こうげき！\nあいては　くうちゅうにいる\nってのに　すごかったぜ！
+Mis_Stage015_136_01_Info2	やっぱ　すげー！\nつぎこそは　オレも　とるぞ！\nじゃっ　カラリこうや　いってくる！
+Mis_Stage015_137_01_Head	スレパワイまさかさ
+Mis_Stage015_137_01_Info1	せおっている　いわは\nがんじょうで　とても　おもいんだ。\nひっくりかえったら　きっと\nもどるのが　たいへんだろうね。
+Mis_Stage015_137_01_Info2	すごい　ばめんだ･･････！\nこの　じょうたいからでも　もとに\nもどれるとは　たくましいね。
+Mis_Stage015_139_01_Head	ともだちをまもるために
+Mis_Stage015_139_01_Info1	イワンコは　ちいさいけど\nとても　ゆうかんなんだ。\nピンチのときは　きっと\nみんなを　まもろうとするはずだよ。
+Mis_Stage015_139_01_Info2	お！　いいしゅんかんだ！\nハラハラする　ばめんだけど\nイワンコの　ゆうかんさが\nしっかり　とらえられているよ！
+Mis_Stage015_140_01_Head	みわくのポーズ？
+Mis_Stage015_140_01_Info1	フィルのちょうさを　みていたら\nエンニュートが　ダンスのあと\nこせいてきなポーズを　していたんだ。\nキミも　きにならないかい？
+Mis_Stage015_140_01_Info2	そうそう　これだよ！\nもしかして　みわくのポーズ\nだったりするのかな？
+Mis_Stage015_142_01_Head	こうやのまぼろし
+Mis_Stage015_142_01_Info1	ゼラオラは　みためが　すこし\nかわることが　あるらしいんだ。\nしらべてもらえるかな？
+Mis_Stage015_142_01_Info2	ありがとう！\nかみなりのエネルギーが\nぜんしんを　めぐっているのかな。\nうんうん　すごいよ　これは！
 TipsSns_UI.msbt
 Sns_Head	レンティルチャット
 Sns_MissionAllList_Tx	すべてのリクエスト

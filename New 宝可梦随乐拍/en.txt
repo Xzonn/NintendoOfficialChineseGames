@@ -7,7 +7,6 @@ C003_Professor	Professor Mirror
 C004_FriendBoy	Phil
 C005_FriendGirl	Rita
 C006_Photographer	Todd
-C007_Adventurer	Vince
 Collection_Info.msbt
 Flower001_Info	That’s a Florio Island crystabloom. Our\ninstitute’s logo was designed after this\nflower! We’ve only recently learned\nwhat makes them glow—there’s still\nso much to learn about them.
 Flower002_Info	That’s a Belusylva Island crystabloom.\nThis variety gives off a sweet aroma\nthat’s similar to fluffruit, so Pokémon\nare really enticed by it!
@@ -208,6 +207,12 @@ ComWindow082_Select1	OK
 ComWindow083_Info	Would you like to upload to Your Page online?\n\nThe number of Sweet! medals will be reset.\n{color[0800]}Your total number of Sweet! medals received will\nnot decrease.{color[ffff]}
 ComWindow083_Select1	Yes
 ComWindow083_Select2	No
+ComWindow101_Info	{color[0800]}Update Announcement{color[ffff]}{[0004]}New areas added:\n- Secret Side Path (Day/Night)\n- Mightywide River (Day/Night)\n- Barren Badlands (Day/Night)\n{color[0800]}Prerequisites must be met to unlock new areas.{color[ffff]}{[0004]}Content added:\n- Filters / Stickers / Frames\n- Profile Icons / Research Titles\n{color[0800]}Prerequisites must be met for some content.{color[ffff]}{[0004]}Completion conditions changed:\nThe conditions for completing certain areas of\nthe game have been updated.{[0004]}New Pokémon encounters await you in these\nnewly added areas. We hope you continue to\nenjoy your research of the Lental region!
+ComWindow101_Select1	Next
+ComWindow101_Select2	OK
+ComWindow102_Info	Do you really want to return to camp?\n{color[0800]}You will lose the photos you have taken.{color[ffff]}
+ComWindow102_Select1	Yes
+ComWindow102_Select2	No
 EvaluationPhotoCaption_Info.msbt
 EV_Mot_Unknown_01_PCap	???
 EV_Mot_Unknown_02_PCap	???
@@ -256,6 +261,7 @@ EV_Mot_Sp_P006_01_PCap	High five!
 EV_Mot_Sp_P006_02_PCap	Such style!
 EV_Mot_Sp_P006_04_PCap	Sleeping buddies
 EV_Mot_Sp_P006_05_PCap	Yay!
+EV_Mot_Sp_P006_06_PCap	A belly bed
 EV_Mot_Sp_P007_01_PCap	Aim for the sky
 EV_Mot_Sp_P007_02_PCap	Dramatic entrance!
 EV_Mot_Sp_P007_03_PCap	Intimidation mode
@@ -338,12 +344,15 @@ EV_Mot_Sp_P046_02_PCap	Fascinating...
 EV_Mot_Sp_P047_01_PCap	Nighty night
 EV_Mot_Sp_P047_02_PCap	Four-leaf clover
 EV_Mot_Sp_P048_01_PCap	Nice catch!
-EV_Mot_Sp_P048_02_PCap	Intimidation mode
 EV_Mot_Sp_P048_03_PCap	Turn it down a notch!
 EV_Mot_Sp_P049_01_PCap	Chaaarge!
 EV_Mot_Sp_P049_02_PCap	A mighty jump!
 EV_Mot_Sp_P050_01_PCap	It took a punch!
 EV_Mot_Sp_P050_02_PCap	Soaking up some rays
+EV_Mot_Sp_P051_01_PCap	Relaxing
+EV_Mot_Sp_P051_02_PCap	Rawr!
+EV_Mot_Sp_P051_03_PCap	Dozing off
+EV_Mot_Sp_P051_04_PCap	A mighty jump!
 EV_Mot_Sp_P052_01_PCap	A lively dance
 EV_Mot_Sp_P052_02_PCap	What dance will it be?
 EV_Mot_Sp_P053_01_PCap	Down the hatch!
@@ -377,7 +386,6 @@ EV_Mot_Sp_P063_02_PCap	Anything gonna fall?
 EV_Mot_Sp_P063_03_PCap	Puppetry
 EV_Mot_Sp_P063_04_PCap	Find your own spot!
 EV_Mot_Sp_P064_01_PCap	Go on—eat!
-EV_Mot_Sp_P064_02_PCap	Midnight in the daytime?
 EV_Mot_Sp_P064_03_PCap	Howl!
 EV_Mot_Sp_P064_04_PCap	Intimidation mode
 EV_Mot_Sp_P064_05_PCap	Getting sentimental
@@ -407,13 +415,15 @@ EV_Mot_Sp_P071_05_PCap	Drop and give me 100!
 EV_Mot_Sp_P072_02_PCap	Happy vibes
 EV_Mot_Sp_P072_03_PCap	Looking fresh!
 EV_Mot_Sp_P072_04_PCap	Mmm, crispy!
+EV_Mot_Sp_P073_01_PCap	Sleep snacking
+EV_Mot_Sp_P073_02_PCap	Sleeping buddies
+EV_Mot_Sp_P073_03_PCap	All-out dash!
 EV_Mot_Sp_P075_01_PCap	Happy vibes
 EV_Mot_Sp_P075_02_PCap	Its favorite spot
 EV_Mot_Sp_P076_01_PCap	Nighty night
 EV_Mot_Sp_P076_02_PCap	Nighty night
 EV_Mot_Sp_P076_03_PCap	A lively dance
 EV_Mot_Sp_P076_04_PCap	A rare moment!
-EV_Mot_Sp_P076_05_PCap	Intimidation mode
 EV_Mot_Sp_P076_06_PCap	Full of energy!
 EV_Mot_Sp_P077_01_PCap	Happy vibes
 EV_Mot_Sp_P078_01_PCap	Meddling Murkrow
@@ -430,13 +440,14 @@ EV_Mot_Sp_P082_01_PCap	Special delivery
 EV_Mot_Sp_P083_01_PCap	Blissful vibes
 EV_Mot_Sp_P083_02_PCap	In a scuffle
 EV_Mot_Sp_P083_03_PCap	In a scuffle
+EV_Mot_Sp_P084_01_PCap	A lively dance
+EV_Mot_Sp_P084_02_PCap	A lively dance
 EV_Mot_Sp_P085_01_PCap	Intimidation mode
 EV_Mot_Sp_P085_02_PCap	Whoa!
 EV_Mot_Sp_P086_01_PCap	A lively dance
 EV_Mot_Sp_P086_02_PCap	A lively dance
 EV_Mot_Sp_P086_03_PCap	Don’t tell Vespiquen!
 EV_Mot_Sp_P086_04_PCap	It’s in trouble!
-EV_Mot_Sp_P087_01_PCap	Yay!
 EV_Mot_Sp_P087_02_PCap	Intimidation mode
 EV_Mot_Sp_P087_03_PCap	Just let me sleep!
 EV_Mot_Sp_P088_01_PCap	A pleasant ride!
@@ -458,6 +469,8 @@ EV_Mot_Sp_P094_02_PCap	An elegant swimmer!
 EV_Mot_Sp_P094_03_PCap	Fun vibes
 EV_Mot_Sp_P094_04_PCap	Looking fresh!
 EV_Mot_Sp_P095_02_PCap	Sleeping buddies
+EV_Mot_Sp_P096_01_PCap	One, two, three—jump!
+EV_Mot_Sp_P096_02_PCap	A friendly dance
 EV_Mot_Sp_P097_01_PCap	Which one’s stronger?
 EV_Mot_Sp_P097_02_PCap	Such style!
 EV_Mot_Sp_P098_01_PCap	A graceful jump
@@ -495,36 +508,72 @@ EV_Mot_Sp_P113_03_PCap	Sleeping buddies
 EV_Mot_Sp_P113_04_PCap	A scorching kick
 EV_Mot_Sp_P113_05_PCap	Blue flames!
 EV_Mot_Sp_P113_06_PCap	Yay!
+EV_Mot_Sp_P113_07_PCap	A belly bed
 EV_Mot_Sp_P114_01_PCap	Water Gun!
 EV_Mot_Sp_P114_02_PCap	Too strong!
 EV_Mot_Sp_P115_01_PCap	Yikes!
 EV_Mot_Sp_P115_02_PCap	Happy vibes
 EV_Mot_Sp_P115_03_PCap	Whoa!
 EV_Mot_Sp_P116_02_PCap	Yikes!
-EV_Mot_Sp_P116_03_PCap	Getting along great
 EV_Mot_Sp_P116_04_PCap	Intimidation mode
 EV_Mot_Sp_P117_01_PCap	Happy vibes
 EV_Mot_Sp_P117_02_PCap	It got stopped!
 EV_Mot_Sp_P117_03_PCap	Tag, you’re it!
+EV_Mot_Sp_P118_01_PCap	Nice headbutt!
+EV_Mot_Sp_P118_02_PCap	Dig...trio?
+EV_Mot_Sp_P119_01_PCap	Watch for sudden Psyduck!
+EV_Mot_Sp_P120_01_PCap	Adding gas, adding mass...
+EV_Mot_Sp_P120_02_PCap	Overinflated!
+EV_Mot_Sp_P120_03_PCap	Blown away!
 EV_Mot_Sp_P121_01_PCap	Parental love
 EV_Mot_Sp_P121_02_PCap	Rest right here
 EV_Mot_Sp_P121_03_PCap	Dear little one
 EV_Mot_Sp_P121_04_PCap	Sneaking out?
+EV_Mot_Sp_P122_01_PCap	Waterfall!
 EV_Mot_Sp_P123_01_PCap	Fascinating...
 EV_Mot_Sp_P123_02_PCap	Hits the spot!
 EV_Mot_Sp_P124_01_PCap	See it sparkle!
 EV_Mot_Sp_P124_02_PCap	Deeelish!
+EV_Mot_Sp_P125_01_PCap	A mysterious dance
+EV_Mot_Sp_P125_02_PCap	Metronome
+EV_Mot_Sp_P125_03_PCap	...But it failed!
+EV_Mot_Sp_P126_01_PCap	Clean hit!
+EV_Mot_Sp_P126_02_PCap	It took a tumble!
+EV_Mot_Sp_P126_03_PCap	Big old forelegs
 EV_Mot_Sp_P127_01_PCap	A tail attack
 EV_Mot_Sp_P127_02_PCap	Intimidation mode
+EV_Mot_Sp_P128_01_PCap	Gulp incoming!
+EV_Mot_Sp_P128_02_PCap	Deeelish!
 EV_Mot_Sp_P129_01_PCap	Watch for sudden Trapinch!
 EV_Mot_Sp_P129_02_PCap	What IS this?
+EV_Mot_Sp_P130_01_PCap	A quick breather
+EV_Mot_Sp_P130_02_PCap	That’s right—it can fly!
+EV_Mot_Sp_P130_03_PCap	Happy vibes
 EV_Mot_Sp_P132_01_PCap	Sleeping buddies
 EV_Mot_Sp_P132_02_PCap	Go away!
 EV_Mot_Sp_P132_03_PCap	All gathered
 EV_Mot_Sp_P132_04_PCap	Time for a stroll
+EV_Mot_Sp_P133_01_PCap	What an acrobat!
+EV_Mot_Sp_P133_02_PCap	Find your own spot!
+EV_Mot_Sp_P134_01_PCap	Achoo!
+EV_Mot_Sp_P134_02_PCap	A safe spot
+EV_Mot_Sp_P135_01_PCap	Tunneling time
+EV_Mot_Sp_P135_02_PCap	Watch for sudden Drilbur!
+EV_Mot_Sp_P135_03_PCap	Fwoosh!
+EV_Mot_Sp_P135_04_PCap	Whoa now!
+EV_Mot_Sp_P136_01_PCap	Find your own spot!
+EV_Mot_Sp_P136_02_PCap	Find your own spot!
+EV_Mot_Sp_P137_01_PCap	Find your own spot!
+EV_Mot_Sp_P137_02_PCap	Upside down!
 EV_Mot_Sp_P138_01_PCap	Dashing on the water!
 EV_Mot_Sp_P138_02_PCap	Charging...
 EV_Mot_Sp_P138_03_PCap	Parabolic Charge!
+EV_Mot_Sp_P139_01_PCap	Just like Lycanroc
+EV_Mot_Sp_P139_02_PCap	Dozing off
+EV_Mot_Sp_P140_01_PCap	Blissful vibes
+EV_Mot_Sp_P140_02_PCap	None too pleased
+EV_Mot_Sp_P140_03_PCap	Getting nice and clean
+EV_Mot_Sp_P140_04_PCap	Getting sentimental
 EV_Mot_Sp_P141_01_PCap	Shooting star
 EV_Mot_Sp_P141_02_PCap	High into the sky
 EV_Mot_Sp_P141_03_PCap	Splendidly spinning
@@ -704,7 +753,6 @@ EV_Mot_Sp_P267_02_PCap	Happy vibes
 EV_Mot_Sp_P268_01_PCap	Getting a refill
 EV_Mot_Sp_P268_02_PCap	In one gulp!
 EV_Mot_Sp_P268_03_PCap	Go away!
-EV_Mot_Sp_P268_04_PCap	Getting nice and clean
 EV_Mot_Sp_P269_01_PCap	A safe spot
 EV_Mot_Sp_P270_01_PCap	Fluttering dance
 EV_Mot_Sp_P271_01_PCap	A lively dance
@@ -740,6 +788,8 @@ EV_Mot_Sp_P111_03_PCap	Chomp incoming!
 EV_Mot_Sp_P111_04_PCap	What a place for a photo...
 EV_Mot_Sp_P018_02_PCap	Happy vibes
 EV_Mot_Sp_P031_02_PCap	Happy vibes
+EV_Mot_Sp_P119_02_PCap	Confusion!
+EV_Mot_Sp_P122_02_PCap	Intimidation mode
 EV_Mot_Sp_P131_02_PCap	Happy vibes
 EV_Mot_Sp_P003_04_PCap	Happy vibes
 EV_Mot_Sp_P004_03_PCap	Happy vibes
@@ -894,6 +944,90 @@ EV_Mot_Mis_Stage003_063_01_PCap	A misplaced punch
 EV_Mot_Mis_Stage003_085_01_PCap	A bit unusual!
 EV_Mot_Mis_Stage005_057_01_PCap	Upside-down naptime?
 EV_Mot_Mis_Stage009_162_01_PCap	Deciphering
+EV_Mot_Sp_P006_10_PCap	Yay!
+EV_Mot_Sp_P007_10_PCap	Where could they be?
+EV_Mot_Sp_P008_10_PCap	String Shot
+EV_Mot_Sp_P015_10_PCap	I can sleep anywhere!
+EV_Mot_Sp_P017_10_PCap	Just vibin’ to the melody
+EV_Mot_Sp_P073_10_PCap	Snorlax woke up!
+EV_Mot_Sp_P073_11_PCap	Fascinating...
+EV_Mot_Sp_P084_10_PCap	Whoops—it’s angry!
+EV_Mot_Sp_P087_10_PCap	All safe now!
+EV_Mot_Sp_P096_10_PCap	Look what I found!
+EV_Mot_Sp_P113_10_PCap	Yay!
+EV_Mot_Sp_P011_10_PCap	Did I wake you up?
+EV_Mot_Sp_P011_11_PCap	Yoo-hoo!
+EV_Mot_Sp_P014_10_PCap	Whoa!
+EV_Mot_Sp_P018_10_PCap	Getting along great
+EV_Mot_Sp_P018_11_PCap	Swimming buddies
+EV_Mot_Sp_P031_10_PCap	Swimming buddies
+EV_Mot_Sp_P051_10_PCap	Intimidation mode
+EV_Mot_Sp_P116_10_PCap	Intimidation mode
+EV_Mot_Sp_P116_11_PCap	Sleeping buddies
+EV_Mot_Sp_P119_10_PCap	Sleeping buddies
+EV_Mot_Sp_P119_11_PCap	Swimming buddies
+EV_Mot_Sp_P122_10_PCap	Watch for sudden Gyarados!
+EV_Mot_Sp_P125_10_PCap	Use Metronome and...
+EV_Mot_Sp_P126_10_PCap	Intimidation mode
+EV_Mot_Sp_P130_10_PCap	Giving Wooper a lift
+EV_Mot_Sp_P131_10_PCap	Nighty night
+EV_Mot_Sp_P131_11_PCap	Dramatic entrance!
+EV_Mot_Sp_P005_10_PCap	Whoa!
+EV_Mot_Sp_P005_11_PCap	Go away!
+EV_Mot_Sp_P005_12_PCap	Getting along great
+EV_Mot_Sp_P005_14_PCap	Sleeping buddies
+EV_Mot_Sp_P005_15_PCap	Hide-and-seek
+EV_Mot_Sp_P034_10_PCap	You are getting sleeeepyyy...
+EV_Mot_Sp_P060_10_PCap	What a prankster!
+EV_Mot_Sp_P064_10_PCap	Stay outta my way!
+EV_Mot_Sp_P064_11_PCap	Whoops—it’s angry!
+EV_Mot_Sp_P064_12_PCap	Together with Rockruff
+EV_Mot_Sp_P117_10_PCap	Things that go bump
+EV_Mot_Sp_P117_11_PCap	Things that go bump
+EV_Mot_Sp_P118_10_PCap	Bursting with anger
+EV_Mot_Sp_P118_11_PCap	Things that go bump
+EV_Mot_Sp_P118_12_PCap	Behind you!
+EV_Mot_Sp_P127_10_PCap	A fierce battle
+EV_Mot_Sp_P128_10_PCap	Look! Look!
+EV_Mot_Sp_P128_11_PCap	Dramatic entrance!
+EV_Mot_Sp_P132_10_PCap	Getting along great
+EV_Mot_Sp_P132_12_PCap	Sleeping buddies
+EV_Mot_Sp_P132_13_PCap	Hide-and-seek
+EV_Mot_Sp_P133_10_PCap	Can’t help but yawn
+EV_Mot_Sp_P133_11_PCap	What a prankster!
+EV_Mot_Sp_P134_10_PCap	A mighty jump!
+EV_Mot_Sp_P134_11_PCap	Go away!
+EV_Mot_Sp_P134_12_PCap	Getting along great
+EV_Mot_Sp_P134_14_PCap	Sleeping buddies
+EV_Mot_Sp_P134_15_PCap	Hide-and-seek
+EV_Mot_Sp_P136_10_PCap	Relaxing
+EV_Mot_Sp_P136_11_PCap	Splash!
+EV_Mot_Sp_P136_12_PCap	Rolling right along
+EV_Mot_Sp_P137_10_PCap	The victor!
+EV_Mot_Sp_P139_10_PCap	Go away!
+EV_Mot_Sp_P139_11_PCap	Getting along great
+EV_Mot_Sp_P139_13_PCap	Sleeping buddies
+EV_Mot_Mis_Stage012_084_01_PCap	A lively dance
+EV_Mot_Mis_Stage012_096_01_PCap	One, two, three—jump!
+EV_Mot_Mis_Stage012_073_01_PCap	All-out dash!
+EV_Mot_Mis_Stage013_051_01_PCap	A mighty jump!
+EV_Mot_Mis_Stage013_130_01_PCap	Giving Wooper a lift
+EV_Mot_Mis_Stage013_119_01_PCap	Confusion!
+EV_Mot_Mis_Stage013_126_01_PCap	Clean hit!
+EV_Mot_Mis_Stage013_135_01_PCap	Fwoosh!
+EV_Mot_Mis_Stage013_125_01_PCap	Use Metronome and...
+EV_Mot_Mis_Stage013_122_01_PCap	Waterfall!
+EV_Mot_Mis_Stage015_118_01_PCap	Nice headbutt!
+EV_Mot_Mis_Stage015_139_01_PCap	Go away!
+EV_Mot_Mis_Stage015_140_01_PCap	Blissful vibes
+EV_Mot_Mis_Stage015_134_01_PCap	A mighty jump!
+EV_Mot_Mis_Stage015_137_01_PCap	Upside down!
+EV_Mot_Mis_Stage015_133_01_PCap	Can’t help but yawn
+EV_Mot_Mis_Stage015_136_01_PCap	Find your own spot!
+EV_Mot_Mis_Stage015_120_01_PCap	Overinflated!
+EV_Mot_Mis_Stage015_128_01_PCap	Look! Look!
+EV_Mot_Mis_Stage015_142_01_PCap	Charging up
+EV_Mot_Sp_P142_11_PCap	Charging up
 Evaluation_Lines.msbt
 EB_Course1st_01	How was your first crack at this course?\nTell me all about the Pokémon you saw!
 EB_Course1st_02	Welcome back! Photos from a brand-new course? I can’t\nwait to see them!
@@ -1032,6 +1166,7 @@ EV_Mot_Sp_P006_01	Looks like it’s giving a high five—or high two, I suppose.
 EV_Mot_Sp_P006_02	That flower’s an excellent look!
 EV_Mot_Sp_P006_04	Looks like a friendly nap!
 EV_Mot_Sp_P006_05	Look how happy it is!
+EV_Mot_Sp_P006_06	It’s having a nice snooze on Snorlax’s belly.
 EV_Mot_Sp_P007_01	Is it...trying to take off?
 EV_Mot_Sp_P007_02	Look at this dramatic entrance!
 EV_Mot_Sp_P007_03	It’s trying to be the more menacing one.
@@ -1130,13 +1265,16 @@ EV_Mot_Sp_P046_02	Seems like you caught its attention.
 EV_Mot_Sp_P047_01	It looks like it’s sound asleep.
 EV_Mot_Sp_P047_02	It looks just like a four-leaf clover!
 EV_Mot_Sp_P048_01	It caught a Magikarp!
-EV_Mot_Sp_P048_02	It’s trying to be the more menacing one.
 EV_Mot_Sp_P048_03	Looks like it’s being bothered.
 EV_Mot_Sp_P049_01	What could it be charging at that boulder for?
 EV_Mot_Sp_P049_02	Is it aiming for Mandibuzz?
 EV_Mot_Sp_P050_01	It must have been mistaken for a seaside tree.
 EV_Mot_Sp_P050_02	It seems to be taking a nap under a tree.
 EV_Mot_Sp_P050_03	Looks like a friendly game of tag.
+EV_Mot_Sp_P051_01	Doesn’t it look relaxed!
+EV_Mot_Sp_P051_02	It looks like it just came bursting out!
+EV_Mot_Sp_P051_03	It looks sleepy.
+EV_Mot_Sp_P051_04	It’s jumping with all its might.
 EV_Mot_Sp_P052_01	It seems to be doing a little dancing.
 EV_Mot_Sp_P052_02	Is it discussing its dance?
 EV_Mot_Sp_P053_01	It’s stealing fruit from Pikipek’s storage!
@@ -1171,7 +1309,6 @@ EV_Mot_Sp_P063_03	Looks like it’s fallen victim to Hypnosis.
 EV_Mot_Sp_P063_04	It must be fighting over territory.
 EV_Mot_Sp_P063_05	Looks like a friendly game of tag.
 EV_Mot_Sp_P064_01	I guess it was feeling too cautious to eat.
-EV_Mot_Sp_P064_02	It’s rare to see it in this form during the day.
 EV_Mot_Sp_P064_03	It’s using Howl to communicate with its friends.
 EV_Mot_Sp_P064_04	It’s trying to be the more menacing one.
 EV_Mot_Sp_P064_05	It looks a bit lonely.
@@ -1201,6 +1338,9 @@ EV_Mot_Sp_P071_05	It’s training its arm muscles.
 EV_Mot_Sp_P072_02	It looks happy and lively!
 EV_Mot_Sp_P072_03	It appears to be grooming itself.
 EV_Mot_Sp_P072_04	It’s roasting a fluffruit.
+EV_Mot_Sp_P073_01	Is it...sleep-eating?!
+EV_Mot_Sp_P073_02	Looks like a friendly nap!
+EV_Mot_Sp_P073_03	A Snorlax running? What a rare sight!
 EV_Mot_Sp_P074_01	Is this an Illumina phenomenon chain reaction?
 EV_Mot_Sp_P074_02	Is it disappointed about something?
 EV_Mot_Sp_P074_03	Hmm, an Illumina phenomenon chain reaction with Comfey?
@@ -1215,7 +1355,6 @@ EV_Mot_Sp_P076_01	It looks like it’s fast asleep.
 EV_Mot_Sp_P076_02	It looks like it’s fast asleep.
 EV_Mot_Sp_P076_03	It seems to be doing a little dancing.
 EV_Mot_Sp_P076_04	Look—you can see both its legs! What a rare sight!
-EV_Mot_Sp_P076_05	It’s trying to be the more menacing one.
 EV_Mot_Sp_P076_06	Looks like it’s overflowing with power.
 EV_Mot_Sp_P077_01	It looks happy.
 EV_Mot_Sp_P078_01	It’s being a bit of a troublemaker.
@@ -1234,6 +1373,8 @@ EV_Mot_Sp_P082_02	It’s going for a dive.
 EV_Mot_Sp_P083_01	It certainly seems to be in a good mood!
 EV_Mot_Sp_P083_02	This battle—it’s like watching fate unfold!
 EV_Mot_Sp_P083_03	This battle—it’s like watching fate unfold!
+EV_Mot_Sp_P084_01	It seems to be doing a little dancing.
+EV_Mot_Sp_P084_02	It seems to be doing a little dancing.
 EV_Mot_Sp_P085_01	It’s trying to appear menacing.
 EV_Mot_Sp_P085_02	It looks surprised.
 EV_Mot_Sp_P085_03	It must be sharpening its tail.
@@ -1241,7 +1382,6 @@ EV_Mot_Sp_P086_01	It seems to be doing a little dancing.
 EV_Mot_Sp_P086_02	It seems to be doing a little dancing.
 EV_Mot_Sp_P086_03	It seems to be having some friendly playtime.
 EV_Mot_Sp_P086_04	Looks like it’s in some trouble!
-EV_Mot_Sp_P087_01	Look how happy they all are!
 EV_Mot_Sp_P087_02	It’s trying to be the more menacing one.
 EV_Mot_Sp_P087_03	What a huge yawn.
 EV_Mot_Sp_P088_01	It’s catching a ride with Drifblim.
@@ -1266,6 +1406,8 @@ EV_Mot_Sp_P094_03	It certainly seems to be in a good mood!
 EV_Mot_Sp_P094_04	It appears to be grooming itself.
 EV_Mot_Sp_P095_02	Looks like a friendly nap!
 EV_Mot_Sp_P095_03	It seems to be having some friendly playtime.
+EV_Mot_Sp_P096_01	That’s some really coordinated jumping.
+EV_Mot_Sp_P096_02	Look at that friendly dancing!
 EV_Mot_Sp_P097_01	Looks like some kind of strength contest.
 EV_Mot_Sp_P097_02	That flower’s an excellent look!
 EV_Mot_Sp_P098_01	What a satisfying-looking jump!
@@ -1321,37 +1463,75 @@ EV_Mot_Sp_P113_03	Looks like a friendly nap!
 EV_Mot_Sp_P113_04	When you see a flaming kick like that, you know it’s Scorbunny!
 EV_Mot_Sp_P113_05	A blue flaming kick! Did the Illumina phenomenon cause that?
 EV_Mot_Sp_P113_06	Look how happy it is!
+EV_Mot_Sp_P113_07	It’s having a friendly snooze on Snorlax’s belly.
 EV_Mot_Sp_P114_01	It looks like it’s watering Venusaur.
 EV_Mot_Sp_P114_02	Perhaps the Water Gun was a bit too strong.
 EV_Mot_Sp_P115_01	It looks frightened.
 EV_Mot_Sp_P115_02	It looks happy.
 EV_Mot_Sp_P115_03	It looks surprised.
 EV_Mot_Sp_P116_02	It looks frightened.
-EV_Mot_Sp_P116_03	It seems to be having some friendly playtime.
 EV_Mot_Sp_P116_04	It’s trying to appear menacing.
 EV_Mot_Sp_P117_01	It looks happy.
 EV_Mot_Sp_P117_02	A magnificent landing!
 EV_Mot_Sp_P117_03	Looks like a friendly game of tag.
+EV_Mot_Sp_P118_01	Aww, it’s playing with a fluffruit.
+EV_Mot_Sp_P118_02	It has three heads? No, never mind. It’s just three Diglett in a row.
+EV_Mot_Sp_P119_01	It looks like it just came bursting out.
+EV_Mot_Sp_P119_02	It’s using Confusion!
+EV_Mot_Sp_P120_01	It’s puffed up more than usual.
+EV_Mot_Sp_P120_02	Whoa! It’s so big, it looks like it’s about to explode!
+EV_Mot_Sp_P120_03	Looks like it just got blown away by Swalot!
 EV_Mot_Sp_P121_01	Looks like it’s feeding time.
 EV_Mot_Sp_P121_02	Looks like it’s helping out.
 EV_Mot_Sp_P121_03	It’s hugging its child.
 EV_Mot_Sp_P121_04	Looks like it got out of its pouch!
+EV_Mot_Sp_P122_01	It’s using Waterfall!
+EV_Mot_Sp_P122_02	Looks like it’s trying to intimidate you!
 EV_Mot_Sp_P123_01	Seems like you caught its attention.
 EV_Mot_Sp_P123_02	It seems to be enjoying its meal.
 EV_Mot_Sp_P124_01	It’s flying around, spreading glowing powder everywhere!
 EV_Mot_Sp_P124_02	It must’ve been hungry for a fluffruit.
+EV_Mot_Sp_P125_01	It’s dancing with the others.
+EV_Mot_Sp_P125_02	It’s using Metronome! I wonder what’s going to happen...
+EV_Mot_Sp_P125_03	Looks like Metronome failed...
+EV_Mot_Sp_P126_01	What a hit!
+EV_Mot_Sp_P126_02	Looks like it took a spill.
+EV_Mot_Sp_P126_03	Looks like it’s attacking with its forelimbs.
 EV_Mot_Sp_P127_01	Looks like it’s attacking with its tail.
 EV_Mot_Sp_P127_02	It’s trying to be the more menacing one.
+EV_Mot_Sp_P128_01	It seems to be going for a big swallow.
+EV_Mot_Sp_P128_02	It’s swallowing all that poison gas in one gulp.
 EV_Mot_Sp_P129_01	It looks like it just came bursting out.
 EV_Mot_Sp_P129_02	It seems to be biting into something.
+EV_Mot_Sp_P130_01	It’s taking a drink of water.
+EV_Mot_Sp_P130_02	It looks so relaxed as it flies.
+EV_Mot_Sp_P130_03	It looks happy.
 EV_Mot_Sp_P131_02	It looks happy.
 EV_Mot_Sp_P132_01	Looks like a friendly nap!
 EV_Mot_Sp_P132_02	It’s trying to protect the others with Discharge.
 EV_Mot_Sp_P132_03	What a nice gathering of volcano Pokémon.
 EV_Mot_Sp_P132_04	Looks like a friendly stroll.
+EV_Mot_Sp_P133_01	It’s doing aerial acrobatics.
+EV_Mot_Sp_P133_02	It must be fighting over territory.
+EV_Mot_Sp_P134_01	Looks like it’s sneezing.
+EV_Mot_Sp_P134_02	Looks like it was rescued by Kangaskhan.
+EV_Mot_Sp_P135_01	Look at how fast it’s digging that hole!
+EV_Mot_Sp_P135_02	It looks like it just came bursting out!
+EV_Mot_Sp_P135_03	It sure popped out suddenly.
+EV_Mot_Sp_P135_04	It seems to have lost its balance.
+EV_Mot_Sp_P136_01	It must be fighting over territory.
+EV_Mot_Sp_P136_02	It must be fighting over territory.
+EV_Mot_Sp_P137_01	It must be fighting over territory.
+EV_Mot_Sp_P137_02	Whoops—looks like it flipped over!
 EV_Mot_Sp_P138_01	It’s running on the water!
 EV_Mot_Sp_P138_02	It appears to be sunbathing.
 EV_Mot_Sp_P138_03	It’s awfully energetic, thanks to Parabolic Charge.
+EV_Mot_Sp_P139_01	I think it’s imitating Lycanroc.
+EV_Mot_Sp_P139_02	It looks sleepy.
+EV_Mot_Sp_P140_01	It certainly seems to be in a good mood!
+EV_Mot_Sp_P140_02	Did something unpleasant happen to it?
+EV_Mot_Sp_P140_03	Looks like it’s taking a sand bath.
+EV_Mot_Sp_P140_04	It looks a bit lonely.
 EV_Mot_Sp_P141_01	It looks just like a shooting star!
 EV_Mot_Sp_P141_02	Ah, this is just as it’s flying high into the sky.
 EV_Mot_Sp_P141_03	Look how beautifully it flies through the sky.
@@ -1563,7 +1743,6 @@ EV_Mot_Sp_P267_02	It looks happy.
 EV_Mot_Sp_P268_01	It seems to be storing up sand.
 EV_Mot_Sp_P268_02	It’s gulping that fluffruit down whole!
 EV_Mot_Sp_P268_03	It’s using Sand Attack to repel!
-EV_Mot_Sp_P268_04	Looks like it’s taking a sand bath.
 EV_Mot_Sp_P269_01	It appears to be sleeping wrapped up in its thread.
 EV_Mot_Sp_P270_01	Look at it dance!
 EV_Mot_Sp_P271_01	It seems to be doing a little dancing.
@@ -1748,6 +1927,8 @@ EA_Scenario1st_07	That means getting photographs of them in every\ncategory—fr
 EA_Scenario1st_08	So in short, fill up that Photodex! Keep that in mind, and\nyou’ll be on the right track.
 EA_Scenario1st_09	So get out there and snap lots of photos—and cherish\nthe encounters with Pokémon you have along the way!
 EB_ScenarioCom_01	We’ve got a lot to discuss... But first, let’s get your\nphotos evaluated.
+EB_ScenarioCourse1st_mini_01	For now, we can just go over your photos.\nBut let’s talk afterward.
+EA_ScenarioCourse1st_mini_01	Once we’re done here, let’s all convene for a talk.
 EA_GetFlower_01	By the way...
 EA_GetFlower_02	Now that we’ve got that crystabloom info, I’ve got\nsomething to report.
 EA_GetFlower_03	I hope you’re excited!
@@ -1857,6 +2038,102 @@ EV_Mot_Mis_Stage003_063_01	Looks like it threw a misjudged punch.
 EV_Mot_Mis_Stage003_085_01	Now this you don’t see every day.
 EV_Mot_Mis_Stage005_057_01	It’s holding on to a branch while it sleeps.
 EV_Mot_Mis_Stage009_162_01	I think it’s reading a message in some claw marks.
+EA_GetSticker1_Ud_01	Congratulations! I think now you really have seen every\nPokémon that lives on Florio Island.
+EA_GetSticker1_Ud_02	You sure made a lot of new discoveries just by carefully\nresearching the Pokémon that are always nearby.
+EA_GetSticker2_Ud_01	Congratulations! I think now you really have seen every\nPokémon that lives on Belusylva Island!
+EA_GetSticker2_Ud_02	Those Pokémon living out there in nature are so wild\nand free—and full of energy!
+EA_GetSticker4_Ud_01	Congratulations! I think now you really have seen every\nPokémon that lives on Voluca Island!
+EA_GetSticker4_Ud_02	Researching the Pokémon that live in such a harsh\nenvironment was a really exciting experience.
+EA_CompAllPokedex_Ud_01	Congratulations! Now you really have completed\nyour Photodex!
+EA_CompAllPokedex_Ud_02	But that doesn’t mean this is the end!
+EA_CompAllPokedex_Ud_03	As long as you keep taking photos, your Photodex can\ncontinue to improve and become even more impressive!
+EA_CompAllPokedex_Ud_04	Keep working on your very own personal Photodex!\nRita, Phil, Todd, and I are all here cheering you on!
+EA_ScenarioCourse1st_mini_02	That sure was an intriguing bit of research.
+EA_ScenarioCourse1st_mini_03	Now then...
+EV_Mot_Sp_P006_10	I think it’s thanking Torterra.
+EV_Mot_Sp_P007_10	I think it’s looking for Pichu and Scorbunny.
+EV_Mot_Sp_P008_10	It sure looks happy as it shoots that string!
+EV_Mot_Sp_P015_10	It must be taking a rest.
+EV_Mot_Sp_P017_10	Looks like it’s enjoying the melody.
+EV_Mot_Sp_P073_10	Oh, it just woke up!
+EV_Mot_Sp_P073_11	Seems like you caught its attention.
+EV_Mot_Sp_P084_10	Uh-oh. I think it’s angry.
+EV_Mot_Sp_P087_10	It seems glad that it could protect Pichu and Scorbunny.
+EV_Mot_Sp_P096_10	Looks like it’s carrying some food.
+EV_Mot_Sp_P113_10	I think it’s thanking Torterra.
+EV_Mot_Sp_P011_10	Oh dear. This is kind of awkward.
+EV_Mot_Sp_P011_11	I think it’s waving at you!
+EV_Mot_Sp_P014_10	It looks surprised.
+EV_Mot_Sp_P018_10	Oh, you caught it playing on top of Tropius.
+EV_Mot_Sp_P018_11	Looks like it’s enjoying a pleasant swim.
+EV_Mot_Sp_P031_10	Looks like it’s enjoying a pleasant swim.
+EV_Mot_Sp_P051_10	It’s trying to be the more menacing one.
+EV_Mot_Sp_P116_10	It’s trying to appear menacing.
+EV_Mot_Sp_P116_11	Looks like a friendly nap!
+EV_Mot_Sp_P119_10	Looks like a friendly nap!
+EV_Mot_Sp_P119_11	Looks like it’s enjoying a pleasant swim.
+EV_Mot_Sp_P122_10	Whoa—it’s coming right this way!
+EV_Mot_Sp_P125_10	Looks like its Metronome was a success!
+EV_Mot_Sp_P126_10	It’s trying to appear menacing.
+EV_Mot_Sp_P130_10	Oh look—it’s flying so happily with Wooper on its back!
+EV_Mot_Sp_P131_10	It seems to feel completely safe here as it sleeps.
+EV_Mot_Sp_P131_11	Look at this dramatic entrance!
+EV_Mot_Sp_P005_10	It looks surprised.
+EV_Mot_Sp_P005_11	It seems to be trying to protect everyone with Flamethrower.
+EV_Mot_Sp_P005_12	It seems to be having some friendly playtime.
+EV_Mot_Sp_P005_14	Looks like a friendly nap!
+EV_Mot_Sp_P005_15	Maybe it’s playing hide-and-seek.
+EV_Mot_Sp_P034_10	Oh, it’s scattering its Sleep Powder!
+EV_Mot_Sp_P060_10	Was it trying to surprise someone?
+EV_Mot_Sp_P064_10	It looks angry!
+EV_Mot_Sp_P064_11	It looks angry!
+EV_Mot_Sp_P064_12	It seems to be teaching Rockruff how to Howl.
+EV_Mot_Sp_P117_10	Looks like it bumped into something.
+EV_Mot_Sp_P117_11	Looks like it bumped into something.
+EV_Mot_Sp_P118_10	It looks angry!
+EV_Mot_Sp_P118_11	Looks like it bumped into something.
+EV_Mot_Sp_P118_12	Looks like it’s being bothered.
+EV_Mot_Sp_P127_10	Oh, it’s stirring up a Sandstorm!
+EV_Mot_Sp_P128_10	Oh dear. It seems to have swallowed Koffing.
+EV_Mot_Sp_P128_11	Look at this dramatic entrance!
+EV_Mot_Sp_P132_10	It seems to be having some friendly playtime.
+EV_Mot_Sp_P132_12	Looks like a friendly nap!
+EV_Mot_Sp_P132_13	Maybe it’s playing hide-and-seek.
+EV_Mot_Sp_P133_10	It looks sleepy.
+EV_Mot_Sp_P133_11	Looks like it’s playing tricks.
+EV_Mot_Sp_P134_10	It’s jumping with all its might.
+EV_Mot_Sp_P134_11	It seems to be trying to protect everyone with Ember.
+EV_Mot_Sp_P134_12	It seems to be having some friendly playtime.
+EV_Mot_Sp_P134_14	Looks like a friendly nap!
+EV_Mot_Sp_P134_15	Maybe it’s playing hide-and-seek.
+EV_Mot_Sp_P136_10	It seems to be playing in the poison swamp.
+EV_Mot_Sp_P136_11	It seems to be playing in the poison swamp.
+EV_Mot_Sp_P136_12	It seems to be playing in the poison swamp.
+EV_Mot_Sp_P137_10	I think it just won a battle over its territory!
+EV_Mot_Sp_P139_10	What a brave little fighter!
+EV_Mot_Sp_P139_11	It seems to be having some friendly playtime.
+EV_Mot_Sp_P139_13	Looks like a friendly nap!
+EV_Mot_Mis_Stage012_084_01	It seems to be doing a little dancing.
+EV_Mot_Mis_Stage012_096_01	That’s some really coordinated jumping.
+EV_Mot_Mis_Stage012_073_01	A Snorlax running? What a rare sight!
+EV_Mot_Mis_Stage013_051_01	It’s jumping with all its might.
+EV_Mot_Mis_Stage013_130_01	Oh look—it’s flying so happily with Wooper on its back!
+EV_Mot_Mis_Stage013_119_01	It’s using Confusion!
+EV_Mot_Mis_Stage013_126_01	What a hit!
+EV_Mot_Mis_Stage013_135_01	It sure popped out suddenly.
+EV_Mot_Mis_Stage013_125_01	Looks like its Metronome was a success!
+EV_Mot_Mis_Stage013_122_01	It’s using Waterfall!
+EV_Mot_Mis_Stage015_118_01	Aww, it’s playing with a fluffruit.
+EV_Mot_Mis_Stage015_139_01	What a brave little fighter!
+EV_Mot_Mis_Stage015_140_01	It certainly seems to be in a good mood!
+EV_Mot_Mis_Stage015_134_01	It’s jumping with all its might.
+EV_Mot_Mis_Stage015_137_01	Whoops—looks like it flipped over!
+EV_Mot_Mis_Stage015_133_01	It looks sleepy.
+EV_Mot_Mis_Stage015_136_01	It must be fighting over territory.
+EV_Mot_Mis_Stage015_120_01	Whoa! It’s so big, it looks like it’s about to explode!
+EV_Mot_Mis_Stage015_128_01	Oh dear. It seems to have swallowed Koffing.
+EV_Mot_Mis_Stage015_142_01	I wonder... Could this be lightning energy?
+EV_Mot_Sp_P142_11	I wonder... Could this be lightning energy?
 Evaluation_UI.msbt
 Evaluation_Welcome_CountPhoto_Tx	Photos Taken
 Evaluation_Welcome_CountPoke_Tx	Pokémon Photographed
@@ -2065,10 +2342,13 @@ PlayerData_CountPhoto_ProfessorRecommend_Tx	Photos uploaded by the professor
 MySpaceTitle_Info.msbt
 Title001_Info2	You researched {color[0000]}Florio Nature Park{color[ffff]} for the first time.
 Title002_Info2	You discovered a route that leads over {color[0000]}Bidoof’s dam{color[ffff]} \nin {color[0000]}Florio Nature Park{color[ffff]}.
+Title003_Info2	You discovered a route on the {color[0000]}Secret Side Path{color[ffff]} that leads to\n{color[0000]}Snorlax’s lair{color[ffff]}.
+Title004_Info2	You discovered a route on the {color[0000]}Secret Side Path{color[ffff]} that leads to\n{color[0000]}Torterra’s nest{color[ffff]}.
 Title005_Info2	You discovered a route in the {color[0000]}research camp{color[ffff]} that leads {color[0000]}into the lab{color[ffff]}.
 Title006_Info2	You researched {color[0000]}Belusylva Island{color[ffff]} for the first time.
 Title007_Info2	You discovered a route in {color[0000]}Founja Jungle{color[ffff]} that leads to the {color[0000]}swamp{color[ffff]}.
 Title008_Info2	You discovered a route in {color[0000]}Founja Jungle{color[ffff]} that leads to {color[0000]}the other side of\nthe waterfall{color[ffff]}.
+Title009_Info2	You discovered a route on {color[0000]}Mightywide River{color[ffff]} that leads to a{color[0000]} cave{color[ffff]}.
 Title010_Info2	You saw {color[0000]}all four seasons{color[ffff]} in {color[0000]}Elsewhere Forest{color[ffff]}.
 Title011_Info2	You discovered a route in {color[0000]}Elsewhere Forest{color[ffff]} that leads to a {color[0000]}sunny area{color[ffff]}.
 Title012_Info2	You researched the{color[0000]} Maricopia Islands{color[ffff]} for the first time.
@@ -2078,6 +2358,7 @@ Title015_Info2	You discovered a route in {color[0000]}Maricopia Reef{color[ffff]
 Title016_Info2	You discovered a route on the{color[0000]} Lental Seafloor{color[ffff]} that leads to an{color[0000]}\nundersea cave{color[ffff]}.
 Title017_Info2	You researched {color[0000]}Voluca Island{color[ffff]} for the first time.
 Title018_Info2	You researched all routes {color[0000]}around the oasis{color[ffff]} in the {color[0000]}Sweltering Sands{color[ffff]}.
+Title019_Info2	You discovered an {color[0000]}overhanging route{color[ffff]} by {color[0000]}riding a geyser{color[ffff]} in the\n{color[0000]}Barren Badlands{color[ffff]}.
 Title020_Info2	You discovered a route in {color[0000]}Fireflow Volcano{color[ffff]} that leads to a {color[0000]}cave with\nblue lava{color[ffff]}.
 Title021_Info2	You registered the Illumina Pokémon {color[0000]}Volcarona {color[ffff]}to your Photodex.
 Title022_Info2	You researched {color[0000]}Durice Island {color[ffff]}for the first time.
@@ -2305,10 +2586,13 @@ Title152_Info2	You registered photos of {color[0000]}Eevee {color[ffff]}and all 
 MySpaceTitle_Name.msbt
 Title001_Name	Photo Program Newbie
 Title002_Name	Dam Completed
+Title003_Name	Comfy Bed in the Forest
+Title004_Name	Heads Up
 Title005_Name	Lab Explorer
 Title006_Name	Lental Research Team
 Title007_Name	Path to the Swamp
 Title008_Name	Hindsight Waterfall
+Title009_Name	Moonlit Cave
 Title010_Name	Four Seasons
 Title011_Name	Mysterious Sunny Spot
 Title012_Name	Ocean Research Team
@@ -2318,6 +2602,7 @@ Title015_Name	Blue Hole
 Title016_Name	Under the Sea
 Title017_Name	Desert Research Team
 Title018_Name	Oasis Tour Guide
+Title019_Name	Riding a Geyser
 Title020_Name	Blue Magma
 Title021_Name	Banquet of Fire
 Title022_Name	Distant Land Research Team
@@ -2647,6 +2932,10 @@ Option_Turbo_Tx	Turbo Mode
 Option_Turbo_Help	Select whether the turbo controls are Hold (hold button down) or Toggle (press button)
 Option_Turbo_Hold_Tx	Hold
 Option_Turbo_Switch_Tx	Toggle
+Option_SnsUploadPhoto_Tx	Photos submitted to LenTalk
+Option_SnsUploadPhoto_Help	You can choose whether you’d like LenTalk to show other players’ photos.
+Option_SnsUploadPhoto_On_Tx	Display
+Option_SnsUploadPhoto_Off_Tx	Don’t display
 PauseMenu_UI.msbt
 PauseMenu_Help	Select a menu item
 PauseMenu_Head	Pause Menu
@@ -2700,6 +2989,10 @@ HowToPlay_EvaluationTips_Point7_Tx	Background
 HowToPlay_EvaluationTips_Point7_Info	There are certain special backgrounds that will add to your score!
 HowToPlay_EvaluationTips_Point8_Tx	★ Colors
 HowToPlay_EvaluationTips_Point8_Info	The color of the ★ depends on the total number of points.\nThere are four different colors in total.
+PauseMenu_Camp_Select_Info	Would you like to stop researching and show your\nphotos to the professor? You can also skip the\nevaluation and return to camp immediately.
+PauseMenu_Camp_SelectBack_Tx	Back
+PauseMenu_Camp_SelectEvaluation_Tx	Evaluate Photos
+PauseMenu_Camp_SelectCamp_Tx	Return to Camp
 PhotoDetail_UI.msbt
 PhotoDetail_Expansion_Tx	Enlarge
 PhotoDetail_AlbumSave_On_Tx	Save
@@ -2733,9 +3026,11 @@ PhotoDetail_Unselected_Help	Select an icon
 PhotoEdit_Info.msbt
 PhotoEditEffect001_Info	Makes your photo appear in gray scale
 PhotoEditEffect002_Info	Makes your photo look like an old photo
+PhotoEditEffect003_Info	Adds a blue tint to your photo
 PhotoEditEffect004_Info	Adjusts the brightness of the colors
 PhotoEditEffect005_Info	Adjusts the lighting of your photo
 PhotoEditEffect006_Info	Adds a gradient of light to your photo
+PhotoEditEffect007_Info	Turns your photo black-and-white
 PhotoEditEffect008_Info	Makes your photo look like a\nnewspaper photo
 PhotoEditEffect009_Info	Enhances the shadows in your photo
 PhotoEditEffect010_Info	Makes your photo look like a cartoon
@@ -2744,15 +3039,18 @@ PhotoEditEffect012_Info	Applies a dot filter to your photo
 PhotoEditEffect013_Info	Makes your photo look like a\nfashionable drawing
 PhotoEditEffect014_Info	Makes your photo look like it was taken\nusing a fish-eye lens
 PhotoEditEffect015_Info	Makes your photo look like it was taken\nusing miniature models
+PhotoEditEffect016_Info	Makes your photo look painted
 PhotoEditEffect017_Info	Makes your photo look like pixel art
 PhotoEditEffect018_Info	Gives your photo TV scan lines
 PhotoEditEffect019_Info	Splits your photo into a four-by-four\narrangement
 PhotoEditEffect020_Info	Splits your photo into a two-by-two\narrangement
 PhotoEditEffect001_Param1_Tx	Effect strength
 PhotoEditEffect002_Param1_Tx	Effect strength
+PhotoEditEffect003_Param1_Tx	Effect strength
 PhotoEditEffect004_Param1_Tx	Effect balance
 PhotoEditEffect005_Param1_Tx	Effect strength
 PhotoEditEffect006_Param1_Tx	Effect strength
+PhotoEditEffect007_Param1_Tx	Effect balance
 PhotoEditEffect008_Param1_Tx	Effect strength
 PhotoEditEffect008_Param2_Tx	Brightness
 PhotoEditEffect009_Param1_Tx	Effect balance
@@ -2764,6 +3062,7 @@ PhotoEditEffect013_Param1_Tx	Effect strength
 PhotoEditEffect014_Param1_Tx	Effect strength
 PhotoEditEffect015_Param1_Tx	Blur strength
 PhotoEditEffect015_Param2_Tx	Blur range
+PhotoEditEffect016_Param1_Tx	Effect strength
 PhotoEditEffect017_Param1_Tx	Effect strength
 PhotoEditEffect018_Param1_Tx	Effect strength
 PhotoEdit_Name.msbt
@@ -2778,6 +3077,8 @@ PhotoEditStamp032_Name	Accessory 8
 PhotoEditStamp023_Name	Accessory 9
 PhotoEditStamp158_Name	Accessory 10
 PhotoEditStamp159_Name	Accessory 11
+PhotoEditStamp174_Name	Accessory 12
+PhotoEditStamp176_Name	Accessory 13
 PhotoEditStamp028_Name	Food 1
 PhotoEditStamp175_Name	Food 2
 PhotoEditStamp030_Name	Food 3
@@ -2812,17 +3113,20 @@ PhotoEditStamp052_Name	Character: You
 PhotoEditStamp053_Name	Character: You
 PhotoEditStamp056_Name	Character: Todd
 PhotoEditStamp051_Name	Character: Professor Mirror
+PhotoEditStamp057_Name	Character: Vince
 PhotoEditStamp054_Name	Character: Phil
 PhotoEditStamp055_Name	Character: Rita
 PhotoEditStamp019_Name	Sparkles 1
 PhotoEditStamp020_Name	Sparkles 2
 PhotoEditStamp021_Name	Sparkles 3
 PhotoEditStamp022_Name	Sparkles 4
+PhotoEditStamp173_Name	Sparkles 5
 PhotoEditStamp006_Name	Star 1
 PhotoEditStamp007_Name	Star 2
 PhotoEditStamp008_Name	Star 3
 PhotoEditStamp009_Name	Star 4
 PhotoEditStamp010_Name	Star 5
+PhotoEditStamp171_Name	Star 6
 PhotoEditStamp033_Name	Type: Normal
 PhotoEditStamp034_Name	Type: Fire
 PhotoEditStamp035_Name	Type: Water
@@ -2845,18 +3149,22 @@ PhotoEditStamp001_Name	Heart 1
 PhotoEditStamp002_Name	Heart 2
 PhotoEditStamp003_Name	Heart 3
 PhotoEditStamp004_Name	Heart 4
+PhotoEditStamp005_Name	Heart 5
 PhotoEditStamp011_Name	Flower 1
 PhotoEditStamp012_Name	Flower 2
 PhotoEditStamp013_Name	Flower 3
 PhotoEditStamp151_Name	Flower 4
+PhotoEditStamp014_Name	Flower 5
 PhotoEditStamp125_Name	Hat 1
 PhotoEditStamp167_Name	Hat 2
 PhotoEditStamp168_Name	Hat 3
 PhotoEditStamp126_Name	Hat 4
 PhotoEditStamp127_Name	Hat 5
 PhotoEditStamp128_Name	Hat 6
+PhotoEditStamp183_Name	Hat 7
 PhotoEditStamp123_Name	Crown 1
 PhotoEditStamp166_Name	Crown 2
+PhotoEditStamp124_Name	Crown 3
 PhotoEditStamp129_Name	Speech Bubble 1
 PhotoEditStamp130_Name	Speech Bubble 2
 PhotoEditStamp131_Name	Speech Bubble 3
@@ -2906,6 +3214,8 @@ PhotoEditStamp121_Name	Glasses 2
 PhotoEditStamp122_Name	Glasses 3
 PhotoEditStamp165_Name	Glasses 4
 PhotoEditStamp180_Name	Glasses 5
+PhotoEditStamp181_Name	Glasses 6
+PhotoEditStamp182_Name	Glasses 7
 PhotoEditStamp017_Name	Snow 1
 PhotoEditStamp018_Name	Snow 2
 PhotoEditStamp015_Name	Leaf 1
@@ -2916,12 +3226,15 @@ PhotoEditStamp164_Name	Ribbon 2
 PhotoEditStamp116_Name	Ribbon 3
 PhotoEditStamp117_Name	Ribbon 4
 PhotoEditStamp118_Name	Ribbon 5
+PhotoEditStamp119_Name	Ribbon 6
+PhotoEditStamp179_Name	Ribbon 7
 PhotoEditStamp065_Name	NEO-ONE
 PhotoEditStamp064_Name	Research Camera
 PhotoEditStamp029_Name	Fluffruit
 PhotoEditStamp066_Name	Research Logo
 PhotoEditStamp160_Name	Team Badge
 PhotoEditStamp161_Name	Sweet! Medal
+PhotoEditStamp067_Name	Poké Ball
 PhotoEditFrame000_Name	No Frame
 PhotoEditFrame016_Name	Effect 1
 PhotoEditFrame017_Name	Effect 2
@@ -2929,6 +3242,8 @@ PhotoEditFrame018_Name	Effect 3
 PhotoEditFrame019_Name	Effect 4
 PhotoEditFrame020_Name	Effect 5
 PhotoEditFrame021_Name	Effect 6
+PhotoEditFrame069_Name	Effect 7
+PhotoEditFrame070_Name	Effect 8
 PhotoEditFrame031_Name	Comic 1
 PhotoEditFrame032_Name	Comic 2
 PhotoEditFrame033_Name	Comic 3
@@ -2956,6 +3271,9 @@ PhotoEditFrame055_Name	Design 16
 PhotoEditFrame056_Name	Design 17
 PhotoEditFrame057_Name	Design 18
 PhotoEditFrame058_Name	Design 19
+PhotoEditFrame059_Name	Design 20
+PhotoEditFrame060_Name	Design 21
+PhotoEditFrame061_Name	Design 22
 PhotoEditFrame012_Name	Photo Frame 1
 PhotoEditFrame013_Name	Photo Frame 2
 PhotoEditFrame014_Name	Photo Frame 3
@@ -2989,6 +3307,9 @@ PhotoEditFrame081_Name	Lental Region 9
 PhotoEditFrame085_Name	Lental Region 10
 PhotoEditFrame086_Name	Lental Region 11
 PhotoEditFrame087_Name	Lental Region 12
+PhotoEditFrame075_Name	Lental Region 13
+PhotoEditFrame077_Name	Lental Region 14
+PhotoEditFrame080_Name	Lental Region 15
 PhotoEditFrame040_Name	Logo: Upper Left
 PhotoEditFrame041_Name	Logo: Upper Left
 PhotoEditFrame042_Name	Logo: Upper Left
@@ -3002,9 +3323,11 @@ PhotoEditFrame050_Name	Logo: Bottom Right
 PhotoEditEffect000_Name	No Filter
 PhotoEditEffect001_Name	Monochrome
 PhotoEditEffect002_Name	Antique
+PhotoEditEffect003_Name	Cool
 PhotoEditEffect004_Name	Contrast
 PhotoEditEffect005_Name	Exposed
 PhotoEditEffect006_Name	Light
+PhotoEditEffect007_Name	Black-and-White
 PhotoEditEffect008_Name	Tabloid
 PhotoEditEffect009_Name	High Contrast
 PhotoEditEffect010_Name	Cel Shaded
@@ -3013,6 +3336,7 @@ PhotoEditEffect012_Name	Dot Overlay
 PhotoEditEffect013_Name	Pop
 PhotoEditEffect014_Name	Fish-Eye Lens
 PhotoEditEffect015_Name	Miniature
+PhotoEditEffect016_Name	Hand Colored
 PhotoEditEffect017_Name	Pixelated
 PhotoEditEffect018_Name	TV
 PhotoEditEffect019_Name	Split into 16
@@ -3049,7 +3373,7 @@ PhotoEdit_Frame_Help	Select a frame
 PhotoEdit_Effect_ModeAdjust_Help	You can adjust the effect settings.
 PhotoEdit_Effect_Compare_Help	Display the photo as it appeared before applying the effect.
 PhotoEx_UI.msbt
-PhotoEx_Info	  Move camera    Rotate    Zoom   Toggle menu   Start over   Back
+PhotoEx_Info	  Move camera    Rotate    Zoom   Toggle menu   Start over   Snap Photo   Save to System   Back
 PhotoEx_Brightness_Tx	Brightness
 PhotoEx_BlurStrength_Tx	Blur
 PhotoEx_BlurScope_Tx	Focus size
@@ -3066,12 +3390,15 @@ PhotoEx_ShootingType_Silhouette07_Tx	Silhouette 7
 PhotoEx_ShootingType_Silhouette08_Tx	Silhouette 8
 PhotoEx_EditCaption_Tx	Caption
 PhotoEx_Shooting_Tx	Snap a photo
-PhotoEx_PhotoSave_Info	Save this photo?
+PhotoEx_PhotoSave_Info	Save this photo to your album?
 PhotoEx_PhotoSave_Yes_Tx	Yes
 PhotoEx_PhotoSave_No_Tx	No
+PhotoEx_PhotoSaveDownload_Info	Save this photo to your Nintendo Switch album?
+PhotoEx_PhotoSaveDownload_Yes_Tx	Yes
+PhotoEx_PhotoSaveDownload_No_Tx	No
 PhotoSubmit_UI.msbt
 PhotoSubmit_Select_Help	Choose photos to show to the professor
-PhotoSubmit_Select_Submit_Tx	Show Professor
+PhotoSubmit_Select_Submit_Tx	Evaluate Photos
 PhotoSubmit_Select_Recommend_On_Tx	Auto
 PhotoSubmit_Select_Recommend_Off_Tx	Remove All
 PhotoSubmit_Select_Submit_Help	Show the selected photos to the professor
@@ -3089,6 +3416,8 @@ PhotoSubmit_Submit_CancelCheck_Tx	Cancel
 PhotoSubmit_Submit_CancelCheck_Help	Remove check marks from selected photos
 PhotoSubmit_Submit_NoIlluminaBoss_Help	You cannot select photos in which the Illumina phenomenon isn’t shown.
 PhotoSubmit_Submit_NoIlluminaFlower_Help	You cannot select photos in which the Illumina phenomenon isn’t shown.
+PhotoSubmit_Select_MisClear_Help	Choose photos to show to the professor (requested photo)
+PhotoSubmit_Submit_CancelCheck_MisClear_Help	Remove check marks from selected photos
 PictureBookEtc_UI.msbt
 PictureBookEtc_Top_Help	Select the object you’d like to view
 PictureBookEtc_Top_Head	Objects of Interest
@@ -3141,13 +3470,20 @@ Stage008_Info	Pokémon have thrived in\nthis fiery volcanic region\nsince prehis
 Stage009_Info	A shimmering, frigid\nlandscape encased in\nperpetual ice and snow.
 Stage010_Info	This extensive cave\nsystem stretches far into\nthe depths of the earth.
 Stage011_Info	These ruins slumber on\na forgotten island, their\norigins a mystery.
+Stage012_Info	The NEO-ONE’s shrinking\nfunction allows you to\naccess this secret path.
+Stage013_Info	This nutrient-rich river\nflows throughout the\nentire island.
 Stage014_Info	This coral reef echoes \nwith the pleasant sounds\nof waves and singing.
+Stage015_Info	A wasteland overlooked\nby cliffs, where fissures\nspew heat and toxic gas.
 Stage101_Info	This research facility\nserves as home base\nas you explore Lental.
 Course001_Info	This course runs along a large lake and through a field\nof colorful flowers. Pokémon are a regular sight here,\nwhich makes it the ideal location for young, up-and-\ncoming photographers.
 Course002_Info	Underneath the light of the moon, the Pokémon of the\nnature park can be observed behaving differently than\nduring the day.
+Course003_Info	Shrink down and embark on a secret path known only to\nPokémon, and see the world through new eyes.
+Course004_Info	Cloaked in the shadows of the trees and lit only by\nglowing mushrooms, this secret path looks like\nsomething out of a fairy tale.
 Course005_Info	Meganium, the Illumina Pokémon of Florio Island, can\nbe found in this field of flowers on a small hill in the\nnature park.
 Course006_Info	This dense jungle is home to an ancient, enormous tree\nas well as a waterfall. Fleeting glimpses of Pokémon \ncan be seen through the gaps in the thick tangle\nof trees.
 Course007_Info	Many Pokémon in the jungle become more active during\nthe quiet of night, as if drawn to the glowing vegetation.
+Course008_Info	Buckle up for a bumpy ride down the valley on this\nmighty river. Many different Pokémon gather in the\nabundant greenery that grows along the riverbank.
+Course009_Info	Riding the swift river current in the darkness of night is\nquite an adventure. The presence of Pokémon can be\nfelt on rocky outcroppings and in the depths of the river.
 Course010_Info	A mysterious power within this foggy forest seems to\nhave uncoupled the climate from the flow of time.
 Course011_Info	Milotic, the Illumina Pokémon of Belusylva Island, can\nbe found in this crystal-clear lake deep in the forest.
 Course012_Info	The Pokémon here live peacefully on the sands of the\nmost beautiful beach of the Maricopia Islands.
@@ -3158,6 +3494,8 @@ Course016_Info	Descend into an underwater crater to reach this\nseafloor brimmin
 Course017_Info	Wishiwashi, the Illumina Pokémon of the Maricopia\nIslands, can be found in a rocky area in the deepest\nreaches of the Lental Seafloor.
 Course018_Info	Sandstorms rage across this scorching desert.\nPokémon of all sizes gather at the desert’s oasis.
 Course019_Info	As the sun sets and most Pokémon fall asleep, other,\nsmaller Pokémon come out and start their day.
+Course020_Info	Dry desert winds scour this wasteland spotted with\npoisonous, gas-spewing swamps and active geysers.
+Course021_Info	The strange geological formations here were carved out\nby countless meteorites crashing into the wasteland.
 Course022_Info	The Pokémon of this volcanic, lava-streaked region\nhave dominated the land since time immemorial.
 Course023_Info	Volcarona, the Illumina Pokémon of Voluca Island, can\nbe found here in the region’s largest volcano, which\nboasts not one but two craters.
 Course024_Info	Although the author of the travelogue never reached\nthis desolate tundra, some Pokémon nevertheless call\nthese snowcapped mountains home.
@@ -3168,7 +3506,6 @@ Course028_Info	These ruins could be the key to understanding Lental’s\nhistory
 Course029_Info	Xerneas, the Illumina Pokémon of Aurus Island, can be\nfound here, just past the collapsed entrance of the\nRuins of Remembrance.
 Course030_Info	This is Professor Mirror’s lab, a research hub located\nwithin the nature park. Pokémon can be seen roaming\nabout as they please.
 Place_Name.msbt
-Region001_Name	Lental region
 Island001_Name	Florio
 Island002_Name	Belusylva
 Island003_Name	Maricopia
@@ -3185,13 +3522,20 @@ Stage008_Name	Fireflow Volcano
 Stage009_Name	Shiver Snowfields
 Stage010_Name	Outaway Cave
 Stage011_Name	Ruins of Remembrance
+Stage012_Name	Secret Side Path
+Stage013_Name	Mightywide River
 Stage014_Name	Maricopia Reef
+Stage015_Name	Barren Badlands
 Stage101_Name	Research Camp
 Course001_Name	Park (Day)
 Course002_Name	Park (Night)
+Course003_Name	Side Path (Day)
+Course004_Name	Side Path (Night)
 Course005_Name	Illumina Spot
 Course006_Name	Jungle (Day)
 Course007_Name	Jungle (Night)
+Course008_Name	River (Day)
+Course009_Name	River (Night)
 Course010_Name	Forest
 Course011_Name	Illumina Spot
 Course012_Name	Beach (Day)
@@ -3202,6 +3546,8 @@ Course016_Name	Undersea
 Course017_Name	Illumina Spot
 Course018_Name	Sands (Day)
 Course019_Name	Sands (Night)
+Course020_Name	Badlands (Day)
+Course021_Name	Badlands (Night)
 Course022_Name	Volcano
 Course023_Name	Illumina Spot
 Course024_Name	Snowfields (Day)
@@ -3211,16 +3557,12 @@ Course027_Name	Illumina Spot
 Course028_Name	Ruins
 Course029_Name	Illumina Spot
 Course030_Name	Research Camp
-Collection_Course001_Name	Park
 Collection_Course003_Name	Florio Island Illumina Spot
 Collection_Course004_Name	Jungle
 Collection_Course006_Name	Forest
 Collection_Course007_Name	Belusylva Island Illumina Spot
-Collection_Course008_Name	Beach
-Collection_Course009_Name	Reef
 Collection_Course010_Name	Undersea
 Collection_Course011_Name	Maricopia Islands Illumina Spot
-Collection_Course012_Name	Sands
 Collection_Course014_Name	Volcano
 Collection_Course015_Name	Voluca Island Illumina Spot
 Collection_Course016_Name	Snowfields
@@ -3228,7 +3570,6 @@ Collection_Course017_Name	Cave
 Collection_Course018_Name	Durice Island Illumina Spot
 Collection_Course019_Name	Ruins
 Collection_Course020_Name	Aurus Island Illumina Spot
-Collection_Course021_Name	Research Camp
 OtherPlace001_Name	Laboratory of Ecology and Natural Sciences
 Poke_Class.msbt
 P001_Class_00	Mouse Pokémon
@@ -3279,6 +3620,7 @@ P047_Class_00	Rendezvous Pokémon
 P048_Class_00	Bird Pokémon
 P049_Class_00	Rock Snake Pokémon
 P050_Class_00	Coconut Pokémon
+P051_Class_00	Big Jaw Pokémon
 P052_Class_00	Flower Pokémon
 P053_Class_00	Lazy Pokémon
 P054_Class_00	Brutal Pokémon
@@ -3300,6 +3642,7 @@ P069_Class_00	Mouse Pokémon
 P070_Class_00	Bubble Jet Pokémon
 P071_Class_00	Superpower Pokémon
 P072_Class_00	Flame Pokémon
+P073_Class_00	Sleeping Pokémon
 P074_Class_00	Herb Pokémon
 P075_Class_00	Moonlight Pokémon
 P076_Class_00	Owl Pokémon
@@ -3310,6 +3653,7 @@ P080_Class_00	Jet Pokémon
 P081_Class_00	Tiny Swallow Pokémon
 P082_Class_00	Water Bird Pokémon
 P083_Class_00	Cat Ferret Pokémon
+P084_Class_00	Mushroom Pokémon
 P085_Class_00	Fang Snake Pokémon
 P086_Class_00	Tiny Bee Pokémon
 P087_Class_00	Continent Pokémon
@@ -3321,6 +3665,7 @@ P092_Class_00	Verdant Pokémon
 P093_Class_00	Blimp Pokémon
 P094_Class_00	Seafaring Pokémon
 P095_Class_00	Gratitude Pokémon
+P096_Class_00	Mushroom Pokémon
 P097_Class_00	Bash Buffalo Pokémon
 P098_Class_00	Revolving Pokémon
 P099_Class_00	Intertwining Pokémon
@@ -3342,15 +3687,31 @@ P114_Class_00	Water Lizard Pokémon
 P115_Class_00	Seed Pokémon
 P116_Class_00	Cobra Pokémon
 P117_Class_00	Mouse Pokémon
+P118_Class_00	Mole Pokémon
+P119_Class_00	Duck Pokémon
+P120_Class_00	Poison Gas Pokémon
 P121_Class_00	Parent Pokémon
+P122_Class_00	Atrocious Pokémon
 P123_Class_00	New Species Pokémon
 P124_Class_00	Five Star Pokémon
+P125_Class_00	Star Shape Pokémon
+P126_Class_00	Hibernator Pokémon
 P127_Class_00	Armor Pokémon
+P128_Class_00	Poison Bag Pokémon
 P129_Class_00	Ant Pit Pokémon
+P130_Class_00	Fruit Pokémon
 P131_Class_00	Mud Fish Pokémon
 P132_Class_00	Flash Pokémon
+P133_Class_00	Fang Scorpion Pokémon
+P134_Class_00	Fire Pig Pokémon
+P135_Class_00	Mole Pokémon
+P136_Class_00	Megapede Pokémon
+P137_Class_00	Stone Home Pokémon
 P138_Class_00	Generator Pokémon
+P139_Class_00	Puppy Pokémon
+P140_Class_00	Toxic Lizard Pokémon
 P141_Class_00	Meteor Pokémon
+P142_Class_00	Thunderclap Pokémon
 P143_Class_00	Mouse Pokémon
 P144_Class_00	Mouse Pokémon
 P145_Class_00	Fox Pokémon
@@ -3548,6 +3909,7 @@ P047_Height_00	2′
 P048_Height_00	4′11″
 P049_Height_00	28′10″
 P050_Height_00	6′7″
+P051_Height_00	7′7″
 P052_Height_00	1′4″
 P053_Height_00	6′7″
 P054_Height_00	5′11″
@@ -3570,6 +3932,7 @@ P069_Height_00	2′4″
 P070_Height_00	3′3″
 P071_Height_00	5′3″
 P072_Height_00	2′11″
+P073_Height_00	6′11″
 P074_Height_00	??′?″
 P075_Height_00	3′3″
 P076_Height_00	2′4″
@@ -3580,6 +3943,7 @@ P080_Height_00	2′11″
 P081_Height_00	1′
 P082_Height_00	3′11″
 P083_Height_00	4′3″
+P084_Height_00	1′4″
 P085_Height_00	8′10″
 P086_Height_00	1′
 P087_Height_00	7′3″
@@ -3591,6 +3955,7 @@ P092_Height_00	3′3″
 P093_Height_00	3′11″
 P094_Height_00	1′
 P095_Height_00	8″
+P096_Height_00	8″
 P097_Height_00	5′3″
 P098_Height_00	1′4″
 P099_Height_00	3′3″
@@ -3613,15 +3978,31 @@ P114_Height_00	1′
 P115_Height_00	6′7″
 P116_Height_00	11′6″
 P117_Height_00	2′
+P118_Height_00	8″
+P119_Height_00	2′7″
+P120_Height_00	2′
 P121_Height_00	7′3″
+P122_Height_00	21′4″
 P123_Height_00	1′4″
 P124_Height_00	4′7″
+P125_Height_00	1′
+P126_Height_00	5′11″
 P127_Height_00	6′7″
+P128_Height_00	5′7″
 P129_Height_00	2′4″
+P130_Height_00	6′7″
 P131_Height_00	4′11″
 P132_Height_00	1′8″
+P133_Height_00	6′7″
+P134_Height_00	1′8″
+P135_Height_00	1′
+P136_Height_00	8′2″
+P137_Height_00	4′7″
 P138_Height_00	3′3″
+P139_Height_00	1′8″
+P140_Height_00	3′11″
 P141_Height_00	1′
+P142_Height_00	4′11″
 P143_Height_00	1′
 P144_Height_00	3′11″
 P145_Height_00	2′
@@ -3768,6 +4149,7 @@ P047_Info_00	Luvdisc’s heart-shaped body really stands\nout, making it an easy
 P048_Info_00	When Pidgeot flaps its wings, it can whip up\na gust of wind capable of blowing away just\nabout anything. It also has excellent vision\nand can zero in on leaping Magikarp from a\nfar-off distance.
 P049_Info_00	Onix can burrow as effortlessly through\nrock walls as it can through a sea of sand.\nOther Pokémon make their dens in the\ntunnels it leaves in its wake.
 P050_Info_00	Each of Exeggutor’s three heads thinks\nindependently, but they get along well with\neach other. It sleeps among trees on the\ncoast as camouflage for protection.
+P051_Info_00	Feraligatr has a heavy body, but when it\nkicks off the ground with its powerful hind\nlegs, it’s incredibly fast! It surprised us by\njumping out of the water at Mightywide River.
 P052_Info_00	Bellossom usually hide in vegetation, but\nwhen something puts them in a happy\nmood, they come out of hiding to dance\nwith their friends.
 P053_Info_00	Slaking is the laziest Pokémon in the world.\nIt usually only eats whatever is in reach.\nIf you see it walking around at night, it’s\nprobably overwhelmingly hungry!
 P054_Info_00	Sharpedo is known as the Bully of the Sea.\nIt’ll challenge anyone and anything to a\nswimming race. It definitely swims fast,\nbut it can’t maintain that speed for long.
@@ -3790,6 +4172,7 @@ P069_Info_00	This Pokémon is a talented surfer, using\nits psychic power to rid
 P070_Info_00	An empty-looking blue hole may actually\nbe home to Vaporeon. Because their cells\nare similar to water molecules, Vaporeon\ncan’t be seen when they’re in the water.
 P071_Info_00	Machamp’s four muscular arms make it\nan excellent swimmer. It can move through\nthe water as fast as any aquatic Pokémon.
 P072_Info_00	Flareon is extremely curious and shows\ninterest in a wide variety of things. Its body\ntemperature rises when it gets excited, but\nit stays cool by releasing heat from its\nfluffy fur.
+P073_Info_00	After eating roughly its own weight in food,\nSnorlax develops a truly king-sized belly.\nIt doesn’t seem to mind if smaller Pokémon\ndecide to use its belly as a bed.
 P074_Info_00	Illumina Pokémon hadn’t been seen on\nFlorio Island for almost a century until you\nencountered this one and took its photo!\nMeganium seems so happy living with the\nother Pokémon on that flowery hill.
 P075_Info_00	When Umbreon gets excited, the patterns\non its body glow and give off energy. The\none we saw in the ruins seems to hang out\nwith Absol a lot.
 P076_Info_00	Hoothoot are said to be more accurate\ntimekeepers than any clock. As nocturnal\nPokémon, they’re not big fans of light, so\nthey spend the daylight hours sleeping in\nholes in tree trunks.
@@ -3800,6 +4183,7 @@ P080_Info_00	Octillery wanders around until it finds the\nperfect rocky crag to 
 P081_Info_00	When it gets cold, Taillow flock to the\nnature park in search of food. They may\npeck at Wurmple, but they usually get\ndriven away.
 P082_Info_00	Pelipper is sometimes referred to as a\ncourier of the skies due to its habit of\ncarrying things inside its beak. When it’s\nhungry, it sometimes dives down into\nthe water to search for food.
 P083_Info_00	Zangoose certainly has a brave side, using\nits sharp claws to fight back against foes.\nBut it actually seems to enjoy peaceful\nactivities, like listening to the sound of the\nocean waves or nearby singing.
+P084_Info_00	Shroomish live quiet lives, preferring to\nmake their homes in damp, shady places.\nBut watch out! They spout toxic spores\nfrom their head when they’re startled.
 P085_Info_00	Seviper must be a real stickler to spend\nso much time sharpening its tail blade.\nSpeaking of which, that blade is extremely\ndangerous! Not just because it’s sharp—it\nalso oozes a deadly poison.
 P086_Info_00	From the moment they’re born, the trio that\nmake up Combee work together for the\nsake of Vespiquen. The nectar they gather\nfrom flowers that grow near crystablooms\nis particularly rich and sweet.
 P087_Info_00	Torterra live in groups deep in the forest.\nSmall Pokémon seem to feel safe on their\nbroad backs, which are densely covered\nwith trees and other plant life.
@@ -3811,6 +4195,7 @@ P092_Info_00	Did you notice how clear the air was near\nthe waterfall in the jun
 P093_Info_00	Drifblim float around as they please during\nthe day, but at night they drift off to who\nknows where. Apparently, some of the\nClamperl they’ve carried away are\nstill missing.
 P094_Info_00	Manaphy has a wondrous power that lets\nit bond with any kind of Pokémon. It will\nsometimes rise up from the ocean floor,\nlured by the sound of beautiful singing.
 P095_Info_00	Shaymin has the incredible power to\ntransform ruined land into a lush field.\nWhen it curls up, it looks like a flowering\nplant, so it’s hard to spot even up close.
+P096_Info_00	The pattern on Foongus’s cap looks just \nlike a Poké Ball—a device you don’t see\noften around Lental. No one can really\nexplain why it looks the way it does.
 P097_Info_00	A charging Bouffalant can pulverize a huge\nboulder with a single headbutt! Even if a\nfierce fight breaks out within the herd, the\nfluffy fur on their heads absorbs impacts,\npreventing injuries.
 P098_Info_00	Inkay instinctively reacts to anything in the\nwater that lights up or makes an echoing\nsound. That’s because it usually uses its\nown luminescence to communicate with\nothers of its kind.
 P099_Info_00	Sylveon has really made itself at home in\nthe flower meadow in the nature park. It\nseems to love living there—dancing nimbly\nas it emits waves of soothing energy.
@@ -3833,16 +4218,32 @@ P114_Info_00	Sobble is so timid that it bursts into tears\nat the slightest shoc
 P115_Info_00	The aroma of the flower on Venusaur’s\nback soothes the Pokémon around it.\nSmaller Pokémon by the waterside\ncertainly looked relaxed and comfortable\nas they played with it.
 P116_Info_00	It must take some serious skill to sleep\nso securely on tree branches in the\njungle! Arbok also displays the face-like\npattern on its hood when it wants to\nintimidate foes.
 P117_Info_00	The skin on Sandshrew’s back is very hard,\nand Sandshrew protects itself by curling\ninto a ball. This also helps it move around\nfaster—it can just roll across the desert!
+P118_Info_00	Diglett aren’t fond of sunlight, so they live\nin the ground. The holes left behind by\nburrowing Onix provide cover from the\nbright sun, making them perfect homes\nfor Diglett!
+P119_Info_00	Psyduck often looks spaced out because\nit’s constantly dealing with headaches.\nSometimes it gets swept away by the river,\nbut Psyduck doesn’t seem to mind.
+P120_Info_00	Koffing’s body is full of poisonous gas.\nIf you see one all puffed up, that’s because\nthe gases of the poison swamp have\ntriggered a chemical reaction. 
 P121_Info_00	Kangaskhan raises its young in the pouch\non its belly. It’ll threaten anyone who gets\ntoo close but only out of a desire to protect\nits young. It’s actually a very kind Pokémon.
+P122_Info_00	Gyarados is extremely aggressive and\nstrong enough to destroy everything in its\npath. The gouges in the rocky cliffs of\nMightywide River were actually caused by\nGyarados climbing up the waterfall.
 P123_Info_00	Mew is an incredibly intelligent Pokémon\nthat lives hidden in the ruins. People say it\nonly appears before those who are pure\nof heart.
 P124_Info_00	When night falls, Ledian flutters about,\nscattering a sparkling dust. It seems very\ndrawn to anything that lights up—maybe\nbecause it uses starlight as energy.
+P125_Info_00	I’m sure you noticed those Cleffa dancing\ninside the cave with a view of the night sky.\nIt’s said that Cleffa first arrived here in\nancient times, riding on a meteor.
+P126_Info_00	If you see a tree with huge claw marks\ncarved into it, that means you’ve stumbled\ninto an Ursaring’s territory. That’s how it \nmarks its favorite spots so other Pokémon\nwon’t take them.
 P127_Info_00	Tyranitar has such a sturdy body, it can\neven doze off in the middle of a sandstorm.\nWe saw it waiting in the desert, hoping for a\nsuitably strong opponent to come along.
+P128_Info_00	This greedy glutton can swallow almost\nanything whole—and digest it, too. Swalot\nloves to eat poisonous things, so a toxic\nswamp is like an endless buffet to it.
 P129_Info_00	Those bowl-shaped holes you see in the\ndesert are Trapinch nests. They’re very\neffective—both at protecting Trapinch and\nat funneling any food to it that falls in.
+P130_Info_00	Tropius is a kind Pokémon, sharing the\nsweet fruits that grow on its neck with any\nwho want some. Its body may be big, but it\nhas no trouble flying through the air.
 P131_Info_00	Swampert has powerful vision that allows\nit to see through muddy river water. The\nreason it covers itself with mud when it’s\non land is because it wants to keep its\nskin moist.
 P132_Info_00	Shinx looked like it was having fun playing\nwith Charmander. As the Pokémon ran\naround chasing each other, Shinx’s forelegs\nwere naturally generating electricity.
+P133_Info_00	Gliscor was hanging upside down from the\nrocks by its tail, searching the area around\nit. When it’s hunting prey, it glides through\nthe air without making a sound.
+P134_Info_00	Tepig can use the flames it creates inside\nits body to shoot fireballs out of its nose!\nIt also has a keen sense of smell, and\nit’s skilled at tracking scents to search\nfor food.
+P135_Info_00	Drilbur presses its claws together and\nspins its body to dig through the soil. If you\nsee one pop its head above ground, that\nmeans it’s just taking a break.
+P136_Info_00	Scolipede is at its most aggressive when\nit’s chasing down foes at full speed. It has\na tendency to curl up into a ball when it\nsleeps—that might be an old habit from\nlong ago.
+P137_Info_00	When Crustle fight over territory, the loser\nis the one whose precious boulder breaks.\nThat’s probably why they like the rocks\nhere—they’ve been hardened by the\nminerals that the geysers spout!
 P138_Info_00	Heliolisk uses electricity to stimulate its\nleg muscles, allowing it to move so fast it\ncan run on water! It can generate more\nelectricity at once if it spreads its frill.
+P139_Info_00	Rockruff is really good at making friends,\nwhich we saw when it was playing happily\nwith some other Pokémon. But it’s also\nbrave enough to protect its friends if\nsomething were to threaten them.
+P140_Info_00	Did you notice the sweet scent near the\ngeyser? That’s the smell of the\npheromones inside Salazzle’s poison\ngas. It’s seeped into the sand and water\naround there.
 P141_Info_00	Minior is usually covered in a hard shell,\nbut this is its true form. They normally\naren’t so active when they’re exposed like\nthis. I wonder if that could be related to\nthe Illumina phenomenon somehow.
 P141_Info_01	It’s said that this Pokémon arrived here\nfrom the night sky. It sure looked beautiful\nflying back up to the sky over the desert.
+P142_Info_00	Zeraora runs as fast as a lightning bolt,\npatrolling Voluca Island to keep the peace.\nWe were lucky to spot it in the Barren\nBadlands!
 P143_Info_00	I bet you’ve seen Rattata near the lab a lot,\nplaying with Trubbish. I know they need to\ngnaw on things to keep their fangs from\ngrowing too long, but I really wish they\nwouldn’t chew up the lab’s support beams!
 P144_Info_00	Thanks to its huge claws, this Pokémon\ncan move through snow as though it were\nswimming. The ice spikes on its back are\neven sharper than its claws, and they\nprotect it from just about anything.
 P145_Info_00	When it feels wary, Alolan Vulpix exhales\nfreezing-cold air from its mouth to\nintimidate foes. It was nice to see it playing\ninnocently with its Pokémon friends.
@@ -3989,6 +4390,7 @@ P047_Name	Luvdisc
 P048_Name	Pidgeot
 P049_Name	Onix
 P050_Name	Exeggutor
+P051_Name	Feraligatr
 P052_Name	Bellossom
 P053_Name	Slaking
 P054_Name	Sharpedo
@@ -4010,6 +4412,7 @@ P069_Name	Raichu
 P070_Name	Vaporeon
 P071_Name	Machamp
 P072_Name	Flareon
+P073_Name	Snorlax
 P074_Name	Meganium
 P075_Name	Umbreon
 P076_Name	Hoothoot
@@ -4020,6 +4423,7 @@ P080_Name	Octillery
 P081_Name	Taillow
 P082_Name	Pelipper
 P083_Name	Zangoose
+P084_Name	Shroomish
 P085_Name	Seviper
 P086_Name	Combee
 P087_Name	Torterra
@@ -4031,6 +4435,7 @@ P092_Name	Leafeon
 P093_Name	Drifblim
 P094_Name	Manaphy
 P095_Name	Shaymin
+P096_Name	Foongus
 P097_Name	Bouffalant
 P098_Name	Inkay
 P099_Name	Sylveon
@@ -4052,15 +4457,31 @@ P114_Name	Sobble
 P115_Name	Venusaur
 P116_Name	Arbok
 P117_Name	Sandshrew
+P118_Name	Diglett
+P119_Name	Psyduck
+P120_Name	Koffing
 P121_Name	Kangaskhan
+P122_Name	Gyarados
 P123_Name	Mew
 P124_Name	Ledian
+P125_Name	Cleffa
+P126_Name	Ursaring
 P127_Name	Tyranitar
+P128_Name	Swalot
 P129_Name	Trapinch
+P130_Name	Tropius
 P131_Name	Swampert
 P132_Name	Shinx
+P133_Name	Gliscor
+P134_Name	Tepig
+P135_Name	Drilbur
+P136_Name	Scolipede
+P137_Name	Crustle
 P138_Name	Heliolisk
+P139_Name	Rockruff
+P140_Name	Salazzle
 P141_Name	Minior
+P142_Name	Zeraora
 P143_Name	Rattata
 P144_Name	Sandslash
 P145_Name	Vulpix
@@ -4223,6 +4644,7 @@ P047_Weight_00	19.2 lbs.
 P048_Weight_00	87.1 lbs.
 P049_Weight_00	463 lbs.
 P050_Weight_00	264.6 lbs.
+P051_Weight_00	195.8 lbs.
 P052_Weight_00	12.8 lbs.
 P053_Weight_00	287.7 lbs.
 P054_Weight_00	195.8 lbs.
@@ -4244,6 +4666,7 @@ P069_Weight_00	46.3 lbs.
 P070_Weight_00	63.9 lbs.
 P071_Weight_00	286.6 lbs.
 P072_Weight_00	55.1 lbs.
+P073_Weight_00	1,014.1 lbs.
 P074_Weight_00	???.? lbs.
 P075_Weight_00	59.5 lbs.
 P076_Weight_00	46.7 lbs.
@@ -4254,6 +4677,7 @@ P080_Weight_00	62.8 lbs.
 P081_Weight_00	5.1 lbs.
 P082_Weight_00	61.7 lbs.
 P083_Weight_00	88.8 lbs.
+P084_Weight_00	9.9 lbs.
 P085_Weight_00	115.7 lbs.
 P086_Weight_00	12.1 lbs.
 P087_Weight_00	683.4 lbs.
@@ -4265,6 +4689,7 @@ P092_Weight_00	56.2 lbs.
 P093_Weight_00	33.1 lbs.
 P094_Weight_00	3.1 lbs.
 P095_Weight_00	4.6 lbs.
+P096_Weight_00	2.2 lbs.
 P097_Weight_00	208.6 lbs.
 P098_Weight_00	7.7 lbs.
 P099_Weight_00	51.8 lbs.
@@ -4287,16 +4712,32 @@ P114_Weight_00	8.8 lbs.
 P115_Weight_00	220.5 lbs.
 P116_Weight_00	143.3 lbs.
 P117_Weight_00	26.5 lbs.
+P118_Weight_00	1.8 lbs.
+P119_Weight_00	43.2 lbs.
+P120_Weight_00	2.2 lbs.
 P121_Weight_00	176.4 lbs.
+P122_Weight_00	518.1 lbs.
 P123_Weight_00	8.8 lbs.
 P124_Weight_00	78.5 lbs.
+P125_Weight_00	6.6 lbs.
+P126_Weight_00	277.3 lbs.
 P127_Weight_00	445.3 lbs.
+P128_Weight_00	176.4 lbs.
 P129_Weight_00	33.1 lbs.
+P130_Weight_00	220.5 lbs.
 P131_Weight_00	180.6 lbs.
 P132_Weight_00	20.9 lbs.
+P133_Weight_00	93.7 lbs.
+P134_Weight_00	21.8 lbs.
+P135_Weight_00	18.7 lbs.
+P136_Weight_00	442 lbs.
+P137_Weight_00	440.9 lbs.
 P138_Weight_00	46.3 lbs.
+P139_Weight_00	20.3 lbs.
+P140_Weight_00	48.9 lbs.
 P141_Weight_00	88.2 lbs.
 P141_Weight_01	0.7 lbs.
+P142_Weight_00	98.1 lbs.
 P143_Weight_00	7.7 lbs.
 P144_Weight_00	121.3 lbs.
 P145_Weight_00	21.8 lbs.
@@ -4443,6 +4884,7 @@ ProfileIcon045_Name	Todd
 ProfileIcon046_Name	Todd (Smiling)
 ProfileIcon047_Name	Todd (Heart-Eyes)
 ProfileIcon048_Name	Todd (Surprised)
+ProfileIcon049_Name	Captain Vince
 ProfileIcon050_Name	Type: Normal
 ProfileIcon051_Name	Type: Fire
 ProfileIcon052_Name	Type: Water
@@ -4461,9 +4903,12 @@ ProfileIcon064_Name	Type: Dragon
 ProfileIcon065_Name	Type: Dark
 ProfileIcon066_Name	Type: Steel
 ProfileIcon067_Name	Type: Fairy
+ProfileIcon068_Name	Flower Field (Day)
+ProfileIcon069_Name	Flower Field (Night)
 ProfileIcon070_Name	Lake
 ProfileIcon071_Name	Mountains
 ProfileIcon072_Name	Jungle
+ProfileIcon073_Name	River
 ProfileIcon074_Name	Foggy Forest
 ProfileIcon075_Name	Spring Blossoms
 ProfileIcon076_Name	Summer Bamboo
@@ -4476,6 +4921,7 @@ ProfileIcon082_Name	Undersea
 ProfileIcon083_Name	Desert
 ProfileIcon084_Name	Oasis
 ProfileIcon085_Name	Shooting Star
+ProfileIcon086_Name	Badlands
 ProfileIcon087_Name	Volcano
 ProfileIcon088_Name	Icy Cave
 ProfileIcon089_Name	Aurora
@@ -4584,6 +5030,7 @@ Reward020_Reward_Info	You discovered {color[0000]}summer {color[ffff]}in {color[
 Reward021_Reward_Info	You discovered {color[0000]}autumn {color[ffff]}in {color[0000]}Elsewhere Forest{color[ffff]}.
 Reward022_Reward_Info	You discovered {color[0000]}winter {color[ffff]}in {color[0000]}Elsewhere Forest{color[ffff]}.
 Reward023_Reward_Info	You {color[0000]}maxed out{color[ffff]} your research level for {color[0000]}{[0301|00cd]}{color[ffff]}.
+Reward101_Reward_Info	You read the update notification.
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	Heeey! Over here!
 SD_01_01_cs_002	Greetings.
@@ -5323,6 +5770,11 @@ VC_005_1A_e01_001	Hey, good eye! Now we can get a closer\nlook at those swamp Po
 VC_005_1A_e02_001	Wow, you can get behind the waterfall!\nI wonder what it’s like back there!
 VC_005_1B_s00_001	It’s pretty dark out there. You might\nhave a hard time finding Pokémon.
 VC_005_1B_s00_002	Look for a glowing {color[0000]}crystabloom{color[ffff]}\nfor me, would you?
+VC_005_2A_s00_001	This stream is a tributary.
+VC_005_2A_s00_002	It’ll take you to the main river.
+VC_005_2A_e01_001	Oh, you found a new route! Hey, are\nthe rocks in that cave...glowing?
+VC_005_2B_s00_001	This should be just enough light\nto snap some good shots!
+VC_005_2B_s00_002	There’s bound to be a lot of Pokémon\nif you look carefully!
 VC_006_1A_s00_001	That’s some thick fog.
 VC_006_1A_s00_002	Our connection seems a little\nspotty, too. Be careful!
 VC_006_1A_e00_001	Doesn’t this flower only bloom in spring?\nI’m confused—did the season change?
@@ -5364,6 +5816,11 @@ VC_007_1A_s00_002	I imagine Pokémon live differently\nhere than on the other is
 VC_007_1A_e01_001	Wait, where’d the Pokémon from before go?\nOh well—now’s your chance to get farther in!
 VC_007_1B_s00_001	The stars are breathtaking.
 VC_007_1B_s00_002	I suppose the sky is clearer at\nnight than during the day.
+VC_007_2A_s00_001	Well, this is certainly a big\nchange from the desert.
+VC_007_2A_s00_002	Look! Already there are Pokémon\nyou haven’t encountered yet.
+VC_007_2A_e00_001	Are you OK?! It looked like the NEO-ONE\njust jumped up into the air!
+VC_007_2B_s00_001	It seems like some Pokémon come out\nat night to avoid the daytime heat.
+VC_007_2B_s00_002	Maybe you can find them\nout relaxing.
 VC_008_1A_s00_001	Seems sweltering hot out there.\nIs that a hot spring?
 VC_008_1A_s00_002	You’ll be able to see the volcano\nup ahead.
 VC_008_1A_e00_001	The professor says he’s picking up\na weird reading from in there.
@@ -5415,6 +5872,17 @@ VC_011_3A_e00_002	Too bad you couldn’t get a shot of Xerneas in its\n{color[00
 VC_011_3A_e01_001	What would happen if you hit that\nglow with an Illumina orb?
 VC_011_3A_e01_002	An Illumina orb might be able to\nenergize Xerneas.
 VC_011_3A_e01_003	Once its glowing pattern appears,\nthat’s your cue to start snapping!
+VC_001_2A_e00_001	There! That’s it!
+VC_001_2A_e00_002	The monitor says you can get\nthrough there!
+VC_001_2A_e00_003	Time to see a whole new world\nof Pokémon!
+VC_001_2A_s00_001	Awesome!\nThe shrink function worked!
+VC_001_2A_s00_002	I’ll keep an eye out for you.\nHave fun in there!
+VC_001_2A_e01_001	This is as far as we can go with\nthis test version.
+VC_001_2A_e01_002	Once you leave this area, you’ll\nautomatically go back to normal.
+VC_001_2A_e01_003	Can’t wait to hear all about it!
+VC_001_2A_e02_001	I didn’t know you could get in there!\nI wonder where it leads.
+VC_001_2B_s00_001	Taking the shrink function for\na nighttime test run, huh?
+VC_001_2B_s00_002	Mirror really outdid himself with\nthis invention.
 VC_Com_StartChange_001	Hmmm. Is it just me, or do things seem\na little different this time around?
 VC_Com_StartChange_002	You might discover something\nnew here.
 VC_Com_StartChange_003	It’s looking a little different from\nthe last time you came here.
@@ -5488,6 +5956,7 @@ VC_Com_Praise2_006	Man! You always get the\nbest shots!
 VC_Com_SearchAnalysis_001	It doesn’t look like it was cooked over a fire...\nCan you guess which Pokémon did this?
 VC_Com_SearchAnalysis_002	Is something sleeping\nunder there?
 VC_Com_SearchAnalysis_003	That’s one of the ancient ruins.
+VC_Com_SearchAnalysis_004	How do we get over there?
 VC_Com_SearchAnalysis_006	I bet there’s a Pokémon\nthat loves stuff like that!
 VC_Com_SearchAnalysis_007	What a beautiful singing voice...\nI can’t stop listening to it.
 VC_Com_SearchAnalysis_008	Cool! I wonder what kind\nof Pokémon did that.
@@ -5497,10 +5966,14 @@ VC_Com_SearchAnalysis_011	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_012	If only we could get over there! Think\nany Pokémon could break that down?
 VC_Com_SearchAnalysis_013	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_014	If only that Liepard would\nmove out of the way...
+VC_Com_SearchAnalysis_015	Whoa! What kinda Pokémon\ndo you think did THAT?
+VC_Com_SearchAnalysis_016	Did you see something\norange over there?
 VC_Com_SearchAnalysis_017	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_018	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_019	All right! Let’s keep\nlooking around!
 VC_Com_SearchAnalysis_020	Hm? I think I saw something\nmove in there.
+VC_Com_SearchAnalysis_022	That looks somewhat recent...\ndoesn’t it?
+VC_Com_SearchAnalysis_023	Wait—all these holes were\nmade by a Pokémon?
 VC_Com_SearchAnalysis_024	That explains the Aerodactyl...
 VC_Com_SearchAnalysis_025	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_026	That’s one of the ancient ruins.
@@ -5513,6 +5986,10 @@ VC_Com_SearchAnalysis_035	That’s one of the ancient ruins.
 VC_Com_SearchAnalysis_036	So energy from all of the islands\ngathers here?
 VC_Com_SearchAnalysis_037	Are the crystablooms we saw on each island\nsomehow connected to the statue?
 VC_Com_SearchAnalysis_038	So that missing piece in the\ncenter was Xerneas...
+VC_Com_PhotoLimit_011	Careful! You’re low on memory!
+VC_Com_SoonEnd_011	You’re almost done!
+VC_Com_PhotoLimitZero01_011	Oh, you ran out of memory. But it’s your first\ntime here, so let’s keep going until the end!
+VC_Com_SearchAnalysis_101	You don’t suppose a fluffruit would be\nenough to make it budge, do you?
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	Hi there! I’m glad you made it.
 SD_01_02_sk_015	Welcome to the {color[0000]}Laboratory of Ecology and Natural\nSciences{color[ffff]}—or {color[0000]}L.E.N.S.{color[ffff]} for short!
@@ -6045,6 +6522,61 @@ CI_101_0A_01_009	Oooh, I’ll have to give it a try later, then!
 CI_101_0A_01_010	Sounds good. Just choose the {color[0000]}icon in the upper left{color[ffff]} of\nthe research camp menu to start.
 CI_101_0A_01_011	Being more deeply attuned to everything happening right\naround you will make you a better photographer.
 CI_101_0A_01_012	Anyway, have fun and take all the photos you like!
+CI_001_2A_00_001	Hey, I gotta tell you something.
+CI_001_2A_00_002	This is just between you and me, OK?
+CI_001_2A_00_003	You’re not gonna believe this new feature for the\nNEO-ONE the professor’s testing out...
+CI_001_2A_00_004	Apparently it {color[0000]}shrinks{color[ffff]} the whole pod and whoever’s\nriding in it!
+CI_001_2A_00_005	Wanna take it for a quiet little test run?
+CI_001_2A_00_006	Well, hey, you two! Whatcha doing?
+CI_001_2A_00_007	Nothin’.
+CI_001_2A_00_008	Yeah? Hmmm... Oh, Professoooor—!
+CI_001_2A_00_009	Hey! Cut it out!
+CI_001_2A_00_010	Look, I’ll explain later, OK?
+CI_001_2A_00_011	Hee hee. Works for me!
+CI_001_2A_00_012	Anyway, the shrink function should kick in automatically\nif you run a {color[0000]}scan{color[ffff]} at this one spot in the {color[0000]}nature park{color[ffff]}.
+CI_001_2A_00_013	So let’s find that spot!
+CI_001_2A_01_001	Just a second, you three!
+CI_001_2A_01_002	What were you thinking? That shrink function is still in\ntesting. You should have asked me first!
+CI_001_2A_01_003	Aw, man! Our cover got blown already?
+CI_001_2A_01_004	S-sorry, Professor.
+CI_001_2A_01_005	Yeah, I’m sorry, too, Professor.
+CI_001_2A_01_006	Can’t we cut them a little slack? Think of all the\nsights we never would’ve gotten to see otherwise!
+CI_001_2A_01_007	Hang on, Todd. Did you know they were up to this?
+CI_001_2A_01_008	I...might have. Sorry about that.
+CI_001_2A_01_009	Hmmm...
+CI_001_2A_01_010	Look—just remember that the shrink function isn’t fully\ntested yet.
+CI_001_2A_01_011	It’s for the {color[0000]}nature park{color[ffff]} only. You won’t be able to use it\nanywhere else. All right?
+CI_001_2A_01_012	Got it.
+CI_001_2A_01_013	Yes, Professor.
+UD_01_01_sk_001	Professor! You look really happy—did something\ngood happen?
+UD_01_01_sk_002	Oh, there you are! Excellent timing.
+UD_01_01_sk_003	You see, I was reexamining the results of our survey\nso far.
+UD_01_01_sk_004	And I found new teleportation points!
+UD_01_01_sk_005	One of them is near the jungle on {color[0000]}Belusylva Island{color[ffff]}. The\nother is on {color[0000]}Voluca Island{color[ffff]}, just beyond the desert.
+UD_01_01_sk_006	Awesome! But haven’t we already researched\nthose islands?
+UD_01_01_sk_007	That’s the exciting thing about research like this. You\ncan discover something new every day!
+UD_01_01_sk_008	I’d imagine the ecosystems on the same island would be\nsimilar to each other, but you never know...
+UD_01_01_sk_009	Well, we’ll be the ones looking into it!
+UD_01_01_sk_010	That’s right. I’m counting on you!
+UD_01_01_sk_011	I’ve heard one of these places might be a bit nostalgic\nfor me.
+UD_01_01_sk_012	I think this will turn out to be a really fun expedition.
+UD_01_01_sk_013	All right! I’m gonna take a ton of photos there, too!
+UD_01_02_sk_001	How was your ride down the river? It seemed like quite\nan adventure!
+UD_01_02_sk_002	Just watching you really brought me back.
+UD_01_02_sk_003	It seriously freaked me out when the NEO-ONE suddenly\njust dropped!
+UD_01_02_sk_004	What do you say to trying out the {color[0000]}river at night{color[ffff]} next?
+UD_01_02_sk_005	The professor’s already approved it!
+UD_01_02_sk_006	We’re gonna fall down that waterfall in the dark?
+UD_01_02_sk_007	Th-that’s fine! Not like I’m scared or anything!
+UD_01_03_sk_001	You know that swamp we found in the badlands, with all\nthat green gas?
+UD_01_03_sk_002	Apparently it’s poisonous gas! Right, Professor?
+UD_01_03_sk_003	Yes, it is.
+UD_01_03_sk_004	It’s perfectly safe inside the NEO-ONE, but it does appear\nto be an extremely toxic gas. 
+UD_01_03_sk_005	It’s interesting to think that some Pokémon actually\nprefer living in a place like that.
+UD_01_03_sk_006	And now...
+UD_01_03_sk_007	We can go there at night now, right?
+UD_01_03_sk_008	You guessed it. Be sure to do some really thorough\nresearch while you’re there!
+UD_01_03_sk_009	Of course! Let’s go right away!
 Search_Info.msbt
 Search_Flower01_001	A crystabloom that grows\non Florio Island. It’s giving\noff a blue glow.
 Search_Flower01_002	A crystabloom that grows\non Florio Island.
@@ -6062,9 +6594,16 @@ Search_001_1_A_001	Some charred fruits on the\nground. Did a Pokémon\ndo this?
 Search_001_1_A_002	This fruit grows in Lental.\nTangrowth love them.
 Search_001_1_A_003	Hoothoot has an unusual\nway of sleeping—always\non one foot.
 Search_001_1_AB_001	It looks like the Bidoof\nhave finished building\ntheir dam.
+Search_001_1_AB_003	The hole at the base of\nthis tree appears to\nlead somewhere.
 Search_001_1_B_001	Noises are coming from\nthis unnatural bump in\nthe ground.
 Search_001_1_B_003	Something is moving in the\nfield of flowers.
 Search_001_1_C_002	Remnants of ruins found\nall over Lental—key clues\nto uncovering its history.
+Search_001_2_A_001	Loud snoring sounds can\nbe heard. It looks like you\ncan go through here.
+Search_001_2_A_002	A bird Pokémon’s nest.\nMaybe its owner is out\nlooking for food.
+Search_001_2_AB_001	Heavy snores echo\nfrom within.
+Search_001_2_B_001	It sounds like many\ndifferent Pokémon are\nsleeping nearby.
+Search_001_2_B_002	Something’s sticking out\nof the ground. It sounds\nlike it’s snoring.
+Search_001_2_B_003	Something—possibly\nfood—is in the nest.
 Search_003_1_A_001	Something seems to be\nhiding in the grass.
 Search_003_1_A_002	Something appears to be\nburied in the sand.
 Search_003_1_A_003	A red shovel. Was it\nwashed up here by\nthe waves?
@@ -6092,6 +6631,11 @@ Search_005_1_AB_005	It looks like there’s a way\nto get behind the waterfall.
 Search_005_1_AB_006	It looks like you can get\nbehind the waterfall from\nhere and continue on.
 Search_005_1_B_001	An empty web. Its owner\nmay be nearby.
 Search_005_1_B_002	You sense a mysterious\npresence somewhere in\nthe area.
+Search_005_2_A_002	Water flows from a hole in\nthe wall.
+Search_005_2_AB_001	Ursaring claw marks.\nThis is how it marks\nits territory.
+Search_005_2_AB_002	A large Pokémon scaled\nthis waterfall, leaving deep\ngouges in the stones.
+Search_005_2_B_001	There appears to be a\ncave behind those\nhanging plants.
+Search_005_2_B_002	It looks like there’s\nsomething behind\nthe waterfall.
 Search_006_1_A_001	A stone floats in the\nair, suspended by an\nunseen power.
 Search_006_1_A_002	This Trevenant seems less\nwary around you now. You\ncan probably go past it.
 Search_006_1_A_003	Unfezant is doing an\nexcellent job guarding\nits nest.
@@ -6109,6 +6653,12 @@ Search_007_1_A_006	Silicobra might still\nbe nearby.
 Search_007_1_AB_002	A hole formed by wind\nerosion. It has since\nbecome a Pokémon’s den.
 Search_007_1_B_002	Something is buried in\nthe sand.
 Search_007_1_B_004	It’s impossible to see\nwhat’s happening beyond\nthe sandstorm.
+Search_007_2_A_001	This bubbling water\nseems to be connected\nto another geyser.
+Search_007_2_A_002	Something must have\nlanded here to form this\nlarge crater.
+Search_007_2_B_001	The valley is sparkling\nwith Vivillon scales.
+Search_007_2_AB_001	There are signs of\nPokémon living in this\nsmall hole.
+Search_007_2_AB_002	Onix burrowed all the\nholes in this cliff face.
+Search_007_2_B_002	This hole spouts noxious\ngas. Poisonous liquid is\npooled around it.
 Search_008_1_A_001	You can hear some happy\nhumming sounds.
 Search_008_1_A_002	Several large pieces of\namber are embedded in\nthe wall.
 Search_008_1_A_003	The wall has collapsed.\nYou can’t go this way.
@@ -6149,6 +6699,11 @@ Search_101_1_A_006	There’s something in\nthe grass.
 Search_101_1_A_008	The second floor of the lab\nserves as the professor’s\nliving space.
 Search_101_1_A_011	You can hear something\nsleeping under the floor.
 Search_Tu_001	The NEO-ONE. This vehicle\nis essential for your\nPokémon research.
+Search_007_2_AB_003	Chemicals from the poison\nswamp have crystallized\nover many long years.
+Search_007_2_AB_004	Strong poisonous gas and\nliquid is spilling out from\na huge boulder.
+Search_007_2_A_005	A sweet scent seems to be\ncoming from the sand\naround here.
+Search_007_2_AB_005	An unstable rock. It looks\nlike it might fall if it's hit\nwith enough force.
+Search_007_2_AB_006	A bird Pokémon’s nest.\nIt’s made of all sorts of\nmaterials. 
 Stickers_Info.msbt
 Stickers001_Reward_Info	Registered every species of Pokémon on\n{color[0000]}Florio Island{color[ffff]} to your Photodex.
 Stickers002_Reward_Info	Registered every species of Pokémon on\n{color[0000]}Belusylva Island{color[ffff]} to your Photodex.
@@ -6157,12 +6712,6 @@ Stickers004_Reward_Info	Registered every species of Pokémon on\n{color[0000]}Vo
 Stickers005_Reward_Info	Registered every species of Pokémon on\n{color[0000]}Durice Island{color[ffff]} to your Photodex.
 Stickers006_Reward_Info	Registered every species of Pokémon on\n{color[0000]}Aurus Island{color[ffff]} to your Photodex.
 Stickers_Name.msbt
-Stickers001_Name	Research Sticker
-Stickers002_Name	Research Sticker
-Stickers003_Name	Research Sticker
-Stickers004_Name	Research Sticker
-Stickers005_Name	Research Sticker
-Stickers006_Name	Research Sticker
 TipsComNavi_Lines.msbt
 NH_Chat_001	Heading out to take some photos? I look forward\nto seeing what kind of shots you get!
 NH_Chat_002	Hello there. Here to check out\nsome research data? Go ahead!
@@ -6270,12 +6819,18 @@ NH_Tips_021	{color[0000]}Aurus Island{color[ffff]} is full of mysteries.\nIt con
 NH_Tips_022	Pokémon charged with guarding ancient ruins?\nTalk about a subject I’d love to photograph...
 NH_Tips_023	{color[0000]}Florio Nature Park{color[ffff]} is open to the public, so most of the\nPokémon there are used to being around people.
 NH_Tips_024	Whenever I think of the {color[0000]}nature park{color[ffff]}, the first thing that\nsprings to mind is Bidoof! I love how laid-back they are.
+NH_Tips_025	When you start this course, you’ll already be\nshrunk down to size, so don’t be alarmed!
+NH_Tips_026	It’s so cool that we can shrink!\nLet’s go back there again sometime, OK?
 NH_Tips_027	You’ll be working amid very thick greenery in {color[0000]}Founja Jungle{color[ffff]}.\nDo your best to get clear shots of Pokémon!
 NH_Tips_028	Sometimes, if you look carefully at the trees...ta-da! \nA Pokémon will show itself! It’s always fun when that happens!
+NH_Tips_029	At {color[0000]}Mightywide River{color[ffff]}, people tend to search the rocky areas for Pokémon, \nbut don’t forget to check what’s swimming in the river, too!
+NH_Tips_030	Taking photos while you’re riding downriver can be tough. You might have an\neasier time if you plan where you’ll be looking beforehand.
 NH_Tips_031	In {color[0000]}Elsewhere Forest{color[ffff]}, it seems like you’re always just a step away from getting\nturned around and completely off track...
 NH_Tips_032	I haven’t explored this course much...\nIt’s not ’cause I’m scared, though!
 NH_Tips_033	It’s remarkable that Pokémon can live in harsh\nenvironments like the {color[0000]}Sweltering Sands{color[ffff]}!
 NH_Tips_034	It’s hot in the {color[0000]}desert{color[ffff]}, so be careful! Well, if you’re\nin the NEO-ONE, I guess you should be fine.
+NH_Tips_035	The rock cliffs surrounding the {color[0000]}Barren Badlands{color[ffff]}\nare home to certain Pokémon.
+NH_Tips_036	I’d love to snap a picture of the natural\nphenomena that shaped this terrain!
 NH_Tips_037	The environment around {color[0000]}Fireflow Volcano{color[ffff]} has remained\nvirtually unchanged since the prehistoric era.
 NH_Tips_038	There’s a whole bunch of volcanoes here\nof all different sizes all stuck together!
 NH_Tips_039	{color[0000]}Blushing Beach{color[ffff]} is so nice and warm,\nand the sea breeze feels great.
@@ -6381,6 +6936,8 @@ NH_Sugg_048	Could you take another pass through the {color[0000]}Ruins of Rememb
 NH_Sugg_049	See if you can get a shot of a glowing\n{color[0000]}crystabloom {color[ffff]}at the {color[0000]}ruins{color[ffff]}.
 NH_Sugg_050	Let’s head to {color[0000]}Aurus Island{color[ffff]} and see the final {color[0000]}Illumina Pokémon{color[ffff]}!\nIt should be at the {color[0000]}Illumina spot{color[ffff]} in the {color[0000]}Ruins of Remembrance{color[ffff]}!
 NH_Sugg_051	Head to {color[0000]}Aurus Island{color[ffff]}’s{color[0000]} Illumina spot{color[ffff]}, and get a photo\nof {color[0000]}Xerneas {color[ffff]}when its glowing pattern appears!
+NH_Sugg_101	Let’s go to {color[0000]}the nature park during the day{color[ffff]} and\ntry out the NEO-ONE’s shrink function!
+NH_Sugg_102	I’m pretty sure you can try out the NEO-ONE’s shrink\nfunction at {color[0000]}the nature park during the day{color[ffff]}, right?
 TipsLoading_Head.msbt
 LT_Tips_001_Head	Professor Mirror
 LT_Tips_002_Head	Rita
@@ -7175,6 +7732,69 @@ Mis_Stage101_171_01_Info2	Yeah, this is perfect! I bet the\nprofessor was shocke
 Mis_Stage101_174_01_Head	A Cheeky Pose
 Mis_Stage101_174_01_Info1	Hey, I just saw a Cutiefly make\nthe cutest pose! But it’s such a\ntiny Pokémon, I can’t get a good\npicture...
 Mis_Stage101_174_01_Info2	Thank you so much! Isn’t that\njust the cutest thing you’ve\never seen?
+Mis_Stage012_073_01_Head	Snorlax Dash
+Mis_Stage012_073_01_Info1	Snorlax usually seems to laze\naround, but you’d be amazed\nhow it can move when it runs!
+Mis_Stage012_073_01_Info2	I knew you could get the shot!\nThat sure is surprising\ncompared to its usual behavior!
+Mis_Stage012_084_01_Head	Dancing Trio
+Mis_Stage012_084_01_Info1	Phil said he saw three\nShroomish dancing together, but\nI’m pretty sure I’ve only ever\nseen one!
+Mis_Stage012_084_01_Info2	Wow, there really are three of\nthem dancing! I guess they have\nmore fun dancing in a group.
+Mis_Stage012_096_01_Head	The Parachute
+Mis_Stage012_096_01_Info1	I bet getting a shot of Foongus\nwhen they’re floating down from\nthe air would be worth the effort!\nWhy don’t you give it a try?
+Mis_Stage012_096_01_Info2	Nice one! They look a bit like a\nparachute, don’t they? How fun!
+Mis_Stage013_051_01_Head	Diving Spot
+Mis_Stage013_051_01_Info1	Phil said the NEO-ONE suddenly\nshifted course around here, and\nhe also heard a loud noise. I\nwonder if something fell!
+Mis_Stage013_051_01_Info2	So it was Feraligatr! I see now\nwhy the NEO-ONE tried to dodge\nthat! What a great shot!
+Mis_Stage013_119_01_Head	Psychic Sidekick
+Mis_Stage013_119_01_Info1	Hey, you gotta hear this! I saw\nMagikarp floating in the air, but\nit definitely wasn’t using Splash!\nI wonder what that was\nall about.
+Mis_Stage013_119_01_Info2	Huh, so Psyduck was helping\nit out by using Psychic? What\na good friend.
+Mis_Stage013_122_01_Head	Lurking in the Water
+Mis_Stage013_122_01_Info1	See that gash in that rocky cliff?\nI’m guessing an awfully large\nPokémon must have had\nsomething to do with it!\nCould you look into it for me?
+Mis_Stage013_122_01_Info2	Thanks! So Gyarados is so\npowerful that it changed the\ntopography of the area? \nPokémon sure are amazing! 
+Mis_Stage013_125_01_Head	Cleffa’s Training
+Mis_Stage013_125_01_Info1	I can tell they’re practicing\nsomething, but I think they’re\nhaving a hard time. Let’s keep\nwatching over them and cheer\nthem on until they succeed!
+Mis_Stage013_125_01_Info2	Yay! They did it! I wonder if it’s\nthanks to your support!
+Mis_Stage013_126_01_Head	Majestic Ursaring
+Mis_Stage013_126_01_Info1	I got this shot of Ursaring\nhunting for Magikarp! I know \nI was just moments away from\ngetting a great shot!
+Mis_Stage013_126_01_Info2	Wait, what?! So Magikarp got one\nover on Ursaring? Seriously?!
+Mis_Stage013_130_01_Head	Overhead Friend
+Mis_Stage013_130_01_Info1	I’m pretty sure when Tropius\nwas flying, it was giving a\nsmaller Pokémon a ride, too.\nI bet it must be one of its friends!
+Mis_Stage013_130_01_Info2	Wow, thanks for getting that!\nTropius and Wooper look like\nthey’re having so much fun!
+Mis_Stage013_135_01_Head	Drilbur Propeller
+Mis_Stage013_135_01_Info1	Drilbur dig underground at\nextremely high speeds. Maybe\nyou can snap a shot of one the\nmoment it jumps out from\nthe wall. 
+Mis_Stage013_135_01_Info2	Hey, good one! It almost looks\nlike it’s flying!
+Mis_Stage015_034_01_Head	Valley of Vivillon
+Mis_Stage015_034_01_Info1	We found some Vivillon scales\nhere from a Vivillon form I\ndidn’t expect to see in this\nclimate. Can you check it out?
+Mis_Stage015_034_01_Info2	It seems these Vivillon were so\nattracted by the energy of this\nvalley, they traveled across the\nsea to come here! Fascinating!
+Mis_Stage015_118_01_Head	Let’s Play!
+Mis_Stage015_118_01_Info1	Diglett doesn’t seem interested\nin eating my fluffruit. Maybe it’s\nnot hungry... But we can toss a\nfew more to it, just in case!
+Mis_Stage015_118_01_Info2	Oh wow! Look at how much fun\nthey’re having! I guess they were\nmore in the mood to play.
+Mis_Stage015_120_01_Head	Gigantic Koffing
+Mis_Stage015_120_01_Info1	Guess what! I saw a Koffing that\nwas, like, ridiculously huge!\nI could’ve gotten a shot of it if I\nhadn’t freaked out and dropped\nmy camera!
+Mis_Stage015_120_01_Info2	Yeah, that’s the one! It’s even\nbigger than when I saw it!\nWait... What if it explodes?!
+Mis_Stage015_128_01_Head	Open Wide!
+Mis_Stage015_128_01_Info1	I heard a really loud noise, then\nsaw Koffing blasting away! I \nwonder what happened!
+Mis_Stage015_128_01_Info2	What?! Swalot was trying to\neat it?! Oh, I get it. The Koffing\nI saw before had probably just\nbeen spat out!
+Mis_Stage015_133_01_Head	Sleepy Gliscor
+Mis_Stage015_133_01_Info1	I saw a Gliscor yawning! I never\nsee ’em during the day, so I\nthought that’s probably when\nthey sleep... But if that’s the\ncase, why’d it look so sleepy?
+Mis_Stage015_133_01_Info2	Wait, so it was just Vivillon\nmaking it sleepy? I guess it\nwasn’t sleeping in after all. 
+Mis_Stage015_134_01_Head	A Brave Leap
+Mis_Stage015_134_01_Info1	I thought this might be\ndangerous at first, but then\nI realized that Tepig can\nprobably make the jump! You\nshould cheer it on, too!
+Mis_Stage015_134_01_Info2	Yay, it jumped! The professor\nsure wasn’t kidding when he\nsaid Tepig has an impressive\njump! Thanks for getting that!
+Mis_Stage015_136_01_Head	Gassy Swamp Battle
+Mis_Stage015_136_01_Info1	Heh, I saw something awesome!\nEven though its opponent was\nmidair, that Scolipede launched\nan amazing attack!
+Mis_Stage015_136_01_Info2	That’s it! How cool is that? I’m\ngonna be the one to snap it next\ntime, so...gotta go! I’m heading\nback out to the Barren Badlands!
+Mis_Stage015_137_01_Head	Crust-side Down
+Mis_Stage015_137_01_Info1	That boulder Crustle carries on\nits back is solid and has quite a\nbit of weight. I imagine it’d be\ntough for it to right itself if it’s\never flipped on its back.
+Mis_Stage015_137_01_Info2	Wow, look at that! It must be\nsuper strong to get back on its\nfeet like that!
+Mis_Stage015_139_01_Head	Guardian of Friends
+Mis_Stage015_139_01_Info1	Rockruff may be small, but\nthey’re very brave. They protect\ntheir friends in times of need.
+Mis_Stage015_139_01_Info2	Oh, that’s some great timing!\nLooks like it was a sticky\nsituation, but you got a great\nshot of Rockruff being brave!
+Mis_Stage015_140_01_Head	An Alluring Pose
+Mis_Stage015_140_01_Info1	Phil reported in his research\nthat Salazzle strike a unique\npose after they finish dancing.\nMind looking into that?
+Mis_Stage015_140_01_Info2	Yup, that’s the pose I was talking\nabout! I wonder if it’s trying to\nlure something closer to it!
+Mis_Stage015_142_01_Head	Illusion of the Badlands
+Mis_Stage015_142_01_Info1	I hear that Zeraora sometimes\nchanges something about its\nappearance. Could you get a\npicture of that for me?
+Mis_Stage015_142_01_Info2	Thanks! It must be circulating\nthat electric energy all around\nits body! Fascinating!
 TipsSns_UI.msbt
 Sns_Head	LenTalk
 Sns_MissionAllList_Tx	All Requests

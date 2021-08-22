@@ -7,7 +7,6 @@ C003_Professor	カガミ博士
 C004_FriendBoy	フィル
 C005_FriendGirl	リタ
 C006_Photographer	トオル
-C007_Adventurer	ビクトル
 Collection_Info.msbt
 Flower001_Info	フロレオ島の　クリスタフラワーだね。\n研究機構のマークは　この花が\nモチーフに　なっているんだよ。\n最近　光る仕組みを　解明した\nばかりで　まだ　謎が多いんだ。
 Flower002_Info	ベラス島の　クリスタフラワーだね。\nふわりんごに　似ている\n甘い香りが　特徴だよ。\nポケモンたちも　思わず\nウットリしてしまうんだ。
@@ -208,6 +207,12 @@ ComWindow082_Select1	OK
 ComWindow083_Info	オンラインのマイページに　アップロードしますか？\n\nりんごメダルの枚数は　リセットされます。\n{color[0800]}りんごメダルをもらった数の　総数は　減りません{color[ffff]}
 ComWindow083_Select1	はい
 ComWindow083_Select2	いいえ
+ComWindow101_Info	{color[0800]}アップデートの　お知らせ{color[ffff]}{[0004]}「新エリアの　追加」\nカクレ抜け道（昼・夜）\nヨーヨーリバー（昼・夜）\nカラリ荒野（昼・夜）\n{color[0800]}開放条件を　満たす必要が　あります{color[ffff]}{[0004]}「各種コンテンツの　追加」\nフィルタ　／　スタンプ　／　フレーム\nプロフィールアイコン　／　調査称号\n{color[0800]}一部は　条件を　満たす必要が　あります{color[ffff]}{[0004]}「コンプリート条件の　変更」\nコンテンツの　コンプリート条件が\n一部　変更されました。{[0004]}追加された　エリアでは\n新たなポケモンとの　出会いが　待っています。\n引き続き　レンティル地方の\n調査を　お楽しみください。
+ComWindow101_Select1	次へ
+ComWindow101_Select2	OK
+ComWindow102_Info	本当に　ベースキャンプに　戻りますか？\n{color[0800]}撮影した写真は　なくなります{color[ffff]}
+ComWindow102_Select1	はい
+ComWindow102_Select2	いいえ
 EvaluationPhotoCaption_Info.msbt
 EV_Mot_Unknown_01_PCap	？？？
 EV_Mot_Unknown_02_PCap	？？？
@@ -256,6 +261,7 @@ EV_Mot_Sp_P006_01_PCap	ハイタッチ！
 EV_Mot_Sp_P006_02_PCap	おしゃれしててカワイイ！
 EV_Mot_Sp_P006_04_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P006_05_PCap	やったー！
+EV_Mot_Sp_P006_06_PCap	おなかのベッド
 EV_Mot_Sp_P007_01_PCap	そらをめざして
 EV_Mot_Sp_P007_02_PCap	ハデにとうじょう！
 EV_Mot_Sp_P007_03_PCap	いかくちゅう
@@ -338,12 +344,15 @@ EV_Mot_Sp_P046_02_PCap	きょうみしんしん
 EV_Mot_Sp_P047_01_PCap	おやすみタイム
 EV_Mot_Sp_P047_02_PCap	よつばのクローバー
 EV_Mot_Sp_P048_01_PCap	ナイスキャッチ！
-EV_Mot_Sp_P048_02_PCap	いかくちゅう
 EV_Mot_Sp_P048_03_PCap	うるさ～い！
 EV_Mot_Sp_P049_01_PCap	とっしんだー！
 EV_Mot_Sp_P049_02_PCap	だいジャーンプ！
 EV_Mot_Sp_P050_01_PCap	パンチされた！
 EV_Mot_Sp_P050_02_PCap	ひなたぼっこ
+EV_Mot_Sp_P051_01_PCap	リラックス
+EV_Mot_Sp_P051_02_PCap	がお～！
+EV_Mot_Sp_P051_03_PCap	ウトウト
+EV_Mot_Sp_P051_04_PCap	だいジャーンプ！
 EV_Mot_Sp_P052_01_PCap	たのしいダンス
 EV_Mot_Sp_P052_02_PCap	どんなダンスがいいかな～？
 EV_Mot_Sp_P053_01_PCap	いただきまーっす！
@@ -377,7 +386,6 @@ EV_Mot_Sp_P063_02_PCap	なにかおちてこないかなー？
 EV_Mot_Sp_P063_03_PCap	あやつりにんぎょう
 EV_Mot_Sp_P063_04_PCap	ナワバリあらそい
 EV_Mot_Sp_P064_01_PCap	たべてよ～！
-EV_Mot_Sp_P064_02_PCap	まひるにまよなか？
 EV_Mot_Sp_P064_03_PCap	とおぼえ
 EV_Mot_Sp_P064_04_PCap	いかくちゅう
 EV_Mot_Sp_P064_05_PCap	センチメンタル
@@ -407,13 +415,15 @@ EV_Mot_Sp_P071_05_PCap	うでたて100かいできるかな？
 EV_Mot_Sp_P072_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P072_03_PCap	みだしなみバッチリ！
 EV_Mot_Sp_P072_04_PCap	こんがりおいしそう！
+EV_Mot_Sp_P073_01_PCap	ねててもたべる
+EV_Mot_Sp_P073_02_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P073_03_PCap	ぜんりょくダッシュ！
 EV_Mot_Sp_P075_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P075_02_PCap	おきにいりのばしょ
 EV_Mot_Sp_P076_01_PCap	おやすみタイム
 EV_Mot_Sp_P076_02_PCap	おやすみタイム
 EV_Mot_Sp_P076_03_PCap	たのしいダンス
 EV_Mot_Sp_P076_04_PCap	しょうげきのしゅんかん！
-EV_Mot_Sp_P076_05_PCap	いかくちゅう
 EV_Mot_Sp_P076_06_PCap	げんきいっぱい！
 EV_Mot_Sp_P077_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P078_01_PCap	ちょっかい
@@ -430,13 +440,14 @@ EV_Mot_Sp_P082_01_PCap	はいたつちゅう
 EV_Mot_Sp_P083_01_PCap	しあわせなきぶん
 EV_Mot_Sp_P083_02_PCap	ケンカちゅう
 EV_Mot_Sp_P083_03_PCap	ケンカちゅう
+EV_Mot_Sp_P084_01_PCap	たのしいダンス
+EV_Mot_Sp_P084_02_PCap	たのしいダンス
 EV_Mot_Sp_P085_01_PCap	いかくちゅう
 EV_Mot_Sp_P085_02_PCap	ビックリ！
 EV_Mot_Sp_P086_01_PCap	たのしいダンス
 EV_Mot_Sp_P086_02_PCap	たのしいダンス
 EV_Mot_Sp_P086_03_PCap	ビークインにはナイショで
 EV_Mot_Sp_P086_04_PCap	おこられちゃった！
-EV_Mot_Sp_P087_01_PCap	やったー！
 EV_Mot_Sp_P087_02_PCap	いかくちゅう
 EV_Mot_Sp_P087_03_PCap	ねむいのに～
 EV_Mot_Sp_P088_01_PCap	かいてきなそらのたび
@@ -458,6 +469,8 @@ EV_Mot_Sp_P094_02_PCap	およぐのじょうずでしょ？
 EV_Mot_Sp_P094_03_PCap	たのしいきぶん
 EV_Mot_Sp_P094_04_PCap	みだしなみバッチリ！
 EV_Mot_Sp_P095_02_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P096_01_PCap	みんなでジャーンプ！
+EV_Mot_Sp_P096_02_PCap	なかよくダンス
 EV_Mot_Sp_P097_01_PCap	どっちがつよいかな？
 EV_Mot_Sp_P097_02_PCap	おしゃれしててカワイイ！
 EV_Mot_Sp_P098_01_PCap	かれいなジャンプ
@@ -495,36 +508,72 @@ EV_Mot_Sp_P113_03_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P113_04_PCap	ほのおのキック
 EV_Mot_Sp_P113_05_PCap	あおいほのお！
 EV_Mot_Sp_P113_06_PCap	やったー！
+EV_Mot_Sp_P113_07_PCap	おなかのベッド
 EV_Mot_Sp_P114_01_PCap	みずでっぽう！
 EV_Mot_Sp_P114_02_PCap	つよすぎた！
 EV_Mot_Sp_P115_01_PCap	こわい！
 EV_Mot_Sp_P115_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P115_03_PCap	ビックリ！
 EV_Mot_Sp_P116_02_PCap	こわい！
-EV_Mot_Sp_P116_03_PCap	なかよし
 EV_Mot_Sp_P116_04_PCap	いかくちゅう
 EV_Mot_Sp_P117_01_PCap	ハッピーなきぶん
 EV_Mot_Sp_P117_02_PCap	とまれた！
 EV_Mot_Sp_P117_03_PCap	おいかけっこ
+EV_Mot_Sp_P118_01_PCap	ヘディングー！
+EV_Mot_Sp_P118_02_PCap	ディグダのトリオ
+EV_Mot_Sp_P119_01_PCap	とびだしちゅうい
+EV_Mot_Sp_P120_01_PCap	もっとふくらむよ～
+EV_Mot_Sp_P120_02_PCap	ふくらみすぎちゃった！
+EV_Mot_Sp_P120_03_PCap	とばされた～！
 EV_Mot_Sp_P121_01_PCap	だいじなわがこ
 EV_Mot_Sp_P121_02_PCap	ここでやすんでね
 EV_Mot_Sp_P121_03_PCap	いいこ～いいこ～
 EV_Mot_Sp_P121_04_PCap	ナイショのおでかけ？
+EV_Mot_Sp_P122_01_PCap	たきのぼり！
 EV_Mot_Sp_P123_01_PCap	きょうみしんしん
 EV_Mot_Sp_P123_02_PCap	おいしーい！
 EV_Mot_Sp_P124_01_PCap	キラキラでしょ？
 EV_Mot_Sp_P124_02_PCap	おいしいな～
+EV_Mot_Sp_P125_01_PCap	ふしぎなダンス
+EV_Mot_Sp_P125_02_PCap	ゆびをふる
+EV_Mot_Sp_P125_03_PCap	うまくきまらなかった
+EV_Mot_Sp_P126_01_PCap	クリーンヒット！
+EV_Mot_Sp_P126_02_PCap	おちちゃった！
+EV_Mot_Sp_P126_03_PCap	おっきなまえあし
 EV_Mot_Sp_P127_01_PCap	しっぽでこうげき
 EV_Mot_Sp_P127_02_PCap	いかくちゅう
+EV_Mot_Sp_P128_01_PCap	まるのみにしちゃうぞ～
+EV_Mot_Sp_P128_02_PCap	おいしいな～
 EV_Mot_Sp_P129_01_PCap	とびだしちゅうい
 EV_Mot_Sp_P129_02_PCap	なんだろコレ～
+EV_Mot_Sp_P130_01_PCap	ひとやすみ
+EV_Mot_Sp_P130_02_PCap	とべるのすごいでしょ？
+EV_Mot_Sp_P130_03_PCap	ハッピーなきぶん
 EV_Mot_Sp_P132_01_PCap	なかよくおやすみタイム
 EV_Mot_Sp_P132_02_PCap	あっちいってよー！
 EV_Mot_Sp_P132_03_PCap	しゅうごうしました
 EV_Mot_Sp_P132_04_PCap	おさんぽタイム
+EV_Mot_Sp_P133_01_PCap	アクロバティック！
+EV_Mot_Sp_P133_02_PCap	ナワバリあらそい
+EV_Mot_Sp_P134_01_PCap	ハックシュン！
+EV_Mot_Sp_P134_02_PCap	ここならあんしん
+EV_Mot_Sp_P135_01_PCap	あなほりちゅう
+EV_Mot_Sp_P135_02_PCap	とびだしちゅうい
+EV_Mot_Sp_P135_03_PCap	ズバーン！
+EV_Mot_Sp_P135_04_PCap	おっとっと！
+EV_Mot_Sp_P136_01_PCap	ナワバリあらそい
+EV_Mot_Sp_P136_02_PCap	ナワバリあらそい
+EV_Mot_Sp_P137_01_PCap	ナワバリあらそい
+EV_Mot_Sp_P137_02_PCap	さかさまだ～！
 EV_Mot_Sp_P138_01_PCap	すいめんダッシュ！
 EV_Mot_Sp_P138_02_PCap	じゅうでんちゅう
 EV_Mot_Sp_P138_03_PCap	パラボラチャージ！
+EV_Mot_Sp_P139_01_PCap	ルガルガンみたいに
+EV_Mot_Sp_P139_02_PCap	ウトウト
+EV_Mot_Sp_P140_01_PCap	しあわせなきぶん
+EV_Mot_Sp_P140_02_PCap	ごきげんななめ
+EV_Mot_Sp_P140_03_PCap	キレイずき
+EV_Mot_Sp_P140_04_PCap	センチメンタル
 EV_Mot_Sp_P141_01_PCap	シューティングスター
 EV_Mot_Sp_P141_02_PCap	そらたかくへ
 EV_Mot_Sp_P141_03_PCap	かれいなスピン
@@ -704,7 +753,6 @@ EV_Mot_Sp_P267_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P268_01_PCap	ほじゅうちゅう
 EV_Mot_Sp_P268_02_PCap	ひとくちでペロリ！
 EV_Mot_Sp_P268_03_PCap	あっちいってよー！
-EV_Mot_Sp_P268_04_PCap	キレイずき
 EV_Mot_Sp_P269_01_PCap	ここならあんしん
 EV_Mot_Sp_P270_01_PCap	ちょうのまい
 EV_Mot_Sp_P271_01_PCap	たのしいダンス
@@ -740,6 +788,8 @@ EV_Mot_Sp_P111_03_PCap	たべられちゃう～！？
 EV_Mot_Sp_P111_04_PCap	どこからとったかわかる？
 EV_Mot_Sp_P018_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P031_02_PCap	ハッピーなきぶん
+EV_Mot_Sp_P119_02_PCap	ねんりき！
+EV_Mot_Sp_P122_02_PCap	いかくちゅう
 EV_Mot_Sp_P131_02_PCap	ハッピーなきぶん
 EV_Mot_Sp_P003_04_PCap	ハッピーなきぶん
 EV_Mot_Sp_P004_03_PCap	ハッピーなきぶん
@@ -894,6 +944,90 @@ EV_Mot_Mis_Stage003_063_01_PCap	まちがえパンチ
 EV_Mot_Mis_Stage003_085_01_PCap	ちょっとレアかも？
 EV_Mot_Mis_Stage005_057_01_PCap	さかさまでねれるの？
 EV_Mot_Mis_Stage009_162_01_PCap	かいどくちゅう
+EV_Mot_Sp_P006_10_PCap	やったー！
+EV_Mot_Sp_P007_10_PCap	どこかなどこかな～？
+EV_Mot_Sp_P008_10_PCap	いとをはく
+EV_Mot_Sp_P015_10_PCap	どこでもねむれます！
+EV_Mot_Sp_P017_10_PCap	メロディにのってルンルン
+EV_Mot_Sp_P073_10_PCap	カビゴンがめをさました！
+EV_Mot_Sp_P073_11_PCap	きょうみしんしん
+EV_Mot_Sp_P084_10_PCap	おこったぞー！
+EV_Mot_Sp_P087_10_PCap	これであんしん！
+EV_Mot_Sp_P096_10_PCap	いいものみつけたぞ！
+EV_Mot_Sp_P113_10_PCap	やったー！
+EV_Mot_Sp_P011_10_PCap	おこしちゃった？
+EV_Mot_Sp_P011_11_PCap	やっほー！
+EV_Mot_Sp_P014_10_PCap	ビックリ！
+EV_Mot_Sp_P018_10_PCap	なかよし
+EV_Mot_Sp_P018_11_PCap	なかよくスイスイ
+EV_Mot_Sp_P031_10_PCap	なかよくスイスイ
+EV_Mot_Sp_P051_10_PCap	いかくちゅう
+EV_Mot_Sp_P116_10_PCap	いかくちゅう
+EV_Mot_Sp_P116_11_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P119_10_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P119_11_PCap	なかよくスイスイ
+EV_Mot_Sp_P122_10_PCap	とびだしちゅうい
+EV_Mot_Sp_P125_10_PCap	ゆびをふったら･･････
+EV_Mot_Sp_P126_10_PCap	いかくちゅう
+EV_Mot_Sp_P130_10_PCap	ウパーをのせて
+EV_Mot_Sp_P131_10_PCap	おやすみタイム
+EV_Mot_Sp_P131_11_PCap	ハデにとうじょう！
+EV_Mot_Sp_P005_10_PCap	ビックリ！
+EV_Mot_Sp_P005_11_PCap	あっちいってよー！
+EV_Mot_Sp_P005_12_PCap	なかよし
+EV_Mot_Sp_P005_14_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P005_15_PCap	かくれんぼ
+EV_Mot_Sp_P034_10_PCap	だんだんねむくなる～
+EV_Mot_Sp_P060_10_PCap	ビックリさせてやる～！
+EV_Mot_Sp_P064_10_PCap	じゃましないでよ！
+EV_Mot_Sp_P064_11_PCap	おこったぞー！
+EV_Mot_Sp_P064_12_PCap	イワンコといっしょ
+EV_Mot_Sp_P117_10_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P117_11_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P118_10_PCap	いかりばくはつ
+EV_Mot_Sp_P118_11_PCap	ぶつかっちゃった！
+EV_Mot_Sp_P118_12_PCap	うしろうしろ～！
+EV_Mot_Sp_P127_10_PCap	はげしいたたかい
+EV_Mot_Sp_P128_10_PCap	みてみて～！
+EV_Mot_Sp_P128_11_PCap	ハデにとうじょう！
+EV_Mot_Sp_P132_10_PCap	なかよし
+EV_Mot_Sp_P132_12_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P132_13_PCap	かくれんぼ
+EV_Mot_Sp_P133_10_PCap	おもわずあくびが
+EV_Mot_Sp_P133_11_PCap	イタズラちゅう
+EV_Mot_Sp_P134_10_PCap	だいジャーンプ！
+EV_Mot_Sp_P134_11_PCap	あっちいってよー！
+EV_Mot_Sp_P134_12_PCap	なかよし
+EV_Mot_Sp_P134_14_PCap	なかよくおやすみタイム
+EV_Mot_Sp_P134_15_PCap	かくれんぼ
+EV_Mot_Sp_P136_10_PCap	リラックス
+EV_Mot_Sp_P136_11_PCap	ばしゃーん！
+EV_Mot_Sp_P136_12_PCap	ごろごろ～！
+EV_Mot_Sp_P137_10_PCap	かったぞー！
+EV_Mot_Sp_P139_10_PCap	あっちいってよー！
+EV_Mot_Sp_P139_11_PCap	なかよし
+EV_Mot_Sp_P139_13_PCap	なかよくおやすみタイム
+EV_Mot_Mis_Stage012_084_01_PCap	たのしいダンス
+EV_Mot_Mis_Stage012_096_01_PCap	みんなでジャーンプ！
+EV_Mot_Mis_Stage012_073_01_PCap	ぜんりょくダッシュ！
+EV_Mot_Mis_Stage013_051_01_PCap	だいジャーンプ！
+EV_Mot_Mis_Stage013_130_01_PCap	ウパーをのせて
+EV_Mot_Mis_Stage013_119_01_PCap	ねんりき！
+EV_Mot_Mis_Stage013_126_01_PCap	クリーンヒット！
+EV_Mot_Mis_Stage013_135_01_PCap	ズバーン！
+EV_Mot_Mis_Stage013_125_01_PCap	ゆびをふったら･･････
+EV_Mot_Mis_Stage013_122_01_PCap	たきのぼり！
+EV_Mot_Mis_Stage015_118_01_PCap	ヘディングー！
+EV_Mot_Mis_Stage015_139_01_PCap	あっちいってよー！
+EV_Mot_Mis_Stage015_140_01_PCap	しあわせなきぶん
+EV_Mot_Mis_Stage015_134_01_PCap	だいジャーンプ！
+EV_Mot_Mis_Stage015_137_01_PCap	さかさまだ～！
+EV_Mot_Mis_Stage015_133_01_PCap	おもわずあくびが
+EV_Mot_Mis_Stage015_136_01_PCap	ナワバリあらそい
+EV_Mot_Mis_Stage015_120_01_PCap	ふくらみすぎちゃった！
+EV_Mot_Mis_Stage015_128_01_PCap	みてみて～！
+EV_Mot_Mis_Stage015_142_01_PCap	たいでんちゅう
+EV_Mot_Sp_P142_11_PCap	たいでんちゅう
 Evaluation_Lines.msbt
 EB_Course1st_01	初めてのルートは　どうだった？\nどんなポケモンと　出会えたのか　教えてね。
 EB_Course1st_02	やあ　おかえり！\n新しいルートの写真　楽しみだよ。
@@ -1032,6 +1166,7 @@ EV_Mot_Sp_P006_01	ハイタッチしているところか。
 EV_Mot_Sp_P006_02	花が乗っていて　おしゃれだね。
 EV_Mot_Sp_P006_04	仲良く　眠っているね。
 EV_Mot_Sp_P006_05	大喜びしているね。
+EV_Mot_Sp_P006_06	カビゴンの　おなかで　仲良く　眠っているね。
 EV_Mot_Sp_P007_01	空を飛ぼうと･･････　しているのかな。
 EV_Mot_Sp_P007_02	豪快な　登場シーンだね。
 EV_Mot_Sp_P007_03	威嚇しあっているね。
@@ -1130,13 +1265,16 @@ EV_Mot_Sp_P046_02	キミを　気にしているようだね。
 EV_Mot_Sp_P047_01	眠っているようだね。
 EV_Mot_Sp_P047_02	まるで　四つ葉のクローバーだね！
 EV_Mot_Sp_P048_01	コイキングを　捕まえたところか。
-EV_Mot_Sp_P048_02	威嚇しあっているね。
 EV_Mot_Sp_P048_03	ちょっかいを　出されているようだね。
 EV_Mot_Sp_P049_01	岩に突進して　何をしているのかな。
 EV_Mot_Sp_P049_02	バルジーナを　狙っているのかな。
 EV_Mot_Sp_P050_01	浜辺の木と　間違えられてしまったのかな。
 EV_Mot_Sp_P050_02	木の下で　お昼寝しているのかな。
 EV_Mot_Sp_P050_03	追いかけっこしているのかな。
+EV_Mot_Sp_P051_01	リラックスしているね。
+EV_Mot_Sp_P051_02	飛び出してきたところか！
+EV_Mot_Sp_P051_03	眠そうにしているね。
+EV_Mot_Sp_P051_04	思いきり　ジャンプしているね。
 EV_Mot_Sp_P052_01	ダンスしているのか。
 EV_Mot_Sp_P052_02	ダンスについて　相談しているのかな？
 EV_Mot_Sp_P053_01	ツツケラの貯蔵庫から　果実を　取っているのか！
@@ -1171,7 +1309,6 @@ EV_Mot_Sp_P063_03	さいみんじゅつを　かけられてしまったのか�
 EV_Mot_Sp_P063_04	ナワバリを　取り合っているのか。
 EV_Mot_Sp_P063_05	追いかけっこしているのかな。
 EV_Mot_Sp_P064_01	警戒して　食べなかったのかな。
-EV_Mot_Sp_P064_02	このすがたを　昼間に　見かけるのは　珍しいね。
 EV_Mot_Sp_P064_03	とおぼえで　仲間に　何かを　知らせているのかな。
 EV_Mot_Sp_P064_04	威嚇しあっているね。
 EV_Mot_Sp_P064_05	少し　寂しそうにしているね。
@@ -1201,6 +1338,9 @@ EV_Mot_Sp_P071_05	腕の　筋肉を　きたえているところか。
 EV_Mot_Sp_P072_02	喜びいっぱい　元気いっぱいのようだね。
 EV_Mot_Sp_P072_03	お手入れしているところか。
 EV_Mot_Sp_P072_04	ふわりんごを　焼いているところか。
+EV_Mot_Sp_P073_01	眠りながら　食事をしているのか！
+EV_Mot_Sp_P073_02	仲良く　眠っているね。
+EV_Mot_Sp_P073_03	めずらしい！　走っているところか！
 EV_Mot_Sp_P074_01	イルミナ現象の　連鎖が　起きたのか。
 EV_Mot_Sp_P074_02	残念なことが　あったのかな。
 EV_Mot_Sp_P074_03	キュワワーとのあいだで　イルミナ現象の　連鎖が　起きたのか。
@@ -1215,7 +1355,6 @@ EV_Mot_Sp_P076_01	眠っているところか。
 EV_Mot_Sp_P076_02	眠っているところか。
 EV_Mot_Sp_P076_03	ダンスしているのか。
 EV_Mot_Sp_P076_04	めずらしい！　両足が　見えているところか！
-EV_Mot_Sp_P076_05	威嚇しあっているね。
 EV_Mot_Sp_P076_06	力に　満ち溢れているようだね。
 EV_Mot_Sp_P077_01	喜んでいるところか。
 EV_Mot_Sp_P078_01	ちょっかいを　出しているのかな。
@@ -1234,6 +1373,8 @@ EV_Mot_Sp_P082_02	水中に　潜っているところか。
 EV_Mot_Sp_P083_01	ごきげんな　様子だね。
 EV_Mot_Sp_P083_02	因縁の対決･･････　といった感じかな。
 EV_Mot_Sp_P083_03	因縁の対決･･････　といった感じかな。
+EV_Mot_Sp_P084_01	ダンスしているのか。
+EV_Mot_Sp_P084_02	ダンスしているのか。
 EV_Mot_Sp_P085_01	威嚇しているのかな。
 EV_Mot_Sp_P085_02	驚いているようだね。
 EV_Mot_Sp_P085_03	しっぽを　研いでいるのかな。
@@ -1241,7 +1382,6 @@ EV_Mot_Sp_P086_01	ダンスしているのか。
 EV_Mot_Sp_P086_02	ダンスしているのか。
 EV_Mot_Sp_P086_03	仲良く　遊んでいるようだね。
 EV_Mot_Sp_P086_04	怒られているのかな？
-EV_Mot_Sp_P087_01	みんな　大喜びしているね。
 EV_Mot_Sp_P087_02	威嚇しあっているね。
 EV_Mot_Sp_P087_03	おおきな　あくびをしているね。
 EV_Mot_Sp_P088_01	フワライドに　運んでもらっているのかな。
@@ -1266,6 +1406,8 @@ EV_Mot_Sp_P094_03	ごきげんな　様子だね。
 EV_Mot_Sp_P094_04	お手入れしているところか。
 EV_Mot_Sp_P095_02	仲良く　眠っているね。
 EV_Mot_Sp_P095_03	仲良く　遊んでいるようだね。
+EV_Mot_Sp_P096_01	息の合った　ジャンプだね。
+EV_Mot_Sp_P096_02	仲良く　ダンスしているね。
 EV_Mot_Sp_P097_01	力比べしているようだね。
 EV_Mot_Sp_P097_02	花が乗っていて　おしゃれだね。
 EV_Mot_Sp_P098_01	気持ちよさそうに　ジャンプしているね。
@@ -1321,37 +1463,75 @@ EV_Mot_Sp_P113_03	仲良く　眠っているね。
 EV_Mot_Sp_P113_04	キックの　炎が　ヒバニーらしいね。
 EV_Mot_Sp_P113_05	青い炎か！　イルミナ現象で　活性化されたのかな。
 EV_Mot_Sp_P113_06	大喜びしているね。
+EV_Mot_Sp_P113_07	カビゴンの　おなかで　仲良く　眠っているね。
 EV_Mot_Sp_P114_01	フシギバナに　水を　あげているのかな。
 EV_Mot_Sp_P114_02	みずでっぽうが　強すぎたのかな。
 EV_Mot_Sp_P115_01	怖がっているようだね。
 EV_Mot_Sp_P115_02	喜んでいるところか。
 EV_Mot_Sp_P115_03	驚いているようだね。
 EV_Mot_Sp_P116_02	怖がっているようだね。
-EV_Mot_Sp_P116_03	仲良く　遊んでいるようだね。
 EV_Mot_Sp_P116_04	威嚇しているのかな。
 EV_Mot_Sp_P117_01	喜んでいるところか。
 EV_Mot_Sp_P117_02	華麗に　着地を　決めたようだね。
 EV_Mot_Sp_P117_03	追いかけっこしているのかな。
+EV_Mot_Sp_P118_01	ふわりんごで　遊んでいるところか。
+EV_Mot_Sp_P118_02	頭が3つ？　いや　ごめんごめん。　3匹　並んだ　ディグダだね。
+EV_Mot_Sp_P119_01	飛び出してきたところかな。
+EV_Mot_Sp_P119_02	ねんりきを　放っているようだね。
+EV_Mot_Sp_P120_01	ふだんより　膨らんでいるようだね。
+EV_Mot_Sp_P120_02	うわ！　今にも　爆発しそうな　大きさだ！
+EV_Mot_Sp_P120_03	マルノームに　吹き飛ばされてしまったのか！
 EV_Mot_Sp_P121_01	食べ物を　あげているところか。
 EV_Mot_Sp_P121_02	助けてあげているのかな。
 EV_Mot_Sp_P121_03	子どもを　だっこしているところか。
 EV_Mot_Sp_P121_04	おなかの　袋から　抜け出していたのか！
+EV_Mot_Sp_P122_01	たきのぼりか！
+EV_Mot_Sp_P122_02	こちらを　威嚇しているのかな。
 EV_Mot_Sp_P123_01	キミを　気にしているようだね。
 EV_Mot_Sp_P123_02	おいしそうに　食べているね。
 EV_Mot_Sp_P124_01	きらめく粉を　ふりまきながら　飛んでいるところか！
 EV_Mot_Sp_P124_02	ふわりんごが　食べたかったようだね。
+EV_Mot_Sp_P125_01	みんなで　ダンスしているのか。
+EV_Mot_Sp_P125_02	ゆびをふるか！　何が　起きるんだろう･･････
+EV_Mot_Sp_P125_03	ゆびをふるが　失敗してしまったようだね･･････
+EV_Mot_Sp_P126_01	クリーンヒット！　って感じだね･･････
+EV_Mot_Sp_P126_02	落ちてしまったところか。
+EV_Mot_Sp_P126_03	前足で　攻撃をしているようだね。
 EV_Mot_Sp_P127_01	しっぽで　攻撃をしているようだね。
 EV_Mot_Sp_P127_02	威嚇しあっているね。
+EV_Mot_Sp_P128_01	丸飲みしようとしているのかな。
+EV_Mot_Sp_P128_02	毒ガスを　丸飲みしているところか。
 EV_Mot_Sp_P129_01	飛び出してきたところかな。
 EV_Mot_Sp_P129_02	何かを　かじっているようだね。
+EV_Mot_Sp_P130_01	水を　飲んでいるところか。
+EV_Mot_Sp_P130_02	ゆったりと　飛んでいるね。
+EV_Mot_Sp_P130_03	喜んでいるところか。
 EV_Mot_Sp_P131_02	喜んでいるところか。
 EV_Mot_Sp_P132_01	仲良く　眠っているね。
 EV_Mot_Sp_P132_02	ほうでんで　みんなを　守ろうとしているのかな。
 EV_Mot_Sp_P132_03	火山の　ポケモンたちが　集まっているところか。
 EV_Mot_Sp_P132_04	仲良く　お散歩しているようだね。
+EV_Mot_Sp_P133_01	アクロバティックに　飛行しているね。
+EV_Mot_Sp_P133_02	ナワバリを　取り合っているのか。
+EV_Mot_Sp_P134_01	くしゃみを　しているようだね。
+EV_Mot_Sp_P134_02	ガルーラに　助けてもらったようだね。
+EV_Mot_Sp_P135_01	すごい勢いで　穴を　掘っているね。
+EV_Mot_Sp_P135_02	飛び出してきたところか！
+EV_Mot_Sp_P135_03	勢いよく　飛び出したところだね。
+EV_Mot_Sp_P135_04	バランスを　崩してしまったようだね。
+EV_Mot_Sp_P136_01	ナワバリを　取り合っているのか。
+EV_Mot_Sp_P136_02	ナワバリを　取り合っているのか。
+EV_Mot_Sp_P137_01	ナワバリを　取り合っているのか。
+EV_Mot_Sp_P137_02	ひっくり返ってしまったのか！
 EV_Mot_Sp_P138_01	水上を　走っているのか！
 EV_Mot_Sp_P138_02	日光浴を　しているようだね。
 EV_Mot_Sp_P138_03	パラボラチャージで　元気いっぱいのようだね。
+EV_Mot_Sp_P139_01	ルガルガンの　真似をしているのかな。
+EV_Mot_Sp_P139_02	眠そうにしているね。
+EV_Mot_Sp_P140_01	ごきげんな　様子だね。
+EV_Mot_Sp_P140_02	気に入らないことがあったのかな。
+EV_Mot_Sp_P140_03	砂浴び　しているところか。
+EV_Mot_Sp_P140_04	少し　寂しそうにしているね。
 EV_Mot_Sp_P141_01	まるで　流れ星のようだ！
 EV_Mot_Sp_P141_02	空高く　昇っていくところか。
 EV_Mot_Sp_P141_03	華麗に　空中を　飛びまわっているね。
@@ -1563,7 +1743,6 @@ EV_Mot_Sp_P267_02	喜んでいるところか。
 EV_Mot_Sp_P268_01	砂を　ため込んでいるのかな。
 EV_Mot_Sp_P268_02	ふわりんごを　丸飲みしたのか！
 EV_Mot_Sp_P268_03	すなかけで　追い払っているところか！
-EV_Mot_Sp_P268_04	砂浴び　しているところか。
 EV_Mot_Sp_P269_01	糸を　体に　巻きつけて　寝ているのか。
 EV_Mot_Sp_P270_01	舞い踊っているところか。
 EV_Mot_Sp_P271_01	ダンスしているのか。
@@ -1748,6 +1927,8 @@ EA_Scenario1st_07	つまり　★1～4の写真を\n集めることが　大事�
 EA_Scenario1st_08	簡単に言うと　フォト図鑑を埋める！\n基本　それだけ覚えていれば　大丈夫かな。
 EA_Scenario1st_09	ポケモンとの出会いを　楽しみながら\nたくさん　写真を撮っていこう！
 EB_ScenarioCom_01	話したいことが　たくさんあるけど･･････\nまずは　評価を行おうか。
+EB_ScenarioCourse1st_mini_01	まずは　評価を行うけど･･････\nあとでちょっと　話があるよ。
+EA_ScenarioCourse1st_mini_01	このあと　みんな　集まってもらえるかな？
 EA_GetFlower_01	ところで･･････
 EA_GetFlower_02	クリスタフラワーの　データも得られたので\n報告があるよ。
 EA_GetFlower_03	楽しみにしててね。
@@ -1857,6 +2038,102 @@ EV_Mot_Mis_Stage003_063_01	間違えて　パンチしてしまったのかな�
 EV_Mot_Mis_Stage003_085_01	あまり　見ない行動だ。
 EV_Mot_Mis_Stage005_057_01	枝に　つかまって　寝ているのか。
 EV_Mot_Mis_Stage009_162_01	ツメあとから　メッセージを読み取っているのかな。
+EA_GetSticker1_Ud_01	おめでとう！\nフロレオ島のポケモンは　これで本当に　全部かな。
+EA_GetSticker1_Ud_02	身近なポケモンたちも　しっかり　調べることで\n新たな発見が　たくさんあったよね。
+EA_GetSticker2_Ud_01	おめでとう！\nベラス島のポケモンは　これで本当に　全部かな。
+EA_GetSticker2_Ud_02	大自然の中で　暮らすポケモンたちは\nとても自由で　すごく　エネルギッシュだったよね。
+EA_GetSticker4_Ud_01	おめでとう！\nボルク島のポケモンは　これで本当に　全部かな。
+EA_GetSticker4_Ud_02	過酷な環境で　生きるポケモンたちを　調べることは\nとても　刺激的な　体験だったんじゃないかな。
+EA_CompAllPokedex_Ud_01	おめでとう！\nこれで本当に　フォト図鑑は　すべて埋まったね！
+EA_CompAllPokedex_Ud_02	でも　これで終わり！　ではないんだ。
+EA_CompAllPokedex_Ud_03	キミが　撮影を続ける限り　フォト図鑑は\nさらに　すばらしいものになっていくと　思うよ。
+EA_CompAllPokedex_Ud_04	これからも　キミだけの　フォト図鑑作りを　楽しんでね！\n僕も　リタも　フィルも　トオルも　応援しているよ！
+EA_ScenarioCourse1st_mini_02	なかなか　面白い　調査だったんじゃないかな。
+EA_ScenarioCourse1st_mini_03	さて･･････
+EV_Mot_Sp_P006_10	ドダイトスに　お礼を　言っているのかな。
+EV_Mot_Sp_P007_10	ピチューと　ヒバニーを　探しているのかな。
+EV_Mot_Sp_P008_10	嬉しそうに　糸を　吐いているね。
+EV_Mot_Sp_P015_10	ひと休みしているのかな。
+EV_Mot_Sp_P017_10	メロディを　楽しんでいるようだね。
+EV_Mot_Sp_P073_10	目を覚ましたところか！
+EV_Mot_Sp_P073_11	キミを　気にしているようだね。
+EV_Mot_Sp_P084_10	怒っているのかな。
+EV_Mot_Sp_P087_10	ピチューと　ヒバニーを　守れて　嬉しそうだね。
+EV_Mot_Sp_P096_10	食べ物を　運んでいるところか。
+EV_Mot_Sp_P113_10	ドダイトスに　お礼を　言っているのかな。
+EV_Mot_Sp_P011_10	ちょっと　気まずいシーンだね。
+EV_Mot_Sp_P011_11	キミに　手を振っているようだね。
+EV_Mot_Sp_P014_10	驚いているようだね。
+EV_Mot_Sp_P018_10	トロピウスの上で　遊んでいるところか。
+EV_Mot_Sp_P018_11	楽しそうに　泳いでいるね。
+EV_Mot_Sp_P031_10	楽しそうに　泳いでいるね。
+EV_Mot_Sp_P051_10	威嚇しあっているね。
+EV_Mot_Sp_P116_10	威嚇しているのかな。
+EV_Mot_Sp_P116_11	仲良く　眠っているね。
+EV_Mot_Sp_P119_10	仲良く　眠っているね。
+EV_Mot_Sp_P119_11	楽しそうに　泳いでいるね。
+EV_Mot_Sp_P122_10	こちらに　向かってきているのか！
+EV_Mot_Sp_P125_10	ゆびをふるが　成功したようだね！
+EV_Mot_Sp_P126_10	威嚇しているのかな。
+EV_Mot_Sp_P130_10	ウパーを乗せて　楽しそうに　飛んでいるね。
+EV_Mot_Sp_P131_10	ずいぶんと　安心して　眠っているようだね。
+EV_Mot_Sp_P131_11	豪快な　登場シーンだね。
+EV_Mot_Sp_P005_10	驚いているようだね。
+EV_Mot_Sp_P005_11	かえんほうしゃで　みんなを　守ろうとしているのかな。
+EV_Mot_Sp_P005_12	仲良く　遊んでいるようだね。
+EV_Mot_Sp_P005_14	仲良く　眠っているね。
+EV_Mot_Sp_P005_15	かくれんぼ　しているのかな。
+EV_Mot_Sp_P034_10	ねむりごなを　振りまいているところか！
+EV_Mot_Sp_P060_10	驚かせようと　していたのかな。
+EV_Mot_Sp_P064_10	怒っているところか。
+EV_Mot_Sp_P064_11	怒っているところか。
+EV_Mot_Sp_P064_12	イワンコに　とおぼえを　教えているのかな。
+EV_Mot_Sp_P117_10	ぶつかってしまったようだね。
+EV_Mot_Sp_P117_11	ぶつかってしまったようだね。
+EV_Mot_Sp_P118_10	怒っているところか。
+EV_Mot_Sp_P118_11	ぶつかってしまったようだね。
+EV_Mot_Sp_P118_12	ちょっかいを　出されているようだね。
+EV_Mot_Sp_P127_10	すなあらしを　起こしているところか！
+EV_Mot_Sp_P128_10	ドガースを　吸い込んでしまったのか。
+EV_Mot_Sp_P128_11	豪快な　登場シーンだね。
+EV_Mot_Sp_P132_10	仲良く　遊んでいるようだね。
+EV_Mot_Sp_P132_12	仲良く　眠っているね。
+EV_Mot_Sp_P132_13	かくれんぼ　しているのかな。
+EV_Mot_Sp_P133_10	眠そうにしているね。
+EV_Mot_Sp_P133_11	イタズラしているようだね。
+EV_Mot_Sp_P134_10	思いきり　ジャンプしているね。
+EV_Mot_Sp_P134_11	ひのこで　みんなを　守ろうとしているのかな。
+EV_Mot_Sp_P134_12	仲良く　遊んでいるようだね。
+EV_Mot_Sp_P134_14	仲良く　眠っているね。
+EV_Mot_Sp_P134_15	かくれんぼ　しているのかな。
+EV_Mot_Sp_P136_10	毒沼で　遊んでいるところか。
+EV_Mot_Sp_P136_11	毒沼で　遊んでいるところか。
+EV_Mot_Sp_P136_12	毒沼で　遊んでいるところか。
+EV_Mot_Sp_P137_10	ナワバリ争いに　勝ったところか！
+EV_Mot_Sp_P139_10	勇敢に　立ち向かっているところか。
+EV_Mot_Sp_P139_11	仲良く　遊んでいるようだね。
+EV_Mot_Sp_P139_13	仲良く　眠っているね。
+EV_Mot_Mis_Stage012_084_01	ダンスしているのか。
+EV_Mot_Mis_Stage012_096_01	息の合った　ジャンプだね。
+EV_Mot_Mis_Stage012_073_01	めずらしい！　走っているところか！
+EV_Mot_Mis_Stage013_051_01	思いきり　ジャンプしているね。
+EV_Mot_Mis_Stage013_130_01	ウパーを乗せて　楽しそうに　飛んでいるね。
+EV_Mot_Mis_Stage013_119_01	ねんりきを　放っているようだね。
+EV_Mot_Mis_Stage013_126_01	クリーンヒット！　って感じだね･･････
+EV_Mot_Mis_Stage013_135_01	勢いよく　飛び出したところだね。
+EV_Mot_Mis_Stage013_125_01	ゆびをふるが　成功したようだね！
+EV_Mot_Mis_Stage013_122_01	たきのぼりか！
+EV_Mot_Mis_Stage015_118_01	ふわりんごで　遊んでいるところか。
+EV_Mot_Mis_Stage015_139_01	勇敢に　立ち向かっているところか。
+EV_Mot_Mis_Stage015_140_01	ごきげんな　様子だね。
+EV_Mot_Mis_Stage015_134_01	思いきり　ジャンプしているね。
+EV_Mot_Mis_Stage015_137_01	ひっくり返ってしまったのか！
+EV_Mot_Mis_Stage015_133_01	眠そうにしているね。
+EV_Mot_Mis_Stage015_136_01	ナワバリを　取り合っているのか。
+EV_Mot_Mis_Stage015_120_01	うわ！　今にも　爆発しそうな　大きさだ！
+EV_Mot_Mis_Stage015_128_01	ドガースを　吸い込んでしまったのか。
+EV_Mot_Mis_Stage015_142_01	これは　雷のエネルギー　だろうか･･････
+EV_Mot_Sp_P142_11	これは　雷のエネルギー　だろうか･･････
 Evaluation_UI.msbt
 Evaluation_Welcome_CountPhoto_Tx	撮影した枚数
 Evaluation_Welcome_CountPoke_Tx	撮影したポケモン
@@ -2065,10 +2342,13 @@ PlayerData_CountPhoto_ProfessorRecommend_Tx	博士がオンラインにアップ
 MySpaceTitle_Info.msbt
 Title001_Info2	{color[0000]}フロレオ自然公園{color[ffff]}を\n初めて　調査した
 Title002_Info2	{color[0000]}フロレオ自然公園{color[ffff]}で　{color[0000]}ビッパのダムに　続くルート{color[ffff]}を\n発見した
+Title003_Info2	{color[0000]}カクレ抜け道{color[ffff]}で　{color[0000]}カビゴンの寝床に　続くルート{color[ffff]}を\n発見した
+Title004_Info2	{color[0000]}カクレ抜け道{color[ffff]}で　{color[0000]}ドダイトスの住処に　続くルート{color[ffff]}を\n発見した
 Title005_Info2	{color[0000]}ベースキャンプ{color[ffff]}で　{color[0000]}研究所内に　続くルート{color[ffff]}を\n発見した
 Title006_Info2	{color[0000]}ベラス島{color[ffff]}を　初めて　調査した
 Title007_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}沼地に　続くルート{color[ffff]}を\n発見した
 Title008_Info2	{color[0000]}ミッケジャングル{color[ffff]}で　{color[0000]}滝の裏側に　続くルート{color[ffff]}を\n発見した
+Title009_Info2	{color[0000]}ヨーヨーリバー{color[ffff]}で　{color[0000]}洞窟に　続くルート{color[ffff]}を\n発見した
 Title010_Info2	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}春夏秋冬　4つの季節{color[ffff]}を\n巡った
 Title011_Info2	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}陽だまりに　続くルート{color[ffff]}を\n発見した
 Title012_Info2	{color[0000]}コピア諸島{color[ffff]}を　初めて　調査した
@@ -2078,6 +2358,7 @@ Title015_Info2	{color[0000]}コピアリーフ{color[ffff]}で　{color[0000]}�
 Title016_Info2	{color[0000]}レンティル海床{color[ffff]}で　{color[0000]}海中洞窟に　続くルート{color[ffff]}を\n発見した
 Title017_Info2	{color[0000]}ボルク島{color[ffff]}を　初めて　調査した
 Title018_Info2	{color[0000]}ネッサ砂漠{color[ffff]}で　{color[0000]}オアシス周辺のルート{color[ffff]}を　すべて\n調査した
+Title019_Info2	{color[0000]}カラリ荒野{color[ffff]}で　{color[0000]}間欠泉に乗って　上へ続くルート{color[ffff]}を\n発見した
 Title020_Info2	{color[0000]}ドロー火山{color[ffff]}で　{color[0000]}青い溶岩洞窟に　続くルート{color[ffff]}を\n発見した
 Title021_Info2	イルミナポケモンの　{color[0000]}ウルガモス{color[ffff]}を\nフォト図鑑に　登録した
 Title022_Info2	{color[0000]}デュラス島{color[ffff]}を　初めて　調査した
@@ -2305,10 +2586,13 @@ Title152_Info2	{color[0000]}イーブイ{color[ffff]}と　{color[0000]}イー�
 MySpaceTitle_Name.msbt
 Title001_Name	撮影体験会
 Title002_Name	ダム完成
+Title003_Name	森のふかふかベッド
+Title004_Name	頭の上通ります
 Title005_Name	研究室の探検
 Title006_Name	レンティル調査隊
 Title007_Name	沼地の分かれ道
 Title008_Name	滝の裏側
+Title009_Name	月明かりの洞窟
 Title010_Name	春夏秋冬
 Title011_Name	ふしぎな陽だまり
 Title012_Name	大海の調査隊
@@ -2318,6 +2602,7 @@ Title015_Name	ブルーホール
 Title016_Name	海の底
 Title017_Name	猛暑の調査隊
 Title018_Name	オアシスのまわり方
+Title019_Name	間欠泉に乗って
 Title020_Name	青い溶岩
 Title021_Name	炎の饗宴
 Title022_Name	最果ての調査隊
@@ -2647,6 +2932,10 @@ Option_Turbo_Tx	ターボモード
 Option_Turbo_Help	ターボの操作方法を　ホールド（押し続ける）／スイッチ（切り替え）　に変更します
 Option_Turbo_Hold_Tx	ホールド
 Option_Turbo_Switch_Tx	スイッチ
+Option_SnsUploadPhoto_Tx	レンティルチャットの投稿写真
+Option_SnsUploadPhoto_Help	レンティルチャットで　オンラインに投稿された写真の　表示／非表示　を切り替えます
+Option_SnsUploadPhoto_On_Tx	表示
+Option_SnsUploadPhoto_Off_Tx	非表示
 PauseMenu_UI.msbt
 PauseMenu_Help	メニュー項目を　選んでください
 PauseMenu_Head	ポーズメニュー
@@ -2700,6 +2989,10 @@ HowToPlay_EvaluationTips_Point7_Tx	風景
 HowToPlay_EvaluationTips_Point7_Info	スコアが　加点される　特別な風景が　あるよ！
 HowToPlay_EvaluationTips_Point8_Tx	★の色
 HowToPlay_EvaluationTips_Point8_Info	合計スコアによって　4段階に　変わるよ！
+PauseMenu_Camp_Select_Info	調査をやめて　博士に写真を見せますか？\nすぐに　ベースキャンプに　戻ることもできます。
+PauseMenu_Camp_SelectBack_Tx	前に戻る
+PauseMenu_Camp_SelectEvaluation_Tx	博士に見せる
+PauseMenu_Camp_SelectCamp_Tx	ベースキャンプへ
 PhotoDetail_UI.msbt
 PhotoDetail_Expansion_Tx	拡大
 PhotoDetail_AlbumSave_On_Tx	保存
@@ -2733,9 +3026,11 @@ PhotoDetail_Unselected_Help	アイコンを　選んでください
 PhotoEdit_Info.msbt
 PhotoEditEffect001_Info	白黒写真　のようになる　効果
 PhotoEditEffect002_Info	昔の写真　のようになる　効果
+PhotoEditEffect003_Info	透明感のある　青みがかった　効果
 PhotoEditEffect004_Info	鮮やかさを　調節する　効果
 PhotoEditEffect005_Info	明るさを　調節する　効果
 PhotoEditEffect006_Info	光のグラデーションを　加える　効果
+PhotoEditEffect007_Info	白と黒の　2色になる　効果
 PhotoEditEffect008_Info	新聞の写真　のようになる　効果
 PhotoEditEffect009_Info	影を　強くする　効果
 PhotoEditEffect010_Info	アニメの塗り方　のようになる　効果
@@ -2744,15 +3039,18 @@ PhotoEditEffect012_Info	全体に　トーンを重ねる　効果
 PhotoEditEffect013_Info	おしゃれなイラスト　のようになる　効果
 PhotoEditEffect014_Info	魚眼レンズで　のぞいたようになる　効果
 PhotoEditEffect015_Info	ミニチュア写真　のようになる　効果
+PhotoEditEffect016_Info	手で描いた絵　のようになる　効果
 PhotoEditEffect017_Info	ドット絵　のようになる　効果
 PhotoEditEffect018_Info	テレビの走査線　のような　効果
 PhotoEditEffect019_Info	写真を　4×4に　分割する　効果
 PhotoEditEffect020_Info	写真を　2×2に　分割する　効果
 PhotoEditEffect001_Param1_Tx	効果の強さ
 PhotoEditEffect002_Param1_Tx	効果の強さ
+PhotoEditEffect003_Param1_Tx	効果の強さ
 PhotoEditEffect004_Param1_Tx	効果のバランス
 PhotoEditEffect005_Param1_Tx	効果の強さ
 PhotoEditEffect006_Param1_Tx	効果の強さ
+PhotoEditEffect007_Param1_Tx	効果のバランス
 PhotoEditEffect008_Param1_Tx	効果の強さ
 PhotoEditEffect008_Param2_Tx	明るさ
 PhotoEditEffect009_Param1_Tx	効果のバランス
@@ -2764,6 +3062,7 @@ PhotoEditEffect013_Param1_Tx	効果の強さ
 PhotoEditEffect014_Param1_Tx	効果の強さ
 PhotoEditEffect015_Param1_Tx	ぼかしの強さ
 PhotoEditEffect015_Param2_Tx	ぼかしの範囲
+PhotoEditEffect016_Param1_Tx	効果の強さ
 PhotoEditEffect017_Param1_Tx	効果の強さ
 PhotoEditEffect018_Param1_Tx	効果の強さ
 PhotoEdit_Name.msbt
@@ -2778,6 +3077,8 @@ PhotoEditStamp032_Name	アクセサリー08
 PhotoEditStamp023_Name	アクセサリー09
 PhotoEditStamp158_Name	アクセサリー10
 PhotoEditStamp159_Name	アクセサリー11
+PhotoEditStamp174_Name	アクセサリー12
+PhotoEditStamp176_Name	アクセサリー13
 PhotoEditStamp028_Name	食べ物01
 PhotoEditStamp175_Name	食べ物02
 PhotoEditStamp030_Name	食べ物03
@@ -2812,17 +3113,20 @@ PhotoEditStamp052_Name	キャラ：キミ
 PhotoEditStamp053_Name	キャラ：キミ
 PhotoEditStamp056_Name	キャラ：トオル
 PhotoEditStamp051_Name	キャラ：カガミ博士
+PhotoEditStamp057_Name	キャラ：ビクトル
 PhotoEditStamp054_Name	キャラ：フィル
 PhotoEditStamp055_Name	キャラ：リタ
 PhotoEditStamp019_Name	キラキラ01
 PhotoEditStamp020_Name	キラキラ02
 PhotoEditStamp021_Name	キラキラ03
 PhotoEditStamp022_Name	キラキラ04
+PhotoEditStamp173_Name	キラキラ05
 PhotoEditStamp006_Name	スター01
 PhotoEditStamp007_Name	スター02
 PhotoEditStamp008_Name	スター03
 PhotoEditStamp009_Name	スター04
 PhotoEditStamp010_Name	スター05
+PhotoEditStamp171_Name	スター06
 PhotoEditStamp033_Name	タイプ：ノーマル
 PhotoEditStamp034_Name	タイプ：ほのお
 PhotoEditStamp035_Name	タイプ：みず
@@ -2845,18 +3149,22 @@ PhotoEditStamp001_Name	ハート01
 PhotoEditStamp002_Name	ハート02
 PhotoEditStamp003_Name	ハート03
 PhotoEditStamp004_Name	ハート04
+PhotoEditStamp005_Name	ハート05
 PhotoEditStamp011_Name	フラワー01
 PhotoEditStamp012_Name	フラワー02
 PhotoEditStamp013_Name	フラワー03
 PhotoEditStamp151_Name	フラワー04
+PhotoEditStamp014_Name	フラワー05
 PhotoEditStamp125_Name	帽子01
 PhotoEditStamp167_Name	帽子02
 PhotoEditStamp168_Name	帽子03
 PhotoEditStamp126_Name	帽子04
 PhotoEditStamp127_Name	帽子05
 PhotoEditStamp128_Name	帽子06
+PhotoEditStamp183_Name	帽子07
 PhotoEditStamp123_Name	かんむり01
 PhotoEditStamp166_Name	かんむり02
+PhotoEditStamp124_Name	かんむり03
 PhotoEditStamp129_Name	フキダシ01
 PhotoEditStamp130_Name	フキダシ02
 PhotoEditStamp131_Name	フキダシ03
@@ -2906,6 +3214,8 @@ PhotoEditStamp121_Name	眼鏡02
 PhotoEditStamp122_Name	眼鏡03
 PhotoEditStamp165_Name	眼鏡04
 PhotoEditStamp180_Name	眼鏡05
+PhotoEditStamp181_Name	眼鏡06
+PhotoEditStamp182_Name	眼鏡07
 PhotoEditStamp017_Name	雪01
 PhotoEditStamp018_Name	雪02
 PhotoEditStamp015_Name	リーフ01
@@ -2916,12 +3226,15 @@ PhotoEditStamp164_Name	リボン02
 PhotoEditStamp116_Name	リボン03
 PhotoEditStamp117_Name	リボン04
 PhotoEditStamp118_Name	リボン05
+PhotoEditStamp119_Name	リボン06
+PhotoEditStamp179_Name	リボン07
 PhotoEditStamp065_Name	ネオワン号
 PhotoEditStamp064_Name	リサーチカメラ
 PhotoEditStamp029_Name	ふわりんご
 PhotoEditStamp066_Name	エンブレム
 PhotoEditStamp160_Name	クルーバッジ
 PhotoEditStamp161_Name	りんごメダル
+PhotoEditStamp067_Name	モンスターボール
 PhotoEditFrame000_Name	フレームなし
 PhotoEditFrame016_Name	エフェクト01
 PhotoEditFrame017_Name	エフェクト02
@@ -2929,6 +3242,8 @@ PhotoEditFrame018_Name	エフェクト03
 PhotoEditFrame019_Name	エフェクト04
 PhotoEditFrame020_Name	エフェクト05
 PhotoEditFrame021_Name	エフェクト06
+PhotoEditFrame069_Name	エフェクト07
+PhotoEditFrame070_Name	エフェクト08
 PhotoEditFrame031_Name	コミック01
 PhotoEditFrame032_Name	コミック02
 PhotoEditFrame033_Name	コミック03
@@ -2956,6 +3271,9 @@ PhotoEditFrame055_Name	デザイン16
 PhotoEditFrame056_Name	デザイン17
 PhotoEditFrame057_Name	デザイン18
 PhotoEditFrame058_Name	デザイン19
+PhotoEditFrame059_Name	デザイン20
+PhotoEditFrame060_Name	デザイン21
+PhotoEditFrame061_Name	デザイン22
 PhotoEditFrame012_Name	フォトフレーム01
 PhotoEditFrame013_Name	フォトフレーム02
 PhotoEditFrame014_Name	フォトフレーム03
@@ -2989,6 +3307,9 @@ PhotoEditFrame081_Name	レンティル地方09
 PhotoEditFrame085_Name	レンティル地方10
 PhotoEditFrame086_Name	レンティル地方11
 PhotoEditFrame087_Name	レンティル地方12
+PhotoEditFrame075_Name	レンティル地方13
+PhotoEditFrame077_Name	レンティル地方14
+PhotoEditFrame080_Name	レンティル地方15
 PhotoEditFrame040_Name	ロゴ：左上
 PhotoEditFrame041_Name	ロゴ：左上
 PhotoEditFrame042_Name	ロゴ：左上
@@ -3002,9 +3323,11 @@ PhotoEditFrame050_Name	ロゴ：右下
 PhotoEditEffect000_Name	フィルタなし
 PhotoEditEffect001_Name	モノクロ
 PhotoEditEffect002_Name	アンティーク
+PhotoEditEffect003_Name	クール
 PhotoEditEffect004_Name	コントラスト
 PhotoEditEffect005_Name	露出
 PhotoEditEffect006_Name	ライト
+PhotoEditEffect007_Name	2階調
 PhotoEditEffect008_Name	タブロイド
 PhotoEditEffect009_Name	ハイコントラスト
 PhotoEditEffect010_Name	セル塗り
@@ -3013,6 +3336,7 @@ PhotoEditEffect012_Name	デジタルトーン
 PhotoEditEffect013_Name	ポップ
 PhotoEditEffect014_Name	魚眼
 PhotoEditEffect015_Name	ミニチュア
+PhotoEditEffect016_Name	手塗り
 PhotoEditEffect017_Name	ドット化
 PhotoEditEffect018_Name	テレビ
 PhotoEditEffect019_Name	16分割
@@ -3049,7 +3373,7 @@ PhotoEdit_Frame_Help	フレームを　選んでください
 PhotoEdit_Effect_ModeAdjust_Help	効果の　設定を　調整できます
 PhotoEdit_Effect_Compare_Help	効果を　かける前の写真を　表示します
 PhotoEx_UI.msbt
-PhotoEx_Info	  カメラ操作　  回転　  ズーム　 パネル非表示　 リセット　 終了
+PhotoEx_Info	  カメラ操作　  回転　  ズーム　 パネル非表示　 リセット　 撮影する　 Switchに保存　 終了
 PhotoEx_Brightness_Tx	明るさ
 PhotoEx_BlurStrength_Tx	ぼかしの強さ
 PhotoEx_BlurScope_Tx	ぼかしの範囲
@@ -3066,9 +3390,12 @@ PhotoEx_ShootingType_Silhouette07_Tx	シルエット07
 PhotoEx_ShootingType_Silhouette08_Tx	シルエット08
 PhotoEx_EditCaption_Tx	タイトル
 PhotoEx_Shooting_Tx	撮影する
-PhotoEx_PhotoSave_Info	この写真を　保存しますか？
+PhotoEx_PhotoSave_Info	この写真を　アルバムに　保存しますか？
 PhotoEx_PhotoSave_Yes_Tx	はい
 PhotoEx_PhotoSave_No_Tx	いいえ
+PhotoEx_PhotoSaveDownload_Info	この写真を　Nintendo Switchのアルバムに　保存しますか？
+PhotoEx_PhotoSaveDownload_Yes_Tx	はい
+PhotoEx_PhotoSaveDownload_No_Tx	いいえ
 PhotoSubmit_UI.msbt
 PhotoSubmit_Select_Help	博士に見せる写真を　選んでください
 PhotoSubmit_Select_Submit_Tx	博士に見せる
@@ -3089,6 +3416,8 @@ PhotoSubmit_Submit_CancelCheck_Tx	キャンセル
 PhotoSubmit_Submit_CancelCheck_Help	選んだ写真のチェックを　外します
 PhotoSubmit_Submit_NoIlluminaBoss_Help	イルミナ現象を　捉えていない写真は　選べません
 PhotoSubmit_Submit_NoIlluminaFlower_Help	イルミナ現象を　捉えていない写真は　選べません
+PhotoSubmit_Select_MisClear_Help	博士に見せる写真を　選んでください（リクエストされた写真）
+PhotoSubmit_Submit_CancelCheck_MisClear_Help	選んだ写真のチェックを　外します
 PictureBookEtc_UI.msbt
 PictureBookEtc_Top_Help	確認したいコレクションを　選んでください
 PictureBookEtc_Top_Head	コレクション
@@ -3141,13 +3470,20 @@ Stage008_Info	古代のポケモンが\n今も　生き続ける\n灼熱の　�
 Stage009_Info	解けることのない　雪と\n氷で　閉ざされた\n極寒の　銀世界。
 Stage010_Info	地底へ　深く\n続いている\n最果ての　洞窟。
 Stage011_Info	忘れられた島に　眠る\n太古に　作られた\n謎の　遺跡。
+Stage012_Info	ネオワン号の　機能で\n小さくなって行く\nヒミツの　抜け道。
+Stage013_Info	栄養たっぷりの　水を\n島中に　届ける\n恵みの　川。
 Stage014_Info	心地よい　波の音と\n歌声が　響き渡る\nサンゴの海。
+Stage015_Info	岩壁そびえる　荒野。\nえぐられた　大地からは\n毒や　熱が　噴き出す。
 Stage101_Info	レンティル地方の\n調査の　拠点となる\n研究施設。
 Course001_Info	広々とした湖と　色とりどりの花畑を通る\nポケモンを観察しやすい　体験会の　定番ルート。
 Course002_Info	月の光に照らされ　昼間とは　違う行動をする\nポケモンたちが　観察できるルート。
+Course003_Info	ポケモンだけが知っている　ヒミツの抜け道の先。\n小さくなることで　いつもと違う世界が　見られる。
+Course004_Info	木々の影に覆われた　ヒミツの抜け道の先。\n幻想的に　光るキノコに　照らされている。
 Course005_Info	自然公園の　小高い丘にある　花畑。\nフロレオ島のイルミナポケモン　メガニウムがいる。
 Course006_Info	はるか昔から　生き続ける巨木や　滝のある　密林。\n複雑に生い茂る　木々のあいだには　ポケモンが見え隠れする。
 Course007_Info	静かな夜の密林では　光を放つ　草木に\n惹かれるように　多くのポケモンたちが　活動する。
+Course008_Info	起伏の激しい　谷に流れる　大きな川。\n自然豊かな　川辺には　さまざまなポケモンが集まる。
+Course009_Info	夜の闇に包まれた　急流を下る　大冒険。\n底の見えぬ　水中や　岩場には　ポケモンたちの気配。
 Course010_Info	霧の深い樹海には　時を忘れさせ\n気候すら狂わす　ふしぎな力が　秘められている。
 Course011_Info	樹海の　奥地にある　澄み渡った　湖。\nベラス島のイルミナポケモン　ミロカロスがいる。
 Course012_Info	コピア諸島の中でも　もっとも美しい　浜辺。\n砂浜では　ポケモンたちが　おだやかに暮らしている。
@@ -3158,6 +3494,8 @@ Course016_Info	ブルーホールの中を　潜っていくと\n光あふれる
 Course017_Info	レンティル海床の　もっとも深い場所にある　岩場。\nコピア諸島のイルミナポケモン　ヨワシがいる。
 Course018_Info	砂嵐が　ふきすさぶ　猛暑の砂漠。\n大小　さまざまなポケモンたちが　オアシスに集まる。
 Course019_Info	陽が落ちて　多くのポケモンが　眠りにつく頃\n小さなポケモンたちが　活動をはじめる。
+Course020_Info	砂漠からの　乾いた風の吹く　荒野には\nガスの噴き出る　毒沼や　間欠泉が広がる。
+Course021_Info	たくさんの流れ星が　大地を削り\n荒野の　奇妙な地形を　作り出している。
 Course022_Info	灼熱のマグマが流れる　火山帯。\nはるか古代から　力を示してきたポケモンたちがいる。
 Course023_Info	火山帯の中　火口が2つある　もっとも大きな火山。\nボルク島のイルミナポケモン　ウルガモスがいる。
 Course024_Info	冒険記にもない　前人未到の　銀世界。\n深い雪に覆われた山も　ポケモンたちの住処。
@@ -3168,7 +3506,6 @@ Course028_Info	レンティルの歴史を　知るための　大きな手が�
 Course029_Info	シューゴ遺跡の　ガレキで閉ざされた　入口の先。\nアウラム島のイルミナポケモン　ゼルネアスが　眠りについている。
 Course030_Info	博士の研究室もある　調査の拠点。\n自然公園の　敷地内で　ポケモンも自由に出入りしている。
 Place_Name.msbt
-Region001_Name	レンティル地方
 Island001_Name	フロレオ島
 Island002_Name	ベラス島
 Island003_Name	コピア諸島
@@ -3185,13 +3522,20 @@ Stage008_Name	ドロー火山
 Stage009_Name	ヒエール雪原
 Stage010_Name	ハナレ洞窟
 Stage011_Name	シューゴ遺跡
+Stage012_Name	カクレ抜け道
+Stage013_Name	ヨーヨーリバー
 Stage014_Name	コピアリーフ
+Stage015_Name	カラリ荒野
 Stage101_Name	ベースキャンプ
 Course001_Name	公園（昼）
 Course002_Name	公園（夜）
+Course003_Name	抜け道（昼）
+Course004_Name	抜け道（夜）
 Course005_Name	イルミナスポット
 Course006_Name	ジャングル（昼）
 Course007_Name	ジャングル（夜）
+Course008_Name	リバー（昼）
+Course009_Name	リバー（夜）
 Course010_Name	樹海
 Course011_Name	イルミナスポット
 Course012_Name	ビーチ（昼）
@@ -3202,6 +3546,8 @@ Course016_Name	海中
 Course017_Name	イルミナスポット
 Course018_Name	砂漠（昼）
 Course019_Name	砂漠（夜）
+Course020_Name	荒野（昼）
+Course021_Name	荒野（夜）
 Course022_Name	火山
 Course023_Name	イルミナスポット
 Course024_Name	雪原（昼）
@@ -3211,16 +3557,12 @@ Course027_Name	イルミナスポット
 Course028_Name	遺跡
 Course029_Name	イルミナスポット
 Course030_Name	ベースキャンプ
-Collection_Course001_Name	公園
 Collection_Course003_Name	フロレオ島のイルミナスポット
 Collection_Course004_Name	ジャングル
 Collection_Course006_Name	樹海
 Collection_Course007_Name	ベラス島のイルミナスポット
-Collection_Course008_Name	ビーチ
-Collection_Course009_Name	海上
 Collection_Course010_Name	海中
 Collection_Course011_Name	コピア諸島のイルミナスポット
-Collection_Course012_Name	砂漠
 Collection_Course014_Name	火山
 Collection_Course015_Name	ボルク島のイルミナスポット
 Collection_Course016_Name	雪原
@@ -3228,7 +3570,6 @@ Collection_Course017_Name	洞窟
 Collection_Course018_Name	デュラス島のイルミナスポット
 Collection_Course019_Name	遺跡
 Collection_Course020_Name	アウラム島のイルミナスポット
-Collection_Course021_Name	ベースキャンプ
 OtherPlace001_Name	レンティル ポケモン自然科学研究所
 Poke_Class.msbt
 P001_Class_00	ねずみポケモン
@@ -3279,6 +3620,7 @@ P047_Class_00	ランデブーポケモン
 P048_Class_00	とりポケモン
 P049_Class_00	いわへびポケモン
 P050_Class_00	やしのみポケモン
+P051_Class_00	おおあごポケモン
 P052_Class_00	フラワーポケモン
 P053_Class_00	ものぐさポケモン
 P054_Class_00	きょうぼうポケモン
@@ -3300,6 +3642,7 @@ P069_Class_00	ねずみポケモン
 P070_Class_00	あわはきポケモン
 P071_Class_00	かいりきポケモン
 P072_Class_00	ほのおポケモン
+P073_Class_00	いねむりポケモン
 P074_Class_00	ハーブポケモン
 P075_Class_00	げっこうポケモン
 P076_Class_00	ふくろうポケモン
@@ -3310,6 +3653,7 @@ P080_Class_00	ふんしゃポケモン
 P081_Class_00	こツバメポケモン
 P082_Class_00	みずどりポケモン
 P083_Class_00	ネコイタチポケモン
+P084_Class_00	きのこポケモン
 P085_Class_00	キバへびポケモン
 P086_Class_00	はちのこポケモン
 P087_Class_00	たいりくポケモン
@@ -3321,6 +3665,7 @@ P092_Class_00	しんりょくポケモン
 P093_Class_00	ききゅうポケモン
 P094_Class_00	かいゆうポケモン
 P095_Class_00	かんしゃポケモン
+P096_Class_00	きのこポケモン
 P097_Class_00	ずつきうしポケモン
 P098_Class_00	かいてんポケモン
 P099_Class_00	むすびつきポケモン
@@ -3342,15 +3687,31 @@ P114_Class_00	みずとかげポケモン
 P115_Class_00	たねポケモン
 P116_Class_00	コブラポケモン
 P117_Class_00	ねずみポケモン
+P118_Class_00	もぐらポケモン
+P119_Class_00	あひるポケモン
+P120_Class_00	どくガスポケモン
 P121_Class_00	おやこポケモン
+P122_Class_00	きょうあくポケモン
 P123_Class_00	しんしゅポケモン
 P124_Class_00	いつつぼしポケモン
+P125_Class_00	ほしがたポケモン
+P126_Class_00	とうみんポケモン
 P127_Class_00	よろいポケモン
+P128_Class_00	どくぶくろポケモン
 P129_Class_00	ありじごくポケモン
+P130_Class_00	フルーツポケモン
 P131_Class_00	ぬまうおポケモン
 P132_Class_00	せんこうポケモン
+P133_Class_00	キバさそりポケモン
+P134_Class_00	ひぶたポケモン
+P135_Class_00	もぐらポケモン
+P136_Class_00	メガムカデポケモン
+P137_Class_00	いわやどポケモン
 P138_Class_00	はつでんポケモン
+P139_Class_00	こいぬポケモン
+P140_Class_00	どくトカゲポケモン
 P141_Class_00	ながれぼしポケモン
+P142_Class_00	じんらいポケモン
 P143_Class_00	ねずみポケモン
 P144_Class_00	ねずみポケモン
 P145_Class_00	きつねポケモン
@@ -3548,6 +3909,7 @@ P047_Height_00	0.6m
 P048_Height_00	1.5m
 P049_Height_00	8.8m
 P050_Height_00	2.0m
+P051_Height_00	2.3m
 P052_Height_00	0.4m
 P053_Height_00	2.0m
 P054_Height_00	1.8m
@@ -3570,6 +3932,7 @@ P069_Height_00	0.7m
 P070_Height_00	1.0m
 P071_Height_00	1.6m
 P072_Height_00	0.9m
+P073_Height_00	2.1m
 P074_Height_00	??.?m
 P075_Height_00	1.0m
 P076_Height_00	0.7m
@@ -3580,6 +3943,7 @@ P080_Height_00	0.9m
 P081_Height_00	0.3m
 P082_Height_00	1.2m
 P083_Height_00	1.3m
+P084_Height_00	0.4m
 P085_Height_00	2.7m
 P086_Height_00	0.3m
 P087_Height_00	2.2m
@@ -3591,6 +3955,7 @@ P092_Height_00	1.0m
 P093_Height_00	1.2m
 P094_Height_00	0.3m
 P095_Height_00	0.2m
+P096_Height_00	0.2m
 P097_Height_00	1.6m
 P098_Height_00	0.4m
 P099_Height_00	1.0m
@@ -3613,15 +3978,31 @@ P114_Height_00	0.3m
 P115_Height_00	2.0m
 P116_Height_00	3.5m
 P117_Height_00	0.6m
+P118_Height_00	0.2m
+P119_Height_00	0.8m
+P120_Height_00	0.6m
 P121_Height_00	2.2m
+P122_Height_00	6.5m
 P123_Height_00	0.4m
 P124_Height_00	1.4m
+P125_Height_00	0.3m
+P126_Height_00	1.8m
 P127_Height_00	2.0m
+P128_Height_00	1.7m
 P129_Height_00	0.7m
+P130_Height_00	2.0m
 P131_Height_00	1.5m
 P132_Height_00	0.5m
+P133_Height_00	2.0m
+P134_Height_00	0.5m
+P135_Height_00	0.3m
+P136_Height_00	2.5m
+P137_Height_00	1.4m
 P138_Height_00	1.0m
+P139_Height_00	0.5m
+P140_Height_00	1.2m
 P141_Height_00	0.3m
+P142_Height_00	1.5m
 P143_Height_00	0.3m
 P144_Height_00	1.2m
 P145_Height_00	0.6m
@@ -3768,6 +4149,7 @@ P047_Info_00	ハートの形をした　体は\n目立つので　狙われや�
 P048_Info_00	羽ばたけば　あらゆるものを\n吹き飛ばす　大風を起こすよ。\n遠くではねる　コイキングも\n見逃さない　視力も　持っているんだ。
 P049_Info_00	岩の壁も　砂の海も\n自由に　動きまわることができるよ。\nイワークが　通ってできた　穴は\nほかのポケモンの　巣穴になるんだ。
 P050_Info_00	3つある頭は　それぞれ違うことを\n考えているけど　仲良しなんだよ。\n浜辺の木に　寄り添って　眠るのは\n擬態して　身を守るためなんだ。
+P051_Info_00	体が重いけど　力強い　後ろ足で\n地面を蹴ると　すごいスピードが　出せるんだ。\nヨーヨーリバーでは　よく　水中から\n飛び出してきて　びっくりしたよね。
 P052_Info_00	ふだんは　茂みの中で\n隠れて　暮らしているよ。\nうれしいことがあると　出てきて\n仲間と一緒に　踊るんだ。
 P053_Info_00	世界一　ぐうたらで　手の届くものしか\n食べない　ものぐさなポケモンだよ。\nでも　すごく　おなかが　空いていたのか\n夜には　歩いている様子も　見られたね。
 P054_Info_00	誰にでも　泳ぎの勝負を　仕掛ける\n「海のギャング」と　呼ばれているよ。\n泳ぎは　速いけど　長い時間\nスピードを保てないのが　弱点なんだ。
@@ -3790,6 +4172,7 @@ P069_Info_00	サイコパワーを使った\nしっぽでの波乗りが　得�
 P070_Info_00	何もいないように　見える\nブルーホールで　暮らしているよ。\n細胞が　水の分子に　似ているから\n水中にいると　見えなくなるんだ。
 P071_Info_00	鍛え抜かれた　4本の腕は\n泳ぐときにも　活躍するんだ。\n海で暮らすポケモンにも　負けないほど\n速く　泳ぐことができるんだよ。
 P072_Info_00	好奇心が強くて　さまざまなものに\n興味を示すよ。　興奮すると\n体温が上がるけど　ふさふさの体毛から\n熱を出すことで　冷やすんだ。
+P073_Info_00	自分の重さと　同じくらいの量を\n食べるおなかは　まさにキングサイズだね。\n小さなポケモンの　ベッドになっても\nカビゴンは　気にしないみたいだ。
 P074_Info_00	フロレオ島で　100年ぶりに\n姿を現し　キミが撮影した\nイルミナポケモンだよ。\n花の咲く丘では　色んなポケモンと\n仲のいい様子が　見られたね。
 P075_Info_00	うれしいことがあると　体にある\n模様が光って　エネルギーを生み出すよ。\n遺跡では　よくアブソルと\n一緒にいる様子が　見られたね。
 P076_Info_00	時計よりも　時間に正確だと\nいわれている　ポケモンだよ。\n光が苦手な　夜行性なので\n昼間は　木の穴の中で　眠っているんだ。
@@ -3800,6 +4183,7 @@ P080_Info_00	潜むのに　ぴったりな\n岩陰を探して　歩きまわ�
 P081_Info_00	寒くなると　食べ物を求めて\n自然公園に　たくさんやってくるよ。\nケムッソに　ちょっかいを出すけど\n反撃されることが　多いんだ。
 P082_Info_00	クチバシに　ものを入れて　運ぶことから\n「空の運び屋」と　呼ばれているよ。\nおなかがすいたときは　食べ物を求めて\n水の中に　潜ることもあるんだ。
 P083_Info_00	攻撃してきた相手に　鋭いツメで\n立ち向かう　勇ましい　一面もあるよ。\nでも実は　波の音や　歌声を聴きながら\nおだやかに　過ごすのが　好きみたいだね。
+P084_Info_00	木陰の　湿った場所が好きで\nひっそりと　暮らしているんだ。\n驚いたりすると　頭から　毒の胞子を\nばらまくから　要注意だよ。
 P085_Info_00	几帳面な　性格なのか\nいつも　しっぽの刃を　研いでいたね。\nこの刃は　鋭い上に\n猛毒が　染み出していて　危険なんだよ。
 P086_Info_00	生まれたときから　3匹で一緒に\nビークインのために　働いているんだ。\nクリスタフラワーの近くで　集められたミツは\nとても甘くて　濃厚なんだよ。
 P087_Info_00	森の奥で　群れを作って　暮らしているよ。\n草木の生えた　大きな背中は\n小さなポケモンにとって\n安心できる　場所のようだね。
@@ -3811,6 +4195,7 @@ P092_Info_00	ジャングルの　滝の近くは\nとても　空気が澄ん�
 P093_Info_00	昼間は　気ままに浮かんでいて\n夕方になると　どこかへ飛んでいくよ。\nフワライドが　移動を手伝ったあと\n見つからない　パールルもいるみたいだね。
 P094_Info_00	あらゆるポケモンと　心を通い合わせる\nふしぎな力を　持っているよ。\n美しい歌声に　ひかれるように\n海底から　すがたを現すんだ。
 P095_Info_00	荒れた大地も　復活させる\nふしぎな力を　持っているよ。\n丸くなると　花にしか見えないので\n近くにいても　認識できないんだ。
+P096_Info_00	レンティルでは　流通していないはずの\nモンスターボールに似た　すがたをしているよ。\nなぜ　このすがたなのか\n理由は　解明されていないんだ。
 P097_Info_00	突進しながらの　頭突きの威力は\n大岩を　粉砕するほどなんだよ。\n群れの中で　大ゲンカになっても\n頭のふさふさの　おかげでケガはしないんだ。
 P098_Info_00	光るものや　水中に響く音に\nついつい　反応してしまうよ。\nふだんは　発光することで　仲間と\n情報を　交換しているからなんだ。
 P099_Info_00	自然公園の　花畑が\n好きで　住処にしているよ。\n心を穏やかにする　波動を出すときは\n軽やかなステップで　踊るんだ。
@@ -3833,16 +4218,32 @@ P114_Info_00	とても臆病で　びっくりするだけで\n催涙成分を�
 P115_Info_00	背中にある　大きな花の香りは\nポケモンの心を　和ませるんだ。\n水辺にいる　小さなポケモンたちも\n安心して　遊んでいたね。
 P116_Info_00	ジャングルでは　木の上で\n器用に　眠っていたね。\nおなかにある　顔にも見える　模様は\n相手を　威嚇するときに　見せつけるんだ。
 P117_Info_00	背中が　かたい皮ふで　覆われていて\n体を　丸めることで　身を守るよ。\nそのまま　転がることで　砂漠を\nすばやく　移動することもできるんだ。
+P118_Info_00	太陽光が　苦手なので\n土の中で　暮らしているよ。\nイワークが　掘り進んだあと　できた穴は\nディグダの巣に　ぴったりなんだ。
+P119_Info_00	いつも　頭痛に　悩まされていて\nぼんやりしていることが　多いんだ。\n川に　流されることも　あるけど\nコダックは　気にしていないみたいだね。
+P120_Info_00	体には　猛毒のガスが　詰まっているよ。\n大きく　膨らむことがあるのは\n毒沼の　成分によって　化学変化が\n促進されるからなんだ。
 P121_Info_00	おなかの袋で　子育てをするよ。\n近づく相手には　威嚇するけど\n子どもを守ろうという　意思が強いからで\n本当は　優しいポケモンなんだ。
+P122_Info_00	とても凶暴で　あらゆるものを\n破壊する　力を持つポケモンだよ。\nヨーヨーリバーの　岩壁が　削られていたのは\nギャラドスが　滝を　登ったからなんだ。
 P123_Info_00	遺跡に　隠れて暮らしている\nとても　知能の高いポケモンだよ。\n清らかな　心の持ち主の　近くにだけ\nすがたを現すと　いわれているよ。
 P124_Info_00	夜になると　きらめく粉を\nふりまきながら　飛ぶよ。\n星明かりを　エネルギーにする性質から\n光るものに　ひかれやすいみたいだね。
+P125_Info_00	夜空の見える　洞窟で\n踊っている様子が　見られたね。\nピィは　太古の昔　流れ星に乗って\nやってきたと　いわれているんだよ。
+P126_Info_00	木に　大きなツメあとが　あったら\nそこは　リングマの　ナワバリだよ。\n気に入った場所を　ほかのポケモンに\n取られないよう　目印をつけるんだ。
 P127_Info_00	砂嵐の中で　眠れてしまうくらい\nがんじょうな体を　持っているよ。\n砂漠では　強い相手との　戦いを\n待ち望んでいるようだったね。
+P128_Info_00	なんでも　丸飲みにして\n消化してしまう　食いしん坊だよ。\n毒があるものが　好きだから　毒沼は\nマルノームにとって　ごちそうの山なんだ。
 P129_Info_00	砂漠にある　すり鉢状に\nくぼんだ場所は　ナックラーの巣だよ。\n身を守りながら　落ちてきた食べ物を\n受け取れる　合理的なつくりなんだ。
+P130_Info_00	首元に実った　甘い房を\nみんなに分け与える　優しいポケモンだよ。\n大きな体だけど　軽やかに\n空を飛ぶことが　できるんだ。
 P131_Info_00	濁った川の水を　見通すことができる\n視力を　持っているんだ。\n地上で　泥かけをしているのは\n皮ふの潤いを　保つためなんだよ。
 P132_Info_00	ヒトカゲと　追いかけっこしたり\n遊んでいる様子が　見られたね。\n前足には　駆けまわることで\n電気を作り出す　仕組みがあるんだよ。
+P133_Info_00	大きなしっぽで　岩場にぶらさがって\nまわりを　観察していたね。\n食べ物を　狙うときは　まったく　音を立てず\n滑空するように　飛ぶんだ。
+P134_Info_00	体内で　作った　炎を\n鼻から　撃つことができるよ。\n嗅覚も　優れていて　においで\n食べ物を　探すのが　得意なんだ。
+P135_Info_00	両手のツメを　重ね合わせたまま\n体をスピンさせて　地中を　掘り進むよ。\n地上に　顔を出すのは\nひと休みするためなんだ。
+P136_Info_00	すばやい動きで　相手を追いつめる\n攻撃的な　一面があるよ。\n体を丸めて　眠るのは\n昔の　名残りかもしれないね。
+P137_Info_00	背負っている岩は　ナワバリ争いのときに\n壊されたら　負けになる　大事なものなんだ。\n間欠泉の　成分で　硬くなった岩が\nイワパレスの　お気に入りみたいだね。
 P138_Info_00	脚の筋肉を　電気で刺激して\nすばやく動かすと　水面も走れるんだ。\nエリマキを広げると　一度に作れる\n電気の量も　増えるんだよ。
+P139_Info_00	ほかのポケモンと　仲良くなるのが　得意で\nよく　遊んでいる様子が　見られたね。\nいざというときは　みんなを守るために\n行動する　勇敢さを　持っているんだ。
+P140_Info_00	間欠泉のあたりは　甘い香りがしたよね。\nあれは　エンニュートの\n毒ガスに含まれる　フェロモンが\n砂や　水に　染み込んでいるからなんだ。
 P141_Info_00	ふだんは　硬いカラに包まれているけど\nこれが　本来のすがたなんだ。\nコアの状態でも　動きまわれるのは\nイルミナ現象に　関係ある\nかもしれないね。
 P141_Info_01	夜空から　やってきたと\nいわれているポケモンだよ。\n砂漠で　空に　帰っていく\n様子は　きれいだったね。
+P142_Info_00	ボルク島の　平和を守るため　雷が\n落ちるのと　同じ速さでパトロールしているよ。\nカラリ荒野では　すがたを\n見ることができて　運が良かったね。
 P143_Info_00	よく　研究室の近くで\nヤブクロンと　遊んでいるね。\n伸び続けるキバを　削るためとはいえ\n柱をかじられるのは　困ってしまうよ。
 P144_Info_00	大きなツメのおかげで　雪の中を\n泳ぐように　移動できるんだ。\n背中にある　氷のトゲは　ツメよりも\n鋭くて　あらゆるものから　身を守るよ。
 P145_Info_00	警戒しているときは　口から\n冷気を吐いて　威嚇するよ。\n仲良しのポケモンとは　追いかけっこしたり\n無邪気に　遊んでいたね。
@@ -3989,6 +4390,7 @@ P047_Name	ラブカス
 P048_Name	ピジョット
 P049_Name	イワーク
 P050_Name	ナッシー
+P051_Name	オーダイル
 P052_Name	キレイハナ
 P053_Name	ケッキング
 P054_Name	サメハダー
@@ -4010,6 +4412,7 @@ P069_Name	ライチュウ
 P070_Name	シャワーズ
 P071_Name	カイリキー
 P072_Name	ブースター
+P073_Name	カビゴン
 P074_Name	メガニウム
 P075_Name	ブラッキー
 P076_Name	ホーホー
@@ -4020,6 +4423,7 @@ P080_Name	オクタン
 P081_Name	スバメ
 P082_Name	ペリッパー
 P083_Name	ザングース
+P084_Name	キノココ
 P085_Name	ハブネーク
 P086_Name	ミツハニー
 P087_Name	ドダイトス
@@ -4031,6 +4435,7 @@ P092_Name	リーフィア
 P093_Name	フワライド
 P094_Name	マナフィ
 P095_Name	シェイミ
+P096_Name	タマゲタケ
 P097_Name	バッフロン
 P098_Name	マーイーカ
 P099_Name	ニンフィア
@@ -4052,15 +4457,31 @@ P114_Name	メッソン
 P115_Name	フシギバナ
 P116_Name	アーボック
 P117_Name	サンド
+P118_Name	ディグダ
+P119_Name	コダック
+P120_Name	ドガース
 P121_Name	ガルーラ
+P122_Name	ギャラドス
 P123_Name	ミュウ
 P124_Name	レディアン
+P125_Name	ピィ
+P126_Name	リングマ
 P127_Name	バンギラス
+P128_Name	マルノーム
 P129_Name	ナックラー
+P130_Name	トロピウス
 P131_Name	ラグラージ
 P132_Name	コリンク
+P133_Name	グライオン
+P134_Name	ポカブ
+P135_Name	モグリュー
+P136_Name	ペンドラー
+P137_Name	イワパレス
 P138_Name	エレザード
+P139_Name	イワンコ
+P140_Name	エンニュート
 P141_Name	メテノ
+P142_Name	ゼラオラ
 P143_Name	コラッタ
 P144_Name	サンドパン
 P145_Name	ロコン
@@ -4223,6 +4644,7 @@ P047_Weight_00	8.7kg
 P048_Weight_00	39.5kg
 P049_Weight_00	210.0kg
 P050_Weight_00	120.0kg
+P051_Weight_00	88.8kg
 P052_Weight_00	5.8kg
 P053_Weight_00	130.5kg
 P054_Weight_00	88.8kg
@@ -4244,6 +4666,7 @@ P069_Weight_00	21.0kg
 P070_Weight_00	29.0kg
 P071_Weight_00	130.0kg
 P072_Weight_00	25.0kg
+P073_Weight_00	460.0kg
 P074_Weight_00	???.?kg
 P075_Weight_00	27.0kg
 P076_Weight_00	21.2kg
@@ -4254,6 +4677,7 @@ P080_Weight_00	28.5kg
 P081_Weight_00	2.3kg
 P082_Weight_00	28.0kg
 P083_Weight_00	40.3kg
+P084_Weight_00	4.5kg
 P085_Weight_00	52.5kg
 P086_Weight_00	5.5kg
 P087_Weight_00	310.0kg
@@ -4265,6 +4689,7 @@ P092_Weight_00	25.5kg
 P093_Weight_00	15.0kg
 P094_Weight_00	1.4kg
 P095_Weight_00	2.1kg
+P096_Weight_00	1.0kg
 P097_Weight_00	94.6kg
 P098_Weight_00	3.5kg
 P099_Weight_00	23.5kg
@@ -4287,16 +4712,32 @@ P114_Weight_00	4.0kg
 P115_Weight_00	100.0kg
 P116_Weight_00	65.0kg
 P117_Weight_00	12.0kg
+P118_Weight_00	0.8kg
+P119_Weight_00	19.6kg
+P120_Weight_00	1.0kg
 P121_Weight_00	80.0kg
+P122_Weight_00	235.0kg
 P123_Weight_00	4.0kg
 P124_Weight_00	35.6kg
+P125_Weight_00	3.0kg
+P126_Weight_00	125.8kg
 P127_Weight_00	202.0kg
+P128_Weight_00	80.0kg
 P129_Weight_00	15.0kg
+P130_Weight_00	100.0kg
 P131_Weight_00	81.9kg
 P132_Weight_00	9.5kg
+P133_Weight_00	42.5kg
+P134_Weight_00	9.9kg
+P135_Weight_00	8.5kg
+P136_Weight_00	200.5kg
+P137_Weight_00	200.0kg
 P138_Weight_00	21.0kg
+P139_Weight_00	9.2kg
+P140_Weight_00	22.2kg
 P141_Weight_00	40.0kg
 P141_Weight_01	0.3kg
+P142_Weight_00	44.5kg
 P143_Weight_00	3.5kg
 P144_Weight_00	55.0kg
 P145_Weight_00	9.9kg
@@ -4443,6 +4884,7 @@ ProfileIcon045_Name	トオル：基本
 ProfileIcon046_Name	トオル：笑顔
 ProfileIcon047_Name	トオル：ハート
 ProfileIcon048_Name	トオル：驚き
+ProfileIcon049_Name	キャプテン・ビクトル
 ProfileIcon050_Name	タイプ：ノーマル
 ProfileIcon051_Name	タイプ：ほのお
 ProfileIcon052_Name	タイプ：みず
@@ -4461,9 +4903,12 @@ ProfileIcon064_Name	タイプ：ドラゴン
 ProfileIcon065_Name	タイプ：あく
 ProfileIcon066_Name	タイプ：はがね
 ProfileIcon067_Name	タイプ：フェアリー
+ProfileIcon068_Name	昼の花畑
+ProfileIcon069_Name	夜の花畑
 ProfileIcon070_Name	湖
 ProfileIcon071_Name	山
 ProfileIcon072_Name	ジャングル
+ProfileIcon073_Name	リバー
 ProfileIcon074_Name	霧の森
 ProfileIcon075_Name	春の花
 ProfileIcon076_Name	夏の竹林
@@ -4476,6 +4921,7 @@ ProfileIcon082_Name	海中
 ProfileIcon083_Name	砂漠
 ProfileIcon084_Name	オアシス
 ProfileIcon085_Name	流れ星
+ProfileIcon086_Name	荒野
 ProfileIcon087_Name	火山
 ProfileIcon088_Name	氷の洞窟
 ProfileIcon089_Name	オーロラ
@@ -4584,6 +5030,7 @@ Reward020_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0
 Reward021_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}秋の季節{color[ffff]}を\n発見した
 Reward022_Reward_Info	{color[0000]}トキシキの森{color[ffff]}で　{color[0000]}冬の季節{color[ffff]}を\n発見した
 Reward023_Reward_Info	{color[0000]}{[0301|00cd]}{color[ffff]}の\n調査レベルが　{color[0000]}MAX{color[ffff]}になった
+Reward101_Reward_Info	アップデートの　お知らせを\n確認した
 ScenarioCutScene_Lines.msbt
 SD_01_01_cs_001	おーい！\nこっちこっち！
 SD_01_01_cs_002	やぁ
@@ -5323,6 +5770,11 @@ VC_005_1A_e01_001	よく見つけたな。\n沼のポケモンに　近付ける
 VC_005_1A_e02_001	わー　滝の裏側に　行けるみたいだよ。\nどう見えるのかな？
 VC_005_1B_s00_001	かなりの暗さだね。\nポケモンを見つけるのも　大変そうだ。
 VC_005_1B_s00_002	光った状態の　{color[0000]}クリスタフラワー{color[ffff]}を\n探してみてくれ。
+VC_005_2A_s00_001	これは　川の　支流だね。
+VC_005_2A_s00_002	このまま進んで　本流に出よう。
+VC_005_2A_e01_001	お　新ルート発見だね。\nここは･･････　岩が　うっすら光ってるのか？
+VC_005_2B_s00_001	このくらいの　明るさがあれば\n十分　撮影できるかな。
+VC_005_2B_s00_002	よく見ると　ポケモンたちが\nたくさん　いるはずだよ。
 VC_006_1A_s00_001	霧が　ずいぶん　深いようだね。
 VC_006_1A_s00_002	通信も　少し　不安定かな。\n慎重に行こう。
 VC_006_1A_e00_001	これって　春に咲く　花だよね？\n急に　春になっちゃったの？？
@@ -5364,6 +5816,11 @@ VC_007_1A_s00_002	ポケモンたちの　暮らしも\nかなり　違ってい
 VC_007_1A_e01_001	あれ？　ここにいたポケモン　どこ行った？\n今のうちに　奥に行ってみようぜ！
 VC_007_1B_s00_001	星が　すごくきれいだ。
 VC_007_1B_s00_002	昼と違って　夜は\n空気が　澄んでいるみたいだね。
+VC_007_2A_s00_001	砂漠とは　がらっと\n環境が　変わったね。
+VC_007_2A_s00_002	さっそく　初めて見る\nポケモンが　いるみたいだよ。
+VC_007_2A_e00_001	大丈夫？？\n今　ネオワン号が　飛び上がらなかった？？
+VC_007_2B_s00_001	昼は　暑いから　夜の方が\nポケモンたちも　過ごしやすそうだね。
+VC_007_2B_s00_002	くつろいだ様子が　見れるんじゃないかな？
 VC_008_1A_s00_001	かなりの　暑さだね。\nそれは･･････　温泉かな。
 VC_008_1A_s00_002	火山は　少し先に\n見えてくるはずだよ。
 VC_008_1A_e00_001	その奥に　ふしぎな反応があるって\n博士が　言ってるぞ。
@@ -5415,6 +5872,17 @@ VC_011_3A_e00_002	{color[0000]}イルミナ状態{color[ffff]}の　ゼルネア
 VC_011_3A_e01_001	そのオーラに　イルミナオーブを当てると\nどうなるかな？
 VC_011_3A_e01_002	イルミナオーブなら　ゼルネアスに\nエネルギーを　与えられるかもしれない･･････。
 VC_011_3A_e01_003	光る模様が　出たら\nその様子の　撮影を頼むよ！
+VC_001_2A_e00_001	お　そこだ！
+VC_001_2A_e00_002	その先に　行けるって\nモニターにも　出てる！
+VC_001_2A_e00_003	ポケモンたちの　秘密の世界へ\n出発だ！
+VC_001_2A_s00_001	すっげー　ホントに小さくなった。
+VC_001_2A_s00_002	見張っとくから　楽しんで来いよな！
+VC_001_2A_e01_001	テスト機能では　ここまでらしーぜ。
+VC_001_2A_e01_002	ここを抜けたら　自動で\n元の大きさに　戻るみたい。
+VC_001_2A_e01_003	戻ったら　話　聞かせろよ！
+VC_001_2A_e02_001	こんなところに　入っていくのかよ！\nどこに　つながっているんだ？
+VC_001_2B_s00_001	お　夜でも　その機能を\n使ってみたんだね。
+VC_001_2B_s00_002	あいつ　なかなか　面白い\n発明したなぁ･･････。
 VC_Com_StartChange_001	あれ？\n少し雰囲気が　変わったかな？
 VC_Com_StartChange_002	これは･･････\n新しい発見が　ありそうだ。
 VC_Com_StartChange_003	前に　調査したときと\nちょっと　違う気がするね。
@@ -5488,6 +5956,7 @@ VC_Com_Praise2_006	うわっ　くぅー！　いいトコ　撮ったな！
 VC_Com_SearchAnalysis_001	これは　火で　焼いたんじゃないよ。\nどのポケモンか　わかるかな？
 VC_Com_SearchAnalysis_002	これって　寝息？
 VC_Com_SearchAnalysis_003	これは　古代遺跡の　1つだね。
+VC_Com_SearchAnalysis_004	どっかから　あっちに行けるのか？
 VC_Com_SearchAnalysis_006	これ　好きなポケモン　いそうだよね。
 VC_Com_SearchAnalysis_007	うーん　ウットリする　歌声だねぇ。
 VC_Com_SearchAnalysis_008	すっげー！　これやったの\nどのポケモンだろ？
@@ -5497,10 +5966,14 @@ VC_Com_SearchAnalysis_011	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_012	あっち　行きたいのにー！\nこれ　壊せるポケモン　いないのか？
 VC_Com_SearchAnalysis_013	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_014	レパルダスが　通してくれればな～。
+VC_Com_SearchAnalysis_015	おお～！　どんなポケモンなんだろな！
+VC_Com_SearchAnalysis_016	何か　オレンジ色のもの　見えたよね？
 VC_Com_SearchAnalysis_017	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_018	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_019	よーし！　探そうぜ！
 VC_Com_SearchAnalysis_020	ん？　中に　何かいそうだね。
+VC_Com_SearchAnalysis_022	最近できたもの･･････　のようだね。
+VC_Com_SearchAnalysis_023	これ　全部　通ったあと　なのかよー！？
 VC_Com_SearchAnalysis_024	ここにいるプテラは　もしかして･･････
 VC_Com_SearchAnalysis_025	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_026	これは　古代遺跡の　1つだね。
@@ -5513,6 +5986,10 @@ VC_Com_SearchAnalysis_035	これは　古代遺跡の　1つだね。
 VC_Com_SearchAnalysis_036	すべての島の　エネルギーが\n集まっている　ということか･･････
 VC_Com_SearchAnalysis_037	さっきあった　各島のクリスタフラワーと\n石像が　関係しているのかな？
 VC_Com_SearchAnalysis_038	真ん中は　ゼルネアスだったんだね･･････
+VC_Com_PhotoLimit_011	残り枚数　気を付けてね！
+VC_Com_SoonEnd_011	そろそろ　調査終了みたい。
+VC_Com_PhotoLimitZero01_011	残り枚数　なくなっちゃったね。\nでも　初めてだし　最後まで　見よっか！
+VC_Com_SearchAnalysis_101	さすがに　ふわりんごでは\nビクともしないかな？
 ScenarioSkit_Lines.msbt
 SD_01_02_sk_001	やぁ　よく来たね。
 SD_01_02_sk_015	{color[0000]}レンティル ポケモン自然科学研究所{color[ffff]}へ\nようこそ！
@@ -6045,6 +6522,61 @@ CI_101_0A_01_009	へー　わたしも\nあとから　やってみよーっと�
 CI_101_0A_01_010	あ　ベースキャンプでの撮影は\n{color[0000]}左上のアイコン{color[ffff]}を　選ぶんだよ。
 CI_101_0A_01_011	身近な出来事に　気付くことも\nカメラマンには　大事なことなんだ。
 CI_101_0A_01_012	ま　今は思いのまま　たくさん撮る\nを続けていけば　大丈夫！
+CI_001_2A_00_001	ちょっといいか？
+CI_001_2A_00_002	ないしょの話　だぞ。
+CI_001_2A_00_003	実は　ネオワン号に　面白い機能が\nテストで　入ってるんだって。
+CI_001_2A_00_004	なんと　オレらが　ネオワン号ごと\nめっちゃ　{color[0000]}小さくなる機能{color[ffff]}　らしいぞ。
+CI_001_2A_00_005	こっそり　使ってみようぜ？
+CI_001_2A_00_006	なーに　やってるの？？
+CI_001_2A_00_007	何でもねーよ。
+CI_001_2A_00_008	ふーん\nはかせー！
+CI_001_2A_00_009	おい！　やめろよ！
+CI_001_2A_00_010	分かったよ。\nあとで　説明するよ。
+CI_001_2A_00_011	にー。
+CI_001_2A_00_012	{color[0000]}自然公園{color[ffff]}の　とある場所で　{color[0000]}サーチ{color[ffff]}すると\n自動で　発動するんだって。
+CI_001_2A_00_013	一緒に　その場所を　探してみよーぜ。
+CI_001_2A_01_001	キミたち～！
+CI_001_2A_01_002	勝手に　テスト機能を　使うなんて！
+CI_001_2A_01_003	げ　もうばれた･･････
+CI_001_2A_01_004	ご　ごめんなさい。
+CI_001_2A_01_005	はかせ　ごめんなさい。
+CI_001_2A_01_006	まあ　いいじゃないか。\n面白い光景も　見れたわけだし。
+CI_001_2A_01_007	トオル　知ってたのか？
+CI_001_2A_01_008	ははは･･････\nゴメン。
+CI_001_2A_01_009	ふぅ･･････
+CI_001_2A_01_010	ホントにまだ　テスト機能なんだ。
+CI_001_2A_01_011	{color[0000]}自然公園{color[ffff]}だけだよ。\nほかでは　使えないからね。
+CI_001_2A_01_012	わかったー。
+CI_001_2A_01_013	はーい。
+UD_01_01_sk_001	博士！\n嬉しそうだけど　何か　あったの？
+UD_01_01_sk_002	お　キミたち！\nちょうど　いいところに。
+UD_01_01_sk_003	実はね\nデータを　改めて　分析した結果
+UD_01_01_sk_004	新しい　転送スポットを　見つけたんだ。
+UD_01_01_sk_005	ひとつは　{color[0000]}ベラス島{color[ffff]}の　ジャングルの近く\nもうひとつは　{color[0000]}ボルク島{color[ffff]}の　砂漠の奥にね。
+UD_01_01_sk_006	やった！　でも　その島って\nひと通り　調査したんじゃなかったっけ？
+UD_01_01_sk_007	研究や　調査には\n日々　新しい発見が　あるものなんだよ。
+UD_01_01_sk_008	同じ　島だから　生態系は\n似ていると　思うけど･･････。
+UD_01_01_sk_009	ま　それを　調べるのが\nわたしたち　なんだよね！
+UD_01_01_sk_010	うん　頼んだよ！
+UD_01_01_sk_011	僕にとっては　ちょっと　懐かしいところかも\nって　聞いてるよ。
+UD_01_01_sk_012	なかなか　面白い　調査になりそうだね。
+UD_01_01_sk_013	よーし！\nまた　いっぱい　写真　撮るぞー！
+UD_01_02_sk_001	川下りは　どうだった？\nちょっとした　冒険だよね。
+UD_01_02_sk_002	見ていて　昔を　思い出したよ。
+UD_01_02_sk_003	ネオワン号が　急に　落ちたときは\nマジ　びっくりしたけどな！
+UD_01_02_sk_004	次は　{color[0000]}夜の川下り{color[ffff]}に　行ってみようか？
+UD_01_02_sk_005	もちろん\n博士の　許可は　取ってあるよ！
+UD_01_02_sk_006	あの滝を　暗い中　落ちるのか･･････
+UD_01_02_sk_007	こ　怖くなんかないぞ！
+UD_01_03_sk_001	荒野には　緑色のガスに　包まれた\n沼地が　あったでしょ？
+UD_01_03_sk_002	あれって　有毒なガスなんだって。\nねえ？　博士！
+UD_01_03_sk_003	そうだね。
+UD_01_03_sk_004	ネオワン号の中は　安全だけど\nかなりの　猛毒みたいだよ。
+UD_01_03_sk_005	そんな場所を　好んで　暮らしている\nポケモンが　いるのも　面白いよね。
+UD_01_03_sk_006	では･･････
+UD_01_03_sk_007	夜に　行っても　いいんだよね！
+UD_01_03_sk_008	ああ　しっかり　調査してくるんだよ。
+UD_01_03_sk_009	はーい！\nじゃあさっそく　行ってみよう！
 Search_Info.msbt
 Search_Flower01_001	フロレオ島の\nクリスタフラワー。\n青く　光っている。
 Search_Flower01_002	フロレオ島の\nクリスタフラワー。
@@ -6062,9 +6594,16 @@ Search_001_1_A_001	焼かれた　果実が\n落ちている。　ポケモン�
 Search_001_1_A_002	レンティル地方で\n採れる　果実。\nモジャンボの　大好物。
 Search_001_1_A_003	いつも　一本足で\n立っている　ホーホーの\n意外な　寝方だ。
 Search_001_1_AB_001	ビッパの巣が\n完成したようだ。
+Search_001_1_AB_003	木の根元にある\n穴は　どこかに\nつながっているようだ。
 Search_001_1_B_001	不自然に　盛り上がった\n地面から　何かが\n聞こえてくる。
 Search_001_1_B_003	花畑の中で\n何かが　動いている。
 Search_001_1_C_002	各地で　発見されている\n太古の　遺跡のカケラ。\n歴史を知る　手がかりだ。
+Search_001_2_A_001	大きな　寝息が\n聞こえてくる。\n奥に　進めそうだ。
+Search_001_2_A_002	とりポケモンの巣。\n食べ物を　探しに\n出かけているのだろうか。
+Search_001_2_AB_001	大きな　寝息が\n聞こえてくる。
+Search_001_2_B_001	さまざまな　寝息が\n聞こえてくる。
+Search_001_2_B_002	地面から　何かが\n生えている。\nこの音は　寝息だろうか。
+Search_001_2_B_003	巣の中に　\n何か　ありそうだ。\n食べ物だろうか。
 Search_003_1_A_001	草むらに　何か\n隠れているようだ。
 Search_003_1_A_002	砂の中に　何かが\n埋まっているようだ。
 Search_003_1_A_003	赤い　スコップだ。\n流されてきたのだろうか？
@@ -6092,6 +6631,11 @@ Search_005_1_AB_005	滝の　裏側も\n通れそうだ。
 Search_005_1_AB_006	滝の　裏側へ\n進めそうだ。
 Search_005_1_B_001	からっぽの巣だ。\n近くに　ポケモンが\nいるかもしれない。
 Search_005_1_B_002	ふしぎな　気配がする。\n何かが　いるようだ。
+Search_005_2_A_002	壁にあいた　穴から\n水が　流れ出ている。
+Search_005_2_AB_001	リングマの　ツメあと。\nナワバリのしるしだ。
+Search_005_2_AB_002	巨大なポケモンが\n滝を　登った\nあとがある。
+Search_005_2_B_001	草のカーテンの　奥に\n洞窟が　あるようだ。
+Search_005_2_B_002	滝の　裏側に\n何か　ありそうだ。
 Search_006_1_A_001	何かの力によって\n岩が　空中に\n浮かんでいる。
 Search_006_1_A_002	オーロットの　警戒心が\n薄まったようだ。\n今なら　奥へ行けそうだ。
 Search_006_1_A_003	ケンホロウの巣。\n大事そうに\n巣を　守っている。
@@ -6109,6 +6653,12 @@ Search_007_1_A_006	スナヘビは\nまだ　近くにいそうだ。
 Search_007_1_AB_002	風化してできた\n穴が　ポケモンの\n巣になっている。
 Search_007_1_B_002	砂の中に\n何かが　埋まっている。
 Search_007_1_B_004	砂嵐で　向こう側の\n様子は　わからない。
+Search_007_2_A_001	水が　湧いている。\nもう1つの　間欠泉と\nつながっているようだ。
+Search_007_2_A_002	大きなクレーターだ。\n何が　落ちて\nできたのだろか。
+Search_007_2_B_001	ビビヨンの　りんぷんで\n谷が　輝いている。
+Search_007_2_AB_001	小さな　穴に\nポケモンが　暮らしている\nあとがある。
+Search_007_2_AB_002	岩壁にある　穴は\nイワークが\n通ったあとだ。
+Search_007_2_B_002	ガスが噴き出す　穴。\nまわりには　毒々しい\n液体が　ついている。
 Search_008_1_A_001	楽しげな　ハミングが\n聞こえてくる。
 Search_008_1_A_002	壁に　大きなコハクが\n埋まっている。
 Search_008_1_A_003	壁が　崩れている。\nこの先には\n進めなさそうだ。
@@ -6149,6 +6699,11 @@ Search_101_1_A_006	草むらの中に\n何か　いるようだ。
 Search_101_1_A_008	研究室の　2階は\n博士の　生活\nスペースになっている。
 Search_101_1_A_011	寝息が　聞こえる。\n床の下に\n何かいるようだ。
 Search_Tu_001	ネオワン号。\nポケモン調査には\n欠かせない　乗り物だ。
+Search_007_2_AB_003	毒沼の　成分が\n長い　年月をかけて\n結晶化　したようだ。
+Search_007_2_AB_004	巨大な　岩から\n猛毒のガスと　液体が\nもれ出ている。
+Search_007_2_A_005	あまい　香りがする。\nこの辺りの　砂から\nただよってきているようだ。
+Search_007_2_AB_005	不安定な　岩。\n強い力が　加わったら\n転がり　落ちてきそうだ。
+Search_007_2_AB_006	とりポケモンの巣。\nさまざまな　素材で\n作られているようだ。
 Stickers_Info.msbt
 Stickers001_Reward_Info	{color[0000]}フロレオ島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
 Stickers002_Reward_Info	{color[0000]}ベラス島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
@@ -6157,12 +6712,6 @@ Stickers004_Reward_Info	{color[0000]}ボルク島{color[ffff]}の　ポケモン
 Stickers005_Reward_Info	{color[0000]}デュラス島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
 Stickers006_Reward_Info	{color[0000]}アウラム島{color[ffff]}の　ポケモンをすべて\nフォト図鑑に　登録した
 Stickers_Name.msbt
-Stickers001_Name	調査ステッカー
-Stickers002_Name	調査ステッカー
-Stickers003_Name	調査ステッカー
-Stickers004_Name	調査ステッカー
-Stickers005_Name	調査ステッカー
-Stickers006_Name	調査ステッカー
 TipsComNavi_Lines.msbt
 NH_Chat_001	調査しに行くのかい？\nキミの写真　楽しみにしているね。
 NH_Chat_002	いらっしゃい。\nデータなら　自由に見ていいよ。
@@ -6270,12 +6819,18 @@ NH_Tips_021	ここ　{color[0000]}アウラム島{color[ffff]}は　謎の多い
 NH_Tips_022	使命を持って　遺跡を守り続ける　ポケモンかぁ･･････\n僕は　あまり撮ってこなかった　題材だけど　ロマンを感じるね。
 NH_Tips_023	{color[0000]}フロレオ自然公園{color[ffff]}は　体験会でも　よく行くので\n人懐っこいポケモンが　多いんだよ。
 NH_Tips_024	{color[0000]}自然公園{color[ffff]}といえば　ビッパだね！\nあのマイペースな感じが　たまらないよね。
+NH_Tips_025	ここから始めると　最初から　ネオワン号が\n小さくなってるけど　びっくりしないでね。
+NH_Tips_026	やっぱ　小さくなるって　すっげーよな！\nまた行こーぜ！　いいだろ？
 NH_Tips_027	{color[0000]}ミッケジャングル{color[ffff]}は　木が生い茂っているから\nポケモンが　隠れないよう　うまく撮ってね。
 NH_Tips_028	木のところを　よ～く見て･･････　いた！\nってなると　ちょっと楽しいよね！
+NH_Tips_029	{color[0000]}ヨーヨーリバー{color[ffff]}は　まわりの岩場を　探しがちだけど\n水の中も　注意してみてね。
+NH_Tips_030	川を下りながらの　撮影は　大変だよね。\nどこを見るか　決めてから行くと　撮りやすいよ。
 NH_Tips_031	{color[0000]}トキシキの森{color[ffff]}は　ちょっとしたきっかけで\n別の場所に　迷い込むようだね･･････。
 NH_Tips_032	オレ　あんまり　ここの調査　行ってないけど\n怖いから　じゃないからな！
 NH_Tips_033	{color[0000]}ネッサ砂漠{color[ffff]}のような　過酷な環境でも\n暮らせるなんて　ポケモンって　すごいよね。
 NH_Tips_034	{color[0000]}砂漠{color[ffff]}は暑いから　気を付けてね！\nって　ネオワン号に乗ってたら　関係ないか～。
+NH_Tips_035	{color[0000]}カラリ荒野{color[ffff]}を囲む　岩壁は\nポケモンたちの住処にも　なっているんだよ。
+NH_Tips_036	この辺りの　地形を作り出している　現象･･････\nぜひ　その瞬間を　捉えてみたいね。
 NH_Tips_037	{color[0000]}ドロー火山{color[ffff]}の辺りは　大昔の　環境が\nそのままに　近い形で　残っているみたいなんだ。
 NH_Tips_038	ここ　ちっちゃいのから　でけーのまで\nすげー数の　火山が　くっついてるんだってよ！
 NH_Tips_039	{color[0000]}ニジイロビーチ{color[ffff]}は　あたたかいし\n海風も　心地よくて　いいよね。
@@ -6381,6 +6936,8 @@ NH_Sugg_048	{color[0000]}シューゴ遺跡{color[ffff]}について　もう少
 NH_Sugg_049	{color[0000]}遺跡{color[ffff]}で　光っている状態の\n{color[0000]}クリスタフラワー{color[ffff]}を　撮影してきてね。
 NH_Sugg_050	{color[0000]}アウラム島{color[ffff]}で　最後の{color[0000]}イルミナポケモン{color[ffff]}に　会いに行こう！\n{color[0000]}シューゴ遺跡{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}だよ！
 NH_Sugg_051	{color[0000]}アウラム島{color[ffff]}の　{color[0000]}イルミナスポット{color[ffff]}で\n光る模様の　浮き出た　{color[0000]}ゼルネアス{color[ffff]}を　撮影してきてくれ！
+NH_Sugg_101	{color[0000]}昼の自然公園{color[ffff]}に　行って\nネオワン号の　テスト機能を　試そうぜ！
+NH_Sugg_102	ネオワン号の　テスト機能を　試せるのは\nたしか　{color[0000]}昼の自然公園{color[ffff]}だったかな？
 TipsLoading_Head.msbt
 LT_Tips_001_Head	人物紹介：カガミ博士
 LT_Tips_002_Head	人物紹介：リタ
@@ -7175,6 +7732,69 @@ Mis_Stage101_171_01_Info2	うんうん　バッチリだよ！\n博士　この�
 Mis_Stage101_174_01_Head	ほっぺにてをあてて
 Mis_Stage101_174_01_Info1	あのね！　アブリーが\nかわいい　ポーズしてたの！\nでも　小さいから\n撮るの　難しくて･･････。
 Mis_Stage101_174_01_Info2	ありがと～！\nね？　すっごく\nかわいかったでしょ？
+Mis_Stage012_073_01_Head	カビゴンダッシュ
+Mis_Stage012_073_01_Info1	カビゴンは　のんびりしている\nって　イメージだよね。\nでも　実は　走ると\nちょっと　すごいんだよ。
+Mis_Stage012_073_01_Info2	お！　キミなら　撮れるって\n信じていたよ。\nふだんとの　ギャップが　大きくて\n思わず　びっくりしちゃうよね。
+Mis_Stage012_084_01_Head	ダンシングトリオ
+Mis_Stage012_084_01_Info1	3匹で　踊ってた！　って\nフィルが　言ってたんだけど\n1匹で　踊ってるところしか\n見たことないんだよねぇ。
+Mis_Stage012_084_01_Info2	ほんとに　3匹で　踊ってる～！\nやっぱり　みんなで\n踊った方が　楽しそうだね！
+Mis_Stage012_096_01_Head	みんなでパラシュート
+Mis_Stage012_096_01_Info1	タマゲタケたちが　ふわふわと\n空中を　降りていく様子は\n撮影しがいがあると　思うよ。\nぜひ　挑戦してみてね。
+Mis_Stage012_096_01_Info2	おっ！　いいねぇ！\n何だか　パラシュートみたいで\nちょっと　楽しそうだよね。
+Mis_Stage013_051_01_Head	飛び込みスポット
+Mis_Stage013_051_01_Info1	急に　ネオワン号の　ルートが\nズレた！　って　フィルが。\n大きな音も　していたようだし\n何かが　落ちてきた　とかかな？
+Mis_Stage013_051_01_Info2	オーダイルだったのかぁ！\nこれは　さすがに\nネオワン号も　避けちゃうよね。\nにしても　いい写真だなぁ。
+Mis_Stage013_119_01_Head	ちょうのうりょく？
+Mis_Stage013_119_01_Info1	聞いて　驚け！\nコイキングが　浮いてたんだ。\nはねる　じゃないぞ！\n･･････　何でだろな？
+Mis_Stage013_119_01_Info2	コダックが　ねんりきで\n助けてあげてたって？\nへぇー　コダック　いいヤツじゃん！
+Mis_Stage013_122_01_Head	水に潜むもの
+Mis_Stage013_122_01_Info1	岩のところが　削れてるよね。\nこれは　相当　大きなポケモンの\nしわざだと　思うんだ。\n調べてみて　くれるかな？
+Mis_Stage013_122_01_Info2	ありがとう！\n地形を　変えるほどの\nパワーを　秘めているとは\nやはり　ポケモンは　すごいよ！
+Mis_Stage013_125_01_Head	ピィの特訓
+Mis_Stage013_125_01_Info1	うーん　何かの　練習を\nしてるけど　うまくいかないみたい。\n成功するまで　キミも\n応援してあげてね！
+Mis_Stage013_125_01_Info2	やった！　成功したんだね！\nキミが　応援した　おかげかな？
+Mis_Stage013_126_01_Head	リングマの勇姿？
+Mis_Stage013_126_01_Info1	これ　リングマが\nコイキングを　狙ってるんだぜ！\nすげー瞬間　撮れそうだろ？\n腕が　鳴るぜ！
+Mis_Stage013_126_01_Info2	んんん？　これって･･････\nコイキングが　リングマに\nひと泡　ふかせたのかよ！\nマジか～！？
+Mis_Stage013_130_01_Head	頭の上の友だち
+Mis_Stage013_130_01_Info1	空を飛んでたとき　たぶん\n小さいポケモンを　乗せてたの。\n絶対　仲のいいポケモンを\n乗せてたと　思うんだよねぇ。
+Mis_Stage013_130_01_Info2	わあ　ありがとう！\nトロピウスも　ウパーも\nとっても　楽しそうだね！
+Mis_Stage013_135_01_Head	スクリューモグリュー
+Mis_Stage013_135_01_Info1	モグリューは　ものすごいスピードで\n地中を　掘り進むんだ。\n壁から　飛び出した　瞬間なら\n撮影できるかもしれないよ。
+Mis_Stage013_135_01_Info2	おっ　さっすがぁ！\nこう見ると　まるで\n空を飛んでいるようだね。
+Mis_Stage015_034_01_Head	ビビヨンの谷
+Mis_Stage015_034_01_Info1	ボルク島には　いないはずの\n模様の　ビビヨンの　りんぷんが\nここで　見つかったんだ。\n調べてみて　もらえるかな？
+Mis_Stage015_034_01_Info2	やはり　ビビヨンたちは　この谷の\nエネルギーに　惹かれて\n海を渡って　きているようだね。\nこれは　面白い発見だよ！
+Mis_Stage015_118_01_Head	遊びたい気分
+Mis_Stage015_118_01_Info1	ふわりんご　食べてくれないの。\nおなか　空いてないのかなぁ。\nでも　もうちょっとだけ\n投げてみようかな！
+Mis_Stage015_118_01_Info2	わっ　ディグダたち\nすっごく　楽しそう！\n遊びたい気分　だったんだね。
+Mis_Stage015_120_01_Head	倍々ドガース
+Mis_Stage015_120_01_Info1	こーーーんな　でかい　ドガース\n見たことあるか？\nびっくりして　カメラ\n落としてなければ　見せられたのに！
+Mis_Stage015_120_01_Info2	そう！　これ！　って\nオレが　見たときより　でかい！\n爆発しそうで　ドキドキするな！
+Mis_Stage015_128_01_Head	ドガースイン？？？
+Mis_Stage015_128_01_Info1	大きな　音がしたと　思ったら\nものすごい　勢いで\nドガースが　飛んで行ったの。\n何が　あったのかな？
+Mis_Stage015_128_01_Info2	えええ！？　マルノームが\nドガースを　食べちゃってる！？\n･･････あ　わたしが　見たのは\n吐き出したところ　だったんだぁ。
+Mis_Stage015_133_01_Head	ねぼすけグライオン
+Mis_Stage015_133_01_Info1	グライオンが　あくびしてたんだ！\n昼間　いないから　そんとき\n寝てると　思ってたけど\nまだ　眠いのかな？
+Mis_Stage015_133_01_Info2	何だ　ビビヨンのせいで\n眠たくなっちゃっただけかぁ。\nねぼすけ　じゃなかったな！
+Mis_Stage015_134_01_Head	勇気を出して
+Mis_Stage015_134_01_Info1	これ　危ないよ～！\nって　思ったけど　きっと\nポカブなら　跳べると　思うの。\nキミも　応援してあげてね！
+Mis_Stage015_134_01_Info2	やったぁ！　跳べたんだ！\nジャンプ力も　すごいんだよって\n博士が　言ってたけど\nほんとだったね！　ありがとう！
+Mis_Stage015_136_01_Head	毒沼の決闘
+Mis_Stage015_136_01_Info1	ふっふーん　すげーの　見ちゃった！\nあの　ペンドラーの　攻撃！\n相手は　空中にいる\nってのに　すごかったぜ！
+Mis_Stage015_136_01_Info2	やっぱ　すげー！\n次こそは　オレも　撮るぞ！\nじゃっ　カラリ荒野　行ってくる！
+Mis_Stage015_137_01_Head	スレパワイまさかさ
+Mis_Stage015_137_01_Info1	背負っている　岩は\n頑丈で　とても　重いんだ。\nひっくり返ったら　きっと\n戻るのが　大変だろうね。
+Mis_Stage015_137_01_Info2	すごい　場面だ･･････！\nこの　状態からでも　元に\n戻れるとは　たくましいね。
+Mis_Stage015_139_01_Head	友だちを守るために
+Mis_Stage015_139_01_Info1	イワンコは　小さいけど\nとても　勇敢なんだ。\nピンチのときは　きっと\nみんなを　守ろうとするはずだよ。
+Mis_Stage015_139_01_Info2	お！　いい瞬間だ！\nハラハラする　場面だけど\nイワンコの　勇敢さが\nしっかり　捉えられているよ！
+Mis_Stage015_140_01_Head	魅惑のポーズ？
+Mis_Stage015_140_01_Info1	フィルの調査を　見ていたら\nエンニュートが　ダンスのあと\n個性的なポーズを　していたんだ。\nキミも　気にならないかい？
+Mis_Stage015_140_01_Info2	そうそう　これだよ！\nもしかして　魅惑のポーズ\nだったりするのかな？
+Mis_Stage015_142_01_Head	荒野の幻
+Mis_Stage015_142_01_Info1	ゼラオラは　見た目が　少し\n変わることが　あるらしいんだ。\n調べてもらえるかな？
+Mis_Stage015_142_01_Info2	ありがとう！\n雷のエネルギーが\n全身を　巡っているのかな。\nうんうん　すごいよ　これは！
 TipsSns_UI.msbt
 Sns_Head	レンティルチャット
 Sns_MissionAllList_Tx	すべてのリクエスト

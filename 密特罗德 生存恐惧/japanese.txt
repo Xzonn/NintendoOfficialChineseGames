@@ -1,0 +1,843 @@
+japanese.txt
+CREDIT_A_SUBTITLE_COMPANY_NAME_1	© Nintendo|Nintendo and Mercury Steam Entertainment are the authors of this software for the purpose of copyright. All rights reserved.|Nintendo et Mercury Steam Entertainment sont les auteurs de ce logiciel au regard du droit d'auteur. Tous droits réservés.
+ERROR_CODE_2115-0080	機内モードをOFFにしてください。||クイック設定（᠏ 長押し）で変えられます。
+ERROR_CODE_2115-0128	エラーが発生しました。||もう一度おためしください。
+ERROR_CODE_2115-0144	amiiboのデータが壊れています｡||このamiiboを使ったことのあるゲーム機本体で復旧をためすか、またはHOMEメニューの ᠏ (設定)→「amiibo」からamiiboを初期化してください｡
+ERROR_CODE_2115-0160	エラーが発生しました。||もう一度おためしください。
+ERROR_CODE_2115-0168	エラーが発生しました。||もう一度おためしください。
+ERROR_CODE_2115-0176	amiibo ではありません。
+ERROR_CODE_2115-0177	amiibo ではありません。
+ERROR_CODE_2115-0178	amiibo ではありません。
+ERROR_CODE_2115-0179	amiibo ではありません。
+ERROR_CODE_2115-0180	amiibo ではありません。
+ERROR_CODE_2115-0181	amiibo ではありません。
+ERROR_CODE_2115-0182	amiibo ではありません。
+ERROR_CODE_2115-0183	amiibo ではありません。
+ERROR_CODE_2115-0184	対応していない amiibo です｡
+ERROR_CODE_2115-0192	エラーが発生しました。||もう一度おためしください。
+ERROR_CODE_2115-0200	エラーが発生しました。||もう一度おためしください。
+ERROR_CODE_2115-0064	amiibo が読み込めるコントローラーをつないでください｡||Nintendo Switch Proコントローラーを有線通信で|使っているときは、USB充電ケーブルを抜いた状態で|やりなおしてください｡
+APP_GAMEMODE_HARD	ハードモード
+APP_GAMEMODE_NORMAL	ノーマルモード
+GUI_AMIIBO_FTUE	メトロイド関連の amiibo を読み込むことで、|サムスの強化や、ランダムでリソースの回復が可能です。|同じ amiibo による回復機能は一日一回しか使えません。
+GUI_AMIIBO_HEADER	amiibo を使う
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ALREADY_USED	この amiibo は既に本日使用済みです。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_PLUS_TANK	ミサイルプラスタンク を追加で入手した|保有できる最大値が 10 UP
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_PLUS_TANK	エネルギータンク を追加で入手した|エネルギーの最大値が 100 UP
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_1	ミサイルが 15 回復した
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_2	ミサイルが 30 回復した
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_3	ミサイルが 60 回復した
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_1	エネルギーが 50 回復した
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_2	エネルギーが 100 回復した
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_3	エネルギーが 200 回復した
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_AMMO_FILLED	ミサイルは既に満タンです|この amiibo の回復効果は適用されません
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_ENERGY_FILLED	エネルギーは既に満タンです|この amiibo の回復効果は適用されません
+GUI_AMIIBO_STATE_EFFECTS_APPLY_NOEFFECT	この amiibo は対応していません。
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_DAMAGE	ダメージを受けている間、amiibo は使用できません。
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_HYPERSUIT	メトロイドスーツ状態では、amiibo は使用できません。
+GUI_AMIIBO_STATE_ERROR_READ	amiibo のデータ読み込み中にエラーが起きました。
+GUI_AMIIBO_STATE_OK_CZDR_EMMY	amiibo の読み込みに成功しました：|METROID: E.M.M.I.
+GUI_AMIIBO_STATE_OK_CZDR_SAMUS	amiibo の読み込みに成功しました：|METROID: SAMUS
+GUI_AMIIBO_STATE_OK_SR_METROID	amiibo の読み込みに成功しました：|METROID: METROID
+GUI_AMIIBO_STATE_OK_SR_SAMUS	amiibo の読み込みに成功しました：|METROID: SAMUS ARAN
+GUI_AMIIBO_STATE_OK_SSB_DARKSAMUS	amiibo の読み込みに成功しました：|SUPER SMASH BROS. DARK SAMUS
+GUI_AMIIBO_STATE_OK_SSB_RIDLEY	amiibo の読み込みに成功しました：|SUPER SMASH BROS. RIDLEY
+GUI_AMIIBO_STATE_OK_SSB_SAMUS	amiibo の読み込みに成功しました：|SUPER SMASH BROS. SAMUS
+GUI_AMIIBO_STATE_OK_SSB_ZSSAMUS	amiibo の読み込みに成功しました：|SUPER SMASH BROS. ZERO SUIT SAMUS
+GUI_AMIIBO_STATE_READING	データ読み込み中…
+GUI_AMIIBO_STATE_WAIT	amiibo をNFCエリアにタッチしてください。
+GUI_A_ACCEPT	᠀ OK
+GUI_A_ACCEPT_DEATH	᠀ コンティニュー
+GUI_B_BACK	᠁ キャンセル
+GUI_B_BACK_DEATH	᠁ ゲーム終了
+GUI_B_CONFIRM	᠁ 決定
+GUI_CONTROLS_LABEL_B	᠁ ジャンプ
+GUI_CONTROLS_LABEL_L	フリーエイム ᠄
+GUI_CONTROLS_LABEL_LEFT	ミニマップ拡張 ᠓
+GUI_CONTROLS_LABEL_LS	移動 ᠝
+GUI_CONTROLS_LABEL_MINUS	オプション ᠊
+GUI_CONTROLS_LABEL_PLUS	᠌ マップ
+GUI_CONTROLS_LABEL_R	᠅ ミサイルモード
+GUI_CONTROLS_LABEL_X	᠂ メレーカウンター
+GUI_CONTROLS_LABEL_X_2	(走り中：|ダッシュメレー)
+GUI_CONTROLS_LABEL_Y	᠃ 射撃
+GUI_CONTROLS_LABEL_ZL	スライディング ᠆
+GUI_DEATH_TITLE_CONTINUE	コンティニュー
+GUI_DEATH_TITLE_GAMEOVER	GAME OVER
+GUI_DEATH_TITLE_GAMEOVER_COUNTDOWN	脱出失敗
+GUI_DEATH_TITLE_QUIT	メインメニューに戻る
+GUI_DIFSELECTOR_GAMEMODE_HARD_LOCKED	{Sprites:LOCKED } ハードモード
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_LOCKED	ノーマルモードクリアでアンロック
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_UNLOCKED	エキスパートのためのモード
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_NORMAL	通常の難易度のプレイモード
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_1	ファイル 1 - 難易度選択
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_2	ファイル 2 - 難易度選択
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_3	ファイル 3 - 難易度選択
+GUI_ENDING_CELEBRATION	See you next mission!
+GUI_ENDING_CLEAR_TIME	CLEAR TIME
+GUI_ENDING_MISSION_COMPLETE	MISSION COMPLETE
+GUI_FILEEXTRAS_CREDITS	クレジット
+GUI_FILEEXTRAS_GALLERY	ギャラリー
+GUI_FILEEXTRAS_GALLERY_TITLE	ギャラリー
+GUI_FILEEXTRAS_MISSION_LOG	ミッションログ
+GUI_FILEMENU_HEADER_1	ファイル 1
+GUI_FILEMENU_HEADER_2	ファイル 2
+GUI_FILEMENU_HEADER_3	ファイル 3
+GUI_FILEMENU_LABEL_CONTINUE	コンティニュー
+GUI_FILEMENU_LABEL_EXTRAS	エクストラ
+GUI_FILEMENU_LABEL_NEW	ニューゲーム
+GUI_FILEMENU_PROMPT_NEWCHOZOMEMORIES	ギャラリーで新しいコンテンツがアンロックされました。
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_1	ニューゲームを始めると古いデータは消えてしまいます。||よろしいですか？
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_2	本当に古いデータを消して、ニューゲームを始めますか？
+GUI_FILEMENU_PROMPT_NEWGAME_HEADER	ニューゲームを始める
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_1	ファイル 1 でニューゲームを始める (空き)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_2	ファイル 2 でニューゲームを始める (空き)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_3	ファイル 3 でニューゲームを始める (空き)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_1	ファイル 1 でニューゲームを始める (使用中)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_2	ファイル 2 でニューゲームを始める (使用中)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_3	ファイル 3 でニューゲームを始める (使用中)
+GUI_FILESELECT_LABEL_EMPTYSLOT	空きデータ
+GUI_FILESELECT_LABEL_ITEMS	アイテム
+GUI_FILESELECT_LABEL_TITLE_FILESELECT	SAMUS FILES
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_1	ファイル 1 にコピーする (空き)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_2	ファイル 2 にコピーする (空き)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_3	ファイル 3 にコピーする (空き)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_1	ファイル 1 にコピーする (使用中)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_2	ファイル 2 にコピーする (使用中)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_3	ファイル 3 にコピーする (使用中)
+GUI_FILESELECT_OPTIONS_LABEL_DELETE	データ削除
+GUI_FILESELECT_OPTIONS_PROMPT_COPY_REPORT_OK	ファイルのコピーに成功しました。
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_1	ファイル 1 のデータが削除されます。||よろしいですか？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_2	ファイル 2 のデータが削除されます。||よろしいですか？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_3	ファイル 3 のデータが削除されます。||よろしいですか？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_REPORT_OK	ファイルの削除に成功しました。
+GUI_FILESELECT_OPTIONS_PROMPT_ERROR	作業中に想定していないエラーが発生しました。
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_1	ファイル 1 は既に使用中です。||上書きしますか？
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_2	ファイル 2 は既に使用中です。||上書きしますか？
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_3	ファイル 3 は既に使用中です。||上書きしますか？
+GUI_FILESELECT_OPTIONS_PROMPT_SECOND_CONFIRM	注意：セーブデータが削除されます。||本当によろしいですか？
+GUI_FILESELECT_OPTIONS_TITLE_FILE_1	ファイル 1 - オプション
+GUI_FILESELECT_OPTIONS_TITLE_FILE_2	ファイル 2 - オプション
+GUI_FILESELECT_OPTIONS_TITLE_FILE_3	ファイル 3 - オプション
+GUI_FILESELECT_PROMPT_HARDMODEUNLOCK	ハードモードがアンロックされました。
+GUI_GALLERY_BUTTON_HIDEUI	᠂ 表示を消す
+GUI_GALLERY_CATEGORY_ENDING	エンディングリワード
+GUI_GALLERY_CATEGORY_ITEM	チョウゾアーカイブ
+GUI_CHOZOARCHIVES_TITLE	チョウゾアーカイブ
+GUI_GAMMA_LABEL_DESCRIPTION	左の絵が少しだけ見えるように明るさを調節してください。|明るさ設定はゲーム内のオプションからも変更可能です。
+GUI_GAMMA_LABEL_DESCRIPTION_OPTIONS	左の絵が少しだけ見えるように明るさを調節してください
+GUI_GAMMA_LABEL_CONFIRM	この設定を保存しますか？|明るさ調整はゲーム内のオプションからも変更可能です。
+GUI_GAMMA_LABEL_CONFIRM_OPTIONS	設定を保存しますか？
+GUI_GENERAL_LABEL_ACCEPT	᠀ OK
+GUI_GENERAL_LABEL_BACK	᠁ 戻る
+GUI_GENERAL_LABEL_CANCEL	᠁ キャンセル
+GUI_GENERAL_LABEL_CLOSE	᠌ 閉じる
+GUI_GENERAL_LABEL_OFF	オフ
+GUI_GENERAL_LABEL_ON	オン
+GUI_GENERAL_LABEL_OPTIONS	オプション
+GUI_GENERAL_LABEL_UNKNOWN	？？？
+GUI_LOG_EVENTS	᠆ イベント
+GUI_LOG_TUTORIALS	チュートリアル ᠇
+GUI_MAPMENU_CUSTOMMARKER_LABEL_HEADER	マーカー残数
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVE	取り除く
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVEALL	᠂ 全て取り除く
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETE	選択したマーカーを取り除きますか？
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETEALL	今いるエリアのマーカーを全て取り除きますか？
+GUI_MAPMENU_LABEL_BACK	᠁ 戻る
+GUI_MAPMENU_LABEL_CHANGE_AREA	ᠯ マップ変更
+GUI_MAPMENU_LABEL_CLOSE	᠁ 閉じる
+GUI_MAPMENU_LABEL_EMMIS_REMAINING	残存する E.M.M.I. の数
+GUI_MAPMENU_LABEL_FAST_MODE	ᠴ 高速カーソル
+GUI_MAPMENU_LABEL_GLOBAL_MAP	᠂ グローバルマップ
+GUI_MAPMENU_LABEL_ICON_LIST	{Sprites:Y } アイコンリスト
+GUI_MAPMENU_LABEL_ITEMS	アイテム
+GUI_MAPMENU_LABEL_MOVE_MAP	ᠯ マップ移動
+GUI_MAPMENU_LABEL_PLACE_MARKER	᠀ マーカー設置
+GUI_MAPMENU_LABEL_REMOVE_MARKER	᠀ マーカーを取り除く
+GUI_MAPMENU_LABEL_RECENTER_SAMUS	ᠰ ポジションリセット
+GUI_MAPMENU_LABEL_SELECT_AREA	᠀ エリア選択
+GUI_MAPMENU_LABEL_ZOOM_IN_OUT	ᠷᠸ ズームアウト/イン
+GUI_MAPMENU_LABEL_NAVIGATION	ナビゲーション ᠐
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS	᠃ アイコンハイライト
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS_DESELECT	᠃ 選択解除
+GUI_MAPMENU_LABEL_NAVIGATION_CLOSE	ナビゲーション ᠕
+GUI_MAPMENU_LABEL_SELECT_TELEPORT	行き先を選択してください
+GUI_MAPMENU_NOTIFY_FREE_TELEPORT	マップ上のテレポータルが繋がりました。
+GUI_MAPMENU_LABEL_CONFIRM_TELEPORT	᠀ 行き先決定
+GUI_MAPMENU_LABEL_CANCEL_TELEPORT	᠁ キャンセル
+GUI_MAPMENU_LABEL_NO_TELEPORT	テレポータルがありません
+GUI_MAPMENU_TITLE	マップ
+GUI_MISSIONLOG_TITLE	ミッションログ
+GUI_MSG_PRESS_START	᠀ スタート
+GUI_OPTIONS_LABEL_AMIIBO	amiibo
+GUI_OPTIONS_LABEL_CONTROLS	操作
+GUI_OPTIONS_LABEL_CONTROLS_TITLE	操作
+GUI_OPTIONS_LABEL_GAMMA	明るさ設定
+GUI_OPTIONS_LABEL_GAMMA_TITLE	明るさ設定
+GUI_OPTIONS_LABEL_LOAD_LASTCP	直近のチェックポイントからロード
+GUI_OPTIONS_LABEL_LOAD_LASTSAVE	直近のセーブからロード
+GUI_OPTIONS_LABEL_QUIT	メインメニューに戻る
+GUI_OPTIONS_LABEL_RUMBLE_OFF	振動 (オフ)
+GUI_OPTIONS_LABEL_RUMBLE_ON	振動 (オン)
+GUI_OPTIONS_LABEL_SYSTEM	システム
+GUI_OPTIONS_LABEL_SYSTEM_TITLE	システム
+GUI_OPTIONS_PROMPT_LOAD_CHECKPOINT	直近のチェックポイント地点に戻ります。|保存していない進行は失われます。|よろしいですか？
+GUI_OPTIONS_PROMPT_LOAD_SAVEGAME	直近のセーブ地点に戻ります。|保存していない進行は失われます。|よろしいですか？
+GUI_OPTIONS_PROMPT_QUIT	保存していない進行は失われます。|よろしいですか？
+GUI_PLUS_BUTTON	᠌
+GUI_PRESS_A	ᠩ
+GUI_A_BUTTON	᠀
+GUI_B_BUTTON	᠁
+GUI_L_BUTTON	᠄
+GUI_R_BUTTON	᠅
+GUI_LEFT_STICK	᠝
+GUI_R_STICK_PRESSED	ᠤ
+GUI_ARROW_UP	ᠹ
+GUI_ARROW_UP_BIG	ᡀ
+GUI_ARROW_DOWN	ᠩ
+GUI_ARROW_DOWN_BIG	ᡁ
+GUI_SAMUSMENU_DESCR_BOMB	モーフボール状態で使える爆弾。||敵にダメージを与えたり、{c1}ボムブロック{c0}の破壊が|可能。また、爆破地点にある{c1}隠されたブロックの|露出{c0}も可能。||モーフボール状態のサムスが爆風に触れると、|上に弾かれる。||ボムの起爆エネルギーによって|{c1}モーフボールランチャー{c0}を起動することも可能。||モーフボール状態で ᠃ を押して設置。
+GUI_SAMUSMENU_DESCR_CHARGE_BEAM	ビームエネルギーをためて、一気に放出できる。||{c1}ロボット系の敵やボス{c0}に対しても、|ダメージを与えられる。||{c1}チャージビームゲート{c0}の解放も可能。||᠃ をホールドでチャージを行い、|ボタンを離して発射。||{c1}フルチャージ状態で回転ジャンプ{c0}すると、|チャージアタックを繰り出せる。
+GUI_SAMUSMENU_DESCR_DIFUSSION_CHARGE	チャージビーム着弾時に広範囲に爆発が起きる。|爆発は{c1}地形を貫通する{c0}。||᠃ をホールドしてフルチャージし、離して発射。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP	回転ジャンプ中に、|{c1}一度だけ再度ジャンプ{c0}することができる。||回転ジャンプ中にタイミング良く|もう一度 ᠁ を押す。||水中でも可能だが{c1}グラビティスーツがない限り{c0}、|一度目のジャンプの高度より|高くジャンプすることはできない。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_GRAVITY	回転ジャンプ中に、|{c1}一度だけ再度ジャンプ{c0}することができる。||回転ジャンプ中にタイミング良く|もう一度 ᠁ を押す。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_VARIA	回転ジャンプ中に、|{c1}一度だけ再度ジャンプ{c0}することができる。||回転ジャンプ中にタイミング良く|もう一度 ᠁ を押す。||水中でも可能だが{c1}グラビティスーツがない限り{c0}、|一度目のジャンプの高度より|高くジャンプすることはできない。
+GUI_SAMUSMENU_DESCR_GHOST_DASH	瞬時に前方もしくは後方へ{c1}一定距離高速移動する{c0}|戦闘用のエイオンアビリティ。||エイオンがフルの状態の時、᠀ をホールドすると|{c1}フラッシュシフト発動可能状態{c0}に移行。|この状態で ᠝ を前方もしくは後方に|入力すると、その方向へ高速移動する。||エイオンがフルの状態の時、᠝ を入力しながら|᠀ を押しても発動する。||{c1}空中でも使用可能{c0}。||フラッシュシフトを行うと{c1}一度に全ての|エイオンを消費する{c0}。||フラッシュシフト直後、 ᠀ をホールドしたまま|特定のタイミングで前方か後方を再入力すると、|{c1}追加のフラッシュシフトが可能{c0}。|追加は{c1}２回まで{c0}できる。|追加で発動するフラッシュシフトはエイオンを|消費しない。
+GUI_SAMUSMENU_DESCR_GRAPPLE_BEAM	ロープ状のビームを発射して、{c1}青色に光る|グラップリングポイント{c0}につなげることが可能。||᠇ をホールドして、᠃ を押して発射。||つなげた状態で後ろに入力し続けると、|{c1}グラップリングビームゲート{c0}、{c1}グラップリング|ブロック{c0}、{c1}グラップリングボックス{c0}などを|引っ張る。||{c1}マグネットサーフィス{c0}につなげた場合、|その位置までサムスが移動する。||{c1}グラップリングスイングポイント{c0}に|つなげた場合、サムスが前後にスイングする。
+GUI_SAMUSMENU_DESCR_GRAVITY_SUIT	敵からのダメージを大幅に軽減し、|{c1}低温環境{c0}と{c1}マグマ{c0}によるダメージも受けない。||また、水中で自由に動けるようになる。||更に、ダッシュメレーのダメージが少し上がる。
+GUI_SAMUSMENU_DESCR_HYPER_BEAM	覚醒したサムス内面からのパワーによって、|アームキャノンの能力が１つに収束。|{c1}全てを破壊する{c0}すさまじく強力なビーム。||᠃ をホールドして照射。
+GUI_SAMUSMENU_DESCR_ICE_MISSILE	ミサイルに{c1}凍結効果{c0}を追加。||᠅ をホールドしながら ᠃ を押して発射。|ミサイルを１発消費する。
+GUI_SAMUSMENU_DESCR_LINE_BOMB	設置した場所から{c1}上下左右に爆発が広がる{c0}|強力な爆弾。||モーフボール状態で ᠅ をホールドし、|᠃ を押して設置。
+GUI_SAMUSMENU_DESCR_MISSILE	サムスのアームキャノンから発射される|基本的なサブウェポン。||{c1}ロボット系の敵やボス{c0}にもダメージを与えられる|攻撃力の高いミサイルを撃つ。||{c1}ミサイルブロック{c0}と{c1}ミサイルカバー{c0}の|破壊も可能。||着弾地点にある{c1}隠されたブロックの露出{c0}も可能。||᠅ をホールドしながら ᠃ を押して発射。|ミサイルを１発消費する。
+GUI_SAMUSMENU_DESCR_MORPHBALL	小さく丸まることができ、|{c1}狭い通路などに入ることが可能{c0}。||᠆ を押す、またはしゃがんだ状態で|᠝ を下に入力することで変形。|モーフボール状態で、 ᠁ を押すと|{c1}ジャンプすることが可能{c0}。||{c1}地面に近い位置の狭い通路{c0}であれば、|通路の方向に ᠝ を入力しながら|᠁ を押すことで自動的に|モーフボールに変形して通路に侵入可能。||また、{c1}狭い通路につかまっている際{c0}に、|通路の方向を入力することで自動的に|モーフボールに変形して通路に侵入可能。
+GUI_SAMUSMENU_DESCR_MULTI_LOCK-ON_MISSILE	対象をロックオンしたあと、|複数の小型誘導ミサイルを連続発射する。||ロックオン状態の複数の対象を同時に攻撃可能。|{c1}電撃をまとった無敵状態の敵に対しても有効{c0}。||{c1}ストームミサイルボックス{c0}の起動も可能。||᠅ をホールドし、チャージ完了すると、|{c1}黄色いレーザーポインター{c0}が出る。|このレーザーポインターをターゲットに|当てるとロックオンマーカーが付く。|一度にロックオンできるのは{c1}５つまで{c0}。|ロックオンマーカーが付いた状態で、|᠃ を押すと複数の小型ミサイルを発射。||１つのロックオンに対して、|{c1}ミサイルを３発消費する{c0}。
+GUI_SAMUSMENU_DESCR_OPTICAL_CAMO	光を屈折し、{c1}サムスを透明状態{c0}にできる|隠密行動用のエイオンアビリティ。|敵の視界から隠れることができる。|また、動作は遅くなるが、{c1}音を立てずに|移動{c0}が可能。||エイオンがフルの状態の時、ᠴ で透明状態に|移行。透明状態の時、ᠴ で透明状態が解除。||透明状態の間、{c1}エイオンを消費し続ける{c0}。|透明状態で移動や射撃などを行うと多くの|エイオンを消費する。||エイオンが０の状態で透明状態を維持すると、|エイオンの代わりに{c1}エネルギーを消費し続ける{c0}。|この状態でエネルギーが１になると、自動的に|解除される。||{c1}透明状態解除後にアクションを起こせば{c0}|エイオンは自動的に回復してゆく。|{c1}全回復するまで発動できない{c0}。
+GUI_SAMUSMENU_DESCR_PLASMA_BEAM	プラズマエネルギーを収束して発射し、|{c1}複数の敵をも貫通する{c0}強力なビーム。||ロボット系の敵にもチャージせずにダメージを|与えられるようになる。||{c1}プラズマビームカバー{c0}の破壊も可能。||᠃ を押して発射。
+GUI_SAMUSMENU_DESCR_POWER_BEAM	サムスのアームキャノンから発射される|基本的なビーム。||᠃ を押して発射。|᠃ を連打することで、連射も可能。
+GUI_SAMUSMENU_DESCR_POWER_BOMB	{c1}広範囲にすさまじい熱量の爆発が広がる{c0}|非常に強力な爆弾。||{c1}パワーボムブロック{c0}の破壊が可能。||モーフボール状態で ᠅ をホールドし、|フルチャージ後に ᠃ を押して設置。|パワーボムを１発消費する。
+GUI_SAMUSMENU_DESCR_POWER_SUIT	サムスの基本的なスーツ。
+GUI_SAMUSMENU_DESCR_SCREW_ATTACK	回転ジャンプ中、超高出力エネルギーをまとい|{c1}体当たり{c0}で敵にダメージを与えられる。||{c1}電撃をまとった無敵状態の敵{c0}に対しても有効。||{c1}スクリューアタックブロック{c0}の破壊も可能。
+GUI_SAMUSMENU_DESCR_SONAR	特殊な音波を発することにより、{c1}周囲の環境を|スキャンする{c0}探索用のエイオンアビリティ。|隠れたブロックの位置の検知が可能。||エイオンがフルの状態の時、|᠒ をホールドすることで発動。||発動時に{c1}全てのエイオンを消費する{c0}。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP	空中で{c1}連続ジャンプ{c0}ができるようになる。||回転ジャンプ中にタイミングよく|再度 ᠁ を押すことで、空中ジャンプ。||水中でも可能だが{c1}グラビティスーツがない限り{c0}、|一度目のジャンプの高さより|高くジャンプすることはできない。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_GRAVITY	空中で{c1}連続ジャンプ{c0}ができるようになる。||回転ジャンプ中に、タイミングよく|再度 ᠁ を押すことで、空中ジャンプ。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_VARIA	空中で{c1}連続ジャンプ{c0}ができるようになる。||回転ジャンプ中にタイミングよく|再度 ᠁ を押すことで、空中ジャンプ。||水中でも可能だが{c1}グラビティスーツがない限り{c0}、|一度目のジャンプの高さより|高くジャンプすることはできない。
+GUI_SAMUSMENU_DESCR_SPEED_BOOSTER	助走後、超高速で走り続ける。||効果中当たった敵にダメージを与えたり、|{c1}スピードブースターブロック{c0}の破壊が可能。||走りながら ᠝ を一度押し込むと、|{c1}スピードブースター準備状態{c0}に移行。|そのまま一定距離走り続けると、|スピードブースターが発動。||また、スピードブースター効果中、{c1}一定方向に|直線で飛び続ける{c0}シャインスパークも使用可能。||スピードブースター効果中、᠝ を下に|入力すると、{c1}シャインスパーク準備状態{c0}に移行。|その状態で ᠁ を押し、起動させてから|᠝を飛びたい方向に入力すると|シャインスパークが発動。
+GUI_SAMUSMENU_DESCR_SPIDER_MAGNET	磁力を発生させることで、|{c1}青いマグネットサーフィスの壁や天井{c0}に|つかまることが可能。||マグネットサーフィスの壁や天井に向けて|᠝を入力しながら触れるとつかまる。|つかまった状態で{c1}移動や攻撃も可能{c0}。|天井につかまっている状態で、さらに ᠝ を|上にホールドすると、{c1}天井に這うような体勢{c0}に|なる。
+GUI_SAMUSMENU_DESCR_SUPER_MISSILE	ミサイルの{c1}攻撃力をより強化{c0}。||{c1}スーパーミサイルカバー{c0}の破壊が可能。||᠅ をホールドしながら ᠃ を押して発射。|ミサイルを１発消費する。
+GUI_SAMUSMENU_DESCR_VARIA_SUIT	敵からのダメージを軽減し、|{c1}高温環境{c0}でのダメージも受けない。|{c1}低温環境{c0}と{c1}マグマ{c0}によるダメージは受ける。||更に、ダッシュメレーのダメージが少し上がる。
+GUI_SAMUSMENU_DESCR_WAVE_BEAM	波動エネルギーを発射し、|{c1}地形や障害物を貫通できる{c0}ビーム。||また、{c1}ウェイブビームカバー{c0}の破壊が可能。||᠃ を押して発射。
+GUI_SAMUSMENU_DESCR_WIDE_BEAM	一度に３本のビームを発射できる。||{c1}ワイドビームボックス{c0}の移動や、|{c1}ワイドビームカバー{c0}の破壊も可能。||᠃ を押して発射。
+GUI_SAMUSMENU_DESCR_HYPER_SUIT	体内のメトロイドDNAが暴走し、メトロイドと|同一の存在へと変化したサムスの姿。
+GUI_SAMUSMENU_NAME_BOMB	ボム
+GUI_SAMUSMENU_NAME_CHARGE_BEAM	チャージビーム
+GUI_SAMUSMENU_NAME_DIFUSSION_CHARGE	ディフュージョンビーム
+GUI_SAMUSMENU_NAME_DOUBLE_JUMP	スピンブースト
+GUI_SAMUSMENU_NAME_GHOST_DASH	フラッシュシフト
+GUI_SAMUSMENU_NAME_GRAPPLE_BEAM	グラップリングビーム
+GUI_SAMUSMENU_NAME_GRAVITY_SUIT	グラビティスーツ
+GUI_SAMUSMENU_NAME_HYPER_BEAM	ハイパービーム
+GUI_SAMUSMENU_NAME_ICE_MISSILE	アイスミサイル
+GUI_SAMUSMENU_NAME_LINE_BOMB	クロスボム
+GUI_SAMUSMENU_NAME_MISSILE	ミサイル
+GUI_SAMUSMENU_NAME_MORPHBALL	モーフボール
+GUI_SAMUSMENU_NAME_MULTI_LOCKON_MISSILE	ストームミサイル
+GUI_SAMUSMENU_NAME_OPTICAL_CAMO	ファントムクローク
+GUI_SAMUSMENU_NAME_PLASMA_BEAM	プラズマビーム
+GUI_SAMUSMENU_NAME_POWER_BEAM	パワービーム
+GUI_SAMUSMENU_NAME_POWER_BOMB	パワーボム
+GUI_SAMUSMENU_NAME_POWER_SUIT	ノーマルスーツ
+GUI_SAMUSMENU_NAME_SCREW_ATTACK	スクリューアタック
+GUI_SAMUSMENU_NAME_SONAR	パルスレーダー
+GUI_SAMUSMENU_NAME_SPACE_JUMP	スペースジャンプ
+GUI_SAMUSMENU_NAME_SPEED_BOOSTER	スピードブースター
+GUI_SAMUSMENU_NAME_SPIDER_MAGNET	スパイダーマグネット
+GUI_SAMUSMENU_NAME_SUPER_MISSILE	スーパーミサイル
+GUI_SAMUSMENU_NAME_VARIA_SUIT	バリアスーツ
+GUI_SAMUSMENU_NAME_WAVE_BEAM	ウェイブビーム
+GUI_SAMUSMENU_NAME_WIDE_BEAM	ワイドビーム
+GUI_SAMUSMENU_NAME_HYPER_SUIT	メトロイドスーツ
+GUI_SAMUSMENU_SECTION_AEION	エイオン
+GUI_SAMUSMENU_SECTION_BEAMS	ビーム
+GUI_SAMUSMENU_SECTION_BOMBS	ボム
+GUI_SAMUSMENU_SECTION_MISC	その他
+GUI_SAMUSMENU_SECTION_MISSILE	ミサイル
+GUI_SAMUSMENU_SECTION_MORPHBALL	モーフボール
+GUI_SAMUSMENU_SECTION_SUIT	スーツ
+GUI_SAMUSMENU_SHORTLABEL_BOMB	ボム
+GUI_SAMUSMENU_SHORTLABEL_CHARGE_BEAM	チャージビーム
+GUI_SAMUSMENU_SHORTLABEL_DIFUSSION_CHARGE	ディフュージョンビーム
+GUI_SAMUSMENU_SHORTLABEL_DOUBLE_JUMP	スピンブースト
+GUI_SAMUSMENU_SHORTLABEL_GHOST_DASH	フラッシュシフト
+GUI_SAMUSMENU_SHORTLABEL_GRAPPLE_BEAM	グラップリングビーム
+GUI_SAMUSMENU_SHORTLABEL_GRAVITY_SUIT	グラビティスーツ
+GUI_SAMUSMENU_SHORTLABEL_HYPER_BEAM	ハイパービーム
+GUI_SAMUSMENU_SHORTLABEL_ICE_MISSILE	アイスミサイル
+GUI_SAMUSMENU_SHORTLABEL_LINE_BOMB	クロスボム
+GUI_SAMUSMENU_SHORTLABEL_MISSILE	ミサイル
+GUI_SAMUSMENU_SHORTLABEL_MORPHBALL	モーフボール
+GUI_SAMUSMENU_SHORTLABEL_MULTI_LOCK-ON	ストームミサイル
+GUI_SAMUSMENU_SHORTLABEL_OPTICAL_CAMO	ファントムクローク
+GUI_SAMUSMENU_SHORTLABEL_PLASMA_BEAM	プラズマビーム
+GUI_SAMUSMENU_SHORTLABEL_POWER_BEAM	パワービーム
+GUI_SAMUSMENU_SHORTLABEL_POWER_BOMB	パワーボム
+GUI_SAMUSMENU_SHORTLABEL_POWER_SUIT	ノーマルスーツ
+GUI_SAMUSMENU_SHORTLABEL_SCREW_ATTACK	スクリューアタック
+GUI_SAMUSMENU_SHORTLABEL_SONAR	パルスレーダー
+GUI_SAMUSMENU_SHORTLABEL_SPACE_JUMP	スペースジャンプ
+GUI_SAMUSMENU_SHORTLABEL_SPEED_BOOSTER	スピードブースター
+GUI_SAMUSMENU_SHORTLABEL_SPIDER_MAGNET	スパイダーマグネット
+GUI_SAMUSMENU_SHORTLABEL_SUPER_MISSILE	スーパーミサイル
+GUI_SAMUSMENU_SHORTLABEL_VARIA_SUIT	バリアスーツ
+GUI_SAMUSMENU_SHORTLABEL_WAVE_BEAM	ウェイブビーム
+GUI_SAMUSMENU_SHORTLABEL_WIDE_BEAM	ワイドビーム
+GUI_SAMUSMENU_SHORTLABEL_HYPER_SUIT	メトロイドスーツ
+GUI_SAMUSMENU_TITLE	サムス
+GUI_SKIP_CINEMATIC	᠊ を押してスキップ
+GUI_TITLE_LABEL_OPTIONS	᠊ オプション
+GUI_TOTALRECHARGE_CANNOTUSE	全て満タンです
+GUI_TOTALRECHARGE_SUCCESS	全回復した
+MAP_ICON_ACCESS_POINT	アクセスステーション
+MAP_ICON_AMMO_STATION	ウェポンステーション
+MAP_ICON_BEAM_DOOR	ビームゲート
+MAP_ICON_CENTRALUNIT	セントラルユニット
+MAP_ICON_CENTRALUNIT_DOOR	セントラルユニットゲート
+MAP_ICON_CHARGE_BEAM_DOOR	チャージビームゲート
+MAP_ICON_CHARGE_BEAM_DOOR_LOCKED	チャージビームゲート（閉鎖中）
+MAP_ICON_CUSTOM_MARKER	マーカー
+MAP_ICON_DOOR_CLOSED	通行不可
+MAP_ICON_DOOR_OPEN	通行可能
+MAP_ICON_DOOR_LOCKED	ビームゲート（閉鎖中）
+MAP_ICON_ELEVATOR	エレベーター
+MAP_ICON_EMMY	E.M.M.I.
+MAP_ICON_EMMY_DOOR	E.M.M.I. ゾーンゲート
+MAP_ICON_EMMY_DOOR_CLOSED	E.M.M.I. ゾーンゲート （閉鎖中）
+MAP_ICON_EMMY_VALVE	E.M.M.I. バルブ
+MAP_ICON_ENERGY_FRAGMENT	エネルギーパーツ
+MAP_ICON_ENERGY_STATION	エネルギーステーション
+MAP_ICON_ENERGY_TANK	エネルギータンク
+MAP_ICON_GRAPPLE_BEAM_BLOCK	グラップリングビームブロック
+MAP_ICON_GRAPPLE_BEAM_BOX	グラップリングビームボックス
+MAP_ICON_GRAPPLE_BEAM_DOOR	グラップリングビームゲート
+MAP_ICON_GRAPPLE_BEAM_POINT	グラップリングスイングポイント
+MAP_ICON_GUNSHIP	スターシップ
+MAP_ICON_HYPER_BEAM_DOOR	ハイパービームゲート
+MAP_ICON_INTERACTIVE_DEVICE	インタラクティブデバイス
+MAP_ICON_ACQUIRED_ITEM	取得済みアイテム
+MAP_ICON_ACQUIRED_ITEM_FEMALE	
+MAP_ICON_ITEM_CUBE	エイオンアビリティキューブ
+MAP_ICON_ITEM_CUBE_ACQUIRED	取得済みエイオンアビリティキューブ
+MAP_ICON_ITEM_SPHERE	アビリティスフィア
+MAP_ICON_ITEM_SPHERE_ACQUIRED	取得済みアビリティスフィア
+MAP_ICON_MAP_ROOM	マップステーション
+MAP_ICON_MISSILE_BLOCKAGE	ミサイルカバー
+MAP_ICON_MISSILE_TANK	ミサイルタンク
+MAP_ICON_MISSILE_TANK_PLUS	ミサイルプラスタンク
+MAP_ICON_MORPHBALL_LAUNCHER	モーフボールランチャー
+MAP_ICON_MORPHBALL_LAUNCHER_EXIT	モーフボールランチャー（出口）
+MAP_ICON_MULTI_LOCK_TRAPDOOR	ストームミサイルボックス
+MAP_ICON_PLASMA_BEAM_BLOCKAGE	プラズマビームカバー
+MAP_ICON_POWERBOMB_TANK	パワーボムタンク
+MAP_ICON_PRESENCE_DOOR	感知ゲート
+MAP_ICON_RAILWAY	シャトル
+MAP_ICON_SAMUS	サムス
+MAP_ICON_SAVE_ROOM	セーブステーション
+MAP_ICON_SHUTTER	シャッター
+MAP_ICON_SHUTTER_PLATFORM	シャッタープラットフォーム
+MAP_ICON_SUPER_MISSILE_BLOCKAGE	スーパーミサイルカバー
+MAP_ICON_TELEPORT_STATION	テレポータル
+MAP_ICON_TELEPORT_STATION_A	テレポータル (レッド)
+MAP_ICON_TELEPORT_STATION_E	テレポータル (パープル)
+MAP_ICON_TELEPORT_STATION_I	テレポータル (イエロー)
+MAP_ICON_TELEPORT_STATION_O	テレポータル (グリーン)
+MAP_ICON_TELEPORT_STATION_U	テレポータル (ネイビー)
+MAP_ICON_TELEPORT_STATION_X	テレポータル (ブルー)
+MAP_ICON_TELEPORT_STATION_Y	テレポータル (オレンジ)
+MAP_ICON_THERMAL_DOOR	サーマルゲート
+MAP_ICON_THERMAL_DOOR_CLOSED	サーマルゲート（閉鎖中）
+MAP_ICON_THERMAL_DOOR_OPEN	サーマルゲート（開放中）
+MAP_ICON_THERMAL_TRAP	サーマルトラップドア
+MAP_ICON_THERMAL_TRAP_CLOSED	サーマルトラップドア（閉鎖中）
+MAP_ICON_THERMAL_TRAP_OPEN	サーマルトラップドア（開放中）
+MAP_ICON_TOTAL_RECHARGE_STATION	トータルリチャージステーション
+MAP_ICON_TRANSPORT_CAPSULE	トランスポートカプセル
+MAP_ICON_UNKNOWN	？？？
+MAP_ICON_WAVE_BEAM_BLOCKAGE	ウェイブビームカバー
+MAP_ICON_WIDE_BEAM_BLOCKAGE	ワイドビームカバー
+MAP_ICON_WIDE_BEAM_BOX	ワイドビームボックス
+MAP_ICON_WIDE_BEAM_DOOR	ワイドビームゲート
+MAP_ICON_BLOCK_BEAM	ビームブロック
+MAP_ICON_BLOCK_BOMB	ボムブロック
+MAP_ICON_BLOCK_MISSILE	ミサイルブロック
+MAP_ICON_BLOCK_PITFALL	スルーブロック
+MAP_ICON_BLOCK_POWERBOMB	パワーボムブロック
+MAP_ICON_BLOCK_SCREW	スクリューアタックブロック
+MAP_ICON_BLOCK_SPEED	スピードブースターブロック
+MAP_ICON_WAR_LOTUS	エンキ
+MAP_ICON_BOSS	ボス
+MAP_ICON_BOSS_DEFEATED	撃破したボス
+MAP_ICON_PROP_OPEN	(解放中)
+MAP_ICON_PROP_CLOSED	(閉鎖中)
+MAP_ICON_BLOCK_DESTROYED	破壊済み
+MAP_ICON_BLOCK_DESTROYED_FEMALE	
+MAP_ICON_DEVICE_USED	使用済み
+MAP_ICON_DEVICE_USED_FEMALE	
+MAP_ICON_DOOR_FROZEN	凍結
+MAP_ICON_DOOR_FROZEN_FEMALE	
+GUI_COMPANY_TITLE_SCREEN	© Nintendo
+MAP_STATE_BEGIN	（
+MAP_STATE_END	）
+MLOG_ABILITY_BOMB	{c1}ボム{c0} を ダイロン で入手
+MLOG_ABILITY_CHARGE_BEAM	{c1}チャージビーム{c0} を アルタリア で入手
+MLOG_ABILITY_DIFFUSION_BEAM	{c1}ディフュージョンビーム{c0} を カタリス で入手
+MLOG_ABILITY_DOUBLE_JUMP	{c1}スピンブースト{c0} を ガヴォラン で入手
+MLOG_ABILITY_GHOST_AURA	{c1}フラッシュシフト{c0} を バルエニア で入手
+MLOG_ABILITY_GRAPPLE_BEAM	{c1}グラップリングビーム{c0} を アルタリア で入手
+MLOG_ABILITY_GRAVITY_SUIT	{c1}グラビティスーツ{c0} を バルエニア で入手
+MLOG_ABILITY_HYPER_BEAM	{c1}ハイパービーム{c0} を イトラシュ で入手
+MLOG_ABILITY_HYPER_SUIT	{c1}メトロイドスーツ{c0} を イトラシュ で入手
+MLOG_ABILITY_ICE_MISSILE	{c1}アイスミサイル{c0} を ガヴォラン で入手
+MLOG_ABILITY_LINE_BOMB	{c1}クロスボム{c0} を ガヴォラン で入手
+MLOG_ABILITY_MAGNET_GLOVE	{c1}スパイダーマグネット{c0} を アルタリア で入手
+MLOG_ABILITY_MORPH_BALL	{c1}モーフボール{c0} を カタリス で入手
+MLOG_ABILITY_MULTILOCKON	{c1}ストームミサイル{c0} を フェーレニア で入手
+MLOG_ABILITY_OPTIC_CAMOUFLAGE	{c1}ファントムクローク{c0} を アルタリア で入手
+MLOG_ABILITY_PLASMA_BEAM	{c1}プラズマビーム{c0} を エルン で入手
+MLOG_ABILITY_POWER_BOMB	{c1}パワーボム{c0} を ハヌビア で入手
+MLOG_ABILITY_SCREW_ATTACK	{c1}スクリューアタック{c0} を アルタリア で入手
+MLOG_ABILITY_SONAR	{c1}パルスレーダー{c0} を ガヴォラン で入手
+MLOG_ABILITY_SPACE_JUMP	{c1}スペースジャンプ{c0} を フェーレニア で入手
+MLOG_ABILITY_SPEED_BOOSTER	{c1}スピードブースター{c0} を ダイロン で入手
+MLOG_ABILITY_SUPER_MISSILE	{c1}スーパーミサイル{c0} を ガヴォラン で入手
+MLOG_ABILITY_VARIA_SUIT	{c1}バリアスーツ{c0} を アルタリア で入手
+MLOG_ABILITY_WAVE_BEAM	{c1}ウェイブビーム{c0} を フェーレニア で入手
+MLOG_ABILITY_WIDE_BEAM	{c1}ワイドビーム{c0} を ダイロン で入手
+MLOG_ADAM_AQUA	{c5}アダムメッセージ{c0} (バルエニア) ᠀
+MLOG_ADAM_CAVE	{c5}アダムメッセージ{c0} (アルタリア) ᠀
+MLOG_ADAM_FOREST	{c5}アダムメッセージ{c0} (ガヴォラン) ᠀
+MLOG_ADAM_LAB	{c5}アダムメッセージ{c0} (ダイロン) ᠀
+MLOG_ADAM_MAGMA	{c5}アダムメッセージ{c0} (カタリス) ᠀
+MLOG_ADAM_SANC	{c5}アダムメッセージ{c0} (フェーレニア) ᠀
+MLOG_ADAM_SHIP	{c5}アダムメッセージ{c0} (ハヌビア) ᠀
+MLOG_COOLDOWN_EVENT	惑星の気温が通常に戻った
+MLOG_DEFEAT_BOSS_2CRS_AQUA	{c3}ロボット鳥人兵士{c0} を バルエニア で撃破
+MLOG_DEFEAT_BOSS_2CRS_SANC	{c3}ロボット鳥人兵士{c0} を フェーレニア で撃破
+MLOG_DEFEAT_BOSS_COMMANDER	{c3}レイヴンビーク{c0} を イトラシュ で撃破
+MLOG_DEFEAT_BOSS_COMMANDER_X	{c3}レイヴンビークX{c0} を ハヌビア で撃破
+MLOG_DEFEAT_BOSS_COOLDOWN_X	{c3}実験体 Z-57号{c0} を カタリス で撃破
+MLOG_DEFEAT_BOSS_CRS_FOREST	{c3}ロボット鳥人兵士{c0} を ガヴォラン で撃破
+MLOG_DEFEAT_BOSS_CRS_SANC	{c3}ロボット鳥人兵士{c0} を フェーレニア で撃破
+MLOG_DEFEAT_BOSS_CWX_CAVE	{c3}鳥人兵士{c0} を アルタリア で撃破
+MLOG_DEFEAT_BOSS_CWX_FOREST	{c3}鳥人兵士{c0} を ガヴォラン で撃破
+MLOG_DEFEAT_BOSS_CWX_QUARANTINE	{c3}鳥人兵士{c0} を エルン で撃破
+MLOG_DEFEAT_BOSS_CWX_SHIP	{c3}鳥人兵士{c0} を ハヌビア で撃破
+MLOG_DEFEAT_BOSS_CWXE_SHIP	{c3}エリート鳥人兵士{c0} を ハヌビア で撃破
+MLOG_DEFEAT_BOSS_HYDROGIGA	{c3}ドロギーガ{c0} を バルエニア で撃破
+MLOG_DEFEAT_BOSS_KRAID	{c3}クレイド{c0} を カタリス で撃破
+MLOG_DEFEAT_BOSS_SCORPIUS	{c3}コルピウス{c0} を アルタリア で撃破
+MLOG_DEFEAT_BOSS_SUPER_GOLIATH	{c3}ゴッヅーナ{c0} を ガヴォラン で撃破
+MLOG_DEFEAT_BOSS_SUPER_QUETZOA	{c3}エスキュー{c0} を フェーレニア で撃破
+MLOG_DEFEAT_EMMY_CAVE	{c3}E.M.M.I.-02SM{c0} を アルタリア で破壊
+MLOG_DEFEAT_EMMY_FOREST	{c3}E.M.M.I.-05IM{c0} を ガヴォラン で破壊
+MLOG_DEFEAT_EMMY_LAB	{c3}E.M.M.I.-04SB{c0} を ダイロン で破壊
+MLOG_DEFEAT_EMMY_MAGMA	{c3}E.M.M.I.-03MB{c0} を カタリス で破壊
+MLOG_DEFEAT_EMMY_SANC	{c3}E.M.M.I.-06WB{c0} を フェーレニア で破壊
+MLOG_DEFEAT_EMMY_SHIP	{c3}E.M.M.I.-07PB{c0} を ハヌビア で破壊
+MLOG_DEFEAT_PROTOEMMY_CAVE	{c3}E.M.M.I.-01P{c0} を アルタリア で破壊
+MLOG_ENCOUNTER_EMMY_CAVE	{c3}E.M.M.I.-02SM{c0} に アルタリア で遭遇
+MLOG_ENCOUNTER_EMMY_FOREST	{c3}E.M.M.I.-05IM{c0} が ガヴォラン で起動
+MLOG_ENCOUNTER_EMMY_LAB	{c3}E.M.M.I.-04SB{c0} に ダイロン で遭遇
+MLOG_ENCOUNTER_EMMY_MAGMA	{c3}E.M.M.I.-03MB{c0} に カタリス で遭遇
+MLOG_ENCOUNTER_EMMY_SANC	{c3}E.M.M.I.-06WB{c0} に フェーレニア で遭遇
+MLOG_ENCOUNTER_EMMY_SHIP	{c3}E.M.M.I.-07PB{c0} に ハヌビア で遭遇
+MLOG_ENCOUNTER_PROTOEMMY_CAVE	{c3}E.M.M.I.-01P{c0} に アルタリア で遭遇
+MLOG_INIT	謎の敵と遭遇
+MLOG_PROFESSOR_ENCOUNTER	クワイエットローブと遭遇 ᠀
+MLOG_TUTO_SLIDING	{c1}スライディング{c0}|᠝ を入力しながら ᠆ を押してスライディング。
+MLOG_TUTO_FREE_AIM	{c1}フリーエイム{c0}|᠄ をホールドしてフリーエイムモードに入る。᠝ でエイム。
+MLOG_TUTO_MISSILE_MODE	{c1}ミサイルモード{c0}|᠅ をホールドするとミサイルを装備。᠃ を押して発射。|一部のブロックは、特定のアビリティを使わないと破壊できない。
+MLOG_TUTO_HIDDEN_BLOCKS	{c1}隠しブロック{c0}|行き詰まったら周囲の地形の破壊を試みよ。|ブロックが隠されている場合がある。|隠されたブロックは、ミサイルの着弾によって露出される。
+MLOG_TUTO_BUTTON_MAP	{c1}マップとオプション{c0}|᠌ ボタンを押すとマップ画面が開く。|᠊ ボタンを押すとオプション画面が開く。
+MLOG_TUTO_MELEE	{c1}メレーカウンター{c0}|特定の攻撃に対してタイミングよくメレーカウンターを当てると|弾くことができ、その後自動的に敵をエイミングする。
+MLOG_TUTO_MELEE_2	{c1}メレーカウンター{c0}|メレーカウンターでスタンした敵を撃破すると、|通常よりも大幅に多くアイテムをドロップする。
+MLOG_TUTO_MELEE_3	{c1}メレーカウンター{c0}|走りながら ᠂ を押すことで、強力なダッシュメレーを行える。|他のメレーカウンターと異なり、敵にダメージを与えられる。
+MLOG_TUTO_HINT	{c1}隠されたアイテム{c0}|マップ上で点滅している範囲内には、隠されたアイテムが存在している。
+MLOG_TUTO_EMMY_GRAB	{c1}E.M.M.I. グラブ{c0}|フラッシュと同時に ᠂ が押されていた場合のみ、|E.M.M.I. の攻撃をメレーカウンターできる。ただしタイミングが合って|反撃できることは偶然に等しく、極めて稀である。
+MLOG_TUTO_EMMY_SLIDE	{c1}E.M.M.I. のスタン{c0}|᠝ を入力しながら ᠆ を押してスライディング。|E.M.M.I. の下をスライディングでくぐれ。
+MLOG_TUTO_MAP_ROOM	{c1}マップ{c0}|マップ上の黄色の部屋はセーブができる部屋、|紫色の部屋は他のエリアへ移動するための|シャトルやエレベーターがある部屋である。
+MLOG_TUTO_OMEGA_CANNON	{c1}エイムカメラモード{c0}|᠄ を押してエイムカメラモードに入る。 ᠝ で方向を入力して狙う。|（もしターゲットとの距離が近ければ、サムスは自動的にその方向を向く）
+MLOG_TUTO_OMEGA_BLASTER	{c1}オメガブラスター{c0}|᠅ をホールドしてオメガブラスターをチャージ。|フルチャージ状態で ᠅ をホールドしながら ᠃ を押し、|コアを狙って発射せよ。
+MLOG_TUTO_OMEGA_STREAM	{c1}オメガストリーム{c0}|᠃ をホールドしてオメガストリームを照射すると、プロテクターが赤熱。|赤熱しきるとプロテクターは破壊され、コアが露出される。
+MLOG_TUTO_OPTICAL_CAMO	{c1}ファントムクロークと E.M.M.I.{c0}|ファントムクロークを発動中、サムスは E.M.M.I. に検知・視認されない。|ただしぶつかると捕獲されてしまうので注意せよ。
+MLOG_TUTO_PARASITE	{c1}寄生体X{c0}|Xが擬態した敵を倒すと、擬態が解除されXが出現する。|サムスはXを吸収することで体力やミサイルなどを回復できる。
+TERM_AREANAME_CAVES	ARTARIA
+TERM_AREANAME_CAVES_SUBHEADER	アルタリア
+TERM_AREANAME_CAVES_MAP_TITLE	アルタリア
+TERM_AREANAME_CAVES_MAP_TRANSPORT	アルタリア
+TERM_AREANAME_MAGMA	CATARIS
+TERM_AREANAME_MAGMA_SUBHEADER	カタリス
+TERM_AREANAME_MAGMA_MAP_TITLE	カタリス
+TERM_AREANAME_MAGMA_MAP_TRANSPORT	カタリス
+TERM_AREANAME_LABORATORY	DAIRON
+TERM_AREANAME_LABORATORY_SUBHEADER	ダイロン
+TERM_AREANAME_LABORATORY_MAP_TITLE	ダイロン
+TERM_AREANAME_LABORATORY_MAP_TRANSPORT	ダイロン
+TERM_AREANAME_AQUA	BURENIA
+TERM_AREANAME_AQUA_SUBHEADER	バルエニア
+TERM_AREANAME_AQUA_MAP_TITLE	バルエニア
+TERM_AREANAME_AQUA_MAP_TRANSPORT	バルエニア
+TERM_AREANAME_FOREST	GHAVORAN
+TERM_AREANAME_FOREST_SUBHEADER	ガヴォラン
+TERM_AREANAME_FOREST_MAP_TITLE	ガヴォラン
+TERM_AREANAME_FOREST_MAP_TRANSPORT	ガヴォラン
+TERM_AREANAME_QUARANTINE	ELUN
+TERM_AREANAME_QUARANTINE_SUBHEADER	エルン
+TERM_AREANAME_QUARANTINE_MAP_TITLE	エルン
+TERM_AREANAME_QUARANTINE_MAP_TRANSPORT	エルン
+TERM_AREANAME_SANCTUARY	FERENIA
+TERM_AREANAME_SANCTUARY_SUBHEADER	フェーレニア
+TERM_AREANAME_SANCTUARY_MAP_TITLE	フェーレニア
+TERM_AREANAME_SANCTUARY_MAP_TRANSPORT	フェーレニア
+TERM_AREANAME_SHIPYARD	HANUBIA
+TERM_AREANAME_SHIPYARD_SUBHEADER	ハヌビア
+TERM_AREANAME_SHIPYARD_MAP_TITLE	ハヌビア
+TERM_AREANAME_SHIPYARD_MAP_TRANSPORT	ハヌビア
+TERM_AREANAME_SKYBASE	ITORASH
+TERM_AREANAME_SKYBASE_SUBHEADER	イトラシュ
+TERM_AREANAME_SKYBASE_MAP_TITLE	イトラシュ
+TERM_AREANAME_SKYBASE_MAP_TRANSPORT	イトラシュ
+TERM_CHARACTER_SAMUS	サムス
+TERM_CHARACTER_EMMY	E.M.M.I.
+TERM_CHARACTER_PROFESSOR	クワイエットローブ
+TERM_CHARACTER_COMMANDER	レイヴンビーク
+TERM_CHARACTER_ADAM	アダム
+TERM_BOSS_SCORPIUS	コルピウス
+TERM_BOSS_KRAID	クレイド
+TERM_BOSS_HYDROGIGA	ドロギーガ
+TERM_BOSS_SUPER_GOLIATH	ゴッヅーナ
+TERM_BOSS_SUPER_QUETZOA	エスキュー
+TERM_BOSS_CRS_SANC	ロボット鳥人兵士
+TERM_BOSS_CRS_FOREST	ロボット鳥人兵士
+TERM_BOSS_CRS_2_SANC	ロボット鳥人兵士 x 2
+TERM_BOSS_CRS_2_AQUA	ロボット鳥人兵士 x 2
+TERM_BOSS_CWX_QUARANTINE	鳥人兵士
+TERM_BOSS_CWX_FOREST	鳥人兵士
+TERM_BOSS_CWX_CAVE	鳥人兵士
+TERM_BOSS_CWX_SHIPYARD	鳥人兵士
+TERM_BOSS_CWX_ELITE	エリート鳥人兵士
+TERM_BOSS_COOLDOWNX	実験体 Z-57号
+TERM_CHARACTER_COMMANDER_X	レイヴンビークX
+TIP_000_GENERAL_PARKOUR_000	{c6}パルクール||{c7}１ブロック分の段差であれば、走っているだけで自動的に乗り越える。{c0}
+TIP_001_GENERAL_WALL_JUMP_000	{c6}キッククライム||{c7}回転ジャンプ中、壁に接触した状態で ᠁ ボタンを押すと|壁を蹴って反対側へジャンプできる。{c0}
+TIP_002_GENERAL_POWER_GRIP_000	{c6}パワーグリップ||{c7}ジャンプ中や落下中、地形の角に接触する際に ᠝ をその方向に|入力していると、サムスは角を掴みぶら下がる。{c0}
+TIP_003_GENERAL_MELEE_COUNTER_000	{c6}メレーカウンター||{c7}メレーカウンターを成功させてスタンした敵を撃破した場合、|通常より大幅に多い量の回復アイテムを落とす。{c0}
+TIP_004_GENERAL_DASH_MELEE_000	{c6}ダッシュメレー||{c7}走りながら ᠂ ボタンを押すとダッシュメレーとなる。|ダッシュメレーは敵にダメージを与えられる。{c0}|
+TIP_005_GENERAL_FREE_AIM_000	{c6}フリーエイム||{c7}フリーエイムでポインターを敵に合わせると、ポインターが明るく光る。{c0}
+TIP_006_GENERAL_RUNNING_FREE_AIM_000	{c6}ランニングフリーエイム||{c7}走りながら前方斜め上や斜め下に ᠝ を傾けると、|止まることなく射撃角度を変えられる。{c0}
+TIP_007_GENERAL_HIDDEN_BLOCKS_000	{c6}隠しブロック||{c7}地形の中にブロックが隠されている場合、ミサイルを着弾させることで露出できる。{c0}
+TIP_008_GENERAL_HIDDEN_BLOCKS_001	{c6}隠しブロック||{c7}地形の中にブロックが隠されている場合、|ミサイルを着弾させるか、ボムの爆風を当てることで露出できる。{c0}
+TIP_009_GENERAL_MISSILE_000	{c6}ミサイル||{c7}ミサイルは弾数の制限があるが、強力な攻撃手段だ。積極的に使用せよ。{c0}
+TIP_010_GENERAL_CHARGE_BEAM_000	{c6}チャージビーム||{c7}通常のビームが効かない敵に対しても、チャージビームは有効である。{c0}
+TIP_011_GENERAL_CHARGE_BEAM_001	{c6}チャージビーム||{c7}フルチャージ状態のまま回転ジャンプをすると、チャージアタックになる。|触れた敵にダメージを与えられる。{c0}
+TIP_012_BOSS_BEAM_000	{c6}ビーム||{c7}マオキン族の敵に対しては、ミサイルやチャージビームだけではなく、ビーム連射も有効だ。{c0}
+TIP_013_BOSS_BEAM_001	{c6}ビーム||{c7}ボスには、ミサイルやチャージビームだけではなく、ビーム連射も有効な弱点を持つものもいる。{c0}
+TIP_014_GENERAL_SPIDER_MAGNET_000	{c6}スパイダーマグネット||{c7}天井からぶら下がっている最中に ᠝ を上にホールドすると天井に張り付ける。|敵や攻撃に当たりにくくなる。{c0}
+TIP_015_EMMI_ZONE_PHANTOM_CLOAK_000	{c6}ファントムクローク||{c7}発動すると、サムスの姿と音が消える。E.M.M.I. に検知されたり、視認されなくなる。{c0}
+TIP_016_EMMI_ZONE_PHANTOM_CLOAK_001	{c6}ファントムクローク||{c7}発動中、エイオンを使い果たしても、エネルギーを消費することで|ファントムクローク状態を継続できる。{c0}
+TIP_017_GENERAL_PHANTOM_CLOAK_000	{c6}ファントムクローク||{c7}E.M.M.I. ゾーン以外でも、敵に気づかれずに進むことができる。{c0}
+TIP_018_GENERAL_MORPH_BALL_000	{c6}モーフボール||{c7}地面に近い位置のモーフボール通路へは、その方向に ᠝ を入力しながら|᠁ ボタンを押すことで、自動的に丸まりながら入ることができる。{c0}
+TIP_019_BOSS_FLASH_SHIFT_000	{c6}フラッシュシフト||{c7}一瞬で距離を離したり、詰めたりできるため、ボスとの戦闘で役に立つ。|特に避けづらい攻撃に対してフラッシュシフトは有効だ。{c0}
+TIP_020_GENERAL_SPEED_BOOSTER_000	{c6}スピードブースター||{c7}スピードブースター状態で走っている最中、壁を蹴ってジャンプしたり、|スライディングをしても勢いは維持される。{c0}
+TIP_021_GENERAL_SPEED_BOOSTER_001	{c6}スピードブースター||{c7}通常の走り同様、スピードブースター状態で走っている最中も、|１ブロック分の高さの段差であれば、サムスは自動的に乗り越える。{c0}
+TIP_022_GENERAL_SHINE_SPARK_000	{c6}シャインスパーク||{c7}シャインスパークでの移動中、坂にぶつかった際、᠝ を進行方向に入力していると、|自動的にスピードブースター状態に戻り走り続ける。{c0}
+TIP_023_GENERAL_BALL_SPARK_000	{c6}ボールスパーク||{c7}シャインスパーク準備状態中にモーフボールになってから発動すると、ボールスパークになる。{c0}
+TIP_024_GENERAL_ICE_BREAKER_000	{c6}アイスブレイカー||{c7}アイスミサイルで凍らせた敵は、メレーカウンターで破壊することができる。{c0}
+TIP_025_GENERAL_CROSS_BOMB_000	{c6}クロスボム||{c7}モーフボール通路内で、クロスボムの横方向の爆風にうまく乗ると、|爆風に押されて平行移動できる。{c0}
+TIP_026_GENERAL_ICON_HIGHLIGHT_000	{c6}アイコンハイライト||{c7}マップ画面でアイコンにカーソルを合わせて ᠃ ボタンを押すとロック。|同じ種類のアイコンが全てのマップでハイライトされる。{c0}
+TIP_027_GENERAL_MAP_MARKERS_000	{c6}マップマーカー||{c7}マップ画面で ᠀ ボタンを押すとマーカーを設置できる。|マーカーはミニマップ上でも表示されるので、探索に役立つだろう。{c0}
+TIP_028_GENERAL_HIDDEN_ITEM_HINTS_000	{c6}隠しアイテムのヒント||{c7}マップ上には、白く点滅している箇所がある。|これは、その範囲内に隠されたアイテムがあることを示している。{c0}
+TIP_029_GENERAL_ROOM_COLORS_000	{c6}部屋の色||{c7}マップ上の黄色の部屋はセーブができる部屋、|紫色の部屋は他のエリアへ移動するためのシャトルやエレベーターがある部屋である。{c0}
+TIP_030_GENERAL_MINIMAP_RANGE_000	{c6}ミニマップ範囲||{c7}マップ画面上での黄色い枠線は、ミニマップの範囲を示している。{c0}
+TIP_031_EMMI_ZONE_EMMI_AND_THE_MINIMAP_000	{c6}ミニマップでの E.M.M.I. の位置||{c7}ミニマップ範囲内に E.M.M.I. が入ると、赤い点で表示される。{c0}
+TIP_032_GENERAL_EXPANDING_THE_MINIMAP_000	{c6}ミニマップ拡張||{c7}ゲームプレイ中、᠓ を押すとミニマップが拡張される。|何か操作をすると通常状態のミニマップに戻る。{c0}
+TIP_033_GENERAL_SAMUS_SCREEN_000	{c6}サムス画面||{c7}マップ画面で ᠅ ボタンを押すとサムス画面に切り替わる。|サムスの各アビリティの説明を確認できる。{c0}
+TIP_034_GENERAL_MISSION_LOG_SCREEN_000	{c6}ミッションログ画面||{c7}マップ画面で ᠄ ボタンを押すとミッションログ画面に切り替わる。|これまでの経緯と通信ルームでのやり取りを読み返すことができる。{c0}
+TIP_035_GENERAL_OPTIONS_SCREEN_000	{c6}オプション画面||{c7}ゲームプレイ中、᠊ ボタンを押すとオプション画面が開く。|明るさ調整や、データのロードなどが可能。{c0}
+TIP_036_GENERAL_RECHARGE_STATIONS_000	{c6}リチャージステーション||{c7}リチャージステーションには、エネルギーを回復するタイプ、武器を回復するタイプ、|そして両方回復するタイプがある。{c0}
+TIP_037_EMMI_ZONE_EMMI_ZONE_DOORS_000	{c6}E.M.M.I. ゾーンゲート||{c7}E.M.M.I. ゾーンゲートは、出たあとは数秒間再突入できない。{c0}
+TIP_038_EMMI_ZONE_EMMI_ZONE_DOORS_001	{c6}E.M.M.I. ゾーンゲート||{c7}E.M.M.I. に視認され追跡されている状態では全てのゲートが一時閉鎖される。|E.M.M.I. の追跡範囲から逃れると、ゲートが再び解放される。{c0}
+TIP_039_GENERAL_TRANSFER_PORTALS_000	{c6}テレポータル||{c7}テレポータルはペアで存在しており、使用すると同じ色のテレポータルにワープする。{c0}
+TIP_040_GENERAL_METROID_000	{c6}メトロイド||{c7}メトロイドは、Xを駆逐するために鳥人族によって造られた人工生命体である。{c0}
+TIP_041_GENERAL_X_PARASITES_000	{c6}X||{c7}Xの天敵であるメトロイドが全滅した今、ベビーメトロイドのDNAを|体内に注入されたサムスだけが、Xに対抗できる唯一の存在である。{c0}
+TIP_042_GENERAL_X_PARASITES_001	{c6}X||{c7}Xは、惑星SR388で発見された寄生生命体で、あらゆる生物に寄生する。|寄生したあとは宿主を殺し、コピーしたDNAをもとにその生物に擬態できる。{c0}
+TIP_043_GENERAL_X_PARASITES_002	{c6}X||{c7}Xは、生物の死体にも寄生する。|その場合、死体に残されたDNAをもとに、生前の姿に擬態できる。{c0}
+TIP_044_GENERAL_X_PARASITES_003	{c6}X||{c7}Xが、複数の宿主を経由している場合、特徴や外見を融合した新たな姿に擬態する。{c0}
+TIP_045_EMMI_ZONE_EMMI_CAPTURE_000	{c6}E.M.M.I. の捕獲攻撃||{c7}E.M.M.I. の捕獲攻撃に対しては脱出のチャンスがある。|しかし、タイミングは非常にシビアで、狙って成功させるのは不可能に近い。{c0}
+TIP_046_EMMI_ZONE_EMMI_CAPTURE_001	{c6}E.M.M.I. の捕獲攻撃||{c7}捕獲攻撃に対してメレーカウンターが成功すると E.M.M.I. は一時的に行動不能となる。|この状態では下をスライディングでくぐることも可能。{c0}
+TIP_047_EMMI_ZONE_MAP_000	{c6}マップ登録||{c7}E.M.M.I. ゾーンに初めて突入した際、マップにゾーンの形状とゲートの位置が|自動的に登録される。特にゲートの位置を把握することは生存に直結する。{c0}
+TIP_048_EMMI_ZONE_PHANTOM_CLOAK_002	{c6}ファントムクローク||{c7}発動しても、検知や視認がされなくなるだけで、E.M.M.I. にぶつかると捕獲されてしまう。|発動後は、速やかに安全な位置へと移動せよ。{c0}
+TIP_049_EMMI_ZONE_SPIDER_MAGNET_000	{c6}スパイダーマグネット||{c7}天井からぶら下がっている最中に ᠝ を上にホールドすると天井に張り付ける。|ファントムクロークと組み合わせると E.M.M.I. をやりすごせることもある。{c0}
+TIP_050_EMMI_PHASE2_EMMI_CONFRONTATION_000	{c6}E.M.M.I. との対峙||{c7}E.M.M.I. はオメガキャノンのエネルギーを検知することで、|サムスの位置を完全に把握できてしまう。{c0}
+TIP_051_EMMI_PHASE2_EMMI_CONFRONTATION_001	{c6}E.M.M.I. との対峙||{c7}E.M.M.I. の弱点は頭部のコアだ。フルチャージしたオメガブラスターを撃ち込み、とどめを刺せ。{c0}
+TIP_052_EMMI_PHASE2_EMMI_CONFRONTATION_002	{c6}E.M.M.I. との対峙||{c7}E.M.M.I. の頭部プロテクターを破壊した後、コアへの射撃は必ずしも一連の流れで|行う必要はない。状況に応じて距離を取り体勢を立て直せ。{c0}
+TIP_053_BOSS_BOSS_FIGHTS_000	{c6}ボスに苦戦したら||{c7}避けられない攻撃は無い。よく観察して、突破口を探せ。{c0}
+TIP_054_BOSS_GRAB_SEQUENCE_000	{c6}グラブシーケンス||{c7}一部のボスはメレーカウンターできる攻撃を繰り出してくる。|メレーカウンターに成功できれば、連続ダメージを与えるグラブシーケンスのチャンス。{c0}
+TIP_055_BOSS_CHARGE_BEAM_000	{c6}チャージビーム||{c7}ボスに対しては、ミサイルだけではなくチャージビームも有効だ。|ミサイルが尽きてもあきらめるな。{c0}
+TIP_056_BOSS_FINISH_COUNTER_000	{c6}フィニッシュカウンター||{c7}マオキン族の敵は、最後にフィニッシュカウンターが発生する。|タイミングを見計らってメレーカウンターし、とどめを刺せ。{c0}
+TIP_057_GENERAL_LOST_000	{c6}探索で迷ったら||{c7}新たに行けるようになったのはどこか？|マップ画面のアイコンハイライト機能やミッションログ画面を見直して進むべき道を探せ。{c0}
+TIP_058_GENERAL_FLASH_SHIFT_000	{c6}フラッシュシフト||{c7}このアビリティの特徴である平行移動は探索中でも有用だ。|特に連続発動すると、高速で移動ができる。{c0}
+TIP_059_GENERAL_EMMI_000	{c6}E.M.M.I.||{c7}E.M.M.I. の正式名称は「惑星外多形態機動調査機」である。{c0}
+CAVE_CENTRALUNIT_TUTO_CAMERA	᠄ を押してエイムカメラモードに入る。 ᠝ で方向を入力して狙う。|（ターゲットとの距離が近ければ、サムスは自動的にその方向を向く）
+CAVE_CENTRALUNIT_TUTO_HEATING	᠃ をホールドしてオメガストリームを照射すると、プロテクターが赤熱。|赤熱しきるとプロテクターは破壊され、コアが露出される。
+CAVE_CENTRALUNIT_TUTO_SHOOT_MANUAL	᠅ をホールドしてオメガブラスターをチャージ。|フルチャージ状態で ᠅ をホールドしながら ᠃ を押し、コアを狙って発射せよ。
+CAVE_EMMY_PROTO_FLOOR_SLIDE_TUTO	᠝ を入力しながら ᠆ を押してスライディング。| E.M.M.I. の下をスライディングでくぐれ。
+CAVE_EMMY_PROTO_GRAB_TUTO	フラッシュと同時に ᠂ が押されていた場合のみ、E.M.M.I. の攻撃をメレーカウンターできる。|ただしタイミングが合って反撃できることは偶然に等しく、極めて稀である。
+CAVE_FREEAIM_TUTO	᠄ をホールドしてフリーエイムモードに入る。᠝ でエイム。
+CAVE_MELEE_CUTSCENE	特定の攻撃に対してタイミングよくメレーカウンターを当てると弾くことができ、|その後自動的に敵をエイミングする。今、᠂ を押してメレーカウンターせよ。
+CAVE_MISSILE_TUTO	᠅ をホールドするとミサイルを装備。᠃ を押して発射。|一部のブロックは、特定のアビリティを使わないと破壊できない。
+CAVE_SLIDING_TUTO	᠝ を入力しながら ᠆ を押してスライディング。
+CAVE_THERMAL_DOOR_MESSAGE	サーマルエネルギーの供給先変更
+CAVE_HINT_TUTO	マップ上で点滅している範囲内には、|隠されたアイテムが存在している。
+CAVE_TUTO_MELEE_REMINDER	᠂ を押してメレーカウンター。タイミングよく当てると敵の攻撃を弾く。
+CAVE_TUTO_MELEE_REMINDER_2	メレーカウンターでスタンした敵を撃破すると、|通常よりも大幅に多くアイテムをドロップする。
+CAVE_TUTO_MELEE_REMINDER_3	走りながら ᠂ を押すことで、強力なダッシュメレーを行える。|他のメレーカウンターと異なり、敵にダメージを与えられる。
+CAVE_TUTO_MAP_OPTIONS	᠌ ボタンを押すとマップ画面が開く。|᠊ ボタンを押すとオプション画面が開く。
+CAVE_TUTO_MAP_ROOM	マップ上の黄色の部屋はセーブができる部屋、|紫色の部屋は他のエリアへ移動するためのシャトルやエレベーターがある部屋である。
+QUARANTINE_TUTO_PARASITE	Xが擬態した敵を倒すと、擬態が解除されXが出現する。|サムスはXを吸収することで体力やミサイルなどを回復できる。
+END_GAME	*ゲームクリア。おめでとう！
+GUI_AMMORECHARGE_CANNOTUSE	武器は既に満タンです
+GUI_ELEVATOR_QUESTION	エレベーターを使用しますか？
+GUI_ENERGYRECHARGE_CANNOTUSE	エネルギーは既に満タンです
+GUI_ITEM_ACQUIRED_BOMB	ボム を入手した
+GUI_ITEM_ACQUIRED_CHARGE_BEAM	チャージビーム を入手した
+GUI_ITEM_ACQUIRED_DIFFUSION_BEAM	ディフュージョンビーム を入手した
+GUI_ITEM_ACQUIRED_DOUBLE_JUMP	スピンブースト を入手した
+GUI_ITEM_ACQUIRED_GHOST_DASH	フラッシュシフト を入手した
+GUI_ITEM_ACQUIRED_GRAPPLE_BEAM	グラップリングビーム を入手した
+GUI_ITEM_ACQUIRED_GRAVITY_SUIT	グラビティスーツ を入手した
+GUI_ITEM_ACQUIRED_HYPER_BEAM	ハイパービーム を入手した
+GUI_ITEM_ACQUIRED_ICE_MISSILE	アイスミサイル を入手した
+GUI_ITEM_ACQUIRED_LINE_BOMB	クロスボム を入手した
+GUI_ITEM_ACQUIRED_MORPH_BALL	モーフボール を入手した
+GUI_ITEM_ACQUIRED_MULTI_LOCK	ストームミサイル を入手した
+GUI_ITEM_ACQUIRED_OPTICAL_CAMO	ファントムクローク を入手した
+GUI_ITEM_ACQUIRED_PLASMA_BEAM	プラズマビーム を入手した
+GUI_ITEM_ACQUIRED_POWER_BOMB	パワーボム を入手した
+GUI_ITEM_ACQUIRED_SCREW_ATTACK	スクリューアタック を入手した
+GUI_ITEM_ACQUIRED_SONAR	パルスレーダーを入手した
+GUI_ITEM_ACQUIRED_SPACE_JUMP	スペースジャンプ を入手した
+GUI_ITEM_ACQUIRED_SPEED_BOOSTER	スピードブースター を入手した
+GUI_ITEM_ACQUIRED_SPIDER_MAGNET	スパイダーマグネット を入手した
+GUI_ITEM_ACQUIRED_SUPER_MISSILE	スーパーミサイル を入手した
+GUI_ITEM_ACQUIRED_VARIA_SUIT	バリアスーツ を入手した
+GUI_ITEM_ACQUIRED_WAVE_BEAM	ウェイブビーム を入手した
+GUI_ITEM_ACQUIRED_WIDE_BEAM	ワイドビーム を入手した
+GUI_MAP_DOWNLOAD	エリアマップがダウンロードされた
+GUI_SAVESTATION_QUESTION	セーブしますか？
+GUI_TANK_ACQUIRED_ENERGY	エネルギータンク 入手|エネルギーの最大値が 100 UP
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_1	エネルギーパーツ入手 (1/4)|4つ集めるとエネルギーの最大値が増える
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_2	エネルギーパーツ 入手 (2/4)|4つ集めるとエネルギーの最大値が増える
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_3	エネルギーパーツ 入手 (3/4)|4つ集めるとエネルギーの最大値が増える
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_COMPLETE	エネルギーパーツ 入手 (4/4)|エネルギーの最大値が 100 UP
+GUI_TANK_ACQUIRED_MISSILE	ミサイルタンク 入手|保有できる最大値が 2 UP
+GUI_TANK_ACQUIRED_MISSILE_PLUS	ミサイルプラスタンク 入手|保有できる最大値が 10 UP
+GUI_TANK_ACQUIRED_POWER_BOMB	パワーボムタンク 入手|保有できる最大値が 1 UP
+GUI_TANK_ACQUIRED_UNKNOWN	未詳アイテム 入手|まだこのアイテムを使用することはできない
+GUI_TELEPORT_QUESTION	テレポータルで移動しますか？
+GUI_TRANSPORT_AQUA	バルエニア へ向かいますか？
+GUI_TRANSPORT_CAVE	アルタリア に向かいますか？
+GUI_TRANSPORT_FOREST	ガヴォラン に向かいますか？
+GUI_TRANSPORT_LAB	ダイロン に向かいますか？
+GUI_TRANSPORT_MAGMA	カタリス に向かいますか？
+GUI_TRANSPORT_QUARANTINE	エルン に向かいますか？
+GUI_TRANSPORT_SANC	フェーレニア に向かいますか？
+GUI_TRANSPORT_SHIPYARD	ハヌビア に向かいますか？
+GUI_TRANSPORT_SKYBASE	イトラシュ に向かいますか？
+GUI_ITEM_ACQUIRED_AEION	エイオンに対応するため、スーツをアップグレード中…
+SKYBASE_ELEVATOR_COMMANDER	エレベーターを使用しますか？
+CAVE_HIDDENBLOCKS_TUTO	行き詰まったら周囲の地形の破壊を試みよ。ブロックが隠されている場合がある。|隠されたブロックは、ミサイルの着弾によって露出される。
+MAGMA_OPTICAL_TUTO	ファントムクロークを発動中、サムスは E.M.M.I. に検知・視認されない。|ただしぶつかると捕獲されてしまうので注意せよ。
+GUI_OMEGA_CU_1	セントラルユニットから流れ込んだエネルギーにより、|サムスのアームキャノンがオメガキャノンへと変形した
+GUI_OMEGA_CU_2	「オメガブラスター」 使用可能
+GUI_OMEGA_CU_3	「オメガストリーム」 使用可能
+GUI_OMEGA_EMMY_1	オメガキャノンが元のアームキャノンへと戻った
+CAPTION_PROLOGUE_PAGE_01	メトロイド：||鳥人族によって開発された浮遊生命体の名称。|容易に増殖させることが可能なこの人工生命体は、物理的接触により|生物等あらゆるもののエネルギーを吸収し尽くすその特性から|生体兵器としての価値を見出され、数々の事件の発端となった。|鳥人族の言葉で「最強の戦士」を意味すると言われたこの生命体は、|既に絶滅しこの宇宙に存在しない。
+CAPTION_PROLOGUE_PAGE_02	X：||既に絶滅した、惑星SR388の固有種とみられるゲル状の寄生擬態生物の名称。 |あらゆる生物や死骸、あるいはその一部に浸入し、遺伝子情報を得て擬態する。|生体の場合には記憶中枢にアクセスして情報を取得、その後宿主を死に至らしめる。|感情を持ち合わせず、ただ本能的に種の保存と拡大を最優先として分裂と合体を|繰り返し、より強い個体に擬態してゆくXの人的制御は不可能であるため、|天敵であるメトロイド以上に危険な生命体とされていた。
+CAPTION_PROLOGUE_PAGE_03	メトロイドが絶滅した惑星SR388は、恐るべき寄生擬態生物Xの巣窟と化していた。|そうとも知らず、銀河連邦からの依頼でSR388に足を踏み入れた私はXに寄生され、|命の危機にさらされてしまう。
+CAPTION_PROLOGUE_PAGE_04	Xの天敵であったメトロイドのDNAから精製されたワクチンによって|一命をとりとめたばかりか、Xに対抗しうる体質を持つ唯一の存在となった私は、|緊急信号が発信されたバイオロジック宇宙生物研究所、通称 B.S.L. へと向かった。
+CAPTION_PROLOGUE_PAGE_05	Xが擬態した数々の強敵、そしてフルスペック状態のかつての私自身に擬態した|「SA-X」との死闘を制した私は、無数のXが存在するSR388に B.S.L. を衝突させ|Xを惑星ごと消滅させることに成功した。
+CAPTION_PROLOGUE_PAGE_06	時間が経ち、X、そしてメトロイドが過去のものとなりつつあったある日、|銀河連邦本部にある映像データが送られてきた。
+CAPTION_PROLOGUE_PAGE_07	そこには自然環境で活動するXの姿がはっきりと映し出されていた。
+CAPTION_PROLOGUE_PAGE_08	検証の結果、差出人不明のその映像はフェイクでは無いことが判明し、|発信源としてある惑星が特定された。
+CAPTION_PROLOGUE_PAGE_09	その惑星は「ZDR」。その未知の惑星に、絶滅したはずのXが棲息するならば|銀河の平和を揺るがす一大事である。|銀河連邦は直ちに７体の「E.M.M.I.」からなる調査部隊をZDRへと派遣した。
+CAPTION_PROLOGUE_PAGE_10	E.M.M.I. とは、未知の生物の捕獲とDNA採取に特化した構造を備えた|大型調査ロボットである。機動性に優れ、宇宙で最も硬質とも言われる|特殊素材でできた E.M.M.I. の派遣を不安視する理由は無かった。
+CAPTION_PROLOGUE_PAGE_11	ところが、ZDR到着後間もなくして E.M.M.I. 部隊は消息を断ってしまった。
+CAPTION_PROLOGUE_PAGE_12	ZDRでいったい何が起きているのか。Xは本当に生存しているのか。|現地に赴くことができるのは、Xに対する耐性を持つ私をおいて他にはいない。
+CAPTION_INTRO_PAGE_1	間もなく、ZDRの大気圏に突入。
+CAPTION_INTRO_PAGE_2	このミッションの報酬額は適切とは言えない。
+DISPLAY_ADAM_INTRO_PAGE_1	The bounty for this mission does not |seem appropriate.
+CAPTION_INTRO_PAGE_3	想定しうるリスクに対して妥当ではない。
+DISPLAY_ADAM_INTRO_PAGE_2	The risk clearly outweighs the reward.
+CAPTION_INTRO_PAGE_4	迷子たちの機嫌をそこねないように細心の注意を払え。レディー。
+DISPLAY_ADAM_INTRO_PAGE_3	Treat our lost assets with care, Lady.
+CAPTION_INTRO_PAGE_5	大気圏突入まであと10秒。|9… 8… 7… 6… 5… 4… 3… 2… 1…
+CAPTION_INTRO_FLASHBACK_PAGE_01	そのエレベーターはこの地下施設の奥深くへと続いているようだ。|恐らくそのせいで…
+CAPTION_INTRO_LANDING_PAGE_01	電波状況が思わしくない。|今後、この無線通信が使用できなくなる可能性が高い。
+CAPTION_INTRO_LANDING_PAGE_02	まずは施設内のネットワークへの接続を試み、|通信手段の確保に努めよ。
+CAPTION_INTRO_LANDING_PAGE_03	異論はないな、レディー。
+CAPTION_DATAUPLOAD_01	データアップロード中
+DIAG_ADAM_CAVE_1_PAGE_1	サムス、通信施設にアクセスできたようだな。|たった今アップロードされた、|君の{c1}バイタルデータおよびビデオデータ{c0}を確認した。
+DIAG_ADAM_CAVE_1_PAGE_2	データから、|君の身に起きたことはある程度把握できたが、意識を失った理由は不明だ。|とてつもなく大きな変化が君に起きたことはバイタルデータに記録されている。
+DIAG_ADAM_CAVE_1_PAGE_3	その負荷に耐えかねて気を失った際に、君はアビリティのほとんどを失っている。|いわば能力の記憶喪失だ。
+DIAG_ADAM_CAVE_1_PAGE_4	君を襲った者については連邦のデータベースに照会中だ。|ビデオを見る限り{c1}鳥人族の一種{c0}だと推測されるが、|現段階では特定に至ってはいない。
+DIAG_ADAM_CAVE_1_PAGE_5	この状況では地表のスターシップへの帰還を最優先とすべきだが、|君の現在位置は{c1}ZDRの深部{c0}であることしか把握できていない。|心許ない状況ではあるが、自らの判断をもって{c1}地上を目指す{c0}しかない。
+DIAG_ADAM_CAVE_1_PAGE_5_B	この惑星内は複数のエリアにわかれており、シャトルやエレベーター等の|設備によって繋がっているようだ。地表に近づくためにも|当面はこれらの{c1}移動用設備を目的地として{c0}進んでいくのが良いだろう。
+DIAG_ADAM_CAVE_1_PAGE_6	なお、スターシップの位置は{c1}グローバルマップ{c0}にマーキング済みだ。|確認せよ。
+DIAG_ADAM_CAVE_1_PAGE_6_B	移動に際しての忠告がある。|メトロイドDNAを体内に持つ君は、メトロイドと同様に低温に極めて弱く|今の状態では、{c1}低温環境においてダメージを受け続ける{c0}ことになる。
+DIAG_ADAM_CAVE_1_PAGE_6_C	この地下施設内には、低温環境のエリアが散見される。|{c1}ノーマルスーツ状態のままで{c0}低温地帯に足を踏み入れることが無いよう|くれぐれも注意せよ。
+DIAG_ADAM_CAVE_1_PAGE_7	地下施設内では妨害電波のせいで{c1}無線通信が使えない{c0}ようだ。|通信施設を見つけた際には必ずアクセスせよ。
+DIAG_ADAM_CAVE_2_PAGE_1	ここまでに遭遇した E.M.M.I. は、二体とも明らかに君を捕獲対象としていた。|なんらかのハッキングが行われてシステムが書き換えられているのだとすれば、|{c1}全ての E.M.M.I. が同様{c0}であると考えるのが妥当だろう。
+DIAG_ADAM_CAVE_2_PAGE_2	E.M.M.I. は{c1}特殊なパルス{c0}を発することで検知範囲内の空気の振動、|つまり{c1}音を感知する{c0}。
+DIAG_ADAM_CAVE_2_PAGE_2_B	音を感知した E.M.M.I. は {c1}警戒モードへと切り替わり検知地点まで移動してくる{c0}ため、|君が E.M.M.I. の{c1}視界に捉えられる{c0}危険性が一気に跳ね上がるのだ。
+DIAG_ADAM_CAVE_2_PAGE_3	視認されてしまうと E.M.M.I. に{c1}ターゲットとして認識され、追跡が始まる{c0}。|追跡モードの間は E.M.M.I. の行動区域{c1}「E.M.M.I. ゾーン」のゲートは閉鎖される{c0}。
+DIAG_ADAM_CAVE_2_PAGE_3_B	この極めて危険な状況に陥った場合は、全力で振り切れ。|E.M.M.I. を撒いて追跡モードが解除されれば、ゲートは再び開放される。
+DIAG_ADAM_CAVE_2_PAGE_3_C	E.M.M.I. は、E.M.M.I. ゾーンを出ることは決して無い。|奴をコントロールするシステムの影響が、ゾーン内に限られているのだろう。
+DIAG_ADAM_CAVE_2_PAGE_4	もし E.M.M.I. に捕獲されてしまった場合、君は{c1}99%以上の高確率で即死{c0}する。
+DIAG_ADAM_CAVE_2_PAGE_5	脱出できるチャンスは0%ではないが、{c1}成功することは不可能{c0}に近い。
+DIAG_ADAM_CAVE_2_PAGE_5_B	現状において E.M.M.I. は完全に無敵だ。|一体目を破壊した、{c1}あの特殊なエネルギー{c0}が無い以上、|E.M.M.I. との接触の回避に集中し、出口を目指すしかない。
+DIAG_ADAM_CAVE_2_PAGE_6	E.M.M.I. ゾーン内では、生存を最優先と考えて行動せよ。
+DIAG_ADAM_CAVE_3_PAGE_1	銀河連邦のアーカイブには、君を襲った者の詳細なデータは存在しなかった。|しかし、鳥人族から派生した{c1}武闘型の民族{c0}の存在を示す記録が残っていた。|何らかの関係性はあるとみていいだろう。
+DIAG_ADAM_CAVE_3_PAGE_2	鳥人族のそれと類似する建造物等が存在するこの惑星は彼らの母星と思われる。|目的は不明だが、ここに君は誘導され捕獲対象として E.M.M.I. に追われている。|Xの映像は君をおびき寄せるための罠なのかもしれない。
+DIAG_ADAM_CAVE_3_PAGE_3	不可解なことばかりだが、君はシップへの帰還を最優先として行動せよ。
+DIAG_ADAM_CAVE_3_PAGE_4	先ほどのマグマ供給装置を稼働させたことで、|閉じられていたゲートに動力が戻っている。|{c1}その先へと進むことが正しい選択{c0}だ。
+DIAG_ADAM_CAVE_3_PAGE_5	そして、あの{c1}特殊なエネルギーの取得{c0}を試みよ。|君が E.M.M.I. に対抗しうる唯一の手段だ。|ただし…
+DIAG_ADAM_CAVE_3_PAGE_6	既に理解していると思うが、どうやら一体目を撃破したあのエネルギーは|一時的なもので、E.M.M.I. を撃破すると消滅してしまうようだ。
+DIAG_ADAM_CAVE_3_PAGE_7	決定的な対抗手段を持たない君を、{c1}六体の E.M.M.I.{c0} が狙っている。|この事実を肝に銘じておきたまえ。
+DIAG_ADAM_MAGMA_1_PAGE_1	この星では、惑星内部のマグマを各地に供給および循環させることで|エネルギーを生み出し、動力としているようだ。
+DIAG_ADAM_MAGMA_1_PAGE_2	マグマの供給を管理する中央システムが|この{c1}カタリス{c0}に存在することを確認した。
+DIAG_ADAM_MAGMA_1_PAGE_3	今の君のスーツでは、{c1}このエリア内の高温環境やマグマからのダメージは防げない{c0}。|それらの場所には決して足を踏み入れることなく探索せよ。
+DIAG_ADAM_MAGMA_1_PAGE_4	また、最上部には{c1}別エリアへと繋がるシャトル{c0}があるようだ。|ひとまずはそこを目指せ。
+DIAG_ADAM_MAGMA_1_PAGE_5	そして、先ほど手に入れた{c1}ファントムクローク{c0}についてだ。
+DIAG_ADAM_MAGMA_1_PAGE_5_B	ファントムクロークを発動中は、{c1}E.M.M.I. に検知されたり視認されることはない{c0}。|これまでは逃げるしかなかった君だが、E.M.M.I. を回避しながら進むべき方向を|目指すことができるはずだ。
+DIAG_ADAM_MAGMA_1_PAGE_6	ただしファントムクローク発動中、君の{c1}運動能力は著しく低下する{c0}。|そして発動中であっても、{c1}E.M.M.I. に触れば捕獲される{c0}ことに変わりはない。|身をひそめる場合は、{c1}ポイントや体勢{c0}に注意せよ。
+DIAG_ADAM_MAGMA_1_PAGE_6_B	視認され{c1}ターゲット認識されてしまえばファントムクロークは役に立たない{c0}。|追跡モードが解除されるまで逃げるしかなくなることを覚えておけ。
+DIAG_ADAM_MAGMA_1_PAGE_7	エイオンの限界を超えれば、{c1}自らのライフエネルギーを消費していく{c0}|諸刃の剣だが、そのまま使い続けて{c1}体力を使い切ってしまうことは無い{c0}。|機能を熟知したうえで正しく活用すれば、生存の可能性は飛躍的に向上する。
+DIAG_ADAM_MAGMA_2_PAGE_1	E.M.M.I. は、プログラムの変更により機能変更・強化が可能だ。
+DIAG_ADAM_MAGMA_2_PAGE_2	形態を変形させ狭い通路にも侵入できるタイプが、惑星外多形態機動調査機…|通称 E.M.M.I. のスタンダードモデルだ。今後遭遇するそれぞれの E.M.M.I. は、|カタログスペックをフルに駆使し、確実に君を追い詰めるだろう。
+DIAG_ADAM_MAGMA_2_PAGE_3	だが特殊な素材でできている E.M.M.I. を破壊する術を君は持ち合わせてはいない。|君が{c1}本来のアビリティを全て取り戻したとしても、この事実は変わらない{c0}のだ。
+DIAG_ADAM_MAGMA_2_PAGE_4	圧倒的な力の前では、君とて無力な存在に過ぎないことを自覚せよ。
+DIAG_ADAM_MAGMA_2_PAGE_6	それぞれの E.M.M.I の特性を正確に見極め、ファントムクロークを駆使して前進せよ。|運動能力の低下に留まらず、{c1}移動、射撃などの際に著しくエイオンを消費{c0}してしまう|リスキーな能力だが、生存のために躊躇なく活用し先を目指せ。
+DIAG_ADAM_MAGMA_2_PAGE_8	既に本来のミッションを逸脱した行動になっているがやむを得まい。|あの特殊なエネルギーを得た場合は躊躇なく E.M.M.I. を破壊せよ。|君にとってのリスキーな存在は許すべきではない。
+DIAG_ADAM_LAB_1_PAGE_1	ここ{c1}ダイロン{c0}は生体研究所のようだ。|既に一か所は復旧したが、エリアの上部にまだ通電していないセクションがある。|発電機を稼働させることで電力供給ができるだろう。
+DIAG_ADAM_LAB_1_PAGE_2	アビリティも少しづつ取り戻しつつあるようだが、油断するな。|君の身に起きた謎の現象についても未だ解析できていないでいる。|生存は必達の目的であることを認識して進め。
+DIAG_ADAM_AQUA_1_PAGE_1	{c1}バルエニア{c0}の下層はほぼ水没している。|言うまでもなくグラビティスーツを持たない今の君では|このエリアで満足に行動することなど不可能だ。
+DIAG_ADAM_AQUA_1_PAGE_2	グラップリングビームや、スペースジャンプなどは|{c1}水中での行動の補助に有効なアビリティ{c0}だ。早期の入手に努めよ。
+CAPTION_PROFESSOREVENT_PAGE_01	私は クワイエットローブ。ソウハ族の科学者です。
+CAPTION_PROFESSOREVENT_PAGE_02	そして、貴方を襲った鳥人族の男の名はレイヴンビーク。
+CAPTION_PROFESSOREVENT_PAGE_03	卓越した頭脳と身体能力を持つ彼は、武闘民族 マオキン族 の長です。
+CAPTION_PROFESSOREVENT_PAGE_04	我々は同じ鳥人族であるマオキンと共に、SR388で暴走したメトロイドを封じ込めました。
+CAPTION_PROFESSOREVENT_PAGE_05	より危険な生物となってしまったメトロイドは、惑星ごと破壊されるはずでした。
+CAPTION_PROFESSOREVENT_PAGE_05_B	ところが…
+CAPTION_PROFESSOREVENT_PAGE_06	レイヴンビークは…　強硬な手段でそれを阻止しました。
+CAPTION_PROFESSOREVENT_PAGE_07	『力』を妄信する彼の眼にメトロイドは…
+CAPTION_PROFESSOREVENT_PAGE_08	自らが銀河を統べる力の象徴として映ったのでしょう。
+CAPTION_PROFESSOREVENT_PAGE_09	レイヴンビークはZDRにメトロイドを回収し、生物兵器として利用するつもりでした。
+CAPTION_PROFESSOREVENT_PAGE_10	その計画にはメトロイドをコントロール可能なソウハ族が必要だったため
+CAPTION_PROFESSOREVENT_PAGE_11	私だけが生かされたのです。
+CAPTION_PROFESSOREVENT_PAGE_11_B	レイヴンビークとマオキン族は、私を連れて母星であるZDRに一旦戻り、|メトロイドを回収するための準備を進めるつもりでした。
+CAPTION_PROFESSOREVENT_PAGE_12	ところが予期せぬトラブルが生じ、計画の中断が余儀なくされました。
+CAPTION_PROFESSOREVENT_PAGE_13	SR388から帰還した兵士の一人が擬態したXだったのです。
+CAPTION_PROFESSOREVENT_PAGE_14	ZDRは大混乱に陥り、兵士たちは全てXに寄生されてしまいましたが、
+CAPTION_PROFESSOREVENT_PAGE_15	レイヴンビークは辛くも彼らを封じ込めることに成功しました。
+CAPTION_PROFESSOREVENT_PAGE_16	その後彼は計画を再開しようとしましたが…
+CAPTION_PROFESSOREVENT_PAGE_17	SR388のメトロイドは、貴方によって駆逐されてしまったのです。
+CAPTION_PROFESSOREVENT_PAGE_18	いくつかの事件を経てメトロイドは絶滅し…
+CAPTION_PROFESSOREVENT_PAGE_19	レイヴンビークの野望は完全に潰えたはずでした。
+CAPTION_PROFESSOREVENT_PAGE_20	そう… 貴方さえいなければ。
+CAPTION_PROFESSOREVENT_PAGE_21	E.M.M.I. たちはレイヴンビークに利用されているのです。|サムス・アラン、貴方の…
+CAPTION_PROFESSOREVENT_PAGE_22	貴方の体内に在る「メトロイドDNA」を採取するために。
+CAPTION_PROFESSOREVENT_PAGE_23	問題無い…
+CAPTION_PROFESSOREVENT_PAGE_24	私がすべてを終わらせる。
+CAPTION_PROFESSOREVENT_PAGE_25	貴方が向かうべき場所のゲートはアンロックしました。
+CAPTION_PROFESSOREVENT_PAGE_26	あとは頼みましたよ、サムス。
+CAPTION_PROFESSOREVENT_PH_PAGE_01	プロフェッサーイベント
+CAPTION_PROFESSOREVENT_PH_PAGE_02	サムス、壁画を発見。鳥人族の兵士が他の鳥人族を殺しているシーン。
+CAPTION_PROFESSOREVENT_PH_PAGE_03	兵士たちのリーダーは、サムスが冒頭であった鳥人族に似ている。
+CAPTION_PROFESSOREVENT_PH_PAGE_04	突然撃たれるサムス。身体がマヒしてしまう。
+CAPTION_PROFESSOREVENT_PH_PAGE_05	E.M.M.I. が壁画を破壊しながら登場。サムスはつかまる。
+CAPTION_PROFESSOREVENT_PH_PAGE_06	やられる瞬間、E.M.M.I. の動きが止まる。鳥人族が現れる。
+CAPTION_PROFESSOREVENT_PH_PAGE_07	鳥人族はクワイエットローブと自己紹介。
+CAPTION_PROFESSOREVENT_PH_PAGE_08	サムスが戦った鳥人族の男はレイヴンビークで、戦士鳥人族の長と説明。
+CAPTION_PROFESSOREVENT_PH_PAGE_09	レイヴンビークはサムスのメトロイドDNAの力で銀河を支配しようとしている。E.M.M.I. をハッキングして利用している。
+CAPTION_PROFESSOREVENT_PH_PAGE_10	クワイエットローブは、ブレニア上部の扉を開けたことをサムスに伝える。
+CAPTION_PROFESSOREVENT_PH_PAGE_11	鳥人兵士のロボットが突如現れ、クワイエットローブを殺害する。
+DIAG_ADAM_LAB_2_PAGE_1	あのソウハ族の男の話により、E.M.M.I. が君を捕獲しようとする理由は明確になった。|サムス・アランの体内だけに存在するメトロイドDNAを手に入れようとしている|{c1}レイヴンビーク{c0}によって、君はおびき寄せられてしまったのだ。
+DIAG_ADAM_LAB_2_PAGE_2	{c1}クワイエットローブ{c0}の操作によって{c1}惑星中の E.M.M.I. が|現在停止状態{c0}であることを確認済みだ。|今であれば E.M.M.I. の脅威にさらされることなく地表を目指すことができるだろう。
+DIAG_ADAM_LAB_2_PAGE_3	クワイエットローブが開いた{c1}バルエニアのポイント{c0}へと向かい、その先へと進め。
+DIAG_ADAM_FOREST_1_PAGE_1	サムス、かなり地表に近づいてきたな。|ここ{c1}ガヴォラン{c0}は地下森林地帯のようだ。
+DIAG_ADAM_FOREST_1_PAGE_2	E.M.M.I. が停止状態とは言え、レイヴンビークが|メトロイドDNAを持った君を狙っていることには変わりはない。|惑星到着時の、君とレイヴンビークとの戦闘の映像を見る限り…
+DIAG_ADAM_FOREST_1_PAGE_3	奴と君との力の差は歴然だ。戦闘能力は戻りつつあるが、|たとえフルスペックまで回復しても君に勝ち目が無いことはデータが証明している。
+DIAG_ADAM_FOREST_1_PAGE_4	不可解なことが一つある。|レイヴンビークがなぜあの時君を殺害もしくは確保をしなかったかだ。|そこにレイヴンビークに対抗しうる何かがあると考えられる。
+CAPTION_QUARANTINE_PAGE_01	スキャン完了。
+CAPTION_PROFESSORX_PAGE_01	あとは頼みましたよ。
+DIAG_ADAM_FOREST_2_PAGE_1	サムス、最悪の事態だ。
+DIAG_ADAM_FOREST_2_PAGE_2	封印されていたエリアから、Xが惑星中に解き放たれてしまった。|これはレイヴンビークの仕業とみて間違いないだろう。
+DIAG_ADAM_FOREST_2_PAGE_3	しかしその目的は全く予想が付かない。|メトロイドDNAによる耐性を持ち、Xを吸収できる君に向けた、|レイヴンビークからの何らかのサインであるとも考えられる。
+DIAG_ADAM_FOREST_2_PAGE_4	いずれにせよ、|Xが実在し、蔓延してしまったこの惑星は最終的に消滅させる必要がある。|従ってサムス、君はスターシップへの帰還を急げ。
+DIAG_ADAM_FOREST_2_PAGE_5	君が無事にここまで到達できることを信じている。
+DIAG_ADAM_SANC_1_PAGE_1	この{c1}フェーレニア{c0}はかつて鳥人族達が儀式などを行っていた聖域のようだが、|今では完全に廃墟となっている。
+DIAG_ADAM_SANC_1_PAGE_2	クワイエットローブが話していた通り|以前Xがこの惑星に広まった際の混沌の中で崩壊したのだろう。
+DIAG_ADAM_SANC_1_PAGE_3	このエリアは既にXの巣だ。|また、他よりも強力なX個体の反応も検知されている。
+DIAG_ADAM_SANC_1_PAGE_4	以前このエリアで君を襲った E.M.M.I. の{c1}視界が物質を貫通{c0}し、|さらに{c1}ターゲットを麻痺させる電気的なトラップ{c0}を発射することは知っての通りだ。|そして今…
+DIAG_ADAM_SANC_1_PAGE_4_B	E.M.M.I. の再起動を確認した。|レイヴンビークにもそれが可能だと考えるのが妥当だろう。|ファントムクロークを正しく駆使すれば、過剰に恐れる必要は無いはずだ。
+DIAG_ADAM_SANC_1_PAGE_5	サムス、細心の注意を払え。
+DIAG_ADAM_AQUA_2_PAGE_1	Xは完全に惑星中に広がり、もはや全ての生物はXと考えていいだろう。
+DIAG_ADAM_AQUA_2_PAGE_2	また、既に気付いているかもしれないが、{c1}ZDRの気温が低下{c0}し始めている。
+DIAG_ADAM_AQUA_2_PAGE_3	Xの蔓延との因果関係は不明だが、この惑星が低温化傾向にあるのは間違いない。|グラビティスーツを装着した君は、{c1}低温からダメージを受けることは無い{c0}が、|不測の事態に備えて注意深く進め。
+DIAG_ADAM_CAVE_4_PAGE_1	この異常な寒冷化現象の原因が判明した。|惑星の各エリアに{c1}カタリス{c0}からエネルギーが行きわたっていないのだ。
+DIAG_ADAM_CAVE_4_PAGE_2	特にこの{c1}アルタリア{c0}は惑星最深部ということもあり{c1}いたるところが凍結{c0}している。|凍結したゲートや水を元に戻すためにも、至急状況の解決が必要だ。
+DIAG_ADAM_CAVE_4_PAGE_3	{c1}カタリス{c0}のマグマエネルギーの中央管理システム自体は稼働しているので、|これは恐らく巨大な力で物理的に装置が止められているのだろう。|高い確率で強力なXとの戦闘が予想される。確実に仕留めろ。
+DIAG_ADAM_CAVE_4_PAGE_4	そして問題解決後、一度ここに戻って来たまえ。|このエリアに、寒冷化現象のせいで取得できなかった、|{c1}重要なアビリティがあるはず{c0}だ。
+DIAG_ADAM_AQUA_3_PAGE_1	サムス、よくやった。|寒冷化現象を止めただけではなく、遂にスクリューアタックまで入手したな。|これまで通れなかった場所も地形を破壊して進むことができるだろう。
+DIAG_ADAM_AQUA_3_PAGE_2	君の戦闘能力は、本ミッション開始時を凌駕している。|だが、レイヴンビークに立ち向かえるまでには至っていないと考えられる。|今奴と戦うことになれば、君が勝利する可能性は極めて低い。
+DIAG_ADAM_SHIP_1_PAGE_1	この{c1}ハヌビア{c0}は惑星表面にある。|ついにここまで上がってきたな。
+DIAG_ADAM_SHIP_1_PAGE_2	しかし問題がある。|Xもろとも、レイヴンビークをこの惑星ごと葬り去れるとは考えにくい。|危険を察知すれば、奴は当然脱出を試みる。
+DIAG_ADAM_SHIP_1_PAGE_3	レイヴンビークは、銀河の平和を脅かす存在になると考えるべきだ。|そして奴は、メトロイドDNAをあきらめることはないはずだ。|極めて分は悪いが、ここで決着を付けるべきなのかもしれない。
+DIAG_ADAM_SHIP_1_PAGE_4	奴の居場所は調査しておく。|{c1}後ほどここに立ち寄り{c0}たまえ。
+DIAG_ADAM_SHIP_2_PAGE_1	サムス、君のその新たに発現した力…|対象からすさまじい速度でエネルギーを吸収するその特性は|疑いようもなくメトロイドのものだ。
+DIAG_ADAM_SHIP_2_PAGE_2	君の体内のメトロイドDNAが|これまでの長い戦いの中で活性化され、|完全に目覚めたのだろう。
+DIAG_ADAM_SHIP_2_PAGE_3	この圧倒的なパワーを持った君であれば、レイヴンビークと渡り合えるはずだ。
+DIAG_ADAM_SHIP_2_PAGE_4	この{c1}ハヌビア{c0}の遥か上空に{c1}浮遊要塞{c0}を発見した。|レイヴンビークは必ずそこにいる。
+DIAG_ADAM_SHIP_2_PAGE_5	サムス、時は満ちた。 |自らの使命を果たすのだ。
+DIAG_ADAM_FINAL_PAGE_01	メトロイドのDNAを持つ君の体質は、{c1}メトロイドそのものに変化{c0}したようだ。|本来であれば、DNA移植後すぐに表れるべき変化であるはずだが…
+DIAG_ADAM_FINAL_PAGE_02	君が有する{c1}ソウハ族の遺伝子が抑制{c0}してきた結果だろう。|彼らはメトロイドを制御できる唯一の民族だ。
+DIAG_ADAM_FINAL_PAGE_03	DNAを持つとは言え君はソウハ族そのものではない。|身体能力を鑑みるに、君は{c1}マオキン族のDNA{c0}も譲り受けているだろう。
+DIAG_ADAM_FINAL_PAGE_04	メトロイドはマオキン族を敵とみなすようにプログラムされているようだ。|従って…
+DIAG_ADAM_FINAL_PAGE_05	君の最初のメトロイド化がレイヴンビークに襲われたときに起きた理由は、|メトロイドの闘争本能の覚醒である可能性が高い。
+DIAG_ADAM_FINAL_PAGE_06	その後君のメトロイド化は加速的に進行し、|{c1}ついに制御しきれなくなった{c0}のが今の状態だ。
+DIAG_ADAM_FINAL_PAGE_07	メトロイドそのものとなってしまったサムス・アランは、|あろうことか銀河社会にとって極めて危険な存在になってしまったのだ。
+DIAG_ADAM_FINAL_PAGE_08	しかし嘆く必要は無い。|生まれ変わった君にはその能力を正しく活かし、銀河社会に貢献できる方法がある。
+DIAG_ADAM_FINAL_PAGE_09	ここまで到達できたように、今後も私の指示に忠実に従って行動すればいい…|それだけのことだ。
+DIAG_ADAM_FINAL_PAGE_10	ZDRでの君の活躍ぶりに、私は非常に満足している。|しかもメトロイドの能力までをも覚醒させたとは…
+DIAG_ADAM_FINAL_PAGE_11	あの時、その片鱗を垣間見せた君を、|あえて生かしておいた私の判断に狂いは無かった…
+DIAG_ADAM_FINAL_PAGE_12	直ちに私に服従し、その類まれなる能力を提供せよ。|私の計画だけが、銀河社会の秩序維持を可能にするのだ。
+DIAG_ADAM_FINAL_PAGE_13	サムスよ、自らの使命を果たすのだ。これは命令だ。異論は認められない。
+DIAG_ADAM_FINAL_PAGE_14	お前には失望した。
+DIAG_ADAM_FINAL_PAGE_15	我が娘よ。
+DIAG_ADAM_FINAL_PH_PAGE_01	最終フェイクアダムイベント
+DIAG_ADAM_FINAL_PH_PAGE_02	リフトはサムスをアクセスルームにつれていく。
+DIAG_ADAM_FINAL_PH_PAGE_03	アダムは、サムスのメトロイドDNAが完全に覚醒し、サムスは本質的にメトロイドとなったこと、銀河の脅威になってしまったことを告げる。
+DIAG_ADAM_FINAL_PH_PAGE_04	アダムは、その力をレイヴンビークのために使うよう命令する。
+DIAG_ADAM_FINAL_PH_PAGE_05	サムス、アクセスルームのモニターを破壊する。|ミッション冒頭に意識を失ってからこれまで話してきたアダムは本物ではなく、レイヴンビークだったのだ。
+DIAG_ADAM_FINAL_PH_PAGE_06	アクセスルームはホログラムだった。消滅し、レイヴンビークが現れる。
+DIAG_ADAM_FINAL_PH_PAGE_07	戦闘が始まる
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_01	この私を倒せるとでも思っていたのか。思いあがるな…
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_02	もはや貴様は用済みだ。今やメトロイドDNAすら必要無い。|なぜなら…
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_03	私は、最強のメトロイドであるサムス・アランのクローンを手中にできるのだから。
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_04	私に歯向かう者の存在は許さない。それが誰であれだ。
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_05	愚かな我が娘よ。銀河の未来は私に託し、安らかに眠るがよい…
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_06	力こそが全てだ…
+CAPTION_COMMANDERX_PAGE_01	サァァムゥゥゥゥス……
+CAPTION_COMMANDERX_PAGE_02	力こそが全てだ…
+CAPTION_COMMANDERX_PAGE_03	犠牲なき力など無い…
+CAPTION_ENDGAME_PAGE_1	触れるな。
+CAPTION_ENDGAME_PAGE_2	シップのエネルギーが全て吸収されてしまう。

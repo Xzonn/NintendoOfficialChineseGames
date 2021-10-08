@@ -1,0 +1,824 @@
+us_english.txt
+CREDIT_A_SUBTITLE_COMPANY_NAME_1	© Nintendo|Nintendo and Mercury Steam Entertainment are the authors of this software for the purpose of copyright. All rights reserved.|Nintendo et Mercury Steam Entertainment sont les auteurs de ce logiciel au regard du droit d'auteur. Tous droits réservés.
+ERROR_CODE_2115-0080	Please turn airplane mode/flight mode off when appropriate for your surroundings.|You can do this in Quick Settings (hold ᠏).
+ERROR_CODE_2115-0128	An error has occurred.||Please try again.
+ERROR_CODE_2115-0144	The amiibo data is corrupted.||Please try to restore the data using the Nintendo device that last accessed this amiibo, or reset the amiibo by going to ᠏ (System Settings) > amiibo on the HOME Menu.
+ERROR_CODE_2115-0160	An error has occurred.||Please try again.
+ERROR_CODE_2115-0168	An error has occurred.||Please try again.
+ERROR_CODE_2115-0176	This is not an amiibo.
+ERROR_CODE_2115-0177	This is not an amiibo.
+ERROR_CODE_2115-0178	This is not an amiibo.
+ERROR_CODE_2115-0179	This is not an amiibo.
+ERROR_CODE_2115-0180	This is not an amiibo.
+ERROR_CODE_2115-0181	This is not an amiibo.
+ERROR_CODE_2115-0182	This is not an amiibo.
+ERROR_CODE_2115-0183	This is not an amiibo.
+ERROR_CODE_2115-0184	This amiibo is not supported.
+ERROR_CODE_2115-0192	An error has occurred.||Please try again.
+ERROR_CODE_2115-0200	An error has occurred.||Please try again.
+ERROR_CODE_2115-0064	Please connect a controller that can read amiibo. If you are using a Nintendo Switch Pro Controller with wired communication, unplug the USB charging cable and try again.
+APP_GAMEMODE_HARD	HARD MODE
+APP_GAMEMODE_NORMAL	NORMAL MODE
+GUI_AMIIBO_FTUE	Scan Metroid-related amiibo™ to give Samus extra resources or to replenish a random amount of energy or Missiles. You can scan each amiibo once per day to replenish these resources.
+GUI_AMIIBO_HEADER	SCAN amiibo
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ALREADY_USED	This amiibo figure has already been scanned today.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_PLUS_TANK	Extra Missile+ Tank acquired.|Missile capacity increased by 10.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_PLUS_TANK	Extra Energy Tank acquired.|Energy capacity increased by 100.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_1	Replenished 15 Missiles.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_2	Replenished 30 Missiles.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_3	Replenished 60 Missiles.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_1	Replenished 50 energy.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_2	Replenished 100 energy.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_3	Replenished 200 energy.
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_AMMO_FILLED	Ammo at maximum capacity.|This amiibo will have no effect.
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_ENERGY_FILLED	Energy at maximum capacity.|This amiibo will have no effect.
+GUI_AMIIBO_STATE_EFFECTS_APPLY_NOEFFECT	This amiibo is not supported in this game.
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_DAMAGE	Cannot use amiibo while taking damage.
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_HYPERSUIT	Cannot use amiibo with Metroid Suit active.
+GUI_AMIIBO_STATE_ERROR_READ	Error: There was a problem reading amiibo data.
+GUI_AMIIBO_STATE_OK_CZDR_EMMY	amiibo figure read successfully:|Metroid series: E.M.M.I.
+GUI_AMIIBO_STATE_OK_CZDR_SAMUS	amiibo figure read successfully:|Metroid series: Samus
+GUI_AMIIBO_STATE_OK_SR_METROID	amiibo figure read successfully:|Metroid series: Metroid
+GUI_AMIIBO_STATE_OK_SR_SAMUS	amiibo figure read successfully:|Metroid series: Samus Aran
+GUI_AMIIBO_STATE_OK_SSB_DARKSAMUS	amiibo figure read successfully:|Super Smash Bros. series: Dark Samus
+GUI_AMIIBO_STATE_OK_SSB_RIDLEY	amiibo figure read successfully:|Super Smash Bros. series: Ridley
+GUI_AMIIBO_STATE_OK_SSB_SAMUS	amiibo figure read successfully:|Super Smash Bros. series: Samus
+GUI_AMIIBO_STATE_OK_SSB_ZSSAMUS	amiibo figure read successfully:|Super Smash Bros. series: Zero Suit Samus
+GUI_AMIIBO_STATE_READING	Reading data...
+GUI_AMIIBO_STATE_WAIT	Touch the amiibo to the NFC touchpoint.
+GUI_A_ACCEPT	᠀ ACCEPT
+GUI_A_ACCEPT_DEATH	᠀ CONTINUE
+GUI_B_BACK	᠁ CANCEL
+GUI_B_BACK_DEATH	᠁ QUIT
+GUI_B_CONFIRM	᠁ CONFIRM
+GUI_CONTROLS_LABEL_B	᠁ Jump
+GUI_CONTROLS_LABEL_L	Free Aim ᠄
+GUI_CONTROLS_LABEL_LEFT	Expand|Minimap ᠓
+GUI_CONTROLS_LABEL_LS	Move ᠝
+GUI_CONTROLS_LABEL_MINUS	Options ᠊
+GUI_CONTROLS_LABEL_PLUS	᠌ Map
+GUI_CONTROLS_LABEL_R	᠅ Missile Mode
+GUI_CONTROLS_LABEL_X	᠂ Melee Counter
+GUI_CONTROLS_LABEL_X_2	(While running:|Dash Melee)
+GUI_CONTROLS_LABEL_Y	᠃ Shoot
+GUI_CONTROLS_LABEL_ZL	Slide ᠆
+GUI_DEATH_TITLE_CONTINUE	CONTINUE
+GUI_DEATH_TITLE_GAMEOVER	GAME OVER
+GUI_DEATH_TITLE_GAMEOVER_COUNTDOWN	ESCAPE FAILED
+GUI_DEATH_TITLE_QUIT	RETURN TO MAIN MENU
+GUI_DIFSELECTOR_GAMEMODE_HARD_LOCKED	{Sprites:LOCKED } HARD MODE
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_LOCKED	Complete Normal Mode to unlock.
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_UNLOCKED	A mode for expert players.
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_NORMAL	The standard difficulty setting.
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_1	FILE 1 - SELECT DIFFICULTY
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_2	FILE 2 - SELECT DIFFICULTY
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_3	FILE 3 - SELECT DIFFICULTY
+GUI_ENDING_CELEBRATION	See you next mission!
+GUI_ENDING_CLEAR_TIME	CLEAR TIME
+GUI_ENDING_MISSION_COMPLETE	MISSION COMPLETE
+GUI_FILEEXTRAS_CREDITS	CREDITS
+GUI_FILEEXTRAS_GALLERY	GALLERY
+GUI_FILEEXTRAS_GALLERY_TITLE	GALLERY
+GUI_FILEEXTRAS_MISSION_LOG	MISSION LOG
+GUI_FILEMENU_HEADER_1	FILE 1
+GUI_FILEMENU_HEADER_2	FILE 2
+GUI_FILEMENU_HEADER_3	FILE 3
+GUI_FILEMENU_LABEL_CONTINUE	CONTINUE
+GUI_FILEMENU_LABEL_EXTRAS	EXTRAS
+GUI_FILEMENU_LABEL_NEW	NEW GAME
+GUI_FILEMENU_PROMPT_NEWCHOZOMEMORIES	New content unlocked in Gallery.
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_1	Any existing game data in this slot will be overwritten when you start a new game.||Start a new game anyway?
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_2	Delete your game data and start a new game?
+GUI_FILEMENU_PROMPT_NEWGAME_HEADER	START NEW GAME
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_1	BEGIN IN SLOT 1 (EMPTY)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_2	BEGIN IN SLOT 2 (EMPTY)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_3	BEGIN IN SLOT 3 (EMPTY)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_1	BEGIN IN SLOT 1 (IN USE)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_2	BEGIN IN SLOT 2 (IN USE)
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_3	BEGIN IN SLOT 3 (IN USE)
+GUI_FILESELECT_LABEL_EMPTYSLOT	NO DATA
+GUI_FILESELECT_LABEL_ITEMS	ITEMS
+GUI_FILESELECT_LABEL_TITLE_FILESELECT	SAMUS FILES
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_1	COPY INTO SLOT 1 (EMPTY)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_2	COPY INTO SLOT 2 (EMPTY)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_3	COPY INTO SLOT 3 (EMPTY)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_1	COPY INTO SLOT 1 (IN USE)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_2	COPY INTO SLOT 2 (IN USE)
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_3	COPY INTO SLOT 3 (IN USE)
+GUI_FILESELECT_OPTIONS_LABEL_DELETE	DELETE DATA
+GUI_FILESELECT_OPTIONS_PROMPT_COPY_REPORT_OK	File successfully copied.
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_1	This will erase the data in File 1.||Are you sure?
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_2	This will erase the data in File 2.||Are you sure?
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_3	This will erase the data in File 3.||Are you sure?
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_REPORT_OK	Data successfully deleted.
+GUI_FILESELECT_OPTIONS_PROMPT_ERROR	UNEXPECTED ERROR
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_1	File 1 is already in use.||Overwrite it?
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_2	File 2 is already in use.||Overwrite it?
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_3	File 3 is already in use.||Overwrite it?
+GUI_FILESELECT_OPTIONS_PROMPT_SECOND_CONFIRM	Warning: Save data will be erased.||Proceed anyway?
+GUI_FILESELECT_OPTIONS_TITLE_FILE_1	FILE 1 - OPTIONS
+GUI_FILESELECT_OPTIONS_TITLE_FILE_2	FILE 2 - OPTIONS
+GUI_FILESELECT_OPTIONS_TITLE_FILE_3	FILE 3 - OPTIONS
+GUI_FILESELECT_PROMPT_HARDMODEUNLOCK	HARD MODE UNLOCKED
+GUI_GALLERY_BUTTON_HIDEUI	᠂ HIDE UI
+GUI_GALLERY_CATEGORY_ENDING	ENDING REWARDS
+GUI_GALLERY_CATEGORY_ITEM	CHOZO ARCHIVES
+GUI_CHOZOARCHIVES_TITLE	CHOZO ARCHIVES
+GUI_GAMMA_LABEL_DESCRIPTION	Adjust the brightness until the image on the left is barely visible.|The brightness can be adjusted at any time during the game.
+GUI_GAMMA_LABEL_DESCRIPTION_OPTIONS	Adjust the brightness until the image on the left is barely visible.
+GUI_GAMMA_LABEL_CONFIRM	Would you like to save these settings?|You can also adjust the gamma from the in-game Options.
+GUI_GAMMA_LABEL_CONFIRM_OPTIONS	Would you like to save these settings?
+GUI_GENERAL_LABEL_ACCEPT	᠀ ACCEPT 
+GUI_GENERAL_LABEL_BACK	᠁ BACK 
+GUI_GENERAL_LABEL_CANCEL	᠁ CANCEL 
+GUI_GENERAL_LABEL_CLOSE	᠌ CLOSE 
+GUI_GENERAL_LABEL_OFF	OFF
+GUI_GENERAL_LABEL_ON	ON
+GUI_GENERAL_LABEL_OPTIONS	OPTIONS
+GUI_GENERAL_LABEL_UNKNOWN	???
+GUI_LOG_EVENTS	᠆ Events
+GUI_LOG_TUTORIALS	Tutorials ᠇
+GUI_MAPMENU_CUSTOMMARKER_LABEL_HEADER	Remaining Markers
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVE	REMOVE
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVEALL	᠂ REMOVE ALL
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETE	Remove selected marker?
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETEALL	Remove all markers from the current area?
+GUI_MAPMENU_LABEL_BACK	᠁ BACK
+GUI_MAPMENU_LABEL_CHANGE_AREA	ᠯ CHANGE MAP
+GUI_MAPMENU_LABEL_CLOSE	᠁ CLOSE
+GUI_MAPMENU_LABEL_EMMIS_REMAINING	Remaining E.M.M.I.:
+GUI_MAPMENU_LABEL_FAST_MODE	ᠴ FAST CURSOR
+GUI_MAPMENU_LABEL_GLOBAL_MAP	᠂ GLOBAL MAP
+GUI_MAPMENU_LABEL_ICON_LIST	{Sprites:Y } ICON LIST
+GUI_MAPMENU_LABEL_ITEMS	Items:
+GUI_MAPMENU_LABEL_MOVE_MAP	ᠯ MOVE CURSOR
+GUI_MAPMENU_LABEL_PLACE_MARKER	᠀ PLACE MARKER
+GUI_MAPMENU_LABEL_REMOVE_MARKER	᠀ REMOVE MARKER
+GUI_MAPMENU_LABEL_RECENTER_SAMUS	ᠰ RESET POSITION
+GUI_MAPMENU_LABEL_SELECT_AREA	᠀ SELECT AREA
+GUI_MAPMENU_LABEL_ZOOM_IN_OUT	ᠷᠸ ZOOM OUT/IN
+GUI_MAPMENU_LABEL_NAVIGATION	MAP CONTROLS ᠐
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS	᠃ HIGHLIGHT ICONS
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS_DESELECT	᠃ DESELECT
+GUI_MAPMENU_LABEL_NAVIGATION_CLOSE	MAP CONTROLS ᠕
+GUI_MAPMENU_LABEL_SELECT_TELEPORT	SELECT DESTINATION
+GUI_MAPMENU_NOTIFY_FREE_TELEPORT	All Teleportals on the map are now connected.
+GUI_MAPMENU_LABEL_CONFIRM_TELEPORT	᠀ CONFIRM DESTINATION
+GUI_MAPMENU_LABEL_CANCEL_TELEPORT	᠁ CANCEL
+GUI_MAPMENU_LABEL_NO_TELEPORT	NO DESTINATION AVAILABLE
+GUI_MAPMENU_TITLE	MAP
+GUI_MISSIONLOG_TITLE	MISSION LOG
+GUI_MSG_PRESS_START	Press ᠀
+GUI_OPTIONS_LABEL_AMIIBO	amiibo
+GUI_OPTIONS_LABEL_CONTROLS	CONTROLS
+GUI_OPTIONS_LABEL_CONTROLS_TITLE	CONTROLS
+GUI_OPTIONS_LABEL_GAMMA	ADJUST BRIGHTNESS
+GUI_OPTIONS_LABEL_GAMMA_TITLE	ADJUST BRIGHTNESS
+GUI_OPTIONS_LABEL_LOAD_LASTCP	LOAD LAST CHECKPOINT
+GUI_OPTIONS_LABEL_LOAD_LASTSAVE	LOAD LAST SAVE POINT
+GUI_OPTIONS_LABEL_QUIT	RETURN TO MAIN MENU
+GUI_OPTIONS_LABEL_RUMBLE_OFF	RUMBLE (OFF)
+GUI_OPTIONS_LABEL_RUMBLE_ON	RUMBLE (ON)
+GUI_OPTIONS_LABEL_SYSTEM	SYSTEM
+GUI_OPTIONS_LABEL_SYSTEM_TITLE	SYSTEM
+GUI_OPTIONS_PROMPT_LOAD_CHECKPOINT	Return to the last checkpoint.|You will lose all unsaved progress.||Return anyway?
+GUI_OPTIONS_PROMPT_LOAD_SAVEGAME	Return to the last time you saved.|You will lose all unsaved progress.||Return anyway?
+GUI_OPTIONS_PROMPT_QUIT	You will lose all unsaved progress.||Are you sure?
+GUI_PLUS_BUTTON	᠌
+GUI_PRESS_A	ᠩ
+GUI_A_BUTTON	᠀
+GUI_B_BUTTON	᠁
+GUI_L_BUTTON	᠄
+GUI_R_BUTTON	᠅
+GUI_LEFT_STICK	᠝
+GUI_R_STICK_PRESSED	ᠤ
+GUI_ARROW_UP	ᠹ
+GUI_ARROW_UP_BIG	ᡀ
+GUI_ARROW_DOWN	ᠩ
+GUI_ARROW_DOWN_BIG	ᡁ
+GUI_SAMUSMENU_DESCR_BOMB	A bomb that can be used while in Morph Ball form.||To set a bomb, press ᠃ while in Morph Ball form. ||Bombs can damage enemies, destroy {c1}Bomb Blocks{c0}, or {c1}expose hidden blocks{c0}. The blast will propel Samus into the air while in Morph Ball form.||Samus can also activate {c1}Morph Ball Launchers{c0} with a bomb blast.
+GUI_SAMUSMENU_DESCR_CHARGE_BEAM	Focuses beam energy to unleash a powerful shot.||Press and hold ᠃ to charge, and then release to fire.||Charged shots damage enemies immune to normal beam shots, such as {c1}robots and bosses{c0}. They can also open {c1}Charge Beam Doors{c0}. In addition, Samus can perform a Charge Attack by {c1}Spin Jumping when the beam is fully charged{c0}.
+GUI_SAMUSMENU_DESCR_DIFUSSION_CHARGE	Causes Charge Beam shots to explode on impact.||Press and hold ᠃ to charge, and then release to fire. The explosion {c1}penetrates through terrain{c0}.
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP	Allows Samus to {c1}jump once more{c0} during a Spin Jump.||Press ᠁ at the right time during a|Spin Jump.||When used underwater, Samus cannot gain more height over the first jump {c1}without the Gravity Suit{c0}.
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_GRAVITY	Allows Samus to {c1}jump once more{c0} during a Spin Jump.||Press ᠁ at the right time during a|Spin Jump.
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_VARIA	Allows Samus to {c1}jump once more{c0} during a Spin Jump.||Press ᠁ at the right time during a|Spin Jump.||When used underwater, Samus cannot gain more height over the first jump {c1}without the Gravity Suit{c0}.
+GUI_SAMUSMENU_DESCR_GHOST_DASH	A combat Aeion ability that allows Samus to {c1}instantly move{c0} forward or backward a set distance.||With full Aeion, hold ᠀ to {c1}prepare to Flash Shift{c0}. Next, tilt ᠝ forward or backward to move instantly in that direction. Alternately, press ᠀ while moving with ᠝. This ability can be {c1}used in midair{c0} as well.||Samus can perform up to {c1}two additional Flash Shifts{c0} by holding down ᠀ and tilting ᠝ forward or backward immediately after the first Flash Shift.||Using a Flash Shift will {c1}consume the full Aeion gauge{c0}. Additional Flash Shifts consume no further Aeion.
+GUI_SAMUSMENU_DESCR_GRAPPLE_BEAM	Fires a ropelike beam that can latch on to {c1}blue Grapple Points{c0}.||Hold ᠇ and press ᠃ to fire. After latching on, tilt ᠝ in the opposite direction to pull objects such as {c1}Grapple Beam Doors{c0}, {c1}Grapple Beam Blocks{c0}, and {c1}Grapple Beam Boxes{c0}.||When latched on to a {c1}Grapple Swing Point{c0}, Samus can swing back and forth. If Samus fires at a {c1}magnetic surface{c0}, she will be pulled quickly toward it.
+GUI_SAMUSMENU_DESCR_GRAVITY_SUIT	Greatly reduces damage taken from enemy attacks and insulates Samus from {c1}extreme cold{c0} and {c1}lava{c0}. It also allows Samus to {c1}move freely in water{c0}.||In addition, the Gravity Suit slightly increases the Dash Melee's damage.
+GUI_SAMUSMENU_DESCR_HYPER_BEAM	Samus unleashes her latent power, causing all Arm Cannon abilities to combine into a devastating beam {c1}capable of destroying anything in its path{c0}.||Press and hold ᠃ to continuously shoot.
+GUI_SAMUSMENU_DESCR_ICE_MISSILE	Missiles upgraded with the ability to {c1}freeze targets{c0}.||Hold ᠅ and press ᠃ to fire. Consumes Missile ammo. 
+GUI_SAMUSMENU_DESCR_LINE_BOMB	A powerful bomb whose blast extends in straight lines, {c1}horizontally and vertically{c0}.||While in Morph Ball form, hold ᠅ and press ᠃ to set.
+GUI_SAMUSMENU_DESCR_MISSILE	Samus's default subweapon. It fires a powerful Missile that can inflict damage on targets such as {c1}robots and bosses{c0}.||Hold ᠅ and press ᠃ to fire. Consumes Missile ammo.||Missile blasts can destroy {c1}Missile{c0} {c1}Blocks{c0} and {c1}Missile Covers{c0}. They can also {c1}expose hidden blocks{c0}.
+GUI_SAMUSMENU_DESCR_MORPHBALL	Allows Samus to curl into a ball and {c1}enter narrow spaces{c0}.||Press ᠆ or tilt ᠝ down when crouched to transform. While in Morph Ball form, press ᠁ to {c1}jump{c0}.||When standing next to a {c1}narrow tunnel near ground level{c0}, press ᠁ while moving toward the tunnel with ᠝ to automatically switch to Morph Ball form and enter. This also works {c1}while grabbing on to a ledge leading into a narrow tunnel{c0}.
+GUI_SAMUSMENU_DESCR_MULTI_LOCK-ON_MISSILE	Locks on to up to five targets and fires a barrage of guided micromissiles.||Hold ᠅ to begin charging the missiles. Once charged, a {c1}yellow laser sight{c0} will appear. Use this laser sight to designate {c1}up to five targets{c0}. After doing so, press ᠃ to fire a barrage of micromissiles. Consumes {c1}three units of Missile ammo{c0} per target.||Samus can use these to attack multiple lock-on points at once. They are also effective against enemies {c1}cloaked in electrical energy{c0}. In addition, they can trigger {c1}Storm Missile Boxes{c0}.
+GUI_SAMUSMENU_DESCR_OPTICAL_CAMO	An Aeion ability that {c1}renders Samus invisible to enemies{c0} by refracting light. She can also {c1}move silently{c0}, albeit at slower speed.||With full Aeion, press ᠴ to activate. Press ᠴ once again to deactivate.||{c1}Aeion will be slowly consumed{c0} while this ability is activated. Moving or firing weapons while activated will consume additional Aeion.||Once all Aeion has been depleted, the Phantom Cloak will {c1}consume energy{c0} instead. Should it deplete energy to 1, it will automatically deactivate.||After deactivation, Aeion will begin to recharge automatically once {c1}Samus makes any actions{c0}. The ability {c1}cannot be activated again until the Aeion is full{c0}.
+GUI_SAMUSMENU_DESCR_PLASMA_BEAM	Fires a powerful stream of plasma that can {c1}pierce through multiple enemies{c0} and damage {c1}robotic enemies{c0} without the need to charge.||Press ᠃ to fire.||It can also destroy {c1}Plasma Beam Covers{c0}.
+GUI_SAMUSMENU_DESCR_POWER_BEAM	Samus's default Arm Cannon beam.||Press ᠃ to fire, or press ᠃ rapidly to fire consecutive shots.
+GUI_SAMUSMENU_DESCR_POWER_BOMB	A devastatingly powerful bomb with a {c1}large blast radius{c0}.||While in Morph Ball form, hold ᠅ to charge, and then press ᠃ to set once fully charged. Setting a Power Bomb consumes Power Bomb ammo.||The explosion can also destroy {c1}Power Bomb Blocks{c0}.
+GUI_SAMUSMENU_DESCR_POWER_SUIT	Samus's default protective suit.
+GUI_SAMUSMENU_DESCR_SCREW_ATTACK	Surrounds Samus with powerful energy during a Spin Jump, allowing her to damage enemies {c1}upon impact{c0}.||It can destroy {c1}Screw Attack Blocks{c0} and is effective against enemies that are {c1}cloaked in electrical energy{c0}.
+GUI_SAMUSMENU_DESCR_SONAR	An Aeion ability that allows Samus to {c1}scan her surroundings{c0} for hidden blocks using a special sound wave.||With full Aeion, hold ᠒ to activate. {c1}Consumes the full Aeion gauge to use{c0}.
+GUI_SAMUSMENU_DESCR_SPACE_JUMP	Allows Samus to {c1}jump repeatedly{c0} during a Spin Jump.||Press ᠁ at the right time during a Spin Jump to jump again.||When used underwater, Samus cannot gain more height over the first jump {c1}without the Gravity Suit{c0}.
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_GRAVITY	Allows Samus to {c1}jump repeatedly{c0} during a Spin Jump.||Press ᠁ at the right time during a Spin Jump to jump again.
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_VARIA	Allows Samus to {c1}jump repeatedly{c0} during a Spin Jump.||Press ᠁ at the right time during a Spin Jump to jump again.||When used underwater, Samus cannot gain more height over the first jump {c1}without the Gravity Suit{c0}.
+GUI_SAMUSMENU_DESCR_SPEED_BOOSTER	Allows Samus to dash at supersonic speed after a short buildup.||Press ᠰ once while running to {c1}ready the Speed Booster{c0}. Continue running for a certain distance and the Speed Booster will activate. While active, any enemies in Samus's path will be damaged, and any {c1}Speed Booster Blocks{c0} will be destroyed.||In addition, while the Speed Booster is active, Samus can {c1}propel herself in a set direction{c0} using a Shinespark. Tilt ᠝ down while the Speed Booster is active to {c1}ready a Shinespark{c0}. Once readied, press ᠁ to activate it before tilting ᠝ in any direction to propel Samus in that direction.
+GUI_SAMUSMENU_DESCR_SPIDER_MAGNET	Allows Samus to attach to {c1}blue magnetic surface walls and ceilings using a magnetic field{c0}.||Tilt ᠝ in the direction of certain walls and ceilings to grab on.||Samus {c1}can move and attack{c0} while in this state. Hold up while attached to a ceiling to {c1}press against it{c0}.
+GUI_SAMUSMENU_DESCR_SUPER_MISSILE	A {c1}stronger version{c0} of the Missile.||Hold ᠅ and press ᠃ to fire. Consumes Missile ammo.||They can destroy {c1}Super Missile Covers{c0}.
+GUI_SAMUSMENU_DESCR_VARIA_SUIT	Reduces damage taken from enemy attacks and insulates Samus from {c1}extreme heat{c0}. However, it does not prevent damage from {c1}extreme cold{c0}|and {c1}lava{c0}.||In addition, the Varia Suit slightly increases the Dash Melee's damage.
+GUI_SAMUSMENU_DESCR_WAVE_BEAM	Fires an energy wave that can pass through {c1}solid objects and terrain{c0}.||Press ᠃ to fire.||Can also destroy {c1}Wave Beam Covers{c0}.
+GUI_SAMUSMENU_DESCR_WIDE_BEAM	Fires three beams simultaneously.||Press ᠃ to fire.||This beam can push {c1}Wide Beam Boxes{c0} and destroy {c1}Wide Beam Covers{c0}.
+GUI_SAMUSMENU_DESCR_HYPER_SUIT	The Metroid DNA inside Samus has surged completely out of control and transformed her into an organism that is essentially a Metroid.
+GUI_SAMUSMENU_NAME_BOMB	BOMB
+GUI_SAMUSMENU_NAME_CHARGE_BEAM	CHARGE BEAM
+GUI_SAMUSMENU_NAME_DIFUSSION_CHARGE	DIFFUSION BEAM
+GUI_SAMUSMENU_NAME_DOUBLE_JUMP	SPIN BOOST
+GUI_SAMUSMENU_NAME_GHOST_DASH	FLASH SHIFT
+GUI_SAMUSMENU_NAME_GRAPPLE_BEAM	GRAPPLE BEAM
+GUI_SAMUSMENU_NAME_GRAVITY_SUIT	GRAVITY SUIT
+GUI_SAMUSMENU_NAME_HYPER_BEAM	HYPER BEAM
+GUI_SAMUSMENU_NAME_ICE_MISSILE	ICE MISSILE
+GUI_SAMUSMENU_NAME_LINE_BOMB	CROSS BOMB
+GUI_SAMUSMENU_NAME_MISSILE	MISSILE
+GUI_SAMUSMENU_NAME_MORPHBALL	MORPH BALL
+GUI_SAMUSMENU_NAME_MULTI_LOCKON_MISSILE	STORM MISSILE
+GUI_SAMUSMENU_NAME_OPTICAL_CAMO	PHANTOM CLOAK
+GUI_SAMUSMENU_NAME_PLASMA_BEAM	PLASMA BEAM
+GUI_SAMUSMENU_NAME_POWER_BEAM	POWER BEAM
+GUI_SAMUSMENU_NAME_POWER_BOMB	POWER BOMB
+GUI_SAMUSMENU_NAME_POWER_SUIT	POWER SUIT
+GUI_SAMUSMENU_NAME_SCREW_ATTACK	SCREW ATTACK
+GUI_SAMUSMENU_NAME_SONAR	PULSE RADAR
+GUI_SAMUSMENU_NAME_SPACE_JUMP	SPACE JUMP
+GUI_SAMUSMENU_NAME_SPEED_BOOSTER	SPEED BOOSTER
+GUI_SAMUSMENU_NAME_SPIDER_MAGNET	SPIDER MAGNET
+GUI_SAMUSMENU_NAME_SUPER_MISSILE	SUPER MISSILE
+GUI_SAMUSMENU_NAME_VARIA_SUIT	VARIA SUIT
+GUI_SAMUSMENU_NAME_WAVE_BEAM	WAVE BEAM
+GUI_SAMUSMENU_NAME_WIDE_BEAM	WIDE BEAM
+GUI_SAMUSMENU_NAME_HYPER_SUIT	METROID SUIT
+GUI_SAMUSMENU_SECTION_AEION	AEION
+GUI_SAMUSMENU_SECTION_BEAMS	BEAM
+GUI_SAMUSMENU_SECTION_BOMBS	BOMB
+GUI_SAMUSMENU_SECTION_MISC	MISC.
+GUI_SAMUSMENU_SECTION_MISSILE	MISSILE
+GUI_SAMUSMENU_SECTION_MORPHBALL	MORPH BALL
+GUI_SAMUSMENU_SECTION_SUIT	SUIT
+GUI_SAMUSMENU_SHORTLABEL_BOMB	BOMB
+GUI_SAMUSMENU_SHORTLABEL_CHARGE_BEAM	CHARGE BEAM
+GUI_SAMUSMENU_SHORTLABEL_DIFUSSION_CHARGE	DIFFUSION BEAM
+GUI_SAMUSMENU_SHORTLABEL_DOUBLE_JUMP	SPIN BOOST
+GUI_SAMUSMENU_SHORTLABEL_GHOST_DASH	FLASH SHIFT
+GUI_SAMUSMENU_SHORTLABEL_GRAPPLE_BEAM	GRAPPLE BEAM
+GUI_SAMUSMENU_SHORTLABEL_GRAVITY_SUIT	GRAVITY SUIT
+GUI_SAMUSMENU_SHORTLABEL_HYPER_BEAM	HYPER BEAM
+GUI_SAMUSMENU_SHORTLABEL_ICE_MISSILE	ICE MISSILE
+GUI_SAMUSMENU_SHORTLABEL_LINE_BOMB	CROSS BOMB
+GUI_SAMUSMENU_SHORTLABEL_MISSILE	MISSILE
+GUI_SAMUSMENU_SHORTLABEL_MORPHBALL	MORPH BALL
+GUI_SAMUSMENU_SHORTLABEL_MULTI_LOCK-ON	STORM MISSILE
+GUI_SAMUSMENU_SHORTLABEL_OPTICAL_CAMO	PHANTOM CLOAK
+GUI_SAMUSMENU_SHORTLABEL_PLASMA_BEAM	PLASMA BEAM
+GUI_SAMUSMENU_SHORTLABEL_POWER_BEAM	POWER BEAM
+GUI_SAMUSMENU_SHORTLABEL_POWER_BOMB	POWER BOMB
+GUI_SAMUSMENU_SHORTLABEL_POWER_SUIT	POWER SUIT
+GUI_SAMUSMENU_SHORTLABEL_SCREW_ATTACK	SCREW ATTACK
+GUI_SAMUSMENU_SHORTLABEL_SONAR	PULSE RADAR
+GUI_SAMUSMENU_SHORTLABEL_SPACE_JUMP	SPACE JUMP
+GUI_SAMUSMENU_SHORTLABEL_SPEED_BOOSTER	SPEED BOOSTER
+GUI_SAMUSMENU_SHORTLABEL_SPIDER_MAGNET	SPIDER MAGNET
+GUI_SAMUSMENU_SHORTLABEL_SUPER_MISSILE	SUPER MISSILE
+GUI_SAMUSMENU_SHORTLABEL_VARIA_SUIT	VARIA SUIT
+GUI_SAMUSMENU_SHORTLABEL_WAVE_BEAM	WAVE BEAM
+GUI_SAMUSMENU_SHORTLABEL_WIDE_BEAM	WIDE BEAM
+GUI_SAMUSMENU_SHORTLABEL_HYPER_SUIT	METROID SUIT
+GUI_SAMUSMENU_TITLE	SAMUS
+GUI_SKIP_CINEMATIC	Press ᠊ to skip
+GUI_TITLE_LABEL_OPTIONS	᠊ OPTIONS
+GUI_TOTALRECHARGE_CANNOTUSE	Resources already at full capacity.
+GUI_TOTALRECHARGE_SUCCESS	All resources replenished.
+MAP_ICON_ACCESS_POINT	NETWORK STATION
+MAP_ICON_AMMO_STATION	AMMO RECHARGE STATION
+MAP_ICON_BEAM_DOOR	POWER BEAM DOOR
+MAP_ICON_CENTRALUNIT	CENTRAL UNIT
+MAP_ICON_CENTRALUNIT_DOOR	CENTRAL UNIT DOOR
+MAP_ICON_CHARGE_BEAM_DOOR	CHARGE BEAM DOOR
+MAP_ICON_CHARGE_BEAM_DOOR_LOCKED	SEALED CHARGE BEAM DOOR
+MAP_ICON_CUSTOM_MARKER	MARKER
+MAP_ICON_DOOR_CLOSED	ACCESS CLOSED
+MAP_ICON_DOOR_OPEN	ACCESS OPEN
+MAP_ICON_DOOR_LOCKED	SEALED DOOR
+MAP_ICON_ELEVATOR	ELEVATOR
+MAP_ICON_EMMY	E.M.M.I.
+MAP_ICON_EMMY_DOOR	E.M.M.I. ZONE DOOR
+MAP_ICON_EMMY_DOOR_CLOSED	SEALED E.M.M.I. ZONE DOOR
+MAP_ICON_EMMY_VALVE	E.M.M.I. VALVE
+MAP_ICON_ENERGY_FRAGMENT	ENERGY PART
+MAP_ICON_ENERGY_STATION	ENERGY RECHARGE STATION
+MAP_ICON_ENERGY_TANK	ENERGY TANK
+MAP_ICON_GRAPPLE_BEAM_BLOCK	GRAPPLE BEAM BLOCK
+MAP_ICON_GRAPPLE_BEAM_BOX	GRAPPLE BEAM BOX
+MAP_ICON_GRAPPLE_BEAM_DOOR	GRAPPLE BEAM DOOR
+MAP_ICON_GRAPPLE_BEAM_POINT	GRAPPLE SWING POINT
+MAP_ICON_GUNSHIP	GUNSHIP
+MAP_ICON_HYPER_BEAM_DOOR	HYPER BEAM DOOR
+MAP_ICON_INTERACTIVE_DEVICE	INTERACTIVE DEVICE
+MAP_ICON_ACQUIRED_ITEM	ACQUIRED
+MAP_ICON_ACQUIRED_ITEM_FEMALE	
+MAP_ICON_ITEM_CUBE	ITEM CUBE
+MAP_ICON_ITEM_CUBE_ACQUIRED	ACQUIRED ITEM CUBE
+MAP_ICON_ITEM_SPHERE	ITEM SPHERE
+MAP_ICON_ITEM_SPHERE_ACQUIRED	ACQUIRED ITEM SPHERE
+MAP_ICON_MAP_ROOM	MAP STATION
+MAP_ICON_MISSILE_BLOCKAGE	MISSILE COVER
+MAP_ICON_MISSILE_TANK	MISSILE TANK
+MAP_ICON_MISSILE_TANK_PLUS	MISSILE+ TANK
+MAP_ICON_MORPHBALL_LAUNCHER	MORPH BALL LAUNCHER
+MAP_ICON_MORPHBALL_LAUNCHER_EXIT	MORPH BALL LAUNCHER EXIT
+MAP_ICON_MULTI_LOCK_TRAPDOOR	STORM MISSILE BOX
+MAP_ICON_PLASMA_BEAM_BLOCKAGE	PLASMA BEAM COVER
+MAP_ICON_POWERBOMB_TANK	POWER BOMB TANK
+MAP_ICON_PRESENCE_DOOR	SENSOR-LOCK DOOR
+MAP_ICON_RAILWAY	SHUTTLE
+MAP_ICON_SAMUS	SAMUS
+MAP_ICON_SAVE_ROOM	SAVE STATION
+MAP_ICON_SHUTTER	SHUTTER
+MAP_ICON_SHUTTER_PLATFORM	SHUTTER PLATFORM
+MAP_ICON_SUPER_MISSILE_BLOCKAGE	SUPER MISSILE COVER
+MAP_ICON_TELEPORT_STATION	TELEPORTAL
+MAP_ICON_TELEPORT_STATION_A	TELEPORTAL (RED)
+MAP_ICON_TELEPORT_STATION_E	TELEPORTAL (PURPLE)
+MAP_ICON_TELEPORT_STATION_I	TELEPORTAL (YELLOW)
+MAP_ICON_TELEPORT_STATION_O	TELEPORTAL (GREEN)
+MAP_ICON_TELEPORT_STATION_U	TELEPORTAL (BLUE)
+MAP_ICON_TELEPORT_STATION_X	TELEPORTAL (CYAN)
+MAP_ICON_TELEPORT_STATION_Y	TELEPORTAL (ORANGE)
+MAP_ICON_THERMAL_DOOR	THERMAL DOOR
+MAP_ICON_THERMAL_DOOR_CLOSED	CLOSED THERMAL DOOR
+MAP_ICON_THERMAL_DOOR_OPEN	OPEN THERMAL DOOR
+MAP_ICON_THERMAL_TRAP	THERMAL TRAPDOOR
+MAP_ICON_THERMAL_TRAP_CLOSED	CLOSED THERMAL TRAPDOOR
+MAP_ICON_THERMAL_TRAP_OPEN	OPEN THERMAL TRAPDOOR
+MAP_ICON_TOTAL_RECHARGE_STATION	TOTAL RECHARGE STATION
+MAP_ICON_TRANSPORT_CAPSULE	TRANSPORT CAPSULE
+MAP_ICON_UNKNOWN	???
+MAP_ICON_WAVE_BEAM_BLOCKAGE	WAVE BEAM COVER
+MAP_ICON_WIDE_BEAM_BLOCKAGE	WIDE BEAM COVER
+MAP_ICON_WIDE_BEAM_BOX	WIDE BEAM BOX
+MAP_ICON_WIDE_BEAM_DOOR	WIDE BEAM DOOR
+MAP_ICON_BLOCK_BEAM	BEAM BLOCK
+MAP_ICON_BLOCK_BOMB	BOMB BLOCK
+MAP_ICON_BLOCK_MISSILE	MISSILE BLOCK
+MAP_ICON_BLOCK_PITFALL	PITFALL BLOCK
+MAP_ICON_BLOCK_POWERBOMB	POWER BOMB BLOCK
+MAP_ICON_BLOCK_SCREW	SCREW ATTACK BLOCK
+MAP_ICON_BLOCK_SPEED	SPEED BOOSTER BLOCK
+MAP_ICON_WAR_LOTUS	ENKY
+MAP_ICON_BOSS	BOSS
+MAP_ICON_BOSS_DEFEATED	DEFEATED BOSS
+MAP_ICON_PROP_OPEN	(OPEN)
+MAP_ICON_PROP_CLOSED	(CLOSED)
+MAP_ICON_BLOCK_DESTROYED	DESTROYED
+MAP_ICON_BLOCK_DESTROYED_FEMALE	
+MAP_ICON_DEVICE_USED	USED
+MAP_ICON_DEVICE_USED_FEMALE	
+MAP_ICON_DOOR_FROZEN	FROZEN
+MAP_ICON_DOOR_FROZEN_FEMALE	
+GUI_COMPANY_TITLE_SCREEN	© Nintendo
+MAP_STATE_BEGIN	(
+MAP_STATE_END	)
+MLOG_ABILITY_BOMB	{c1}Bomb{c0} acquired in Dairon.
+MLOG_ABILITY_CHARGE_BEAM	{c1}Charge Beam{c0} acquired in Artaria.
+MLOG_ABILITY_DIFFUSION_BEAM	{c1}Diffusion Beam{c0} acquired in Cataris.
+MLOG_ABILITY_DOUBLE_JUMP	{c1}Spin Boost{c0} acquired in Ghavoran.
+MLOG_ABILITY_GHOST_AURA	{c1}Flash Shift{c0} acquired in Burenia.
+MLOG_ABILITY_GRAPPLE_BEAM	{c1}Grapple Beam{c0} acquired in Artaria.
+MLOG_ABILITY_GRAVITY_SUIT	{c1}Gravity Suit{c0} acquired in Burenia.
+MLOG_ABILITY_HYPER_BEAM	{c1}Hyper Beam{c0} acquired in Itorash.
+MLOG_ABILITY_HYPER_SUIT	{c1}Metroid Suit{c0} acquired in Itorash.
+MLOG_ABILITY_ICE_MISSILE	{c1}Ice Missiles{c0} acquired in Ghavoran.
+MLOG_ABILITY_LINE_BOMB	{c1}Cross Bomb{c0} acquired in Ghavoran.
+MLOG_ABILITY_MAGNET_GLOVE	{c1}Spider Magnet{c0} acquired in Artaria.
+MLOG_ABILITY_MORPH_BALL	{c1}Morph Ball{c0} acquired in Cataris.
+MLOG_ABILITY_MULTILOCKON	{c1}Storm Missile{c0} acquired in Ferenia.
+MLOG_ABILITY_OPTIC_CAMOUFLAGE	{c1}Phantom Cloak{c0} acquired in Artaria.
+MLOG_ABILITY_PLASMA_BEAM	{c1}Plasma Beam{c0} acquired in Elun.
+MLOG_ABILITY_POWER_BOMB	{c1}Power Bomb{c0} acquired in Hanubia.
+MLOG_ABILITY_SCREW_ATTACK	{c1}Screw Attack{c0} acquired in Artaria.
+MLOG_ABILITY_SONAR	{c1}Pulse Radar{c0} acquired in Ghavoran.
+MLOG_ABILITY_SPACE_JUMP	{c1}Space Jump{c0} acquired in Ferenia.
+MLOG_ABILITY_SPEED_BOOSTER	{c1}Speed Booster{c0} acquired in Dairon.
+MLOG_ABILITY_SUPER_MISSILE	{c1}Super Missiles{c0} acquired in Ghavoran.
+MLOG_ABILITY_VARIA_SUIT	{c1}Varia Suit{c0} acquired in Artaria.
+MLOG_ABILITY_WAVE_BEAM	{c1}Wave Beam{c0} acquired in Ferenia.
+MLOG_ABILITY_WIDE_BEAM	{c1}Wide Beam{c0} acquired in Dairon.
+MLOG_ADAM_AQUA	Received {c5}Adam Briefing{c0} in Burenia. ᠀
+MLOG_ADAM_CAVE	Received {c5}Adam Briefing{c0} in Artaria. ᠀
+MLOG_ADAM_FOREST	Received {c5}Adam Briefing{c0} in Ghavoran. ᠀
+MLOG_ADAM_LAB	Received {c5}Adam Briefing{c0} in Dairon. ᠀
+MLOG_ADAM_MAGMA	Received {c5}Adam Briefing{c0} in Cataris. ᠀
+MLOG_ADAM_SANC	Received {c5}Adam Briefing{c0} in Ferenia. ᠀
+MLOG_ADAM_SHIP	Received {c5}Adam Briefing{c0} in Hanubia. ᠀
+MLOG_COOLDOWN_EVENT	The planet's temperature returned to normal.
+MLOG_DEFEAT_BOSS_2CRS_AQUA	Defeated {c3}Robot Chozo Soldiers{c0} in Burenia.
+MLOG_DEFEAT_BOSS_2CRS_SANC	Defeated {c3}Robot Chozo Soldiers{c0} in Ferenia.
+MLOG_DEFEAT_BOSS_COMMANDER	Defeated {c3}Raven Beak{c0} in Itorash.
+MLOG_DEFEAT_BOSS_COMMANDER_X	Defeated {c3}Raven Beak X{c0} in Hanubia.
+MLOG_DEFEAT_BOSS_COOLDOWN_X	Defeated {c3}Experiment No. Z-57{c0} in Cataris.
+MLOG_DEFEAT_BOSS_CRS_FOREST	Defeated a {c3}Robot Chozo Soldier{c0} in Ghavoran.
+MLOG_DEFEAT_BOSS_CRS_SANC	Defeated a {c3}Robot Chozo Soldier{c0} in Ferenia.
+MLOG_DEFEAT_BOSS_CWX_CAVE	Defeated a {c3}Chozo Soldier{c0} in Artaria.
+MLOG_DEFEAT_BOSS_CWX_FOREST	Defeated a {c3}Chozo Soldier{c0} in Ghavoran.
+MLOG_DEFEAT_BOSS_CWX_QUARANTINE	Defeated a {c3}Chozo Soldier{c0} in Elun.
+MLOG_DEFEAT_BOSS_CWX_SHIP	Defeated a {c3}Chozo Soldier{c0} in Hanubia.
+MLOG_DEFEAT_BOSS_CWXE_SHIP	Defeated the {c3}Elite Chozo Soldier{c0} in Hanubia.
+MLOG_DEFEAT_BOSS_HYDROGIGA	Defeated {c3}Drogyga{c0} in Burenia.
+MLOG_DEFEAT_BOSS_KRAID	Defeated {c3}Kraid{c0} in Cataris.
+MLOG_DEFEAT_BOSS_SCORPIUS	Defeated {c3}Corpius{c0} in Artaria.
+MLOG_DEFEAT_BOSS_SUPER_GOLIATH	Defeated {c3}Golzuna{c0} in Ghavoran.
+MLOG_DEFEAT_BOSS_SUPER_QUETZOA	Defeated {c3}Escue{c0} in Ferenia.
+MLOG_DEFEAT_EMMY_CAVE	Destroyed {c3}E.M.M.I.-02SM{c0} in Artaria.
+MLOG_DEFEAT_EMMY_FOREST	Destroyed {c3}E.M.M.I.-05IM{c0} in Ghavoran.
+MLOG_DEFEAT_EMMY_LAB	Destroyed {c3}E.M.M.I.-04SB{c0} in Dairon.
+MLOG_DEFEAT_EMMY_MAGMA	Destroyed {c3}E.M.M.I.-03MB{c0} in Cataris.
+MLOG_DEFEAT_EMMY_SANC	Destroyed {c3}E.M.M.I.-06WB{c0} in Ferenia.
+MLOG_DEFEAT_EMMY_SHIP	Destroyed {c3}E.M.M.I.-07PB{c0} in Hanubia.
+MLOG_DEFEAT_PROTOEMMY_CAVE	Destroyed {c3}E.M.M.I.-01P{c0} in Artaria.
+MLOG_ENCOUNTER_EMMY_CAVE	Encountered {c3}E.M.M.I.-02SM{c0} in Artaria.
+MLOG_ENCOUNTER_EMMY_FOREST	{c3}E.M.M.I.-05IM{c0} activated in Ghavoran.
+MLOG_ENCOUNTER_EMMY_LAB	Encountered {c3}E.M.M.I.-04SB{c0} in Dairon.
+MLOG_ENCOUNTER_EMMY_MAGMA	Encountered {c3}E.M.M.I.-03MB{c0} in Cataris.
+MLOG_ENCOUNTER_EMMY_SANC	Encountered {c3}E.M.M.I.-06WB{c0} in Ferenia.
+MLOG_ENCOUNTER_EMMY_SHIP	Encountered {c3}E.M.M.I.-07PB{c0} in Hanubia.
+MLOG_ENCOUNTER_PROTOEMMY_CAVE	Encountered {c3}E.M.M.I.-01P{c0} in Artaria.
+MLOG_INIT	Encountered a mysterious enemy.
+MLOG_PROFESSOR_ENCOUNTER	Encountered Quiet Robe. ᠀
+MLOG_TUTO_SLIDING	{c1}Slide:{c0}|While tilting ᠝ to run, press ᠆ to slide.
+MLOG_TUTO_FREE_AIM	{c1}Free Aim:{c0}|Hold ᠄ to use Free Aim Mode, and tilt ᠝ to aim.
+MLOG_TUTO_MISSILE_MODE	{c1}Missile Mode:{c0}|Hold ᠅ to ready Missiles, and press ᠃ to fire. Some blocks can be destroyed only by using specific abilities.
+MLOG_TUTO_HIDDEN_BLOCKS	{c1}Hidden Blocks:{c0}|Some destructible blocks are hidden. If you run into a dead end, try shooting at your surroundings. Striking some blocks with Missiles may reveal how to destroy them.
+MLOG_TUTO_BUTTON_MAP	{c1}Map and Options:{c0}|Press ᠌ to open the Map. Press ᠊ to open the Options.
+MLOG_TUTO_MELEE	{c1}Melee Counter:{c0}|Parry enemy attacks with a Melee Counter by pressing ᠂ at the right moment.
+MLOG_TUTO_MELEE_2	{c1}Melee Counter:{c0}|Defeating an enemy that has been stunned as the result of a counter will cause it to drop more items.
+MLOG_TUTO_MELEE_3	{c1}Melee Counter:{c0}|Press ᠂ while running to execute a powerful Dash Melee. Unlike other Melee Counters, the Dash Melee will damage the enemy.
+MLOG_TUTO_HINT	{c1}Hidden Items:{c0}|If an area on the map is blinking, it indicates that a hidden item is there.
+MLOG_TUTO_EMMY_GRAB	{c1}E.M.M.I. Counter:{c0}|An E.M.M.I.'s attack can be countered by pressing ᠂ at the exact moment of the flash. However, the timing is extremely difficult to gauge, making this a desperate maneuver.
+MLOG_TUTO_EMMY_SLIDE	{c1}E.M.M.I. Evasion:{c0}|While an E.M.M.I. is stunned, it's possible to tilt ᠝ and press ᠆ to slide under it.
+MLOG_TUTO_MAP_ROOM	{c1}Map:{c0}|On the Map, the yellow rooms are saving facilities.|The purple rooms contain transportation devices.
+MLOG_TUTO_OMEGA_CANNON	{c1}Omega Cannon:{c0}|Hold ᠄ to use Aim Mode. Tilt ᠝ to aim. If a target is nearby, Samus will automatically face that direction.
+MLOG_TUTO_OMEGA_BLASTER	{c1}Omega Blaster:{c0}|Hold ᠅ to charge the Omega Blaster. Once charged, press ᠃ while still holding ᠅ to fire. Aim at the core.
+MLOG_TUTO_OMEGA_STREAM	{c1}Omega Stream:{c0}|Hold ᠃ to fire the Omega Stream and heat up the shielding. It will shatter upon overheating, leaving the core exposed.
+MLOG_TUTO_OPTICAL_CAMO	{c1}Phantom Cloak and the E.M.M.I.:{c0}|While the Phantom Cloak is activated, an E.M.M.I. cannot see or detect Samus. Remain cautious. Colliding with an E.M.M.I. will still result in capture.
+MLOG_TUTO_PARASITE	{c1}X Parasite:{c0}|An X parasite mimicking an enemy will revert to its original gelatinous form when defeated. Samus can absorb the X to replenish energy and ammo.
+TERM_AREANAME_CAVES	ARTARIA
+TERM_AREANAME_CAVES_SUBHEADER	
+TERM_AREANAME_CAVES_MAP_TITLE	ARTARIA
+TERM_AREANAME_CAVES_MAP_TRANSPORT	ARTARIA
+TERM_AREANAME_MAGMA	CATARIS
+TERM_AREANAME_MAGMA_SUBHEADER	
+TERM_AREANAME_MAGMA_MAP_TITLE	CATARIS
+TERM_AREANAME_MAGMA_MAP_TRANSPORT	CATARIS
+TERM_AREANAME_LABORATORY	DAIRON
+TERM_AREANAME_LABORATORY_SUBHEADER	
+TERM_AREANAME_LABORATORY_MAP_TITLE	DAIRON
+TERM_AREANAME_LABORATORY_MAP_TRANSPORT	DAIRON
+TERM_AREANAME_AQUA	BURENIA
+TERM_AREANAME_AQUA_SUBHEADER	
+TERM_AREANAME_AQUA_MAP_TITLE	BURENIA
+TERM_AREANAME_AQUA_MAP_TRANSPORT	BURENIA
+TERM_AREANAME_FOREST	GHAVORAN
+TERM_AREANAME_FOREST_SUBHEADER	
+TERM_AREANAME_FOREST_MAP_TITLE	GHAVORAN
+TERM_AREANAME_FOREST_MAP_TRANSPORT	GHAVORAN
+TERM_AREANAME_QUARANTINE	ELUN
+TERM_AREANAME_QUARANTINE_SUBHEADER	
+TERM_AREANAME_QUARANTINE_MAP_TITLE	ELUN
+TERM_AREANAME_QUARANTINE_MAP_TRANSPORT	ELUN
+TERM_AREANAME_SANCTUARY	FERENIA
+TERM_AREANAME_SANCTUARY_SUBHEADER	
+TERM_AREANAME_SANCTUARY_MAP_TITLE	FERENIA
+TERM_AREANAME_SANCTUARY_MAP_TRANSPORT	FERENIA
+TERM_AREANAME_SHIPYARD	HANUBIA
+TERM_AREANAME_SHIPYARD_SUBHEADER	
+TERM_AREANAME_SHIPYARD_MAP_TITLE	HANUBIA
+TERM_AREANAME_SHIPYARD_MAP_TRANSPORT	HANUBIA
+TERM_AREANAME_SKYBASE	ITORASH
+TERM_AREANAME_SKYBASE_SUBHEADER	
+TERM_AREANAME_SKYBASE_MAP_TITLE	ITORASH
+TERM_AREANAME_SKYBASE_MAP_TRANSPORT	ITORASH
+TERM_CHARACTER_SAMUS	Samus
+TERM_CHARACTER_EMMY	E.M.M.I.
+TERM_CHARACTER_PROFESSOR	Quiet Robe
+TERM_CHARACTER_COMMANDER	Raven Beak
+TERM_CHARACTER_ADAM	ADAM
+TERM_BOSS_SCORPIUS	Corpius
+TERM_BOSS_KRAID	Kraid
+TERM_BOSS_HYDROGIGA	Drogyga
+TERM_BOSS_SUPER_GOLIATH	Golzuna
+TERM_BOSS_SUPER_QUETZOA	Escue
+TERM_BOSS_CRS_SANC	Robot Chozo Soldier
+TERM_BOSS_CRS_FOREST	Robot Chozo Soldier
+TERM_BOSS_CRS_2_SANC	Twin Robot Chozo Soldier
+TERM_BOSS_CRS_2_AQUA	Twin Robot Chozo Soldier
+TERM_BOSS_CWX_QUARANTINE	Chozo Soldier
+TERM_BOSS_CWX_FOREST	Chozo Soldier
+TERM_BOSS_CWX_CAVE	Chozo Soldier
+TERM_BOSS_CWX_SHIPYARD	Chozo Soldier
+TERM_BOSS_CWX_ELITE	Elite Chozo Soldier
+TERM_BOSS_COOLDOWNX	Experiment No. Z-57
+TERM_CHARACTER_COMMANDER_X	Raven Beak X
+TIP_000_GENERAL_PARKOUR_000	{c6}PARKOUR{c7}||When running, you will automatically vault over terrain features up to one block in height.{c0}
+TIP_001_GENERAL_WALL_JUMP_000	{c6}WALL JUMP{c7}||During a Spin Jump, press ᠁ when next to a wall to jump off it in the opposite direction.{c0}
+TIP_002_GENERAL_POWER_GRIP_000	{c6}POWER GRIP{c7}||When jumping or falling, tilt ᠝ toward a nearby ledge to grab on to it.{c0}
+TIP_003_GENERAL_MELEE_COUNTER_000	{c6}MELEE COUNTER||{c7}Enemies that have been stunned using a Melee Counter will drop more items|when defeated.{c0}
+TIP_004_GENERAL_DASH_MELEE_000	{c6}DASH MELEE{c7}||Press ᠂ when running to use the Dash Melee. Striking an enemy with the Dash Melee will damage it.{c0}
+TIP_005_GENERAL_FREE_AIM_000	{c6}FREE AIM{c7}||When using Free Aim, the laser sight will light up if pointed directly at|an enemy.{c0}
+TIP_006_GENERAL_RUNNING_FREE_AIM_000	{c6}RUNNING FREE AIM{c7}||It's possible to shoot at an angle while running by tilting ᠝ diagonally up|or down.{c0}
+TIP_007_GENERAL_HIDDEN_BLOCKS_000	{c6}HIDDEN BLOCKS{c7}||Blocks hidden by terrain can be revealed by striking them with a Missile.{c0}
+TIP_008_GENERAL_HIDDEN_BLOCKS_001	{c6}HIDDEN BLOCKS{c7}||Blocks hidden by terrain can be revealed by striking them with a Missile or|Bomb blast.{c0}
+TIP_009_GENERAL_MISSILE_000	{c6}MISSILE{c7}||Though ammunition is limited, Missiles are a powerful weapon. Don't hesitate to use them.{c0}
+TIP_010_GENERAL_CHARGE_BEAM_000	{c6}CHARGE BEAM{c7}||The Charge Beam can be effective against enemies that are immune to regular beam attacks.{c0}
+TIP_011_GENERAL_CHARGE_BEAM_001	{c6}CHARGE BEAM{c7}||Charge up a beam shot, and then perform a Spin Jump to unleash a Charge Attack. Jumping into an enemy while charged will damage it.{c0} 
+TIP_012_BOSS_BEAM_000	{c6}BEAM{c7}||Mawkin foes can be damaged with regular beam attacks in addition to Missiles and Charge Beams.{c0}
+TIP_013_BOSS_BEAM_001	{c6}BEAM{c7}||Some bosses have weak points that can be damaged with regular beam attacks in addition to Missiles and Charge Beams.{c0}
+TIP_014_GENERAL_SPIDER_MAGNET_000	{c6}SPIDER MAGNET{c7}||Tilt ᠝ up when hanging from a ceiling to flatten yourself against it.{c0}
+TIP_015_EMMI_ZONE_PHANTOM_CLOAK_000	{c6}PHANTOM CLOAK{c7}||You cannot be seen or detected when using the Phantom Cloak. It's useful when attempting to avoid detection by the E.M.M.I.{c0}
+TIP_016_EMMI_ZONE_PHANTOM_CLOAK_001	{c6}PHANTOM CLOAK{c7}||You can continue to use the Phantom Cloak after your Aeion is depleted. It will consume your life energy instead.{c0}
+TIP_017_GENERAL_PHANTOM_CLOAK_000	{c6}PHANTOM CLOAK{c7}||You can use the Phantom Cloak outside of E.M.M.I. Zones to pass by regular enemies undetected.{c0}
+TIP_018_GENERAL_MORPH_BALL_000	{c6}MORPH BALL{c7}||Tilt ᠝ toward any Morph Ball tunnel near the ground, and press ᠁ to switch to Morph Ball form while entering the tunnel.{c0}
+TIP_019_BOSS_FLASH_SHIFT_000	{c6}FLASH SHIFT{c7}||This ability allows you to instantly approach or retreat from enemies. It's particularly useful when battling bosses.{c0}
+TIP_020_GENERAL_SPEED_BOOSTER_000	{c6}SPEED BOOSTER{c7}||While the Speed Booster is active, you can maintain your momentum even while sliding or wall jumping.{c0}
+TIP_021_GENERAL_SPEED_BOOSTER_001	{c6}SPEED BOOSTER{c7}||You will automatically vault over terrain up to one block in height when using the Speed Booster, just like when running normally.{c0}
+TIP_022_GENERAL_SHINE_SPARK_000	{c6}SHINESPARK{c7}||During a Shinespark, if you collide with a sloped surface, tilt ᠝ in the direction you're heading to automatically transition to a Speed Booster run.{c0}
+TIP_023_GENERAL_BALL_SPARK_000	{c6}BALL SPARK{c7}||With a Shinespark charged, transition to Morph Ball form, and trigger the ability to use Ball Spark.{c0}
+TIP_024_GENERAL_ICE_BREAKER_000	{c6}ICE BREAKER{c7}||Frozen enemies can be defeated using melee attacks.{c0}
+TIP_025_GENERAL_CROSS_BOMB_000	{c6}CROSS BOMB{c7}||A Cross Bomb blast can propel you horizontally when in a Morph Ball tunnel.{c0}
+TIP_026_GENERAL_ICON_HIGHLIGHT_000	{c6}ICON HIGHLIGHT{c7}||Align your cursor with an icon on the Map screen, and press ᠃ to highlight all icons of the same kind throughout an area map.{c0}
+TIP_027_GENERAL_MAP_MARKERS_000	{c6}MAP MARKERS{c7}||Press ᠀ on the Map screen to place a marker. These markers will also be displayed on your minimap, which can be helpful while exploring.{c0}
+TIP_028_GENERAL_HIDDEN_ITEM_HINTS_000	{c6}HIDDEN-ITEM HINTS{c7}||Certain locations on your map will flash white to indicate there is a hidden item in the vicinity.{c0}
+TIP_029_GENERAL_ROOM_COLORS_000	{c6}ROOM COLORS{c7}||You can save your game in locations marked in yellow on your map. Travel to other areas using a shuttle or elevator from locations marked in purple.{c0}
+TIP_030_GENERAL_MINIMAP_RANGE_000	{c6}MINIMAP RANGE{c7}||The yellow frame on the Map screen indicates the display range of your minimap.{c0}
+TIP_031_EMMI_ZONE_EMMI_AND_THE_MINIMAP_000	{c6}E.M.M.I. AND THE MINIMAP{c7}||An E.M.M.I. that enters your minimap range is displayed as a red dot.{c0}
+TIP_032_GENERAL_EXPANDING_THE_MINIMAP_000	{c6}EXPANDING THE MINIMAP{c7}||During play, press ᠓ to expand the minimap. Any further input will cause the minimap to return to its default size.{c0}
+TIP_033_GENERAL_SAMUS_SCREEN_000	{c6}SAMUS SCREEN{c7}||Press ᠅ when on the Map screen to switch to the Samus screen. Here, you can read more about Samus's abilities.{c0}
+TIP_034_GENERAL_MISSION_LOG_SCREEN_000	{c6}MISSION LOG SCREEN{c7}||Press ᠄ when on the Map screen to switch to the Mission Log screen. Here, you can review all past events and Network Station communications.{c0}
+TIP_035_GENERAL_OPTIONS_SCREEN_000	{c6}OPTIONS SCREEN{c7}||Press ᠊ during play to open the Options screen. Here, you can adjust screen brightness, load save data, and access other settings.{c0}
+TIP_036_GENERAL_RECHARGE_STATIONS_000	{c6}RECHARGE STATIONS{c7}||Some Recharge Stations replenish energy while others replenish ammo. A few replenish both.{c0}
+TIP_037_EMMI_ZONE_EMMI_ZONE_DOORS_000	{c6}E.M.M.I. ZONE DOORS{c7}||E.M.M.I. Zone doors will remain shut for several seconds after you exit one.{c0}
+TIP_038_EMMI_ZONE_EMMI_ZONE_DOORS_001	{c6}E.M.M.I. ZONE DOORS{c7}||All E.M.M.I. Zone doors will lock once an E.M.M.I. begins chasing you. They will open again after you leave the E.M.M.I.'s detection range.{c0}
+TIP_039_GENERAL_TRANSFER_PORTALS_000	{c6}TELEPORTALS{c7}||Teleportals work in color-coded pairs. When you use one, you will warp to its match.{c0}
+TIP_040_GENERAL_METROID_000	{c6}METROIDS{c7}||Metroids are organisms bioengineered by the Chozo to eliminate the X.{c0}
+TIP_041_GENERAL_X_PARASITES_000	{c6}X PARASITES{c7}||Only Samus can counter the X parasite threat now that their sole predator, the Metroids, have been eliminated. She received this power from the infant Metroid DNA with which she was injected.{c0}
+TIP_042_GENERAL_X_PARASITES_001	{c6}X PARASITES{c7}||The X are parasitic organisms discovered on SR388 that can infect any living creature. They kill their hosts and absorb their DNA to assume the host's form.{c0}
+TIP_043_GENERAL_X_PARASITES_002	{c6}X PARASITES{c7}||The X can even infect dead creatures and assume their forms using DNA absorbed from the corpses.{c0}
+TIP_044_GENERAL_X_PARASITES_003	{c6}X PARASITES{c7}||An X that has possessed multiple hosts can combine their appearances and traits during the process of replication and morph into a new entity.{c0}
+TIP_045_EMMI_ZONE_EMMI_CAPTURE_000	{c6}E.M.M.I. COUNTER{c7}||You have one chance to escape when captured by an E.M.M.I. However, the timing is extremely difficult to gauge, making this a desperate maneuver.{c0}
+TIP_046_EMMI_ZONE_EMMI_CAPTURE_001	{c6}E.M.M.I. EVADE{c7}||Counter an E.M.M.I.'s attack to stun it for a moment. You can slide under a stunned E.M.M.I.{c0}
+TIP_047_EMMI_ZONE_MAP_000	{c6}MAP{c7}||When you first enter an E.M.M.I. Zone, its boundaries and exits will be automatically identified on your map. Knowing where the exits are located will dramatically increase your odds of survival.{c0}
+TIP_048_EMMI_ZONE_PHANTOM_CLOAK_002	{c6}PHANTOM CLOAK{c7}||This ability allows you to evade detection by the E.M.M.I., but it won't stop you from being captured if one collides with you. Try to reach safety as quickly as possible when using the Phantom Cloak.{c0}
+TIP_049_EMMI_ZONE_SPIDER_MAGNET_000	{c6}SPIDER MAGNET{c7}||Tilt ᠝ up while hanging from a ceiling to flatten yourself against it. Use this technique in combination with the Phantom Cloak to sneak past an E.M.M.I.{c0}
+TIP_050_EMMI_PHASE2_EMMI_CONFRONTATION_000	{c6}E.M.M.I. CONFRONTATION{c7}||An E.M.M.I. can detect the energy emitted by the Omega Cannon, allowing it to pinpoint your location with ease.{c0}
+TIP_051_EMMI_PHASE2_EMMI_CONFRONTATION_001	{c6}E.M.M.I. CONFRONTATION{c7}||E.M.M.I. have a single weak spot: the core in their head. Strike it with a fully charged Omega Blaster shot to destroy them.{c0}
+TIP_052_EMMI_PHASE2_EMMI_CONFRONTATION_002	{c6}E.M.M.I. CONFRONTATION{c7}||You don't need to blast an E.M.M.I.'s core immediately after destroying its head plating. Take stock of your situation, and put distance between you and the E.M.M.I. if needed.{c0}
+TIP_053_BOSS_BOSS_FIGHTS_000	{c6}BOSS FIGHTS{c7}||No attack is unavoidable. Observe your opponent carefully to find an opening.{c0}
+TIP_054_BOSS_GRAB_SEQUENCE_000	{c6}GRAB SEQUENCE{c7}||Some bosses use attacks that can be countered. Successfully counter one to enter a sequence in which you can greatly damage the boss.{c0}
+TIP_055_BOSS_CHARGE_BEAM_000	{c6}CHARGE BEAM{c7}||The Charge Beam is also effective against bosses. Even if you run out of Missile ammo, don't give up.{c0}
+TIP_056_BOSS_FINISH_COUNTER_000	{c6}FINISH COUNTER{c7}||When near defeat, Mawkin foes will use a finish counter. Counter it at the right moment to finish them off.{c0}
+TIP_057_GENERAL_LOST_000	{c6}LOST?{c7}||If you don't know where to go next, look for clues using the Highlight Icon function on your Map screen. Reviewing your Mission Log might help as well.{c0}
+TIP_058_GENERAL_FLASH_SHIFT_000	{c6}FLASH SHIFT{c7}||This ability has greater horizontal reach than a regular jump, meaning it also has its uses during exploration.{c0}
+TIP_059_GENERAL_EMMI_000	{c6}E.M.M.I.{c7}||E.M.M.I. stands for Extraplanetary Multiform Mobile Identifier.{c0}
+CAVE_CENTRALUNIT_TUTO_CAMERA	Hold ᠄ to use Aim Mode. Tilt ᠝ to aim.|If a target is nearby, Samus will automatically face that direction.
+CAVE_CENTRALUNIT_TUTO_HEATING	Hold ᠃ to fire the Omega Stream and heat up the shielding.|It will shatter upon overheating, leaving the core exposed.
+CAVE_CENTRALUNIT_TUTO_SHOOT_MANUAL	Hold ᠅ to charge the Omega Blaster.|Once charged, press ᠃ while still holding ᠅ to fire. Aim at the core.
+CAVE_EMMY_PROTO_FLOOR_SLIDE_TUTO	Tilt ᠝, and press ᠆ to slide under an E.M.M.I. while it's stunned.
+CAVE_EMMY_PROTO_GRAB_TUTO	An E.M.M.I.'s attack can be countered by pressing ᠂ at the exact moment of the flash.|However, the timing is extremely difficult to gauge, making this a desperate maneuver.
+CAVE_FREEAIM_TUTO	Hold ᠄ to use Free Aim Mode, and tilt ᠝ to aim.
+CAVE_MELEE_CUTSCENE	Use a Melee Counter at the right moment to parry certain attacks and automatically take aim at the attacker. Press ᠂ to use your Melee Counter now.
+CAVE_MISSILE_TUTO	Hold ᠅ to ready Missiles, and press ᠃ to fire.|Some blocks can be destroyed only by using specific weapons.
+CAVE_SLIDING_TUTO	While tilting ᠝ to run, press ᠆ to slide.
+CAVE_THERMAL_DOOR_MESSAGE	The thermal fuel's flow has been redirected.
+CAVE_HINT_TUTO	If an area on the map is blinking, it indicates that a hidden item is there.
+CAVE_TUTO_MELEE_REMINDER	Parry enemy attacks with a Melee Counter by pressing ᠂ at the right moment.
+CAVE_TUTO_MELEE_REMINDER_2	Defeating an enemy that has been stunned as the result of a counter will cause it to drop more items.
+CAVE_TUTO_MELEE_REMINDER_3	Press ᠂ while running to execute a powerful Dash Melee. Unlike other Melee Counters, the Dash Melee will damage the enemy.
+CAVE_TUTO_MAP_OPTIONS	Press ᠌ to open the Map. Press ᠊ to open the Options.
+CAVE_TUTO_MAP_ROOM	On the Map, the yellow rooms are saving facilities.|The purple rooms contain transportation devices.
+QUARANTINE_TUTO_PARASITE	An X parasite mimicking an enemy will revert to its original gelatinous form when defeated. Samus can absorb the X to replenish energy and ammo.
+END_GAME	*Game finished. Congratulations!
+GUI_AMMORECHARGE_CANNOTUSE	Ammo already at maximum capacity.
+GUI_ELEVATOR_QUESTION	Use the elevator?
+GUI_ENERGYRECHARGE_CANNOTUSE	Energy already at maximum capacity.
+GUI_ITEM_ACQUIRED_BOMB	Bomb acquired.
+GUI_ITEM_ACQUIRED_CHARGE_BEAM	Charge Beam acquired.
+GUI_ITEM_ACQUIRED_DIFFUSION_BEAM	Diffusion Beam acquired.
+GUI_ITEM_ACQUIRED_DOUBLE_JUMP	Spin Boost acquired.
+GUI_ITEM_ACQUIRED_GHOST_DASH	Flash Shift acquired.
+GUI_ITEM_ACQUIRED_GRAPPLE_BEAM	Grapple Beam acquired.
+GUI_ITEM_ACQUIRED_GRAVITY_SUIT	Gravity Suit acquired.
+GUI_ITEM_ACQUIRED_HYPER_BEAM	Hyper Beam acquired.
+GUI_ITEM_ACQUIRED_ICE_MISSILE	Ice Missile acquired.
+GUI_ITEM_ACQUIRED_LINE_BOMB	Cross Bomb acquired.
+GUI_ITEM_ACQUIRED_MORPH_BALL	Morph Ball acquired.
+GUI_ITEM_ACQUIRED_MULTI_LOCK	Storm Missile acquired.
+GUI_ITEM_ACQUIRED_OPTICAL_CAMO	Phantom Cloak acquired.
+GUI_ITEM_ACQUIRED_PLASMA_BEAM	Plasma Beam acquired.
+GUI_ITEM_ACQUIRED_POWER_BOMB	Power Bomb acquired.
+GUI_ITEM_ACQUIRED_SCREW_ATTACK	Screw Attack acquired.
+GUI_ITEM_ACQUIRED_SONAR	Pulse Radar acquired.
+GUI_ITEM_ACQUIRED_SPACE_JUMP	Space Jump acquired.
+GUI_ITEM_ACQUIRED_SPEED_BOOSTER	Speed Booster acquired.
+GUI_ITEM_ACQUIRED_SPIDER_MAGNET	Spider Magnet acquired.
+GUI_ITEM_ACQUIRED_SUPER_MISSILE	Super Missile acquired.
+GUI_ITEM_ACQUIRED_VARIA_SUIT	Varia Suit acquired.
+GUI_ITEM_ACQUIRED_WAVE_BEAM	Wave Beam acquired.
+GUI_ITEM_ACQUIRED_WIDE_BEAM	Wide Beam acquired.
+GUI_MAP_DOWNLOAD	Area map downloaded.
+GUI_SAVESTATION_QUESTION	Save your progress?
+GUI_TANK_ACQUIRED_ENERGY	Energy Tank acquired.|Energy capacity increased by 100.
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_1	Energy Part acquired (1/4).|Collect 4 to increase energy capacity.
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_2	Energy Part acquired (2/4).|Collect 4 to increase energy capacity.
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_3	Energy Part acquired (3/4).|Collect 4 to increase energy capacity.
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_COMPLETE	Energy Part acquired (4/4).|Energy capacity increased by 100.
+GUI_TANK_ACQUIRED_MISSILE	Missile Tank acquired.|Missile capacity increased by 2.
+GUI_TANK_ACQUIRED_MISSILE_PLUS	Missile+ Tank acquired.|Missile capacity increased by 10.
+GUI_TANK_ACQUIRED_POWER_BOMB	Power Bomb Tank acquired.|Power Bomb capacity increased by 1.
+GUI_TANK_ACQUIRED_UNKNOWN	An unknown resource has been acquired.|You cannot use this item yet.
+GUI_TELEPORT_QUESTION	Use the Teleportal to warp elsewhere?
+GUI_TRANSPORT_AQUA	Travel to Burenia?
+GUI_TRANSPORT_CAVE	Travel to Artaria?
+GUI_TRANSPORT_FOREST	Travel to Ghavoran?
+GUI_TRANSPORT_LAB	Travel to Dairon?
+GUI_TRANSPORT_MAGMA	Travel to Cataris?
+GUI_TRANSPORT_QUARANTINE	Travel to Elun?
+GUI_TRANSPORT_SANC	Travel to Ferenia?
+GUI_TRANSPORT_SHIPYARD	Travel to Hanubia?
+GUI_TRANSPORT_SKYBASE	Travel to Itorash?
+GUI_ITEM_ACQUIRED_AEION	Upgrading suit for Aeion compatibility...
+SKYBASE_ELEVATOR_COMMANDER	Use the elevator?
+CAVE_HIDDENBLOCKS_TUTO	Some destructible blocks are hidden. If you run into a dead end, try shooting at your surroundings. Striking some blocks with Missiles may reveal how to destroy them.
+MAGMA_OPTICAL_TUTO	While the Phantom Cloak is activated, an E.M.M.I. cannot see or detect Samus.|Remain cautious. Colliding with an E.M.M.I. will still result in capture.
+GUI_OMEGA_CU_1	The energy from the Central Unit transformed the Arm Cannon into an Omega Cannon.
+GUI_OMEGA_CU_2	Omega Blaster online.
+GUI_OMEGA_CU_3	Omega Stream online.
+GUI_OMEGA_EMMY_1	Omega Cannon depleted and offline.|Reverting to regular Arm Cannon.
+CAPTION_PROLOGUE_PAGE_01	Metroid:||A virulent floating organism that drained energy from its prey through physical contact. Metroids were originally created by the Chozo and named after their word for "ultimate warrior." Their value as a bioweapon sparked several crises, and as a result, all traces of them have been eliminated. They are now extinct.
+CAPTION_PROLOGUE_PAGE_02	X Parasite:||A gelatinous, parasitic organism indigenous to the planet SR388. It could absorb the DNA of its host, living or dead, and replicate its form. When infecting a living host, it could even access the host's memories. X parasites were driven not by emotion but by an instinctive need to replicate and spread to increasingly stronger hosts. Their inability to be controlled marked them as even more dangerous than their sole predator, the Metroids. Like the Metroids, they are believed extinct.
+CAPTION_PROLOGUE_PAGE_03	With no Metroids surviving on SR388, it became infested with the X, horrifying parasites capable of imitating any living being. Unaware of this, I set foot on the planet, got infected, and almost died.
+CAPTION_PROLOGUE_PAGE_04	The only thing that saved me was a vaccine created from Metroid DNA, which also left me uniquely able to oppose the X. This ability was tested immediately when I went to a Biologic Space Laboratories (B.S.L.) research station to investigate a distress signal.
+CAPTION_PROLOGUE_PAGE_05	There, I battled many powerful X forms, including the SA-X, which was the X mimicking me in my Power Suit at full strength. I eventually eliminated the X menace on SR388 by setting the B.S.L. research station on a collision course with the planet.
+CAPTION_PROLOGUE_PAGE_06	After that, the X and Metroids were just memories. Or so we thought. Just when it all seemed over, the Galactic Federation received a mysterious video transmission.
+CAPTION_PROLOGUE_PAGE_07	It showed an X. Alive and in the wild.
+CAPTION_PROLOGUE_PAGE_08	Thorough analysis proved the video was real. Although the sender was unknown, the transmission was traced to a particular planet.
+CAPTION_PROLOGUE_PAGE_09	It was called ZDR. If the X had somehow escaped extinction out there, they would pose a threat to the entire galaxy. The Galactic Federation dispatched a research team of seven E.M.M.I. to investigate.
+CAPTION_PROLOGUE_PAGE_10	An E.M.M.I. is a large research robot designed to capture field samples and extract their DNA. Their incredible mobility and protective plating, made of the strongest stuff in the universe, practically guaranteed the mission's success.
+CAPTION_PROLOGUE_PAGE_11	But not long after their arrival on ZDR, all communication was lost.
+CAPTION_PROLOGUE_PAGE_12	What is happening on ZDR? Is the planet really infested with X? As the only one immune to the parasites, it's up to me to go there and find out.
+CAPTION_INTRO_PAGE_1	We'll soon be entering ZDR's atmosphere.
+CAPTION_INTRO_PAGE_2	
+DISPLAY_ADAM_INTRO_PAGE_1	The bounty for this mission does not seem appropriate.
+CAPTION_INTRO_PAGE_3	
+DISPLAY_ADAM_INTRO_PAGE_2	The risk clearly outweighs|the reward.
+CAPTION_INTRO_PAGE_4	
+DISPLAY_ADAM_INTRO_PAGE_3	Treat our lost assets with|care, Lady.
+CAPTION_INTRO_PAGE_5	Entering the atmosphere in T minus|10... 9... 8... 7... 6... 5... 4... 3... 2... 1...
+CAPTION_INTRO_FLASHBACK_PAGE_01	That elevator leads to the depths of an|underground facility.
+CAPTION_INTRO_LANDING_PAGE_01	Signal quality is likely to be low. Remote communication may pose a problem.
+CAPTION_INTRO_LANDING_PAGE_02	Try to connect to the facility's network when you reach the bottom. That way we can remain in contact.
+CAPTION_INTRO_LANDING_PAGE_03	Any objections, Lady?
+CAPTION_DATAUPLOAD_01	Uploading data...
+DIAG_ADAM_CAVE_1_PAGE_1	So, you've accessed a network station. Well done, Samus. I have reviewed your {c1}vital signs and video log{c0} from the data you uploaded.
+DIAG_ADAM_CAVE_1_PAGE_2	I've run a full analysis. But I cannot account for why you lost consciousness. My readings indicate dramatic physical changes in you.
+DIAG_ADAM_CAVE_1_PAGE_3	Whatever caused these changes seems to have stripped you of most abilities. You might call it physical amnesia.
+DIAG_ADAM_CAVE_1_PAGE_4	That brings me to your assailant. I am checking the Federation database against your video log. It appears to have been a {c1}Chozo{c0}. The attacker's identity is not yet clear.
+DIAG_ADAM_CAVE_1_PAGE_5	I have determined that you are somewhere within {c1}the depths of ZDR{c0}. Your top priority should be to return to your ship on the surface. This situation is...precarious. Trust your instincts as you {c1}navigate upward{c0}.
+DIAG_ADAM_CAVE_1_PAGE_5_B	This planet appears to consist of multiple areas. Shuttles, elevators, and other modes of transport connect them. Keep an eye out for {c1}ways to reach the surface{c0}.
+DIAG_ADAM_CAVE_1_PAGE_6	The ship's location is marked on your {c1}global map{c0}. Check it for yourself.
+DIAG_ADAM_CAVE_1_PAGE_6_B	You may encounter pockets of low temperature. Your Metroid DNA renders you vulnerable to such environments. {c1}Spending time in cold areas will be harmful to you.{c0}
+DIAG_ADAM_CAVE_1_PAGE_6_C	There are many such cold areas scattered underground. Do not enter them {c1}with your basic Power Suit{c0}.
+DIAG_ADAM_CAVE_1_PAGE_7	One final thing. Underground interference is {c1}preventing radio{c0} {c1}transmissions{c0}. Check in with me at any network stations you find.
+DIAG_ADAM_CAVE_2_PAGE_1	Both E.M.M.I. you encountered were clearly trying to capture you.|They may have been hacked. If so, it's reasonable to assume {c1}all E.M.M.I.{c0}|{c1}will be hostile{c0}.
+DIAG_ADAM_CAVE_2_PAGE_2	E.M.M.I. send out a {c1}pulse{c0} to detect vibrations in the air within a certain range. Essentially, {c1}they can hear you{c0}.
+DIAG_ADAM_CAVE_2_PAGE_2_B	Upon detecting vibrations, an E.M.M.I. {c1}enters surveillance mode to track their source{c0}. Stay out of its {c1}line of sight{c0} when this happens. Otherwise, the danger to you increases dramatically.
+DIAG_ADAM_CAVE_2_PAGE_3	An E.M.M.I. that has seen you will {c1}begin pursuit{c0}. Part of the pursuit protocol is to {c1}seal the E.M.M.I. Zone exits{c0}. You will be trapped inside.
+DIAG_ADAM_CAVE_2_PAGE_3_B	To survive, you must leave its range of pursuit. Evade the E.M.M.I. and it will disengage. This will also unseal the exits.
+DIAG_ADAM_CAVE_2_PAGE_3_C	An E.M.M.I. never leaves its assigned Zone. Their control system must permit them to operate only within that range...
+DIAG_ADAM_CAVE_2_PAGE_4	I estimate a {c1}99% probability of death{c0} if an E.M.M.I. captures you.
+DIAG_ADAM_CAVE_2_PAGE_5	There may be a very small opportunity to escape. But exploiting this window will be {c1}virtually impossible{c0}. 
+DIAG_ADAM_CAVE_2_PAGE_5_B	The E.M.M.I. are immune to your current weapons. You lack the {c1}unique energy{c0} used to defeat the first E.M.M.I. Your only option now is to evade capture and find an exit.
+DIAG_ADAM_CAVE_2_PAGE_6	Your highest priority in an E.M.M.I. Zone should be simply to survive.
+DIAG_ADAM_CAVE_3_PAGE_1	There was no record of your assailant in the Federation database. However, there are records of a {c1}Chozo warrior{c0} tribe. There is a strong possibility the two are connected.
+DIAG_ADAM_CAVE_3_PAGE_2	You have seen the warrior tribe's architecture and artifacts on this planet.|I conclude that this was one of their settlements. But why would someone lead you here and send the E.M.M.I. after you? The footage of the X parasite may have been staged to lure you in...
+DIAG_ADAM_CAVE_3_PAGE_3	The situation remains unclear. But your priority hasn't changed. You must return to the ship.
+DIAG_ADAM_CAVE_3_PAGE_4	You have activated the magma supply system. That has restored power to the closed thermal doors. {c1}Seek them out to proceed{c0}.
+DIAG_ADAM_CAVE_3_PAGE_5	Continue to search for the {c1}unique energy{c0} you employed against the first E.M.M.I. It is the only way you can confront them.
+DIAG_ADAM_CAVE_3_PAGE_6	Unfortunately, this energy is limited. You may have noticed it dissipating after an E.M.M.I. is destroyed.
+DIAG_ADAM_CAVE_3_PAGE_7	There are {c1}six remaining E.M.M.I.{c0} hunting you. You have no means to confront them. Remember that.
+DIAG_ADAM_MAGMA_1_PAGE_1	ZDR appears to be powered by thermal energy. Magma is pumped from the planet's interior and routed from there.
+DIAG_ADAM_MAGMA_1_PAGE_2	I have located the central routing system for the magma. It is here|in {c1}Cataris{c0}.
+DIAG_ADAM_MAGMA_1_PAGE_3	Samus, your current suit cannot protect you as you explore {c1}Cataris{c0}.|The {c1}extreme heat of the lava{c0} is too much for it. Under no circumstances should you enter high-temperature areas.
+DIAG_ADAM_MAGMA_1_PAGE_4	I note a {c1}shuttle{c0} somewhere above here. Use it to find a path forward.
+DIAG_ADAM_MAGMA_1_PAGE_5	There is one other thing to discuss. It is your new {c1}Phantom Cloak{c0} ability.
+DIAG_ADAM_MAGMA_1_PAGE_5_B	The Phantom Cloak {c1}prevents the E.M.M.I. from detecting you.{c0} Thus far, your only option was to run. Now bypassing them is also an option. Use this to reach your objective.
+DIAG_ADAM_MAGMA_1_PAGE_6	Note that using the Phantom Cloak {c1}severely decreases your mobility{c0}.|And {c1}direct contact with an E.M.M.I. will still result in capture{c0}. It is up to|you whether to hold your position. Just {c1}be aware of your surroundings{c0}.
+DIAG_ADAM_MAGMA_1_PAGE_6_B	The {c1}Phantom Cloak is useless once an E.M.M.I. sees you{c0}. You will need to evade capture until it gives up pursuit.
+DIAG_ADAM_MAGMA_1_PAGE_7	The Phantom Cloak can remain active after your Aeion has been depleted. It will {c1}consume your life energy{c0} instead. Consider it a desperate measure. Remember, it {c1}cannot drain your energy down to nothing{c0}. Judicious use of this technique will improve your probability of survival.
+DIAG_ADAM_MAGMA_2_PAGE_1	E.M.M.I. stands for Extraplanetary Multiform Mobile Identifier. It can procedurally modify and enhance its own capabilities.
+DIAG_ADAM_MAGMA_2_PAGE_2	Its ability to configure itself to fit into narrow spaces is a standard feature. Any E.M.M.I. you encounter will likely do so as it pursues you.
+DIAG_ADAM_MAGMA_2_PAGE_3	You are not capable of destroying their armor plating. {c1}This would be true even at your full capabilities{c0}.
+DIAG_ADAM_MAGMA_2_PAGE_4	You are faced with overwhelming power. Accept your helplessness.
+DIAG_ADAM_MAGMA_2_PAGE_6	Study each E.M.M.I. carefully, and use the Phantom Cloak to advance. There are risks even here. The Phantom Cloak reduces your mobility and {c1}consumes more Aeion when you move or shoot{c0}. It is still your best chance at survival.
+DIAG_ADAM_MAGMA_2_PAGE_8	Do not hesitate to destroy an E.M.M.I. whenever you discover more|unique energy. This was not one of your original priorities. However, I see no other way to accomplish your goal. These existential threats cannot|be sanctioned.
+DIAG_ADAM_LAB_1_PAGE_1	This area, {c1}Dairon{c0}, appears to be a biological-research laboratory. You have already reactivated one generator in this area. There is another sector above you still suffering from the blackout. Find the next generator and reactivate it.
+DIAG_ADAM_LAB_1_PAGE_2	You are slowly recovering your abilities. I have still not established what happened to you physically. Don't let your guard down. Your primary objective is to survive. Proceed with the utmost care.
+DIAG_ADAM_AQUA_1_PAGE_1	The lower levels of {c1}Burenia{c0} are mostly submerged. You will need your Gravity Suit to operate there at full efficiency.
+DIAG_ADAM_AQUA_1_PAGE_2	Abilities such as the Grapple Beam or Space Jump will {c1}help you maneuver underwater{c0} to an extent. Find them as soon as possible.
+CAPTION_PROFESSOREVENT_PAGE_01	I am Quiet Robe, a scientist of the Thoha tribe.
+CAPTION_PROFESSOREVENT_PAGE_02	The Chozo who attacked you is called Raven Beak. 
+CAPTION_PROFESSOREVENT_PAGE_03	He possesses superior physical prowess and intelligence, and is the leader of a Chozo warrior tribe called the Mawkin.
+CAPTION_PROFESSOREVENT_PAGE_04	Aided by the Mawkin, a fellow tribe of the Chozo, we managed to contain the Metroids that were running rampant on SR388.
+CAPTION_PROFESSOREVENT_PAGE_05	Our intention was to eradicate these Metroids, which had become more dangerous than ever before, by destroying the planet.
+CAPTION_PROFESSOREVENT_PAGE_05_B	However...
+CAPTION_PROFESSOREVENT_PAGE_06	Raven Beak...took extreme measures to prevent that.
+CAPTION_PROFESSOREVENT_PAGE_07	He worships at the altar of power. In his eyes, the Metroids were...
+CAPTION_PROFESSOREVENT_PAGE_08	symbolic of a power great enough to rule the galaxy.
+CAPTION_PROFESSOREVENT_PAGE_09	Raven Beak plotted to bring the Metroids to ZDR and use them as a bioweapon.
+CAPTION_PROFESSOREVENT_PAGE_10	To accomplish this, he needed the Thoha tribe, as we possess the ability to control the Metroids.
+CAPTION_PROFESSOREVENT_PAGE_11	For that purpose, I alone was spared.
+CAPTION_PROFESSOREVENT_PAGE_11_B	Raven Beak and the Mawkin tribe took me back to their homeworld, ZDR, in order to continue their preparations for gathering Metroids.
+CAPTION_PROFESSOREVENT_PAGE_12	However, they ran into unforeseen difficulties and were forced to put their|plan on hold.
+CAPTION_PROFESSOREVENT_PAGE_13	One of the soldiers who returned from SR388 was actually an X in disguise. 
+CAPTION_PROFESSOREVENT_PAGE_14	ZDR descended into chaos. All of their soldiers were infected by the X.
+CAPTION_PROFESSOREVENT_PAGE_15	Yet somehow, Raven Beak narrowly managed to contain them. 
+CAPTION_PROFESSOREVENT_PAGE_16	He then turned his thoughts to resuming his plan...
+CAPTION_PROFESSOREVENT_PAGE_17	But the Metroids on SR388 had already been eradicated by your hand.
+CAPTION_PROFESSOREVENT_PAGE_18	With the Metroids now extinct...
+CAPTION_PROFESSOREVENT_PAGE_19	Raven Beak's plans should have lain in ruin.
+CAPTION_PROFESSOREVENT_PAGE_20	Yes, lain in ruin...if not for you.
+CAPTION_PROFESSOREVENT_PAGE_21	The E.M.M.I. are being used by Raven Beak. Samus Aran...listen well. He has commanded them to...
+CAPTION_PROFESSOREVENT_PAGE_22	extract the Metroid DNA from within your body.
+CAPTION_PROFESSOREVENT_PAGE_23	Don't worry...
+CAPTION_PROFESSOREVENT_PAGE_24	I'll end this. Once and for all.
+CAPTION_PROFESSOREVENT_PAGE_25	You must proceed this way—I have unlocked the gate.
+CAPTION_PROFESSOREVENT_PAGE_26	I am counting on you, Samus.
+DIAG_ADAM_LAB_2_PAGE_1	Our Thoha friend has explained much. We now know why the E.M.M.I. are pursuing you. Samus Aran, {c1}Raven Beak{c0} lured you here. He wants the Metroid DNA that exists only within you.
+DIAG_ADAM_LAB_2_PAGE_2	I have confirmed that Quiet Robe has {c1}deactivated all remaining E.M.M.I.{c0}|You should now be able to reach the surface unthreatened.
+DIAG_ADAM_LAB_2_PAGE_3	{c1}The route Quiet Robe opened is in Burenia{c0}. Return there immediately.
+DIAG_ADAM_FOREST_1_PAGE_1	Samus, you are approaching the surface. This area, {c1}Ghavoran{c0}, appears to be an underground forest.
+DIAG_ADAM_FOREST_1_PAGE_2	The E.M.M.I. have been deactivated. But Raven Beak still desires the Metroid DNA within you. I have reviewed the video log of your encounter after your arrival.
+DIAG_ADAM_FOREST_1_PAGE_3	You were no match for him then. You are no match for him now. It is true that you have recovered many of your combat abilities. However, my analysis suggests that you would not be a worthy adversary for him.|Not even at full power.
+DIAG_ADAM_FOREST_1_PAGE_4	One thing still eludes me. Why did Raven Beak spare you during that encounter? Something must have motivated him.
+CAPTION_QUARANTINE_PAGE_01	Scan complete.
+CAPTION_PROFESSORX_PAGE_01	I am counting on you.
+DIAG_ADAM_FOREST_2_PAGE_2	The X have been released from their confinement. They have now scattered across the planet. This is no doubt the work of Raven Beak.
+DIAG_ADAM_FOREST_2_PAGE_3	His motives are still a mystery. But your Metroid DNA grants you immunity to the X parasites. You can even absorb them. Perhaps it was some kind|of message.
+DIAG_ADAM_FOREST_2_PAGE_4	Regardless, the X are here. They are overrunning the planet. They must be destroyed. Hurry to your ship, Samus.
+DIAG_ADAM_FOREST_2_PAGE_5	I trust you will make it here safely.
+DIAG_ADAM_SANC_1_PAGE_1	This area, {c1}Ferenia{c0}, appears to have been a sanctuary. The Mawkin conducted ceremonies and rituals here. Now it all lies in ruin.
+DIAG_ADAM_SANC_1_PAGE_2	It was likely destroyed in the chaos following the X's arrival. That would match what Quiet Robe said.
+DIAG_ADAM_SANC_1_PAGE_3	They have turned it into a hive. I have also detected the presence of an unusually powerful X.
+DIAG_ADAM_SANC_1_PAGE_4	Recall that the E.M.M.I. in this area could {c1}see through terrain{c0} and {c1}stun targets with an electric shot{c0}.
+DIAG_ADAM_SANC_1_PAGE_4_B	My sensors indicate this E.M.M.I. has been reactivated. We can assume that Raven Beak is behind this too. Make good use of the Phantom Cloak and you should have nothing to fear.
+DIAG_ADAM_SANC_1_PAGE_5	Be careful, Samus.
+DIAG_ADAM_AQUA_2_PAGE_1	The X have spread across the entire planet. Assume all living organisms have by now been replaced by X.
+DIAG_ADAM_AQUA_2_PAGE_2	There is another problem you may have noticed. {c1}The temperature of ZDR has started to fall{c0}.
+DIAG_ADAM_AQUA_2_PAGE_3	I cannot say for certain if the X are to blame. But the drop in temperature is indisputable. The Gravity Suit should keep you {c1}insulated from the effect of low temperatures{c0}. Even so, beware the unexpected, and proceed with caution.
+DIAG_ADAM_CAVE_4_PAGE_1	I have determined the reason for the planet's rapid cooling. Thermal energy is no longer being routed from {c1}Cataris{c0}.
+DIAG_ADAM_CAVE_4_PAGE_2	This area, {c1}Artaria{c0}, is located in the depths of the planet. Much of it will be {c1}frozen{c0}. Find a way to thaw any frozen doors and pools you encounter.
+DIAG_ADAM_CAVE_4_PAGE_3	The central control system you activated in {c1}Cataris{c0} is still operational. Some force must be physically blocking the routing of thermal energy.|I suspect a powerful X is involved. You must annihilate it.
+DIAG_ADAM_CAVE_4_PAGE_4	Return here after solving the problem. The cooling has prevented you from exploring this area. There must be a {c1}vital ability{c0} hidden somewhere here.
+DIAG_ADAM_AQUA_3_PAGE_1	Well done, Samus. You have stopped the planet from cooling. In addition, you have gained the Screw Attack ability. It will help you access previously unreachable places.
+DIAG_ADAM_AQUA_3_PAGE_2	You are far more combat ready than when you first arrived. But you are still not prepared to face Raven Beak. There is a very low probability of success in standing against him now.
+DIAG_ADAM_SHIP_1_PAGE_1	This area, {c1}Hanubia{c0}, is on the planet's surface. You've finally|made it, Samus.
+DIAG_ADAM_SHIP_1_PAGE_2	There is still a problem. Destroying the planet will eliminate the X parasites. But Raven Beak is unlikely to sit idly by as this happens. He will try to escape once he detects the danger.
+DIAG_ADAM_SHIP_1_PAGE_3	Raven Beak's search for Metroid DNA poses a threat to the galaxy.|He will never give up. The odds are still not in your favor. But you must|end things here.
+DIAG_ADAM_SHIP_1_PAGE_4	I am searching for his location. {c1}Return here later for an update{c0}.
+DIAG_ADAM_SHIP_2_PAGE_1	Samus, you have manifested a new power. The speed with which you siphon energy is undoubtedly Metroid in nature. 
+DIAG_ADAM_SHIP_2_PAGE_2	The Metroid DNA inside you must have fully awakened. No doubt as a result of the many battles you have fought on this mission. 
+DIAG_ADAM_SHIP_2_PAGE_3	This tremendous power is the last thing you required to confront|Raven Beak.
+DIAG_ADAM_SHIP_2_PAGE_4	I have detected a {c1}fortress in the sky{c0} high above Hanubia. He must be there.
+DIAG_ADAM_SHIP_2_PAGE_5	The time has come. Samus, fulfill your destiny.
+DIAG_ADAM_FINAL_PAGE_01	It appears your Metroid DNA has {c1}caused you to become a Metroid{c0}. Ordinarily, this would have happened immediately after the DNA transplant.
+DIAG_ADAM_FINAL_PAGE_02	Your {c1}Thoha genes{c0} must have {c1}slowed down the process{c0}. They were the only tribe capable of controlling the Metroids.
+DIAG_ADAM_FINAL_PAGE_03	Though you possess their DNA, you are not a Thoha. Your physical prowess suggests that you must also possess {c1}Mawkin DNA{c0}.
+DIAG_ADAM_FINAL_PAGE_04	Metroids are programmed to identify Mawkin as enemies. This suggests one thing to me.
+DIAG_ADAM_FINAL_PAGE_05	It is very probable that your metamorphosis occurred as a result of Raven Beak's attack. His presence awakened the Metroid's killer instinct.
+DIAG_ADAM_FINAL_PAGE_06	Since then, your metamorphosis has accelerated. It {c1}can no longer{c0}|{c1}be controlled{c0}.
+DIAG_ADAM_FINAL_PAGE_07	You are now a Metroid, Samus Aran. Your very existence poses a grave threat to the galaxy.
+DIAG_ADAM_FINAL_PAGE_08	However, there is no need to fear. You can still contribute to galactic peace. You need only use your new powers correctly.
+DIAG_ADAM_FINAL_PAGE_09	You have followed my instructions faithfully so far. Continue to do so. It's that simple.
+DIAG_ADAM_FINAL_PAGE_10	I consider your performance here on ZDR highly satisfactory. As I hoped, it has even awakened your Metroid powers.
+DIAG_ADAM_FINAL_PAGE_11	I was right to let you live during our first encounter.|That one glimpse you showed told me everything.
+DIAG_ADAM_FINAL_PAGE_12	Submit and offer up your power. My plan is the only way to bring order to the galaxy.
+DIAG_ADAM_FINAL_PAGE_13	Fulfill your destiny, Samus. This is an order. Disobedience will not be tolerated.
+DIAG_ADAM_FINAL_PAGE_14	You disappoint me...
+DIAG_ADAM_FINAL_PAGE_15	my daughter.
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_01	Did you truly believe you could defeat me? You overestimate yourself.
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_02	You no longer serve any purpose. Even your Metroid DNA is no longer necessary.|Do you want to know why?
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_03	It is because I can now clone an army of the most powerful Metroid of all...|Samus Aran.
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_04	No one can stand in my way. Not even you.
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_05	Foolish daughter... Leave the galaxy to me. Close your eyes and rest. 
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_06	Power...is everything.
+CAPTION_COMMANDERX_PAGE_01	Samuuuuus!
+CAPTION_COMMANDERX_PAGE_02	Power is everything!
+CAPTION_COMMANDERX_PAGE_03	There is no power without sacrifice.
+CAPTION_ENDGAME_PAGE_1	Don't.
+CAPTION_ENDGAME_PAGE_2	You'll drain the ship of its energy.

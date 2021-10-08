@@ -1,0 +1,824 @@
+simplified_chinese.txt
+CREDIT_A_SUBTITLE_COMPANY_NAME_1	© Nintendo|Nintendo and Mercury Steam Entertainment are the authors of this software for the purpose of copyright. All rights reserved.|Nintendo et Mercury Steam Entertainment sont les auteurs de ce logiciel au regard du droit d'auteur. Tous droits réservés.
+ERROR_CODE_2115-0080	请关闭飞行模式。||可以在快速设置（长按᠏）中更改。
+ERROR_CODE_2115-0128	发生错误。||请再试一次。
+ERROR_CODE_2115-0144	amiibo的数据已损坏。||请在使用过该amiibo的游戏主机上尝试恢复，或在HOME菜单的᠏（设置）→“amiibo”中初始化amiibo。
+ERROR_CODE_2115-0160	发生错误。||请再试一次。
+ERROR_CODE_2115-0168	发生错误。||请再试一次。
+ERROR_CODE_2115-0176	这不是amiibo。
+ERROR_CODE_2115-0177	这不是amiibo。
+ERROR_CODE_2115-0178	这不是amiibo。
+ERROR_CODE_2115-0179	这不是amiibo。
+ERROR_CODE_2115-0180	这不是amiibo。
+ERROR_CODE_2115-0181	这不是amiibo。
+ERROR_CODE_2115-0182	这不是amiibo。
+ERROR_CODE_2115-0183	这不是amiibo。
+ERROR_CODE_2115-0184	不支持该amiibo。
+ERROR_CODE_2115-0192	发生错误。||请再试一次。
+ERROR_CODE_2115-0200	发生错误。||请再试一次。
+ERROR_CODE_2115-0064	请连接可以读取amiibo的手柄。|通过有线连接使用Nintendo Switch Pro手柄时，|请拔下USB充电线后重试。
+APP_GAMEMODE_HARD	困难模式
+APP_GAMEMODE_NORMAL	普通模式
+GUI_AMIIBO_FTUE	扫描密特罗德相关的amiibo，|可以强化萨姆斯或是随机回复资源。|相同的amiibo回复功能，一天只能使用一次。
+GUI_AMIIBO_HEADER	使用amiibo
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ALREADY_USED	今天已使用过该amiibo。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_PLUS_TANK	获得了追加的导弹进阶包。|可持有最大值增加10。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_PLUS_TANK	获得了追加的能量包。|能量最大值提高100。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_1	导弹已回复15。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_2	导弹已回复30。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_AMMO_REFILL_3	导弹已回复60。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_1	能量已回复50。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_2	能量已回复100。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_ENERGY_REFILL_3	能量已回复200。
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_AMMO_FILLED	导弹已全满。|该amiibo将没有回复效果。
+GUI_AMIIBO_STATE_EFFECTS_ALREADY_ENERGY_FILLED	能量已全满。|该amiibo将没有回复效果。
+GUI_AMIIBO_STATE_EFFECTS_APPLY_NOEFFECT	不支持该amiibo。
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_DAMAGE	受到伤害期间无法使用amiibo。
+GUI_AMIIBO_STATE_EFFECTS_DISABLED_HYPERSUIT	在装备密特罗德服状态下无法使用amiibo。
+GUI_AMIIBO_STATE_ERROR_READ	读取amiibo的数据时发生了错误。
+GUI_AMIIBO_STATE_OK_CZDR_EMMY	amiibo读取成功：|METROID: E.M.M.I.
+GUI_AMIIBO_STATE_OK_CZDR_SAMUS	amiibo读取成功：|METROID: SAMUS
+GUI_AMIIBO_STATE_OK_SR_METROID	amiibo读取成功：|METROID: METROID
+GUI_AMIIBO_STATE_OK_SR_SAMUS	amiibo读取成功：|METROID: SAMUS ARAN
+GUI_AMIIBO_STATE_OK_SSB_DARKSAMUS	amiibo读取成功：|SUPER SMASH BROS. DARK SAMUS
+GUI_AMIIBO_STATE_OK_SSB_RIDLEY	amiibo读取成功：|SUPER SMASH BROS. RIDLEY
+GUI_AMIIBO_STATE_OK_SSB_SAMUS	amiibo读取成功：|SUPER SMASH BROS. SAMUS
+GUI_AMIIBO_STATE_OK_SSB_ZSSAMUS	amiibo读取成功：|SUPER SMASH BROS. ZERO SUIT SAMUS
+GUI_AMIIBO_STATE_READING	数据读取中……
+GUI_AMIIBO_STATE_WAIT	请用amiibo触碰NFC区域。
+GUI_A_ACCEPT	᠀ 确定
+GUI_A_ACCEPT_DEATH	᠀ 继续
+GUI_B_BACK	᠁ 取消
+GUI_B_BACK_DEATH	᠁ 结束游戏
+GUI_B_CONFIRM	᠁ 确定
+GUI_CONTROLS_LABEL_B	᠁ 跳跃
+GUI_CONTROLS_LABEL_L	自由瞄准 ᠄
+GUI_CONTROLS_LABEL_LEFT	展开迷你地图 ᠓
+GUI_CONTROLS_LABEL_LS	移动 ᠝
+GUI_CONTROLS_LABEL_MINUS	选项 ᠊
+GUI_CONTROLS_LABEL_PLUS	᠌ 地图
+GUI_CONTROLS_LABEL_R	᠅ 导弹模式
+GUI_CONTROLS_LABEL_X	᠂ 近战反击
+GUI_CONTROLS_LABEL_X_2	（奔跑时：冲刺近战）
+GUI_CONTROLS_LABEL_Y	᠃ 射击
+GUI_CONTROLS_LABEL_ZL	滑行 ᠆
+GUI_DEATH_TITLE_CONTINUE	继续
+GUI_DEATH_TITLE_GAMEOVER	GAME OVER
+GUI_DEATH_TITLE_GAMEOVER_COUNTDOWN	逃脱失败
+GUI_DEATH_TITLE_QUIT	返回主菜单
+GUI_DIFSELECTOR_GAMEMODE_HARD_LOCKED	{Sprites:LOCKED } 困难模式
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_LOCKED	用普通模式过关解锁。
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_HARD_UNLOCKED	专为高手设计的模式
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_NORMAL	一般难度的游玩模式
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_1	文件 1 - 选择难度
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_2	文件 2 - 选择难度
+GUI_DIFSELECTOR_LABEL_TITLE_DIFSELECT_3	文件 3 - 选择难度
+GUI_ENDING_CELEBRATION	下个任务再见！
+GUI_ENDING_CLEAR_TIME	CLEAR TIME
+GUI_ENDING_MISSION_COMPLETE	MISSION COMPLETE
+GUI_FILEEXTRAS_CREDITS	制作人员
+GUI_FILEEXTRAS_GALLERY	画廊
+GUI_FILEEXTRAS_GALLERY_TITLE	画廊
+GUI_FILEEXTRAS_MISSION_LOG	任务记录
+GUI_FILEMENU_HEADER_1	文件 1
+GUI_FILEMENU_HEADER_2	文件 2
+GUI_FILEMENU_HEADER_3	文件 3
+GUI_FILEMENU_LABEL_CONTINUE	继续
+GUI_FILEMENU_LABEL_EXTRAS	额外
+GUI_FILEMENU_LABEL_NEW	新游戏
+GUI_FILEMENU_PROMPT_NEWCHOZOMEMORIES	画廊已解锁新内容。
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_1	开始新游戏的话，将删除旧的数据。||可以吗？
+GUI_FILEMENU_PROMPT_NEWGAME_CONFIRM_2	确定要删除旧的数据，开始新游戏吗？
+GUI_FILEMENU_PROMPT_NEWGAME_HEADER	开始新游戏
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_1	用文件1开始新游戏 （空）
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_2	用文件2开始新游戏 （空）
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_EMPTY_3	用文件3开始新游戏 （空）
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_1	用文件1开始新游戏 （使用中）
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_2	用文件2开始新游戏 （使用中）
+GUI_FILEMENU_PROMPT_NEWGAME_SLOT_USED_3	用文件3开始新游戏 （使用中）
+GUI_FILESELECT_LABEL_EMPTYSLOT	空白数据
+GUI_FILESELECT_LABEL_ITEMS	道具
+GUI_FILESELECT_LABEL_TITLE_FILESELECT	萨姆斯文件
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_1	复制到文件1 （空白）
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_2	复制到文件2 （空白）
+GUI_FILESELECT_OPTIONS_LABEL_COPY_EMPTY_3	复制到文件3 （空白）
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_1	复制到文件1 （使用中）
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_2	复制到文件2 （使用中）
+GUI_FILESELECT_OPTIONS_LABEL_COPY_INUSE_3	复制到文件3 （使用中）
+GUI_FILESELECT_OPTIONS_LABEL_DELETE	删除数据
+GUI_FILESELECT_OPTIONS_PROMPT_COPY_REPORT_OK	已成功复制文件。
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_1	即将删除文件1的数据。||可以吗？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_2	即将删除文件2的数据。||可以吗？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_CONFIRM_3	即将删除文件3的数据。||可以吗？
+GUI_FILESELECT_OPTIONS_PROMPT_DELETE_REPORT_OK	已成功删除文件。
+GUI_FILESELECT_OPTIONS_PROMPT_ERROR	操作过程中发生意外错误。
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_1	文件1已在使用中。||是否要覆盖？
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_2	文件2已在使用中。||是否要覆盖？
+GUI_FILESELECT_OPTIONS_PROMPT_OVWR_CONFIRM_3	文件3已在使用中。||是否要覆盖？
+GUI_FILESELECT_OPTIONS_PROMPT_SECOND_CONFIRM	注意：即将删除保存数据。||确定可以吗？
+GUI_FILESELECT_OPTIONS_TITLE_FILE_1	文件 1 - 选项
+GUI_FILESELECT_OPTIONS_TITLE_FILE_2	文件 2 - 选项
+GUI_FILESELECT_OPTIONS_TITLE_FILE_3	文件 3 - 选项
+GUI_FILESELECT_PROMPT_HARDMODEUNLOCK	困难模式已解锁。
+GUI_GALLERY_BUTTON_HIDEUI	᠂ 隐藏显示
+GUI_GALLERY_CATEGORY_ENDING	通关奖励
+GUI_GALLERY_CATEGORY_ITEM	鸟人档案
+GUI_CHOZOARCHIVES_TITLE	鸟人档案
+GUI_GAMMA_LABEL_DESCRIPTION	请调整亮度，直至能略微看清楚左边的图。|也可以在游戏内的选项中进行亮度设置的更改。
+GUI_GAMMA_LABEL_DESCRIPTION_OPTIONS	请调整亮度，直至能略微看清楚左边的图。
+GUI_GAMMA_LABEL_CONFIRM	要保存目前的设置吗？|亮度的调整也可以在游戏内的选项中进行设置的变更。
+GUI_GAMMA_LABEL_CONFIRM_OPTIONS	要保存设置吗？
+GUI_GENERAL_LABEL_ACCEPT	᠀ 确定
+GUI_GENERAL_LABEL_BACK	᠁ 返回
+GUI_GENERAL_LABEL_CANCEL	᠁ 取消
+GUI_GENERAL_LABEL_CLOSE	᠌ 关闭
+GUI_GENERAL_LABEL_OFF	关闭
+GUI_GENERAL_LABEL_ON	开启
+GUI_GENERAL_LABEL_OPTIONS	选项
+GUI_GENERAL_LABEL_UNKNOWN	？？？
+GUI_LOG_EVENTS	᠆ 活动
+GUI_LOG_TUTORIALS	教学 ᠇
+GUI_MAPMENU_CUSTOMMARKER_LABEL_HEADER	剩余标记数量
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVE	移除
+GUI_MAPMENU_CUSTOMMARKER_LABEL_REMOVEALL	᠂ 全部移除
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETE	要移除选择的标记吗？
+GUI_MAPMENU_CUSTOMMARKER_WARNING_DELETEALL	要将目前所在地区的标记全部移除吗？
+GUI_MAPMENU_LABEL_BACK	᠁ 返回
+GUI_MAPMENU_LABEL_CHANGE_AREA	ᠯ 变更地图
+GUI_MAPMENU_LABEL_CLOSE	᠁ 关闭
+GUI_MAPMENU_LABEL_EMMIS_REMAINING	E.M.M.I.剩余数量
+GUI_MAPMENU_LABEL_FAST_MODE	ᠴ 高速光标
+GUI_MAPMENU_LABEL_GLOBAL_MAP	᠂ 全区地图
+GUI_MAPMENU_LABEL_ICON_LIST	᠃ 图标列表
+GUI_MAPMENU_LABEL_ITEMS	道具
+GUI_MAPMENU_LABEL_MOVE_MAP	ᠯ 移动地图
+GUI_MAPMENU_LABEL_PLACE_MARKER	᠀ 设置标记
+GUI_MAPMENU_LABEL_REMOVE_MARKER	᠀ 移除标记
+GUI_MAPMENU_LABEL_RECENTER_SAMUS	ᠰ 重置位置
+GUI_MAPMENU_LABEL_SELECT_AREA	᠀ 选择区域
+GUI_MAPMENU_LABEL_ZOOM_IN_OUT	ᠷᠸ 缩小/放大
+GUI_MAPMENU_LABEL_NAVIGATION	导览 ᠐
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS	᠃ 高亮图标
+GUI_MAPMENU_LABEL_HIGHLIGHT_ICONS_DESELECT	᠃ 取消选择
+GUI_MAPMENU_LABEL_NAVIGATION_CLOSE	导览 ᠕
+GUI_MAPMENU_LABEL_SELECT_TELEPORT	请选择目的地
+GUI_MAPMENU_NOTIFY_FREE_TELEPORT	地图上的传送口已建立连接。
+GUI_MAPMENU_LABEL_CONFIRM_TELEPORT	᠀ 确定目的地
+GUI_MAPMENU_LABEL_CANCEL_TELEPORT	᠁ 取消
+GUI_MAPMENU_LABEL_NO_TELEPORT	没有可供选择的传送口。
+GUI_MAPMENU_TITLE	地图
+GUI_MISSIONLOG_TITLE	任务记录
+GUI_MSG_PRESS_START	按᠀开始
+GUI_OPTIONS_LABEL_AMIIBO	amiibo
+GUI_OPTIONS_LABEL_CONTROLS	操作
+GUI_OPTIONS_LABEL_CONTROLS_TITLE	操作
+GUI_OPTIONS_LABEL_GAMMA	亮度设置
+GUI_OPTIONS_LABEL_GAMMA_TITLE	亮度设置
+GUI_OPTIONS_LABEL_LOAD_LASTCP	读取上一个检查点
+GUI_OPTIONS_LABEL_LOAD_LASTSAVE	读取上一次的保存数据
+GUI_OPTIONS_LABEL_QUIT	返回主菜单
+GUI_OPTIONS_LABEL_RUMBLE_OFF	振动 （关闭）
+GUI_OPTIONS_LABEL_RUMBLE_ON	振动 （开启）
+GUI_OPTIONS_LABEL_SYSTEM	系统
+GUI_OPTIONS_LABEL_SYSTEM_TITLE	系统
+GUI_OPTIONS_PROMPT_LOAD_CHECKPOINT	返回上一个检查点，|尚未保存的进度将丢失。|可以吗？
+GUI_OPTIONS_PROMPT_LOAD_SAVEGAME	返回上一次的保存地点，|尚未保存的进度将丢失。|可以吗？
+GUI_OPTIONS_PROMPT_QUIT	尚未保存的进度将丢失。|可以吗？
+GUI_PLUS_BUTTON	᠌
+GUI_PRESS_A	ᠩ
+GUI_A_BUTTON	᠀
+GUI_B_BUTTON	᠁
+GUI_L_BUTTON	᠄
+GUI_R_BUTTON	᠅
+GUI_LEFT_STICK	᠝
+GUI_R_STICK_PRESSED	ᠤ
+GUI_ARROW_UP	ᠹ
+GUI_ARROW_UP_BIG	ᡀ
+GUI_ARROW_DOWN	ᠩ
+GUI_ARROW_DOWN_BIG	ᡁ
+GUI_SAMUSMENU_DESCR_BOMB	在变形球状态下可以使用的炸弹。||可给予敌人伤害、破坏{c1}炸弹砖块{c0}。|如爆炸地点有隐藏砖块，还可以让{c1}隐藏砖块现形{c0}。||变形球状态下的萨姆斯，|只要碰到爆炸冲击波就会被弹开。||炸弹爆炸时的能量还可以启动{c1}变形球发射器{c0}。||在变形球状态下按᠃即可设置。
+GUI_SAMUSMENU_DESCR_CHARGE_BEAM	可以积蓄光束能量一次性释放。||除了能对{c1}机器人系的敌人和头目{c0}造成伤害，|还可以打开{c1}蓄光束门{c0}。||按住᠃进行蓄力，放开按键发射。||在{c1}蓄满能量的状态下回旋跳{c0}的话，|可以进行蓄力攻击。
+GUI_SAMUSMENU_DESCR_DIFUSSION_CHARGE	被蓄光束击中时会引起大范围爆炸。|爆炸会{c1}穿透地形{c0}。||按住᠃蓄满能量，放开按键发射。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP	在回旋跳时还能{c1}再跳跃一次{c0}。||需要在回旋跳时看准时机再按一次᠁。||在水中也可以做到，但是在{c1}没有重力服的情况下{c0}，再跳一次的高度无法比第一次高。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_GRAVITY	在回旋跳时还能{c1}再跳跃一次{c0}。||需要在回旋跳时看准时机再按一次᠁。
+GUI_SAMUSMENU_DESCR_DOUBLE_JUMP_VARIA	在回旋跳时还能{c1}再跳跃一次{c0}。||需要在回旋跳时看准时机再按一次᠁。||在水中也可以做到，但是在{c1}没有重力服的情况下{c0}，再跳一次的高度无法比第一次高。
+GUI_SAMUSMENU_DESCR_GHOST_DASH	一种战斗用的艾翁能力，可瞬间向前方或后方{c1}高速移动一定距离{c0}。||艾翁全满状态时，按住᠀的话可切换到{c1}闪光转移准备状态{c0}。|该状态下向前或向后推动᠝的话，即可向该方向高速移动。||另外，艾翁全满状态时，边推动᠝边按᠀也会发动。||{c1}在空中也可以使用{c0}。||进行闪光转移之后将会{c1}一次性消耗所有艾翁{c0}。||闪光转移后立即按住᠀，在特定的时机向前或向后再次推动᠝，{c1}可以再次发动闪光转移{c0}。|最多可连续发动{c1}两次{c0}。 |再次发动的闪光转移不消耗艾翁。
+GUI_SAMUSMENU_DESCR_GRAPPLE_BEAM	发射线状的光束，可与{c1}发出蓝色光的抓钩点{c0}连接。||按住᠇，再按᠃发射。|在连接状态下向反方向持续推动摇杆的话，会拖拽{c1}抓钩光束门{c0}、{c1}抓钩光束砖块{c0}和{c1}抓钩光束箱{c0}等。||如果与{c1}蜘蛛磁铁表面{c0}相连时，可让萨姆斯移动至该连接点。如果与{c1}抓钩摆动点{c0}相连时，萨姆斯可以左右摆动。
+GUI_SAMUSMENU_DESCR_GRAVITY_SUIT	大幅度减轻来自敌人的伤害，不会受到{c1}极寒区域{c0}和{c1}熔岩{c0}的伤害。|另外也可以在水中自由行动。||还可以少许提升冲刺近战的伤害。
+GUI_SAMUSMENU_DESCR_HYPER_BEAM	通过觉醒后的萨姆斯爆发的内在潜能，将手臂加农炮的能力集中到一起。成为可以{c1}破坏一切{c0}威力惊人的光束。||按住᠃发射。
+GUI_SAMUSMENU_DESCR_ICE_MISSILE	追加{c1}冻结效果{c0}的导弹。||按住᠅，再按᠃发射。|会消耗1发导弹。
+GUI_SAMUSMENU_DESCR_LINE_BOMB	从设置处向{c1}上下左右发散爆炸{c0}的强力炸弹。||在变形球状态下按住᠅，再按᠃设置。
+GUI_SAMUSMENU_DESCR_MISSILE	从萨姆斯的手臂加农炮进行发射的基础副武器。||会发射攻击力高的导弹，也能对{c1}机器人系的敌人和头目{c0}给予伤害。||可以破坏{c1}导弹砖块{c0}和{c1}导弹罩{c0}。还可以让击中地点的{c1}隐藏砖块现形{c0}。||按住᠅，再按᠃发射。|会消耗1发导弹。
+GUI_SAMUSMENU_DESCR_MORPHBALL	可以变小变圆，{c1}能够进入狭窄的通道等{c0}。||通过按᠆，或是在下蹲状态下推᠝变形。|变形球状态下，按᠁的话{c1}可以跳跃{c0}。||如果遇到{c1}接近地面的狭窄通道{c0}，|往通道方向边推᠝边按᠁，|就可以自动变为变形球从而进入通道。||另外，{c1}在抓住狭窄通道时{c0}，|往通道方向推摇杆，|就可以自动变为变形球从而进入通道。
+GUI_SAMUSMENU_DESCR_MULTI_LOCK-ON_MISSILE	锁定目标之后，会连续发射数枚小型诱导导弹。||可以同时攻击锁定状态的多个目标。{c1}对于带电无敌状态的敌人也有效{c0}。||也能够触发{c1}暴风导弹箱{c0}。||按住᠅，蓄力完成之后，会出现{c1}黄色镭射指示器{c0}。|用此镭射指示器对准目标的话会有锁定标记。|一次最多可以锁定{c1}5个{c0}目标。|在有锁定标记的状态下按᠃的话，会发射数枚小型导弹。||每个锁定目标会{c1}消耗3发导弹{c0}。
+GUI_SAMUSMENU_DESCR_OPTICAL_CAMO	隐秘行动中使用的艾翁能力。可以通过折射光{c1}将萨姆斯变为透明状态{c0}。|从而从敌人的视野中隐形。|另外，虽然移动速度会变慢，|但可以{c1}不发出声音地移动{c0}。||在艾翁全满状态下，按ᠴ变为透明状态。|在透明状态时，按ᠴ解除透明状态。||在透明状态期间会{c1}持续消耗艾翁{c0}。|在透明状态下移动或射击等会消耗更多艾翁。|在艾翁变为0的状态下维持透明状态的话，|则会{c1}持续消耗HP{c0}来代替艾翁。|在该状态下HP变为1的话，会自动解除。||{c1}在透明状态解除后，进行其他行动的话，{c0}艾翁将会自动回复。|{c1}在还未回复满前，不能发动该能力{c0}。
+GUI_SAMUSMENU_DESCR_PLASMA_BEAM	集中等离子能量发射，|{c1}可以穿透多个敌人{c0}的强力光束。|无需蓄力也能对机器人系的敌人给予伤害。||还可以破坏{c1}等离子光束罩{c0}。||按᠃发射。
+GUI_SAMUSMENU_DESCR_POWER_BEAM	从萨姆斯的手臂加农炮发射的基本光束。||按᠃发射。|也可以连按᠃连续发射。
+GUI_SAMUSMENU_DESCR_POWER_BOMB	{c1}以骇人的热量引起大范围爆炸的{c0}非常强力的炸弹。||可以破坏{c1}重磅炸弹砖块{c0}。||在变形球状态下，按住᠅蓄满能量后按᠃设置。|需要消耗1发重磅炸弹。
+GUI_SAMUSMENU_DESCR_POWER_SUIT	萨姆斯的基本服装。
+GUI_SAMUSMENU_DESCR_SCREW_ATTACK	在回旋跳时，全身覆盖超高输出的能量，可以{c1}通过撞击{c0}给予敌人伤害。||对于{c1}带电无敌状态的敌人{c0}也有效。||还可以破坏{c1}团身旋击砖块{c0}。
+GUI_SAMUSMENU_DESCR_SONAR	用于搜寻的艾翁能力。|通过发出特殊声波来{c1}扫描周围环境{c0}。|可以侦测到隐藏砖块的位置。||艾翁全满状态时，按住᠒发动。||发动时会{c1}消耗所有艾翁{c0}。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP	可以在空中{c1}连续跳跃{c0}。||回旋跳时，看准时机再按᠁可以在空中跳跃。||在水中也可以做到，但是在{c1}没有重力服的情况下{c0}，再跳一次的高度无法比第一次高。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_GRAVITY	可以在空中{c1}连续跳跃{c0}。||回旋跳时，看准时机再按᠁可以在空中跳跃。
+GUI_SAMUSMENU_DESCR_SPACE_JUMP_VARIA	可以在空中{c1}连续跳跃{c0}。||回旋跳时，看准时机再按᠁可以在空中跳跃。||水中也可以做到，但是在{c1}没有重力服的情况下{c0}，再跳一次的高度无法比第一次高。
+GUI_SAMUSMENU_DESCR_SPEED_BOOSTER	助跑后，以超高速持续奔跑。||会对奔跑中撞击到的敌人造成伤害，可以破坏{c1}加速器砖块{c0}。||奔跑时按下᠝，会进入{c1}加速器准备状态{c0}。|持续奔跑一定距离后，会发动加速器。||另外，在加速器效果期间，也可以使用{c1}能向固定方向持续直线飞行的{c0}凤凰之舞。||在加速器效果期间，向下推᠝会进入{c1}凤凰之舞准备状态{c0}。在该状态下按᠁，启动之后再往想要飞行的方向推动᠝，便会发动凤凰之舞。
+GUI_SAMUSMENU_DESCR_SPIDER_MAGNET	通过磁力可抓住{c1}有蓝色磁铁表面的墙壁或天花板{c0}。||向着有蓝色磁铁表面的墙壁或天花板推᠝并触摸的话就能抓住。|可以在抓住的状态下{c1}移动或攻击{c0}。|抓住天花板的状态下，持续向上推᠝的话，就会变为{c1}贴在天花板上的姿势{c0}。
+GUI_SAMUSMENU_DESCR_SUPER_MISSILE	导弹的{c1}攻击力会进一步强化{c0}。||可以破坏{c1}超级导弹罩{c0}。||按住᠅，再按᠃发射。|会消耗1发导弹。
+GUI_SAMUSMENU_DESCR_VARIA_SUIT	会减轻来自敌人的伤害，且免受{c1}高热区域{c0}的伤害。|但仍会受到来自{c1}极寒区域{c0}和{c1}熔岩{c0}的伤害。||还可以少许提高冲刺近战的伤害。
+GUI_SAMUSMENU_DESCR_WAVE_BEAM	发射波动能量，{c1}可以穿透地形和障碍物的{c0}光束。||还可以破坏{c1}波动光束罩{c0}。||按᠃发射。
+GUI_SAMUSMENU_DESCR_WIDE_BEAM	一次可以发射3道光束。||还可以移动{c1}宽光束箱{c0}或是破坏{c1}宽光束罩{c0}。||按᠃发射。
+GUI_SAMUSMENU_DESCR_HYPER_SUIT	萨姆斯体内密特罗德的DNA失控，变成了本质上是密特罗德的生物体。
+GUI_SAMUSMENU_NAME_BOMB	炸弹
+GUI_SAMUSMENU_NAME_CHARGE_BEAM	蓄光束
+GUI_SAMUSMENU_NAME_DIFUSSION_CHARGE	散射光束
+GUI_SAMUSMENU_NAME_DOUBLE_JUMP	旋转推进
+GUI_SAMUSMENU_NAME_GHOST_DASH	闪光转移
+GUI_SAMUSMENU_NAME_GRAPPLE_BEAM	抓钩光束
+GUI_SAMUSMENU_NAME_GRAVITY_SUIT	重力服
+GUI_SAMUSMENU_NAME_HYPER_BEAM	强力光束
+GUI_SAMUSMENU_NAME_ICE_MISSILE	冰冻导弹
+GUI_SAMUSMENU_NAME_LINE_BOMB	十字炸弹
+GUI_SAMUSMENU_NAME_MISSILE	导弹
+GUI_SAMUSMENU_NAME_MORPHBALL	变形球
+GUI_SAMUSMENU_NAME_MULTI_LOCKON_MISSILE	暴风导弹
+GUI_SAMUSMENU_NAME_OPTICAL_CAMO	幻影斗篷
+GUI_SAMUSMENU_NAME_PLASMA_BEAM	等离子光束
+GUI_SAMUSMENU_NAME_POWER_BEAM	加强光束
+GUI_SAMUSMENU_NAME_POWER_BOMB	重磅炸弹
+GUI_SAMUSMENU_NAME_POWER_SUIT	普通服
+GUI_SAMUSMENU_NAME_SCREW_ATTACK	团身旋击
+GUI_SAMUSMENU_NAME_SONAR	脉冲雷达
+GUI_SAMUSMENU_NAME_SPACE_JUMP	连跳
+GUI_SAMUSMENU_NAME_SPEED_BOOSTER	加速器
+GUI_SAMUSMENU_NAME_SPIDER_MAGNET	蜘蛛磁铁
+GUI_SAMUSMENU_NAME_SUPER_MISSILE	超级导弹
+GUI_SAMUSMENU_NAME_VARIA_SUIT	防护服
+GUI_SAMUSMENU_NAME_WAVE_BEAM	波动光束
+GUI_SAMUSMENU_NAME_WIDE_BEAM	宽光束
+GUI_SAMUSMENU_NAME_HYPER_SUIT	密特罗德服
+GUI_SAMUSMENU_SECTION_AEION	艾翁
+GUI_SAMUSMENU_SECTION_BEAMS	光束
+GUI_SAMUSMENU_SECTION_BOMBS	炸弹
+GUI_SAMUSMENU_SECTION_MISC	其他
+GUI_SAMUSMENU_SECTION_MISSILE	导弹
+GUI_SAMUSMENU_SECTION_MORPHBALL	变形球
+GUI_SAMUSMENU_SECTION_SUIT	服装
+GUI_SAMUSMENU_SHORTLABEL_BOMB	炸弹
+GUI_SAMUSMENU_SHORTLABEL_CHARGE_BEAM	蓄光束
+GUI_SAMUSMENU_SHORTLABEL_DIFUSSION_CHARGE	散射光束
+GUI_SAMUSMENU_SHORTLABEL_DOUBLE_JUMP	旋转推进
+GUI_SAMUSMENU_SHORTLABEL_GHOST_DASH	闪光转移
+GUI_SAMUSMENU_SHORTLABEL_GRAPPLE_BEAM	抓钩光束
+GUI_SAMUSMENU_SHORTLABEL_GRAVITY_SUIT	重力服
+GUI_SAMUSMENU_SHORTLABEL_HYPER_BEAM	强力光束
+GUI_SAMUSMENU_SHORTLABEL_ICE_MISSILE	冰冻导弹
+GUI_SAMUSMENU_SHORTLABEL_LINE_BOMB	十字炸弹
+GUI_SAMUSMENU_SHORTLABEL_MISSILE	导弹
+GUI_SAMUSMENU_SHORTLABEL_MORPHBALL	变形球
+GUI_SAMUSMENU_SHORTLABEL_MULTI_LOCK-ON	暴风导弹
+GUI_SAMUSMENU_SHORTLABEL_OPTICAL_CAMO	幻影斗篷
+GUI_SAMUSMENU_SHORTLABEL_PLASMA_BEAM	等离子光束
+GUI_SAMUSMENU_SHORTLABEL_POWER_BEAM	加强光束
+GUI_SAMUSMENU_SHORTLABEL_POWER_BOMB	重磅炸弹
+GUI_SAMUSMENU_SHORTLABEL_POWER_SUIT	普通服
+GUI_SAMUSMENU_SHORTLABEL_SCREW_ATTACK	团身旋击
+GUI_SAMUSMENU_SHORTLABEL_SONAR	脉冲雷达
+GUI_SAMUSMENU_SHORTLABEL_SPACE_JUMP	连跳
+GUI_SAMUSMENU_SHORTLABEL_SPEED_BOOSTER	加速器
+GUI_SAMUSMENU_SHORTLABEL_SPIDER_MAGNET	蜘蛛磁铁
+GUI_SAMUSMENU_SHORTLABEL_SUPER_MISSILE	超级导弹
+GUI_SAMUSMENU_SHORTLABEL_VARIA_SUIT	防护服
+GUI_SAMUSMENU_SHORTLABEL_WAVE_BEAM	波动光束
+GUI_SAMUSMENU_SHORTLABEL_WIDE_BEAM	宽光束
+GUI_SAMUSMENU_SHORTLABEL_HYPER_SUIT	密特罗德服
+GUI_SAMUSMENU_TITLE	萨姆斯
+GUI_SKIP_CINEMATIC	按᠊跳过
+GUI_TITLE_LABEL_OPTIONS	᠊ 选项
+GUI_TOTALRECHARGE_CANNOTUSE	能量已满
+GUI_TOTALRECHARGE_SUCCESS	已回复所有能量
+MAP_ICON_ACCESS_POINT	连接站
+MAP_ICON_AMMO_STATION	武器站
+MAP_ICON_BEAM_DOOR	光束门
+MAP_ICON_CENTRALUNIT	中央单位
+MAP_ICON_CENTRALUNIT_DOOR	中央单位门
+MAP_ICON_CHARGE_BEAM_DOOR	蓄光束门
+MAP_ICON_CHARGE_BEAM_DOOR_LOCKED	蓄光束门（关闭中）
+MAP_ICON_CUSTOM_MARKER	标记
+MAP_ICON_DOOR_CLOSED	禁止通行
+MAP_ICON_DOOR_OPEN	开放通行
+MAP_ICON_DOOR_LOCKED	光束门（关闭中）
+MAP_ICON_ELEVATOR	电梯
+MAP_ICON_EMMY	E.M.M.I.
+MAP_ICON_EMMY_DOOR	E.M.M.I.区域门
+MAP_ICON_EMMY_DOOR_CLOSED	E.M.M.I.区域门（关闭中）
+MAP_ICON_EMMY_VALVE	E.M.M.I.阀
+MAP_ICON_ENERGY_FRAGMENT	能量部件
+MAP_ICON_ENERGY_STATION	能量站
+MAP_ICON_ENERGY_TANK	能量包
+MAP_ICON_GRAPPLE_BEAM_BLOCK	抓钩光束砖块
+MAP_ICON_GRAPPLE_BEAM_BOX	抓钩光束箱
+MAP_ICON_GRAPPLE_BEAM_DOOR	抓钩光束门
+MAP_ICON_GRAPPLE_BEAM_POINT	抓钩摆动点
+MAP_ICON_GUNSHIP	宇宙舰艇
+MAP_ICON_HYPER_BEAM_DOOR	强力光束门
+MAP_ICON_INTERACTIVE_DEVICE	互动装置
+MAP_ICON_ACQUIRED_ITEM	已获得的道具
+MAP_ICON_ACQUIRED_ITEM_FEMALE	
+MAP_ICON_ITEM_CUBE	艾翁能力立方体
+MAP_ICON_ITEM_CUBE_ACQUIRED	已获得的艾翁能力立方体
+MAP_ICON_ITEM_SPHERE	能力球体
+MAP_ICON_ITEM_SPHERE_ACQUIRED	已获得的能力球体
+MAP_ICON_MAP_ROOM	地图站
+MAP_ICON_MISSILE_BLOCKAGE	导弹罩
+MAP_ICON_MISSILE_TANK	导弹包
+MAP_ICON_MISSILE_TANK_PLUS	导弹进阶包
+MAP_ICON_MORPHBALL_LAUNCHER	变形球发射器
+MAP_ICON_MORPHBALL_LAUNCHER_EXIT	变形球发射器（出口）
+MAP_ICON_MULTI_LOCK_TRAPDOOR	暴风导弹箱
+MAP_ICON_PLASMA_BEAM_BLOCKAGE	等离子光束罩
+MAP_ICON_POWERBOMB_TANK	重磅炸弹包
+MAP_ICON_PRESENCE_DOOR	感知门
+MAP_ICON_RAILWAY	穿梭器
+MAP_ICON_SAMUS	萨姆斯
+MAP_ICON_SAVE_ROOM	保存站
+MAP_ICON_SHUTTER	闸门
+MAP_ICON_SHUTTER_PLATFORM	闸门平台
+MAP_ICON_SUPER_MISSILE_BLOCKAGE	超级导弹罩
+MAP_ICON_TELEPORT_STATION	传送口
+MAP_ICON_TELEPORT_STATION_A	传送口（红）
+MAP_ICON_TELEPORT_STATION_E	传送口（紫）
+MAP_ICON_TELEPORT_STATION_I	传送口（黄）
+MAP_ICON_TELEPORT_STATION_O	传送口（绿）
+MAP_ICON_TELEPORT_STATION_U	传送口（深蓝）
+MAP_ICON_TELEPORT_STATION_X	传送口（蓝）
+MAP_ICON_TELEPORT_STATION_Y	传送口（橘）
+MAP_ICON_THERMAL_DOOR	热能门
+MAP_ICON_THERMAL_DOOR_CLOSED	热能门（关闭中）
+MAP_ICON_THERMAL_DOOR_OPEN	热能门（开启中）
+MAP_ICON_THERMAL_TRAP	热能暗门
+MAP_ICON_THERMAL_TRAP_CLOSED	热能暗门（关闭中）
+MAP_ICON_THERMAL_TRAP_OPEN	热能暗门（开启中）
+MAP_ICON_TOTAL_RECHARGE_STATION	总补给站
+MAP_ICON_TRANSPORT_CAPSULE	运输舱
+MAP_ICON_UNKNOWN	？？？
+MAP_ICON_WAVE_BEAM_BLOCKAGE	波动光束罩
+MAP_ICON_WIDE_BEAM_BLOCKAGE	宽光束罩
+MAP_ICON_WIDE_BEAM_BOX	宽光束箱
+MAP_ICON_WIDE_BEAM_DOOR	宽光束门
+MAP_ICON_BLOCK_BEAM	光束砖块
+MAP_ICON_BLOCK_BOMB	炸弹砖块
+MAP_ICON_BLOCK_MISSILE	导弹砖块
+MAP_ICON_BLOCK_PITFALL	陷阱砖块
+MAP_ICON_BLOCK_POWERBOMB	重磅炸弹砖块
+MAP_ICON_BLOCK_SCREW	团身旋击砖块
+MAP_ICON_BLOCK_SPEED	加速器砖块
+MAP_ICON_WAR_LOTUS	恩基
+MAP_ICON_BOSS	头目
+MAP_ICON_BOSS_DEFEATED	击败的头目
+MAP_ICON_PROP_OPEN	（打开中）
+MAP_ICON_PROP_CLOSED	（关闭中）
+MAP_ICON_BLOCK_DESTROYED	已破坏
+MAP_ICON_BLOCK_DESTROYED_FEMALE	
+MAP_ICON_DEVICE_USED	已使用
+MAP_ICON_DEVICE_USED_FEMALE	
+MAP_ICON_DOOR_FROZEN	冻结
+MAP_ICON_DOOR_FROZEN_FEMALE	
+GUI_COMPANY_TITLE_SCREEN	© Nintendo
+MAP_STATE_BEGIN	（
+MAP_STATE_END	）
+MLOG_ABILITY_BOMB	在戴隆获得了{c1}炸弹{c0}
+MLOG_ABILITY_CHARGE_BEAM	在阿尔塔利亚获得了{c1}蓄光束{c0}
+MLOG_ABILITY_DIFFUSION_BEAM	在卡塔利斯获得了{c1}散射光束{c0}
+MLOG_ABILITY_DOUBLE_JUMP	在贾柏蓝获得了{c1}旋转推进{c0}
+MLOG_ABILITY_GHOST_AURA	在巴尔艾尼亚获得了{c1}闪光转移{c0}
+MLOG_ABILITY_GRAPPLE_BEAM	在阿尔塔利亚获得了{c1}抓钩光束{c0}
+MLOG_ABILITY_GRAVITY_SUIT	在巴尔艾尼亚获得了{c1}重力服{c0}
+MLOG_ABILITY_HYPER_BEAM	在伊多拉修获得了{c1}强力光束{c0}
+MLOG_ABILITY_HYPER_SUIT	在伊多拉修获得了{c1}密特罗德服{c0}
+MLOG_ABILITY_ICE_MISSILE	在贾柏蓝获得了{c1}冰冻导弹{c0}
+MLOG_ABILITY_LINE_BOMB	在贾柏蓝获得了{c1}十字炸弹{c0}
+MLOG_ABILITY_MAGNET_GLOVE	在阿尔塔利亚获得了{c1}蜘蛛磁铁{c0}
+MLOG_ABILITY_MORPH_BALL	在卡塔利斯获得了{c1}变形球{c0}
+MLOG_ABILITY_MULTILOCKON	在菲雷尼亚获得了{c1}暴风导弹{c0}
+MLOG_ABILITY_OPTIC_CAMOUFLAGE	在阿尔塔利亚获得了{c1}幻影斗篷{c0}
+MLOG_ABILITY_PLASMA_BEAM	在艾路恩获得了{c1}等离子光束{c0}
+MLOG_ABILITY_POWER_BOMB	在哈奴比亚获得了{c1}重磅炸弹{c0}
+MLOG_ABILITY_SCREW_ATTACK	在阿尔塔利亚获得了{c1}团身旋击{c0}
+MLOG_ABILITY_SONAR	在贾柏蓝获得了{c1}脉冲雷达{c0}
+MLOG_ABILITY_SPACE_JUMP	在菲雷尼亚获得了{c1}连跳{c0}
+MLOG_ABILITY_SPEED_BOOSTER	在戴隆获得了{c1}加速器{c0}
+MLOG_ABILITY_SUPER_MISSILE	在贾柏蓝获得了{c1}超级导弹{c0}
+MLOG_ABILITY_VARIA_SUIT	在阿尔塔利亚获得了{c1}防护服{c0}
+MLOG_ABILITY_WAVE_BEAM	在菲雷尼亚获得了{c1}波动光束{c0}
+MLOG_ABILITY_WIDE_BEAM	在戴隆获得了{c1}宽光束{c0}
+MLOG_ADAM_AQUA	{c5}亚当信息{c0} (巴尔艾尼亚) ᠀
+MLOG_ADAM_CAVE	{c5}亚当信息{c0} (阿尔塔利亚) ᠀
+MLOG_ADAM_FOREST	{c5}亚当信息{c0} (贾柏蓝) ᠀
+MLOG_ADAM_LAB	{c5}亚当信息{c0} (戴隆) ᠀
+MLOG_ADAM_MAGMA	{c5}亚当信息{c0} (卡塔利斯) ᠀
+MLOG_ADAM_SANC	{c5}亚当信息{c0} (菲雷尼亚) ᠀
+MLOG_ADAM_SHIP	{c5}亚当信息{c0} (哈奴比亚) ᠀
+MLOG_COOLDOWN_EVENT	行星的气温恢复正常了。
+MLOG_DEFEAT_BOSS_2CRS_AQUA	在巴尔艾尼亚击败了{c3}机器鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_2CRS_SANC	在菲雷尼亚击败了{c3}机器鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_COMMANDER	在伊多拉修击败了{c3}雷文毕克{c0}
+MLOG_DEFEAT_BOSS_COMMANDER_X	在哈奴比亚击败了{c3}雷文毕克X{c0}
+MLOG_DEFEAT_BOSS_COOLDOWN_X	在卡塔利斯击败了{c3}实验体Z-57号{c0}
+MLOG_DEFEAT_BOSS_CRS_FOREST	在贾柏蓝击败了{c3}机器鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CRS_SANC	在菲雷尼亚击败了{c3}机器鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CWX_CAVE	在阿尔塔利亚击败了{c3}鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CWX_FOREST	在贾柏蓝击败了{c3}鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CWX_QUARANTINE	在艾路恩击败了{c3}鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CWX_SHIP	在哈奴比亚击败了{c3}鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_CWXE_SHIP	在哈奴比亚击败了{c3}菁英鸟人士兵{c0}
+MLOG_DEFEAT_BOSS_HYDROGIGA	在巴尔艾尼亚击败了{c3}多罗基加{c0}
+MLOG_DEFEAT_BOSS_KRAID	在卡塔利斯击败了{c3}克雷德{c0}
+MLOG_DEFEAT_BOSS_SCORPIUS	在阿尔塔利亚击败了{c3}柯尔皮斯{c0}
+MLOG_DEFEAT_BOSS_SUPER_GOLIATH	在贾柏蓝击败了{c3}哥兹纳{c0} 
+MLOG_DEFEAT_BOSS_SUPER_QUETZOA	在菲雷尼亚击败了{c3}艾司裘{c0}
+MLOG_DEFEAT_EMMY_CAVE	在阿尔塔利亚破坏了{c3}E.M.M.I.-02SM{c0}
+MLOG_DEFEAT_EMMY_FOREST	在贾柏蓝破坏了{c3}E.M.M.I.-05IM{c0}
+MLOG_DEFEAT_EMMY_LAB	在戴隆破坏了{c3}E.M.M.I.-04SB{c0}
+MLOG_DEFEAT_EMMY_MAGMA	在卡塔利斯破坏了{c3}E.M.M.I.-03MB{c0}
+MLOG_DEFEAT_EMMY_SANC	在菲雷尼亚破坏了{c3}E.M.M.I.-06WB{c0}
+MLOG_DEFEAT_EMMY_SHIP	在哈奴比亚破坏了{c3}E.M.M.I.-07PB{c0}
+MLOG_DEFEAT_PROTOEMMY_CAVE	在阿尔塔利亚破坏了{c3}E.M.M.I.-01P{c0}
+MLOG_ENCOUNTER_EMMY_CAVE	在阿尔塔利亚遭遇了{c3}E.M.M.I.-02SM{c0}
+MLOG_ENCOUNTER_EMMY_FOREST	在贾柏蓝遭遇了{c3}E.M.M.I.-05IM{c0}
+MLOG_ENCOUNTER_EMMY_LAB	在戴隆遭遇了{c3}E.M.M.I.-04SB{c0}
+MLOG_ENCOUNTER_EMMY_MAGMA	在卡塔利斯遭遇了{c3}E.M.M.I.-03MB{c0}
+MLOG_ENCOUNTER_EMMY_SANC	在菲雷尼亚遭遇了{c3}E.M.M.I.-06WB{c0}
+MLOG_ENCOUNTER_EMMY_SHIP	在哈奴比亚遭遇了{c3}E.M.M.I.-07PB{c0}
+MLOG_ENCOUNTER_PROTOEMMY_CAVE	在阿尔塔利亚遭遇了{c3}E.M.M.I.-01P{c0}
+MLOG_INIT	与神秘敌人遭遇
+MLOG_PROFESSOR_ENCOUNTER	与魁特罗布遭遇᠀
+MLOG_TUTO_SLIDING	{c1}滑行{c0}|推᠝的同时按᠆滑行。
+MLOG_TUTO_FREE_AIM	{c1}自由瞄准{c0}|按住᠄进入自由瞄准模式，用᠝瞄准目标。
+MLOG_TUTO_MISSILE_MODE	{c1}导弹模式{c0}|按住᠅装备导弹。按᠃发射。|部分砖块必须使用特定的能力才能破坏。
+MLOG_TUTO_HIDDEN_BLOCKS	{c1}隐藏砖块{c0}|走到没有路的时候，试试破坏周围的地形吧。有时候会有隐藏砖块。|隐藏砖块可以通过发射导弹使其现形。
+MLOG_TUTO_BUTTON_MAP	{c1}地图与选项{c0}|按᠌键打开地图画面。|按᠊键打开选项画面。
+MLOG_TUTO_MELEE	{c1}近战反击{c0}|对于特定的攻击，看准时机使出近战反击，可以闪避，|之后还会自动瞄准敌人。
+MLOG_TUTO_MELEE_2	{c1}近战反击{c0}|击败因近战反击而晕眩的敌人时，|会掉落比平常多得多的道具。
+MLOG_TUTO_MELEE_3	{c1}近战反击{c0}|边跑边按᠂可以使出强力的冲刺近战。|与其他近战反击不同，冲刺近战能给与敌人伤害。
+MLOG_TUTO_HINT	{c1}隐藏道具{c0}|地图上闪烁的范围内有隐藏道具。
+MLOG_TUTO_EMMY_GRAB	{c1}被E.M.M.I.捕获时{c0}|只有在闪光的同时按᠂，才能近战反击E.M.M.I.的攻击。|但是看准时机进行成功反击的几率微乎其微。
+MLOG_TUTO_EMMY_SLIDE	{c1}E.M.M.I.晕眩时{c0}|推᠝的同时按᠆可以滑行。|可以从E.M.M.I.下方滑行钻过。
+MLOG_TUTO_MAP_ROOM	{c1}地图{c0}|地图上的黄色房间可以进行保存。|紫色房间有用于移动至其他区域的穿梭器或电梯。
+MLOG_TUTO_OMEGA_CANNON	{c1}锁定聚焦模式{c0}|按᠄进入锁定聚焦模式。按᠝输入方向进行瞄准。|（若距离目标足够近，萨姆斯会自动朝向该方向。）
+MLOG_TUTO_OMEGA_BLASTER	{c1}欧米伽冲击波{c0}|按住᠅可以给欧米伽冲击波蓄力。|蓄满状态下，按住᠅的同时按᠃，瞄准核心发射吧。
+MLOG_TUTO_OMEGA_STREAM	{c1}欧米伽光线{c0}|按住᠃发射欧米伽光线的话，防护壳会发红发热。|过热后，防护壳会被破坏并露出核心。
+MLOG_TUTO_OPTICAL_CAMO	{c1}幻影斗篷与E.M.M.I.{c0}|发动幻影斗篷时，萨姆斯不会被E.M.M.I.侦测或辨识到。|但如果撞到了就会被捕获，这点要注意哦。
+MLOG_TUTO_PARASITE	{c1}寄生体X{c0}|打倒X拟态的敌人后，拟态会解除，X会现形。|萨姆斯可以通过吸收X回复体力和导弹等。
+TERM_AREANAME_CAVES	ARTARIA
+TERM_AREANAME_CAVES_SUBHEADER	阿尔塔利亚
+TERM_AREANAME_CAVES_MAP_TITLE	阿尔塔利亚
+TERM_AREANAME_CAVES_MAP_TRANSPORT	阿尔塔利亚
+TERM_AREANAME_MAGMA	CATARIS
+TERM_AREANAME_MAGMA_SUBHEADER	卡塔利斯
+TERM_AREANAME_MAGMA_MAP_TITLE	卡塔利斯
+TERM_AREANAME_MAGMA_MAP_TRANSPORT	卡塔利斯
+TERM_AREANAME_LABORATORY	DAIRON
+TERM_AREANAME_LABORATORY_SUBHEADER	戴隆
+TERM_AREANAME_LABORATORY_MAP_TITLE	戴隆
+TERM_AREANAME_LABORATORY_MAP_TRANSPORT	戴隆
+TERM_AREANAME_AQUA	BURENIA
+TERM_AREANAME_AQUA_SUBHEADER	巴尔艾尼亚
+TERM_AREANAME_AQUA_MAP_TITLE	巴尔艾尼亚
+TERM_AREANAME_AQUA_MAP_TRANSPORT	巴尔艾尼亚
+TERM_AREANAME_FOREST	GHAVORAN
+TERM_AREANAME_FOREST_SUBHEADER	贾柏蓝
+TERM_AREANAME_FOREST_MAP_TITLE	贾柏蓝
+TERM_AREANAME_FOREST_MAP_TRANSPORT	贾柏蓝
+TERM_AREANAME_QUARANTINE	ELUN
+TERM_AREANAME_QUARANTINE_SUBHEADER	艾路恩
+TERM_AREANAME_QUARANTINE_MAP_TITLE	艾路恩
+TERM_AREANAME_QUARANTINE_MAP_TRANSPORT	艾路恩
+TERM_AREANAME_SANCTUARY	FERENIA
+TERM_AREANAME_SANCTUARY_SUBHEADER	菲雷尼亚
+TERM_AREANAME_SANCTUARY_MAP_TITLE	菲雷尼亚
+TERM_AREANAME_SANCTUARY_MAP_TRANSPORT	菲雷尼亚
+TERM_AREANAME_SHIPYARD	HANUBIA
+TERM_AREANAME_SHIPYARD_SUBHEADER	哈奴比亚
+TERM_AREANAME_SHIPYARD_MAP_TITLE	哈奴比亚
+TERM_AREANAME_SHIPYARD_MAP_TRANSPORT	哈奴比亚
+TERM_AREANAME_SKYBASE	ITORASH
+TERM_AREANAME_SKYBASE_SUBHEADER	伊多拉修
+TERM_AREANAME_SKYBASE_MAP_TITLE	伊多拉修
+TERM_AREANAME_SKYBASE_MAP_TRANSPORT	伊多拉修
+TERM_CHARACTER_SAMUS	萨姆斯
+TERM_CHARACTER_EMMY	E.M.M.I.
+TERM_CHARACTER_PROFESSOR	魁特罗布
+TERM_CHARACTER_COMMANDER	雷文毕克
+TERM_CHARACTER_ADAM	亚当
+TERM_BOSS_SCORPIUS	柯尔皮斯
+TERM_BOSS_KRAID	克雷德
+TERM_BOSS_HYDROGIGA	多罗基加
+TERM_BOSS_SUPER_GOLIATH	哥兹纳
+TERM_BOSS_SUPER_QUETZOA	艾司裘
+TERM_BOSS_CRS_SANC	机器鸟人士兵
+TERM_BOSS_CRS_FOREST	机器鸟人士兵
+TERM_BOSS_CRS_2_SANC	机器鸟人士兵 x 2
+TERM_BOSS_CRS_2_AQUA	机器鸟人士兵 x 2
+TERM_BOSS_CWX_QUARANTINE	鸟人士兵
+TERM_BOSS_CWX_FOREST	鸟人士兵
+TERM_BOSS_CWX_CAVE	鸟人士兵
+TERM_BOSS_CWX_SHIPYARD	鸟人士兵
+TERM_BOSS_CWX_ELITE	菁英鸟人士兵
+TERM_BOSS_COOLDOWNX	实验体Z-57号
+TERM_CHARACTER_COMMANDER_X	雷文毕克X
+TIP_000_GENERAL_PARKOUR_000	{c6}跑酷||{c7}如果是一个砖块的落差，只要奔跑就能自动跨越。{c0}
+TIP_001_GENERAL_WALL_JUMP_000	{c6}蹬墙||{c7}回旋跳时，在接触墙壁的状态下按᠁键就能蹬墙跳到反方向。{c0}
+TIP_002_GENERAL_POWER_GRIP_000	{c6}强力攀握||{c7}在跳跃或落下时，接触地形边缘之际朝该方向推动᠝，萨姆斯就能抓住边角并攀住。{c0}
+TIP_003_GENERAL_MELEE_COUNTER_000	{c6}近战反击||{c7}成功击败因近战反击而晕眩的敌人时，会比平常掉落更大量的回复道具。{c0}
+TIP_004_GENERAL_DASH_MELEE_000	{c6}冲刺近战||{c7}边跑边按᠂键就会变为冲刺近战。冲刺近战还能给敌人造成伤害。{c0}|
+TIP_005_GENERAL_FREE_AIM_000	{c6}自由瞄准||{c7}使用自由瞄准将指示器对准敌人的话，指示器会发光。{c0}
+TIP_006_GENERAL_RUNNING_FREE_AIM_000	{c6}跑动自由瞄准||{c7}边跑边向斜上方或斜下方推᠝，可以不停下来就更改射击角度。{c0}
+TIP_007_GENERAL_HIDDEN_BLOCKS_000	{c6}隐藏砖块||{c7}如果地形中隐藏着砖块，用导弹攻击砖块就会现形。{c0}
+TIP_008_GENERAL_HIDDEN_BLOCKS_001	{c6}隐藏砖块||{c7}如果地形中隐藏着砖块，用导弹攻击或让砖块受到炸弹的爆炸冲击波使其现形。{c0}
+TIP_009_GENERAL_MISSILE_000	{c6}导弹||{c7}导弹会有数量的限制，但却是强力的攻击手段。要积极使用哦。{c0}
+TIP_010_GENERAL_CHARGE_BEAM_000	{c6}蓄光束||{c7}普通光束对其无效的敌人，蓄光束会有效。{c0}
+TIP_011_GENERAL_CHARGE_BEAM_001	{c6}蓄光束||{c7}在蓄满状态回旋跳，就会变为蓄力攻击。会给接触到的敌人造成伤害。{c0} 
+TIP_012_BOSS_BEAM_000	{c6}光束||{c7}对于麦欧金族的敌人，不只是导弹和蓄光束，连射光束也对其有效。{c0}
+TIP_013_BOSS_BEAM_001	{c6}光束||{c7}对于一些头目，不只是导弹和蓄光束，连射光束也对其有效。{c0}
+TIP_014_GENERAL_SPIDER_MAGNET_000	{c6}蜘蛛磁铁||{c7}悬挂在天花板上时，持续向上推᠝，就能贴在天花板上。很难被敌人发现或攻击。{c0}
+TIP_015_EMMI_ZONE_PHANTOM_CLOAK_000	{c6}幻影斗篷||{c7}发动后，萨姆斯的身影和声音就会消失。不会被E.M.M.I.侦测或辨识到。{c0}
+TIP_016_EMMI_ZONE_PHANTOM_CLOAK_001	{c6}幻影斗篷||{c7}发动时，即使用尽艾翁能量，也会通过消耗生命能量继续保持幻影斗篷状态。{c0}
+TIP_017_GENERAL_PHANTOM_CLOAK_000	{c6}幻影斗篷||{c7}在E.M.M.I.区域以外，能在不被敌人察觉的情况下前进。{c0}
+TIP_018_GENERAL_MORPH_BALL_000	{c6}变形球||{c7}朝靠近地面位置的变形球通道方向边推᠝边按᠁键，就能自动变为球形进入通道。{c0}
+TIP_019_BOSS_FLASH_SHIFT_000	{c6}闪光转移||{c7}因为能在一瞬间拉远或是拉近距离，在与头目战斗时很有帮助。特别是对于难以避开的攻击，闪光转移会非常有效。{c0}
+TIP_020_GENERAL_SPEED_BOOSTER_000	{c6}加速器||{c7}在加速器状态下奔跑时，可以蹬墙跳跃或滑行以维持前行的势头。{c0}
+TIP_021_GENERAL_SPEED_BOOSTER_001	{c6}加速器||{c7}与普通奔跑时一样，在加速器状态下奔跑时，萨姆斯也能自动跨越1个砖块的高度落差。{c0}
+TIP_022_GENERAL_SHINE_SPARK_000	{c6}凤凰之舞||{c7}使用凤凰之舞移动时，在撞到斜坡的瞬间朝行进方向推动᠝，会自动返回到加速器状态继续奔跑。{c0}
+TIP_023_GENERAL_BALL_SPARK_000	{c6}凤凰球||{c7}在凤凰之舞准备状态中变为变形球后发动，就会变为凤凰球。{c0}
+TIP_024_GENERAL_ICE_BREAKER_000	{c6}冰冻破击||{c7}被冰冻导弹冻住的敌人可以用近战反击破坏。{c0}
+TIP_025_GENERAL_CROSS_BOMB_000	{c6}十字炸弹||{c7}在变形球通道内，如果能顺利乘上十字炸弹在水平方向的爆炸冲击波，就能顺着冲击波平行移动。{c0}
+TIP_026_GENERAL_ICON_HIGHLIGHT_000	{c6}高亮图标||{c7}在地图画面将光标移到图标，按᠃键锁定图标。相同种类的图标会在所有地图上高亮。{c0}
+TIP_027_GENERAL_MAP_MARKERS_000	{c6}地图标记||{c7}在地图画面按᠀键可以设置标记。标记在迷你地图上也会显示，所以对探索会很有帮助。{c0}
+TIP_028_GENERAL_HIDDEN_ITEM_HINTS_000	{c6}隐藏道具提示||{c7}地图上会有闪烁着白光的区域。这表示在此范围内有隐藏道具。{c0}
+TIP_029_GENERAL_ROOM_COLORS_000	{c6}房间颜色||{c7}地图上的黄色房间可以保存进度，紫色房间有用于移动至其他区域的穿梭器或电梯。{c0}
+TIP_030_GENERAL_MINIMAP_RANGE_000	{c6}迷你地图范围||{c7}地图画面上的黄色框线表示的是迷你地图的范围。{c0}
+TIP_031_EMMI_ZONE_EMMI_AND_THE_MINIMAP_000	{c6}迷你地图上E.M.M.I.的位置||{c7}如果有E.M.M.I.进入迷你地图范围内，会以红点显示。{c0}
+TIP_032_GENERAL_EXPANDING_THE_MINIMAP_000	{c6}展开迷你地图||{c7}在游戏过程中，按᠓可以展开迷你地图。进行任意操作后又会返回普通状态的迷你地图。{c0}
+TIP_033_GENERAL_SAMUS_SCREEN_000	{c6}萨姆斯画面||{c7}在地图画面按᠅键会切换到萨姆斯画面。可以确认萨姆斯各项能力的说明。{c0}
+TIP_034_GENERAL_MISSION_LOG_SCREEN_000	{c6}任务记录画面||{c7}在地图画面按᠄键会切换到任务记录画面。可以查看至今为止的事件与连接室的交流。{c0}
+TIP_035_GENERAL_OPTIONS_SCREEN_000	{c6}选项画面||{c7}在游戏过程中，按᠊会打开选项画面。可以调整亮度、读取数据等。{c0}
+TIP_036_GENERAL_RECHARGE_STATIONS_000	{c6}补给站||{c7}补给站分为回复能量、回复武器和两者都回复这三种类型。{c0}
+TIP_037_EMMI_ZONE_EMMI_ZONE_DOORS_000	{c6}E.M.M.I.区域门||{c7}E.M.M.I.区域的门，在出去后的几秒钟内无法再次进入。{c0}
+TIP_038_EMMI_ZONE_EMMI_ZONE_DOORS_001	{c6}E.M.M.I.区域门||{c7}在被E.M.M.I.辨识并追踪的状态下，所有的门会暂时关闭。逃离E.M.M.I.追踪范围后，门会再次打开。{c0}
+TIP_039_GENERAL_TRANSFER_PORTALS_000	{c6}传送口||{c7}传送口是成对存在的，使用后会被传送到相同颜色的传送口。{c0}
+TIP_040_GENERAL_METROID_000	{c6}密特罗德||{c7}密特罗德是鸟人族为了驱逐X而制造的人工生命体。{c0}
+TIP_041_GENERAL_X_PARASITES_000	{c6}X||{c7}在X的天敌密特罗德都已灭绝的今天，只有体内注入了幼体密特罗德DNA的萨姆斯才能对抗X。{c0}
+TIP_042_GENERAL_X_PARASITES_001	{c6}X||{c7}X是在行星SR388上发现的寄生生命体，会寄生于任何生物。寄生后会杀死宿主，并根据复制的DNA模拟该生物的形态。{c0}
+TIP_043_GENERAL_X_PARASITES_002	{c6}X||{c7}X也会寄生在生物的尸体上。|这种情况下，会以残留在尸体上的DNA为基础模拟该生物生前的形态。{c0}
+TIP_044_GENERAL_X_PARASITES_003	{c6}X||{c7}X如果经历过多个宿主，会模拟为融合了各宿主特征和外貌的新形态。{c0}
+TIP_045_EMMI_ZONE_EMMI_CAPTURE_000	{c6}E.M.M.I.的捕获攻击||{c7}对于E.M.M.I.的捕获攻击是有机会逃脱的。但对时机的要求非常严苛，成功的可能性微乎其微。{c0}
+TIP_046_EMMI_ZONE_EMMI_CAPTURE_001	{c6}E.M.M.I.的捕获攻击||{c7}如果成功近战反击E.M.M.I.的捕获攻击，E.M.M.I.会暂时无法行动。|在此状态下可以滑行从E.M.M.I.下方钻过。{c0}
+TIP_047_EMMI_ZONE_MAP_000	{c6}地图登录||{c7}初次闯入E.M.M.I.区域时，地图上会自动登录区域的形状和门的位置。特别是把握门的位置，直接关系到生存的几率。{c0}
+TIP_048_EMMI_ZONE_PHANTOM_CLOAK_002	{c6}幻影斗篷||{c7}即使发动，也只是不会被E.M.M.I.侦测或辨识。一旦被撞到，还是会被捕获。发动后就快速移动到安全位置吧。{c0}
+TIP_049_EMMI_ZONE_SPIDER_MAGNET_000	{c6}蜘蛛磁铁||{c7}悬挂在天花板上时，持续向上推᠝，就能贴在天花板上。|与幻影斗篷组合后，还能偷偷从E.M.M.I.周围溜走。{c0}
+TIP_050_EMMI_PHASE2_EMMI_CONFRONTATION_000	{c6}与E.M.M.I.的对峙||{c7}E.M.M.I.通过侦测欧米伽加农炮的能量，能完全掌握萨姆斯的位置。{c0}
+TIP_051_EMMI_PHASE2_EMMI_CONFRONTATION_001	{c6}与E.M.M.I.的对峙||{c7}E.M.M.I.的弱点是头部的核心。用蓄满的欧米伽冲击波给其致命一击。{c0}
+TIP_052_EMMI_PHASE2_EMMI_CONFRONTATION_002	{c6}与E.M.M.I.的对峙||{c7}破坏E.M.M.I.头部的防护壳后，不必立即射击核心，可以根据状况保持距离并调整姿势。{c0}
+TIP_053_BOSS_BOSS_FIGHTS_000	{c6}与头目苦战的话||{c7}没有无法避开的攻击。仔细观察，寻找破绽吧。{c0}
+TIP_054_BOSS_GRAB_SEQUENCE_000	{c6}连续捕获||{c7}部分头目会使出可以近战反击的攻击。|只要近战反击成功，就是能以连续捕获对敌人造成连续伤害的好机会。{c0}
+TIP_055_BOSS_CHARGE_BEAM_000	{c6}蓄光束||{c7}对于头目，不只是导弹，蓄光束也有效。即使导弹用尽也不要放弃。{c0}
+TIP_056_BOSS_FINISH_COUNTER_000	{c6}终结反击||{c7}麦欧金族的敌人会在最后使出终结反击。|看准时机近战反击，给与致命一击。{c0}
+TIP_057_GENERAL_LOST_000	{c6}在探索中迷路的话||{c7}有什么新的地方可去吗？|使用地图画面的高亮图标功能并查看任务记录画面，寻找要前往的道路吧。{c0}
+TIP_058_GENERAL_FLASH_SHIFT_000	{c6}闪光转移||{c7}普通跳跃中无法实现的平行移动在探索中也很有用。特别是连续发动的话，可以实现高速移动。{c0}
+TIP_059_GENERAL_EMMI_000	{c6}E.M.M.I.||{c7}E.M.M.I.的正式名称是“行星外多形态机动调查机”。{c0}
+CAVE_CENTRALUNIT_TUTO_CAMERA	按᠄进入锁定聚焦模式。通过᠝输入方向进行瞄准。|（若距离目标足够近，萨姆斯会自动朝向该方向。）
+CAVE_CENTRALUNIT_TUTO_HEATING	按住᠃发射欧米伽光线的话，防护壳会发红发热。|一旦过热，防护壳会被损坏并露出核心。
+CAVE_CENTRALUNIT_TUTO_SHOOT_MANUAL	按住᠅可以给欧米伽冲击波蓄力。|蓄满状态下，按住᠅的同时按᠃，瞄准核心发射吧。
+CAVE_EMMY_PROTO_FLOOR_SLIDE_TUTO	推᠝的同时按᠆可以滑行。|可以从E.M.M.I.下方滑行钻过。
+CAVE_EMMY_PROTO_GRAB_TUTO	只有在闪光的同时按᠂，才能近战反击E.M.M.I.的攻击。|但是看准时机进行反击有很大偶然性，成功几率微乎其微。
+CAVE_FREEAIM_TUTO	按住᠄会进入自由瞄准模式。用᠝瞄准。
+CAVE_MELEE_CUTSCENE	对于特定的攻击，看准时机使出近战反击，可以闪避，|之后还会自动瞄准敌人。现在就按᠂近战反击吧。
+CAVE_MISSILE_TUTO	按住᠅可以装备导弹，按᠃发射。|部分砖块需要使用特定能力才能破坏。
+CAVE_SLIDING_TUTO	推᠝的同时按᠆可以滑行。
+CAVE_THERMAL_DOOR_MESSAGE	热能供给目的地已更改。
+CAVE_HINT_TUTO	地图上闪烁的范围内有隐藏道具。
+CAVE_TUTO_MELEE_REMINDER	按᠂使用近战反击。看准时机使出就能避开敌人的攻击。
+CAVE_TUTO_MELEE_REMINDER_2	击败因近战反击而晕眩的敌人时，|会掉落比平常多得多的道具。
+CAVE_TUTO_MELEE_REMINDER_3	边跑边按᠂可以使出强力的冲刺近战。|与其他近战反击不同，冲刺近战能给与敌人伤害。
+CAVE_TUTO_MAP_OPTIONS	按᠌键打开地图画面。|按᠊键打开选项画面。
+CAVE_TUTO_MAP_ROOM	地图上的黄色房间可以进行保存。|紫色房间有用于移动至其他区域的穿梭器或电梯。
+QUARANTINE_TUTO_PARASITE	打倒X拟态的敌人后，拟态会解除，X会现形。|萨姆斯可以通过吸收X回复体力和导弹等。
+GUI_AMMORECHARGE_CANNOTUSE	武器已全满。
+GUI_ELEVATOR_QUESTION	要使用电梯吗？
+GUI_ENERGYRECHARGE_CANNOTUSE	能量已全满。
+GUI_ITEM_ACQUIRED_BOMB	获得了炸弹。
+GUI_ITEM_ACQUIRED_CHARGE_BEAM	获得了蓄光束。
+GUI_ITEM_ACQUIRED_DIFFUSION_BEAM	获得了散射光束。
+GUI_ITEM_ACQUIRED_DOUBLE_JUMP	获得了旋转推进。
+GUI_ITEM_ACQUIRED_GHOST_DASH	获得了闪光转移。
+GUI_ITEM_ACQUIRED_GRAPPLE_BEAM	获得了抓钩光束。
+GUI_ITEM_ACQUIRED_GRAVITY_SUIT	获得了重力服。
+GUI_ITEM_ACQUIRED_HYPER_BEAM	获得了强力光束。
+GUI_ITEM_ACQUIRED_ICE_MISSILE	获得了冰冻导弹。
+GUI_ITEM_ACQUIRED_LINE_BOMB	获得了十字炸弹。
+GUI_ITEM_ACQUIRED_MORPH_BALL	获得了变形球。
+GUI_ITEM_ACQUIRED_MULTI_LOCK	获得了暴风导弹。
+GUI_ITEM_ACQUIRED_OPTICAL_CAMO	获得了幻影斗篷。
+GUI_ITEM_ACQUIRED_PLASMA_BEAM	获得了等离子光束。
+GUI_ITEM_ACQUIRED_POWER_BOMB	获得了重磅炸弹。
+GUI_ITEM_ACQUIRED_SCREW_ATTACK	获得了团身旋击。
+GUI_ITEM_ACQUIRED_SONAR	获得了脉冲雷达。
+GUI_ITEM_ACQUIRED_SPACE_JUMP	获得了连跳。
+GUI_ITEM_ACQUIRED_SPEED_BOOSTER	获得了加速器。
+GUI_ITEM_ACQUIRED_SPIDER_MAGNET	获得了蜘蛛磁铁。
+GUI_ITEM_ACQUIRED_SUPER_MISSILE	获得了超级导弹。
+GUI_ITEM_ACQUIRED_VARIA_SUIT	获得了防护服。
+GUI_ITEM_ACQUIRED_WAVE_BEAM	获得了波动光束。
+GUI_ITEM_ACQUIRED_WIDE_BEAM	获得了宽光束。
+GUI_MAP_DOWNLOAD	区域地图已下载。
+GUI_SAVESTATION_QUESTION	要保存吗？
+GUI_TANK_ACQUIRED_ENERGY	获得了能量包。|能量最大值提高100。
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_1	获得了能量部件(1/4)。|集齐4个可提高能量最大值。
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_2	获得了能量部件(2/4)。|集齐4个可提高能量最大值。
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_3	获得了能量部件(3/4)。|集齐4个可提高能量最大值。
+GUI_TANK_ACQUIRED_ENERGY_FRAGMENT_COMPLETE	获得了能量部件(4/4)。|能量最大值提高100。
+GUI_TANK_ACQUIRED_MISSILE	获得了导弹包。|可持有最大值提高2。
+GUI_TANK_ACQUIRED_MISSILE_PLUS	获得了导弹进阶包。|可持有最大值提高10。
+GUI_TANK_ACQUIRED_POWER_BOMB	获得了重磅炸弹包。|可持有最大值提高1。
+GUI_TANK_ACQUIRED_UNKNOWN	获得了不明道具。|还不能使用此道具。
+GUI_TELEPORT_QUESTION	要用传送口移动吗？
+GUI_TRANSPORT_AQUA	要前往巴尔艾尼亚吗？
+GUI_TRANSPORT_CAVE	要前往阿尔塔利亚吗？
+GUI_TRANSPORT_FOREST	要前往贾柏蓝吗？
+GUI_TRANSPORT_LAB	要前往戴隆吗？
+GUI_TRANSPORT_MAGMA	要前往卡塔利斯吗？
+GUI_TRANSPORT_QUARANTINE	要前往艾路恩吗？
+GUI_TRANSPORT_SANC	要前往菲雷尼亚吗？
+GUI_TRANSPORT_SHIPYARD	要前往哈奴比亚吗？
+GUI_TRANSPORT_SKYBASE	要前往伊多拉修吗？
+GUI_ITEM_ACQUIRED_AEION	为了对应艾翁，正在升级服装。
+SKYBASE_ELEVATOR_COMMANDER	要使用电梯吗？
+CAVE_HIDDENBLOCKS_TUTO	走到没有路的时候，试试破坏周围的地形吧。有时候会有隐藏砖块。|隐藏砖块可以通过发射导弹落在上面使其现形。
+MAGMA_OPTICAL_TUTO	发动幻影斗篷时，萨姆斯不会被E.M.M.I.侦测或辨识到。|但如果撞到了就会被捕获，这点要注意哦。
+GUI_OMEGA_CU_1	由于中央单位注入的能量，|萨姆斯的手臂加农炮已变形为欧米伽加农炮。
+GUI_OMEGA_CU_2	可以使用“欧米伽冲击波”了。
+GUI_OMEGA_CU_3	可以使用“欧米伽光线”了。
+GUI_OMEGA_EMMY_1	欧米伽加农炮已恢复为原来的手臂加农炮。
+CAPTION_PROLOGUE_PAGE_01	密特罗德：||一种由鸟人族开发的浮游生命体的名称。|这种容易繁殖的人工生命体通过物理接触，|会将生物等所有物体的能量吸收殆尽。|从该特性中发现其作为生物兵器的价值，是引发各种事件的源头。|这个在鸟人族的语言中被称为“最强的战士”的|生命体已经灭绝，不存在宇宙之中。
+CAPTION_PROLOGUE_PAGE_02	X：||凝胶状的寄生拟态生物的名称。被认为是已经灭绝的行星SR388的固有物种。|会侵入所有生物或死尸，或者其一部分，获得遗传因子信息后进行拟态。|活体情况下，会通过连接宿主记忆中枢获取信息，然后让宿主死亡。|X没有任何情感，只是本能地以物种的保存和扩大为最优先反复分裂与合体，|拟态成为更强的个体。并且因为无法对其进行人为控制，|所以被认为是比天敌密特罗德更加危险的生命体。
+CAPTION_PROLOGUE_PAGE_03	密特罗德灭绝之后的行星SR388，|已经变成了X这种可怕的寄生拟态生物的巢穴了。|接到银河联邦的委托而进入其中的我被X寄生，身陷危机。
+CAPTION_PROLOGUE_PAGE_04	我注射了从X的天敌密特罗德的DNA中提取的疫苗才保住了一命。|之后就成为了唯一能够对抗X的人。后来，我向着发出求救信号的|BIOLOGIC宇宙生物研究所、俗称“B.S.L.”的地方进发。
+CAPTION_PROLOGUE_PAGE_05	X拟态了众多强敌，其中包括“SA-X”，也就是巅峰状态的过去的我。|在那场殊死搏斗中胜利的我，让B.S.L.和有着无数X的SR388相撞，|成功地使X连同行星一起消失了。
+CAPTION_PROLOGUE_PAGE_06	时光流逝，当X以及密特罗德都渐渐淡出记忆的某一天，|银河联邦总部收到了一段影像数据。
+CAPTION_PROLOGUE_PAGE_07	里面清晰地拍到在自然环境下活动的X。
+CAPTION_PROLOGUE_PAGE_08	验证结果表明，发件人不明的那段影像不是伪造的，|并且锁定了发件人所在的行星。
+CAPTION_PROLOGUE_PAGE_09	那个行星是“ZDR”。早该灭绝的X如果真的栖息在那个未知的行星上，|那将是会威胁到整个银河和平的重大事件。|银河联邦立即派遣了一支由7个“E.M.M.I.”组成的调查部队前往ZDR。
+CAPTION_PROLOGUE_PAGE_10	E.M.M.I.是一种专门用来捕获未知生物和采集DNA的大型调查机器人。|不但机动性优秀，还是用宇宙中材质最坚硬的特殊材料所制造，|因此，派E.M.M.I.前往调查是非常可靠的。
+CAPTION_PROLOGUE_PAGE_11	然而，E.M.M.I.部队在抵达ZDR不久，就失去了消息。
+CAPTION_PROLOGUE_PAGE_12	ZDR到底发生了什么？X真的还存在吗？|能够前往现场调查的，就只有对X免疫的我了。|
+CAPTION_INTRO_PAGE_1	即将进入ZDR的大气层……
+CAPTION_INTRO_PAGE_2	这次的报酬金额不太符合任务难度。
+DISPLAY_ADAM_INTRO_PAGE_1	The bounty for this mission does|not seem appropriate.
+CAPTION_INTRO_PAGE_3	相对可设想的风险来说不太合适。
+DISPLAY_ADAM_INTRO_PAGE_2	The risk clearly outweighs the |reward.
+CAPTION_INTRO_PAGE_4	请小心不要得罪了那些迷路的孩子们，女士。
+DISPLAY_ADAM_INTRO_PAGE_3	Treat our lost assets with care,|Lady.
+CAPTION_INTRO_PAGE_5	进入大气层还剩10秒。|9……8……7……6……5……4……3……2……1……
+CAPTION_INTRO_FLASHBACK_PAGE_01	那个电梯好像一直延伸到这个地下设施的深处。|恐怕是因为这样……
+CAPTION_INTRO_LANDING_PAGE_01	信号情况不太好。|接下来很可能无法使用这个无线通信了。
+CAPTION_INTRO_LANDING_PAGE_02	首先试试看连接设施内的网络，|尽可能保持联络吧。
+CAPTION_INTRO_LANDING_PAGE_03	你不反对吧，女士。
+CAPTION_DATAUPLOAD_01	数据上传中……
+DIAG_ADAM_CAVE_1_PAGE_1	萨姆斯，你已经成功连接通信设施了。|我已经确认到你刚才上传的|{c1}生命体征数据和视频数据{c0}了。
+DIAG_ADAM_CAVE_1_PAGE_2	通过数据分析……我虽然一定程度上了解了你身上发生的事情，|但你失去意识的原因还不清楚。|你的生命体征数据显示出你身上发生的巨大变化。
+DIAG_ADAM_CAVE_1_PAGE_3	在无法忍受那种负荷而失去意识的时候，你几乎失去了大部分的能力。|简单来说就是丧失了使用能力的记忆。
+DIAG_ADAM_CAVE_1_PAGE_4	我正在查询联邦数据库，调查袭击你的凶手。|从视频来看，推测是{c1}一种鸟人族{c0}，|但现阶段还不明确。
+DIAG_ADAM_CAVE_1_PAGE_5	这种情况下首先应该返回地面的宇宙舰艇，|但目前只能判断你现在位于{c1}ZDR的深处{c0}。|虽然情况有点糟，但只能相信你的直觉，{c1}向地面{c0}前进。
+DIAG_ADAM_CAVE_1_PAGE_5_B	这个行星内分为多个区域，通过穿梭器和电梯等设备相连。|当前先把{c1}用于移动的设备作为目的地{c0}，|一步步接近地面吧。
+DIAG_ADAM_CAVE_1_PAGE_6	另外，宇宙舰艇的位置已经标记在{c1}全区地图{c0}上了。|要记得查看。
+DIAG_ADAM_CAVE_1_PAGE_6_B	给你一个移动时的建议。|体内有密特罗德DNA的你和密特罗德一样对低温的耐受力极差，|你目前的状态{c1}在低温环境中会持续受到伤害{c0}。
+DIAG_ADAM_CAVE_1_PAGE_6_C	在这个地下设施内，散布着一些低温环境的区域。|请千万注意，不要{c1}在穿着普通服的状态下{c0}进入低温地带。
+DIAG_ADAM_CAVE_1_PAGE_7	由于地下设施内有信号干扰，{c1}无法使用无线通信{c0}，|所以在发现通信设施的时候一定要连接，与我保持联络。
+DIAG_ADAM_CAVE_2_PAGE_1	目前为止遭遇的2个E.M.M.I.明显是把你作为捕获目标的。|如果有黑客改写了系统的话，|我有理由相信{c1}所有E.M.M.I.都一样{c0}会攻击你。
+DIAG_ADAM_CAVE_2_PAGE_2	E.M.M.I.通过发出{c1}特殊的脉冲{c0}侦测范围内的空气振动，|也就是{c1}感应声音{c0}。
+DIAG_ADAM_CAVE_2_PAGE_2_B	由于感应到声音的E.M.M.I.会{c1}切换到警戒模式并移动到侦测地点{c0}，|因此你被E.M.M.I.的{c1}视野捕捉到{c0}的危险性将会大幅度提高。
+DIAG_ADAM_CAVE_2_PAGE_3	一旦被发现，就会被E.M.M.I.{c1}识别为目标，开始追踪{c0}。|处在追踪模式时，E.M.M.I.的行动区域{c1}“E.M.M.I.区域”的门将会关闭{c0}。
+DIAG_ADAM_CAVE_2_PAGE_3_B	如果陷入这种极其危险的情况时，要尽全力甩开它。|摆脱E.M.M.I.，解除追踪模式的话，门会再次开启。
+DIAG_ADAM_CAVE_2_PAGE_3_C	E.M.M.I.从不离开E.M.M.I.区域。|受控制它们的系统影响，只会在区域内活动。
+DIAG_ADAM_CAVE_2_PAGE_4	如果被E.M.M.I.捕获的话，你会{c1}以99%以上的高概率立刻死亡{c0}。
+DIAG_ADAM_CAVE_2_PAGE_5	虽然能逃脱的几率并非0%，但几乎是{c1}不可能成功的{c0}。
+DIAG_ADAM_CAVE_2_PAGE_5_B	目前的情况下E.M.M.I.是无敌的。|要是没有击败第一个E.M.M.I.的{c1}那种特殊能量{c0}，|唯一可做的就是避免与它接触并找到出口。
+DIAG_ADAM_CAVE_2_PAGE_6	在E.M.M.I.区域内行动时要把生存放在第一位。
+DIAG_ADAM_CAVE_3_PAGE_1	银河联邦的档案里，没有那个袭击者的详细数据。|但是，发现有从鸟人族派生的{c1}武斗型民族{c0}的记录。|两者或许有什么关联。
+DIAG_ADAM_CAVE_3_PAGE_2	这个行星有着和那个鸟人族相似的建筑物等，可以推测是他们的母星。|虽然不清楚对方的企图，但是把你引到这里，又派E.M.M.I.追踪你。|看来X的影像很可能是为了引你上钩而设的圈套。
+DIAG_ADAM_CAVE_3_PAGE_3	虽然情况并不明朗，但你现在的首要目标是活着回到舰艇上。
+DIAG_ADAM_CAVE_3_PAGE_4	刚才启动熔岩供给装置后，|关闭的门已经恢复动力了。|{c1}往前走是正确的选择{c0}。
+DIAG_ADAM_CAVE_3_PAGE_5	接着尝试去{c1}获取那种特殊能量{c0}吧。|这是你对抗E.M.M.I.的唯一手段。|但是……
+DIAG_ADAM_CAVE_3_PAGE_6	我想你已经知道了，那种能量只是暂时的。|一旦击败E.M.M.I.之后，那种能量就会消失。
+DIAG_ADAM_CAVE_3_PAGE_7	你务必牢记现在有{c1}6个E.M.M.I.{c0}正在追捕你，|而你还没有能与之对抗的制胜武器。
+DIAG_ADAM_MAGMA_1_PAGE_1	这颗行星似乎是通过向各地供给和循环内部的熔岩，|从而产生能量来作为动力的。
+DIAG_ADAM_MAGMA_1_PAGE_2	我确认到管理熔岩供给的中央系统|就在这个{c1}卡塔利斯{c0}。
+DIAG_ADAM_MAGMA_1_PAGE_3	目前你的服装{c1}无法抵御来自这个区域内的高温地带和熔岩的伤害{c0}，|探索的时候记得不要进入那些地方。
+DIAG_ADAM_MAGMA_1_PAGE_4	还有，在最上面有{c1}连接其他区域的穿梭器{c0}。|先去那里吧。
+DIAG_ADAM_MAGMA_1_PAGE_5	然后，关于你刚才获得{c1}幻影斗篷{c0}。
+DIAG_ADAM_MAGMA_1_PAGE_5_B	发动这种能力时，你将{c1}不会被E.M.M.I.侦测和感应到{c0}。|虽然你之前只能躲避逃跑，但接下来应该可以一边躲避它们，|一边朝自己的目标前进了。
+DIAG_ADAM_MAGMA_1_PAGE_6	但是幻影斗篷发动时，你的{c1}运动能力会显著下降{c0}。|{c1}要是碰到E.M.M.I.，同样也会被捕获{c0}。|因此躲起来的时候，要注意{c1}诀窍和身体姿势{c0}。
+DIAG_ADAM_MAGMA_1_PAGE_6_B	一旦被它感应到，{c1}把你当作目标的话，幻影斗篷就没有任何用处了{c0}。|在它解除追踪模式前你只能逃跑，别忘了这一点。
+DIAG_ADAM_MAGMA_1_PAGE_7	发动幻影斗篷时，一旦消耗完艾翁，就会开始{c1}消耗自己的生命能量{c0}，|虽然是把双刃剑，但持续使用的话并{c1}不会耗尽你的体力{c0}。|要是能熟练掌握其功能善加利用的话，将大大提升你生存的几率。
+DIAG_ADAM_MAGMA_2_PAGE_1	E.M.M.I.可以通过更改程序来改变、强化其功能。
+DIAG_ADAM_MAGMA_2_PAGE_2	这种能变形通过狭窄通道的类型，是行星外多形态机动调查机……|俗称E.M.M.I.的标准规格。想必你今后遇到的各种E.M.M.I.|会发挥其最佳性能，把你逼入绝境吧。
+DIAG_ADAM_MAGMA_2_PAGE_3	不过，你现在没有办法破坏用特殊材质做成的E.M.M.I.。|就算你{c1}恢复自己本来的所有能力，也无法改变这个事实{c0}。
+DIAG_ADAM_MAGMA_2_PAGE_4	面对这种压倒性的力量，你必须要认清自己不过是个弱者。
+DIAG_ADAM_MAGMA_2_PAGE_6	正确判断每个E.M.M.I.的特性，运用幻影斗篷前进吧。虽说这种有风险的能力|会降低你的运动能力，{c1}移动和射击时还会明显消耗艾翁能量{c0}，|但为了生存就不要犹豫了，善用这种能力往前走吧。
+DIAG_ADAM_MAGMA_2_PAGE_8	目前的行动已经偏离了原本的任务，不过这也没办法。|对于你来说，不能允许有风险的存在。|因此，一旦获得那种特殊的能量，不要犹豫，立刻破坏E.M.M.I.吧。
+DIAG_ADAM_LAB_1_PAGE_1	看来这个{c1}戴隆{c0}是个生物研究所。|虽然已经修复了一处，但是区域上方还有未能通电的地区。|只要让发电机运转，应该就可以恢复供电了吧。
+DIAG_ADAM_LAB_1_PAGE_2	虽然你慢慢恢复能力了，但我尚未分析出你身上发生的神秘现象，|因此一定不要掉以轻心。|前进时要记得存活下来是首要目的。
+DIAG_ADAM_AQUA_1_PAGE_1	{c1}巴尔艾尼亚{c0}的下层几乎都泡在水里。|不用我说你应该也清楚，|目前没有穿重力服的你是不可能在这个区域自由行动的。
+DIAG_ADAM_AQUA_1_PAGE_2	抓钩光束和连跳等都{c1}对在水中的行动有辅助效果{c0}，|你要努力早点获得这些能力。
+CAPTION_PROFESSOREVENT_PAGE_01	我是魁特罗布，是苏哈族的科学家。
+CAPTION_PROFESSOREVENT_PAGE_02	袭击你的鸟人族男性，名字叫雷文毕克。
+CAPTION_PROFESSOREVENT_PAGE_03	他有优秀的头脑和体能，是武斗民族麦欧金族的族长。
+CAPTION_PROFESSOREVENT_PAGE_04	我们和同样是鸟人族的麦欧金族一起封印了在SR388暴走的密特罗德。
+CAPTION_PROFESSOREVENT_PAGE_05	变得更加危险的密特罗德本应该和行星一起被摧毁。
+CAPTION_PROFESSOREVENT_PAGE_05_B	但是……
+CAPTION_PROFESSOREVENT_PAGE_06	雷文毕克他……用强硬的手段阻止了我们。
+CAPTION_PROFESSOREVENT_PAGE_07	密特罗德在盲目相信“力量”的他眼中……
+CAPTION_PROFESSOREVENT_PAGE_08	可能象征着自己统治银河的力量吧。
+CAPTION_PROFESSOREVENT_PAGE_09	雷文毕克打算把密特罗德带到ZDR，并当成生物兵器使用。
+CAPTION_PROFESSOREVENT_PAGE_10	因为这个计划需要能够控制密特罗德的苏哈族……
+CAPTION_PROFESSOREVENT_PAGE_11	所以他只让我活了下来。
+CAPTION_PROFESSOREVENT_PAGE_11_B	雷文毕克和麦欧金族原本打算带我暂时回到母星ZDR，|进行回收密特罗德的准备工作。|
+CAPTION_PROFESSOREVENT_PAGE_12	但却发生了意外情况，计划只能被迫中断了。
+CAPTION_PROFESSOREVENT_PAGE_13	从SR388回来的其中一名士兵是X拟态的。
+CAPTION_PROFESSOREVENT_PAGE_14	士兵们全都被X寄生了，ZDR陷入了一片混乱……
+CAPTION_PROFESSOREVENT_PAGE_15	但雷文毕克还是费劲千辛万苦成功将他们封印了。
+CAPTION_PROFESSOREVENT_PAGE_16	之后，他想继续执行计划……
+CAPTION_PROFESSOREVENT_PAGE_17	但SR388上的密特罗德都被你驱逐了。
+CAPTION_PROFESSOREVENT_PAGE_18	经过了一些事件之后，密特罗德灭绝了……
+CAPTION_PROFESSOREVENT_PAGE_19	雷文毕克的野心本该自此消失。
+CAPTION_PROFESSOREVENT_PAGE_20	是的，如果没有你……
+CAPTION_PROFESSOREVENT_PAGE_21	E.M.M.I.们被雷文毕克利用了。|为了要……
+CAPTION_PROFESSOREVENT_PAGE_22	要采集萨姆斯·亚兰你体内的“密特罗德DNA”。
+CAPTION_PROFESSOREVENT_PAGE_23	不用担心……
+CAPTION_PROFESSOREVENT_PAGE_24	我会终结这一切。
+CAPTION_PROFESSOREVENT_PAGE_25	我已经打开你该前往的那道门。
+CAPTION_PROFESSOREVENT_PAGE_26	接下来就靠你了，萨姆斯。
+DIAG_ADAM_LAB_2_PAGE_1	多亏了那位苏哈族朋友的话，我们现在清楚E.M.M.I.要捕获你的原因了。|萨姆斯·亚兰，{c1}雷文毕克{c0}为了得到仅存在于你体内的密特罗德DNA，|而将你引到了这里。
+DIAG_ADAM_LAB_2_PAGE_2	我已确认，由于{c1}魁特罗布{c0}的操控，|{c1}行星上的E.M.M.I.目前已处于静止状态{c0}。|现在的话，你可以不受E.M.M.I.威胁出发去地面了。
+DIAG_ADAM_LAB_2_PAGE_3	魁特罗布开启的路就在{c1}巴尔艾尼亚{c0}，立即去那里吧。
+DIAG_ADAM_FOREST_1_PAGE_1	萨姆斯，你已经相当接近地面了。|这个区域{c1}贾柏蓝{c0}好像是地下森林地带。
+DIAG_ADAM_FOREST_1_PAGE_2	虽然E.M.M.I.已处于静止状态，|但雷文毕克仍然在追踪拥有密特罗德DNA的你。|从你到达行星时与雷文毕克的战斗影像来看……
+DIAG_ADAM_FOREST_1_PAGE_3	你与他的实力有很大的差距。虽然你已在逐渐恢复战斗能力，|但我的分析数据表明，就算你恢复全部力量，仍然没有胜算。
+DIAG_ADAM_FOREST_1_PAGE_4	有件事情我百思不得其解。|为何雷文毕克当时没有杀掉你，或把你抓起来。|我觉得一定是有什么东西在对抗他。
+CAPTION_QUARANTINE_PAGE_01	扫描完毕。
+CAPTION_PROFESSORX_PAGE_01	接下来就靠你了。
+DIAG_ADAM_FOREST_2_PAGE_1	萨姆斯，最糟糕的事情发生了。
+DIAG_ADAM_FOREST_2_PAGE_2	X从被封印的地区释放到行星上了。|毫无疑问这是雷文毕克的杰作。
+DIAG_ADAM_FOREST_2_PAGE_3	但我完全猜不透他的目的。|考虑到你因为密特罗德DNA而拥有抗体，能够吸收X，|可能这也是来自雷文毕克的某种提示信息。
+DIAG_ADAM_FOREST_2_PAGE_4	不管是什么，|X已存在于这个行星并不断蔓延，我们最终必须消灭它。|所以萨姆斯，你得赶紧回到宇宙舰艇。
+DIAG_ADAM_FOREST_2_PAGE_5	我相信你能平安到达这里。
+DIAG_ADAM_SANC_1_PAGE_1	这个{c1}菲雷尼亚{c0}好像是过去鸟人族用来举行仪式的圣域，|但如今已完全变为废墟了。
+DIAG_ADAM_SANC_1_PAGE_2	正如之前魁特罗布说过的，|是因为以前X在这个行星上蔓延时造成混乱才导致毁灭的吧。
+DIAG_ADAM_SANC_1_PAGE_3	这一地区已是X的老巢。|我还探测到一个比其他更强力的X个体的反应。
+DIAG_ADAM_SANC_1_PAGE_4	如你所知，以前曾在此地区袭击过你的E.M.M.I.，|它的{c1}视线能穿透物质{c0}，而且还能发射出{c1}令目标麻痹的电气陷阱{c0}。|而现在……
+DIAG_ADAM_SANC_1_PAGE_4_B	我已确认到E.M.M.I.重新启动了。|我们必须考虑到雷文毕克也在背后。|只要正确使用幻影斗篷，应该就不用太恐慌。
+DIAG_ADAM_SANC_1_PAGE_5	萨姆斯，小心点。
+DIAG_ADAM_AQUA_2_PAGE_1	X已经蔓延到整个行星，我们最好先假设所有生物已被X取代。
+DIAG_ADAM_AQUA_2_PAGE_2	另外，你可能已经注意到了，{c1}ZDR的气温开始下降了{c0}。
+DIAG_ADAM_AQUA_2_PAGE_3	目前还不知道与X的蔓延是否有因果关系，但这个行星开始有低温化倾向了。|你穿着重力服，{c1}不会受到低温伤害{c0}，|但还是要注意事态，做好防备谨慎深入。
+DIAG_ADAM_CAVE_4_PAGE_1	我已经查明这种异常寒冷现象的原因了。|是因为来自{c1}卡塔利斯{c0}的能量没有被传送到各个地区。
+DIAG_ADAM_CAVE_4_PAGE_2	特别是这个{c1}阿尔塔利亚{c0}地区位于行星最深处，已经{c1}到处都冻结{c0}起来了。|你必须尽可能快地将冻结的门和水池恢复原状，解决这个紧急状况。
+DIAG_ADAM_CAVE_4_PAGE_3	{c1}卡塔利斯{c0}熔岩能量的中央管理系统仍然在运转，|所以恐怕是有巨大的力量在物理性地阻止能量的传递。|我想，你极有可能要和强大的X有一场战斗。彻底击败它吧。
+DIAG_ADAM_CAVE_4_PAGE_4	等问题解决后，你再回来这里吧。|这个地区应该有因为寒冷化现象|而没能获得的{c1}重要能力{c0}。
+DIAG_ADAM_AQUA_3_PAGE_1	萨姆斯，做得好。|不仅阻止了寒冷化现象，还获得了团身旋击啊。|那么，现在你可以破坏地形前往之前无法通过的地方了。
+DIAG_ADAM_AQUA_3_PAGE_2	你的战斗能力已凌驾于刚开始本任务的时候，|但我觉得现在还没到挑战雷文毕克的时候。|如果现在就和那家伙战斗，你胜利的可能性极低。
+DIAG_ADAM_SHIP_1_PAGE_1	这个区域{c1}哈奴比亚{c0}位于行星的表面。|你终于上到这里了啊。
+DIAG_ADAM_SHIP_1_PAGE_2	但是有个问题。|X可能会在你摧毁行星后被消灭，但雷文毕克不太可能会坐以待毙。|一旦察觉到危险，他必定会尝试逃脱。
+DIAG_ADAM_SHIP_1_PAGE_3	雷文毕克是威胁银河和平的存在，|而且那家伙应该不会放弃搜寻密特罗德DNA。|虽然胜算不高，但你必须在这里了结这一切。
+DIAG_ADAM_SHIP_1_PAGE_4	我正在调查那家伙的位置。|你{c1}过会再回这里{c0}吧。
+DIAG_ADAM_SHIP_2_PAGE_1	萨姆斯，你新发现的力量……|以惊人的速度从目标身上吸取能量的特性，|毫无疑问就是密特罗德的特性。
+DIAG_ADAM_SHIP_2_PAGE_2	你体内的密特罗德DNA|在至今为止的长期战斗中得到活化后，|完全觉醒了吧。
+DIAG_ADAM_SHIP_2_PAGE_3	只要你有了这压倒性的力量，应该就能对抗雷文毕克了。
+DIAG_ADAM_SHIP_2_PAGE_4	我在{c1}哈奴比亚{c0}遥远的上空发现了一个{c1}浮游堡垒{c0}。|雷文毕克一定就在那儿。
+DIAG_ADAM_SHIP_2_PAGE_5	萨姆斯，是时候了。|去完成自己的使命。
+DIAG_ADAM_FINAL_PAGE_01	你拥有密特罗德DNA的体质，似乎让你{c1}变成了密特罗德那样的东西{c0}。|其实原本应该在完成DNA移植后立即就表现出来的。
+DIAG_ADAM_FINAL_PAGE_02	可能是被你携带的{c1}苏哈族基因抑制{c0}了吧。|他们是唯一可以压制密特罗德的民族。
+DIAG_ADAM_FINAL_PAGE_03	虽说你拥有他们的DNA，但你本身并非苏哈族。|而且从你的身体能力来看，你也遗传到了{c1}麦欧金族的DNA{c0}。
+DIAG_ADAM_FINAL_PAGE_04	密特罗德似乎被设计为视麦欧金族为敌人，|所以……
+DIAG_ADAM_FINAL_PAGE_05	你的初次密特罗德化是在被雷文毕克袭击时发生的，|其原因很可能是你体内密特罗德的战斗本能觉醒了。
+DIAG_ADAM_FINAL_PAGE_06	之后你更快速地密特罗德化，|直到{c1}最终无法压制{c0}，变成了现在的样子。
+DIAG_ADAM_FINAL_PAGE_07	如今变为密特罗德那样的萨姆斯·亚兰，|对银河社会而言是极为危险的存在。
+DIAG_ADAM_FINAL_PAGE_08	但是你也不必难过。|虽然发生了变化，但还是有办法能让你正确使用这个力量，为银河社会做出贡献。
+DIAG_ADAM_FINAL_PAGE_09	只要你今后也能这样忠实地听从于我就行……|就像你听从我的指示来到这里一样。
+DIAG_ADAM_FINAL_PAGE_10	我对你在ZDR的表现非常满意。|而且你还让密特罗德的能力也觉醒了……
+DIAG_ADAM_FINAL_PAGE_11	看来那时候我看出了你的潜能，|让你活着，是正确的判断……
+DIAG_ADAM_FINAL_PAGE_12	立刻服从我，让你那难得的能力为我所用吧，|我的计划才是维持银河社会秩序的唯一途径。
+DIAG_ADAM_FINAL_PAGE_13	萨姆斯，去完成自己的使命。这是命令，不许你有异议。
+DIAG_ADAM_FINAL_PAGE_14	你太让我失望了。
+DIAG_ADAM_FINAL_PAGE_15	我的女儿啊。
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_01	你真的以为自己能打败我？真是自不量力……
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_02	你已经没什么用了，我现在也不需要密特罗德DNA。|你想知道原因吗？
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_03	因为我现在可以得到最强的密特罗德，萨姆斯·亚兰的克隆人。
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_04	逆我者亡，无论对方是谁。
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_05	我愚蠢的女儿啊，你就把银河的未来交给我，安心地沉睡吧……
+CAPTION_HYPERMETROIDNIZATIONEVENT_PAGE_06	力量就是一切……
+CAPTION_COMMANDERX_PAGE_01	萨姆斯……
+CAPTION_COMMANDERX_PAGE_02	力量就是一切……
+CAPTION_COMMANDERX_PAGE_03	获得权力必须要有牺牲……
+CAPTION_ENDGAME_PAGE_1	住手！
+CAPTION_ENDGAME_PAGE_2	舰艇的能量将被吸收殆尽。

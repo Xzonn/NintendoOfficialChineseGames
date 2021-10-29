@@ -1,0 +1,4101 @@
+glossary.msbt
+gl_799	庫巴蛋糕
+hsmg_common.msbt
+hsmg_tlp_start	START!
+hsmg_tlp_count	[0]
+hsmg_tlp_go	GO!
+hsmg_tlp_finish	FINISH!
+hsmg_tlp_chaname	[0]
+hsmg_tlp_win	WIN!
+hsmg_tlp_wins	WINS!
+hsmg_tlp_draw	DRAW!
+hsmg_tlp_newrecord	新紀錄！
+hsmg_tlp_newrecord_alone	新紀錄！
+hsmg_tlp_round	第[0]回合
+hsmg_tlp_round_final	最終回合
+hsmg_tlp_perfect	完美！
+hsmg_timer_countdown	[0]:[1].[2]
+hsmg_timer_countup	[0]:[1].[2]
+hsmg_courserecord	[0]
+hsmg_courserecord_endless	[0]
+hsmg_courserecord_m	[0]{size[3c00]}m{size[6400]}
+hsmg_courserecord_point_m	[0].[1]m
+hsmg_courserecord_degree	[0]°
+hsmg_courserecord_timer_countup	[0]:[1].[2]
+hsmg_newrecord	[0]
+hsmg_newrecord_m	[0]{size[3c00]}m{size[6400]}
+hsmg_newrecord_point_m	[0].[1]m
+hsmg_newrecord_degree	[0]°
+hsmg_newrecord_timer	[0]:[1].[2]
+hsmg_newrecord_alone	[0]
+hsmg_status_2digit	[0]
+hsmg_status_2digit_coin	[0]
+hsmg_status_3digit_m	[0]{size[3c00]}m{size[6400]}
+hsmg_status_3digit_percent	[0]{size[3c00]}％{size[6400]}
+hsmg_status_4digit_degree	[0]°
+hsmg_status_point_1_m	[0].[1]{size[3c00]}m{size[6400]}
+hsmg_status_point	[0].[1]
+hsmg_status_point_2_m	[0].[1]{size[3c00]}m{size[6400]}
+hsmg_status_rank	[0]
+hsmg_status_rank_small	[0]
+hsmg_status_user_name	[0]
+hsmg_rank_ui	[0]
+hsmg431_tlp_ctrl00	獲得80分以上！
+hsmg501_tlp_ctrl00	率先獲得[0]分！
+hsmg601_tlp_win_condition00	3分鐘內以高分為目標！
+hsmg601_tlp_win_condition01	最快獲得[0]分！
+hsmg602_tlp_win_condition00	消除★以高分為目標！
+hsmg602_tlp_win_condition01	比對手消除更多磚塊！
+hsmg603_tlp_win_condition01	比對手消除更多球！
+hsmg402_MGctrlGuide	 製作雪球（連按）
+hsmg215_MGctrlGuide	前面的玩家  控制方向　　後面的玩家  拍動翅膀
+hsmg501_MGctrlGuide	 移動　 擊球　 跳躍
+hsmg502_MGctrlGuide	 移動　 傳球/攔阻　 強力射門　 輕輕射門
+hsmg503_MGctrlGuide	 移動　 傳球/攔阻　 踢球
+hsmg_ui_pts	[0]{size[3c00]}pts{size[6400]}
+hsmg_speed_3digit	[0]
+hsmg_speed_max	MAX
+hsmg_speed	km/h
+hsmg_consecutive_wins	[0]連勝
+hsmg_record_privateTimer	[0]:[1].[2]
+hsmg404_count	[0]
+hsmg404_answer	[0]
+hsmg407_jump	[0]
+hsmg425_pageNumber	[0]
+hsmg430_tlp_memory	記住位置吧！
+hsmg430_tlp_return	放回原位吧！
+hsmg441_tlp_select	決定順序
+hsmg441_tlp_hole_in_one	一桿進洞
+hsmg441_number	[0]
+hsmg441_score_distance_2point	[0].[1]
+hsmg441_score_m	m
+hsmg441_skip	/跳過
+hsmg444_skip	/跳過
+hsmg444_count	[0]°
+hsmg445_gauge	[0]
+hsmg445_replay	REPLAY
+hsmg447_rank	[0]
+hsmg449_answer	[0]
+hsmg701_jump	[0]
+hsmg501_tlp_matchPoint	賽點
+hsmg503_tlp_gorl	踢中！
+hsmg503_tlp_kickoff	開球！
+hsmg601_tlp_miss	失誤
+hsmg602_score	得分
+hsmg602_score_myself	[0]
+hsmg602_score_high	[0]
+hsmg602_level	等級
+hsmg602_level_myself	[0]
+hsmg602_star	消除★的數量
+hsmg602_star_myself	[0]/[1]
+hsmg602_level_clear	等級[0]達成！
+hsmg602_next_level	等級[0]
+hsmg603_score	得分
+hsmg603_score_myself	[0]
+hsmg603_score_high	[0]
+hsmg603_level	等級
+hsmg603_level_myself	[0]
+hsmg603_level_clear	等級[0]達成！
+hsmg603_next_level	等級[0]
+hsmg603_timer_count	[0].[1]
+hsmg_inst.msbt
+inst_mgWarning	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}請勿用掌心之類，\r\n皮膚較脆弱的部位，\r\n操作控制器的操控搖桿。{color[000000ff]}
+inst_mgTitle	[0]
+inst_tlp_ctrl	操作看看吧！
+inst_OK	OK！
+inst_readyOK	/　開始！
+inst_ctrl_ui	操作方法
+inst_ctrl_side01	1人陣營
+inst_ctrl_side03	3人陣營
+inst_vs	VS
+inst_abandonedtimer	[0]
+inst_hsmg401_ctrl00	 移動
+inst_hsmg401_ctrl01	 跳躍
+inst_hsmg401_ctrl02	→ 臀部撞地
+inst_hsmg402_ctrl00	 製作雪球（連按）
+inst_hsmg402_ctrl01	 移動
+inst_hsmg402_ctrl02	 推雪球
+inst_hsmg403_ctrl00	 移動
+inst_hsmg403_ctrl01	 跳躍
+inst_hsmg403_ctrl02	 出拳
+inst_hsmg403_ctrl03	→ 臀部撞地
+inst_hsmg404_ctrl00	 計數＋1
+inst_hsmg404_ctrl01	 計數－1
+inst_hsmg405_ctrl00	 移動
+inst_hsmg405_ctrl01	 跳躍
+inst_hsmg406_ctrl00	 移動
+inst_hsmg407_ctrl00	 跳躍
+inst_hsmg408_ctrl00	 移動
+inst_hsmg408_ctrl01	 大跳躍
+inst_hsmg408_ctrl02	 旋轉（大跳躍時）
+inst_hsmg409_ctrl00	 揮動
+inst_hsmg410_ctrl00	 方向
+inst_hsmg410_ctrl01	 跳躍
+inst_hsmg411_ctrl00	 選擇洞穴
+inst_hsmg411_ctrl01	 探出頭（按住時）
+inst_hsmg412_ctrl00	 舉白旗
+inst_hsmg412_ctrl01	 舉紅旗
+inst_hsmg413_ctrl00	 移動
+inst_hsmg414_ctrl00	 移動
+inst_hsmg414_ctrl01	 跳躍
+inst_hsmg415_ctrl00	 移動
+inst_hsmg416_ctrl00	 照亮
+inst_hsmg417_ctrl00	＋ 轉動（同時連按）
+inst_hsmg418_ctrl00	 敲擊（連按）
+inst_hsmg419_ctrl00	 移動
+inst_hsmg419_ctrl01	 跳躍
+inst_hsmg420_ctrl00	 移動
+inst_hsmg421_ctrl00	 移動
+inst_hsmg421_ctrl01	 跳躍
+inst_hsmg421_ctrl02	 出拳
+inst_hsmg421_ctrl03	→ 臀部撞地
+inst_hsmg422_ctrl00	 移動
+inst_hsmg423_ctrl00	 移動
+inst_hsmg424_ctrl00	 移動並撿拾/交付信件
+inst_hsmg425_ctrl00	 移動
+inst_hsmg426_ctrl00	 移動
+inst_hsmg427_ctrl00	 移動
+inst_hsmg427_ctrl01	 發射
+inst_hsmg427_ctrl02	 向上發射
+inst_hsmg427_ctrl03	/ 固定方向（按住時）
+inst_hsmg428_ctrl00	 選擇
+inst_hsmg428_ctrl01	 按下
+inst_hsmg429_ctrl00	 跳躍
+inst_hsmg430_ctrl00	 移動
+inst_hsmg430_ctrl01	 抓住/擺放
+inst_hsmg430_ctrl02	 打開/關閉簾子
+inst_hsmg431_ctrl00	 移動
+inst_hsmg431_ctrl01	 抓住臉部（按住時）
+inst_hsmg431_ctrl02	 重置
+inst_hsmg432_ctrl00	 前進
+inst_hsmg432_ctrl01	 後退
+inst_hsmg432_ctrl02	 更改方向
+inst_hsmg433_ctrl00	 游泳（連按）
+inst_hsmg433_ctrl01	 潛進水裡
+inst_hsmg434_ctrl00	 發射
+inst_hsmg435_ctrl00	 移動
+inst_hsmg436_ctrl00	 移動
+inst_hsmg437_ctrl00	 移動
+inst_hsmg437_ctrl01	 跳躍
+inst_hsmg437_ctrl02	 出拳
+inst_hsmg437_ctrl03	→ 踢
+inst_hsmg438_ctrl00	 移動
+inst_hsmg438_ctrl01	 跳躍
+inst_hsmg438_ctrl02	 出拳
+inst_hsmg438_ctrl03	→ 臀部撞地
+inst_hsmg439_ctrl00	 移動
+inst_hsmg439_ctrl01	放開 躲進木桶
+inst_hsmg440_ctrl00	的角度 調整速度
+inst_hsmg441_ctrl00	 方向
+inst_hsmg441_ctrl01	 強度
+inst_hsmg441_ctrl02	 擊球
+inst_hsmg442_ctrl00	 放下籠子
+inst_hsmg443_ctrl00	 移動
+inst_hsmg443_ctrl01	 跳躍
+inst_hsmg444_ctrl00	 照順序按下並旋轉
+inst_hsmg444_ctrl99	 照順序按下並旋轉
+inst_hsmg445_ctrl00	 前進（交替）
+inst_hsmg446_ctrl00	 方向
+inst_hsmg446_ctrl01	 前進（按住時）
+inst_hsmg447_ctrl00	 移動
+inst_hsmg447_ctrl01	 速度提升1檔
+inst_hsmg448_ctrl00	 移動
+inst_hsmg448_ctrl01	 進去門裡
+inst_hsmg449_ctrl00	 計數＋1
+inst_hsmg101_ctrl10	 跳躍
+inst_hsmg101_ctrl11	→ 臀部撞地
+inst_hsmg101_ctrl30	 移動
+inst_hsmg101_ctrl31	 跳躍
+inst_hsmg102_ctrl10	 岩石落下的方向
+inst_hsmg102_ctrl11	 落下岩石
+inst_hsmg102_ctrl30	 移動
+inst_hsmg103_ctrl10	 移動
+inst_hsmg103_ctrl30	 移動
+inst_hsmg103_ctrl31	 跳躍
+inst_hsmg103_ctrl32	→ 臀部撞地
+inst_hsmg104_ctrl10	 逃跑（連按）
+inst_hsmg104_ctrl11	 跳躍
+inst_hsmg104_ctrl30	 跳躍
+inst_hsmg104_ctrl31	→ 臀部撞地
+inst_hsmg105_ctrl00	 拉繩子（旋轉）
+inst_hsmg106_ctrl10	 移動
+inst_hsmg106_ctrl11	 潛進水裡（按住時）
+inst_hsmg106_ctrl30	 移動探照燈
+inst_hsmg107_ctrl00	 移動
+inst_hsmg108_ctrl00	 移動
+inst_hsmg108_ctrl01	 加速
+inst_hsmg108_ctrl02	 減速
+inst_hsmg109_ctrl10	 向左旋轉
+inst_hsmg109_ctrl11	 向右旋轉
+inst_hsmg109_ctrl30	 移動
+inst_hsmg110_ctrl10	 移動
+inst_hsmg110_ctrl11	 衝刺
+inst_hsmg110_ctrl30	 移動
+inst_hsmg110_ctrl31	 攔阻
+inst_hsmg111_ctrl10	 移動
+inst_hsmg111_ctrl11	 拉弓/射箭
+inst_hsmg111_ctrl30	 移動
+inst_hsmg112_ctrl10	 移動
+inst_hsmg112_ctrl11	 跳躍
+inst_hsmg112_ctrl30	 方向
+inst_hsmg112_ctrl31	 射門
+inst_hsmg112_ctrl32	 強力射門（長按）
+inst_hsmg113_ctrl10	 大狼牙棒的方向
+inst_hsmg113_ctrl30	 移動
+inst_hsmg114_ctrl10	 選擇開關
+inst_hsmg114_ctrl11	 按下
+inst_hsmg114_ctrl30	 選擇躲藏位置
+inst_hsmg115_ctrl00	 上下左右（推動時）
+inst_hsmg115_ctrl01	 面向正面（放開）
+inst_hsmg201_ctrl00	 踏出右腳
+inst_hsmg201_ctrl01	 踏出左腳
+inst_hsmg202_ctrl00	 移動
+inst_hsmg202_ctrl01	 吃披薩（連按）
+inst_hsmg203_ctrl00	 移動
+inst_hsmg203_ctrl01	 跳躍
+inst_hsmg204_ctrl00	 移動
+inst_hsmg205_ctrl00	 拿取/放置材料
+inst_hsmg206_ctrl00	 推雪撬（連按）
+inst_hsmg206_ctrl01	 加速
+inst_hsmg206_ctrl02	 減速
+inst_hsmg206_ctrl03	 方向
+inst_hsmg207_ctrl00	 保持平衡
+inst_hsmg207_ctrl01	 加速（連按）
+inst_hsmg207_ctrl02	 煞車
+inst_hsmg208_ctrl00	 移動
+inst_hsmg209_ctrl00	 拿取（按住時）
+inst_hsmg209_ctrl01	 放開（放開）
+inst_hsmg210_ctrl00	 上拉（按住時）
+inst_hsmg210_ctrl01	 下壓（按住時）
+inst_hsmg211_ctrl00	 移動
+inst_hsmg211_ctrl01	 按下開關
+inst_hsmg212_ctrl00	 移動
+inst_hsmg212_ctrl01	 跳躍
+inst_hsmg213_ctrl00	 移動
+inst_hsmg213_ctrl01	 出拳
+inst_hsmg213_ctrl02	 跳躍
+inst_hsmg213_ctrl03	→ 踢
+inst_hsmg214_ctrl00	 移動
+inst_hsmg214_ctrl01	 發射油漆
+inst_hsmg215_ctrlGuide00	前面的玩家
+inst_hsmg215_ctrlGuide01	後面的玩家
+inst_hsmg215_ctrl00	 方向
+inst_hsmg215_ctrl10	拍動翅膀
+inst_hsmg701_ctrl00	 跳躍
+inst_hsmg702_ctrl00	 盪過去
+inst_hsmg703_ctrl00	 移動
+inst_hsmg704_ctrl00	 移動
+inst_hsmg704_ctrl01	 移動
+inst_hsmg705_ctrl00	 移動
+inst_hsmg801_ctrl00	 移動
+inst_hsmg801_ctrl01	 跳躍
+inst_hsmg801_ctrl02	→ 臀部撞地
+inst_hsmg802_ctrl00	 移動
+inst_hsmg802_ctrl01	 撐開/收起陽傘
+inst_hsmg803_ctrl00	 透過推動的角度來調整距離
+inst_hsmg803_ctrl01	 拋桿（放開）
+inst_hsmg803_ctrl02	 轉動捲線器（旋轉）
+inst_hsmg804_ctrl00	 打開箱子
+inst_hsmg805_ctrl10	 向右旋轉沙子
+inst_hsmg805_ctrl11	 向左旋轉沙子
+inst_hsmg805_ctrl30	 移動
+inst_hsmg806_ctrl00	 移動
+inst_hsmg807_ctrl00	 移動
+inst_hsmg808_ctrl00	 移動
+inst_hsmg808_ctrl01	 跳躍
+inst_hsmg809_ctrl00	 移動
+inst_hsmg810_ctrl00	 方向
+inst_hsmg810_ctrl01	 划（連按）
+inst_hsmg501_ctrl00	 移動
+inst_hsmg501_ctrl01	 擊球
+inst_hsmg501_ctrl02	 跳躍
+inst_hsmg501_ctrl03	→ 攻擊（跳躍時）
+inst_hsmg502_ctrl00	 移動
+inst_hsmg502_ctrl01	 傳球/攔阻
+inst_hsmg502_ctrl02	 強力射門
+inst_hsmg502_ctrl03	 輕輕射門
+inst_hsmg503_ctrl00	 移動
+inst_hsmg503_ctrl01	 傳球/攔阻
+inst_hsmg503_ctrl02	 踢球
+inst_hsmg503_ctrl03	＋ 踢球方向（按住時）
+inst_hsmg601_ctrl00	 移動
+inst_hsmg601_ctrl01	 快速移動
+inst_hsmg601_ctrl02	 落下
+inst_hsmg601_ctrl03	 上下替換
+inst_hsmg602_ctrl00	 移動游標
+inst_hsmg602_ctrl01	 向上傳送磚塊
+inst_hsmg602_ctrl02	＋ 搬運（按住時）
+inst_hsmg602_ctrl03	 向上移動
+inst_hsmg603_ctrl00	 旋轉舞台
+inst_hsmg603_ctrl01	 讓球落下
+inst_hsmg401_rule	快速移動到跟我舉起的板子\r\n相同圖案的蘑菇上吧。
+inst_hsmg402_rule	將雪球越推越大後，\r\n朝對手滾過去吧。
+inst_hsmg403_rule	比對手更快獲得音符吧。\r\n會變得頭暈目眩而無法隨意移動喔！
+inst_hsmg404_rule	數一數角色的數量吧。\r\n最後會對答案喔。
+inst_hsmg405_rule	在滑溜溜的冰上，努力閃躲{color[ff3502ff]}刺刺龜{color[000000ff]}{color[110c1dff]}吧！{color[000000ff]}
+inst_hsmg406_rule	用身體把對手撞下去吧。
+inst_hsmg407_rule	小心不要被火焰繩子打到，\r\n看準時機跳躍吧！
+inst_hsmg408_rule	把對手撞下去吧。\r\n可以在大跳躍中透過旋轉把對手彈飛喔！
+inst_hsmg409_rule	看準時機，把球打回去吧。
+inst_hsmg410_rule	跳到魔豆樹葉上，\r\n爬得比任何人都高吧。
+inst_hsmg411_rule	小心不要被{color[ff3502ff]}黃鼴鼠{color[000000ff]}{color[110c1dff]}發現喔。\r\n把頭探出來最久的人就獲勝。{color[000000ff]}
+inst_hsmg412_rule	舉起和{color[ff3502ff]}嘿呵{color[000000ff]}{color[110c1dff]}相同顏色的旗子吧。\r\n舉旗的速度會越來越快喔！{color[000000ff]}
+inst_hsmg413_rule	把線描得漂漂亮亮，\r\n挖掘出化石吧。
+inst_hsmg414_rule	傾斜讓龜殼滑動，\r\n直到翻開所有的板子吧。
+inst_hsmg415_rule	用蠟筆將示範的線條\r\n漂亮地描繪出來吧。
+inst_hsmg416_rule	把{color[ff3502ff]}汪汪{color[000000ff]}{color[110c1dff]}引到快碰到自己的時候，\r\n用燈照亮，讓牠停下來。{color[000000ff]}
+inst_hsmg417_rule	多多轉動發條，\r\n飛得比對手更遠吧。
+inst_hsmg418_rule	以鎚子敲擊，快速地擊飛{color[ff3502ff]}刺球丸子{color[000000ff]}{color[110c1dff]}吧。\r\n每敲擊五次就能擊飛一個。{color[000000ff]}
+inst_hsmg419_rule	小心不要從搖搖晃晃的島上掉下來，\r\n努力生存到最後吧！
+inst_hsmg420_rule	多多給{color[ff3502ff]}吞食花{color[000000ff]}{color[110c1dff]}澆水吧。{color[000000ff]}
+inst_hsmg421_rule	獲得{color[ff3502ff]}巨大蘑菇{color[000000ff]}{color[110c1dff]}後，\r\n用身體撞擊對手吧。{color[000000ff]}
+inst_hsmg422_rule	躲開一群簇擁上來的{color[ff3502ff]}企鵝{color[000000ff]}{color[110c1dff]}，\r\n小心不要掉進海裡了！{color[000000ff]}
+inst_hsmg423_rule	看好地上的影子，\r\n接住掉下來的冰淇淋吧。
+inst_hsmg424_rule	撿拾從天而降的信件\r\n並交給{color[ff3502ff]}嘿呵{color[000000ff]}{color[110c1dff]}吧。{color[000000ff]}
+inst_hsmg425_rule	請躲進洞裡，\r\n不要被倒下來的書頁壓扁了！
+inst_hsmg426_rule	小心不要從彎來彎去的小路上掉下去了，\r\n努力抵達終點吧。
+inst_hsmg427_rule	以戰車和對手互相射擊吧。\r\n被擊中兩次就出局！
+inst_hsmg428_rule	每個人輪流按下開關吧。\r\n爆炸就出局！
+inst_hsmg429_rule	碰到蜂巢就出局。\r\n拿取水果的數字是決勝的關鍵！
+inst_hsmg430_rule	請將掉落的物品放回原處。\r\n為了防止作弊，記得使用簾子。
+inst_hsmg431_rule	拖曳{color[ff3502ff]}庫巴{color[000000ff]}{color[110c1dff]}的臉，\r\n使其更接近範本的樣子吧。{color[000000ff]}
+inst_hsmg432_rule	用車身的尖刺弄破對手的氣球吧。
+inst_hsmg433_rule	請逃離{color[ff3502ff]}巨大泡泡魚{color[000000ff]}{color[110c1dff]}！\r\n精準地躲過炸彈吧。{color[000000ff]}
+inst_hsmg434_rule	瞄準對手再發射吧。\r\n不能被大炮擊中喔！
+inst_hsmg435_rule	{color[ff3502ff]}庫巴{color[000000ff]}{color[110c1dff]}會在黑暗中發動攻擊！\r\n請想辦法逃走吧！{color[000000ff]}
+inst_hsmg436_rule	請想盡辦法躲過\r\n{color[ff3502ff]}庫巴{color[000000ff]}{color[110c1dff]}丟出來的尖刺球吧！{color[000000ff]}
+inst_hsmg437_rule	努力生存到最後吧。\r\n要小心不要從洞口掉下去！
+inst_hsmg438_rule	在按下快門的瞬間，\r\n站到正中間面向鏡頭吧。
+inst_hsmg439_rule	請按下紅色按鍵從出口逃走。\r\n{color[ff3502ff]}汪汪{color[000000ff]}{color[110c1dff]}快醒來的時候，就躲進木桶裡吧。{color[000000ff]}
+inst_hsmg440_rule	這是只需要調整速度的競賽(4圈)。\r\n速度太快會打轉，要小心喔！
+inst_hsmg441_rule	朝著旗子，將球打過去吧。\r\n離球洞最近的人就獲勝。
+inst_hsmg442_rule	看準時機放下籠子，\r\n多多捕獲{color[ff3502ff]}栗寶寶{color[000000ff]}{color[110c1dff]}吧。{color[000000ff]}
+inst_hsmg443_rule	把{color[ff3502ff]}飛行龜{color[000000ff]}{color[110c1dff]}當作立足點，\r\n一直向上跳躍吧。{color[000000ff]}
+inst_hsmg444_rule	盡量讓滑雪板\r\n在空中多旋轉幾次吧。
+inst_hsmg445_rule	這是騎乘木馬前進的競賽。\r\n要注意速度，太快會累！
+inst_hsmg446_rule	最快溜完5圈的人獲勝。\r\n決勝的關鍵是不要減速！
+inst_hsmg447_rule	目標是要最快抵達終點。\r\n跳過去時，要小心不要撞到{color[ff3502ff]}海膽小子{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+inst_hsmg448_rule	找出通往下層的門，\r\n盡快逃離洋樓吧。
+inst_hsmg449_rule	數一數有多少{color[ff3502ff]}栗寶寶{color[000000ff]}{color[110c1dff]}穿過畫面吧。\r\n按下的數量無法返回喔！{color[000000ff]}
+inst_hsmg101_rule	1人陣營請藉由臀部撞地引起波浪，\r\n讓對手從舞台上掉下去。\r\n3人陣營則藉由跳躍不斷地躲過波浪。
+inst_hsmg102_rule	3人陣營要以攻頂為目標。\r\n1人陣營請落下岩石來阻礙對方。
+inst_hsmg103_rule	1人陣營要在地上滾動以躲避椰子。\r\n3人陣營則要藉由臀部撞地讓椰子落下以擊中對手。
+inst_hsmg104_rule	1人陣營要連按按鍵來逃跑。\r\n3人陣營則要藉由臀部撞地讓雨落下，\r\n給予{color[ff3502ff]}吞食花老大{color[000000ff]}{color[110c1dff]}力量。{color[000000ff]}
+inst_hsmg105_rule	拉動繩子讓對手掉下去。\r\n1人陣營因穿著{color[ff3502ff]}庫巴{color[000000ff]}{color[110c1dff]}裝而變得強而有力。{color[000000ff]}
+inst_hsmg106_rule	將探照燈同時照向對手吧。\r\n1人陣營則要努力逃離探照燈。
+inst_hsmg107_rule	3人陣營要同心協力追逐對手。\r\n1人陣營則要努力逃跑，不要被壓扁了。
+inst_hsmg108_rule	1人陣營要以帶有尖刺的裝置衝撞對手。\r\n3人陣營則要調整速度，努力逃跑！
+inst_hsmg109_rule	1人陣營負責旋轉舞台，讓對手掉下去。\r\n3人陣營則要盡力避免從洞洞掉下去！
+inst_hsmg110_rule	1人陣營要拿著球衝向終點。\r\n3人陣營則要攔阻對手前進。
+inst_hsmg111_rule	1人陣營要用箭射向對手的箭靶。\r\n3人陣營則要避免被箭射中。
+inst_hsmg112_rule	3人陣營要取得10分。\r\n1人陣營則要防守球門。
+inst_hsmg113_rule	3人陣營請不斷逃離大狼牙棒！\r\n1人陣營也可以做假動作喔！
+inst_hsmg114_rule	3人陣營要找好躲藏的地方。\r\n1人陣營請在3次之內找出所有人。
+inst_hsmg115_rule	音樂停止後，決定臉朝的方向。\r\n3人陣營如果和1人陣營朝向相同方向就輸了。\r\n也要注意假動作喔！
+inst_hsmg201_rule	2人相互配合，踏出同一邊的腳來前進。\r\n沒有掌握好時機就會摔倒喔！
+inst_hsmg202_rule	在限制時間內，互相合作多吃一點大披薩吧。\r\n臘腸和披薩邊會比較有咬勁喔！
+inst_hsmg203_rule	2人合作，快速逃出\r\n有很多機關的地下迷宮吧。
+inst_hsmg204_rule	把龜殼撞進對手的球門吧。\r\n率先獲得3分的隊伍就獲勝。
+inst_hsmg205_rule	2人合作做蛋糕。\r\n1人先把海綿蛋糕放好，\r\n另1人再放上草莓。
+inst_hsmg206_rule	2人合作的滑雪橇競賽。\r\n轉彎時要互相配合，不要掉下去了。\r\n掉下去就出局！
+inst_hsmg207_rule	2人合作的採礦車競賽。\r\n要小心過彎不能太快。\r\n掉下岩漿就出局！
+inst_hsmg208_rule	2人合作把動來動去的印章\r\n用蠟筆圈起來。
+inst_hsmg209_rule	看準時機傳遞櫻桃，\r\n多多把櫻桃運送到籃子裡吧。
+inst_hsmg210_rule	快速把{color[ff3502ff]}庫巴氣球{color[000000ff]}{color[110c1dff]}弄破吧。\r\n仔細查看壓力錶，一次打入更多空氣吧。{color[000000ff]}
+inst_hsmg211_rule	請讓{color[ff3502ff]}炸彈兵{color[000000ff]}{color[110c1dff]}在對方那裡爆炸。\r\n先讓炸彈兵爆炸10次就獲勝！\r\n按下亮起的開關，炸彈兵就會往反方向移動。{color[000000ff]}
+inst_hsmg212_rule	請藉由跳躍來躲避\r\n轉來轉去的尖刺棒子！
+inst_hsmg213_rule	破壞擋路的岩石，以終點為目標吧。
+inst_hsmg214_rule	朝{color[ff3502ff]}栗寶寶{color[000000ff]}{color[110c1dff]}發射油漆，\r\n使其變成自己隊伍的顏色吧。{color[000000ff]}
+inst_hsmg215_rule	2人一組操縱飛機以抵達終點。
+inst_hsmg701_rule	請藉由跳躍來躲避，\r\n小心不要撞到時鐘上的指針！
+inst_hsmg702_rule	抓住左右搖擺的藤蔓，\r\n看準時機盪過去以抵達終點吧。
+inst_hsmg703_rule	通過旋轉門以抵達終點吧。
+inst_hsmg704_rule	乘坐龜殼比對手更快\r\n抵達終點吧。\r\n請小心避開{color[ff3502ff]}霹靂球{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+inst_hsmg705_rule	躲開飛過來的石頭\r\n並抵達終點吧。
+inst_hsmg801_rule	一面留意鐵鎚，一面收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n失足掉落的話，{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣就會歸零喔！{color[000000ff]}
+inst_hsmg802_rule	一面降落一面收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n要小心鐵鎚喔！{color[000000ff]}
+inst_hsmg803_rule	釣起{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣並收集起來吧。\r\n使用操控搖桿調整距離，以大魚為目標。{color[000000ff]}
+inst_hsmg804_rule	看著影子，記住有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣的箱子，\r\n當那個箱子來到面前，就打開來吧。{color[000000ff]}
+inst_hsmg805_rule	請收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n3人陣營被流沙吞噬就出局。\r\n1人陣營則要阻礙對方，讓對方無法獲得金幣。{color[000000ff]}
+inst_hsmg806_rule	收集流過來的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n請小心不要撞到圓木了！{color[000000ff]}
+inst_hsmg807_rule	收集滑過來的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n從輸送帶掉下去會損耗時間喔！{color[000000ff]}
+inst_hsmg808_rule	收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n要小心{color[ff3502ff]}吞食花{color[110c1dff]}！{color[000000ff]}
+inst_hsmg809_rule	把飄浮在空中的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣收集起來吧。\r\n用蹺蹺板來跳躍。\r\n1人有2次機會喔！{color[000000ff]}
+inst_hsmg810_rule	2人一起划木筏來收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣吧。\r\n要小心不要被鐵鎚砸到！{color[000000ff]}
+inst_hsmg501_rule	沙灘排球的對決。\r\n在3次之內把排球打回對方的場地吧。
+inst_hsmg502_rule	冰上曲棍球的對決。\r\n即使是輕輕射門，也要多加利用喔。
+inst_hsmg503_rule	請2人一組，將對手的{color[ff3502ff]}栗寶寶{color[000000ff]}{color[110c1dff]}\r\n用龜殼全部擊倒。{color[000000ff]}
+inst_hsmg601_rule	相同顏色的磚塊2個以上\r\n連起來就會消除。\r\n{color[ff3502ff]}咚咚{color[000000ff]}{color[110c1dff]}會幫忙壓扁磚塊。{color[000000ff]}
+inst_hsmg601_rule2	相同顏色的磚塊2個以上\r\n連起來就會消除。\r\n{color[ff3502ff]}咚咚{color[000000ff]}{color[110c1dff]}會幫忙壓扁磚塊。{color[000000ff]}
+inst_hsmg602_rule	連接5個以上的磚塊，使其消除。\r\n消除指定數量的★，就會達成等級！\r\n時間歸零時，遊戲結束。
+inst_hsmg602_rule2	連接5個以上的磚塊，使其消除。\r\n時間先歸零的一方就輸了！\r\n消除↑↓磚塊，就能發送阻礙磚塊。
+inst_hsmg603_rule	連接5個以上的球，使其消除。\r\n消除指定的數量，就會達成等級！\r\n從舞台上掉出10個時，遊戲結束。
+inst_hsmg603_rule2	連接5個以上的球，使其消除。\r\n消除有數字的球，就能發送給對方！\r\n從舞台上掉出10個的一方就輸了！
+hsmg_item.msbt
+hsmg900_tlp_gotItem	GOT ITEM！
+hsmg900_tlp_miss	MISS！
+hsmg901_tlp_smallRule	以火箭瞄準！
+hsmg902_tlp_smallRule	弄破氣球！
+hsmg903_tlp_smallRule	停下輪盤！
+hsmg904_tlp_smallRule	盪上去！
+hsmg905_tlp_smallRule00	不要錯過！
+hsmg905_tlp_smallRule02	弄壞木桶！
+hsmg901_pop_ctrl02	連按向上舉起　敲擊
+hsmg902_pop_ctrl00	射箭
+hsmg903_pop_ctrl00	按下開關
+hsmg904_pop_ctrl00	跳躍
+hsmg905_pop_ctrl02	移動　出拳
+hsmm01.msbt
+hsmm01_mgtype	[0]
+hsmm01_winHist	勝負表
+hsmm01_ctlr_iconL	
+hsmm01_ctlr_iconR	
+hsmm01_ctlr_iconL01	
+hsmm01_ctlr_iconR01	
+hsmm01_mg_ctrl_winHist	勝負表
+hsmm01_mg_ctrl_random	隨機
+hsmm01_mgname0	[0]
+hsmm01_mgname1	[0]
+hsmm01_vs00	vs
+hsmm01_rule_mgname	[0]
+hsmm01_rule_mgtype	[0]
+hsmm01_match00	[0]分賽制
+hsmm01_match01	[0]分鐘賽制
+hsmm01_plyNum00	遊玩次數
+hsmm01_record00	高分
+hsmm01_record01	獲勝次數
+hsmm01_plyNum00_0	[0]次
+hsmm01_record00_0	[0]
+hsmm01_record00_0_m	[0]m
+hsmm01_record00_0_point_m	[0].[1]m
+hsmm01_record00_0_degree	[0]°
+hsmm01_record00_0_timer	[0]:[1].[2]
+hsmm01_record00_1	關卡[0]
+hsmm01_record00_2_timer	[0]:[1].[2]
+hsmm01_record00_3	[0]{size[4b00]}勝{size[6400]}
+hsmm01_rule03	賽點
+hsmm01_rule04	限制時間
+hsmm01_rule06	獲勝條件
+hsmm01_rule10	回合
+hsmm01_rule11	獲勝條件
+hsmm01_rule12	模式
+hsmm01_rule00_0	[0]P
+hsmm01_rule00_1	CPU
+hsmm01_rule02_0	關卡[0]
+hsmm01_rule03_0	[0]分
+hsmm01_rule04_0	[0]分鐘
+hsmm01_rule06_0	[0]分
+hsmm01_rule08_0	CPU[0]
+hsmm01_rule09_0	附說明
+hsmm01_rule09_1	無說明
+hsmm01_rule10_0	[0]
+hsmm01_rule11_0	[0]
+hsmm01_rule12_0	標準
+hsmm01_rule12_1	永無止境
+hsmm01_addFav	已登錄到{color[ff3502ff]}[0]{color[000000ff]}
+hsmm01_blankFav	{color[ffffffff]}能夠只遊玩已登錄到{color[ff3502ff]}[0]{color[ffffffff]}的小遊戲。{color[000000ff]}
+hsmm01_blankWinlist	遊玩小遊戲後，\r\n可以查看勝負表。
+hsmm01_mw00	{color[ffffffff]}歡迎來到{color[ff3502ff]}[0]{color[ffffffff]} ！\r\n在這裡可以選擇喜歡的小遊戲來練習。{color[000000ff]}
+hsmm02.msbt
+hsmm02_mw_op01	運動小遊戲和益智小遊戲\r\n可以更改遊戲規則喔。
+hsmm02_mw_op02	藉由運動小遊戲和益智小遊戲\r\n和世界各地的人一較高下吧！
+hsmm02_mgtype	[0]
+hsmm02_record00	等級
+hsmm02_record00_rank	[0]
+hsmm03.msbt
+hsmm03_mw_op00	在小遊戲中獲勝，\r\n多多獲得金幣吧。
+hsmm03_mw_op01	那麼，{color[ff3502ff]}[0]{color[000000ff]}\r\n{color[ffffffff]}開始！！{color[000000ff]}
+hsmm03_mw_rd00	首先是第一個小遊戲。
+hsmm03_mw_rd01	將從各自選擇的小遊戲中，\r\n以輪盤來決定。
+hsmm03_mw_rd10	那麼，下一個小遊戲！
+hsmm03_mw_rd20	大逆轉，\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}領先了！{color[000000ff]}
+hsmm03_mw_rd30	現在領先的是\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}和{color[000000ff]}{color[ff3502ff]}[1]{color[000000ff]}{color[ffffffff]}兩位！{color[000000ff]}
+hsmm03_mw_rd40	領先的是{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}、\r\n{color[000000ff]}{color[ff3502ff]}[1]{color[000000ff]}{color[ffffffff]}和{color[000000ff]}{color[ff3502ff]}[2]{color[000000ff]}{color[ffffffff]}三位！{color[000000ff]}
+hsmm03_mw_rd50	喔，{[0106|0000]}真沒想到！！{[0106|0c00]}\r\n{[0106|0100]}竟然全員同分。
+hsmm03_mw_rd90	終於來到最後一個小遊戲了！
+hsmm03_mw_evnt00	這是一個好機會，\r\n在小遊戲中獲得的金幣都可以直接帶走！
+hsmm03_mw_evnt10	已獲得的金幣將變2倍！
+hsmm03_mw_evnt20	賭上收集到的金幣，全員對戰吧！
+hsmm03_mw_evnt21	首先，將各收取10金幣。
+hsmm03_mw_evnt22	{[0106|0000]}哎呀？{[0106|0c00]}\r\n{[0106|0100]}金幣好像不夠呢……
+hsmm03_mw_evnt23	我這次就額外\r\n送你10金幣吧！
+hsmm03_mw_evnt24	那麼，賭上這[0]金幣，\r\n以小遊戲來一決勝負吧。
+hsmm03_mw_evnt30	要以哪個小遊戲對戰，\r\n{color[ffffffff]}就讓{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}來選擇吧。{color[000000ff]}
+hsmm03_mw_evnt40	由領先的{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}和其他3人進行對戰！\r\n獲勝者將會獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}20金幣。{color[000000ff]}
+hsmm04.msbt
+hsmm04_mw_op00	兩人同心協力，\r\n率先贏得[0]勝的隊伍就獲勝！
+hsmm04_mw_rd00	哪一邊能拿下第一場勝利呢？\r\n先來決定第一個小遊戲吧。
+hsmm04_mw_rd10	{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}和{color[000000ff]}{color[ff3502ff]}[1]{color[000000ff]}{color[ffffffff]}的隊伍\r\n逆轉領先了！！{color[000000ff]}
+hsmm04_mw_rd11	下一個小遊戲，\r\n{color[ffffffff]}就讓{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}來選擇吧。{color[000000ff]}
+hsmm04_mw_rd20	很可惜，不分勝負……
+hsmm04_mw_rd21	打起精神，迎接下一個小遊戲吧！
+hsmm04_mw_rd90	……再贏一次就能分出勝負了。
+hsmm04_mw_rd91	那麼，接下來就是最後一場了！？
+hsmm05.msbt
+hsmm05_mw_op00	與敵人對戰，5連勝就過關！\r\n那麼，你能取得最後勝利嗎？
+hsmm05_mw_op00_st2	我召集了比剛剛更強的敵人！\r\n這次你能贏到哪裡呢？
+hsmm05_mw_op00_st3	沒想到你能贏到這裡……\r\n這次你也能贏到最後嗎！？
+hsmm05_mw_op00_st4	那麼，接下來是1人挑戰！\r\n你能贏到哪裡呢？
+hsmm05_mw_op00_st5	唔！我召集了更強的敵人！\r\n這次你能贏到哪裡呢？
+hsmm05_mw_op00_st6	沒想到你一個人也能贏到這裡……\r\n不過你面對這些敵人也能贏到最後嗎！？
+hsmm05_mw_op01	呵呵，做得不錯嘛。\r\n那麼，接下來會如何呢？
+hsmm05_mw_op01b	嗯，這一場獲勝是理所當然的。\r\n接下來會怎麼樣呢？
+hsmm05_mw_op02	……唔唔，很厲害嘛。\r\n不過，勝負現在才正要開始！
+hsmm05_mw_op02b	……喔，還不錯嘛。\r\n不過，下次你輸定了！
+hsmm05_mw_op03	……唔！還是不行啊！\r\n不、不過一切都還沒結束！
+hsmm05_mw_op03b	……呵呵呵，我承認你很厲害。\r\n不過，下次你真的輸定了！
+hsmm05_mw_op04	……可、可、可惡！\r\n既然如此，那這樣如何！！
+hsmm05_mw_op04b	……怎麼可能！竟然能贏到這裡。\r\n接下來絕對不會再讓你贏了！！
+hsmm05_mw_lose00	怎麼樣，認輸了嗎！\r\n回去磨鍊磨鍊再來吧！
+hsmm05_mw_lose00b	不甘心嗎？一定很不甘心吧。\r\n回去好好練習再過來吧！
+hsmm05_mw_lose00c	唔，你差一點就贏了。\r\n不過，輸了就是輸了，還是認清事實吧。
+hsmm06.msbt
+hsmm06_mw_op00	透過網路與世界各地的人對戰！\r\n不斷刷新連勝紀錄吧！
+hsmm06_mw_op01	那麼，{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}開始！！{color[000000ff]}
+hsmm06_mw_mg01	接下來是1vs1決鬥小遊戲！
+hsmm06_mw_mg10	對戰的小遊戲將由我來選擇。\r\n好想知道究竟哪一邊會贏！
+hsmm06_mw_rtry00	喔，很有幹勁呢！\r\n再來一次吧，{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}開始！！{color[000000ff]}
+hsmm06_mw_rtry10	很厲害嘛！\r\n不過，下次也能獲勝嗎！？
+hsmm06_mw_rtry11	為了下次的獲勝，\r\n好好努力吧！
+hsmm06_mw_rtry12	贏得漂亮！\r\n我很好奇你能前進到哪裡喔！
+hsmm06_mw_lose00	[0]勝啊。\r\n挑戰多少次都可以，不要放棄！
+hsmm06_mw_lose01	[0]勝啊。\r\n真是可惜，下次會更好的！
+hsmm06_mw_lose02	雖然只有[0]勝，但感覺\r\n快要掌握到訣竅了。
+hsmm06_mw_lose03	這次是對手太強了。\r\n雖然只有[0]勝，但不用放在心上。
+hsmm06_mw_lose04	[0]勝出局啊！\r\n不過好像有點掌握到訣竅了呢！
+hsmm06_mw_lose05	[0]勝啊……\r\n雖然很可惜，但下次一定能贏更多的。
+hsmm06_mw_lose06	[0]勝啊！\r\n你的表現僅次於我呢。
+hsmm06_mw_lose07	[0]勝啊！還是挺不錯的嘛！
+hsmm06_mw_lose08	[0]勝啊……\r\n嗯，我本來以為這種程度能贏的！
+hsmm06_mw_lose09	[0]勝嗎！？\r\n嗯，跟我差不多嘛！
+hsmm06_mw_lose10	跟我預測的一樣，\r\n得[0]勝了！
+hsmm06_mw_lose11	你很厲害嘛！\r\n[0]勝可不是那麼簡單的！
+hsmm06_mw_lose12	[0]勝呀！\r\n太驚人了，真厲害！
+hsmm06_mw_lose13	竟然[0]勝呀！！\r\n真沒想到！我好不甘心啊！
+hsmm06_mw_lose14	哇，真的假的？\r\n你是怎麼獲得[0]勝的！！
+hsmm06_mw_lose15	太、太厲害了！\r\n我都沒有獲得過[0]勝呢！
+hsmm06_mw_update00	太好了，刷新高分了！\r\n真期待看到排名！
+hsmm07.msbt
+hsmm07_mw_op00	{color[ffffffff]}歡迎來到{color[ff3502ff]}[0]{color[ffffffff]}！\r\n小遊戲獲勝後，就能得到星星。{color[000000ff]}
+hsmm07_mw_op01	那麼，開始！
+hsmm07_mw_op_mgpk00	這個組合包的小遊戲\r\n簡單說，就是要快速過關。
+hsmm07_mw_op_mgpk01	這個組合包的小遊戲\r\n是生存下來就贏了的對戰。
+hsmm07_mw_op_mgpk02	這個組合包的小遊戲\r\n要仔細查看並思考哪個是正確答案。
+hsmm07_mw_op_mgpk03	這個組合包的小遊戲\r\n是1vs1的全力對決。
+hsmm07_mw_op_mgpk04	這個組合包的小遊戲，\r\n禁止眨眼，要好好看清楚喔。
+hsmm07_mw_op_mgpk05	這個組合包的小遊戲\r\n就是要多多收集金幣。
+hsmm07_mw_op_mgpk07	這個組合包的小遊戲\r\n就是要分成1vs3收集金幣。
+hsmm07_mw_op_mgpk08	這個組合包的小遊戲\r\n簡單說，就是要快速抵達終點。
+hsmm07_mw_op_mgpk10	這個組合包的小遊戲\r\n要一直逃，逃到天涯海角吧。
+hsmm07_mw_op_mgpk11	這個組合包的小遊戲\r\n要弄下去卻不被弄下去。
+hsmm07_mw_op_mgpk12	這個組合包的小遊戲\r\n要瞄準後再進行操作。
+hsmm07_mw_op_mgpk13	這個組合包的小遊戲，\r\n飛起跳躍是關鍵。
+hsmm07_mw_op_mgpk14	這個組合包的小遊戲是要集中在某個點上，\r\n以運動技巧來進行比賽。
+hsmm07_mw_op_mgpk16	這個組合包的小遊戲\r\n要靠著精細的操作以達到滿分。
+hsmm07_mw_op_mgpk17	這個組合包的小遊戲\r\n要從對手那裡逃走。
+hsmm07_mw_op_mgpk20	這個組合包的小遊戲，\r\n迅速反應是必須的。
+hsmm07_mw_op_mgpk21	這個組合包的小遊戲\r\n要藉由迅速的判斷生存下來。
+hsmm07_mw_op_mgpk22	這個組合包的小遊戲\r\n就是要多多收集需要的東西。
+hsmm07_mw_op_mgpk23	這個組合包的小遊戲\r\n就是要爭奪最佳位置。
+hsmm07_mw_op_mgpk24	這個組合包的小遊戲\r\n是打倒或逃跑的1vs3對戰。
+hsmm07_mw_op_mgpk25	這個組合包的小遊戲\r\n是1vs3的不平衡對戰。
+hsmm07_mw_rd00	首先第一個小遊戲，在這邊！
+hsmm07_mw_rd01	接下來的小遊戲，在這邊。
+hsmm07_mw_rd02	終於來到最後一場比賽了。\r\n盡全力加油吧！！
+hsmmet.msbt
+hsmmet_tlp_course00	[0]
+hsmmet_mw_crs01	可以隨意遊玩喜歡的小遊戲！
+hsmmet_mw_crs01b	來準備對戰吧！\r\n所有的小遊戲都可以練習喔。
+hsmmet_mw_crs01_rule00	小遊戲一共有100個！\r\n可以隨意選擇遊玩。
+hsmmet_mw_crs01_rule02	找不到小遊戲時，\r\n試著切換類型找找看吧。
+hsmmet_mw_crs01_rule01	也可以將喜歡的小遊戲\r\n登錄至「我的最愛」整合在一起！
+hsmmet_mw_crs02	和世界各地的人對戰，磨練技術吧。
+hsmmet_mw_crs02_rule01	與世界各地的對手對戰，\r\n以技術等級S為目標吧。
+hsmmet_mw_crs02_rule00	在小遊戲中獲勝，量條就會增加！
+hsmmet_mw_crs02_rule02	不單只是勝負，\r\n遊戲內容也會影響技術的上升。
+hsmmet_mw_crs02b	盡情享受運動遊戲，\r\n或玩益智遊戲來{color[ff3502ff]}挑戰高分{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+hsmmet_mw_crs02b_rule00	調整運動和益智小遊戲的各種設定，\r\n來磨練技術吧！
+hsmmet_mw_crs02b_rule01	1個人玩益智遊戲時，\r\n建議玩{color[ff3502ff]}高分挑戰{color[000000ff]}{color[110c1dff]}喔。{color[000000ff]}
+hsmmet_mw_crs03	這個對戰是在小遊戲中收集金幣，\r\n比賽誰收集到的金幣數量最多！
+hsmmet_mw_crs03_rule00	4人進行小遊戲比賽，\r\n看誰的金幣數量最多！
+hsmmet_mw_crs03_rule01	有時候也會出現{color[ff3502ff]}金幣小遊戲{color[000000ff]}{color[110c1dff]}或\r\n{color[000000ff]}{color[ff3502ff]}獎勵小遊戲{color[000000ff]}{color[110c1dff]}之類的機會事件。{color[000000ff]}
+hsmmet_mw_crs03_rule03	在{color[ff3502ff]}1vs3小遊戲{color[000000ff]}{color[110c1dff]}中，\r\n領先者將與其他3人進行比賽。{color[000000ff]}
+hsmmet_mw_crs03_rule02	最後，持有較多金幣的人\r\n將獲得勝利！
+hsmmet_mw_crs04	分成2vs2，進行分隊對決。
+hsmmet_mw_crs04_b	這裡可以2vs2分隊對決。\r\n來和朋友一起玩吧！
+hsmmet_mw_crs04_not	如果和朋友一起來的話，\r\n也可以線上遊玩。
+hsmmet_mw_crs04_rule00	{color[ff3502ff]}2vs2小遊戲{color[000000ff]}{color[110c1dff]}的對決\r\n將考驗團隊的實力！{color[000000ff]}
+hsmmet_mw_crs04_rule01	對了，可以自由選擇要分到哪一隊。
+hsmmet_mw_crs04_rule02	請決定要收集到多少顆星星才能獲勝。
+hsmmet_mw_crs05	以全勝為目標，用{color[ff3502ff]}1vs3小遊戲{color[000000ff]}{color[110c1dff]}來對戰吧！\r\n不論是自己1人還是3人合作，都能玩喔！{color[000000ff]}
+hsmmet_mw_crs05_b	這裡可以1vs3和敵人對戰。\r\n來和朋友一起玩吧！
+hsmmet_mw_crs05_not	如果和朋友一起來的話，\r\n也可以線上遊玩。
+hsmmet_mw_crs05_mc00	不會這麼容易就獲勝的！
+hsmmet_mw_crs05_mc01	過關後，\r\n會進入下一個關卡！
+hsmmet_mw_crs05_mc02	終於只剩下\r\n最後的關卡了！
+hsmmet_mw_crs05_mc03	竟然全部過關了，\r\n真是太厲害了！！
+hsmmet_mw_crs05_rule00	在{color[ff3502ff]}1vs3小遊戲{color[000000ff]}{color[110c1dff]}中和等待你的敵人連續對戰5次！\r\n全勝就能過關。{color[000000ff]}
+hsmmet_mw_crs05_rule03	持續獲勝的話，敵人也會越來越強喔。
+hsmmet_mw_crs05_rule01	成功通過關卡後，\r\n就會為你評定等級。
+hsmmet_mw_crs05_rule02	不過，一旦遊戲輸了就當場結束了。\r\n真的能夠過關嗎？
+hsmmet_mw_crs06	究竟能夠連勝幾次呢？\r\n和世界各地的人們對戰吧！
+hsmmet_mw_crs06_b	這裡是線上的1人遊玩專區。\r\n可以和世界各地的人對戰，看看自己能夠幾連勝。
+hsmmet_mw_crs06_not	這是線上的\r\n1人遊玩專用賽道。
+hsmmet_mw_crs06_mc00	很想知道你能幾連勝！
+hsmmet_mw_crs06_rule00	在小遊戲中，和世界各地的人全力對戰！
+hsmmet_mw_crs06_rule01	你有多擅長玩小遊戲呢？\r\n在連勝紀錄的排名中，拿下世界第一吧！
+hsmmet_mw_crs06_rule03	連勝時，也可以稍作休息，\r\n再從中斷點繼續遊玩。
+hsmmet_mw_crs06_rule02	不要因為輸了就放棄喔。\r\n要挑戰幾次都可以！
+hsmmet_mw_crs06b	可以從上次的中斷點繼續遊戲喔。
+hsmmet_mw_crs06b_rty00	要從上次的中斷點開始遊戲嗎？\r\n中斷資料將會被消除。
+hsmmet_mw_crs06b_rty00_a0	從中斷點開始
+hsmmet_mw_crs06b_rty00_a1	從頭開始
+hsmmet_mw_crs07	本日推薦的小遊戲組合包，\r\n請一定要玩玩看喔！
+hsmmet_mw_crs07_b	這裡是線上的1人遊玩專區。\r\n可以遊玩推薦的小遊戲組合包！
+hsmmet_mw_crs07_not	這是線上的\r\n1人遊玩專用賽道。
+hsmmet_mw_crs07_mc00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}，\r\n要玩玩看嗎？{color[000000ff]}
+hsmmet_mw_crs07_rule00	每天更換的小遊戲組合包，\r\n請隨意遊玩吧！
+hsmmet_mw_crs07_rule01	在小遊戲中獲得第一名，就能獲得{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星。\r\n一個組合包最多可以獲得3顆星星。{color[000000ff]}
+hsmmet_mw_crs07_rule02	小遊戲會每天更換，\r\n多多遊玩，收集{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星吧！{color[000000ff]}
+hsmmet_mw_dialog_rm00	要連接網路，\r\n與世界各地的人遊玩嗎？
+hsmmet_mw_dialog_rm00_a0	是
+hsmmet_mw_dialog_rm00t_a1	否
+hsmmet_crs_rule_img00	[0]
+hsmmet_crs_rule_img01	[0]
+hsmmet_crs_rule_img02	[0]
+hsmmet_crs_rule_img03	[0]P
+hsmmet_crs_rule_img04	[0]
+hsmmet_crs_rule_img05	[0]
+hsmmet_crs_rule_img06	[0]
+hsmmet_crs_rule_img07	+[0]
+hsmmet_myRec01	玩過的小遊戲
+hsmmet_myRec02	獲勝次數和高分
+hsmmet_myRec02rm	技術等級
+hsmmet_myRec03	高分
+hsmmet_myRec_name	[0]
+hsmmet_myRec01_a	[0]
+hsmmet_myRec01_b	/100
+hsmmet_myRec02_mgtype	[0]
+hsmmet_myRec02_win999	[0]{size[4b00]}勝{size[6400]}
+hsmmet_myRec02_best9999	[0]{size[4b00]}分{size[6400]}
+hsmmet_myRec02_rank	[0]
+hsmmet_myRec03_a	[0]
+hsmmet_myRec03_b	[0]回合
+hsmmet_myRec06_win	高分
+hsmmet_myRec06_rank	世界排名
+hsmmet_myRec06_guide	世界排名
+hsmmet_myRec06_b	[0]{size[4b00]}連勝{size[6400]}
+hsmmet_myRec06_c	{size[4b00]}第{size[6400]}[0]{size[4b00]}名{size[6400]}
+hsmmet_myRec06_top3	第[0]名
+hsmmet_myRec06_top3_name	[0]
+hsmmet_cfg_mgpk_today	今日小遊戲
+hsmmet_cfg_mgpk_time	還有[0][1]:[2][3]:[4][5]
+hsmmet_cfg_mgpk	[0]
+hsmmet_cfg_team1	1人挑戰
+hsmmet_cfg_team3	3人挑戰
+hsmmet_cfg_record01	[0]場遊戲過關
+hsmmet_cfg_record10	過關等級[0]
+hsmmet_cfg_stage00	[0]
+hsmmet_cfg_stage01	[0]
+hsmmet_cfg_rank00	[0]
+hsmmet_cfg_6mg_rank	[0]
+hsmmet_rule_OK	遊玩
+hsmmet_rule_save00	可以從[0]勝繼續挑戰！
+hsmmet_mw_op00	歡迎來到{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+hsmmet_mw_op02	那麼，請選擇要玩的賽道吧。
+hsmmet_mw_menuOK	要返回廣場嗎？
+hsmmet_mw_menuOK_a0	不返回
+hsmmet_mw_menuOK_a1	返回
+hsmmet_mw_ed00	這次的冠軍是……{[0106|1e00]}
+hsmmet_mw_ed01	{[0106|0000]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}{[0106|0c00]}{[0106|0100]}！！{color[000000ff]}
+hsmmet_mw_ed02	{[0106|0000]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}和{color[000000ff]}{[0106|0c00]}{[0106|0000]}{color[ff3502ff]}[1]{color[000000ff]}{color[110c1dff]}，{[0106|0c00]}{[0106|0100]}\r\n這兩位喔！！{color[000000ff]}
+hsmmet_mw_ed03	{[0106|0000]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}、{color[000000ff]}{[0106|0c00]}{[0106|0000]}{color[ff3502ff]}[1]{color[000000ff]}{color[110c1dff]}和{color[000000ff]}\r\n{[0106|0c00]}{[0106|0000]}{color[ff3502ff]}[2]{color[000000ff]}{color[110c1dff]}，{[0106|0c00]}{[0106|0100]}這三位！！{color[000000ff]}
+hsmmet_mw_ed04	……喔喔，{[0106|0000]}真沒想到！{[0106|1e00]}\r\n{[0106|0100]}竟然全都同分，所以全員冠軍！！
+hsmmet_mw_ed10	恭喜！\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}，過關！{color[000000ff]}
+hsmmet_mw_ed11	……很遺憾，\r\n沒能過關。
+hsmmet_mw_ed12	太厲害了！3人挑戰的\r\n所有關卡都過關了！
+hsmmet_mw_ed13	這樣一來，也能遊玩\r\n1人挑戰的關卡了。
+hsmmet_mw_ed14	玩得太精彩了！\r\n保持這個氣勢，挑戰下一個關卡吧！
+hsmmet_mw_ed15	喔～你做到了！！\r\n這樣一來，所有關卡都過關了！！
+hsmmet_mw_ed16	已經過關的關卡，可以提升等級，\r\n請一定要挑戰看看喔！
+hsmmet_mw_ed17	過關的小遊戲變多了。\r\n就照這個狀態繼續挑戰吧！
+hsmmet_mw_ed20	歡迎回來！那麼，\r\n我將發表這次的最高紀錄和排名！
+hsmmet_mw_ed21	你做到了！\r\n刷新了連勝紀錄！
+hsmmet_mw_ed22	太厲害了！\r\n你的排名來到了第[0]位！！
+hsmmet_mw_ed30	歡迎回來！\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}好玩嗎？{color[000000ff]}
+hsmmet_mw_ed31	太厲害了！\r\n{color[110c1dff]}獲得了[0]顆{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星呢！{color[000000ff]}
+hsmmet_mw_ed36	本日的組合包全都玩過了，\r\n非常感謝你～！
+hsmmet_mw_ed37	這個組合包是第一次玩吧。\r\n非常感謝你的遊玩！
+hsmmet_mw_ed40	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}的結果是……{color[000000ff]}{[0106|1e00]}
+hsmmet_mw_ed41	{[0106|0000]}冠軍{[0106|0c00]}{[0106|0100]}～！！
+hsmmet_mw_ed42	{[0106|0000]}第[0]名{[0106|0c00]}{[0106|0100]}～！
+hsmmet_rslt01	[0]
+hsmmet_rslt02	[0]過關！
+hsmmet_rslt03	[0]出局
+hsmmet_rslt_wins	這次的最高紀錄
+hsmmet_rslt_wr	世界排名
+hsmmet_rslt_update	刷新高分！
+hsmmet_rslt_num00	[0]{size[4b00]}連勝{size[6400]}
+hsmmet_rslt_num01	{size[4b00]}第{size[6400]}[0]{size[4b00]}名{size[6400]}
+hsmmet_rslt_rank00	[0]
+hsmmet_rslt_rank01	[0]
+hsmmet_rslt_win00	獲勝
+hsmmet_rslt_lose00	失敗
+hsmmet_rslt_clear00	[0]達成
+hsmmet_rslt_retire00	出局
+hsmmet_rslt_name00	[0]
+hsmmet_rslt_name01	[0]
+hsmmet_rslt_pt999	[0]
+hsmmet_rslt_pt99	[0]
+hsmmet_rslt_pt99_minus	-[0]
+hsmmet_rslt_st_rank00	過關等級
+hsmmet_rslt_st_rank01	[0]
+hsmm_common.msbt
+hsmm_ctrl_cancel	返回
+hsmm_ctrl_next	下一步
+hsmm_ctrl_rule	玩法
+hsmm_ctrl_rm	線上遊玩
+hsmm_ctrl_random	隨機
+hsmm_ctrl_fav	我的最愛
+hsmm_tlp_round	第[0]/[1]回合
+hsmm_tlp_rdFinal	最終回合
+hsmm_tlp_round01	第[0]回合
+hsmm_tlp_chal01	[0] - 1
+hsmm_tlp_chal02	[0] - 2
+hsmm_tlp_chal03	[0] - 3
+hsmm_tlp_chal04	[0] - [1]
+hsmm_tlp_1vs3Mg	1vs3小遊戲！
+hsmm_tlp_battleMg	對戰小遊戲！
+hsmm_tlp_bonusMg	獎勵小遊戲！
+hsmm_tlp_coinMg	金幣小遊戲！
+hsmm_tlp_duelMg	決鬥小遊戲！
+hsmm_tlp_3chal_clear	[0] - [1]  過關！
+hsmm_tlp_3chal_rank	等級[0]
+hsmm_tlp_survival	生存戰成功！
+hsmm_tlp_survival_win	[0]連勝
+hsmm_tlp_gratz	Congratulations！
+hsmm_tlp_starget	獲得{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星！{color[000000ff]}
+hsmm_tlp_op00	[0]
+hsmm_tlp_op01	[0]
+hsmm_tlp_op10	[0]勝賽制
+hsmm_tlp_op20	[0]回合
+hsmm_pt999	[0]
+hsmm_win999	[0]{size[4b00]}勝{size[6400]}
+hsmm_pt_wins	連勝中
+hsmm_pt_top	目前領先
+hsmm_pt_name	[0]
+hsmm_pt_coin	
+hsmm_pt_best999	[0]{size[4b00]}連勝{size[6400]}
+hsmm_pt_best999_l	[0]{size[4b00]}連勝{size[6400]}
+hsmm_pt_best_update	刷新高分！
+hsmm_mgsl_cinx2	×2
+hsmm_mgsl_hd00	[0]
+hsmm_mgsl_runk00	[0]
+hsmm_mgsl_win00	獲勝
+hsmm_mgsl_lose00	失敗
+hsmm_mgsl_clear00	[0]達成
+hsmm_mgsl_mgname00	[0]
+hsmm_pop_mgname	[0]
+hsmm_mgrslt_rank	[0]
+hsmm_mgrslt_win	獲勝
+hsmm_mgrslt_lose	失敗
+hsmm_mgrslt_draw	平手
+hsmm_mgrslt_coin999	+[0]
+hsmm_mgrslt_win999	[0]連勝
+hsmm_mgrslt_star	
+hsmm_name00	[0]
+hsmm_cpu00	[0]
+hsmm_rty02	挑戰下一個
+hsmm_rty03	中斷
+hsmm_rty04	從頭開始
+hsmm_rty05	退出
+hsmm_mw_rty00	下次遊玩{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}時，\r\n可以從中斷點繼續挑戰。{color[000000ff]}
+hsmn00.msbt
+hsmn00_ui_version	Ver. [0]
+mn_connect_join00	會有幾個人一起遊玩呢？
+mn_connect_join01	這台主機會有幾個人參加呢？
+mn_connect_join02	[0]
+mn_connect_join03	能進入房間的人數
+mn_connect_join04	還有[0]
+mn_connect_user_details	可以與用戶帳號連動
+mn_connect_mw_details00	連動用戶帳號再進行遊戲，就能把\r\n遊戲中收集到的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣與經驗值\r\n保存到自己的儲存資料。{color[000000ff]}
+mn_connect_mw_details01	OK！
+mn_connect_pl_userName00	[0]
+mn_connect_pl_userName01	訪客
+mn_connect_pl_ok	OK！
+mn_ctrl00	解除
+mn_ctrl01	返回
+mn_ctrl02	房間資訊
+hsmn00_choices_offline	用1台主機遊玩
+hsmn00_choices_local	靠近主機來遊玩
+hsmn00_choices_online	線上遊玩
+hsmn00_choices_offline_details	使用1台Nintendo Switch遊玩。
+hsmn00_choices_local_details	使用多台Nintendo Switch\r\n與附近的人通訊遊玩。
+hsmn00_choices_online_details	連接到網路\r\n與遠方的人遊玩。
+hsmn00_local_header	靠近主機來遊玩
+hsmn00_local_host	創建房間
+hsmn00_local_clients	尋找房間
+hsmn00_local_host_details	等待其他人來
+hsmn00_local_clients_details	進入別人創建的房間
+hsmn00_local_roomSel_order	要進入哪個玩家的房間？
+hsmn00_local_roomSel_ctrl_redo	再尋找一次
+hsmn00_local_roomSel_ctrl_back	返回
+hsmn00_local_roomSel_name	[0]
+hsmn00_local_roomSel_current	[0]/4
+hsmn00_local_robby_hostName	[0]的房間
+hsmn00_local_robby_playerName	[0]
+hsmn00_local_robby_wait	正在等待[0]開始遊戲……
+hsmn00_local_robby_pl	將以這些成員開始。
+hsmn00_robby_mpCard	Mario Party卡片
+hsmn00_local_robby_hostWait	正在等待參加者……
+hsmn00_local_ctrl_back	返回
+hsmn00_local_host_header	創建房間
+hsmn00_local_clients_header	尋找房間
+hsmn00_local_robby_info_limit	進房限制
+hsmn00_local_robby_info_pass	設定密碼
+hsmn00_local_robby_limit_any	所有人都可以
+hsmn00_local_robby_pass	[0]
+hsmn00_local_robby_notPass	無
+hsmn00_local_host_limit	進房限制
+hsmn00_local_host_pass	密碼
+hsmn00_local_host_limit_any	所有人都可以
+hsmn00_local_host_pass_off	不設定
+hsmn00_local_host_pass_on	設定
+hsmn00_online_header	線上遊玩
+hsmn00_online_choices_match	與各地的人遊玩
+hsmn00_online_choices_friend	與朋友遊玩
+hsmn00_online_choices_match_details	與陌生人遊玩
+hsmn00_online_choices_friend_details	與身在遠方的朋友遊玩
+hsmn00_reEntry_mw00	之前玩的雙陸遊戲還保留著。\r\n要再次入場嗎？
+hsmn00_reEntry_mw00_a0	要
+hsmn00_reEntry_mw00_a1	不要
+hsmn00_reEntry_mw01	正在再次入場。\r\n請稍候片刻。
+sys_reEntry_bdM	有玩家正在再次入場，\r\n請稍候。
+hsmn01.msbt
+mn_mainM_mw_card00a	購買卡片設計之後，\r\n就去{color[ff3502ff]}資料屋{color[000000ff]}{color[110c1dff]}編輯一下Mario Party卡片吧！{color[000000ff]}
+mn_mainM_mw_card00c	如果找到喜歡的雙陸遊戲，\r\n就編輯看看Mario Party卡片吧！
+mn_mainM_mw_card00d	你也可以把喜歡的小遊戲\r\n編輯到Mario Party卡片喔！
+mn_mainM_mw_card01a	啊！你買了卡片設計啊！\r\n要編輯Mario Party卡片嗎？
+mn_mainM_mw_card01b	啊……！你可以把獲得的稱號\r\n登錄到Mario Party卡片喔！
+mn_mainM_mw_details00	接下來，以超級巨星為目標，\r\n邁向冒險的旅途吧！
+mn_mainM_mw_details01	在冒險或{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}中收集到的\r\n{color[ffffffff]}{color[110c1dff]}金幣可用來購物。{color[000000ff]}
+mn_mainM_mw_details02	{color[110c1dff]}冒險的設定，請走這邊。\r\n將由{color[ff3502ff]}嘿呵{color[110c1dff]}來負責。{color[000000ff]}
+mn_mainM_mw_details03	可以查看冒險的回憶或紀錄！
+mn_mainM_mw_details04	想要前往{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}的話，\r\n就從這裡搭船吧！{color[000000ff]}
+mn_mainM_mw_details05	要跟朋友一起玩，就走這邊！
+mn_mainM_mw_details06	目前好像不在。\r\n（狀態變成線上之後，也許就能見到了？）
+mn_mainM_mw_details09	跟別人一起遊玩的時候，\r\n可以按解散。
+mn_mainM_pointer	[0]
+mn_mainM_ctrl_back	返回
+mn_mainM_ui_connect_offline	用1台主機遊玩
+mn_mainM_ui_connect_local	靠近主機來遊玩
+mn_mainM_ui_connect_online	線上遊玩
+mn_mainM_ctrl_status	Mario Party等級
+mn_mainM_ui_new	NEW！
+mn_mainM_ctrl_title_press	PRESS + BUTTON
+hsmn02.msbt
+mn_bdM_ctrl_friend	朋友屋
+mn_bdM_rules_rank	[0]
+mn_bdM_saveData_map	[0]
+mn_bdM_saveData_date	[0]/[1]/[2]
+mn_bdM_saveData_connect	[0]
+mn_bdM_saveData_turn	回合[0]/[1]
+mn_bdM_saveData_rank	[0]
+mn_bdM_saveData_star	[0]
+mn_bdM_saveData_coin	[0]
+mn_bdM_saveData_name	[0]
+mn_bdM_chara_random	隨機
+mn_bdM_handi_select	[0]
+mn_bdM_handi_list	[0]
+mn_bdM_map_level	難度
+mn_bdM_turn	回合數
+mn_bdM_bonus	獎勵星星
+mn_bdM_inst	小遊戲說明
+mn_bdM_handi	附加條件
+mn_bdM_turn_select	[0]回合
+mn_bdM_rule_select00	有
+mn_bdM_rule_select01	無
+mn_bdM_rule_select02	固定
+mn_bdM_rule_turn_time	[0]分鐘
+mn_bdM_mapName	[0]
+mn_bdM_on_map	[0]
+mn_bdM_on_map_ok	配對開始！
+mn_bdM_on_map_icon	也許有人能一起玩
+mn_bdM_on_map_rule	決定詳細規則
+mn_bdM_on_map_back	返回
+mn_bdM_on_map_level	難度
+mn_bdM_userName	[0]
+mn_bdM_comName	[0]
+mn_bdM_comLevel	[0]
+mn_bdM_chara_name	[0]
+mn_bdM_playerNo	[0]
+mn_bdM_comNo	CPU
+mn_bdM_pack_list	[0]
+mn_bdM_header_turn	回合數
+mn_bdM_header_bonus	獎勵星星
+mn_bdM_header_inst	小遊戲的說明
+mn_bdM_header_pack	小遊戲組合包
+mn_bdM_check_pack	[0]
+mn_bdM_saveData_guest	訪客
+mn_bdM_ctrl_good	好耶！
+mn_bdM_matchRule_title	可以詳細設定想要遊玩的規則。
+mn_bdM_matchRule_turn_title	回合數
+mn_bdM_matchRule_bonus_title	獎勵星星
+mn_bdM_matchRule_turn	[0]回合
+mn_bdM_matchRule_bonus00	有
+mn_bdM_matchRule_bonus01	無
+mn_bdM_matchRule_bonus02	固定
+mn_bdM_matchRule_reco	推薦
+mn_bdM_match_ctrl_card	/Mario Party卡片
+mn_bdM_match_ctrl_mg	/返回小遊戲
+mn_bdM_match_mg_name	[0]
+mn_bdM_match_rule_map	[0]
+mn_bdM_match_rule_turn	[0]回合
+mn_bdM_match_rule_bonus00	獎勵星星：有
+mn_bdM_match_rule_bonus01	獎勵星星：無
+mn_bdM_match_rule_bonus02	獎勵星星：固定
+mn_bdM_match_title_wait	正在尋找要一起玩的人……
+mn_bdM_match_title_start	遊戲即將開始！
+mn_bdM_match_card_name	[0]
+mn_bdM_match_card_level	等級[0]
+mn_bdM_match_card_achieve	[0]
+mn_bdM_match_card_wins	[0]連勝
+mn_bdM_match_card_rankTitle	技術
+mn_bdM_match_card_rank	[0]
+mn_bdM_match_card_coin	[0]
+mn_bdM_match_card_coinTitle	高分
+mn_bdM_match_sports_vs	VS
+mn_bdM_match_sports_name	[0]
+mn_bdM_match_sports_CPU	CPU
+mn_bdM_mw_intro_first00	一場決定超級巨星的冒險\r\n終於要開始了！
+mn_bdM_mw_introA	馬上來做冒險的準備吧。
+mn_bdM_mw_introB	真讓人興奮呢！
+mn_bdM_mw_introC	好玩的冒險正等待著我們。
+mn_bdM_mw_intro_save	好像有中斷資料呢。\r\n要從中斷點開始遊玩嗎？
+mn_bdM_intro_save_a0	從中斷點開始
+mn_bdM_intro_save_a1	從頭開始
+mn_bdM_mw_save_select	選擇想要遊玩的中斷資料吧。
+mn_bdM_mw_save_check	要從這個中斷點開始遊玩嗎？
+mn_bdM_save_check_a0	遊玩
+mn_bdM_save_check_a1	不是的
+mn_bdM_mw_save_guest	[0]，\r\n請選擇自己的角色。
+mn_bdM_mw_save_replaced	缺席的玩家將由CPU取代，\r\n那就開始冒險吧！
+mn_bdM_mw_override_select	中斷資料已滿。\r\n請選擇要覆蓋的中斷資料。
+mn_bdM_mw_override_check	要覆蓋這個中斷資料嗎？
+mn_bdM_override_check_a0	是
+mn_bdM_override_check_a1	否
+mn_bdM_mw_chara_select	有誰要參加冒險呢？
+mn_bdM_mw_com_select	這是4人的冒險。\r\n還差[0]，要讓誰參加呢？
+mn_bdM_mw_chara_check	這次要以這些成員開始遊戲嗎？
+mn_bdM_chara_check_a0	是
+mn_bdM_chara_check_a1	否
+mn_bdM_chara_check_a2	隨機
+mn_bdM_mw_comLevel_select	決定強度吧。
+mn_bdM_mw_handi_check	如果設定成有附加條件，\r\n一開始的持有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星數會改變喔。{color[000000ff]}
+mn_bdM_mw_handi_check00	大家的{color[ffffffff]}{color[110c1dff]}星星數量將從0開始喔。{color[ffffffff]}{color[000000ff]}
+mn_bdM_mw_handi_select	決定附加條件的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星數量吧。{color[000000ff]}
+mn_bdM_mw_rule_check	你明白冒險規則嗎？
+mn_bdM_mw_rule_after	你明白規則了嗎？
+mn_bdM_rule_check_a0	明白
+mn_bdM_rule_check_a1	告訴我吧
+mn_bdM_rule_check_a2	明白了！
+mn_bdM_mw_map00	在美味的蛋糕上前進吧。\r\n裝飾上去的草莓是勝負的關鍵！？
+mn_bdM_mw_map01	在宇宙站冒險！\r\n要小心狂奔的太空船和巨大的大炮喔！
+mn_bdM_mw_map02	必須按照箭頭方向前進的迷失森林。\r\n巧妙地運用會不斷變化的方向來前進吧。
+mn_bdM_mw_map03	兩座島以橋相連，橋上還有咚咚。\r\n待在哪座島比較好呢？仔細思考後再行動吧！
+mn_bdM_mw_map04	傳聞會有鬼怪出沒的詭異場所。\r\n白天和夜晚會發生不同的事，要小心喔！
+mn_bdM_mw_turn_reco	如果要在{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}冒險，\r\n我推薦[1]回合喔。{color[000000ff]}
+mn_bdM_mw_bonus_detail00	有機會大逆轉喔！\r\n能獲得怎樣的獎勵星星呢？
+mn_bdM_mw_bonus_detail01	沒有獎勵星星！\r\n只能全憑實力來比賽了。
+mn_bdM_mw_bonus_detail02	是金幣星星、小遊戲星星和\r\n事件星星全都固定的懷舊規則呢！
+mn_bdM_mw_inst_detail	在小遊戲開始之前，\r\n會有操作方法等詳細的說明。
+mn_bdM_mw_inst_detai00	將跳過小遊戲開始前的說明。
+mn_bdM_mw_pack_select	最後來選擇小遊戲組合包吧！\r\n不同的組合包裡有不同的小遊戲可以玩喔。
+mn_bdM_mw_pack_details00	可以遊玩所有的小遊戲。
+mn_bdM_mw_pack_details01	這裡集合了適合一家人遊玩\r\n且操作簡單的小遊戲喔。
+mn_bdM_mw_pack_details02	這裡集合了動作小遊戲喔。
+mn_bdM_mw_pack_details03	這裡集合了收錄在Nintendo 64的小遊戲喔。
+mn_bdM_mw_pack_details04	這裡集合了收錄在GameCube的小遊戲，\r\n會讓人回想起那個時候喔。
+mn_bdM_mw_pack_details05	這裡集合了考驗技巧的小遊戲喔。
+mn_bdM_mw_check	這樣就準備好了！\r\n要開始冒險嗎？
+mn_bdM_check_a0	開始
+mn_bdM_check_a1	返回
+mn_bdM_mw_rules00	這是透過投擲骰子決定前進格子數的雙陸遊戲喔。
+mn_bdM_mw_rules01	最後持有最多{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星的人\r\n就是超級巨星！{color[000000ff]}
+mn_bdM_mw_rules02	{color[110c1dff]}收集到20枚{color[ffffffff]}{color[110c1dff]}金幣，\r\n就能獲得{color[ffffffff]}{color[110c1dff]}星星！{color[000000ff]}
+mn_bdM_mw_rules03	獲勝的話，就能獲得{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣。{color[000000ff]}
+mn_bdM_mw_rules04	藍色格子是好的格子，但紅色格子就要小心了。
+mn_bdM_mw_rules05	停在藍色格子上，\r\n是獲得{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣的好機會！{color[000000ff]}
+mn_bdM_mw_rules06	停在紅色格子上，{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣會減少。\r\n要格外地留意庫巴格才行！！{color[000000ff]}
+mn_bdM_mw_rules07	另外，停在綠色格子上，會發生特別的事！
+mn_bdM_mw_rules08	大家都移動完了後，\r\n就用小遊戲決勝負！
+mn_bdM_mw_intro_online	好，現在開始，一場與世界各地的人\r\n爭奪成為超級巨星的對戰就要開始了！
+mn_bdM_mw_map_online	請選擇想要冒險的地方吧。
+hsmn03.msbt
+mn_dSetting_ctrl	返回
+mn_dSetting_bgm_choice	可以更改遊玩過的雙陸遊戲的BGM。
+mn_dSetting_bgm_board	[0]
+mn_dSetting_bgm_original	原曲
+mn_dSetting_bgm_remake	重製
+mn_dSetting_bgm_ok	OK！
+mn_dSetting_bgm_stop	停止
+mn_dSetting_top_stamp	貼圖設定
+mn_dSetting_top_save	消除中斷資料
+mn_dSetting_top_bgm	切換BGM
+mn_dSetting_top_message	訊息速度
+mn_dSetting_top_message_fast	快速
+mn_dSetting_top_message_normal	普通
+mn_dSetting_top_message_slow	緩慢
+mn_dSetting_top_mute	接收貼圖
+mn_dSetting_top_mute_on	是
+mn_dSetting_top_mute_off	否
+mn_dSetting_top_com_speed	CPU的動作
+mn_dSetting_top_com_fast	快速
+mn_dSetting_top_com_normal	普通
+mn_dSetting_stampTop_list	貼圖一覽表
+mn_dSetting_stampList_title	貼圖一覽表
+mn_dSetting_stampList_count	[0]/67
+mn_dSetting_title_details01	可以管理雙陸遊戲的中斷紀錄。
+mn_dSetting_title_details07	取消接收貼圖後，將不會看到陌生人發出的貼圖。
+mn_dSetting_mw_enterA	你好，{color[110c1dff]}這裡是{color[ff3502ff]}選項屋{color[110c1dff]}。{color[000000ff]}
+mn_dSetting_mw_enterB	歡迎來到{color[ff3502ff]}選項屋{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+mn_dSetting_mw_enterC	嗨，{color[110c1dff]}這裡是{color[ff3502ff]}選項屋{color[110c1dff]}喔。{color[000000ff]}
+mn_dSetting_mw_enter_first00	在這裡可以進行遊戲的各種設定。
+mn_dSetting_mw_add_intro	好像增加了新東西。\r\n請查看一下吧。
+mn_dSetting_mw_enter_byeA	這樣啊。\r\n有事就再來找我吧。
+mn_dSetting_mw_enter_byeB	你設定好了呢！\r\n那麼，再見。
+mn_dSetting_mw_enter_byeC	「好的設定才會做出好遊戲」，\r\n不要忘記這句話喔。
+mn_dSetting_mw_top_savedata	中斷資料已全部被消除。
+mn_dSetting_mw_stampSet_mute	真的可以嗎？
+mn_dSetting_mw_mute_a0	是
+mn_dSetting_mw_mute_a1	否
+mn_dSetting_mw_savedata_select	請選擇要消除的中斷資料。
+mn_dSetting_mw_savedata_check	消除後的資料無法復原。\r\n真的要消除嗎？
+mn_dSetting_mw_savedata_a0	是
+mn_dSetting_mw_savedata_a1	否
+hsmn04.msbt
+hsmn04_friend_host	創建房間
+hsmn04_friend_clients	尋找房間
+hsmn04_friend_clients_FL	尋找朋友的房間
+hsmn04_friend_clients_ID	以房間ID尋找
+hsmn04_friend_host_details	邀請一起遊玩的人
+hsmn04_friend_clients_details	進入別人創建的房間
+hsmn04_friend_clients_ID_details	輸入房間號碼來尋找
+hsmn04_friend_host_limit	進房限制
+hsmn04_friend_host_pass	密碼
+hsmn04_friend_host_limit_FL	僅限朋友
+hsmn04_friend_host_limit_any	所有人都可以
+hsmn04_friend_host_pass_on	設定
+hsmn04_friend_host_pass_off	不設定
+hsmn04_friend_host_pl	OK！
+hsmn04_friend_robby_info_limit	進房限制
+hsmn04_friend_robby_info_pass	設定密碼
+hsmn04_friend_robby_limit_FL	僅限朋友
+hsmn04_friend_robby_limit_any	所有人都可以
+hsmn04_friend_robby_pass	[0]
+hsmn04_friend_robby_notPass	無
+hsmn04_friend_roomSel_order	要進入哪個玩家的房間？
+hsmn04_friend_roomSel_ctrl_redo	再尋找一次
+hsmn04_friend_roomSel_ctrl_back	返回
+hsmn04_friend_roomSel_name	[0]
+hsmn04_friend_roomSel_current	[0]/4
+hsmn04_connect_host_order	這台主機會有幾個人遊玩呢？
+hsmn04_connect_host_order_a	[0]
+hsmn04_connect_host_pl	開始！
+hsmn04_connect_clients_order	這台主機會有幾個人參加呢？
+hsmn04_connect_clients_join	能進入房間的人數
+hsmn04_connect_clients_order_a	[0]
+hsmn04_connect_clients_join_a	還有[0]
+hsmn04_connect_clients_pl	OK！
+hsmn04_connect_account_name	[0]
+hsmn04_friend_robby_ctrl_info	房間資訊
+hsmn04_friend_robby_ctrl_FL	邀請朋友
+hsmn04_friend_robby_ctrl_back	返回
+hsmn04_friend_robby_ctrl_VC	/進行語音聊天
+hsmn04_friend_robby_hostName	[0]的房間
+hsmn04_friend_robby_wait	正在等待[0]開始遊戲……
+hsmn04_friend_robby_pl	以這些成員開始
+sys_invite_mes	要遊玩《瑪利歐派對 超級巨星》嗎？
+hsmn04_host_header	創建房間
+hsmn04_clients_header	尋找房間
+hsmn04_robby_roomID	房間ID [0]
+hsmn04_robby_mpCard	Mario Party卡片
+hsmn04_back_ctrl	返回
+hsmn04_friend_robby_hostWait	正在等待參加者……
+hsmn04_friend_mw_welcome0a	{color[110c1dff]}我等你很久了！{color[000000ff]}
+hsmn04_friend_mw_welcome0b	你好！過得好嗎？
+hsmn04_friend_mw_welcome0c	歡迎光臨！
+hsmn04_friend_mw_first0	在這裡，你可以跟\r\n身在遠方的朋友碰面喔♪
+hsmn04_friend_mw_out0a	要玩得開心點喔！
+hsmn04_friend_mw_out0b	盡情地玩吧！
+hsmn04_friend_mw_out0c	那麼，請慢走！
+hsmn04_friend_mw_out1a	再見，下次再來喔！
+hsmn04_friend_mw_out1b	要再來喔，我會等你的！
+hsmn04_friend_mw_out1c	期待你再次光臨！
+hsmn05.msbt
+mn_dStore_category_select	[0]
+mn_dStore_category_list_all	全部
+mn_dStore_category_list_stamp	貼圖
+mn_dStore_category_list_card	卡片設計
+mn_dStore_category_list_book	圖鑑
+mn_dStore_category_list_bgm	音樂
+mn_dStore_goods_name	[0]
+mn_dStore_goods_price	[0]
+mn_dStore_goods_name_check	[0]
+mn_dStore_goods_stampDetails	這是能將心情\r\n傳達給其他玩家的貼圖。
+mn_dStore_goods_bgmDetails	包含了[0]首\r\n令人懷念又嶄新的曲子的組合包，\r\n可以在音樂播放。
+mn_dStore_goods_d_bgmDetails	包含了[0]首曲子的組合包，\r\n可以在資料屋播放。
+mn_dStore_goods_staff_bgmDetails	可以在資料屋的音樂播放。\r\n這首曲子真令人懷念啊。
+mn_dStore_goods_bookDetails00	資料屋的系列圖鑑\r\n將新增頁數。
+mn_dStore_goods_bookDetails01	資料屋的雙陸遊戲圖鑑\r\n將新增頁數。
+mn_dStore_goods_bookDetails02	資料屋的角色圖鑑\r\n將新增頁數。
+mn_dStore_goods_bookDetails03	資料屋的Tips圖鑑\r\n將新增頁數。
+mn_dStore_goods_caodDetails	可以設定Mario Party卡片的\r\n卡片設計。
+mn_dStore_buy_check	要買嗎？
+mn_dStore_coin_before	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]{color[000000ff]}
+mn_dStore_coin_after	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]{color[000000ff]}
+mn_dStore_buy_a0	買！
+mn_dStore_buy_a1	不買
+mn_dStore_coin_have	[0]
+mn_dStore_back	返回
+mn_dStore_mw_enterA	歡迎光臨！
+mn_dStore_mw_enterB	歡迎光臨{color[ff3502ff]}奇諾比奧商店{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+mn_dStore_mw_enterC	{color[110c1dff]}請慢慢選購。{color[000000ff]}
+mn_dStore_mw_firstEnter00	這裡有可在雙陸遊戲中使用的貼圖、\r\n令人懷念的音樂、圖鑑與卡片，應有盡有！
+mn_dStore_mw_firstEnter01	遊玩雙陸遊戲或{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}時，\r\n請將金幣收集起來吧。{color[000000ff]}
+mn_dStore_mw_firstEnter02	請慢慢選購喔！
+mn_dStore_mw_add_intro	增加了新的商品！
+mn_dStore_mw_soldOut00	全部的商品都賣光了！\r\n謝謝你買了那麼多！
+mn_dStore_mw_byeA	歡迎再次光臨！
+mn_dStore_mw_byeB	請再來逛逛喔！
+mn_dStore_mw_byeC	下次再來喔！我會在這裡等你的！
+mn_dStore_mw_lack	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣不夠喔。{color[000000ff]}
+mn_dStore_mw_buy	謝謝惠顧！
+hsmn06.msbt
+mn_dRoom_mw_introA	嘿嘿嘿嘿！\r\n這裡是{color[ff3502ff]}資料屋{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+mn_dRoom_mw_introB	嘿嘿嘿！\r\n你終於來了。
+mn_dRoom_mw_introC	歡迎來到{color[ff3502ff]}資料屋{color[000000ff]}{color[110c1dff]}！\r\n嘿嘿嘿嘿！{color[000000ff]}
+mn_dRoom_mw_add_intro	好像有新增的東西……\r\n要看看嗎？
+mn_dRoom_mw_add_introStaff	音樂裡新增了工作人員名單喔。\r\n到廣場標籤的最後面去看看吧。
+mn_dRoom_mw_firstEnter00	我好像沒見過你？\r\n那我就給你一個好東西吧。
+mn_dRoom_mw_firstEnter01	這是Mario Party卡片。\r\n它可以紀錄在這個世界的冒險，是一張神奇的卡片。
+mn_dRoom_mw_firstEnter02	馬上來紀錄一下你的事情吧。
+mn_dRoom_mw_firstEnter03	喔，原來你喜歡這種的啊。\r\n如果喜好改變了，就在這裡更改吧。
+mn_dRoom_mw_card_intro_back	喔，你還是選一些東西吧。
+mn_dRoom_mw_card_intro	只要連線網路，\r\n世界各地的人都能看到\r\n這張Mario Party卡片。
+mn_dRoom_mw_goTo00a	要看看Mario Party卡片嗎？
+mn_dRoom_mw_goTo00b	圖鑑裡滿是回憶。\r\n要好好珍惜喔！
+mn_dRoom_mw_goTo00c	聽音樂會讓人心情愉快喔。
+mn_dRoom_mw_goTo00d	可以從遊戲紀錄查看勝率和新紀錄等，\r\n回顧到目前為止的冒險。
+mn_dRoom_mw_goTo00e	要確認一下稱號嗎？
+mn_dRoom_mw_goTo00f	聽說只要連線網路，\r\n就可以和世界各地的人遊玩喔。
+mn_dRoom_mw_byeA	再見，要再來喔。
+mn_dRoom_mw_byeB	這樣啊，要再來喔。
+mn_dRoom_mw_byeC	再見啦，嘿嘿嘿！
+mn_dRoom_pointer	[0]
+mn_dRoom_ctrl	返回
+mn_dRoom_mw_online00	正在上傳資料
+mn_dRoom_mw_online01	正在下載資料
+mn_dRoom_top_ctrl	返回
+mn_dRoom_book_category00	系列
+mn_dRoom_book_category01	雙陸遊戲
+mn_dRoom_book_category02	角色
+mn_dRoom_book_category03	Tips
+mn_dRoom_book_shop_details	在奇諾比奧商店購買圖鑑，\r\n頁數就會增加。
+mn_dRoom_book_listName	[0]
+mn_dRoom_book_captionName	[0]
+mn_dRoom_book_seriesDetails00	為了決定誰才是最厲害的超級巨星，\r\n瑪利歐一行人進入水管展開冒險。
+mn_dRoom_book_seriesDetails01	瑪利歐等人各自都想用自己的名字\r\n為遊樂園命名。最後大家決定誰打倒庫巴\r\n就用誰的名字！於是，冒險就這樣展開了。
+mn_dRoom_book_seriesDetails02	為爭奪千年才出現一次的星星「千禧星」，\r\n玩具世界中的大冒險就此展開。
+mn_dRoom_book_seriesDetails03	為了獲得奇諾比奧們準備的大禮物，\r\n瑪利歐一行人展開了一場\r\n認真較量的正式比賽。
+mn_dRoom_book_seriesDetails04	瑪利歐一行人受邀來到了夢之世界。\r\n受到星之精靈的熱情款待，\r\n歡樂的派對就此展開。
+mn_dRoom_book_seriesDetails05	為了讓陽陽和月月重修舊好，\r\n瑪利歐一行人決定要收集星星。
+mn_dRoom_book_seriesDetails06	瑪利歐一行人坐上了氣派的船。\r\n誰知道庫巴也在船上……\r\n一場波濤洶湧的狂野之旅就要出航了。
+mn_dRoom_book_seriesDetails07	聽說在星星嘉年華奪冠，\r\n就可以獲得超級巨星的名號，\r\n還有一年份的糖果喔。
+mn_dRoom_book_seriesDetails08	為了從庫巴手上奪回小星星，\r\n讓夜空恢復原狀，\r\n瑪利歐一行人展開了冒險。
+mn_dRoom_book_seriesDetails09	與庫巴軍團進行一場賭上生死的大戰！\r\n瑪利歐一行人努力逃離緊追不捨的庫巴，\r\n究竟哪一邊會勝出呢？
+mn_dRoom_book_bdDetails00	雙層蛋糕上放了滿滿的草莓。\r\n布丁上還有庫巴喔。\r\n用草莓裝飾蛋糕來慶祝吧！
+mn_dRoom_book_bdDetails01	前進路線從宇宙站的中央\r\n放射性地延伸。\r\n要小心庫巴形狀的炮台喔。
+mn_dRoom_book_bdDetails02	讓人迷失的不可思議森林。\r\n告示板上的箭頭指向不同的方向，\r\n森林盡頭還有一棵可疑的樹呢。
+mn_dRoom_book_bdDetails03	有著耀西造型的水果島。\r\n左邊是滿滿西瓜的西瓜島，\r\n右邊是滿滿哈密瓜的哈密瓜島。
+mn_dRoom_book_bdDetails04	在這裡，晝夜會不停地變換。\r\n到了晚上，鬼怪會聚在一起舉辦派對，\r\n是個感覺很詭異的地方。
+mn_dRoom_book_caraDetails00	受到很多人喜愛，\r\n紅色帽子與鬍子\r\n是他的特徵。
+mn_dRoom_book_caraDetails01	身高比瑪利歐高，\r\n論跳躍不輸他人，\r\n但卻很害怕鬼怪。
+mn_dRoom_book_caraDetails02	蘑菇王國的善良公主。\r\n最愛粉紅色。
+mn_dRoom_book_caraDetails03	精力充沛的公主。\r\n最愛花朵耳環。
+mn_dRoom_book_caraDetails04	瓦路易吉的搭檔。\r\n性格豪爽，見錢眼開。
+mn_dRoom_book_caraDetails05	瓦利歐的搭檔。\r\n性格狡猾，\r\n愛耍小聰明。
+mn_dRoom_book_caraDetails06	性格悠然自得，\r\n是瑪利歐可靠的同伴。\r\n最愛水果。
+mn_dRoom_book_caraDetails07	擁有不可思議的力量。\r\n與星之子「奇可」\r\n一起在宇宙旅行。
+mn_dRoom_book_caraDetails08	最愛香蕉。\r\n力量強大，是森林的王者。
+mn_dRoom_book_caraDetails09	開朗活潑，總是向眾人展現出\r\n不可思議的可愛一面。
+mn_dRoom_book_caraDetails10	蘑菇王國的居民。\r\n精力充沛，工作勤奮。
+mn_dRoom_book_caraDetails11	開朗活潑，\r\n粉色紅的大辮子\r\n是她的特徵。
+mn_dRoom_book_caraDetails12	龜族的大魔王。\r\n性格殘暴、霸道，\r\n以自我為中心。
+mn_dRoom_book_caraDetails13	庫巴的手下，\r\n總是被踩踏。
+mn_dRoom_book_caraDetails14	除了紅色的嘿呵，\r\n還有其他顏色的同伴。
+mn_dRoom_book_caraDetails15	頭上有螺旋槳，\r\n可以在天空飛來飛去。
+mn_dRoom_book_caraDetails16	因為很久沒當嚮導了，\r\n所以非常有幹勁。
+mn_dRoom_book_caraDetails17	開始閃爍就是\r\n要爆炸的訊號。\r\n馬上逃跑吧！
+mn_dRoom_book_caraDetails18	一旦接近就會\r\n被大大的嘴巴吃掉。
+mn_dRoom_book_caraDetails19	會從炮台裡飛出來。\r\n被擊中就會爆炸，\r\n要小心躲避！
+mn_dRoom_book_caraDetails20	在海裡游來游去。\r\n有時候也會出現在河川裡。
+mn_dRoom_book_caraDetails21	球蓋姆丟出來的\r\n尖刺紅色球，\r\n被擊中會非常痛。
+mn_dRoom_book_caraDetails22	很擅長挖洞。\r\n像鼴鼠般的敵人。
+mn_dRoom_book_caraDetails23	隱身在黑暗中，\r\n等待惡作劇的機會。
+mn_dRoom_book_caraDetails24	小企鵝的父母。\r\n身型非常龐大。
+mn_dRoom_book_caraDetails25	非常重。\r\n要小心不要被壓扁了。
+mn_dRoom_book_caraDetails26	被堅硬的黑色龜殼保護著。
+mn_dRoom_book_caraDetails27	乘著雲朵，飛到空中\r\n丟下刺刺蛋。\r\n控球能力高超。
+mn_dRoom_book_caraDetails28	喜歡惡作劇的調皮小子。\r\n是大魔王庫巴的兒子。
+mn_dRoom_book_caraDetails29	在水中游泳。\r\n生氣的時候會噴墨。
+mn_dRoom_book_caraDetails30	個性害羞。\r\n只要有眼神接觸，\r\n就會把臉遮起來。
+mn_dRoom_book_caraDetails31	被鐵鍊鎖著，\r\n身體像鐵一樣堅硬。
+mn_dRoom_book_caraDetails32	會用龐大的身體\r\n擋住去路。
+mn_dRoom_book_caraDetails33	害羞幽靈的王。\r\n對自己巨大的身體和\r\n王冠感到驕傲。
+mn_dRoom_book_caraDetails34	浮在水面上，\r\n用充滿尖刺的身體\r\n擋住去路。
+mn_dRoom_book_caraDetails35	大大的鉗子是其魅力所在。\r\n常棲息於水邊。
+mn_dRoom_book_caraDetails36	會投擲鎚子來妨礙對手。
+mn_dRoom_book_caraDetails37	像仙人掌一樣的敵人，\r\n會突然從地底鑽出來。
+mn_dRoom_book_caraDetails38	跟害羞幽靈不一樣，\r\n就算有眼神接觸，\r\n也不會覺得害羞。
+mn_dRoom_book_caraDetails39	只要有人在附近打轉，\r\n眼睛就會跟著轉來轉去。
+mn_dRoom_book_caraDetails40	龜族的魔法師，\r\n眼鏡和藍色魔法袍\r\n是他的特徵。
+mn_dRoom_book_caraDetails41	拍動翅膀，\r\n四處飛行。
+mn_dRoom_book_caraDetails42	不管什麼都能用\r\n大大的嘴巴一口吃下。
+mn_dRoom_book_caraDetails43	長得跟嘿呵很像，\r\n但仔細一看會發現\r\n面具是黑色的。
+mn_dRoom_book_caraDetails44	吞食花的Boss。\r\n弱點是內褲裡的肚臍。
+mn_dRoom_book_caraDetails45	長得跟栗寶寶很像，\r\n常常被搞混。
+mn_dRoom_book_caraDetails46	企鵝的孩子，\r\n住在寒冷的地方。
+mn_dRoom_book_caraDetails47	喜歡惡作劇的猴子。\r\n通常待在樹上。
+mn_dRoom_book_caraDetails48	庫巴Jr.的座駕，\r\n可以在天空飛。
+mn_dRoom_book_bd00_text00	如果想要延長遊玩時間，\r\n可以進行一次回合延長，讓回合數增加。\r\n不過，在最後回合時無法進行延長。
+mn_dRoom_book_bd00_text01	和朋友遊玩時，\r\n只有創建房間的人可以進行回合延長。
+mn_dRoom_book_bd00_text02	一旦進行回合延長，\r\n在最後5回合才有的變化，如決鬥、\r\n格子上{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣數量的增減等，將全部恢復原狀。{color[000000ff]}
+mn_dRoom_book_bd00_text03	地圖上的黃色圓點，是{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}星星兌換所的候選地點。\r\n當奇諾比珂飛起來的時候，\r\n必定會降落到某一個黃色圓點上。{color[000000ff]}
+mn_dRoom_book_bd00_text04	在雙陸遊戲，按鍵都能發送貼圖。\r\n快去確認看看有什麼貼圖吧。\r\n有時候也可以推動來更改喔。
+mn_dRoom_book_bd01_text00	用草莓來裝飾吧。\r\n小草莓要{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}5金幣，大草莓要{color[ffffffff]}{color[0b0000ff]}30金幣。\r\n各自會幫忙奪取{color[ffffffff]}{color[0b0000ff]}金幣或{color[ffffffff]}{color[0b0000ff]}星星回來。{color[000000ff]}
+mn_dRoom_book_bd01_text01	如果停在自己用草莓裝飾過的格子上，\r\n就可以獲得{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣，草莓也不會消失。{color[000000ff]}
+mn_dRoom_book_bd01_text02	小草莓非常有精神，\r\n在奪取他人的{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣後，\r\n也有可能不會消失。{color[000000ff]}
+mn_dRoom_book_bd01_text03	栗寶寶的籤一定會中獎1次。\r\n如果之前都沒人中獎，\r\n那麼剩下的那1個種子絕對會中獎。
+mn_dRoom_book_bd01_text04	庫巴身處的地方是一個\r\n有滿滿香蕉並淋上焦糖醬的大布丁。\r\n說不定哪天庫巴會忍不住把它吃掉呢。
+mn_dRoom_book_bd01_text05	在美味的蛋糕上收集{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}星星！\r\n但是，在決定出超級巨星之前，\r\n不能偷吃蛋糕喔。{color[000000ff]}
+mn_dRoom_book_bd01_text06	這個蛋糕的正中央\r\n有一頂巧克力皇冠。\r\n成為超級巨星後，或許就能得到它。
+mn_dRoom_book_bd02_text00	如何不被庫巴炮擊中，\r\n就是在宇宙站獲勝的關鍵。
+mn_dRoom_book_bd02_text01	如果被庫巴炮擊中，就會失去所有的{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣。\r\n所以絕對不能被擊中喔。{color[000000ff]}
+mn_dRoom_book_bd02_text02	當中央的數字倒數到「1」的時候就要注意了。\r\n看清楚危險的路線，趕快逃跑吧。
+mn_dRoom_book_bd02_text03	好像有UFO墜落在某個地方了。\r\n到底發生什麼事了呢？
+mn_dRoom_book_bd02_text04	聽說庫巴炮是透過\r\n太陽能板提供的能量運作的。
+mn_dRoom_book_bd02_text05	對於違規超速的人，熱心工作的\r\n木喬巡警會追查到天涯海角。
+mn_dRoom_book_bd02_text06	狂奔的太空船上\r\n坐著砰砰或咚咚。
+mn_dRoom_book_bd03_text00	只要給黃鼴鼠{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣，\r\n牠就會幫你改變箭頭的方向。\r\n不過每次需要的{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣數量會隨著牠的心情而改變。{color[000000ff]}
+mn_dRoom_book_bd03_text01	告示板上的箭頭會不斷地改變方向。\r\n如果沒有仔細確認就前進的話，\r\n可能會繞到很遠很遠的地方喔。
+mn_dRoom_book_bd03_text02	這裡是綠意盎然的森林。\r\n有很多動物居住在這裡，\r\n不過動物們好像偶爾也會迷路。
+mn_dRoom_book_bd03_text03	這是在森林深處的地圖。\r\n幾乎所有進入這片森林的人都會迷路，\r\n要謹慎地前進喔。
+mn_dRoom_book_bd03_text04	巨大的樹會掉下果實。\r\n接住自己喜歡的果實，就會有事情發生。
+mn_dRoom_book_bd03_text05	大樹贈送的果實。\r\n掉下來的2顆果實種類不一樣，\r\n看來1個跟{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣有關，另1個跟骰子有關呢。{color[000000ff]}
+mn_dRoom_book_bd03_text06	森林的盡頭很可疑。有可疑的樹，\r\n就一定會有可疑的事情發生吧。
+mn_dRoom_book_bd04_text00	來回穿梭兩座島！\r\n只前往{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}星星所在的島是無法獲勝的。\r\n一面預測接下來會發生的事，一面前進吧。{color[000000ff]}
+mn_dRoom_book_bd04_text01	玩家可以隨意調高咚咚的通行費，\r\n但是只能往上調，不能往下調。\r\n所以要小心不要調得太高喔。
+mn_dRoom_book_bd04_text02	因為大嘴魚的惡作劇，\r\n{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}星星的位置會在兩座島之間換來換去。\r\n如果{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}星星在眼前，就趕快去獲取吧。{color[000000ff]}
+mn_dRoom_book_bd04_text03	在盡頭處有一艘壞掉的船。\r\n雖然不知道它在那裡多久了，\r\n不過據說那是一艘運送水果的船。
+mn_dRoom_book_bd04_text04	西瓜、哈密瓜、蘋果跟香蕉……\r\n還有很多奇形怪狀的水果。\r\n聽說成為超級巨星後，就能吃水果吃到飽喔。
+mn_dRoom_book_bd04_text05	兩座耀西形狀的島。\r\n有很多西瓜的是西瓜島。\r\n這種命名方式還真隨意啊。
+mn_dRoom_book_bd04_text06	兩座耀西形狀的島。\r\n有很多哈密瓜的是哈密瓜島。\r\n這種命名方式還真好記啊。
+mn_dRoom_book_bd05_text00	到了晚上，鬼怪們就會聚集在一起！\r\n白天靠近鬼怪可能出沒的地方，\r\n到了晚上，應該就能遇到了。
+mn_dRoom_book_bd05_text01	砰砰到了晚上就會動彈不得。\r\n如果不趁著白天通過，\r\n晚上可能就無法往想走的方向前進。
+mn_dRoom_book_bd05_text02	雖然鬼怪到了晚上才會聚集，\r\n但有一個地方，白天就會出現害羞幽靈喔。\r\n那個地方是哪裡呢？
+mn_dRoom_book_bd05_text03	如果要讓哎哎將自己傳送到別處，\r\n推薦到了晚上再去找它，因為這樣會比較便宜。
+mn_dRoom_book_bd05_text04	如果停在哎哎的通道上，\r\n可能會被波及而傳送到別的地方。\r\n竟然可以免費傳送，真是太幸運了。
+mn_dRoom_book_bd05_text05	卡美克的洋館每到晚上就會傳出很大的喧鬧聲。\r\n裡面的人整晚都在做什麼呢？\r\n聽說開始喧鬧後，沒多久就會天亮了。
+mn_dRoom_book_bd05_text06	白天完全不會動的鞦韆\r\n到了晚上就會自己動起來。\r\n而且鞦韆上沒有任何人，好可怕啊。
+mn_dRoom_book_mm01_text00	可以隨意遊玩100個小遊戲。\r\n要好好練習喔。
+mn_dRoom_book_mm01_text01	先在這裡好好練習，\r\n再跟世界各地的人對戰吧。
+mn_dRoom_book_mm01_text02	可以隨意遊玩\r\n自己喜歡的小遊戲。\r\n盡情享受遊玩的樂趣吧。
+mn_dRoom_book_mm02_text00	可以遊玩緊張刺激的運動遊戲，\r\n也可以悠閒地遊玩益智遊戲。
+mn_dRoom_book_mm02_text01	遊玩2vs2運動遊戲，\r\n體驗一場掌心冒汗的熱血對戰吧。
+mn_dRoom_book_mm02_text02	用對戰益智遊戲進行激烈的頭腦戰。\r\n使盡全力，贏得勝利吧。
+mn_dRoom_book_mm02_text03	可以在高分挑戰中慢慢遊玩。\r\n這是一場跟自己的戰鬥。
+mn_dRoom_book_mm03_text00	根據小遊戲的排名獲得{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣。\r\n總之多多收集{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣吧！{color[000000ff]}
+mn_dRoom_book_mm03_text01	可以直接得到\r\n在金幣小遊戲中獲得的{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣。\r\n這是多多收集{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣的好機會喔。{color[000000ff]}
+mn_dRoom_book_mm03_text02	獎勵小遊戲的{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣是平常的2倍。\r\n這是反敗為勝的好機會！{color[000000ff]}
+mn_dRoom_book_mm04_text00	2vs2的分隊對戰！\r\n2人相互配合，一起戰鬥吧！
+mn_dRoom_book_mm04_text01	2人的羈絆將受到考驗。\r\n想要獲勝，就要多為他人著想。
+mn_dRoom_book_mm04_text02	2人同心協力面對一切困難，\r\n一起贏得勝利吧。
+mn_dRoom_book_mm05_text00	3人同心協力，在1vs3小遊戲中，\r\n以全勝為目標吧！
+mn_dRoom_book_mm05_text01	失敗就會結束！\r\n3人同心協力，一起贏得勝利吧。
+mn_dRoom_book_mm05_text02	在1vs3小遊戲中，與3位對手對抗，\r\n以全勝為目標吧！
+mn_dRoom_book_mm05_text03	失敗就會結束！\r\n戰勝擋在前面的3人，一路過關斬將吧。
+mn_dRoom_book_mm06_text00	以第1名為目標，與世界各地的人對戰！\r\n失敗就會結束，所以要一直贏下去喔！
+mn_dRoom_book_mm06_text01	你的實力到哪裡？\r\n向全世界發起挑戰吧！
+mn_dRoom_book_mm06_text02	在與世界各地的人激烈的對戰中獲勝，\r\n向全世界展示自己的實力吧。
+mn_dRoom_book_mm07_text00	以每日推薦的小遊戲組合包\r\n和世界各地的人比賽。
+mn_dRoom_book_mm07_text01	仔細查看，小心不要錯過了。\r\n錯過的話，就只能靠運氣了。
+mn_dRoom_book_mm07_text02	快速過關小遊戲，\r\n以比其他人更快的速度獲勝吧。
+mn_dRoom_book_mm07_text03	比對手收集更多的{color[ffffffff]}{color[000000ff]}{color[0b0000ff]}金幣，\r\n贏得勝利吧。{color[000000ff]}
+mn_dRoom_book_mm07_text04	努力比對手生存得更久，\r\n能生存到最後就獲勝。
+mn_dRoom_book_mm07_text05	仔細觀察就是勝利的關鍵。\r\n仔細觀察，好好思考吧。
+mn_dRoom_book_mm07_text06	只屬於2人的正式比賽。\r\n冠軍只有1個。
+mn_dRoom_book_mm07_text07	比其他人更快跑完全程吧。\r\n預備備……起！
+mn_dRoom_book_mm07_text08	對手不一定只有3人。\r\n比其他人生存得更久吧。
+mn_dRoom_book_mm07_text09	1vs3的小遊戲。\r\n不要放棄，贏得勝利吧。
+mn_dRoom_book_mm07_text10	一直跳躍，\r\n比其他人跳得更高更多吧。
+mn_dRoom_book_mm07_text11	雖然不是運動小遊戲，\r\n但這些遊戲也都是名副其實的運動。
+mn_dRoom_book_mm07_text12	{color[0b0000ff]}1vs3的金幣小遊戲。\r\n多多收集{color[ffffffff]}{color[0b0000ff]}金幣吧。{color[000000ff]}
+mn_dRoom_book_mm07_text13	讓對手掉下去的同時，\r\n自己則要避免掉下去。
+mn_dRoom_book_mm07_text14	你的技巧就是獲勝的關鍵。\r\n用精密的操作贏得勝利吧。
+mn_dRoom_book_mm07_text15	追趕別人，被別人追趕……\r\n不讓對手逃掉，自己則要努力逃跑。
+mn_dRoom_book_mm07_text16	在妨礙對手的同時，\r\n要想盡辦法生存到最後，獲得勝利。
+mn_dRoom_book_mm07_text17	仔細查看，迅速做出決定吧。\r\n反應速度很重要。
+mn_dRoom_book_mm07_text18	總之就是要好好瞄準。\r\n擊中對手，贏得勝利吧。
+mn_dRoom_book_mm07_text19	比其他人收集得更多。\r\n收集到最多的人就獲勝。
+mn_dRoom_book_mm07_text20	緊張刺激的互相推擠。\r\n推開對手，贏得勝利吧。
+mn_dRoom_book_mm07_text21	1vs3的小遊戲。\r\n越危險就要越冷靜。
+mn_dRoom_mu_caption	音樂
+mn_dRoom_mu_category00	我的最愛
+mn_dRoom_mu_category01	廣場
+mn_dRoom_mu_category02	雙陸遊戲
+mn_dRoom_mu_category03	小遊戲
+mn_dRoom_mu_category04	小遊戲山丘
+mn_dRoom_mu_ui_pet_total	[0]
+mn_dRoom_mu_pet_details	按登錄到我的最愛，製作播放清單吧。
+mn_dRoom_mu_shop_details	在奇諾比奧商店購買BGM後就可以聆聽。
+mn_dRoom_mu_ctrl_pet	登錄到我的最愛
+mn_dRoom_mu_ctrl_petBack	從我的最愛中解除
+mn_dRoom_mu_header	[0]
+mn_dRoom_mu_bgm_name	[0]
+mn_dRoom_card_achieve	[0]
+mn_dRoom_card_name	[0]
+mn_dRoom_card_title_level	Mario Party等級
+mn_dRoom_card_level	[0]
+mn_dRoom_card_clap	[0]
+mn_dRoom_card_coin	[0]
+mn_dRoom_card_title_time	遊玩時間
+mn_dRoom_card_time	[0]小時
+mn_dRoom_card_title_rank	生存戰
+mn_dRoom_card_rank	第[0]名
+mn_dRoom_card_title_series	喜歡的遊戲
+mn_dRoom_card_title_map	喜歡的棋盤
+mn_dRoom_card_map_name	[0]
+mn_dRoom_card_title_mg	喜歡的小遊戲
+mn_dRoom_card_mg_record	[0]
+mn_dRoom_card_mg_record_m	[0]{size[3c00]}m{size[6400]}
+mn_dRoom_card_mg_record_m2	[0].[1]{size[3c00]}m{size[6400]}
+mn_dRoom_card_mg_record_degree	[0]°
+mn_dRoom_card_mg_record_timer	[0]:[1].[2]
+mn_dRoom_card_mg_rank	[0]
+mn_dRoom_card_ctrl_next	確定
+mn_dRoom_card_ctrl_edit	編輯
+mn_dRoom_card_ctrl_back	返回
+mn_dRoom_card_ctrl_rankTop	大家的喜好排名
+mn_dRoom_card_ctrl_blind	查看
+mn_dRoom_card_ctrl_design	更改設計
+mn_dRoom_card_ctrl_rank	大家的喜好排名
+mn_dRoom_cardEdit_back	返回
+mn_dRoom_cardEdit_design_name	[0]
+mn_dRoom_cardEdit_design_name_empty	???
+mn_dRoom_cardEdit_title_chara	請選擇喜歡的角色。
+mn_dRoom_cardEdit_title_achieve	請選擇想要顯示的稱號。
+mn_dRoom_cardEdit_achieve_name	[0]
+mn_dRoom_cardEdit_achieve_name_empty	???
+mn_dRoom_cardEdit_achieve_condition	[0]
+mn_dRoom_cardEdit_title_series	請選擇此系列中喜歡的遊戲。
+mn_dRoom_cardEdit_title_map	請選擇喜歡的棋盤。
+mn_dRoom_cardEdit_map_name	[0]
+mn_dRoom_cardEdit_title_mg	請選擇喜歡的小遊戲。
+mn_dRoom_cardEdit_mg_score	[0]
+mn_dRoom_cardEdit_mg_score_m	[0]{size[3c00]}m{size[6400]}
+mn_dRoom_cardEdit_mg_score_m2	[0].[1]{size[3c00]}m{size[6400]}
+mn_dRoom_cardEdit_mg_score_degree	[0]°
+mn_dRoom_cardEdit_mg_score_timer	[0]:[1].[2]
+mn_dRoom_cardEdit_mg_name	[0]
+mn_dRoom_cardEdit_mg_rank	[0]
+mn_dRoom_cardEdit_title_design	請選擇喜歡的設計。
+mn_dRoom_cardRank_title_board	喜歡的棋盤
+mn_dRoom_cardRank_title_series	喜歡的遊戲
+mn_dRoom_cardRank_title_mg	喜歡的小遊戲
+mn_dRoom_cardRank_rank	第[0]名
+mn_dRoom_cardRank_name	[0]
+mn_dRoom_cardRank_percent	[0].[1]%
+mn_dRoom_rec_top_new	新紀錄
+mn_dRoom_rec_top_rank	小遊戲的勝率
+mn_dRoom_rec_top_photo	紀念照片
+mn_dRoom_rec_top_mg	小遊戲山丘紀錄
+mn_dRoom_rec_new_title	新紀錄
+mn_dRoom_rec_new_name	[0]
+mn_dRoom_rec_new_score	[0]
+mn_dRoom_rec_new_score_m	[0]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_new_score_degree	[0]°
+mn_dRoom_rec_new_score_timer	[0]:[1].[2]
+mn_dRoom_rec_new_score_m2	[0].[1]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_new_rank	第[0]名
+mn_dRoom_rec_new_ranking	查看排名
+mn_dRoom_rec_newRank_left	
+mn_dRoom_rec_newRank_right	
+mn_dRoom_rec_newRank_card	Mario Party卡片
+mn_dRoom_rec_newRank_mg	[0]
+mn_dRoom_rec_newRank_myRank	第[0]名
+mn_dRoom_rec_newRank_myName	[0]
+mn_dRoom_rec_newRank_myScore	[0]
+mn_dRoom_rec_newRank_myScore_m	[0]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_newRank_myScore_degree	[0]°
+mn_dRoom_rec_newRank_myScore_timer	[0]:[1].[2]
+mn_dRoom_rec_newRank_myScore_m2	[0].[1]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_newRank_rank	第[0]名
+mn_dRoom_rec_newRank_name	[0]
+mn_dRoom_rec_newRank_score	[0]
+mn_dRoom_rec_newRank_score_m	[0]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_newRank_score_degree	[0]°
+mn_dRoom_rec_newRank_score_timer	[0]:[1].[2]
+mn_dRoom_rec_newRank_score_m2	[0].[1]{size[3c00]}m{size[6400]}
+mn_dRoom_rec_rank_title	小遊戲的勝率
+mn_dRoom_rec_rank_left	
+mn_dRoom_rec_rank_right	
+mn_dRoom_rec_rank_win	擅長順序
+mn_dRoom_rec_rank_lose	不擅長順序
+mn_dRoom_rec_rank_name	[0]
+mn_dRoom_rec_rank_number	[0]
+mn_dRoom_rec_rank_percent	[0]％
+mn_dRoom_rec_rank_rate	([0]次/[1]次)
+mn_dRoom_rec_mg	小遊戲山丘的紀錄
+mn_dRoom_rec_mg_title	[0]
+mn_dRoom_rec_mg_pack	[0]
+mn_dRoom_rec_mg_mgRank	查看線上排名
+mn_dRoom_rec_mg_scoreAttack	高分挑戰
+mn_dRoom_rec_mg_rank	技術
+mn_dRoom_rec_mg_name	[0]
+mn_dRoom_rec_mg_score	[0]
+mn_dRoom_rec_mg_myRank	[0]
+mn_dRoom_rec_mg_coinTitle	獲得的金幣數
+mn_dRoom_rec_mg_round	[0]回合
+mn_dRoom_rec_mg_getCoin	[0]
+mn_dRoom_rec_mg_chaThree	3人挑戰
+mn_dRoom_rec_mg_chaOne	1人挑戰
+mn_dRoom_rec_mg_stage	關卡[0]
+mn_dRoom_rec_mg_stageRank	[0]
+mn_dRoom_rec_mg_date	[0]/[1]/[2]
+mn_dRoom_rec_mg_noData	沒有紀錄
+mn_dRoom_rec_mg_plName	[0]
+mn_dRoom_rec_mgMRank_title	生存戰
+mn_dRoom_rec_mgMRank_myRank	第[0]名
+mn_dRoom_rec_mgMRank_myName	[0]
+mn_dRoom_rec_mgMRank_myScore0	[0]連勝
+mn_dRoom_rec_mgMRank_rank	第[0]名
+mn_dRoom_rec_mgMRank_name	[0]
+mn_dRoom_rec_mgMRank_score0	[0]連勝
+mn_dRoom_rec_photo_title	紀念照片
+mn_dRoom_rec_photo_check	查看照片
+mn_dRoom_rec_photo_map	[0]
+mn_dRoom_rec_photo_date	[0]/[1]/[2]
+mn_dRoom_rec_photo_rank	[0]
+mn_dRoom_rec_photo_name	[0]
+mn_dRoom_rec_photo_star	[0]
+mn_dRoom_rec_photo_coin	[0]
+mn_dRoom_rec_photo_mapTitle	[0]
+mn_dRoom_achieve_name	[0]
+mn_dRoom_achieve_details	[0]
+mn_dRoom_achieve_mode	[0]
+mn_dRoom_achieve_count	[0]/[1]
+mn_dRoom_achieve_online	線上稱號
+mn_dRoom_achieve_offline	離線稱號
+hsmn07.msbt
+mn_mgM_mw_introA	{color[110c1dff]}非常感謝乘坐本船！\r\n這艘船將前往{color[000000ff]}{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+mn_mgM_mw_introB	請登船！\r\n我們即將出發。
+mn_mgM_mw_introC	前往{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}的船就要出航了。{color[000000ff]}
+mn_mgM_mw_chara_select	有誰要登船呢？
+mn_mgM_mw_com_select	正在等待另外[0]位登船。
+mn_mgM_mw_chara_check	大家都到齊了嗎？
+mn_mgM_mw_chara_check_a0	是
+mn_mgM_mw_chara_check_a1	否
+mn_mgM_mw_chara_check_a2	隨機
+mn_mgM_mw_check	前往{color[ff3502ff]}小遊戲山丘{color[000000ff]}{color[110c1dff]}的船就要出航了！{color[000000ff]}
+mn_mgM_mw_online_check	世界各地的對手都在等你！\r\n準備好了嗎？？
+mn_mgM_check_a0	準備好了
+mn_mgM_check_a1	還沒
+hsmn_ED.msbt
+mn_ED_last_thankyou	{size[4b00]}YOU ARE THE{size[6400]}\r\nSUPER STAR！
+mn_ED_director	DIRECTOR
+mn_ED_design_di	DESIGN DIRECTORS
+mn_ED_gemu_de	GAME DESIGN
+mn_ED_chief_program_di	CHIEF PROGRAM DIRECTOR
+mn_ED_program_di	PROGRAM DIRECTORS
+mn_ED_program	PROGRAM
+mn_ED_chief_art_di	CHIEF ART DIRECTORS
+mn_ED_art_di	ART DIRECTORS
+mn_ED_art	ART
+mn_ED_chief_sound_di	CHIEF SOUND DIRECTOR
+mn_ED_sound_di	SOUND DIRECTORS
+mn_ED_music_di	MUSIC DIRECTOR
+mn_ED_music	MUSIC
+mn_ED_sound_ef	SOUND EFFECTS
+mn_ED_sound_su	SOUND SUPPORT
+mn_ED_sound_co	SOUND COORDINATION
+mn_ED_sound_sup	SOUND SUPERVISORS
+mn_ED_character_vo	CHARACTER VOICES
+mn_ED_voices	VOICES
+mn_ED_character_su	CHARACTER SUPERVISOR
+mn_ED_illustaration	ILLUSTRATION
+mn_ED_package_de	PACKAGE DESIGN
+mn_ED_technical_su	TECHNICAL SUPPORT
+mn_ED_noa_localization_ma	NOA LOCALIZATION MANAGEMENT
+mn_ED_noa_localization	NOA LOCALIZATION
+mn_ED_noe_localization_pr	NOE LOCALISATION PRODUCERS
+mn_ED_noe_translation	NOE TRANSLATION
+mn_ED_nhl_localization	NHL LOCALIZATION
+mn_ED_ique_localization	iQue LOCALIZATION
+mn_ED_nok_localization	NOK LOCALIZATION
+mn_ED_testng	TESTING
+mn_ED_noa_product_te	NOA PRODUCT TESTING
+mn_ED_noe_qualty_ass	NOE QUALITY ASSURANCE
+mn_ED_special_th	SPECIAL THANKS
+mn_ED_coordination	COORDINATION
+mn_ED_project_manager	PROJECT MANAGER
+mn_ED_associate_pr	ASSOCIATE PRODUCER
+mn_ED_producers	PRODUCERS
+mn_ED_general_pr	GENERAL PRODUCERS
+mn_ED_executive_pr	EXECUTIVE PRODUCER
+mn_ED_director_staff	Takeru Sugimoto
+mn_ED_design_di_staff00	Tsutomu Komiyama
+mn_ED_design_di_staff01	Shinichi Nakata
+mn_ED_design_di_staff02	Rina Wegner
+mn_ED_design_di_staff03	Hayato Minagawa
+mn_ED_design_di_staff04	Fumihisa Sato
+mn_ED_design_di_staff05	Atsushi Nakao
+mn_ED_design_di_staff06	Ryo Yokomizo
+mn_ED_design_di_staff07	Yuya Rokuyama
+mn_ED_design_di_staff08	Satoru Imamura
+mn_ED_design_di_staff09	Yukako Kawauchi
+mn_ED_gemu_de_staff00	Daisuke Tajima
+mn_ED_gemu_de_staff01	Masato Hotta
+mn_ED_gemu_de_staff02	Karin Kawakami
+mn_ED_gemu_de_staff03	Yumika Saito
+mn_ED_gemu_de_staff04	Changs Shirakawa
+mn_ED_gemu_de_staff05	Ayumi Takimura
+mn_ED_gemu_de_staff06	Saeka Tanaka
+mn_ED_gemu_de_staff07	Yoshitsugu Tamaoki
+mn_ED_gemu_de_staff08	Ryota Saruwatari
+mn_ED_gemu_de_staff09	Hiroshi Nosaka
+mn_ED_gemu_de_staff10	Norihito Shima
+mn_ED_gemu_de_staff11	Makoto Eguchi
+mn_ED_gemu_de_staff12	Hiroyuki Seki
+mn_ED_gemu_de_staff13	Hidenobu Sasaki
+mn_ED_gemu_de_staff14	Takayuki Ide
+mn_ED_gemu_de_staff15	Miyuki Ooyama
+mn_ED_gemu_de_staff16	Masafumi Ojika
+mn_ED_gemu_de_staff17	Kunio Asahara
+mn_ED_gemu_de_staff18	Ayumu Kawashiro
+mn_ED_gemu_de_staff19	Yasuki Toyosawa
+mn_ED_chief_program_di_staff	Yuuki Konno
+mn_ED_program_di_staff00	Shinji Shibasaki
+mn_ED_program_di_staff01	Masayuki Shinohara
+mn_ED_program_di_staff02	Akira Matsumoto
+mn_ED_program_di_staff03	Haruhiko Tanuma
+mn_ED_program_di_staff04	Atsushi Hamada
+mn_ED_program_staff00	Kazuhiro Enami
+mn_ED_program_staff01	Tetsunori Saito
+mn_ED_program_staff02	Masami Sakai
+mn_ED_program_staff03	Takashi Sato
+mn_ED_program_staff04	Kazunori Sudo
+mn_ED_program_staff05	Naoki Sozaka
+mn_ED_program_staff06	Takumi Namba
+mn_ED_program_staff07	Takuya Fujimoto
+mn_ED_program_staff08	Tatsuo Yamajiri
+mn_ED_program_staff09	Izumi Fukuda
+mn_ED_program_staff10	Takashi Iwanaga
+mn_ED_program_staff11	Kenji Oohira
+mn_ED_program_staff12	Tadao Shohyama
+mn_ED_program_staff13	Akihiro Terada
+mn_ED_program_staff14	Yasutaka Ikeda
+mn_ED_program_staff15	Tomoaki Tanaka
+mn_ED_program_staff16	Norifumi Hira
+mn_ED_program_staff17	Satoshi Sakaguchi
+mn_ED_program_staff18	Hikaru Hino
+mn_ED_program_staff19	Sayaka Matsumoto
+mn_ED_program_staff20	Takahiro Matsumoto
+mn_ED_program_staff21	Kana Mizota
+mn_ED_program_staff22	Daizo Yamauchi
+mn_ED_program_staff23	Souichiro Yamamoto
+mn_ED_program_staff24	Nobuya Wada
+mn_ED_program_staff25	Hiroyuki Watanabe
+mn_ED_program_staff26	Kazuki Tashiro
+mn_ED_program_staff27	Daisuke Miyata
+mn_ED_program_staff28	Takayuki Hayase
+mn_ED_program_staff29	Yukihiko Tani
+mn_ED_program_staff30	Hiroyuki Horita
+mn_ED_chief_art_di_staff00	Susumu Kuribayashi
+mn_ED_chief_art_di_staff01	Keisuke Kasahara
+mn_ED_art_di_staff00	Masahiko Yamada
+mn_ED_art_di_staff01	Takamitsu Manabe
+mn_ED_art_di_staff02	Kazuhisa Okamoto
+mn_ED_art_di_staff03	Saori Yamashita
+mn_ED_art_di_staff04	Arata Kobayashi
+mn_ED_art_di_staff05	Takahiro Karino
+mn_ED_art_di_staff06	Masayuki Tsuboi
+mn_ED_art_di_staff07	Masami Kodaira
+mn_ED_art_staff00	Hayato Ogawa
+mn_ED_art_staff01	Tomoaki Watanabe
+mn_ED_art_staff02	Takuya Funaki
+mn_ED_art_staff03	Tsuyoshi Mizuguchi
+mn_ED_art_staff04	Tomoaki Sakaguchi
+mn_ED_art_staff05	Dave Maggio
+mn_ED_art_staff06	Terue Yasunaga
+mn_ED_art_staff07	Shohei Tanimoto
+mn_ED_art_staff08	Toshifumi Sekijima
+mn_ED_art_staff09	Huichung Lee
+mn_ED_art_staff10	Kazuaki Henmi
+mn_ED_art_staff11	Masayasu Ban
+mn_ED_art_staff12	Mitsumi Sakashita
+mn_ED_art_staff13	Kimi Niwano
+mn_ED_art_staff14	Aiko Inafune
+mn_ED_art_staff15	Mari Inomata
+mn_ED_art_staff16	Shizuka Abe
+mn_ED_art_staff17	Tsuyoshi Otaku
+mn_ED_art_staff18	Yasuhiro Ando
+mn_ED_art_staff19	Yoshinori Ikeshita
+mn_ED_art_staff20	Keisuke Izaki
+mn_ED_art_staff21	Mikio Kita
+mn_ED_art_staff22	Tsukasa Tanaka
+mn_ED_art_staff23	Hideki Morinaga
+mn_ED_art_staff24	Yurie Itou
+mn_ED_art_staff25	Fumihiko Sugino
+mn_ED_art_staff26	Takuya Tawaratsumida
+mn_ED_art_staff27	Sho Nakamura
+mn_ED_art_staff28	Shohei Higashi
+mn_ED_art_staff29	Akira Mizoguchi
+mn_ED_art_staff30	Shinsuke Miyazaki
+mn_ED_art_staff31	Nana Hidaka
+mn_ED_art_staff32	Yumi Futagawa
+mn_ED_art_staff33	Senei Sou
+mn_ED_art_staff34	Shiori Teramoto
+mn_ED_art_staff35	Shouichi Kawamura
+mn_ED_art_staff36	Mami Taniguchi
+mn_ED_art_staff37	Ryoichi Okayama
+mn_ED_art_staff38	Chika Kawase
+mn_ED_art_staff39	Kazuhiro Nagata
+mn_ED_art_staff40	Sumihiro Kawai
+mn_ED_art_staff41	Moena Chikada
+mn_ED_art_staff42	Hiroaki Miura
+mn_ED_art_staff43	Mizuki Tachi
+mn_ED_art_staff44	Mu Ueno
+mn_ED_art_staff45	Yuta Arai
+mn_ED_art_staff46	Masaya Sakuma
+mn_ED_art_staff47	Hiroshi Oda
+mn_ED_art_staff48	Yusuke Nishimaru
+mn_ED_art_staff49	Kin Kou
+mn_ED_art_staff50	Kyohei Ikeda
+mn_ED_art_staff51	Cong Thanh Nguyen
+mn_ED_art_staff52	Thi Diem Linh Nguyen
+mn_ED_art_staff53	Manh Truong Quyen
+mn_ED_art_staff54	Xuan Tuan Bui
+mn_ED_art_staff55	Thanh Tung Nguyen
+mn_ED_art_staff56	Yohei Fujimoto
+mn_ED_art_staff57	Kaito Iwamatsu
+mn_ED_chief_sound_di_staff	Ichiro Shimakura
+mn_ED_sound_di_staff00	Takahiro Nagano
+mn_ED_sound_di_staff01	Naruki Kadosaka
+mn_ED_sound_di_staff02	Yuhki Mori
+mn_ED_music_di_staff	Chamy Ishi
+mn_ED_music_staff00	Toshiki Aida
+mn_ED_music_staff01	Satoshi Okubo
+mn_ED_sound_ef_staff00	Tokiya Watanabe
+mn_ED_sound_ef_staff01	Yutaka Takahashi
+mn_ED_sound_ef_staff02	Shohei Niigawa
+mn_ED_sound_ef_staff03	Janjeff Aquinde
+mn_ED_sound_su_staff00	Taisuke Kobayashi
+mn_ED_sound_co_staff00	Hiroyuki Tsuboguchi
+mn_ED_sound_co_staff01	Shinji Yoshikawa
+mn_ED_sound_sup_staff00	Megumi Inoue
+mn_ED_sound_sup_staff01	Koji Kondo
+mn_ED_sound_sup_staff02	Asuka Hayazaki
+mn_ED_sound_sup_staff03	Ryoji Yoshitomi
+mn_ED_character_vo_staff00	Charles Martinet
+mn_ED_character_vo_staff01	Sam Kelly
+mn_ED_character_vo_staff02	Deanna Mustard
+mn_ED_character_vo_staff03	Laura Faye Smith
+mn_ED_character_vo_staff04	Kenny James
+mn_ED_character_vo_staff05	Caety Sagoian
+mn_ED_character_vo_staff06	Kazumi Totaka
+mn_ED_character_vo_staff07	Takashi Nagasako
+mn_ED_character_vo_staff08	Motoki Takagi
+mn_ED_character_vo_staff09	Nate Bihldorff
+mn_ED_character_vo_staff10	Sanae Uchida
+mn_ED_character_vo_staff11	Haruka Kakinuma
+mn_ED_character_vo_staff12	Atsushi Masaki
+mn_ED_character_vo_staff13	Tadd Morgan
+mn_ED_character_vo_staff14	Masafumi Kawamura
+mn_ED_character_vo_staff15	Ryo Nagamatsu
+mn_ED_character_vo_staff16	Toru Minegishi
+mn_ED_character_vo_staff17	Toru Asakawa
+mn_ED_character_vo_staff18	Nobuyoshi Suzuki
+mn_ED_voices_staff00	Cecilia da Costa
+mn_ED_voices_staff01	Cristina Pohlenz Garza
+mn_ED_voices_staff02	Samantha Robertson
+mn_ED_voices_staff03	Thaddée Wiseur
+mn_ED_voices_staff04	Sabrina Jouillat
+mn_ED_voices_staff05	Kent Robello
+mn_ED_voices_staff06	Gunnar Friedrich
+mn_ED_voices_staff07	Álex Hernández-Puertas
+mn_ED_voices_staff08	Carsten Harmans
+mn_ED_voices_staff09	Victoria Valeria Becker
+mn_ED_character_su_staff	Chiaki Ogura
+mn_ED_illustaration_staff00	Yuri Adachi
+mn_ED_illustaration_staff01	Shigehisa Nakaue
+mn_ED_package_de_staff	Keiko Inoue
+mn_ED_technical_su_staff	Toru Inage
+mn_ED_noa_localization_ma_staff00	Reiko Ninomiya
+mn_ED_noa_localization_ma_staff01	Noriko Kaji
+mn_ED_noa_localization_ma_staff02	Tim O'Leary
+mn_ED_noa_localization_ma_staff03	Dan Owsen
+mn_ED_noa_localization_ma_staff04	Álex Zarza
+mn_ED_noa_localization_staff00	Lisa Abe
+mn_ED_noa_localization_staff01	Ana Celeste Ascanio
+mn_ED_noa_localization_staff02	Erika Belan
+mn_ED_noa_localization_staff03	Peter Bohan
+mn_ED_noa_localization_staff04	Mariana Carneiro
+mn_ED_noa_localization_staff05	Yanett Cepeda Valor
+mn_ED_noa_localization_staff06	Rosa Cogley
+mn_ED_noa_localization_staff07	Ron DelVillano
+mn_ED_noa_localization_staff08	Marjolaine Drouin
+mn_ED_noa_localization_staff09	Lara Gibran
+mn_ED_noa_localization_staff10	Nicko Gonzalez
+mn_ED_noa_localization_staff11	Berenice Hofsetz
+mn_ED_noa_localization_staff12	Marissol Karczeski
+mn_ED_noa_localization_staff13	Josée Lebeau-Bédard
+mn_ED_noa_localization_staff14	Karina Mora
+mn_ED_noa_localization_staff15	Christian Nutt
+mn_ED_noa_localization_staff16	Carolina Quesada
+mn_ED_noa_localization_staff17	Elina Sánchez
+mn_ED_noa_localization_staff18	Fannie Senécal
+mn_ED_noa_localization_staff19	Joe Talbot
+mn_ED_noa_localization_staff20	Ludovic Tientcheu Ponkin
+mn_ED_noa_localization_staff21	Babi Velho Barreto
+mn_ED_noa_localization_staff22	Taryn Ziegler
+mn_ED_noa_localization_staff23	Felipe Zylbersztajn
+mn_ED_noe_localization_pr_staff00	Dario De Leo
+mn_ED_noe_localization_pr_staff01	Liam Higgins
+mn_ED_noe_localization_pr_staff02	Daisuke Fukuyama
+mn_ED_noe_localization_pr_staff03	Kevin Murray
+mn_ED_noe_localization_pr_staff04	Elizabeth Sánchez León
+mn_ED_noe_translation_staff00	Rui Mendes
+mn_ED_noe_translation_staff01	Grace Yon
+mn_ED_noe_translation_staff02	Anthony Fouillen
+mn_ED_noe_translation_staff03	Matthieu Lamouroux
+mn_ED_noe_translation_staff04	Kent Robello
+mn_ED_noe_translation_staff05	Giovanna Prati
+mn_ED_noe_translation_staff06	Mirko Capocelli
+mn_ED_noe_translation_staff07	Frithjof Koepp
+mn_ED_noe_translation_staff08	Hannah Siebert
+mn_ED_noe_translation_staff09	Sascha Weinard
+mn_ED_noe_translation_staff10	Alicia Vega Lamela
+mn_ED_noe_translation_staff11	Ariel del Rio de Angelis
+mn_ED_noe_translation_staff12	Pedro José Moreno Villar
+mn_ED_noe_translation_staff13	Thomas den Haan
+mn_ED_noe_translation_staff14	Christian Buter
+mn_ED_noe_translation_staff15	Vincent Meijer
+mn_ED_noe_translation_staff16	Carsten Harmans
+mn_ED_noe_translation_staff17	Dmitrii Kaloev
+mn_ED_noe_translation_staff18	Anton Ivancikov
+mn_ED_noe_translation_staff19	Victoria Valeria Becker
+mn_ED_nhl_localization_staff00	Jeanie Ho
+mn_ED_nhl_localization_staff01	Tracy Cheng
+mn_ED_nhl_localization_staff02	Eiju Umemura
+mn_ED_nhl_localization_staff03	Anson Wong
+mn_ED_nhl_localization_staff04	Pole To Win Taiwan
+mn_ED_ique_localization_staff00	Yuan Jun
+mn_ED_ique_localization_staff01	Zhang Jiong
+mn_ED_nok_localization_staff00	Hyokjin Jung
+mn_ED_nok_localization_staff01	Dongyeon Kim
+mn_ED_nok_localization_staff02	Soonil Kim
+mn_ED_nok_localization_staff03	Jeewan Chun
+mn_ED_nok_localization_staff04	Suzy Do
+mn_ED_nok_localization_staff05	PTW Korea Co., Ltd.
+mn_ED_testng_staff00	Maki Yoshitake
+mn_ED_testng_staff01	Yoshihiro Katagami
+mn_ED_testng_staff02	Rika Yoshinaga
+mn_ED_testng_staff03	Yoshiki Sugai
+mn_ED_testng_staff04	Masaki Furukawa
+mn_ED_testng_staff05	Ryuji Hamaguchi
+mn_ED_testng_staff06	Mario Club Co., Ltd.
+mn_ED_testng_staff07	Shinpei Otowa
+mn_ED_testng_staff08	Souma Kitakouji
+mn_ED_testng_staff09	Takanosuke Tsukamoto
+mn_ED_testng_staff10	Kana Koide
+mn_ED_testng_staff11	Toru Moritani
+mn_ED_testng_staff12	Tomomitsu Kurimura
+mn_ED_testng_staff13	Natsuki Imai
+mn_ED_testng_staff14	Takumi Wada
+mn_ED_testng_staff15	Masashi Takitani
+mn_ED_testng_staff16	Keita Nagahara
+mn_ED_testng_staff17	Akari Tokuno
+mn_ED_testng_staff18	Mirei Ando
+mn_ED_testng_staff19	Toshiki Nishimura
+mn_ED_testng_staff20	Yoshitaka Kawamura
+mn_ED_testng_staff21	Ryoma Kishii
+mn_ED_testng_staff22	Hisashi Matsui
+mn_ED_testng_staff23	Ryo Fujishima
+mn_ED_testng_staff24	Adumi Shimizu
+mn_ED_testng_staff25	Manaka Tsutsumi
+mn_ED_testng_staff26	Yoshihiro Ninomiya
+mn_ED_testng_staff27	DIGITAL HEARTS Co., Ltd.
+mn_ED_noa_product_te_staff00	Kentaro Nishimura
+mn_ED_noa_product_te_staff01	Kirk Buchanan
+mn_ED_noa_product_te_staff02	Tomo Ishiyama
+mn_ED_noa_product_te_staff03	Q Dequina
+mn_ED_noa_product_te_staff04	Hitoshi Nishizawa
+mn_ED_noa_product_te_staff05	Tomoko Mikami
+mn_ED_noa_product_te_staff06	Zac Evans
+mn_ED_noa_product_te_staff07	Robert Jahn
+mn_ED_noa_product_te_staff08	Takuya Nishiwaki
+mn_ED_noa_product_te_staff09	Daijiro Imoto
+mn_ED_noa_product_te_staff10	Matthew Ortega
+mn_ED_noa_product_te_staff11	David Figlar
+mn_ED_noa_product_te_staff12	Michael Sahlin
+mn_ED_noa_product_te_staff13	James Dillon
+mn_ED_noa_product_te_staff14	Josh Yagi-Stanton
+mn_ED_noa_product_te_staff15	Craig So
+mn_ED_noa_product_te_staff16	Pamela Waters
+mn_ED_noa_product_te_staff17	James Ward
+mn_ED_noa_product_te_staff18	Manuela Moreira
+mn_ED_noa_product_te_staff19	Kyle Schlagel
+mn_ED_noa_product_te_staff20	Alejandra Murillo Mondragón
+mn_ED_noa_product_te_staff21	Sean Roberts
+mn_ED_noa_product_te_staff22	Shawn Robinson
+mn_ED_noa_product_te_staff23	Steven Colburn
+mn_ED_noa_product_te_staff24	Product Testing Technicians
+mn_ED_noe_qualty_ass_staff00	Ángel Moreno Colmena
+mn_ED_noe_qualty_ass_staff01	J. Ignacio León López
+mn_ED_noe_qualty_ass_staff02	Damien Brichard
+mn_ED_noe_qualty_ass_staff03	Olivier Jacquemin-Guillaume
+mn_ED_noe_qualty_ass_staff04	Julien Veron
+mn_ED_noe_qualty_ass_staff05	Manuel Tants
+mn_ED_noe_qualty_ass_staff06	Zoran Tasevski
+mn_ED_noe_qualty_ass_staff07	Alessandro Crosa
+mn_ED_noe_qualty_ass_staff08	Pasquale Gianluca Miceli
+mn_ED_noe_qualty_ass_staff09	David Martín Navarro
+mn_ED_noe_qualty_ass_staff10	Jessica Sánchez Herrera
+mn_ED_noe_qualty_ass_staff11	Daan Koopman
+mn_ED_noe_qualty_ass_staff12	Brian Devits
+mn_ED_noe_qualty_ass_staff13	Ihar Havenka
+mn_ED_noe_qualty_ass_staff14	Inna Talalay
+mn_ED_special_th_staff00	Takayasu Morisawa
+mn_ED_special_th_staff01	Keisuke Terasaki
+mn_ED_special_th_staff02	Hideki Sahashi
+mn_ED_special_th_staff03	Yuhei Tsukami
+mn_ED_special_th_staff04	Satoshi Ezaki
+mn_ED_special_th_staff05	Yuya Kumagai
+mn_ED_special_th_staff06	Kosuke Akashi
+mn_ED_special_th_staff07	Yukio Umematsu
+mn_ED_special_th_staff08	Osamu Tsujikawa
+mn_ED_special_th_staff09	Shigeru Okita
+mn_ED_special_th_staff10	Hisao Hasunuma
+mn_ED_special_th_staff11	Mitsuo Hasunuma
+mn_ED_special_th_staff12	Noriyuki Saeki
+mn_ED_special_th_staff13	Takaki Kobayashi
+mn_ED_special_th_staff14	Jun Arai
+mn_ED_special_th_staff15	Shingo Okawa
+mn_ED_special_th_staff16	Tomoka Sukegawa
+mn_ED_special_th_staff17	NintendoWare Bezel Engine Development Team
+mn_ED_special_th_staff18	Magnum enter Co., Ltd.
+mn_ED_special_th_staff19	CA PRODUCTION Co., Ltd.
+mn_ED_special_th_staff20	WILL Co., Ltd.
+mn_ED_special_th_staff21	SmileBoom Co., Ltd.
+mn_ED_special_th_staff22	T's MUSIC Co., Ltd.
+mn_ED_special_th_staff23	Shun Hakamada
+mn_ED_coordination_staff00	Kazuyoshi Toriyama
+mn_ED_coordination_staff01	Yoshinori Tsuchiyama
+mn_ED_project_manager_staff	Shinya Saito
+mn_ED_associate_pr_staff	Misaki Hiraga
+mn_ED_producers_staff00	Toshiaki Suzuki
+mn_ED_producers_staff01	Toyokazu Nonaka
+mn_ED_producers_staff02	Kenji Kikuchi
+mn_ED_producers_staff03	Atsushi Ikeda
+mn_ED_general_pr_staff00	Shinya Takahashi
+mn_ED_general_pr_staff01	Shuichiro Nishiya
+mn_ED_executive_pr_staff	Shuntaro Furukawa
+mn_ED_copyright00	Made with NintendoWare Bezel Engine.
+hsmn_OP.msbt
+mn_OP_mw_opening00	大家……應該沒有忘記吧？
+mn_OP_mw_opening01	圍繞超級巨星而展開的比賽，\r\n就始於這根「起始水管」……
+mn_OP_mw_opening02	你們會忘記也是正常的～\r\n因為一直都沒有用過啊……
+mn_OP_mw_opening03	但是！這次的冒險，將重啟這根水管……
+mn_OP_mw_opening04	終、終於要出場了！
+mn_OP_mw_opening05	得快點叫大家過來才行！
+mn_OP_mw_opening06	因為好久不見，所以身為嚮導的\r\n慢慢龜看起來也很緊張呢。
+mn_OP_mw_opening07	大家好，謝謝大家前來！
+mn_OP_mw_opening08	這次就從這個水管前往冒險，\r\n決定誰是超級巨星吧！
+mn_OP_mw_opening09	也許還可以前往\r\n以前見過的那個地方喔。
+mn_OP_mw_opening10	那麼……我們出發吧！\r\n一起前往那嶄新又令人懷念的Mario Party世界吧！
+hs_bd00.msbt
+bd00_ui_turn	回合
+bd00_ui_turnNumber	[0]/[1]
+bd00_ui_starDistance	{size[4600]}距離{size[6400]}{size[4600]}還有{size[6400]}[0]{size[4600]}格{size[6400]}
+bd00_ui_starDistance_unknown	{size[4600]}距離{size[6400]}{size[4600]}還有{size[6400]}[0]{size[4600]}格{size[6400]}？
+bd00_ui_cellCount	{size[4600]}距離這裡還有{size[6400]}[0]{size[4600]}格{size[6400]}
+bd00_ui_cellCount_unknown	{size[4600]}距離這裡還有{size[6400]}[0]{size[4600]}格{size[6400]}？
+bd00_roulette	[0]
+bd00_ctrl_hit	敲擊
+bd00_ctrl_zoomOut	移動游標  整體地圖
+bd00_ctrl_viewMap	查看地圖
+bd00_mw_aMap	查看地圖
+bd00_ctrl_chanceTime	移動　敲擊
+bd00_ctrl_stop	停止
+bd00_ctrl_fastForward	按住時快轉
+bd00_ctrl_overlooking00	環視四周
+bd00_tlp_eventTitle	[0]
+bd00_ctrl_zoomOut01	移動游標　返回
+bd00_status_rank	[0]
+bd00_status_useName	[0]
+bd00_itemGet_ui_itemName	[0]
+bd00_itemGet_ui_itemDetails	[0]
+bd00_tlp_starGet	獲得星星！
+bd00_tlp_starGets	獲得星星！
+bd00_OP_mw_welcome00	終於到了！\r\n這裡就是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_tlp_board	[0]
+bd00_OP_mw_start00	那麼……我還有東西\r\n要準備，先走囉。
+bd00_OP_mw_start01	之後就拜託你了，{color[ff3502ff]}奇諾比奧{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_OP_mw_start02	好！我知道了！
+bd00_p01_mw_welcome00	接下來，就由我{color[ff3502ff]}奇諾比奧{color[000000ff]}{color[110c1dff]}\r\n來為大家說明！{color[000000ff]}
+bd00_p01_mw_welcome01	對了……各位是\r\n第一次遊玩這個地圖嗎？
+bd00_p01_mw_welcome01_a0	是第一次
+bd00_p01_mw_welcome01_a1	不是
+bd00_p01_mw_explaination00	那麼，讓我來介紹一下這個地圖吧。
+bd00_p01_mw_ordering01	那麼，我們先來決定順序吧。
+bd00_p01_mw_ordering02	第1位是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd00_p01_mw_ordering03	第2位是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd00_p01_mw_ordering04	第3位是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd00_p01_mw_ordering05	第4位是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd00_p01_mw_giveCoin00	既然決定好遊玩順序，\r\n那我就把{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣送給各位。{color[000000ff]}
+bd00_p01_mw_setStar00	好了！\r\n目標的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星在哪裡呢？{color[000000ff]}
+bd00_p01_mw_setStar01	好了！\r\n第一顆{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星在哪裡呢？{color[000000ff]}
+bd00_p01_mw_setStar02	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星就在這裡！{color[000000ff]}
+bd00_p01_mw_setStar03	請收集到{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣再過來吧！{color[000000ff]}
+bd00_p01_mw_setStar04	請收集到{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣再過來吧，我會等大家的！{color[000000ff]}
+bd00_p01_mw_ready00	那麼，終於要開始了。
+bd00_p01_mw_ready01	各位要努力，以成為\r\n第一名為目標喔！
+bd00_tlp_turn	回合[0]
+bd00_tlp_lastFewTurns	最後[0]回合
+bd00_tlp_lastTurns	最終回合！
+bd00_p02_mw_lastSp00	好，只剩下5回合了！\r\n來看看目前的名次吧。
+bd00_p02_mw_lastSp01	第1名，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSp02	第2名，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSp03	第3名，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSp04	第4名，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSpBonus00a	嗯～賽況旗鼓相當呢！！
+bd00_p02_mw_lastSpBonus00b	各位都很努力啊～\r\n真是一場緊張刺激的比賽。
+bd00_p02_mw_lastSpBonus00c	這場比賽真是令人熱血沸騰～\r\n每個玩家都有可能勝出呢。
+bd00_p02_mw_lastSpBonus01	最後勝出的到底會是誰呢？\r\n我們來預測一下冠軍吧。
+bd00_p02_mw_lastSpBonus02a	來為我們預測的人，當然就是這位！\r\n有請～！
+bd00_p02_mw_lastSpBonus02b	說到預測，各位應該都會想到這位吧。\r\n有請～！
+bd00_p02_mw_lastSpBonus02c	進行預測的，就是最近人氣急升，\r\n但作風低調的這位！！
+bd00_p02_mw_lastSpBonus04	那麼，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n請到這裡來！{color[000000ff]}
+bd00_p02_mw_lastSpBonus03	我要把[1]送給\r\n冠軍候選人{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSpBonus05	我要把{color[ff3502ff]}[1]{color[000000ff]}{color[110c1dff]}送給\r\n冠軍候選人{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p02_mw_lastSpEffect00	那麼，接下來是最後加速期間了……
+bd00_p02_mw_lastSpEffect01	{color[110c1dff]}在{color[ff3502ff]}獎勵格{color[110c1dff]}獲得的{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣\r\n會變成兩倍，也就是6枚！{color[000000ff]}
+bd00_p02_mw_lastSpEffect02	{color[110c1dff]}不過，在{color[ff3502ff]}懲罰格{color[110c1dff]}被奪走的{color[ffffffff]}{color[110c1dff]}金幣\r\n也會變成6枚，要注意喔。{color[000000ff]}
+bd00_p02_mw_lastSpEffect03	還有！只要有2人以上停在同一格，\r\n就會馬上開始決鬥喔。
+bd00_p02_mw_lastSpEffect04	還有機會反敗為勝……\r\n請不要放棄，努力到最後一刻吧！
+bd00_p02_mw_lastSpEffect05	{color[110c1dff]}啊，{color[ff3502ff]}慢慢龜銀行{color[110c1dff]}的捐款{color[ffffffff]}{color[110c1dff]}金幣\r\n也將增加至{color[ffffffff]}{color[110c1dff]}5金幣喔。{color[000000ff]}
+bd00_p02_mw_turnChange00	現在要跟各位報告一件事！
+bd00_p02_mw_turnChange01	這次遊戲本來預定於[0]回合結束，\r\n但現在決定延長至[1]回合。
+bd00_p02_mw_afterLastSP00	剛才跟各位說過的最後加速，\r\n接下來也要暫時先中止了。
+bd00_p02_mw_afterLastSP01	{color[ff3502ff]}獎勵格{color[000000ff]}{color[110c1dff]}與{color[000000ff]}{color[ff3502ff]}懲罰格{color[000000ff]}{color[110c1dff]}的{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣數量\r\n都會變回3枚……{color[000000ff]}
+bd00_p02_mw_afterLastSP02	就算有2人以上停在同一格，\r\n決鬥也不會發生。
+bd00_p02_mw_afterLastSP03	{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[110c1dff]}的捐款{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣\r\n也將回到{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}3金幣……{color[000000ff]}
+bd00_p02_mw_turnChange03	那麼，請大家繼續努力，\r\n遊玩至[0]回合吧！
+bd00_tlp_start_chaname	[0]開始！
+bd00_p03_mw_firstItem00	可以使用剛才獲得的道具。\r\n要馬上來用看看嗎？
+bd00_pl_dice	骰子
+bd00_pl_item	道具
+bd00_pl_map	地圖
+bd00_map_cell_name	[0]
+bd00_map_cell_details	[0]
+bd00_map_s00_details00	使用20金幣獲得1顆星星。
+bd00_map_s00_details01	你專屬的半價優惠！\r\n使用10金幣獲得1顆星星。
+bd00_map_s00_details02	現在可以使用{color[ff3502ff]}2倍卡{color[000000ff]}{color[ffffffff]}購買2顆！\r\n使用{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}40金幣獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}2顆星星。{color[000000ff]}
+bd00_map_s00_details03	現在可以使用{color[ff3502ff]}2倍卡{color[000000ff]}{color[ffffffff]}並獲得半價優惠\r\n使用{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}20金幣獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}2顆星星。{color[000000ff]}
+bd00_map_s01_details00	可以使用金幣購買道具。
+bd00_map_s01_details01	可以使用金幣購買道具\r\n目前已經售完。
+bd00_map_s02_details	可以選擇要往前的道路。
+bd00_map_s03_details	走完地圖一圈！\r\n獲得10金幣作為紀念。
+bd00_map_s04_details	{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}好像\r\n要給你什麼……{color[000000ff]}
+bd00_map_s05_details	大門被關上了。\r\n有鑰匙的話也許能打開喔？
+bd00_map_s06_details	可以從對手身上免費奪走金幣\r\n或使用50金幣奪走星星。
+bd00_map_c00_details	成為超級巨星的道路\r\n就從這裡開始。
+bd00_map_c01_details	獲得[0]金幣
+bd00_map_c02_details	被奪走[0]金幣
+bd00_map_c03_details00	遊玩道具小遊戲，\r\n獲得道具吧。
+bd00_map_c03_details01	這是最終回合，\r\n不會進行道具小遊戲喔。
+bd00_map_c05_details	敲擊3個旋轉磚塊，\r\n抓住反敗為勝的機會！
+bd00_map_c06_details00	也許可以用輪盤\r\n獲得道具或金幣喔！
+bd00_map_c06_details01	可以用輪盤\r\n獲得金幣喔！
+bd00_map_c07_details	只會發生壞事的危險格子，\r\n停在上面就要倒大楣了。
+bd00_map_c08_details	從大家身上收集金幣，\r\n以小遊戲進行對戰。
+bd00_map_c09_details	每次經過都要捐款[0]金幣，\r\n停在上面可能會有好事發生喔！
+bd00_2Dmap_cell_name	[0]
+bd00_2Dmap_ctrl_back	關閉地圖
+bd00_2Dmap_ctrl_display	附近地圖
+bd00_3Dmap_ctrl_cursor	移動游標
+bd00_2Dmap_c09_coin	[0]
+bd00_s00_mw_welcome00	{color[ffffffff]}好厲害！看來你有成為\r\n{color[ff3502ff]}超級巨星{color[ffffffff]}的資格！{color[000000ff]}
+bd00_s00_mw_welcome01	哇！{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}竟然\r\n再次擁有成為{color[000000ff]}{color[ff3502ff]}超級巨星{color[000000ff]}{color[ffffffff]}的資格！{color[000000ff]}
+bd00_s00_mw_welcome02	太棒了！{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}！\r\n看來這次你也擁有成為{color[000000ff]}{color[ff3502ff]}超級巨星{color[000000ff]}{color[ffffffff]}的資格！{color[000000ff]}
+bd00_s00_mw_noCoin00	{color[ffffffff]}金幣不足……看來你還沒有\r\n成為{color[ff3502ff]}超級巨星{color[ffffffff]}的資格。{color[000000ff]}
+bd00_s00_mw_exchange00	要獲得星星嗎？
+bd00_s00_mw_exchange00_a0	不用了
+bd00_s00_mw_exchange00_a1	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}10→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}1{color[000000ff]}
+bd00_s00_mw_exchange00_a2	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}20→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}1{color[000000ff]}
+bd00_s00_mw_exchange00_a3	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}20→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}2{color[000000ff]}
+bd00_s00_mw_exchange00_a4	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}40→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}2{color[000000ff]}
+bd00_s00_mw_exchange01	那麼，請收下星星！
+bd00_s00_mw_exchange02a	太厲害了！！\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}連續獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}星星！{color[000000ff]}
+bd00_s00_mw_exchange02b	不愧是{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}！{color[000000ff]}\r\n{color[ffffffff]}連續獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}星星囉。{color[000000ff]}
+bd00_s00_mw_exchange02c	竟然可以連續獲得{color[ffffffff]}{color[000000ff]}{color[ffffffff]}星星，{color[000000ff]}\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}！真的太棒了！{color[000000ff]}
+bd00_s00_mw_exchange03	更幸運的是……半價！\r\n而且！你還有{color[ff3502ff]}2倍卡{color[000000ff]}{color[ffffffff]}——！！{color[000000ff]}
+bd00_s00_mw_exchange04	哇！好厲害！\r\n在1回合裡連續獲得星星！
+bd00_s00_mw_exchange05	{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}！好、好神奇！\r\n神奇地連續獲得星星！{color[000000ff]}
+bd00_s00_mw_halfStar00	好幸運！以半價獲得星星！
+bd00_s00_mw_halfStar01	而且……竟然還是半價！\r\n真是太幸運了！
+bd00_s00_mw_noExchange00	咦……？咦咦咦咦？？\r\n你不要星星嗎？
+bd00_s00_mw_noExchange01	咦，真的不要嗎？
+bd00_s00_mw_noExchange02	真的真的不要嗎？？沒問題嗎……？
+bd00_s00_mw_noExchange03	既然你這樣說，那我知道了。\r\n你一定是有自己的打算吧？
+bd00_s00_mw_starMove00	下一顆星星在……
+bd00_s00_mw_starMove01	星星在這裡！
+bd00_s01_ui_shopClosed	暫停營業。
+bd00_s01_ui_itemPrice	[0]
+bd00_s01_ui_itemName	[0]
+bd00_s01_ui_itemDetails	[0]
+bd00_s01_ctrl_cancel	退出
+bd00_s01_ctrl_map	查看地圖
+bd00_s01_mw_noCoin00	{color[ffffffff]}這裡是{color[ff3502ff]}道具商店{color[ffffffff]}！\r\n要買什麼呢？{color[000000ff]}
+bd00_s01_mw_noCoin01	仔細一看，你的金幣好像不夠耶。\r\n先存好金幣再來吧。
+bd00_s01_mw_welcome00	{color[ffffffff]}這裡是{color[ff3502ff]}道具商店{color[ffffffff]}！\r\n要買什麼呢？{color[000000ff]}
+bd00_s01_mw_welcome01	商品有了一些變化，\r\n請務必看看！
+bd00_s01_mw_welcome02	因為遊戲還會繼續進行，\r\n所以我把商品恢復成原樣了！
+bd00_s01_mw_welcome03	我又調整了一下商品！\r\n請再來選購喔！
+bd00_s03_mw_welcome00a	好，辛苦了！\r\n這是獎勵的10金幣！
+bd00_s03_mw_welcome00b	來，這是圈數獎勵！\r\n給你10金幣。
+bd00_s03_mw_welcome00c	辛苦了，你真努力啊！\r\n這是獎勵的10金幣！
+bd00_mgResult_rank_1st	[0]
+bd00_mgResult_rank_below	[0]
+bd00_mgResult_ui_Win	獲勝
+bd00_mgResult_ui_catchUp	後來居上！
+bd00_mgResult_ui_keep	保持！
+bd00_mgResult_ui_reversal	逆轉！
+bd00_tlp_cell	[0]
+bd00_duel_mw_welcome00	有2人以上停在同一格了。\r\n那麼，決鬥要開始了！
+bd00_duel_mw_noCoin00	{color[110c1dff]}不過……有人身上沒有{color[ffffffff]}{color[110c1dff]}金幣呢。\r\n很可惜，決鬥只能中止了。{color[000000ff]}
+bd00_duel_mw_choice00	決鬥是1對1的正式比賽。\r\n請選擇1位比賽對手吧！
+bd00_duel_mw_choice01	{color[110c1dff]}順帶一提，沒有{color[ffffffff]}{color[110c1dff]}金幣的人\r\n是無法參加決鬥的。{color[000000ff]}
+bd00_duel_mw_choice02	哎呀……因為有人沒有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣，\r\n所以對手就是{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}了。{color[000000ff]}
+bd00_rivalSlct_order_duel	要跟誰決鬥？
+bd00_duel_mw_betCoin03	根據相互持有的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣，\r\n決定要下注的{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣數量吧。{color[000000ff]}
+bd00_duel_mw_betCoin00	那麼，{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n請決定要下注的{color[ffffffff]}{color[110c1dff]}金幣數量！{color[000000ff]}
+bd00_duel_mw_betCoin04	哎呀……？{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}身上\r\n只有{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}1金幣呢。{color[000000ff]}
+bd00_duel_mw_betCoin05	哎呀……？兩位身上\r\n都只有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}1金幣呢。{color[000000ff]}
+bd00_duel_ui_betCoin	[0]
+bd00_duel_mw_betCoin01	{color[110c1dff]}那麼，我先向每位收取{color[ffffffff]}{color[110c1dff]}[0]金幣喔。{color[000000ff]}
+bd00_duel_mw_betCoin01p	{color[110c1dff]}那麼，我先向每位收取{color[ffffffff]}{color[110c1dff]}[0]金幣喔。{color[000000ff]}
+bd00_duel_mw_betCoin02	真的要下注{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣嗎？{color[000000ff]}
+bd00_duel_mw_betCoin02p	真的要下注{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣嗎？{color[000000ff]}
+bd00_duel_mw_betCoin02_a0	是的
+bd00_duel_mw_betCoin02_a1	不是
+bd00_duel_mw_totalCoin00	{color[110c1dff]}一共收集到{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣！\r\n勝出的人可以獲得所有金幣。{color[000000ff]}
+bd00_duel_mw_totalCoin01	沒想到！竟然一共收集到{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣！\r\n到底哪一位會得到這豐厚的獎金呢？！{color[000000ff]}
+bd00_duel_mw_totalCoin02	什、什麼！竟然收集到{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣！\r\n這真是千載難逢的好機會——！！{color[000000ff]}
+bd00_duel_mw_start00	那麼，準備好了嗎？\r\n決鬥開始！！
+bd00_duel_mw_win00	勝負已分！！\r\n{color[110c1dff]}{color[ffffffff]}{color[110c1dff]}[0]金幣全都屬於{color[ff3502ff]}[1]{color[110c1dff]}了！{color[000000ff]}
+bd00_duel_mw_draw00	喔，這次竟然是平手！\r\n{color[110c1dff]}那我就把{color[ffffffff]}{color[110c1dff]}金幣還給大家囉。{color[000000ff]}
+bd00_c04_mw_lastTurn	這是最終回合，\r\n不會進行道具小遊戲。
+bd00_c05_mw_welcome00a	反敗為勝的好機會！！\r\n{color[110c1dff]}歡迎來到{color[ff3502ff]}機會格{color[110c1dff]}！{color[000000ff]}
+bd00_c05_mw_welcome00b	全世界的觀眾，久等了！\r\n{color[110c1dff]}歡迎來到反敗為勝的{color[ff3502ff]}機會格{color[110c1dff]}！！{color[000000ff]}
+bd00_c05_mw_welcome00c	耶！歡迎來到{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}！！\r\n輕鬆逆轉不是夢喔！{color[000000ff]}
+bd00_c05_mw_welcome01	在這裡，{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星和{color[ffffffff]}{color[110c1dff]}金幣\r\n會按照磚塊上寫的內容移動！{color[000000ff]}
+bd00_c05_mw_welcome02	這3個磚塊都會旋轉，要仔細看清楚\r\n再讓它們停下來喔。那麼，開始吧！
+bd00_tlp_chanceTime	CHANCE TIME!
+bd00_c05_mw_payCoin00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}送了\r\n{color[ffffffff]}{color[110c1dff]}[2]枚金幣給{color[ff3502ff]}[1]{color[110c1dff]}！{color[000000ff]}
+bd00_c05_mw_payStar00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}送了\r\n{color[ffffffff]}{color[110c1dff]}1顆星星給{color[ff3502ff]}[1]{color[110c1dff]}！{color[000000ff]}
+bd00_c05_mw_changeAllCoin00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}跟{color[000000ff]}{color[ff3502ff]}[1]{color[000000ff]}{color[110c1dff]}手上的\r\n所有{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣將會交換！{color[000000ff]}
+bd00_c05_mw_changeAllStar00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}跟{color[000000ff]}{color[ff3502ff]}[1]{color[000000ff]}{color[110c1dff]}手上的\r\n所有{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星將會交換！{color[000000ff]}
+bd00_c05_mw_changeAll00	{color[110c1dff]}{color[ff3502ff]}[0]{color[110c1dff]}跟{color[ff3502ff]}[1]{color[110c1dff]}手上的\r\n所有{color[ffffffff]}{color[110c1dff]}金幣跟{color[ffffffff]}{color[110c1dff]}星星將會交換！{color[000000ff]}
+bd00_c05_mw_changeAll01	首先是交換{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣！{color[000000ff]}
+bd00_c05_mw_changeAll02	再來是交換{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星！{color[000000ff]}
+bd00_c05_mw_noChange00	咦……？很可惜，\r\n看來有人沒有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣呢。{color[000000ff]}
+bd00_c05_mw_noChange01	咦……？很可惜，\r\n看來有人沒有{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星呢。{color[000000ff]}
+bd00_c05_mw_noChange02	咦……？兩個人手上\r\n都沒有東西呢。真稀奇！
+bd00_c05_mw_finish00a	這樣一來，{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}就結束了！\r\n下次再見吧！{color[000000ff]}
+bd00_c05_mw_finish00b	那麼，{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}就結束了！\r\n請下次再來！{color[000000ff]}
+bd00_c05_mw_finish00c	那麼，{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}就結束了！\r\n如果還想要逆轉的話，請再過來喔！！{color[000000ff]}
+bd00_c05_mw_finish01	咦……？跟一開始沒分別耶。
+bd00_c07_mw_welcome00a	哇哈哈哈！
+bd00_c07_mw_welcome00b	哇哈哈哈！歡迎！！
+bd00_c07_mw_welcome01a	{color[ffffffff]}終於來到{color[ff3502ff]}庫巴格{color[ffffffff]}了！\r\n好好享受恐怖的事件吧！{color[000000ff]}
+bd00_c07_mw_welcome01b	這裡是{color[ff3502ff]}庫巴格{color[000000ff]}{color[ffffffff]}！\r\n好玩的事件就要開始啦！{color[000000ff]}
+bd00_c07_mw_welcome01c	{color[ffffffff]}終於來到{color[ff3502ff]}庫巴格{color[ffffffff]}啦！\r\n好好享受最壞的事件吧！{color[000000ff]}
+bd00_c07_mw_4thPlace00	嗯……？你現在是最後一名啊？\r\n你這傢伙真是太可憐了！！
+bd00_c07_mw_4thPlace01	反正是最後一名，就不用太認真啦。\r\n這個……雖然有點少，不過拿去吧！
+bd00_c07_mw_payCoin00	那麼，把金幣交出來吧！
+bd00_c07_mw_payCoinLack00	嗯……？你的金幣根本不夠啊！\r\n算了，把你手上的全部交出來就饒過你。
+bd00_c07_mw_payCoinNone00	嗯……！你根本沒有金幣！\r\n沒用的傢伙！給我回去！！
+bd00_c07_mw_allPayCoin00	哇哈哈！很好，\r\n那我就拿走所有人身上的金幣吧！！
+bd00_c07_mw_allPayCoin01	大家一起給就不會怕啦！\r\n哇哈哈哈哈！！
+bd00_c07_mw_evenlyCoin00	本大爺一直覺得……\r\n世界上最重要的並不是金幣！！
+bd00_c07_mw_evenlyCoin01	大家應該要平等才對！！\r\n所以，我要讓所有人的金幣都變成相同的數量！
+bd00_c07_mw_evenlyCoin03	所以……把所有金幣都交出來！
+bd00_c07_mw_evenlyCoin04	嗯……一共收集到[0]枚。\r\n那就平分給大家吧！
+bd00_c07_mw_evenlyCoin02	這就是{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}的社會改革！{color[000000ff]}\r\n{color[ff3502ff]}庫巴革命{color[000000ff]}{color[ffffffff]}——！！{color[000000ff]}
+bd00_c07_mw_changePlace00	哇哈哈！好，我就交換\r\n你們所有人目前身處的位置吧！！
+bd00_c07_mw_changePlace01	這樣一來，比賽一定會變得更有趣的。\r\n那麼……隨機打亂啦！
+bd00_c07_mw_100star00	……
+bd00_c07_mw_100star01	庫巴逃走了。
+bd00_c07_mw_paystar00	哇哈哈哈！\r\n那麼，就把星星交出來吧！
+bd00_c07_mw_payStarNone00	嗯……！你根本沒有星星！\r\n沒用的傢伙！給我回去！！
+bd00_c07_mw_coinPresent00	你、你這傢伙……！\r\n你根本沒有星星！！
+bd00_c07_mw_coinPresent01	你、你這傢伙也太可憐了吧！\r\n本大爺就施捨你20金幣吧！
+bd00_c07_mw_coinPresent02	很好，很好。不要亂花錢喔。\r\n那麼，保重啦！
+bd00_c07_mw_bowserHsmg00	大家一起挑戰{color[ff3502ff]}庫巴小遊戲{color[000000ff]}{color[ffffffff]}！{color[000000ff]}
+bd00_c07_mw_bowserHsmg01	挑戰失敗的傢伙就要把金幣交給我！
+bd00_c07_mw_kpmgNoLose00	可惡！你們都沒有人挑戰失敗啊！！\r\n太無聊了！快給我滾——！
+bo00_c07_mw_kpmgPayCoin00	{color[ffffffff]}{color[ff3502ff]}[0]{color[ffffffff]}、{color[ff3502ff]}[1]{color[ffffffff]}和{color[ff3502ff]}[2]{color[ffffffff]}，\r\n每人交10金幣給本大爺吧！{color[000000ff]}
+bo00_c07_mw_kpmgPayCoin05	{color[ffffffff]}{color[ff3502ff]}[0]{color[ffffffff]}和{color[ff3502ff]}[1]{color[ffffffff]}，\r\n每人交10金幣給本大爺吧！{color[000000ff]}
+bo00_c07_mw_kpmgPayCoin04	{color[ffffffff]}那麼，{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[ffffffff]}，\r\n快把10金幣交給本大爺吧！{color[000000ff]}
+bo00_c07_mw_kpmgPayCoin01	哇哈哈哈！\r\n你們所有人都要給我10金幣！
+bo00_c07_mw_kpmgPayCoin02	嗯……？你的金幣根本不夠啊！\r\n算了，把你手上的全部交出來就饒過你。
+bo00_c07_mw_kpmgPayCoin03	嗯……？好像不太夠耶……？\r\n算了，這次就饒過你吧。
+bo00_c07_mw_kpmgPayCoinNone00	嗯……？！什麼？\r\n竟然所有人都沒有金幣？？
+bo00_c07_mw_kpmgPayCoinNone01	你們這些傢伙真沒用！\r\n快給我滾！走、走！！
+bo00_c07_mw_kpmgPayCoinNone02	唔！你不是沒有金幣嗎！
+bo00_c07_mw_kpmgPayCoinNone03	不過……沒有也沒辦法了。\r\n今天的本大爺很講道理。
+bd00_c08_mw_welcome00	賭上大家的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣，以小遊戲來對戰！{color[000000ff]}
+bd00_c08_mw_welcome01	根據不同名次，可以獲得不同{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣喔！{color[000000ff]}
+bd00_c08_mw_bonus00	首先要把獎勵的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}3枚金幣\r\n送給停在格子上的{color[000000ff]}{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd00_c08_mw_betCoin00	那麼，來決定要下注的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣數量吧！{color[000000ff]}
+bd00_c08_mw_betCoin01	這次我要向每位收取{color[ffffffff]}{color[000000ff]}[0]{color[110c1dff]}金幣！{color[000000ff]}
+bd00_c08_mw_betCoin02	咦……？{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣好像不夠耶。\r\n算了，就賭上{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣來對戰吧！{color[000000ff]}
+bd00_c08_mw_betCoin04	咦咦……？好像收集不太到{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣耶。\r\n沒辦法了，我就給大家{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}10金幣吧。{color[000000ff]}
+bd00_c08_mw_start00	那麼，就賭上{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]金幣來對戰吧！{color[000000ff]}
+bd00_c08_mw_start01	來決定要遊玩哪一個小遊戲吧！
+bd00_c09_mw_noCoin00	{color[ffffffff]}這裡是{color[ff3502ff]}慢慢龜銀行{color[ffffffff]}。{color[000000ff]}
+bd00_c09_mw_noCoin01	雖然很希望你能捐款，\r\n但你好像沒有金幣啊……
+bd00_c09_mw_noCoin02	那就下次再來吧。\r\n目前已經累積到[0]金幣。
+bd00_c09_mw_payCoin00	{color[ffffffff]}這裡是{color[000000ff]}{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[ffffffff]}。\r\n不好意思，要冒昧請你捐款{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}[0]金幣喔！{color[000000ff]}
+bd00_c09_mw_payCoin02	{color[ffffffff]}這裡是{color[ff3502ff]}慢慢龜銀行{color[ffffffff]}。\r\n這裡也要請你捐款{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}[0]金幣喔！{color[000000ff]}
+bd00_c09_mw_payCoin03	你又來了！{color[ffffffff]}這裡是{color[ff3502ff]}慢慢龜銀行{color[ffffffff]}。\r\n這次也要請你捐款{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}[0]金幣喔！{color[000000ff]}
+bd00_c09_mw_payCoin01	感謝你的協助！
+bd00_c09_mw_payCoin07	感謝你的協助！板子上的數字\r\n是收集到的金幣總數喔。
+bd00_c09_mw_payCoin13	我要把這些{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣全部送給\r\n剛剛好停在這裡的人！{color[000000ff]}
+bd00_c09_mw_payCoin04	終於來到最後加速了。\r\n{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[ffffffff]}也要最後加速！{color[000000ff]}
+bd00_c09_mw_payCoin05	也就是說，接下來……\r\n{color[ffffffff]}每次都要捐款每次都要捐款{color[ffffffff]}{color[ffffffff]}5金幣！{color[000000ff]}
+bd00_c09_mw_payCoin09	因為遊戲還會繼續進行，\r\n所以我把要捐款的{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣數變回原樣了。{color[000000ff]}
+bd00_c09_mw_payCoin10	所以……暫時\r\n{color[ffffffff]}會請每人捐款{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}3金幣！{color[000000ff]}
+bd00_c09_mw_payCoin11	又到最後加速了。\r\n{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[ffffffff]}也會進入最後加速喔！{color[000000ff]}
+bd00_c09_mw_payCoin12	所以……又要請每人\r\n各自捐款{color[ffffffff]}{color[000000ff]}{color[ffffffff]}5金幣了！{color[000000ff]}
+bd00_c09_mw_payCoin06	咦？{color[ffffffff]}你的{color[ffffffff]}{color[ffffffff]}金幣不夠呢。\r\n那就有多少給多少吧！{color[000000ff]}
+bd00_c09_mw_getCoin00	太好了！我要把累積下來的金幣\r\n全部送給剛好停在這格的你！
+bd00_c09_mw_getCoin01	咦……？沒有累積到金幣耶。\r\n真可惜，下次再來吧。
+bd00_c09_mw_getCoin03	太好了！累積金幣大放送！！\r\n呃……雖然只有累積到[0]金幣啦。
+bd00_c09_mw_getCoin04	太幸運了！累積已久的金幣大放送！\r\n給你[0]金幣，恭喜你！
+bd00_c09_mw_getCoin05	所有{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[ffffffff]}的{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣\r\n將集合起來一次贈送，所以要好好使用喔！{color[000000ff]}
+bd00_hideBlock_mw_get00a	天、天啊……！！{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}找到了\r\n{color[ff3502ff]}隱藏磚塊{color[110c1dff]}！{color[000000ff]}
+bd00_hideBlock_mw_get00b	難、難道……！！{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}找到了\r\n{color[ff3502ff]}隱藏磚塊{color[110c1dff]}！{color[000000ff]}
+bd00_hideBlock_mw_get00c	哇哇！是{color[ff3502ff]}隱藏磚塊{color[000000ff]}{color[110c1dff]}！！\r\n{color[ff3502ff]}[0]{color[110c1dff]}真是超級幸運的！！{color[000000ff]}
+bd00_mgRoulette_coin	 {color[ffdf00ff]}[0]{color[000000ff]}
+bd00_p07_VS	VS
+bd00_p07_mw_LastTurns00	各位辛苦了，所有回合已經結束。\r\n那麼……要公布結果了！
+bd00_tlp_hsmg	小遊戲！
+bd00_tlp_hsmgBonus	獎勵小遊戲！
+bd00_tlp_CoinDouble	金幣2倍
+bd00_tlp_hsmgLastTurns	最終小遊戲！
+bd00_tlp_hsmg4VS	4人小遊戲
+bd00_tlp_hsmg1VS3	1vs3小遊戲
+bd00_tlp_hsmg2VS2	2vs2小遊戲
+bd00_p08_mw_welcome00	那麼，這次到底會是誰獲勝呢？
+bd00_p08_mw_bonusPresent00	先來公布這次的獎勵！
+bd00_p08_mw_bonusPresent05	那麼……先來公布\r\n獲得3個獎勵的人吧！
+bd00_p08_mw_bonusPresent01	第1個獎勵是……
+bd00_p08_mw_bonusPresent02	然後第2個獎勵是……
+bd00_p08_mw_bonusPresent03	最後第3個獎勵是……
+bd00_tlp_bonusStar	[0]
+bd00_p08_mw_giveBonus00	那麼，可以獲得這個獎勵的人是……
+bd00_p08_mw_giveBonusNone00	很可惜！這次沒人獲得獎勵。
+bd00_p08_mw_bonusStar00	這是道具使用次數最多的人\r\n可以獲得的獎勵！
+bd00_p08_mw_bonusStar01	這是收集到最多{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣的人\r\n可以獲得的獎勵！{color[000000ff]}
+bd00_p08_mw_bonusStar02	這是小遊戲勝出次數最多的人\r\n可以獲得的獎勵！
+bd00_p08_mw_bonusStar03	這是移動距離最長的人\r\n可以獲得的獎勵！
+bd00_p08_mw_bonusStar04	這是移動距離最短的人\r\n可以獲得的獎勵！
+bd00_p08_mw_bonusStar05	這是停在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}次數最多的人\r\n可以獲得的獎勵！{color[000000ff]}
+bd00_p08_mw_bonusStar06	這是停在{color[ff3502ff]}懲罰格{color[000000ff]}{color[110c1dff]}次數最多的人\r\n可以獲得的獎勵！{color[000000ff]}
+bd00_p08_mw_bonusStar07	這是購買最多道具的人\r\n可以獲得的獎勵！
+bd00_p08_mw_bonusStar08	這是停在{color[ff3502ff]}庫巴格{color[000000ff]}{color[110c1dff]}次數最多的人\r\n可以獲得的獎勵！{color[000000ff]}
+bd00_p08_mw_giveBonus01	是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p08_mw_giveBonus02	{color[110c1dff]}是{color[ff3502ff]}[0]{color[110c1dff]}和{color[000000ff]}
+bd00_p08_mw_giveBonus03	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p08_mw_giveBonus04	還有……{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p08_mw_giveBonus05	啊！竟然所有人都獲得了獎勵！
+bd00_p08_mw_winner00	好……終於要公布冠軍了！！
+bd00_p08_mw_winner01	這次的冠軍是……
+bd00_p08_mw_winner02	啊！！\r\n好厲害！第1名不只一位耶！
+bd00_p08_mw_winner03	{color[110c1dff]}是{color[ff3502ff]}[0]{color[110c1dff]}和{color[000000ff]}
+bd00_p08_mw_winner04	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_p08_mw_winner05	還有……{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！！{color[000000ff]}
+bd00_p08_mw_winner06	沒想到……竟然所有人都是第1名！
+bd00_p08_mw_winnerDice00	這種時候……只好用骰子來決勝負了！
+bd00_p08_mw_winnerDice01	骰出較大數字的人就是冠軍！
+bd00_p08_mw_winnerDice03	喔！決定出冠軍了！
+bd00_p08_mw_winner07	那麼，重新來公布結果！\r\n這次的冠軍是……
+bd00_p08_mw_winner08	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_tlp_Congratulations	{size[4b00]}YOU ARE THE{size[6400]}\r\nSUPERSTAR!
+bd00_clap_name	[0]
+bd00_pt_clapAll	[0]
+bd00_pt_clapGet	+[0]
+bd00_ctrl_clap	連按拍手
+bd00_mw_clap00	那麼，大家都戰鬥到最後一刻，\r\n我們來為彼此拍手吧！
+bd00_result_bdName	[0]
+bd00_result_turn	[0]回合
+bd00_result_header	[0]
+bd00_result_ctrl_L	[0]
+bd00_result_ctrl_R	[0]
+bd00_result_ctrl_photoLarger	全螢幕顯示
+bd00_result_ctrl_finish	/ 結束
+bd00_result_status_rank	[0]
+bd00_result_status_star	[0]
+bd00_result_status_coin	[0]
+bd00_result_status_chaname	[0]
+bd00_result_status_useName	[0]
+bd00_result_graph_turn	[0]
+bd00_result_graph_star	[0]
+bd00_result_listName	[0]
+bd00_result_list00	[0]
+bd00_result_list01	[0]
+bd00_result_graph_bonusCheck	確認獎勵
+bd00_result_graph_bonus	獎勵星星
+bd00_result_graph_bonusBack	關閉
+bd00_result_graph_bonusName	[0]
+bd00_result_graph_bonusDetails00	使用道具的次數最多
+bd00_result_graph_bonusDetails01	收集到的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣數量最多{color[000000ff]}
+bd00_result_graph_bonusDetails02	小遊戲的獲勝次數最多
+bd00_result_graph_bonusDetails03	移動的格子數最多
+bd00_result_graph_bonusDetails04	移動的格子數最少
+bd00_result_graph_bonusDetails05	停在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}的次數最多{color[000000ff]}
+bd00_result_graph_bonusDetails06	停在{color[ff3502ff]}懲罰格{color[000000ff]}{color[110c1dff]}的次數最多{color[000000ff]}
+bd00_result_graph_bonusDetails07	購買道具的數量最多
+bd00_result_graph_bonusDetails08	停在{color[ff3502ff]}庫巴格{color[000000ff]}{color[110c1dff]}的次數最多{color[000000ff]}
+hs_bd01.msbt
+bd01_OP_mw_past00	這個巨大的生日蛋糕，\r\n是以前為了慶祝某位公主的生日而做的。
+bd01_OP_mw_past01	因為蠟燭也很大，\r\n當時要點亮它可是很辛苦的～
+bd01_OP_mw_purpose00	啊……你問這次要慶祝什麼？
+bd01_OP_mw_purpose01	那還用問嗎！\r\n當然是慶祝新一位超級巨星的誕生啊！
+bd01_OP_mw_purpose02	所以呢……大家！\r\n你們要成為超級巨星，好讓我能幫忙慶祝喔。
+bd01_OP_mw_purpose03	喔～大家都很有幹勁呢！
+bd01_p01_mw_explaination00	這裡是美味的雙層蛋糕地圖。\r\n那些兩兩並排的綠色格子……好像有什麼東西呢。
+bd01_p01_mw_explaination01	這邊是{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}所在的布丁路線。\r\n有很多紅色格子，感覺很危險。{color[000000ff]}
+bd01_p01_mw_explaination02	仔細一看，{color[ff3502ff]}栗寶寶{color[000000ff]}{color[ffffffff]}好像在\r\n蛋糕和布丁之間……{color[000000ff]}
+bd01_p01_mw_explaination03	那個{color[ff3502ff]}栗寶寶{color[000000ff]}{color[110c1dff]}應該是選擇路線的關鍵。\r\n快點去看看吧。{color[000000ff]}
+bd01_s04_mw_kuppaCake01	聽說你很喜歡蛋糕啊？\r\n那就把這個給你吧！
+bd01_s04_mw_kuppaCake02	這是我特地早起做的{color[ff3502ff]}庫巴蛋糕{color[000000ff]}{color[ffffffff]}！\r\n不用客氣，全部吃光吧！{color[000000ff]}
+bd01_s04_mw_kuppaCake03	蛋糕的價格是……20金幣！
+bd01_s04_mw_kuppaCake06	來，吃吧。
+bd01_s04_mw_kuppaCake04	對了，這個蛋糕是用石頭做的，\r\n所以不能吃喔！哇哈哈哈！
+bd01_s04_mw_kuppaCake05	嗯……？你的金幣根本不夠啊！\r\n算了，把你手上的全部交出來就饒過你。
+bd01_s04_mw_curseDice01	哇哈哈！雖然很突然，\r\n但是我決定把珍藏的寶物賣給你！
+bd01_s04_mw_curseDice02	這是本大爺家代代相傳的\r\n特殊骰子！
+bd01_s04_mw_curseDice03	售價竟然只要[0]金幣！！\r\n真是太便宜、太划算了！
+bd01_s04_mw_curseDice04	不過……這其實只是一顆普通的{color[ff3502ff]}詛咒骰子{color[000000ff]}{color[ffffffff]}啦！\r\n不要太介意，哇哈哈哈！{color[000000ff]}
+bd01_s04_mw_curseDice05	嗯……？你的金幣根本不夠啊！\r\n算了，把你手上的全部交出來就饒過你。
+bd01_s04_mw_curseDice06	不過這個在商店只要3金幣啦。\r\n不要太介意，哇哈哈哈！
+bd01_s04_mw_getCoin00	嗯……？你現在是最後一名啊？\r\n你這傢伙真是太可憐了！！
+bd01_s04_mw_getCoin01	太可憐了，我給你一點零用錢吧。\r\n別客氣，快點收下吧！
+bd01_s04_mw_angry01	什麼？你沒有金幣？！\r\n那我跟你沒什麼好說的！走、走！
+bd01_p02_mw_lastSpNPC001_00	贏的人一定是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n感覺氣勢如虹呢。{color[000000ff]}
+bd01_p02_mw_lastSpNPC001_01	贏的人絕對是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n今天那傢伙看起來特別不一樣！{color[000000ff]}
+bd01_p02_mw_lastSpNPC017_00	唔，應該是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏吧。\r\n在我看來，這是很明顯的。{color[000000ff]}
+bd01_p02_mw_lastSpNPC017_01	我想{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}一定會贏。\r\n雖然……不知道最後會怎麼樣。{color[000000ff]}
+bd01_gmk01_mw_plant01	要用草莓裝飾這裡嗎？\r\n可以選擇大草莓或是小草莓喔。
+bd01_gmk01_mw_plant01_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}5→小{color[000000ff]}
+bd01_gmk01_mw_plant01_a1	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}30→大{color[000000ff]}
+bd01_gmk01_mw_plant01_a2	不裝飾
+bd01_gmk01_mw_plant02	怎麼樣？\r\n這顆草莓很活潑，對吧？
+bd01_gmk01_mw_plant03	如果有玩家停在這裡，\r\n這顆草莓就可以奪取該玩家的金幣。
+bd01_gmk01_mw_plant04	如果有玩家停在這裡，\r\n這顆草莓就可以奪取該玩家的星星。
+bd01_gmk01_mw_plant05	這樣啊……\r\n算了，要不要裝飾是你的自由。
+bd01_gmk01_mw_plant06	咦……？你的金幣不夠啊。\r\n這樣就無法裝飾囉。
+bd01_gmk01_mw_plant07	怎麼樣？\r\n這顆草莓很活潑，對吧？
+bd01_gmk01_mw_getCoin01	{color[ff3502ff]}吞食花{color[000000ff]}{color[ffffffff]}很開心地\r\n把{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣交給你。{color[000000ff]}
+bd01_gmk01_mw_replant00	可以用30金幣把這顆小草莓\r\n換成大草莓……要兌換嗎？
+bd01_gmk01_mw_replant00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}30→兌換{color[000000ff]}
+bd01_gmk01_mw_replant00_a1	不兌換
+bd01_gmk01_mw_replant01	已兌換成大草莓！
+bd01_gmk01_mw_replant02	這樣啊……\r\n算了，要不要兌換是你的自由。
+bd01_gmk01_mw_replant03	從奪取金幣的草莓\r\n變成奪取星星的草莓了。
+bd01_gmk01_mw_robCoin00	喔……？看來這朵{color[ff3502ff]}吞食花{color[000000ff]}{color[ffffffff]}\r\n可以再幫你奪取一次{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣。{color[000000ff]}
+bd01_gmk01_mw_noCoin01	可能是因為你沒有金幣，\r\n所以連看都不看你一眼。
+bd01_gmk01_mw_noStar02	可能是因為你沒有星星，\r\n所以連看都不看你一眼。
+bd01_gmk02_mw_slctSeed01	用{color[ff3502ff]}花朵籤{color[000000ff]}{color[ffffffff]}來決定前進的路線吧！\r\n請支付{color[ffffffff]}{color[ffffffff]}10金幣的參加費！{color[000000ff]}
+bd01_gmk02_mw_slctSeed02	你的金幣不夠……\r\n算了，把身上所有金幣都給我就好了。
+bd01_gmk02_mw_slctSeed03	你沒有金幣啊……\r\n算了，這次就算你免費。
+bd01_gmk02_mw_slctSeed05	唔……？你又來了啊？！\r\n到底是有多愛抽籤啊！！
+bd01_gmk02_mw_slctSeed06	再用{color[ff3502ff]}花朵籤{color[000000ff]}{color[ffffffff]}來決定前進的路線吧。\r\n請支付{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}10金幣的參加費！{color[000000ff]}
+bd01_gmk02_mw_slctSeed04	那麼，在這些種子裡選一個吧！\r\n只有一個會中獎喔。
+bd01_gmk02_mw_bloom01	結果會抽到什麼呢……來看看吧！
+bd01_gmk02_mw_bloom02	中獎了——！恭喜你！！\r\n這樣就可以前往{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}大人所在的布丁囉！{color[000000ff]}
+bd01_gmk02_mw_bloom03	沒中……真可惜。\r\n這樣就不能去{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}大人所在的地方囉。{color[000000ff]}
+bd01_gmk02_mw_lastSeed00	喔……這是最後一個了！\r\n也就是說……這次一定會中獎？！
+bd01_gmk02_mw_lastSeed01	中獎了——！超幸運的！太開心了！\r\n出發去{color[ff3502ff]}庫巴{color[000000ff]}{color[ffffffff]}大人那裡吧！{color[000000ff]}
+bd01_map_gmk01_c04_details00	支付金幣\r\n用草莓來裝飾蛋糕吧
+bd01_map_gmk01_c04_details01	{color[ffffffff]}{color[ff3502ff]}[0]{color[ffffffff]}裝飾的草莓\r\n會奪取停在這格的人的金幣{color[000000ff]}
+bd01_map_gmk01_c04_details02	{color[ffffffff]}{color[ff3502ff]}[0]{color[ffffffff]}裝飾的草莓\r\n會奪取停在這格的人的星星{color[000000ff]}
+bd01_map_gmk02_spot_details	在岔路選擇種子的話，盛開的花朵\r\n將依據種類為你決定前進的路線！
+bd01_map_gmk03_c04_details	利用溜滑梯來走捷徑！
+hs_bd02.msbt
+bd02_OP_mw_past00	很久以前，超級巨星在這個宇宙站\r\n打倒了惡之皇帝，恢復了銀河的和平。
+bd02_OP_mw_past01	那是一場十分激烈的戰鬥……
+bd02_OP_mw_purpose00	但是……！現在這個和平的宇宙\r\n又再次燃起了戰爭的火苗。
+bd02_OP_mw_purpose01	所以，宇宙的居民都非常渴望\r\n超級巨星的出現！！
+bd02_OP_mw_purpose02	事情就是這樣。我希望你們能成為超級巨星，\r\n讓宇宙的居民能安心生活……
+bd02_OP_mw_purpose03	喔！看來大家都幹勁十足，\r\n想要成為超級巨星呢！
+bd02_p01_mw_explaination00	飄浮在宇宙地圖中央有一個大大的數字。\r\n這好像是什麼東西的開關呢。
+bd02_p01_mw_explaination01	然後，{color[ffffffff]}還有一台{color[ff3502ff]}庫巴{color[ffffffff]}樣貌的機器。\r\n感覺會從嘴裡發射出一些東西，好可怕啊……{color[000000ff]}
+bd02_p01_mw_explaination02	兩個派出所裡好像都有巡警。\r\n為什麼他們會在這裡看守呢？
+bd02_p01_mw_explaination03	這裡感覺會發生很多事件……\r\n請務必小心，千萬不要鬆懈喔。
+bd02_p02_mw_lastSpNPC067_00	從小遊戲的結果來看，\r\n我想會是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}獲勝！{color[000000ff]}
+bd02_p02_mw_lastSpNPC067_01	我想{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會是冠軍！\r\n因為小遊戲玩得最好。{color[000000ff]}
+bd02_p02_mw_lastSpNPC027_01	他好像在說\r\n獲勝的會是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd02_p02_mw_lastSpNPC027_02	他好像在說\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}絕對是冠軍！會贏！{color[000000ff]}
+bd02_gmk01_mw_cannon00	充飽能量，300％！\r\n{color[ff3502ff]}強力庫巴炮{color[000000ff]}{color[ffffffff]}發射——！！{color[000000ff]}
+bd02_gmk01_mw_cannon01	嗯……？這不是一個人也沒有嗎！！\r\n太無聊了！重新倒數！
+bd02_gmk01_mw_cannon02	哇哈哈！！被{color[ff3502ff]}庫巴炮{color[000000ff]}{color[ffffffff]}擊中的話，\r\n手上所有{color[ffffffff]}{color[ffffffff]}金幣都會消失——！{color[000000ff]}
+bd02_gmk02_mw_police00	我是{color[ff3502ff]}木喬巡警{color[000000ff]}{color[ffffffff]}！給我{color[ffffffff]}{color[ffffffff]}5金幣，\r\n我就會追查超速的人到天涯海角！{color[000000ff]}
+bd02_gmk02_mw_police00_a0	拜託了
+bd02_gmk02_mw_police00_a1	不用了
+bd02_gmk02_mw_police01	咦？你沒有5金幣？\r\n啊……！我想起還有事情沒做，再見！
+bd02_gmk02_mw_police02	這個宇宙派出所目前沒有人。
+bd02_gmk02_mw_police03	收到！開始取締！\r\n我會追查到宇宙的天涯海角！
+bd02_gmk02_mw_police04	放心吧，我會追查超速的人，\r\n不會讓他逃掉！
+bd02_gmk02_mw_police05	這樣啊……\r\n那我就回去工作囉。再見！
+bd02_map_gmk01_spot_details	每次經過，數字都會減少。\r\n變成0時，可能會有什麼事情發生？
+bd02_map_gmk02_spot_details00	可以請他取締\r\n狂奔的太空船。
+bd02_map_gmk02_spot_details01	正在取締犯人，\r\n目前沒有人在。
+bd02_map_gmk02_c04_details	太空船會狂奔而來。\r\n要努力逃跑，不要被輾到了。
+hs_bd03.msbt
+bd03_OP_mw_past00	這片森林，不管是誰走進去，\r\n都會一直繞來繞去，最後迷失……
+bd03_OP_mw_past01	據說在很久以前，這裡曾舉辦過\r\n千年一次的超級巨星選拔對戰。
+bd03_OP_mw_purpose00	不過，很可惜的是，\r\n那時並沒有決定出誰是超級巨星。
+bd03_OP_mw_purpose01	……所以！
+bd03_OP_mw_purpose02	今天就要在這裡決定出\r\n千年才出現一次的超級巨星！怎麼樣呢？
+bd03_OP_mw_purpose03	喔～很有幹勁呢！！
+bd03_p01_mw_explaination00	森林裡到處都有箭頭。\r\n看來箭頭的方向會不斷改變呢。
+bd03_p01_mw_explaination01	有一棵看起來很親切的大樹。\r\n靠近它可能會有好事發生喔。
+bd03_p01_mw_explaination02	森林的盡頭很可疑。啊，這裡也有大樹……\r\n我感受到一股邪惡的氣息。
+bd03_p01_mw_explaination03	這森林像是迷宮一樣啊。\r\n請小心不要迷路喔。
+bd03_p02_mw_lastSpNPC009_00	嗯，我覺得{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏。\r\n因為他很擅長使用道具啊。{color[000000ff]}
+bd03_p02_mw_lastSpNPC009_01	我想冠軍一定是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。\r\n他運用道具的方式是最厲害的。{color[000000ff]}
+bd03_p02_mw_lastSpGoodTree_00	我想心地善良的人會勝出，\r\n所以{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏的！{color[000000ff]}
+bd03_p02_mw_lastSpGoodTree_01	這種比賽往往都是狡猾的人比較強，\r\n所以{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}絕對會贏！{color[000000ff]}
+bd03_gmk01_mw_allArrow00	什麼……！所有的箭頭\r\n方向都改變了！
+bd03_gmk01_mw_oneArrow00	只有這裡的箭頭\r\n方向改變了！
+bd03_gmk01_mw_choropoo00	嗯？看你的樣子，難道是想要\r\n更改所有箭頭的方向嗎？
+bd03_gmk01_mw_choropoo00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]→要更改{color[000000ff]}
+bd03_gmk01_mw_choropoo00_a1	不用更改
+bd03_gmk01_mw_choropoo00_a2	查看地圖
+bd03_gmk01_mw_noCoin00	嗯？看你的樣子，難道是想我\r\n更改所有箭頭的方向嗎？
+bd03_gmk01_mw_noCoin01	咦……你的金幣不夠啊。\r\n很可惜，我沒辦法幫你。
+bd03_gmk01_mw_noAsk00	不、不用改啊……\r\n可是你明明一臉想要我改的樣子。
+bd03_gmk01_mw_ask00	交給我吧！我絕對會幫你更改箭頭的方向。\r\n不管……我會落得什麼樣的下場！
+bd03_gmk01_mw_ask01	好神奇！\r\n所有箭頭的方向都改變了。
+bd03_gmk02_mw_good00	{color[ffffffff]}嘿，{color[ff3502ff]}[0]{color[ffffffff]}，難得你來了，\r\n我就把果實送給你吧！{color[000000ff]}
+bd03_gmk02_mw_good01	{color[ffffffff]}嘿，{color[ff3502ff]}[0]{color[ffffffff]}！\r\n你又來了啊！{color[000000ff]}
+bd03_gmk02_mw_good02	有可以再前進一次的{color[ff3502ff]}骰子果實{color[000000ff]}{color[ffffffff]}\r\n和可以獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣的{color[000000ff]}{color[ff3502ff]}金幣果實{color[000000ff]}{color[ffffffff]}。{color[000000ff]}
+bd03_gmk02_mw_good03	收下一個喜歡的果實吧。\r\n那麼……要開始囉！
+bd03_gmk02_mw_getCoin00	收下了{color[ff3502ff]}金幣果實{color[000000ff]}{color[ffffffff]}。{color[000000ff]}
+bd03_gmk02_mw_dice00	因為收下了{color[ff3502ff]}骰子果實{color[000000ff]}{color[ffffffff]}，\r\n所以可以再移動一次。{color[000000ff]}
+bd03_gmk02_mw_goodMiss00	咦！都不要嗎？\r\n不用跟我客氣啦！
+bd03_gmk02_mw_goodMiss01	要再來拿果實喔，說好囉！
+bd03_gmk02_mw_bad00	{color[ffffffff]}喔，{color[ff3502ff]}[0]{color[ffffffff]}，你是特地來見我的嗎？\r\n那麼，我就把果實送給你吧。{color[000000ff]}
+bd03_gmk02_mw_bad01	呵呵呵，瞄準一個喜歡的果實\r\n並收下吧。
+bd03_gmk02_mw_bad02	{color[ffffffff]}嘿，{color[ff3502ff]}[0]{color[ffffffff]}，你又來啦。\r\n收下一個喜歡的果實吧，呵呵呵呵。{color[000000ff]}
+bd03_gmk02_mw_robCoin00	收下了{color[ff3502ff]}減少金幣果實{color[000000ff]}{color[ffffffff]}。{color[000000ff]}
+bd03_gmk02_mw_noCoin00	嘖，你沒有金幣啊……
+bd03_gmk02_mw_reverseDice00	因為收下了{color[ff3502ff]}相反骰子果實{color[000000ff]}{color[ffffffff]}，\r\n所以會往相反方向前進。{color[000000ff]}
+bd03_gmk02_mw_badMiss00	嗯？你這麼客氣，竟然都沒有收下任何果實啊？\r\n既然你這麼善良，我就破例……
+bd03_gmk02_mw_badMiss01	把{color[ff3502ff]}減少金幣果實{color[000000ff]}{color[ffffffff]}\r\n和{color[000000ff]}{color[ff3502ff]}相反骰子果實{color[000000ff]}{color[ffffffff]}都送給你吧！{color[000000ff]}
+bd03_gmk02_start00	開始
+bd03_gmk03_mw_noCoin00	只有內行人才知道的{color[ff3502ff]}森林的道具商店{color[000000ff]}{color[ffffffff]}。\r\n是不是要來買點什麼呢？{color[000000ff]}
+bd03_gmk03_mw_noCoin01	雖然我是這麼認為的，但你的金幣好像不夠呢。\r\n我會在此恭候你再度光臨。
+bd03_gmk03_mw_welcome00	……歡迎光臨。\r\n這裡是內行人才知道的{color[ff3502ff]}森林的道具商店{color[000000ff]}{color[ffffffff]}。{color[000000ff]}
+bd03_gmk03_mw_welcome01	這裡全是特別的道具，只有懂的人才會懂。\r\n所以千萬別錯過喔。
+bd03_gmk03_mw_welcome02	只有內行人才知道的{color[ff3502ff]}森林的道具商店{color[000000ff]}{color[ffffffff]}。\r\n是不是要來買點什麼呢？{color[000000ff]}
+bd03_gmk03_mw_welcome03	可購買的道具增加了。\r\n我覺得你該買點什麼才對。
+bd03_map_gmk01_arrow_details	只能朝著箭頭的方向前進。\r\n有時候{color[ff3502ff]}黃鼴鼠{color[000000ff]}{color[ffffffff]}會更改箭頭的方向。{color[000000ff]}
+bd03_map_gmk01_c04_details	只要停在這一格，{color[ff3502ff]}黃鼴鼠{color[000000ff]}{color[ffffffff]}就會過來\r\n更改這個箭頭的方向。{color[000000ff]}
+bd03_map_gmk01_choropoo_details	只要支付金幣，{color[ff3502ff]}黃鼴鼠{color[000000ff]}{color[ffffffff]}就會\r\n更改所有箭頭的方向。{color[000000ff]}
+bd03_map_gmk02_good_details	好像會給果實。
+bd03_map_gmk02_bad_details	好像在盤算著什麼。
+bd03_map_gmk03_spot_details	內行人才知道的，\r\n有點與眾不同的{color[ff3502ff]}道具商店{color[000000ff]}{color[ffffffff]}。{color[000000ff]}
+hs_bd04.msbt
+bd04_OP_mw_past00	從前從前，有一位路過的超級巨星救了\r\n受困在這附近小島上的{color[ff3502ff]}耀西{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+bd04_OP_mw_past01	突如其來的現身並且拔刀相助，\r\n真是一位了不起的超級巨星呢。
+bd04_OP_mw_purpose00	這座島上的大家都被這樣的行為感動，\r\n所以自此之後就一直……
+bd04_OP_mw_purpose01	期盼著超級巨星再度出現。\r\n每天不停地盼著……
+bd04_OP_mw_purpose02	我們不能再讓大家繼續等待下去了。\r\n所以這次一定要決定出新的超級巨星……
+bd04_OP_mw_purpose03	喔～幹勁十足呢！！\r\n那麼，以成為超級巨星為目標努力吧！
+bd04_p01_mw_explaination00	這邊是{color[ff3502ff]}哈密瓜島{color[000000ff]}{color[ffffffff]}，\r\n一座充滿水果的南方小島。{color[000000ff]}
+bd04_p01_mw_explaination01	這邊是{color[ff3502ff]}西瓜島{color[000000ff]}{color[ffffffff]}。在海邊的{color[ff3502ff]}庫巴{color[ffffffff]}\r\n是不是一直都會在這裡呢？{color[000000ff]}
+bd04_p01_mw_explaination02	有兩條橋連繫著這兩座島。\r\n{color[ffffffff]}只要支付{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣給{color[ff3502ff]}咚咚{color[ffffffff]}就能通行。{color[000000ff]}
+bd04_p01_mw_explaination03	島上到處都有{color[ff3502ff]}耀西{color[000000ff]}{color[110c1dff]}，\r\n但牠們只是看著而已。{color[000000ff]}
+bd04_p02_mw_lastSpNPC007_00	這次要來幫我們預測的是\r\n在海上觀賽的這位！
+bd04_p02_mw_lastSpNPC007_01	老實說，我聽得不是很清楚，\r\n但好像是說{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏。{color[000000ff]}
+bd04_p02_mw_lastSpNPC035_00	來問一下在海上觀賽的這位！
+bd04_p02_mw_lastSpNPC035_01	噗嚕噗嚕……
+bd04_p02_mw_lastSpNPC035_02	好像是在說「按照現況來推測，\r\n應該是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏。」{color[000000ff]}
+bd01_s04_mw_koopaFloat00	哇哈哈哈！在海上很好玩吧！\r\n……對了！你可以用這個看看！
+bd01_s04_mw_koopaFloat01	是本大爺特製的{color[ff3502ff]}庫巴游泳圈{color[000000ff]}{color[ffffffff]}！\r\n用這個在海上很好玩喔！{color[000000ff]}
+bd01_s04_mw_koopaFloat02	……那麼，費用是[0]金幣，麻煩了！
+bd01_s04_mw_koopaFloat03	……什麼！已經壞了？\r\n是不是你故意弄壞的？哇哈哈哈。
+bd01_s04_mw_koopaFloat04	嗯……？你的金幣不夠欸！\r\n算了，全部都給我，我就饒過你。
+bd04_gmk01_mw_bakubaku00	{color[110c1dff]}什麼！！{color[ffffffff]}{color[110c1dff]}星星和{color[ff3502ff]}庫巴{color[110c1dff]}的位置\r\n竟然調換了！{color[000000ff]}
+bd04_gmk02_mw_dossun00	{color[ffffffff]}要支付給{color[ff3502ff]}咚咚{color[ffffffff]}的通行費降為一半了。{color[000000ff]}
+bd04_gmk02_mw_dossun01	只要支付[0]金幣以上的通行費，\r\n好像就能過橋了。
+bd04_gmk02_mw_dossun01p	只要支付[0]金幣以上的通行費，\r\n好像就能過橋了。
+bd04_gmk02_mw_dossun01_a0	過橋
+bd04_gmk02_mw_dossun01_a1	不過橋
+bd04_gmk02_mw_firstDossun00	好像在說「支付的金幣\r\n要比前面通過的人還多。」
+bd04_gmk02_mw_firstDossun01	因為還沒有人通過，所以……
+bd04_gmk02_mw_dossun02	只要支付[0]金幣的通行費，\r\n好像就能過橋了。
+bd04_gmk02_mw_dossun03	沒有拿到金幣的咚咚看起來好像很難過。
+bd04_gmk02_mw_dossun04	{color[ffffffff]}要支付多少{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣給{color[ff3502ff]}咚咚{color[ffffffff]}呢？{color[000000ff]}
+bd04_gmk02_mw_betCoin00	要支付[0]金幣，沒錯吧？
+bd04_gmk02_mw_betCoin00p	要支付[0]金幣，沒錯吧？
+bd04_gmk02_mw_betCoin00_a0	沒錯
+bd04_gmk02_mw_betCoin00_a1	不對
+bd04_gmk02_mw_dossun05	好像願意讓你通過！
+bd04_gmk02_mw_dossun06	沒有支付[0]金幣以上，\r\n好像就不會讓你過橋。
+bd04_gmk02_mw_dossun07	沒有支付999金幣，\r\n好像就不會讓你過橋。
+bd04_map_gmk01_c04_details	{color[ff3502ff]}大嘴魚{color[000000ff]}{color[ffffffff]}惡作劇，\r\n調換了某些位置。{color[000000ff]}
+bd04_map_gmk02_details	雖然支付金幣就會讓你通過，\r\n但一定要比前面的人還多才行。
+hs_bd05.msbt
+bd05_OP_mw_past00	從前從前，在這片氣氛詭異的森林裡，\r\n住著邪惡的魔法師……
+bd05_OP_mw_past01	超級巨星曾經將邪惡的魔法師打敗，\r\n讓這片森林恢復成原來的樣子。
+bd05_OP_mw_purpose00	但是……！最近鬼怪似乎又出現了，\r\n讓這片森林的氣氛再次變得詭異。
+bd05_OP_mw_purpose01	唉，超級巨星會不會再回來，\r\n把森林恢復成原來的樣子呢……
+bd05_OP_mw_purpose02	超級巨星，你究竟在哪裡啊……
+bd05_OP_mw_purpose03	喔！原來大家的目標都是要\r\n成為超級巨星啊！謝謝大家！！
+bd05_p01_mw_explaination00	在這個充滿魔法力量的地方，\r\n晝夜每2回合就會交替一次。
+bd05_p01_mw_explaination01	{color[ff3502ff]}砰砰{color[000000ff]}{color[ffffffff]}阻擋了去路。白天會活動，但……\r\n到了晚上好像會因魔法而睡著，不再活動。{color[000000ff]}
+bd05_p01_mw_explaination02	地上有畫著眼球的石板！看這痕跡，\r\n好像有什麼東西曾經跑出來過。
+bd05_p01_mw_explaination03	這個地方的氣氛很恐怖呢。\r\n連我也不禁害怕起來了。
+bd05_p02_mw_lastSpNPC051_00	根據占卜，今天運氣最好的\r\n是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。嗯，一定會贏的。{color[000000ff]}
+bd05_p02_mw_lastSpNPC051_01	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}是全世界運氣最好的人。\r\n所以一定能輕鬆拿下冠軍的。{color[000000ff]}
+bd05_p02_mw_lastSpNPC032_00	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏！\r\n幽靈王說的話準沒錯！{color[000000ff]}
+bd05_p02_mw_lastSpNPC032_01	我想{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}會贏吧！雖然我不太懂啦！{color[000000ff]}
+bd05_gmk02_mw_dayToNight00	什麼，白天竟然變成了黑夜！
+bd05_gmk02_mw_NightToDay00	什麼，黑夜竟然變成了白天！
+bd05_gmk03_mw_night00	裡面好像很熱鬧，\r\n怎麼叫都沒人回應。
+bd05_gmk03_mw_noCoin00	你好像沒有多少金幣啊？\r\n那我跟你沒什麼好說的了。
+bd05_gmk03_mw_daytime00	這裡是{color[ff3502ff]}卡美克的洋館{color[000000ff]}{color[ffffffff]}。\r\n要用{color[ff3502ff]}黑暗燈{color[ffffffff]}把白天變成黑夜嗎？{color[000000ff]}
+bd05_gmk03_mw_daytime00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}5→拜託了{color[000000ff]}
+bd05_gmk03_mw_daytime00_a1	不用了
+bd05_gmk03_mw_ask00	那麼，變成黑夜吧！
+bd05_gmk03_mw_ask01	好了，已經變成黑夜囉。
+bd05_gmk03_mw_noAsk00	這樣啊……想要變成黑夜時，\r\n隨時都可以來找我。
+bd05_gmk04_mw_daytime00	到了晚上，好像會舉辦派對。
+bd05_gmk04_mw_noCoin00	這次的派對要支付[0]金幣的參加費喔。\r\n……你的金幣不夠啊？快走，快走！
+bd05_gmk04_mw_night00	這次的派對要支付[0]金幣的參加費喔。\r\n要參加嗎？怎麼樣呢？
+bd05_gmk04_mw_night00_a0	參加
+bd05_gmk04_mw_night00_a1	不參加
+bd05_gmk04_mw_join00	好！派對會持續到天亮！盡情玩吧！
+bd05_gmk04_mw_join01	已經天亮啦……\r\n派對結束了，下次再一起玩吧！
+bd05_gmk04_mw_noJoin00	這樣啊，再見啦。
+bd05_gmk05_mw_noCoin00	對於沒有足夠金幣的人\r\n連正眼都不會瞧一下，直接忽視。
+bd05_gmk05_mw_eye00	「只要支付金幣，就會把你傳送到某處！」\r\n眼睛似乎是這麼說的……
+bd05_gmk05_mw_eye01	「還是想要傳送嗎？」\r\n眼睛似乎是這麼說的……
+bd05_gmk05_mw_eye00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}[0]→拜託了{color[000000ff]}
+bd05_gmk05_mw_eye00_a1	不用了
+bd05_gmk05_mw_ask00	「準備好了嗎？走吧！」\r\n眼睛似乎是這麼說的……
+bd05_gmk05_mw_noAsk00	「不、不用了嗎？？」\r\n因為太驚訝而目瞪口呆……
+bd05_gmk06_mw_night00	在夜晚期間……\r\n{color[ff3502ff]}砰砰{color[000000ff]}{color[ffffffff]}會因為魔法而動彈不得。{color[000000ff]}
+bd05_gmk06_mw_noCoin00	沒有5金幣，好像就無法通過這裡。
+bd05_gmk06_mw_wal00	好像在問「是不是要通過這條路？」。
+bd05_gmk06_mw_wal00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}5→拜託了{color[000000ff]}
+bd05_gmk06_mw_wal00_a1	不用了
+bd05_gmk06_mw_noAsk00	好像在說「不過去就快滾！」。
+bd05_gmk06_mw_ask00	好像願意讓你通過！
+bd05_gmk07_mw_daytime00	到了晚上，好像會動起來……
+bd05_gmk07_mw_king00	終於來了……本大爺是{color[ff3502ff]}害羞幽靈王{color[000000ff]}{color[ffffffff]}！{color[000000ff]}
+bd05_gmk07_mw_firstKing00	本大爺能從所有對手身上\r\n各奪取1顆星星！
+bd05_gmk07_mw_firstKing01	當然奪取金幣也是沒問題的。\r\n好的，你要怎樣？
+bd05_gmk07_mw_king01	要一次從所有對手身上\r\n奪走金幣或星星嗎？
+bd05_gmk07_mw_king00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}免費→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}？{color[000000ff]}
+bd05_gmk07_mw_king00_a1	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}150→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}3{color[000000ff]}
+bd05_gmk07_mw_rob00	那麼，我就派手下去奪取吧！
+bd05_gmk07_mw_wait00	{color[ff3502ff]}害羞幽靈王{color[000000ff]}{color[110c1dff]}的手下要來奪取{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣了！\r\n連按來趕走吧！！{color[000000ff]}
+bd05_gmk07_mw_giveCoin00	金幣！金幣！\r\n奪取到[0]金幣了！心懷感激吧！
+bd05_gmk07_mw_giveStar00	星星！星星！\r\n奪取到[0]顆星星了！知道本大爺的厲害了吧！
+bd05_gmk07_mw_giveStar01	哎呀……？\r\n有人身上沒有星星啊？
+bd05_gmk07_mw_giveStar02	我會收下150枚金幣，\r\n但星星只能奪取到1顆，可以嗎？
+bd05_gmk07_mw_giveStar02p	我會收下150枚金幣，\r\n但星星只能奪取到2顆，可以嗎？
+bd05_gmk07_mw_giveStar02_a0	可以
+bd05_gmk07_mw_giveStar02_a1	重新考慮
+bd05_gmk07_mw_notRob00	大家都沒有金幣啊！\r\n我可沒辦法奪走不存在的東西。
+bd05_s06_mw_night00	到了白天，這裡好像會出現鬼怪。
+bd05_s06_mw_daytime00	到了晚上，這裡好像會出現鬼怪。
+bd05_map_gmk02_spot_details	停在這一格，白天和黑夜就會交替。
+bd05_map_gmk03_spot_details	白天到訪，也許會有\r\n不可思議的體驗？
+bd05_map_gmk04_spot_details	晚上到訪，也許可以\r\n參加派對？
+bd05_map_gmk05_spot_details	{color[ff3502ff]}哎哎{color[000000ff]}{color[ffffffff]}好像會把你\r\n移動到另外一邊。{color[000000ff]}
+bd05_map_gmk06_spot_details00	{color[ff3502ff]}砰砰{color[000000ff]}{color[ffffffff]}擋住了去路。\r\n支付{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}金幣就會讓你通過。{color[000000ff]}
+bd05_map_gmk06_spot_details01	{color[ff3502ff]}砰砰{color[000000ff]}{color[ffffffff]}睡著了，\r\n有些道路無法通過。{color[000000ff]}
+bd05_map_gmk07_spot_details	只有晚上，{color[ffffffff]}可以用{color[ffffffff]}{color[ffffffff]}150金幣\r\n從每個人身上個奪走1顆{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}星星。{color[000000ff]}
+hs_board_item.msbt
+bd00_itemSlct_order_use	請選擇要使用的道具。
+bd00_itemSlct_ui_itemName	[0]
+bd00_itemSlct_ui_itemDetails	[0]
+bd00_itemSlct_order_discard	道具已經放不下了，請選擇1個道具捨棄。
+bd00_rivalSlct_order_use	要對誰使用？
+bd00_rivalSlct_order_rob	要從誰身上奪取？
+bd00_rivalSlct_icon_random	隨機
+bd00_item00_useIcon	＋5
+bd00_item01_useIcon	×2
+bd00_item02_useIcon	×3
+bd00_item03_useIcon	1～3
+bd00_item01_mw_2dice00	好厲害！骰出一樣的數字了！！\r\n送你{color[ffffffff]}{color[000000ff]}{color[110c1dff]}10金幣吧！{color[000000ff]}
+bd00_item02_mw_3dice00	太厲害了！因為骰出了一樣的數字，\r\n所以就送你{color[ffffffff]}{color[000000ff]}{color[110c1dff]}20金幣吧！{color[000000ff]}
+bd00_item02_mw_777dice00	竟然骰出777！這簡直就是奇蹟，太厲害了！！\r\n送你{color[ffffffff]}{color[000000ff]}{color[110c1dff]}50金幣吧！！{color[000000ff]}
+bd00_item03_mw_resist00	{color[ffffffff]}因為使用了{color[ff3502ff]}[0]{color[ffffffff]}，{color[000000ff]}\r\n{color[ff3502ff]}詛咒骰子{color[000000ff]}{color[ffffffff]}的效果消失了。{color[000000ff]}
+bd00_item05_ctrl_changeNumber	更改數字
+bd00_item07_mw_key00a	我可以打開這裡的大門……\r\n要打開嗎？
+bd00_item07_mw_key00b	你想通過大門嗎？\r\n我可以把門打開喔……
+bd00_item07_mw_key00c	只有我能打開這道大門……\r\n要打開嗎？
+bd00_item07_mw_key01a	這次要打開大門嗎？\r\n那個……怎麼樣呢？
+bd00_item07_mw_key01b	又來到大門面前了……\r\n你還是想打開嗎……？
+bd00_item07_mw_key01c	又來到大門了。\r\n也就是說……你想打開門，對吧？
+bd00_item07_mw_key00_a0	打開
+bd00_item07_mw_key00_a1	不打開
+bd00_item07_mw_open00a	我知道了，現在就開門。\r\n要跟你分別了……我會很寂寞的。
+bd00_item07_mw_open00b	可以跟你待在一起，我很開心。\r\n雖然很寂寞……但我會開門的。
+bd00_item07_mw_open00c	那麼，我開門了……再見了。\r\n可以當你的道具，真的太好了。
+bd00_item07_mw_notOpen00a	這樣啊，不要開門啊。\r\n那今後也能繼續在一起……太好了。
+bd00_item07_mw_notOpen00b	咦……不開門嗎？\r\n好開心……這樣就能一直在一起了。
+bd00_item07_mw_notOpen00c	真的不開門嗎……？太好了……\r\n唔……我沒哭，真的沒哭。
+bd00_item11_mw_change00	哇哇……！{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星飛到\r\n別的地方去了！{color[000000ff]}
+bd00_item11_mw_change01	星星的地方改變了！\r\n我在這裡等大家喔！
+bd00_item12_mw_teresa00	嘿嘿嘿嘿……我可以從你喜歡的對手身上\r\n奪取星星或是金幣喔。要怎麼做？
+bd00_item12_mw_teresa00_a0	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}免費→{color[ffffffff]}{color[110c1dff]}？{color[000000ff]}
+bd00_item12_mw_teresa00_a1	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}50→{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}1{color[000000ff]}
+bd00_item12_mw_robCoin00	糟了！{color[ff3502ff]}害羞幽靈{color[000000ff]}{color[110c1dff]}來奪取{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣了。\r\n連按來趕走吧！{color[000000ff]}
+bd00_item12_ctrl_robCoin	連按趕走
+bd00_item12_mw_giveCoin00	噗噗噗！我從那傢伙身上\r\n奪取到[0]金幣！好好玩啊！
+bd00_item12_mw_giveCoin01	太好了！從那傢伙身上\r\n奪取到[0]金幣了！嘿嘿嘿嘿！
+bd00_item12_mw_notRob00	咦……？大家身上什麼都沒有耶。\r\n這樣我可無法奪取，下次再來吧。
+bd00_item12_mw_notRob01	咦……？大家身上什麼都沒有耶。\r\n這樣我可無法奪取，下次再呼叫我吧。
+bd00_item13_mw_changeStar01	太好了！好厲害！\r\n{color[ffffffff]}使用{color[000000ff]}{color[ff3502ff]}2倍卡{color[000000ff]}{color[ffffffff]}獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[ffffffff]}2顆星星！{color[000000ff]}
+bd00_item13_mw_changeStar02	而且……{color[ffffffff]}竟然還用了{color[000000ff]}{color[ff3502ff]}2倍卡{color[000000ff]}{color[ffffffff]}！\r\n真是太厲害了！{color[000000ff]}
+bd00_item13_mw_changeStar03	在1回合裡連續獲得星星！而且……\r\n{color[ffffffff]}還使用{color[ff3502ff]}2倍卡{color[ffffffff]}獲得{color[ffffffff]}{color[ffffffff]}2顆星星！真是太厲害了！{color[000000ff]}
+hs_board_praise.msbt
+bd00_praise_mw_rank00a	再次恭喜{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}\r\n獲得第1名！{color[000000ff]}
+bd00_praise_mw_rank00b	也就是說，這次的第1名是\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！恭喜你！{color[000000ff]}
+bd00_praise_mw_rank00c	這次的超級巨星是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n恭喜你！{color[000000ff]}
+bd00_praise_mw_rank01a	然後是第2名的{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n距離成為超級巨星只差一步了。{color[000000ff]}
+bd00_praise_mw_rank01b	接下來是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n勝利就在前方，但很遺憾只獲得了第2名！{color[000000ff]}
+bd00_praise_mw_rank01c	接著是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n堅持到最後一刻，獲得了第2名！{color[000000ff]}
+bd00_praise_mw_rank02a	接下來是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n很努力地保住了第3名……{color[000000ff]}
+bd00_praise_mw_rank02b	下一位是第3名，\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_praise_mw_rank02c	再來是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。\r\n堅持到最後，獲得了第3名。{color[000000ff]}
+bd00_praise_mw_rank03a	最後是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。\r\n結果獲得了第4名呢……{color[000000ff]}
+bd00_praise_mw_rank03b	第4名是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。\r\n堅持不放棄，奮戰到最後一刻呢。{color[000000ff]}
+bd00_praise_mw_rank03c	最後第4名是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}。\r\n雖然一切困難重重……{color[000000ff]}
+bd00_praise_mw_rank08	接下來是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n喔喔！同樣是第2名！{color[000000ff]}
+bd00_praise_mw_rank09	最後是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n天啊！竟然跟另外兩位並列第2名！{color[000000ff]}
+bd00_praise_mw_rank10	最後是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！\r\n天啊！竟然同樣是第3名！{color[000000ff]}
+bd00_praise_mw_rank04a	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}是第1名！太厲害了！\r\n恭喜你！{color[000000ff]}
+bd00_praise_mw_rank04b	太好了！恭喜！\r\n這次的超級巨星是{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}！{color[000000ff]}
+bd00_praise_mw_rank05a	雖然{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}很遺憾地只獲得了第2名，\r\n但第2名也很厲害喔！恭喜你！{color[000000ff]}
+bd00_praise_mw_rank05b	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}，恭喜你獲得了第2名！\r\n距離成為超級巨星只差一步了。{color[000000ff]}
+bd00_praise_mw_rank06a	和世界各地的對手對戰得怎麼樣呢？\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}這次是第3名喔。{color[000000ff]}
+bd00_praise_mw_rank06b	{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}，辛苦了！\r\n這次獲得了第3名……{color[000000ff]}
+bd00_praise_mw_rank07a	這次的戰鬥格外艱辛呢。\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}獲得了第4名……{color[000000ff]}
+bd00_praise_mw_rank07b	你堅持不放棄，奮戰到最後一刻呢！\r\n{color[ff3502ff]}[0]{color[000000ff]}{color[110c1dff]}這次是第4名……{color[000000ff]}
+bd00_praise_mw_1st00	獲得大量的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣，\r\n穩穩地拿下冠軍寶座！{color[000000ff]}
+bd00_praise_mw_1st01	多次在小遊戲中獲勝，\r\n也許就是獲得冠軍的關鍵喔。
+bd00_praise_mw_1st02	多次找到{color[ff3502ff]}隱藏磚塊{color[000000ff]}{color[110c1dff]}的這份幸運，\r\n也許也帶領你走向了勝利。{color[000000ff]}
+bd00_praise_mw_1st03	看來你購買了很多道具，\r\n也都運用得很出色呢！
+bd00_praise_mw_1st04	使用道具的次數比任何人都多，\r\n也許就是勝利的關鍵呢。
+bd00_praise_mw_1st05	總之，移動了這麼長的距離\r\n是非常有幫助的。
+bd00_praise_mw_1st06	你停在{color[ff3502ff]}獎勵格{color[000000ff]}{color[110c1dff]}的次數似乎是最多的！\r\n穩定地獲得{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣會是獲勝的關鍵嗎？{color[000000ff]}
+bd00_praise_mw_1st07	你停在{color[ff3502ff]}懲罰格{color[000000ff]}{color[110c1dff]}的次數似乎是最多的！\r\n這樣竟然也能獲得冠軍，真是太神奇了！{color[000000ff]}
+bd00_praise_mw_1st08	在道具小遊戲中\r\n獲得了很棒的道具，真是太好了！
+bd00_praise_mw_1st09	好好享受遊戲中裝飾的樂趣，\r\n似乎為你帶來不錯的結果呢！
+bd00_praise_mw_1st10	被太空船追個不停，卻還能獲得第1名，\r\n真是太讓人驚訝了！
+bd00_praise_mw_1st11	也許是在迷失森林中多次啟動了{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}\r\n才會意外地讓你獲得了第1名。{color[000000ff]}
+bd00_praise_mw_1st12	不斷調換{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星的位置，\r\n讓對手感到混亂的作戰方式贏得了勝利呢！{color[000000ff]}
+bd00_praise_mw_1st13	不斷讓日夜交替……這種厲害的作戰方法\r\n壓倒性地拉開了與對手的差距。
+bd00_praise_mw_1st14	看來你常常停在{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}，\r\n把握住很多機會呢！{color[000000ff]}
+bd00_praise_mw_1st15	常常停在{color[ff3502ff]}幸運格{color[000000ff]}{color[110c1dff]}，獲得了很多幸運。\r\n這就是獲勝的關鍵吧！{color[000000ff]}
+bd00_praise_mw_1st16	你停在{color[ff3502ff]}庫巴格{color[000000ff]}{color[110c1dff]}的次數似乎是最多的！\r\n但卻沒有被{color[ff3502ff]}庫巴{color[110c1dff]}妨礙，順利獲得了勝利呢！{color[000000ff]}
+bd00_praise_mw_1st17	你常常停在{color[ff3502ff]}VS格{color[000000ff]}{color[110c1dff]}呢。\r\n也就是說，你和對手一較高下後，獲得了冠軍！{color[000000ff]}
+bd00_praise_mw_1st18	你停在{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[110c1dff]}的次數似乎是最多的。{color[000000ff]}\r\n{color[ff3502ff]}慢慢龜{color[000000ff]}{color[110c1dff]}應該也正在為你的獲勝感到高興喔！{color[000000ff]}
+bd00_praise_mw_1st19	你在各方面都表現得很好呢！\r\n這種無懈可擊的作戰方式，簡直可稱為大師。
+bd00_praise_mw_under00	你獲得的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣數是最多的！\r\n最有錢的人就是你了，好厲害！{color[000000ff]}
+bd00_praise_mw_under01	你是在小遊戲中獲勝最多次的人！\r\n論及小遊戲的實力，你是絕對不會輸的。
+bd00_praise_mw_under02	你找到的{color[ff3502ff]}隱藏磚塊{color[000000ff]}{color[110c1dff]}是最多的！\r\n在幸運程度上，你是第1名喔！{color[000000ff]}
+bd00_praise_mw_under03	看來你購買道具的數量是第1名呢！\r\n請讓我稱呼你為「厲害買家」！
+bd00_praise_mw_under04	你比其他人都更加聰明地\r\n運用了很多道具呢。
+bd00_praise_mw_under05	骰子點數合計最多的是你。\r\n看來你走了很多路，也揮灑了很多汗水呢！
+bd00_praise_mw_under06	你停在{color[ff3502ff]}獎勵格{color[000000ff]}{color[110c1dff]}的次數似乎是最多的！\r\n穩穩地獲得了很多{color[000000ff]}{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣呢。{color[000000ff]}
+bd00_praise_mw_under07	你多次停在{color[ff3502ff]}懲罰格{color[000000ff]}{color[110c1dff]}，卻還是苦撐過來，\r\n真是戰得太精彩了！{color[000000ff]}
+bd00_praise_mw_under08	你玩了很多次道具小遊戲呢。\r\n看來你好像很喜歡喔！
+bd00_praise_mw_under09	你停在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}的次數是最多的。\r\n看來你在蛋糕上四處狂歡呢！{color[000000ff]}
+bd00_praise_mw_under10	你停在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}的次數是最多的。\r\n看來你被太空船追個不停呢！{color[000000ff]}
+bd00_praise_mw_under11	你多次停在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}上，\r\n看來你很享受迷失森林呢！{color[000000ff]}
+bd00_praise_mw_under12	你不斷調換{color[ffffffff]}{color[000000ff]}{color[110c1dff]}星星的位置，\r\n讓對手們感到相當困惑呢！{color[000000ff]}
+bd00_praise_mw_under13	你在{color[ff3502ff]}事件格{color[000000ff]}{color[110c1dff]}多次變換了晝夜，\r\n勝負早就掌握在你手中了。{color[000000ff]}
+bd00_praise_mw_under14	看來你比其他人擁有更多的機會，\r\n因為以停在{color[ff3502ff]}機會格{color[000000ff]}{color[110c1dff]}的次數來說，你是第1名！{color[000000ff]}
+bd00_praise_mw_under15	看來你比其他人擁有更多的幸運。\r\n因為以停在{color[ff3502ff]}幸運格{color[000000ff]}{color[110c1dff]}的次數來說，你是第1名！{color[000000ff]}
+bd00_praise_mw_under16	看來你多次停在{color[ff3502ff]}庫巴格{color[000000ff]}{color[110c1dff]}上呢。\r\n以面對{color[000000ff]}{color[ff3502ff]}庫巴{color[000000ff]}{color[110c1dff]}的勇氣來說，你是第1名。{color[000000ff]}
+bd00_praise_mw_under17	你多次停在{color[ff3502ff]}VS格{color[000000ff]}{color[110c1dff]}上呢！\r\n以與對手戰鬥的鬥志來說，你是第1名！{color[000000ff]}
+bd00_praise_mw_under18	你停在{color[ff3502ff]}慢慢龜銀行{color[000000ff]}{color[110c1dff]}的次數是最多的！\r\n拉攏銀行是一種降低風險的作戰方式呢！{color[000000ff]}
+bd00_praise_mw_under19a	這種作戰方式充滿幹勁，真是太棒了！\r\n以內心的強度來說，我認為你是第1名！
+bd00_praise_mw_under19b	你運用了精湛的策略，讓比賽非常精彩。\r\n論及穩定度的話，你肯定是第一名！
+bd00_praise_mw_under19c	不管什麼時候，\r\n你總是用燦爛的笑容炒熱氣氛！
+bd00_praise_mw_end00a	這是一場精采絕倫的比賽！\r\n那麼，請看最終結果吧！
+bd00_praise_mw_end00b	這場激烈的比賽，大家都卯足了全力！\r\n那麼，請看最終結果吧！
+bd00_praise_mw_end00c	這場精彩的比賽，誰都有可能獲勝！\r\n那麼，請看最終結果吧！
+hs_emote.msbt
+emo_ctrl_sendSt	按下
+emo_ctrl_listOpen	貼圖
+emo_ctrl_listClose	關閉
+emo_ctrl_mute	/ 接收貼圖
+emo_ctrl_muteOff	是
+emo_ctrl_muteOn	否
+hs_emote_stamp.msbt
+emo_stPC000	[0]
+emo_stPC001	[0]
+emo_stPC002	[0]
+emo_st00000	[0]
+emo_st00001	[0]
+emo_st00002	[0]
+emo_st00003	[0]
+emo_st00004	[0]
+emo_st00005	[0]
+emo_st00006	[0]
+emo_st00007	[0]
+emo_st00008	[0]
+emo_st00009	[0]
+emo_st00010	[0]
+emo_st00011	[0]
+emo_st00013	[0]
+emo_st00014	[0]
+emo_st00015	[0]
+emo_st00016	[0]
+emo_st00017	[0]
+emo_st00018	[0]
+emo_st00019	[0]
+emo_st00020	[0]
+emo_st00021	[0]
+emo_st00022	[0]
+emo_st00023	[0]
+emo_st00024	[0]
+emo_st00025	[0]
+emo_st00026	[0]
+emo_st00027	[0]
+emo_st00028	[0]
+emo_st00029	[0]
+emo_st00030	[0]
+emo_st00031	[0]
+emo_st00032	[0]
+emo_st00033	[0]
+emo_st00034	[0]
+emo_st00035	[0]
+emo_st00036	[0]
+emo_st00037	[0]
+im_board.msbt
+im_bd02_gmk01_title	發射庫巴炮
+im_bd02_gmk02_title	狂奔太空船
+im_bd04_gmk01_title	大嘴魚的惡作劇
+im_bd05_gmk05_title	哎哎的傳送
+im_c00_name	起點
+im_c01_name	獎勵格
+im_c02_name	懲罰格
+im_c03_name	道具格
+im_c04_name	事件格
+im_c05_name	機會格
+im_c06_name	幸運格
+im_c07_name	庫巴格
+im_c08_name	VS格
+im_c09_name	慢慢龜銀行
+im_s00_name	星星兌換所
+im_s01_name	道具商店
+im_s02_name	岔路
+im_s03_name	慢慢龜
+im_s04_name	庫巴
+im_s05_name	開不開大門
+im_s06_name	害羞幽靈
+im_bd01_gmk02_sName	花朵籤
+im_bd02_gmk01_sName	庫巴開關
+im_bd02_gmk02_sName	宇宙派出所
+im_bd03_gmk01_arrow_name	箭頭告示板
+im_bd03_gmk01_choropoo_name	有黃鼴鼠的洞穴
+im_bd03_gmk03_name	森林的道具商店
+im_bd05_gmk03_name	卡美克的洋館
+im_bd05_gmk04_name	派對會場
+im_bd05_gmk05_name	哎哎的石板
+im_bd05_gmk06_name	砰砰的此路不通
+im_bd05_gmk07_name	害羞幽靈王的石像
+im_bd04_gmk02_name	咚咚
+im_item00_name	蘑菇
+im_item01_name	雙骰子
+im_item02_name	三骰子
+im_item03_name	詛咒骰子
+im_item04_name	傳送磚塊
+im_item05_name	恰恰好骰子
+im_item06_name	金水管
+im_item07_name	開不開鑰匙
+im_item08_name	掠奪箱
+im_item09_name	隱藏磚塊卡
+im_item10_name	決鬥手套
+im_item11_name	汪汪哨子
+im_item12_name	害羞幽靈鈴鐺
+im_item13_name	2倍卡
+im_item14_name	道具袋
+im_item15_name	超級傳送磚塊
+im_item00_details	可以前進的步數為骰出的數字＋5。
+im_item01_details	可以前進的步數為2個骰子的點數合計。
+im_item02_details	可以前進的步數為3個骰子的點數合計。
+im_item03_details	只會骰出1～3。
+im_item04_details	隨機與1位對手交換位置。
+im_item05_details	可以在1～10裡選擇喜歡的數字來前進。
+im_item06_details	可以傳送到星星的位置。
+im_item07_details	可以打開地圖上的開不開大門。\r\n通過開不開大門前才能使用。
+im_item08_details	挑選1個對手，掠奪對方的道具。
+im_item09_details	可以讓隱藏磚塊現形。
+im_item10_details	選擇1個對手，進行決鬥。
+im_item11_details	呼叫汪汪，改變星星的位置。
+im_item12_details	害羞幽靈會幫你奪取星星或金幣。\r\n金幣：免費 　星星：需要50金幣
+im_item13_details	可以兌換2倍的星星。\r\n到達星星兌換所才能使用。
+im_item14_details	可以獲得各種道具。
+im_item15_details	可以選擇1位對手，跟自己交換位置。
+im_bonusStar00_name	道具獎勵
+im_bonusStar01_name	金幣獎勵
+im_bonusStar02_name	小遊戲獎勵
+im_bonusStar03_name	跑最快獎勵
+im_bonusStar04_name	跑最慢獎勵
+im_bonusStar05_name	事件獎勵
+im_bonusStar06_name	紅色獎勵
+im_bonusStar07_name	購物獎勵
+im_bonusStar08_name	庫巴格獎勵
+im_c06_roulette00	獲得7金幣
+im_c06_roulette01	獲得10金幣
+im_c06_roulette02	獲得15金幣
+im_c06_roulette03	獲得20金幣
+im_c06_roulette04	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}蘑菇{color[000000ff]}
+im_c06_roulette05	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}詛咒骰子{color[000000ff]}
+im_c06_roulette06	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}雙骰子{color[000000ff]}
+im_c06_roulette07	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}三骰子{color[000000ff]}
+im_c06_roulette08	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}恰恰好骰子{color[000000ff]}
+im_c06_roulette09	下次兌換星星半價（個人優惠）
+im_c06_roulette10	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}開不開鑰匙{color[000000ff]}
+im_c06_roulette11	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}道具袋{color[000000ff]}
+im_c06_roulette12	獲得12金幣
+im_c06_roulette13	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}汪汪哨子{color[000000ff]}
+im_c06_roulette14	獲得5金幣
+im_c06_roulette15	獲得17金幣
+im_c06_roulette16	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}傳送磚塊{color[000000ff]}
+im_c06_roulette17	{color[ffffffff]}獲得{color[000000ff]}{color[ffdf00ff]}決鬥手套{color[000000ff]}
+im_c06_roulette18	{color[ffdf00ff]}咚咚{color[000000ff]}{color[ffffffff]}的通行費變成半價{color[000000ff]}
+im_c07_roulette00	把10金幣交給庫巴
+im_c07_roulette01	把15金幣交給庫巴
+im_c07_roulette02	把20金幣交給庫巴
+im_c07_roulette03	把30金幣交給庫巴
+im_c07_roulette04	把一半金幣交給庫巴
+im_c07_roulette05	大家都要把10金幣交給庫巴
+im_c07_roulette06	庫巴革命
+im_c07_roulette07	庫巴隨機
+im_c07_roulette08	獲贈100顆星星
+im_c07_roulette09	獲贈1000金幣
+im_c07_roulette10	被奪走1顆星星
+im_c07_roulette11	庫巴小遊戲
+im_result_header00	最終結果
+im_result_header01	星星數
+im_result_header02	詳細
+im_bdResult_listName00	累積星星數
+im_bdResult_listName01	累積金幣數
+im_bdResult_listName02	小遊戲金幣數
+im_bdResult_listName03	發現隱藏磚塊
+im_bdResult_listName04	道具購買數
+im_bdResult_listName05	道具使用數
+im_bdResult_listName06	格子移動數
+im_bdResult_listName07	獎勵格停止數
+im_bdResult_listName08	懲罰格停止數
+im_bdResult_listName09	道具格停止數
+im_bdResult_listName10	事件格停止數
+im_bdResult_listName11	機會格停止數
+im_bdResult_listName12	幸運格停止數
+im_bdResult_listName13	庫巴格停止數
+im_bdResult_listName14	VS格停止數
+im_bdResult_listName15	慢慢龜銀行停止數
+im_bdResult_listName16	貼圖次數
+im_lastSpBonus00	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}10金幣{color[000000ff]}
+im_lastSpBonus01	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}20金幣{color[000000ff]}
+im_lastSpBonus02	{color[ffffffff]}{color[000000ff]}{color[110c1dff]}30金幣{color[000000ff]}
+im_common.msbt
+im_rank01	1st
+im_rank02	2nd
+im_rank03	3rd
+im_rank04	4th
+im_guest01_name	訪客1
+im_guest02_name	訪客2
+im_guest03_name	訪客3
+im_pc01_name	瑪利歐
+im_pc02_name	路易吉
+im_pc03_name	碧姬公主
+im_pc04_name	黛西公主
+im_pc05_name	瓦利歐
+im_pc06_name	瓦路易吉
+im_pc07_name	耀西
+im_pc11_name	羅潔塔
+im_pc12_name	森喜剛
+im_pc13_name	凱瑟琳
+im_npc022_name	奇諾比奧
+im_npc088_name	奇諾比珂
+im_npc000_name	庫巴
+im_npc001_name	栗寶寶
+im_npc002_name	嘿呵
+im_npc002a_name	螺旋槳嘿呵
+im_npc003_name	慢慢龜
+im_npc004_name	炸彈兵
+im_npc005_name	吞食花
+im_npc006_name	炮彈刺客
+im_npc007_name	泡泡魚
+im_npc008_name	刺刺蛋
+im_npc009_name	黃鼴鼠
+im_npc010_name	啪沙啪沙蝙蝠
+im_npc011_name	企鵝
+im_npc013_name	鋼盔龜
+im_npc017_name	球蓋姆
+im_npc025_name	害羞幽靈
+im_npc067_name	木喬
+im_npc027_name	砰砰
+im_npc012_name	咚咚
+im_npc021_name	庫巴Jr.
+im_npc023_name	魷魷
+im_npc026_name	汪汪
+im_npc051_name	卡美克
+im_npc053_name	飛行龜
+im_npc032_name	害羞幽靈王
+im_npc035_name	海膽小子
+im_npc036_name	蟹寶寶
+im_npc044_name	鐵鎚兄弟
+im_npc046_name	刺球丸子
+im_npc048_name	不害羞幽靈
+im_npc049_name	哎哎
+im_npc062_name	大嘴魚
+im_npc072_name	吞食花老大
+im_npc079_name	栗邦邦
+im_npc091_name	小企鵝
+im_npc092_name	小猴呦奇
+im_npc102_name	庫巴Jr.小丑飛船
+im_bd01_name	碧姬公主的生日蛋糕
+im_bd02_name	太空樂園
+im_bd03_name	繞來繞去的森林
+im_bd04_name	耀西的熱帶島嶼
+im_bd05_name	恐怖樂園
+im_mode01_name	Mario Party
+im_mode02_name	小遊戲山丘
+im_mode03_name	選項屋
+im_mode04_name	朋友屋
+im_mode05_name	奇諾比奧商店
+im_mode06_name	資料屋
+im_hsmg.msbt
+im_hsmg401_name	各種蘑菇
+im_hsmg402_name	滾滾雪球
+im_hsmg403_name	旋轉唱片
+im_hsmg404_name	數數1、2、3
+im_hsmg405_name	刺刺龜衝撞
+im_hsmg406_name	在球上站穩了
+im_hsmg407_name	跳繩跳跳跳
+im_hsmg408_name	彈跳球對戰
+im_hsmg409_name	用力揮棒
+im_hsmg410_name	跳跳魔豆樹
+im_hsmg411_name	黃鼴鼠的復仇
+im_hsmg412_name	舉旗的嘿呵
+im_hsmg413_name	用力！挖掘！！
+im_hsmg414_name	慢慢龜轉啊轉
+im_hsmg415_name	蠟筆描線
+im_hsmg416_name	汪汪快碰到了
+im_hsmg417_name	發條嘿呵競賽
+im_hsmg418_name	連打刺球丸子
+im_hsmg419_name	搖晃漂浮島
+im_hsmg420_name	雨水澆灌吞食花
+im_hsmg421_name	找出巨大蘑菇！
+im_hsmg422_name	企鵝大行進
+im_hsmg423_name	接住冰淇淋
+im_hsmg424_name	撿拾信件
+im_hsmg425_name	洞洞書
+im_hsmg426_name	彎來彎去很危險
+im_hsmg427_name	轟炸戰車
+im_hsmg428_name	庫巴大爆炸
+im_hsmg429_name	蜂巢嗡嗡嗡
+im_hsmg430_name	好好收拾
+im_hsmg431_name	庫巴變臉秀
+im_hsmg432_name	氣球碰碰車
+im_hsmg433_name	巨大泡泡魚肚子餓
+im_hsmg434_name	轉轉大炮
+im_hsmg435_name	黑暗中的庫巴！
+im_hsmg436_name	丟鐵球的庫巴！
+im_hsmg437_name	不要掉下去！谷底對戰
+im_hsmg438_name	來，擺好姿勢！
+im_hsmg439_name	打瞌睡的汪汪
+im_hsmg440_name	油門競賽
+im_hsmg441_name	看誰最靠近球洞！
+im_hsmg442_name	捕獲栗寶寶大作戰
+im_hsmg443_name	跳躍飛行龜
+im_hsmg444_name	旋轉滑雪板
+im_hsmg445_name	GO！GO！木馬
+im_hsmg446_name	溜冰競賽
+im_hsmg447_name	氣墊船競賽
+im_hsmg448_name	恐怖洋樓
+im_hsmg449_name	計算栗寶寶
+im_hsmg101_name	波浪來了
+im_hsmg102_name	岩石滾滾而下
+im_hsmg103_name	小心椰子
+im_hsmg104_name	侏儸紀吞食花
+im_hsmg105_name	危險拔河
+im_hsmg106_name	用探照燈照一照
+im_hsmg107_name	滾過去壓扁
+im_hsmg108_name	雪山追逐賽
+im_hsmg109_name	旋轉彈跳桿
+im_hsmg110_name	達陣得分！
+im_hsmg111_name	瞄準！發射！！
+im_hsmg112_name	球門球門球門！
+im_hsmg113_name	危險的大狼牙棒
+im_hsmg114_name	在哪？在哪？捉迷藏
+im_hsmg115_name	朝這邊！朝那邊！！
+im_hsmg201_name	蜈蚣GO！GO！
+im_hsmg202_name	咬咬大披薩
+im_hsmg203_name	雙人競賽
+im_hsmg204_name	加速曲棍球
+im_hsmg205_name	蛋糕工廠
+im_hsmg206_name	滑雪橇
+im_hsmg207_name	採礦車競賽
+im_hsmg208_name	用蠟筆圈起來
+im_hsmg209_name	接櫻桃
+im_hsmg210_name	兩個庫巴氣球
+im_hsmg211_name	看好炸彈兵！
+im_hsmg212_name	尖刺棒子很危險！
+im_hsmg213_name	海邊開車兜風
+im_hsmg214_name	栗寶寶塗油漆
+im_hsmg215_name	飛行競賽
+im_hsmg701_name	時鐘轉啊轉
+im_hsmg702_name	盪藤蔓競賽
+im_hsmg703_name	轉啊轉！旋轉道路
+im_hsmg704_name	霹靂球滑行管
+im_hsmg705_name	驚險的太空之旅
+im_hsmg801_name	快給我！鐵鎚兄弟
+im_hsmg802_name	降落吧！陽傘
+im_hsmg803_name	釣寶物
+im_hsmg804_name	用影子收集金幣
+im_hsmg805_name	危險的流沙
+im_hsmg806_name	收集金幣的河川
+im_hsmg807_name	GOGO！輸送帶
+im_hsmg808_name	綠洲金幣
+im_hsmg809_name	用蹺蹺板收集金幣
+im_hsmg810_name	划木筏收集金幣
+im_hsmg501_name	緊張刺激的沙灘排球！
+im_hsmg502_name	互不相讓的冰上曲棍球！
+im_hsmg503_name	小小足球
+im_hsmg601_name	咚咚益智遊戲
+im_hsmg602_name	磚塊連起來
+im_hsmg603_name	旋轉益智遊戲
+im_hsmm.msbt
+im_hsmm01	自選模式
+im_hsmm02	運動＆益智遊戲
+im_hsmm03	金幣對戰
+im_hsmm04	團體對抗賽
+im_hsmm05	3人挑戰賽
+im_hsmm06	生存戰
+im_hsmm07	每日精選
+im_hsmm_lv_01	關卡1
+im_hsmm_lv_02	關卡2
+im_hsmm_lv_03	關卡3
+im_hsmm_lv_04	關卡4
+im_hsmm_lv_05	關卡5
+im_hsmm_lv_06	關卡6
+im_hsmm_mgtype00	全部
+im_hsmm_mgtype01	4人對戰小遊戲
+im_hsmm_mgtype02	2vs2小遊戲
+im_hsmm_mgtype03	1vs3小遊戲
+im_hsmm_mgtype04	金幣小遊戲
+im_hsmm_mgtype05	決鬥小遊戲
+im_hsmm_mgtype06	運動＆益智遊戲
+im_hsmm_mgtype07	高分目標
+im_hsmm_mgtype10	2vs2運動
+im_hsmm_mgtype11	對戰益智遊戲
+im_hsmm_mgtype12	高分挑戰
+im_hsmm_mgtype99	我的最愛
+im_hsmm_mgpk00	以第一名為目標
+im_hsmm_mgpk01	生存戰對決！
+im_hsmm_mgpk02	仔細查看並思考
+im_hsmm_mgpk03	2人決鬥
+im_hsmm_mgpk04	小心錯過
+im_hsmm_mgpk05	收集金幣
+im_hsmm_mgpk07	1vs3收集金幣
+im_hsmm_mgpk08	競賽！競賽！
+im_hsmm_mgpk10	逃離敵人
+im_hsmm_mgpk11	落下卻不跌落
+im_hsmm_mgpk12	仔細瞄準
+im_hsmm_mgpk13	跳躍！跳躍！
+im_hsmm_mgpk14	來一點運動
+im_hsmm_mgpk16	精準操作也很重要
+im_hsmm_mgpk17	逃離對手
+im_hsmm_mgpk20	反應能力對戰
+im_hsmm_mgpk21	生存到最後
+im_hsmm_mgpk22	多多收集
+im_hsmm_mgpk23	搶位子很重要
+im_hsmm_mgpk24	有人生存下來
+im_hsmm_mgpk25	各種1vs3
+im_hsmm_rank00	A
+im_hsmm_rank01	B
+im_hsmm_rank02	C
+im_hsmm_rank03	D
+im_hsmm_rank10	S
+im_hsmm_rank11	A
+im_hsmm_rank12	B
+im_hsmm_rank13	C
+im_hsmm_rank14	D
+im_hsmm_rank99	--
+im_menu.msbt
+im_mn_comLevel00	弱
+im_mn_comLevel01	中
+im_mn_comLevel02	強
+im_mn_comLevel03	超強
+im_mn_number_player01	1人
+im_mn_number_player02	2人
+im_mn_number_player03	3人
+im_mn_number_player04	4人
+im_mn_packName00	標準
+im_mn_packName01	家庭
+im_mn_packName02	動作
+im_mn_packName03	Nintendo 64
+im_mn_packName04	GameCube
+im_mn_packName05	技巧
+im_mn_connect00	用1台主機遊玩
+im_mn_connect01	靠近主機來遊玩
+im_mn_connect02	線上
+im_mn_category00	全部
+im_mn_category01	貼圖
+im_mn_category02	圖鑑
+im_mn_category03	音樂
+im_mn_category04	卡片設計
+im_mn_goodsName_page00	Mario Party的頁面
+im_mn_goodsName_page01	Mario Party2的頁面
+im_mn_goodsName_page02	Mario Party3的頁面
+im_mn_goodsName_page03	Mario Party4的頁面
+im_mn_goodsName_page04	Mario Party5的頁面
+im_mn_goodsName_page05	Mario Party6的頁面
+im_mn_goodsName_page06	Mario Party7的頁面
+im_mn_goodsName_page07	Mario Party8的頁面
+im_mn_goodsName_page08	Mario Party9的頁面
+im_mn_goodsName_page09	Mario Party10的頁面
+im_mn_goodsName_page10	耀西的熱帶島嶼頁面
+im_mn_goodsName_page11	太空樂園的頁面
+im_mn_goodsName_page12	碧姬公主的生日蛋糕頁面
+im_mn_goodsName_page13	繞來繞去的森林頁面
+im_mn_goodsName_page14	恐怖樂園的頁面
+im_mn_goodsName_page15	瑪利歐的頁面
+im_mn_goodsName_page16	路易吉的頁面
+im_mn_goodsName_page17	碧姬公主的頁面
+im_mn_goodsName_page18	黛西公主的頁面
+im_mn_goodsName_page19	瓦利歐的頁面
+im_mn_goodsName_page20	瓦路易吉的頁面
+im_mn_goodsName_page21	耀西的頁面
+im_mn_goodsName_page22	羅潔塔的頁面
+im_mn_goodsName_page23	森喜剛的頁面
+im_mn_goodsName_page24	凱瑟琳的頁面
+im_mn_goodsName_page25	奇諾比奧的頁面
+im_mn_goodsName_page26	奇諾比珂的頁面
+im_mn_goodsName_page27	庫巴的頁面
+im_mn_goodsName_page28	栗寶寶的頁面
+im_mn_goodsName_page29	嘿呵的頁面
+im_mn_goodsName_page30	螺旋槳嘿呵的頁面
+im_mn_goodsName_page31	慢慢龜的頁面
+im_mn_goodsName_page32	炸彈兵的頁面
+im_mn_goodsName_page33	吞食花的頁面
+im_mn_goodsName_page34	炮彈刺客的頁面
+im_mn_goodsName_page35	泡泡魚的頁面
+im_mn_goodsName_page36	刺刺蛋的頁面
+im_mn_goodsName_page37	黃鼴鼠的頁面
+im_mn_goodsName_page38	啪沙啪沙蝙蝠的頁面
+im_mn_goodsName_page39	企鵝的頁面
+im_mn_goodsName_page40	咚咚的頁面
+im_mn_goodsName_page41	鋼盔龜的頁面
+im_mn_goodsName_page42	球蓋姆的頁面
+im_mn_goodsName_page43	庫巴Jr.的頁面
+im_mn_goodsName_page44	魷魷的頁面
+im_mn_goodsName_page45	害羞幽靈的頁面
+im_mn_goodsName_page46	汪汪的頁面
+im_mn_goodsName_page47	砰砰的頁面
+im_mn_goodsName_page48	害羞幽靈王的頁面
+im_mn_goodsName_page49	海膽小子的頁面
+im_mn_goodsName_page50	蟹寶寶的頁面
+im_mn_goodsName_page51	鐵鎚兄弟的頁面
+im_mn_goodsName_page52	刺球丸子的頁面
+im_mn_goodsName_page53	哎哎的頁面
+im_mn_goodsName_page54	不害羞幽靈的頁面
+im_mn_goodsName_page55	卡美克的頁面
+im_mn_goodsName_page56	飛行龜的頁面
+im_mn_goodsName_page57	大嘴魚的頁面
+im_mn_goodsName_page58	木喬的頁面
+im_mn_goodsName_page59	吞食花老大的頁面
+im_mn_goodsName_page60	栗邦邦的頁面
+im_mn_goodsName_page61	小企鵝的頁面
+im_mn_goodsName_page62	小猴呦奇的頁面
+im_mn_goodsName_page63	庫巴Jr.小丑飛船的頁面
+im_mn_goodsName_tips00	延長遊玩時間吧！的頁面
+im_mn_goodsName_tips01	草莓裝飾的頁面
+im_mn_goodsName_tips02	庫巴之路是捷徑的頁面
+im_mn_goodsName_tips03	在蛋糕上爭奪超級巨星！的頁面
+im_mn_goodsName_tips04	危險庫巴炮的頁面
+im_mn_goodsName_tips05	宇宙不可思議的頁面
+im_mn_goodsName_tips06	小心超速！的頁面
+im_mn_goodsName_tips07	黃鼴鼠和箭頭告示板的頁面
+im_mn_goodsName_tips08	繞來繞去迷路森林的頁面
+im_mn_goodsName_tips09	來自大樹的禮物的頁面
+im_mn_goodsName_tips10	賭上星星來去自如！的頁面
+im_mn_goodsName_tips11	豐盛水果的頁面
+im_mn_goodsName_tips12	西瓜島和哈密瓜島的頁面
+im_mn_goodsName_tips13	到底是哪裡？的頁面
+im_mn_goodsName_tips14	交給哎哎吧！的頁面
+im_mn_goodsName_tips15	晚上嚇一跳的頁面
+im_mn_goodsName_tips16	遊玩各種小遊戲吧！的頁面
+im_mn_goodsName_tips17	正式運動比賽！的頁面
+im_mn_goodsName_tips18	認真玩益智遊戲的頁面
+im_mn_goodsName_tips19	賭上金幣來比賽的頁面
+im_mn_goodsName_tips20	兩人同心協力吧的頁面
+im_mn_goodsName_tips21	3人一路過關斬將！的頁面
+im_mn_goodsName_tips22	和敵人一較高下的頁面
+im_mn_goodsName_tips23	和世界各地的對手比賽！的頁面
+im_mn_goodsName_tips24	大家都很緊張的頁面
+im_mn_goodsName_tips25	多多收集來對決！的頁面
+im_mn_goodsName_tips26	仔細查看吧的頁面
+im_mn_goodsName_tips27	逃逃逃，生存到最後的頁面
+im_mn_goodsName_tips28	收集、跳躍、大鬧一場的頁面
+im_mn_goodsName_tips29	戰勝對手，取得最後勝利吧的頁面
+im_mn_goodsName_tips30	一秒鬆懈就會致命的頁面
+im_mn_goodsName_tips31	瞄準、收集、贏得勝利的頁面
+im_mn_goodsName_tips32	危機就是轉機！的頁面
+im_mn_goodsName_tips33	回合延長與星星兌換所的頁面
+im_mn_goodsName_bgm00	廣場組合
+im_mn_goodsName_bgm01	耀西的熱帶島嶼組合
+im_mn_goodsName_bgm02	太空樂園組合
+im_mn_goodsName_bgm03	碧姬公主的生日蛋糕組合
+im_mn_goodsName_bgm04	繞來繞去的森林組合
+im_mn_goodsName_bgm05	恐怖樂園組合
+im_mn_goodsName_bgm06	事件組合
+im_mn_goodsName_bgm07	Mario Party組合
+im_mn_goodsName_bgm08	Mario Party2組合
+im_mn_goodsName_bgm09	Mario Party3組合
+im_mn_goodsName_bgm10	Mario Party4組合
+im_mn_goodsName_bgm11	Mario Party5組合
+im_mn_goodsName_bgm12	Mario Party6組合
+im_mn_goodsName_bgm13	Mario Party7組合
+im_mn_goodsName_bgm14	Mario Party8組合
+im_mn_goodsName_bgm15	Mario Party9組合
+im_mn_goodsName_bgm16	Mario Party10組合
+im_mn_goodsName_bgm17	小遊戲山丘組合
+im_mn_goodsName_bgm18	大家都是超級巨星！
+im_mn_goodsName_bgm19	為遊樂園命名的比賽！
+im_mn_goodsName_bgm20	千年一次的星星
+im_mn_goodsName_card00	繽紛
+im_mn_goodsName_card01	碧姬公主的生日蛋糕
+im_mn_goodsName_card02	太空樂園
+im_mn_goodsName_card03	繞來繞去的森林
+im_mn_goodsName_card04	耀西的熱帶島嶼
+im_mn_goodsName_card05	恐怖樂園
+im_mn_goodsName_card06	復古
+im_mn_goodsName_card07	數位
+im_mn_goodsName_card08	霓虹燈
+im_mn_goodsName_card09	蘑菇
+im_mn_goodsName_card10	燈飾
+im_mn_goodsName_card11	水管
+im_mn_goodsName_card12	工廠
+im_mn_goodsName_card13	華麗
+im_mn_goodsName_card14	頂級
+im_mn_pointer_name00	Mario Party卡片
+im_mn_pointer_name01	圖鑑
+im_mn_pointer_name02	音樂
+im_mn_pointer_name03	遊戲紀錄
+im_mn_pointer_name04	工作人員名單
+im_mn_pointer_name05	稱號
+im_mn_mu_header00	廣場
+im_mn_mu_header01	原創
+im_mn_mu_header02	重製
+im_mn_mu_header03	Mario Party
+im_mn_mu_header04	Mario Party2
+im_mn_mu_header05	Mario Party3
+im_mn_mu_header06	Mario Party4
+im_mn_mu_header07	Mario Party5
+im_mn_mu_header08	Mario Party6
+im_mn_mu_header09	Mario Party7
+im_mn_mu_header10	Mario Party8
+im_mn_mu_header11	Mario Party9
+im_mn_mu_header12	Mario Party10
+im_mn_mu_header13	小遊戲山丘
+im_mn_mu_header14	最後加速
+im_mn_mu_header15	事件
+im_mn_tips_caption00	延長遊玩時間吧！
+im_mn_tips_caption01	草莓裝飾
+im_mn_tips_caption02	庫巴之路是捷徑
+im_mn_tips_caption03	在蛋糕上爭奪超級巨星！
+im_mn_tips_caption04	危險庫巴炮
+im_mn_tips_caption05	宇宙不可思議
+im_mn_tips_caption06	小心超速！
+im_mn_tips_caption07	黃鼴鼠和箭頭告示板
+im_mn_tips_caption08	繞來繞去迷路森林
+im_mn_tips_caption09	來自大樹的禮物
+im_mn_tips_caption10	賭上星星來去自如！
+im_mn_tips_caption11	豐盛水果
+im_mn_tips_caption12	西瓜島和哈密瓜島
+im_mn_tips_caption13	到底是哪裡？
+im_mn_tips_caption14	交給哎哎吧！
+im_mn_tips_caption15	晚上嚇一跳
+im_mn_tips_caption16	遊玩各種小遊戲吧！
+im_mn_tips_caption17	正式運動比賽！
+im_mn_tips_caption18	認真玩益智遊戲
+im_mn_tips_caption19	賭上金幣來比賽
+im_mn_tips_caption20	兩人同心協力吧
+im_mn_tips_caption21	3人一路過關斬將！
+im_mn_tips_caption22	和敵人一較高下
+im_mn_tips_caption23	和世界各地的對手比賽！
+im_mn_tips_caption24	大家都很緊張
+im_mn_tips_caption25	多多收集來對決！
+im_mn_tips_caption26	仔細查看吧
+im_mn_tips_caption27	逃逃逃，生存到最後
+im_mn_tips_caption28	收集、跳躍、大鬧一場
+im_mn_tips_caption29	戰勝對手，取得最後勝利吧
+im_mn_tips_caption30	一秒鬆懈就會致命
+im_mn_tips_caption31	瞄準、收集、贏得勝利
+im_mn_tips_caption32	危機就是轉機！
+im_mn_tips_caption33	回合延長與星星兌換所
+im_mn_mainName_bgm00	來設定吧！
+im_mn_mainName_bgm01	開始冒險！
+im_mn_mainName_bgm03	歡樂廣場
+im_mn_mainName_bgm04	設定交給我！
+im_mn_mainName_bgm05	和朋友一起玩吧！
+im_mn_mainName_bgm06	來購物吧
+im_mn_mainName_bgm07	重溫回憶
+im_mn_mainName_bgm08	飛向冒險！
+im_mn_mainName_bgm09	好！前往小遊戲山丘
+im_mn_mainName_bgm010	閃耀星空的稱號
+im_mn_mainName_bgm011	工作人員名單
+im_mn_mainName_bgm012	線上排名！
+im_mn_mainName_bgm013	瑪利歐派對 超級巨星（Mario Party）
+im_mn_mainName_bgm014	瑪利歐派對 超級巨星（Mario Party2）
+im_mn_mainName_bgm015	瑪利歐派對 超級巨星（Mario Party3）
+im_mn_staffName_bgm00	大家都是超級巨星！
+im_mn_staffName_bgm01	為遊樂園命名的比賽！
+im_mn_staffName_bgm02	千年一次的星星
+im_mn_bdName_bgm00	耀西的熱帶島嶼原創曲
+im_mn_bdName_bgm01	太空樂園原創曲
+im_mn_bdName_bgm02	碧姬公主的生日蛋糕原創曲
+im_mn_bdName_bgm03	繞來繞去的森林原創曲
+im_mn_bdName_bgm04	恐怖樂園原創曲
+im_mn_bdName_bgm05	耀西的熱帶島嶼
+im_mn_bdName_bgm06	太空樂園
+im_mn_bdName_bgm07	碧姬公主的生日蛋糕
+im_mn_bdName_bgm08	繞來繞去的森林
+im_mn_bdName_bgm16	恐怖樂園（白天）
+im_mn_bdName_bgm09	恐怖樂園（晚上）
+im_mn_bdName_bgm10	耀西的熱帶島嶼之最後加速
+im_mn_bdName_bgm11	太空樂園之最後加速
+im_mn_bdName_bgm12	碧姬公主的生日蛋糕之最後加速
+im_mn_bdName_bgm13	繞來繞去的森林之最後加速
+im_mn_bdName_bgm14	恐怖樂園（白天）之最後加速
+im_mn_bdName_bgm15	恐怖樂園（黑夜）之最後加速
+im_mn_evName_bgm00	星星在哪裡？
+im_mn_evName_bgm01	害羞幽靈來了！
+im_mn_evName_bgm02	超速！
+im_mn_evName_bgm03	恐怖的庫巴炮
+im_mn_evName_bgm04	更換黃鼴鼠的箭頭
+im_mn_evName_bgm05	高興的骰子和金幣
+im_mn_evName_bgm06	緊張的骰子和金幣
+im_mn_evName_bgm07	大嘴魚的惡作劇
+im_mn_evName_bgm08	哎哎的傳送
+im_mn_evName_bgm09	害羞幽靈王來了！
+im_mn_evName_bgm10	不可思議的派對！
+im_mn_evName_bgm11	抓住機會！
+im_mn_evName_bgm12	來玩小遊戲吧！
+im_mn_evName_bgm13	庫巴登場
+im_mn_evName_bgm14	決鬥吧！
+im_mn_evName_bgm15	最後加速！
+im_mn_evName_bgm16	真好玩呢
+im_mn_evName_bgm17	準備好了嗎？
+im_mn_evName_bgm18	派對要開始囉
+im_mn_evName_bgm20	你就是超級巨星！
+im_mn_evName_bgm21	小遊戲要開始囉！
+im_mn_evName_bgm22	小心汪汪！
+im_mn_mgName_bgm00	考驗勇氣
+im_mn_mgName_bgm01	大海好寬廣
+im_mn_mgName_bgm03	躲避危險
+im_mn_mgName_bgm04	輕鬆向前行
+im_mn_mgName_bgm05	比誰都快
+im_mn_mgName_bgm06	你行嗎？
+im_mn_mgName_bgm07	閃躲
+im_mn_mgName_bgm08	世上的金幣啊
+im_mn_mgName_bgm09	來跳凌波舞吧！
+im_mn_mgName_bgm10	朝這邊！朝那邊！！
+im_mn_mgName_bgm11	獲得道具！
+im_mn_mgName_bgm12	朝向藍天的另一邊
+im_mn_mgName_bgm13	到處都是
+im_mn_mgName_bgm14	氣氛太棒了！
+im_mn_mgName_bgm15	轉啊，波爾卡舞曲
+im_mn_mgName_bgm16	迷上金幣
+im_mn_mgName_bgm17	這就是全部了
+im_mn_mgName_bgm18	一點都不可怕
+im_mn_mgName_bgm19	還是要繼續
+im_mn_mgName_bgm20	飛向任何地方
+im_mn_mgName_bgm21	不會輸的
+im_mn_mgName_bgm22	開心地做
+im_mn_mgName_bgm23	懂了嗎？
+im_mn_mgName_bgm24	瞄準道具
+im_mn_mgName_bgm25	放心向前行
+im_mn_mgName_bgm26	急不得的
+im_mn_mgName_bgm27	大恐慌！
+im_mn_mgName_bgm28	一心想努力
+im_mn_mgName_bgm29	輕鬆搞定
+im_mn_mgName_bgm30	以另一邊為目標
+im_mn_mgName_bgm31	大危機！
+im_mn_mgName_bgm32	快步向前行
+im_mn_mgName_bgm33	該怎麼辦！？
+im_mn_mgName_bgm34	瞄準目標
+im_mn_mgName_bgm35	知道在哪裡嗎？
+im_mn_mgName_bgm36	不慌不忙慢慢來
+im_mn_mgName_bgm37	快點！快點！
+im_mn_mgName_bgm38	冷汗直流
+im_mn_mgName_bgm39	大家加油吧
+im_mn_mgName_bgm40	開心亂跑
+im_mn_mgName_bgm41	東張西望
+im_mn_mgName_bgm42	慌張亂跑
+im_mn_mgName_bgm43	心驚膽戰
+im_mn_mgName_bgm44	緊張刺激
+im_mn_mgName_bgm45	大鬧一場
+im_mn_mgName_bgm47	開心向前行
+im_mn_mgName_bgm48	往那邊、往這邊
+im_mn_mgName_bgm49	宇宙決鬥
+im_mn_mgName_bgm50	要和庫巴玩嗎？
+im_mn_mgName_bgm51	好可怕～別過來！
+im_mn_mgName_bgm52	慢慢來，不要急
+im_mn_mgName_bgm53	悠閒自在吹吹風
+im_mn_mgName_bgm54	溫暖陽光下搖擺
+im_mn_mgName_bgm55	冷靜一下再衝
+im_mn_mgName_bgm56	不慌張、不害怕
+im_mn_mgName_bgm57	小心！
+im_mn_mgName_bgm58	歡樂向前行
+im_mn_mgName_bgm59	玩得閃亮亮
+im_mn_mgName_bgm60	亂七八糟
+im_mn_mgName_bgm61	良性競爭
+im_mn_mgName_bgm62	來運動吧！
+im_mn_mgName_bgm63	仔細想一想！
+im_mn_mgName_bgm64	緊張、刺激
+im_mn_mgName_bgm65	非常超級的瑪利歐兄弟
+im_mn_mgName_bgm66	跑一跑、躲一躲！
+im_mn_mgName_bgm67	衝吧！
+im_mn_mgName_bgm68	不能被擋住
+im_mn_mmName_bgm00	歡迎來到小遊戲山丘！
+im_mn_mmName_bgm01	再努力一次！
+im_mn_mmName_bgm02	辛苦了！
+im_mn_mmName_bgm03	出局……
+im_mn_mmName_bgm04	恭喜！
+im_mn_mmName_bgm05	會遇到誰呢？
+im_mn_mmName_bgm06	多玩一點！
+im_mn_mmName_bgm07	對戰開始！
+im_mn_mmName_bgm08	對戰Start！
+im_mn_mmName_bgm09	再前進一點
+im_mn_mmName_bgm10	最後的對戰！
+im_mn_mmName_bgm11	失敗……
+im_mn_mmName_bgm12	以盡頭為目標
+im_mn_mmName_bgm13	開啟戰鬥的序幕
+im_mn_mmName_bgm14	還沒結束呢
+im_mn_mmName_bgm15	輸了……
+im_mn_mmName_bgm16	最終戰！
+im_mn_achieveFirst_name	新手玩家
+im_mn_achieve000_name	星星收藏者
+im_mn_achieve001_name	星星迷
+im_mn_achieve002_name	熱情的星星博士
+im_mn_achieve003_name	金幣收藏者
+im_mn_achieve004_name	金幣迷
+im_mn_achieve005_name	金幣大富豪
+im_mn_achieve006_name	麻煩製造者
+im_mn_achieve007_name	尋求對戰
+im_mn_achieve008_name	機會之神
+im_mn_achieve009_name	不為人知的庫巴迷
+im_mn_achieve010_name	再來再來大放送！
+im_mn_achieve011_name	捐款愛好者
+im_mn_achieve012_name	星星賊
+im_mn_achieve013_name	掠奪大盜
+im_mn_achieve014_name	金幣賊
+im_mn_achieve015_name	錢包大盜
+im_mn_achieve016_name	道具愛好者
+im_mn_achieve017_name	幸運骰子
+im_mn_achieve018_name	稀有物品獵人
+im_mn_achieve019_name	一直都是朋友
+im_mn_achieve020_name	這裡竟然有金幣
+im_mn_achieve021_name	命運的邂逅
+im_mn_achieve022_name	雙星
+im_mn_achieve023_name	聰明購物
+im_mn_achieve024_name	難得來一趟卻……
+im_mn_achieve025_name	不能輸的戰鬥
+im_mn_achieve026_name	期待之星
+im_mn_achieve027_name	打倒！庫巴！
+im_mn_achieve028_name	獎勵一人獨享
+im_mn_achieve029_name	最強的草莓職人
+im_mn_achieve030_name	警察大人！！
+im_mn_achieve031_name	果實研究家
+im_mn_achieve032_name	大嘴魚養殖員
+im_mn_achieve033_name	黑暗燈使者
+im_mn_achieve034_name	小遊戲交給我
+im_mn_achieve035_name	小遊戲達人
+im_mn_achieve038_name	契合度超群
+im_mn_achieve039_name	不管多少人都放馬過來吧
+im_mn_achieve040_name	高等級戰鬥
+im_mn_achieve042_name	大把大把收下來！
+im_mn_achieve044_name	咚咚益智遊戲大師
+im_mn_achieve045_name	磚塊連起來大師
+im_mn_achieve046_name	旋轉益智遊戲大師
+im_mn_achieve047_name	超級巨星{color[ffffffff]}{color[000000ff]}
+im_mn_achieve048_name	金幣巨星
+im_mn_achieve049_name	小遊戲巨星
+im_mn_achieve050_name	傳說的S等級
+im_mn_achieve051_name	達人的A等級
+im_mn_achieve052_name	10連勝冠軍
+im_mn_achieve053_name	5連勝專家
+im_mn_achieve054_name	日課表：Mario Party
+im_mn_achieve055_name	世界紀錄保持人
+im_mn_achieve056_name	重度小遊戲玩家
+im_mn_achieve057_name	初次的進榜者
+im_mn_achieve058_name	昨天的敵人今天的朋友
+im_mn_achieve059_name	大家拍手
+im_mn_achieve060_name	金幣億萬富翁
+im_mn_achieve061_name	咚咚益智遊戲名人
+im_mn_achieve062_name	磚塊連起來名人
+im_mn_achieve063_name	旋轉益智遊戲名人
+im_mn_achieveFirst_details	從一開始就有。
+im_mn_achieve000_details	在一次冒險中持有超過3顆星星
+im_mn_achieve001_details	在一次冒險中持有超過5顆星星
+im_mn_achieve002_details	在一次冒險中持有超過7顆星星
+im_mn_achieve003_details	在一次冒險中持有超過100枚金幣
+im_mn_achieve004_details	在一次冒險中持有超過150枚金幣
+im_mn_achieve005_details	在一次冒險中持有超過200枚金幣
+im_mn_achieve006_details	停在事件格合計30次
+im_mn_achieve007_details	停在VS格合計15次
+im_mn_achieve008_details	停在機會格合計15次
+im_mn_achieve009_details	停在庫巴格合計15次
+im_mn_achieve010_details	停在慢慢龜銀行合計15次
+im_mn_achieve011_details	捐款給慢慢龜銀行合計50次
+im_mn_achieve012_details	在一次冒險中奪取對手1顆星星
+im_mn_achieve013_details	在一次冒險中奪取對手3顆星星
+im_mn_achieve014_details	在一次冒險中奪取對手30枚金幣
+im_mn_achieve015_details	在一次冒險中奪取對手50枚金幣
+im_mn_achieve016_details	在一次冒險中使用8個道具
+im_mn_achieve017_details	雙骰子擲出相同點數
+im_mn_achieve018_details	使用稀有道具
+im_mn_achieve019_details	持有開不開鑰匙到最後
+im_mn_achieve020_details	在隱藏磚塊中發現金幣
+im_mn_achieve021_details	在隱藏磚塊中發現星星
+im_mn_achieve022_details	1回合獲得2顆星星
+im_mn_achieve023_details	以半價獲得星星
+im_mn_achieve024_details	金幣不足無法購買星星
+im_mn_achieve025_details	決鬥獲勝
+im_mn_achieve026_details	在最後加速時成為冠軍候選人
+im_mn_achieve027_details	在庫巴小遊戲中獲勝
+im_mn_achieve028_details	在一次冒險中獲得所有獎勵星星
+im_mn_achieve029_details	種植草莓奪取星星
+im_mn_achieve030_details	在一次冒險中被狂奔太空船追3次
+im_mn_achieve031_details	在一次冒險中獲得3次果實
+im_mn_achieve032_details	在一次冒險中讓大嘴魚惡作劇3次
+im_mn_achieve033_details	在卡美克的洋館把白天變成黑夜
+im_mn_achieve034_details	參加過的小遊戲有一半獲勝
+im_mn_achieve035_details	參加過的小遊戲全都獲勝
+im_mn_achieve038_details	獲勝且對方隊伍從沒贏過
+im_mn_achieve039_details	所選關卡過關
+im_mn_achieve040_details	所選關卡S等級過關
+im_mn_achieve042_details	在一次遊玩中獲得50枚以上的金幣並獲勝
+im_mn_achieve044_details	咚咚益智遊戲獲得600分
+im_mn_achieve045_details	磚塊連起來達到等級99
+im_mn_achieve046_details	旋轉益智遊戲達到等級99
+im_mn_achieve047_details	以Mario Party模式遊玩50次
+im_mn_achieve048_details	總計獲得1000枚金幣
+im_mn_achieve049_details	小遊戲總計獲勝100次
+im_mn_achieve050_details	1個小遊戲達到技術S
+im_mn_achieve051_details	1個小遊戲達到技術A
+im_mn_achieve052_details	10連勝
+im_mn_achieve053_details	5連勝
+im_mn_achieve054_details	1個組合包獲得3顆星星
+im_mn_achieve055_details	1個小遊戲進入前1000名
+im_mn_achieve056_details	1個小遊戲進入前1萬名
+im_mn_achieve057_details	1個小遊戲進入前5萬名
+im_mn_achieve058_details	獲得拍手5000次
+im_mn_achieve059_details	獲得拍手1000次
+im_mn_achieve060_details	在一次遊玩中獲得100枚以上的金幣並獲勝
+im_mn_achieve061_details	咚咚益智遊戲獲得300分
+im_mn_achieve062_details	磚塊連起來達到等級50
+im_mn_achieve063_details	旋轉益智遊戲達到等級50
+im_mn_achieve_mode00	雙陸遊戲共用
+im_mn_achieve_mode01	遊戲共用
+im_mn_achieve_mode03	新紀錄排名
+im_stamp.msbt
+im_stPC000	一起玩吧
+im_stPC001	太好了！
+im_stPC002	不～！
+im_st00000	辛苦了！
+im_st00001	謝謝
+im_st00002	抱歉
+im_st00003	好厲害！
+im_st00004	加油！
+im_st00005	不錯喔
+im_st00006	哇哈哈哈
+im_st00007	緊張
+im_st00008	怎麼樣！
+im_st00009	嗯……！
+im_st00010	為什麼？
+im_st00011	我們是\r\n朋友吧？
+im_st00013	恭喜！
+im_st00014	好耶！
+im_st00015	耶～
+im_st00016	可惜了！
+im_st00017	會出現\r\n什麼呢
+im_st00018	運氣\r\n真差呢
+im_st00019	嘿嘿嘿
+im_st00020	不會輸的
+im_st00021	太壞了！
+im_st00022	好可惜
+im_st00023	不要！
+im_st00024	太狡猾了！
+im_st00025	來了！
+im_st00026	就是那個！
+im_st00027	拜託你了！
+im_st00028	下次會更好！
+im_st00029	中！
+im_st00030	不中！
+im_st00031	Go Go！
+im_st00032	決鬥吧！
+im_st00033	嗶！
+im_st00034	鈴鈴♪
+im_st00035	運氣真好！
+im_st00036	用這個吧
+im_st00037	嗚嗚
+im_st00006_oneLine	哇哈哈哈
+im_st00007_oneLine	緊張
+im_st00008_oneLine	怎麼樣！
+im_st00009_oneLine	嗯……！
+im_st00010_oneLine	為什麼？
+im_st00011_oneLine	我們是朋友吧？
+im_st00015_oneLine	耶～
+im_st00016_oneLine	可惜了！
+im_st00017_oneLine	會出現什麼呢
+im_st00018_oneLine	運氣真差呢
+im_st00019_oneLine	嘿嘿嘿
+im_st00021_oneLine	太壞了！
+im_st00023_oneLine	不要！
+im_st00024_oneLine	太狡猾了！
+im_st00025_oneLine	來了！
+im_st00026_oneLine	就是那個！
+im_st00027_oneLine	拜託你了！
+im_st00028_oneLine	下次會更好！
+im_st00031_oneLine	Go Go！
+im_st00032_oneLine	決鬥吧！
+im_st00033_oneLine	嗶！
+im_st00034_oneLine	鈴鈴♪
+im_st00035_oneLine	運氣真好！
+im_st00036_oneLine	用這個吧
+system.msbt
+sys_ctrl_skip	/跳過
+sys_info_operatAccount	[0]正在操作
+sys_mw_chaname	[0]
+sys_mw_back	返回
+sys_pause_slct_resume	繼續
+sys_pause_slct_restart	重來
+sys_pause_mw_restart	要從頭重新遊玩\r\n[0]嗎？
+sys_pause_mw_restart_a0	重玩
+sys_pause_mw_restart_a1	不重玩
+sys_pause_slct_mainM	廣場
+sys_pause_mw_mainM	要返回廣場嗎？
+sys_pause_mw_mainM_bdM	要返回廣場嗎？\r\n{color[4b465aff]}{size[4c00]}下次遊玩時，可以從這回合最初的地方開始。{size[6400]}{color[000000ff]}
+sys_pause_slct_mgM_bdM	小遊戲山丘
+sys_pause_mw_mgM_bdM	要在小遊戲山丘遊玩嗎？\r\n{color[4b465aff]}{size[4c00]}下次遊玩時，可以從這回合最初的地方開始。{size[6400]}{color[000000ff]}
+sys_pause_mw_mgM_bdM_a0	遊玩
+sys_pause_mw_mgM_bdM_a1	不遊玩
+sys_pause_mw_mainM_a0	返回
+sys_pause_mw_mainM_a1	繼續
+sys_pause_slct_mgM	賽道選擇
+sys_pause_slct_mgSlct	小遊戲選擇
+sys_pause_slct_turn	回合延長
+sys_pause_mw_turn00	要延長到幾回合？
+sys_pause_mw_turn00_a0	15回合
+sys_pause_mw_turn00_a1	20回合
+sys_pause_mw_turn00_a2	25回合
+sys_pause_mw_turn00_a3	30回合
+sys_pause_mw_turn01	只能更改一次。\r\n真的要延長嗎？\r\n　[0]　→　[1]
+sys_pause_mw_turn01_a0	延長
+sys_pause_mw_turn01_a1	不延長
+sys_pause_mw_turn02	已延長回合。\r\n從下一回合開始，\r\n將以新的回合設定進行。
+sys_pause_mw_turn03	延長回合\r\n可延長遊玩時間。
+sys_pause_mw_turn03_multi	延長回合可延長遊玩時間。\r\n請和大家好好商量之後再決定吧。
+sys_pause_mw_turn03_a0	延長
+sys_pause_mw_turn03_a1	維持不變
+sys_pause_slct_mesSp	訊息速度
+sys_pause_mw_mesSp	可以更改訊息的顯示速度。
+sys_pause_mw_mesSp_a0	快速
+sys_pause_mw_mesSp_a1	普通
+sys_pause_mw_mesSp_a2	緩慢
+sys_pause_playerName	[0]
+sys_pause_modeName	[0]
+sys_pause_mgName	[0]
+sys_pause_mapName	[0]
+sys_pause_mapDetails	[0]
+sys_bdm_mw_save01	消除的資料無法復原。\r\n真的要消除嗎？
+sys_bdm_mw_save01_a0	是
+sys_bdm_mw_save01_a1	否
+sys_bdm_mw_save03	請選擇要覆蓋的中斷資料
+sys_retry_slct_mapSlct	棋盤選擇
+sys_retry_slct_mainM	廣場
+sys_retry_slct_mgM01	賽道選擇
+sys_retry_slct_mgSlct	小遊戲選擇
+sys_retry_slct_randomSlct	隨機選擇
+sys_retry_slct_play	再玩一次
+sys_retry_slct_levelX	從等級[0]開始
+sys_retry_slct_level1	從等級1開始
+sys_retry_fav_mg	目前的小遊戲
+sys_retry_fav_mgName	[0]
+sys_retry_fav_ctrl00	設定為我的最愛
+sys_retry_fav_ctrl01	從我的最愛刪除
+sys_retry_slct_bdM	Mario Party
+sys_retry_slct_hsmmet	遊玩小遊戲山丘
+sys_retry_mw_hsmmet	要遊玩小遊戲山丘嗎？
+sys_mgM_scoreCard_score	[0]
+sys_reward_mp_level0	Mario Party等級
+sys_reward_mp_level1	[0]
+sys_reward_mp_next	距離下個等級還有[0]
+sys_reward_mp_titleName	[0]
+sys_reward_mp_add	+[0]
+sys_reward_mw_get	已獲得{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣和經驗值！{color[000000ff]}
+sys_reward_mw_name	[0]
+im_sys_modeName00	Mario Party
+im_sys_modeName01	小遊戲山丘
+sys_reward_mw_hsmn00	有可領取的{color[ffffffff]}{color[000000ff]}{color[110c1dff]}金幣和經驗值！{color[000000ff]}
+sys_reward_info	[0]
+sys_reward_info_mes00	Mario Party等級達到5時，奇諾比奧商店會新增貼圖！
+sys_reward_info_mes01	Mario Party等級達到10時，奇諾比奧商店會新增卡片設計！
+sys_reward_info_mes02	Mario Party等級達到15時，奇諾比奧商店會新增貼圖！
+sys_reward_info_mes03	Mario Party等級達到20時，奇諾比奧商店會新增卡片設計！
+sys_reward_info_mes04	Mario Party等級達到25時，奇諾比奧商店會新增貼圖！
+sys_reward_info_mes05	Mario Party等級達到30時，奇諾比奧商店會新增卡片設計！
+sys_reward_info_mes06	Mario Party等級達到35時，奇諾比奧商店會新增貼圖！
+sys_reward_info_mes07	Mario Party等級達到40時，奇諾比奧商店會新增貼圖！
+sys_reward_info_mes08	Mario Party等級達到50時，資料屋會新增工作人員名單！
+sys_reward_info_mes09	Mario Party等級達到60時，奇諾比奧商店會新增圖鑑！
+sys_reward_info_mes10	Mario Party等級達到70時，奇諾比奧商店會新增圖鑑！
+sys_reward_info_mes11	Mario Party等級達到80時，奇諾比奧商店會新增圖鑑！
+sys_reward_info_mes12	Mario Party等級達到90時，奇諾比奧商店會新增圖鑑！
+sys_reward_info_mes13	Mario Party等級達到99時，奇諾比奧商店會新增圖鑑！
+sys_reward_ctrl_next	下一步
+sys_reward_coin_have	[0]
+sys_reward_coin_add	+[0]
+sys_reward_coin_detailCoin	[0]
+sys_reward_coin_haveStar	星星[0]顆
+sys_reward_coin_handClap	拍手獎勵
+sys_reward_coin_MG_streak	連勝獎勵
+sys_reward_coin_hsmm04_3win	3連勝
+sys_reward_coin_hsmm04_5win	5連勝
+sys_reward_coin_hsmm04_10win	10連勝
+sys_reward_coin_hsmm05_stage1	關卡1過關
+sys_reward_coin_hsmm05_stage2	關卡2過關
+sys_reward_coin_hsmm05_stage3	關卡3過關
+sys_reward_coin_hsmm05_stage4	關卡4過關
+sys_reward_coin_hsmm05_stage5	關卡5過關
+sys_reward_coin_hsmm05_stage6	關卡6過關
+sys_reward_coin_hsmm02_rankUP	技術上升
+sys_reward_coin_bdm_bonus1	{color[ff3502ff]}獲勝獎勵{color[000000ff]}
+sys_reward_coin_bdm_bonus_x	{color[ff3502ff]}×[0]{color[000000ff]}
+sys_reward_exp_bdm_10_1st	設定為10回合並獲得第1名
+sys_reward_exp_bdm_10_2nd	設定為10回合並獲得第2名
+sys_reward_exp_bdm_10_3rd	設定為10回合並獲得第3名
+sys_reward_exp_bdm_10_4th	設定為10回合並獲得第4名
+sys_reward_exp_bdm_15_1st	設定為15回合並獲得第1名
+sys_reward_exp_bdm_15_2nd	設定為15回合並獲得第2名
+sys_reward_exp_bdm_15_3rd	設定為15回合並獲得第3名
+sys_reward_exp_bdm_15_4th	設定為15回合並獲得第4名
+sys_reward_exp_bdm_20_1st	設定為20回合並獲得第1名
+sys_reward_exp_bdm_20_2nd	設定為20回合並獲得第2名
+sys_reward_exp_bdm_20_3rd	設定為20回合並獲得第3名
+sys_reward_exp_bdm_20_4th	設定為20回合並獲得第4名
+sys_reward_exp_bdm_25_1st	設定為25回合並獲得第1名
+sys_reward_exp_bdm_25_2nd	設定為25回合並獲得第2名
+sys_reward_exp_bdm_25_3rd	設定為25回合並獲得第3名
+sys_reward_exp_bdm_25_4th	設定為25回合並獲得第4名
+sys_reward_exp_bdm_30_1st	設定為30回合並獲得第1名
+sys_reward_exp_bdm_30_2nd	設定為30回合並獲得第2名
+sys_reward_exp_bdm_30_3rd	設定為30回合並獲得第3名
+sys_reward_exp_bdm_30_4th	設定為30回合並獲得第4名
+sys_reward_exp_mgm_play	已遊玩小遊戲
+sys_reward_exp_mgm_win	小遊戲獲勝
+sys_reward_exp_mgm_lose	小遊戲沒有獲勝
+sys_reward_exp_mgm_master	戰勝了超強
+sys_reward_exp_hsmm02_hsmg501_win1	在7分規則的「緊張刺激的沙灘排球！」獲勝
+sys_reward_exp_hsmm02_hsmg501_win2	在14分規則的「緊張刺激的沙灘排球！」獲勝
+sys_reward_exp_hsmm02_hsmg501_win3	在21分規則的「緊張刺激的沙灘排球！」獲勝
+sys_reward_exp_hsmm02_hsmg501_lose1	7分規則的「緊張刺激的沙灘排球！」沒有獲勝
+sys_reward_exp_hsmm02_hsmg501_lose2	14分規則的「緊張刺激的沙灘排球！」沒有獲勝
+sys_reward_exp_hsmm02_hsmg501_lose3	21分規則的「緊張刺激的沙灘排球！」沒有獲勝
+sys_reward_exp_hsmm02_hsmg502_win1	在1分鐘規則的「互不相讓的冰上曲棍球！」獲勝
+sys_reward_exp_hsmm02_hsmg502_win2	在3分鐘規則的「互不相讓的冰上曲棍球！」獲勝
+sys_reward_exp_hsmm02_hsmg502_win3	在5分鐘規則的「互不相讓的冰上曲棍球！」獲勝
+sys_reward_exp_hsmm02_hsmg502_lose1	1分鐘規則的「互不相讓的冰上曲棍球！」沒有獲勝
+sys_reward_exp_hsmm02_hsmg502_lose2	3分鐘規則的「互不相讓的冰上曲棍球！」沒有獲勝
+sys_reward_exp_hsmm02_hsmg502_lose3	5分鐘規則的「互不相讓的冰上曲棍球！」沒有獲勝
+sys_reward_exp_hsmm02_rankC	技術上升到C
+sys_reward_exp_hsmm02_rankB	技術上升到B
+sys_reward_exp_hsmm02_rankA	技術上升到A
+sys_reward_exp_hsmm02_rankS	技術上升到S
+sys_reward_exp_hsmm02_rankMAX	技術等級MAX
+sys_reward_exp_hsmm03_5_1st	設定為5回合並獲得第1名
+sys_reward_exp_hsmm03_5_2nd	設定為5回合並獲得第2名
+sys_reward_exp_hsmm03_5_3rd	設定為5回合並獲得第3名
+sys_reward_exp_hsmm03_5_4th	設定為5回合並獲得第4名
+sys_reward_exp_hsmm03_10_1st	設定為10回合並獲得第1名
+sys_reward_exp_hsmm03_10_2nd	設定為10回合並獲得第2名
+sys_reward_exp_hsmm03_10_3rd	設定為10回合並獲得第3名
+sys_reward_exp_hsmm03_10_4th	設定為10回合並獲得第4名
+sys_reward_exp_hsmm03_15_1st	設定為15回合並獲得第1名
+sys_reward_exp_hsmm03_15_2nd	設定為15回合並獲得第2名
+sys_reward_exp_hsmm03_15_3rd	設定為15回合並獲得第3名
+sys_reward_exp_hsmm03_15_4th	設定為15回合並獲得第4名
+sys_reward_exp_hsmm04_3_win	在3勝規則下獲勝
+sys_reward_exp_hsmm04_5_win	在5勝規則下獲勝
+sys_reward_exp_hsmm04_10_win	在10勝規則下獲勝
+sys_reward_exp_hsmm04_3_lose	在3勝規則下落敗
+sys_reward_exp_hsmm04_5_lose	在5勝規則下落敗
+sys_reward_exp_hsmm04_10_lose	在10勝規則下落敗
+sys_reward_exp_hsmm05_stg1	關卡1過關
+sys_reward_exp_hsmm05_stg2	關卡2過關
+sys_reward_exp_hsmm05_stg3	關卡3過關
+sys_reward_exp_hsmm05_stg4	關卡4過關
+sys_reward_exp_hsmm05_stg5	關卡5過關
+sys_reward_exp_hsmm05_stg6	關卡6過關
+sys_reward_exp_hsmm06_duel_win	在決鬥小遊戲中獲勝
+sys_reward_exp_hsmm06_duel_lose	在決鬥小遊戲中沒有獲勝
+sys_reward_exp_bonus_friend	{color[ff3502ff]}線上獎勵{color[000000ff]}
+sys_reward_exp_takeout	獲得的經驗值
+sys_reward_exp_bonus_x	{color[ff3502ff]}×[0]{color[000000ff]}
+sys_unlock_mw_name	[0]
+sys_unlock_mw_type00	[0]的\r\n雙陸遊戲圖鑑、音樂與卡片設計\r\n已新增到奇諾比奧商店了！
+sys_unlock_mw_type01	[0]已被新增至\r\n角色圖鑑了！
+sys_unlock_mw_type02	[0]已被新增至\r\n3人挑戰賽了！
+sys_unlock_mw_type03	新的貼圖\r\n已新增到奇諾比奧商店了！
+sys_unlock_mw_type04	工作人員名單已解鎖！
+sys_unlock_mw_type05	新的卡片設計\r\n已新增到奇諾比奧商店了！
+sys_unlock_mw_type06	新的圖鑑頁面\r\n已新增到奇諾比奧商店了！
+sys_rank_userName	[0]
+sys_rank_bonus	[0]
+sys_rank_bonus_plus	+[0]
+sys_rank_bonus_minus	-[0]
+sys_rank_rivalName	[0]
+sys_rank_tier_s	S
+sys_rank_tier_a	A
+sys_rank_tier_b	B
+sys_rank_tier_c	C
+sys_rank_tier_d	D
+sys_rank_hsmg000_bonus00	獲勝
+sys_rank_hsmg000_bonus01	以弱勝強
+sys_rank_hsmg000_bonus02	失敗
+sys_rank_hsmg000_bonus03	平手
+sys_rank_hsmg501_bonus00	扣殺獎勵
+sys_rank_hsmg501_bonus01	漂亮攔網！
+sys_rank_hsmg501_bonus02	完美！
+sys_rank_hsmg502_bonus00	進球獎勵
+sys_rank_hsmg502_bonus01	漂亮攔阻！
+sys_rank_hsmg502_bonus02	帽子戲法
+sys_rank_hsmg502_bonus03	完美！
+sys_rank_hsmg503_bonus00	進球獎勵
+sys_rank_hsmg503_bonus01	多次進球！
+sys_rank_hsmg503_bonus02	完美射門！
+sys_rank_hsmg503_bonus03	帽子戲法
+sys_rank_hsmg503_bonus04	完美！
+sys_rank_hsmg601_bonus00	連擊獎勵
+sys_rank_hsmg601_bonus01	大獲全勝獎勵
+sys_rank_hsmg601_bonus02	勢均力敵獎勵
+sys_rank_hsmg602_bonus00	連擊獎勵
+sys_rank_hsmg602_bonus01	大獲全勝獎勵
+sys_rank_hsmg602_bonus02	勢均力敵獎勵
+sys_rank_hsmg603_bonus00	連擊獎勵
+sys_rank_hsmg603_bonus01	大獲全勝獎勵
+sys_rank_hsmg603_bonus02	勢均力敵獎勵
+sys_error_mw_B00	通訊已中斷。\r\n將切換成離線。
+sys_error_mw_B01	{color[ff3502ff]}{[0001|0400]}{size[8200]}[0]{size[6400]}{[0001|ffff]}{color[000000ff]}{color[110c1dff]}已中斷連線。{color[000000ff]}
+sys_error_mw_B02	{color[ff3502ff]}{[0001|0400]}{size[8200]}[0]{size[6400]}{[0001|ffff]}{color[000000ff]}{color[110c1dff]}已中斷連線。\r\n房間主人已變為{color[000000ff]}{color[ff3502ff]}{[0001|0400]}{size[8200]}[1]{size[6400]}{[0001|ffff]}{color[000000ff]}{color[110c1dff]}。{color[000000ff]}
+sys_error_mw_B03	通訊已中斷。\r\n將結束線上通訊。
+sys_error_mw_B05	連線已超時。
+sys_error_mw_B06	{color[ff3502ff]}{[0001|0400]}{size[8200]}[0]{size[6400]}{[0001|ffff]}{color[000000ff]}{color[110c1dff]}已中斷連線。\r\n由於房間主人已離開，\r\n所以由你繼承了此冒險。\r\n將在回合開始時創建中斷資料。{color[000000ff]}
+sys_error_mw_B07	通訊已中斷。
+sys_error_mw_B08	由於沒有參加者，\r\n所以將結束遊戲。
+sys_error_mw_C00	無法參加。
+sys_error_mw_C02	房間人數已達上限。\r\n請再次決定房間人數。
+sys_error_mw_D00	找不到房間。
+sys_error_mw_H01	找不到參加者。\r\n要再尋找一次嗎？
+sys_error_mw_H01_a0	尋找
+sys_error_mw_H01_a2	退出
+sys_error_mw_I00	無法取得排名資料。
+sys_error_mw_J00	尚未與Nintendo Switch Online\r\n應用程式連動，\r\n所以無法開始語音聊天。
+sys_error_mw_K00	無法進行語音聊天。
+sys_retry_play_team	VS
+sys_retry_play_stage	要遊玩哪個關卡？
+sys_retry_play_start	遊戲開始！
+sys_retry_play_normal	標準模式
+sys_retry_play_endless	永無止境模式
+sys_retry_play_next	下一步
+sys_pause_mgRank_header	過關等級條件
+sys_pause_mgRank_A	A
+sys_pause_mgRank_B	B
+sys_pause_mgRank_C	C
+sys_pause_mgRank_D	D
+sys_pause_mgRank_details	[0]
+sys_mgRank_hsmg102_3_A	剩下15秒以上
+sys_mgRank_hsmg102_3_B	剩下14～10秒
+sys_mgRank_hsmg102_3_C	剩下9～5秒
+sys_mgRank_hsmg102_3_D	剩下4～1秒
+sys_mgRank_hsmg111_3_A	90～81分\r\n（把生存時間換算成分數）
+sys_mgRank_hsmg111_3_B	80～61分
+sys_mgRank_hsmg111_3_C	60～41分
+sys_mgRank_hsmg111_3_D	40～30分
+sys_mgRank_hsmg106_3_A	剩下20秒以上
+sys_mgRank_hsmg106_3_B	剩下19～13秒
+sys_mgRank_hsmg106_3_C	剩下12～6秒
+sys_mgRank_hsmg106_3_D	剩下5～1秒
+sys_mgRank_hsmg113_3_A	剩下3人獲勝
+sys_mgRank_hsmg113_3_B	剩下2人獲勝
+sys_mgRank_hsmg113_3_C	剩下1個玩家獲勝
+sys_mgRank_hsmg113_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg109_3_A	剩下3人獲勝
+sys_mgRank_hsmg109_3_B	剩下2人獲勝
+sys_mgRank_hsmg109_3_C	剩下1位玩家獲勝
+sys_mgRank_hsmg109_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg101_3_A	剩下3人獲勝
+sys_mgRank_hsmg101_3_B	剩下2人獲勝
+sys_mgRank_hsmg101_3_C	剩下1位玩家獲勝
+sys_mgRank_hsmg101_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg114_3_A	剩下3人獲勝
+sys_mgRank_hsmg114_3_B	剩下2人獲勝
+sys_mgRank_hsmg114_3_C	剩下1位玩家獲勝
+sys_mgRank_hsmg114_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg110_3_A	玩家在10秒內使出攔阻
+sys_mgRank_hsmg110_3_B	玩家在20秒內使出攔阻\r\n或CPU在10秒內使出攔阻
+sys_mgRank_hsmg110_3_C	玩家在規定時間內使出攔阻\r\n或CPU在20秒內使出攔阻
+sys_mgRank_hsmg110_3_D	時間結束獲勝\r\n或CPU在時間內使出攔阻
+sys_mgRank_hsmg115_3_A	剩下3人獲勝
+sys_mgRank_hsmg115_3_B	剩下2人獲勝
+sys_mgRank_hsmg115_3_C	剩下1位玩家獲勝
+sys_mgRank_hsmg115_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg103_3_A	玩家在10秒內擊中
+sys_mgRank_hsmg103_3_B	玩家在20秒內擊中\r\n或CPU在10秒內擊中
+sys_mgRank_hsmg103_3_C	玩家在規定時間內擊中\r\n或CPU在20秒內擊中
+sys_mgRank_hsmg103_3_D	CPU在規定時間內擊中
+sys_mgRank_hsmg107_3_A	玩家在10秒內壓扁
+sys_mgRank_hsmg107_3_B	玩家在20秒內壓扁\r\n或CPU在10秒內壓扁
+sys_mgRank_hsmg107_3_C	玩家在規定時間內壓扁\r\n或CPU在20秒內壓扁
+sys_mgRank_hsmg107_3_D	CPU在規定時間內壓扁
+sys_mgRank_hsmg105_3_A	8秒內獲勝
+sys_mgRank_hsmg105_3_B	12秒內獲勝
+sys_mgRank_hsmg105_3_C	16秒內獲勝
+sys_mgRank_hsmg105_3_D	規定時間內獲勝
+sys_mgRank_hsmg112_3_A	剩下30～18秒
+sys_mgRank_hsmg112_3_B	剩下17～11秒
+sys_mgRank_hsmg112_3_C	剩下10～6秒
+sys_mgRank_hsmg112_3_D	剩下5～1秒\r\n或CPU射進所有球
+sys_mgRank_hsmg108_3_A	剩下3人獲勝
+sys_mgRank_hsmg108_3_B	剩下2人獲勝
+sys_mgRank_hsmg108_3_C	剩下1位玩家獲勝
+sys_mgRank_hsmg108_3_D	剩下1位CPU獲勝
+sys_mgRank_hsmg104_3_A	38秒內獲勝
+sys_mgRank_hsmg104_3_B	43秒內獲勝
+sys_mgRank_hsmg104_3_C	48秒內獲勝
+sys_mgRank_hsmg104_3_D	49秒以上獲勝
+sys_mgRank_hsmg102_1_A	300～150％\r\n（3人到終點的距離）
+sys_mgRank_hsmg102_1_B	149～100％
+sys_mgRank_hsmg102_1_C	99～50％
+sys_mgRank_hsmg102_1_D	49～1%
+sys_mgRank_hsmg111_1_A	剩下11秒以上\r\n並射中所有箭靶
+sys_mgRank_hsmg111_1_B	剩下11秒以上\r\n未射中所有箭靶並獲勝
+sys_mgRank_hsmg111_1_C	剩下10～5秒
+sys_mgRank_hsmg111_1_D	剩下4～1秒
+sys_mgRank_hsmg106_1_A	探出頭20秒以上
+sys_mgRank_hsmg106_1_B	探出頭15～19秒
+sys_mgRank_hsmg106_1_C	探出頭10～14秒
+sys_mgRank_hsmg106_1_D	探出頭5～9秒
+sys_mgRank_hsmg113_1_A	8秒內獲勝
+sys_mgRank_hsmg113_1_B	12秒內獲勝
+sys_mgRank_hsmg113_1_C	16秒內獲勝
+sys_mgRank_hsmg113_1_D	規定時間內獲勝
+sys_mgRank_hsmg109_1_A	15秒內獲勝
+sys_mgRank_hsmg109_1_B	20秒內獲勝
+sys_mgRank_hsmg109_1_C	25秒內獲勝
+sys_mgRank_hsmg109_1_D	規定時間內獲勝
+sys_mgRank_hsmg101_1_A	剩下30～21秒
+sys_mgRank_hsmg101_1_B	剩下20～11秒
+sys_mgRank_hsmg101_1_C	剩下10～6秒
+sys_mgRank_hsmg101_1_D	剩下5～1秒
+sys_mgRank_hsmg114_1_A	在2回合內找出所有人
+sys_mgRank_hsmg114_1_B	在3回合內找出所有人
+sys_mgRank_hsmg114_1_C	無
+sys_mgRank_hsmg114_1_D	無
+sys_mgRank_hsmg110_1_A	15秒內達陣得分
+sys_mgRank_hsmg110_1_B	20秒內達陣得分
+sys_mgRank_hsmg110_1_C	25秒內達陣得分
+sys_mgRank_hsmg110_1_D	規定時間內達陣得分
+sys_mgRank_hsmg115_1_A	2回合內獲勝
+sys_mgRank_hsmg115_1_B	在第3回合獲勝
+sys_mgRank_hsmg115_1_C	在第4回合獲勝
+sys_mgRank_hsmg115_1_D	在第5回合獲勝
+sys_mgRank_hsmg103_1_A	獲勝
+sys_mgRank_hsmg103_1_B	無
+sys_mgRank_hsmg103_1_C	無
+sys_mgRank_hsmg103_1_D	無
+sys_mgRank_hsmg107_1_A	獲勝
+sys_mgRank_hsmg107_1_B	無
+sys_mgRank_hsmg107_1_C	無
+sys_mgRank_hsmg107_1_D	無
+sys_mgRank_hsmg105_1_A	8秒內獲勝
+sys_mgRank_hsmg105_1_B	12秒內獲勝
+sys_mgRank_hsmg105_1_C	16秒內獲勝
+sys_mgRank_hsmg105_1_D	規定時間內獲勝
+sys_mgRank_hsmg112_1_A	失去0～2分
+sys_mgRank_hsmg112_1_B	失去3～4分
+sys_mgRank_hsmg112_1_C	失去5～7分
+sys_mgRank_hsmg112_1_D	失去8～9分
+sys_mgRank_hsmg108_1_A	在到達第1個樹樁前獲勝
+sys_mgRank_hsmg108_1_B	在到達第2個跳台前獲勝
+sys_mgRank_hsmg108_1_C	在終點附近的柵欄前獲勝
+sys_mgRank_hsmg108_1_D	在抵達終點前獲勝
+sys_mgRank_hsmg104_1_A	無任何失誤抵達終點
+sys_mgRank_hsmg104_1_B	失誤1次以內抵達終點
+sys_mgRank_hsmg104_1_C	失誤2次以內抵達終點
+sys_mgRank_hsmg104_1_D	失誤3次以內抵達終點
+sys_pause_bd00_text01	如果想要延長遊玩時間，\r\n可以進行一次回合延長，讓回合數增加。\r\n不過，在最後回合時無法進行延長。
+sys_pause_bd00_text02	和朋友遊玩時，\r\n只有創建房間的人可以進行回合延長。
+sys_pause_bd00_text03	一旦進行回合延長，\r\n在最後5回合才有的變化，如決鬥、\r\n格子上金幣數量的增減等，將全部恢復原狀。
+sys_pause_bd00_text04	地圖上的黃色小圓點，是星星兌換所的候補地點。\r\n當奇諾比珂飛起來的時候，\r\n必定會降落到其中一個黃色小圓點上。
+sys_pause_bd00_text05	在雙陸遊戲，按鍵都能發送貼圖。\r\n快去確認看看有什麼貼圖吧。\r\n有時候也可以推動來更改喔。
+sys_pause_bd01_text00	在美味的蛋糕上收集星星！\r\n但是，在決定出超級巨星之前，\r\n不能偷吃蛋糕喔。
+sys_pause_bd01_text01	用草莓來裝飾吧。\r\n小草莓要5金幣，大草莓要30金幣。\r\n各自會幫忙奪取金幣或星星回來。
+sys_pause_bd01_text02	栗寶寶的籤一定會中獎1次。\r\n如果之前都沒人中獎，\r\n那麼剩下的那1個種子絕對會中獎。
+sys_pause_bd01_text03	如果停在自己用草莓裝飾過的格子上，\r\n就可以獲得金幣，草莓也不會消失。
+sys_pause_bd01_text04	小草莓非常有精神，\r\n在奪取他人的金幣後，\r\n也有可能不會消失。
+sys_pause_bd01_text05	這個蛋糕的正中央\r\n有一頂巧克力皇冠。\r\n成為超級巨星後，或許就能得到它。
+sys_pause_bd01_text06	庫巴身處的地方是一個\r\n有滿滿香蕉並淋上焦糖醬的大布丁。\r\n說不定哪天庫巴會忍不住把它吃掉呢。
+sys_pause_bd02_text00	如何不被庫巴炮擊中，\r\n就是在宇宙站獲勝的關鍵。
+sys_pause_bd02_text01	如果被庫巴炮擊中，就會失去所有的金幣。\r\n所以絕對不能被擊中喔。
+sys_pause_bd02_text02	對於違規超速的人，熱心工作的\r\n木喬巡警會追查到天涯海角。
+sys_pause_bd02_text03	當中央的數字倒數到「1」的時候就要注意了。\r\n看清楚危險的路線，趕快逃跑吧。
+sys_pause_bd02_text04	狂奔的太空船上\r\n坐著砰砰或咚咚。
+sys_pause_bd02_text05	好像有UFO墜落在某個地方了。\r\n到底發生什麼事了呢？
+sys_pause_bd02_text06	聽說庫巴炮是透過\r\n太陽能板提供的能量運作的。
+sys_pause_bd03_text00	這是在森林深處的地圖。\r\n幾乎所有進入這片森林的人都會迷路，\r\n要謹慎地前進喔。
+sys_pause_bd03_text01	告示板上的箭頭會不斷地改變方向。\r\n如果沒有仔細確認就前進的話，\r\n可能會繞到很遠很遠的地方喔。
+sys_pause_bd03_text02	巨大的樹會掉下果實。\r\n接住自己喜歡的果實，就會有事情發生。
+sys_pause_bd03_text03	森林的盡頭很可疑。有可疑的樹，\r\n就一定會有可疑的事情發生吧。
+sys_pause_bd03_text04	這裡是綠意盎然的森林。\r\n有很多動物居住在這裡，\r\n不過動物們好像偶爾也會迷路。
+sys_pause_bd03_text05	只要給黃鼴鼠金幣，\r\n牠就會幫你改變箭頭的方向。\r\n不過每次需要的金幣數量會隨著牠的心情而改變。
+sys_pause_bd03_text06	大樹贈送的果實。\r\n掉下來的2顆果實種類不一樣，\r\n看來1個跟金幣有關，另1個跟骰子有關呢。
+sys_pause_bd04_text00	來回穿梭兩座島！\r\n只前往星星所在的島是無法獲勝的。\r\n一面預測接下來會發生的事，一面前進吧。
+sys_pause_bd04_text01	玩家可以隨意調高咚咚的通行費，\r\n但是只能往上調，不能往下調。\r\n所以要小心不要調得太高喔。
+sys_pause_bd04_text02	因為大嘴魚的惡作劇，\r\n星星的位置會在兩座島之間換來換去。\r\n如果星星在眼前，就趕快去獲取吧。
+sys_pause_bd04_text03	兩座耀西形狀的島。\r\n有很多西瓜的是西瓜島。\r\n這種命名方式還真隨意啊。
+sys_pause_bd04_text04	兩座耀西形狀的島。\r\n有很多哈密瓜的是哈密瓜島。\r\n這種命名方式還真好記啊。
+sys_pause_bd04_text05	在盡頭處有一艘壞掉的船。\r\n雖然不知道它在那裡多久了，\r\n不過據說那是一艘運送水果的船。
+sys_pause_bd04_text06	西瓜、哈密瓜、蘋果跟香蕉……\r\n還有很多奇形怪狀的水果。\r\n聽說成為超級巨星後，就能吃水果吃到飽喔。
+sys_pause_bd05_text00	到了晚上，鬼怪們就會聚集在一起！\r\n白天靠近鬼怪可能出沒的地方，\r\n到了晚上，應該就能遇到了。
+sys_pause_bd05_text01	砰砰到了晚上就會動彈不得。\r\n如果不趁著白天通過，\r\n晚上可能就無法往想走的方向前進。
+sys_pause_bd05_text02	如果要讓哎哎將自己傳送到別處，\r\n推薦到了晚上再去找它，因為這樣會比較便宜。
+sys_pause_bd05_text03	雖然鬼怪到了晚上才會聚集，\r\n但有一個地方，白天就會出現害羞幽靈喔。\r\n那個地方是哪裡呢？
+sys_pause_bd05_text04	卡美克的洋館每到晚上就會傳出很大的喧鬧聲。\r\n裡面的人整晚都在做什麼呢？\r\n聽說開始喧鬧後，沒多久就會天亮了。
+sys_pause_bd05_text05	白天完全不會動的鞦韆\r\n到了晚上就會自己動起來。\r\n而且鞦韆上沒有任何人，好可怕啊。
+sys_pause_bd05_text06	如果停在哎哎的通道上，\r\n可能會被波及而傳送到別的地方。\r\n竟然可以免費傳送，真是太幸運了。
+sys_pause_hsmm01_text00	可以隨意遊玩100個小遊戲。\r\n要好好練習喔。
+sys_pause_hsmm01_text01	先在這裡好好練習，\r\n再跟世界各地的人對戰吧。
+sys_pause_hsmm01_text02	可以隨意遊玩\r\n自己喜歡的小遊戲。\r\n盡情享受遊玩的樂趣吧。
+sys_pause_hsmm02_text00	可以遊玩緊張刺激的運動遊戲，\r\n也可以悠閒地遊玩益智遊戲。
+sys_pause_hsmm02_text01	遊玩2vs2運動遊戲，\r\n體驗一場掌心冒汗的熱血對戰吧。
+sys_pause_hsmm02_text02	用對戰益智遊戲進行激烈的頭腦戰。\r\n使盡全力，贏得勝利吧。
+sys_pause_hsmm02_text03	可以在高分挑戰中慢慢遊玩。\r\n這是一場跟自己的戰鬥。
+sys_pause_hsmm03_text00	根據小遊戲的排名獲得金幣。\r\n總之多多收集金幣吧！
+sys_pause_hsmm03_text01	可以直接得到\r\n在金幣小遊戲中獲得的金幣。\r\n這是多多收集金幣的好機會喔。
+sys_pause_hsmm03_text02	獎勵小遊戲的金幣是平常的2倍。\r\n這是反敗為勝的好機會！
+sys_pause_hsmm04_text00	2vs2的分隊對戰！\r\n2人相互配合，一起戰鬥吧！
+sys_pause_hsmm04_text01	2人的羈絆將受到考驗。\r\n想要獲勝，就要多為他人著想。
+sys_pause_hsmm04_text02	2人同心協力面對一切困難，\r\n一起贏得勝利吧。
+sys_pause_hsmm05_3_text00	3人同心協力，在1vs3小遊戲中，\r\n以全勝為目標吧！
+sys_pause_hsmm05_3_text01	失敗就會結束！\r\n3人同心協力，一起贏得勝利吧。
+sys_pause_hsmm05_1_text00	在1vs3小遊戲中，與3位敵人對抗，\r\n以全勝為目標吧！
+sys_pause_hsmm05_1_text01	失敗就會結束！\r\n戰勝擋在前面的3人，一路過關斬將吧。
+sys_pause_hsmm06_text00	以第1名為目標，與世界各地的人對戰！\r\n失敗就會結束，所以要一直贏下去喔！
+sys_pause_hsmm06_text01	你的實力到哪裡？\r\n向全世界發起挑戰吧！
+sys_pause_hsmm06_text02	在與世界各地的人激烈的對戰中獲勝，\r\n向全世界展示自己的實力吧。
+sys_pause_hsmm07_text00	以每日推薦的小遊戲組合包\r\n與世界各地的人一決勝負。
+sys_pause_hsmm07_text01	仔細查看，小心不要錯過了。\r\n錯過的話，就只能靠運氣了。
+sys_pause_hsmm07_text02	快速過關小遊戲，\r\n以比其他人更快的速度獲勝吧。
+sys_pause_hsmm07_text03	比對手收集更多的金幣，\r\n贏得勝利吧。
+sys_pause_hsmm07_text04	努力比對手生存得更久，\r\n能生存到最後就獲勝。
+sys_pause_hsmm07_text05	仔細觀察就是勝利的關鍵。\r\n仔細觀察，好好思考吧。
+sys_pause_hsmm07_text06	只屬於2人的正式比賽。\r\n冠軍只有1個。
+sys_pause_hsmm07_text07	比其他人更快跑完全程吧。\r\n預備備……起！
+sys_pause_hsmm07_text08	對手不一定只有3人。\r\n比其他人生存得更久吧。
+sys_pause_hsmm07_text09	1vs3的小遊戲。\r\n不要放棄，贏得勝利吧。
+sys_pause_hsmm07_text10	一直跳躍，\r\n比其他人跳得更高更多吧。
+sys_pause_hsmm07_text11	雖然不是運動小遊戲，\r\n但這些遊戲也都是名副其實的運動。
+sys_pause_hsmm07_text12	1vs3的金幣小遊戲。\r\n多多收集金幣吧。
+sys_pause_hsmm07_text13	讓對手掉下去的同時，\r\n自己則要避免掉下去。
+sys_pause_hsmm07_text14	你的技巧就是獲勝的關鍵。\r\n用精密的操作贏得勝利吧。
+sys_pause_hsmm07_text15	追趕別人，被別人追趕……\r\n不讓對手逃掉，自己則要努力逃跑。
+sys_pause_hsmm07_text16	在妨礙對手的同時，\r\n要想盡辦法生存到最後，獲得勝利。
+sys_pause_hsmm07_text17	仔細查看，迅速做出決定吧。\r\n反應速度很重要。
+sys_pause_hsmm07_text18	總之就是要好好瞄準。\r\n擊中對手，贏得勝利吧。
+sys_pause_hsmm07_text19	比其他人收集得更多。\r\n收集到最多的人就獲勝。
+sys_pause_hsmm07_text20	緊張刺激的互相推擠。\r\n推開對手，贏得勝利吧。
+sys_pause_hsmm07_text21	1vs3的小遊戲。\r\n越危險就要越冷靜。
+sys_checkNetwork_mw00	正在連接網路
+sys_check_Network_first	連接網路後，玩家的資料\r\n可能會在遊戲內或網站上公開。
+sys_check_Network_first_2	線上遊玩適用於\r\n「Nintendo Account使用條款」。\r\n請遵從使用條款，\r\n遊玩時請多體諒\r\n其他玩家的感受。
+sys_check_Network_first_a0	連接
+sys_check_Network_first_a1	不連接
+sys_check_Network_ver	更新軟體後，\r\n才能進行線上遊玩。
+sys_password_host_header	設定密碼
+sys_password_host_order	請設定4位數的密碼。
+sys_password_host_enter	OK
+sys_password_client_header	輸入密碼
+sys_password_client_order	請輸入4位數的密碼。
+sys_password_client_enter	OK
+sys_roomID_header	輸入房間ID
+sys_roomID_order	請輸入房間ID。
+sys_roomID_enter	OK
+inst_hsmg901_rule	請用鎚子敲擊，\r\n讓火箭起飛！
+inst_hsmg901_ctrl00	連按向上舉起
+inst_hsmg901_ctrl01	敲擊
+inst_hsmg902_rule	請朝著裡面裝有\r\n想要的道具的氣球射箭！
+inst_hsmg902_ctrl00	射箭
+inst_hsmg903_rule	請讓它正好停在\r\n想要的道具上！
+inst_hsmg903_ctrl00	按下開關
+inst_hsmg904_rule	請從鞦韆跳到木桶上！
+inst_hsmg904_ctrl00	跳躍
+inst_hsmg905_rule	請不要錯過裝有\r\n想要的道具的木桶！
+inst_hsmg905_ctrl00	移動
+inst_hsmg905_ctrl01	出拳
+sys_ctrlSp_mes	要結束遊戲嗎？
+sys_ctrlSp_mes_a0	結束
+sys_ctrlSp_mes_a1	返回
+sys_bdM_save_tlp	已儲存
+sys_RTT_high_tlp	通訊狀態不穩定
+mn_friend_mw_search	正在尋找房間……
+sys_random_AFK_mw00	因為有一段時間沒有進行操作，\r\n所以通訊已中斷。\r\n{size[5000]}{color[4b465aff]}※無法再次入場。{color[000000ff]}{size[6400]}
+test.msbt
+test	テストテスト
+test_1449_2	testtesttestestesttestsetestestestestestestesttsetestt\r\ntesttesttestestesttestsetestestestestestestesttsetestt\r\ntesttesttestestesttestsetestestestestestestesttsetestt
+test_1449_3	testtesttestestesttestsetestestestestestestesttse{size[5500]}\r\n{size[6400]}testtesttestestesttestsetestestestestestesteetset{size[5500]}\r\n{size[6400]}testtesttestestesttestsetestestestesttestestestest
+test_1478_correct	{size[8200]}{[0001|0400]}{color[ff3502ff]}[0]{size[6400]}\r\n{size[8200]}{color[000000ff]}{[0001|ffff]}{size[6400]}{color[110c1dff]}{size[6400]}{[0001|0200]}desconectou-se.\r\n{[0001|ffff]}{size[6400]}{size[8200]}{[0001|0400]}{color[ff3502ff]}[1]{size[6400]}\r\n{size[8200]}{color[110c1dff]}{[0001|ffff]}{size[6400]}{size[6400]}passou a ser o jogador principal.{size[6400]}{color[000000ff]}
+test_1478_incorrect	{size[8200]}{[0001|0400]}{color[ff3502ff]}[0]\r\n{color[000000ff]}{[0001|ffff]}{size[6400]}{color[110c1dff]}desconectou-se.\r\n{size[8200]}{[0001|0400]}{color[ff3502ff]}[1]\r\n{color[110c1dff]}{[0001|ffff]}{size[6400]}passou a ser o jogador principal.{color[000000ff]}

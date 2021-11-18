@@ -71,7 +71,7 @@ DLP_adventure_note_020_01	座落在\t<color=#F01E1EFF>\t２２１號道路\t</co
 DLP_adventure_note_020_02	在地下大洞窟內挖出的\t<color=#F01E1EFF>\t謎之碎片\t</color>\t\t可以在\t<color=#F01E1EFF>\t玫瑰公園\t</color>\t交換成\t<color=#F01E1EFF>\t石板\t</color>\t。\t<color=#F01E1EFF>\t石板\t</color>\t會在\t<color=#F01E1EFF>\t玫瑰公園\t</color>\t內各處的房間使用到。
 DLP_adventure_note_020_03	各個房間裡擺放著台座。\t若使用跟台座吻合的\t<color=#F01E1EFF>\t石板\t</color>\t，\t你將被引導至別的空間。\t在那個空間裡，能遇見傳說的寶可夢！
 DLP_adventure_note_021_00	聯盟交誼廳
-DLP_adventure_note_021_01a	在\t<color=#F01E1EFF>\t聯盟交誼廳\t</color>\t裡可透過鄰近主機通訊及網路\t和其他的玩家交換寶可夢或對戰。\t按下\t<color=#F01E1EFF>\tＹ鍵\t</color>\t或從\t<color=#F01E1EFF>\t寶可夢中心\t</color>\t的櫃台\t可以進入聯盟交誼廳。
+DLP_adventure_note_021_01a	在\t<color=#F01E1EFF>\t聯盟交誼廳\t</color>\t裡，能透過鄰近主機通訊\t和網路跟其他的玩家交換寶可夢或對戰。\t從\t<color=#F01E1EFF>\t寶可夢中心\t</color>\t的櫃台\t可以進入聯盟交誼廳。
 DLP_adventure_note_021_02	若要和身邊的玩家一起玩，\t就用鄰近主機通訊進入\t<color=#F01E1EFF>\t社群交誼廳\t</color>\t。\t連上網路進入\t<color=#F01E1EFF>\t全球交誼廳\t</color>\t的話，\t可以跟全世界的玩家一起遊玩！
 DLP_adventure_note_022_00	GMStation
 DLP_adventure_note_022_01	在\t<color=#F01E1EFF>\t祝慶市\t</color>\t的\t<color=#F01E1EFF>\t全球奇跡交換中心\t</color>\t\t能跟全世界的玩家\t<color=#F01E1EFF>\t奇跡交換\t</color>\t。\t在交換完成之前，你不會知道\t自己將換到什麼寶可夢！
@@ -95,6 +95,7 @@ DLP_adventure_note_015_simplified	從包包的重要物品裡\t使用探險組�
 DLP_adventure_note_021_01b	在\t<color=#F01E1EFF>\t聯盟交誼廳\t</color>\t裡可透過鄰近主機通訊\t和附近的玩家交換寶可夢。\t聯盟交誼廳可從\t<color=#F01E1EFF>\t寶可夢中心\t</color>\t的櫃台進入。
 DLP_adventure_note_021_simplified	從寶可夢中心進入聯盟交誼廳！\t跟其他玩家交流吧！
 DLP_adventure_note_022_simplified	在GMStation進行奇跡交換，\t製作專屬於自己的地球儀吧！
+DLP_adventure_note_021_01a_patch1	在\t<color=#F01E1EFF>\t聯盟交誼廳\t</color>\t裡，能透過鄰近主機通訊\t和網路跟其他的玩家交換寶可夢。\t從\t<color=#F01E1EFF>\t寶可夢中心\t</color>\t的櫃台\t可以進入聯盟交誼廳。
 trad_chinese_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	―\t―\t―
 CONTESTWAZA_INFO_001	沒有追加效果。
@@ -217,7 +218,6 @@ DLP_net_union_room_025	未招募到足夠的成員。
 DLP_net_union_room_026	正在進行分組。
 DLP_net_union_room_027	要參加多人對戰嗎？
 DLP_net_union_room_028	抱歉啊，名額已經滿了。\t請下次再來喔。
-DLP_net_union_room_029	您的ID將會被對方看到。\t確定要繼續嗎？
 DLP_net_union_room_030	您好。初次見面！
 DLP_net_union_room_031	即將取消對戰。\t確定要繼續嗎？
 DLP_net_union_room_032	現在將移動到全球交誼廳。
@@ -227,7 +227,7 @@ DLP_net_union_room_035	已經移動到社群交誼廳。
 DLP_net_union_room_036	我明白了。\t您現在是想對戰的心情吧。\t我會盡量為您尋找相同心情的朋友。
 DLP_net_union_room_037	我明白了。\t您現在是想交換的心情吧。\t我會盡量為您尋找相同心情的朋友。
 DLP_net_union_room_038	我明白了。\t您現在是什麼都想做的心情吧。\t我會盡量為您尋找相同心情的朋友。
-DLP_net_union_room_039	要參加對戰嗎？
+DLP_net_union_room_039	要以這個規則進行對戰嗎？
 DLP_net_union_room_040	紀錄混合
 DLP_net_union_room_041	請選擇對戰隊伍。
 DLP_net_union_room_042	由２位玩家參加。\t雙方各派出１隻寶可夢\t上場進行對戰。\t對戰開始前，雙方的寶可夢\t會在混合後被重新分配。
@@ -240,14 +240,13 @@ DLP_net_union_room_048	只能與同一個群組內的人連線。
 DLP_net_union_room_049	唉呀？您好像沒有加入群組喔。\t請先加入群組再使用本功能。
 DLP_net_union_room_050	設定密語的話，就能只跟\t設定了相同密語的人連線。
 DLP_net_union_room_051	這位客人，這邊請！
-DLP_net_union_room_052	沒辦法從這裡進入社群交誼廳！\t請移動到別的地方。
 DLP_net_union_room_053	要使用全球交誼廳嗎？
 DLP_net_union_room_054	要使用社群交誼廳嗎？
 DLP_net_union_room_055	現在將重新進入社群交誼廳。
 DLP_net_union_room_056	即將離開社群交誼廳。\t確定要繼續嗎？
 DLP_net_union_room_057	即將離開全球交誼廳。\t確定要繼續嗎？
 DLP_net_union_room_061	訓練家們可以欣賞彼此的球殼裝飾。\t把自己想展示的球殼裝飾\t放到列表的最前面吧！\t對方設計的球殼裝飾是什麼樣子，\t一定很讓人好奇對不對！\t您可以將喜歡的球殼裝飾\t複製到自己的列表。\t所以請試試看吧！
-DLP_net_union_room_064	對手：\t
+DLP_net_union_room_064	對手
 DLP_net_union_room_065	我是\t\t！
 DLP_net_union_room_066	我是\t\t！
 DLP_net_union_room_067	\t正在選擇要做的事。
@@ -261,7 +260,6 @@ DLP_net_union_room_074	要加入混合紀錄嗎？
 DLP_net_union_room_075	對方將看到您的ＩＤ。\t確定要繼續嗎？
 DLP_net_union_room_076	讓\t\t久等了！\t來，這是我的訓練家卡！
 DLP_net_union_room_077	讓\t\t久等了！\t來，這是我的訓練家卡！
-DLP_net_union_room_078	確定不看訓練家卡了嗎？
 DLP_net_union_room_079	沒有設計過的球殼。
 DLP_net_union_room_080	那就讓\t\t看看\t我的球殼裝飾吧！
 DLP_net_union_room_081	那就讓\t\t看看\t我的球殼裝飾吧！
@@ -269,7 +267,6 @@ DLP_net_union_room_082	啊！我還沒裝飾好球殼。\t抱歉！還是下次�
 DLP_net_union_room_083	啊！我還沒裝飾好球殼。\t抱歉！還是下次吧。
 DLP_net_union_room_084	讓\t\t久等了！\t來，這是我的球殼裝飾！
 DLP_net_union_room_085	讓\t\t久等了！\t來，這是我的球殼裝飾！
-DLP_net_union_room_086	確定不看球殼裝飾了嗎？
 DLP_net_union_room_087	要複製\t\t的球殼裝飾嗎？
 DLP_net_union_room_088	請選擇要用於複製的球殼。
 DLP_net_union_room_089	確定要複製到這個球殼上嗎？
@@ -280,7 +277,7 @@ DLP_net_union_room_093	現在將重新進入社群交誼廳。
 DLP_net_union_room_094	欣賞彼此的球殼裝飾真有趣！
 DLP_net_union_room_095	欣賞彼此的球殼裝飾真有趣！
 DLP_net_union_room_096	我正在給其他人看\t我的訓練家卡當作問候。
-DLP_net_union_room_097	沒有球殼裝飾。
+DLP_net_union_room_097	還無法使用球殼裝飾。
 DLP_net_union_room_098	沒有未貼貼紙的球殼。
 DLP_net_union_room_099	確定要進行單打對戰嗎？
 DLP_net_union_room_100	確定要進行雙打對戰嗎？
@@ -289,7 +286,15 @@ DLP_net_union_room_102	確定要進行多人對戰嗎？
 DLP_net_union_room_103	離開
 DLP_net_union_room_058	聽說明
 DLP_net_union_room_104	歡迎來到社群交誼廳！\t請多跟大家交換寶可夢，\t享受其中的樂趣喔！
-DLP_net_union_room_105	已中止交換。
+DLP_net_union_room_063	規則
+DLP_net_union_room_106	社群交誼廳
+DLP_net_union_room_107	全球交誼廳
+DLP_net_union_room_108	下一頁
+DLP_net_union_room_109	：\t
+DLP_net_union_room_110	：\t
+DLP_net_union_room_111	聯盟交誼廳
+DLP_net_union_room_112	沒有可以用來交換的寶可夢。
+DLP_net_union_room_113	\t正在更改規則。
 trad_chinese_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	能感受到神奇力量的小碎片。\t碎片中浮現著像是玫瑰花的花紋。
@@ -620,7 +625,7 @@ DLP_SPEAKERS_NAME_072	遊戲總監
 DLP_SPEAKERS_NAME_073	赤日
 DLP_SPEAKERS_NAME_074	ＤＪ
 DLP_SPEAKERS_NAME_075	專家
-DLP_SPEAKERS_NAME_076	熱情愛好者
+DLP_SPEAKERS_NAME_076	愛好者
 DLP_SPEAKERS_NAME_077	隊長
 DLP_SPEAKERS_NAME_078	播報員
 DLP_SPEAKERS_NAME_079	鑑定師
@@ -1283,6 +1288,9 @@ DLP_staff_list_623	Pokémon.
 DLP_staff_list_624	Nintendo
 DLP_staff_list_625	Creatures Inc.
 DLP_staff_list_626	GAME FREAK inc.
+DLP_staff_list_627	OrgoSoft Co., Ltd.
+DLP_staff_list_628	Masahiro Hayakawa
+DLP_staff_list_629	Takuya Ishizuki
 trad_chinese_dlp_stickers.txt
 DLP_stickers_001	球殼裝飾
 DLP_stickers_002	請選擇球殼
@@ -1307,7 +1315,6 @@ DLP_stickers_020	調換
 DLP_stickers_021	取消
 DLP_stickers_024	球殼已調換。
 DLP_stickers_025	這個球殼無法貼貼紙。
-DLP_stickers_026	已移除\t\t的球殼。
 DLP_stickers_027	沒有任何能夠貼的貼紙。
 DLP_stickers_028	要複製到這個球殼上嗎？
 DLP_stickers_029	這個球殼已被貼上貼紙，無法複製。
@@ -1620,7 +1627,7 @@ DLP_underground_610	將\t\t個\t\t\t放入了探險組合。
 DLP_underground_611	登錄
 DLP_underground_736	\t/10
 DLP_underground_737	×\t
-DLP_underground_612	要透過哪一種通訊方式\t進去地下大洞窟呢？
+DLP_underground_612	要透過哪種模式\t進去地下大洞窟呢？
 DLP_underground_613	可以和鄰近的朋友\t透過通訊一起玩。\t要進去地下大洞窟嗎？
 DLP_underground_614	還未加入群組。\t請先加入群組再利用本服務。
 DLP_underground_615	呼喚
@@ -1637,6 +1644,12 @@ DLP_underground_623	讚！
 DLP_underground_624	我現在想去挖掘化石……\t如果\t\t能在旁邊和我攜手合挖，\t我會很開心的！
 DLP_underground_625	我現在想去挖掘化石……\t如果\t\t能在旁邊和我攜手合挖，\t我會很開心的！
 DLP_underground_498_footer	石像效果
+DLP_underground_757	可以和世界各地的朋友\t透過網路一起玩。\t要進去地下大洞窟嗎？
+DLP_underground_758	\t進入地下大洞窟了。
+DLP_underground_759	\t回到了地面上。
+DLP_underground_508	<color=#0064FFFF>\t關閉\t</color>\t效果
+DLP_underground_511	已\t<color=#0064FFFF>\t關閉\t</color>\t秘密基地的效果。
+DLP_underground_760	已經有人在這裡\t挖掘化石。
 DLP_underground_626	聽說一起挖掘化石的話，\t效率更好呢！\t可以的話我們一起挖吧！
 DLP_underground_627	聽說一起挖掘化石的話，\t效率更好呢！\t可以的話我們一起挖吧！
 DLP_underground_153	那\t\t要用哪一種玉來和\t\t交換呢？
@@ -1778,7 +1791,6 @@ DLP_underground_418	取消
 DLP_underground_419	台座
 DLP_underground_420	玉
 DLP_underground_421	石像
-DLP_underground_422	要用哪一種模式來玩呢？
 DLP_underground_423	鄰近主機通訊
 DLP_underground_424	網路連線
 DLP_underground_425	一人遊玩
@@ -1865,7 +1877,7 @@ DLP_underground_505	收拾
 DLP_underground_506	查看效果
 DLP_underground_507	<color=#F01E1EFF>\t開啟\t</color>\t效果
 DLP_underground_745	<color=#F01E1EFF>\t更新\t</color>\t效果
-DLP_underground_509	已\t<color=#F01E1EFF>\t開啟\t</color>\t秘密基地的效果
+DLP_underground_509	已\t<color=#F01E1EFF>\t開啟\t</color>\t秘密基地的效果。
 DLP_underground_660	我剛剛捉到的寶可夢，\t一定是非常稀有的寶可夢喔！
 DLP_underground_747	沒有石像！
 DLP_underground_661	我剛剛捉到的寶可夢，\t一定是非常稀有的寶可夢喔！
@@ -2027,7 +2039,7 @@ DLP_underground_732	\t:\t
 DLP_underground_733	
 DLP_underground_734	/\t
 DLP_underground_739	地鼠與三地鼠出現！\t試著找找看吧！
-DLP_underground_738	在地下大洞窟感覺會有好事發生！\t嘗試看看各式各樣的活動吧！
+DLP_underground_738	在地下大洞窟感覺會有好事發生！
 DLP_underground_740	由於收集到了\t\t個光石，\t獲得了\t\t！
 DLP_underground_741	\t　（\t\t）
 DLP_underground_742	玉不夠！
@@ -3334,7 +3346,7 @@ DP_contest_272	退出
 DP_contest_273	期待您的再次參加！
 DP_contest_274	要參加連線華麗大賽嗎？
 DP_contest_280	超級華麗大賽共有５種類別！\t分別是帥氣、美麗、可愛、\t聰明，還有強壯類別！！\t請您為要出場的寶可夢\t選擇最適合牠的類別！
-DP_contest_281	超級華麗大賽共有普通級、高手級、\t究極級、大師級等４個級別。\t舉例來說，在普通級帥氣華麗大賽\t演出成功的話，\t就能參加高手級帥氣華麗大賽。\t同樣地，在下個級別演出成功的話，\t將依序得到究極級、大師級的參加資格。\t希望\t\t以帥氣、美麗、可愛、聰明、\t強壯等所有類別的大師級為目標！
+DP_contest_281	超級華麗大賽共有普通級、高手級、\t究極級、大師級等４個級別。\t舉例來說，在普通級帥氣華麗大賽\t演出成功的話，\t就能參加高手級帥氣華麗大賽。\t同樣地，在下個級別演出成功的話，\t將依序得到究極級、大師級的參加資格。\t希望您以帥氣、美麗、可愛、聰明、\t強壯等所有類別的大師級為目標！
 DP_contest_282	要讓哪一隻寶可夢參加呢？
 DP_contest_283	請選擇寶可夢。
 DP_contest_284	那麼，我將為您的寶可夢報名參加！\t牠的參加編號是\t\t號！
@@ -3546,7 +3558,7 @@ DP_contest_683	要結束連線華麗大賽嗎？
 DP_contest_684	請加油喔！
 DP_contest_691	確定
 DP_contest_692	在此為您送上\t\t\t作為獎品！
-DP_contest_693	此外，為了紀念您在所有華麗大賽中\t都成為了最佳表演者，\t我們將致贈\t\t！\t非常恭喜您！
+DP_contest_693	這一次，為了紀念您在所有華麗大賽中\t都成為了最佳表演者，\t我們將致贈\t\t！\t非常恭喜您！
 trad_chinese_dp_fld_areaname.txt
 DP_fld_arenames_000	神秘的地方
 DP_fld_arenames_001	GMStation
@@ -4324,11 +4336,11 @@ trad_chinese_dp_net_communication.txt
 2-mes_dstrade_endstr	退出
 3-msg_pcug_01_01	客人，這邊請！
 3-msg_pcug_01_02	\t好！\t我是寶可夢全球俱樂部的說明負責人，\t我叫青名。
-3-msg_pcug_01_03	在本俱樂部中，您可以使用網路\t與全世界的訓練家一同享受對戰\t或是交換寶可夢的樂趣。\t需要更詳細的說明嗎？
+3-msg_pcug_01_03	在本俱樂部中，您可以使用網路\t與全世界的訓練家一同享受寶可夢對戰\t或是交換寶可夢的樂趣。\t只要按下Ｙ鍵，\t隨時都可以進入聯盟交誼廳！\t不過，也有些地方無法使用，\t例如室內、迷宮內等等。\t需要更詳細的說明嗎？
 3-msg_pcug_01_05	那麼祝您在全球交誼廳玩得盡興！
-3-msg_pcug_01_06	歡迎來到寶可夢中心的全球俱樂部！\t您需要協助嗎？
-3-msg_pcug_01_07	那麼請讓我來做一下\t寶可夢全球俱樂部的說明！\t您可以從左邊２個櫃台\t進入全球交誼廳！\t在全球交誼廳中，\t您可以與全世界的訓練家\t一同享受連線對戰或是交換寶可夢的樂趣！
-3-msg_pcug_02_01	歡迎來到寶可夢全球俱樂部！\t您要利用全球交誼廳嗎？
+3-msg_pcug_01_06	這裡是全球俱樂部。\t您需要協助嗎？
+3-msg_pcug_01_07	那麼請讓我來做一下\t寶可夢全球俱樂部的說明！\t您可以從左邊２個櫃台，\t或是按下Ｙ鍵來進入全球交誼廳！\t在全球交誼廳中，\t您可以與全世界的訓練家\t一同享受連線對戰或是連線交換的樂趣！
+3-msg_pcug_02_01	歡迎來到聯盟交誼廳！\t這裡是寶可夢全球俱樂部。\t您要使用全球交誼廳嗎？
 3-msg_pcug_02_02	那麼，請下次再來。
 3-msg_pcug_02_03	要連線到網路嗎？
 3-msg_pcug_02_04	那麼這邊請！
@@ -4372,6 +4384,7 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_info_01_11	確定要開始連線交換嗎？
 7-msg_union_info_01_12	您可以與附近的人\t使用鄰近主機通訊\t來交換彼此的寶可夢。\t或許還有機會與\t稀有的寶可夢相遇喔！
 8-msg_connect_colosseum_18	非常抱歉！\t圓形競技場正在準備中！
+7-msg_union_info_01_13	歡迎來到全球交誼廳。\t要是有任何問題請儘管吩咐喔！
 5-msg_dbc_rule22	可以參加
 5-msg_dbc_rule23	無法參加
 5-msg_dbc_rule24	允許攜帶
@@ -4405,7 +4418,7 @@ trad_chinese_dp_net_communication.txt
 5-DBC_Contest025	放棄以這些成員參加強壯華麗大賽。
 6-msg_union_record_name_01	
 6-msg_union_record_name_02	ID\t
-6-msg_union_record_01_01	成員到齊後，請按\tＡ鍵：交換　Ｂ鍵：退出
+6-msg_union_record_01_01	成員到齊後，請按\tＡ鍵：交換　Ｂ鍵：取消
 6-msg_union_record_01_02	確定要以這些成員繼續嗎？
 6-msg_union_record_01_03	要中止混合紀錄嗎？
 6-msg_union_record_01_04	即將中止混合紀錄。
@@ -4415,7 +4428,7 @@ trad_chinese_dp_net_communication.txt
 6-msg_union_record_01_08	由於有成員不太方便，\t即將中止混合紀錄。
 6-msg_union_record_01_09	要放棄混合紀錄嗎？
 6-msg_union_record_01_11	正在混合紀錄……\t請勿關閉電源。
-6-msg_union_record_01_12	紀錄混合已結束！\t即將前往聯盟交誼廳。
+6-msg_union_record_01_12	紀錄混合已結束！\t即將移動到聯盟交誼廳。
 6-msg_union_record_01_13	組長退出後隊伍將會解散，\t確定要繼續嗎？
 7-msg_union_select_01	打招呼
 7-msg_union_select_03	對戰
@@ -4440,7 +4453,7 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_connect_04_04	要進行交換，\t需要有２隻以上的同行寶可夢。
 7-msg_union_connect_05_01	\t邀請您參加紀錄混合。\t要一起混合紀錄嗎？
 7-msg_union_connect_05_02	即將開始混合紀錄！
-7-msg_union_talkboy_00_02	\t我是\t\t！\t要一起做些什麼嗎？
+7-msg_union_talkboy_00_02	\t我是\t\t！
 7-msg_union_talkboy_00_03	啊！抱歉。\t我有其他事，下次再說吧。
 7-msg_union_talkboy_00_04	另外還要做什麼嗎？
 7-msg_union_talkboy_00_05	……\t對方好像正在忙。
@@ -4474,9 +4487,9 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_talkboy_06_10	我要不停混合紀錄！
 7-msg_union_talkboy_06_11	紀錄啊！混合吧！
 7-msg_union_talkboy_06_12	我們下次也來混合一下吧～
-7-msg_union_talkgirl_00_02	\t我是\t\t！\t要一起做些什麼嗎？
+7-msg_union_talkgirl_00_02	\t我是\t\t！
 7-msg_union_talkgirl_00_03	啊！抱歉。\t我還有其他事情，下次再說吧。
-7-msg_union_talkgirl_00_04	還要一起做些什麼嗎？
+7-msg_union_talkgirl_00_04	另外還要做什麼嗎？
 7-msg_union_talkgirl_00_05	……\t對方好像正在忙。
 7-msg_union_talkgirl_00_06	\t沒有任何回應……
 7-msg_union_talkgirl_01_01	那麼作為問候，\t就讓\t\t看看我的訓練家卡吧。
@@ -4511,9 +4524,9 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_info_01_01	歡迎來到社群交誼廳。\t要是有任何問題請儘管吩咐喔！
 7-msg_union_info_01_02	請問您有什麼問題嗎？
 7-msg_union_info_01_03	您想聽哪方面的說明呢？
-7-msg_union_info_01_04	在社群交誼廳中，可以和鄰近的人\t以單打對戰、雙打對戰、\t混合對戰、多人對戰\t這４種規則進行對戰。
+7-msg_union_info_01_04	在對戰中，能夠以\t單打對戰、雙打對戰\t這２種規則進行寶可夢對戰。\t另外，寶可夢的暱稱將會向對方公開，\t還請多加注意。
 7-msg_union_info_01_05	在這裡，可以和別人交換\t彼此的寶可夢。\t與新朋友的相遇，說不定會成為\t與稀有寶可夢相遇的大好機會喔！
-7-msg_union_info_01_06	在紀錄混合中，\t可以和大家交換自己的紀錄。\t紀錄混合之後會發生什麼事，\t就請您親眼看看囉！\t最多可以５個人同時參加，\t快去呼朋引伴來體驗一下吧！
+7-msg_union_info_01_06	在紀錄混合中，\t可以和大家交換自己的紀錄。\t紀錄混合之後會發生什麼事，\t就請您親眼看看囉！
 7-msg_union_info_02_01	啊！好像有誰來了！\t快快快，別老是和我說話，\t去跟那個人聊聊天如何？
 7-msg_union_info_02_09	歡迎來到社群交誼廳！\t雖然現在這裡只有我一個人，\t但非常歡迎您呼朋引伴，\t一起來享受各種樂趣喔！
 7-msg_union_info_03_01	說明
@@ -4533,13 +4546,13 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_greeting_07	Annyeonghaseyo!
 8-msg_connect_colosseum_01	歡迎來到寶可夢社群俱樂部的圓形競技場！\t在這裡您可以和朋友\t一起盡情地寶可夢對戰。
 8-msg_connect_colosseum_02	您要進行哪種對戰呢？
-8-msg_connect_colosseum_03	對戰分成４種模式。\t單打對戰是由２位訓練家\t各派出１隻寶可夢到場上對戰的模式。\t雙打對戰是由２位訓練家\t各派出２隻寶可夢到場上對戰的模式。\t混合對戰是由２位訓練家\t所帶來的１２隻寶可夢中\t各自隨機選出３隻來進行１ｖｓ１對戰的模式。\t多人對戰是由４位訓練家\t各派出１隻寶可夢到場上\t進行２ｖｓ２對戰的模式。
+8-msg_connect_colosseum_03	對戰分成２種模式。\t單打對戰是由２位訓練家\t各派出１隻寶可夢到場上對戰的模式。\t雙打對戰是由２位訓練家\t各派出２隻寶可夢到場上對戰的模式。
 8-msg_connect_rule_01	那麼，請下次再來。
 8-msg_connect_direct2_01	請兩位其中一位選擇「成為組長」，\t另一位請選擇「加入群組」。
 8-msg_connect_direct2_03	正在等待\t\t回應……
 8-msg_connect_direct2_05	\t做出了ＯＫ的回應！
 8-msg_connect_direct2_08	對\t\t做出了ＯＫ的回應！
-8-msg_connect_direct2_09	那麼請到房間來！
+8-msg_connect_direct2_09	那麼請進房間吧！
 8-msg_connect_direct2_16	收到了來自\t\t的聯絡！\t要進行單打對戰嗎？
 8-msg_connect_direct2_17	收到了來自\t\t的聯絡！\t要進行雙打對戰嗎？
 8-msg_connect_direct2_18	收到了來自\t\t的聯絡！\t要進行混合對戰嗎？
@@ -4555,12 +4568,14 @@ trad_chinese_dp_net_communication.txt
 8-msg_connect_direct4_07	多人對戰！\t正在等待朋友的聯絡。
 8-msg_connect_direct4_08	要放棄以這些成員進行多人對戰嗎？
 8-msg_connect_direct4_09	收到了來自\t\t的聯絡！
-8-msg_connect_direct4_10	成員都到齊了！\t那麼請到房間來！
+8-msg_connect_direct4_10	成員都到齊了！\t那麼請進房間吧！
 8-msg_connect_direct4_11	成員都到齊了！\t請選擇參加對戰的寶可夢。
 8-msg_connect_direct4_12	正在等待其他成員選擇！
-8-msg_connect_union_01	歡迎來到寶可夢社群俱樂部的社群交誼廳！\t在這裡您可以和鄰近的朋友\t透過通訊一起玩。\t要進入房間嗎？
-8-msg_connect_union_02	在您附近進入社群交誼廳的人，\t會出現在社群交誼廳中。\t您可以和同一個房間的人\t一起進行最多２ｖｓ２的對戰，\t以及交換彼此的同行寶可夢。\t此外，您還能與社群交誼廳中的\t所有人混合紀錄，\t或是查看對方的訓練家卡。
+8-msg_connect_union_01	歡迎來到聯盟交誼廳！\t這裡是寶可夢社群俱樂部！\t在這裡您可以和鄰近的朋友\t透過通訊一起玩。
+8-msg_connect_union_02	在您附近進入社群交誼廳的人，\t會出現在社群交誼廳中。\t您可以和同一個房間的人對戰，\t以及交換彼此的寶可夢。\t此外，您還能與對方一起混合紀錄，\t或是查看彼此的訓練家卡。
 8-msg_connect_union_07	那麼祝您在社群交誼廳玩得盡興！
+7-msg_union_info_01_14	去找出現著圖示的人搭話，\t和他對戰或交換寶可夢吧。\t按下Ｙ鍵選擇您想做的事情後，\t圖示就會出現喔！
+7-msg_union_info_03_15	遊戲方法
 8-msg_connect_guide_12	那麼祝您在寶可夢社群交誼廳玩得盡興！
 8-msg_connect_rulebook_01	要以哪個規則開始對戰呢？
 8-msg_connect_rulebook_02	符合參加\t\t規則之條件\t的寶可夢未滿\t\t隻！
@@ -4577,6 +4592,14 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_greeting_08	日安！
 7-msg_union_greeting_09	\t好！
 7-msg_union_greeting_10	你好！
+7-msg_union_talkboy_03_09	要更改規則是吧！\t沒～問題，稍等我一下！
+7-msg_union_talkgirl_04_07	\t想要更改規則是吧！\t好的～等我一下下喔！
+8-msg_connect_union_08	要進入房間嗎？
+3-msg_pcug_01_08	那麼祝您在全球交誼廳玩得盡興！
+3-msg_pcug_01_03_patch1	在本俱樂部中，您可以使用網路\t與全世界的訓練家一同享受\t交換寶可夢的樂趣。\t只要按下Ｙ鍵，\t隨時都可以進入聯盟交誼廳！\t不過，也有些地方無法使用，\t例如室內、迷宮內等等。\t需要更詳細的說明嗎？
+3-msg_pcug_01_07_patch1	那麼請讓我來做一下\t寶可夢全球俱樂部的說明！\t您可以從左邊２個櫃台，\t或是按下Ｙ鍵來進入全球交誼廳！\t在全球交誼廳中，\t您可以與全世界的訓練家\t一同享受連線交換的樂趣！
+7-msg_union_info_01_14_patch1	去找出現著圖示的人搭話，\t和他交換寶可夢吧。\t按下Ｙ鍵選擇您想做的事情後，\t圖示就會出現喔！
+8-msg_connect_union_02_patch1	在您附近進入社群交誼廳的人，\t會出現在社群交誼廳中。\t您可以和同一個房間的人\t交換彼此的寶可夢，\t或是一起混合紀錄。
 trad_chinese_dp_options.txt
 DP_options_000	中毒
 DP_options_001	麻痺
@@ -4869,6 +4892,7 @@ DP_options_893
 DP_options_894	
 DP_options_895	
 DP_options_896	為表揚您與\t\t\t不滅的友情及牢固的牽絆，\t特頒此狀，以資鼓勵。
+DP_options_897	下一頁
 trad_chinese_dp_poffin_main.txt
 DP_poffin_main_001	樹果標籤
 DP_poffin_main_002	辣味
@@ -6352,11 +6376,11 @@ trad_chinese_dp_scenario1.txt
 23-msg_t01r0201_rivalmama_05	我想想……\t他應該是直接往祝慶市去了……\t那先這樣，\t請\t\t要多照顧\t\t喔。
 23-msg_t01r0201_mama_16	\t，路上小心！\t好好享受這趟冒險喔！
 23-msg_t01r0201_mama_26	\t，路上小心！\t好好享受這趟冒險喔！
-23-msg_t01r0201_tv_01_1	又到了華麗大賽集錦的時間！\t在今天的可愛華麗大賽\t普通級獲得優勝的是……
+23-msg_t01r0201_tv_01_1	又到了華麗大賽集錦的時間！\t在今天的普通級可愛華麗大賽\t成為最佳表演者的是……
 23-msg_t01r0201_tv_01_2	帶著超級可愛的寶可夢登場的阿牧！！\t好！那麼各位觀眾，我們下次再見～！！
-23-msg_t01r0201_tv_02_1	又到了華麗大賽集錦的時間！\t在今天的聰明華麗大賽\t普通級獲得優勝的是……
+23-msg_t01r0201_tv_02_1	又到了華麗大賽集錦的時間！\t在今天的普通級聰明華麗大賽\t成為最佳表演者的是……
 23-msg_t01r0201_tv_02_2	帶著超級乖巧的寶可夢登場的大作！！\t好！那麼各位觀眾，我們下次再見～！！
-23-msg_t01r0201_tv_03_1	又到了華麗大賽集錦的時間！\t在今天的強壯華麗大賽\t普通級獲得優勝的是……
+23-msg_t01r0201_tv_03_1	又到了華麗大賽集錦的時間！\t在今天的普通級強壯華麗大賽\t成為最佳表演者的是……
 23-msg_t01r0201_tv_03_2	帶著超級壯碩的寶可夢登場的和彥！！\t好！那麼各位觀眾，我們下次再見～！！
 23-msg_t01r0201_freezer_01	冰箱裡有媽媽最喜歡的甜點！
 23-msg_t01r0201_sink_01	廚房一片亮晶晶的！\t流理台上還看得到自己的臉！
@@ -6693,11 +6717,11 @@ trad_chinese_dp_scenario1.txt
 61-msg_group_select_02	加入群組
 61-msg_group_select_03	聽說明
 61-msg_group_select_04	取消
-61-msg_group_select_05	\t組
-61-msg_group_select_06	\t組
-61-msg_group_select_07	\t組
-61-msg_group_select_08	\t組
-61-msg_group_select_09	\t組
+61-msg_group_select_05	\t群組
+61-msg_group_select_06	\t群組
+61-msg_group_select_07	\t群組
+61-msg_group_select_08	\t群組
+61-msg_group_select_09	\t群組
 61-msg_group_select_10	取消
 61-msg_group_13	已經有群組用了這個名字喔。
 62-msg_r218_sign1_01	這裡是２１８號道路\t水脈市
@@ -7027,7 +7051,7 @@ trad_chinese_dp_scenario1.txt
 105-msg_d03_woman1_02	\t也可以收集樹果，\t然後拿去花苑鎮交換貼紙。\t就算是相同的貼紙，\t只要貼在球殼的不同地方，\t就會產生不同的印象。\t所以，我有時候會為了這個\t而傷一整天的腦筋。
 27-msg_c01_shopwoman_03	非常抱歉！\tGMStation正在準備中！
 36-msg_c01r0202_sunglasses_02	那是\t\t！\t務必要多多收集貼紙喔！
-39-msg_c01r0205_clip_gaku_b	這裡展示著\t\t的道館館主\t\t的貼紙。\t要嘗試和\t\t一樣的球殼裝飾嗎？
+39-msg_c01r0205_clip_gaku_b	這裡展示著\t\t的館主\t\t的貼紙。\t要嘗試和\t\t一樣的球殼裝飾嗎？
 27-msg_c01_woman3_iro_01	我是這裡的訓練家學校的畢業生。\t\t要是也認真學習的話，\t或許看起來會比現在更強喔。
 27-msg_c01_woman3_iro_02	哎呀，\t\t也能使用\t球殼裝飾呢。\t身為訓練家學校的前輩，\t這個就送給\t\t吧。
 27-msg_c01_woman3_iro_03	嗯，\t\t讓我有點刮目相看了。\t今後\t\t也要以成為精英訓練家為目標，\t繼續努力下去喔。
@@ -7099,6 +7123,16 @@ SS_strinput_040	請輸入１到\t\t之間的數字。
 84-msg_c03gym0101_leader_05_3	還有這是我在用的貼紙。\t請\t\t務必收下！
 84-msg_c03gym0101_leader_05_4	獲得了\t\t\t使用的貼紙。
 27-msg_c01_mizuki_01_3	還有！\t這個球殼送\t\t當禮物！
+61-msg_group_select_11	\t群組
+61-msg_group_select_12	\t群組
+61-msg_group_select_13	\t群組
+61-msg_group_select_14	\t群組
+61-msg_group_select_15	\t群組
+61-msg_group_select_16	\t群組
+11-msg_heroine_09_1	那個，\t\t。\t我也有在幫忙製作全國圖鑑……
+11-msg_heroine_09_2	雖然捕捉寶可夢是一件\t困難又辛苦的事……\t不過，也非常有意思對吧！！
+11-msg_hero_09_1	我說啊，\t\t。\t我也有在幫忙製作全國圖鑑……
+11-msg_hero_09_2	雖然捕捉寶可夢是一件\t困難又辛苦的事……\t不過，也超有意思的對吧！！
 trad_chinese_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	哎呀，那個是寶可夢圖鑑？\t\t在幫山梨博士的忙嗎？\t\t叫什麼名字？\t………………\t………………
 0-msg_c04_chanpion_01_2	\t叫做\t\t啊。\t我會記下來的！\t我是寶可夢訓練家，竹蘭。\t出於好奇，正在調查寶可夢的神話。
@@ -7133,7 +7167,7 @@ trad_chinese_dp_scenario2.txt
 0-msg_c04_statue_01_2	無論是開心歡笑，\t還是悲傷流……\t時間皆平等流……\t這都是託帝牙……的福。
 0-msg_c04_statue_01_3	部分文字已模糊不清，\t無法解讀……
 0-msg_c04_statue_02_1	寶可夢像的台座上寫著解說……\t誕生的帕路……\t創出了複數空間。
-0-msg_c04_statue_02_2	無論是生，還是死……\t皆於同一空間……\t這都是託帕路……的福。
+0-msg_c04_statue_02_2	無論是有生命，\t或是沒有……\t皆會抵達相同的空……\t這都是託帕路……的福。
 0-msg_c04_statue_02_3	部分文字已模糊不清，\t無法解讀……
 1-msg_c04fs0101_man2_01	道館徽章越多，能買的東西就越多！
 1-msg_c04fs0101_mount_01	受不了啦！百代森林讓我吃足了苦頭！\t以後不管要去哪裡，\t都把離洞繩帶在身邊吧。
@@ -7239,7 +7273,7 @@ trad_chinese_dp_scenario2.txt
 143-msg_r212br0101_woman2_09	\t「\t\t」呀。\t\t想要交換幾個呢？
 18-msg_ug_mission_01_01_1	首先，就是前往地下大洞窟！
 18-msg_ug_mission_01_01_2	要前往地底世界非常簡單！\t只要在戶外使用探險組合就行。
-18-msg_ug_mission_01_02	但是，在房間或洞窟時無法使用！\t那麼，快使用看看吧！
+18-msg_ug_mission_01_02	在房間或洞窟時無法使用！\t那麼，快使用看看吧！
 18-msg_ug_mission_01_03	嗯！看樣子，\t\t已經去過地下大洞窟了！\t做得好！這個送給\t\t作為獎勵吧！
 18-msg_ug_mission_01_04	地下大洞窟裡似乎有著\t在這一帶所看不到的寶可夢。\t如果能遇到稀有的寶可夢，\t樂趣會是１００倍喔！
 18-msg_ug_mission_02_01_1	地下大洞窟怎麼樣？\t是不是很大，但什麼都沒有啊！\t不過，那是因為\t\t還是個初學者！
@@ -7281,7 +7315,7 @@ trad_chinese_dp_scenario2.txt
 18-msg_ug_mission_08_02_1	哦哦！怎麼樣？\t找到別人的秘密基地了嗎？
 18-msg_ug_mission_08_02_2	進入地下大洞窟之前，記得要先連線！\t如果\t\t找到了別人的秘密基地，\t一定要進去看看裡面的樣子喔！
 18-msg_ug_mission_08_03_1	哦哦！看\t\t的那副神情，\t應該是找到別人的秘密基地了吧？\t做得好！這個送給\t\t作為獎勵吧！
-18-msg_ug_mission_08_03_2	能夠放在秘密基地裡的石像\t似乎帶有不可思議的效果。\t就算是身在別人的秘密基地，\t也能透過電腦借用石像的力量！\t千萬不要客氣，積極地去使用\t那些石像的力量喔！
+18-msg_ug_mission_08_03_2	能夠放在秘密基地裡的石像\t似乎帶有不可思議的效果。\t就算是身在別人的秘密基地，\t也能借用石像的力量！\t千萬不要客氣，積極地去使用\t那些石像的力量喔！
 18-msg_c04r0801_boy2_01	地下大洞窟非常廣闊！\t在裡面大玩特玩吧！！
 18-msg_c04r0801_assistantm_01_1	加入挖掘化石的行列吧！\t我任職於黑金市的炭坑博物館。\t聽過地下大叔的建議後，\t我打算去大挖特挖化石。
 18-msg_c04r0801_assistantm_01_2	讓我給\t\t一個建議！\t在挖化石時出現的黑色岩石\t據說非常堅硬！
@@ -7525,10 +7559,10 @@ trad_chinese_dp_scenario2.txt
 44-msg_c05r0201_koduck_01	呱、呱！？
 44-msg_c05r0201_maril_01	庫庫～
 44-msg_c05r0201_pippi_01	皮、皮～！
-45-msg_c05r0301_woman6_01	在這個互動廣場裡，\t\t可以跟\t\t可愛的寶可夢一起散步喔！
+45-msg_c05r0301_woman6_01	在這個互動廣場裡，\t您可以跟您可愛的寶可夢一起散步喔！
 45-msg_c05r0301_woman2_01	寶可夢好像也很開心能離開精靈球，\t到外面自由走動！\t怎麼說呢？牠的臉頰附近不斷抖動，\t就是最好的證明！
 45-msg_c05r0301_pikachu_01	皮卡皮！？
-46-msg_c05r0401_woman6_01	在這個互動廣場裡，\t\t可以跟\t\t可愛的寶可夢一起散步喔！
+46-msg_c05r0401_woman6_01	在這個互動廣場裡，\t您可以跟您可愛的寶可夢一起散步喔！
 46-msg_c05r0401_fighter_01	什麼！他們說我的寶可夢不能進去！\t噢！我可憐的暴鯉龍和大鋼蛇！
 47-msg_c05r0501_man1_01	家緣市很厲害喔！\t每年都被評選為神奧地區\t最想居住的地方呢！
 47-msg_c05r0501_middlewoman2_01	說到家緣市就會聯想到\t超級華麗大賽！\t我也會和我最自豪的寶可夢\t一起參加喔！
@@ -7750,9 +7784,9 @@ trad_chinese_dp_scenario2.txt
 62-msg_sodateya_oldwoman_22	那麼，\t\t\t暫且寄放在這裡了喔。\t隨便過一段時間後再來吧。
 62-msg_sodateya_oldwoman_23	我是寄放屋奶奶。\t\t要做什麼？
 62-msg_sodateya_oldwoman_24	\t找我這個寄放屋奶奶有事嗎？
-62-msg_sodateya_oldwoman_25	寄放２隻一共是１０００。
-62-msg_sodateya_oldwoman_26	寄放１隻一共是５００。
-62-msg_sodateya_oldwoman_27	這樣收\t\t５００。
+62-msg_sodateya_oldwoman_25	寄放２隻一共是１０００，要寄放嗎？
+62-msg_sodateya_oldwoman_26	寄放１隻一共是５００，要寄放嗎？
+62-msg_sodateya_oldwoman_27	這樣收\t\t５００，要寄放嗎？
 62-msg_sodateya_oldwoman_28	那麼，\t\t和\t\t暫且寄放在這裡了喔。\t隨便過一段時間後再來吧。
 62-msg_sodateya_oldwoman_29	\t是吧？\t\t稍等。
 63-msg_t04_farmer_01	這邊的空氣好像能讓\t寶可夢無拘無束地成長！\t是不是有這種感覺呀？
@@ -7792,7 +7826,7 @@ trad_chinese_dp_scenario2.txt
 68-msg_t04r0301_sunglasses_07	哦！不行不行！\t\t的包包是滿的！\t這個我先保管著。\t\t下次再來吧！
 68-msg_t04r0301_sunglasses_08	哦哦！是\t\t啊！這是上次的報酬！\t雖然只是一點心意，收下吧！
 68-msg_t04r0301_sunglasses_09	怎麼回事！\t還沒捉到我要的\t\t嗎？\t萬事拜託啦！在今天結束之前\t把\t\t帶來喔！
-68-msg_t04r0301_sunglasses_10	喂喂！\t\t上次沒把我要的寶可夢帶來吧？\t算了，難免會有這種時候。下次別漏氣啊！
+68-msg_t04r0301_sunglasses_10	喂喂！\t\t沒把我要的寶可夢帶來吧？\t算了，難免會有這種時候。下次別漏氣啊！
 68-msg_t04r0301_sunglasses_11	好～！看我拿出全力，\t寫一篇超有意思的報導出來！\t哦！對了！明天我還會拜託別的工作喔！
 68-msg_t04r0301_man1_01	雖然很小，但這裡可是\t神奧地區粉絲最多的報社喔！
 68-msg_ball_guide_01	有一份寫著「精靈球快訊週刊」的報導！\t這是介紹精靈球新產品的特輯。
@@ -8924,7 +8958,7 @@ trad_chinese_dp_scenario2.txt
 98-msg_c07r0203_man2_01	因為我很喜歡招式學習器，\t所以常常來這邊望著它們……
 118-msg_c06_ambrella_01	\t和剛剛那個愛衝刺的男孩子一樣，\t跟寶可夢的感情很好呢。\t我實在太高興了，所以這個給\t\t。\t\t就幫\t\t的球殼\t貼上這張\t\t吧。
 49-msg_c05r0701_cowgirl_02	在隨意鎮那裡啊，有個寄放屋。\t聽說只要把同種類的寶可夢\t雄性與雌性各寄放１隻在那裡，\t就有機會發現蛋喔。
-178-msg_r221r0101_ookido_03	這裡據說是和全國各地……\t例如關都、豐緣等地區\t有特殊緣分的地方！\t而且，好像跟地下也有密切關係。\t\t去地下挖掘化石，\t或做些其他什麼調查的話，\t或許會有什麼新發現。\t然後，新的發現說不定還會帶來\t不可思議的邂逅喔……\t\t就先把這番話放在心上吧。
+178-msg_r221r0101_ookido_03	這裡據說是和全國各地……\t例如關都、豐緣等地區\t有特殊緣分的地方！\t而且，好像跟地下也有密切關係。\t\t去地下進行調查，\t像是挖掘化石之類的，\t或許會有什麼新發現。\t然後，新的發現說不定還會帶來\t不可思議的邂逅喔……\t\t就先把這番話放在心上吧。
 178-msg_r221r0101_poketch_16	玫瑰公園真是個迷人的地方！\t來到這裡聞一聞玫瑰的香氣，\t會讓人感到心情平靜。\t順帶一提，玫瑰的花語是\t「旅途的樂趣」。\t不同地區的傳說的寶可夢好像\t會在這裡現身，說不定牠們都是被\t玫瑰的神秘魅力吸引過來的呢！
 178-msg_r221r0101_admin_01	歡迎光臨！這裡是玫瑰公園！\t這裡是以有滿面盛開的玫瑰\t而聞名的觀光景點！\t這個地方還聚集了來自\t全國各地的一流訓練家。\t我猜說不定玫瑰可能具有\t吸引強者的神秘力量喔。
 178-msg_r221r0101_admin_02	\t居然能捉到這麼強的寶可夢！\t那我就給\t\t和那隻寶可夢\t長得一模一樣的石像吧！
@@ -8934,7 +8968,7 @@ trad_chinese_dp_scenario2.txt
 178-msg_r221r0101_boy2_01	這裡的賣點可不只有\t玫瑰花的香味喔！\t這裡還會聚集來自\t不同地方的人和寶可夢！\t而且還有一些耐人尋味的空洞，\t它們的神秘感真是叫人興奮！
 178-msg_r221r0101_man1_01	公園的空洞裡面，\t都有看起來很神秘的台座，\t不知道是不是有什麼意義？
 178-msg_r221r0101_woman2_01	我想說只要來這裡，\t就能遇到罕見的寶可夢，\t所以才千里迢迢地跑來，\t但這裡的氣氛還真的是很神秘呢。\t總覺得好像會讓人忘記\t時間或是空間之類的概念……
-178-msg_r221r0101_gorggeousw_01	玫瑰公園……\t啊啊，那裡是個和遙遠地區的寶可夢\t互相感受彼此魅力的寧靜樂園。\t而我最喜歡的是關都地區\t和豐緣地區的寶可夢。\t遙遠的地區，聽起來好令人心動喔。
+178-msg_r221r0101_gorggeousw_01	玫瑰公園……\t啊啊，那是個和遙遠地區的寶可夢\t互相感受彼此魅力的寧靜樂園。\t而我最喜歡的是關都地區\t和豐緣地區的寶可夢。\t遙遠的地區，聽起來好令人心動喔。
 192-msg_c09_girl4_01d	哎呀～\t\t的衣服\t選得真是太完美了！
 200-msg_d10r0401_daiza_01	有個神秘的台座。\t似乎能夠使用石板……
 200-msg_D10R0401_daiza_02	有個神秘的台座。\t似乎能夠使用石板……\t要使用\t\t嗎？
@@ -9018,7 +9052,7 @@ trad_chinese_dp_scenario2.txt
 161-msg_c02_girl1_iro_03	唉喲喂，我真是的。我怎麼連\t剛才說了什麼都給忘了呢……
 161-msg_c02_kyamome	恰摩恰～
 161-msg_c02_karakunasi	咖啦奴～
-58-msg_d11r0101_sign1	有用的告示板！\t在互動廣場裡能用Ｒ操控搖桿移動鏡頭，\t自由觀察你帶著的寶可夢！\t長按Ｒ操控搖桿，\t就能讓鏡頭回到最初的狀態！
+58-msg_d11r0101_sign1	有用的告示板！\t在互動廣場裡能用Ｒ操控搖桿移動鏡頭，\t自由觀察你帶著的寶可夢！\t長按Ｒ操控搖桿鍵，\t就能讓鏡頭回到最初的狀態！
 123-msg_c06r0101_bringm_02_03	那麼請您繼續享受狩獵遊戲！
 17-msg_c04gym0102_leader_07_01	我等\t\t好久了！\t\t！\t上次見到\t\t的時候，\t我就知道有朝一日，\t\t絕對會打倒冠軍。\t現在也是，\t\t的全身上下\t傳來了強者的氣息……\t但是啊，我還有另一種想法。\t如果我在這裡打倒\t\t，\t那我不就是最強的訓練家了嗎？
 17-msg_c04gym0102_leader_08_01	我等\t\t好久了！\t\t！\t我今天一定會證明給\t\t看！\t證明我才是最強的！
@@ -9064,7 +9098,7 @@ trad_chinese_dp_scenario2.txt
 44-msg_c05r0201_woman2_09	跟\t\t親密得不得了呢！\t看著看著，我都開始難為情了！！\t作為你們感情親密的證明，\t我來為牠戴上一樣好東西吧！
 44-msg_c05r0201_woman2_10	這個好友獎章跟\t\t的寶可夢很搭呢！\t我相信你們永～遠永遠都會這麼親密！
 117-msg_l02_sounddesigner_02	\t\t獲得了ＤＳ播放器！
-117-msg_l02_sounddesigner_03	說到ＤＳ就會想到那個\t可以上下打開、有兩個畫面的……\t不對，那是Nintendo DS啦！\tＤＳ播放器是一種神奇的道具，\t只要一啟動，\t音樂就會變成以前的音色喔！\t用它來懷念過去那段璀璨的時刻吧！
+117-msg_l02_sounddesigner_03	說到ＤＳ就會想到那個\t可以上下打開、有兩個螢幕的……\t不對，那是Nintendo DS啦！\tＤＳ播放器是一種神奇的道具，\t只要一啟動，\t音樂就會變成以前的音色喔！\t用它來懷念過去那段璀璨的時刻吧！
 32-msg_r208r0101_woman1_05	那個……\t\t的包包滿了喔……
 40-msg_c05pc0101_boy2_01	\t看過祝慶市的GMStation\t裡面的地球儀嗎？\t總覺得那東西超～酷的耶！\t我也不太會表達，反正酷斃了就對了！
 11-msg_c04r0303_boy1_01	耶～！\t有人幫我的秘密基地按讚！
@@ -9086,7 +9120,7 @@ trad_chinese_dp_scenario2.txt
 117-msg_l02r0301_ueda_04b	在這世界上應該還有更強的訓練家吧！\t不過我相信就算和那樣的訓練家對戰，\t\t和\t\t的寶可夢一定也會樂在其中的！
 58-msg_d11r0101_enter	能入場
 58-msg_d11r0101_cant_enter	不能入場
-167-msg_c02r0103_books8_05	聽說了這件事的王子，\t在海邊的小洞裡迎接了勇者。
+167-msg_c02r0103_books8_05	聽說了這件事的王子，\t在海邊小洞裡迎接了勇者。
 4-msg_c04r0101_middlem_03	我希望由\t\t來選擇自行車的顏色！\t\t想要哪個顏色？
 4-msg_c04r0101_middlem_04_red	要選紅色嗎？
 4-msg_c04r0101_middlem_04_green	要選綠色嗎？
@@ -9121,6 +9155,42 @@ trad_chinese_dp_scenario2.txt
 161-msg_C09R0101_achamo	火稚稚摩稚摩。
 161-msg_C09R0201_rokon	啾嚕嚕嚕。
 62-msg_sodateya_oldwoman_21	哎呀哎呀，我說\t\t啊，\t這是蛋喔！
+msg_lunasol_poke144_02	嘎──噢！
+msg_lunasol_poke145_02	嘎──噢！
+msg_lunasol_poke146_02	嘎──噢！
+msg_lunasol_poke250_02	嘯──！！
+msg_lunasol_poke384_02	嘰路哩路哩嘰！
+msg_lunasol_poke488_02	露娜──嗯！
+msg_lunasol_poke150_02	謬──
+msg_lunasol_poke243_02	雷雷咿──！！
+msg_lunasol_poke244_02	炎炎咿──！！
+msg_lunasol_poke483_02	咕嘰咕吧！！！
+msg_lunasol_poke377_02	咋咋、咋哩、咋……
+msg_lunasol_poke378_02	加奇──！
+msg_lunasol_poke379_02	吉・吉・澤・吉・挫
+msg_lunasol_poke383_02	固拉固拉嚕嗚嗚嗚嗚！
+msg_lunasol_poke485_02	冓冓波、冓波波波！
+msg_lunasol_poke486_02	……滋、滋！！
+msg_lunasol_poke484_02	帕路帕路！！！
+178-msg_r221r0101_admin_27	\t獲得了\t\t！
+msg_lunasol_poke245_02	水水咿──！！
+msg_lunasol_poke249_02	奇──亞斯！！
+msg_lunasol_poke380_02	休啊啊──嗯！
+msg_lunasol_poke381_02	嘻哇嗯！
+msg_lunasol_poke382_02	啾拉嚕嗚嗚嗚嗚嗚！
+msg_lunasol_poke480_02	喬嗯！
+msg_lunasol_poke481_02	洽嗯！
+msg_lunasol_poke482_02	秋嗯！
+msg_d34r0110_giartina_02	嘰叩嘎叩叩～！！
+178-msg_r221r0101_admin_28	這是只有在玫瑰公園\t才能得到的珍貴石像。\t把它擺進\t\t在地下大洞窟裡的\t秘密基地吧！
+178-msg_r221r0101_admin_29	受到玫瑰的吸引\t而來到這裡的寶可夢……\t真是讓我大飽眼福了啊。
+178-msg_r221r0101_admin_30	\t說不定也是受玫瑰的魅力吸引\t而來到這裡的強者呢。
+178-msg_r221r0101_admin_31	\t見過據說會在\t玫瑰公園裡出現的寶可夢了沒？\t在入口處的店員那裡\t能交換到的石板中，\t說不定有著什麼含意。
+178-msg_r221r0101_admin_02p	\t居然能捉到這麼強的寶可夢！\t那我就給\t\t和那隻寶可夢\t長得一模一樣的石像吧！
+178-msg_r221r0101_admin_28p	這是只有在玫瑰公園\t才能得到的珍貴石像。\t把它擺進\t\t在地下大洞窟裡的\t秘密基地吧！
+178-msg_r221r0101_admin_29p	受到玫瑰的吸引\t而來到這裡的寶可夢……\t真是讓我大飽眼福啊。
+78-msg_r210br0101_dragon_16	為了學習招式，\t\t要讓牠忘記哪個招式？
+127-msg_c06r0401_bigman_21	為了學習招式，\t要讓牠忘記哪個招式？
 trad_chinese_dp_scenario3.txt
 0-msg_c08pc0101_oldman2_01	想當年，我也是一個立志\t成為道館館主的男人……\t雖然沒能實現夢想，\t但我現在每天都很享受在這種……\t和寶可夢一起生活的幸福滋味中。
 0-msg_c08pc0101_babyboy1_01	哦～\t\t挺厲害的嘛！\t已經有７個道館徽章啦！
@@ -9335,7 +9405,7 @@ trad_chinese_dp_scenario3.txt
 27-msg_r224_ookido_02_1	哦哦，\t\t。\t我等\t\t好久了！\t那就不浪費時間，\t能不能請\t\t看看這塊石碑？
 27-msg_r224_ookido_02_2	關都地區那裡也發現了相同的東西。\t所以，我想借用\t\t的力量！
 27-msg_r224_ookido_03_1	我稍微研究過石碑上的文字。\t好像是希望成長後的訓練家\t在這個石碑上刻下感謝之情。
-27-msg_r224_ookido_03_2	這就是我想請\t\t幫忙的事。\t\t在旅途中遇見許多人與寶可夢，\t累積了許多經驗吧？
+27-msg_r224_ookido_03_2	這就是我想借用\t\t的力量的原因。\t\t在旅途中遇見許多人與寶可夢，\t累積了許多經驗吧？
 27-msg_r224_ookido_03_3	現在，就請\t\t把當下的心情\t如實表達出來。\t說吧！\t\t想向誰表達感謝？
 27-msg_r224_ookido_04	唔嗯……\t\t想感謝的是\t\t啊。\t確定沒有錯嗎？
 27-msg_r224_ookido_05_1	！？\t剛才出現的是什麼寶可夢？\t牠該不會跟這塊石碑有關吧？
@@ -9389,7 +9459,7 @@ trad_chinese_dp_scenario3.txt
 31-msg_c11_rival_a_02_2	寶可夢是沒有極限的！\t就是這個樣子。\t\t！！
 32-msg_c11fs0101_lady_01	要讓寶可夢攜帶什麼道具，\t是很重要的問題。\t所以呢，這個就送給\t\t囉。
 32-msg_c11fs0101_lady_02	要讓哪隻寶可夢攜帶我送\t\t的焦點鏡，\t又讓\t\t有得煩惱了吧？
-32-msg_c11fs0101_clown_01	寶可夢對戰百戰百勝的道具，\t這種東西到處都沒賣呢。
+32-msg_c11fs0101_clown_01	這裡沒有賣那種\t能在寶可夢對戰中百戰百勝的道具呢。
 33-msg_c11pc0101_man2_01	真不愧是對戰塔……\t沒有一個訓練家是好對付的。
 33-msg_c11pc0101_waitress_01	這裡會有全國……\t不，會有來自全世界的強者聚集在此。
 33-msg_c11pc0101_fighter_01	鍛鍊自我，鍛鍊寶可夢！\t我就是為此而來的！
@@ -9404,18 +9474,18 @@ trad_chinese_dp_scenario3.txt
 34-msg_btwr_score_r04	級別
 34-msg_btwr_score_r05	<color=#F01E1EFF>\t\t</color>\t連勝
 34-msg_btwr_score_r06	<color=#F01E1EFF>\t\t</color>
-35-msg_battle_00	單打對戰
-35-msg_battle_01	雙打對戰
+35-msg_battle_00	大師級單打對戰
+35-msg_battle_01	大師級雙打對戰
 35-msg_battle_05	平均連勝數
 35-msg_pokemon_00	打倒的寶可夢
 35-msg_pokemon_01	已捉到的寶可夢
-35-msg_pokemon_02	寶可夢的蛋
+35-msg_pokemon_02	從蛋裡孵出來的寶可夢
 35-msg_pokemon_03	釣上的寶可夢
-35-msg_contest_00	華麗大賽的優勝次數
-35-msg_contest_01	華麗大賽的勝率
+35-msg_contest_00	最佳表演者的獲得次數
+35-msg_contest_01	最佳表演者的獲得率
 35-msg_contest_02	獲得的獎章數
-35-msg_end_00	關閉
-35-msg_ranking_01	\t·\t
+35-msg_header_00	群組排名
+35-msg_header_01	全球排名
 35-msg_count_00	\t勝
 35-msg_count_01	\t人
 35-msg_count_02	\t個
@@ -9423,20 +9493,20 @@ trad_chinese_dp_scenario3.txt
 35-msg_count_04	\t隻
 35-msg_count_05	\t％
 35-msg_count_06	\t次
-35-msg_guide_00	要看哪項紀錄？
-35-msg_guide_01	對戰塔的紀錄\t單打對戰的連勝數
-35-msg_guide_02	對戰塔的紀錄\t雙打對戰的連勝數
-35-msg_guide_06	對戰塔的紀錄\t平均連勝數
+35-msg_category_00	－寶可夢的紀錄－
+35-msg_guide_01	對戰塔大師級的\t單打對戰連勝數
+35-msg_guide_02	對戰塔大師級的\t雙打對戰連勝數
+35-msg_guide_06	對戰塔大師級的\t平均連勝數
 35-msg_guide_07	打倒的寶可夢數
 35-msg_guide_08	用球捕捉到的\t寶可夢數
 35-msg_guide_09	從蛋裡孵出來的\t寶可夢數
 35-msg_guide_10	釣上的寶可夢數
-35-msg_guide_11	超級華麗大賽的\t優勝次數
-35-msg_guide_12	華麗大賽的勝率
-35-msg_guide_13	在超級華麗大賽獲得的\t獎章數
-35-msg_delete_00	刪除紀錄
-35-msg_delete_01	選擇要刪除的紀錄後\t請按下Ａ鍵
-35-msg_delete_02	真的要刪除嗎？
+35-msg_guide_11	在超級華麗大賽\t成為最佳表演者的次數
+35-msg_guide_12	在超級華麗大賽\t成為最佳表演者的百分比
+35-msg_guide_13	在超級華麗大賽\t獲得的獎章數
+35-msg_category_01	－超級華麗大賽的紀錄－
+35-msg_category_02	－對戰塔的紀錄－
+35-msg_ranking_02	
 35-msg_delete_03	無法刪除自己的紀錄！
 36-msg_c11r0101_staff_a_01	歡迎來到對戰公園！\t您是初次來訪的訓練家吧。\t這邊請！
 36-msg_c11r0101_staff_a_02	我們會發行對戰公園專用的道具\t「點數卡」給初次來訪的貴賓。\t這是您的點數卡。請收下！
@@ -9449,7 +9519,7 @@ trad_chinese_dp_scenario3.txt
 36-msg_c11r0101_staff_a_08_1	點數兌換處位於\t外觀像城堡的建築物內。
 36-msg_c11r0101_staff_a_08_2	在點數兌換處可以用\t累積的ＢＰ兌換獎品。
 36-msg_c11r0101_staff_a_08_3	那裡提供了精美的獎品，\t所以在您有足夠的ＢＰ後，\t請務必多加利用喔。
-36-msg_c11r0101_staff_a_09_1	對戰塔是位於對戰公園內\t最深處的建築。
+36-msg_c11r0101_staff_a_09_1	對戰塔是位於對戰公園內\t最深處的建築物。
 36-msg_c11r0101_staff_a_09_2	那裡分別有挑戰單打對戰\t和雙打對戰用的對戰間。
 36-msg_c11r0101_staff_b_01	歡迎來到對戰公園！\t我將為您解說點數卡以及ＢＰ。
 36-msg_c11r0101_staff_b_02	您想聽哪一個說明呢？
@@ -9477,8 +9547,8 @@ trad_chinese_dp_scenario3.txt
 36-msg_staff_choice_08	關於等級
 36-msg_staff_choice_09	寶可夢的種類和數量
 36-msg_staff_choice_10	攜帶的道具
-36-msg_c11r0101_bigman_01	我嚼我嚼……這前面就是對戰公園……\t那裡有什麼樣的訓練家等在那裡，\t真是令人期待。我嚼我嚼……
-37-msg_c11r0201_man3_01	這前面是生存區，也就是嚴酷山。
+36-msg_c11r0101_bigman_01	我嚼我嚼……這前面就是對戰公園……\t那裡會有什麼樣的訓練家等著我，\t真是令人期待。我嚼我嚼……
+37-msg_c11r0201_man3_01	這前面通往生存區還有嚴酷山。
 37-msg_c11r0201_gorggeousm_02	我來捉隻厲害的寶可夢，\t去挑戰對戰塔看看吧！
 38-msg_c11r0301_middleman1_01	從這裡也看得到天冠山\t山頂的樣子呢……\t雖然大部分的人好像沒注意到，\t之前那個到底是怎麼回事？
 38-msg_c11r0301_boy1_01	這裡的人無論何時，\t腦中都只有寶可夢對戰！
@@ -9535,7 +9605,7 @@ trad_chinese_dp_scenario3.txt
 44-msg_tower_04_1	在對戰塔這個設施裡，\t單打對戰需要３隻寶可夢，\t雙打對戰需要４隻寶可夢。
 44-msg_tower_04_2	塔內設有許多對戰用的對戰間。
 44-msg_tower_04_3	每個對戰間裡都有７名訓練家\t等待著您的挑戰。\t若您順利地擊敗那７名訓練家，\t我們將致贈對戰點數。
-44-msg_tower_04_4	此外，直到連續打敗\t\t個人為止，\t您都能在途中暫停對戰，\t離開對戰間重新選擇出戰的寶可夢。\t打敗\t\t個人之後，您還是能在途中暫停，\t但會在對戰間裡以相同的寶可夢繼續對戰。\t不論您屬於哪一種情況，\t都請先確實地寫下紀錄再結束挑戰。\t否則，該次挑戰將會無效。\t所以請特別注意這一點喔！
+44-msg_tower_04_4	此外，到挑戰第５個人為止，\t您都能在途中暫停對戰，\t離開對戰間重新選擇出戰的寶可夢。\t若在打敗５個人之後退出對戰，\t之後將必須從頭開始挑戰。\t不論您屬於哪一種情況，\t都請先確實地寫下紀錄再結束挑戰。\t否則，該次挑戰將會無效。\t請特別注意這一點喔！
 44-msg_tower_05	請問要選擇單打對戰，\t還是雙打對戰的對戰間呢？
 44-msg_tower_06_1	這位客人！\t您能夠出戰的寶可夢未滿３隻喔！
 44-msg_tower_06_2	若要參加挑戰，\t請準備３隻不同種類的寶可夢，\t攜帶的道具也要完全不同。
@@ -9685,8 +9755,8 @@ trad_chinese_dp_scenario3.txt
 58-msg_t06pc0101_mystery_01	這個宇宙是由蛋中\t孕育出來的生命所創造的……\t是我以前遇到的一個人\t這麼告訴我的。
 59-msg_t06r0101_oldman1_01_1	我來說說有關嚴酷山的事吧。\t這座火山的形成要追溯到\t神奧地區的誕生之際。\t當時由於時間和空間互相融合的關係，\t而噴出了大量的火球。
 59-msg_t06r0101_oldman1_01_2	那些火球積聚起來變成了寶可夢，\t同時也形成了這座嚴酷山。\t所以才會用一個叫做啥鎮石的，\t來鎮住那隻寶可夢的暴動和火山的爆發。
-59-msg_t06r0101_oldman1_02	\t找到火山鎮石啦？\t沒想到傳說竟然是真的啊。\t真是這樣的話，\t那火山的寶可夢就會因此覺醒，\t引起火山爆發了吧……！
-59-msg_t06r0101_oldman1_03	席多藍恩……\t竟然有這種寶可夢存在啊。\t牠是當時神奧地區形成時\t誕生的寶可夢嗎……？
+59-msg_t06r0101_oldman1_02	火山鎮石被找到啦？\t沒想到傳說竟然是真的啊。\t真是這樣的話，\t那火山的寶可夢就會因此覺醒，\t引起火山爆發了吧……！
+59-msg_t06r0101_oldman1_03	席多藍恩……\t竟然有這種寶可夢存在啊。\t牠是神奧地區形成時\t誕生的寶可夢嗎……？
 59-msg_t06r0101_seven2_01_1	好！我去把火山鎮石放回原處！
 59-msg_t06r0101_seven2_01_2	我聽爺爺說，火山鎮石在以前\t好像是用來鎮住火山的寶可夢。\t放心～放心啦～！\t這次我一個人就行了！
 59-msg_t06r0101_seven2_02_1	想不到就是火山鎮石\t讓那隻寶可夢一直沉睡的嗎！\t話說回來，嘿嘿！\t\t很厲害嘛～！
@@ -9700,13 +9770,13 @@ trad_chinese_dp_scenario3.txt
 63-msg_w226r0101_01_02_1	然後啊～\t\t的身上有味道～！\t很濃的味道喔！\t絕對不會錯！\t\t跟me一樣，很喜歡寶可夢！
 63-msg_w226r0101_01_02_2	這是一件開心的事。\t好，我決定了！\t邁斯特幫\t\t的寶可夢圖鑑power up，\t讓\t\t能看到我去過的國家的寶可夢說明！
 63-msg_w226r0101_01_02_3	來，圖鑑借我一下～！\t一下下就好～\t再一下！再一下下！
-63-msg_w226r0101_01_02_4	這樣一來，\t只要是邁斯特喜歡的寶可夢，\t就連外文也能看得到了！Good！
+63-msg_w226r0101_01_02_4	……咦？這個寶可夢圖鑑\t已經update過了喔！\tHey you！\t竟然走在時代的前端，\t真是very very good！\t那就請\t\t多多閱讀\t寶可夢的外文說明吧～！
 63-msg_w226r0101_01_03	Hey you！\t\t好。Bonjour！\t\t有沒有「螢光魚」這種寶可夢？\t可以的話，請跟me寶貝的鯉魚王交換。
 63-msg_w226r0101_01_04	Danke schön！！\t這句話代表謝謝！\t這是從我出生的國家\t千里迢迢過來的鯉魚王。\tYou一定要好好照顧牠喔！！
 63-msg_w226r0101_01_05	這不是螢光魚吧～！\tMe要的是螢光魚！邁斯特好傷心！
 63-msg_w226r0101_01_06	Oh！怎麼這樣！\t不過總有一天，\t\t一定會來跟我交換的！\t身為踏遍世界各地的男人，\t邁斯特清楚得很！
 63-msg_w226r0101_01_07	因為有寶可夢的存在，\t不論到世界上的什麼地方，\t都能跟任何人交朋友！\t邁斯特真是感動！
-63-msg_w226r0101_02_01_1	海報上寫了很多\t寶可夢的名字。\t環遊世界的旅人\t邁斯特喜愛的寶可夢一覽。
+63-msg_w226r0101_02_01_1	告示上寫了很多\t寶可夢的名字。\t環遊世界的旅人\t邁斯特喜愛的寶可夢一覽。
 63-msg_w226r0101_02_01_2	阿柏蛇　皮卡丘　可達鴨\t小火馬　海星星　鯉魚王\t果然翁　赫拉克羅斯　狃拉\t熊寶寶　戴魯比　長翅鷗\t懶人獺　毒薔薇
 64-msg_d16_sign1_01	這裡是嚴酷山\t有火山噴發危險
 65-msg_d16r0101_rival_01_1	可惡～！搞什麼啊！\t誰啦～！\t\t，是\t\t啊。\t我輸給那個叫麥可的傢伙了！
@@ -10087,11 +10157,11 @@ trad_chinese_dp_scenario3.txt
 95-TRADE_POKE_00	凱凱
 95-TRADE_POKE_01	小聒聒
 95-TRADE_POKE_02	無形仔
-95-TRADE_POKE_03	阿啪
+95-TRADE_POKE_03	Pador
 95-TRADE_OYA_00	荷希
 95-TRADE_OYA_01	諾布林
 95-TRADE_OYA_02	美琦
-95-TRADE_OYA_03	邁斯特
+95-TRADE_OYA_03	Master
 97-msg_iai_01	這棵樹好像可以砍斷！\t要使用居合斬砍斷嗎？
 97-msg_iai_02	野生的大牙狸使用居合斬幫助了\t\t！
 97-msg_iai_03	這棵樹好像可以用秘傳招式砍斷！
@@ -10143,7 +10213,7 @@ msg_t03_woman2_03	\t知道「葛拉西蒂亞花」嗎？\t從古時候開始，�
 44-msg_tower_203	在大師級裡有單打對戰和\t雙打對戰等２種對戰間。
 44-msg_tower_204	各個對戰間裡會有７名\t比一般的單打對戰和雙打對戰\t更強的訓練家登場。\t將這７名訓練家都打敗的話，\t可以獲得比平常更多的ＢＰ。
 44-msg_tower_205	另外，在大師級的對戰裡，\t還會使用「級別」機制。
-44-msg_tower_206	單打對戰和雙打對戰各有１０個級別。\t達成７連勝的話，會上升１個級別。\t相反地，如果７場對戰都敗北，\t會下降１個級別。
+44-msg_tower_206	單打對戰和雙打對戰各有１０個級別。\t達成７連勝的話，會上升１個級別。\t相反地，在挑戰各個級別時，\t如果連續敗北了一定次數，\t會下降１個級別。
 44-msg_tower_207	隨著級別上升，對手將越來越強。\t不過相對地，獲得的ＢＰ也會增加。
 44-msg_tower_208	若您想在途中暫停對戰，\t請先確實地寫下紀錄再結束挑戰。\t否則，該次挑戰將會無效。\t所以請特別注意這一點喔！
 44-msg_tower_209	請問要選擇單打對戰，\t還是雙打對戰的對戰間呢？
@@ -10216,7 +10286,7 @@ msg_t03_woman2_03	\t知道「葛拉西蒂亞花」嗎？\t從古時候開始，�
 45-msg_tower_mw_rival_02	可惡～！\t終究還是贏不了\t\t嗎？\t為什麼我會在這麼重要的地方輸掉？\t而且，還連累了身為\t對戰塔大君的老爸……！\t可惡！可惡！！
 45-msg_tower_mw_boss_02	\t啊，\t\t打得太精彩了！\t\t和\t\t的寶可夢合作無間、臨危不亂，\t能夠鍛鍊到這種地步，真是不簡單！\t兒子啊，把頭抬起來。\t沒有什麼好令你羞愧的。\t正因為你遇見了好勁敵，體驗了\t充實的冒險，你才能走到這一步。\t身為一位父親，沒比這個更開心的事了！\t\t啊，請讓我再次向\t\t道謝！\t然後如果可以的話，\t今後也請\t\t多多照顧\t\t。\t好了，你們的冒險才剛剛開始！\t把握住眼前無窮的時間，\t在這個無盡的世界上攜手同行吧！
 97-msg_rock_02	野生的大尾狸使用攀岩幫助了\t\t！
-45-msg_tower_ms_c01gym0101_leader_01	這裡是對戰的聖地，\t\t就在這裡\t盡情地和其他人較量實力吧！
+45-msg_tower_ms_c01gym0101_leader_01	這裡是對戰的聖地，\t讓我們盡情地較量實力吧！
 45-msg_tower_ms_c01gym0101_leader_02	我想要是\t\t的話，\t說不定能夠攻下這裡的頂點。
 45-msg_tower_ms_c03gym0101_leader_01	我的寶可夢有了大～幅的成長喔。\t\t要看看嗎？
 45-msg_tower_ms_c03gym0101_leader_02	\t的寶可夢也大～幅成長了呢！
@@ -10289,7 +10359,7 @@ msg_t03_woman2_03	\t知道「葛拉西蒂亞花」嗎？\t從古時候開始，�
 20-msg_c10r0111_champion_11_1b	最近過得還好嗎？\t一看\t\t的神情，我就立刻明白……\t\t克服各式各樣的困難，\t變得更加堅強了。\t以一名寶可夢訓練家而言，\t戰勝對手這點當然很重要。\t但我認為，讓自己周遭的人和寶可夢\t都變得幸福，才算是能獨當一面。\t今天來挑戰的人是\t\t，真是太好了！\t現在就由我，竹蘭，拿出全力和\t\t對戰！
 45-msg_tower_ms_boss_03	從桄榔那裡得到了燃燒貼紙Ｃ。
 44-msg_tower_14	這位客人！\t您有在前一次挑戰暫停的紀錄。\t現在將從途中繼續挑戰，\t請選擇參加的寶可夢。
-45-msg_tower_80	若要挑戰大師級的對戰，\t必須在一般的對戰塔獲得４９連勝。\t另外，單打對戰和雙打對戰的勝利次數\t採的是個別統計，請留意這一點。\t請您要多多加油喔！
+45-msg_tower_80	若要挑戰大師級的對戰，\t必須在一般的對戰塔的單打對戰\t或雙打對戰其中之一獲得４９連勝。\t請您要多多加油喔！
 45-msg_tower_81	客人您目前在大師級對戰\t一共獲得了\t\t次勝利。
 45-msg_tower_82	達成\t\t次勝利，\t就能獲得\t\t。\t請您要多多加油喔！
 45-msg_tower_83	這位客人，\t恭喜您達成了\t\t次勝利！\t請您收下這個！
@@ -10301,6 +10371,14 @@ msg_t03_woman2_03	\t知道「葛拉西蒂亞花」嗎？\t從古時候開始，�
 79-msg_d30r0101_sppoke7_01	………………\t………………
 79-msg_d30r0101_sppoke7_02	達克萊伊在黑暗中\t失去了蹤影……
 DP_menu_msg2_2255_01	\t正跟著\t\t一起行動，\t所以無法使用！
+43-msg_d31r0101_tokkun_07_1	\t：\t\t個
+97-msg_kiri_04	野生的姆克鷹使出清除濃霧幫助了\t\t！
+35-msg_delete_04	要對這個紀錄做什麼？
+35-msg_delete_05	刪除
+35-msg_delete_06	退出
+35-msg_option_00	整理列表
+35-msg_option_01	返回
+74-msg_r228r0201_oldman1_13	為了學習招式，\t要讓牠忘記哪個招式啊？
 trad_chinese_dp_stickers_info.txt
 DP_STICKERS_INFO_000	
 DP_STICKERS_INFO_001	會有粉紅色小愛心\t往上浮起的貼紙。
@@ -11876,6 +11954,8 @@ DP_Trainers_Type_TR_KUROTUGU_01	對戰塔大君
 DP_Trainers_Type_TR_BOY_01	寶可夢訓練家
 DP_Trainers_Type_TR_GIRL_01	寶可夢訓練家
 DP_Trainers_Type_TR_MORIMOTO_01	GAME FREAK
+DP_Trainers_Type_TR_LOVELOVE_98	熱戀情侶（男方）
+DP_Trainers_Type_TR_LOVELOVE_99	熱戀情侶（女方）
 trad_chinese_dp_trainer_msg.txt
 0-mes_tower_tr_001_01	要上囉！
 0-mes_tower_tr_001_02	耶～！
@@ -11919,7 +11999,7 @@ trad_chinese_dp_trainer_msg.txt
 0-mes_tower_tr_014_01	我有的就是錢！
 0-mes_tower_tr_014_02	沒辦法，誰叫我就是有錢。
 0-mes_tower_tr_014_03	沒天理啊！\t我明明就這麼有錢！
-0-mes_tower_tr_015_01	哼～\t\t很強嘛，哼～
+0-mes_tower_tr_015_01	哼～\t\t很強是吧，哼～
 0-mes_tower_tr_015_02	哼～沒什麼了不起的嘛，哼～
 0-mes_tower_tr_015_03	哼～\t\t很強嘛，哼～
 0-mes_tower_tr_016_01	啊，那麼，\t準備開始了喔！
@@ -13307,7 +13387,7 @@ trad_chinese_dp_trainer_msg.txt
 1-COLLECTOR_03_TRMSG_FIGHT_LOSE	我實在太羨慕\t\t的圖鑑了……
 1-COLLECTOR_03_TRMSG_FIGHT_AFTER	每個訓練家身邊都帶著\t不同的寶可夢。\t所以和許多不同的訓練家對戰的話，\t應該能幫圖鑑填上不少內容喔！
 1-COLLECTOR_03_TRMSG_REVENGE_FIGHT_START	\t又跑來讓我看\t我身上沒有的\t寶可夢圖鑑啦！
-1-COLLECTOR_08_TRMSG_FIGHT_START	為了尋找喜愛的寶可夢，\t不論東南西北我哪裡都去！
+1-COLLECTOR_08_TRMSG_FIGHT_START	為了尋找喜愛的寶可夢，\t不論東西南北我哪裡都去！
 1-COLLECTOR_08_TRMSG_FIGHT_LOSE	我明明派出了我喜愛的寶可夢了！
 1-COLLECTOR_08_TRMSG_FIGHT_AFTER	為了尋找喜愛的寶可夢，\t不論是東西還是南北，\t\t都得去啊。
 1-COLLECTOR_08_TRMSG_REVENGE_FIGHT_START	為了尋找喜愛的寶可夢，\t不論東西南北我哪裡都去！\t……話雖如此我還一直\t在這裡晃來晃去的！
@@ -13589,7 +13669,7 @@ trad_chinese_dp_trainer_msg.txt
 1-SWIMMERW_14_TRMSG_FIGHT_START	我在比基尼大賽中\t獲得了優勝。\t所以這次我的目標是\t在超級華麗大賽中拿下優勝！
 1-SWIMMERW_14_TRMSG_FIGHT_LOSE	嗚～！
 1-SWIMMERW_14_TRMSG_FIGHT_AFTER	我得重新擬定作戰再來了！
-1-SWIMMERW_14_TRMSG_REVENGE_FIGHT_START	在比基尼大賽中\t獲勝的我是如此地完美……\t為了這次能在華麗大賽中獲勝，\t我要向\t\t挑戰！
+1-SWIMMERW_14_TRMSG_REVENGE_FIGHT_START	在比基尼大賽中\t獲勝的我是如此地完美……\t為了這次能在超級華麗大賽中獲勝，\t我要向\t\t挑戰！
 1-SWIMMERW_15_TRMSG_FIGHT_START	這個嘛，我喜歡的類型是\t和大海很相襯的人！
 1-SWIMMERW_15_TRMSG_FIGHT_LOSE	都退潮了……
 1-SWIMMERW_15_TRMSG_FIGHT_AFTER	我也不討厭\t和山林很相襯的人喔。
@@ -14814,7 +14894,7 @@ trad_chinese_dp_trainer_msg.txt
 1-LEADER1_04_TRMSG_FIGHT_LOSE	怎、怎麼可能！\t我鍛鍊許久的寶可夢們！！
 1-LEADER7_04_TRMSG_FIGHT_LOSE	唔～嗯！\t我培育的寶可夢們竟然……！！
 1-SEVEN2_04_TRMSG_FIGHT_WIN	快看！芽米！\t看得到出口了喔！
-1-SEVEN1_04_TRMSG_FIGHT_WIN	哎呀？麥兒～\t意外地贏得很輕鬆呢！
+1-SEVEN1_04_TRMSG_FIGHT_WIN	哎呀？麥兒～\t沒想到這麼簡單呢！
 1-SEVEN2_04_TRMSG_FIGHT_LOSE	咦？我們該怎麼辦\t才能走到出口呢？
 1-SEVEN1_04_TRMSG_FIGHT_LOSE	我想趕快走到出口呢……
 1-LEADER5_04_TRMSG_FIGHT_WIN	哦～呵呵呵！\t<size=250%>\t哦～呵呵呵！！\t</size>
@@ -14845,14 +14925,14 @@ trad_chinese_dp_trainer_msg.txt
 1-GINGALEADER1_04_TRMSG_FIGHT_WIN	說來聽聽吧～\t輸掉的滋味如何？
 1-GINGALBOSS_04_TRMSG_FIGHT_WIN	真無趣……\t\t的實力就只有這種程度嗎？
 1-GINGALEADER1_04_TRMSG_FIGHT_LOSE	怎麼可能！我竟然會輸！？
-1-GINGALBOSS_04_TRMSG_FIGHT_LOSE	不可能！不可能！不可能！
+1-GINGALBOSS_04_TRMSG_FIGHT_LOSE	怎麼可能、怎麼可能、怎麼可能！
 1-RIVAL_26_TRMSG_FIGHT_WIN	我贏了……！\t我終於擊敗\t\t了……！\t沒錯，就是我……\t我就是……\t這個世界上最強的寶可夢訓練家！
 1-TOWERBOSS_04_TRMSG_FIGHT_WIN	真可惜啊……\t不過真是一場精采的對戰。\t\t一定會變得更強的！\t期待\t\t再來挑戰。
 1-RIVAL_26_TRMSG_FIGHT_LOSE	怎麼可能……這是在作夢吧？\t搞什麼啊！
 1-TOWERBOSS_04_TRMSG_FIGHT_LOSE	精彩！\t真是太精彩了……！
 1-LEADER1_03_TRMSG_FIGHT_WIN	嗯，這就是岩石屬性\t寶可夢的實力呢！
 1-LEADER1_03_TRMSG_FIGHT_LOSE	怎、怎麼可能！\t我的寶可夢們！！
-1-LEADER2_03_TRMSG_FIGHT_WIN	看到沒？看到沒？\t草屬性寶可夢是會\t茁～壯成長的！
+1-LEADER2_03_TRMSG_FIGHT_WIN	看到沒？看到沒？\t草屬性寶可夢是會\t大～幅成長的！
 1-LEADER2_03_TRMSG_FIGHT_LOSE	一句話！就是我輸了！
 1-LEADER4_03_TRMSG_FIGHT_WIN	就算說是實力堅強，有時候\t卻意外地很簡單就能打敗了呢！
 1-LEADER4_03_TRMSG_FIGHT_LOSE	嗯，這個嘛，\t是我輸了……
@@ -15176,7 +15256,7 @@ trad_chinese_dp_tvshow.txt
 106-msg_tv_02_03_02_5	那麼，釣魚專家！\t您給\t\t的釣術打幾分呢！？
 106-msg_tv_02_03_02_6	唔嗯！\t甩竿時的腰身太無力！\t氣勢不足，只能給５分！
 106-msg_tv_02_03_02_7	非常遺憾！是５分！！\t\t！請多多加油！\t那麼，下一集也請準時收看！\t大家再見～！
-106-msg_tv_02_04_01_1	歡迎收看「群組發燒友」！\t今天我們也邀請到群組迷作為來賓。
+106-msg_tv_02_04_01_1	歡迎收看「群組發燒友」！\t今天我們也邀請到群組愛好者作為來賓。
 106-msg_tv_02_04_01_2	耶～！
 106-msg_tv_02_04_01_3	那麼，這次\t\t轉移到\t「\t\t」這個群組，\t請問您有什麼看法呢？
 106-msg_tv_02_04_01_4	耶～！\t挺不錯的啊！
@@ -15232,7 +15312,7 @@ trad_chinese_dp_tvshow.txt
 106-msg_tv_02_10_05_6	不過，去大濕地的時候要多小心喔！\t那麼，我們下次再見！
 106-msg_tv_02_12_01_1	現在為您公布\t寶可夢抽籤的開獎結果。\t本次的中獎號碼是：\t\t
 106-msg_tv_02_12_01_2	本次的中獎者是\t\t。\t獲得的獎品是\t\t。
-106-msg_tv_02_13_01_1	您現在收看的是\t「地底尋浪漫」。\t這次我們也邀請到\t遺跡迷作為節目來賓。
+106-msg_tv_02_13_01_1	您現在收看的是\t「地底尋浪漫」。\t這次我們也邀請到身為遺跡愛好者的\t遺跡迷作為節目來賓。
 106-msg_tv_02_13_01_2	大家好～
 106-msg_tv_02_13_01_3	好的，這次我們收到\t\t挖掘出\t\t的消息。
 106-msg_tv_02_13_01_4	因為地底下還有很多\t被埋藏的寶物啊～\t我只能說，會出現\t\t\t這樣的東西也不會太令人意外。
@@ -15259,7 +15339,7 @@ trad_chinese_dp_tvshow.txt
 108-msg_tv_01_09_02_5	好～那現在就把鏡頭交給現場的記者！
 108-msg_tv_01_09_02_6	嗨～各位觀眾！\t您正在收看的是祝慶電視台～！\t在這個球殼裝飾的展示場裡，擺設了\t神奧地區內具代表性的寶可夢訓練家們\t實際在使用的貼紙喔～！\t這些貼紙每一張都很珍貴……\t<size=75%>\t所以我說話都忍不住壓低音量了……！\t</size>
 108-msg_tv_01_09_02_7	現場正好有一位從剛才就全神貫注地\t一一欣賞這些展示品的訓練家。\t現在就來讓我們採訪\t\t吧～！
-106-msg_tv_02_20_01_1	歡迎收看「群組發燒友」！\t今天我們也邀請到群組迷作為來賓。
+106-msg_tv_02_20_01_1	歡迎收看「群組發燒友」！\t今天我們也邀請到群組愛好者作為來賓。
 106-msg_tv_02_20_01_2	耶～！
 106-msg_tv_02_20_01_3	那麼，這次\t\t建立了\t「\t\t」這個群組。\t請問您有什麼看法呢？
 106-msg_tv_02_20_01_4	耶～！滿好的啊。\t\t群組！
@@ -15519,39 +15599,39 @@ trad_chinese_dp_tvshow.txt
 108-msg_tv_01_10_18_1	街頭性格診斷時間！
 108-msg_tv_01_10_18_2	今天採訪到的訓練家\t是\t\t！\t根據我們的訪問，\t這位訓練家喜歡的屬性是「妖精」！
 108-msg_tv_01_10_18_3	根據診斷，喜歡妖精屬性的人……\t是非常可愛的小淘氣。\t就算周圍的人陷入消沉，\t他們也會用與生俱來，\t天真開朗的性格稍微惡作劇，\t幫忙吹散陰暗的情緒！\t以上的內容準不準呢？
-108-msg_tv_01_11_01_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬迷作為來賓！
+108-msg_tv_01_11_01_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬愛好者作為來賓！
 108-msg_tv_01_11_01_2	大家好～！請多指教～！
 108-msg_tv_01_11_01_3	這次我們來看看\t由\t\t攪拌製作的寶芬。
 108-msg_tv_01_11_01_4	哦～萬歲！\t是\t\t～！\t吃下這個，口中就會變成\t裝滿寶芬的珠寶盒呢～！
-108-msg_tv_01_11_01_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t五顏六色的珠寶盒做出來的呢！\t不愧是寶芬迷！
+108-msg_tv_01_11_01_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t五顏六色的珠寶盒做出來的呢！\t不愧是寶芬愛好者！
 108-msg_tv_01_11_01_6	我也想吃一口～！
 108-msg_tv_01_11_01_7	希望大家也能做出\t不輸給\t\t的美味寶芬喔！\t那麼，下次再見～！
-108-msg_tv_01_11_02_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬迷作為來賓！
+108-msg_tv_01_11_02_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬愛好者作為來賓！
 108-msg_tv_01_11_02_2	大家好～！請多指教～！
 108-msg_tv_01_11_02_3	這次我們來看看\t由\t\t攪拌製作的寶芬。
 108-msg_tv_01_11_02_4	哦～萬歲！\t是\t\t～！\t吃下這個，口中就會演奏起\t由寶芬譜成的交響樂呢～！
-108-msg_tv_01_11_02_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t震撼力十足的交響樂做出來的呢！\t不愧是寶芬迷！
+108-msg_tv_01_11_02_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t震撼力十足的交響樂做出來的呢！\t不愧是寶芬愛好者！
 108-msg_tv_01_11_02_6	我也想吃一口～！
 108-msg_tv_01_11_02_7	希望大家也能做出\t不輸給\t\t的美味寶芬喔！\t那麼，下次再見～！
-108-msg_tv_01_11_03_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬迷作為來賓！
+108-msg_tv_01_11_03_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬愛好者作為來賓！
 108-msg_tv_01_11_03_2	大家好～！請多指教～！
 108-msg_tv_01_11_03_3	這次我們來看看\t由\t\t攪拌製作的寶芬。
 108-msg_tv_01_11_03_4	哦～萬歲！\t是\t\t～！\t吃下這個，口中就會變成\t寶芬跳來跳去的彈跳床呢～！
-108-msg_tv_01_11_03_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t讓人心頭雀躍的彈跳床做出來的呢！\t不愧是寶芬迷！
+108-msg_tv_01_11_03_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t讓人心頭雀躍的彈跳床做出來的呢！\t不愧是寶芬愛好者！
 108-msg_tv_01_11_03_6	我也想吃一口～！
 108-msg_tv_01_11_03_7	希望大家也能做出\t不輸給\t\t的美味寶芬喔！\t那麼，下次再見～！
-108-msg_tv_01_11_04_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬迷作為來賓！
+108-msg_tv_01_11_04_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬愛好者作為來賓！
 108-msg_tv_01_11_04_2	大家好～！請多指教～！
 108-msg_tv_01_11_04_3	這次我們來看看\t由\t\t攪拌製作的寶芬。
 108-msg_tv_01_11_04_4	哦～萬歲！\t是\t\t～！\t這真是出乎我的意料呢～！
-108-msg_tv_01_11_04_5	\t看著剛完成的寶芬，\t的確也說這實在太出乎\t\t的意料呢！\t不愧是寶芬迷！
+108-msg_tv_01_11_04_5	\t看著剛完成的寶芬，\t的確也說這實在太出乎\t\t的意料呢！\t不愧是寶芬愛好者！
 108-msg_tv_01_11_04_6	我也想吃一口～！
 108-msg_tv_01_11_04_7	希望大家也能做出\t不輸給\t\t的美味寶芬喔！\t那麼，下次再見～！
-108-msg_tv_01_11_05_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬迷作為來賓！
+108-msg_tv_01_11_05_1	「寶芬萬歲」的時間到了！\t這次我們也邀請到寶芬愛好者作為來賓！
 108-msg_tv_01_11_05_2	大家好～！請多指教～！
 108-msg_tv_01_11_05_3	這次我們來看看\t由\t\t攪拌製作的寶芬。
 108-msg_tv_01_11_05_4	哦～萬歲！\t是\t\t～！\t吃下這個，口中就會變成\t寶芬華麗大賽呢～！
-108-msg_tv_01_11_05_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t超級華麗大賽做出來的呢！\t不愧是寶芬迷！
+108-msg_tv_01_11_05_5	\t看著剛完成的寶芬，\t的確也說這是想像著\t超級華麗大賽做出來的呢！\t不愧是寶芬愛好者！
 108-msg_tv_01_11_05_6	我也想吃一口～！
 108-msg_tv_01_11_05_7	希望大家也能做出\t不輸給\t\t的美味寶芬喔！\t那麼，下次再見～！
 108-msg_tv_01_13_01_1	各位觀眾大家好！\t今天過得如何啊？\t歡迎收看「互動廣場」。
@@ -15601,9 +15681,10 @@ trad_chinese_dp_tvshow.txt
 109-msg_tv_interview_type17	鋼
 109-msg_tv_interview_type18	妖精
 110-msg_tv_00_01_01	大家早安～！\t有在鍛鍊寶可夢嗎？\t「戰鬥訓練家」的時間到囉！
+108-msg_tv_01_09_02_11_female	是\t\t嗎！這樣啊～！\t那麼，可以告訴我們理由嗎？\t………………\t………………\t………………\t是，是……原來是這樣啊。\t這位訓練家實際跟\t\t對戰過，\t所以會有這樣的感覺！\t我們採訪到的這個人……\t<size=75%>\t其實是個很不得了的訓練家呢！\t</size>\t\t好～那現在就把鏡頭交還給攝影棚～！
 108-msg_tv_01_09_02_8	………………
 108-msg_tv_01_09_02_9	請問！\t\t喜歡哪一個人的球殼裝飾？
-108-msg_tv_01_09_02_10	
+108-msg_tv_01_09_02_10	\t。
 108-msg_tv_01_09_02_11	是\t\t嗎！這樣啊～！\t那麼，可以告訴我們理由嗎？\t………………\t………………\t………………\t是，是……原來是這樣啊。\t這位訓練家實際跟\t\t對戰過，\t所以會有這樣的感覺！\t我們採訪到的這個人……\t<size=75%>\t其實是個很不得了的訓練家呢！\t</size>\t\t好～那現在就把鏡頭交還給攝影棚～！
 108-msg_tv_01_09_02_12	好～謝謝這位記者的採訪～\t想不到會在那種地方遇到\t那麼厲害的訓練家呢～
 108-msg_tv_01_09_02_13	就是說呀～！
@@ -15675,18 +15756,14 @@ trad_chinese_dp_tvshow.txt
 105-msg_tvcm_30	你見識過對戰塔真正的面貌嗎？\t神奧地區最強的訓練家們\t較量的最高殿堂，大師級對戰。\t你能闖到哪一關？
 108-msg_tv_01_14_01_1	你現在收看的是「時尚街拍」！
 108-msg_tv_01_14_01_2	今天的模特兒是\t\t！
-108-msg_tv_01_14_01_3a	\t穿著\t\t\t亮麗地出現在\t\t！
+108-msg_tv_01_14_01_3a	\t穿著\t\t\t颯爽地出現在\t\t！
 108-msg_tv_01_14_01_3b	讓我們捕捉一張\t\t優雅地走在\t\t的模樣，\t好看清楚那身\t\t\t是怎麼穿搭的！
-108-msg_tv_01_14_01_3c	\t帶著認真的神情，\t騎乘自行車高速飛馳。\t\t\t也隨著在風中翻飛！
 108-msg_tv_01_14_01_4a_a	路上的行人似乎沒有什麼興趣，\t只是繼續走自己的路！
 108-msg_tv_01_14_01_4a_b	路上的行人似乎對\t\t巧妙的打扮\t產生興趣，\t紛紛停下腳步觀看！
 108-msg_tv_01_14_01_4a_c	\t壓倒性的魅力\t完全抓住路上行人的視線，\t而聚集起壯觀的人牆！
 108-msg_tv_01_14_01_4b_a	\t注意到我們的鏡頭時，\t有點緬靦地擺出姿勢！
 108-msg_tv_01_14_01_4b_b	\t注意到我們的鏡頭時，\t非常自然地擺出了姿勢！
 108-msg_tv_01_14_01_4b_c	\t注意到我們的鏡頭時，\t立刻大喊一聲「Showtime！」\t展現出相當有型的身段！
-108-msg_tv_01_14_01_4c_a	\t穿過草叢，飛越高低差，\t周圍的人都不禁捏了一把冷汗！
-108-msg_tv_01_14_01_4c_b	\t把４檔的速度發揮到極致，\t我們都還沒開口搭話，\t就已經咻～地看不見人影了！
-108-msg_tv_01_14_01_4c_c	\t靠著華麗的技術\t吸引到了一批路邊加油團！
 108-msg_tv_01_14_01_5	今天的內容還喜歡嗎？\t下次街拍團說不定就會造訪\t你的城市喔！
 109-msg_tv_interview_14_1	\t好！\t我們是祝慶電視台的採訪人員！\t請問\t\t願意接受採訪嗎？
 109-msg_tv_interview_14_2	唉呀呀，真可惜。\t那麼，下次有機會的話，\t請接受我們的採訪！
@@ -15789,12 +15866,12 @@ UNDERGROUND_INFO_389	晶燦的鑽石讓時間閃爍的\t大台座。
 UNDERGROUND_INFO_390	晶燦的鑽石讓時間閃爍的\t特大台座。
 UNDERGROUND_INFO_391	明亮的珍珠照亮空間的\t大台座。
 UNDERGROUND_INFO_392	明亮的珍珠照亮空間的\t特大台座。
-UNDERGROUND_INFO_393	向右旋轉的圓弧狀\t迷你台座。
-UNDERGROUND_INFO_394	向右旋轉的圓弧狀\t台座。
-UNDERGROUND_INFO_395	向右旋轉的圓弧狀\t大台座。
-UNDERGROUND_INFO_396	向左旋轉的圓弧狀\t迷你台座。
-UNDERGROUND_INFO_397	向左旋轉的圓弧狀\t台座。
-UNDERGROUND_INFO_398	向左旋轉的圓弧狀\t大台座。
+UNDERGROUND_INFO_393	向右旋轉的圓形\t迷你台座。
+UNDERGROUND_INFO_394	向右旋轉的圓形\t台座。
+UNDERGROUND_INFO_395	向右旋轉的圓形\t大台座。
+UNDERGROUND_INFO_396	向左旋轉的圓形\t迷你台座。
+UNDERGROUND_INFO_397	向左旋轉的圓形\t台座。
+UNDERGROUND_INFO_398	向左旋轉的圓形\t大台座。
 UNDERGROUND_INFO_399	能在牆壁上開洞，\t建造秘密基地的拋棄式鑽錐。
 UNDERGROUND_INFO_400	集中精神後出拳。\t若出拳前受到攻擊，\t則會失敗。
 UNDERGROUND_INFO_401	用尖銳的巨爪\t撕裂對手進行攻擊。
@@ -16333,8 +16410,8 @@ UNDERGROUND_INFO_1110	用四角形石頭打造的\t特大台座。
 UNDERGROUND_INFO_1111	用圓形石頭打造的\t特大台座。
 UNDERGROUND_INFO_1112	用厚實的梯形石頭\t打造的特大台座。
 UNDERGROUND_INFO_1113	透明到可看到另一側的\t特大台座。
-UNDERGROUND_INFO_1114	向右旋轉的圓弧狀\t特大台座。
-UNDERGROUND_INFO_1115	向左旋轉的圓弧狀\t特大台座。
+UNDERGROUND_INFO_1114	向右旋轉的圓形\t特大台座。
+UNDERGROUND_INFO_1115	向左旋轉的圓形\t特大台座。
 trad_chinese_dp_underground_name.txt
 UNDERGROUND_NAME_000	
 UNDERGROUND_NAME_001	紅玉Ｓ
@@ -20489,7 +20566,7 @@ SS_box_192
 SS_box_582	Lv.\t
 SS_box_193	這隻寶可夢不能用來交換。
 SS_box_194	沒有可以用來交換的寶可夢。
-SS_box_195	蛋不能用來交換。
+SS_box_195	在這裡蛋不能用來交換。
 SS_box_196	登錄在對戰隊伍的寶可夢\t不能用來交換。
 SS_box_198	要將\t\t\t加入黑名單嗎？
 SS_box_199	如果加入到黑名單，\t就無法再透過連線和對方一起玩。\t確定要繼續嗎？
@@ -20531,6 +20608,7 @@ SS_box_236	了不起
 SS_box_237	太完美了！
 SS_box_577	完成鍛鍊了！
 SS_box_369	標記
+SS_box_588	對方已中止交換。
 trad_chinese_ss_boxname.txt
 SS_boxname_001	盒子１
 SS_boxname_002	盒子２
@@ -24808,8 +24886,8 @@ SS_btl_tower_main_028	確定
 SS_btl_tower_main_029	退出
 SS_btl_tower_main_030	對戰塔
 SS_btl_tower_main_031	在對戰塔中，\t請遵守以下的規則進行對戰。\t使用６隻不同的寶可夢\t組成對戰隊伍。\t隊伍中的寶可夢\t不能攜帶相同的道具。
-SS_btl_tower_main_032	大師級單打模式
-SS_btl_tower_main_033	大師級雙打模式
+SS_btl_tower_main_032	大師級單打對戰
+SS_btl_tower_main_033	大師級雙打對戰
 trad_chinese_ss_btl_tower_menu_ui_text.txt
 msg_tower_receptionist_14	請選擇對戰規則與寶可夢。
 msg_tower_receptionist_15	那麼這邊請！
@@ -24822,7 +24900,7 @@ msg_tower_receptionist_05	恭喜！\t您的級別上升到了\t\t！
 msg_tower_receptionist_06	請收下級別上升的獎勵！
 msg_tower_receptionist_07	盒子的評定功能\t已開放！
 msg_tower_receptionist_08	已可選擇對戰塔中的音樂！
-msg_tower_description_00	對戰塔正如其名，\t是進行寶可夢對戰的設施。\t在對戰塔中，\t可以用和級別對戰一樣的規則\t來進行訓練家對戰。\t勝利的話，\t可以獲得神奇糖果和ＢＰ。\t歡迎您隨時來挑戰，\t磨練您的對戰技術吧。
+msg_tower_description_00	對戰塔正如其名，\t是進行寶可夢對戰的設施。\t在對戰塔中，\t可以進行單打對戰和雙打對戰，\t甚至進一步挑戰它們的大師級對戰。\t勝利的話，\t可以獲得神奇糖果和ＢＰ。\t歡迎您隨時來挑戰，\t磨練您的對戰技術吧。
 msg_tower_choice_00	開始挑戰
 msg_tower_choice_01	聽說明
 msg_tower_choice_02	取消
@@ -25568,7 +25646,7 @@ ITEMINFO_460	欲取得寶可夢手錶，簡稱寶可錶時\t所需的兌換券�
 ITEMINFO_461	欲取得寶可夢手錶，簡稱寶可錶時\t所需的兌換券。需要３張。
 ITEMINFO_462	欲取得寶可夢手錶，簡稱寶可錶時\t所需的兌換券。需要３張。
 ITEMINFO_463	用於進入銀河隊在\t帷幕市市郊的\t可疑倉庫的鑰匙。
-ITEMINFO_464	在湛藍市的藥店裡得到的，\t不管什麼寶可夢都能立刻\t變得精力充沛的高效藥。
+ITEMINFO_464	能在湛藍市的藥店裡得到的，\t不管什麼寶可夢都能立刻\t變得精力充沛的高效藥。
 ITEMINFO_465	很酷的機器。\t可以記錄和朋友或\t在特殊設施裡的對戰過程。
 ITEMINFO_466	在生日或紀念日等日子裡，\t為了表達感激之情，\t有時會將其紮成花束送出。
 ITEMINFO_467	在特定的地方使用，\t就會發出特殊電子訊號\t來開門的高科技鑰匙。
@@ -36490,6 +36568,7 @@ SS_level_up_02_05	１\t、２\t…\t…\t空！\t\t\t\t把\t\t\t的使用方法�
 SS_level_up_02_06	\t最終沒有學會\t\t！
 SS_level_up_03_01	忘記！
 SS_level_up_03_02	不忘記
+SS_level_up_02_08	獲得了經驗值！
 trad_chinese_ss_message_error.txt
 SS_message_error_001	序號認證伺服器發生錯誤。\t請稍後再試。
 SS_message_error_003	序號認證伺服器正在進行維護作業，\t因此無法連線。\t請稍後再試。
@@ -37394,14 +37473,14 @@ SS_net_net_btl_114	在準備完成之前請稍候片刻。\tＢ鍵：退出
 SS_net_net_btl_115	退出
 SS_net_net_btl_116	對方提議更改對戰規則。\t是否要接受？
 SS_net_net_btl_117	新的規則：\t
-SS_net_net_btl_118	準備完成！\t現在將開始連線對戰！
+SS_net_net_btl_118	準備完成！\t開始連線對戰！
 SS_net_net_btl_119	歡迎來到圓形競技場。\t要是有任何問題請儘管吩咐喔！
 SS_net_net_btl_124	有人離開了圓形競技場，\t即將結束連線。
-SS_net_net_btl_121	在圓形競技場裡\t能用各種不同的規則來對戰。\t雙方就定位後，就會開始對戰。\t想更改規則的話，請來告訴我！
+SS_net_net_btl_121	在圓形競技場裡\t能用各種不同的規則來對戰。\t全員就定位後，就會開始對戰。
 SS_net_net_btl_122	即將更改對戰規則。\t確定要繼續嗎？
 SS_net_net_btl_123	在多人對戰中不能更改規則。\t若想更改規則，請先離開圓形競技場，\t然後重新選擇規則。
 SS_net_net_btl_125	正在搜尋對戰對手……
-SS_net_net_btl_126	已找到對戰對手！\t開始連線對戰！
+SS_net_net_btl_126	已決定對戰對手！\t開始連線對戰！
 SS_net_net_btl_127	退出
 SS_net_net_btl_128	確定
 SS_net_net_btl_129	登錄隊伍
@@ -37413,6 +37492,32 @@ SS_net_net_btl_134	參加的寶可夢數量不足。
 SS_net_net_btl_135	確定要使用這個規則嗎？
 SS_net_net_btl_136	對手
 SS_net_net_btl_137	開始混合雙方的寶可夢！
+SS_net_net_btl_141	蛋無法參加對戰。
+SS_net_net_btl_142	隊伍中有無法參加的寶可夢。
+SS_net_net_btl_143	隊伍中有攜帶了相同道具的寶可夢。
+SS_net_net_btl_144	對戰隊伍中的寶可夢有問題。
+SS_net_net_btl_145	參加的寶可夢有問題。
+SS_net_net_btl_138	選擇隊伍
+SS_net_net_btl_139	選擇對戰規則
+SS_net_net_btl_140	確定規則！
+SS_net_net_btl_146	寶可夢的數量
+SS_net_net_btl_147	寶可夢的等級
+SS_net_net_btl_148	特殊的寶可夢
+SS_net_net_btl_149	相同的寶可夢
+SS_net_net_btl_150	相同的道具
+SS_net_net_btl_151	\t隻
+SS_net_net_btl_152	等級\t\t以上
+SS_net_net_btl_153	\t～\t\t隻
+SS_net_net_btl_154	全部設定為等級\t
+SS_net_net_btl_155	設定為等級\t\t以下
+SS_net_net_btl_156	可以參加
+SS_net_net_btl_157	無法參加
+SS_net_net_btl_158	允許攜帶
+SS_net_net_btl_159	禁止攜帶
+SS_net_net_btl_160	無限制
+SS_net_net_btl_161	對戰規則
+SS_net_net_btl_061	確認規則
+SS_net_net_btl_162	退出
 trad_chinese_ss_net_trade_demo.txt
 SS_net_trade_demo_06	將\t\t發送給\t\t！\t拜拜，\t\t。
 SS_net_trade_demo_07	將\t\t還給\t\t！\t謝謝，\t\t。
@@ -37538,8 +37643,6 @@ SS_option_053	否
 SS_option_054	初始化
 SS_option_055	要更改設定嗎？
 SS_option_056	設定已更改。\t\t
-SS_option_058	小輕鬆模式
-SS_option_059	方便單手操作的模式。
 SS_option_060	
 SS_option_061	鏡頭　上／下
 SS_option_062	預設
@@ -38103,7 +38206,7 @@ SS_strinput_012	對戰隊伍的名字是？
 SS_strinput_015	請輸入序號／密語。
 SS_strinput_021	您的出生月份是？
 SS_strinput_022	您的出生日期是？
-SS_strinput_026	可設定８位密碼。
+SS_strinput_026	請設定８位密碼。
 SS_strinput_028	請輸入大賽ＩＤ。
 SS_strinput_029	請輸入對戰團隊編號。
 SS_strinput_030	請輸入想租用的隊伍ＩＤ。
@@ -38881,7 +38984,7 @@ SS_trainer_license_common_44	美麗華麗大賽
 SS_trainer_license_common_45	可愛華麗大賽
 SS_trainer_license_common_46	聰明華麗大賽
 SS_trainer_license_common_47	強壯華麗大賽
-SS_trainer_license_common_48	一般
+SS_trainer_license_common_48	普通
 SS_trainer_license_common_49	高手
 SS_trainer_license_common_50	究極
 SS_trainer_license_common_51	大師
@@ -40733,7 +40836,7 @@ ui_msg_xmenu_timeline_guide_53	去調查立志湖發生了什麼事吧。
 ui_msg_xmenu_timeline_guide_54	去看看心齊湖的情況吧。
 ui_msg_xmenu_timeline_guide_87	阻止在心齊湖的銀河隊吧。
 ui_msg_xmenu_timeline_guide_55	去看看睿智湖的情況吧。
-ui_msg_xmenu_timeline_guide_88	獲得「怪力」的招式學習器吧。
+ui_msg_xmenu_timeline_guide_88	在迷失塔獲得「怪力」的招式學習器吧。
 ui_msg_xmenu_timeline_guide_56	去雪峰道館吧。
 ui_msg_xmenu_timeline_guide_89	前往銀河隊的基地吧。
 ui_msg_xmenu_timeline_guide_58	尋找進入銀河隊基地的方法吧。
@@ -40743,7 +40846,7 @@ ui_msg_xmenu_timeline_guide_60	從銀河帷幕大樓重新進入吧。
 ui_msg_xmenu_timeline_guide_61	救出被囚禁的寶可夢們吧。
 ui_msg_xmenu_timeline_guide_62	按下按鈕救出被囚禁的寶可夢們吧。
 ui_msg_xmenu_timeline_guide_63	阻止在天冠山頂的銀河隊吧。
-ui_msg_xmenu_timeline_guide_91	獲得「攀岩」的招式學習器吧。
+ui_msg_xmenu_timeline_guide_91	在２１７號道路\t獲得「攀岩」的招式學習器吧。
 ui_msg_xmenu_timeline_guide_64	讓失控的傳說的寶可夢鎮靜下來吧。
 ui_msg_xmenu_timeline_guide_65	去看看濱海市的情況吧。
 ui_msg_xmenu_timeline_guide_66	去尋找濱海道館的道館館主吧。
@@ -40759,7 +40862,7 @@ ui_msg_xmenu_timeline_guide_79	在神奧地區各處冒險吧。
 ui_msg_xmenu_timeline_communication_01	附近好像有能透過\t鄰近主機通訊遊玩的人。
 ui_msg_xmenu_timeline_pokeoutbreak_00	有人在\t\t\t目擊到大量的\t\t！
 ui_msg_xmenu_timeline_guide_93	調查銀河百代大樓的內部吧。
-ui_msg_xmenu_timeline_guide_94	調查立志湖的入口附近吧
+ui_msg_xmenu_timeline_guide_94	調查立志湖的入口附近吧。
 ui_msg_xmenu_timeline_guide_95	擊敗雪峰道館的道館館主吧。
 trad_chinese_ss_zkn_form.txt
 ZKN_FORM_000_000	

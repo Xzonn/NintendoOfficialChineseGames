@@ -71,7 +71,7 @@ DLP_adventure_note_020_01	Lying at the end of \t<color=#F01E1EFF>\tRoute 221\t</
 DLP_adventure_note_020_02	<color=#F01E1EFF>\tMysterious Shards\t</color>\t that you dig up while in the\tGrand Underground can be traded for \t<color=#F01E1EFF>\tslates\t</color>\t.\tYou can then use these slates in various rooms\tat \t<color=#F01E1EFF>\tRamanas Park\t</color>\t.
 DLP_adventure_note_020_03	Each room at \t<color=#F01E1EFF>\tRamanas Park \t</color>\tholds a \t<color=#F01E1EFF>\tpedestal\t</color>\t.\tIf you use the \t<color=#F01E1EFF>\tslate \t</color>\tthat matches a given pedestal,\tyou may find yourself in a mysterious new space.\tIn these spaces, you can encounter\t<color=#F01E1EFF>\tLegendary Pokémon\t</color>\t!
 DLP_adventure_note_021_00	The Union Room
-DLP_adventure_note_021_01a	In the \t<color=#F01E1EFF>\tUnion Room\t</color>\t, you can use local\tcommunication or the internet to trade Pokémon\tand battle with other Trainers. You can enter from\ta \t<color=#F01E1EFF>\tPokémon Center\t</color>\t or by pressing the \t<color=#F01E1EFF>\tY Button\t</color>\t.
+DLP_adventure_note_021_01a	In the \t<color=#F01E1EFF>\tUnion Room\t</color>\t, you can use local\tcommunication or the internet to trade Pokémon\tand battle with other Trainers. You can enter from\ta \t<color=#F01E1EFF>\tPokémon Center\t</color>\t.
 DLP_adventure_note_021_02	Visit the \t<color=#F01E1EFF>\tLocal Room\t</color>\t to connect with other\tplayers nearby, or enter the \t<color=#F01E1EFF>\tGlobal Room\t</color>\t\tto connect over the internet with players\tfrom all around the world!
 DLP_adventure_note_022_00	The Global Wonder Station
 DLP_adventure_note_022_01	At the \t<color=#F01E1EFF>\tGlobal Wonder Station\t</color>\t (GWS) in \t<color=#F01E1EFF>\tJubilife\tCity\t</color>\t, you can make \t<color=#F01E1EFF>\tWonder Trades\t</color>\t with players\tworldwide. You never know what Pokémon you\tmight receive in a Wonder Trade until it arrives!
@@ -95,6 +95,7 @@ DLP_adventure_note_015_simplified	Use the Explorer Kit from your Bag’s Key Ite
 DLP_adventure_note_021_01b	In the \t<color=#F01E1EFF>\tUnion Room\t</color>\t, you can use local communication\tto trade Pokémon with players nearby. You can enter\tfrom a \t<color=#F01E1EFF>\tPokémon Center\t</color>\t.
 DLP_adventure_note_021_simplified	You can interact with other players by visiting\tthe Union Room inside any Pokémon Center!
 DLP_adventure_note_022_simplified	Customize your personal globe by making\tWonder Trades in the GWS!
+DLP_adventure_note_021_01a_patch1	In the \t<color=#F01E1EFF>\tUnion Room\t</color>\t, you can use local\tcommunication or the internet to trade Pokémon\twith other Trainers. You can enter from\ta \t<color=#F01E1EFF>\tPokémon Center\t</color>\t.
 english_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	
 CONTESTWAZA_INFO_001	This move has no additional effects.
@@ -107,7 +108,7 @@ CONTESTWAZA_INFO_011	Hype Points gained will increase by \t\t if groove\tis posi
 CONTESTWAZA_INFO_014	Hype Points gained will increase by \t\t if groove\tis negative.
 CONTESTWAZA_INFO_017	You will receive 1−5 Hype Points, depending on the\tPokémon’s groove.
 english_dlp_gmstation.txt
-DLP_GMStation_001	A Nintendo Switch Online membership is\trequired to use the Global Wonder Station.\tPlease try to access GWS features again after\tbecoming a Nintendo Switch Online member.
+DLP_GMStation_001	A paid Nintendo Switch Online membership is\trequired to use the Global Wonder Station.\tPlease try to access GWS features again if you\tbecome a Nintendo Switch Online member.
 DLP_GMStation_002	Please check your connection.
 DLP_GMStation_003	Are you finished using the GWS?
 DLP_GMStation_004	This icon will be deleted. Is that OK?
@@ -195,7 +196,7 @@ DLP_net_union_room_003	You’re much more likely to have a successful\ttrade if 
 DLP_net_union_room_004	As for record mixing, I hear that something good\tmay happen if you mix your records with others’!
 DLP_net_union_room_005	It looks like your connection is unstable.\tPlease talk to me again later!
 DLP_net_union_room_006	Toggle connection
-DLP_net_union_room_007	Hm? It appears that you are not currently a\tNintendo Switch Online member.\tA Nintendo Switch Online membership is\trequired to use the Global Club.\tPlease come back after becoming a member.
+DLP_net_union_room_007	It appears that you are not currently a\tNintendo Switch Online member.\tA paid Nintendo Switch Online membership is\trequired to use the Global Club.\tPlease try to access the Global Club again if you\tbecome a Nintendo Switch Online member.
 DLP_net_union_room_008	What would you like to do right now?
 DLP_net_union_room_009	No preference!
 DLP_net_union_room_010	I’d like to battle!
@@ -217,17 +218,16 @@ DLP_net_union_room_025	Failed to find enough members.
 DLP_net_union_room_026	Dividing into teams...
 DLP_net_union_room_027	Would you like to join a Multi Battle?
 DLP_net_union_room_028	Sorry. We already have enough members.\tMaybe next time!
-DLP_net_union_room_029	Your ID will be visible to others. Is this OK?
 DLP_net_union_room_030	Nice to meet you!
 DLP_net_union_room_031	Do you want to cancel the battle?
 DLP_net_union_room_032	Taking you to the Global Room...
 DLP_net_union_room_033	Taking you to the Local Room...
 DLP_net_union_room_034	You’re now in the Global Room.
 DLP_net_union_room_035	You’re now in the Local Room.
-DLP_net_union_room_036	Oh, you’re in the mood to battle, are you?\tI’ll try to find a friend who wants to do the same.
-DLP_net_union_room_037	Oh, you’re in the mood to trade, are you?\tI’ll try to find a friend who wants to do the same.
-DLP_net_union_room_038	Oh, you don’t have any preference, do you?\tI’ll try to find a friend for you with that in mind.
-DLP_net_union_room_039	Would you like to start a battle?
+DLP_net_union_room_036	Oh, you’re in the mood to battle, are you?\tI’ll try to find friends who want to do the same.
+DLP_net_union_room_037	Oh, you’re in the mood to trade, are you?\tI’ll try to find friends who want to do the same.
+DLP_net_union_room_038	Oh, you don’t have any preference, do you?\tI’ll try to find friends for you with that in mind.
+DLP_net_union_room_039	Would you like to start a battle with these rules?
 DLP_net_union_room_040	Record Mixing
 DLP_net_union_room_041	Please choose your Battle Team.
 DLP_net_union_room_042	You will play with one other person. Each of you\twill bring out one Pokémon to battle.\tBefore the battle begins, the participating\tPokémon will be shuffled between players.
@@ -240,14 +240,13 @@ DLP_net_union_room_048	You can only communicate with people who are\tin the same
 DLP_net_union_room_049	Oh? It seems you haven’t joined a group yet.\tPlease join a group before entering the room.
 DLP_net_union_room_050	If you set a Link Code, you can communicate\tonly with people who set the same Link Code.
 DLP_net_union_room_051	Right this way, please.
-DLP_net_union_room_052	You can’t enter the Local Room from here.\tPlease move to a different location.
 DLP_net_union_room_053	Would you like to use the Global Room?
 DLP_net_union_room_054	Would you like to use the Local Room?
 DLP_net_union_room_055	You’ll enter the Local Room again.
 DLP_net_union_room_056	You’ll be leaving the Local Room. Is that OK?
 DLP_net_union_room_057	You’ll be leaving the Global Room. Is that OK?
 DLP_net_union_room_061	You can see each other’s Capsule Decorations.\tPlace the Capsule Decoration you want to show\toff at the top of the list.\tYou’re interested in seeing other Trainers’\tCapsule Decorations, aren’t you?\tIf you like someone’s Sticker setup, you can copy\tit to your list. Go ahead and try it out!
-DLP_net_union_room_064	Opponent: \t
+DLP_net_union_room_064	Opponent:
 DLP_net_union_room_065	I’m \t\t!
 DLP_net_union_room_066	I’m \t\t!
 DLP_net_union_room_067	\t is deciding what to do...
@@ -261,7 +260,6 @@ DLP_net_union_room_074	Would you like to participate in record mixing?
 DLP_net_union_room_075	Your ID will be visible to others. Is that OK?
 DLP_net_union_room_076	Thanks for waiting. Here’s my Trainer Card!
 DLP_net_union_room_077	Thanks for waiting. Here’s my Trainer Card!
-DLP_net_union_room_078	Would you like to cancel looking at their\tTrainer Card?
 DLP_net_union_room_079	You don’t have any customized Ball Capsules.
 DLP_net_union_room_080	Sure thing! I’ll show you my Capsule Decoration!
 DLP_net_union_room_081	Sure thing! I’ll show you my Capsule Decoration!
@@ -269,18 +267,17 @@ DLP_net_union_room_082	Oops! I haven’t done any Capsule Decoration.\tSorry! Ne
 DLP_net_union_room_083	Oops! I haven’t done any Capsule Decoration.\tSorry! Next time.
 DLP_net_union_room_084	Thank you for waiting.\tHere’s my Capsule Decoration!
 DLP_net_union_room_085	Thank you for waiting.\tHere’s my Capsule Decoration!
-DLP_net_union_room_086	Would you like to cancel looking at their\tCapsule Decoration?
 DLP_net_union_room_087	Would you like to copy \t\t’s\tCapsule Decoration?
 DLP_net_union_room_088	Please select a Ball Capsule you would like to\tcopy the Capsule Decoration onto.
 DLP_net_union_room_089	Would you like to copy the Capsule Decoration\tonto this Ball Capsule?
 DLP_net_union_room_090	The Capsule Decoration has been copied.
 DLP_net_union_room_091	\t wants to show you their\tCapsule Decoration.\tWould you like to show yours to them?
-DLP_net_union_room_092	You saw \t\t’s Capsule Decoration.
+DLP_net_union_room_092	\t is showing you their\tCapsule Decoration.
 DLP_net_union_room_093	You’ll enter the Local Room again.
 DLP_net_union_room_094	It’s fun to show our Capsule Decorations to\teach other!
 DLP_net_union_room_095	It’s fun to show our Capsule Decorations to\teach other!
 DLP_net_union_room_096	I’m just showing my Trainer Card as my way\tof greeting.
-DLP_net_union_room_097	You can’t use the Capsule Decoration feature.
+DLP_net_union_room_097	You can’t use the Capsule Decoration\tfeature yet.
 DLP_net_union_room_098	You don’t have a blank Ball Capsule.
 DLP_net_union_room_099	Would you like to have a Single Battle?
 DLP_net_union_room_100	Would you like to have a Double Battle?
@@ -289,7 +286,15 @@ DLP_net_union_room_102	Would you like to have a Multi Battle?
 DLP_net_union_room_103	Leave the room
 DLP_net_union_room_058	Tell me more
 DLP_net_union_room_104	Welcome to the Local Room!\tPlease enjoy trading Pokémon with a lot\tof people!
-DLP_net_union_room_105	You canceled the trade.
+DLP_net_union_room_063	Battle format:
+DLP_net_union_room_106	Local Room
+DLP_net_union_room_107	Global Room
+DLP_net_union_room_108	Next
+DLP_net_union_room_109	
+DLP_net_union_room_110	
+DLP_net_union_room_111	Union Room
+DLP_net_union_room_112	You don’t have a Pokémon you can trade!
+DLP_net_union_room_113	\t is changing the rules.
 english_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	A small shard that emanates an enigmatic power. Inside\tthe shard, you can see a pattern that looks like\tRamanas roses.
@@ -1283,6 +1288,9 @@ DLP_staff_list_623	Pokémon.
 DLP_staff_list_624	Nintendo
 DLP_staff_list_625	Creatures Inc.
 DLP_staff_list_626	GAME FREAK inc.
+DLP_staff_list_627	OrgoSoft Co., Ltd.
+DLP_staff_list_628	Masahiro Hayakawa
+DLP_staff_list_629	Takuya Ishizuki
 english_dlp_stickers.txt
 DLP_stickers_001	CAPSULE DECORATION
 DLP_stickers_002	Please select a Ball Capsule.
@@ -1307,7 +1315,6 @@ DLP_stickers_020	Swap
 DLP_stickers_021	Quit
 DLP_stickers_024	The Ball Capsules have been swapped.
 DLP_stickers_025	You can’t place any Stickers on this Ball Capsule.
-DLP_stickers_026	\t’s Ball Capsule has\tbeen removed.
 DLP_stickers_027	You don’t have any Stickers that you can place.
 DLP_stickers_028	Would you like to copy to this Ball Capsule?
 DLP_stickers_029	You can’t copy to this Ball Capsule because it\talready has Stickers placed on it.
@@ -1620,8 +1627,8 @@ DLP_underground_610	You put \t\t \t\t\tin your Explorer Kit.
 DLP_underground_611	Register
 DLP_underground_736	\t/10
 DLP_underground_737	×\t
-DLP_underground_612	Which connection would you like to use for\tentering the Grand Underground?
-DLP_underground_613	You can play with people nearby.\tWould you like to enter the Grand Underground?
+DLP_underground_612	Which mode would you like to use to enter the\tGrand Underground?
+DLP_underground_613	You can play with nearby people.\tWould you like to enter the Grand Underground?
 DLP_underground_614	Oh? It seems you haven’t joined a group yet.\tPlease join a group first.
 DLP_underground_615	Call
 DLP_underground_616	Return to the surface
@@ -1637,6 +1644,12 @@ DLP_underground_623	 Great!
 DLP_underground_624	I’m thinking about doing some Fossil digging...\tI’d really appreciate it if you dug next to me.
 DLP_underground_625	I’m thinking about doing some Fossil digging...\tI’d really appreciate it if you dug next to me.
 DLP_underground_498_footer	Statue effect
+DLP_underground_757	You’ll be able to play with friends all over the\tworld via the internet.\tWould you like to enter the Grand Underground?
+DLP_underground_758	\t has entered the Grand Underground.
+DLP_underground_759	\t has returned to the surface.
+DLP_underground_508	Turn effect \t<color=#0064FFFF>\tOFF\t</color>
+DLP_underground_511	You turned this Secret Base’s effect \t<color=#0064FFFF>\tOFF\t</color>\t.
+DLP_underground_760	Someone is already fossil digging here.
 DLP_underground_626	I heard that digging for Fossils is more efficient\twhen you cooperate with others.\tIf you’d like, let’s dig together!
 DLP_underground_627	I heard that digging for Fossils is more efficient\twhen you cooperate with others.\tIf you’d like, let’s dig together!
 DLP_underground_153	Which sphere will you trade me for\tmy \t\t?
@@ -1684,7 +1697,7 @@ DLP_underground_260	Sorry! Something’s come up!
 DLP_underground_261	You got \t\t\t!
 DLP_underground_263	The wall is bulging slightly. Would you like to try\tdigging into it?
 DLP_underground_264	Too bad! Your Bag is full!
-DLP_underground_265	Too bad! Your Bag is full!
+DLP_underground_265	Too bad! Your Explorer Kit is full!
 DLP_underground_266	Hello!
 DLP_underground_268	I’ll let you see my Trainer Case. May I see yours?
 DLP_underground_269	Oh, you’re busy right now? Sorry to bother you.\tMaybe next time!
@@ -1778,8 +1791,7 @@ DLP_underground_418	Cancel
 DLP_underground_419	Pedestals
 DLP_underground_420	Spheres
 DLP_underground_421	Statues
-DLP_underground_422	What mode would you like to play?
-DLP_underground_423	Local Communication
+DLP_underground_423	Local communication
 DLP_underground_424	Internet
 DLP_underground_425	Play alone
 DLP_underground_426	Communicating... Please stand by.
@@ -1863,7 +1875,7 @@ DLP_underground_503	Pedestal
 DLP_underground_504	 Put Pedestal Away
 DLP_underground_505	Put away
 DLP_underground_506	View effect
-DLP_underground_507	Effect \t<color=#F01E1EFF>\tON\t</color>
+DLP_underground_507	Turn effect \t<color=#F01E1EFF>\tON\t</color>
 DLP_underground_745	<color=#F01E1EFF>\tUpdate \t</color>\teffect
 DLP_underground_509	You turned this Secret Base’s effect \t<color=#F01E1EFF>\tON\t</color>\t.
 DLP_underground_660	I’m pretty sure that the Pokémon I just caught is\tvery rare!
@@ -1976,8 +1988,8 @@ DLP_underground_680	Collecting a lot of Glossy Stones can give you an\tadvantage
 DLP_underground_681	Collecting a lot of Glossy Stones can give you an\tadvantage in Fossil digging. That’s what I heard.
 DLP_underground_682	Isn’t it exciting when you find a Dugtrio while\tsearching for Glossy Stones?
 DLP_underground_683	Isn’t it exciting when you find a Dugtrio while\tsearching for Glossy Stones?
-DLP_underground_684	Dig into walls, and you’ll find Treasures galore.\tWhat an adventure!
-DLP_underground_685	Dig into walls, and you’ll find Treasures galore.\tWhat an adventure!
+DLP_underground_684	Dig into walls, and you’ll find treasures galore.\tWhat an adventure!
+DLP_underground_685	Dig into walls, and you’ll find treasures galore.\tWhat an adventure!
 DLP_underground_686	The Grand Underground is so vast, yet I always\tpass by a lot of people!
 DLP_underground_687	The Grand Underground is so vast, yet I always\tpass by a lot of people!
 DLP_underground_688	I met a guy who trades goods for spheres and\tgot something I’d been wanting for a while now!
@@ -2012,8 +2024,8 @@ DLP_underground_716	I was digging around here earlier and found an\tunusual ston
 DLP_underground_717	I was digging around here earlier and found an\tunusual stone!
 DLP_underground_718	What I’d give to find a Gorgeous Stone Box...
 DLP_underground_719	What I’d give to find a Gorgeous Stone Box...
-DLP_underground_720	Rumor has it you can get up to four Treasures\tper digging session!
-DLP_underground_721	Rumor has it you can get up to four Treasures\tper digging session!
+DLP_underground_720	Rumor has it you can get up to four treasures\tper digging session!
+DLP_underground_721	Rumor has it you can get up to four treasures\tper digging session!
 DLP_underground_722	Did you know that statues of the same Pokémon\tspecies can come in different colors?\tI hear placing differently-colored statues in your\tSecret Base has better-than-normal effects!
 DLP_underground_723	Did you know that statues of the same Pokémon\tspecies can come in different colors?\tI hear placing differently-colored statues in your\tSecret Base has better-than-normal effects!
 DLP_underground_724	Please remember that you can’t dig into the\tboarded walls.
@@ -2027,7 +2039,7 @@ DLP_underground_732	\t:\t
 DLP_underground_733	
 DLP_underground_734	/\t
 DLP_underground_739	Diglett and Dugtrio have appeared. Try searching\tfor them!
-DLP_underground_738	Something good may happen in the Grand\tUnderground! Try out a variety of activities!
+DLP_underground_738	Something good may happen in the Grand Underground!
 DLP_underground_740	You got \t\t because you collected\t\t \t\t.
 DLP_underground_741	\t (\t\t)
 DLP_underground_742	You don’t have enough spheres!
@@ -3153,7 +3165,7 @@ DP_CHARACTERS_139	Nancy
 DP_CHARACTERS_140	Speedy
 DP_CHARACTERS_141	Zackery
 DP_CHARACTERS_142	Chimpy
-DP_CHARACTERS_143	Tanya
+DP_CHARACTERS_143	Robin
 DP_CHARACTERS_144	Penny
 DP_CHARACTERS_145	Elias
 DP_CHARACTERS_146	Rampy
@@ -3401,7 +3413,7 @@ DP_contest_499	In a Super Contest Show, four performers work\ttogether, acting i
 DP_contest_500	The Visual Evaluation will be based on the\tPokémon’s conditions and the spectacle of\tits customized Ball Capsule.\tThere are five types of conditions: Coolness,\tBeauty, Cuteness, Cleverness, and Toughness.\tYou can raise each of these by giving your\tPokémon Poffins!\tCustomize your Capsule Decoration by placing\tStickers onto Ball Capsules. You can access them\tthrough the X menu or by using a PC.\tDifferent Stickers pair well with different contest\tshows, so try out a variety of them!
 DP_contest_501	The Dance Evaluation is based on your\trhythm skills!\tPush the button with the right timing as notes\tmove along with the music.\tScores for each note are divided into categories:\tToo Fast/Slow, Nice, Great, and Brilliant!\tThe better your timing, the more your Heart\tGauge will fill, and when it fills up completely,\tyou’ll get a \t<color=#F01E1EFF>\t♥\t</color>\t!\tA performance that earns a lot of \t<color=#F01E1EFF>\t♥\t</color>\ts is definitely\ta brilliant one! And that’ll be sure to send your\tDance Evaluation score sky high, too!\tCollecting \t<color=#F01E1EFF>\t♥\t</color>\ts will also raise the Hype Meter\tshared by all four performers, pumping up the\taudience into a frenzy!\tPut on successful shows to earn hall points,\tand you can gradually upgrade the stage into\tsomething truly magnificent!
 DP_contest_502	The Dance Evaluation is based on your\trhythm skills!\tPush the button with the right timing as notes\tmove along with the music.\tScores for each note are divided into categories:\tToo Fast/Slow, Nice, Great, and Shining!\tThe better your timing, the more your Heart\tGauge will fill, and when it fills up completely,\tyou’ll get a \t<color=#F01E1EFF>\t♥\t</color>\t!\tA performance that earns a lot of \t<color=#F01E1EFF>\t♥\t</color>\ts is definitely\ta shining one! And that’ll be sure to send your\tDance Evaluation score sky high, too!\tCollecting \t<color=#F01E1EFF>\t♥\t</color>\ts will also raise the Hype Meter\tshared by all four performers, pumping up the\taudience into a frenzy!\tPut on successful shows to earn hall points,\tand you can gradually upgrade the stage into\tsomething truly magnificent!
-DP_contest_503	The Move Evaluation is based on a Pokémon’s\tContest Move, which the Pokémon can only use\tonce during the performance!\tContest Moves can have a variety of effects\tthat will help with the Dance Evaluation.\tChoose the move you’d like in advance at the\treception desk, then use your Contest Move\twhen you feel like the moment is right!\tBased on the success of your move, you may\treceive \t<color=#F01E1EFF>\t♥\t</color>\ts from the audience!\tAlso, if you coordinate with other performers and\tuse Contest Moves in succession, you can create\ta Move Chain! Pull it off, and you’ll get more\t<color=#F01E1EFF>\t♥\t</color>\ts than if you’d just used a move on your own.\tIf you create a Move Chain with moves that have\tthe same condition, you’ll get even more \t<color=#F01E1EFF>\t♥\t</color>\ts.\tThe key to success is figuring out the perfect\ttime to use your Contest Move!
+DP_contest_503	The Move Evaluation is based on a Pokémon’s\tContest Move, which the Pokémon can only use\tonce during the performance!\tContest Moves can have a variety of effects\tthat will help with the Dance Evaluation.\tChoose the move you’d like in advance at the\treception desk, then use your Contest Move\twhen you feel like the moment is right!\tBased on the success of your move, you may\treceive \t<color=#F01E1EFF>\t♥\t</color>\ts from the audience!\tAlso, if you coordinate with other performers and\tuse Contest Moves in succession, you can create\ta Move Chain! Pull it off, and you’ll get more\t<color=#F01E1EFF>\t♥\t</color>\ts than if you’d just used a move on your own.\tIf you create a Move Chain with moves that have\tthe same type, you’ll get even more \t<color=#F01E1EFF>\t♥\t</color>\ts.\tThe key to success is figuring out the perfect\ttime to use your Contest Move!
 DP_contest_504	Please choose a Pokémon to enter, as well as its\tContest Move.
 DP_contest_505	Would you like to cancel your practice session?
 DP_contest_506	Please choose a Ball Capsule to use in\tthe Contest Show.
@@ -3491,7 +3503,7 @@ DP_contest_686	Hm?\tIt appears you don’t have any Pokémon with you\tthat are 
 DP_contest_615	Which would you like to participate in?
 DP_contest_616	Allow me to explain the rules of the Super\tContest Show!
 DP_contest_617	The Super Contest Show begins with the\tVisual Evaluation.
-DP_contest_618	This is an evaluation of your Pokémon’s\tstyle condition,
+DP_contest_618	It’s an evaluation of your Pokémon’s conditions,
 DP_contest_619	and the spectacle of its customized Ball Capsule!
 DP_contest_620	Next, the Dance Evaluation will begin.
 DP_contest_621	Here, your Pokémon’s rhythm will be evaluated!
@@ -3525,7 +3537,7 @@ DP_contest_660	Of course!
 DP_contest_661	Maybe?
 DP_contest_662	Not really
 DP_contest_663	I’m sorry. Your connection seems to be unstable.
-DP_contest_680	OK with these members!
+DP_contest_680	 OK with these members!
 DP_contest_681	 Cancel
 DP_contest_666	... ... ...
 DP_contest_667	Searching for members...
@@ -3546,7 +3558,7 @@ DP_contest_683	Would you like to quit the Link Contest Show?
 DP_contest_684	Good luck!
 DP_contest_691	Confirm
 DP_contest_692	Please accept this \t\t\tas your reward!
-DP_contest_693	And you’ve become Star of the Show in every\tcontest show!\tTo commemorate your achievement, I’ll present\tyou with \t\t\t!\tCongratulations!
+DP_contest_693	You’ve become Star of the Show in every\tcontest show!\tTo commemorate your achievement, I’ll present\tyou with this \t\t!\tCongratulations!
 english_dp_fld_areaname.txt
 DP_fld_arenames_000	Mystery Zone
 DP_fld_arenames_001	GWS
@@ -4324,11 +4336,11 @@ english_dp_net_communication.txt
 2-mes_dstrade_endstr	Quit
 3-msg_pcug_01_01	Oh, hello! Right this way, please!
 3-msg_pcug_01_02	Hello! I’m glad to meet you. My name is Teala,\tand I’m your guide to the Pokémon Global Club.
-3-msg_pcug_01_03	At this club, you can use the internet to connect\twith Trainers all over the world to battle, trade\tPokémon, and so on!\tWould you like to hear a more\tdetailed explanation?
+3-msg_pcug_01_03	If you have a paid Nintendo Switch Online\tmembership, you can use the internet to connect\twith Trainers all over the world in this club to\tbattle, trade Pokémon, and so on!\tYou can enter the Union Room any time by\tpressing the Y Button.\tNote there are some places, such as inside\tbuildings, where you can’t use it.\tWould you like to hear a more\tdetailed explanation?
 3-msg_pcug_01_05	I hope you enjoy your time in the Global Room!
-3-msg_pcug_01_06	Welcome to the Pokémon Center Global Club!\tMay I help you with anything?
-3-msg_pcug_01_07	Let me explain how to participate in the\tPokémon Global Club!\tYou can enter the Global Room from either of\tthe two counters on the left!\tIn the Global Room, you can set up Link Trades,\tLink Battles, and so on with Trainers from all over\tthe world!
-3-msg_pcug_02_01	Welcome to the Pokémon Global Club!\tWould you like to use the Global Room?
+3-msg_pcug_01_06	This is the Global Club.\tMay I help you with anything?
+3-msg_pcug_01_07	Let me explain how to participate in the\tPokémon Global Club!\tYou can enter the Global Room from either of\tthe two counters on the left, or by pressing the\tY Button!\tIn the Global Room, you can set up Link Trades,\tLink Battles, and so on with Trainers from all over\tthe world!
+3-msg_pcug_02_01	Welcome to the Union Room!\tThis is the Pokémon Global Club.\tWould you like to enter the Global Room?
 3-msg_pcug_02_02	Please do visit again.
 3-msg_pcug_02_03	Would you like to connect to the internet?
 3-msg_pcug_02_04	Right this way, please.
@@ -4370,8 +4382,9 @@ english_dp_net_communication.txt
 5-msg_dbc_rule15	
 5-msg_dbc_rule16	Maximum: \t
 7-msg_union_info_01_11	Would you like to start a Link Trade?
-7-msg_union_info_01_12	You can use local communication to trade\tPokémon with people nearby.\tYou might be able to meet a rare Pokémon!
+7-msg_union_info_01_12	You can use local communication to trade\tPokémon with people nearby.\tYou might come across a rare Pokémon!
 8-msg_connect_colosseum_18	I’m so sorry. The Colosseum isn’t ready yet.
+7-msg_union_info_01_13	Welcome to the Global Room.\tIf there is anything you need help with,\tplease let me know!
 5-msg_dbc_rule22	Permitted
 5-msg_dbc_rule23	Banned
 5-msg_dbc_rule24	Permitted
@@ -4426,7 +4439,7 @@ english_dp_net_communication.txt
 7-msg_union_connect_00_03	The chat has been dropped.
 7-msg_union_connect_00_04	Awaiting a response from \t\t...
 7-msg_union_connect_00_05	The chat was ended.
-7-msg_union_connect_01_01	You have an offer to see \t\t’s\tTrainer Card.\tWould you like to them show your Trainer Card?
+7-msg_union_connect_01_01	You have an offer to see \t\t’s\tTrainer Card.\tWould you like to show them your Trainer Card?
 7-msg_union_connect_01_02	This is \t\t’s Trainer Card.
 7-msg_union_connect_01_02_1	This is \t\t’s Trainer Card.
 7-msg_union_connect_01_02_2	This is \t\t’s Trainer Card.
@@ -4440,7 +4453,7 @@ english_dp_net_communication.txt
 7-msg_union_connect_04_04	In order to trade, you must have at least two\tPokémon with you.
 7-msg_union_connect_05_01	\t invites you to mix records.\tWould you like to mix records with this player?
 7-msg_union_connect_05_02	Record mixing will begin.
-7-msg_union_talkboy_00_02	\tThis is \t\t! Is there something that\tyou wanted to do?
+7-msg_union_talkboy_00_02	\tThis is \t\t!
 7-msg_union_talkboy_00_03	Whoops! Sorry, but I have to do something else.\tAnother time, OK?
 7-msg_union_talkboy_00_04	Do you want to do anything else?
 7-msg_union_talkboy_00_05	The Trainer appears to be busy...
@@ -4474,7 +4487,7 @@ english_dp_net_communication.txt
 7-msg_union_talkboy_06_10	I’m going to mix records with everyone!
 7-msg_union_talkboy_06_11	Mix it up! Keep mixing!
 7-msg_union_talkboy_06_12	You should mix records, too!
-7-msg_union_talkgirl_00_02	\tHello, it’s \t\t!\tWould you like to do something?
+7-msg_union_talkgirl_00_02	\tHello, it’s \t\t!
 7-msg_union_talkgirl_00_03	Whoops! Sorry, but I have to do something else.\tAnother time, OK?
 7-msg_union_talkgirl_00_04	Do you want to do anything else?
 7-msg_union_talkgirl_00_05	The Trainer appears to be busy...
@@ -4511,9 +4524,9 @@ english_dp_net_communication.txt
 7-msg_union_info_01_01	Welcome to the Local Room.\tIf there is anything you need help with, please\tlet me know!
 7-msg_union_info_01_02	How may I help you?
 7-msg_union_info_01_03	What would you like to hear more about?
-7-msg_union_info_01_04	In the Local Room, you may play four types of\tbattles with people nearby: Single Battles,\tDouble Battles, Mix Battles, and Multi Battles.
+7-msg_union_info_01_04	You may play two types of battles: Single\tBattles and Double Battles.\tPlease note that the opposing player can see\tyour Pokémon’s nicknames in these battles.
 7-msg_union_info_01_05	You may trade your Pokémon with other players.\tMeeting new people could be a shortcut to\tmeeting rare Pokémon!
-7-msg_union_info_01_06	You may communicate with other players and mix\tyour records.\tWhat will happen if you mix records, you ask?\tWe recommend that you try it and see!\tUp to five players can take part, so try it with\tyour friends!
+7-msg_union_info_01_06	You may communicate with other players and mix\tyour records.\tWhat will happen if you mix records, you ask?\tWe recommend that you try it and see!
 7-msg_union_info_02_01	Oh! Here comes someone now!\tInstead of me, why not strike up a chat with\tour newcomer?
 7-msg_union_info_02_09	Welcome to the Local Room!\tI’m the only one here now, but please do bring\tyour friends for some fun and excitement!
 7-msg_union_info_03_01	Tell me more
@@ -4524,16 +4537,16 @@ english_dp_net_communication.txt
 7-msg_union_info_03_06	Mix records
 7-msg_union_info_03_10	Back
 7-msg_connect_union_08	Talking to \t\t...
-7-msg_union_greeting_01	こんにちは！
+7-msg_union_greeting_01	Konnichiwa!
 7-msg_union_greeting_02	Hello!
 7-msg_union_greeting_03	Bonjour!
 7-msg_union_greeting_04	Ciao!
 7-msg_union_greeting_05	Hallo!
-7-msg_union_greeting_06	Hola!
+7-msg_union_greeting_06	¡Hola!
 7-msg_union_greeting_07	Annyeonghaseyo!
-8-msg_connect_colosseum_01	Welcome to the Pokémon Local Club Colosseum!\tYou may battle with your friends here.
-8-msg_connect_colosseum_02	Which Battle Mode would you like to play?
-8-msg_connect_colosseum_03	There are four Battle Modes.\tSingle Battle is for two Trainers with one\tPokémon each.\tDouble Battle is for two Trainers with two\tPokémon each.\tIn Mix Battles, two Trainers bring six Pokémon\teach, and three Pokémon are randomly selected\tfor each Trainer out of the total of 12. Then\tthe two Trainers battle.\tMulti Battle is for four Trainers with one Pokémon\teach. They battle against each other in teams\tof two.
+8-msg_connect_colosseum_01	Welcome to the Pokémon Colosseum!\tYou may battle with your friends here.
+8-msg_connect_colosseum_02	Which kind of battle would you like to choose?
+8-msg_connect_colosseum_03	There are two kinds of battles.\tSingle Battle is for two Trainers with one\tPokémon each.\tDouble Battle is for two Trainers with two\tPokémon each.
 8-msg_connect_rule_01	Please do visit again.
 8-msg_connect_direct2_01	Please decide which of you two will become\tthe leader.\tThe other player must then choose “Join group.”
 8-msg_connect_direct2_03	Awaiting \t\t’s response...
@@ -4549,7 +4562,7 @@ english_dp_net_communication.txt
 8-msg_connect_direct4_01	Please decide which of you four\twill become the group leader.\tThe other players must then choose\t“Join group.”
 8-msg_connect_direct4_02	Please choose the leader for a Multi Battle.
 8-msg_connect_direct4_03	Asking \t\t to register you as a\tmember... Please wait.
-8-msg_connect_direct4_04	\t replied, “No...”
+8-msg_connect_direct4_04	\t chose not to register you as\ta member.
 8-msg_connect_direct4_05	\t OK’d your registration as\ta member.
 8-msg_connect_direct4_06	Multi Battle! Awaiting other members!
 8-msg_connect_direct4_07	Multi Battle!\tAwaiting contact from your friends...
@@ -4558,9 +4571,11 @@ english_dp_net_communication.txt
 8-msg_connect_direct4_10	The members have gathered. Please enter\tthe room.
 8-msg_connect_direct4_11	The members have gathered.\tPlease select the Pokémon you would like\tto enter.
 8-msg_connect_direct4_12	Awaiting other members’ selections.
-8-msg_connect_union_01	Welcome to the Pokémon Local Club!\tThis is the reception for the Local Room.\tYou’ll be able to interact with other nearby\tTrainers there. Would you like to enter?
-8-msg_connect_union_02	Trainers in the Local Room are players around\tyou who have also entered the room.\tYou may battle with up to 2 versus 2 players,\ttrade your Pokémon, or even mix records and\texchange Trainer Cards.
+8-msg_connect_union_01	Welcome to the Union Room!\tThis is the Pokémon Local Club.\tYou’ll be able to interact with other nearby\tTrainers here.
+8-msg_connect_union_02	Trainers in the Local Room are players around\tyou who have also entered the room.\tYou may battle with other people in the same\troom, trade your Pokémon, or even mix records\tand exchange Trainer Cards.
 8-msg_connect_union_07	I hope you enjoy your time in the Local Room.
+7-msg_union_info_01_14	You can talk to someone with a sign up to trade\tor battle.\tOr use the Y Button to choose what you’d like to\tdo and put up your own sign!
+7-msg_union_info_03_15	How to play
 8-msg_connect_guide_12	I hope you enjoy the Pokémon Local Room.
 8-msg_connect_rulebook_01	Which set of rules would you like to use?
 8-msg_connect_rulebook_02	You need at least \t\t Pokémon that \t\t\tunder \t\t rules.
@@ -4577,6 +4592,14 @@ english_dp_net_communication.txt
 7-msg_union_greeting_08	Hello!
 7-msg_union_greeting_09	Nǐhǎo!
 7-msg_union_greeting_10	Nǐhǎo!
+7-msg_union_talkboy_03_09	A rule change? Let me check!
+7-msg_union_talkgirl_04_07	A rule change? Let me check!
+8-msg_connect_union_08	You need to save your adventure to enter the\troom. Would you like to enter?
+3-msg_pcug_01_08	I hope you enjoy your time in the Global Room!
+3-msg_pcug_01_03_patch1	If you have a paid Nintendo Switch Online\tmembership, you can use the internet to connect\twith Trainers all over the world in this club to\ttrade Pokémon!\tYou can enter the Union Room any time by\tpressing the Y Button.\tNote there are some places, such as inside\tbuildings, where you can’t use it.\tWould you like to hear a more\tdetailed explanation?
+3-msg_pcug_01_07_patch1	Let me explain how to participate in the\tPokémon Global Club!\tYou can enter the Global Room from either of\tthe two counters on the left, or by pressing the\tY Button!\tIn the Global Room, you can set up Link Trades\twith Trainers from all over the world!
+7-msg_union_info_01_14_patch1	You can talk to someone with a sign up to trade.\tOr use the Y Button to choose what you’d like to\tdo and put up your own sign!
+8-msg_connect_union_02_patch1	Trainers in the Local Room are players around\tyou who have also entered the room.\tYou may interact with other people in the same\troom, such as by trading your Pokémon or\tmixing records.
 english_dp_options.txt
 DP_options_000	Poisoned
 DP_options_001	Paralyzed
@@ -4869,6 +4892,7 @@ DP_options_893
 DP_options_894	
 DP_options_895	
 DP_options_896	We hereby certify that this Trainer has shown\tunwavering friendship and unbreakable bonds\twith \t\t.
+DP_options_897	Next
 english_dp_poffin_main.txt
 DP_poffin_main_001	Berry Tag
 DP_poffin_main_002	Spicy
@@ -4995,7 +5019,7 @@ DP_poffin_main_184	Would you like to start cooking with this\tBerry selection?
 DP_poffin_main_185	Throw the Berry into the pot and get stirring!\tWatch for an arrow to show you which direction\tto stir.\tBe quick! If you stir too slowly, you’ll burn the\tbatter. But not too quick! If you stir too fast,\tthe batter will overflow.\tIf you do well, you’ll cook up a delicious Poffin!
 DP_poffin_main_186	
 DP_poffin_main_187	Ready
-DP_poffin_main_188	 Put Back Berries
+DP_poffin_main_188	 Put back Berries
 DP_poffin_main_180b	They’ll be waiting for you in the square.\tHave a great time!
 english_dp_pokedex_diamond.txt
 DP_pokedex_diamond_000	
@@ -6352,11 +6376,11 @@ english_dp_scenario1.txt
 23-msg_t01r0201_rivalmama_05	Let me think... Knowing my boy, he would\tprobably head straight to Jubilife City...\tOK, please take that to my \t\t.
 23-msg_t01r0201_mama_16	Bye-bye, \t\t!\tEnjoy your adventure!
 23-msg_t01r0201_mama_26	Bye-bye, \t\t!\tEnjoy your adventure!
-23-msg_t01r0201_tv_01_1	Here we are! It’s the Contest Digest!\tThe winner of today’s Normal Rank Cuteness\tContest is...
+23-msg_t01r0201_tv_01_1	Here we are! It’s the Contest Digest!\tThe Star of the Show in today’s Normal Rank\tCuteness Contest is...
 23-msg_t01r0201_tv_01_2	Brooke, who entered a breathtakingly\tagile Pokémon!\tThat’s all the time we have today!\tUntil next time!
-23-msg_t01r0201_tv_02_1	Here we are! It’s the Contest Digest!\tThe winner of today’s Normal Rank Cleverness\tContest is...
+23-msg_t01r0201_tv_02_1	Here we are! It’s the Contest Digest!\tThe Star of the Show in today’s Normal Rank\tCleverness Contest is...
 23-msg_t01r0201_tv_02_2	Westley, who won with his particularly well-\tgroomed Pokémon!\tThat’s all the time we have today!\tLet’s meet again!
-23-msg_t01r0201_tv_03_1	Here we are! It’s the Contest Digest!\tThe winner of today’s Normal Rank Toughness\tContest is...
+23-msg_t01r0201_tv_03_1	Here we are! It’s the Contest Digest!\tThe Star of the Show in today’s Normal Rank\tToughness Contest is...
 23-msg_t01r0201_tv_03_2	Dominic, who overwhelmed with his eerily\tvocal Pokémon!\tThat’s all the time we have today!\tLet’s meet again!
 23-msg_t01r0201_freezer_01	Mom’s favorite dessert is in the refrigerator.
 23-msg_t01r0201_sink_01	Mom’s kitchen is spotless! You can see your face\ton the floor!
@@ -6683,9 +6707,9 @@ english_dp_scenario1.txt
 61-msg_group_04	Oh. That’s too bad.
 61-msg_group_05	Oh, you want to make a new group? Sure thing!\tThe group you made before will be disbanded,\tthough. Is that OK?
 61-msg_group_06	Cool! What do you want to name your group?
-61-msg_group_07	The \t\t group, huh?\tThat’s a great name!\tThe group’s leader is \t\t.\tI hope they get more members!
+61-msg_group_07	The \t\t group, huh?\tThat’s a great name!\tYou lead this group.\tI hope they get more members!
 61-msg_group_08	The \t\t group?\t\t is the leader.\tWould you like to join this group?
-61-msg_group_09	OK! \t\t is now a member\tof the \t\t group.
+61-msg_group_09	OK! You are now a member of the\t\t group.
 61-msg_group_10_1	Mix your records in any Local Room, and you’ll\tbe able to join a group of friends you met there.
 61-msg_group_10_2	When you’re in the same group, events can\thappen simultaneously.\tIt makes things a lot more fun playing in a group!
 61-msg_group_10_3	Anyone can make a group, and anyone can join.\tI hope you recruit lots of friends so everyone\tcan have fun!
@@ -6867,8 +6891,8 @@ english_dp_scenario1.txt
 87-msg_c03pc0101_woman3_01	Switch on the PC at any Pokémon Center and\tconnect to the Pokémon Boxes.\tThat’s all you need to do to store or bring out\tyour Pokémon.\tYou may be able to access the Pokémon Boxes\tfrom the menu screen!
 87-msg_character_select_01	Welcome! I’m here to help you with your\tappearance for the Union Room.\tWould you like to select a Trainer appearance?
 87-msg_character_select_02	Which kind of Trainer would you like to\tappear as?
-87-msg_character_select_03	\t is the kind of\tTrainer you want to appear as?
-87-msg_character_select_04	Thanks! I’ve got you all set to go\tas \t\t\t.\tI hope you enjoy your time in the Union Room!
+87-msg_character_select_03	Is the \t\t look OK?
+87-msg_character_select_04	Thanks! I’ll make sure you’re set up with the\t\t look.\tI hope you enjoy your time in the Union Room!
 87-msg_character_select_05	Understood.\tPlease enjoy your time in the Union Room!
 87-msg_c03pc0101_mystery_01	If you’d like to change your appearance for the\tUnion Room, talk to the receptionist to the left\ton the second floor.
 28-mes_shop_02_10	You have no room in your Explorer Kit.
@@ -7027,7 +7051,7 @@ english_dp_scenario1.txt
 105-msg_d03_woman1_02	I collect Berries and trade them for Stickers in\tFloaroma Town.\tA single Sticker can create a totally different\timpression depending on where you place it.\tSometimes I’ll spend all day worrying about\texactly how to decorate my Ball Capsules!
 27-msg_c01_shopwoman_03	I’m so sorry. The GWS isn’t ready yet.
 36-msg_c01r0202_sunglasses_02	\t \t\t\t!\tI hope you get into collecting a lot of Stickers!
-39-msg_c01r0205_clip_gaku_b	This is a display of the Stickers used by\t\t’s Gym Leader \t\t.\tWould you like to try the same Capsule\tDecoration as \t\t?
+39-msg_c01r0205_clip_gaku_b	This is a display of the Stickers used by\t\t’s Leader \t\t.\tWould you like to try the same Capsule\tDecoration as \t\t?
 27-msg_c01_woman3_iro_01	I went to the Trainers’ School around here.\tStudy there, and you may come out stronger.
 27-msg_c01_woman3_iro_02	Oh! You know about Capsule Decoration, too?\tAs a Trainer who studied in the Trainers’ School,\tI’ll give these to you.
 27-msg_c01_woman3_iro_03	Yes, yes. You do look a bit stronger.\tKeep working toward that dream of becoming\tan Ace Trainer!
@@ -7099,6 +7123,16 @@ SS_strinput_040	Please enter a number between 1 and \t\t.
 84-msg_c03gym0101_leader_05_3	And these are the Stickers I use.\tHere, take some!
 84-msg_c03gym0101_leader_05_4	You obtained the Stickers that\t\t uses!
 27-msg_c01_mizuki_01_3	I’ll also give these Ball Capsules to you!
+61-msg_group_select_11	\t Group
+61-msg_group_select_12	\t Group
+61-msg_group_select_13	\t Group
+61-msg_group_select_14	\t Group
+61-msg_group_select_15	\t Group
+61-msg_group_select_16	\t Group
+11-msg_heroine_09_1	So, \t\t.\tI’m also helping the professor put together the\tNational Pokédex.
+11-msg_heroine_09_2	Catching Pokémon can be really challenging,\tcan’t it?\tBut, it’s also so much fun!
+11-msg_hero_09_1	So, \t\t.\tI’m also helping the professor out with the\tNational Pokédex.
+11-msg_hero_09_2	Catching Pokémon can be really challenging,\tcan’t it?\tBut I also have a ton of fun doing it!
 english_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	Oh, is that a Pokédex? You must be helping\tProfessor Rowan.\tWhat’s your name?\t...
 0-msg_c04_chanpion_01_2	OK—hello, \t\t. I’ll be sure to\tremember that name!\tMy name is Cynthia. I’m a Trainer just like you.\tI’ve been studying Pokémon mythology lately,\tjust out of curiosity.
@@ -7239,7 +7273,7 @@ english_dp_scenario2.txt
 143-msg_r212br0101_woman2_09	So you want \t\t \t\t, right?\tHow many do you want?
 18-msg_ug_mission_01_01_1	First, go to the Grand Underground!
 18-msg_ug_mission_01_01_2	Going underground is quite easy. Simply use\tyour Explorer Kit.
-18-msg_ug_mission_01_02	But it can’t be used indoors or in a cave.\tNow, give it a try!
+18-msg_ug_mission_01_02	It can’t be used indoors or in a cave.\tNow, give it a try!
 18-msg_ug_mission_01_03	Aha! I see that you’ve gone underground.\tWell done! Take these as a reward!
 18-msg_ug_mission_01_04	There are apparently some Pokémon in the\tGrand Underground that you can’t normally\tfind around here.\tMeeting a new Pokémon is 100 times more fun\twhen it’s a rare one!
 18-msg_ug_mission_02_01_1	How was it down in the Grand Underground?\tBig and empty, I would think.\tBut that’s just because you’re a novice spelunker!
@@ -7269,7 +7303,7 @@ english_dp_scenario2.txt
 18-msg_ug_mission_06_01_3	It seems you can find differently-colored lights\twhen you communicate with other spelunkers.\tIf you do find one, I’ll give you a rare pedestal.
 18-msg_ug_mission_06_02_1	Oh, have you found a light of a different color?\tIt seems you can find differently-colored lights\twhen you communicate with other spelunkers.
 18-msg_ug_mission_06_02_2	You’re a natural-born spelunker, so I’m pretty\tsure that you’ll be able to find one!
-18-msg_ug_mission_06_04_1	Wait, don’t tell me! You’ve found a light of a\tdifferent color?\tExcellent! Now you should be capable of digging\tfor more Treasures than ever before.
+18-msg_ug_mission_06_04_1	Wait, don’t tell me! You’ve found a light of a\tdifferent color?\tExcellent! Now you should be capable of digging\tfor more treasures than ever before.
 18-msg_ug_mission_06_04_2	Well done! This is your reward!
 18-msg_ug_mission_06_05	There really is nothing else that I can teach you.\tAdd more statues to your Secret Base, dig for\ttreasure, and become a master spelunker for me!
 18-msg_ug_mission_07_01	So, young spelunker, are you going underground\twith your friends?\tThe Grand Underground is vast. It can be a place\twhere you meet many others like you.
@@ -7281,7 +7315,7 @@ english_dp_scenario2.txt
 18-msg_ug_mission_08_02_1	Ah! Have you found someone else’s Secret Base?
 18-msg_ug_mission_08_02_2	First, launch wireless communications, and then\tgo to the Grand Underground!\tOnce you find someone’s else’s Secret Base,\tmake sure to take a look inside!
 18-msg_ug_mission_08_03_1	Oh! The look on your face tells me you found\tsomeone else’s Secret Base!\tWell done. Here’s your reward!
-18-msg_ug_mission_08_03_2	Statues set up in Secret Bases appear to impart\tmysterious effects.\tYou can even benefit from the effects of statues\tplaced inside someone else’s Secret Base!\tJust access their PC.\tDon’t be shy! Make the power of statues yours!
+18-msg_ug_mission_08_03_2	Statues set up in Secret Bases appear to impart\tmysterious effects.\tYou can even get the power from someone else’s\tSecret Base!\tDon’t be shy! Make the power of statues yours!
 18-msg_c04r0801_boy2_01	The Grand Underground sure is massive!\tYou’re gonna have a blast down there!
 18-msg_c04r0801_assistantm_01_1	Let’s dig up some treasure!\tI’m from Oreburgh. I work at the Mining Museum.\tI got advice from the Underground Man on\tdigging up Fossils and spheres.
 18-msg_c04r0801_assistantm_01_2	Before I get digging, let me share his advice\twith you—while you’re digging, you may uncover\tdark rocks.
@@ -7591,7 +7625,7 @@ english_dp_scenario2.txt
 55-msg_c05r1101_gerggeousm_05_1	Feed that Poffin to a Pokémon you’re going to\tenter in contest shows.
 55-msg_c05r1101_gerggeousm_05_2	Oh, and a word of advice for you. Go take a run\tat the contest shows!\tHowever, the best way to get ready is to get\tsome practice first.\tYou can take practice sessions at the counter\ton the right.
 55-msg_c05r1101_gerggeousm_06	Like everything else, the basics are important.\tIt takes practice to win Super Contest Shows!
-55-msg_c05r1101_gerggeousm_07	Oh, no. Your Poffin Case’s full.
+55-msg_c05r1101_gerggeousm_07	Oh, no. Your Poffin Case is full.
 55-msg_c05r1101_gerggeousm_08_1	Oh, no. Your Poffin Case is full.\tI’ll give it to you another time.
 55-msg_c05r1101_gerggeousm_08_2	Oh, and a word of advice. Go take a run at the\tcontest shows!\tHowever, the best way to get ready is to get\tsome practice first.\tYou can take practice sessions at the counter\ton the right.
 55-msg_c05r1101_woman3_01	A Pokémon fed Poffins does better in\tVisual Evaluations.\tI’d better learn how to cook delicious Poffins at\tthe Poffin House!
@@ -7750,9 +7784,9 @@ english_dp_scenario2.txt
 62-msg_sodateya_oldwoman_22	Fine, we’ll take care of your \t\t\tfor a while.\tCome back for it later.
 62-msg_sodateya_oldwoman_23	I’m the Pokémon Nursery Lady. How can I help?
 62-msg_sodateya_oldwoman_24	Is there anything you need?
-62-msg_sodateya_oldwoman_25	It’ll cost 1,000 to leave two Pokémon.
-62-msg_sodateya_oldwoman_26	It’ll cost 500 to leave one Pokémon.
-62-msg_sodateya_oldwoman_27	That will be an additional 500.
+62-msg_sodateya_oldwoman_25	It’ll cost 1,000 to leave two Pokémon.\tIs that all right?
+62-msg_sodateya_oldwoman_26	It’ll cost 500 to leave one Pokémon.\tIs that all right?
+62-msg_sodateya_oldwoman_27	That will be an additional 500.\tIs that all right?
 62-msg_sodateya_oldwoman_28	OK. I’ll take good care of your \t\t\tand \t\t.\tCome back for them later.
 62-msg_sodateya_oldwoman_29	Just a moment. I’ll go get your \t\t.
 63-msg_t04_farmer_01	Breathing in this refreshing air...\tIt even perks up Pokémon! That’s why I’m\tout here.
@@ -8796,7 +8830,7 @@ english_dp_scenario2.txt
 167-msg_c02r0103_books8_01	This book is titled “The Sea’s Legend.” It’s a text\tthat was only recently discovered, and its ancient\tletters were decoded. Would you like to read it?
 167-msg_c02r0103_books8_02	You put the book back.
 167-msg_c02r0103_books8_03	Once upon a time in the East Sea, there was a\tPokémon known as the prince.\tA brave human asked Pokémon living in the sea\tto let them see the prince.\tWould you like to keep reading?
-167-msg_c02r0103_books8_04	Mantyke, Buizel, and Qwilfish with its huge\tspikes acknowledged the human’s bravery and\tjoined them.\tTogether, they set off in a boat over the sunset-\tstreaked sea, sailing through the ocean gate\tstretched over the waves.\tWould you like to keep reading?
+167-msg_c02r0103_books8_04	Mantyke, Buizel, and a Qwilfish with huge\tspikes acknowledged the human’s bravery and\tjoined them.\tTogether, they set off in a boat over the sunset-\tstreaked sea, sailing through the ocean gate\tstretched over the waves.\tWould you like to keep reading?
 182-msg_pokepark_38	Saving failed.
 182-msg_pokepark_40	You can’t take this Pokémon.
 183-msg_r219_sign1_01	Route 219\tSandgem Beach
@@ -8847,7 +8881,7 @@ english_dp_scenario2.txt
 192-msg_c09_woman4_01	Brrr... This snowbound town is always freezing\tcold. But the spirits of the Trainers and their\tPokémon burn hot and bright.\tEspecially the Gym Leader.
 192-msg_c09_girl4_01a	Wow. Aren’t you feeling cold in that outfit?\tMaybe you should wear something warmer.
 192-msg_c09_girl4_01b	It’s cold enough to freeze your eyelashes\tout here...\tWhy don’t you wear something a little warmer?
-192-msg_c09_girl4_01c	You chose the perfect outfit for the weather!\tEven I feel warmer just by looking at you.\tI’ll give you this because I’m so impressed.
+192-msg_c09_girl4_01c	You chose the perfect outfit for the weather!\tEven I feel warmer just by looking at you.\tI’ll give you these because I’m so impressed.
 192-msg_c09_boy4_01	You’re going to the Snowpoint Temple?\tYou know you’re not allowed to go in?
 192-msg_c09_boy4_02	You’re going to the Snowpoint Temple?\tSome awesome Pokémon are there!
 192-msg_c09_girl4a_01	Candice is teaching me about Pokémon.\tShe says I have to start by making friends\twith Pokémon.
@@ -8924,7 +8958,7 @@ english_dp_scenario2.txt
 98-msg_c07r0203_man2_01	I love TMs, so I come here to window shop all\tthe time...
 118-msg_c06_ambrella_01	You’re just like a totally impatient boy I\tmet earlier.\tJust like you, he was very close with his Pokémon.\tHey, thanks for making me smile! These might\tput a smile on your face.\tThey’re \t\t.\tPlace them on a Ball Capsule.
 49-msg_c05r0701_cowgirl_02	There’s a Pokémon Nursery in Solaceon Town.\tIf you leave a male and a female Pokémon of\tthe same species, an Egg may be found.
-178-msg_r221r0101_ookido_03	This place has a special connection with regions\taround the world, such as Kanto and Hoenn!\tIt’s also connected to the Grand Underground.\tExploring down there might reveal new Treasures.\tNew discoveries lead to interesting encounters.\tRemember that.
+178-msg_r221r0101_ookido_03	This place has a special connection with regions\taround the world, such as Kanto and Hoenn!\tIt’s also connected to the Grand Underground.\tExploring down there might reveal new treasures.\tNew discoveries lead to interesting encounters.\tRemember that.
 178-msg_r221r0101_poketch_16	Ramanas Park is so scintillating! Coming here to\tstop and smell the roses always calms me down.\tRamanas roses symbolize the joy of journeys.\tSpeaking of journeys, I’ve heard that Legendary\tPokémon travel here from many different regions.\tIt’s probably the Ramanas roses’ alluring charm\tthat draws them here!
 178-msg_r221r0101_admin_01	Welcome to Ramanas Park!\tThis place is a tourist attraction that’s famous for\tthe Ramanas roses blooming all over.\tIt’s also where top-notch Trainers gather from\tmany different regions.\tYou might say Ramanas roses attract those who\tare strong—now that’s what I call flower power!
 178-msg_r221r0101_admin_02	What an amazing Pokémon you’ve caught!\tI’ll give you a statue that looks just like it!
@@ -8993,7 +9027,7 @@ english_dp_scenario2.txt
 117-msg_l02r0301_kodaku	Gwack ack!
 117-msg_l02r0301_genga	Geh heh hehhh...
 144-msg_r213_gorggeousm_iro_01	I stand stoically in front of the deep blue sea.\tWhy? Because I’m a rich boy.\tThe seaside suits me better than the sea.
-144-msg_r213_gorggeousm_iro_02	I saw you surfing courageously over the water.\tThe sight of your elegance was inspiring.\tPlease take this as a token of my appreciation.
+144-msg_r213_gorggeousm_iro_02	I saw you surfing courageously over the water.\tThe sight of your elegance was inspiring.\tPlease take these as a token of my appreciation.
 144-msg_r213_gorggeousm_iro_03	My Shellos and I will venture out to sea someday.
 144-msg_r213_furoozeru1	Squee reeek!
 144-msg_r213_karakunasi	Shelli looo!
@@ -9120,7 +9154,43 @@ english_dp_scenario2.txt
 70-msg_t04r0501_babyboy1_09	You obtained a \t<color=#0064FFFF>\tBall Capsule\t</color>\t.
 161-msg_C09R0101_achamo	Tor tor chic!
 161-msg_C09R0201_rokon	Culululu.
-62-msg_sodateya_oldwoman_21	Now, now.\tThat is merely an Egg!
+62-msg_sodateya_oldwoman_21	Now, now.\tWe can’t take care of Eggs!
+msg_lunasol_poke144_02	Gyaoo!
+msg_lunasol_poke145_02	Gyaoo!
+msg_lunasol_poke146_02	Gyaoo!
+msg_lunasol_poke250_02	Shaoooh!
+msg_lunasol_poke384_02	Kiyuryursheeah!
+msg_lunasol_poke488_02	Lunaaan...
+msg_lunasol_poke150_02	Mew!
+msg_lunasol_poke243_02	Rararaiiiii!
+msg_lunasol_poke244_02	Enteiiiii!
+msg_lunasol_poke483_02	Gugyugubah!
+msg_lunasol_poke377_02	Zaza zari za...
+msg_lunasol_poke378_02	Jakiih!
+msg_lunasol_poke379_02	Ji-ji-ze-ji-zoh...
+msg_lunasol_poke383_02	Grrgggrrrrah!
+msg_lunasol_poke485_02	Gwogobo gwobobobo!
+msg_lunasol_poke486_02	...Zut zutt!
+msg_lunasol_poke484_02	Gagyagyaah!
+178-msg_r221r0101_admin_27	You got \t\t\t!
+msg_lunasol_poke245_02	Susuiiiii!
+msg_lunasol_poke249_02	Gyaaas!
+msg_lunasol_poke380_02	Hyahhn!
+msg_lunasol_poke381_02	Shwahhn!
+msg_lunasol_poke382_02	Gyararoooah!
+msg_lunasol_poke480_02	Kyouuuun!
+msg_lunasol_poke481_02	Kyauun!
+msg_lunasol_poke482_02	Kyuuun!
+msg_d34r0110_giartina_02	Giygogagohgwooh!
+178-msg_r221r0101_admin_28	This is a rare statue only available at Ramanas\tPark. Please put it up in your Secret Base in the\tGrand Underground!
+178-msg_r221r0101_admin_29	Thanks for showing me a Pokémon that comes\tto see the Ramanas roses.
+178-msg_r221r0101_admin_30	You might be one of the powerful people\tattracted by the Ramanas roses.
+178-msg_r221r0101_admin_31	Have you met any of the Pokémon that are said\tto appear in Ramanas Park yet?\tA staff member by the entrance is trading\tslates—there may be some meaning\tbehind them.
+178-msg_r221r0101_admin_02p	What amazing Pokémon you’ve caught!\tI’ll give you statues that look just like them!
+178-msg_r221r0101_admin_28p	These are rare statues only available at Ramanas\tPark. Please put them up in your Secret Base in\tthe Grand Underground!
+178-msg_r221r0101_admin_29p	Thanks for showing me the Pokémon that come\tto see the Ramanas roses.
+78-msg_r210br0101_dragon_16	Which move should be forgotten?
+127-msg_c06r0401_bigman_21	Which move would you like it to forget instead?
 english_dp_scenario3.txt
 0-msg_c08pc0101_oldman2_01	I once dreamed of becoming a Gym Leader...\tThough that dream never came true, I got to live\twith Pokémon all this time.\tIt’s been a blessed life.
 0-msg_c08pc0101_babyboy1_01	Wow, you’re really cool! You have seven\tGym Badges!
@@ -9404,39 +9474,39 @@ english_dp_scenario3.txt
 34-msg_btwr_score_r04	</color>\tRank\t</color>
 34-msg_btwr_score_r05	Win Streak: \t<color=#0064FFFF>\t\t</color>
 34-msg_btwr_score_r06	
-35-msg_battle_00	Single Battles
-35-msg_battle_01	Double Battles
+35-msg_battle_00	Master Class Single Battles
+35-msg_battle_01	Master Class Double Battles
 35-msg_battle_05	Average Win Streak
 35-msg_pokemon_00	Pokémon Defeated
 35-msg_pokemon_01	Pokémon Caught
-35-msg_pokemon_02	Pokémon Eggs
+35-msg_pokemon_02	Pokémon Hatched from Eggs
 35-msg_pokemon_03	Pokémon Caught While Fishing
-35-msg_contest_00	Contest Wins
-35-msg_contest_01	Contest Win %
-35-msg_contest_02	Ribbons
-35-msg_end_00	Close
-35-msg_ranking_01	\t. \t
-35-msg_count_00	\t wins
-35-msg_count_01	\t wins
+35-msg_contest_00	Star of the Show Titles Received
+35-msg_contest_01	Star of the Show %
+35-msg_contest_02	Ribbons Collected
+35-msg_header_00	Group Ranking
+35-msg_header_01	Global Ranking
+35-msg_count_00	
+35-msg_count_01	
 35-msg_count_02	
 35-msg_count_03	
 35-msg_count_04	
 35-msg_count_05	\t%
 35-msg_count_06	
-35-msg_guide_00	Which record would you like to view?
-35-msg_guide_01	The Battle Tower’s win streak record for\tSingle Battles.
-35-msg_guide_02	The Battle Tower’s win streak record for\tDouble Battles.
-35-msg_guide_06	The Battle Tower’s average win streak record.
-35-msg_guide_07	The number of Pokémon defeated.
-35-msg_guide_08	The number of Pokémon caught using Poké Balls.
-35-msg_guide_09	The number of Pokémon that were hatched\tfrom Eggs.
-35-msg_guide_10	The number of Pokémon that were caught fishing.
-35-msg_guide_11	The number of Super Contest Show wins.
-35-msg_guide_12	The winning percentage in Contests.
-35-msg_guide_13	The number of Ribbons won in\tSuper Contest Shows.
-35-msg_delete_00	Delete Record
-35-msg_delete_01	Select the record you want to delete, then press\tthe A Button.
-35-msg_delete_02	Delete this record?
+35-msg_category_00	Pokémon Records
+35-msg_guide_01	The Battle Tower’s win streak record for Master\tClass Single Battles
+35-msg_guide_02	The Battle Tower’s win streak record for Master\tClass Double Battles
+35-msg_guide_06	The Battle Tower’s average win streak record for\tMaster Class
+35-msg_guide_07	The number of Pokémon defeated
+35-msg_guide_08	The number of Pokémon caught using Poké Balls
+35-msg_guide_09	The number of Pokémon that were hatched\tfrom Eggs
+35-msg_guide_10	The number of Pokémon that were \tcaught fishing
+35-msg_guide_11	The number of times you were named Star of the\tShow in Super Contest Shows
+35-msg_guide_12	The percentage of Super Contest Shows in which\tyou were named Star of the Show
+35-msg_guide_13	The number of Ribbons won in\tSuper Contest Shows
+35-msg_category_01	Super Contest Show Records
+35-msg_category_02	Battle Tower Records
+35-msg_ranking_02	
 35-msg_delete_03	Your own record can’t be deleted.
 36-msg_c11r0101_staff_a_01	Welcome to the Battle Park!\tIt’s your first time, isn’t it? Please step this way.
 36-msg_c11r0101_staff_a_02	Since this is your first visit, you need to be given\ta Point Card.\tPoint Cards are used only in the Battle Park.\tHere you go.
@@ -9535,7 +9605,7 @@ english_dp_scenario3.txt
 44-msg_tower_04_1	The Battle Tower’s Single Battle Rooms are\tfacilities for conducting Single Battles with\tthree Pokémon.\tSimilarly, the Double Battle Rooms are facilities\tfor conducting Double Battles with\tfour Pokémon.
 44-msg_tower_04_2	There are many Battle Rooms in the Battle Tower\tfor team battles.
 44-msg_tower_04_3	In each of the Battle Rooms, seven Trainers await\tyour challenge.\tIf you manage to defeat all seven, you will earn\tBattle Points, or BP for short.
-44-msg_tower_04_4	Until you defeat \t\t Trainers in a row, you can take\ta break during the challenge to step out of the\tBattle Room and reselect your Pokémon.\tAfter defeating \t\t Trainers, you can still take a\tbreak, but you’ll have to resume your challenge\twith the same Pokémon in the Battle Room.\tEither way, please note that if you don’t save,\tyou will be disqualified from your challenge.
+44-msg_tower_04_4	Until you challenge the fifth Trainer, you can\ttake a break during the challenge to step out of\tthe Battle Room and reselect your Pokémon.\tIf you stop your challenge after defeating five\tTrainers, you’ll have to start your challenge\tfrom the beginning.\tEither way, please note that if you don’t save,\tyou will be disqualified from your challenge.
 44-msg_tower_05	Would you like to enter the Single Battle Room\tor the Double Battle Room?
 44-msg_tower_06_1	Just a moment!\tYou don’t have three eligible Pokémon.
 44-msg_tower_06_2	Make sure the three participating Pokémon are\tdifferent, and that none of them have the same\theld item.
@@ -9700,7 +9770,7 @@ english_dp_scenario3.txt
 63-msg_w226r0101_01_02_1	So... *sniff sniff*\tI smell you! I smell something about you!\tThere is no question! You are a lover of\tPokémon, just like me!
 63-msg_w226r0101_01_02_2	This is wunderbar! So, here is what I will do:\tI will power up your Pokédex so you can read\tthe descriptions of Pokémon in other languages!
 63-msg_w226r0101_01_02_3	Je suis désolé, but it won’t work for all Pokémon,\thowever. Only the Pokémon of regions that I, the\tMeister, have visited.\tNow, may I see your Pokédex? So, I change this\tsetting here...fool with this here...and done!
-63-msg_w226r0101_01_02_4	Now you may read descriptions of the Meister’s\tPokémon favorites in other languages. How über!
+63-msg_w226r0101_01_02_4	Huh? This Pokédex has already been updated!\tWunderbar! You’ve got technology ahead of its\ttime, and that’s muy bueno!\tBe sure to read lots of Pokédex entries from\tother countries!
 63-msg_w226r0101_01_03	Hey, konnichiwa! Bonjour and all the rest!\tHave you a Pokémon named Finneon? C’est un\tWing Fish Pokémon?\tIf you would be so kind, trade it will you for my\tprecious Magikarp?
 63-msg_w226r0101_01_04	Danke schön, domo arigato, muchas gracias,\tand what have you!\tThat Magikarp, it accompanied me from the land\tof my birth. Be good to it, I beseech you!
 63-msg_w226r0101_01_05	Oh non non, that is no Finneon! What I want is a\tFinneon. You have made the Meister melancholy!
@@ -10143,7 +10213,7 @@ msg_t03_woman2_03	Do you know about Gracidea flowers?\tThey’re given as bouque
 44-msg_tower_203	We have two Master Class Battle Rooms: one for\tSingle Battles and one for Double Battles.
 44-msg_tower_204	Seven Trainers will arrive in each Battle Room.\tThey are stronger than the Trainers you’d face\tin regular Single Battles or Double Battles.\tYou’ll earn extra BP if you can defeat them all.
 44-msg_tower_205	Also, we use a rank system for the Master Class.
-44-msg_tower_206	Master Class Single and Double Battle Rooms\teach have 10 ranks. When you get a seven-win\tstreak, your rank will go up by one.\tOn the other hand, if you lose seven times in a\trow, your rank will go down by one.
+44-msg_tower_206	Master Class Single and Double Battles each\thave 10 ranks. When you get a seven-win streak,\tyour rank will go up by one.\tOn the other hand, if you lose a certain number\tof times in a row depending on the rank, your\trank will go down by one.
 44-msg_tower_207	As your rank rises, your opponents will be\tstronger, but you’ll also earn more BP.
 44-msg_tower_208	If you decide to take a break during a challenge\tthat is already underway, be sure to save your\tprogress, or your challenge won’t be counted.\tPlease don’t forget!
 44-msg_tower_209	Would you like to enter the Single Battle Room\tor the Double Battle Room?
@@ -10289,7 +10359,7 @@ msg_t03_woman2_03	Do you know about Gracidea flowers?\tThey’re given as bouque
 20-msg_c10r0111_champion_11_1b	How have you been?\tOne look at you tells me many things about you.\tTogether, you and your Pokémon overcame all\tthe challenges you’ve faced, however difficult,\tand came out even stronger.\tObviously it’s important to battle well and win,\tbut I think a truly great Trainer is one who makes\tthe people and Pokémon around them happy.\tThat’s why I’m so glad that you’re the one who’s\tchallenging me today!\tI will accept your challenge with everything\tI’ve got!
 45-msg_tower_ms_boss_03	Palmer gave you a Burning Sticker C.
 44-msg_tower_14	Excuse me.\tWe have a record that shows you took a break\tfrom the last challenge.\tPlease select participating Pokémon to resume\tyour challenge.
-45-msg_tower_80	In order to enter Master Class, you’ll have to win\t49 times in a row in the regular Battle Tower.\tPlease note that Single Battles and Double\tBattles are counted separately.\tGood luck!
+45-msg_tower_80	In order to enter Master Class, you’ll have to win\t49 times in a row in either the Single Battles or\tDouble Battles of the regular Battle Tower.\tGood luck!
 45-msg_tower_81	You currently have \t\t Master Class \t\t.
 45-msg_tower_82	If you win \t\t \t\t, you’ll receive\t\t\t.
 45-msg_tower_83	Congrats! You’ve won here \t\t \t\t!\tHere’s your reward!
@@ -10301,6 +10371,14 @@ msg_t03_woman2_03	Do you know about Gracidea flowers?\tThey’re given as bouque
 79-msg_d30r0101_sppoke7_01	...
 79-msg_d30r0101_sppoke7_02	Darkrai disappeared into the murky darkness...
 DP_menu_msg2_2255_01	You can’t use this because you’re traveling\twith \t\t.
+43-msg_d31r0101_tokkun_07_1	\t: \t
+97-msg_kiri_04	A wild Staraptor helped out by using Defog!
+35-msg_delete_04	What would you like to do with this record?
+35-msg_delete_05	Delete it
+35-msg_delete_06	Never mind
+35-msg_option_00	 Manage List
+35-msg_option_01	 Back
+74-msg_r228r0201_oldman1_13	Which move shall be forgotten?
 english_dp_stickers_info.txt
 DP_STICKERS_INFO_000	
 DP_STICKERS_INFO_001	This Sticker releases small pink hearts that float upward.
@@ -11876,6 +11954,8 @@ DP_Trainers_Type_TR_KUROTUGU_01	Tower Tycoon
 DP_Trainers_Type_TR_BOY_01	Pokémon Trainer
 DP_Trainers_Type_TR_GIRL_01	Pokémon Trainer
 DP_Trainers_Type_TR_MORIMOTO_01	GAME FREAK’s
+DP_Trainers_Type_TR_LOVELOVE_98	Young Couple (Boyfriend)
+DP_Trainers_Type_TR_LOVELOVE_99	Young Couple (Girlfriend)
 english_dp_trainer_msg.txt
 0-mes_tower_tr_001_01	Here I come!
 0-mes_tower_tr_001_02	Yeah!
@@ -12910,7 +12990,7 @@ english_dp_trainer_msg.txt
 1-CYCLINGM_02_TRMSG_FIGHT_AFTER	I might try racing through Cycling Road in one\tlong shot.
 1-CYCLINGM_02_TRMSG_REVENGE_FIGHT_START	There you are!\tI’ve been riding in this spot so I’d get a rematch\twith you!
 1-CYCLINGM_03_TRMSG_FIGHT_START	Your bike is the type that can shift gears, huh?\tLet me see if you know how to ride it properly.
-1-CYCLINGM_03_TRMSG_FIGHT_LOSE	*crash* *brrring*
+1-CYCLINGM_03_TRMSG_FIGHT_LOSE	I crashed...
 1-CYCLINGM_03_TRMSG_FIGHT_AFTER	Huh? I was supposed to be checking if you know\thow to shift gears. Why am I checking out\tyour Pokémon?
 1-CYCLINGM_03_TRMSG_REVENGE_FIGHT_START	Let me see if you’ve learned how to ride your\tbike properly...\tin battle!
 1-CYCLINGM_04_TRMSG_FIGHT_START	The bicycle can only take you as far as your\tenergy will allow.
@@ -12926,7 +13006,7 @@ english_dp_trainer_msg.txt
 1-CYCLINGW_02_TRMSG_FIGHT_AFTER	Instead of a battle, I should’ve challenged you\tto a bike race!
 1-CYCLINGW_02_TRMSG_REVENGE_FIGHT_START	I hate knowing you’ve beaten me. This time, I’m\tgoing to win!
 1-CYCLINGW_03_TRMSG_FIGHT_START	I love my bike!\tBut I’m not very good at fixing flat tires.
-1-CYCLINGW_03_TRMSG_FIGHT_LOSE	*kerash*
+1-CYCLINGW_03_TRMSG_FIGHT_LOSE	Total wipeout!
 1-CYCLINGW_03_TRMSG_FIGHT_AFTER	I admire people who understand gadgets.\tI’m clueless about how my Pokétch works.
 1-CYCLINGW_03_TRMSG_REVENGE_FIGHT_START	I want to practice repairing flat tires...\tBut I’ve been practicing with my Pokémon to get\tour revenge!
 1-CYCLINGW_04_TRMSG_FIGHT_START	Some people compete over speed, and some\tcompete over technique.\tWhich kind are you?
@@ -14445,17 +14525,17 @@ english_dp_trainer_msg.txt
 1-FISHING_21_TRMSG_REVENGE_FIGHT_START	Hey, you feisty tyke! I caught me a big one!\tLet’s battle again!
 1-FISHING_21_TRMSG_FIGHT_LOSE	I let a big win slip away...
 1-CYCLINGM_05_TRMSG_REVENGE_FIGHT_START	Let me see if you’ve learned how to ride your\tbike properly...\tin battle!
-1-CYCLINGM_05_TRMSG_FIGHT_LOSE	*crash* *brrring*
+1-CYCLINGM_05_TRMSG_FIGHT_LOSE	I crashed...
 1-CYCLINGM_06_TRMSG_REVENGE_FIGHT_START	Let me see if you’ve learned how to ride your\tbike properly...\tin battle!
-1-CYCLINGM_06_TRMSG_FIGHT_LOSE	*crash* *brrring*
+1-CYCLINGM_06_TRMSG_FIGHT_LOSE	I crashed...
 1-CYCLINGM_07_TRMSG_REVENGE_FIGHT_START	Let me see if you’ve learned how to ride your\tbike properly...\tin battle!
-1-CYCLINGM_07_TRMSG_FIGHT_LOSE	*crash* *brrring*
+1-CYCLINGM_07_TRMSG_FIGHT_LOSE	I crashed...
 1-CYCLINGW_05_TRMSG_REVENGE_FIGHT_START	I want to practice repairing flat tires...\tBut I’ve been practicing with my Pokémon to get\tour revenge!
-1-CYCLINGW_05_TRMSG_FIGHT_LOSE	*kerash*
+1-CYCLINGW_05_TRMSG_FIGHT_LOSE	Total wipeout!
 1-CYCLINGW_06_TRMSG_REVENGE_FIGHT_START	I want to practice repairing flat tires...\tBut I’ve been practicing with my Pokémon to get\tour revenge!
-1-CYCLINGW_06_TRMSG_FIGHT_LOSE	*kerash*
+1-CYCLINGW_06_TRMSG_FIGHT_LOSE	Total wipeout!
 1-CYCLINGW_07_TRMSG_REVENGE_FIGHT_START	I want to practice repairing flat tires...\tBut I’ve been practicing with my Pokémon to get\tour revenge!
-1-CYCLINGW_07_TRMSG_FIGHT_LOSE	*kerash*
+1-CYCLINGW_07_TRMSG_FIGHT_LOSE	Total wipeout!
 1-MOUNT_15_TRMSG_REVENGE_FIGHT_START	Whoa! You startled me! We may as well have\ta rematch!
 1-MOUNT_15_TRMSG_FIGHT_LOSE	Your power startles me!
 1-MOUNT_16_TRMSG_REVENGE_FIGHT_START	Whoa! You startled me! We may as well have\ta rematch!
@@ -14829,7 +14909,7 @@ english_dp_trainer_msg.txt
 1-LEADER4_04_TRMSG_FIGHT_WIN	I’m so hungry... Oh, no, I didn’t say anything!
 1-LEADER6_04_TRMSG_FIGHT_LOSE	You really are great! I can’t help but respect you\teven more!
 1-LEADER4_04_TRMSG_FIGHT_LOSE	*gurgle*
-1-SEVEN3_04_TRMSG_FIGHT_WIN	Whatever you’ve done to prepare for this,\tyou must have been doing it right!
+1-SEVEN3_04_TRMSG_FIGHT_WIN	Nothing good comes of cutting corners.
 1-SEVEN4_04_TRMSG_FIGHT_WIN	You’re the best, just the way you are...
 1-SEVEN3_04_TRMSG_FIGHT_LOSE	I guess we should have prepared more...
 1-SEVEN4_04_TRMSG_FIGHT_LOSE	Thanks for the battle.
@@ -15152,13 +15232,13 @@ english_dp_tvshow.txt
 106-msg_tv_02_01_02_5	It turns out \t\t opted not to\tnickname the \t\t!
 106-msg_tv_02_01_02_6	Yow, \t\t!\tThat is so nihilistically cool!\tListen up, folks! You go out and emulate\t\t! Get out there and catch\tPokémon like there’s no tomorrow!
 106-msg_tv_02_02_01_1	Gotta catch ’em all! It’s the Catch That\tPokémon Show!\tSo, let me tell you about this show’s featured\tPokémon-catching Trainer.
-106-msg_tv_02_02_01_2	The Trainer that caught our eye with a dandy of a\tcatch is none other than the inestimable\t\t! And what, you may ask\tyourself, did \t\t  catch?\tThe Pokémon was a— Huh? Hold on a moment...
+106-msg_tv_02_02_01_2	The Trainer that caught our eye with a dandy of a\tcatch is none other than the inestimable\t\t! And what, you may ask\tyourself, did \t\t catch?\tThe Pokémon was a— Huh? Hold on a moment...
 106-msg_tv_02_02_01_3	\t blew this catch completely...\tNot one ball out of the \t\t thrown did the job...
 106-msg_tv_02_02_01_4	And \t\t ended up making the\tquarry faint...\tOh, what a major downer. This is too tragic to be\ta good news piece...
 106-msg_tv_02_02_01_5	\t! Don’t let it get you down!\tForget about that Pokémon! It wasn’t meant to\tbe yours!
 106-msg_tv_02_02_01_6	Sinnoh is jam-packed with Pokémon waiting for a\tTrainer like you!
 106-msg_tv_02_02_02_1	Gotta catch ’em all! It’s the Catch That\tPokémon Show!\tSo, let me tell you about this show’s featured\tPokémon-catching Trainer.
-106-msg_tv_02_02_02_2	The Trainer that caught our eye with a dandy of a\tcatch is none other than the inestimable\t\t! And what, you may ask\tyourself, did \t\t  catch?\tThe Pokémon was a— Huh? Hold on a moment...
+106-msg_tv_02_02_02_2	The Trainer that caught our eye with a dandy of a\tcatch is none other than the inestimable\t\t! And what, you may ask\tyourself, did \t\t catch?\tThe Pokémon was a— Huh? Hold on a moment...
 106-msg_tv_02_02_02_3	\t blew this catch completely...\tNot one ball did the job out of the \t\t thrown...\tOh, what a major downer.
 106-msg_tv_02_02_02_4	This is too tragic to be a good news piece...\t\t! Don’t let it get you down!
 106-msg_tv_02_02_02_5	Forget about that Pokémon! It wasn’t meant to\tbe yours!\tSinnoh is jam-packed with Pokémon waiting for a\tTrainer like you!
@@ -15436,7 +15516,7 @@ english_dp_tvshow.txt
 108-msg_tv_01_02_02_3	Uh-huh, uh-huh. You were so disappointed and\tmad at yourself that you couldn’t stop crying...\tWa-hey! That’s real hurting! The harsh realities of\tbattling are laid bare, and they’re not pretty!
 108-msg_tv_01_02_02_4	All right, gang, come on down to the Battle\tTower and get down! Keep it real! Wa-hey!
 108-msg_tv_01_04_01_1	Hello, this is Your Pokémon Corner.
-108-msg_tv_01_04_01_2	Today, we look at \t\t,\t\t’s beloved \t\t .
+108-msg_tv_01_04_01_2	Today, we look at \t\t,\t\t’s beloved \t\t.
 108-msg_tv_01_04_01_3	What does \t\t mean to you,\t\t? Uh-huh, uh-huh...\tIt’s always there for you—uh-uh, uh-huh—\twhether you are awake or asleep.\tThank you, \t\t. I can tell how\tclose you are!
 108-msg_tv_01_04_01_4	OK, viewers, keep showing us the Pokémon that\tare your pride and joy! Let’s meet again!
 108-msg_tv_01_05_01_1	It’s time for Our Favorite Items...\tToday we’ll introduce an item recommended by\t\t of Twinleaf Town...
@@ -15479,10 +15559,10 @@ english_dp_tvshow.txt
 108-msg_tv_01_10_04_3	So, what sort of personality likes the\tElectric type?\tOur experts say they tend to be very\tfashion conscious.\tThey may appear to be nonchalant about things,\tbut don’t be fooled.\tThey tend to be particular about aesthetics,\teven down to their clothes hangers and what\terasers they use.\tDid this analysis sound good to you?
 108-msg_tv_01_10_05_1	It’s the Street Corner Personality Checkup!
 108-msg_tv_01_10_05_2	\t is our featured Trainer today.\tIn our interview, our Trainer picked the Grass\ttype as their favorite.
-108-msg_tv_01_10_05_3	So, what sort of personality likes the Grass type?\tOur experts say they march to the beat of their\town drummer.\tThey are self-motivated and capable of finishing\tprojects on their own.\tHowever, they have trouble deciding when a job\tis done well enough.\tDid this analysis sound good to you?
+108-msg_tv_01_10_05_3	So, what sort of personality likes the Grass type?\tOur experts say they march to the beat of their\town drum.\tThey are self-motivated and capable of finishing\tprojects on their own.\tHowever, they have trouble deciding when a job\tis done well enough.\tDid this analysis sound good to you?
 108-msg_tv_01_10_06_1	It’s the Street Corner Personality Checkup!
 108-msg_tv_01_10_06_2	\t is our featured Trainer today.\tIn our interview, our Trainer picked the Ice type\tas their favorite.
-108-msg_tv_01_10_06_3	So, what sort of personality likes the Ice type?\tOur experts say they tend to be pure of heart\tand well intentioned.\tThey work selflessly to help friends that are dear\tto them.\tHowever, they may also become upset if their\tefforts go unnoticed.\tDid this analysis sound good to you?
+108-msg_tv_01_10_06_3	So, what sort of personality likes the Ice type?\tOur experts say they tend to be pure of heart\tand well-intentioned.\tThey work selflessly to help friends that are dear\tto them.\tHowever, they may also become upset if their\tefforts go unnoticed.\tDid this analysis sound good to you?
 108-msg_tv_01_10_07_1	It’s the Street Corner Personality Checkup!
 108-msg_tv_01_10_07_2	\t is our featured Trainer today.\tIn our interview, our Trainer picked the\tFighting type as their favorite.
 108-msg_tv_01_10_07_3	So, what sort of personality likes the\tFighting type?\tOur experts say they tend to be\tdreamy-eyed romantics.\tThey are very loyal to ideas and things that they\thold dear.\tThey constantly try to reinvent themselves to\tchase their dreams.\tDid this analysis sound good to you?
@@ -15557,7 +15637,7 @@ english_dp_tvshow.txt
 108-msg_tv_01_13_01_1	Hello, ladies and gentlemen. I trust you’ve\tbeen well.\tThank you for joining me in the\tAmity Square Watch.
 108-msg_tv_01_13_01_2	Today, I wish to cast your eyes upon\t\t’s stroll.\tI’m sure you’ll agree it’s most\tenchantingly endearing.
 108-msg_tv_01_13_01_3	\t strolled with trusted\tpartner \t\t.\tThey walked, and they walked, and still\tthey walked...
-108-msg_tv_01_13_01_4	\t so enjoyed the time, it made a\tlot of Poffins.
+108-msg_tv_01_13_01_4	\t so enjoyed the time, as they\tmade a lot of Poffins.
 108-msg_tv_01_13_01_5	\t and \t\t had\ta simply scintillating time together.\t\t described their feelings\ttogether as, “Like lying down at the\tGreat Marsh.”
 108-msg_tv_01_13_01_6	Bonding with Pokémon...it makes me feel warm\tall over. Until next time, adieu.
 108-msg_tv_01_13_02_1	Hello, ladies and gentlemen. I trust you’ve\tbeen well.\tThank you for joining me in the\tAmity Square Watch.
@@ -15569,7 +15649,7 @@ english_dp_tvshow.txt
 108-msg_tv_01_13_03_1	Hello, ladies and gentlemen. I trust you’ve\tbeen well.\tThank you for joining me in the\tAmity Square Watch.
 108-msg_tv_01_13_03_2	Today, I wish to cast your eyes upon\t\t’s stroll.\tI’m sure you’ll agree it’s most\tenchantingly endearing.
 108-msg_tv_01_13_03_3	\t strolled with trusted\tpartner \t\t.\tThey walked, and they walked, and still\tthey walked...
-108-msg_tv_01_13_03_4	\t so enjoyed the time,\tit sought out items like \t\t\t\t to please the Trainer.
+108-msg_tv_01_13_03_4	\t so enjoyed the time\ttogether, and it sought out items like \t\t\t\t to please their Trainer.
 108-msg_tv_01_13_03_5	\t and \t\t had\ta simply scintillating time together.\t\t described their feeling\ttogether as, “Like surfing in a resort.”
 108-msg_tv_01_13_03_6	Bonding with Pokémon...it makes me feel warm\tall over. Until next time, adieu.
 109-msg_tv_interview_00_01	Hello! I’m with Jubilife TV!\tMay I hit you up for a quick interview?
@@ -15601,10 +15681,11 @@ english_dp_tvshow.txt
 109-msg_tv_interview_type17	Steel
 109-msg_tv_interview_type18	Fairy
 110-msg_tv_00_01_01	Good morning! Is everyone raising Pokémon?\tIt’s time for the Battling Trainers show!
+108-msg_tv_01_09_02_11_female	Oh! \t\t, huh? Mind telling us why?\t... ... ...\t... ... ...\tI see, I see.\tThank you very much.\tIt seems this Trainer battled \t\t\tand was impressed by her Ball Capsule!\t<size=75%>\tI seem to have stumbled upon a rather impressive Trainer myself!\t</size>\t\tAnyway, back to you folks in the studio!
 108-msg_tv_01_09_02_8	...
 108-msg_tv_01_09_02_9	Whose Capsule Decoration do you like the best?
 108-msg_tv_01_09_02_10	\t’s!
-108-msg_tv_01_09_02_11	Oh! \t\t, huh? Mind telling us why?\t... ... ...\t... ... ...\tI see, I see.\tThank you very much.\tIt seems this Trainer battled \t\t\tand was impressed by \t\t Ball Capsule!\t<size=75%>\tI seem to have stumbled upon a rather impressive Trainer myself!\t</size>\t\tAnyway, back to you folks in the studio!
+108-msg_tv_01_09_02_11	Oh! \t\t, huh? Mind telling us why?\t... ... ...\t... ... ...\tI see, I see.\tThank you very much.\tIt seems this Trainer battled \t\t\tand was impressed by his Ball Capsule!\t<size=75%>\tI seem to have stumbled upon a rather impressive Trainer myself!\t</size>\t\tAnyway, back to you folks in the studio!
 108-msg_tv_01_09_02_12	Thanks for the report! That was lucky, running\tinto such an exceptional Trainer right here!
 108-msg_tv_01_09_02_13	Yeah!!!
 108-msg_tv_01_09_02_14	Our intrepid reporter probably should have\tasked for an autograph, don’t you think?
@@ -15655,7 +15736,7 @@ english_dp_tvshow.txt
 104-msg_tv_03_10_01_9	And throwing some kind of Poké Ball...
 104-msg_tv_03_10_01_10	Well, yes, Tanya, but Balls are made for throwing!\tThat’s not the most impressive bit of knowledge!\tBut anyway, catching \t\t Pokémon in one go is an\tamazing feat! See you again, folks!
 104-msg_tv_03_11_01_1	It’s time for Rack ’Em Up Records!\tToday, we’ll look at an amazing record set by a\tstatue digger-upper!
-104-msg_tv_03_11_01_2	A “digger-upper”?
+104-msg_tv_03_11_01_2	A “digger-upper?”
 104-msg_tv_03_11_01_3	That’s right, Tanya! You heard it right.
 104-msg_tv_03_11_01_4	Tell me about this digger-upper!
 104-msg_tv_03_11_01_5	You see, \t\t managed to collect\t\t different kinds of statues!
@@ -15677,16 +15758,12 @@ english_dp_tvshow.txt
 108-msg_tv_01_14_01_2	Today’s featured fashionista is \t\t!
 108-msg_tv_01_14_01_3a	\t was seen \t\t,\tlooking stylish in\t\t \t\t!
 108-msg_tv_01_14_01_3b	As \t\t walked elegantly along, \t\t let us take a\tphoto so we could get a closer look at \t\t outfit!
-108-msg_tv_01_14_01_3c	Our stylish subject was zooming by on a bike,\tsporting a serious expression and the trendiest\t\t we’ve seen!
 108-msg_tv_01_14_01_4a_a	Passersby merely continued on their merry way,\tapparently unimpressed by our stylish subject!
 108-msg_tv_01_14_01_4a_b	Passersby couldn’t help but stop and watch,\tseemingly entranced by our stylish subject!
 108-msg_tv_01_14_01_4a_c	Passersby were so drawn in by \t\t’s\toverwhelming charisma that a crowd formed!
 108-msg_tv_01_14_01_4b_a	When we asked \t\t for a photo, \t\t looked a\tlittle shy, but then struck a pose for the camera!
 108-msg_tv_01_14_01_4b_b	Before we could even ask \t\t for a photo,\t\t was already posing as if it were the most\tnatural thing in the world!
 108-msg_tv_01_14_01_4b_c	When we asked \t\t for a photo, \t\t suddenly\tshouted “Showtime!” and started showing off\tas if the whole world was \t\t runway!
-108-msg_tv_01_14_01_4c_a	\t raced through tall grass, jumped over ledges,\tand had us all on edge with \t\t daring stunts!
-108-msg_tv_01_14_01_4c_b	Riding by in fourth gear with perfect control,\t\t sped past us before we even had a chance\tto ask for a comment!
-108-msg_tv_01_14_01_4c_c	Cheered on by a group of spectators nearby,\t\t pulled off some truly amazing techniques!
 108-msg_tv_01_14_01_5	We hope you enjoyed this feature! Maybe next\ttime we’ll be taking snapshots in your town!
 109-msg_tv_interview_14_1	Hello! I’m with Jubilife TV!\tMay I hit you up for a quick interview?
 109-msg_tv_interview_14_2	Oh, that’s too bad. I hope you can spare a few\tmoments some other time!
@@ -20489,7 +20566,7 @@ SS_box_192
 SS_box_582	Lv. \t
 SS_box_193	That Pokémon can’t be traded.
 SS_box_194	You don’t have the Pokémon needed for\tthis trade!
-SS_box_195	You can’t offer an Egg in trade.
+SS_box_195	You can’t offer an Egg in trade here.
 SS_box_196	You can’t trade a Pokémon that is registered\tfor a Battle Team.
 SS_box_198	Would you like to add \t\t to your\tblock list?
 SS_box_199	You won’t be able to connect again with any\tplayer you add to your block list.\tAre you sure you want to block this player?\t(It’s possible to unblock the player again.)
@@ -20531,6 +20608,7 @@ SS_box_236	Fantastic
 SS_box_237	Best!
 SS_box_577	Hyper trained!
 SS_box_369	 Marking
+SS_box_588	The communication partner canceled the trade.
 english_ss_boxname.txt
 SS_boxname_001	Box 1
 SS_boxname_002	Box 2
@@ -24808,8 +24886,8 @@ SS_btl_tower_main_028	 Confirm
 SS_btl_tower_main_029	Quit
 SS_btl_tower_main_030	The Battle Tower
 SS_btl_tower_main_031	Here at the Battle Tower, we ask that all Trainers\tplease observe the following rules:\t• Battle Teams must be made up of\t<color=#FF5000FF>\tsix different Pokémon\t</color>\t.\t• No two Pokémon can \t<color=#FF5000FF>\thold the same item\t</color>\t.
-SS_btl_tower_main_032	Master Class Single Mode
-SS_btl_tower_main_033	Master Class Double Mode
+SS_btl_tower_main_032	Master Class Single Battles
+SS_btl_tower_main_033	Master Class Double Battles
 english_ss_btl_tower_menu_ui_text.txt
 msg_tower_receptionist_14	Please select a battle format and the Pokémon\tyou’d like to take part.
 msg_tower_receptionist_15	Then in you go!
@@ -24822,7 +24900,7 @@ msg_tower_receptionist_05	Congratulations! You’ve moved up in the ranks!\tYou�
 msg_tower_receptionist_06	You’ve earned a reward for moving up through\tthe ranks!
 msg_tower_receptionist_07	The Judge function has been unlocked!\tYou can now use it in your Boxes!
 msg_tower_receptionist_08	You can now choose which background music\tyou’d like to listen to in the Battle Tower!
-msg_tower_description_00	The Battle Tower is exactly what it sounds like.\tIt’s a place where you can have Pokémon battles.\tYou can battle following the same rules as you\tmight in Ranked Battles.\tIf you win, you can earn Rare Candies and BP.\tFeel free to battle to hone your skill as a Trainer.
+msg_tower_description_00	The Battle Tower is exactly what it sounds like.\tIt’s a place where you can have Pokémon battles.\tYou can try Single Battles and Double Battles,\tand then their Master Classes.\tIf you win, you can earn Rare Candies and BP.\tFeel free to battle to hone your skill as a Trainer.
 msg_tower_choice_00	I want to battle
 msg_tower_choice_01	Tell me about this place
 msg_tower_choice_02	No, thanks
@@ -24857,7 +24935,7 @@ english_ss_common_text.txt
 SS_common_text_01	Backup data has been loaded.\tPlease note that this data will be saved when\tyou save the game.
 SS_common_text_02	There is no backup data, so you can’t load data.\tYou’ll be returned to the title screen.
 SS_common_text_03	Now saving...
-SS_common_text_04	Your saved data is corrupted.\tPlease delete the saved data from\tyour system.
+SS_common_text_04	Your save data is corrupted.\tPlease delete the save data from\tyour system.
 english_ss_fld_dressup.txt
 SS_fld_dressup_000	YOUR MONEY
 SS_fld_dressup_003	
@@ -36490,6 +36568,7 @@ SS_level_up_02_05	One...\ttwo...\tand...\t\tta-da!\t\t\t\t forgot \t\t!\tAnd it 
 SS_level_up_02_06	\t did not learn\t\t.
 SS_level_up_03_01	Forget an old move
 SS_level_up_03_02	Keep old moves
+SS_level_up_02_08	Your Pokémon gained Exp. Points!
 english_ss_message_error.txt
 SS_message_error_001	An error has occurred on\tthe authentication-code server.\tPlease wait a little while, and then try again.
 SS_message_error_003	You can’t connect to the authentication-code\tserver due to ongoing maintenance.\tPlease wait a little while, and then try again.
@@ -37043,7 +37122,7 @@ SS_net_live_comm_020	 Confirm
 SS_net_live_comm_021	 Quit
 SS_net_live_comm_023	 Connect to the Internet
 SS_net_live_comm_024	 Block
-SS_net_live_comm_028	You’re broadcasting to everybody that you’re\tlooking for someone to connect with.\tYou can only broadcast one request at a time.
+SS_net_live_comm_028	You’re broadcasting that you’re looking for\tsomeone to connect with.\tYou can only broadcast one request at a time.
 SS_net_live_comm_029	Do you want to cancel your current request?
 SS_net_live_comm_030	Yes
 SS_net_live_comm_031	No
@@ -37083,7 +37162,7 @@ SS_net_live_comm_145	Choose a player icon to represent yourself!
 SS_net_live_comm_146	 Confirm
 SS_net_live_comm_147	 Back
 SS_net_live_comm_149	I’m trading with \t\t just now!\tCan’t wait to see what I get!
-SS_net_live_comm_309	Your software version is out of date, so you\tcan’t connect to other players.\tIf you want to communicate with others,\tyou must update your software.\tCheck the official website for more details.
+SS_net_live_comm_309	Your software version appears to be out of date,\tso you can’t connect to other players.\tIf you want to enjoy all current features,\tyou must update your software.\tCheck the official website for more details.
 SS_net_live_comm_153	I’m in the middle of a Single Battle just now!\tAnd I’m not planning on losing!
 SS_net_live_comm_154	I’m in the middle of a Double Battle just now!\tAnd I’m not planning on losing!
 SS_net_live_comm_157	I defeated \t\t in a Single Battle!\tHow d’you like that?
@@ -37317,10 +37396,10 @@ SS_net_net_btl_010	Would you like to cancel the battle?
 SS_net_net_btl_011	The battle will end because somebody ended\tcommunication.
 SS_net_net_btl_012	Ending communication...
 SS_net_net_btl_015	Would you like to decide battle rules?
-SS_net_net_btl_016	Who decides the rules will be selected.\tPlease wait.
+SS_net_net_btl_016	Another player is choosing who will select\tthe rules. Please wait.
 SS_net_net_btl_017	\t quit deciding rules.
 SS_net_net_btl_018	\t is deciding battle rules.
-SS_net_net_btl_019	Please select battle rules.
+SS_net_net_btl_019	Please select battle format.
 SS_net_net_btl_021	Would you like to let another player decide\tthe rules?
 SS_net_net_btl_022	Now sending...\tPlease stand by.
 SS_net_net_btl_024	Do you prefer other battle rules?
@@ -37380,7 +37459,7 @@ SS_net_net_btl_104
 SS_net_net_btl_105	
 SS_net_net_btl_007	Team B1
 SS_net_net_btl_008	Team B2
-SS_net_net_btl_013	Who decides the battle rules will be selected.
+SS_net_net_btl_013	You may decide who chooses the battle rules.
 SS_net_net_btl_057	 Done
 SS_net_net_btl_106	Which connection would you like to use for\ta battle?
 SS_net_net_btl_107	Internet
@@ -37397,7 +37476,7 @@ SS_net_net_btl_117	New rules:\t
 SS_net_net_btl_118	The preparations are done! The battle will start!
 SS_net_net_btl_119	Welcome to the Colosseum! If you have any\tquestions, please don’t hesitate to ask!
 SS_net_net_btl_124	Communication will end because somebody\tleft the Colosseum.
-SS_net_net_btl_121	You can battle with various rules in\tthe Colosseum.\tWhen two people stand in the designated areas,\tthe battle will start.\tIf you want to change rules, please let me know.
+SS_net_net_btl_121	You can battle with various rules in\tthe Colosseum.\tWhen everyone is standing in the designated\tareas, the battle will start.
 SS_net_net_btl_122	Battle rules will be changed. Is that OK?
 SS_net_net_btl_123	You can’t change rules for Multi Battles.\tPlease leave the Colosseum first, and then\tselect rules again.
 SS_net_net_btl_125	Searching for an opponent...
@@ -37413,6 +37492,32 @@ SS_net_net_btl_134	You don’t have enough Pokémon.
 SS_net_net_btl_135	Are these rules OK?
 SS_net_net_btl_136	Opponent
 SS_net_net_btl_137	Trainers’ Pokémon will be mixed!
+SS_net_net_btl_141	Eggs can’t participate.
+SS_net_net_btl_142	One or more of your Pokémon can’t participate.
+SS_net_net_btl_143	There are at least two Pokémon with the same\theld item.
+SS_net_net_btl_144	There is a problem with at least one Pokémon\tin this Battle Team.
+SS_net_net_btl_145	There is a problem with your\tparticipating Pokémon.
+SS_net_net_btl_138	Select Team
+SS_net_net_btl_139	Select Battle Rules
+SS_net_net_btl_140	Confirm Rules
+SS_net_net_btl_146	No. of Pokémon
+SS_net_net_btl_147	Pokémon Level
+SS_net_net_btl_148	Special Pokémon
+SS_net_net_btl_149	Same Pokémon
+SS_net_net_btl_150	Same Items
+SS_net_net_btl_151	
+SS_net_net_btl_152	Lv. \t\t or higher
+SS_net_net_btl_153	\t to \t
+SS_net_net_btl_154	Set all to Lv. \t
+SS_net_net_btl_155	Up to Lv. \t
+SS_net_net_btl_156	Allowed
+SS_net_net_btl_157	Not allowed
+SS_net_net_btl_158	Allowed
+SS_net_net_btl_159	Not allowed
+SS_net_net_btl_160	No restrictions
+SS_net_net_btl_161	Battle Rules
+SS_net_net_btl_061	Check battle formats
+SS_net_net_btl_162	Quit
 english_ss_net_trade_demo.txt
 SS_net_trade_demo_06	Sending \t\t\t to \t\t.\tGood-bye, \t\t!
 SS_net_trade_demo_07	Returning \t\t\t to \t\t.\tGood-bye, \t\t!
@@ -37538,8 +37643,6 @@ SS_option_053	No
 SS_option_054	 Reset
 SS_option_055	Would you like to save these settings?
 SS_option_056	Your settings have been saved.\t\t
-SS_option_058	Casual Controls
-SS_option_059	This mode makes it easier to play with one hand.
 SS_option_060	
 SS_option_061	Vertical Camera
 SS_option_062	Regular
@@ -37637,7 +37740,7 @@ SS_pokedex_096	Tallest→Shortest
 SS_pokedex_097	Shortest→Tallest
 SS_pokedex_098	Quit
 SS_pokedex_117	 Confirm
-SS_pokedex_124	If you trade that Pokémon, you won’t be able to\tcontinue your adventure!
+SS_pokedex_124	If you swap that Pokémon, you won’t be able to\tcontinue your adventure!
 SS_pokedex_127	
 SS_pokedex_128	Seen
 SS_pokedex_129	
@@ -38103,7 +38206,7 @@ SS_strinput_012	What would you like to name this Battle Team?
 SS_strinput_015	Please enter your code or password.
 SS_strinput_021	Please enter your birth month.
 SS_strinput_022	Please enter your birth day.
-SS_strinput_026	You can set an eight-digit Link Code.
+SS_strinput_026	Please enter an eight-digit Link Code.
 SS_strinput_028	Please enter a competition ID.
 SS_strinput_029	Please enter your match ID.
 SS_strinput_030	Please enter the team ID of the team that you’d like to rent.
@@ -38774,7 +38877,7 @@ SS_trainermemo_035	It seems to have met its original Trainer in a\tfateful encou
 SS_trainermemo_036	We first met in a fateful encounter when it\thatched from an Egg I got on \t\t/\t\t/20\t\t,\tfrom \t<color=#F01E1EFF>\t\t</color>\t.\tThe Egg hatched on \t\t/\t\t/20\t\t, while\tI was \t<color=#F01E1EFF>\t\t</color>\t!
 SS_trainermemo_037	It apparently met its original Trainer in a\tfateful encounter when it hatched from an\tEgg that was received on \t\t/\t\t/20\t\t,\tfrom \t<color=#F01E1EFF>\t\t</color>\t.\tIt seems the Egg hatched on \t\t/\t\t/20\t\t\t<color=#F01E1EFF>\t\t</color>\t!
 SS_trainermemo_038	It traveled across space and time to rejoin\tme from \t<color=#F01E1EFF>\t\t</color>\t.
-SS_trainermemo_039	It seems to have traveled all the way across\tspace and time itself to join me from\t<color=#F01E1EFF>\t\t</color>\t.
+SS_trainermemo_039	It seems to have traveled all the way across\tspace and time itself to join me\tfrom \t<color=#F01E1EFF>\t\t</color>\t.
 SS_trainermemo_040	It traveled across space and time to rejoin\tme from \t<color=#F01E1EFF>\t\t</color>\t,\twhere we met in a fateful encounter!
 SS_trainermemo_041	It seems to have traveled all the way across\tspace and time itself to join me from\t<color=#F01E1EFF>\t\t</color>\t, where it met\tits original Trainer in a fateful encounter.
 SS_trainermemo_042	It traveled across space and time to rejoin\tme from \t<color=#F01E1EFF>\t\t</color>\t.\tHow nostalgic!
@@ -40733,7 +40836,7 @@ ui_msg_xmenu_timeline_guide_53	Go figure out what’s happening at\tLake Valor!
 ui_msg_xmenu_timeline_guide_54	Go check out the situation at Lake Verity.
 ui_msg_xmenu_timeline_guide_87	Stop the Team Galactic members at Lake Verity.
 ui_msg_xmenu_timeline_guide_55	Check up on how things are going at Lake Acuity.
-ui_msg_xmenu_timeline_guide_88	Obtain the TM Strength!
+ui_msg_xmenu_timeline_guide_88	Obtain the TM Strength at the Lost Tower!
 ui_msg_xmenu_timeline_guide_56	Make your way to the Snowpoint Gym.
 ui_msg_xmenu_timeline_guide_89	Head to Team Galactic’s HQ.
 ui_msg_xmenu_timeline_guide_58	Find a way to get inside Team Galactic’s HQ!
@@ -40743,7 +40846,7 @@ ui_msg_xmenu_timeline_guide_60	Reenter the Galactic HQ from the Galactic\tVeilst
 ui_msg_xmenu_timeline_guide_61	Save the captured Pokémon!
 ui_msg_xmenu_timeline_guide_62	Push the button to save the captured Pokémon.
 ui_msg_xmenu_timeline_guide_63	Stop Team Galactic at Mount Coronet’s summit!
-ui_msg_xmenu_timeline_guide_91	Obtain the TM containing Rock Climb!
+ui_msg_xmenu_timeline_guide_91	Obtain the TM Rock Climb on Route 217!
 ui_msg_xmenu_timeline_guide_64	Calm the out-of-control Legendary Pokémon!
 ui_msg_xmenu_timeline_guide_65	Go check up on Sunyshore City.
 ui_msg_xmenu_timeline_guide_66	Find the Gym Leader of the Sunyshore Gym!

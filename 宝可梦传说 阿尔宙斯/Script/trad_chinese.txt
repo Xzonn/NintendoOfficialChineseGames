@@ -8291,3 +8291,156 @@ msg_facility_boutique_00	在衣鋪可以購買\n新衣服和新鞋子等。
 msg_facility_photo_00	在照相館可以和寶可夢一起拍照。
 msg_facility_ichou_00	在銀杏商會可以買到\n和雜貨店不同的道具。
 msg_facility_ichou_rare_00	在銀杏商會的尋寶商店\n可以買到稀有的道具。
+msg_facility_box_00	在放牧場可以寄放捕捉到的寶可夢，\n也可以替換同行的寶可夢。
+msg_facility_candy_00	在糖果鋪可以購買能夠提升\n寶可夢經驗值的經驗糖果。
+msg_facility_commu_00	在易寶攤可以用找到遺失物的ＦＰ來\n交換道具，也可以在這裡交換寶可夢。
+msg_facility_amulet_00	在護符婆婆那裡可以購買\n只要帶在身上就會受到保佑的護符。
+msg_facility_heart_00	在易寶攤可以用找到遺失物的ＦＰ來\n交換道具，也可以在這裡交換寶可夢。
+msg_facility_update_boutique_00	歡迎光臨。\n我們的商品增加了喔。
+msg_facility_update_boutique_01	歡迎光臨。\n我們的商品又增加了喔。
+msg_facility_update_photo_00	拍攝器材也增加了。
+msg_facility_update_photo_01	拍攝器材也增加了。\n要不要拍一張當作紀念啊？
+msg_facility_update_item_00	我讓商品的種類更豐富了，\n歡迎來看看喔。
+msg_facility_update_item_01	我讓商品的種類更充實了，\n歡迎來看看喔。
+poke_waza_maboroshi.dat
+poke_waza_maboroshi_01_01	[~ 0]
+poke_waza_maboroshi_01_02	[~ 1]
+poke_waza_maboroshi_01_03	[~ 2]
+poke_waza_maboroshi_01_04	[~ 3]
+poke_waza_maboroshi_01_05	[~ 4]
+poke_waza_maboroshi_01_06	[~ 5]
+poke_waza_maboroshi_01_07	[~ 6]
+poke_waza_maboroshi_01_08	[~ 7]
+poke_waza_maboroshi_01_09	[~ 8]
+poke_waza_maboroshi_01_10	[~ 9]
+poke_waza_maboroshi_01_11	[~ 10]
+poke_waza_maboroshi_01_12	[~ 11]
+poke_waza_maboroshi_sys_01	[~ 12]
+poke_waza_maboroshi_sys_02	[~ 13]
+poke_waza_maboroshi_sys_03	[~ 14]
+poke_waza_maboroshi_sys_04	[~ 15]
+poke_waza_maboroshi_01_13	[~ 16]
+waza_customize_event.dat
+msg_wazacustomize_001	嘿！調查組的！\n[VAR 1100(00FF,0101)]你妳找我有什麼事嗎？[VAR 0114(001B)]
+msg_wazacustomize_002	傳授招式
+msg_wazacustomize_003	交換道具
+msg_wazacustomize_004	沒事
+msg_wazacustomize_008	精通招式
+msg_wazacustomize_006	發問
+msg_wazacustomize_005	要交換道具是吧！\n[VAR 1100(00FF,0101)]你妳想要什麼？[VAR 0114(001B)]
+msg_wazacustomize_007	[VAR 1100(00FF,0101)]你妳想知道什麼？[VAR 0114(001B)]
+msg_wazacustomize_sel	[VAR 0109(0000)]
+msg_wazacustomize_sel_cansel	還是算了
+msg_wazacustomize_desc_001	什麼是傳授招式？
+msg_wazacustomize_desc_002	什麼是精通招式？
+msg_wazacustomize_desc_003	如何使用招式？
+msg_wazacustomize_desc_004	奮鬥等級？
+msg_wazacustomize_desc_005	返回
+msg_wazacustomize_011	想要[VAR 0109(0000)]的話，\n需要[VAR 0202(0002)]個[VAR 0109(0001)]來交換。\r\n[VAR 1100(00FF,0101)]你妳要交換嗎？[VAR 0114(001B)]
+msg_wazacustomize_012	[VAR 1100(00FF,0101)]你妳要一次多換幾個也行喔！\n這樣的話……\c\n就給我[VAR 0203(0001,0000)]個[VAR 0109(0000)]\n來交換成[VAR 0203(0003,0000)]個[VAR 0109(0002)]吧。[VAR 0114(001B)]
+msg_wazacustomize_013	交換
+msg_wazacustomize_014	一併交換！
+msg_wazacustomize_015	還有想要的東西嗎？[VAR 0114(001B)]
+msg_wazacustomize_016	找我還有其他事嗎？[VAR 0114(001B)]
+msg_wazacustomize_017	想要[VAR 0109(0002)]的話，\n需要有[VAR 0201(0001)]個[VAR 0109(0000)]來交換。\r\n但看來[VAR 1100(00FF,0101)]你妳的東西不夠多喔……[VAR 0114(001B)]
+msg_wazacustomize_018	透過交換獲得了\n[VAR 0203(0001,0000)]個[VAR 0109(0000)]！
+msg_wazacustomize_034	透過交換獲得了\n[VAR 0203(0001,0000)]個[VAR 0109(0000)]！
+msg_wazacustomize_019	[VAR 1100(00FF,0101)]你妳要選哪一隻寶可夢呀？[VAR 0114(001B)]
+msg_wazacustomize_020	還要我傳授招式\n給其他的寶可夢嗎？[VAR 0114(001B)]
+msg_wazacustomize_021	更改
+msg_wazacustomize_022	取消
+msg_wazacustomize_023	沒有[VAR 0109(0000)]的話，\n是無法精通招式的。[VAR 0114(001B)]
+msg_wazacustomize_024	咦？[VAR 0102(0000)]還沒學會\n可以精通的招式喔。[VAR 0114(001B)]
+msg_wazacustomize_025	好！那麼就選擇一個想讓\n[VAR 0102(0000)]精通的招式吧！[VAR 0114(001B)]
+msg_wazacustomize_031	咦？[VAR 1100(00FF,0101)]你妳打消主意啦？\n也是，三思而後行是好事。[VAR 0114(001B)]
+msg_wazacustomize_026	要用[VAR 0109(0000)]讓[VAR 0102(0001)]\n精通[VAR 0107(0002)]囉！\r\n準備好了嗎！？[VAR 0114(001B)]
+msg_wazacustomize_027	精通招式
+msg_wazacustomize_028	[VAR 0107(0000)]
+msg_wazacustomize_029	好……開始囉！[VAR 0114(001B)]
+msg_wazacustomize_032	嘿呀啊啊啊！！[VAR 0114(001B)]
+msg_wazacustomize_030	[VAR 0102(0001)]\n精通了[VAR 0107(0000)]！
+msg_wazacustomize_033	太完美了！\n今後你們也要繼續精進喔！[VAR 0114(001B)]
+msg_wazacustomize_detail_001	傳授招式就是教寶可夢學會招式。\n雖然不會是免費的，\c\n但是我可以傳授一些\n透過等級提升也學不到的招式喔。[VAR 0114(001B)]
+msg_wazacustomize_detail_002	寶可夢的等級提升後，\n將能夠精通牠已經學會的招式。\c\n這麼一來，就能在出招時切換\n剛猛和迅疾了。\c\n話說回來，只要給我精通種子，\n我就可以幫[VAR 1100(00FF,0101)]你妳的寶可夢精通招式喔。[VAR 0114(001B)]
+msg_wazacustomize_detail_003	如果[VAR 1100(00FF,0101)]你妳有和寶可夢對戰過，\n就應該知道吧？\c\n對戰一開始要選擇招式！\c\n至於招式有沒有效，是不是效果絕佳，\n要選剛猛還是迅疾，\r\n這些就靠[VAR 1100(00FF,0101)]你妳來決定了。[VAR 0114(001B)]
+msg_wazacustomize_detail_004	奮鬥等級可以強化寶可夢的能力。\c\n使用奮鬥沙之類的道具，就能讓\n寶可夢的攻擊或防禦之類的能力提高。\r\n這樣說不定就能在對戰中佔上風喔。[VAR 0114(001B)]
+msg_wazacustomize_update_lineup_01	聽說[VAR 1100(00FF,0101)]你妳的隊員星級提升了！\c\n我也有新的招式\n可以傳授給寶可夢了！\r\n那麼，[VAR 1100(00FF,0101)]你妳找我有什麼事？[VAR 0114(001B)]
+msg_wazacustomize_update_lineup_02	聽說[VAR 1100(00FF,0101)]你妳的隊員星級又提升了！\c\n我也有新的招式\n可以傳授給寶可夢了！\r\n那麼，[VAR 1100(00FF,0101)]你妳找我有什麼事？[VAR 0114(001B)]
+z_area05_s01_gimmick.dat
+msg_area05_s01_gimmick_talk_01	n/a
+msg_area05_s01_gimmick_talk_02	n/a
+msg_area05_s01_gimmick_talk_03	n/a
+msg_area05_s01_gimmick_talk_04	n/a
+msg_area05_s01_gimmick_talk_05	聽說很重要的關鍵是\n要注意石像在看著什麼東西。
+msg_area05_s01_gimmick_talk_06	說起來石像的胸口上\n好像有著什麼花紋。
+msg_area05_s01_gimmick_talk_07	n/a
+msg_area05_s01_gimmick_talk_08	n/a
+msg_area05_s01_null_01	[~ 8]
+msg_area05_s01_gimmick_bg_iwa	石像的胸口依稀可見\n有刻著岩石的花紋。
+msg_area05_s01_gimmick_bg_koori	石像的胸口依稀可見\n有刻著冰的花紋。
+msg_area05_s01_gimmick_bg_hagane	石像的胸口依稀可見\n有刻著鋼的花紋。
+msg_area05_s01_null_02	[~ 12]
+msg_area05_s01_gimmick_door_sys_01	門上嵌著３塊\n刻著花紋的板子。\c\n「石像的視線朝著……」\n門上刻著依稀可見的文字。
+msg_area05_s01_gimmick_door_sys_02	首先要觸碰\n哪個板子？
+msg_area05_s01_gimmick_door_list_01	岩石的板子
+msg_area05_s01_gimmick_door_list_02	冰的板子
+msg_area05_s01_gimmick_door_list_03	鋼的板子
+msg_area05_s01_gimmick_door_list_04	還是算了
+msg_area05_s01_gimmick_door_sys_03	接下來要觸碰\n哪個板子？
+msg_area05_s01_gimmick_door_sys_04	……似乎什麼事也不會發生。
+msg_area05_s01_gimmick_door_sys_05	[VAR 0100(0000)]按照順序\n觸碰了板子……！
+poke_waza_coalescence.dat
+poke_waza_coalescence_01	[~ 0]
+poke_waza_coalescence_02	[~ 1]
+poke_waza_coalescence_04	[~ 2]
+poke_waza_coalescence_05	[~ 3]
+poke_waza_coalescence_06	[~ 4]
+poke_waza_coalescence_07	[~ 5]
+poke_waza_coalescence_08	[~ 6]
+poke_waza_coalescence_10	[~ 7]
+poke_waza_coalescence_sys_02	[~ 8]
+poke_waza_coalescence_sys_03	[~ 9]
+poke_waza_coalescence_09	[~ 10]
+poke_waza_coalescence_01_01	[~ 11]
+poke_waza_coalescence_01_02	[~ 12]
+poke_waza_coalescence_01_03	[~ 13]
+poke_waza_coalescence_01_04	[~ 14]
+poke_waza_coalescence_01_05	[~ 15]
+poke_waza_coalescence_01_06	[~ 16]
+poke_waza_coalescence_01_07	[~ 17]
+poke_waza_coalescence_01_08	[~ 18]
+poke_waza_coalescence_01_09	[~ 19]
+poke_waza_coalescence_01_10	[~ 20]
+poke_waza_coalescence_01_11	[~ 21]
+poke_waza_coalescence_sys_01	[~ 22]
+poke_waza_coalescence_sys_04	[~ 23]
+friendship_check_event.dat
+msg_friendship_000	嘿，要不要我幫[VAR 1100(00FF,0101)]你妳看看\n[VAR 1100(00FF,0101)]你妳和寶可夢的感情有多好啊？[VAR 0114(0046)]
+msg_friendship_005	要讓我看哪隻寶可夢啊？[VAR 0114(0046)]
+msg_friendship_sel_000	幫我看
+msg_friendship_sel_001	還是算了
+msg_friendship_001	嗯……\n人和蛋的感情我可看不出來啊。[VAR 0114(0046)]
+msg_friendship_002	好！[VAR 1100(00FF,0101)]你妳和[VAR 0102(0000)]的感情是吧！\n讓我好好看看！[VAR 0114(0046)]
+msg_friendship_003	要順便讓我看看\n[VAR 1100(00FF,0101)]你妳和其他寶可夢的感情有多好嗎？[VAR 0114(0046)]
+msg_friendship_004	要是想知道自己和寶可夢的感情多好，\n就再來找我吧。[VAR 0114(0046)]
+msg_friendship_rank_0	看來你們才剛遇見彼此不久？\c\n[VAR 0102(0000)]好像還不是很習慣\n跟[VAR 1100(00FF,0101)]你妳在一起。[VAR 0114(0046)]
+msg_friendship_rank_1	[VAR 0102(0000)]和[VAR 1100(00FF,0101)]你妳的感情\n好像正開始要變好呢。[VAR 0114(0046)]
+msg_friendship_rank_2	[VAR 0102(0000)]和[VAR 1100(00FF,0101)]你妳的感情\n挺不錯的呢。\r\n但你們的感情應該能更好才對！[VAR 0114(0046)]
+msg_friendship_rank_3	[VAR 0102(0000)]和[VAR 1100(00FF,0101)]你妳的感情\n還真好呢。\r\n你們一定隨時都想在一起對吧！[VAR 0114(0046)]
+msg_friendship_rank_4	[VAR 0102(0000)]和[VAR 1100(00FF,0101)]你妳的感情\n非～常要好呢。\r\n你們倆都很珍惜對方！！[VAR 0114(0046)]
+msg_friendship_rank_5	[VAR 0102(0000)]和[VAR 1100(00FF,0101)]你妳的感情\n簡直好到了極點！\r\n能夠在一起就是幸福！[VAR 0114(0046)]
+poke_waza_garyoutensei.dat
+poke_waza_garyoutensei_01_01	[~ 0]
+poke_waza_garyoutensei_01_02	[~ 1]
+poke_waza_garyoutensei_01_03	[~ 2]
+poke_waza_garyoutensei_01_04	[~ 3]
+poke_waza_garyoutensei_01_05	[~ 4]
+poke_waza_garyoutensei_01_06	[~ 5]
+poke_waza_garyoutensei_01_07	[~ 6]
+poke_waza_garyoutensei_01_08	[~ 7]
+poke_waza_garyoutensei_01_09	[~ 8]
+poke_waza_garyoutensei_sys_01	[~ 9]
+poke_waza_garyoutensei_sys_02	[~ 10]
+poke_waza_garyoutensei_sys_03	[~ 11]
+poke_waza_garyoutensei_sys_04	[~ 12]
+msg_poke_waza_garyoutensei_max	

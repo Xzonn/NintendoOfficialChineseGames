@@ -1,4 +1,3 @@
-us_english.txt
 CREDIT_A_SUBTITLE_COMPANY_NAME_1	© Nintendo|Nintendo and Mercury Steam Entertainment are the authors of this software for the purpose of copyright. All rights reserved.|Nintendo et Mercury Steam Entertainment sont les auteurs de ce logiciel au regard du droit d'auteur. Tous droits réservés.
 ERROR_CODE_2115-0080	Please turn airplane mode/flight mode off when appropriate for your surroundings.|You can do this in Quick Settings (hold ᠏).
 ERROR_CODE_2115-0128	An error has occurred.||Please try again.
@@ -386,6 +385,24 @@ MAP_ICON_DOOR_FROZEN_FEMALE
 GUI_COMPANY_TITLE_SCREEN	© Nintendo
 MAP_STATE_BEGIN	(
 MAP_STATE_END	)
+APP_GAMEMODE_EASY	ROOKIE MODE
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_EASY	Increases recovery from drops and reduces damage from bosses.
+APP_GAMEMODE_EXPERT	DREAD MODE
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_EXPERT	The ultimate challenge where any hit results in a Game Over.
+GUI_FILESELECT_PROMPT_EXPERTMODEUNLOCK	DREAD MODE UNLOCKED
+GUI_ENDING_TOTAL_TIME	TOTAL PLAY TIME
+GUI_ITEM_PCT	ITEM COLLECTION
+GUI_EXTRA_LIFE_TANKS	ENERGY
+GUI_EXTRA_MISSILES	MISSILES
+GUI_EXTRA_POWERBOMBS	POWER BOMBS
+GUI_PLAYER_DEATHS	TIMES DEFEATED
+GUI_DAMAGE_RECEIVED	TOTAL DAMAGE RECEIVED
+GUI_BOSSKILLED	BOSSES DEFEATED
+GUI_SAVECOUNT	TIMES SAVED
+GUI_STATS_SCREEN_TITLE	MISSION RESULT
+GUI_STATS_CLEAR_TIME	CLEAR TIME
+GUI_ENDING_DIFFICULTY	DIFFICULTY
+GUI_FILESELECT_PROMPT_EASYMODEUNLOCK	ROOKIE MODE ADDED
 MLOG_ABILITY_BOMB	{c1}Bomb{c0} acquired in Dairon.
 MLOG_ABILITY_CHARGE_BEAM	{c1}Charge Beam{c0} acquired in Artaria.
 MLOG_ABILITY_DIFFUSION_BEAM	{c1}Diffusion Beam{c0} acquired in Cataris.

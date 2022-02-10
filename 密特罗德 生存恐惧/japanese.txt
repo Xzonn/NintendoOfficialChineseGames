@@ -1,4 +1,3 @@
-japanese.txt
 CREDIT_A_SUBTITLE_COMPANY_NAME_1	© Nintendo|Nintendo and Mercury Steam Entertainment are the authors of this software for the purpose of copyright. All rights reserved.|Nintendo et Mercury Steam Entertainment sont les auteurs de ce logiciel au regard du droit d'auteur. Tous droits réservés.
 ERROR_CODE_2115-0080	機内モードをOFFにしてください。||クイック設定（᠏ 長押し）で変えられます。
 ERROR_CODE_2115-0128	エラーが発生しました。||もう一度おためしください。
@@ -386,6 +385,24 @@ MAP_ICON_DOOR_FROZEN_FEMALE
 GUI_COMPANY_TITLE_SCREEN	© Nintendo
 MAP_STATE_BEGIN	（
 MAP_STATE_END	）
+APP_GAMEMODE_EASY	ルーキーモード
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_EASY	サムスの回復量が上がり、ボスの攻撃力が抑えられた初心者向けのモード
+APP_GAMEMODE_EXPERT	ドレッドモード
+GUI_DIFSELECTOR_LABEL_DESCRIPTOR_EXPERT	敵やトラップからのダメージで即ゲームオーバーとなる超高難易度モード
+GUI_FILESELECT_PROMPT_EXPERTMODEUNLOCK	ドレッドモードがアンロックされました。
+GUI_ENDING_TOTAL_TIME	TOTAL PLAY TIME
+GUI_ITEM_PCT	アイテム回収率
+GUI_EXTRA_LIFE_TANKS	エネルギー
+GUI_EXTRA_MISSILES	ミサイル
+GUI_EXTRA_POWERBOMBS	パワーボム
+GUI_PLAYER_DEATHS	ゲームオーバーの回数
+GUI_DAMAGE_RECEIVED	受けたダメージ総量
+GUI_BOSSKILLED	倒したボスの数
+GUI_SAVECOUNT	セーブした回数
+GUI_STATS_SCREEN_TITLE	ミッションリザルト
+GUI_STATS_CLEAR_TIME	CLEAR TIME
+GUI_ENDING_DIFFICULTY	難易度
+GUI_FILESELECT_PROMPT_EASYMODEUNLOCK	ルーキーモードがアンロックされました。
 MLOG_ABILITY_BOMB	{c1}ボム{c0} を ダイロン で入手
 MLOG_ABILITY_CHARGE_BEAM	{c1}チャージビーム{c0} を アルタリア で入手
 MLOG_ABILITY_DIFFUSION_BEAM	{c1}ディフュージョンビーム{c0} を カタリス で入手

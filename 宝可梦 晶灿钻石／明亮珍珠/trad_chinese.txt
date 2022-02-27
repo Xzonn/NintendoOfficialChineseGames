@@ -100,6 +100,7 @@ trad_chinese_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	―\t―\t―
 CONTESTWAZA_INFO_001	沒有追加效果。
 CONTESTWAZA_INFO_002	\t秒之內，\t音符不會被判定為失敗。
+CONTESTWAZA_INFO_018	無法使用此招式。\t雖然忘記後將無法再想起來，\t但還是建議忘記此招式。
 CONTESTWAZA_INFO_005	\t秒之內，\tHIGH度不會降低。
 CONTESTWAZA_INFO_008	\t秒之內，\t愛心計量槽變得稍微容易增加。
 CONTESTWAZA_INFO_009	\t秒之內，\t愛心計量槽變得容易增加。
@@ -112,7 +113,6 @@ DLP_GMStation_001	若要使用GMStation，\t需加入Nintendo Switch Online。\t
 DLP_GMStation_002	請確認連線環境。
 DLP_GMStation_003	要結束GMStation嗎？
 DLP_GMStation_004	確定要刪除這個標記嗎？
-DLP_GMStation_005	在GMStation，可以透過網路\t和世界各地的人們交換寶可夢。\t在接收寶可夢之前，\t無法知道會交換到哪一種寶可夢。\t這就稱為奇跡交換。\t進行奇跡交換時，\t可選擇想用來交換的寶可夢，\t以及地球儀上喜歡的地點。\t當奇跡交換成立時，\t對方的寶可夢會被標記在\t您的地球儀上。\t相同地，您的寶可夢\t也會被標記在對方的地球儀上。\t反覆進行奇跡交換，\t完成屬於您的地球儀吧！
 DLP_GMStation_006	確定要在寫入紀錄後\t開始奇跡交換嗎？
 DLP_GMStation_007	正在尋找可以交換的對象……
 DLP_GMStation_008	這個地點上已標記了\t其他的寶可夢。\t請決定要標記在這個\t地點上的寶可夢。
@@ -185,6 +185,18 @@ DLP_GMStation_074	交換看看寶可夢吧！
 DLP_GMStation_075	確定
 DLP_GMStation_076	返回
 DLP_GMStation_077	要繼續奇跡交換嗎？
+DLP_GMStation_078	請選擇地點。
+DLP_GMStation_079	將刪除寶可夢的紀錄。\t確定要繼續嗎？
+DLP_GMStation_083	在GMStation，\t可以透過網路與世界各地的人們\t進行寶可夢的奇跡交換。\t當奇跡交換成立時，\t寶可夢會被標記在地球儀上。\t標記的地點數量變多了之後，\t我們將贈送您紀念品喔！\t反覆進行奇跡交換，\t完成屬於您的地球儀吧！
+DLP_GMStation_084	進行奇跡交換時，\t首先要選擇想用來交換的寶可夢。\t但有一部分的寶可夢\t是不能用來交換的。\t接著選擇地球儀上您喜歡的地點。\t比如可以選擇看看\t您所選的寶可夢\t可能會居住的地點。\t當奇跡交換成立時，\t對方的寶可夢會被標記在\t您的地球儀上。\t相同地，您的寶可夢\t也會被標記在對方的地球儀上。\t在接收寶可夢之前，\t無法知道會交換到哪一種寶可夢。\t總覺得真叫人興奮呢！
+DLP_GMStation_085	可以查看反覆進行奇跡交換\t所打造出屬於您自己的\t地球儀與地點。\t在１個被標記的地點上，\t最多可記錄５隻寶可夢。\t此外，從紀錄當中\t可變更標記的寶可夢，\t也可以刪除紀錄。\t其他還可以轉動或\t放大縮小地球儀。\t請嘗試看看各種操作喔。
+DLP_GMStation_080	什麼是GMStation
+DLP_GMStation_081	奇跡交換
+DLP_GMStation_082	查看地球儀
+DLP_GMStation_086	取消
+DLP_GMStation_087	作為達成標記的紀念品，\t獲得了\t\t個神奇糖果！
+DLP_GMStation_088	叫聲
+DLP_GMStation_089	加速
 trad_chinese_dlp_halloffame_demo.txt
 DLP_halloffame_demo_014	
 DLP_halloffame_demo_015	Lv.\t
@@ -218,6 +230,7 @@ DLP_net_union_room_025	未招募到足夠的成員。
 DLP_net_union_room_026	正在進行分組。
 DLP_net_union_room_027	要參加多人對戰嗎？
 DLP_net_union_room_028	抱歉啊，名額已經滿了。\t請下次再來喔。
+DLP_net_union_room_114	已貼上現有的貼紙！
 DLP_net_union_room_030	您好。初次見面！
 DLP_net_union_room_031	即將取消對戰。\t確定要繼續嗎？
 DLP_net_union_room_032	現在將移動到全球交誼廳。
@@ -245,7 +258,7 @@ DLP_net_union_room_054	要使用社群交誼廳嗎？
 DLP_net_union_room_055	現在將重新進入社群交誼廳。
 DLP_net_union_room_056	即將離開社群交誼廳。\t確定要繼續嗎？
 DLP_net_union_room_057	即將離開全球交誼廳。\t確定要繼續嗎？
-DLP_net_union_room_061	訓練家們可以欣賞彼此的球殼裝飾。\t把自己想展示的球殼裝飾\t放到列表的最前面吧！\t對方設計的球殼裝飾是什麼樣子，\t一定很讓人好奇對不對！\t您可以將喜歡的球殼裝飾\t複製到自己的列表。\t所以請試試看吧！
+DLP_net_union_room_061	訓練家們可以複製彼此的球殼裝飾。\t把自己想展示的球殼裝飾\t放到列表的最前面吧！\t對方的球殼裝飾會\t自動被複製到自己的列表，\t請隨意試試看吧！\t另外，就算現有的貼紙數\t不足以複製球殼裝飾，\t還是能將現有的貼紙貼上球殼。
 DLP_net_union_room_064	對手
 DLP_net_union_room_065	我是\t\t！
 DLP_net_union_room_066	我是\t\t！
@@ -270,7 +283,7 @@ DLP_net_union_room_085	讓\t\t久等了！\t來，這是我的球殼裝飾！
 DLP_net_union_room_087	要複製\t\t的球殼裝飾嗎？
 DLP_net_union_room_088	請選擇要用於複製的球殼。
 DLP_net_union_room_089	確定要複製到這個球殼上嗎？
-DLP_net_union_room_090	球殼裝飾已複製。
+DLP_net_union_room_090	已貼上所有的貼紙！
 DLP_net_union_room_091	\t來向您展示球殼裝飾。\t您要不要也展示自己的球殼裝飾？
 DLP_net_union_room_092	\t向您展示了球殼裝飾。
 DLP_net_union_room_093	現在將重新進入社群交誼廳。
@@ -294,7 +307,6 @@ DLP_net_union_room_109	：\t
 DLP_net_union_room_110	：\t
 DLP_net_union_room_111	聯盟交誼廳
 DLP_net_union_room_112	沒有可以用來交換的寶可夢。
-DLP_net_union_room_113	\t正在更改規則。
 trad_chinese_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	能感受到神奇力量的小碎片。\t碎片中浮現著像是玫瑰花的花紋。
@@ -725,7 +737,7 @@ DLP_staff_list_059	Yuka Seki
 DLP_staff_list_060	Shuhei Otake
 DLP_staff_list_061	Yusuke Yasuda
 DLP_staff_list_062	Morimichi Suzuki
-DLP_staff_list_063	Shunpei Sasaki
+DLP_staff_list_063	Shohei Sasaki
 DLP_staff_list_064	Koichi Ishikawa
 DLP_staff_list_065	Ryoma Yoda
 DLP_staff_list_066	TECHNICAL SUPPORT
@@ -777,7 +789,7 @@ DLP_staff_list_111	Tetsuya Oi
 DLP_staff_list_112	Tsukasa Izuoka
 DLP_staff_list_113	Yohei Ukai
 DLP_staff_list_114	Manami Urakami
-DLP_staff_list_115	Asai Hitomi
+DLP_staff_list_115	Hitomi Asai
 DLP_staff_list_116	DIGITAL MOVIE GRAPHIC
 DLP_staff_list_117	Kei Iwasaki
 DLP_staff_list_118	Tomotake Ishikawa
@@ -855,7 +867,7 @@ DLP_staff_list_189	Hiroaki Nakayama
 DLP_staff_list_190	Pham Thi Linh
 DLP_staff_list_191	Mitsuyasu Furuhashi
 DLP_staff_list_192	Kana Ogata
-DLP_staff_list_193	Hirota Masaki
+DLP_staff_list_193	Masaki Hirota
 DLP_staff_list_194	Ayano Sasaki
 DLP_staff_list_195	Masaomi Yamada
 DLP_staff_list_196	CHARACTER MODELING COOPERATIVE COMPANIES
@@ -3321,6 +3333,7 @@ DP_CHARACTERS_295	戴亞
 DP_CHARACTERS_296	青名
 trad_chinese_dp_contest.txt
 DP_contest_000	測試用訊息
+DP_contest_688	……哎呀？\t您好像沒有能參加\t華麗大賽的寶可夢呢。\t請先準備好學會了\t能在華麗大賽使用的招式\t的寶可夢再來。
 DP_contest_032	所有評審項目都告一段落，\t各位參賽者辛苦了～～！\t最佳表演者究竟會由\t哪一隻寶可夢獲得呢？\t那麼，我們現在就來公布結果！
 DP_contest_118	帥氣華麗大賽
 DP_contest_119	美麗華麗大賽
@@ -4596,6 +4609,7 @@ trad_chinese_dp_net_communication.txt
 7-msg_union_talkgirl_04_07	\t想要更改規則是吧！\t好的～等我一下下喔！
 8-msg_connect_union_08	要進入房間嗎？
 3-msg_pcug_01_08	那麼祝您在全球交誼廳玩得盡興！
+8-msg_connect_colosseum_03_patch3	對戰分成３種模式。\t單打對戰是由２位訓練家\t各派出１隻寶可夢到場上對戰的模式。\t雙打對戰是由２位訓練家\t各派出２隻寶可夢到場上對戰的模式。\t多人對戰是由４位訓練家\t各派出１隻寶可夢到場上\t進行２ｖｓ２對戰的模式。
 3-msg_pcug_01_03_patch1	在本俱樂部中，您可以使用網路\t與全世界的訓練家一同享受\t交換寶可夢的樂趣。\t只要按下Ｙ鍵，\t隨時都可以進入聯盟交誼廳！\t不過，也有些地方無法使用，\t例如室內、迷宮內等等。\t需要更詳細的說明嗎？
 3-msg_pcug_01_07_patch1	那麼請讓我來做一下\t寶可夢全球俱樂部的說明！\t您可以從左邊２個櫃台，\t或是按下Ｙ鍵來進入全球交誼廳！\t在全球交誼廳中，\t您可以與全世界的訓練家\t一同享受連線交換的樂趣！
 7-msg_union_info_01_14_patch1	去找出現著圖示的人搭話，\t和他交換寶可夢吧。\t按下Ｙ鍵選擇您想做的事情後，\t圖示就會出現喔！
@@ -6531,8 +6545,8 @@ trad_chinese_dp_scenario1.txt
 32-msg_c01r0101_middlem_07	這個應用程式能夠方便\t\t\t隨時查看地圖，厲害吧～\t另外還可以在上面做標記，\t說不定能夠在哪裡派上用場喔。
 51-msg_c01r0601_receptionist_01	您是第一次來吧！\t這裡是全球奇跡交換中心，\t也被稱作「GMStation」。
 51-msg_c01r0601_receptionist_02	在這裡，您可以使用網路來享受\t與全世界的人交換寶可夢的樂趣。
-51-msg_c01r0601_receptionist_03	您要使用需要連線到網路的\t全球奇跡交換中心嗎？
-51-msg_c01r0601_receptionist_04	您好！歡迎來到全球奇跡交換中心！\t您要使用需要連線到網路的\t全球奇跡交換中心嗎？
+51-msg_c01r0601_receptionist_03	您要使用需要連線到網路的\tGMStation嗎？
+51-msg_c01r0601_receptionist_04	您好！歡迎來到GMStation！\t您要使用需要連線到網路的\tGMStation嗎？
 11-msg_heroine_17_01	那個，\t\t！\t\t現在有沒有時間？\t既然\t\t那麼厲害，\t方便的話能不能教教我寶可夢對戰？
 11-msg_heroine_17_02	謝謝\t\t！\t竟然能讓登入名人堂的訓練家親自傳授，\t我好幸福喔！\t……那麼，我要上囉！
 32-msg_c01r0101_middlem_14	我想想～！有那麼多的人\t會分享各種應用程式給自己，\t每個人一定都很開心吧～！
@@ -6648,8 +6662,6 @@ trad_chinese_dp_scenario1.txt
 48-msg_c01r0502_boy3_01_2	像這樣看牠們使出不同的招式，\t會讓我覺得很高興！
 48-msg_c01r0502_man1_01_1	\t在友好商店有買治癒球嗎？\t用它捕獲到的寶可夢，ＨＰ會全部回復。
 48-msg_c01r0502_man1_01_2	所以捕獲後就能\t立刻讓牠上場對戰。\t……那裡面到底是什麼樣的\t治癒空間呢？
-49-msg_c01r0503_bigman_01	在全球奇跡交換中心\t可以和全世界的人交換寶可夢啊……\t光是聽就讓我興奮不已！
-49-msg_c01r0503_girl1_01	連上網路後，\t究竟世界是變大還是變小了，\t真令人百思不解。
 51-msg_c01r0601_bigman_01	好大的地球儀啊。\t話說，地球儀的儀是什麼意思呀？
 51-msg_c01r0601_man3_01	全球……全球奇奇……\t全球奇跡交飯……\t……全球\t奇跡\t交換\t中心！\t呼……\t這名字……\t怎麼這麼長……\t這麼難念啦！
 51-msg_c01r0601_boy3_01	只要多進行幾次奇跡交換，\t總有一天會完成專屬於我的地球儀。\t悠閒地欣賞完成後的地球儀，\t是我的夢想喔！
@@ -6657,7 +6669,7 @@ trad_chinese_dp_scenario1.txt
 51-msg_c01r0601_man2_01	只要想到我一手培育的寶可夢啊，\t會被記錄在對方的地球儀上，\t我會有一股想哭的衝動啊……
 51-msg_c01r0601_woman2_01	和不認識的人交換寶可夢，\t雖然多少會有點不安，\t但想到可以和沒見過的寶可夢相遇，\t心情就會興奮起來呢！
 51-msg_c01r0601_receptionist_06	那麼，請下次再來。
-51-msg_c01r0601_receptionist_07	那麼祝您在全球奇跡交換中心玩得盡興！
+51-msg_c01r0601_receptionist_07	那麼祝您在GMStation玩得盡興！
 53-mes_earth_01_01	歡迎來到高科技地球儀\t寰宇網！
 53-mes_earth_01_02	您要做什麼？
 54-msg_c01r0701_rival_01_1	哦！\t\t，\t\t也是來上課的嗎？\t我可是把黑板上的內容都記下來了喔！
@@ -7029,10 +7041,8 @@ trad_chinese_dp_scenario1.txt
 110-msg_d04r0101_middleman2_01_2	為了讓大家在鋼鐵廠裡\t移動能夠更加方便，\t我把地板換成了自動式，\t結果反而被嫌頭都要轉暈了……
 110-msg_d04r0101_middleman2_01_3	先不提這事，\t這個送\t\t當紀念！
 110-msg_d04r0101_middleman2_02	沒有了鐵，\t鋼鐵廠就什麼也做不了！\t所以要好好感謝\t大自然賜給我們這些鐵！
-51-msg_c01r0601_receptionist_08	……咦？\t這位客人，您的同行寶可夢\t和寶可夢盒都是滿的喔。
-51-msg_c01r0601_receptionist_09	您若是想要使用\t全球奇跡交換中心的服務，\t請先將同行寶可夢或是寶可夢盒\t騰出空位後再來。
 51-msg_c01r0601_receptionist_10	……咦？這位客人！
-51-msg_c01r0601_receptionist_11	包含寶可夢盒在內，\t您的寶可夢如果少於２隻，\t是無法使用全球奇跡交換中心的。
+51-msg_c01r0601_receptionist_11	包含寶可夢盒在內，\t您的寶可夢如果少於２隻，\t是無法使用GMStation的。
 51-msg_c01r0601_receptionist_12	請您先準備好２隻以上的\t寶可夢之後再來。
 95-mes_accessory_01_03	\t想要哪種貼紙呢？
 95-mes_accessory_01_04	\t張\t\t是吧。\t\t要用\t\t個\t\t和我交換嗎？
@@ -7133,6 +7143,7 @@ SS_strinput_040	請輸入１到\t\t之間的數字。
 11-msg_heroine_09_2	雖然捕捉寶可夢是一件\t困難又辛苦的事……\t不過，也非常有意思對吧！！
 11-msg_hero_09_1	我說啊，\t\t。\t我也有在幫忙製作全國圖鑑……
 11-msg_hero_09_2	雖然捕捉寶可夢是一件\t困難又辛苦的事……\t不過，也超有意思的對吧！！
+51-msg_c01r0601_receptionist_14	想聽哪部分的說明呢？
 trad_chinese_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	哎呀，那個是寶可夢圖鑑？\t\t在幫山梨博士的忙嗎？\t\t叫什麼名字？\t………………\t………………
 0-msg_c04_chanpion_01_2	\t叫做\t\t啊。\t我會記下來的！\t我是寶可夢訓練家，竹蘭。\t出於好奇，正在調查寶可夢的神話。
@@ -20333,6 +20344,7 @@ SS_bag_163	要用幾個\t\t？
 SS_bag_165	要用幾個\t\t？
 SS_bag_356	查看標籤
 SS_bag_357	可交換到的玉
+SS_bag_358	\t的\t\t\t基礎點數上升了！
 SS_bag_169	燈泡
 SS_bag_170	微波爐
 SS_bag_171	洗衣機
@@ -20360,6 +20372,9 @@ SS_bag_352	這裡不能下自行車！
 SS_bag_353	啟動了ＤＳ播放器！
 SS_bag_354	關閉了ＤＳ播放器！
 SS_bag_355	累積的對戰點數\t\tＢＰ
+SS_bag_359	和\t\t變得親密了一些！\t\t的基礎點數下降了！
+SS_bag_360	和\t\t變得無比親密了！\t\t的基礎點數下降了！
+SS_bag_361	和\t\t變得親密了一些！\t\t的基礎點數\t已經不能再降低了！
 trad_chinese_ss_bag_pocket.txt
 SS_bag_pocket_001	回復
 SS_bag_pocket_002	精靈球
@@ -20609,6 +20624,7 @@ SS_box_237	太完美了！
 SS_box_577	完成鍛鍊了！
 SS_box_369	標記
 SS_box_588	對方已中止交換。
+SS_box_589	無法選擇這隻寶可夢。
 trad_chinese_ss_boxname.txt
 SS_boxname_001	盒子１
 SS_boxname_002	盒子２
@@ -37205,6 +37221,7 @@ SS_net_live_comm_339	網路連線
 SS_net_live_comm_340	鄰近主機通訊
 trad_chinese_ss_net_message_error.txt
 error_o_serial_0031	序號認證伺服器發生錯誤。\t請稍後再試。
+error_comm_28	無法連線到伺服器。\t請重新再試一次。
 error_o_serial_0091	序號認證伺服器正在進行維護作業，\t因此無法連線。\t請稍後再試。
 error_o_serial_0092	所使用的服務已結束。
 error_o_serial_0098	序號認證伺服器發生錯誤。\t請稍後再試。

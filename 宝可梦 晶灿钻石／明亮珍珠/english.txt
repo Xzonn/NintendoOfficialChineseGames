@@ -100,6 +100,7 @@ english_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	
 CONTESTWAZA_INFO_001	This move has no additional effects.
 CONTESTWAZA_INFO_002	For \t\t seconds, missed notes will not be judged.
+CONTESTWAZA_INFO_018	This move can’t be used.\tIt’s recommended that this move is forgotten.\tOnce forgotten, this move can’t be remembered.
 CONTESTWAZA_INFO_005	Groove will not drop for \t\t seconds.
 CONTESTWAZA_INFO_008	For \t\t seconds, it will be a bit easier to fill up the\tHeart Gauge.
 CONTESTWAZA_INFO_009	For \t\t seconds, it will be easier to fill up the\tHeart Gauge.
@@ -112,7 +113,6 @@ DLP_GMStation_001	A paid Nintendo Switch Online membership is\trequired to use t
 DLP_GMStation_002	Please check your connection.
 DLP_GMStation_003	Are you finished using the GWS?
 DLP_GMStation_004	This icon will be deleted. Is that OK?
-DLP_GMStation_005	At the GWS, you can trade Pokémon with people\tfrom all over the world through the internet.\tYou won’t know what Pokémon you’ll get until\tyou receive it. This is called a Wonder Trade.\tTo make a Wonder Trade, select a Pokémon you\twant to trade and choose a point on the globe.\tWhen the Wonder Trade is complete, an icon of\tyour trade partner’s Pokémon will appear at their\tlocation on your personal globe.\tLikewise, your Pokémon’s icon will appear on\tyour trade partner’s globe.\tKeep making Wonder Trades to fill the globe!
 DLP_GMStation_006	Would you like to save your progress and start\ta Wonder Trade?
 DLP_GMStation_007	Searching for a Trainer to trade with...
 DLP_GMStation_008	This point already has a Pokémon’s icon on it.\tPlease choose which Pokémon’s icon to display.
@@ -146,8 +146,8 @@ DLP_GMStation_035	CHS
 DLP_GMStation_036	\t/\t\t/\t
 DLP_GMStation_037	\t/\t
 DLP_GMStation_038	 Rotate
-DLP_GMStation_039	 Zoom in
-DLP_GMStation_040	 Zoom out
+DLP_GMStation_039	 Zoom In
+DLP_GMStation_040	 Zoom Out
 DLP_GMStation_041	Use the GWS
 DLP_GMStation_042	Tell me more
 DLP_GMStation_043	No, thanks
@@ -185,6 +185,18 @@ DLP_GMStation_074	Try trading Pokémon!
 DLP_GMStation_075	 Confirm
 DLP_GMStation_076	 Back
 DLP_GMStation_077	Would you like to continue the Wonder Trade?
+DLP_GMStation_078	Please select a point.
+DLP_GMStation_079	The Pokémon’s records will be deleted.\tIs that OK?
+DLP_GMStation_083	At the GWS, you can connect with people all\tover the world through the internet to conduct\tPokémon Wonder Trades.\tWhen a Wonder Trade is complete, an icon of a\tPokémon will appear on the globe.\tYou’ll collect rewards as you fill more points on\tthe globe with icons!\tKeep making Wonder Trades to complete your\tvery own globe!
+DLP_GMStation_084	To make a Wonder Trade, first select a Pokémon\tyou want to trade.\tBe warned that there are some Pokémon you\tcan’t trade, though.\tNext, choose any point you like on the globe.\tFor example, it could be a place where you think\tyour chosen Pokémon might live.\tWhen the Wonder Trade is complete, an icon of\tyour trade partner’s Pokémon will appear on\tyour globe.\tLikewise, your Pokémon’s icon will appear on\tyour trade partner’s globe.\tYou won’t know what Pokémon you’ll receive\tuntil it arrives.\tI think that’s pretty exciting!
+DLP_GMStation_085	As you make more Wonder Trades, you can view\tthe points on the globe you’re filling in.\tEach point marked on the globe can hold records\tof up to five Pokémon.\tYou can change the Pokémon icon shown or\tdelete records.\tYou can also spin the globe, or enlarge or shrink\tit, so go ahead and try it out!
+DLP_GMStation_080	The GWS
+DLP_GMStation_081	Wonder Trades
+DLP_GMStation_082	Viewing the globe
+DLP_GMStation_086	Quit
+DLP_GMStation_087	You received \t\t Rare \t\t as a reward for\tfilling in your globe!
+DLP_GMStation_088	 Cry
+DLP_GMStation_089	Speed Up
 english_dlp_halloffame_demo.txt
 DLP_halloffame_demo_014	
 DLP_halloffame_demo_015	Lv. \t
@@ -218,6 +230,7 @@ DLP_net_union_room_025	Failed to find enough members.
 DLP_net_union_room_026	Dividing into teams...
 DLP_net_union_room_027	Would you like to join a Multi Battle?
 DLP_net_union_room_028	Sorry. We already have enough members.\tMaybe next time!
+DLP_net_union_room_114	Only the Stickers you own have been attached!
 DLP_net_union_room_030	Nice to meet you!
 DLP_net_union_room_031	Do you want to cancel the battle?
 DLP_net_union_room_032	Taking you to the Global Room...
@@ -245,7 +258,7 @@ DLP_net_union_room_054	Would you like to use the Local Room?
 DLP_net_union_room_055	You’ll enter the Local Room again.
 DLP_net_union_room_056	You’ll be leaving the Local Room. Is that OK?
 DLP_net_union_room_057	You’ll be leaving the Global Room. Is that OK?
-DLP_net_union_room_061	You can see each other’s Capsule Decorations.\tPlace the Capsule Decoration you want to show\toff at the top of the list.\tYou’re interested in seeing other Trainers’\tCapsule Decorations, aren’t you?\tIf you like someone’s Sticker setup, you can copy\tit to your list. Go ahead and try it out!
+DLP_net_union_room_061	You can copy each other’s Capsule Decorations.\tPlace the Capsule Decoration you want to show\toff at the top of the list.\tThe other Trainer’s Capsule Decorations will be\tautomatically copied to your list.\tEven if you don’t have all the same Stickers when\tyou make the copy, you can do it with just the\tones you already own. Go ahead and try it out!
 DLP_net_union_room_064	Opponent:
 DLP_net_union_room_065	I’m \t\t!
 DLP_net_union_room_066	I’m \t\t!
@@ -270,7 +283,7 @@ DLP_net_union_room_085	Thank you for waiting.\tHere’s my Capsule Decoration!
 DLP_net_union_room_087	Would you like to copy \t\t’s\tCapsule Decoration?
 DLP_net_union_room_088	Please select a Ball Capsule you would like to\tcopy the Capsule Decoration onto.
 DLP_net_union_room_089	Would you like to copy the Capsule Decoration\tonto this Ball Capsule?
-DLP_net_union_room_090	The Capsule Decoration has been copied.
+DLP_net_union_room_090	All of the Stickers have been attached!
 DLP_net_union_room_091	\t wants to show you their\tCapsule Decoration.\tWould you like to show yours to them?
 DLP_net_union_room_092	\t is showing you their\tCapsule Decoration.
 DLP_net_union_room_093	You’ll enter the Local Room again.
@@ -294,7 +307,6 @@ DLP_net_union_room_109
 DLP_net_union_room_110	
 DLP_net_union_room_111	Union Room
 DLP_net_union_room_112	You don’t have a Pokémon you can trade!
-DLP_net_union_room_113	\t is changing the rules.
 english_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	A small shard that emanates an enigmatic power. Inside\tthe shard, you can see a pattern that looks like\tRamanas roses.
@@ -725,7 +737,7 @@ DLP_staff_list_059	Yuka Seki
 DLP_staff_list_060	Shuhei Otake
 DLP_staff_list_061	Yusuke Yasuda
 DLP_staff_list_062	Morimichi Suzuki
-DLP_staff_list_063	Shunpei Sasaki
+DLP_staff_list_063	Shohei Sasaki
 DLP_staff_list_064	Koichi Ishikawa
 DLP_staff_list_065	Ryoma Yoda
 DLP_staff_list_066	TECHNICAL SUPPORT
@@ -777,7 +789,7 @@ DLP_staff_list_111	Tetsuya Oi
 DLP_staff_list_112	Tsukasa Izuoka
 DLP_staff_list_113	Yohei Ukai
 DLP_staff_list_114	Manami Urakami
-DLP_staff_list_115	Asai Hitomi
+DLP_staff_list_115	Hitomi Asai
 DLP_staff_list_116	DIGITAL MOVIE GRAPHIC
 DLP_staff_list_117	Kei Iwasaki
 DLP_staff_list_118	Tomotake Ishikawa
@@ -855,7 +867,7 @@ DLP_staff_list_189	Hiroaki Nakayama
 DLP_staff_list_190	Pham Thi Linh
 DLP_staff_list_191	Mitsuyasu Furuhashi
 DLP_staff_list_192	Kana Ogata
-DLP_staff_list_193	Hirota Masaki
+DLP_staff_list_193	Masaki Hirota
 DLP_staff_list_194	Ayano Sasaki
 DLP_staff_list_195	Masaomi Yamada
 DLP_staff_list_196	CHARACTER MODELING COOPERATIVE COMPANIES
@@ -3321,6 +3333,7 @@ DP_CHARACTERS_295	Diamond
 DP_CHARACTERS_296	Teala
 english_dp_contest.txt
 DP_contest_000	Dummy message
+DP_contest_688	Oh? It seems you don’t have a Pokémon that can\tenter a contest show.\tPlease come back with a Pokémon that knows\ta move that can be used in contest shows.
 DP_contest_032	That’s it, folks! All evaluations have been tallied\tand totaled! Which Pokémon will be crowned the\tStar of the Show? Let’s announce the results!
 DP_contest_118	Coolness Contest
 DP_contest_119	Beauty Contest
@@ -4596,6 +4609,7 @@ english_dp_net_communication.txt
 7-msg_union_talkgirl_04_07	A rule change? Let me check!
 8-msg_connect_union_08	You need to save your adventure to enter the\troom. Would you like to enter?
 3-msg_pcug_01_08	I hope you enjoy your time in the Global Room!
+8-msg_connect_colosseum_03_patch3	There are three kinds of battles.\tSingle Battle is for two Trainers with one\tPokémon each.\tDouble Battle is for two Trainers with two\tPokémon each.\tMulti Battle is for four Trainers with one Pokémon\teach. They battle against each other in teams\tof two.
 3-msg_pcug_01_03_patch1	If you have a paid Nintendo Switch Online\tmembership, you can use the internet to connect\twith Trainers all over the world in this club to\ttrade Pokémon!\tYou can enter the Union Room any time by\tpressing the Y Button.\tNote there are some places, such as inside\tbuildings, where you can’t use it.\tWould you like to hear a more\tdetailed explanation?
 3-msg_pcug_01_07_patch1	Let me explain how to participate in the\tPokémon Global Club!\tYou can enter the Global Room from either of\tthe two counters on the left, or by pressing the\tY Button!\tIn the Global Room, you can set up Link Trades\twith Trainers from all over the world!
 7-msg_union_info_01_14_patch1	You can talk to someone with a sign up to trade.\tOr use the Y Button to choose what you’d like to\tdo and put up your own sign!
@@ -6648,8 +6662,6 @@ english_dp_scenario1.txt
 48-msg_c01r0502_boy3_01_2	Those new moves keep things fresh and are a fun\tdistraction for me!
 48-msg_c01r0502_man1_01_1	Did you buy some Heal Balls at the Poké Mart?\tA Heal Ball completely heals the Pokémon it\tcatches on the spot.
 48-msg_c01r0502_man1_01_2	That means you can catch a Pokémon and have\tit battle ready right away.\tI wonder what kind of healing space it is inside\ta Heal Ball...
-49-msg_c01r0503_bigman_01	You can trade Pokémon with people around the\tworld using the Global Wonder Station, right?\tJust hearing that gets my heart racing.\tSuch exciting times!
-49-msg_c01r0503_girl1_01	When you connect with people on the internet,\tit’s hard to tell if the world’s big or small.
 51-msg_c01r0601_bigman_01	That’s a big globe, eh?\tWhere do I live on it now? Let’s see if I can\tpoint it out...
 51-msg_c01r0601_man3_01	Global Wond...\tGlobal Wonde...\t...\tGlobal\tWonder\tStation!\tPhew...\tWhat a long and difficult name!
 51-msg_c01r0601_boy3_01	If I keep doing Wonder Trades many many times,\tsomeday I’ll complete my one-and-only globe.\tIt’s my dream to gaze upon it!
@@ -7029,8 +7041,6 @@ english_dp_scenario1.txt
 110-msg_d04r0101_middleman2_01_2	I tried to make the ironworks run better with the\tmoving floor tiles.\tBut no one was happy about it! They said the\tmoving floor made them dizzy!
 110-msg_d04r0101_middleman2_01_3	But you don’t want to listen to me whine.\tHere’s a souvenir!
 110-msg_d04r0101_middleman2_02	My ironworks would be nothing if there were\tno iron.\tThat’s why I’m always thankful for nature\tsupplying me with iron.
-51-msg_c01r0601_receptionist_08	Wow... Uh-oh!\tI’m sorry, but your team and all your PC Boxes\tare full.
-51-msg_c01r0601_receptionist_09	If you wish to use the Global Wonder Station,\tyou must have room on your team or in a Box.
 51-msg_c01r0601_receptionist_10	Uh-oh!
 51-msg_c01r0601_receptionist_11	You only have one Pokémon. If you wish to use\tthe Global Wonder Station, you must have at\tleast two Pokémon—including those in Boxes.
 51-msg_c01r0601_receptionist_12	Please come back when you have at least\ttwo Pokémon.
@@ -7057,7 +7067,7 @@ english_dp_scenario1.txt
 27-msg_c01_woman3_iro_03	Yes, yes. You do look a bit stronger.\tKeep working toward that dream of becoming\tan Ace Trainer!
 27-msg_c01_woman1_iro_01	The GWS connects people all over the world.\tI told that to my Budew, and now it looks\tso happy!
 27-msg_c01_korinku	Roarink!
-27-msg_c01_subomi	Dewff!
+27-msg_c01_subomi	Dewfff!
 62-msg_r218_girl1_iro_01	I asked my boyfriend to meet me here on\tRoute 218, but he’s nowhere to be seen.
 62-msg_r218_girl1_iro_02	What? He’s waiting for me across the water?\tHe can be so absent-minded...\tThank you for letting me know. Please take these.
 62-msg_r218_girl1_iro_03	Honestly, I really don’t mind waiting here alone\tfor my boyfriend to show up.
@@ -7133,6 +7143,7 @@ SS_strinput_040	Please enter a number between 1 and \t\t.
 11-msg_heroine_09_2	Catching Pokémon can be really challenging,\tcan’t it?\tBut, it’s also so much fun!
 11-msg_hero_09_1	So, \t\t.\tI’m also helping the professor out with the\tNational Pokédex.
 11-msg_hero_09_2	Catching Pokémon can be really challenging,\tcan’t it?\tBut I also have a ton of fun doing it!
+51-msg_c01r0601_receptionist_14	What would you like to know about?
 english_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	Oh, is that a Pokédex? You must be helping\tProfessor Rowan.\tWhat’s your name?\t...
 0-msg_c04_chanpion_01_2	OK—hello, \t\t. I’ll be sure to\tremember that name!\tMy name is Cynthia. I’m a Trainer just like you.\tI’ve been studying Pokémon mythology lately,\tjust out of curiosity.
@@ -10234,7 +10245,7 @@ msg_t03_woman2_03	Do you know about Gracidea flowers?\tThey’re given as bouque
 43-msg_hikikae_09	How many \t\t\twould you like in exchange?
 43-msg_hikikae_10	How many \t\t \t\t\twould you like in exchange?
 43-msg_hikikae_11	You put \t\t \t\t\tin your Bag’s \t\t pocket.
-91-msg_spray_02	Would you like to use another one?
+91-msg_spray_02	Repel’s effect wore off. Would you like to use\tanother one?
 99-mes_saisen_01_01	The battery isn’t charged enough.\tNumber of steps required to fully charge\tthe battery: \t
 11-msg_c08gym0103_leader_07_01	You’re late. I’ve been waiting so long I’ve\tgone numb.\tI’ve had a few challengers since you were last\there, but it’s no shock that none of them really\tgot my heart racing.\tSo, \t\t! You defeated the\tChampion and got even stronger, right?\tHeheheh... Hahaha!\tThe thrill of anticipation is tingling through my\tveins—don’t disappoint me!
 11-msg_c08gym0103_leader_08_01	You’re late, \t\t!\tWhenever I see you, I feel a jolt of anticipation.\tDon’t disappoint me!
@@ -20333,6 +20344,7 @@ SS_bag_163	How many \t\t\tdo you want to use?
 SS_bag_165	How many \t\t\tdo you want to use?
 SS_bag_356	 View tag
 SS_bag_357	Spheres You’ll Receive
+SS_bag_358	\t’s \t\t base points rose!
 SS_bag_169	Light bulb
 SS_bag_170	Microwave oven
 SS_bag_171	Washing machine
@@ -20360,6 +20372,9 @@ SS_bag_352	You can’t dismount your bike here.
 SS_bag_353	You turned DS Sounds on!
 SS_bag_354	You turned DS Sounds off!
 SS_bag_355	Saved Battle Points: \t\t BP
+SS_bag_359	\t became more friendly.\tHowever, its \t\t base points fell!
+SS_bag_360	\t adores you!\tHowever, its \t\t base points fell!
+SS_bag_361	\t became more friendly.\tIts \t\t base points can’t go lower.
 english_ss_bag_pocket.txt
 SS_bag_pocket_001	Medicine
 SS_bag_pocket_002	Poké Balls
@@ -20609,6 +20624,7 @@ SS_box_237	Best!
 SS_box_577	Hyper trained!
 SS_box_369	 Marking
 SS_box_588	The communication partner canceled the trade.
+SS_box_589	You can’t select that Pokémon.
 english_ss_boxname.txt
 SS_boxname_001	Box 1
 SS_boxname_002	Box 2
@@ -37205,6 +37221,7 @@ SS_net_live_comm_339	Internet
 SS_net_live_comm_340	Local Communication
 english_ss_net_message_error.txt
 error_o_serial_0031	An error has occurred on\tthe authentication-code server.\tPlease wait a little while, and then try again.
+error_comm_28	Failed to connect to the server. Please start over\tand try again.
 error_o_serial_0091	You can’t connect to the authentication-code\tserver due to ongoing maintenance.\tPlease wait a little while, and then try again.
 error_o_serial_0092	The service has been discontinued.
 error_o_serial_0098	An error has occurred on\tthe authentication-code server.\tPlease wait a little while, and then try again.

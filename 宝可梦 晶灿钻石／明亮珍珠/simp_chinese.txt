@@ -100,6 +100,7 @@ simp_chinese_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	―\t―\t―
 CONTESTWAZA_INFO_001	没有追加效果。
 CONTESTWAZA_INFO_002	\t秒之内，\t音符不会被判定为失败。
+CONTESTWAZA_INFO_018	无法使用这个招式。\t虽然忘记之后就再也想不起来了，\t但还是建议忘记这个招式。
 CONTESTWAZA_INFO_005	\t秒之内，\tHIGH度不会下降。
 CONTESTWAZA_INFO_008	\t秒之内，\t比较容易累积爱心计量槽。
 CONTESTWAZA_INFO_009	\t秒之内，\t更加容易累积爱心计量槽。
@@ -112,7 +113,6 @@ DLP_GMStation_001	想要利用GMStation，\t需要加入Nintendo Switch Online�
 DLP_GMStation_002	请确认连接环境。
 DLP_GMStation_003	要结束GMStation吗？
 DLP_GMStation_004	确定要删除这个标记吗？
-DLP_GMStation_005	在GMStation，您可以通过互联网\t与全世界的人交换宝可梦。\t在接收到宝可梦之前，您不会知道\t换到的是什么宝可梦。\t我们称这为奇迹交换。\t在进行奇迹交换时，\t您可以选择想要交换的宝可梦，\t以及地球仪上您喜欢的地点。\t奇迹交换成立时，\t对方的宝可梦会被标记在\t您的地球仪上。\t同样，您的宝可梦\t也会被标记在对方的地球仪上。\t尝试反复进行奇迹交换，\t完成只属于您自己的地球仪吧！
 DLP_GMStation_006	要在写入记录后开始奇迹交换吗？
 DLP_GMStation_007	正在搜寻可以交换的对象……
 DLP_GMStation_008	这个地点上已经标记了别的宝可梦。\t请决定要标记在这个地点上的宝可梦。
@@ -185,6 +185,18 @@ DLP_GMStation_074	来交换宝可梦吧！
 DLP_GMStation_075	确定
 DLP_GMStation_076	返回
 DLP_GMStation_077	要继续奇迹交换吗？
+DLP_GMStation_078	请选择地点。
+DLP_GMStation_079	即将删除宝可梦的记录。\t确定要继续吗？
+DLP_GMStation_083	在GMStation中，可以通过\t互联网与全世界的人\t进行宝可梦的奇迹交换。\t当奇迹交换成立时，\t宝可梦会被标记在地球仪上。\t标记的地点数量增加的话，\t我们就会送您纪念品哦！\t反复进行奇迹交换，\t完成只属于您的地球仪吧！
+DLP_GMStation_084	进行奇迹交换的时候，\t请先选择想要换出的宝可梦。\t不过，也有一部分宝可梦\t是无法进行交换的。\t接下来，选择地球仪上\t您喜欢的地点。\t比如，可以选择那只宝可梦\t有可能会栖息的地点。\t奇迹交换成立时，\t对方的宝可梦会被\t标记在您的地球仪上。\t同样，您的宝可梦也会被\t标记在对方的地球仪上。\t在接收到宝可梦之前，\t您不会知道换到的是什么宝可梦。\t总觉得让人心跳加速呢！
+DLP_GMStation_085	可以查看反复进行奇迹交换\t所完成的属于自己的\t地球仪和地点。\t被标记的１个地点中\t最多可以记录５只宝可梦。\t另外，从记录中也可以\t更改标记的宝可梦，\t或是删除记录。\t并且还可以旋转或是\t放大缩小地球仪。\t请多多尝试吧。
+DLP_GMStation_080	什么是GMStation
+DLP_GMStation_081	奇迹交换
+DLP_GMStation_082	查看地球仪
+DLP_GMStation_086	取消
+DLP_GMStation_087	作为达成标记的纪念品，\t获得了\t\t个神奇糖果！
+DLP_GMStation_088	叫声
+DLP_GMStation_089	加速
 simp_chinese_dlp_halloffame_demo.txt
 DLP_halloffame_demo_014	
 DLP_halloffame_demo_015	Lv.\t
@@ -218,6 +230,7 @@ DLP_net_union_room_025	未募集到足够的成员。
 DLP_net_union_room_026	正在分组。
 DLP_net_union_room_027	要参加多人对战吗？
 DLP_net_union_room_028	抱歉啊，名额已经满了。\t请下次再来吧。
+DLP_net_union_room_114	仅贴上了现有的贴纸！
 DLP_net_union_room_030	初次见面！
 DLP_net_union_room_031	即将取消对战，\t确定要继续吗？
 DLP_net_union_room_032	移动至全球交谊厅。
@@ -245,7 +258,7 @@ DLP_net_union_room_054	您要使用社群交谊厅吗？
 DLP_net_union_room_055	即将重新进入社群交谊厅。
 DLP_net_union_room_056	即将离开社群交谊厅。\t确定要继续吗？
 DLP_net_union_room_057	即将离开全球交谊厅。\t确定要继续吗？
-DLP_net_union_room_061	训练家们可以欣赏彼此的球壳装饰。\t把自己想展示的球壳装饰\t放到列表的最前面吧！\t对方使用的球壳装饰是什么样子呢，\t你一定会感到很好奇吧！\t你可以把喜欢的球壳装饰\t复制到自己的列表。\t请试一试吧！
+DLP_net_union_room_061	训练家们可以复制彼此的球壳装饰。\t把自己想展示的球壳装饰\t放到列表的最前面吧！\t对方的球壳装饰会自动\t复制到自己的列表里，\t请随意试试看吧！\t另外，若复制所需的贴纸数量不足，\t仍然能将现有的贴纸贴上球壳。
 DLP_net_union_room_064	对手
 DLP_net_union_room_065	我是\t\t！
 DLP_net_union_room_066	我是\t\t！
@@ -270,7 +283,7 @@ DLP_net_union_room_085	让你久等了！\t来，这是我的球壳装饰！
 DLP_net_union_room_087	要复制\t\t的球壳装饰吗？
 DLP_net_union_room_088	请选择要用于复制的球壳。
 DLP_net_union_room_089	确定要复制到这个球壳上吗？
-DLP_net_union_room_090	球壳装饰已复制。
+DLP_net_union_room_090	已贴上所有的贴纸！
 DLP_net_union_room_091	\t来向您展示球壳装饰。\t您要不要也展示一下自己的球壳装饰？
 DLP_net_union_room_092	\t向您展示了球壳装饰。
 DLP_net_union_room_093	即将重新进入社群交谊厅。
@@ -294,7 +307,6 @@ DLP_net_union_room_109	：\t
 DLP_net_union_room_110	：\t
 DLP_net_union_room_111	联盟交谊厅
 DLP_net_union_room_112	没有可以用来交换的宝可梦。
-DLP_net_union_room_113	\t正在更改规则。
 simp_chinese_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	能够感受到神秘力量的小碎片。\t碎片上浮现出了像玫瑰花一样的花纹。
@@ -725,7 +737,7 @@ DLP_staff_list_059	Yuka Seki
 DLP_staff_list_060	Shuhei Otake
 DLP_staff_list_061	Yusuke Yasuda
 DLP_staff_list_062	Morimichi Suzuki
-DLP_staff_list_063	Shunpei Sasaki
+DLP_staff_list_063	Shohei Sasaki
 DLP_staff_list_064	Koichi Ishikawa
 DLP_staff_list_065	Ryoma Yoda
 DLP_staff_list_066	TECHNICAL SUPPORT
@@ -777,7 +789,7 @@ DLP_staff_list_111	Tetsuya Oi
 DLP_staff_list_112	Tsukasa Izuoka
 DLP_staff_list_113	Yohei Ukai
 DLP_staff_list_114	Manami Urakami
-DLP_staff_list_115	Asai Hitomi
+DLP_staff_list_115	Hitomi Asai
 DLP_staff_list_116	DIGITAL MOVIE GRAPHIC
 DLP_staff_list_117	Kei Iwasaki
 DLP_staff_list_118	Tomotake Ishikawa
@@ -855,7 +867,7 @@ DLP_staff_list_189	Hiroaki Nakayama
 DLP_staff_list_190	Pham Thi Linh
 DLP_staff_list_191	Mitsuyasu Furuhashi
 DLP_staff_list_192	Kana Ogata
-DLP_staff_list_193	Hirota Masaki
+DLP_staff_list_193	Masaki Hirota
 DLP_staff_list_194	Ayano Sasaki
 DLP_staff_list_195	Masaomi Yamada
 DLP_staff_list_196	CHARACTER MODELING COOPERATIVE COMPANIES
@@ -3321,6 +3333,7 @@ DP_CHARACTERS_295	戴亚
 DP_CHARACTERS_296	青名
 simp_chinese_dp_contest.txt
 DP_contest_000	预设信息
+DP_contest_688	……哎呀？\t您好像没有能参加\t华丽大赛的宝可梦呢。\t请您带上学会了华丽大赛中\t可使用的招式的宝可梦再来。
 DP_contest_032	各位辛苦了～！\t所有评审都已结束！\t究竟最佳表演者会由\t哪只宝可梦获得呢？\t那么，请让我公布结果！
 DP_contest_118	帅气华丽大赛
 DP_contest_119	美丽华丽大赛
@@ -4596,6 +4609,7 @@ simp_chinese_dp_net_communication.txt
 7-msg_union_talkgirl_04_07	你想更换规则啊！\t没问题，请稍等一下！
 8-msg_connect_union_08	要进入房间吗？
 3-msg_pcug_01_08	祝您在全球交谊厅玩得愉快！
+8-msg_connect_colosseum_03_patch3	对战共有３种模式。\t单打对战是由２名训练家各自派出\t１只宝可梦在对战场地对战。\t双打对战是由２名训练家各自派出\t２只宝可梦在对战场地对战。\t而多人对战，是由４名训练家\t各自派出１只宝可梦，\t在对战场地上进行２对２的对战。
 3-msg_pcug_01_03_patch1	在本俱乐部您可以\t通过互联网与全世界的训练家\t交换宝可梦。\t只要按下Ｙ键，\t随时都可以进入联盟交谊厅！\t不过也有无法使用的地方，\t例如室内和迷宫等等。\t需要听详细说明吗？
 3-msg_pcug_01_07_patch1	那我就开始说明\t宝可梦全球俱乐部的玩法了！\t您可以从左边那２个柜台，\t或是按下Ｙ键来进入全球交谊厅！\t在全球交谊厅里，\t您可以与全世界的训练家\t进行连接交换！
 7-msg_union_info_01_14_patch1	去找出现图标的人搭话，\t与对方交换宝可梦吧。\t按下Ｙ键选择想做的事后，\t图标就会出现！
@@ -6531,8 +6545,8 @@ simp_chinese_dp_scenario1.txt
 32-msg_c01r0101_middlem_07	它能够方便你随时\t查阅地图，厉害吧～\t另外你还能在上面做标记，\t说不定在哪就会派上用场啦～
 51-msg_c01r0601_receptionist_01	初次见面！\t这里是全球奇迹交换中心，\t简称GMStation。
 51-msg_c01r0601_receptionist_02	在这里您可以使用互联网，\t享受与全世界的人交换宝可梦的乐趣。
-51-msg_c01r0601_receptionist_03	您要使用利用互联网的\t全球奇迹交换中心吗？
-51-msg_c01r0601_receptionist_04	您好！\t欢迎来到全球奇迹交换中心！\t您要使用利用互联网的\t全球奇迹交换中心吗？
+51-msg_c01r0601_receptionist_03	您要使用利用互联网的\tGMStation吗？
+51-msg_c01r0601_receptionist_04	您好！\t欢迎来到GMStation！\t您要使用利用互联网的\tGMStation吗？
 11-msg_heroine_17_01	嗨，\t\t！\t你现在有时间吗？\t因为\t\t你很强嘛，\t如果你有时间的话，\t可以教我宝可梦对战吗？
 11-msg_heroine_17_02	谢谢！\t能让登入名人堂的训练家来教我，\t我真是太开心了！\t……那我要上了哦！
 32-msg_c01r0101_middlem_14	是啊～！\t各种人会分享给你各类应用，\t大家一定都很开心吧～！
@@ -6648,8 +6662,6 @@ simp_chinese_dp_scenario1.txt
 48-msg_c01r0502_boy3_01_2	这样它们就会使出新招式，\t更是让我乐在其中啊！
 48-msg_c01r0502_man1_01_1	你在友好商店\t有买治愈球吗？\t用它捕捉到的宝可梦的\tＨＰ会回复到满哦。
 48-msg_c01r0502_man1_01_2	所以捕捉后就能\t立刻派它上场对战。\t……那里面到底是怎样的\t治愈空间呢？
-49-msg_c01r0503_bigman_01	连接全球奇迹交换中心后就能与\t全世界的人交换宝可梦啊……\t光是听听就已经让我兴奋不已啦！
-49-msg_c01r0503_girl1_01	连接互联网后的世界\t是大是小呢？\t真让人搞不清楚啊。
 51-msg_c01r0601_bigman_01	好大的地球仪啊。\t不过话说回来，地球仪的“仪”\t到底是什么意思啊？
 51-msg_c01r0601_man3_01	全球企……\t全球奇基……\t……全球\t奇迹\t交换\t中心！\t呼……\t这名字真是\t又长\t又难念啊！
 51-msg_c01r0601_boy3_01	只要多来几次奇迹交换，\t总有一天会完成只属于我的地球仪。\t我的梦想就是\t可以好好来欣赏它！
@@ -6657,7 +6669,7 @@ simp_chinese_dp_scenario1.txt
 51-msg_c01r0601_man2_01	一想到我培育的宝可梦啊，\t会被记录在对方的地球仪上，\t我就会不由自主地哭起来……
 51-msg_c01r0601_woman2_01	和不认识的人交换宝可梦，\t虽然会让我有些不安，\t但想到可以见到没见过的宝可梦\t我就会有点兴奋了！
 51-msg_c01r0601_receptionist_06	那么，请下次再来。
-51-msg_c01r0601_receptionist_07	那么，请您尽情享受\t全球奇迹交换中心吧！
+51-msg_c01r0601_receptionist_07	那么，请您尽情享受\tGMStation吧！
 53-mes_earth_01_01	欢迎来到\t高科技地球仪——地理网！
 53-mes_earth_01_02	您要做什么？
 54-msg_c01r0701_rival_01_1	哦！\t\t，\t你也来学习吗？\t我已经完全记住\t黑板上的内容了！
@@ -7029,10 +7041,8 @@ simp_chinese_dp_scenario1.txt
 110-msg_d04r0101_middleman2_01_2	为了让大家\t在钢铁厂中更方便走动，\t我把地板换成了自动式，\t结果反被大家嫌头都要转晕了……
 110-msg_d04r0101_middleman2_01_3	先不提这事了，\t这个送你作纪念吧！
 110-msg_d04r0101_middleman2_02	没有了铁的话，\t钢铁厂就没有任何意义了！\t所以要感谢\t大自然赐给我们这些铁啊！
-51-msg_c01r0601_receptionist_08	……哎呀？\t这位客人，您同行的\t还有盒子里的宝可梦都满啦。
-51-msg_c01r0601_receptionist_09	您如果想使用全球奇迹交换中心，\t就请将同行或者盒子\t空出些位置来吧。
 51-msg_c01r0601_receptionist_10	……哎呀？\t这位客人！
-51-msg_c01r0601_receptionist_11	包含盒子里的数量在内，\t若您的宝可梦少于２只的话，\t是没法使用全球奇迹交换中心的。
+51-msg_c01r0601_receptionist_11	包含盒子里的数量在内，\t若您的宝可梦少于２只的话，\t是没法使用GMStation的。
 51-msg_c01r0601_receptionist_12	当您拥有２只以上宝可梦之后，\t欢迎再来光临。
 95-mes_accessory_01_03	你想要哪张贴纸呢？
 95-mes_accessory_01_04	\t张\t\t啊。\t要用\t\t个\t\t来交换吗？
@@ -7133,6 +7143,7 @@ SS_strinput_040	请填入１到\t\t范围内的数字。
 11-msg_heroine_09_2	但是捕捉宝可梦\t真的很不容易啊……不过，\t非常有趣呢！
 11-msg_hero_09_1	我说，\t\t。\t虽然我也在帮忙制作全国图鉴……
 11-msg_hero_09_2	但是捕捉宝可梦\t真的很不容易……不过，\t非常有趣啊！！
+51-msg_c01r0601_receptionist_14	您想听哪部分的说明呢？
 simp_chinese_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	咦？你手上拿着宝可梦图鉴？\t是在帮山梨博士的忙吗？\t你叫什么名字？\t………………\t………………
 0-msg_c04_chanpion_01_2	是\t\t啊，\t我会记住的！\t我是竹兰，也是宝可梦训练家。\t出于好奇，正在调查宝可梦神话。
@@ -20333,6 +20344,7 @@ SS_bag_163	要使用多少个\t\t？
 SS_bag_165	要使用多少个\t\t？
 SS_bag_356	查看标签
 SS_bag_357	交换可获得的玉
+SS_bag_358	\t\t的\t基础点数上升了！
 SS_bag_169	灯泡
 SS_bag_170	微波炉
 SS_bag_171	洗衣机
@@ -20360,6 +20372,9 @@ SS_bag_352	这里无法下车！
 SS_bag_353	启动了ＤＳ播放器！
 SS_bag_354	关闭了ＤＳ播放器！
 SS_bag_355	积累的对战点数\t\tＢＰ
+SS_bag_359	\t和你有点亲密了！\t\t的基础点数降低了！
+SS_bag_360	\t\t和你的亲密度已经最高了！\t\t的基础点数降低了！
+SS_bag_361	\t和你有点亲密了！\t\t的基础点数不再降低！
 simp_chinese_ss_bag_pocket.txt
 SS_bag_pocket_001	回复
 SS_bag_pocket_002	精灵球
@@ -20609,6 +20624,7 @@ SS_box_237	太完美了！
 SS_box_577	锻炼了！
 SS_box_369	标记
 SS_box_588	对方已中止交换。
+SS_box_589	无法选择这只宝可梦。
 simp_chinese_ss_boxname.txt
 SS_boxname_001	盒子１
 SS_boxname_002	盒子２
@@ -37205,6 +37221,7 @@ SS_net_live_comm_339	互联网
 SS_net_live_comm_340	本地
 simp_chinese_ss_net_message_error.txt
 error_o_serial_0031	序列号认证服务器发生了错误。\t请过一段时间后再试一次。
+error_comm_28	无法连接至服务器。\t请重新再试一次。
 error_o_serial_0091	序列号认证服务器正在维护，\t因此无法连接。\t请过一段时间后再试一次。
 error_o_serial_0092	所使用的服务已结束。
 error_o_serial_0098	序列号认证服务器发生了错误。\t请过一段时间后再试一次。

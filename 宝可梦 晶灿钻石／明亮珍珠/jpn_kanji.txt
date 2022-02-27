@@ -100,6 +100,7 @@ jpn_kanji_dlp_contestwaza_info.txt
 CONTESTWAZA_INFO_000	―\t―\t―
 CONTESTWAZA_INFO_001	追加効果　なし
 CONTESTWAZA_INFO_002	\t秒の　間\tノーツ判定が　失敗に　ならない
+CONTESTWAZA_INFO_018	この技は　使えません\t思い出すことが　できなくなりますが\t技を　忘れることを　おすすめします
 CONTESTWAZA_INFO_005	\t秒の　間\tテンションが　下がらなくなる
 CONTESTWAZA_INFO_008	\t秒の　間\tハートゲージが　少し　溜まりやすくなる
 CONTESTWAZA_INFO_009	\t秒の　間\tハートゲージが　溜まりやすくなる
@@ -112,14 +113,13 @@ DLP_GMStation_001	GMStationを　ご利用　いただくには\tNintendo Switch
 DLP_GMStation_002	通信　環境を\tお確かめ　ください
 DLP_GMStation_003	GMStationを　終了　しますか？
 DLP_GMStation_004	このマークを　削除　します\tよろしいですか？
-DLP_GMStation_005	GMStationでは　インターネットを\t通して　世界中の　人と\tポケモンを　交換　できます\tどんなポケモンと　交換　されるかは\tポケモンを　受け取るまで　わかりません\tこれを　ミラクル交換と　呼びます\tミラクル交換　するときは\t交換に　出したい　ポケモンと\t地球儀の　好きな　ポイントを\t選びます\tミラクル交換が　成立　すると\t自分の　地球儀に\t相手の　ポケモンが\tマーク　されます\t同じように　相手の　地球儀にも\tあなたの　ポケモンが\tマーク　されます\tミラクル交換を　繰り返して\tあなただけの　地球儀を\t完成　させてください！
 DLP_GMStation_006	レポートを　書いて　ミラクル交換を\t始めても　よろしいですか？
 DLP_GMStation_007	交換できる　人を\t探しています……
 DLP_GMStation_008	この　ポイントには\tすでに　別の　ポケモンが\tマーク　されています\tこの　ポイントに　マークする\tポケモンを　決めてください
 DLP_GMStation_009	新しい　ポケモンが\tマーク　されました
 DLP_GMStation_010	ポケモンの　マークを\tそのままに　しました
 DLP_GMStation_011	詳しく　みる
-DLP_GMStation_012	削除　する
+DLP_GMStation_012	削除する
 DLP_GMStation_013	この　ポイントに　マークされている\tポケモンを　変更　します\tよろしいですか？
 DLP_GMStation_014	新たな　ポケモンを　マークしました
 DLP_GMStation_015	マークを　削除　しました
@@ -179,12 +179,24 @@ DLP_GMStation_068
 DLP_GMStation_069	
 DLP_GMStation_070	マーク中
 DLP_GMStation_071	----/--/--
-DLP_GMStation_072	マーク　する
+DLP_GMStation_072	マークする
 DLP_GMStation_073	ポケモンの　記録を　削除　しました
 DLP_GMStation_074	ポケモンを\t交換　してみよう！
 DLP_GMStation_075	決定
 DLP_GMStation_076	戻る
 DLP_GMStation_077	ミラクル交換を　続けますか？
+DLP_GMStation_078	ポイントを　選んで　ください
+DLP_GMStation_079	ポケモンの　記録を　削除します\tよろしいですか？
+DLP_GMStation_083	GMStationでは　インターネットを\t通して　世界中の　人と\tポケモンの　ミラクル交換が\tできます\tミラクル交換が　成立　すると\t地球儀に　ポケモンが\tマークされます\tマークされた　ポイントの　数が\t増えていけば\t記念品も　差し上げますよ！\tミラクル交換を　繰り返して\tあなただけの　地球儀を\t完成　させてください！
+DLP_GMStation_084	ミラクル交換　するときは\tまず　交換に　出したい\tポケモンを　選びます\tただし　交換に　出せない\tポケモンも　一部　います\t次に　地球儀の\t好きな　ポイントを　選びます\tたとえば　そのポケモンが\t住んでいそうな　ポイントを\t選んでみて　ください\tミラクル交換が　成立　すると\t自分の　地球儀に\t相手の　ポケモンが\tマーク　されます\t同じように　相手の　地球儀にも\tあなたの　ポケモンが\tマーク　されます\tどんなポケモンと　交換　されるかは\tポケモンを　受け取るまで　わかりません\tなんだか　ドキドキ　しますね！
+DLP_GMStation_085	ミラクル交換を　繰り返して\t作り上げた　自分の　地球儀と\tポイントを　見ることが　できます\tマークされた　ポイント　１か所には\tポケモンが　最大　５匹　まで\t記録　されます\tまた　記録の　中から\tマークする　ポケモンを　変更したり\t記録の　削除も　できます\t他にも　地球儀を　回したり\t拡大や　縮小も　できるので\tいろいろ　試してみて　くださいね
+DLP_GMStation_080	GMStationとは
+DLP_GMStation_081	ミラクル交換
+DLP_GMStation_082	地球儀を　みる
+DLP_GMStation_086	やめる
+DLP_GMStation_087	マーク達成の　記念品　として\tふしぎなアメ　\t\tコを　もらった！
+DLP_GMStation_088	鳴き声
+DLP_GMStation_089	加速
 jpn_kanji_dlp_halloffame_demo.txt
 DLP_halloffame_demo_014	
 DLP_halloffame_demo_015	Lv.\t
@@ -218,6 +230,7 @@ DLP_net_union_room_025	メンバーが　そろいませんでした
 DLP_net_union_room_026	チームを　振り分けています
 DLP_net_union_room_027	マルチバトルに　参加しますか？
 DLP_net_union_room_028	ごめんね\tもう　定員オーバー　なんだ\tまた　今度ね
+DLP_net_union_room_114	持っている　シールのみ\t貼られました！
 DLP_net_union_room_030	はじめまして！
 DLP_net_union_room_031	対戦を　キャンセルします\tよろしいですか？
 DLP_net_union_room_032	グローバルルームへ　移動　します
@@ -245,7 +258,7 @@ DLP_net_union_room_054	コミュニティルームを\tご利用　ですか？
 DLP_net_union_room_055	コミュニティルームに\t入り　直します
 DLP_net_union_room_056	コミュニティルームから\t退出　します\tよろしいですか？
 DLP_net_union_room_057	グローバルルームから\t退出　します\tよろしいですか？
-DLP_net_union_room_061	お互いに　ボールデコを\t見ることが　できます\t見せたい　自分の　ボールデコは\tリストの　先頭に　置きましょう！\t相手が　どんな　ボールデコを\t使っているか　気に　なりますね！\t気に　入った　ボールデコは\t自分の　リストに　コピーできるので\t試してみて　くださいね！
+DLP_net_union_room_061	お互いの　ボールデコを\tコピーすることが　できます\t見せたい　自分の　ボールデコは\tリストの　先頭に　置きましょう！\t相手の　ボールデコは　自分の\tリストに　自動で　コピーされるので\t気軽に　試してみて　くださいね！\tなお　コピーのときに　シールが\t足りなくても　持っている\tシールだけは　貼られますよ
 DLP_net_union_room_064	相手
 DLP_net_union_room_065	\t　です！
 DLP_net_union_room_066	\t　です！
@@ -270,7 +283,7 @@ DLP_net_union_room_085	お待たせ！\tほら　ボールデコよ！
 DLP_net_union_room_087	\tさんの　ボールデコを\tコピー　しますか？
 DLP_net_union_room_088	コピーする　ボールカプセルを\t選んで　ください
 DLP_net_union_room_089	この　ボールカプセルに\tコピー　しますか？
-DLP_net_union_room_090	ボールデコを\tコピー　しました
+DLP_net_union_room_090	すべての　シールが　貼られました！
 DLP_net_union_room_091	\tさんが　ボールデコを\t見せて　きました\tこちらも　ボールデコを　見せますか？
 DLP_net_union_room_092	\tさんの\tボールデコを　見せてもらった
 DLP_net_union_room_093	コミュニティルームに\t入り　直します
@@ -294,7 +307,6 @@ DLP_net_union_room_109	：\t
 DLP_net_union_room_110	：\t\tさん
 DLP_net_union_room_111	ユニオンルーム
 DLP_net_union_room_112	交換に　だせる\tポケモンが　いません
-DLP_net_union_room_113	\tさんが\tルールを　変更しています
 jpn_kanji_dlp_park_info.txt
 DLP_PARK_INFO_000	
 DLP_PARK_INFO_001	不思議な　力を　感じる　小さな欠片。\t欠片の　中に　ハマナスの　花の\tような　模様が　浮かんでいる。
@@ -725,7 +737,7 @@ DLP_staff_list_059	Yuka Seki
 DLP_staff_list_060	Shuhei Otake
 DLP_staff_list_061	Yusuke Yasuda
 DLP_staff_list_062	Morimichi Suzuki
-DLP_staff_list_063	Shunpei Sasaki
+DLP_staff_list_063	Shohei Sasaki
 DLP_staff_list_064	Koichi Ishikawa
 DLP_staff_list_065	Ryoma Yoda
 DLP_staff_list_066	TECHNICAL SUPPORT
@@ -777,7 +789,7 @@ DLP_staff_list_111	Tetsuya Oi
 DLP_staff_list_112	Tsukasa Izuoka
 DLP_staff_list_113	Yohei Ukai
 DLP_staff_list_114	Manami Urakami
-DLP_staff_list_115	Asai Hitomi
+DLP_staff_list_115	Hitomi Asai
 DLP_staff_list_116	DIGITAL MOVIE GRAPHIC
 DLP_staff_list_117	Kei Iwasaki
 DLP_staff_list_118	Tomotake Ishikawa
@@ -855,7 +867,7 @@ DLP_staff_list_189	Hiroaki Nakayama
 DLP_staff_list_190	Pham Thi Linh
 DLP_staff_list_191	Mitsuyasu Furuhashi
 DLP_staff_list_192	Kana Ogata
-DLP_staff_list_193	Hirota Masaki
+DLP_staff_list_193	Masaki Hirota
 DLP_staff_list_194	Ayano Sasaki
 DLP_staff_list_195	Masaomi Yamada
 DLP_staff_list_196	CHARACTER MODELING COOPERATIVE COMPANIES
@@ -3321,6 +3333,7 @@ DP_CHARACTERS_295	ダイヤ
 DP_CHARACTERS_296	アオナ
 jpn_kanji_dp_contest.txt
 DP_contest_000	ダミーメッセージ
+DP_contest_688	……　あら？\tコンテストに　出られる　ポケモンが\tいらっしゃらない　みたいですね\tコンテストで　つかえる　技を\t覚えた　ポケモンを　ご用意の上\tお越しください
 DP_contest_032	おつかれさまでしたーー！\tすべての　審査が　終わりました！\tベストパフォーマーは　果たして\tどの　ポケモン　なのでしょうか？\tそれでは　結果　発表です！
 DP_contest_118	かっこよさコンテスト
 DP_contest_119	うつくしさコンテスト
@@ -4596,6 +4609,7 @@ jpn_kanji_dp_net_communication.txt
 7-msg_union_talkgirl_04_07	ルール変更　ね！\tよーし　ちょっと　待ってて！
 8-msg_connect_union_08	部屋に　入りますか？
 3-msg_pcug_01_08	それでは　グローバルルームを\tお楽しみ　ください！
+8-msg_connect_colosseum_03_patch3	対戦には　３種類の\tモードが　あります\tシングルバトルは　戦いの　場に\tポケモンを　１匹　出して\t２人で　対戦　します\tダブルバトルは　戦いの　場に\tポケモンを　２匹ずつ　出して\t２人で　対戦　します\tマルチバトルは　戦いの　場に\t４人で　ポケモンを\t１匹ずつ　出して\t２対２で　対戦　します
 3-msg_pcug_01_03_patch1	当クラブでは\tインターネットを　使って\t世界中の　トレーナーたちと\tポケモン交換　を\t楽しむことが　できます\tＹボタンで　気軽に\tユニオンルーム　に　入れます！\tただし　室内や　ダンジョンなど\t使えない　場所も　あります\t詳しい　説明を　聞きますか？
 3-msg_pcug_01_07_patch1	ポケモン　グローバル　クラブでの\t遊び方を　説明　します！\t左にある　２つの　カウンターから\tもしくは　Ｙボタンで\tグローバルルーム　に\t入ることが　できます！\tグローバルルーム　では\t世界中の　トレーナーたちと\t通信交換　を\t楽しむ　ことが　できます！
 7-msg_union_info_01_14_patch1	サインが　出ている　人に\t話しかけて\t交換を　しましょう\tＹボタンで　あなたが　したいことを\t選べば　サインを　出せます！
@@ -6475,7 +6489,7 @@ jpn_kanji_dp_scenario1.txt
 27-msg_c01_boy1_01	きみ　いかにも\tポケモントレーナー　って　顔！\tどの　タイプの　ポケモンが\t好きなのか　教えてよ！
 27-msg_c01_boy1_02	ほのおタイプ　かぁ\tじゃ　燃える　ハートの　持ち主だね
 27-msg_c01_boy1_03	みずタイプが　好きな　人は\tどこか　クールなのかも　しれないな
-27-msg_c01_boy1_04	くさタイプを　選ぶとは……！\tどおりで　落ち着いて　見えるよ
+27-msg_c01_boy1_04	くさタイプを　選ぶとは……！\tどうりで　落ち着いて　見えるよ
 27-msg_c01_babygirl1_01	あのね　あたしの　インタビュー\tテレビで　やってたの　みてくれた？
 27-msg_c01_woman3_01	ポケモンと　一緒に　歩いていると\tだんだん　懐いてくれる……\tそんな　気が　するのよね
 27-msg_c01_boy1b_01	ボールを　ベルトに　セット！\t１　２　３　４　５　６……　と！\tうん！　連れて　いける\tポケモンは　６匹　までだ
@@ -6531,8 +6545,8 @@ jpn_kanji_dp_scenario1.txt
 32-msg_c01r0101_middlem_07	いつでも　マップを　見ていられる\t便利さは　すごいでしょー\tあと　マーキングできるからね\tなにかに　役立つかもよー
 51-msg_c01r0601_receptionist_01	初めまして！　こちらは\tグローバルミラクルトレードステーション\t略して　GMStation
 51-msg_c01r0601_receptionist_02	こちらでは\tインターネットを　使って\t世界中の　人と\tポケモンの　交換が　楽しめます
-51-msg_c01r0601_receptionist_03	インターネットを　使った\tグローバルミラクルトレードステーションの\tご利用を　ご希望ですか？
-51-msg_c01r0601_receptionist_04	こんにちは！\tグローバルミラクルトレードステーションへ\tようこそ！\tインターネットを　使った\tグローバルミラクルトレードステーションの\tご利用を　ご希望　ですか？
+51-msg_c01r0601_receptionist_03	インターネットを　使った\tGMStationの\tご利用を　ご希望ですか？
+51-msg_c01r0601_receptionist_04	こんにちは！\tGMStationへ　ようこそ！\tインターネットを　使った\tGMStationの\tご利用を　ご希望ですか？
 11-msg_heroine_17_01	ねえ　\t\tくん！\t今って　時間　ある？\t\tくん　強いから\tよかったら　ポケモン勝負\t教えて　くれないかな？
 11-msg_heroine_17_02	ありがとう！\t殿堂入り　トレーナーに\t教わるなんて　幸せ者　だね！\t……じゃあ　いくよ！
 32-msg_c01r0101_middlem_14	そうだねー！　いろんな　人が\tいろんな　アプリを　くれるから\tみんなが　ハッピーに　なるよねー！
@@ -6648,8 +6662,6 @@ jpn_kanji_dp_scenario1.txt
 48-msg_c01r0502_boy3_01_2	そうすると　また　技を　出すのが\t楽しく　なっちゃうんだよ！
 48-msg_c01r0502_man1_01_1	フレンドリィショップで\tヒールボール　買った？\t捕まえた　ポケモンの　ＨＰが\t満タンに　なるんだよね
 48-msg_c01r0502_man1_01_2	だから　捕まえて　すぐに\t戦わせることが　できるよ\t……中は　一体　どんな\t癒し　空間　なんだろう？
-49-msg_c01r0503_bigman_01	グローバルミラクルトレードステーションで\t世界の　人と\tポケモン交換が　できるのか……\tなんだか　それを　聞いただけで\tドキドキが　止まらないぞ！
-49-msg_c01r0503_girl1_01	インターネットで　つながると\t世界　って　広いんだか\t狭いんだか　よく　わからないね
 51-msg_c01r0601_bigman_01	でかい　地球儀　だなあ\tところで　地球儀の　儀って\tどういう　意味なんだろう？
 51-msg_c01r0601_man3_01	グローバルミりゃ……\tグローバルミラクりゅ……\t……グローバル\tミラクル\tトレード\tステーション！\tふう……\tなんて\t長くて\t読みづらい\t名前\tなんだ！
 51-msg_c01r0601_boy3_01	何度も　ミラクル交換　すれば\tいつか　ぼくだけの　地球儀が\t完成　するんだよね\tそれを　ゆっくり　眺めるのが\t夢　なんだ！
@@ -6657,7 +6669,7 @@ jpn_kanji_dp_scenario1.txt
 51-msg_c01r0601_man2_01	オレが　育てた　ポケモンが　よぉ\t相手の　地球儀に\t記録　されるって　思うと　よぉ\tオレ　なんだか　泣けて　くるぜ……
 51-msg_c01r0601_woman2_01	知らない　人と\tポケモンを　交換する　って\tちょっと　不安に　なるんだけど\t知らない　ポケモンと　出会えるって\t考えれば\tちょっと　ワクワク　しちゃうのよ！
 51-msg_c01r0601_receptionist_06	それでは　また　お越しください
-51-msg_c01r0601_receptionist_07	それでは\tグローバルミラクルトレードステーションを\tお楽しみ　ください！
+51-msg_c01r0601_receptionist_07	それでは　GMStationを\tお楽しみ　ください！
 53-mes_earth_01_01	ハイテク　地球儀\tジオネット　へ　ようこそ！
 53-mes_earth_01_02	なにを　しますか？
 54-msg_c01r0701_rival_01_1	おっ！　\t\t\tおまえも　勉強か？\tオレなんか　黒板に　書かれてること\tばっちり　覚えたぜ！
@@ -7029,10 +7041,8 @@ jpn_kanji_dp_scenario1.txt
 110-msg_d04r0101_middleman2_01_2	製鉄所の　中の　移動を\t楽ちんに　しようとして\t勝手に　動いちゃう　床にしたら\t目が回る！　って　怒られてね……
 110-msg_d04r0101_middleman2_01_3	そんな　話は　さておき\t記念に　これを　どうぞ！
 110-msg_d04r0101_middleman2_02	鉄が　なくなると\t製鉄所は　なにも　できない！\tですから　鉄を　与えてくれる\t自然に　感謝　なのです！
-51-msg_c01r0601_receptionist_08	……　あら？\tお客さま　手持ちも　ボックスも\tポケモンで　いっぱい　ですよ
-51-msg_c01r0601_receptionist_09	グローバルミラクルトレードステーションを\tご利用に　なるには\t手持ちか　ボックスに\t空きを　作ってから　お越しください
 51-msg_c01r0601_receptionist_10	……　あら？\tお客さま！
-51-msg_c01r0601_receptionist_11	ボックスを　含め　２匹　以上\tポケモンを　お持ちで　ないと\tグローバルミラクルトレードステーションを\tご利用　いただけません
+51-msg_c01r0601_receptionist_11	ボックスを　含め　２匹　以上\tポケモンを　お持ちで　ないと\tGMStationを　ご利用　いただけません
 51-msg_c01r0601_receptionist_12	ポケモンを　２匹　以上\tご用意の　上\tまた　お越し　ください
 95-mes_accessory_01_03	どのシールが　欲しい　ですか？
 95-mes_accessory_01_04	\t　\t\t枚　ですね\t\t　\t\tコと\t交換　しますか？
@@ -7133,6 +7143,7 @@ SS_strinput_040	１から\t\tまでの\t数字を　入れてください
 11-msg_heroine_09_2	ポケモンを　捕まえるのって\t難しくて　大変で……　でも\tすっごく　面白いよね！
 11-msg_hero_09_1	あのさ　\t\tさ\tボクも　全国図鑑　作る\tお手伝いを　してるんだけど……
 11-msg_hero_09_2	ポケモンを　捕まえるのって\t難しくて　大変で……　でも\tすっごく　面白いよね！！
+51-msg_c01r0601_receptionist_14	どの　説明を　聞きますか？
 jpn_kanji_dp_scenario2.txt
 0-msg_c04_chanpion_01_1	あら　ポケモン図鑑？\tナナカマド博士の　お手伝い？\tきみの　名前は……？\t……　……　……\t……　……　……
 0-msg_c04_chanpion_01_2	そう　\t\tって　いうの\t覚えておくわね！\tあたしは　シロナ\tポケモンの　神話を　調べてる\t物好きな　ポケモントレーナーよ
@@ -20333,6 +20344,7 @@ SS_bag_163	\tを\tいくつ　使いますか？
 SS_bag_165	\tを\tいくつ　使いますか？
 SS_bag_356	タグをみる
 SS_bag_357	交換で　もらえるタマ
+SS_bag_358	\tは　\t\tの\t基礎ポイントが　あがった！
 SS_bag_169	電球
 SS_bag_170	電子レンジ
 SS_bag_171	洗濯機
@@ -20360,6 +20372,9 @@ SS_bag_352	ここでは　降りられない！
 SS_bag_353	ＤＳプレイヤーの　電源を　入れた！
 SS_bag_354	ＤＳプレイヤーの　電源を　切った！
 SS_bag_355	貯まった　バトルポイント\t\tＢＰ
+SS_bag_359	\tは\tちょっと　なついた！\t\tの\t基礎ポイントが　さがった！
+SS_bag_360	\tは\t最高に　なついている！\t\tの\t基礎ポイントが　さがった！
+SS_bag_361	\tは\tちょっと　なついた！\t\tの\t基礎ポイントは　もうさがらない！
 jpn_kanji_ss_bag_pocket.txt
 SS_bag_pocket_001	かいふく
 SS_bag_pocket_002	ボール
@@ -20609,6 +20624,7 @@ SS_box_237	さいこう！
 SS_box_577	きたえた！
 SS_box_369	マーキング
 SS_box_588	相手が　交換を\t中止しました
+SS_box_589	この　ポケモンは\t選べません
 jpn_kanji_ss_boxname.txt
 SS_boxname_001	ボックス１
 SS_boxname_002	ボックス２
@@ -37205,6 +37221,7 @@ SS_net_live_comm_339	インターネット
 SS_net_live_comm_340	ローカル
 jpn_kanji_ss_net_message_error.txt
 error_o_serial_0031	シリアルコード認証のサーバーで\tエラーが発生しました。\tしばらく時間をおいてから\tもう一度お試しください。
+error_comm_28	サーバーに接続できませんでした。\tもう一度\t最初からやり直してください。
 error_o_serial_0091	シリアルコード認証のサーバーは\tメンテナンス中のため通信できません。\tしばらく時間をおいてから\tもう一度お試しください。
 error_o_serial_0092	ご利用のサービスは終了いたしました。
 error_o_serial_0098	シリアルコード認証のサーバーで\tエラーが発生しました。\tしばらく時間をおいてから\tもう一度お試しください。

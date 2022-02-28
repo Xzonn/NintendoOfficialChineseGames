@@ -708,7 +708,7 @@ msg_ui_map_01_38	時空歪曲
 msg_ui_map_01_39	原野的撞氣球
 msg_ui_map_01_40	撞氣球２
 msg_ui_map_01_41	海岸的撞氣球
-msg_ui_map_01_42	撞氣球４
+msg_ui_map_01_42	究極的撞氣球
 msg_ui_map_01_43	凍土的撞氣球
 msg_ui_map_setumei_01	可以領取和存放道具。\n可以休息和換裝。
 msg_ui_map_setumei_02	可以接受新的委託。\n可以確認圖鑑。
@@ -779,6 +779,7 @@ msg_ui_map_area02_r20	金剛後山
 msg_ui_map_area03_r24	長尾怪手山
 msg_ui_map_area03_r25	戲水潟湖
 msg_ui_map_area03_r26	寧靜灣
+msg_ui_map_01_45	大大大量出現的目擊報告
 net.dat
 net_sel_01	遺失物通訊
 net_sel_02	神秘禮物
@@ -1269,6 +1270,12 @@ tips_title_1007	[~ 109]
 tips_text_1007_01	[~ 110]
 tips_title_1008	[~ 111]
 tips_text_1008_01	[~ 112]
+tips_text_1100	大大大量出現
+tips_text_1100_01	許多大量出現同時發生的現象。\n大量出現的發生地點在地圖上會以「？」標示，\n在到達現場前無法得知出現的寶可夢種類。\n大大大量出現會[VAR FF00(0006)]在一段時間後平息[VAR FF00(0000)]，\n所以趕快前往調查吧。
+tips_text_1100_02	不斷捕捉或打倒寶可夢\n直到大量出現的氣息消失，\n該地點就算「[VAR FF00(0006)]調查完成[VAR FF00(0000)]」。\n偶爾也會發生在調查完成後\n立刻有寶可夢追加出現的情況。
+tips_text_1101	大大大量出現與樂芭果
+tips_text_1101_01	在發生大大大量出現的期間，\n若把「[VAR FF00(0006)]樂芭果[VAR FF00(0000)]」餵給阿米的小卡比獸，\n就能知道大量出現的寶可夢種類。
+tips_text_1101_02	若寶可夢圖示在發光，\n就代表該處是特別的大量出現。\n在其中帶有樹果圖示的大量出現\n則有機會得到「樂芭果」。\n調查大大大量出現時好好活用這些資訊吧。
 advsp.dat
 advsp_cap_01	n/a
 advsp_cap_02	n/a
@@ -1366,6 +1373,8 @@ msg_ui_blost_06_01	遺失在某處的道具
 msg_ui_blost_07_01	[VAR 1100(00FF,0101)]你妳不是銀河隊的隊員，\n因此無法提出委託。\c
 msg_ui_blost_08_01	這次沒有遺失的道具。\c
 msg_ui_blost_09_01	失去了[VAR 0201(0001)]個替身護符……\c
+title.dat
+msg_ver_info	[~ 0]
 trmsg.dat
 TRID_HERO_TRMSG_FIGHT_START	[~ 0]
 TRID_HERO_TRMSG_FIGHT_LOSE	[~ 1]
@@ -2363,6 +2372,8 @@ POKEMONTAMER	望羅
 CAPTAIN_NOHARA	阿米
 CAPTAIN_MORI	菊伊
 CAPTAIN_MIZU	阿芒
+CAPTAIN_KUSA	火夏
+GATEKEEPER	傳介
 trtype.dat
 MSG_TRTYPE_HERO	寶可夢訓練家
 MSG_TRTYPE_HEROINE	寶可夢訓練家
@@ -2596,6 +2607,7 @@ TRTYPE_POKEMONTAMER	寶可夢馴化師
 TRTYPE_CAPTAIN_NOHARA	場長
 TRTYPE_CAPTAIN_MORI	場長
 TRTYPE_CAPTAIN_MIZU	場長
+TRTYPE_CAPTAIN_KUSA	場長
 boxname.dat
 boxname_01	放牧場１
 boxname_02	放牧場２
@@ -2741,61 +2753,62 @@ str_btl_menu_03	真的要逃走嗎？
 str_btl_menu_04	這是一場嚴肅的對戰！\n不能逃走！
 str_btl_menu_05	在面對王的戰鬥中\n無法使用道具！
 str_btl_menu_06	不！不能從這場戰鬥逃走！
-str_btl_menu_07	[~ 111]
-str_btl_menu_08	[~ 112]
-str_btl_menu_09	[~ 113]
-str_btl_menu_10	[~ 114]
-str_btl_result_11	[~ 115]
-str_btl_result_12	[~ 116]
-str_btl_result_13	[~ 117]
-str_btl_ms_01_01	[~ 118]
-str_btl_ms_01_02	[~ 119]
-str_btl_ms_01_03	[~ 120]
-str_btl_ms_01_04	[~ 121]
-str_btl_ms_01_05	[~ 122]
-str_btl_ms_01_06	[~ 123]
-str_btl_ms_01_07	[~ 124]
-str_btl_ms_01_08	[~ 125]
-str_btl_ms_01_09	[~ 126]
-str_btl_ms_02_01	[~ 127]
-str_btl_ms_02_02	[~ 128]
-str_btl_ms_02_03	[~ 129]
-str_btl_ms_03_01	[~ 130]
-str_btl_ms_03_02	[~ 131]
-str_btl_ms_03_03	[~ 132]
-str_btl_ms_03_04	[~ 133]
-str_btl_ms_03_05	[~ 134]
-str_btl_ms_03_06	[~ 135]
-str_btl_ms_03_07	[~ 136]
-str_btl_ms_04_01	[~ 137]
-str_btl_ms_04_02	[~ 138]
-str_btl_ms_04_03	[~ 139]
-str_btl_ms_04_04	[~ 140]
-str_btl_ms_04_05	[~ 141]
-str_btl_ms_04_06	[~ 142]
-str_btl_ms_05_01	[~ 143]
-str_btl_ms_05_02	[~ 144]
-str_btl_ms_05_03	[~ 145]
-str_btl_ms_06_01	[~ 146]
-str_btl_ms_06_02	[~ 147]
-str_btl_ms_06_03	[~ 148]
-str_btl_ms_06_04	[~ 149]
-str_btl_ms_06_05	[~ 150]
-str_btl_ms_06_06	[~ 151]
-str_btl_ms_06_07	[~ 152]
-str_btl_ms_06_08	[~ 153]
-str_btl_ms_06_09	[~ 154]
-str_btl_ms_07_01	[~ 155]
-str_btl_ms_08_01	[~ 156]
-str_btl_ms_08_02	[~ 157]
-str_btl_ms_08_03	[~ 158]
-str_btl_ms_09_01	[~ 159]
-str_btl_ms_09_02	[~ 160]
-str_btl_ms_10_01	[~ 161]
-str_btl_ms_10_02	[~ 162]
-str_btl_ms_10_03	[~ 163]
-str_btl_ms_dummy1	[~ 164]
-str_btl_ms_dummy2	[~ 165]
+str_btl_menu_11	無法使用道具！
+str_btl_menu_07	[~ 112]
+str_btl_menu_08	[~ 113]
+str_btl_menu_09	[~ 114]
+str_btl_menu_10	[~ 115]
+str_btl_result_11	[~ 116]
+str_btl_result_12	[~ 117]
+str_btl_result_13	[~ 118]
+str_btl_ms_01_01	[~ 119]
+str_btl_ms_01_02	[~ 120]
+str_btl_ms_01_03	[~ 121]
+str_btl_ms_01_04	[~ 122]
+str_btl_ms_01_05	[~ 123]
+str_btl_ms_01_06	[~ 124]
+str_btl_ms_01_07	[~ 125]
+str_btl_ms_01_08	[~ 126]
+str_btl_ms_01_09	[~ 127]
+str_btl_ms_02_01	[~ 128]
+str_btl_ms_02_02	[~ 129]
+str_btl_ms_02_03	[~ 130]
+str_btl_ms_03_01	[~ 131]
+str_btl_ms_03_02	[~ 132]
+str_btl_ms_03_03	[~ 133]
+str_btl_ms_03_04	[~ 134]
+str_btl_ms_03_05	[~ 135]
+str_btl_ms_03_06	[~ 136]
+str_btl_ms_03_07	[~ 137]
+str_btl_ms_04_01	[~ 138]
+str_btl_ms_04_02	[~ 139]
+str_btl_ms_04_03	[~ 140]
+str_btl_ms_04_04	[~ 141]
+str_btl_ms_04_05	[~ 142]
+str_btl_ms_04_06	[~ 143]
+str_btl_ms_05_01	[~ 144]
+str_btl_ms_05_02	[~ 145]
+str_btl_ms_05_03	[~ 146]
+str_btl_ms_06_01	[~ 147]
+str_btl_ms_06_02	[~ 148]
+str_btl_ms_06_03	[~ 149]
+str_btl_ms_06_04	[~ 150]
+str_btl_ms_06_05	[~ 151]
+str_btl_ms_06_06	[~ 152]
+str_btl_ms_06_07	[~ 153]
+str_btl_ms_06_08	[~ 154]
+str_btl_ms_06_09	[~ 155]
+str_btl_ms_07_01	[~ 156]
+str_btl_ms_08_01	[~ 157]
+str_btl_ms_08_02	[~ 158]
+str_btl_ms_08_03	[~ 159]
+str_btl_ms_09_01	[~ 160]
+str_btl_ms_09_02	[~ 161]
+str_btl_ms_10_01	[~ 162]
+str_btl_ms_10_02	[~ 163]
+str_btl_ms_10_03	[~ 164]
+str_btl_ms_dummy1	[~ 165]
+str_btl_ms_dummy2	[~ 166]
 btl_get.dat
 btl_seq.dat
 str_btl_seq_Dummy_00	ダミー　自動送り
@@ -6526,6 +6539,25 @@ str_btl_seq_Trainer03_19	哼！\c
 str_btl_seq_Trainer01_20	如果不當做是自己大意，\n我會無法原諒敗戰的自己！\c
 str_btl_seq_Trainer02_20	想不透！真是想不透。\n為什麼人家會輸給[VAR 1100(00FF,0101)]你妳這樣的傢伙？\c
 str_btl_seq_Trainer03_20	我這個糊塗蛋！\n竟然會輸給[VAR 1100(00FF,0101)]你妳，我太沒出息了。\c
+str_btl_seq_Trainer04_03	棒極了！！\n實在是棒極了！！\c
+str_btl_seq_Trainer30_01	[VAR 1100(00FF,0101)]你妳的表現依舊出色……\c
+str_btl_seq_Trainer30_02	[VAR 1100(00FF,0101)]你妳的表現依舊出色……\n迅疾或剛猛，使用的時機真是惱人。\c
+str_btl_seq_Trainer30_03	[VAR 1100(00FF,0101)]你妳的表現依舊出色……\n我要重新思考一下要傳授的招式。\c
+str_btl_seq_Trainer30_04	真不愧是在星月那位豐緣數一數二的\n剛劍高手下面工作的人……\c
+str_btl_seq_Trainer30_05	不僅要讓寶可夢變強……\n也向其他人傳達愛惜牠們的心吧……\c
+str_btl_seq_Trainer31_01	比起血腥的戰鬥，\n我認為能提升彼此的對決更好。\c
+str_btl_seq_Trainer31_02	在下能走到今天，\n這全都要歸功給寶可夢啊！\c
+str_btl_seq_Trainer31_03	寶可夢給了在下勇氣和活力，\n為了牠們，我真的很想拿下勝利啊。\c
+str_btl_seq_Trainer31_04	如同忍術般，寶可夢的招式\n也是很講求使用時機的。\c
+str_btl_seq_Trainer31_05	這條路啊……明知是條無止盡的路，\n卻還能堅持走到多遠才是重點，是吧。\c
+str_btl_seq_Trainer32_01	我再次認為寶可夢是可怕的。\n但牠們可靠的程度更勝於可怕！\c
+str_btl_seq_Trainer32_02	無法光憑鍛鍊寶可夢\n就超越的強大實力……好啊！\c
+str_btl_seq_Trainer32_03	原來在洗翠的並不是可怕的寶可夢，\n而是能當作夥伴去依靠的存在啊。\c
+str_btl_seq_Trainer32_04	去變得更強吧！並且切記\n強大是建立在溫柔的基礎上！\c
+str_btl_seq_Trainer32_05	唔嗯！做到盡善盡美也贏不了啊……\n那只好再追求更上一層的盡善盡美了！\c
+str_btl_seq_Trainer21_01	被突破了啊……！\n身為守衛，我對防守明明很有自信的。\c
+str_btl_seq_Trainer13_05	[VAR 1100(00FF,0101)]你妳實在太強了……\n果然是我們引以為傲的調查組組員！\c
+str_btl_seq_Trainer14_05	有那麼強大的實力，\n任何調查都難不倒[VAR 1100(00FF,0101)]你妳吧。\c
 btl_talk.dat
 msg_btl_talk_leader2_01	[~ 0]
 msg_btl_talk_leader2_02	[~ 1]
@@ -8491,7 +8523,7 @@ ITEMINFO_1692	質地像是泥土的煤炭塊。\n乾燥後也能當成燃料使�
 ITEMINFO_1693	使用後的一小段時間內，\n自己的腳步聲將會消失，\n變得不容易被野生寶可夢察覺。
 ITEMINFO_1694	能用來調合成藥品。\n生長在洗翠地區各地，\n也被稱為旅人良伴。
 ITEMINFO_1695	也被稱為朝露之花苞。\n可作為幫瀕死的寶可夢\n注入活力的道具的材料。
-ITEMINFO_1696	味道辛辣，有滋補強身的效果。\n能回復寶可夢的ＰＰ，以及\n作為能力強化道具的材料。
+ITEMINFO_1696	味道辛辣，有滋補強身的效果。\n可作為寶可夢ＰＰ回復道具或\n能力強化道具的材料。
 ITEMINFO_1697	ー\nー\nー
 ITEMINFO_1698	ー\nー\nー
 ITEMINFO_1699	不可思議的護符。在人昏倒時，\n不知為何會比其他道具更先消失。\n是５種顏色的護符中的一種。
@@ -11652,6 +11684,15 @@ residents_225	珍珠隊
 residents_226	金剛隊
 residents_227	[~ 264]
 residents_228	大尾狸
+residents_229	皮卡丘
+residents_230	葉伊布
+residents_231	冰伊布
+residents_232	小卡比獸
+residents_233	坦克臭鼬
+residents_234	冰鬼護
+residents_235	勇士雄鷹
+residents_236	卡比獸
+residents_237	大岩蛇
 pokelist.dat
 msg_ui_pokelist_00	[~ 0]
 msg_ui_pokelist_01	要與哪隻寶可夢替換？
@@ -19653,6 +19694,17 @@ field_info_spray_01	匿聲噴霧的效果消失了。
 field_info_making_01	[~ 64]
 field_info_battle_01	是用鎮寶命中牠的好機會！
 field_info_battle_02	按下Ｙ鍵閃避招式！
+field_info_pokeinfo_10	發現了報告提到的寶可夢！
+field_info_pokeinfo_11	被報告的寶可夢的氣息消失了。
+field_info_pokeinfo_12	有新群體的氣息……
+field_info_pokeinfo_13	暴雨絲毫沒有要停的樣子。
+field_info_pokeinfo_14	暴風雪絲毫沒有要停的樣子。
+field_info_pokeinfo_15	暴雨似乎還會持續一下下。
+field_info_pokeinfo_16	暴風雪似乎還會持續一下下。
+field_info_pokeinfo_17	暴雨似乎就要停了。
+field_info_pokeinfo_18	暴風雪似乎就要停了。
+field_info_pokeinfo_19	暴雨似乎停了。
+field_info_pokeinfo_20	暴風雪似乎停了。
 movie_skip.dat
 skip01	跳過動畫
 poke_unown.dat
@@ -22953,9 +23005,11 @@ error_comm_24	[~ 20]
 error_comm_25	[~ 21]
 error_validation_common	[~ 22]
 error_validation_http503	[~ 23]
+error_comm_26	網路自動連線失敗。\n\n請再度連線到網路\n接收通訊所需的資訊。
+error_comm_27	網路連線失敗。\n\n請再度連線到網路\n接收通訊所需的資訊。
 error_fatal_save_00	發生錯誤。\n無法交換寶可夢。\n\n請按HOME鍵結束遊戲。
 error_fatal_save_01	紀錄已損壞。\n請刪除主機中的\n儲存資料。
-erro_fatal_storage	[~ 26]
+erro_fatal_storage	[~ 28]
 erro_fatal_backup_00	沒有備份資料，\n無法載入。\c\n將返回主畫面。\c
 erro_fatal_backup_01	已載入備份資料。\c\n在寫入紀錄時，\n將以此資料覆蓋原有資料。\r\n敬請注意。\c
 questlist_sub.dat
@@ -23075,272 +23129,302 @@ msg_questlist_questname_sub_116	想傳達感謝
 msg_questlist_questname_sub_117	漆黑的惡夢
 msg_questlist_questname_sub_122	金剛隊的寶物
 msg_questlist_questname_sub_123	珍珠隊的寶物
+msg_questlist_questname_sub_201	新的「變異」
+msg_questlist_questname_sub_202	調查大大大量出現：黑曜原野
+msg_questlist_questname_sub_203	調查大大大量出現：紅蓮濕地
+msg_questlist_questname_sub_204	調查大大大量出現：群青海岸
+msg_questlist_questname_sub_205	美食誘惑大作戰
+msg_questlist_questname_sub_206	調查大大大量出現：天冠山麓
+msg_questlist_questname_sub_207	調查大大大量出現：純白凍土
+msg_questlist_questname_sub_208	洗翠的黎明
+msg_questlist_questname_sub_250	與警衛組的隱藏高手對戰
+msg_questlist_questname_sub_251	[~ 125]
+msg_questlist_questname_sub_252	剛石的願望
 msg_questlist_questname_sub_253	心齊湖的試煉
 msg_questlist_questname_sub_254	立志湖的試煉
 msg_questlist_questname_sub_255	睿智湖的試煉
+msg_questlist_questname_sub_256	珠貝的願望
+msg_questlist_questname_sub_257	究極的撞氣球
+msg_questlist_questname_sub_258	挖掘明日
+msg_questlist_questname_sub_259	[~ 133]
+msg_questlist_questname_sub_261	隻身道：大牙狸之道
+msg_questlist_questname_sub_262	隻身道：結草貴婦之道
+msg_questlist_questname_sub_263	隻身道：劈斧螳螂之道
+msg_questlist_questname_sub_264	隻身道：護城龍之道
+msg_questlist_questname_sub_265	隻身道：刺尾蟲之道
+msg_questlist_questname_sub_266	隻身道：洛托姆之道
+msg_questlist_questname_sub_267	隻身道：鯉魚王之道
+msg_questlist_questname_sub_268	隻身道：裙兒小姐之道
+msg_questlist_questname_sub_269	隻身道：伊布之道
+msg_questlist_questname_sub_270	隻身道：圓法師之道
+msg_questlist_questname_sub_271	隻身道：凱西之道
+msg_questlist_questname_sub_272	隻身道：毒薔薇之道
+msg_questlist_questname_sub_273	隻身道：狃拉之道
+msg_questlist_questname_sub_274	隻身道：幸福蛋之道
+msg_questlist_questname_sub_275	隻身道：羅絲雷朵之道
 msg_questlist_sub_outline_001	從總是說姆克兒有多麼可愛的\n日葵那裡收到了委託。\n讓她看看姆克兒吧。
-msg_questlist_sub_outline_001_255	[~ 120]
+msg_questlist_sub_outline_001_255	[~ 150]
 msg_questlist_sub_outline_002	從想不起小貓怪的耳朵花紋\n而渾身不對勁的士俊那裡收到了委託。\n讓他看看小貓怪吧。
-msg_questlist_sub_outline_002_255	[~ 122]
+msg_questlist_sub_outline_002_255	[~ 152]
 msg_questlist_sub_outline_003	從害怕寶可夢的昇秀那裡收到了委託。\n分給他幾個在從寶可夢逃走時\n也能派得上用場的橙橙果吧。
-msg_questlist_sub_outline_003_255	[~ 124]
+msg_questlist_sub_outline_003_255	[~ 154]
 msg_questlist_sub_outline_004	從和小隻的泳圈鼬一起生活的\n實建那裡收到了委託。\n將大隻的泳圈鼬讓給他吧。
-msg_questlist_sub_outline_004_255	[~ 126]
+msg_questlist_sub_outline_004_255	[~ 156]
 msg_questlist_sub_outline_005	從聽到博士提及寶可夢進化的\n英卓那裡收到了委託。\n去幫他捉隻刺尾蟲來吧。
-msg_questlist_sub_outline_005_255	[~ 128]
+msg_questlist_sub_outline_005_255	[~ 158]
 msg_questlist_sub_outline_006	之前讓給英卓的那隻刺尾蟲\n在進化後似乎讓英卓陷入了煩惱。\n去聽聽英卓怎麼說吧。
 msg_questlist_sub_outline_006_20	英卓培育的刺尾蟲雖然進化成了盾甲繭，\n但他卻不清楚盾甲繭和甲殼繭有什麼差別。\n讓他看看甲殼繭，完成委託吧。
-msg_questlist_sub_outline_006_255	[~ 131]
+msg_questlist_sub_outline_006_255	[~ 161]
 msg_questlist_sub_outline_007	收到了一個有關超音蝠的委託。\n去聽聽曉瑜怎麼說吧。
 msg_questlist_sub_outline_007_20	曉瑜很好奇超音蝠到底有雙什麼樣的眼睛，\n才能在黑暗中自由自在地四處飛行。\n讓她看看超音蝠，完成委託吧。
-msg_questlist_sub_outline_007_255	[~ 134]
-msg_questlist_sub_outline_008	[~ 135]
+msg_questlist_sub_outline_007_255	[~ 164]
+msg_questlist_sub_outline_008	[~ 165]
 msg_questlist_sub_outline_008_10	接受了祝慶村打靶大叔的挑戰。\n據說只要能拿到１００００分以上，\n就能獲得特別的獎品。
-msg_questlist_sub_outline_008_255	[~ 137]
+msg_questlist_sub_outline_008_255	[~ 167]
 msg_questlist_sub_outline_009	從正在尋找恰恰好的醃菜石的\n雪江那裡收到了委託。\n去幫她捉隻小拳石回來吧。
-msg_questlist_sub_outline_009_255	[~ 139]
+msg_questlist_sub_outline_009_255	[~ 169]
 msg_questlist_sub_outline_010	志雄認為要成為優秀的銀河隊隊員，\n就必須要有自己的搭檔寶可夢。\n給他精靈球，完成委託吧。
-msg_questlist_sub_outline_010_255	[~ 141]
-msg_questlist_sub_outline_011	[~ 142]
+msg_questlist_sub_outline_010_255	[~ 171]
+msg_questlist_sub_outline_011	[~ 172]
 msg_questlist_sub_outline_011_10	顯穎從不經意間拍進照片的寶可夢身上\n感受到了作為拍攝對象的魅力。\n捉到那種寶可夢後就讓他看看，完成委託吧。
-msg_questlist_sub_outline_011_255	[~ 144]
+msg_questlist_sub_outline_011_255	[~ 174]
 msg_questlist_sub_outline_012	最近似乎有頑皮的大牙狸\n不斷地在祝慶村裡搗亂。\n去找綢希打聽詳情吧。
 msg_questlist_sub_outline_012_20	有３隻頑皮的大牙狸\n侵入了祝慶村！\n去幫綢希捕捉牠們吧。
-msg_questlist_sub_outline_012_255	[~ 147]
+msg_questlist_sub_outline_012_255	[~ 177]
 msg_questlist_sub_outline_013	從伸朗那裡收到了\n去幫他採櫻子果回來的委託。\n聽說他還會提供有用的資訊……
-msg_questlist_sub_outline_013_255	[~ 149]
+msg_questlist_sub_outline_013_255	[~ 179]
 msg_questlist_sub_outline_014_10	茶花的家到了晚上\n似乎會發生奇怪的現象。\n去幫茶花調查原因吧。
-msg_questlist_sub_outline_014_20	[~ 151]
-msg_questlist_sub_outline_014_30	[~ 152]
-msg_questlist_sub_outline_014_40	[~ 153]
+msg_questlist_sub_outline_014_20	[~ 181]
+msg_questlist_sub_outline_014_30	[~ 182]
+msg_questlist_sub_outline_014_40	[~ 183]
 msg_questlist_sub_outline_015_10	園敖似乎想要找個人\n商量關於伊布進化的事。\n去找園敖打聽詳情吧。
 msg_questlist_sub_outline_015_20	從園敖那裡收到了委託。\n去幫他找出不見的伊布吧。
-msg_questlist_sub_outline_015_30	[~ 156]
-msg_questlist_sub_outline_015_255	[~ 157]
+msg_questlist_sub_outline_015_30	[~ 186]
+msg_questlist_sub_outline_015_255	[~ 187]
 msg_questlist_sub_outline_016	從環夕那裡收到了委託。\n去馳風道捕捉紅色的火球，\n讓環夕能拿出證據給不相信她的若竹看吧。
 msg_questlist_sub_outline_016_20	紅色火球的真面目是小火焰猴！\n捕捉小火焰猴，讓環夕看看\n在暗夜中發亮的小火焰猴的尾巴吧。
-msg_questlist_sub_outline_016_255	[~ 160]
+msg_questlist_sub_outline_016_255	[~ 190]
 msg_questlist_sub_outline_017	與非常了解菇類的正漢\n一起調查派拉斯特背上的蘑菇。\n先去聽聽正漢怎麼說吧。
-msg_questlist_sub_outline_017_20	[~ 162]
-msg_questlist_sub_outline_017_30	[~ 163]
-msg_questlist_sub_outline_017_40	[~ 164]
-msg_questlist_sub_outline_017_255	[~ 165]
+msg_questlist_sub_outline_017_20	[~ 192]
+msg_questlist_sub_outline_017_30	[~ 193]
+msg_questlist_sub_outline_017_40	[~ 194]
+msg_questlist_sub_outline_017_255	[~ 195]
 msg_questlist_sub_outline_018	收到了一個有關稀有小火馬的委託。\n去找堯佑打聽詳情吧。
 msg_questlist_sub_outline_018_20	堯佑對出現在蹄鐵草原的\n稀有小火馬害怕得不得了。\n去捕捉稀有的小火馬，完成委託吧。
 msg_questlist_sub_outline_018_30	在蹄鐵草原出現的稀有小火馬\n原來是異色的小火馬。
-msg_questlist_sub_outline_018_40	[~ 169]
-msg_questlist_sub_outline_018_255	[~ 170]
+msg_questlist_sub_outline_018_40	[~ 199]
+msg_questlist_sub_outline_018_255	[~ 200]
 msg_questlist_sub_outline_019	似乎有人目擊到了飄飄球\n和小孩子一起玩耍的樣子。\n去找警衛組的樹央打聽詳情吧。
-msg_questlist_sub_outline_019_20	[~ 172]
-msg_questlist_sub_outline_019_30_40_50	[~ 173]
-msg_questlist_sub_outline_019_60	[~ 174]
-msg_questlist_sub_outline_019_255	[~ 175]
+msg_questlist_sub_outline_019_20	[~ 202]
+msg_questlist_sub_outline_019_30_40_50	[~ 203]
+msg_questlist_sub_outline_019_60	[~ 204]
+msg_questlist_sub_outline_019_255	[~ 205]
 msg_questlist_sub_outline_020_10	在黑曜原野接受了撞氣球大叔的挑戰。\n據說只要撞破１７個氣球，\n就能獲得特別的獎品。
-msg_questlist_sub_outline_020_255	[~ 177]
+msg_questlist_sub_outline_020_255	[~ 207]
 msg_questlist_sub_outline_021	從煩惱地面太堅硬而無法耕地的\n稻禾那裡收到了委託。\n借給他能耕地的寶可夢吧。
-msg_questlist_sub_outline_021_255	[~ 179]
+msg_questlist_sub_outline_021_255	[~ 209]
 msg_questlist_sub_outline_022_10	從曉白那裡收到了委託。\n為了讓雜貨店能進新商品，\n去幫曉白說服桃發吧。
-msg_questlist_sub_outline_022_20	[~ 181]
-msg_questlist_sub_outline_022_30	[~ 182]
-msg_questlist_sub_outline_022_255	[~ 183]
+msg_questlist_sub_outline_022_20	[~ 211]
+msg_questlist_sub_outline_022_30	[~ 212]
+msg_questlist_sub_outline_022_255	[~ 213]
 msg_questlist_sub_outline_023_10	從紗瓏那裡收到了委託。\n讓她看看結草貴婦，\n好讓她獲得新的靈感吧。
-msg_questlist_sub_outline_023_255	[~ 185]
+msg_questlist_sub_outline_023_255	[~ 215]
 msg_questlist_sub_outline_024_10	顯穎很好奇不經意間拍進照片的\n奇怪寶可夢究竟是什麼。\n讓顯穎看看那種寶可夢，完成委託吧。
-msg_questlist_sub_outline_024_255	[~ 187]
+msg_questlist_sub_outline_024_255	[~ 217]
 msg_questlist_sub_outline_025	從想製藥的蓆蘿那裡\n收到了收集材料的委託。\n關於材料的詳情據說可以去問塔旻。
 msg_questlist_sub_outline_025_20	從塔旻那裡打聽到了製藥材料的細節。\n東西似乎能在紅蓮濕地採集到，但……
-msg_questlist_sub_outline_025_255	[~ 190]
+msg_questlist_sub_outline_025_255	[~ 220]
 msg_questlist_sub_outline_026	與可達鴨一起生活的彌生\n希望能有治好可達鴨頭痛的藥。\n去找出這種藥，完成委託吧。
-msg_questlist_sub_outline_026_20	[~ 192]
-msg_questlist_sub_outline_026_255	[~ 193]
+msg_questlist_sub_outline_026_20	[~ 222]
+msg_questlist_sub_outline_026_255	[~ 223]
 msg_questlist_sub_outline_027_10	從虎彌那裡收到了委託。\n幫他尋找在紅蓮濕地不知去向的\n妹妹彌美吧。
-msg_questlist_sub_outline_027_20	[~ 195]
-msg_questlist_sub_outline_027_255	[~ 196]
-msg_questlist_sub_outline_029_10	[~ 197]
-msg_questlist_sub_outline_029_255	[~ 198]
+msg_questlist_sub_outline_027_20	[~ 225]
+msg_questlist_sub_outline_027_255	[~ 226]
+msg_questlist_sub_outline_029_10	[~ 227]
+msg_questlist_sub_outline_029_255	[~ 228]
 msg_questlist_sub_outline_030	從園敖那裡收到了委託。\n幫他收集材料，讓他可以用家鄉的\n料理來和伊布變得更親密吧。
-msg_questlist_sub_outline_030_255	[~ 200]
+msg_questlist_sub_outline_030_255	[~ 230]
 msg_questlist_sub_outline_031_10	在預定搭建荒地基地的地方\n似乎發生了什麼問題。\n前往當地協助搭建荒地基地吧。
-msg_questlist_sub_outline_031_255	[~ 202]
+msg_questlist_sub_outline_031_255	[~ 232]
 msg_questlist_sub_outline_032_10	郁太郎似乎想要找個人商量\n關於一直恢復不了活力的\n樹才怪的事。
 msg_questlist_sub_outline_032_20	郁太郎想要用水之波動幫在\n紅蓮濕地荒地基地的樹才怪澆水，\n讓牠恢復活力。幫郁太郎一把吧。
-msg_questlist_sub_outline_032_21	[~ 205]
-msg_questlist_sub_outline_032_255	[~ 206]
+msg_questlist_sub_outline_032_21	[~ 235]
+msg_questlist_sub_outline_032_255	[~ 236]
 msg_questlist_sub_outline_033_10	為了封印曾引起災禍的傢伙，\n去將散落在洗翠地區各地的\n１０７個幽火收集起來吧。
 msg_questlist_sub_outline_033_20	雖然已經集齊了１０７個幽火，\n但為了完成封印，似乎還有非做不可的事。\n前往少女在等候的晚上的雲霧遺跡吧。
 msg_questlist_sub_outline_033_30	最後的幽火是在少女的手上。\n「將１０８個幽火收集進楔石裡」，\n少女留下這麼一句話後就消失了……
 msg_questlist_sub_outline_034_10	庚安覺得[VAR 0189(0000)]和他的祖母\n長得很像。讓他看看和自己\n感情要好的寶可夢吧。
-msg_questlist_sub_outline_034_255	[~ 211]
+msg_questlist_sub_outline_034_255	[~ 241]
 msg_questlist_sub_outline_035_10	忠吉很困惑櫻花兒改變了樣子\n究竟是不是因為進化。\n讓他看看櫻花兒的圖鑑，完成委託吧。
-msg_questlist_sub_outline_035_255	[~ 213]
+msg_questlist_sub_outline_035_255	[~ 243]
 msg_questlist_sub_outline_036_10	昇秀似乎想要找個人商量\n關於動作詭異的魔牆人偶的事。
-msg_questlist_sub_outline_036_20_40	[~ 215]
-msg_questlist_sub_outline_036_30_50	[~ 216]
-msg_questlist_sub_outline_036_60	[~ 217]
-msg_questlist_sub_outline_036_255	[~ 218]
+msg_questlist_sub_outline_036_20_40	[~ 245]
+msg_questlist_sub_outline_036_30_50	[~ 246]
+msg_questlist_sub_outline_036_60	[~ 247]
+msg_questlist_sub_outline_036_255	[~ 248]
 msg_questlist_sub_outline_037_10	喜歡音樂的雅謳愛上了不時能在\n黑曜原野聽見的圓法師的叫聲。\n完成圓法師的圖鑑，並讓她看看吧。
-msg_questlist_sub_outline_037_255	[~ 220]
+msg_questlist_sub_outline_037_255	[~ 250]
 msg_questlist_sub_outline_038_10	正漢發明了使用菇類的誘糰材料單。\n為了使這個材料單變得有名，\n他似乎想把作法傳授給[VAR 0100(0000)]。
-msg_questlist_sub_outline_038_255	[~ 222]
+msg_questlist_sub_outline_038_255	[~ 252]
 msg_questlist_sub_outline_039_10	從維之介那裡收到了一個\n有關三蜜蜂的蜜味的委託。\n去聽聽維之介怎麼說，並且開始調查吧。
-msg_questlist_sub_outline_039_20_30_40	[~ 224]
-msg_questlist_sub_outline_039_255	[~ 225]
-msg_questlist_sub_outline_040_10	[~ 226]
-msg_questlist_sub_outline_040_255	[~ 227]
+msg_questlist_sub_outline_039_20_30_40	[~ 254]
+msg_questlist_sub_outline_039_255	[~ 255]
+msg_questlist_sub_outline_040_10	[~ 256]
+msg_questlist_sub_outline_040_255	[~ 257]
 msg_questlist_sub_outline_041	稻禾希望借一隻能夠幫忙澆水的寶可夢，\n讓他在拓寬田地後也能把水澆遍田地。\n將合適的寶可夢借給他，完成委託吧。
-msg_questlist_sub_outline_041_255	[~ 229]
-msg_questlist_sub_outline_042_10	[~ 230]
-msg_questlist_sub_outline_042_20	[~ 231]
-msg_questlist_sub_outline_042_30	[~ 232]
-msg_questlist_sub_outline_042_255	[~ 233]
+msg_questlist_sub_outline_041_255	[~ 259]
+msg_questlist_sub_outline_042_10	[~ 260]
+msg_questlist_sub_outline_042_20	[~ 261]
+msg_questlist_sub_outline_042_30	[~ 262]
+msg_questlist_sub_outline_042_255	[~ 263]
 msg_questlist_sub_outline_043_10	貝菈被毒薔薇的優雅姿態深深吸引，\n因此想要更了解毒薔薇的事。\n讓她看看毒薔薇的圖鑑，完成委託吧。
-msg_questlist_sub_outline_043_255	[~ 235]
+msg_questlist_sub_outline_043_255	[~ 265]
 msg_questlist_sub_outline_044_10	從顯穎那裡收到了委託。\n幫他去確認風景照中拍攝到的\n兩片嫩葉是不是寶可夢吧。
-msg_questlist_sub_outline_044_255	[~ 237]
+msg_questlist_sub_outline_044_255	[~ 267]
 msg_questlist_sub_outline_045_10	紗瓏認為外觀因棲息地而異的無殼海兔\n能夠為她帶來新服裝的設計靈感。\n讓她看看無殼海兔，完成委託吧。
-msg_questlist_sub_outline_045_255	[~ 239]
+msg_questlist_sub_outline_045_255	[~ 269]
 msg_questlist_sub_outline_046_10	陽次郎在被頭目河馬獸狂追時\n弄丟了重要的護符。\n幫他找回護符，完成委託吧。
-msg_questlist_sub_outline_046_11	[~ 241]
-msg_questlist_sub_outline_046_255	[~ 242]
+msg_questlist_sub_outline_046_11	[~ 271]
+msg_questlist_sub_outline_046_255	[~ 272]
 msg_questlist_sub_outline_047	瑜謠想再看一次\n有兩枚尾鰭的寶可夢。\n捉到那種寶可夢後就讓她看看，完成委託吧。
-msg_questlist_sub_outline_047_255	[~ 244]
+msg_questlist_sub_outline_047_255	[~ 274]
 msg_questlist_sub_outline_048	朝暉無法忘記藏在岩石後面的寶可夢\n那條柔韌擺動的尾巴。\n捉到那種寶可夢後就讓他看看，完成委託吧。
-msg_questlist_sub_outline_048_255	[~ 246]
+msg_questlist_sub_outline_048_255	[~ 276]
 msg_questlist_sub_outline_049_10_20_30	從行李被長尾怪手們搶走的\n金彥那裡收到了委託。\n去追上長尾怪手，幫他奪回行李吧。
-msg_questlist_sub_outline_049_31	[~ 248]
-msg_questlist_sub_outline_049_255	[~ 249]
+msg_questlist_sub_outline_049_31	[~ 278]
+msg_questlist_sub_outline_049_255	[~ 279]
 msg_questlist_sub_outline_050_10	雪江從章魚桶的墨汁\n感受到了新料理的可能性。\n讓她看看章魚桶的圖鑑，完成委託吧。
-msg_questlist_sub_outline_050_255	[~ 251]
+msg_questlist_sub_outline_050_255	[~ 281]
 msg_questlist_sub_outline_051_10	從佳慧那裡收到了委託。\n去找到利一，並叫他回去吧。\n但利一似乎並沒有去鬼枯原……
-msg_questlist_sub_outline_051_11	[~ 253]
-msg_questlist_sub_outline_051_20	[~ 254]
-msg_questlist_sub_outline_051_255	[~ 255]
-msg_questlist_sub_outline_052_10	[~ 256]
-msg_questlist_sub_outline_052_20	[~ 257]
-msg_questlist_sub_outline_052_255	[~ 258]
+msg_questlist_sub_outline_051_11	[~ 283]
+msg_questlist_sub_outline_051_20	[~ 284]
+msg_questlist_sub_outline_051_255	[~ 285]
+msg_questlist_sub_outline_052_10	[~ 286]
+msg_questlist_sub_outline_052_20	[~ 287]
+msg_questlist_sub_outline_052_255	[~ 288]
 msg_questlist_sub_outline_053_10	逸郎似乎想要委託一件\n關於帕奇利茲戰鬥方式的事情。
-msg_questlist_sub_outline_053_20	[~ 260]
-msg_questlist_sub_outline_053_255	[~ 261]
+msg_questlist_sub_outline_053_20	[~ 290]
+msg_questlist_sub_outline_053_255	[~ 291]
 msg_questlist_sub_outline_054_10	從茉可那裡收到了委託。\n告訴她更多關於鯉魚王的事吧。
-msg_questlist_sub_outline_054_255	[~ 263]
+msg_questlist_sub_outline_054_255	[~ 293]
 msg_questlist_sub_outline_056_10	湄妤正在照顧\n餓得無法動彈的波加曼。\n把豆誘糰分給她，完成委託吧。
-msg_questlist_sub_outline_056_20	[~ 265]
-msg_questlist_sub_outline_056_255	[~ 266]
+msg_questlist_sub_outline_056_20	[~ 295]
+msg_questlist_sub_outline_056_255	[~ 296]
 msg_questlist_sub_outline_057_10	從虎彌那裡收到了委託。\n幫他尋找在群青海岸不知去向的\n妹妹彌美吧。
-msg_questlist_sub_outline_057_20	[~ 268]
-msg_questlist_sub_outline_057_255	[~ 269]
+msg_questlist_sub_outline_057_20	[~ 298]
+msg_questlist_sub_outline_057_255	[~ 299]
 msg_questlist_sub_outline_058_10	杵兒似乎想使用\n不良蛙的毒素來做藥。\n去聽聽她怎麼說，並且幫幫她吧。
-msg_questlist_sub_outline_058_20	[~ 271]
-msg_questlist_sub_outline_058_255	[~ 272]
+msg_questlist_sub_outline_058_20	[~ 301]
+msg_questlist_sub_outline_058_255	[~ 302]
 msg_questlist_sub_outline_059_10	在玫瑰島收到了陶仁的委託。\n帶著雙手有鐮刀的\n寶可夢去找他吧。
 msg_questlist_sub_outline_060_10	在群青海岸接受了撞氣球大叔的挑戰。\n據說只要撞破２４個氣球，\n就能獲得特別的獎品。
-msg_questlist_sub_outline_060_255	[~ 275]
+msg_questlist_sub_outline_060_255	[~ 305]
 msg_questlist_sub_outline_061	從想將田地拓得更寬的\n稻禾那裡收到了委託。\n借給他能擊碎礙事岩石的寶可夢吧。
-msg_questlist_sub_outline_062_10	[~ 277]
-msg_questlist_sub_outline_062_20	[~ 278]
-msg_questlist_sub_outline_062_30	[~ 279]
-msg_questlist_sub_outline_062_255	[~ 280]
+msg_questlist_sub_outline_062_10	[~ 307]
+msg_questlist_sub_outline_062_20	[~ 308]
+msg_questlist_sub_outline_062_30	[~ 309]
+msg_questlist_sub_outline_062_255	[~ 310]
 msg_questlist_sub_outline_063_10	火夏覺得如果能觀察夢妖\n或許就會有新髮型的靈感。\n讓她看看夢妖，完成委託吧。
-msg_questlist_sub_outline_063_255	[~ 282]
+msg_questlist_sub_outline_063_255	[~ 312]
 msg_questlist_sub_outline_064_10	據說霏紗家鄉的藤蔓狀藍色香草\n會黏在寶可夢的身上。\n幫她找出附著香草的寶可夢，完成委託吧。
-msg_questlist_sub_outline_064_255	[~ 284]
+msg_questlist_sub_outline_064_255	[~ 314]
 msg_questlist_sub_outline_065_10	朋財想讓豪力加入建築組的夥伴，\n因此想先好好了解豪力。\n讓朋財看看豪力的圖鑑，完成委託吧。
 msg_questlist_sub_outline_065_20	朋財看了豪力的圖鑑後\n決定要和豪力交涉。\n照朋財所說的，等他一下吧。
-msg_questlist_sub_outline_065_255	[~ 287]
+msg_questlist_sub_outline_065_255	[~ 317]
 msg_questlist_sub_outline_066	收到了一個有關\n朝北鼻諺語的委託。\n去聽聽佳慧怎麼說吧。
 msg_questlist_sub_outline_066_255	不想在迷幻洞窟迷路的佳慧想起了\n有句「家有朝北鼻，孩兒走不迷」的諺語。\n將朝北鼻讓給她，完成委託吧。
-msg_questlist_sub_outline_067	[~ 290]
-msg_questlist_sub_outline_067_20	[~ 291]
-msg_questlist_sub_outline_067_255	[~ 292]
+msg_questlist_sub_outline_067	[~ 320]
+msg_questlist_sub_outline_067_20	[~ 321]
+msg_questlist_sub_outline_067_255	[~ 322]
 msg_questlist_sub_outline_068_10	從想製作新顏色衣服的\n紗瓏那裡收到了委託。\n去幫她收集材料吧。
-msg_questlist_sub_outline_068_255	[~ 294]
+msg_questlist_sub_outline_068_255	[~ 324]
 msg_questlist_sub_outline_069_10	清旺說他的兒子智松很怕鬼，\n因此他想幫智松克服這個恐懼。\n讓清旺看看鬼斯的圖鑑，完成委託吧。
-msg_questlist_sub_outline_069_255	[~ 296]
+msg_questlist_sub_outline_069_255	[~ 326]
 msg_questlist_sub_outline_070_10	工藝店的鐵翰說他想看看由\n[VAR 0189(0000)]工藝製作的寶可夢木娃娃……\n幫他實現願望吧。
 msg_questlist_sub_outline_071_10	阻撓人類搭建營地的銅鏡怪\n似乎有什麼想傳達的事。\n幫芝萌去調查銅鏡怪的目的，完成委託吧。
-msg_questlist_sub_outline_071_255	[~ 299]
-msg_questlist_sub_outline_072_10	[~ 300]
-msg_questlist_sub_outline_072_20	[~ 301]
-msg_questlist_sub_outline_072_30	[~ 302]
-msg_questlist_sub_outline_072_255	[~ 303]
+msg_questlist_sub_outline_071_255	[~ 329]
+msg_questlist_sub_outline_072_10	[~ 330]
+msg_questlist_sub_outline_072_20	[~ 331]
+msg_questlist_sub_outline_072_30	[~ 332]
+msg_questlist_sub_outline_072_255	[~ 333]
 msg_questlist_sub_outline_073_10	旬平似乎想要找個人\n幫他調查關於皮皮習性的事。
 msg_questlist_sub_outline_073_20	在旬平的故鄉，皮皮似乎會在\n滿月的夜晚跳舞。去查證一下皮皮\n在洗翠這片土地上是否也會跳舞吧。
-msg_questlist_sub_outline_073_30	[~ 306]
-msg_questlist_sub_outline_073_40	[~ 307]
-msg_questlist_sub_outline_073_50	[~ 308]
-msg_questlist_sub_outline_073_255	[~ 309]
+msg_questlist_sub_outline_073_30	[~ 336]
+msg_questlist_sub_outline_073_40	[~ 337]
+msg_questlist_sub_outline_073_50	[~ 338]
+msg_questlist_sub_outline_073_255	[~ 339]
 msg_questlist_sub_outline_074_10	紗瓏聽說了沙河馬的外表\n會因性別而異。讓她看看\n雄性和雌性的沙河馬，完成委託吧。
-msg_questlist_sub_outline_074_255	[~ 311]
-msg_questlist_sub_outline_075_10	[~ 312]
-msg_questlist_sub_outline_075_255	[~ 313]
+msg_questlist_sub_outline_074_255	[~ 341]
+msg_questlist_sub_outline_075_10	[~ 342]
+msg_questlist_sub_outline_075_255	[~ 343]
 msg_questlist_sub_outline_076_10	從虎彌那裡收到了委託。\n幫他尋找在天冠山麓不知去向的\n妹妹彌美吧。
-msg_questlist_sub_outline_076_20	[~ 315]
-msg_questlist_sub_outline_076_255	[~ 316]
+msg_questlist_sub_outline_076_20	[~ 345]
+msg_questlist_sub_outline_076_255	[~ 346]
 msg_questlist_sub_outline_077_10	從虎彌那裡收到了委託。\n幫他尋找在黑曜原野不知去向的\n妹妹彌美吧。
-msg_questlist_sub_outline_077_20	[~ 318]
-msg_questlist_sub_outline_077_21	[~ 319]
-msg_questlist_sub_outline_077_255	[~ 320]
-msg_questlist_sub_outline_079_10	[~ 321]
-msg_questlist_sub_outline_079_255	[~ 322]
-msg_questlist_sub_outline_080_10	[~ 323]
-msg_questlist_sub_outline_080_255	[~ 324]
-msg_questlist_sub_outline_082_10	[~ 325]
-msg_questlist_sub_outline_082_20	[~ 326]
-msg_questlist_sub_outline_082_30	[~ 327]
-msg_questlist_sub_outline_082_255	[~ 328]
+msg_questlist_sub_outline_077_20	[~ 348]
+msg_questlist_sub_outline_077_21	[~ 349]
+msg_questlist_sub_outline_077_255	[~ 350]
+msg_questlist_sub_outline_079_10	[~ 351]
+msg_questlist_sub_outline_079_255	[~ 352]
+msg_questlist_sub_outline_080_10	[~ 353]
+msg_questlist_sub_outline_080_255	[~ 354]
+msg_questlist_sub_outline_082_10	[~ 355]
+msg_questlist_sub_outline_082_20	[~ 356]
+msg_questlist_sub_outline_082_30	[~ 357]
+msg_questlist_sub_outline_082_255	[~ 358]
 msg_questlist_sub_outline_083_10	火夏覺得如果能觀察奇魯莉安\n或許就會有新髮型的靈感。\n讓她看看奇魯莉安，完成委託吧。
-msg_questlist_sub_outline_083_255	[~ 330]
+msg_questlist_sub_outline_083_255	[~ 360]
 msg_questlist_sub_outline_084_10	為了學會究極的醃菜材料單，\n去幫雪江收集材料，完成委託吧。
-msg_questlist_sub_outline_084_255	[~ 332]
+msg_questlist_sub_outline_084_255	[~ 362]
 msg_questlist_sub_outline_085_10	人在純白凍土心形岩山的正漢\n似乎有個關於小山豬特技的委託。
-msg_questlist_sub_outline_085_15_20_30	[~ 334]
-msg_questlist_sub_outline_085_40	[~ 335]
-msg_questlist_sub_outline_085_255	[~ 336]
+msg_questlist_sub_outline_085_15_20_30	[~ 364]
+msg_questlist_sub_outline_085_40	[~ 365]
+msg_questlist_sub_outline_085_255	[~ 366]
 msg_questlist_sub_outline_086_10	據說島木的祖先曾經居住的村落\n位在純白凍土的雪崩坡附近。\n去幫他尋找村落的痕跡吧。
 msg_questlist_sub_outline_086_20	在雪崩坡發現了破損日記。\n去尋找剩下的部分，\n說不定就能得到關於村落的資訊。
 msg_questlist_sub_outline_086_30	將雪妖女掉落的日記與破損日記\n拼湊後，完成了一本古老日記。\n裡頭寫著曾經位在雪崩坡的村落的事。
-msg_questlist_sub_outline_086_255	[~ 340]
-msg_questlist_sub_outline_087_010	[~ 341]
-msg_questlist_sub_outline_087_020	[~ 342]
-msg_questlist_sub_outline_087_030	[~ 343]
-msg_questlist_sub_outline_087_040	[~ 344]
-msg_questlist_sub_outline_087_255	[~ 345]
-msg_questlist_sub_outline_088	[~ 346]
+msg_questlist_sub_outline_086_255	[~ 370]
+msg_questlist_sub_outline_087_010	[~ 371]
+msg_questlist_sub_outline_087_020	[~ 372]
+msg_questlist_sub_outline_087_030	[~ 373]
+msg_questlist_sub_outline_087_040	[~ 374]
+msg_questlist_sub_outline_087_255	[~ 375]
+msg_questlist_sub_outline_088	[~ 376]
 msg_questlist_sub_outline_088_10	村民平八、蔻江和倫彥在討論\n哪個樣子的結草兒才是真的結草兒。\n讓他們３人看看結草兒，完成委託吧。
-msg_questlist_sub_outline_088_20	[~ 348]
-msg_questlist_sub_outline_088_255	[~ 349]
+msg_questlist_sub_outline_088_20	[~ 378]
+msg_questlist_sub_outline_088_255	[~ 379]
 msg_questlist_sub_outline_089_10	聽說受到寶可夢幸福蛋幫助的麻芝\n似乎有事情想要委託。
-msg_questlist_sub_outline_089_20	[~ 351]
-msg_questlist_sub_outline_089_21	[~ 352]
-msg_questlist_sub_outline_089_255	[~ 353]
+msg_questlist_sub_outline_089_20	[~ 381]
+msg_questlist_sub_outline_089_21	[~ 382]
+msg_questlist_sub_outline_089_255	[~ 383]
 msg_questlist_sub_outline_090_10	從杵兒那裡收到了委託。\n去幫她採１００根療草吧。
-msg_questlist_sub_outline_090_255	[~ 355]
+msg_questlist_sub_outline_090_255	[~ 385]
 msg_questlist_sub_outline_091_10	收到了邦一的委託。去尋找與他約在\n純白凍土的瀑布潭附近會合的永四朗吧。\n據說永四朗不是個會迷路的人……
-msg_questlist_sub_outline_091_20	[~ 357]
-msg_questlist_sub_outline_091_255	[~ 358]
+msg_questlist_sub_outline_091_20	[~ 387]
+msg_questlist_sub_outline_091_255	[~ 388]
 msg_questlist_sub_outline_092_10	來自阿羅拉的亞昂似乎帶著\n被稱為凱歐凱歐的奇特六尾。\n去看看那種六尾，並且開始調查吧。
-msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 360]
-msg_questlist_sub_outline_092_255	[~ 361]
+msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 390]
+msg_questlist_sub_outline_092_255	[~ 391]
 msg_questlist_sub_outline_093_10	從在冰山基地工作的\n邦一那裡收到了委託。\n將火屬性的寶可夢讓給他吧。
-msg_questlist_sub_outline_093_255	[~ 363]
+msg_questlist_sub_outline_093_255	[~ 393]
 msg_questlist_sub_outline_094_10	似乎有野生的風鈴鈴\n定居在民宅的屋簷下。\n去聽聽玉娑怎麼說，並且開始調查吧。
-msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 365]
-msg_questlist_sub_outline_094_255	[~ 366]
+msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 395]
+msg_questlist_sub_outline_094_255	[~ 396]
 msg_questlist_sub_outline_095_10	超喜歡冰寶的珍珠隊隊員英慕\n說要幫忙檢查冰寶的圖鑑。\n完成冰寶的圖鑑後讓她看看，完成委託吧。
-msg_questlist_sub_outline_095_255	[~ 368]
+msg_questlist_sub_outline_095_255	[~ 398]
 msg_questlist_sub_outline_096_10	從彌美那裡收到了委託。\n幫彌美搜尋為了找她而\n前往純白凍土的哥哥虎彌吧。
-msg_questlist_sub_outline_096_20	[~ 370]
-msg_questlist_sub_outline_096_255	[~ 371]
+msg_questlist_sub_outline_096_20	[~ 400]
+msg_questlist_sub_outline_096_255	[~ 401]
 msg_questlist_sub_outline_097_10	松茂要把惹來客人投訴而棄用的\n材料單傳授給人。去跟他學學吧。
-msg_questlist_sub_outline_097_255	[~ 373]
+msg_questlist_sub_outline_097_255	[~ 403]
 msg_questlist_sub_outline_098_10	從亞白那裡收到了委託。\n與他的搭檔路卡利歐對戰吧。
-msg_questlist_sub_outline_098_11	[~ 375]
-msg_questlist_sub_outline_098_255	[~ 376]
+msg_questlist_sub_outline_098_11	[~ 405]
+msg_questlist_sub_outline_098_255	[~ 406]
 msg_questlist_sub_outline_099_10	千吉的夥伴海豹球\n在隆隆山地滾走了。\n去幫他找回海豹球，完成委託吧。
-msg_questlist_sub_outline_099_50	[~ 378]
-msg_questlist_sub_outline_099_255	[~ 379]
+msg_questlist_sub_outline_099_50	[~ 408]
+msg_questlist_sub_outline_099_255	[~ 409]
 msg_questlist_sub_outline_100_10	在純白凍土接受了撞氣球大叔的挑戰。\n據說只要撞破３０個氣球，\n就能獲得特別的獎品。
-msg_questlist_sub_outline_100_255	[~ 381]
+msg_questlist_sub_outline_100_255	[~ 411]
 msg_questlist_sub_outline_110_10	在群青海岸似乎有人目擊到了巨大的影子。\n根據拉苯博士的分析，那極可能是之前與\n[VAR 0189(0000)]對戰的騎拉帝納。
 msg_questlist_sub_outline_114_10	聽說在洗翠地區有時會有\n被稱為化身的寶可夢現身。\n為了完成圖鑑，去調查看看吧。
 msg_questlist_sub_outline_115_10	拉苯博士目擊到的海裡的寶可夢\n說不定就是在「海之傳說」中\n登場的寶可夢……
@@ -23348,29 +23432,59 @@ msg_questlist_sub_outline_116_10	幫助過去曾遇見過\n稀有寶可夢的委
 msg_questlist_sub_outline_117_10	向目擊到恐怖寶可夢的委託人\n打聽詳細的狀況和地點等資訊，\n並且調查那隻寶可夢。
 msg_questlist_sub_outline_122_10	金剛隊的剛石想來場寶可夢對戰。\n戰勝他，並且打聽關於「寶物」的事吧。
 msg_questlist_sub_outline_123_10	珍珠隊的珠貝想來場寶可夢對戰。\n戰勝她，並且打聽關於「寶物」的事吧。
+msg_questlist_sub_outline_201	從阿米那裡收到了委託。\n去幫她調查小卡比獸\n在意的地點吧。
+msg_questlist_sub_outline_202	從阿米那裡收到了委託。\n去調查在黑曜原野發生的\n大大大量出現吧。
+msg_questlist_sub_outline_203	從阿米那裡收到了委託。\n去調查在紅蓮濕地發生的\n大大大量出現吧。
+msg_questlist_sub_outline_204	從阿米那裡收到了委託。\n去調查在群青海岸發生的\n大大大量出現吧。
+msg_questlist_sub_outline_205	從阿米那裡收到了委託。\n將菇誘糰帶去純白凍土的\n秘密小洞給她吧。
+msg_questlist_sub_outline_206	從阿米那裡收到了委託。\n去調查在天冠山麓發生的\n大大大量出現吧。
+msg_questlist_sub_outline_207	從阿米那裡收到了委託。\n去調查在純白凍土發生的\n大大大量出現吧。
+msg_questlist_sub_outline_208	被剛石和珠貝\n帶到了黑曜原野\n欣賞黎明。
+msg_questlist_sub_outline_250	從貝里菈那裡收到了邀請。\n與警衛組的隱藏高手對戰吧。
+msg_questlist_sub_outline_251	[~ 428]
+msg_questlist_sub_outline_252	從剛石那裡收到了委託。\n用帝牙盧卡（起源形態）\n與他對戰吧。
 msg_questlist_sub_outline_253	為了獲得「紅色鎖鏈」，\n前往位於黑曜原野的心齊湖\n接受守護神的試煉。
 msg_questlist_sub_outline_254	為了獲得「紅色鎖鏈」，\n前往位於紅蓮濕地的立志湖\n接受守護神的試煉。
 msg_questlist_sub_outline_255	為了獲得「紅色鎖鏈」，\n前往位於純白凍土的睿智湖\n接受守護神的試煉。
-msg_questlist_sub_purpose_001_1_1	[~ 392]
+msg_questlist_sub_outline_256	從珠貝那裡收到了委託。\n用帕路奇亞（起源形態）\n與她對戰吧。
+msg_questlist_sub_outline_257	在天冠山麓接受了撞氣球大叔的挑戰。\n據說只要撞破４０個氣球，\n就能獲得特別的獎品。
+msg_questlist_sub_outline_258	從士敬那裡收到了委託。\n去讓黑金隧道的寶可夢平靜下來吧。
+msg_questlist_sub_outline_259	[~ 436]
+msg_questlist_sub_outline_261	警衛組的木古推薦了隻身道。\n他建議用精心鍛鍊的大牙狸去挑戰。
+msg_questlist_sub_outline_262	警衛組的木古推薦了隻身道。\n據說有某個樣子能讓挑戰比較有利。
+msg_questlist_sub_outline_263	警衛組的木古推薦了隻身道。\n他建議要屏氣凝神去攻擊弱點。
+msg_questlist_sub_outline_264	警衛組的木古推薦了隻身道。\n他建議將防守力轉換成進攻力。
+msg_questlist_sub_outline_265	警衛組的木古推薦了隻身道。\n他建議先把寶可夢培育到極限後再挑戰。
+msg_questlist_sub_outline_266	警衛組的木古推薦了隻身道。\n據說有某種電器能讓挑戰比較有利。
+msg_questlist_sub_outline_267	警衛組的木古推薦了隻身道。\n他建議用固若金湯的鯉魚王忍耐到底。
+msg_questlist_sub_outline_268	警衛組的木古推薦了隻身道。\n他建議跳支能喚來勝利的舞蹈。
+msg_questlist_sub_outline_269	警衛組的木古推薦了隻身道。\n他建議使用對手的招式。
+msg_questlist_sub_outline_270	警衛組的木古推薦了隻身道。\n他建議先把寶可夢培育到極限後再挑戰。
+msg_questlist_sub_outline_271	警衛組的木古推薦了隻身道。\n他建議要好好注意模仿高手。
+msg_questlist_sub_outline_272	警衛組的木古推薦了隻身道。\n對手睡著的時候似乎是最佳時機。
+msg_questlist_sub_outline_273	警衛組的木古推薦了隻身道。\n他建議使用在時空歪曲遇見的狃拉。
+msg_questlist_sub_outline_274	警衛組的木古推薦了隻身道。\n他建議使用回復忍耐到底。
+msg_questlist_sub_outline_275	警衛組的木古推薦了隻身道。\n他建議瞄準對手降落到地面的時機。
+msg_questlist_sub_purpose_001_1_1	[~ 452]
 msg_questlist_sub_purpose_001_10_1	讓製造組的日葵\n看看寶可夢
 msg_questlist_sub_purpose_001_10_2	讓製造組的日葵\n看看完成的姆克兒圖鑑
-msg_questlist_sub_purpose_002_1_1	[~ 395]
+msg_questlist_sub_purpose_002_1_1	[~ 455]
 msg_questlist_sub_purpose_002_10_1	讓村民士俊\n看看寶可夢
-msg_questlist_sub_purpose_003_1_1	[~ 397]
+msg_questlist_sub_purpose_003_1_1	[~ 457]
 msg_questlist_sub_purpose_003_10_1	將樹果交給\n村民昇秀
 msg_questlist_sub_purpose_004_10_1	將寶可夢交給\n警衛組的實建
-msg_questlist_sub_purpose_005_1_1	[~ 400]
+msg_questlist_sub_purpose_005_1_1	[~ 460]
 msg_questlist_main_purpose_005_10_1	將寶可夢交給\n警衛組的英卓
 msg_questlist_sub_purpose_006_10_1	與警衛組的英卓說話
 msg_questlist_sub_purpose_006_20_1	讓警衛組的英卓\n看看寶可夢
 msg_questlist_sub_purpose_007_10_1	與警衛組的曉瑜說話
 msg_questlist_sub_purpose_007_20_1	讓警衛組的曉瑜\n看看寶可夢
-msg_questlist_sub_purpose_008	[~ 406]
+msg_questlist_sub_purpose_008	[~ 466]
 msg_questlist_sub_purpose_008_10_1	在祝慶村的打靶\n創下１００００分以上的紀錄
 msg_questlist_sub_purpose_009_10_1	將寶可夢交給\n村民雪江
 msg_questlist_sub_purpose_010	將球交給\n村民志雄
 msg_questlist_sub_purpose_011_10	讓照相館的顯穎看看\n照片上拍攝到的寶可夢
-msg_questlist_sub_purpose_011_20	[~ 411]
+msg_questlist_sub_purpose_011_20	[~ 471]
 msg_questlist_sub_purpose_012_10	與警衛組的綢希說話
 msg_questlist_sub_purpose_012_20	將大牙狸加入同行寶可夢\n去找出侵入村子的大牙狸\n還剩：３隻
 msg_questlist_sub_purpose_012_30	將大牙狸加入同行寶可夢\n去找出侵入村子的大牙狸\n還剩：２隻
@@ -23384,30 +23498,30 @@ msg_questlist_sub_purpose_016_10_1	晚上在馳風道\n捕捉紅色的火球
 msg_questlist_sub_purpose_016_20_1	讓村民環夕\n看看寶可夢
 msg_questlist_sub_purpose_017_10_1	與村民正漢說話
 msg_questlist_sub_purpose_017_20_2	將寶可夢交給\n村民正漢
-msg_questlist_sub_purpose_017_30_1	[~ 425]
-msg_questlist_sub_purpose_017_40_1	[~ 426]
+msg_questlist_sub_purpose_017_30_1	[~ 485]
+msg_questlist_sub_purpose_017_40_1	[~ 486]
 msg_questlist_sub_purpose_018_10_1	向村民堯佑\n詢問委託的內容
 msg_questlist_sub_purpose_018_20_1	捕捉出現在黑曜原野\n蹄鐵草原的稀有小火馬
 msg_questlist_sub_purpose_018_30_1	向村民堯佑報告
 msg_questlist_sub_purpose_019_10_1	向警衛組的樹央\n詢問委託的內容
 msg_questlist_sub_purpose_019_20_1	調查傍晚會在起始海灘的\n飄飄球和小孩
-msg_questlist_sub_purpose_019_30_1	[~ 432]
+msg_questlist_sub_purpose_019_30_1	[~ 492]
 msg_questlist_sub_purpose_019_60_1	向警衛組的樹央報告
 msg_questlist_sub_purpose_020_10_1	到黑曜原野玩撞氣球\n並在限時內撞破１７個氣球
 msg_questlist_sub_purpose_021_10_1	把地面屬性的寶可夢\n借給稻禾
 msg_questlist_sub_purpose_022_10_1	帶道具當伴手禮\n去說服製造組組長桃發
-msg_questlist_sub_purpose_022_20_1	[~ 437]
+msg_questlist_sub_purpose_022_20_1	[~ 497]
 msg_questlist_sub_purpose_022_30_1	向雜貨店的曉白報告
 msg_questlist_sub_purpose_023_10_1	讓衣鋪的紗瓏\n看看寶可夢
 msg_questlist_sub_purpose_025_10_1	向醫療組的塔旻\n打聽製藥材料的情報
 msg_questlist_sub_purpose_025_20_1	將出現在紅蓮濕地\n而且有三片葉子的寶可夢\n交給醫療組的塔旻
 msg_questlist_sub_purpose_026_10_1	到祝慶村收集\n能幫可達鴨治好頭痛的\n藥的情報
 msg_questlist_sub_purpose_026_20_1	將道具交給\n金剛隊的彌生
-msg_questlist_sub_purpose_026_30_1	[~ 444]
+msg_questlist_sub_purpose_026_30_1	[~ 504]
 msg_questlist_sub_purpose_027_10_1	以月月熊騎行時的\n藍色的反應為線索\n在紅蓮濕地尋找\n警衛組組員彌美
 msg_questlist_sub_purpose_027_20_1	到銀河隊總部１樓\n向村民虎彌報告
-msg_questlist_sub_purpose_029_10_1	[~ 447]
-msg_questlist_sub_purpose_029_10_1_ex	[~ 448]
+msg_questlist_sub_purpose_029_10_1	[~ 507]
+msg_questlist_sub_purpose_029_10_1_ex	[~ 508]
 msg_questlist_sub_purpose_030_10_1	將材料交給建築組的園敖
 msg_questlist_sub_purpose_031_10_1	趕走３隻臭鼬噗
 msg_questlist_sub_purpose_031_10_2	前去幫忙搭建荒地基地
@@ -23422,14 +23536,14 @@ msg_questlist_sub_purpose_035_10_1	讓農耕組的忠吉\n看看完成的櫻花�
 msg_questlist_sub_purpose_036_10_1	向村民昇秀\n詢問委託的內容
 msg_questlist_sub_purpose_036_20_40_1	接近魔牆人偶\n調查牠在做什麼
 msg_questlist_sub_purpose_036_30_50_1	追上逃跑的魔牆人偶
-msg_questlist_sub_purpose_036_60_1	[~ 463]
+msg_questlist_sub_purpose_036_60_1	[~ 523]
 msg_questlist_sub_purpose_037_10_1	讓村民雅謳\n看看完成的圓法師圖鑑
 msg_questlist_sub_purpose_038_10_1	將材料交給\n村民正漢
 msg_questlist_sub_purpose_039_10_1	向農耕組的維之介\n詢問委託的內容
 msg_questlist_sub_purpose_039_20_1	讓農耕組的維之介看看\n在險林相遇的三蜜蜂
 msg_questlist_sub_purpose_039_30_1	讓農耕組的維之介看看\n在長尾怪手山相遇的三蜜蜂
 msg_questlist_sub_purpose_039_40_1	讓農耕組的維之介看看\n在玫瑰島相遇的三蜜蜂
-msg_questlist_sub_purpose_040_10_1	[~ 470]
+msg_questlist_sub_purpose_040_10_1	[~ 530]
 msg_questlist_sub_purpose_041_10_1	把學會水屬性招式的寶可夢\n借給農耕組的稻禾
 msg_questlist_sub_purpose_043_10_1	讓村民貝菈\n看看完成的毒薔薇圖鑑
 msg_questlist_sub_purpose_045_10_1	讓衣鋪的紗瓏\n看看東海和西海的\n無殼海兔
@@ -23444,9 +23558,9 @@ msg_questlist_sub_purpose_051_10_1	尋找村民利一
 msg_questlist_sub_purpose_051_11_1	趕走聒噪鳥\n搭救村民利一
 msg_questlist_sub_purpose_051_20_1	向製造組的佳慧報告
 msg_questlist_sub_purpose_051_20_2	與製造組的佳慧說話
-msg_questlist_sub_purpose_052_10_1	[~ 485]
-msg_questlist_sub_purpose_052_20_1	[~ 486]
-msg_questlist_sub_purpose_052_21_1	[~ 487]
+msg_questlist_sub_purpose_052_10_1	[~ 545]
+msg_questlist_sub_purpose_052_20_1	[~ 546]
+msg_questlist_sub_purpose_052_21_1	[~ 547]
 msg_questlist_sub_purpose_053_10_1	向警衛組的逸郎\n詢問委託的內容
 msg_questlist_sub_purpose_053_20_1	只帶著帕奇利茲\n去讓警衛組的逸郎看看\n帕奇利茲的戰鬥方式
 msg_questlist_sub_purpose_054_10_1	完成鯉魚王的圖鑑\n並告訴村民茉可
@@ -23455,7 +23569,7 @@ msg_questlist_sub_purpose_057_10_1	以月月熊騎行時的\n藍色的反應為�
 msg_questlist_sub_purpose_058_10_1	向醫療組組長杵兒\n詢問委託的內容
 msg_questlist_sub_purpose_058_20_1	將寶可夢交給\n醫療組組長杵兒
 msg_questlist_sub_purpose_059_10_1	到玫瑰島讓陶仁看看\n雙手有鐮刀的寶可夢
-msg_questlist_sub_purpose_060_1_1	[~ 496]
+msg_questlist_sub_purpose_060_1_1	[~ 556]
 msg_questlist_sub_purpose_060_10_1	到群青海岸玩撞氣球\n並在限時內撞破２４個氣球
 msg_questlist_sub_purpose_061_10_1	把學會碎岩的寶可夢\n借給農耕組的稻禾
 msg_questlist_sub_purpose_063_10_1	讓火夏看看寶可夢
@@ -23463,25 +23577,25 @@ msg_questlist_sub_purpose_064_10_1	讓村民霏紗看看\n身上附著藤蔓狀\
 msg_questlist_sub_purpose_065_10_1	讓建築組的朋財\n看看完成的豪力圖鑑
 msg_questlist_sub_purpose_065_20_1	等待建築組的朋財\n拉攏豪力
 msg_questlist_sub_purpose_066_10_1	將寶可夢交給\n製造組的佳慧
-msg_questlist_sub_purpose_067_10_1	[~ 504]
+msg_questlist_sub_purpose_067_10_1	[~ 564]
 msg_questlist_sub_purpose_068_10_1	將材料交給衣鋪的紗瓏
 msg_questlist_sub_purpose_069_10_1	完成鬼斯的圖鑑\n並讓村民清旺看看
 msg_questlist_sub_purpose_070_10_1	用工藝製作完成寶可夢木娃娃\n並讓鐵翰看看
 msg_questlist_sub_purpose_071_10_1	調查銅鏡怪的目的
-msg_questlist_sub_purpose_072_10_1	[~ 509]
-msg_questlist_sub_purpose_072_20_1	[~ 510]
-msg_questlist_sub_purpose_072_30_1	[~ 511]
+msg_questlist_sub_purpose_072_10_1	[~ 569]
+msg_questlist_sub_purpose_072_20_1	[~ 570]
+msg_questlist_sub_purpose_072_30_1	[~ 571]
 msg_questlist_sub_purpose_073_10_1	與製造組的旬平說話
 msg_questlist_sub_purpose_073_20_40_1	在滿月的晚上到妖精之泉\n調查皮皮是否會跳舞
-msg_questlist_sub_purpose_073_30_1	[~ 514]
+msg_questlist_sub_purpose_073_30_1	[~ 574]
 msg_questlist_sub_purpose_073_50_1	向製造組的旬平報告
 msg_questlist_sub_purpose_074_10_1	讓衣鋪的紗瓏看看\n沙河馬的♂和♀
-msg_questlist_sub_purpose_075_10_1	[~ 517]
-msg_questlist_sub_purpose_075_11_1	[~ 518]
+msg_questlist_sub_purpose_075_10_1	[~ 577]
+msg_questlist_sub_purpose_075_11_1	[~ 578]
 msg_questlist_sub_purpose_076_10_1	以月月熊騎行時的\n藍色的反應為線索\n在天冠山麓尋找\n警衛組組員彌美
 msg_questlist_sub_purpose_077_10_1	以月月熊騎行時的\n藍色的反應為線索\n在黑曜原野尋找\n警衛組組員彌美
 msg_questlist_sub_purpose_077_11_1	打倒正在襲擊警衛組組員\n彌美的３隻派拉斯
-msg_questlist_sub_purpose_080_10_1	[~ 522]
+msg_questlist_sub_purpose_080_10_1	[~ 582]
 msg_questlist_sub_purpose_084_10_1	將材料交給村民雪江
 msg_questlist_sub_purpose_085_10_1	到純白凍土的心形岩山\n與村民正漢說話
 msg_questlist_sub_purpose_085_15_1	將小山豬加入同行寶可夢\n去收集埋在雪中的蘑菇\n還剩：３個
@@ -23490,12 +23604,12 @@ msg_questlist_sub_purpose_085_30_1	將小山豬加入同行寶可夢\n去收集�
 msg_questlist_sub_purpose_085_40_1	向村民正漢報告
 msg_questlist_sub_purpose_086_10_1	尋找據說曾經坐落在\n純白凍土雪崩坡的村落的痕跡
 msg_questlist_sub_purpose_086_30_1	將古老日記\n交給商人島木
-msg_questlist_sub_purpose_087_10_1	[~ 531]
-msg_questlist_sub_purpose_087_10_2	[~ 532]
-msg_questlist_sub_purpose_087_10_3	[~ 533]
-msg_questlist_sub_purpose_087_20_1	[~ 534]
-msg_questlist_sub_purpose_087_30_1	[~ 535]
-msg_questlist_sub_purpose_087_40_1	[~ 536]
+msg_questlist_sub_purpose_087_10_1	[~ 591]
+msg_questlist_sub_purpose_087_10_2	[~ 592]
+msg_questlist_sub_purpose_087_10_3	[~ 593]
+msg_questlist_sub_purpose_087_20_1	[~ 594]
+msg_questlist_sub_purpose_087_30_1	[~ 595]
+msg_questlist_sub_purpose_087_40_1	[~ 596]
 msg_questlist_sub_purpose_088_10_1	讓村民平八、蔻江和倫彥\n看看結草兒
 msg_questlist_sub_purpose_088_20_1	讓村民平八、蔻江和倫彥\n看看完成的結草兒圖鑑
 msg_questlist_sub_purpose_089_10_1	到純白凍土\n與製造組的麻芝說話
@@ -23510,7 +23624,7 @@ msg_questlist_sub_purpose_092_30_1	尋找躲在純白凍土的\n六尾（阿羅�
 msg_questlist_sub_purpose_092_40_1	尋找躲在純白凍土的\n六尾（阿羅拉的樣子）\n還剩：３隻
 msg_questlist_sub_purpose_092_50_1	尋找躲在純白凍土的\n六尾（阿羅拉的樣子）\n還剩：２隻
 msg_questlist_sub_purpose_092_60_1	尋找躲在純白凍土的\n六尾（阿羅拉的樣子）\n還剩：１隻
-msg_questlist_sub_purpose_092_70_1	[~ 551]
+msg_questlist_sub_purpose_092_70_1	[~ 611]
 msg_questlist_sub_purpose_092_80_1	向警衛組的亞昂報告
 msg_questlist_sub_purpose_093_10_1	將火屬性的寶可夢交給\n製造組的邦一
 msg_questlist_sub_purpose_094_10_1	與正在民宅的門廊等著的\n村民玉娑說話
@@ -23524,7 +23638,7 @@ msg_questlist_sub_purpose_096_10_1	以月月熊騎行時的\n藍色的反應為�
 msg_questlist_sub_purpose_096_11_1	打倒冰鬼護\n搭救村民虎彌
 msg_questlist_sub_purpose_097_10_1	將材料交給糖果鋪的松茂
 msg_questlist_sub_purpose_098_10_1	到訓練場\n與路卡利歐對戰
-msg_questlist_sub_purpose_098_11_1	[~ 565]
+msg_questlist_sub_purpose_098_11_1	[~ 625]
 msg_questlist_sub_purpose_099_10_20_30_40_1	尋找從隆隆山地滾了下去的\n村民千吉的海豹球
 msg_questlist_sub_purpose_099_50_1	到山頂基地\n與村人千吉說話
 msg_questlist_sub_purpose_100_10_1	到純白凍土玩撞氣球\n並在限時內撞破３０個氣球
@@ -23540,25 +23654,85 @@ msg_questlist_sub_purpose_116_10_1	到原野基地\n與金剛隊的希兒說話
 msg_questlist_sub_purpose_116_20_1	尋找位於黑曜原野某處的\n「葛拉西蒂亞的花海」
 msg_questlist_sub_purpose_116_30_1	在葛拉西蒂亞的花海\n捕捉謝米
 msg_questlist_sub_purpose_117_10_1	尋找只會在晚上\n出現於攀崖崖附近的\n神秘的黑色寶可夢
-msg_questlist_sub_purpose_117_20_1	[~ 581]
+msg_questlist_sub_purpose_117_20_1	[~ 641]
 msg_questlist_sub_purpose_117_20_1_fix	在攀崖崖附近\n捕捉達克萊伊
 msg_questlist_sub_purpose_122_10_1	到金剛聚落附近與剛石對戰\n並且戰勝他
 msg_questlist_sub_purpose_123_10_1	到珍珠聚落附近與珠貝對戰\n並且戰勝她
+msg_questlist_sub_purpose_201_10_1	前往阿米的小卡比獸\n所在意的玫瑰島
+msg_questlist_sub_purpose_201_20_1	向阿米報告
+msg_questlist_sub_purpose_201_30_1	向星月報告\n在玫瑰島確認到的\n索羅亞們的事情
+msg_questlist_sub_purpose_202_10_1	和阿米一起\n前往黑曜原野
+msg_questlist_sub_purpose_202_20_1	[~ 649]
+msg_questlist_sub_purpose_202_30_1	[~ 650]
+msg_questlist_sub_purpose_202_40_1	調查在黑曜原野發生的\n大大大量出現\n還剩：３處
+msg_questlist_sub_purpose_202_50_1	調查在黑曜原野發生的\n大大大量出現\n還剩：２處
+msg_questlist_sub_purpose_202_60_1	調查在黑曜原野發生的\n大大大量出現\n還剩：１處
+msg_questlist_sub_purpose_203_10_1	和阿米一起\n前往紅蓮濕地
+msg_questlist_sub_purpose_203_20_1	[~ 655]
+msg_questlist_sub_purpose_203_30_1	[~ 656]
+msg_questlist_sub_purpose_203_40_1	調查在紅蓮濕地發生的\n大大大量出現\n還剩：３處
+msg_questlist_sub_purpose_203_50_1	調查在紅蓮濕地發生的\n大大大量出現\n還剩：２處
+msg_questlist_sub_purpose_203_60_1	調查在紅蓮濕地發生的\n大大大量出現\n還剩：１處
+msg_questlist_sub_purpose_204_10_1	和阿米一起\n前往群青海岸
+msg_questlist_sub_purpose_204_20_1	[~ 661]
+msg_questlist_sub_purpose_204_30_1	[~ 662]
+msg_questlist_sub_purpose_204_40_1	調查在群青海岸發生的\n大大大量出現\n還剩：３處
+msg_questlist_sub_purpose_204_50_1	調查在群青海岸發生的\n大大大量出現\n還剩：２處
+msg_questlist_sub_purpose_204_60_1	調查在群青海岸發生的\n大大大量出現\n還剩：１處
+msg_questlist_sub_purpose_204_70_1	到銀杏沙灘\n與[VAR 01DC(0001)]對戰並拿下勝利
+msg_questlist_sub_purpose_205_10_1	前往位於純白凍土的秘密小洞\n將阿米委託的道具交給她
+msg_questlist_sub_purpose_205_20_1	返回祝慶村
+msg_questlist_sub_purpose_206_10_1	和阿米一起\n前往天冠山麓
+msg_questlist_sub_purpose_206_10_2	[~ 670]
+msg_questlist_sub_purpose_206_10_3	[~ 671]
+msg_questlist_sub_purpose_206_10_4	調查在天冠山麓發生的\n大大大量出現\n還剩：３處
+msg_questlist_sub_purpose_206_10_5	調查在天冠山麓發生的\n大大大量出現\n還剩：２處
+msg_questlist_sub_purpose_206_10_6	調查在天冠山麓發生的\n大大大量出現\n還剩：１處
+msg_questlist_sub_purpose_207_10_1	和阿米一起\n前往純白凍土
+msg_questlist_sub_purpose_207_20_1	[~ 676]
+msg_questlist_sub_purpose_207_30_1	[~ 677]
+msg_questlist_sub_purpose_207_40_1	調查在純白凍土發生的\n大大大量出現\n還剩：３處
+msg_questlist_sub_purpose_207_50_1	調查在純白凍土發生的\n大大大量出現\n還剩：２處
+msg_questlist_sub_purpose_207_60_1	調查在純白凍土發生的\n大大大量出現\n還剩：１處
+msg_questlist_sub_purpose_208_10_1	
+msg_questlist_sub_purpose_250_10_1	與被稱為警衛組隱藏高手的\n警衛組組員對戰\n並拿下勝利
+msg_questlist_sub_purpose_251_10_1	[~ 683]
+msg_questlist_sub_purpose_252_10_1	僅用１隻起源形態的帝牙盧卡\n在與剛石的對戰中拿下勝利
 msg_questlist_sub_purpose_253_10_1	前往心齊湖
 msg_questlist_sub_purpose_253_20_1	到心齊湖洞窟\n接受寶可夢的試煉
 msg_questlist_sub_purpose_254_10_1	前往立志湖
 msg_questlist_sub_purpose_254_20_1	到立志湖洞窟\n接受寶可夢的試煉
 msg_questlist_sub_purpose_255_10_1	前往睿智湖
 msg_questlist_sub_purpose_255_20_1	到睿智湖洞窟\n接受寶可夢的試煉
+msg_questlist_sub_purpose_256_10_1	僅用１隻起源形態的帕路奇亞\n在與珠貝的對戰中拿下勝利
+msg_questlist_sub_purpose_257_10_1	到天冠山麓玩撞氣球\n並在限時內撞破４０個氣球
+msg_questlist_sub_purpose_258_10_1	到黑金隧道\n讓不得了的寶可夢平靜下來
+msg_questlist_sub_purpose_259_10_1	[~ 694]
+msg_questlist_sub_purpose_261_10_1	用１隻大牙狸挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_262_10_1	用１隻結草貴婦挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_263_10_1	用１隻劈斧螳螂挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_264_10_1	用１隻護城龍挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_265_10_1	用１隻刺尾蟲挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_266_10_1	用１隻洛托姆挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_267_10_1	用１隻鯉魚王挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_268_10_1	用１隻裙兒小姐挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_269_10_1	用１隻伊布挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_270_10_1	用１隻圓法師挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_271_10_1	用１隻凱西挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_272_10_1	用１隻毒薔薇挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_273_10_1	用１隻狃拉挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_274_10_1	用１隻幸福蛋挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_275_10_1	用１隻羅絲雷朵挑戰\n北尚的「隻身道」\n並拿下勝利
+msg_questlist_sub_purpose_261_20_1	向警衛組的木古報告
 msg_questlist_sub_reward_farm_1	農場的田地會增加。
-msg_questlist_sub_reward_farm_2	[~ 592]
-msg_questlist_sub_reward_farm_3	[~ 593]
+msg_questlist_sub_reward_farm_2	[~ 712]
+msg_questlist_sub_reward_farm_3	[~ 713]
 msg_questlist_sub_reward_question	？？？？？？？？
 msg_questlist_sub_reward_basecamp_02_02	基地營會增加。
-msg_questlist_sub_reward_basecamp_03_02	[~ 596]
-msg_questlist_sub_reward_basecamp_04_02	[~ 597]
-msg_questlist_sub_reward_basecamp_04_03	[~ 598]
-msg_questlist_sub_reward_basecamp_05_02	[~ 599]
+msg_questlist_sub_reward_basecamp_03_02	[~ 716]
+msg_questlist_sub_reward_basecamp_04_02	[~ 717]
+msg_questlist_sub_reward_basecamp_04_03	[~ 718]
+msg_questlist_sub_reward_basecamp_05_02	[~ 719]
 msg_questlist_sub_reward_cloth_00	衣鋪的商品會增加。
 msg_questlist_sub_reward_salon_00	理髮店的髮型會增加。
 msg_questlist_sub_reward_item_shop_00	雜貨店的商品會增加。

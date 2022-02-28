@@ -708,7 +708,7 @@ msg_ui_map_01_38	Space-Time Distortion
 msg_ui_map_01_39	Fieldlands Balloon Race
 msg_ui_map_01_40	Balloon Race 2
 msg_ui_map_01_41	Coastlands Balloon Race
-msg_ui_map_01_42	Balloon Race 4
+msg_ui_map_01_42	Ultimate Balloon Race
 msg_ui_map_01_43	Icelands Balloon Race
 msg_ui_map_setumei_01	▪ Access your item storage\n▪ Take a rest or change outfits
 msg_ui_map_setumei_02	▪ Take on new requests\n▪ Have your Pokédex checked
@@ -779,6 +779,7 @@ msg_ui_map_area02_r20	Diamond Heath
 msg_ui_map_area03_r24	Aipom Hill
 msg_ui_map_area03_r25	Bathers’ Lagoon
 msg_ui_map_area03_r26	Tranquility Cove
+msg_ui_map_01_45	Massive Mass Outbreak
 net.dat
 net_sel_01	Lost & Found
 net_sel_02	Mystery Gifts
@@ -1269,6 +1270,12 @@ tips_title_1007	[~ 109]
 tips_text_1007_01	[~ 110]
 tips_title_1008	[~ 111]
 tips_text_1008_01	[~ 112]
+tips_text_1100	Massive Mass Outbreaks
+tips_text_1100_01	A massive mass outbreak is a phenomenon in which many mass\noutbreaks occur at once. Mass outbreak locations are marked by\n“?” icons on the map, and you won’t know what Pokémon can be\nfound there until you go see. These rare outbreaks will [VAR FF00(0006)]dissipate\nin time[VAR FF00(0000)], so you’ll need to hurry to investigate them!
+tips_text_1100_02	Catch or defeat Pokémon at a mass outbreak before it\ndissipates to [VAR FF00(0006)]finish investigating [VAR FF00(0000)]that particular location.\nSometimes, additional Pokémon may appear immediately\nafter you complete your investigation.
+tips_text_1101	Massive Mass Outbreaks and Aguav Berries
+tips_text_1101_01	While massive mass outbreaks are ongoing, you can give\n[VAR FF00(0006)]Aguav Berries[VAR FF00(0000)] to Mai’s Munchlax to find out what Pokémon\nare appearing at each mass outbreak location.
+tips_text_1101_02	Pokémon icons with a sparkle mark the locations of special\nmass outbreaks, while those with a Berry indicate mass\noutbreaks where you may be able to receive Aguav Berries.\nBe sure to make the most of these to help out with your\ninvestigations into massive mass outbreaks!
 advsp.dat
 advsp_cap_01	n/a
 advsp_cap_02	n/a
@@ -1366,6 +1373,8 @@ msg_ui_blost_06_01	Items that you dropped when you fainted
 msg_ui_blost_07_01	You can’t send out any requests since you aren’t\na member of the Galaxy Expedition Team!\c
 msg_ui_blost_08_01	Looks like you kept a good hold on your satchel!\nNothing to report to the Lost & Found this time.\c
 msg_ui_blost_09_01	Oh, [VAR 0201(0001)] Tempting Charm[VAR 1101(0001,0503)] iss are gone...\c
+title.dat
+msg_ver_info	[~ 0]
 trmsg.dat
 TRID_HERO_TRMSG_FIGHT_START	[~ 0]
 TRID_HERO_TRMSG_FIGHT_LOSE	[~ 1]
@@ -2363,6 +2372,8 @@ POKEMONTAMER	Volo
 CAPTAIN_NOHARA	Mai
 CAPTAIN_MORI	Lian
 CAPTAIN_MIZU	Iscan
+CAPTAIN_KUSA	Arezu
+GATEKEEPER	Ress
 trtype.dat
 MSG_TRTYPE_HERO	Pokémon Trainer
 MSG_TRTYPE_HEROINE	Pokémon Trainer
@@ -2596,6 +2607,7 @@ TRTYPE_POKEMONTAMER	Pokémon Wielder
 TRTYPE_CAPTAIN_NOHARA	Warden
 TRTYPE_CAPTAIN_MORI	Warden
 TRTYPE_CAPTAIN_MIZU	Warden
+TRTYPE_CAPTAIN_KUSA	Warden
 boxname.dat
 boxname_01	Pasture 1
 boxname_02	Pasture 2
@@ -2741,61 +2753,62 @@ str_btl_menu_03	Are you sure you want to run away?
 str_btl_menu_04	This is a serious battle! Running is not an option!
 str_btl_menu_05	You cannot use items against noble Pokémon in battle!
 str_btl_menu_06	You cannot possibly run from this battle!
-str_btl_menu_07	[~ 111]
-str_btl_menu_08	[~ 112]
-str_btl_menu_09	[~ 113]
-str_btl_menu_10	[~ 114]
-str_btl_result_11	[~ 115]
-str_btl_result_12	[~ 116]
-str_btl_result_13	[~ 117]
-str_btl_ms_01_01	[~ 118]
-str_btl_ms_01_02	[~ 119]
-str_btl_ms_01_03	[~ 120]
-str_btl_ms_01_04	[~ 121]
-str_btl_ms_01_05	[~ 122]
-str_btl_ms_01_06	[~ 123]
-str_btl_ms_01_07	[~ 124]
-str_btl_ms_01_08	[~ 125]
-str_btl_ms_01_09	[~ 126]
-str_btl_ms_02_01	[~ 127]
-str_btl_ms_02_02	[~ 128]
-str_btl_ms_02_03	[~ 129]
-str_btl_ms_03_01	[~ 130]
-str_btl_ms_03_02	[~ 131]
-str_btl_ms_03_03	[~ 132]
-str_btl_ms_03_04	[~ 133]
-str_btl_ms_03_05	[~ 134]
-str_btl_ms_03_06	[~ 135]
-str_btl_ms_03_07	[~ 136]
-str_btl_ms_04_01	[~ 137]
-str_btl_ms_04_02	[~ 138]
-str_btl_ms_04_03	[~ 139]
-str_btl_ms_04_04	[~ 140]
-str_btl_ms_04_05	[~ 141]
-str_btl_ms_04_06	[~ 142]
-str_btl_ms_05_01	[~ 143]
-str_btl_ms_05_02	[~ 144]
-str_btl_ms_05_03	[~ 145]
-str_btl_ms_06_01	[~ 146]
-str_btl_ms_06_02	[~ 147]
-str_btl_ms_06_03	[~ 148]
-str_btl_ms_06_04	[~ 149]
-str_btl_ms_06_05	[~ 150]
-str_btl_ms_06_06	[~ 151]
-str_btl_ms_06_07	[~ 152]
-str_btl_ms_06_08	[~ 153]
-str_btl_ms_06_09	[~ 154]
-str_btl_ms_07_01	[~ 155]
-str_btl_ms_08_01	[~ 156]
-str_btl_ms_08_02	[~ 157]
-str_btl_ms_08_03	[~ 158]
-str_btl_ms_09_01	[~ 159]
-str_btl_ms_09_02	[~ 160]
-str_btl_ms_10_01	[~ 161]
-str_btl_ms_10_02	[~ 162]
-str_btl_ms_10_03	[~ 163]
-str_btl_ms_dummy1	[~ 164]
-str_btl_ms_dummy2	[~ 165]
+str_btl_menu_11	You cannot use items!
+str_btl_menu_07	[~ 112]
+str_btl_menu_08	[~ 113]
+str_btl_menu_09	[~ 114]
+str_btl_menu_10	[~ 115]
+str_btl_result_11	[~ 116]
+str_btl_result_12	[~ 117]
+str_btl_result_13	[~ 118]
+str_btl_ms_01_01	[~ 119]
+str_btl_ms_01_02	[~ 120]
+str_btl_ms_01_03	[~ 121]
+str_btl_ms_01_04	[~ 122]
+str_btl_ms_01_05	[~ 123]
+str_btl_ms_01_06	[~ 124]
+str_btl_ms_01_07	[~ 125]
+str_btl_ms_01_08	[~ 126]
+str_btl_ms_01_09	[~ 127]
+str_btl_ms_02_01	[~ 128]
+str_btl_ms_02_02	[~ 129]
+str_btl_ms_02_03	[~ 130]
+str_btl_ms_03_01	[~ 131]
+str_btl_ms_03_02	[~ 132]
+str_btl_ms_03_03	[~ 133]
+str_btl_ms_03_04	[~ 134]
+str_btl_ms_03_05	[~ 135]
+str_btl_ms_03_06	[~ 136]
+str_btl_ms_03_07	[~ 137]
+str_btl_ms_04_01	[~ 138]
+str_btl_ms_04_02	[~ 139]
+str_btl_ms_04_03	[~ 140]
+str_btl_ms_04_04	[~ 141]
+str_btl_ms_04_05	[~ 142]
+str_btl_ms_04_06	[~ 143]
+str_btl_ms_05_01	[~ 144]
+str_btl_ms_05_02	[~ 145]
+str_btl_ms_05_03	[~ 146]
+str_btl_ms_06_01	[~ 147]
+str_btl_ms_06_02	[~ 148]
+str_btl_ms_06_03	[~ 149]
+str_btl_ms_06_04	[~ 150]
+str_btl_ms_06_05	[~ 151]
+str_btl_ms_06_06	[~ 152]
+str_btl_ms_06_07	[~ 153]
+str_btl_ms_06_08	[~ 154]
+str_btl_ms_06_09	[~ 155]
+str_btl_ms_07_01	[~ 156]
+str_btl_ms_08_01	[~ 157]
+str_btl_ms_08_02	[~ 158]
+str_btl_ms_08_03	[~ 159]
+str_btl_ms_09_01	[~ 160]
+str_btl_ms_09_02	[~ 161]
+str_btl_ms_10_01	[~ 162]
+str_btl_ms_10_02	[~ 163]
+str_btl_ms_10_03	[~ 164]
+str_btl_ms_dummy1	[~ 165]
+str_btl_ms_dummy2	[~ 166]
 btl_get.dat
 btl_seq.dat
 str_btl_seq_Dummy_00	\[placeholder text]
@@ -6526,6 +6539,25 @@ str_btl_seq_Trainer03_19	Hmph!\c
 str_btl_seq_Trainer01_20	I can only blame this on my lack of preparation. I can’t live with this\ndisgraceful defeat otherwise.\c
 str_btl_seq_Trainer02_20	I don’t get this! I just DON’T! You’re just some nobody—why can’t I\nbeat you?\c
 str_btl_seq_Trainer03_20	Shameful. Completely shameful for me to lose to someone like you.\c
+str_btl_seq_Trainer04_03	Bravo! Excellent!\c
+str_btl_seq_Trainer30_01	I see you’re as impressive as ever...\c
+str_btl_seq_Trainer30_02	I see you’re as impressive as ever...\nIt can be tough to decide when to use agile style or strong style.\c
+str_btl_seq_Trainer30_03	I see you’re as impressive as ever...\nAs for me, well... Maybe I need to rethink the moves I use.\c
+str_btl_seq_Trainer30_04	I should expect nothing less of someone who works for Cyllene, one of\nthe finest to ever wield a sword in all Hoenn...\c
+str_btl_seq_Trainer30_05	Toughening up your Pokémon is great, but I hope you’ll also teach the\nothers how to love them like you do...\c
+str_btl_seq_Trainer31_01	A training match to help each other become the best we can be...\nI’ll take that over a messy battle any day.\c
+str_btl_seq_Trainer31_02	It’s thanks to my Pokémon that I’ve made it as far as I have!\c
+str_btl_seq_Trainer31_03	I’d have liked to win for the sake of my Pokémon, after all the courage\nand cheer they’ve given me...\c
+str_btl_seq_Trainer31_04	Much like a ninja’s techniques, the secret to Pokémon moves is\nknowing when to use them.\c
+str_btl_seq_Trainer31_05	I s’pose when you know the path has no end, you feel the urge to test\nhow far down it you can go.\c
+str_btl_seq_Trainer32_01	I’m reminded once more just how terrifying Pokémon can be...\nBut that is nothing compared to how dependable they are!\c
+str_btl_seq_Trainer32_02	You have a strength that I can’t overcome simply by training my Pokémon.\nMost impressive!\c
+str_btl_seq_Trainer32_03	I know now that Hisui isn’t a land of terrifying Pokémon after all, but\nrather a place where we can live alongside Pokémon as friends.\c
+str_btl_seq_Trainer32_04	You must become even stronger—and always remember that kindness is\nthe foundation for strength!\c
+str_btl_seq_Trainer32_05	Hrrrm. Even giving my best, I was unable to defeat you... That leaves me\nwith only one recourse—to make my best even better!\c
+str_btl_seq_Trainer21_01	You broke through my defenses! I thought I could do better than that,\nseeing as how I’m a guardsman...\c
+str_btl_seq_Trainer13_05	What incredible strength. I’m proud to call you my protegé!\c
+str_btl_seq_Trainer14_05	There’s nothing you can’t survey with strength like that!\c
 btl_talk.dat
 msg_btl_talk_leader2_01	[~ 0]
 msg_btl_talk_leader2_02	[~ 1]
@@ -11652,6 +11684,15 @@ residents_225	Pearl Member
 residents_226	Diamond Member
 residents_227	[~ 264]
 residents_228	Bibarel
+residents_229	Pikachu
+residents_230	Leafeon
+residents_231	Glaceon
+residents_232	Munchlax
+residents_233	Skuntank
+residents_234	Glalie
+residents_235	Braviary
+residents_236	Snorlax
+residents_237	Onix
 pokelist.dat
 msg_ui_pokelist_00	[~ 0]
 msg_ui_pokelist_01	Which Pokémon do you want to swap with?
@@ -19653,6 +19694,17 @@ field_info_spray_01	Your Stealth Spray wore off!
 field_info_making_01	[~ 64]
 field_info_battle_01	Now’s your chance! Throw some balms!
 field_info_battle_02	Use the Y Button to dodge attacks!
+field_info_pokeinfo_10	You found the Pokémon that were reported!
+field_info_pokeinfo_11	The reported Pokémon seem to be gone...
+field_info_pokeinfo_12	A new horde seems to have formed...
+field_info_pokeinfo_13	The rainstorm shows no signs of stopping anytime soon.
+field_info_pokeinfo_14	The blizzard shows no signs of stopping anytime soon.
+field_info_pokeinfo_15	The rainstorm may go on a bit longer.
+field_info_pokeinfo_16	The blizzard may go on a bit longer.
+field_info_pokeinfo_17	The rainstorm seems like it’s about to clear up.
+field_info_pokeinfo_18	The blizzard seems like it’s about to clear up.
+field_info_pokeinfo_19	The rainstorm seems to have ended.
+field_info_pokeinfo_20	The blizzard seems to have ended.
 movie_skip.dat
 skip01	Skip Movie
 poke_unown.dat
@@ -22953,9 +23005,11 @@ error_comm_24	[~ 20]
 error_comm_25	[~ 21]
 error_validation_common	[~ 22]
 error_validation_http503	[~ 23]
+error_comm_26	Automatic internet connection failed.\nPlease reconnect to the internet.
+error_comm_27	Failed to connect to the internet.\nPlease try again.
 error_fatal_save_00	An error occurred.\nThe Pokémon trade did not go through.\n\nPlease press the HOME Button, and close\nthe game.
 error_fatal_save_01	The save file is corrupted.\nPlease delete the save data from your system.
-erro_fatal_storage	[~ 26]
+erro_fatal_storage	[~ 28]
 erro_fatal_backup_00	There is no backup data, so your data cannot\nbe loaded.\c\nYou’ll now be returned to the title screen.\c
 erro_fatal_backup_01	Backup data has been loaded.\c\nPlease note that this data will be saved when\nyou save the game.\c
 questlist_sub.dat
@@ -23075,272 +23129,302 @@ msg_questlist_questname_sub_116	A Token of Gratitude
 msg_questlist_questname_sub_117	The Darksome Nightmare
 msg_questlist_questname_sub_122	The Diamond Clan’s Treasure
 msg_questlist_questname_sub_123	The Pearl Clan’s Treasure
+msg_questlist_questname_sub_201	A New Anomaly
+msg_questlist_questname_sub_202	Massive Mass Outbreak in the Fieldlands
+msg_questlist_questname_sub_203	Massive Mass Outbreak in the Mirelands
+msg_questlist_questname_sub_204	Massive Mass Outbreak in the Coastlands
+msg_questlist_questname_sub_205	Tricky Treat Strategy
+msg_questlist_questname_sub_206	Massive Mass Outbreak in the Highlands
+msg_questlist_questname_sub_207	Massive Mass Outbreak in the Icelands
+msg_questlist_questname_sub_208	Daybreak
+msg_questlist_questname_sub_250	Battling the Security Corps’ Secret Weapon
+msg_questlist_questname_sub_251	[~ 125]
+msg_questlist_questname_sub_252	Adaman’s Hope
 msg_questlist_questname_sub_253	The Trial of Lake Verity
 msg_questlist_questname_sub_254	The Trial of Lake Valor
 msg_questlist_questname_sub_255	The Trial of Lake Acuity
+msg_questlist_questname_sub_256	Irida’s Wish
+msg_questlist_questname_sub_257	The Ultimate Balloon Race
+msg_questlist_questname_sub_258	Digging for Tomorrow
+msg_questlist_questname_sub_259	[~ 133]
+msg_questlist_questname_sub_261	Bidoof’s Path of Solitude
+msg_questlist_questname_sub_262	Wormadam’s Path of Solitude
+msg_questlist_questname_sub_263	Kleavor’s Path of Solitude
+msg_questlist_questname_sub_264	Bastiodon’s Path of Solitude
+msg_questlist_questname_sub_265	Wurmple’s Path of Solitude
+msg_questlist_questname_sub_266	Rotom’s Path of Solitude
+msg_questlist_questname_sub_267	Magikarp’s Path of Solitude
+msg_questlist_questname_sub_268	Lilligant’s Path of Solitude
+msg_questlist_questname_sub_269	Eevee’s Path of Solitude
+msg_questlist_questname_sub_270	Kricketot’s Path of Solitude
+msg_questlist_questname_sub_271	Abra’s Path of Solitude
+msg_questlist_questname_sub_272	Roselia’s Path of Solitude
+msg_questlist_questname_sub_273	Sneasel’s Path of Solitude
+msg_questlist_questname_sub_274	Blissey’s Path of Solitude
+msg_questlist_questname_sub_275	Roserade’s Path of Solitude
 msg_questlist_sub_outline_001	Show a Starly to Marli of the Supply Corps, who is rather\ntaken with how adorable Starly are.
-msg_questlist_sub_outline_001_255	[~ 120]
+msg_questlist_sub_outline_001_255	[~ 150]
 msg_questlist_sub_outline_002	A villager named Toshi wants you to show him a Shinx,\nsince he can’t quite seem to remember what the marks\non Shinx’s ears look like.
-msg_questlist_sub_outline_002_255	[~ 122]
+msg_questlist_sub_outline_002_255	[~ 152]
 msg_questlist_sub_outline_003	A villager named Andra is terrified of Pokémon and\nwants you to find some Oran Berries for him, since they\ncan come in handy when running from Pokémon.
-msg_questlist_sub_outline_003_255	[~ 124]
+msg_questlist_sub_outline_003_255	[~ 154]
 msg_questlist_sub_outline_004	Catch a big Buizel for Dorian of the Security Corps,\nwho wants an even bigger specimen to raise\nalongside the Buizel he already has.
-msg_questlist_sub_outline_004_255	[~ 126]
+msg_questlist_sub_outline_004_255	[~ 156]
 msg_questlist_sub_outline_005	Beauregard of the Security Corps heard about Evolution\nfrom the professor, and now Beauregard wants to evolve\na Wurmple of his own. You need to catch one for him.
-msg_questlist_sub_outline_005_255	[~ 128]
+msg_questlist_sub_outline_005_255	[~ 158]
 msg_questlist_sub_outline_006	It seems Beauregard of the Security Corps has some\nquestions about the Evolution of that Wurmple\nyou gave him. Go find out more from him.
 msg_questlist_sub_outline_006_20	Beauregard’s Wurmple has evolved into a Cascoon, but\nhe can’t distinguish it from a Silcoon! Show him an actual\nSilcoon to help out.
-msg_questlist_sub_outline_006_255	[~ 131]
+msg_questlist_sub_outline_006_255	[~ 161]
 msg_questlist_sub_outline_007	Clarissa of the Security Corps has a request, and it seems\nto have something to do with Zubat’s eyes. Go hear\nwhat she has to say!
 msg_questlist_sub_outline_007_20	Clarissa of the Security Corps is baffled by how Zubat\ncan fly about with ease when it’s pitch-black outside!\nBring a Zubat for her to examine.
-msg_questlist_sub_outline_007_255	[~ 134]
-msg_questlist_sub_outline_008	[~ 135]
+msg_questlist_sub_outline_007_255	[~ 164]
+msg_questlist_sub_outline_008	[~ 165]
 msg_questlist_sub_outline_008_10	The fellow running the target practice outside Jubilife\nVillage has issued you a challenge. You’ll get a special\nreward if you manage to score 10,000 points or more.
-msg_questlist_sub_outline_008_255	[~ 137]
+msg_questlist_sub_outline_008_255	[~ 167]
 msg_questlist_sub_outline_009	A villager named Radisa is hoping a Geodude would be\njust the right weight to use as a pickling stone. Catch\none for her to test out her theory.
-msg_questlist_sub_outline_009_255	[~ 139]
+msg_questlist_sub_outline_009_255	[~ 169]
 msg_questlist_sub_outline_010	A village boy named Sho is convinced you need a\npartner Pokémon to become an awesome member\nof the Galaxy Team. He wants some Poké Balls.
-msg_questlist_sub_outline_010_255	[~ 141]
-msg_questlist_sub_outline_011	[~ 142]
+msg_questlist_sub_outline_010_255	[~ 171]
+msg_questlist_sub_outline_011	[~ 172]
 msg_questlist_sub_outline_011_10	Dagero, who runs the photography studio, thinks a\nPokémon that wandered into his photo would make\nan excellent subject. He wants you to catch one.
-msg_questlist_sub_outline_011_255	[~ 144]
+msg_questlist_sub_outline_011_255	[~ 174]
 msg_questlist_sub_outline_012	It seems that some mischievous Bidoof have been\ncausing quite a lot of trouble around the village lately.\nGet the details from Tsumugi of the Security Corps.
 msg_questlist_sub_outline_012_20	Three trouble-making Bidoof have invaded the village!\nTsumugi from the Security Corps needs your help to\ncatch them all.
-msg_questlist_sub_outline_012_255	[~ 147]
+msg_questlist_sub_outline_012_255	[~ 177]
 msg_questlist_sub_outline_013	Bjorn of the Agriculture Corps wants you to get a\nCheri Berry for him. He says he’ll give you a helpful\ntip if you’re able to grant his wish...
-msg_questlist_sub_outline_013_255	[~ 149]
+msg_questlist_sub_outline_013_255	[~ 179]
 msg_questlist_sub_outline_014_10	Sanqua, the captain of the Construction Corps, says\nthat strange things are happening in her house at night.\nShe wants you to find out what is going on.
-msg_questlist_sub_outline_014_20	[~ 151]
-msg_questlist_sub_outline_014_30	[~ 152]
-msg_questlist_sub_outline_014_40	[~ 153]
+msg_questlist_sub_outline_014_20	[~ 181]
+msg_questlist_sub_outline_014_30	[~ 182]
+msg_questlist_sub_outline_014_40	[~ 183]
 msg_questlist_sub_outline_015_10	Floaro of the Construction Corps wants to discuss\nEevee’s evolution. You should go and have a chat\nwith him.
 msg_questlist_sub_outline_015_20	Floaro of the Construction Corps wants you to find his\nEevee, which has gone missing.
-msg_questlist_sub_outline_015_30	[~ 156]
-msg_questlist_sub_outline_015_255	[~ 157]
+msg_questlist_sub_outline_015_30	[~ 186]
+msg_questlist_sub_outline_015_255	[~ 187]
 msg_questlist_sub_outline_016	A villager named Paira wants you to catch the\nwill-o’-the-wisp she saw on Windswept Run to\nprove to Waka that she’s telling the truth.
 msg_questlist_sub_outline_016_20	It turns out the will-o’-the-wisp was a Chimchar all along!\nCatch one so you can show it to Paira in the village\nat night, when its tail can be seen glowing in the dark.
-msg_questlist_sub_outline_016_255	[~ 160]
+msg_questlist_sub_outline_016_255	[~ 190]
 msg_questlist_sub_outline_017	Go have a chat with Morel, a local fungus expert,\nand investigate the mushroom on Parasect’s\nback together.
-msg_questlist_sub_outline_017_20	[~ 162]
-msg_questlist_sub_outline_017_30	[~ 163]
-msg_questlist_sub_outline_017_40	[~ 164]
-msg_questlist_sub_outline_017_255	[~ 165]
+msg_questlist_sub_outline_017_20	[~ 192]
+msg_questlist_sub_outline_017_30	[~ 193]
+msg_questlist_sub_outline_017_40	[~ 194]
+msg_questlist_sub_outline_017_255	[~ 195]
 msg_questlist_sub_outline_018	There was a request regarding a rare Ponyta. Go get the\ndetails from Yota, one of the local villagers in Jubilife.
 msg_questlist_sub_outline_018_20	Yota is alarmed by the unusual Ponyta that frequents the\nHorseshoe Plains. He wants you to catch it for him.
 msg_questlist_sub_outline_018_30	The strange Ponyta spotted on Horseshoe Plains turned\nout to be a Shiny Ponyta. Mystery solved!
-msg_questlist_sub_outline_018_40	[~ 169]
-msg_questlist_sub_outline_018_255	[~ 170]
+msg_questlist_sub_outline_018_40	[~ 199]
+msg_questlist_sub_outline_018_255	[~ 200]
 msg_questlist_sub_outline_019	It appears that a Drifloon has been sighted playing with\none of the village children. Go speak to Miki of the\nSecurity Corps for details.
-msg_questlist_sub_outline_019_20	[~ 172]
-msg_questlist_sub_outline_019_30_40_50	[~ 173]
-msg_questlist_sub_outline_019_60	[~ 174]
-msg_questlist_sub_outline_019_255	[~ 175]
+msg_questlist_sub_outline_019_20	[~ 202]
+msg_questlist_sub_outline_019_30_40_50	[~ 203]
+msg_questlist_sub_outline_019_60	[~ 204]
+msg_questlist_sub_outline_019_255	[~ 205]
 msg_questlist_sub_outline_020_10	The man running the balloon race in the Obsidian\nFieldlands has issued you a challenge. You’ll get a\nspecial reward if you manage to burst 17 balloons.
-msg_questlist_sub_outline_020_255	[~ 177]
+msg_questlist_sub_outline_020_255	[~ 207]
 msg_questlist_sub_outline_021	Miller from the Agriculture Corps says the ground is\ntoo hard to plow. He wants to borrow a Pokémon to\nhelp with plowing the land to prepare it for planting.
-msg_questlist_sub_outline_021_255	[~ 179]
+msg_questlist_sub_outline_021_255	[~ 209]
 msg_questlist_sub_outline_022_10	Choy from the general store wants you to convince\nTao Hua, captain of the Supply Corps, to sell him some\nnew wares for his shop.
-msg_questlist_sub_outline_022_20	[~ 181]
-msg_questlist_sub_outline_022_30	[~ 182]
-msg_questlist_sub_outline_022_255	[~ 183]
+msg_questlist_sub_outline_022_20	[~ 211]
+msg_questlist_sub_outline_022_30	[~ 212]
+msg_questlist_sub_outline_022_255	[~ 213]
 msg_questlist_sub_outline_023_10	The clothier Anthe wants you to show her a Wormadam,\nhoping the sight will inspire her to come up with some\nnew clothing designs.
-msg_questlist_sub_outline_023_255	[~ 185]
+msg_questlist_sub_outline_023_255	[~ 215]
 msg_questlist_sub_outline_024_10	Dagero from the photography studio captured\nanother strange Pokémon in one of his photos.\nHe wants you to identify it and catch one for him.
-msg_questlist_sub_outline_024_255	[~ 187]
+msg_questlist_sub_outline_024_255	[~ 217]
 msg_questlist_sub_outline_025	Shinon wants to make some medicine and asks you to\ncollect the materials needed. Apparently Anise of the\nMedical Corps can tell you what you need to find.
 msg_questlist_sub_outline_025_20	Anise of the Medical Corps filled you in on what you\nneed to find to make medicine. Seems you can find\nthe materials in the Crimson Mirelands, but...
-msg_questlist_sub_outline_025_255	[~ 190]
+msg_questlist_sub_outline_025_255	[~ 220]
 msg_questlist_sub_outline_026	Martia of the Diamond Clan lives with Psyduck and wants\nyou to find some medicine that might help alleviate the\nheadaches they chronically suffer from.
-msg_questlist_sub_outline_026_20	[~ 192]
-msg_questlist_sub_outline_026_255	[~ 193]
+msg_questlist_sub_outline_026_20	[~ 222]
+msg_questlist_sub_outline_026_255	[~ 223]
 msg_questlist_sub_outline_027_10	A villager named Zeke wants you to find his sister,\nWanda. She’s a member of the Security Corps, and she\nseems to have gone missing in the Crimson Mirelands.
-msg_questlist_sub_outline_027_20	[~ 195]
-msg_questlist_sub_outline_027_255	[~ 196]
-msg_questlist_sub_outline_029_10	[~ 197]
-msg_questlist_sub_outline_029_255	[~ 198]
+msg_questlist_sub_outline_027_20	[~ 225]
+msg_questlist_sub_outline_027_255	[~ 226]
+msg_questlist_sub_outline_029_10	[~ 227]
+msg_questlist_sub_outline_029_255	[~ 228]
 msg_questlist_sub_outline_030	Floaro of the Construction Corps is thinking of cooking\na treat from his homeland to try to win over an Eevee,\nand he has asked you to gather some ingredients.
-msg_questlist_sub_outline_030_255	[~ 200]
+msg_questlist_sub_outline_030_255	[~ 230]
 msg_questlist_sub_outline_031_10	It seems the Construction Corps could use some help\nsetting up the new Bogbound Camp. Head to the site\nand see if you can be of help.
-msg_questlist_sub_outline_031_255	[~ 202]
+msg_questlist_sub_outline_031_255	[~ 232]
 msg_questlist_sub_outline_032_10	A villager named Odo is worried about a Sudowoodo\nthat seems to be under the weather. He wants your\nadvice on what to do.
 msg_questlist_sub_outline_032_20	You’ve been tasked with finding a Pokémon that can\nuse Water Pulse to help perk up the Sudowoodo at the\nBogbound Camp in the Crimson Mirelands.
-msg_questlist_sub_outline_032_21	[~ 205]
-msg_questlist_sub_outline_032_255	[~ 206]
+msg_questlist_sub_outline_032_21	[~ 235]
+msg_questlist_sub_outline_032_255	[~ 236]
 msg_questlist_sub_outline_033_10	Collect the 107 wisps scattered around the Hisui region\nto seal away the “being who brought calamities” that the\nyoung girl in the village told you of.
 msg_questlist_sub_outline_033_20	You’ve collected all 107 wisps, but it seems there is one\nlast thing you must do to complete the seal. Go to the\nShrouded Ruins at night to meet the young girl there.
 msg_questlist_sub_outline_033_30	The young girl possessed the final wisp. She told you to\ngather the full 108 wisps together in the Odd Keystone\nbefore disappearing into the night...
 msg_questlist_sub_outline_034_10	A villager named Belamy says you remind him of his\ngrandmother. He wants you to show him that you\ncan likewise befriend Pokémon as she could.
-msg_questlist_sub_outline_034_255	[~ 211]
+msg_questlist_sub_outline_034_255	[~ 241]
 msg_questlist_sub_outline_035_10	Kichi of the Agriculture Corps wants an explanation\nfor Cherrim’s changeable appearance. He wants to see\na completed Pokédex entry for Cherrim.
-msg_questlist_sub_outline_035_255	[~ 213]
+msg_questlist_sub_outline_035_255	[~ 243]
 msg_questlist_sub_outline_036_10	That villager named Andra wants your help again, this\ntime about a Mr. Mime that’s behaving suspiciously.
-msg_questlist_sub_outline_036_20_40	[~ 215]
-msg_questlist_sub_outline_036_30_50	[~ 216]
-msg_questlist_sub_outline_036_60	[~ 217]
-msg_questlist_sub_outline_036_255	[~ 218]
+msg_questlist_sub_outline_036_20_40	[~ 245]
+msg_questlist_sub_outline_036_30_50	[~ 246]
+msg_questlist_sub_outline_036_60	[~ 247]
+msg_questlist_sub_outline_036_255	[~ 248]
 msg_questlist_sub_outline_037_10	Music lover Yeo is captivated by the sound she hears\ncoming from the Kricketot in the Obsidian Fieldlands.\nFill in Kricketot’s Pokédex page and show it to her!
-msg_questlist_sub_outline_037_255	[~ 220]
+msg_questlist_sub_outline_037_255	[~ 250]
 msg_questlist_sub_outline_038_10	A villager named Morel wants everyone to know about\nthe crafting recipe he invented using mushrooms.\nTo that end, he says he’ll teach the recipe to you!
-msg_questlist_sub_outline_038_255	[~ 222]
+msg_questlist_sub_outline_038_255	[~ 252]
 msg_questlist_sub_outline_039_10	Almous of the Agriculture Corps has a request for\nyou regarding the flavor of honey produced by Combee.\nGo speak to him, and see what you need to do.
-msg_questlist_sub_outline_039_20_30_40	[~ 224]
-msg_questlist_sub_outline_039_255	[~ 225]
-msg_questlist_sub_outline_040_10	[~ 226]
-msg_questlist_sub_outline_040_255	[~ 227]
+msg_questlist_sub_outline_039_20_30_40	[~ 254]
+msg_questlist_sub_outline_039_255	[~ 255]
+msg_questlist_sub_outline_040_10	[~ 256]
+msg_questlist_sub_outline_040_255	[~ 257]
 msg_questlist_sub_outline_041	To expand the fields, more irrigation is needed. Lend a\nPokémon that can help with the task to Miller from the\nAgriculture Corps.
-msg_questlist_sub_outline_041_255	[~ 229]
-msg_questlist_sub_outline_042_10	[~ 230]
-msg_questlist_sub_outline_042_20	[~ 231]
-msg_questlist_sub_outline_042_30	[~ 232]
-msg_questlist_sub_outline_042_255	[~ 233]
+msg_questlist_sub_outline_041_255	[~ 259]
+msg_questlist_sub_outline_042_10	[~ 260]
+msg_questlist_sub_outline_042_20	[~ 261]
+msg_questlist_sub_outline_042_30	[~ 262]
+msg_questlist_sub_outline_042_255	[~ 263]
 msg_questlist_sub_outline_043_10	Berra, a villager, has been utterly captivated by Roselia’s\nelegance and wishes to learn more about this Pokémon.\nComplete Roselia’s Pokédex page, and show it to Berra!
-msg_questlist_sub_outline_043_255	[~ 235]
+msg_questlist_sub_outline_043_255	[~ 265]
 msg_questlist_sub_outline_044_10	Dagero from the photography studio suspects that the\npair of leaves in one of his landscape photos is actually\na Pokémon and wants you to confirm this for him.
-msg_questlist_sub_outline_044_255	[~ 237]
+msg_questlist_sub_outline_044_255	[~ 267]
 msg_questlist_sub_outline_045_10	Shellos can look different depending on where they live,\nand the clothier Anthe thinks seeing that will inspire her.\nShow her two Shellos with different appearances.
-msg_questlist_sub_outline_045_255	[~ 239]
+msg_questlist_sub_outline_045_255	[~ 269]
 msg_questlist_sub_outline_046_10	Yojiro wants you to find his charm that he lost while\nbeing chased by an alpha Hippowdon.
-msg_questlist_sub_outline_046_11	[~ 241]
-msg_questlist_sub_outline_046_255	[~ 242]
+msg_questlist_sub_outline_046_11	[~ 271]
+msg_questlist_sub_outline_046_255	[~ 272]
 msg_questlist_sub_outline_047	Netta of the Security Corps says she spotted a Pokémon\nwith two tail fins and would like to see it once more.\nTry to catch one, and show it to her.
-msg_questlist_sub_outline_047_255	[~ 244]
+msg_questlist_sub_outline_047_255	[~ 274]
 msg_questlist_sub_outline_048	A villager named Asabei saw the tail of a Pokémon hiding\nbehind some rocks and was captivated by its elegant\nmovements. He wants you to show him this Pokémon.
-msg_questlist_sub_outline_048_255	[~ 246]
+msg_questlist_sub_outline_048_255	[~ 276]
 msg_questlist_sub_outline_049_10_20_30	Hiko from the village had his pack stolen by some\nAipom. He wants you to chase down the Aipom and get\nhis pack back.
-msg_questlist_sub_outline_049_31	[~ 248]
-msg_questlist_sub_outline_049_255	[~ 249]
+msg_questlist_sub_outline_049_31	[~ 278]
+msg_questlist_sub_outline_049_255	[~ 279]
 msg_questlist_sub_outline_050_10	Radisa from the village sees culinary potential in Octillery\nink, and she wants to try using it to make a new dish.\nComplete Octillery’s Pokédex page, and show it to her.
-msg_questlist_sub_outline_050_255	[~ 251]
+msg_questlist_sub_outline_050_255	[~ 281]
 msg_questlist_sub_outline_051_10	Gully of the Supply Corps wants you to find the missing\nYorrich and tell him to return to where she’s waiting.\nHe doesn’t seem to have gone to Deadwood Haunt...
-msg_questlist_sub_outline_051_11	[~ 253]
-msg_questlist_sub_outline_051_20	[~ 254]
-msg_questlist_sub_outline_051_255	[~ 255]
-msg_questlist_sub_outline_052_10	[~ 256]
-msg_questlist_sub_outline_052_20	[~ 257]
-msg_questlist_sub_outline_052_255	[~ 258]
+msg_questlist_sub_outline_051_11	[~ 283]
+msg_questlist_sub_outline_051_20	[~ 284]
+msg_questlist_sub_outline_051_255	[~ 285]
+msg_questlist_sub_outline_052_10	[~ 286]
+msg_questlist_sub_outline_052_20	[~ 287]
+msg_questlist_sub_outline_052_255	[~ 288]
 msg_questlist_sub_outline_053_10	It seems Ren from the Security Corps has a request\nconcerning how to command a Pachirisu in battle.
-msg_questlist_sub_outline_053_20	[~ 260]
-msg_questlist_sub_outline_053_255	[~ 261]
+msg_questlist_sub_outline_053_20	[~ 290]
+msg_questlist_sub_outline_053_255	[~ 291]
 msg_questlist_sub_outline_054_10	A little girl in the village named Ceci has asked you to\nteach her more about Magikarp.
-msg_questlist_sub_outline_054_255	[~ 263]
+msg_questlist_sub_outline_054_255	[~ 293]
 msg_questlist_sub_outline_056_10	Maris of the Supply Corps wants to help a Piplup that’s\ntoo famished to move. She’s asked you to help her out\nby providing a tasty Bean Cake.
-msg_questlist_sub_outline_056_20	[~ 265]
-msg_questlist_sub_outline_056_255	[~ 266]
+msg_questlist_sub_outline_056_20	[~ 295]
+msg_questlist_sub_outline_056_255	[~ 296]
 msg_questlist_sub_outline_057_10	Zeke from the village wants you to find his sister,\nWanda, once again. She seems to have gone missing\nin the Cobalt Coastlands this time.
-msg_questlist_sub_outline_057_20	[~ 268]
-msg_questlist_sub_outline_057_255	[~ 269]
+msg_questlist_sub_outline_057_20	[~ 298]
+msg_questlist_sub_outline_057_255	[~ 299]
 msg_questlist_sub_outline_058_10	It seems that Pesselle, captain of the Medical Corps,\ncan make medicine using Croagunk’s poison. Ask her\nfor more information so you can help her out.
-msg_questlist_sub_outline_058_20	[~ 271]
-msg_questlist_sub_outline_058_255	[~ 272]
+msg_questlist_sub_outline_058_20	[~ 301]
+msg_questlist_sub_outline_058_255	[~ 302]
 msg_questlist_sub_outline_059_10	On Ramanas Island, Hiemo asked you to bring him a\nPokémon with a scythe on each arm.
 msg_questlist_sub_outline_060_10	The man running the balloon race in the Cobalt\nCoastlands has issued you a challenge. You’ll get a\nspecial reward if you manage to burst 24 balloons.
-msg_questlist_sub_outline_060_255	[~ 275]
+msg_questlist_sub_outline_060_255	[~ 305]
 msg_questlist_sub_outline_061	Miller from the Agriculture Corps wants to expand\nthe fields even more, but a giant boulder is in the way!\nLend him a Pokémon that can smash up the boulder.
-msg_questlist_sub_outline_062_10	[~ 277]
-msg_questlist_sub_outline_062_20	[~ 278]
-msg_questlist_sub_outline_062_30	[~ 279]
-msg_questlist_sub_outline_062_255	[~ 280]
+msg_questlist_sub_outline_062_10	[~ 307]
+msg_questlist_sub_outline_062_20	[~ 308]
+msg_questlist_sub_outline_062_30	[~ 309]
+msg_questlist_sub_outline_062_255	[~ 310]
 msg_questlist_sub_outline_063_10	Arezu thinks she might take inspiration from a good look\nat a Misdreavus. She wants you to show her one so she\ncan create some new hairstyles.
-msg_questlist_sub_outline_063_255	[~ 282]
+msg_questlist_sub_outline_063_255	[~ 312]
 msg_questlist_sub_outline_064_10	A villager named Risa wants you to find a Pokémon\nthat she remembers from back home. It’s covered\nin herbs shaped like blue vines.
-msg_questlist_sub_outline_064_255	[~ 284]
+msg_questlist_sub_outline_064_255	[~ 314]
 msg_questlist_sub_outline_065_10	Bosley wants to know more about Machoke so he can\nhave it help with the Construction Corps’ work. Show him\nMachoke’s Pokédex page after it’s completed.
 msg_questlist_sub_outline_065_20	After reading Machoke’s page in your Pokédex, Bosley\nfrom the Construction Corps is ready to negotiate with\nthe Machoke. Stand by while he does.
-msg_questlist_sub_outline_065_255	[~ 287]
+msg_questlist_sub_outline_065_255	[~ 317]
 msg_questlist_sub_outline_066	You’ve taken on a request that has something to do\nwith an old saying about Nosepass. Speak with Gully\nof the Supply Corps to find out more.
 msg_questlist_sub_outline_066_255	There’s an old saying that “A Nosepass never wanders.”\nGully of the Supply Corps therefore asks for a Nosepass\nto keep her from getting lost in Wayward Cave.
-msg_questlist_sub_outline_067	[~ 290]
-msg_questlist_sub_outline_067_20	[~ 291]
-msg_questlist_sub_outline_067_255	[~ 292]
+msg_questlist_sub_outline_067	[~ 320]
+msg_questlist_sub_outline_067_20	[~ 321]
+msg_questlist_sub_outline_067_255	[~ 322]
 msg_questlist_sub_outline_068_10	The clothier Anthe wants to create clothes in new colors\nand has sent you in search of the materials she needs to\ndo so.
-msg_questlist_sub_outline_068_255	[~ 294]
+msg_questlist_sub_outline_068_255	[~ 324]
 msg_questlist_sub_outline_069_10	A villager named Ward claims his son Conlan is afraid of\nghosts. To help him overcome his fear, Ward has asked\nyou to show him Gastly’s completed Pokédex page.
-msg_questlist_sub_outline_069_255	[~ 296]
+msg_questlist_sub_outline_069_255	[~ 326]
 msg_questlist_sub_outline_070_10	Anvin from the craftworks has asked you to show him\na Pokéshi Doll you’ve crafted with your own hands.
 msg_questlist_sub_outline_071_10	A Bronzor is getting in the way of a new base camp’s\nconstruction and seems to want to tell you something.\nEshim has asked you to investigate.
-msg_questlist_sub_outline_071_255	[~ 299]
-msg_questlist_sub_outline_072_10	[~ 300]
-msg_questlist_sub_outline_072_20	[~ 301]
-msg_questlist_sub_outline_072_30	[~ 302]
-msg_questlist_sub_outline_072_255	[~ 303]
+msg_questlist_sub_outline_071_255	[~ 329]
+msg_questlist_sub_outline_072_10	[~ 330]
+msg_questlist_sub_outline_072_20	[~ 331]
+msg_questlist_sub_outline_072_30	[~ 332]
+msg_questlist_sub_outline_072_255	[~ 333]
 msg_questlist_sub_outline_073_10	It seems Astair of the Supply Corps wants you to find\nout more about Clefairy’s behavior.
 msg_questlist_sub_outline_073_20	Astair of the Supply Corps says that Clefairy dance on\nnights with a full moon where he comes from. Investigate\nwhether they dance here in Hisui.
-msg_questlist_sub_outline_073_30	[~ 306]
-msg_questlist_sub_outline_073_40	[~ 307]
-msg_questlist_sub_outline_073_50	[~ 308]
-msg_questlist_sub_outline_073_255	[~ 309]
+msg_questlist_sub_outline_073_30	[~ 336]
+msg_questlist_sub_outline_073_40	[~ 337]
+msg_questlist_sub_outline_073_50	[~ 338]
+msg_questlist_sub_outline_073_255	[~ 339]
 msg_questlist_sub_outline_074_10	The clothier Anthe has asked you to show her a male and\na female Hippopotas since she heard that they each\nhave different appearances.
-msg_questlist_sub_outline_074_255	[~ 311]
-msg_questlist_sub_outline_075_10	[~ 312]
-msg_questlist_sub_outline_075_255	[~ 313]
+msg_questlist_sub_outline_074_255	[~ 341]
+msg_questlist_sub_outline_075_10	[~ 342]
+msg_questlist_sub_outline_075_255	[~ 343]
 msg_questlist_sub_outline_076_10	Zeke from the village wants you to find his sister,\nWanda, once again. She seems to have gone missing\nin the Coronet Highlands this time.
-msg_questlist_sub_outline_076_20	[~ 315]
-msg_questlist_sub_outline_076_255	[~ 316]
+msg_questlist_sub_outline_076_20	[~ 345]
+msg_questlist_sub_outline_076_255	[~ 346]
 msg_questlist_sub_outline_077_10	Zeke from the village wants you to find his sister,\nWanda, yet again. This time she has somehow gotten\nlost in the Obsidian Fieldlands right outside the village.
-msg_questlist_sub_outline_077_20	[~ 318]
-msg_questlist_sub_outline_077_21	[~ 319]
-msg_questlist_sub_outline_077_255	[~ 320]
-msg_questlist_sub_outline_079_10	[~ 321]
-msg_questlist_sub_outline_079_255	[~ 322]
-msg_questlist_sub_outline_080_10	[~ 323]
-msg_questlist_sub_outline_080_255	[~ 324]
-msg_questlist_sub_outline_082_10	[~ 325]
-msg_questlist_sub_outline_082_20	[~ 326]
-msg_questlist_sub_outline_082_30	[~ 327]
-msg_questlist_sub_outline_082_255	[~ 328]
+msg_questlist_sub_outline_077_20	[~ 348]
+msg_questlist_sub_outline_077_21	[~ 349]
+msg_questlist_sub_outline_077_255	[~ 350]
+msg_questlist_sub_outline_079_10	[~ 351]
+msg_questlist_sub_outline_079_255	[~ 352]
+msg_questlist_sub_outline_080_10	[~ 353]
+msg_questlist_sub_outline_080_255	[~ 354]
+msg_questlist_sub_outline_082_10	[~ 355]
+msg_questlist_sub_outline_082_20	[~ 356]
+msg_questlist_sub_outline_082_30	[~ 357]
+msg_questlist_sub_outline_082_255	[~ 358]
 msg_questlist_sub_outline_083_10	Arezu thinks she might take inspiration from a good look\nat a Kirlia. She wants you to show her one so she can\ncreate some new hairstyles.
-msg_questlist_sub_outline_083_255	[~ 330]
+msg_questlist_sub_outline_083_255	[~ 360]
 msg_questlist_sub_outline_084_10	Radisa from the village believes she’s come up with the\nperfect pickle recipe and has asked you to gather the\ningredients before she’ll teach it to you.
-msg_questlist_sub_outline_084_255	[~ 332]
+msg_questlist_sub_outline_084_255	[~ 362]
 msg_questlist_sub_outline_085_10	Morel from the village is at Heart’s Crag in the Alabaster\nIcelands, and he seems to have a request for you\nconcerning a special skill of Swinub’s.
-msg_questlist_sub_outline_085_15_20_30	[~ 334]
-msg_questlist_sub_outline_085_40	[~ 335]
-msg_questlist_sub_outline_085_255	[~ 336]
+msg_questlist_sub_outline_085_15_20_30	[~ 364]
+msg_questlist_sub_outline_085_40	[~ 365]
+msg_questlist_sub_outline_085_255	[~ 366]
 msg_questlist_sub_outline_086_10	Mani from the Ginkgo Guild says his ancestors may\nhave once lived at the Avalanche Slopes in the Alabaster\nIcelands. See if you can find traces of a village there.
 msg_questlist_sub_outline_086_20	You found a torn journal at the Avalanche Slopes. You\nmight find out more information about the village you’re\nseeking if you track down the missing parts of the journal.
 msg_questlist_sub_outline_086_30	You put the old journal back together using the pages\nthat Froslass dropped. The journal mentions a village\nthat used to be at the Avalanche Slopes.
-msg_questlist_sub_outline_086_255	[~ 340]
-msg_questlist_sub_outline_087_010	[~ 341]
-msg_questlist_sub_outline_087_020	[~ 342]
-msg_questlist_sub_outline_087_030	[~ 343]
-msg_questlist_sub_outline_087_040	[~ 344]
-msg_questlist_sub_outline_087_255	[~ 345]
-msg_questlist_sub_outline_088	[~ 346]
+msg_questlist_sub_outline_086_255	[~ 370]
+msg_questlist_sub_outline_087_010	[~ 371]
+msg_questlist_sub_outline_087_020	[~ 372]
+msg_questlist_sub_outline_087_030	[~ 373]
+msg_questlist_sub_outline_087_040	[~ 374]
+msg_questlist_sub_outline_087_255	[~ 375]
+msg_questlist_sub_outline_088	[~ 376]
 msg_questlist_sub_outline_088_10	Leif, Duna, and Tarush in the village can’t agree on which\nform of Burmy is the real one. Each of them has asked\nyou to show them a different Burmy.
-msg_questlist_sub_outline_088_20	[~ 348]
-msg_questlist_sub_outline_088_255	[~ 349]
+msg_questlist_sub_outline_088_20	[~ 378]
+msg_questlist_sub_outline_088_255	[~ 379]
 msg_questlist_sub_outline_089_10	It seems Pippa of the Supply Corps has a request\nconcerning Blissey, a Pokémon that once came to\nher aid.
-msg_questlist_sub_outline_089_20	[~ 351]
-msg_questlist_sub_outline_089_21	[~ 352]
-msg_questlist_sub_outline_089_255	[~ 353]
+msg_questlist_sub_outline_089_20	[~ 381]
+msg_questlist_sub_outline_089_21	[~ 382]
+msg_questlist_sub_outline_089_255	[~ 383]
 msg_questlist_sub_outline_090_10	Pesselle of the Medical Corps has asked you to bring\nher a hundred Medicinal Leeks.
-msg_questlist_sub_outline_090_255	[~ 355]
+msg_questlist_sub_outline_090_255	[~ 385]
 msg_questlist_sub_outline_091_10	Brice of the Supply Corps wants you to find Craig. They\nwere to meet at the base of the falls in the Alabaster\nIcelands, yet he hasn’t shown...
-msg_questlist_sub_outline_091_20	[~ 357]
-msg_questlist_sub_outline_091_255	[~ 358]
+msg_questlist_sub_outline_091_20	[~ 387]
+msg_questlist_sub_outline_091_255	[~ 388]
 msg_questlist_sub_outline_092_10	Keaka, a Security Corps member from the Alola region,\nhas some peculiar Vulpix that he calls Keokeo. Go\nask him about them so you can help with his request.
-msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 360]
-msg_questlist_sub_outline_092_255	[~ 361]
+msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 390]
+msg_questlist_sub_outline_092_255	[~ 391]
 msg_questlist_sub_outline_093_10	Brice of the Supply Corps is working at the chilly\nIcepeak Camp and wants a Fire-type Pokémon.
-msg_questlist_sub_outline_093_255	[~ 363]
+msg_questlist_sub_outline_093_255	[~ 393]
 msg_questlist_sub_outline_094_10	It seems that a wild Chimecho has made itself at home\nunder the eaves of one of the village houses. Talk to a\nvillager named Ida to find out more.
-msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 365]
-msg_questlist_sub_outline_094_255	[~ 366]
+msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 395]
+msg_questlist_sub_outline_094_255	[~ 396]
 msg_questlist_sub_outline_095_10	Dominia from the Pearl Clan is a big fan of Bergmite and\nhas asked you to show her Bergmite’s completed\nPokédex page so she can verify its information.
-msg_questlist_sub_outline_095_255	[~ 368]
+msg_questlist_sub_outline_095_255	[~ 398]
 msg_questlist_sub_outline_096_10	Wanda of the Security Corps wants you to find her\nbrother, the villager Zeke, who went looking for her in\nthe Alabaster Icelands.
-msg_questlist_sub_outline_096_20	[~ 370]
-msg_questlist_sub_outline_096_255	[~ 371]
+msg_questlist_sub_outline_096_20	[~ 400]
+msg_questlist_sub_outline_096_255	[~ 401]
 msg_questlist_sub_outline_097_10	Bonn from the candy stand has decided to teach you a\nrecipe of his that was shelved due to complaints from\nhis customers.
-msg_questlist_sub_outline_097_255	[~ 373]
+msg_questlist_sub_outline_097_255	[~ 403]
 msg_questlist_sub_outline_098_10	Rye from the village wants you to battle with him and\nhis partner, Lucario.
-msg_questlist_sub_outline_098_11	[~ 375]
-msg_questlist_sub_outline_098_255	[~ 376]
+msg_questlist_sub_outline_098_11	[~ 405]
+msg_questlist_sub_outline_098_255	[~ 406]
 msg_questlist_sub_outline_099_10	A villager named Senki has asked you to look for his\nSpheal that went rolling off into Bolderoll Ravine.
-msg_questlist_sub_outline_099_50	[~ 378]
-msg_questlist_sub_outline_099_255	[~ 379]
+msg_questlist_sub_outline_099_50	[~ 408]
+msg_questlist_sub_outline_099_255	[~ 409]
 msg_questlist_sub_outline_100_10	The man running the balloon race in the Alabaster\nIcelands has issued you a challenge. You’ll get a\nspecial reward if you manage to burst 30 balloons.
-msg_questlist_sub_outline_100_255	[~ 381]
+msg_questlist_sub_outline_100_255	[~ 411]
 msg_questlist_sub_outline_110_10	A huge shadow has been seen in the Cobalt Coastlands.\nAccording to Professor Laventon, there’s a strong chance\nit is Giratina, the fearsome Pokémon you once battled.
 msg_questlist_sub_outline_114_10	Legend has it that Hisui is home to a group of Pokémon\nsaid to be forces of nature incarnate. Investigate them\nto bring your Pokédex closer to completion.
 msg_questlist_sub_outline_115_10	The Pokémon that Professor Laventon saw in the ocean\nmight be connected to the Pokémon that appears in\n“The Sea’s Legend”...
@@ -23348,29 +23432,59 @@ msg_questlist_sub_outline_116_10	Help Medi of the Diamond Clan find the rare Pok
 msg_questlist_sub_outline_117_10	Get more details from Cael of the Pearl Clan about the\nterrifying Pokémon he saw and find out its location so\nyou can survey it.
 msg_questlist_sub_outline_122_10	Adaman of the Diamond Clan has challenged you to\na battle. Claim victory against him to find out more\nabout the treasure he mentioned.
 msg_questlist_sub_outline_123_10	Irida of the Pearl Clan has challenged you to a battle.\nClaim victory against her to find out more about the\ntreasure she mentioned.
+msg_questlist_sub_outline_201	Mai has asked you to research a spot that Munchlax is\ncurious about.
+msg_questlist_sub_outline_202	Mai is counting on you to do some investigating.
+msg_questlist_sub_outline_203	Mai is counting on you to do some investigating.
+msg_questlist_sub_outline_204	Mai is counting on you to do some investigating.
+msg_questlist_sub_outline_205	Mai has asked you to bring some Mushroom Cakes\nto the Secret Hollow in the Alabaster Icelands.
+msg_questlist_sub_outline_206	Mai is counting on you to do some investigating.
+msg_questlist_sub_outline_207	Mai is counting on you to do some investigating.
+msg_questlist_sub_outline_208	Adaman and Irida took you to the Obsidian Fieldlands\nfor a view of the sunrise.
+msg_questlist_sub_outline_250	Zisu has suggested that you have a battle with a\nlittle-known, skilled battler in the Security Corps.
+msg_questlist_sub_outline_251	[~ 428]
+msg_questlist_sub_outline_252	Adaman has asked to battle Origin Forme Dialga.
 msg_questlist_sub_outline_253	If you hope to obtain the Red Chain, you must undergo\nthe trial of the guardian deity that lurks within Lake\nVerity in the Obsidian Fieldlands.
 msg_questlist_sub_outline_254	If you hope to obtain the Red Chain, you must undergo\nthe trial of the guardian deity that lurks within Lake\nValor in the Crimson Mirelands.
 msg_questlist_sub_outline_255	If you hope to obtain the Red Chain, you must undergo\nthe trial of the guardian deity that lurks within Lake\nAcuity in the Alabaster Icelands.
-msg_questlist_sub_purpose_001_1_1	[~ 392]
+msg_questlist_sub_outline_256	Irida has asked to battle Origin Forme Palkia.
+msg_questlist_sub_outline_257	The man running the balloon race in the Coronet\nHighlands has issued you a challenge. You’ll get a\nspecial reward if you manage to burst 40 balloons.
+msg_questlist_sub_outline_258	Kochika has asked you to calm down a Pokémon in\nOreburrow Tunnel.
+msg_questlist_sub_outline_259	[~ 436]
+msg_questlist_sub_outline_261	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you face this\nchallenge with a well-trained Bidoof.
+msg_questlist_sub_outline_262	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you face this\nchallenge with one particular form of Wormadam.
+msg_questlist_sub_outline_263	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Kleavor\nquiet its mind and exploit its opponent’s weakness.
+msg_questlist_sub_outline_264	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your\nBastiodon swap its offensive and defensive stats.
+msg_questlist_sub_outline_265	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you face this\nchallenge after raising your Wurmple to its very limit.
+msg_questlist_sub_outline_266	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He mentioned there’s a mechanical \nitem that will give your Rotom the advantage.
+msg_questlist_sub_outline_267	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you battle with a\nsturdy Magikarp that can withstand a lot of damage.
+msg_questlist_sub_outline_268	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Lilligant\nperform a dance to usher in victory.
+msg_questlist_sub_outline_269	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Eevee\nuse the opponent’s moves against them.
+msg_questlist_sub_outline_270	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you face this\nchallenge after raising your Kricketot to the utmost limit.
+msg_questlist_sub_outline_271	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Abra\nexercise caution when battling the Mimic master.
+msg_questlist_sub_outline_272	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Roselia\nseize its chance when the opponent is drowsy.
+msg_questlist_sub_outline_273	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends you battle with\na Sneasel encountered in a space-time distortion.
+msg_questlist_sub_outline_274	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Blissey\nuse healing moves to endure the opponent’s attacks.
+msg_questlist_sub_outline_275	Gared of the Security Corps has suggested that you try\nthe Path of Solitude. He recommends that your Roserade\nseize its chance when the opponent comes to roost.
+msg_questlist_sub_purpose_001_1_1	[~ 452]
 msg_questlist_sub_purpose_001_10_1	Show Marli a Starly.
 msg_questlist_sub_purpose_001_10_2	Show Marli the completed Pokédex entry\nfor Starly.
-msg_questlist_sub_purpose_002_1_1	[~ 395]
+msg_questlist_sub_purpose_002_1_1	[~ 455]
 msg_questlist_sub_purpose_002_10_1	Catch a Shinx to show to Toshi.
-msg_questlist_sub_purpose_003_1_1	[~ 397]
+msg_questlist_sub_purpose_003_1_1	[~ 457]
 msg_questlist_sub_purpose_003_10_1	Gather the number of Berries Andra wanted,\nthen give them to him.
 msg_questlist_sub_purpose_004_10_1	Catch a big Buizel to give to Dorian.
-msg_questlist_sub_purpose_005_1_1	[~ 400]
+msg_questlist_sub_purpose_005_1_1	[~ 460]
 msg_questlist_main_purpose_005_10_1	Catch a Wurmple to give to Beauregard.
 msg_questlist_sub_purpose_006_10_1	Speak with Beauregard to learn more about\nhis request.
 msg_questlist_sub_purpose_006_20_1	Catch a Silcoon or evolve a Wurmple into\none, then show it to Beauregard.
 msg_questlist_sub_purpose_007_10_1	Speak with Clarissa to learn more about\nher request.
 msg_questlist_sub_purpose_007_20_1	Catch a Zubat to show to Clarissa.
-msg_questlist_sub_purpose_008	[~ 406]
+msg_questlist_sub_purpose_008	[~ 466]
 msg_questlist_sub_purpose_008_10_1	Get a score of 10,000 points or more at\nthe target practice game hosted in the\npractice field outside Jubilife Village.
 msg_questlist_sub_purpose_009_10_1	Catch a Geodude to give to Radisa.
 msg_questlist_sub_purpose_010	Craft or buy some Poké Balls to give to Sho.
 msg_questlist_sub_purpose_011_10	Catch the Pokémon captured in Dagero’s\nphoto and show it to him.
-msg_questlist_sub_purpose_011_20	[~ 411]
+msg_questlist_sub_purpose_011_20	[~ 471]
 msg_questlist_sub_purpose_012_10	Speak with Tsumugi to learn more about\nher request.
 msg_questlist_sub_purpose_012_20	Add a Bidoof to your team, and go find the\nbothersome Bidoof troubling the village.\nRemaining Bidoof: 3
 msg_questlist_sub_purpose_012_30	Add a Bidoof to your team, and go find the\nbothersome Bidoof troubling the village.\nRemaining Bidoof: 2
@@ -23384,30 +23498,30 @@ msg_questlist_sub_purpose_016_10_1	Catch the mysterious red will-o’-the-wisp\n
 msg_questlist_sub_purpose_016_20_1	Catch the Chimchar to show to Paira.
 msg_questlist_sub_purpose_017_10_1	Speak with Morel to learn more about\nhis request.
 msg_questlist_sub_purpose_017_20_2	Catch a Parasect to give to Morel.
-msg_questlist_sub_purpose_017_30_1	[~ 425]
-msg_questlist_sub_purpose_017_40_1	[~ 426]
+msg_questlist_sub_purpose_017_30_1	[~ 485]
+msg_questlist_sub_purpose_017_40_1	[~ 486]
 msg_questlist_sub_purpose_018_10_1	Speak with Yota to learn more about\nhis request.
 msg_questlist_sub_purpose_018_20_1	Catch the strange Ponyta on the Horseshoe\nPlains in the Obsidian Fieldlands.
 msg_questlist_sub_purpose_018_30_1	Report back to Yota with your findings.
 msg_questlist_sub_purpose_019_10_1	Speak with Miki to learn more about\nher request.
 msg_questlist_sub_purpose_019_20_1	Investigate the Drifloon playing with a child\nat Prelude Beach in the evening.
-msg_questlist_sub_purpose_019_30_1	[~ 432]
+msg_questlist_sub_purpose_019_30_1	[~ 492]
 msg_questlist_sub_purpose_019_60_1	Report back to Miki with your findings.
 msg_questlist_sub_purpose_020_10_1	Burst 17 balloons within the time limit for\nthe balloon race in the Obsidian Fieldlands.
 msg_questlist_sub_purpose_021_10_1	Lend a Ground-type Pokémon to Miller.
 msg_questlist_sub_purpose_022_10_1	Try to sweeten up Tao Hua with a gift so he\nmight sell new wares to the general store.
-msg_questlist_sub_purpose_022_20_1	[~ 437]
+msg_questlist_sub_purpose_022_20_1	[~ 497]
 msg_questlist_sub_purpose_022_30_1	Report back to Choy about your progress.
 msg_questlist_sub_purpose_023_10_1	Catch a Wormadam to show to Anthe.
 msg_questlist_sub_purpose_025_10_1	Ask Anise about the materials that are\nneeded for the medicine.
 msg_questlist_sub_purpose_025_20_1	Find the Pokémon with three leaves in the\nCrimson Mirelands and catch one to give\nto Anise.
 msg_questlist_sub_purpose_026_10_1	Gather information in Jubilife Village about\nmedicine that might ease the headaches\nof suffering Psyduck.
 msg_questlist_sub_purpose_026_20_1	Deliver the secret medicine to Martia.
-msg_questlist_sub_purpose_026_30_1	[~ 444]
+msg_questlist_sub_purpose_026_30_1	[~ 504]
 msg_questlist_sub_purpose_027_10_1	Ride on Ursaluna and follow the blue signals\nto locate Wanda in the Crimson Mirelands.
 msg_questlist_sub_purpose_027_20_1	Report back to Zeke on the first floor of\nGalaxy Hall.
-msg_questlist_sub_purpose_029_10_1	[~ 447]
-msg_questlist_sub_purpose_029_10_1_ex	[~ 448]
+msg_questlist_sub_purpose_029_10_1	[~ 507]
+msg_questlist_sub_purpose_029_10_1_ex	[~ 508]
 msg_questlist_sub_purpose_030_10_1	Gather the necessary materials for Floaro.
 msg_questlist_sub_purpose_031_10_1	Chase away the three Stunky.
 msg_questlist_sub_purpose_031_10_2	Go to help set up the Bogbound Camp.
@@ -23422,14 +23536,14 @@ msg_questlist_sub_purpose_035_10_1	Show Kichi the completed Pokédex entry\nfor 
 msg_questlist_sub_purpose_036_10_1	Speak with Andra to learn more about\nhis request.
 msg_questlist_sub_purpose_036_20_40_1	Find a way to approach Mr. Mime and see\nwhat it’s up to.
 msg_questlist_sub_purpose_036_30_50_1	Chase the fleeing Mr. Mime.
-msg_questlist_sub_purpose_036_60_1	[~ 463]
+msg_questlist_sub_purpose_036_60_1	[~ 523]
 msg_questlist_sub_purpose_037_10_1	Show Yeo the completed Pokédex entry\nfor Kricketot.
 msg_questlist_sub_purpose_038_10_1	Give Morel the item he requested.
 msg_questlist_sub_purpose_039_10_1	Speak with Almous to learn more about\nhis request.
 msg_questlist_sub_purpose_039_20_1	Catch a Combee in Grueling Grove, then\nshow it to Almous.
 msg_questlist_sub_purpose_039_30_1	Catch a Combee on Aipom Hill, then show\nit to Almous.
 msg_questlist_sub_purpose_039_40_1	Catch a Combee on Ramanas Island, then\nshow it to Almous.
-msg_questlist_sub_purpose_040_10_1	[~ 470]
+msg_questlist_sub_purpose_040_10_1	[~ 530]
 msg_questlist_sub_purpose_041_10_1	Lend a Pokémon that can use a Water-type\nmove to Miller.
 msg_questlist_sub_purpose_043_10_1	Show Berra the completed Pokédex entry\nfor Roselia.
 msg_questlist_sub_purpose_045_10_1	Catch an East Sea Shellos and a West Sea\nShellos to show to Anthe.
@@ -23444,9 +23558,9 @@ msg_questlist_sub_purpose_051_10_1	Look for Yorrich of the Construction Corps.
 msg_questlist_sub_purpose_051_11_1	Drive away the Chatot scaring Yorrich.
 msg_questlist_sub_purpose_051_20_1	Report back to Gully with your progress.
 msg_questlist_sub_purpose_051_20_2	Speak with Gully to learn more about\nher request.
-msg_questlist_sub_purpose_052_10_1	[~ 485]
-msg_questlist_sub_purpose_052_20_1	[~ 486]
-msg_questlist_sub_purpose_052_21_1	[~ 487]
+msg_questlist_sub_purpose_052_10_1	[~ 545]
+msg_questlist_sub_purpose_052_20_1	[~ 546]
+msg_questlist_sub_purpose_052_21_1	[~ 547]
 msg_questlist_sub_purpose_053_10_1	Speak with Ren to learn more about\nhis request.
 msg_questlist_sub_purpose_053_20_1	Remove all other Pokémon from your party\nand show Ren a great strategy for battling\nwith a Pachirisu.
 msg_questlist_sub_purpose_054_10_1	Show Ceci the completed Pokédex entry\nfor Magikarp.
@@ -23455,7 +23569,7 @@ msg_questlist_sub_purpose_057_10_1	Ride on Ursaluna and follow the blue signals\
 msg_questlist_sub_purpose_058_10_1	Speak with Pesselle to learn more about\nher request.
 msg_questlist_sub_purpose_058_20_1	Catch a Croagunk to give to Pesselle.
 msg_questlist_sub_purpose_059_10_1	Find the Pokémon with a scythe on each\narm and catch one to show to Hiemo on\nRamanas Island.
-msg_questlist_sub_purpose_060_1_1	[~ 496]
+msg_questlist_sub_purpose_060_1_1	[~ 556]
 msg_questlist_sub_purpose_060_10_1	Burst 24 balloons within the time limit for\nthe balloon race in the Cobalt Coastlands.
 msg_questlist_sub_purpose_061_10_1	Lend a Pokémon that can use Rock Smash\nto Miller.
 msg_questlist_sub_purpose_063_10_1	Catch the Pokémon needed to inspire Arezu.
@@ -23463,25 +23577,25 @@ msg_questlist_sub_purpose_064_10_1	Find the Pokémon covered in herbs shaped\nli
 msg_questlist_sub_purpose_065_10_1	Show Bosley the completed Pokédex entry\nfor Machoke.
 msg_questlist_sub_purpose_065_20_1	Wait for Bosley to invite Machoke to help\nthe Construction Corps.
 msg_questlist_sub_purpose_066_10_1	Catch a Nosepass to give to Gully.
-msg_questlist_sub_purpose_067_10_1	[~ 504]
+msg_questlist_sub_purpose_067_10_1	[~ 564]
 msg_questlist_sub_purpose_068_10_1	Gather the necessary materials for Anthe.
 msg_questlist_sub_purpose_069_10_1	Show Ward the completed Pokédex entry\nfor Gastly.
 msg_questlist_sub_purpose_070_10_1	Craft a Pokéshi Doll, and show it to Anvin.
 msg_questlist_sub_purpose_071_10_1	Find out what Bronzor wants.
-msg_questlist_sub_purpose_072_10_1	[~ 509]
-msg_questlist_sub_purpose_072_20_1	[~ 510]
-msg_questlist_sub_purpose_072_30_1	[~ 511]
+msg_questlist_sub_purpose_072_10_1	[~ 569]
+msg_questlist_sub_purpose_072_20_1	[~ 570]
+msg_questlist_sub_purpose_072_30_1	[~ 571]
 msg_questlist_sub_purpose_073_10_1	Speak with Astair to learn more about\nhis request.
 msg_questlist_sub_purpose_073_20_40_1	Investigate whether Clefairy dance at the\nFabled Spring on nights with a full moon.
-msg_questlist_sub_purpose_073_30_1	[~ 514]
+msg_questlist_sub_purpose_073_30_1	[~ 574]
 msg_questlist_sub_purpose_073_50_1	Report back to Astair with your findings.
 msg_questlist_sub_purpose_074_10_1	Catch a male and a female Hippopotas to\nshow to Anthe.
-msg_questlist_sub_purpose_075_10_1	[~ 517]
-msg_questlist_sub_purpose_075_11_1	[~ 518]
+msg_questlist_sub_purpose_075_10_1	[~ 577]
+msg_questlist_sub_purpose_075_11_1	[~ 578]
 msg_questlist_sub_purpose_076_10_1	Ride on Ursaluna and follow the blue signals\nto locate Wanda in the Coronet Highlands.
 msg_questlist_sub_purpose_077_10_1	Ride on Ursaluna and follow the blue signals\nto locate Wanda in the Obsidian Fieldlands.
 msg_questlist_sub_purpose_077_11_1	Defeat the three Paras attacking Wanda.
-msg_questlist_sub_purpose_080_10_1	[~ 522]
+msg_questlist_sub_purpose_080_10_1	[~ 582]
 msg_questlist_sub_purpose_084_10_1	Gather the necessary materials for Radisa.
 msg_questlist_sub_purpose_085_10_1	Speak with Morel at Heart’s Crag in the\nAlabaster Icelands to hear his request.
 msg_questlist_sub_purpose_085_15_1	Add a Swinub to your party, and hunt for\nmushrooms buried in the snow.\nRemaining mushrooms: 3
@@ -23490,12 +23604,12 @@ msg_questlist_sub_purpose_085_30_1	Add a Swinub to your party, and hunt for\nmus
 msg_questlist_sub_purpose_085_40_1	Report back to Morel with your results.
 msg_questlist_sub_purpose_086_10_1	Search for traces of a village said to have\nbeen located at the Avalanche Slopes in the\nAlabaster Icelands.
 msg_questlist_sub_purpose_086_30_1	Give the Old Journal to Mani.
-msg_questlist_sub_purpose_087_10_1	[~ 531]
-msg_questlist_sub_purpose_087_10_2	[~ 532]
-msg_questlist_sub_purpose_087_10_3	[~ 533]
-msg_questlist_sub_purpose_087_20_1	[~ 534]
-msg_questlist_sub_purpose_087_30_1	[~ 535]
-msg_questlist_sub_purpose_087_40_1	[~ 536]
+msg_questlist_sub_purpose_087_10_1	[~ 591]
+msg_questlist_sub_purpose_087_10_2	[~ 592]
+msg_questlist_sub_purpose_087_10_3	[~ 593]
+msg_questlist_sub_purpose_087_20_1	[~ 594]
+msg_questlist_sub_purpose_087_30_1	[~ 595]
+msg_questlist_sub_purpose_087_40_1	[~ 596]
 msg_questlist_sub_purpose_088_10_1	Catch a Burmy to show to Leif, Duna,\nand Tarush.
 msg_questlist_sub_purpose_088_20_1	Show Leif, Duna, and Tarush the completed\nPokédex entry for Burmy.
 msg_questlist_sub_purpose_089_10_1	Speak with Pippa in the Alabaster Icelands\nto learn more about her request.
@@ -23510,7 +23624,7 @@ msg_questlist_sub_purpose_092_30_1	Find the Alolan Vulpix hiding out in the\nAla
 msg_questlist_sub_purpose_092_40_1	Find the Alolan Vulpix hiding out in the\nAlabaster Icelands.\nRemaining Vulpix: 3
 msg_questlist_sub_purpose_092_50_1	Find the Alolan Vulpix hiding out in the\nAlabaster Icelands.\nRemaining Vulpix: 2
 msg_questlist_sub_purpose_092_60_1	Find the Alolan Vulpix hiding out in the\nAlabaster Icelands.\nRemaining Vulpix: 1
-msg_questlist_sub_purpose_092_70_1	[~ 551]
+msg_questlist_sub_purpose_092_70_1	[~ 611]
 msg_questlist_sub_purpose_092_80_1	Report back to Keaka with your progress.
 msg_questlist_sub_purpose_093_10_1	Catch a Fire-type Pokémon to give to Brice.
 msg_questlist_sub_purpose_094_10_1	Speak with Ida outside one of the village\nresidences to learn more about her request.
@@ -23524,7 +23638,7 @@ msg_questlist_sub_purpose_096_10_1	Ride on Ursaluna and follow the blue signals\
 msg_questlist_sub_purpose_096_11_1	Defeat the Glalie, and save Zeke.
 msg_questlist_sub_purpose_097_10_1	Gather the necessary materials for Bonn.
 msg_questlist_sub_purpose_098_10_1	Battle Lucario at the training grounds.
-msg_questlist_sub_purpose_098_11_1	[~ 565]
+msg_questlist_sub_purpose_098_11_1	[~ 625]
 msg_questlist_sub_purpose_099_10_20_30_40_1	Find Senki’s Spheal, which has rolled off\ntoward Bolderoll Ravine.
 msg_questlist_sub_purpose_099_50_1	Return to the Summit Camp to speak\nwith Senki.
 msg_questlist_sub_purpose_100_10_1	Burst 30 balloons within the time limit for\nthe balloon race in the Alabaster Icelands.
@@ -23540,25 +23654,85 @@ msg_questlist_sub_purpose_116_10_1	Speak with Medi at the Fieldlands Camp to\nle
 msg_questlist_sub_purpose_116_20_1	Find the field of Gracidea flowers located\nsomewhere in the Obsidian Fieldlands.
 msg_questlist_sub_purpose_116_30_1	Catch Shaymin in the field of\nGracidea flowers.
 msg_questlist_sub_purpose_117_10_1	Search for the mysterious black Pokémon\nthat appears around the Clamberclaw Cliffs\nat night.
-msg_questlist_sub_purpose_117_20_1	[~ 581]
+msg_questlist_sub_purpose_117_20_1	[~ 641]
 msg_questlist_sub_purpose_117_20_1_fix	Catch Darkrai around the Clamberclaw Cliffs.
 msg_questlist_sub_purpose_122_10_1	Speak with Adaman near the Diamond\nSettlement, and defeat him in battle.
 msg_questlist_sub_purpose_123_10_1	Speak with Irida near the Pearl Settlement,\nand defeat her in battle.
+msg_questlist_sub_purpose_201_10_1	Go to Ramanas Island, which has caught\nthe interest of Mai’s Munchlax.
+msg_questlist_sub_purpose_201_20_1	Report back to Mai with your findings.
+msg_questlist_sub_purpose_201_30_1	Report back to Cyllene about the Zorua you\nsaw on Ramanas Island.
+msg_questlist_sub_purpose_202_10_1	Go to the Obsidian Fieldlands with Mai.
+msg_questlist_sub_purpose_202_20_1	[~ 649]
+msg_questlist_sub_purpose_202_30_1	[~ 650]
+msg_questlist_sub_purpose_202_40_1	Investigate a massive mass outbreak in\nthe Obsidian Fieldlands.\nRemaining locations: 3
+msg_questlist_sub_purpose_202_50_1	Investigate a massive mass outbreak in\nthe Obsidian Fieldlands.\nRemaining locations: 2
+msg_questlist_sub_purpose_202_60_1	Investigate a massive mass outbreak in\nthe Obsidian Fieldlands.\nRemaining locations: 1
+msg_questlist_sub_purpose_203_10_1	Go to the Crimson Mirelands with Mai.
+msg_questlist_sub_purpose_203_20_1	[~ 655]
+msg_questlist_sub_purpose_203_30_1	[~ 656]
+msg_questlist_sub_purpose_203_40_1	Investigate a massive mass outbreak in\nthe Crimson Mirelands.\nRemaining locations: 3
+msg_questlist_sub_purpose_203_50_1	Investigate a massive mass outbreak in\nthe Crimson Mirelands.\nRemaining locations: 2
+msg_questlist_sub_purpose_203_60_1	Investigate a massive mass outbreak in\nthe Crimson Mirelands.\nRemaining locations: 1
+msg_questlist_sub_purpose_204_10_1	Go to the Cobalt Coastlands with Mai.
+msg_questlist_sub_purpose_204_20_1	[~ 661]
+msg_questlist_sub_purpose_204_30_1	[~ 662]
+msg_questlist_sub_purpose_204_40_1	Investigate a massive mass outbreak in\nthe Cobalt Coastlands.\nRemaining locations: 3
+msg_questlist_sub_purpose_204_50_1	Investigate a massive mass outbreak in\nthe Cobalt Coastlands.\nRemaining locations: 2
+msg_questlist_sub_purpose_204_60_1	Investigate a massive mass outbreak in\nthe Cobalt Coastlands.\nRemaining locations: 1
+msg_questlist_sub_purpose_204_70_1	Defeat [VAR 01DC(0001)] in battle at\nGinkgo Landing.
+msg_questlist_sub_purpose_205_10_1	Go to the Secret Hollow and give Mai the\nitems she requested.
+msg_questlist_sub_purpose_205_20_1	Return to Jubilife Village.
+msg_questlist_sub_purpose_206_10_1	Go to the Coronet Highlands with Mai.
+msg_questlist_sub_purpose_206_10_2	[~ 670]
+msg_questlist_sub_purpose_206_10_3	[~ 671]
+msg_questlist_sub_purpose_206_10_4	Investigate a massive mass outbreak in\nthe Coronet Highlands.\nRemaining locations: 3
+msg_questlist_sub_purpose_206_10_5	Investigate a massive mass outbreak in\nthe Coronet Highlands.\nRemaining locations: 2
+msg_questlist_sub_purpose_206_10_6	Investigate a massive mass outbreak in\nthe Coronet Highlands.\nRemaining locations: 1
+msg_questlist_sub_purpose_207_10_1	Go to the Alabaster Icelands with Mai.
+msg_questlist_sub_purpose_207_20_1	[~ 676]
+msg_questlist_sub_purpose_207_30_1	[~ 677]
+msg_questlist_sub_purpose_207_40_1	Investigate a massive mass outbreak in\nthe Alabaster Icelands.\nRemaining locations: 3
+msg_questlist_sub_purpose_207_50_1	Investigate a massive mass outbreak in\nthe Alabaster Icelands.\nRemaining locations: 2
+msg_questlist_sub_purpose_207_60_1	Investigate a massive mass outbreak in\nthe Alabaster Icelands.\nRemaining locations: 1
+msg_questlist_sub_purpose_208_10_1	
+msg_questlist_sub_purpose_250_10_1	Win a battle against the Security Corps’\nsecret weapon.
+msg_questlist_sub_purpose_251_10_1	[~ 683]
+msg_questlist_sub_purpose_252_10_1	Defeat Adaman in battle with only an\nOrigin Forme Dialga on your team.
 msg_questlist_sub_purpose_253_10_1	Head to Lake Verity.
 msg_questlist_sub_purpose_253_20_1	Take the trial of the Pokémon in\nVerity Cavern.
 msg_questlist_sub_purpose_254_10_1	Head to Lake Valor.
 msg_questlist_sub_purpose_254_20_1	Take the trial of the Pokémon in\nValor Cavern.
 msg_questlist_sub_purpose_255_10_1	Head to Lake Acuity.
 msg_questlist_sub_purpose_255_20_1	Take the trial of the Pokémon in\nAcuity Cavern.
+msg_questlist_sub_purpose_256_10_1	Defeat Irida in battle with only an\nOrigin Forme Palkia on your team.
+msg_questlist_sub_purpose_257_10_1	Burst 40 balloons within the time limit for\nthe balloon race in the Coronet Highlands.
+msg_questlist_sub_purpose_258_10_1	Calm the raging Pokémon in\nOreburrow Tunnel.
+msg_questlist_sub_purpose_259_10_1	[~ 694]
+msg_questlist_sub_purpose_261_10_1	Defeat Ingo in a Path of Solitude battle\nwith Bidoof as your partner.
+msg_questlist_sub_purpose_262_10_1	Defeat Ingo in a Path of Solitude battle\nwith Wormadam as your partner.
+msg_questlist_sub_purpose_263_10_1	Defeat Ingo in a Path of Solitude battle\nwith Kleavor as your partner.
+msg_questlist_sub_purpose_264_10_1	Defeat Ingo in a Path of Solitude battle\nwith Bastiodon as your partner.
+msg_questlist_sub_purpose_265_10_1	Defeat Ingo in a Path of Solitude battle\nwith Wurmple as your partner.
+msg_questlist_sub_purpose_266_10_1	Defeat Ingo in a Path of Solitude battle\nwith Rotom as your partner.
+msg_questlist_sub_purpose_267_10_1	Defeat Ingo in a Path of Solitude battle\nwith Magikarp as your partner.
+msg_questlist_sub_purpose_268_10_1	Defeat Ingo in a Path of Solitude battle\nwith Lilligant as your partner.
+msg_questlist_sub_purpose_269_10_1	Defeat Ingo in a Path of Solitude battle\nwith Eevee as your partner.
+msg_questlist_sub_purpose_270_10_1	Defeat Ingo in a Path of Solitude battle\nwith Kricketot as your partner.
+msg_questlist_sub_purpose_271_10_1	Defeat Ingo in a Path of Solitude battle\nwith Abra as your partner.
+msg_questlist_sub_purpose_272_10_1	Defeat Ingo in a Path of Solitude battle\nwith Roselia as your partner.
+msg_questlist_sub_purpose_273_10_1	Defeat Ingo in a Path of Solitude battle\nwith Sneasel as your partner.
+msg_questlist_sub_purpose_274_10_1	Defeat Ingo in a Path of Solitude battle\nwith Blissey as your partner.
+msg_questlist_sub_purpose_275_10_1	Defeat Ingo in a Path of Solitude battle\nwith Roserade as your partner.
+msg_questlist_sub_purpose_261_20_1	Report back to Gared with your progress.
 msg_questlist_sub_reward_farm_1	More fields available for farming!
-msg_questlist_sub_reward_farm_2	[~ 592]
-msg_questlist_sub_reward_farm_3	[~ 593]
+msg_questlist_sub_reward_farm_2	[~ 712]
+msg_questlist_sub_reward_farm_3	[~ 713]
 msg_questlist_sub_reward_question	???
 msg_questlist_sub_reward_basecamp_02_02	A new base camp!
-msg_questlist_sub_reward_basecamp_03_02	[~ 596]
-msg_questlist_sub_reward_basecamp_04_02	[~ 597]
-msg_questlist_sub_reward_basecamp_04_03	[~ 598]
-msg_questlist_sub_reward_basecamp_05_02	[~ 599]
+msg_questlist_sub_reward_basecamp_03_02	[~ 716]
+msg_questlist_sub_reward_basecamp_04_02	[~ 717]
+msg_questlist_sub_reward_basecamp_04_03	[~ 718]
+msg_questlist_sub_reward_basecamp_05_02	[~ 719]
 msg_questlist_sub_reward_cloth_00	New items added to the clothier’s lineup!
 msg_questlist_sub_reward_salon_00	New styles added to the hairdresser’s lineup!
 msg_questlist_sub_reward_item_shop_00	New items added to the general store’s offerings!

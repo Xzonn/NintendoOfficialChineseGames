@@ -779,6 +779,7 @@ msg_ui_map_area02_r20	コンゴウのさとやま
 msg_ui_map_area03_r24	エイパムやま
 msg_ui_map_area03_r25	みずあびがた
 msg_ui_map_area03_r26	しずかなうちうみ
+msg_ui_map_01_45	大大大発生の目撃報告
 net.dat
 net_sel_01	ぼうけんサポートつうしん
 net_sel_02	ふしぎなおくりもの
@@ -1269,6 +1270,12 @@ tips_title_1007	[~ 109]
 tips_text_1007_01	[~ 110]
 tips_title_1008	[~ 111]
 tips_text_1008_01	[~ 112]
+tips_text_1100	大大大発生
+tips_text_1100_01	同時にたくさんの大量発生が起きる現象です。\n大量発生の場所は地図に「？」で示され\n現場に着くまで　ポケモンの種類はわかりません。\n大大大発生は[VAR FF00(0006)]時間がたつと収まる[VAR FF00(0000)]ので\n急いで調査に向かいましょう。
+tips_text_1100_02	大量発生の気配がなくなるまで\nポケモンを捕まえたり　倒すことで\nその場所は「[VAR FF00(0006)]調査完了[VAR FF00(0000)]」となります。\nたまに　調査完了した直後に\n追加でポケモンが現れることもあります。
+tips_text_1101	大大大発生とバンジのみ
+tips_text_1101_01	大大大発生が起きているとき\nヨネのゴンベに「[VAR FF00(0006)]バンジのみ[VAR FF00(0000)]」を与えると\n大量発生したポケモンの種類がわかります。
+tips_text_1101_02	ポケモンアイコンが輝いている場所は\n特別な大量発生の目印です。\n中でも　きのみアイコン付きの大量発生は\n「バンジのみ」が手に入る可能性があります。\n大大大発生の調査に役立てましょう。
 advsp.dat
 advsp_cap_01	みんな
 advsp_cap_02	自分
@@ -1366,6 +1373,8 @@ msg_ui_blost_06_01	どこかへおとししてしまった　もちもの
 msg_ui_blost_07_01	ギンガだんいんでは　ないので\nいらいが　だせません！\c
 msg_ui_blost_08_01	今回　落とした道具はありませんでした\c
 msg_ui_blost_09_01	みがわりおまもりが　[VAR 0201(0001)]コ\nなくなってしまった……\c
+title.dat
+msg_ver_info	[~ 0]
 trmsg.dat
 TRID_HERO_TRMSG_FIGHT_START	[~ 0]
 TRID_HERO_TRMSG_FIGHT_LOSE	[~ 1]
@@ -2363,6 +2372,8 @@ POKEMONTAMER	ウォロ
 CAPTAIN_NOHARA	ヨネ
 CAPTAIN_MORI	キクイ
 CAPTAIN_MIZU	ススキ
+CAPTAIN_KUSA	ヒナツ
+GATEKEEPER	デンスケ
 trtype.dat
 MSG_TRTYPE_HERO	ポケモントレーナー
 MSG_TRTYPE_HEROINE	ポケモントレーナー
@@ -2596,6 +2607,7 @@ TRTYPE_POKEMONTAMER	ポケモンつかい
 TRTYPE_CAPTAIN_NOHARA	キャプテン
 TRTYPE_CAPTAIN_MORI	キャプテン
 TRTYPE_CAPTAIN_MIZU	キャプテン
+TRTYPE_CAPTAIN_KUSA	キャプテン
 boxname.dat
 boxname_01	ぼくじょう１
 boxname_02	ぼくじょう２
@@ -2741,61 +2753,62 @@ str_btl_menu_03	ほんとうに　にげますか？
 str_btl_menu_04	しんけんしょうぶ！\nあとには　ひけない！
 str_btl_menu_05	ヌシバトルでは　どうぐは　つかえない
 str_btl_menu_06	この　たたかいから　にげるわけには　いかない！
-str_btl_menu_07	[~ 111]
-str_btl_menu_08	[~ 112]
-str_btl_menu_09	[~ 113]
-str_btl_menu_10	[~ 114]
-str_btl_result_11	[~ 115]
-str_btl_result_12	[~ 116]
-str_btl_result_13	[~ 117]
-str_btl_ms_01_01	[~ 118]
-str_btl_ms_01_02	[~ 119]
-str_btl_ms_01_03	[~ 120]
-str_btl_ms_01_04	[~ 121]
-str_btl_ms_01_05	[~ 122]
-str_btl_ms_01_06	[~ 123]
-str_btl_ms_01_07	[~ 124]
-str_btl_ms_01_08	[~ 125]
-str_btl_ms_01_09	[~ 126]
-str_btl_ms_02_01	[~ 127]
-str_btl_ms_02_02	[~ 128]
-str_btl_ms_02_03	[~ 129]
-str_btl_ms_03_01	[~ 130]
-str_btl_ms_03_02	[~ 131]
-str_btl_ms_03_03	[~ 132]
-str_btl_ms_03_04	[~ 133]
-str_btl_ms_03_05	[~ 134]
-str_btl_ms_03_06	[~ 135]
-str_btl_ms_03_07	[~ 136]
-str_btl_ms_04_01	[~ 137]
-str_btl_ms_04_02	[~ 138]
-str_btl_ms_04_03	[~ 139]
-str_btl_ms_04_04	[~ 140]
-str_btl_ms_04_05	[~ 141]
-str_btl_ms_04_06	[~ 142]
-str_btl_ms_05_01	[~ 143]
-str_btl_ms_05_02	[~ 144]
-str_btl_ms_05_03	[~ 145]
-str_btl_ms_06_01	[~ 146]
-str_btl_ms_06_02	[~ 147]
-str_btl_ms_06_03	[~ 148]
-str_btl_ms_06_04	[~ 149]
-str_btl_ms_06_05	[~ 150]
-str_btl_ms_06_06	[~ 151]
-str_btl_ms_06_07	[~ 152]
-str_btl_ms_06_08	[~ 153]
-str_btl_ms_06_09	[~ 154]
-str_btl_ms_07_01	[~ 155]
-str_btl_ms_08_01	[~ 156]
-str_btl_ms_08_02	[~ 157]
-str_btl_ms_08_03	[~ 158]
-str_btl_ms_09_01	[~ 159]
-str_btl_ms_09_02	[~ 160]
-str_btl_ms_10_01	[~ 161]
-str_btl_ms_10_02	[~ 162]
-str_btl_ms_10_03	[~ 163]
-str_btl_ms_dummy1	[~ 164]
-str_btl_ms_dummy2	[~ 165]
+str_btl_menu_11	道具は使えない！
+str_btl_menu_07	[~ 112]
+str_btl_menu_08	[~ 113]
+str_btl_menu_09	[~ 114]
+str_btl_menu_10	[~ 115]
+str_btl_result_11	[~ 116]
+str_btl_result_12	[~ 117]
+str_btl_result_13	[~ 118]
+str_btl_ms_01_01	[~ 119]
+str_btl_ms_01_02	[~ 120]
+str_btl_ms_01_03	[~ 121]
+str_btl_ms_01_04	[~ 122]
+str_btl_ms_01_05	[~ 123]
+str_btl_ms_01_06	[~ 124]
+str_btl_ms_01_07	[~ 125]
+str_btl_ms_01_08	[~ 126]
+str_btl_ms_01_09	[~ 127]
+str_btl_ms_02_01	[~ 128]
+str_btl_ms_02_02	[~ 129]
+str_btl_ms_02_03	[~ 130]
+str_btl_ms_03_01	[~ 131]
+str_btl_ms_03_02	[~ 132]
+str_btl_ms_03_03	[~ 133]
+str_btl_ms_03_04	[~ 134]
+str_btl_ms_03_05	[~ 135]
+str_btl_ms_03_06	[~ 136]
+str_btl_ms_03_07	[~ 137]
+str_btl_ms_04_01	[~ 138]
+str_btl_ms_04_02	[~ 139]
+str_btl_ms_04_03	[~ 140]
+str_btl_ms_04_04	[~ 141]
+str_btl_ms_04_05	[~ 142]
+str_btl_ms_04_06	[~ 143]
+str_btl_ms_05_01	[~ 144]
+str_btl_ms_05_02	[~ 145]
+str_btl_ms_05_03	[~ 146]
+str_btl_ms_06_01	[~ 147]
+str_btl_ms_06_02	[~ 148]
+str_btl_ms_06_03	[~ 149]
+str_btl_ms_06_04	[~ 150]
+str_btl_ms_06_05	[~ 151]
+str_btl_ms_06_06	[~ 152]
+str_btl_ms_06_07	[~ 153]
+str_btl_ms_06_08	[~ 154]
+str_btl_ms_06_09	[~ 155]
+str_btl_ms_07_01	[~ 156]
+str_btl_ms_08_01	[~ 157]
+str_btl_ms_08_02	[~ 158]
+str_btl_ms_08_03	[~ 159]
+str_btl_ms_09_01	[~ 160]
+str_btl_ms_09_02	[~ 161]
+str_btl_ms_10_01	[~ 162]
+str_btl_ms_10_02	[~ 163]
+str_btl_ms_10_03	[~ 164]
+str_btl_ms_dummy1	[~ 165]
+str_btl_ms_dummy2	[~ 166]
 btl_get.dat
 btl_seq.dat
 str_btl_seq_Dummy_00	ダミー　じどうおくり
@@ -6526,6 +6539,25 @@ str_btl_seq_Trainer03_19	ふん！\c
 str_btl_seq_Trainer01_20	不覚ってことにしておかないと\n負けた自分を許せないのよ！\c
 str_btl_seq_Trainer02_20	解せない！　解せないわ\nなぜあんたなんかに敗北するのよ\c
 str_btl_seq_Trainer03_20	このスットコドッコイ！\nきさまに負ける　あたいのふがいなさよ\c
+str_btl_seq_Trainer04_03	ブラボー！！\nスーパーブラボー！！\c
+str_btl_seq_Trainer30_01	相変わらず　みごとであった！\c
+str_btl_seq_Trainer30_02	相変わらず　みごとであった！\n早業　力業　使いどころが悩ましいな\c
+str_btl_seq_Trainer30_03	相変わらず　みごとであった！\nわたしは伝授する技をみなおすか\c
+str_btl_seq_Trainer30_04	さすがはホウエン有数の剛剣の使い手\nシマボシのもとで働く者だな！\c
+str_btl_seq_Trainer30_05	ポケモンを強くするだけではなく\n愛する心を他の者にも伝えてくれよ！\c
+str_btl_seq_Trainer31_01	血なまぐさい戦いよりも\nおたがいを高めあう仕合はよいな\c
+str_btl_seq_Trainer31_02	拙者がここまでこられたのは\nポケモンのおかげよ！\c
+str_btl_seq_Trainer31_03	拙者に勇気と元気をくれた\nポケモンのためにも勝利したかった\c
+str_btl_seq_Trainer31_04	シノビの技と同じく\nポケモンの技も使いどころが重要よ\c
+str_btl_seq_Trainer31_05	道か……　終わりなき道と知っていて\nどこまで歩み続けられるかよな\c
+str_btl_seq_Trainer32_01	あらためてポケモンを恐ろしいと思う\nがそれ以上に頼もしいな！\c
+str_btl_seq_Trainer32_02	ポケモンを鍛えるだけでは\n越えられない強さか……　いいぞ！\c
+str_btl_seq_Trainer32_03	ヒスイは恐ろしいポケモンではなく\n仲間と頼むべき存在がいる場所なのだな\c
+str_btl_seq_Trainer32_04	もっと強くなれ！　そして強さとは\n優しさのうえにあることを忘れるな！\c
+str_btl_seq_Trainer32_05	うむう　最善を尽くしても勝てぬ……\nさらなる最善をめざすしかないな！\c
+str_btl_seq_Trainer21_01	突破されましたか……！\n門番として守りには自信があったが\c
+str_btl_seq_Trainer13_05	まだまだ力がおよばない……\nこれでは好敵手たりえません……！\c
+str_btl_seq_Trainer14_05	おれ自身が強くなるほどに\nおまえの強さのすごさがわかるな\c
 btl_talk.dat
 msg_btl_talk_leader2_01	[~ 0]
 msg_btl_talk_leader2_02	[~ 1]
@@ -11652,6 +11684,15 @@ residents_225	シンジュ団
 residents_226	コンゴウ団
 residents_227	[~ 264]
 residents_228	ビーダル
+residents_229	ピカチュウ
+residents_230	リーフィア
+residents_231	グレイシア
+residents_232	ゴンベ
+residents_233	スカタンク
+residents_234	オニゴーリ
+residents_235	ウォーグル
+residents_236	カビゴン
+residents_237	イワーク
 pokelist.dat
 msg_ui_pokelist_00	[~ 0]
 msg_ui_pokelist_01	どのポケモンと　いれかえる？
@@ -19653,6 +19694,17 @@ field_info_spray_01	スプレーの効果がなくなった
 field_info_making_01	[~ 64]
 field_info_battle_01	シズメダマを当てるチャンス！
 field_info_battle_02	Ｙボタンで技を回避！
+field_info_pokeinfo_10	大大大発生報告のポケモンをみつけた！
+field_info_pokeinfo_11	報告されたポケモンの気配はなくなった
+field_info_pokeinfo_12	新たな群れの気配がする……
+field_info_pokeinfo_13	まだまだ豪雨はやみそうにない
+field_info_pokeinfo_14	まだまだ吹雪はやみそうにない
+field_info_pokeinfo_15	あと少しだけ豪雨が続きそうだ
+field_info_pokeinfo_16	あと少しだけ吹雪が続きそうだ
+field_info_pokeinfo_17	まもなく豪雨がやみそうだ
+field_info_pokeinfo_18	まもなく吹雪がやみそうだ
+field_info_pokeinfo_19	豪雨はやんだようだ
+field_info_pokeinfo_20	吹雪はやんだようだ
 movie_skip.dat
 skip01	ムービースキップ
 poke_unown.dat
@@ -22953,9 +23005,11 @@ error_comm_24	[~ 20]
 error_comm_25	[~ 21]
 error_validation_common	[~ 22]
 error_validation_http503	[~ 23]
+error_comm_26	インターネットへの自動接続に\n失敗しました。\n\nインターネット接続をもう一度行い\n通信に必要な情報を受け取ってください。
+error_comm_27	インターネットへの接続に失敗しました。\n\nインターネット接続をもう一度行い\n通信に必要な情報を受け取ってください。
 error_fatal_save_00	エラーが　はっせい　しました。\nポケモンこうかんが\nできませんでした。\n\nHOMEボタンを　おして\nしゅうりょう　してください。
 error_fatal_save_01	レポートが　壊れています\n本体から　セーブデータを\n消して　ください
-erro_fatal_storage	[~ 26]
+erro_fatal_storage	[~ 28]
 erro_fatal_backup_00	バックアップデータがないので\nロードできません\c\nタイトルへ戻ります\c
 erro_fatal_backup_01	バックアップデータを　ロードしました\c\nレポートを書くときは\nこのデータが記録されますので\r\nご注意ください\c
 questlist_sub.dat
@@ -23075,272 +23129,302 @@ msg_questlist_questname_sub_116	ありがとうを伝えたい
 msg_questlist_questname_sub_117	まっくらな悪夢
 msg_questlist_questname_sub_122	コンゴウ団の宝
 msg_questlist_questname_sub_123	シンジュ団の宝
+msg_questlist_questname_sub_201	ヨネの依頼　ふたたび
+msg_questlist_questname_sub_202	黒曜の原野　大大大発生の調査
+msg_questlist_questname_sub_203	紅蓮の湿地　大大大発生の調査
+msg_questlist_questname_sub_204	群青の海岸　大大大発生の調査
+msg_questlist_questname_sub_205	大好物大作戦
+msg_questlist_questname_sub_206	天冠の山麓　大大大発生の調査
+msg_questlist_questname_sub_207	純白の凍土　大大大発生の調査
+msg_questlist_questname_sub_208	ヒスイの夜明け
+msg_questlist_questname_sub_250	警備隊の隠し玉との勝負
+msg_questlist_questname_sub_251	[~ 125]
+msg_questlist_questname_sub_252	セキが望むもの
 msg_questlist_questname_sub_253	シンジ湖の試練
 msg_questlist_questname_sub_254	リッシ湖の試練
 msg_questlist_questname_sub_255	エイチ湖の試練
+msg_questlist_questname_sub_256	カイが望むもの
+msg_questlist_questname_sub_257	究極の風船割り
+msg_questlist_questname_sub_258	未来を掘る
+msg_questlist_questname_sub_259	[~ 133]
+msg_questlist_questname_sub_261	いっぴき道　ビッパの道
+msg_questlist_questname_sub_262	いっぴき道　ミノマダムの道
+msg_questlist_questname_sub_263	いっぴき道　バサギリの道
+msg_questlist_questname_sub_264	いっぴき道　トリデプスの道
+msg_questlist_questname_sub_265	いっぴき道　ケムッソの道
+msg_questlist_questname_sub_266	いっぴき道　ロトムの道
+msg_questlist_questname_sub_267	いっぴき道　コイキングの道
+msg_questlist_questname_sub_268	いっぴき道　ドレディアの道
+msg_questlist_questname_sub_269	いっぴき道　イーブイの道
+msg_questlist_questname_sub_270	いっぴき道　コロボーシの道
+msg_questlist_questname_sub_271	いっぴき道　ケーシィの道
+msg_questlist_questname_sub_272	いっぴき道　ロゼリアの道
+msg_questlist_questname_sub_273	いっぴき道　ニューラの道
+msg_questlist_questname_sub_274	いっぴき道　ハピナスの道
+msg_questlist_questname_sub_275	いっぴき道　ロズレイドの道
 msg_questlist_sub_outline_001	前歯がキュートなビッパにメロメロな\n製造隊のヒマリのために\nビッパを捕まえてきてあげよう
-msg_questlist_sub_outline_001_255	[~ 120]
+msg_questlist_sub_outline_001_255	[~ 150]
 msg_questlist_sub_outline_002	コリンクの耳の形を思い出したい\n村人のトシに　コリンクを捕まえて\nどんな耳かみせてあげよう
-msg_questlist_sub_outline_002_255	[~ 122]
+msg_questlist_sub_outline_002_255	[~ 152]
 msg_questlist_sub_outline_003	ポケモンが怖いサビのために\nポケモンから逃げるときにも役立つ\nオレンのみを集めてきてあげよう
-msg_questlist_sub_outline_003_255	[~ 124]
+msg_questlist_sub_outline_003_255	[~ 154]
 msg_questlist_sub_outline_004	保護したブイゼルと一緒に\nより大きいブイゼルを育てたい　トオマのため\n大きいブイゼルを　捕まえてこよう
-msg_questlist_sub_outline_004_255	[~ 126]
+msg_questlist_sub_outline_004_255	[~ 156]
 msg_questlist_sub_outline_005	ポケモンの進化について\n博士から話をきいたスグルから\nケムッソを捕まえてきてほしいと頼まれた。
-msg_questlist_sub_outline_005_255	[~ 128]
+msg_questlist_sub_outline_005_255	[~ 158]
 msg_questlist_sub_outline_006	以前ケムッソを渡したスグルは\nケムッソの進化について\n悩んでいるらしい。
 msg_questlist_sub_outline_006_20	育てたケムッソはマユルドに進化したが\nカラサリスとの違いが　わからないスグルから\nカラサリスをみせてほしいと頼まれた。
-msg_questlist_sub_outline_006_255	[~ 131]
+msg_questlist_sub_outline_006_255	[~ 161]
 msg_questlist_sub_outline_007	ズバットに関する依頼がはいった。\nコサメから話をきこう。
 msg_questlist_sub_outline_007_20	暗闇の中　自由自在に飛びまわるズバットは\nどんな目をしているのか　気になる\nコサメにズバットをみせてほしいと頼まれた。
-msg_questlist_sub_outline_007_255	[~ 134]
-msg_questlist_sub_outline_008	[~ 135]
+msg_questlist_sub_outline_007_255	[~ 164]
+msg_questlist_sub_outline_008	[~ 165]
 msg_questlist_sub_outline_008_10	コトブキムラの射的屋から挑戦を受けた。\n１０００点以上のスコアをだせたなら\n特別な景品がもらえるようだ。
-msg_questlist_sub_outline_008_255	[~ 137]
+msg_questlist_sub_outline_008_255	[~ 167]
 msg_questlist_sub_outline_009	ちょうどいい漬物石を\n探しているユキエから\nイシツブテを捕まえてきてほしいと頼まれた。
-msg_questlist_sub_outline_009_255	[~ 139]
+msg_questlist_sub_outline_009_255	[~ 169]
 msg_questlist_sub_outline_010	立派なギンガ団員になるには　モンスターボールを\n使いこなせる必要があると考えるシシオのために\n練習用のモンスターボールをあげよう
-msg_questlist_sub_outline_010_255	[~ 141]
-msg_questlist_sub_outline_011	[~ 142]
+msg_questlist_sub_outline_010_255	[~ 171]
+msg_questlist_sub_outline_011	[~ 172]
 msg_questlist_sub_outline_011_10	写真に写りこんだポケモンに\n被写体としての魅力を感じたゲンゾウから\n捕まえたらみせてほしいと頼まれた。
-msg_questlist_sub_outline_011_255	[~ 144]
+msg_questlist_sub_outline_011_255	[~ 174]
 msg_questlist_sub_outline_012	ちかごろ　いたずらビッパが\nコトブキムラで悪さを繰り返しているらしい\nツムギから詳しい話をきこう。
 msg_questlist_sub_outline_012_20	３匹のいたずらビッパが\nコトブキムラに侵入した！\nツムギから捕まえる手伝いを頼まれた。
-msg_questlist_sub_outline_012_255	[~ 147]
+msg_questlist_sub_outline_012_255	[~ 177]
 msg_questlist_sub_outline_013	ノブロウから\nクラボのみを採ってきてほしいと頼まれた。\nいいことを教えてくれるそうだが……。
-msg_questlist_sub_outline_013_255	[~ 149]
+msg_questlist_sub_outline_013_255	[~ 179]
 msg_questlist_sub_outline_014_10	サザンカの家では\n夜中に怪現象が起きるらしい。\n原因を調査するよう頼まれた。
-msg_questlist_sub_outline_014_20	[~ 151]
-msg_questlist_sub_outline_014_30	[~ 152]
-msg_questlist_sub_outline_014_40	[~ 153]
+msg_questlist_sub_outline_014_20	[~ 181]
+msg_questlist_sub_outline_014_30	[~ 182]
+msg_questlist_sub_outline_014_40	[~ 183]
 msg_questlist_sub_outline_015_10	ソノオがイーブイの進化について\n相談があるらしい。\nソノオから詳しい話をきこう。
 msg_questlist_sub_outline_015_20	ソノオのイーブイがいなくなった！\nイーブイを捜してほしいと頼まれた。
-msg_questlist_sub_outline_015_30	[~ 156]
-msg_questlist_sub_outline_015_255	[~ 157]
+msg_questlist_sub_outline_015_30	[~ 186]
+msg_questlist_sub_outline_015_255	[~ 187]
 msg_questlist_sub_outline_016	風抜け道で　赤い火の玉を目撃したタマキから\n話を信じないワカタケに証拠をみせるため\n赤い火の玉を捕まえてほしいと頼まれた。
 msg_questlist_sub_outline_016_20	赤い火の玉の正体は　ヒコザルだった！\nヒコザルを捕まえて　夜闇にひかる\nヒコザルのしっぽをタマキにみせよう。
-msg_questlist_sub_outline_016_255	[~ 160]
+msg_questlist_sub_outline_016_255	[~ 190]
 msg_questlist_sub_outline_017	パラセクトの背中のキノコを\nキノコに詳しいマサヒコと一緒に調べる。\nまずはマサヒコから話をきこう。
-msg_questlist_sub_outline_017_20	[~ 162]
-msg_questlist_sub_outline_017_30	[~ 163]
-msg_questlist_sub_outline_017_40	[~ 164]
-msg_questlist_sub_outline_017_255	[~ 165]
+msg_questlist_sub_outline_017_20	[~ 192]
+msg_questlist_sub_outline_017_30	[~ 193]
+msg_questlist_sub_outline_017_40	[~ 194]
+msg_questlist_sub_outline_017_255	[~ 195]
 msg_questlist_sub_outline_018	珍しいポニータに関する依頼がはいった\nヨタから詳しい話をきこう。
 msg_questlist_sub_outline_018_20	蹄鉄ヶ原に現れる\n珍しいポニータが怖くて困っているヨタから\n珍しいポニータを捕まえてくれと頼まれた。
 msg_questlist_sub_outline_018_30	蹄鉄ヶ原に現れる　珍しいポニータとは\n色違いのポニータのことだった。
-msg_questlist_sub_outline_018_40	[~ 169]
-msg_questlist_sub_outline_018_255	[~ 170]
+msg_questlist_sub_outline_018_40	[~ 199]
+msg_questlist_sub_outline_018_255	[~ 200]
 msg_questlist_sub_outline_019	子供と遊ぶ\nフワンテの姿が目撃されているらしい。\n警備隊のミキオから詳しい話をきこう。
-msg_questlist_sub_outline_019_20	[~ 172]
-msg_questlist_sub_outline_019_30_40_50	[~ 173]
-msg_questlist_sub_outline_019_60	[~ 174]
-msg_questlist_sub_outline_019_255	[~ 175]
+msg_questlist_sub_outline_019_20	[~ 202]
+msg_questlist_sub_outline_019_30_40_50	[~ 203]
+msg_questlist_sub_outline_019_60	[~ 204]
+msg_questlist_sub_outline_019_255	[~ 205]
 msg_questlist_sub_outline_020_10	黒曜の原野にて　風船割りの挑戦を受けた。\n１７個の風船を割ったなら\n特別な景品がもらえるようだ。
-msg_questlist_sub_outline_020_255	[~ 177]
+msg_questlist_sub_outline_020_255	[~ 207]
 msg_questlist_sub_outline_021	地面が固くて畑を耕せないと話す\nイナサから地面を耕せるような\nポケモンを貸してくれと頼まれた。
-msg_questlist_sub_outline_021_255	[~ 179]
+msg_questlist_sub_outline_021_255	[~ 209]
 msg_questlist_sub_outline_022_10	新商品を雑貨屋に卸してもらうため\nタオファと話をつけてほしいと\nタイサイから頼まれた。
-msg_questlist_sub_outline_022_20	[~ 181]
-msg_questlist_sub_outline_022_30	[~ 182]
-msg_questlist_sub_outline_022_255	[~ 183]
+msg_questlist_sub_outline_022_20	[~ 211]
+msg_questlist_sub_outline_022_30	[~ 212]
+msg_questlist_sub_outline_022_255	[~ 213]
 msg_questlist_sub_outline_023_10	呉服屋のシャロンから新しいアイデアを着想するために\nミノマダムをみせてほしいと頼まれた
-msg_questlist_sub_outline_023_255	[~ 185]
+msg_questlist_sub_outline_023_255	[~ 215]
 msg_questlist_sub_outline_024_10	ゲンゾウから　気づかないうちに\n写真に写りこんだ　怪しいポケモンを\n知っていたらみせてほしいと頼まれた。
-msg_questlist_sub_outline_024_255	[~ 187]
+msg_questlist_sub_outline_024_255	[~ 217]
 msg_questlist_sub_outline_025	くすりをつくりたいシノから\n材料集めを頼まれた。\n材料の詳細はタミが知っているらしい。
 msg_questlist_sub_outline_025_20	タミからくすりの材料の詳細をきいた。\nどうやら紅蓮の湿地で採れるようだが……。
-msg_questlist_sub_outline_025_255	[~ 190]
+msg_questlist_sub_outline_025_255	[~ 220]
 msg_questlist_sub_outline_026	コダックと暮らすヤヨイから\nコダックの頭痛に効く\nくすりを探してほしいと頼まれた。
-msg_questlist_sub_outline_026_20	[~ 192]
-msg_questlist_sub_outline_026_255	[~ 193]
+msg_questlist_sub_outline_026_20	[~ 222]
+msg_questlist_sub_outline_026_255	[~ 223]
 msg_questlist_sub_outline_027_10	アヤフミから\n紅蓮の湿地で行方知れずとなった\n妹のミヨを捜してほしいと頼まれた。
-msg_questlist_sub_outline_027_20	[~ 195]
-msg_questlist_sub_outline_027_255	[~ 196]
-msg_questlist_sub_outline_029_10	[~ 197]
-msg_questlist_sub_outline_029_255	[~ 198]
+msg_questlist_sub_outline_027_20	[~ 225]
+msg_questlist_sub_outline_027_255	[~ 226]
+msg_questlist_sub_outline_029_10	[~ 227]
+msg_questlist_sub_outline_029_255	[~ 228]
 msg_questlist_sub_outline_030	イーブイとなかよくなるため\n故郷の料理をふるまおうと考えた\nソノオから材料集めを頼まれた。
-msg_questlist_sub_outline_030_255	[~ 200]
+msg_questlist_sub_outline_030_255	[~ 230]
 msg_questlist_sub_outline_031_10	ノモセ湿地の２つめのキャンプ設営予定地を\nスカンプーたちに占拠されてしまった
-msg_questlist_sub_outline_031_255	[~ 202]
+msg_questlist_sub_outline_031_255	[~ 232]
 msg_questlist_sub_outline_032_10	紅蓮の湿地２つめのキャンプにいる\n村人のイクタロウが\nウソッキーについて相談があるらしい
 msg_questlist_sub_outline_032_20	紅蓮の湿地２つめのキャンプにいるウソッキーに\nみずのはどうを使って水をあげることで\n元気にしてあげたいと相談された
-msg_questlist_sub_outline_032_21	[~ 205]
-msg_questlist_sub_outline_032_255	[~ 206]
+msg_questlist_sub_outline_032_21	[~ 235]
+msg_questlist_sub_outline_032_255	[~ 236]
 msg_questlist_sub_outline_033_10	少女がいう「災いをもたらすモノ」を封印するため\nヒスイ地方の各地にちらばってしまった　107個の\nあおじろいたまを　集めてこよう
 msg_questlist_sub_outline_033_20	107個の　あおじろいたまが　すべて集まった\n封印のためには　最後にやることがあるらしい\n少女の待つ　夜の霧の遺跡まで向かおう
 msg_questlist_sub_outline_033_30	最後の1つのたまを　少女が持っていた\n108個のたまを　かなめいしに集めてと言い残し\n少女は消えてしまった…
 msg_questlist_sub_outline_034_10	放牧場のポケモンがムラを襲うのではと\n考えるネギシに　人とポケモンとの絆\nポケモンとのなかよしな姿をみせよう。
-msg_questlist_sub_outline_034_255	[~ 211]
+msg_questlist_sub_outline_034_255	[~ 241]
 msg_questlist_sub_outline_035_10	チェリムの姿が変わったのは進化だったのか\nそうではないのか　困惑するチュウキチから\nチェリムの図鑑をみせてくれと頼まれた。
-msg_questlist_sub_outline_035_255	[~ 213]
+msg_questlist_sub_outline_035_255	[~ 243]
 msg_questlist_sub_outline_036_10	バリヤードの怪しい動きについて\n調べてほしいと依頼してきた\n村人のサビから詳しい話をきこう
-msg_questlist_sub_outline_036_20_40	[~ 215]
-msg_questlist_sub_outline_036_30_50	[~ 216]
-msg_questlist_sub_outline_036_60	[~ 217]
-msg_questlist_sub_outline_036_255	[~ 218]
+msg_questlist_sub_outline_036_20_40	[~ 245]
+msg_questlist_sub_outline_036_30_50	[~ 246]
+msg_questlist_sub_outline_036_60	[~ 247]
+msg_questlist_sub_outline_036_255	[~ 248]
 msg_questlist_sub_outline_037_10	音楽を趣味にもつヤオは　黒曜の原野で\nときおり耳にするコロボーシの鳴き声に夢中だ。\nコロボーシの図鑑を完成させて　みせてあげよう。
-msg_questlist_sub_outline_037_255	[~ 220]
+msg_questlist_sub_outline_037_255	[~ 250]
 msg_questlist_sub_outline_038_10	キノコを使った　よせだまレシピを発明した\nマサヒコがレシピを有名にするため\n[VAR 0100(0000)]に作り方を伝授したいという。
-msg_questlist_sub_outline_038_255	[~ 222]
+msg_questlist_sub_outline_038_255	[~ 252]
 msg_questlist_sub_outline_039_10	ミツハニーのミツの味について\nユノスケから依頼がはいった。\n話をきいて調査にあたろう。
-msg_questlist_sub_outline_039_20_30_40	[~ 224]
-msg_questlist_sub_outline_039_255	[~ 225]
-msg_questlist_sub_outline_040_10	[~ 226]
-msg_questlist_sub_outline_040_255	[~ 227]
+msg_questlist_sub_outline_039_20_30_40	[~ 254]
+msg_questlist_sub_outline_039_255	[~ 255]
+msg_questlist_sub_outline_040_10	[~ 256]
+msg_questlist_sub_outline_040_255	[~ 257]
 msg_questlist_sub_outline_041	畑を広くしても　水が行き届くよう\n畑の水やりを手伝えるポケモンを\n貸してほしいとイナサに頼まれた。
-msg_questlist_sub_outline_041_255	[~ 229]
-msg_questlist_sub_outline_042_10	[~ 230]
-msg_questlist_sub_outline_042_20	[~ 231]
-msg_questlist_sub_outline_042_30	[~ 232]
-msg_questlist_sub_outline_042_255	[~ 233]
+msg_questlist_sub_outline_041_255	[~ 259]
+msg_questlist_sub_outline_042_10	[~ 260]
+msg_questlist_sub_outline_042_20	[~ 261]
+msg_questlist_sub_outline_042_30	[~ 262]
+msg_questlist_sub_outline_042_255	[~ 263]
 msg_questlist_sub_outline_043_10	ロゼリアの優雅な姿に心うばわれたベラ\nロゼリアのことを　もっと知りたいと考え\nロゼリアの図鑑をみせてほしいと頼まれた。
-msg_questlist_sub_outline_043_255	[~ 235]
+msg_questlist_sub_outline_043_255	[~ 265]
 msg_questlist_sub_outline_044_10	ゲンゾウから\n風景写真に写った双葉の芽が\nポケモンか確認したいと頼まれた。
-msg_questlist_sub_outline_044_255	[~ 237]
+msg_questlist_sub_outline_044_255	[~ 267]
 msg_questlist_sub_outline_045_10	暮らす場所によって　姿が違うカラナクシは\n新しい呉服を思いつくヒントになると考えた\nシャロンから　みせてほしいと頼まれた。
-msg_questlist_sub_outline_045_255	[~ 239]
+msg_questlist_sub_outline_045_255	[~ 269]
 msg_questlist_sub_outline_046_10	オヤブンのカバルドンに追いかけられてなくした\n大事なおまもりを探してほしいと\nヨウジロウから頼まれた。
-msg_questlist_sub_outline_046_11	[~ 241]
-msg_questlist_sub_outline_046_255	[~ 242]
+msg_questlist_sub_outline_046_11	[~ 271]
+msg_questlist_sub_outline_046_255	[~ 272]
 msg_questlist_sub_outline_047	夜　群青の海岸でみかけた\nきらめくポケモンをもう一度みたいウタから\n捕まえたらみせてほしいと頼まれた。
-msg_questlist_sub_outline_047_255	[~ 244]
+msg_questlist_sub_outline_047_255	[~ 274]
 msg_questlist_sub_outline_048	岩影に隠れたポケモンのしなやかに動く\nシッポが忘れられないアサベエから\n捕まえたらみせてほしいと頼まれた。
-msg_questlist_sub_outline_048_255	[~ 246]
+msg_questlist_sub_outline_048_255	[~ 276]
 msg_questlist_sub_outline_049_10_20_30	エイパムたちに荷物を奪われてしまった\nカネヒコから　エイパムを追いかけて\n荷物を取り返してほしいと頼まれた。
-msg_questlist_sub_outline_049_31	[~ 248]
-msg_questlist_sub_outline_049_255	[~ 249]
+msg_questlist_sub_outline_049_31	[~ 278]
+msg_questlist_sub_outline_049_255	[~ 279]
 msg_questlist_sub_outline_050_10	オクタンのスミに\n新しい料理の可能性を感じるユキエから\nオクタンの図鑑をみせてほしいと頼まれた。
-msg_questlist_sub_outline_050_255	[~ 251]
+msg_questlist_sub_outline_050_255	[~ 281]
 msg_questlist_sub_outline_051_10	キャンプを設営するヨリイチが\n周辺を見に行ったきり戻らず　カエから\nみつけたら戻るよう伝えてほしいと頼まれた。
-msg_questlist_sub_outline_051_11	[~ 253]
-msg_questlist_sub_outline_051_20	[~ 254]
-msg_questlist_sub_outline_051_255	[~ 255]
-msg_questlist_sub_outline_052_10	[~ 256]
-msg_questlist_sub_outline_052_20	[~ 257]
-msg_questlist_sub_outline_052_255	[~ 258]
+msg_questlist_sub_outline_051_11	[~ 283]
+msg_questlist_sub_outline_051_20	[~ 284]
+msg_questlist_sub_outline_051_255	[~ 285]
+msg_questlist_sub_outline_052_10	[~ 286]
+msg_questlist_sub_outline_052_20	[~ 287]
+msg_questlist_sub_outline_052_255	[~ 288]
 msg_questlist_sub_outline_053_10	パチリスの戦い方について\nトシロウから依頼があるようだ。
-msg_questlist_sub_outline_053_20	[~ 260]
-msg_questlist_sub_outline_053_255	[~ 261]
+msg_questlist_sub_outline_053_20	[~ 290]
+msg_questlist_sub_outline_053_255	[~ 291]
 msg_questlist_sub_outline_054_10	村人のモクからコイキングについて\nもっと教えてほしいと頼まれた\n図鑑を完成させてまた教えてあげよう
-msg_questlist_sub_outline_054_255	[~ 263]
+msg_questlist_sub_outline_054_255	[~ 293]
 msg_questlist_sub_outline_056_10	製造隊のツユはお腹がすいて動けない\nポッチャマをみつけた　なんとかご飯を\n食べさせたいツユから相談を受ける
-msg_questlist_sub_outline_056_20	[~ 265]
-msg_questlist_sub_outline_056_255	[~ 266]
+msg_questlist_sub_outline_056_20	[~ 295]
+msg_questlist_sub_outline_056_255	[~ 296]
 msg_questlist_sub_outline_057_10	アヤフミから\n群青の海岸で行方知れずとなった\n妹のミヨを　捜してほしいと頼まれた。
-msg_questlist_sub_outline_057_20	[~ 268]
-msg_questlist_sub_outline_057_255	[~ 269]
+msg_questlist_sub_outline_057_20	[~ 298]
+msg_questlist_sub_outline_057_255	[~ 299]
 msg_questlist_sub_outline_058_10	グレッグルの毒を使って\nキネがくすりをつくるらしい。\n話をきいて　手伝いをする。
-msg_questlist_sub_outline_058_20	[~ 271]
-msg_questlist_sub_outline_058_255	[~ 272]
+msg_questlist_sub_outline_058_20	[~ 301]
+msg_questlist_sub_outline_058_255	[~ 302]
 msg_questlist_sub_outline_059_10	ハマナスの島にて　スエトシから\n両手にカマをもったポケモンを\n連れてきてほしいと頼まれた。
 msg_questlist_sub_outline_060_10	群青の海岸にて風船割りの挑戦を受けた。\n２４個の風船を割ったなら\n特別な景品がもらえるようだ。
-msg_questlist_sub_outline_060_255	[~ 275]
+msg_questlist_sub_outline_060_255	[~ 305]
 msg_questlist_sub_outline_061	畑をさらに広げるため\nイナサから　邪魔な岩を砕ける\nポケモンを貸してほしいと頼まれた。
-msg_questlist_sub_outline_062_10	[~ 277]
-msg_questlist_sub_outline_062_20	[~ 278]
-msg_questlist_sub_outline_062_30	[~ 279]
-msg_questlist_sub_outline_062_255	[~ 280]
+msg_questlist_sub_outline_062_10	[~ 307]
+msg_questlist_sub_outline_062_20	[~ 308]
+msg_questlist_sub_outline_062_30	[~ 309]
+msg_questlist_sub_outline_062_255	[~ 310]
 msg_questlist_sub_outline_063_10	新しい髪形が思いつかずスランプのヒナツのために\n着想のきっかけになりそうな\nムウマをみせてあげよう
-msg_questlist_sub_outline_063_255	[~ 282]
+msg_questlist_sub_outline_063_255	[~ 312]
 msg_questlist_sub_outline_064_10	村人のヒサの故郷には青いツタ状のハーブが\nあったそう　なつかしむヒサのために\nハーブをくっつけたポケモンを探してこよう
-msg_questlist_sub_outline_064_255	[~ 284]
+msg_questlist_sub_outline_064_255	[~ 314]
 msg_questlist_sub_outline_065_10	ムラに人が増えて建築隊は大忙し\n建築隊のハチは海岸でゴーリキーと出会い\nぜひ仲間にしたいと考える
 msg_questlist_sub_outline_065_20	ゴーリキーの図鑑を読んだハチは\nゴーリキーと交渉するあいだ　周辺にいる\nスコルピの相手をしてくれと頼まれた。
-msg_questlist_sub_outline_065_255	[~ 287]
+msg_questlist_sub_outline_065_255	[~ 317]
 msg_questlist_sub_outline_066	ノズパスを　捕まえて\n依頼人に　わたそう
 msg_questlist_sub_outline_066_255	迷子にノズパスという　ことわざがあるそうで\n迷いの洞窟で迷いたくないカエから\nノズパスをゆずってほしいと頼まれた。
-msg_questlist_sub_outline_067	[~ 290]
-msg_questlist_sub_outline_067_20	[~ 291]
-msg_questlist_sub_outline_067_255	[~ 292]
+msg_questlist_sub_outline_067	[~ 320]
+msg_questlist_sub_outline_067_20	[~ 321]
+msg_questlist_sub_outline_067_255	[~ 322]
 msg_questlist_sub_outline_068_10	服の染色ができないかと考える\n呉服屋のシャロンから\n試作するための材料調達を依頼される
-msg_questlist_sub_outline_068_255	[~ 294]
+msg_questlist_sub_outline_068_255	[~ 324]
 msg_questlist_sub_outline_069_10	息子と一緒に　肝試しにいくことになったアオマル\nオバケ嫌いだという息子のために\nオバケ克服の手助けをしよう
-msg_questlist_sub_outline_069_255	[~ 296]
+msg_questlist_sub_outline_069_255	[~ 326]
 msg_questlist_sub_outline_070_10	クラフト屋のテッカンに\n[VAR 0189(0000)]がクラフトした\nポケモンこけしがみたい……とお願いされた。
 msg_questlist_sub_outline_071_10	キャンプ設営のジャマをするドーミラーは\nなにかを伝えたいようだ
-msg_questlist_sub_outline_071_255	[~ 299]
-msg_questlist_sub_outline_072_10	[~ 300]
-msg_questlist_sub_outline_072_20	[~ 301]
-msg_questlist_sub_outline_072_30	[~ 302]
-msg_questlist_sub_outline_072_255	[~ 303]
+msg_questlist_sub_outline_071_255	[~ 329]
+msg_questlist_sub_outline_072_10	[~ 330]
+msg_questlist_sub_outline_072_20	[~ 331]
+msg_questlist_sub_outline_072_30	[~ 332]
+msg_questlist_sub_outline_072_255	[~ 333]
 msg_questlist_sub_outline_073_10	製造隊のシュンペイはピッピについて\n調べてほしいことがあるそうだ\n話をきいて調査にあたろう
 msg_questlist_sub_outline_073_20	製造隊のシュンペイの故郷では\n満月の夜にピッピがおどっていたらしい\nシンオウの地でもおどるのか　検証しよう
-msg_questlist_sub_outline_073_30	[~ 306]
-msg_questlist_sub_outline_073_40	[~ 307]
-msg_questlist_sub_outline_073_50	[~ 308]
-msg_questlist_sub_outline_073_255	[~ 309]
+msg_questlist_sub_outline_073_30	[~ 336]
+msg_questlist_sub_outline_073_40	[~ 337]
+msg_questlist_sub_outline_073_50	[~ 338]
+msg_questlist_sub_outline_073_255	[~ 339]
 msg_questlist_sub_outline_074_10	ヒポポタスが性別によって\n模様が異なることを知った呉服屋のシャロンは\n見比べることで呉服の着想を得られると考えた
-msg_questlist_sub_outline_074_255	[~ 311]
-msg_questlist_sub_outline_075_10	[~ 312]
-msg_questlist_sub_outline_075_255	[~ 313]
+msg_questlist_sub_outline_074_255	[~ 341]
+msg_questlist_sub_outline_075_10	[~ 342]
+msg_questlist_sub_outline_075_255	[~ 343]
 msg_questlist_sub_outline_076_10	村人のアヤフミから　警備隊で働く妹のミヨが\n天冠の山麓で行方知れずとなった\n捜してほしいと頼まれた
-msg_questlist_sub_outline_076_20	[~ 315]
-msg_questlist_sub_outline_076_255	[~ 316]
+msg_questlist_sub_outline_076_20	[~ 345]
+msg_questlist_sub_outline_076_255	[~ 346]
 msg_questlist_sub_outline_077_10	村人のアヤフミから　警備隊で働く妹のミヨが\n黒曜の原野で行方知れずとなった\n捜してほしいと頼まれた
-msg_questlist_sub_outline_077_20	[~ 318]
-msg_questlist_sub_outline_077_21	[~ 319]
-msg_questlist_sub_outline_077_255	[~ 320]
-msg_questlist_sub_outline_079_10	[~ 321]
-msg_questlist_sub_outline_079_255	[~ 322]
-msg_questlist_sub_outline_080_10	[~ 323]
-msg_questlist_sub_outline_080_255	[~ 324]
-msg_questlist_sub_outline_082_10	[~ 325]
-msg_questlist_sub_outline_082_20	[~ 326]
-msg_questlist_sub_outline_082_30	[~ 327]
-msg_questlist_sub_outline_082_255	[~ 328]
+msg_questlist_sub_outline_077_20	[~ 348]
+msg_questlist_sub_outline_077_21	[~ 349]
+msg_questlist_sub_outline_077_255	[~ 350]
+msg_questlist_sub_outline_079_10	[~ 351]
+msg_questlist_sub_outline_079_255	[~ 352]
+msg_questlist_sub_outline_080_10	[~ 353]
+msg_questlist_sub_outline_080_255	[~ 354]
+msg_questlist_sub_outline_082_10	[~ 355]
+msg_questlist_sub_outline_082_20	[~ 356]
+msg_questlist_sub_outline_082_30	[~ 357]
+msg_questlist_sub_outline_082_255	[~ 358]
 msg_questlist_sub_outline_083_10	新しい髪形が思いつかずスランプのヒナツのために\n着想のきっかけになりそうな\nキルリアをみせてあげよう
-msg_questlist_sub_outline_083_255	[~ 330]
+msg_questlist_sub_outline_083_255	[~ 360]
 msg_questlist_sub_outline_084_10	究極のつけものレシピを教えてもらうため\n材料集めをすることになった
-msg_questlist_sub_outline_084_255	[~ 332]
+msg_questlist_sub_outline_084_255	[~ 362]
 msg_questlist_sub_outline_085_10	純白の凍土　三又山にいる\n村人のマサヒコが　ウリムーの特技に関する\n依頼があるそうだ
-msg_questlist_sub_outline_085_15_20_30	[~ 334]
-msg_questlist_sub_outline_085_40	[~ 335]
-msg_questlist_sub_outline_085_255	[~ 336]
+msg_questlist_sub_outline_085_15_20_30	[~ 364]
+msg_questlist_sub_outline_085_40	[~ 365]
+msg_questlist_sub_outline_085_255	[~ 366]
 msg_questlist_sub_outline_086_10	商人のシマキから純白の凍土にあったという\n集落の痕跡を探してほしいと頼まれた
 msg_questlist_sub_outline_086_20	雪崩坂で破れた日記をみつけた\n残りのページを探せば　集落に関する情報が\nみつかるかもしれない
 msg_questlist_sub_outline_086_30	ユキメノコから日記の残りページを手に入れ\n古い日記が完成した　日記には\nかつて雪崩坂あった集落のことが書かれている
-msg_questlist_sub_outline_086_255	[~ 340]
-msg_questlist_sub_outline_087_010	[~ 341]
-msg_questlist_sub_outline_087_020	[~ 342]
-msg_questlist_sub_outline_087_030	[~ 343]
-msg_questlist_sub_outline_087_040	[~ 344]
-msg_questlist_sub_outline_087_255	[~ 345]
-msg_questlist_sub_outline_088	[~ 346]
+msg_questlist_sub_outline_086_255	[~ 370]
+msg_questlist_sub_outline_087_010	[~ 371]
+msg_questlist_sub_outline_087_020	[~ 372]
+msg_questlist_sub_outline_087_030	[~ 373]
+msg_questlist_sub_outline_087_040	[~ 374]
+msg_questlist_sub_outline_087_255	[~ 375]
+msg_questlist_sub_outline_088	[~ 376]
 msg_questlist_sub_outline_088_10	村人のヘイハチ　カツエ　ミチヒコ\n異なる姿のミノムッチが本物と言い争う\n３人からミノムッチをみせてくれと頼まれた
-msg_questlist_sub_outline_088_20	[~ 348]
-msg_questlist_sub_outline_088_255	[~ 349]
+msg_questlist_sub_outline_088_20	[~ 378]
+msg_questlist_sub_outline_088_255	[~ 379]
 msg_questlist_sub_outline_089_10	ポケモンであるハピナスに助けられたという\n製造隊のマチから依頼がきた
-msg_questlist_sub_outline_089_20	[~ 351]
-msg_questlist_sub_outline_089_21	[~ 352]
-msg_questlist_sub_outline_089_255	[~ 353]
+msg_questlist_sub_outline_089_20	[~ 381]
+msg_questlist_sub_outline_089_21	[~ 382]
+msg_questlist_sub_outline_089_255	[~ 383]
 msg_questlist_sub_outline_090_10	キネからクスリソウを１００本\n採ってきてほしいと頼まれた。
-msg_questlist_sub_outline_090_255	[~ 355]
+msg_questlist_sub_outline_090_255	[~ 385]
 msg_questlist_sub_outline_091_10	2つめのキャンプを設営するため\n村人のエイシロウを捜そう
-msg_questlist_sub_outline_091_20	[~ 357]
-msg_questlist_sub_outline_091_255	[~ 358]
+msg_questlist_sub_outline_091_20	[~ 387]
+msg_questlist_sub_outline_091_255	[~ 388]
 msg_questlist_sub_outline_092_10	警備隊のヤンは故郷から\n変わったロコンを連れてきたらしい\nみせてもらって調査にあたろう
-msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 360]
-msg_questlist_sub_outline_092_255	[~ 361]
+msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 390]
+msg_questlist_sub_outline_092_255	[~ 391]
 msg_questlist_sub_outline_093_10	雪原の第２キャンプで働く警備隊のクニイチは\n結果を出して早く昇進したいけれど\n寒さが原因で力が出ないらしい
-msg_questlist_sub_outline_093_255	[~ 363]
+msg_questlist_sub_outline_093_255	[~ 393]
 msg_questlist_sub_outline_094_10	民家の軒下に野生のチリーンが住みついたらしい\n民家に住む　村人のイソから話をきいて\n調査にあたろう
-msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 365]
-msg_questlist_sub_outline_094_255	[~ 366]
+msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 395]
+msg_questlist_sub_outline_094_255	[~ 396]
 msg_questlist_sub_outline_095_10	カチコールが大好きなシンジュ団のエイカは\nだれよりもカチコールに詳しくありたい\nカチコールの図鑑が完成したらみせてと頼まれた
-msg_questlist_sub_outline_095_255	[~ 368]
+msg_questlist_sub_outline_095_255	[~ 398]
 msg_questlist_sub_outline_096_10	アヤフミから\n純白の凍土で行方知れずとなった\n妹のミヨを捜してほしいと頼まれた。
-msg_questlist_sub_outline_096_20	[~ 370]
-msg_questlist_sub_outline_096_255	[~ 371]
+msg_questlist_sub_outline_096_20	[~ 400]
+msg_questlist_sub_outline_096_255	[~ 401]
 msg_questlist_sub_outline_097_10	客からの苦情によって泣く泣くお蔵入りされた\nレシピをアメ屋から教えてもらうことになった
-msg_questlist_sub_outline_097_255	[~ 373]
+msg_questlist_sub_outline_097_255	[~ 403]
 msg_questlist_sub_outline_098_10	純白の凍土へ　帽子を捜しに行ったきり\n帰ってこないルカリオを捜してほしいと\nハクから頼まれた。
-msg_questlist_sub_outline_098_11	[~ 375]
-msg_questlist_sub_outline_098_255	[~ 376]
+msg_questlist_sub_outline_098_11	[~ 405]
+msg_questlist_sub_outline_098_255	[~ 406]
 msg_questlist_sub_outline_099_10	村人のセンキチから連れのタマザラシが\nゴロゴロ山地を転がり落ちてしまったので\n探してきてほしいと頼まれた
-msg_questlist_sub_outline_099_50	[~ 378]
-msg_questlist_sub_outline_099_255	[~ 379]
+msg_questlist_sub_outline_099_50	[~ 408]
+msg_questlist_sub_outline_099_255	[~ 409]
 msg_questlist_sub_outline_100_10	純白の凍土の風船割り屋から挑戦を受けた\nxx個の風船を割ったなら\n特別な景品がもらえるようだ
-msg_questlist_sub_outline_100_255	[~ 381]
+msg_questlist_sub_outline_100_255	[~ 411]
 msg_questlist_sub_outline_110_10	群青の海岸で大きな影が目撃されたらしい。\nラベン博士は　[VAR 0189(0000)]が戦った\nギラティナである可能性が高いと分析する。
 msg_questlist_sub_outline_114_10	ヒスイ地方には　化身と呼ばれる\nポケモンが姿を現すことがあるという。\n図鑑を完成させるために調査をしよう。
 msg_questlist_sub_outline_115_10	ラベン博士が目撃した海のポケモンは\nもしかしたら「海の伝説」に登場する\nポケモンなのかもしれない……。
@@ -23348,29 +23432,59 @@ msg_questlist_sub_outline_116_10	過去に珍しいポケモンに出会った�
 msg_questlist_sub_outline_117_10	恐ろしいポケモンを目撃した依頼主から\n詳しい状況や場所の情報をもらい\nそのポケモンの調査をする。
 msg_questlist_sub_outline_122_10	コンゴウ団のセキが\nポケモン勝負を挑んできた。\n勝利して「お宝」についての話をきこう。
 msg_questlist_sub_outline_123_10	シンジュ団のカイが\nポケモン勝負を挑んできた。\n勝利して「お宝」についての話をきこう。
+msg_questlist_sub_outline_201	ヨネから\nゴンベが気になる場所を\n調べてほしいと頼まれた。
+msg_questlist_sub_outline_202	ヨネから\n黒曜の原野で発生する\n大大大発生を調査してほしいと頼まれた。
+msg_questlist_sub_outline_203	ヨネから\n紅蓮の湿地で発生する\n大大大発生を調査してほしいと頼まれた。
+msg_questlist_sub_outline_204	ヨネから\n群青の海岸で発生する\n大大大発生を調査してほしいと頼まれた。
+msg_questlist_sub_outline_205	ヨネから\n純白の凍土にある秘密の横穴に\nキノコよせだまを持ってきてほしいと頼まれた。
+msg_questlist_sub_outline_206	ヨネから\n天冠の山麓で発生する\n大大大発生を調査してほしいと頼まれた。
+msg_questlist_sub_outline_207	ヨネから\n純白の凍土で発生する\n大大大発生を調査してほしいと頼まれた。
+msg_questlist_sub_outline_208	セキとカイに連れられて\n黒曜の原野へ\n夜明けをみにいった。
+msg_questlist_sub_outline_250	ペリーラから\n最強の警備隊員と\n勝負しないかと誘われた。
+msg_questlist_sub_outline_251	[~ 428]
+msg_questlist_sub_outline_252	セキから\nだいこんごうだまを使ったディアルガと\n勝負したいと頼まれた。
 msg_questlist_sub_outline_253	「あかいくさり」を手に入れるため\n黒曜の原野にあるシンジ湖で\n守り神の試練を受けよう。
 msg_questlist_sub_outline_254	「あかいくさり」を手に入れるため\n紅蓮の湿地にあるリッシ湖で\n守り神の試練を受けよう。
 msg_questlist_sub_outline_255	「あかいくさり」を手に入れるため\n純白の凍土にあるエイチ湖で\n守り神の試練を受けよう。
-msg_questlist_sub_purpose_001_1_1	[~ 392]
+msg_questlist_sub_outline_256	カイから\nだいしらたまを使ったパルキアと\n勝負したいと頼まれた。
+msg_questlist_sub_outline_257	天冠の山麓にて　風船割りの挑戦を受けた。\n４０個の風船を割ったなら\n特別な景品がもらえるようだ。
+msg_questlist_sub_outline_258	コレチカから\n黒鉄トンネルにいるポケモンを\nおとなしくさせてほしいと頼まれた。
+msg_questlist_sub_outline_259	[~ 436]
+msg_questlist_sub_outline_261	警備隊のコガレから\nいっぴき道を勧められた。\n鍛えあげたビッパで挑むといいらしい。
+msg_questlist_sub_outline_262	警備隊のコガレから\nいっぴき道を勧められた。\n有利になる姿があるらしい。
+msg_questlist_sub_outline_263	警備隊のコガレから\nいっぴき道を勧められた。\n精神を統一し弱点を突くといいらしい。
+msg_questlist_sub_outline_264	警備隊のコガレから\nいっぴき道を勧められた。\n守りの力を攻めの力に変えるといいらしい。
+msg_questlist_sub_outline_265	警備隊のコガレから\nいっぴき道を勧められた。\n限界まで育てて挑むといいらしい。
+msg_questlist_sub_outline_266	警備隊のコガレから\nいっぴき道を勧められた。\n有利になる家電があるらしい。
+msg_questlist_sub_outline_267	警備隊のコガレから\nいっぴき道を勧められた。\n頑強なコイキングで耐えきるといいらしい。
+msg_questlist_sub_outline_268	警備隊のコガレから\nいっぴき道を勧められた。\n勝利を呼びこむ舞を踊るといいらしい。
+msg_questlist_sub_outline_269	警備隊のコガレから\nいっぴき道を勧められた。\n相手の技を使えばいいらしい。
+msg_questlist_sub_outline_270	警備隊のコガレから\nいっぴき道を勧められた。\n極限まで育てて挑むといいらしい。
+msg_questlist_sub_outline_271	警備隊のコガレから\nいっぴき道を勧められた。\nものまねの達人に注意したほうがいいらしい。
+msg_questlist_sub_outline_272	警備隊のコガレから\nいっぴき道を勧められた。\n相手が寝ているときが好機らしい。
+msg_questlist_sub_outline_273	警備隊のコガレから\nいっぴき道を勧められた。\n時空の歪みで出会ったニューラがいいらしい。
+msg_questlist_sub_outline_274	警備隊のコガレから\nいっぴき道を勧められた。\n回復して耐えきるといいらしい。
+msg_questlist_sub_outline_275	警備隊のコガレから\nいっぴき道を勧められた。\n地面に降りた隙を狙うといいらしい。
+msg_questlist_sub_purpose_001_1_1	[~ 452]
 msg_questlist_sub_purpose_001_10_1	製造隊のヒマリに\nポケモンをみせる
 msg_questlist_sub_purpose_001_10_2	製造隊のヒマリに\n完成したムックルの図鑑をみせる
-msg_questlist_sub_purpose_002_1_1	[~ 395]
+msg_questlist_sub_purpose_002_1_1	[~ 455]
 msg_questlist_sub_purpose_002_10_1	村人のトシに\nポケモンをみせる
-msg_questlist_sub_purpose_003_1_1	[~ 397]
+msg_questlist_sub_purpose_003_1_1	[~ 457]
 msg_questlist_sub_purpose_003_10_1	村人のサビに\nきのみを渡す
 msg_questlist_sub_purpose_004_10_1	警備隊のトオマに\nポケモンを渡す
-msg_questlist_sub_purpose_005_1_1	[~ 400]
+msg_questlist_sub_purpose_005_1_1	[~ 460]
 msg_questlist_main_purpose_005_10_1	警備隊のスグルに\nポケモンを渡す
 msg_questlist_sub_purpose_006_10_1	警備隊のスグルから\n話をきく
 msg_questlist_sub_purpose_006_20_1	警備隊のスグルに\nポケモンをみせる
 msg_questlist_sub_purpose_007_10_1	警備隊のコサメから\n話をきく
 msg_questlist_sub_purpose_007_20_1	警備隊のコサメに\nポケモンをみせる
-msg_questlist_sub_purpose_008	[~ 406]
+msg_questlist_sub_purpose_008	[~ 466]
 msg_questlist_sub_purpose_008_10_1	コトブキムラの射的で\n１０,０００点以上を記録する
 msg_questlist_sub_purpose_009_10_1	村人のユキエに\nポケモンを渡す
 msg_questlist_sub_purpose_010	村人のシシオに\nボールを渡す
 msg_questlist_sub_purpose_011_10	写真屋のゲンゾウに\n写真に写るポケモンをみせる
-msg_questlist_sub_purpose_011_20	[~ 411]
+msg_questlist_sub_purpose_011_20	[~ 471]
 msg_questlist_sub_purpose_012_10	警備隊のツムギから話をきく
 msg_questlist_sub_purpose_012_20	手持ちにビッパを加えて\nムラに侵入したビッパを探す。\n残り　３/３
 msg_questlist_sub_purpose_012_30	手持ちにビッパを加えて\nムラに侵入したビッパを探す。\n残り　２/３
@@ -23384,30 +23498,30 @@ msg_questlist_sub_purpose_016_10_1	赤い火の玉を\n捕まえる
 msg_questlist_sub_purpose_016_20_1	村人のタマキに\nポケモンをみせる
 msg_questlist_sub_purpose_017_10_1	村人のマサヒコに話をきく
 msg_questlist_sub_purpose_017_20_2	村人のマサヒコに\nポケモンをみせる
-msg_questlist_sub_purpose_017_30_1	[~ 425]
-msg_questlist_sub_purpose_017_40_1	[~ 426]
+msg_questlist_sub_purpose_017_30_1	[~ 485]
+msg_questlist_sub_purpose_017_40_1	[~ 486]
 msg_questlist_sub_purpose_018_10_1	村人のヨタから\n依頼内容をきく
 msg_questlist_sub_purpose_018_20_1	黒曜の原野　蹄鉄ヶ原にいる\n珍しいポニータを捕まえる
 msg_questlist_sub_purpose_018_30_1	村人のヨタに報告する
 msg_questlist_sub_purpose_019_10_1	警備隊のミキオから\n依頼内容をきく
 msg_questlist_sub_purpose_019_20_1	夕方　始まりの浜にいる\nフワンテと子供を　調査する
-msg_questlist_sub_purpose_019_30_1	[~ 432]
+msg_questlist_sub_purpose_019_30_1	[~ 492]
 msg_questlist_sub_purpose_019_60_1	警備隊のミキオに報告する
 msg_questlist_sub_purpose_020_10_1	黒曜の原野での風船割り\n制限時間内に１７個　風船を割る
 msg_questlist_sub_purpose_021_10_1	イナサに　地面タイプの\nポケモンを貸す
 msg_questlist_sub_purpose_022_10_1	道具を手土産に\n製造隊リーダーのタオファと\n話をつける
-msg_questlist_sub_purpose_022_20_1	[~ 437]
+msg_questlist_sub_purpose_022_20_1	[~ 497]
 msg_questlist_sub_purpose_022_30_1	雑貨屋のタイサイに報告する
 msg_questlist_sub_purpose_023_10_1	呉服屋のシャロンに\nポケモンをみせる
 msg_questlist_sub_purpose_025_10_1	医療隊のタミから\nくすりの材料の情報をきく
 msg_questlist_sub_purpose_025_20_1	くすりの材料を\n医療隊のタミに渡す。
 msg_questlist_sub_purpose_026_10_1	コトブキムラで\nコダックの頭痛に効く\nくすりの情報を集める
 msg_questlist_sub_purpose_026_20_1	コンゴウ団のヤヨイに\n道具を渡す
-msg_questlist_sub_purpose_026_30_1	[~ 444]
+msg_questlist_sub_purpose_026_30_1	[~ 504]
 msg_questlist_sub_purpose_027_10_1	紅蓮の湿地で行方知れずの\n警備隊のミヨを捜す
 msg_questlist_sub_purpose_027_20_1	ギンガ団本部１階にいる\n村人のアヤフミに報告する
-msg_questlist_sub_purpose_029_10_1	[~ 447]
-msg_questlist_sub_purpose_029_10_1_ex	[~ 448]
+msg_questlist_sub_purpose_029_10_1	[~ 507]
+msg_questlist_sub_purpose_029_10_1_ex	[~ 508]
 msg_questlist_sub_purpose_030_10_1	建築隊のソノオに　材料を渡す
 msg_questlist_sub_purpose_031_10_1	スカンプー３匹を追い払う
 msg_questlist_sub_purpose_031_10_2	荒地ベース設営の手助けにむかう
@@ -23422,14 +23536,14 @@ msg_questlist_sub_purpose_035_10_1	畑作隊のチュウキチに\n完成した�
 msg_questlist_sub_purpose_036_10_1	村人のサビから\n依頼内容をきく
 msg_questlist_sub_purpose_036_20_40_1	バリヤードに近づいて\nなにをしているか調べる
 msg_questlist_sub_purpose_036_30_50_1	逃げたバリヤードを追う
-msg_questlist_sub_purpose_036_60_1	[~ 463]
+msg_questlist_sub_purpose_036_60_1	[~ 523]
 msg_questlist_sub_purpose_037_10_1	村人のヤオに\nコロボーシの\n完成した図鑑をみせる
 msg_questlist_sub_purpose_038_10_1	村人のマサヒコに\n材料を渡す
 msg_questlist_sub_purpose_039_10_1	畑作隊のユノスケから\n依頼内容をきく
 msg_questlist_sub_purpose_039_20_1	畑作隊のユノスケに\n険し林で出会った\nミツハニーをみせる
 msg_questlist_sub_purpose_039_30_1	畑作隊のユノスケに\n雲海峠で出会った\nミツハニーをみせる
 msg_questlist_sub_purpose_039_40_1	畑作隊のユノスケに\nエイパム山で出会った\nミツハニーをみせる
-msg_questlist_sub_purpose_040_10_1	[~ 470]
+msg_questlist_sub_purpose_040_10_1	[~ 530]
 msg_questlist_sub_purpose_041_10_1	畑作隊のイナサに\nみずタイプの技を覚えた\nポケモンを貸す
 msg_questlist_sub_purpose_043_10_1	村人のベラに\n完成したロゼリアの図鑑をみせる
 msg_questlist_sub_purpose_045_10_1	呉服屋のシャロンに\nひがしと　にしの\nカラナクシをみせる。
@@ -23444,9 +23558,9 @@ msg_questlist_sub_purpose_051_10_1	村人のヨリイチを探す
 msg_questlist_sub_purpose_051_11_1	ペラップを追い払い\n村人のヨリイチを助ける
 msg_questlist_sub_purpose_051_20_1	製造隊のカエに報告する
 msg_questlist_sub_purpose_051_20_2	製造隊のカエから話をきく
-msg_questlist_sub_purpose_052_10_1	[~ 485]
-msg_questlist_sub_purpose_052_20_1	[~ 486]
-msg_questlist_sub_purpose_052_21_1	[~ 487]
+msg_questlist_sub_purpose_052_10_1	[~ 545]
+msg_questlist_sub_purpose_052_20_1	[~ 546]
+msg_questlist_sub_purpose_052_21_1	[~ 547]
 msg_questlist_sub_purpose_053_10_1	警備隊のトシロウから\n依頼内容をきく
 msg_questlist_sub_purpose_053_20_1	パチリスだけを連れて\n警備隊のトシロウに\nパチリスの戦い方をみせる
 msg_questlist_sub_purpose_054_10_1	コイキングの図鑑を完成させて\n村人のモクに教える
@@ -23455,7 +23569,7 @@ msg_questlist_sub_purpose_057_10_1	群青の海岸で行方知れずの\n警備�
 msg_questlist_sub_purpose_058_10_1	医療隊リーダーのキネから\n依頼内容をきく
 msg_questlist_sub_purpose_058_20_1	医療隊リーダーのキネに\nポケモンを渡す
 msg_questlist_sub_purpose_059_10_1	両手にカマをもったポケモンを\nハマナスの島のスエトシにみせる
-msg_questlist_sub_purpose_060_1_1	[~ 496]
+msg_questlist_sub_purpose_060_1_1	[~ 556]
 msg_questlist_sub_purpose_060_10_1	群青の海岸での風船割り\n制限時間内に２４個　風船を割る
 msg_questlist_sub_purpose_061_10_1	畑作隊のイナサに\nいわくだきを覚えた\nポケモンを貸す
 msg_questlist_sub_purpose_063_10_1	ヒナツにポケモンをみせる
@@ -23463,25 +23577,25 @@ msg_questlist_sub_purpose_064_10_1	村人のヒサに\n青いツル状のハー�
 msg_questlist_sub_purpose_065_10_1	建築隊のハチに\n完成したゴーリキーの\n図鑑をみせる
 msg_questlist_sub_purpose_065_20_1	建築隊のハチが\nゴーリキーを勧誘するあいだ\n周囲にいるスコルピの相手をする
 msg_questlist_sub_purpose_066_10_1	製造隊のカエに\nポケモンを渡す
-msg_questlist_sub_purpose_067_10_1	[~ 504]
+msg_questlist_sub_purpose_067_10_1	[~ 564]
 msg_questlist_sub_purpose_068_10_1	呉服屋のシャロンに渡す
 msg_questlist_sub_purpose_069_10_1	ゴースの図鑑を完成させて\n村人のアオマルにみせる
 msg_questlist_sub_purpose_070_10_1	ポケモンこけしをクラフトして\nテッカンにみせる
 msg_questlist_sub_purpose_071_10_1	ドーミラーの目的を調べる
-msg_questlist_sub_purpose_072_10_1	[~ 509]
-msg_questlist_sub_purpose_072_20_1	[~ 510]
-msg_questlist_sub_purpose_072_30_1	[~ 511]
+msg_questlist_sub_purpose_072_10_1	[~ 569]
+msg_questlist_sub_purpose_072_20_1	[~ 570]
+msg_questlist_sub_purpose_072_30_1	[~ 571]
 msg_questlist_sub_purpose_073_10_1	製造隊のシュンペイから話をきく
 msg_questlist_sub_purpose_073_20_40_1	満月の夜　フェアリーの泉で\nピッピが踊るか調べる
-msg_questlist_sub_purpose_073_30_1	[~ 514]
+msg_questlist_sub_purpose_073_30_1	[~ 574]
 msg_questlist_sub_purpose_073_50_1	製造隊のシュンペイに報告する
 msg_questlist_sub_purpose_074_10_1	ヒポポタスの♂と♀を\n呉服屋のシャロンにみせる
-msg_questlist_sub_purpose_075_10_1	[~ 517]
-msg_questlist_sub_purpose_075_11_1	[~ 518]
+msg_questlist_sub_purpose_075_10_1	[~ 577]
+msg_questlist_sub_purpose_075_11_1	[~ 578]
 msg_questlist_sub_purpose_076_10_1	天冠の山麓で行方知れずの\n警備隊のミヨを捜す
 msg_questlist_sub_purpose_077_10_1	黒曜の原野で行方知れずの\n警備隊のミヨを捜す
 msg_questlist_sub_purpose_077_11_1	警備隊のミヨを襲っている\nパラスを３匹倒す
-msg_questlist_sub_purpose_080_10_1	[~ 522]
+msg_questlist_sub_purpose_080_10_1	[~ 582]
 msg_questlist_sub_purpose_084_10_1	村人のユキエに　材料を渡す
 msg_questlist_sub_purpose_085_10_1	純白の凍土　心形岩山にいる\n村人のマサヒコから話をきく
 msg_questlist_sub_purpose_085_15_1	ウリムーを手持ちに加えて\n雪に埋もれたキノコを集める。\n残り　３/３
@@ -23490,12 +23604,12 @@ msg_questlist_sub_purpose_085_30_1	ウリムーを手持ちに加えて\n雪に�
 msg_questlist_sub_purpose_085_40_1	村人のマサヒコに報告する
 msg_questlist_sub_purpose_086_10_1	純白の凍土　雪崩坂にあったという\n里の痕跡を探す
 msg_questlist_sub_purpose_086_30_1	商人のシマキに\n古い日記を渡す
-msg_questlist_sub_purpose_087_10_1	[~ 531]
-msg_questlist_sub_purpose_087_10_2	[~ 532]
-msg_questlist_sub_purpose_087_10_3	[~ 533]
-msg_questlist_sub_purpose_087_20_1	[~ 534]
-msg_questlist_sub_purpose_087_30_1	[~ 535]
-msg_questlist_sub_purpose_087_40_1	[~ 536]
+msg_questlist_sub_purpose_087_10_1	[~ 591]
+msg_questlist_sub_purpose_087_10_2	[~ 592]
+msg_questlist_sub_purpose_087_10_3	[~ 593]
+msg_questlist_sub_purpose_087_20_1	[~ 594]
+msg_questlist_sub_purpose_087_30_1	[~ 595]
+msg_questlist_sub_purpose_087_40_1	[~ 596]
 msg_questlist_sub_purpose_088_10_1	村人の\nヘイハチ　カツエ　ミチヒコに\nミノムッチをみせる
 msg_questlist_sub_purpose_088_20_1	村人の\nヘイハチ　カツエ　ミチヒコに\nミノムッチの\n完成した図鑑をみせる
 msg_questlist_sub_purpose_089_10_1	純白の凍土にいる\n製造隊のマチから話をきく
@@ -23510,7 +23624,7 @@ msg_questlist_sub_purpose_092_30_1	純白の凍土に隠れる\nロコン（ア�
 msg_questlist_sub_purpose_092_40_1	純白の凍土に隠れる\nロコン（アローラのすがた）\nを捜す。\n残り　３/５
 msg_questlist_sub_purpose_092_50_1	純白の凍土に隠れる\nロコン（アローラのすがた）\nを捜す。\n残り　２/５
 msg_questlist_sub_purpose_092_60_1	純白の凍土に隠れる\nロコン（アローラのすがた）\nを捜す。\n残り　１/５
-msg_questlist_sub_purpose_092_70_1	[~ 551]
+msg_questlist_sub_purpose_092_70_1	[~ 611]
 msg_questlist_sub_purpose_092_80_1	警備隊のヤンに報告する
 msg_questlist_sub_purpose_093_10_1	警備隊のクニイチに\nほのおタイプのポケモンを渡す
 msg_questlist_sub_purpose_094_10_1	民家の縁側で待つ\n村人のイソから話をきく
@@ -23524,7 +23638,7 @@ msg_questlist_sub_purpose_096_10_1	純白の凍土で行方知れずの\n村人�
 msg_questlist_sub_purpose_096_11_1	オニゴーリを倒して\n村人のアヤフミを助ける
 msg_questlist_sub_purpose_097_10_1	アメ屋のマツモに材料を渡す
 msg_questlist_sub_purpose_098_10_1	訓練場にいる\nルカリオと勝負する
-msg_questlist_sub_purpose_098_11_1	[~ 565]
+msg_questlist_sub_purpose_098_11_1	[~ 625]
 msg_questlist_sub_purpose_099_10_20_30_40_1	ゴロゴロ山地から転がり落ちた\n村人のセンキチの\nタマザラシを探す
 msg_questlist_sub_purpose_099_50_1	山頂ベースにいる\n村人のセンキチに話しかける
 msg_questlist_sub_purpose_100_10_1	純白の凍土での風船割り\n制限時間内に３０個　風船を割る
@@ -23540,25 +23654,85 @@ msg_questlist_sub_purpose_116_10_1	原野ベースにいる\nコンゴウ団の�
 msg_questlist_sub_purpose_116_20_1	黒曜の原野のどこかにある\n「グラシデアの花畑」を探す
 msg_questlist_sub_purpose_116_30_1	グラシデアの花畑で\nシェイミを捕まえる
 msg_questlist_sub_purpose_117_10_1	崖登り崖の付近に\n夜にだけ現れる\n謎の黒いポケモンをさがす
-msg_questlist_sub_purpose_117_20_1	[~ 581]
+msg_questlist_sub_purpose_117_20_1	[~ 641]
 msg_questlist_sub_purpose_117_20_1_fix	崖登り崖の付近で\nダークライを捕まえる
 msg_questlist_sub_purpose_122_10_1	コンゴウ集落の近くにいる\nセキと勝負をして勝つ
 msg_questlist_sub_purpose_123_10_1	シンジュ集落の近くにいる\nカイと勝負をして勝つ
+msg_questlist_sub_purpose_201_10_1	ヨネのゴンベが気になっている\n場所へいく
+msg_questlist_sub_purpose_201_20_1	ヨネに報告する
+msg_questlist_sub_purpose_201_30_1	ハマナスの島で確認した\nゾロアたちのことを\nシマボシに報告する
+msg_questlist_sub_purpose_202_10_1	ヨネと一緒に\n黒曜の原野へ向かう
+msg_questlist_sub_purpose_202_20_1	[~ 649]
+msg_questlist_sub_purpose_202_30_1	[~ 650]
+msg_questlist_sub_purpose_202_40_1	黒曜の原野で発生する\n大大大発生の調査\nあと　３箇所
+msg_questlist_sub_purpose_202_50_1	黒曜の原野で発生する\n大大大発生の調査\nあと　２箇所
+msg_questlist_sub_purpose_202_60_1	黒曜の原野で発生する\n大大大発生の調査\nあと　１箇所
+msg_questlist_sub_purpose_203_10_1	ヨネと一緒に\n紅蓮の湿地へ向かう
+msg_questlist_sub_purpose_203_20_1	[~ 655]
+msg_questlist_sub_purpose_203_30_1	[~ 656]
+msg_questlist_sub_purpose_203_40_1	紅蓮の湿地で発生する\n大大大発生の調査\nあと　３箇所
+msg_questlist_sub_purpose_203_50_1	紅蓮の湿地で発生する\n大大大発生の調査\nあと　２箇所
+msg_questlist_sub_purpose_203_60_1	紅蓮の湿地で発生する\n大大大発生の調査\nあと　１箇所
+msg_questlist_sub_purpose_204_10_1	ヨネと一緒に\n群青の海岸へ向かう
+msg_questlist_sub_purpose_204_20_1	[~ 661]
+msg_questlist_sub_purpose_204_30_1	[~ 662]
+msg_questlist_sub_purpose_204_40_1	群青の海岸で発生する\n大大大発生の調査\nあと　３箇所
+msg_questlist_sub_purpose_204_50_1	群青の海岸で発生する\n大大大発生の調査\nあと　２箇所
+msg_questlist_sub_purpose_204_60_1	群青の海岸で発生する\n大大大発生の調査\nあと　１箇所
+msg_questlist_sub_purpose_204_70_1	イチョウの浜辺で\n[VAR 01DC(0001)]との勝負に勝つ
+msg_questlist_sub_purpose_205_10_1	純白の凍土にある\n秘密の横穴で\nヨネに頼まれた道具を渡す
+msg_questlist_sub_purpose_205_20_1	コトブキムラにもどる
+msg_questlist_sub_purpose_206_10_1	ヨネと一緒に\n天冠の山麓へ向かう
+msg_questlist_sub_purpose_206_10_2	[~ 670]
+msg_questlist_sub_purpose_206_10_3	[~ 671]
+msg_questlist_sub_purpose_206_10_4	天冠の山麓で発生する\n大大大発生の調査\nあと　３箇所
+msg_questlist_sub_purpose_206_10_5	天冠の山麓で発生する\n大大大発生の調査\nあと　２箇所
+msg_questlist_sub_purpose_206_10_6	天冠の山麓で発生する\n大大大発生の調査\nあと　１箇所
+msg_questlist_sub_purpose_207_10_1	ヨネと一緒に\n純白の凍土へ向かう
+msg_questlist_sub_purpose_207_20_1	[~ 676]
+msg_questlist_sub_purpose_207_30_1	[~ 677]
+msg_questlist_sub_purpose_207_40_1	純白の凍土で発生する\n大大大発生の調査\nあと　３箇所
+msg_questlist_sub_purpose_207_50_1	純白の凍土で発生する\n大大大発生の調査\nあと　２箇所
+msg_questlist_sub_purpose_207_60_1	純白の凍土で発生する\n大大大発生の調査\nあと　１箇所
+msg_questlist_sub_purpose_208_10_1	
+msg_questlist_sub_purpose_250_10_1	警備隊　最強と一部で呼ばれる\n警備隊員との\n勝負に勝つ
+msg_questlist_sub_purpose_251_10_1	[~ 683]
+msg_questlist_sub_purpose_252_10_1	手持ちポケモンを\nオリジンフォルムのディアルガ\n１匹だけにしてセキに勝つ
 msg_questlist_sub_purpose_253_10_1	シンジ湖に向かう
 msg_questlist_sub_purpose_253_20_1	シンジ湖の空洞で\nポケモンの試練を受ける
 msg_questlist_sub_purpose_254_10_1	リッシ湖に向かう
 msg_questlist_sub_purpose_254_20_1	リッシ湖の空洞で\nポケモンの試練を受ける
 msg_questlist_sub_purpose_255_10_1	エイチ湖に向かう
 msg_questlist_sub_purpose_255_20_1	エイチ湖の空洞で\nポケモンの試練を受ける
+msg_questlist_sub_purpose_256_10_1	手持ちポケモンを\nオリジンフォルムのパルキア\n１匹だけにしてカイに勝つ
+msg_questlist_sub_purpose_257_10_1	天冠の山麓での風船割り\n制限時間内に４０個　風船を割る
+msg_questlist_sub_purpose_258_10_1	黒鉄トンネルにいる\nとんでもないポケモンを\nおとなしくさせる
+msg_questlist_sub_purpose_259_10_1	[~ 694]
+msg_questlist_sub_purpose_261_10_1	ノボリの「いっぴき道」に\nビッパ１匹で挑み　勝利する
+msg_questlist_sub_purpose_262_10_1	ノボリの「いっぴき道」に\nミノマダム１匹で挑み　勝利する
+msg_questlist_sub_purpose_263_10_1	ノボリの「いっぴき道」に\nバサギリ１匹で挑み　勝利する
+msg_questlist_sub_purpose_264_10_1	ノボリの「いっぴき道」に\nトリデプス１匹で挑み　勝利する
+msg_questlist_sub_purpose_265_10_1	ノボリの「いっぴき道」に\nケムッソ１匹で挑み　勝利する
+msg_questlist_sub_purpose_266_10_1	ノボリの「いっぴき道」に\nロトム１匹で挑み　勝利する
+msg_questlist_sub_purpose_267_10_1	ノボリの「いっぴき道」に\nコイキング１匹で挑み　勝利する
+msg_questlist_sub_purpose_268_10_1	ノボリの「いっぴき道」に\nドレディア１匹で挑み　勝利する
+msg_questlist_sub_purpose_269_10_1	ノボリの「いっぴき道」に\nイーブイ１匹で挑み　勝利する
+msg_questlist_sub_purpose_270_10_1	ノボリの「いっぴき道」に\nコロボーシ１匹で挑み　勝利する
+msg_questlist_sub_purpose_271_10_1	ノボリの「いっぴき道」に\nケーシィ１匹で挑み　勝利する
+msg_questlist_sub_purpose_272_10_1	ノボリの「いっぴき道」に\nロゼリア１匹で挑み　勝利する
+msg_questlist_sub_purpose_273_10_1	ノボリの「いっぴき道」に\nニューラ１匹で挑み　勝利する
+msg_questlist_sub_purpose_274_10_1	ノボリの「いっぴき道」に\nハピナス１匹で挑み　勝利する
+msg_questlist_sub_purpose_275_10_1	ノボリの「いっぴき道」に\nロズレイド１匹で挑み　勝利する
+msg_questlist_sub_purpose_261_20_1	警備隊のコガレに\n報告する
 msg_questlist_sub_reward_farm_1	のうじょうのはたけがふえる
-msg_questlist_sub_reward_farm_2	[~ 592]
-msg_questlist_sub_reward_farm_3	[~ 593]
+msg_questlist_sub_reward_farm_2	[~ 712]
+msg_questlist_sub_reward_farm_3	[~ 713]
 msg_questlist_sub_reward_question	？？？？？？？？
 msg_questlist_sub_reward_basecamp_02_02	ベースキャンプがふえる
-msg_questlist_sub_reward_basecamp_03_02	[~ 596]
-msg_questlist_sub_reward_basecamp_04_02	[~ 597]
-msg_questlist_sub_reward_basecamp_04_03	[~ 598]
-msg_questlist_sub_reward_basecamp_05_02	[~ 599]
+msg_questlist_sub_reward_basecamp_03_02	[~ 716]
+msg_questlist_sub_reward_basecamp_04_02	[~ 717]
+msg_questlist_sub_reward_basecamp_04_03	[~ 718]
+msg_questlist_sub_reward_basecamp_05_02	[~ 719]
 msg_questlist_sub_reward_cloth_00	ごふくやのしょうひんがふえる
 msg_questlist_sub_reward_salon_00	さんぱつやのかみがたがふえる
 msg_questlist_sub_reward_item_shop_00	ざっかやのしょうひんがふえる
@@ -28671,7 +28845,7 @@ pattern_70	ピンプク
 pattern_71	グレッグル
 pattern_72	ヌメラ
 pattern_73	ビッパ
-pattern_74	ニューラ
+pattern_74	
 pattern_75	マネネ
 pattern_76	---
 eyewear_01	めがね

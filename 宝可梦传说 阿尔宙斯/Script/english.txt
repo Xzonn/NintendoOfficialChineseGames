@@ -5,6 +5,7 @@ msg_bed_sel_001	Until midday
 msg_bed_sel_002	Until evening
 msg_bed_sel_003	Until nightfall
 msg_bed_sel_004	Actually, I’ll stay up
+msg_bed_sel_arceus	I’d rather battle
 d020.dat
 msg_d020_01	[~ 0]
 d120.dat
@@ -3970,6 +3971,46 @@ picture_0030_list_03_06	[VAR 0102(0000)] is pretending it’s fainted.
 picture_0040_talk_01_01	Ever considered preserving a lovely memory with\nyour Pokémon as a photograph? Come on in and\r\ngive it a try.[VAR 0114(005A)]
 picture_0040_talk_01_02	I’m in the business of photographing folk with\ntheir Pokémon. Why not have your photo taken?[VAR 0114(005A)]
 picture_0050_talk_01_01	It seems the photography studio isn’t open now.
+picture_0050_talk_01_02	[~ 100]
+picture_visitor_sys_01_01	Other customers will now sometimes visit the\nphotography studio. After a time, they’ll leave.
+picture_0010_talk_03_02	Do you want to start taking photos?
+picture_visitor_list_01_03	Prepare by yourself
+picture_visitor_list_01_04	Shoot in the usual spot
+picture_visitor_list_01_05	Shoot here
+picture_visitor_list_01_01	Let’s do it!
+picture_visitor_list_01_02	Maybe later
+picture_visitor_talk_01_01	[VAR BD06(0000)]Curiosity’s a must in the Survey Corps, so I’m\nalways on the lookout for new experiences!\c\nHey, [VAR 0189(0000)], why don’t we\ntake\r\na\r\nphoto\r\ntogether\r\nas\r\nfellow members?[VAR 0114(0006)]
+picture_visitor_talk_02_01	[VAR BD06(0000)]I thought I’d send a photo of me and my\nPokémon to my parents, just to show them\nthat I’m all right.\c\n[VAR 1003][VAR 0189(0000)], why don’t you\njoin us?\r\nI’d\r\nlike\r\nto\r\nboast\r\nto\r\nthem\r\nabout\r\nmy\r\nSurvey\r\nCorps protégé![VAR 0114(0007)]
+picture_visitor_talk_03_01	I usually only take photos for the Pokédex, but\nhere at the photography studio, one can take\r\nsome rather marvelous souvenir snaps!\c\nNow, my [VAR 1100(00FF,0403)]boygirl, let’s get a good shot of the two\nof us to commemorate our meeting here like this![VAR 0114(0005)]
+picture_visitor_talk_04_01	Let me confirm. Are we taking a photo together?[VAR 0114(0008)]
+picture_visitor_talk_05_01	A photography studio for taking pictures with\nPokémon? That’s ahead of the times—both in\r\nthinking and in technology!\c\nWhy don’t we take one together?[VAR 0114(000A)]
+picture_visitor_talk_06_01	Glaceon always looks so cool in battle, but\nphotos bring out her cute side!\c\nLet’s take a picture together, [VAR 0189(0000)].\nI want to see what side of you it brings out![VAR 0114(000B)]
+picture_visitor_talk_07_01	I always just take photos with Munchlax, but I’d\nlike one with you, too. How about it?[VAR 0114(000F)]
+picture_visitor_talk_08_01	Photos are incredible—you can send them\nanywhere you want! Which means you can\r\novercome space itself!\c\nNow then, shall we take a photo and overcome\nspace together?[VAR 0114(0010)]
+picture_visitor_talk_09_01	So I heard that a lot of my customers come get\ntheir photos taken after I do their hair!\c\nMy own hair’s looking pretty perfect today,\ndon’tcha think? Care to take a photo with me?[VAR 0114(0012)]
+picture_visitor_talk_10_01	It seems you run into some interesting things\nwhen you live nearly a century as I have.\c\nSo, child, shall we take a photo together?[VAR 0114(0011)]
+picture_visitor_talk_11_01	[VAR BD06(0000)]I thought I’d get a photo of my dear, mischievous\nGrowlithe.\r\nWill you join us, [VAR 0189(0000)]?[VAR 0114(0014)]
+picture_visitor_talk_12_01	I-I’ve heard...that your soul can be stolen if you\nhave your photo taken...\c\nBut... But Palina asked me for one, so...\nWill you please take a photo with me?![VAR 0114(0013)]
+picture_visitor_talk_13_01	Ah, photographs. I appreciate having physical\nkeepsakes—less ephemeral than memories.\c\nWould you do me the honor of posing for a\nphoto with me, [VAR 0189(0000)]?[VAR 0114(0015)]
+picture_visitor_talk_14_01	They say that a photo with Melli serves as a\ncharm to protect your home and bolster\r\nyour business!\c\nNo need to be shy! Come get your photo with\nMelli today![VAR 0114(0016)]
+picture_visitor_talk_15_01	Hey, how about taking one of these, uh, picture\nthings with me and my Glalie? We’re just as\r\nunyielding on film as we are in person![VAR 0114(0017)]
+picture_visitor_talk_16_01	I flew all the way here from the Icelands just to\ntake a photo with you, [VAR 0189(0000)]!\c\nC’mon! Let’s pose to our hearts’ content![VAR 0114(0018)]
+picture_visitor_talk_17_01	Iscan is too shy to be in a photo with just me.\nBut I’m sure he wouldn’t say no to a photo of\r\nall of us together! Would you mind joining in?[VAR 0114(0014)]
+picture_visitor_talk_17_02	You want a photo with...all th-three of us?!\c\nB-b-but I’ve heard that if you stand in the\nmiddle...your soul will be sucked out...[VAR 0114(0013)]
+picture_visitor_talk_18_01	I thought of something I’d like to keep tucked\ninside my Pokédex.\c\nI bet you can guess what it is—a photo of us\nall together![VAR 0114(0006)]
+picture_visitor_talk_18_02	The selection of screens and lenses here allows\nfor some rather spiffing photos!\c\nLet’s utilize the photography studio’s potential to\nits fullest, eh? I’m sure we’ll get a splendid shot![VAR 0114(0005)]
+picture_visitor_talk_19_01	Whenever we strike out into Hisui, we can count\non coming back to find the professor waiting for\r\nus! Why don’t we take a photo with him? I’d like\r\nto give it to Captain Cyllene as a gift.[VAR 0114(0007)]
+picture_visitor_talk_19_02	Akari’s had a capital idea! How about the three\nof us take a photo together?\c\nIt’ll be a nice keepsake for the captain from\nthe Survey Corps’ greatest young helpers![VAR 0114(0005)]
+picture_visitor_talk_20_01	We should take a photo as proof of your visit\nhere from afar.\c\nNaturally, as a living witness, I should be in the\nphoto too.[VAR 0114(0009)]
+picture_visitor_talk_21_01	This “photography” invention will let my beauty\nlive on eternally.\c\nCome, lost one. Stand by my side.[VAR 0114(000D)]
+picture_visitor_talk_22_01	I know some in my clan still harbor doubts about\nbeing friendly with the Pearl Clan, and vice versa.\c\nSo I thought we two leaders could take a photo\ntogether and show our people a symbol of\r\nHisui’s bright future! Care to join?[VAR 0114(000A)]
+picture_visitor_talk_22_02	You’re the real star of all this for having brought\nus all together, you know! Please—stand right in\r\nthe middle, [VAR 0189(0000)]![VAR 0114(000B)]
+picture_visitor_talk_23_01	I’m collecting keepsakes of the people who ate\nthe most potato mochi!\c\nCome on, you! Let’s get a snap of the two of us.[VAR 0114(000E)]
+picture_visitor_talk_24_01	A ninja’s clothes are meant to blend in and hide.\nI’m testing to see if they show up in photographs.\r\nWant to take a photo with me while I’m at it?[VAR 0114(000E)]
+picture_visitor_talk_25_01	This armor was a gift, and I wish to show the one\nwho gave it to me how I look wearing it.\c\nHrrrm... It would be fitting for you to join me, as I\nwore this when we battled. What do you say?[VAR 0114(0009)]
+picture_visitor_talk_26_01	Isn’t this a fine building? The Construction Corps\nsure worked hard to get the ceiling this high.\c\nDoesn’t hearing that make you wanna take a\ncommemorative photo with me?[VAR 0114(001F)]
+picture_visitor_talk_27_01	The brave form of a highly trained Pokémon!\nThe stalwart stance of a finely honed move!\c\nI need records of these things to help with my\ntraining. Do you want to join me?[VAR 0114(001B)]
+picture_visitor_talk_28_01	You’re here for photos too? I’ll take 100 with\nyou if you’d like, [VAR 0189(0000)].[VAR 0114(0020)]
 stopper.dat
 msg_stopper_c01_01	[~ 0]
 msg_stopper_c01_poke_01	[~ 1]
@@ -6234,6 +6275,630 @@ msg_sub200_0010_talk_01	[VAR BD06(0000)]What a party yesterday was!\nRight, [VAR
 msg_sub200_0010_talk_02	The Survey Corps’ work goes on! Let’s keep at it![VAR 0114(0006)]
 msg_sub200_0010_talk_01_m	Yesterday was incredible, wasn’t it? Everyone was\nso thrilled with our work.\c\nBut I don’t believe our Pokémon surveying\nwork ends here![VAR 0114(0007)]
 msg_sub200_0010_talk_02_m	I’d like to try my hand at developing new crafting\nrecipes and techniques, too.\c\nWherever our research takes us, I look forward\nto sharing our discoveries together![VAR 0114(0007)]
+sub_201.dat
+msg_sub201_0010_talk_01	So we meet here again. I’ve been hearing plenty\nabout your impressive exploits.\c\nBut of course I’ve always known you would\nimpress us, ever since you dealt with that alpha\r\nKricketune for me.[VAR 0114(000F)]
+msg_sub201_0010_talk_02	I’ve had my hands full as well.\c\nI’ve no idea why, but Munchlax keeps trying to\nrun off in different directions...[VAR 0114(000F)]
+msg_sub201_0010_talk_03	Munch!
+msg_sub201_0010_talk_04	Munchlax! Where are you off to now?[VAR 0114(000F)]
+msg_sub201_0010_talk_05	I’m not sure what he’s so focused on, but he\njust up and disappears without warning...\r\nKeeping track of him has been quite the task.[VAR 0114(000F)]
+msg_sub201_0010_talk_06	Mun!
+msg_sub201_0010_talk_07	What was that just now? It almost seemed to be\nresponding to Munchlax.[VAR 0114(000F)]
+msg_sub201_0010_sys_08	Your Arc Phone is reacting to Munchlax and\ndisplaying his destination...
+msg_sub201_0010_talk_09	Hmm. It’s pointing to Ramanas Island.[VAR 0114(000F)]
+msg_sub201_0010_talk_10	My, my, isn’t this exciting...[VAR 0114(000F)]
+msg_sub201_0010_talk_11	I wonder if we’re about to see another strange\nphenomenon sweep across Hisui...[VAR 0114(000F)]
+msg_sub201_0010_talk_12	Or perhaps I’m reading too much into things.[VAR 0114(000F)]
+msg_sub201_0010_talk_13	Could I ask you to visit Ramanas Island to try\nto shed some light on this new mystery?[VAR 0114(000F)]
+msg_sub201_0010_end	[~ 13]
+msg_sub201_talk_01	Your map seems to be pointing you toward\nRamanas Island. Would you investigate for me?[VAR 0114(000F)]
+msg_sub201_0020_sys_01	This seems to be the place Mai’s Munchlax was\ninterested in...
+msg_sub201_0020_sys_02	Better report back to Mai about the Zorua...
+msg_sub201_end	[~ 17]
+msg_sub201_0030_talk_01	Done with your investigation? Please, tell me\nwhat you found.[VAR 0114(000F)]
+msg_sub201_0030_list_02	A pack of Pokémon?
+msg_sub201_0030_list_03	A mass outbreak?
+msg_sub201_0030_talk_11	That hardly tells me anything. What kind of\nPokémon did you see, then?[VAR 0114(000F)]
+msg_sub201_0030_list_04	They were Zorua
+msg_sub201_0030_list_05	Those spiteful foxes
+msg_sub201_0030_talk_04	The spiteful fox, Zorua? Well, you came across\na rare Pokémon. I’ve seen them in the icelands\r\nbefore, but not here.[VAR 0114(000F)]
+msg_sub201_0030_talk_05	So was that it, Munchlax? You were curious\nabout Zorua?[VAR 0114(000F)]
+msg_sub201_0030_talk_12	Well this is unexpected. It seems there are\ntwo Munchlax now.[VAR 0114(000F)]
+msg_sub201_0030_talk_13	But naturally I would never fail to recognize my\nown Munchlax.[VAR 0114(000F)]
+msg_sub201_0030_talk_14	It’s you, right? Not the Munchlax next to me—\nthe other one![VAR 0114(000F)]
+msg_sub201_0030_talk_06	Muan!
+msg_sub201_0030_talk_07	...So it was Zorua.\c\nHow odd for it to appear in the fieldlands.[VAR 0114(000F)]
+msg_sub201_0030_talk_08	Mun.
+msg_sub201_0030_talk_09	I only hope that this isn’t an omen of something\nunpleasant yet to come.[VAR 0114(000F)]
+msg_sub201_0030_talk_10	As a precaution, it might be best for you to\nreport this to your captain.[VAR 0114(000F)]
+msg_sub201_0030_end	[~ 34]
+msg_sub201_0040_talk_01	A gathering of Zorua in a place other than their\nnatural habitat...[VAR 0114(0008)]
+msg_sub201_0040_talk_02	Could this also have been caused by the\nspace-time rift?\c\nI suppose we don’t know enough yet to say\nfor certain.[VAR 0114(0008)]
+msg_sub201_0040_talk_11	At any rate, thank you for the report.[VAR 0114(0008)]
+msg_sub201_0040_talk_10	Munch!
+msg_sub201_0040_talk_03	[VAR BD06(0000)][VAR 1003][VAR 0189(0000)]! \nThings are\r\ngrowing worse![VAR 0114(000F)]
+msg_sub201_0040_talk_04	After we parted, Munchlax reacted to several\ndifferent locations—and there was a mass\r\noutbreak at each of them![VAR 0114(000F)]
+msg_sub201_0040_talk_05	Simultaneously in multiple locations?[VAR 0114(0008)]
+msg_sub201_0040_talk_06	These must be somehow different from the mass\noutbreaks we know. Why don’t we call this new\r\nphenomenon...\r\na [VAR FF00(0006)]massive mass outbreak[VAR FF00(0000)]?[VAR 0114(0008)]
+msg_sub201_0040_talk_07	Your new orders are to investigate this massive\nmass outbreak![VAR 0114(0008)]
+msg_sub201_0040_talk_08	It sounds like I can count on you to\nkeep investigating?[VAR 0114(000F)]
+msg_sub201_0040_talk_09	Well then, I’ll be waiting for you by the\nfront gate![VAR 0114(000F)]
+msg_sub201_0040_end	[~ 46]
+msg_sub202_0010_talk_01	I suppose I should tell you exactly what I\nwitnessed first.[VAR 0114(000F)]
+msg_sub202_0010_talk_02	Munchlax suddenly took off running into\na rainstorm.\c\nI tried to stop him lest he get wet, but then I saw\nthose mass outbreaks appearing all over.[VAR 0114(000F)]
+msg_sub202_0010_talk_03	Perhaps it was the massive mass outbreak that\nMunchlax was so curious about...[VAR 0114(000F)]
+msg_sub202_0010_talk_04	Mun!
+msg_sub202_0010_talk_05	If that’s the case, Munchlax might be able to help\nus investigate this phenomenon.\c\nI’ll also work with you, as I’m concerned\nabout Munchlax.[VAR 0114(000F)]
+msg_sub202_0010_talk_06	We can begin our investigation as soon you’re\nprepared. Are you ready to go now?[VAR 0114(000F)]
+msg_sub202_0010_talk_07	Then I’ll be waiting right here. Come speak with\nme when you’re ready.[VAR 0114(000F)]
+msg_sub202_0010_talk_08	Excellent! Off to the Heights Camp with us![VAR 0114(000F)]
+msg_sub202_0010_end	[~ 55]
+msg_sub202_0015_talk_00	We haven’t seen anything out of the ordinary yet,\nnor has Munchlax reacted to anything...[VAR 0114(000F)]
+msg_sub202_0015_talk_01	Shall we just wait for a while to see whether\nsomething happens?[VAR 0114(000F)]
+msg_sub202_0015_end	[~ 58]
+msg_sub202_0020_talk_01	We still don’t know what’s causing these\nmysterious massive mass outbreaks...[VAR 0114(000F)]
+msg_sub202_0020_list_02	How will we find one?
+msg_sub202_0020_list_03	Where should we look?
+msg_sub202_0020_talk_04	Perhaps that fancy map of yours can show\nus something.[VAR 0114(000F)]
+msg_sub202_0020_talk_05	Munch!
+msg_sub202_0020_sys_06	Check your map and investigate the locations\nmarked with “?”.
+msg_sub202_0020_talk_07	It seems you have some idea where to look for\nthese outbreaks now.\c\nWhy not check out a few? Seeing at least three\nought to give us some idea of what is going on.[VAR 0114(000F)]
+msg_sub202_0020_talk_08	[~ 66]
+msg_sub202_0020_talk_09	It’s raining...and it looks like it’s going to\nget worse.[VAR 0114(000F)]
+msg_sub202_0020_talk_10	Mun!
+msg_sub202_0020_talk_11	Are you worried about the rainstorm, Munchlax?[VAR 0114(000F)]
+msg_sub202_new_out_break_closed_cmn	It seems the massive mass outbreak you were\ninvestigating has dissipated.\c\nWe may as well return to Jubilife Village and\nwait for another massive mass outbreak to...\r\nwell, break out.[VAR 0114(000F)]
+msg_sub202_new_out_break_closed_cmn_2	It seems there’s no massive mass outbreak\noccurring here now.[VAR 0114(000F)]
+msg_sub202_0020_end	[~ 72]
+msg_sub202_0030_talk_01	Thank you for your investigation in the\nObsidian Fieldlands![VAR 0114(000F)]
+msg_sub202_0030_talk_02	Did you learn anything about these massive\nmass outbreaks?[VAR 0114(000F)]
+msg_sub202_0030_list_02	They come in rainstorms
+msg_sub202_0030_talk_03	It’s always pouring rain
+msg_sub202_0030_talk_04	What could that mean? Do Pokémon gather when\nthere’s especially heavy rain?[VAR 0114(000F)]
+msg_sub202_0030_talk_05	I wonder whether Munchlax was reacting to the\nrainstorm, or to the massive mass outbreak itself.[VAR 0114(000F)]
+msg_sub202_0030_talk_06	We’ll just have to investigate further. But how\nbest to do so...[VAR 0114(000F)]
+msg_sub202_0030_talk_07	We’ve had a good look around the Obsidian\nFieldlands, but it’s only raised more questions...[VAR 0114(000F)]
+msg_sub202_0030_talk_08	That frown doesn’t suit you at all.[VAR 0114(0011)]
+msg_sub202_0030_talk_09	Oh, Mistress Calaba! Well, you see...[VAR 0114(000F)]
+msg_sub202_0030_talk_10	Mass outbreaks that occur during rainstorms?\nI’ve never heard of such a thing.[VAR 0114(0011)]
+msg_sub202_0030_talk_11	But of course, life is full of surprises.[VAR 0114(0011)]
+msg_sub202_0030_talk_12	After all, it’s not often that Pokémon from beyond\nour world appear at the Temple of Sinnoh, either.[VAR 0114(0011)]
+msg_sub202_0030_talk_13	Perhaps these Pokémon are reacting to the\narrival of mighty Palkia.[VAR 0114(0011)]
+msg_sub202_0030_talk_14	Why don’t we head back to Jubilife Village?\c\nArezu’s shop may be a good place to visit.\nThat girl’s place is awfully popular, after all—\r\nand where people gather, information abounds.[VAR 0114(0011)]
+msg_sub202_0030_talk_15	Of course! The hairdresser’s![VAR 0114(000F)]
+msg_sub202_0030_list_16	Good thinking!
+msg_sub202_0030_list_17	That might just work
+msg_sub202_0030_talk_18	If anyone there has seen one of these massive\nmass outbreaks, they might be willing to share\r\nthe details with us.[VAR 0114(000F)]
+msg_sub202_0030_talk_19	I agree. We won’t learn anything new if we\nsimply stay put.[VAR 0114(000F)]
+msg_sub202_0030_talk_20	It’s settled, then. I’ll wait for you at\nthe hairdresser’s.[VAR 0114(0011)]
+msg_sub202_0030_talk_21	Perhaps we should head to Arezu’s shop as well.[VAR 0114(000F)]
+msg_sub202_0030_end	[~ 95]
+msg_sub203_0010_talk_01	[VAR BD06(0000)]Oh, [VAR 0189(0000)]! \nMistress Calaba’s\r\nwaiting\r\nfor\r\nyou!\r\nC’mon in![VAR 0114(0012)]
+msg_sub203_0010_end	[~ 97]
+msg_sub203_0020_talk_01	I heard all about those massive mass outbreaks.\nI bet they’re some sort of Pokémon festival![VAR 0114(0012)]
+msg_sub203_0020_talk_02	It’s like what I heard from a customer who came\nhere from Johto.\c\nApparently, on nights with a full moon, Clefairy\nget together and dance![VAR 0114(0012)]
+msg_sub203_0020_talk_03	It’s basically a gathering of Pokémon that only\nhappens when certain conditions are met.\c\nSounds pretty similar to massive mass outbreaks,\ndon’tcha think?[VAR 0114(0012)]
+msg_sub203_0020_talk_04	So massive mass outbreaks could be a festival\nfor Pokémon to enjoy the rainstorms![VAR 0114(0012)]
+msg_sub203_0020_list_05	You might have a point
+msg_sub203_0020_list_06	You really think so?
+msg_sub203_0020_talk_07	It seems to me you’re still biting your tongue,\nArezu. Have you heard anything else?[VAR 0114(000F)]
+msg_sub203_0020_talk_08	Well, I did hear something weird from a Diamond\nClan friend of mine...[VAR 0114(0012)]
+msg_sub203_0020_list_09	What was it?
+msg_sub203_0020_list_10	Go on...
+msg_sub203_0020_talk_11	They said they saw a mass outbreak of alphas in\nthe Crimson Mirelands![VAR 0114(0012)]
+msg_sub203_0020_talk_12	But seriously, do alphas ever gather in groups?\nMy friend must’ve made a mistake, right?[VAR 0114(0012)]
+msg_sub203_0020_talk_13	Alphas grouping together... If this is part of a\nmassive mass outbreak, it sounds dangerous.[VAR 0114(000F)]
+msg_sub203_0020_talk_14	Mun...
+msg_sub203_0020_talk_15	Even the Lady of the Ridge would be no match\nfor a mass outbreak of alphas...[VAR 0114(0012)]
+msg_sub203_0020_talk_17	[VAR BD06(0000)]It’s natural to worry about the unknown.\c\nThat’s why [VAR 0100(0000)] is\ninvestigating\r\nthis\r\nfor\r\nus,\r\nno?\r\nTo put our concerns to rest.[VAR 0114(0011)]
+msg_sub203_0020_talk_16	You’re right! It seems our next step is to\ninvestigate the Crimson Mirelands.[VAR 0114(000F)]
+msg_sub203_0025_talk_01	I’ll await you at the front gate. Come join\nme when you’re ready to set out.[VAR 0114(000F)]
+msg_sub203_0025_talk_02	Are you ready to head to the Crimson Mirelands\nwith me?[VAR 0114(000F)]
+msg_sub203_0025_talk_03	Excellent. Then let’s be off to the Mirelands\nCamp for some massive mass outbreak research.[VAR 0114(000F)]
+msg_sub203_0020_end	[~ 118]
+msg_sub203_0030_talk_01	It seems a massive mass outbreak has sprung\nup here in the Crimson Mirelands, too.\c\nLet’s try to determine if this phenomenon occurs\nhere as it does in the Obsidian Fieldlands.[VAR 0114(000F)]
+msg_sub203_0030_talk_02	Hey ho, little people!\nNo need to fret—Melli has arrived.[VAR 0114(0016)]
+msg_sub203_0030_talk_03	What do you want?[VAR 0114(000F)]
+msg_sub203_0030_talk_04	I heard rumors that you’ve been investigating\n“massive mass outbreaks” or some such.\c\nBut I, Melli, have already solved the mystery! All\nthat remains is to gather evidence.[VAR 0114(0016)]
+msg_sub203_0030_list_05	Wow!
+msg_sub203_0030_list_06	Really?
+msg_sub203_0030_talk_07	Not bad, Melli![VAR 0114(000F)]
+msg_sub203_0030_talk_08	The reason these Pokémon have been\nmysteriously gathering in rainstorms is...[VAR 0114(0016)]
+msg_sub203_0030_list_09	Out with it already!
+msg_sub203_0030_list_10	Is...?
+msg_sub203_0030_talk_11	...to give praise to the great Melli, naturally![VAR 0114(0016)]
+msg_sub203_0030_talk_12	[~ 130]
+msg_sub203_0030_talk_13	[~ 131]
+msg_sub203_0030_talk_14	Don’t look so sour, you two![VAR 0114(0016)]
+msg_sub203_0030_talk_31	I realize it’s a difficult truth to accept right away,\nbut the awe I inspire—as both sun and shadow to\r\nAdaman—is clearly apparent to Pokémon![VAR 0114(0016)]
+msg_sub203_0030_talk_15	And as thanks for your adorable efforts in proving\nmy theory true, I’ll give you this generous reward.[VAR 0114(0016)]
+msg_sub203_0030_talk_16	Go on, take them! They’re Aguav Berries—quite\na rarity here in Hisui, you know![VAR 0114(0016)]
+msg_sub203_0030_talk_17	As for why these Pokémon gather during\nrainstorms—well, that’s surely to represent how\r\nI’m simply overflowing with wonderful qualities.\c\nAnd with that nugget of wisdom, I shall be off![VAR 0114(0016)]
+msg_sub203_0030_talk_18	He was very shy and withdrawn as a child, until\none day when he announced he was going to\r\nwork hard to help Adaman.\c\nI was happy to see him grow more optimistic, but\nI fear he may have taken that to...extremes.[VAR 0114(000F)]
+msg_sub203_0030_talk_19	But Aguav Berries... Where could he have\nfound them?[VAR 0114(000F)]
+msg_sub203_0030_talk_20	Munch!
+msg_sub203_0030_talk_21	Munchlax! Did you just eat some of the\nAguav Berries?![VAR 0114(000F)]
+msg_sub203_0030_talk_30	Munchlax gobbled up five of the Aguav Berries!
+msg_sub203_0030_talk_22	Munch-munch!!!
+msg_sub203_0030_talk_23	What’s this? It looks like your fancy map is\nresponding to Munchlax again.[VAR 0114(000F)]
+msg_sub203_0030_talk_24	Hm. Now the map shows not only outbreak\nlocations, but the Pokémon there as well.[VAR 0114(000F)]
+msg_sub203_0030_talk_25	What does this mean, Munchlax?[VAR 0114(000F)]
+msg_sub203_0030_talk_26	Mun!
+msg_sub203_0030_talk_27	So if we keep feeding Munchlax Aguav Berries,\nwe’ll be able to learn more about these outbreaks?[VAR 0114(000F)]
+msg_sub203_0030_talk_28	Munchlax... What exactly is it you’re trying to\nget us to understand?[VAR 0114(000F)]
+msg_sub203_0030_talk_29	Whatever this all means, please investigate three\nmassive mass outbreak locations in the Crimson\r\nMirelands, so we can compare these outbreaks to\r\nthose we found in the Obsidian Fieldlands.[VAR 0114(000F)]
+msg_sub203_0030_end	[~ 150]
+msg_sub203_0040_talk_01	I hear you’ve finished your investigation in the\nCrimson Mirelands!\r\nWell done, [VAR 0100(0000)]![VAR 0114(000B)]
+msg_sub203_0040_talk_02	Irida is here to help us.[VAR 0114(000F)]
+msg_sub203_0040_talk_03	What happens twice will happen thrice—or so\nthey say.\c\nMassive mass outbreaks seem likely to occur in\nthe Cobalt Coastlands and other areas as well,\r\nso I’ve been discussing the issue with Irida.[VAR 0114(000F)]
+msg_sub203_0040_talk_04	Why don’t we demonstrate to her what has been\nkeeping us so busy?\c\nWe can turn our investigation to the Cobalt\nCoastlands next.[VAR 0114(000F)]
+msg_sub203_0040_talk_05	Munch!
+msg_sub203_0040_talk_06	Ah, yes, Munchlax. I know what’s been keeping\nyou busy is eating.\r\nDon’t worry—you’ll get your Berries.[VAR 0114(000F)]
+msg_sub203_0040_talk_07	But I still wonder...\c\nWhat lies behind Munchlax’s strange reaction\nto eating Aguav Berries?[VAR 0114(000F)]
+msg_sub203_0040_talk_08	How does he know which Pokémon are gathering\nwhere during a massive mass outbreak?[VAR 0114(000F)]
+msg_sub203_0040_list_09	He’s some kinda genius?
+msg_sub203_0040_list_10	He’s got super powers?
+msg_sub203_0040_talk_11	Perhaps...\c\nHopefully our investigations will shed some light\non this mystery.[VAR 0114(000F)]
+msg_sub203_0040_talk_12	Well, let me offer you a hand. I’ve learned some\nthings about massive mass outbreaks myself![VAR 0114(000B)]
+msg_sub203_0040_talk_13	I knew the leader of the Pearl Clan could help us![VAR 0114(000F)]
+msg_sub203_0040_talk_14	Mysterious goings-on in vast Hisui pique my\ninterest, after all![VAR 0114(000B)]
+msg_sub203_0040_talk_15	And on top of that, we’re friends! I’ll always\ncome if you ask for help![VAR 0114(000B)]
+msg_sub203_0040_list_16	Friends?
+msg_sub203_0040_list_17	Since when?
+msg_sub203_0040_talk_18	We’d seen each other around before, but after\ntalking more at the Harmony Festival, we found\r\nwe agreed on a lot of things.[VAR 0114(000F)]
+msg_sub203_0040_talk_19	Such as how exactly we think Adaman is doing\nas a leader.[VAR 0114(000B)]
+msg_sub203_0040_talk_20	And we decided we’d help each other out,\ndespite being from different clans.[VAR 0114(000F)]
+msg_sub203_0040_talk_21	Anyway, that’s how I got involved with the\ninvestigation in the coastlands![VAR 0114(000B)]
+msg_sub203_0040_talk_22	And I heard from Iscan and Lina that they’d both\nseen something that was like a mass outbreak...\r\nbut stranger![VAR 0114(000B)]
+msg_sub203_0040_talk_23	What are your thoughts on these massive mass\noutbreaks, Irida?[VAR 0114(000F)]
+msg_sub203_0040_talk_24	Well, I wonder what about them causes Pokémon\nto flock together this way...[VAR 0114(000B)]
+msg_sub203_0040_talk_25	Perhaps there’s been some shift in space because\nof mighty Palkia’s appearance?[VAR 0114(000B)]
+msg_sub203_0040_talk_26	I’d certainly be glad to have more Pokémon\naround—it would help Hisui flourish...[VAR 0114(000B)]
+msg_sub203_0040_talk_27	But it’s too early to conclude it’s all for the best.\nHordes of strong Pokémon could be dangerous.[VAR 0114(000B)]
+msg_sub203_0040_talk_28	I’ll be sure to warn Lina to be careful, too![VAR 0114(000B)]
+msg_sub203_0040_talk_29	I’ll head to Jubilife Village once I wrap up a few\nthings here.\c\nWe can meet at the front gates when it’s time to\nset out on our next investigation.[VAR 0114(000F)]
+msg_sub203_0040_talk_29_free	Please investigate three massive mass outbreaks\nin the Cobalt Coastlands![VAR 0114(000F)]
+msg_sub204_0005_talk_08	The next step of our investigation is to look for\nmassive mass outbreaks in the Cobalt Coastlands!\r\nThanks as always for all the help![VAR 0114(000F)]
+msg_sub204_0005_talk_10	Are you ready?[VAR 0114(000F)]
+msg_sub204_0005_talk_01	We’re going to investigate the Cobalt\nCoastlands. Are you ready to set out?[VAR 0114(000F)]
+msg_sub204_0005_talk_03	What a fine surprise, meeting you two while out\nfetching supplies for our settlement.[VAR 0114(0017)]
+msg_sub204_0005_talk_04	Calaba filled me in. You’re looking into mass\noutbreaks that happen during rainstorms?\c\nWell then, I’ll tell you what I recommend:\nSticky Globs![VAR 0114(0017)]
+msg_sub204_0005_talk_05	Hitting a Pokémon with a Sticky Glob will slow it\nright down!\c\nI bought the recipe at the craftworks myself, by\nrequest from the settlement.[VAR 0114(0017)]
+msg_sub204_0005_talk_06	I’d better get back to the icelands. Not that it’ll\ntake much time with well-trained legs like these![VAR 0114(0017)]
+msg_sub204_0005_talk_07	Interesting. The Pearl Clan is recommending the\nGalaxy Team’s Sticky Globs.[VAR 0114(000F)]
+msg_sub204_0005_talk_02	Right then. Let’s set off for the Beachside Camp.[VAR 0114(000F)]
+msg_sub204_0005_talk_09	It seems we’ve arrived in time to catch another\nmassive mass outbreak.[VAR 0114(000F)]
+msg_sub204_0005_talk_11	Remember Gaeric’s advice. Perhaps those Sticky\nGlobs could be a big help.\c\nNow then, let’s begin our research.[VAR 0114(000F)]
+msg_sub204_0005_talk_12	You can let me know if you wish to give Munchlax\nsome Aguav Berries, as well.\c\nIt will grant you a bit of insight into the Pokémon\ngathering in these massive mass outbreaks.[VAR 0114(000F)]
+msg_sub203_0040_end	[~ 193]
+msg_sub204_0010_talk_01	It seems the Survey Corps really does get the job\ndone! I’m glad I asked you for help.[VAR 0114(000F)]
+msg_sub204_0010_talk_02	I’m also glad we can get information from the\nPearl Clan more easily now.[VAR 0114(000F)]
+msg_sub204_0010_talk_03	[VAR BD06(0000)]You’ve got more Survey Corps members than\njust [VAR 0100(0000)] at your service,\r\ntoo![VAR 0114(0006)]
+msg_sub204_0010_talk_03_m	I’ve got even more information from the Survey\nCorps to offer, Mai![VAR 0114(0007)]
+msg_sub204_0010_talk_04	Captain Cyllene ordered me and the professor\nto help study these massive mass outbreaks.\r\nThey’re great for checking off research tasks![VAR 0114(0006)]
+msg_sub204_0010_talk_04_m	Professor Laventon and I have been researching\nthese massive mass outbreaks, too—Captain\r\nCyllene’s orders.[VAR 0114(0007)]
+msg_sub204_0010_talk_05	I’d be grateful to hear about anything\nyou’ve discovered.[VAR 0114(000F)]
+msg_sub204_0010_talk_06	Yeah, of course! But before I tell you...[VAR 0114(0006)]
+msg_sub204_0010_talk_06_m	I’d be happy to share. I just have one little\nrequest, first.[VAR 0114(0007)]
+msg_sub204_0010_talk_07	I want to become an even more amazing Survey\nCorps member. And to do that, I need to battle\r\nyou, [VAR 0189(0000)]![VAR 0114(0006)]
+msg_sub204_0010_talk_07_m	[VAR 1003][VAR 0189(0000)]! Battle me, please!\c\nI need to train more in order to become an even\ngreater member of the Survey Corps![VAR 0114(0007)]
+msg_sub204_0010_talk_12	Meet me at Ginkgo Landing when you’re ready!\nA beach seems fitting for a showdown, yeah?[VAR 0114(0006)]
+msg_sub204_0010_talk_12_m	I’ll be waiting for you at Ginkgo Landing. I’m\ntaking this seriously, so I hope you do too![VAR 0114(0007)]
+msg_sub204_0010_talk_13	Hm! The straightforward passion of the young...\nMost admirable![VAR 0114(000F)]
+msg_sub204_0010_end	[~ 208]
+msg_sub204_0020_talk_02	If you want to hear what I know about massive\nmass outbreaks, you’ll have to battle me for it![VAR 0114(0006)]
+msg_sub204_0020_talk_02_m	You’ll have to battle me if you want to learn\nmore about massive mass outbreaks![VAR 0114(0007)]
+msg_sub204_0010_list_08	You’re on!
+msg_sub204_0010_list_09	Let me get ready
+msg_sub204_0010_talk_10	You fell from the sky into our world, and I don’t\nwant that to be for nothing—for you or for me!\c\nWe’re gonna keep on working for the Survey\nCorps together...so I’m gonna show you that\r\nI can beat you![VAR 0114(0006)]
+msg_sub204_0010_talk_10_m	You’ve solved a lot of problems for us since\nyou fell from the sky.\c\nBut I still have more Survey Corps experience!\nI need to prove that you can depend on me![VAR 0114(0007)]
+msg_sub204_0010_talk_11	Oh fine, I’ll wait. Hurry up and get ready![VAR 0114(0006)]
+msg_sub204_0010_talk_11_m	So you came just to see where we’ll be battling?\nMaybe that’s the secret to your strength...\c\nAs if! Hurry up and get ready already![VAR 0114(0007)]
+msg_sub204_0020_end	[~ 217]
+msg_sub204_0030_talk_01	I want to get stronger!\c\nIf I could only become a worthy opponent to\nyou, I’m sure I’d be a better asset to the corps![VAR 0114(0006)]
+msg_sub204_0030_talk_01_m	[VAR BD06(0000)]You’re incredible, [VAR 0189(0000)].\nI\r\nwant\r\nto\r\nbecome\r\nstrong,\r\nlike you.\c\nIf I could become a worthy opponent, then\nI know I could do the Survey Corps proud![VAR 0114(0007)]
+msg_sub204_0030_talk_02	Bigaaah!
+msg_sub204_0030_talk_03	Pikachu... You understand how I feel?![VAR 0114(0006)]
+msg_sub204_0030_talk_03_m	Pikachu... You understand how I feel?![VAR 0114(0007)]
+msg_sub204_0030_talk_04	All right! Then we’ll get back to work—we’ve\ngot our whole future to be ready for![VAR 0114(0006)]
+msg_sub204_0030_talk_04_m	If we can understand each other, that means\nPikachu and I really can get stronger!\c\nAnd I think we’ll start by sharing a nice big\nplate of potato mochi![VAR 0114(0007)]
+msg_sub204_0030_list_05	That’s the spirit!
+msg_sub204_0030_list_06	See you later, then!
+msg_sub204_0030_talk_07	Oh, wait—I forgot what I came to see you for in\nthe first place.[VAR 0114(0006)]
+msg_sub204_0030_talk_07_m	Oh no! I nearly forgot to tell you what I came\nto tell you![VAR 0114(0007)]
+msg_sub204_0030_talk_08	Let me tell you the theory the professor and I\ncame up with regarding massive mass outbreaks...[VAR 0114(0006)]
+msg_sub204_0030_talk_08_m	I’ll explain what the professor and I discussed.[VAR 0114(0007)]
+msg_sub204_0030_talk_09	We think Pokémon are gathering around\nlingering traces of energy left behind by\r\nthe space-time rift.\c\nBut we need to survey more to learn how the\nenergy traces are connected to the rainstorms.[VAR 0114(0006)]
+msg_sub204_0030_talk_09_m	We think Pokémon are gathering around\nlingering traces of energy left behind by\r\nthe space-time rift.\c\nBut we need to investigate more to learn how\nthose energy traces relate to the rainstorms.[VAR 0114(0007)]
+msg_sub204_0030_talk_10	I don’t understand a word you’re saying, but it\nsounds like you know what you’re talking about.[VAR 0114(000F)]
+msg_sub204_0030_talk_11	We have to discover the cause of these massive\nmass outbreaks and find out if they’re dangerous,\r\nfor all Hisui’s sake!\c\nGood luck to you both out there. See you around![VAR 0114(0006)]
+msg_sub204_0030_talk_11_m	[VAR BD06(0000)]I promise, I’ll become a worthy opponent to you,\n[VAR 0189(0000)]! One you can depend\r\non\r\nwhen\r\nyou\r\nwant\r\nto\r\ngrow\r\nstronger yourself!\c\nI’ll see you later, Mai![VAR 0114(0007)]
+msg_sub204_0030_talk_12	I like the Survey Corps. It’s good to see young\npeople so passionate about their cause.[VAR 0114(000F)]
+msg_sub204_0030_talk_13	All right. Next, we visit the Coronet Highlands![VAR 0114(000F)]
+msg_sub204_0030_talk_14	...Or at least, that would be the plan. But I’ve yet\nto hear of a single sighting of massive mass\r\noutbreaks in the highlands.[VAR 0114(000F)]
+msg_sub204_0030_talk_15	If and when we do hear of any sightings there,\nlet’s meet up at the Highlands Camp.[VAR 0114(000F)]
+msg_sub204_0030_end	[~ 240]
+msg_sub205_0010_talk_01	[VAR 1003][VAR 0189(0000)]...\nI have something important to discuss with you.[VAR 0114(000F)]
+msg_sub205_0010_talk_02	I heard an odd rumor...\c\nI believe it may be the key to unlocking the\nmysteries behind massive mass outbreaks.[VAR 0114(000F)]
+msg_sub205_0010_talk_03	You must first acquire ten Mushroom Cakes.\c\nThen bring them to the Secret Hollow in the\nAlabaster Icelands.[VAR 0114(000F)]
+msg_sub205_0010_talk_04	I call this... My tricky treat strategy![VAR 0114(000F)]
+msg_sub205_0010_talk_05	I’ll be waiting for you in the Alabaster Icelands—\nin the Secret Hollow.[VAR 0114(000F)]
+msg_sub205_0010_end	[~ 246]
+msg_sub205_0020_sys_01	Will you wait for Mai?
+msg_sub205_0020_list_01	Wait
+msg_sub205_0020_list_04	Don’t wait
+msg_sub205_0020_sys_02	It looks like Mai’s not here... Come back when\nyou’ve got ten Mushroom Cakes!
+msg_sub205_0020_talk_01	Did you bring me ten Mushroom Cakes?[VAR 0114(000F)]
+msg_sub205_0020_list_02	Hand them over
+msg_sub205_0020_list_03	Keep them for now
+msg_sub205_0020_talk_04	Rustle up ten Mushroom Cakes. I’m counting\non you.[VAR 0114(000F)]
+msg_sub205_0020_talk_05	Hehehe... Well done.[VAR 0114(000F)]
+msg_sub205_0020_talk_06	Muan!
+msg_sub205_0020_talk_07	Mushroom Cakes... And some quality ones,\nat that!\c\nNow we’re just getting started. Leave the rest\nto me.[VAR 0114(000F)]
+msg_sub205_0020_talk_08	You can return to Jubilife Village. I’ll share how\nsuccessful my strategy was when I’m finished.[VAR 0114(000F)]
+msg_sub205_0020_end	[~ 259]
+msg_sub205_0030_talk_11	[VAR 1003][VAR 0189(0000)]![VAR 0114(0010)]
+msg_sub205_0030_talk_05	I had a visit from Melli.\c\nHe came all that way just to boast about giving\nyou some Aguav Berries. He said you lit up with\r\nwith so much joy that your smile nearly split\r\nyour face.\c\nI can’t imagine that was the case—I’m sure it was\na confused grimace, or a smile you merely forced\r\nyourself to give him out of pity. But...\c\nI still can’t let myself be outdone by him.[VAR 0114(0010)]
+msg_sub205_0030_talk_06	So I’ve been looking for you all over Hisui.[VAR 0114(0010)]
+msg_sub205_0030_talk_07	To give you this: my very own reward to you! It is,\nnaturally, far superior to anything Melli can offer.[VAR 0114(0010)]
+msg_sub205_0030_talk_08	Oh, and I did see one of those massive mass\noutbreaks on my way here to find you...[VAR 0114(0010)]
+msg_sub205_0030_talk_09	I wonder if they might be caused by the geology\nof the place where they occur?\c\nPerhaps there is some mysterious kind of stone in\nthe ground which draws Pokémon near...[VAR 0114(0010)]
+msg_sub205_0030_talk_01	Oh! And I had a message for you from Mai!\nShe would like to meet you in Jubilife Village.[VAR 0114(0010)]
+msg_sub205_0030_list_02	Back in Jubilife?
+msg_sub205_0030_list_03	Mai said that?
+msg_sub205_0030_talk_04	Yes, she’s been waiting there for you.\c\nThough I suppose it’s more accurate to say that\nshe’s been chatting away with Tsumugi from\r\nthe Security Corps about Bidoof.[VAR 0114(0010)]
+msg_sub205_0030_talk_10	As for me, I think I may visit the hot springs since\nI’ve come all this way.\c\nDo be careful of any massive mass outbreaks as\nyou head back—strong Pokémon might appear![VAR 0114(0010)]
+msg_sub205_0030_end	[~ 271]
+msg_sub205_0040_talk_01	My, my. What’s on your mind?[VAR 0114(000F)]
+msg_sub205_0040_list_02	Your tricky treat strategy
+msg_sub205_0040_list_03	Um...Mushroom Cakes?
+msg_sub205_0040_talk_04	What in the world are you talking about?\nMushroom Cakes and strategies...?[VAR 0114(000F)]
+msg_sub205_0040_talk_05	Munch.
+msg_sub205_0040_talk_06	Come to think of it, Irida also came to me with\nan odd request.\c\nShe asked me for Hearty Grains, so I gathered\nsome for her...[VAR 0114(000F)]
+msg_sub205_0040_talk_10	Could there be some Pokémon taking the guise\nof people to stir up mischief?[VAR 0114(000F)]
+msg_sub205_0040_talk_07	None of this is why I called you here, mind.\c\nI meant to tell you that a massive mass outbreak\nhas been reported in the Coronet Highlands.[VAR 0114(000F)]
+msg_sub205_0040_talk_08	The next step in our research is to investigate the\nCoronet Highlands! Let’s see what we can find.[VAR 0114(000F)]
+msg_sub205_0040_talk_09	If you’re ready, shall we set out to investigate?[VAR 0114(000F)]
+msg_sub206_0005_talk_01	Remember that we make for the Coronet\nHighlands. Are you ready to brave them?[VAR 0114(000F)]
+msg_sub206_0005_talk_02	Very good. We should start out from the\nHighlands Camp, then.[VAR 0114(000F)]
+msg_sub205_0040_end	[~ 284]
+msg_sub206_0010_talk_10	[~ 285]
+msg_sub206_0010_talk_01	Now then, let us continue our investigation into\nthese outbreaks here in the Coronet Highlands![VAR 0114(000F)]
+msg_sub206_0010_talk_02	[VAR 1003][VAR 0189(0000)]![VAR 0114(0018)]
+msg_sub206_0010_talk_03	And Mai![VAR 0114(0018)]
+msg_sub206_0010_list_01	What brings you here?
+msg_sub206_0010_list_02	Is something the matter?
+msg_sub206_0010_talk_04	I hurried here ’cause of a vision my clairvoyance\nshowed me!\c\nSome poor soul was running for their life from\na bunch of alphas. I just barely saved them![VAR 0114(0018)]
+msg_sub206_0010_talk_05	[VAR BD06(0000)]It’s as I feared, then... These massive mass\noutbreaks really are growing out of hand.\c\n[VAR 1003][VAR 0100(0000)]! We must endeavor to find\nthe\r\ntruth\r\nbehind\r\nwhy\r\nthey\r\nkeep happening![VAR 0114(000F)]
+msg_sub206_0010_talk_06	Big packs of Pokémon might not be much\ntrouble if you’ve got a trusty partner, but if you\r\ndon’t... Eeep! I’m scared just thinking about it![VAR 0114(0018)]
+msg_sub206_0010_talk_07	You did well to save that person, Sabi. You’re as\nfine a protector as any lord or lady Pokémon![VAR 0114(000F)]
+msg_sub206_0010_talk_08	Thanks, Mai! If my clairvoyance shows me anyone\nelse in trouble, I’ll do my best to save them too!\c\nJust be careful while you’re out here, OK?[VAR 0114(0018)]
+msg_sub206_0010_talk_09	She’s right. I know how strong you are, but we\nshould move with caution here.[VAR 0114(000F)]
+msg_sub206_0010_talk_08_free	We should investigate at least three outbreak\nlocations here in the Coronet Highlands\r\nbefore we can consider our work done.[VAR 0114(000F)]
+msg_sub206_0010_end	[~ 298]
+msg_sub206_0020_talk_01	Good work out there. It seems we may have\nlearned all we can from the highlands for now.[VAR 0114(000F)]
+msg_sub206_0020_talk_02	There you two are. Hope your investigation’s\ngoing all right.[VAR 0114(000A)]
+msg_sub206_0020_list_01	We’re doing great!
+msg_sub206_0020_list_02	What are you up to?
+msg_sub206_0020_talk_03	I heard folks in our clan and the Pearl Clan\nare all helping investigate these massive mass\r\noutbreaks, or whatever you call ’em.\c\nAnd I thought, what kind of leader would sit back\nand do nothing while you’re all working?[VAR 0114(000A)]
+msg_sub206_0020_talk_04	[~ 304]
+msg_sub206_0020_talk_05	[~ 305]
+msg_sub206_0020_talk_06	[~ 306]
+msg_sub206_0020_talk_07	So I figured I’d grab whatever supplies I could\nfind that might come in handy for you.\r\nHere—materials for those Sticky Glob things![VAR 0114(000A)]
+msg_sub206_0020_list_08	[~ 308]
+msg_sub206_0020_list_09	[~ 309]
+msg_sub206_0020_talk_10	[~ 310]
+msg_sub206_0020_talk_11	How leader-like of you, Adaman![VAR 0114(000F)]
+msg_sub206_0020_talk_12	Don’t make fun, Mai. I’m trying to help![VAR 0114(000A)]
+msg_sub206_0020_talk_13	You misunderstand me, Adaman. As the sister\nwho helped raise you, I’m truly proud to see how\r\nfar you’ve come.[VAR 0114(000F)]
+msg_sub206_0020_talk_25	Munch-munch.
+msg_sub206_0020_talk_14	[VAR BD06(0000)]Listen, [VAR 0100(0000)].\nI’ve been wondering...[VAR 0114(000A)]
+msg_sub206_0020_talk_15	Do you think these massive mass outbreaks\ncould be some sort of trial from mighty Dialga\r\nor mighty Palkia?[VAR 0114(000A)]
+msg_sub206_0020_list_03	It’s possible
+msg_sub206_0020_list_04	I mean...maybe?
+msg_sub206_0020_talk_16	It kind of feels like it, right?\c\nAs if someone’s telling us, “If you’ve got the guts\nto face a real test with your partners, take on\r\nthese Pokémon. Otherwise, stand back.”[VAR 0114(000A)]
+msg_sub206_0020_talk_17	Quite like you to see it that way, Adaman.[VAR 0114(000F)]
+msg_sub206_0020_talk_18	Yeah, well, I’d love to stay and talk, but I’ve got\nan appointment to keep with that Beni fellow.\c\nI’ve been trying to get him to teach me his tricks.[VAR 0114(000A)]
+msg_sub206_0020_talk_19	[~ 322]
+msg_sub206_0020_talk_20	[~ 323]
+msg_sub206_0020_list_05	You mean his cooking?
+msg_sub206_0020_list_06	You mean his ninja skills?
+msg_sub206_0020_talk_21	I want to know his recipes AND his ninja tricks!\c\nOnce I do, I’ll give you a proper demonstration.\nBut in the meantime, stay safe as you investigate![VAR 0114(000A)]
+msg_sub206_0020_talk_22	My, my. It would seem having a trusted\npartner causes one to view these outbreaks\r\nin a rather different light...[VAR 0114(000F)]
+msg_sub206_0020_talk_23	Now then. The Alabaster Icelands still await—\none more steep hurdle for us to overcome.[VAR 0114(000F)]
+msg_sub206_0020_talk_24	Muuunch!
+msg_sub206_0020_list_25	You said it!
+msg_sub206_0020_list_26	Muuuuuunch!
+msg_sub206_0020_talk_27	It appears Munchlax is eager to continue as well!\c\nWe’ll await you at Jubilife’s front gate as usual.\nJoin us when you’re ready for another survey.[VAR 0114(000F)]
+msg_sub207_0005_talk_03	Our last item of research is to look into massive\nmass outbreaks in the Alabaster Icelands.\r\nLet’s finish this—together![VAR 0114(000F)]
+msg_sub207_0005_talk_04	If you’re ready, shall we embark on\nour investigation?[VAR 0114(000F)]
+msg_sub207_0005_talk_01	We make for the Alabaster Icelands this time.\nAre you ready?[VAR 0114(000F)]
+msg_sub207_0005_talk_02	Good! Then let’s head to the Snowfields Camp.[VAR 0114(000F)]
+msg_sub206_0020_end	[~ 337]
+msg_sub207_0010_talk_14	[~ 338]
+msg_sub207_0010_talk_01	The cold here seems to cut right through you...[VAR 0114(000F)]
+msg_sub207_0010_talk_16	You actually went to the trouble of\nordering that ugly hat to be made?\r\nWhat a shame it suits you so poorly.[VAR 0114(0016)]
+msg_sub207_0010_talk_17	It suits me just fine! It’s distinguishing and sturdy\nenough to last for decades to come.[VAR 0114(0010)]
+msg_sub207_0010_talk_07	What are you two doing here?[VAR 0114(000F)]
+msg_sub207_0010_talk_08	I came to advise you that the massive mass\noutbreaks seen here in the Alabaster Icelands\r\nseem slightly different than the others.[VAR 0114(0010)]
+msg_sub207_0010_talk_09	The outbreaks happen during rainstorms in other\nareas, but here they seem to be tied to blizzards![VAR 0114(0016)]
+msg_sub207_0010_talk_02	Blizzards, you say...?\c\nIt could just be the cold environment, of course,\nbut I have to wonder if there’s more to it...[VAR 0114(000F)]
+msg_sub207_0010_talk_03	Well, we’d better get to it. I think we should look\ninto more outbreak locations than usual this time.[VAR 0114(000F)]
+msg_sub207_0010_list_01	Better get started
+msg_sub207_0010_list_02	More than usual?
+msg_sub207_0010_talk_04	I know increasing the scope of our investigation\nis a lot to ask at this point...[VAR 0114(000F)]
+msg_sub207_0010_talk_05	[VAR BD06(0000)]And even for someone with your skill,\n[VAR 0100(0000)], it will take a long\r\ntime\r\nto\r\ncheck\r\nso\r\nmany\r\nareas by yourself.[VAR 0114(0010)]
+msg_sub207_0010_talk_06	It’s a good thing I’m here to help you out then,\nisn’t it?\c\nAnd I suppose even Lian might be of some use.[VAR 0114(0016)]
+msg_sub207_0010_list_03	I’d appreciate the help!
+msg_sub207_0010_list_04	I’m counting on you!
+msg_sub207_0010_talk_10	This will be your first time investigating these\noutbreaks, won’t it, you two?\c\nTry not to overstrain yourselves.[VAR 0114(000F)]
+msg_sub207_0010_talk_11	[VAR BD06(0000)]Certainly!\c\nSo to sum up, [VAR 0189(0000)] will\nfocus\r\non\r\njust\r\nthree\r\nareas,\r\nas\r\n[VAR 1100(00FF,0100)]she’s been doing till now.\c\nMeanwhile, Sliggoo and I will handle the\nremaining areas.[VAR 0114(0010)]
+msg_sub207_0010_talk_12	There’s something wrong with your math there,\nlittle man... You’ve left me out of the equation![VAR 0114(0016)]
+msg_sub207_0010_talk_18	So you can do basic math, can you?[VAR 0114(0010)]
+msg_sub207_0010_talk_19	Hmph! I know how to subtract you from this\nassignment, for starters!\c\nI will finish all the remaining areas on my own—\nyou needn’t factor in.[VAR 0114(0016)]
+msg_sub207_0010_talk_15	I can’t tell if they hate each other or if they’re\nboth enjoying this...\c\nEither way, I imagine they never would have\ncrossed paths if it hadn’t been for you.[VAR 0114(000F)]
+msg_sub207_0010_talk_13	For now, let us focus on investigating\nthe outbreaks here in the icelands.[VAR 0114(000F)]
+msg_sub207_0010_talk_13_free	You need to investigate three areas here in the\nAlabaster Icelands.[VAR 0114(000F)]
+msg_sub207_0010_end	[~ 362]
+msg_sub207_0020_talk_01	So, you’ve finished checking the three areas you\nwere charged with in the icelands.[VAR 0114(000F)]
+msg_sub207_0020_talk_02	[~ 364]
+msg_sub207_0020_talk_03	[~ 365]
+msg_sub207_0020_list_04	[~ 366]
+msg_sub207_0020_list_05	[~ 367]
+msg_sub207_0020_talk_06	[~ 368]
+msg_sub207_0020_talk_07	Munch!
+msg_sub207_0020_talk_08	I’ve gotten word from Melli, too.\nSays he’s about ready to wrap it up.[VAR 0114(000A)]
+msg_sub207_0020_talk_09	Lian said he and Melli worked together to\ninvestigate the last outbreak![VAR 0114(000B)]
+msg_sub207_0020_talk_10	Well then, it seems we’re done here. You’ve\nworked tirelessly to investigate all across Hisui!\c\nBut we still don’t know what causes these massive\nmass outbreaks...\c\nAnd they pose a threat to anyone without strong\npartners at their side.[VAR 0114(000F)]
+msg_sub207_0020_talk_11	It’d be nice if these outbreaks didn’t put anyone\nin danger, but things rarely work out that easily.[VAR 0114(000A)]
+msg_sub207_0020_talk_12	Perhaps these outbreaks are someone’s way of\ntelling us that we must better understand the\r\nPokémon with which we share vast Hisui![VAR 0114(000B)]
+msg_sub207_0020_talk_13	Yeah... I could get behind that idea.[VAR 0114(000A)]
+msg_sub207_0020_talk_15	But for now, we’d better get going if we want\nto make it on time![VAR 0114(000A)]
+msg_sub207_0020_talk_14	Come along, you two![VAR 0114(000B)]
+msg_sub207_0020_end	[~ 378]
+msg_sub207_0030_talk_07	This is the place![VAR 0114(000B)]
+msg_sub207_0030_talk_08	And we picked the perfect time.[VAR 0114(000A)]
+msg_sub207_0030_talk_01	What do you think?[VAR 0114(000A)]
+msg_sub207_0030_list_01	It’s beautiful!
+msg_sub207_0030_list_02	It’s amazing!
+msg_sub207_0030_talk_02	This lovely space, given to us by mighty Palkia...[VAR 0114(000B)]
+msg_sub207_0030_talk_03	And this fleeting time mighty Dialga gave us.[VAR 0114(000A)]
+msg_sub207_0030_talk_04	Such a beautiful view is only possible because we\nhave both. Together.[VAR 0114(000F)]
+msg_sub207_0030_talk_05	Hisui means so much to me. My love for it is\nas vast as the land itself.[VAR 0114(000B)]
+msg_sub207_0030_talk_06	Tell me, [VAR 0189(0000)].\c\nDid you enjoy surveying this land once again?[VAR 0114(000F)]
+msg_sub207_0030_list_07	It was a lot of fun
+msg_sub207_0030_list_08	I don’t know...
+msg_sub207_0030_talk_09	Was it? I suppose it’s always thrilling to have a\nmystery to delve into. I enjoyed it, too.[VAR 0114(000F)]
+msg_sub207_0030_talk_10	You don’t? I suppose we still don’t know for sure\nwhat has caused these outbreaks, after all...\r\nBut we can continue our search for answers![VAR 0114(000F)]
+msg_sub207_0030_talk_11	Munch!
+msg_sub207_0030_talk_12	I heard these massive mass outbreaks trigger\nsome kind of reaction in your Munchlax, Mai.\r\nIs he doing all right?[VAR 0114(000A)]
+msg_sub207_0030_talk_13	He seems fine. Pokémon remain mysterious\ncreatures to us. Who’s to say how he does it?\c\nI’m just grateful to him for helping us find the\noutbreaks and telling us what we’ll find at each.[VAR 0114(000F)]
+msg_sub207_0030_talk_14	That reminds me—I’ve spread the word that the\npeople of Hisui should be alert for massive mass\r\noutbreaks during rainstorms.[VAR 0114(000B)]
+msg_sub207_0030_talk_15	Thanks for that, Irida.\c\nHopefully no more poor souls will wander\ninto one unprepared and take a beating.[VAR 0114(000A)]
+msg_sub207_0030_talk_19	Seems like our lives are going to keep on\nchanging. And we’ll keep adapting just as fast![VAR 0114(000A)]
+msg_sub207_0030_talk_16	[~ 399]
+msg_sub207_0030_talk_17	[~ 400]
+msg_sub207_0030_talk_18	[VAR BD06(0000)]An ever-changing Hisui...\c\nTell me, [VAR 0100(0000)], how do you\nthink\r\nthe\r\nfuture\r\npeople\r\nof\r\nHisui\r\nwill\r\nlive\r\nwith Pokémon?[VAR 0114(000F)]
+msg_sub207_0030_list_19	They’ll battle in gyms!
+msg_sub207_0030_list_20	They’ll enter contests!
+msg_sub207_0030_talk_21	In...gyms? What is a gym? And why would you\nbattle in one, [VAR 0100(0000)]?[VAR 0114(000B)]
+msg_sub207_0030_talk_29	You say they’re places where you can challenge\na skilled battler to prove your mettle?\c\nInteresting! I’d like to be the one who deems\na challenger worthy![VAR 0114(000B)]
+msg_sub207_0030_talk_22	Contests of what? Strength?[VAR 0114(000A)]
+msg_sub207_0030_talk_30	Whoa—you’re saying people would compete to\nsee whose Pokémon’s the most eye-catching?\c\nSounds like a real sight to see! Bet you’d have to\nbe plenty close with your Pokémon to win, too.[VAR 0114(000A)]
+msg_sub207_0030_talk_23	Well, whatever may come of the future...\nAren’t we lucky to have been born into such\r\nfascinating, fast-changing times?[VAR 0114(000B)]
+msg_sub207_0030_talk_24	You said it!\c\nNot that change is always good. And there’ll\nalways be people who don’t want change at all.\c\nBut hey, that’s life. We’ll just have to work hard\nand push on!\c\nAnd I’m glad we’ll have you with us as we do it,\n[VAR 0100(0000)]. Thanks for everything.[VAR 0114(000A)]
+msg_sub207_0030_talk_28	You certainly have some curious ideas.\nBut I suppose that’s no surprise, coming from\r\nsomeone who fell out of the sky.[VAR 0114(000F)]
+msg_sub207_0030_talk_25	We may have finished our investigations for now,\nbut Munchlax and I will continue to help you\r\nhowever we can.[VAR 0114(000F)]
+msg_sub207_0030_talk_26	Munch!
+msg_sub207_0030_talk_27	You know, [VAR 0100(0000)]...\c\nPerhaps these new outbreaks truly are just a\ngift from almighty Sinnoh.\c\nA gift meant for you—for all the good changes\nyou’ve brought to all of us here in Hisui.[VAR 0114(000F)]
+msg_sub207_0030_end	[~ 414]
+sub_250.dat
+msg_sub250_0010_talk_01	Hello there, [VAR 0189(0000)]![VAR 0114(001B)]
+msg_sub250_0010_talk_02	You know... We’ve an interesting member in the\nSecurity Corps. A secret weapon, if you will.[VAR 0114(001B)]
+msg_sub250_0010_talk_03	They’re a bit of a Pokémon battle master, in fact.[VAR 0114(001B)]
+msg_sub250_0010_talk_04	Think I could trouble you to face our\nsecret weapon in battle?[VAR 0114(001B)]
+msg_sub250_0010_list_05	Of course!
+msg_sub250_0010_list_06	Maybe later
+msg_sub250_0010_talk_07	If you’re ever interested, let me know. I’d love\nto see a match between two real masters.[VAR 0114(001B)]
+msg_sub250_0010_talk_08	Give us a moment then.[VAR 0114(001B)]
+msg_sub250_0010_talk_09	So, I heard the news![VAR 0114(00DB)]
+msg_sub250_0010_talk_10	There’s to be a face-off between two masters...[VAR 0114(00DB)]
+msg_sub250_0010_talk_11	You know, I’ve heard our corps’ secret weapon\ncan even defeat alpha Pokémon![VAR 0114(00DB)]
+msg_sub250_0010_talk_14	Everything’s set. Come with me![VAR 0114(001B)]
+msg_sub250_0010_talk_12	Here’s our ace in the hole: Ress![VAR 0114(001B)]
+msg_sub250_0010_talk_13	Please, Captain Zisu.\nI’m just a common guardsman.[VAR 0114(0030)]
+msg_sub250_0010_talk_15	However...[VAR 0114(0030)]
+msg_sub250_0010_talk_16	So long as I stand in defense of this gate, I have\nno intention of letting anyone defeat me![VAR 0114(0030)]
+msg_sub250_talk_01	I often think on what it means to “guard.”\c\nThe word doesn’t only mean to defend, but also\nto watch over and care for something.\c\nI’m proud to guard this village.[VAR 0114(0030)]
+msg_sub250_talk_02	A truly fine battle!\c\nThough if I may, I think you’re capable of a\nfar better showing than that, young recruit.\r\nNext time, I want to see you win![VAR 0114(001B)]
+msg_sub250_0015_talk_01	Would you like to face Ress in battle?[VAR 0114(001B)]
+msg_sub250_0020_talk_01	This was to be expected.[VAR 0114(0030)]
+msg_sub250_0020_talk_02	Setting out beyond the village and battling so\nmany different Pokémon in the course of your\r\nSurvey Corps work has made you very strong.[VAR 0114(0030)]
+msg_sub250_0020_talk_03	You know, my first job as a guardsman was\ncatching some Bidoof that seemed intent\r\non infiltrating the village.[VAR 0114(0030)]
+msg_sub250_0020_talk_04	Since then, I’ve kept many Pokémon from passing\nthrough our gates. Sometimes I’d slip up and let\r\nsome in—goodness, would people let me have it![VAR 0114(0030)]
+msg_sub250_0020_talk_05	But I also befriended some of the Pokémon, and\nbefore I knew it, we’d grown strong together.[VAR 0114(0030)]
+msg_sub250_0020_talk_06	I gained so much, and all because I was trying to\nmake sure folks could live safely here.\r\nIt’s my job to keep everybody safe, isn’t it?[VAR 0114(0030)]
+msg_sub250_0020_talk_07	Now—there’s one last thing I’d like to tell you.\nIf you’re heading outside the village again...\r\nstay safe out there, kid.\c\nAnd now I think I’d better get back to work.[VAR 0114(0030)]
+sub_251.dat
+msg_sub251_0010_talk_01	[~ 0]
+msg_sub251_0010_talk_02	[~ 1]
+msg_sub251_0010_list_03	[~ 2]
+msg_sub251_0010_list_04	[~ 3]
+msg_sub251_0010_talk_05	[~ 4]
+msg_sub251_0010_talk_06	[~ 5]
+msg_sub251_0010_talk_07	[~ 6]
+msg_sub251_0010_talk_08	[~ 7]
+msg_sub251_talk_01	[~ 8]
+msg_sub251_0020_talk_01	[~ 9]
+msg_sub251_0020_talk_02	[~ 10]
+msg_sub251_0020_talk_03	[~ 11]
+msg_sub251_0020_talk_04	[~ 12]
+msg_sub251_0020_talk_05	[~ 13]
+msg_sub251_0020_talk_06	[~ 14]
+msg_sub251_0020_talk_07	[~ 15]
+msg_sub251_0020_talk_08	[~ 16]
+msg_sub251_0020_talk_09	[~ 17]
+msg_sub251_0020_talk_10	[~ 18]
+msg_sub251_0020_talk_11	[~ 19]
+msg_sub251_0020_talk_12	[~ 20]
+msg_sub251_0020_talk_13	[~ 21]
+msg_sub251_0020_talk_14	[~ 22]
+msg_sub251_0020_talk_15	[~ 23]
+msg_sub251_0030_talk_01	[~ 24]
+msg_sub251_0030_talk_02	[~ 25]
+msg_sub251_0030_talk_03	[~ 26]
+sub_252.dat
+msg_sub252_0010_talk_01	Y’know, time changes a lot of things—but the sea\nstays the same. The Celestica people must’ve\r\nlooked out at this exact same view long ago![VAR 0114(000A)]
+msg_sub252_0010_talk_02	I’ve got a favor to ask, [VAR 0100(0000)]![VAR 0114(000A)]
+msg_sub252_0010_talk_03	Something the matter?
+msg_sub252_0010_talk_04	What is it?
+msg_sub252_0010_talk_05	It’s about something my grandfather told me...\c\nHe said the Adamant Crystal has the power to\nchange mighty Dialga into its otherworldly form![VAR 0114(000A)]
+msg_sub252_0010_talk_06	Whoa!
+msg_sub252_0010_talk_07	And...?
+msg_sub252_0010_talk_08	I want to see if all the strength my partners and I\nhave got is enough to take down mighty Dialga\r\nin that otherworldly form![VAR 0114(000A)]
+msg_sub252_0015_talk_01	Mighty Dialga gave us all the gift of time,\nand I want to see its real power in battle![VAR 0114(000A)]
+msg_sub252_0015_talk_02	Let’s do it!
+msg_sub252_0015_talk_03	Wait...
+msg_sub252_0015_talk_04	All right, but we don’t have forever![VAR 0114(000A)]
+msg_sub252_0015_talk_06	Hmm, not quite! Could you come back with\nmighty Dialga alone when it’s transformed?[VAR 0114(000A)]
+msg_sub252_0015_talk_05	Mighty Dialga! Let me stand before you as leader\nof the Diamond Clan, to find out in battle what\r\nI’m really made of![VAR 0114(000A)]
+msg_sub252_0020_talk_01	C’mon—if anyone can show me mighty Dialga’s\ntrue strength, it’s you![VAR 0114(000A)]
+msg_sub252_0255_talk_01	The sheer power of mighty Dialga...\c\nIt’s too much to comprehend. I’m still shaking,\neven now.[VAR 0114(000A)]
+msg_sub252_0255_talk_02	But through our battle, I think I understood the\nwill of mighty Dialga![VAR 0114(000A)]
+msg_sub252_0255_talk_03	Isn’t that amazing? When you battle all-out\nwith someone, you really understand them![VAR 0114(000A)]
+msg_sub252_0255_talk_04	Imagine if everyone in Hisui partnered up with\nPokémon to express themselves through battle...\r\nLiving here would be even more fun![VAR 0114(000A)]
+msg_sub252_0255_talk_05	[VAR BD06(0000)]I think I’ll have my clan’s folk start training up at\nJubilife’s training grounds.\c\nHope we can count on seeing you\nthere, [VAR 0100(0000)]![VAR 0114(000A)]
+msg_sub252_talk_01	If we can encourage others to understand\neach other better through battle, like I did\r\nwith mighty Dialga just now...\c\nWell, it’ll have all been worth it!
+sub_256.dat
+msg_sub256_0010_talk_01	[VAR BD06(0000)]Hello again, [VAR 0189(0000)]. I felt\nyour\r\npresence\r\nnearby\r\nwhile\r\nI\r\nwas\r\nplaying\r\nmy\r\nflute earlier.[VAR 0114(000B)]
+msg_sub256_0010_talk_02	I came to play for the Diamond Clan so they can\nhear the melodies my clan holds dear.[VAR 0114(000B)]
+msg_sub256_0010_talk_03	Oh, but seeing you reminds me—I’ve learned\nmore about the Lustrous Globe![VAR 0114(000B)]
+msg_sub256_0010_talk_04	It seems to hold the power to transform mighty\nPalkia into its otherworldly form, if you can\r\nbelieve that![VAR 0114(000B)]
+msg_sub256_0010_talk_05	Listen.\nI... I want to battle mighty Palkia![VAR 0114(000B)]
+msg_sub256_0010_talk_06	I want to prove to myself that when the Pearl\nClan worshiped mighty Palkia, thinking it was\r\nalmighty Sinnoh...our belief, at least, was real![VAR 0114(000B)]
+msg_sub256_0010_talk_07	Please help me do this!\c\nUse the Lustrous Globe to transform mighty\nPalkia and bring it alone to battle me![VAR 0114(000B)]
+msg_sub256_0015_talk_01	I want to know mighty Palkia’s power firsthand—\nthe power that brought space itself into being![VAR 0114(000B)]
+msg_sub256_0015_talk_02	You got it!
+msg_sub256_0015_talk_03	Hold on
+msg_sub256_0015_talk_04	All right. This is where I need to be right now,\nso I’ll stay until I can battle mighty Palkia![VAR 0114(000B)]
+msg_sub256_0015_talk_06	Please bring me mighty Palkia alone and in its\ntransformed state, [VAR 0100(0000)]![VAR 0114(000B)]
+msg_sub256_0015_talk_05	To step forward into this great wide world takes\nbravery—and determination![VAR 0114(000B)]
+msg_sub256_0020_talk_01	I know you’re capable of showing me all that\nmighty Palkia can do, [VAR 0100(0000)]![VAR 0114(000B)]
+msg_sub256_0255_talk_01	The sheer power of mighty Palkia...\c\nIt’s as unfathomably vast as space itself.\nI’m in awe before it.[VAR 0114(000B)]
+msg_sub256_0255_talk_02	That was incredible! Must have been the Pearl\nClan’s almighty Sinnoh![VAR 0114(00BD)]
+msg_sub256_0255_talk_03	Looks like the Pearl Clan’s leader can really\nhold her own in battle, too![VAR 0114(00AF)]
+msg_sub256_0255_talk_04	Did you hear that? The people of the Diamond\nClan praised our almighty Sinnoh... They praised\r\nmighty Palkia![VAR 0114(000B)]
+msg_sub256_0255_talk_05	I want to take this spirit of respecting and\ncherishing one another and spread it throughout\r\nvast Hisui—and I’ll do it through battling![VAR 0114(000B)]
+msg_sub256_0255_talk_06	I’ve decided, on behalf of the entire Pearl Clan!\c\nWe will bring our battles to Jubilife Village’s\ntraining grounds to let these ideas flourish![VAR 0114(000B)]
+msg_sub256_talk_01	How incredibly wide this world is. It’s full of so\nmany Pokémon and people to meet!\c\nI know I may never come to understand everyone\nout there, nor they me, but I’ll keep my heart\r\nopen to trying.[VAR 0114(000B)]
+sub_257.dat
+msg_sub257_0010_talk_01	That glint in your eye... I’d bet my balloons\nyou’re quite a capable young [VAR 1100(00FF,0403)]manlady!\c\nDo you think you could show me your balloon\nbursting technique?
+msg_sub257_0010_talk_02	You just need to burst as many of my adorable\nballoons as possible while riding a Pokémon.\r\nIt’s captivating, really!
+msg_sub257_0010_talk_03	If you manage to burst, say...40 balloons, well,\nthat’d be an impressive start!
+msg_sub257_0010_talk_04	You can find me here any time, so let me know\nwhenever you feel like testing your skill in the\r\nballoon race!
+msg_sub257_0020_talk_01	Well whaddya know! You beat my target of\nbursting at least 40 balloons! Well done, you!
+msg_sub257_0020_talk_02	I knew you were something special—keeping up\nwith my adorable balloons’ movements even\r\nwhile riding Pokémon!\c\nBut this isn’t the end, of course. I’ll still be\naround for whenever you want a challenge!
+sub_258.dat
+msg_sub258_0010_talk_01	You’re that talented Survey Corps member I keep\nhearing about, right? I have a favor to ask of you.[VAR 0114(0041)]
+msg_sub258_0010_talk_02	You know Oreburrow Tunnel, yeah? The tunnel\nnear Obsidian Falls?[VAR 0114(0041)]
+msg_sub258_0010_talk_03	I’m hoping to dig into the tunnel walls to see if I\ncan find any good stone there, but a Pokémon’s\r\nbeen raging about and getting in my way.\r\nIt’s more than I can handle.\c\nThink you could calm it down for me?[VAR 0114(0041)]
+msg_sub258_0010_list_01	I’ll do my best
+msg_sub258_0010_list_02	Maybe another time
+msg_sub258_0010_talk_04	Thanks a ton! Please head to the tunnel once\nyou’re ready to calm down that Pokémon.[VAR 0114(0041)]
+msg_sub258_0010_talk_05	Sounds like you get asked a lot of favors, huh.\nLet me know if you ever have time for another.[VAR 0114(0041)]
+msg_sub258_0010_talk_06	Oh good, you made it![VAR 0114(0041)]
+msg_sub258_0010_talk_18	Those glowing red eyes... It’s one of those alpha\nthings, right?\c\nIt rages about so much I’m afraid it might bring\nthe whole tunnel down. It’s really dangerous![VAR 0114(0041)]
+msg_sub258_0010_talk_07	Grrrrock!
+msg_sub258_0010_talk_08	Wow, you’re as good as they say![VAR 0114(0041)]
+msg_sub258_0010_talk_09	That alpha Onix has calmed right down...[VAR 0114(0041)]
+msg_sub258_0010_talk_19	Huh. I half expected it to get right back to\nthrashing about...[VAR 0114(0041)]
+msg_sub258_0010_list_03	Me too
+msg_sub258_0010_list_04	Oh yeah?
+msg_sub258_0010_talk_10	Right?![VAR 0114(0041)]
+msg_sub258_0010_talk_11	Call it a feeling, but...[VAR 0114(0041)]
+msg_sub258_0010_talk_12	Maybe... Just maybe...\c\nYou weren’t raging at all, but actually just trying\nto dig a tunnel? If that’s the case, we may as well\r\ndig together![VAR 0114(0041)]
+msg_sub258_0010_talk_13	Onnn!
+msg_sub258_0010_talk_14	That’s settled, then! From now on, we’re a team!\c\nI guess you could say that Onix and I are “on it”![VAR 0114(0041)]
+msg_sub258_0010_talk_15	Now I’ve got a partner that’s more than\ndependable, and it’s all thanks to you!\c\nIt’s not much, but please take this Grit Rock as\na token of my appreciation.[VAR 0114(0041)]
+msg_sub258_0010_talk_16	There are some folks who’re saying they’d make\nstatues of Pokémon if we find some quality stone.\c\nAnd Lian of the Pearl clan said we might even\nfind coal here![VAR 0114(0041)]
+msg_sub258_0010_talk_17	OK, partner, let’s see which of us can dig more![VAR 0114(0041)]
+msg_sub258_0010_talk_20	Onnn!
+sub_259.dat
+msg_sub259_0010_talk_01	[~ 0]
+msg_sub259_0010_list_01	[~ 1]
+msg_sub259_0010_list_02	[~ 2]
+msg_sub259_0010_talk_02	[~ 3]
+msg_sub259_0010_talk_03	[~ 4]
+msg_sub259_0010_talk_04	[~ 5]
+msg_sub259_0010_talk_05	[~ 6]
+msg_sub259_0020_talk_01	[~ 7]
+msg_sub259_0020_talk_02	[~ 8]
+msg_sub259_0020_talk_03	[~ 9]
+msg_sub259_0020_talk_04	[~ 10]
+msg_sub259_0020_talk_05	[~ 11]
+msg_sub259_0020_talk_06	[~ 12]
+sub_261.dat
+msg_sub261_0010_talk_01	Have you tried any of Ingo’s Path of Solitude\nbattles yet?[VAR 0114(0085)]
+msg_sub261_0010_list_02	Of course!
+msg_sub261_0010_list_03	Path of Solitude?
+msg_sub261_0010_talk_04	Ah, the Path of Solitude—a chance to master\nthe art of battling with a single Pokémon.[VAR 0114(0085)]
+msg_sub261_0010_talk_05	Battling a tough opponent with just one Pokémon\nin your party feels like reaching for the stars!\c\nYou’ve really gotta know your Pokémon well so\nyou can come up with the best strategy.[VAR 0114(0085)]
+msg_sub261_0010_talk_06	On that note, I’ve got a request for you!\c\nThey say the Path of Solitude is tough to beat,\nbut that’s exactly what I’d like to see you do![VAR 0114(0085)]
+msg_sub261_0010_talk_07	I’d give it a go myself, but...well... Those sorts\nof battles are just way above my level...[VAR 0114(0085)]
+msg_sub261_0010_talk_08	Not finished yet![VAR 0114(0085)]
+msg_sub261_0010_talk_09	Still more to go![VAR 0114(0085)]
+msg_sub261_0010_talk_10	Once you’ve completed the Path of Solitude\nwith any of the Pokémon I just mentioned,\r\ncome show me the mark in your Pokédex![VAR 0114(0085)]
+msg_sub261_talk_01	You can take on the Path of Solitude by talking to\nIngo right here at the training grounds![VAR 0114(0085)]
+msg_sub261_0020_talk_01	I knew you could do it! What a thrill to see your\nPokémon best the Path of Solitude like that![VAR 0114(0085)]
+msg_sub261_0020_talk_06	With your skills, I know you can do it! Get out\nthere and try these incredibly tough challenges![VAR 0114(0085)]
+msg_sub261_0020_talk_02	I hope you keep enjoying the Path of Solitude![VAR 0114(0085)]
+msg_sub261_0020_talk_03	I see you’ve completed the Path of Solitude with\nall the Pokémon I recommended! Well done![VAR 0114(0085)]
+msg_sub261_0020_talk_04	Please, take these as thanks for showing me such\ninspiring battles![VAR 0114(0085)]
+msg_sub261_0020_talk_05	Keep enjoying the Path of Solitude, for its path\nstretches forever onward![VAR 0114(0085)]
+sub_350.dat
+msg_sub350_0010_talk_01	[VAR BD06(0000)][VAR 1003][VAR 0100(0000)]. Would you come with\nme\r\nfor\r\na moment?[VAR 0114(0008)]
+msg_sub350_0010_talk_02	Hrrrm. So you came.[VAR 0114(0009)]
+msg_sub350_0010_talk_03	[VAR BD06(0000)][VAR 1003][VAR 0100(0000)], are you aware of why\nwe\r\nnamed\r\nourselves\r\nthe\r\nGalaxy Expedition Team?[VAR 0114(0009)]
+msg_sub350_0010_list_01	I’m afraid not
+msg_sub350_0010_list_02	Yes, I am
+msg_sub350_0010_talk_04	As I expected. Allow me to explain.[VAR 0114(0009)]
+msg_sub350_0010_talk_05	Oh, are you?\c\nWell. I see someone had the nerve to deny me\nthe pleasure of telling you myself.\r\nNo matter. Allow me to explain in my own words.[VAR 0114(0009)]
+msg_sub350_0010_talk_06	I am quite fond of likening things to stars.[VAR 0114(0009)]
+msg_sub350_0010_talk_07	Such is how I described the intellect and abilities\nof Cyllene and the others to our patrons.\c\nWhen explaining our plan to move to Hisui, I told\nthem our members were as bright as shining stars.[VAR 0114(0009)]
+msg_sub350_0010_talk_08	Hearing this, one of our patrons said to him,\n“I see you have yourself a veritable galaxy, then.”[VAR 0114(0008)]
+msg_sub350_0010_talk_09	Perhaps to curry favor, the commander then said\nhe would name us the Galaxy Expedition Team.[VAR 0114(0008)]
+msg_sub350_0010_talk_10	Hrrrm...\nThat is...not quite right, Cyllene.\r\nI also thought it was a fine name.[VAR 0114(0009)]
+msg_sub350_0010_talk_11	Alas, the name will not live on forever.\c\nOnce life here in the region settles down,\nthe role of the Galaxy Team will end...[VAR 0114(0009)]
+msg_sub350_0010_talk_12	And once we are no longer needed, it is only\nnatural that our team will be disbanded.[VAR 0114(0009)]
+msg_sub350_0010_list_03	Are you OK with that?
+msg_sub350_0010_list_04	That’s kind of sad
+msg_sub350_0010_talk_13	The important thing is that people learn to live\nin harmony with Pokémon in this vast land.\r\nOur name hardly matters. Is that not so?[VAR 0114(0009)]
+msg_sub350_0010_talk_14	I promise you...[VAR 0114(0008)]
+msg_sub350_0010_talk_15	I will pass down the name of our team, and tales\nof its accomplishments, to all my descendants.[VAR 0114(0008)]
+msg_sub350_0010_talk_16	I see... I suppose that does sound like something\nyou would do, Cyllene.[VAR 0114(0009)]
+msg_sub350_0010_talk_17	[VAR BD06(0000)][VAR 1003][VAR 0100(0000)], forgive me for taking\nso\r\nmuch\r\nof\r\nyour time.\c\nPlease accept this as a sort of apology.[VAR 0114(0009)]
+msg_sub350_0010_talk_18	Despite having fallen from the sky into this land,\nyou have not once hesitated to help us. For that,\r\nI thought you deserved to know the story behind\r\nour name.[VAR 0114(0009)]
+msg_sub350_0010_talk_19	I have high hopes for your continued efforts to\nhelp the people and Pokémon of Hisui.[VAR 0114(0009)]
+sub_351.dat
+msg_sub351_0010_talk_01	You made a choice just now, didn’t you?\nYou chose to talk to me.
+msg_sub351_0010_talk_02	I have something in my right hand and something\nin my left. I think you would like either.\c\nChoose left or right. Then, I will give you the\nitem in that hand.
+msg_sub351_0010_list_01	I choose the right
+msg_sub351_0010_list_02	I choose the left
+msg_sub351_0010_talk_03	So you choose the right? In my right hand I\nhave...a Red Shard! Here, take it.
+msg_sub351_0010_talk_04	So you choose the left? In my left hand I have...\na Blue Shard! Here, take it.
+msg_sub351_0010_talk_05	I can’t tell you what was in the hand you didn’t\nchoose. That’s a secret.\c\nJust think about it—it’s impossible to know what\nlies down the path you didn’t take.
+msg_sub351_0010_talk_06	And this is the same! A simple choice of right or\nleft could change the future!
+msg_sub351_0010_talk_07	It is said that our life experience is constructed\nby the sum of all the choices that we make.\c\nI hope you will make great choices that lead you\nto an ever-better future!
+sub_352.dat
+msg_sub352_0010_talk_01	This area sure has changed since Jubilife Village\nwas founded.
+msg_sub352_0010_list_01	It has?
+msg_sub352_0010_list_02	Really? How so?
+msg_sub352_0010_talk_02	I visited the Hisui region once before—though\nit was about 10 years ago.
+msg_sub352_0010_talk_03	I remember spending my nights at the handful\nof huts that were scattered across Prelude Beach\r\nas I gathered Medicinal Leeks and the like.\c\nAll while running from wild Pokémon, of course.
+msg_sub352_0010_talk_04	Oh my. I see you have Pokémon traveling along\nwith you...\r\nThat’s another thing that’s changed.
+msg_sub352_0010_talk_05	When I was here 10 years ago, everyone was\nsimply terrified of Pokémon...
+msg_sub352_0010_talk_06	If only there were more people like you and we\ncould all live together peacefully with Pokémon...\r\nWhat a glorious day that would be.
+msg_sub352_0010_talk_07	Ah! I’m terribly sorry. Please accept this as thanks\nfor listening to the ramblings of a traveling doctor.
+msg_sub352_0010_talk_08	I will get back to my gathering of Medicinal Leeks\nnow. Farewell.
 boutique.dat
 msg_boutique_001	What can I help you with, hon?[VAR 0114(001D)]
 msg_boutique_002	Buy clothing
@@ -6737,6 +7402,8 @@ msg_area00_sys_06	It’s a full-length mirror.
 msg_area00_sys_07	You should get ready and head outside.
 msg_area00_sys_08	You can’t go any farther right now!
 msg_area00_talk_123	Can I interest you in a candy?[VAR 0114(004F)]
+msg_area00_talk_55_02	I’m hearing reports that more of those massive\nmass outbreaks are cropping up. Stay safe, kid.[VAR 0114(0030)]
+msg_area00_talk_55_03	I’m hearing reports of both mass outbreaks and\nmassive mass outbreaks! Stay safe out there, kid.[VAR 0114(0030)]
 z_area01.dat
 msg_area01_talk_01	The more energy a Pokémon’s got, the harder it’ll\nbe to catch...\c\nIf you battle a Pokémon and lower its HP—or\nmaybe inflict paralysis with a move like Shinx’s\r\nThunder Shock—it should be easier to catch.
 msg_area01_talk_02	You should have your Pokémon smash open\nsparkling rocks for you!\c\nYou’ll find Tumblestones inside—the same\nTumblestones you need to craft Poké Balls.
@@ -7457,16 +8124,23 @@ msg_box_release_003	It seems the Pokémon you released back into\nthe wild left 
 msg_box_release_005	It seems the Pokémon you released back into\nthe wild left a little something behind for you.[VAR 0114(0053)]
 msg_box_start_001	Do you have some Pokémon you’d like to leave\nhere with me?[VAR 0114(0053)]
 msg_box_end_001	Back to your survey work, then? Keep it up.[VAR 0114(0053)]
+msg_box_release_006	It seems the Pokémon you released back into\nthe wild left something behind.
+msg_box_release_007	It seems the Pokémon you released back into\nthe wild left something behind.
 farmharvest.dat
 msg_farm_001	Here to grow some crops, are you? No way to\ntell how the yield’ll be, but we’ll give it our all.\c\nWhat kind of harvest you interested in?[VAR 0114(001E)]
+msg_farm_008	About the Berry harvest—it just so happens I’ve\ngot hold of some special Berries.\c\nYou can grow these special ones or just stick with\nthe usual Berry harvest. What’ll it be?[VAR 0114(001E)]
+msg_farm_009	Which are you after—the usual Berry harvest,\nor the special one?[VAR 0114(001E)]
 msg_farm_sel_000	Apricorn harvest
 msg_farm_sel_001	Medicinal harvest
 msg_farm_sel_002	Vegetable harvest
 msg_farm_sel_003	Mushroom harvest
 msg_farm_sel_004	Berry harvest
 msg_farm_sel_006	Mint harvest
+msg_farm_sel_007	The usual one
+msg_farm_sel_008	The special one
+msg_farm_sel_009	Neither, actually
 msg_farm_sel_005	Perhaps another time
-msg_farm_002	[~ 8]
+msg_farm_002	[~ 13]
 msg_farm_sel_010	Sounds great!
 msg_farm_sel_011	Never mind
 msg_farm_003	Perfect. We’ll get right on it! Your crops are in\ngood hands.[VAR 0114(001E)]
@@ -7486,6 +8160,8 @@ msg_farm_002_002	The vegetable harvest? It’ll be [VAR 0204(0001,002C)] for 
 msg_farm_002_003	The mushroom harvest? It’ll be [VAR 0204(0001,002C)] for that\none. How about it?[VAR 0114(001E)]
 msg_farm_002_004	The Berry harvest? It’ll be [VAR 0204(0001,002C)] for that one.\nHow about it?[VAR 0114(001E)]
 msg_farm_002_005	The mint harvest? It’ll be [VAR 0204(0001,002C)] for that one.\nHow about it?[VAR 0114(001E)]
+msg_farm_002_006	The special Berry harvest?\nIt’ll be [VAR 0204(0001,002C)] for that one. How about it?[VAR 0114(001E)]
+msg_farm_002_007	The usual Berry harvest?\nIt’ll be [VAR 0204(0001,002C)] for that one. How about it?[VAR 0114(001E)]
 field_event.dat
 msg_fld_ev_spray_01	The repellent’s effect wore off!
 msg_fld_ev_spray_02	The repellent’s effect wore off!\nWould you like to use another one?
@@ -7692,6 +8368,7 @@ msg_area00_fukidashi_photo_n_01_01	A photo lasts a lifetime!\nHow about a sittin
 msg_area00_fukidashi_amulet_n_01_01	Shrine guardian,\nwatch over us...
 msg_area00_fukidashi_ichou_nml_n_01_01	Rare wares!\nOnly the best here!
 msg_area00_fukidashi_ichou_rare_n_01_01	Rare wares! Great deals!\nOnly the best here!
+msg_area00_fukidashi_ichou_rare_n_01_02	Rare wares! Great deals!\nOnly the best here!
 msg_area00_fukidashi_g025_f_01_01	The bonds between\nPokémon and people...
 msg_area00_fukidashi_g047_n_01_01	Right, right—the\nSurvey Corps...
 msg_area00_fukidashi_guard_007_f_01_01	I’m so bored...\nI wish something would happen...
@@ -7805,17 +8482,17 @@ msg_area03_fukidashi_g008_f_01_01	I just wanted to be helpful...
 msg_area03_fukidashi_craft_004_f_01_01	Honestly, where\ndid he get off to?
 msg_area03_fukidashi_base2_box_f_01_01	A t-t-talking Pokémon?!\nGyaaahhh! Help meee!
 msg_area03_fukidashi_perappu_f_01_01	Halp me! Halp me!
-NewText_93	[~ 136]
+NewText_93	[~ 137]
 msg_area00_fukidashi_g049_f_03_01	Tell me! Tell me!\nPleeeaaase!
 msg_area03_fukidashi_craft_003_f_01_01	Come on! Eat up!
 msg_area00_s01_fukidashi_g039_f_01_01	Oooh... My back...
 msg_area00_fukidashi_cap04_f_03_01	My hairstyles are\nbold and stylish!
 msg_area00_s01_fukidashi_g029_f_01_01	The aroma of that herb...\nI still remember it...
 msg_area03_fukidashi_build_003_f_01_01	Simply incredible!
-NewText_100	[~ 143]
+NewText_100	[~ 144]
 msg_area04_fukidashi_base2_shop_01_01	I’ve got to do something\nto get this camp set up!
 msg_area04_fukidashi_sub_071_2_01_01	Zooor...
-NewText_103	[~ 146]
+NewText_103	[~ 147]
 msg_area00_s01_fukidashi_craft_001_f_01_01	I wonder if Clefairy\ndance here in Hisui...
 msg_area01_fukidashi_guard_011_01_01	Aughhh! Pins and needles!\nI can’t even feel my feet!
 msg_area00_fukidashi_candy_f_03_01	This is it! I’ve come up\nwith the ultimate recipe!
@@ -7824,8 +8501,8 @@ msg_area05_fukidashi_craft_005_f_01_01	I’m sure I saw the\nBlissey around here
 msg_area05_fukidashi_guard_012_f_01_01	When is Craig ever\ngoing to show up?
 msg_area05_fukidashi_base2_box_f_01_01	Where is that Brice?!\nI wonder if he got lost...
 msg_area05_fukidashi_guard_014_f_01_01	Alola!
-NewText_112	[~ 155]
-NewText_113	[~ 156]
+NewText_112	[~ 156]
+NewText_113	[~ 157]
 msg_area05_fukidashi_guard_010_f_01_01	You! Wanda’s savior!\nPlease help me!
 msg_area00_fukidashi_candy_f_02_01	Why don’t people\nlike my recipe...?
 msg_area00_fukidashi_poke_rukario_f_01_01	Grrrooof!
@@ -8021,6 +8698,11 @@ msg_battle_portal_list_05	Akari
 msg_battle_portal_list_06	Kamado
 msg_battle_portal_list_07	Beni
 msg_battle_portal_list_08	You, Ingo
+msg_battle_portal_list_11	You, Ingo—but tougher
+msg_battle_portal_list_12	Mai
+msg_battle_portal_list_13	Sabi
+msg_battle_portal_list_14	Ress
+msg_battle_portal_list_15	You, Ingo—using alphas
 msg_battle_portal_list_09	Not interested
 msg_battle_portal_list_10	See more options
 msg_battle_portal_talk_04	Very well. If you would be so kind as to wait just\na moment, [VAR 0100(0000)]...[VAR 0114(0015)]
@@ -8041,7 +8723,95 @@ msg_battle_portal_talk_18	Doesn’t matter to me who wins and who loses.\nI’m 
 msg_battle_portal_talk_19	S’pose I’ll go prepare some potato mochi.\c\nI’d probably better start coming up with some\nnew dishes, or everyone will get sick of these...[VAR 0114(000E)]
 msg_battle_portal_talk_20	Now then... Follow the rules and drive safely!\nWe’re headed for victory! All aboard![VAR 0114(0015)]
 msg_battle_portal_talk_21	Sometimes I find myself saying things without\nknowing where the words come from...\r\nyet those words seem to fill me with power.\c\nBut returning to the matter at hand:\nI hope you’ll challenge me again sometime.[VAR 0114(0015)]
-msg_battle_portal_talk_22	[~ 31]
+msg_battle_portal_talk_22	You cannot know what happens after winning\nwithout winning.\c\nTherefore, I will exert every possible effort to\nbattle with you.\c\nAll aboard![VAR 0114(0015)]
+msg_battle_portal_talk_23	Please do your best and run toward the\ndestination—an even higher state![VAR 0114(0015)]
+msg_battle_portal_talk_24	Trying to bring out the best in our partners is one\nthing the Diamond Clan and the Galaxy Team\r\nhave in common.\c\nSo let’s have a fun and intense battle that both\nour teams can really enjoy![VAR 0114(000F)]
+msg_battle_portal_talk_25	Through battling, I feel that I’m coming to a\ngreater understanding both of you and of my\r\nown partner Pokémon.\c\nI hope I can come to understand the feelings of\nwild Pokémon in this way, too.[VAR 0114(000F)]
+msg_battle_portal_talk_26	[VAR BD06(0000)]All right, [VAR 0100(0000)]. It’s time to\nshow\r\nme\r\nhow\r\nstrong\r\nyou are![VAR 0114(0018)]
+msg_battle_portal_talk_27	That was fun! See you next time![VAR 0114(0018)]
+msg_battle_portal_talk_28	I’ll approach this battle as if it were guard\nduty—as if failure weren’t an option![VAR 0114(0030)]
+msg_battle_portal_talk_29	I’ll keep what I learned from this battle in mind as\nI continue my training. I’ll keep guarding the front\r\ngate from everything...except Bidoof.[VAR 0114(0030)]
+msg_battle_portal_talk_30	Now that I’ve learned how folks in both my clan\nand the Diamond Clan battle, I’ll mix in a bit of\r\nmy own creativity to transport you to\r\ndestinations unknown!\c\nAll aboard![VAR 0114(0015)]
+msg_battle_portal_talk_31	The sheer size of an alpha... It seems to represent\nthe vastness of all Hisui! I like it!\c\nI shall endeavor to interact with all manner of\nPokémon until I find the place where I belong![VAR 0114(0015)]
+msg_battle_portal_ex_list_0	Regular Pokémon battle
+msg_battle_portal_ex_list_1	Path of Tenacity
+msg_battle_portal_ex_list_2	Path of Solitude
+msg_battle_portal_ex_list_3	Select Pokémon
+msg_battle_portal_ex_list_4	Tell me more
+msg_battle_portal_ex_list_5	Accept the challenge
+msg_battle_portal_ex_list_6	Check records
+msg_battle_portal_ex_talk_00	Commander Kamado requested that I provide\nnew formats for battling, and I have complied.\c\nEnjoy these new avenues for demonstrating\nyour skill![VAR 0114(0015)]
+msg_battle_portal_ex_talk_01	Which would you like to attempt?[VAR 0114(0015)]
+msg_battle_portal_ex_list_chain_0	Battle the Galaxy Team
+msg_battle_portal_ex_list_chain_1	Battle the Diamond Clan
+msg_battle_portal_ex_list_chain_2	Battle the Pearl Clan
+msg_battle_portal_ex_chain_init_00	Do you think you can defeat all three of us?\nCome then, and prove the might of you and\r\nyour Pokémon![VAR 0114(0009)]
+msg_battle_portal_ex_chain_init_01	Do you think you can defeat all three of us?\nCome then, and prove the might of you and\r\nyour Pokémon![VAR 0114(0009)]
+msg_battle_portal_ex_chain_init_10	We each send out all our Pokémon at once, you\nknow... But I guess you’re here for the challenge![VAR 0114(000A)]
+msg_battle_portal_ex_chain_init_11	Even you and your highly trained Pokémon may\nstruggle battling so many Pokémon at once![VAR 0114(000A)]
+msg_battle_portal_ex_chain_init_20	Our Pokémon are like siblings to us, and we’ll\nchallenge you with strength in numbers![VAR 0114(000B)]
+msg_battle_portal_ex_chain_init_21	Strength in numbers! We’ll each send out all our\nPokémon at once to overwhelm you![VAR 0114(000B)]
+msg_battle_portal_ex_chain_00	Captain Zisu of the Security Corps, reporting\nfor duty![VAR 0114(001B)]
+msg_battle_portal_ex_chain_01	I don’t usually go about picking battles I can’t\nwin, but I’m doing this for Kamado’s sake.\r\nI won’t hold back![VAR 0114(000E)]
+msg_battle_portal_ex_chain_02	Your strength offers many lessons—defeating you\nwill prove I’ve learned them!\c\nHrrrm! Commander Kamado of the Galaxy\nExpedition Team, to battle![VAR 0114(0009)]
+msg_battle_portal_ex_chain_10	Warden Arezu of the Diamond Clan, reporting\nfor duty! Gotta warn ya—I pack quite a punch![VAR 0114(0012)]
+msg_battle_portal_ex_chain_11	I only came here because Adaman practically\nbegged me to.\c\nYou should thank him for the opportunity—nay,\nthe honor—of battling me, Melli![VAR 0114(0016)]
+msg_battle_portal_ex_chain_12	We and our Pokémon have always been partners.\nWhen we battle you and see what they’re really\r\ncapable of, we’ll be unstoppable![VAR 0114(000A)]
+msg_battle_portal_ex_chain_20	Know that I’ve been analyzing the Galaxy Team’s\nbattle methods ever since you quelled Kleavor![VAR 0114(0010)]
+msg_battle_portal_ex_chain_21	Who cares about the grandstanding? Let’s get\nto battling![VAR 0114(0017)]
+msg_battle_portal_ex_chain_22	My Pokémon and I are always speaking to each\nother! Did you know that, [VAR 0100(0000)]?\c\nI believe that if my Pokémon and I understand\neach other, there’s nothing we can’t do![VAR 0114(000B)]
+msg_battle_portal_ex_chain_win_00	You’ve pushed all the way through the Path of\nTenacity! I expected no less.\c\nI’m grateful to you for showing me what a\nheartening presence Pokémon can be.\r\nWe must spar again sometime![VAR 0114(0009)]
+msg_battle_portal_ex_chain_win_01	Well, you’ve done it again!\c\nStill, it feels like we as a clan came out of this\nstronger than when we went in.\c\nNext time we’ll come at you even harder and\ngive you a battle you won’t forget![VAR 0114(000A)]
+msg_battle_portal_ex_chain_win_02	Congratulations on making it through the entire\nPath of Tenacity, [VAR 0100(0000)]!\c\nPerhaps we should host such battles all over\nvast Hisui so people can feel what it’s like to\r\novercome challenges with their Pokémon![VAR 0114(000B)]
+msg_battle_portal_ex_chain_lose_00	You may have lost the battle, but you will never\nlose the strength you share with your Pokémon.\c\nI am truly grateful to you for even attempting\nthis challenge![VAR 0114(0009)]
+msg_battle_portal_ex_chain_lose_01	So after all you’ve done, you can’t handle the\ncombined might of the Diamond Clan?\c\nHah! Nah, I don’t believe it! You and your\nPokémon have more fight in you than that.[VAR 0114(000A)]
+msg_battle_portal_ex_chain_lose_02	So if we of the Pearl Clan pool our might, we can\ntake down even the mighty [VAR 0100(0000)]...\c\nBut there’s no pride in winning through strength\nin numbers. We each need to be strong enough\r\nto win on our own![VAR 0114(000B)]
+msg_battle_portal_ex_talk_02	You will face three members of a team or clan in\na series of battles. Which will you choose?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_12	You will face three members of the Galaxy\nExpedition Team in a series of battles.\r\nDo you wish to proceed?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_13	You will face three members of either the Galaxy\nExpedition Team or the Diamond Clan in a series\r\nof battles. Which will you choose?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_14	You will face three members of either the Galaxy\nExpedition Team or the Pearl Clan in a series of\r\nbattles. Which will you choose?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_03	Very well. Are you ready to begin?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_04	The Path of Solitude will pit one of your\nPokémon against Pokémon of my choosing.[VAR 0114(0015)]
+msg_battle_portal_ex_talk_09	What will you do?[VAR 0114(0015)]
+msg_battle_portal_ex_talk_05	Please choose a Pokémon to battle with. You’ll\nneed to send the rest of your team away for now.[VAR 0114(0015)]
+msg_battle_portal_ex_talk_06	[VAR BD06(0000)]You’ve chosen [VAR 0102(0001)] as your\nlone\r\nPokémon.\r\nAre\r\nyou\r\nready\r\nto begin?[VAR 0114(0015)]
+msg_battle_portal_ex_list_7	Begin
+msg_battle_portal_ex_talk_07	You must choose just one of your Pokémon to\ntake part in the Path of Solitude.[VAR 0114(0015)]
+msg_battle_portal_ex_talk_10	[VAR BD06(0000)]Very well, then. Let [VAR 0102(0000)]’s\nPath\r\nof\r\nSolitude begin![VAR 0114(0015)]
+msg_battle_portal_ex_talk_11	All aboard![VAR 0114(0015)]
+msg_battle_portal_ex_talk_08	[~ 92]
+msg_battle_portal_ex_desc_00	[~ 93]
+msg_battle_portal_ex_desc_01	On the Path of Tenacity, you’ll face three battles\nagainst members of a group of your choosing—\r\nthe Galaxy Team, the Diamond Clan, or the\r\nPearl Clan.\c\nMembers of the Diamond Clan and Pearl Clan\nmay challenge you with multiple Pokémon\r\nat the same time![VAR 0114(0015)]
+msg_battle_portal_ex_desc_03	On the Path of Tenacity, the toughest the Galaxy\nExpedition Team has to offer will challenge you\r\nto three consecutive battles.[VAR 0114(0015)]
+msg_battle_portal_ex_desc_04	On the Path of Tenacity, you’ll face three battles\nagainst members of a group of your choosing—\r\neither the Galaxy Team or the Diamond Clan.\c\nMembers of the Diamond Clan may challenge\nyou with multiple Pokémon at the same time![VAR 0114(0015)]
+msg_battle_portal_ex_desc_05	On the Path of Tenacity, you’ll face three battles\nagainst members of a group of your choosing—\r\neither the Galaxy Team or the Pearl Clan.\c\nMembers of the Pearl Clan may challenge you\nwith multiple Pokémon at the same time![VAR 0114(0015)]
+msg_battle_portal_ex_desc_02	On the Path of Solitude—as the name implies—\nyou must battle with only one of your Pokémon.\c\nIf your Pokémon emerges victorious, I will add a\nmark to its page in your Pokédex.[VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_win_00	[VAR BD06(0000)]Most splendid! [VAR 0102(0000)] has\nreached\r\nthe\r\nfinal\r\nstation\r\non its Path of Solitude![VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_win_01	I have added a mark signifying its victory to the\npage for [VAR 0101(0000)] in your Pokédex![VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_win_05	A mark of victory for the Path of Solitude was\nadded to [VAR 0101(0000)]’s Pokédex page!
+msg_battle_portal_ex_ippiki_win_02	Allow me to present you with this prize for having\ncompleted the Path of Solitude.[VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_win_03	And, for having completed the Path of Solitude\nwith [VAR 0202(0000)] different Pokémon, allow me to present\r\nyou with this prize as well![VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_win_04	Bravo! Excellent!\c\nYou have now conquered the Path of Solitude\nwith all Pokémon! However, I am quite certain\r\nthat you will continue aiming for greater heights![VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_lose_00	Ah. Your battle was not bad at all.\c\nPlease walk the Path of Solitude again![VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_record_00	You have emerged victorious with a total of\n[VAR 0202(0000)] different Pokémon.[VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_record_01	If you can claim victory on the Path of Solitude\nwith another [VAR 0202(0000)] Pokémon, I will present you\r\nwith a prize in celebration.[VAR 0114(0015)]
+msg_battle_portal_ex_ippiki_record_02	You have completed the Path of Solitude with\nall Pokémon!\c\nI would love to see the world through the eyes of\nan accomplished individual such as yourself![VAR 0114(0015)]
+msg_battle_portal_ex_msg_release_talk_01	[VAR BD06(0000)]Welcome back, [VAR 0189(0000)],\nand\r\nfine\r\nwork\r\nwith\r\nyour surveying.\c\nPardon the imposition, but would you follow me\nto the training grounds?[VAR 0114(0015)]
+msg_battle_portal_ex_msg_release_talk_02	I called you here for one very specific reason.\c\nI wish to have you try your hand at a new form\nof Pokémon battle![VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_03	I used to think that Pokémon were terrifying\ncreatures. You’ve helped me see otherwise.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_04	Thanks to you, there are some in this village who\nnow enjoy battling with Pokémon. More and\r\nmore of us now see Pokémon as allies.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_05	It is for that very reason that I would like you to\ncontinue to further your trailblazing.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_06	I believe that taking part in a new form of battle\nwill help deepen our understanding of Pokémon.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_07	In the midst of a tough battle, what does your\npartner desire?\r\nAnd what is your opponent thinking?[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_08	I believe that you have the ability to sense these\nthings, and we will do our best to learn as well![VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_09	This is quite a difficult request we have for you,\nbut I’m sure you are up to the challenge![VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_10	You may ask Ingo here for a more\ndetailed explanation.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_11	I leave the rest to you, Ingo.[VAR 0114(0009)]
+msg_battle_portal_ex_msg_release_talk_12	Please let me know when you are ready to try\nyour hand at these new battles.[VAR 0114(0015)]
+msg_battle_portal_ex_chain_level_max_win_00	Bravo! Excellent!\c\nYou have now claimed victory against the very\nbest challengers the Galaxy Team has to offer![VAR 0114(0015)]
+msg_battle_portal_ex_chain_level_max_win_01	Bravo! Excellent!\c\nYou have now claimed victory against the very\nbest challengers the Diamond Clan has to offer![VAR 0114(0015)]
+msg_battle_portal_ex_chain_level_max_win_02	Bravo! Excellent!\c\nYou have now claimed victory against the very\nbest challengers the Pearl Clan has to offer![VAR 0114(0015)]
+msg_battle_portal_ex_battle_retry	Will you attempt this challenge again?
 clothes_event.dat
 msg_clothes_boutique_01	[~ 0]
 msg_clothes_boutique_02	[~ 1]
@@ -8132,27 +8902,44 @@ msg_savedatalink_004	Please take good care of such fine attire.[VAR 0114(001D)]
 msg_savedatalink_DEL	You received a [VAR FF00(0008)]Modern Jacket[VAR FF00(0000)], a pair of [VAR FF00(0008)]Modern[VAR FF00(0000)]\n[VAR FF00(0008)]Trousers[VAR FF00(0000)], and a pair of [VAR FF00(0008)]Modern Shoes[VAR FF00(0000)]!
 msg_savedatalink_ORI	You received a [VAR FF00(0008)]Shaymin Fancy Kimono[VAR FF00(0000)] and a\npair of [VAR FF00(0008)]Shaymin Fancy Bottoms[VAR FF00(0000)]!
 msg_savedatalink_BEL	You received a [VAR FF00(0008)]Pikachu Festival Mask[VAR FF00(0000)] and an\n[VAR FF00(0008)]Eevee Festival Mask[VAR FF00(0000)]!
+gonbe_discover.dat
+msg_gonbe_discover_00	Hoping to get some help from Munchlax?\nI’ll need [VAR 0201(0000)] Aguav Berr[VAR 1101(0000,0301)]yies.[VAR 0114(000F)]
+msg_gonbe_discover_01	Understood! It’s up to you, Munchlax![VAR 0114(000F)]
+msg_gonbe_discover_02	You’re sure? Well, let me know if you change\nyour mind.[VAR 0114(000F)]
+msg_gonbe_discover_03	Munchlax sure looks full and satisfied, don’t\nyou think?[VAR 0114(000F)]
+msg_gonbe_discover_04	Hm? You don’t seem to have enough.[VAR 0114(000F)]
+msg_gonbe_discover_05	Thanks to Munchlax, you can tell which Pokémon\nhave appeared in the massive mass outbreak!
 icho_rare_shop.dat
 msg_icho_001	Hi there. Got a special product in stock.[VAR 0114(0019)]
+msg_icho_001_s	Hi there. We’ve got some great stock in\nat the moment.[VAR 0114(0019)]
 msg_icho_002	[VAR BD06(0000)][VAR 1303(0000,0000)][VAR 01DD(0000)]!\nYours for\r\nthe\r\nbargain\r\nprice\r\nof [VAR 0206(0001,002C)].[VAR 0114(0019)]
 msg_icho_003	What is it, you ask? Well, that’s for you to find\nout after you buy it. What do you say?[VAR 0114(0019)]
 msg_icho_004	Welcome back. Here to make that purchase\nafter all?[VAR 0114(0019)]
 msg_icho_005	Not buying, eh? Well, that’s too bad.\c\nWould be a shame if this item got snatched\nup by someone else.[VAR 0114(0019)]
+msg_icho_005_s	Not buying, eh? Well, that’s too bad.\c\nWould be a shame if my stock were to get\nsnatched up by someone else.[VAR 0114(0019)]
 msg_icho_006	Great choice. All yours, then.[VAR 0114(0019)]
+msg_icho_006_s	Great choice. All yours, then.[VAR 0114(0019)]
 msg_icho_007	Won’t be long before our next great find.\nCome again soon, yeah?[VAR 0114(0019)]
+msg_icho_007_s	Won’t be long before we restock. Hope you’ll\nbe buying from us again![VAR 0114(0019)]
 msg_icho_008	The item from last time? I’m afraid it went to\nanother buyer.\c\nBut don’t worry—it won’t be long before our\nnext great find. Come again soon, yeah?[VAR 0114(0019)]
+msg_icho_008_s	The stock from last time? I’m afraid it went to\nanother buyer.\c\nBut don’t worry—won’t be long before we get\nsome new supplies in. Come again soon, yeah?[VAR 0114(0019)]
 msg_icho_009	Item: [VAR 1003][VAR 01DD(0000)]\nPrice: [VAR 0206(0001,002C)]
 msg_icho_010	Well, now. A little low on money, aren’t we?\c\nBest get your finances sorted quickly before\nsomeone else swoops in.[VAR 0114(0019)]
+msg_icho_010_s	Well, now. A little low on money, aren’t we?\c\nBest get your finances sorted quickly before\nsomeone else swoops in.[VAR 0114(0019)]
 msg_icho_sel_000	I’ll take it
 msg_icho_sel_001	I’ll have to think about it
 msg_icho_sp_event_001	Gotta say, you have a fine eye. Few others would\nrecognize the value of a perplexing item like this.[VAR 0114(0019)]
 msg_icho_sp_event_002	Its insides are packed with gears and machinery\nthat serve some unclear purpose.[VAR 0114(0019)]
 msg_icho_sp_event_003	But if you can solve this item’s mysteries, your\nreward will surely be far greater than the price\r\nyou paid for it today.[VAR 0114(0019)]
 msg_icho_sp_event_004	Well then. I’ll get this sent to your quarters—\nfree of charge, of course.[VAR 0114(0019)]
-msg_icho_prod_name_001	[~ 16]
-msg_icho_prod_name_002	[~ 17]
-msg_icho_prod_name_003	[~ 18]
-msg_icho_prod_name_004	[~ 19]
+msg_icho_sp_event_005	You’ve a good eye for quality, that’s for sure.\c\nSeems these shoes’ll fit you just right, too!\nI think they’ll be a great match for your style.[VAR 0114(0019)]
+msg_icho_011	Here’s all the goods I’ve got right now.\nAnything catch your eye?[VAR 0114(0019)]
+msg_icho_sel_010	[VAR 01DD(0000)]
+msg_icho_sel_011	I’m good for now
+msg_icho_prod_name_001	[~ 26]
+msg_icho_prod_name_002	[~ 27]
+msg_icho_prod_name_003	[~ 28]
+msg_icho_prod_name_004	[~ 29]
 msg_icho_prod_name_005	Mysterious Cord
 msg_icho_prod_name_006	Mysterious Box
 msg_icho_prod_name_007	Transparent Mechanism
@@ -8204,6 +8991,177 @@ msg_icho_prod_name_101	Mechanical Cabinet
 msg_icho_prod_name_102	Mechanical Tub
 msg_icho_prod_name_103	Mechanical Pinwheel
 msg_icho_prod_name_104	Mechanical Circular Saw
+msg_icho_prod_name_105	Unusual Shoes
+msg_icho_prod_name_005_r	Mysterious Cord
+msg_icho_prod_name_006_r	Mysterious Box
+msg_icho_prod_name_007_r	Transparent Mechanism
+msg_icho_prod_name_008_r	Electricity Box
+msg_icho_prod_name_009_r	Magma Box
+msg_icho_prod_name_010_r	Mystery Fang
+msg_icho_prod_name_011_r	Mystery Claw
+msg_icho_prod_name_012_r	Unwieldy Armor
+msg_icho_prod_name_013_r	Egg-Like Rock
+msg_icho_prod_name_014_r	Metallic Spread
+msg_icho_prod_name_015_r	Mysterious Cloth
+msg_icho_prod_name_016_r	Water-Droplet Rock
+msg_icho_prod_name_017_r	Flame-Patterned Rock
+msg_icho_prod_name_018_r	Lightning-Bolt Rock
+msg_icho_prod_name_019_r	Leaf-Imprint Rock
+msg_icho_prod_name_020_r	Moonlike Rock
+msg_icho_prod_name_021_r	Sunlike Rock
+msg_icho_prod_name_022_r	Deep-Dark Rock
+msg_icho_prod_name_023_r	Dazzling Rock
+msg_icho_prod_name_024_r	Eyelike Rock
+msg_icho_prod_name_025_r	Snow-Patterned Rock
+msg_icho_prod_name_026_r	Jet-Black Rock
+msg_icho_prod_name_027_r	Hunk of Coal
+msg_icho_prod_name_028_r	Poké Ball Set
+msg_icho_prod_name_029_r	Heavy Ball Set
+msg_icho_prod_name_030_r	Wing Ball Set
+msg_icho_prod_name_031_r	Great Ball Set
+msg_icho_prod_name_032_r	Leaden Ball Set
+msg_icho_prod_name_033_r	Feather Ball Set
+msg_icho_prod_name_034_r	Ultra Ball Set
+msg_icho_prod_name_035_r	Gigaton Ball Set
+msg_icho_prod_name_036_r	Jet Ball Set
+msg_icho_prod_name_037_r	Max Revive Set
+msg_icho_prod_name_038_r	Stealth Spray Set
+msg_icho_prod_name_039_r	Mushroom Cake Set
+msg_icho_prod_name_040_r	Honey Cake Set
+msg_icho_prod_name_041_r	Grain Cake Set
+msg_icho_prod_name_042_r	Bean Cake Set
+msg_icho_prod_name_043_r	Salt Cake Set
+msg_icho_prod_name_044_r	Smoke Bomb Set
+msg_icho_prod_name_045_r	Scatter Bang Set
+msg_icho_prod_name_046_r	Sticky Glob Set
+msg_icho_prod_name_047_r	Nanab Berry Set
+msg_icho_prod_name_048_r	Hopo Berry Set
+msg_icho_prod_name_049_r	Pinap Berry Set
+msg_icho_prod_name_050_r	Razz Berry Set
+msg_icho_prod_name_100_r	Mechanical Box
+msg_icho_prod_name_101_r	Mechanical Cabinet
+msg_icho_prod_name_102_r	Mechanical Tub
+msg_icho_prod_name_103_r	Mechanical Pinwheel
+msg_icho_prod_name_104_r	Mechanical Circular Saw
+msg_icho_prod_name_105_r	Unusual Shoes
+staffrollreplay.dat
+msg_staffrollreplay_00	You’ve seen a lotta really cool Pokémon, right?\nDid you battle them? Did you become friends?\c\nWhat was your adventure like? I wanna know\neverything! Tell me, tell me! Pleeeaaase![VAR 0114(0069)]
+msg_staffrollreplay_list_00	OK, I’ll tell you
+msg_staffrollreplay_list_01	Maybe some other time
+msg_staffrollreplay_01	Yesss! You’re the best![VAR 0114(0069)]
+msg_staffrollreplay_02	Awww! Fine, but you gotta tell me next time I see\nyou, OK?[VAR 0114(0069)]
+msg_staffrollreplay_03	Wooow! That’s amazing!\c\nTell me your story again sometime, OK?\nPromise you’ll tell me again![VAR 0114(0069)]
+arceus_challenge.dat
+msg_arceus_027	Welcome to the Eternal Battle Reverie.
+msg_arceus_000	I bestow upon thee this test of skill and luck,\nthat thou may try thy mettle in battle.\c\nTrust in thyself, and see how long thou canst\nremain victorious.
+msg_arceus_000_2	It is thou and thou alone who must best thyself.
+msg_arceus_000_3	Your current record is [VAR 0202(0000)] victor[VAR 1101(0000,0301)]yies.
+msg_arceus_000_4	Test your might in the Eternal Battle Reverie?
+msg_arceus_001_01	Battle number [VAR 0202(0000)] is upon thee.\nWhat wouldst thou do?
+msg_arceus_list_100	Pick a challenge
+msg_arceus_list_101	Make a wish
+msg_arceus_list_200	Quit
+msg_arceus_list_301	Back
+msg_arceus_001	What manner of challenge wouldst thou face?
+msg_arceus_002	Thou hast [VAR 0203(0000,0000)] point[VAR 1101(0000,0100)]s at present.\nWhat is thy wish?
+msg_arceus_003	[~ 12]
+msg_arceus_004	Understood.\nI look forward to thy future efforts.\r\nFare thee well. Until we meet again.
+msg_arceus_005	Dost thou truly wish to leave this place?
+msg_arceus_006	[VAR BD06(0000)]Overcoming this challenge will grant thee\n[VAR 0202(0000)] point[VAR 1101(0000,0100)]s.\r\nWilt thou proceed?
+msg_arceus_006_2	Thou hast done well to make it so far.\nYes, that power of thine...\r\nDemonstrate it for me now.
+msg_arceus_007	[~ 17]
+msg_arceus_008	Thou hast not sufficient points.
+msg_arceus_009	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWhich Pokémon wouldst thou heal?
+msg_arceus_010	[~ 20]
+msg_arceus_011	[~ 21]
+msg_arceus_012	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou restore the PP of thy Pokémon?
+msg_arceus_013	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWouldst thou choose from new challenges?
+msg_arceus_014	[~ 24]
+msg_arceus_015	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nChoose thy desired Pokémon.
+msg_arceus_016	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou inflict poison upon thy next foe?
+msg_arceus_017	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou inflict paralysis upon thy next foe?
+msg_arceus_018	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou inflict drowsiness upon thy next foe?
+msg_arceus_019	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou inflict frostbite upon thy next foe?
+msg_arceus_020	This requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWilt thou inflict burn upon thy next foe?
+msg_arceus_021	This will take some HP of thine Pokémon to\nincrease points earned from the next battle.\c\nIt requires [VAR FF00(0008)][VAR 0202(0000)] point[VAR 1101(0000,0100)]s[VAR FF00(0000)] from thy total of [VAR FF00(0008)][VAR 0202(0001)][VAR FF00(0000)].\nWhich Pokémon’s HP wilt thou offer?
+msg_arceus_022	That Pokémon is too weak to be selected\nfor this action.
+msg_arceus_023	That Pokémon has fainted and cannot be\nselected for this action.
+msg_arceus_025	That Pokémon already leads thy team.
+msg_arceus_024	That Pokémon hath plentiful HP already.
+msg_arceus_026	I have granted thy wish.
+msg_arceus_099	With this victory I grant thee [VAR 0202(0000)] point[VAR 1101(0000,0100)]s.\c\nWin battles in the Eternal Battle Reverie and\nfurther points will be thy reward.\c\nUse these points to make wishes and gain all\nmanner of boons ahead of thy battles.
+msg_arceus_100	In battle number [VAR 0202(0000)], victory is thine.\nI grant thee [VAR 0203(0001,002C)] point[VAR 1101(0001,0100)]s.
+msg_arceus_100_2	Thou art truly skilled.\c\nLearn thy Pokémon well, grow together with\nthem, and continue to push thy limits.\c\nIn so doing, thou may expand thy horizons.
+msg_arceus_100_3	This challenge shall continue for as long as\nthou wouldst wish it.
+msg_arceus_100_5	Thou hast bested me once again.\c\nSo long as thou possess the will to fight, I shall\ncontinue to be thine opponent.
+msg_arceus_101	It is a pity, but thy challenge hath come to\nan end.\c\nThy victories this time number [VAR 0202(0000)].\nFare thee well. Until we meet again.
+msg_arceus_101_nowin	It is a pity, but thy challenge hath come to\nan end.\c\nFare thee well. Until we meet again.
+msg_arceus_102	Something has been placed before you...
+msg_arceus_list_000	Normal-type
+msg_arceus_list_001	Fire-type
+msg_arceus_list_002	Water-type
+msg_arceus_list_003	Electric-type
+msg_arceus_list_004	Grass-type
+msg_arceus_list_005	Ice-type
+msg_arceus_list_006	Fighting-type
+msg_arceus_list_007	Poison-type
+msg_arceus_list_008	Ground-type
+msg_arceus_list_009	Flying-type
+msg_arceus_list_010	Psychic-type
+msg_arceus_list_011	Bug-type
+msg_arceus_list_012	Rock-type
+msg_arceus_list_013	Ghost-type
+msg_arceus_list_014	Dragon-type
+msg_arceus_list_015	Dark-type
+msg_arceus_list_016	Steel-type
+msg_arceus_list_017	Fairy-type
+msg_arceus_list_018	Strong offense
+msg_arceus_list_019	Impressive speed
+msg_arceus_list_020	Strong defense
+msg_arceus_list_021	Male Pokémon
+msg_arceus_list_022	Female Pokémon
+msg_arceus_list_023	Future beginnings
+msg_arceus_list_024	Hisuian beginnings
+msg_arceus_list_025	Little Pokémon
+msg_arceus_list_026	Nocturnal Pokémon
+msg_arceus_list_027	One-eyed Pokémon
+msg_arceus_list_028	Large-bodied Pokémon
+msg_arceus_list_029	Climbing claws
+msg_arceus_list_030	Mechanical Pokémon
+msg_arceus_list_031	Space and time
+msg_arceus_list_032	Strange-shaped Pokémon
+msg_arceus_list_033	The banished Pokémon
+msg_arceus_list_034	Pokémon of the lakes
+msg_arceus_list_035	Tropical snow
+msg_arceus_list_036	Spear and shield
+msg_arceus_list_037	Scythe and axe
+msg_arceus_list_038	The forbidden Pokémon
+msg_arceus_list_039	The lunar Pokémon
+msg_arceus_list_040	The might of Sinnoh
+msg_arceus_list_041	Primordial chaos
+msg_arceus_list_042	Incarnate Pokémon
+msg_arceus_list_043	Therian Pokémon
+msg_arceus_list_044	[~ 89]
+msg_arceus_list_045	[~ 90]
+msg_arceus_list_046	[~ 91]
+msg_arceus_list_047	[~ 92]
+msg_arceus_list_wish_001	Restore HP
+msg_arceus_list_wish_002	[~ 94]
+msg_arceus_list_wish_003	[~ 95]
+msg_arceus_list_wish_004	Restore PP
+msg_arceus_list_wish_005	Choose different opponents
+msg_arceus_list_wish_006	Change lead Pokémon
+msg_arceus_list_wish_007	Inflict poison
+msg_arceus_list_wish_008	Inflict paralysis
+msg_arceus_list_wish_009	Inflict drowsiness
+msg_arceus_list_wish_010	Inflict frostbite
+msg_arceus_list_wish_011	Inflict burn
+msg_arceus_list_wish_012	Sacrifice HP for double points
+msg_arceus_list_wish_name	[VAR 0102(0000)]
+msg_arceus_list_wish_name_hp	[VAR 0102(0000)] [VAR 0202(0001)]/[VAR 0202(0002)]
+msg_arceus_start_event_001	[~ 107]
+msg_arceus_start_event_002	[~ 108]
+msg_arceus_start_event_003	You can hear a voice calling to you. Will you\nanswer the call?
 change_rotom_scr.dat
 msg_rotom_01	[~ 0]
 msg_rotom_02	[~ 1]

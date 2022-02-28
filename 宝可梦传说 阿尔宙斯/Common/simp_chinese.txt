@@ -708,7 +708,7 @@ msg_ui_map_01_38	时空歪曲
 msg_ui_map_01_39	原野的撞气球
 msg_ui_map_01_40	撞气球２
 msg_ui_map_01_41	海岸的撞气球
-msg_ui_map_01_42	撞气球４
+msg_ui_map_01_42	究极的撞气球
 msg_ui_map_01_43	冻土的撞气球
 msg_ui_map_setumei_01	能够存取道具，\n并能休息和换装。
 msg_ui_map_setumei_02	能够接受新的委托，\n并能查看图鉴。
@@ -779,6 +779,7 @@ msg_ui_map_area02_r20	金刚后山
 msg_ui_map_area03_r24	长尾怪手山
 msg_ui_map_area03_r25	戏水潟湖
 msg_ui_map_area03_r26	宁静湾
+msg_ui_map_01_45	大大大量出现的目击报告
 net.dat
 net_sel_01	遗失物通讯
 net_sel_02	神秘礼物
@@ -1269,6 +1270,12 @@ tips_title_1007	[~ 109]
 tips_text_1007_01	[~ 110]
 tips_title_1008	[~ 111]
 tips_text_1008_01	[~ 112]
+tips_text_1100	大大大量出现
+tips_text_1100_01	同时发生多个大量出现的现象。\n大量出现的地点会在地图上以“？”显示，\n到达现场之前无法获知宝可梦的种类。\n大大大量出现会[VAR FF00(0006)]随时间经过而平息下来[VAR FF00(0000)]，\n因此尽快去调查吧。
+tips_text_1100_02	捕捉宝可梦或打倒宝可梦\n直到大量出现的气息消失为止，\n该地点就会变为“[VAR FF00(0006)]调查完成[VAR FF00(0000)]”。\n偶尔在调查结束后\n立刻会有宝可梦追加出现。
+tips_text_1101	大大大量出现和乐芭果
+tips_text_1101_01	在大大大量出现发生的期间\n给阿米的小卡比兽吃[VAR FF00(0006)]乐芭果[VAR FF00(0000)]\n就能知道大量出现的宝可梦的种类。
+tips_text_1101_02	宝可梦图标发光的地方\n代表该处是特别的大量出现。\n其中带有树果图标的大量出现\n有获得“乐芭果”的可能性。\n让这些资讯在大大大量出现的调查中派上用场吧。
 advsp.dat
 advsp_cap_01	n/a
 advsp_cap_02	n/a
@@ -1366,6 +1373,8 @@ msg_ui_blost_06_01	遗失在某处的道具
 msg_ui_blost_07_01	你不是银河队队员，\n因此无法提出委托！\c
 msg_ui_blost_08_01	本次没有遗失的道具。\c
 msg_ui_blost_09_01	失去了[VAR 0201(0001)]个替身护符……\c
+title.dat
+msg_ver_info	[~ 0]
 trmsg.dat
 TRID_HERO_TRMSG_FIGHT_START	[~ 0]
 TRID_HERO_TRMSG_FIGHT_LOSE	[~ 1]
@@ -2363,6 +2372,8 @@ POKEMONTAMER	望罗
 CAPTAIN_NOHARA	阿米
 CAPTAIN_MORI	菊伊
 CAPTAIN_MIZU	阿芒
+CAPTAIN_KUSA	火夏
+GATEKEEPER	传介
 trtype.dat
 MSG_TRTYPE_HERO	宝可梦训练家
 MSG_TRTYPE_HEROINE	宝可梦训练家
@@ -2596,6 +2607,7 @@ TRTYPE_POKEMONTAMER	宝可梦驯化师
 TRTYPE_CAPTAIN_NOHARA	场长
 TRTYPE_CAPTAIN_MORI	场长
 TRTYPE_CAPTAIN_MIZU	场长
+TRTYPE_CAPTAIN_KUSA	场长
 boxname.dat
 boxname_01	放牧场１
 boxname_02	放牧场２
@@ -2741,61 +2753,62 @@ str_btl_menu_03	真的要逃走吗？
 str_btl_menu_04	这是要全力以赴的对战！\n不能逃走！
 str_btl_menu_05	在和王的战斗中\n无法使用道具！
 str_btl_menu_06	不能从这场战斗中逃走！
-str_btl_menu_07	[~ 111]
-str_btl_menu_08	[~ 112]
-str_btl_menu_09	[~ 113]
-str_btl_menu_10	[~ 114]
-str_btl_result_11	[~ 115]
-str_btl_result_12	[~ 116]
-str_btl_result_13	[~ 117]
-str_btl_ms_01_01	[~ 118]
-str_btl_ms_01_02	[~ 119]
-str_btl_ms_01_03	[~ 120]
-str_btl_ms_01_04	[~ 121]
-str_btl_ms_01_05	[~ 122]
-str_btl_ms_01_06	[~ 123]
-str_btl_ms_01_07	[~ 124]
-str_btl_ms_01_08	[~ 125]
-str_btl_ms_01_09	[~ 126]
-str_btl_ms_02_01	[~ 127]
-str_btl_ms_02_02	[~ 128]
-str_btl_ms_02_03	[~ 129]
-str_btl_ms_03_01	[~ 130]
-str_btl_ms_03_02	[~ 131]
-str_btl_ms_03_03	[~ 132]
-str_btl_ms_03_04	[~ 133]
-str_btl_ms_03_05	[~ 134]
-str_btl_ms_03_06	[~ 135]
-str_btl_ms_03_07	[~ 136]
-str_btl_ms_04_01	[~ 137]
-str_btl_ms_04_02	[~ 138]
-str_btl_ms_04_03	[~ 139]
-str_btl_ms_04_04	[~ 140]
-str_btl_ms_04_05	[~ 141]
-str_btl_ms_04_06	[~ 142]
-str_btl_ms_05_01	[~ 143]
-str_btl_ms_05_02	[~ 144]
-str_btl_ms_05_03	[~ 145]
-str_btl_ms_06_01	[~ 146]
-str_btl_ms_06_02	[~ 147]
-str_btl_ms_06_03	[~ 148]
-str_btl_ms_06_04	[~ 149]
-str_btl_ms_06_05	[~ 150]
-str_btl_ms_06_06	[~ 151]
-str_btl_ms_06_07	[~ 152]
-str_btl_ms_06_08	[~ 153]
-str_btl_ms_06_09	[~ 154]
-str_btl_ms_07_01	[~ 155]
-str_btl_ms_08_01	[~ 156]
-str_btl_ms_08_02	[~ 157]
-str_btl_ms_08_03	[~ 158]
-str_btl_ms_09_01	[~ 159]
-str_btl_ms_09_02	[~ 160]
-str_btl_ms_10_01	[~ 161]
-str_btl_ms_10_02	[~ 162]
-str_btl_ms_10_03	[~ 163]
-str_btl_ms_dummy1	[~ 164]
-str_btl_ms_dummy2	[~ 165]
+str_btl_menu_11	无法使用道具！
+str_btl_menu_07	[~ 112]
+str_btl_menu_08	[~ 113]
+str_btl_menu_09	[~ 114]
+str_btl_menu_10	[~ 115]
+str_btl_result_11	[~ 116]
+str_btl_result_12	[~ 117]
+str_btl_result_13	[~ 118]
+str_btl_ms_01_01	[~ 119]
+str_btl_ms_01_02	[~ 120]
+str_btl_ms_01_03	[~ 121]
+str_btl_ms_01_04	[~ 122]
+str_btl_ms_01_05	[~ 123]
+str_btl_ms_01_06	[~ 124]
+str_btl_ms_01_07	[~ 125]
+str_btl_ms_01_08	[~ 126]
+str_btl_ms_01_09	[~ 127]
+str_btl_ms_02_01	[~ 128]
+str_btl_ms_02_02	[~ 129]
+str_btl_ms_02_03	[~ 130]
+str_btl_ms_03_01	[~ 131]
+str_btl_ms_03_02	[~ 132]
+str_btl_ms_03_03	[~ 133]
+str_btl_ms_03_04	[~ 134]
+str_btl_ms_03_05	[~ 135]
+str_btl_ms_03_06	[~ 136]
+str_btl_ms_03_07	[~ 137]
+str_btl_ms_04_01	[~ 138]
+str_btl_ms_04_02	[~ 139]
+str_btl_ms_04_03	[~ 140]
+str_btl_ms_04_04	[~ 141]
+str_btl_ms_04_05	[~ 142]
+str_btl_ms_04_06	[~ 143]
+str_btl_ms_05_01	[~ 144]
+str_btl_ms_05_02	[~ 145]
+str_btl_ms_05_03	[~ 146]
+str_btl_ms_06_01	[~ 147]
+str_btl_ms_06_02	[~ 148]
+str_btl_ms_06_03	[~ 149]
+str_btl_ms_06_04	[~ 150]
+str_btl_ms_06_05	[~ 151]
+str_btl_ms_06_06	[~ 152]
+str_btl_ms_06_07	[~ 153]
+str_btl_ms_06_08	[~ 154]
+str_btl_ms_06_09	[~ 155]
+str_btl_ms_07_01	[~ 156]
+str_btl_ms_08_01	[~ 157]
+str_btl_ms_08_02	[~ 158]
+str_btl_ms_08_03	[~ 159]
+str_btl_ms_09_01	[~ 160]
+str_btl_ms_09_02	[~ 161]
+str_btl_ms_10_01	[~ 162]
+str_btl_ms_10_02	[~ 163]
+str_btl_ms_10_03	[~ 164]
+str_btl_ms_dummy1	[~ 165]
+str_btl_ms_dummy2	[~ 166]
 btl_get.dat
 btl_seq.dat
 str_btl_seq_Dummy_00	ダミー　自動送り
@@ -6526,6 +6539,25 @@ str_btl_seq_Trainer03_19	哼！\c
 str_btl_seq_Trainer01_20	要是不当做自己是大意才输掉，\n我就不能原谅输了的自己！\c
 str_btl_seq_Trainer02_20	我想不通！想不明白！\n为什么我会输给像你这样的家伙？\c
 str_btl_seq_Trainer03_20	该死的！\n输给你，真是太没出息了！\c
+str_btl_seq_Trainer04_03	精彩！！\n实在是太精彩了！！\c
+str_btl_seq_Trainer30_01	你的表现依旧出色……\c
+str_btl_seq_Trainer30_02	你的表现依旧出色……\n迅疾与刚猛，使用时机真是令人头疼啊。\c
+str_btl_seq_Trainer30_03	你的表现依旧出色……\n我该重新考虑一下要传授的招式了。\c
+str_btl_seq_Trainer30_04	星月可是丰缘屈指可数的刚剑高手。\n你真不愧是在她手下工作的人……！\c
+str_btl_seq_Trainer30_05	不仅要让宝可梦变强……\n也要把喜爱它们的那份心传达给其他人啊……\c
+str_btl_seq_Trainer31_01	比起血雨腥风的战斗，\n能互相提高的对决更好。\c
+str_btl_seq_Trainer31_02	在下能走到今天，\n全是宝可梦的功劳！\c
+str_btl_seq_Trainer31_03	宝可梦给了在下勇气和活力，\n真希望能用胜利回报它们。\c
+str_btl_seq_Trainer31_04	宝可梦的招式就如同忍术一般，\n掌握时机非常重要。\c
+str_btl_seq_Trainer31_05	路啊……最重要的是明知没有终点，\n却仍要看看自己能走多远，是吧。\c
+str_btl_seq_Trainer32_01	我再次认识到宝可梦是很可怕的，\n但比起可怕，它们更可靠！\c
+str_btl_seq_Trainer32_02	仅靠锻炼宝可梦是无法超越的\n强大力量啊……很好！\c
+str_btl_seq_Trainer32_03	原来，洗翠并不是可怕的宝可梦所在的地方，\n而是值得信赖的伙伴所在的地方。\c
+str_btl_seq_Trainer32_04	变得更强吧！并且不要忘记\n强大是建立在温柔的基础之上！\c
+str_btl_seq_Trainer32_05	唔嗯，拼尽全力也赢不了啊……\n看来只能继续追求更完美的境界了！\c
+str_btl_seq_Trainer21_01	被攻陷了啊……！\n身为门卫，我对防守本来很有自信的。\c
+str_btl_seq_Trainer13_05	真是惊人的实力……\n果然是我们引以为豪的调查组组员！\c
+str_btl_seq_Trainer14_05	既然你实力如此强大，\n那不论什么调查都难不倒你吧。\c
 btl_talk.dat
 msg_btl_talk_leader2_01	[~ 0]
 msg_btl_talk_leader2_02	[~ 1]
@@ -8491,7 +8523,7 @@ ITEMINFO_1692	质地像是泥土的煤炭块。\n干燥后也能当成燃料使�
 ITEMINFO_1693	使用后的一小段时间内，\n自己的脚步声将会消失，\n变得不容易被野生宝可梦察觉。
 ITEMINFO_1694	能用来调制成药品。\n生长在洗翠地区各地，\n也被称为旅人良伴。
 ITEMINFO_1695	也被称为朝露之花苞。\n可作为给昏厥的宝可梦\n注入活力的道具材料。
-ITEMINFO_1696	味道辛辣，有滋补强身的效果。\n能回复宝可梦的ＰＰ，以及\n作为能力强化道具的材料。
+ITEMINFO_1696	味道辛辣，有滋补强身的效果。\n可作为宝可梦ＰＰ回复道具或\n能力强化道具的材料。
 ITEMINFO_1697	ー\nー\nー
 ITEMINFO_1698	ー\nー\nー
 ITEMINFO_1699	不可思议的护符。在人昏倒时，\n不知为何会比其他道具更先消失。\n是５种颜色的护符中的一种。
@@ -11652,6 +11684,15 @@ residents_225	珍珠队
 residents_226	金刚队
 residents_227	[~ 264]
 residents_228	大尾狸
+residents_229	皮卡丘
+residents_230	叶伊布
+residents_231	冰伊布
+residents_232	小卡比兽
+residents_233	坦克臭鼬
+residents_234	冰鬼护
+residents_235	勇士雄鹰
+residents_236	卡比兽
+residents_237	大岩蛇
 pokelist.dat
 msg_ui_pokelist_00	[~ 0]
 msg_ui_pokelist_01	要和哪只宝可梦替换？
@@ -19653,6 +19694,17 @@ field_info_spray_01	匿声喷雾的效果消失了。
 field_info_making_01	[~ 64]
 field_info_battle_01	是投出镇宝的好机会！
 field_info_battle_02	按下Ｙ键闪避招式！
+field_info_pokeinfo_10	发现了报告中的宝可梦！
+field_info_pokeinfo_11	报告中的宝可梦的踪影消失了。
+field_info_pokeinfo_12	有新群体的气息……
+field_info_pokeinfo_13	暴雨丝毫没有要停的样子。
+field_info_pokeinfo_14	暴风雪丝毫没有要停的样子。
+field_info_pokeinfo_15	暴雨似乎还要下一小会儿。
+field_info_pokeinfo_16	暴风雪似乎还要下一小会儿。
+field_info_pokeinfo_17	暴雨就快要停了。
+field_info_pokeinfo_18	暴风雪就快要停了。
+field_info_pokeinfo_19	暴雨好像停了。
+field_info_pokeinfo_20	暴风雪好像停了。
 movie_skip.dat
 skip01	跳过动画
 poke_unown.dat
@@ -22953,9 +23005,11 @@ error_comm_24	[~ 20]
 error_comm_25	[~ 21]
 error_validation_common	[~ 22]
 error_validation_http503	[~ 23]
+error_comm_26	互联网自动连接失败。\n\n请重新连接互联网，\n接收通讯所必需的信息。
+error_comm_27	互联网连接失败。\n\n请重新连接互联网，\n接收通讯所必需的信息。
 error_fatal_save_00	发生错误。\n无法进行宝可梦交换。\n\n请按HOME键结束游戏。
 error_fatal_save_01	记录已损坏。\n请从主机中删除\n保存数据。
-erro_fatal_storage	[~ 26]
+erro_fatal_storage	[~ 28]
 erro_fatal_backup_00	没有备份数据，\n无法读取。\c\n将返回标题界面。\c
 erro_fatal_backup_01	已读取备份数据。\c\n在写入记录时，\n该数据将覆盖原有数据。\r\n敬请注意。\c
 questlist_sub.dat
@@ -23075,272 +23129,302 @@ msg_questlist_questname_sub_116	想表达谢意
 msg_questlist_questname_sub_117	漆黑的恶梦
 msg_questlist_questname_sub_122	金刚队之宝
 msg_questlist_questname_sub_123	珍珠队之宝
+msg_questlist_questname_sub_201	新的“异变”
+msg_questlist_questname_sub_202	调查黑曜原野的大大大量出现
+msg_questlist_questname_sub_203	调查红莲湿地的大大大量出现
+msg_questlist_questname_sub_204	调查群青海岸的大大大量出现
+msg_questlist_questname_sub_205	美食诱惑大作战
+msg_questlist_questname_sub_206	调查天冠山麓的大大大量出现
+msg_questlist_questname_sub_207	调查纯白冻土的大大大量出现
+msg_questlist_questname_sub_208	洗翠的黎明
+msg_questlist_questname_sub_250	与警卫组的隐藏高手一决胜负
+msg_questlist_questname_sub_251	[~ 125]
+msg_questlist_questname_sub_252	刚石的愿望
 msg_questlist_questname_sub_253	心齐湖的考验
 msg_questlist_questname_sub_254	立志湖的考验
 msg_questlist_questname_sub_255	睿智湖的考验
+msg_questlist_questname_sub_256	珠贝的愿望
+msg_questlist_questname_sub_257	究极的撞气球
+msg_questlist_questname_sub_258	挖出明天
+msg_questlist_questname_sub_259	[~ 133]
+msg_questlist_questname_sub_261	只身道：大牙狸之道
+msg_questlist_questname_sub_262	只身道：结草贵妇之道
+msg_questlist_questname_sub_263	只身道：劈斧螳螂之道
+msg_questlist_questname_sub_264	只身道：护城龙之道
+msg_questlist_questname_sub_265	只身道：刺尾虫之道
+msg_questlist_questname_sub_266	只身道：洛托姆之道
+msg_questlist_questname_sub_267	只身道：鲤鱼王之道
+msg_questlist_questname_sub_268	只身道：裙儿小姐之道
+msg_questlist_questname_sub_269	只身道：伊布之道
+msg_questlist_questname_sub_270	只身道：圆法师之道
+msg_questlist_questname_sub_271	只身道：凯西之道
+msg_questlist_questname_sub_272	只身道：毒蔷薇之道
+msg_questlist_questname_sub_273	只身道：狃拉之道
+msg_questlist_questname_sub_274	只身道：幸福蛋之道
+msg_questlist_questname_sub_275	只身道：罗丝雷朵之道
 msg_questlist_sub_outline_001	日葵对姆克儿的\n可爱之处称赞有加。\n受她所托，让她看看姆克儿吧。
-msg_questlist_sub_outline_001_255	[~ 120]
+msg_questlist_sub_outline_001_255	[~ 150]
 msg_questlist_sub_outline_002	士俊因想不起小猫怪\n耳朵的花纹而内心烦躁。\n受他所托，让他看看小猫怪吧。
-msg_questlist_sub_outline_002_255	[~ 122]
+msg_questlist_sub_outline_002_255	[~ 152]
 msg_questlist_sub_outline_003	受害怕宝可梦的升秀所托，\n分给他在躲避宝可梦时\n也能派上用场的橙橙果吧。
-msg_questlist_sub_outline_003_255	[~ 124]
+msg_questlist_sub_outline_003_255	[~ 154]
 msg_questlist_sub_outline_004	实建在和个头小的泳圈鼬一起生活。\n受他所托，\n将个头大的泳圈鼬让给他吧。
-msg_questlist_sub_outline_004_255	[~ 126]
+msg_questlist_sub_outline_004_255	[~ 156]
 msg_questlist_sub_outline_005	英卓从博士那里听说了\n关于宝可梦进化的事情。\n受英卓所托，帮他捉来刺尾虫吧。
-msg_questlist_sub_outline_005_255	[~ 128]
+msg_questlist_sub_outline_005_255	[~ 158]
 msg_questlist_sub_outline_006	英卓似乎在为之前\n让给他的刺尾虫的\n进化一事而烦恼。
 msg_questlist_sub_outline_006_20	英卓培育的刺尾虫虽然进化成了盾甲茧，\n但他不清楚盾甲茧与甲壳茧的区别。\n受他所托，让他看看甲壳茧吧。
-msg_questlist_sub_outline_006_255	[~ 131]
+msg_questlist_sub_outline_006_255	[~ 161]
 msg_questlist_sub_outline_007	收到有关超音蝠的委托了。\n去找晓瑜打听一下吧。
 msg_questlist_sub_outline_007_20	晓瑜好奇超音蝠到底长着怎样的眼睛，\n才能在黑暗中自由地四处飞翔。\n受她所托，让她看看超音蝠吧。
-msg_questlist_sub_outline_007_255	[~ 134]
-msg_questlist_sub_outline_008	[~ 135]
+msg_questlist_sub_outline_007_255	[~ 164]
+msg_questlist_sub_outline_008	[~ 165]
 msg_questlist_sub_outline_008_10	接受了祝庆村打靶大叔的挑战。\n似乎得到１００００分以上，\n便能获得特别的奖品。
-msg_questlist_sub_outline_008_255	[~ 137]
+msg_questlist_sub_outline_008_255	[~ 167]
 msg_questlist_sub_outline_009	雪江正在寻找尺寸适中的腌菜石。\n受她所托，帮她捉来小拳石吧。
-msg_questlist_sub_outline_009_255	[~ 139]
+msg_questlist_sub_outline_009_255	[~ 169]
 msg_questlist_sub_outline_010	为了成为出色的银河队队员，\n志雄认为需要有自己的搭档宝可梦。\n受他所托，将精灵球给他吧。
-msg_questlist_sub_outline_010_255	[~ 141]
-msg_questlist_sub_outline_011	[~ 142]
+msg_questlist_sub_outline_010_255	[~ 171]
+msg_questlist_sub_outline_011	[~ 172]
 msg_questlist_sub_outline_011_10	显颖从相片中的宝可梦身上\n感受到其作为拍摄对象的魅力。\n受他所托，捉住该宝可梦后让他看一看吧。
-msg_questlist_sub_outline_011_255	[~ 144]
+msg_questlist_sub_outline_011_255	[~ 174]
 msg_questlist_sub_outline_012	最近似乎有顽皮的大牙狸\n在祝庆村不停地捣乱。\n去找绸希打听一下吧。
 msg_questlist_sub_outline_012_20	有３只顽皮的大牙狸\n入侵了祝庆村！\n受绸希所托，帮她捉住它们吧。
-msg_questlist_sub_outline_012_255	[~ 147]
+msg_questlist_sub_outline_012_255	[~ 177]
 msg_questlist_sub_outline_013	受伸朗所托，帮他采来樱子果吧。\n听说他会提供有用的信息……
-msg_questlist_sub_outline_013_255	[~ 149]
+msg_questlist_sub_outline_013_255	[~ 179]
 msg_questlist_sub_outline_014_10	茶花说到了晚上家里\n会发生怪异的现象。\n去帮她调查原因吧。
-msg_questlist_sub_outline_014_20	[~ 151]
-msg_questlist_sub_outline_014_30	[~ 152]
-msg_questlist_sub_outline_014_40	[~ 153]
+msg_questlist_sub_outline_014_20	[~ 181]
+msg_questlist_sub_outline_014_30	[~ 182]
+msg_questlist_sub_outline_014_40	[~ 183]
 msg_questlist_sub_outline_015_10	听说园敖想找人商量一下\n关于伊布进化的事。\n去找园敖打听一下详情吧。
 msg_questlist_sub_outline_015_20	受园敖所托，\n帮他寻找不见了的伊布吧。
-msg_questlist_sub_outline_015_30	[~ 156]
-msg_questlist_sub_outline_015_255	[~ 157]
+msg_questlist_sub_outline_015_30	[~ 186]
+msg_questlist_sub_outline_015_255	[~ 187]
 msg_questlist_sub_outline_016	若竹不相信环夕说的话。\n受环夕所托，为了向若竹展示出证据，\n到驰风道将红色火球捉住吧。
 msg_questlist_sub_outline_016_20	红色火球的真身是小火焰猴！\n捉住小火焰猴，让环夕看看\n小火焰猴在黑夜中发光的尾巴吧。
-msg_questlist_sub_outline_016_255	[~ 160]
+msg_questlist_sub_outline_016_255	[~ 190]
 msg_questlist_sub_outline_017	要与熟悉蘑菇的正汉一起\n调查派拉斯特背上的蘑菇。\n首先去找正汉打听一下吧。
-msg_questlist_sub_outline_017_20	[~ 162]
-msg_questlist_sub_outline_017_30	[~ 163]
-msg_questlist_sub_outline_017_40	[~ 164]
-msg_questlist_sub_outline_017_255	[~ 165]
+msg_questlist_sub_outline_017_20	[~ 192]
+msg_questlist_sub_outline_017_30	[~ 193]
+msg_questlist_sub_outline_017_40	[~ 194]
+msg_questlist_sub_outline_017_255	[~ 195]
 msg_questlist_sub_outline_018	收到有关稀有小火马的委托了。\n去找尧佑打听一下详情吧。
 msg_questlist_sub_outline_018_20	尧佑因害怕在蹄铁草原出现的\n稀有小火马而感到困扰。\n受他所托，将稀有小火马捉住吧。
 msg_questlist_sub_outline_018_30	在蹄铁草原出现的稀有小火马，\n原来是异色小火马。
-msg_questlist_sub_outline_018_40	[~ 169]
-msg_questlist_sub_outline_018_255	[~ 170]
+msg_questlist_sub_outline_018_40	[~ 199]
+msg_questlist_sub_outline_018_255	[~ 200]
 msg_questlist_sub_outline_019	似乎有人目击到飘飘球\n和小孩子玩耍的样子。\n去找警卫组的树央打听一下详情吧。
-msg_questlist_sub_outline_019_20	[~ 172]
-msg_questlist_sub_outline_019_30_40_50	[~ 173]
-msg_questlist_sub_outline_019_60	[~ 174]
-msg_questlist_sub_outline_019_255	[~ 175]
+msg_questlist_sub_outline_019_20	[~ 202]
+msg_questlist_sub_outline_019_30_40_50	[~ 203]
+msg_questlist_sub_outline_019_60	[~ 204]
+msg_questlist_sub_outline_019_255	[~ 205]
 msg_questlist_sub_outline_020_10	在黑曜原野接受了撞气球的挑战。\n似乎只要撞破１７个气球，\n就能获得特别的奖品。
-msg_questlist_sub_outline_020_255	[~ 177]
+msg_questlist_sub_outline_020_255	[~ 207]
 msg_questlist_sub_outline_021	稻禾说因为地面太硬而\n无法耕田。受他所托，\n借他可以耕田的宝可梦吧。
-msg_questlist_sub_outline_021_255	[~ 179]
+msg_questlist_sub_outline_021_255	[~ 209]
 msg_questlist_sub_outline_022_10	为了让杂货店能够进新商品，\n受晓白所托，去说服桃发吧。
-msg_questlist_sub_outline_022_20	[~ 181]
-msg_questlist_sub_outline_022_30	[~ 182]
-msg_questlist_sub_outline_022_255	[~ 183]
+msg_questlist_sub_outline_022_20	[~ 211]
+msg_questlist_sub_outline_022_30	[~ 212]
+msg_questlist_sub_outline_022_255	[~ 213]
 msg_questlist_sub_outline_023_10	受纱珑所托，\n给她看看结草贵妇，\n好让她获得新的灵感吧。
-msg_questlist_sub_outline_023_255	[~ 185]
+msg_questlist_sub_outline_023_255	[~ 215]
 msg_questlist_sub_outline_024_10	受显颖所托，如果知道不经意间\n被拍进照片的怪异宝可梦是什么的话，\n就带去给显颖看看吧。
-msg_questlist_sub_outline_024_255	[~ 187]
+msg_questlist_sub_outline_024_255	[~ 217]
 msg_questlist_sub_outline_025	受想制药的蓆萝所托，\n去帮她采集材料吧。\n而塔旻似乎知道材料的详情。
 msg_questlist_sub_outline_025_20	从塔旻那里打听材料的详情了。\n材料似乎在红莲湿地就能采集到，但是……
-msg_questlist_sub_outline_025_255	[~ 190]
+msg_questlist_sub_outline_025_255	[~ 220]
 msg_questlist_sub_outline_026	受和可达鸭一起生活的弥生所托，\n去帮忙寻找可治疗\n可达鸭头痛的药吧。
-msg_questlist_sub_outline_026_20	[~ 192]
-msg_questlist_sub_outline_026_255	[~ 193]
+msg_questlist_sub_outline_026_20	[~ 222]
+msg_questlist_sub_outline_026_255	[~ 223]
 msg_questlist_sub_outline_027_10	受虎弥所托，帮他找出\n在红莲湿地失踪的妹妹弥美吧。
-msg_questlist_sub_outline_027_20	[~ 195]
-msg_questlist_sub_outline_027_255	[~ 196]
-msg_questlist_sub_outline_029_10	[~ 197]
-msg_questlist_sub_outline_029_255	[~ 198]
+msg_questlist_sub_outline_027_20	[~ 225]
+msg_questlist_sub_outline_027_255	[~ 226]
+msg_questlist_sub_outline_029_10	[~ 227]
+msg_questlist_sub_outline_029_255	[~ 228]
 msg_questlist_sub_outline_030	园敖想要烹饪家乡菜给伊布吃，\n借此增进与伊布感情。\n受他所托，去帮忙收集材料吧。
-msg_questlist_sub_outline_030_255	[~ 200]
+msg_questlist_sub_outline_030_255	[~ 230]
 msg_questlist_sub_outline_031_10	在预定搭建荒地基地的地方\n似乎发生了什么问题。\n前往当地协助搭建荒地基地吧。
-msg_questlist_sub_outline_031_255	[~ 202]
+msg_questlist_sub_outline_031_255	[~ 232]
 msg_questlist_sub_outline_032_10	郁太郎似乎想找个人商量一下\n关于一直恢复不了活力的\n树才怪的事。
 msg_questlist_sub_outline_032_20	在被郁太郎找去商量事情时，\n他希望能用水之波动给红莲湿地的\n荒地基地那只树才怪浇水，好让它恢复活力。
-msg_questlist_sub_outline_032_21	[~ 205]
-msg_questlist_sub_outline_032_255	[~ 206]
+msg_questlist_sub_outline_032_21	[~ 235]
+msg_questlist_sub_outline_032_255	[~ 236]
 msg_questlist_sub_outline_033_10	为了封印曾引起灾难的家伙，\n去收集散落在洗翠地区各处的\n１０７个幽火吧。
 msg_questlist_sub_outline_033_20	虽然已经收集齐１０７个幽火了，\n但想要封印，似乎还有事情需要做。\n在晚上前往少女所等候的云雾遗迹吧。
 msg_questlist_sub_outline_033_30	最后一个幽火原来在少女手上。\n吩咐将１０８个幽火收集至楔石后，\n少女便消失得无影无踪了……
 msg_questlist_sub_outline_034_10	庚安从[VAR 0189(0000)]身上\n感受到了奶奶的影子。受他所托，\n让他看看与你关系好的宝可梦吧。
-msg_questlist_sub_outline_034_255	[~ 211]
+msg_questlist_sub_outline_034_255	[~ 241]
 msg_questlist_sub_outline_035_10	忠吉因搞不清樱花儿改变样子\n是否属于进化而感到困惑。\n受他所托，让他看看樱花儿的图鉴吧。
-msg_questlist_sub_outline_035_255	[~ 213]
+msg_questlist_sub_outline_035_255	[~ 243]
 msg_questlist_sub_outline_036_10	关于举止怪异的魔墙人偶，\n升秀似乎想找个人商量一下。
-msg_questlist_sub_outline_036_20_40	[~ 215]
-msg_questlist_sub_outline_036_30_50	[~ 216]
-msg_questlist_sub_outline_036_60	[~ 217]
-msg_questlist_sub_outline_036_255	[~ 218]
+msg_questlist_sub_outline_036_20_40	[~ 245]
+msg_questlist_sub_outline_036_30_50	[~ 246]
+msg_questlist_sub_outline_036_60	[~ 247]
+msg_questlist_sub_outline_036_255	[~ 248]
 msg_questlist_sub_outline_037_10	以音乐为兴趣的雅讴对在黑曜原野上\n偶尔能听到的圆法师的叫声着了迷。\n完成圆法师的图鉴，并让她看看吧。
-msg_questlist_sub_outline_037_255	[~ 220]
+msg_questlist_sub_outline_037_255	[~ 250]
 msg_questlist_sub_outline_038_10	正汉发明了使用菇类制作的诱团材料单。\n据说为了让这个材料单发扬光大，\n他想将做法传授给[VAR 0100(0000)]。
-msg_questlist_sub_outline_038_255	[~ 222]
+msg_questlist_sub_outline_038_255	[~ 252]
 msg_questlist_sub_outline_039_10	从维之介那里收到有关\n三蜜蜂蜂蜜味道的委托了。\n去听听他怎么说，然后开始调查吧。
-msg_questlist_sub_outline_039_20_30_40	[~ 224]
-msg_questlist_sub_outline_039_255	[~ 225]
-msg_questlist_sub_outline_040_10	[~ 226]
-msg_questlist_sub_outline_040_255	[~ 227]
+msg_questlist_sub_outline_039_20_30_40	[~ 254]
+msg_questlist_sub_outline_039_255	[~ 255]
+msg_questlist_sub_outline_040_10	[~ 256]
+msg_questlist_sub_outline_040_255	[~ 257]
 msg_questlist_sub_outline_041	受稻禾所托，为了在扩张田地后，\n水仍能浇遍整块田地，借给他\n可以帮忙浇水的宝可梦吧。
-msg_questlist_sub_outline_041_255	[~ 229]
-msg_questlist_sub_outline_042_10	[~ 230]
-msg_questlist_sub_outline_042_20	[~ 231]
-msg_questlist_sub_outline_042_30	[~ 232]
-msg_questlist_sub_outline_042_255	[~ 233]
+msg_questlist_sub_outline_041_255	[~ 259]
+msg_questlist_sub_outline_042_10	[~ 260]
+msg_questlist_sub_outline_042_20	[~ 261]
+msg_questlist_sub_outline_042_30	[~ 262]
+msg_questlist_sub_outline_042_255	[~ 263]
 msg_questlist_sub_outline_043_10	被毒蔷薇优雅的姿态深深吸引的贝菈\n想对毒蔷薇有更多的了解。\n受她所托，让她看看毒蔷薇的图鉴吧。
-msg_questlist_sub_outline_043_255	[~ 235]
+msg_questlist_sub_outline_043_255	[~ 265]
 msg_questlist_sub_outline_044_10	受显颖所托，帮他确认\n风景照中所拍到的双叶芽\n是否是宝可梦吧。
-msg_questlist_sub_outline_044_255	[~ 237]
+msg_questlist_sub_outline_044_255	[~ 267]
 msg_questlist_sub_outline_045_10	纱珑认为外表因栖息地而异的\n无壳海兔能成为新服装的设计灵感。\n受她所托，让她看看无壳海兔吧。
-msg_questlist_sub_outline_045_255	[~ 239]
+msg_questlist_sub_outline_045_255	[~ 269]
 msg_questlist_sub_outline_046_10	受阳次郎所托，帮他寻找\n因被头目河马兽追赶\n而丢失的重要护符吧。
-msg_questlist_sub_outline_046_11	[~ 241]
-msg_questlist_sub_outline_046_255	[~ 242]
+msg_questlist_sub_outline_046_11	[~ 271]
+msg_questlist_sub_outline_046_255	[~ 272]
 msg_questlist_sub_outline_047	瑜谣想再看一次\n有两片尾鳍的宝可梦。\n受她所托，捉到后给她看看吧。
-msg_questlist_sub_outline_047_255	[~ 244]
+msg_questlist_sub_outline_047_255	[~ 274]
 msg_questlist_sub_outline_048	朝晖无法忘记被岩石遮掩的宝可梦\n那摆起来很柔韧的尾巴。\n受他所托，将那只宝可梦捉来让他看看吧。
-msg_questlist_sub_outline_048_255	[~ 246]
+msg_questlist_sub_outline_048_255	[~ 276]
 msg_questlist_sub_outline_049_10_20_30	受被长尾怪手夺走行李的金彦所托，\n帮他追上长尾怪手，\n并取回行李吧。
-msg_questlist_sub_outline_049_31	[~ 248]
-msg_questlist_sub_outline_049_255	[~ 249]
+msg_questlist_sub_outline_049_31	[~ 278]
+msg_questlist_sub_outline_049_255	[~ 279]
 msg_questlist_sub_outline_050_10	受从章鱼桶的墨汁当中感受到\n新菜色可能性的雪江所托，\n让她看看章鱼桶的图鉴吧。
-msg_questlist_sub_outline_050_255	[~ 251]
+msg_questlist_sub_outline_050_255	[~ 281]
 msg_questlist_sub_outline_051_10	受佳慧所托，如果找到了\n失踪的利一，就叫利一回去吧。\n利一似乎并没有去鬼枯原……
-msg_questlist_sub_outline_051_11	[~ 253]
-msg_questlist_sub_outline_051_20	[~ 254]
-msg_questlist_sub_outline_051_255	[~ 255]
-msg_questlist_sub_outline_052_10	[~ 256]
-msg_questlist_sub_outline_052_20	[~ 257]
-msg_questlist_sub_outline_052_255	[~ 258]
+msg_questlist_sub_outline_051_11	[~ 283]
+msg_questlist_sub_outline_051_20	[~ 284]
+msg_questlist_sub_outline_051_255	[~ 285]
+msg_questlist_sub_outline_052_10	[~ 286]
+msg_questlist_sub_outline_052_20	[~ 287]
+msg_questlist_sub_outline_052_255	[~ 288]
 msg_questlist_sub_outline_053_10	关于帕奇利兹的战斗方式，\n逸郎似乎有事想委托别人。
-msg_questlist_sub_outline_053_20	[~ 260]
-msg_questlist_sub_outline_053_255	[~ 261]
+msg_questlist_sub_outline_053_20	[~ 290]
+msg_questlist_sub_outline_053_255	[~ 291]
 msg_questlist_sub_outline_054_10	受茉可所托，告诉她\n更多关于鲤鱼王的事吧。
-msg_questlist_sub_outline_054_255	[~ 263]
+msg_questlist_sub_outline_054_255	[~ 293]
 msg_questlist_sub_outline_056_10	湄妤正在照顾\n因空腹而无法动弹的波加曼。\n受她所托，将豆诱团分给她吧。
-msg_questlist_sub_outline_056_20	[~ 265]
-msg_questlist_sub_outline_056_255	[~ 266]
+msg_questlist_sub_outline_056_20	[~ 295]
+msg_questlist_sub_outline_056_255	[~ 296]
 msg_questlist_sub_outline_057_10	受虎弥所托，帮他找出\n在群青海岸失踪的妹妹弥美吧。
-msg_questlist_sub_outline_057_20	[~ 268]
-msg_questlist_sub_outline_057_255	[~ 269]
+msg_questlist_sub_outline_057_20	[~ 298]
+msg_questlist_sub_outline_057_255	[~ 299]
 msg_questlist_sub_outline_058_10	杵儿似乎想用\n不良蛙的毒来做药。\n去打听一下内容，然后帮帮她吧。
-msg_questlist_sub_outline_058_20	[~ 271]
-msg_questlist_sub_outline_058_255	[~ 272]
+msg_questlist_sub_outline_058_20	[~ 301]
+msg_questlist_sub_outline_058_255	[~ 302]
 msg_questlist_sub_outline_059_10	在玫瑰岛受陶仁所托，\n为他带来双手拿着\n镰刀的宝可梦吧。
 msg_questlist_sub_outline_060_10	在群青海岸接受了撞气球的挑战。\n似乎只要撞破２４个气球，\n就能获得特别的奖品。
-msg_questlist_sub_outline_060_255	[~ 275]
+msg_questlist_sub_outline_060_255	[~ 305]
 msg_questlist_sub_outline_061	受稻禾所托，\n为了扩大田地，借他可以将\n碍事的岩石击碎的宝可梦吧。
-msg_questlist_sub_outline_062_10	[~ 277]
-msg_questlist_sub_outline_062_20	[~ 278]
-msg_questlist_sub_outline_062_30	[~ 279]
-msg_questlist_sub_outline_062_255	[~ 280]
+msg_questlist_sub_outline_062_10	[~ 307]
+msg_questlist_sub_outline_062_20	[~ 308]
+msg_questlist_sub_outline_062_30	[~ 309]
+msg_questlist_sub_outline_062_255	[~ 310]
 msg_questlist_sub_outline_063_10	火夏认为通过观察梦妖\n就可能获得新发型的灵感。\n受她所托，让她看看梦妖吧。
-msg_questlist_sub_outline_063_255	[~ 282]
+msg_questlist_sub_outline_063_255	[~ 312]
 msg_questlist_sub_outline_064_10	在霏纱的老家据说有一种\n缠在宝可梦身上的蓝色藤蔓状香草。\n受她所托，帮她寻找缠着香草的宝可梦吧。
-msg_questlist_sub_outline_064_255	[~ 284]
+msg_questlist_sub_outline_064_255	[~ 314]
 msg_questlist_sub_outline_065_10	朋财正考虑让豪力成为建筑组的伙伴，\n但他想先好好了解一下豪力。受他所托，\n完成豪力的图鉴并让他看看吧。
 msg_questlist_sub_outline_065_20	受看过图鉴后的朋财所托，\n在他与豪力交涉时，\n先等他一下吧。
-msg_questlist_sub_outline_065_255	[~ 287]
+msg_questlist_sub_outline_065_255	[~ 317]
 msg_questlist_sub_outline_066	收到有关朝北鼻谚语的委托了。\n去找佳慧打听一下吧。
 msg_questlist_sub_outline_066_255	听说有“迷路就找朝北鼻”这么一句谚语。\n受不想在迷幻洞窟迷路的佳慧所托，\n将朝北鼻让给她吧。
-msg_questlist_sub_outline_067	[~ 290]
-msg_questlist_sub_outline_067_20	[~ 291]
-msg_questlist_sub_outline_067_255	[~ 292]
+msg_questlist_sub_outline_067	[~ 320]
+msg_questlist_sub_outline_067_20	[~ 321]
+msg_questlist_sub_outline_067_255	[~ 322]
 msg_questlist_sub_outline_068_10	纱珑想制作新颜色的衣服。\n受她所托，帮她收集材料吧。
-msg_questlist_sub_outline_068_255	[~ 294]
+msg_questlist_sub_outline_068_255	[~ 324]
 msg_questlist_sub_outline_069_10	清旺声称他儿子智松讨厌妖怪。\n受清旺所托，为了让他儿子克服\n对妖怪的恐惧，让他看看鬼斯的图鉴吧。
-msg_questlist_sub_outline_069_255	[~ 296]
+msg_questlist_sub_outline_069_255	[~ 326]
 msg_questlist_sub_outline_070_10	工艺店的铁翰希望……\n能够看看[VAR 0189(0000)]\n工艺制作出的宝可梦木娃娃。
 msg_questlist_sub_outline_071_10	铜镜怪阻碍搭建营地，\n似乎想传达什么信息。受芝萌所托，\n去调查一下铜镜怪此举的目的吧。
-msg_questlist_sub_outline_071_255	[~ 299]
-msg_questlist_sub_outline_072_10	[~ 300]
-msg_questlist_sub_outline_072_20	[~ 301]
-msg_questlist_sub_outline_072_30	[~ 302]
-msg_questlist_sub_outline_072_255	[~ 303]
+msg_questlist_sub_outline_071_255	[~ 329]
+msg_questlist_sub_outline_072_10	[~ 330]
+msg_questlist_sub_outline_072_20	[~ 331]
+msg_questlist_sub_outline_072_30	[~ 332]
+msg_questlist_sub_outline_072_255	[~ 333]
 msg_questlist_sub_outline_073_10	听说旬平希望有人能调查一下\n与皮皮的习性相关的事。
 msg_questlist_sub_outline_073_20	在旬平的家乡，皮皮似乎会在\n满月之夜跳舞。来验证一下皮皮\n在洗翠这片土地上是否也会跳舞吧。
-msg_questlist_sub_outline_073_30	[~ 306]
-msg_questlist_sub_outline_073_40	[~ 307]
-msg_questlist_sub_outline_073_50	[~ 308]
-msg_questlist_sub_outline_073_255	[~ 309]
+msg_questlist_sub_outline_073_30	[~ 336]
+msg_questlist_sub_outline_073_40	[~ 337]
+msg_questlist_sub_outline_073_50	[~ 338]
+msg_questlist_sub_outline_073_255	[~ 339]
 msg_questlist_sub_outline_074_10	纱珑听说了沙河马的外表会因\n性别而异。受她所托，\n让她看看雄性和雌性的沙河马吧。
-msg_questlist_sub_outline_074_255	[~ 311]
-msg_questlist_sub_outline_075_10	[~ 312]
-msg_questlist_sub_outline_075_255	[~ 313]
+msg_questlist_sub_outline_074_255	[~ 341]
+msg_questlist_sub_outline_075_10	[~ 342]
+msg_questlist_sub_outline_075_255	[~ 343]
 msg_questlist_sub_outline_076_10	受虎弥所托，帮他找出\n在天冠山麓失踪的妹妹弥美吧。
-msg_questlist_sub_outline_076_20	[~ 315]
-msg_questlist_sub_outline_076_255	[~ 316]
+msg_questlist_sub_outline_076_20	[~ 345]
+msg_questlist_sub_outline_076_255	[~ 346]
 msg_questlist_sub_outline_077_10	受虎弥所托，帮他找出\n在黑曜原野失踪的妹妹弥美吧。
-msg_questlist_sub_outline_077_20	[~ 318]
-msg_questlist_sub_outline_077_21	[~ 319]
-msg_questlist_sub_outline_077_255	[~ 320]
-msg_questlist_sub_outline_079_10	[~ 321]
-msg_questlist_sub_outline_079_255	[~ 322]
-msg_questlist_sub_outline_080_10	[~ 323]
-msg_questlist_sub_outline_080_255	[~ 324]
-msg_questlist_sub_outline_082_10	[~ 325]
-msg_questlist_sub_outline_082_20	[~ 326]
-msg_questlist_sub_outline_082_30	[~ 327]
-msg_questlist_sub_outline_082_255	[~ 328]
+msg_questlist_sub_outline_077_20	[~ 348]
+msg_questlist_sub_outline_077_21	[~ 349]
+msg_questlist_sub_outline_077_255	[~ 350]
+msg_questlist_sub_outline_079_10	[~ 351]
+msg_questlist_sub_outline_079_255	[~ 352]
+msg_questlist_sub_outline_080_10	[~ 353]
+msg_questlist_sub_outline_080_255	[~ 354]
+msg_questlist_sub_outline_082_10	[~ 355]
+msg_questlist_sub_outline_082_20	[~ 356]
+msg_questlist_sub_outline_082_30	[~ 357]
+msg_questlist_sub_outline_082_255	[~ 358]
 msg_questlist_sub_outline_083_10	火夏认为通过观察奇鲁莉安\n就可能获得新发型的灵感。\n受她所托，让她看看奇鲁莉安吧。
-msg_questlist_sub_outline_083_255	[~ 330]
+msg_questlist_sub_outline_083_255	[~ 360]
 msg_questlist_sub_outline_084_10	为了能学会究极的腌菜材料单，\n受雪江所托，去收集材料吧。
-msg_questlist_sub_outline_084_255	[~ 332]
+msg_questlist_sub_outline_084_255	[~ 362]
 msg_questlist_sub_outline_085_10	人在纯白冻土心形岩山的正汉\n似乎有个关于小山猪特技的委托。
-msg_questlist_sub_outline_085_15_20_30	[~ 334]
-msg_questlist_sub_outline_085_40	[~ 335]
-msg_questlist_sub_outline_085_255	[~ 336]
+msg_questlist_sub_outline_085_15_20_30	[~ 364]
+msg_questlist_sub_outline_085_40	[~ 365]
+msg_questlist_sub_outline_085_255	[~ 366]
 msg_questlist_sub_outline_086_10	据说岛木的祖先曾经住过的村落\n位于纯白冻土的雪崩坡附近。\n受他所托，帮他寻找村落的痕迹吧。
 msg_questlist_sub_outline_086_20	在雪崩坡找到了破损日记。\n找出剩余的部分，\n说不定就能得到有关村落的信息。
 msg_questlist_sub_outline_086_30	将雪妖女掉落的日记的剩余部分\n与破损日记拼凑后，完成了一本古老日记。\n里面记载着曾经位于雪崩坡的村落的事。
-msg_questlist_sub_outline_086_255	[~ 340]
-msg_questlist_sub_outline_087_010	[~ 341]
-msg_questlist_sub_outline_087_020	[~ 342]
-msg_questlist_sub_outline_087_030	[~ 343]
-msg_questlist_sub_outline_087_040	[~ 344]
-msg_questlist_sub_outline_087_255	[~ 345]
-msg_questlist_sub_outline_088	[~ 346]
+msg_questlist_sub_outline_086_255	[~ 370]
+msg_questlist_sub_outline_087_010	[~ 371]
+msg_questlist_sub_outline_087_020	[~ 372]
+msg_questlist_sub_outline_087_030	[~ 373]
+msg_questlist_sub_outline_087_040	[~ 374]
+msg_questlist_sub_outline_087_255	[~ 375]
+msg_questlist_sub_outline_088	[~ 376]
 msg_questlist_sub_outline_088_10	村民平八、蔻江、伦彦各自认为的结草儿的\n真正样子都不一样，并且难下定论。\n受他们３人所托，让他们看看结草儿吧。
-msg_questlist_sub_outline_088_20	[~ 348]
-msg_questlist_sub_outline_088_255	[~ 349]
+msg_questlist_sub_outline_088_20	[~ 378]
+msg_questlist_sub_outline_088_255	[~ 379]
 msg_questlist_sub_outline_089_10	受到宝可梦幸福蛋救助的\n麻芝似乎有事想要委托。
-msg_questlist_sub_outline_089_20	[~ 351]
-msg_questlist_sub_outline_089_21	[~ 352]
-msg_questlist_sub_outline_089_255	[~ 353]
+msg_questlist_sub_outline_089_20	[~ 381]
+msg_questlist_sub_outline_089_21	[~ 382]
+msg_questlist_sub_outline_089_255	[~ 383]
 msg_questlist_sub_outline_090_10	受杵儿所托，帮她\n去采１００根疗草吧。
-msg_questlist_sub_outline_090_255	[~ 355]
+msg_questlist_sub_outline_090_255	[~ 385]
 msg_questlist_sub_outline_091_10	受邦一所托，帮他寻找和他约好\n在纯白冻土瀑布湖会合的永四朗吧。\n但那个人不像是个会迷路的人……
-msg_questlist_sub_outline_091_20	[~ 357]
-msg_questlist_sub_outline_091_255	[~ 358]
+msg_questlist_sub_outline_091_20	[~ 387]
+msg_questlist_sub_outline_091_255	[~ 388]
 msg_questlist_sub_outline_092_10	来自阿罗拉的亚昂似乎带着\n被称为凯欧凯欧的奇特的六尾。\n去看看并进行调查吧。
-msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 360]
-msg_questlist_sub_outline_092_255	[~ 361]
+msg_questlist_sub_outline_092_20_30_40_50_60_70_80	[~ 390]
+msg_questlist_sub_outline_092_255	[~ 391]
 msg_questlist_sub_outline_093_10	受在冰山基地工作的邦一所托，\n把火属性的宝可梦让给他吧。
-msg_questlist_sub_outline_093_255	[~ 363]
+msg_questlist_sub_outline_093_255	[~ 393]
 msg_questlist_sub_outline_094_10	似乎有野生的风铃铃\n住进民宅的屋檐下了。\n去找玉娑打听一下，并进行调查吧。
-msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 365]
-msg_questlist_sub_outline_094_255	[~ 366]
+msg_questlist_sub_outline_094_20_30_40_50_60_70_80	[~ 395]
+msg_questlist_sub_outline_094_255	[~ 396]
 msg_questlist_sub_outline_095_10	最喜欢冰宝的珍珠队队员英慕说\n她会帮忙检查一下冰宝的图鉴。\n所以要是图鉴完成了，就让她看看吧。
-msg_questlist_sub_outline_095_255	[~ 368]
+msg_questlist_sub_outline_095_255	[~ 398]
 msg_questlist_sub_outline_096_10	受身为妹妹的弥美所托，\n帮她搜寻去了纯白冻土\n找自己的哥哥虎弥吧。
-msg_questlist_sub_outline_096_20	[~ 370]
-msg_questlist_sub_outline_096_255	[~ 371]
+msg_questlist_sub_outline_096_20	[~ 400]
+msg_questlist_sub_outline_096_255	[~ 401]
 msg_questlist_sub_outline_097_10	去和松茂学习因客人投诉\n而被弃用的材料单吧。
-msg_questlist_sub_outline_097_255	[~ 373]
+msg_questlist_sub_outline_097_255	[~ 403]
 msg_questlist_sub_outline_098_10	受亚白所托，与他的搭档\n路卡利欧决一胜负吧。
-msg_questlist_sub_outline_098_11	[~ 375]
-msg_questlist_sub_outline_098_255	[~ 376]
+msg_questlist_sub_outline_098_11	[~ 405]
+msg_questlist_sub_outline_098_255	[~ 406]
 msg_questlist_sub_outline_099_10	受千吉所托，帮他寻找\n他那只在隆隆山地滚走的\n同伴海豹球吧。
-msg_questlist_sub_outline_099_50	[~ 378]
-msg_questlist_sub_outline_099_255	[~ 379]
+msg_questlist_sub_outline_099_50	[~ 408]
+msg_questlist_sub_outline_099_255	[~ 409]
 msg_questlist_sub_outline_100_10	在纯白冻土接受了撞气球的挑战。\n似乎只要撞破３０个气球，\n就能获得特别的奖品。
-msg_questlist_sub_outline_100_255	[~ 381]
+msg_questlist_sub_outline_100_255	[~ 411]
 msg_questlist_sub_outline_110_10	在群青海岸似乎有巨大的影子被目击到。\n拉苯博士分析认为，那很有可能是\n和[VAR 0189(0000)]对战过的骑拉帝纳。
 msg_questlist_sub_outline_114_10	听说在洗翠地区有时会有\n被称为化身的宝可梦现身。\n为了完成图鉴，去进行调查吧。
 msg_questlist_sub_outline_115_10	拉苯博士目击到的海上的宝可梦\n说不定就是在“海之传说”中\n登场的那只宝可梦……
@@ -23348,29 +23432,59 @@ msg_questlist_sub_outline_116_10	去帮助曾经遇见过\n稀有宝可梦的委
 msg_questlist_sub_outline_117_10	去向目击到恐怖的宝可梦的委托人\n打听详细状况及地点信息，\n并调查那只宝可梦。
 msg_questlist_sub_outline_122_10	金刚队的刚石发起\n宝可梦对战了。\n战胜他并打听关于“宝物”的信息吧。
 msg_questlist_sub_outline_123_10	珍珠队的珠贝发起\n宝可梦对战了。\n战胜她并打听关于“宝物”的信息吧。
+msg_questlist_sub_outline_201	受阿米所托，帮她调查\n小卡比兽在意的地点吧。
+msg_questlist_sub_outline_202	受阿米所托，帮她调查\n黑曜原野发生的\n大大大量出现吧。
+msg_questlist_sub_outline_203	受阿米所托，帮她调查\n红莲湿地发生的\n大大大量出现吧。
+msg_questlist_sub_outline_204	受阿米所托，帮她调查\n群青海岸发生的\n大大大量出现吧。
+msg_questlist_sub_outline_205	受阿米所托，\n将菇诱团带去纯白冻土的\n秘密小洞给她吧。
+msg_questlist_sub_outline_206	受阿米所托，帮她调查\n天冠山麓发生的\n大大大量出现吧。
+msg_questlist_sub_outline_207	受阿米所托，帮她调查\n纯白冻土发生的\n大大大量出现吧。
+msg_questlist_sub_outline_208	被刚石和珠贝带着\n前往黑曜原野\n去看了黎明。
+msg_questlist_sub_outline_250	接受贝里菈的邀请，\n与警卫组的隐藏高手对战吧。
+msg_questlist_sub_outline_251	[~ 428]
+msg_questlist_sub_outline_252	受刚石所托，\n用帝牙卢卡（起源形态）\n与他对战吧。
 msg_questlist_sub_outline_253	为了获得“红色锁链”\n前往黑曜原野的心齐湖\n接受守护神的考验吧。
 msg_questlist_sub_outline_254	为了获得“红色锁链”\n前往红莲湿地的立志湖\n接受守护神的考验吧。
 msg_questlist_sub_outline_255	为了获得“红色锁链”\n前往纯白冻土的睿智湖\n接受守护神的考验吧。
-msg_questlist_sub_purpose_001_1_1	[~ 392]
+msg_questlist_sub_outline_256	受珠贝所托，\n用帕路奇亚（起源形态）\n与她对战吧。
+msg_questlist_sub_outline_257	在天冠山麓接受了撞气球的挑战。\n似乎只要撞破４０个气球，\n就能获得特别的奖品。
+msg_questlist_sub_outline_258	受士敬所托，\n去让黑金隧道的宝可梦平静下来吧。
+msg_questlist_sub_outline_259	[~ 436]
+msg_questlist_sub_outline_261	警卫组的木古推荐了只身道。\n他建议用训练有素的大牙狸挑战。
+msg_questlist_sub_outline_262	警卫组的木古推荐了只身道。\n据说有某种样子会对挑战有利。
+msg_questlist_sub_outline_263	警卫组的木古推荐了只身道。\n他建议要静心凝神去攻击弱点。
+msg_questlist_sub_outline_264	警卫组的木古推荐了只身道。\n他建议将防守力转换为进攻力。
+msg_questlist_sub_outline_265	警卫组的木古推荐了只身道。\n他建议先把宝可梦培育到极限后再挑战。
+msg_questlist_sub_outline_266	警卫组的木古推荐了只身道。\n据说有某种家电会对挑战有利。
+msg_questlist_sub_outline_267	警卫组的木古推荐了只身道。\n他建议用固若金汤的鲤鱼王忍耐到底。
+msg_questlist_sub_outline_268	警卫组的木古推荐了只身道。\n他建议跳支能唤来胜利的舞蹈。
+msg_questlist_sub_outline_269	警卫组的木古推荐了只身道。\n他建议使用对手的招式。
+msg_questlist_sub_outline_270	警卫组的木古推荐了只身道。\n他建议先把宝可梦培育到极限后再挑战。
+msg_questlist_sub_outline_271	警卫组的木古推荐了只身道。\n他建议要小心模仿达人。
+msg_questlist_sub_outline_272	警卫组的木古推荐了只身道。\n对手睡着的时候似乎是个好机会。
+msg_questlist_sub_outline_273	警卫组的木古推荐了只身道。\n他建议使用在时空歪曲遇见的狃拉。
+msg_questlist_sub_outline_274	警卫组的木古推荐了只身道。\n他建议使用回复忍耐到底。
+msg_questlist_sub_outline_275	警卫组的木古推荐了只身道。\n他建议瞄准对手降落到地面的时机。
+msg_questlist_sub_purpose_001_1_1	[~ 452]
 msg_questlist_sub_purpose_001_10_1	让制造组的日葵\n看看宝可梦
 msg_questlist_sub_purpose_001_10_2	让制造组的日葵\n看看完成的姆克儿图鉴
-msg_questlist_sub_purpose_002_1_1	[~ 395]
+msg_questlist_sub_purpose_002_1_1	[~ 455]
 msg_questlist_sub_purpose_002_10_1	让村民士俊\n看看宝可梦
-msg_questlist_sub_purpose_003_1_1	[~ 397]
+msg_questlist_sub_purpose_003_1_1	[~ 457]
 msg_questlist_sub_purpose_003_10_1	把树果交给\n村民升秀
 msg_questlist_sub_purpose_004_10_1	把宝可梦交给\n警卫组的实建
-msg_questlist_sub_purpose_005_1_1	[~ 400]
+msg_questlist_sub_purpose_005_1_1	[~ 460]
 msg_questlist_main_purpose_005_10_1	把宝可梦交给\n警卫组的英卓
 msg_questlist_sub_purpose_006_10_1	与警卫组的英卓说话
 msg_questlist_sub_purpose_006_20_1	让警卫组的英卓\n看看宝可梦
 msg_questlist_sub_purpose_007_10_1	与警卫组的晓瑜说话
 msg_questlist_sub_purpose_007_20_1	让警卫组的晓瑜\n看看宝可梦
-msg_questlist_sub_purpose_008	[~ 406]
+msg_questlist_sub_purpose_008	[~ 466]
 msg_questlist_sub_purpose_008_10_1	在祝庆村的打靶\n创下１００００分以上的纪录
 msg_questlist_sub_purpose_009_10_1	把宝可梦交给\n村民雪江
 msg_questlist_sub_purpose_010	把球交给\n村民志雄
 msg_questlist_sub_purpose_011_10	让照相馆的显颖看看\n被拍到照片上的宝可梦
-msg_questlist_sub_purpose_011_20	[~ 411]
+msg_questlist_sub_purpose_011_20	[~ 471]
 msg_questlist_sub_purpose_012_10	与警卫组的绸希说话
 msg_questlist_sub_purpose_012_20	将大牙狸加入同行宝可梦\n找出入侵村子的大牙狸\n还剩３只
 msg_questlist_sub_purpose_012_30	将大牙狸加入同行宝可梦\n找出入侵村子的大牙狸\n还剩２只
@@ -23384,30 +23498,30 @@ msg_questlist_sub_purpose_016_10_1	晚上到驰风道\n捕捉红色火球
 msg_questlist_sub_purpose_016_20_1	让村民环夕\n看看宝可梦
 msg_questlist_sub_purpose_017_10_1	与村民正汉说话
 msg_questlist_sub_purpose_017_20_2	把宝可梦交给\n村民正汉
-msg_questlist_sub_purpose_017_30_1	[~ 425]
-msg_questlist_sub_purpose_017_40_1	[~ 426]
+msg_questlist_sub_purpose_017_30_1	[~ 485]
+msg_questlist_sub_purpose_017_40_1	[~ 486]
 msg_questlist_sub_purpose_018_10_1	去问问村民尧佑\n委托的内容
 msg_questlist_sub_purpose_018_20_1	捕捉出现在黑曜原野\n蹄铁草原的稀有小火马
 msg_questlist_sub_purpose_018_30_1	向村民尧佑报告
 msg_questlist_sub_purpose_019_10_1	去问问警卫组的树央\n委托的内容
 msg_questlist_sub_purpose_019_20_1	去调查傍晚出现在\n起始海滩的飘飘球和小孩
-msg_questlist_sub_purpose_019_30_1	[~ 432]
+msg_questlist_sub_purpose_019_30_1	[~ 492]
 msg_questlist_sub_purpose_019_60_1	向警卫组的树央报告
 msg_questlist_sub_purpose_020_10_1	到黑曜原野玩撞气球\n并在限时内撞破１７个气球
 msg_questlist_sub_purpose_021_10_1	将地面属性的宝可梦\n借给稻禾
 msg_questlist_sub_purpose_022_10_1	带道具作为礼物\n去说服制造组组长桃发
-msg_questlist_sub_purpose_022_20_1	[~ 437]
+msg_questlist_sub_purpose_022_20_1	[~ 497]
 msg_questlist_sub_purpose_022_30_1	向杂货店的晓白报告
 msg_questlist_sub_purpose_023_10_1	让衣铺的纱珑\n看看宝可梦
 msg_questlist_sub_purpose_025_10_1	去向医疗组的塔旻\n打听制药材料的信息
 msg_questlist_sub_purpose_025_20_1	把出现在红莲湿地且\n长有三片叶子的宝可梦\n交给医疗组的塔旻
 msg_questlist_sub_purpose_026_10_1	在祝庆村收集能治好\n可达鸭头痛的药的信息
 msg_questlist_sub_purpose_026_20_1	把道具交给\n金刚队的弥生
-msg_questlist_sub_purpose_026_30_1	[~ 444]
+msg_questlist_sub_purpose_026_30_1	[~ 504]
 msg_questlist_sub_purpose_027_10_1	以月月熊骑行的\n蓝色的反应为线索\n到红莲湿地寻找\n警卫组组员弥美
 msg_questlist_sub_purpose_027_20_1	向在银河队总部１楼的\n村民虎弥报告
-msg_questlist_sub_purpose_029_10_1	[~ 447]
-msg_questlist_sub_purpose_029_10_1_ex	[~ 448]
+msg_questlist_sub_purpose_029_10_1	[~ 507]
+msg_questlist_sub_purpose_029_10_1_ex	[~ 508]
 msg_questlist_sub_purpose_030_10_1	把材料交给建筑组的园敖
 msg_questlist_sub_purpose_031_10_1	赶走３只臭鼬噗
 msg_questlist_sub_purpose_031_10_2	前往协助搭建荒地基地
@@ -23422,14 +23536,14 @@ msg_questlist_sub_purpose_035_10_1	让农耕组的忠吉\n看看完成的樱花�
 msg_questlist_sub_purpose_036_10_1	去问问村民升秀\n委托的内容
 msg_questlist_sub_purpose_036_20_40_1	接近魔墙人偶\n调查它在做什么
 msg_questlist_sub_purpose_036_30_50_1	去追逃跑的魔墙人偶
-msg_questlist_sub_purpose_036_60_1	[~ 463]
+msg_questlist_sub_purpose_036_60_1	[~ 523]
 msg_questlist_sub_purpose_037_10_1	让村民雅讴\n看看完成的圆法师图鉴
 msg_questlist_sub_purpose_038_10_1	把材料交给\n村民正汉
 msg_questlist_sub_purpose_039_10_1	去问问农耕组的维之介\n委托的内容
 msg_questlist_sub_purpose_039_20_1	让农耕组的维之介\n看看在险林\n遇到的三蜜蜂
 msg_questlist_sub_purpose_039_30_1	让农耕组的维之介\n看看在长尾怪手山\n遇到的三蜜蜂
 msg_questlist_sub_purpose_039_40_1	让农耕组的维之介\n看看在玫瑰岛\n遇到的三蜜蜂
-msg_questlist_sub_purpose_040_10_1	[~ 470]
+msg_questlist_sub_purpose_040_10_1	[~ 530]
 msg_questlist_sub_purpose_041_10_1	将学会了水属性招式的宝可梦\n借给农耕组的稻禾
 msg_questlist_sub_purpose_043_10_1	让村民贝菈\n看看完成的毒蔷薇图鉴
 msg_questlist_sub_purpose_045_10_1	让衣铺的纱珑\n看看东海和西海的\n无壳海兔
@@ -23444,9 +23558,9 @@ msg_questlist_sub_purpose_051_10_1	去找村民利一
 msg_questlist_sub_purpose_051_11_1	赶走聒噪鸟\n救助村民利一
 msg_questlist_sub_purpose_051_20_1	向制造组的佳慧报告
 msg_questlist_sub_purpose_051_20_2	与制造组的佳慧说话
-msg_questlist_sub_purpose_052_10_1	[~ 485]
-msg_questlist_sub_purpose_052_20_1	[~ 486]
-msg_questlist_sub_purpose_052_21_1	[~ 487]
+msg_questlist_sub_purpose_052_10_1	[~ 545]
+msg_questlist_sub_purpose_052_20_1	[~ 546]
+msg_questlist_sub_purpose_052_21_1	[~ 547]
 msg_questlist_sub_purpose_053_10_1	去问问警卫组的逸郎\n委托的内容
 msg_questlist_sub_purpose_053_20_1	仅带上帕奇利兹\n让警卫组的逸郎\n看看帕奇利兹的战斗方式
 msg_questlist_sub_purpose_054_10_1	完成鲤鱼王的图鉴\n并告诉村民茉可
@@ -23455,7 +23569,7 @@ msg_questlist_sub_purpose_057_10_1	以月月熊骑行的\n蓝色的反应为线�
 msg_questlist_sub_purpose_058_10_1	去问问医疗组组长杵儿\n委托的内容
 msg_questlist_sub_purpose_058_20_1	把宝可梦交给\n医疗组组长杵儿
 msg_questlist_sub_purpose_059_10_1	让玫瑰岛的陶仁\n看看双手拿着镰刀的宝可梦
-msg_questlist_sub_purpose_060_1_1	[~ 496]
+msg_questlist_sub_purpose_060_1_1	[~ 556]
 msg_questlist_sub_purpose_060_10_1	到群青海岸玩撞气球\n并在限时内撞破２４个气球
 msg_questlist_sub_purpose_061_10_1	将学会了碎岩的宝可梦\n借给农耕组的稻禾
 msg_questlist_sub_purpose_063_10_1	让火夏看看宝可梦
@@ -23463,25 +23577,25 @@ msg_questlist_sub_purpose_064_10_1	让村民霏纱\n看看缠着蓝色藤蔓状\
 msg_questlist_sub_purpose_065_10_1	让建筑组的朋财\n看看完成的豪力图鉴
 msg_questlist_sub_purpose_065_20_1	等待建筑组的朋财\n拉拢豪力
 msg_questlist_sub_purpose_066_10_1	把宝可梦交给\n制造组的佳慧
-msg_questlist_sub_purpose_067_10_1	[~ 504]
+msg_questlist_sub_purpose_067_10_1	[~ 564]
 msg_questlist_sub_purpose_068_10_1	将材料交给衣铺的纱珑
 msg_questlist_sub_purpose_069_10_1	完成鬼斯的图鉴\n并让村民清旺看看
 msg_questlist_sub_purpose_070_10_1	用工艺制作完成宝可梦木娃娃\n并让铁翰看看
 msg_questlist_sub_purpose_071_10_1	调查铜镜怪的目的
-msg_questlist_sub_purpose_072_10_1	[~ 509]
-msg_questlist_sub_purpose_072_20_1	[~ 510]
-msg_questlist_sub_purpose_072_30_1	[~ 511]
+msg_questlist_sub_purpose_072_10_1	[~ 569]
+msg_questlist_sub_purpose_072_20_1	[~ 570]
+msg_questlist_sub_purpose_072_30_1	[~ 571]
 msg_questlist_sub_purpose_073_10_1	与制造组的旬平说话
 msg_questlist_sub_purpose_073_20_40_1	在满月的晚上前往妖精之泉\n调查皮皮是否会跳舞
-msg_questlist_sub_purpose_073_30_1	[~ 514]
+msg_questlist_sub_purpose_073_30_1	[~ 574]
 msg_questlist_sub_purpose_073_50_1	向制造组的旬平报告
 msg_questlist_sub_purpose_074_10_1	让衣铺的纱珑看看\n♂和♀的沙河马
-msg_questlist_sub_purpose_075_10_1	[~ 517]
-msg_questlist_sub_purpose_075_11_1	[~ 518]
+msg_questlist_sub_purpose_075_10_1	[~ 577]
+msg_questlist_sub_purpose_075_11_1	[~ 578]
 msg_questlist_sub_purpose_076_10_1	以月月熊骑行的\n蓝色的反应为线索\n到天冠山麓寻找\n警卫组组员弥美
 msg_questlist_sub_purpose_077_10_1	以月月熊骑行的\n蓝色的反应为线索\n到黑曜原野寻找\n警卫组组员弥美
 msg_questlist_sub_purpose_077_11_1	打倒正在袭击警卫组组员\n弥美的３只派拉斯
-msg_questlist_sub_purpose_080_10_1	[~ 522]
+msg_questlist_sub_purpose_080_10_1	[~ 582]
 msg_questlist_sub_purpose_084_10_1	把材料交给村民雪江
 msg_questlist_sub_purpose_085_10_1	与在纯白冻土心形岩山的\n村民正汉说话
 msg_questlist_sub_purpose_085_15_1	将小山猪加入同行宝可梦\n收集埋在雪下的蘑菇\n还剩３个
@@ -23490,12 +23604,12 @@ msg_questlist_sub_purpose_085_30_1	将小山猪加入同行宝可梦\n收集埋�
 msg_questlist_sub_purpose_085_40_1	向村民正汉报告
 msg_questlist_sub_purpose_086_10_1	找出据说曾经存在于\n纯白冻土雪崩坡的村落痕迹
 msg_questlist_sub_purpose_086_30_1	把古老日记交给\n商人岛木
-msg_questlist_sub_purpose_087_10_1	[~ 531]
-msg_questlist_sub_purpose_087_10_2	[~ 532]
-msg_questlist_sub_purpose_087_10_3	[~ 533]
-msg_questlist_sub_purpose_087_20_1	[~ 534]
-msg_questlist_sub_purpose_087_30_1	[~ 535]
-msg_questlist_sub_purpose_087_40_1	[~ 536]
+msg_questlist_sub_purpose_087_10_1	[~ 591]
+msg_questlist_sub_purpose_087_10_2	[~ 592]
+msg_questlist_sub_purpose_087_10_3	[~ 593]
+msg_questlist_sub_purpose_087_20_1	[~ 594]
+msg_questlist_sub_purpose_087_30_1	[~ 595]
+msg_questlist_sub_purpose_087_40_1	[~ 596]
 msg_questlist_sub_purpose_088_10_1	让村民平八、蔻江、伦彦\n看看结草儿
 msg_questlist_sub_purpose_088_20_1	让村民平八、蔻江、伦彦\n看看完成的结草儿图鉴
 msg_questlist_sub_purpose_089_10_1	与在纯白冻土的\n制造组组员麻芝说话
@@ -23510,7 +23624,7 @@ msg_questlist_sub_purpose_092_30_1	寻找躲在纯白冻土的\n六尾（阿罗�
 msg_questlist_sub_purpose_092_40_1	寻找躲在纯白冻土的\n六尾（阿罗拉的样子）\n还剩３只
 msg_questlist_sub_purpose_092_50_1	寻找躲在纯白冻土的\n六尾（阿罗拉的样子）\n还剩２只
 msg_questlist_sub_purpose_092_60_1	寻找躲在纯白冻土的\n六尾（阿罗拉的样子）\n还剩１只
-msg_questlist_sub_purpose_092_70_1	[~ 551]
+msg_questlist_sub_purpose_092_70_1	[~ 611]
 msg_questlist_sub_purpose_092_80_1	向警卫组的亚昂报告
 msg_questlist_sub_purpose_093_10_1	把火属性的宝可梦交给\n制造组的邦一
 msg_questlist_sub_purpose_094_10_1	村民玉娑正在民宅的檐廊等着\n去和她说话吧
@@ -23524,7 +23638,7 @@ msg_questlist_sub_purpose_096_10_1	以月月熊骑行的\n蓝色的反应为线�
 msg_questlist_sub_purpose_096_11_1	打倒冰鬼护\n救助村民虎弥
 msg_questlist_sub_purpose_097_10_1	把材料交给糖果铺的松茂
 msg_questlist_sub_purpose_098_10_1	与在训练场的\n路卡利欧对战
-msg_questlist_sub_purpose_098_11_1	[~ 565]
+msg_questlist_sub_purpose_098_11_1	[~ 625]
 msg_questlist_sub_purpose_099_10_20_30_40_1	寻找从隆隆山地滚了下去的\n村民千吉的海豹球
 msg_questlist_sub_purpose_099_50_1	与在山顶基地的\n村民千吉说话
 msg_questlist_sub_purpose_100_10_1	到纯白冻土玩撞气球\n并在限时内撞破３０个气球
@@ -23540,25 +23654,85 @@ msg_questlist_sub_purpose_116_10_1	与在原野基地的\n金刚队队员希儿�
 msg_questlist_sub_purpose_116_20_1	寻找在黑曜原野某处的\n“葛拉西蒂亚的花海”
 msg_questlist_sub_purpose_116_30_1	在葛拉西蒂亚的花海\n捕捉谢米
 msg_questlist_sub_purpose_117_10_1	寻找仅会在晚上\n出现于攀崖崖附近的\n神秘的黑色宝可梦
-msg_questlist_sub_purpose_117_20_1	[~ 581]
+msg_questlist_sub_purpose_117_20_1	[~ 641]
 msg_questlist_sub_purpose_117_20_1_fix	在攀崖崖附近\n捕捉达克莱伊
 msg_questlist_sub_purpose_122_10_1	与在金刚聚落附近的刚石对战\n并战胜他
 msg_questlist_sub_purpose_123_10_1	与在珍珠聚落附近的珠贝对战\n并战胜她
+msg_questlist_sub_purpose_201_10_1	前往阿米的小卡比兽\n所在意的玫瑰岛
+msg_questlist_sub_purpose_201_20_1	向阿米报告
+msg_questlist_sub_purpose_201_30_1	向星月报告\n在玫瑰岛确认到的\n索罗亚们的事情
+msg_questlist_sub_purpose_202_10_1	和阿米一起\n前往黑曜原野
+msg_questlist_sub_purpose_202_20_1	[~ 649]
+msg_questlist_sub_purpose_202_30_1	[~ 650]
+msg_questlist_sub_purpose_202_40_1	调查在黑曜原野发生的\n大大大量出现\n还剩３处
+msg_questlist_sub_purpose_202_50_1	调查在黑曜原野发生的\n大大大量出现\n还剩２处
+msg_questlist_sub_purpose_202_60_1	调查在黑曜原野发生的\n大大大量出现\n还剩１处
+msg_questlist_sub_purpose_203_10_1	和阿米一起\n前往红莲湿地
+msg_questlist_sub_purpose_203_20_1	[~ 655]
+msg_questlist_sub_purpose_203_30_1	[~ 656]
+msg_questlist_sub_purpose_203_40_1	调查在红莲湿地发生的\n大大大量出现\n还剩３处
+msg_questlist_sub_purpose_203_50_1	调查在红莲湿地发生的\n大大大量出现\n还剩２处
+msg_questlist_sub_purpose_203_60_1	调查在红莲湿地发生的\n大大大量出现\n还剩１处
+msg_questlist_sub_purpose_204_10_1	和阿米一起\n前往群青海岸
+msg_questlist_sub_purpose_204_20_1	[~ 661]
+msg_questlist_sub_purpose_204_30_1	[~ 662]
+msg_questlist_sub_purpose_204_40_1	调查在群青海岸发生的\n大大大量出现\n还剩３处
+msg_questlist_sub_purpose_204_50_1	调查在群青海岸发生的\n大大大量出现\n还剩２处
+msg_questlist_sub_purpose_204_60_1	调查在群青海岸发生的\n大大大量出现\n还剩１处
+msg_questlist_sub_purpose_204_70_1	到银杏沙滩\n战胜[VAR 01DC(0001)]
+msg_questlist_sub_purpose_205_10_1	到纯白冻土的秘密小洞\n把阿米委托的道具交给她
+msg_questlist_sub_purpose_205_20_1	返回祝庆村
+msg_questlist_sub_purpose_206_10_1	和阿米一起\n前往天冠山麓
+msg_questlist_sub_purpose_206_10_2	[~ 670]
+msg_questlist_sub_purpose_206_10_3	[~ 671]
+msg_questlist_sub_purpose_206_10_4	调查在天冠山麓发生的\n大大大量出现\n还剩３处
+msg_questlist_sub_purpose_206_10_5	调查在天冠山麓发生的\n大大大量出现\n还剩２处
+msg_questlist_sub_purpose_206_10_6	调查在天冠山麓发生的\n大大大量出现\n还剩１处
+msg_questlist_sub_purpose_207_10_1	和阿米一起\n前往纯白冻土
+msg_questlist_sub_purpose_207_20_1	[~ 676]
+msg_questlist_sub_purpose_207_30_1	[~ 677]
+msg_questlist_sub_purpose_207_40_1	调查在纯白冻土发生的\n大大大量出现\n还剩３处
+msg_questlist_sub_purpose_207_50_1	调查在纯白冻土发生的\n大大大量出现\n还剩２处
+msg_questlist_sub_purpose_207_60_1	调查在纯白冻土发生的\n大大大量出现\n还剩１处
+msg_questlist_sub_purpose_208_10_1	
+msg_questlist_sub_purpose_250_10_1	与被称为警卫组隐藏高手的\n警卫组组员对战\n并且获胜
+msg_questlist_sub_purpose_251_10_1	[~ 683]
+msg_questlist_sub_purpose_252_10_1	仅用１只\n起源形态的帝牙卢卡\n在与刚石的对战中获胜
 msg_questlist_sub_purpose_253_10_1	前往心齐湖
 msg_questlist_sub_purpose_253_20_1	在心齐湖洞窟\n接受宝可梦的考验
 msg_questlist_sub_purpose_254_10_1	前往立志湖
 msg_questlist_sub_purpose_254_20_1	在立志湖洞窟\n接受宝可梦的考验
 msg_questlist_sub_purpose_255_10_1	前往睿智湖
 msg_questlist_sub_purpose_255_20_1	在睿智湖洞窟\n接受宝可梦的考验
+msg_questlist_sub_purpose_256_10_1	仅用１只\n起源形态的帕路奇亚\n在与珠贝的对战中获胜
+msg_questlist_sub_purpose_257_10_1	到天冠山麓玩撞气球\n并在限时内撞破４０个气球
+msg_questlist_sub_purpose_258_10_1	前往黑金隧道\n让不得了的宝可梦平静下来
+msg_questlist_sub_purpose_259_10_1	[~ 694]
+msg_questlist_sub_purpose_261_10_1	用１只大牙狸挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_262_10_1	用１只结草贵妇挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_263_10_1	用１只劈斧螳螂挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_264_10_1	用１只护城龙挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_265_10_1	用１只刺尾虫挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_266_10_1	用１只洛托姆挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_267_10_1	用１只鲤鱼王挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_268_10_1	用１只裙儿小姐挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_269_10_1	用１只伊布挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_270_10_1	用１只圆法师挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_271_10_1	用１只凯西挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_272_10_1	用１只毒蔷薇挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_273_10_1	用１只狃拉挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_274_10_1	用１只幸福蛋挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_275_10_1	用１只罗丝雷朵挑战\n北尚的“只身道”并获胜
+msg_questlist_sub_purpose_261_20_1	向警卫组的木古报告
 msg_questlist_sub_reward_farm_1	农场的田地会增加。
-msg_questlist_sub_reward_farm_2	[~ 592]
-msg_questlist_sub_reward_farm_3	[~ 593]
+msg_questlist_sub_reward_farm_2	[~ 712]
+msg_questlist_sub_reward_farm_3	[~ 713]
 msg_questlist_sub_reward_question	？？？？？？？？
 msg_questlist_sub_reward_basecamp_02_02	基地营会增加。
-msg_questlist_sub_reward_basecamp_03_02	[~ 596]
-msg_questlist_sub_reward_basecamp_04_02	[~ 597]
-msg_questlist_sub_reward_basecamp_04_03	[~ 598]
-msg_questlist_sub_reward_basecamp_05_02	[~ 599]
+msg_questlist_sub_reward_basecamp_03_02	[~ 716]
+msg_questlist_sub_reward_basecamp_04_02	[~ 717]
+msg_questlist_sub_reward_basecamp_04_03	[~ 718]
+msg_questlist_sub_reward_basecamp_05_02	[~ 719]
 msg_questlist_sub_reward_cloth_00	衣铺的商品会增加。
 msg_questlist_sub_reward_salon_00	理发店的发型会增加。
 msg_questlist_sub_reward_item_shop_00	杂货店的商品会增加。

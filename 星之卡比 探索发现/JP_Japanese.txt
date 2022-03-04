@@ -1,0 +1,234 @@
+AdviceWindow.msbt
+Msg_DeformWithAbility	{[1905|04cd]}これは コピーのうりょくを\n{color[ff4d2fff]}すてないで {color[000000ff]}ほおばれる みたいだよ。{[0004]}のうりょくを もった まま\n{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}で すいこんで みようよ！
+Msg_NoticeDropStarVacuum	{[1907|00cd]}てきのこうげきで {color[ff4d2fff]}こぼれた{r2[ほし]}星{/r2}{color[000000ff]}は\n{color[ff4d2fff]}{[0701|0100]}で すいこんだあと もういちど{[0701|0100]}{color[000000ff]}で\nはきだせる みたいだよ。{[0004]}コピーのうりょくが ないときは、\nこぼれた{r2[ほし]}星{/r2}を はきだして ぶつけよう！
+Caption.msbt
+EventMoviePromotion	{r2[せいひんばん]}製品版{/r2}では さらなる{r2[ぼうけん]}冒険{/r2}が キミを{r2[ま]}待{/r2}つ{[0004]}{r2[こせいてき]}個性的{/r2}なコピー{r2[のうりょく]}能力{/r2}が まだまだ{r2[とうじょう]}登場{/r2}{[0004]}まだ{r2[み]}見{/r2}ぬ ほおばりヘンケイで{[0004]}ナゾにつつまれた {r2[しんせかい]}新世界{/r2}を つき{r2[すす]}進{/r2}め！{[0004]}{r2[ジョイコン]}Joy-Con{/r2}を おすそわけして 2人でも あそべる！{[0004]}ワドルディを たすけると {r2[まち]}町{/r2}が{r2[はってん]}発展{/r2}{[0004]}{r2[たの]}楽{/r2}しいお{r2[みせ]}店{/r2}で いっぱいに！{[0004]}{r2[こんさく]}今作{/r2}のコピー{r2[のうりょく]}能力{/r2}は {r2[しんか]}進化{/r2}する！{[0004]}お{r2[き]}気{/r2}に{r2[い]}入{/r2}りの コピー{r2[のうりょく]}能力{/r2}を パワーアップさせよう！{[0004]}そして {r2[ま]}待{/r2}ち{r2[う]}受{/r2}ける {r2[あら]}新{/r2}たなる{r2[ものがたり]}物語{/r2}{[0004]}さらわれる ワドルディたちに {r2[なかま]}仲間{/r2}との {r2[であ]}出会{/r2}い…{[0004]}おそい{r2[く]}来{/r2}る ナゾの{r2[てき]}敵{/r2} ビースト{r2[ぐんだん]}軍団{/r2}の {r2[しんりゃく]}侵略{/r2}！{[0004]}カービィたちは{r2[ぶじ]}無事{/r2} ワドルディたちを {r2[すく]}救{/r2}い{r2[だ]}出{/r2}し{[0004]}{r2[しんせかい]}新世界{/r2}に {r2[へいわ]}平和{/r2}を {r2[と]}取{/r2}りもどすことが できるのか！{[0004]}{r2[さいご]}最後{/r2}にカービィを {r2[ま]}待{/r2}ち{r2[う]}受{/r2}ける {r2[うんめい]}運命{/r2}とは！？
+Cmn.msbt
+$HeroPanelRevivalText	ふっかつ
+$CameraResetText	カメラリセット
+$Back	もどる
+$CmnSkipText	スキップ
+$New	NEW!
+$BestScore	BEST
+$TextMission	ミッション
+$StandardModeClearText	{size[6400]}{color[ff4d2fff]}ワイルドモード{color[000000ff]}でクリア！{size[6400]}
+$PointStarPenaltySign	-
+$ClosingBracket	)
+$OpeningBracket	(
+$Slash	/
+$CmnVolShadowText	{r2[ボリューム]}Vol.{/r2}
+$CmnVolText	{r2[ボリューム]}Vol.{/r2}
+$CmnDifficultySelectCasual	はるかぜ\nモード
+$CmnDifficultySelectStandard	ワイルド\nモード
+DifficultySelectExplanationCasual	あそびやすい いつもの{r2[ほし]}星{/r2}のカービィ。\n{color[ff4d2fff]}{r2[たいりょく]}体力{/r2}がおおく {color[000000ff]}アクションが とくいではない{r2[ひと]}人{/r2}に。
+DifficultySelectExplanationStandard	ちょっとワイルドで {r2[は]}歯{/r2}ごたえある{r2[ほし]}星{/r2}のカービィ。\n{[0100|8000]}コインスターも {color[ff4d2fff]}たくさんゲットできて オススメです！{color[000000ff]}
+KiloSeparator	,
+Dialog.msbt
+CornerBtn_Back	もどる
+CornerBtn_Close	とじる
+Btn_Cancel	やめる
+Btn_CancelForExit	キャンセル
+Text_CannotChangeDifficultyDemo	ステージ{r2[ちゅう]}中{/r2}は なんいどを {color[ff4d2fff]}へんこうできません。{color[000000ff]}
+Text_ChangeDifficultyOnDead	あそびやすい なんいどの\n{color[ff4d2fff]}{[030b]}{color[000000ff]}に へんこうしますか？
+Btn_Change	へんこうする
+Btn_NoChange	へんこうしない
+Text_ChangeDifficultyOnClear	はごたえある アクションの\n{color[ff4d2fff]}{[030b]}{color[000000ff]}に へんこうしますか？\n\nステージクリアで {[0100|8000]}コインスターが\nおおくもらえる ようになります。
+Text_StageExit	ステージをでますか？\n\nたっせいした ミッションは{color[ff4d2fff]}セーブされません。{color[000000ff]}
+Text_StageExitSimple	ステージをでますか？
+Btn_StageExit	ステージをでる
+Text_AutoSwallowDisabled	{color[ff4d2fff]}オートのみこみ{color[000000ff]}が {color[ff4d2fff]}{r2[オフ]}OFF{/r2}{color[000000ff]}になりました。\n\nのみこみは {[0409|6000]} / {[040a|6100]} で できます。
+Text_ControllerErrorShortsge	{r2[せつぞく]}接続{/r2} されている\n{color[ff4d2fff]}コントローラーが１つ{color[000000ff]}しか ありません。
+Text_PlayerCannotJoinAlert	{r2[いま]}今{/r2}は プレイ{r2[にんずう]}人数{/r2}を {color[ff4d2fff]}へんこうできません。{color[000000ff]}
+Text_ControllerDisconnectedError	２Ｐの {color[ff4d2fff]}コントローラー{r2[せつぞく]}接続{/r2}が きれました。{color[000000ff]}\n\nコントローラーを{r2[せつぞく]}接続{/r2}して\nもういちど {[0411|9400]}ポーズから えらんでください。
+Text_Amiibo_NotAllowedDemo	{r2[たいけんばん]}体験版{/r2}では {r2[アミーボ]}amiibo{/r2}は つかえません。
+Title_StageSelect_UnlockEvolve	しんかのうりょくで あそべる！
+Text_StageSelect_UnlockEvolve	{color[ff4d2fff]}しんか{color[000000ff]}した コピーのうりょくで\nあそべるように なりました！\nもう{r2[いちど]}一度{/r2} ステージをあそぶと しんかのうりょくを\nすこしだけ {color[ff4d2fff]}おためし いただけます！{color[000000ff]}
+Text_StageSelect_AskToChangeEvolve	{r2[いま]}今{/r2}のせっていは\n「{color[ff4d2fff]}ふつう{color[000000ff]}」のコピーのうりょくです。\n\n「しんか」させますか？
+Text_StageSelect_ChangeEvolve	「{color[ff4d2fff]}しんか{color[000000ff]}」した コピーのうりょくに なりました。
+Text_StageSelect_AskToChangeNormal	{r2[いま]}今{/r2}のせっていは\n「{color[ff4d2fff]}しんか{color[000000ff]}」した コピーのうりょくです。\n\n「ふつう」に もどしますか？
+Text_StageSelect_ChangeNormal	「{color[ff4d2fff]}ふつう{color[000000ff]}」のコピーのうりょくに もどしました。
+Btn_StageSelect_ChangeAbility	しんか させる
+Btn_StageSelect_ChangeAbility_00	ふつうに もどす
+Title_StageSelect_UnlockPresentCode_Boss	あそんでくれて ありがとう！
+Text_StageSelect_UnlockPresentCode_Boss	{r2[たいけんばん]}体験版{/r2}を あそんでくれた キミに\n{color[ff4d2fff]}プレゼントキーワード{color[000000ff]}を おとどけ！\n\nプレゼントキーワード\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」
+Title_StageSelect_UnlockPresentCode_Mission	きわめてくれた キミに！
+Text_StageSelect_UnlockPresentCode_Mission	{r2[たいけんばん]}体験版{/r2}を {color[ff4d2fff]}きわめてくれた{color[000000ff]} キミに\n{color[ff4d2fff]}とくべつな{color[000000ff]}プレゼントキーワードを おとどけ！\n\nプレゼントキーワード\n「{color[ff4d2fff]}{[0310]}{color[000000ff]}」
+Text_StageSelect_PresentCode_OnlyBoss	プレゼントキーワード\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」\n\n{color[ff4d2fff]}{r2[せいひんばん]}製品版{/r2}{color[000000ff]}でアイテムが もらえるキーワードです。\nゲームをすすめると{r2[とうじょう]}登場{/r2}する {color[ff4d2fff]}おとどけワドル{r2[びん]}便{/r2}{color[000000ff]}で\nキーワードを {r2[にゅうりょく]}入力{/r2}してみましょう。
+Text_StageSelect_PresentCode_BossAndMission	プレゼントキーワード\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」\n「{color[ff4d2fff]}{[0310]}{color[000000ff]}」\n\n{color[ff4d2fff]}{r2[せいひんばん]}製品版{/r2}{color[000000ff]}でアイテムが もらえるキーワードです。\nゲームをすすめると{r2[とうじょう]}登場{/r2}する {color[ff4d2fff]}おとどけワドル{r2[びん]}便{/r2}{color[000000ff]}で\nキーワードを {r2[にゅうりょく]}入力{/r2}してみましょう。
+PresentCode_Boss	たいけんばんクリア
+PresentCode_Mission	いざだいぼうけんへ
+Figure.msbt
+KirbyNormal	お{r2[そら]}空{/r2}に あらわれた「ナゾのうず」にのまれた\nポップスターの {r2[ほし]}星{/r2}のカービィ。{r2[き]}気{/r2}づけば この\n{r2[あら]}新{/r2}たな{r2[せかい]}世界{/r2}へと たどりつく。うずの{r2[なか]}中{/r2}で\nフシギなパワーに {r2[め]}目{/r2}ざめたカービィは、{r2[しんはっけん]}新発見{/r2}で\nいっぱいの ヘンゲンジザイな {r2[たび]}旅{/r2}に{r2[で]}出{/r2}ます！
+SupportChara	この{r2[せかい]}世界{/r2}で {r2[であ]}出会{/r2}った、しんぴてきな{r2[こ]}子{/r2}。\nビースト{r2[ぐんだん]}軍団{/r2}に おそわれていた ワドルディたちを\nどうにか{r2[たす]}助{/r2}けようと がんばっていた。とらわれた\nワドルディたちを{r2[たす]}助{/r2}け、{r2[まち]}町{/r2}を さいけんするため、\nカービィに アドバイスを しながら ともに{r2[たび]}旅{/r2}をする。
+BandanaWaddleDee	カービィと ともに ナゾのうず に のまれていた\nバンダナワドルディ。なかまの ワドルディたちが\nビースト{r2[ぐんだん]}軍団{/r2}に さらわれたり、お{r2[うち]}家{/r2}も こわされたり\nこまっていると {r2[き]}聞{/r2}き、ヤリを かた{r2[て]}手{/r2}に {r2[た]}立{/r2}ちあがる。\n２Ｐの なかまとなって いざ、{r2[しんせかい]}新世界{/r2}を{r2[たび]}旅{/r2}する！
+WaddleDee	カービィより {r2[さき]}先{/r2}に この{r2[せかい]}世界{/r2}に {r2[なが]}流{/r2}れついていた\nポップスターの{r2[じゅうにん]}住人{/r2}。{r2[おお]}大{/r2}あばれの ビースト{r2[ぐんだん]}軍団{/r2}に\nなかまを さらわれたり {r2[た]}食{/r2}べ{r2[もの]}物{/r2}を うばわれたりして\nこまっていた。…とはいえ そこは ワドルディらしく\n{r2[まちづく]}町作{/r2}りや {r2[しんせいかつ]}新生活{/r2}を けっこう{r2[たの]}楽{/r2}しんで いたという。
+KirbySword	{r2[みどり]}緑{/r2}の ぼうしで {r2[あら]}新{/r2}たな{r2[せかい]}世界{/r2}を\nいざ つき{r2[すす]}進{/r2}むは つるぎの ゆうしゃ！\nイロイロ {r2[き]}切{/r2}れるし パワーもためれる\n{r2[めざ]}目指{/r2}すは {r2[しん]}新{/r2}・{r2[せかい]}世界{/r2}の ソードマスター！
+KirbyBomb	ボタン{r2[なが]}長{/r2}おし ねらって ポイポイ。\nもって {r2[な]}投{/r2}げちゃえ ドンパチ {r2[はなび]}花火{/r2}だ！\n{r2[はし]}走{/r2}って ポイっと {r2[じめん]}地面{/r2}に ころがし\nさか{r2[みち]}道{/r2} コロコロ ストライク！
+KirbyCutter	ブンブン {r2[な]}投{/r2}げるよ やいばのブーメラン！\n{r2[な]}投{/r2}げては もどって、アイテムゲットだ。\nボタン{r2[なが]}長{/r2}おし チャージで {r2[と]}止{/r2}まるよ\n{r2[と]}止{/r2}まって たまって いりょくもアップだ！
+DeformKirbyCar	ナゾのうずの{r2[なか]}中{/r2}で {r2[み]}身{/r2}につけた ほおばりヘンケイ。\n{r2[しんせかい]}新世界{/r2}で{r2[はっけん]}発見{/r2}した {r2[くるま]}車{/r2}を まるっと ほおばれば、\nターボダッシュに ジャンプも できちゃう ピンクの\n{r2[くるま]}車{/r2}に {r2[だい]}大{/r2}ヘンケイ！ あの{r2[うた]}歌{/r2}フフフン {r2[くち]}口{/r2}ずさみ、\n{r2[かぜ]}風{/r2}をかんじて… さぁ、{r2[あら]}新{/r2}たな{r2[せかい]}世界{/r2}を ドライブだ！
+DeformKirbyCone	ナゾのうずの{r2[なか]}中{/r2}で {r2[み]}身{/r2}につけた ほおばりヘンケイ。\n{r2[しんせかい]}新世界{/r2}で{r2[はっけん]}発見{/r2}した こーんな {r2[さんかく]}三角{/r2}ほおばれば、\nとんがりボディに {r2[だい]}大{/r2}ヘンケイ！ {r2[だいち]}大地{/r2}やパイプの\nキレツめがけて、トンガリヘッドで うちくだこう！
+DeformKirbyWaterTank	ナゾのうずの{r2[なか]}中{/r2}で {r2[み]}身{/r2}につけた ほおばりヘンケイ。\n{r2[しんせかい]}新世界{/r2}で{r2[はっけん]}発見{/r2}した まあるい ドームをパクっと\nほおばれば、まん{r2[まる]}丸{/r2}ボディで つつみこむ！\nつつんで キュキュッと ひねって ひねって、\nポンッと あければ、はいっ アイテムだ！
+CaptiveCage	ビースト{r2[ぐんだん]}軍団{/r2}に ムリやり さらわれた ワドルディ。\n{r2[つぎ]}次{/r2}つぎと とらえられ、こまった{r2[かお]}顔{/r2}で だれかに\n{r2[たす]}助{/r2}けて もらうのを{r2[ま]}待{/r2}っている。 そう、{r2[いま]}今{/r2}も\n「わにゃ わにゃ～」（{r2[だ]}出{/r2}して {r2[だ]}出{/r2}して～）と、\nどこからか {r2[たす]}助{/r2}けを もとめる{r2[こえ]}声{/r2}が… しませんか？
+GoalPoint	ビースト{r2[ぐんだん]}軍団{/r2}としては お{r2[て]}手{/r2}がらの、いっぺんに\nたくさん とらえられた {r2[きん]}金{/r2}のオリのワドルディ。\n３{r2[にん]}人{/r2} {r2[ちから]}力{/r2}を{r2[あ]}合{/r2}わせたら こんなオリだって～…\nと、がんばってみたけれど、ビクともしなくて\n{r2[いま]}今{/r2}も「わにゃ わにゃ～」と{r2[たす]}助{/r2}けを {r2[ま]}待{/r2}っています。
+AnimalWaddleDee	この{r2[せかい]}世界{/r2}に{r2[ひろ]}広{/r2}く ぶんぷする ポピュラーなビースト。\nかわいく{r2[み]}見{/r2}えても じつは なかなかワイルドで、\n{r2[め]}目{/r2}にした{r2[あいて]}相手{/r2}に ガルルッと {r2[と]}飛{/r2}びかかる。\nとくに ワドルディとは けんえんの{r2[なか]}仲{/r2}で、{r2[み]}見{/r2}つけたら\n{r2[お]}追{/r2}い{r2[まわ]}回{/r2}し、くわえて {r2[つ]}連{/r2}れさっていくという。
+TackleEnemy	{r2[おお]}大{/r2}きなツノが ごじまんの バッファルホーン。\nちょっとの こうげきでは あのとっしんは\n{r2[と]}止{/r2}められない！ ただ、{r2[じぶん]}自分{/r2}でも {r2[と]}止{/r2}まれなくって\nたまにガケから {r2[お]}落{/r2}っこちます。それでも\nがんじょうな かれは、ピンピン{r2[げんき]}元気{/r2}です。
+Turtle	コンクリートを {r2[み]}身{/r2}につけている トータロス。\n{r2[あたま]}頭{/r2}もカタイし かみつきも イタい てごわいヤツ。\nだけどボディは けっこう ナイーブ らしく、\nうまく せなかに {r2[の]}乗{/r2}ってから、ほおばりヘンケイで\nコンクリートの コウラごと アタックしちゃおう。
+TurtleBig	まさかの {r2[おお]}大{/r2}きなビルディングを {r2[み]}身{/r2}につけている\nビルドトータロス。より{r2[おお]}大{/r2}きな コウラをせおった\nものがボスで、{r2[ひろ]}広{/r2}い{r2[そうげん]}草原{/r2}で むれを たばねている。\nお{r2[みず]}水{/r2}も{r2[す]}好{/r2}きだけど、{r2[ひ]}日{/r2}なたぼっこも {r2[だいす]}大好{/r2}きで、\n{r2[たか]}高{/r2}い{r2[ところ]}所{/r2}にのぼり、そこを ナワバリにしている。
+CarshopSignboard	ホラインコーポレーションが けいえいする\n{r2[くるま]}車{/r2}をあつかう お{r2[みせ]}店{/r2}、ホラインオートカスタム。\nホラインは {r2[くるま]}車{/r2}にかぎらず、{r2[さま]}様{/r2}ざまな {r2[こうぎょう]}工業{/r2}せい{r2[ひん]}品{/r2}や\nけんせつ{r2[ぎょう]}業{/r2}も おこなう。ビルや {r2[どう]}道{/r2}ろ、さらに\nゆうえん{r2[ち]}地{/r2}の {r2[の]}乗{/r2}り{r2[もの]}物{/r2}も、ホラインせい らしい。
+CompanyBoard	ライトロンワークスカンパニーは、エレクトロや\nバイオ、うちゅう{r2[かいはつ]}開発{/r2}にまで {r2[ちから]}力{/r2}を{r2[い]}入{/r2}れ、けんきゅう\nしせつにも とうしする {r2[きょだい]}巨大{/r2}きぎょう だった。その{r2[ご]}後{/r2}\n{r2[かいしゃ]}会社{/r2}の{r2[ぶんしゃか]}分社化{/r2}が {r2[すす]}進{/r2}むと、ライバル きぎょうも ふえて\nいき、きぎょう{r2[せん]}戦{/r2}そうが かねつ していった という。
+MaxTomato	１つ{r2[た]}食{/r2}べれば {r2[たいりょくぜん]}体力全{/r2}かい、えいよう まん{r2[てん]}点{/r2}の\nマキシムトマト。この{r2[せかい]}世界{/r2}にも ナゾのうずを\n{r2[とお]}通{/r2}ってきたのか、さいしょから あったのか\nわからないが、ビースト{r2[ぐんだん]}軍団{/r2}たちも おいしく\nいただいている {r2[にんき]}人気{/r2}デザートの ようだ。
+$Multiplication	×
+MessageWindow.msbt
+CharaName_Unknown	？？？
+CharaName_SupportChara	エフィリン
+Msg_TownFirstDemo_SupportTalk_00	{[1907|00cd]}ありがとう、\nたすかったよ～！{[0004]}{[1400]}でも あの{r2[こ]}子{/r2}たちは…\n{color[ff4d2fff]}ワドルディ{color[000000ff]}たちは さらわれちゃった…。{[0004]}なんども {r2[まち]}町{/r2}をおそわれて\nみんなで たたかって いたんだけど、{[0004]}{[1400]}{[1402]}{[1902|00cd]}とうとう ボクだけに なっちゃった…。{[0004]}はやく たすけに{r2[い]}行{/r2}かなくっちゃ…
+Msg_TownFirstDemo_SupportTalk_01	えぇっ？{[1401]}{[1905|02cd]}{[1400]}\nいっしょに たすけに{r2[い]}行{/r2}ってくれるの？\nありがとう～！
+Msg_TownFirstDemo_SupportTalk_02	{[1907|00cd]}キミは… {color[ff4d2fff]}カービィ{color[000000ff]}って {r2[い]}言{/r2}うんだね。
+Msg_TownFirstDemo_SupportTalk_03	{[1907|01cd]}ボクは {color[ff4d2fff]}エフィリン{color[000000ff]}だよ！\nよろしくねっ！
+Mission.msbt
+Progress_Count	（{[0301|0000]}/{[0301|0100]}）
+Title_Secret	？？？
+Title_StageClear	ステージクリア
+Title_RescueWaddleDee	ワドルディを たすける
+Title_CollidedPopFlowerTulip	チューリップを{[0301|0000]}{r2[ほん]}本{/r2} さかせる{[030c]}
+Title_BreakShutter	ビルのシャッターを こわす
+Title_FoundBalcony	ふきだす{r2[みず]}水{/r2}にのって ビルの{r2[うえ]}上{/r2}のテラスへ
+Pause.msbt
+$ContinueBtnText	つづける
+TwoPersonPlayBtnText	{r2[ふたり]}２人{/r2}であそぶ
+OnePersonPlayBtnText	{r2[ひとり]}1人{/r2}であそぶ
+$OperationSetupBtnText	そうさせってい
+$AmiiboBtnText	{r2[アミーボ]}amiibo{/r2}
+$DifficultyBtnText	なんいどせってい
+ExitStageBtnText	ステージをでる
+$SlashText	/
+$ConfigTitle	そうさせってい
+ConfigKeyAssign_Move	いどう
+ConfigKeyAssign_Guard	しゃがみガード
+ConfigKeyAssign_Swallow	/ のみこみ
+ConfigKeyAssign_Jump	ジャンプ
+ConfigKeyAssign_Attack	こうげき
+ConfigKeyAssign_UseStockItem	ストックアイテムを\nつかう
+ConfigKeyAssign_DropAbility	のうりょくをすてる
+ConfigToggleBtn_TypeA	Aタイプ
+ConfigToggleBtn_TypeB	Bタイプ
+ConfigToggleBtn_On	{r2[オン]}ON{/r2}
+ConfigToggleBtn_Off	{r2[オフ]}OFF{/r2}
+$ConfigTogglePanel_OperationType	そうさタイプ
+$ConfigTogglePanel_AutoSwallow	オートのみこみ
+$PauseTopCloseInfoText	とじる
+$PauseDifficultySelectTitle	なんいどせってい
+ProductIntroduction.msbt
+$ProductIntroductionBackBtnText	ステージセレクトへ もどる
+$ProductIntroductionToEshopBtnText	ニンテンドーeショップへ
+DetailTitle_Town	{r2[たの]}楽{/r2}しいお{r2[みせ]}店{/r2}で いっぱいな{r2[まち]}町{/r2}
+DetailTitle_Evolution	しんかする コピーのうりょく
+DetailTitle_Story	ナゾにつつまれた {r2[しんせかい]}新世界{/r2}
+DetailExplanation_Town	おいしいカフェに {r2[たの]}楽{/r2}しいシアターに。\n{color[ff4d2fff]}ワドルディを たすける{color[000000ff]}と {r2[まち]}町{/r2}は お{r2[みせ]}店{/r2}で いっぱいに！\nカフェでは テラスで {color[ff4d2fff]}エフィリンと お{r2[しょくじ]}食事{/r2}{color[000000ff]}ができたり、\nアルバイト{r2[てんいん]}店員{/r2}になって チャレンジできる\n{color[ff4d2fff]}サブゲーム{color[000000ff]}も あそべます。
+DetailExplanation_Evolution	ワドルディのぶき{r2[や]}屋{/r2}に {color[ff4d2fff]}せっけい{r2[ず]}図{/r2}{color[000000ff]}を わたして、\nあの {color[ff4d2fff]}コピーのうりょくを しんか{color[000000ff]} させましょう！\nファイアは {r2[そら]}空{/r2}をまう {r2[ほのお]}炎{/r2}のドラゴンに、\nボムは てきをねらう さいしんロボットに。\n{color[ff4d2fff]}{r2[しんはっけん]}新発見{/r2}した のうりょく{color[000000ff]}で いざ、{r2[だい]}大{/r2}ぼうけんへ！
+DetailExplanation_Story	とつじょ あらわれた {color[ff4d2fff]}ナゾのうず{color[000000ff]}に すいこまれ、\n{r2[き]}気{/r2}がつけば フシギで いっぱいの {color[ff4d2fff]}{r2[しんせかい]}新世界{/r2}{color[000000ff]}へ！\n{r2[みどり]}緑{/r2}に おおわれたビルに こうはいした あやしい{r2[こうじょう]}工場{/r2}。\nそして、{r2[つぎ]}次{/r2}つぎと {color[ff4d2fff]}さらわれていく ワドルディたち…{color[000000ff]}\nこの{r2[せかい]}世界{/r2}で カービィを まちうける うんめいとは！？
+$ProductIntroductionTitle	「{r2[ほし]}星{/r2}のカービィ　ディスカバリー」つづきは {r2[せいひんばん]}製品版{/r2}で お{r2[たの]}楽{/r2}しみください！
+$ProductIntroductionLeftText	{r2[たの]}楽{/r2}しいお{r2[みせ]}店{/r2}で いっぱいな{r2[まち]}町{/r2}
+$ProductIntroductionCenterText	しんかする コピーのうりょく
+$ProductIntroductionRightText	ナゾにつつまれた {r2[しんせかい]}新世界{/r2}
+Resident.msbt
+$Saving	セーブ{r2[ちゅう]}中{/r2}
+Step.msbt
+$StageClearText	ステージクリア！
+ChargeGuide_DiscardAbility	のうりょくすてる
+ChargeGuide_DiscardDeform	はきだす
+HowToGuide_Inhale	ほおばる
+HowToGuide_Slide	スライディング
+Step_GuideMovie_Discard	{[0703|0300]} のうりょくすてる
+Step_GuideMovie_Inhale	{[0701|0100]} すいこむ
+Step_GuideMovie_InhaleWithAbility	{[0701|0100]} ほおばる
+Step_GuideMovie_Swallow	{[0409|6000]}/{[040a|6100]} のみこむ
+Step_GuideMovie_Jump	{[0700|0000]} ジャンプ
+Step_GuideMovie_Hover	{[0700|0000]} ホバリング
+Step_GuideMovie_Spit	{[0701|0100]} はきだす
+Step_GuideMovie_DeformCarBoost	{[0701|0100]} ターボダッシュ
+DeformGuide_Jump	ジャンプ
+DeformGuide_CarAction	ターボダッシュ
+DeformGuide_ConeAction	つきさし
+DeformGuide_VendingMachineAction	かんショット
+$Multiplication	×
+DeformGuide_Remainder_SoldOut	うりきれ
+DeformGuide_WaterTankAction	あける
+$Slash	/
+$RestartText	チェックポイント
+$HowToGuidePlusText	+
+HowToGuidePlusPointText	+
+TitleMenu.msbt
+TopBtnContinue	{r2[ひとり]}1人{/r2}で あそぶ
+TopBtnContinueP2	{r2[ふたり]}２人{/r2}で あそぶ
+TopBtnFileSelect	ファイルをえらぶ
+TopBtnGameStart	スタート
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+$TitleMenuTitle	ステージセレクト
+$TitleMenuAbilityEvolution	のうりょくしんか
+$TitleMenuEShopBtn	ニンテンドーeショップ
+$TitleMenuMoveBtn	ムービー
+$TitleMenuProductIntroductionBtn	しょうかいページ
+$Back	もどる
+$TitleMenuPresent	キーワード
+Name\AbilityName.msbt
+Kirby	カービィ
+BandanaWaddleDee	バンダナワドルディ
+Copy_Normal	ノーマル
+Copy_Bomb	ボム
+Copy_ChainBomb	チェインボム
+Copy_Cutter	カッター
+Copy_ChakramCutter	チャクラムカッター
+Copy_Ice	アイス
+Copy_FrostyIce	フロストアイス
+Copy_Sword	ソード
+Copy_GigantSword	ギガントソード
+Deform_Car	くるまほおばり
+Deform_Cone	さんかくほおばり
+Deform_VendingMachine	じはんきほおばり
+Deform_WaterTank	ドームほおばり
+Name\BossName.msbt
+GigantEdge	ワイルドエッジ
+BossGorillaPrefix	剛腕獣
+BossGorilla	ゴルルムンバ
+Name\Difficulty.msbt
+Casual	はるかぜモード
+Standard	ワイルドモード
+Name\FigureName.msbt
+KirbyNormal	カービィ
+SupportChara	エフィリン
+BandanaWaddleDee	バンダナワドルディ
+KirbyCutter	カッター
+KirbySword	ソード
+KirbyBomb	ボム
+DeformKirbyCar	くるまほおばり
+DeformKirbyCone	さんかくほおばり
+DeformKirbyWaterTank	ドームほおばり
+AnimalWaddleDee	ガルルフィ
+BrontoBurt	ブロントバート
+Shotzo	シャッツォ
+Kabu	カブー
+Cappy	キャピィ
+TackleEnemy	バッファルホーン
+BladeKnight	ブレイドナイト
+SirKibble	サーキブル
+PoppyBrosJr	ポピーブラザーズJr.
+MaxTomato	マキシムトマト
+CaptiveCage	とらわれたワドルディ
+GoalPoint	とらわれたワドルディたち
+PointStarBlue	ブルーコインスター
+DeformCar	くるま
+DeformCone	さんかくコーン
+DeformWaterTank	ちょ{r2[すい]}水{/r2}タンク
+Turtle	トータロス
+TurtleBig	ビルドトータロス
+GroupSwitch	スイッチ
+WarpStar	ワープスター
+Radio	ラジオプレイヤー
+WaddleDee	ワドルディ
+CarshopSignboard	カーショップのかんばん
+CompanyBoard	ライトロンワークスのかんばん
+Name\StageName.msbt
+Level0Stage1	はじまりの{r2[ち]}地{/r2}
+Level1Stage1	{r2[そうげん]}草原{/r2}のビルディング
+Level1Stage5	モールにひびくおたけび

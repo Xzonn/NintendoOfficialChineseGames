@@ -1,0 +1,234 @@
+AdviceWindow.msbt
+Msg_DeformWithAbility	{[1905|04cd]}看来似乎可以{color[ff4d2fff]}不舍弃{color[000000ff]}复制能力\n就使用塞满嘴呢。{[0004]}试着保持现有能力，\n按{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}吸入看看吧！
+Msg_NoticeDropStarVacuum	{[1907|00cd]}敌人发动攻击时所{color[ff4d2fff]}掉落的星星{color[000000ff]}\n似乎可以通过{color[ff4d2fff]}按{[0701|0100]}吸入后{color[000000ff]}，{color[ff4d2fff]}\n再按一次{[0701|0100]}{color[000000ff]}来吐出哦。{[0004]}没有复制能力的时候，\n就吐出掉落的星星射向敌人吧！
+Caption.msbt
+EventMoviePromotion	在正式版有更多冒险等待着你{[0004]}充满个性的复制能力尚未登场{[0004]}使用没见过的塞满嘴变形{[0004]}在被神秘包围的新世界四处前进！{[0004]}可以两人一起使用Joy-Con分享游玩！{[0004]}拯救瓦豆鲁迪后小镇便会蓬勃发展{[0004]}充满有趣商店！{[0004]}本作的复制能力会进化！{[0004]}将喜欢的复制能力提升威力吧！{[0004]}还有更多崭新的故事{[0004]}被抓走的瓦豆鲁迪们以及和同伴的相遇……{[0004]}来袭的神秘敌人野兽军团的侵略！{[0004]}卡比们可以平安无事地救出瓦豆鲁迪们{[0004]}并取回新世界的和平吗？{[0004]}最后等待着卡比的命运将是！？
+Cmn.msbt
+$HeroPanelRevivalText	复活
+$CameraResetText	重置视角
+$Back	返回
+$CmnSkipText	跳过
+$New	NEW!
+$BestScore	BEST
+$TextMission	任务
+$StandardModeClearText	{size[6400]}{color[ff4d2fff]}狂野模式{color[000000ff]}过关！{size[6400]}
+$PointStarPenaltySign	-
+$ClosingBracket	)
+$OpeningBracket	(
+$Slash	/
+$CmnVolShadowText	Vol.
+$CmnVolText	Vol.
+$CmnDifficultySelectCasual	春风\n模式
+$CmnDifficultySelectStandard	狂野\n模式
+DifficultySelectExplanationCasual	与往常一样能够轻松游玩的星之卡比。\n{color[ff4d2fff]}体力较多{color[000000ff]}，适合不擅长动作游戏的人。
+DifficultySelectExplanationStandard	稍显狂野又有挑战性的星之卡比。\n{color[ff4d2fff]}还能获得许多{color[000000ff]}{[0100|8000]}硬币星，{color[ff4d2fff]}十分推荐游玩{color[000000ff]}！
+KiloSeparator	,
+Dialog.msbt
+CornerBtn_Back	返回
+CornerBtn_Close	关闭
+Btn_Cancel	退出
+Btn_CancelForExit	取消
+Text_CannotChangeDifficultyDemo	关卡中{color[ff4d2fff]}无法更改{color[000000ff]}难易度。
+Text_ChangeDifficultyOnDead	要将难易度更改为\n可以轻松游玩的模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}吗？
+Btn_Change	更改
+Btn_NoChange	不更改
+Text_ChangeDifficultyOnClear	要将难易度更改为\n富有挑战性的动作游戏模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}吗？\n\n在此模式下通过关卡\n就能获得更多的{[0100|8000]}硬币星。
+Text_StageExit	要离开关卡吗？\n\n离开后将{color[ff4d2fff]}不会保存{color[000000ff]}已达成的任务。
+Text_StageExitSimple	要离开关卡吗？
+Btn_StageExit	离开关卡
+Text_AutoSwallowDisabled	{color[ff4d2fff]}自动吞入{color[000000ff]}已转为{color[ff4d2fff]}OFF{color[000000ff]}状态。\n\n可以通过按下{[0409|6000]}/{[040a|6100]}吞入。
+Text_ControllerErrorShortsge	目前连接中的\n{color[ff4d2fff]}手柄只有1个{color[000000ff]}。
+Text_PlayerCannotJoinAlert	目前{color[ff4d2fff]}无法更改{color[000000ff]}游玩人数。
+Text_ControllerDisconnectedError	2P的{color[ff4d2fff]}手柄连接已中断{color[000000ff]}。\n\n请连接手柄，\n再次按下{[0411|9400]}，从暂停画面进行选择。
+Text_Amiibo_NotAllowedDemo	体验版中无法使用amiibo。
+Title_StageSelect_UnlockEvolve	可以用进化的能力游玩！
+Text_StageSelect_UnlockEvolve	现在可以用已{color[ff4d2fff]}进化{color[000000ff]}的\n复制能力游玩了！\n再游玩一次关卡的话，\n{color[ff4d2fff]}可以试试{color[000000ff]}进化能力！
+Text_StageSelect_AskToChangeEvolve	现在的设定是\n“{color[ff4d2fff]}普通{color[000000ff]}”的复制能力。\n\n要进行“进化”吗？
+Text_StageSelect_ChangeEvolve	变成了已“{color[ff4d2fff]}进化{color[000000ff]}”的复制能力。
+Text_StageSelect_AskToChangeNormal	现在的设定是\n“{color[ff4d2fff]}进化{color[000000ff]}”的复制能力。\n\n要变回“普通”吗？
+Text_StageSelect_ChangeNormal	变回了“{color[ff4d2fff]}普通{color[000000ff]}”的复制能力。
+Btn_StageSelect_ChangeAbility	进行进化
+Btn_StageSelect_ChangeAbility_00	变回普通
+Title_StageSelect_UnlockPresentCode_Boss	感谢你的游玩！
+Text_StageSelect_UnlockPresentCode_Boss	感谢你游玩体验版，\n送给你{color[ff4d2fff]}礼物关键词{color[000000ff]}！\n\n礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”
+Title_StageSelect_UnlockPresentCode_Mission	给淋漓尽致的你！
+Text_StageSelect_UnlockPresentCode_Mission	感谢你{color[ff4d2fff]}淋漓尽致地{color[000000ff]}游玩体验版，\n送给你{color[ff4d2fff]}特别的{color[000000ff]}礼物关键词！\n\n礼物关键词\n“{color[ff4d2fff]}{[0310]}{color[000000ff]}”
+Text_StageSelect_PresentCode_OnlyBoss	礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以获得道具的关键词。\n在进行一段游戏后便会登场的{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}中，\n试着输入关键词吧。
+Text_StageSelect_PresentCode_BossAndMission	礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”\n“{color[ff4d2fff]}{[0310]}{color[000000ff]}”\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以获得道具的关键词。\n在进行一段游戏后便会登场的{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}中，\n试着输入关键词吧。
+PresentCode_Boss	CLEARDEMO
+PresentCode_Mission	NEWADVENTURE
+Figure.msbt
+KirbyNormal	波普之星的星之卡比，\n被出现在天空中的“神秘漩涡”所吞噬，\n醒来时发现自己已经来到了这个新世界。\n在漩涡中觉醒了神奇力量的卡比，\n将踏上变化多端，充满新发现的旅程！
+SupportChara	在这个世界相遇的神秘小家伙。\n曾为了帮助被野兽军团袭击的瓦豆鲁迪们而努力。\n为了拯救被抓走的瓦豆鲁迪们并重建小镇，\n和卡比一起踏上了旅程，\n时常给予卡比建议。
+BandanaWaddleDee	与卡比一起被神秘漩涡吞噬的头巾瓦豆鲁迪。\n得知同伴瓦豆鲁迪们被野兽军团抓走，\n家园也遭到了摧毁，在他们苦恼之际\n他拿起长枪挺身而出，成为了你的2P同伴，\n一起踏上新世界的旅程！
+WaddleDee	比卡比更早漂流到这个世界的波普之星的居民。\n他们被横行霸道的野兽军团抓走了同伴、\n抢走了食物。虽然他们对此感到苦恼……\n但仍然保持着瓦豆鲁迪的个性，\n享受着建造小镇与新的生活。
+KirbySword	戴着绿色帽子的剑之勇者\n朝着新世界前进！\n不但能斩断各种东西，还能累积威力，\n目标是成为新·世界的利剑大师！
+KirbyBomb	长按按键瞄准后丢出炸弹。\n拿了就丢，砰砰作响的烟火！\n一边跑一边丢，让炸弹在地上滚动，\n从坡道上滚啊滚地来个全倒！
+KirbyCutter	掷出嗡嗡作响的回旋刀刃吧！\n掷出后又回到手上，获得道具了。\n长按按键蓄力就会停在空中哦。\n滞空蓄力，威力也会跟着提升！
+DeformKirbyCar	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的整辆汽车塞满嘴，\n就能变形为能够使用涡轮冲刺和跳跃的粉红色汽车！\n轻声哼唱那首歌，感受风的吹拂……\n来吧，在新世界兜风吧！
+DeformKirbyCone	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的三角锥塞满嘴，\n身体就能变成尖尖的模样！\n用尖尖的头部击碎大地和水管的龟裂处吧！
+DeformKirbyWaterTank	在神秘漩涡中学会的塞满嘴变形。\n只要一口把在新世界发现的圆形巨蛋塞满嘴，\n就能用浑圆的身体包裹目标！\n紧紧包裹目标，扭扭身体，\n砰地一声打开……看，是道具！
+CaptiveCage	被野兽军团强行抓走的瓦豆鲁迪。\n同伴接二连三地被抓走，正一脸困扰地等待救援。\n没错，是不是此刻都能听到……\n从某处传来了“哇呀哇呀～”\n（放我出去、放我出去～）的求救声呢？
+GoalPoint	瓦豆鲁迪们对野兽军团而言等同功劳，\n他们被一次抓到了好几个，关在了金色的牢笼里。\n只要三人合力，这种牢笼也不在话下……\n但就算努力尝试，牢笼也纹丝不动，\n现在也还“哇呀哇呀～”地求救着，等待救援。
+AnimalWaddleDee	广泛分布于这个世界，是一种十分常见的野兽。\n外表虽然可爱，其实却相当具有野性，\n会一面低吼一面扑向所见目标。\n与瓦豆鲁迪更是水火不容，见到就穷追不舍，\n总是叼起他们扬长而去。
+TackleEnemy	以巨大的双角为傲的巴伐尔牛角。\n普通的攻击可是无法阻止他突进的！\n不过因为连他自己都刹不住脚步\n所以偶尔会发生坠落悬崖的事故。\n即便如此，强壮的他依然充满着精力。
+Turtle	背着混凝土龟壳的龟塔洛斯。\n不但头部坚硬，咬人也很疼，是个难对付的家伙。\n然而他的身体似乎相当脆弱，\n想办法爬到他背上后再使用塞满嘴变形\n连同混凝土龟壳一起攻击吧。
+TurtleBig	建筑龟塔洛斯居然将整栋高楼背在了身上。\n遵循谁背的龟壳最大，谁就是老大的规矩，\n在宽广的草原上统领着一族。\n虽然也喜欢水，但最喜欢的还是晒太阳，\n会爬到高处并将那里视为自己的地盘。
+CarshopSignboard	由何莱恩股份有限公司经营的汽车门店——\n何莱恩汽车定制门店。何莱恩除了汽车，\n还负责各种工业产品以及建筑行业。\n建筑、道路，甚至是游乐园里的设施\n似乎都是由何莱恩制造的。
+CompanyBoard	莱特隆工程公司曾经是一个庞大的企业，\n致力于电子、生物及太空探索等领域研发，\n并投资了研究设施。\n其后由于公司分裂，企业竞争也随之增加，\n最终导致了企业战争的白热化。
+MaxTomato	只要吃1个就能完全回复体力，\n营养满分的M番茄。\n虽然不知道它是否也是通过神秘漩涡而来，\n还是原本就存在于这个世界，\n但似乎是野兽军团也爱吃的人气甜点。
+$Multiplication	×
+MessageWindow.msbt
+CharaName_Unknown	？？？
+CharaName_SupportChara	艾菲灵
+Msg_TownFirstDemo_SupportTalk_00	{[1907|00cd]}谢谢你，\n真是得救了～！{[0004]}{[1400]}不过他们……\n{color[ff4d2fff]}瓦豆鲁迪{color[000000ff]}们都被抓走了……{[0004]}小镇遭到了好几次袭击，\n虽然大家一起努力反抗……{[0004]}{[1400]}{[1402]}{[1902|00cd]}可最后还是只剩下了我一个人……{[0004]}我得赶快去救他们才行……
+Msg_TownFirstDemo_SupportTalk_01	什么？{[1401]}{[1905|02cd]}{[1400]}\n你愿意跟我一起去救他们吗？\n谢谢你～！
+Msg_TownFirstDemo_SupportTalk_02	{[1907|00cd]}你叫……{color[ff4d2fff]}卡比{color[000000ff]}对吧？
+Msg_TownFirstDemo_SupportTalk_03	{[1907|01cd]}我叫{color[ff4d2fff]}艾菲灵{color[000000ff]}！\n请多关照哦！
+Mission.msbt
+Progress_Count	（{[0301|0000]}/{[0301|0100]}）
+Title_Secret	？？？
+Title_StageClear	通过关卡
+Title_RescueWaddleDee	拯救瓦豆鲁迪
+Title_CollidedPopFlowerTulip	使{[0301|0000]}朵郁金香盛开{[030c]}
+Title_BreakShutter	破坏建筑的铁卷门
+Title_FoundBalcony	乘着水柱登上建筑高处的露台
+Pause.msbt
+$ContinueBtnText	继续游戏
+TwoPersonPlayBtnText	双人游玩
+OnePersonPlayBtnText	单人游玩
+$OperationSetupBtnText	操作设置
+$AmiiboBtnText	amiibo
+$DifficultyBtnText	难易度设置
+ExitStageBtnText	离开关卡
+$SlashText	/
+$ConfigTitle	操作设置
+ConfigKeyAssign_Move	移动
+ConfigKeyAssign_Guard	蹲下防御
+ConfigKeyAssign_Swallow	/吞入
+ConfigKeyAssign_Jump	跳跃
+ConfigKeyAssign_Attack	攻击
+ConfigKeyAssign_UseStockItem	使用库存道具
+ConfigKeyAssign_DropAbility	舍弃能力
+ConfigToggleBtn_TypeA	类型A
+ConfigToggleBtn_TypeB	类型B
+ConfigToggleBtn_On	ON
+ConfigToggleBtn_Off	OFF
+$ConfigTogglePanel_OperationType	操作类型
+$ConfigTogglePanel_AutoSwallow	自动吞入
+$PauseTopCloseInfoText	关闭
+$PauseDifficultySelectTitle	难易度设置
+ProductIntroduction.msbt
+$ProductIntroductionBackBtnText	返回关卡选择
+$ProductIntroductionToEshopBtnText	前往Nintendo eShop
+DetailTitle_Town	充满有趣商店的小镇
+DetailTitle_Evolution	进化的复制能力
+DetailTitle_Story	被神秘包围的新世界
+DetailExplanation_Town	美味的咖啡店、有趣的电影院，\n{color[ff4d2fff]}拯救瓦豆鲁迪{color[000000ff]}后，小镇的设施会越来越多！\n在咖啡店的露台可以跟{color[ff4d2fff]}艾菲灵吃饭{color[000000ff]}，\n可以成为店员进行挑战，\n还可以游玩{color[ff4d2fff]}小游戏{color[000000ff]}。
+DetailExplanation_Evolution	将{color[ff4d2fff]}设计图{color[000000ff]}交给瓦豆鲁迪武器店，\n把那个{color[ff4d2fff]}复制能力{color[000000ff]}进行{color[ff4d2fff]}进化{color[000000ff]}吧！\n烈火会变成在空中飞舞的炎龙，\n炸弹会变成瞄准敌人的最新机器人。\n来吧，用{color[ff4d2fff]}新发现的能力{color[000000ff]}前往大冒险！
+DetailExplanation_Story	被突如其来的{color[ff4d2fff]}神秘漩涡{color[000000ff]}吸入，\n回过神来，已前往充满不可思议的{color[ff4d2fff]}新世界{color[000000ff]}！\n被绿意覆盖的大楼以及荒废了的可疑工厂。\n还有，一个接一个{color[ff4d2fff]}被抓走的瓦豆鲁迪们{color[000000ff]}……\n在这个世界等待着卡比的命运将是！？
+$ProductIntroductionTitle	请在《星之卡比 探索发现》正式版继续享受乐趣！
+$ProductIntroductionLeftText	充满有趣商店的小镇
+$ProductIntroductionCenterText	进化的复制能力
+$ProductIntroductionRightText	被神秘包围的新世界
+Resident.msbt
+$Saving	正在保存……
+Step.msbt
+$StageClearText	通过关卡！
+ChargeGuide_DiscardAbility	舍弃能力
+ChargeGuide_DiscardDeform	吐出
+HowToGuide_Inhale	塞满嘴
+HowToGuide_Slide	滑垒
+Step_GuideMovie_Discard	{[0703|0300]} 舍弃能力
+Step_GuideMovie_Inhale	{[0701|0100]} 吸入
+Step_GuideMovie_InhaleWithAbility	{[0701|0100]} 塞满嘴
+Step_GuideMovie_Swallow	{[0409|6000]}/{[040a|6100]} 吞入
+Step_GuideMovie_Jump	{[0700|0000]} 跳跃
+Step_GuideMovie_Hover	{[0700|0000]} 盘旋
+Step_GuideMovie_Spit	{[0701|0100]} 吐出
+Step_GuideMovie_DeformCarBoost	{[0701|0100]} 涡轮冲刺
+DeformGuide_Jump	跳跃
+DeformGuide_CarAction	涡轮冲刺
+DeformGuide_ConeAction	突刺
+DeformGuide_VendingMachineAction	罐子射击
+$Multiplication	×
+DeformGuide_Remainder_SoldOut	售完
+DeformGuide_WaterTankAction	打开
+$Slash	/
+$RestartText	检查点
+$HowToGuidePlusText	+
+HowToGuidePlusPointText	+
+TitleMenu.msbt
+TopBtnContinue	单人游玩
+TopBtnContinueP2	双人游玩
+TopBtnFileSelect	选择文件
+TopBtnGameStart	开始
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+$TitleMenuTitle	关卡选择
+$TitleMenuAbilityEvolution	能力进化
+$TitleMenuEShopBtn	Nintendo eShop
+$TitleMenuMoveBtn	影片
+$TitleMenuProductIntroductionBtn	介绍页面
+$Back	返回
+$TitleMenuPresent	关键词
+Name\AbilityName.msbt
+Kirby	卡比
+BandanaWaddleDee	头巾瓦豆鲁迪
+Copy_Normal	普通
+Copy_Bomb	炸弹
+Copy_ChainBomb	连锁炸弹
+Copy_Cutter	弯刀
+Copy_ChakramCutter	环刃弯刀
+Copy_Ice	冰冻
+Copy_FrostyIce	冰霜冰冻
+Copy_Sword	利剑
+Copy_GigantSword	庞大利剑
+Deform_Car	汽车塞满嘴
+Deform_Cone	三角锥塞满嘴
+Deform_VendingMachine	自动贩卖机塞满嘴
+Deform_WaterTank	巨蛋塞满嘴
+Name\BossName.msbt
+GigantEdge	狂野刃
+BossGorillaPrefix	刚腕兽
+BossGorilla	猩猛霸
+Name\Difficulty.msbt
+Casual	春风模式
+Standard	狂野模式
+Name\FigureName.msbt
+KirbyNormal	卡比
+SupportChara	艾菲灵
+BandanaWaddleDee	头巾瓦豆鲁迪
+KirbyCutter	弯刀
+KirbySword	利剑
+KirbyBomb	炸弹
+DeformKirbyCar	汽车塞满嘴
+DeformKirbyCone	三角锥塞满嘴
+DeformKirbyWaterTank	巨蛋塞满嘴
+AnimalWaddleDee	加鲁鲁菲
+BrontoBurt	飞翅球球
+Shotzo	黑大炮
+Kabu	石像怪
+Cappy	蘑菇怪
+TackleEnemy	巴伐尔牛角
+BladeKnight	剑骑士
+SirKibble	弯刀骑士
+PoppyBrosJr	小波比兄弟
+MaxTomato	M番茄
+CaptiveCage	被囚禁的瓦豆鲁迪
+GoalPoint	被囚禁的瓦豆鲁迪们
+PointStarBlue	蓝色硬币星
+DeformCar	汽车
+DeformCone	三角锥
+DeformWaterTank	储水槽
+Turtle	龟塔洛斯
+TurtleBig	建筑龟塔洛斯
+GroupSwitch	开关
+WarpStar	传送之星
+Radio	收录音机
+WaddleDee	瓦豆鲁迪
+CarshopSignboard	汽车商店的看板
+CompanyBoard	莱特隆工程的看板
+Name\StageName.msbt
+Level0Stage1	初始之地
+Level1Stage1	草原建筑
+Level1Stage5	在购物中心回响的吼声

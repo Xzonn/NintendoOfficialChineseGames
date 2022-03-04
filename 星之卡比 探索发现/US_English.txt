@@ -1,0 +1,234 @@
+AdviceWindow.msbt
+Msg_DeformWithAbility	{[1905|04cd]}Ooh! It looks like you can inhale this big object\nwithout {color[ff4d2fff]}dropping {color[000000ff]}your current Copy Ability...{[0004]}Approach the object, then press {color[ff4d2fff]}{[0701|0100]} {color[000000ff]}to give it a try!
+Msg_NoticeDropStarVacuum	{[1907|00cd]}See the {color[ff4d2fff]}stars{color[000000ff]} that keep popping up? You can use {color[ff4d2fff]}{[0701|0100]}\nto inhale them{color[000000ff]}, then spit 'em back out with {color[ff4d2fff]}{[0701|0100]} again{color[000000ff]}!{[0004]}If you don't have a Copy Ability handy, try to spit\nthose stars back at the enemy. That'll show 'em!
+Caption.msbt
+EventMoviePromotion	More adventures await in the full release!{[0004]}You can use many unique Copy Abilities...{[0004]}and all-new Mouthful Modes...{[0004]}to explore a mysterious new world!{[0004]}Share a Joy-Con with a friend for co-op play!{[0004]}Help rebuild Waddle Dee Town...{[0004]}and fill it with fun shops and activities!{[0004]}Discover new ways to evolve your Copy Abilities...{[0004]}and make them even more powerful!{[0004]}Experience an exciting, all-new story!{[0004]}Meet new friends, rescue abducted Waddle Dees...{[0004]}and battle an invasion of ferocious foes: the Beast Pack!{[0004]}Will Kirby rescue all of the Waddle Dees?{[0004]}Can he restore peace to this new world?!{[0004]}Find out what fate has in store for Kirby and his friends!
+Cmn.msbt
+$HeroPanelRevivalText	Revive
+$CameraResetText	Reset Camera
+$Back	Back
+$CmnSkipText	Skip
+$New	NEW!
+$BestScore	BEST
+$TextMission	Missions
+$StandardModeClearText	{size[6400]}Cleared in\n{color[ff4d2fff]}Wild Mode{color[000000ff]}!{size[6400]}
+$PointStarPenaltySign	-
+$ClosingBracket	)
+$OpeningBracket	(
+$Slash	/
+$CmnVolShadowText	Vol.
+$CmnVolText	Vol.
+$CmnDifficultySelectCasual	Spring-\nBreeze\nMode
+$CmnDifficultySelectStandard	Wild\nMode
+DifficultySelectExplanationCasual	A Kirby game that's simple to play!\nYou'll have {color[ff4d2fff]}a lot of health{color[000000ff]} for this adventure.\nPerfect for those who are new to action games.
+DifficultySelectExplanationStandard	A Kirby game that's a bit wilder and more challenging.\nThis adventure will be tough at times, but you'll collect\n{color[ff4d2fff]}a lot of {[0100|8000]} Star Coins{color[000000ff]} as rewards!
+KiloSeparator	,
+Dialog.msbt
+CornerBtn_Back	Back
+CornerBtn_Close	Close
+Btn_Cancel	Cancel
+Btn_CancelForExit	Cancel
+Text_CannotChangeDifficultyDemo	You {color[ff4d2fff]}cannot change{color[000000ff]} the difficulty while you\nare playing a stage.
+Text_ChangeDifficultyOnDead	That last section looked tough!\nWould you like to change the\ndifficulty to {color[ff4d2fff]}{[030b]}{color[000000ff]}?
+Btn_Change	Change
+Btn_NoChange	Don't change
+Text_ChangeDifficultyOnClear	That last section seemed like a breeze!\nWould you like to change the difficulty to\n{color[ff4d2fff]}{[030b]}{color[000000ff]}?\n\nClearing stages under this more difficult\nmode will earn you more {[0100|8000]} Star Coins!
+Text_StageExit	Exit this stage?\n\nCompleted missions {color[ff4d2fff]}will not be saved{color[000000ff]}.
+Text_StageExitSimple	Exit this stage?
+Btn_StageExit	Exit
+Text_AutoSwallowDisabled	{color[ff4d2fff]}Auto Swallow {color[000000ff]}is turned{color[ff4d2fff]} OFF{color[000000ff]}.\n\nTo swallow objects, press {[0409|6000]}/{[040a|6100]}.
+Text_ControllerErrorShortsge	Only {color[ff4d2fff]}one controller {color[000000ff]}is currently{color[ff4d2fff]} connected{color[000000ff]}.
+Text_PlayerCannotJoinAlert	The number of players {color[ff4d2fff]}can't be changed{color[000000ff]}\nright now.
+Text_ControllerDisconnectedError	{color[ff4d2fff]}P2's controller{color[000000ff]} has been {color[ff4d2fff]}disconnected{color[000000ff]}.\n\nConnect a second controller, then select\nPlay Co-op from the {[0411|9400]} pause menu again.
+Text_Amiibo_NotAllowedDemo	You cannot use amiibo in the\ndemo version.
+Title_StageSelect_UnlockEvolve	Play with evolved abilities!
+Text_StageSelect_UnlockEvolve	You can now use {color[ff4d2fff]}evolved{color[000000ff]} Copy Abilities!\nPlay through any stage again to take your\nnewly evolved abilities for a {color[ff4d2fff]}test run{color[000000ff]}.
+Text_StageSelect_AskToChangeEvolve	Your Copy Abilities are currently\nset to {color[ff4d2fff]}normal{color[000000ff]}.\n\nWould you like to evolve them?
+Text_StageSelect_ChangeEvolve	Your Copy Abilities will now be {color[ff4d2fff]}evolved{color[000000ff]}.
+Text_StageSelect_AskToChangeNormal	Your Copy Abilities are currently {color[ff4d2fff]}evolved{color[000000ff]}.\n\nWould you like to change them back to\ntheir normal forms?
+Text_StageSelect_ChangeNormal	Your Copy Abilities will now be in their\n{color[ff4d2fff]}normal{color[000000ff]} forms.
+Btn_StageSelect_ChangeAbility	Evolve
+Btn_StageSelect_ChangeAbility_00	Change back
+Title_StageSelect_UnlockPresentCode_Boss	Thank you for playing!
+Text_StageSelect_UnlockPresentCode_Boss	As a prize for playing the demo version,\nyou've earned a {color[ff4d2fff]}Present Code{color[000000ff]}!\n\n"{color[ff4d2fff]}{[030f]}{color[000000ff]}"
+Title_StageSelect_UnlockPresentCode_Mission	An extra gift for\ngoing all out!
+Text_StageSelect_UnlockPresentCode_Mission	As a reward for going {color[ff4d2fff]}all out {color[000000ff]}in this\ndemo version, you've earned an\n{color[ff4d2fff]}extra-special {color[000000ff]}Present Code!\n\n"{color[ff4d2fff]}{[0310]}{color[000000ff]}"
+Text_StageSelect_PresentCode_OnlyBoss	"{color[ff4d2fff]}{[030f]}{color[000000ff]}"\n\nYou can use this Present Code to get extra\nitems in the {color[ff4d2fff]}release version{color[000000ff]}! Just enter the\ncode at {color[ff4d2fff]}Waddle Dee-liveries{color[000000ff]}, which will\nopen as you progress through the story.
+Text_StageSelect_PresentCode_BossAndMission	"{color[ff4d2fff]}{[030f]}{color[000000ff]}"\n"{color[ff4d2fff]}{[0310]}{color[000000ff]}"\n\nYou can use these Present Codes to\nget extra items in the {color[ff4d2fff]}release version{color[000000ff]}!\nEnter both codes at {color[ff4d2fff]}Waddle Dee-liveries{color[000000ff]},\nwhich will open as you progress\nthrough the story.
+PresentCode_Boss	CLEARDEMO
+PresentCode_Mission	NEWADVENTURE
+Figure.msbt
+KirbyNormal	Kirby was pulled into a mysterious vortex that\nappeared in the sky over his home on Planet\nPopstar. When he woke up, he was in a new\nworld! Traveling through that vortex also gave\nKirby a new and mysterious power... Let's see\nwhat it can do! Onward to adventure!
+SupportChara	A mystical new friend you met in a mysterious\nnew world. You found Elfilin as he was trying\nto save the Waddle Dees from the Beast Pack.\nHe seems happy to be Kirby's guide, sharing\nhelpful advice to save the Waddle Dees and\nrebuild their town. Thanks, Elfilin!
+BandanaWaddleDee	Bandana Waddle Dee was pulled through the\nvortex along with Kirby. When he heard that\nhis fellow Waddle Dees were being captured\nby the Beast Pack, he grabbed his trusty\nspear and ran to help! He can join you as P2\nwhile you explore the new world.
+WaddleDee	These Dee-lightful residents of Planet Popstar\nlanded in the new world before Kirby arrived.\nThings looked grim when wild beasts began to\ncapture them and steal their precious food...\nbut with Kirby's help, they're rebuilding their\ntown and starting over!
+KirbySword	Slice through this new world as a sword-\nwielding, green-hatted hero! Try charging up\nbefore you swing for extra power. Train hard,\nand become this world's new sword master!
+KirbyBomb	Hold down the button to aim and throw.\nGot it? Hold, aim, throw! Throw, hit, BOOM!\nYou can run and throw them too, or roll them\nahead of you to get an explosive strike!
+KirbyCutter	Swish! Sling that sharp-edged boomerang!\nUse it to grab far-off items. Hold the button\ndown to freeze it in midair and charge it up.\nThat will make it extra powerful! Swish!
+DeformKirbyCar	Kirby gained the mysterious Mouthful Mode\nability after he flew through that vortex...\nNow he can stuff an entire car into his mouth!\nWhen he does, he turns into a peppy, pink car\nthat can jump and use Turbo Dash. It's a nice\nday for a scenic drive. Turn up the radio!
+DeformKirbyCone	Kirby gained the mysterious Mouthful Mode\nability after he flew through that vortex...\nNow he can stuff an entire cone into his\nmouth! Use your pointy head to jab below\nyou and bust open cracks in the ground or\non pipes. You're out of cone-trol, Kirby!
+DeformKirbyWaterTank	Kirby gained the mysterious Mouthful Mode\nability after he flew through that vortex...\nNow he can stuff an entire dome into his\nmouth! Wrap around one of these, then twist\nuntil it pops open. Think there's anything\ngood inside? Only one way to find out!
+CaptiveCage	One of the Waddle Dees being held captive by\nthe fearsome Beast Pack. There are so many\nout there waiting to be saved. You can\nalmost hear them calling for help... "Wa-wa!\nWa-wa!" Let me out, let me out! Wait, you\nhear that too? One of them must be nearby!
+GoalPoint	The Beast Pack managed to catch these three\nWaddle Dees with one golden cage! If they\nwork together, they might be able to... Oh.\nNever mind. They're too sad to move. All they\ncan do is cry out for help. "Wa-wa, wa-wa!"\nSomebody save them!
+AnimalWaddleDee	A common beast that can be found all over\nthe new world. They're pretty cute, but they\nhave a dangerous wild side. They'll growl and\njump at anyone who crosses them! A whole\nbunch of these critters attacked the Waddle\nDees. Funny, you'd think they'd get along!
+TackleEnemy	Behold! It's the brutal, brutish Buffahorn!\nWeak attacks won't stand a chance against\nthis critter's forward tackle. Good thing they\nhave a hard time stopping! If you're careful,\nyou can trick them into running off cliffs.\nThey'll be OK down there. They're real tough.
+Turtle	Tortorner has a whole shell made of concrete,\nas if it walked off with somebody's sidewalk!\nIt has a thick skull and a mean bite, but its\nbody is pretty delicate. A Mouthful Mode\nability might help you crack through its shell\nand land a brutal blow from above!
+TurtleBig	Whoa! Tortuilding's shell is a whole building!\nThis big baddie must be some kind of boss\nfor the smaller beasts. It enjoys basking in\nthe sun, so it climbs to high spots and claims\nthe whole area as its territory. (It must take a\nlong time for this critter to get up there...)
+CarshopSignboard	This logo belonged to an auto shop named\nHoline Custom Autos—part of Holine Corp.\nHoline also sold industrial parts, managed\nconstruction, and made all kinds of stuff.\nFrom buildings to streets to amusement-park\nrides, remember: if it's quality, it's Holine!\nErr, perhaps "it was" would be more accurate.
+CompanyBoard	The Lightron Works Company was a massive\ncorporation that invested in research and\ndevelopment within all kinds of fields: electro,\nbio, astro, and more! Lightron eventually split\nup, giving rise to many rival companies and\ncountless heated corporate battles.
+MaxTomato	If your health is low, just eat a Maxim Tomato\nto fully heal yourself. (They're packed with\nnutrients!) Did these fall through the same\nvortex as Kirby and his friends, or were they\nin the new world already? It's hard to tell,\nbut everyone seems to enjoy them—even the\nBeast Pack!
+$Multiplication	×
+MessageWindow.msbt
+CharaName_Unknown	???
+CharaName_SupportChara	Elfilin
+Msg_TownFirstDemo_SupportTalk_00	{[1907|00cd]}Phew! You saved me! Thank you...{[0004]}{[1400]}But what about those other guys, the {color[ff4d2fff]}Waddle Dees{color[000000ff]}?\nThey were all captured! And taken away!{[0004]}We fought those beasts as hard as we could, but\nthey kept coming back for more.{[0004]}{[1400]}{[1402]}{[1902|00cd]}Now I'm the only one left...{[0004]}I have to go save them. I have to!
+Msg_TownFirstDemo_SupportTalk_01	What? {[1401]}{[1905|02cd]}{[1400]}You'll help me save everyone? That's great!
+Msg_TownFirstDemo_SupportTalk_02	{[1907|00cd]}So...your name is{color[ff4d2fff]} Kirby{color[000000ff]}?
+Msg_TownFirstDemo_SupportTalk_03	{[1907|01cd]}I'm {color[ff4d2fff]}Elfilin{color[000000ff]}! Nice to meet you!
+Mission.msbt
+Progress_Count	({[0301|0000]}/{[0301|0100]})
+Title_Secret	???
+Title_StageClear	Clear the stage
+Title_RescueWaddleDee	Save the hidden Waddle Dees
+Title_CollidedPopFlowerTulip	Make {[0301|0000]} tulips bloom {[030c]}
+Title_BreakShutter	Break the building's shutter
+Title_FoundBalcony	Ride the spewing water up to the balcony
+Pause.msbt
+$ContinueBtnText	Continue
+TwoPersonPlayBtnText	Play Co-op
+OnePersonPlayBtnText	Play Solo
+$OperationSetupBtnText	Control Settings
+$AmiiboBtnText	amiibo
+$DifficultyBtnText	Change Difficulty
+ExitStageBtnText	Exit Stage
+$SlashText	/
+$ConfigTitle	Control Settings
+ConfigKeyAssign_Move	Move
+ConfigKeyAssign_Guard	Crouch Guard
+ConfigKeyAssign_Swallow	/ Swallow
+ConfigKeyAssign_Jump	Jump
+ConfigKeyAssign_Attack	Attack
+ConfigKeyAssign_UseStockItem	Use Stock Items
+ConfigKeyAssign_DropAbility	Drop Ability
+ConfigToggleBtn_TypeA	Type A
+ConfigToggleBtn_TypeB	Type B
+ConfigToggleBtn_On	ON
+ConfigToggleBtn_Off	OFF
+$ConfigTogglePanel_OperationType	Control Type
+$ConfigTogglePanel_AutoSwallow	Auto Swallow
+$PauseTopCloseInfoText	Close
+$PauseDifficultySelectTitle	Difficulty
+ProductIntroduction.msbt
+$ProductIntroductionBackBtnText	Return to stage selection
+$ProductIntroductionToEshopBtnText	Nintendo eShop
+DetailTitle_Town	A Town with Lots to Do
+DetailTitle_Evolution	Evolve Your Copy Abilities
+DetailTitle_Story	A New World of Mysteries
+DetailExplanation_Town	As you {color[ff4d2fff]}rescue more Waddle Dees{color[000000ff]}, more parts\nof their town will be rebuilt! Watch movies at\nthe cinema. {color[ff4d2fff]}Enjoy a quiet meal with Elfilin {color[000000ff]}at\nthe café. You can even get a part-time gig and\nplay challenging {color[ff4d2fff]}minigames{color[000000ff]}!
+DetailExplanation_Evolution	Find {color[ff4d2fff]}blueprints{color[000000ff]}, and use them to {color[ff4d2fff]}evolve your\nCopy Abilities{color[000000ff]} at Waddle Dee's Weapons Shop!\nSoar through the air as a fire-breathing dragon.\nTurn bombs into enemy-seeking drones. There\nare all kinds of {color[ff4d2fff]}new abilities to discover{color[000000ff]}!
+DetailExplanation_Story	After Kirby is pulled through a {color[ff4d2fff]}mysterious\nvortex{color[000000ff]}, he finds himself in unfamiliar territory.\nCities reclaimed by nature! Crumbling factories!\n{color[ff4d2fff]}Waddle Dees being abducted{color[000000ff]} by the bunch!\nWhat else awaits Kirby in this {color[ff4d2fff]}new world{color[000000ff]}?!
+$ProductIntroductionTitle	The adventure continues in the release\nversion of Kirby and the Forgotten Land!
+$ProductIntroductionLeftText	A Town with Lots to Do
+$ProductIntroductionCenterText	Evolve Your Copy Abilities
+$ProductIntroductionRightText	A New World of Mysteries
+Resident.msbt
+$Saving	Saving...
+Step.msbt
+$StageClearText	Stage Cleared!
+ChargeGuide_DiscardAbility	Drop Ability
+ChargeGuide_DiscardDeform	Spit
+HowToGuide_Inhale	Mouthful
+HowToGuide_Slide	Slide
+Step_GuideMovie_Discard	{[0703|0300]} Drop Ability
+Step_GuideMovie_Inhale	{[0701|0100]} Inhale
+Step_GuideMovie_InhaleWithAbility	{[0701|0100]} Mouthful
+Step_GuideMovie_Swallow	{[0409|6000]}/{[040a|6100]} Swallow
+Step_GuideMovie_Jump	{[0700|0000]} Jump
+Step_GuideMovie_Hover	{[0700|0000]} Hover
+Step_GuideMovie_Spit	{[0701|0100]} Spit
+Step_GuideMovie_DeformCarBoost	{[0701|0100]} Turbo Dash
+DeformGuide_Jump	Jump
+DeformGuide_CarAction	Turbo Dash
+DeformGuide_ConeAction	Spike Downward
+DeformGuide_VendingMachineAction	Soda Shot
+$Multiplication	x
+DeformGuide_Remainder_SoldOut	Sold Out
+DeformGuide_WaterTankAction	Open
+$Slash	/
+$RestartText	Checkpoint
+$HowToGuidePlusText	+
+HowToGuidePlusPointText	+
+TitleMenu.msbt
+TopBtnContinue	Play Solo
+TopBtnContinueP2	Play Co-op
+TopBtnFileSelect	Select File
+TopBtnGameStart	Start
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+$TitleMenuTitle	Stage Select
+$TitleMenuAbilityEvolution	Evolve/Revert Abilities
+$TitleMenuEShopBtn	Nintendo eShop
+$TitleMenuMoveBtn	Watch Movie
+$TitleMenuProductIntroductionBtn	Product Info
+$Back	Back
+$TitleMenuPresent	Present Codes
+Name\AbilityName.msbt
+Kirby	Kirby
+BandanaWaddleDee	Bandana Waddle Dee
+Copy_Normal	Normal
+Copy_Bomb	Bomb
+Copy_ChainBomb	Chain Bomb
+Copy_Cutter	Cutter
+Copy_ChakramCutter	Chakram Cutter
+Copy_Ice	Ice
+Copy_FrostyIce	Frosty Ice
+Copy_Sword	Sword
+Copy_GigantSword	Gigant Sword
+Deform_Car	Car Mouth
+Deform_Cone	Cone Mouth
+Deform_VendingMachine	Vending Mouth
+Deform_WaterTank	Dome Mouth
+Name\BossName.msbt
+GigantEdge	Wild Edge
+BossGorillaPrefix	Strong-Armed Beast
+BossGorilla	Gorimondo
+Name\Difficulty.msbt
+Casual	Spring-Breeze Mode
+Standard	Wild Mode
+Name\FigureName.msbt
+KirbyNormal	Kirby
+SupportChara	Elfilin
+BandanaWaddleDee	Bandana Waddle Dee
+KirbyCutter	Cutter
+KirbySword	Sword
+KirbyBomb	Bomb
+DeformKirbyCar	Car-Mouth Kirby
+DeformKirbyCone	Cone-Mouth Kirby
+DeformKirbyWaterTank	Dome-Mouth Kirby
+AnimalWaddleDee	Awoofy
+BrontoBurt	Bronto Burt
+Shotzo	Shotzo
+Kabu	Kabu
+Cappy	Cappy
+TackleEnemy	Buffahorn
+BladeKnight	Blade Knight
+SirKibble	Sir Kibble
+PoppyBrosJr	Poppy Bros. Jr.
+MaxTomato	Maxim Tomato
+CaptiveCage	Captured\nWaddle Dee
+GoalPoint	Captured\nWaddle Dees
+PointStarBlue	Blue Star Coin
+DeformCar	Car
+DeformCone	Traffic Cone
+DeformWaterTank	Water Tank
+Turtle	Tortorner
+TurtleBig	Tortuilding
+GroupSwitch	Switch
+WarpStar	Warp Star
+Radio	Radio
+WaddleDee	Waddle Dee
+CarshopSignboard	Car-Shop Sign
+CompanyBoard	Lightron Works Sign
+Name\StageName.msbt
+Level0Stage1	Point of Arrival
+Level1Stage1	Downtown Grassland
+Level1Stage5	The Brawl at the Mall

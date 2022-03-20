@@ -7457,6 +7457,8 @@ trad_chinese_dp_scenario2.txt
 29-msg_d05r0114_doctor_03	那麼，\t\t！\t我期待著\t\t的寶可夢圖鑑喔！\t前往之前還沒去過的地方，\t應該還能遇到從沒見過的寶可夢！
 29-msg_d05r0114_heroine_02	話說回來……\t剛才的寶可夢真是驚人呢。\t牠會不會就是傳說中\t創造了神奧地區的寶可夢啊……
 29-msg_d05r0114_hero_02	話說回來……\t剛才的寶可夢好驚人！\t牠會不會就是傳說中，\t創造了神奧地區的寶可夢啊……
+30-msg_d05r0116_sppoke6_01	嘟嘟啾嗯～！！
+30-msg_d05r0116_sppoke6_02	阿爾宙斯消失不見了……
 31-msg_r208_fighter_01	……什麼都別說，\t把這個拿去吧！
 31-msg_r208_fighter_02	前去２０９號道路！\t並前去地下大洞窟！\t傾聽石塔的聲音！\t到地下傾聽人們的聲音！
 31-msg_r208_sign1_01	這裡是２０８號道路\t天冠山
@@ -10107,6 +10109,10 @@ trad_chinese_dp_scenario3.txt
 91-msg_common_report_10	再次寫入紀錄中，\t請勿關閉電源。
 91-msg_common_pc_heal_11	早安！這裡是寶可夢中心。\t在這裡可以為寶可夢回復體力。\t要讓您的寶可夢休息一下嗎？
 91-msg_common_pc_heal_12	您好！這裡是寶可夢中心。\t在這裡可以為寶可夢回復體力。\t要讓您的寶可夢休息一下嗎？
+91-msg_tenkai_01	\t持有的天界之笛\t發出了聲音。\t要吹奏天界之笛嗎？
+91-msg_tenkai_02	\t吹奏了天界之笛。
+91-msg_tenkai_03	出現了光之階梯！
+91-msg_tenkai_04	天界之笛的笛聲空虛地迴響著……\t在這裡使用似乎沒有意義……
 91-msg_event_item_get_07	\t把\t<color=#0064FFFF>\t\t</color>\t\t放入了\t\t口袋。
 91-msg_goods_get_03	\t被送進\t秘密基地了！
 92-msg_hyouka_doctor_01	哦哦，\t\t！\t\t是來讓我驗收寶可夢圖鑑的吧！
@@ -25654,6 +25660,7 @@ ITEMINFO_451	湖畔高級旅館的房間鑰匙。\t不知為何老是搞丟。
 ITEMINFO_452	來自大木博士的信。\t上面寫著請來\t２２４號道路。
 ITEMINFO_453	散發著月輝般光芒的羽毛。\t據說隱藏著可以驅除\t惡夢的力量。
 ITEMINFO_454	可以進入水脈市旅館的卡片。\t不知為何，上面刻有\t５０年前左右的日期。
+ITEMINFO_455	能發出響徹雲霄的\t天籟之音的笛子。不知是什麼人\t在什麼時候製造了它。
 ITEMINFO_456	乘坐高速船水流號時\t所需的船票。\t上面繪有船的圖案。
 ITEMINFO_457	拿著它就可以參加\t寶可夢華麗大賽。\t上面印有紀念獎章。
 ITEMINFO_458	被灼熱熔岩熔化的岩石\t凝固後形成的產物。\t裡面還留有熔岩。
@@ -27277,6 +27284,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石
@@ -28900,6 +28908,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石
@@ -30523,6 +30532,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石
@@ -32146,6 +32156,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石
@@ -33769,6 +33780,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石
@@ -35392,6 +35404,7 @@ ITEMNAME_451	房間鑰匙
 ITEMNAME_452	大木的信
 ITEMNAME_453	新月之羽
 ITEMNAME_454	會員卡
+ITEMNAME_455	天界之笛
 ITEMNAME_456	船票
 ITEMNAME_457	華麗大賽參加證
 ITEMNAME_458	火山鎮石

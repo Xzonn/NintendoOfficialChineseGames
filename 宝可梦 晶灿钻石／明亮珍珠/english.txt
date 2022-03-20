@@ -7457,6 +7457,8 @@ english_dp_scenario2.txt
 29-msg_d05r0114_doctor_03	\t, I’ll be looking forward to\tseeing your Pokédex. Go places you’ve never\tvisited before.\tThat way, you should encounter Pokémon you\thaven’t yet seen.
 29-msg_d05r0114_heroine_02	You know, that Pokémon really was extraordinary,\twasn’t it?\tWas it really the Pokémon that created the\tSinnoh region...?
 29-msg_d05r0114_hero_02	You know, that Pokémon really was extraordinary,\twasn’t it?\tWas it really the Pokémon that created the\tSinnoh region...?
+30-msg_d05r0116_sppoke6_01	Dodogyuuun!
+30-msg_d05r0116_sppoke6_02	Arceus disappeared from sight...
 31-msg_r208_fighter_01	Don’t say a word. Just take it.
 31-msg_r208_fighter_02	Go to Route 209! Head to the Grand\tUnderground! Listen to the stone pillar!\tTalk to spelunkers!
 31-msg_r208_sign1_01	Route 208\tMount Coronet
@@ -10107,6 +10109,10 @@ english_dp_scenario3.txt
 91-msg_common_report_10	Saving the game again...\tDon’t turn off the power.
 91-msg_common_pc_heal_11	Good morning! Welcome to the Pokémon Center.\tWe restore your tired Pokémon to full health.\tWould you like to rest your Pokémon?
 91-msg_common_pc_heal_12	Hello, and welcome to the Pokémon Center.\tWe restore your tired Pokémon to full health.\tWould you like to rest your Pokémon?
+91-msg_tenkai_01	Your Azure Flute is making a sound. Would you\tlike to play the Azure Flute?
+91-msg_tenkai_02	You played the Azure Flute.
+91-msg_tenkai_03	A glowing stairway appeared!
+91-msg_tenkai_04	The Azure Flute echoed hollowly... It appears to\tbe useless here.
 91-msg_event_item_get_07	You put \t</color>\t\t\t in\t</color>\t\tyour Bag’s \t</color>\t\t</color>\t pocket.
 91-msg_goods_get_03	The \t\t was sent\tto your Secret Base!
 92-msg_hyouka_doctor_01	Ah, \t\t!\tYou’ve come to show me the progress you’ve\tmade on your Pokédex?
@@ -25654,6 +25660,7 @@ ITEMINFO_451	A key to one of the suites at a certain luxury hotel\tby a lake. Fo
 ITEMINFO_452	A letter from Professor Oak. Written in it is a\trequest for you to go to Route 224.
 ITEMINFO_453	A feather that glows like the moon. It’s said to\tpossess the power to dispel nightmares.
 ITEMINFO_454	A card needed for entering the inn in Canalave City.\tOddly, the last date marked on it was\t50 years ago.
+ITEMINFO_455	A flute that puts out echoing sounds that do not\tseem to be of this world. No one knows who\tmade it.
 ITEMINFO_456	A ticket required for sailing on the ferry S.S. Aqua.\tIt has a drawing of a ship on its front.
 ITEMINFO_457	A pass required for entering Pokémon Contests.\tIt has a drawing of an award ribbon on its front.
 ITEMINFO_458	A stone formed by boulders melting in intensely hot\tmagma, then hardening. Magma remains sealed\tinside it.
@@ -27277,6 +27284,7 @@ ITEMNAME_451	Suite Key
 ITEMNAME_452	Oak’s Letter
 ITEMNAME_453	Lunar Feather
 ITEMNAME_454	Member Card
+ITEMNAME_455	Azure Flute
 ITEMNAME_456	S.S. Ticket
 ITEMNAME_457	Contest Pass
 ITEMNAME_458	Magma Stone
@@ -28900,6 +28908,7 @@ ITEMNAME_451	Suite Key
 ITEMNAME_452	Oak’s Letter
 ITEMNAME_453	Lunar Feather
 ITEMNAME_454	Member Card
+ITEMNAME_455	Azure Flute
 ITEMNAME_456	S.S. Ticket
 ITEMNAME_457	Contest Pass
 ITEMNAME_458	Magma Stone
@@ -30523,6 +30532,7 @@ ITEMNAME_451	Suite Key
 ITEMNAME_452	Oak’s Letter
 ITEMNAME_453	Lunar Feather
 ITEMNAME_454	Member Card
+ITEMNAME_455	Azure Flute
 ITEMNAME_456	S.S. Ticket
 ITEMNAME_457	Contest Pass
 ITEMNAME_458	Magma Stone
@@ -32146,6 +32156,7 @@ ITEMNAME_451	Suite Key
 ITEMNAME_452	Oak’s Letter
 ITEMNAME_453	Lunar Feather
 ITEMNAME_454	Member Card
+ITEMNAME_455	Azure Flute
 ITEMNAME_456	S.S. Ticket
 ITEMNAME_457	Contest Pass
 ITEMNAME_458	Magma Stone
@@ -33769,6 +33780,7 @@ ITEMNAME_451	Suite Keys
 ITEMNAME_452	Oak’s Letters
 ITEMNAME_453	Lunar Feathers
 ITEMNAME_454	Member Cards
+ITEMNAME_455	Azure Flutes
 ITEMNAME_456	S.S. Tickets
 ITEMNAME_457	Contest Passes
 ITEMNAME_458	Magma Stones
@@ -35392,6 +35404,7 @@ ITEMNAME_451	Suite Keys
 ITEMNAME_452	Oak’s Letters
 ITEMNAME_453	Lunar Feathers
 ITEMNAME_454	Member Cards
+ITEMNAME_455	Azure Flutes
 ITEMNAME_456	S.S. Tickets
 ITEMNAME_457	Contest Passes
 ITEMNAME_458	Magma Stones

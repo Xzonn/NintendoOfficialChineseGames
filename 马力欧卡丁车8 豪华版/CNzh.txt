@@ -1,4 +1,4 @@
-\Common.msbt
+Common.msbt
 1001	马力欧
 1002	路易吉
 1003	桃花公主
@@ -187,6 +187,7 @@
 1465	Ｎ64
 1466	SFC
 1467	GC
+1468	Tour
 1481	瓦力欧矿山
 1482	越野摩托
 1483	龙盘之路
@@ -267,13 +268,41 @@
 11506	对战竞技场
 11507	龙之道场
 11508	空中甜点王国
-\DLC.msbt
+11601	强力杯
+11602	招财猫杯
+11603	大头菜杯
+11604	螺旋桨杯
+11605	滚滚石杯
+11606	月亮杯
+11607	水果杯
+11608	回旋镖杯
+11609	羽毛杯
+11610	樱桃杯
+11611	橡栗杯
+11612	刺刺龟杯
+11701	巴黎兜风
+11702	奇诺比奥赛道
+11703	巧克力山
+11704	椰子广场
+11705	东京赛道
+11706	蘑菇山脊路
+11707	空中花园
+11708	忍者道场
+11801	巴黎兜风
+11802	奇诺比奥赛道
+11803	巧克力山
+11804	椰子广场
+11805	东京赛道
+11806	蘑菇山脊路
+11807	空中花园
+11808	忍者道场
+DLC.msbt
 6201	请选择全球/区域对战时的\n赛道设置。
 6202	请选择在大厅对战时的\n赛道设置。
 6203	赛道
 6301	通过amiibo接收Mii赛手服吧。
 6302	请用amiibo触碰NFC区域。
-6303	请将飞行模式设置为OFF。\n\n可以通过快速设置（长按\ue073）来更改。
+6303	请将飞行模式设置为OFF。\n\n可以通过快速设置（长按）来更改。
 6321	你得到了新的Mii赛手服！
 6322	此amiibo不对应\n《马力欧卡丁车8 豪华版》。
 6323	无法读取。\n\n此物品可能不是amiibo。
@@ -320,17 +349,22 @@
 6469	吃豆人赛手服
 6470	索尼克赛手服
 6471	Splat赛手服
-\Menu.msbt
+Menu.msbt
 2001	OK
 2002	返回
 2003	是
 2004	否
 2005	取消
+2006	确定
+2010	此杯赛尚未发布。\n预定2023年底发布。\n\n详情请查看《马力欧卡丁车8 豪华版》的官方网站。
+2011	购买“新增赛道通行证”或是\n加入“Nintendo Switch Online + 扩展包”，\n就可以游玩新的杯赛。\n\n详情请查看《马力欧卡丁车8 豪华版》的官方网站。
+2012	只要成员中有一人持有“新增赛道通行证”或是\n已加入“Nintendo Switch Online + 扩展包”，\n就可以游玩新的杯赛。
+2013	因为有成员持有“新增赛道通行证”或是\n已加入“Nintendo Switch Online + 扩展包”，\n所以可以游玩新的杯赛！
 2052	Press  to start
-2053	在想要使用的手柄上请按\ue042。
-2054	\ue042加入！
+2053	在想要使用的手柄上请按。
+2054	加入！
 2055	Ready！
-2056	\ue001\ue002\ue003\ue004\ue005\ue006\n\ue040\ue041\ue042\ue043\ue044\ue045\ue046\n\ue047\ue048\ue049\ue04a\ue04b\ue04c\ue04d\n\ue04e\ue04f\ue050\ue051\ue077\ue076\ue06b\n\ue052\ue053\ue054\ue055\ue068\ue069\ue06a\n\n\ue079\ue07a\ue07b\ue07c\ue07d\ue07e\ue078\n＋
+2056	\n\n\n\n\n\n\n＋
 2058	用户
 2059	Mii列表
 2060	客人
@@ -343,10 +377,10 @@
 2108	本地联机
 2109	局域网
 2110	马力欧卡丁车TV
-2114	{s[070]} {s[100]}1{s[050]}人{s[100]}
-2115	{s[070]} {s[100]}2{s[050]}人{s[100]}
-2116	{s[070]} {s[100]}3{s[050]}人{s[100]}
-2117	{s[070]} {s[100]}4{s[050]}人{s[100]}
+2114	{size[4600]} {size[6400]}1{size[3200]}人{size[6400]}
+2115	{size[4600]} {size[6400]}2{size[3200]}人{size[6400]}
+2116	{size[4600]} {size[6400]}3{size[3200]}人{size[6400]}
+2117	{size[4600]} {size[6400]}4{size[3200]}人{size[6400]}
 2118	Mii赛手服
 2119	帮助
 2120	游戏记录
@@ -558,8 +592,8 @@
 2461	起始时间
 2462	结束日
 2463	结束时间
-2464	\x0e\x01\0\x04\0\0\0\0/\x0e\x01\0\x04\x01\0\0\0/\x0e\x01\0\x04\x02\0\0\0
-2465	\x0e\x01\0\x04\0\0\0\0:\x0e\x01\0\x04\x01\0\0\0
+2464	{[0100|00000000]}/{[0100|01000000]}/{[0100|02000000]}
+2465	{[0100|00000000]}:{[0100|01000000]}
 2470	公开范围
 2471	向所有人公开
 2472	仅向知道编号的人公开
@@ -599,11 +633,11 @@
 5052	好友
 5053	房间
 5054	最近玩过的人
-5056	要和\x0e\0\x03\x02\0\0\x0e\x01\x03\0\n\x0e\0\x03\x02\xff\xff会合吗？
-5057	正在和\n\x0e\0\x03\x02\0\0\x0e\x01\x03\0\x0e\0\x03\x02\xff\xff会合……
+5056	要和{color[0000]}{[0103]}\n{color[ffff]}会合吗？
+5057	正在和\n{color[0000]}{[0103]}{color[ffff]}会合……
 5058	无法会合。\n\n请稍后再试。
 5059	要创建和好友对战的房间吗？
-5060	由于没有添加好友，\n因此无法创建房间。\n\n可以从\ue073HOME菜单上\n添加好友。
+5060	由于没有添加好友，\n因此无法创建房间。\n\n可以从HOME菜单上\n添加好友。
 5062	要将此玩家从\n列表里删除吗？
 5063	已从列表里删除。
 5064	对战记录
@@ -614,8 +648,8 @@
 5098	发送信息
 5099	----
 5100	没有排行榜。
-5102	\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n\n这个大赛要参加吗？
-5103	\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n这个大赛为团队赛。\n\n要加入哪个团队？
+5102	{color[0000]}{[0104]}{color[ffff]}\n\n这个大赛要参加吗？
+5103	{color[0000]}{[0104]}{color[ffff]}\n这个大赛为团队赛。\n\n要加入哪个团队？
 5105	此大赛有参加限制，\n因此无法参加。
 5106	由于不在开赛中，\n因此只是一场练习赛。\n\n排行榜上不会留下纪录，\n还要继续吗？
 5107	既定的比赛数已完成。\n\n排行榜上不会留下纪录，\n还要继续吗？
@@ -624,7 +658,7 @@
 5110	“喜爱”已无空间。\n\n请从喜爱中删除大赛。
 5111	既定的比赛数已完成。
 5112	大赛已结束。
-5114	\x0e\0\x03\x02\0\0\x0e\x01\x03\0\x0e\0\x03\x02\xff\xff\n正在参加以下大赛。\n\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff
+5114	{color[0000]}{[0103]}{color[ffff]}\n正在参加以下大赛。\n\n{color[0000]}{[0104]}{color[ffff]}
 5116	无法设置开赛时间。\n\n请再次确认。
 5117	开赛时间已经到了。\n\n从下一场对战起，\n将会在排行榜上留下纪录。
 5201	菜单
@@ -640,8 +674,8 @@
 5211	其他
 5221	上次的结果
 5222	开赛中
-5231	第\x0e\x01\0\x04\0\0\0\0次　\x0e\x01\x04\0
-5232	\x0e\x01\0\x04\0\0\0\0/\x0e\x01\0\x04\x01\0\0\0　\x0e\x01\0\x04\x02\0\0\0:\x0e\x01\0\x04\x03\0\0\0 - \x0e\x01\0\x04\x04\0\0\0:\x0e\x01\0\x04\x05\0\0\0
+5231	第{[0100|00000000]}次　{[0104]}
+5232	{[0100|00000000]}/{[0100|01000000]}　{[0100|02000000]}:{[0100|03000000]} - {[0100|04000000]}:{[0100|05000000]}
 5251	无法找到所输入编号的大赛。
 5252	无法找到和条件相符的大赛。\n\n请更改条件，\n再试一次。
 5253	无法找到已开始的大赛。
@@ -649,19 +683,19 @@
 5255	已开始的大赛
 5301	可创建的大赛最多4个。\n\n无法创建更多大赛。\n\n请删除过去创建的大赛。
 5302	可以通过互联网创建对战大赛。\n\n大赛开始期间的纪录会记在排行榜中。
-5402	创建大赛需要设置\n规则和开赛日期。\n\n{s[075]}大赛的名字将会对其他用户公开。\n因此请勿使用像这些可以追溯到个人的\n重要信息或让他人感到不愉快的语言。{s[100]}\n\n要创建新的大赛吗？\n\n
+5402	创建大赛需要设置\n规则和开赛日期。\n\n{size[4b00]}大赛的名字将会对其他用户公开。\n因此请勿使用像这些可以追溯到个人的\n重要信息或让他人感到不愉快的语言。{size[6400]}\n\n要创建新的大赛吗？\n\n
 5403	请选择大赛的标志。
 5404	请输入大赛的名字。
 5405	请设置大赛的规则和开始日期。
-5407	以下大赛准备完毕！\n\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n\x0e\0\x03\x02\0\0{b}\x0e\0\x03\x02\xff\xff
-5409	已更改以下大赛的设置。\n\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff
+5407	以下大赛准备完毕！\n\n{color[0000]}{[0104]}{color[ffff]}\n{color[0000]}{b}{color[ffff]}
+5409	已更改以下大赛的设置。\n\n{color[0000]}{[0104]}{color[ffff]}
 5410	要更改大赛的设置吗？\n\n可能会给其他用户带来麻烦。
 5411	请输入红队的名字。
 5412	请输入蓝队的名字。
 5413	请输入大赛的介绍。
-5501	\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n\n这个大赛要从喜爱中删除吗？
+5501	{color[0000]}{[0104]}{color[ffff]}\n\n这个大赛要从喜爱中删除吗？
 5502	已将大赛从喜爱中删除。
-5503	\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n\n这个大赛要从服务器上删除吗？
+5503	{color[0000]}{[0104]}{color[ffff]}\n\n这个大赛要从服务器上删除吗？
 5504	一旦将大赛从服务器上删除，\n就无法复原。\n\n确定要删除吗？
 5505	已将大赛从服务器上删除。
 5601	无法使用6个以上的数字，\n请更改输入的内容。
@@ -699,13 +733,13 @@
 5955	玩区域对战
 5957	和好友一起玩
 5958	参加大赛
-7910	可以选择新\x0e\0\x03\x02\0\0角色\x0e\0\x03\x02\xff\xff了！
-7931	获得\x0e\x01\0\x04\0\0\0\0枚金币。\n\n得到了\n新\x0e\0\x03\x02\0\0车辆部件\x0e\0\x03\x02\xff\xff！
-7933	在所有镜像大奖赛中获得★。\n\n得到了\n新\x0e\0\x03\x02\0\0车辆部件\x0e\0\x03\x02\xff\xff！
-7934	在所有赛道中，\n战胜了150cc制作人员车影。\n\n得到了\n新\x0e\0\x03\x02\0\0车辆部件\x0e\0\x03\x02\xff\xff！
+7910	可以选择新{color[0000]}角色{color[ffff]}了！
+7931	获得{[0100|00000000]}枚金币。\n\n得到了\n新{color[0000]}车辆部件{color[ffff]}！
+7933	在所有镜像大奖赛中获得★。\n\n得到了\n新{color[0000]}车辆部件{color[ffff]}！
+7934	在所有赛道中，\n战胜了150cc制作人员车影。\n\n得到了\n新{color[0000]}车辆部件{color[ffff]}！
 7991	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMARIO KART 8 DELUXE\n\nSTAFF CREDITS\n\n\n\n\n\n\nPRODUCERS\n\n\n\n\nCO-PRODUCER\n\n\n\nDIRECTOR\n\n\n\nPROGRAMMING DIRECTOR\n\n\n\nDESIGN MANAGERS\n\n\n\n\nART DIRECTORS\n\n\n\n\nSOUND DIRECTOR\n\n\n\nPLANNING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE DESIGN LEAD\n\n\n\n\n\n\nCOURSE DESIGN\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHARACTER DESIGN LEAD\n\n\n\n\n\n\n\nCHARACTER DESIGN\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUI DESIGN\n\n\n\n\n\n\nVISUAL EFFECTS\n\n\n\n\nMUSIC\n\n\n\n\n\n\n\n\n\n\nSOUND PROGRAMMING\n\n\n\n\n\nSOUND EFFECTS\n\n\n\n\n\n\nDEMO MOVIE\n\n\n\nARTWORK\n\n\n\n\n\n\n\n\n\n\nILLUSTRATION\n\n\n\n\n\n\n\nILLUSTRATION SUPERVISOR\n\n\n\nCHARACTER SUPERVISORS\n\n\n\n\n\nPROGRESS MANAGEMENT\n\n\n\n\n\n\n\n\nTECHNICAL SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNETWORK SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDESIGN SUPPORT\n\n\n\n\n\n\n\nSOUND SUPPORT\n\n\n\n\nDEBUG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOA LOCALIZATION MANAGEMENT\n\n\n\n\n\n\n\n\n\nNOA LOCALIZATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOA PRODUCT TESTING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE LOCALISATION MANAGEMENT\n\n\n\n\n\n\nNOE TRANSLATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE QUALITY ASSURANCE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMUSIC PERFORMANCE\n\n\n\nSPECIAL THANKS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGENERAL PRODUCERS\n\n\n\n\nEXECUTIVE PRODUCERS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-7992	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\nKosuke Yabuki\n\n\n\nYasuyuki Oyagi\n\n\n\nYusuke Shiraiwa\n\n\n\nTatsuya Takadera\n\n\n\nYoshihisa Morimoto\nManabu Okano\n\n\n\nMasaaki Ishikawa\nMasahiro Kawanishi\n\n\n\nKenta Nagata\n\n\n\nKoji Kitagawa\nShintaro Jikumaru\nHokWai Ng\nShinichi Ikematsu\nKazuyoshi Sensui\nRyuhei Matsuura\nHideaki Fukuoka\nFumihiro Suzuki\nAkane Ishikawa\nMakoto Kawamata\nMasahito Yonekura\nYusuke Shigeta\n\n\n\nTakeshi Miyamoto\nYoshinori Konishi\nShoichi Obayashi\nMifune Hayata\nMiyuki Kimura\nKenta Sato\nJun Ito\nAkira Mizukami\nKeisuke Iba\nHideaki Nishihara\nJun Ito\nHideyuki Tatsuta\nShun Utsugi\nMasahiro Kishi\n\n\n\nHirotake Ohtsubo\nManabu Takehara\nEisuke Sasaki\nToshitaka Mukasa\n\n\n\nTetsuya Kobayashi\nJihyun Kim\nKotomi Jin\nYoshikazu Hara\nYohei Izumi\nTakeshi Hosono\nYoungseok Kong\nMiki Aoki\nJun Tanaka\nAkito Osanai\nHomi Hada\nHiroshi Yamada\nYoshihiro Wakao\nMariko Yoshino\nTakashi Yoshikawa\nRyoichi Yamagishi\nToshikatsu Terashima\nTsutomu Taniguchi\nTadatsugu Motomiya\nTatsuo Shioda\nNaruki Sugeno\n\n\n\nDaisuke Kageyama\nMichiho Hayashi\nMasanobu Sato\nRyota Akutsu\nShunsuke Otsuka\n\n\n\nTomomi Iwasaki\nMisaki Imura\nHikari Harada\nYoko Tanaka\nAya Shida\nKeisuke Umeda\nKazunori Fujii\nTsumugi Harunari\nToshiaki Abe\nOsamu Koumura\nNoriyoshi Sekiyama\nTakuya Naito\nSatomi Asakawa\n\n\n\nChiharu Takabayashi\nMai Yamamoto\nHiroko Nishibe\nEmi Tomita\n\n\n\nSayaka Nishimura\nMakoto Ohta\n\n\n\nShiho Fujii\nAtsuko Asahi\nRyo Nagamatsu\nYasuaki Iwata\nAsuka Hayazaki\nToru Minegishi\nKazumi Totaka\nKoji Kondo\n\n\n\nSanae Uchida\nMasato Mizuta\nToru Asakawa\n\n\n\nNatsuko Yokoyama\nYohei Miyagawa\nTaro Bando\nTakahisa Yamamoto\n\n\n\nHiroki Hirano\n\n\n\nYuki Ijiri\nSachiko Nakamichi\nRyuichi Suzuki\nKazuma Norisada\nKazuya Kikkawa\nHiroaki Kawagoe\nHiroshi Asai\nTamami Ishikawa\n\n\n\nYuri Adachi\nTakumi Wada\nNaoya Hasegawa\nShigehisa Nakaue\nRyusuke Yoshida\n\n\n\nYusuke Nakano\n\n\n\nYo Onishi\nYu Yamamoto\nTsuyoshi Watanabe\n\n\n\nHironobu Kakui\nHiroyuki Kimura\nNaomiki Yanagisawa\nYoshinobu Shimada\nTsuyoshi Kobayashi\nMasanori Kato\n\n\n\nKotaro Hiromatsu\nYasuhiro Kawaguchi\nYoshito Yasuda\nMasahiro Takeguchi\nHiroyasu Sasano\nTaichi Suzuki\nJunichi Hori\nShotaro Iwanaga\nHiroyuki Kato\nKensuke Nakanishi\nTomoatsu Nagafuji\nHiroki Yasuhara\nRyoma Kumamoto\n\n\n\nKenji Yamamoto\nTakuhiro Dohta\nAtsushi Haneda\nNao Ueda\nYoshiyuki Sawada\nKatsuhito Nishimura\nKatsuhisa Sato\nShigetoshi Kitayama\nMasato Kimura\nTetsuya Nakata\nDaisuke Hiratsu\nHaruki Tojo\nMasashi Mifune\nShuhei Matsuo\nRyota Maruko\nToyoki Kataoka\nHisashi Sekoguchi\nHitoshi Kanetani\nTsutomu Kaneshige\nNaoki Kinoshita\nTakahiro Okuda\nKazuhide Ueda\nYuta Ogura\nMasafumi Kawamura\nJunya Osada\nMitsuhiro Kida\nTomohisa Saito\nAtsushi Asakura\nTakanori Nishino\nYasushi Ebisawa\nTomohiro Nishino\n\n\n\nYu Nishikawa\nTetsu Okubo\nKimihiko Shimomura\nYuki Mitsui\nHirokazu Shimaoka\nTakayuki Hama\nTaketo Konno\nMasayuki Kimura\nKenkichi Miura\nShunsaku Kato\nAkira Okazaki\nHajime Nakao\nTakumi Masuda\n\n\n\nYoshiki Haruhana\nHitoshi Kobayashi\nKeijiro Inoue\nYoshifumi Masaki\nDaisuke Nobori\n\n\n\nMahito Yokota\nTakahiro Watanabe\n\n\n\nHitoshi Nishizawa\nMasashi Onishi\nKentaro Nishimura\nDaiki Moriyama\nYasunori Shibayama\nMaki Yoshitake\nJun Sugiyama\nNaotaka Matsumoto\nYuhei Ariyama\nTakeshi Kiriyama\nSayaka Takagi\nMegumi Emi\nMario Club Co., Ltd.\nDIGITAL Hearts Co., Ltd.\n\n\n\nLeslie Swan\nNate Bihldorff\nTim O'Leary\nReiko Ninomiya\nRich Amtower\nScot Ritchey \nDan Owsen\n\n\n\nCamilo Alba Navarro\nH\xe9l\xe8ne Bisson-Pelland\nEric M. Smith\nThadd\xe9e Wiseur\nDavid Carrasco\nEthan Stockton\nKento Oiwa\nOwen Cooney\nNich Maragos\nDutch Hixenbaugh\nMatthew Niemi\nNOA Copy Editors\n\n\n\nMasayasu Nakata\nRandy Shoemake\nSeth Hanser\nSean Egan\nRobert Johnson\nAndy Kolden\nJeffrey Storbo\nTomoko Henley \nNicko Gonzalez De Santiago \nTeresa Lillygren\nKindra Timmerwilke \nShannon Jaye Roberts \nSara Hoad\nSt\xe9phane Arlot\nLudovic Tientcheu Ponkin\nGene Pencil\nSantavorn Mam\nMarko Wallenius\nMadison Levitan\nJames Dillon\nProduct Testing Technicians\nPTD Guideline Compliance\n\n\n\nStefan Kashani-Matin\nFabrizio Cattaneo\nAmbra Gostoli\nHanako Furuya\n\n\n\nKevin Murray\nAnastasia Golovanova\nAnton Ivanchikov\nChiara Botta\nChristian Buter\nCristina Sol\xe0\nEnrique S\xe1nchez Rosa\nGeorg Schmalhofer\nGiuseppe Tangerini\nGreg T. Sadownik\nJanine Wetherell\nMarijke Pustjens\nMarta Bizarro\nNicolas Sciotti\nPete Sheppard\nPierre Galmiche\nRodrigo Dias\nSarah Kelly\nGiacomo Iacumin\nGunnar Friedrich\nSara Sainz Nieto\nCarsten Harmans\nRui Mendes\nTatiana Dornbusch\n\n\n\nNaiara Ordorika Ibarguengoitia\nAndreas Langer\nBert Beeckman\nC\xe1tia Pinto Cardoso\nFlorent Aupert\nIbon D\xedez Maeztu\nInna Talalay\nLaura Soto Toral\nMalcolm Thorne\nMargarita Jabner\nMatteo Marras\nPatrick De Sousa\nSean Keoghan\nSonia Laranjeira Santos\nSteven Van de Voorde\nSwen Harder\nVeronica Casi\nMarc Henkler\nDaniele Alibrandi\n\n\n\nMARIO KART BAND\n\n\n\nNaohiro Saito\nHideto Yamazaki\nYasushi Omori\nShigeru Yokoyama\nHajime Nakatani\nSatoshi Oshita\nBANDAI NAMCO Studios Inc. \n\nTakayuki Shindo\nBANDAI NAMCO Entertainment Inc.\n\nTomohiko Yamazaki\nYuuki Aoshima\nKeisuke Kadota\nNaruhisa Kawano\nRyosuke Hirayama\nKohei Ozeki\nMasayoshi Oki\nEiichi Shirakawa\nYasuto Kakimoto\nHiromitsu Fujikawa\nFumihiko Tamiya\nHiroki Soji\nSatoko Okada\nJunji Morii\nTsubasa Sakaguchi\nChie Sakakura\nAki Sakurai\nTakashi Tomizuka\nTakayuki Haga\nJeff Miller\nAll EPD\n\n\n\nShigeru Miyamoto\nShinya Takahashi\n\n\n\nSatoru Iwata\nTatsumi Kimishima\n\n\nNintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n\xa9 2017 Nintendo\n\n\n\n\n\n\n\n\n
-\Race.msbt
+7992	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\nKosuke Yabuki\n\n\n\nYasuyuki Oyagi\n\n\n\nYusuke Shiraiwa\n\n\n\nTatsuya Takadera\n\n\n\nYoshihisa Morimoto\nManabu Okano\n\n\n\nMasaaki Ishikawa\nMasahiro Kawanishi\n\n\n\nKenta Nagata\n\n\n\nKoji Kitagawa\nShintaro Jikumaru\nHokWai Ng\nShinichi Ikematsu\nKazuyoshi Sensui\nRyuhei Matsuura\nHideaki Fukuoka\nFumihiro Suzuki\nAkane Ishikawa\nMakoto Kawamata\nMasahito Yonekura\nYusuke Shigeta\n\n\n\nTakeshi Miyamoto\nYoshinori Konishi\nShoichi Obayashi\nMifune Hayata\nMiyuki Kimura\nKenta Sato\nJun Ito\nAkira Mizukami\nKeisuke Iba\nHideaki Nishihara\nJun Ito\nHideyuki Tatsuta\nShun Utsugi\nMasahiro Kishi\n\n\n\nHirotake Ohtsubo\nManabu Takehara\nEisuke Sasaki\nToshitaka Mukasa\n\n\n\nTetsuya Kobayashi\nJihyun Kim\nKotomi Jin\nYoshikazu Hara\nYohei Izumi\nTakeshi Hosono\nYoungseok Kong\nMiki Aoki\nJun Tanaka\nAkito Osanai\nHomi Hada\nHiroshi Yamada\nYoshihiro Wakao\nMariko Yoshino\nTakashi Yoshikawa\nRyoichi Yamagishi\nToshikatsu Terashima\nTsutomu Taniguchi\nTadatsugu Motomiya\nTatsuo Shioda\nNaruki Sugeno\n\n\n\nDaisuke Kageyama\nMichiho Hayashi\nMasanobu Sato\nRyota Akutsu\nShunsuke Otsuka\n\n\n\nTomomi Iwasaki\nMisaki Imura\nHikari Harada\nYoko Tanaka\nAya Shida\nKeisuke Umeda\nKazunori Fujii\nTsumugi Harunari\nToshiaki Abe\nOsamu Koumura\nNoriyoshi Sekiyama\nTakuya Naito\nSatomi Asakawa\n\n\n\nChiharu Takabayashi\nMai Yamamoto\nHiroko Nishibe\nEmi Tomita\n\n\n\nSayaka Nishimura\nMakoto Ohta\n\n\n\nShiho Fujii\nAtsuko Asahi\nRyo Nagamatsu\nYasuaki Iwata\nAsuka Hayazaki\nToru Minegishi\nKazumi Totaka\nKoji Kondo\n\n\n\nSanae Uchida\nMasato Mizuta\nToru Asakawa\n\n\n\nNatsuko Yokoyama\nYohei Miyagawa\nTaro Bando\nTakahisa Yamamoto\n\n\n\nHiroki Hirano\n\n\n\nYuki Ijiri\nSachiko Nakamichi\nRyuichi Suzuki\nKazuma Norisada\nKazuya Kikkawa\nHiroaki Kawagoe\nHiroshi Asai\nTamami Ishikawa\n\n\n\nYuri Adachi\nTakumi Wada\nNaoya Hasegawa\nShigehisa Nakaue\nRyusuke Yoshida\n\n\n\nYusuke Nakano\n\n\n\nYo Onishi\nYu Yamamoto\nTsuyoshi Watanabe\n\n\n\nHironobu Kakui\nHiroyuki Kimura\nNaomiki Yanagisawa\nYoshinobu Shimada\nTsuyoshi Kobayashi\nMasanori Kato\n\n\n\nKotaro Hiromatsu\nYasuhiro Kawaguchi\nYoshito Yasuda\nMasahiro Takeguchi\nHiroyasu Sasano\nTaichi Suzuki\nJunichi Hori\nShotaro Iwanaga\nHiroyuki Kato\nKensuke Nakanishi\nTomoatsu Nagafuji\nHiroki Yasuhara\nRyoma Kumamoto\n\n\n\nKenji Yamamoto\nTakuhiro Dohta\nAtsushi Haneda\nNao Ueda\nYoshiyuki Sawada\nKatsuhito Nishimura\nKatsuhisa Sato\nShigetoshi Kitayama\nMasato Kimura\nTetsuya Nakata\nDaisuke Hiratsu\nHaruki Tojo\nMasashi Mifune\nShuhei Matsuo\nRyota Maruko\nToyoki Kataoka\nHisashi Sekoguchi\nHitoshi Kanetani\nTsutomu Kaneshige\nNaoki Kinoshita\nTakahiro Okuda\nKazuhide Ueda\nYuta Ogura\nMasafumi Kawamura\nJunya Osada\nMitsuhiro Kida\nTomohisa Saito\nAtsushi Asakura\nTakanori Nishino\nYasushi Ebisawa\nTomohiro Nishino\n\n\n\nYu Nishikawa\nTetsu Okubo\nKimihiko Shimomura\nYuki Mitsui\nHirokazu Shimaoka\nTakayuki Hama\nTaketo Konno\nMasayuki Kimura\nKenkichi Miura\nShunsaku Kato\nAkira Okazaki\nHajime Nakao\nTakumi Masuda\n\n\n\nYoshiki Haruhana\nHitoshi Kobayashi\nKeijiro Inoue\nYoshifumi Masaki\nDaisuke Nobori\n\n\n\nMahito Yokota\nTakahiro Watanabe\n\n\n\nHitoshi Nishizawa\nMasashi Onishi\nKentaro Nishimura\nDaiki Moriyama\nYasunori Shibayama\nMaki Yoshitake\nJun Sugiyama\nNaotaka Matsumoto\nYuhei Ariyama\nTakeshi Kiriyama\nSayaka Takagi\nMegumi Emi\nMario Club Co., Ltd.\nDIGITAL Hearts Co., Ltd.\n\n\n\nLeslie Swan\nNate Bihldorff\nTim O'Leary\nReiko Ninomiya\nRich Amtower\nScot Ritchey \nDan Owsen\n\n\n\nCamilo Alba Navarro\nHélène Bisson-Pelland\nEric M. Smith\nThaddée Wiseur\nDavid Carrasco\nEthan Stockton\nKento Oiwa\nOwen Cooney\nNich Maragos\nDutch Hixenbaugh\nMatthew Niemi\nNOA Copy Editors\n\n\n\nMasayasu Nakata\nRandy Shoemake\nSeth Hanser\nSean Egan\nRobert Johnson\nAndy Kolden\nJeffrey Storbo\nTomoko Henley \nNicko Gonzalez De Santiago \nTeresa Lillygren\nKindra Timmerwilke \nShannon Jaye Roberts \nSara Hoad\nStéphane Arlot\nLudovic Tientcheu Ponkin\nGene Pencil\nSantavorn Mam\nMarko Wallenius\nMadison Levitan\nJames Dillon\nProduct Testing Technicians\nPTD Guideline Compliance\n\n\n\nStefan Kashani-Matin\nFabrizio Cattaneo\nAmbra Gostoli\nHanako Furuya\n\n\n\nKevin Murray\nAnastasia Golovanova\nAnton Ivanchikov\nChiara Botta\nChristian Buter\nCristina Solà\nEnrique Sánchez Rosa\nGeorg Schmalhofer\nGiuseppe Tangerini\nGreg T. Sadownik\nJanine Wetherell\nMarijke Pustjens\nMarta Bizarro\nNicolas Sciotti\nPete Sheppard\nPierre Galmiche\nRodrigo Dias\nSarah Kelly\nGiacomo Iacumin\nGunnar Friedrich\nSara Sainz Nieto\nCarsten Harmans\nRui Mendes\nTatiana Dornbusch\n\n\n\nNaiara Ordorika Ibarguengoitia\nAndreas Langer\nBert Beeckman\nCátia Pinto Cardoso\nFlorent Aupert\nIbon Díez Maeztu\nInna Talalay\nLaura Soto Toral\nMalcolm Thorne\nMargarita Jabner\nMatteo Marras\nPatrick De Sousa\nSean Keoghan\nSonia Laranjeira Santos\nSteven Van de Voorde\nSwen Harder\nVeronica Casi\nMarc Henkler\nDaniele Alibrandi\n\n\n\nMARIO KART BAND\n\n\n\nNaohiro Saito\nHideto Yamazaki\nYasushi Omori\nShigeru Yokoyama\nHajime Nakatani\nSatoshi Oshita\nBANDAI NAMCO Studios Inc. \n\nTakayuki Shindo\nBANDAI NAMCO Entertainment Inc.\n\nTomohiko Yamazaki\nYuuki Aoshima\nKeisuke Kadota\nNaruhisa Kawano\nRyosuke Hirayama\nKohei Ozeki\nMasayoshi Oki\nEiichi Shirakawa\nYasuto Kakimoto\nHiromitsu Fujikawa\nFumihiko Tamiya\nHiroki Soji\nSatoko Okada\nJunji Morii\nTsubasa Sakaguchi\nChie Sakakura\nAki Sakurai\nTakashi Tomizuka\nTakayuki Haga\nJeff Miller\nAll EPD\n\n\n\nShigeru Miyamoto\nShinya Takahashi\n\n\n\nSatoru Iwata\nTatsumi Kimishima\n\n\nNintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n© 2017 Nintendo\n\n\n\n\n\n\n\n\n
+Race.msbt
 9001	继续游戏
 9002	退出游戏
 9003	更改赛道
@@ -860,33 +894,33 @@
 9430	第30回合
 9431	第31回合
 9499	最终回合
-9501	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff抓住了\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff！
-9502	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff抓住了\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff！
-9503	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff抓住了\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff！
-9504	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff抓住了\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff！
-9505	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff打开了牢房的门！
-9506	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff打开了牢房的门！
+9501	{color[0000]}{[0106|00000000]}{color[ffff]}抓住了{color[0100]}{[0106|01000000]}{color[ffff]}！
+9502	{color[0000]}{[0106|00000000]}{color[ffff]}抓住了{color[0100]}{[0106|01000000]}{color[ffff]}！
+9503	{color[0100]}{[0106|00000000]}{color[ffff]}抓住了{color[0000]}{[0106|01000000]}{color[ffff]}！
+9504	{color[0100]}{[0106|00000000]}{color[ffff]}抓住了{color[0000]}{[0106|01000000]}{color[ffff]}！
+9505	{color[0000]}{[0106|00000000]}{color[ffff]}打开了牢房的门！
+9506	{color[0100]}{[0106|00000000]}{color[ffff]}打开了牢房的门！
 9508	还有5人
 9509	还有4人
 9510	还有3人
 9511	还有2人
 9512	还有1人
 9513	救命！
-9521	击中\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9522	击中\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9523	击中\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9524	打败了\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9525	打败了\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9526	打败了\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff！
-9527	被\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9528	被\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9529	被\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9530	被\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9531	被\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9532	被\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff击中了！
-9541	\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff夺走了太阳之力！
-9542	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff夺走了太阳之力！
-9543	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff夺走了太阳之力！
+9521	击中{color[0300]}{[0106|00000000]}{color[ffff]}！
+9522	击中{color[0000]}{[0106|00000000]}{color[ffff]}！
+9523	击中{color[0100]}{[0106|00000000]}{color[ffff]}！
+9524	打败了{color[0300]}{[0106|00000000]}{color[ffff]}！
+9525	打败了{color[0000]}{[0106|00000000]}{color[ffff]}！
+9526	打败了{color[0100]}{[0106|00000000]}{color[ffff]}！
+9527	被{color[0300]}{[0106|00000000]}{color[ffff]}击中了！
+9528	被{color[0300]}{[0106|00000000]}{color[ffff]}击中了！
+9529	被{color[0000]}{[0106|00000000]}{color[ffff]}击中了！
+9530	被{color[0000]}{[0106|00000000]}{color[ffff]}击中了！
+9531	被{color[0100]}{[0106|00000000]}{color[ffff]}击中了！
+9532	被{color[0100]}{[0106|00000000]}{color[ffff]}击中了！
+9541	{color[0300]}{[0106|00000000]}{color[ffff]}夺走了太阳之力！
+9542	{color[0000]}{[0106|00000000]}{color[ffff]}夺走了太阳之力！
+9543	{color[0100]}{[0106|00000000]}{color[ffff]}夺走了太阳之力！
 9601	气球对战
 9602	抓住间谍！
 9603	甩掉吞食花！
@@ -899,7 +933,7 @@
 9804	YOU LOSE
 9805	DRAW!
 9927	LIVE
-\Region.msbt
+Region.msbt
 AE	阿联酋
 AG	安提瓜和巴布达
 AI	安圭拉

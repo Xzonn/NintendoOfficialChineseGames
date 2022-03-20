@@ -73,7 +73,7 @@ Common.msbt
 1114	Gold Standard
 1115	Sports Coupe
 1116	GLA
-1117	W{s[050]} {s[100]}25 Silver Arrow
+1117	W{size[3200]} {size[6400]}25 Silver Arrow
 1118	300 SL Roadster
 1119	Blue Falcon
 1120	Tanooki Kart
@@ -92,6 +92,7 @@ Common.msbt
 1159	Jet Bike
 1160	Yoshi Bike
 1161	City Tripper
+1162	Master Cycle Zero
 1181	Standard ATV
 1182	Wild Wiggler
 1183	Teddy Buggy
@@ -119,6 +120,7 @@ Common.msbt
 1219	GLA Tires
 1220	Triforce Tires
 1221	Leaf Tires
+1222	Ancient Tires
 1251	Super Glider
 1252	Cloud Glider
 1253	Wario Wing
@@ -133,6 +135,7 @@ Common.msbt
 1262	MKTV Parafoil
 1263	Hylian Kite
 1264	Paper Glider
+1265	Paraglider
 1301	Mushroom Cup
 1302	Flower Cup
 1303	Star Cup
@@ -184,6 +187,7 @@ Common.msbt
 1465	N64
 1466	SNES
 1467	GCN
+1468	Tour
 1481	Wario's Gold Mine
 1482	Excitebike Arena
 1483	Dragon Driftway
@@ -200,54 +204,54 @@ Common.msbt
 1494	Ribbon Road
 1495	Super Bell Subway
 1496	Big Blue
-1501	{s[090]}Mario Kart Stadium{s[100]}
-1502	{s[090]}Water Park{s[100]}
-1503	{s[090]}Sweet Sweet Canyon{s[100]}
-1504	{s[090]}Thwomp Ruins{s[100]}
-1505	{s[090]}Toad Harbor{s[100]}
-1506	{s[090]}Mario Circuit{s[100]}
-1507	{s[090]}Electrodrome{s[100]}
-1508	{s[090]}Twisted Mansion{s[100]}
-1509	{s[090]}Sunshine Airport{s[100]}
-1510	{s[090]}Dolphin Shoals{s[100]}
-1511	{s[090]}Shy Guy Falls{s[100]}
-1512	{s[090]}Mount Wario{s[100]}
-1513	{s[090]}Bone-Dry Dunes{s[100]}
-1514	{s[090]}Cloudtop Cruise{s[100]}
-1515	{s[090]}Bowser's Castle{s[100]}
-1516	{s[090]}Rainbow Road{s[100]}
-1541	{s[090]}Moo Moo Meadows{s[100]}
-1542	{s[090]}Mario Circuit{s[100]}
-1543	{s[090]}Cheep Cheep Beach{s[100]}
-1544	{s[090]}Piranha Plant Slide{s[100]}
-1545	{s[090]}Toad's Turnpike{s[100]}
-1546	{s[090]}Donut Plains 3{s[100]}
-1547	{s[090]}Dry Dry Desert{s[100]}
-1548	{s[090]}DK Jungle{s[100]}
-1549	{s[090]}Sherbet Land{s[100]}
-1550	{s[090]}Tick-Tock Clock{s[100]}
-1551	{s[090]}Royal Raceway{s[100]}
-1552	{s[090]}Music Park{s[100]}
-1553	{s[090]}Yoshi Valley{s[100]}
-1554	{s[090]}Wario Stadium{s[100]}
-1555	{s[090]}Grumble Volcano{s[100]}
-1556	{s[090]}Rainbow Road{s[100]}
-1581	{s[090]}Wario's Gold Mine{s[100]}
-1582	{s[090]}Excitebike Arena{s[100]}
-1583	{s[090]}Dragon Driftway{s[100]}
-1584	{s[090]}Mute City{s[100]}
-1585	{s[090]}Yoshi Circuit{s[100]}
-1586	{s[090]}Rainbow Road{s[100]}
-1587	{s[090]}Ice Ice Outpost{s[100]}
-1588	{s[090]}Hyrule Circuit{s[100]}
-1589	{s[090]}Cheese Land{s[100]}
-1590	{s[090]}Baby Park{s[100]}
-1591	{s[090]}Wild Woods{s[100]}
-1592	{s[090]}Animal Crossing{s[100]}
-1593	{s[090]}Neo Bowser City{s[100]}
-1594	{s[090]}Ribbon Road{s[100]}
-1595	{s[090]}Super Bell Subway{s[100]}
-1596	{s[090]}Big Blue{s[100]}
+1501	{size[5a00]}Mario Kart Stadium{size[6400]}
+1502	{size[5a00]}Water Park{size[6400]}
+1503	{size[5a00]}Sweet Sweet Canyon{size[6400]}
+1504	{size[5a00]}Thwomp Ruins{size[6400]}
+1505	{size[5a00]}Toad Harbor{size[6400]}
+1506	{size[5a00]}Mario Circuit{size[6400]}
+1507	{size[5a00]}Electrodrome{size[6400]}
+1508	{size[5a00]}Twisted Mansion{size[6400]}
+1509	{size[5a00]}Sunshine Airport{size[6400]}
+1510	{size[5a00]}Dolphin Shoals{size[6400]}
+1511	{size[5a00]}Shy Guy Falls{size[6400]}
+1512	{size[5a00]}Mount Wario{size[6400]}
+1513	{size[5a00]}Bone-Dry Dunes{size[6400]}
+1514	{size[5a00]}Cloudtop Cruise{size[6400]}
+1515	{size[5a00]}Bowser's Castle{size[6400]}
+1516	{size[5a00]}Rainbow Road{size[6400]}
+1541	{size[5a00]}Moo Moo Meadows{size[6400]}
+1542	{size[5a00]}Mario Circuit{size[6400]}
+1543	{size[5a00]}Cheep Cheep Beach{size[6400]}
+1544	{size[5a00]}Piranha Plant Slide{size[6400]}
+1545	{size[5a00]}Toad's Turnpike{size[6400]}
+1546	{size[5a00]}Donut Plains 3{size[6400]}
+1547	{size[5a00]}Dry Dry Desert{size[6400]}
+1548	{size[5a00]}DK Jungle{size[6400]}
+1549	{size[5a00]}Sherbet Land{size[6400]}
+1550	{size[5a00]}Tick-Tock Clock{size[6400]}
+1551	{size[5a00]}Royal Raceway{size[6400]}
+1552	{size[5a00]}Music Park{size[6400]}
+1553	{size[5a00]}Yoshi Valley{size[6400]}
+1554	{size[5a00]}Wario Stadium{size[6400]}
+1555	{size[5a00]}Grumble Volcano{size[6400]}
+1556	{size[5a00]}Rainbow Road{size[6400]}
+1581	{size[5a00]}Wario's Gold Mine{size[6400]}
+1582	{size[5a00]}Excitebike Arena{size[6400]}
+1583	{size[5a00]}Dragon Driftway{size[6400]}
+1584	{size[5a00]}Mute City{size[6400]}
+1585	{size[5a00]}Yoshi Circuit{size[6400]}
+1586	{size[5a00]}Rainbow Road{size[6400]}
+1587	{size[5a00]}Ice Ice Outpost{size[6400]}
+1588	{size[5a00]}Hyrule Circuit{size[6400]}
+1589	{size[5a00]}Cheese Land{size[6400]}
+1590	{size[5a00]}Baby Park{size[6400]}
+1591	{size[5a00]}Wild Woods{size[6400]}
+1592	{size[5a00]}Animal Crossing{size[6400]}
+1593	{size[5a00]}Neo Bowser City{size[6400]}
+1594	{size[5a00]}Ribbon Road{size[6400]}
+1595	{size[5a00]}Super Bell Subway{size[6400]}
+1596	{size[5a00]}Big Blue{size[6400]}
 11401	Wuhu Town
 11402	Luigi's Mansion
 11403	Battle Course 1
@@ -256,21 +260,49 @@ Common.msbt
 11406	Battle Stadium
 11407	Dragon Palace
 11408	Sweet Sweet Kingdom
-11501	{s[090]}Wuhu Town{s[100]}
-11502	{s[090]}Luigi's Mansion{s[100]}
-11503	{s[090]}Battle Course 1{s[100]}
-11504	{s[090]}Urchin Underpass{s[100]}
-11505	{s[090]}Lunar Colony{s[100]}
-11506	{s[090]}Battle Stadium{s[100]}
-11507	{s[090]}Dragon Palace{s[100]}
-11508	{s[090]}Sweet Sweet Kingdom{s[100]}
+11501	{size[5a00]}Wuhu Town{size[6400]}
+11502	{size[5a00]}Luigi's Mansion{size[6400]}
+11503	{size[5a00]}Battle Course 1{size[6400]}
+11504	{size[5a00]}Urchin Underpass{size[6400]}
+11505	{size[5a00]}Lunar Colony{size[6400]}
+11506	{size[5a00]}Battle Stadium{size[6400]}
+11507	{size[5a00]}Dragon Palace{size[6400]}
+11508	{size[5a00]}Sweet Sweet Kingdom{size[6400]}
+11601	Golden Dash Cup
+11602	Lucky Cat Cup
+11603	Turnip Cup
+11604	Propeller Cup
+11605	Rock Cup
+11606	Moon Cup
+11607	Fruit Cup
+11608	Boomerang Cup
+11609	Feather Cup
+11610	Cherry Cup
+11611	Acorn Cup
+11612	Spiny Cup
+11701	Paris Promenade
+11702	Toad Circuit
+11703	Choco Mountain
+11704	Coconut Mall
+11705	Tokyo Blur
+11706	Shroom Ridge
+11707	Sky Garden
+11708	Ninja Hideaway
+11801	{size[5a00]}Paris Promenade{size[6400]}
+11802	{size[5a00]}Toad Circuit{size[6400]}
+11803	{size[5a00]}Choco Mountain{size[6400]}
+11804	{size[5a00]}Coconut Mall{size[6400]}
+11805	{size[5a00]}Tokyo Blur{size[6400]}
+11806	{size[5a00]}Shroom Ridge{size[6400]}
+11807	{size[5a00]}Sky Garden{size[6400]}
+11808	{size[5a00]}Ninja Hideaway{size[6400]}
 DLC.msbt
 6201	Choose your course settings for\nglobal and regional matches.
 6202	Choose your course settings\nfor matches against friends.
 6203	Courses
 6301	Use amiibo to get Mii racing suits!
 6302	Touch an amiibo to the NFC touchpoint.
-6303	Turn Airplane Mode OFF.\n\nYou can change this in\nQuick Settings (hold \ue073).
+6303	Turn Airplane Mode OFF.\n\nYou can change this in\nQuick Settings (hold ).
 6321	You've received a new Mii racing suit!
 6322	This amiibo is not compatible with\nMario Kart 8 Deluxe.
 6323	Unable to read data.\n\nThis item may not be an amiibo.
@@ -323,12 +355,16 @@ Menu.msbt
 2003	Yes
 2004	No
 2005	Cancel
+2006	OK
+2010	This cup has not yet been released. It will be made\navailable by the end of 2023.\n\nFor more details, visit the official Mario Kart 8 Deluxe\nwebsite.
+2011	You can play the new cups by purchasing the\nBooster Course Pass or signing up for\nNintendo Switch Online + Expansion Pack.\nFor more details, visit the official Mario Kart 8 Deluxe\nwebsite.
+2012	You can play the new cups if a player in this session\npurchases the Booster Course Pass or signs up for\nNintendo Switch Online + Expansion Pack.
+2013	A player in this session has purchased the Booster\nCourse Pass or signed up for Nintendo Switch\nOnline + Expansion Pack, enabling the new cups!
 2052	Press  to start
-2053	Press {s[105]}\ue042{s[100]} on the controller\nyou want to use.
-2054	{s[105]}\ue042 Join!{s[100]}
+2053	Press {size[6900]}{size[6400]} on the controller\nyou want to use.
+2054	{size[6900]} Join!{size[6400]}
 2055	Ready!
-2056	\ue001\ue002\ue003\ue004\ue005\ue006\n\ue040\ue041\ue042\ue043\ue044\ue045\ue046\n\ue047\ue048\ue049\ue04a\ue04b\ue04c\ue04d\n\ue04e\ue04f\ue050\ue051\ue077\ue076\ue06b\n\ue052\ue053\ue054\ue055\ue068\ue069\ue06a\n\n\ue079\ue07a\ue07b\ue07c\ue07d\ue07e\ue078\n＋
-2057	Connect a controller for Player 2,\nand then select a Mii.
+2056	\n\n\n\n\n\n\n＋
 2058	User Mii
 2059	Mii List
 2060	Guest Mii
@@ -341,10 +377,10 @@ Menu.msbt
 2108	Wireless Play
 2109	LAN Play
 2110	Mario Kart TV
-2114	{s[070]} {s[100]}1{s[060]}p{s[100]}
-2115	{s[070]} {s[100]}2{s[060]}p{s[100]}
-2116	{s[070]} {s[100]}3{s[060]}p{s[100]}
-2117	{s[070]} {s[100]}4{s[060]}p{s[100]}
+2114	{size[4600]} {size[6400]}1{size[3c00]}p{size[6400]}
+2115	{size[4600]} {size[6400]}2{size[3c00]}p{size[6400]}
+2116	{size[4600]} {size[6400]}3{size[3c00]}p{size[6400]}
+2117	{size[4600]} {size[6400]}4{size[3c00]}p{size[6400]}
 2118	Mii Suits
 2119	Info
 2120	Play Stats
@@ -384,6 +420,15 @@ Menu.msbt
 2172	Regional
 2173	Friends
 2174	Tournaments
+2180	Toy-Con
+2181	P1
+2182	P2
+2183	P3
+2184	P4
+2185	None
+2186	Toy-Con Motorbike
+2187	Toy-Con Car
+2188	This setting takes effect only when using two\ndetached Joy-Con controllers.
 2201	Grand Prix
 2202	Time Trials
 2203	VS Race
@@ -403,6 +448,7 @@ Menu.msbt
 2225	Do you want to quit?
 2226	Do you want to quit?
 2227	Return to the main menu?
+2228	Insert the Joy-Con into the Toy-Con and press OK.
 2231	50cc
 2232	100cc
 2233	150cc
@@ -422,7 +468,7 @@ Menu.msbt
 2262	Race against Ghost
 2263	View Ghost
 2265	Delete ghost data?
-2266	{s[098]}Online Ghosts{s[100]}
+2266	{size[6200]}Online Ghosts{size[6400]}
 2267	Download this ghost data?\n\nYou can download up to 4 ghosts\nper course and up to 16 in total.
 2268	You can't download any more ghost data.\n\nYou can download up to 4 ghosts\nper course and up to 16 in total.\n\nPlease delete a previously downloaded\nghost to make room.
 2269	This ghost data was created by you.\n\nAre you sure you want to delete it?
@@ -546,8 +592,8 @@ Menu.msbt
 2461	Start Time
 2462	End Date
 2463	End Time
-2464	\x0e\x01\0\x04\x01\0\0\0/\x0e\x01\0\x04\x02\0\0\0/\x0e\x01\0\x04\0\0\0\0
-2465	\x0e\x01\0\x04\0\0\0\0:\x0e\x01\0\x04\x01\0\0\0
+2464	{[0100|01000000]}/{[0100|02000000]}/{[0100|00000000]}
+2465	{[0100|00000000]}:{[0100|01000000]}
 2470	Public/Private
 2471	Open to Everyone
 2472	Code Required
@@ -577,20 +623,21 @@ Menu.msbt
 5006	A communication error has occurred.
 5007	You have been disconnected.
 5011	Leave this group?
-5012	{s[094]}Random{s[100]}
+5012	{size[5e00]}Random{size[6400]}
 5013	Waiting for everyone to suggest a course...
 5014	The course has been selected!
 5015	Connecting...
+5016	Insert the Joy-Con into the Toy-Con.
 5050	Menu
 5051	Create Room
 5052	Friends
 5053	Lobby
 5054	Recent Players
-5056	Join \x0e\0\x03\x02\0\0\x0e\x01\x03\0\x0e\0\x03\x02\xff\xff?
-5057	Joining \x0e\0\x03\x02\0\0\x0e\x01\x03\0\x0e\0\x03\x02\xff\xff...
+5056	Join {color[0000]}{[0103]}{color[ffff]}?
+5057	Joining {color[0000]}{[0103]}{color[ffff]}...
 5058	You were unable to join.\n\nPlease try again later.
 5059	You can create a room for playing\nprivately with friends.\n\nWould you like to create a room?
-5060	You can't create a room because you\ndon't have any registered friends.\n\nYou can register friends from\nthe \ue073 HOME Menu.
+5060	You can't create a room because you\ndon't have any registered friends.\n\nYou can register friends from\nthe  HOME Menu.
 5062	Remove this player\nfrom the list?
 5063	Player has been removed.
 5064	Match Stats
@@ -601,8 +648,8 @@ Menu.msbt
 5098	Send Message
 5099	----
 5100	No standings available.
-5102	Join \x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff?
-5103	Welcome to\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff!\nThis is a team-based tournament.\n\nWhich team do you want to join?
+5102	Join {color[0000]}{[0104]}{color[ffff]}?
+5103	Welcome to\n{color[0000]}{[0104]}{color[ffff]}!\nThis is a team-based tournament.\n\nWhich team do you want to join?
 5105	You can't join this tournament because\nit has participation restrictions.
 5106	This tournament is currently closed,\nbut you can still play practice matches.\n\nThe results will not count toward your\nranking. Do you want to continue?
 5107	You have already participated in\nthe chosen number of matches.\n\nFrom now on, your results will\nnot count toward your standings.\nDo you want to continue?
@@ -611,7 +658,7 @@ Menu.msbt
 5110	There's no space left in Favorites.\n\nPlease delete a tournament from\nFavorites to make some room.
 5111	You have finished the\nchosen number of matches.
 5112	The tournament is now closed.
-5114	Just so you know, \x0e\0\x03\x02\0\0\x0e\x01\x03\0 \x0e\0\x03\x02\xff\xffis\nparticipating in the \x0e\0\x03\x02\0\0\x0e\x01\x04\0\n\x0e\0\x03\x02\xff\xfftournament right now.\n
+5114	Just so you know, {color[0000]}{[0103]} {color[ffff]}is\nparticipating in the {color[0000]}{[0104]}\n{color[ffff]}tournament right now.\n
 5116	Unable to register the tournament times.\n\nPlease make sure the times\nare valid and try again.
 5117	The tournament is now open!\n\nFrom the next game on, your results\nwill be counted toward your ranking.
 5201	Menu
@@ -627,8 +674,8 @@ Menu.msbt
 5211	Other
 5221	Previous Results
 5222	Current Standings
-5231	\x0e\x01\x04\0 #\x0e\x01\0\x04\0\0\0\0
-5232	\x0e\x01\0\x04\0\0\0\0/\x0e\x01\0\x04\x01\0\0\0 \x0e\x01\0\x04\x02\0\0\0:\x0e\x01\0\x04\x03\0\0\0 - \x0e\x01\0\x04\x04\0\0\0:\x0e\x01\0\x04\x05\0\0\0
+5231	{[0104]} #{[0100|00000000]}
+5232	{[0100|00000000]}/{[0100|01000000]} {[0100|02000000]}:{[0100|03000000]} - {[0100|04000000]}:{[0100|05000000]}
 5251	Unable to find a tournament\nwith the number you entered.
 5252	Unable to find any tournaments\nusing those search conditions.\n\nPlease change your search\nconditions and try again.
 5253	No active tournaments were found.
@@ -636,19 +683,19 @@ Menu.msbt
 5255	Active Tournaments
 5301	You've already created four\ntournaments, so you can't\ncreate another one.\n\nPlease delete one of your\nexisting tournaments\nand try again.
 5302	Create an online tournament!\n\nWhile a tournament is active, the results of\nits participants are recorded in the standings.
-5402	Do you want to create a new tournament?\n\n{s[075]}The name of the tournament will be made\npublic. Please avoid revealing any personal\ninformation or using offensive language.{s[100]}
+5402	Do you want to create a new tournament?\n\n{size[4b00]}The name of the tournament will be made\npublic. Please avoid revealing any personal\ninformation or using offensive language.{size[6400]}
 5403	Choose an icon for your tournament.
-5404	Enter a name for your tournament.\n\n{s[080]}NOTE: The tournament's name cannot\ncontain more than five numbers.{s[100]}
+5404	Enter a name for your tournament.\n\n{size[5000]}NOTE: The tournament's name cannot\ncontain more than five numbers.{size[6400]}
 5405	Set your tournament's rules, and\nchoose when it will be active.
-5407	Your tournament has been created!\n\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\n\x0e\0\x03\x02\0\0{b}\x0e\0\x03\x02\xff\xff
-5409	The settings for\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\nhave been changed.
+5407	Your tournament has been created!\n\n{color[0000]}{[0104]}{color[ffff]}\n{color[0000]}{b}{color[ffff]}
+5409	The settings for\n{color[0000]}{[0104]}{color[ffff]}\nhave been changed.
 5410	Do you want to change the\nsettings for this tournament?\n\nDoing so may cause problems\nfor other players.
 5411	Enter a name for the red team.
 5412	Enter a name for the blue team.
 5413	Write a welcome message\nfor your tournament!
-5501	Remove\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\nfrom your favorites?
+5501	Remove\n{color[0000]}{[0104]}{color[ffff]}\nfrom your favorites?
 5502	The tournament has been\nremoved from your favorites.
-5503	Delete\n\x0e\0\x03\x02\0\0\x0e\x01\x04\0\x0e\0\x03\x02\xff\xff\nfrom the server?
+5503	Delete\n{color[0000]}{[0104]}{color[ffff]}\nfrom the server?
 5504	Tournaments deleted from the\nserver can't be recovered.\n\nDelete this tournament?
 5505	The tournament has been\ndeleted from the server.
 5601	This name contains more than five digits.\nPlease revise the name.
@@ -686,12 +733,12 @@ Menu.msbt
 5955	Regional Battle
 5957	Playing with Friends
 5958	Competing in Tournament
-7910	You have unlocked a \x0e\0\x03\x02\0\0new character\x0e\0\x03\x02\xff\xff!
-7931	You have collected \x0e\x01\0\x04\0\0\0\0 coins.\n\nA new\x0e\0\x03\x02\0\0 vehicle customization\noption \x0e\0\x03\x02\xff\xffhas been unlocked!
-7933	You have earned at least one\nstar in every Mirror Grand Prix.\n\nA new \x0e\0\x03\x02\0\0vehicle customization\noption \x0e\0\x03\x02\xff\xffhas been unlocked!\n
-7934	You have beaten the staff ghost\non every course in 150cc.\n\nA new \x0e\0\x03\x02\0\0vehicle customization\noption\x0e\0\x03\x02\xff\xff has been unlocked!
+7910	You have unlocked a {color[0000]}new character{color[ffff]}!
+7931	You have collected {[0100|00000000]} coins.\n\nA new{color[0000]} vehicle customization\noption {color[ffff]}has been unlocked!
+7933	You have earned at least one\nstar in every Mirror Grand Prix.\n\nA new {color[0000]}vehicle customization\noption {color[ffff]}has been unlocked!\n
+7934	You have beaten the staff ghost\non every course in 150cc.\n\nA new {color[0000]}vehicle customization\noption{color[ffff]} has been unlocked!
 7991	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMARIO KART 8 DELUXE\n\nSTAFF CREDITS\n\n\n\n\n\n\nPRODUCERS\n\n\n\n\nCO-PRODUCER\n\n\n\nDIRECTOR\n\n\n\nPROGRAMMING DIRECTOR\n\n\n\nDESIGN MANAGERS\n\n\n\n\nART DIRECTORS\n\n\n\n\nSOUND DIRECTOR\n\n\n\nPLANNING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE DESIGN LEAD\n\n\n\n\n\n\nCOURSE DESIGN\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHARACTER DESIGN LEAD\n\n\n\n\n\n\n\nCHARACTER DESIGN\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUI DESIGN\n\n\n\n\n\n\nVISUAL EFFECTS\n\n\n\n\nMUSIC\n\n\n\n\n\n\n\n\n\n\nSOUND PROGRAMMING\n\n\n\n\n\nSOUND EFFECTS\n\n\n\n\n\n\nDEMO MOVIE\n\n\n\nARTWORK\n\n\n\n\n\n\n\n\n\n\nILLUSTRATION\n\n\n\n\n\n\n\nILLUSTRATION SUPERVISOR\n\n\n\nCHARACTER SUPERVISORS\n\n\n\n\n\nPROGRESS MANAGEMENT\n\n\n\n\n\n\n\n\nTECHNICAL SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNETWORK SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDESIGN SUPPORT\n\n\n\n\n\n\n\nSOUND SUPPORT\n\n\n\n\nDEBUG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOA LOCALIZATION MANAGEMENT\n\n\n\n\n\n\n\n\n\nNOA LOCALIZATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOA PRODUCT TESTING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE LOCALISATION MANAGEMENT\n\n\n\n\n\n\nNOE TRANSLATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE QUALITY ASSURANCE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMUSIC PERFORMANCE\n\n\n\nSPECIAL THANKS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGENERAL PRODUCERS\n\n\n\n\nEXECUTIVE PRODUCERS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-7992	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\nKosuke Yabuki\n\n\n\nYasuyuki Oyagi\n\n\n\nYusuke Shiraiwa\n\n\n\nTatsuya Takadera\n\n\n\nYoshihisa Morimoto\nManabu Okano\n\n\n\nMasaaki Ishikawa\nMasahiro Kawanishi\n\n\n\nKenta Nagata\n\n\n\nKoji Kitagawa\nShintaro Jikumaru\nHokWai Ng\nShinichi Ikematsu\nKazuyoshi Sensui\nRyuhei Matsuura\nHideaki Fukuoka\nFumihiro Suzuki\nAkane Ishikawa\nMakoto Kawamata\nMasahito Yonekura\nYusuke Shigeta\n\n\n\nTakeshi Miyamoto\nYoshinori Konishi\nShoichi Obayashi\nMifune Hayata\nMiyuki Kimura\nKenta Sato\nJun Ito\nAkira Mizukami\nKeisuke Iba\nHideaki Nishihara\nJun Ito\nHideyuki Tatsuta\nShun Utsugi\nMasahiro Kishi\n\n\n\nHirotake Ohtsubo\nManabu Takehara\nEisuke Sasaki\nToshitaka Mukasa\n\n\n\nTetsuya Kobayashi\nJihyun Kim\nKotomi Jin\nYoshikazu Hara\nYohei Izumi\nTakeshi Hosono\nYoungseok Kong\nMiki Aoki\nJun Tanaka\nAkito Osanai\nHomi Hada\nHiroshi Yamada\nYoshihiro Wakao\nMariko Yoshino\nTakashi Yoshikawa\nRyoichi Yamagishi\nToshikatsu Terashima\nTsutomu Taniguchi\nTadatsugu Motomiya\nTatsuo Shioda\nNaruki Sugeno\n\n\n\nDaisuke Kageyama\nMichiho Hayashi\nMasanobu Sato\nRyota Akutsu\nShunsuke Otsuka\n\n\n\nTomomi Iwasaki\nMisaki Imura\nHikari Harada\nYoko Tanaka\nAya Shida\nKeisuke Umeda\nKazunori Fujii\nTsumugi Harunari\nToshiaki Abe\nOsamu Koumura\nNoriyoshi Sekiyama\nTakuya Naito\nSatomi Asakawa\n\n\n\nChiharu Takabayashi\nMai Yamamoto\nHiroko Nishibe\nEmi Tomita\n\n\n\nSayaka Nishimura\nMakoto Ohta\n\n\n\nShiho Fujii\nAtsuko Asahi\nRyo Nagamatsu\nYasuaki Iwata\nAsuka Hayazaki\nToru Minegishi\nKazumi Totaka\nKoji Kondo\n\n\n\nSanae Uchida\nMasato Mizuta\nToru Asakawa\n\n\n\nNatsuko Yokoyama\nYohei Miyagawa\nTaro Bando\nTakahisa Yamamoto\n\n\n\nHiroki Hirano\n\n\n\nYuki Ijiri\nSachiko Nakamichi\nRyuichi Suzuki\nKazuma Norisada\nKazuya Kikkawa\nHiroaki Kawagoe\nHiroshi Asai\nTamami Ishikawa\n\n\n\nYuri Adachi\nTakumi Wada\nNaoya Hasegawa\nShigehisa Nakaue\nRyusuke Yoshida\n\n\n\nYusuke Nakano\n\n\n\nYo Onishi\nYu Yamamoto\nTsuyoshi Watanabe\n\n\n\nHironobu Kakui\nHiroyuki Kimura\nNaomiki Yanagisawa\nYoshinobu Shimada\nTsuyoshi Kobayashi\nMasanori Kato\n\n\n\nKotaro Hiromatsu\nYasuhiro Kawaguchi\nYoshito Yasuda\nMasahiro Takeguchi\nHiroyasu Sasano\nTaichi Suzuki\nJunichi Hori\nShotaro Iwanaga\nHiroyuki Kato\nKensuke Nakanishi\nTomoatsu Nagafuji\nHiroki Yasuhara\nRyoma Kumamoto\n\n\n\nKenji Yamamoto\nTakuhiro Dohta\nAtsushi Haneda\nNao Ueda\nYoshiyuki Sawada\nKatsuhito Nishimura\nKatsuhisa Sato\nShigetoshi Kitayama\nMasato Kimura\nTetsuya Nakata\nDaisuke Hiratsu\nHaruki Tojo\nMasashi Mifune\nShuhei Matsuo\nRyota Maruko\nToyoki Kataoka\nHisashi Sekoguchi\nHitoshi Kanetani\nTsutomu Kaneshige\nNaoki Kinoshita\nTakahiro Okuda\nKazuhide Ueda\nYuta Ogura\nMasafumi Kawamura\nJunya Osada\nMitsuhiro Kida\nTomohisa Saito\nAtsushi Asakura\nTakanori Nishino\nYasushi Ebisawa\nTomohiro Nishino\n\n\n\nYu Nishikawa\nTetsu Okubo\nKimihiko Shimomura\nYuki Mitsui\nHirokazu Shimaoka\nTakayuki Hama\nTaketo Konno\nMasayuki Kimura\nKenkichi Miura\nShunsaku Kato\nAkira Okazaki\nHajime Nakao\nTakumi Masuda\n\n\n\nYoshiki Haruhana\nHitoshi Kobayashi\nKeijiro Inoue\nYoshifumi Masaki\nDaisuke Nobori\n\n\n\nMahito Yokota\nTakahiro Watanabe\n\n\n\nHitoshi Nishizawa\nMasashi Onishi\nKentaro Nishimura\nDaiki Moriyama\nYasunori Shibayama\nMaki Yoshitake\nJun Sugiyama\nNaotaka Matsumoto\nYuhei Ariyama\nTakeshi Kiriyama\nSayaka Takagi\nMegumi Emi\nMario Club Co., Ltd.\nDIGITAL Hearts Co., Ltd.\n\n\n\nLeslie Swan\nNate Bihldorff\nTim O'Leary\nReiko Ninomiya\nRich Amtower\nScot Ritchey \nDan Owsen\n\n\n\nCamilo Alba Navarro\nH\xe9l\xe8ne Bisson-Pelland\nEric M. Smith\nThadd\xe9e Wiseur\nDavid Carrasco\nEthan Stockton\nKento Oiwa\nOwen Cooney\nNich Maragos\nDutch Hixenbaugh\nMatthew Niemi\nNOA Copy Editors\n\n\n\nMasayasu Nakata\nRandy Shoemake\nSeth Hanser\nSean Egan\nRobert Johnson\nAndy Kolden\nJeffrey Storbo\nTomoko Henley \nNicko Gonzalez De Santiago \nTeresa Lillygren\nKindra Timmerwilke \nShannon Jaye Roberts \nSara Hoad\nSt\xe9phane Arlot\nLudovic Tientcheu Ponkin\nGene Pencil\nSantavorn Mam\nMarko Wallenius\nMadison Levitan\nJames Dillon\nProduct Testing Technicians\nPTD Guideline Compliance\n\n\n\nStefan Kashani-Matin\nFabrizio Cattaneo\nAmbra Gostoli\nHanako Furuya\n\n\n\nKevin Murray\nAnastasia Golovanova\nAnton Ivanchikov\nChiara Botta\nChristian Buter\nCristina Sol\xe0\nEnrique S\xe1nchez Rosa\nGeorg Schmalhofer\nGiuseppe Tangerini\nGreg T. Sadownik\nJanine Wetherell\nMarijke Pustjens\nMarta Bizarro\nNicolas Sciotti\nPete Sheppard\nPierre Galmiche\nRodrigo Dias\nSarah Kelly\nGiacomo Iacumin\nGunnar Friedrich\nSara Sainz Nieto\nCarsten Harmans\nRui Mendes\nTatiana Dornbusch\n\n\n\nNaiara Ordorika Ibarguengoitia\nAndreas Langer\nBert Beeckman\nC\xe1tia Pinto Cardoso\nFlorent Aupert\nIbon D\xedez Maeztu\nInna Talalay\nLaura Soto Toral\nMalcolm Thorne\nMargarita Jabner\nMatteo Marras\nPatrick De Sousa\nSean Keoghan\nSonia Laranjeira Santos\nSteven Van de Voorde\nSwen Harder\nVeronica Casi\nMarc Henkler\nDaniele Alibrandi\n\n\n\nMARIO KART BAND\n\n\n\nNaohiro Saito\nHideto Yamazaki\nYasushi Omori\nShigeru Yokoyama\nHajime Nakatani\nSatoshi Oshita\nBANDAI NAMCO Studios Inc. \n\nTakayuki Shindo\nBANDAI NAMCO Entertainment Inc.\n\nTomohiko Yamazaki\nYuuki Aoshima\nKeisuke Kadota\nNaruhisa Kawano\nRyosuke Hirayama\nKohei Ozeki\nMasayoshi Oki\nEiichi Shirakawa\nYasuto Kakimoto\nHiromitsu Fujikawa\nFumihiko Tamiya\nHiroki Soji\nSatoko Okada\nJunji Morii\nTsubasa Sakaguchi\nChie Sakakura\nAki Sakurai\nTakashi Tomizuka\nTakayuki Haga\nJeff Miller\nAll EPD\n\n\n\nShigeru Miyamoto\nShinya Takahashi\n\n\n\nSatoru Iwata\nTatsumi Kimishima\n\n\nNintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n\xa9 2017 Nintendo\n\n\n\n\n\n\n\n\n
+7992	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\nKosuke Yabuki\n\n\n\nYasuyuki Oyagi\n\n\n\nYusuke Shiraiwa\n\n\n\nTatsuya Takadera\n\n\n\nYoshihisa Morimoto\nManabu Okano\n\n\n\nMasaaki Ishikawa\nMasahiro Kawanishi\n\n\n\nKenta Nagata\n\n\n\nKoji Kitagawa\nShintaro Jikumaru\nHokWai Ng\nShinichi Ikematsu\nKazuyoshi Sensui\nRyuhei Matsuura\nHideaki Fukuoka\nFumihiro Suzuki\nAkane Ishikawa\nMakoto Kawamata\nMasahito Yonekura\nYusuke Shigeta\n\n\n\nTakeshi Miyamoto\nYoshinori Konishi\nShoichi Obayashi\nMifune Hayata\nMiyuki Kimura\nKenta Sato\nJun Ito\nAkira Mizukami\nKeisuke Iba\nHideaki Nishihara\nJun Ito\nHideyuki Tatsuta\nShun Utsugi\nMasahiro Kishi\n\n\n\nHirotake Ohtsubo\nManabu Takehara\nEisuke Sasaki\nToshitaka Mukasa\n\n\n\nTetsuya Kobayashi\nJihyun Kim\nKotomi Jin\nYoshikazu Hara\nYohei Izumi\nTakeshi Hosono\nYoungseok Kong\nMiki Aoki\nJun Tanaka\nAkito Osanai\nHomi Hada\nHiroshi Yamada\nYoshihiro Wakao\nMariko Yoshino\nTakashi Yoshikawa\nRyoichi Yamagishi\nToshikatsu Terashima\nTsutomu Taniguchi\nTadatsugu Motomiya\nTatsuo Shioda\nNaruki Sugeno\n\n\n\nDaisuke Kageyama\nMichiho Hayashi\nMasanobu Sato\nRyota Akutsu\nShunsuke Otsuka\n\n\n\nTomomi Iwasaki\nMisaki Imura\nHikari Harada\nYoko Tanaka\nAya Shida\nKeisuke Umeda\nKazunori Fujii\nTsumugi Harunari\nToshiaki Abe\nOsamu Koumura\nNoriyoshi Sekiyama\nTakuya Naito\nSatomi Asakawa\n\n\n\nChiharu Takabayashi\nMai Yamamoto\nHiroko Nishibe\nEmi Tomita\n\n\n\nSayaka Nishimura\nMakoto Ohta\n\n\n\nShiho Fujii\nAtsuko Asahi\nRyo Nagamatsu\nYasuaki Iwata\nAsuka Hayazaki\nToru Minegishi\nKazumi Totaka\nKoji Kondo\n\n\n\nSanae Uchida\nMasato Mizuta\nToru Asakawa\n\n\n\nNatsuko Yokoyama\nYohei Miyagawa\nTaro Bando\nTakahisa Yamamoto\n\n\n\nHiroki Hirano\n\n\n\nYuki Ijiri\nSachiko Nakamichi\nRyuichi Suzuki\nKazuma Norisada\nKazuya Kikkawa\nHiroaki Kawagoe\nHiroshi Asai\nTamami Ishikawa\n\n\n\nYuri Adachi\nTakumi Wada\nNaoya Hasegawa\nShigehisa Nakaue\nRyusuke Yoshida\n\n\n\nYusuke Nakano\n\n\n\nYo Onishi\nYu Yamamoto\nTsuyoshi Watanabe\n\n\n\nHironobu Kakui\nHiroyuki Kimura\nNaomiki Yanagisawa\nYoshinobu Shimada\nTsuyoshi Kobayashi\nMasanori Kato\n\n\n\nKotaro Hiromatsu\nYasuhiro Kawaguchi\nYoshito Yasuda\nMasahiro Takeguchi\nHiroyasu Sasano\nTaichi Suzuki\nJunichi Hori\nShotaro Iwanaga\nHiroyuki Kato\nKensuke Nakanishi\nTomoatsu Nagafuji\nHiroki Yasuhara\nRyoma Kumamoto\n\n\n\nKenji Yamamoto\nTakuhiro Dohta\nAtsushi Haneda\nNao Ueda\nYoshiyuki Sawada\nKatsuhito Nishimura\nKatsuhisa Sato\nShigetoshi Kitayama\nMasato Kimura\nTetsuya Nakata\nDaisuke Hiratsu\nHaruki Tojo\nMasashi Mifune\nShuhei Matsuo\nRyota Maruko\nToyoki Kataoka\nHisashi Sekoguchi\nHitoshi Kanetani\nTsutomu Kaneshige\nNaoki Kinoshita\nTakahiro Okuda\nKazuhide Ueda\nYuta Ogura\nMasafumi Kawamura\nJunya Osada\nMitsuhiro Kida\nTomohisa Saito\nAtsushi Asakura\nTakanori Nishino\nYasushi Ebisawa\nTomohiro Nishino\n\n\n\nYu Nishikawa\nTetsu Okubo\nKimihiko Shimomura\nYuki Mitsui\nHirokazu Shimaoka\nTakayuki Hama\nTaketo Konno\nMasayuki Kimura\nKenkichi Miura\nShunsaku Kato\nAkira Okazaki\nHajime Nakao\nTakumi Masuda\n\n\n\nYoshiki Haruhana\nHitoshi Kobayashi\nKeijiro Inoue\nYoshifumi Masaki\nDaisuke Nobori\n\n\n\nMahito Yokota\nTakahiro Watanabe\n\n\n\nHitoshi Nishizawa\nMasashi Onishi\nKentaro Nishimura\nDaiki Moriyama\nYasunori Shibayama\nMaki Yoshitake\nJun Sugiyama\nNaotaka Matsumoto\nYuhei Ariyama\nTakeshi Kiriyama\nSayaka Takagi\nMegumi Emi\nMario Club Co., Ltd.\nDIGITAL Hearts Co., Ltd.\n\n\n\nLeslie Swan\nNate Bihldorff\nTim O'Leary\nReiko Ninomiya\nRich Amtower\nScot Ritchey \nDan Owsen\n\n\n\nCamilo Alba Navarro\nHélène Bisson-Pelland\nEric M. Smith\nThaddée Wiseur\nDavid Carrasco\nEthan Stockton\nKento Oiwa\nOwen Cooney\nNich Maragos\nDutch Hixenbaugh\nMatthew Niemi\nNOA Copy Editors\n\n\n\nMasayasu Nakata\nRandy Shoemake\nSeth Hanser\nSean Egan\nRobert Johnson\nAndy Kolden\nJeffrey Storbo\nTomoko Henley \nNicko Gonzalez De Santiago \nTeresa Lillygren\nKindra Timmerwilke \nShannon Jaye Roberts \nSara Hoad\nStéphane Arlot\nLudovic Tientcheu Ponkin\nGene Pencil\nSantavorn Mam\nMarko Wallenius\nMadison Levitan\nJames Dillon\nProduct Testing Technicians\nPTD Guideline Compliance\n\n\n\nStefan Kashani-Matin\nFabrizio Cattaneo\nAmbra Gostoli\nHanako Furuya\n\n\n\nKevin Murray\nAnastasia Golovanova\nAnton Ivanchikov\nChiara Botta\nChristian Buter\nCristina Solà\nEnrique Sánchez Rosa\nGeorg Schmalhofer\nGiuseppe Tangerini\nGreg T. Sadownik\nJanine Wetherell\nMarijke Pustjens\nMarta Bizarro\nNicolas Sciotti\nPete Sheppard\nPierre Galmiche\nRodrigo Dias\nSarah Kelly\nGiacomo Iacumin\nGunnar Friedrich\nSara Sainz Nieto\nCarsten Harmans\nRui Mendes\nTatiana Dornbusch\n\n\n\nNaiara Ordorika Ibarguengoitia\nAndreas Langer\nBert Beeckman\nCátia Pinto Cardoso\nFlorent Aupert\nIbon Díez Maeztu\nInna Talalay\nLaura Soto Toral\nMalcolm Thorne\nMargarita Jabner\nMatteo Marras\nPatrick De Sousa\nSean Keoghan\nSonia Laranjeira Santos\nSteven Van de Voorde\nSwen Harder\nVeronica Casi\nMarc Henkler\nDaniele Alibrandi\n\n\n\nMARIO KART BAND\n\n\n\nNaohiro Saito\nHideto Yamazaki\nYasushi Omori\nShigeru Yokoyama\nHajime Nakatani\nSatoshi Oshita\nBANDAI NAMCO Studios Inc. \n\nTakayuki Shindo\nBANDAI NAMCO Entertainment Inc.\n\nTomohiko Yamazaki\nYuuki Aoshima\nKeisuke Kadota\nNaruhisa Kawano\nRyosuke Hirayama\nKohei Ozeki\nMasayoshi Oki\nEiichi Shirakawa\nYasuto Kakimoto\nHiromitsu Fujikawa\nFumihiko Tamiya\nHiroki Soji\nSatoko Okada\nJunji Morii\nTsubasa Sakaguchi\nChie Sakakura\nAki Sakurai\nTakashi Tomizuka\nTakayuki Haga\nJeff Miller\nAll EPD\n\n\n\nShigeru Miyamoto\nShinya Takahashi\n\n\n\nSatoru Iwata\nTatsumi Kimishima\n\n\nNintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n© 2017 Nintendo\n\n\n\n\n\n\n\n\n
 Race.msbt
 9001	Resume
 9002	Quit
@@ -763,6 +810,10 @@ Race.msbt
 9267	Smart Steering\nOFF
 9268	Auto-accelerate\nON
 9269	Auto-accelerate\nOFF
+9270	Brake
+9271	*Rear view mirror not available.
+9272	*Braking, item aiming, and rear view mirror are not available.
+9273	Switch view
 9301	1st Race
 9302	2nd Race
 9303	3rd Race
@@ -843,33 +894,33 @@ Race.msbt
 9430	30th Round
 9431	31st Round
 9499	Final Round
-9501	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffcaught \x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff!
-9502	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffcaught \x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff!
-9503	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffcaught \x0e\0\x03\x02\0\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff!
-9504	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffcaught \x0e\0\x03\x02\0\0\x0e\x01\x06\x04\x01\0\0\0\x0e\0\x03\x02\xff\xff!
-9505	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffopened the cell!
-9506	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0 \x0e\0\x03\x02\xff\xffopened the cell!
+9501	{color[0000]}{[0106|00000000]} {color[ffff]}caught {color[0100]}{[0106|01000000]}{color[ffff]}!
+9502	{color[0000]}{[0106|00000000]} {color[ffff]}caught {color[0100]}{[0106|01000000]}{color[ffff]}!
+9503	{color[0100]}{[0106|00000000]} {color[ffff]}caught {color[0000]}{[0106|01000000]}{color[ffff]}!
+9504	{color[0100]}{[0106|00000000]} {color[ffff]}caught {color[0000]}{[0106|01000000]}{color[ffff]}!
+9505	{color[0000]}{[0106|00000000]} {color[ffff]}opened the cell!
+9506	{color[0100]}{[0106|00000000]} {color[ffff]}opened the cell!
 9508	5 to go!
 9509	4 to go!
 9510	3 to go!
 9511	2 to go!
 9512	1 to go!
 9513	HELP!
-9521	You hit \x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9522	You hit \x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9523	You hit \x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9524	You sidelined \x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9525	You sidelined \x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9526	You sidelined \x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff!
-9527	\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9528	\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9529	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9530	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9531	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9532	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff hit you!
-9541	\x0e\0\x03\x02\x03\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff stole the Shine!
-9542	\x0e\0\x03\x02\0\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff stole the Shine!
-9543	\x0e\0\x03\x02\x01\0\x0e\x01\x06\x04\0\0\0\0\x0e\0\x03\x02\xff\xff stole the Shine!
+9521	You hit {color[0300]}{[0106|00000000]}{color[ffff]}!
+9522	You hit {color[0000]}{[0106|00000000]}{color[ffff]}!
+9523	You hit {color[0100]}{[0106|00000000]}{color[ffff]}!
+9524	You sidelined {color[0300]}{[0106|00000000]}{color[ffff]}!
+9525	You sidelined {color[0000]}{[0106|00000000]}{color[ffff]}!
+9526	You sidelined {color[0100]}{[0106|00000000]}{color[ffff]}!
+9527	{color[0300]}{[0106|00000000]}{color[ffff]} hit you!
+9528	{color[0300]}{[0106|00000000]}{color[ffff]} hit you!
+9529	{color[0000]}{[0106|00000000]}{color[ffff]} hit you!
+9530	{color[0000]}{[0106|00000000]}{color[ffff]} hit you!
+9531	{color[0100]}{[0106|00000000]}{color[ffff]} hit you!
+9532	{color[0100]}{[0106|00000000]}{color[ffff]} hit you!
+9541	{color[0300]}{[0106|00000000]}{color[ffff]} stole the Shine!
+9542	{color[0000]}{[0106|00000000]}{color[ffff]} stole the Shine!
+9543	{color[0100]}{[0106|00000000]}{color[ffff]} stole the Shine!
 9601	Balloon Battle
 9602	Catch the renegades!
 9603	Dodge the law!

@@ -1,8 +1,186 @@
+AbilityList.msbt
+$TownAbilityListAttackText	攻擊力
+$TownAbilityListMultiTapText	連射力
+$TownAbilityListTitleText	進化種類
+Btn_Set	設定
+Btn_Evolution	進化
+Btn_Strengthen	強化
+Blueprint_Name	{[0309|0000]}設計圖
+CopyAbility_StrengthenedName	{[0309|0000]}{[0109|0200]}{[0301|0000]}
+$TownAbilityListBlueprintDetailText	進化所需物品
+$AbilityListDuringSetText	設定中
+CopyAbility_Detail_Bomb	長按按鍵瞄準後丟出炸彈。\n拿了就丟，砰砰作響的煙火！\n一邊跑一邊丟，讓炸彈在地上滾動，\n從坡道上滾啊滾地來個全倒！
+CopyAbility_Detail_ChainBomb	連鎖也就是連鎖發動的炸彈！\n長按進行瞄準後丟出炸彈佈局，\n引爆後就會產生連鎖反應，砰砰砰地爆炸！\n相連的炸彈越多傷害也會越高！
+CopyAbility_Detail_SearchBomb	更加新型的行走炸彈！\n炸彈丟出後會自動搜索敵人，\n一旦發現敵人就會鎖定目標突進！\n還能以連鎖炸彈追擊敵人！
+CopyAbility_Detail_Crash	引發大爆炸吧！\nDANGER DANGER的終極武器！\n長按按鍵變得更～加DANGER，\n波及四周，360度全方位無死角！
+CopyAbility_Detail_TimeCrash	這不會就是終極的武器吧？\n連時間都能操控的新武器！\n將這個世界的一切都變成慢動作，\n接著快速行動，破壞一切！
+CopyAbility_Detail_Cutter	擲出嗡嗡作響的迴旋刀刃吧！\n擲出後又回到手上，獲得道具了。\n長按按鍵蓄力就會停在空中喔。\n靜止蓄力，威力也會跟著提升！
+CopyAbility_Detail_ChakramCutter	居然是彎刀二刀流！\n操縱著兩輪圓月，\n交替投擲，劈砍四周。\n在空中嗡嗡作響，交錯飛過的圓月彎刀！
+CopyAbility_Detail_MetalCutter	出招吧！投擲出去吧！金屬彎刀！\n不但射程更遠，威力也更加提升。\n命中牆壁就會鏗鏘作響，\n善用反射使射程更遠一些吧！
+CopyAbility_Detail_Drill	鑽擊挖啊挖，在地底前進，\n似乎還能潛入地底躲避敵人的攻擊！\n只要在地底潛行，繼續前進，\n原本到不了的地方也能順利潛入！
+CopyAbility_Detail_PencilDrill	獨特設計的個性派鑽擊！\n超大的鉛筆雖然沒辦法寫字，\n卻可以挖掘大地潛入地底再竄出來。\n射擊吧！發射吧！鉛筆火箭！
+CopyAbility_Detail_TwinDrill	使用雙重鑽擊進行攻擊吧！\n有著只要在敵人下方的地底潛行\n就可以迅速打倒敵人的優秀能力！\n不但速度提升了，傷害也提升了！
+CopyAbility_Detail_Fire	烈火——！好燙！真的好燙！\n這熊熊燃燒的火焰之力，\n連導火線也能點燃，燙燙燙！\n使用衝刺突進，燃燒吧！
+CopyAbility_Detail_VolcanoFire	轟地一聲，火山要爆發了！\n大地的地熱造就了威力強大的烈火！\n砰砰砰地發射岩漿子彈，\n命中目標後連大地也熊熊燃燒化作焦土！
+CopyAbility_Detail_DragonFire	奇幻的怪物終於現身了！\n呼出氣息宛如火焰噴射器，\n釋放燃燒攻擊時會拍動翅膀！\n長按時就像龍在空中滑翔飛舞！
+CopyAbility_Detail_Hammer	威力超群，強而有力的錘子。\n雖然攻擊距離短了一點點，\n卻能夠把樁和敵人都打扁！\n長按進行蓄力，必殺技……鬼殺！
+CopyAbility_Detail_ToyHammer	會發出嗶嗶聲，非常可愛的錘子。\n但這可不是玩具喔！\n不論樁還是敵人都會被打得扁扁的，\n連射能力也一舉獲得提升！
+CopyAbility_Detail_RockHammer	又重又堅硬，狂野無比的錘子！\n雖然不太具備連續攻擊的能力……\n但能夠使出敲下去就讓大地龜裂，\n十分疼痛的一擊，造成巨大的傷害！
+CopyAbility_Detail_DededeHammer	自稱大王的那位所拿的錘子！\n變身狂野的蒙面俠後，\n雙手使出威力十足的強勢攻擊！\n就用這最強的錘子，來……上吧！
+CopyAbility_Detail_Ice	好冷喔～！使用吐息，呼～呼～呼～\n把冰塊踢飛吧！\n使用溜冰衝刺輕快地移動，\n不論在泥沼還是岩漿上都能迅速衝刺！
+CopyAbility_Detail_FrostyIce	戴著可愛帽子的冰霜冰凍。\n呼～呼～吹出吐息，\n創造出一個又一個的雪人。\n哎呀，長相都一模一樣呢！
+CopyAbility_Detail_BlizzardIce	帶來嚴寒暴雪的暴風雪！\n帥氣的帽子是冰之頭冠。\n不斷吹出寒冰吐息，並使用冰錐攻擊，\n是最強的冰凍能力！
+CopyAbility_Detail_Needle	滾來滾去～滾來滾去～\n利用碰到會很～痛的尖刺攻擊敵人！\n刺中並捲入星星或敵人，\n最後一口氣放開，讓所有東西受到撞擊吧！
+CopyAbility_Detail_JunkNeedle	使用廢品素材連續戳刺，\n滾動的針碰到可是會更痛的喔！\n砰地發射後，無數的廢品刺\n會飛向四周，好痛好痛！
+CopyAbility_Detail_CrystalNeedle	由天然素材構成，硬邦邦的水晶。\n只要一釋放，水晶就會四處飛散！\n滾動的時間也會變得更～長，\n在地上留下尖刺陷阱吧！
+CopyAbility_Detail_Ranger	星星子彈發射！\n閃耀光芒的射擊，距離可是很遠的喔。\n戴上威風凜凜的探險帽，\n選定目標後蓄力，發射！
+CopyAbility_Detail_EliteRanger	頭戴貴族帽子，造型華麗的探巡隊。\n雙手各拿著連發槍！\n蓄力射擊也變成連續射擊，\n不放過任何目標，一定會命中紅心！
+CopyAbility_Detail_SpaceRanger	飛向宇宙吧！太空探巡隊！\n從雷射槍到雷射光束一應俱全！\n閃耀光芒的子彈只要擊中敵人\n就能連續命中，傷害也會倍增！
+CopyAbility_Detail_Sleep	再睡1分鐘……Zzz……\n讓我……再睡一下嘛……好睏……Zz……\n睡覺期間……會回復……一點點……\nZz……Zz……z……
+CopyAbility_Detail_DeepSleep	迷迷糊糊……Zzz……\n走向……床邊……鑽進被窩……Zz……\n起床以後……會拿出……真本事的……\nZz……Zz……z……
+CopyAbility_Detail_Sword	戴著綠色帽子的劍之勇者\n朝著新世界前進！\n不但能斬斷各種東西，還能累積威力，\n目標是成為新‧世界的利劍大師！
+CopyAbility_Detail_GigantSword	巨大的利劍真不愧龐大利劍之名！\n雖然有點重所以拿起來很辛苦，\n但防禦堪稱鐵壁！能夠架起盾牌，\n緩慢前進保護自己並不斷進攻！
+CopyAbility_Detail_MetaSword	感覺就像變成了對手的魅塔騎士利劍！\n體力足夠時還能發出射擊。\n滑壘後用跳躍向上躍起使出連擊，\n帥氣地決定勝負！
+CopyAbility_Detail_MorphoSword	在決戰中為執行審判而現身的夢蝶。\n雖然這是模仿其外型、令人畏懼的紅色能力，\n不過連惡夢都能一口吃掉的卡比，\n應該能輕易地熟練使用此能力吧。
+CopyAbility_Detail_Tornado	轉啊轉，轉啊轉地轉個不停！\n別具特色的操作雖然讓人頭昏眼花，\n但不論是敵人、方塊還是星星都能捲起，\n旋轉後放開造成傷害！
+CopyAbility_Detail_SwanTornado	更加優雅，更加美麗。\n雖然柔軟但是威力卻提升了！\n利用風和羽毛將敵人捲進去，\n使出芭蕾般的舞蹈，華麗地進行攻擊！
+CopyAbility_Detail_StormTornado	帶來不安的龍捲風，雷聲隆隆的風暴！\n暴風再加上轟鳴聲，\n雷鳴響起，狂雷電擊！\n使用風與電的雙重攻擊來進攻吧！
+CopyAbility_MaxStrengthenedName	{[0309|0000]}{[0109|0200]}{[010a|0300]}
 AdviceWindow.msbt
 Msg_DeformWithAbility	{[1905|04cd]}看來似乎可以{color[ff4d2fff]}不捨棄{color[000000ff]}複製能力\n就使用塞滿嘴呢。{[0004]}試著保持現有能力，\n按{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}吸入看看吧！
 Msg_NoticeDropStarVacuum	{[1907|00cd]}敵人發動攻擊時所{color[ff4d2fff]}掉落的星星{color[000000ff]}\n似乎可以透過{color[ff4d2fff]}按{[0701|0100]}吸入後{color[000000ff]}，{color[ff4d2fff]}\n再按一次{[0701|0100]}{color[000000ff]}來吐出喔。{[0004]}沒有複製能力的時候，\n就吐出掉落的星星撞擊吧！
+Msg_GuideToBlueprint	{[1402]}{[1903|00cd]}先等一下！\n你還沒拿{color[ff4d2fff]}設計圖{color[000000ff]}呢。{[0004]}設計圖是很重要的，\n{color[ff4d2fff]}別忘記拿囉{color[000000ff]}。
+Msg_UseStockItemAtPinch	{[1905|05cd]}{[1402]}卡比小心，體力只剩下一點了！\n{color[ff4d2fff]}長按{[0702|0200]}{color[000000ff]}來使用現有的道具吧！
+Msg_EstorySoulCompleted	{[1907|01cd]}這麼一來，這附近的獅王的靈魂\n好像{color[ff4d2fff]}都已經找到了{color[000000ff]}呢。繼續前進吧！
+Msg_ManyRetryAtBoss_ExistNotPassedBlueprint	{[1909|00cd]}對了，卡比！\n說起來，你之前拿到了{color[ff4d2fff]}設計圖{color[000000ff]}對吧。{[0004]}那就前往小鎮的{color[ff4d2fff]}瓦豆魯迪武器店{color[000000ff]}，\n試著進化出更強大的能力吧！
+Msg_ManyRetryAtBoss_UsedCopyAbilityAbleToEvolution	{[1909|00cd]}對了，卡比！\n你剛才在戰鬥中所使用的\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力好像可以{color[ff4d2fff]}進化{color[000000ff]}囉。{[0004]}試著使用進化後的{color[ff4d2fff]}強大能力{color[000000ff]}\n去挑戰魔王吧！
+Msg_ManyRetryAtBoss_CopyAbilityAbleToUseEvoluted	{[1909|00cd]}對了，卡比！\n{color[ff4d2fff]}進化{color[000000ff]}之後的複製能力\n似乎非常地{color[ff4d2fff]}強大{color[000000ff]}喔。{[0004]}既然有各式各樣的能力，\n試著使用{color[ff4d2fff]}別的能力{color[000000ff]}來戰鬥\n或許也是不錯的選擇呢！
+Msg_ManyRetryAtBoss_GuideToFoodShop_01	{[1909|00cd]}對了，卡比！\n你有在使用{color[ff4d2fff]}庫存道具{color[000000ff]}嗎？\n只要{color[ff4d2fff]}長按{[0702|0200]}{color[000000ff]}，就算在戰鬥中也能使用喔。
+Msg_ManyRetryAtBoss_GuideToFoodShop_02	使用食物類的庫存道具\n還可以{color[ff4d2fff]}回復{color[000000ff]}體力呢。{[0004]}只要前往小鎮的{color[ff4d2fff]}瓦豆魯迪咖啡店{color[000000ff]}，{color[ff4d2fff]}\n{color[000000ff]}隨時都可以購買！
+Arena.msbt
+$ArenaEntryFirstRewardText	首次過關\n報酬
+$ArenaEntrySubtitle1Text	報酬
+ArenaPlayer_Single_Text	一人
+ArenaPlayer_Multi_Text	兩人
+ArenaEntry_ScoreTitle_Text	{[0302|0000]} 最佳過關時間
+ArenaEntry_ChangeRankToSingle_Text	切換為一人
+ArenaEntry_ChangeRankToMulti_Text	切換為兩人
+$ArenaEntryEraseRecordText	刪除記錄
+$ArenaEntryRank1stText	1
+$ArenaEntryRank2ndText	2
+$ArenaEntryRank3rdText	3
+ArenaEntry_RestBattleCount_Text	剩下 {[0301|0000]}戰
+$ArenaEntryBtnText	參加
+ArenaEntry_BattleCountTitle_Text	共{[0301|0000]}戰
+ArenaRevival_ReMatch_Text	要從第{[0301|0000]}戰開始重試嗎？
+ArenaRevival_RevivalBtn_Text	消耗{[0100|8000]}{[0301|0000]}重試
+$ReavivalBtnFromTheFirst	從頭重新開始
+$ReavivalBtnGiveUp	放棄
+$ArenaResultGameOverTitleHeadText	第
+$ArenaResultGameOverTitleText	戰敗退……
+ArenaResult_ScoreTitle_Text	{[0302|0000]} 最佳過關時間
+$ArenaResultRecordText	新記錄！
+$More	還有
+$Final	最終戰
+$Games	戰
+$Next	NEXT
+ArenaLive_FirstBattleStart_01	{[1b00|00cd]}{[1401]}好！終於要開始了！\n讓我們歡迎卡比選手入場～！
+ArenaLive_FirstBattleStart_02	{[1b00|00cd]}{[1401]}歡迎粉紅色挑戰者！\n卡比選手登場～！
+ArenaLive_FirstBattleStart_03	{[1b00|00cd]}{[1401]}歡迎關注度排行第1名！\n卡比選手入場～！
+ArenaLive_NormalBattleStart_01	{[1b00|00cd]}{[1401]}卡比選手令人熱血沸騰的戰鬥\n炒熱了整個會場的氣氛！
+ArenaLive_NormalBattleStart_02	{[1b00|00cd]}{[1401]}究竟卡比選手能持續獲勝到第幾戰呢？\n真是越來越令人期待了！
+ArenaLive_NormalBattleStart_03	{[1b00|00cd]}{[1401]}整個會場就像在為卡比選手\n加油一樣歡聲雷動～！
+ArenaLive_NormalBattleStart_04	{[1b00|00cd]}{[1401]}以優勝為目標，繼續前進吧！\n卡比選手！
+ArenaLive_NormalBattleStart_05	{[1b00|00cd]}{[1401]}不愧是卡比選手，氣勢十足！\n他如此強大的秘訣究竟是什麼呢！
+ArenaLive_NormalBattleStart_06	{[1b00|00cd]}{[1401]}卡比選手在下一場戰鬥中，\n又會展開怎樣的激烈戰鬥呢！？
+ArenaLive_NormalBattleStart_07	{[1b00|00cd]}{[1401]}卡比選手戰鬥時華麗的身姿，\n讓人連1秒都無法移開視線！！
+ArenaLive_NormalBattleStart_08	{[1b00|00cd]}{[1401]}會場的歡呼聲完全停不下來！\n連我都克制不住地跟著興奮起來啦——！
+ArenaLive_NormalBattleStart_09	{[1b00|00cd]}{[1401]}大家的英雄——卡比選手！\n精彩的戰鬥還在持續進行！
+ArenaLive_NormalBattleStart_10	{[1b00|00cd]}{[1401]}卡比選手戰鬥時令人讚嘆的英姿，\n讓觀眾都看出神了呢～！
+ArenaLive_NormalBattleStart_11	{[1b00|00cd]}{[1401]}繼精彩的各種招式之後……\n卡比選手又會讓我們見識到怎樣的招式呢！？
+ArenaLive_LastBattleStart_01	{[1b00|00cd]}{[1401]}令人熱血沸騰的戰鬥也將進入高潮～！\n直到最後都不容錯過～！
+ArenaLive_LastBattleStart_02	{[1b00|00cd]}{[1401]}最後的戰鬥終於要開始了！\n會場的氣氛……也來到最高點——！
+ArenaLive_LastBattleStart_03	{[1b00|00cd]}{[1401]}終於迎來最後一場戰鬥了！\n勝利的女神會對誰露出微笑呢！？
+ArenaLive_BossBattleExtraLobby01_01	{[1b01|00cd]}雖然實況的播報聲無法傳到神秘空間裡……\n但我會在這個房間等你的！！
+ArenaLive_BossBattleExtraLobby01_02	{[1b01|00cd]}聽說神秘空間裡有一群非常厲害的傢伙……\n雖然實況只到這個房間為止，你還是要加油喔！
+ArenaLive_BossBattleExtraLobby01_03	{[1b01|00cd]}雖然我們沒辦法前往神秘空間……\n但我會待在這個房間等你平安回來的！！
+ArenaLive_BossBattleExtraLobby02	{[1401]}{[1b01|02cd]}即使在神秘空間裡戰鬥也無所畏懼！\n不愧是一路獲勝至此的粉紅色英雄！
+ArenaLive_BossBattleExtraLobby03	{[1401]}{[1b01|02cd]}剛才的戰鬥好像十分可怕，但你平安無事呢。\n繼續以優勝為目標奮戰吧！！
+ArenaLive_BossBattleExtraLobby04	{[1401]}{[1b01|02cd]}卡比選手，你的狀況似乎很不錯呢！\n請保持這個狀態繼續努力吧！
+ArenaLive_BossBattleExtraLobby05	{[1b01|00cd]}我想這一定會是場艱難的戰鬥……\n但休息也是很重要的喔！
+ArenaLive_BossBattleExtraLobby06	{[1b01|00cd]}不愧是外號「粉紅色惡魔」的卡比選手，\n真是身經百戰！
+ArenaLive_BossBattleExtraLobby07	{[1401]}{[1b01|02cd]}卡比選手，狀況很不錯喔！\n請做好準備，下一戰也要加油！！
+ArenaLive_BossBattleExtraLobby08	{[1b01|00cd]}卡比選手！小心別大意了。\n接下來還會遇到更多可怕的對手喔！
+ArenaLive_BossBattleExtraLobby09	{[1b01|00cd]}接下來敵人的強度也會顯著提升喔！\n重整態勢後繼續加油吧！
+ArenaLive_BossBattleExtraLobby10	{[1b01|00cd]}不愧是粉紅色惡魔……\n看來取得優勝也肯定不是夢！
+ArenaLive_BossBattleExtraLobby11	{[1401]}{[1b01|02cd]}上吧，卡比選手！\n你一定能夠獲得勝利的！
+ArenaLive_BossBattleExtraLobby12_01	{[1b01|00cd]}終……終於來到最終決戰了～！\n祝你旗開得勝！！
+ArenaLive_BossBattleExtraLobby12_02	{[1401]}{[1b01|02cd]}克服了困難重重的戰鬥……\n下一場就是最終決戰了！加、加油啊～！！
+ArenaLive_BossBattleExtraLobby12_03	{[1401]}{[1b01|02cd]}終於來到最終決戰了……\n我相信你一定會平安回來的！！
+ArenaLive_KirbyPinch_01	{[1b00|01cd]}{[1402]}這下糟糕了！！\n卡比選手快被擊倒啦！
+ArenaLive_KirbyPinch_02	{[1b00|01cd]}{[1402]}卡比選手！狀況岌岌可危！\n他到底能不能撐下去呢！？
+ArenaLive_KirbyPinch_03	{[1b00|01cd]}{[1402]}卡比選手情勢險峻！\n他會就這樣被打倒嗎！？
+ArenaLive_BossAngry_01	{[1b00|01cd]}喔！對手也終於要拿出真本事了嗎！？\n別輸給對方啊，卡比選手！
+ArenaLive_BossAngry_02	{[1b00|01cd]}戰鬥也進入後半階段了！！\n接下來的戰鬥也不容錯過！
+ArenaLive_BossAngry_03	{[1b00|01cd]}卡比選手的攻擊見效了！\n對手接下來也要拿出真本事了嗎！？
+ArenaLive_SelectRevivalCount1	{[1b01|00cd]}卡比選手支撐不住倒下了！\n他還能夠站起來嗎？
+ArenaLive_SelectRevivalCount2	{[1b01|00cd]}卡比選手又倒下了～！\n他能夠再次站起來嗎！？
+ArenaLive_SelectRevivalCount3	{[1b01|00cd]}卡比選手的狀況越來越艱難了嗎？\n他還能繼續戰鬥嗎！？
+ArenaLive_SelectRevivalCount4	{[1b01|00cd]}已經連站起來都很吃力了嗎？\n現在正是該奮力一搏的時候！！
+ArenaLive_SelectRevivalCount5	{[1b01|00cd]}卡比選手！是否難以取得勝利了呢！？\n不！他一定能獲勝的！加油啊！！
+ArenaLive_BattleStartRevivalCount1	{[1b00|00cd]}{[1401]}卡比選手再次入場～！\n看來他還能再戰！！
+ArenaLive_BattleStartRevivalCount2	{[1b00|00cd]}卡比選手！他還沒放棄！\n看來這場戰鬥還是相當值得期待呢！！
+ArenaLive_BattleStartRevivalCount3	{[1b00|00cd]}卡比選手接連面對了幾場艱難的戰鬥！\n希望他還能繼續努力。
+ArenaLive_BattleStartRevivalCount4	{[1b00|00cd]}都走到這一步了，\n真希望卡比選手能取得優勝！加油啊！！
+ArenaLive_BattleStartRevivalCount5	{[1b00|00cd]}加油啊！卡比選手！\n我們都會陪著你的！！
+ArenaLive_ExtraLobbyRevivalCount1	{[1b01|00cd]}卡比選手，你沒事吧！？\n真正的戰鬥現在才要開始呢！
+ArenaLive_ExtraLobbyRevivalCount2	{[1b01|00cd]}卡比選手！現在還不能放棄。\n就從這一戰開始力挽狂瀾吧！！
+ArenaLive_ExtraLobbyRevivalCount3	{[1b01|00cd]}雖然這是場艱難的戰鬥，\n但可不能輕言放棄啊，卡比選手！
+ArenaLive_ExtraLobbyRevivalCount4	{[1b01|00cd]}現在正是該奮力一搏的時候了。\n加油啊！！卡比選手！！
+ArenaLive_ExtraLobbyRevivalCount5	{[1b01|00cd]}別認輸啊，卡比選手！！\n我相信你一定能取得優勝的。
+ArenaLive_GameOverLv1_01	{[1402]}{[1b01|01cd]}真的是太可惜了……\n期待你下次再來挑戰！
+ArenaLive_GameOverLv1_02	{[1402]}{[1b01|01cd]}卡比選手！\n你今天狀態不好嗎！？
+ArenaLive_GameOverLv1_03	{[1402]}{[1b01|01cd]}這次結果距離優勝還十分遙遠。\n卡比選手，別認輸！下次還有機會的！
+ArenaLive_GameOverLv2_01	{[1b01|00cd]}這次雖然輸了，\n但下次一定要以優勝為目標加油喔！
+ArenaLive_GameOverLv2_02	{[1b01|00cd]}期待你今後的努力！\n看來只能多加訓練了！
+ArenaLive_GameOverLv2_03	{[1b01|00cd]}雖然這次無法獲得優勝，\n但我能感覺到你還有成長的空間！
+ArenaLive_GameOverLv3_01	{[1b01|00cd]}真可惜，都已經一路贏到這裡了，\n這次敗北實在令人惋惜！
+ArenaLive_GameOverLv3_02	{[1b01|00cd]}前期的表現其實挺不錯的，\n是不是後期有些累了呢？
+ArenaLive_GameOverLv3_03	{[1b01|00cd]}卡比選手，雖然你一路奮鬥至此……\n可惜卻沒能取得優勝啊！
+ArenaLive_GameOverLv4_01	{[1b01|00cd]}感覺只差一步就能取得優勝了。\n真讓人期待你下次參賽的表現！
+ArenaLive_GameOverLv4_02	{[1b01|00cd]}戰鬥中雖然有不少令人驚豔的表現，\n但還是未能獲得優勝啊……
+ArenaLive_GameOverLv4_03	{[1b01|00cd]}終於看到優勝的曙光了！\n彷彿還能聽見充滿期待的加油聲。
+ArenaLive_GameOverLv5_01	{[1b01|00cd]}卡比選手！這實在太讓人不甘心啦～！\n相信你下次絕對會獲得優勝的！！
+ArenaLive_GameOverLv5_02	{[1b01|00cd]}距離獲得優勝就只差一點點了！\n希望你不要放棄，下次再來挑戰！
+ArenaLive_GameOverLv5_03	{[1b01|00cd]}沒想到會在最後的最後遇上強敵……\n勝利明明就在眼前了！
+ArenaLive_ResultClearFirst_CartelOfMetaKnight	{[1401]}{[1b01|02cd]}沒想到你竟然贏過魅塔騎士選手了！\n恭喜你獲得了首次優勝～！
+ArenaLive_ResultClearFirst_BossBattle	{[1401]}{[1b01|02cd]}你的表現真是太出色了！\n粉紅色的英雄，恭喜你首次獲得了優勝～！
+ArenaLive_ResultClearFirst_BossBattleExtra	{[1401]}{[1b01|02cd]}你竟然能從那個空間平安歸來……\n真不愧是來自波普之星的卡比～！！
+ArenaLive_ResultClear_01	{[1401]}{[1b01|02cd]}真是場激烈的戰鬥！\n也期待你參加下次大會時的表現喔～！
+ArenaLive_ResultClear_02	{[1401]}{[1b01|02cd]}真是場發揮穩定的戰鬥呢！\n是由精湛的戰鬥技巧所帶來的勝利！
+ArenaLive_ResultClear_03	{[1401]}{[1b01|02cd]}結果很不錯呢！\n期待你下次也能獲得優勝喔～！
+ArenaLive_ResultClearRankIn_01	{[1401]}{[1b01|02cd]}真是場精彩的戰鬥！\n期待你能再次更新自己的過關時間！！
+ArenaLive_ResultClearRankIn_02	{[1401]}{[1b01|02cd]}你獲得了不錯的時間成績喔！\n下次就以第1名的記錄為目標吧！！
+ArenaLive_ResultClearRankIn_03	{[1401]}{[1b01|02cd]}很可惜，這次你無法更新第1名的記錄！\n不過依然是場精彩的戰鬥！！
+ArenaLive_ResultClearNewRecord_01	{[1401]}{[1b01|02cd]}卡比選手締造出了\n前所未聞的時間成績！！
+ArenaLive_ResultClearNewRecord_02	{[1401]}{[1b01|02cd]}竟然更新記錄了！\n卡比選手以前所未見的時間成績取得了優勝！
+ArenaLive_ResultClearNewRecord_03	{[1401]}{[1b01|02cd]}終於打破歷史記錄了！\n恭喜你更新了最佳過關時間！！
+ArenaLive_ResultClear_BossBattleExtra_01	{[1401]}{[1b01|02cd]}那似乎是個可怕的空間……\n恭喜你平安存活下來～！！
+ArenaLive_ResultClear_BossBattleExtra_02	{[1401]}{[1b01|02cd]}不愧是在這個世界和其他世界\n都所向無敵的卡比選手……恭喜你平安存活～！！
+ArenaLive_ResultClear_BossBattleExtra_03	{[1401]}{[1b01|02cd]}看來你也漸漸習慣那個空間裡的戰鬥了！\n恭喜你平安存活下來！！
+ArenaLive_ResultClearRankIn_BossBattleExtra_01	{[1401]}{[1b01|02cd]}雖然是在那個可怕的空間裡戰鬥，\n卻依然創造了完美的記錄……不愧是星之卡比！！
+ArenaLive_ResultClearRankIn_BossBattleExtra_02	{[1401]}{[1b01|02cd]}這記錄挺不錯的耶！？\n果然不論在哪個空間裡，卡比選手都是無敵的！
+ArenaLive_ResultClearRankIn_BossBattleExtra_03	{[1401]}{[1b01|02cd]}卡比選手成功存活下來了！！\n下次就以第1名的時間成績為目標吧～！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_01	{[1401]}{[1b01|02cd]}不但面對任何空間都無所畏懼，甚至還創下了\n第1名的新記錄……！不愧是星之卡比！！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_02	{[1401]}{[1b01|02cd]}在那個空間裡到底發生了什麼樣的戰鬥……\n星之卡比，以新記錄拿下了優勝！！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_03	{[1401]}{[1b01|02cd]}在那個空間裡到底發生了什麼……！竟然更新了\n第1名的新記錄，不愧是我們的星之卡比！！
 Caption.msbt
-EventMoviePromotion	在正式版有更多的冒險等待著你{[0004]}充滿個性的複製能力尚未登場{[0004]}利用沒見過的塞滿嘴變形{[0004]}在被神秘包圍的新世界四處前進！{[0004]}可以兩人一起使用Joy-Con分享遊玩！{[0004]}拯救瓦豆魯迪後小鎮便會蓬勃發展{[0004]}充滿有趣商店！{[0004]}進化此作的複製能力！{[0004]}將喜歡的複製能力提升威力吧！{[0004]}還有更多嶄新的故事{[0004]}被抓走的瓦豆魯迪們以及和同伴的相遇……{[0004]}來襲的神祕敵人野獸軍團的侵略！{[0004]}卡比們可以平安無事地救出瓦豆魯迪們{[0004]}並取回新世界的和平嗎！{[0004]}最後等待著卡比的命運將是！？
+ElevatorDemoAnnounce	語言設定……自動……{[0004]}認證系統……運轉……{[0004]}認證中……認證中……{[0004]}確認入館代碼。{[0004]}再次啟動館內導航。{[0004]}準備好了嗎？{[0004]}科學研究所「實驗室‧摸索發覺」的{[0004]}緊張刺激的發現夢幻遊覽！{[0004]}那麼最後，{[0004]}來介紹一下所謂的{[0004]}究極生命體「ID-F86」。{[0004]}自從ID-F86飛來這個行星後，{[0004]}便不斷地對許多原生種{[0004]}進行侵略活動。{[0004]}研究對策隊伍對其危險性感到不安，{[0004]}便捕獲這個對象。{[0004]}自此以來，這間研究所開始研究開發{[0004]}ID-F86所擁有的空間轉移能力，{[0004]}如今，我們已掌握到{[0004]}行星之間傳送技術的基礎！{[0004]}但是，研究開發後的第30年……{[0004]}卻發生那件歷史性的傳送實驗事故。{[0004]}因為事故，從體內分離出的個體{[0004]}逃到了設施外面。{[0004]}到了現在，都還沒有找到。{[0004]}從此之後，ID-F86就再也沒有{[0004]}重啟任何活動，{[0004]}現在也被永久保存在{[0004]}這實驗室‧摸索發覺的最上層的{[0004]}永恆膠囊之中。{[0004]}那麼，請看！{[0004]}究極生命體——ID-F86！
+ThemeSong	來吧　準備好了嗎？{[0004]}已經看得到囉　NEW WORLD{[0004]}那是不可思議的夢幻國度　一起來玩吧{[0004]}儘管歡笑與哭泣　大口塞滿嘴　吃飽睡午覺{[0004]}那是任誰也無法打擾　專屬於你的FIELD{[0004]}就連那片天空也都是你的畫布{[0004]}奔馳吧{[0004]}乘上你心所向的汽車{[0004]}風兒啊{[0004]}輕拂過耀眼的草原　歡迎來到NEW WORLD！{[0004]}
+ThemeSongLocalLyric	STRANGE HORIZON. READY TO GO.{[0004]}FEAST YOUR EYES ON A NEW WORLD!{[0004]}A NEW DREAMLAND. A PLACE WHERE YOU'LL LAUGH AND SMILE.{[0004]}ALONG THE WAY, STUFF YOUR BELLY AND NAP AWHILE.{[0004]}NO ONE CAN HOLD YOU BACK. NEW FIELDS FULL OF MYSTERY.{[0004]}THE SKY'S OPENED UP, AND THERE'S SO MUCH TO SEE.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A NEW WORLD!
+FullThemeSong	來吧　準備好了嗎？{[0004]}已經看得到囉　NEW WORLD{[0004]}那是不可思議的夢幻國度　一起來玩吧{[0004]}儘管歡笑與哭泣　大口塞滿嘴　吃飽睡午覺{[0004]}那是任誰也無法打擾　專屬於你的FIELD{[0004]}就連那片天空也都是你的畫布{[0004]}奔馳吧{[0004]}乘上你心所向的汽車{[0004]}風兒啊{[0004]}輕拂過耀眼的草原　歡迎來到NEW WORLD！{[0004]}閉上雙眼　就能感受到{[0004]}那海浪的低鳴　NEW WORLD{[0004]}只要有美食品嚐　再鬱悶的心也會豁然開朗{[0004]}迫不及待的心情　穿過那扇令人心跳加速的門扉{[0004]}別擔心　只要與你在一起就擁有FREEDOM{[0004]}海浪捲走了褪下的衣物{[0004]}一起歡笑吧{[0004]}我會一直陪伴在你身旁{[0004]}不論是誰{[0004]}心中都滿懷著各自的愛　歡迎來到NEW WORLD！{[0004]}奔馳吧{[0004]}乘上你心所向的汽車{[0004]}風兒啊{[0004]}輕拂過耀眼的草原　歡迎你的到來{[0004]}帶著雀躍的心　你就是自由的{[0004]}心中滿懷著各自的愛　Wow Oh Oh！{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}
+FullThemeSongLocalLyric	STRANGE HORIZON. READY TO GO.{[0004]}FEAST YOUR EYES ON A NEW WORLD!{[0004]}A NEW DREAMLAND. A PLACE WHERE YOU'LL LAUGH AND SMILE.{[0004]}ALONG THE WAY, STUFF YOUR BELLY AND NAP AWHILE.{[0004]}NO ONE CAN HOLD YOU BACK. NEW FIELDS FULL OF MYSTERY.{[0004]}THE SKY'S OPENED UP, AND THERE'S SO MUCH TO SEE.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A NEW WORLD!{[0004]}STRANGE EMOTION. WHAT DO YOU FEEL?{[0004]}THE ROARING OCEAN OF A NEW WORLD!{[0004]}DON'T BE AFRAID. FACE YOUR FEARS#YOU'LL HUNGER FOR MORE.{[0004]}THE TENSION BUILDS; PLUNGE AHEAD ON THIS THRILLING TOUR.{[0004]}THINK OF THE FRIENDS YOU'VE MADE, ALL OF THEM LIVING FREE.{[0004]}THEIR CARES HAVE BEEN WASHED AWAY BY A WILD SEA.{[0004]}LAUGHING LOUD!{[0004]}EVEN IF YOU'RE FAR APART, THEY'RE RIGHT BY YOUR SIDE.{[0004]}HEARTS FULL OF LOVE!{[0004]}EVERYONE IS WELCOME TO LIVE IN THIS NEW WORLD.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A#{[0004]}OPEN HEARTS ALREADY FLUTTERING FREE AND RIDING THE BREEZE.{[0004]}NOTHING BUT LOVE TO SHARE WITH EVERYONE WE KNOW. WHOA!{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}
+EventMovieEnding	卡比，這裡……\n是波普之星嗎！？{[0004]}這、這樣下去，一切都會被吞噬殆盡的……！{[0004]}我會用我所有的力量……{[0004]}關閉世界之間的……聯繫！{[0004]}卡比，這段時間……{[0004]}謝謝你的……照顧……{[0004]}
 Cmn.msbt
 $HeroPanelRevivalText	復活
 $CameraResetText	重置視角
@@ -16,47 +194,659 @@ $PointStarPenaltySign	-
 $ClosingBracket	)
 $OpeningBracket	(
 $Slash	/
+CstageTitle	寶藏之路
+$StageStartCstageBestTime	最佳過關時間
+$StageStartCstageDifficult	難易度
+$StageStartCstageTargetTime	目標時間
+SoulScore	獅王的靈魂
+SoulScoreUnreveale	？？？
+$EstoryCountSlash	/
+TimeDisplayCsecPunctuation	.
+TimeDisplaySecPunctuation	:
+TimeDisplayCsecPunctuation_Cstage	.
+TimeDisplaySecPunctuation_Cstage	:
+TimeDisplayCsecPunctuation_Mgame	.
+TimeDisplaySecPunctuation_Mgame	:
+TimeDisplayCsecPunctuation_MgameBest	.
+TimeDisplaySecPunctuation_MgameBest	:
+TimeDisplayCsecPunctuation_ArenaRank	.
+TimeDisplaySecPunctuation_ArenaRank	:
+TimeDisplayCsecPunctuation_ArenaTimer	.
+TimeDisplaySecPunctuation_ArenaTimer	:
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	-
+TimeDisplayEmpty_CstageBestTime	--
+DestInfo_ToLv0	前往初始之地
+DestInfo_ToWmap	前往世界地圖
+DestInfo_ToEstory	前往絕島空間
+$ToWmapNew	NEW!
+DestInfo_Retry	重試
 $CmnVolShadowText	Vol.
 $CmnVolText	Vol.
+$CmnDifficultySelectTitle	請選擇難易度
 $CmnDifficultySelectCasual	春風\n模式
 $CmnDifficultySelectStandard	狂野\n模式
 DifficultySelectExplanationCasual	與往常一樣能夠輕鬆遊玩的星之卡比。\n{color[ff4d2fff]}體力較多{color[000000ff]}，適合不擅長動作遊戲的玩家。
 DifficultySelectExplanationStandard	稍微狂野又有挑戰性的星之卡比。\n{color[ff4d2fff]}還能獲得許多{color[000000ff]}{[0100|8000]}硬幣星，{color[ff4d2fff]}十分推薦遊玩{color[000000ff]}！
+$DifficultySelectExplanationSub	※之後也可以進行更改
+$Explanation	說明
+StrengthenedCopyAbilityName	{[0309|0000]}{[0108|0100]}{[0301|0000]}
 KiloSeparator	,
+KiloSeparator_MgameFish	,
+DecimalPoint	.
+MaxStrengthenedCopyAbilityName	{[0309|0000]}{[0108|0100]}{[010a|0300]}
+Credit.msbt
+EndTextNormal	To be continued...
+EndTextEstory	THE END
+Staff	Staff
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+Director	DIRECTOR
+Director_00	TATSUYA KAMIYAMA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	YUKI ENDO
+GameDesigners	GAME DESIGNERS
+GameDesigners_00	YUYA KOZUKA
+GameDesigners_01	KOSUKE YAMAZAKI
+GameDesigners_02	RYOSUKE SAKAMOTO
+GameDesigners_03	TAKU KOINUMA
+GameDesigners_04	MARI UEDA
+GameDesigners_05	HIROKI MORIGUCHI
+GameDesigners_06	MARI TAKAHARA
+GameDesigners_07	YUKI TAKAHARA
+GameDesigners_08	SHOTA YAMADA
+GameDesigners_09	AKIRA OONO
+GameDesigners_10	KEITA TANIFUJI
+GameDesigners_11	YUTAKA WATANABE
+GameDesigners_12	RYOTA YAMANAKA
+TechnicalDirector	TECHNICAL DIRECTOR
+TechnicalDirector_00	YUDAI HIRATA
+LeadTechnicalProgrammer	LEAD TECHNICAL PROGRAMMER
+LeadTechnicalProgrammer_00	HIROAKI NAKANO
+LeadActionProgrammer	LEAD ACTION PROGRAMMER
+LeadActionProgrammer_00	KATSUYOSHI SUMITOMO
+LeadCharacterProgrammer	LEAD CHARACTER PROGRAMMER
+LeadCharacterProgrammer_00	TAKASHI NOZUE
+LeadRenderingProgrammer	LEAD RENDERING PROGRAMMER
+LeadRenderingProgrammer_00	MUNEMASA KIMURA
+ProceduralFieldProgrammer	PROCEDURAL FIELD PROGRAMMER
+ProceduralFieldProgrammer_00	AYUMU KATO
+Programmers	PROGRAMMERS
+Programmers_00	RUI UCHIDA
+Programmers_01	TOMOHIRO KAMOCHI
+Programmers_02	YU ARIMATSU
+Programmers_03	TAKASHI NEMOTO
+Programmers_04	YUSHI UCHIDA
+Programmers_05	KAZUHIRO MIZUSAWA
+Programmers_06	TAKAAKI KAWAHARA
+Programmers_07	KOJI ISHII
+Programmers_08	HAJIME IMAIZUMI
+Programmers_09	YUTARO FUJIMURA
+Programmers_10	KAKUYA MAEKUBO
+Programmers_11	MASAHIRO NAKAJIMA
+Programmers_12	TATSUYA BEPPU
+Programmers_13	SATORU NAKANISHI
+Programmers_14	NAOYA TAKI
+Programmers_15	SHO TAJIMA
+Programmers_16	AKIHIRO YAMASHITA
+Programmers_17	KOUJI KIKKAWA
+Programmers_18	SATOSHI OHTAKE
+ArtDirector	ART DIRECTOR
+ArtDirector_00	RIKI FUHRMANN
+LeadCharacterArtist	LEAD CHARACTER ARTIST
+LeadCharacterArtist_00	KENICHIRO KITA
+CharacterArtists	CHARACTER ARTISTS
+CharacterArtists_00	KENICHI SAKUMA
+CharacterArtists_01	HITOSHI KIKKAWA
+CharacterArtists_02	TSUKASA KIRINOE
+CharacterArtists_03	MAMIKO SATO
+CharacterArtists_04	KENTA MIYAMOTO
+CharacterArtists_05	KAIJIRO KOJIMA
+CharacterArtists_06	FUMIYASU KATO
+CharacterArtists_07	FUMIAKI MIYAUCHI
+CharacterArtists_08	AMI ISHIKAWA
+CharacterArtists_09	YUKIKO TAGAWA
+CharacterArtists_10	SAYAKA YANAGA
+LeadFieldArtist	LEAD FIELD ARTIST
+LeadFieldArtist_00	DAISUKE MORISHITA
+FieldArtists	FIELD ARTISTS
+FieldArtists_00	YUKI HONDA
+FieldArtists_01	TADASHI HASHIKURA
+FieldArtists_02	SAORI ONO
+FieldArtists_03	YUKI YOSHIOKA
+FieldArtists_04	SANAE MATSUO
+FieldArtists_05	NATSUKI TSUJI
+FieldArtists_06	AYAKO SOUMA
+FieldArtists_07	TOMOKA OGURA
+FieldArtists_08	YUSUKE ISHIKAWA
+FieldArtists_09	KENSUKE FUKUMARU
+FieldArtists_10	SHINGO KABAYA
+FieldArtists_11	SUNAO KASHIWANO
+FieldArtists_12	YOSHIKA KITAMI
+FieldArtists_13	SHOHEI TAKEHARA
+FieldArtists_14	TAKASHI SAITO
+FieldArtists_15	WILLIAM OKUDA
+LeadEnvironmentArtist	LEAD ENVIRONMENT ARTIST
+LeadEnvironmentArtist_00	AKIHIRO KANNO
+LeadProceduralFieldArtist	LEAD PROCEDURAL FIELD ARTIST
+LeadProceduralFieldArtist_00	NATSUMI MURAKI
+LeadUiArtists	LEAD UI ARTISTS
+LeadUiArtists_00	SHIGEYUKI KAWATA
+LeadUiArtists_01	HARUKA ITOH
+UiArtists	UI ARTISTS
+UiArtists_00	MASASHI FUJIURA
+UiArtists_01	NAHO YOSHIZAWA
+UiArtists_02	CHIHIRO SAKAIDA
+UiArtists_03	ASAMI NAKATA
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	KATSUMI NIHOMMATSU
+Movie_02	HISANORI MATSUSHIMA
+Movie_03	AKIKO SASAOKA
+Movie_04	HIROYUKI KOJIMA
+Movie_05	YOSUKE TANABE
+Movie_06	NARUYA TSUNODA
+Movie_07	SAYOKO YAMADA
+Movie_08	AKIRA GOTO
+Movie_09	KASUMI SAKA
+Movie_10	AYAKA MATSUMOTO
+Movie_11	TOMOHIRO KIKUCHI
+Movie_12	RIKI KANEDA
+Movie_13	MASAYA HOMMA
+Movie_14	YUKIHISA WADA
+Movie_15	EMI NAGO
+Movie_16	MISATO NAKAJIMA
+Movie_17	YUGO SAKAI
+Movie_18	AKIRA NINAGAWA
+Movie_19	KAORUKO KITAICHI
+LeadSound	LEAD SOUND
+LeadSound_00	YUUTA OGASAWARA
+LeadMusic	LEAD MUSIC
+LeadMusic_00	HIROKAZU ANDO
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	YUKI SHIMOOKA
+Voice	VOICE
+Voice_00	MAKIKO OHMOTO
+Voice_01	KURUMI MAMIYA
+Voice_03	KENTA MIYAKE
+Voice_05	MINAMI TAKAYAMA
+Voice_07	KAY CAL
+Voice_08	CRISTINA LUCÍA JÁUREGUI
+Voice_09	FANNIE SENÉCAL
+Voice_10	CLÉMENCE DIERYCK
+Voice_11	STEFANIA MONTAGNESE
+Voice_12	NINA RAU
+Voice_13	ELIZABETH SÁNCHEZ LEÓN
+Voice_14	SASKIA DOORSCHODT
+Voice_15	BONA KIM
+FratFrameworkProgrammers	FRAT FRAMEWORK PROGRAMMERS
+FratFrameworkProgrammers_00	TOMOKAZU TSURUOKA
+FratFrameworkProgrammers_01	SHINYA WATANABE
+FratFrameworkProgrammers_02	RYOICHIRO ATONO
+FratFrameworkProgrammers_03	SHINICHI KAWAJI
+FratFrameworkProgrammers_04	TETSUYA NOGE
+FratFrameworkProgrammers_05	TATSUYA MURASE
+FratFrameworkProgrammers_06	SHUN YASAKA
+FratFrameworkProgrammers_07	KAZUYA SUETSUGU
+FratFrameworkProgrammers_08	MASATAKA SESHIMO
+FratFrameworkProgrammers_09	TAKASHI MATSUDA
+FratFrameworkProgrammers_10	YUYA SUZUKI
+NetworkProgrammer	NETWORK PROGRAMMER
+NetworkProgrammer_00	HIROSHI OHNISHI
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	YOUSUKE FUKUNAGA
+TechnicalSupport_01	KAZUYA KONISHI
+TechnicalSupport_02	MASAYUKI NAGATA
+TechnicalSupport_03	JUNICHI AOYAGI
+TechnicalSupport_04	TAKAAKI KAZUNO
+TechnicalSupport_05	TAKAYUKI SUGANO
+TechnicalSupport_06	YUYA NATSUMI
+TechnicalSupport_07	AKIO HANYU
+TechnicalSupport_08	TATSUHIRO TANOUE
+TechnicalSupport_09	TAKESHI MINAGAWA
+TechnicalSupport_10	SHOTARO IWANAGA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	KATSUHIRO SAKODA
+TeamSupport_02	SHIGERU HIRAYAMA
+Artwork	ARTWORK
+Artwork_00	YUTO IBARAKI
+Artwork_01	TOMOMI OZAKI
+Artwork_02	MAI SAKAMOTO
+Artwork_03	EMI IMAMURA
+Artwork_04	RIEKO KAWAHARA
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	TAKESHI TAMURA
+Testing_02	AKIKO OHASHI
+Testing_03	AIHO KUBO
+Testing_04	ERINA TANAKA
+Testing_05	HAL DEBUG TEAM
+Testing_06	Mario Club Co., Ltd.
+Testing_07	DIGITAL HEARTS Co., Ltd.
+LocalizationManagement	LOCALIZATION MANAGEMENT
+LocalizationManagement_00	SEIJI OTOGURO
+Localization	LOCALIZATION
+Localization_00	SHIGERU HASHIGUCHI
+Localization_01	KENICHI MASUDA
+NoaLocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NoaLocalizationManagement_00	REIKO NINOMIYA
+NoaLocalizationManagement_01	RICH AMTOWER
+NoaLocalizationManagement_02	TIM O'LEARY
+NoaLocalizationManagement_03	SCOT RITCHEY
+NoaLocalizationManagement_04	MORGAN RITCHIE
+NoaLocalizationManagement_05	THADDÉE WISEUR
+NoaLocalizationManagement_06	ÁLEX ZARZA
+NoaLocalization	NOA LOCALIZATION
+NoaLocalization_00	LAUREN AMMERMAN
+NoaLocalization_01	GAB BERGOLLO DROUYN
+NoaLocalization_02	BILLY CARROLL
+NoaLocalization_03	YANETT CEPEDA VALOR
+NoaLocalization_04	ROSA COGLEY
+NoaLocalization_05	MARJOLAINE DROUIN
+NoaLocalization_06	RAYMOND ELLIGET
+NoaLocalization_07	LARA GIBRAN
+NoaLocalization_08	PALOMA HERNANDEZ
+NoaLocalization_09	BRANDON KRAEMER
+NoaLocalization_10	JOSÉE LEBEAU-BÉDARD
+NoaLocalization_11	YORIKO MARUSICH
+NoaLocalization_12	CÉSAR PÉREZ
+NoaLocalization_13	TARYN ZIEGLER
+NoaProductTesting	NOA PRODUCT TESTING
+NoaProductTesting_00	ED RIDGEWAY
+NoaProductTesting_01	MANNA YAMASAKI
+NoaProductTesting_02	MAIRO SMALL
+NoaProductTesting_03	EVAN WRIGHT
+NoaProductTesting_04	CRAIG SO
+NoaProductTesting_05	RILEY SCOTT
+NoaProductTesting_06	DYLAN RONDEAU
+NoeLocalisationProducers	NOE LOCALISATION PRODUCERS
+NoeLocalisationProducers_00	LIAM HIGGINS
+NoeLocalisationProducers_01	HEDINN HARALDSSON
+NoeTranslationCoordination	NOE TRANSLATION COORDINATION
+NoeTranslationCoordination_00	PIERRE SANCHEZ
+NoeTranslation	NOE TRANSLATION
+NoeTranslation_00	PATRICK JOYCE
+NoeTranslation_01	GURVAN LE GUEN
+NoeTranslation_02	CLÉMENCE DIERYCK
+NoeTranslation_03	BARBARA PISANI
+NoeTranslation_04	ANNA TARANTINI
+NoeTranslation_05	SEBASTIAN BRÜCK
+NoeTranslation_06	SASCHA WEINARD
+NoeTranslation_07	ALEXANDER VAN DE BERGH
+NoeTranslation_08	AINHOA BERNAD HURTADO
+NoeTranslation_09	PATRICK KOUDSTAAL
+NoeTranslation_10	JÓNATAN MARCOS MILLÁN
+NoeTranslation_11	THOMAS DEN HAAN
+NoeTranslation_12	VINCENT MEIJER
+NoeQaCoordination	NOE QA COORDINATION
+NoeQaCoordination_00	J. IGNACIO LEÓN LÓPEZ
+NoeQualityAssurance	NOE QUALITY ASSURANCE
+NoeQualityAssurance_00	DAMIEN BRICHARD
+NoeQualityAssurance_01	MATTHIEU LAMOUROUX
+NoeQualityAssurance_02	PASQUALE GIANLUCA MICELI
+NoeQualityAssurance_03	LUTZ OHL
+NoeQualityAssurance_04	CHRISTINA STOFFEL
+NoeQualityAssurance_05	JESSICA SÁNCHEZ HERRERA
+NoeQualityAssurance_06	SANDRA DÍAZ CABRAL
+NoeQualityAssurance_07	JOACHIM LUST
+NoeQualityAssurance_08	BRIAN DEVITS
+NoeVoiceCoordination	NOE VOICE COORDINATION
+NoeVoiceCoordination_00	KEVIN MURRAY
+NokLocalizationManagement	NOK LOCALIZATION MANAGEMENT
+NokLocalizationManagement_00	DONGYEON KIM
+NokTranslation	NOK TRANSLATION
+NokTranslation_00	JIHYUEN YOO
+NokQualityAssurance	NOK QUALITY ASSURANCE
+NokQualityAssurance_00	KIUNG SEOUNG
+NokQualityAssurance_01	PTW Korea Co., Ltd.
+NokArtwork	NOK ARTWORK
+NokArtwork_00	SUZY DO
+NhlLocalizationCoordination	NHL LOCALIZATION COORDINATION
+NhlLocalizationCoordination_00	WANG ZHONG LONG
+NhlTranslation	NHL TRANSLATION
+NhlTranslation_00	SEAN SHEN
+NhlTranslation_01	TRACY CHENG
+NhlTranslation_02	PTW (Singapore) Pte. Ltd., Taiwan Branch
+NhlQualityAssurance	NHL QUALITY ASSURANCE
+NhlQualityAssurance_00	PTW (Singapore) Pte. Ltd., Taiwan Branch
+NhlArtwork	NHL ARTWORK
+NhlArtwork_00	MIKE KAN
+IqueLocalizationCoordination	iQue LOCALIZATION COORDINATION
+IqueLocalizationCoordination_00	QIU XIAOCHUN
+IqueTranslation	iQue TRANSLATION
+IqueTranslation_00	PTW Shanghai Co., Ltd.
+IqueQualityAssurance	iQue QUALITY ASSURANCE
+IqueQualityAssurance_00	YAN GANG
+IqueQualityAssurance_01	PTW Shanghai Co., Ltd.
+MainThemeSong	MAIN THEME SONG
+MainThemeSong_00	『WELCOME TO THE NEW WORLD！』
+MainThemeSong_01	NEICHEL
+MainThemeSong_01_Sub	SONG
+MainThemeSong_02	SHINYA KUMAZAKI
+MainThemeSong_02_Sub	LYRICS
+MainThemeSong_03	TADASHI IKEGAMI
+MainThemeSong_03_Sub	MUSIC
+MainThemeSong_04	TARO NAGATA
+MainThemeSong_04_Sub	ARRANGEMENT
+MainThemeSong_05	YUUTA OGASAWARA
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	HITOSHI ISHIMURA
+SpecialThanks_01	MASAYA MAEJIMA
+SpecialThanks_02	HAJIME KOJIMA
+SpecialThanks_03	SHIGENOBU KASAI
+SpecialThanks_04	MASAYO NAKAGAMI
+SpecialThanks_05	ASUKA ODA
+SpecialThanks_06	YUMIKO SANO
+SpecialThanks_07	TOMOHIRO MINEMURA
+SpecialThanks_08	TETSUYA ABE
+SpecialThanks_09	HIROSHI SAIGUSA
+SpecialThanks_10	JUN TSUDA
+SpecialThanks_11	VANPOOL, INC.
+SpecialThanks_12	GRDRIVE Inc.
+SpecialThanks_13	Good-Feel Co., Ltd.
+SpecialThanks_14	TOYRO MUSIC G.K.
+Adviser	ADVISER
+Adviser_00	NOBUO MATSUMIYA
+Coordinator	COORDINATOR
+Coordinator_00	KENTA NAKANISHI
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	YOSHIHIRO NAGATA
+ProjectManagement_01	AYAKA SENO
+ProjectManagement_02	TETSUYA MOCHIZUKI
+ProjectManagement_03	ATSUKO YAMASHITA
+AssociateProducer	ASSOCIATE PRODUCER
+AssociateProducer_00	KEI NINOMIYA
+Producers	PRODUCERS
+Producers_00	TADASHI KAMITAKE
+Producers_01	TOYOKAZU NONAKA
+Producers_02	AKIRA KINASHI
+GeneralProducers	GENERAL PRODUCERS
+GeneralProducers_00	SHIGEFUMI KAWASE
+GeneralProducers_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	SHUNTARO FURUKAWA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n©HAL Laboratory, Inc. / Nintendo
+Cstage.msbt
+$CstageStartSignText	READY
+$CstageStartSignGoText	GO!
+CstageTimeupText	時間到
+CstageGiveupText	體力耗盡
+$RestartText	再試一次
+$ExitText	離開關卡
+$CstageClearText	獲得稀有石
+$ClearTimeText	過關時間
+$BestTimeText	最佳過關時間
+$CstageBastTimeSlash	/
+$StageStartCstageTargetTime	目標時間
+$BonusCoinText	{[0100|8000]}+50
 Dialog.msbt
+PageNum	{[0301|0000]}/{[0301|0100]}
 CornerBtn_Back	返回
 CornerBtn_Close	關閉
 Btn_Cancel	退出
 Btn_CancelForExit	取消
-Text_CannotChangeDifficultyDemo	關卡中{color[ff4d2fff]}無法更改{color[000000ff]}難易度。
-Text_ChangeDifficultyOnDead	要將難易度更改為能夠\n輕鬆遊玩的模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}嗎？
+Text_NewGameConfirm	要使用新檔案開始遊玩嗎？
+Text_FileLoadConfirm	要使用檔案{[0301|0000]}繼續遊玩嗎？
+Btn_GameStartNew	開始
+Btn_GameStart	遊玩
+Text_FileConfirmConnectDisallowToAllow	要將檔案{[0301|0000]}的網路連接\n更改為{color[ff4d2fff]}使用{color[000000ff]}嗎？\n\n傳送遊玩資料後，\n即可和全世界的玩家分享遊玩資訊。
 Btn_Change	更改
+Text_FileChangedConnectAllow	檔案{[0301|0000]}的網路連接\n已更改為{color[ff4d2fff]}使用{color[000000ff]}。\n\n現在已能夠和全世界的玩家\n分享遊玩資訊。{[0004]}還能夠向隨著遊戲進度推進\n而出現的{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}\n打聽全世界的遊玩資訊。
+Text_FileConfirmConnectAllowToDisallow	檔案{[0301|0000]}的網路連接\n目前正在使用中。\n\n要更改為{color[ff4d2fff]}不使用{color[000000ff]}嗎？
+Text_FileChangedConnectDisallow	檔案{[0301|0000]}的網路連接\n已更改為{color[ff4d2fff]}不使用{color[000000ff]}。\n\n之後仍可再次更改為使用。
+Text_FileDeleteConfirm1	要刪除{color[ff4d2fff]}檔案{[0301|0000]}{color[000000ff]}的\n所有資料嗎？
+Btn_FileDeleteConfirm1_Yes	刪除
+Btn_FileDeleteConfirm1_No	不要刪除
+Text_FileDeleteConfirm2	真的要刪除囉？
+Btn_FileDeleteConfirm2_Yes	真的要刪除
+Btn_FileDeleteConfirm2_No	還是不刪除了
+Text_FileDeleteConfirm3	資料刪除後就無法復原了！！\n{color[ff4d2fff]}確定不會後悔嗎？{color[000000ff]}
+Btn_FileDeleteConfirm3_Yes	不後悔！！！！
+Btn_FileDeleteConfirm3_No	不想刪除了……
+Text_FileDeleteFinished	已刪除檔案{[0301|0000]}。
+Text_KnowledgeConfirmConnectInternet	要使用網路連接嗎？\n\n傳送遊玩資料後，\n即可和全世界的玩家分享遊玩資訊。
+Btn_Connect_Yes	使用
+Btn_Connect_No	不使用
+Text_KnowledgeConnectInternetAppliedNewGame	網路連接已設定\n為{color[ff4d2fff]}使用{color[000000ff]}。\n\n現在已能夠和全世界的玩家\n分享遊玩資訊。{[0004]}還能夠向隨著遊戲進度推進\n而出現的{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}\n打聽全世界的遊玩資訊。
+Text_KnowledgeConnectInternetApplied	網路連接已設定\n為{color[ff4d2fff]}使用{color[000000ff]}。\n\n現在已能夠和全世界的玩家\n分享遊玩資訊。{[0004]}還能夠向{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}\n打聽全世界的遊玩資訊。
+Text_KnowledgeHowToChangeSetting	網路連接的使用狀態可以在\n標題畫面的「{color[ff4d2fff]}選擇檔案{color[000000ff]}」更改，\n或是在隨著遊戲進度推進\n而出現的{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}處，\n按下{color[ff4d2fff]}{[0402|0200]}{color[000000ff]}由{color[ff4d2fff]}網路設定{color[000000ff]}進行更改。
+Text_ChangeDifficulty	要將難易度更改為\n{color[ff4d2fff]}{[0313]}{color[000000ff]}嗎？
+Text_ChangeDifficultyInTutorial	要更改難易度嗎？\n\n更改後將自動返回\n目前關卡的起點處。
+Text_CannotChangeDifficulty	目前{color[ff4d2fff]}無法更改{color[000000ff]}難易度。\n\n在世界地圖及瓦豆魯迪小鎮\n即可進行更改。
+Text_CannotChangeDifficultyAbilityRoom	目前{color[ff4d2fff]}無法更改{color[000000ff]}難易度。\n\n在完成武器店的新手教學後\n即可進行更改。
+Text_ChangeDifficultyOnDead	要將難易度更改為能夠\n輕鬆遊玩的模式——{color[ff4d2fff]}{[0313]}{color[000000ff]}嗎？
 Btn_NoChange	不更改
-Text_ChangeDifficultyOnClear	要將難易度更改為富有挑戰性的\n動作遊戲模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}嗎？\n\n在此模式下通過關卡\n將能獲得更多{[0100|8000]}硬幣星。
+Text_ChangeDifficultyOnClear	要將難易度更改為富有挑戰性的\n動作遊戲模式——{color[ff4d2fff]}{[0313]}{color[000000ff]}嗎？\n\n在此模式下通過關卡\n將能獲得更多{[0100|8000]}硬幣星。
+Text_ToTitle	要返回標題嗎？
+Btn_ToTitle	返回標題
 Text_StageExit	要離開關卡嗎？\n\n離開後將{color[ff4d2fff]}不會儲存{color[000000ff]}已達成的任務。
+Text_EstoryStageExit	要離開關卡嗎？\n\n離開後將{color[ff4d2fff]}不會儲存{color[000000ff]}已收集到的獅王的靈魂。
 Text_StageExitSimple	要離開關卡嗎？
 Btn_StageExit	離開關卡
+Text_CstageRetry	要從關卡起點開始{color[ff4d2fff]}重試{color[000000ff]}嗎？
+Btn_Retry	重試
+Text_ArenaExit	要離開競技場嗎？\n\n離開後將{color[ff4d2fff]}不會儲存{color[000000ff]}已獲得的{[0100|8000]}硬幣星。
+Btn_ArenaExit	離開競技場
 Text_AutoSwallowDisabled	{color[ff4d2fff]}自動吞入{color[000000ff]}已轉為{color[ff4d2fff]}OFF{color[000000ff]}狀態。\n\n可以透過按下{[0409|6000]}/{[040a|6100]}吞入。
 Text_ControllerErrorShortsge	目前連接中的\n{color[ff4d2fff]}控制器只有1個{color[000000ff]}。
 Text_PlayerCannotJoinAlert	目前{color[ff4d2fff]}無法更改{color[000000ff]}遊玩人數。
 Text_ControllerDisconnectedError	2P的{color[ff4d2fff]}控制器連接已中斷{color[000000ff]}。\n\n請連接控制器，\n再次按下{[0411|9400]}，從暫停進行選擇。
-Text_Amiibo_NotAllowedDemo	在體驗版無法使用amiibo。
-Title_StageSelect_UnlockEvolve	可以用進化的能力遊玩！
-Text_StageSelect_UnlockEvolve	可以用已{color[ff4d2fff]}進化{color[000000ff]}的複製能力\n進行遊玩了！\n再遊玩一次關卡的話，\n{color[ff4d2fff]}可以試試{color[000000ff]}進化的能力！
-Text_StageSelect_AskToChangeEvolve	現在的設定是\n「{color[ff4d2fff]}普通{color[000000ff]}」的複製能力。\n\n要進行「進化」嗎？
-Text_StageSelect_ChangeEvolve	變成了已「{color[ff4d2fff]}進化{color[000000ff]}」的複製能力。
-Text_StageSelect_AskToChangeNormal	現在的設定是\n已「{color[ff4d2fff]}進化{color[000000ff]}」的複製能力。\n\n要變回「普通」嗎？
-Text_StageSelect_ChangeNormal	變回了「{color[ff4d2fff]}普通{color[000000ff]}」的複製能力。
-Btn_StageSelect_ChangeAbility	進行進化
-Btn_StageSelect_ChangeAbility_00	變回普通
-Title_StageSelect_UnlockPresentCode_Boss	感謝你的遊玩！
-Text_StageSelect_UnlockPresentCode_Boss	感謝你遊玩體驗版，\n送給你{color[ff4d2fff]}禮物關鍵詞{color[000000ff]}！\n\n禮物關鍵詞\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」
-Title_StageSelect_UnlockPresentCode_Mission	給淋漓盡致的你！
-Text_StageSelect_UnlockPresentCode_Mission	感謝你{color[ff4d2fff]}淋漓盡致地{color[000000ff]}遊玩體驗版，\n送給你{color[ff4d2fff]}特別的{color[000000ff]}禮物關鍵詞！\n\n禮物關鍵詞\n「{color[ff4d2fff]}{[0310]}{color[000000ff]}」
-Text_StageSelect_PresentCode_OnlyBoss	禮物關鍵詞\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以獲得道具的關鍵詞。\n在進行一段遊戲後便會登場的{color[ff4d2fff]}瓦豆魯迪快遞{color[000000ff]}中，\n試著輸入關鍵詞看看吧。
-Text_StageSelect_PresentCode_BossAndMission	禮物關鍵詞\n「{color[ff4d2fff]}{[030f]}{color[000000ff]}」\n「{color[ff4d2fff]}{[0310]}{color[000000ff]}」\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以獲得道具的關鍵詞。\n在進行一段遊戲後便會登場的{color[ff4d2fff]}瓦豆魯迪快遞{color[000000ff]}中，\n試著輸入關鍵詞看看吧。
-PresentCode_Boss	CLEARDEMO
-PresentCode_Mission	NEWADVENTURE
+Text_Amiibo_AskToStart	可以使用{color[ff4d2fff]}amiibo{color[000000ff]}獲得庫存道具\n或{[0100|8000]}硬幣星等道具。\n要使用amiibo嗎？
+Btn_Use	使用
+Text_AmiiboTouch_AskTouchAmiibo	請以amiibo點觸{color[ff4d2fff]}{[0301|0000]}P{color[000000ff]}\n控制器的{color[ff4d2fff]}NFC範圍{color[000000ff]}。
+Text_AmiiboTouch_CancelBtn	{[0401|0100]} 取消
+Text_AmiiboTouch_Canceling	取消中……
+Text_AmiiboTouch_Reading	讀取中……
+Text_Amiibo_ExceedMaxCount	單一關卡中最多只能\n連續使用{color[ff4d2fff]}5次{color[000000ff]}amiibo，\n{color[ff4d2fff]}通過關卡{color[000000ff]}後即可再度使用。
+Text_Amiibo_ExceedMaxCount_InArena	競技場中最多只能連續使用{color[ff4d2fff]}5次{color[000000ff]}amiibo。\n\n在參加中的大會獲得{color[ff4d2fff]}優勝{color[000000ff]}，\n或是在落敗後選擇{color[ff4d2fff]}「從頭重新開始」{color[000000ff]}，\n即可再度使用。
+Text_Amiibo_AlreadyUsed	已透過此amiibo{color[ff4d2fff]}獲得過{color[000000ff]}道具。{color[ff4d2fff]}\n通過關卡{color[000000ff]}後，\n即可再度使用。
+Text_Amiibo_AlreadyUsed_InArena	已透過此amiibo{color[ff4d2fff]}獲得過{color[000000ff]}道具。{color[ff4d2fff]}\n\n{color[000000ff]}在參加中的大會獲得{color[ff4d2fff]}優勝{color[000000ff]}，\n或是在落敗後選擇{color[ff4d2fff]}「從頭重新開始」{color[000000ff]}，\n即可再度使用。
+Text_Amiibo_NotAllowedMode	amiibo可以在關卡\n或小鎮中使用。
+Text_Amiibo_NotAllowedOther	目前{color[ff4d2fff]}無法使用{color[000000ff]}amiibo。
+Text_Amiibo_ErrorNfcDeviceNotFound	{color[ff4d2fff]}找不到{color[000000ff]}可讀取\namiibo的控制器。
+Text_Amiibo_ErrorOther	發生錯誤。
+Text_RetryCourseCar	要{color[ff4d2fff]}重試{color[000000ff]}此項競賽嗎？\n\n任務及道具將會{color[ff4d2fff]}返回{color[000000ff]}\n競賽開始前的狀態。
+Text_RetryCourseCoaster	要{color[ff4d2fff]}重試{color[000000ff]}雲霄飛車嗎？\n\n任務及道具將會{color[ff4d2fff]}返回{color[000000ff]}\n乘坐雲霄飛車前的狀態。
+Text_RetryCourseCoasterEstory	要{color[ff4d2fff]}重試{color[000000ff]}雲霄飛車嗎？\n\n道具將會{color[ff4d2fff]}返回{color[000000ff]}搭乘\n雲霄飛車前的狀態。
+Text_RetryCourseBossRush	要從與魔王戰鬥後的時間點{color[ff4d2fff]}重試{color[000000ff]}嗎？\n\n任務及道具將會{color[ff4d2fff]}返回{color[000000ff]}\n與魔王戰鬥後的狀態。
+Text_RetryCourseGlider	要{color[ff4d2fff]}重試{color[000000ff]}拱門塞滿嘴的區域嗎？\n\n任務及道具將會{color[ff4d2fff]}返回{color[000000ff]}\n變成拱門塞滿嘴前的狀態。
+Text_RetryCoursePowerfulWind	要從被風吹走前的時間點{color[ff4d2fff]}重試{color[000000ff]}嗎？\n\n道具將會{color[ff4d2fff]}返回{color[000000ff]}\n被風吹走前的狀態。
+Text_RetryCourseCylinder	要{color[ff4d2fff]}重試{color[000000ff]}水管塞滿嘴的區域嗎？\n\n任務及道具將會{color[ff4d2fff]}返回{color[000000ff]}\n變成水管塞滿嘴前的狀態。
+Text_BackToTown	要回到瓦豆魯迪小鎮嗎？
+Btn_BackToTown	回到小鎮
+Text_NoEnoughVillagers	為了突破這道門，\n似乎還需要更多瓦豆魯迪的力量。\n在關卡中{color[ff4d2fff]}拯救{color[000000ff]}瓦豆魯迪吧！
+Text_NoEnoughVillagersOnCheckGate	為了突破這道門，\n似乎還需要更多瓦豆魯迪的力量。\n在關卡中{color[ff4d2fff]}拯救{color[000000ff]}瓦豆魯迪吧！
+Text_BossStageUnlocked	借助{color[ff4d2fff]}瓦豆魯迪們{color[000000ff]}的力量\n成功打開了阻礙通行的門。\n去{color[ff4d2fff]}挑戰{color[000000ff]}守護地盤的{color[ff4d2fff]}魔王{color[000000ff]}吧！
+Text_WmapAreaUnlocked	在打倒魔王後發現了{color[ff4d2fff]}新區域{color[000000ff]}！\n好，繼續前進吧！
+Text_WmapAreaWaddleDeeComplete	{size[6e00]}終於將被囚禁在{[030e]}的\n{color[ff4d2fff]}所有瓦豆魯迪{color[000000ff]}拯救出來了！{size[6400]}
+Text_WmapAnotherContinentUnlock	帝帝帝大王把艾菲靈帶走了……！\n請探索新區域，\n將被擄走的艾菲靈{color[ff4d2fff]}拯救出來吧{color[000000ff]}！
+Text_WmapAreaUnlockedLevel6	發現{color[ff4d2fff]}新區域{color[000000ff]}了！\n被帶走的{color[ff4d2fff]}艾菲靈一定就在這前方{color[000000ff]}……\n艾菲靈，你一定要平安無事！
+Text_WmapCstageFirstUnlocked	被拯救出來的瓦豆魯迪們發現了\n神秘的空間——{color[ff4d2fff]}寶藏之路{color[000000ff]}！{[0004]}或許能夠從中發現{color[ff4d2fff]}珍貴的道具{color[000000ff]}……\n試著探索看看吧！
+Text_WmapCstageFind	發現了被隱藏起來的秘密{color[ff4d2fff]}寶藏之路{color[000000ff]}。\n趕快來挑戰看看吧！
+Text_WmapCstageRequestEvolve	要進入這個寶藏之路\n需要{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n前往瓦豆魯迪武器店進化後再來吧！
+Text_WmapCstageRequestBlueprint	要進入這個寶藏之路\n需要{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n取得設計圖並在小鎮中進化後再來吧！
+Title_WmapCstageComplete	寶藏之路 完成！
+Text_WmapCstageComplete	已經精通所有能力並且\n過關{color[ff4d2fff]}所有寶藏之路{color[000000ff]}了！\n在此贈送{color[ff4d2fff]}特別的模型{color[000000ff]}作為獎勵！
+Title_TownEvent_CompleteWaddleDee	瓦豆魯迪 完成！
+Text_TownEvent_CompleteWaddleDee	卡比，謝謝你！\n為了感謝你拯救了{color[ff4d2fff]}所有瓦豆魯迪們{color[000000ff]}，\n特別在小鎮的廣場上建造了{color[ff4d2fff]}感謝銅像{color[000000ff]}！
+Title_TownEvent_CompleteFigure	模型 完成！
+Text_TownEvent_CompleteFigure	作為收集到{color[ff4d2fff]}所有模型{color[000000ff]}的獎勵，\n扭蛋機收藏一覽畫面的音樂\n已更換為{color[ff4d2fff]}特別版{color[000000ff]}！
+Title_EstoryCompleteSoul	獅王的靈魂 完成！
+Text_EstoryCompleteSoul	已經收集到{color[ff4d2fff]}所有獅王的靈魂{color[000000ff]}了！\n在此贈送{color[ff4d2fff]}特別的模型{color[000000ff]}，\n作為勇氣的證明！
+Title_TownFirstDemo	隨時都可以兩人一起遊玩！
+Text_TownFirstDemo	只要從暫停選擇{color[ff4d2fff]}「兩人遊玩」{color[000000ff]}，\n即可讓2P操作{color[ff4d2fff]}頭巾瓦豆魯迪{color[000000ff]}！\n兩人同心協力來遊玩吧！
+Text_UnlockFigureList	{color[ff4d2fff]}扭蛋機收藏{color[000000ff]}開放了，\n可以在這裡欣賞收集到的模型。\n朝完成收藏邁進吧！
+Title_UnlockStrengthening	能力強化！
+Text_UnlockStrengthening	能力受到{color[ff4d2fff]}強化{color[000000ff]}後，將會標示{color[ff4d2fff]}「＋」\n{color[000000ff]}並且{color[ff4d2fff]}攻擊力也會提升{color[000000ff]}！\n使用強化後的能力來挑戰魔王吧！
+Text_TownUnlockAreaLv1	獲救的瓦豆魯迪們正在重建小鎮！\n只要成功拯救更多瓦豆魯迪，\n{color[ff4d2fff]}新設施{color[000000ff]}也會陸續開放！
+Text_TownUnlockTheaterRoom	在電影院欣賞回憶中的那幕場景吧。\n{color[ff4d2fff]}瓦豆魯迪電影院{color[000000ff]}開放了！
+Text_TownUnlockCapsuleToyMachine1	喀嚓轉動一下，模型就會咚地掉下來！\n充滿收集樂趣的收藏——\n{color[ff4d2fff]}扭蛋機 Vol.1{color[000000ff]}設置完成！
+Text_TownUnlockAbilityRoom	能夠使複製能力變得更加強大！\n{color[ff4d2fff]}瓦豆魯迪武器店{color[000000ff]}開放了！
+Text_TownUnlockDeliveryService	使用禮物關鍵詞將道具快遞到府！\n經過{color[ff4d2fff]}50名{color[000000ff]}瓦豆魯迪的通力合作，\n{color[ff4d2fff]}瓦豆魯迪快遞{color[000000ff]}開放了。
+Text_TownUnlockKirbyHouse	令人憧憬的家座落在這個小鎮！\n經過{color[ff4d2fff]}50名{color[000000ff]}瓦豆魯迪的通力合作，\n幫忙建造了{color[ff4d2fff]}卡比小屋{color[000000ff]}。
+Text_TownUnlockFoodStore_01	時髦的咖啡店來了！\n經過{color[ff4d2fff]}60名{color[000000ff]}瓦豆魯迪的通力合作，\n{color[ff4d2fff]}瓦豆魯迪咖啡店{color[000000ff]}開放了。
+Text_TownUnlockFoodStore_02	在人氣咖啡店忙碌地打工吧！\n現在可以遊玩\n{color[ff4d2fff]}工作！瓦豆魯迪咖啡店{color[000000ff]}了。
+Text_TownUnlockAreaLv2	瓦豆魯迪小鎮\n變得{color[ff4d2fff]}更大{color[000000ff]}了！
+Text_TownUnlockCapsuleToyMachine2	全新的扭蛋機陣容登場了！\n{color[ff4d2fff]}扭蛋機 Vol.2{color[000000ff]}設置完成。
+Text_TownUnlockArena	與戰鬥過的對手們來場決鬥！\n可以獲得豪華報酬的\n{color[ff4d2fff]}競技場{color[000000ff]}開放了。
+Text_TownUnlockPharmacy	集結了為冒險提供支援的道具！\n經過{color[ff4d2fff]}145名{color[000000ff]}瓦豆魯迪的通力合作，\n{color[ff4d2fff]}瓦豆魯迪道具店{color[000000ff]}開放了。
+Text_TownUnlockAreaLv3_01	經過{color[ff4d2fff]}155名{color[000000ff]}瓦豆魯迪的通力合作，\n小鎮變得{color[ff4d2fff]}更大{color[000000ff]}了！
+Text_TownUnlockAreaLv3_02	來釣魚吧，目標是釣到大魚！\n現在可以遊玩\n{color[ff4d2fff]}緊張刺激！剎那間的釣魚池{color[000000ff]}了。
+Text_TownUnlockCapsuleToyMachine3	全新的扭蛋機陣容登場了！\n{color[ff4d2fff]}扭蛋機 Vol.3{color[000000ff]}設置完成。
+Text_TownUnlockRollingBall	滾啊滾～透過傾斜移動滾球！\n經過{color[ff4d2fff]}180名{color[000000ff]}瓦豆魯迪的通力合作，\n{color[ff4d2fff]}滾啊滾啊！滾球卡比{color[000000ff]}開放了。
+Text_TownUnlockCapsuleToyMachine4	全新的扭蛋機陣容登場了！\n{color[ff4d2fff]}扭蛋機 Vol.4{color[000000ff]}設置完成。
+Text_TownUnlockStreetLive	點首喜愛的音樂吧！\n{color[ff4d2fff]}街角瓦豆演奏{color[000000ff]}開始了。
+Text_TownUnlockStreetLiveLv2	在吉他盒中放入{[0100|8000]}硬幣星，\n已升級為更加時髦的舞台！\n現在可以演奏{color[ff4d2fff]}新樂曲{color[000000ff]}了！
+Text_TownUnlockStreetLiveLv3	在吉他盒中放入{[0100|8000]}硬幣星，\n已升級為非常具有規模的舞台！\n現在可以演奏{color[ff4d2fff]}新樂曲{color[000000ff]}了！
+Text_TownUnlockArenaLv2_01	打敗眾多強者，以冠軍為目標邁進！\n現在可以參加\n{color[ff4d2fff]}The{color[000000ff]} {color[ff4d2fff]}終極盃{color[000000ff]}了！
+Text_TownUnlockArenaLv2_02	可以從接待處參加\nThe 終極盃。
+Text_TownUnlockArenaLv3_01	前往終極的大決戰……！\n現在可以參加\n{color[ff4d2fff]}The{color[000000ff]} {color[ff4d2fff]}終極盃Z{color[000000ff]}了！
+Text_TownUnlockArenaLv3_02	可以從接待處參加\nThe 終極盃Z。\n……確定不會後悔嗎？
+Text_TownNoticeCopyAbilityAbleToEvolute_01	現在可以{color[ff4d2fff]}進化\n{[030a]}{color[000000ff]}能力了！
+Text_TownNoticeCopyAbilityAbleToEvolute_02	現在可以{color[ff4d2fff]}進化{color[000000ff]}\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力了！\n趕快前往瓦豆魯迪武器店進行進化吧！
+Text_TownNoticeCopyAbilityAbleToEvolute_03	{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}來到小鎮上了。\n他會提供尚未獲得的{color[ff4d2fff]}設計圖所在地{color[000000ff]}，\n以及各種資訊！
+Text_TownNoticeCopyAbilityAbleToStrength	複製能力的{color[ff4d2fff]}攻擊力提升{color[000000ff]}！\n現在可以在瓦豆魯迪武器店\n{color[ff4d2fff]}強化{color[000000ff]}複製能力了！
+Text_ArenaClerk_UnlockCompetition	{color[ff4d2fff]}{[0312]}{color[000000ff]}於競技場登場！\n與眾多棘手魔王之間的戰鬥\n正在競技場等著你！
+Text_TownClearedArenaLv3_01	為了紀念你在最高難易度的\nThe 終極盃Z中獲得優勝，\n已在卡比小屋中{color[ff4d2fff]}裝飾了{color[000000ff]}新的{color[ff4d2fff]}照片{color[000000ff]}！
+Text_TownClearedArenaLv3_02	只要過關各種模式，\n裝飾在卡比小屋牆壁上的照片就會增加。{[0004]}照片總共有{color[ff4d2fff]}10張{color[000000ff]}。\n盡情遊玩，創造難忘的回憶吧……{[0004]}目標是100％過關，\n成為{color[ff4d2fff]}星之卡比大師{color[000000ff]}！！
+Text_TownClearedArenaLv3_03	{color[ff4d2fff]}兌換瓦豆魯迪{color[000000ff]}來到小鎮上了！\n可以使用{[0101|8100]}稀有石跟他兌換\n尚未獲得的{color[ff4d2fff]}模型{color[000000ff]}！{[0004]}透過與他進行兌換，\n或在各關卡中尋找……\n{color[ff4d2fff]}收集共256個模型吧{color[000000ff]}！
+Text_TownMovieSelectPlayOther	要觀看其他的影片嗎？
+Btn_TheaterRoomSee	觀看
+Text_SetCopyAbility	已設定為{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n在關卡中獲得的能力\n也將變為{[0309|0000]}。
+Text_SetStrengthenedCopyAbility	已設定為{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}。\n在關卡中獲得的能力\n也將變為{[0309|0000]}{[0107|0000]}{[0301|0000]}。
+Text_SetMaxStrengthenedCopyAbility	已設定為{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}。\n在關卡中獲得的能力\n也將變為{[0309|0000]}{[0107|0000]}{[010a|0300]}。
+Text_CheckEvolve	要將{[030a]}能力\n進化為{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}嗎？
+Btn_Evolve	進化
+Text_EvolvePointStarShortage	{[0100|8000]}硬幣星{color[ff4d2fff]}不足{color[000000ff]}。{color[ff4d2fff]}\n{color[000000ff]}\n進化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}與{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]}。
+Text_EvolveRarePieceShortage	{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n進化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}與{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]}。
+Text_EvolvePointStarAndRarePieceShortage	{[0100|8000]}硬幣星與{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。{color[ff4d2fff]}\n\n{color[000000ff]}進化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}與{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]}。
+Title_RarePieceShortageGoCstage	前往寶藏之路吧！
+Text_RarePieceShortageGoCstage	前往{color[ff4d2fff]}寶藏之路{color[000000ff]}\n取得{[0101|8100]}稀有石吧。
+Text_RarePieceShortageRescueWaddleDee	{color[ff4d2fff]}拯救更多瓦豆魯迪{color[000000ff]}，\n並前往新的寶藏之路\n取得{[0101|8100]}稀有石吧。
+Text_RarePieceShortageGoArena	{[0101|8100]}稀有石也可以\n藉由過關{color[ff4d2fff]}競技場{color[000000ff]}獲得。
+Text_CopyAbilityEvolution	{[030a]}能力已進化為{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！
+Text_CopyAbilityEvolutionCstageOpen	經過本次進化，現在已可以遊玩\n{[030e]}的{color[ff4d2fff]}{[0309|0000]} 寶藏{color[000000ff]}！\n趕快去看看吧！
+Text_CopyAbilityEvolutionCstageUnlock	經過本次進化，\n{[030e]}出現了{color[ff4d2fff]}新的寶藏之路{color[000000ff]}。\n趕快去看看吧！
+Text_CheckStrengthen	要使用{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]} \n{color[000000ff]}來強化{[0309|0000]}嗎？
+Text_CheckStrengthenMore	要使用{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]} \n{color[000000ff]}來強化{[0309|0000]}{[0107|0000]}{[0301|0200]}嗎？
+Btn_Strengthen	強化
+Text_StrengthenPointStarShortage	{[0100|8000]}硬幣星{color[ff4d2fff]}不足{color[000000ff]}。\n強化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]}。
+Text_StrengthenRarePieceShortage	{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n強化需要{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]} 。
+Text_StrengthenPointStarAndRarePieceShortage	{[0100|8000]}硬幣星和\n{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n強化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}個{[0101|8100]}{color[000000ff]}。
+Text_InableStrengthen	這項能力{color[ff4d2fff]}無法強化{color[000000ff]}。
+Text_AlreadyStrengthenedMax	這項能力已經\n{color[ff4d2fff]}無法再進行強化了{color[000000ff]}。
+Text_CopyAbilityStrengtheningFirst	已強化為{[0309|0000]}{[0107|0000]}{[0301|0000]}，\n{color[ff4d2fff]}攻擊力提升{color[000000ff]}了！
+Text_CopyAbilityStrengtheningMore	已強化為{[0309|0000]}{[0107|0000]}{[0301|0000]}，\n{color[ff4d2fff]}攻擊力再次提升{color[000000ff]}了！
+Text_CopyAbilityStrengtheningMax	已強化為{[0309|0000]}{[0107|0000]}{[010a|0300]}，\n{color[ff4d2fff]}攻擊力{color[000000ff]}已提升至\n此能力的{color[ff4d2fff]}上限{color[000000ff]}！
+Text_CapsuleToyAlreadyComplete	目前即將獲得的{color[ff4d2fff]}{[031e]}{color[000000ff]}模型已完成收藏。\n仍確定要轉動扭蛋機嗎？
+Btn_Turn	轉動
+Text_CapsuleToyPointStarShortage	{[0100|8000]}硬幣星{color[ff4d2fff]}不足{color[000000ff]}。\n需要{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}{[0100|8000]}{color[ff4d2fff]} {color[000000ff]}。
+Text_FigureListDecorateFigure	模型已裝飾在家中。\n\n{color[ff4d2fff]}最多{color[000000ff]}可以同時擺放{color[ff4d2fff]}3個{color[000000ff]}模型。
+Text_FigureListDecorateFigureAndRemove	已收起原本裝飾在家中1個模型，\n並將指定模型裝飾在家中。\n\n{color[ff4d2fff]}最多{color[000000ff]}可以同時擺放{color[ff4d2fff]}3個{color[000000ff]}模型。
+Text_FigureListRemoveDecoratedFigure	模型已整理完畢。
+Text_FigureListNoFigures	目前還{color[ff4d2fff]}未持有任何模型{color[000000ff]}。\n請透過關卡及扭蛋機收集吧！
+Text_FigureListEventHint_TownFoodShop	只要在瓦豆魯迪咖啡店\n{color[ff4d2fff]}多多點餐{color[000000ff]}就能獲得此模型。
+Text_FigureListEventHint_TownCafeJob	只要在瓦豆魯迪咖啡店\n{color[ff4d2fff]}過關極限打工{color[000000ff]}就能獲得此模型。
+Text_FigureListEventHint_TownDeliveryservice	只要在瓦豆魯迪快遞\n{color[ff4d2fff]}輸入數個{color[000000ff]}禮物關鍵詞\n就能獲得此模型。
+Text_FigureListEventHint_TownKnow	只要{color[ff4d2fff]}多多傾聽{color[000000ff]}知識淵博瓦豆魯迪\n所說的話就能獲得此模型。
+Text_FigureListEventHint_TownToolShop	只要在瓦豆魯迪道具店\n{color[ff4d2fff]}多多購物{color[000000ff]}就能獲得此模型。
+Text_FigureListEventHint_TownTamakoro	只要{color[ff4d2fff]}過關所有{color[000000ff]}滾啊滾啊！滾球卡比\n就能獲得此模型。
+Text_FigureListEventHint_TownFishing	只要在緊張刺激！剎那間的釣魚池中\n釣到{color[ff4d2fff]}黃金魚王{color[000000ff]}就能獲得此模型。
+Text_FigureListEventHint_TownAbilityRoom	只要在瓦豆魯迪武器店\n進化{color[ff4d2fff]}所有複製能力{color[000000ff]}\n就能獲得此模型。
+Text_FigureListEventHint_TownArena	只要競技場{[0312]}的\n{color[ff4d2fff]}所有關卡過關{color[000000ff]}\n就能獲得此模型。
+Text_FigureListEventHint_TownTheaterRoom	只要瓦豆魯迪電影院的\n{color[ff4d2fff]}所有影片{color[000000ff]}都能觀看時，\n就能獲得此模型。
+Text_FigureListEventHint_TownLive	只要將街角瓦豆演奏的\n舞台{color[ff4d2fff]}升級到極限{color[000000ff]}\n就能獲得此模型。
+Text_FigureListEventHint_BossChimeraPerfect	只要競技場{[0312]}的\n{color[ff4d2fff]}所有關卡過關{color[000000ff]}\n就能獲得此模型。
+Text_FigureListEventHint_ChallengeAllClear	只要{color[ff4d2fff]}過關所有{color[000000ff]}寶藏之路\n就能獲得此模型。
+Text_FigureListEventHint_BossLionAndLeopard	只要{color[ff4d2fff]}收集到所有{color[000000ff]}\n絕島幻夢‧遺忘中飄浮的{[0302|0000]}\n就能獲得此模型。
+Text_FigureListArenaHint	只要{color[ff4d2fff]}過關{color[000000ff]}競技場的\n{color[ff4d2fff]}{[0312]}{color[000000ff]}，\n扭蛋機陣容中就會新增此模型。
+Text_FigureListEvolutionHint	只要進化{color[ff4d2fff]}{[030a]}能力{color[000000ff]}，\n扭蛋機陣容中就會新增模型。
+Text_FigureListEventHintBeforeUnlockTown	只要持續協助{color[ff4d2fff]}瓦豆魯迪小鎮{color[000000ff]}發展\n就能得知可以在哪裡獲得此模型。
+Text_FigureListEventHintBeforeUnlockEstory	只要和{color[ff4d2fff]}卡洛凌{color[000000ff]}搭話\n並繼續冒險，\n就能得知可以在哪裡獲得此模型。
+Text_FigureListEventHint_SoulSingle	只要{color[ff4d2fff]}過關被遺忘的‧自然{color[000000ff]}，\n扭蛋機陣容中就會新增模型。
+Text_FigureListEventHintDisclosureEstoryStage	只要{color[ff4d2fff]}持續通過\n絕島幻夢‧遺忘{color[000000ff]}的{color[ff4d2fff]}關卡{color[000000ff]}\n扭蛋機陣容中就會新增此模型。
+Text_FigureListArenaHintHiddenName	？？？
+Text_FigureListEstoryHintHiddenName	？？？
+Text_FigureListEstoryHintOpenName	獅王的靈魂
+Btn_DeliveryServiceUse	使用
+Text_DeliveryService_NetLoading	為了確認快遞禮物，\n正在執行網路連接……
+Text_DeliveryService_FailedConnectInternet	網路連接失敗。{[0004]}要保持未連接網路的狀態，\n繼續{color[ff4d2fff]}使用{color[000000ff]}瓦豆魯迪快遞嗎？\n\n只有在小鎮上發現的禮物關鍵詞\n可以直接使用。
+Btn_DeliveryService_UseInternet	使用
+Btn_DeliveryServiceInputAbort	退出
+Btn_NotCancel	不退出
+Text_TownPresentBox_WithPresentCode	禮物關鍵詞\n{color[ff4d2fff]}『{[0302|0000]}』{color[000000ff]}的\n快遞禮物已送達。
+Text_TownPresentBox_WithoutPresentCode	使用禮物關鍵詞所獲得的\n快遞禮物已送達。
+Text_TownPresentBox_GetRewardCoin	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}！
+Text_TownPresentBox_GetRewardRare	獲得{[0301|0000]}個{[0101|8100]}{[0321]}。
+Text_TownPresentBox_GetRewardItem	獲得{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardItemItem	獲得{[0301|0000]}個{[0317]}\n以及{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardCoinRare	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}\n以及{[0301|0000]}個{[0101|8100]}{[0321]}。
+Text_TownPresentBox_GetRewardCoinItem	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}\n以及{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardCoinItemItem	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}、\n{[0301|0000]}個{[0317]}以及\n{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardRareItem	獲得{[0301|0000]}個{[0101|8100]}{[0321]}\n以及{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardRareItemItem	獲得{[0301|0000]}個{[0101|8100]}{[0321]}、\n{[0301|0000]}個{[0317]}以及\n{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardCoinRareItem	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}、{[0301|0000]}個{[0101|8100]}{[0321]}，\n以及{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardCoinRareItemItem	獲得{[0301|0000]}枚{[0100|8000]}{[0320]}、\n{[0301|0000]}個{[0101|8100]}{[0321]}、{[0301|0000]}個{[0317]}\n以及{[0301|0000]}個{[0317]}。
+Text_TownPresentBox_GetRewardSupportCoin	瓦豆魯迪們已送達\n{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}硬幣星{color[000000ff]}！
+Text_TownFoundWatchword_00	這種地方竟然寫著禮物關鍵詞。\n{color[ff4d2fff]}「{[031f]}」{color[000000ff]}{[0004]}禮物關鍵詞可透過瓦豆魯迪快遞進行使用，{color[ff4d2fff]}\n{color[000000ff]}並且只能使用1次。
+Text_TownFoundWatchword_01	傳單上竟然寫著禮物關鍵詞。\n{color[ff4d2fff]}「{[031f]}」{color[000000ff]}{[0004]}禮物關鍵詞可透過瓦豆魯迪快遞進行使用，{color[ff4d2fff]}\n{color[000000ff]}並且只能使用1次。
+Text_TownFoundWatchword_02	發現了隱藏的禮物關鍵詞。\n{color[ff4d2fff]}「{[031f]}」{color[000000ff]}{[0004]}禮物關鍵詞可透過瓦豆魯迪快遞進行使用，{color[ff4d2fff]}\n{color[000000ff]}並且只能使用1次。
+Text_TownFoundWatchword_03	發現了寫在牆壁上的禮物關鍵詞。\n{color[ff4d2fff]}「{[031f]}」{color[000000ff]}{[0004]}禮物關鍵詞可透過瓦豆魯迪快遞進行使用，{color[ff4d2fff]}\n{color[000000ff]}並且只能使用1次。
+Text_TownFoundWatchword_04	這種地方竟然也有禮物關鍵詞。\n{color[ff4d2fff]}「{[031f]}」{color[000000ff]}{[0004]}禮物關鍵詞可透過瓦豆魯迪快遞進行使用，{color[ff4d2fff]}\n{color[000000ff]}並且只能使用1次。
+Btn_Buy	購買
+Btn_TakeOut	外帶
+Btn_ForHere	內用
+Title_MgameFoodHowToPlay	選擇正確的餐點吧！{[0004]}要注意保持客人滿意度喔！{[0004]}午餐時間可是非常忙碌的！
+Text_MgameFoodHowToPlay_00	注意觀察客人的{color[ff4d2fff]}對話框\n{color[000000ff]}來選擇客人所點選的餐點！
+Text_MgameFoodHowToPlay_01	如果{color[ff4d2fff]}客人滿意度{color[000000ff]}下降到最低點，\n{color[ff4d2fff]}遊戲將會直接結束{color[000000ff]}。\n記得別讓客人久等，盡快提供餐點！
+Text_MgameFoodHowToPlay_02	午餐時間{color[ff4d2fff]}遊戲節奏將會一口氣提升{color[000000ff]}！\n正確應對接踵而來的訂單，\n並{color[ff4d2fff]}以取得高分為目標吧{color[000000ff]}！
+Text_MgameFoodResultPointStar_Solo	取得{[0301|0000]}分，\n獲得{color[ff4d2fff]}{[0301|0100]}枚{color[000000ff]}{[0100|8000]}{color[ff4d2fff]}硬幣星{color[000000ff]}！
+Text_MgameFoodResultPointStar_Multi	兩人的總計分數為{[0301|0000]}分，\n獲得{color[ff4d2fff]}{[0301|0100]}枚{color[000000ff]}{[0100|8000]}{color[ff4d2fff]}硬幣星{color[000000ff]}！
+Text_MgameFoodDifficultyUnlock	現在可以遊玩\n{color[ff4d2fff]}『忙碌打工』{color[000000ff]}與\n{color[ff4d2fff]}『極限打工』{color[000000ff]}了！
+Text_MgameFoodRetry	要從頭開始\n重試打工嗎？
+Text_MgameFoodEnd	要放棄打工嗎？\n\n放棄後將{color[ff4d2fff]}不會儲存{color[000000ff]}所獲得的分數。
+Btn_MgameFoodGiveUp	放棄
+Btn_Listen	聆聽
+Text_KnowledgeConnectProcessing	正在連接網路……
+Text_KnowledgeConfirmConnectFailed	網路連接失敗。\n要保持未連接網路的狀態繼續聆聽嗎？\n\n你將無法打聽到來自全世界的\n各種遊玩資訊，或是分享自己的資料。
+Btn_Continue	聆聽
+Text_KnowledgeConfirmConnectDisallowToAllow	要將網路連接由不使用\n更改為{color[ff4d2fff]}使用{color[000000ff]}嗎？\n\n傳送遊玩資料後，\n即可和全世界的玩家分享遊玩資訊。
+Text_KnowledgeConfirmConnectAllowToDisallow	要將網路連接由使用\n更改為{color[ff4d2fff]}不使用{color[000000ff]}嗎？
+Text_KnowledgeChangedConnectAllow	網路連接已更改\n為{color[ff4d2fff]}使用{color[000000ff]}。\n\n傳送遊玩資料後，\n即可和全世界的玩家分享遊玩資訊。{[0004]}還能夠向{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}\n打聽全世界的遊玩資訊。
+Text_KnowledgeChangedConnectDisallow	網路連接已更改\n為{color[ff4d2fff]}不使用{color[000000ff]}。\n\n此設定之後也可以進行更改。
+Text_KnowledgeNoNeedsReload	新資訊\n已更新完畢。
+Btn_ArenaEntry	參加
+Btn_ArenaEntryDissolve	取消
+Text_ArenaEntryEraseRecord1	要刪除所有\n{color[ff4d2fff]}「{[0312]}」{color[000000ff]}的記錄嗎？
+Btn_ArenaEraseRecord1_Yes	刪除
+Text_ArenaEntryEraseRecord2	記錄刪除後就無法復原了。\n{color[ff4d2fff]}真的要刪除嗎？{color[000000ff]}
+Btn_ArenaEraseRecord2_Yes	真的要刪除
+Text_ArenaRevivalPointStarShortage	{[0100|8000]}硬幣星{color[ff4d2fff]}不足{color[000000ff]}。\n\n再次挑戰需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}。
+Text_TownArenaGetRewardPointStar	獲得{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}硬幣星{color[000000ff]}！
+Text_TownArenaGetRewardRarePiece	獲得{color[ff4d2fff]}{[0301|0000]}個{[0101|8100]}稀有石{color[000000ff]}！
+Text_TownArenaGetRewardFigure	獲得{color[ff4d2fff]}特別的模型{color[000000ff]}！
+Text_TownArenaGetRewardBlueprint	獲得能夠進化{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的\n{color[ff4d2fff]}{[0309|0000]}設計圖{color[000000ff]}！\n拿去瓦豆魯迪武器店吧！
+Title_MgameFishHowToPlay	按下按鍵時要快速且正確！{[0004]}以連續釣到大魚為目標吧！
+Text_MgameFishHowToPlay	當魚咬中餌時會顯示出按鍵提示。\n看到提示就立刻按下{color[ff4d2fff]}正確的按鍵{color[000000ff]}吧！\n別放過稍縱即逝的每個瞬間！{[0004]}只要連續釣到魚，\n就逐漸會有{color[ff4d2fff]}大魚{color[000000ff]}上鉤！\n迅速按下按鍵，創下新記錄吧！
+Title_MgameBallHowToPlay	不斷滾動朝終點邁進！{[0004]}抵達終點並獲得獎勵吧！
+Text_MgameBallHowToPlay	傾斜控制器使球滾動\n直到抵達終點的\n{[0102|8300]}{color[ff4d2fff]}記號{color[000000ff]}！{[0004]}只要成功抵達終點即可獲得{color[ff4d2fff]}獎勵{color[000000ff]}！\n越困難的關卡所提供的獎勵也會越多！
+Text_MgameBallPointStarShortage	{[0100|8000]}硬幣星{color[ff4d2fff]}不足{color[000000ff]}。\n\n進行挑戰需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}。
+Text_MgameBallGiveUp	要離開滾啊滾啊！滾球卡比嗎？\n\n離開後並{color[ff4d2fff]}不會退還{color[000000ff]}\n遊玩前所支付的{[0100|8000]}硬幣星。
+Btn_MgameBallGiveUp	離開
+Text_MgameBallFirstClearLv1	成功{color[ff4d2fff]}過關{color[000000ff]}難易度{[0104|8500]}的\n滾啊滾啊！滾球卡比！
+Text_MgameBallFirstClearLv2	成功{color[ff4d2fff]}過關{color[000000ff]}難易度{[0104|8500]}{[0104|8500]}的\n滾啊滾啊！滾球卡比！
+Text_MgameBallFirstClearLv3	成功{color[ff4d2fff]}過關所有{color[000000ff]}\n滾啊滾啊！滾球卡比！
+Text_MgameBallAllClear	成功{color[ff4d2fff]}過關所有激難的{color[000000ff]}\n滾啊滾啊！滾球卡比！
+Btn_Trade	兌換
+Text_EstorySoulGetFirst	獲得了{color[ff4d2fff]}獅王的靈魂{color[000000ff]}！\n這是獅王加爾夫的靈魂……\n看來似乎是他的靈魂碎片。{[0004]}或許只要多多收集這種靈魂，\n就能{color[ff4d2fff]}將他拯救出來{color[000000ff]}也說不定。{[0004]}將散落在幻夢‧遺忘的\n獅王的靈魂{color[ff4d2fff]}收集起來吧{color[000000ff]}！
+Text_EstoryBossStageUnlock	收集到的獅王的靈魂\n{color[ff4d2fff]}指示出了{color[000000ff]}靈魂之主的位置！{[0004]}能感覺到那座被遺忘的絕島上\n有{color[ff4d2fff]}獅王加爾夫的氣息{color[000000ff]}……\n快出發去拯救他吧！
+Text_EstoryBossStageUnlockFailure	想找出獅王加爾夫的位置\n所需要的靈魂似乎還不夠……{[0004]}繼續探索這個世界，\n{color[ff4d2fff]}收集更多獅王的靈魂吧{color[000000ff]}！
+Text_Advice_ManyRetryAtBoss_ExistNotPassedBlueprint	只要使用你現在持有的{color[ff4d2fff]}設計圖{color[000000ff]}\n就能{color[ff4d2fff]}進化{color[000000ff]}成新能力。{[0004]}帶著它前往瓦豆魯迪武器店，\n進化成{color[ff4d2fff]}強大的能力{color[000000ff]}吧！
+Text_Advice_ManyRetryAtBoss_UsedCopyAbilityAbleToEvolution	可以{color[ff4d2fff]}進化{color[000000ff]}剛才\n在戰鬥中所使用的\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力。{[0004]}帶著它前往瓦豆魯迪武器店，\n進化成{color[ff4d2fff]}強大的能力{color[000000ff]}吧！
+Text_Advice_ManyRetryAtBoss_CopyAbilityAbleToUseEvoluted	只要使用{color[ff4d2fff]}進化後的能力{color[000000ff]}戰鬥，\n局勢也會變得更加有利。{[0004]}前往小鎮的瓦豆魯迪武器店，\n{color[ff4d2fff]}選擇{color[000000ff]}進化後的能力{color[ff4d2fff]}再來挑戰{color[000000ff]}吧！
+Text_Advice_ManyRetryAtBoss_GuideToFoodShop	{color[ff4d2fff]}庫存道具{color[000000ff]}即使在戰鬥中\n也能透過{color[ff4d2fff]}長按{[0702|0200]}{color[000000ff]}來使用。{[0004]}只要使用食物類的庫存道具，\n就能夠{color[ff4d2fff]}回復{color[000000ff]}體力。{[0004]}前往小鎮上的{color[ff4d2fff]}瓦豆魯迪咖啡店{color[000000ff]}\n購買食物吧！
 Figure.msbt
 KirbyNormal	波普之星的星之卡比，\n被出現在天空中的「神秘漩渦」所吞噬，\n醒來時發現自己已經來到了這個新世界。\n在漩渦中覺醒了神奇力量的卡比，\n將踏上充滿新發現，變化多端的旅程！
 SupportChara	在這個世界相遇的神秘同伴。\n曾為了幫助被野獸軍團襲擊的瓦豆魯迪們而努力。\n為了拯救被抓走的瓦豆魯迪們並重建小鎮，\n而和卡比一起踏上旅程，\n時常給予卡比建議。
@@ -65,42 +855,629 @@ WaddleDee	比卡比更早漂流到這個世界的波普之星居民。\n雖然�
 KirbySword	戴著綠色帽子的劍之勇者\n朝著新世界前進！\n不但能斬斷各種東西，還能累積威力，\n目標是成為新‧世界的利劍大師！
 KirbyBomb	長按按鍵瞄準後丟出炸彈。\n拿了就丟，砰砰作響的煙火！\n一邊跑一邊丟，讓炸彈在地上滾動，\n從坡道上滾啊滾地來個全倒！
 KirbyCutter	擲出嗡嗡作響的迴旋刀刃吧！\n擲出後又回到手上，獲得道具了。\n長按按鍵蓄力就會停在空中喔。\n靜止蓄力，威力也會跟著提升！
+KirbyFire	烈火——！好燙！真的好燙！\n這熊熊燃燒的火焰之力，\n連導火線也能點燃，燙燙燙！\n使用衝刺突進，燃燒吧！
+KirbyRanger	星星子彈發射！\n閃耀光芒的射擊，距離可是很遠的喔。\n戴上威風凜凜的探險帽，\n選定目標後蓄力，發射！
+KirbyNeedle	滾來滾去～滾來滾去～\n利用碰到會很～痛的尖刺攻擊敵人！\n刺中並捲入星星或敵人，\n最後一口氣放開，讓所有東西受到撞擊吧！
+KirbyIce	好冷喔～！使用吐息，呼～呼～呼～\n把冰塊踢飛吧！\n使用溜冰衝刺輕快地移動，\n不論在泥沼還是岩漿上都能迅速衝刺！
 DeformKirbyCar	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的整輛汽車塞滿嘴，\n就能變形為可使用渦輪衝刺和跳躍的粉紅色汽車！\n輕聲哼唱那首歌並感受風的吹拂……\n來，在新世界兜風吧！
 DeformKirbyCone	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的三角錐塞滿嘴，\n身體就能變形為尖尖的模樣！\n以尖尖的頭部擊碎大地及水管的龜裂處吧！
 DeformKirbyWaterTank	在神秘漩渦中學會的塞滿嘴變形。\n只要一口氣把在新世界發現的圓形巨蛋塞滿嘴，\n就能用渾圓的身體包覆住目標！\n緊緊包覆著目標扭一扭身體，\n砰地一聲打開後……你看，是道具！
+DeformKirbyLocker	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的四方形置物櫃塞滿嘴，\n就能和變成粉紅色的置物櫃合體！手忙腳亂、\n鏗鏗作響地移動，努力搖晃、砰鏘倒下吧。
+DeformKirbyLockerBig	在神秘漩渦中學會的塞滿嘴變形。\n面對這種牆壁大概也無計可施吧？\n不過或許可以用這招努力看看，\n變形為置物櫃塞滿嘴，手忙腳亂地嘗試過後……\n砰鏘一聲弄倒牆壁！發現了意想不到的路徑！
 CaptiveCage	被野獸軍團強行抓走的瓦豆魯迪。\n同伴接二連三地被抓住，正一臉困擾地等待救援。\n沒錯，是不是直到現在都能聽到……\n從某處傳來「哇呀哇呀～」\n（放我出去、放我出去～）的求救聲呢？
 GoalPoint	對野獸軍團而言等同功勞的瓦豆魯迪們，\n被關在一次能抓好幾個瓦豆魯迪的金色牢籠。\n只要三人合力，也能從這種牢籠逃出去～\n雖然抱著這樣的想法嘗試過，牢籠卻紋風不動，\n現在也還「哇呀哇呀～」地求救著，等待救援。
 AnimalWaddleDee	廣泛分布於這個世界，是種十分常見的野獸。\n外表雖然可愛，其實卻相當具有野性，\n會一面低吼一面撲向所見的目標。\n與瓦豆魯迪更是水火不容，見到就窮追不捨，\n總是在叼起瓦豆魯迪後揚長而去。
+RabbitEnemy	高高跳起！然後重重落下的拉比兔，\n以及更加強健有力又巨大的大拉比兔。\n由於蓬鬆的毛皮摸起來很舒服，\n因此常被他人撫摸。只有尾巴一旦\n被碰到就會發怒並跳起來攻擊對方。
 TackleEnemy	以巨大的雙角為傲的巴伐爾牛角。\n普通的攻擊可是無法阻止他突進的！\n不過由於連自己都煞不住腳步，\n所以偶爾會墜落懸崖。即使如此，\n強壯的他依然毫髮無傷、精力充沛。
 Turtle	背著混凝土龜殼的龜塔洛斯。\n不但頭十分堅硬，咬人也很痛，是個棘手的傢伙。\n然而他的身體似乎相當脆弱，\n爬到他的背上後再使用塞滿嘴變形\n來攻擊整個混凝土龜殼吧。
 TurtleBig	竟然將整棟巨大建築背在身上的建築龜塔洛斯。\n遵循誰背的龜殼最大，誰就是老大的規矩，\n在寬廣的草原上統領著一族。\n雖然也喜歡水，但最喜歡的還是曬太陽，\n會爬到高處並將該處視為自己的地盤。
+RangerEnemy	砰砰砰地發出射擊的伯納犬。\n身手如同探險家一般，迅速地移動、瞄準並射擊！\n踩著敏捷的步法，射擊闖入地盤的敵人！\n由於他的嗅覺也相當靈敏，\n即使獵物在遠處也能透過氣味發現目標。
+NeedleEnemy	針蝟的特點是累積力量就會射出銳刺，\n將靠近自己的敵人扎成刺蝟。\n雖然小時候身上的刺短短的十分可愛，\n但長大後尖刺的長度卻會迅速成長\n至相當危險的程度！
 CarshopSignboard	由何萊恩股份有限公司所經營的車行——\n何萊恩汽車行。何萊恩的產業除了汽車，\n還包括各種工業產品及營造業。\n舉凡建築、道路，甚至遊樂園的遊樂設施\n似乎都屬於何萊恩製造。
+MallEntrance	由阿萊布爾控股公司所營運的\n大型購物中心——阿萊布爾購物中心。\n廣告標語是「為你的生活帶來活力」，\n產業囊括餐飲業、休閒產業及服務業等，\n在各地都可見其事業的發展痕跡。
 CompanyBoard	萊特隆工程公司曾經是一個龐大的企業，\n致力於電子、生物及太空探索等領域研發，\n並投資研發設施。\n其後由於公司分拆，競爭企業也隨之增加，\n最終導致企業戰爭的白熱化。
 MaxTomato	只要吃1個就能完全回復體力，\n營養滿分的M番茄。\n雖然不知道是否也通過神秘漩渦而來，\n還是原本就存在於這個世界，\n但似乎是野獸軍團也愛吃的人氣點心。
+TownCafeJob	在咖啡店努力工作的卡比。\n雖然看起來很可靠……但其實正在忍耐。\n卡比嚥了口口水，現在也好想把商品都吃掉，\n甚至比魔王戰時還要努力地在忍耐。\n再堅持一下就好了……卡比！
+TownFishing	在小鎮的釣魚池旁悠閒釣魚的卡比。\n雖說悠閒，但其實池塘裡棲息著巨大的魚王，\n這座釣魚池可說相當刺激又有挑戰性。\n可是那麼巨大的蛙鏡魚\n到底會在池塘的哪裡呢……？
+TownKnow	煩惱的時候可以求助知識淵博瓦豆魯迪。\n他會傳授你有益於冒險的知識。\n不過，他到底是從哪得到那本大百科的呢？\n快速翻閱神奇的書本，\n他甚至能告訴你世界各地的數字！
+TownDeliveryservice	小鎮上瓦豆魯迪快遞的快遞員。\n能夠以超快的速度快遞到府。\n即使卡比寫的禮物關鍵詞難以看懂，\n溫柔的瓦豆魯迪也會體諒努力寫字的卡比\n而接下快遞委託。
+TownFoodShop	在咖啡店工作的瓦豆魯迪。在卡比來到\n小鎮前就已經在這個世界製作美食了。\n即使會因為野獸軍團受到食物香味吸引前來，\n破壞了店面而失意，也會馬上振作起來，\n快速重建咖啡店。現在也深受顧客喜愛。
+TownTamakoro	在小鎮的娛樂設施——\n滾球店工作的瓦豆魯迪。\n由於這款超人氣遊戲深受大家喜愛，\n總是有眾多瓦豆詢問新作何時登場，\n為了回應大家的期待，\n才因此連激難模式都額外製作出來！
+TownToolShop	在小鎮開設道具店，心靈手巧的瓦豆魯迪。\n販賣著能讓人恢復精神的道具。\n咖啡店菜單上的元氣飲料\n也是這間店所製作的，\n批發價是2瓶元氣飲料交換3個卡比漢堡。
+MisterFrosty	比卡比他們早了些時間從波普之星\n漂流到這個世界的冰霜先生也加入了\n野獸軍團，換上了風格狂野的服裝。\n與軍團的成員意氣相投，\n也深受同伴信賴。
+BossGorilla	將購物中心劃為地盤的猩猛霸。\n身為野獸軍團的幹部，\n時常抓走瓦豆魯迪或搶奪食物。\n只有水果他總是會忍不住當場吃起來，\n每次被發現都會受到軍團首領責罵。
+KirbyDrill	鑽擊挖啊挖，在地底前進，\n似乎還能潛入地底躲避敵人的攻擊！\n只要在地底潛行，繼續前進，\n原本到不了的地方也能順利潛入！
+KirbyTornado	轉啊轉，轉啊轉地轉個不停！\n別具特色的操作雖然讓人頭昏眼花，\n但不論是敵人、方塊還是星星都能捲起，\n旋轉後放開造成傷害！
+KirbyHammer	威力超群，強而有力的錘子。\n雖然攻擊距離短了一點點，\n卻能夠把樁和敵人都打扁！\n長按進行蓄力，必殺技……鬼殺！
+KirbyCrash	引發大爆炸吧！\nDANGER DANGER的終極武器！\n長按按鍵變得更～加DANGER，\n波及四周，360度全方位無死角！
+KirbyEliteRanger	頭戴貴族帽子，造型華麗的探巡隊。\n雙手各拿著連發槍！\n蓄力射擊也變成連續射擊，\n不放過任何目標，一定會命中紅心！
+KirbySwordGalactic	巨大的利劍真不愧龐大利劍之名！\n雖然有點重所以拿起來很辛苦，\n但防禦堪稱鐵壁！能夠架起盾牌，\n緩慢前進保護自己並不斷進攻！
+KirbyBombChain	連鎖也就是連鎖發動的炸彈！\n長按進行瞄準後丟出炸彈佈局，\n引爆後就會產生連鎖反應，砰砰砰地爆炸！\n相連的炸彈越多傷害也會越高！
+KirbyCutterChakram	居然是彎刀二刀流！\n操縱著兩輪圓月，\n交替投擲，劈砍四周。\n在空中嗡嗡作響，交錯飛過的圓月彎刀！
+KirbyFireVolcano	轟地一聲，火山要爆發了！\n大地的地熱造就了威力強大的烈火！\n砰砰砰地發射岩漿子彈，\n命中目標後連大地也熊熊燃燒化作焦土！
+KirbyNeedleJunk	使用廢品素材連續戳刺，\n滾動的針碰到可是會更痛的喔！\n砰地發射後，無數的廢品刺\n會飛向四周，好痛好痛！
+Swan	更加優雅，更加美麗。\n雖然柔軟但是威力卻提升了！\n利用風和羽毛將敵人捲進去，\n使出芭蕾般的舞蹈，華麗地進行攻擊！
+KirbyHammerToy	會發出嗶嗶聲，非常可愛的錘子。\n但這可不是玩具喔！\n不論樁還是敵人都會被打得扁扁的，\n連射能力也一舉獲得提升！
+KirbyCrashTime	這不會就是終極的武器吧？\n連時間都能操控的新武器！\n將這個世界的一切都變成慢動作，\n接著快速行動，破壞一切！
+DeformKirbyRing	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的大圈圈塞滿嘴，\n就能讓身體變成張著嘴巴的圈圈！\n只要呼氣就能用風吹散沙塵與敵人，\n甚至還能吹動風車，使風車旋轉！
+DeformKirbyRingBoat	在神秘漩渦中學會的塞滿嘴變形。\n變形成圈圈塞滿嘴，\n搭上漂浮在水上的小船吧！\n變成可以操控風向的遊艇後，\n不但能呼氣突進，還能衝散敵人！\n碰到有裂痕的牆壁還能砰地直接破壞前進喔！
+DeformKirbyLightbulb	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的圓形燈泡塞滿嘴，\n就能在一片黑暗中打開開關照亮世界！\n因為按著開關的時候會難以行動，\n所以把照亮的路徑記下來後再前進吧。\n尋找方向並邁向目的地，最後抵達終點！
+DeformKirbyRollerCoaster	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的整輛雲霄飛車塞滿嘴，\n就能變成太空飛車，準備發動！\n仔細看清楚路線，左右傾斜前進吧！\n這就是主題樂園的招牌遊樂設施，\n名為夢幻的……「太空驚奇樂園號」！
+Alligator	擁有駭人巨大下顎的鱷佳布爾。\n會貼著水面游動，等待獵物上門。\n身體被宛如盔甲般的表皮覆蓋，\n堅硬得連複製能力都無法傷其分毫。\n在塞滿嘴變形後靠突進來打倒他吧！
+WaterBigEnemy	最愛耍特技的氣球高手。\n不知道是曾受人指導還是祖輩的遺傳，\n擁有相當完美的球類雜耍技術！\n那顆球也不曉得是從哪裡得到的，\n是一碰就會爆炸的危險物品。\n努力地吸入球來取得炸彈能力吧。
+DrillEnemy	在地底移動如游泳般自在的狄古。\n潛入地底再迅速竄出！\n是個神出鬼沒，驚嚇他人的傢伙。\n會丟出泥土搓成的球進行攻擊，\n還會把地底的農作物通通吃光。
+HammerEnemy	面帶笑容跳著舞的牧吱斯。\n會揮舞或投擲手中的小錘子，\n是臉上掛著滿足笑容的快樂野獸。\n只不過……雖然看起來面帶笑容，\n但這其實是表達憤怒和威嚇的表情！
+ParkEntranceStatue	創始人名叫驚奇利亞。\n他以愛犬作為形象人物創作書籍，\n描繪出飛向宇宙、驚險刺激的幻想故事。\n並以此故事為背景創立了廣受小孩與大人\n喜愛的夢幻主題樂園——驚奇樂園。
+ParkMascot	以驚奇樂園創始人的愛犬為原型的吉祥物。\n名字分別是驚奇克斯 艾格茲（左）\n以及驚奇利 艾格茲（右）。\n兩隻吉祥物一直都十分要好，\n故事中曾提到他們會持續宇宙之旅。
+Bonkers	比卡比他們早了些時間從波普之星\n漂流到這個世界的錘星猩也加入了\n野獸軍團，換上了風格狂野的服裝。\n現在已經完全融入軍團之中，\n甚至對牧吱斯疼愛有加。
+MbossTornado	以優雅姿態起舞的天鵝羅利那。\n要是被她那芭蕾舞者般的舞蹈給吸引住，\n就會被捲進她的龍捲之舞中！\n她隨時隨地都會注意要踮著腳尖，\n無論舞蹈課程還是戰鬥訓練都毫不懈怠，\n相當勤奮。
+GigantEdge	比卡比他們早了些時間從波普之星\n漂流到這個世界的龐大刃也加入了\n野獸軍團，換上了風格狂野的服裝。\n雖然在軍團中與他人有些格格不入，\n但是仍狂野地堅守著自己的崗位！
+WhispyPalm	受到陽光照耀而成長茁壯的熱帶大樹。\n憤怒時會落下巨大的椰子引發大爆炸。\n對於入侵地盤者會毫不留情地展開攻擊，\n但據說長在他頭上的普通椰子非常美味，\n所以想得到椰子的挑戰者也絡繹不絕。
+BossLeopard	在驚奇樂園的馬戲團中現身的卡洛凌。\n能以快速且優美的動作將敵人玩弄於股掌間，\n現任野獸軍團首領的聯絡官，\n在察覺到卡比的行動後前往驚奇樂園。\n是軍團中偶像一般的人物，擁有眾多支持者。
+KirbySleep	再睡1分鐘……Zzz……\n讓我……再睡一下嘛……好睏……Zz……\n睡覺期間……會回復……一點點……\nZz……Zz……z……
+KirbyPencilDrill	獨特設計的個性派鑽擊！\n超大的鉛筆雖然沒辦法寫字，\n卻可以挖掘大地潛入地底再竄出來。\n射擊吧！發射吧！鉛筆火箭！
+KirbyFrostyIce	戴著可愛帽子的冰霜冰凍。\n呼～呼～吹出吐息，\n創造出一個又一個的雪人。\n哎呀，長相都一模一樣呢！
+KirbyFireDragon	奇幻的怪物終於現身了！\n呼出氣息宛如火焰噴射器，\n釋放燃燒攻擊時會拍動翅膀！\n長按時就像龍在空中滑翔飛舞！
+DeformKirbyVendingMachine	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的果汁自動販賣機塞滿嘴，\n就能變成可以使出罐子射擊的戰鬥型自動販賣機！\n雖然數量有限，但只要用罐子射擊打不壞的牆壁，\n就能獲得可以喝的飲料！
+DeformKirbyStairs	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的巨大階梯塞滿嘴，\n就能讓身體變成階梯的形狀！\n倒向想傾倒的方向使出砰鏘攻擊！\n搬動階梯、爬上階梯，盡情闖蕩吧！
+DeformKirbyCylinder	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的長～長的水管塞滿嘴，\n一旦開始滾動就停不下來！直到撞上牆壁為止\n都會突破一切障礙，一路滾下去！\n仔細觀察可能掉落的地形，使出大跳躍閃避吧！
+DeformKirbyElevator	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的作業車塞滿嘴，\n就能變成可以伸長縮短的作業車！\n移動並前進，調整好高度再吐出，\n就能華麗地一躍至高處！
+DeformKirbyWaterBalloon	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的給水管塞滿嘴，\n吸進大量的水，就能讓身體變成神奇的水球！\n雖然粉紅色的皮膚會稍～微變薄，\n但卻能緩緩搬運水分，把一切沖得一乾二淨！
+DeformKirbyGlider	在神秘漩渦中學會的塞滿嘴變形。\n只要把在新世界發現的半圓拱門塞滿嘴，\n就能變成可以翱翔天際的滑翔翼！\n控制好升降就能乘上軌道，如果路上遭到\n敵人阻礙就使出旋轉突進展開螺旋攻擊吧！
+CaptiveSupportChara	在出乎意料的時間點被帝帝帝大王\n從雪白角峰抓走的艾菲靈。\n一路以來，他為卡比提供了許多的建議，\n但自從他被抓走之後，就聽不到他的聲音了……\n卡比也因此感到相當沮喪。
+NormalEnemyWild	被視為野獸發源地的原始荒野大地。\n跟常見的那些野獸比起來，\n棲息在此地的加魯魯菲又更加具有野性。\n會一邊發出低吼一邊追逐獵物，\n遺傳自祖輩的凶猛程度更是有過之而無不及。
+SnakeEnemy	能將敵人一口吞下，貪吃的佳布爾蛇。\n能從遠處快速接近，一張嘴就咬得死緊。\n即使是大得看似難以一口吞下的獵物，\n也能靠可伸縮的柔韌身體一口氣吞入獵物，\n是個可怕的敵人。
+PoisonToadEnemy	全身劇毒的巨大青蛙——毒毒蛙。\n身體受到毒素的覆蓋與保護，能夠抵擋任何攻擊！\n雖然皮膚一直被毒保護著，\n但是只要噴灑大量的水淋溼他，\n就能讓他原本充滿彈性的皮膚顯露出來。
+Blueprint	新發現的設計圖，可以進化複製能力。\n雖然內容即使卡比看了也不懂，\n但只要將設計圖帶到瓦豆魯迪武器店，\n一陣敲敲打打後成品就能馬上出爐！\n嗯～真不愧是技術高超的瓦豆魯迪！
+Metaknight	比卡比他們晚一步被神秘漩渦吞噬，\n也跟著來到此地的魅塔騎士。\n正在調查離開這個世界的方法。\n在進行調查的同時仍不忘磨練自己的劍術，\n並挺身挑戰襲擊小鎮的野獸軍團。
+Dedede	其實比卡比早了些時間來到這個世界的\n帝帝帝大王！似乎已經與野獸軍團聯手……\n話說回來，他這麼對待瓦豆魯迪們也太過分了吧？\n熟悉的長袍也配合這個世界的生活變得更加狂野。\n總覺得看起來很厲害！
+BossArmadillo	相當擅長旋轉舞蹈的犰魔亂舞。\n由於是夜行性的生物，具有優秀的夜視能力。\n也不知道有沒有好好聽從首領的命令，\n正在搜集各種東西，卻遲遲找不到真正的目標——\n一個輕飄飄地飛在空中的小傢伙。
+KirbySwordMeta	感覺就像變成了對手的魅塔騎士利劍！\n體力足夠時還能發出射擊。\n滑壘後用跳躍向上躍起使出連擊，\n帥氣地決定勝負！
+KirbyHammerRock	又重又堅硬，狂野無比的錘子！\n雖然不太具備連續攻擊的能力……\n但能夠使出敲下去就讓大地龜裂，\n十分疼痛的一擊，造成巨大的傷害！
+KirbyCutterMetal	出招吧！投擲出去吧！金屬彎刀！\n不但射程更遠，威力也更加提升。\n命中牆壁就會鏗鏘作響，\n善用反射使射程更遠一些吧！
+KirbyNeedleCrystal	由天然素材構成，硬邦邦的水晶。\n只要一釋放，水晶就會四處飛散！\n滾動的時間也會變得更～長，\n在地上留下尖刺陷阱吧！
+KirbyBombChainSearch	更加新型的行走炸彈！\n炸彈丟出後會自動搜索敵人，\n一旦發現敵人就會鎖定目標突進！\n還能以連鎖炸彈追擊敵人！
+KirbyDrillTwin	使用雙重鑽擊進行攻擊吧！\n有著只要在敵人下方的地底潛行\n就可以迅速打倒敵人的優秀能力！\n不但速度提升了，傷害也提升了！
+KirbyIceBlizzard	帶來嚴寒暴雪的暴風雪！\n帥氣的帽子是冰之頭冠。\n不斷吹出寒冰吐息，並使用冰錐攻擊，\n是最強的冰凍能力！
+KirbyDeep	迷迷糊糊……Zzz……\n走向……床邊……鑽進被窩……Zz……\n起床以後……會拿出……真本事的……\nZz……Zz……z……
+KirbyStorm	帶來不安的龍捲風，雷聲隆隆的風暴！\n暴風再加上轟鳴聲，\n雷鳴響起，狂雷電擊！\n使用風與電的雙重攻擊來進攻吧！
+KirbySpace	飛向宇宙吧！太空探巡隊！\n從雷射槍到雷射光束一應俱全！\n閃耀光芒的子彈只要擊中敵人\n就能連續命中，傷害也會倍增！
+KirbyDedede	自稱大王的那位所拿的錘子！\n變身狂野的蒙面俠後，\n雙手使出威力十足的強勢攻擊！\n就用這最強的錘子，來……上吧！
+KirbyMorpho	在決戰中為執行審判而現身的夢蝶。\n雖然這是模仿其外型、令人畏懼的紅色能力，\n不過連惡夢都能一口吃掉的卡比，\n應該能輕易地熟練使用此能力吧。
+DeformKirbyDumpCar	為了拯救這個世界與那個世界……\n一路上努力塞滿嘴所發現的最終塞滿嘴變形！\n雖然身體拉長到令人擔心，但這根本不算什麼！\n承載著卡比與艾菲靈兩人的心意，\n為了釋放最後的一擊……起飛吧！
+TurtleBigLava	棲息在紅通通禁區，\n更加好戰的龜塔洛斯一族的首領。\n喜歡炎熱的地區，活動範圍並不廣泛，\n但可以從口中吐出混凝土子彈射擊遠方的獵物，\n是種粗暴的生物。
+NormalEnemySleep	野獸軍團一直以來都與離開此星球的人們\n遺留下來的文明共存著。\n雖然有許多物品連如何使用都不得而知，\n但似乎有某些物品會散發出野獸喜歡的氣味。\n平時凶猛的加魯魯菲今天也正在喜歡的木箱上午睡。
+TreasureHunt	充滿危險與誘惑的新世界。\n只要在旅途中四處多繞點路……\n就有可能發現成堆的財寶！\n為了找到沉眠此地的寶藏，\n探巡隊卡比的冒險仍未結束！
+KirbyAndMetaknight	魅塔騎士也隨著卡比一起來到了這個世界。\n雖然調查的進度已經到了下雪的區域，\n但是為了擊退小鎮中的野獸，\n只好在高處的競技場展開監視。據說目前\n與經常交戰的猩猛霸間的戰績是30戰30勝。
+KirbyAndDedede	兩人在波普之星時是命中注定的宿敵！\n雖然帝帝帝大王是這麼主張的，\n但在新世界一直見不到卡比，其實感到很失落。\n後來再見到卡比時，他何止是勁敵，\n甚至已經變成狂暴肆虐的野獸了。
+ClearDance	受到卡比的歡樂心情感染，\n除了熟悉的頭巾瓦豆魯迪之外，\n初次相遇的艾菲靈也加入了卡比跳舞的行列！\n模樣十分可愛，但歌聲卻爆發力十足的卡比。\n下次大家一起來合唱吧！（心跳加速……）
+ChallengeAllClear	神秘漩渦可以通往各式各樣的世界。\n其中被稱為寶藏之路的空間中還藏有\n一種不知從何而來，名為稀有石的石頭，\n這種石頭蘊含著強大的能量。\n恭喜成功蒐集到所有稀有石的你！
+TownAbilityRoom	在小鎮經營武器店，充滿活力的造物專家。\n說完一句「交給我！」便單手拿起錘子，\n為複製能力提升威力。\n總是想打造更強、更棒的東西而努力過頭，\n有時候連帽子都會稍微變大。
+TownArena	充滿各種神奇事物的競技場。\n除了充滿自信的野獸，甚至連神秘漩渦都會出現。\n實況瓦豆魯迪自己也曾感到害怕，\n認為關閉競技場或許比較好……但苦惱一陣子後，\n還是因為想觀賞戰鬥而重新舉辦起大會。
+TownTheaterRoom	瓦豆魯迪電影院的瓦豆魯迪。在小鎮被破壞後，\n喜愛電影院的他決定盡快重建電影院。\n雖然填飽肚子和擁有家園都很重要，\n但娛樂也是不可或缺的！\n至於他喜歡的影片……當然是全都喜歡囉！
+TownLive	四人樂團豆魯迪士，隨著哇呀！（開唱！）一聲高呼，\n帥氣的音樂便炒熱了小鎮的氣氛。\n由於對音樂的堅持不同，總會在咖啡店展開熱議，\n然而一旦開始表演卻又默契十足。\n雖然發生過不少事情，卻依然是要好的四人組。
+BossLeopardAndSoul	受到卡比和卡洛凌的心意所引領，\n收集到的靈魂回到了他的身邊。\n從ID-F86殘存的思想中獲得解放的獅王加爾夫，\n想必會成為動物們的強大領導者來帶領大家吧。\n這個世界也已經不要緊了！
+BossLionAndLeopard	他們曾經是一對知名的搭檔，也是動物們的領袖。\n然而，自從獅王在某天發現了ID-F86以後，\n便開始以獅王加爾夫自稱，並且說出了\n只會發出吼聲的卡洛無法理解的語言，\n還建立了野獸軍團。即使如此，卡洛仍對他深信不疑。
+MaskDedede	擄走艾菲靈，在紅通通火山的山腳等待著\n卡比的是戴上了狂野面具的帝帝帝大王！\n他為什麼要擄走艾菲靈呢……？\n戴上從某人那裡收下的詭異面具後，\n他就搖身一變，成為了狂暴的野獸！
+BossLion	統領野獸軍團的強者——獅王加爾夫。\n他成為了來自宇宙的侵略種操控的棋子，\n不斷收集著被當成能量來源的食物與瓦豆魯迪們。\n他最重要的任務正是捕獲下落不明的ID-F87……\n菲克特‧艾菲靈。
+BossOrigin	某天，眾多原生種遭受到從天外飛來的ID-F86襲擊。\n人們為了阻止ID-F86的侵略而實施捕獲行動，\n進而開始研究他的能力，最終獲得了夢幻的技術，\n並且啟程離開了這顆空間逐漸變得狹隘的行星。\n尚未甦醒的ID-F86，則儼然成為了被遺忘的東西。
+BossChimera	失去了艾菲靈的侵略種，沉眠於永恆膠囊的同時，\n也不斷散發出強大的思想電波，\n並且逐漸控制了動物們。\n由於那副身體在膠囊外無法維持機能，\n因此才需要大量的能量。
+BossChimeraPerfect	殘存在他侵略野心之中微小的博愛之心，\n在分離後從而誕生出了艾菲靈。\n這個結果導致他的空間轉移能力失去了穩定性，\n最終陷入失控，也使得各地出現了神秘漩渦。\n恢復完全體的他又開始計劃侵略下個行星。
+SoulSingle	獅王加爾夫的靈魂漂流到那座絕島上。\n一度被卡比打倒而失去身軀的ID-F86\n只有思想逃到絕島的盡頭，並囚禁了作為\n附身對象的獅王加爾夫。為了將自己的思想\n注入到獅王的身體，捨棄了獅王的靈魂。
+BossGorillaEX	強大的思想所誕生出的幻之野獸——猩猛霸‧幻。\n雖然是宛如從夢中而生的思想體野獸，\n卻擁有遠遠超越本體的強大實力！\n雖然如此，但對水果依然沒有抵抗力，\n現在仍然會在夢幻的購物中心大吃特吃。
+WhispyPalmEX	在幻夢‧遺忘上有著詭異的夢幻太陽。\n在那陽光的照耀下，熱帶大樹‧幻也成長茁壯。\n他頭上所結的詭異椰子，\n吃起來究竟會是什麼味道呢……？\n有誰願意當第一位試吃者嗎！？
+BossLeopardEX	由於太想見到失蹤的主人——獅王加爾夫，\n卡洛凌選擇依靠卡比的幫助。然而，\n這個思想體卡洛凌卻連對獅王加爾夫的\n仰慕之心都已遺忘，成為了真正的野獸。\n徹底打敗仿冒卡洛凌的虛假思想體吧！
+DededeEX	自強大的思想中誕生的帝帝帝大王。\n此時的大王由於受到侵略種的心電感應控制，\n與獅王加爾夫一起成為了搜索艾菲靈的棋子。\n沒錯，這個大王身上並未擁有與卡比他們的回憶，\n只是個遺忘一切的思想體！
+BossArmadilloEX	模仿野獸軍團的形象，\n自強大的思想中誕生的存在。\n這個犰魔亂舞‧幻也保持著過去的形象，\n至今也依然徘徊在幻夢‧遺忘當中\n尋找著艾菲靈與卡比。
+MetaknightEX	未曾在那座絕島上相遇的孤傲的思想體。\n侵略種也曾試圖用心電感應，像對帝帝帝大王那樣，\n將他變為自己的棋子，但他的自我戰勝了侵略種的精神，\n從侵略種的手下逃脫。然而，\n這個思想體卻已基於當時的形象被創造了出來！
+MaskDededeEX	過去曾獲得獅王加爾夫授予沉澱於思想的面具，\n並且身負阻擋入侵者前往實驗室‧摸索發覺\n這一任務的狂野 帝帝帝。\n從這個形象中誕生的便是遺忘一切的對手，\n實力強大無比的狂野 帝帝帝‧幻！
+BossLionAndOrigin	變成靈魂的ID-F86為了從幻夢‧遺忘的盡頭\n發起反攻而創造出了思想野獸們，\n自己則附身在獅王加爾夫的身體。\n然而殘留在他體內的靈魂仍不斷反抗，\nID-F86也在受到卡比的攻擊後顯現出真身。
+MorphoKnight	據說會在決戰中執行審判的一隻夢蝶，\n像是受到引領一般漂流到被遺忘的絕島上。\n在那裡啜飲了最強大的靈魂，化身紅色的騎士降臨該地。\n在這新世界中最凶險的戰鬥……\n終於即將迎來落幕！
+BossChimeraSoul	混合了夢蝶與原生種的眾多靈魂所誕生出的\n魂沌新物種。然而失控的魂沌也終於被打敗，\n受卡比的奇蹟之力轉化為微小的光芒。\n光芒並未消失，而是聚集到艾菲靈的懷中，\n最後……與艾菲靈合為一體。
 $Multiplication	×
+$FigureList1SText	1
+$FigureList2SText	2
+$FigureList3SText	3
+$FigureList4SText	4
+$FigureListCloseInfoText	關閉
+$FigureListSkipText	Vol.切換
+$FigureListSlashText	/
+$FigureListTabTitleText	扭蛋機收藏
+$FigureListVolSText	Vol.
+$View	欣賞
+DecorateOn	裝飾在家中
+DecorateOff	整理
+$Rotate	旋轉
+$Zoom	縮放
+$TotalCount	模型總數
+GameComplete.msbt
+History.msbt
+$HistoryCloseInfoText	返回
+ProductNameLatest1	星之卡比 新星同盟
+ProductNameLatest2	卡比群星戰2
+ProductNameLatest3	超級卡比獵人隊
+ProductNameOther1	Kirby's Extra Epic Yarn
+ProductNameOther2	Kirby Battle Royale
+ProductNameOther3	Kirby's Blowout Blast
+ProductNameOther4	Team Kirby Clash Deluxe
+ProductNameOther5	Kirby: Planet Robobot
+ProductNameOther6	Kirby and the Rainbow Curse
+ProductNameOther7	Kirby Fighters Deluxe
+ProductNameOther8	Dedede's Drum Dash Deluxe
+ProductNameOther9	Kirby: Triple Deluxe
+$HistoryTitleText	過去的冒險
+PlatformName1	Nintendo Switch
+PlatformName2	Nintendo 3DS
+PlatformName3	Wii U
+ProductCommentLatest1	以盟友之心讓敵人成為同伴！\n與同伴搭配依序使出「盟友能力」，\n為拯救世界而戰吧！\n透過分享Joy-Con，最多可以4人一起遊玩。
+ProductCommentLatest2	選擇複製能力，最多4人一起對戰的動作遊戲。\n玩家也可以遊玩故事模式，\n挑戰帝帝帝大王與魅塔騎士聯手的組合。\n此外，還能夠在線上與全世界的玩家以及朋友對戰。
+ProductCommentLatest3	4個職業的卡比同心協力挑戰各式各樣的探索，\n是基本免費的動作遊戲。\n不只可以一人遊玩，\n還有多人的線上遊玩、分享遊玩。
+ProductCommentOther1	操控毛線外觀的卡比，使用毛線特有的多種招式\n進行冒險的動作遊戲。\n除了可以讓卡比變身成各種樣貌的「換形能力」，\n還能夠使用全新的「裁縫能力」！
+ProductCommentOther2	操控卡比與眾多對手\n展開多彩多姿戰鬥的動作遊戲。\n除了可以1個人遊玩，也能夠透過網路通訊\n或鄰近主機通訊與最多4名玩家互相競爭！
+ProductCommentOther3	《Kirby: Planet Robobot》的小遊戲脫胎換骨，\n搖身一變成為捲軸式3D動作遊戲。\n在3D空間奔馳，藉由吸入與吐出打倒敵人\n並取得高分吧！
+ProductCommentOther4	在《Kirby: Planet Robobot》的小遊戲中\n加入了新的探索、超過80種的「裝備」，\n以及作為據點的「小鎮」等等嶄新要素。\n還能夠享受4人合作遊玩，基本上是免費遊戲。
+ProductCommentOther5	為了拯救被邪惡企業侵略的世界，\n卡比將與擁有10種以上不同型態的\n「機器博博裝甲」一同奮戰！\n可對應所有的amiibo。
+ProductCommentOther6	使用觸控筆畫出彩虹線條，\n將卡比引導至終點吧！\n卡比還可以變身成3種不同種類的運輸設備。\n其他玩家也能夠操縱瓦豆魯迪，享受4人合作遊戲！
+ProductCommentOther7	在《Kirby: Triple Deluxe》的小遊戲\n新增了更多要素。\n能夠從10種複製能力當中選擇喜歡的能力進行對戰，\n也可以使用通訊遊玩4人同樂！
+ProductCommentOther8	在《Kirby: Triple Deluxe》的小遊戲\n新增了更多要素。\n配合節奏操作帝帝帝大王，\n使用不同跳躍往終點前進！
+ProductCommentOther9	特色是不再侷限於橫向，\n能夠在關卡的前後移動。\n除了25種複製能力以外，\n還能夠享受「超新星吸入」帶來的衝擊性與樂趣！
 MessageWindow.msbt
 CharaName_Unknown	？？？
 CharaName_SupportChara	艾菲靈
+CharaName_BandanaWaddleDee	頭巾瓦豆魯迪
+CharaName_AbilityRoomClerk	武器店瓦豆魯迪
+CharaName_FoodShopClerk	咖啡店員瓦豆魯迪
+CharaName_MgameFoodClerk	咖啡店長瓦豆魯迪
+CharaName_PharmacyClerk	道具店瓦豆魯迪
+CharaName_ArenaClerk	實況瓦豆魯迪
+CharaName_TheaterClerk	電影院瓦豆魯迪
+CharaName_MgameBallClerk	滾球店瓦豆魯迪
+CharaName_DeliveryServiceClerk	快遞員瓦豆魯迪
+CharaName_KnowledgeWaddleDee	知識淵博瓦豆魯迪
+CharaName_MerchantWaddleDee	兌換瓦豆魯迪
+CharaName_VassalWaddleDee	家臣瓦豆魯迪
 Msg_TownFirstDemo_SupportTalk_00	{[1907|00cd]}謝謝你，\n真是得救了～！{[0004]}{[1400]}不過他們……\n{color[ff4d2fff]}瓦豆魯迪{color[000000ff]}們都被抓走了……{[0004]}小鎮遭遇了好幾次的襲擊，\n雖然大家一起努力反抗過……{[0004]}{[1400]}{[1402]}{[1902|00cd]}可是最後還是只剩下我一個人……{[0004]}我得趕快去救他們才行……
 Msg_TownFirstDemo_SupportTalk_01	什麼？{[1401]}{[1905|02cd]}{[1400]}\n你願意跟我一起去救他們嗎？\n謝謝你～！
 Msg_TownFirstDemo_SupportTalk_02	{[1907|00cd]}你說……你叫做{color[ff4d2fff]}卡比{color[000000ff]}對吧？
 Msg_TownFirstDemo_SupportTalk_03	{[1907|01cd]}我叫{color[ff4d2fff]}艾菲靈{color[000000ff]}！\n請多關照囉！
+Msg_TownFirstDemo_BandanaWaddleDeeTalk_00	喂～卡比！
+Msg_TownFirstDemo_BandanaWaddleDeeTalk_01	我也是在{color[ff4d2fff]}波普之星{color[000000ff]}被吸了進去，\n才跑到這裡來的。{[0004]}如果你想以兩人遊玩的方式展開冒險，\n隨時都能邀請我喔！
+Msg_BandanaWaddleDee_TalkGuide2P	如果你想以兩人遊玩的方式展開冒險，\n只要按下{[0411|9400]}暫停，隨時都能邀請我喔。\n我會馬上趕到的！
+Msg_BandanaWaddleDee_TalkStory1_01	當時突然被吸到空中，\n真是嚇了我一大跳呢～！{[0004]}其他的瓦豆魯迪們似乎比我\n更早一步來到這個世界……
+Msg_BandanaWaddleDee_TalkStory1_02	在我急著想要追上他們的時候，\n剛好看到一輛粉紅色的汽車。{[0004]}那輛汽車果然就是你！{[0004]}但是你把那麼大一輛汽車塞進嘴巴裡，\n嘴巴不會受傷嗎……？
+Msg_BandanaWaddleDee_TalkStory2	瓦豆魯迪們都已經回到小鎮，\n所以現在變得更熱鬧了呢。{[0004]}聽說那些瓦豆魯迪\n都很感謝你拯救了他們！{[0004]}我也已經準備好展開冒險了，\n只要按下{[0411|9400]}暫停，隨時都能邀請我喔。
+Msg_BandanaWaddleDee_TalkStory3	{[1402]}艾菲靈被帝帝帝大王抓走了，\n不知道他要不要緊……{[0004]}不能再這樣空等下去了，\n我們一起去救艾菲靈吧！
+Msg_BandanaWaddleDee_TalkStory4	能夠再次見到艾菲靈真是太好了。{[0004]}多虧了艾菲靈那神奇的力量，\n才有辦法將波普之星跟這個世界連結在一起……{[0004]}今後我們又可以無憂無慮地\n一起在這個世界繼續冒險了！
+Msg_BandanaWaddleDee_TalkAbilityRevolute	如果卡比使用了\n{color[ff4d2fff]}進化過{color[000000ff]}的複製能力，\n其實{color[ff4d2fff]}我也會跟著變強{color[000000ff]}喔。{[0004]}隨著複製能力的進化階級提升，\n我的長槍攻擊力也會獲得進一步提升。\n在兩人遊玩的時候，也會表現得相當活躍！{[0004]}沒想到我竟然能夠和卡比一起變強，\n感覺就像自己也變成英雄一樣，真開心。
+Msg_TheaterClerk_WelcomeFirst	歡迎來到{color[ff4d2fff]}瓦豆魯迪電影院{color[000000ff]}！\n這裡可以觀賞各式各樣的{color[ff4d2fff]}影片{color[000000ff]}喔！ {[0004]}順帶一提，一開始之所以會打造這座電影院，\n是因為我認為{color[ff4d2fff]}娛樂也是非常重要的{color[000000ff]}！{[0004]}那麼卡比，\n請問你想觀賞哪一部影片呢？
+Msg_TheaterClerk_Welcome	歡迎來到瓦豆魯迪電影院！\n請問你想觀賞哪一部影片呢？
+Msg_TheaterClerk_WelcomeNewMovie	歡迎來到瓦豆魯迪電影院！\n目前有{color[ff4d2fff]}新影片{color[000000ff]}上映了。{[0004]}那麼，\n請問你想觀賞哪一部影片呢？
+Msg_TheaterClerk_Thanks	歡迎隨時再度光臨！
+Msg_TheaterClerk_PlayAnnounce	你想觀賞{color[ff4d2fff]}『{[0314]}』{color[000000ff]}對吧。\n影片馬上就要開始了，\n請盡快{color[ff4d2fff]}入座{color[000000ff]}。
+Msg_TheaterClerk_AskChangeMovie	要更改為其他影片嗎？
+Msg_TheaterClerk_CancelChangeMovie	請盡快{color[ff4d2fff]}入座{color[000000ff]}。\n{color[ff4d2fff]}『{[0314]}』{color[000000ff]}馬上就要開始囉。
+Msg_TheaterClerk_WelcomeAgain	你覺得這部影片如何？\n接下來還想觀賞哪一部影片呢？
+Msg_TheaterClerk_GiveFigure	{[1800]}卡比，恭喜你！{[0004]}{[1400]}為了紀念所有影片成功上映，\n我想送給你一個{color[ff4d2fff]}特別的模型{color[000000ff]}！\n請收下這個！
+Msg_TheaterClerk_AfterGiveFigure	卡比，\n請問你想觀賞影片嗎？
+Msg_TownGuideAbilityRoomDemo_SupportTalk_00	{[1905|04cd]}聽說能夠選擇複製能力的\n{color[ff4d2fff]}瓦豆魯迪武器店{color[000000ff]}已經開幕囉！{[0004]}除了可以自由選擇能力之外，\n據說還能學到讓自己變強的秘訣喔。\n趕快進去看看吧！
+Msg_TownGuideAbilityRoomDemo_SupportTalk_01	{[1909|00cd]}卡比，不是那裡啦！快過來這邊～！
+Msg_TownGuideNewAreaDemo_SupportTalk	{[1907|01cd]}卡比，如果你已經做好萬全的準備，\n那就搭乘{color[ff4d2fff]}傳送之星{color[000000ff]}前往{color[ff4d2fff]}新區域{color[000000ff]}看看吧！
+Msg_AbilityRoomClerk_WelcomeFirst	這裡是{color[ff4d2fff]}瓦豆魯迪武器店{color[000000ff]}，\n任何複製能力都能任君挑選！{[0004]}本店會提供所有卡比\n{color[ff4d2fff]}曾發現的複製能力{color[000000ff]}，\n歡迎隨時前來使用。{[0004]}{[1801]}{[1403]}除此之外，{[1802]}請聽我說！\n現在你還可以在這裡{color[ff4d2fff]}進化{color[000000ff]}現有的能力，\n使能力變得更加強大喔！
+Msg_AbilityRoomClerk_IntroduceBlueprint	最近發現的這張{color[ff4d2fff]}設計圖{color[000000ff]}上\n記載了非常厲害的新技術，\n現在已經能進化複製能力了！{[0004]}趕快來進化看看吧。\n我馬上就去準備！
+Msg_AbilityRoomClerk_HowToEvolve	{color[ff4d2fff]}進化{color[000000ff]}複製能力需要\n{[0100|8000]}{color[ff4d2fff]}硬幣星{color[000000ff]}和{[0101|8100]}{color[ff4d2fff]}稀有石{color[000000ff]}。{[0004]}{[0101|8100]}稀有石似乎能在世界地圖上的\n{color[ff4d2fff]}寶藏之路{color[000000ff]}裡找到喔。\n別忘了去挑戰看看！{[0004]}不過這次我已經先準備好了，\n請直接按下{color[ff4d2fff]}「{[0400|0000]}進化」{color[000000ff]}來完成進化吧！
+Msg_AbilityRoomClerk_RecommendEvolve	請走到想要{color[ff4d2fff]}進化{color[000000ff]}的能力前面，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看吧。
+Msg_AbilityRoomClerk_RecommendEvolveDoorIn	卡比！你先別走啊！\n你不會很想知道要怎麼{color[ff4d2fff]}進化{color[000000ff]}嗎？\n現在馬上就來試試看吧！{[0004]}請走到想要進化的能力前面，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看吧。
+Msg_AbilityRoomClerk_FirstEvolveEnd	成功了，{[1401]}非常成功呢！\n{[030a]}能力已經{color[ff4d2fff]}進化{color[000000ff]}成\n{[0309|0000]}了！{[0004]}如果手上有{color[ff4d2fff]}新設計圖{color[000000ff]}就能再次進化喔。 \n要是發現了設計圖，\n別忘了回到本店！
+Msg_AbilityRoomClerk_RecommendSelect	卡比，你知道嗎？\n如果已經有設定中的複製能力，\n只要按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}就能直接{color[ff4d2fff]}吸入該能力{color[000000ff]}喔！
+Msg_AbilityRoomClerk_RecommendSelectWithAbility	卡比，你知道嗎？\n如果已經有設定中的複製能力，\n只要按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}就能直接{color[ff4d2fff]}吸入該能力{color[000000ff]}喔！{[0004]}順帶一提，按下{color[ff4d2fff]}{[0703|0300]}{color[000000ff]}則可以捨棄能力。
+Msg_AbilityRoomClerk_RecommendSelectAfter	只要預先把能力{color[ff4d2fff]}設定{color[000000ff]}好，\n這裡也會把冒險途中獲得的能力\n{color[ff4d2fff]}替換成已設定的能力{color[000000ff]}喔。
+Msg_AbilityRoomClerk_IntroduceKnowledgeWaddleDee	你是不是正在為尋找設計圖而煩惱呢？\n聽說只要詢問{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}，\n他就會告訴你設計圖的所在地喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Bomb	炸彈藉由{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}，\n能夠在確實瞄準後投擲炸彈喔。
+Msg_AbilityRoomClerk_CopyAbilityTips_ChainBomb	連鎖炸彈在{color[ff4d2fff]}炸彈彼此接近{color[000000ff]}時，\n會產生連鎖效果並提高攻擊力喔。{[0004]}只要將許多炸彈相連使其產生連鎖，\n攻擊力也會不斷提升！
+Msg_AbilityRoomClerk_CopyAbilityTips_SearchBomb	自動追蹤炸彈在{color[ff4d2fff]}炸彈彼此接近{color[000000ff]}時，\n會產生連鎖效果並提高攻擊力喔。{[0004]}只要將許多炸彈相連使其產生連鎖，\n攻擊力也會不斷提升！
+Msg_AbilityRoomClerk_CopyAbilityTips_Crash	爆裂可藉由{color[ff4d2fff]}長按{[0701|0100]}\n{color[000000ff]}來累積威力喔。{[0004]}累積威力達到上限的一記攻擊\n擁有非常高的攻擊力！
+Msg_AbilityRoomClerk_CopyAbilityTips_TimeCrash	如果在時間爆裂發動中{color[ff4d2fff]}打倒敵人{color[000000ff]}，\n能夠暫停的時間也會更長喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Cutter	在丟出彎刀後{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}，\n將能夠使刀刃在空中定格並且{color[ff4d2fff]}蓄力{color[000000ff]}。{[0004]}蓄力後{color[ff4d2fff]}放開{[0701|0100]}{color[000000ff]}，{color[ff4d2fff]}\n{color[000000ff]}即可施展強力的{color[ff4d2fff]}返回攻擊{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_MetalCutter	全金屬彎刀的刀刃{color[ff4d2fff]}能夠藉由牆壁進行反彈{color[000000ff]}。\n好好利用牆壁反彈，刀刃就能夠飛得更遠！
+Msg_AbilityRoomClerk_CopyAbilityTips_Drill	鑽擊在{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}潛入地面時，\n幾乎所有攻擊都無法命中。{[0004]}只要在潛入地面時{color[ff4d2fff]}如畫圓一般{color[000000ff]}圈出圓形，\n就能夠施展出強力的{color[ff4d2fff]}地面咚{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_Fire	烈火在跑動時{color[ff4d2fff]}跳躍{color[000000ff]}並按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}，\n即可使用{color[ff4d2fff]}燃燒攻擊{color[000000ff]}！{[0004]}順帶一提，\n烈火不但可以點燃大炮的導火線，{[0004]}只要在進入大炮後{color[ff4d2fff]}按下{[0409|6000]}{color[000000ff]}或{color[ff4d2fff]}{[040a|6100]}蹲下{color[000000ff]}，\n導火線上已點燃的火焰燃燒速度也會變快喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_DragonFire	龍之烈火的燃燒攻擊藉由\n{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}可延長飛行的距離。
+Msg_AbilityRoomClerk_CopyAbilityTips_Hammer	錘子藉由{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}\n可以累積威力。{[0004]}在威力累積到上限時所釋放的{color[ff4d2fff]}鬼殺火焰錘{color[000000ff]}，\n攻擊力非常高！{[0004]}順帶一提，\n使用錘子還可以敲擊樁和釘子喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Ice	冰凍的吐息能夠凍結敵人！{[0004]}即使面對魔王這般巨大的敵人，\n也能夠使{color[ff4d2fff]}對方停止動作{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_Needle	針只要捲起{color[ff4d2fff]}敵人或方塊{color[000000ff]}後，\n即可維持更長的滾動時間。{[0004]}{color[ff4d2fff]}放開{[0701|0100]}{color[000000ff]}將會向周圍射出先前捲入的物品，\n產生相當強力的攻擊！{[0004]}順帶一提，即使在颳著強風的情況下，\n針也可以透過滾動的方式前進喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Ranger	探巡隊只要藉由{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}蓄力，\n即可釋放出貫穿敵人的強力一擊！{[0004]}順帶一提，只有使用探巡隊才有辦法\n擊落飄浮在空中的目標開關喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Sleep	只要在變成睡覺時{color[ff4d2fff]}快速搖晃{[041e|f100]}{color[000000ff]}\n就能夠更快醒過來喔。
+Msg_AbilityRoomClerk_CopyAbilityTips_DeepSleep	只要{color[ff4d2fff]}按下{[0701|0100]}{color[000000ff]}，\n深層睡覺就會在床上熟睡，\n並且可以完全回復！{[0004]}熟睡之後還能夠得到\n各種{color[ff4d2fff]}威力提升效果{color[000000ff]}喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Sword	利劍只要藉由{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}累積力量\n即可釋放出旋轉劈砍的{color[ff4d2fff]}迴旋斬{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_GigantSword	龐大利劍藉由按下{color[ff4d2fff]}{[0409|6000]}/{[040a|6100]}{color[000000ff]}即可架盾防禦。\n還可以一邊維持防禦一邊走動喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_MetaSword	魅塔騎士利劍在{color[ff4d2fff]}體力全滿{color[000000ff]}的狀態下揮劍\n將會釋放出{color[ff4d2fff]}新月射擊{color[000000ff]}。{[0004]}順帶一提，\n當擁有2條體力條的時候，\n在第1條體力條耗盡前都可以釋放新月射擊喔！{[0004]}藉由按下{color[ff4d2fff]}{[0409|6000]}/{[040a|6100]}+{[0700|0000]}{color[000000ff]}即可施展{color[ff4d2fff]}利劍滑壘{color[000000ff]}。\n施展出利劍滑壘後藉由{color[ff4d2fff]}{[0700|0000]}～連打{[0701|0100]}{color[000000ff]}，\n還能夠施展大招式——{color[ff4d2fff]}上霸者劍{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_MorphoSword	冥蝶騎士利劍只要藉由{color[ff4d2fff]}長按{[0701|0100]}{color[000000ff]}\n累積威力達到上限，利劍就會變大。{[0004]}巨大的利劍攻擊範圍廣泛，\n攻擊力也相當高，非常強大喔！
+Msg_AbilityRoomClerk_CopyAbilityTips_Tornado	龍捲風可以將受到攻擊的敵人\n或是星星{color[ff4d2fff]}捲入其中{color[000000ff]}！{[0004]}在發動中按下{[0701|0100]}能夠{color[ff4d2fff]}吹飛並摔落{color[000000ff]}先前捲入的物品，\n是相當強力的攻擊喔！
+Msg_AbilityRoomClerk_ReceiveSingleBlueprint	喔喔！\n如果有那張{color[ff4d2fff]}設計圖{color[000000ff]}，\n似乎就能製作{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}了！
+Msg_AbilityRoomClerk_ReceiveMultiBlueprint	喔，真不得了！\n你竟然有這麼多張新{color[ff4d2fff]}設計圖{color[000000ff]}！
+Msg_AbilityRoomClerk_PrepareNewCopyAbilitySub	那麼，\n我馬上就去為進化做準備！
+Msg_AbilityRoomClerk_NewCopyAbility	新的{color[ff4d2fff]}{[030a]}{color[000000ff]}能力\n新增囉！
+Msg_AbilityRoomClerk_NewCopyAbilitySubKind	久等了！\n{[030a]}能力已經能進化為\n{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}能力了！
+Msg_AbilityRoomClerk_UnlockStrengthening	{[1800]}卡比，請聽我說！\n我發現了一種很厲害的技術，\n可以使複製能力的{color[ff4d2fff]}威力再度提升{color[000000ff]}！{[0004]}{[1403]}這種技術就叫做{color[ff4d2fff]}能力強化{color[000000ff]}！\n似乎可以使用{[0101|8100]}稀有石\n來{color[ff4d2fff]}強化攻擊力{color[000000ff]}！{[0004]}我已經做好準備了，\n你隨時都可以進行{color[ff4d2fff]}強化{color[000000ff]}！\n請選擇喜歡的能力來試試看吧！
+Msg_AbilityRoomClerk_GiveFigure	{[1403]}{[1800]}卡比！\n難道你已經將{color[ff4d2fff]}所有{color[000000ff]}複製能力\n都{color[ff4d2fff]}進化{color[000000ff]}完成了嗎！？{[0004]}{[1401]}好厲害，太厲害了！\n對我這樣一介技師而言，\n能夠見證所有進化{color[ff4d2fff]}實在很榮幸{color[000000ff]}！{[0004]}這是我的一點心意。\n請收下這個{color[ff4d2fff]}特別的模型{color[000000ff]}吧！
+Msg_DeliveryServiceClerk_WelcomeFirst1	這裡是提供{color[ff4d2fff]}快遞禮物{color[000000ff]}\n快遞到府服務的{color[ff4d2fff]}瓦豆魯迪快遞{color[000000ff]}！{[0004]}只要輸入你在各個地方\n所發現的{color[ff4d2fff]}禮物關鍵詞{color[000000ff]}，\n我們就會將禮物快遞到卡比小屋喔！{[0004]}{[1403]}對了對了，在這座小鎮的某個地方，\n也藏著禮物關鍵詞。\n請一定要試著找找看！{[0004]}{[1800]}{[1401]}除此之外！只要連接網路，\n還能夠使用{color[ff4d2fff]}網路上已公開的\n{color[000000ff]}各種禮物關鍵詞唷。
+Msg_DeliveryServiceClerk_WelcomeFirst2	為了方便試用，我事先在{color[ff4d2fff]}對面房子的牆壁{color[000000ff]}上\n藏好了禮物關鍵詞！{[0004]}請試著仔～細地{color[ff4d2fff]}調查{color[000000ff]}\n那棟房子的牆壁四周吧。
+Msg_DeliveryServiceClerk_WelcomeFirst3	在小鎮裡找到的禮物關鍵詞，\n就算沒有連接網路\n也能夠直接使用喔。{[0004]}要不要馬上在瓦豆魯迪快遞\n使用禮物關鍵詞呢？
+Msg_DeliveryServiceClerk_Welcome	這裡是輸入{color[ff4d2fff]}禮物關鍵詞{color[000000ff]}\n就能獲得禮物的瓦豆魯迪快遞！{[0004]}只要連接網路，\n還能夠使用{color[ff4d2fff]}網路上已公開的\n{color[000000ff]}禮物關鍵詞喔。{[0004]}要在瓦豆魯迪快遞\n使用禮物關鍵詞嗎？
+Msg_DeliveryServiceClerk_Goodbye	謝謝惠顧！\n期待你再次使用本服務。
+Msg_DeliveryServiceClerk_AskUseWithoutInternet	要在未連接網路的狀態下，\n直接使用禮物關鍵詞嗎？
+Msg_DeliveryServiceClerk_NotExistPresentBox	目前似乎{color[ff4d2fff]}沒有{color[000000ff]}能夠快遞的{color[ff4d2fff]}快遞禮物{color[000000ff]}。\n期待你再次使用本服務。
+Msg_DeliveryServiceClerk_PromptInput	那麼，就麻煩你輸入\n禮物關鍵詞了。
+Msg_DeliveryServiceClerk_InvalidPresentCode	真是不好意思！\n剛才的禮物關鍵詞似乎內容{color[ff4d2fff]}有誤{color[000000ff]}～\n請輸入正確的禮物關鍵詞。
+Msg_DeliveryServiceClerk_UsedPresentCode	這是之前{color[ff4d2fff]}曾經使用過的{color[000000ff]}\n禮物關鍵詞。\n請輸入其他的禮物關鍵詞吧！
+Msg_DeliveryServiceClerk_CanceledInput	{[1403]}咦……卡比！\n你不打算輸入禮物關鍵詞了嗎？
+Msg_DeliveryServiceClerk_ValidPresentCode1	已接受你的快遞委託！\n我們會將禮物配送至{color[ff4d2fff]}卡比小屋{color[000000ff]}。
+Msg_DeliveryServiceClerk_PresentStockIsFull	{[1403]}咦……卡比！\n快遞禮物似乎{color[ff4d2fff]}已經送達{color[000000ff]}了。\n請回到卡比小屋領取吧。
+Msg_DeliveryServiceClerk_GetFigure	卡比，能耽誤你一點時間嗎？{[0004]}{[1400]}為了感謝卡比經常使用瓦豆魯迪快遞，\n我準備了一個{color[ff4d2fff]}特別的模型{color[000000ff]}！\n請收下這個！
+Msg_TownSupportTalk_SupportCoin_00	{[1901|03cd]}瓦豆魯迪們贈送給\n奮鬥中的卡比的{color[ff4d2fff]}{[0100|8000]}硬幣星{color[000000ff]}\n似乎{color[ff4d2fff]}已經送達了{color[000000ff]}！{[0004]}聽說只要卡比在冒險途中損失大量{[0100|8000]}硬幣星，\n他們就會將大約等於{color[ff4d2fff]}損失量一半{color[000000ff]}的{[0100|8000]}硬幣星\n送來給你！
+Msg_FoodShopClerk_WelcomeFirst1	歡迎光臨。\n歡迎來到瓦豆魯迪們休憩身心的咖啡店——\n{color[ff4d2fff]}瓦豆魯迪咖啡店{color[000000ff]}！{[0004]}本店也販賣能夠\n{color[ff4d2fff]}回復體力{color[000000ff]}的食物。
+Msg_FoodShopClerk_WelcomeFirst2	{[1800]}{[1401]}最棒的是！在本店所購買的食物都是\n能夠打包帶走的，也就是可以{color[ff4d2fff]}外帶{color[000000ff]}。{[0004]}{color[ff4d2fff]}只要隨身攜帶至關卡中{color[000000ff]}，\n遇到危機時也能夠進行回復。
+Msg_FoodShopClerk_WelcomeFirst3	請注意食物{color[ff4d2fff]}一次最多{color[000000ff]}\n只能持有{color[ff4d2fff]}1個{color[000000ff]}。{[0004]}卡比，\n要不要現在就買點什麼試試呢？
+Msg_FoodShopClerk_Welcome	歡迎光臨！\n請問決定好要點什麼了嗎？
+Msg_FoodShopClerk_AskBuying	{color[ff4d2fff]}{[0315]}{color[000000ff]}的價格是{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}枚{[0100|8000]}。
+Msg_FoodShopClerk_Thanks	謝謝惠顧！\n歡迎再次光臨！
+Msg_FoodShopClerk_PointStarShortage	不好意思……\n你的{[0100|8000]}硬幣星{color[ff4d2fff]}似乎不夠{color[000000ff]}呢。
+Msg_FoodShopClerk_AskTakeOut	請問你要內用，還是外帶呢？
+Msg_FoodShopClerk_ThanksTakeOut	謝謝惠顧！\n只要{color[ff4d2fff]}長按{[0702|0200]}{color[000000ff]}，\n隨時都能享用外帶的食物喔！
+Msg_FoodShopClerk_ThanksForHere	謝謝惠顧，請慢慢享用。
+Msg_FoodShopClerk_GiveFigure	{[1800]}{[1401]}卡比！\n我有個東西想送給你！{[0004]}{[1400]}因為卡比總是吃得津津有味的，\n為了表達對你的感謝，\n請讓我送你{color[ff4d2fff]}特別的模型{color[000000ff]}當作禮物！
+Msg_MgameFoodClerk_FirstTalk	啊，卡比！{[0004]}這次瓦豆魯迪咖啡店開幕的同時\n也開始{color[ff4d2fff]}招募打工人員{color[000000ff]}了！{[0004]}卡比要不要也來當咖啡店的店員，\n試著工作看看呢？
+Msg_MgameFoodClerk_Induction	生意興隆的瓦豆魯迪咖啡店\n目前正在招募打工人員喔！
+Msg_MgameFoodClerk_Thanks	辛苦了！\n下次也要麻煩你了！
+Msg_MgameFoodClerk_GiveFigure	{[1800]}{[1401]}卡比，可以打擾你一下嗎？{[0004]}{[1400]}因為你完美地完成了極限打工，\n為了感謝這麼勤奮的你……{[0004]}這個{color[ff4d2fff]}特別的模型{color[000000ff]}就送給你了！\n請收下吧！！
+Msg_KnowledgeWaddleDee_WelcomeFirst1	你好，初次見面！\n我是{color[ff4d2fff]}知識淵博瓦豆魯迪{color[000000ff]}。
+Msg_KnowledgeWaddleDee_WelcomeFirst2	我來到這個世界時發現了一本神奇的書！\n這本書上似乎記載著尚未獲得的{color[ff4d2fff]}設計圖所在地{color[000000ff]}……{[0004]}以及存在於{color[ff4d2fff]}世界各地{color[000000ff]}的\n各種{color[ff4d2fff]}分數和資訊{color[000000ff]}！{[0004]}卡比，我現在就告訴你這些資訊吧！
+Msg_KnowledgeWaddleDee_WelcomeNormal	卡比，你好啊！\n我這就告訴你來自世界各地的各種資訊。
+Msg_KnowledgeWaddleDee_WelcomeConnectError	卡比，你好啊！\n由於現在{color[ff4d2fff]}無法連接網路{color[000000ff]}，\n我就只告訴你目前已知的資訊吧。
+Msg_KnowledgeWaddleDee_WelcomeNoAutoConnect	卡比，你好啊！\n只要連接網路，\n我能告訴你的資訊也會增加喔！
+Msg_KnowledgeTopic_RemainingBlueprintStageFormer	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}前半部{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageLater	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}後半部{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageRoom	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}小房間{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageOther	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中的\n{color[ff4d2fff]}{[030f]}{color[000000ff]}！
+Msg_KnowledgeTopic_BlueprintHintJunkNeedle	只要破壞掉爬上梯子後看到的\n{color[ff4d2fff]}炸彈方塊{color[000000ff]}似乎就能找到設計圖囉！
+Msg_KnowledgeTopic_BlueprintHintTimeCrash	設計圖似乎就在牆壁上的{color[ff4d2fff]}凹洞裡{color[000000ff]}。\n綠色的硬幣就是記號！
+Msg_KnowledgeTopic_BlueprintHintTwinDrill	設計圖似乎就藏在\n洞窟入口附近的{color[ff4d2fff]}木桶裡{color[000000ff]}！
+Msg_KnowledgeTopic_BlueprintHintDeepSleep	設計圖似乎就在會上下移動的{color[ff4d2fff]}機械裡{color[000000ff]}。\n藍色的光就是記號！
+Msg_KnowledgeTopic_BlueprintHintStormTornado	設計圖似乎就在\n{color[ff4d2fff]}雲霄飛車搭乘處{color[000000ff]}的附近！
+Msg_KnowledgeTopic_RemainingBlueprintMetaKnight	透過獲得{color[ff4d2fff]}競技場的報酬{color[000000ff]}\n似乎就能得到設計圖！
+Msg_KnowledgeTopic_RemainingBlueprintMorphoKnight	似乎錯過了隱藏在\n{color[ff4d2fff]}被遺忘的‧陸地{color[000000ff]}的設計圖了！
+Msg_KnowledgeTopic_RemainingBlueprintDedede	{color[ff4d2fff]}小鎮裡的帝帝帝大王{color[000000ff]}\n似乎持有設計圖的樣子！
+Msg_KnowledgeTopic_RemainingBlueprintPartiallyComplete	目前看來似乎沒有任何\n{color[ff4d2fff]}錯過的設計圖{color[000000ff]}呢。\n得知設計圖的位置後，我會再告訴你的！
+Msg_KnowledgeTopic_RemainingBlueprintComplete	似乎已經{color[ff4d2fff]}獲得所有{color[000000ff]}設計圖了呢！\n真不愧是你，卡比！
+Msg_KnowledgeWaddleDee_AskListenMore	要繼續聆聽更多資訊嗎？
+Msg_KnowledgeWaddleDee_YourScoreNo1	\n\n{[1403]}{[1500|3a00]}{size[9600]}咦！？{size[6400]}{[0004]}我剛才告訴你的本週世界記錄……\n原來是{color[ff4d2fff]}你的記錄{color[000000ff]}啊！{[0004]}沒想到能親口傳達這個資訊給世界第一名……\n我感到非常榮幸！{[0004]}{color[ff4d2fff]}恭喜你達成\n本週的世界記錄！！{color[000000ff]}
+Msg_KnowledgeTopic_UsedAbility	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。
+Msg_KnowledgeTopic_UsedAbilityPlusStageFormer	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}前半部{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageLater	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}後半部{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageRoom	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}小房間{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageOther	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}的\n{color[ff4d2fff]}{[030f]}{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusMetaKnight	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎可以透過{color[ff4d2fff]}競技場報酬{color[000000ff]}來獲得！
+Msg_KnowledgeTopic_UsedAbilityPlusMorphoKnight	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就在{color[ff4d2fff]}被遺忘的‧陸地{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusDedede	現在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n這是全世界最受歡迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的設計圖\n似乎就在{color[ff4d2fff]}小鎮裡的帝帝帝大王{color[000000ff]}手上喔！
+Msg_KnowledgeTopic_DefeatBossTime	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快擊破時間是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}打倒的喔。
+Msg_KnowledgeTopic_DefeatBossTime_Strengthened	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快擊破時間是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}打倒的喔。
+Msg_KnowledgeTopic_DefeatBossTime_MaxStrengthened	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快擊破時間是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}打倒的喔。
+Msg_KnowledgeTopic_DefeatBossTimeUnknown	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快擊破時間是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用你還未見識過的複製能力打倒的喔。
+Msg_KnowledgeTopic_PopularFoodShopItem	在瓦豆魯迪咖啡店中\n最受歡迎的餐點是{color[ff4d2fff]}{[0315]}{color[000000ff]}！\n至今為止已經獲得了{color[ff4d2fff]}{[0301|0000]}次{color[000000ff]}點餐。
+Msg_KnowledgeTopic_CafeMenuSalesCount	{[0315]}很好吃對吧！\n至今為止似乎已經被吃掉{color[ff4d2fff]}{[0301|0000]}份{color[000000ff]}了喔！
+Msg_KnowledgeTopic_LastPlayedSubgameCarRace	{color[ff4d2fff]}{[030f]}{color[000000ff]}最終賽道\n本週的世界記錄是{color[ff4d2fff]}{[0305]}{color[000000ff]}喔！
+Msg_KnowledgeTopic_LastPlayedSubgameMgameFood	{[0319]}\n本週的世界記錄是{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}！\n似乎完成了多達{color[ff4d2fff]}{[0301|0100]}人{color[000000ff]}的點餐喔。
+Msg_KnowledgeTopic_LastPlayedSubgameMgameFish	{color[ff4d2fff]}緊張刺激！剎那間的釣魚池\n{color[000000ff]}本週的世界記錄是{color[ff4d2fff]}{[0301|0000]}g{color[000000ff]}！
+Msg_KnowledgeTopic_LastPlayedSubgameMgameBall	{color[ff4d2fff]}滾啊滾啊！滾球卡比{[031a]}{color[000000ff]}\n本週的全世界最佳過關時間是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n一人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem_Strengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n一人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem_MaxStrengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n一人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItemUnknown	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n一人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用未知的複製能力達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n兩人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem_Strengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n兩人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem_MaxStrengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n兩人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}達成的記錄。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItemUnknown	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n兩人挑戰{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界記錄……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}喔！\n似乎是使用未知的複製能力達成的記錄。
+Msg_KnowledgeTopic_CoinStarCount	目前為止所獲得的{[0100|8000]}{color[ff4d2fff]}硬幣星{color[000000ff]}，\n一共是{[0100|8000]}{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}！{[0004]}全世界所收集到的數量總計為\n{color[ff4d2fff]}{[0301|0100]}枚{[0100|8000]}{color[000000ff]}喔！
+Msg_KnowledgeTopic_CoinStarCountLocal	目前為止所獲得的{[0100|8000]}{color[ff4d2fff]}硬幣星{color[000000ff]}，\n一共是{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}{[0100|8000]}！
+Msg_KnowledgeTopic_RescuedWaddleDeeCount	目前為止所{color[ff4d2fff]}拯救的瓦豆魯迪{color[000000ff]}一共是{color[ff4d2fff]}{[0301|0000]}人{color[000000ff]}！\n全世界總計拯救了{color[ff4d2fff]}{[0301|0100]}人{color[000000ff]}。
+Msg_KnowledgeTopic_RescuedWaddleDeeCountLocal	目前為止所{color[ff4d2fff]}拯救的瓦豆魯迪{color[000000ff]}一共是{color[ff4d2fff]}{[0301|0000]}人{color[000000ff]}！
+Msg_KnowledgeTopic_DefeatedEnemyCount	目前為止已經教訓過{color[ff4d2fff]}{[0301|0000]}隻加魯魯菲{color[000000ff]}！\n全世界教訓過的數量總計為{color[ff4d2fff]}{[0301|0100]}隻{color[000000ff]}喔。
+Msg_KnowledgeTopic_DefeatedEnemyCountLocal	原來如此，原來是這樣！\n目前為止似乎已經教訓過\n{color[ff4d2fff]}{[0301|0000]}隻加魯魯菲{color[000000ff]}了喔。
+Msg_KnowledgeTopic_PoppedFlowerCount	目前為止已經在冒險中\n使{color[ff4d2fff]}{[0301|0000]}朵波普之花{color[000000ff]}盛開了喔！\n全世界似乎盛開了總計{color[ff4d2fff]}{[0301|0100]}朵{color[000000ff]}。
+Msg_KnowledgeTopic_PoppedFlowerCountLocal	目前為止似乎已經在冒險中\n使{color[ff4d2fff]}{[0301|0000]}朵波普之花{color[000000ff]}盛開了喔！
+Msg_KnowledgeTopic_InhaledObjectCount	目前為止已經在冒險中\n{color[ff4d2fff]}吸入了{[0301|0000]}次物品{color[000000ff]}！\n全世界的旅行者似乎總計吸入了{color[ff4d2fff]}{[0301|0100]}次{color[000000ff]}。
+Msg_KnowledgeTopic_InhaledObjectCountLocal	卡比，你目前為止似乎已經\n{color[ff4d2fff]}吸入{[0301|0000]}次物品{color[000000ff]}了喔！
+Msg_KnowledgeTopic_TipsGuard	只要按下{color[ff4d2fff]}{[0409|6000]}或{[040a|6100]}{color[000000ff]}，\n就能透過防禦減少敵人造成的傷害！
+Msg_KnowledgeTopic_TipsSliding	只要朝小鎮上的瓦豆魯迪\n按下{color[ff4d2fff]}{[041d|a400]}或{[041c|a300]}{color[000000ff]}來打招呼，\n他們似乎也會有所回應喔！
+Msg_KnowledgeTopic_TipsDodge	只要在難易度設定中將模式調整為{color[ff4d2fff]}春風模式{color[000000ff]}，\n卡比的體力就會增加，\n寶藏之路的剩餘時間也會更多喔！
+Msg_KnowledgeTopic_TipsPose	只要在難易度設定中將模式調整為{color[ff4d2fff]}狂野模式{color[000000ff]}，\n關卡內的敵人就會增加，也更能享受動作遊戲樂趣，\n在過關獎勵中還可獲得{[0100|8000]}硬幣星喔！
+Msg_KnowledgeTopic_TipsZoom	{color[ff4d2fff]}長按{[0420|f300]}{color[000000ff]}就能\n稍微縮放畫面喔！
+Msg_KnowledgeWaddleDee_Bye	如果之後還想再聽我說各種資訊，\n歡迎隨時來找我唷！
+Msg_KnowledgeWaddleDee_ByeNoConnectSetting	只要{color[ff4d2fff]}連接網路{color[000000ff]}，我能告訴你的資訊也會增加喔！\n下次再來聽我說說吧！
+Msg_KnowledgeWaddleDee_GiveFigure	{[1401]}卡比，\n{[1801]}你真的是{[1802]}很喜歡搜集資訊呢！{[0004]}這個{color[ff4d2fff]}特別的模型{color[000000ff]}就送給\n求知慾旺盛的你了！\n請收下吧！
+Msg_ArenaClerk_WelcomeFirst_01	歡迎～！歡迎～！\n這裡是{color[ff4d2fff]}競技場{color[000000ff]}的{color[ff4d2fff]}接待處{color[000000ff]}！
+Msg_ArenaClerk_WelcomeFirst_02	你可以在這裡和各個不斷來襲的魔王展開\n令人熱血沸騰的戰鬥，{color[ff4d2fff]}享受戰鬥的樂趣{color[000000ff]}！{[0004]}只要能一路成功連勝到最後，\n就能獲得豪華的{color[ff4d2fff]}報酬{color[000000ff]}喔～！
+Msg_ArenaClerk_WelcomeFirst_03	沒想到居然連{color[ff4d2fff]}魅塔騎士{color[000000ff]}\n也悄悄來到這個世界了！{[0004]}據說他會為了修練\n而來參加這場大會！（心跳加速……）
+Msg_ArenaClerk_WelcomeFirst_04	來來來！\n要不要馬上參加大會試試呢？
+Msg_ArenaClerk_Welcome	歡迎來到競技場～！\n來，大會請由此參加！
+Msg_ArenaClerk_GoodbyEntry	如果之後還想來參加，\n就麻煩你從這邊的接待處參加囉！
+Msg_ArenaClerk_Entered	已參加{color[ff4d2fff]}{[0312]}{color[000000ff]}。\n期待能看到令人熱血沸騰的戰鬥～！
+Msg_ArenaClerk_FirstEntered	{color[ff4d2fff]}入場大門{color[000000ff]}在那邊。\n完成應戰準備後，請從那裡進場！
+Msg_ArenaClerk_CheckEntryDissolve	哎呀，要取消參加大會嗎？
+Msg_ArenaClerk_KeepEntry	{[1400]}完成應戰準備後，\n請從{color[ff4d2fff]}入場大門{color[000000ff]}那裡進場！
+Msg_ArenaClerk_DissolvedEntry	已取消參加。\n歡迎下次再來～！
+Msg_ArenaClerk_DissolvedAndCheckEntry	已取消參加。\n要參加其他大會嗎～？
+Msg_ArenaClerk_EnteredBossBattleExtraFirst	{[1403]}{[1801]}看來卡比選手……{[1802]}\n決定要參加{color[ff4d2fff]}{[0312]}{color[000000ff]}了呢……{[0004]}{color[ff4d2fff]}The 終極盃Z{color[000000ff]}將會在不同於\n這裡的另一個空間舉行，\n卡比選手也將和非常厲害的對手們戰鬥……！{[0004]}雖然我沒辦法前往那個空間\n進行實況播報……{[0004]}但我相信拯救了這個世界的卡比選手，\n最後一定能大獲全勝的！！
+Msg_ArenaClerk_EnteredBossBattleExtra	卡比選手參加了{color[ff4d2fff]}{[0312]}{color[000000ff]}。\n{[1402]}戰鬥將會在十分危險的地方展開……{[0004]}由於是在不同於這裡的另一個空間戰鬥，\n所以我無法為卡比選手的英姿進行實況播報……{[0004]}不過我會在休息室幫忙加油的！\n祝卡比選手旗開得勝！
+Msg_ArenaClerk_GetReward	卡比，恭喜你！\n這是本次的{color[ff4d2fff]}報酬{color[000000ff]}！
+Msg_ArenaClerk_GetRewardPrev	{[1801]}卡比！{[1802]}\n你還沒領取上次的{color[ff4d2fff]}報酬{color[000000ff]}喔～\n來，請收下！
+Msg_ArenaClerk_GetFigure	{[1800]}{[1401]}卡比選手，你終於成功了！\n你獲得所有大賽的優勝了喔～！{[0004]}{[1400]}為此我準備了禮物要送給……\n如此出色又無敵的卡比選手！{[0004]}請收下這個{color[ff4d2fff]}特別的禮物{color[000000ff]}～！\n也希望你會喜歡。
+Msg_PharmacyClerk_WelcomeFirst_00	這裡是{color[ff4d2fff]}瓦豆魯迪道具店{color[000000ff]}，\n你可以買到各種為冒險提供支援的道具！{[0004]}本店甚至還有販賣{color[ff4d2fff]}能夠暫時提升{color[000000ff]}\n卡比{color[ff4d2fff]}威力的道具{color[000000ff]}。\n
+Msg_PharmacyClerk_WelcomeFirst_01	同一種威力提升道具可以{color[ff4d2fff]}疊加使用{color[000000ff]}，\n而且不同種類的威力提升道具\n也可以{color[ff4d2fff]}同時使用{color[000000ff]}喔。{[0004]}但是請注意一次所能持有的\n道具數量{color[ff4d2fff]}最多只有1個{color[000000ff]}。\n
+Msg_PharmacyClerk_WelcomeFirst_02	卡比！\n要不要現在就來買點什麼呢？
+Msg_PharmacyClerk_Welcome	歡迎光臨！\n這裡是為冒險提供支援的瓦豆魯迪道具店！
+Msg_PharmacyClerk_AskBuying	{color[ff4d2fff]}{[0316]}{color[000000ff]}的價格是{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}枚{[0100|8000]}。
+Msg_PharmacyClerk_Thanks	之後如果需要支援，\n也歡迎隨時再度光臨！
+Msg_PharmacyClerk_PointStarShortage	不好意思……\n你的{[0100|8000]}硬幣星{color[ff4d2fff]}似乎不夠{color[000000ff]}呢。
+Msg_PharmacyClerk_ThanksTakeOut	謝謝惠顧！\n只要{color[ff4d2fff]}長按{[0702|0200]}{color[000000ff]}，\n隨時都能使用庫存的威力提升道具喔！
+Msg_PharmacyClerk_GiveFigure	{[1800]}卡比！可以打擾你一下嗎？{[0004]}{[1400]}其實我們為了常來光顧的卡比\n準備了一個{color[ff4d2fff]}特別的模型{color[000000ff]}！\n不嫌棄的話，請收下這個！！
+Msg_MgameBallClerk_FirstDemo1	{[1800]}來來來，這裡可以遊玩有趣的新遊戲——\n{color[ff4d2fff]}滾啊滾啊！滾球卡比{color[000000ff]}喔～！{[0004]}卡比，如果有時間的話，\n你也來玩玩看再走吧～！
+Msg_MgameBallClerk_FirstDemo2	請先站在滾球卡比前，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}來玩玩看吧！
+Msg_MgameBallClerk_HowToPlay	只要到想挑戰的滾球卡比的前面按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}\n就可以開始玩囉！
+Msg_MgameBallClerk_Tips	遊玩時的重點在於\n一開始先按下{color[ff4d2fff]}{[0403|0300]}重置傾斜度{color[000000ff]}，\n修正滾球卡比的傾斜度之後再開始玩！
+Msg_MgameBallClerk_ModeIntroduction	{[1401]}你注意到了嗎？\n其實滾球上畫著\n卡比的臉喔！
+Msg_MgameBallClerk_StageUnlock	{[1401]}卡比，你玩得真好！\n我已經準備好{color[ff4d2fff]}新的難易度{color[000000ff]}了。\n請一定要來玩玩看喔～！
+Msg_MgameBallClerk_ModeUnlock_00	{[1403]}真不愧是卡比！\n居然{color[ff4d2fff]}過關{color[000000ff]}了{color[ff4d2fff]}所有難易度{color[000000ff]}！{[0004]}既然卡比這麼厲害，\n我也要特別對你發出{[1801]}{color[ff4d2fff]}挑戰書{color[000000ff]}{[1802]}了！
+Msg_MgameBallClerk_ModeUnlock_01	我製作了更～加困難的\n{color[ff4d2fff]}激難{color[000000ff]}滾球卡比！{[0004]}只要按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看滾球卡比就能遊玩激難模式，\n請一定要來玩玩看。{[0004]}也可以在選單畫面中按下{color[ff4d2fff]}{[0402|0200]}{color[000000ff]}，\n切換為目前其他難度較低的模式\n進行遊玩喔！
+Msg_MgameBallClerk_ModeUnlock_02	{[1401]}除此之外！\n我還有獎品想送給\n努力不懈的卡比！{[0004]}作為可以遊玩新的激難模式的紀念，\n這個{color[ff4d2fff]}特別的模型{color[000000ff]}就送給你了！\n請收下吧！
+Msg_MgameBallClerk_GiveFigure	{[1403]}怎麼可能！？\n你竟然{color[ff4d2fff]}過關{color[000000ff]}了{color[ff4d2fff]}所有激難關卡{color[000000ff]}……{[0004]}{[1800]}{[1401]}真是太令人佩服了！！\n看來對於有實力在世界各地冒險的卡比來說，\n這點難度或許太簡單了也說不定。{[0004]}那麼這個{[0101|8100]}{color[ff4d2fff]}稀有石{color[000000ff]}就送給你，\n當作是成功過關所有\n激難關卡的獎品吧！
+Msg_BossLion_DemoAppear_00	{[1a00|03cd]}{[1400]}很美麗吧……\n粉紅色的不速之客。
+Msg_BossLion_DemoAppear_01	{[1400]}不過，\n這位大人目前的狀態還不完整……\n因為他失去了{color[ff4d2fff]}另一半的自己{color[000000ff]}。{[0004]}{[1400]}過去居住在這片土地上的眾人\n曾獲得這位大人賜予的{color[ff4d2fff]}奇蹟之力{color[000000ff]}……{[0004]}{[1400]}並使用那種力量飛往了\n遙遠的夢之大地。
+Msg_BossLion_DemoAppear_02	{[1400]}如果這位大人可以\n恢復他完整的姿態……{[0004]}{[1400]}被遺留在這{color[ff4d2fff]}被遺忘的陸地{color[000000ff]}的我們\n應該也能被授予奇蹟之力吧。{[0004]}{[1400]}現在……\n這個時刻終於到來了！
+Msg_BossLion_DemoAppear_03	{[1a02|03cd]}沒錯，這個小傢伙……\n就是這位大人遺失的另一半！{[0004]}這下子……\n這位大人終於能恢復成{color[ff4d2fff]}完整的姿態{color[000000ff]}了。
+Msg_BossLion_DemoAppear_04	{[1a00|04cd]}若想妨礙我完成長久以來的宿願，\n那麼現在就在此……
+Msg_BossLion_DemoAppear_05	{[1a03|00cd]}\n\n{[1801]}{color[ff4d2fff]}{size[b400]}{[1500|3000]}成為野獸們的食糧吧！！{size[6400]}{color[000000ff]}{[1802]}
+Msg_BossChimera_DemoAppear_00	可惡……\n那到底……是什麼……？
+Msg_BossChimera_DemoAppear_01	雖然我從無數的空間中\n將派得上用場的東西都拉來這裡了……\n但沒想到還混進了這種礙事的傢伙……{[0004]}{[1404]}哼，也罷……\n如今……我也懶得思考對策了……
+Msg_BossChimera_DemoAppear_02	\n\n{size[8200]}{[1500|3a00]}將一切都吞噬殆盡吧……！{size[6400]}
+Msg_BossChimeraPerfect_DemoDisappear_00	{[1902|01cd]}那股力量太驚人了！\n他怎麼還會有這麼龐大的力量……？
+Msg_BossChimeraPerfect_DemoDisappear_01	卡比，怎麼了嗎！？
+Msg_BossChimeraPerfect_DemoDisappear_02	什麼！？你說……{[0004]}那就是卡比你們的星球──{color[ff4d2fff]}波普之星{color[000000ff]}嗎！？
+Msg_BossChimeraPerfect_DemoDisappear_03	沒想到……\n他居然把波普之星都吸過來了，\n難道他想讓波普之星{color[ff4d2fff]}撞上{color[000000ff]}這個世界嗎！？
+Msg_BossChimeraPerfect_DemoDisappear_04	{[1907|01cd]}得趕快阻止這一切才行！\n可是、可是……要怎麼做才能……？
+Msg_TownStreetLiveGiveFigure	{[1401]}{[1901|03cd]}太好了，卡比！\n豆魯迪士的團員為了感謝你一直以來的支持，\n送了{color[ff4d2fff]}特別的模型{color[000000ff]}給你喔！
+Msg_VassalWaddleDee_GetBlueprint_00	{[1401]}好久不見了，卡比！\n謝謝你之前拯救了\n帝帝帝大王陛下。{[0004]}{[1404]}現在大王陛下已經完全恢復，\n似乎非常中意這座小鎮，\n正和大家一起享受著這裡的生活！
+Msg_VassalWaddleDee_GetBlueprint_01	{[1800]}其實，{[1401]}{color[ff4d2fff]}大王{color[000000ff]}為了感謝你關照我們瓦豆魯迪，\n還交給我們一張{color[ff4d2fff]}設計圖{color[000000ff]}，\n要我們先替你保管！{[0004]}請收下吧！
+Msg_VassalWaddleDee_Talk1	在逃進那座電梯時，\n大王陛下為了保護跌倒的我，\n將我扔進了電梯，當時那英姿……！{[0004]}{[1401]}實在是太令人著迷了！\n雖然陛下平時有些反覆無常，\n看起來很散漫的樣子……{[0004]}不過在關鍵時刻還是很可靠的！\n今後我也會盡力服侍大王陛下！
+Msg_VassalWaddleDee_Talk2	不論是大王陛下還是我們\n都相當喜歡這座小鎮的生活，\n我們還會在這裡休息一陣子的。
+Msg_VassalWaddleDee_Talk3	雖然大王陛下現在看起來\n和平常一樣悠哉……{[0004]}{[1402]}其實內心似乎對卡比幫助我們時，\n自己反倒被控制而大鬧了一番\n這件事相當在意呢。{[0004]}{size[4b00]}（放低音量……）\n所以請暫時讓陛下一個人靜一靜吧。\n{size[6400]}
+Msg_MerchantWaddleDee_WelcomeFirst	你好啊，卡比！\n你正在收集扭蛋機的模型對吧？
+Msg_MerchantWaddleDee_Welcome	我剛才去玩了扭蛋機，\n結果得到了卡比還沒有的模型喔！
+Msg_MerchantWaddleDee_AskExchange	卡比，如果你願意的話，要不要\n用你身上的{color[ff4d2fff]}1個{[0101|8100]}{color[000000ff]}來{color[ff4d2fff]}兌換{color[000000ff]}我的模型呢？
+Msg_MerchantWaddleDee_WelcomeTradeAllGet	沒想到你竟然已經收集到所有\n可兌換的模型了……真不愧是卡比！
+Msg_MerchantWaddleDee_WelcomeComplete	沒想到你竟然已經完成\n所有模型的收藏了……真不愧是卡比！
+Msg_MerchantWaddleDee_AskExchangeComplete	卡比，就算是這樣，你還是想要\n用你身上的{color[ff4d2fff]}1個{[0101|8100]}{color[000000ff]}來{color[ff4d2fff]}兌換{color[000000ff]}我的模型嗎？
+Msg_MerchantWaddleDee_EndTrade	如果你有多的{[0101|8100]}稀有石，\n之後也還想要模型……{[0004]}歡迎你隨時來找我兌換喔！
+Msg_MerchantWaddleDee_RarePieseShortage	咦？你的{[0101|8100]}稀有石{color[ff4d2fff]}似乎不夠{color[000000ff]}呢……
+Msg_MerchantWaddleDee_CancelTrade	如果你之後還想要模型，\n就來找我兌換吧！！
+Msg_TownSupportChara_UnlockEstory1	{[1907|01cd]}啊，卡洛凌又來到小鎮了呢！\n是不是發生什麼事了？
+Msg_TownSupportChara_UnlockEstory2	{[1905|05cd]}對了對了，卡比，你知道嗎？{[0004]}世界恢復和平後，\n我們和動物們聚在一起時，\n獅王加爾夫不是也不在嗎？{[0004]}卡洛凌似乎從那之後\n就一直在四處尋找他呢。{[0004]}也許她找到了什麼線索也說不定喔？\n我們去了解一下吧！
+Msg_TownSupportTalk_Estory_00	{[1904|03cd]}在關閉波普之星與這個世界的連結時，\n我因為用盡全力而累倒了。{[0004]}那時候找到我、照顧我的\n就是卡洛凌喔。{[0004]}{[1900|00cd]}多虧有她的幫忙，我才能再見到卡比！\n所以，如果她有什麼困擾，\n我也想盡力幫助她……！
+Msg_TownSupportChara_DemoEstoryFirst	{[1908|00cd]}這個……\n難道是神秘漩渦！？{[0004]}咦？你說從這裡傳來了\n獅王加爾夫的氣息……！？
+Msg_EstoryWmapSupportChara_DemoFirst_00	{[1906|02cd]}這裡是……{[0004]}{[1908|00cd]}這種感覺……！\n就跟我被{color[ff4d2fff]}菲克特‧艾菲里斯{color[000000ff]}吸收時\n看到的世界一模一樣！{[0004]}說不定在那場戰鬥結束之後，\n獅王加爾夫就{color[ff4d2fff]}被困在這個世界了{color[000000ff]}……{[0004]}{[1901|00cd]}卡比，\n我們一起來調查看看吧！
+Msg_TownSupport_TalkLeopardFirst_00	{[1903|00cd]}卡洛凌，抱歉讓你擔心了。{[0004]}那個空間是由相當強烈的思想構成的，\n是個非常不可思議的空間……{[0004]}{[1901|00cd]}跟我被菲克特‧艾菲里斯吸收時\n所看到的世界一模一樣。
+Msg_TownSupport_TalkLeopardFirst_01	說不定獅王加爾夫\n也在那個空間裡的某個地方！{[0004]}{[1900|00cd]}我和卡比會努力幫忙，一定會找到他的，\n請你再等一下就好！{[1400]}
+Msg_TownSupport_TalkLeopardBeforeClear	{[1901|01cd]}沒事的！\n我們一定會找到獅王加爾夫。{[0004]}{[1907|00cd]}他回來以後，\n一定會再度變回動物們的可靠領袖！\n請再等一下吧！{[1400]}
+Msg_TownSupport_TalkLeopardAfterClear_00	{[1900|00cd]}可以跟獅王加爾夫再會，\n實在是太好了！{[0004]}在我關閉世界的連結，\n耗盡所有力量的時候……
+Msg_TownSupport_TalkLeopardAfterClear_01	多虧卡洛凌幫助了累倒的我，\n我才能像現在這樣\n再次陪在卡比身邊！{[0004]}{[1907|01cd]}真的很感謝你當時幫助了我！\n今後也請多多關照囉！{[1400]}
+Msg_TownSupportTalk_CentralSquare_00	{[1402]}{[1902|00cd]}當大家都被抓走，\n只剩下我一個人的時候，\n我還以為一切都沒希望了……{[0004]}但是多虧了卡比的努力，\n才能讓這麼多瓦豆魯迪回到這裡。{[0004]}{[1401]}{[1900|02cd]}卡比，\n真的非常謝謝你！
+Msg_TownSupportTalk_Common3_00	{[1402]}{[1904|03cd]}野獸軍團抓走瓦豆魯迪們\n到底想要做什麼呢……？{[0004]}我第一次遇到瓦豆魯迪們的時候，\n野獸軍團也正在追捕他們。{[0004]}他們才因此選擇遠離地盤，\n來到遙遠的這裡建造小鎮生活，\n不過還是馬上就被找到了……{[0004]}所以卡比來到這裡，\n真的幫了我們很大的忙～！
+Msg_TownSupportTalk_Common3_01	{[1905|05cd]}瓦豆魯迪們真的\n都很心靈手巧呢！\n這樣一座小鎮居然沒多久就蓋好了。
+Msg_TownSupportTalk_Common3_02	{[1904|04cd]}卡比，我聽瓦豆魯迪們說，\n你和他們都是從同一個地方來的，對吧？\n那你和瓦豆魯迪間是什麼關係呢？{[0004]}{[1403]}{[1908|00cd]}…………{[0004]}咦～{[0004]}{[1404]}哈哈哈……\n這還真是令人意外耶……{[0004]}不過，感覺你們之間的關係很有趣呢！
+Msg_TownSupportTalk_PresentCode1_00	{[1905|02cd]}卡比，這裡也寫著禮物關鍵詞喔。\n{color[ff4d2fff]}『{[031f]}』\n{color[000000ff]}是不是瓦豆魯迪們想要表達感謝的心意呢？
+Msg_TownSupportTalk_PresentCode2_00	{[1905|00cd]}宣傳手冊上好像寫著什麼耶。\n{color[ff4d2fff]}『{[031f]}』{color[000000ff]}\n看來這是隱藏的禮物關鍵詞呢。
+Msg_TownSupportTalk_PresentCode3_00	{[1905|01cd]}牆壁上好像寫著什麼耶。\n我看看……上面寫著{color[ff4d2fff]}『{[031f]}』{color[000000ff]}！\n看來這是隱藏的禮物關鍵詞呢。
+Msg_TownSupportTalk_PresentCode4_00	{[1905|03cd]}這裡好像寫著什麼耶。\n{color[ff4d2fff]}『{[031f]}』{color[000000ff]}\n看來這是隱藏的禮物關鍵詞呢。
+Msg_TownSupportTalk_PresentCode5_00	{[1905|04cd]}這個地方好像寫著什麼耶。\n{color[ff4d2fff]}『{[031f]}』{color[000000ff]}\n看來這是隱藏的禮物關鍵詞呢。
+Msg_TownSupportTalk_PresentCode6_00	{[1905|05cd]}你知道長期遭到襲擊的小鎮\n為什麼能夠重獲和平嗎？{[0004]}當然有一部份是因為\n卡比來到這裡幫助了我們……{[0004]}不過我聽瓦豆魯迪們說，\n這其實是因為魅塔騎士\n一直在保護著小鎮喔！{[0004]}他現在也依然在那個地方\n守護著小鎮呢～！{[0004]}{[1401]}{[1900|00cd]}魅塔騎士又酷又強大，\n真的很帥氣對吧！
+Msg_TownSupportTalk_PresentCode6_01	{[1905|01cd]}這裡的牆壁上好像寫著什麼耶。\n{color[ff4d2fff]}『{[031f]}』{color[000000ff]}\n看來這是隱藏的禮物關鍵詞呢。
+Msg_TownSupportTalk_Common2_00	{[1905|05cd]}卡比，你知道嗎？\n只要達成不得了的事蹟，裝飾在房間牆壁上\n作為紀念的{color[ff4d2fff]}特別的照片{color[000000ff]}就會增加喔。
+Msg_TownSupportTalk_Common2_01	{[1909|02cd]}我跟你說，卡比。\n那是動物們一起來玩的時候\n所拍攝的照片喔！{[0004]}今後我們也多多創造難忘的回憶，\n讓房間的牆壁上裝飾著滿滿的照片吧！
+Msg_TownSupportTalk_Common2_02	{[1402]}{[1902|00cd]}聽到獅王加爾夫失蹤的時候，\n我還想說該怎麼辦才好呢……{[0004]}能夠將他平安無事地救出來，\n真是太好了對吧？卡比！{[0004]}{[1401]}{[1900|02cd]}希望今後也能和大家一起\n創造更多難忘的回憶！
+Msg_TownSupportTalk_Common2_03	{[1907|01cd]}如果想將模型裝飾在卡比小屋，\n只要先按下{color[ff4d2fff]}{[0412|9500]}{color[000000ff]}打開收藏，{[0004]}接著選擇喜歡的模型，\n再按下{color[ff4d2fff]}{[0411|9400]}{color[000000ff]}就能進行擺放囉！
+Msg_TownSupportTalk_Common2_04	{[1900|02cd]}卡比，只要在床上午睡，\n體力就會回復喔。
+Msg_TownSupportTalk_Common2_05_01	{[1401]}{[1900|03cd]}卡比，謝謝你常常來找我說話。\n我很開心喔！ {[0004]}那我們就來聊聊\n卡比來到這個世界前的事吧？{[0004]}以前這個世界的動物們\n就跟現在一樣相處得很好！{[0004]}雖然有時候也會吵架，\n發生各式各樣的事情就是了……
+Msg_TownSupportTalk_Common2_05_02	以前大家都會互相分享食物，\n為了度過每一天而努力。 {[0004]}然而，獅王加爾夫卻在某一天\n突然變成了可怕的領袖……{[0004]}從那之後，\n大家也都變得非常凶暴。 {[0004]}我因為覺得害怕，\n所以躲了很長一段時間……\n也是這時候才陸續有瓦豆魯迪迷路到這個世界。
+Msg_TownSupportTalk_Common2_05_03	跟正感到煩惱的瓦豆魯迪商量過後，\n我們就開始在安全的草原上建造小鎮了。{[0004]}可是，就在我們最初建造的那座小鎮\n逐漸有模有樣的時候，那些變成凶暴\n野獸軍團的動物們卻開始襲擊小鎮！{[0004]}雖然大家一起努力反抗過，\n但小鎮最後還是遭到了破壞，大家也被擄走了……{[0004]}也是在這個時候……\n卡比你來到了這裡！
+Msg_TownSupportTalk_Common2_05_04	謝謝你那時候出手相救！\n能夠遇見你，我真的覺得非常開心喔。 {[0004]}真希望能夠跟你一起\n再次前往新世界冒險呢！{[0004]}殘留在我身上的跨越空間之力\n雖然已經所剩無幾了，\n但還是隨時都能回到波普之星的！{[0004]}所以說……\n{[1401]}{[1907|01cd]}今後也請多多關照囉！星之卡比！
+Msg_TownSupportTalk_StreetLive_00	{[1401]}{[1907|03cd]}是街角演奏耶，好棒喔！\n聽說這個樂團的名字叫做{color[ff4d2fff]}豆魯迪士{color[000000ff]}～{[0004]}如果在那個{color[ff4d2fff]}吉他盒{color[000000ff]}裡{color[ff4d2fff]}放入{[0100|8000]}硬幣星{color[000000ff]}的話，\n是不是就能聽到更多不同的樂曲了呢？
+MgameBall.msbt
+$Difficulty	難易度
+$HardMode	激難
+$BestTime	最佳過關時間
+$RewardIndex	獎勵
+RewardTitle_Clear	難易度{[031b]}過關
+RewardTitle_Time	{[0304]}\n之內過關
+ModeChangeBtn_ToNormal	更改為普通
+ModeChangeBtn_ToHard	更改為激難
+$GyroReset	重置傾斜度
+StartBtnText	消耗{[0100|8000]}{[0301|0000]}進行遊玩
+$MgameBallClear	過關
+$NewRecord	新記錄！
+MgameFish.msbt
+HowToGuide_Fish	釣魚
+$NewRecord	新記錄！
+Result_Weight	{[0301|0000]}g
+ScoreBoard_Date	{[0302|0000]}/{[0302|0100]}/{[0302|0200]}
+ScoreBoard_Date_None	----/--/--
+ScoreBoard_Weight_None	-----
+$G	g
+ScoreBoard_Time_None	--.--
+$Sec	秒
+$1st	1
+$MgameFishScoreBoard2nd	2
+$MgameFishScoreBoard3rd	3
+MgameFood.msbt
+RecruitTitle	工作！\n瓦豆魯迪咖啡店
+$MgameMenuBtnSolo	一人
+$MgameMenuBtnMulti	兩人
+$MgameMenuBtnJob	打工
+$LevelSelectTitle	忙碌度
+$MgameMenuBtnEasy	簡單
+$MgameMenuBtnNormal	忙碌
+$MgameMenuBtnHard	極限
+$MgameMenuBtnJobLevel	打工
+DifficultyDetail_Easy	首先是{color[ff4d2fff]}練習{color[000000ff]}！\n請先記住打工的方式吧。
+DifficultyDetail_Normal	{color[ff4d2fff]}忙碌度提升！{color[000000ff]}\n接下接踵而來的訂單吧。
+DifficultyDetail_Hard	{color[ff4d2fff]}忙碌度已經來到極限了！{color[000000ff]}\n迎接恐怖的……午餐時間吧！
+DifficultyDetail_Lock	目前還無法遊玩。\n必須先通過{color[ff4d2fff]}「簡單打工」{color[000000ff]}\n才能夠遊玩此難易度。
+$MgameFoodSignGoText	GO!
+$MgameFoodSignText	READY
+$Mgame1Player	1P
+$Mgame2Player	2P
+$MgameFoodLunchTimeText	進入午餐時間！
+$MgameFoodFinishText	FINISH!
+PauseBtn_Continue	繼續遊戲
+PauseBtn_Retry	重試
+PauseBtn_GiveUp	放棄
+$PauseTopCloseInfoText	關閉
+GameClear_Title	{[0318]} 過關！
+$MgameFoodWin	WIN
+$MgameFoodHighScoreTitle	最高分數
+BaseScoreText	總計 {[0301|0000]}人
+$MgameFoodBonusTitle	額外獎勵
+$MgameFoodBonusPointPlus	+
+BonusName_NoMiss	點餐無失誤
+BonusName_Continuous	連續點餐正確　{[0301|0000]}人
+BonusName_AngryGauge	客人滿意度 {[0301|0000]}％
+$MgameFoodNewRecord	新記錄！
+GameOver_Title	{[0318]}\n失敗……
+PauseBtn_LevelSelect	選擇難易度
+PauseBtn_PlayAgain	再試一次
+PauseBtn_End	結束打工
 Mission.msbt
+Time_MinutesSec	{[0301|0000]}:{[0302|0000]}
 Progress_Count	（{[0301|0000]}/{[0301|0100]}）
+Progress_LimitedTime	（剩下{[0303]}）
 Title_Secret	？？？
 Title_StageClear	通過關卡
 Title_RescueWaddleDee	拯救瓦豆魯迪
-Title_CollidedPopFlowerTulip	使{[0301|0000]}朵鬱金香盛開{[030c]}
+Title_CollidedPopFlowerTulip	使{[0301|0000]}朵鬱金香盛開{[031c]}
 Title_BreakShutter	破壞建築的鐵捲門
 Title_FoundBalcony	乘著水柱登上建築高處的露臺
+Title_FoundSingleSecretRoom	發現隱藏房間
+Title_LanternSwitch	點亮{[0301|0000]}個提燈開關{[031c]}
+Title_TakeOffSingleWantedNotice	撕下通緝令
+Title_FoundHiddenPath	發現上坡旁的岔路
+Title_StandStump	在{[0301|0000]}個樹樁上小憩{[031c]}
+Title_DriveWithoutFallingCar	安全行駛並未從懸崖上墜落
+Title_GetDonut	吃下{[0301|0000]}個甜甜圈{[031c]}
+Title_GetCandy	吃下彩虹棒棒糖獲得無敵狀態
+Title_NotLostMaze	離開購物中心並從未迷路
+Title_GoThroughBossGorillaInseam	穿過猩猛霸的雙腳間
+Title_EvadeBossGorillaCatch	使用{[030a]}打倒魔王
+Title_DefeatBoss1LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss1NoDamage	以無傷狀態過關
+Title_BreakHardNuts	打開{[0301|0000]}個硬邦邦堅果{[031c]}
+Title_SandStatue	破壞動物沙像
+Title_CompleteBillboard	復原看板的文字
+Title_GreetedSeaBird	向{[0301|0000]}隻海鳥打招呼{[031c]}
+Title_DigTomato	挖掘出M番茄
+Title_TreasureIsland	登陸寶島
+Title_TakeOffWantedNotice	撕下{[0301|0000]}張通緝令{[031c]}
+Title_ClearSpikes	未碰觸到尖刺且隱藏房間過關
+Title_FrozeMboss	使用冰凍能力凍住天鵝羅利那
+Title_GetEmergencyFood	吃下{[0301|0000]}個罐頭{[031c]}
+Title_DefeatRGNoWater	在蓄水池的戰鬥中不曾落水
+Title_FoundFishesGold	發現金色的魚
+Title_BreakWhispyPalmGrowthRoot	破壞熱帶大樹的根部
+Title_DefeatBoss2CopyAbility	不使用能力並打倒魔王
+Title_DefeatBoss2LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss2NoDamage	以無傷狀態過關
+Title_SendMissingChickToMama	將入口處迷路的雛鳥帶回母鳥身邊{[031c]}
+Title_climb	火箭頂端的美景
+Title_BloomWitheredFlower	使所有枯萎的花盛開
+Title_GoalGoCartLimitedTime	在20秒內於最初的競賽抵達終點
+Title_DefeatMbossMighty	使用彩虹棒棒糖打倒狂野刃
+Title_Shortcut	破壞所有紙箱並行駛於捷徑
+Title_NotHitGhostGordo	未碰觸到幽靈黑刺球並過關
+Title_FindSweets	吃下鬼怪藏起來的{[0301|0000]}個點心{[031c]}
+Title_BreakAlien	以自動販賣機塞滿嘴破壞13塊驚嚇外星人板
+Title_SendMissingChickToMamaNight	在夜路上將迷路的雛鳥帶回母鳥身邊{[031c]}
+Title_TakeOffWantedNoticeParade	幫忙撕下艾菲靈的通緝令
+Title_WithoutMud	未踩到泥巴並過關
+Title_ShootBossOnPillar	使用探巡隊擊中柱子上的卡洛凌
+Title_DefeatBossWithoutHovering	不使用盤旋並打倒魔王
+Title_DefeatBoss3LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss3NoDamage	以無傷狀態過關
+Title_SnowStatue	破壞{[0301|0000]}個動物雪像{[031c]}
+Title_FoundBackStreat	發現小巷
+Title_TopOfTheTree	抵達鐘塔
+Title_TrainRoof	登上{[0301|0000]}輛電車車頂{[031c]}
+Title_FoundPluralSecretPath	發現{[0301|0000]}條隱藏通道{[031c]}
+Title_ExamineTheContainer	調查貨櫃中的貨物
+Title_Cave	發現能夠避風的洞穴
+Title_GetHotMeal	吃下{[0301|0000]}道船夫料理{[031c]}
+Title_Underground	跳入地底的隱藏房間
+Title_TakeOffWantedNoticeE	幫忙撕下{[0301|0000]}張通緝令{[031c]}
+Title_TwinFrostyNoDamage	以無傷狀態打倒雙重狂野冰霜
+Title_MaxTomato	繞路取得M番茄
+Title_SwallowDededeHammer	吸入帝帝帝大王的錘子
+Title_DefeatBossWithoutGuard	不進行防禦並打倒魔王
+Title_DefeatBoss4LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss4NoDamage	以無傷狀態過關
+Title_ShootTargetSwitch	瞄準並射中{[0301|0000]}個飄浮在空中的標靶{[031c]}
+Title_DefeatMbossRing	使用圈圈塞滿嘴打倒天鵝羅利那
+Title_DefeatSquishy	打倒與同伴走散的烏賊怪
+Title_SleepInSecretPool	在秘密泳池午睡
+Title_DefeatPoisonToadEnemy	使用噴水打倒{[0301|0000]}隻毒毒蛙{[031c]}
+Title_PerfectDig	在隱藏房間完美挖掘出地洞
+Title_CompareIceCream	品嚐比較過{[0301|0000]}種冰品{[031c]}
+Title_BonkersCutter	使用彎刀打倒狂野錘星猩
+Title_FitShape	在所有變形狀態下嵌進形狀相符的洞
+Title_TakeOffWantedNoticeDark	在峽谷撕下{[0301|0000]}張通緝令{[031c]}
+Title_SecretRoomClearWithoutFalling	未掉入洞中且隱藏房間過關
+Title_TreasureCactus	隱藏在仙人掌三胞胎間的財寶
+Title_DefeatBoss5CopyAbility	使用{[030a]}打倒魔王
+Title_BreakDollKirby	破壞犰魔亂舞的{[0301|0000]}隻手工製卡比{[031c]}
+Title_DefeatBoss5LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss5NoDamage	以無傷狀態過關
+Title_DefeatLookoutWildEnemy	打倒{[0301|0000]}隻把風的加魯魯菲{[031c]}
+Title_FoundSecretPath	發現秘密捷徑
+Title_VolcanoRock	用水澆滅{[0301|0000]}個火山彈{[031c]}
+Title_AnimalsFood	享用{[0301|0000]}個敵人珍藏的肉{[031c]}
+Title_TurnWindmillAll	打開所有風車開關
+Title_DefeatFrostyCrash	使用爆裂打倒狂野冰霜
+Title_NobodyControlRoom	入侵控制室
+Title_Coffee	喝下{[0301|0000]}杯咖啡提神{[031c]}
+Title_NeverPress	一次都沒被夾到
+Title_FoundVolcanoSecretPath	探索隱藏道路的更深處
+Title_DefeatBossRush2LimitedTime	在{[0303]}內打倒犰魔亂舞{[031d]}
+Title_DefeatBossRush3NoDamage	以無傷狀態打倒卡洛凌
+Title_DefeatBeast	打倒關卡開始時所有埋伏的野獸
+Title_TakeOffWantedNoticeHeadquarters	在敵人大本營撕下{[0301|0000]}張通緝令{[031c]}
+Title_NotFallTriangle	在三角錐塞滿嘴狀態下未掉入岩漿
+Title_NotFire	不曾被狂野 帝帝帝的火焰攻擊擊中
+Title_DefeatBoss6LimitedTime	在{[0303]}內打倒魔王{[031d]}
+Title_DefeatBoss6NoDamage	以無傷狀態過關
+Title_EvolveTwice	以2段以上的進化能力打倒魔王
 Pause.msbt
 $ContinueBtnText	繼續遊戲
 TwoPersonPlayBtnText	兩人遊玩
 OnePersonPlayBtnText	一人遊玩
+BackToTitleBtnText	返回標題
 $OperationSetupBtnText	操作設定
 $AmiiboBtnText	amiibo
 $DifficultyBtnText	難易度設定
+BackToTownBtnText	前往瓦豆魯迪小鎮
+RetryBtnText	重試
 ExitStageBtnText	離開關卡
+ExitArenaBtnText	離開競技場
+FileName	檔案{[0301|0000]}
+$Percent	％
+$ArenaEntryRank1stText	1
+$ArenaEntryRank2ndText	2
+$ArenaEntryRank3rdText	3
 $SlashText	/
 $ConfigTitle	操作設定
 ConfigKeyAssign_Move	移動
@@ -118,27 +1495,24 @@ $ConfigTogglePanel_OperationType	操作類型
 $ConfigTogglePanel_AutoSwallow	自動吞入
 $PauseTopCloseInfoText	關閉
 $PauseDifficultySelectTitle	難易度設定
-ProductIntroduction.msbt
-$ProductIntroductionBackBtnText	返回關卡選擇
-$ProductIntroductionToEshopBtnText	前往Nintendo eShop
-DetailTitle_Town	充滿有趣商店的小鎮
-DetailTitle_Evolution	進化的複製能力
-DetailTitle_Story	被神秘包圍的新世界
-DetailExplanation_Town	美味的咖啡店、有趣的電影院，\n{color[ff4d2fff]}拯救瓦豆魯迪{color[000000ff]}後，小鎮的設施會越來越多！\n在咖啡店的露臺可以{color[ff4d2fff]}跟艾菲靈吃飯{color[000000ff]}，\n可以成為店員進行挑戰，\n還可以遊玩{color[ff4d2fff]}小遊戲{color[000000ff]}。
-DetailExplanation_Evolution	將{color[ff4d2fff]}設計圖{color[000000ff]}交給瓦豆魯迪武器店，\n把那個{color[ff4d2fff]}複製能力{color[000000ff]}進行{color[ff4d2fff]}進化{color[000000ff]}吧！\n烈火會變成在空中飛舞的炎龍，\n炸彈會變成瞄準敵人的最新機器人。\n用{color[ff4d2fff]}新發現的能力{color[000000ff]}，來吧，前往大冒險！
-DetailExplanation_Story	被突如其來的{color[ff4d2fff]}神秘漩渦{color[000000ff]}吸入，\n回過神來，已前往充滿不可思議的{color[ff4d2fff]}新世界{color[000000ff]}！\n被綠意覆蓋的大樓以及荒廢了的可疑工廠。\n還有，一個接著一個{color[ff4d2fff]}被抓走的瓦豆魯迪們{color[000000ff]}……\n在這個世界等待著卡比的命運將是！？
-$ProductIntroductionTitle	請在《星之卡比 探索發現》正式版繼續享受樂趣！
-$ProductIntroductionLeftText	充滿有趣商店的小鎮
-$ProductIntroductionCenterText	進化的複製能力
-$ProductIntroductionRightText	被神秘包圍的新世界
 Resident.msbt
 $Saving	儲存中
+TownTitle	瓦豆魯迪小鎮
+Time_MinSec2	{[0301|0000]}:{[0302|0000]}
+Time_MinSec2Csec2	{[0301|0000]}:{[0302|0000]}.{[0302|0100]}
+Time_MinSec2Msec3	{[0301|0000]}:{[0302|0000]}.{[0302|0100]}
 Step.msbt
 $StageClearText	通過關卡！
+$EstoryStageSoulComplete	靈魂完成！
 ChargeGuide_DiscardAbility	捨棄能力
 ChargeGuide_DiscardDeform	吐出
 HowToGuide_Inhale	塞滿嘴
+HowToGuide_Open	打開
 HowToGuide_Slide	滑壘
+HowToGuide_Sleep	午睡
+HowToGuide_Look	欣賞
+HowToGuide_Watch	閱讀
+HowToGuide_FindOut	調查
 Step_GuideMovie_Discard	{[0703|0300]} 捨棄能力
 Step_GuideMovie_Inhale	{[0701|0100]} 吸入
 Step_GuideMovie_InhaleWithAbility	{[0701|0100]} 塞滿嘴
@@ -147,88 +1521,1020 @@ Step_GuideMovie_Jump	{[0700|0000]} 跳躍
 Step_GuideMovie_Hover	{[0700|0000]} 盤旋
 Step_GuideMovie_Spit	{[0701|0100]} 吐出
 Step_GuideMovie_DeformCarBoost	{[0701|0100]} 渦輪衝刺
+Step_GuideMovie_DeformLightbulbTurnOn	{[0701|0100]} 照亮周圍
+Step_GuideMovieTitle_DeformWaterBalloonAttack	噴水
+Step_GuideMovie_DeformWaterBalloonAttack	朝向巡遊車並按{[0701|0100]}
+Step_GuideMovie_GetOff	朝向陸地並按{[0700|0000]}
+Step_GuideMovie_GetOn	朝向船隻並按{[0700|0000]}
+Step_GuideMovie_FuseCannon	點火後坐進炮口
+Step_GuideMovieTitle_AbilityGuideBombTargetThrow	瞄準投擲
+Step_GuideMovie_AbilityGuideBombTargetThrow	長按{[0701|0100]}～放開
+Step_GuideMovieTitle_AbilityGuideCutterHoldCutter	保持蓄力
+Step_GuideMovie_AbilityGuideCutterHoldCutter	長按{[0701|0100]}～放開
+Step_GuideMovieTitle_AbilityGuideCutterItemCatch	抓住道具
+Step_GuideMovie_AbilityGuideCutterItemCatch	瞄準道具並按{[0701|0100]}
+Step_GuideMovieTitle_AbilityGuideDrillGroundAttack	地面咚
+Step_GuideMovie_AbilityGuideDrillGroundAttack	長按{[0701|0100]}～放開
+Step_GuideMovieTitle_AbilityGuideFireBurn	燃燒攻擊
+Step_GuideMovie_AbilityGuideFireBurn	移動中跳躍＋{[0701|0100]}
+Step_GuideMovieTitle_AbilityGuideIceIceStorm	寒冰暴風雪
+Step_GuideMovie_AbilityGuideIceIceStorm	連打{[0701|0100]}～長按
+Step_GuideMovieTitle_AbilityGuideNeedleNeedleRoll	針球
+Step_GuideMovie_AbilityGuideNeedleNeedleRoll	長按{[0701|0100]}＋移動
+Step_GuideMovieTitle_AbilityGuideNeedleNeedleRollFinish	拋出擊中
+Step_GuideMovie_AbilityGuideNeedleNeedleRollFinish	長按{[0701|0100]}～放開
+Step_GuideMovieTitle_AbilityGuideRangerChargeShot	累積射擊
+Step_GuideMovie_AbilityGuideRangerChargeShot	長按{[0701|0100]}～放開
+Step_GuideMovieTitle_AbilityGuideTornadoFinishAttack	瞬間最大風速
+Step_GuideMovie_AbilityGuideTornadoFinishAttack	{[0701|0100]}～再按一次{[0701|0100]}
 DeformGuide_Jump	跳躍
 DeformGuide_CarAction	渦輪衝刺
 DeformGuide_ConeAction	突刺
+DeformGuide_LockerAction1	倒下
+DeformGuide_RingAction	陣風
+DeformGuide_StairsAction	砰鏘
 DeformGuide_VendingMachineAction	罐子射擊
 $Multiplication	×
 DeformGuide_Remainder_SoldOut	售完
 DeformGuide_WaterTankAction	打開
+DeformGuide_ShipAction	陣風渦輪
+DeformGuide_ElevatorAction	伸縮
+DeformGuide_LightbulbAction	照亮周圍
+DeformGuide_WaterBalloonAction	噴水
+DeformGuide_CoasterAction	傾斜
+DeformGuide_GliderAction1	上升/下降
+DeformGuide_GliderAction2	旋轉突進
+GliderCtrlStateNormal	普通
+GliderCtrlStateReverse	反向
+$GliderCtrlGuideTitle	上下操作切換
 $Slash	/
 $RestartText	檢查點
 $HowToGuidePlusText	+
-HowToGuidePlusPointText	+
+SupportSpeak.msbt
+TownGuideToStory_00	{[1401]}{[1907|01cd]}準備好了嗎？\n我們也差不多該去冒險囉！
+TownBlueprint_00	{[1401]}{[1907|01cd]}我們快點把新獲得的{color[ff4d2fff]}設計圖{color[000000ff]}\n拿去{color[ff4d2fff]}武器店{color[000000ff]}吧！
+TownUrgeSleepFirst_00	{[1900|02cd]}只要在卡比小屋午睡\n就能恢復精神喔。
+TownUrgeSleep_00	{[1905|05cd]}卡比，你的體力減少了呢。\n我們先回小屋午睡一下吧！
+TownNoticeArenaReward_00	{[1907|03cd]}在競技場的接待處似乎能夠{color[ff4d2fff]}\n{color[000000ff]}領取{color[ff4d2fff]}尚未領取的報酬{color[000000ff]}喔！
+TownStreetLiveTipHoldBtn_00	{[1907|00cd]}只要持續按住{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}，\n就能自動放入{[0100|8000]}硬幣星喔。
+TownBrokenTown_00	{[1909|04cd]}卡比，我們快去拯救\n瓦豆魯迪們吧！
+TownStory1_00	{[1905|05cd]}要不要去參觀一下瓦豆魯迪們\n重建的設施呢？
+TownStory1_01	{[1401]}{[1907|01cd]}瓦豆魯迪們回到小鎮後，\n這裡也漸漸熱鬧起來了呢～
+TownStory1_02	{[1401]}{[1909|02cd]}要不要去看看被拯救出來的瓦豆魯迪們\n在小鎮上生活得如何呢？
+TownAbleToEvolution_00	{[1909|00cd]}卡比！似乎已經有\n{color[ff4d2fff]}可以進化的{color[000000ff]}複製能力囉。
+TownArena_00	{[1401]}{[1907|00cd]}聽說競技場正在舉辦魅塔騎士盃，\n我們去看看吧！
+TownStoryCleared_00	{[1401]}{[1900|04cd]}能夠再見到卡比真是太好了……\n今後也請你多多關照喔！
+TownLeopard_00	{[1905|00cd]}卡洛凌來到小鎮了！\n我們去看一下情況吧。
+TownEstory_00	{[1402]}{[1902|00cd]}獅王加爾夫……不知道要不要緊……\n得努力把他找出來才行。
+TownDedede_00	{[1905|04cd]}帝帝帝大王到小鎮來玩囉。\n他似乎{color[ff4d2fff]}有東西想交給你{color[000000ff]}呢！
+TownPresentCode_00	{[1401]}{[1909|01cd]}聽說禮物關鍵詞就藏在小鎮的某處。\n我們快去找找看吧！
+TownFoodStore_00	{[1905|05cd]}咖啡店總是很熱鬧呢。\n店裡似乎很忙碌，要去幫忙嗎？
+TownFishingPond_00	{[1909|00cd]}聽說池塘裡有黃金魚王出沒喔。\n我們再去釣釣看吧！
+TownRollingBall_00	{[1401]}{[1909|01cd]}對了！要不要去玩滾球卡比，\n完成所有挑戰呢？
+TownCapsuleToyMachine_00	{[1401]}{[1900|02cd]}要不要去玩扭蛋機，\n完成收集所有模型的目標呢？
+TownArenaBossBattle_00	{[1401]}{[1905|04cd]}現在正在舉辦The 終極盃喔！\n去參加看看吧！
+TownArenaBossBattleRand_00	{[1401]}{[1905|04cd]}現在正在舉辦The 終極盃喔！\n去參加看看吧！
+TownArenaBossBattleExtra_00	{[1903|00cd]}競技場似乎正在舉辦很厲害的大會……\n雖然讓人有些緊張，但你要不要參加看看？
+TownArenaBossBattleExtraRand_00	{[1903|00cd]}競技場似乎正在舉辦很厲害的大會……\n雖然讓人有些緊張，但你要不要參加看看？
+TownStreetLiveGradeUpRand_00	{[1905|01cd]}瓦豆演奏那裡似乎擺放著吉他盒。\n難道他們可以再次升級嗎？
+TownStreetLiveGradeUp_00	{[1905|01cd]}瓦豆演奏那裡似乎擺放著吉他盒。\n難道他們可以再次升級嗎？
+TownCompleteWaddleDee_00	{[1900|00cd]}小鎮裡竟然有我們的銅像，\n感覺有點難為情呢～
+TownAreaOpenSpace_00	{[1401]}{[1907|00cd]}瓦豆魯迪們接下來打算\n重建什麼樣的設施呢？
+TownAreaTheaterRoom_00	{[1900|00cd]}有許多影片正在上映中，\n卡比，你想看哪一部呢？
+TownAreaTheaterRoom_01	{[1401]}{[1907|01cd]}好像有很多有趣的影片，\n真猶豫該看哪一部才好，對吧～
+TownAreaTheaterRoom_02	{[1401]}{[1900|02cd]}卡比！決定好要看哪一部影片了嗎？\n如果決定好了就坐到位置上，保持安靜吧。
+TownAreaAbilityRoom_00	{[1905|05cd]}決定好要使用哪個能力了嗎？\n有太多能力可以選擇，很難決定對吧。
+TownAreaAbilityRoom_01	{[1401]}{[1909|02cd]}複製能力有很多種，\n卡比最喜歡哪一種呢？
+TownAreaAbilityRoom_02	{[1907|01cd]}在隔壁的房間似乎還準備了能夠\n讓你試用能力的沙袋先生喔！
+TownAreaCapsuleToyMachine_00	{[1905|00cd]}是不是還有沒收集到的模型呢……？\n要不要去玩一下扭蛋機？
+TownAreaCapsuleToyMachine_01	{[1905|05cd]}有好多好多種類呢。\n卡比喜歡哪個模型呢？
+TownAreaCapsuleToyMachine_02	{[1900|03cd]}{[1401]}一旦開始收集起模型，\n就會忍不住想完成收藏對吧。
+TownAreaDeliveryService_00	{[1905|00cd]}卡比，是不是有禮物關鍵詞\n還沒使用過呀？
+TownAreaDeliveryService_01	{[1907|01cd]}你知道嗎？聽說小鎮裡藏著\n好幾個禮物關鍵詞喔！
+TownAreaDeliveryService_02	{[1905|05cd]}小鎮裡藏著禮物關鍵詞……\n那到底是誰留下來的呢？
+TownAreaKirbyHouse_00	{[1401]}{[1900|01cd]}卡比小屋就跟卡比\n一樣圓滾滾的呢～
+TownAreaKirbyHouse_01	{[1907|00cd]}體力減少的時候只要回卡比小屋\n午睡就會回復囉。
+TownAreaFoodStore_00	{[1401]}{[1909|02cd]}從咖啡店傳來一陣好香的味道～\n卡比，要不要一起去喝點什麼呢？
+TownAreaFoodStore_01	{[1401]}{[1900|02cd]}那裡有賣卡比最喜歡的M番茄喔！\n要不要去買個外帶呢？
+TownAreaFoodStore_02	{[1401]}{[1907|01cd]}天氣這麼好，\n在咖啡店的2樓吃飯好像也不錯呢～
+TownAreaArena_00	{[1401]}{[1901|03cd]}哇～！觀眾的加油聲\n都傳到這裡來了呢。
+TownAreaArena_01	{[1909|00cd]}去競技場參加比賽，\n測試看看自己的實力吧！
+TownAreaArena_02	{[1401]}{[1900|02cd]}只要朝瓦豆魯迪們按下{color[ff4d2fff]}{[041c|a300]}{color[000000ff]}，\n他們都會很開心喔。
+TownAreaLookoutTower_00	{[1401]}{[1907|04cd]}哇～！\n從這裡可以眺望整個小鎮耶～！
+TownAreaLookoutTower_01	{[1900|01cd]}卡比，\n風吹起來很舒服吧！
+TownAreaPharmacy_00	{[1401]}{[1907|03cd]}哇～是能讓體力變成2倍的道具呢。\n打不贏魔王的時候就買來試試看吧。
+TownAreaPharmacy_01	{[1905|05cd]}如果事先買好攻擊提升，\n是不是也能在競技場輕鬆獲得優勝呢？
+TownAreaPharmacy_02	{[1900|02cd]}這裡有能夠使速度提升的道具呢。\n感覺只要有它不管什麼關卡都能迅速過關喔！
+TownAreaFishingPond_00	{[1905|05cd]}瓦豆魯迪正在釣魚呢。\n我們也去釣魚吧！？
+TownAreaFishingPond_01	{[1401]}{[1907|04cd]}卡比，聽說這個池塘裡棲息著非比尋常的魚王喔……\n不知道我們能不能釣到呢？
+TownAreaRollingBall_00	{[1401]}{[1900|00cd]}滾球卡比！玩起來很有趣吧。\n我很喜歡那種讓球滾啊滾的感覺！
+TownAreaRollingBall_01	{[1905|04cd]}世界上似乎有只用了非常短的時間就過關\n滾球卡比的人……我們也不能輸對吧！
+TownAreaStreetLive_00	{[1907|04cd]}他們似乎會演奏許多樂曲給我們聽喔！\n卡比喜歡哪一首樂曲呢？
+TownAreaStreetLive_01	{[1905|04cd]}他們會演奏出怎樣的樂曲呢？\n試著點首樂曲吧？
+TownAreaCentralSquare_00	{[1401]}{[1900|03cd]}卡比，只要朝瓦豆魯迪們按下{color[ff4d2fff]}{[041d|a400]}{color[000000ff]}跟他們揮手，\n他們說不定也會對你揮手喔。
+TownAreaCentralSquare_01	{[1401]}{[1907|01cd]}廣場上綻放著好多\n漂亮的花喔！
+TownAreaCentralSquare_02	{[1401]}{[1900|02cd]}看著小鎮上不斷建造起各種設施，\n真令人開心對吧～！
+WmapTownBuildingUnlocked_00	{[1401]}{[1909|01cd]}小鎮上似乎有{color[ff4d2fff]}新設施{color[000000ff]}建造完成了。\n有空的話，我們就去看看吧！
+WmapCompleteWaddleDee_00	{[1401]}{[1901|03cd]}這樣所有瓦豆魯迪就都被拯救出來了吧。\n我們返回小鎮去看看大家吧！
+WmapGuideToCstage_00	{[1901|00cd]}只要過關{color[ff4d2fff]}寶藏之路{color[000000ff]}，\n似乎就能獲得{color[ff4d2fff]}{[0101|8100]}稀有石{color[000000ff]}喔。
+WmapBlueprint_00	{[1401]}{[1909|00cd]}為了送達新獲得的{color[ff4d2fff]}設計圖{color[000000ff]}，\n我們先{color[ff4d2fff]}返回小鎮{color[000000ff]}看看吧！
+WmapBackToTown_00	{[1907|00cd]}在世界地圖中想要返回小鎮的時候，\n只要按{color[ff4d2fff]}{[0401|0100]}{color[000000ff]}就能馬上回到小鎮囉！
+WmapTurboMoveFirst_00	{[1907|01cd]}只要按著{color[ff4d2fff]}{[040a|6100]}{color[000000ff]}，同時推動操控搖桿，\n就能比平常更快速地移動喔！
+WmapTurboMove_00	{[1907|01cd]}只要按著{color[ff4d2fff]}{[040a|6100]}{color[000000ff]}，同時推動操控搖桿，\n就能比平常更快速地移動喔。
+WmapBossStageUnlocked_00	{[1905|05cd]}在與魔王戰鬥前，\n或許先在小鎮做些準備比較好！
+WmapUrgeSleep_00	{[1402]}{[1902|01cd]}卡比，你的體力減少了呢。\n要不要先返回小鎮休息一下？
+WmapArea1BrokenTown_00	{[1907|01cd]}卡比，我們去拯救被抓走的\n瓦豆魯迪們吧！
+WmapArea1_00	{[1401]}{[1900|02cd]}置身在綠意環繞的環境下\n感覺很舒服對吧～卡比！
+WmapArea2_00	{[1401]}{[1907|04cd]}這片大海好漂亮喔。\n我們去游個泳嘛！
+WmapArea3_00	{[1401]}{[1901|03cd]}哇～是遊樂園！\n有好多遊樂設施呢～
+WmapArea4_00	{[1402]}{[1903|03cd]}嗚～要是一直待在這裡\n感覺會凍僵呢～
+WmapArea5_00	{[1907|03cd]}哇～是一望無際的沙漠。\n不知道這片沙漠的盡頭在哪裡？
+WmapArea6_00	{[1402]}{[1902|02cd]}嗚哇……要是待在這裡不動，\n感覺都要被岩漿融化了。
+WmapArea7_00	{[1901|00cd]}卡比，雖然我有點害怕……\n但是現在也只能前進了對吧！
+EstoryWmapFirst_00	{[1902|01cd]}這裡是由可怕的思想所創造的世界……\n我們謹慎前進吧……！
+EstoryWmap1_00	{[1902|01cd]}這裡是由可怕的思想所創造的世界……\n我們謹慎前進吧……！
+EstoryWmap2_00	{[1901|00cd]}……我一點也不怕喔！\n因為有卡比陪著我！
+EstoryWmap3_00	{[1906|02cd]}這個世界很不安定呢。\n就好像在別人的夢境中一樣……
+WmapCommon1_00	{[1401]}{[1900|00cd]}只要和卡比在一起，\n不管去哪裡冒險，我都覺得很開心喔～
+WmapCommon2_00	{[1907|01cd]}對了，卡比！\n我們接下來要去哪裡呢？
+WmapCommon3_00	{[1401]}{[1900|02cd]}冒險真是讓人興奮呢！\n是因為有卡比作伴，所以冒險才這麼有趣嗎？
+EstorySoulRestNum_00	{[1905|00cd]}這附近好像還有{color[ff4d2fff]}{[0301|0000]}個{color[000000ff]}\n獅王的靈魂喔！
+EstorySoulLast_00	{[1905|04cd]}好像還有{color[ff4d2fff]}1個{color[000000ff]}獅王的靈魂\n殘留在這附近喔！
+EstorySoulCompleted_00	{[1905|05cd]}這附近似乎已經沒有\n獅王的靈魂囉。
+EstoryPresentItem_00	{[1901|00cd]}啊～得阻止獅王加爾夫才行……！\n卡比，快使用這個！
 TitleMenu.msbt
-TopBtnContinue	一人遊玩
-TopBtnContinueP2	兩人遊玩
+TopBtnContinue	繼續遊戲
+TopBtnContinueP2	以兩人遊玩繼續遊戲
 TopBtnFileSelect	選擇檔案
 TopBtnGameStart	開始
+TopMenuFileName	檔案 {[0301|0000]}
 $TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
-$TitleMenuTitle	關卡選擇
-$TitleMenuAbilityEvolution	能力進化
-$TitleMenuEShopBtn	Nintendo eShop
-$TitleMenuMoveBtn	影片
-$TitleMenuProductIntroductionBtn	介紹頁面
-$Back	返回
-$TitleMenuPresent	關鍵詞
+$FileSelectFileName1Text	檔案1
+$FileSelectFileName2Text	檔案2
+$FileSelectFileName3Text	檔案3
+$FileSelectPercentText	％
+$FileSelectSubTitleCasualText	春風模式
+$FileSelectSubTitleStandardText	狂野模式
+$FileSelectTitleText	選擇檔案
+$FileSelectDeleteText	刪除檔案
+$FileSelectNetConnectText	網路設定
+Town.msbt
+TownName	瓦豆魯迪小鎮
+Title_TheaterRoom	瓦豆魯迪電影院
+Title_AbilityRoom	瓦豆魯迪武器店
+Title_CapsuleToy	扭蛋機
+Title_DeliveryService	瓦豆魯迪快遞
+Title_KirbyHouse	卡比小屋
+Title_FoodShop	瓦豆魯迪咖啡店
+Title_MgameFood	工作！瓦豆魯迪咖啡店
+Title_Arena	競技場
+Title_LookoutTower	展望台
+Title_Pharmacy	瓦豆魯迪道具店
+Title_MgameFish	緊張刺激！剎那間的釣魚池
+Title_MgameBall	滾啊滾啊！滾球卡比
+Title_StreetLive	街角瓦豆演奏
+$FigureListGuideText	收藏
+$CapsuleToyTurnText	轉動
+$Entry	參加大會中
+$ConnectInfo	網路
+$UpdateInfo	{size[6400]}資訊更新{size[6400]}
+$Slash	/
+$TipIn	放入1枚{color[ff4d2fff]}{[0100|8000]}{color[000000ff]}
+$Auto	AUTO
+$Music	TRACK No.
+$MovieSelectSkipText	跳過
+FigureSeries1	Vol.1
+FigureSeries2	Vol.2
+FigureSeries3	Vol.3
+FigureSeries4	Vol.4
+ShoppingWindow_Name_MaxTomato	M番茄
+ShoppingWindow_Name_EnergyDrink	元氣飲料
+ShoppingWindow_Name_Food1	汽車塞滿嘴蛋糕
+ShoppingWindow_Name_Food2	卡比漢堡
+ShoppingWindow_Name_LifeUp	生命提升
+ShoppingWindow_Name_StrengthUp	攻擊提升
+ShoppingWindow_Name_SpeedUp	速度提升
+ShoppingWindow_Detail_MaxTomato	回復所有體力
+ShoppingWindow_Detail_EnergyDrink	回復大量體力
+ShoppingWindow_Detail_Food1	回復體力
+ShoppingWindow_Detail_Food2	回復體力
+ShoppingWindow_Detail_LifeUp	體力變為2倍\n但不超過2倍
+ShoppingWindow_Detail_StrengthUp	200秒內攻擊力提升\n最多可疊加使用5個
+ShoppingWindow_Detail_SpeedUp	200秒內速度提升\n最多可疊加使用5個
+Wmap.msbt
+$StageListGuidetText	關卡列表
+$FigureListGuideText	收藏
+$BackToTown	前往瓦豆魯迪小鎮
+$Slash	/
+ToTown	前往瓦豆魯迪小鎮
+$StageStartStart	開始
+$WmapComebackCountSlash	/
+AddComebackedCount_Complete	瓦豆魯迪 完成！
+FindPlace	調查
+ToNewContinent	前往禁區之島
+ToFirstContinent	前往初始大陸
+StageList_CstageModeName	寶藏之路列表
+StageList_StageModeName	關卡列表
+TreasureRoadSearchHint	調查可疑的\n地方吧
+TreasureRoadEvolvedHint	進化為\n{[0309|0000]}吧
+TreasureRoadEstoryHint	繼續推進\n故事吧
+$StageListClose	關閉
+$EstoryCountSlash	/
+CstageZoneName_Copy_Normal	普通 寶藏
+CstageZoneName_Copy_Bomb	炸彈 寶藏
+CstageZoneName_Copy_ChainBomb	連鎖炸彈\n寶藏
+CstageZoneName_Copy_SearchBomb	自動追蹤炸彈\n寶藏
+CstageZoneName_Copy_TimeCrash	時間爆裂\n寶藏
+CstageZoneName_Copy_Cutter	彎刀 寶藏
+CstageZoneName_Copy_ChakramCutter	環刃彎刀\n寶藏
+CstageZoneName_Copy_MetalCutter	全金屬彎刀\n寶藏
+CstageZoneName_Copy_Drill	鑽擊 寶藏
+CstageZoneName_Copy_PencilDrill	鉛筆鑽擊\n寶藏
+CstageZoneName_Copy_TwinDrill	雙重鑽擊\n寶藏
+CstageZoneName_Copy_Fire	烈火 寶藏
+CstageZoneName_Copy_VolcanoFire	火山烈火\n寶藏
+CstageZoneName_Copy_DragonFire	龍之烈火\n寶藏
+CstageZoneName_Copy_Hammer	錘子 寶藏
+CstageZoneName_Copy_ToyHammer	嗶嗶錘子\n寶藏
+CstageZoneName_Copy_RockHammer	狂野錘子\n寶藏
+CstageZoneName_Copy_DededeHammer	蒙面錘子\n寶藏
+CstageZoneName_Copy_Ice	冰凍 寶藏
+CstageZoneName_Copy_FrostyIce	冰霜冰凍\n寶藏
+CstageZoneName_Copy_BlizzardIce	暴風雪冰凍\n寶藏
+CstageZoneName_Copy_Needle	針 寶藏
+CstageZoneName_Copy_JunkNeedle	廢品針 寶藏
+CstageZoneName_Copy_CrystalNeedle	水晶針 寶藏
+CstageZoneName_Copy_Ranger	探巡隊 寶藏
+CstageZoneName_Copy_EliteRanger	輝煌探巡隊\n寶藏
+CstageZoneName_Copy_SpaceRanger	太空探巡隊\n寶藏
+CstageZoneName_Copy_Sword	利劍 寶藏
+CstageZoneName_Copy_GigantSword	龐大利劍\n寶藏
+CstageZoneName_Copy_MetaSword	魅塔騎士利劍\n寶藏
+CstageZoneName_Copy_MorphoSword	冥蝶騎士利劍\n寶藏
+CstageZoneName_Copy_Tornado	龍捲風 寶藏
+CstageZoneName_Copy_SwanTornado	天鵝龍捲風\n寶藏
+CstageZoneName_Copy_StormTornado	風暴龍捲風\n寶藏
+CstageZoneName_Deform_Car	汽車塞滿嘴\n寶藏
+CstageZoneName_Deform_Cone	三角錐塞滿嘴\n寶藏
+CstageZoneName_Deform_Cylinder	水管塞滿嘴\n寶藏
+CstageZoneName_Deform_Elevator	作業車塞滿嘴\n寶藏
+CstageZoneName_Deform_Lightbulb	燈泡塞滿嘴\n寶藏
+CstageZoneName_Deform_Ring	圈圈塞滿嘴\n寶藏
+CstageZoneName_Deform_Stairs	階梯塞滿嘴\n寶藏
+CstageZoneName_Deform_VendingMachine	自動販賣機塞滿嘴\n寶藏
+CstageZoneName_Deform_WaterBalloon	水球塞滿嘴\n寶藏
+CstageZoneName_Deform_Mix	塞滿嘴總動員\n寶藏
+CstageAbilityName_Deform_Mix	塞滿嘴總動員
+StageList_CstageZoneName	{[030c]} 寶藏
+StageList_CstageZoneName_Deform_Mix	塞滿嘴總動員 寶藏
 Name\AbilityName.msbt
 Kirby	卡比
 BandanaWaddleDee	頭巾瓦豆魯迪
 Copy_Normal	普通
 Copy_Bomb	炸彈
 Copy_ChainBomb	連鎖炸彈
+Copy_SearchBomb	自動追蹤炸彈
+Copy_Crash	爆裂
+Copy_TimeCrash	時間爆裂
 Copy_Cutter	彎刀
 Copy_ChakramCutter	環刃彎刀
+Copy_MetalCutter	全金屬彎刀
+Copy_Drill	鑽擊
+Copy_PencilDrill	鉛筆鑽擊
+Copy_TwinDrill	雙重鑽擊
+Copy_Fire	烈火
+Copy_VolcanoFire	火山烈火
+Copy_DragonFire	龍之烈火
+Copy_Hammer	錘子
+Copy_ToyHammer	嗶嗶錘子
+Copy_RockHammer	狂野錘子
+Copy_DededeHammer	蒙面錘子
 Copy_Ice	冰凍
 Copy_FrostyIce	冰霜冰凍
+Copy_BlizzardIce	暴風雪冰凍
+Copy_Needle	針
+Copy_JunkNeedle	廢品針
+Copy_CrystalNeedle	水晶針
+Copy_Ranger	探巡隊
+Copy_EliteRanger	輝煌探巡隊
+Copy_SpaceRanger	太空探巡隊
+Copy_Sleep	睡覺
+Copy_DeepSleep	深層睡覺
 Copy_Sword	利劍
 Copy_GigantSword	龐大利劍
+Copy_MetaSword	魅塔騎士利劍
+Copy_MorphoSword	冥蝶騎士利劍
+Copy_Tornado	龍捲風
+Copy_SwanTornado	天鵝龍捲風
+Copy_StormTornado	風暴龍捲風
 Deform_Car	汽車塞滿嘴
+Deform_Coaster	雲霄飛車塞滿嘴
 Deform_Cone	三角錐塞滿嘴
+Deform_Cylinder	水管塞滿嘴
+Deform_DumpCar	巨大聯結車塞滿嘴
+Deform_Elevator	作業車塞滿嘴
+Deform_Glider	拱門塞滿嘴
+Deform_Lightbulb	燈泡塞滿嘴
+Deform_Locker	置物櫃塞滿嘴
+Deform_Ring	圈圈塞滿嘴
+Deform_Stairs	階梯塞滿嘴
 Deform_VendingMachine	自動販賣機塞滿嘴
+Deform_WaterBalloon	水球塞滿嘴
 Deform_WaterTank	巨蛋塞滿嘴
+Name\AreaName.msbt
+Level1	自然草原
+Level2	蔚藍海岸
+Level3	驚奇樂園遺址
+Level4	雪白角峰
+Level5	原始荒野大地
+Level6	紅通通禁區
+Level7	實驗室‧摸索發覺
+Estory	絕島幻夢‧遺忘
+Name\ArenaCompetitionName.msbt
+CartelOfMetaKnight	魅塔騎士盃
+BossBattle	The 終極盃
+BossBattleExtra	The 終極盃Z
 Name\BossName.msbt
 GigantEdge	狂野刃
 BossGorillaPrefix	剛腕獸
 BossGorilla	猩猛霸
+BossGorillaExPrefix	剛幻獸
+BossGorillaEx	猩猛霸‧幻
+WhispyPalmPrefix	南國樹
+WhispyPalm	熱帶大樹
+WhispyPalmExPrefix	幻國樹
+WhispyPalmEx	熱帶大樹‧幻
+BossLeopardPrefix	女爪豹
+BossLeopard	卡洛凌
+BossLeopardExPrefix	幻爪豹
+BossLeopardEx	卡洛凌‧幻
+DededePrefix	宿敵之暴君
+Dedede	帝帝帝大王
+DededeExPrefix	宿敵的幻夢
+DededeEx	帝帝帝大王‧幻
+DededeWildPrefix	猛獸面具
+DededeWild	狂野 帝帝帝
+DededeWildExPrefix	幻獸面具
+DededeWildEx	狂野 帝帝帝‧幻
+BossLionPrefix	獸王
+BossLion	獅王加爾夫
+BossLionExPrefix	附身獸
+BossLionEx	獅王‧遺忘
+BossArmadilloPrefix	舞轉甲獸
+BossArmadillo	犰魔亂舞
+BossArmadilloExPrefix	舞幻甲獸
+BossArmadilloEx	犰魔亂舞‧幻
+BossChimeraPrefix	侵略種
+BossChimera	菲克特‧遺忘
+BossChimeraExPrefix	思想獸
+BossChimeraEx	靈魂‧遺忘
+BossChimeraPerfectPrefix	完全體
+BossChimeraPerfect	菲克特‧艾菲里斯
+BossChimeraPerfectSoulPrefix	魂沌新物種
+BossChimeraPerfectSoul	混沌‧艾菲里斯
+Bonkers	狂野錘星猩
+MisterFrosty	狂野冰霜
+MbossTornado	天鵝羅利那
+BonkersGigantEdge	狂野錘星猩＆狂野刃
+MisterFrostyMbossTornado	狂野冰霜＆天鵝羅利那
+MetaKnightPrefix	孤高的騎士
+MetaKnight	魅塔騎士
+MetaKnightExPrefix	孤高的幻夢
+MetaKnightEx	魅塔騎士‧幻
+MorphoKnightPrefix	啜夢的極蝶
+MorphoKnight	冥蝶騎士
+MrSandbag	沙袋先生
+TwinGigantEdge	雙重狂野刃
+TwinBonkers	雙重狂野錘星猩
+TwinMisterFrosty	雙重狂野冰霜
+TwinMbossTornado	雙重天鵝羅利那
+Name\CstageName.msbt
+BombStage01	全倒！\n三胞胎開關
+BombStage02	舉起丟出去！\n炸彈方塊
+BombStageChainBomb01	戰鬥吧！\n連鎖炸彈的試煉
+BombStageSearchBomb01	奮力一丟！\n追蹤開啟
+CrashStageTimeCrash01	停止時間！\n緩慢世界
+CutterStage01	投擲！抓住財寶
+CutterStage02	投擲蓄力！\n放開抓住
+CutterStageChakramCutter01	旋轉返回！\n開關開啟
+CutterStageMetalCutter01	鏗鏘！\n熟練牆壁反射
+DrillStage01	戰鬥吧！\n鑽擊的試煉
+DrillStage02	迷路潛入！\n柵欄迷宮
+DrillStagePencilDrill01	挖掘潛入！\n穿過柵欄
+DrillStageTwinDrill01	鑽擊逼近！\n瘋狂巡遊車
+FireStage01	燃燒奔馳！\n朝向大炮
+FireStage02	逆向奔馳！\n傳送帶衝刺
+FireStageVolcanoFire01	亮起來！提燈開關
+FireStageDragonFire01	融化滑動！\n朝向大炮
+HammerStage01	敲擊！\n打樁造路
+HammerStage02	戰鬥吧！\n錘子的試煉
+HammerStageToyHammer01	咻咻！釘子攀登
+HammerStageRockHammer01	戰鬥吧！\n狂野錘子的試煉
+IceStage01	硬邦邦！\n暴風雪溜冰
+IceStage02	滑道！高速溜冰
+IceStageFrostyIce01	戰鬥吧！\n冰霜冰凍的試煉
+IceStageBlizzardIce01	冷凍尋找！\n岩漿溜冰
+NeedleStage01	滾動吧！針路
+NeedleStageJunkNeedle01	戰鬥吧！\n廢品針的試煉
+NeedleStageCrystalNeedle01	快點！\n崩壞的針路
+NormalStage01	美好的無敵！\n橫衝直撞
+NormalStage02	卡比的吸入大決戰！
+RangerStage01	擊中吧！\n彼岸的目標
+RangerStage02	瞄準旋轉！目標塔
+RangerStageEliteRanger01	戰鬥吧！\n輝煌探巡隊的試煉
+RangerStageSpaceRanger01	射擊順流！\n恐怖的傳送帶掉落
+SwordStage01	看清楚！\n剪哪條繩子
+SwordStage02	戰鬥吧！\n利劍的試煉
+SwordStageGigantSword01	戰鬥吧！\n龐大利劍的試煉
+SwordStageMorphoSword01	戰鬥吧！\n冥蝶騎士利劍的試煉
+TornadoStage01	飛越吧！荊棘路
+TornadoStage02	凍僵水面！\n三胞胎開關
+TornadoStageSwanTornado01	飛吧旋轉吧！\n風車島
+TornadoStageStormTornado01	戰鬥吧！\n風暴龍捲風的試煉
+DeformCarStage01	穿越取得！\n轉轉賽道
+DeformCarStage02	飛越吧！\n傳送帶賽道
+DeformConeStage01	攻擊！\n滿滿水管路
+DeformConeStage02	突刺！上下塔
+DeformCylinderStage01	跳躍！滾滾卡比
+DeformElevatorStage01	伸長縮短！\n作業車之路
+DeformLightbulbStage01	照亮吧！\n迷路的幽靈迷宮
+DeformRingStage01	激烈衝突！\n圈圈小船競賽
+DeformRingStage02	呼～呼～！\n風車射擊
+DeformStairsStage01	搬運吧！\n階梯大移動
+DeformVmachineStage01	射擊前進！\n自動販賣機的冒險
+DeformWballoonStage01	順流而下！\n滑行巡遊
+DeformMixStage01	卡比的塞滿嘴大師！
+HammerStageDededeHammer01	戰鬥吧！\n蒙面錘子的試煉
+SwordStageMetaSword01	戰鬥吧！\n魅塔騎士利劍的試煉
+StageList_QuestionTitle	？？？
 Name\Difficulty.msbt
 Casual	春風模式
 Standard	狂野模式
+Name\EstoryStageName.msbt
+EstoryStage01	被遺忘的‧自然
+EstoryStage02	被遺忘的‧蔚藍
+EstoryStage03	被遺忘的‧驚奇
+EstoryStage04	被遺忘的‧角峰
+EstoryStage05	被遺忘的‧原始
+EstoryStage06	被遺忘的‧紅通通
+EstoryStage07	被遺忘的‧陸地
 Name\FigureName.msbt
 KirbyNormal	卡比
 SupportChara	艾菲靈
 BandanaWaddleDee	頭巾瓦豆魯迪
+KirbyIce	冰凍
+KirbyFrostyIce	冰霜冰凍
+KirbyIceBlizzard	暴風雪冰凍
 KirbyCutter	彎刀
+KirbyCutterChakram	環刃彎刀
+KirbyCutterMetal	全金屬彎刀
+KirbyCrash	爆裂
+KirbyCrashTime	時間爆裂
+KirbySleep	睡覺
+KirbyDeep	深層睡覺
 KirbySword	利劍
+KirbySwordGalactic	龐大利劍
+KirbySwordMeta	魅塔騎士利劍
+KirbyMorpho	冥蝶騎士利劍
+KirbyTornado	龍捲風
+Swan	天鵝龍捲風
+KirbyStorm	風暴龍捲風
+KirbyNeedle	針
+KirbyNeedleJunk	廢品針
+KirbyNeedleCrystal	水晶針
+KirbyHammer	錘子
+KirbyHammerToy	嗶嗶錘子
+KirbyHammerRock	狂野錘子
+KirbyDedede	蒙面錘子
+KirbyFire	烈火
+KirbyFireVolcano	火山烈火
+KirbyFireDragon	龍之烈火
 KirbyBomb	炸彈
+KirbyBombChain	連鎖炸彈
+KirbyBombChainSearch	自動追蹤炸彈
+KirbyDrill	鑽擊
+KirbyPencilDrill	鉛筆鑽擊
+KirbyDrillTwin	雙重鑽擊
+KirbyRanger	探巡隊
+KirbyEliteRanger	輝煌探巡隊
+KirbySpace	太空探巡隊
 DeformKirbyCar	汽車塞滿嘴
 DeformKirbyCone	三角錐塞滿嘴
+DeformKirbyStairs	階梯塞滿嘴
+DeformKirbyRing	圈圈塞滿嘴
+DeformKirbyRingBoat	圈圈塞滿嘴小船
+DeformKirbyGlider	拱門塞滿嘴
+DeformKirbyWaterBalloon	水球塞滿嘴
+DeformKirbyDumpCar	巨大聯結車塞滿嘴
+DeformKirbyLightbulb	燈泡塞滿嘴
+DeformKirbyLocker	置物櫃塞滿嘴
+DeformKirbyLockerBig	置物櫃塞滿嘴（弄倒牆壁）
 DeformKirbyWaterTank	巨蛋塞滿嘴
+DeformKirbyVendingMachine	自動販賣機塞滿嘴
+DeformKirbyElevator	作業車塞滿嘴
+DeformKirbyRollerCoaster	雲霄飛車塞滿嘴
+DeformKirbyCylinder	水管塞滿嘴
+BossGorilla	剛腕獸\n猩猛霸
+WhispyPalm	南國樹\n熱帶大樹
+BossLeopard	女爪豹\n卡洛凌
+Metaknight	孤高的騎士\n魅塔騎士
+Dedede	宿敵之暴君\n帝帝帝大王
+BossArmadillo	舞轉甲獸\n犰魔亂舞
+MaskDedede	猛獸面具\n狂野 帝帝帝
+BossLion	獸王\n獅王加爾夫
+BossOrigin	侵略種\n菲克特‧遺忘
+BossOrigin_Sub	（幼體）
+BossChimera	侵略種\n菲克特‧遺忘
+BossChimeraPerfect	完全體\n菲克特‧艾菲里斯
+BossGorillaEX	剛幻獸\n猩猛霸‧幻
+WhispyPalmEX	幻國樹\n熱帶大樹‧幻
+BossLeopardEX	幻爪豹\n卡洛凌‧幻
+MetaknightEX	孤高的幻夢\n魅塔騎士‧幻
+BossArmadilloEX	舞幻甲獸\n犰魔亂舞‧幻
+DededeEX	宿敵的幻夢\n帝帝帝大王‧幻
+MaskDededeEX	幻獸面具\n狂野 帝帝帝‧幻
+BossLionAndOrigin	附身獸\n獅王‧遺忘
+MorphoKnight	{size[6400]}啜夢的極蝶{size[6400]}\n冥蝶騎士
+BossChimeraSoul	{size[6400]}魂沌新物種{size[6400]}\n混沌‧艾菲里斯
+GigantEdge	狂野刃
+MisterFrosty	狂野冰霜
+Bonkers	狂野錘星猩
+MbossTornado	天鵝羅利那
 AnimalWaddleDee	加魯魯菲
 BrontoBurt	飛翅球球
 Shotzo	黑大炮
 Kabu	石像怪
+Dekabu	大石像怪
+Gordo	黑刺球
+GordoLongShort	黑刺棒
+Bouncy	彈跳蝴蝶結
 Cappy	蘑菇怪
+Scarfy	尖耳怪
+Blipper	蛙鏡魚
+Squishy	烏賊怪
+Glunk	綠海葵
+Gabon	骷髏怪
+SnakeEnemy	佳布爾蛇
 TackleEnemy	巴伐爾牛角
+RabbitEnemy	拉比兔＆大拉比兔
+Alligator	鱷佳布爾
+WaterBigEnemy	氣球高手
+Walf	沃爾夫
+Mumbies	芒比屍
+Phanta	漂浮洛巴
+SpookStep	恐怖踏步怪
+Gigatzo	巨大炮
+Pacto	帕克特
+NormalEnemyWild	原始加魯魯菲
+PoisonToadEnemy	毒毒蛙
 BladeKnight	劍騎士
 SirKibble	彎刀騎士
 PoppyBrosJr	小波比兄弟
+Chilly	粗眉雪人
+Bomber	漫步大炸彈
+Noddy	諾迪
+NeedleEnemy	針蝟
+RangerEnemy	伯納犬
+DrillEnemy	狄古
+HammerEnemy	牧吱斯
+HotHead	熾熱頭
+Needlous	針蟲
+Twister	扭轉機
+Corori	滾落粒
+Totenga	托天甲
+Foley	鳳犁
 MaxTomato	M番茄
+EnergyDrink	元氣飲料
 CaptiveCage	被囚禁的瓦豆魯迪
 GoalPoint	被囚禁的瓦豆魯迪們
+CaptiveSelectBox	被囚禁輪盤
+CaptiveSupportChara	被囚禁的艾菲靈
+Blueprint	設計圖
+SoulSingle	獅王的靈魂
+CoinCluster	硬幣星之山
+PointStar	硬幣星
+PointStarGreen	綠色硬幣星
+PointStarRed	紅色硬幣星
 PointStarBlue	藍色硬幣星
+ModelLifeUp	生命提升
+ModelStrengthUp	攻擊提升
+ModelSpeedUp	速度提升
+InvincibleCandy	彩虹棒棒糖
+CanJuice	罐裝果汁
+Popcorn	爆米花
+Steak	牛排
+Canned	罐頭
+Mikan	蜜柑
+Melon	哈密瓜
+Corn	玉米
+MilkPack	牛奶
+Sushi	壽司
+Candy	巧克力冰棒
+BreadB	法國麵包
+Friedegg	荷包蛋
+Babybottle	奶瓶
+RoastChicken	烤雞
+Doughnut	甜甜圈
+Makaron	馬卡龍
+Cherry	櫻桃
+WaterMelon	西瓜
+Cake	草莓蛋糕
+Pudding	布丁
+Hamburger	漢堡
+Omelet	歐姆蛋
+Takoyaki	章魚燒
+Pumpkin	南瓜
+Coffee	咖啡
+Tomato	番茄
+Meat	帶骨肉
+Onigiri	飯糰
+CupJuiceMall	杯裝果汁
+Potato	薯條
+SweetsChocolate	板塊巧克力
+SweetsIceCream	雪糕
+Cafefoodhamburger	卡比漢堡
+Cafefoodcake	汽車塞滿嘴蛋糕
+StarBlock	星星方塊
 DeformCar	汽車
 DeformCone	三角錐
+DeformStairs	階梯
+DeformRingSign	霓虹燈圈圈
+DeformRingBoat	小船
+DeformGlider	滑翔翼拱門
+DeformPipe	給水管
 DeformWaterTank	儲水槽
+DeformLocker	置物櫃
+DeformCoinLocker	硬幣置物櫃
+DeformRingGear	齒輪圈圈
+DeformRingClock	時鐘圈圈
 Turtle	龜塔洛斯
 TurtleBig	建築龜塔洛斯
+TurtleBigLava	紅通通龜塔洛斯
+ArrowBoardShop	箭頭看板
+PopFlower	波普之花
+PopFlowerTulip	鬱金香
 GroupSwitch	開關
+BlockBomb	炸彈方塊
+FuseCannon	大炮
+TreasureChest	寶箱
+HardNuts	硬邦邦堅果
+TargetSwitch	目標開關
+Stake	樁
+DeformCoaster	太空驚奇樂園號
+DeformGocart	賽車
+DeformLightbulb	燈泡
+StarRocket	迴旋星際火箭
+SurpriseBoard	驚嚇外星人板
+ParadeCar	瘋狂巡遊車
+DeformElevator	作業車
+DeformVendingMachine	自動販賣機
+DeformCylinder	水管
+BlockCrumble	崩塌方塊
+SolarPanel	太陽能板開關
 WarpStar	傳送之星
+DeformDumpCar	巨大聯結車
+DeformConeIce	冰淇淋甜筒
+DeformConeSpeaker	錐形揚聲器
+FollowingBird	迷路的雛鳥
+FacePanel	露臉紀念板
+WitheredFlower	綻放的花
+Windmill	風車開關
+Nail	釘子
+LanternSwitch	提燈開關
+Fishes	魚
+BossArmadilloPartner	手工跳舞娃娃
+Crab	螃蟹
+DollSupportChara	手工艾菲靈
+GhostGordo	幽靈黑刺球
+SandStatue	動物沙像
+LizardWall	蜥蜴
 Radio	收錄音機
+SandStatueSnow	動物雪像
+WantedNotice	通緝令
+DollKirby	手工卡比
+KirbyAndDedede	宿命的對手們
+KirbyAndMetaknight	和魅塔騎士的戰鬥
+NormalEnemySleep	休息的野獸
+TreasureHunt	探巡隊財寶大發現
+ChallengeAllClear	稀有石大師！
+BossLionAndLeopard	獅王＆卡洛
+BossLeopardAndSoul	吼吼、吼嚕……！\n（獅王、起來吧……！）
+ClearDance	一起冒險！
 WaddleDee	瓦豆魯迪
+TownAbilityRoom	武器店瓦豆魯迪
+TownFoodShop	咖啡店員瓦豆魯迪
+TownCafeJob	咖啡店員卡比
+TownToolShop	道具店瓦豆魯迪
+TownDeliveryservice	快遞員瓦豆魯迪
+TownArena	實況瓦豆魯迪
+TownTheaterRoom	電影院瓦豆魯迪
+TownLive	豆魯迪士
+TownTamakoro	滾球店瓦豆魯迪
+TownKnow	知識淵博瓦豆魯迪
+TownFishing	釣魚池卡比
 CarshopSignboard	汽車商店的看板
+MallEntrance	阿萊布爾購物中心的看板
 CompanyBoard	萊特隆工程的看板
+ParkEntranceStatue	驚奇樂園的標誌
+ParkMascot	驚奇克斯＆驚奇利
+Name\FoodName.msbt
+MaxTomato	M番茄
+EnergyDrink	元氣飲料
+Food1	汽車塞滿嘴蛋糕
+Food2	卡比漢堡
+Name\GiftItemName.msbt
+StockItem_EnergyDrink	元氣飲料
+StockItem_EnergyDrink_Multiple	元氣飲料
+StockItem_MaxTomato	M番茄
+StockItem_MaxTomato_Multiple	M番茄
+StockItem_Food1	汽車塞滿嘴蛋糕
+StockItem_Food1_Multiple	汽車塞滿嘴蛋糕
+StockItem_Food2	卡比漢堡
+StockItem_Food2_Multiple	卡比漢堡
+StockItem_LifeUp	生命提升
+StockItem_LifeUp_Multiple	生命提升
+StockItem_StrengthUp	攻擊提升
+StockItem_StrengthUp_Multiple	攻擊提升
+StockItem_SpeedUp	速度提升
+StockItem_SpeedUp_Multiple	速度提升
+StockItem_Generic	庫存道具
+FoodDinner_Steak	牛排
+FoodDinner_Steak_Multiple	牛排
+FoodDinner_Canned	罐頭
+FoodDinner_Canned_Multiple	罐頭
+FoodDrink_CanJuice	罐裝果汁
+FoodDrink_CanJuice_Multiple	罐裝果汁
+FoodDrink_CupJuice	杯裝果汁
+FoodDrink_CupJuice_Multiple	杯裝果汁
+FoodSweets_Chocolate	板塊巧克力
+FoodSweets_Chocolate_Multiple	板塊巧克力
+FoodSweets_IceCream	雪糕
+FoodSweets_IceCream_Multiple	雪糕
+FoodJunk_Popcorn	爆米花
+FoodJunk_Popcorn_Multiple	爆米花
+FoodJunk_Potato	薯條
+FoodJunk_Potato_Multiple	薯條
+FoodDinner_BreadB	法國麵包
+FoodDinner_BreadB_Multiple	法國麵包
+FoodDinner_Onigiri	飯糰
+FoodDinner_Onigiri_Multiple	飯糰
+FoodDinner_Omelet	歐姆蛋
+FoodDinner_Omelet_Multiple	歐姆蛋
+FoodDinner_Meat	帶骨肉
+FoodDinner_Meat_Multiple	帶骨肉
+FoodDinner_RoastChicken	烤雞
+FoodDinner_RoastChicken_Multiple	烤雞
+FoodDinner_Sushi	壽司
+FoodDinner_Sushi_Multiple	壽司
+FoodDrink_MilkPack	牛奶
+FoodDrink_MilkPack_Multiple	牛奶
+FoodDrink_Babybottle	奶瓶
+FoodDrink_Babybottle_Multiple	奶瓶
+FoodDrink_Coffee	咖啡
+FoodDrink_Coffee_Multiple	咖啡
+FoodDrink_MelonSoda	冰淇淋汽水
+FoodDrink_MelonSoda_Multiple	冰淇淋汽水
+FoodFruit_Mikan	蜜柑
+FoodFruit_Mikan_Multiple	蜜柑
+FoodFruit_Melon	哈密瓜
+FoodFruit_Melon_Multiple	哈密瓜
+FoodFruit_Banana	香蕉
+FoodFruit_Banana_Multiple	香蕉
+FoodFruit_WaterMelon	西瓜
+FoodFruit_WaterMelon_Multiple	西瓜
+FoodFruit_Cherry	櫻桃
+FoodFruit_Cherry_Multiple	櫻桃
+FoodJunk_Hotdog	熱狗
+FoodJunk_Hotdog_Multiple	熱狗
+FoodJunk_Hamburger	漢堡
+FoodJunk_Hamburger_Multiple	漢堡
+FoodJunk_Takoyaki	章魚燒
+FoodJunk_Takoyaki_Multiple	章魚燒
+FoodLight_Friedegg	荷包蛋
+FoodLight_Friedegg_Multiple	荷包蛋
+FoodSweets_IceCandy	巧克力冰棒
+FoodSweets_IceCandy_Multiple	巧克力冰棒
+FoodSweets_Doughnut	甜甜圈
+FoodSweets_Doughnut_Multiple	甜甜圈
+FoodSweets_Makaron	馬卡龍
+FoodSweets_Makaron_Multiple	馬卡龍
+FoodSweets_ShortCake	草莓蛋糕
+FoodSweets_ShortCake_Multiple	草莓蛋糕
+FoodSweets_SoftCream	冰淇淋
+FoodSweets_SoftCream_Multiple	冰淇淋
+FoodSweets_Pudding	布丁
+FoodSweets_Pudding_Multiple	布丁
+FoodVegetable_Carrot	紅蘿蔔
+FoodVegetable_Carrot_Multiple	紅蘿蔔
+FoodVegetable_Corn	玉米
+FoodVegetable_Corn_Multiple	玉米
+FoodVegetable_Greenpepper	青椒
+FoodVegetable_Greenpepper_Multiple	青椒
+FoodVegetable_Pumpkin	南瓜
+FoodVegetable_Pumpkin_Multiple	南瓜
+FoodVegetable_Tomato	番茄
+FoodVegetable_Tomato_Multiple	番茄
+Food_Generic	食物
+CoinStar	硬幣星
+CoinStar_Multiple	硬幣星
+RarePiece	稀有石
+RarePiece_Multiple	稀有石
+Name\MgameBallDifficultyName.msbt
+NormalLv1	{[0104|8500]}
+NormalLv2	{[0104|8500]}{[0104|8500]}
+NormalLv3	{[0104|8500]}{[0104|8500]}{[0104|8500]}
+HardLv1	激難{[0106|8600]}
+HardLv2	激難{[0106|8600]}{[0106|8600]}
+HardLv3	激難{[0106|8600]}{[0106|8600]}{[0106|8600]}
+Name\MgameBallDifficultyStar.msbt
+NormalLv1	{[0103|8200]}
+NormalLv2	{[0103|8200]}{[0103|8200]}
+NormalLv3	{[0103|8200]}{[0103|8200]}{[0103|8200]}
+HardLv1	{[0105|8400]}
+HardLv2	{[0105|8400]}{[0105|8400]}
+HardLv3	{[0105|8400]}{[0105|8400]}{[0105|8400]}
+Name\MgameFoodDifficultyName.msbt
+Easy	簡單打工
+Normal	忙碌打工
+Hard	極限打工
+Name\MgameFoodModeName.msbt
+SoloEasy	一人 簡單打工
+SoloNormal	一人 忙碌打工
+SoloHard	一人 極限打工
+MultiEasy	兩人 簡單打工
+MultiNormal	兩人 忙碌打工
+MultiHard	兩人 極限打工
+Name\MovieName.msbt
+SimpleCredit	製作人員名單
+StoryOpening	卡比\n和神秘漩渦
+FirstCarDeform	不可思議！\n塞滿嘴變形
+Level0ToTown	WELCOME TO THE\nNEW WORLD！
+FollowWaddleDee	那些瓦豆們\n也來到這個世界
+TownAttacked	小鎮也被破壞\n大掠奪
+MeetSupportChara	我是艾菲靈
+AppearBossGorilla	在購物中心\n迴響的吼聲
+AppearMetaKnight	劍的對手\n也來到這個世界
+AppearWhispyPalm	恐怖的熱帶
+AppearLeopard	危險的\n馬戲團表演
+AppearDedede	意想不到的\n野獸王
+AfterBeatDedede	悲傷的卡比
+AppearBossArmadillo	不眠谷的\n收藏家
+AppearDededeWild	沉澱於思想的\n蒙面
+AfterBeatDededeWild	該本大爺……\n出場了吧！
+LaboratoryElevator	緊張刺激的\n發現夢幻遊覽
+LaboratoryElevator__SingleLine	緊張刺激的發現夢幻遊覽
+AppearBossLion	統率星球的頂點
+AfterBeatBossLion	轉化‧幼態延續
+AppearBossChimera	ID-F86
+AfterBeatBossChimera	再會的雙子
+AppearBossChimeraPerfect	完美\n生命形態
+AppearPopStar	這個世界也是、\n那個世界也是
+DumpTruckAttack	無敵的\nGOODBYE！
+StoryEnding	飛翔的決心～\nNo night lasts forever
+NormalCredit	結局
+EstoryOpening	前往幻夢的絕島
+AppearBossLionEx	沉睡牢籠的獅王
+AppearBossLionSoul	迸發出的思想
+AppearMorphoKnight	那個夢蝶\n也來到這個絕島
+EstoryEnding	卡比\n和大家的心願
+EstoryCredit	真 結局
+AppearBossChimeraPerfectSoul	侵蝕星球的新物種
+AfterBeatBossChimeraPerfectSoul	找尋\n善良之光
+Name\MusicName.msbt
+OneShot_K15_DemoOpening1	卡比和神秘漩渦
+Loop_K15_Grassland1	穿越新世界
+OneShot_K15_DemoDeformFirstTime1	不可思議！塞滿嘴變形
+OneShot_K15_TitleDemo1	WELCOME TO THE NEW WORLD！
+OneShot_K15_DemoAttackTown1	小鎮也被破壞大掠奪
+Loop_K15_Cave1	穿過隧道
+Loop_K15_HalRoom1	秘密區域：HAL房間
+Loop_K15_Shopping1	一起去阿萊布爾購物中心吧
+OneShot_K15_PreBoss	恐怖野獸的味道
+Loop_K15_Boss1	VS. 危險野獸
+Loop_K15_Beach1	游泳吧！廣闊海灘
+Loop_K15_Glider1	BLUE BLUE BREEZE
+Loop_K15_Cave2	順流地下水道
+Loop_K15_Park1	歡迎光臨驚奇樂園
+Loop_K15_Park4	賽道GO！
+Loop_K15_Park3	驚嚇鬼屋
+Loop_K15_Park5	漆黑恐怖
+Loop_K15_Park2	驚奇樂園巡遊之夢
+Loop_K15_Snow2	北邊的白色街道
+Loop_K15_Snow1	極冷‧捷運
+Loop_K15_Bridge1_Stest	暴風雪橋梁之戰
+OneShot_K15_PreBossDedede	意想不到的野獸王
+Loop_K15_BossDedede1	帝帝帝的呼喊
+Loop_K15_Desert1	生命起源大荒野
+Loop_K15_Desert2	漆黑山谷
+Loop_K15_Canyon1	月光峽谷
+Loop_K15_VolcanoGrassland	前往熱燙燙禁區
+Loop_K15_PowerPlant1	資源能量工廠
+Loop_K15_HalRoom2	秘密區域：HAL房間２
+Loop_K15_VolcanoNewWorld	決戰！野獸軍團包圍網
+Loop_K15_BossMaskedDedede1	BAD MASKED WILD：D.D.D.
+OneShot_K15_BossMaskedDededeAfter1	該本大爺……出場了吧！
+OneShot_K15_LaboElevatorDemo1_Stest	緊張刺激的發現夢幻遊覽
+Loop_K15_BossLionPreBattleDemo1	統率星球的頂點
+Loop_K15_BossLion1_Stest	氣勢磅礡的獅群咆哮
+Loop_K15_PreClearDanceLv7	艾菲靈
+OneShot_K15_BossLionAfter1	轉化‧幼態延續
+Loop_K15_BossChimera1	追獸
+OneShot_K15_DemoAfterBossChimera1	再會的雙子
+Loop_K15_BossChimeraPerfect_Stest	總有一天雙星會到達洛希極限
+Loop_K15_BossChimeraPerfectAfter1	這個世界也是、那個世界也是
+Loop_K15_Tsubazeriai1	無敵的GOODBYE NEW WORLD！
+OneShot_K15_DemoEnding1	飛翔的決心～No night lasts forever
+Loop_K15_EstoryShopping1	褪色的感應夢
+Loop_K15_EstoryConga1	在靈魂散落的忘卻絕島
+Loop_K15_BossEx1	VS. 形象化的思想之戰
+Loop_K15_EstoryPreLion_Stest	時光碰撞殘響的永恆之旅啊
+Loop_K15_MorphoKnight1	冥蝶騎士
+OneShot_K15_EstoryEnding1	卡比和大家的心願
+Loop_K15_SimpleCredit1	來自已往宇宙出發的人們
+OneShot_K15_Credit1	WELCOME TO THE NEW WORLD！
+OneShot_K15_Credit1_sub	（Full）
+OneShot_K15_NewWorldOffVocal1	WELCOME TO THE NEW WORLD！
+OneShot_K15_NewWorldOffVocal1_sub	（Bonus Track）
+Loop_K15_CstageGrassland	初始的寶藏
+Loop_K15_CstageYakiimo	眼花繚亂的寶藏
+Loop_K15_CstageNewWorld	被遺忘的寶藏
+Loop_K15_RoomGuarder_Stest	掠奪野獸之戰
+Loop_K15_BossMetaknight1	SURVIVAL SWORD BOUNCER
+Loop_K15_TitleNewWorld1	準備好了嗎
+OneShot_K15_ChimeraSoulAfter1	找尋善良之光
+OneShot_K15_Dead1	戰敗
+OneShot_K15_KirbyDanceShort	卡比跳舞／短
+OneShot_K15_KirbyDanceLong	卡比跳舞／長
+Loop_K15_StageResult	狂野結果
+Loop_K15_PreClearDance	過關之聲
+OneShot_K15_TimeLimitJingle_Stest	時間競速！
+Loop_K15_Invincible1	彩虹棒棒糖
+OneShot_K15_FanfareNewWorldL1	100％ NEW WORLD！
+Loop_K15_TownNewWorld1	瓦豆魯迪小鎮
+Loop_K15_TownNewWorld2	熱鬧的和平城鎮
+Loop_K15_TownStore1	瓦豆魯迪武器店的老闆
+Loop_K15_KirbyHouse1	歡迎回來卡比
+OneShot_K15_JingleSleep1	午睡中
+Loop_K15_MovieTheater1	不要吸入前面的人
+Loop_K15_FoodShopNormal	一起喝飲料？
+Loop_K15_FoodShopLunchTime	渴望午餐！一群哇呀
+Loop_K15_RollingBall1	滾啊滾啊！滾球卡比
+Loop_K15_RollingBall2	激難！滾球卡比
+Loop_K15_FigureCollection1	看著扭蛋機
+Loop_K15_FigureCollectionComplete1	發現全部！扭蛋機大師
+Loop_K15_ArenaRestRoom_Novice1	休息室
+Loop_K15_ArenaRestRoom_Normal1	冠軍休息室
+Loop_K15_ArenaFight1_Stest	戰鬥吧終極
+Loop_K15_ArenaRestRoom_TrueArena1	更進一步的王道
+Loop_K15_ArenaFight2_Stest	決戰的終極Z
+Loop_K15_ArenaGameOverNormal1	明天再努力
+Loop_K15_ArenaGameOverTrueArena1	明天再努力……耶！
+Loop_K15_ArenaResultNormal1	訪談
+Loop_K15_ArenaResultTrueArena1	英雄訪談
+Loop_K15_WorldMap1	自然草原
+Loop_K15_WorldMap2	蔚藍海岸
+Loop_K15_WorldMap3	驚奇樂園遺址
+Loop_K15_WorldMap4	雪白角峰
+Loop_K15_WorldMap5	原始荒野大地
+Loop_K15_WorldMap6	紅通通禁區
+Loop_K15_WorldMapEstory	絕島幻夢‧遺忘
+Loop_K15_BossLionRoomGuarder1	野獸的餌食
+Name\PowerUpItemName.msbt
+LifeUp	生命提升
+StrengthUp	攻擊提升
+SpeedUp	速度提升
 Name\StageName.msbt
 Level0Stage1	初始之地
 Level1Stage1	草原建築
+Level1Stage2	穿過隧道
+Level1Stage3	滾石道路
+Level1Stage4	一起去阿萊布爾購物中心吧
 Level1Stage5	在購物中心迴響的吼聲
+Level2Stage1	游泳吧！廣闊海灘
+Level2Stage2	混凝土群島
+Level2Stage3	登上方塊山丘
+Level2Stage4	順流地下水道
+Level2Stage5	恐怖的熱帶
+Level3Stage1	歡迎光臨驚奇樂園
+Level3Stage2	賽道GO！
+Level3Stage3	驚嚇鬼屋
+Level3Stage4	驚奇樂園巡遊之夢
+Level3Stage4__SingleLine	驚奇樂園巡遊之夢
+Level3Stage5	危險的馬戲團表演
+Level4Stage1	北邊的白色街道
+Level4Stage2	極冷‧捷運
+Level4Stage3	冰冷的海與風
+Level4Stage4	暴風雪橋梁之戰
+Level4Stage5	意想不到的野獸王
+Level5Stage1	生命起源大荒野
+Level5Stage2	尋求滋潤
+Level5Stage3	秘‧阿萊布爾購物中心
+Level5Stage4	月光峽谷
+Level5Stage5	不眠谷的收藏家
+Level6Stage1	前往熱燙燙禁區
+Level6Stage2	前往烈火之道
+Level6Stage3	資源能量工廠
+Level6Stage4	幹部招集
+Level6Stage5	決戰！野獸軍團包圍網
+Level6Stage6	王的御前
+Level7Stage1	實驗室‧摸索發覺

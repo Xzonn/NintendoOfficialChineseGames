@@ -1,8 +1,186 @@
+AbilityList.msbt
+$TownAbilityListAttackText	攻击力
+$TownAbilityListMultiTapText	连射力
+$TownAbilityListTitleText	进化种类
+Btn_Set	设定
+Btn_Evolution	进化
+Btn_Strengthen	强化
+Blueprint_Name	{[0309|0000]}设计图
+CopyAbility_StrengthenedName	{[0309|0000]}{[0109|0200]}{[0301|0000]}
+$TownAbilityListBlueprintDetailText	进化所需物品
+$AbilityListDuringSetText	设定中
+CopyAbility_Detail_Bomb	长按按键瞄准后丢出炸弹。\n拿了就丢，砰砰作响的烟火！\n一边跑一边丢，让炸弹在地上滚动，\n从坡道上滚啊滚地来个全倒！
+CopyAbility_Detail_ChainBomb	连锁也就是连锁发动的炸弹！\n长按进行瞄准后丢出炸弹布局，\n引爆后就会产生连锁反应，砰砰砰地爆炸！\n相连的炸弹越多伤害也会越高！
+CopyAbility_Detail_SearchBomb	更加新型的行走炸弹！\n炸弹丢出后会自动搜索敌人，\n一旦发现敌人就会锁定目标突进！\n还会以连锁炸弹追击敌人！
+CopyAbility_Detail_Crash	引发大爆炸吧！\nDANGER DANGER的终极武器！\n长按按键变得更～加DANGER，\n波及四周，360度全方位无死角！
+CopyAbility_Detail_TimeCrash	这不会就是终极武器了吧？\n连时间都能操控的新武器！\n将这个世界的一切都变成慢动作，\n而自己快速行动，破坏一切！
+CopyAbility_Detail_Cutter	掷出嗡嗡作响的回旋刀刃吧！\n掷出后又回到手上，获得道具了。\n长按按键蓄力就会停在空中哦。\n滞空蓄力，威力也会跟着提升！
+CopyAbility_Detail_ChakramCutter	居然是弯刀二刀流！\n操纵着两轮圆月，\n交替投掷，劈砍四周。\n在空中嗡嗡作响，交错纷飞的圆月弯刀！
+CopyAbility_Detail_MetalCutter	出招吧！投掷出去吧！金属弯刀！\n不但射程更远，威力也更加提升。\n命中墙壁就会锵锵作响，\n善用反弹，使射程更远一些吧！
+CopyAbility_Detail_Drill	钻击挖啊挖，在地底前进，\n似乎还能潜入地底躲避敌人的攻击！\n只要在地底潜行，继续前进，\n原本到不了的地方也能顺利潜入！
+CopyAbility_Detail_PencilDrill	具有独特设计，极具个性的钻击！\n超大的铅笔虽然没办法写字，\n却可以挖掘大地，潜入地底再窜出来。\n射击吧！发射吧！铅笔火箭！
+CopyAbility_Detail_TwinDrill	使用双重钻击进行攻击吧！\n具有只要在敌人下方的地底潜行\n就可以迅速打倒敌人的优秀能力！\n不但速度提升了，伤害也提升了！
+CopyAbility_Detail_Fire	烈火——！好烫！真的好烫！\n这熊熊燃烧的火焰之力，\n连导火线也能点燃，烫烫烫！\n使用冲刺突进，燃烧吧！
+CopyAbility_Detail_VolcanoFire	轰地一声，火山要爆发了！\n大地的地热造就了威力强大的烈火！\n砰砰砰地发射岩浆子弹，\n命中目标后连大地也熊熊燃烧化作焦土！
+CopyAbility_Detail_DragonFire	奇幻的怪物终于现身了！\n呼出吐息宛如火焰喷射器，\n释放燃烧攻击时会拍动翅膀！\n长按时就像龙在空中滑翔飞舞！
+CopyAbility_Detail_Hammer	威力超群，强而有力的锤子。\n虽然攻击距离短了一点点，\n却能够把桩和敌人都打扁！\n长按进行蓄力，必杀技……鬼杀！
+CopyAbility_Detail_ToyHammer	会发出哔哔声，非常可爱的锤子。\n但这可不是玩具哦！\n无论是桩还是敌人都会被打得扁扁的，\n连续攻击能力也一举获得提升！
+CopyAbility_Detail_RockHammer	又重又坚硬，狂野无比的锤子！\n虽不太具备连续攻击的能力……\n但一锤敲落，便可释放出让大地龟裂，\n十分疼痛的一击，造成巨大的伤害！
+CopyAbility_Detail_DededeHammer	自称大王的那位所拿的锤子！\n变身狂野蒙面侠后，\n用双手使出威力十足的强势攻击！\n就用这最强的锤子，来……上吧！
+CopyAbility_Detail_Ice	好冷哦～！使用吐息，呼～呼～呼～\n把冰块踢飞吧！\n使用溜冰冲刺轻快地移动，\n不论在泥沼还是岩浆上都能迅速冲刺！
+CopyAbility_Detail_FrostyIce	戴着可爱帽子的冰霜冰冻。\n呼～呼～吹出吐息，\n创造出一个又一个雪人。\n哎呀，长相都一模一样呢！
+CopyAbility_Detail_BlizzardIce	带来严寒暴雪的暴风雪！\n帅气的帽子是冰之头冠。\n不断吹出寒冰吐息，并使用冰锥进行攻击。\n这就是最强的冰冻能力！
+CopyAbility_Detail_Needle	滚来滚去～滚来滚去～\n利用碰到会很～痛的尖刺攻击敌人！\n刺中并卷入星星或敌人，\n“嘭”地放开，撞向四周吧！
+CopyAbility_Detail_JunkNeedle	使用废品素材连续戳刺，\n碰到滚动的针刺可是会很痛的哦！\n砰地发射后，无数废品刺\n便会飞向四周，好痛好痛！
+CopyAbility_Detail_CrystalNeedle	由天然素材构成，硬邦邦的水晶。\n只要一释放，水晶就会四处飞散！\n滚动的时间也会变得更～长，\n在地上留下尖刺陷阱吧！
+CopyAbility_Detail_Ranger	星星子弹发射！\n闪耀光芒的射击，射程可是很远的哦。\n戴上威风凛凛的探险帽，\n选定目标后蓄力，发射！
+CopyAbility_Detail_EliteRanger	头戴贵族帽子，造型华丽的探巡队。\n双手各拿着连发枪！\n蓄力射击也变成连续射击，\n不放过任何目标，一定会命中红心！
+CopyAbility_Detail_SpaceRanger	飞向宇宙吧！太空探巡队！\n用镭射枪发射镭射光束吧！\n闪耀光芒的子弹只要击中敌人\n就能造成连续命中，伤害也会倍增！
+CopyAbility_Detail_Sleep	再睡1分钟……Zzz……\n让我……再睡一会嘛……好困……Zz……\n睡觉期间……会回复……一点点……\nZz……Zz……z……
+CopyAbility_Detail_DeepSleep	迷迷糊糊……Zzz……\n走向……床边……钻进被窝……Zz……\n起床以后……会拿出……真本事的……\nZz……Zz……z……
+CopyAbility_Detail_Sword	戴着绿色帽子的剑之勇者\n朝着新世界前进！\n不但能斩断各种东西，还能累积威力，\n目标是成为新·世界的利剑大师！
+CopyAbility_Detail_GigantSword	巨大的利剑真不愧庞大利剑之名！\n有点重，所以拿起来很辛苦，\n但防御堪称铁壁！能够架起盾牌，\n缓慢前进保护自己并不断进攻！
+CopyAbility_Detail_MetaSword	握上魅塔骑士利剑，宛如对手魅塔骑士一般！\n体力足够时还能释放射击。\n滑垒后用跳跃向上跃起使出连击，\n帅气地决定胜负！
+CopyAbility_Detail_MorphoSword	在决战中为执行审判而现身的梦蝶。\n虽然这是模仿了其外型、令人畏惧的红色能力，\n不过卡比就连噩梦都能一口吞掉，\n应该很轻易就能熟练使用这项能力吧。
+CopyAbility_Detail_Tornado	转啊转，转啊转地转个不停！\n别具特色的操作让人头昏眼花，\n但不论是敌人、方块还是星星都能卷起，\n旋转后放开造成伤害！
+CopyAbility_Detail_SwanTornado	更加优雅，更加美丽。\n虽柔软但威力却提升了！\n利用风和羽毛将敌人卷入，\n使出芭蕾般的舞蹈，华丽地进行攻击！
+CopyAbility_Detail_StormTornado	危险的龙卷风，雷声隆隆的风暴！\n暴风再加上轰鸣声，\n雷鸣响起，狂雷电击！\n使用风与电的双重攻击来进攻吧！
+CopyAbility_MaxStrengthenedName	{[0309|0000]}{[0109|0200]}{[010a|0300]}
 AdviceWindow.msbt
 Msg_DeformWithAbility	{[1905|04cd]}看来似乎可以{color[ff4d2fff]}不舍弃{color[000000ff]}复制能力\n就使用塞满嘴呢。{[0004]}试着保持现有能力，\n按{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}吸入看看吧！
 Msg_NoticeDropStarVacuum	{[1907|00cd]}敌人发动攻击时所{color[ff4d2fff]}掉落的星星{color[000000ff]}\n似乎可以通过{color[ff4d2fff]}按{[0701|0100]}吸入后{color[000000ff]}，{color[ff4d2fff]}\n再按一次{[0701|0100]}{color[000000ff]}来吐出哦。{[0004]}没有复制能力的时候，\n就吐出掉落的星星射向敌人吧！
+Msg_GuideToBlueprint	{[1402]}{[1903|00cd]}先等一下！\n你还没拿{color[ff4d2fff]}设计图{color[000000ff]}呢。{[0004]}设计图是很重要的，\n{color[ff4d2fff]}别忘了拿哦{color[000000ff]}。
+Msg_UseStockItemAtPinch	{[1905|05cd]}{[1402]}卡比小心，体力只剩下一点了！\n{color[ff4d2fff]}长按{[0702|0200]}{color[000000ff]}来使用持有的道具吧！
+Msg_EstorySoulCompleted	{[1907|01cd]}这么一来，这附近的狮王的灵魂\n{color[ff4d2fff]}好像都已经找到了{color[000000ff]}呢。继续前进吧！
+Msg_ManyRetryAtBoss_ExistNotPassedBlueprint	{[1909|00cd]}对了，卡比！\n说起来，你之前拿到了{color[ff4d2fff]}设计图{color[000000ff]}对吧。{[0004]}那就前往小镇上的{color[ff4d2fff]}瓦豆鲁迪武器店{color[000000ff]}，\n试着进化出更强大的能力吧！
+Msg_ManyRetryAtBoss_UsedCopyAbilityAbleToEvolution	{[1909|00cd]}对了，卡比！\n你刚才在战斗中所使用的\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力好像可以{color[ff4d2fff]}进化{color[000000ff]}了哦。{[0004]}试着使用进化后的{color[ff4d2fff]}强大能力{color[000000ff]}\n去挑战魔王吧！
+Msg_ManyRetryAtBoss_CopyAbilityAbleToUseEvoluted	{[1909|00cd]}对了，卡比！\n{color[ff4d2fff]}进化{color[000000ff]}后的复制能力\n似乎非常{color[ff4d2fff]}强大{color[000000ff]}哦。{[0004]}既然有各式各样的能力，\n试着使用{color[ff4d2fff]}别的能力{color[000000ff]}来战斗\n或许也是不错的选择呢！
+Msg_ManyRetryAtBoss_GuideToFoodShop_01	{[1909|00cd]}对了，卡比！\n你有在使用{color[ff4d2fff]}库存道具{color[000000ff]}吗？\n只要{color[ff4d2fff]}长按{[0702|0200]}{color[000000ff]}，就算在战斗中也能使用哦。
+Msg_ManyRetryAtBoss_GuideToFoodShop_02	使用食物类的库存道具\n还可以{color[ff4d2fff]}回复{color[000000ff]}体力呢。{[0004]}只要前往小镇的{color[ff4d2fff]}瓦豆鲁迪咖啡店{color[000000ff]}，\n随时都可以购买！
+Arena.msbt
+$ArenaEntryFirstRewardText	首次过关\n报酬
+$ArenaEntrySubtitle1Text	报酬
+ArenaPlayer_Single_Text	单人
+ArenaPlayer_Multi_Text	双人
+ArenaEntry_ScoreTitle_Text	{[0302|0000]} 最佳时间
+ArenaEntry_ChangeRankToSingle_Text	切换为单人
+ArenaEntry_ChangeRankToMulti_Text	切换为双人
+$ArenaEntryEraseRecordText	删除记录
+$ArenaEntryRank1stText	1
+$ArenaEntryRank2ndText	2
+$ArenaEntryRank3rdText	3
+ArenaEntry_RestBattleCount_Text	剩余 {[0301|0000]}战
+$ArenaEntryBtnText	参加
+ArenaEntry_BattleCountTitle_Text	共{[0301|0000]}战
+ArenaRevival_ReMatch_Text	要从第{[0301|0000]}战开始重试吗？
+ArenaRevival_RevivalBtn_Text	消耗{[0100|8000]}{[0301|0000]}重试
+$ReavivalBtnFromTheFirst	从头重新开始
+$ReavivalBtnGiveUp	放弃
+$ArenaResultGameOverTitleHeadText	第
+$ArenaResultGameOverTitleText	战败退……
+ArenaResult_ScoreTitle_Text	{[0302|0000]} 最佳时间
+$ArenaResultRecordText	新纪录！
+$More	还有
+$Final	最终战
+$Games	战
+$Next	NEXT
+ArenaLive_FirstBattleStart_01	{[1b00|00cd]}{[1401]}好！终于要开始了！\n让我们欢迎卡比选手入场～！
+ArenaLive_FirstBattleStart_02	{[1b00|00cd]}{[1401]}欢迎粉红色挑战者！\n卡比选手登场～！
+ArenaLive_FirstBattleStart_03	{[1b00|00cd]}{[1401]}欢迎关注度排行第1名！\n卡比选手入场～！
+ArenaLive_NormalBattleStart_01	{[1b00|00cd]}{[1401]}卡比选手令人热血沸腾的战斗\n炒热了整个赛场的气氛！
+ArenaLive_NormalBattleStart_02	{[1b00|00cd]}{[1401]}究竟卡比选手能持续获胜到第几战呢？\n真是越来越令人期待了！
+ArenaLive_NormalBattleStart_03	{[1b00|00cd]}{[1401]}整个赛场就像在为卡比选手\n加油一样欢声雷动～！
+ArenaLive_NormalBattleStart_04	{[1b00|00cd]}{[1401]}以优胜为目标，继续前进吧！\n卡比选手！
+ArenaLive_NormalBattleStart_05	{[1b00|00cd]}{[1401]}不愧是卡比选手，气势十足！\n他如此强大的秘诀究竟是什么呢！
+ArenaLive_NormalBattleStart_06	{[1b00|00cd]}{[1401]}卡比选手在下一场战斗中，\n又会展开怎样激烈的战斗呢！？
+ArenaLive_NormalBattleStart_07	{[1b00|00cd]}{[1401]}卡比选手华丽的战斗\n让人连1秒都无法移开视线！！
+ArenaLive_NormalBattleStart_08	{[1b00|00cd]}{[1401]}赛场的欢呼声完全停不下来！\n连我都克制不住地跟着兴奋起来啦——！
+ArenaLive_NormalBattleStart_09	{[1b00|00cd]}{[1401]}大家的英雄——卡比选手！\n精彩的战斗还在持续进行！
+ArenaLive_NormalBattleStart_10	{[1b00|00cd]}{[1401]}卡比选手战斗时令人赞叹的英姿，\n让观众都看出神了呢～！
+ArenaLive_NormalBattleStart_11	{[1b00|00cd]}{[1401]}继精彩的各种招式之后……\n卡比选手还会让我们见识到怎样的招式呢！？
+ArenaLive_LastBattleStart_01	{[1b00|00cd]}{[1401]}令人热血沸腾的战斗也将进入高潮～！\n直到最后都不容错过～！
+ArenaLive_LastBattleStart_02	{[1b00|00cd]}{[1401]}最后的战斗终于要开始了！\n赛场的气氛……也来到最高点——！
+ArenaLive_LastBattleStart_03	{[1b00|00cd]}{[1401]}终于迎来最后一场战斗了！\n胜利的女神会对谁露出微笑呢！？
+ArenaLive_BossBattleExtraLobby01_01	{[1b01|00cd]}虽然实况的播报声无法传进神秘空间中……\n但我会在这个房间等你的！！
+ArenaLive_BossBattleExtraLobby01_02	{[1b01|00cd]}听说神秘空间里有一群非常厉害的家伙……\n虽然实况声只能传到这个房间为止，但你也要加油哦！
+ArenaLive_BossBattleExtraLobby01_03	{[1b01|00cd]}虽然我们无法前往神秘空间……\n但我们会在这个房间里等你平安归来的！！
+ArenaLive_BossBattleExtraLobby02	{[1401]}{[1b01|02cd]}即使在神秘空间中战斗也无所畏惧！\n不愧是一路过关斩将的粉红色英雄！
+ArenaLive_BossBattleExtraLobby03	{[1401]}{[1b01|02cd]}虽然似乎经历了一场惊险的战斗，但你平安无事呢。\n继续以优胜为目标奋战吧！！
+ArenaLive_BossBattleExtraLobby04	{[1401]}{[1b01|02cd]}卡比选手，你的状态似乎很不错呢！\n请保持下去，继续努力吧！
+ArenaLive_BossBattleExtraLobby05	{[1b01|00cd]}我想这一定是场艰难的战斗……\n休息也是很重要的哦！
+ArenaLive_BossBattleExtraLobby06	{[1b01|00cd]}不愧是拥有“粉红色恶魔”称号的卡比选手，\n真可谓是身经百战啊！
+ArenaLive_BossBattleExtraLobby07	{[1401]}{[1b01|02cd]}卡比选手，状态很不错哦！\n请做好准备，下一场战斗也要加油哦！！
+ArenaLive_BossBattleExtraLobby08	{[1b01|00cd]}卡比选手，千万不要大意了。\n接下来还会遇到更加可怕的对手哦！
+ArenaLive_BossBattleExtraLobby09	{[1b01|00cd]}接下来敌人的强度也会显著提升哦！\n重整态势，继续加油吧！
+ArenaLive_BossBattleExtraLobby10	{[1b01|00cd]}不愧是粉红色恶魔……\n看来取得优胜并不是白日做梦！
+ArenaLive_BossBattleExtraLobby11	{[1401]}{[1b01|02cd]}上吧，卡比选手！\n你一定能够获得胜利的！
+ArenaLive_BossBattleExtraLobby12_01	{[1b01|00cd]}终……终于来到最终决战了～！\n祝你旗开得胜！！
+ArenaLive_BossBattleExtraLobby12_02	{[1401]}{[1b01|02cd]}你克服了困难重重的诸多战斗……\n下一场就是最终决战了！加、加油啊～！！
+ArenaLive_BossBattleExtraLobby12_03	{[1401]}{[1b01|02cd]}终于下一场就是最终决战了……\n我相信你一定会平安回来的！！
+ArenaLive_KirbyPinch_01	{[1b00|01cd]}{[1402]}这下糟糕了！！\n卡比选手快被击倒啦！
+ArenaLive_KirbyPinch_02	{[1b00|01cd]}{[1402]}卡比选手！状况岌岌可危！\n他到底能不能撑下去呢！？
+ArenaLive_KirbyPinch_03	{[1b00|01cd]}{[1402]}卡比选手情势险峻！\n他会就这样被打倒吗！？
+ArenaLive_BossAngry_01	{[1b00|01cd]}喔！对手也终于要拿出真本事了吗！？\n别输给对方啊，卡比选手！
+ArenaLive_BossAngry_02	{[1b00|01cd]}战斗也进入后半阶段了！！\n接下来的战斗也不容错过！
+ArenaLive_BossAngry_03	{[1b00|01cd]}卡比选手的攻击见效了！\n对手接下来也要拿出真本事了吗！？
+ArenaLive_SelectRevivalCount1	{[1b01|00cd]}卡比选手撑不住倒下了！\n他还能够站起来吗？
+ArenaLive_SelectRevivalCount2	{[1b01|00cd]}卡比选手又倒下了～！\n他还能够再次站起来吗！？
+ArenaLive_SelectRevivalCount3	{[1b01|00cd]}卡比选手越来越吃不消了吗？\n他还能继续战斗吗！？
+ArenaLive_SelectRevivalCount4	{[1b01|00cd]}已经连站起来都很吃力了吗？\n现在正是奋力一搏的时刻！！
+ArenaLive_SelectRevivalCount5	{[1b01|00cd]}卡比选手！难道离胜利越来越远了吗！？\n不！他一定能够获胜的！加油啊！！
+ArenaLive_BattleStartRevivalCount1	{[1b00|00cd]}{[1401]}卡比选手再次入场～！\n看来他还能再战上几回合！！
+ArenaLive_BattleStartRevivalCount2	{[1b00|00cd]}卡比选手！他还没放弃！\n看来这场战斗还是相当值得期待的呢！！
+ArenaLive_BattleStartRevivalCount3	{[1b00|00cd]}艰难的战斗一场接着一场呢！\n希望卡比选手还能再加把劲啊。
+ArenaLive_BattleStartRevivalCount4	{[1b00|00cd]}都走到这一步了，\n真希望卡比选手能取得优胜！加油啊！！
+ArenaLive_BattleStartRevivalCount5	{[1b00|00cd]}加油啊！卡比选手！\n我们会陪着你的！！
+ArenaLive_ExtraLobbyRevivalCount1	{[1b01|00cd]}卡比选手，你不要紧吧！？\n真正的战斗现在才要开始呢！
+ArenaLive_ExtraLobbyRevivalCount2	{[1b01|00cd]}卡比选手！现在还不是放弃的时候。\n就从这一战开始力挽狂澜吧！！
+ArenaLive_ExtraLobbyRevivalCount3	{[1b01|00cd]}虽然这场战斗十分艰辛，\n但你可不能轻言放弃啊，卡比选手！
+ArenaLive_ExtraLobbyRevivalCount4	{[1b01|00cd]}现在正是奋力一搏的时刻。\n加油啊！！卡比选手！！
+ArenaLive_ExtraLobbyRevivalCount5	{[1b01|00cd]}别认输啊，卡比选手！！\n我相信你一定能取得优胜的。
+ArenaLive_GameOverLv1_01	{[1402]}{[1b01|01cd]}真的是太可惜了……\n期待你下次再来挑战！
+ArenaLive_GameOverLv1_02	{[1402]}{[1b01|01cd]}卡比选手！\n你今天状态不好吗！？
+ArenaLive_GameOverLv1_03	{[1402]}{[1b01|01cd]}这次结果距离优胜还十分遥远。\n卡比选手，别认输！下次还有机会的！
+ArenaLive_GameOverLv2_01	{[1b01|00cd]}这次虽然输了，\n但下次一定要以优胜为目标加油哦！
+ArenaLive_GameOverLv2_02	{[1b01|00cd]}期待你今后的努力！\n看来只能多加训练了！
+ArenaLive_GameOverLv2_03	{[1b01|00cd]}虽然这次未能获得优胜，\n但我能感觉到你还有成长的空间！
+ArenaLive_GameOverLv3_01	{[1b01|00cd]}真可惜，都已经一路赢到这里了，\n这次败北实在令人惋惜！
+ArenaLive_GameOverLv3_02	{[1b01|00cd]}前面的表现还挺不错的，\n后面是不是有些累了呢？
+ArenaLive_GameOverLv3_03	{[1b01|00cd]}卡比选手，尽管你一路奋斗至此……\n可惜还是没能取得优胜啊！
+ArenaLive_GameOverLv4_01	{[1b01|00cd]}感觉只差一步就能取得优胜了。\n真让人期待你下次参赛的表现！
+ArenaLive_GameOverLv4_02	{[1b01|00cd]}战斗中虽然有不少令人惊艳的表现，\n但还是未能获得优胜啊……
+ArenaLive_GameOverLv4_03	{[1b01|00cd]}终于看到了优胜的曙光！\n还能听到充满期待的加油声。
+ArenaLive_GameOverLv5_01	{[1b01|00cd]}卡比选手！这实在太让人不甘心啦～！\n相信你下次绝对会获得优胜的！！
+ArenaLive_GameOverLv5_02	{[1b01|00cd]}距离获得优胜就只差一点点了！\n希望你不要放弃，下次再来挑战！
+ArenaLive_GameOverLv5_03	{[1b01|00cd]}没想到会在最后的最后遇上强敌……\n胜利明明就在眼前了！
+ArenaLive_ResultClearFirst_CartelOfMetaKnight	{[1401]}{[1b01|02cd]}没想到你竟然赢过了魅塔骑士选手！\n恭喜你获得了首次优胜～！
+ArenaLive_ResultClearFirst_BossBattle	{[1401]}{[1b01|02cd]}你的表现真是太出色了！\n粉红色英雄，恭喜你首次获得优胜～！
+ArenaLive_ResultClearFirst_BossBattleExtra	{[1401]}{[1b01|02cd]}你竟然能从那个空间平安归来……\n真不愧是来自波普之星的星之卡比～！！
+ArenaLive_ResultClear_01	{[1401]}{[1b01|02cd]}真是场激烈的战斗！\n期待你下次参加大赛时的表现～！
+ArenaLive_ResultClear_02	{[1401]}{[1b01|02cd]}真是场发挥稳定的战斗！\n这是精湛的战斗技巧带来的胜利！
+ArenaLive_ResultClear_03	{[1401]}{[1b01|02cd]}结果很不错！\n期待你下次也能获得优胜～！
+ArenaLive_ResultClearRankIn_01	{[1401]}{[1b01|02cd]}真是场精彩的战斗！\n期待你能够再次更新自己的过关时间！！
+ArenaLive_ResultClearRankIn_02	{[1401]}{[1b01|02cd]}你获得了不错的成绩哦！\n下次就以第1名的最佳记录为目标吧！！
+ArenaLive_ResultClearRankIn_03	{[1401]}{[1b01|02cd]}很可惜，这次未能更新第1名的最佳记录！\n不过依然是场精彩的战斗！！
+ArenaLive_ResultClearNewRecord_01	{[1401]}{[1b01|02cd]}卡比选手缔造出了\n前所未有的过关时间成绩！！
+ArenaLive_ResultClearNewRecord_02	{[1401]}{[1b01|02cd]}竟然更新纪录了！\n他以前所未有的成绩获得了优胜！
+ArenaLive_ResultClearNewRecord_03	{[1401]}{[1b01|02cd]}终于打破历史纪录了！\n恭喜你更新了最佳时间记录！！
+ArenaLive_ResultClear_BossBattleExtra_01	{[1401]}{[1b01|02cd]}那似乎是个很可怕的空间……\n恭喜你平安生还～！！
+ArenaLive_ResultClear_BossBattleExtra_02	{[1401]}{[1b01|02cd]}不愧是在这个世界和其他世界\n都所向无敌的卡比选手……恭喜你平安生还～！！
+ArenaLive_ResultClear_BossBattleExtra_03	{[1401]}{[1b01|02cd]}看来你也逐渐习惯在那个空间的战斗了！\n恭喜你平安生还！！
+ArenaLive_ResultClearRankIn_BossBattleExtra_01	{[1401]}{[1b01|02cd]}虽然是在那个可怕的空间战斗，\n但依然创下了出色的记录……不愧是星之卡比！！
+ArenaLive_ResultClearRankIn_BossBattleExtra_02	{[1401]}{[1b01|02cd]}这记录挺不错的呢！？\n果然不管在哪个空间，卡比选手都是所向无敌的！
+ArenaLive_ResultClearRankIn_BossBattleExtra_03	{[1401]}{[1b01|02cd]}卡比选手成功生还！！\n下次就以第1名的时间成绩为目标吧～！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_01	{[1401]}{[1b01|02cd]}无论是怎样的空间都能毫不畏惧挺身对抗，\n甚至创下了第1名的新纪录……！不愧是星之卡比！！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_02	{[1401]}{[1b01|02cd]}在那个空间里到底发生了怎样的战斗……\n星之卡比，以新纪录拿下了优胜！！
+ArenaLive_ResultClearNewRecord_BossBattleExtra_03	{[1401]}{[1b01|02cd]}在那个空间里到底发生了什么……！竟然创下了\n第1名的新纪录，不愧是我们的星之卡比！！
 Caption.msbt
-EventMoviePromotion	在正式版有更多冒险等待着你{[0004]}充满个性的复制能力尚未登场{[0004]}使用没见过的塞满嘴变形{[0004]}在被神秘包围的新世界四处前进！{[0004]}可以两人一起使用Joy-Con分享游玩！{[0004]}拯救瓦豆鲁迪后小镇便会蓬勃发展{[0004]}充满有趣商店！{[0004]}本作的复制能力会进化！{[0004]}将喜欢的复制能力提升威力吧！{[0004]}还有更多崭新的故事{[0004]}被抓走的瓦豆鲁迪们以及和同伴的相遇……{[0004]}来袭的神秘敌人野兽军团的侵略！{[0004]}卡比们可以平安无事地救出瓦豆鲁迪们{[0004]}并取回新世界的和平吗？{[0004]}最后等待着卡比的命运将是！？
+ElevatorDemoAnnounce	语言设定……自动……{[0004]}认证系统……运转……{[0004]}认证中……认证中……{[0004]}确认入馆代码。{[0004]}再次启动馆内导航。{[0004]}准备好了吗？{[0004]}科学研究所“实验室·摸索发觉”的{[0004]}紧张刺激的发现梦幻游览！{[0004]}那么最后，{[0004]}来介绍一下所谓的{[0004]}究极生命体“ID-F86”。{[0004]}自从ID-F86飞来这个行星后，{[0004]}便不断地对许多原生种{[0004]}进行侵略活动。{[0004]}研究对策队伍对其危险性感到不安，{[0004]}便捕获了这个对象。{[0004]}之后，这间研究所开始研究开发{[0004]}ID-F86所拥有的空间转移能力，{[0004]}如今，我们已掌握到{[0004]}行星之间传送技术的基础了！{[0004]}但是，研究开发后的第30年……{[0004]}却发生了那件历史性的传送实验事故。{[0004]}因为事故，从体内分离出的个体{[0004]}逃到了设施外面。{[0004]}直到现在还没找到。{[0004]}从那以后，ID-F86就再也没有{[0004]}重启任何活动，{[0004]}现在也被永久保存在{[0004]}这实验室·摸索发觉的最上层的{[0004]}永恒胶囊之中。{[0004]}那么，请看！{[0004]}究极生命体——ID-F86！
+ThemeSong	来吧　准备好了吗？{[0004]}已经看得到咯　NEW WORLD{[0004]}那是不可思议的梦幻国度　一起来玩吧{[0004]}尽管欢笑与哭泣　大口塞满嘴　吃饱睡午觉{[0004]}那是任谁也无法打扰　专属于你的FIELD{[0004]}就连那片天空也都是你的画布{[0004]}奔驰吧{[0004]}乘上你心所向的汽车{[0004]}风儿啊{[0004]}轻拂过耀眼的草原　欢迎来到NEW WORLD！{[0004]}
+ThemeSongLocalLyric	STRANGE HORIZON. READY TO GO.{[0004]}FEAST YOUR EYES ON A NEW WORLD!{[0004]}A NEW DREAMLAND. A PLACE WHERE YOU'LL LAUGH AND SMILE.{[0004]}ALONG THE WAY, STUFF YOUR BELLY AND NAP AWHILE.{[0004]}NO ONE CAN HOLD YOU BACK. NEW FIELDS FULL OF MYSTERY.{[0004]}THE SKY'S OPENED UP, AND THERE'S SO MUCH TO SEE.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A NEW WORLD!
+FullThemeSong	来吧　准备好了吗？{[0004]}已经看得到咯　NEW WORLD{[0004]}那是不可思议的梦幻国度　一起来玩吧{[0004]}尽管欢笑与哭泣　大口塞满嘴　吃饱睡午觉{[0004]}那是任谁也无法打扰　专属于你的FIELD{[0004]}就连那片天空也都是你的画布{[0004]}奔驰吧{[0004]}乘上你心所向的汽车{[0004]}风儿啊{[0004]}轻拂过耀眼的草原　欢迎来到NEW WORLD！{[0004]}闭上双眼　就能感受到{[0004]}那海浪的低鸣　NEW WORLD{[0004]}只要有美食品尝　再郁闷的心也会豁然开朗{[0004]}迫不及待的心情　穿过那扇令人心跳加速的门扉{[0004]}别担心　只要与你在一起就拥有FREEDOM{[0004]}海浪卷走了褪下的衣物{[0004]}一起欢笑吧{[0004]}我会一直陪伴在你身旁{[0004]}不论是谁{[0004]}心中都满怀着各自的爱　欢迎来到NEW WORLD！{[0004]}奔驰吧{[0004]}乘上你心所向的汽车{[0004]}风儿啊{[0004]}轻拂过耀眼的草原　欢迎你的到来{[0004]}带着雀跃的心　你就是自由的{[0004]}心中满怀着各自的爱　Wow Oh Oh！{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}
+FullThemeSongLocalLyric	STRANGE HORIZON. READY TO GO.{[0004]}FEAST YOUR EYES ON A NEW WORLD!{[0004]}A NEW DREAMLAND. A PLACE WHERE YOU'LL LAUGH AND SMILE.{[0004]}ALONG THE WAY, STUFF YOUR BELLY AND NAP AWHILE.{[0004]}NO ONE CAN HOLD YOU BACK. NEW FIELDS FULL OF MYSTERY.{[0004]}THE SKY'S OPENED UP, AND THERE'S SO MUCH TO SEE.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A NEW WORLD!{[0004]}STRANGE EMOTION. WHAT DO YOU FEEL?{[0004]}THE ROARING OCEAN OF A NEW WORLD!{[0004]}DON'T BE AFRAID. FACE YOUR FEARS#YOU'LL HUNGER FOR MORE.{[0004]}THE TENSION BUILDS; PLUNGE AHEAD ON THIS THRILLING TOUR.{[0004]}THINK OF THE FRIENDS YOU'VE MADE, ALL OF THEM LIVING FREE.{[0004]}THEIR CARES HAVE BEEN WASHED AWAY BY A WILD SEA.{[0004]}LAUGHING LOUD!{[0004]}EVEN IF YOU'RE FAR APART, THEY'RE RIGHT BY YOUR SIDE.{[0004]}HEARTS FULL OF LOVE!{[0004]}EVERYONE IS WELCOME TO LIVE IN THIS NEW WORLD.{[0004]}RUNNING WILD!{[0004]}JUST LET YOUR HEART TAKE THE WHEEL AND SHOW YOU THE WAY.{[0004]}FRESH SPRING BREEZE!{[0004]}ADVENTURE IS AWAITING YOU IN THE FIELDS OF A#{[0004]}OPEN HEARTS ALREADY FLUTTERING FREE AND RIDING THE BREEZE.{[0004]}NOTHING BUT LOVE TO SHARE WITH EVERYONE WE KNOW. WHOA!{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}NEW WORLD{[0004]}
+EventMovieEnding	卡比，这里……\n是波普之星吗！？{[0004]}这、这样下去，一切都会被吞噬殆尽的……！{[0004]}我会用我所有的力量……{[0004]}关闭世界之间的……联系！{[0004]}卡比，谢谢你……{[0004]}这段时间的……照顾……{[0004]}
 Cmn.msbt
 $HeroPanelRevivalText	复活
 $CameraResetText	重置视角
@@ -16,47 +194,659 @@ $PointStarPenaltySign	-
 $ClosingBracket	)
 $OpeningBracket	(
 $Slash	/
+CstageTitle	宝藏之路
+$StageStartCstageBestTime	最佳时间
+$StageStartCstageDifficult	难易度
+$StageStartCstageTargetTime	目标时间
+SoulScore	狮王的灵魂
+SoulScoreUnreveale	？？？
+$EstoryCountSlash	/
+TimeDisplayCsecPunctuation	.
+TimeDisplaySecPunctuation	:
+TimeDisplayCsecPunctuation_Cstage	.
+TimeDisplaySecPunctuation_Cstage	:
+TimeDisplayCsecPunctuation_Mgame	.
+TimeDisplaySecPunctuation_Mgame	:
+TimeDisplayCsecPunctuation_MgameBest	.
+TimeDisplaySecPunctuation_MgameBest	:
+TimeDisplayCsecPunctuation_ArenaRank	.
+TimeDisplaySecPunctuation_ArenaRank	:
+TimeDisplayCsecPunctuation_ArenaTimer	.
+TimeDisplaySecPunctuation_ArenaTimer	:
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	-
+TimeDisplayEmpty_CstageBestTime	--
+DestInfo_ToLv0	前往初始之地
+DestInfo_ToWmap	前往世界地图
+DestInfo_ToEstory	前往绝岛空间
+$ToWmapNew	NEW!
+DestInfo_Retry	重试
 $CmnVolShadowText	Vol.
 $CmnVolText	Vol.
+$CmnDifficultySelectTitle	请选择难易度
 $CmnDifficultySelectCasual	春风\n模式
 $CmnDifficultySelectStandard	狂野\n模式
 DifficultySelectExplanationCasual	与往常一样能够轻松游玩的星之卡比。\n{color[ff4d2fff]}体力较多{color[000000ff]}，适合不擅长动作游戏的人。
 DifficultySelectExplanationStandard	稍显狂野又有挑战性的星之卡比。\n{color[ff4d2fff]}还能获得许多{color[000000ff]}{[0100|8000]}硬币星，{color[ff4d2fff]}十分推荐游玩{color[000000ff]}！
+$DifficultySelectExplanationSub	※之后也可以进行更改
+$Explanation	说明
+StrengthenedCopyAbilityName	{[0309|0000]}{[0108|0100]}{[0301|0000]}
 KiloSeparator	,
+KiloSeparator_MgameFish	,
+DecimalPoint	.
+MaxStrengthenedCopyAbilityName	{[0309|0000]}{[0108|0100]}{[010a|0300]}
+Credit.msbt
+EndTextNormal	To be continued...
+EndTextEstory	THE END
+Staff	Staff
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+Director	DIRECTOR
+Director_00	TATSUYA KAMIYAMA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	YUKI ENDO
+GameDesigners	GAME DESIGNERS
+GameDesigners_00	YUYA KOZUKA
+GameDesigners_01	KOSUKE YAMAZAKI
+GameDesigners_02	RYOSUKE SAKAMOTO
+GameDesigners_03	TAKU KOINUMA
+GameDesigners_04	MARI UEDA
+GameDesigners_05	HIROKI MORIGUCHI
+GameDesigners_06	MARI TAKAHARA
+GameDesigners_07	YUKI TAKAHARA
+GameDesigners_08	SHOTA YAMADA
+GameDesigners_09	AKIRA OONO
+GameDesigners_10	KEITA TANIFUJI
+GameDesigners_11	YUTAKA WATANABE
+GameDesigners_12	RYOTA YAMANAKA
+TechnicalDirector	TECHNICAL DIRECTOR
+TechnicalDirector_00	YUDAI HIRATA
+LeadTechnicalProgrammer	LEAD TECHNICAL PROGRAMMER
+LeadTechnicalProgrammer_00	HIROAKI NAKANO
+LeadActionProgrammer	LEAD ACTION PROGRAMMER
+LeadActionProgrammer_00	KATSUYOSHI SUMITOMO
+LeadCharacterProgrammer	LEAD CHARACTER PROGRAMMER
+LeadCharacterProgrammer_00	TAKASHI NOZUE
+LeadRenderingProgrammer	LEAD RENDERING PROGRAMMER
+LeadRenderingProgrammer_00	MUNEMASA KIMURA
+ProceduralFieldProgrammer	PROCEDURAL FIELD PROGRAMMER
+ProceduralFieldProgrammer_00	AYUMU KATO
+Programmers	PROGRAMMERS
+Programmers_00	RUI UCHIDA
+Programmers_01	TOMOHIRO KAMOCHI
+Programmers_02	YU ARIMATSU
+Programmers_03	TAKASHI NEMOTO
+Programmers_04	YUSHI UCHIDA
+Programmers_05	KAZUHIRO MIZUSAWA
+Programmers_06	TAKAAKI KAWAHARA
+Programmers_07	KOJI ISHII
+Programmers_08	HAJIME IMAIZUMI
+Programmers_09	YUTARO FUJIMURA
+Programmers_10	KAKUYA MAEKUBO
+Programmers_11	MASAHIRO NAKAJIMA
+Programmers_12	TATSUYA BEPPU
+Programmers_13	SATORU NAKANISHI
+Programmers_14	NAOYA TAKI
+Programmers_15	SHO TAJIMA
+Programmers_16	AKIHIRO YAMASHITA
+Programmers_17	KOUJI KIKKAWA
+Programmers_18	SATOSHI OHTAKE
+ArtDirector	ART DIRECTOR
+ArtDirector_00	RIKI FUHRMANN
+LeadCharacterArtist	LEAD CHARACTER ARTIST
+LeadCharacterArtist_00	KENICHIRO KITA
+CharacterArtists	CHARACTER ARTISTS
+CharacterArtists_00	KENICHI SAKUMA
+CharacterArtists_01	HITOSHI KIKKAWA
+CharacterArtists_02	TSUKASA KIRINOE
+CharacterArtists_03	MAMIKO SATO
+CharacterArtists_04	KENTA MIYAMOTO
+CharacterArtists_05	KAIJIRO KOJIMA
+CharacterArtists_06	FUMIYASU KATO
+CharacterArtists_07	FUMIAKI MIYAUCHI
+CharacterArtists_08	AMI ISHIKAWA
+CharacterArtists_09	YUKIKO TAGAWA
+CharacterArtists_10	SAYAKA YANAGA
+LeadFieldArtist	LEAD FIELD ARTIST
+LeadFieldArtist_00	DAISUKE MORISHITA
+FieldArtists	FIELD ARTISTS
+FieldArtists_00	YUKI HONDA
+FieldArtists_01	TADASHI HASHIKURA
+FieldArtists_02	SAORI ONO
+FieldArtists_03	YUKI YOSHIOKA
+FieldArtists_04	SANAE MATSUO
+FieldArtists_05	NATSUKI TSUJI
+FieldArtists_06	AYAKO SOUMA
+FieldArtists_07	TOMOKA OGURA
+FieldArtists_08	YUSUKE ISHIKAWA
+FieldArtists_09	KENSUKE FUKUMARU
+FieldArtists_10	SHINGO KABAYA
+FieldArtists_11	SUNAO KASHIWANO
+FieldArtists_12	YOSHIKA KITAMI
+FieldArtists_13	SHOHEI TAKEHARA
+FieldArtists_14	TAKASHI SAITO
+FieldArtists_15	WILLIAM OKUDA
+LeadEnvironmentArtist	LEAD ENVIRONMENT ARTIST
+LeadEnvironmentArtist_00	AKIHIRO KANNO
+LeadProceduralFieldArtist	LEAD PROCEDURAL FIELD ARTIST
+LeadProceduralFieldArtist_00	NATSUMI MURAKI
+LeadUiArtists	LEAD UI ARTISTS
+LeadUiArtists_00	SHIGEYUKI KAWATA
+LeadUiArtists_01	HARUKA ITOH
+UiArtists	UI ARTISTS
+UiArtists_00	MASASHI FUJIURA
+UiArtists_01	NAHO YOSHIZAWA
+UiArtists_02	CHIHIRO SAKAIDA
+UiArtists_03	ASAMI NAKATA
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	KATSUMI NIHOMMATSU
+Movie_02	HISANORI MATSUSHIMA
+Movie_03	AKIKO SASAOKA
+Movie_04	HIROYUKI KOJIMA
+Movie_05	YOSUKE TANABE
+Movie_06	NARUYA TSUNODA
+Movie_07	SAYOKO YAMADA
+Movie_08	AKIRA GOTO
+Movie_09	KASUMI SAKA
+Movie_10	AYAKA MATSUMOTO
+Movie_11	TOMOHIRO KIKUCHI
+Movie_12	RIKI KANEDA
+Movie_13	MASAYA HOMMA
+Movie_14	YUKIHISA WADA
+Movie_15	EMI NAGO
+Movie_16	MISATO NAKAJIMA
+Movie_17	YUGO SAKAI
+Movie_18	AKIRA NINAGAWA
+Movie_19	KAORUKO KITAICHI
+LeadSound	LEAD SOUND
+LeadSound_00	YUUTA OGASAWARA
+LeadMusic	LEAD MUSIC
+LeadMusic_00	HIROKAZU ANDO
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	YUKI SHIMOOKA
+Voice	VOICE
+Voice_00	MAKIKO OHMOTO
+Voice_01	KURUMI MAMIYA
+Voice_03	KENTA MIYAKE
+Voice_05	MINAMI TAKAYAMA
+Voice_07	KAY CAL
+Voice_08	CRISTINA LUCÍA JÁUREGUI
+Voice_09	FANNIE SENÉCAL
+Voice_10	CLÉMENCE DIERYCK
+Voice_11	STEFANIA MONTAGNESE
+Voice_12	NINA RAU
+Voice_13	ELIZABETH SÁNCHEZ LEÓN
+Voice_14	SASKIA DOORSCHODT
+Voice_15	BONA KIM
+FratFrameworkProgrammers	FRAT FRAMEWORK PROGRAMMERS
+FratFrameworkProgrammers_00	TOMOKAZU TSURUOKA
+FratFrameworkProgrammers_01	SHINYA WATANABE
+FratFrameworkProgrammers_02	RYOICHIRO ATONO
+FratFrameworkProgrammers_03	SHINICHI KAWAJI
+FratFrameworkProgrammers_04	TETSUYA NOGE
+FratFrameworkProgrammers_05	TATSUYA MURASE
+FratFrameworkProgrammers_06	SHUN YASAKA
+FratFrameworkProgrammers_07	KAZUYA SUETSUGU
+FratFrameworkProgrammers_08	MASATAKA SESHIMO
+FratFrameworkProgrammers_09	TAKASHI MATSUDA
+FratFrameworkProgrammers_10	YUYA SUZUKI
+NetworkProgrammer	NETWORK PROGRAMMER
+NetworkProgrammer_00	HIROSHI OHNISHI
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	YOUSUKE FUKUNAGA
+TechnicalSupport_01	KAZUYA KONISHI
+TechnicalSupport_02	MASAYUKI NAGATA
+TechnicalSupport_03	JUNICHI AOYAGI
+TechnicalSupport_04	TAKAAKI KAZUNO
+TechnicalSupport_05	TAKAYUKI SUGANO
+TechnicalSupport_06	YUYA NATSUMI
+TechnicalSupport_07	AKIO HANYU
+TechnicalSupport_08	TATSUHIRO TANOUE
+TechnicalSupport_09	TAKESHI MINAGAWA
+TechnicalSupport_10	SHOTARO IWANAGA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	KATSUHIRO SAKODA
+TeamSupport_02	SHIGERU HIRAYAMA
+Artwork	ARTWORK
+Artwork_00	YUTO IBARAKI
+Artwork_01	TOMOMI OZAKI
+Artwork_02	MAI SAKAMOTO
+Artwork_03	EMI IMAMURA
+Artwork_04	RIEKO KAWAHARA
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	TAKESHI TAMURA
+Testing_02	AKIKO OHASHI
+Testing_03	AIHO KUBO
+Testing_04	ERINA TANAKA
+Testing_05	HAL DEBUG TEAM
+Testing_06	Mario Club Co., Ltd.
+Testing_07	DIGITAL HEARTS Co., Ltd.
+LocalizationManagement	LOCALIZATION MANAGEMENT
+LocalizationManagement_00	SEIJI OTOGURO
+Localization	LOCALIZATION
+Localization_00	SHIGERU HASHIGUCHI
+Localization_01	KENICHI MASUDA
+NoaLocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NoaLocalizationManagement_00	REIKO NINOMIYA
+NoaLocalizationManagement_01	RICH AMTOWER
+NoaLocalizationManagement_02	TIM O'LEARY
+NoaLocalizationManagement_03	SCOT RITCHEY
+NoaLocalizationManagement_04	MORGAN RITCHIE
+NoaLocalizationManagement_05	THADDÉE WISEUR
+NoaLocalizationManagement_06	ÁLEX ZARZA
+NoaLocalization	NOA LOCALIZATION
+NoaLocalization_00	LAUREN AMMERMAN
+NoaLocalization_01	GAB BERGOLLO DROUYN
+NoaLocalization_02	BILLY CARROLL
+NoaLocalization_03	YANETT CEPEDA VALOR
+NoaLocalization_04	ROSA COGLEY
+NoaLocalization_05	MARJOLAINE DROUIN
+NoaLocalization_06	RAYMOND ELLIGET
+NoaLocalization_07	LARA GIBRAN
+NoaLocalization_08	PALOMA HERNANDEZ
+NoaLocalization_09	BRANDON KRAEMER
+NoaLocalization_10	JOSÉE LEBEAU-BÉDARD
+NoaLocalization_11	YORIKO MARUSICH
+NoaLocalization_12	CÉSAR PÉREZ
+NoaLocalization_13	TARYN ZIEGLER
+NoaProductTesting	NOA PRODUCT TESTING
+NoaProductTesting_00	ED RIDGEWAY
+NoaProductTesting_01	MANNA YAMASAKI
+NoaProductTesting_02	MAIRO SMALL
+NoaProductTesting_03	EVAN WRIGHT
+NoaProductTesting_04	CRAIG SO
+NoaProductTesting_05	RILEY SCOTT
+NoaProductTesting_06	DYLAN RONDEAU
+NoeLocalisationProducers	NOE LOCALISATION PRODUCERS
+NoeLocalisationProducers_00	LIAM HIGGINS
+NoeLocalisationProducers_01	HEDINN HARALDSSON
+NoeTranslationCoordination	NOE TRANSLATION COORDINATION
+NoeTranslationCoordination_00	PIERRE SANCHEZ
+NoeTranslation	NOE TRANSLATION
+NoeTranslation_00	PATRICK JOYCE
+NoeTranslation_01	GURVAN LE GUEN
+NoeTranslation_02	CLÉMENCE DIERYCK
+NoeTranslation_03	BARBARA PISANI
+NoeTranslation_04	ANNA TARANTINI
+NoeTranslation_05	SEBASTIAN BRÜCK
+NoeTranslation_06	SASCHA WEINARD
+NoeTranslation_07	ALEXANDER VAN DE BERGH
+NoeTranslation_08	AINHOA BERNAD HURTADO
+NoeTranslation_09	PATRICK KOUDSTAAL
+NoeTranslation_10	JÓNATAN MARCOS MILLÁN
+NoeTranslation_11	THOMAS DEN HAAN
+NoeTranslation_12	VINCENT MEIJER
+NoeQaCoordination	NOE QA COORDINATION
+NoeQaCoordination_00	J. IGNACIO LEÓN LÓPEZ
+NoeQualityAssurance	NOE QUALITY ASSURANCE
+NoeQualityAssurance_00	DAMIEN BRICHARD
+NoeQualityAssurance_01	MATTHIEU LAMOUROUX
+NoeQualityAssurance_02	PASQUALE GIANLUCA MICELI
+NoeQualityAssurance_03	LUTZ OHL
+NoeQualityAssurance_04	CHRISTINA STOFFEL
+NoeQualityAssurance_05	JESSICA SÁNCHEZ HERRERA
+NoeQualityAssurance_06	SANDRA DÍAZ CABRAL
+NoeQualityAssurance_07	JOACHIM LUST
+NoeQualityAssurance_08	BRIAN DEVITS
+NoeVoiceCoordination	NOE VOICE COORDINATION
+NoeVoiceCoordination_00	KEVIN MURRAY
+NokLocalizationManagement	NOK LOCALIZATION MANAGEMENT
+NokLocalizationManagement_00	DONGYEON KIM
+NokTranslation	NOK TRANSLATION
+NokTranslation_00	JIHYUEN YOO
+NokQualityAssurance	NOK QUALITY ASSURANCE
+NokQualityAssurance_00	KIUNG SEOUNG
+NokQualityAssurance_01	PTW Korea Co., Ltd.
+NokArtwork	NOK ARTWORK
+NokArtwork_00	SUZY DO
+NhlLocalizationCoordination	NHL LOCALIZATION COORDINATION
+NhlLocalizationCoordination_00	WANG ZHONG LONG
+NhlTranslation	NHL TRANSLATION
+NhlTranslation_00	SEAN SHEN
+NhlTranslation_01	TRACY CHENG
+NhlTranslation_02	PTW (Singapore) Pte. Ltd., Taiwan Branch
+NhlQualityAssurance	NHL QUALITY ASSURANCE
+NhlQualityAssurance_00	PTW (Singapore) Pte. Ltd., Taiwan Branch
+NhlArtwork	NHL ARTWORK
+NhlArtwork_00	MIKE KAN
+IqueLocalizationCoordination	iQue LOCALIZATION COORDINATION
+IqueLocalizationCoordination_00	QIU XIAOCHUN
+IqueTranslation	iQue TRANSLATION
+IqueTranslation_00	PTW Shanghai Co., Ltd.
+IqueQualityAssurance	iQue QUALITY ASSURANCE
+IqueQualityAssurance_00	YAN GANG
+IqueQualityAssurance_01	PTW Shanghai Co., Ltd.
+MainThemeSong	MAIN THEME SONG
+MainThemeSong_00	『WELCOME TO THE NEW WORLD！』
+MainThemeSong_01	NEICHEL
+MainThemeSong_01_Sub	SONG
+MainThemeSong_02	SHINYA KUMAZAKI
+MainThemeSong_02_Sub	LYRICS
+MainThemeSong_03	TADASHI IKEGAMI
+MainThemeSong_03_Sub	MUSIC
+MainThemeSong_04	TARO NAGATA
+MainThemeSong_04_Sub	ARRANGEMENT
+MainThemeSong_05	YUUTA OGASAWARA
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	HITOSHI ISHIMURA
+SpecialThanks_01	MASAYA MAEJIMA
+SpecialThanks_02	HAJIME KOJIMA
+SpecialThanks_03	SHIGENOBU KASAI
+SpecialThanks_04	MASAYO NAKAGAMI
+SpecialThanks_05	ASUKA ODA
+SpecialThanks_06	YUMIKO SANO
+SpecialThanks_07	TOMOHIRO MINEMURA
+SpecialThanks_08	TETSUYA ABE
+SpecialThanks_09	HIROSHI SAIGUSA
+SpecialThanks_10	JUN TSUDA
+SpecialThanks_11	VANPOOL, INC.
+SpecialThanks_12	GRDRIVE Inc.
+SpecialThanks_13	Good-Feel Co., Ltd.
+SpecialThanks_14	TOYRO MUSIC G.K.
+Adviser	ADVISER
+Adviser_00	NOBUO MATSUMIYA
+Coordinator	COORDINATOR
+Coordinator_00	KENTA NAKANISHI
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	YOSHIHIRO NAGATA
+ProjectManagement_01	AYAKA SENO
+ProjectManagement_02	TETSUYA MOCHIZUKI
+ProjectManagement_03	ATSUKO YAMASHITA
+AssociateProducer	ASSOCIATE PRODUCER
+AssociateProducer_00	KEI NINOMIYA
+Producers	PRODUCERS
+Producers_00	TADASHI KAMITAKE
+Producers_01	TOYOKAZU NONAKA
+Producers_02	AKIRA KINASHI
+GeneralProducers	GENERAL PRODUCERS
+GeneralProducers_00	SHIGEFUMI KAWASE
+GeneralProducers_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	SHUNTARO FURUKAWA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n©HAL Laboratory, Inc. / Nintendo
+Cstage.msbt
+$CstageStartSignText	READY
+$CstageStartSignGoText	GO!
+CstageTimeupText	时间到
+CstageGiveupText	体力耗尽
+$RestartText	再试一次
+$ExitText	离开关卡
+$CstageClearText	获得稀有石
+$ClearTimeText	过关时间
+$BestTimeText	最佳时间
+$CstageBastTimeSlash	/
+$StageStartCstageTargetTime	目标时间
+$BonusCoinText	{[0100|8000]}+50
 Dialog.msbt
+PageNum	{[0301|0000]}/{[0301|0100]}
 CornerBtn_Back	返回
 CornerBtn_Close	关闭
 Btn_Cancel	退出
 Btn_CancelForExit	取消
-Text_CannotChangeDifficultyDemo	关卡中{color[ff4d2fff]}无法更改{color[000000ff]}难易度。
-Text_ChangeDifficultyOnDead	要将难易度更改为\n可以轻松游玩的模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}吗？
+Text_NewGameConfirm	要使用新文件开始游玩吗？
+Text_FileLoadConfirm	要使用文件{[0301|0000]}继续游玩吗？
+Btn_GameStartNew	开始
+Btn_GameStart	游玩
+Text_FileConfirmConnectDisallowToAllow	要将文件{[0301|0000]}的互联网连接\n更改为{color[ff4d2fff]}使用{color[000000ff]}吗？\n\n传送游戏数据，\n便可与全世界的玩家分享游戏信息。
 Btn_Change	更改
+Text_FileChangedConnectAllow	已将文件{[0301|0000]}的互联网连接\n更改为{color[ff4d2fff]}使用{color[000000ff]}。\n\n现在可以和全世界的玩家\n分享游戏信息了。{[0004]}还可以向随着游戏推进\n而现身的{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}\n打听到全世界的游戏信息。
+Text_FileConfirmConnectAllowToDisallow	文件{[0301|0000]}的互联网连接\n正处于使用的状态。\n\n要更改为{color[ff4d2fff]}不使用{color[000000ff]}吗？
+Text_FileChangedConnectDisallow	已将文件{[0301|0000]}的互联网连接\n更改为{color[ff4d2fff]}不使用{color[000000ff]}。\n\n之后仍可再次更改为使用。
+Text_FileDeleteConfirm1	要删除{color[ff4d2fff]}文件{[0301|0000]}{color[000000ff]}的\n所有数据吗？
+Btn_FileDeleteConfirm1_Yes	删除
+Btn_FileDeleteConfirm1_No	不删除
+Text_FileDeleteConfirm2	真的要删除吗？
+Btn_FileDeleteConfirm2_Yes	真的要删除
+Btn_FileDeleteConfirm2_No	还是不删除吧
+Text_FileDeleteConfirm3	数据删除后就无法复原了！！\n{color[ff4d2fff]}确定不会后悔吗？{color[000000ff]}
+Btn_FileDeleteConfirm3_Yes	不后悔！！！！
+Btn_FileDeleteConfirm3_No	不想删除了……
+Text_FileDeleteFinished	已删除文件{[0301|0000]}。
+Text_KnowledgeConfirmConnectInternet	要使用互联网连接吗？\n\n传送游戏数据，\n便可与全世界的玩家分享游戏信息。
+Btn_Connect_Yes	使用
+Btn_Connect_No	不使用
+Text_KnowledgeConnectInternetAppliedNewGame	已将互联网连接\n设置为{color[ff4d2fff]}使用{color[000000ff]}。\n\n现在可以和全世界的玩家\n分享游戏信息了。{[0004]}还可以向随着游戏推进\n而现身的{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}\n打听到全世界的游戏信息。
+Text_KnowledgeConnectInternetApplied	已将互联网连接\n设置为{color[ff4d2fff]}使用{color[000000ff]}。\n\n现在可以和全世界的玩家\n分享游戏信息了。{[0004]}还可以向{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}\n打听到全世界的游戏信息。
+Text_KnowledgeHowToChangeSetting	互联网连接的使用状态可以在\n标题画面中的“{color[ff4d2fff]}选择文件{color[000000ff]}”更改，\n或是在随着游戏推进\n而现身的{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}处\n按下{color[ff4d2fff]}{[0402|0200]}{color[000000ff]}于{color[ff4d2fff]}互联网设置{color[000000ff]}中进行更改。
+Text_ChangeDifficulty	要将难易度更改为\n{color[ff4d2fff]}{[0313]}{color[000000ff]}吗？
+Text_ChangeDifficultyInTutorial	要更改难易度吗？\n\n更改后将自动返回\n目前关卡的起点。
+Text_CannotChangeDifficulty	目前{color[ff4d2fff]}无法更改{color[000000ff]}难易度。\n\n可以在世界地图或瓦豆鲁迪小镇中\n进行更改。
+Text_CannotChangeDifficultyAbilityRoom	目前{color[ff4d2fff]}无法更改{color[000000ff]}难易度。\n\n可以在完成武器店教程后\n进行更改。
+Text_ChangeDifficultyOnDead	要将难易度更改为\n可以轻松游玩的模式——{color[ff4d2fff]}{[0313]}{color[000000ff]}吗？
 Btn_NoChange	不更改
-Text_ChangeDifficultyOnClear	要将难易度更改为\n富有挑战性的动作游戏模式——{color[ff4d2fff]}{[030b]}{color[000000ff]}吗？\n\n在此模式下通过关卡\n就能获得更多的{[0100|8000]}硬币星。
+Text_ChangeDifficultyOnClear	要将难易度更改为\n富有挑战性的动作游戏模式——{color[ff4d2fff]}{[0313]}{color[000000ff]}吗？\n\n在此模式下通过关卡\n就能获得更多的{[0100|8000]}硬币星。
+Text_ToTitle	要返回标题吗？
+Btn_ToTitle	返回标题
 Text_StageExit	要离开关卡吗？\n\n离开后将{color[ff4d2fff]}不会保存{color[000000ff]}已达成的任务。
+Text_EstoryStageExit	要离开关卡吗？\n\n离开后将{color[ff4d2fff]}不会保存{color[000000ff]}已收集到的狮王的灵魂。
 Text_StageExitSimple	要离开关卡吗？
 Btn_StageExit	离开关卡
+Text_CstageRetry	要从关卡起点开始{color[ff4d2fff]}重试{color[000000ff]}吗？
+Btn_Retry	重试
+Text_ArenaExit	要离开竞技场吗？\n\n离开后将{color[ff4d2fff]}不会保存{color[000000ff]}已获得的{[0100|8000]}硬币星。
+Btn_ArenaExit	离开竞技场
 Text_AutoSwallowDisabled	{color[ff4d2fff]}自动吞入{color[000000ff]}已转为{color[ff4d2fff]}OFF{color[000000ff]}状态。\n\n可以通过按下{[0409|6000]}/{[040a|6100]}吞入。
 Text_ControllerErrorShortsge	目前连接中的\n{color[ff4d2fff]}手柄只有1个{color[000000ff]}。
 Text_PlayerCannotJoinAlert	目前{color[ff4d2fff]}无法更改{color[000000ff]}游玩人数。
 Text_ControllerDisconnectedError	2P的{color[ff4d2fff]}手柄连接已中断{color[000000ff]}。\n\n请连接手柄，\n再次按下{[0411|9400]}，从暂停画面进行选择。
-Text_Amiibo_NotAllowedDemo	体验版中无法使用amiibo。
-Title_StageSelect_UnlockEvolve	可以用进化的能力游玩！
-Text_StageSelect_UnlockEvolve	现在可以用已{color[ff4d2fff]}进化{color[000000ff]}的\n复制能力游玩了！\n再游玩一次关卡的话，\n{color[ff4d2fff]}可以试试{color[000000ff]}进化能力！
-Text_StageSelect_AskToChangeEvolve	现在的设定是\n“{color[ff4d2fff]}普通{color[000000ff]}”的复制能力。\n\n要进行“进化”吗？
-Text_StageSelect_ChangeEvolve	变成了已“{color[ff4d2fff]}进化{color[000000ff]}”的复制能力。
-Text_StageSelect_AskToChangeNormal	现在的设定是\n“{color[ff4d2fff]}进化{color[000000ff]}”的复制能力。\n\n要变回“普通”吗？
-Text_StageSelect_ChangeNormal	变回了“{color[ff4d2fff]}普通{color[000000ff]}”的复制能力。
-Btn_StageSelect_ChangeAbility	进行进化
-Btn_StageSelect_ChangeAbility_00	变回普通
-Title_StageSelect_UnlockPresentCode_Boss	感谢你的游玩！
-Text_StageSelect_UnlockPresentCode_Boss	感谢你游玩体验版，\n送给你{color[ff4d2fff]}礼物关键词{color[000000ff]}！\n\n礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”
-Title_StageSelect_UnlockPresentCode_Mission	给淋漓尽致的你！
-Text_StageSelect_UnlockPresentCode_Mission	感谢你{color[ff4d2fff]}淋漓尽致地{color[000000ff]}游玩体验版，\n送给你{color[ff4d2fff]}特别的{color[000000ff]}礼物关键词！\n\n礼物关键词\n“{color[ff4d2fff]}{[0310]}{color[000000ff]}”
-Text_StageSelect_PresentCode_OnlyBoss	礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以获得道具的关键词。\n在进行一段游戏后便会登场的{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}中，\n试着输入关键词吧。
-Text_StageSelect_PresentCode_BossAndMission	礼物关键词\n“{color[ff4d2fff]}{[030f]}{color[000000ff]}”\n“{color[ff4d2fff]}{[0310]}{color[000000ff]}”\n\n在{color[ff4d2fff]}正式版{color[000000ff]}可以获得道具的关键词。\n在进行一段游戏后便会登场的{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}中，\n试着输入关键词吧。
-PresentCode_Boss	CLEARDEMO
-PresentCode_Mission	NEWADVENTURE
+Text_Amiibo_AskToStart	可以使用{color[ff4d2fff]}amiibo{color[000000ff]}获得库存道具\n或{[0100|8000]}硬币星等道具。\n要使用amiibo吗？
+Btn_Use	使用
+Text_AmiiboTouch_AskTouchAmiibo	请用amiibo触碰{color[ff4d2fff]}{[0301|0000]}P{color[000000ff]}\n手柄的{color[ff4d2fff]}NFC区域{color[000000ff]}。
+Text_AmiiboTouch_CancelBtn	{[0401|0100]} 取消
+Text_AmiiboTouch_Canceling	取消中……
+Text_AmiiboTouch_Reading	正在读取……
+Text_Amiibo_ExceedMaxCount	单一关卡中最多只能\n连续使用{color[ff4d2fff]}5次{color[000000ff]}amiibo，\n{color[ff4d2fff]}通过关卡{color[000000ff]}后即可再度使用。
+Text_Amiibo_ExceedMaxCount_InArena	竞技场最多只能连续使用{color[ff4d2fff]}5次{color[000000ff]}amiibo。\n\n若在正在参加的大赛中获得了{color[ff4d2fff]}优胜{color[000000ff]}，\n或在落败后选择了{color[ff4d2fff]}“从头重新开始”{color[000000ff]}，\n即可再度使用。
+Text_Amiibo_AlreadyUsed	已经通过此amiibo{color[ff4d2fff]}获得过{color[000000ff]}道具。{color[ff4d2fff]}\n通过关卡{color[000000ff]}后，\n即可再度使用。
+Text_Amiibo_AlreadyUsed_InArena	已经通过此amiibo{color[ff4d2fff]}获得过{color[000000ff]}道具。{color[ff4d2fff]}\n\n{color[000000ff]}若在正在参加的大赛中获得了{color[ff4d2fff]}优胜{color[000000ff]}，\n或在落败后选择了{color[ff4d2fff]}“从头重新开始”{color[000000ff]}，\n即可再度使用。
+Text_Amiibo_NotAllowedMode	amiibo可以在关卡\n或小镇中使用。
+Text_Amiibo_NotAllowedOther	目前{color[ff4d2fff]}无法使用{color[000000ff]}amiibo。
+Text_Amiibo_ErrorNfcDeviceNotFound	{color[ff4d2fff]}找不到{color[000000ff]}可读取\namiibo的手柄。
+Text_Amiibo_ErrorOther	发生错误。
+Text_RetryCourseCar	要{color[ff4d2fff]}重试{color[000000ff]}此项竞赛吗？\n\n任务及道具将会{color[ff4d2fff]}返回{color[000000ff]}\n竞赛开始前的状态。
+Text_RetryCourseCoaster	要{color[ff4d2fff]}重试{color[000000ff]}云霄飞车吗？\n\n任务及道具将会{color[ff4d2fff]}返回{color[000000ff]}\n乘坐云霄飞车前的状态。
+Text_RetryCourseCoasterEstory	要{color[ff4d2fff]}重试{color[000000ff]}云霄飞车吗？\n\n道具将会{color[ff4d2fff]}返回{color[000000ff]}\n乘坐云霄飞车前的状态。
+Text_RetryCourseBossRush	要从与魔王战斗后的时间点{color[ff4d2fff]}重试{color[000000ff]}吗？\n\n任务及道具将会{color[ff4d2fff]}返回{color[000000ff]}\n与魔王战斗后的状态。
+Text_RetryCourseGlider	要{color[ff4d2fff]}重试{color[000000ff]}拱门塞满嘴的区域吗？\n\n任务及道具将会{color[ff4d2fff]}返回{color[000000ff]}\n变成拱门塞满嘴前的状态。
+Text_RetryCoursePowerfulWind	要从被风吹走前的时间点{color[ff4d2fff]}重试{color[000000ff]}吗？\n\n道具将会{color[ff4d2fff]}返回{color[000000ff]}\n被风吹走前的状态。
+Text_RetryCourseCylinder	要{color[ff4d2fff]}重试{color[000000ff]}水管塞满嘴的区域吗？\n\n任务及道具将会{color[ff4d2fff]}返回{color[000000ff]}\n变成水管塞满嘴前的状态。
+Text_BackToTown	要回到瓦豆鲁迪小镇吗？
+Btn_BackToTown	回到小镇
+Text_NoEnoughVillagers	为了突破这道门，\n还需要更多瓦豆鲁迪的力量。\n在关卡中{color[ff4d2fff]}拯救{color[000000ff]}瓦豆鲁迪吧！
+Text_NoEnoughVillagersOnCheckGate	为了突破这道门，\n还需要更多瓦豆鲁迪的力量。\n在关卡中{color[ff4d2fff]}拯救{color[000000ff]}瓦豆鲁迪吧！
+Text_BossStageUnlocked	借助{color[ff4d2fff]}瓦豆鲁迪们{color[000000ff]}的力量\n成功开启了阻碍通行的门。\n去{color[ff4d2fff]}挑战{color[000000ff]}守护地盘的{color[ff4d2fff]}魔王{color[000000ff]}吧！
+Text_WmapAreaUnlocked	打倒魔王后发现了{color[ff4d2fff]}新区域{color[000000ff]}！\n好，继续前进吧！
+Text_WmapAreaWaddleDeeComplete	{size[6e00]}终于将被囚禁在{[030e]}的\n{color[ff4d2fff]}所有瓦豆鲁迪{color[000000ff]}拯救出来了！{size[6400]}
+Text_WmapAnotherContinentUnlock	帝帝帝大王把艾菲灵带走了……！\n请探索新区域，\n将被掳走的艾菲灵{color[ff4d2fff]}拯救出来吧{color[000000ff]}！
+Text_WmapAreaUnlockedLevel6	发现{color[ff4d2fff]}新区域{color[000000ff]}了！\n被带走的{color[ff4d2fff]}艾菲灵一定就在这前方{color[000000ff]}……\n艾菲灵，你一定要平安无事！
+Text_WmapCstageFirstUnlocked	被拯救出来的瓦豆鲁迪们发现了\n神秘的空间——{color[ff4d2fff]}宝藏之路{color[000000ff]}！{[0004]}或许能够从中发现{color[ff4d2fff]}珍贵的道具{color[000000ff]}……\n试着探索看看吧！
+Text_WmapCstageFind	发现了被隐藏起来的秘密{color[ff4d2fff]}宝藏之路{color[000000ff]}。\n赶快来挑战看看吧！
+Text_WmapCstageRequestEvolve	要进入这个宝藏之路\n需要{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n前往瓦豆鲁迪武器店进行进化吧！
+Text_WmapCstageRequestBlueprint	要进入这个宝藏之路\n需要{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n取得设计图并在小镇中进行进化吧！
+Title_WmapCstageComplete	宝藏之路 完成！
+Text_WmapCstageComplete	已经精通所有能力并且\n过关{color[ff4d2fff]}所有宝藏之路{color[000000ff]}了！\n在此赠送{color[ff4d2fff]}特别的模型{color[000000ff]}作为奖励！
+Title_TownEvent_CompleteWaddleDee	瓦豆鲁迪 完成！
+Text_TownEvent_CompleteWaddleDee	卡比，谢谢你！\n为了感谢你拯救了{color[ff4d2fff]}所有瓦豆鲁迪们{color[000000ff]}，\n我们在小镇的广场上建造了{color[ff4d2fff]}感谢铜像{color[000000ff]}！
+Title_TownEvent_CompleteFigure	模型 完成！
+Text_TownEvent_CompleteFigure	作为收集到{color[ff4d2fff]}所有模型{color[000000ff]}的奖励，\n扭蛋机收藏一览画面的音乐\n已更换为{color[ff4d2fff]}特别版{color[000000ff]}！
+Title_EstoryCompleteSoul	狮王的灵魂 完成！
+Text_EstoryCompleteSoul	已经收集到{color[ff4d2fff]}所有狮王的灵魂{color[000000ff]}了！\n在此赠送{color[ff4d2fff]}特别的模型{color[000000ff]}，\n作为勇气的证明！
+Title_TownFirstDemo	随时都可以双人游玩！
+Text_TownFirstDemo	只要从暂停画面选择{color[ff4d2fff]}“双人游玩”{color[000000ff]}，\n即可让2P操作{color[ff4d2fff]}头巾瓦豆鲁迪{color[000000ff]}！\n二人同心协力来游玩吧！
+Text_UnlockFigureList	{color[ff4d2fff]}扭蛋机收藏{color[000000ff]}开放了，\n可以在这里欣赏收集到的模型。\n朝完成收藏迈进吧！
+Title_UnlockStrengthening	能力强化！
+Text_UnlockStrengthening	能力得到{color[ff4d2fff]}强化{color[000000ff]}后，将会标记{color[ff4d2fff]}“＋”\n{color[000000ff]}并且{color[ff4d2fff]}攻击力也会提升{color[000000ff]}！\n使用强化后的能力来挑战魔王吧！
+Text_TownUnlockAreaLv1	获救的瓦豆鲁迪们正在重建小镇！\n只要成功拯救更多瓦豆鲁迪，\n{color[ff4d2fff]}新设施{color[000000ff]}也会陆续开放！
+Text_TownUnlockTheaterRoom	在电影院欣赏回忆中的那幕场景吧。\n{color[ff4d2fff]}瓦豆鲁迪电影院{color[000000ff]}开放了！
+Text_TownUnlockCapsuleToyMachine1	喀嚓转动一下，模型就会咚地掉下来！\n充满收集乐趣的收藏——\n{color[ff4d2fff]}扭蛋机 Vol.1{color[000000ff]}设置完成！
+Text_TownUnlockAbilityRoom	能够使复制能力变得更加强大！\n{color[ff4d2fff]}瓦豆鲁迪武器店{color[000000ff]}开放了！
+Text_TownUnlockDeliveryService	使用礼物关键词将道具快递到家！\n经过{color[ff4d2fff]}50名{color[000000ff]}瓦豆鲁迪的通力合作，\n{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}开放了。
+Text_TownUnlockKirbyHouse	令人憧憬的家座落在这个小镇！\n{color[ff4d2fff]}50名{color[000000ff]}瓦豆鲁迪的通力合作，\n帮忙建造了{color[ff4d2fff]}卡比小屋{color[000000ff]}。
+Text_TownUnlockFoodStore_01	时髦的咖啡店来了！\n经过{color[ff4d2fff]}60名{color[000000ff]}瓦豆鲁迪的通力合作，\n{color[ff4d2fff]}瓦豆鲁迪咖啡店{color[000000ff]}开放了。
+Text_TownUnlockFoodStore_02	在人气咖啡店忙碌地打工吧！\n现在可以游玩\n{color[ff4d2fff]}工作！瓦豆鲁迪咖啡店{color[000000ff]}了。
+Text_TownUnlockAreaLv2	瓦豆鲁迪小镇\n变得{color[ff4d2fff]}更大{color[000000ff]}了！
+Text_TownUnlockCapsuleToyMachine2	全新的扭蛋机清单登场了！\n{color[ff4d2fff]}扭蛋机 Vol.2{color[000000ff]}设置完成。
+Text_TownUnlockArena	与战斗过的对手们来场决斗！\n可以获得豪华报酬的\n{color[ff4d2fff]}竞技场{color[000000ff]}开放了。
+Text_TownUnlockPharmacy	为冒险提供支援的道具齐聚一堂！\n经过{color[ff4d2fff]}145名{color[000000ff]}瓦豆鲁迪的通力合作，\n{color[ff4d2fff]}瓦豆鲁迪道具店{color[000000ff]}开放了。
+Text_TownUnlockAreaLv3_01	经过{color[ff4d2fff]}155名{color[000000ff]}瓦豆鲁迪的通力合作，\n小镇变得{color[ff4d2fff]}更大{color[000000ff]}了！
+Text_TownUnlockAreaLv3_02	来钓鱼吧，目标是钓到大鱼！\n现在可以游玩\n{color[ff4d2fff]}紧张刺激！刹那间的钓鱼池{color[000000ff]}了。
+Text_TownUnlockCapsuleToyMachine3	全新的扭蛋机清单登场了！\n{color[ff4d2fff]}扭蛋机 Vol.3{color[000000ff]}设置完成。
+Text_TownUnlockRollingBall	滚啊滚～通过倾斜移动滚球！\n经过{color[ff4d2fff]}180名{color[000000ff]}瓦豆鲁迪的通力合作，\n{color[ff4d2fff]}滚啊滚啊！滚球卡比{color[000000ff]}开放了。
+Text_TownUnlockCapsuleToyMachine4	全新的扭蛋机清单登场了！\n{color[ff4d2fff]}扭蛋机 Vol.4{color[000000ff]}设置完成。
+Text_TownUnlockStreetLive	点首喜爱的音乐吧！\n{color[ff4d2fff]}街角瓦豆演奏{color[000000ff]}开始了。
+Text_TownUnlockStreetLiveLv2	在吉他盒中放入{[0100|8000]}硬币星，\n升级为更加时髦的舞台！\n现在可以演奏{color[ff4d2fff]}新乐曲{color[000000ff]}了！
+Text_TownUnlockStreetLiveLv3	在吉他盒中放入{[0100|8000]}硬币星，\n升级为非常具有规模的舞台！\n现在可以演奏{color[ff4d2fff]}新乐曲{color[000000ff]}了！
+Text_TownUnlockArenaLv2_01	打败众多强者，以冠军为目标迈进！\n现在可以参加\n{color[ff4d2fff]}The{color[000000ff]} {color[ff4d2fff]}终极杯{color[000000ff]}了！
+Text_TownUnlockArenaLv2_02	可以从接待处参加\nThe 终极杯。
+Text_TownUnlockArenaLv3_01	前往终极的大决战……！\n现在可以参加\n{color[ff4d2fff]}The{color[000000ff]} {color[ff4d2fff]}终极杯Z{color[000000ff]}了！
+Text_TownUnlockArenaLv3_02	可以从接待处参加\nThe 终极杯Z。\n……确定不会后悔吗？
+Text_TownNoticeCopyAbilityAbleToEvolute_01	现在可以{color[ff4d2fff]}进化{color[000000ff]}\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力了！
+Text_TownNoticeCopyAbilityAbleToEvolute_02	现在可以{color[ff4d2fff]}进化{color[000000ff]}\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力了！\n赶快前往瓦豆鲁迪武器店进行进化吧！
+Text_TownNoticeCopyAbilityAbleToEvolute_03	{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}来到小镇上了！\n他会提供尚未获得的{color[ff4d2fff]}设计图所在地{color[000000ff]}，\n以及各种信息！
+Text_TownNoticeCopyAbilityAbleToStrength	复制能力的{color[ff4d2fff]}攻击力提升{color[000000ff]}！\n现在可以在瓦豆鲁迪武器店\n{color[ff4d2fff]}强化{color[000000ff]}复制能力了！
+Text_ArenaClerk_UnlockCompetition	竞技场召开了{color[ff4d2fff]}{[0312]}{color[000000ff]}！\n与棘手魔王们的战斗\n正在竞技场中等待着你！
+Text_TownClearedArenaLv3_01	为纪念你在最高难易度的\nThe 终极杯Z中获得优胜，\n已在卡比小屋中{color[ff4d2fff]}装饰了{color[000000ff]}新的{color[ff4d2fff]}照片{color[000000ff]}！
+Text_TownClearedArenaLv3_02	只要过关各种模式，\n装饰在卡比小屋墙壁上的照片就会增加。{[0004]}照片总共有{color[ff4d2fff]}10张{color[000000ff]}。\n尽情游玩，创造难忘的回忆吧……{[0004]}目标是100%过关，\n成为{color[ff4d2fff]}星之卡比大师{color[000000ff]}！！
+Text_TownClearedArenaLv3_03	{color[ff4d2fff]}兑换瓦豆鲁迪{color[000000ff]}来到小镇上了！\n可以使用{[0101|8100]}稀有石和他兑换\n尚未获得的{color[ff4d2fff]}模型{color[000000ff]}！{[0004]}通过和他兑换模型，\n或在各个关卡中寻找……\n{color[ff4d2fff]}集齐总共256个模型吧{color[000000ff]}！
+Text_TownMovieSelectPlayOther	要观看其他的影片吗？
+Btn_TheaterRoomSee	观看
+Text_SetCopyAbility	已设定为{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}。\n在关卡中获得的能力\n也将变为{[0309|0000]}。
+Text_SetStrengthenedCopyAbility	已设定为{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}。\n在关卡中获得的能力\n也将变为{[0309|0000]}{[0107|0000]}{[0301|0000]}。
+Text_SetMaxStrengthenedCopyAbility	已设定为{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}。\n在关卡中获得的能力\n也将变为{[0309|0000]}{[0107|0000]}{[010a|0300]}。
+Text_CheckEvolve	要将{[030a]}能力\n进化为{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}吗？
+Btn_Evolve	进化
+Text_EvolvePointStarShortage	{[0100|8000]}硬币星{color[ff4d2fff]}不足{color[000000ff]}。\n\n进化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}与{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Text_EvolveRarePieceShortage	{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n进化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}与{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Text_EvolvePointStarAndRarePieceShortage	{[0100|8000]}硬币星与{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n进化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}与{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Title_RarePieceShortageGoCstage	前往宝藏之路吧！
+Text_RarePieceShortageGoCstage	前往{color[ff4d2fff]}宝藏之路{color[000000ff]}\n取得{[0101|8100]}稀有石吧。
+Text_RarePieceShortageRescueWaddleDee	{color[ff4d2fff]}拯救更多瓦豆鲁迪{color[000000ff]}，\n并前往新的宝藏之路\n取得{[0101|8100]}稀有石吧。
+Text_RarePieceShortageGoArena	{[0101|8100]}稀有石也可以\n通过过关{color[ff4d2fff]}竞技场{color[000000ff]}获得。
+Text_CopyAbilityEvolution	{[030a]}能力已进化为{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！
+Text_CopyAbilityEvolutionCstageOpen	根据本次进化，现在可以游玩\n{[030e]}的{color[ff4d2fff]}{[0309|0000]} 宝藏{color[000000ff]}了！\n赶快去看看吧！
+Text_CopyAbilityEvolutionCstageUnlock	根据本次进化，\n{[030e]}出现了{color[ff4d2fff]}新的宝藏之路{color[000000ff]}。\n赶快去看看吧！
+Text_CheckStrengthen	要使用{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}\n{color[000000ff]}来强化{[0309|0000]}吗？
+Text_CheckStrengthenMore	要使用{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}和{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}\n{color[000000ff]}来强化{[0309|0000]}{[0107|0000]}{[0301|0200]}吗？
+Btn_Strengthen	强化
+Text_StrengthenPointStarShortage	{[0100|8000]}硬币星{color[ff4d2fff]}不足{color[000000ff]}。\n\n强化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}与{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Text_StrengthenRarePieceShortage	{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n强化需要{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Text_StrengthenPointStarAndRarePieceShortage	{[0100|8000]}硬币星和\n{[0101|8100]}稀有石{color[ff4d2fff]}不足{color[000000ff]}。\n\n强化需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}与{color[ff4d2fff]}{[0301|0100]}个{[0101|8100]}{color[000000ff]}。
+Text_InableStrengthen	这项能力{color[ff4d2fff]}无法强化{color[000000ff]}。
+Text_AlreadyStrengthenedMax	这项能力已经\n{color[ff4d2fff]}无法再进行强化了{color[000000ff]}。
+Text_CopyAbilityStrengtheningFirst	已强化为{[0309|0000]}{[0107|0000]}{[0301|0000]}，\n{color[ff4d2fff]}攻击力提升{color[000000ff]}了！
+Text_CopyAbilityStrengtheningMore	已强化为{[0309|0000]}{[0107|0000]}{[0301|0000]}，\n{color[ff4d2fff]}攻击力进一步提升{color[000000ff]}了！
+Text_CopyAbilityStrengtheningMax	已强化为{[0309|0000]}{[0107|0000]}{[010a|0300]}，\n{color[ff4d2fff]}攻击力{color[000000ff]}已提升至\n此能力的{color[ff4d2fff]}上限{color[000000ff]}！
+Text_CapsuleToyAlreadyComplete	目前即将获得的{color[ff4d2fff]}{[031e]}{color[000000ff]}模型已完成收藏。\n是否确定仍要继续转动扭蛋机？
+Btn_Turn	转动
+Text_CapsuleToyPointStarShortage	{[0100|8000]}硬币星{color[ff4d2fff]}不足{color[000000ff]}。\n需要{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}{[0100|8000]}。
+Text_FigureListDecorateFigure	已将模型装饰在家中。\n\n{color[ff4d2fff]}最多{color[000000ff]}可以同时摆放{color[ff4d2fff]}3个{color[000000ff]}模型。
+Text_FigureListDecorateFigureAndRemove	已将原本装饰在家中的1个模型收回，\n并将指定模型装饰在家中。\n\n{color[ff4d2fff]}最多{color[000000ff]}可以同时摆放{color[ff4d2fff]}3个{color[000000ff]}模型。
+Text_FigureListRemoveDecoratedFigure	模型已整理完毕。
+Text_FigureListNoFigures	目前还{color[ff4d2fff]}未持有任何模型{color[000000ff]}。\n请通过关卡或扭蛋机收集吧！
+Text_FigureListEventHint_TownFoodShop	只要在瓦豆鲁迪咖啡店\n{color[ff4d2fff]}多多点餐{color[000000ff]}就能获得此模型。
+Text_FigureListEventHint_TownCafeJob	只要在瓦豆鲁迪咖啡店\n{color[ff4d2fff]}过关极限打工{color[000000ff]}就能获得此模型。
+Text_FigureListEventHint_TownDeliveryservice	只要在瓦豆鲁迪快递\n{color[ff4d2fff]}输入数个{color[000000ff]}礼物关键词\n就能获得此模型。
+Text_FigureListEventHint_TownKnow	只要{color[ff4d2fff]}多多倾听{color[000000ff]}知识渊博瓦豆鲁迪\n所说的话就能获得此模型。
+Text_FigureListEventHint_TownToolShop	只要在瓦豆鲁迪道具店\n{color[ff4d2fff]}多多购物{color[000000ff]}就能获得此模型。
+Text_FigureListEventHint_TownTamakoro	只要{color[ff4d2fff]}过关所有{color[000000ff]}滚啊滚啊！滚球卡比\n就能获得此模型。
+Text_FigureListEventHint_TownFishing	只要在紧张刺激！刹那间的钓鱼池中\n钓到{color[ff4d2fff]}黄金鱼王{color[000000ff]}就能获得此模型。
+Text_FigureListEventHint_TownAbilityRoom	只要在瓦豆鲁迪武器店\n进化{color[ff4d2fff]}所有复制能力{color[000000ff]}\n就能获得此模型。
+Text_FigureListEventHint_TownArena	只要竞技场{[0312]}的\n{color[ff4d2fff]}所有关卡过关{color[000000ff]}\n就能获得此模型。
+Text_FigureListEventHint_TownTheaterRoom	只要瓦豆鲁迪电影院的\n{color[ff4d2fff]}所有影片{color[000000ff]}都能观看时，\n就能获得此模型。
+Text_FigureListEventHint_TownLive	只要将街角瓦豆演奏的\n舞台{color[ff4d2fff]}升级到极限{color[000000ff]}\n就能获得此模型。
+Text_FigureListEventHint_BossChimeraPerfect	只要竞技场{[0312]}的\n{color[ff4d2fff]}所有关卡过关{color[000000ff]}\n就能获得此模型。
+Text_FigureListEventHint_ChallengeAllClear	只要{color[ff4d2fff]}过关所有{color[000000ff]}宝藏之路\n就能获得此模型。
+Text_FigureListEventHint_BossLionAndLeopard	只要{color[ff4d2fff]}收集到所有{color[000000ff]}\n绝岛幻梦·遗忘中飘浮的{[0302|0000]}\n就能获得此模型。
+Text_FigureListArenaHint	只要{color[ff4d2fff]}过关{color[000000ff]}竞技场的\n{color[ff4d2fff]}{[0312]}{color[000000ff]}，\n扭蛋机清单中就会新增此模型。
+Text_FigureListEvolutionHint	只要进化{color[ff4d2fff]}{[030a]}能力{color[000000ff]}，\n扭蛋机清单中就会新增此模型。
+Text_FigureListEventHintBeforeUnlockTown	只要{color[ff4d2fff]}瓦豆鲁迪小镇{color[000000ff]}得到了发展\n就能得知在何处可以获得此模型。
+Text_FigureListEventHintBeforeUnlockEstory	只要和{color[ff4d2fff]}卡洛凌{color[000000ff]}搭话\n并继续冒险，\n就能得知在何处可以获得此模型。
+Text_FigureListEventHint_SoulSingle	只要{color[ff4d2fff]}过关被遗忘的·自然{color[000000ff]}，\n扭蛋机清单中就会新增此模型。
+Text_FigureListEventHintDisclosureEstoryStage	只要{color[ff4d2fff]}陆续通过\n绝岛幻梦·遗忘{color[000000ff]}的{color[ff4d2fff]}关卡{color[000000ff]}，\n扭蛋机清单中就会新增此模型。
+Text_FigureListArenaHintHiddenName	？？？
+Text_FigureListEstoryHintHiddenName	？？？
+Text_FigureListEstoryHintOpenName	狮王的灵魂
+Btn_DeliveryServiceUse	使用
+Text_DeliveryService_NetLoading	为确认快递礼物，\n正在进行互联网连接……
+Text_DeliveryService_FailedConnectInternet	互联网连接失败。{[0004]}要保持未连接互联网的状态，\n{color[ff4d2fff]}使用{color[000000ff]}瓦豆鲁迪快递吗？\n\n仅可使用在小镇中\n发现的礼物关键词。
+Btn_DeliveryService_UseInternet	使用
+Btn_DeliveryServiceInputAbort	退出
+Btn_NotCancel	不退出
+Text_TownPresentBox_WithPresentCode	礼物关键词\n{color[ff4d2fff]}“{[0302|0000]}”{color[000000ff]}的\n快递礼物已送达。
+Text_TownPresentBox_WithoutPresentCode	使用礼物关键词所获得的\n快递礼物已送达。
+Text_TownPresentBox_GetRewardCoin	获得{[0301|0000]}枚{[0100|8000]}{[0320]}！
+Text_TownPresentBox_GetRewardRare	获得{[0301|0000]}个{[0101|8100]}{[0321]}。
+Text_TownPresentBox_GetRewardItem	获得{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardItemItem	获得{[0301|0000]}个{[0317]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardCoinRare	获得{[0301|0000]}枚{[0100|8000]}{[0320]}\n以及{[0301|0000]}个{[0101|8100]}{[0321]}。
+Text_TownPresentBox_GetRewardCoinItem	获得{[0301|0000]}枚{[0100|8000]}{[0320]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardCoinItemItem	获得{[0301|0000]}枚{[0100|8000]}{[0320]}、\n{[0301|0000]}个{[0317]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardRareItem	获得{[0301|0000]}个{[0101|8100]}{[0321]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardRareItemItem	获得{[0301|0000]}个{[0101|8100]}{[0321]}、\n{[0301|0000]}个{[0317]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardCoinRareItem	获得{[0301|0000]}枚{[0100|8000]}{[0320]}、{[0301|0000]}个{[0101|8100]}{[0321]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardCoinRareItemItem	获得{[0301|0000]}枚{[0100|8000]}{[0320]}、{[0301|0000]}个{[0101|8100]}{[0321]}、\n{[0301|0000]}个{[0317]}\n以及{[0301|0000]}个{[0317]}。
+Text_TownPresentBox_GetRewardSupportCoin	瓦豆鲁迪们送来了\n{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}硬币星{color[000000ff]}！
+Text_TownFoundWatchword_00	这种地方竟然写着礼物关键词。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}{[0004]}礼物关键词可在瓦豆鲁迪快递处进行使用，\n并且只能使用1次。
+Text_TownFoundWatchword_01	传单上竟然写着礼物关键词。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}{[0004]}礼物关键词可在瓦豆鲁迪快递处进行使用，\n并且只能使用1次。
+Text_TownFoundWatchword_02	发现了隐藏的礼物关键词。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}{[0004]}礼物关键词可在瓦豆鲁迪快递处进行使用，\n并且只能使用1次。
+Text_TownFoundWatchword_03	发现了写在墙壁上的礼物关键词。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}{[0004]}礼物关键词可在瓦豆鲁迪快递处进行使用，\n并且只能使用1次。
+Text_TownFoundWatchword_04	这种地方竟然也有礼物关键词。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}{[0004]}礼物关键词可在瓦豆鲁迪快递处进行使用，\n并且只能使用1次。
+Btn_Buy	购买
+Btn_TakeOut	外带
+Btn_ForHere	堂食
+Title_MgameFoodHowToPlay	选择正确的菜肴吧！{[0004]}要注意保持客人满意度哦！{[0004]}午餐时间可是非常忙碌的！
+Text_MgameFoodHowToPlay_00	注意观察客人的{color[ff4d2fff]}对话框\n{color[000000ff]}来选择客人所点的菜肴！
+Text_MgameFoodHowToPlay_01	如果{color[ff4d2fff]}客人满意度{color[000000ff]}下降到了最低，\n{color[ff4d2fff]}游戏将会直接结束{color[000000ff]}。\n记得别让客人久等，尽快提供菜肴！
+Text_MgameFoodHowToPlay_02	午餐时间{color[ff4d2fff]}游戏节奏将会一口气提升{color[000000ff]}！\n正确应对接踵而来的订单，\n并{color[ff4d2fff]}以取得高分为目标吧{color[000000ff]}！
+Text_MgameFoodResultPointStar_Solo	取得{[0301|0000]}分，\n获得{color[ff4d2fff]}{[0301|0100]}枚{color[000000ff]}{[0100|8000]}{color[ff4d2fff]}硬币星{color[000000ff]}！
+Text_MgameFoodResultPointStar_Multi	2人总计取得{[0301|0000]}分，\n获得{color[ff4d2fff]}{[0301|0100]}枚{color[000000ff]}{[0100|8000]}{color[ff4d2fff]}硬币星{color[000000ff]}！
+Text_MgameFoodDifficultyUnlock	现在可以游玩\n{color[ff4d2fff]}“忙碌打工”{color[000000ff]}与\n{color[ff4d2fff]}“极限打工”{color[000000ff]}了！
+Text_MgameFoodRetry	要进行重试，\n从头开始打工吗？
+Text_MgameFoodEnd	要放弃打工吗？\n\n放弃后将{color[ff4d2fff]}不会保存{color[000000ff]}所取得的分数。
+Btn_MgameFoodGiveUp	放弃
+Btn_Listen	聆听
+Text_KnowledgeConnectProcessing	正在连接互联网……
+Text_KnowledgeConfirmConnectFailed	互联网连接失败。\n要保持未连接互联网的状态进行聆听吗？\n\n你将无法打听到来自全世界的\n各种游戏信息，或分享自己的数据。
+Btn_Continue	聆听
+Text_KnowledgeConfirmConnectDisallowToAllow	要将互联网连接状态从不使用\n更改为{color[ff4d2fff]}使用{color[000000ff]}吗？\n\n传送游戏数据，\n便可与全世界的玩家分享游戏信息。
+Text_KnowledgeConfirmConnectAllowToDisallow	要将互联网连接状态从使用\n更改为{color[ff4d2fff]}不使用{color[000000ff]}吗？
+Text_KnowledgeChangedConnectAllow	已将互联网连接\n更改为{color[ff4d2fff]}使用{color[000000ff]}。\n\n现在可以和全世界的玩家\n分享游戏信息了。{[0004]}还可以向{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}\n打听到全世界的游戏信息。
+Text_KnowledgeChangedConnectDisallow	已将互联网连接\n更改为{color[ff4d2fff]}不使用{color[000000ff]}。\n\n本设置在之后仍可进行更改。
+Text_KnowledgeNoNeedsReload	新信息\n已更新完毕。
+Btn_ArenaEntry	参加
+Btn_ArenaEntryDissolve	取消
+Text_ArenaEntryEraseRecord1	要删除所有\n{color[ff4d2fff]}“{[0312]}”{color[000000ff]}的记录吗？
+Btn_ArenaEraseRecord1_Yes	删除
+Text_ArenaEntryEraseRecord2	记录删除后就无法复原了。\n{color[ff4d2fff]}真的要删除吗？{color[000000ff]}
+Btn_ArenaEraseRecord2_Yes	真的要删除
+Text_ArenaRevivalPointStarShortage	{[0100|8000]}硬币星{color[ff4d2fff]}不足{color[000000ff]}。\n\n再次挑战需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}。
+Text_TownArenaGetRewardPointStar	获得了{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}硬币星{color[000000ff]}！
+Text_TownArenaGetRewardRarePiece	获得了{color[ff4d2fff]}{[0301|0000]}个{[0101|8100]}稀有石{color[000000ff]}！
+Text_TownArenaGetRewardFigure	获得了{color[ff4d2fff]}特别的模型{color[000000ff]}！
+Text_TownArenaGetRewardBlueprint	获得了能够进化{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的\n{color[ff4d2fff]}{[0309|0000]}设计图{color[000000ff]}！\n拿去瓦豆鲁迪武器店吧！
+Title_MgameFishHowToPlay	按下按键时要快速且正确！{[0004]}以连续钓到大鱼为目标吧！
+Text_MgameFishHowToPlay	当鱼咬中鱼饵时会显示按键提示。\n看到提示就立刻按下{color[ff4d2fff]}正确的按键{color[000000ff]}吧！\n别放过稍纵即逝的每个瞬间！{[0004]}只要连续钓到鱼，\n就逐渐会有{color[ff4d2fff]}大鱼{color[000000ff]}上钩！\n迅速按下按键，创下新纪录吧！
+Title_MgameBallHowToPlay	不断滚动朝终点迈进！{[0004]}抵达终点并获得奖励吧！
+Text_MgameBallHowToPlay	倾斜手柄使球滚动\n直到抵达终点的\n{[0102|8300]}{color[ff4d2fff]}记号{color[000000ff]}！{[0004]}只要成功抵达终点即可获得{color[ff4d2fff]}奖励{color[000000ff]}！\n越困难的关卡所提供的奖励也会越多！
+Text_MgameBallPointStarShortage	{[0100|8000]}硬币星{color[ff4d2fff]}不足{color[000000ff]}。\n\n进行挑战需要{color[ff4d2fff]}{[0301|0000]}枚{[0100|8000]}{color[000000ff]}。
+Text_MgameBallGiveUp	要离开滚啊滚啊！滚球卡比吗？\n\n离开后{color[ff4d2fff]}不会退还{color[000000ff]}\n游玩前支付的{[0100|8000]}硬币星。
+Btn_MgameBallGiveUp	离开
+Text_MgameBallFirstClearLv1	成功{color[ff4d2fff]}过关{color[000000ff]}难易度{[0104|8500]}的\n滚啊滚啊！滚球卡比！
+Text_MgameBallFirstClearLv2	成功{color[ff4d2fff]}过关{color[000000ff]}难易度{[0104|8500]}{[0104|8500]}的\n滚啊滚啊！滚球卡比！
+Text_MgameBallFirstClearLv3	成功{color[ff4d2fff]}过关所有\n{color[000000ff]}滚啊滚啊！滚球卡比！
+Text_MgameBallAllClear	成功{color[ff4d2fff]}过关所有激难的\n{color[000000ff]}滚啊滚啊！滚球卡比！
+Btn_Trade	兑换
+Text_EstorySoulGetFirst	获得了{color[ff4d2fff]}狮王的灵魂{color[000000ff]}！\n这是狮王加尔夫的灵魂……\n看来似乎是他的灵魂碎片。{[0004]}或许只要多多收集这种灵魂，\n就能{color[ff4d2fff]}将他拯救出来{color[000000ff]}了。{[0004]}将散落在幻梦·遗忘的\n狮王的灵魂{color[ff4d2fff]}收集起来吧{color[000000ff]}！
+Text_EstoryBossStageUnlock	收集到的狮王的灵魂\n{color[ff4d2fff]}指出了{color[000000ff]}灵魂之主的位置！{[0004]}能感觉到在那座被遗忘的绝岛上\n有着{color[ff4d2fff]}狮王加尔夫的气息{color[000000ff]}……\n快出发去拯救他吧！
+Text_EstoryBossStageUnlockFailure	要找出狮王加尔夫的位置\n所需的灵魂似乎还不够……{[0004]}探索这个世界，\n{color[ff4d2fff]}收集更多狮王的灵魂吧{color[000000ff]}！
+Text_Advice_ManyRetryAtBoss_ExistNotPassedBlueprint	只要使用你现在持有的{color[ff4d2fff]}设计图{color[000000ff]}\n就能{color[ff4d2fff]}进化{color[000000ff]}成新能力。{[0004]}带上它前往小镇的瓦豆鲁迪武器店，\n进化成{color[ff4d2fff]}强大的能力{color[000000ff]}吧！
+Text_Advice_ManyRetryAtBoss_UsedCopyAbilityAbleToEvolution	可以{color[ff4d2fff]}进化{color[000000ff]}刚才\n在战斗中所使用的\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力。{[0004]}带上它前往小镇的瓦豆鲁迪武器店，\n进化成{color[ff4d2fff]}强大的能力{color[000000ff]}吧！
+Text_Advice_ManyRetryAtBoss_CopyAbilityAbleToUseEvoluted	只要使用{color[ff4d2fff]}进化后的能力{color[000000ff]}战斗，\n局势也会变得更加有利。{[0004]}前往小镇的瓦豆鲁迪武器店，\n{color[ff4d2fff]}选择{color[000000ff]}进化后的能力吧！
+Text_Advice_ManyRetryAtBoss_GuideToFoodShop	{color[ff4d2fff]}库存道具{color[000000ff]}即使在战斗中\n也能通过{color[ff4d2fff]}长按{[0702|0200]}{color[000000ff]}来使用。{[0004]}只要使用食物类的库存道具，\n就能够{color[ff4d2fff]}回复{color[000000ff]}体力。{[0004]}前往小镇上的{color[ff4d2fff]}瓦豆鲁迪咖啡店{color[000000ff]}\n购买食物吧！
 Figure.msbt
 KirbyNormal	波普之星的星之卡比，\n被出现在天空中的“神秘漩涡”所吞噬，\n醒来时发现自己已经来到了这个新世界。\n在漩涡中觉醒了神奇力量的卡比，\n将踏上变化多端，充满新发现的旅程！
 SupportChara	在这个世界相遇的神秘小家伙。\n曾为了帮助被野兽军团袭击的瓦豆鲁迪们而努力。\n为了拯救被抓走的瓦豆鲁迪们并重建小镇，\n和卡比一起踏上了旅程，\n时常给予卡比建议。
@@ -65,42 +855,629 @@ WaddleDee	比卡比更早漂流到这个世界的波普之星的居民。\n他�
 KirbySword	戴着绿色帽子的剑之勇者\n朝着新世界前进！\n不但能斩断各种东西，还能累积威力，\n目标是成为新·世界的利剑大师！
 KirbyBomb	长按按键瞄准后丢出炸弹。\n拿了就丢，砰砰作响的烟火！\n一边跑一边丢，让炸弹在地上滚动，\n从坡道上滚啊滚地来个全倒！
 KirbyCutter	掷出嗡嗡作响的回旋刀刃吧！\n掷出后又回到手上，获得道具了。\n长按按键蓄力就会停在空中哦。\n滞空蓄力，威力也会跟着提升！
+KirbyFire	烈火——！好烫！真的好烫！\n这熊熊燃烧的火焰之力，\n连导火线也能点燃，烫烫烫！\n使用冲刺突进，燃烧吧！
+KirbyRanger	星星子弹发射！\n闪耀光芒的射击，射程可是很远的哦。\n戴上威风凛凛的探险帽，\n选定目标后蓄力，发射！
+KirbyNeedle	滚来滚去～滚来滚去～\n利用碰到会很～痛的尖刺攻击敌人！\n刺中并卷入星星或敌人，\n“嘭”地放开，撞向四周吧！
+KirbyIce	好冷哦～！使用吐息，呼～呼～呼～\n把冰块踢飞吧！\n使用溜冰冲刺轻快地移动，\n不论在泥沼还是岩浆上都能迅速冲刺！
 DeformKirbyCar	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的整辆汽车塞满嘴，\n就能变形为能够使用涡轮冲刺和跳跃的粉红色汽车！\n轻声哼唱那首歌，感受风的吹拂……\n来吧，在新世界兜风吧！
 DeformKirbyCone	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的三角锥塞满嘴，\n身体就能变成尖尖的模样！\n用尖尖的头部击碎大地和水管的龟裂处吧！
 DeformKirbyWaterTank	在神秘漩涡中学会的塞满嘴变形。\n只要一口把在新世界发现的圆形巨蛋塞满嘴，\n就能用浑圆的身体包裹目标！\n紧紧包裹目标，扭扭身体，\n砰地一声打开……看，是道具！
+DeformKirbyLocker	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的四方形置物柜塞满嘴，\n就能和染上粉红色的置物柜合体！手忙脚乱、\n锵锵作响地移动，努力摇晃，砰锵倒下吧。
+DeformKirbyLockerBig	在神秘漩涡中学会的塞满嘴变形。\n面对这种墙壁大概也无计可施吧？\n不过或许可以用这招努力看看，\n变成置物柜塞满嘴，手忙脚乱地胡乱尝试后……\n砰锵一声弄倒墙壁！发现了意想不到的路径！
 CaptiveCage	被野兽军团强行抓走的瓦豆鲁迪。\n同伴接二连三地被抓走，正一脸困扰地等待救援。\n没错，是不是此刻都能听到……\n从某处传来了“哇呀哇呀～”\n（放我出去、放我出去～）的求救声呢？
 GoalPoint	瓦豆鲁迪们对野兽军团而言等同功劳，\n他们被一次抓到了好几个，关在了金色的牢笼里。\n只要三人合力，这种牢笼也不在话下……\n但就算努力尝试，牢笼也纹丝不动，\n现在也还“哇呀哇呀～”地求救着，等待救援。
 AnimalWaddleDee	广泛分布于这个世界，是一种十分常见的野兽。\n外表虽然可爱，其实却相当具有野性，\n会一面低吼一面扑向所见目标。\n与瓦豆鲁迪更是水火不容，见到就穷追不舍，\n总是叼起他们扬长而去。
+RabbitEnemy	高高跳起，又重重落下的拉比兔，\n以及更加强健而巨大的大拉比兔。\n由于蓬松的毛皮摸起来很舒服，\n因此常被他人抚摸。只有尾巴一旦\n被碰到就会发怒，并跳起来攻击对方。
 TackleEnemy	以巨大的双角为傲的巴伐尔牛角。\n普通的攻击可是无法阻止他突进的！\n不过因为连他自己都刹不住脚步\n所以偶尔会发生坠落悬崖的事故。\n即便如此，强壮的他依然充满着精力。
 Turtle	背着混凝土龟壳的龟塔洛斯。\n不但头部坚硬，咬人也很疼，是个难对付的家伙。\n然而他的身体似乎相当脆弱，\n想办法爬到他背上后再使用塞满嘴变形\n连同混凝土龟壳一起攻击吧。
 TurtleBig	建筑龟塔洛斯居然将整栋高楼背在了身上。\n遵循谁背的龟壳最大，谁就是老大的规矩，\n在宽广的草原上统领着一族。\n虽然也喜欢水，但最喜欢的还是晒太阳，\n会爬到高处并将那里视为自己的地盘。
+RangerEnemy	砰砰砰发出射击的伯纳犬。\n打扮得如同探险家一般，迅速地移动、瞄准并射击！\n踩着敏捷的步伐，射击闯入地盘的敌人！\n由于他的嗅觉也相当敏锐，\n即使猎物在远处也能通过气味发现目标。
+NeedleEnemy	积蓄力量后就会射出锐刺，\n尖尖的刺便是针猬的特征。\n会将靠近自己的敌人扎成刺猬。\n虽然小时候身上的刺短短的十分可爱，\n但长大后尖刺的长度就会迅速成长，变得相当危险！
 CarshopSignboard	由何莱恩股份有限公司经营的汽车门店——\n何莱恩汽车定制门店。何莱恩除了汽车，\n还负责各种工业产品以及建筑行业。\n建筑、道路，甚至是游乐园里的设施\n似乎都是由何莱恩制造的。
+MallEntrance	由阿莱布尔控股公司运营的\n大型购物中心——阿莱布尔购物中心。\n“为你的生活带来活力”是他们的口号，\n产业结构广泛囊括了餐饮、休闲娱乐以及服务类行业等，\n在各地都能发现其产业的发展踪迹。
 CompanyBoard	莱特隆工程公司曾经是一个庞大的企业，\n致力于电子、生物及太空探索等领域研发，\n并投资了研究设施。\n其后由于公司分裂，企业竞争也随之增加，\n最终导致了企业战争的白热化。
 MaxTomato	只要吃1个就能完全回复体力，\n营养满分的M番茄。\n虽然不知道它是否也是通过神秘漩涡而来，\n还是原本就存在于这个世界，\n但似乎是野兽军团也爱吃的人气甜点。
+TownCafeJob	在咖啡店努力工作的卡比。\n虽然看起来很可靠……但其实正在忍耐。\n卡比咽了咽口水，现在就好想把商品吃掉，\n甚至比魔王战时还要努力地在忍耐。\n再坚持一下就好了……卡比！
+TownFishing	在小镇的钓鱼池旁悠闲钓鱼的卡比。\n虽说悠闲，但其实池塘里栖息着巨大的鱼王，\n这座钓鱼池可以说是相当刺激又富有挑战性。\n可是那么巨大的蛙镜鱼\n到底会在池塘的哪里呢……？
+TownKnow	烦恼的时候可以求助知识渊博瓦豆鲁迪。\n他会传授你有益于冒险的知识。\n不过，他到底是从哪里得到那本大百科的？\n快速翻阅通晓世界的神奇书本，\n他甚至能告诉你世界各地的数字！
+TownDeliveryservice	小镇上瓦豆鲁迪快递的快递员。\n能够以超快的速度快递到家。\n即使卡比写的礼物关键词难以看懂，\n温柔的瓦豆鲁迪也会体谅努力写字的卡比，\n接下快递委托。
+TownFoodShop	在咖啡店工作的瓦豆鲁迪。在卡比来到\n小镇前就已经在这个世界制作美食了。\n即使店面被顺着食物香气前来的\n野兽军团破坏，暂时失意的他也会马上振作起来，\n快速重建咖啡店。现在也深受顾客喜爱。
+TownTamakoro	在小镇的娱乐设施——滚球店工作的瓦豆鲁迪。\n由于这款超人气游戏深受大家喜爱，\n总是有众多瓦豆询问何时推出新作，\n为了回应大家的期待，\n他额外制作出了激难模式！
+TownToolShop	在小镇开设道具店，心灵手巧的瓦豆鲁迪。\n贩卖着能让人恢复精神的道具。\n咖啡店菜单上的元气饮料\n也是这家店制作的，\n批发价是2瓶元气饮料交换3个卡比汉堡。
+MisterFrosty	比卡比他们早些从波普之星\n漂流到这个世界的冰霜先生也加入了\n野兽军团，换上了风格狂野的服装。\n与军团的成员意气相投，\n也深受同伴信赖。
+BossGorilla	将购物中心划为地盘的猩猛霸。\n身为野兽军团的干部，\n时常抓走瓦豆鲁迪、抢夺食物。\n不过，他总是会忍不住当场吃起水果来，\n每次被发现都会受到军团首领责骂。
+KirbyDrill	钻击挖啊挖，在地底前进，\n似乎还能潜入地底躲避敌人的攻击！\n只要在地底潜行，继续前进，\n原本到不了的地方也能顺利潜入！
+KirbyTornado	转啊转，转啊转地转个不停！\n别具特色的操作让人头昏眼花，\n但不论是敌人、方块还是星星都能卷起，\n旋转后放开造成伤害！
+KirbyHammer	威力超群，强而有力的锤子。\n虽然攻击距离短了一点点，\n却能够把桩和敌人都打扁！\n长按进行蓄力，必杀技……鬼杀！
+KirbyCrash	引发大爆炸吧！\nDANGER DANGER的终极武器！\n长按按键变得更～加DANGER，\n波及四周，360度全方位无死角！
+KirbyEliteRanger	头戴贵族帽子，造型华丽的探巡队。\n双手各拿着连发枪！\n蓄力射击也变成连续射击，\n不放过任何目标，一定会命中红心！
+KirbySwordGalactic	巨大的利剑真不愧庞大利剑之名！\n有点重，所以拿起来很辛苦，\n但防御堪称铁壁！能够架起盾牌，\n缓慢前进保护自己并不断进攻！
+KirbyBombChain	连锁也就是连锁发动的炸弹！\n长按进行瞄准后丢出炸弹布局，\n引爆后就会产生连锁反应，砰砰砰地爆炸！\n相连的炸弹越多伤害也会越高！
+KirbyCutterChakram	居然是弯刀二刀流！\n操纵着两轮圆月，\n交替投掷，劈砍四周。\n在空中嗡嗡作响，交错纷飞的圆月弯刀！
+KirbyFireVolcano	轰地一声，火山要爆发了！\n大地的地热造就了威力强大的烈火！\n砰砰砰地发射岩浆子弹，\n命中目标后连大地也熊熊燃烧化作焦土！
+KirbyNeedleJunk	使用废品素材连续戳刺，\n碰到滚动的针刺可是会很痛的哦！\n砰地发射后，无数废品刺\n便会飞向四周，好痛好痛！
+Swan	更加优雅，更加美丽。\n虽柔软但威力却提升了！\n利用风和羽毛将敌人卷入，\n使出芭蕾般的舞蹈，华丽地进行攻击！
+KirbyHammerToy	会发出哔哔声，非常可爱的锤子。\n但这可不是玩具哦！\n无论是桩还是敌人都会被打得扁扁的，\n连续攻击能力也一举获得提升！
+KirbyCrashTime	这不会就是终极武器了吧？\n连时间都能操控的新武器！\n将这个世界的一切都变成慢动作，\n而自己快速行动，破坏一切！
+DeformKirbyRing	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的大圈圈塞满嘴，\n就能让身体变成张着嘴巴的圈圈！\n只要呼气就能用风吹散沙尘与敌人，\n甚至还能吹动风车，让其旋转！
+DeformKirbyRingBoat	在神秘漩涡中学会的塞满嘴变形。\n变形成圈圈塞满嘴，搭上漂浮在水上的小船吧！\n变成可以操控风力的游艇后，\n不但能呼气突进，还能冲垮敌人！\n碰到有裂痕的墙壁还能砰地破坏掉，继续前进哦！
+DeformKirbyLightbulb	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的圆形灯泡塞满嘴，\n就能在一片黑暗中打开开关照亮世界！\n因为按着开关的时候难以行动，\n所以记下照亮的路径再前进吧。\n寻找、迈进、抵达终点！
+DeformKirbyRollerCoaster	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的整辆云霄飞车塞满嘴，\n就能变成太空飞车，随时出发！\n仔细看清路线，左右倾斜前进吧！\n这就是主题乐园的招牌游乐设施，\n名为梦幻的……“太空惊奇乐园号”！
+Alligator	拥有骇人巨大下颚的鳄佳布尔。\n会贴着水面游动，等待猎物上门。\n身体被宛如盔甲的表皮覆盖，\n坚硬得连复制能力都无法伤其分毫。\n在塞满嘴变形后使用突进打倒他吧！
+WaterBigEnemy	最爱耍特技的气球高手。\n不知道是受人指导还是祖辈的遗传，\n他拥有相当完美的球技！\n那颗球也不知是从何处得到的，\n是一碰就会爆炸的危险品。\n努力地吸入球来取得炸弹能力吧。
+DrillEnemy	在地底移动如游泳般自在的狄古。\n潜入地底再迅速窜出！\n是个神出鬼没，让人大吃一惊的家伙。\n他会丢出泥土搓成的球进行攻击，\n还会把土地下的农作物通通吃光。
+HammerEnemy	面带笑容跳着舞的牧吱斯。\n他会挥舞投掷手中的小锤子，\n是脸上挂着满足笑容的愉快野兽。\n只不过……虽然他看起来面带笑容，\n但那其实是表达愤怒和威吓的表情！
+ParkEntranceStatue	创始人名叫惊奇利亚。\n他以爱犬作为招牌角色创作书籍，\n描绘了一个飞向宇宙，惊险刺激的幻想故事。\n并以此故事为背景创立了广受小孩与大人青睐的\n梦幻主题乐园——惊奇乐园。
+ParkMascot	以惊奇乐园创始人的爱犬为原型的吉祥物。\n名字分别为惊奇克斯 艾格兹（左）\n以及惊奇利 艾格兹（右）。\n在故事中，两只吉祥物一直都十分要好，\n一起进行着宇宙之旅。
+Bonkers	比卡比他们早些时间从波普之星\n漂流到这个世界的锤星猩也加入了\n野兽军团，换上了风格狂野的服装。\n现在已经完全融入军团之中，\n对牧吱斯疼爱有加。
+MbossTornado	以优雅姿态起舞的天鹅罗利那。\n要是被她那芭蕾舞者般的舞蹈给吸引住，\n就会被她卷进龙卷之舞中！\n她随时随地都会注意踮起脚尖，\n无论舞蹈课还是战斗训练都毫不懈怠，相当勤奋。
+GigantEdge	比卡比他们早些时间从波普之星\n漂流到这个世界的庞大刃也加入了\n野兽军团，换上了风格狂野的服装。\n虽然在军团中与他人有些格格不入，\n但他仍狂野地坚守着自己的岗位！
+WhispyPalm	受到阳光照耀而茁壮成长的热带大树。\n愤怒时会落下巨大椰子引发大爆炸。\n对入侵地盘者会毫不留情地展开攻击，\n但据说长在他头上的普通椰子非常美味，\n所以想得到椰子的挑战者也络绎不绝。
+BossLeopard	在惊奇乐园的马戏团中现身的卡洛凌。\n能以快速且优美的动作将敌人玩弄于股掌。\n她担任着野兽军团首领的联络官，\n在察觉到卡比的行动后前往了惊奇乐园。\n是军团中偶像一般的人物，拥有众多拥护者。
+KirbySleep	再睡1分钟……Zzz……\n让我……再睡一会嘛……好困……Zz……\n睡觉期间……会回复……一点点……\nZz……Zz……z……
+KirbyPencilDrill	具有独特设计，极具个性的钻击！\n超大的铅笔虽然没办法写字，\n却可以挖掘大地，潜入地底再窜出来。\n射击吧！发射吧！铅笔火箭！
+KirbyFrostyIce	戴着可爱帽子的冰霜冰冻。\n呼～呼～吹出吐息，\n创造出一个又一个雪人。\n哎呀，长相都一模一样呢！
+KirbyFireDragon	奇幻的怪物终于现身了！\n呼出吐息宛如火焰喷射器，\n释放燃烧攻击时会拍动翅膀！\n长按时就像龙在空中滑翔飞舞！
+DeformKirbyVendingMachine	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的果汁自动贩卖机塞满嘴，\n就能变成可以使出罐子射击的战斗型自动贩卖机！\n虽然罐子数量有限，但只要射击打不坏的墙壁，\n就能获得可以喝的饮料！
+DeformKirbyStairs	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的巨大阶梯塞满嘴，\n就能让身体变成阶梯的形状！\n朝着想倒下的方向使出砰锵攻击！\n搬动阶梯，爬上阶梯，过关啦！
+DeformKirbyCylinder	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的长～长水管塞满嘴，\n一旦开始滚动就停不下来！直到撞上墙壁为止，\n都会持续不停，一路滚下去！\n仔细观察或许会掉落的地形，闪避开来，使出大跳跃吧！
+DeformKirbyElevator	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的作业车塞满嘴，\n就能变成可以伸长缩短的作业车！\n调整好高度和位置，移动并前进，伸长再吐出，\n就能华丽地一跃至高处！
+DeformKirbyWaterBalloon	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的给水管塞满嘴，\n吸进大量的水，就能让身体变成神奇的水球！\n虽然粉红的肤色会稍～微变浅一点，\n但却能缓缓移动，搬运水分，把一切冲得一干二净！
+DeformKirbyGlider	在神秘漩涡中学会的塞满嘴变形。\n只要把在新世界发现的半圆拱门塞满嘴，\n就能变成可以翱翔天际的滑翔翼！\n控制好升降就能乘上轨道，如果路上遭到\n敌人阻碍就使出旋转突进展开螺旋攻击吧！
+CaptiveSupportChara	在出乎意料的时间点被帝帝帝大王\n从雪白角峰抓走的艾菲灵。\n一路以来，他为卡比提供了许多建议，\n但自从他被抓走以后，就听不到他的声音了……\n卡比也因此感到相当沮丧。
+NormalEnemyWild	原始荒野大地被视为野兽们的发源地。\n跟常见的那些野兽比起来，\n栖息在此地的加鲁鲁菲更加具有野性。\n他会一边发出低吼一边追逐猎物，\n遗传自祖辈的凶猛程度更是有过之而无不及。
+SnakeEnemy	能将敌人一口吞下，贪吃的佳布尔蛇。\n能从远处快速接近，一张嘴就咬得死紧。\n即使是大得看似难以一口吞下的猎物，\n也能靠可伸缩的柔韧身体一口气将其吞入。\n是个可怕的敌人。
+PoisonToadEnemy	全身弥漫着剧毒的巨大青蛙——毒毒蛙。\n身体受到毒素的覆盖和保护，能够抵挡任何攻击！\n虽然皮肤一直被毒保护着，\n但只要用大量的水将他淋湿，\n就能让他原本弹润的皮肤显露出来。
+Blueprint	新发现的设计图，可以进化复制能力。\n虽然内容卡比就算看了也不懂，\n但只要将设计图带到瓦豆鲁迪武器店，\n一阵敲敲打打后成品就能马上出炉！\n嗯～真不愧是技术高超的瓦豆鲁迪！
+Metaknight	比卡比他们晚一步被神秘漩涡吞噬，\n同样来到此地的魅塔骑士。\n他正在调查离开这个世界的方法。\n在进行调查的同时仍不忘磨练自己的剑术，\n并挺身挑战袭击小镇的野兽军团。
+Dedede	其实比卡比早些时间来到这个世界的帝帝帝大王！\n他似乎已经和野兽军团联手……\n话说回来，他这么对待瓦豆鲁迪们也太过分了吧？\n熟悉的长袍也映照了这个世界的风格变得更加狂野。\n总觉得看起来很厉害！
+BossArmadillo	相当擅长旋转舞蹈的犰魔乱舞。\n因为是夜行性生物，具有优秀的夜视能力。\n也不知道有没有好好听从首领的命令，\n虽然正在搜集各种东西，却迟迟找不到真正的目标。\n目标其实是个轻飘飘地飞在空中的小家伙……
+KirbySwordMeta	握上魅塔骑士利剑，宛如对手魅塔骑士一般！\n体力足够时还能释放射击。\n滑垒后用跳跃向上跃起使出连击，\n帅气地决定胜负！
+KirbyHammerRock	又重又坚硬，狂野无比的锤子！\n虽不太具备连续攻击的能力……\n但一锤敲落，便可释放出让大地龟裂，\n十分疼痛的一击，造成巨大的伤害！
+KirbyCutterMetal	出招吧！投掷出去吧！金属弯刀！\n不但射程更远，威力也更加提升。\n命中墙壁就会锵锵作响，\n善用反弹，使射程更远一些吧！
+KirbyNeedleCrystal	由天然素材构成，硬邦邦的水晶。\n只要一释放，水晶就会四处飞散！\n滚动的时间也会变得更～长，\n在地上留下尖刺陷阱吧！
+KirbyBombChainSearch	更加新型的行走炸弹！\n炸弹丢出后会自动搜索敌人，\n一旦发现敌人就会锁定目标突进！\n还会以连锁炸弹追击敌人！
+KirbyDrillTwin	使用双重钻击进行攻击吧！\n具有只要在敌人下方的地底潜行\n就可以迅速打倒敌人的优秀能力！\n不但速度提升了，伤害也提升了！
+KirbyIceBlizzard	带来严寒暴雪的暴风雪！\n帅气的帽子是冰之头冠。\n不断吹出寒冰吐息，并使用冰锥进行攻击。\n这就是最强的冰冻能力！
+KirbyDeep	迷迷糊糊……Zzz……\n走向……床边……钻进被窝……Zz……\n起床以后……会拿出……真本事的……\nZz……Zz……z……
+KirbyStorm	危险的龙卷风，雷声隆隆的风暴！\n暴风再加上轰鸣声，\n雷鸣响起，狂雷电击！\n使用风与电的双重攻击来进攻吧！
+KirbySpace	飞向宇宙吧！太空探巡队！\n用镭射枪发射镭射光束吧！\n闪耀光芒的子弹只要击中敌人\n就能造成连续命中，伤害也会倍增！
+KirbyDedede	自称大王的那位所拿的锤子！\n变身狂野蒙面侠后，\n用双手使出威力十足的强势攻击！\n就用这最强的锤子，来……上吧！
+KirbyMorpho	在决战中为执行审判而现身的梦蝶。\n虽然这是模仿了其外型、令人畏惧的红色能力，\n不过卡比就连噩梦都能一口吞掉，\n应该很轻易就能熟练使用这项能力吧。
+DeformKirbyDumpCar	为拯救这个世界与那个世界……\n努力塞满嘴所发现的最终塞满嘴变形！\n就算身体拉长到令人担心，但这根本不算什么！\n承载着卡比与艾菲灵两人的心意，\n为释放最后一击……起飞吧！
+TurtleBigLava	栖息在红通通禁区，\n更加好战的龟塔洛斯一族的首领。\n喜欢炎热的地区，活动范围并不广泛，\n但可以从口中吐出混凝土子弹射击远方的猎物，\n是种粗暴的生物。
+NormalEnemySleep	野兽军团一直以来都与离开此星球的人们\n遗留下来的文明共存着。\n虽然有许多东西连如何使用都不得而知，\n但似乎有些物品会散发出他们喜欢的气味。\n就连平时凶猛的加鲁鲁菲，\n今天也正在喜欢的木箱上午睡。
+TreasureHunt	充满危险与诱惑的新世界。\n只要在旅途中四处多绕点路……\n就有可能发现成堆的财宝！\n为了找到沉眠此地的宝藏，\n探巡队卡比的冒险仍未结束！
+KirbyAndMetaknight	魅塔骑士也随着卡比他们一起来到了这个世界。\n虽然调查进度已经到达了雪之区域，\n但他为了击退小镇中的野兽，\n还是来到了高处的竞技场展开监视。\n经常与猩猛霸交战，据说目前的战绩是30战30胜。
+KirbyAndDedede	两人在波普之星时是命中注定的劲敌！\n虽然帝帝帝大王是这么主张的，\n但在新世界一直没见到卡比他们，其实非常失落。\n后来再见到卡比时，他何止是劲敌，\n甚至已经变成了狂暴肆虐的野兽了。
+ClearDance	受到卡比欢乐心情的感染，\n除了熟悉的头巾瓦豆鲁迪之外，\n初次相遇的艾菲灵也加入了卡比跳舞的行列！\n卡比虽然模样十分可爱，但歌声却爆炸力十足。\n下次大家一起来合唱吧！（心跳加速……）
+ChallengeAllClear	神秘漩涡可以通往各种各样的世界。\n其中被称为宝藏之路的空间中还藏有\n一种不知从何而来的名为稀有石的石头。\n这种石头蕴含着强大的能量。\n恭喜你，成功收集到了所有稀有石！
+TownAbilityRoom	在小镇经营武器店，充满活力的造物专家。\n说完一句“就交给我吧！”便拿起锤子，\n为复制能力提升威力。\n总是为了打造更强更棒的东西而努力过头，\n有时候连帽子都会稍微变大。
+TownArena	充满各种神奇事物的竞技场。\n除了充满自信的野兽，甚至连神秘漩涡都会出现。\n实况瓦豆鲁迪自己也曾感到过害怕，\n认为关闭竞技场或许会比较好……但苦恼了一阵子后，\n还是因为想观赏战斗而重新举办起大赛。
+TownTheaterRoom	瓦豆鲁迪电影院的瓦豆鲁迪。在小镇被破坏后，\n喜爱电影的他飞快地重建了电影院。\n虽然食物和家都很重要，\n但娱乐也是不可或缺的！\n要说他喜欢的影片……那当然是全部咯！
+TownLive	四人乐团豆鲁迪士，随着哇呀！（开唱！）一声高呼，\n帅气的音乐便炒热了小镇的气氛。\n由于对音乐坚持的不同，总会在咖啡店展开热议，\n然而一旦开始表演却又默契十足。\n虽然发生过不少事情，却依然是要好的四人组。
+BossLeopardAndSoul	受到卡比和卡洛凌的心意指引，\n收集到的灵魂回到了他的身边。\n狮王加尔夫从ID-F86残存的思想中获得了解放，\n想必他一定会成为动物们的强大领导者并带领大家吧。\n这个世界也已经不要紧了！
+BossLionAndLeopard	他们曾经是一对知名搭档，也是动物们的领袖。\n然而某一天，狮王发现了ID-F86，并开始\n以狮王加尔夫自称。他说起了让只会发出吼叫的卡洛\n无法理解的语言，并建立了野兽军团。\n但即便如此，卡洛也对他深信不疑。
+MaskDedede	掳走艾菲灵，在红通通火山山脚等待着\n卡比的是戴上了狂野面具的帝帝帝大王！\n他为什么要掳走艾菲灵……？\n他戴上从某人手中得来的诡异面具，\n摇身一变，成为了狂暴的野兽！
+BossLion	统领野兽军团的强者——狮王加尔夫。\n他成为了来自宇宙的侵略种的棋子，不断收集着\n被当成能量来源的食物以及瓦豆鲁迪们。\n而他最重要的任务，就是捕获下落不明的ID-F87……\n菲克特·艾菲灵。
+BossOrigin	某天，众多原生种受到了天外飞来的ID-F86的袭击。\n人们为了阻止ID-F86，成功捕获了他。随后，\n人们开始研究起他的能力，最终获得了梦幻的技术，\n并启程离开了这颗日渐狭隘的行星。\n尚未苏醒的ID-F86就像是他们的遗忘之物一般。
+BossChimera	失去了艾菲灵的侵略种，沉眠于永恒胶囊的同时，\n也在不断释放着强烈的思想电波，\n逐渐控制了动物们。\n其身躯在胶囊外会变得无法维持机能，\n因此才需要大量的能量。
+BossChimeraPerfect	残存于他侵略野心中微小的博爱之心分离后，\n从而诞生出了艾菲灵。\n这导致了他的空间转移能力变得不稳定，\n各地也出现了不受控制的神秘漩涡。\n恢复完全体后，他又开始计划侵略下个行星。
+SoulSingle	狮王加尔夫的灵魂漂流到了那座绝岛上。\nID-F86被卡比击败而失去了身躯，\n但他的思想逃到了绝岛的尽头，\n并以附身的形式囚禁了狮王加尔夫。为了将自己的思想\n注入狮王的身体，他舍弃了狮王的灵魂。
+BossGorillaEX	从强大的思想中诞生的幻之野兽——猩猛霸·幻。\n虽然是宛如从梦中诞生的思想体野兽，\n但实力却远远超越了本体！\n即便如此，他还是对水果没有抵抗力，\n仍然在梦幻的购物中心大吃特吃。
+WhispyPalmEX	在幻梦·遗忘上有着诡异的梦幻太阳。\n在那阳光的照射下，热带大树·幻也得到了茁壮成长。\n他头上结下的诡异椰子，\n吃起来究竟会是什么味道呢……\n有谁愿意成为第一个吃它的人吗！？
+BossLeopardEX	因为太想见到失踪了的主人——狮王加尔夫，\n卡洛凌选择了依靠卡比的帮助。\n但是，这思想体卡洛凌甚至忘记了自己\n对狮王加尔夫的仰慕之心，成为了真正的野兽。\n彻底击败模仿卡洛凌的虚假思想体吧！
+DededeEX	从强大思想中诞生的帝帝帝大王。\n此时的大王由于受到侵略种的心灵感应控制，\n与狮王加尔夫一起成为了搜索艾菲灵的棋子。\n没错，这个大王并没有与卡比他们的回忆，\n他只是个遗忘了一切的思想体！
+BossArmadilloEX	模仿野兽军团的形象，\n从强大思想中诞生的存在。\n这个犰魔乱舞·幻也和过去的形象一样，\n至今也依然徘徊在幻梦·遗忘中，\n追寻着艾菲灵与卡比。
+MetaknightEX	未曾在那座绝岛上相遇的孤傲思想体。\n侵略种曾经也企图和控制帝帝帝大王一样，使用心灵感应\n将他变成自己的棋子，但他的自我战胜了\n侵略种的精神，从侵略种的手中逃脱。\n然而，这个思想体却基于当时的形象被创造了出来！
+MaskDededeEX	狂野 帝帝帝曾从狮王加尔夫那里获得了\n沉淀于思想的蒙面，接下了阻止入侵者前往\n实验室·摸索发觉的任务。\n实力强大无比的狂野 帝帝帝·幻\n正是从那形象中诞生，并遗忘了一切的对手！
+BossLionAndOrigin	变成灵魂的ID-F86为了从幻梦·遗忘的尽头\n发起反攻而创造出了思想野兽们，\n自己则附身于狮王加尔夫的身体中。\n但残留在他体内的灵魂仍不断进行着反抗，\nID-F86也在受到卡比的攻击后现出了真身。
+MorphoKnight	据说会在决战中执行审判的这只梦蝶\n像是受到了指引一般漂流到了被遗忘的绝岛上。\n在那里吸食了最强的灵魂后，它化身红色的骑士降临此地。\n在这新世界的最凶险的战斗……\n终于即将迎来日暮！
+BossChimeraSoul	混合了梦蝶与原生种们的众多灵魂所诞生出的\n魂沌新物种。然而那失控的魂沌也终于被打败，\n因卡比的奇迹之力转化为小小的光芒。\n光芒并未消失，而是被艾菲灵收进了怀中，\n随即……合为了一体。
 $Multiplication	×
+$FigureList1SText	1
+$FigureList2SText	2
+$FigureList3SText	3
+$FigureList4SText	4
+$FigureListCloseInfoText	关闭
+$FigureListSkipText	Vol.切换
+$FigureListSlashText	/
+$FigureListTabTitleText	扭蛋机收藏
+$FigureListVolSText	Vol.
+$View	欣赏
+DecorateOn	装饰在家中
+DecorateOff	整理
+$Rotate	旋转
+$Zoom	缩放
+$TotalCount	模型总数
+GameComplete.msbt
+History.msbt
+$HistoryCloseInfoText	返回
+ProductNameLatest1	星之卡比 新星同盟
+ProductNameLatest2	卡比群星战2
+ProductNameLatest3	超级卡比猎人队
+ProductNameOther1	Kirby's Extra Epic Yarn
+ProductNameOther2	Kirby Battle Royale
+ProductNameOther3	Kirby's Blowout Blast
+ProductNameOther4	Team Kirby Clash Deluxe
+ProductNameOther5	Kirby: Planet Robobot
+ProductNameOther6	Kirby and the Rainbow Curse
+ProductNameOther7	Kirby Fighters Deluxe
+ProductNameOther8	Dedede's Drum Dash Deluxe
+ProductNameOther9	Kirby: Triple Deluxe
+$HistoryTitleText	过去的冒险
+PlatformName1	Nintendo Switch
+PlatformName2	Nintendo 3DS
+PlatformName3	Wii U
+ProductCommentLatest1	以盟友之心让敌人成为同伴！\n与同伴搭档依次使出“盟友能力”，\n为拯救世界而战吧！\n通过分享Joy-Con，最多可以4人一起游玩。
+ProductCommentLatest2	选择复制能力，最多4人一起对战的动作游戏。\n玩家也可以游玩故事模式，\n挑战帝帝帝大王与魅塔骑士联手的组合。\n此外，还能够在线上与全世界的玩家以及朋友对战。
+ProductCommentLatest3	4种职业的卡比齐心协力挑战各种任务，\n基本免费的动作游戏。\n单人游戏当然不用说，还能用线上游戏、\n分享游玩等方式轻松地进行多人游戏。
+ProductCommentOther1	操控毛线外观的卡比，\n使用毛线特有的多种招式进行冒险的动作游戏。\n除了可以让卡比变身成各种样貌的“换形能力”，\n还能够使用全新的“裁缝能力”！
+ProductCommentOther2	操控卡比与众多对手\n展开多彩多姿战斗的动作游戏。\n除了可以1个人游玩，也能够通过互联网连接\n或本地联机与最多4名玩家互相竞争！
+ProductCommentOther3	《Kirby: Planet Robobot》的小游戏脱胎换骨，\n变成了卷轴式3D动作游戏。\n驰骋在3D空间，凭借吸入与吐出打倒敌人\n并取得高分吧！
+ProductCommentOther4	在《Kirby: Planet Robobot》的小游戏中\n加入了新的探索、超过80种的“装备”，\n以及作为据点的“小镇”等等崭新要素。\n还能够享受4人合作游玩的基本免费游戏。
+ProductCommentOther5	为了拯救被邪恶企业侵略的世界，\n卡比将与拥有10种以上不同型态的\n“机器博博装甲”一同奋战！\n可对应所有的amiibo。
+ProductCommentOther6	使用触控笔画出彩虹线条，\n将卡比引导至终点吧！\n卡比还可以变身成3种不同种类的运输设备。\n还可以由其他玩家操纵瓦豆鲁迪，享受4人合作的乐趣！
+ProductCommentOther7	在《Kirby: Triple Deluxe》的小游戏中\n新增了更多要素。\n能够从10种复制能力当中选择喜欢的能力进行对战，\n还可以通过联机4人同乐！
+ProductCommentOther8	在《Kirby: Triple Deluxe》的小游戏中\n新增了更多要素。\n配合节奏操作帝帝帝大王，\n使用不同跳跃直奔终点！
+ProductCommentOther9	特点是不再局限于左右移动，\n还能在关卡的前后移动。\n除了25种复制能力以外，\n还能够享受“超新星吸入”带来的冲击性与乐趣！
 MessageWindow.msbt
 CharaName_Unknown	？？？
 CharaName_SupportChara	艾菲灵
+CharaName_BandanaWaddleDee	头巾瓦豆鲁迪
+CharaName_AbilityRoomClerk	武器店瓦豆鲁迪
+CharaName_FoodShopClerk	咖啡店员瓦豆鲁迪
+CharaName_MgameFoodClerk	咖啡店长瓦豆鲁迪
+CharaName_PharmacyClerk	道具店瓦豆鲁迪
+CharaName_ArenaClerk	实况瓦豆鲁迪
+CharaName_TheaterClerk	电影院瓦豆鲁迪
+CharaName_MgameBallClerk	滚球店瓦豆鲁迪
+CharaName_DeliveryServiceClerk	快递员瓦豆鲁迪
+CharaName_KnowledgeWaddleDee	知识渊博瓦豆鲁迪
+CharaName_MerchantWaddleDee	兑换瓦豆鲁迪
+CharaName_VassalWaddleDee	家臣瓦豆鲁迪
 Msg_TownFirstDemo_SupportTalk_00	{[1907|00cd]}谢谢你，\n真是得救了～！{[0004]}{[1400]}不过他们……\n{color[ff4d2fff]}瓦豆鲁迪{color[000000ff]}们都被抓走了……{[0004]}小镇遭到了好几次袭击，\n虽然大家一起努力反抗……{[0004]}{[1400]}{[1402]}{[1902|00cd]}可最后还是只剩下了我一个人……{[0004]}我得赶快去救他们才行……
 Msg_TownFirstDemo_SupportTalk_01	什么？{[1401]}{[1905|02cd]}{[1400]}\n你愿意跟我一起去救他们吗？\n谢谢你～！
 Msg_TownFirstDemo_SupportTalk_02	{[1907|00cd]}你叫……{color[ff4d2fff]}卡比{color[000000ff]}对吧？
 Msg_TownFirstDemo_SupportTalk_03	{[1907|01cd]}我叫{color[ff4d2fff]}艾菲灵{color[000000ff]}！\n请多关照哦！
+Msg_TownFirstDemo_BandanaWaddleDeeTalk_00	喂～卡比！
+Msg_TownFirstDemo_BandanaWaddleDeeTalk_01	我也是在{color[ff4d2fff]}波普之星{color[000000ff]}被吸入漩涡，\n才来到这里的。{[0004]}如果你想以双人游玩的方式进行冒险，\n随时都可以呼唤我哦！
+Msg_BandanaWaddleDee_TalkGuide2P	如果你想以双人游玩的方式进行冒险，\n只要按下{[0411|9400]}暂停，随时都可以呼唤我哦。\n我会马上赶到的！
+Msg_BandanaWaddleDee_TalkStory1_01	当时我突然被吸到空中，\n真是吓了一大跳呢～！{[0004]}其他的瓦豆鲁迪们似乎比我\n更早一步来到了这个世界……
+Msg_BandanaWaddleDee_TalkStory1_02	在我急着想要追上他们的时候，\n刚好看到一辆粉红色的汽车。{[0004]}那果然是卡比你呢！{[0004]}不过你把那么大一辆汽车塞进嘴巴里，\n嘴巴不会受伤吗……？
+Msg_BandanaWaddleDee_TalkStory2	瓦豆鲁迪们回到小镇后，\n这里变得热闹起来了呢。{[0004]}听说那些瓦豆鲁迪们\n都很感谢卡比你救了他们呢！{[0004]}我也已经准备好前去冒险了，\n只要按下{[0411|9400]}暂停，随时都可以呼唤我哦。
+Msg_BandanaWaddleDee_TalkStory3	{[1402]}艾菲灵被帝帝帝大王抓走了，\n不知道他要不要紧……{[0004]}不能再这样干等下去了，\n我们一起去救艾菲灵吧！
+Msg_BandanaWaddleDee_TalkStory4	能够再次见到艾菲灵真是太好了。{[0004]}多亏了艾菲灵那神奇的力量，\n才有办法将波普之星跟这个世界连接在一起……{[0004]}今后我们也可以一起无忧无虑地\n在这个世界继续冒险了！
+Msg_BandanaWaddleDee_TalkAbilityRevolute	如果卡比使用了\n{color[ff4d2fff]}进化后{color[000000ff]}的复制能力，\n其实{color[ff4d2fff]}我也会跟着变强{color[000000ff]}哦。{[0004]}随着复制能力的进化阶段提升，\n我长枪的攻击力也会获得进一步提升。\n在双人游玩的时候，就能大展身手了！{[0004]}没想到我竟然能够和卡比一起变强，\n感觉就像自己也变成了英雄一样，真是开心。
+Msg_TheaterClerk_WelcomeFirst	欢迎来到{color[ff4d2fff]}瓦豆鲁迪电影院{color[000000ff]}！\n这里可以观赏各种各样的{color[ff4d2fff]}影片{color[000000ff]}哦！{[0004]}顺带一提，之所以最先建造这座电影院，\n是因为我认为{color[ff4d2fff]}娱乐是非常重要的{color[000000ff]}！{[0004]}那么卡比，\n请问你想观赏哪一部影片呢？
+Msg_TheaterClerk_Welcome	欢迎来到瓦豆鲁迪电影院！\n请问你想观赏哪一部影片呢？
+Msg_TheaterClerk_WelcomeNewMovie	欢迎来到瓦豆鲁迪电影院！\n本次上映了{color[ff4d2fff]}新的影片{color[000000ff]}。{[0004]}那么，\n请问你想观赏哪一部影片呢？
+Msg_TheaterClerk_Thanks	欢迎随时再度光临！
+Msg_TheaterClerk_PlayAnnounce	你想观赏{color[ff4d2fff]}《{[0314]}》{color[000000ff]}对吧。\n影片马上就要开始了，\n请尽快{color[ff4d2fff]}入座{color[000000ff]}。
+Msg_TheaterClerk_AskChangeMovie	要更改为其他影片吗？
+Msg_TheaterClerk_CancelChangeMovie	请尽快{color[ff4d2fff]}入座{color[000000ff]}。\n{color[ff4d2fff]}《{[0314]}》{color[000000ff]}马上就要开始了。
+Msg_TheaterClerk_WelcomeAgain	你觉得这部影片如何？\n接下来还想观赏哪一部影片呢？
+Msg_TheaterClerk_GiveFigure	{[1800]}卡比，恭喜你！{[0004]}{[1400]}为了纪念所有影片成功上映，\n我想送给你一个{color[ff4d2fff]}特别的模型{color[000000ff]}！\n请收下这个！
+Msg_TheaterClerk_AfterGiveFigure	卡比，\n请问你想观赏影片吗？
+Msg_TownGuideAbilityRoomDemo_SupportTalk_00	{[1905|04cd]}听说能够选择复制能力的\n{color[ff4d2fff]}瓦豆鲁迪武器店{color[000000ff]}已经开张了哦！{[0004]}除了可以自由选择能力之外，\n据说还能学到让自己变强的秘诀哦。\n快进去看看吧！
+Msg_TownGuideAbilityRoomDemo_SupportTalk_01	{[1909|00cd]}卡比，不是那边啦！快来这里～！
+Msg_TownGuideNewAreaDemo_SupportTalk	{[1907|01cd]}卡比，如果你已经做好了万全的准备，\n那就搭乘{color[ff4d2fff]}传送之星{color[000000ff]}前往{color[ff4d2fff]}新区域{color[000000ff]}看看吧！
+Msg_AbilityRoomClerk_WelcomeFirst	这里是{color[ff4d2fff]}瓦豆鲁迪武器店{color[000000ff]}，\n任何复制能力都能任君挑选！{[0004]}卡比{color[ff4d2fff]}至今发现的复制能力{color[000000ff]}\n本店均可提供。\n欢迎随时光临本店。{[0004]}{[1801]}{[1403]}除此之外，{[1802]}请听我说！\n现在还可以在这里{color[ff4d2fff]}进化{color[000000ff]}现有的能力，\n使能力变得更加强大哦！
+Msg_AbilityRoomClerk_IntroduceBlueprint	最近发现的这张{color[ff4d2fff]}设计图{color[000000ff]}上\n记载了非常厉害的新技术，\n现在已经能够进化复制能力了！{[0004]}赶快来进化看看吧。\n我马上就去准备！
+Msg_AbilityRoomClerk_HowToEvolve	{color[ff4d2fff]}进化{color[000000ff]}复制能力需要\n{[0100|8000]}{color[ff4d2fff]}硬币星{color[000000ff]}和{[0101|8100]}{color[ff4d2fff]}稀有石{color[000000ff]}。{[0004]}{[0101|8100]}稀有石似乎能在世界地图上的\n{color[ff4d2fff]}宝藏之路{color[000000ff]}中找到哦。\n记得试着去挑战一下吧！{[0004]}不过这次我已经先准备好了，\n请直接按下{color[ff4d2fff]}“{[0400|0000]}进化”{color[000000ff]}来完成进化吧！
+Msg_AbilityRoomClerk_RecommendEvolve	请走到想要{color[ff4d2fff]}进化{color[000000ff]}的能力前，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看吧。
+Msg_AbilityRoomClerk_RecommendEvolveDoorIn	卡比！你先别走啊！\n你是不是很在意{color[ff4d2fff]}进化{color[000000ff]}？\n现在马上就来试试看吧！{[0004]}请走到想要进化的能力前，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看吧。
+Msg_AbilityRoomClerk_FirstEvolveEnd	进化完成，{[1401]}非常成功呢！\n{[030a]}能力已经{color[ff4d2fff]}进化{color[000000ff]}成\n{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}了！{[0004]}如果手上有{color[ff4d2fff]}新的设计图{color[000000ff]}就能再次进化哦。\n要是发现了设计图，\n请一定要光临本店！
+Msg_AbilityRoomClerk_RecommendSelect	卡比，你知道吗？\n如果已经设定好了复制能力，\n只要按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}就能直接{color[ff4d2fff]}吸入该能力{color[000000ff]}哦！
+Msg_AbilityRoomClerk_RecommendSelectWithAbility	卡比，你知道吗？\n如果已经设定好了复制能力，\n只要按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}就能直接{color[ff4d2fff]}吸入该能力{color[000000ff]}哦！{[0004]}顺带一提，按下{color[ff4d2fff]}{[0703|0300]}{color[000000ff]}则可以舍弃能力。
+Msg_AbilityRoomClerk_RecommendSelectAfter	只要预先把能力{color[ff4d2fff]}设定{color[000000ff]}好，\n冒险途中获得的能力也会\n{color[ff4d2fff]}替换成在这里设定好的能力{color[000000ff]}哦。
+Msg_AbilityRoomClerk_IntroduceKnowledgeWaddleDee	你是不是正在为寻找设计图而烦恼呢？\n听说只要询问{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}，\n他就会告诉你设计图的所在地哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Bomb	炸弹的话，通过{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}，\n能够在准确瞄准后投掷炸弹哦。
+Msg_AbilityRoomClerk_CopyAbilityTips_ChainBomb	连锁炸弹在{color[ff4d2fff]}炸弹彼此接近{color[000000ff]}时\n会产生连锁效果并提高攻击力哦。{[0004]}只要将许多炸弹相连使其产生连锁，\n攻击力也会不断提升！
+Msg_AbilityRoomClerk_CopyAbilityTips_SearchBomb	自动追踪炸弹在{color[ff4d2fff]}炸弹彼此接近{color[000000ff]}时\n会产生连锁效果并提高攻击力哦。{[0004]}只要将许多炸弹相连使其产生连锁，\n攻击力也会不断提升！
+Msg_AbilityRoomClerk_CopyAbilityTips_Crash	爆裂可通过{color[ff4d2fff]}长按{[0701|0100]}\n{color[000000ff]}来累积威力哦。{[0004]}累积威力达到上限的一记攻击\n拥有非常高的攻击力！
+Msg_AbilityRoomClerk_CopyAbilityTips_TimeCrash	如果在时间爆裂发动中{color[ff4d2fff]}打倒敌人{color[000000ff]}，\n能够暂停的时间也会更长哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Cutter	在丢出弯刀后{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}，\n能够使刀刃在空中定格并且{color[ff4d2fff]}蓄力{color[000000ff]}。{[0004]}蓄力后{color[ff4d2fff]}放开{[0701|0100]}{color[000000ff]}，\n即可施展强力的{color[ff4d2fff]}返回攻击{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_MetalCutter	全金属弯刀的刀刃{color[ff4d2fff]}能够通过墙壁进行反弹{color[000000ff]}。\n巧妙利用墙壁反弹，刀刃就能够飞得更远！
+Msg_AbilityRoomClerk_CopyAbilityTips_Drill	钻击在{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}潜入地面时，\n几乎所有攻击都无法命中。{[0004]}只要在潜入地面时{color[ff4d2fff]}如画圆一般{color[000000ff]}圈出圆形，\n就能够施展出强力的{color[ff4d2fff]}地面咚{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_Fire	烈火在跑动时{color[ff4d2fff]}跳跃{color[000000ff]}并按下{color[ff4d2fff]}{[0701|0100]}{color[000000ff]}，\n即可使用{color[ff4d2fff]}燃烧攻击{color[000000ff]}！{[0004]}顺带一提，烈火不但可以\n点燃大炮的导火线，{[0004]}只要在进入大炮后{color[ff4d2fff]}按下{[0409|6000]}{color[000000ff]}或{color[ff4d2fff]}{[040a|6100]}蹲下{color[000000ff]}，\n导火线上的火焰燃烧速度就会变快哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_DragonFire	龙之烈火的燃烧攻击通过\n{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}可延长飞行的距离。
+Msg_AbilityRoomClerk_CopyAbilityTips_Hammer	锤子可通过{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}来累积威力。{[0004]}在威力累积到上限时所释放的{color[ff4d2fff]}鬼杀火焰锤{color[000000ff]}，\n拥有非常高的攻击力！{[0004]}顺带一提，\n使用锤子还可以敲击桩和钉子哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Ice	冰冻的吐息能够冻结敌人！{[0004]}即使面对魔王这般巨大的敌人，\n也能够使{color[ff4d2fff]}对方停止动作{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_Needle	针在卷起{color[ff4d2fff]}敌人或方块{color[000000ff]}后，\n即可维持更长的滚动时间。{[0004]}{color[ff4d2fff]}放开{[0701|0100]}{color[000000ff]}将会向周围射出先前卷起的物品，\n产生相当强力的攻击！{[0004]}顺带一提，即使强风来袭，\n针也可以滚动前进哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Ranger	探巡队通过{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}蓄力，\n即可释放出贯穿敌人的强力一击！{[0004]}顺带一提，只有使用探巡队\n才能击落飘浮在空中的目标开关哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Sleep	在变成睡觉时，只要{color[ff4d2fff]}快速摇晃{[041e|f100]}{color[000000ff]}\n就能够更快醒过来哦。
+Msg_AbilityRoomClerk_CopyAbilityTips_DeepSleep	深层睡觉，即{color[ff4d2fff]}按下{[0701|0100]}{color[000000ff]}\n就会在床上熟睡，并且可以完全回复！{[0004]}熟睡一觉之后还能够得到\n各种{color[ff4d2fff]}威力提升效果{color[000000ff]}哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Sword	利剑通过{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}累积力量\n即可释放出旋转劈砍的{color[ff4d2fff]}回旋斩{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_GigantSword	庞大利剑通过按下{color[ff4d2fff]}{[0409|6000]}/{[040a|6100]}{color[000000ff]}即可架盾防御。\n还可以一边维持防御一边走动哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_MetaSword	魅塔骑士利剑在{color[ff4d2fff]}体力全满{color[000000ff]}的状态下挥剑\n将会释放出{color[ff4d2fff]}新月射击{color[000000ff]}。{[0004]}顺带一提，\n当拥有2条体力条时，\n在第1条体力条耗尽前都可以释放新月射击哦！{[0004]}通过按下{color[ff4d2fff]}{[0409|6000]}/{[040a|6100]}+{[0700|0000]}{color[000000ff]}即可施展{color[ff4d2fff]}利剑滑垒{color[000000ff]}。\n施展出利剑滑垒后通过{color[ff4d2fff]}{[0700|0000]}～连打{[0701|0100]}{color[000000ff]}，\n还能够施展大招式——{color[ff4d2fff]}上霸者剑{color[000000ff]}！
+Msg_AbilityRoomClerk_CopyAbilityTips_MorphoSword	冥蝶骑士利剑通过{color[ff4d2fff]}长按{[0701|0100]}{color[000000ff]}\n累积威力达到上限后，利剑就会变大。{[0004]}巨大的利剑攻击范围甚广，\n攻击力也相当高，非常强大哦！
+Msg_AbilityRoomClerk_CopyAbilityTips_Tornado	龙卷风可以将受到攻击的敌人\n或是星星{color[ff4d2fff]}卷入其中{color[000000ff]}！{[0004]}在发动中按下{[0701|0100]}能够{color[ff4d2fff]}吹飞并摔落{color[000000ff]}先前卷入的物品，\n是相当强力的攻击哦！
+Msg_AbilityRoomClerk_ReceiveSingleBlueprint	哦哦！\n如果有那张{color[ff4d2fff]}设计图{color[000000ff]}，\n似乎就能制作{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}了！
+Msg_AbilityRoomClerk_ReceiveMultiBlueprint	哦，真不得了！\n你竟然有这么多张新的{color[ff4d2fff]}设计图{color[000000ff]}！
+Msg_AbilityRoomClerk_PrepareNewCopyAbilitySub	那么，\n我马上就为进化做准备！
+Msg_AbilityRoomClerk_NewCopyAbility	新增了\n{color[ff4d2fff]}{[030a]}{color[000000ff]}能力哦！
+Msg_AbilityRoomClerk_NewCopyAbilitySubKind	久等了！\n{[030a]}能力已经可以进化为\n{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}能力了！
+Msg_AbilityRoomClerk_UnlockStrengthening	{[1800]}卡比，请听我说！\n我发现了一种很厉害的技术，\n可以使复制能力的{color[ff4d2fff]}威力再度提升{color[000000ff]}！{[0004]}{[1403]}这种技术就叫做{color[ff4d2fff]}能力强化{color[000000ff]}！\n似乎可以使用{[0101|8100]}稀有石\n来{color[ff4d2fff]}强化攻击力{color[000000ff]}！{[0004]}我已经做好准备了，\n你随时都可以进行{color[ff4d2fff]}强化{color[000000ff]}！\n请选择喜欢的能力来试试看吧！
+Msg_AbilityRoomClerk_GiveFigure	{[1403]}{[1800]}卡比！\n难道你已经将{color[ff4d2fff]}所有{color[000000ff]}复制能力\n都{color[ff4d2fff]}进化{color[000000ff]}了吗！？{[0004]}{[1401]}好厉害，太厉害了！\n对我这样一介技师而言，\n能够见证所有的进化{color[ff4d2fff]}实在是太荣幸了{color[000000ff]}！{[0004]}这是我的一点心意。\n请收下这个{color[ff4d2fff]}特别的模型{color[000000ff]}吧！
+Msg_DeliveryServiceClerk_WelcomeFirst1	这里是将{color[ff4d2fff]}快递礼物{color[000000ff]}\n快递到家的{color[ff4d2fff]}瓦豆鲁迪快递{color[000000ff]}！{[0004]}只要在这里输入你在各个地方\n所发现的{color[ff4d2fff]}礼物关键词{color[000000ff]}，\n我们就会将礼物配送到卡比小屋哦！{[0004]}{[1403]}对了对了，在这座小镇中，\n也藏着礼物关键词哦。\n请一定要试着去找找看哦！{[0004]}{[1800]}{[1401]}另外！只要连接了互联网\n就能使用{color[ff4d2fff]}公开在互联网上{color[000000ff]}的\n各种礼物关键词哦。
+Msg_DeliveryServiceClerk_WelcomeFirst2	作为示范，我已经在{color[ff4d2fff]}对面房子的墙壁{color[000000ff]}上\n藏好了礼物关键词！{[0004]}请你试着仔～细地{color[ff4d2fff]}调查{color[000000ff]}一下\n那栋房子的墙壁四周吧。
+Msg_DeliveryServiceClerk_WelcomeFirst3	在小镇中找到的礼物关键词，\n就算没有连接互联网\n也可以使用哦。{[0004]}事不宜迟，要不要马上在瓦豆鲁迪快递\n使用礼物关键词呢？
+Msg_DeliveryServiceClerk_Welcome	这里是输入{color[ff4d2fff]}礼物关键词{color[000000ff]}\n就能获得礼物的瓦豆鲁迪快递！{[0004]}只要连接了互联网，\n就能使用{color[ff4d2fff]}公开在互联网上{color[000000ff]}的\n礼物关键词哦。{[0004]}要在瓦豆鲁迪快递\n使用礼物关键词吗？
+Msg_DeliveryServiceClerk_Goodbye	谢谢惠顾！\n期待你再次使用本服务。
+Msg_DeliveryServiceClerk_AskUseWithoutInternet	要在未连接互联网的状态下\n直接使用礼物关键词吗？
+Msg_DeliveryServiceClerk_NotExistPresentBox	目前似乎{color[ff4d2fff]}没有{color[000000ff]}能够配送的{color[ff4d2fff]}快递礼物{color[000000ff]}。\n期待你再次使用本服务。
+Msg_DeliveryServiceClerk_PromptInput	那么，就麻烦你输入\n礼物关键词了。
+Msg_DeliveryServiceClerk_InvalidPresentCode	真是不好意思！\n礼物关键词的内容似乎{color[ff4d2fff]}有误{color[000000ff]}～\n请输入正确的礼物关键词。
+Msg_DeliveryServiceClerk_UsedPresentCode	这是之前{color[ff4d2fff]}使用过的{color[000000ff]}\n礼物关键词。\n请输入其他的礼物关键词吧！
+Msg_DeliveryServiceClerk_CanceledInput	{[1403]}咦……卡比！\n你不打算输入礼物关键词了吗？
+Msg_DeliveryServiceClerk_ValidPresentCode1	已接受你的快递委托！\n我们会将礼物配送至{color[ff4d2fff]}卡比小屋{color[000000ff]}。
+Msg_DeliveryServiceClerk_PresentStockIsFull	{[1403]}咦……卡比！\n快递礼物似乎{color[ff4d2fff]}已经送达{color[000000ff]}了。\n请回到卡比小屋领取吧。
+Msg_DeliveryServiceClerk_GetFigure	卡比，能耽误你一点时间吗？{[0004]}{[1400]}为感谢卡比经常使用瓦豆鲁迪快递，\n我准备了一个{color[ff4d2fff]}特别的模型{color[000000ff]}！\n请收下这个！
+Msg_TownSupportTalk_SupportCoin_00	{[1901|03cd]}瓦豆鲁迪们为正在奋斗的卡比\n赠送的{color[ff4d2fff]}{[0100|8000]}硬币星{color[000000ff]}\n似乎{color[ff4d2fff]}已经送达了{color[000000ff]}！{[0004]}听说如果卡比在冒险途中损失了大量{[0100|8000]}硬币星，\n他们就会将大约为{color[ff4d2fff]}损失量一半{color[000000ff]}的{[0100|8000]}硬币星\n送过来！
+Msg_FoodShopClerk_WelcomeFirst1	欢迎光临。\n欢迎来到瓦豆鲁迪们放松身心的咖啡店——\n{color[ff4d2fff]}瓦豆鲁迪咖啡店{color[000000ff]}！{[0004]}本店也贩卖能够\n{color[ff4d2fff]}回复体力{color[000000ff]}的食物。
+Msg_FoodShopClerk_WelcomeFirst2	{[1800]}{[1401]}最棒的是！本店所贩卖的食物都是\n能够打包带走的，也就是说可以{color[ff4d2fff]}外带{color[000000ff]}。{[0004]}{color[ff4d2fff]}只要携带至关卡中{color[000000ff]}，\n遇到危机便可进行回复。
+Msg_FoodShopClerk_WelcomeFirst3	请注意，一次所能携带的食物\n{color[ff4d2fff]}最多只有1个{color[000000ff]}。{[0004]}卡比，\n要不要现在就买点什么试试呢？
+Msg_FoodShopClerk_Welcome	欢迎光临！\n请问决定好要点什么了吗？
+Msg_FoodShopClerk_AskBuying	{color[ff4d2fff]}{[0315]}{color[000000ff]}需要{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}枚{[0100|8000]}。
+Msg_FoodShopClerk_Thanks	谢谢惠顾！\n欢迎再次光临！
+Msg_FoodShopClerk_PointStarShortage	不好意思……\n你的{[0100|8000]}硬币星{color[ff4d2fff]}似乎不够{color[000000ff]}呢。
+Msg_FoodShopClerk_AskTakeOut	请问你要堂食还是外带呢？
+Msg_FoodShopClerk_ThanksTakeOut	谢谢惠顾！\n只要{color[ff4d2fff]}长按{[0702|0200]}{color[000000ff]}，\n随时都能享用外带的食物哦！
+Msg_FoodShopClerk_ThanksForHere	谢谢惠顾，请慢慢享用。
+Msg_FoodShopClerk_GiveFigure	{[1800]}{[1401]}卡比！\n我有个东西想送给你！{[0004]}{[1400]}因为卡比总是吃得津津有味，\n为了表达对你的感谢，\n请让我送你{color[ff4d2fff]}特别的模型{color[000000ff]}当作礼物！
+Msg_MgameFoodClerk_FirstTalk	啊，卡比！{[0004]}这次瓦豆鲁迪咖啡店在开店的同时\n也开始{color[ff4d2fff]}招募打工人员{color[000000ff]}了！{[0004]}卡比要不要也来\n做做咖啡店的店员啊？
+Msg_MgameFoodClerk_Induction	生意兴隆的瓦豆鲁迪咖啡店\n目前正在招募打工人员哦！
+Msg_MgameFoodClerk_Thanks	辛苦了！\n下次也要麻烦你了！
+Msg_MgameFoodClerk_GiveFigure	{[1800]}{[1401]}卡比，可以打扰你一下吗？{[0004]}{[1400]}因为你完美地完成了极限打工，\n为了感谢如此勤奋的卡比……{[0004]}这个{color[ff4d2fff]}特别的模型{color[000000ff]}就送给你了！\n请收下吧！！
+Msg_KnowledgeWaddleDee_WelcomeFirst1	你好，初次见面！\n我是{color[ff4d2fff]}知识渊博瓦豆鲁迪{color[000000ff]}。
+Msg_KnowledgeWaddleDee_WelcomeFirst2	我来到这个世界时发现了一本神奇的书！\n这本书上似乎记载着尚未获得的{color[ff4d2fff]}设计图所在地{color[000000ff]}……{[0004]}以及存在于{color[ff4d2fff]}世界各地{color[000000ff]}的\n各种{color[ff4d2fff]}分数和信息{color[000000ff]}！{[0004]}卡比，我现在就告诉你这些信息吧！
+Msg_KnowledgeWaddleDee_WelcomeNormal	卡比，你好啊！\n我这就告诉你来自世界各地的各种信息。
+Msg_KnowledgeWaddleDee_WelcomeConnectError	卡比，你好啊！\n由于现在{color[ff4d2fff]}无法连接至互联网{color[000000ff]}，\n我就只把目前已知的信息告诉你吧。
+Msg_KnowledgeWaddleDee_WelcomeNoAutoConnect	卡比，你好啊！\n只要连接互联网，\n我能告诉你的信息也会增加哦！
+Msg_KnowledgeTopic_RemainingBlueprintStageFormer	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中的\n{color[ff4d2fff]}{[030f]}前半部{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageLater	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中的\n{color[ff4d2fff]}{[030f]}后半部{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageRoom	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}小房间{color[000000ff]}！
+Msg_KnowledgeTopic_RemainingBlueprintStageOther	{color[ff4d2fff]}{[030a]}{color[000000ff]}能力的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}中的\n{color[ff4d2fff]}{[030f]}{color[000000ff]}！
+Msg_KnowledgeTopic_BlueprintHintJunkNeedle	只要破坏掉爬上梯子后看到的\n{color[ff4d2fff]}炸弹方块{color[000000ff]}似乎就能找到设计图哦！
+Msg_KnowledgeTopic_BlueprintHintTimeCrash	设计图似乎就在墙壁上的{color[ff4d2fff]}凹洞里{color[000000ff]}。\n绿色的硬币就是记号！
+Msg_KnowledgeTopic_BlueprintHintTwinDrill	设计图似乎就藏在\n洞窟入口附近的{color[ff4d2fff]}木桶里{color[000000ff]}！
+Msg_KnowledgeTopic_BlueprintHintDeepSleep	设计图似乎就在会上下移动的{color[ff4d2fff]}机械里{color[000000ff]}。\n蓝色的光就是记号！
+Msg_KnowledgeTopic_BlueprintHintStormTornado	设计图似乎就在\n{color[ff4d2fff]}云霄飞车搭乘处{color[000000ff]}附近！
+Msg_KnowledgeTopic_RemainingBlueprintMetaKnight	设计图似乎就在\n{color[ff4d2fff]}竞技场报酬{color[000000ff]}中！
+Msg_KnowledgeTopic_RemainingBlueprintMorphoKnight	似乎漏拿\n{color[ff4d2fff]}被遗忘的·陆地{color[000000ff]}中的设计图了！
+Msg_KnowledgeTopic_RemainingBlueprintDedede	{color[ff4d2fff]}小镇里的帝帝帝大王{color[000000ff]}\n好像持有设计图呢！
+Msg_KnowledgeTopic_RemainingBlueprintPartiallyComplete	目前似乎没有任何\n{color[ff4d2fff]}漏拿的设计图{color[000000ff]}呢。\n得知设计图的位置后，我会再告诉你的！
+Msg_KnowledgeTopic_RemainingBlueprintComplete	似乎已经{color[ff4d2fff]}获得所有{color[000000ff]}设计图了呢！\n真不愧是你，卡比！
+Msg_KnowledgeWaddleDee_AskListenMore	要继续聆听更多信息吗？
+Msg_KnowledgeWaddleDee_YourScoreNo1	\n\n{[1403]}{[1500|3a00]}{size[9600]}咦！？{size[6400]}{[0004]}我刚刚告诉你的本周世界纪录……\n原来是{color[ff4d2fff]}你的纪录{color[000000ff]}啊！{[0004]}没想到我居然能亲口传达这个信息给世界第一……\n我感到非常荣幸！{[0004]}{color[ff4d2fff]}恭喜你达成\n本周的世界纪录！！{color[000000ff]}
+Msg_KnowledgeTopic_UsedAbility	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。
+Msg_KnowledgeTopic_UsedAbilityPlusStageFormer	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}前半部{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageLater	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}后半部{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageRoom	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}——\n{color[ff4d2fff]}{[030f]}{color[000000ff]}的{color[ff4d2fff]}小房间{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusStageOther	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就藏在{color[ff4d2fff]}{[030e]}{color[000000ff]}的\n{color[ff4d2fff]}{[030f]}{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusMetaKnight	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎可以从{color[ff4d2fff]}竞技场报酬{color[000000ff]}中获得！
+Msg_KnowledgeTopic_UsedAbilityPlusMorphoKnight	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就在{color[ff4d2fff]}被遗忘的·陆地{color[000000ff]}！
+Msg_KnowledgeTopic_UsedAbilityPlusDedede	现在流行的是{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}！\n这是全世界最受欢迎的能力。{[0004]}嗯……我看看，{color[ff4d2fff]}{[1400]}{[0309|0000]}{color[000000ff]}的设计图\n似乎就在{color[ff4d2fff]}小镇里的帝帝帝大王{color[000000ff]}手上哦！
+Msg_KnowledgeTopic_DefeatBossTime	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快击败时间是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}打倒的哦。
+Msg_KnowledgeTopic_DefeatBossTime_Strengthened	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快击败时间是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}打倒的哦。
+Msg_KnowledgeTopic_DefeatBossTime_MaxStrengthened	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快击败时间是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}打倒的哦。
+Msg_KnowledgeTopic_DefeatBossTimeUnknown	{color[ff4d2fff]}{[030d]}{color[000000ff]}的全世界\n最快击败时间是{color[ff4d2fff]}{[0304]}{color[000000ff]}！\n似乎是使用你还未见过的复制能力打倒的哦。
+Msg_KnowledgeTopic_PopularFoodShopItem	在瓦豆鲁迪咖啡店中\n最受欢迎的菜肴是{color[ff4d2fff]}{[0315]}{color[000000ff]}！\n至今为止已经被点了{color[ff4d2fff]}{[0301|0000]}次{color[000000ff]}。
+Msg_KnowledgeTopic_CafeMenuSalesCount	{[0315]}很好吃，对吧！\n听说至今为止已经被吃掉了{color[ff4d2fff]}{[0301|0000]}份{color[000000ff]}哦！
+Msg_KnowledgeTopic_LastPlayedSubgameCarRace	{color[ff4d2fff]}{[030f]}{color[000000ff]}最终赛道\n本周的世界纪录是{color[ff4d2fff]}{[0305]}{color[000000ff]}哦！
+Msg_KnowledgeTopic_LastPlayedSubgameMgameFood	{[0319]}\n本周的世界纪录是{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}！\n似乎完成了多达{color[ff4d2fff]}{[0301|0100]}人{color[000000ff]}的点餐哦。
+Msg_KnowledgeTopic_LastPlayedSubgameMgameFish	{color[ff4d2fff]}紧张刺激！刹那间的钓鱼池\n{color[000000ff]}本周的世界纪录是{color[ff4d2fff]}{[0301|0000]}g{color[000000ff]}！
+Msg_KnowledgeTopic_LastPlayedSubgameMgameBall	{color[ff4d2fff]}滚啊滚啊！滚球卡比{[031a]}{color[000000ff]}\n本周的全世界最佳时间是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n单人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem_Strengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n单人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItem_MaxStrengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n单人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeSoloNoItemUnknown	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n单人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用还未见过的复制能力达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n双人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem_Strengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n双人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[0301|0000]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItem_MaxStrengthened	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n双人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用{color[ff4d2fff]}{[0309|0000]}{[0107|0000]}{[010a|0300]}{color[000000ff]}达成的纪录。
+Msg_KnowledgeTopic_ArenaClearTimeMultiNoItemUnknown	在狂野模式中未使用\n威力提升道具或amiibo等物品，\n双人挑战{color[ff4d2fff]}{[0312]}{color[000000ff]}的世界纪录……{[0004]}好像是{color[ff4d2fff]}{[0304]}{color[000000ff]}哦！\n似乎是使用还未见过的复制能力达成的纪录。
+Msg_KnowledgeTopic_CoinStarCount	目前为止所获得的{[0100|8000]}{color[ff4d2fff]}硬币星{color[000000ff]}，\n一共是{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}{[0100|8000]}！{[0004]}全世界所收集到的数量总计为\n{color[ff4d2fff]}{[0301|0100]}枚{[0100|8000]}{color[000000ff]}哦！
+Msg_KnowledgeTopic_CoinStarCountLocal	目前为止所获得的{[0100|8000]}{color[ff4d2fff]}硬币星{color[000000ff]}，\n一共是{color[ff4d2fff]}{[0301|0000]}枚{color[000000ff]}{[0100|8000]}！
+Msg_KnowledgeTopic_RescuedWaddleDeeCount	目前为止所{color[ff4d2fff]}拯救的瓦豆鲁迪{color[000000ff]}一共是{color[ff4d2fff]}{[0301|0000]}人{color[000000ff]}！\n全世界总计有{color[ff4d2fff]}{[0301|0100]}人{color[000000ff]}获救了。
+Msg_KnowledgeTopic_RescuedWaddleDeeCountLocal	目前为止所{color[ff4d2fff]}拯救的瓦豆鲁迪{color[000000ff]}一共是{color[ff4d2fff]}{[0301|0000]}人{color[000000ff]}！
+Msg_KnowledgeTopic_DefeatedEnemyCount	目前为止已经教训过{color[ff4d2fff]}{[0301|0000]}只加鲁鲁菲{color[000000ff]}！\n全世界总计教训过{color[ff4d2fff]}{[0301|0100]}只{color[000000ff]}哦。
+Msg_KnowledgeTopic_DefeatedEnemyCountLocal	原来如此，原来是这样！\n目前为止似乎已经教训过\n{color[ff4d2fff]}{[0301|0000]}只加鲁鲁菲{color[000000ff]}了哦。
+Msg_KnowledgeTopic_PoppedFlowerCount	目前为止已经在冒险中\n使{color[ff4d2fff]}{[0301|0000]}朵波普之花{color[000000ff]}盛开了哦！\n全世界似乎总计盛开了{color[ff4d2fff]}{[0301|0100]}朵{color[000000ff]}。
+Msg_KnowledgeTopic_PoppedFlowerCountLocal	目前为止似乎已经在冒险中\n使{color[ff4d2fff]}{[0301|0000]}朵波普之花{color[000000ff]}盛开了哦！
+Msg_KnowledgeTopic_InhaledObjectCount	目前为止已经在冒险中\n{color[ff4d2fff]}吸入了{[0301|0000]}次物品{color[000000ff]}！\n全世界的旅行者似乎总计吸入了{color[ff4d2fff]}{[0301|0100]}次{color[000000ff]}。
+Msg_KnowledgeTopic_InhaledObjectCountLocal	卡比，你目前为止似乎已经\n{color[ff4d2fff]}吸入了{[0301|0000]}次物品{color[000000ff]}哦！
+Msg_KnowledgeTopic_TipsGuard	只要按下{color[ff4d2fff]}{[0409|6000]}或{[040a|6100]}{color[000000ff]}，\n就能通过防御减少敌人造成的伤害！
+Msg_KnowledgeTopic_TipsSliding	只要朝着小镇上的瓦豆鲁迪\n按下{color[ff4d2fff]}{[041d|a400]}或{[041c|a300]}{color[000000ff]}来打招呼，\n他们似乎也会有所回应哦！
+Msg_KnowledgeTopic_TipsDodge	只要在难易度设置中将模式调整为{color[ff4d2fff]}春风模式{color[000000ff]}，\n卡比的体力就会增加，\n宝藏之路的剩余时间也会增加哦！
+Msg_KnowledgeTopic_TipsPose	只要在难易度设置中将模式调整为{color[ff4d2fff]}狂野模式{color[000000ff]}，\n关卡内的敌人就会增加，更能享受到动作游戏的乐趣，\n还能在过关额外奖励中获得{[0100|8000]}硬币星哦！
+Msg_KnowledgeTopic_TipsZoom	{color[ff4d2fff]}长按{[0420|f300]}{color[000000ff]}就能\n稍微缩放画面哦！
+Msg_KnowledgeWaddleDee_Bye	如果还想再听我说各种信息，\n随时都可以来找我哦！
+Msg_KnowledgeWaddleDee_ByeNoConnectSetting	只要{color[ff4d2fff]}连接互联网{color[000000ff]}，我能告诉你的信息也会增加哦！\n下次再来听我说说吧！
+Msg_KnowledgeWaddleDee_GiveFigure	{[1401]}卡比，\n{[1801]}你真的是{[1802]}很喜欢收集信息呢！{[0004]}这个{color[ff4d2fff]}特别的模型{color[000000ff]}就送给\n求知欲旺盛的你了！\n请收下吧！
+Msg_ArenaClerk_WelcomeFirst_01	欢迎～！欢迎～！\n这里是{color[ff4d2fff]}竞技场{color[000000ff]}的{color[ff4d2fff]}接待处{color[000000ff]}！
+Msg_ArenaClerk_WelcomeFirst_02	你可以在这里和不断来袭的魔王们\n展开热血沸腾的战斗，{color[ff4d2fff]}享受战斗的乐趣{color[000000ff]}！{[0004]}只要能一路过关斩将，\n就能获得豪华的{color[ff4d2fff]}报酬{color[000000ff]}哦～！
+Msg_ArenaClerk_WelcomeFirst_03	没想到居然连{color[ff4d2fff]}魅塔骑士{color[000000ff]}\n也悄悄来到了这个世界！{[0004]}据说他为了修炼，\n也会参加这场大赛！（心跳加速……）
+Msg_ArenaClerk_WelcomeFirst_04	来来来！要不要赶快\n试着参加一次大赛啊？
+Msg_ArenaClerk_Welcome	欢迎来到竞技场～！\n来，请在这里申请参加大赛！
+Msg_ArenaClerk_GoodbyEntry	如果之后又想参加了，\n请你在接待处这边申请参赛哦！
+Msg_ArenaClerk_Entered	已报名参加{color[ff4d2fff]}{[0312]}{color[000000ff]}。\n很期待你能带来一场热血沸腾的战斗哦～！
+Msg_ArenaClerk_FirstEntered	{color[ff4d2fff]}入场大门{color[000000ff]}在那边。\n完成战斗准备后，就请从那边入场！
+Msg_ArenaClerk_CheckEntryDissolve	哎呀，要取消参加大赛吗？
+Msg_ArenaClerk_KeepEntry	{[1400]}完成战斗准备后，\n就请通过那边的{color[ff4d2fff]}入场大门{color[000000ff]}入场吧！
+Msg_ArenaClerk_DissolvedEntry	已取消参赛。\n欢迎下次再来～！
+Msg_ArenaClerk_DissolvedAndCheckEntry	已取消参赛。\n要参加其他大赛吗～？
+Msg_ArenaClerk_EnteredBossBattleExtraFirst	{[1403]}{[1801]}卡比选手……{[1802]}\n你要参加{color[ff4d2fff]}{[0312]}{color[000000ff]}啊……{[0004]}{color[ff4d2fff]}The 终极杯Z{color[000000ff]}在不同于这里的\n另一个空间中举行。\n你将会和非常厉害的对手们进行战斗……！{[0004]}虽然我无法前往那个空间\n进行实况转播……{[0004]}但我相信拯救了这个世界的卡比选手，\n最后一定能大获全胜的！！
+Msg_ArenaClerk_EnteredBossBattleExtra	卡比选手参加了{color[ff4d2fff]}{[0312]}{color[000000ff]}。\n{[1402]}战斗将会在十分危险的地方展开……{[0004]}因为战斗会在不同于这里的另一个空间中进行，\n所以我无法实况转播卡比选手的英姿……{[0004]}不过我会在休息室为他加油的！\n祝卡比选手旗开得胜！
+Msg_ArenaClerk_GetReward	卡比，恭喜你！\n这是本次的{color[ff4d2fff]}报酬{color[000000ff]}！
+Msg_ArenaClerk_GetRewardPrev	{[1801]}卡比！{[1802]}\n你还没领取上次的{color[ff4d2fff]}报酬{color[000000ff]}哦～\n请收下这个吧！
+Msg_ArenaClerk_GetFigure	{[1800]}{[1401]}卡比选手，你终于成功了！\n你获得了所有大赛的优胜～！{[0004]}{[1400]}为此我准备了礼物要送给……\n如此出色又无敌的卡比选手！{[0004]}请收下这个{color[ff4d2fff]}特别的模型{color[000000ff]}～！\n希望你能喜欢。
+Msg_PharmacyClerk_WelcomeFirst_00	这里是{color[ff4d2fff]}瓦豆鲁迪道具店{color[000000ff]}，\n可以在此买到为冒险提供支援的道具！{[0004]}本店甚至还贩卖{color[ff4d2fff]}能够为卡比\n暂时提升威力的道具{color[000000ff]}。
+Msg_PharmacyClerk_WelcomeFirst_01	同一种威力提升道具可以{color[ff4d2fff]}叠加使用{color[000000ff]}，\n不同种类的威力提升道具\n也可以{color[ff4d2fff]}一起使用{color[000000ff]}哦。{[0004]}但请注意，一次所能携带的道具\n{color[ff4d2fff]}最多只有1个{color[000000ff]}。
+Msg_PharmacyClerk_WelcomeFirst_02	卡比！\n要不要现在就来买点什么呢？
+Msg_PharmacyClerk_Welcome	欢迎光临！\n这里是为冒险提供支援的瓦豆鲁迪道具店！
+Msg_PharmacyClerk_AskBuying	{color[ff4d2fff]}{[0316]}{color[000000ff]}需要{color[ff4d2fff]}{[0301|0000]}{color[000000ff]}枚{[0100|8000]}。
+Msg_PharmacyClerk_Thanks	如果之后还需要支援，\n随时欢迎你的光临！
+Msg_PharmacyClerk_PointStarShortage	不好意思……\n你的{[0100|8000]}硬币星{color[ff4d2fff]}似乎不够{color[000000ff]}呢。
+Msg_PharmacyClerk_ThanksTakeOut	谢谢惠顾！\n只要{color[ff4d2fff]}长按{[0702|0200]}{color[000000ff]}，随时都可以使用\n库存中的威力提升道具哦！
+Msg_PharmacyClerk_GiveFigure	{[1800]}卡比！可以打扰你一下吗？{[0004]}{[1400]}其实我们为常来光顾本店的卡比\n准备了一个{color[ff4d2fff]}特别的模型{color[000000ff]}！\n不嫌弃的话，请收下这个吧！！
+Msg_MgameBallClerk_FirstDemo1	{[1800]}来来来，这里可以游玩有趣的新游戏——\n{color[ff4d2fff]}滚啊滚啊！滚球卡比{color[000000ff]}哦～！{[0004]}卡比，如果有时间的话，\n你也来玩玩看吧～！
+Msg_MgameBallClerk_FirstDemo2	请先站在滚球卡比前，\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}玩玩看吧！
+Msg_MgameBallClerk_HowToPlay	只要在想要挑战的滚球卡比前\n按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}就可以开始游玩哦！
+Msg_MgameBallClerk_Tips	游玩时的关键点是\n一开始先按下{color[ff4d2fff]}{[0403|0300]}重置倾斜度{color[000000ff]}，\n修正滚球卡比的倾斜度之后再开始玩！
+Msg_MgameBallClerk_ModeIntroduction	{[1401]}你注意到了吗？\n其实滚球上画着\n卡比的脸哦！
+Msg_MgameBallClerk_StageUnlock	{[1401]}卡比，你玩得真好！\n我已经准备好{color[ff4d2fff]}新的难易度{color[000000ff]}了。\n请一定要来玩玩看哦～！
+Msg_MgameBallClerk_ModeUnlock_00	{[1403]}真不愧是卡比！\n居然{color[ff4d2fff]}过关了所有难易度{color[000000ff]}！{[0004]}既然卡比这么厉害，\n那我就要特别向你发出{[1801]}{color[ff4d2fff]}挑战书{color[000000ff]}{[1802]}了！\n
+Msg_MgameBallClerk_ModeUnlock_01	我制作了更～加困难的\n{color[ff4d2fff]}激难{color[000000ff]}滚球卡比！{[0004]}只要按下{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}查看滚球卡比就能游玩激难模式，\n请一定要玩玩看哦。{[0004]}也可以在菜单画面中按下{color[ff4d2fff]}{[0402|0200]}{color[000000ff]}，\n切换为之前其他难度较低的模式\n进行游玩哦！
+Msg_MgameBallClerk_ModeUnlock_02	{[1401]}除此之外！\n我还有奖品想送给\n努力不懈的卡比！{[0004]}作为可以游玩新的激难模式的纪念，\n这个{color[ff4d2fff]}特别的模型{color[000000ff]}就送给你了！\n请收下吧！
+Msg_MgameBallClerk_GiveFigure	{[1403]}怎么可能！？\n你竟然{color[ff4d2fff]}过关了所有激难关卡{color[000000ff]}……{[0004]}{[1800]}{[1401]}真是太令人佩服了！！\n看来对于有实力在世界各地冒险的卡比来说，\n这点难度或许太简单了也说不定。{[0004]}那么这个{[0101|8100]}{color[ff4d2fff]}稀有石{color[000000ff]}就送给你，\n当作成功过关所有\n激难关卡的奖品吧！
+Msg_BossLion_DemoAppear_00	{[1a00|03cd]}{[1400]}很美丽吧……\n粉红色的不速之客。
+Msg_BossLion_DemoAppear_01	{[1400]}不过，\n这位大人目前并不完整……\n因为他失去了{color[ff4d2fff]}自己的另一半{color[000000ff]}。{[0004]}{[1400]}过去居住在这片土地上的人们\n曾获得这位大人赐予的{color[ff4d2fff]}奇迹之力{color[000000ff]}……{[0004]}{[1400]}并使用那股力量\n飞往了遥远的梦之大地。
+Msg_BossLion_DemoAppear_02	{[1400]}如果这位大人可以\n恢复他完整的姿态……{[0004]}{[1400]}被遗留在这{color[ff4d2fff]}被遗忘的陆地{color[000000ff]}的我们\n应该也会被授予奇迹之力吧。{[0004]}{[1400]}现在……\n这个时刻终于到来了！
+Msg_BossLion_DemoAppear_03	{[1a02|03cd]}没错，这个小家伙……\n就是这位大人遗失的另一半！{[0004]}这下……\n这位大人终于能变回{color[ff4d2fff]}完整的姿态{color[000000ff]}了。
+Msg_BossLion_DemoAppear_04	{[1a00|04cd]}若想妨碍我完成长久以来的夙愿，\n那就在此立即……
+Msg_BossLion_DemoAppear_05	{[1a03|00cd]}\n\n{[1801]}{color[ff4d2fff]}{size[b400]}{[1500|3000]}成为野兽们的食粮吧！！{size[6400]}{color[000000ff]}{[1802]}
+Msg_BossChimera_DemoAppear_00	可恶……\n那到底……是什么……？
+Msg_BossChimera_DemoAppear_01	虽然我从无数的空间中，\n将派得上用场的事物都拉来了这里……\n但没想到居然还混进了这种碍事的家伙……{[0004]}{[1404]}哼，也罢……\n如今……我也懒得思考对策了……
+Msg_BossChimera_DemoAppear_02	\n\n{size[8200]}{[1500|3a00]}将一切都吞噬殆尽吧……！{size[6400]}
+Msg_BossChimeraPerfect_DemoDisappear_00	{[1902|01cd]}这力量太惊人了！\n他怎么还有这么强大的力量……？
+Msg_BossChimeraPerfect_DemoDisappear_01	卡比，你怎么了！？
+Msg_BossChimeraPerfect_DemoDisappear_02	什么！你说……{[0004]}那是卡比你们的星球──{color[ff4d2fff]}波普之星{color[000000ff]}吗！？
+Msg_BossChimeraPerfect_DemoDisappear_03	难道说……\n他打算把波普之星一并吸引过来，\n让波普之星{color[ff4d2fff]}撞上{color[000000ff]}这个世界吗！？
+Msg_BossChimeraPerfect_DemoDisappear_04	{[1907|01cd]}得赶快阻止这一切才行！\n可、可是……该怎么做呢……？
+Msg_TownStreetLiveGiveFigure	{[1401]}{[1901|03cd]}太好了，卡比！\n豆鲁迪士的团员为了感谢你一直以来的支持，\n送了{color[ff4d2fff]}特别的模型{color[000000ff]}给你哦！
+Msg_VassalWaddleDee_GetBlueprint_00	{[1401]}好久不见了，卡比！\n谢谢你之前拯救了\n帝帝帝大王陛下。{[0004]}{[1404]}大王陛下现在已经完全恢复，\n他似乎非常中意这座小镇，\n正和大家一起享受着这里的生活！
+Msg_VassalWaddleDee_GetBlueprint_01	{[1800]}其实，{[1401]}{color[ff4d2fff]}大王{color[000000ff]}为了感谢你关照我们瓦豆鲁迪，\n交给了我们一张{color[ff4d2fff]}设计图{color[000000ff]}，\n要我们先替你保管！{[0004]}请收下吧！
+Msg_VassalWaddleDee_Talk1	在逃进那座电梯时，\n大王陛下为了保护跌倒的我，\n将我扔进了电梯，当时那英姿……！{[0004]}{[1401]}实在是太令人着迷了！\n虽然陛下平时有些反复无常，\n看上去有些散漫……{[0004]}但在关键时刻还是很可靠的！\n今后我也会尽力服侍大王陛下的！
+Msg_VassalWaddleDee_Talk2	不论是大王陛下还是我们\n都相当喜欢这座小镇的生活。\n我们还会在这里多休息一阵子。
+Msg_VassalWaddleDee_Talk3	虽然大王陛下现在看起来\n和平时一样悠哉……{[0004]}{[1402]}但其实心里似乎对卡比帮助我们时，\n他自己却遭到控制大闹了一番\n这件事相当在意呢。{[0004]}{size[4b00]}（放低音量……）\n所以请暂时让陛下一个人静一静吧。\n{size[6400]}
+Msg_MerchantWaddleDee_WelcomeFirst	你好啊，卡比！\n你正在收集扭蛋机的模型，对吧？
+Msg_MerchantWaddleDee_Welcome	我刚才去玩了扭蛋机，\n结果获得了卡比还没得到过的模型哦！
+Msg_MerchantWaddleDee_AskExchange	卡比，如果你愿意的话，要不要\n用你身上的{color[ff4d2fff]}1个{[0101|8100]}兑换{color[000000ff]}我的模型呢？
+Msg_MerchantWaddleDee_WelcomeTradeAllGet	没想到你竟然已经收集到\n所有可兑换的模型了……真不愧是卡比！
+Msg_MerchantWaddleDee_WelcomeComplete	没想到你竟然已经完成\n所有模型的收藏了……真不愧是卡比！
+Msg_MerchantWaddleDee_AskExchangeComplete	即便如此，你还是想要\n用身上的{color[ff4d2fff]}1个{[0101|8100]}兑换{color[000000ff]}我的模型吗，卡比？
+Msg_MerchantWaddleDee_EndTrade	如果你有多余的{[0101|8100]}稀有石，\n而且还想要模型的话……{[0004]}随时欢迎你来找我兑换哦！
+Msg_MerchantWaddleDee_RarePieseShortage	咦？你的{[0101|8100]}稀有石{color[ff4d2fff]}似乎不够{color[000000ff]}呢……
+Msg_MerchantWaddleDee_CancelTrade	如果你还想要模型的话，\n就来找我兑换吧！
+Msg_TownSupportChara_UnlockEstory1	{[1907|01cd]}啊，卡洛凌又来到小镇了呢！\n是不是发生什么事了？
+Msg_TownSupportChara_UnlockEstory2	{[1905|05cd]}对了对了，卡比，你知道吗？{[0004]}世界恢复和平后，\n我们和动物们聚在一起时，\n狮王加尔夫不是也不在吗？{[0004]}从那以后，\n卡洛凌似乎也一直在四处寻找他呢。{[0004]}或许她找到了什么线索？\n我们去看看吧！
+Msg_TownSupportTalk_Estory_00	{[1904|03cd]}在关闭波普之星与这个世界的连接时，\n我用尽了全力，最后累倒了。{[0004]}是卡洛凌找到了不省人事的我，\n为我进行了治疗。{[0004]}{[1900|00cd]}多亏有她的帮助，我才能再见到卡比！\n所以，如果她遇到了什么困扰的话，\n我就想去帮帮她……！
+Msg_TownSupportChara_DemoEstoryFirst	{[1908|00cd]}这是……\n难道是神秘漩涡！？{[0004]}咦？你说从这里传来了\n狮王加尔夫的气息……！？
+Msg_EstoryWmapSupportChara_DemoFirst_00	{[1906|02cd]}这里是……{[0004]}{[1908|00cd]}这感觉……！\n就和我被{color[ff4d2fff]}菲克特·艾菲里斯{color[000000ff]}吸收时，\n看到的世界一模一样！{[0004]}或许在那场战斗结束后，\n狮王加尔夫就{color[ff4d2fff]}被困在了这个世界中{color[000000ff]}……{[0004]}{[1901|00cd]}卡比，\n我们一起来调查看看吧！
+Msg_TownSupport_TalkLeopardFirst_00	{[1903|00cd]}卡洛凌，抱歉让你担心了。{[0004]}那个空间是由相当强烈的思想构成的\n非常不可思议的空间……{[0004]}{[1901|00cd]}跟我被菲克特·艾菲里斯吸收时\n所看到的世界一模一样。
+Msg_TownSupport_TalkLeopardFirst_01	说不定狮王加尔夫\n也在那个空间里的某个地方！{[0004]}{[1900|00cd]}我和卡比会努力帮忙，\n一定可以找到他的！请你再等一下吧！{[1400]}
+Msg_TownSupport_TalkLeopardBeforeClear	{[1901|01cd]}没事的！\n我们一定会找到狮王加尔夫。{[0004]}{[1907|00cd]}他回来以后，\n一定会再度变回动物们的可靠领袖的！\n请再等一下吧！{[1400]}
+Msg_TownSupport_TalkLeopardAfterClear_00	{[1900|00cd]}能再次见到狮王加尔夫，\n真是太好了！{[0004]}在我关闭世界的连接，\n耗尽了所有力量的时候……
+Msg_TownSupport_TalkLeopardAfterClear_01	多亏卡洛凌帮助了累倒的我，\n我才能像现在这样\n再次陪在卡比身边！{[0004]}{[1907|01cd]}真的很感谢你当时帮助了我！\n今后也请多多关照哦！{[1400]}
+Msg_TownSupportTalk_CentralSquare_00	{[1402]}{[1902|00cd]}当大家都被抓走，\n只剩下我一个人的时候，\n我还以为一切都无济于事了……{[0004]}但是多亏了卡比的努力，\n才能让这么多瓦豆鲁迪回到这里。{[0004]}{[1401]}{[1900|02cd]}卡比，\n真的非常谢谢你！
+Msg_TownSupportTalk_Common3_00	{[1402]}{[1904|03cd]}野兽军团抓走瓦豆鲁迪们\n到底想要做什么呢……？{[0004]}我第一次遇到瓦豆鲁迪们的时候，\n野兽军团也正在追捕他们。{[0004]}所以他们才选择远离地盘，\n在这个偏远的地方建造小镇生活，\n不过还是马上就被找到了……{[0004]}所以，卡比能来到这里，\n真的帮了我们很大的忙呢～！
+Msg_TownSupportTalk_Common3_01	{[1905|05cd]}瓦豆鲁迪们\n真的都很心灵手巧呢！\n居然没过多久就建好了这样一座小镇。
+Msg_TownSupportTalk_Common3_02	{[1904|04cd]}卡比，我听瓦豆鲁迪们说，\n你和他们都来自同一个地方，对吧？\n那你和瓦豆鲁迪之间有着什么样的关系呢？{[0004]}{[1403]}{[1908|00cd]}…………{[0004]}咦～{[0004]}{[1404]}哈哈哈……\n这还真是令人意外呢……{[0004]}不过，总感觉你们之间的关系很有趣呢！
+Msg_TownSupportTalk_PresentCode1_00	{[1905|02cd]}卡比，这里也写着礼物关键词哦。\n{color[ff4d2fff]}“{[031f]}”\n{color[000000ff]}是不是瓦豆鲁迪们在表达感谢的心意呢？
+Msg_TownSupportTalk_PresentCode2_00	{[1905|00cd]}宣传手册上好像写着什么哦。\n{color[ff4d2fff]}“{[031f]}”\n{color[000000ff]}看来这是隐藏的礼物关键词呢。
+Msg_TownSupportTalk_PresentCode3_00	{[1905|01cd]}墙壁上好像写着什么哦。\n我看看……上面写着{color[ff4d2fff]}“{[031f]}”{color[000000ff]}！\n看来这是隐藏的礼物关键词呢。
+Msg_TownSupportTalk_PresentCode4_00	{[1905|03cd]}这里好像写着什么哦。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}\n看来这是隐藏的礼物关键词呢。
+Msg_TownSupportTalk_PresentCode5_00	{[1905|04cd]}这种地方竟然写着什么哦。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}\n看来这是隐藏的礼物关键词呢。
+Msg_TownSupportTalk_PresentCode6_00	{[1905|05cd]}你知道长期遭受袭击的小镇\n为什么能够重获和平吗？{[0004]}当然一部分原因是\n因为卡比的到来……{[0004]}不过我听瓦豆鲁迪们说，\n其实是因为魅塔骑士\n一直在保护着小镇哦！{[0004]}他现在也依然在那个地方\n守护着小镇呢～！{[0004]}{[1401]}{[1900|00cd]}魅塔骑士又酷又强大，\n真是太帅了呢！
+Msg_TownSupportTalk_PresentCode6_01	{[1905|01cd]}这里的墙壁上好像写着什么哦。\n{color[ff4d2fff]}“{[031f]}”{color[000000ff]}\n看来这是隐藏的礼物关键词呢。
+Msg_TownSupportTalk_Common2_00	{[1905|05cd]}卡比，你知道吗？\n若达成了不得了的事迹，作为纪念，\n房间墙壁上的{color[ff4d2fff]}特别的照片{color[000000ff]}就会增加哦。
+Msg_TownSupportTalk_Common2_01	{[1909|02cd]}我跟你说，卡比。\n那是动物们一起过来玩的时候\n拍下的照片哦！{[0004]}今后我们也要多多创造\n难忘的回忆，\n让房间的墙壁上贴满照片吧！
+Msg_TownSupportTalk_Common2_02	{[1402]}{[1902|00cd]}刚听到狮王加尔夫失踪的消息时，\n我完全不知道该怎么办……{[0004]}不过能够将他平安无事地救出来，\n真是太好了呢！是吧，卡比？{[0004]}{[1401]}{[1900|02cd]}希望今后也能和大家一起\n创造出难忘的回忆呢！
+Msg_TownSupportTalk_Common2_03	{[1907|01cd]}要想将模型装饰在卡比小屋中，\n只要先按下{color[ff4d2fff]}{[0412|9500]}{color[000000ff]}打开收藏，{[0004]}选择好喜欢的模型后，\n再按下{color[ff4d2fff]}{[0411|9400]}{color[000000ff]}就能进行摆放了哦！
+Msg_TownSupportTalk_Common2_04	{[1900|02cd]}卡比，只要在床上午睡，\n体力就会回复哦。
+Msg_TownSupportTalk_Common2_05_01	{[1401]}{[1900|03cd]}卡比，谢谢你常来找我说话。\n我好开心哦！{[0004]}那我们就来聊聊\n卡比来到这个世界前的事吧？{[0004]}以前这个世界的动物们\n就和现在一样相处得很好！{[0004]}虽说有时也会吵架，\n发生了各种各样的事……
+Msg_TownSupportTalk_Common2_05_02	以前大家会互相分享食物，\n为了度过每一天而努力。{[0004]}然而，狮王加尔夫却在某一天\n突然变成了一个可怕的领袖……{[0004]}从那之后，\n大家也都变得凶暴无比。{[0004]}我实在太害怕了，就躲了很长一段时间……\n这时瓦豆鲁迪们也陆陆续续地\n误入了这个世界。
+Msg_TownSupportTalk_Common2_05_03	和正感到烦恼的瓦豆鲁迪们商量过后，\n我们就开始在安全的草原上建造小镇了。{[0004]}但正当我们最初建造的小镇变得有模有样之时，\n那群动物们就化为了凶暴的野兽军团，\n并开始对这里展开了袭击。{[0004]}虽然大家一起奋勇迎战，\n但小镇最后还是被摧毁了，大家也都被掳走了……{[0004]}就是在这个时候，\n卡比你来到了这里！
+Msg_TownSupportTalk_Common2_05_04	谢谢你那时出手相救！\n能够遇见你，我真的感到非常开心。{[0004]}真希望能跟你一起\n再次前往新世界冒险呢！{[0004]}残留在我体内的跨越空间之力\n虽然已经不算强大了，\n但还是能随时回到波普之星的！{[0004]}所以……\n{[1401]}{[1907|01cd]}今后也请多多关照咯！星之卡比！
+Msg_TownSupportTalk_StreetLive_00	{[1401]}{[1907|03cd]}是街角演出，好棒哦！\n听说这个乐队的名字叫做{color[ff4d2fff]}豆鲁迪士{color[000000ff]}～{[0004]}如果在那个{color[ff4d2fff]}吉他盒{color[000000ff]}里{color[ff4d2fff]}放入{[0100|8000]}硬币星{color[000000ff]}的话，\n是不是就能听到更多不同的乐曲了呢？
+MgameBall.msbt
+$Difficulty	难易度
+$HardMode	激难
+$BestTime	最佳时间
+$RewardIndex	奖励
+RewardTitle_Clear	难易度{[031b]}过关
+RewardTitle_Time	{[0304]}\n之内过关
+ModeChangeBtn_ToNormal	更改为普通
+ModeChangeBtn_ToHard	更改为激难
+$GyroReset	重置倾斜度
+StartBtnText	消耗{[0100|8000]}{[0301|0000]}进行游玩
+$MgameBallClear	过关
+$NewRecord	新纪录！
+MgameFish.msbt
+HowToGuide_Fish	钓鱼
+$NewRecord	新纪录！
+Result_Weight	{[0301|0000]}g
+ScoreBoard_Date	{[0302|0000]}/{[0302|0100]}/{[0302|0200]}
+ScoreBoard_Date_None	----/--/--
+ScoreBoard_Weight_None	-----
+$G	g
+ScoreBoard_Time_None	--.--
+$Sec	秒
+$1st	1
+$MgameFishScoreBoard2nd	2
+$MgameFishScoreBoard3rd	3
+MgameFood.msbt
+RecruitTitle	工作！\n瓦豆鲁迪咖啡店
+$MgameMenuBtnSolo	单人
+$MgameMenuBtnMulti	双人
+$MgameMenuBtnJob	打工
+$LevelSelectTitle	忙碌度
+$MgameMenuBtnEasy	简单
+$MgameMenuBtnNormal	忙碌
+$MgameMenuBtnHard	极限
+$MgameMenuBtnJobLevel	打工
+DifficultyDetail_Easy	首先是{color[ff4d2fff]}练习{color[000000ff]}！\n请先记住打工的方式吧。
+DifficultyDetail_Normal	{color[ff4d2fff]}忙碌度提升！{color[000000ff]}\n接下接踵而来的订单吧。
+DifficultyDetail_Hard	{color[ff4d2fff]}忙碌度已经到达极限了！{color[000000ff]}\n迎接恐怖的……午餐时间吧！
+DifficultyDetail_Lock	目前还无法游玩。\n必须先通过{color[ff4d2fff]}“简单打工”{color[000000ff]}\n才能够游玩此难易度。
+$MgameFoodSignGoText	GO!
+$MgameFoodSignText	READY
+$Mgame1Player	1P
+$Mgame2Player	2P
+$MgameFoodLunchTimeText	进入午餐时间！
+$MgameFoodFinishText	FINISH!
+PauseBtn_Continue	继续游戏
+PauseBtn_Retry	重试
+PauseBtn_GiveUp	放弃
+$PauseTopCloseInfoText	关闭
+GameClear_Title	{[0318]} 过关！
+$MgameFoodWin	WIN
+$MgameFoodHighScoreTitle	最高分数
+BaseScoreText	总计 {[0301|0000]}人
+$MgameFoodBonusTitle	额外奖励
+$MgameFoodBonusPointPlus	+
+BonusName_NoMiss	点餐无失误
+BonusName_Continuous	连续点餐正确　{[0301|0000]}人
+BonusName_AngryGauge	客人满意度 {[0301|0000]}%
+$MgameFoodNewRecord	新纪录！
+GameOver_Title	{[0318]}\n失败……
+PauseBtn_LevelSelect	选择难易度
+PauseBtn_PlayAgain	再试一次
+PauseBtn_End	结束打工
 Mission.msbt
+Time_MinutesSec	{[0301|0000]}:{[0302|0000]}
 Progress_Count	（{[0301|0000]}/{[0301|0100]}）
+Progress_LimitedTime	（剩余{[0303]}）
 Title_Secret	？？？
 Title_StageClear	通过关卡
 Title_RescueWaddleDee	拯救瓦豆鲁迪
-Title_CollidedPopFlowerTulip	使{[0301|0000]}朵郁金香盛开{[030c]}
+Title_CollidedPopFlowerTulip	使{[0301|0000]}朵郁金香盛开{[031c]}
 Title_BreakShutter	破坏建筑的铁卷门
 Title_FoundBalcony	乘着水柱登上建筑高处的露台
+Title_FoundSingleSecretRoom	发现隐藏房间
+Title_LanternSwitch	点亮{[0301|0000]}个提灯开关{[031c]}
+Title_TakeOffSingleWantedNotice	撕下通缉令
+Title_FoundHiddenPath	发现上坡旁的岔路
+Title_StandStump	在{[0301|0000]}个树桩上小憩{[031c]}
+Title_DriveWithoutFallingCar	安全行驶且未从悬崖上坠落
+Title_GetDonut	吃下{[0301|0000]}个甜甜圈{[031c]}
+Title_GetCandy	吃下彩虹棒棒糖获得无敌状态
+Title_NotLostMaze	离开购物中心并从未迷路
+Title_GoThroughBossGorillaInseam	穿过猩猛霸的双脚间
+Title_EvadeBossGorillaCatch	使用{[030a]}打倒魔王
+Title_DefeatBoss1LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss1NoDamage	以无伤状态过关
+Title_BreakHardNuts	打开{[0301|0000]}个硬邦邦坚果{[031c]}
+Title_SandStatue	破坏动物沙像
+Title_CompleteBillboard	复原看板的文字
+Title_GreetedSeaBird	向{[0301|0000]}只海鸟打招呼{[031c]}
+Title_DigTomato	挖掘出M番茄
+Title_TreasureIsland	登陆宝岛
+Title_TakeOffWantedNotice	撕下{[0301|0000]}张通缉令{[031c]}
+Title_ClearSpikes	未触碰到尖刺且隐藏房间过关
+Title_FrozeMboss	使用冰冻能力冻住天鹅罗利那
+Title_GetEmergencyFood	吃下{[0301|0000]}个罐头{[031c]}
+Title_DefeatRGNoWater	在蓄水池的战斗中不曾落水
+Title_FoundFishesGold	发现金色的鱼
+Title_BreakWhispyPalmGrowthRoot	破坏热带大树的根部
+Title_DefeatBoss2CopyAbility	不使用能力并打倒魔王
+Title_DefeatBoss2LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss2NoDamage	以无伤状态过关
+Title_SendMissingChickToMama	将入口处迷路的雏鸟带回母鸟身边{[031c]}
+Title_climb	火箭顶端的美景
+Title_BloomWitheredFlower	使所有枯萎的花盛开
+Title_GoalGoCartLimitedTime	最初的竞赛以20秒内的成绩抵达终点
+Title_DefeatMbossMighty	使用彩虹棒棒糖打倒狂野刃
+Title_Shortcut	破坏所有纸箱并通过捷径
+Title_NotHitGhostGordo	未触碰到幽灵黑刺球并过关
+Title_FindSweets	吃下鬼怪藏起来的{[0301|0000]}个点心{[031c]}
+Title_BreakAlien	以自动贩卖机塞满嘴破坏13块惊吓外星人板
+Title_SendMissingChickToMamaNight	在夜路上将迷路的雏鸟带回母鸟身边{[031c]}
+Title_TakeOffWantedNoticeParade	帮忙撕下艾菲灵的通缉令
+Title_WithoutMud	未踩到泥巴并过关
+Title_ShootBossOnPillar	使用探巡队击中柱子上的卡洛凌
+Title_DefeatBossWithoutHovering	不使用盘旋并打倒魔王
+Title_DefeatBoss3LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss3NoDamage	以无伤状态过关
+Title_SnowStatue	破坏{[0301|0000]}个动物雪像{[031c]}
+Title_FoundBackStreat	发现小巷
+Title_TopOfTheTree	抵达钟塔
+Title_TrainRoof	登上{[0301|0000]}辆电车车顶{[031c]}
+Title_FoundPluralSecretPath	发现{[0301|0000]}条隐藏通道{[031c]}
+Title_ExamineTheContainer	调查货柜中的货物
+Title_Cave	发现能够避风的洞穴
+Title_GetHotMeal	吃下{[0301|0000]}道船夫料理{[031c]}
+Title_Underground	跳入地底的隐藏房间
+Title_TakeOffWantedNoticeE	帮忙撕下{[0301|0000]}张通缉令{[031c]}
+Title_TwinFrostyNoDamage	以无伤状态打倒双重狂野冰霜
+Title_MaxTomato	绕路取得M番茄
+Title_SwallowDededeHammer	吸入帝帝帝大王的锤子
+Title_DefeatBossWithoutGuard	不进行防御并打倒魔王
+Title_DefeatBoss4LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss4NoDamage	以无伤状态过关
+Title_ShootTargetSwitch	瞄准并射中{[0301|0000]}个飘浮在空中的标靶{[031c]}
+Title_DefeatMbossRing	使用圈圈塞满嘴打倒天鹅罗利那
+Title_DefeatSquishy	打败与同伴走散的乌贼怪
+Title_SleepInSecretPool	在秘密泳池午睡
+Title_DefeatPoisonToadEnemy	打倒{[0301|0000]}只毒毒蛙{[031c]}
+Title_PerfectDig	在隐藏房间完美挖掘出地洞
+Title_CompareIceCream	品尝比较过{[0301|0000]}种冰品{[031c]}
+Title_BonkersCutter	使用弯刀打倒狂野锤星猩
+Title_FitShape	在所有变形状态下嵌进形状相符的洞
+Title_TakeOffWantedNoticeDark	在峡谷撕下{[0301|0000]}张通缉令{[031c]}
+Title_SecretRoomClearWithoutFalling	未掉入洞中且隐藏房间过关
+Title_TreasureCactus	隐藏在仙人掌三胞胎间的财宝
+Title_DefeatBoss5CopyAbility	使用{[030a]}打倒魔王
+Title_BreakDollKirby	破坏犰魔乱舞的{[0301|0000]}只手工制卡比{[031c]}
+Title_DefeatBoss5LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss5NoDamage	以无伤状态过关
+Title_DefeatLookoutWildEnemy	打倒{[0301|0000]}只把风的加鲁鲁菲{[031c]}
+Title_FoundSecretPath	发现秘密捷径
+Title_VolcanoRock	用水浇灭{[0301|0000]}个火山弹{[031c]}
+Title_AnimalsFood	享用{[0301|0000]}个敌人珍藏的肉{[031c]}
+Title_TurnWindmillAll	打开所有风车开关
+Title_DefeatFrostyCrash	使用爆裂打倒狂野冰霜
+Title_NobodyControlRoom	入侵控制室
+Title_Coffee	喝下{[0301|0000]}杯咖啡提神{[031c]}
+Title_NeverPress	一次都没被夹到
+Title_FoundVolcanoSecretPath	探索隐藏道路的更深处
+Title_DefeatBossRush2LimitedTime	在{[0303]}内打倒犰魔乱舞{[031d]}
+Title_DefeatBossRush3NoDamage	以无伤状态打倒卡洛凌
+Title_DefeatBeast	打倒关卡开始时所有埋伏的野兽
+Title_TakeOffWantedNoticeHeadquarters	在敌人大本营撕下{[0301|0000]}张通缉令{[031c]}
+Title_NotFallTriangle	在三角锥塞满嘴状态下未掉入岩浆
+Title_NotFire	不曾被狂野 帝帝帝的火焰攻击击中
+Title_DefeatBoss6LimitedTime	在{[0303]}内打倒魔王{[031d]}
+Title_DefeatBoss6NoDamage	以无伤状态过关
+Title_EvolveTwice	以2段以上的进化能力打倒魔王
 Pause.msbt
 $ContinueBtnText	继续游戏
 TwoPersonPlayBtnText	双人游玩
 OnePersonPlayBtnText	单人游玩
+BackToTitleBtnText	返回标题
 $OperationSetupBtnText	操作设置
 $AmiiboBtnText	amiibo
 $DifficultyBtnText	难易度设置
+BackToTownBtnText	前往瓦豆鲁迪小镇
+RetryBtnText	重试
 ExitStageBtnText	离开关卡
+ExitArenaBtnText	离开竞技场
+FileName	文件{[0301|0000]}
+$Percent	%
+$ArenaEntryRank1stText	1
+$ArenaEntryRank2ndText	2
+$ArenaEntryRank3rdText	3
 $SlashText	/
 $ConfigTitle	操作设置
 ConfigKeyAssign_Move	移动
@@ -118,27 +1495,24 @@ $ConfigTogglePanel_OperationType	操作类型
 $ConfigTogglePanel_AutoSwallow	自动吞入
 $PauseTopCloseInfoText	关闭
 $PauseDifficultySelectTitle	难易度设置
-ProductIntroduction.msbt
-$ProductIntroductionBackBtnText	返回关卡选择
-$ProductIntroductionToEshopBtnText	前往Nintendo eShop
-DetailTitle_Town	充满有趣商店的小镇
-DetailTitle_Evolution	进化的复制能力
-DetailTitle_Story	被神秘包围的新世界
-DetailExplanation_Town	美味的咖啡店、有趣的电影院，\n{color[ff4d2fff]}拯救瓦豆鲁迪{color[000000ff]}后，小镇的设施会越来越多！\n在咖啡店的露台可以跟{color[ff4d2fff]}艾菲灵吃饭{color[000000ff]}，\n可以成为店员进行挑战，\n还可以游玩{color[ff4d2fff]}小游戏{color[000000ff]}。
-DetailExplanation_Evolution	将{color[ff4d2fff]}设计图{color[000000ff]}交给瓦豆鲁迪武器店，\n把那个{color[ff4d2fff]}复制能力{color[000000ff]}进行{color[ff4d2fff]}进化{color[000000ff]}吧！\n烈火会变成在空中飞舞的炎龙，\n炸弹会变成瞄准敌人的最新机器人。\n来吧，用{color[ff4d2fff]}新发现的能力{color[000000ff]}前往大冒险！
-DetailExplanation_Story	被突如其来的{color[ff4d2fff]}神秘漩涡{color[000000ff]}吸入，\n回过神来，已前往充满不可思议的{color[ff4d2fff]}新世界{color[000000ff]}！\n被绿意覆盖的大楼以及荒废了的可疑工厂。\n还有，一个接一个{color[ff4d2fff]}被抓走的瓦豆鲁迪们{color[000000ff]}……\n在这个世界等待着卡比的命运将是！？
-$ProductIntroductionTitle	请在《星之卡比 探索发现》正式版继续享受乐趣！
-$ProductIntroductionLeftText	充满有趣商店的小镇
-$ProductIntroductionCenterText	进化的复制能力
-$ProductIntroductionRightText	被神秘包围的新世界
 Resident.msbt
 $Saving	正在保存……
+TownTitle	瓦豆鲁迪小镇
+Time_MinSec2	{[0301|0000]}:{[0302|0000]}
+Time_MinSec2Csec2	{[0301|0000]}:{[0302|0000]}.{[0302|0100]}
+Time_MinSec2Msec3	{[0301|0000]}:{[0302|0000]}.{[0302|0100]}
 Step.msbt
 $StageClearText	通过关卡！
+$EstoryStageSoulComplete	灵魂完成！
 ChargeGuide_DiscardAbility	舍弃能力
 ChargeGuide_DiscardDeform	吐出
 HowToGuide_Inhale	塞满嘴
+HowToGuide_Open	打开
 HowToGuide_Slide	滑垒
+HowToGuide_Sleep	午睡
+HowToGuide_Look	欣赏
+HowToGuide_Watch	阅读
+HowToGuide_FindOut	调查
 Step_GuideMovie_Discard	{[0703|0300]} 舍弃能力
 Step_GuideMovie_Inhale	{[0701|0100]} 吸入
 Step_GuideMovie_InhaleWithAbility	{[0701|0100]} 塞满嘴
@@ -147,88 +1521,1020 @@ Step_GuideMovie_Jump	{[0700|0000]} 跳跃
 Step_GuideMovie_Hover	{[0700|0000]} 盘旋
 Step_GuideMovie_Spit	{[0701|0100]} 吐出
 Step_GuideMovie_DeformCarBoost	{[0701|0100]} 涡轮冲刺
+Step_GuideMovie_DeformLightbulbTurnOn	{[0701|0100]} 照亮周围
+Step_GuideMovieTitle_DeformWaterBalloonAttack	喷水
+Step_GuideMovie_DeformWaterBalloonAttack	朝向巡游车并按{[0701|0100]}
+Step_GuideMovie_GetOff	朝向陆地并按{[0700|0000]}
+Step_GuideMovie_GetOn	朝向船只并按{[0700|0000]}
+Step_GuideMovie_FuseCannon	点火后坐进炮口
+Step_GuideMovieTitle_AbilityGuideBombTargetThrow	瞄准投掷
+Step_GuideMovie_AbilityGuideBombTargetThrow	长按{[0701|0100]}～放开
+Step_GuideMovieTitle_AbilityGuideCutterHoldCutter	保持蓄力
+Step_GuideMovie_AbilityGuideCutterHoldCutter	长按{[0701|0100]}～放开
+Step_GuideMovieTitle_AbilityGuideCutterItemCatch	抓住道具
+Step_GuideMovie_AbilityGuideCutterItemCatch	瞄准道具并按{[0701|0100]}
+Step_GuideMovieTitle_AbilityGuideDrillGroundAttack	地面咚
+Step_GuideMovie_AbilityGuideDrillGroundAttack	长按{[0701|0100]}～放开
+Step_GuideMovieTitle_AbilityGuideFireBurn	燃烧攻击
+Step_GuideMovie_AbilityGuideFireBurn	移动中跳跃＋{[0701|0100]}
+Step_GuideMovieTitle_AbilityGuideIceIceStorm	寒冰暴风雪
+Step_GuideMovie_AbilityGuideIceIceStorm	连打{[0701|0100]}～长按
+Step_GuideMovieTitle_AbilityGuideNeedleNeedleRoll	针球
+Step_GuideMovie_AbilityGuideNeedleNeedleRoll	长按{[0701|0100]}＋移动
+Step_GuideMovieTitle_AbilityGuideNeedleNeedleRollFinish	抛出击中
+Step_GuideMovie_AbilityGuideNeedleNeedleRollFinish	长按{[0701|0100]}～放开
+Step_GuideMovieTitle_AbilityGuideRangerChargeShot	累积射击
+Step_GuideMovie_AbilityGuideRangerChargeShot	长按{[0701|0100]}～放开
+Step_GuideMovieTitle_AbilityGuideTornadoFinishAttack	瞬间最大风速
+Step_GuideMovie_AbilityGuideTornadoFinishAttack	{[0701|0100]}～再按一次{[0701|0100]}
 DeformGuide_Jump	跳跃
 DeformGuide_CarAction	涡轮冲刺
 DeformGuide_ConeAction	突刺
+DeformGuide_LockerAction1	倒下
+DeformGuide_RingAction	阵风
+DeformGuide_StairsAction	砰锵
 DeformGuide_VendingMachineAction	罐子射击
 $Multiplication	×
 DeformGuide_Remainder_SoldOut	售完
 DeformGuide_WaterTankAction	打开
+DeformGuide_ShipAction	阵风涡轮
+DeformGuide_ElevatorAction	伸缩
+DeformGuide_LightbulbAction	照亮周围
+DeformGuide_WaterBalloonAction	喷水
+DeformGuide_CoasterAction	倾斜
+DeformGuide_GliderAction1	上升/下降
+DeformGuide_GliderAction2	旋转突进
+GliderCtrlStateNormal	普通
+GliderCtrlStateReverse	反向
+$GliderCtrlGuideTitle	上下操作切换
 $Slash	/
 $RestartText	检查点
 $HowToGuidePlusText	+
-HowToGuidePlusPointText	+
+SupportSpeak.msbt
+TownGuideToStory_00	{[1401]}{[1907|01cd]}准备好了吗？\n我们也差不多该去冒险咯！
+TownBlueprint_00	{[1401]}{[1907|01cd]}我们快点把新获得的{color[ff4d2fff]}设计图{color[000000ff]}\n拿去{color[ff4d2fff]}武器店{color[000000ff]}吧！
+TownUrgeSleepFirst_00	{[1900|02cd]}只要在卡比小屋午睡\n就能恢复精神哦。
+TownUrgeSleep_00	{[1905|05cd]}卡比，你的体力减少了呢。\n我们先回小屋午睡一下吧！
+TownNoticeArenaReward_00	{[1907|03cd]}在竞技场的接待处似乎能够\n领取{color[ff4d2fff]}尚未领取的报酬{color[000000ff]}哦！
+TownStreetLiveTipHoldBtn_00	{[1907|00cd]}只要持续按住{color[ff4d2fff]}{[0400|0000]}{color[000000ff]}，\n就能自动放入{[0100|8000]}硬币星哦。
+TownBrokenTown_00	{[1909|04cd]}卡比，我们快去拯救\n瓦豆鲁迪们吧！
+TownStory1_00	{[1905|05cd]}要不要去参观一下瓦豆鲁迪们\n重建的设施呢？
+TownStory1_01	{[1401]}{[1907|01cd]}瓦豆鲁迪们回到小镇后，\n这里也渐渐热闹起来了呢～
+TownStory1_02	{[1401]}{[1909|02cd]}要不要去看看被拯救出来的瓦豆鲁迪们\n在小镇上生活得如何呢？
+TownAbleToEvolution_00	{[1909|00cd]}卡比！似乎已经有\n{color[ff4d2fff]}可以进化的{color[000000ff]}复制能力了哦。
+TownArena_00	{[1401]}{[1907|00cd]}听说竞技场正在举办魅塔骑士杯，\n我们去看看吧！
+TownStoryCleared_00	{[1401]}{[1900|04cd]}能够再见到卡比真是太好了……\n今后也请你多多关照哦！
+TownLeopard_00	{[1905|00cd]}卡洛凌来到小镇了！\n我们去看一下情况吧。
+TownEstory_00	{[1402]}{[1902|00cd]}狮王加尔夫……不知道要不要紧……\n得努力把他找出来才行！
+TownDedede_00	{[1905|04cd]}帝帝帝大王到小镇来玩了哦。\n他似乎{color[ff4d2fff]}有东西想交给你{color[000000ff]}呢！
+TownPresentCode_00	{[1401]}{[1909|01cd]}听说礼物关键词就藏在小镇的某处。\n我们快去找找看吧！
+TownFoodStore_00	{[1905|05cd]}咖啡店总是很热闹呢。\n店里似乎很忙碌，要去帮忙吗？
+TownFishingPond_00	{[1909|00cd]}听说池塘里有黄金鱼王出没哦。\n我们再去钓钓看吧！
+TownRollingBall_00	{[1401]}{[1909|01cd]}对了！要不要去玩滚球卡比，\n完成它的所有挑战呢？
+TownCapsuleToyMachine_00	{[1401]}{[1900|02cd]}要不要去玩扭蛋机，\n完成收集所有模型的目标呢？
+TownArenaBossBattle_00	{[1401]}{[1905|04cd]}现在正在举办The 终极杯哦！\n去参加看看吧！
+TownArenaBossBattleRand_00	{[1401]}{[1905|04cd]}现在正在举办The 终极杯哦！\n去参加看看吧！
+TownArenaBossBattleExtra_00	{[1903|00cd]}竞技场似乎正在举办很厉害的大赛……\n虽然让人有些紧张，但你要不要参加看看？
+TownArenaBossBattleExtraRand_00	{[1903|00cd]}竞技场似乎正在举办很厉害的大赛……\n虽然让人有些紧张，但你要不要参加看看？
+TownStreetLiveGradeUpRand_00	{[1905|01cd]}瓦豆演奏那里似乎摆放着吉他盒。\n难道他们可以再次升级吗？
+TownStreetLiveGradeUp_00	{[1905|01cd]}瓦豆演奏那里似乎摆放着吉他盒。\n难道他们可以再次升级吗？
+TownCompleteWaddleDee_00	{[1900|00cd]}小镇里竟然有我们的铜像，\n感觉有点难为情呢～
+TownAreaOpenSpace_00	{[1401]}{[1907|00cd]}瓦豆鲁迪们接下来打算\n重建什么样的设施呢？
+TownAreaTheaterRoom_00	{[1900|00cd]}有许多影片正在上映，\n卡比，你想看哪一部呢？
+TownAreaTheaterRoom_01	{[1401]}{[1907|01cd]}有很多看起来有趣的影片，\n真不知道该看哪一部才好，对吧～
+TownAreaTheaterRoom_02	{[1401]}{[1900|02cd]}卡比！决定好要看哪一部影片了吗？\n如果决定好了就坐到位置上，保持安静吧。
+TownAreaAbilityRoom_00	{[1905|05cd]}决定好要使用哪个能力了吗？\n有太多能力可以选择，很难决定对吧。
+TownAreaAbilityRoom_01	{[1401]}{[1909|02cd]}复制能力有很多种，\n卡比最喜欢哪一种呢？
+TownAreaAbilityRoom_02	{[1907|01cd]}在隔壁的房间似乎还准备了能够\n让你试用能力的沙袋先生哦！
+TownAreaCapsuleToyMachine_00	{[1905|00cd]}是不是还有没收集到的模型呢……\n要不要去玩一下扭蛋机？
+TownAreaCapsuleToyMachine_01	{[1905|05cd]}有好多好多种类呢。\n卡比喜欢哪个模型呢？
+TownAreaCapsuleToyMachine_02	{[1900|03cd]}{[1401]}一旦开始收集起模型，\n就会忍不住想全部收集齐，对吧。
+TownAreaDeliveryService_00	{[1905|00cd]}卡比，是不是有礼物关键词\n还没使用过呀？
+TownAreaDeliveryService_01	{[1907|01cd]}你知道吗？听说小镇里藏着\n好几个礼物关键词哦！
+TownAreaDeliveryService_02	{[1905|05cd]}小镇里藏着礼物关键词……\n那到底是谁留下来的呢？
+TownAreaKirbyHouse_00	{[1401]}{[1900|01cd]}卡比小屋就跟卡比\n一样圆滚滚的呢～
+TownAreaKirbyHouse_01	{[1907|00cd]}体力减少的时候\n只要回卡比小屋午睡就会回复哦。
+TownAreaFoodStore_00	{[1401]}{[1909|02cd]}从咖啡店传来一股好香的味道～\n卡比，要不要一起去喝点什么呢？
+TownAreaFoodStore_01	{[1401]}{[1900|02cd]}那里有卖卡比最喜欢的M番茄哦！\n要不要去外带一份呢？
+TownAreaFoodStore_02	{[1401]}{[1907|01cd]}天气这么好，\n在咖啡店的2楼吃饭好像也不错呢～
+TownAreaArena_00	{[1401]}{[1901|03cd]}哇～！观众的加油声\n都传到这里来了呢。
+TownAreaArena_01	{[1909|00cd]}去竞技场参加比赛，\n测试看看自己的实力吧！
+TownAreaArena_02	{[1401]}{[1900|02cd]}只要朝瓦豆鲁迪们按下{color[ff4d2fff]}{[041c|a300]}{color[000000ff]}，\n他们都会很开心哦。
+TownAreaLookoutTower_00	{[1401]}{[1907|04cd]}哇～！\n从这里可以眺望整个小镇耶～！
+TownAreaLookoutTower_01	{[1900|01cd]}卡比，\n风吹起来很舒服吧！
+TownAreaPharmacy_00	{[1401]}{[1907|03cd]}哇～是能让体力变为2倍的道具呢。\n打不赢魔王的时候就买来试试看吧。
+TownAreaPharmacy_01	{[1905|05cd]}如果事先买好攻击提升，\n是不是也能在竞技场轻松获得优胜呢？
+TownAreaPharmacy_02	{[1900|02cd]}这里有能够使速度提升的道具呢。\n感觉只要有它，不管什么关卡都能迅速过关哦！
+TownAreaFishingPond_00	{[1905|05cd]}瓦豆鲁迪正在钓鱼呢。\n我们也去钓鱼吧！？
+TownAreaFishingPond_01	{[1401]}{[1907|04cd]}卡比，据说这个池塘里栖息着非比寻常的鱼王哦……\n不知道我们能不能钓到呢？
+TownAreaRollingBall_00	{[1401]}{[1900|00cd]}滚球卡比！玩起来很有趣吧。\n我很喜欢那种让球滚啊滚的感觉！
+TownAreaRollingBall_01	{[1905|04cd]}世界上似乎有只用了非常短的时间就过关\n滚球卡比的人……我们也不能输对吧！
+TownAreaStreetLive_00	{[1907|04cd]}他们似乎会演奏许多乐曲给我们听哦！\n卡比喜欢哪一首乐曲呢？
+TownAreaStreetLive_01	{[1905|04cd]}他们会演奏出怎样的乐曲呢？\n试着点首乐曲吧？
+TownAreaCentralSquare_00	{[1401]}{[1900|03cd]}卡比，只要朝瓦豆鲁迪们按下{color[ff4d2fff]}{[041d|a400]}{color[000000ff]}\n跟他们挥手，他们或许也会对你挥手哦！
+TownAreaCentralSquare_01	{[1401]}{[1907|01cd]}广场上绽放着好多\n漂亮的花哦！
+TownAreaCentralSquare_02	{[1401]}{[1900|02cd]}看着小镇上不断建造起各种设施，\n真令人开心呢～！
+WmapTownBuildingUnlocked_00	{[1401]}{[1909|01cd]}小镇上似乎有{color[ff4d2fff]}新设施{color[000000ff]}建造完成了。\n有空的话，我们就去看看吧！
+WmapCompleteWaddleDee_00	{[1401]}{[1901|03cd]}这样就把所有瓦豆鲁迪都救出来了吧。\n我们返回小镇去看看大家吧！
+WmapGuideToCstage_00	{[1901|00cd]}只要过关{color[ff4d2fff]}宝藏之路{color[000000ff]}，\n似乎就能获得{color[ff4d2fff]}{[0101|8100]}稀有石{color[000000ff]}哦。
+WmapBlueprint_00	{[1401]}{[1909|00cd]}为了送达新获得的{color[ff4d2fff]}设计图{color[000000ff]}，\n我们先{color[ff4d2fff]}返回小镇{color[000000ff]}看看吧！
+WmapBackToTown_00	{[1907|00cd]}在世界地图中想要返回小镇的时候，\n只要按{color[ff4d2fff]}{[0401|0100]}{color[000000ff]}就能马上回到小镇了哦！
+WmapTurboMoveFirst_00	{[1907|01cd]}只要按着{color[ff4d2fff]}{[040a|6100]}{color[000000ff]}，同时推动摇杆，\n就能比平常更快速地移动哦。
+WmapTurboMove_00	{[1907|01cd]}只要按着{color[ff4d2fff]}{[040a|6100]}{color[000000ff]}，同时推动摇杆，\n就能比平常更快速地移动哦。
+WmapBossStageUnlocked_00	{[1905|05cd]}在与魔王战斗前，\n或许先在小镇做些准备比较好！
+WmapUrgeSleep_00	{[1402]}{[1902|01cd]}卡比，你的体力减少了呢。\n要不要先返回小镇休息一下？
+WmapArea1BrokenTown_00	{[1907|01cd]}卡比，我们去拯救被抓走的\n瓦豆鲁迪们吧！
+WmapArea1_00	{[1401]}{[1900|02cd]}置身在绿意环绕的环境下\n感觉很舒服对吧～卡比！
+WmapArea2_00	{[1401]}{[1907|04cd]}这片大海好漂亮哦。\n我们去游个泳吧！
+WmapArea3_00	{[1401]}{[1901|03cd]}哇～是游乐园！\n有好多游乐设施呢～
+WmapArea4_00	{[1402]}{[1903|03cd]}呜～要是一直待在这里\n感觉会冻僵呢～
+WmapArea5_00	{[1907|03cd]}哇～一眼望去全是沙子。\n不知道这片沙漠的尽头在哪里？
+WmapArea6_00	{[1402]}{[1902|02cd]}呜哇……要是待在这里不动，\n感觉都要被岩浆融化了。
+WmapArea7_00	{[1901|00cd]}卡比，虽然我有点害怕……\n但是现在也只能前进了对吧！
+EstoryWmapFirst_00	{[1902|01cd]}这里是强大的思想所创造的世界……\n我们谨慎前进吧……！
+EstoryWmap1_00	{[1902|01cd]}这里是强大的思想所创造的世界……\n我们谨慎前进吧……！
+EstoryWmap2_00	{[1901|00cd]}……我一点也不怕哦！\n因为有卡比陪着我！
+EstoryWmap3_00	{[1906|02cd]}这个世界很不安定呢。\n就好像身处某人的梦境之中……
+WmapCommon1_00	{[1401]}{[1900|00cd]}只要和卡比在一起，\n不管去哪里冒险，我都觉得很开心哦～
+WmapCommon2_00	{[1907|01cd]}对了，卡比！\n我们接下来要去哪里呢？
+WmapCommon3_00	{[1401]}{[1900|02cd]}冒险真是让人兴奋呢！\n是因为有卡比作伴，所以冒险才这么有趣吗？
+EstorySoulRestNum_00	{[1905|00cd]}这附近好像还有{color[ff4d2fff]}{[0301|0000]}个{color[000000ff]}\n狮王的灵魂哦！
+EstorySoulLast_00	{[1905|04cd]}好像还有{color[ff4d2fff]}1个{color[000000ff]}狮王的灵魂\n残留在这附近哦！
+EstorySoulCompleted_00	{[1905|05cd]}这附近似乎已经没有\n狮王的灵魂了哦。
+EstoryPresentItem_00	{[1901|00cd]}啊～得阻止狮王加尔夫才行……！\n卡比，快使用这个！
 TitleMenu.msbt
-TopBtnContinue	单人游玩
-TopBtnContinueP2	双人游玩
+TopBtnContinue	继续游戏
+TopBtnContinueP2	以双人模式继续游戏
 TopBtnFileSelect	选择文件
 TopBtnGameStart	开始
+TopMenuFileName	文件 {[0301|0000]}
 $TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
-$TitleMenuTitle	关卡选择
-$TitleMenuAbilityEvolution	能力进化
-$TitleMenuEShopBtn	Nintendo eShop
-$TitleMenuMoveBtn	影片
-$TitleMenuProductIntroductionBtn	介绍页面
-$Back	返回
-$TitleMenuPresent	关键词
+$FileSelectFileName1Text	文件1
+$FileSelectFileName2Text	文件2
+$FileSelectFileName3Text	文件3
+$FileSelectPercentText	%
+$FileSelectSubTitleCasualText	春风模式
+$FileSelectSubTitleStandardText	狂野模式
+$FileSelectTitleText	选择文件
+$FileSelectDeleteText	删除文件
+$FileSelectNetConnectText	互联网设置
+Town.msbt
+TownName	瓦豆鲁迪小镇
+Title_TheaterRoom	瓦豆鲁迪电影院
+Title_AbilityRoom	瓦豆鲁迪武器店
+Title_CapsuleToy	扭蛋机
+Title_DeliveryService	瓦豆鲁迪快递
+Title_KirbyHouse	卡比小屋
+Title_FoodShop	瓦豆鲁迪咖啡店
+Title_MgameFood	工作！瓦豆鲁迪咖啡店
+Title_Arena	竞技场
+Title_LookoutTower	展望台
+Title_Pharmacy	瓦豆鲁迪道具店
+Title_MgameFish	紧张刺激！刹那间的钓鱼池
+Title_MgameBall	滚啊滚啊！滚球卡比
+Title_StreetLive	街角瓦豆演奏
+$FigureListGuideText	收藏
+$CapsuleToyTurnText	转动
+$Entry	正在参加大赛
+$ConnectInfo	互联网
+$UpdateInfo	{size[6400]}信息更新{size[6400]}
+$Slash	/
+$TipIn	放入1枚{color[ff4d2fff]}{[0100|8000]}{color[000000ff]}
+$Auto	AUTO
+$Music	TRACK No.
+$MovieSelectSkipText	跳过
+FigureSeries1	Vol.1
+FigureSeries2	Vol.2
+FigureSeries3	Vol.3
+FigureSeries4	Vol.4
+ShoppingWindow_Name_MaxTomato	M番茄
+ShoppingWindow_Name_EnergyDrink	元气饮料
+ShoppingWindow_Name_Food1	汽车塞满嘴蛋糕
+ShoppingWindow_Name_Food2	卡比汉堡
+ShoppingWindow_Name_LifeUp	生命提升
+ShoppingWindow_Name_StrengthUp	攻击提升
+ShoppingWindow_Name_SpeedUp	速度提升
+ShoppingWindow_Detail_MaxTomato	回复所有体力
+ShoppingWindow_Detail_EnergyDrink	回复大量体力
+ShoppingWindow_Detail_Food1	回复体力
+ShoppingWindow_Detail_Food2	回复体力
+ShoppingWindow_Detail_LifeUp	体力变为2倍\n但不超过2倍
+ShoppingWindow_Detail_StrengthUp	200秒内攻击力提升\n最多可叠加使用5个
+ShoppingWindow_Detail_SpeedUp	200秒内速度提升\n最多可叠加使用5个
+Wmap.msbt
+$StageListGuidetText	关卡列表
+$FigureListGuideText	收藏
+$BackToTown	前往瓦豆鲁迪小镇
+$Slash	/
+ToTown	前往瓦豆鲁迪小镇
+$StageStartStart	开始
+$WmapComebackCountSlash	/
+AddComebackedCount_Complete	瓦豆鲁迪 完成！
+FindPlace	调查
+ToNewContinent	前往禁区之岛
+ToFirstContinent	前往初始大陆
+StageList_CstageModeName	宝藏之路列表
+StageList_StageModeName	关卡列表
+TreasureRoadSearchHint	调查可疑的\n地方吧
+TreasureRoadEvolvedHint	进化为\n{[0309|0000]}吧
+TreasureRoadEstoryHint	继续进行\n接下来的故事吧
+$StageListClose	关闭
+$EstoryCountSlash	/
+CstageZoneName_Copy_Normal	普通 宝藏
+CstageZoneName_Copy_Bomb	炸弹 宝藏
+CstageZoneName_Copy_ChainBomb	连锁炸弹\n宝藏
+CstageZoneName_Copy_SearchBomb	自动追踪炸弹\n宝藏
+CstageZoneName_Copy_TimeCrash	时间爆裂\n宝藏
+CstageZoneName_Copy_Cutter	弯刀 宝藏
+CstageZoneName_Copy_ChakramCutter	环刃弯刀\n宝藏
+CstageZoneName_Copy_MetalCutter	全金属弯刀\n宝藏
+CstageZoneName_Copy_Drill	钻击 宝藏
+CstageZoneName_Copy_PencilDrill	铅笔钻击\n宝藏
+CstageZoneName_Copy_TwinDrill	双重钻击\n宝藏
+CstageZoneName_Copy_Fire	烈火 宝藏
+CstageZoneName_Copy_VolcanoFire	火山烈火\n宝藏
+CstageZoneName_Copy_DragonFire	龙之烈火\n宝藏
+CstageZoneName_Copy_Hammer	锤子 宝藏
+CstageZoneName_Copy_ToyHammer	哔哔锤子\n宝藏
+CstageZoneName_Copy_RockHammer	狂野锤子\n宝藏
+CstageZoneName_Copy_DededeHammer	蒙面锤子\n宝藏
+CstageZoneName_Copy_Ice	冰冻 宝藏
+CstageZoneName_Copy_FrostyIce	冰霜冰冻\n宝藏
+CstageZoneName_Copy_BlizzardIce	暴风雪冰冻\n宝藏
+CstageZoneName_Copy_Needle	针 宝藏
+CstageZoneName_Copy_JunkNeedle	废品针 宝藏
+CstageZoneName_Copy_CrystalNeedle	水晶针 宝藏
+CstageZoneName_Copy_Ranger	探巡队 宝藏
+CstageZoneName_Copy_EliteRanger	辉煌探巡队\n宝藏
+CstageZoneName_Copy_SpaceRanger	太空探巡队\n宝藏
+CstageZoneName_Copy_Sword	利剑 宝藏
+CstageZoneName_Copy_GigantSword	庞大利剑\n宝藏
+CstageZoneName_Copy_MetaSword	魅塔骑士利剑\n宝藏
+CstageZoneName_Copy_MorphoSword	冥蝶骑士利剑\n宝藏
+CstageZoneName_Copy_Tornado	龙卷风 宝藏
+CstageZoneName_Copy_SwanTornado	天鹅龙卷风\n宝藏
+CstageZoneName_Copy_StormTornado	风暴龙卷风\n宝藏
+CstageZoneName_Deform_Car	汽车塞满嘴\n宝藏
+CstageZoneName_Deform_Cone	三角锥塞满嘴\n宝藏
+CstageZoneName_Deform_Cylinder	水管塞满嘴\n宝藏
+CstageZoneName_Deform_Elevator	作业车塞满嘴\n宝藏
+CstageZoneName_Deform_Lightbulb	灯泡塞满嘴\n宝藏
+CstageZoneName_Deform_Ring	圈圈塞满嘴\n宝藏
+CstageZoneName_Deform_Stairs	阶梯塞满嘴\n宝藏
+CstageZoneName_Deform_VendingMachine	自动贩卖机塞满嘴\n宝藏
+CstageZoneName_Deform_WaterBalloon	水球塞满嘴\n宝藏
+CstageZoneName_Deform_Mix	塞满嘴总动员\n宝藏
+CstageAbilityName_Deform_Mix	塞满嘴总动员
+StageList_CstageZoneName	{[030c]} 宝藏
+StageList_CstageZoneName_Deform_Mix	塞满嘴总动员 宝藏
 Name\AbilityName.msbt
 Kirby	卡比
 BandanaWaddleDee	头巾瓦豆鲁迪
 Copy_Normal	普通
 Copy_Bomb	炸弹
 Copy_ChainBomb	连锁炸弹
+Copy_SearchBomb	自动追踪炸弹
+Copy_Crash	爆裂
+Copy_TimeCrash	时间爆裂
 Copy_Cutter	弯刀
 Copy_ChakramCutter	环刃弯刀
+Copy_MetalCutter	全金属弯刀
+Copy_Drill	钻击
+Copy_PencilDrill	铅笔钻击
+Copy_TwinDrill	双重钻击
+Copy_Fire	烈火
+Copy_VolcanoFire	火山烈火
+Copy_DragonFire	龙之烈火
+Copy_Hammer	锤子
+Copy_ToyHammer	哔哔锤子
+Copy_RockHammer	狂野锤子
+Copy_DededeHammer	蒙面锤子
 Copy_Ice	冰冻
 Copy_FrostyIce	冰霜冰冻
+Copy_BlizzardIce	暴风雪冰冻
+Copy_Needle	针
+Copy_JunkNeedle	废品针
+Copy_CrystalNeedle	水晶针
+Copy_Ranger	探巡队
+Copy_EliteRanger	辉煌探巡队
+Copy_SpaceRanger	太空探巡队
+Copy_Sleep	睡觉
+Copy_DeepSleep	深层睡觉
 Copy_Sword	利剑
 Copy_GigantSword	庞大利剑
+Copy_MetaSword	魅塔骑士利剑
+Copy_MorphoSword	冥蝶骑士利剑
+Copy_Tornado	龙卷风
+Copy_SwanTornado	天鹅龙卷风
+Copy_StormTornado	风暴龙卷风
 Deform_Car	汽车塞满嘴
+Deform_Coaster	云霄飞车塞满嘴
 Deform_Cone	三角锥塞满嘴
+Deform_Cylinder	水管塞满嘴
+Deform_DumpCar	巨大联结车塞满嘴
+Deform_Elevator	作业车塞满嘴
+Deform_Glider	拱门塞满嘴
+Deform_Lightbulb	灯泡塞满嘴
+Deform_Locker	置物柜塞满嘴
+Deform_Ring	圈圈塞满嘴
+Deform_Stairs	阶梯塞满嘴
 Deform_VendingMachine	自动贩卖机塞满嘴
+Deform_WaterBalloon	水球塞满嘴
 Deform_WaterTank	巨蛋塞满嘴
+Name\AreaName.msbt
+Level1	自然草原
+Level2	蔚蓝海岸
+Level3	惊奇乐园遗址
+Level4	雪白角峰
+Level5	原始荒野大地
+Level6	红通通禁区
+Level7	实验室·摸索发觉
+Estory	绝岛幻梦·遗忘
+Name\ArenaCompetitionName.msbt
+CartelOfMetaKnight	魅塔骑士杯
+BossBattle	The 终极杯
+BossBattleExtra	The 终极杯Z
 Name\BossName.msbt
 GigantEdge	狂野刃
 BossGorillaPrefix	刚腕兽
 BossGorilla	猩猛霸
+BossGorillaExPrefix	刚幻兽
+BossGorillaEx	猩猛霸·幻
+WhispyPalmPrefix	南国树
+WhispyPalm	热带大树
+WhispyPalmExPrefix	幻国树
+WhispyPalmEx	热带大树·幻
+BossLeopardPrefix	女爪豹
+BossLeopard	卡洛凌
+BossLeopardExPrefix	幻爪豹
+BossLeopardEx	卡洛凌·幻
+DededePrefix	宿敌之暴君
+Dedede	帝帝帝大王
+DededeExPrefix	宿敌的幻梦
+DededeEx	帝帝帝大王·幻
+DededeWildPrefix	猛兽面具
+DededeWild	狂野 帝帝帝
+DededeWildExPrefix	幻兽面具
+DededeWildEx	狂野 帝帝帝·幻
+BossLionPrefix	兽王
+BossLion	狮王加尔夫
+BossLionExPrefix	附身兽
+BossLionEx	狮王·遗忘
+BossArmadilloPrefix	舞转甲兽
+BossArmadillo	犰魔乱舞
+BossArmadilloExPrefix	舞幻甲兽
+BossArmadilloEx	犰魔乱舞·幻
+BossChimeraPrefix	侵略种
+BossChimera	菲克特·遗忘
+BossChimeraExPrefix	思想兽
+BossChimeraEx	灵魂·遗忘
+BossChimeraPerfectPrefix	完全体
+BossChimeraPerfect	菲克特·艾菲里斯
+BossChimeraPerfectSoulPrefix	魂沌新物种
+BossChimeraPerfectSoul	混沌·艾菲里斯
+Bonkers	狂野锤星猩
+MisterFrosty	狂野冰霜
+MbossTornado	天鹅罗利那
+BonkersGigantEdge	狂野锤星猩＆狂野刃
+MisterFrostyMbossTornado	狂野冰霜＆天鹅罗利那
+MetaKnightPrefix	孤高的骑士
+MetaKnight	魅塔骑士
+MetaKnightExPrefix	孤高的幻梦
+MetaKnightEx	魅塔骑士·幻
+MorphoKnightPrefix	啜梦的极蝶
+MorphoKnight	冥蝶骑士
+MrSandbag	沙袋先生
+TwinGigantEdge	双重狂野刃
+TwinBonkers	双重狂野锤星猩
+TwinMisterFrosty	双重狂野冰霜
+TwinMbossTornado	双重天鹅罗利那
+Name\CstageName.msbt
+BombStage01	全倒！\n三胞胎开关
+BombStage02	举起丢出去！\n炸弹方块
+BombStageChainBomb01	战斗吧！\n连锁炸弹的试炼
+BombStageSearchBomb01	奋力一丢！\n追踪开启
+CrashStageTimeCrash01	停止时间！\n缓慢世界
+CutterStage01	投掷！抓住财宝
+CutterStage02	投掷蓄力！\n放开抓住
+CutterStageChakramCutter01	旋转返回！\n开关开启
+CutterStageMetalCutter01	铿锵！\n熟练墙壁反射
+DrillStage01	战斗吧！\n钻击的试炼
+DrillStage02	迷路潜入！\n栅栏迷宫
+DrillStagePencilDrill01	挖掘潜入！\n穿过栅栏
+DrillStageTwinDrill01	钻击逼近！\n疯狂巡游车
+FireStage01	燃烧奔驰！\n朝向大炮
+FireStage02	逆向奔驰！\n传送带冲刺
+FireStageVolcanoFire01	亮起来！提灯开关
+FireStageDragonFire01	融化滑动！\n朝向大炮
+HammerStage01	敲击！\n打桩造路
+HammerStage02	战斗吧！\n锤子的试炼
+HammerStageToyHammer01	咻咻！钉子攀登
+HammerStageRockHammer01	战斗吧！\n狂野锤子的试炼
+IceStage01	硬邦邦！\n暴风雪溜冰
+IceStage02	滑道！高速溜冰
+IceStageFrostyIce01	战斗吧！\n冰霜冰冻的试炼
+IceStageBlizzardIce01	冷冻寻找！\n岩浆溜冰
+NeedleStage01	滚动吧！针路
+NeedleStageJunkNeedle01	战斗吧！\n废品针的试炼
+NeedleStageCrystalNeedle01	快点！\n崩坏的针路
+NormalStage01	美好的无敌！\n横冲直撞
+NormalStage02	卡比的吸入大决战！
+RangerStage01	击中吧！\n彼岸的目标
+RangerStage02	瞄准旋转！目标塔
+RangerStageEliteRanger01	战斗吧！\n辉煌探巡队的试炼
+RangerStageSpaceRanger01	射击顺流！\n恐怖的传送带掉落
+SwordStage01	看清楚！\n剪哪条绳子
+SwordStage02	战斗吧！\n利剑的试炼
+SwordStageGigantSword01	战斗吧！\n庞大利剑的试炼
+SwordStageMorphoSword01	战斗吧！\n冥蝶骑士利剑的试炼
+TornadoStage01	飞越吧！荆棘路
+TornadoStage02	冻僵水面！\n三胞胎开关
+TornadoStageSwanTornado01	飞吧旋转吧！\n风车岛
+TornadoStageStormTornado01	战斗吧！\n风暴龙卷风的试炼
+DeformCarStage01	穿越取得！\n转转赛道
+DeformCarStage02	飞越吧！\n传送带赛道
+DeformConeStage01	攻击！\n满满水管路
+DeformConeStage02	突刺！上下塔
+DeformCylinderStage01	跳跃！滚滚卡比
+DeformElevatorStage01	伸长缩短！\n作业车之路
+DeformLightbulbStage01	照亮吧！\n迷路的幽灵迷宫
+DeformRingStage01	激烈冲突！\n圈圈小船竞赛
+DeformRingStage02	呼～呼～！\n风车射击
+DeformStairsStage01	搬运吧！\n阶梯大移动
+DeformVmachineStage01	射击前进！\n自动贩卖机的冒险
+DeformWballoonStage01	顺流而下！\n滑行巡游
+DeformMixStage01	卡比的塞满嘴大师！
+HammerStageDededeHammer01	战斗吧！\n蒙面锤子的试炼
+SwordStageMetaSword01	战斗吧！\n魅塔骑士利剑的试炼
+StageList_QuestionTitle	？？？
 Name\Difficulty.msbt
 Casual	春风模式
 Standard	狂野模式
+Name\EstoryStageName.msbt
+EstoryStage01	被遗忘的·自然
+EstoryStage02	被遗忘的·蔚蓝
+EstoryStage03	被遗忘的·惊奇
+EstoryStage04	被遗忘的·角峰
+EstoryStage05	被遗忘的·原始
+EstoryStage06	被遗忘的·红通通
+EstoryStage07	被遗忘的·陆地
 Name\FigureName.msbt
 KirbyNormal	卡比
 SupportChara	艾菲灵
 BandanaWaddleDee	头巾瓦豆鲁迪
+KirbyIce	冰冻
+KirbyFrostyIce	冰霜冰冻
+KirbyIceBlizzard	暴风雪冰冻
 KirbyCutter	弯刀
+KirbyCutterChakram	环刃弯刀
+KirbyCutterMetal	全金属弯刀
+KirbyCrash	爆裂
+KirbyCrashTime	时间爆裂
+KirbySleep	睡觉
+KirbyDeep	深层睡觉
 KirbySword	利剑
+KirbySwordGalactic	庞大利剑
+KirbySwordMeta	魅塔骑士利剑
+KirbyMorpho	冥蝶骑士利剑
+KirbyTornado	龙卷风
+Swan	天鹅龙卷风
+KirbyStorm	风暴龙卷风
+KirbyNeedle	针
+KirbyNeedleJunk	废品针
+KirbyNeedleCrystal	水晶针
+KirbyHammer	锤子
+KirbyHammerToy	哔哔锤子
+KirbyHammerRock	狂野锤子
+KirbyDedede	蒙面锤子
+KirbyFire	烈火
+KirbyFireVolcano	火山烈火
+KirbyFireDragon	龙之烈火
 KirbyBomb	炸弹
+KirbyBombChain	连锁炸弹
+KirbyBombChainSearch	自动追踪炸弹
+KirbyDrill	钻击
+KirbyPencilDrill	铅笔钻击
+KirbyDrillTwin	双重钻击
+KirbyRanger	探巡队
+KirbyEliteRanger	辉煌探巡队
+KirbySpace	太空探巡队
 DeformKirbyCar	汽车塞满嘴
 DeformKirbyCone	三角锥塞满嘴
+DeformKirbyStairs	阶梯塞满嘴
+DeformKirbyRing	圈圈塞满嘴
+DeformKirbyRingBoat	圈圈塞满嘴小船
+DeformKirbyGlider	拱门塞满嘴
+DeformKirbyWaterBalloon	水球塞满嘴
+DeformKirbyDumpCar	巨大联结车塞满嘴
+DeformKirbyLightbulb	灯泡塞满嘴
+DeformKirbyLocker	置物柜塞满嘴
+DeformKirbyLockerBig	置物柜塞满嘴（弄倒墙壁）
 DeformKirbyWaterTank	巨蛋塞满嘴
+DeformKirbyVendingMachine	自动贩卖机塞满嘴
+DeformKirbyElevator	作业车塞满嘴
+DeformKirbyRollerCoaster	云霄飞车塞满嘴
+DeformKirbyCylinder	水管塞满嘴
+BossGorilla	刚腕兽\n猩猛霸
+WhispyPalm	南国树\n热带大树
+BossLeopard	女爪豹\n卡洛凌
+Metaknight	孤高的骑士\n魅塔骑士
+Dedede	宿敌之暴君\n帝帝帝大王
+BossArmadillo	舞转甲兽\n犰魔乱舞
+MaskDedede	猛兽面具\n狂野 帝帝帝
+BossLion	兽王\n狮王加尔夫
+BossOrigin	侵略种\n菲克特·遗忘
+BossOrigin_Sub	（幼体）
+BossChimera	侵略种\n菲克特·遗忘
+BossChimeraPerfect	完全体\n菲克特·艾菲里斯
+BossGorillaEX	刚幻兽\n猩猛霸·幻
+WhispyPalmEX	幻国树\n热带大树·幻
+BossLeopardEX	幻爪豹\n卡洛凌·幻
+MetaknightEX	孤高的幻梦\n魅塔骑士·幻
+BossArmadilloEX	舞幻甲兽\n犰魔乱舞·幻
+DededeEX	宿敌的幻梦\n帝帝帝大王·幻
+MaskDededeEX	幻兽面具\n狂野 帝帝帝·幻
+BossLionAndOrigin	附身兽\n狮王·遗忘
+MorphoKnight	啜梦的极蝶\n冥蝶骑士
+BossChimeraSoul	魂沌新物种\n混沌·艾菲里斯
+GigantEdge	狂野刃
+MisterFrosty	狂野冰霜
+Bonkers	狂野锤星猩
+MbossTornado	天鹅罗利那
 AnimalWaddleDee	加鲁鲁菲
 BrontoBurt	飞翅球球
 Shotzo	黑大炮
 Kabu	石像怪
+Dekabu	大石像怪
+Gordo	黑刺球
+GordoLongShort	黑刺棒
+Bouncy	弹跳蝴蝶结
 Cappy	蘑菇怪
+Scarfy	尖耳怪
+Blipper	蛙镜鱼
+Squishy	乌贼怪
+Glunk	绿海葵
+Gabon	骷髅怪
+SnakeEnemy	佳布尔蛇
 TackleEnemy	巴伐尔牛角
+RabbitEnemy	拉比兔＆大拉比兔
+Alligator	鳄佳布尔
+WaterBigEnemy	气球高手
+Walf	沃尔夫
+Mumbies	芒比尸
+Phanta	漂浮洛巴
+SpookStep	恐怖踏步怪
+Gigatzo	巨大炮
+Pacto	帕克特
+NormalEnemyWild	原始加鲁鲁菲
+PoisonToadEnemy	毒毒蛙
 BladeKnight	剑骑士
 SirKibble	弯刀骑士
 PoppyBrosJr	小波比兄弟
+Chilly	粗眉雪人
+Bomber	漫步大炸弹
+Noddy	诺迪
+NeedleEnemy	针猬
+RangerEnemy	伯纳犬
+DrillEnemy	狄古
+HammerEnemy	牧吱斯
+HotHead	炽热头
+Needlous	针虫
+Twister	扭转机
+Corori	滚落粒
+Totenga	托天甲
+Foley	凤犁
 MaxTomato	M番茄
+EnergyDrink	元气饮料
 CaptiveCage	被囚禁的瓦豆鲁迪
 GoalPoint	被囚禁的瓦豆鲁迪们
+CaptiveSelectBox	被囚禁轮盘
+CaptiveSupportChara	被囚禁的艾菲灵
+Blueprint	设计图
+SoulSingle	狮王的灵魂
+CoinCluster	硬币星之山
+PointStar	硬币星
+PointStarGreen	绿色硬币星
+PointStarRed	红色硬币星
 PointStarBlue	蓝色硬币星
+ModelLifeUp	生命提升
+ModelStrengthUp	攻击提升
+ModelSpeedUp	速度提升
+InvincibleCandy	彩虹棒棒糖
+CanJuice	罐装果汁
+Popcorn	爆米花
+Steak	牛排
+Canned	罐头
+Mikan	蜜桔
+Melon	哈密瓜
+Corn	玉米
+MilkPack	牛奶
+Sushi	寿司
+Candy	巧克力冰棒
+BreadB	法国面包
+Friedegg	荷包蛋
+Babybottle	奶瓶
+RoastChicken	烤鸡
+Doughnut	甜甜圈
+Makaron	马卡龙
+Cherry	樱桃
+WaterMelon	西瓜
+Cake	草莓蛋糕
+Pudding	布丁
+Hamburger	汉堡
+Omelet	煎蛋卷
+Takoyaki	章鱼烧
+Pumpkin	南瓜
+Coffee	咖啡
+Tomato	番茄
+Meat	带骨肉
+Onigiri	饭团
+CupJuiceMall	杯装果汁
+Potato	薯条
+SweetsChocolate	板块巧克力
+SweetsIceCream	雪糕
+Cafefoodhamburger	卡比汉堡
+Cafefoodcake	汽车塞满嘴蛋糕
+StarBlock	星星方块
 DeformCar	汽车
 DeformCone	三角锥
+DeformStairs	阶梯
+DeformRingSign	霓虹灯圈圈
+DeformRingBoat	小船
+DeformGlider	滑翔翼拱门
+DeformPipe	给水管
 DeformWaterTank	储水槽
+DeformLocker	置物柜
+DeformCoinLocker	硬币置物柜
+DeformRingGear	齿轮圈圈
+DeformRingClock	时钟圈圈
 Turtle	龟塔洛斯
 TurtleBig	建筑龟塔洛斯
+TurtleBigLava	红通通龟塔洛斯
+ArrowBoardShop	箭头看板
+PopFlower	波普之花
+PopFlowerTulip	郁金香
 GroupSwitch	开关
+BlockBomb	炸弹方块
+FuseCannon	大炮
+TreasureChest	宝箱
+HardNuts	硬邦邦坚果
+TargetSwitch	目标开关
+Stake	桩
+DeformCoaster	太空惊奇乐园号
+DeformGocart	赛车
+DeformLightbulb	灯泡
+StarRocket	回旋星际火箭
+SurpriseBoard	惊吓外星人板
+ParadeCar	疯狂巡游车
+DeformElevator	作业车
+DeformVendingMachine	自动贩卖机
+DeformCylinder	水管
+BlockCrumble	崩塌方块
+SolarPanel	太阳能板开关
 WarpStar	传送之星
+DeformDumpCar	巨大联结车
+DeformConeIce	冰淇淋甜筒
+DeformConeSpeaker	锥形扬声器
+FollowingBird	迷路的雏鸟
+FacePanel	露脸纪念板
+WitheredFlower	绽放的花
+Windmill	风车开关
+Nail	钉子
+LanternSwitch	提灯开关
+Fishes	鱼
+BossArmadilloPartner	手工跳舞娃娃
+Crab	螃蟹
+DollSupportChara	手工艾菲灵
+GhostGordo	幽灵黑刺球
+SandStatue	动物沙像
+LizardWall	蜥蜴
 Radio	收录音机
+SandStatueSnow	动物雪像
+WantedNotice	通缉令
+DollKirby	手工卡比
+KirbyAndDedede	宿命的对手们
+KirbyAndMetaknight	和魅塔骑士的战斗
+NormalEnemySleep	休息的野兽
+TreasureHunt	探巡队财宝大发现
+ChallengeAllClear	稀有石大师！
+BossLionAndLeopard	狮王＆卡洛
+BossLeopardAndSoul	吼吼、吼噜……！\n（狮王、起来吧……！）
+ClearDance	一起冒险！
 WaddleDee	瓦豆鲁迪
+TownAbilityRoom	武器店瓦豆鲁迪
+TownFoodShop	咖啡店员瓦豆鲁迪
+TownCafeJob	咖啡店员卡比
+TownToolShop	道具店瓦豆鲁迪
+TownDeliveryservice	快递员瓦豆鲁迪
+TownArena	实况瓦豆鲁迪
+TownTheaterRoom	电影院瓦豆鲁迪
+TownLive	豆鲁迪士
+TownTamakoro	滚球店瓦豆鲁迪
+TownKnow	知识渊博瓦豆鲁迪
+TownFishing	钓鱼池卡比
 CarshopSignboard	汽车商店的看板
+MallEntrance	阿莱布尔购物中心的看板
 CompanyBoard	莱特隆工程的看板
+ParkEntranceStatue	惊奇乐园的标志
+ParkMascot	惊奇克斯＆惊奇利
+Name\FoodName.msbt
+MaxTomato	M番茄
+EnergyDrink	元气饮料
+Food1	汽车塞满嘴蛋糕
+Food2	卡比汉堡
+Name\GiftItemName.msbt
+StockItem_EnergyDrink	元气饮料
+StockItem_EnergyDrink_Multiple	元气饮料
+StockItem_MaxTomato	M番茄
+StockItem_MaxTomato_Multiple	M番茄
+StockItem_Food1	汽车塞满嘴蛋糕
+StockItem_Food1_Multiple	汽车塞满嘴蛋糕
+StockItem_Food2	卡比汉堡
+StockItem_Food2_Multiple	卡比汉堡
+StockItem_LifeUp	生命提升
+StockItem_LifeUp_Multiple	生命提升
+StockItem_StrengthUp	攻击提升
+StockItem_StrengthUp_Multiple	攻击提升
+StockItem_SpeedUp	速度提升
+StockItem_SpeedUp_Multiple	速度提升
+StockItem_Generic	库存道具
+FoodDinner_Steak	牛排
+FoodDinner_Steak_Multiple	牛排
+FoodDinner_Canned	罐头
+FoodDinner_Canned_Multiple	罐头
+FoodDrink_CanJuice	罐装果汁
+FoodDrink_CanJuice_Multiple	罐装果汁
+FoodDrink_CupJuice	杯装果汁
+FoodDrink_CupJuice_Multiple	杯装果汁
+FoodSweets_Chocolate	板块巧克力
+FoodSweets_Chocolate_Multiple	板块巧克力
+FoodSweets_IceCream	雪糕
+FoodSweets_IceCream_Multiple	雪糕
+FoodJunk_Popcorn	爆米花
+FoodJunk_Popcorn_Multiple	爆米花
+FoodJunk_Potato	薯条
+FoodJunk_Potato_Multiple	薯条
+FoodDinner_BreadB	法国面包
+FoodDinner_BreadB_Multiple	法国面包
+FoodDinner_Onigiri	饭团
+FoodDinner_Onigiri_Multiple	饭团
+FoodDinner_Omelet	煎蛋卷
+FoodDinner_Omelet_Multiple	煎蛋卷
+FoodDinner_Meat	带骨肉
+FoodDinner_Meat_Multiple	带骨肉
+FoodDinner_RoastChicken	烤鸡
+FoodDinner_RoastChicken_Multiple	烤鸡
+FoodDinner_Sushi	寿司
+FoodDinner_Sushi_Multiple	寿司
+FoodDrink_MilkPack	牛奶
+FoodDrink_MilkPack_Multiple	牛奶
+FoodDrink_Babybottle	奶瓶
+FoodDrink_Babybottle_Multiple	奶瓶
+FoodDrink_Coffee	咖啡
+FoodDrink_Coffee_Multiple	咖啡
+FoodDrink_MelonSoda	冰淇淋汽水
+FoodDrink_MelonSoda_Multiple	冰淇淋汽水
+FoodFruit_Mikan	蜜桔
+FoodFruit_Mikan_Multiple	蜜桔
+FoodFruit_Melon	哈密瓜
+FoodFruit_Melon_Multiple	哈密瓜
+FoodFruit_Banana	香蕉
+FoodFruit_Banana_Multiple	香蕉
+FoodFruit_WaterMelon	西瓜
+FoodFruit_WaterMelon_Multiple	西瓜
+FoodFruit_Cherry	樱桃
+FoodFruit_Cherry_Multiple	樱桃
+FoodJunk_Hotdog	热狗
+FoodJunk_Hotdog_Multiple	热狗
+FoodJunk_Hamburger	汉堡
+FoodJunk_Hamburger_Multiple	汉堡
+FoodJunk_Takoyaki	章鱼烧
+FoodJunk_Takoyaki_Multiple	章鱼烧
+FoodLight_Friedegg	荷包蛋
+FoodLight_Friedegg_Multiple	荷包蛋
+FoodSweets_IceCandy	巧克力冰棒
+FoodSweets_IceCandy_Multiple	巧克力冰棒
+FoodSweets_Doughnut	甜甜圈
+FoodSweets_Doughnut_Multiple	甜甜圈
+FoodSweets_Makaron	马卡龙
+FoodSweets_Makaron_Multiple	马卡龙
+FoodSweets_ShortCake	草莓蛋糕
+FoodSweets_ShortCake_Multiple	草莓蛋糕
+FoodSweets_SoftCream	冰淇淋
+FoodSweets_SoftCream_Multiple	冰淇淋
+FoodSweets_Pudding	布丁
+FoodSweets_Pudding_Multiple	布丁
+FoodVegetable_Carrot	胡萝卜
+FoodVegetable_Carrot_Multiple	胡萝卜
+FoodVegetable_Corn	玉米
+FoodVegetable_Corn_Multiple	玉米
+FoodVegetable_Greenpepper	青椒
+FoodVegetable_Greenpepper_Multiple	青椒
+FoodVegetable_Pumpkin	南瓜
+FoodVegetable_Pumpkin_Multiple	南瓜
+FoodVegetable_Tomato	番茄
+FoodVegetable_Tomato_Multiple	番茄
+Food_Generic	食物
+CoinStar	硬币星
+CoinStar_Multiple	硬币星
+RarePiece	稀有石
+RarePiece_Multiple	稀有石
+Name\MgameBallDifficultyName.msbt
+NormalLv1	{[0104|8500]}
+NormalLv2	{[0104|8500]}{[0104|8500]}
+NormalLv3	{[0104|8500]}{[0104|8500]}{[0104|8500]}
+HardLv1	激难{[0106|8600]}
+HardLv2	激难{[0106|8600]}{[0106|8600]}
+HardLv3	激难{[0106|8600]}{[0106|8600]}{[0106|8600]}
+Name\MgameBallDifficultyStar.msbt
+NormalLv1	{[0103|8200]}
+NormalLv2	{[0103|8200]}{[0103|8200]}
+NormalLv3	{[0103|8200]}{[0103|8200]}{[0103|8200]}
+HardLv1	{[0105|8400]}
+HardLv2	{[0105|8400]}{[0105|8400]}
+HardLv3	{[0105|8400]}{[0105|8400]}{[0105|8400]}
+Name\MgameFoodDifficultyName.msbt
+Easy	简单打工
+Normal	忙碌打工
+Hard	极限打工
+Name\MgameFoodModeName.msbt
+SoloEasy	一人 简单打工
+SoloNormal	一人 忙碌打工
+SoloHard	一人 极限打工
+MultiEasy	两人 简单打工
+MultiNormal	两人 忙碌打工
+MultiHard	两人 极限打工
+Name\MovieName.msbt
+SimpleCredit	制作人员名单
+StoryOpening	卡比\n和神秘旋涡
+FirstCarDeform	不可思议！\n塞满嘴变形
+Level0ToTown	WELCOME TO THE\nNEW WORLD！
+FollowWaddleDee	那些瓦豆们\n也来到这个世界
+TownAttacked	小镇也被破坏\n大掠夺
+MeetSupportChara	我是艾菲灵
+AppearBossGorilla	在购物中心\n回响的吼声
+AppearMetaKnight	剑的对手\n也来到这个世界
+AppearWhispyPalm	恐怖的热带
+AppearLeopard	危险的\n马戏团表演
+AppearDedede	意想不到的\n野兽王
+AfterBeatDedede	悲伤的卡比
+AppearBossArmadillo	不眠谷的\n收藏家
+AppearDededeWild	沉淀于思想的\n蒙面
+AfterBeatDededeWild	该本大爷……\n出场了吧！
+LaboratoryElevator	紧张刺激的\n发现梦幻游览
+LaboratoryElevator__SingleLine	紧张刺激的发现梦幻游览
+AppearBossLion	统率星球的顶点
+AfterBeatBossLion	转化·\n幼态延续
+AppearBossChimera	ID-F86
+AfterBeatBossChimera	再会的双子
+AppearBossChimeraPerfect	完美\n生命形式
+AppearPopStar	这个世界也是、\n那个世界也是
+DumpTruckAttack	无敌的\nGOODBYE！
+StoryEnding	飞翔的决心～\nNo night lasts forever
+NormalCredit	结局
+EstoryOpening	前往幻梦的绝岛
+AppearBossLionEx	沉睡牢笼的狮王
+AppearBossLionSoul	迸发出的思想
+AppearMorphoKnight	那个梦蝶\n也来到这个绝岛
+EstoryEnding	卡比\n和大家的心愿
+EstoryCredit	真 结局
+AppearBossChimeraPerfectSoul	侵蚀星球的新物种
+AfterBeatBossChimeraPerfectSoul	找寻\n善良之光
+Name\MusicName.msbt
+OneShot_K15_DemoOpening1	卡比和神秘旋涡
+Loop_K15_Grassland1	穿越新世界
+OneShot_K15_DemoDeformFirstTime1	不可思议！塞满嘴变形
+OneShot_K15_TitleDemo1	WELCOME TO THE NEW WORLD！
+OneShot_K15_DemoAttackTown1	小镇也被破坏大掠夺
+Loop_K15_Cave1	穿过隧道
+Loop_K15_HalRoom1	秘密区域：HAL房间
+Loop_K15_Shopping1	一起去阿莱布尔购物中心吧
+OneShot_K15_PreBoss	恐怖野兽的味道
+Loop_K15_Boss1	VS. 危险野兽
+Loop_K15_Beach1	游泳吧！广阔海滩
+Loop_K15_Glider1	BLUE BLUE BREEZE
+Loop_K15_Cave2	顺流地下水道
+Loop_K15_Park1	欢迎光临惊奇乐园
+Loop_K15_Park4	赛道GO！
+Loop_K15_Park3	惊吓鬼屋
+Loop_K15_Park5	漆黑恐怖
+Loop_K15_Park2	惊奇乐园巡游之梦
+Loop_K15_Snow2	北边的白色街道
+Loop_K15_Snow1	极冷·地铁
+Loop_K15_Bridge1_Stest	暴风雪桥梁之战
+OneShot_K15_PreBossDedede	意想不到的野兽王
+Loop_K15_BossDedede1	帝帝帝的呼喊
+Loop_K15_Desert1	生命起源大荒野
+Loop_K15_Desert2	漆黑山谷
+Loop_K15_Canyon1	月光峡谷
+Loop_K15_VolcanoGrassland	前往热烫烫禁区
+Loop_K15_PowerPlant1	资源能量工厂
+Loop_K15_HalRoom2	秘密区域：HAL房间2
+Loop_K15_VolcanoNewWorld	决战！野兽军团包围网
+Loop_K15_BossMaskedDedede1	BAD MASKED WILD：D.D.D.
+OneShot_K15_BossMaskedDededeAfter1	该本大爷……出场了吧！
+OneShot_K15_LaboElevatorDemo1_Stest	紧张刺激的发现梦幻游览
+Loop_K15_BossLionPreBattleDemo1	统率星球的顶点
+Loop_K15_BossLion1_Stest	气势磅礴的狮群咆哮
+Loop_K15_PreClearDanceLv7	艾菲灵
+OneShot_K15_BossLionAfter1	转化·幼态延续
+Loop_K15_BossChimera1	追兽
+OneShot_K15_DemoAfterBossChimera1	再会的双子
+Loop_K15_BossChimeraPerfect_Stest	总有一天双星会到达洛希极限
+Loop_K15_BossChimeraPerfectAfter1	这个世界也是、那个世界也是
+Loop_K15_Tsubazeriai1	无敌的GOODBYE NEW WORLD！
+OneShot_K15_DemoEnding1	飞翔的决心～No night lasts forever
+Loop_K15_EstoryShopping1	褪色的感应梦
+Loop_K15_EstoryConga1	在灵魂散落的忘却绝岛
+Loop_K15_BossEx1	VS. 形象化的思想之战
+Loop_K15_EstoryPreLion_Stest	时光碰撞残响的永恒之旅啊
+Loop_K15_MorphoKnight1	冥蝶骑士
+OneShot_K15_EstoryEnding1	卡比和大家的心愿
+Loop_K15_SimpleCredit1	来自已往宇宙出发的人们
+OneShot_K15_Credit1	WELCOME TO THE NEW WORLD！
+OneShot_K15_Credit1_sub	（Full）
+OneShot_K15_NewWorldOffVocal1	WELCOME TO THE NEW WORLD！
+OneShot_K15_NewWorldOffVocal1_sub	（Bonus Track）
+Loop_K15_CstageGrassland	初始的宝藏
+Loop_K15_CstageYakiimo	眼花缭乱的宝藏
+Loop_K15_CstageNewWorld	被遗忘的宝藏
+Loop_K15_RoomGuarder_Stest	掠夺野兽之战
+Loop_K15_BossMetaknight1	SURVIVAL SWORD BOUNCER
+Loop_K15_TitleNewWorld1	准备好了吗
+OneShot_K15_ChimeraSoulAfter1	找寻善良之光
+OneShot_K15_Dead1	战败
+OneShot_K15_KirbyDanceShort	卡比跳舞／短
+OneShot_K15_KirbyDanceLong	卡比跳舞／长
+Loop_K15_StageResult	狂野结果
+Loop_K15_PreClearDance	过关之声
+OneShot_K15_TimeLimitJingle_Stest	时间竞速！
+Loop_K15_Invincible1	彩虹棒棒糖
+OneShot_K15_FanfareNewWorldL1	100% NEW WORLD！
+Loop_K15_TownNewWorld1	瓦豆鲁迪小镇
+Loop_K15_TownNewWorld2	热闹的和平城镇
+Loop_K15_TownStore1	瓦豆鲁迪武器店的老板
+Loop_K15_KirbyHouse1	欢迎回来卡比
+OneShot_K15_JingleSleep1	午睡中
+Loop_K15_MovieTheater1	不要吸入前面的人
+Loop_K15_FoodShopNormal	一起喝饮料？
+Loop_K15_FoodShopLunchTime	渴望午餐！一群哇呀
+Loop_K15_RollingBall1	滚啊滚啊！滚球卡比
+Loop_K15_RollingBall2	激难！滚球卡比
+Loop_K15_FigureCollection1	看着扭蛋机
+Loop_K15_FigureCollectionComplete1	发现全部！扭蛋机大师
+Loop_K15_ArenaRestRoom_Novice1	休息室
+Loop_K15_ArenaRestRoom_Normal1	冠军休息室
+Loop_K15_ArenaFight1_Stest	战斗吧终极
+Loop_K15_ArenaRestRoom_TrueArena1	更进一步的王道
+Loop_K15_ArenaFight2_Stest	决战的终极Z
+Loop_K15_ArenaGameOverNormal1	明天再努力
+Loop_K15_ArenaGameOverTrueArena1	明天再努力……耶！
+Loop_K15_ArenaResultNormal1	访谈
+Loop_K15_ArenaResultTrueArena1	英雄访谈
+Loop_K15_WorldMap1	自然草原
+Loop_K15_WorldMap2	蔚蓝海岸
+Loop_K15_WorldMap3	惊奇乐园遗址
+Loop_K15_WorldMap4	雪白角峰
+Loop_K15_WorldMap5	原始荒野大地
+Loop_K15_WorldMap6	红通通禁区
+Loop_K15_WorldMapEstory	绝岛幻梦·遗忘
+Loop_K15_BossLionRoomGuarder1	野兽的饵食
+Name\PowerUpItemName.msbt
+LifeUp	生命提升
+StrengthUp	攻击提升
+SpeedUp	速度提升
 Name\StageName.msbt
 Level0Stage1	初始之地
 Level1Stage1	草原建筑
+Level1Stage2	穿过隧道
+Level1Stage3	滚石道路
+Level1Stage4	一起去阿莱布尔购物中心吧
 Level1Stage5	在购物中心回响的吼声
+Level2Stage1	游泳吧！广阔海滩
+Level2Stage2	混凝土群岛
+Level2Stage3	登上方块山丘
+Level2Stage4	顺流地下水道
+Level2Stage5	恐怖的热带
+Level3Stage1	欢迎光临惊奇乐园
+Level3Stage2	赛道GO！
+Level3Stage3	惊吓鬼屋
+Level3Stage4	惊奇乐园巡游之梦
+Level3Stage4__SingleLine	惊奇乐园巡游之梦
+Level3Stage5	危险的马戏团表演
+Level4Stage1	北边的白色街道
+Level4Stage2	极冷·地铁
+Level4Stage3	冰冷的海与风
+Level4Stage4	暴风雪桥梁之战
+Level4Stage5	意想不到的野兽王
+Level5Stage1	生命起源大荒野
+Level5Stage2	寻求滋润
+Level5Stage3	秘·阿莱布尔购物中心
+Level5Stage4	月光峡谷
+Level5Stage5	不眠谷的收藏家
+Level6Stage1	前往热烫烫禁区
+Level6Stage2	前往烈火之道
+Level6Stage3	资源能量工厂
+Level6Stage4	干部招集
+Level6Stage5	决战！野兽军团包围网
+Level6Stage6	王的御前
+Level7Stage1	实验室·摸索发觉

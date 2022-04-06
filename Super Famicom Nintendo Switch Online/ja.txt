@@ -1,0 +1,772 @@
+strings
+SYS_DIALOG_GENERIC_BUTTON1	
+SYS_DIALOG_GENERIC_BUTTON2	
+SYS_DIALOG_GENERIC_BUTTON3	
+SYS_DIALOG_GENERIC_ITEM_OK	OK
+SYS_DIALOG_GENERIC_ITEM_YES	はい
+SYS_DIALOG_GENERIC_ITEM_NO	いいえ
+SYS_DIALOG_GENERIC_ITEM_CANCEL	やめる
+SYS_DIALOG_GENERIC_ITEM_INVITE	フレンドを招待する
+SYS_DIALOG_GENERIC_ITEM_LATER	あとで
+SYS_DIALOG_SAVE_CONFIRMATION_TEXT	上書きしますか？
+SYS_DIALOG_SAVE_PROCESSING_TEXT	セーブしています
+SYS_DIALOG_SAVE_COMPLETED_TEXT	セーブしました。
+SYS_DIALOG_SAVE_FAILED_TEXT	セーブに失敗しました。
+SYS_DIALOG_EXCHANGE_PLAYER_1P_TEXT	1Pと2Pを入れ替えました。\nあなたは 1P になりました。\nメニューの操作は引き続き  が行います。
+SYS_DIALOG_EXCHANGE_PLAYER_2P_TEXT	1Pと2Pを入れ替えました。\nあなたは 2P になりました。\nメニューの操作は引き続き  が行います。
+SYS_DIALOG_ONLINE_CONTROLLER_TEXT	オンラインで使えるコントローラーは1個です。\n続けますか？
+SYS_DIALOG_ONLINE_CONNECTING_TEXT	インターネットに接続しています。
+SYS_DIALOG_ONLINE_SEARCHING_TEXT	待っているフレンドを探しています。
+SYS_DIALOG_ONLINE_CREATE_SESSION_TEXT	合言葉を用意しますか？\n合言葉を教えたフレンドのみ一緒に遊べます。
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITHOUT_PASSWORD	合言葉なし
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITH_PASSWORD	 合言葉あり
+SYS_DIALOG_ONLINE_CREATING_SESSION_TEXT	オンラインプレイの準備をしています。
+SYS_DIALOG_ONLINE_CREATED_SESSION_TEXT	フレンドが合流したらお知らせします。\nこのまま待ちながら遊ぶことができます。
+SYS_DIALOG_ONLINE_CREATED_SESSION_TEXT_INVITE	今すぐフレンドを招待しますか？\nあとで を選んだ場合、左側のメニューから招待できます。
+SYS_DIALOG_ONLINE_CREATED_SESSION_SORT_TEXT	フレンドが合流したらお知らせします。\nこのまま待ちながら遊ぶことができます。\nタイトルの並び順は「お好きな順」に一時的に変更します。
+SYS_DIALOG_ONLINE_CREATED_SESSION_SORT_TEXT_INVITE	タイトルの並び順は「お好きな順」に一時的に変更します。\n\n今すぐフレンドを招待しますか？\nあとで を選んだ場合、左側のメニューから招待できます。
+SYS_DIALOG_ONLINE_PASSWORD_MISMATCH_TEXT	合言葉が違います。
+SYS_DIALOG_ONLINE_FAILED_TO_JOIN_TEXT	フレンドとの合流に失敗しました。
+SYS_DIALOG_ONLINE_WAITING_FOR_GUEST_TEXT	 と合流しています。
+SYS_DIALOG_ONLINE_WAITING_FOR_HOST_TEXT	 と合流しています。\n（あなたのセーブデータは変更されません）
+SYS_DIALOG_ONLINE_ESTABLISHED_HOST_TEXT	 が遊びに来ました。\nメニューの操作は  が行います。\n通信品質は自分と相手との通信環境に依存します。
+SYS_DIALOG_ONLINE_ESTABLISHED_GUEST_TEXT	 のところへ遊びに来ました。\nメニューの操作は  が行います。\n通信品質は自分と相手との通信環境に依存します。
+SYS_DIALOG_QUIT_ONLINE_PLAY_TEXT	オンラインプレイをやめます。\nよろしいですか？
+SYS_DIALOG_DURING_GUEST_OPERATION_TEXT	 が操作しています。
+SYS_DIALOG_DURING_HOST_OPERATION_TEXT	 が操作しています。
+SYS_DIALOG_LEAVING_ONLINE_PLAY_TEXT	オンラインプレイを終了しています。
+SYS_DIALOG_NEW_ARRIVAL_INFORMATION_TEXT	タイトルが追加されました。
+SYS_DIALOG_ERROR_EMULATOR_CRASHED_TEXT	ゲーム内でエラーが発生しました。
+SYS_DIALOG_ONLINE_PAUSE_ON_DISCONNECT_TEXT	 との通信が切断されました。\nこのままゲームを続けることができません。\nどこでもセーブのみ可能です。
+SYS_DIALOG_ONLINE_TITLE_PROHIBITED_TEXT	このタイトルは選ぶことができません。
+SYS_DIALOG_NETPLAY_TO_OPTIONAL_MODE_TEXT	低遅延通信モードを ON にしました。\nオンラインプレイ時に操作の遅延が少なくなりますが、\nサウンドやグラフィックに影響が出ることがあります。\n（この設定は保存されません）
+SYS_DIALOG_NETPLAY_TO_PRIMARY_MODE_TEXT	低遅延通信モードを OFF にしました。\n（この設定は保存されません）
+SYS_DIALOG_PROMOTION_02_INFO_TEXT	お知らせ
+SYS_DIALOG_PROMOTION_02_MAIN_TITLE	Nintendo Switch Online 加入者限定\nスーパーファミコン コントローラー 発売中
+SYS_DIALOG_PROMOTION_03_MAIN_TITLE	スーパーマリオブラザーズ 35周年の特別配信
+SYS_DIALOG_PROMOTION_02_MAIN_TEXT	『スーパーファミコン Nintendo Switch Online』を当時のプレイ感で…。スーパーファミコンのコントロ\nーラーと形・大きさそのままの「スーパーファミコン コントローラー」をマイニンテンドーストアより\nご購入いただけます。
+SYS_DIALOG_PROMOTION_03_MAIN_TEXT	1985年9月13日に発売された『スーパーマリオブラザーズ』は2020年で35周年を迎えました。\nこれにあわせて、「スーパーマリオコレクション」を配信します。ファミリーコンピュータのときよりも高画質・高音質にバージョンアップした『スーパーマリオブラザーズ』、『スーパーマリオブラザーズ2』、『スーパーマリオブラザーズ\n3』、『スーパーマリオUSA』をお楽しみください。
+SYS_DIALOG_PROMOTION_01_SUB_TITLE	ご購入はこちら
+SYS_DIALOG_PROMOTION_02_SUB_TEXT	※一部の国/地域では販売しており\nません。詳しくは任天堂のホームペ\nージでご確認下さい。
+SYS_DIALOG_PROMOTION_03_SUB_TEXT	任天堂ホームページでは、スーパーマリオブラザーズ35周年にまつわる新作ソフトやキャンペーン情報などをご紹介しています。
+SYS_HUD_GUIDE_PRO_CONFIRM	  決定
+SYS_HUD_GUIDE_PRO_BACK	  もどる
+SYS_HUD_GUIDE_PRO_DETAILS	  くわしく
+SYS_HUD_GUIDE_PRO_MOVE	  移動
+SYS_HUD_GUIDE_PRO_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_PRO_SORT	  長押しでソート
+SYS_HUD_GUIDE_PRO_PLAY	  はじめる
+SYS_HUD_GUIDE_PRO_INVITE	  フレンドを招待
+SYS_HUD_GUIDE_PRO_Invitation	  フレンドを招待
+SYS_HUD_GUIDE_PRO_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_PRO_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_PRO_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_PRO_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE	 +   中断メニュー
+SYS_HUD_GUIDE_PRO_INGAME_START	  STARTボタン
+SYS_HUD_GUIDE_PRO_INGAME_SELECT	  SELECTボタン
+SYS_HUD_GUIDE_PRO_INGAME_QUIT_ONLINE	 +   オンラインプレイをやめる
+SYS_HUD_GUIDE_PRO_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_PRO_COMMIT	  確定
+SYS_HUD_GUIDE_PRO_CANCEL	  元にもどす
+SYS_HUD_GUIDE_PRO_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_PRO_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_JOY_L_CONFIRM	  決定
+SYS_HUD_GUIDE_JOY_R_CONFIRM	  決定
+SYS_HUD_GUIDE_JOY_L_BACK	  もどる
+SYS_HUD_GUIDE_JOY_R_BACK	  もどる
+SYS_HUD_GUIDE_JOY_L_DETAILS	  くわしく
+SYS_HUD_GUIDE_JOY_R_DETAILS	  くわしく
+SYS_HUD_GUIDE_JOY_L_MOVE	  移動
+SYS_HUD_GUIDE_JOY_L_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_JOY_L_SORT	  長押しでソート
+SYS_HUD_GUIDE_JOY_R_MOVE	  移動
+SYS_HUD_GUIDE_JOY_R_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_JOY_R_SORT	  長押しでソート
+SYS_HUD_GUIDE_JOY_L_PLAY	  はじめる
+SYS_HUD_GUIDE_JOY_R_PLAY	  はじめる
+SYS_HUD_GUIDE_JOY_L_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_JOY_R_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_JOY_L_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_JOY_R_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_JOY_L_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_JOY_R_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_JOY_L_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_JOY_R_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE	 +   中断メニュー
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE	 +   中断メニュー
+SYS_HUD_GUIDE_JOY_L_INGAME_START	 +   STARTボタン
+SYS_HUD_GUIDE_JOY_R_INGAME_START	 +   STARTボタン
+SYS_HUD_GUIDE_JOY_L_INGAME_SELECT	 +   SELECTボタン
+SYS_HUD_GUIDE_JOY_R_INGAME_SELECT	 +   SELECTボタン
+SYS_HUD_GUIDE_JOY_L_INGAME_QUIT_ONLINE	 +   オンラインプレイをやめる
+SYS_HUD_GUIDE_JOY_R_INGAME_QUIT_ONLINE	 +   オンラインプレイをやめる
+SYS_HUD_GUIDE_JOY_L_DETAILS_NEXT	  つぎへ
+SYS_HUD_GUIDE_JOY_R_DETAILS_NEXT	  つぎへ
+SYS_HUD_GUIDE_JOY_L_COMMIT	  確定
+SYS_HUD_GUIDE_JOY_R_COMMIT	  確定
+SYS_HUD_GUIDE_JOY_L_CANCEL	  元にもどす
+SYS_HUD_GUIDE_JOY_R_CANCEL	  元にもどす
+SYS_HUD_GUIDE_JOY_L_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_JOY_R_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_JOY_L_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_JOY_R_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_HOME	  HOMEメニュー
+SYS_HUD_GUIDE_LARK_HOME2	 : 
+SYS_HUD_GUIDE_LARK_R_HOME	  HOMEメニュー
+SYS_HUD_GUIDE_LARK_R_HOME2	 : 
+SYS_HUD_GUIDE_LUCIA_HOME	  HOMEメニュー
+SYS_HUD_GUIDE_LUCIA_HOME2	 : 
+SYS_HUD_GUIDE_LARK_CAPTURE	  キャプチャー
+SYS_HUD_GUIDE_LARK_CAPTURE2	 : 
+SYS_HUD_GUIDE_LARK_L_CAPTURE	  キャプチャー
+SYS_HUD_GUIDE_LARK_L_CAPTURE2	 : 
+SYS_HUD_GUIDE_LUCIA_CAPTURE	  キャプチャー
+SYS_HUD_GUIDE_LUCIA_CAPTURE2	 : 
+SYS_HUD_GUIDE_LARK_CONFIRM	  決定
+SYS_HUD_GUIDE_LARK_BACK	  もどる
+SYS_HUD_GUIDE_LARK_DETAILS	  くわしく
+SYS_HUD_GUIDE_LARK_MOVE	  移動
+SYS_HUD_GUIDE_LARK_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_SORT	  長押しでソート
+SYS_HUD_GUIDE_LARK_PLAY	  はじめる
+SYS_HUD_GUIDE_LARK_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_LARK_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE	 +   中断メニュー
+SYS_HUD_GUIDE_LARK_INGAME_QUIT_ONLINE	 +   オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_LARK_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_CANCEL	  元にもどす
+SYS_HUD_GUIDE_LARK_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_L_CONFIRM	  決定
+SYS_HUD_GUIDE_LARK_L_BACK	  もどる
+SYS_HUD_GUIDE_LARK_L_DETAILS	  くわしく
+SYS_HUD_GUIDE_LARK_L_MOVE	  移動
+SYS_HUD_GUIDE_LARK_L_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_L_SORT	  長押しでソート
+SYS_HUD_GUIDE_LARK_L_PLAY	  はじめる
+SYS_HUD_GUIDE_LARK_L_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_LARK_L_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_L_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_L_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE	  中断メニュー
+SYS_HUD_GUIDE_LARK_L_INGAME_START	  STARTボタン
+SYS_HUD_GUIDE_LARK_L_INGAME_SELECT	  SELECTボタン
+SYS_HUD_GUIDE_LARK_L_INGAME_QUIT_ONLINE	  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_L_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_LARK_L_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_L_CANCEL	  元にもどす
+SYS_HUD_GUIDE_LARK_L_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_L_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_R_CONFIRM	  決定
+SYS_HUD_GUIDE_LARK_R_BACK	  もどる
+SYS_HUD_GUIDE_LARK_R_DETAILS	  くわしく
+SYS_HUD_GUIDE_LARK_R_MOVE	  移動
+SYS_HUD_GUIDE_LARK_R_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_R_SORT	  長押しでソート
+SYS_HUD_GUIDE_LARK_R_PLAY	  はじめる
+SYS_HUD_GUIDE_LARK_R_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_LARK_R_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_R_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_R_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE	  中断メニュー
+SYS_HUD_GUIDE_LARK_R_INGAME_START	  STARTボタン
+SYS_HUD_GUIDE_LARK_R_INGAME_SELECT	  SELECTボタン
+SYS_HUD_GUIDE_LARK_R_INGAME_QUIT_ONLINE	  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_R_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_LARK_R_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_R_CANCEL	  元にもどす
+SYS_HUD_GUIDE_LARK_R_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_R_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_LR_CONFIRM	  決定
+SYS_HUD_GUIDE_LARK_LR_BACK	  もどる
+SYS_HUD_GUIDE_LARK_LR_DETAILS	  くわしく
+SYS_HUD_GUIDE_LARK_LR_MOVE	  移動
+SYS_HUD_GUIDE_LARK_LR_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_LR_SORT	  長押しでソート
+SYS_HUD_GUIDE_LARK_LR_PLAY	  はじめる
+SYS_HUD_GUIDE_LARK_LR_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_LARK_LR_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_LR_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_LR_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE	  中断メニュー
+SYS_HUD_GUIDE_LARK_LR_INGAME_START	  STARTボタン
+SYS_HUD_GUIDE_LARK_LR_INGAME_SELECT	  SELECTボタン
+SYS_HUD_GUIDE_LARK_LR_INGAME_QUIT_ONLINE	  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_LR_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_LARK_LR_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_LR_CANCEL	  元にもどす
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LUCIA_CONFIRM	  決定
+SYS_HUD_GUIDE_LUCIA_BACK	  もどる
+SYS_HUD_GUIDE_LUCIA_DETAILS	  くわしく
+SYS_HUD_GUIDE_LUCIA_MOVE	  移動
+SYS_HUD_GUIDE_LUCIA_MOVE2	  移動　（長押しでソート）
+SYS_HUD_GUIDE_LUCIA_SORT	  長押しでソート
+SYS_HUD_GUIDE_LUCIA_PLAY	  はじめる
+SYS_HUD_GUIDE_LUCIA_GUIDE	  操作ガイド
+SYS_HUD_GUIDE_LUCIA_EXCHANGE	  1P/2P入れ替え
+SYS_HUD_GUIDE_LUCIA_VOICE_CHAT	  ボイスチャットするには？
+SYS_HUD_GUIDE_LUCIA_PROMOTION	  専用コントローラーについて
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE	 +   中断メニュー
+SYS_HUD_GUIDE_LUCIA_INGAME_QUIT_ONLINE	 +   オンラインプレイをやめる
+SYS_HUD_GUIDE_LUCIA_DETAILES_NEXT	  つぎへ
+SYS_HUD_GUIDE_LUCIA_COMMIT	  確定
+SYS_HUD_GUIDE_LUCIA_CANCEL	  元にもどす
+SYS_HUD_GUIDE_LUCIA_NETPLAY_OPTIONAL_MODE	  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LUCIA_NETPLAY_PRIMARY_MODE	  低遅延通信モードを OFF にする
+SYS_INFO_NICKNAME_OWN	
+SYS_INFO_NICKNAME_HOST	
+SYS_INFO_NICKNAME_GUEST	
+SYS_INFO_ROLE_PLAYER1	1P
+SYS_INFO_ROLE_PLAYER2	2P
+SYS_INFO_SESSION_PASSWORD	
+SYS_INFO_NETWORK_UNSTABLE	「  設定 」で通信モードを変更できます
+SYS_MENU_ROOT_ITEM_ONE_PLAYER	ひとりで遊ぶ
+SYS_MENU_ROOT_ITEM_TWO_PLAYERS	ふたりで遊ぶ
+SYS_MENU_ROOT_ITEM_ONLINE_PLAY	オンラインで遊ぶ
+SYS_MENU_ROOT_ITEM_STOP_ONLINE_PLAY	オンラインをやめる
+SYS_MENU_ROOT_ITEM_SETTINGS	設定
+SYS_MENU_ROOT_ITEM_INVITE	フレンドを招待する
+SYS_MENU_ROOT_SESSION_COUNTER	
+SYS_MENU_ONLINE_GUIDE_SUBJECT	オンラインで遊ぶ
+SYS_MENU_ONLINE_GUIDE_DESC1	・ オンラインでフレンドとふたりで一緒に遊べます。\n\n・ ひとりで遊びながら、フレンドを待つことができます。\n\n・ スマートフォンアプリ 「Nintendo Switch Online」 が\n　 あればボイスチャットが利用できます。
+SYS_MENU_ONLINE_ITEM_CREATE_SESSION	遊びながら待つ
+SYS_MENU_ONLINE_ITEM_SESSION1	
+SYS_MENU_ONLINE_ITEM_SESSION2	
+SYS_MENU_ONLINE_ITEM_SESSION3	
+SYS_MENU_ONLINE_ITEM_SESSION4	
+SYS_MENU_ONLINE_ITEM_SESSION5	
+SYS_MENU_ONLINE_ITEM_SESSION6	
+SYS_MENU_ONLINE_ITEM_PLAYING	プレイ中
+SYS_MENU_ONLINE_DESC_CREATE_SESSION	ひとりで遊びながら、フレンドを待ちます
+SYS_MENU_ONLINE_DESC_CREATE_SESSION_INVITE	遊びながらフレンドを待ちます\nフレンドに招待を送ることもできます
+SYS_MENU_ONLINE_DESC_SESSION_LIST	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA	一緒に遊ぶフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA_INVITE	合流するフレンドを選びます　 再検索
+SYS_MENU_ONLINE_NOTICE_NOT_FOUND	一緒に遊べるフレンドがいません
+SYS_MENU_ONLINE_NOTICE_NOT_FOUND_INVITE	遊んでいるフレンドがいません
+SYS_MENU_ONLINE_KEYBOARD_HEADER	合言葉（3桁の数字）を入力してください
+SYS_MENU_ONLINE_KEYBOARD_GUIDE	3ケタの数字
+SYS_MENU_SETTINGS_ITEM_4_3	4:3
+SYS_MENU_SETTINGS_ITEM_PIXEL_PERFECT	ピクセルパーフェクト
+SYS_MENU_SETTINGS_ITEM_CRT	アナログテレビ
+SYS_MENU_SETTINGS_DESC_GAME_SCREEN	ゲーム画面
+SYS_MENU_SETTINGS_DESC_GUIDE_DISPLAY	ゲーム中のボタン割り当て表示
+SYS_MENU_SETTINGS_ITEM_GUIDE_DISPLAY	表示する
+SYS_MENU_PAUSE_ITEM_CONTINUE	つづける
+SYS_MENU_PAUSE_ITEM_LOAD	ロード
+SYS_MENU_PAUSE_ITEM_SAVE	どこでもセーブ
+SYS_MENU_PAUSE_ITEM_RESET	リセット
+SYS_MENU_PAUSE_ITEM_RETURN_TO_MENU	タイトル選択にもどる
+SYS_MENU_DETAILS_DESC_RELEASE_INFO	　　年発売
+SYS_MENU_DETAILS_DESC_PLAY_INFO_LONG_TIME	プレイ人数：人　　プレイ時間：時間分
+SYS_MENU_DETAILS_DESC_PLAY_INFO_SHORT_TIME	プレイ人数：人　　プレイ時間：分
+SYS_MENU_DETAILS_DESC_PLAY_INFO_NO_TIME	プレイ人数：人
+SYS_MENU_DETAIL_PAGE	 / 
+SYS_MENU_SAVESLOT_NO_IMAGE	No Data
+SYS_MENU_SAVESLOT_ITEM_EMPTY	セーブデータ
+SYS_MENU_SAVESLOT_ITEM_VALID	セーブデータ\n// :
+SYS_MENU_SORT_INDEX	●
+SYS_MENU_SORT_INDEX_00	〇
+SYS_MENU_SPECIAL_EMBLEM	SP
+SYS_MENU_SPECIAL_TEXT	SPECIAL
+SYS_MENU_SPECIAL2_TEXT	SPECIAL 
+SYS_MENU_NEW_GAME_TEXT	NEW
+SYS_MENU_FRIENDPRESENCE	プレイ中のゲーム ： 
+SYS_NOTIFICATION_QUIT_ONLINE_PLAY_TEXT	オンラインプレイをやめました。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING_TEXT	 との通信が切断されました。\n引き続き遊びながらフレンドを待ちます。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING2_TEXT	 との通信が切断されました。
+SYS_NOTIFICATION_UNSTABLE_NETWORK_TEXT	自分と相手との通信環境が悪いため快適にプレイできない可能性があります。\n「  設定 」で通信モードを変更できます。
+SYS_NOTIFICATION_UNSTABLE_NETWORK2_TEXT	自分と相手との通信環境が悪いため快適にプレイできない可能性があります。
+SYS_NOTIFICATION_CONNECTED_CONTROLLER_NUM_1_TEXT	つながっているコントローラーが1個になりました。
+SYS_NOTIFICATION_CONNECTED_CONTROLLER_NUM_2_TEXT	つながっているコントローラーが2個になりました。
+SYS_NOTIFICATION_OPERATION_DENIED_TEXT	 が操作しています。
+SYS_NOTIFICATION_OPERATION_DENIED2_TEXT	 が操作しています。
+SYS_NOTIFICATION_DENIED_MOVE_OPERATION_TEXT	タイトルを移動することができません。\nソートで「お好きな順」に変更する必要があります。
+SYS_POPUP_GUIDE_PRO_CONTROLLER_SELECT	カーソルを移動させるには\n ボタン
+SYS_POPUP_GUIDE_PRO_CONTROLLER_START	ゲームをスタートするには\n ボタン
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_SELECT	カーソルを移動させるには\n + 
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_START	ゲームをスタートするには\n + 
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_SELECT	カーソルを移動させるには\n + 
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_START	ゲームをスタートするには\n + 
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_SELECT	カーソルを移動させるには\n ボタン
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_START	ゲームをスタートするには\n ボタン
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_SELECT	カーソルを移動させるには\n ボタン
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_START	ゲームをスタートするには\n ボタン
+SYS_POPUP_GUIDE_PRO_PAUSE_MENU	ゲームを中断するには  + 
+SYS_POPUP_GUIDE_JOY_L_PAUSE_MENU	ゲームを中断するには  + 
+SYS_POPUP_GUIDE_JOY_R_PAUSE_MENU	ゲームを中断するには  + 
+SYS_POPUP_GUIDE_LARK_PAUSE_MENU	ゲームを中断するには  + 
+SYS_POPUP_GUIDE_LARK_L_PAUSE_MENU	ゲームを中断するには  ボタン
+SYS_POPUP_GUIDE_LARK_R_PAUSE_MENU	ゲームを中断するには  ボタン
+SYS_POPUP_GUIDE_LUCIA_PAUSE_MENU	ゲームを中断するには  + 
+SYS_POPUP_GUIDE_PRO_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで  ボタン
+SYS_POPUP_GUIDE_JOY_L_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで  ボタン
+SYS_POPUP_GUIDE_JOY_R_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで  ボタン
+SYS_POPUP_GUIDE_LARK_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューから。
+SYS_POPUP_GUIDE_FINGER_CURSOR	 でおててカーソル、 （押し込み）で拍手
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_HOME	HOMEメニューは  ボタン
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_CAPTURE	キャプチャーは  ボタン
+SYS_POPUP_GUIDE_LARK_R_SYSTEM_BUTTON_HOME	HOMEメニューは  ボタン
+SYS_POPUP_GUIDE_LARK_L_SYSTEM_BUTTON_CAPTURE	キャプチャーは  ボタン
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_HOME	HOMEメニューは  ボタン
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_CAPTURE	キャプチャーは  ボタン
+SYS_POPUP_GUIDE_PRO_REWIND	ミスしても大丈夫。  +  長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_JOY_L_REWIND	ミスしても大丈夫。  +  長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_JOY_R_REWIND	ミスしても大丈夫。  +  長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_REWIND	ミスしても大丈夫。  +  長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_L_REWIND	ミスしても大丈夫。  ボタン長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_R_REWIND	ミスしても大丈夫。  ボタン長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LUCIA_REWIND	ミスしても大丈夫。  +  長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE_WITH_REWIND	 +   中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE_WITH_REWIND	 +   中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE_WITH_REWIND	 +   中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE_WITH_REWIND	 +   中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE_WITH_REWIND	  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE_WITH_REWIND	  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE_WITH_REWIND	  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE_WITH_REWIND	 +   中断メニュー（長押しで巻き戻し）
+SYS_SORT_ORDER_CUSTOM	お好きな順
+SYS_SORT_ORDER_RELEASE_DATE	発売日順
+SYS_SORT_ORDER_TITLE_NAME	タイトル名順
+SYS_SORT_ORDER_PUBLISHER	パブリッシャー名順
+SYS_SORT_ORDER_2PLAYER_GAMES	2P同時プレイ順
+SYS_SORT_ORDER_DELIVERY_DATE	配信順
+SYS_SORT_ORDER_DESC_TEXT	タイトルの並び順を変更します
+SYS_SORT_ORDER_NAME_CUSTOM	お好きな順
+SYS_SORT_ORDER_NAME_ALPHABETICAL	あいうえお順
+SYS_SORT_ORDER_NAME_RELEASE_DATE	発売された順
+SYS_SORT_ORDER_NAME_RECENTLY_PLAYED	最近遊んだ順
+SYS_SORT_ORDER_NAME_PLAY_TIME	プレイ時間が長い順
+SYS_SORT_HEADING_PLAY_TIME	分
+SYS_SORT_HEADING_PLAY_TIME_2	1分未満
+SYS_SORT_HEADING_DATE_PLAYED_1	//
+SYS_SORT_HEADING_DATE_PLAYED_2	/
+SYS_USER_GUIDE_CONTROLLER_A	A
+SYS_USER_GUIDE_CONTROLLER_B	B
+SYS_USER_GUIDE_CONTROLLER_X	X
+SYS_USER_GUIDE_CONTROLLER_Y	Y
+SYS_USER_GUIDE_CONTROLLER_L	L
+SYS_USER_GUIDE_CONTROLLER_R	R
+SYS_USER_GUIDE_CONTROLLER_DPAD	十字ボタン
+SYS_USER_GUIDE_CONTROLLER_SELECT	SELECT
+SYS_USER_GUIDE_CONTROLLER__START	START
+SYS_USER_GUIDE_PRO_POINTER	おててカーソル\n（押し込みで拍手）\n※オンラインプレイ時のみ
+SYS_USER_GUIDE_JOY_L_COMBINATION	 +  SELECT     +  START
+SYS_USER_GUIDE_JOY_R_COMBINATION	 +  SELECT     +  START
+SYS_USER_GUIDE_LARK_COMBINATION	 +  中断メニュー
+SYS_USER_GUIDE_LUCIA_COMBINATION	 +  中断メニュー
+SYS_USER_GUIDE_PAUSE_MENU	中断メニュー
+SYS_USER_GUIDE_SYSTEM_HOME	 HOMEメニュー
+SYS_USER_GUIDE_SYSTEM_CAPTURE	 キャプチャー
+SYS_USER_GUIDE_SYSTEM_CAPTURE2	キャプチャー 
+SYS_USER_GUIDE_MICROPHONE	マイク
+SYS_USER_GUIDE_MICROPHONE_VOLUME	マイクボリューム
+SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED	この持ちかたでは\nマイクは使えません
+META_TITLE_COMMENT_S_2017_j	恐竜ランドを舞台にマリオが大冒険。\nマントマリオやヨッシーが初登場。\n\nこのタイトルは、1990年に発売されたスーパーファミコン用のアクションゲームです。 恐竜ランドを舞台に、クッパに捕まったピーチ姫を救出するため、マリオとルイージが冒険をくり広げます。頼もしい味方ヨッシーとともに、敵を倒したり、マントをつけて空を飛んだり、といった魅力的なアクションや多彩なキャラクターが満載。仕掛けと謎解き要素がいっぱいのバラエティに富んだステージをクリアしていきます。
+META_TITLE_COMMENT_S_2023_j	双子の赤ちゃんを救うため、ヨッシーたちが大奮闘。\n\nこのタイトルは、1995年に発売されたスーパーファミコン用のアクションゲームです。 赤ちゃんを背負ったヨッシーたちが、クッパ王国の魔法使いカメックにさらわれてしまったもう1人の双子の赤ちゃんを助け出すため、冒険の旅へ出発します。 タマゴを用いたさまざまなアクション、ヘリコプターやモグラタンクなどの「へんしんアイテム」を使いこなして、6つのワールドのクリアを目指しましょう。絵本のような温かみのある、手描き風グラフィックにも注目です。
+META_TITLE_COMMENT_S_2016_j	マリオシリーズのキャラクターたちが\nトップを競ってデッドヒート。\n\nこのタイトルは、1992年に発売されたスーパーファミコン用アクションレースゲームです。マリオシリーズのキャラクターたちがカートでレース&バトルをする「マリオカート」シリーズの1作目。サーキットやオフロードなどのコースを舞台に、加速重視やグリップ重視など、さまざまな特徴を持つ8キャラクターからひとりを選んでレースに挑みます。相手をスピンさせるバナナの皮や、自分のカートが無敵状態になるスターなどのアイテムも用意されています。
+META_TITLE_COMMENT_S_2024_j	スーパーファミコンに登場した『ゼルダの伝説』。\n多彩なアクションと武器を使い、謎に満ちたダンジョンに挑む。\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のアクションアドベンチャーゲームです。邪悪の王ガノンを倒すため、主人公リンクを操作して、フィールドやダンジョンを冒険します。剣での攻撃は、回転斬りやダッシュ斬りなどさまざま。ブーメランや弓、爆弾など、冒険の途中で入手できるアイテムもたくさんあります。走る、泳ぐなどの基本動作のほか、ものを担いで投げる、引っ張ることもでき、これらを使い分け、フィールドやダンジョンに隠された謎を解いてストーリーを進めていきます。
+META_TITLE_COMMENT_S_2018_j	謎の生命体メトロイドをめぐる新たな戦い！\n多彩なアクションで惑星ゼーベスを探索せよ。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のSFアクション･アドベンチャーゲームです。パワードスーツの女戦士サムス･アランを主人公とするシリーズの第3弾。かつて主人公サムスが戦闘を繰り広げた惑星ゼーベスを舞台として、奪われた謎の生命体「メトロイド」をめぐり、宇宙海賊との死闘が始まります。マップの途中で発見できるさまざまなアイテムを装備することにより、行動範囲と攻撃手段が広がっていきます。
+META_TITLE_COMMENT_S_2011_j	縦横無尽に銀河を駆ける、SF3Dシューティング。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のシューティングゲームです。 戦闘機アーウィンに搭乗する主人公のフォックスは、若きチームリーダー。味方であるファルコ、ペッピー、スリッピーたちとの連携や、クイックターンやローリング、逆噴射といった数々の操縦テクニックを駆使し、悪の科学者アンドルフの野望を打ち砕くため出撃します。ポリゴンで描かれた3D空間の舞台、スムーズな動きによるリアルな飛行感覚が特徴です。
+META_TITLE_COMMENT_S_2005_j	ホバーマシンに乗り込み、\nトラップをくぐり抜けてグランプリ制覇を目指す。\n\nこのタイトルは、1990年に発売されたスーパーファミコン用のレースゲームです。ホバーマシンを駆使し、9つの惑星都市、15のサーキットを走り抜けます。マシンは個性豊かな4種類から選択。触れるとダメージを受けるガードビームや、スリップを誘発する特殊コーティングの地面などのトラップをくぐり抜け、グランプリ制覇を目指してください。
+META_TITLE_COMMENT_S_2012_j	アドレナリンもオーバーフロウするぶっとび3Dドライブゲーム。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用の3Dドライブゲームです。大きな魅力の一つが、自動車工学に基づき細部にまでこだわったリアルな操作感覚です。つられてプレイヤーの体が大揺れしてしまうかもしれません。選べる車はゆかいな3タイプ。ボーナスステージではアメリカン・トレーラーを操作できます。3次元設計の臨場感あふれる超立体コースも攻略しがいがあります。果敢に挑みましょう。
+META_TITLE_COMMENT_S_2009_j	大空を舞台に、さまざまなスカイスポーツに挑戦。\n\nこのタイトルは、1990年に発売されたスーパーファミコン用のスカイスポーツ・シミュレーションゲームです。 スカイスポーツスクール「フライトクラブ」の受講生となり、さまざまな種目に挑戦します。ライトプレーンに乗り込んでうまく着陸させたり、ロケットベルトを操作して上空のリングをくぐったりと、スカイスポーツならではの種目が収録されています。目的地を示すレーダーや燃料の残り具合を参考にしながら、カリキュラムを達成してください。
+META_TITLE_COMMENT_S_2008_j	カービィがポップスターを救う冒険へ！\n仲間たちと協力しながら「邪悪な雲」をやっつけよう！\n\nこのタイトルは、1998年に発売されたスーパーファミコン用のアクションゲームです。 プププランドを襲った「邪悪な雲」を追い払うため、カービィとグーイが冒険に旅立ちます。敵を吸い込んで飲み込むことで、「ストー\nン」や「アイス」などの能力が使えるようになるコピー能力は本作でも健在。使いこなせば、強敵とも互角に戦えるようになります。
+META_TITLE_COMMENT_S_2007_j	おなじみカービィがボールになって大暴れ！\nスーパーショットで敵を星に変えよう！！\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションゲームです。 プププランドの夜空に輝く星をひとりじめしてしまったデデデ大王。きらめきを失った空は真っ黒に! きれいな夜空をもう一度プププランドに取り戻すため、カービィはデデデ大王の住むお城へと向かいました。ピンクのボールになったカービィをショットして、ステージを縦横無尽にころころ転がしてください。
+META_TITLE_COMMENT_S_2015_j	アクションゲーム『魔界村』シリーズ第3弾。\n多彩な武器と二段ジャンプを駆使して、プリンセスを救い出す。\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のアクションゲームです。高い難易度にもかかわらず何度でも挑戦したくなるアクションゲーム『魔界村』シリーズ第3弾。主人公の騎士アーサーは、さらわれたプリンセスを救い出すために、多彩な武器や新アクションの二段ジャンプを駆使して、魔物たちに立ち向かいます。各ステージでは、変化する地形や画面の全てを覆う大津波など、恐ろしくも美しい魔界が表現されています。
+META_TITLE_COMMENT_S_2004_j	恐怖せよ……。今、伝説の悪魔が甦る。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションRPGです。 かつて、6つの紋章の持つ力に魅せられた者たちが繰り広げた「紋章戦争」。その終わりのない戦いを終焉に導いた「赤き魔物」が卑劣な手により封印されて以来、魔界に偽りの独裁者が君臨し始めました。今、\n1000年の時を経て「赤き魔物」･レッドアリーマーが目覚め、その力が解き放たれようとしています。 世界に散らばる「紋章」を入手すると変身できます。姿に応じて使える魔力や特技が変わるので、空中で滞空する「ホバリング」や壁に張りつく「ヘルクライム」と合わせて使いこなしてください。
+META_TITLE_COMMENT_S_2021_j	臨場感あふれる、3D視点で楽しめるサッカー。\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のスポーツゲームです。ゴール後方から眺める、3D視点が特徴のサッカーゲームで、選手ごとに個性がある16の基本チーム、8種類のフォーメーションを選択可能。世界の強豪相手に勝ち抜くヒューマンカップ、1試合のみのエキシビジョンといったモードが遊べます。2人での対戦はもちろん、協力してヒューマンカップを遊ぶことも可能です。
+META_TITLE_COMMENT_S_2020_j	定番アクションパズルゲームの第2作目が、新要素をひっさげて登場！\n\nこのタイトルは、1995年に発売されたスーパーファミコン用パズルゲームです。主人公のアルル・ナジャにギャフンと言わせたいサタンを打倒すべく、アルルはサタンが待ち受ける塔に向かうことになります。塔では個性豊かなキャラクターと対戦し、サタンの待つ頂上を目指しましょう。おなじみ「相殺」「クイックターン」「全消し」「NEXT2ぷよ表示」は今作からで、これらの要素がさまざまなモードとルールでぷよぷよを盛り上げます。
+META_TITLE_COMMENT_S_2014_j	操作は簡単、やりこむほどに味が出る。\nあの『ファミリーテニス』がスーパーファミコンに登場。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のスポーツゲームです。Aボタンで強いボール、Bボタンで弱いボール、Xボタンでロブを打つシンプルな操作ながら、多彩なショットを打ち分けることができ、テニスの奥深い攻防を手軽に楽しめます。基本的な3種類のコートのほか、リゾート地が舞台になった5種類の特設コートが用意されています。選手やコートを自由に選んで対戦するエキシビションモードと、5つの大会を勝ち進んでいくトーナメントモードがあります。
+META_TITLE_COMMENT_S_2003_j	時を越えた因縁の戦いに、白竜族の少年が旅立つ。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のロールプレイングゲームです。 数千年前、悪しき女神の力を巡り白竜族と黒竜族の激しい戦いがありました。戦いのあと、白竜族は戒めのため自らの強大な力を封印し、世界には平穏が続いていましたが、再び黒竜族が侵略を始めます。白竜族の少年･リュウは連れ去られた姉のセイラを探して旅立つのでした。 仲間となるキャラクターは、不思議な特技や特殊能力を持っています。各キャラクターの能力を、さまざまな場面で試してみてください。
+META_TITLE_COMMENT_S_2002_j	多彩な攻撃で敵をなぎ倒す。 \n5人のキャラクターが大暴れする格闘アクション。\n\nこのタイトルは、1992年に発売されたスーパーファミコン用のアクションゲームです。 行方不明になった仲間たちを助け出すため、主人公のノートンとビルドは強敵の待ち受ける人工島へ向かいます。ゲーム開始時に使用できるキャラクターは2人だけですが、ゲームを進めると、攻撃力が優れていたり、身軽に動き回れたりと、タイプが異なる5人のキャラクターを使用できるようになります。広範囲に攻撃できる必殺技や、ダウンが狙えるダッシュ攻撃、ダウン状態からの追い打ち攻撃などのアクションを駆使して、さまざまなステージを進んでいきます。2人プレイは、協力、対戦、タイムアタックの3種類のモードで遊べます。
+META_TITLE_COMMENT_S_2013_j	特殊機動戦闘機「XA-1」で、アギーマ帝国から地球を守れ！\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のシューティングゲームです。 謎の組織「アギーマ帝国」からの攻撃予告を受けた地球は、地球統合軍の特殊機動戦闘機「XA-1」を緊急出動させます。開発が完了したばかりのXA-1は、単身で敵に挑みます。 XA-1は、ロールプレイングゲームのように敵を倒した得点分の経験値が貯まっていき、一定の値になるとレベルアップします。レベルアップすると各武器の攻撃が強力になっていきます。武器は、バルカン、レーザー、ホーミングなど8種類です。得意な武器で戦ったり、ステージに合わせて選んだりと多彩な戦いかたができます。自機とともに攻撃する「オプション」を常に搭載していて、いつでもフォーメーションを切り替えられます。敵の数や武器に応じて、臨機応変にフォーメーションを切り替えると、戦闘を有利に進めることができます。
+META_TITLE_COMMENT_S_2006_j	山あり、谷あり、洞窟ありの難関を突破して奪われた冠を取り戻せ！\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションゲームです。ドタゴンのリーダー、フーバーに奪われた村の大切な冠を取り戻すため、コン棒片手にJOEとMACが旅立ちます。ダッシュ、ジャンプ、アタックなどのアクションを駆使して敵を倒して行きレインボーストーンを7つ集めましょう。貯めたお金で家を改築したり、ブーケを女性に贈って結婚できる要素も本作の魅力の一つです。
+META_TITLE_COMMENT_S_2031_j	時を経て、やとわれ遊撃隊「スターフォックス」ついに出撃！\n\nこのタイトルは、スーパーファミコン用のシューティングゲームです。ライラット系の征服を企むアンドルフ皇帝と、それに立ち向かうやとわれ遊撃隊「スターフォックス」の戦いを描く幻のシリーズ2作目です。おなじみの「フォックス」「ファルコ」「ペッピー」「スリッピー」の4人に加え、「ミュウ」\n「フェイ」の新たなメンバーが追加。6人のメンバーでアンドルフ皇帝に立ち向かいます。シリーズでおなじみの画面奥へと進む「３Dスクロール」から、360度自由に飛行や移動ができる「全方位モード」が中心になり、アーウィンが「歩行形態」に変形するなど、その後の「スターフォックス」シリーズに受け継がれていった新要素が盛り込まれています。
+META_TITLE_COMMENT_S_2029_j	カービィを手助けしてくれるヘルパー登場！\n6つの異なるゲームモードが楽しめる。\n\nこのタイトルは、1996年に発売されたスーパーファミコン用のアクションゲームです。6つの異なるゲームモードが用意されており、それぞれ違った冒険を楽しむことができます。カービィの仲間としてさまざまな能力を持ったヘルパーが登場するので、ヘルパーと協力してステージクリアを目指してください。ボタンをタイミングよく押したり、すばやく押すだけのカンタン操作で楽しめるサブゲームも用意されています。
+META_TITLE_COMMENT_S_2010_j	『ツインビー』シリーズの第6作目。\nポップでかわいい世界観の、縦スクロールシューティング。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のシューティングゲームです。 ツインビーたちは、マドカのひいおじいさんであるDr.マードックが悪人になってしまったと聞き、彼を元に戻すため飛び立ちます。 本作は残機の概念がなく、ライフメーターが0になるまでは敵や弾に当たっても撃墜されません。雲から出現するベルは攻撃すると色が変わり、色ごとで異なる効果を得られます。2人同時プレイではライフを分け合ったり、相手を投げ飛ばして攻撃したりとユニークな遊びかたが楽しめます。
+META_TITLE_COMMENT_S_2025_j	『ブレス オブ ファイア』シリーズ第2弾。\n自分の運命を知った少年リュウが、個性的な仲間たちと紡ぐ物語。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。 ある事件をきっかけに天涯孤独の身になった少年リュウは、同じ境遇の孤児ボッシュとともに村を抜け出し、事件の謎を解くために旅立ちます。冒険の途中、翼を持つ王女ニーナや、巨大な体と固い殻を持つランド、虎人(フーレン)の娘リンプーなど、個性的な仲間と出会います。町を自分好みに発展させていく｢共同体｣や、人々や仲間の感情を知ることができる｢ドラゴンズ･ティア｣などのシステムが冒険を彩ります。
+META_TITLE_COMMENT_S_2034_j	カラフルなパネルをそろえて消していく。 連鎖をつなげるパズルゲーム。\n\nこのタイトルは、1995年に発売されたスーパーファミコン用のアクションパズルゲームです。 隣り合う左右のパネルを入れ替え、3つ以上の同じパネルを縦か横にそろえて消していきます。数あるテクニックの中でも重要なのは、パネルが消えていく間にほかのパネルを操作し、次々と連鎖していく「アクティブ連鎖」。うまく使えばスコアアタックでハイスコアが獲得できたり、VSモードで相手に大きなおじゃまパネルを送ったりできます。
+META_TITLE_COMMENT_S_2019_j	世界の強豪を相手に3分間の一本勝負。\n強力なスペシャルパンチが勝負の鍵を握る。\n\nこのタイトルは、1998年にスーパーファミコンのカセット書き換えシステム「ニンテンドウパワー」より発売されたスポーツゲームです。 ボクサーである主人公が、世界各国の個性豊かな強豪たちに挑戦します。パンチやダッキング、スウェーなど、本格的なボクシングのアクションを簡単な操作で行うことができ、強烈な威力のスペシャルパンチも繰り出せます。相手の動きや特徴に合わせてこれらのアクションを駆使し、チャンピオンをめざしてください。
+META_TITLE_COMMENT_S_2055_j	ドンキーコングとディディーコング、\n2人で力を合わせて、盗まれたバナナを取り返せ！\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションゲームです。大きな体に力自慢のドンキーと、身軽な体ですばしっこいディディーがところせましと大活躍。さまざまなアクションで敵を倒したり、仕掛けを乗り越えたりしていきます。プレイヤーは先頭にいるキャラクターを操作します。場面に合わせて先頭のキャラクターを交代しながらゴールをめざしてください。木箱の中には味方の動物「アニマルフレンド」が入っています。それぞれの特技で助けてもらいましょう。
+META_TITLE_COMMENT_S_2147_j	真・女神転生シリーズの第1弾。秩序か混沌か……\n仲魔と共に戦い、自分の選択した結末を見届ける。\n\nこのタイトルは、1992年に発売されたスーパーファミコン用のロールプレイングゲームです。悪魔と交渉して仲魔(仲間の悪魔)を増やし、悪魔合体システムでより強い仲魔を作り、強敵が潜むダンジョンに挑みます。秩序を重んじる｢LAW(ロウ)｣、混沌を重んじる｢CHAOS(カオス)｣、どちらにも属さない｢NEUTRAL(ニュートラル)｣という3つの属性があり、主人公の行動や選択によって、どの属性に振り分けられるかが決まります。主人公の属性が変化すれば、物語の結末も大きく変化します。
+META_TITLE_COMMENT_S_2033_j	夢のマリオ４本立て。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のアクションゲームです。『スーパーマリオブラザーズ』、『スーパーマリオブラザーズ\n2』、『スーパーマリオブラザーズ3』、『スーパーマリオUSA』の4タイトルを遊ぶことができます。ファミリーコンピュータのときよりも高画質・高音質にバージョンアップしています。さらに、『スーパーマリオブラザーズ\n3』では2人プレイの「バトルゲーム」が単独で遊べるようになっています。
+META_TITLE_COMMENT_S_2060_j	勇敢な2人組･ディクシーとディディーが、\nさらわれたドンキーコングを捜す旅に出た。\n\nこのタイトルは、1995年に発売されたスーパーファミコン用のアクションゲームです。キャプテン･クルールにさらわれたドンキーコングを助けるため、ディクシーとディディーが冒険の旅に出ます。ドンキーに比べると小さくてパワー不足の2人ですが、力を合わせる「チームアップ」を使えば、1人では行けない場所へ行けたり、アイテムを取ることができたりと行動の幅が広がります。おなじみの「アニマルフレンド」には新しい仲間が増え、ユニークな特技で冒険をサポートしてくれます。
+META_TITLE_COMMENT_S_2027_j	戦略を立ててユニットを進軍させ、マルス軍を勝利に導く。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のロールプレイングシミュレーションゲームです。 主人公マルスの率いる軍を指揮して、アカネイア大陸で起こった2度の戦乱を体験します。個性あふれるたくさんのキャラクターが登場し、なかには味方として、戦いに加勢してくれる者も。ただし、敵に倒されてしまった仲間は基本的に二度と生き返らないので注意してください。
+META_TITLE_COMMENT_S_2022_j	スーパーファミコンで実現するリアルなプレイ感覚！\n世界のトップ・プレイヤーたちが君の挑戦を待っている。\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のスポーツゲームです。スーパーファミコン初のテニスゲームとなる本作で熱い戦いを繰り広げるのは、様々な特徴を持つ世界のトップ・プレイヤー20名。選手の位置、押すボタン、タイミングによる多種多様な打球の打ち分けをマスターして勝利を目指しましょう。選手やコートを自由に選んで対戦するシングルスモード・ダブルスモードのほか、世界各地の大会を転戦してポイントを競うサーキットモードがあります。
+META_TITLE_COMMENT_S_2049_j	SF西部劇の世界で撃ちまくれ！ド派手なシューティングアクション。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションゲームです。宇宙を股にかける賞金稼ぎのクリントと復讐に燃える大地主の娘アニーが海賊キッドを倒すため、惑星アレクスで大暴れします。銃はYボタンを押し続けて連射しますが、このとき十字ボタンは照準の移動となり、プレイヤーの移動はできません。銃撃だけでなく、敵の動きを止める投げ縄や接近した敵を殴り飛ばすなどの特殊な攻撃、二段ジャンプやローリングでの回避といった多彩なアクションを使い分け、海賊キッドを追い詰めましょう。
+META_TITLE_COMMENT_S_2061_j	帰りが遅いドンキーたちを捜して、\nディクシーとディンキーがクレミス島を大冒険！\n\nこのタイトルは、1996年に発売されたスーパーファミコン用のアクションゲームです。「ドンキーとしまをたんけんしてくる。あす、もどる」とメモを残して出かけたディディーコング。しかし、次の日も、その次の日も2人は戻ってきません。心配したディクシーはクレミス島に向かい、そこで出会った赤ちゃんコングのディンキーと共に大冒険を繰り広げます。ディンキーはまだよちよち歩きの赤ちゃんですが、大きな体と強い腕力を活かして大人顔負けの活躍をします。体の軽いディクシー、力の強いディンキーと、それぞれ特徴が異なるので、場面に応じて使い分けましょう。クレミス島のいろいろな場所に閉じ込められている「バナナバード」を助けると良いことがあります。ぜひすべてのバナナバードを見つけてみてください。
+META_TITLE_COMMENT_S_2142_j	危険な災害現場から被災者を救え！\n緊急レスキューアクション。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のレスキューアクションゲームです。消防士の主人公を操作して、災害現場に取り残された被災者の救出をします。各ミッションで決められた時間内に規定人数を救出し、建物から脱出するとミッションクリアです。ミッション開始前のミーティングで建物の構造を把握しておき、被災者がいる場所への最短ルートを見つけ、消火時間を最小限に抑えて動くことがミッションクリアにつながります。道を切り開くために必要なアイテムは、仲間に話しかけると補給または交換することができます。アイテムを惜しまず使うことが、迅速な救出を行うコツです。
+META_TITLE_COMMENT_S_2026_j	目指せ、世界一のドッジボールチーム! \nくにおくんが型破りの技で勝ち進む。\n\nこのタイトルは、1993年に発売されたスーパーファミコン用のスポーツゲームです。 世界一のドッジボールチームを目指して、各国の個性豊かなチームと戦います。多彩なジャンプやパスが使えるほか、ダイナミックな必殺シュートも用意されています。各ステージにはユニークな仕掛けが隠されており、試合が予想外の展開になることもあります。アイテムを購入したり、選手を育成したりすることでチームを強化できるので、理想のチームを編成して敵チームに挑んでください。
+META_TITLE_COMMENT_S_2032_j	「へべ」たちが大乱戦。勝つのは誰だ！？\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のアクションゲームです。ステージ上で4人のキャラクターが入り乱れて戦い、最後まで生き残れば勝利です。「へべ」をはじめ各キャラクターは、通常の攻撃のほか、独自のコマンド入力で個性的な2種類の「すぺしゃるあたーく」を放つことができます。「あいてむ」やステージ上の「とらっぷ」を利用して、激しいバトルを制しましょう。
+META_TITLE_COMMENT_S_2044_j	縦と横の数字を手がかりに、マスを削って絵を作る。\n\nこのタイトルは、1995年に発売されたスーパーファミコン用のパズルゲームです。マス目の左と上に表示された数字を手がかりに、隠された絵を浮かび上がらせていきます。2人プレイで協力して1つの問題を解いたり、難問が多いワリオのスーパーピクロスがあるなど遊び応えも十分です。
+META_TITLE_COMMENT_S_2145_j	来ないで…　わたしを捜さないで…\n\nこのタイトルは1992年に発売されたスーパーファミコン用のアクションゲームです。Dムービーと呼ばれる仮想空間の世界へ入り込んだまま現実世界に還ってこない紗耶香。主人公のリョウとマリアは彼女を救うべく、恐怖の幻想ソフト『廃都物語』の中を進みます。アイテム(プロテイン)は色によって効果が異なり、フリークアウト(変体)を起こして攻撃方法を近距離型と遠距離型に変化させる、攻撃力を強化するなどの効果があります。状況に合わせて使い分け、全6つのTRACKクリアをめざしましょう。
+META_TITLE_COMMENT_S_2148_j	真・女神転生シリーズの第2弾。\n新たな主人公の新たな選択が、世界の行く末を決める。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。『真･女神転生』の続編となる本作の舞台は、かつて東京と呼ばれた街、TOKYOミレニアム。悪魔と戦うだけでなく、ときには交渉して仲魔(仲間の悪魔)を増やし、強敵に挑みます。\n主人公の行動や選択によって結末が大きく変わるという特徴はそのままに、悪魔合体での魔法の受け継ぎや、仮想空間での訓練で経験値を取得できる「ヴァーチャルバトラー」など、さまざまな要素が追加されています。
+META_TITLE_COMMENT_S_2028_j	『ファイアーエムブレム』シリーズの4作目。 \n親子二代にわたるストーリーが展開。\n\nこのタイトルは、1996年に発売されたスーパーファミコン用のロールプレイングシミュレーションゲームです。 主人公であるシアルフィ公国のシグルドは、仲間たちとともに次々と巻き起こる戦いを乗り越えていきます。親子二代にわたるストーリーを楽しむことができ、時には登場キャラクターどうしが恋に落ちることも。子どもに能力を引き継ぐことも可能です。
+META_TITLE_COMMENT_S_2139_j	世紀末に現れた、最悪・最強の怪人たちの熱き戦いが始まる！！\n\nこのタイトルは1992年に発売されたスーパーファミコン用の格闘アクションゲームです。ブラスナンバーズと呼ばれる7人の悪行に見かねた天使が6人を改心させました。抵抗を続ける残った1人を討つべく、改心した元仲間の6人が立ちはだかります。1人用モードでは戦いに勝利した後にボーナスポイントを振り分けてキャラクターを育成することができ、そのキャラクターを「VS MODE」でも使用することができます。
+META_TITLE_COMMENT_S_2151_j	簡単ルールとかわいいキャラクターが人気の『マジカルドロップ』シリーズ第2弾。\n\nこのタイトルは、1996年に発売されたスーパーファミコン用のアクションパズルゲームです。上から降りてくる玉(ドロップ)を取ったり投げたりして、同じ色の玉を縦に3つ以上並べて消していきます。ゲーム終了時にプレイヤーの実力を段位認定する「ひたすらモード」、10人のキャラクターから1人を選んで対戦を勝ち抜いていく「ストーリーモード」など、4つのモードで遊べます。
+META_TITLE_COMMENT_S_2169_j	JOEとMACが旅立つ『戦え原始人』シリーズの第1弾。\nさらわれた娘たちを無事に救い出せるか！？\n\nこのタイトルは、1991年に発売されたスーパーファミコン用のアクションゲームです。別種族(よそもの)たちにさらわれた村の娘たちを救出すべく、村長たちに選ばれた力自慢のJOEとMACはコン棒を片手に出発します。ジャンプやダッシュ、回転攻撃といったアクションを駆使して進みましょう。武器を複数手に入れると、セレクトボタンで持ち替えができるようになるので、状況に応じて使い分けることができます。ステージをクリアするとゴホウビが待っています。
+META_TITLE_SUBTITLE_S_2016_j_sp1	フルコースでおもてなしバージョン
+META_TITLE_COMMENT_S_2016_j_sp1	～レインボーロードも150ccも～\n\nこのタイトルは、全カップ全コースのプレイが可能になっている『スーパーマリオカート』のスペシャルバージョンです。150ccも選べます。全部のコースでフルコース。でも料理のように食べる順番は決められていませんから、好きなところから好きなだけお楽しみくださいませ。
+META_TITLE_COMMENT_S_2149_j	魔界に飲み込まれた学生たちの物語。\nパートナーや仲魔とともに、現世への帰還をめざす。\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。突然魔界に飲み込まれた学校の生徒である主人公は、魔界から脱出するために、さまざまな世界を冒険します。序盤の進めかたによって、「ユミ」「レイコ」「チャーリー」のうちの誰かがパートナーになり、物語が大きく変化します。倒れた際に悪魔が現れ復活する「ガーディアンシステム」は本作ならでは。敵を仲魔としてともに戦わせたり、仲魔を合体させて別の仲魔を作ったりといった、シリーズおなじみの要素も健在です。
+META_TITLE_COMMENT_S_2146_j	それぞれの思いを胸に秘め、4人の戦士が巨大な死の塔に挑む！\n\nこのタイトルは1993年に発売されたスーパーファミコン用の格闘アクションゲームです。主人公の翔、ザジ、琴乃、ヴォルツの中から一人を選び、格闘神ジャドーに立ち向かいます。ストーリーモードでは一定数の敵を倒すごとに必殺技がレベルアップし、強力なものへと変化します。ガードを使い分け、タイミングを見て必殺技を放ちましょう。フィニッシュシーンを鮮やかに再現するインスタントリプレイ機能が場を盛り上げます。
+META_TITLE_COMMENT_S_2156_j	吹っ飛ぶ爆弾！迫るタイムリミット！\n\nこのタイトルは、1990年に発売されたスーパーファミコン用のアクションパズルゲームです。様々な仕掛けを利用し、制限時間内にマップ上の爆弾や地雷を全て爆発させるとステージクリアです。爆弾や地雷の大きさによって爆発する範囲も大きくなるので、巻き込まれないように注意しましょう。ゲーム中にセレクトボタンを押すことで真上から見た2Dモード、斜めから見た3Dモードに切り替えることができるので自分に合ったモードで全ステージクリアを目指しましょう。
+META_TITLE_COMMENT_S_2051_j	大人も子供も、おねーさんも。\n心強い仲間とともに、世界をめぐる大冒険！\n\nこのタイトルは、1994年に発売されたスーパーファミコン用のロールプレイングゲームです。ゲームの舞台は199X年の地球。緑豊かな町オネットに住む少年ネスは、山に落ちた隕石を見に行ったことをきっかけに、世界を巡る冒険に出発します。いっしょに冒険してくれる心強い仲間や、「どせいさん」をはじめとする一風変わったキャラクターたちと出会いながら、世界中に散らばる8つのメロディーを集めてください。
+META_TITLE_SUBTITLE_S_2018_j_sp1	サムス・アラン最終形態
+META_TITLE_COMMENT_S_2018_j_sp1	～全ての装備がそろってます～\n\nこのタイトルは、あらゆるパワーアップアイテムを手に入れて武器やパワードスーツの能力を強化し、主人公のサムス・アランを最強の状態にした『スーパーメトロイド』のスペシャルバージョンです。要塞の中心に存在するマザーブレインを倒すまでもう少しです。このゲームはクリアにかかった時間によってエンディングがちょっぴり変化します（全3種類）。このまますぐにクリアできればパワードスーツを脱いだサムスの姿が拝めます。
+META_TITLE_COMMENT_S_2037_j	ほのぼの生活シミュレーションゲーム。\n\nこのタイトルは、1996年に発売されたスーパーファミコン用の生活シミュレーションゲームです。「花の芽村」を舞台に、牧場主を目指す男の子が祖父の残した牧場を3年で再建していく物語です。作物の育成や動物のお世話、自宅の増築などで牧場を発展させていくだけでなく、村の住人たちと交流したり、お嫁さん候補の女の子との恋愛・結婚も楽しめます。
+META_TITLE_SUBTITLE_S_2019_j_sp1	チャンピオンズエディション
+META_TITLE_COMMENT_S_2019_j_sp1	～パンチの効いた16人のライバルが勢ぞろい～\n\nこのタイトルは、全てのサーキット、全ての対戦相手に挑戦できる『スーパーパンチアウト‼ 』のスペシャルバージョンです。「MINOR CIRCUIT」、\n「MAJOR CIRCUIT」、「WORLD CIRCUIT」だけでなく、それらを無敗で制覇したときに挑戦できる「SPECIAL CURCUIT」も選ぶことができます。\n「SPECIAL CURCUIT」のボクサーは「ナルシス・プリンス」\n「ホイ・コウロウ」「リック・ブルーザー」「ニック・ブルーザー」の4人。\n「TIME ATTACK MODE」で練習してから挑むのもアリかもしれませんね。なお、当時の開発スタッフが叩き出した「SPECIAL CURCUIT」の最高スコアは583,550だそうです。
+META_TITLE_SUBTITLE_S_2017_j_sp1	気分一新！イメチェンバージョン
+META_TITLE_COMMENT_S_2017_j_sp1	～スペシャルコースのその先へご招待～\n\nこのタイトルは、いつもと違う雰囲気で遊べる『スーパーマリオワールド』のスペシャルバージョンです。スペシャルコースをクリアした後にたどり着く、少し様子の変わった恐竜ランドからはじまります。新たな気持ちでもう一度冒険をはじめてみてはいかがでしょう？
+exploded_strings
+SYS_DIALOG_GENERIC_BUTTON1	[GENERIC_DIALOG_BUTTON1]
+SYS_DIALOG_GENERIC_BUTTON2	[GENERIC_DIALOG_BUTTON2]
+SYS_DIALOG_GENERIC_BUTTON3	[GENERIC_DIALOG_BUTTON3]
+SYS_DIALOG_EXCHANGE_PLAYER_1P_TEXT	1Pと2Pを入れ替えました。\nあなたは 1P になりました。\nメニューの操作は引き続き [HOST_NAME] が行います。
+SYS_DIALOG_EXCHANGE_PLAYER_2P_TEXT	1Pと2Pを入れ替えました。\nあなたは 2P になりました。\nメニューの操作は引き続き [HOST_NAME] が行います。
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITH_PASSWORD	[IMG_LOCK] 合言葉あり
+SYS_DIALOG_ONLINE_WAITING_FOR_GUEST_TEXT	[GUEST_NAME] と合流しています。
+SYS_DIALOG_ONLINE_WAITING_FOR_HOST_TEXT	[HOST_NAME] と合流しています。\n（あなたのセーブデータは変更されません）
+SYS_DIALOG_ONLINE_ESTABLISHED_HOST_TEXT	[GUEST_NAME] が遊びに来ました。\nメニューの操作は [HOST_NAME] が行います。\n通信品質は自分と相手との通信環境に依存します。
+SYS_DIALOG_ONLINE_ESTABLISHED_GUEST_TEXT	[HOST_NAME] のところへ遊びに来ました。\nメニューの操作は [HOST_NAME] が行います。\n通信品質は自分と相手との通信環境に依存します。
+SYS_DIALOG_DURING_GUEST_OPERATION_TEXT	[GUEST_NAME] が操作しています。
+SYS_DIALOG_DURING_HOST_OPERATION_TEXT	[HOST_NAME] が操作しています。
+SYS_DIALOG_ONLINE_PAUSE_ON_DISCONNECT_TEXT	[GUEST_NAME] との通信が切断されました。\nこのままゲームを続けることができません。\nどこでもセーブのみ可能です。
+SYS_HUD_GUIDE_PRO_CONFIRM	[IMG_BUTTON_A]  決定
+SYS_HUD_GUIDE_PRO_BACK	[IMG_BUTTON_B]  もどる
+SYS_HUD_GUIDE_PRO_DETAILS	[IMG_BUTTON_X]  くわしく
+SYS_HUD_GUIDE_PRO_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_PRO_MOVE2	[IMG_BUTTON_Y]  移動　（長押しでソート）
+SYS_HUD_GUIDE_PRO_SORT	[IMG_BUTTON_Y]  長押しでソート
+SYS_HUD_GUIDE_PRO_PLAY	[IMG_BUTTON_A]  はじめる
+SYS_HUD_GUIDE_PRO_INVITE	[IMG_BUTTON_PLUS]  フレンドを招待
+SYS_HUD_GUIDE_PRO_Invitation	[IMG_BUTTON_PLUS]  フレンドを招待
+SYS_HUD_GUIDE_PRO_GUIDE	[IMG_BUTTON_X]  操作ガイド
+SYS_HUD_GUIDE_PRO_EXCHANGE	[IMG_BUTTON_Y]  1P/2P入れ替え
+SYS_HUD_GUIDE_PRO_VOICE_CHAT	[IMG_BUTTON_X]  ボイスチャットするには？
+SYS_HUD_GUIDE_PRO_PROMOTION	[IMG_BUTTON_X]  専用コントローラーについて
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  中断メニュー
+SYS_HUD_GUIDE_PRO_INGAME_START	[IMG_BUTTON_PLUS]  STARTボタン
+SYS_HUD_GUIDE_PRO_INGAME_SELECT	[IMG_BUTTON_MINUS]  SELECTボタン
+SYS_HUD_GUIDE_PRO_INGAME_QUIT_ONLINE	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  オンラインプレイをやめる
+SYS_HUD_GUIDE_PRO_DETAILES_NEXT	[IMG_BUTTON_A]  つぎへ
+SYS_HUD_GUIDE_PRO_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_PRO_CANCEL	[IMG_BUTTON_B]  元にもどす
+SYS_HUD_GUIDE_PRO_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_PRO_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_JOY_L_CONFIRM	[IMG_BUTTON_CLOVER_R]  決定
+SYS_HUD_GUIDE_JOY_R_CONFIRM	[IMG_BUTTON_CLOVER_R]  決定
+SYS_HUD_GUIDE_JOY_L_BACK	[IMG_BUTTON_CLOVER_D]  もどる
+SYS_HUD_GUIDE_JOY_R_BACK	[IMG_BUTTON_CLOVER_D]  もどる
+SYS_HUD_GUIDE_JOY_L_DETAILS	[IMG_BUTTON_CLOVER_U]  くわしく
+SYS_HUD_GUIDE_JOY_R_DETAILS	[IMG_BUTTON_CLOVER_U]  くわしく
+SYS_HUD_GUIDE_JOY_L_MOVE	[IMG_BUTTON_CLOVER_L]  移動
+SYS_HUD_GUIDE_JOY_L_MOVE2	[IMG_BUTTON_CLOVER_L]  移動　（長押しでソート）
+SYS_HUD_GUIDE_JOY_L_SORT	[IMG_BUTTON_CLOVER_L]  長押しでソート
+SYS_HUD_GUIDE_JOY_R_MOVE	[IMG_BUTTON_CLOVER_L]  移動
+SYS_HUD_GUIDE_JOY_R_MOVE2	[IMG_BUTTON_CLOVER_L]  移動　（長押しでソート）
+SYS_HUD_GUIDE_JOY_R_SORT	[IMG_BUTTON_CLOVER_L]  長押しでソート
+SYS_HUD_GUIDE_JOY_L_PLAY	[IMG_BUTTON_CLOVER_R]  はじめる
+SYS_HUD_GUIDE_JOY_R_PLAY	[IMG_BUTTON_CLOVER_R]  はじめる
+SYS_HUD_GUIDE_JOY_L_GUIDE	[IMG_BUTTON_CLOVER_U]  操作ガイド
+SYS_HUD_GUIDE_JOY_R_GUIDE	[IMG_BUTTON_CLOVER_U]  操作ガイド
+SYS_HUD_GUIDE_JOY_L_EXCHANGE	[IMG_BUTTON_CLOVER_L]  1P/2P入れ替え
+SYS_HUD_GUIDE_JOY_R_EXCHANGE	[IMG_BUTTON_CLOVER_L]  1P/2P入れ替え
+SYS_HUD_GUIDE_JOY_L_VOICE_CHAT	[IMG_BUTTON_CLOVER_U]  ボイスチャットするには？
+SYS_HUD_GUIDE_JOY_R_VOICE_CHAT	[IMG_BUTTON_CLOVER_U]  ボイスチャットするには？
+SYS_HUD_GUIDE_JOY_L_PROMOTION	[IMG_BUTTON_CLOVER_U]  専用コントローラーについて
+SYS_HUD_GUIDE_JOY_R_PROMOTION	[IMG_BUTTON_CLOVER_U]  専用コントローラーについて
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  中断メニュー
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  中断メニュー
+SYS_HUD_GUIDE_JOY_L_INGAME_START	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SR]  STARTボタン
+SYS_HUD_GUIDE_JOY_R_INGAME_START	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SR]  STARTボタン
+SYS_HUD_GUIDE_JOY_L_INGAME_SELECT	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL]  SELECTボタン
+SYS_HUD_GUIDE_JOY_R_INGAME_SELECT	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL]  SELECTボタン
+SYS_HUD_GUIDE_JOY_L_INGAME_QUIT_ONLINE	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  オンラインプレイをやめる
+SYS_HUD_GUIDE_JOY_R_INGAME_QUIT_ONLINE	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  オンラインプレイをやめる
+SYS_HUD_GUIDE_JOY_L_DETAILS_NEXT	[IMG_BUTTON_CLOVER_R]  つぎへ
+SYS_HUD_GUIDE_JOY_R_DETAILS_NEXT	[IMG_BUTTON_CLOVER_R]  つぎへ
+SYS_HUD_GUIDE_JOY_L_COMMIT	[IMG_BUTTON_CLOVER_L]  確定
+SYS_HUD_GUIDE_JOY_R_COMMIT	[IMG_BUTTON_CLOVER_L]  確定
+SYS_HUD_GUIDE_JOY_L_CANCEL	[IMG_BUTTON_CLOVER_D]  元にもどす
+SYS_HUD_GUIDE_JOY_R_CANCEL	[IMG_BUTTON_CLOVER_D]  元にもどす
+SYS_HUD_GUIDE_JOY_L_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_L]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_JOY_R_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_L]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_JOY_L_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_L]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_JOY_R_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_L]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_HOME	[IMG_BUTTON_LARK_RT]  HOMEメニュー
+SYS_HUD_GUIDE_LARK_HOME2	[IMG_BUTTON_LARK_RT] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LARK_R_HOME	[IMG_BUTTON_LARK_RIGHT_DPAD]  HOMEメニュー
+SYS_HUD_GUIDE_LARK_R_HOME2	[IMG_BUTTON_LARK_RIGHT_DPAD] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LUCIA_HOME	[IMG_BUTTON_LUCIA_ZR]  HOMEメニュー
+SYS_HUD_GUIDE_LUCIA_HOME2	[IMG_BUTTON_LUCIA_ZR] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LARK_CAPTURE	[IMG_BUTTON_LARK_LT]  キャプチャー
+SYS_HUD_GUIDE_LARK_CAPTURE2	[IMG_BUTTON_LARK_LT] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LARK_L_CAPTURE	[IMG_BUTTON_LARK_LEFT_A]  キャプチャー
+SYS_HUD_GUIDE_LARK_L_CAPTURE2	[IMG_BUTTON_LARK_LEFT_A] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LUCIA_CAPTURE	[IMG_BUTTON_LUCIA_ZL]  キャプチャー
+SYS_HUD_GUIDE_LUCIA_CAPTURE2	[IMG_BUTTON_LUCIA_ZL] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LARK_CONFIRM	[IMG_BUTTON_A]  決定
+SYS_HUD_GUIDE_LARK_BACK	[IMG_BUTTON_B]  もどる
+SYS_HUD_GUIDE_LARK_DETAILS	[IMG_BUTTON_LARK_START]  くわしく
+SYS_HUD_GUIDE_LARK_MOVE	[IMG_BUTTON_LARK_SELECT]  移動
+SYS_HUD_GUIDE_LARK_MOVE2	[IMG_BUTTON_LARK_SELECT]  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_SORT	[IMG_BUTTON_LARK_SELECT]  長押しでソート
+SYS_HUD_GUIDE_LARK_PLAY	[IMG_BUTTON_A]  はじめる
+SYS_HUD_GUIDE_LARK_GUIDE	[IMG_BUTTON_LARK_START]  操作ガイド
+SYS_HUD_GUIDE_LARK_EXCHANGE	[IMG_BUTTON_LARK_SELECT]  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_VOICE_CHAT	[IMG_BUTTON_LARK_START]  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_PROMOTION	[IMG_BUTTON_LARK_START]  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  中断メニュー
+SYS_HUD_GUIDE_LARK_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_DETAILES_NEXT	[IMG_BUTTON_A]  つぎへ
+SYS_HUD_GUIDE_LARK_COMMIT	[IMG_BUTTON_LARK_SELECT]  確定
+SYS_HUD_GUIDE_LARK_CANCEL	[IMG_BUTTON_B]  元にもどす
+SYS_HUD_GUIDE_LARK_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_LARK_SELECT]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_LARK_SELECT]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_L_CONFIRM	[IMG_BUTTON_A]  決定
+SYS_HUD_GUIDE_LARK_L_BACK	[IMG_BUTTON_B]  もどる
+SYS_HUD_GUIDE_LARK_L_DETAILS	[IMG_BUTTON_X]  くわしく
+SYS_HUD_GUIDE_LARK_L_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_LARK_L_MOVE2	[IMG_BUTTON_Y]  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_L_SORT	[IMG_BUTTON_Y]  長押しでソート
+SYS_HUD_GUIDE_LARK_L_PLAY	[IMG_BUTTON_A]  はじめる
+SYS_HUD_GUIDE_LARK_L_GUIDE	[IMG_BUTTON_X]  操作ガイド
+SYS_HUD_GUIDE_LARK_L_EXCHANGE	[IMG_BUTTON_Y]  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_L_VOICE_CHAT	[IMG_BUTTON_X]  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_L_PROMOTION	[IMG_BUTTON_X]  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE	[IMG_BUTTON_LARK_LEFT_B]  中断メニュー
+SYS_HUD_GUIDE_LARK_L_INGAME_START	[IMG_BUTTON_LARK_START]  STARTボタン
+SYS_HUD_GUIDE_LARK_L_INGAME_SELECT	[IMG_BUTTON_LARK_SELECT]  SELECTボタン
+SYS_HUD_GUIDE_LARK_L_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LEFT_B]  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_L_DETAILES_NEXT	[IMG_BUTTON_A]  つぎへ
+SYS_HUD_GUIDE_LARK_L_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_LARK_L_CANCEL	[IMG_BUTTON_B]  元にもどす
+SYS_HUD_GUIDE_LARK_L_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_L_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_R_CONFIRM	[IMG_BUTTON_LARK_RIGHT_A]  決定
+SYS_HUD_GUIDE_LARK_R_BACK	[IMG_BUTTON_LARK_RIGHT_B]  もどる
+SYS_HUD_GUIDE_LARK_R_DETAILS	[IMG_BUTTON_CLOVER_R]  くわしく
+SYS_HUD_GUIDE_LARK_R_MOVE	[IMG_BUTTON_CLOVER_U]  移動
+SYS_HUD_GUIDE_LARK_R_MOVE2	[IMG_BUTTON_CLOVER_U]  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_R_SORT	[IMG_BUTTON_CLOVER_U]  長押しでソート
+SYS_HUD_GUIDE_LARK_R_PLAY	[IMG_BUTTON_LARK_RIGHT_A]  はじめる
+SYS_HUD_GUIDE_LARK_R_GUIDE	[IMG_BUTTON_CLOVER_R]  操作ガイド
+SYS_HUD_GUIDE_LARK_R_EXCHANGE	[IMG_BUTTON_CLOVER_U]  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_R_VOICE_CHAT	[IMG_BUTTON_CLOVER_R]  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_R_PROMOTION	[IMG_BUTTON_CLOVER_R]  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE	[IMG_BUTTON_CLOVER_D]  中断メニュー
+SYS_HUD_GUIDE_LARK_R_INGAME_START	[IMG_BUTTON_CLOVER_R]  STARTボタン
+SYS_HUD_GUIDE_LARK_R_INGAME_SELECT	[IMG_BUTTON_CLOVER_U]  SELECTボタン
+SYS_HUD_GUIDE_LARK_R_INGAME_QUIT_ONLINE	[IMG_BUTTON_CLOVER_D]  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_R_DETAILES_NEXT	[IMG_BUTTON_LARK_RIGHT_A]  つぎへ
+SYS_HUD_GUIDE_LARK_R_COMMIT	[IMG_BUTTON_CLOVER_U]  確定
+SYS_HUD_GUIDE_LARK_R_CANCEL	[IMG_BUTTON_LARK_RIGHT_B]  元にもどす
+SYS_HUD_GUIDE_LARK_R_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_U]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_R_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_U]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LARK_LR_CONFIRM	[IMG_BUTTON_LARK_RIGHT_A]  決定
+SYS_HUD_GUIDE_LARK_LR_BACK	[IMG_BUTTON_LARK_RIGHT_B]  もどる
+SYS_HUD_GUIDE_LARK_LR_DETAILS	[IMG_BUTTON_LARK_START]  くわしく
+SYS_HUD_GUIDE_LARK_LR_MOVE	[IMG_BUTTON_LARK_SELECT]  移動
+SYS_HUD_GUIDE_LARK_LR_MOVE2	[IMG_BUTTON_LARK_SELECT]  移動　（長押しでソート）
+SYS_HUD_GUIDE_LARK_LR_SORT	[IMG_BUTTON_LARK_SELECT]  長押しでソート
+SYS_HUD_GUIDE_LARK_LR_PLAY	[IMG_BUTTON_LARK_RIGHT_A]  はじめる
+SYS_HUD_GUIDE_LARK_LR_GUIDE	[IMG_BUTTON_LARK_START]  操作ガイド
+SYS_HUD_GUIDE_LARK_LR_EXCHANGE	[IMG_BUTTON_LARK_SELECT]  1P/2P入れ替え
+SYS_HUD_GUIDE_LARK_LR_VOICE_CHAT	[IMG_BUTTON_LARK_START]  ボイスチャットするには？
+SYS_HUD_GUIDE_LARK_LR_PROMOTION	[IMG_BUTTON_LARK_START]  専用コントローラーについて
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE	[IMG_BUTTON_LARK_LEFT_B]  中断メニュー
+SYS_HUD_GUIDE_LARK_LR_INGAME_START	[IMG_BUTTON_LARK_START]  STARTボタン
+SYS_HUD_GUIDE_LARK_LR_INGAME_SELECT	[IMG_BUTTON_LARK_SELECT]  SELECTボタン
+SYS_HUD_GUIDE_LARK_LR_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LEFT_B]  オンラインプレイをやめる
+SYS_HUD_GUIDE_LARK_LR_DETAILES_NEXT	[IMG_BUTTON_LARK_RIGHT_A]  つぎへ
+SYS_HUD_GUIDE_LARK_LR_COMMIT	[IMG_BUTTON_LARK_SELECT]  確定
+SYS_HUD_GUIDE_LARK_LR_CANCEL	[IMG_BUTTON_LARK_RIGHT_B]  元にもどす
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_LARK_SELECT]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_LARK_SELECT]  低遅延通信モードを OFF にする
+SYS_HUD_GUIDE_LUCIA_CONFIRM	[IMG_BUTTON_A]  決定
+SYS_HUD_GUIDE_LUCIA_BACK	[IMG_BUTTON_B]  もどる
+SYS_HUD_GUIDE_LUCIA_DETAILS	[IMG_BUTTON_X]  くわしく
+SYS_HUD_GUIDE_LUCIA_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_LUCIA_MOVE2	[IMG_BUTTON_Y]  移動　（長押しでソート）
+SYS_HUD_GUIDE_LUCIA_SORT	[IMG_BUTTON_Y]  長押しでソート
+SYS_HUD_GUIDE_LUCIA_PLAY	[IMG_BUTTON_A]  はじめる
+SYS_HUD_GUIDE_LUCIA_GUIDE	[IMG_BUTTON_X]  操作ガイド
+SYS_HUD_GUIDE_LUCIA_EXCHANGE	[IMG_BUTTON_Y]  1P/2P入れ替え
+SYS_HUD_GUIDE_LUCIA_VOICE_CHAT	[IMG_BUTTON_X]  ボイスチャットするには？
+SYS_HUD_GUIDE_LUCIA_PROMOTION	[IMG_BUTTON_X]  専用コントローラーについて
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  中断メニュー
+SYS_HUD_GUIDE_LUCIA_INGAME_QUIT_ONLINE	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  オンラインプレイをやめる
+SYS_HUD_GUIDE_LUCIA_DETAILES_NEXT	[IMG_BUTTON_A]  つぎへ
+SYS_HUD_GUIDE_LUCIA_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_LUCIA_CANCEL	[IMG_BUTTON_B]  元にもどす
+SYS_HUD_GUIDE_LUCIA_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  低遅延通信モードを ON にする
+SYS_HUD_GUIDE_LUCIA_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  低遅延通信モードを OFF にする
+SYS_INFO_NICKNAME_OWN	[OWN_NAME]
+SYS_INFO_NICKNAME_HOST	[HOST_NAME]
+SYS_INFO_NICKNAME_GUEST	[GUEST_NAME]
+SYS_INFO_SESSION_PASSWORD	[PASSWORD]
+SYS_INFO_NETWORK_UNSTABLE	「 [IMG_SETTINGS] 設定 」で通信モードを変更できます
+SYS_MENU_ROOT_SESSION_COUNTER	[NUMBER_OF_SESSIONS]
+SYS_MENU_ONLINE_ITEM_SESSION1	[ROOM1]
+SYS_MENU_ONLINE_ITEM_SESSION2	[ROOM2]
+SYS_MENU_ONLINE_ITEM_SESSION3	[ROOM3]
+SYS_MENU_ONLINE_ITEM_SESSION4	[ROOM4]
+SYS_MENU_ONLINE_ITEM_SESSION5	[ROOM5]
+SYS_MENU_ONLINE_ITEM_SESSION6	[ROOM6]
+SYS_MENU_ONLINE_DESC_SESSION_LIST	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_CLOVER_L] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_CLOVER_L] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_LARK_SELECT] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_CLOVER_U] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_LARK_SELECT] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA	一緒に遊ぶフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_INVITE	合流するフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L_INVITE	合流するフレンドを選びます　[IMG_BUTTON_CLOVER_L] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R_INVITE	合流するフレンドを選びます　[IMG_BUTTON_CLOVER_L] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_INVITE	合流するフレンドを選びます　[IMG_BUTTON_LARK_SELECT] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L_INVITE	合流するフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R_INVITE	合流するフレンドを選びます　[IMG_BUTTON_CLOVER_U] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR_INVITE	合流するフレンドを選びます　[IMG_BUTTON_LARK_SELECT] 再検索
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA_INVITE	合流するフレンドを選びます　[IMG_BUTTON_Y] 再検索
+SYS_MENU_DETAILS_DESC_RELEASE_INFO	[DETAILED_COMPANY]　　[DETAILED_RELEASE_YEAR]年発売
+SYS_MENU_DETAILS_DESC_PLAY_INFO_LONG_TIME	プレイ人数：[DETAILED_PLAYERS]人　　プレイ時間：[DETAILED_PLAYTIME]時間[DETAILED_PLAYTIME_MIN]分
+SYS_MENU_DETAILS_DESC_PLAY_INFO_SHORT_TIME	プレイ人数：[DETAILED_PLAYERS]人　　プレイ時間：[DETAILED_PLAYTIME_MIN]分
+SYS_MENU_DETAILS_DESC_PLAY_INFO_NO_TIME	プレイ人数：[DETAILED_PLAYERS]人
+SYS_MENU_DETAIL_PAGE	[DETAIL_NOW_PAGE] / [DETAIL_ALL_PAGE]
+SYS_MENU_SAVESLOT_ITEM_EMPTY	セーブデータ[SAVE_INDEX]
+SYS_MENU_SAVESLOT_ITEM_VALID	セーブデータ[SAVE_INDEX]\n[SAVE_YEAR]/[SAVE_MONTH]/[SAVE_DAY] [SAVE_HOUR]:[SAVE_MINUTE]
+SYS_MENU_SPECIAL2_TEXT	SPECIAL [NUMBER]
+SYS_MENU_FRIENDPRESENCE	プレイ中のゲーム ： [FRIENDPRESENCE_TITLENAME]
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING_TEXT	[GUEST_NAME] との通信が切断されました。\n引き続き遊びながらフレンドを待ちます。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING2_TEXT	[HOST_NAME] との通信が切断されました。
+SYS_NOTIFICATION_UNSTABLE_NETWORK_TEXT	自分と相手との通信環境が悪いため快適にプレイできない可能性があります。\n「 [IMG_SETTINGS_L] 設定 」で通信モードを変更できます。
+SYS_NOTIFICATION_OPERATION_DENIED_TEXT	[HOST_NAME] が操作しています。
+SYS_NOTIFICATION_OPERATION_DENIED2_TEXT	[GUEST_NAME] が操作しています。
+SYS_POPUP_GUIDE_PRO_CONTROLLER_SELECT	カーソルを移動させるには\n[IMG_BUTTON_MINUS] ボタン
+SYS_POPUP_GUIDE_PRO_CONTROLLER_START	ゲームをスタートするには\n[IMG_BUTTON_PLUS] ボタン
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_SELECT	カーソルを移動させるには\n[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL]
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_START	ゲームをスタートするには\n[IMG_BUTTON_MINUS] + [IMG_BUTTON_SR]
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_SELECT	カーソルを移動させるには\n[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL]
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_START	ゲームをスタートするには\n[IMG_BUTTON_PLUS] + [IMG_BUTTON_SR]
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_SELECT	カーソルを移動させるには\n[IMG_BUTTON_LARK_SELECT] ボタン
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_START	ゲームをスタートするには\n[IMG_BUTTON_LARK_START] ボタン
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_SELECT	カーソルを移動させるには\n[IMG_BUTTON_CLOVER_U] ボタン
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_START	ゲームをスタートするには\n[IMG_BUTTON_CLOVER_R] ボタン
+SYS_POPUP_GUIDE_PRO_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]
+SYS_POPUP_GUIDE_JOY_L_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]
+SYS_POPUP_GUIDE_JOY_R_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]
+SYS_POPUP_GUIDE_LARK_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]
+SYS_POPUP_GUIDE_LARK_L_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_LARK_LEFT_B] ボタン
+SYS_POPUP_GUIDE_LARK_R_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_CLOVER_D] ボタン
+SYS_POPUP_GUIDE_LUCIA_PAUSE_MENU	ゲームを中断するには [IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]
+SYS_POPUP_GUIDE_PRO_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで [IMG_BUTTON_Y] ボタン
+SYS_POPUP_GUIDE_JOY_L_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで [IMG_BUTTON_CLOVER_L] ボタン
+SYS_POPUP_GUIDE_JOY_R_SWAP_PLAYERS	1P/2Pの入れ替えは、中断メニューで [IMG_BUTTON_CLOVER_L] ボタン
+SYS_POPUP_GUIDE_FINGER_CURSOR	[IMG_GAMEPAD_STICK_R] でおててカーソル、[IMG_BUTTON_STICK_R] （押し込み）で拍手
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_HOME	HOMEメニューは [IMG_BUTTON_LARK_RT] ボタン
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_CAPTURE	キャプチャーは [IMG_BUTTON_LARK_LT] ボタン
+SYS_POPUP_GUIDE_LARK_R_SYSTEM_BUTTON_HOME	HOMEメニューは [IMG_BUTTON_LARK_RIGHT_DPAD] ボタン
+SYS_POPUP_GUIDE_LARK_L_SYSTEM_BUTTON_CAPTURE	キャプチャーは [IMG_BUTTON_LARK_LEFT_A] ボタン
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_HOME	HOMEメニューは [IMG_BUTTON_LUCIA_ZR] ボタン
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_CAPTURE	キャプチャーは [IMG_BUTTON_LUCIA_ZL] ボタン
+SYS_POPUP_GUIDE_PRO_REWIND	ミスしても大丈夫。 [IMG_BUTTON_ZL] + [IMG_BUTTON_ZR] 長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_JOY_L_REWIND	ミスしても大丈夫。 [IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL] 長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_JOY_R_REWIND	ミスしても大丈夫。 [IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR] 長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_REWIND	ミスしても大丈夫。 [IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT] 長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_L_REWIND	ミスしても大丈夫。 [IMG_BUTTON_LARK_LEFT_B] ボタン長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LARK_R_REWIND	ミスしても大丈夫。 [IMG_BUTTON_CLOVER_D] ボタン長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_POPUP_GUIDE_LUCIA_REWIND	ミスしても大丈夫。 [IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR] 長押しで巻き戻し。\n好きなところからやり直せます。
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LEFT_B]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_CLOVER_D]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LEFT_B]  中断メニュー（長押しで巻き戻し）
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  中断メニュー（長押しで巻き戻し）
+SYS_SORT_HEADING_PLAY_TIME	[VALUE]分
+SYS_SORT_HEADING_DATE_PLAYED_1	[YEAR]/[MONTH]/[DAY]
+SYS_SORT_HEADING_DATE_PLAYED_2	[MONTH]/[DAY]
+SYS_USER_GUIDE_JOY_L_COMBINATION	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL] SELECT    [IMG_BUTTON_MINUS] + [IMG_BUTTON_SR] START
+SYS_USER_GUIDE_JOY_R_COMBINATION	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL] SELECT    [IMG_BUTTON_PLUS] + [IMG_BUTTON_SR] START
+SYS_USER_GUIDE_LARK_COMBINATION	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT] 中断メニュー
+SYS_USER_GUIDE_LUCIA_COMBINATION	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR] 中断メニュー
+SYS_USER_GUIDE_SYSTEM_HOME	[IMG_BUTTON_HOME] HOMEメニュー
+SYS_USER_GUIDE_SYSTEM_CAPTURE	[IMG_BUTTON_CAPTURE] キャプチャー
+SYS_USER_GUIDE_SYSTEM_CAPTURE2	キャプチャー [IMG_BUTTON_CAPTURE]
+titles
+S-2156_j	ボンバザル
+S-2002_j	ラッシング・ビート乱 複製都市
+S-2025_j	ブレス オブ ファイアⅡ 使命の子
+S-2003_j	ブレス オブ ファイア 竜の戦士
+S-2004_j	デモンズブレイゾン 魔界村 紋章編
+S-2026_j	くにおくんのドッジボールだよ全員集合！
+S-2060_j	スーパードンキーコング 2
+S-2061_j	スーパードンキーコング 3
+S-2055_j	スーパードンキーコング
+S-2139_j	対決!!ブラスナンバーズ
+S-2051_j	MOTHER2 ギーグの逆襲
+S-2005_j	F-ZERO
+S-2027_j	ファイアーエムブレム 紋章の謎
+S-2028_j	ファイアーエムブレム 聖戦の系譜
+S-2037_j	牧場物語
+S-2006_j	戦え原始人3 主役はやっぱりJOE&MAC
+S-2169_j	JOE&MAC 戦え原始人
+S-2029_j	星のカービィ スーパーデラックス
+S-2007_j	カービィボウル
+S-2008_j	星のカービィ３
+S-2151_j	マジカルドロップ2
+S-2044_j	マリオのスーパーピクロス
+S-2034_j	パネルでポン
+S-2009_j	パイロットウイングス
+S-2010_j	Pop'nツインビー
+S-2145_j	サイコドリーム
+S-2148_j	真・女神転生Ⅱ
+S-2149_j	真・女神転生if...
+S-2147_j	真・女神転生
+S-2031_j	スターフォックス2
+S-2011_j	スターフォックス
+S-2012_j	ワイルドトラックス
+S-2032_j	すごいへべれけ
+S-2013_j	SUPER E.D.F.
+S-2014_j	スーパーファミリーテニス
+S-2015_j	超魔界村®
+S-2033_j	スーパーマリオコレクション
+S-2016_j	スーパーマリオカート
+S-2016_j-sp1	スーパーマリオカート
+S-2017_j	スーパーマリオワールド
+S-2017_j-sp1	スーパーマリオワールド
+S-2018_j	スーパーメトロイド
+S-2018_j-sp1	スーパーメトロイド
+S-2019_j	スーパーパンチアウト!!
+S-2019_j-sp1	スーパーパンチアウト!!
+S-2020_j	す〜ぱ〜ぷよぷよ通
+S-2021_j	スーパーフォーメーションサッカー
+S-2022_j	スーパーテニス・ワールドサーキット
+S-2142_j	ファイヤー・ファイティング
+S-2146_j	DEAD DANCE
+S-2049_j	ワイルドガンズ
+S-2023_j	スーパーマリオ ヨッシーアイランド
+S-2024_j	ゼルダの伝説 神々のトライフォース

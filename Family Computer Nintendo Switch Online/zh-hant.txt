@@ -1,0 +1,851 @@
+strings
+SYS_DIALOG_GENERIC_BUTTON1	
+SYS_DIALOG_GENERIC_BUTTON2	
+SYS_DIALOG_GENERIC_BUTTON3	
+SYS_DIALOG_GENERIC_ITEM_OK	確定
+SYS_DIALOG_GENERIC_ITEM_YES	是
+SYS_DIALOG_GENERIC_ITEM_NO	否
+SYS_DIALOG_GENERIC_ITEM_CANCEL	退出
+SYS_DIALOG_GENERIC_ITEM_INVITE	邀請朋友
+SYS_DIALOG_GENERIC_ITEM_LATER	稍後
+SYS_DIALOG_SAVE_CONFIRMATION_TEXT	是否要覆寫？
+SYS_DIALOG_SAVE_PROCESSING_TEXT	正在儲存
+SYS_DIALOG_SAVE_COMPLETED_TEXT	已經儲存。
+SYS_DIALOG_SAVE_FAILED_TEXT	儲存失敗。
+SYS_DIALOG_EXCHANGE_PLAYER_1P_TEXT	已經更換1P與2P。\n您成為了1P。\n選單將由繼續操作。
+SYS_DIALOG_EXCHANGE_PLAYER_2P_TEXT	已經更換1P與2P。\n您成為了2P。\n選單將由繼續操作。
+SYS_DIALOG_ONLINE_CONTROLLER_TEXT	可以在線上使用的控制器為1個。\n是否要繼續？
+SYS_DIALOG_ONLINE_CONNECTING_TEXT	正在連接網路。
+SYS_DIALOG_ONLINE_SEARCHING_TEXT	正在尋找在等待的朋友。
+SYS_DIALOG_ONLINE_CREATE_SESSION_TEXT	是否要設定暗號？\n只有知道暗號的朋友可以一起遊玩。
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITHOUT_PASSWORD	沒有暗號
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITH_PASSWORD	 有暗號
+SYS_DIALOG_ONLINE_CREATING_SESSION_TEXT	正在準備線上遊玩。
+SYS_DIALOG_ONLINE_CREATED_SESSION_TEXT	朋友來會合便會通知。\n您可在等待的同時遊玩。
+SYS_DIALOG_ONLINE_CREATED_SESSION_TEXT_INVITE	要立刻邀請朋友嗎？\n如果選擇稍後，可在左側選單邀請。
+SYS_DIALOG_ONLINE_CREATED_SESSION_SORT_TEXT	朋友來會合便會通知。\n您可在等待的同時遊玩。\n作品的排序會暫時更改為「按喜愛順序」。
+SYS_DIALOG_ONLINE_CREATED_SESSION_SORT_TEXT_INVITE	作品的排序會暫時更改為「按喜愛順序」。\n\n要立刻邀請朋友嗎？\n如果選擇稍後，可在左側選單邀請。
+SYS_DIALOG_ONLINE_PASSWORD_MISMATCH_TEXT	暗號錯誤。
+SYS_DIALOG_ONLINE_FAILED_TO_JOIN_TEXT	與朋友會合失敗。
+SYS_DIALOG_ONLINE_WAITING_FOR_GUEST_TEXT	正在與會合。
+SYS_DIALOG_ONLINE_WAITING_FOR_HOST_TEXT	正在與會合。\n（不會更改您的儲存資料）
+SYS_DIALOG_ONLINE_ESTABLISHED_HOST_TEXT	過來遊玩了。\n選單將由操作。\n通訊品質依據您與對方的通訊環境而定。
+SYS_DIALOG_ONLINE_ESTABLISHED_GUEST_TEXT	您來到的地方遊玩。\n選單將由操作。\n通訊品質依據您與對方的通訊環境而定。
+SYS_DIALOG_QUIT_ONLINE_PLAY_TEXT	將退出線上遊玩。\n是否確定？
+SYS_DIALOG_DURING_GUEST_OPERATION_TEXT	正在操作。
+SYS_DIALOG_DURING_HOST_OPERATION_TEXT	正在操作。
+SYS_DIALOG_LEAVING_ONLINE_PLAY_TEXT	正在結束線上遊玩。
+SYS_DIALOG_NEW_ARRIVAL_INFORMATION_TEXT	新增了作品。
+SYS_DIALOG_ERROR_EMULATOR_CRASHED_TEXT	遊戲中發生了錯誤。
+SYS_DIALOG_ONLINE_PAUSE_ON_DISCONNECT_TEXT	已經與切斷通訊。\n遊戲將無法繼續。\n只允許隨時隨地儲存。
+SYS_DIALOG_ONLINE_TITLE_PROHIBITED_TEXT	無法選擇此作品。
+SYS_DIALOG_NETPLAY_TO_OPTIONAL_MODE_TEXT	已經開啟低延遲通訊模式。\n雖然線上遊玩時的操作延遲現象會減緩，\n但是可能會影響到聲音和圖像。\n（不會儲存此設定）
+SYS_DIALOG_NETPLAY_TO_PRIMARY_MODE_TEXT	已經關閉低延遲通訊模式。\n（不會儲存此設定）
+SYS_DIALOG_PROMOTION_01_INFO_TEXT	通知
+SYS_DIALOG_PROMOTION_02_INFO_TEXT	通知
+SYS_DIALOG_PROMOTION_01_MAIN_TITLE	Nintendo Switch Online加入者專屬的\nFamily Computer控制器已發售
+SYS_DIALOG_PROMOTION_02_MAIN_TITLE	Nintendo Switch Online加入者專屬的\nSuper Famicom控制器已發售
+SYS_DIALOG_PROMOTION_03_MAIN_TITLE	超級瑪利歐兄弟\n35週年特別發布
+SYS_DIALOG_PROMOTION_01_MAIN_TEXT	外形、大小完全重現Famicom控制器的「Family Computer控制器」。\n讓你能以那時的感覺遊玩《Family Computer Nintendo Switch Online》。
+SYS_DIALOG_PROMOTION_02_MAIN_TEXT	外形、大小完全重現Super Famicom控制器的「Super Famicom控制器」。\n讓你能以那時的感覺遊玩《Super Famicom Nintendo Switch Online》。
+SYS_DIALOG_PROMOTION_03_MAIN_TEXT	1985年9月13日發售的《超級瑪利歐兄弟》，在2020年迎接35週年，\n為配合這個重要時刻，將發布《超級瑪利歐收藏輯》。\n還請品味畫面、聲音的品質比起Family Computer時更加提升的\n《超級瑪利歐兄弟》《超級瑪利歐兄弟2》《超級瑪利歐兄弟3》\n《超級瑪利歐兄弟USA》。
+SYS_DIALOG_PROMOTION_01_SUB_TITLE	前往購買
+SYS_DIALOG_PROMOTION_01_SUB_TEXT	※未在部分國家／地區推出。\n詳情請查閱任天堂官網。
+SYS_DIALOG_PROMOTION_02_SUB_TEXT	※未在部分國家／地區推出。\n詳情請查閱任天堂官網。
+SYS_DIALOG_PROMOTION_03_SUB_TEXT	在任天堂官網上有超級瑪利歐兄弟35週年相關新作軟體和促銷資訊等介紹。
+SYS_HUD_GUIDE_PRO_CONFIRM	  確定
+SYS_HUD_GUIDE_PRO_BACK	  返回
+SYS_HUD_GUIDE_PRO_DETAILS	  詳情
+SYS_HUD_GUIDE_PRO_MOVE	  移動
+SYS_HUD_GUIDE_PRO_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_PRO_SORT	  長按則排序
+SYS_HUD_GUIDE_PRO_PLAY	  開始
+SYS_HUD_GUIDE_PRO_INVITE	  邀請朋友
+SYS_HUD_GUIDE_PRO_Invitation	  邀請朋友
+SYS_HUD_GUIDE_PRO_GUIDE	  操作指南
+SYS_HUD_GUIDE_PRO_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_PRO_VOICE_CHAT	  如何語音聊天？
+SYS_HUD_GUIDE_PRO_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE	 +   中斷選單
+SYS_HUD_GUIDE_PRO_INGAME_START	  START鍵
+SYS_HUD_GUIDE_PRO_INGAME_SELECT	  SELECT鍵
+SYS_HUD_GUIDE_PRO_INGAME_QUIT_ONLINE	 +   退出線上遊玩
+SYS_HUD_GUIDE_PRO_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_PRO_COMMIT	  確定
+SYS_HUD_GUIDE_PRO_CANCEL	  復原
+SYS_HUD_GUIDE_PRO_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_PRO_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_JOY_L_CONFIRM	  確定
+SYS_HUD_GUIDE_JOY_R_CONFIRM	  確定
+SYS_HUD_GUIDE_JOY_L_BACK	  返回
+SYS_HUD_GUIDE_JOY_R_BACK	  返回
+SYS_HUD_GUIDE_JOY_L_DETAILS	  詳情
+SYS_HUD_GUIDE_JOY_R_DETAILS	  詳情
+SYS_HUD_GUIDE_JOY_L_MOVE	  移動
+SYS_HUD_GUIDE_JOY_L_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_JOY_L_SORT	  長按則排序
+SYS_HUD_GUIDE_JOY_R_MOVE	  移動
+SYS_HUD_GUIDE_JOY_R_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_JOY_R_SORT	  長按則排序
+SYS_HUD_GUIDE_JOY_L_PLAY	  開始
+SYS_HUD_GUIDE_JOY_R_PLAY	  開始
+SYS_HUD_GUIDE_JOY_L_GUIDE	  操作指南
+SYS_HUD_GUIDE_JOY_R_GUIDE	  操作指南
+SYS_HUD_GUIDE_JOY_L_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_JOY_R_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_JOY_L_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_JOY_R_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_JOY_L_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_JOY_R_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE	 +   中斷選單
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE	 +   中斷選單
+SYS_HUD_GUIDE_JOY_L_INGAME_START	 +   START鍵
+SYS_HUD_GUIDE_JOY_R_INGAME_START	 +   START鍵
+SYS_HUD_GUIDE_JOY_L_INGAME_SELECT	 +   SELECT鍵
+SYS_HUD_GUIDE_JOY_R_INGAME_SELECT	 +   SELECT鍵
+SYS_HUD_GUIDE_JOY_L_INGAME_QUIT_ONLINE	 +   退出線上遊玩
+SYS_HUD_GUIDE_JOY_R_INGAME_QUIT_ONLINE	 +   退出線上遊玩
+SYS_HUD_GUIDE_JOY_L_DETAILS_NEXT	  繼續
+SYS_HUD_GUIDE_JOY_R_DETAILS_NEXT	  繼續
+SYS_HUD_GUIDE_JOY_L_COMMIT	  確定
+SYS_HUD_GUIDE_JOY_R_COMMIT	  確定
+SYS_HUD_GUIDE_JOY_L_CANCEL	  復原
+SYS_HUD_GUIDE_JOY_R_CANCEL	  復原
+SYS_HUD_GUIDE_JOY_L_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_JOY_R_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_JOY_L_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_JOY_R_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_HOME	  HOME選單
+SYS_HUD_GUIDE_LARK_HOME2	 : 
+SYS_HUD_GUIDE_LARK_R_HOME	  HOME選單
+SYS_HUD_GUIDE_LARK_R_HOME2	 : 
+SYS_HUD_GUIDE_LUCIA_HOME	  HOME選單
+SYS_HUD_GUIDE_LUCIA_HOME2	 : 
+SYS_HUD_GUIDE_LARK_CAPTURE	  拍攝
+SYS_HUD_GUIDE_LARK_CAPTURE2	 : 
+SYS_HUD_GUIDE_LARK_L_CAPTURE	  拍攝
+SYS_HUD_GUIDE_LARK_L_CAPTURE2	 : 
+SYS_HUD_GUIDE_LUCIA_CAPTURE	  拍攝
+SYS_HUD_GUIDE_LUCIA_CAPTURE2	 : 
+SYS_HUD_GUIDE_LARK_CONFIRM	  確定
+SYS_HUD_GUIDE_LARK_BACK	  返回
+SYS_HUD_GUIDE_LARK_DETAILS	  詳情
+SYS_HUD_GUIDE_LARK_MOVE	  移動
+SYS_HUD_GUIDE_LARK_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_SORT	  長按則排序
+SYS_HUD_GUIDE_LARK_PLAY	  開始
+SYS_HUD_GUIDE_LARK_GUIDE	  操作指南
+SYS_HUD_GUIDE_LARK_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_LARK_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE	 +   中斷選單
+SYS_HUD_GUIDE_LARK_INGAME_QUIT_ONLINE	 +   退出線上遊玩
+SYS_HUD_GUIDE_LARK_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_LARK_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_CANCEL	  復原
+SYS_HUD_GUIDE_LARK_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_L_CONFIRM	  確定
+SYS_HUD_GUIDE_LARK_L_BACK	  返回
+SYS_HUD_GUIDE_LARK_L_DETAILS	  詳情
+SYS_HUD_GUIDE_LARK_L_MOVE	  移動
+SYS_HUD_GUIDE_LARK_L_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_L_SORT	  長按則排序
+SYS_HUD_GUIDE_LARK_L_PLAY	  開始
+SYS_HUD_GUIDE_LARK_L_GUIDE	  操作指南
+SYS_HUD_GUIDE_LARK_L_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_LARK_L_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_L_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE	  中斷選單
+SYS_HUD_GUIDE_LARK_L_INGAME_START	  START鍵
+SYS_HUD_GUIDE_LARK_L_INGAME_SELECT	  SELECT鍵
+SYS_HUD_GUIDE_LARK_L_INGAME_QUIT_ONLINE	  退出線上遊玩
+SYS_HUD_GUIDE_LARK_L_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_LARK_L_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_L_CANCEL	  復原
+SYS_HUD_GUIDE_LARK_L_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_L_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_R_CONFIRM	  確定
+SYS_HUD_GUIDE_LARK_R_BACK	  返回
+SYS_HUD_GUIDE_LARK_R_DETAILS	  詳情
+SYS_HUD_GUIDE_LARK_R_MOVE	  移動
+SYS_HUD_GUIDE_LARK_R_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_R_SORT	  長按則排序
+SYS_HUD_GUIDE_LARK_R_PLAY	  開始
+SYS_HUD_GUIDE_LARK_R_GUIDE	  操作指南
+SYS_HUD_GUIDE_LARK_R_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_LARK_R_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_R_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE	  中斷選單
+SYS_HUD_GUIDE_LARK_R_INGAME_START	  START鍵
+SYS_HUD_GUIDE_LARK_R_INGAME_SELECT	  SELECT鍵
+SYS_HUD_GUIDE_LARK_R_INGAME_QUIT_ONLINE	  退出線上遊玩
+SYS_HUD_GUIDE_LARK_R_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_LARK_R_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_R_CANCEL	  復原
+SYS_HUD_GUIDE_LARK_R_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_R_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_LR_CONFIRM	  確定
+SYS_HUD_GUIDE_LARK_LR_BACK	  返回
+SYS_HUD_GUIDE_LARK_LR_DETAILS	  詳情
+SYS_HUD_GUIDE_LARK_LR_MOVE	  移動
+SYS_HUD_GUIDE_LARK_LR_MOVE2	  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_LR_SORT	  長按則排序
+SYS_HUD_GUIDE_LARK_LR_PLAY	  開始
+SYS_HUD_GUIDE_LARK_LR_GUIDE	  操作指南
+SYS_HUD_GUIDE_LARK_LR_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_LARK_LR_VOICE_CHAT	  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_LR_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE	  中斷選單
+SYS_HUD_GUIDE_LARK_LR_INGAME_START	  START鍵
+SYS_HUD_GUIDE_LARK_LR_INGAME_SELECT	  SELECT鍵
+SYS_HUD_GUIDE_LARK_LR_INGAME_QUIT_ONLINE	  退出線上遊玩
+SYS_HUD_GUIDE_LARK_LR_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_LARK_LR_COMMIT	  確定
+SYS_HUD_GUIDE_LARK_LR_CANCEL	  復原
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LUCIA_CONFIRM	  確定
+SYS_HUD_GUIDE_LUCIA_BACK	  返回
+SYS_HUD_GUIDE_LUCIA_DETAILS	  詳情
+SYS_HUD_GUIDE_LUCIA_MOVE	  移動
+SYS_HUD_GUIDE_LUCIA_MOVE2	  移動 （長按則排序）
+SYS_HUD_GUIDE_LUCIA_SORT	  長按則排序
+SYS_HUD_GUIDE_LUCIA_PLAY	  開始
+SYS_HUD_GUIDE_LUCIA_GUIDE	  操作指南
+SYS_HUD_GUIDE_LUCIA_EXCHANGE	  更換1P/2P
+SYS_HUD_GUIDE_LUCIA_VOICE_CHAT	  如何語音聊天？
+SYS_HUD_GUIDE_LUCIA_PROMOTION	  關於專用控制器
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE	 +   中斷選單
+SYS_HUD_GUIDE_LUCIA_INGAME_QUIT_ONLINE	 +   退出線上遊玩
+SYS_HUD_GUIDE_LUCIA_DETAILES_NEXT	  繼續
+SYS_HUD_GUIDE_LUCIA_COMMIT	  確定
+SYS_HUD_GUIDE_LUCIA_CANCEL	  復原
+SYS_HUD_GUIDE_LUCIA_NETPLAY_OPTIONAL_MODE	  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LUCIA_NETPLAY_PRIMARY_MODE	  關閉低延遲通訊模式
+SYS_INFO_NICKNAME_OWN	
+SYS_INFO_NICKNAME_HOST	
+SYS_INFO_NICKNAME_GUEST	
+SYS_INFO_ROLE_PLAYER1	1P
+SYS_INFO_ROLE_PLAYER2	2P
+SYS_INFO_SESSION_PASSWORD	
+SYS_INFO_NETWORK_UNSTABLE	您可以在「 設定」更改通訊模式
+SYS_MENU_ROOT_ITEM_ONE_PLAYER	單人遊玩
+SYS_MENU_ROOT_ITEM_TWO_PLAYERS	雙人遊玩
+SYS_MENU_ROOT_ITEM_ONLINE_PLAY	線上遊玩
+SYS_MENU_ROOT_ITEM_STOP_ONLINE_PLAY	退出線上遊玩
+SYS_MENU_ROOT_ITEM_SETTINGS	設定
+SYS_MENU_ROOT_ITEM_INVITE	邀請朋友
+SYS_MENU_ROOT_SESSION_COUNTER	
+SYS_MENU_ONLINE_GUIDE_SUBJECT	線上遊玩
+SYS_MENU_ONLINE_GUIDE_DESC1	＊可以在線上和朋友兩個人一起遊玩。\n\n＊可以先獨自遊玩並等待朋友上線。\n\n＊有智慧型手機應用程式「Nintendo Switch Online」\n　便可以使用語音聊天。
+SYS_MENU_ONLINE_ITEM_CREATE_SESSION	遊玩並等待
+SYS_MENU_ONLINE_ITEM_SESSION1	
+SYS_MENU_ONLINE_ITEM_SESSION2	
+SYS_MENU_ONLINE_ITEM_SESSION3	
+SYS_MENU_ONLINE_ITEM_SESSION4	
+SYS_MENU_ONLINE_ITEM_SESSION5	
+SYS_MENU_ONLINE_ITEM_SESSION6	
+SYS_MENU_ONLINE_ITEM_PLAYING	正在遊玩
+SYS_MENU_ONLINE_DESC_CREATE_SESSION	獨自遊玩並等待朋友
+SYS_MENU_ONLINE_DESC_CREATE_SESSION_INVITE	遊玩並等待朋友\n也可以邀請朋友
+SYS_MENU_ONLINE_DESC_SESSION_LIST	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA	選擇要一起遊玩的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA_INVITE	選擇要會合的朋友　 重新搜尋
+SYS_MENU_ONLINE_NOTICE_NOT_FOUND	沒有可以一起遊玩的朋友
+SYS_MENU_ONLINE_NOTICE_NOT_FOUND_INVITE	沒有一起遊玩的朋友
+SYS_MENU_ONLINE_KEYBOARD_HEADER	請輸入暗號（3位數）
+SYS_MENU_ONLINE_KEYBOARD_GUIDE	3位數的數字
+SYS_MENU_SETTINGS_ITEM_4_3	4:3
+SYS_MENU_SETTINGS_ITEM_PIXEL_PERFECT	原始比例
+SYS_MENU_SETTINGS_ITEM_CRT	映像管電視
+SYS_MENU_SETTINGS_DESC_GAME_SCREEN	遊戲畫面
+SYS_MENU_SETTINGS_DESC_GUIDE_DISPLAY	遊戲中的按鍵定義顯示
+SYS_MENU_SETTINGS_ITEM_GUIDE_DISPLAY	顯示
+SYS_MENU_PAUSE_ITEM_CONTINUE	繼續
+SYS_MENU_PAUSE_ITEM_LOAD	載入
+SYS_MENU_PAUSE_ITEM_SAVE	隨時隨地儲存
+SYS_MENU_PAUSE_ITEM_RESET	重置
+SYS_MENU_PAUSE_ITEM_RETURN_TO_MENU	返回選擇作品畫面
+SYS_MENU_DETAILS_DESC_RELEASE_INFO	　　年發售
+SYS_MENU_DETAILS_DESC_PLAY_INFO_LONG_TIME	遊玩人數：人　　遊玩時間：小時分鐘
+SYS_MENU_DETAILS_DESC_PLAY_INFO_SHORT_TIME	遊玩人數：人　　遊玩時間：分鐘
+SYS_MENU_DETAILS_DESC_PLAY_INFO_NO_TIME	遊玩人數：人
+SYS_MENU_DETAIL_PAGE	 / 
+SYS_MENU_SAVESLOT_NO_IMAGE	No Data
+SYS_MENU_SAVESLOT_ITEM_EMPTY	儲存資料
+SYS_MENU_SAVESLOT_ITEM_VALID	儲存資料\n// :
+SYS_MENU_SORT_INDEX	●
+SYS_MENU_SORT_INDEX_00	〇
+SYS_MENU_SPECIAL_EMBLEM	SP
+SYS_MENU_SPECIAL_TEXT	SPECIAL
+SYS_MENU_SPECIAL2_TEXT	SPECIAL
+SYS_MENU_NEW_GAME_TEXT	NEW
+SYS_MENU_FRIENDPRESENCE	正在遊玩的遊戲：
+SYS_NOTIFICATION_QUIT_ONLINE_PLAY_TEXT	已退出線上遊玩。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING_TEXT	已與切斷通訊。\n將繼續遊玩並等待朋友。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING2_TEXT	已與切斷通訊。
+SYS_NOTIFICATION_UNSTABLE_NETWORK_TEXT	由於您與對方的通訊環境不佳，可能無法順暢遊玩。\n您可以在「 設定」更改通訊模式。
+SYS_NOTIFICATION_UNSTABLE_NETWORK2_TEXT	由於您與對方的通訊環境不佳，可能無法順暢遊玩。
+SYS_NOTIFICATION_CONNECTED_CONTROLLER_NUM_1_TEXT	連接的控制器已變成1個。
+SYS_NOTIFICATION_CONNECTED_CONTROLLER_NUM_2_TEXT	連接的控制器已變成2個。
+SYS_NOTIFICATION_OPERATION_DENIED_TEXT	正在操作。
+SYS_NOTIFICATION_OPERATION_DENIED2_TEXT	正在操作。
+SYS_NOTIFICATION_DENIED_MOVE_OPERATION_TEXT	無法移動作品。\n必須將排序更改成「按喜愛順序」。
+SYS_POPUP_GUIDE_PRO_CONTROLLER_SELECT	按鍵移動游標
+SYS_POPUP_GUIDE_PRO_CONTROLLER_START	按鍵開始遊戲
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_SELECT	 + 移動游標
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_START	 + 開始遊戲
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_SELECT	 + 移動游標
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_START	 + 開始遊戲
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_SELECT	按鍵移動游標
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_START	按鍵開始遊戲
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_SELECT	按鍵移動游標
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_START	按鍵開始遊戲
+SYS_POPUP_GUIDE_PRO_PAUSE_MENU	 + 中斷遊戲
+SYS_POPUP_GUIDE_JOY_L_PAUSE_MENU	 + 中斷遊戲
+SYS_POPUP_GUIDE_JOY_R_PAUSE_MENU	 + 中斷遊戲
+SYS_POPUP_GUIDE_LARK_PAUSE_MENU	 + 中斷遊戲
+SYS_POPUP_GUIDE_LARK_L_PAUSE_MENU	按鍵中斷遊戲
+SYS_POPUP_GUIDE_LARK_R_PAUSE_MENU	按鍵中斷遊戲
+SYS_POPUP_GUIDE_LUCIA_PAUSE_MENU	 + 中斷遊戲
+SYS_POPUP_GUIDE_PRO_SWAP_PLAYERS	在中斷選單按鍵可更換1P/2P
+SYS_POPUP_GUIDE_JOY_L_SWAP_PLAYERS	在中斷選單按鍵可更換1P/2P
+SYS_POPUP_GUIDE_JOY_R_SWAP_PLAYERS	在中斷選單按鍵可更換1P/2P
+SYS_POPUP_GUIDE_LARK_SWAP_PLAYERS	要更換1P/2P請到中斷選單。
+SYS_POPUP_GUIDE_FINGER_CURSOR	為手掌游標，按為拍手
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_HOME	HOME選單按鍵
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_CAPTURE	拍攝按鍵
+SYS_POPUP_GUIDE_LARK_R_SYSTEM_BUTTON_HOME	HOME選單按鍵
+SYS_POPUP_GUIDE_LARK_L_SYSTEM_BUTTON_CAPTURE	拍攝按鍵
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_HOME	HOME選單按鍵
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_CAPTURE	拍攝按鍵
+SYS_POPUP_GUIDE_PRO_REWIND	失誤也沒有關係。長按 + 就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_JOY_L_REWIND	失誤也沒有關係。長按 + 就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_JOY_R_REWIND	失誤也沒有關係。長按 + 就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_REWIND	失誤也沒有關係。長按 + 就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_L_REWIND	失誤也沒有關係。長按就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_R_REWIND	失誤也沒有關係。長按就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LUCIA_REWIND	失誤也沒有關係。長按 + 就會倒回。\n可以在看中的地方重來。
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE_WITH_REWIND	 +   中斷選單（長按則倒回）
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE_WITH_REWIND	 +   中斷選單（長按則倒回）
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE_WITH_REWIND	 +   中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE_WITH_REWIND	 +   中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE_WITH_REWIND	  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE_WITH_REWIND	  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE_WITH_REWIND	  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE_WITH_REWIND	 +   中斷選單（長按則倒回）
+SYS_SORT_ORDER_CUSTOM	按喜愛順序
+SYS_SORT_ORDER_RELEASE_DATE	按發售日順序
+SYS_SORT_ORDER_TITLE_NAME	按作品名稱順序
+SYS_SORT_ORDER_PUBLISHER	按發行商順序
+SYS_SORT_ORDER_2PLAYER_GAMES	按2P同時遊玩順序
+SYS_SORT_ORDER_DELIVERY_DATE	按發布順序
+SYS_SORT_ORDER_DESC_TEXT	更改作品的排序方式
+SYS_SORT_ORDER_NAME_CUSTOM	按喜愛順序
+SYS_SORT_ORDER_NAME_ALPHABETICAL	按日語順序
+SYS_SORT_ORDER_NAME_RELEASE_DATE	按發售順序
+SYS_SORT_ORDER_NAME_RECENTLY_PLAYED	按遊玩先後順序
+SYS_SORT_ORDER_NAME_PLAY_TIME	按遊玩長度順序
+SYS_SORT_HEADING_PLAY_TIME	分鐘
+SYS_SORT_HEADING_PLAY_TIME_2	不到1分鐘
+SYS_SORT_HEADING_DATE_PLAYED_1	//
+SYS_SORT_HEADING_DATE_PLAYED_2	/
+SYS_USER_GUIDE_CONTROLLER_A	A
+SYS_USER_GUIDE_CONTROLLER_B	B
+SYS_USER_GUIDE_CONTROLLER_X	X
+SYS_USER_GUIDE_CONTROLLER_Y	Y
+SYS_USER_GUIDE_CONTROLLER_L	L
+SYS_USER_GUIDE_CONTROLLER_R	R
+SYS_USER_GUIDE_CONTROLLER_DPAD	十字鍵
+SYS_USER_GUIDE_CONTROLLER_SELECT	SELECT
+SYS_USER_GUIDE_CONTROLLER__START	START
+SYS_USER_GUIDE_PRO_POINTER	手掌游標\n（按下即拍手）\n※限線上遊玩時
+SYS_USER_GUIDE_JOY_L_COMBINATION	 +  SELECT     +  START
+SYS_USER_GUIDE_JOY_R_COMBINATION	 +  SELECT     +  START
+SYS_USER_GUIDE_LARK_COMBINATION	 +  中斷選單
+SYS_USER_GUIDE_LUCIA_COMBINATION	 +  中斷選單
+SYS_USER_GUIDE_PAUSE_MENU	中斷選單
+SYS_USER_GUIDE_SYSTEM_HOME	 HOME選單
+SYS_USER_GUIDE_SYSTEM_CAPTURE	 拍攝
+SYS_USER_GUIDE_SYSTEM_CAPTURE2	拍攝 
+SYS_USER_GUIDE_MICROPHONE	麥克風
+SYS_USER_GUIDE_MICROPHONE_VOLUME	麥克風音量
+SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED	不能以此握持方式\n使用麥克風
+META_TITLE_COMMENT_CLV_P_HAAWJ	將敵人撞個四腳朝天，再踢下去。瑪利歐系列的第1作。\n\n本作品於1983年發售，\n為Family Computer中的一款動作遊戲。\n玩家藉由操作瑪利歐及路易吉，由下方出拳，\n將從水管中出現的敵人撞個四腳朝天，\n再趁這個時候將其踢下去消滅。\n在2人遊玩中，有很多玩法可以一起同樂，\n像是彼此合作打倒敵人或是彼此互相妨礙等。
+META_TITLE_COMMENT_CLV_P_HAAAJ	為拯救被抓走的碧姬公主，瑪利歐在蘑菇王國大冒險。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n是超級瑪利歐系列的第一彈。\n跳躍、奔跑、投擲、敲擊及破壞磚塊……\n為了救出被大魔王庫巴抓走的碧姬公主，\n瑪利歐及路易吉展開了一場動作豐富的大冒險。\n找尋秘技及隱藏道具，也是一種有趣的玩法。
+META_TITLE_COMMENT_CLV_P_HAACJ	奪回被大魔王庫巴及Koopalings 7兄弟奪走的魔法杖。\n瑪利歐及路易吉的第3次冒險。\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n為了奪回被大魔王庫巴及Koopalings奪走的7支魔法杖，\n瑪利歐及路易吉展開了一場蘑菇世界的冒險。\n在地圖上會顯示由庫巴手下看守的堡壘及能獲得道具的奇諾比奧的家。\n一面變身為能在空中飛行的「尾巴瑪利歐」或擅長游泳的「青蛙瑪利歐」，\n一面朝8個世界邁進。
+META_TITLE_COMMENT_CLV_P_HAANJ	圍繞神秘之力——三角神力的故事\n\n本作品於1986年發售，\n為Family Computer Disk System中的一款動作冒險遊戲。\n是充滿各種動作及解謎要素的《薩爾達傳說》系列第1彈。\n為了恢復被大魔王加儂所占領的王國之和平並奪回薩爾達公主，\n主角林克展開了尋找分裂成8塊三角神力碎片的冒險。\n本遊戲過關之後，還能遊玩難易度更高的「Master Quest」。
+META_TITLE_COMMENT_CLV_P_HAAEJ	跳越障礙物，從森喜剛手中救出Lady。\n\n本作品於1983年發售，\n為Family Computer中的一款動作遊戲。\n為了拯救被森喜剛抓走的Lady，瑪利歐進入施工中的大樓裡。\n一面躲避森喜剛投擲過來的木桶並用鐵鎚打倒Fireball，\n一面朝向畫面上方的Lady前進。\n在第3面，會與森喜剛進行對決。
+META_TITLE_COMMENT_CLV_P_HAAHJ	操控摩托車，越過泥濘處及障礙物，朝終點前進。\n\n本作品於1984年發售，\n為Family Computer中的一款摩托車競賽遊戲。\n玩家要操控摩托車在設有泥濘處及障礙物的賽道上奔馳。\n使用一定時間後就能加速的渦輪來超過對手的車，\n或利用跳台跳越障礙物，目標是要刷新最佳紀錄。\n在「設計模式」中，能自由配置泥濘處、障礙物及跳台等物件，\n創造出獨特的賽道來競賽。
+META_TITLE_COMMENT_CLV_P_HAARJ	靠著氣球飄啊飄，用身體撞擊敵人！\n\n本作品於1985年發售，為Family Computer中的一款動作遊戲。\n這個遊戲是要靠著氣球飄在空中，\n以身體撞破敵人的氣球並將其打倒。\n一旦產生慣性就會停不下來，\n這種飄啊飄的獨特操作感正是這個遊戲的特徵。\n遊戲有兩種模式，\n一種是打倒畫面中的敵人就過關的「普通模式」，\n另一種是在橫向移動的關卡中躲避雷電前進的「BALLOON TRIP模式」。
+META_TITLE_COMMENT_CLV_P_HAAUJ	手握鐵鎚，攀登32種險峻冰山的山頂。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\nPopo及Nana藉由突破滑動磚塊及移動雲朵等機關來攀登冰山，\n一面使用鐵槌敲開磚塊並趕走擋路的敵人，\n一面朝著山頂跳躍。\n在2-PLAYER GAME中，有兩種遊玩方式，\n一種是兩人感情融洽互相幫忙，\n另一種是兩人感情崩壞互相傷害。
+META_TITLE_COMMENT_CLV_P_HADPJ	在Famicom中首度登場的棒球遊戲。\n\n本作品於1983年發售，\n為Family Computer中的一款運動遊戲。\n基本上，進攻時操控打者（Batter），防守時操控投手（Pitcher），\n目標是要贏得比賽勝利。\n由於投手能投出4種不同的球種，因此操控打者時，\n看清楚對方投出的是哪一種球正是致勝的關鍵。\n另外還可以在6隊中各選出1隊進行雙人對戰。
+META_TITLE_COMMENT_CLV_P_HACRJ	運用盤球或傳球進攻，看準方位射門得分！\n\n本作品於1985年發售，為Family Computer中的一款運動遊戲。\n操作簡單卻能享受比賽白熱化的樂趣。\n1人遊玩時，可以選擇強度符合自己等級的對戰對手。\n2人遊玩時，可以選擇彼此喜歡的隊伍對戰。\n進攻時，要精準地連續傳球，有效地進攻至對方球門前，\n看清楚守門員的位置再射門。\n防守時，不要一直操控同一位選手，\n切換不同的選手來防守吧！
+META_TITLE_COMMENT_CLV_P_HACYJ	連續對打、擊出殺球、贏得勝利。\n\n本作品於1984年發售，\n為Family Computer中的一款運動遊戲。\n玩家化身為遊戲中的網球選手，在發球或連續對打時，\n抓準時機按下按鍵將球打回去以累積得分。\n依照球及選手的位置關係及所按按鍵的不同，\n能變化出「高速發球」、「殺球」、「截擊」、「高吊擊球」等特殊擊球。\n不論怎樣變化的擊球，勝利的關鍵都在於把球打到對手接不到的位置。\n在2人遊玩中，能選擇合作遊玩的雙打模式。
+META_TITLE_COMMENT_CLV_P_HADLJ	用五花八門的摔角招式打敗對手！\n\n本作品於1986年發售，\n為Family Computer Disk System中的一款運動遊戲。\n與對手一搭起手來就要抓準時機按A或B鍵。\n搭配十字鍵能使出多種招式。\n因為抓時機是重要關鍵，一定要好好地熟練。\n「1 PLAYER GAME」為5分鐘單局比賽，最後目標是獲得冠軍。\n如果連續10次衛冕冠軍，就可以和Great Puma交手。\n可以兩個人遊玩的「2 PLAYER GAME」是不限時間的3局比賽，\n先得到兩勝的人便是贏家。
+META_TITLE_COMMENT_CLV_P_HACTJ	攻守交換目不暇給，冰上曲棍球魅力再現。\n\n本作品於1988年發售，\n為Family Computer Disk System中的一款運動遊戲。\n冰上曲棍球是一種兩個隊伍在冰場上相互爭奪冰球的遊戲。\n將冰球精準打入對方球門即得分。3局結束時，得分最多的隊伍獲勝。\n進攻時，善用傳球等待時機，瞄準球門再擊出。\n防守時，一面切換球員，一面加強攻擊或防守，找尋時機奪回冰球。\n冰場上攻守不停交換的趣味再度呈現。\n2人遊玩時，可以享受分隊對戰的樂趣。
+META_TITLE_COMMENT_CLV_P_HAAXJ	把膠囊排列堆疊起來，消滅病毒。\n\n本作品於1990年發售，\n為Family Computer中的一款動作益智遊戲。\n瑪利歐醫生的研究瓶中出現了3種病毒，\n將膠囊一顆一顆投進去，就可以消滅病毒。\n當同樣顏色的膠囊4個以上橫向或縱向排列時，病毒就會消滅。\n一面旋轉或移動膠囊，一面堆疊起來，\n當瓶中病毒全數消滅即可過關。病毒的數量及降落的速度可自行設定，\n除了可從適合自己的等級開始遊玩外，還能在2人遊玩中享受對戰的樂趣。
+META_TITLE_COMMENT_CLV_P_HAAYJ	夾住很多角色，耀西生出來就得高分。\n\n本作品於1991年發售，\n為Family Computer中的一款動作益智遊戲。\n移動位於畫面下方的瑪利歐，\n用盤子分別接住從上方掉落下來的栗寶寶及害羞幽靈等角色，\n上下兩個一樣的話，就能將其消除。\n將兩種蛋殼——「上蛋殼」及「下蛋殼」組合起來，\n耀西就會從中生出來，同時能獲得高分。
+META_TITLE_COMMENT_CLV_P_HABRJ	超時空戰鬥機Vic Viper將為了拯救行星Gradius而飛向宇宙。\n\n本作品於1986年發售，\n為Family Computer中的一款射擊遊戲。\n玩家要操作超時空戰鬥機Vic Viper和亞時空星團Bacterion交戰，\n以破壞敵方要塞Xaerous，拯救行星Gradius。\n在遊戲中，每次拿到紅色能量包就會改變強化的種類，\n例如提升移動速度的「SPEED UP」或雷射武裝的「LASER」等等。
+META_TITLE_COMMENT_CLV_P_HABCJ	要從大魔王手中救出公主的《魔界村》系列第1彈。\n\n本作品於1986年發售，\n為Family Computer中的一款動作遊戲。\n騎士亞瑟將在魔界闖蕩奮戰，以救出被擄走的公主。\n打倒接連出現的敵人突破6道關卡便能抵達大魔王面前。\n在闖關過程中會獲得能連射的飛刀或貫穿敵人的斧頭等各種武器。
+META_TITLE_COMMENT_CLV_P_HACDJ	火爆肉搏，冷靜應對，這就是美式足球。\n\n本作品於1990年發售，\n為Family Computer中的一款運動遊戲。\n進攻時可以從4種陣形中選擇要用的陣形，\n按A鍵可以選擇接球員，按B鍵傳球。\n防守時要預測對手的陣形，\n並在準備開始時以A鍵操作選定的球員。按B鍵可以飛撲。\n不管是進攻或防守，撞到對手的狀態下連按B鍵可以甩開對手。\n踢球時要用射球量表調整適當飛行距離。\n遊戲中也可以雙人對戰。
+META_TITLE_COMMENT_CLV_P_HACFJ	為了救出被擄走的女友，\n比利將挺身對抗暴力集團「黑衣戰士」。\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n玩家要操作比利與敵人戰鬥過關，\n以救出被「黑衣戰士」擄走的女友。\n遊戲中打到敵人會得到經驗值，累積到一定量就會升級，\n而可使出上勾拳和過肩摔等強力的新招式。
+META_TITLE_COMMENT_CLV_P_HACJJ	「下町」系列第1作！國夫與りき大展身手！！\n\n本作品於1989年發售，\n是Family Computer中的一款動作遊戲。\n國夫和死對頭りき為了打敗外號「ダブルドラゴン兄弟」的\n竜一和竜二兄弟，救出被抓走的真美而前往冷峰学園。\n解決接連出現的敵人並打敗BOSS就可以往下個關卡前進。\n藉由在商店街用餐或使用道具提升能力和學會必殺技，\n就可以讓國夫和りき越變越強。
+META_TITLE_COMMENT_CLV_P_HAAMJ	瑪利歐及路易吉登場，真正的高爾夫球遊戲。\n\n本作品於1991年發售，\n為Family Computer中的一款運動遊戲。\n大家耳熟能詳的瑪利歐及路易吉要來挑戰真正的高爾夫球了。\n目標是要以最少的球桿數讓球進洞。\n遊戲中有依照與果嶺的距離自動選擇球桿的功能，\n即使沒有打過高爾夫球，也能輕易上手。\n還有五花八門的球場，像是森林環繞的球場、\n湖水包夾的球場及滿是沙坑的球場等等。
+META_TITLE_COMMENT_CLV_P_HACCJ	在惡靈橫行的迷宮中尋找鑰匙開門。\n考驗著玩家智慧的動作益智遊戲。\n\n本作品於1986年發售，\n為Family Computer中的一款動作益智遊戲。\n玩家要化身成魔法師Dana，闖越漫布惡靈的星座宮。\n過程中要活用能製造或消除磚塊的「換石術 」，\n同時還要避開惡靈，以取得鑰匙。\n取得道具後，就能用「火球術」攻擊敵人。
+META_TITLE_COMMENT_CLV_P_HACKJ	用殺球打敗對手的國夫君超常躲避球大賽！\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n由國夫君率領的熱血高校將參加躲避球大賽爭奪世界冠軍寶座。\n獲勝的方式是射球打中競爭球隊的內場球員，以減少其體力，\n直到3名內場球員的體力消耗殆盡。\n如果以殺球或好球打中，\n就可以大幅度減少對手的體力。
+META_TITLE_SUBTITLE_CLV_P_HAANJ_sp1	富翁版本
+META_TITLE_COMMENT_CLV_P_HAANJ_sp1	～來買點什麼呀～\n\n本作品是《薩爾達傳說》特別版，\n玩家在擁有許多盧比＆道具的狀態下開始遊戲。\n遊戲中也準備了相當充足的裝備，\n有White Sword及Magical Shield，\n還有Blue Ring及Power Bracelet。\n無法破關的玩家，請用金錢力量打倒加儂吧。
+META_TITLE_COMMENT_CLV_P_HAAQJ	宇宙戰士薩姆斯‧亞蘭，正要揭開那場戰役的序幕。\n本作品於1986年發售，\n為Family Computer Disk System中的一款動作遊戲。\n「密特羅德」是一種會附著在生物體上並吸盡其能量的可怕生命體。\n宇宙戰士薩姆斯‧亞蘭為追回遭宇宙海賊奪走的密特羅德，\n朝宇宙海賊的根據地「要塞行星Zebes」前進。\n目標是要獲得隱藏在Zebes各處的強化道具，\n藉其強化武器及加強服的能力並破壞Mother Brain。
+META_TITLE_COMMENT_CLV_P_HADUJ	活用引以為豪的跳躍挑戰充滿秘密的大金字塔。\n\n本作品於1986年發售，\n為Family Computer中的一款動作遊戲。\n主角Jack冒險的地方是魔王所支配的大金字塔。\n擅長跳躍的Jack可以跳到天花板那麼高，\n在落下時還可以隨心所欲往橫向緩慢飄動。\n闖關的時候就要以跳躍方式越過高牆或火海等地形，\n打開關卡中大量隱藏的寶箱取得其中道具。\n但是要注意，如果拿取太多的Mighty Coin，\n便會被送進恐怖的Torture Room。
+META_TITLE_COMMENT_CLV_P_HADTJ	TwinBee和WinBee飛向天空拯救ドンブリ島。\n\n本作品於1986年發售，\n為Family Computer中的一款射擊遊戲。\n具有手臂的戰鬥機「TwinBee」和「WinBee」\n將要飛向天空前去打倒支配著ドンブリ島的スパイス大王。\n前來阻擋的都是像菜刀、竹荀、章魚之類模樣有趣的敵人。\n面對空中敵人要用子彈，地上敵人則要用自豪的手臂投擲炸彈。\n如果雙人合作遊玩，還可以藉由合體使出強力的攻擊。\n從雲中出現的鈴鐺要是以空中攻擊打中將會變色，\n取得時的顏色不同，帶來的效果也將會不同。
+META_TITLE_SUBTITLE_CLV_P_HAAMJ_sp1	全開放模式
+META_TITLE_COMMENT_CLV_P_HAAMJ_sp1	～瑪利歐高爾夫球公開賽，全開放～\n\n本作品是《マリオオープンゴルフ》特別版，\n從一開始就能選擇所有關卡。\n平常要低於一定桿數才會開放的關卡，\n現在為了您這位VIP已經全開放了。\n高爾夫球是一種挑戰自然的運動，\n從5種環境豐富且風格多樣的球場中，選出自己喜歡的球場吧。\n若選擇EXTRA COURSE，則球洞會隨機出現在所有球場中。
+META_TITLE_SUBTITLE_CLV_P_HABRJ_sp1	第5關最強版本
+META_TITLE_COMMENT_CLV_P_HABRJ_sp1	～最強Vic Viper～\n\n本作品是《グラディウス》的特別版，\n玩家是從全7關中的第5關以最強裝備開始遊戲。\n選的是LASER而不是DOUBLE。請DOUBLE派的玩家見諒。
+META_TITLE_COMMENT_CLV_P_HACXJ	趕走瓦利歐，為森林帶來和平。\n這是一款奇諾比奧靠智力來戰鬥的動作益智遊戲。\n\n本作品於1994年發售，為Family Computer中的一款運動益智遊戲。\n玩家要在妖精們的「和平森林」中，\n趕走囂張跋扈的瓦利歐及其手下的怪獸。\n若橫、直、斜方向中，排列出3個以上包括炸彈在內相同的顏色，\n就能消滅怪獸。\n在遊戲過程中，還會出現一些無法輕易消滅相當棘手的怪獸，\n所以要好好思考每種怪獸的消滅方法。
+META_TITLE_COMMENT_CLV_P_HACWJ	解開謎題抵達塔頂，拯救被擄走的王女Lala。\n\n本作品於1990年發售，\n為Family Computer中的一款益智遊戲。\n玩家要操作主角Lolo解開謎題前往塔頂，\n以拯救被邪惡化身King Egger擄走的Lala。\n移動能阻擋敵人的Emerald Framer形成安全路徑，\n或利用地形特性避開攻擊，藉此得到收集所有的Heart Framer\n才能得到的寶石並從出口離開便算過關。\n由於一個順序做錯就會無法動彈，或是必須利用敵人才能過關，\n審慎思考取得Heart Framer的順序和打倒敵人的方法\n就是攻略時的重點。
+META_TITLE_COMMENT_CLV_P_HACBJ	忍者龍隼大展身手的電影式動作遊戲。\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n主角龍隼遵照父親的遺言，帶著家傳的Dragon Sword前往美洲，\n就此踏進野心爭奪的漩渦之中。\n與敵人交手的過程中可用飛鏢和Art of the Fire Wheel等忍術。\n要過複雜地形，訣竅是運用能在牆壁間來回的「蹬牆跳躍」。\n除了棘手的難易度外，遊戲中穿插的影像場景也令故事高潮迭起。
+META_TITLE_SUBTITLE_CLV_P_HAAXJ_sp1	知道的人才知道的，UFO前面的版本
+META_TITLE_COMMENT_CLV_P_HAAXJ_sp1	～過關後才能看到超罕見畫面～\n\n本作品是《瑪利歐醫生》特別版，玩家可以直接進到\n通過LEVEL 20及SPEED HI才看得見的超罕見畫面之前。\n雖然這個作品老少咸宜、廣受愛戴，\n但能看到此畫面的玩家可說是屈指可數啊。\n順帶一提，《瑪利歐醫生》這個作品以「細菌撲滅」這個名稱\n收錄於2005年發售的任天堂DS遊戲\n《もっと脳を鍛える大人のDSトレーニング》中。\n聽說「細菌撲滅」並非是強化腦力，而是具有放鬆大腦的效果。
+META_TITLE_SUBTITLE_CLV_P_HAAQJ_sp1	決戰！利德雷版本
+META_TITLE_COMMENT_CLV_P_HAAQJ_sp1	～打倒宿敵利德雷～\n\n本作品是直接從利德雷戰役開始的《密特羅德》特別版。\n在主角薩姆斯裝備齊全且光束上裝有「Ice Beam」的狀態下開始遊戲。\n在Nintendo Switch的《任天堂明星大亂鬥 特別版》中，\n利德雷是能遊玩（可操作）的角色，\n但這個時期的利德雷則設定為行星Zebes的原住生物，\n由Mother Brain所掌控。
+META_TITLE_COMMENT_CLV_P_HAASJ	以勇氣的三角神力為目標，林克的嶄新冒險即將開始。\n\n本作品於1987年發售，\n為Family Computer Disk System中的一款動作冒險遊戲。\n為了恢復海拉魯王國的和平，必須釋放封印在大神殿中的勇氣三角神力，\n林克再次踏上冒險之旅。\n玩家在遊戲中可揮劍攻擊敵人或使用各種魔法等等……\n壯麗的故事及解謎的魅力，更加淬鍊遊戲的動作性，\n讓玩家得以體驗到正如其作品名一般的林克的冒險。
+META_TITLE_COMMENT_CLV_P_HACUJ	以行星ソフィア為舞台，天才少年駕駛員「ケイン」挑戰邪惡。\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n故事舞台設定在一顆有著高文明的行星，\n玩家必須攻略由「側視畫面」和「俯視畫面」關卡組成的8個區域。\n在這兩種畫面能夠做的動作和操作方式等各有不同，\n過程中須時而用超行星間萬能車メタル･アタッカー，\n時而用駕駛員ケイン前進。\n在側視畫面的某個地方藏有通往其他區域的入口。\n請往來各區域，努力通過所有的區域。
+META_TITLE_COMMENT_CLV_P_HADBJ	別具風格的機器人們，使出各種技能互相較量。\n\n本作品於1993年發售，\n為Family Computer中的一款機器人格鬥對戰動作遊戲。\n為了對抗宣示要用機器人征服世界的イワン・ワルナッチ博士，\n玩家們操控由リトル・イーモン博士製造的機器人「Sukapon」與之對戰。\n對戰勝利的話，可以使用的機器人就會增加。\n每位機器人的技能種類或速度都有不同的特色，且各自擁有4種必殺技，\n因此要依照敵方機器人的特性，分別使用不同的技能來戰鬥。\n\n遊戲中有各種不同模式，\n像是能感受故事情節的「1P Quest」及能與朋友對戰的「1P vs 2P」等等。
+META_TITLE_SUBTITLE_CLV_P_HABCJ_sp1	就快到大魔王版本
+META_TITLE_COMMENT_CLV_P_HABCJ_sp1	～從超難的第6關開始～\n\n本作品是《魔界村》的特別版，從第6關開始。\n裝備的是可以連射的好用武器飛刀，距離大魔王就差一點點。\n您有辦法在這樣子的難易度安然度過嗎？\n其實不用害怕，因為您還有另一件強力的武器「隨時隨地儲存」。\n補充一點，要看到真正的結局，還須要再通過一輪。
+META_TITLE_SUBTITLE_CLV_P_HACBJ_sp1	最後高潮版本
+META_TITLE_COMMENT_CLV_P_HACBJ_sp1	～距離結局就差一步～\n\n本作品是《忍者龍剣伝》特別版，\n從最後高潮的6-4關前一步開始。\n承繼去世的父親Ken Hayabusa和其好友Walter Smith的遺志，\n成為了Dragon Ninja的龍隼將要面對最後一戰。\n若能連勝the masked devil、the Jaquio Guardia de Mieux，\n以及自七百年的沉睡中甦醒的邪神這三大BOSS，\n感動的結局將等著您觀賞。
+META_TITLE_COMMENT_CLV_P_HAADJ	敵人的弱點是蔬菜！？\n瑪利歐一行人在夢世界中展開一場不可思議的冒險。\n本作品於1992年日本發售，\n為Family Computer中的一款動作遊戲。\n瑪利歐一行人來到了夢中出現的世界——「Subcon」。\n在遊戲中拔起蔬菜投向敵人，使用魔法藥移動至隱藏畫面等等，\n挑戰一場不可思議的冒險。\n玩家可選擇的角色有瑪利歐、路易吉、奇諾比奧及碧姬公主共4位。\n每位角色的跳躍力及舉起物品的速度皆不同。
+META_TITLE_COMMENT_CLV_P_HAAPJ	烈火、Spark、利劍……\n活用複製能力，奪回Fountain of Dreams的光輝。\n\n本作品於1983年發售，\n為Family Computer中的一款動作遊戲。\n卡比為了奪回噗噗噗之國中所有人的夢，\n踏上了收集被帝帝帝大王奪走的Star Rod之旅。\n在遊戲中有各種複製能力，像是能吐出熾熱火焰的「烈火」、\n能釋放電力麻痺敵人的「Spark」，能帥氣舞劍的「利劍」等等，\n請活用這些能力吧。
+META_TITLE_COMMENT_CLV_P_HACEJ	一介新進力士邁向橫綱的成功故事！\n\n本作品於1987年發售，\n為Family Computer中的一款動作遊戲。\n遊戲目的是培育力士，提升其位階到最高階的橫綱。\n在個別場所會進行15天的賽程，並依據獲勝數決定是否升級。\n除了「推掌」和「拍打」等相撲特有的招式外，\n還設計了在一般的相撲中所看不到的秘密招式。
+META_TITLE_SUBTITLE_CLV_P_HACUJ_sp1	最後高潮版本
+META_TITLE_COMMENT_CLV_P_HACUJ_sp1	～從AREA8開始玩～\n\n本作品是《超惑星戦記 メタファイト》特別版，\n從最後一個區域的AREA8開始。\nメタル･アタッカー的配件已經全部取得，\nHover Gauge和Power到最高階段，諸如Homing Missile、\nThunder Break、Multi Warhead Missile等武裝\n也已經達到最高數量。ケイン的Gun Energy Gauge和\nPower一樣也是最高水準。就用這最強的武裝\n前去擊破インベム暗黒星団の覇王GOEZ吧！
+META_TITLE_SUBTITLE_CLV_P_HAAQJ_sp2	薩姆斯‧亞蘭最終型態
+META_TITLE_COMMENT_CLV_P_HAAQJ_sp2	～裝備齊全～\n\n本作品是《密特羅德》特別版，\n主角薩姆斯‧亞蘭已獲得所有強化道具\n且武器及加強服的能力皆已強化，\n玩家在最強的狀態下開始遊戲。\n距離打倒位於要塞中心的Mother Brain已經不遠了。\n這個遊戲依照破關時間的長短，破關畫面會有些許不同（共5種）。\n要是能迅速破關的話，就能欣賞到薩姆斯脫掉加強服的樣子。
+META_TITLE_COMMENT_CLV_P_HAAVJ	拯救女神帕露蒂娜，奪回Palutena's Temple。\n\n本作品於1986年發售，\n為Family Computer Disk System中的一款動作遊戲。\n主角彼特獲得了光之女神帕露蒂娜給予的弓箭後，\n一面協助變成石像的同伴，\n一面收集三種神器，並打倒暗之女神Medusa。\n關卡畫面分為直向及橫向兩種，有許多敵人角色會阻擋彼特的去路。\n在「商店」及「Black Marketeer」使用打倒敵人後獲得的愛心購買道具，\n就能提升彼特的能力。
+META_TITLE_COMMENT_CLV_P_HAAKJ	指揮軍隊，打敗帝國\n由馬爾斯及同伴們交織而成，此系列最初的故事。\n\n本作品於1990年發售，\n為Family Computer中的一款角色扮演模擬遊戲。\n玩家負責指揮由主角馬爾斯所率領的軍隊，展開與多魯亞帝國的戰役。\n遊戲的關鍵在於制定出能活用同伴（單位）特長的戰略。\n依照兵種及武器特性的不同，戰事的走向也會大幅改變。\n在之前的模擬遊戲中，只不過是無名小卒的單位化身為獨具個性的角色，\n因此更能感受到極高的戰略性及獨具個性的同伴們成長的樂趣。
+META_TITLE_COMMENT_CLV_P_HACAJ	以功夫打倒チャーハン一族，重拾和平！\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n主角「李」將隻身闖入メンマの塔，\n以打倒胡作非為的チャーハン一族。\n藉由按鍵的輸入組合使出拳、飛踢、上段踢等招式\n打對手的體力減至0就算勝利。\n關卡中間也設計了要打掉飛出來的扇子或刀子的加分關。
+META_TITLE_SUBTITLE_CLV_P_HAASJ_sp1	大力士版本
+META_TITLE_COMMENT_CLV_P_HAASJ_sp1	～要對大家保密喔～\n\n本作品是《リンクの冒険》特別版，\n玩家從初期階段起\n就能以ATTACK、MAGIC、LIFE都是最高等級8的狀態開始遊戲。\n雖然沒有道具，但能使用全部的魔法。\n請使用變強後的林克，將敵人一網打盡。\n6個神殿都過關後，就挑戰大神殿，奪回「勇氣」的三角神力吧。\n題外話，在本作《リンクの冒険》中出現的地名，\n會成為後來《薩爾達傳說》系列的角色名稱喔。
+META_TITLE_SUBTITLE_CLV_P_HAAPJ_sp1	「Extra Game」版本
+META_TITLE_COMMENT_CLV_P_HAAPJ_sp1	～再加上「聽音樂」～\n\n本作品為《星之卡比 夢の泉の物語》特別版，\n破關後，可選擇畫面上出現的高難度「Extra Game」。\n而且，還有「Extra Game」破關後才會出現的「聽遊戲音樂」。\n每首卡比的曲子都很有獨特風格呢。\n在「聽音樂」中，按B鍵能讓音樂停止。
+META_TITLE_COMMENT_CLV_P_HAABJ	超級瑪利歐兄弟的平行世界。再來一場瑪利歐之旅。\n\n本作品於1986年發售，\n為Family Computer Disk System中的一款動作遊戲。\n為了救出被抓走的碧姬公主，復興蘑菇王國，\n瑪利歐及路易吉踏上了一場嶄新的冒險。\n操作簡單且動作安穩的瑪利歐，與跳得雖高卻較容易打滑的路易吉，\n特色迥異的2人，活用其不同個性朝終點邁進。\n遊戲中還出現了一獲取就失誤的毒蘑菇，\n能享受到與前作不同風味的冒險樂趣。
+META_TITLE_COMMENT_CLV_P_HAATJ	看清楚對方的動作，使出渾身解數，出拳打倒他。\n\n本作品為Family Computer中的一款運動動作遊戲。\n「小麥克」以贏得冠軍為目標，站上Circuit（大賽）挑戰強勁的拳擊手們。\n比賽為3回合制，每回合3分鐘。\n當對方疏於防衛時，就使用勾拳或攻擊他的臉部，\n面對對方攻擊過來的拳，則用防禦或閃躲來躲避。\n每位對手都有各自的動作習慣，因此也可能出現極大的空隙。\n當對方露出破綻時，第一時間出拳過去，\n就能打出連續攻擊或是強力的上勾拳。\n本作品是1987年遊戲大賽的獎品，後來才製作成商品發售。
+META_TITLE_COMMENT_CLV_P_HADDJ	乘坐最新小型戰鬥機，破壞人工頭腦「StarBrain」。\n\n本作品於1986年發售，\n為Family Computer中的一款射擊遊戲。\n玩家要操作戰鬥機Caesar挑戰16個關卡，\n以破壞人工頭腦「StarBrain」。\nCaesar取得能量包的話，會階段性強化，而可以連射和裝備防護罩。\n善用穿進地形背面的Trap Zone，能夠迴避敵人的攻擊。
+META_TITLE_SUBTITLE_CLV_P_HAAVJ_sp1	三種神器版本
+META_TITLE_COMMENT_CLV_P_HAAVJ_sp1	～不會再讓你掛了～\n\n本作品是《光神話 パルテナの鏡》特別版，\n玩家可在獲得三種神器（Mirror Shield、Arrow of Light、\nWings of Pegasus）的最強狀態下直接遊玩最後關卡。\n彼特實在太強了。\n直接進入和初期關卡感覺完全不同的最後關卡，\n打倒暗之女神Medusa，為「Palutena's Temple」恢復光明。\n本作《光神話 パルテナの鏡》於發售26年後的2012年，\n在Nintendo 3DS上推出了續篇《新・光神話 パルテナの鏡》。
+META_TITLE_COMMENT_CLV_P_HAAFJ	上下藤蔓躲避敵人，拿取鑰匙救出爸爸森喜剛。\n\n本作品作為《ドンキーコング》的續作，於1983年發售，\n為Family Computer中的一款動作遊戲。\n森喜剛的兒子Junior要動身救出被瑪利歐關在籠子中的爸爸。\n過程中必須在藤蔓上下移動躲避敵人，第1～3關是去拿畫面上方的鑰匙，\n第4關則是要將6支鑰匙往上推，全部插進鑰匙孔就算過關。\n很少見的，瑪利歐是以敵人的身分登場的作品。
+META_TITLE_COMMENT_CLV_P_HAEIJ	越過各式各樣的障礙並馳向終點的摩托車競賽。\n\n本作品於1988發售，\n為Family Computer Disk System中的一款摩托車競賽遊戲。\n玩家要越過配置在車道上的各式各樣障礙物，以取得高名次。\n競賽分為預賽和正式賽，預賽中要獨自繞行車道1圈，\n在規定時間內抵達終點就能進入正式賽。\n正式賽中要和競爭的摩托車較勁，比可得獎時間更快進終點的話，\n就能參加下一場競賽。\n如果不能在時間內進終點，會使剩餘數減少，減到0就算遊戲結束。\n摩托車在操作上有各式各樣的技巧，例如藉由速度和跳躍時的角度\n調整跳躍的距離和著地，或是以單輪行駛方式越過小型障礙等等，\n要良好地控制，以縮短時間。\n在「VS EDIT」中，可以隨意配置跳台等零件，\n創作出獨自的賽道並遊玩。
+META_TITLE_COMMENT_CLV_P_HAEHJ	繞來繞去找金塊。\n也可以合作遊玩。\n\n本作品於1992年發售，\n為Family Computer Disk System中的一款動作遊戲。\n玩家要操作主角Bubbles尋找藏在關卡中的金塊。\nBubbles會自動前進，但可以在抓住Turnpost後，\n看準時機放開來改變方向。找到所有的金塊就算通過關卡。\n遊戲中也可以合作遊玩。\n\n※本軟體採用的是Disk System版，而非Family Computer版。
+META_TITLE_SUBTITLE_CLV_P_HADDJ_sp1	第8關必勝版本
+META_TITLE_COMMENT_CLV_P_HADDJ_sp1	～你也能成為名人！～\n\n本作品是《スターソルジャー》特別版，\n從16關中的第8關開始。\n機體一開始就是強化狀態，裝備了5方向光束和護盾。\n第8關的BOSS角色是巨大的Big Starbrain。\n要打倒Big Starbrain，請先破壞4座炮台，\n再攻擊正中央的核心。
+META_TITLE_COMMENT_CLV_P_HACHJ	雙截拳練家子的比利和吉米挺身對抗神秘武裝集團！\n\n本作品於1989年發售，\n為Family Computer中的一款動作遊戲。\n拳法雙截拳練家子的比利和吉米為了替女友和同伴報仇，\n將挺身對抗神秘武裝集團。\n遊戲中可以用跳踢、上勾拳、手肘下打等\n豐富的招式和高威力必殺技擊退敵人。\n玩家也可以選擇能攻擊同伴的「2P PLAY」模式。\n所以不只是合作，也可以體驗到互相對戰的雙人遊玩內容。
+META_TITLE_COMMENT_CLV_P_HAEJJ	發球、接球、傳球、攔網和攻擊都可輕易使出！\n\n本作品於1986年發售，\n為Family Computer Disk System中的一款運動遊戲。\n本作以發售當時的規則為基準，輪到發球權時，攻擊成功會得到1分。\n得到15分就算贏得1局，先贏得3局的球隊勝出。\n當發球時觸網，發球權會換到對方隊伍。攔網和攻擊須按住B鍵。\n搭配十字鍵還可以使出雙重攔網、交叉攻擊、佯攻、交叉佯攻等動作。
+META_TITLE_COMMENT_CLV_P_HADXJ	在全球6個國家的高速公路上與警車展開激烈地追逐。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n玩家要駕駛愛車和警車展開追逐，以征服美英法德印日\n這全球6個國家的高速公路。\n在關卡中避開警車和障礙，並走遍所有的高速公路就算通過關卡。
+META_TITLE_SUBTITLE_CLV_P_HADTJ_sp1	續戰第2輪版本
+META_TITLE_COMMENT_CLV_P_HADTJ_sp1	～獻給對技術有信心的你～\n\n本作品是《ツインビー》特別版，\n從5個關卡全數過關的第2輪，第6關開始。\n難易度變高，例如從初期開始，敵人的種類和數量就變多。\n如果你對技術有信心，請務必來挑戰這異於平常難度，\n玩起來格外有勁的關卡。
+META_TITLE_COMMENT_CLV_P_HACZJ	當拆屋工的瑪利歐（路易吉）要以手中的鎚子挑戰百棟大樓。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n瑪利歐和路易吉成為了拆屋工，闖進有怪物棲息的大樓。\n過程中要留意怪物，將規定的牆壁全數破壞就算過關，並進入下個關卡。\n總共100道關卡，必須善用道具攻略，時而以炸彈將牆壁一起爆破，\n時而以油桶關住敵人。\n玩家也可以在「DESIGN」模式創作自己構思的關卡。
+META_TITLE_COMMENT_CLV_P_HAAGJ	Stanley對決森喜剛。\n他要教訓胡鬧的森喜剛，以保護花園。\n\n本作品於1984年發售，\n為Family Computer中的一款射擊遊戲。\n玩家要操作主角Stanley，擊退在花園胡鬧的\n森喜剛和蜜蜂等敵人。\n用噴劑將森喜剛驅趕到上面，或打倒所有的蜜蜂就算過關，\n並進入下一回合。\n取得道具「強力噴劑」後，可以暫時發出強力的攻擊。
+META_TITLE_SUBTITLE_CLV_P_HADUJ_sp1	高遊戲偏差值版本
+META_TITLE_COMMENT_CLV_P_HADUJ_sp1	～向金字塔頂端邁進～\n\n本作品是《マイティボンジャック》特別版，\n從最後區域開始。\nROUND 17後半的最後區域中，可以進入的房間數和結局\n會因為之前取得的水晶和秘密Coin數而異。\n這個版本可以進到最後的房間，且已達成4種結局中最好結局的條件。\n請用這個版本去救出國王、王妃和公主，並克服最後的房間，\n為世界帶來和平吧！\n提示：在畫有鳥的磚塊上反覆跳可以消除掉什麼。
+META_TITLE_COMMENT_CLV_P_HADVJ	功夫高手Jacky和Lee表演的動作大戲！\n\n本作品於1986年發售，\n為Family Computer中的一款動作遊戲。\n中華國的Princess Min-Min和10件寶物遭到妖魔軍團奪走。\n功夫高手Jacky和Lee為了救回公主及寶物而挺身面對。\n敵人會在8間魔館中接連出現，請利用寶箱等地方取得的道具提升力量，\n以打倒敵人，征服魔館。\n使出miracle kick時可以在空中換方向，能活用在各式各樣場面，\n但必須注意使用次數有限。
+META_TITLE_COMMENT_CLV_P_HACLJ	毫無限制的大運動會！為奪得冠軍，國夫君將大展身手！\n\n本作品於1990年發售，\n為Family Computer中的一款動作遊戲。\n諸如以國夫君為隊長的「熱血高校隊」等4支隊伍\n將在運動會上大展身手。\n競技有4種，分別為「夢見町越野賽」、「房舍障礙賽」、\n「棒上破球競賽」「格鬥淘汰大賽」。\n玩家要超越競爭對手，以奪得冠軍。\n由於選手的能力各有不同，除了動作遊戲的操作技術，\n也考驗著玩家的指揮力。
+META_TITLE_SUBTITLE_CLV_P_HABRJ_sp2	超難第2輪版本
+META_TITLE_COMMENT_CLV_P_HABRJ_sp2	～從第2輪開始會變難～\n\n本作品是《グラディウス》特別版，\n從所有7個關卡第1輪過關，難度變難的第2輪開始。\n第1關起就不能大意，相信就算是熟悉的關卡也會有新鮮感。\n順帶一提，第2輪過關後的第3輪會再變得更難。
+META_TITLE_COMMENT_CLV_P_HADAJ	指揮步兵、戰車、戰鬥機等各式各樣的部隊克敵致勝。\n\n本作品於1988年發售，\n為Family Computer中的一款戰爭模擬遊戲。\n選擇Orange Star軍或Blue Moon軍指揮部隊前進，\n占領敵軍基地或殲滅敵軍部隊就算勝利。\n可以生產的部隊有步兵、戰車等，共16種。\n都市、海港、機場、工廠的占領和部隊的編組將大幅左右勝負。\n\n※本作品雙打時請交換使用控制器1。線上遊玩時，兩人都是控制器1。
+META_TITLE_COMMENT_CLV_P_HADGJ	坐上愛車マッド・エックス，拿回邪惡組織「カンハルー」偷走的錢。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n玩家要操作愛車マッド・エックス，以雷達模式尋找目標，\n並以放大模式收集檢查點。\n收集到以雷達模式才看得到的所有檢查點就算通過關卡。\n檢查點有4種，分別是問號的「マジダ」、錢袋的「ドーラ」和\n「エニー」、旗子形狀的「ファルグ」。\n請留意FUEL（燃料）的剩餘量，運用加速鍵以加速來甩開追兵吧。
+META_TITLE_COMMENT_CLV_P_HAEAJ	獻給所有的RPG迷……壯闊的故事即將開始。\n\n本作品於1990年發售，\n為Family Computer中的一款動作角色扮演遊戲。\n故事發生在文明毀滅的世界，青年主角自冷凍睡眠醒來而開始冒險。\n一開始要先向村中長老取得「Sword of Wind」。\n按下SELECT鍵開啟子畫面可以裝備取得的裝備品。\n持續按住B鍵可以累積FORCE，也能藉此用劍發出強力的遠距離攻擊。\n運用4把劍和8種法術冒險，並用各種道具解決他人的煩惱，\n冒險目的將會在這樣的過程中明瞭。
+META_TITLE_COMMENT_CLV_P_HACPJ	未出師的冒險家ウィン為了尋找失蹤的師父\n而出發前往神秘島嶼アトランチス。\n\n本作品於1986年發售，\n為Family Computer中的一款動作遊戲。\n南大西洋上出現了一座巨大的島嶼アトランチス。\n玩家要操作主角ウィン，在島上找出失蹤的師父，\n並與帝王ザヴィーラ交手。\nアトランチス上有100個區塊，前進時必須時而躲避，\n或用小型炸彈解決敵人。\n在各個區塊中有通往其他區塊的門，\n必須實際進入才能知道是通往哪個區塊。\n遊戲過程會因為進入的是隱藏門或跳躍門等不同的門而大幅變化。
+META_TITLE_SUBTITLE_CLV_P_HAAKJ_sp1	三角攻陣版本
+META_TITLE_COMMENT_CLV_P_HAAKJ_sp1	～三位一體，必殺一擊～\n\n本作品是《FIRE EMBLEM 暗黒竜と光の剣》特別版，\n玩家從遊戲一開始就能使出飛馬三姊妹——\n由帕奥拉、卡秋雅及愛絲特形成的「三角攻陣」。\n本系列忠實玩家所熟知的三角攻陣，從作為第1作的本作開始就有了。\n玩家能夠在所有同伴單位都生存且成長得很好的狀態下，\n直接從第18章「Sable Order」的中途開始。
+META_TITLE_SUBTITLE_CLV_P_HAAKJ_sp2	最後高潮版本
+META_TITLE_COMMENT_CLV_P_HAAKJ_sp2	～最終章並且所有成員存活～\n\n本作品是《FIRE EMBLEM 暗黒竜と光の剣》特別版，\n從最後的第25章「Chosen Ones」開始。\n馬爾斯軍的長途征戰來到最後高潮，並且齊聚了堅強的同伴。\n面對這場最後的戰役，請不要吝惜，儘管使用武器吧。\n馬爾斯身上的劍「法爾西昂」對暗黑龍梅迪烏斯具有特效。\n結局中提及的各個角色日後發展絕對不可錯過。
+META_TITLE_COMMENT_CLV_P_HAEKJ	心中感念父親的Jay挺身挑戰巨大機械軍團。\n\n本作品於1990年發售，\n為Family Computer中的一款動作遊戲。\n為了替父親報仇，並完成殖民地開發計畫「Silius」，\n主角Jay必須克服5道關卡。\n克敵致勝的關鍵就在能夠臨機應變地切換武器。\n按下START鍵會打開武器選擇畫面，按下SELECT鍵便能切換武器。\n要注意的是，使用手槍之外的武器會消耗武器能源。\n每過一道關卡，就會獲得新武器，為戰鬥增添變化。
+META_TITLE_COMMENT_CLV_P_HADYJ	戰士於聖地Argool甦醒，動身尋找在天空的獸王！\n\n本作品於1987年發售，\n為Family Computer中的一款動作遊戲。\n玩家要化身為在Argus地方甦醒的戰士，\n帶著圓盤狀武器Diskarmor一路奮戰，以打倒獸王Ligar。\n戰士的攻擊力和體力在打倒敵人後會逐漸成長。\n按下START鍵會打開子畫面，這時按十字鍵為移動，\n按下A鍵為消耗精神力使用畫面右方的潛在能力，\n按下B鍵則為使用畫面左側的道具。\n在探索聖地Argool的過程中請向仙人和鬥神Indora求助，\n並設法前往浮在天空中的獸王Ligar的本城。
+META_TITLE_COMMENT_CLV_P_HAECJ	有一群勇於奮不顧身對抗邪惡組織的特搜刑警，他們叫作「VICE」。\n\n本作品於1991年發售，\n為Family Computer中的一款動作遊戲。\n時間設在AD2139年。VICE成員Quinn Hart要追查一件事件的真相。\n遊戲中有3種模式，分別是充滿速度感的飆車追逐、\n要活用3種武器的橫向捲軸動作、必須打倒進逼的敵人的3D射擊，\n藉此刻畫出刺激而富有變化的賽博龐克暴力世界。\n關卡間的動畫串場則讓遊戲更具有臨場感。
+META_TITLE_COMMENT_CLV_P_HADCJ	擊出強力殺球，很爽快！\n這是真正的乒乓球遊戲，大家都能享受激烈比賽的樂趣。\n\n本作品於1987年發售，\n為Family Computer Disk System中的一款運動遊戲。\n遊戲為三回合制的比賽，先取得二回合者獲勝。\n將對方的球打回去時，自己的球拍會自動移動。\n根據狀況，以正手拍或反手拍打出3種不同類型的球吧。\n打回去的時機點及方向，\n會依照「殺球」、「抽球」、「切球」等技巧而改變球的方向或速度。
+META_TITLE_COMMENT_CLV_P_HAERJ	故事發生在大魔法師Dana初出茅蘆的時候……\nDana有辦法解救Coolmint Island嗎？\n\n本作品於1992年發售，\n為Family Computer中的一款動作益智遊戲。\n邪惡魔法師Druidle派出了火焰魔物，\n冰所形成的Coolmint Island因而陷入危機！\n玩家必須運用妖精女王賜予的冰魔法拯救島嶼。\n用冰撞擊即可打倒火焰魔物，全數打倒就算通過關卡。\n玩家也可以用edit mode製作22道益智關卡。
+META_TITLE_COMMENT_CLV_P_HACSJ	以飛鏢和忍法擊破妖怪，拯救櫻花公主。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n茶茶丸必須拯救遭到叛徒鯰魚太優擄走的櫻花公主。\n過程中要運用擅長的飛鏢和衝撞打倒登場的妖怪並前進。\n達到特定條件後，巨大的青蛙便會登場。\n可以讓牠吃掉妖怪賺分數。
+META_TITLE_SUBTITLE_CLV_P_HAACJ_sp1	瑪利歐八變版本
+META_TITLE_COMMENT_CLV_P_HAACJ_sp1	～並非一成不變，總共有八變～\n\n本作品是以持有許多道具的狀態，從最後世界的世界8黑暗國開始的\n《超級瑪利歐兄弟3》特別版。一開始是小瑪利歐（一變），\n但道具欄有能變成超級瑪利歐（二變）的超級蘑菇、\n能變成火焰瑪利歐（三變）的火之花、\n能變成尾巴瑪利歐（四變）的超級樹葉、\n能變成狸貓瑪利歐（五變）的狸貓裝、\n能變成青蛙瑪利歐（六變）的青蛙裝，\n還有能變成鎚子瑪利歐（七變）的鎚子裝，充滿了稀有道具。\n在地圖畫面按B鍵會顯示道具，因為道具數量多，要用上下鍵換面選擇。\n……嗯？還有一變是什麼？相信細心的您有這個疑問，請放心，\n在狸貓瑪利歐時按住十字鍵的下再按住B鍵，\n就能暫時變成地藏（八變）。在變地藏時，被敵人攻擊也不會有事。\n瑪利歐的這八變，您喜歡哪種呢？
+META_TITLE_COMMENT_CLV_P_HAAJJ	玩到結局都不可以哭。\n以現代為舞台的愛與勇氣與冒險的故事。\n\n本作品於1989年發售，為Family Computer中的一款角色扮演遊戲。\n在美國鄉鎮マザーズデイ中，接連發生了奇妙的事件。\n例如房間中的台燈和娃娃亂竄，從墳場復甦的喪屍去攻擊人……\n少年主角為了保護家人，決定冒險旅行。他餓了就吃漢堡，\n遇到敵人則用手中球棒和PSI（超能力）對抗，並結識可靠的同伴……\n在如此旅途中，播放的音樂曲曲都能讓人長留心中，\n還請放大音量，細細品味一番。
+META_TITLE_COMMENT_CLV_P_HAGUJ	Mappy和Nyamco他們的躲貓貓將在市鎮、城堡、叢林等處展開！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲，\n是以可愛角色和單純好玩受到歡迎的《Mappy》續作。\n玩家要運用彈跳床和梯子等機關避免被敵人抓到，並收集標的物。\n四篇故事各有不同的標的物要收集，跳上彈跳床就可以上下移動，\n這時碰到敵人也不算失誤，但連續彈跳時，彈跳床會變色，\n在變紅的時候跳上去就會破掉，但落到地面則會回復成藍色。\n還請聽明地運用阻擋用道具和反擊用道具爭取高分。
+META_TITLE_COMMENT_CLV_P_HAGQJ	舞台從地底來到島嶼的戰略性破壞島嶼遊戲！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲。\n玩家要操作主角「Dig Dug」對抗擾亂島嶼的怪物。\n會朝主角逼進的怪物，可以用鑽頭刺入後充氣脹破，或破壞島嶼\n使其墜海的方式打倒。讓怪物一次墜海，得分會因應數量而增高。\n打倒所有怪物就算過關，進入下一關。
+exploded_strings
+SYS_DIALOG_GENERIC_BUTTON1	[GENERIC_DIALOG_BUTTON1]
+SYS_DIALOG_GENERIC_BUTTON2	[GENERIC_DIALOG_BUTTON2]
+SYS_DIALOG_GENERIC_BUTTON3	[GENERIC_DIALOG_BUTTON3]
+SYS_DIALOG_EXCHANGE_PLAYER_1P_TEXT	已經更換1P與2P。\n您成為了1P。\n選單將由[HOST_NAME]繼續操作。
+SYS_DIALOG_EXCHANGE_PLAYER_2P_TEXT	已經更換1P與2P。\n您成為了2P。\n選單將由[HOST_NAME]繼續操作。
+SYS_DIALOG_ONLINE_CREATE_SESSION_WITH_PASSWORD	[IMG_LOCK] 有暗號
+SYS_DIALOG_ONLINE_WAITING_FOR_GUEST_TEXT	正在與[GUEST_NAME]會合。
+SYS_DIALOG_ONLINE_WAITING_FOR_HOST_TEXT	正在與[HOST_NAME]會合。\n（不會更改您的儲存資料）
+SYS_DIALOG_ONLINE_ESTABLISHED_HOST_TEXT	[GUEST_NAME]過來遊玩了。\n選單將由[HOST_NAME]操作。\n通訊品質依據您與對方的通訊環境而定。
+SYS_DIALOG_ONLINE_ESTABLISHED_GUEST_TEXT	您來到[HOST_NAME]的地方遊玩。\n選單將由[HOST_NAME]操作。\n通訊品質依據您與對方的通訊環境而定。
+SYS_DIALOG_DURING_GUEST_OPERATION_TEXT	[GUEST_NAME]正在操作。
+SYS_DIALOG_DURING_HOST_OPERATION_TEXT	[HOST_NAME]正在操作。
+SYS_DIALOG_ONLINE_PAUSE_ON_DISCONNECT_TEXT	已經與[GUEST_NAME]切斷通訊。\n遊戲將無法繼續。\n只允許隨時隨地儲存。
+SYS_HUD_GUIDE_PRO_CONFIRM	[IMG_BUTTON_A]  確定
+SYS_HUD_GUIDE_PRO_BACK	[IMG_BUTTON_B]  返回
+SYS_HUD_GUIDE_PRO_DETAILS	[IMG_BUTTON_X]  詳情
+SYS_HUD_GUIDE_PRO_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_PRO_MOVE2	[IMG_BUTTON_Y]  移動（長按則排序）
+SYS_HUD_GUIDE_PRO_SORT	[IMG_BUTTON_Y]  長按則排序
+SYS_HUD_GUIDE_PRO_PLAY	[IMG_BUTTON_A]  開始
+SYS_HUD_GUIDE_PRO_INVITE	[IMG_BUTTON_PLUS]  邀請朋友
+SYS_HUD_GUIDE_PRO_Invitation	[IMG_BUTTON_PLUS]  邀請朋友
+SYS_HUD_GUIDE_PRO_GUIDE	[IMG_BUTTON_X]  操作指南
+SYS_HUD_GUIDE_PRO_EXCHANGE	[IMG_BUTTON_Y]  更換1P/2P
+SYS_HUD_GUIDE_PRO_VOICE_CHAT	[IMG_BUTTON_X]  如何語音聊天？
+SYS_HUD_GUIDE_PRO_PROMOTION	[IMG_BUTTON_X]  關於專用控制器
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  中斷選單
+SYS_HUD_GUIDE_PRO_INGAME_START	[IMG_BUTTON_PLUS]  START鍵
+SYS_HUD_GUIDE_PRO_INGAME_SELECT	[IMG_BUTTON_MINUS]  SELECT鍵
+SYS_HUD_GUIDE_PRO_INGAME_QUIT_ONLINE	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  退出線上遊玩
+SYS_HUD_GUIDE_PRO_DETAILES_NEXT	[IMG_BUTTON_A]  繼續
+SYS_HUD_GUIDE_PRO_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_PRO_CANCEL	[IMG_BUTTON_B]  復原
+SYS_HUD_GUIDE_PRO_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_PRO_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_JOY_L_CONFIRM	[IMG_BUTTON_CLOVER_R]  確定
+SYS_HUD_GUIDE_JOY_R_CONFIRM	[IMG_BUTTON_CLOVER_R]  確定
+SYS_HUD_GUIDE_JOY_L_BACK	[IMG_BUTTON_CLOVER_D]  返回
+SYS_HUD_GUIDE_JOY_R_BACK	[IMG_BUTTON_CLOVER_D]  返回
+SYS_HUD_GUIDE_JOY_L_DETAILS	[IMG_BUTTON_CLOVER_U]  詳情
+SYS_HUD_GUIDE_JOY_R_DETAILS	[IMG_BUTTON_CLOVER_U]  詳情
+SYS_HUD_GUIDE_JOY_L_MOVE	[IMG_BUTTON_CLOVER_L]  移動
+SYS_HUD_GUIDE_JOY_L_MOVE2	[IMG_BUTTON_CLOVER_L]  移動（長按則排序）
+SYS_HUD_GUIDE_JOY_L_SORT	[IMG_BUTTON_CLOVER_L]  長按則排序
+SYS_HUD_GUIDE_JOY_R_MOVE	[IMG_BUTTON_CLOVER_L]  移動
+SYS_HUD_GUIDE_JOY_R_MOVE2	[IMG_BUTTON_CLOVER_L]  移動（長按則排序）
+SYS_HUD_GUIDE_JOY_R_SORT	[IMG_BUTTON_CLOVER_L]  長按則排序
+SYS_HUD_GUIDE_JOY_L_PLAY	[IMG_BUTTON_CLOVER_R]  開始
+SYS_HUD_GUIDE_JOY_R_PLAY	[IMG_BUTTON_CLOVER_R]  開始
+SYS_HUD_GUIDE_JOY_L_GUIDE	[IMG_BUTTON_CLOVER_U]  操作指南
+SYS_HUD_GUIDE_JOY_R_GUIDE	[IMG_BUTTON_CLOVER_U]  操作指南
+SYS_HUD_GUIDE_JOY_L_EXCHANGE	[IMG_BUTTON_CLOVER_L]  更換1P/2P
+SYS_HUD_GUIDE_JOY_R_EXCHANGE	[IMG_BUTTON_CLOVER_L]  更換1P/2P
+SYS_HUD_GUIDE_JOY_L_VOICE_CHAT	[IMG_BUTTON_CLOVER_U]  如何進行語音聊天？
+SYS_HUD_GUIDE_JOY_R_VOICE_CHAT	[IMG_BUTTON_CLOVER_U]  如何進行語音聊天？
+SYS_HUD_GUIDE_JOY_L_PROMOTION	[IMG_BUTTON_CLOVER_U]  關於專用控制器
+SYS_HUD_GUIDE_JOY_R_PROMOTION	[IMG_BUTTON_CLOVER_U]  關於專用控制器
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  中斷選單
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  中斷選單
+SYS_HUD_GUIDE_JOY_L_INGAME_START	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SR]  START鍵
+SYS_HUD_GUIDE_JOY_R_INGAME_START	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SR]  START鍵
+SYS_HUD_GUIDE_JOY_L_INGAME_SELECT	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL]  SELECT鍵
+SYS_HUD_GUIDE_JOY_R_INGAME_SELECT	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL]  SELECT鍵
+SYS_HUD_GUIDE_JOY_L_INGAME_QUIT_ONLINE	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  退出線上遊玩
+SYS_HUD_GUIDE_JOY_R_INGAME_QUIT_ONLINE	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  退出線上遊玩
+SYS_HUD_GUIDE_JOY_L_DETAILS_NEXT	[IMG_BUTTON_CLOVER_R]  繼續
+SYS_HUD_GUIDE_JOY_R_DETAILS_NEXT	[IMG_BUTTON_CLOVER_R]  繼續
+SYS_HUD_GUIDE_JOY_L_COMMIT	[IMG_BUTTON_CLOVER_L]  確定
+SYS_HUD_GUIDE_JOY_R_COMMIT	[IMG_BUTTON_CLOVER_L]  確定
+SYS_HUD_GUIDE_JOY_L_CANCEL	[IMG_BUTTON_CLOVER_D]  復原
+SYS_HUD_GUIDE_JOY_R_CANCEL	[IMG_BUTTON_CLOVER_D]  復原
+SYS_HUD_GUIDE_JOY_L_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_L]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_JOY_R_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_L]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_JOY_L_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_L]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_JOY_R_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_L]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_HOME	[IMG_BUTTON_LARK_RT]  HOME選單
+SYS_HUD_GUIDE_LARK_HOME2	[IMG_BUTTON_LARK_RT] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LARK_R_HOME	[IMG_BUTTON_LARK_RIGHT_DPAD]  HOME選單
+SYS_HUD_GUIDE_LARK_R_HOME2	[IMG_BUTTON_LARK_RIGHT_DPAD] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LUCIA_HOME	[IMG_BUTTON_LUCIA_ZR]  HOME選單
+SYS_HUD_GUIDE_LUCIA_HOME2	[IMG_BUTTON_LUCIA_ZR] : [IMG_BUTTON_HOME]
+SYS_HUD_GUIDE_LARK_CAPTURE	[IMG_BUTTON_LARK_LT]  拍攝
+SYS_HUD_GUIDE_LARK_CAPTURE2	[IMG_BUTTON_LARK_LT] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LARK_L_CAPTURE	[IMG_BUTTON_LARK_LEFT_A]  拍攝
+SYS_HUD_GUIDE_LARK_L_CAPTURE2	[IMG_BUTTON_LARK_LEFT_A] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LUCIA_CAPTURE	[IMG_BUTTON_LUCIA_ZL]  拍攝
+SYS_HUD_GUIDE_LUCIA_CAPTURE2	[IMG_BUTTON_LUCIA_ZL] : [IMG_BUTTON_CAPTURE]
+SYS_HUD_GUIDE_LARK_CONFIRM	[IMG_BUTTON_A]  確定
+SYS_HUD_GUIDE_LARK_BACK	[IMG_BUTTON_B]  返回
+SYS_HUD_GUIDE_LARK_DETAILS	[IMG_BUTTON_LARK_START]  詳情
+SYS_HUD_GUIDE_LARK_MOVE	[IMG_BUTTON_LARK_SELECT]  移動
+SYS_HUD_GUIDE_LARK_MOVE2	[IMG_BUTTON_LARK_SELECT]  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_SORT	[IMG_BUTTON_LARK_SELECT]  長按則排序
+SYS_HUD_GUIDE_LARK_PLAY	[IMG_BUTTON_A]  開始
+SYS_HUD_GUIDE_LARK_GUIDE	[IMG_BUTTON_LARK_START]  操作指南
+SYS_HUD_GUIDE_LARK_EXCHANGE	[IMG_BUTTON_LARK_SELECT]  更換1P/2P
+SYS_HUD_GUIDE_LARK_VOICE_CHAT	[IMG_BUTTON_LARK_START]  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_PROMOTION	[IMG_BUTTON_LARK_START]  關於專用控制器
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  中斷選單
+SYS_HUD_GUIDE_LARK_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  退出線上遊玩
+SYS_HUD_GUIDE_LARK_DETAILES_NEXT	[IMG_BUTTON_A]  繼續
+SYS_HUD_GUIDE_LARK_COMMIT	[IMG_BUTTON_LARK_SELECT]  確定
+SYS_HUD_GUIDE_LARK_CANCEL	[IMG_BUTTON_B]  復原
+SYS_HUD_GUIDE_LARK_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_LARK_SELECT]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_LARK_SELECT]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_L_CONFIRM	[IMG_BUTTON_A]  確定
+SYS_HUD_GUIDE_LARK_L_BACK	[IMG_BUTTON_B]  返回
+SYS_HUD_GUIDE_LARK_L_DETAILS	[IMG_BUTTON_X]  詳情
+SYS_HUD_GUIDE_LARK_L_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_LARK_L_MOVE2	[IMG_BUTTON_Y]  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_L_SORT	[IMG_BUTTON_Y]  長按則排序
+SYS_HUD_GUIDE_LARK_L_PLAY	[IMG_BUTTON_A]  開始
+SYS_HUD_GUIDE_LARK_L_GUIDE	[IMG_BUTTON_X]  操作指南
+SYS_HUD_GUIDE_LARK_L_EXCHANGE	[IMG_BUTTON_Y]  更換1P/2P
+SYS_HUD_GUIDE_LARK_L_VOICE_CHAT	[IMG_BUTTON_X]  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_L_PROMOTION	[IMG_BUTTON_X]  關於專用控制器
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE	[IMG_BUTTON_LARK_LEFT_B]  中斷選單
+SYS_HUD_GUIDE_LARK_L_INGAME_START	[IMG_BUTTON_LARK_START]  START鍵
+SYS_HUD_GUIDE_LARK_L_INGAME_SELECT	[IMG_BUTTON_LARK_SELECT]  SELECT鍵
+SYS_HUD_GUIDE_LARK_L_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LEFT_B]  退出線上遊玩
+SYS_HUD_GUIDE_LARK_L_DETAILES_NEXT	[IMG_BUTTON_A]  繼續
+SYS_HUD_GUIDE_LARK_L_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_LARK_L_CANCEL	[IMG_BUTTON_B]  復原
+SYS_HUD_GUIDE_LARK_L_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_L_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_R_CONFIRM	[IMG_BUTTON_LARK_RIGHT_A]  確定
+SYS_HUD_GUIDE_LARK_R_BACK	[IMG_BUTTON_LARK_RIGHT_B]  返回
+SYS_HUD_GUIDE_LARK_R_DETAILS	[IMG_BUTTON_CLOVER_R]  詳情
+SYS_HUD_GUIDE_LARK_R_MOVE	[IMG_BUTTON_CLOVER_U]  移動
+SYS_HUD_GUIDE_LARK_R_MOVE2	[IMG_BUTTON_CLOVER_U]  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_R_SORT	[IMG_BUTTON_CLOVER_U]  長按則排序
+SYS_HUD_GUIDE_LARK_R_PLAY	[IMG_BUTTON_LARK_RIGHT_A]  開始
+SYS_HUD_GUIDE_LARK_R_GUIDE	[IMG_BUTTON_CLOVER_R]  操作指南
+SYS_HUD_GUIDE_LARK_R_EXCHANGE	[IMG_BUTTON_CLOVER_U]  更換1P/2P
+SYS_HUD_GUIDE_LARK_R_VOICE_CHAT	[IMG_BUTTON_CLOVER_R]  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_R_PROMOTION	[IMG_BUTTON_CLOVER_R]  關於專用控制器
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE	[IMG_BUTTON_CLOVER_D]  中斷選單
+SYS_HUD_GUIDE_LARK_R_INGAME_START	[IMG_BUTTON_CLOVER_R]  START鍵
+SYS_HUD_GUIDE_LARK_R_INGAME_SELECT	[IMG_BUTTON_CLOVER_U]  SELECT鍵
+SYS_HUD_GUIDE_LARK_R_INGAME_QUIT_ONLINE	[IMG_BUTTON_CLOVER_D]  退出線上遊玩
+SYS_HUD_GUIDE_LARK_R_DETAILES_NEXT	[IMG_BUTTON_LARK_RIGHT_A]  繼續
+SYS_HUD_GUIDE_LARK_R_COMMIT	[IMG_BUTTON_CLOVER_U]  確定
+SYS_HUD_GUIDE_LARK_R_CANCEL	[IMG_BUTTON_LARK_RIGHT_B]  復原
+SYS_HUD_GUIDE_LARK_R_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_CLOVER_U]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_R_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_CLOVER_U]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LARK_LR_CONFIRM	[IMG_BUTTON_LARK_RIGHT_A]  確定
+SYS_HUD_GUIDE_LARK_LR_BACK	[IMG_BUTTON_LARK_RIGHT_B]  返回
+SYS_HUD_GUIDE_LARK_LR_DETAILS	[IMG_BUTTON_LARK_START]  詳情
+SYS_HUD_GUIDE_LARK_LR_MOVE	[IMG_BUTTON_LARK_SELECT]  移動
+SYS_HUD_GUIDE_LARK_LR_MOVE2	[IMG_BUTTON_LARK_SELECT]  移動（長按則排序）
+SYS_HUD_GUIDE_LARK_LR_SORT	[IMG_BUTTON_LARK_SELECT]  長按則排序
+SYS_HUD_GUIDE_LARK_LR_PLAY	[IMG_BUTTON_LARK_RIGHT_A]  開始
+SYS_HUD_GUIDE_LARK_LR_GUIDE	[IMG_BUTTON_LARK_START]  操作指南
+SYS_HUD_GUIDE_LARK_LR_EXCHANGE	[IMG_BUTTON_LARK_SELECT]  更換1P/2P
+SYS_HUD_GUIDE_LARK_LR_VOICE_CHAT	[IMG_BUTTON_LARK_START]  如何進行語音聊天？
+SYS_HUD_GUIDE_LARK_LR_PROMOTION	[IMG_BUTTON_LARK_START]  關於專用控制器
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE	[IMG_BUTTON_LARK_LEFT_B]  中斷選單
+SYS_HUD_GUIDE_LARK_LR_INGAME_START	[IMG_BUTTON_LARK_START]  START鍵
+SYS_HUD_GUIDE_LARK_LR_INGAME_SELECT	[IMG_BUTTON_LARK_SELECT]  SELECT鍵
+SYS_HUD_GUIDE_LARK_LR_INGAME_QUIT_ONLINE	[IMG_BUTTON_LARK_LEFT_B]  退出線上遊玩
+SYS_HUD_GUIDE_LARK_LR_DETAILES_NEXT	[IMG_BUTTON_LARK_RIGHT_A]  繼續
+SYS_HUD_GUIDE_LARK_LR_COMMIT	[IMG_BUTTON_LARK_SELECT]  確定
+SYS_HUD_GUIDE_LARK_LR_CANCEL	[IMG_BUTTON_LARK_RIGHT_B]  復原
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_LARK_SELECT]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LARK_LR_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_LARK_SELECT]  關閉低延遲通訊模式
+SYS_HUD_GUIDE_LUCIA_CONFIRM	[IMG_BUTTON_A]  確定
+SYS_HUD_GUIDE_LUCIA_BACK	[IMG_BUTTON_B]  返回
+SYS_HUD_GUIDE_LUCIA_DETAILS	[IMG_BUTTON_X]  詳情
+SYS_HUD_GUIDE_LUCIA_MOVE	[IMG_BUTTON_Y]  移動
+SYS_HUD_GUIDE_LUCIA_MOVE2	[IMG_BUTTON_Y]  移動 （長按則排序）
+SYS_HUD_GUIDE_LUCIA_SORT	[IMG_BUTTON_Y]  長按則排序
+SYS_HUD_GUIDE_LUCIA_PLAY	[IMG_BUTTON_A]  開始
+SYS_HUD_GUIDE_LUCIA_GUIDE	[IMG_BUTTON_X]  操作指南
+SYS_HUD_GUIDE_LUCIA_EXCHANGE	[IMG_BUTTON_Y]  更換1P/2P
+SYS_HUD_GUIDE_LUCIA_VOICE_CHAT	[IMG_BUTTON_X]  如何語音聊天？
+SYS_HUD_GUIDE_LUCIA_PROMOTION	[IMG_BUTTON_X]  關於專用控制器
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  中斷選單
+SYS_HUD_GUIDE_LUCIA_INGAME_QUIT_ONLINE	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  退出線上遊玩
+SYS_HUD_GUIDE_LUCIA_DETAILES_NEXT	[IMG_BUTTON_A]  繼續
+SYS_HUD_GUIDE_LUCIA_COMMIT	[IMG_BUTTON_Y]  確定
+SYS_HUD_GUIDE_LUCIA_CANCEL	[IMG_BUTTON_B]  復原
+SYS_HUD_GUIDE_LUCIA_NETPLAY_OPTIONAL_MODE	[IMG_BUTTON_Y]  開啟低延遲通訊模式
+SYS_HUD_GUIDE_LUCIA_NETPLAY_PRIMARY_MODE	[IMG_BUTTON_Y]  關閉低延遲通訊模式
+SYS_INFO_NICKNAME_OWN	[OWN_NAME]
+SYS_INFO_NICKNAME_HOST	[HOST_NAME]
+SYS_INFO_NICKNAME_GUEST	[GUEST_NAME]
+SYS_INFO_SESSION_PASSWORD	[PASSWORD]
+SYS_INFO_NETWORK_UNSTABLE	您可以在「[IMG_SETTINGS] 設定」更改通訊模式
+SYS_MENU_ROOT_SESSION_COUNTER	[NUMBER_OF_SESSIONS]
+SYS_MENU_ONLINE_ITEM_SESSION1	[ROOM1]
+SYS_MENU_ONLINE_ITEM_SESSION2	[ROOM2]
+SYS_MENU_ONLINE_ITEM_SESSION3	[ROOM3]
+SYS_MENU_ONLINE_ITEM_SESSION4	[ROOM4]
+SYS_MENU_ONLINE_ITEM_SESSION5	[ROOM5]
+SYS_MENU_ONLINE_ITEM_SESSION6	[ROOM6]
+SYS_MENU_ONLINE_DESC_SESSION_LIST	選擇要一起遊玩的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L	選擇要一起遊玩的朋友　[IMG_BUTTON_CLOVER_L] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R	選擇要一起遊玩的朋友　[IMG_BUTTON_CLOVER_L] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK	選擇要一起遊玩的朋友　[IMG_BUTTON_LARK_SELECT] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L	選擇要一起遊玩的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R	選擇要一起遊玩的朋友　[IMG_BUTTON_CLOVER_U] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR	選擇要一起遊玩的朋友　[IMG_BUTTON_LARK_SELECT] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA	選擇要一起遊玩的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_INVITE	選擇要會合的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_L_INVITE	選擇要會合的朋友　[IMG_BUTTON_CLOVER_L] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_JOY_R_INVITE	選擇要會合的朋友　[IMG_BUTTON_CLOVER_L] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_INVITE	選擇要會合的朋友　[IMG_BUTTON_LARK_SELECT] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_L_INVITE	選擇要會合的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_R_INVITE	選擇要會合的朋友　[IMG_BUTTON_CLOVER_U] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LARK_LR_INVITE	選擇要會合的朋友　[IMG_BUTTON_LARK_SELECT] 重新搜尋
+SYS_MENU_ONLINE_DESC_SESSION_LIST_LUCIA_INVITE	選擇要會合的朋友　[IMG_BUTTON_Y] 重新搜尋
+SYS_MENU_DETAILS_DESC_RELEASE_INFO	[DETAILED_COMPANY]　　[DETAILED_RELEASE_YEAR]年發售
+SYS_MENU_DETAILS_DESC_PLAY_INFO_LONG_TIME	遊玩人數：[DETAILED_PLAYERS]人　　遊玩時間：[DETAILED_PLAYTIME]小時[DETAILED_PLAYTIME_MIN]分鐘
+SYS_MENU_DETAILS_DESC_PLAY_INFO_SHORT_TIME	遊玩人數：[DETAILED_PLAYERS]人　　遊玩時間：[DETAILED_PLAYTIME_MIN]分鐘
+SYS_MENU_DETAILS_DESC_PLAY_INFO_NO_TIME	遊玩人數：[DETAILED_PLAYERS]人
+SYS_MENU_DETAIL_PAGE	[DETAIL_NOW_PAGE] / [DETAIL_ALL_PAGE]
+SYS_MENU_SAVESLOT_ITEM_EMPTY	儲存資料[SAVE_INDEX]
+SYS_MENU_SAVESLOT_ITEM_VALID	儲存資料[SAVE_INDEX]\n[SAVE_YEAR]/[SAVE_MONTH]/[SAVE_DAY] [SAVE_HOUR]:[SAVE_MINUTE]
+SYS_MENU_SPECIAL2_TEXT	SPECIAL[NUMBER]
+SYS_MENU_FRIENDPRESENCE	正在遊玩的遊戲：[FRIENDPRESENCE_TITLENAME]
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING_TEXT	已與[GUEST_NAME]切斷通訊。\n將繼續遊玩並等待朋友。
+SYS_NOTIFICATION_OTHER_PLAYER_MISSING2_TEXT	已與[HOST_NAME]切斷通訊。
+SYS_NOTIFICATION_UNSTABLE_NETWORK_TEXT	由於您與對方的通訊環境不佳，可能無法順暢遊玩。\n您可以在「[IMG_SETTINGS_L] 設定」更改通訊模式。
+SYS_NOTIFICATION_OPERATION_DENIED_TEXT	[HOST_NAME]正在操作。
+SYS_NOTIFICATION_OPERATION_DENIED2_TEXT	[GUEST_NAME]正在操作。
+SYS_POPUP_GUIDE_PRO_CONTROLLER_SELECT	按[IMG_BUTTON_MINUS]鍵移動游標
+SYS_POPUP_GUIDE_PRO_CONTROLLER_START	按[IMG_BUTTON_PLUS]鍵開始遊戲
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_SELECT	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL]移動游標
+SYS_POPUP_GUIDE_JOY_L_CONTROLLER_START	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SR]開始遊戲
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_SELECT	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL]移動游標
+SYS_POPUP_GUIDE_JOY_R_CONTROLLER_START	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SR]開始遊戲
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_SELECT	按[IMG_BUTTON_LARK_SELECT]鍵移動游標
+SYS_POPUP_GUIDE_LARK_L_CONTROLLER_START	按[IMG_BUTTON_LARK_START]鍵開始遊戲
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_SELECT	按[IMG_BUTTON_CLOVER_U]鍵移動游標
+SYS_POPUP_GUIDE_LARK_R_CONTROLLER_START	按[IMG_BUTTON_CLOVER_R]鍵開始遊戲
+SYS_POPUP_GUIDE_PRO_PAUSE_MENU	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]中斷遊戲
+SYS_POPUP_GUIDE_JOY_L_PAUSE_MENU	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]中斷遊戲
+SYS_POPUP_GUIDE_JOY_R_PAUSE_MENU	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]中斷遊戲
+SYS_POPUP_GUIDE_LARK_PAUSE_MENU	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]中斷遊戲
+SYS_POPUP_GUIDE_LARK_L_PAUSE_MENU	按[IMG_BUTTON_LARK_LEFT_B]鍵中斷遊戲
+SYS_POPUP_GUIDE_LARK_R_PAUSE_MENU	按[IMG_BUTTON_CLOVER_D]鍵中斷遊戲
+SYS_POPUP_GUIDE_LUCIA_PAUSE_MENU	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]中斷遊戲
+SYS_POPUP_GUIDE_PRO_SWAP_PLAYERS	在中斷選單按[IMG_BUTTON_Y]鍵可更換1P/2P
+SYS_POPUP_GUIDE_JOY_L_SWAP_PLAYERS	在中斷選單按[IMG_BUTTON_CLOVER_L]鍵可更換1P/2P
+SYS_POPUP_GUIDE_JOY_R_SWAP_PLAYERS	在中斷選單按[IMG_BUTTON_CLOVER_L]鍵可更換1P/2P
+SYS_POPUP_GUIDE_FINGER_CURSOR	[IMG_GAMEPAD_STICK_R]為手掌游標，按[IMG_BUTTON_STICK_R]為拍手
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_HOME	HOME選單按[IMG_BUTTON_LARK_RT]鍵
+SYS_POPUP_GUIDE_LARK_SYSTEM_BUTTON_CAPTURE	拍攝按[IMG_BUTTON_LARK_LT]鍵
+SYS_POPUP_GUIDE_LARK_R_SYSTEM_BUTTON_HOME	HOME選單按[IMG_BUTTON_LARK_RIGHT_DPAD]鍵
+SYS_POPUP_GUIDE_LARK_L_SYSTEM_BUTTON_CAPTURE	拍攝按[IMG_BUTTON_LARK_LEFT_A]鍵
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_HOME	HOME選單按[IMG_BUTTON_LUCIA_ZR]鍵
+SYS_POPUP_GUIDE_LUCIA_SYSTEM_BUTTON_CAPTURE	拍攝按[IMG_BUTTON_LUCIA_ZL]鍵
+SYS_POPUP_GUIDE_PRO_REWIND	失誤也沒有關係。長按[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_JOY_L_REWIND	失誤也沒有關係。長按[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_JOY_R_REWIND	失誤也沒有關係。長按[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_REWIND	失誤也沒有關係。長按[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_L_REWIND	失誤也沒有關係。長按[IMG_BUTTON_LARK_LEFT_B]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LARK_R_REWIND	失誤也沒有關係。長按[IMG_BUTTON_CLOVER_D]就會倒回。\n可以在看中的地方重來。
+SYS_POPUP_GUIDE_LUCIA_REWIND	失誤也沒有關係。長按[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]就會倒回。\n可以在看中的地方重來。
+SYS_HUD_GUIDE_PRO_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_ZL] + [IMG_BUTTON_ZR]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_JOY_L_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_MINUS] + [IMG_BUTTON_ZL]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_JOY_R_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_PLUS] + [IMG_BUTTON_ZR]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_L_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LEFT_B]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_R_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_CLOVER_D]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LARK_LR_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LARK_LEFT_B]  中斷選單（長按則倒回）
+SYS_HUD_GUIDE_LUCIA_INGAME_PAUSE_WITH_REWIND	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR]  中斷選單（長按則倒回）
+SYS_SORT_HEADING_PLAY_TIME	[VALUE]分鐘
+SYS_SORT_HEADING_DATE_PLAYED_1	[YEAR]/[MONTH]/[DAY]
+SYS_SORT_HEADING_DATE_PLAYED_2	[MONTH]/[DAY]
+SYS_USER_GUIDE_JOY_L_COMBINATION	[IMG_BUTTON_MINUS] + [IMG_BUTTON_SL] SELECT    [IMG_BUTTON_MINUS] + [IMG_BUTTON_SR] START
+SYS_USER_GUIDE_JOY_R_COMBINATION	[IMG_BUTTON_PLUS] + [IMG_BUTTON_SL] SELECT    [IMG_BUTTON_PLUS] + [IMG_BUTTON_SR] START
+SYS_USER_GUIDE_LARK_COMBINATION	[IMG_BUTTON_LARK_LT] + [IMG_BUTTON_LARK_RT] 中斷選單
+SYS_USER_GUIDE_LUCIA_COMBINATION	[IMG_BUTTON_LUCIA_ZL] + [IMG_BUTTON_LUCIA_ZR] 中斷選單
+SYS_USER_GUIDE_SYSTEM_HOME	[IMG_BUTTON_HOME] HOME選單
+SYS_USER_GUIDE_SYSTEM_CAPTURE	[IMG_BUTTON_CAPTURE] 拍攝
+SYS_USER_GUIDE_SYSTEM_CAPTURE2	拍攝 [IMG_BUTTON_CAPTURE]
+titles
+CLV-P-HAAAJ	超級瑪利歐兄弟
+CLV-P-HAABJ	超級瑪利歐兄弟2
+CLV-P-HAACJ	超級瑪利歐兄弟3
+CLV-P-HAACJ-sp1	超級瑪利歐兄弟3
+CLV-P-HAADJ	超級瑪利歐USA
+CLV-P-HAAEJ	ドンキーコング
+CLV-P-HAAFJ	ドンキーコングJR.
+CLV-P-HAAGJ	ドンキーコング３
+CLV-P-HAAHJ	エキサイトバイク
+CLV-P-HAAJJ	MOTHER
+CLV-P-HAAKJ	FIRE EMBLEM 暗黒竜と光の剣
+CLV-P-HAAKJ-sp1	FIRE EMBLEM 暗黒竜と光の剣
+CLV-P-HAAKJ-sp2	FIRE EMBLEM 暗黒竜と光の剣
+CLV-P-HAAMJ	マリオオープンゴルフ
+CLV-P-HAAMJ-sp1	マリオオープンゴルフ
+CLV-P-HAANJ	薩爾達傳說
+CLV-P-HAANJ-sp1	薩爾達傳說
+CLV-P-HAAPJ	星之卡比 夢の泉の物語
+CLV-P-HAAPJ-sp1	星之卡比 夢の泉の物語
+CLV-P-HAAQJ	密特羅德
+CLV-P-HAAQJ-sp1	密特羅德
+CLV-P-HAAQJ-sp2	密特羅德
+CLV-P-HAARJ	バルーンファイト
+CLV-P-HAASJ	リンクの冒険
+CLV-P-HAASJ-sp1	リンクの冒険
+CLV-P-HAATJ	パンチアウト!!（賞品版）
+CLV-P-HAAUJ	アイスクライマー
+CLV-P-HAAVJ	光神話 パルテナの鏡
+CLV-P-HAAVJ-sp1	光神話 パルテナの鏡
+CLV-P-HAAWJ	瑪利歐兄弟
+CLV-P-HAAXJ	瑪利歐醫生
+CLV-P-HAAXJ-sp1	瑪利歐醫生
+CLV-P-HAAYJ	ヨッシーのたまご
+CLV-P-HABCJ	魔界村®
+CLV-P-HABCJ-sp1	魔界村®
+CLV-P-HABRJ	グラディウス
+CLV-P-HABRJ-sp1	グラディウス
+CLV-P-HABRJ-sp2	グラディウス
+CLV-P-HACAJ	イー・アル・カンフー
+CLV-P-HACBJ	忍者龍剣伝
+CLV-P-HACBJ-sp1	忍者龍剣伝
+CLV-P-HACCJ	ソロモンの鍵
+CLV-P-HACDJ	テクモボウル
+CLV-P-HACEJ	つっぱり大相撲
+CLV-P-HACFJ	雙截龍
+CLV-P-HACHJ	雙截龍Ⅱ The Revenge
+CLV-P-HACJJ	ダウンタウン熱血物語
+CLV-P-HACKJ	熱血高校ドッジボール部
+CLV-P-HACLJ	ダウンタウン熱血行進曲 それゆけ大運動会
+CLV-P-HACPJ	アトランチスの謎
+CLV-P-HACRJ	サッカー
+CLV-P-HACSJ	忍者茶茶丸
+CLV-P-HACTJ	アイスホッケー
+CLV-P-HACUJ	超惑星戦記 メタファイト
+CLV-P-HACUJ-sp1	超惑星戦記 メタファイト
+CLV-P-HACWJ	アドベンチャーズ オブ ロロ
+CLV-P-HACXJ	ワリオの森
+CLV-P-HACYJ	テニス
+CLV-P-HACZJ	レッキングクルー
+CLV-P-HADAJ	ファミコンウォーズ
+CLV-P-HADBJ	ジョイメカファイト
+CLV-P-HADCJ	スマッシュピンポン
+CLV-P-HADDJ	スターソルジャー
+CLV-P-HADDJ-sp1	スターソルジャー
+CLV-P-HADGJ	ルート16ターボ
+CLV-P-HADLJ	プロレス
+CLV-P-HADPJ	ベースボール
+CLV-P-HADTJ	ツインビー
+CLV-P-HADTJ-sp1	ツインビー
+CLV-P-HADUJ	マイティボンジャック
+CLV-P-HADUJ-sp1	マイティボンジャック
+CLV-P-HADVJ	スーパーチャイニーズ
+CLV-P-HADXJ	シティコネクション
+CLV-P-HADYJ	アルゴスの戦士 はちゃめちゃ大進撃
+CLV-P-HAEAJ	ゴッド・スレイヤー はるか天空のソナタ
+CLV-P-HAECJ	ガンデック
+CLV-P-HAEHJ	クルクルランド
+CLV-P-HAEIJ	VS.エキサイトバイク
+CLV-P-HAEJJ	バレーボール
+CLV-P-HAEKJ	ラフワールド
+CLV-P-HAERJ	ソロモンの鍵２ ～クールミン島救出作戦～
+CLV-P-HAGQJ	ディグダグⅡ
+CLV-P-HAGUJ	マッピーランド

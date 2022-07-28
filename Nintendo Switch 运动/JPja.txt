@@ -159,8 +159,6 @@ T_RankDown	降格
 L_BtnGuide-T_IcnRight	
 T_ProSettingTitle	さらに厳しい世界へ！
 T_ProSetting	ここからは{r2[ま]}負{/r2}けが{r2[つづ]}続{/r2}くと リーグが{r2[こうかく]}降格{/r2}することも…！\nもし{r2[つか]}疲{/r2}れたら【オプション】から プロをお{r2[やす]}休{/r2}みしよう
-T_ProLeague	{r2[さいこう]}最高{/r2}ランクに{r2[しょうかく]}昇格{/r2}した !\nさらに{r2[しょうり]}勝利{/r2}を{r2[かさ]}重{/r2}ねると {r2[つよ]}強{/r2}さをあらわす{r2[すうじ]}数字{/r2}が{r2[ふ]}増{/r2}えていくぞ
-T_ProLeagueTitle	Aリーグに昇格 !
 LayoutMsg\Cmn_DemoResult.msbt
 T_text_03	-
 L_Skip-T_IcnRight	
@@ -184,8 +182,20 @@ LayoutMsg\Cmn_DlgBackTitle.msbt
 T_TextArea	タイトルへもどりますか ?
 L_Btn00-T_text	いいえ
 L_Btn01-T_text	はい
+LayoutMsg\Cmn_DlgChangeLegPlay.msbt
+L_Player00-L_Choice00-T_Text	両手で操作
+L_Player00-L_Choice01-T_Text	レッグバンド操作
+L_Player01-L_Choice00-T_Text	両手で操作
+L_Player01-L_Choice01-T_Text	レッグバンド操作
+L_Btn01-T_text	OK
+T_Title	操作方法の変更
+T_Description	レッグバンド操作では 足の動きでボールをキックします
 LayoutMsg\Cmn_DlgController.msbt
 L_Guide-T_IcnRight	
+LayoutMsg\Cmn_DlgControllerConnect.msbt
+T_TextArea	Joy-Conを{r2[ふ]}振{/r2}っても {r2[はんのう]}反応{/r2}しないことがある{r2[ばあい]}場合{/r2}は \n{r2[でんし]}電子{/r2}レンジ・{r2[むせんきき]}無線機器{/r2}・{r2[きんぞくせい]}金属製{/r2}の{r2[たな]}棚{/r2}など\n{r2[でんぱかんしょう]}電波干渉{/r2}を{r2[ひ]}引{/r2}き{r2[お]}起{/r2}こすものから はなれて{r2[そうさ]}操作{/r2}するか\n{r2[きき]}機器{/r2}の{r2[でんげん]}電源{/r2}をOFFにして {r2[かいぜん]}改善{/r2}されるかお{r2[ため]}試{/r2}しください
+L_Btn01-T_text	OK
+T_Title	Joy-Conの通信が不安定になっています
 LayoutMsg\Cmn_DlgControllerStrap.msbt
 T_Guide00	{color[0000]}ストラップ{color[ffff]}を{r2[と]}取{/r2}り{r2[つ]}付{/r2}けて {r2[あそ]}遊{/r2}んでいますか ?\nつぎのスポーツを{r2[あそ]}遊{/r2}ぶときも {r2[わす]}忘{/r2}れずに !
 T_URL	https://www.nintendo.co.jp/support/switch_joyconstrap.html
@@ -202,8 +212,14 @@ L_BtnGuide-T_IcnRight	
 L_BtnGuide-T_Skip	OK
 LayoutMsg\Cmn_DlgFriendHostWaiting.msbt
 T_Loop	...
+LayoutMsg\Cmn_DlgFriendRoomChoice.msbt
+T_TextArea	合流するユーザーを えらんでください
+T_Search	{r2[へや]}部屋{/r2}をさがしています…
+T_NotFound	{r2[へや]}部屋{/r2}が{r2[み]}見{/r2}つかりませんでした
+L_KeyGuide-T_IcnRight	
+L_KeyGuide-T_Skip	とじる
 LayoutMsg\Cmn_DlgLegBand.msbt
-T_TextArea	レッグバンドを使うと\n専用ルール【{color[0000]}シュート対決{color[ffff]}】を遊べます !
+T_TextArea	レッグバンドを使うと\n{color[0000]}足の動き{color[ffff]}で ボールをキックして遊べます !
 L_Btn-T_text	OK
 LayoutMsg\Cmn_DlgNSO.msbt
 T_TextL	このまま おためしモードで続けます
@@ -229,13 +245,21 @@ LayoutMsg\Cmn_DlgRewardUpdate.msbt
 L_RewardList-T_CompleteBonus	コンプリートボーナス
 T_Title	新しいアイテムが追加された !
 L_Guide-T_IcnRight	
+LayoutMsg\Cmn_DlgRoomId.msbt
+T_Title	部屋ID
 LayoutMsg\Cmn_DlgTrialMode.msbt
 T_TextArea	{r2[ニンテンドースイッチオンライン]}Nintendo Switch Online{/r2} に\n{r2[かにゅう]}加入{/r2}していないユーザーです\n{color[0000]}おためしモード{color[ffff]}をお{r2[たの]}楽{/r2}しみください\n{r2[たいせんあいて]}対戦相手{/r2}はコンピューターになります
 L_Btn01-T_text	OK
 L_BtnGuide-T_Skip	Nintendo Switch Online に加入する
+T_SubText	すでに加入している場合は 電源ボタンを3秒長押しして\n「電源オプション」から 本体を再起動してください
 LayoutMsg\Cmn_DlgTVMode.msbt
 L_BtnGuide-T_IcnRight	
 L_BtnGuide-T_Skip	もどる
+LayoutMsg\Cmn_DlgUpdate.msbt
+T_Footer	そのほか 一部のゲーム内容を変更しました\nくわしくは Nintendo Switch Sportsの公式サイトをご確認ください
+T_Title	アップデートのおしらせ
+L_BtnGuide-T_IcnRight	
+L_BtnGuide-T_Skip	とじる
 LayoutMsg\Cmn_DlgUserSelect.msbt
 L_User00-T_Guest	ゲスト
 LayoutMsg\Cmn_EmoteEdit.msbt
@@ -270,6 +294,7 @@ L_FriendPlayer_00-T_Host	操作中
 L_KeyGuidePlay-T_IcnRight	
 L_KeyGuidePlay-T_Skip	くわしく
 T_Start	このメンバーで遊びます !
+L_RoomId-T_Skip	部屋IDを表示
 LayoutMsg\Cmn_FriendMenu.msbt
 L_BtnMakeRoom-T_Text	新しく部屋を作る
 L_BtnMemberRoom-T_Text	部屋に合流する
@@ -281,6 +306,7 @@ L_BtnFriend_00-T_StatusPlay	遊んでいません
 L_BtnFriend_00-T_StatusDisable	合流できません
 L_Reload-T_IcnRight	
 L_Reload-T_Skip	整列する
+L_RoomId-T_Skip	部屋IDでさがす
 LayoutMsg\Cmn_FriendRoomRule.msbt
 T_Info	遊べるスポーツは 参加する{color[0000]}人数{color[ffff]}・Nintendo Switchの{color[0000]}台数{color[ffff]}によって変わります\n遊びたいスポーツがえらべないときは 人数・台数をこえないように\n別の部屋を作って分かれるか 合流メンバーが部屋から抜けてください\n\nサッカーを遊ぶには すべてのプレイヤーが Joy-Conを{color[0000]}2本ずつ{color[ffff]}接続している必要があります
 L_Vol-T_Sports	バレーボール
@@ -303,6 +329,10 @@ L_VoiceChat-T_ListTitle	ボイスチャット
 L_VoiceChat-T_Off	なし
 L_VoiceChat-T_On	あり
 L_VoiceChat-T_Description	スマートフォン向けアプリ「Nintendo Switch Online」が必要です
+L_VoiceChat-T_Invalid	使えません
+L_RoomId-T_ListTitle	部屋ID (だれとでも合流)
+L_RoomId-T_Off	なし
+L_RoomId-T_Description	フレンドとの合流にも IDでの検索が必要になります
 LayoutMsg\Cmn_GameReady.msbt
 T_Count3	3
 T_Count2	2
@@ -337,6 +367,11 @@ L_Player03-T_OKtext	OK
 L_LegBandGuide-L_Player00-T_OK	OK
 L_LegBandGuide-L_Player01-T_OK	OK
 L_Player00-T_Error	Joy-Conの{r2[せつぞく]}接続{/r2}が{r2[き]}切{/r2}れました\n{r2[でんげん]}電源{/r2}を{r2[かくにん]}確認{/r2}し {r2[せつぞく]}接続{/r2}しなおしてください
+L_Leg-T_IcnRight	
+L_Leg-T_Skip	レッグバンド操作
+L_Player00-T_OKTextLeg	OK
+L_Attention-T_Notice	レッグバンドを使いたいときは\n で操作方法を変更できます
+L_Attention-L_KeyGuide-T_IcnRight	
 LayoutMsg\Cmn_MainMenu.msbt
 L_SportLogoVol-T_SportName	バレーボール
 L_SportLogoBad-T_SportName	バドミントン
@@ -356,6 +391,8 @@ T_Friend	フレンドと遊ぶ
 L_Btn00-T_text	やめる
 L_Btn01-T_text	さがす
 T_TrialMode	おためしモード中
+L_SportLogoSoc-L_LegPlay-T_IcnRight	
+L_SportLogoSoc-L_LegPlay-T_Skip	操作方法の変更
 LayoutMsg\Cmn_Matching.msbt
 L_Sport00-T_Random	おまかせ
 T_Member	今回のメンバー
@@ -418,6 +455,10 @@ L_TnsTeam-L_PlayerA00-T_CPU	CPU
 L_TnsCPULevel-T_NoPlay	CPUはいません
 T_CPULevel01	CPUのつよさ
 L_ShareJoycon00-T_Text	このJoy-Conを使います
+L_BwlMember-L_Player00-T_CPU	CPU
+L_BwlCPU-T_ListTitle	CPUの参加
+L_BwlCPU-L_Choice00-T_Text	CPU なし
+L_BwlCPU-L_Choice01-T_Text	CPU あり
 LayoutMsg\Cmn_MiniStart.msbt
 T_Start	スタート
 LayoutMsg\Cmn_ModeControllerSelect.msbt
@@ -455,16 +496,6 @@ L_DeletePlayer-T_Text	ユーザーの消去
 L_RankList00-L_Choice01-T_Text	プロをお休み
 L_RankList00-L_Choice00-T_Text	プロと対戦
 L_RankList00-T_NoPro	まだプロリーグに挑戦できません
-L_EmoteVisible-L_Choice01-T_Text	OFF
-L_EmoteVisible-L_Choice00-T_Text	ON
-L_CameraUpDown-T_ListTitle	カメラ操作(上下)
-L_CameraUpDown-L_Choice01-T_Text	リバース
-L_CameraUpDown-L_Choice00-T_Text	ノーマル
-L_CameraLeftRight-T_ListTitle	カメラ操作(左右)
-L_CameraLeftRight-L_Choice01-T_Text	リバース
-L_CameraLeftRight-L_Choice00-T_Text	ノーマル
-T_EmoteVisible	スタンプの表示
-T_CameraSetting	サッカーの設定
 L_DominantHand_Vol-T_ListTitle	バレーボール
 L_DominantHand_Vol-L_Choice01-T_Text	右
 L_DominantHand_Vol-L_Choice00-T_Text	左
@@ -493,9 +524,6 @@ L_DominantHand_Tns-T_NoPlay	まだ遊んだことがありません
 L_DominantHand_Glf-T_NoPlay	まだ遊んだことがありません
 L_DominantHand_SOC-T_NoPlay	まだ遊んだことがありません
 T_UserSet	ユーザー設定
-L_MiniMap-T_ListTitle	ミニマップ
-L_MiniMap-L_Choice01-T_Text	固定
-L_MiniMap-L_Choice00-T_Text	回転
 LayoutMsg\Cmn_PlayerTitleEdit.msbt
 T_PlayerTitleHeader	かたがき
 L_BtnsSort-L_BtnOrder_00-T_Text	種類順
@@ -503,10 +531,10 @@ L_BtnsSort-L_BtnOrder_01-T_Text	なまえ順
 LayoutMsg\Cmn_RankLegend.msbt
 L_BtnGuide-T_IcnRight	
 T_Title	レジェンド認定
-T_Text	すべてのスポーツでAリーグに{r2[しょうかく]}昇格{/r2}したため {color[0000]}レジェンド{color[ffff]}に{r2[にんてい]}認定{/r2}された !\nこれからも {r2[スポッコスクエア]}SPOCCO SQUARE{/r2}を さらに{r2[も]}盛{/r2}り{r2[あ]}上{/r2}げていこう
-T_Rank	A
+T_Text	すべてのスポーツでAリーグ{r2[いじょう]}以上{/r2}に{r2[しょうかく]}昇格{/r2}したため {color[0000]}レジェンド{color[ffff]}に{r2[にんてい]}認定{/r2}された !\nこれからも {r2[スポッコスクエア]}SPOCCO SQUARE{/r2}を さらに{r2[も]}盛{/r2}り{r2[あ]}上{/r2}げていこう
 LayoutMsg\Cmn_RankProCertification.msbt
 L_BtnGuide-T_IcnRight	
+T_SportsLeg	レッグバンド操作
 LayoutMsg\Cmn_RankProGuide.msbt
 T_TextArea	{r2[じつりょく]}実力{/r2}のあるプレイヤーが{r2[あつ]}集{/r2}まる {r2[しんけん]}真剣{/r2}{r2[しょうぶ]}勝負{/r2}の{r2[せかい]}世界{/r2}\nたくさん{r2[か]}勝{/r2}つことで より{r2[たか]}高{/r2}いリーグに{r2[あ]}上{/r2}がっていく\n{r2[じぶん]}自分{/r2}の{r2[じつりょく]}実力{/r2}をためしてみよう！
 T_Title	プロリーグとは…
@@ -633,6 +661,8 @@ L_KeyGuide-L_BJump-T_Text	ジャンプ
 L_KeyGuide-L_BJump-T_Icn	
 L_KeyGuide-L_ZLRun-T_Text	ダッシュ
 L_KeyGuide-L_ZLRun-T_Icn	
+LayoutMsg\SOC_LegReminding.msbt
+T_Text	ダッシュのときは\n{r2[あし]}足{/r2}を{r2[うご]}動{/r2}かさないでください
 LayoutMsg\SOC_MiniGoal.msbt
 T_Goal	ゴール !
 T_Miss	ミス
@@ -649,6 +679,9 @@ T_Description	さきにゴールで勝ち !
 LayoutMsg\SOC_TurnChange.msbt
 L_BtnGuide-T_IcnRight	
 LayoutMsg\SOC_Wait.msbt
+L_Wait-T_Wait	ほかのプレイヤーを待っています
+L_Wait-T_Loop	...
+L_Wait-T_Ready	まもなく始まります !
 L_Wait-T_Slash	/
 LayoutMsg\SOC_WearLegBand.msbt
 T_DiscriptionLeg	レッグバンドを装着してください
@@ -687,6 +720,9 @@ LayoutMsg\Vol_GetScore.msbt
 T_ScoreBar	-
 LayoutMsg\Vol_Impression.msbt
 T_NiceA	ナイス !
+LayoutMsg\Vol_KeyGuideMove.msbt
+L_Move-T_Text	左右に移動
+L_Move-T_Icn	
 LayoutMsg\Vol_NextAction.msbt
 T_Spike	{size[3c00]}つぎは{size[6400]} スパイク
 T_Receive	{size[3c00]}つぎは{size[6400]} レシーブ
@@ -694,6 +730,7 @@ T_Toss	{size[3c00]}つぎは{size[6400]} トス
 T_Block	{size[3c00]}つぎは{size[6400]} ブロック
 LayoutMsg\Vol_Quick.msbt
 T_Quick	クイック !
+T_Broad_TeamMate	ブロード !
 ProgramMsg\Advice.msbt
 SoccerTitle_000	パス
 Soccer_000	{color[0200]} を{r2[お]}押{/r2}しながら{color[ffff]}キックすると {r2[みかた]}味方{/r2}にパス !\nキックした{r2[ほうこう]}方向{/r2}にいる{r2[みかた]}味方{/r2}に ボールが{r2[と]}飛{/r2}ぶぞ
@@ -731,10 +768,14 @@ SoccerTitle_016	キックのコツ その2
 Soccer_016	ナナメ{r2[ほうこう]}方向{/r2}へ ボールを{r2[と]}飛{/r2}ばしたいときは\n{r2[がめん]}画面{/r2}に{r2[む]}向{/r2}かって {color[0200]}ナナメの{r2[せん]}線{/r2}を{r2[えが]}描{/r2}くように{color[ffff]}Joy-Conを{r2[ふ]}振{/r2}ろう !
 SoccerTitle_017	タイミングが{r2[だいじ]}大事{/r2}
 Soccer_017	ボールが{r2[と]}飛{/r2}ぶ{r2[ほうこう]}方向{/r2}は キックするタイミングで{r2[き]}決{/r2}まる\n{r2[あそ]}遊{/r2}びながら{r2[かんかく]}感覚{/r2}をつかんでいこう
-Soccer_018	レッグバンドでの操作中は\n{color[0200]}ジョギングのように足を動かす{color[ffff]}とダッシュできる!
-Soccer_019	レッグバンドでの操作中は ダイビングヘッドが使えない\nその代わり ボールをキックする力が強いぞ
-Soccer_020	レッグバンドでの操作中は ダッシュがちょっぴり早い !\n体を動かしてダッシュするのが大変なぶん オマケしてます
-Soccer_021	レッグバンドでの操作方法は \n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}遊びかた{color[ffff]}】で確認できる
+SoccerTitle_018	レッグバンド{r2[そうさ]}操作{/r2} : ダッシュ
+Soccer_018	レッグバンド{r2[そうさ]}操作{/r2}では\n{color[0200]}ジョギングのように{r2[うで]}腕{/r2}を{r2[うご]}動{/r2}かす{color[ffff]}とダッシュできる!
+SoccerTitle_019	レッグバンド{r2[そうさ]}操作{/r2} : キックの{r2[せいのう]}性能{/r2}
+Soccer_019	レッグバンド{r2[そうさ]}操作{/r2}では ダイビングヘッドが{r2[つか]}使{/r2}えない\nそのかわりに ボールをキックする{r2[ちから]}力{/r2}が{r2[つよ]}強{/r2}いぞ
+SoccerTitle_020	スタミナ{r2[かんり]}管理{/r2}
+Soccer_020	いざというときのために \nスタミナを{r2[おんぞん]}温存{/r2}しておくのが {r2[しょうり]}勝利{/r2}の{r2[ひけつ]}秘訣{/r2} !
+SoccerTitle_021	レッグバンド{r2[そうさ]}操作{/r2} : {r2[あそ]}遊{/r2}びかた
+Soccer_021	レッグバンドでの{r2[そうさほうほう]}操作方法{/r2}は \n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}{r2[あそ]}遊{/r2}びかた{color[ffff]}】で{r2[かくにん]}確認{/r2}できる
 SoccerTitle_022	ミニマップの{r2[せってい]}設定{/r2}
 Soccer_022	ミニマップには {r2[かいてん]}回転{/r2}と{r2[こてい]}固定{/r2}の２つの{r2[せってい]}設定{/r2}がある\n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}ユーザー{r2[せってい]}設定{/r2}{color[ffff]}】から{r2[へんこう]}変更{/r2}できるぞ
 SoccerTitle_023	ゴールデンボール
@@ -743,6 +784,20 @@ SoccerTitle_024	{r2[かべ]}壁{/r2}の{r2[はんしゃ]}反射{/r2}
 Soccer_024	{r2[かべ]}壁{/r2}にボールが{r2[はんしゃ]}反射{/r2}するように シュートしてみよう\n{r2[あいて]}相手{/r2}のウラをかけるかも !?
 SoccerTitle_025	ミスが{r2[おお]}多{/r2}いときは…
 Soccer_025	ボールが{color[0200]}{r2[じめん]}地面{/r2}に{r2[つ]}着{/r2}くタイミング{color[ffff]}をねらって キックしよう
+SoccerTitle_026	パスのコツ
+Soccer_026	Joy-Conを{r2[ふ]}振{/r2}り{r2[あ]}上{/r2}げてパスすると ボールが{r2[たか]}高{/r2}く{r2[と]}飛{/r2}ぶ\n{r2[ふ]}振{/r2}り{r2[お]}下{/r2}ろしてパスすれば ボールが{r2[ひく]}低{/r2}く{r2[と]}飛{/r2}ぶぞ
+SoccerTitle_027	カメラのリセット
+Soccer_027	{color[0200]} {color[ffff]}でカメラをリセットできる\nボールを{r2[みうしな]}見失{/r2}ったときに {r2[つか]}使{/r2}ってみよう
+SoccerTitle_028	レッグバンド{r2[そうさ]}操作{/r2} :  スティックで移動
+Soccer_028	レッグバンド{r2[そうさ]}操作{/r2}では プレイヤーが{r2[じどう]}自動{/r2}で{r2[いどう]}移動{/r2}するが\n{color[0200]} スティック{color[ffff]}で {r2[じゆう]}自由{/r2}に{r2[うご]}動{/r2}くこともできる
+SoccerTitle_029	レッグバンド{r2[そうさ]}操作{/r2} : オート{r2[いどう]}移動{/r2}の{r2[せってい]}設定{/r2}
+Soccer_029	プレイヤーのオート{r2[いどう]}移動{/r2}をOFFにしたいときは\n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}ユーザー{r2[せってい]}設定{/r2}{color[ffff]}】で{r2[へんこう]}変更{/r2}できる
+SoccerTitle_030	カメラモード
+Soccer_030	カメラモードには ノーマル と フリー の2{r2[しゅるい]}種類{/r2}がある\n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}ユーザー{r2[せってい]}設定{/r2}{color[ffff]}】から{r2[へんこう]}変更{/r2}できるぞ
+SoccerTitle_031	レッグバンド{r2[そうさ]}操作{/r2} : キック{r2[ほうこう]}方向{/r2}の{r2[やじるし]}矢印{/r2}
+Soccer_031	キックでボールが{r2[と]}飛{/r2}んでいく{r2[ほうこう]}方向{/r2}は\nボールに{r2[ちか]}近{/r2}づくと{r2[ひょうじ]}表示{/r2}される {color[0200]}{r2[やじるし]}矢印{/r2}{color[ffff]} で{r2[かくにん]}確認{/r2}しよう
+SoccerTitle_032	レッグバンド{r2[そうさ]}操作{/r2} : {r2[あし]}足{/r2}の{r2[ふ]}振{/r2}り{r2[かた]}方{/r2}
+Soccer_032	キックの{r2[ほうこう]}方向{/r2}は{r2[じどう]}自動{/r2}で{r2[き]}決{/r2}まる\n{r2[あし]}足{/r2}の{r2[ふ]}振{/r2}り{r2[かた]}方{/r2}では{r2[か]}変{/r2}わらないので まっすぐ{r2[まえ]}前{/r2}に{r2[ふ]}振{/r2}ろう
 VolleyballTitle_000	サーブの{r2[う]}打{/r2}ち{r2[かた]}方{/r2}
 Volleyball_000	Joy-Conを{color[0200]}{r2[ふ]}振{/r2}り{r2[あ]}上{/r2}げて{color[ffff]} トス !\nボールに{color[0100]}{r2[ふ]}振{/r2}り{r2[お]}下{/r2}ろして{color[ffff]} サーブ !
 VolleyballTitle_001	スパイクの{r2[う]}打{/r2}ち{r2[わ]}分{/r2}け
@@ -769,6 +824,12 @@ VolleyballTitle_011	{r2[さゆう]}左右{/r2}に{r2[いどう]}移動{/r2}し�
 Volleyball_011	ブロックとレシーブでかまえているときは {r2[さゆう]}左右{/r2}に{r2[いどう]}移動{/r2}できる\nスパイクが{r2[と]}飛{/r2}んでくる{color[0200]}{r2[ほうこう]}方向{/r2}を{r2[よそく]}予測{/r2}{color[ffff]}して{r2[うご]}動{/r2}こう
 VolleyballTitle_013	ずらしてスパイク
 Volleyball_013	{r2[あいて]}相手{/r2}のブロックと{color[0200]}タイミングをずらせば{color[ffff]}\n{r2[す]}好{/r2}きな{r2[ほうこう]}方向{/r2}に スパイクが{r2[う]}打{/r2}てる !
+VolleyballTitle_014	ブロード{r2[こうげき]}攻撃{/r2}
+Volleyball_014	レシーブした{r2[あと]}後{/r2}に{color[0200]}  スティック{color[ffff]}で{r2[さゆう]}左右{/r2}に{r2[いどう]}移動{/r2}すれば\n{r2[あいて]}相手{/r2}をかく乱する ブロード{r2[こうげき]}攻撃{/r2} !
+VolleyballTitle_015	ロケットサーブ
+Volleyball_015	サーブトスを{color[0200]}{r2[たか]}高{/r2}く{r2[あ]}上{/r2}げて{color[ffff]} ボールを{color[0200]}てっぺんで{r2[う]}打{/r2}つ{color[ffff]}と\n{r2[きょうれつ]}強烈{/r2}なロケットサーブ !
+VolleyballTitle_016	ブロード{r2[こうげき]}攻撃{/r2}をブロック
+Volleyball_016	{r2[あいて]}相手{/r2}が スパイクを{r2[う]}打{/r2}つ{r2[まえ]}前{/r2}に{r2[いどう]}移動{/r2}し{r2[はじ]}始{/r2}めたら \nこちらも {color[0200]} スティックで{r2[いどう]}移動{/r2}{color[ffff]}して ブロックしよう
 BadmintonTitle_000	ショットの{r2[う]}打{/r2}ち{r2[わ]}分{/r2}け
 Badminton_000	{color[0200]}{r2[う]}打{/r2}ちたい{r2[ほうこう]}方向{/r2}{color[ffff]}にJoy-Conを{r2[ふ]}振{/r2}って\nシャトルの{r2[と]}飛{/r2}ぶ{r2[ほうこう]}方向{/r2}をコントロール !
 BadmintonTitle_001	スマッシュ
@@ -875,6 +936,22 @@ BowlingTitle_004	ズーム
 Bowling_004	{color[0200]} で{r2[とお]}遠{/r2}くをズーム{color[ffff]}できる\nじっくり{r2[かんさつ]}観察{/r2}してボールを{r2[な]}投{/r2}げよう
 BowlingTitle_005	ボールを{r2[な]}投{/r2}げる{r2[まえ]}前{/r2}の {r2[ただ]}正{/r2}しいフォーム
 Bowling_005	{r2[いちど]}一度{/r2} {color[0200]}{r2[むね]}胸{/r2}の{r2[まえ]}前{/r2}にかまえてから{color[ffff]} {r2[な]}投{/r2}げる{r2[うご]}動{/r2}きをしよう !\n{r2[な]}慣{/r2}れると てきとうになりがちだけど {r2[きほん]}基本{/r2}が{r2[だいじ]}大事{/r2}
+ProgramMsg\Anonymous.msbt
+Anonymous_Player_00	プレイヤーA
+Anonymous_Player_01	プレイヤーB
+Anonymous_Player_02	プレイヤーC
+Anonymous_Player_03	プレイヤーD
+Anonymous_Player_04	プレイヤーE
+Anonymous_Player_05	プレイヤーF
+Anonymous_Player_06	プレイヤーG
+Anonymous_Player_07	プレイヤーH
+Anonymous_Player_08	プレイヤーI
+Anonymous_Player_09	プレイヤーJ
+Anonymous_Player_10	プレイヤーK
+Anonymous_Player_11	プレイヤーL
+Anonymous_Player_12	プレイヤーM
+Anonymous_Player_13	プレイヤーN
+Anonymous_Player_14	プレイヤーO
 ProgramMsg\Badminton.msbt
 DropButton_Left	
 DropButton_Right	
@@ -1036,6 +1113,10 @@ Rank9	B
 Rank10	B+
 Rank11	A
 Rank12	A
+Rank13	S
+Rank14	S
+Rank15	∞
+Rank16	∞
 SportsCampaignRate_Rate1_1	1.1倍
 SportsCampaignRate_Rate1_2	1.2倍
 SportsCampaignRate_Rate1_3	1.3倍
@@ -1154,6 +1235,7 @@ TableMode_Sports	いまは テーブルモードに{r2[き]}切{/r2}り{r2[か]}
 JoyconHold_Single	Joy-Con1本で遊びます
 JoyconHold_Dual	Joy-Con2本で遊びます
 JoyconHold_Others	Joy-Conの持ちかた
+JoyconHold_LegBand	Joy-Con(R)を持ってください
 JoyConCalibrationCancelKey_RightOnly	
 JoyConCalibrationCancelKey_LeftOnly	
 JoyConCalibrationCancelKey_Dual	
@@ -1168,6 +1250,7 @@ Btn_LR_Left	
 Btn_LR_Right	
 Btn_Pause_Plus	
 Btn_Pause_Minus	
+Btn_Pause_PlusOrMinus	/
 Tutorial_Pause	遊びかたをおわる
 FreePlay_Pause	フリー練習をおわる
 Penalty_B	{r2[ぜんかい]}前回{/r2}の{r2[つうしん]}通信{/r2}プレイが {r2[せいじょう]}正常{/r2}に{r2[しゅうりょう]}終了{/r2}しませんでした\nこの{r2[じょうたい]}状態{/r2}が {r2[なんど]}何度{/r2}も{r2[つづ]}続{/r2}くと\nしばらく {r2[あそ]}遊{/r2}べなくなる{r2[かのうせい]}可能性{/r2}があります\n\n{r2[つうしんかんきょう]}通信環境{/r2}をご{r2[かくにん]}確認{/r2}の{r2[うえ]}上{/r2} もう{r2[いちど]}一度{/r2}お{r2[ため]}試{/r2}しください
@@ -1222,7 +1305,7 @@ FriendNotifyStationNumLimit_Content	この{r2[しゅもく]}種目{/r2}は{r2[�
 FriendNotifyStationNumLimit_MainButton	OK
 FriendNotifyBothLimit_Content	この{r2[しゅもく]}種目{/r2}は{r2[あそ]}遊{/r2}べません\n{r2[にんずう]}人数{/r2}を{color[0000]}{r2[よにん]}4人{/r2}{color[ffff]}まで ・ Nintendo Switchを {color[0000]}{r2[にだい]}2台{/r2}{color[ffff]}まで\nにしてください\n【{color[0100]}メンバー{r2[うけつけ]}受付{/r2}{color[ffff]}】で{r2[ちょうせい]}調整{/r2}できます
 FriendNotifyBothLimit_MainButton	OK
-FriendNotifyNeed2JoyCon_Content	この{r2[しゅもく]}種目{/r2}は{r2[あそ]}遊{/r2}べません\n{r2[へや]}部屋{/r2}にいる すべてのプレイヤーが\nJoy-Conを2{r2[ほんせつぞく]}本接続{/r2}している{r2[ひつよう]}必要{/r2}があります
+FriendNotifyNeed2JoyCon_Content	この{r2[しゅもく]}種目{/r2}は{r2[あそ]}遊{/r2}べません\n{r2[へや]}部屋{/r2}にいる すべてのプレイヤーが\nJoy-Conを{color[0000]}{r2[にほん]}2本{/r2}{color[ffff]}{r2[せつぞく]}接続{/r2}している{r2[ひつよう]}必要{/r2}があります
 FriendNotifyNeed2JoyCon_MainButton	OK
 FriendNotifySoccer1vs1Limit_Content	サッカー : 1 vs 1 は\n{r2[ふたり]}2人{/r2}までしか{r2[あそ]}遊{/r2}べません
 FriendNotifySoccer1vs1Limit_MainButton	OK
@@ -1232,9 +1315,6 @@ FriendConfirmSports_Badminton_SubButton	いいえ
 FriendConfirmSports_Chanbara_Content	チャンバラで{r2[あそ]}遊{/r2}びます\nよろしいですか？
 FriendConfirmSports_Chanbara_MainButton	はい
 FriendConfirmSports_Chanbara_SubButton	いいえ
-FriendConfirmSports_Golf_Content	ゴルフで{r2[あそ]}遊{/r2}びます\nよろしいですか？
-FriendConfirmSports_Golf_MainButton	はい
-FriendConfirmSports_Golf_SubButton	いいえ
 RewardListNeedSubscribeNso_Content	{color[0000]}{r2[ニンテンドースイッチオンライン]}Nintendo Switch Online{/r2}{color[ffff]}に{r2[かにゅう]}加入{/r2}すると\nこのアイテムも {r2[て]}手{/r2}に{r2[い]}入{/r2}れることができます
 RewardListNeedSubscribeNso_MainButton	OK
 InternetConnecting_Content	インターネットに{r2[せつぞく]}接続{/r2}しています…
@@ -1242,7 +1322,7 @@ SelectedUserAccount_Content	すでにえらばれたユーザーです
 SelectedUserAccount_MainButton	OK
 AllGestOnline_Content	このモードは ゲストだけでは{r2[あそ]}遊{/r2}べません\nほかのユーザーを えらんでください
 AllGestOnline_MainButton	OK
-Online2PRank_Content	{r2[ふたり]}2人{/r2}で{r2[あそ]}遊{/r2}ぶ{r2[ばあい]}場合{/r2} リーグの{r2[しょうかく]}昇格{/r2}・{r2[こうかく]}降格{/r2}は{r2[お]}起{/r2}こりません
+Online2PRank_Content	{r2[ふたり]}2人{/r2}で{r2[あそ]}遊{/r2}ぶ{r2[ばあい]}場合{/r2} プロリーグへのおさそいはありません\nすでにプロリーグに{r2[さんか]}参加{/r2}している{r2[ばあい]}場合{/r2}も\nリーグの{r2[しょうかく]}昇格{/r2}・{r2[こうかく]}降格{/r2}は{r2[お]}起{/r2}こりません
 Online2PRank_MainButton	OK
 CharEditBack_Content	ユーザー{r2[さくせい]}作成{/r2}をやめますか ?\nすべての{r2[へんこう]}変更{/r2}が{r2[うしな]}失{/r2}われます
 CharEditBack_MainButton	はい
@@ -1300,6 +1380,20 @@ FriendVoiceChatCheck_Content	ボイスチャットの{r2[じゅんび]}準備{/r
 FriendCreatingRoom_Content	{r2[へや]}部屋{/r2}を{r2[つく]}作{/r2}っています…
 FriendJoiningRoom_Content	{r2[へや]}部屋{/r2}に{r2[ごうりゅう]}合流{/r2}しています…
 ErrorExitRoomMember_Content	メンバーが{r2[へや]}部屋{/r2}から{r2[ぬ]}抜{/r2}けました\nメンバー{r2[うけつけ]}受付{/r2}へもどります
+SoccerFirstOnline4vs4Hand_Content	サッカーは {color[0000]}4 vs 4{color[ffff]} で{r2[たいせん]}対戦{/r2}します\n\n{r2[せかい]}世界{/r2}の{r2[ひと]}人{/r2}と{r2[たいせん]}対戦{/r2}する{r2[まえ]}前{/r2}に\nまずは {color[0000]}1 vs 1{color[ffff]} でウォーミングアップしましょう !
+SoccerFirstOnline4vs4Hand_MainButton	1 vs 1 で遊ぶ
+SoccerFirstOnline4vs4Hand_SubButton	やめる
+SoccerFirstOnline4vs4LegBand_Content	{r2[はじ]}初{/r2}めてレッグバンド{r2[そうさ]}操作{/r2}で {color[0000]}4 vs 4 {color[ffff]}を{r2[あそ]}遊{/r2}ぶ{r2[まえ]}前{/r2}に\nまずは {color[0000]}1 vs 1{color[ffff]} でウォーミングアップしましょう !
+SoccerFirstOnline4vs4LegBand_MainButton	1 vs 1 で遊ぶ
+SoccerFirstOnline4vs4LegBand_SubButton	やめる
+SoccerFirstOffline4vs4_Content	{color[0000]}4 vs 4{color[ffff]} を{r2[あそ]}遊{/r2}ぶ{r2[まえ]}前{/r2}に\nまずは {color[0000]}1 vs 1{color[ffff]} を{r2[あそ]}遊{/r2}んでみましょう !
+SoccerFirstOffline4vs4_MainButton	OK
+SoccerFirstOnline1vs1Done_Content	おつかれさまでした !\n{r2[つぎ]}次{/r2}からは{color[0000]} 4 vs 4{color[ffff]} で{r2[せかい]}世界{/r2}の{r2[ひと]}人{/r2}と{r2[あそ]}遊{/r2}びます\n\n{color[0000]}1 vs 1{color[ffff]} は【{color[0100]}{r2[ちか]}近{/r2}くの{r2[ひと]}人{/r2}と{r2[あそ]}遊{/r2}ぶ{color[ffff]}】で\nいつでも{r2[あそ]}遊{/r2}べます
+SoccerFirstOnline1vs1Done_MainButton	OK
+SoccerLegBandMix_Content	{color[0000]}{r2[りょうて]}両手{/r2}で{r2[そうさ]}操作{/r2} {color[ffff]}のプレイヤーと\n{color[0000]}レッグバンド{r2[そうさ]}操作{/r2} {color[ffff]}のプレイヤーが{r2[ま]}混{/r2}ざっています\nどちらかの{r2[そうさ]}操作{/r2}{r2[ほうほう]}方法{/r2}にそろえてください
+SoccerLegBandMix_MainButton	OK
+LegAndHandRankDescription_MainButton	OK
+LegAndHandRankDescription_Content	プロリーグのランクは\n・{r2[りょうて]}両手{/r2}で{r2[そうさ]}操作{/r2}\n・レッグバンド{r2[そうさ]}操作{/r2}\nそれぞれの{r2[そうさほうほう]}操作方法{/r2}ごとに{r2[にんてい]}認定{/r2}されます
 ProgramMsg\Menu.msbt
 MainMenuTitle_Online_Select1	遊びたいスポーツを えらんでください
 MainMenuTitle_Online_Select3	遊びたいスポーツを 3つまでえらべます
@@ -1352,6 +1446,11 @@ RuleSelectPage_Title_BowlingDifficulty	難しさを えらんでください
 RuleSelectPage_Button0_BowlingDifficulty	初級
 RuleSelectPage_Button1_BowlingDifficulty	中級
 RuleSelectPage_Button2_BowlingDifficulty	上級
+RuleSelectPage_Title_BowlingDifficultyFriend	難しさを えらんでください
+RuleSelectPage_Button0_BowlingDifficultyFriend	初級
+RuleSelectPage_Button1_BowlingDifficultyFriend	中級
+RuleSelectPage_Button2_BowlingDifficultyFriend	上級
+RuleSelectPage_Button3_BowlingDifficultyFriend	おまかせ
 RuleSelectPage_Title_BowlingTeam	対戦ルールを えらんでください
 RuleSelectPage_Button0_BowlingTeam	個人戦
 RuleSelectPage_Button1_BowlingTeam	チーム戦
@@ -1373,16 +1472,22 @@ RuleSelectDetail_Title_Tennis3_4	対戦設定
 RuleSelectDetail_Title_ControllerShare	チーム分け
 RuleSelectDetail_Title_Friend_Soccer	対戦設定
 RuleSelectDetail_Title_Friend_Volleyball	対戦設定
+RuleSelectDetail_Title_Friend_Bowling	CPUの設定
 UserSettingDescription_DeletePlayer	このユーザーの すべてのデータを消去します
 UserSettingDescription_Pro	プロリーグでは 勝ち負けでリーグの昇格・降格があります\nプロをお休みすると 昇格・降格は起こらなくなります
-UserSettingDescription_Camera	カメラを操作するときの方向を変更できます
+UserSettingDescription_CameraMode	{color[0000]}「両手で操作」専用{color[ffff]}の設定です\nノーマル : カメラがボールを見失いにくくなります\nフリー : カメラを360度 自由に動かすことができます
+UserSettingDescription_Camera	{color[0000]}「両手で操作」専用{color[ffff]}の設定です\nカメラを操作するときの方向を変更できます
 UserSettingDescription_Emote	OFFにすると ほかのプレイヤーのスタンプが表示されません\n自分もスタンプを使えなくなります\n2人で遊ぶときは OFFにしたプレイヤーが優先されます
 UserSettingDescription_MiniMap	回転 : ミニマップがカメラと一緒に動きます\n固定 : ミニマップが初期位置から動きません
+UserSettingDescription_SoccerFootMove	{color[0000]}「レッグバンド操作」専用{color[ffff]}の設定です\nONのときは プレイヤーが自動で移動します\n好きなときに {color[0000]} スティック{color[ffff]}で移動することもできます
+UserSettingDescription_Nickname	OFFにすると【世界の人と遊ぶ】で\n対戦相手のニックネームは「{color[0000]}プレイヤー{color[ffff]}」\nかたがきは「{color[0000]}オンライン{color[ffff]}」と表示されます
 CharEdit_PlayerTitle_None	{color[0400]}[ なし ]{color[ffff]}
 CharEdit_GuestName_Default	ゲスト
 CharEdit_Swkbd_Header	あなたのニックネームを入力してください
 CharEdit_Swkbd_Guide	ニックネーム
 Friend_Swkbd_Header	4ケタのパスワードを入力してください
+Friend_RoomIdSwkbd_Header	部屋IDを入力してください
+Friend_RoomIdSwkbd_Guide	部屋ID
 Swkbd_Decide	OK
 InitialGuidance_Type1	{r2[スポッコスクエア]}SPOCCO SQUARE{/r2}へようこそ !
 InitialGuidance_Type2	ここでは {r2[せかい]}世界{/r2}のプレイヤーと\nスポーツで{r2[たいせん]}対戦{/r2}することができます
@@ -1395,8 +1500,8 @@ MatchingStartButton_Dual	
 MatchingStartButton_SingleAny	
 CharEditSortButton_Plus	
 CharEditSortButton_Minus	
-OnlineAttention_Gest	ネットワークに{r2[せつぞく]}接続{/r2}して {r2[せかい]}世界{/r2}のプレイヤーと{r2[たいせん]}対戦{/r2}します\n\nニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがき・その{r2[た]}他{/r2}のプレイ{r2[じょうほう]}情報{/r2}などは\n{r2[たいせんあいて]}対戦相手{/r2}のプレイヤーも{r2[み]}見{/r2}ることができます\n※ {r2[たいせんあいて]}対戦相手{/r2}がコンピューターとなる{r2[ばあい]}場合{/r2}もあります\n\nニンテンドーアカウント{r2[りようきやく]}利用規約{/r2}の\n「{r2[きんしじこう]}禁止事項{/r2}」に{r2[さだ]}定{/r2}められている{r2[こうい]}行為{/r2}を{r2[おこな]}行{/r2}わないでください
-OnlineAttention_NoGest	ネットワークに{r2[せつぞく]}接続{/r2}して {r2[せかい]}世界{/r2}のプレイヤーと{r2[たいせん]}対戦{/r2}します\n\nニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがき・その{r2[た]}他{/r2}のプレイ{r2[じょうほう]}情報{/r2}などは\n{r2[たいせんあいて]}対戦相手{/r2}のプレイヤーも{r2[み]}見{/r2}ることができます\n\n※ {r2[たいせんあいて]}対戦相手{/r2}がコンピューターとなる{r2[ばあい]}場合{/r2}もあります
+OnlineAttention_Gest	ネットワークに{r2[せつぞく]}接続{/r2}して {r2[せかい]}世界{/r2}のプレイヤーと{r2[たいせん]}対戦{/r2}します\n\nニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがき・その{r2[た]}他{/r2}のプレイ{r2[じょうほう]}情報{/r2}などは\n{r2[たいせんあいて]}対戦相手{/r2}のプレイヤーも{r2[み]}見{/r2}ることができます\n【{r2[せかい]}世界{/r2}の{r2[ひと]}人{/r2}と{r2[あそ]}遊{/r2}ぶ】では ニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがきが\n{r2[たいせんあいて]}対戦相手{/r2}の{r2[ほんたい]}本体{/r2}に{r2[ほぞん]}保存{/r2}されることがあります\n※ {r2[たいせんあいて]}対戦相手{/r2}がコンピューターとなる{r2[ばあい]}場合{/r2}もあります\n\nニンテンドーアカウント{r2[りようきやく]}利用規約{/r2}の\n「{r2[きんしじこう]}禁止事項{/r2}」に{r2[さだ]}定{/r2}められている{r2[こうい]}行為{/r2}を{r2[おこな]}行{/r2}わないでください
+OnlineAttention_NoGest	ネットワークに{r2[せつぞく]}接続{/r2}して {r2[せかい]}世界{/r2}のプレイヤーと{r2[たいせん]}対戦{/r2}します\n\nニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがき・その{r2[た]}他{/r2}のプレイ{r2[じょうほう]}情報{/r2}などは\n{r2[たいせんあいて]}対戦相手{/r2}のプレイヤーも{r2[み]}見{/r2}ることができます\n【{r2[せかい]}世界{/r2}の{r2[ひと]}人{/r2}と{r2[あそ]}遊{/r2}ぶ】では ニックネーム・{r2[み]}見{/r2}た{r2[め]}目{/r2}・かたがきが\n{r2[たいせんあいて]}対戦相手{/r2}の{r2[ほんたい]}本体{/r2}に{r2[ほぞん]}保存{/r2}されることがあります\n\n※ {r2[たいせんあいて]}対戦相手{/r2}がコンピューターとなる{r2[ばあい]}場合{/r2}もあります
 ModeSelect_OnlineButton_Start	はじめる
 ModeSelect_OnlineButton_Continue	はじめる
 SelectedSportsConfirm_Random	おまかせで 対戦相手をさがします
@@ -1410,6 +1515,32 @@ ControllerSelect_Title_Soccer	レッグバンドの数を選択
 ControllerSelect_Title_Bowling	Joy-Conの数を選択
 ControllerSelect_Title_Chanbara	Joy-Conの数を選択
 FriendRoomSetting_PlayerNum	{[0200|01000000]}
+OtherUserSetting_Header_Header0	サッカーの設定
+OtherUserSetting_Header_Header1	スタンプの設定
+OtherUserSetting_Header_Header2	対戦相手のニックネーム・かたがきの設定
+OtherUserSetting_Select_CameraMode	カメラモード
+OtherUserSetting_Select_VerticalCamera	カメラ操作(上下)
+OtherUserSetting_Select_HorizontalCamera	カメラ操作(左右)
+OtherUserSetting_Select_MiniMap	ミニマップ
+OtherUserSetting_Select_SoccerFootMove	オート移動
+OtherUserSetting_Select_EmoteEnable	表示
+OtherUserSetting_Select_Nickname	表示
+OtherUserSetting_Select_Choice0_CameraMode	ノーマル
+OtherUserSetting_Select_Choice0_VerticalCamera	ノーマル
+OtherUserSetting_Select_Choice0_HorizontalCamera	ノーマル
+OtherUserSetting_Select_Choice0_MiniMap	回転
+OtherUserSetting_Select_Choice0_SoccerFootMove	ON
+OtherUserSetting_Select_Choice0_EmoteEnable	ON
+OtherUserSetting_Select_Choice0_Nickname	ON
+OtherUserSetting_Select_Choice1_CameraMode	フリー
+OtherUserSetting_Select_Choice1_VerticalCamera	リバース
+OtherUserSetting_Select_Choice1_HorizontalCamera	リバース
+OtherUserSetting_Select_Choice1_MiniMap	固定
+OtherUserSetting_Select_Choice1_SoccerFootMove	OFF
+OtherUserSetting_Select_Choice1_EmoteEnable	OFF
+OtherUserSetting_Select_Choice1_Nickname	OFF
+UpdateInfo_Content_Ver120	・サッカーが レッグバンド操作で遊べるようになりました\n・プロリーグに Sリーグ / ∞リーグが追加されました\n・【フレンドと遊ぶ】で 部屋IDでの合流が可能になりました\n・バレーボールに ブロード攻撃が追加されました
+UpdateInfo_Ver_Ver120	Ver.1.2.0
 ProgramMsg\NetworkApplicationError.msbt
 2-AS8SA-0000	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
 2-AS8SA-0001	パスワードがまちがっています
@@ -1430,7 +1561,7 @@ ProgramMsg\NetworkApplicationError.msbt
 2-AS8SA-0016	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
 2-AS8SA-0017	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
 2-AS8SA-0018	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
-2-AS8SA-0019	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
+2-AS8SA-0019	{r2[はいしん]}配信{/r2}データが ほかのプレイヤーと{r2[こと]}異{/r2}なるため\n{r2[へや]}部屋{/r2}に{r2[ごうりゅう]}合流{/r2}できませんでした\nいっしょに{r2[あそ]}遊{/r2}ぶプレイヤー{r2[ぜんいん]}全員{/r2}が\nソフトを{r2[さいきどう]}再起動{/r2}してから{r2[さいど]}再度{/r2}お{r2[ため]}試{/r2}しください
 2-AS8SA-0020	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
 2-AS8SA-0021	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
 2-AS8SA-0022	{r2[つうしん]}通信{/r2}エラーが{r2[はっせい]}発生{/r2}しました\n\nこのエラーが{r2[なんど]}何度{/r2}も{r2[はっせい]}発生{/r2}するときは お{r2[きゃく]}客{/r2}さまの\n{r2[つうしん]}通信{/r2}{r2[かんきょう]}環境{/r2}が{r2[ふあんてい]}不安定{/r2}になっている{r2[かのうせい]}可能性{/r2}があります
@@ -1582,8 +1713,16 @@ Fifth_Title	プロ{r2[にんてい]}認定{/r2}
 Fifth_Content	そろそろプロから{r2[こえ]}声{/r2}がかかりそう って{r2[おも]}思{/r2}ってた ?\nこの{r2[ちょうし]}調子{/r2}で いろいろなスポーツを{r2[たの]}楽{/r2}しもう !
 Sixth_Title	プロ{r2[にんてい]}認定{/r2}
 Sixth_Content	プロリーグは {r2[あたら]}新{/r2}しいスタート{r2[ちてん]}地点{/r2} !\nつぎは {r2[か]}勝{/r2}ち{r2[つづ]}続{/r2}けてリーグ{r2[しょうかく]}昇格{/r2}をめざそう
-RatingDrop_ZeroRatio	味方のプレイヤーが少ない状態が\n長く続いたので ポイントは変動しません
-RatingDrop_DiscountRatio	味方のプレイヤーが少ない状態が 続いたので\nポイント変動が少なくなります
+SoccerFoot_Title	プロ{r2[にんてい]}認定{/r2}
+SoccerFoot_Content	サッカーのレッグバンド{r2[そうさ]}操作{/r2}で {r2[じつりょく]}実力{/r2}が{r2[みと]}認{/r2}められて\nプロとして{r2[かつどう]}活動{/r2}することになった !
+RatingDrop_ZeroRatio	味方のプレイヤーが少ない状態が 長く続いたので\nリーグの変動に影響はありません
+RatingDrop_DiscountRatio	味方のプレイヤーが少ない状態が 続いたので\nリーグの変動が小さくなります
+FirstRankUp_Content_A	トッププレイヤーたちが{r2[あつ]}集{/r2}まる Aリーグにようこそ !\nさらに{r2[しょうり]}勝利{/r2}を{r2[かさ]}重{/r2}ねると {r2[つよ]}強{/r2}さをあらわす{r2[すうじ]}数字{/r2}が{r2[ふ]}増{/r2}えていくぞ
+FirstRankUp_Title_A	Aリーグに昇格 !
+FirstRankUp_Content_S	スタープレイヤーの{r2[なかまい]}仲間入{/r2}り Sリーグに{r2[とうたつ]}到達{/r2}した !\nさらなる{r2[たか]}高{/r2}みを{r2[めざ]}目指{/r2}しながら スポーツを{r2[たの]}楽{/r2}しんでいこう
+FirstRankUp_Title_S	Sリーグに昇格 !
+FirstRankUp_Content_Infinity	{r2[しん]}真{/r2}の{r2[さいじょうい]}最上位{/r2}リーグに{r2[とうたつ]}到達{/r2}した !\nみんながあこがれる {r2[せかいさいきょう]}世界最強{/r2}クラスのプレイヤーとして\nこれからも スポーツを{r2[たの]}楽{/r2}しんでいこう !
+FirstRankUp_Title_Infinity	∞リーグに昇格 !
 ProgramMsg\RewardList.msbt
 TimeLimit_CountDown	のこり{[0200|02000000]}日
 TimeLimit_Soon	もうすぐ終了 !
@@ -1604,20 +1743,21 @@ RewardListName_10	ラグジュアリー コレクション
 RewardListName_11	リラックス コレクション
 RewardListName_12	メカニカル コレクション
 RewardListName_13	オーシャン コレクション
-RewardListName_14	仮リワードリスト15週目
-RewardListName_15	仮リワードリスト16週目
-RewardListName_16	仮リワードリスト17週目
-RewardListName_17	仮リワードリスト18週目
-RewardListName_18	仮リワードリスト19週目
-RewardListName_19	仮リワードリスト20週目
-RewardListName_20	仮リワードリスト21週目
-RewardListName_21	仮リワードリスト22週目
-RewardListName_22	仮リワードリスト23週目
-RewardListName_23	仮リワードリスト24週目
-RewardListName_24	仮リワードリスト25週目
-RewardListName_25	仮リワードリスト26週目
-RewardListName_26	仮リワードリスト27週目
+RewardListName_14	サッカーボール コレクション
+RewardListName_15	パンクス コレクション
+RewardListName_16	チャンバラ コレクション
+RewardListName_17	サイバー コレクション
+RewardListName_18	キャンディ コレクション
+RewardListName_19	ストリート コレクション
+RewardListName_20	バドミントン コレクション
+RewardListName_21	カフェ コレクション
+RewardListName_22	アストロ コレクション
+RewardListName_23	アメフト & チア コレクション
+RewardListName_24	エンジェル & デビル コレクション
+RewardListName_25	ホラー コレクション
+RewardListName_26	ハロウィン コレクション
 RewardListName_27	仮リワードリスト28週目
+RewardListName_28	仮リワードリスト29週目
 ProgramMsg\Soccer.msbt
 SoccerRound_Num	{[0200|02000000]}本目
 PlayerVsPlayer_First	5本つづけてシュートします
@@ -1633,7 +1773,8 @@ Wait_Member_Num	{[0200|01000000]}
 Wait_Member_Max	{[0200|01000000]}
 CallName	{[0203|00cd]} !
 ProgramMsg\SoccerTutorial.msbt
-Title	サッカーの{r2[あそ]}遊{/r2}びかた
+Title	サッカーの{r2[あそ]}遊{/r2}びかた ({r2[りょうて]}両手{/r2}で{r2[そうさ]}操作{/r2}) 
+Title_Legband	サッカーの{r2[あそ]}遊{/r2}びかた (レッグバンド{r2[そうさ]}操作{/r2}) 
 Dialog_Hand_FirstKick_00	サッカーの{r2[れんしゅう]}練習{/r2}をはじめます !
 Dialog_Hand_FirstKick_01	サッカーの{r2[きほん]}基本{/r2}は キック !\nJoy-Con(R)を{r2[ふ]}振{/r2}ってみよう
 Theme_Hand_FirstKick	キックしよう
@@ -1654,6 +1795,21 @@ Dialog_Hand_Total_00	{r2[さいご]}最後{/r2}は フィールドを{r2[いど�
 Dialog_Hand_Total_01	{color[0000]} スティック{color[ffff]}で{r2[いどう]}移動{/r2}できる\nボールを{r2[お]}押{/r2}して ゴールを{r2[き]}決{/r2}めよう !
 Theme_Hand_Total	ゴールを{r2[き]}決{/r2}めよう
 Dialog_Hand_Finish_00	これで サッカーの{r2[きほん]}基本{/r2}はバッチリ !\n{r2[しあい]}試合{/r2}で {r2[れんしゅう]}練習{/r2}の{r2[せいか]}成果{/r2}を{r2[ため]}試{/r2}してみよう
+Dialog_Foot_FirstKick_00	レッグバンド{r2[そうさ]}操作{/r2}の{r2[れんしゅう]}練習{/r2}をはじめます !
+Dialog_Foot_FirstKick_01	{r2[さいしょ]}最初{/r2}はキックの{r2[れんしゅう]}練習{/r2}だ \n{color[0000]}{r2[ふと]}太{/r2}ももが{r2[あ]}上{/r2}がるように{color[ffff]}{r2[あし]}足{/r2}を{r2[ふ]}振{/r2}ってみよう !
+Dialog_Foot_FirstKick_02	キックの{r2[ほうこう]}方向{/r2}は{r2[じどう]}自動{/r2}で{r2[き]}決{/r2}まる\n{r2[あし]}足{/r2}の{r2[ふ]}振{/r2}り{r2[かた]}方{/r2}では{r2[か]}変{/r2}わらないので まっすぐ{r2[ふ]}振{/r2}ろう
+Dialog_Foot_FirstKick_03	レッグバンド{r2[そうさ]}操作{/r2}に ダイビングヘッドは{r2[な]}無{/r2}い\nそのかわり キック{r2[りょく]}力{/r2}が{r2[たか]}高{/r2}くなっているぞ
+Theme_Foot_FirstKick	キックしよう
+Dialog_Foot_Move_00	レッグバンド{r2[そうさ]}操作{/r2}では プレイヤーが{r2[じどう]}自動{/r2}で{r2[うご]}動{/r2}く\n スティックで {r2[じぶん]}自分{/r2}で{r2[うご]}動{/r2}かすこともできる
+Dialog_Foot_Move_01	ボールに{r2[ちか]}近{/r2}づいたタイミングで\n{color[0000]}ボールをキック{color[ffff]}してみよう !
+Theme_Foot_Move	キックしよう
+Dialog_Foot_Jump_00	レッグバンド{r2[そうさ]}操作{/r2}では\nボールの{r2[たか]}高{/r2}さに{r2[あ]}合{/r2}わせて {r2[じどう]}自動{/r2}でジャンプする
+Dialog_Foot_Jump_01	タイミングを{r2[あ]}合{/r2}わせて\n{color[0000]}ジャンプ{r2[ちゅう]}中{/r2}にボールをキック{color[ffff]}してみよう{color[0000]} {color[ffff]}!
+Theme_Foot_Jump	ジャンプ中にキック
+Dialog_Foot_Dash_00	{r2[さいご]}最後{/r2}は ダッシュで{r2[いどう]}移動{/r2}してみよう！
+Dialog_Foot_Dash_01	{color[0000]}{r2[りょううで]}両腕{/r2}を ジョギングするように{r2[ふ]}振{/r2}る{color[ffff]}と\nボールに{r2[む]}向{/r2}かってダッシュできる
+Theme_Foot_Dash	ダッシュしよう
+Dialog_Foot_Finish_00	これで レッグバンド{r2[そうさ]}操作{/r2}の{r2[きほん]}基本{/r2}はバッチリ !\n{r2[しあい]}試合{/r2}で {r2[れんしゅう]}練習{/r2}の{r2[せいか]}成果{/r2}を{r2[ため]}試{/r2}してみよう
 Next_00	つぎへすすむ
 Next_01	満足したのでつぎへ
 Dialog_Practice_00	ボールを{r2[じゆう]}自由{/r2}にキックして {r2[れんしゅう]}練習{/r2}しよう !
@@ -1672,6 +1828,7 @@ GameStart_Tennis	スタート
 SportsName_Badminton	バドミントン
 SportsName_Volleyball	バレーボール
 SportsName_Soccer	サッカー
+SportsName_SoccerFoot	サッカー\n{size[5000]}( レッグバンド操作 ){size[6400]}
 SportsName_Soccer_1vs1	サッカー : 1 vs 1
 SportsName_Soccer_4vs4	サッカー : 4 vs 4
 SportsName_Bowling	ボウリング
@@ -1926,8 +2083,8 @@ TipsTitle_032	プロだって お{r2[やす]}休{/r2}みしたい{r2[とき]}時
 Tips_032	プロになってからも リーグを{r2[き]}気{/r2}にせず{r2[あそ]}遊{/r2}びたいときは\n【{color[0100]}オプション{color[ffff]}】の【{color[0100]}ユーザー{r2[せってい]}設定{/r2}{color[ffff]}】から プロをお{r2[やす]}休{/r2}みできます
 TipsTitle_033	すべてのスポーツを{r2[きわ]}極{/r2}めよう !
 Tips_033	プロリーグは スポーツごとに{r2[そんざい]}存在{/r2}する !\nすべてのスポーツで プロを{r2[めざ]}目指{/r2}してみよう
-TipsTitle_034	プロの{r2[ちょうてん]}頂点{/r2} Aリーグをめざせ !
-Tips_034	プロリーグは Eリーグからはじまり {r2[さいこうい]}最高位{/r2}はAリーグだ\n{r2[じょうい]}上位{/r2}リーグほど {r2[しょうかく]}昇格{/r2}は{r2[むずか]}難{/r2}しくなるぞ
+TipsTitle_034	めざせ Aリーグ !
+Tips_034	プロリーグは Eリーグからはじまり {r2[じょうい]}上位{/r2}リーグほど{r2[しょうかく]}昇格{/r2}が{r2[むずか]}難{/r2}しくなる\nトッププレイヤーの{r2[あつ]}集{/r2}まる Aリーグを{r2[めざ]}目指{/r2}してみよう !
 TipsTitle_035	{r2[とくべつ]}特別{/r2}なかたがき
 Tips_035	すべてのスポーツで プロのAリーグに{r2[とうたつ]}到達{/r2}すると\n{r2[とくべつ]}特別{/r2}なかたがきが{r2[て]}手{/r2}に{r2[はい]}入{/r2}るらしい
 TipsTitle_036	{r2[しんさく]}新作{/r2}アイテムの{r2[ついかよてい]}追加予定{/r2}
@@ -2004,6 +2161,10 @@ TipsTitle_071	いまのラッキースポーツは…
 Tips_071	ボウリング !\nスプリットが{r2[お]}起{/r2}こりませんように…
 TipsTitle_072	いまのラッキースポーツは…
 Tips_072	ボウリング !\nうまくいかないときは {r2[しんこきゅう]}深呼吸{/r2}してリラックス
+TipsTitle_073	{r2[ふたり]}2人{/r2}プレイのとき プロリーグはお{r2[やす]}休{/r2}みです
+Tips_073	{r2[ふたり]}2人{/r2}プレイでは プロリーグへのおさそいはありません\nリーグの{r2[しょうかく]}昇格{/r2}・{r2[こうかく]}降格{/r2}も{r2[お]}起{/r2}こらないので {r2[きらく]}気楽{/r2}に{r2[たの]}楽{/r2}しもう
+TipsTitle_074	ネットワーク{r2[せつだん]}切断{/r2}のペナルティ
+Tips_074	{r2[たいせんちゅう]}対戦中{/r2}に{color[0200]}わざと{color[ffff]}ネットワークから{r2[せつだん]}切断{/r2}したり {r2[めいわくこうい]}迷惑行為{/r2}をくり{r2[かえ]}返{/r2}すと\nしばらく{r2[あそ]}遊{/r2}べなくなったり プロリーグの{r2[しょうかく]}昇格{/r2}ゲージが{r2[さ]}下{/r2}がってしまう
 ProgramMsg\Volleyball.msbt
 Impression_Early	{size[5000]}タイミングが{size[6400]}\n早い
 Impression_LittleEarly	{size[5000]}タイミングが{size[6400]}\nちょっと早い
@@ -2044,22 +2205,27 @@ Dialog_03	レシーブ・トス・スパイク・ブロック !\nナイスなチ
 Next_00	つぎの練習へ
 ProgramMsg\Equipment\AccessoryEye.msbt
 AccessoryEye00	くろぶちメガネ
+AccessoryEye00a	みどりフレームメガネ
 AccessoryEye00c	サングラス ブルーフレーム
+AccessoryEye00d	サングラス ブラックフレーム
 AccessoryEye01	まるメガネ あか
 AccessoryEye01a	まるメガネ きみどり
+AccessoryEye01b	まるメガネ ゴールド
 AccessoryEye01c	まるメガネ グラデーションレンズ
 AccessoryEye02	ラグジュアリーサングラス
 AccessoryEye03	スポーツサングラス ブルー
+AccessoryEye03a	スポーツサングラス オレンジ
 AccessoryEye04	モノクル
-AccessoryEye05	AccessoryEye05
-AccessoryEye06	AccessoryEye06
+AccessoryEye06	暗視ゴーグル オレンジ
 AccessoryEye07	アンダーリムめがね レッド
 AccessoryEye08	オクタゴンめがね シルバー
 AccessoryEye09	AccessoryEye09
+AccessoryEye10	ブラインドサングラス グリーン
+AccessoryEye11a	ミニサングラス 黒
+AccessoryEye13	AccessoryEye13
+AccessoryEye16	AccessoryEye16
 AccessoryEyeMouth00	AccessoryEyeMouth00
 AccessoryEyeMouth01	AccessoryEyeMouth01
-AccessoryEyeMouth02	AccessoryEyeMouth02
-AccessoryEyeMouth03	AccessoryEyeMouth03
 ProgramMsg\Equipment\AccessoryHead.msbt
 AccessoryHead00	あかいリボン
 AccessoryHead01	ゆめかわリボン
@@ -2068,21 +2234,19 @@ AccessoryHead02	毛糸のポンポン
 AccessoryHead03	リボンカチューシャ
 AccessoryHead04	ひつじのツノ
 AccessoryHead05	ドットリボン イエロー
-AccessoryHead06	AccessoryHead06
-AccessoryHead07	AccessoryHead07
+AccessoryHead06	てんしのわ
+AccessoryHead07	キャンディリボン
 AccessoryHead08	AccessoryHead08
-AccessoryHead09	AccessoryHead09
+AccessoryHead09	アストロヘッドホン ウラノス
 AccessoryHead10	AccessoryHead10
 AccessoryHeadCap00	AccessoryHeadCap00
 AccessoryHeadCap01	AccessoryHeadCap01
-AccessoryHeadCap02	AccessoryHeadCap02
 AccessoryHeadCap03	AccessoryHeadCap03
 AccessoryHeadFullface00	AccessoryHeadFullface00
-AccessoryHeadFullface01	AccessoryHeadFullface01
 AccessoryHeadFullface02	AccessoryHeadFullface02
 AccessoryHeadFullface03	AccessoryHeadFullface03
 ProgramMsg\Equipment\AccessoryMonocle.msbt
-AccessoryMonocle00	AccessoryMonocle00
+AccessoryEye05	アイパッチ くろ
 AccessoryMonocle01	AccessoryMonocle01
 AccessoryMonocle02	AccessoryMonocle02
 AccessoryMonocle03	AccessoryMonocle03
@@ -2094,7 +2258,7 @@ AccessoryMouth00a	ウレタンマスク ブルー
 AccessoryMouth01	ラウンドひげ
 AccessoryMouth02	スターイヤリング イエロー
 AccessoryMouth02a	スターイヤリング レッド
-AccessoryMouth03	パンクスマスク
+AccessoryMouth03	パンクスマスク ブラック
 AccessoryMouth04	リングピアス
 AccessoryMouth05	ワイヤレスイヤホン グリーン
 AccessoryMouth05a	ワイヤレスイヤホン ブラック
@@ -2103,14 +2267,15 @@ AccessoryMouth07	レトロ ビッグイヤリング
 AccessoryMouth08	カイゼルひげ
 AccessoryMouth09	あごひげ うすめ
 AccessoryMouth10	ラグジュアリーイヤリング
-AccessoryMouth11	AccessoryMouth11
-AccessoryMouth12	AccessoryMouth12
-AccessoryMouth13	AccessoryMouth13
+AccessoryMouth11	パンクスピアス
+AccessoryMouth12	防じんマスク グリーン
+AccessoryMouth13	コーヒー豆ピアス
 AccessoryMouth14	シンプルピアス
 AccessoryMouth15	AccessoryMouth15
 AccessoryMouth16	AccessoryMouth16
-AccessoryMouth17	AccessoryMouth17
+AccessoryMouth17	ダンディ口ひげ
 AccessoryMouth18	AccessoryMouth18
+AccessoryMouth19	びこう拡張テープ ブルー
 ProgramMsg\Equipment\Body.msbt
 BodyHuman00	にんげんボディ
 HeadMii	Miiをえらぶ
@@ -2123,41 +2288,44 @@ Special05	メカニカルボディ Mk-II
 Special06	サッカーボールボディ
 Special07	スノーマンボディ
 Special08	ハンバーガーボディ
-Special09	ロリポップボディ
+Special09	キャンディボディ
 Special10	パンダボディ
 Special11	スケルトンボディ
 Special12	Special12
 ProgramMsg\Equipment\BodyColor.msbt
-BodyColor06	BodyColor06
-BodyColor07	BodyColor07
-BodyColor08	BodyColor08
-BodyColor09	BodyColor09
+BodyColor06	全身メイク 白塗り 
+BodyColor07	全身メイク パープル
+BodyColor08	全身メイク グリーン
+BodyColor09	全身メイク ブルー
 BodyColor10	BodyColor10
 ProgramMsg\Equipment\Cap.msbt
 Cap00	ニットキャップ ブラック
-Cap00a	Cap00a
+Cap00a	ニットキャップ レッド
 Cap00b	ニットキャップ ベージュ
 Cap01	LOTUSハット
 Cap01a	サファリハット ネイビー
 Cap02	ゆめかわキャップ
 Cap02b	メッシュキャップ ブラック
+Cap02c	ボタニカルキャップ
 Cap03	ラグジュアリー パナマハット
 Cap04	ラグジュアリー ベレー帽
 Cap05	ICE CREAM VOLLEY キャップ
-Cap06	Cap06
-Cap07	Cap07
-Cap08	Cap08
+Cap06	ウィッチハット
+Cap07	サイバーハット グリーン
+Cap08	サイバーキャップ グリーン
 Cap09	カンカンぼう
+Cap09a	カンカンぼう 赤リボン
 Cap10	むぎわらぼうし
-Cap11	Cap11
+Cap11	BUTTONS CAFE キャスケット
 CapBangs00	ダークフード
-CapBangs01	CapBangs01
+CapBangs01	ビーストフード
 CapBangs02	CapBangs02
 CapBangs03	CapBangs03
 CapBangs04	CapBangs04
 CapFullface00	アメフトヘルメット
-CapFullface01	CapFullface01
-CapFullface02	CapFullface02
+CapFullface01	チャンバラメット 青
+CapFullface01a	チャンバラメット 赤
+CapFullface02	アストロメット ネプチューン
 CapFullface03	CapFullface03
 CapFullface04	CapFullface04
 ProgramMsg\Equipment\Clothes.msbt
@@ -2196,6 +2364,7 @@ Clothes14d	トレーニングジャージ モザイク
 Clothes14e	トレーニングジャージ トイカラー
 Clothes14f	トレーニングジャージ カモフラージュ
 Clothes14g	トレーニングジャージ ラグジュアリー
+Clothes14h	トレーニングジャージ グリーン
 Clothes15	メカニカルスーツ
 Clothes15a	メカニカルスーツ Mk-II
 Clothes16	ボウリングウェア パンツタイプ
@@ -2203,10 +2372,10 @@ Clothes17	ボウリングウェア スカートタイプ
 Clothes18	Clothes18
 Clothes19	Clothes19
 Clothes20	Clothes20
-Clothes21	Clothes21
-Clothes21a	Clothes21a
-Clothes22	Clothes22
-Clothes22a	Clothes22a
+Clothes21	アストロスーツ ネプチューン
+Clothes21a	アストロスーツ マーズ
+Clothes22	アストロスーツ ウラノス
+Clothes22a	アストロスーツ ジュピター
 Clothes23	テニスウェア パンツタイプ
 Clothes24	テニスウェア スコートタイプ
 Clothes25	ダンサーブルゾン
@@ -2217,43 +2386,42 @@ Clothes27	ラグジュアリースーツ
 Clothes27a	Clothes27a
 Clothes28	ラグジュアリーセットアップ
 Clothes28a	Clothes28a
-Clothes29	Clothes29
-Clothes30	Clothes30
+Clothes29	アメフトウェア
+Clothes30	チアリーディングウェア
 Clothes31	サッカーウェア フィールドプレイヤー
 Clothes32	サッカーウェア ゴールキーパー
 Clothes33	ICE CREAM VOLLEY エプロン
 Clothes34	ICE CREAM VOLLEY キュロット
-Clothes35	Clothes35
-Clothes36	Clothes36
+Clothes35	パンクスジャケット
+Clothes36	パンクスライダース
 Clothes37	バレーボールウェア ハーフスリーブ
 Clothes37a	Clothes37a
 Clothes38	バレーボールウェア ノースリーブ
 Clothes38a	Clothes38a
-Clothes39	Clothes39
+Clothes39	バドミントンウェア ハーフパンツ
 Clothes39a	Clothes39a
-Clothes40	Clothes40
+Clothes40	バドミントンウェア ワンピース
 Clothes40a	Clothes40a
-Clothes41	Clothes41
-Clothes42	Clothes42
-Clothes43	Clothes43
-Clothes43a	Clothes43a
-Clothes44	Clothes44
-Clothes44a	Clothes44a
-Clothes45	Clothes45
+Clothes41	サイバージャケット&ヘッドホン
+Clothes42	サイバーパーカー
+Clothes43	デビルサスペンダー
+Clothes43a	グッドデビルサスペンダー
+Clothes44	エンジェルノースリーブ
+Clothes44a	バッドエンジェルノースリーブ
+Clothes45	ストリートパーカー
 Clothes45a	Clothes45a
-Clothes46	Clothes46
+Clothes46	ストリートクロップドトップス
 Clothes46a	Clothes46a
-Clothes47	Clothes47
-Clothes48	Clothes48
+Clothes47	ビーストスーツ
+Clothes48	パンプキンワンピース
 Clothes49	スイムウェア ショートパンツ
 Clothes50	スイムスーツ
-Clothes51	Clothes51
-Clothes52	Clothes52
+Clothes51	BUTTONS CAFE エプロン
+Clothes52	BUTTONS CAFE 巻きエプロン
 Clothes53	Clothes53
 Clothes54	Clothes54
-Clothes55	Clothes55
-Clothes55a	Clothes55a
-Clothes56	Clothes56
+Clothes55	チャンバラウェア 羽織
+Clothes56	チャンバラウェア 袴
 Clothes57	Clothes57
 Clothes58	Clothes58
 Clothes59	Clothes59
@@ -2263,10 +2431,10 @@ Clothes62	Clothes62
 Clothes63	ウェットスーツ
 Clothes64	Clothes64
 Clothes65	Clothes65
-Clothes66	Clothes66
+Clothes66	サッカーマント
 Clothes67	Clothes67
-Clothes68	Clothes68
-Clothes69	Clothes69
+Clothes68	ミイラのほうたい
+Clothes69	キャンディサロペット
 Clothes70	Clothes70
 ProgramMsg\Equipment\EmoteStamp.msbt
 EmoteStamp000	よろしくメイツ
@@ -2294,29 +2462,17 @@ EmoteStamp021	あせあせえもじ
 EmoteStamp022	グラサンえもじ
 EmoteStamp023	ぴえんえもじ
 EmoteStamp024	よろしくピーポー
-EmoteStamp025	おねだりピーポー
 EmoteStamp026	チラチラピーポー
 EmoteStamp027	しょんぼりピーポー
-EmoteStamp028	ぴゅーぴゅーピーポー
 EmoteStamp029	シャキーンピーポー
 EmoteStamp030	びっくりピーポー
-EmoteStamp031	キィキィピーポー
 EmoteStamp032	どんよりピーポー
 EmoteStamp033	ノリノリピーポー
-EmoteStamp034	ドッキリピーポー
 EmoteStamp035	おつかれピーポー
-EmoteStamp036	キラキラピーポー
 EmoteStamp037	おとぼけピーポー
-EmoteStamp038	にんまりピーポー
 EmoteStamp039	メラメラピーポー
 EmoteStamp040	うわーんピーポー
-EmoteStamp041	グッジョブピーポー
-EmoteStamp042	やったねピーポー
 EmoteStamp043	ファイトピーポー
-EmoteStamp044	ニッコリロボ
-EmoteStamp045	ションボリロボ
-EmoteStamp046	キョムキョムロボ
-EmoteStamp047	ガチナキロボ
 EmoteStamp048	るんるんビートル
 EmoteStamp049	グッジョブビートル
 EmoteStamp050	よろしくビートル
@@ -2330,17 +2486,13 @@ EmoteStamp057	おやすみビートル
 EmoteStamp058	だんまりビートル
 EmoteStamp059	モヤモヤビートル
 EmoteStamp060	ウットリアップル
-EmoteStamp061	ビックリアップル
-EmoteStamp062	ニヤニヤバナナ
 EmoteStamp063	ドンヨリバナナ
 EmoteStamp064	キラキラピーチ
 EmoteStamp065	ゲキオコピーチ
 EmoteStamp066	ヒトイキナッシ
 EmoteStamp067	イジワルナッシ
 EmoteStamp068	ワハハパイナポ
-EmoteStamp069	ハテナパイナポ
 EmoteStamp070	ウェーンイチゴ
-EmoteStamp071	グラサンイチゴ
 EmoteStamp072	EmoteStamp072
 EmoteStamp073	EmoteStamp073
 EmoteStamp074	EmoteStamp074
@@ -2365,14 +2517,10 @@ EmoteStamp092	EmoteStamp092
 EmoteStamp093	EmoteStamp093
 EmoteStamp094	EmoteStamp094
 EmoteStamp095	EmoteStamp095
-EmoteStamp096	EmoteStamp096
-EmoteStamp097	EmoteStamp097
-EmoteStamp098	EmoteStamp098
-EmoteStamp099	EmoteStamp099
-EmoteStamp100	EmoteStamp100
-EmoteStamp101	EmoteStamp101
-EmoteStamp102	EmoteStamp102
-EmoteStamp103	EmoteStamp103
+EmoteStamp096	キラリンサイン
+EmoteStamp098	ごきげんサイン
+EmoteStamp101	ポッキリサイン
+EmoteStamp102	あくしゅサイン
 EmoteStamp104	EmoteStamp104
 EmoteStamp105	EmoteStamp105
 EmoteStamp106	EmoteStamp106
@@ -2389,22 +2537,16 @@ EmoteStamp116	とつげきラビット
 EmoteStamp117	ラブラブラビット
 EmoteStamp118	キラーンラビット
 EmoteStamp119	しっぱいラビット
-EmoteStamp120	EmoteStamp120
-EmoteStamp121	EmoteStamp121
-EmoteStamp122	EmoteStamp122
-EmoteStamp123	EmoteStamp123
-EmoteStamp124	EmoteStamp124
-EmoteStamp125	EmoteStamp125
-EmoteStamp126	EmoteStamp126
-EmoteStamp127	EmoteStamp127
-EmoteStamp128	EmoteStamp128
-EmoteStamp129	EmoteStamp129
-EmoteStamp130	EmoteStamp130
-EmoteStamp131	EmoteStamp131
-EmoteStamp132	EmoteStamp132
-EmoteStamp133	EmoteStamp133
-EmoteStamp134	EmoteStamp134
-EmoteStamp135	EmoteStamp135
+EmoteStamp122	キラキラエンジェル
+EmoteStamp123	ギャンなきデビル
+EmoteStamp124	ぐるぐるエンジェル
+EmoteStamp125	ガガーンデビル
+EmoteStamp126	ウィンクエンジェル
+EmoteStamp127	ウシシシデビル
+EmoteStamp129	よろしくヒトコマ
+EmoteStamp131	キンキンヒトコマ
+EmoteStamp134	うっとりヒトコマ
+EmoteStamp135	にっこりヒトコマ
 EmoteStamp136	EmoteStamp136
 EmoteStamp137	EmoteStamp137
 EmoteStamp138	EmoteStamp138
@@ -2413,14 +2555,10 @@ EmoteStamp140	EmoteStamp140
 EmoteStamp141	EmoteStamp141
 EmoteStamp142	EmoteStamp142
 EmoteStamp143	EmoteStamp143
-EmoteStamp144	EmoteStamp144
-EmoteStamp145	EmoteStamp145
-EmoteStamp146	EmoteStamp146
-EmoteStamp147	EmoteStamp147
-EmoteStamp148	EmoteStamp148
-EmoteStamp149	EmoteStamp149
-EmoteStamp150	EmoteStamp150
-EmoteStamp151	EmoteStamp151
+EmoteStamp144	おたけびダイナソー
+EmoteStamp145	ほっこりダイナソー
+EmoteStamp146	じろじろダイナソー
+EmoteStamp147	がっかりダイナソー
 EmoteStamp152	EmoteStamp152
 EmoteStamp153	EmoteStamp153
 EmoteStamp154	EmoteStamp154
@@ -2441,8 +2579,16 @@ EquipmentSet07	スイムウェア セット
 EquipmentSet08	ゆめかわ セット
 EquipmentSet09	サッカーウェア セット
 EquipmentSet10	ラグジュアリー セット
-EquipmentSet11	EquipmentSet11
-EquipmentSet12	EquipmentSet12
+EquipmentSet11	パンクス セット
+EquipmentSet12	チャンバラウェア セット
+EquipmentSet13	サイバー セット
+EquipmentSet14	ストリート セット
+EquipmentSet15	バドミントンウェア セット
+EquipmentSet16	BUTTONS CAFE制服 セット
+EquipmentSet17	アストロ セット
+EquipmentSet18	アメフト & チア セット
+EquipmentSet19	エンジェル & デビル セット
+EquipmentSet20	ハロウィン セット
 ProgramMsg\Equipment\Eyebrow.msbt
 Eyebrow00	アーチまゆ ほそめ
 Eyebrow01	アーチまゆ ふとめ
@@ -2451,20 +2597,16 @@ Eyebrow03	平行まゆ ふとめ
 Eyebrow04	下がりまゆ ほそめ
 Eyebrow05	下がりまゆ ふとめ
 Eyebrow06	極太まゆ
-Eyebrow07	Eyebrow07
+Eyebrow07	まゆげなし
 Eyebrow08	Eyebrow08
 Eyebrow09	Eyebrow09
-Eyebrow10	Eyebrow10
-Eyebrow11	Eyebrow11
-Eyebrow12	Eyebrow12
-Eyebrow13	Eyebrow13
 ProgramMsg\Equipment\EyeColor.msbt
 EyeColor07	イエロー
 EyeColor08	グリーン
 EyeColor09	レッド
-EyeColor10	EyeColor10
-EyeColor11	EyeColor11
-EyeColor12	EyeColor12
+EyeColor10	ライトピンク
+EyeColor11	ライトイエロー
+EyeColor12	ライトグリーン
 EyeColor13	EyeColor13
 EyeColor14	EyeColor14
 EyeColor15	EyeColor15
@@ -2486,7 +2628,18 @@ Facepaint13	ボウリングペイント
 Facepaint14	サッカーペイント
 Facepaint15	エンブレムペイント
 Facepaint16	チャンバラペイント
-Facepaint17	Facepaint17
+Facepaint17	バドミントンペイント
+Facepaint18	サイバーペイント グリーン
+Facepaint28	サイバーペイント オレンジ
+Facepaint19	パンクスペイント
+Facepaint20	キャンディペイント
+Facepaint21	チアリーディングメイク
+Facepaint22	ハロウィンペイント
+Facepaint23	ホラーペイント
+Facepaint24	ミイラペイント
+Facepaint25	泣き顔メイク
+Facepaint26	なきぼくろ
+Facepaint27	ネコひげメイク
 ProgramMsg\Equipment\Hair.msbt
 Hair00	ウェーブロング
 Hair01	オールバック
@@ -2497,7 +2650,7 @@ Hair05	フェードカット
 Hair06	アフロ
 Hair07	カーリーロング
 Hair08	ツインおだんごボブ
-Hair09	オシャレボウズ
+Hair09	ボウズカット
 Hair10	ベリーショート
 Hair11	マッシュ
 Hair12	コーンロウ
@@ -2508,11 +2661,11 @@ Hair16	ダンディ
 Hair17	サムライ
 Hair18	デビルカット
 Hair19	マダムウェーブ
-Hair20	オシャレボウズ
+Hair20	Hair20
 Hair21	Hair21
-Hair22	Hair22
+Hair22	シースルーバング & ポニーテール
 Hair23	Hair23
-Hair24	Hair24
+Hair24	バブルランタン
 Hair25	Hair25
 Hair26	Hair26
 Hair27	Hair27
@@ -2521,13 +2674,13 @@ Hair29	Hair29
 Hair30	Hair30
 Hair31	Hair31
 Hair32	Hair32
-Hair33	Hair33
+Hair33	ドラゴンパーマ
 Hair34	Hair34
 Hair35	Hair35
 Hair36	みつあみポニー & サンバイザー
 Hair37	ウェーブショート & ヘアバンド
-Hair38	Hair38
-Hair39	Hair39
+Hair38	メッシュポニーテール
+Hair39	メッシュピッグテール
 Hair40	Hair40
 Hair41	Hair41
 Hair42	Hair42
@@ -2538,16 +2691,15 @@ ProgramMsg\Equipment\HairColor.msbt
 HairColor07	パープル
 HairColor08	レッド
 HairColor09	グリーン
-HairColor10	HairColor10
-HairColor11	HairColor11
-HairColor12	HairColor12
+HairColor10	ライトイエロー
+HairColor11	ライトピンク
+HairColor12	ライトグリーン
 HairColor13	HairColor13
 HairColor14	HairColor14
 HairColor15	HairColor15
 HairColor16	HairColor16
 HairColor17	HairColor17
 HairColor18	HairColor18
-HairColor19	HairColor19
 ProgramMsg\Equipment\RewardCategory.msbt
 BodyColor	ボディカラー
 HairColor	ヘアカラー
@@ -2605,7 +2757,7 @@ SportsGoodsBadminton14	公式バドミントンラケット モノクローム
 SportsGoodsVolleyball00	公式バレーボール
 SportsGoodsVolleyball01	クラシックバレーボール
 SportsGoodsVolleyball02	ゆめかわバレーボール
-SportsGoodsVolleyball03	ミラーボール
+SportsGoodsVolleyball03	ミラーバレーボール
 SportsGoodsVolleyball04	トイカラーバレーボール
 SportsGoodsVolleyball05	メカニカルバレーボール
 SportsGoodsVolleyball06	ラグジュアリーバレーボール
@@ -2635,18 +2787,18 @@ SportsGoodsChanbara14	公式カタナ 墨一色
 SportsGoodsSoccer00	公式ゴールエフェクト
 SportsGoodsSoccer01	花火
 SportsGoodsSoccer02	ゆめかわシャワー
-SportsGoodsSoccer03	桜吹雪
+SportsGoodsSoccer03	シャボン玉
 SportsGoodsSoccer04	トイシャワー
-SportsGoodsSoccer05	ホログラムエフェクト
-SportsGoodsSoccer06	スポットライト
+SportsGoodsSoccer05	ミラーボールショータイム
+SportsGoodsSoccer06	ゴールドシャワー
 SportsGoodsSoccer07	紙吹雪
-SportsGoodsSoccer08	クラッカーでお祝い その2 ?
-SportsGoodsSoccer09	やみかわシャワー ?
-SportsGoodsSoccer10	花火でお祝い その2 ?
+SportsGoodsSoccer08	クラッカー アナザー
+SportsGoodsSoccer09	小悪魔キャンディシャワー
+SportsGoodsSoccer10	花火 アナザー
 SportsGoodsSoccer11	カラフルスモーク
-SportsGoodsSoccer12	オンステージ !
+SportsGoodsSoccer12	レーザーライト
 SportsGoodsSoccer13	ジュエルシャワー
-SportsGoodsSoccer14	花火でお祝い その3 ?
+SportsGoodsSoccer14	紙吹雪 モノクローム
 SportsGoodsTennis00	公式テニスラケット
 SportsGoodsTennis01	クラシックテニスラケット
 SportsGoodsTennis02	ゆめかわテニスラケット
@@ -2873,41 +3025,24 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_CNzh.msbt
 224	耐人寻味的
 225	雕像
 226	无敌的
-227	弱点
 228	钟爱的
-229	店家
-230	人类
 231	顶点
-232	塔
-233	金字塔
-234	秘密基地
-235	咖啡厅
 236	理想的
-237	造型
 238	逐渐地
 239	迫近
 240	实际上
-241	谁知道呢
 242	最大的
-243	最小的
 244	夸张的
-245	尺寸
 246	挡在面前的
-247	高墙
 248	曾经见过的
-249	背影
 250	羽毛球
 251	大力扣球
 252	网前球
-253	高手击球
+253	大力击球
 254	击剑
 255	蓄力
 256	双剑
 257	单剑
-258	高尔夫球
-259	球杆
-260	场地
-261	果岭
 262	ダミーかたがき
 263	ダミーかたがき
 264	ダミーかたがき
@@ -3509,52 +3644,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_CNzh.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -3571,14 +3680,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_CNzh.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -4042,7 +4143,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 078_b	Brillante
 078	Brillanter
 078_c	Brillantes
-235	Café
 254	Chanbara
 210	Curry
 058	daheim
@@ -4158,12 +4258,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 202_b	Glühende
 202	Glühender
 202_c	Glühendes
-258	Golf
 086_b	Große
-245	Größe
 086	Großer
 086_c	Großes
-261	Grün
 159	Grüße
 200	Hä
 022	Hallo
@@ -4215,7 +4312,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 140_b	Kuriose
 140	Kurioser
 140_c	Kurioses
-260	Kurs
 167	Lächeln
 001	Legende
 114	Lehrer
@@ -4244,12 +4340,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 242	Maximal
 091	Meeting
 133	Menge
-230	Mensch
 115	Mentor
 115_b	Mentorin
-243_b	Minimale
-243	Minimaler
-243_c	Minimales
 139	Mitglied
 089	Monster
 101_b	Muntere
@@ -4296,7 +4388,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 160_c	Primäres
 083	Prinz
 083_b	Prinzessin
-233	Pyramide
 213	Quiz
 064	Ramen
 195_b	Rastlose
@@ -4316,11 +4407,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 129	Rivale
 129_b	Rivalin
 169	Roboter
-249	Rücken
 214	Salz
 074	Samurai
 158	Schlaf gut
-259	Schläger
 144_b	Schöne
 144	Schöner
 144_c	Schönes
@@ -4328,7 +4417,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 132	Schriller
 132_c	Schrilles
 067	Schuss
-227	Schwäche
 257	Schwert
 185	Seele
 110_b	Seltene
@@ -4337,7 +4425,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 062_b	Seltsame
 062	Seltsamer
 062_c	Seltsames
-229	Shop
 246_b	Sichere
 246	Sicherer
 246_c	Sicheres
@@ -4369,7 +4456,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 252	Stoppball
 085	Streich
 123	Strike
-237	Style
 217_b	Superbe
 217	Superber
 217_c	Superbes
@@ -4386,7 +4472,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 165_b	Tigerin
 069	Tor
 141	Treffen
-232	Turm
 253	über Kopf
 174_b	Ulkige
 174	Ulkiger
@@ -4400,14 +4485,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 170_b	Versierte
 170	Versierter
 170_c	Versiertes
-234	Versteck
-241	vielleicht?
 081_b	Virtuelle
 081	Virtueller
 081_c	Virtuelles
 146	Volleyball
 003	von
-247	Wand
 220	Weiß nicht
 116_b	Winzige
 116	Winziger
@@ -4849,40 +4931,16 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 223_c	{[0202]}
 225_b	{[0202]}
 225_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -4899,14 +4957,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUde.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -5336,7 +5386,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 059	Away
 244	Awesome
 117	Baby
-249	Back
 250	Badminton
 125	Ball
 152	Best
@@ -5349,7 +5398,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 019	Boy
 106	Breakfast
 147	Bump
-235	Café
 021	Cat
 254	Chambara
 255	Charge
@@ -5357,11 +5405,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 019_c	Child
 203	Chilly
 188	Chosen
-259	Club
 161	Colleague
 000	Completist
 190	Constant
-260	Course
 133	Crowd
 210	Curry
 016	Dad
@@ -5411,13 +5457,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 019_b	Girl
 102	Glorious
 069	Goal
-258	Golf
 158	Good Night
 018_b	Gram
 018	Gramps
 017_b	Grandma
 017	Grandpa
-261	Green
 159	Greetings
 016_c	Guardian
 093	Guest
@@ -5428,14 +5472,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 189	Here
 063	Hero
 137	Hide
-234	Hideout
 143	Holiday
 058	Home
 092	Host
 200	Huh
-230	Human
 176	Hungry
-241	I Wonder
 236	Ideal
 225	Image
 180	Impossible
@@ -5457,7 +5498,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 155	Mayor
 224	Meaningful
 091	Meeting
-243	Minimum
 215	Modest
 016_b	Mom
 089	Monster
@@ -5490,7 +5530,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 083_b	Princess
 057	Produce
 204	Pure
-233	Pyramid
 082_b	Queen
 213	Quiz
 163	Rabbit
@@ -5516,10 +5555,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 168	Serious
 112	Share
 140	Shocking
-229	Shop
 067	Shot
 097	Shutout
-245	Size
 087	Small
 251	Smash
 167	Smile
@@ -5537,7 +5574,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 166	Stellar
 131	Stone
 123	Strike
-237	Style
 134	Sudden
 231	Summit
 217	Superb
@@ -5554,7 +5590,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 165	Tiger
 165_b	Tigress
 156	Toasty
-232	Tower
 172	Traveling
 130	Trivial
 256	Twin
@@ -5563,8 +5598,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 226	Unrivaled
 081	Virtual
 146	Volleyball
-247	Wall
-227	Weakness
 104	Whatever
 072	Work
 174	Zany
@@ -6163,52 +6196,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -6225,14 +6232,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUen.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -6693,7 +6692,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 144_c	Buen
 144_b	Buena
 144	Bueno
-235	Cafetería
 175	Cara
 120_b	Casera
 120	Casero
@@ -6767,8 +6765,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 006	Entusiasta
 014	Equipo
 257	Espada
-249	Espalda
-237	Estilo
 128_b	Eterna
 128	Eterno
 101_b	Eufórica
@@ -6790,7 +6786,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 108	Final
 218	Flipante
 168	Formal
-227	Fragilidad
 057	Fruta
 160	Fundador
 160_b	Fundadora
@@ -6805,19 +6800,14 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 102_b	Gloriosa
 102	Glorioso
 069	Gol
-258	Golf
 023	Gracias
 238	Gradual
 086	Gran
 086_b	Grande
 076_b	Gratuita
 076	Gratuito
-261	Green
-234	Guarida
 020	Guau guau
 022	Hola
-230_b	Humana
-230	Humano
 061	Idea
 236	Ideal
 179	Ídolo
@@ -6871,15 +6861,12 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 118_b	Meticulosa
 118	Meticuloso
 021	Miau miau
-243_b	Mínima
-243	Mínimo
 062_b	Misteriosa
 062	Misterioso
 215_b	Moderada
 215	Moderado
 089	Monstruo
 133	Multitud
-247	Muro
 116_b	Neonata
 116	Neonato
 220	Ni idea
@@ -6895,7 +6882,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 137	Oculto
 109	Original
 015	Padre
-259	Palo
 016	Papá
 068	Pase
 096	Peloteo
@@ -6904,7 +6890,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 087	Pequeño
 193	Petición
 131	Piedra
-233	Pirámide
 123	Pleno
 060_b	Positiva
 060	Positivo
@@ -6918,13 +6903,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 204	Puro
 156_b	Quemada
 156	Quemado
-241	Quizá
 166	Radiante
 064	Ramen
 080	Real
 240	Realidad
 147	Recepción
-260	Recorrido
 121	Regalo
 082_b	Reina
 206_b	Relajada
@@ -6955,12 +6938,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 013_b	Supuesta
 013	Supuesto
 211	Sushi
-245	Tamaño
 094	Tenis
-229	Tienda
 165	Tigre
 165_b	Tigresa
-232	Torre
 072	Trabajo
 150_b	Tranquila
 150	Tranquilo
@@ -7501,43 +7481,19 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -7553,14 +7509,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUes.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -8019,16 +7967,13 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 079	boueux
 125	boule
 072	boulot
-229	boutique
 122	bowling
 078	brillant
 078_b	brillante
 069	but
 137_b	caché
 137_c	cachée
-234	cachette
 121	cadeau
-235	café
 131	caillou
 221	capitaine
 157	cendre
@@ -8036,7 +7981,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 209	chef
 118	chipoteur
 118_b	chipoteuse
-259	club
 183	codeur
 183_b	codeuse
 161	collègue
@@ -8067,7 +8011,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 107	dîner
 013	dit
 013_b	dite
-249	dos
 164	dragon
 164_b	dragonne
 003	du
@@ -8102,7 +8045,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 059_b	extérieure
 166_b	fabuleuse
 166	fabuleux
-227	faiblesse
 120	fait main
 120_b	faite main
 138	famille
@@ -8136,16 +8078,12 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 203_b	glaciale
 102_b	glorieuse
 102	glorieux
-258	golf
 086	grand
 086_b	grande
 076	gratuit
 076_b	gratuite
-261	green
 163_b	hase
 092	hôte
-230	humain
-230_b	humaine
 189	ici
 236	idéal
 236_b	idéale
@@ -8208,16 +8146,12 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 017_b	mémé
 023	merci
 015_b	mère
-243	minimal
-243_b	minimale
 205	mixte
 016_b	m'man
 024	moi
 089	monstre
 177	morfal
 177_b	morfale
-247	mur
-247_b	muraille
 062	mystère
 075	ninja
 116	nourrisson
@@ -8227,7 +8161,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 109	original
 109_b	originale
 018	papy
-260	parcours
 015_c	parent
 112	partage
 220	pas sûr
@@ -8243,7 +8176,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 106	petit déj'
 087_b	petite
 238	peu à peu
-241	peut-être
 060	positif
 060_b	positive
 016	p'pa
@@ -8255,7 +8187,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 098	puissance
 204	pur
 204_b	pure
-233	pyramide
 212	QCM
 218	quel talent
 124	quille
@@ -8294,19 +8225,16 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 231	sommet
 167	sourire
 123	strike
-237	style
 134	subit
 134_b	subite
 135	surgi
 135_c	surgit
 211	sushi
-245	taille
 000	tenace
 094	tennis
 165	tigre
 165_b	tigresse
 067	tir
-232	tour
 198	tout à fait
 020	toutou
 150	tranquille
@@ -8831,40 +8759,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -8880,14 +8785,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUfr.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -9328,9 +9225,7 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 186	atteso
 117	baby
 250	badminton
-247	baluardo
 130	banale
-235	bar
 124	birilli
 125	boccia
 202	bollente
@@ -9340,7 +9235,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 156_b	bruciata
 156	bruciato
 066	calcio
-260	campo
 115	capo
 097	cappotto
 255	carica
@@ -9348,7 +9242,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 157	cenere
 254	chanbara
 209	chef
-241	chissà
 022	ciao
 106	colazione
 161	collega
@@ -9359,7 +9252,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 020_b	cucciola
 020	cucciolo
 210	curry
-227	debolezza
 077	demo
 184	designer
 173	detective
@@ -9430,10 +9322,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 102_b	gloriosa
 102	glorioso
 069	gol
-258	golf
 086	grande
 023	grazie
-261	green
 133	gruppo
 127_b	guerriera
 127	guerriero
@@ -9476,21 +9366,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 073	manager
 242_b	massima
 242	massimo
-259	mazza
 205_b	mescolata
 205	mescolato
 152	migliore
 083_b	milady
 083	milord
-243_b	minima
-243	minimo
 062_b	misteriosa
 062	misterioso
 215_b	modesta
 215	modesto
 089	mostro
 149	muro
-229	negozio
 116_b	neonata
 116	neonato
 075	ninja
@@ -9527,7 +9413,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 128	perpetuo
 087_b	piccola
 087	piccolo
-233	piramide
 060_b	positiva
 060	positivo
 098	potenza
@@ -9557,7 +9442,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 082_b	regina
 099	resistenza
 147	ricezione
-234	rifugio
 206_b	rilassata
 206	rilassato
 191_b	ripetuta
@@ -9581,7 +9465,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 052_c	scattante
 052	scattare
 085	scherzo
-249	schiena
 140	scioccante
 197	scusa
 226	senza pari
@@ -9598,19 +9481,14 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 095	spin
 014	squadra
 179	stella
-237	stile
 123	strike
 166_b	stupenda
 166	stupendo
 211	sushi
 223	sviluppo
-245	taglia
 094	tennis
 165	tigre
 067	tiro
-232	torre
-230_b	umana
-230	umano
 104	un po' così
 192_b	unica
 192	unico
@@ -10154,43 +10032,19 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -10207,14 +10061,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUit.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -10660,7 +10506,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 070_b	Blije
 149	Blok
 122	Bowling
-234	Bunker
 121	Cadeau
 221	Captain
 254	Chanbara
@@ -10718,7 +10563,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 071	Feest
 202	Fervent
 202_b	Fervente
-245	Formaat
 093	Gast
 092	Gastheer
 092_b	Gastvrouw
@@ -10741,12 +10585,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 102_b	Glorieuze
 069	Goal
 159	Goedendag
-258	Golf
-260	Golfbaan
-259	Golfclub
 174	Grappig
 174_b	Grappige
-261	Green
 178	Gretig
 178_b	Gretige
 057	Groente
@@ -10811,17 +10651,12 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 207	MC
 091	Meeting
 019_b	Meisje
-230	Mens
 115	Mentor
 024_c	Mezelf
-243	Minimaal
-243_b	Minimale
-241	Misschien
 079	Modderig
 079_b	Modderige
 015_b	Moeder
 089	Monster
-247	Muur
 135_b	Naderend
 135_c	Naderende
 135	Nadert
@@ -10852,7 +10687,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 144	Perfect
 144_b	Perfecte
 124	Pins
-233	Piramide
 134	Plots
 134_b	Plotse
 112	Portie
@@ -10879,7 +10713,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 129	Rivaal
 129_b	Rivale
 169	Robot
-249	Rug
 074	Samoerai
 055	Saus
 067	Schot
@@ -10892,7 +10725,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 137_b	Sluitend
 137_c	Sluitende
 251	Smash
-235	Snackbar
 136	Sneaky
 197	Sorry
 151	Speler
@@ -10902,7 +10734,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 052_b	Sprintend
 052_c	Sprintende
 131	Steen
-237	Stijl
 078	Stralend
 078_b	Stralende
 123	Strike
@@ -10920,7 +10751,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 165_b	Tijgerin
 231	Top
 095	Topspin
-232	Toren
 085	Truc
 158	Trusten
 256	Tweetal
@@ -10965,7 +10795,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 072	Werk
 499	Werknemer
 104	Whatever
-229	Winkel
 110	Zeldzaam
 110_b	Zeldzame
 185	Ziel
@@ -10974,7 +10803,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 013	Zogeheten
 214	Zout
 257	Zwaard
-227	Zwakte
 262	ダミーかたがき
 263	ダミーかたがき
 264	ダミーかたがき
@@ -11481,42 +11309,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 225_b	{[0202]}
 225_c	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -11533,14 +11336,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUnl.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -12003,9 +11798,7 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 122	Bowling
 078	Brilhante
 106	Brunch
-235	Café
 161	Camarada
-260	Campo
 210	Caril
 143	Celebração
 254	Chambara
@@ -12026,7 +11819,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 052_b	Corre
 052_c	Correr
 052	Corro
-249	Costas
 209_b	Cozinheira
 209	Cozinheiro
 003_b	da
@@ -12064,7 +11856,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 257	Espada
 217_b	Esplêndida
 217	Esplêndido
-237	Estilo
 179	Estrela
 050_b	Eterna
 050	Eterno
@@ -12085,7 +11876,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 108	Final
 196	Finalmente
 168	Formal
-227	Fraqueza
 203_b	Fria
 203	Frio
 057	Fruta
@@ -12099,15 +11889,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 088	Gigante
 102_b	Gloriosa
 102	Glorioso
-258	Golfe
 069	Golo
 086	Grande
-261	Green
 200	Hã
 063_b	Heroica
 063	Heroico
-230_b	Humana
-230	Humano
 236	Ideal
 084	Ilusionista
 225	Imagem
@@ -12145,7 +11931,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 076	Livre
 253	Lob
 058	Local
-229	Loja
 127	Lutador
 127_b	Lutadora
 015_b	Mãe
@@ -12157,8 +11942,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 019_b	Menina
 019	Menino
 021	Miau
-243_b	Mínima
-243	Mínimo
 062_b	Misteriosa
 062	Misterioso
 205_b	Misturada
@@ -12183,7 +11966,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 015	Pai
 139_b	Parceira
 139	Parceiro
-247	Parede
 068	Passe
 174	Pateta
 219	Patrão
@@ -12200,7 +11982,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 170	Perito
 231	Pico
 124	Pinos
-233	Pirâmide
 112	Porção
 060_b	Positiva
 060	Positivo
@@ -12225,7 +12006,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 080	Real
 240	Realidade
 147	Receção
-234	Refúgio
 082	Rei
 206_b	Relaxada
 206	Relaxado
@@ -12257,13 +12037,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 167	Sorriso
 123	Strike
 211	Sushi
-259	Taco
-241	Talvez
-245	Tamanho
 094	Ténis
 165	Tigre
 165_b	Tigresa
-232	Torre
 150_b	Tranquila
 150	Tranquilo
 130	Trivial
@@ -12808,43 +12584,19 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -12860,14 +12612,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUpt.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -13295,7 +13039,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 148	атака
 018_b	бабуля
 017_b	бабушка
-232	башня
 052	бегу
 052_b	бежит
 149	блок
@@ -13345,10 +13088,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 176_b	голодная
 176_c	голодное
 176	голодный
-258	гольф
 093	гость
 093_b	гостья
-261	грин
 079	грязнуля
 090_b	далекая
 090	далекий
@@ -13413,16 +13154,13 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 128	извечный
 197	извините
 225	имидж
-241	интересно
 078	искра
 226_b	истая
 226_c	истое
 226	истый
 131	камень
 210	карри
-235	кафе
 124	кегля
-259	клюшка
 084_b	колдунья
 161	коллега
 014	команда
@@ -13457,7 +13195,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 228_c	любимое
 228	любимый
 084	маг
-229	магазин
 242	максимум
 087_b	малая
 087_c	малое
@@ -13470,7 +13207,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 239	маячу
 257	меч
 205	микс
-243	минимум
 117	младенец
 081_b	мнимая
 081_c	мнимое
@@ -13513,7 +13249,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 068	пас
 157	пепел
 020	песик
-233	пирамида
 209	повар
 209_b	повариха
 191	повтор
@@ -13523,7 +13258,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 132_b	показная
 132_c	показное
 132	показной
-260	поле
 174_b	потешная
 174_c	потешное
 174	потешный
@@ -13538,7 +13272,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 053	прыгаю
 072	работа
 112	раздача
-245	размер
 064	рамэн
 080_b	реальная
 080_c	реальное
@@ -13569,7 +13302,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 215	скромный
 137_b	скрывает
 137	скрываю
-227	слабость
 102_b	славная
 102_c	славное
 102	славный
@@ -13581,7 +13313,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 111	сотня
 055	соус
 023	спасибо
-249	спина
 158	спите
 254	спочан
 193	спрос
@@ -13591,8 +13322,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 115_b	старшая
 115_c	старшее
 115	старший
-247	стенка
-237	стиль
 190_b	стойкая
 190	стойкий
 190_c	стойкое
@@ -13631,7 +13360,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 180_b	ужасная
 180_c	ужасное
 180	ужасный
-234	укрытие
 167	улыбка
 000_b	упорная
 000_c	упорное
@@ -13655,7 +13383,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 203_b	холодная
 203_c	холодное
 203	холодный
-230	человек
 204_b	чистая
 204_c	чистое
 204	чистый
@@ -14137,43 +13864,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 223_c	{[0202]}
 225_b	{[0202]}
 225_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -14187,14 +13888,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_EUru.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -14655,11 +14348,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 172	外国帰りの
 175	顔
 127	格闘家
-234	隠れ家
 137	隠れる
 257	カタナ
-235	カフェ
-247	壁
 210	カレー
 019_c	キッズ
 143	記念日
@@ -14670,21 +14360,16 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 082	キング
 082_b	クイーン
 213	クイズ
-259	クラブ
-261	グリーン
 093	ゲスト
 110	限定
-260	コース
 069	ゴール
 118	こだわり
 189	こちら側
 136	こっそり
-258	ゴルフ
 022	こんにちは
 000	コンプリート
 004	ザ
 190	最初から
-245	サイズ
 218	さすが
 066	サッカー
 140	サプライズ
@@ -14695,7 +14380,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 209	シェフ
 207	司会者
 240	実際
-227	弱点
 073	社長
 053	ジャンプ
 067	シュート
@@ -14704,11 +14388,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 238	徐々に
 160	初代
 061	シンキング
-230	人類
 006	好き
 170	スゴ腕の
 211	寿司
-237	スタイル
 499	スタッフ
 099	スタミナ
 123	ストライク
@@ -14716,7 +14398,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 095	スピン
 251	スマッシュ
 208	せっかちな
-249	背中
 239	せまる
 114	先生
 115	先輩
@@ -14731,7 +14412,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 246	立ちはだかる
 052	ダッシュ
 185	魂
-232	タワー
 173	探偵
 255	チャージ
 254	チャンバラ
@@ -14744,7 +14424,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 094	テニス
 223	展開
 135	登場
-241	どうなのか
 194	ドキドキ
 166	とびきり
 195	止まらない
@@ -14787,7 +14466,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 111	100個
 113	100%
 204	ピュア
-233	ピラミッド
 063_b	ヒロイン
 124	ピン
 108	ファイナル
@@ -14820,12 +14498,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 011	またの名を
 242	マックス
 016_b	ママ
-229	店
 248	見たことある
 205	ミックス
-243	ミニマム
 050	無限
-187	向こう側
+187	むこう側
 226	無敵
 076	無料
 161	メンバー
@@ -15452,52 +15128,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -15514,14 +15164,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_JPja.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -16143,7 +15785,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 463	ダミーかたがき
 464	ダミーかたがき
 465	ダミーかたがき
-229	가게
 138	가족
 217	감칠맛 나는
 134	갑작스러운
@@ -16159,13 +15800,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 023	고마워
 021	고양이
 069	골
-258	골프
 125	공
 057	과일
 187	그곳
 130	그냥
 198	그렇구나
-261	그린
 060	긍정적으로
 143	기념일
 118	까다로운
@@ -16189,7 +15828,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 194	두근거림
 219	두목
 252	드롭
-249	등
 135	등장
 184	디자이너
 202	따끈한
@@ -16220,7 +15858,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 050	무한
 213	문제
 200	뭐
-243	미니멈
 167	미소
 197	미안해
 091	미팅
@@ -16235,13 +15872,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 071	버스데이
 081	버추얼
 152	베스트
-247	벽
 248	본 적 있는
 122	볼링
 149	블록
 109	비기닝
 181	사건
-245	사이즈
 162	사자
 073	사장님
 207	사회자
@@ -16267,7 +15902,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 007	슈퍼
 067	슛
 251	스매시
-237	스타일
 099	스태미나
 499	스태프
 123	스트라이크
@@ -16288,8 +15922,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 022	안녕
 246	앞을 가로막는
 005	앤드
-227	약점
-241	어떨까
 019_c	어린이
 015_b	어머니
 059	어웨이
@@ -16300,7 +15932,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 214	염분
 018	영감님
 010	영원한
-185	영혼
 253	오버
 003	오브
 009	온라인
@@ -16308,7 +15939,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 209	요리사
 164	용
 172	유학파
-234	은신처
 224	의미심장한
 171	의사
 216	의외로
@@ -16317,7 +15947,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 236	이상적인
 174	익살스러운
 178	인기
-230	인류
 011	일명
 180	있을 수 없는
 158	잘 자
@@ -16328,6 +15957,7 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 154	전대미문의
 112	점유율
 053	점프
+185	정신
 231	정점
 225	조각상
 008	진짜
@@ -16341,14 +15971,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 066	축구
 255	충전
 210	카레
-235	카페
 000	컴플리트
-260	코스
 082_b	퀸
-259	클럽
 082	킹
 156	타고 남은
-232	타워
 173	탐정
 150	태평한
 244	터무니없는
@@ -16369,7 +15995,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 083	프린스
 132	플래시
 151	플레이어
-233	피라미드
 124	핀
 110	한정
 017_b	할머니
@@ -16779,52 +16404,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -16841,14 +16440,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_KRko.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -17470,7 +17061,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 463	ダミーかたがき
 464	ダミーかたがき
 465	ダミーかたがき
-230	人類
 098	力量
 011	又名
 212	三選一
@@ -17487,7 +17077,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 180	不可置信的
 083_b	公主
 112	分享
-245	尺寸
 194	心跳
 120	手作的
 057	水果
@@ -17543,21 +17132,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 160	初代
 159	初次見面
 210	咖哩
-235	咖啡廳
-229	店家
 208	性急的
 089	怪獸
 013	所謂的
 197	抱歉
 064	拉麵
 178	拚命支持的
-261	果嶺
 074	武士
 015	爸爸
 151	玩家
 003	的
 126	空氣
-233	金字塔
 215	保守的
 122	保齡球
 012	前
@@ -17570,7 +17155,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 134	突然
 143	紀念日
 224	耐人尋味的
-249	背影
 063	英雄
 239	迫近
 110	限定的
@@ -17581,21 +17165,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 499	員工
 138	家族
 067	射門
-227	弱點
 127	格鬥家
 016	爹地
 218	真佩服
 008	真的
 080	真實的
 154	破天荒的
-234	秘密基地
 167	笑容
 204	純真的
 132	閃光
 078	閃亮亮的
 253	高手擊球
-258	高爾夫球
-247	高牆
 195	停不下來的
 173	偵探
 179	偶像
@@ -17613,22 +17193,18 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 148	殺球
 205	混合的
 125	球
-259	球桿
 124	球瓶
 236	理想的
 188	被選中的
 184	設計師
 238	逐漸地
 189	這一邊
-237	造型
 231	頂點
 006	喜愛的
 257	單劍
-260	場地
 174	惡搞的
 248	曾經見過的
 242	最大的
-243	最小的
 152	最佳
 108	最終
 050	無限
@@ -17644,7 +17220,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 001	傳奇
 068	傳球
 192	僅此一次的
-232	塔
 016_b	媽咪
 015_b	媽媽
 181	意外
@@ -17675,7 +17250,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 202	熱烘烘的
 009	線上
 052	衝刺
-241	誰知道呢
 193	請求
 102	輝煌的
 115_b	學姐
@@ -18106,52 +17680,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -18168,14 +17716,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_TWzh.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -18606,7 +18146,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 059	Away
 244	Awesome
 117	Baby
-249	Back
 250	Badminton
 125	Ball
 152	Best
@@ -18619,7 +18158,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 019	Boy
 106	Breakfast
 147	Bump
-235	Café
 021	Cat
 254	Chambara
 255	Charge
@@ -18627,11 +18165,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 019_c	Child
 203	Chilly
 188	Chosen
-259	Club
 161	Colleague
 000	Completist
 190	Constant
-260	Course
 133	Crowd
 210	Curry
 016	Dad
@@ -18680,13 +18216,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 019_b	Girl
 102	Glorious
 069	Goal
-258	Golf
 158	Good Night
 018_b	Gram
 018	Gramps
 017_b	Grandma
 017	Grandpa
-261	Green
 159	Greetings
 016_c	Guardian
 093	Guest
@@ -18697,14 +18231,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 189	Here
 063	Hero
 137	Hide
-234	Hideout
 143	Holiday
 058	Home
 092	Host
 200	Huh
-230	Human
 176	Hungry
-241	I Wonder
 236	Ideal
 225	Image
 180	Impossible
@@ -18726,7 +18257,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 155	Mayor
 224	Meaningful
 091	Meeting
-243	Minimum
 215	Modest
 016_b	Mom
 089	Monster
@@ -18759,7 +18289,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 083_b	Princess
 057	Produce
 204	Pure
-233	Pyramid
 082_b	Queen
 213	Quiz
 163	Rabbit
@@ -18785,10 +18314,8 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 168	Serious
 112	Share
 140	Shocking
-229	Shop
 067	Shot
 097	Shutout
-245	Size
 087	Small
 251	Smash
 167	Smile
@@ -18807,7 +18334,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 166	Stellar
 131	Stone
 123	Strike
-237	Style
 134	Sudden
 231	Summit
 217	Superb
@@ -18824,7 +18350,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 165	Tiger
 165_b	Tigress
 156	Toasty
-232	Tower
 172	Traveling
 130	Trivial
 256	Twin
@@ -18833,8 +18358,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 226	Unrivaled
 081	Virtual
 146	Volleyball
-247	Wall
-227	Weakness
 104	Whatever
 072	Work
 174	Zany
@@ -19433,52 +18956,26 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_b	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_b	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_b	{[0202]}
 242_c	{[0202]}
-243_b	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_b	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_b	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -19495,14 +18992,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USen.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -19963,7 +19452,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 144_c	Buen
 144_b	Buena
 144	Bueno
-235	Cafetería
 175	Cara
 120_b	Casera
 120	Casero
@@ -20031,8 +19519,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 255	Energía
 014	Equipo
 257	Espada
-249	Espalda
-237	Estilo
 179	Estrella
 128_b	Eterna
 128	Eterno
@@ -20057,7 +19543,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 141	Fiesta
 108	Final
 168	Formal
-227	Fragilidad
 057	Fruta
 160	Fundador
 160_b	Fundadora
@@ -20072,19 +19557,14 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 102_b	Gloriosa
 102	Glorioso
 069	Gol
-258	Golf
 023	Gracias
 238	Gradual
 086	Gran
 086_b	Grande
 076_b	Gratuita
 076	Gratuito
-261	Green
-234	Guarida
 020	Guau guau
 022	Hola
-230_b	Humana
-230	Humano
 236	Ideal
 063_b	Ídola
 063	Ídolo
@@ -20139,14 +19619,11 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 118_b	Meticulosa
 118	Meticuloso
 021	Miau miau
-243_b	Mínima
-243	Mínimo
 062_b	Misteriosa
 062	Misterioso
 215_b	Moderada
 215	Moderado
 133	Multitud
-247	Muro
 116_b	Neonata
 116	Neonato
 220	Ni idea
@@ -20163,7 +19640,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 218	Órale
 109	Original
 015	Padre
-259	Palo
 016	Papi
 068	Pase
 127	Peleador
@@ -20177,7 +19653,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 131	Piedra
 061_b	Piensa
 061	Pienso
-233	Pirámide
 060_b	Positiva
 060	Positivo
 098	Potencia
@@ -20191,12 +19666,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 156_b	Quemada
 156	Quemado
 196	Quiubo
-241	Quizá
 166	Radiante
 064	Ramen
 080	Real
 240	Realidad
-260	Recorrido
 121	Regalo
 082_b	Reina
 206_b	Relajada
@@ -20229,12 +19702,9 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 013_b	Supuesta
 013	Supuesto
 211	Sushi
-245	Tamaño
 094	Tenis
-229	Tienda
 165	Tigre
 165_b	Tigresa
-232	Torre
 072	Trabajo
 150_b	Tranquila
 150	Tranquilo
@@ -20771,43 +20241,19 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -20823,14 +20269,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USes.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -21282,7 +20720,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 250	badminton
 127	batailleur
 127_b	batailleuse
-259	bâton
 117	bébé
 022	bonjour
 158	bonne nuit
@@ -21290,16 +20727,13 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 079_b	boueuse
 079	boueux
 125	boule
-229	boutique
 122	bowling
 078	brillant
 078_b	brillante
 069	but
 137_b	caché
 137_c	cachée
-234	cachette
 121	cadeau
-235	café
 131	caillou
 221	capitaine
 157	cendre
@@ -21335,7 +20769,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 103	diamant
 013	dit
 013_b	dite
-249	dos
 164	dragon
 164_b	dragonne
 003	du
@@ -21372,7 +20805,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 059_b	extérieure
 166_b	fabuleuse
 166	fabuleux
-227	faiblesse
 120	fait main
 120_b	faite main
 138	famille
@@ -21404,15 +20836,12 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 203_b	glaciale
 102_b	glorieuse
 102	glorieux
-258	golf
 086	grand
 086_b	grande
 076	gratuit
 076_b	gratuite
 163_b	hase
 092	hôte
-230	humain
-230_b	humaine
 189	ici
 236	idéal
 236_b	idéale
@@ -21468,14 +20897,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 017_b	mémé
 023	merci
 015_b	mère
-243	minimal
-243_b	minimale
 205	mixte
 016_b	m'man
 024	moi
 089	monstre
-247	mur
-247_b	muraille
 062	mystère
 075	ninja
 116	nourrisson
@@ -21485,7 +20910,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 109	original
 109_b	originale
 018	papy
-260	parcours
 015_c	parent
 112	partage
 220	pas sûr
@@ -21500,7 +20924,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 087	petit
 087_b	petite
 238	peu à peu
-241	peut-être
 104	plutôt
 060	positif
 060_b	positive
@@ -21513,7 +20936,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 098	puissance
 204	pur
 204_b	pure
-233	pyramide
 218	quel talent
 124	quille
 213	quiz
@@ -21527,10 +20949,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 082_b	reine
 248	remarqué
 248_b	remarquée
+141	rencontre
 191	répété
 191_b	répétée
 091	réunion
-141	réunion
 129	rival
 129_b	rivale
 065	riz
@@ -21556,19 +20978,16 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 231	sommet
 107	souper
 167	sourire
-237	style
 134	subit
 134_b	subite
 135	surgi
 135_c	surgit
 211	sushi
-245	taille
 000	tenace
 094	tennis
 165	tigre
 165_b	tigresse
 067	tir
-232	tour
 198	tout à fait
 020	toutou
 150	tranquille
@@ -21577,7 +20996,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 192	unique
 179	vedette
 100	véloce
-261	vert
 081	virtuel
 081_b	virtuelle
 175	visage
@@ -22101,40 +21519,17 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_b	{[0202]}
 238_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -22150,14 +21545,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USfr.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}
@@ -22611,9 +21998,7 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 125	Bola
 122	Boliche
 078	Brilhante
-235	Café
 161	Camarada
-260	Campo
 143	Celebração
 132_b	Chamativa
 132	Chamativo
@@ -22634,7 +22019,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 093	Convidado
 052	Correndo
 148	Cortada
-249	Costas
 209_b	Cozinheira
 209	Cozinheiro
 019_c	Criança
@@ -22677,7 +22061,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 217_b	Esplêndida
 217	Esplêndido
 099	Estamina
-237	Estilo
 179	Estrela
 128_b	Eterna
 128	Eterno
@@ -22703,7 +22086,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 108	Final
 196	Finalmente
 168	Formal
-227	Fraqueza
 203_b	Fria
 203	Frio
 057	Fruta
@@ -22718,14 +22100,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 102_b	Gloriosa
 102	Glorioso
 069	Gol
-258	Golfe
 086	Grande
-261	Green
 014	Grupo
 200	Hã
 063	Heroísmo
-230_b	Humana
-230	Humano
 236	Ideal
 225	Imagem
 239	Iminente
@@ -22762,7 +22140,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 076	Livre
 253	Lob
 058	Local
-229	Loja
 127	Lutador
 127_b	Lutadora
 015_b	Mãe
@@ -22776,8 +22153,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 019_b	Menina
 019	Menino
 021	Miau
-243_b	Mínima
-243	Mínimo
 205_b	Mista
 062_b	Misteriosa
 062	Misterioso
@@ -22805,7 +22180,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 016	Papai
 139_b	Parceira
 139	Parceiro
-247	Parede
 068	Passe
 193	Pedido
 131	Pedra
@@ -22817,7 +22191,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 170_b	Perita
 170	Perito
 124	Pinos
-233	Pirâmide
 112	Porção
 060_b	Positiva
 060	Positivo
@@ -22839,7 +22212,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 110	Raro
 080	Real
 240	Realidade
-234	Refúgio
 082	Rei
 206_b	Relaxada
 206	Relaxado
@@ -22866,14 +22238,10 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 013	Suposto
 135	Surgindo
 211	Sushi
-259	Taco
-241	Talvez
-245	Tamanho
 094	Tênis
 165	Tigre
 165_b	Tigresa
 231	Topo
-232	Torre
 150_b	Tranquila
 150	Tranquilo
 130	Trivial
@@ -23422,45 +22790,21 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 225_c	{[0202]}
 226_b	{[0202]}
 226_c	{[0202]}
-227_b	{[0202]}
-227_c	{[0202]}
 228_c	{[0202]}
-229_b	{[0202]}
-229_c	{[0202]}
-230_c	{[0202]}
 231_b	{[0202]}
 231_c	{[0202]}
-232_b	{[0202]}
-232_c	{[0202]}
-233_b	{[0202]}
-233_c	{[0202]}
-234_b	{[0202]}
-234_c	{[0202]}
-235_b	{[0202]}
-235_c	{[0202]}
 236_b	{[0202]}
 236_c	{[0202]}
-237_b	{[0202]}
-237_c	{[0202]}
 238_c	{[0202]}
 239_b	{[0202]}
 239_c	{[0202]}
 240_b	{[0202]}
 240_c	{[0202]}
-241_b	{[0202]}
-241_c	{[0202]}
 242_c	{[0202]}
-243_c	{[0202]}
 244_b	{[0202]}
 244_c	{[0202]}
-245_b	{[0202]}
-245_c	{[0202]}
 246_c	{[0202]}
-247_b	{[0202]}
-247_c	{[0202]}
 248_c	{[0202]}
-249_b	{[0202]}
-249_c	{[0202]}
 250_b	{[0202]}
 250_c	{[0202]}
 251_b	{[0202]}
@@ -23476,14 +22820,6 @@ ProgramMsg\Equipment\PlayerTitle_gen\PlayerTitle_gen_USpt.msbt
 256_c	{[0202]}
 257_b	{[0202]}
 257_c	{[0202]}
-258_b	{[0202]}
-258_c	{[0202]}
-259_b	{[0202]}
-259_c	{[0202]}
-260_b	{[0202]}
-260_c	{[0202]}
-261_b	{[0202]}
-261_c	{[0202]}
 262_b	{[0202]}
 262_c	{[0202]}
 263_b	{[0202]}

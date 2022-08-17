@@ -1,0 +1,1355 @@
+Bmenu.msbt
+$BmenuBackGuide	Back
+Title_ModeName_Battle	Battle Mode
+Title_ModeName_Online	Online Mode
+Title_ModeName_Local	Local Play Mode
+$BMenuPartsModeSelTitleText	Main Menu
+$BMenuModeSelLocalBtnTitle	Local Play Mode
+$BMenuModeSelOfflineBtnTitle	Battle Mode
+$BMenuModeSelOnlineBtnTitle	Online Mode
+ModeSelDetail_Online	Compete online against\nother players all over the\nworld, or use a password\nto play with faraway friends.
+ModeSelDetail_NoNet	Enjoy a four-player match\nagainst CPU characters, or\nshare Joy-Con controllers\nto play locally with a friend.
+ModeSelDetail_LocalNet	Play with up to four players\nby connecting with local\nwireless. (Individual systems\nand software required.)
+$BmenuPartsPlayerEntrySumTitleText	Number of Players
+$BmenuPartsEntrySumBtnText1P	1
+$BmenuPartsEntrySumBtnText2P	2
+PlayerNum_P1	P1
+PlayerNum_P2	P2
+PlayerNum_P3	P3
+PlayerNum_P4	P4
+$BMenuPartsRuleSelTitleText	Game Menu
+$BMenuPartsRuleSelGrandPrixBtnText	Gourmet Grand Prix
+RuleSelTitle_GrandPrix	Gourmet Grand Prix
+$BMenuPartsRuleSelRaceBtnText	Single Race
+RuleSelTitle_Race	Single Race
+$BMenuPartsRuleSelBonusBtnText	Single Minigame
+RuleSelTitle_Bonus	Single Minigame
+$BMenuPartsRuleSelRoundBtnText	Single Battle Royale
+RuleSelTitle_Round	Single Battle Royale
+$BMenuPartsRuleSelFreeTrainingBtnText	Free Rolling
+RuleSelTitle_Training	Free Rolling
+RuleSelDetail_GrandPrix	A full-course dream buffet with\ntwo races, a minigame, and a\nclimactic battle royale. You may\neven earn Character Treats!
+RuleSelDetail_Race	A bite-sized competition where\nplayers race each other to the\nend goal to gobble up one of\nthree Strawberry Mountains.
+RuleSelDetail_Bonus	A bite-sized minigame where\nplayers battle to eat more\nstrawberries than anyone else.
+RuleSelDetail_Round	A bite-sized battle royale held\non top of a tasty main course.\nEat Copy Foods, and use them\nto turn the tables on your foes!
+RuleSelDetail_Training	Practice your rolling in a safe,\nopen space. You can also try\ndifferent Copy Foods while\nyou're there. Roll, snack,\nand celebrate with friends!
+$BmenuPartsMatchingGroupTitleText	Select Group
+$BmenuPartsMatchingGroupAddText	Press {[0412|9500]}/{[0411|9400]} to add a group.
+$BmenuPartsMatchingGroupReloadText	Refresh
+$BmenuPartsMatchingGroupNotFound	No groups found.\nPress {[0412|9500]}/{[0411|9400]} to add a group,\nor press {[040a|6100]} to refresh the list.
+$BMenuPartsMatchingWaitTitleText	Matching...
+$BMenuPartsTypeSelTitleText	Match Selection
+$BMenuTypeSelBtnKeyword	Password Match
+$BMenuTypeSelBtnOthers	Random Match
+BMenuTypeSel_KeywordHeaderText	Enter Password
+Cmn.msbt
+$Back	Back
+TimeDisplaySecPunctuation	:
+$CmnTimeExtraInnings	Overtime
+$CmnBtnMatchingCloseText	Confirm
+$CmnBattleRecordDifficulty	CPU Level
+$CmnGourmetGaugeName	Gourmet Rank
+GourmetRankGuage_Point	{[0302|0000]} / {size[4b00]}{[0302|0100]}{size[6400]}
+GourmetRankGuage_MaxRankPoint	{[0302|0000]}
+$CmnGourmetRankBarBalloonBonus	Bonus
+GourmetRankGuage_PointGet	+{[0301|0000]}
+$CmnBattleRecordNumOfVictories	Victories
+$CmnBattleRecordRating	Skill Lv.
+BattleRecord_ChangeNum_Plus	+{[0301|0000]}
+BattleRecord_ChangeNum_Minus	-{[0301|0000]}
+$CmnEmoteTextL	Yay!
+EmoteText_EmotionC	Yay!
+$CmnEmoteTextR	Huh?!
+EmoteText_EmotionD	Huh?!
+$CmnEmoteTextU	Hey!
+EmoteText_EmotionA	Hey!
+$CmnEmoteTextB	Hiii!
+EmoteText_EmotionB	Hiii!
+KiloSeparator	,
+DecimalPoint	.
+$NewIconText	NEW!
+$CmnPleaseWait	Wait a moment...
+Collection.msbt
+$CollectionSkinGuideAttach	Change
+$CollectionSkinGuideRotate	Rotate
+$CollectionSkinTitle	Costumes & Colors
+$CollectionListNameColor	Color
+$CollectionListNameSkin	Costume
+$CollectionSweetViewTitle	Character Treats Collection
+CollectionSweetDecor_Decor	Place on cake
+CollectionSweetDecor_Remove	Remove from cake
+$CollectionSweetViewMultiplication	×
+$CollectionSweetViewSlash	/
+Credit.msbt
+Staff	STAFF
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+SequenceDirector	SEQUENCE DIRECTOR
+SequenceDirector_00	SHOTA YAMADA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	KOSUKE YAMAZAKI
+GameDesigners	GAME DESIGNERS
+GameDesigners_00	YUYA KOZUKA
+GameDesigners_01	RYOSUKE SAKAMOTO
+TechnicalDirector	TECHNICAL DIRECTOR
+TechnicalDirector_00	HIROSHI OHNISHI
+LeadActionProgrammer	LEAD ACTION PROGRAMMER
+LeadActionProgrammer_00	KATSUYOSHI SUMITOMO
+LeadUiProgrammer	LEAD UI PROGRAMMER
+LeadUiProgrammer_00	YUSHI UCHIDA
+Programmers	PROGRAMMERS
+Programmers_00	TAISEI YAMAMOTO
+Programmers_01	KAKUYA MAEKUBO
+Programmers_02	KEISUKE TAKEMURA
+Programmers_03	TAIKI SAKA
+Programmers_04	KEITA YAMADA
+Programmers_05	HIROMU WATANABE
+ArtDirector	ART DIRECTOR
+ArtDirector_00	RIKI FUHRMANN
+CharacterArtists	CHARACTER ARTISTS
+CharacterArtists_00	KENTA MIYAMOTO
+CharacterArtists_01	AKIKO HAYASHI
+FieldArtists	FIELD ARTISTS
+FieldArtists_00	YUKI YOSHIOKA
+FieldArtists_01	MAO YAMASE
+FieldArtists_02	KEIYA OGAWA
+FieldArtists_03	NATSUMI MURAKI
+FieldArtists_04	TOMOMI MINAMI
+LeadUiArtist	LEAD UI ARTIST
+LeadUiArtist_00	KANAKO OMORI
+UiArtists	UI ARTISTS
+UiArtists_00	FUMIYASU KATO
+UiArtists_01	HIKARU USHIKI
+UiArtists_02	YUMI TODO
+UiArtists_03	TERUHIKO SUZUKI
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	EIKI TAKIZAWA
+Movie_02	HISANORI MATSUSHIMA
+Movie_03	AKIKO SASAOKA
+Movie_04	YUYA SUZUKI
+Movie_05	KENRO SHIMIZU
+Movie_06	SADAHIRO OKUI
+Movie_07	AIKA TAKAHASHI
+Movie_08	KEISUKE NISHINA
+LeadSound	LEAD SOUND
+LeadSound_00	YUUTA OGASAWARA
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	SHOGO SAKAI
+Sound_03	HIROKAZU ANDO
+Sound_04	MEGUMI OHARA
+Sound_05	YUKI SHIMOOKA
+Voice	VOICE
+Voice_00	MAKIKO OHMOTO
+FratFrameworkProgrammers	FRAT FRAMEWORK PROGRAMMERS
+FratFrameworkProgrammers_00	KAZUYA SUETSUGU
+FratFrameworkProgrammers_01	TETSUYA NOGE
+FratFrameworkProgrammers_02	TOMOKAZU TSURUOKA
+FratFrameworkProgrammers_03	RYOICHIRO ATONO
+FratFrameworkProgrammers_04	SHINICHI KAWAJI
+FratFrameworkProgrammers_05	RUI UCHIDA
+FratFrameworkProgrammers_06	AYUMU KATO
+FratFrameworkProgrammers_07	YUYA SUZUKI
+FratFrameworkProgrammers_08	MASATAKA SESHIMO
+FratFrameworkProgrammers_09	KEIGO TSUDA
+FratFrameworkProgrammers_10	MUNEMASA KIMURA
+FratFrameworkProgrammers_11	TAKASHI MATSUDA
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	KAZUYA KONISHI
+TechnicalSupport_01	HAJIME IMAIZUMI
+TechnicalSupport_02	YOUSUKE FUKUNAGA
+TechnicalSupport_03	TAKAAKI KAZUNO
+TechnicalSupport_04	TAKASHI NEMOTO
+TechnicalSupport_05	JUNICHI AOYAGI
+TechnicalSupport_06	HIROAKI NAKANO
+TechnicalSupport_07	TATSUYA MURASE
+TechnicalSupport_08	AKIO HANYU
+TechnicalSupport_09	TATSUHIRO TANOUE
+TechnicalSupport_10	TAKESHI MINAGAWA
+TechnicalSupport_11	TAKEHIRO OYAMA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	KATSUHIRO SAKODA
+Artwork	ARTWORK
+Artwork_00	RIEKO KAWAHARA
+Artwork_01	YUTO IBARAKI
+Artwork_02	EMI IMAMURA
+Artwork_03	KEIKO INOUE
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	TAKESHI TAMURA
+Testing_02	AKIKO OHASHI
+Testing_03	MANAMI ONOZUKA
+Testing_04	TAIKI MAEDA
+Testing_05	YUKI ITONAGA
+Testing_06	HAL DEBUG TEAM
+Testing_07	Mario Club Co., Ltd.
+Testing_08	SHIFT Inc.
+LocalizationManagement	LOCALIZATION MANAGEMENT
+LocalizationManagement_00	SEIJI OTOGURO
+Localization	LOCALIZATION
+Localization_00	SHIGERU HASHIGUCHI
+Localization_01	KENICHI MASUDA
+Localization_02	SHIGERU HIRAYAMA
+NoaLocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NoaLocalizationManagement_00	REIKO NINOMIYA
+NoaLocalizationManagement_01	RICH AMTOWER
+NoaLocalizationManagement_02	RAYMOND ELLIGET
+NoaLocalizationManagement_03	NICKO GONZALEZ
+NoaLocalizationManagement_04	BERENICE HOFSETZ
+NoaLocalizationManagement_05	TIM O'LEARY
+NoaLocalizationManagement_06	CÉSAR PÉREZ
+NoaLocalizationManagement_07	MORGAN RITCHIE
+NoaLocalizationManagement_08	THADDÉE WISEUR
+NoaLocalizationManagement_09	ÁLEX ZARZA
+NoaLocalization	NOA LOCALIZATION
+NoaLocalization_00	ANA CELESTE ASCANIO
+NoaLocalization_01	MICHAEL BENEDETTO
+NoaLocalization_02	BILLY CARROLL
+NoaLocalization_03	YANETT CEPEDA VALOR
+NoaLocalization_04	KRIS COPELAND
+NoaLocalization_05	MARJOLAINE DROUIN
+NoaLocalization_06	PALOMA HERNANDEZ
+NoaLocalization_07	DUTCH HIXENBAUGH
+NoaLocalization_08	SARA HOAD
+NoaLocalization_09	MARISSOL KARCZESKI
+NoaLocalization_10	KRISTOPHER KATZ
+NoaLocalization_11	BRANDON KRAEMER
+NoaLocalization_12	KELI DOMINCIANO NAKAMURA
+NoaLocalization_13	ERIN PETERSON
+NoaLocalization_14	CAROLINA QUESADA
+NoaLocalization_15	BABI VELHO BARRETO
+NoaLocalization_16	LAUREN WELLS
+NoaLocalization_17	LUDOVIC TIENTCHEU PONKIN
+NoaLocalization_18	TARYN ZIEGLER
+NoaLocalization_19	FELIPE ZYLBERSZTAJN
+NoaProductTesting	NOA PRODUCT TESTING
+NoaProductTesting_00	KENTARO NISHIMURA
+NoaProductTesting_01	KIRK BUCHANAN
+NoaProductTesting_02	TOMO ISHIYAMA
+NoaProductTesting_03	HITOSHI NISHIZAWA
+NoaProductTesting_04	SEAN EGAN
+NoaProductTesting_05	TOMOKO MIKAMI
+NoaProductTesting_06	ANDY KOLDEN
+NoaProductTesting_07	JIM HOLDEMAN
+NoaProductTesting_08	MANNA YAMASAKI
+NoaProductTesting_09	TOM HERTZOG
+NoaProductTesting_10	YOUNG KIM
+NoaProductTesting_11	MARKO WALLENIUS
+NoaProductTesting_12	MICHAEL SAHLIN
+NoaProductTesting_13	JAMES DILLON
+NoaProductTesting_14	JOSH YAGI-STANTON
+NoaProductTesting_15	CRAIG SO
+NoaProductTesting_16	LUISA BAYONA OTERO
+NoaProductTesting_17	ROSE HERNANDEZ
+NoaProductTesting_18	AGATHA CARVALHAES CAMARGO HORTIZ
+NoaProductTesting_19	NICOLAS MORA
+NoaProductTesting_20	CAMERON PARENT
+NoaProductTesting_21	LIBIA SANTOS SOUZA
+NoaProductTesting_22	BRANDON TRUAX
+NoaProductTesting_23	FRANCES ECKRICH
+NoaProductTesting_24	AARON JONES
+NoaProductTesting_25	PRODUCT TESTING TECHNICIANS
+NoeLocalisationProducers	NOE LOCALISATION PRODUCERS
+NoeLocalisationProducers_00	IVÁN GARRIDO GONZÁLEZ
+NoeLocalisationProducers_01	SASKIA DOORSCHODT
+NoeLocalisationProducers_02	DARIO DE LEO
+NoeLocalisationProducers_03	LIAM HIGGINS
+NoeTranslationCoordination	NOE TRANSLATION COORDINATION
+NoeTranslationCoordination_00	PIERRE SANCHEZ
+NoeTranslationCoordination_01	ANDREA JÄHN
+NoeEnglishTranslationSupport	NOE ENGLISH TRANSLATION SUPPORT
+NoeEnglishTranslationSupport_00	PATRICK JOYCE
+NoeTranslation	NOE TRANSLATION
+NoeTranslation_00	CLÉMENCE DIERYCK
+NoeTranslation_01	JEAN-PAUL HAUSMANN
+NoeTranslation_02	GIOVANNA PRATI
+NoeTranslation_03	GIACOMO IACUMIN
+NoeTranslation_04	KENT ROBELLO
+NoeTranslation_05	MICHAEL HUSSINGER
+NoeTranslation_06	HANNAH SIEBERT
+NoeTranslation_07	SEBASTIAN BRÜCK
+NoeTranslation_08	JÓNATAN MARCOS MILLÁN
+NoeTranslation_09	JOSÉ MANUEL MALAGÓN LEÓN
+NoeTranslation_10	CARSTEN HARMANS
+NoeTranslation_11	PATRICK KOUDSTAAL
+NoeQaCoordination	NOE QA COORDINATION
+NoeQaCoordination_00	J. IGNACIO LEÓN LÓPEZ
+NoeQaCoordination_01	MATTHEW DAVID JONES
+NoeQualityAssurance	NOE QUALITY ASSURANCE
+NoeQualityAssurance_00	KEYWORDS STUDIOS
+NokLocalizationManagement	NOK LOCALIZATION MANAGEMENT
+NokLocalizationManagement_00	KIM DONGYEON
+NokTranslation	NOK TRANSLATION
+NokTranslation_00	KIM SOONIL
+NokQualityAssurance	NOK QUALITY ASSURANCE
+NokQualityAssurance_00	SEOUNG KIUNG
+NokArtwork	NOK ARTWORK
+NokArtwork_00	LEE HOONKYUNG
+NhlTranslation	NHL TRANSLATION
+NhlTranslation_00	JEANIE HO
+NhlTranslation_01	NATALIE YU
+NhlQualityAssurance	NHL QUALITY ASSURANCE
+NhlQualityAssurance_00	EIJU UMEMURA
+NhlQualityAssurance_01	CHIH HSIEN CHIEN
+NhlQualityAssurance_02	CHEN WEI MING
+NhlArtwork	NHL ARTWORK
+NhlArtwork_00	MIKE KAN
+IqueLocalizationCoordination	iQue LOCALIZATION COORDINATION
+IqueLocalizationCoordination_00	CHEN YIJUN
+IqueTranslation	iQue TRANSLATION
+IqueTranslation_00	QIU XIAOCHUN
+IqueQualityAssurance	iQue QUALITY ASSURANCE
+IqueQualityAssurance_00	ZHANG JIONG
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	HARUKA ITOH
+SpecialThanks_01	NAHO YOSHIZAWA
+SpecialThanks_02	YU KANAI
+SpecialThanks_03	TATSUYA KAMIYAMA
+SpecialThanks_04	MASAYO NAKAGAMI
+SpecialThanks_05	YURINA INOUE
+SpecialThanks_06	SHIGENOBU KASAI
+SpecialThanks_07	TETSUYA ABE
+SpecialThanks_08	TOMOHIRO MINEMURA
+SpecialThanks_09	HIROAKI IKARASHI
+SpecialThanks_10	SHOHEI TAKAHAMA
+SpecialThanks_11	YUMI OSADA
+SpecialThanks_12	AKIRA EGUCHI
+SpecialThanks_13	NOBUYUKI OKADA
+SpecialThanks_14	TADASHI IKEGAMI
+SpecialThanks_15	Good-Feel Co., Ltd.
+Coordinator	COORDINATOR
+Coordinator_00	TOMOKI FUKUSHIMA
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	KAZUYUKI NAKAMURA
+ProjectManagement_01	KAORI ISHIZAKI
+ProjectManagement_02	SHINYA SAITO
+ProjectManagement_03	AKIRA KINASHI
+AssociateProducer	ASSOCIATE PRODUCER
+AssociateProducer_00	KEI NINOMIYA
+LineProducer	LINE PRODUCER
+LineProducer_00	YOSHIHIRO NAGATA
+Producers	PRODUCERS
+Producers_00	TADASHI KAMITAKE
+Producers_01	TOYOKAZU NONAKA
+GeneralProducers	GENERAL PRODUCERS
+GeneralProducers_00	SHIGEFUMI KAWASE
+GeneralProducers_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	SHUNTARO FURUKAWA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n©HAL Laboratory, Inc. / Nintendo
+$CreditBackGuide	Back
+Dialog.msbt
+CornerBtn_Back	Back
+CornerBtn_Close	Close
+Btn_CancelForExit	Cancel
+Text_FileDeleteConfirm1	Do you want to delete your save data?
+Btn_FileDeleteConfirm1_Yes	Delete
+Btn_FileDeleteConfirm1_No	Cancel
+Text_FileDeleteConfirm2	Are you suuure?
+Btn_FileDeleteConfirm2_Yes	Yes, delete it.
+Btn_FileDeleteConfirm2_No	No, don't delete it.
+Text_FileDeleteConfirm3	Deleted files cannot be restored!\n{color[ff4d2fff]}Are you SURE you won't regret this?!{color[000000ff]}
+Btn_FileDeleteConfirm3_Yes	Yep! No regrets!
+Btn_FileDeleteConfirm3_No	No! I take it all back!
+Text_FileDeleteFinished	Your save data has been deleted.
+Title_CpLevel	CPU Level
+Btn_CpLevelEasy	Sweet
+Btn_CpLevelNormal	Normal
+Btn_CpLevelHard	Spicy
+Btn_CpLevelVeryHard	Extra Spicy
+Text_BattleMenu_ConfirmSessionDisband	Do you want to {color[ff4d2fff]}disband{color[000000ff]} your group?
+Btn_Disband	Disband
+Text_BattleMenu_NetworkError	A network error has occurred.
+Text_BattleMenu_NetworkTimeout	The {color[ff4d2fff]}network connection has been\ndisconnected{color[000000ff]} due to a lack of activity.
+Text_BattleMenu_FirstNetworkNote	Your player name will be seen by other players\nwhen you participate in online matches.\n\nYou may also be matched with\ncomputer-controlled opponents.
+Text_BattleMenu_NetworkPenalty	Your previous online match was abruptly\ndisconnected. Repeated disconnections may\nresult in a reduction of your online Skill Level.\nMake sure you are using a stable network\nconnection while playing online.
+Text_ResultSessionDisbanded	Your group has {color[ff4d2fff]}disbanded{color[000000ff]}.
+Text_ColectionSweet_CannotOpen	You don't have any Character Treats.\n\nPlay the game to start earning some!
+Text_CollectionSweet_AskMode	Would you like to decorate the cake or\nview your collection of Character Treats?
+Btn_View	View Collection
+Btn_Decor	Decorate
+Text_Retry	Would you like to {color[ff4d2fff]}retry{color[000000ff]} and\nstart over from the beginning?
+Btn_Retry	Retry
+Text_Reset	Would you like to {color[ff4d2fff]}reset{color[000000ff]} this\nstage to its initial state?
+Btn_Reset	Reset
+Text_StageExitSimple	Would you like to return to the Home Table?\n\nAny strawberries you've eaten will {color[ff4d2fff]}not be\nadded{color[000000ff]} to your Gourmet Rank.
+Text_BackToHome	Would you like to return to the Home Table?
+Btn_StageExit	Back to Home Table
+Text_BackToTitle	Return to the title screen?
+Btn_BackToTitle	Title Screen
+Btn_PlayAgain	Play Again
+Btn_RuleChange	Change Event Type
+Btn_SkinChange	Change Costume
+Btn_BackToHome	Back to Home Table
+Title_Rule	Game Menu
+Btn_RuleGrandPrix	Gourmet Grand Prix
+Btn_RuleRace	Single Race
+Btn_RuleBonusGame	Single Minigame
+Btn_RuleFinalBattle	Single Battle Royale
+Btn_RuleTraining	Free Rolling
+Text_ControllerErrorShortsge	Only {color[ff4d2fff]}1 controller {color[000000ff]}is currently{color[ff4d2fff]} connected{color[000000ff]}.
+Text_ControllerErrorDisconnectedP2	Would you like to return to the Home Table?\n\nIf you wish to continue playing, you will need\nto connect {color[ff4d2fff]}a controller for each player{color[000000ff]}.
+Btn_ConnectController	Continue Playing
+Btn_EndGame	Back to Home Table
+Text_ControllerErrorDisconnectedNetwork	A controller has {color[ff4d2fff]}disconnected{color[000000ff]}.\nNow returning to the Home Table.
+Text_HomeCreditOrHistory	Would you like to view the staff credits\nor learn about Kirby's past adventures?
+Btn_Credit	View Credits
+Btn_History	View Past Adventures
+History.msbt
+$HistoryCloseInfoText	Back
+ProductNameLatest1	Kirby and the Forgotten Land
+ProductNameLatest2	Kirby Star Allies
+ProductNameLatest3	Kirby Fighters 2
+ProductNameLatest4	Super Kirby Clash
+ProductNameOther1	Kirby's Extra Epic Yarn
+ProductNameOther2	Kirby Battle Royale
+ProductNameOther3	Kirby's Blowout Blast
+ProductNameOther4	Team Kirby Clash Deluxe
+ProductNameOther5	Kirby: Planet Robobot
+ProductNameOther6	Kirby and the Rainbow Curse
+ProductNameOther7	Kirby Fighters Deluxe
+ProductNameOther8	Dedede's Drum Dash Deluxe
+ProductNameOther9	Kirby: Triple Deluxe
+$HistoryTitleText	Past Adventures
+PlatformName1	Nintendo Switch
+PlatformName2	Nintendo 3DS
+PlatformName3	Wii U
+ProductCommentLatest1	It's Kirby's first full 3D action game! Use new\npowers like Mouthful Mode and Evolved Copy\nAbilities as you explore a mysterious world\nwhere civilization and nature have fused\ntogether. By sharing a Joy-Con controller,\ntwo people can even play together!
+ProductCommentLatest2	Turn enemies into allies with Friend Hearts!\nCombine your pals' powers to invoke mighty\nFriend Abilities as you fight to save the world!\nPlay with up to four players by sharing\nJoy-Con.
+ProductCommentLatest3	This combat-based fighting game lets you\nchoose a Copy Ability, then enter battles with\nup to four players! You can fight dear friends\nor unknown rivals all over the world. There's\neven a story mode where you'll face off against\nthe tag team of King Dedede and Meta Knight!
+ProductCommentLatest4	An action game in which four Kirbys with\ndifferent abilities take on quests together.\nIn addition to the single-player mode, enjoy\nmultiplayer via online and couch co-op play.
+ProductCommentOther1	An action game where a Kirby made of yarn\nuses a new set of abilities only possible with\nyarn. Along with various transformations, Kirby\nalso has new Ravel Abilities.
+ProductCommentOther2	An action game in which Kirby faces off against\nhordes of rivals in all sorts of different battles.\nUp to four players can get in on the action via\nthe internet or local wireless.
+ProductCommentOther3	A subgame from Kirby: Planet Robobot reborn\nas a scrolling 3D action game. Race through a\n3D space, inhaling and spitting out objects\n(and enemies!) to defeat foes and aim for the\nhigh score.
+ProductCommentOther4	A deluxe edition of the Kirby: Planet Robobot\nsubgame that features new quests and over\n80 types of Gear! This game can be enjoyed\nwith up to four players cooperatively.
+ProductCommentOther5	To save a world invaded by an evil corporation,\nKirby dons the Robobot Armor, which can\ntransform into over 10 different modes.
+ProductCommentOther6	Guide Kirby to his goal by drawing a rainbow\nline with the stylus. Kirby can also transform\ninto three types of vehicles and team up with\nWaddle Dee for up to four-player cooperative\naction.
+ProductCommentOther7	A subgame from Kirby: Triple Deluxe with newly\nadded features! Battle with your choice of 10\ndifferent Copy Abilities and up to three other\nplayers via local wireless.
+ProductCommentOther8	A subgame from Kirby: Triple Deluxe with newly\nadded features! Control King Dedede as he\nmoves with the rhythm, using different kinds\nof jumps to aim for the goal.
+ProductCommentOther9	Featuring action that moves not just left and\nright but into the foreground and background\nof stages. In addition to 25 different Copy\nAbilities, this game boasts the powerful\nHypernova Copy Ability.
+Home.msbt
+FacilityName_BattleMenu	Main Menu
+FacilityName_CollectionSkin	Costumes & Colors
+FacilityName_CollectionSweet	Character Treats Collection
+FacilityName_TrainingMode	Free Rolling
+FacilityName_Reward	Rewards Menu
+Tips_RollingSpeed	Tasty Tidbit: The bigger Kirby gets by eating strawberries, the faster his rolling speed. Bulk up to speed up!
+Tips_HoverTime	Tasty Tidbit: As Kirby gets bigger by eating strawberries, the amount of time he'll be able to continuously hover will be reduced. Be careful not to fall!
+Tips_Slipstream	Tasty Tidbit: Follow closely behind one of your rolling opponents to increase your speed a bit. You can even use this trick to roll past them!
+Tips_Training0	Tasty Tidbit: Free Rolling mode is a great way to practice, play tag with a friend, and have fun however you want!
+Tips_Training1	Tasty Tidbit: Free Rolling mode will end once you eat the Strawberry Mountain placed on the center table in the back of the area.
+Tips_Training2	Tasty Tidbit: Create a Password Match for Free Rolling to relax with faraway friends through online play!
+Tips_Training3	Tasty Tidbit: In Free Rolling mode, there are four hidden cookies that feature art from Kirby's previous adventures. Can you find them all?
+Tips_GrandPrix	Tasty Tidbit: Each Gourmet Grand Prix will contain two races, one minigame, and a climactic battle royale. There's also a chance to earn Character Treats!
+Tips_CopyFood	Tasty Tidbit: Copy Foods can be found hiding inside Food Boxes. When you see one, roll through it to gain a Copy Food Ability!
+Tips_Wheel0	Tasty Tidbit: While using the Wheel ability, hold {[040a|6100]} as you turn to drift!
+Tips_Wheel1	Tasty Tidbit: While using the Wheel ability, you can hold {[040a|6100]} to drift into a turn. If you drift long enough, you'll activate a Turbo Drift and get an extra boost!
+Tips_Stone0	Tasty Tidbit: While using the Stone ability, you can increase your attack range by holding down {[040a|6100]}. There's a slight delay before it triggers, so be careful when and where you use it!
+Tips_Drill0	Tasty Tidbit: If you dig in a tight circle while using the Drill ability, you'll cause a Quake Surge. Any rivals you hit will be left dizzy!
+Tips_HiJump0	Tasty Tidbit: While using the Hi-Jump ability, you can pick a specific landing spot by holding down {[040a|6100]} and aiming with {[041e|f100]}. Happy landings!
+Tips_Burning0	Tasty Tidbit: If you press {[040a|6100]} again after activating the Burning ability, you'll charge ahead with a Turbo Burning boost. You can even activate it multiple times in a row!
+Tips_Needle0	Tasty Tidbit: If you press and hold {[040a|6100]} again after activating the Needle ability, you'll charge forward with a Rush Needle attack!
+Tips_Tornado0	Tasty Tidbit: Press {[040a|6100]} again after activating the Tornado ability to increase your wind speed and attack range with Hyper Tornado!
+Tips_Jelly0	Tasty Tidbit: While using the Jelly ability, press {[040a|6100]} to use Jelly Trap and leave blobs of Sticky Jelly in your wake. They might slow your rivals down!
+Tips_Jelly1	Tasty Tidbit: When you use the Jelly ability's Jelly Trap move with {[040a|6100]}, each blob of Sticky Jelly you leave behind will cause the ability to end a bit faster.
+Tips_HomeTable	Tasty Tidbit: The area at the very start of the game is called the Home Table. It looks like it's been decorated for a grand festival...so let's party!
+Tips_DreamFork	Tasty Tidbit: The fork that shrunk Kirby down to bite-size is no ordinary piece of cutlery—it's the legendary Dream Fork that can make dreams come true!
+Tips_RewardListBgm	Tasty Tidbit: The last music track you listened to in the Rewards Menu will continue to play while you're on the Home Table. If you enter Free Rolling mode from the table, it will also play there!
+Tips_DreamRestaurant	Tasty Tidbit: Welcome to the Dream Restaurant, the venue hosting this dream buffet for Kirby. This comfy table is the Home Table, so make yourself at home!
+Tips_MountainCake	Tasty Tidbit: After wielding the powerful Dream Fork, Kirby shrunk to snack-sized proportions. His dream of eating a mountain-sized cake can finally come true! Congrats, Kirby!
+Tips_IcePop	Tasty Tidbit: Rolling over the slippery surfaces of frozen treats can be tricky. Use the Jelly ability to glide around without slipping or sliding!
+Tips_FinalBattle	Tasty Tidbit: The tongs that appear above battles royale seem to be drawn to larger-sized Kirbys. Do your best to avoid them!
+Tips_ServerHand	Tasty Tidbit: The mysterious gloved hands that appear over some courses are known as Server Hands.
+Tips_CollectionSkin	Tasty Tidbit: You can pretend to be other characters by changing Kirby's base Color and putting on a Costume. Add some role-playing to your roll-playing!
+Tips_BonusFruit	Tasty Tidbit: If you spot blueberries, raspberries, or cherries in a course, try to eat them! They might earn you some bonuses when the final results are measured...
+Tips_LoseStrawberry	Tasty Tidbit: You can zoom in with the camera by pressing {[0420|f300]}. Try it out while taking screenshots!
+Tips_AddedTipes00	Tasty Tidbit: Want to greet a friend or react to something surprising? Press {[0419|a000]} to use four different emotes!
+Tips_AddedTipes01	Tasty Tidbit: If you want to communicate with other players in Online Mode or Local Play Mode, you can press {[0419|a000]} to trigger four different messages.
+Tips_AddedTipes02	Tasty Tidbit: During the post-game results, you can press {[0419|a000]} to express yourself and show off!
+Tips_AddedTipes03	Tasty Tidbit: The Character Treat that you place on the very top of your Home Table cake will also serve as your starting block in races.
+Tips_AddedTipes04	Tasty Tidbit: If you see a Crumbling Cookie Wall with cracks in it, you can use Jelly to slip right underneath it and gain an advantage!
+Tips_AddedTipes05	Tasty Tidbit: There are 256 different Character Treats to earn! Some of the Character Treats from your collection may also appear as decorations during Free Rolling mode.
+Tips_AddedTipes06	Tasty Tidbit: Free Rolling is a relaxed playground for you to explore and enjoy. Any strawberries you eat in that mode will not affect your Gourmet Rank.
+Tips_AddedTipes07	Tasty Tidbit: Playing with others online will earn you more Gourmet Points to increase your Gourmet Rank.
+Tips_AddedTipes08	Tasty Tidbit: Higher difficulty levels like Extra Spicy can be challenging, but you'll always get bonus Gourmet Points to further increase your Gourmet Rank. Practice on the lower difficulties first, then put your skills to the test!
+Tips_AddedTipes09	Tasty Tidbit: If you've played Kirby and the Forgotten Land or Kirby Fighters 2, you can unlock three extra music tracks per game to play during races as a special gift!
+Tips_AddedTipes10	Tasty Tidbit: If you've played Kirby Star Allies or Super Kirby Clash, you can unlock three extra music tracks per game to play during races as a special gift!
+Tips_AddedTipes11	Tasty Tidbit: While viewing your collection of Character Treats, you can rotate each one to see them from the front and back. The Japanese "kintaro ame" treats feature the same design on both sides!
+Tips_AddedTipes12	Tasty Tidbit: Wanna know a secret? You can view your Character Treats up close on the collection screen by pressing {[0420|f300]} down to zoom in!
+Tips_AddedTipes13	Tasty Tidbit: If you're racing outside of Online Mode, you can hold down {[0403|0300]} while starting a Grand Prix or Single Race to play the most recent song you selected in the Rewards Menu!
+Tips_AddedTipes14	Tasty Tidbit: If you're having trouble, try practicing with CPU players using the Sweet or Normal difficulties. You'll still earn Gourmet Points to increase your Gourmet Rank!
+Tips_AddedTipes15	Tasty Tidbit: You'll earn a Character Treat each time you complete a Gourmet Grand Prix, Single Race, or Single Battle Royale. If you play a Grand Prix with a CPU level of Spicy or Extra Spicy, you'll earn at least two!
+Tips_AddedTipes16	Tasty Tidbit: If you rank first in an online Gourmet Grand Prix, you'll earn an extra Character Treat! If your collection is incomplete and you earn two or more Character Treats at once, you're sure to get one that isn't a duplicate.
+Lobby.msbt
+$LobbyMatching	Matching...
+$LobbyMatchingDone	Matching Complete
+$LobbyMainQuit	Exit Lobby
+Pause.msbt
+ContinueBtnText	Continue
+RetryBtnText	Retry
+ResetBtnText	Reset
+BackBtnText_ToHome	Home Table
+BackBtnText_ToTitle	Title Screen
+HowToBtnText	How to Play
+Resident.msbt
+$Saving	Saving...
+Result.msbt
+$ResultText	RESULTS
+ResultRankText_00	V{size[4b00]}ICTORY!{size[6400]}
+ResultRankText_01	2nd
+ResultRankText_02	3rd
+ResultRankText_03	4th
+ResultKeepWiningText	{[0301|0000]}{size[4b00]} in a row{size[6400]}
+ResultBonusText_Online	Online Bonus
+ResultBonusText_DifficultyLevelHard	Spicy Bonus
+ResultBonusText_DifficultyLevelVeryHard	Extra-Spicy Bonus
+ResultBonusText_GrandPrix	Grand-Prix Bonus
+ResultOnlineBonus_NumText	× {[0302|0000]}
+$RewardGetTodaysSweet	Compliments of the Chef
+AnnounceText_Victory	The winner is...
+BonusName_EatScoreFoodInBonusRule	Most minigame strawberries!
+BonusName_EatScoreFoodInRaceRule	Most race strawberries!
+BonusName_EatStrawberry5	Most five-stack race strawberries!
+BonusName_EatBonusFruit_Blueberry	Most blueberries bitten!
+BonusName_EatBonusFruit_Cherry	Most cherries chomped!
+BonusName_EatBonusFruit_Raspberry	Most raspberries munched!
+BonusName_DamageBreakableBlock	Most cookie walls crumbled!
+BonusName_UseCopyAbility	Most Copy Food Abilities used!
+BonusName_DefeatEnemy	Most enemies defeated!
+BonusName_UseHoverTime	Most time spent hovering!
+$LayoutResultBonusPointPlus	+
+$ResultBonusPointPlayerNone	No one...
+RewardGet_GetText	You got a {[030b]}!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_GetStageText_Bonus	A new minigame course is now available!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_GetStageText_Race	A new race course is now available!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_GetStageText_Final	A new battle-royale course is now available!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_GetSoundText_Race	You got a new music track to play during races!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_SpecialRewardText_PlayedDiscovery_0	Thank you for playing\n{color[ff4d2fff]}Kirby and the Forgotten Land{color[000000ff]}!
+RewardGet_SpecialRewardText_PlayedDiscovery_1	As a special bonus, {color[ff4d2fff]}3 different music\ntracks {color[000000ff]}from {color[ff4d2fff]}Kirby and the Forgotten Land\n{color[000000ff]}can now be played during races.
+RewardGet_SpecialRewardText_PlayedStarAllies_0	Thank you for playing\n{color[ff4d2fff]}Kirby Star Allies{color[000000ff]}!
+RewardGet_SpecialRewardText_PlayedStarAllies_1	As a special bonus, {color[ff4d2fff]}3 different music\ntracks {color[000000ff]}from {color[ff4d2fff]}Kirby Star Allies {color[000000ff]}can now\nbe played during races.
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_0	Thank you for playing\n{color[ff4d2fff]}Kirby Fighters 2{color[000000ff]}!
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_1	As a special bonus, {color[ff4d2fff]}3 different music\ntracks{color[000000ff]} from {color[ff4d2fff]}Kirby Fighters 2 {color[000000ff]}can now\nbe played during races.
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_0	Thank you for playing\n{color[ff4d2fff]}Super Kirby Clash{color[000000ff]}!
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_1	As a special bonus, {color[ff4d2fff]}3 different music\ntracks{color[000000ff]} from {color[ff4d2fff]}Super Kirby Clash {color[000000ff]}can now\nbe played during races.
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_0	You've collected all of the Character Treats!
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_1	As a reward, the following music track will now\nbe played over your Character Treat Collection!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardGet_SpecialRewardText_HitMaxGourmetRank_0	You've reached the highest Gourmet Rank!
+RewardGet_SpecialRewardText_HitMaxGourmetRank_1	As a reward, the following music track\nwill now be played at the Home Table!\n{color[ff4d2fff]}{[030a]}{color[000000ff]}
+RewardList.msbt
+Category_Unrevealed	???
+Name_Unrevealed	???
+Description	Unlocks at\nGourmet Rank {[0301|0000]}!
+$RewardListTitle	Rewards Menu
+Step.msbt
+$StepStageTodayMenu	T o d a y ' s   M e n u
+StepStageTodayMenu_Single	T o d a y ' s   S p e c i a l
+$TodayMainDish	Main Course
+$StepStageRule	Goal
+StepStageRuleText_DecisiveBattle	- Main Course -\nWin the Gourmet Battle Royale!
+StepStageRuleText_GoalFruit	Race to the Strawberry Mountains!
+StepStageRuleText_DropScoreItem	Eat the falling strawberries!
+StepStageRuleText_TeaCupItem	Hop into cups and eat strawberries!
+StepStageRuleText_BattleEnemy	Defeat enemies and eat strawberries!
+StepStageRuleText_BreakBox	Crumble crates and eat strawberries!
+$StepScaleMaterSizeUp	SIZE UP
+$StepScaleMaterSizeUpMax	MAX SIZE!
+StepHowToPlayText_00	Roll, eat, and grow bigger!
+StepHowToPlayTextSub_00	Bigger Kirbys will roll faster. The biggest Kirby wins!
+StepHowToPlayText_01	Use {[0400|0000]} to hover back after a fall.
+StepHowToPlayTextSub_01	The smaller you are, the longer you can hover.
+StepHowToPlayText_02	Race to claim a Strawberry Mountain!
+StepHowToPlayTextSub_02	Once all three are eaten, the Grand Prix will continue.
+StepHowToPlayText_03	Press {[040a|6100]} to use Copy Food Abilities.
+StepHowToPlayTextSub_03	Attack your biggest rivals to steal their strawberries!
+$StepStartSignGoText	Go!
+TimeupText_Finish	Deeelicious!
+$StepKillLogText	defeated!
+$StepKillLogPlus	+
+$StepKillerInfoText	defeated you!
+$StepAchievementMinus	-
+$StepDropoutRouletteStart	Mix
+$MainTrainingBaseReset	Reset Eaten Strawberries
+$MainTrainingGuideText	Eat the Strawberry Mountain to exit.
+TitleMenu.msbt
+$TiteleMenuBtn	PRESS {[0400|0000]}
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+Version	Ver. {[0301|0000]}.{[0301|0100]}.{[0301|0200]}
+$TitleDeleteSaveDataGuide	Delete Save Data
+Name\AbilityName.msbt
+Burning	Burning
+Needle	Needle
+Stone	Stone
+Drill	Drill
+Tornado	Tornado
+Jelly	Jelly
+HiJump	Hi-Jump
+Wheel	Wheel
+InvincibleCandy	Invincible Candy
+Name\CollectionCategoryName.msbt
+Collection_Category_Sweet	Character Treat
+Collection_Category_Skin	Costume
+Collection_Category_Color	Color
+Collection_Category_Sound_Home	Home Music
+Collection_Category_Sound_Race	Race Music
+Collection_Category_Sound_Menu	Menu Music
+Collection_Category_Stage_Race	Race
+Collection_Category_Stage_Bonus	Minigame
+Collection_Category_Stage_Final	Battle
+Name\ColorName.msbt
+Collection_Color_BasicPink	Kirby Pink
+Collection_Color_BasicYellow	Keeby Yellow
+Collection_Color_BasicBlue	Ice Blue
+Collection_Color_BasicGreen	Tea Green
+Collection_Color_BasicRed	Fire Red
+Collection_Color_Cherry	Cherry
+Collection_Color_Chocolate	Chocolate
+Collection_Color_Chocomint	Mint Chocolate
+Collection_Color_Citrus	Citrus
+Collection_Color_Grape	Grape
+Collection_Color_Orange	Orange
+Collection_Color_Pumpkin	Pumpkin
+Collection_Color_Strawberry	Strawberry
+Collection_Color_Waddledee	Dee Orange
+Collection_Color_Dedede	Dedede Blue
+Collection_Color_Metaknight	Meta Navy
+Collection_Color_Kawasaki	Kawasaki Sunset
+Collection_Color_Marx	Marx Lilac
+Collection_Color_Gooey	Gooey Cobalt
+Collection_Color_Chuchu	Chuchu Rosy
+Collection_Color_Adeleine	Adeleine Peach
+Collection_Color_Daroach	Daroach Gray
+Collection_Color_Magolor	Magolor Umber
+Collection_Color_Taranza	Taranza Chestnut
+Collection_Color_Susie	Susie White
+Collection_Color_Francisca	Francisca Frost
+Collection_Color_Flamberge	Flamberge Scarlet
+Collection_Color_Zan	Zan Lightning
+Collection_Color_Elfilin	Elfilin Peacock
+Collection_Color_Morphoknight	Morpho Midnight
+Collection_Color_Burger	Burger Brown
+Collection_Color_Waddledoo	Doo Ketchup
+Collection_Color_Retro	Retro Tone
+Collection_Color_Shadow	Shadow
+Collection_Color_Carmouth	Driving Sky
+Collection_Color_Coo	Coo Purple
+Collection_Color_Kine	Kine Aqua
+Collection_Color_Pudding	Custard Pudding
+Collection_Color_Rick	Rick Cream
+Collection_Color_Kiwi	Kiwi
+Name\DifficultyName.msbt
+Easy	Sweet
+Normal	Normal
+Hard	Spicy
+VeryHard	Extra Spicy
+Name\ItemName.msbt
+Strawberry3	Three Strawberries
+Strawberry5	Five Strawberries
+Strawberry10	Ten Strawberries
+Name\PlayerName.msbt
+Mob_0	Waddelaney
+Mob_1	Waddelia
+Mob_2	WaWaWaddle
+Mob_3	Waddlini
+Mob_4	Woddball
+Mob_5	Mr.Waddle
+Mob_6	Wadana Dee
+Mob_7	Waddlecia
+Mob_8	Waddolor
+Mob_9	Waddby
+Mob_10	WadaKnight
+Mob_11	KingWaDeDe
+Guest_0	Guest
+Cp_0	CPU 1
+Cp_1	CPU 2
+Cp_2	CPU 3
+Bot_0	PinkPal
+Bot_1	PinkBowler
+Bot_2	Puffball
+Bot_3	Stubby
+Bot_4	Kirby-chan
+Bot_5	Kirby-san
+Bot_6	PINKball
+Bot_7	PeachArmor
+Bot_8	Round Hero
+Bot_9	Star Hero
+Bot_10	Maxim #1
+Bot_11	Maxim86
+Bot_12	PoweredUp
+Bot_13	FullEnergy
+Bot_14	VincyCandy
+Bot_15	Lickety
+Bot_16	Got_a_1UP
+Bot_17	0LivesLeft
+Bot_18	PointStars
+Bot_19	Pink Stars
+Bot_20	Twinkles
+Bot_21	Glimmer
+Bot_22	TheStarRod
+Bot_23	Frightmare
+Bot_24	RnbwIsland
+Bot_25	RainboSord
+Bot_26	EasyBreezy
+Bot_27	DreamRacer
+Bot_28	YourBuddy
+Bot_29	Animal Pal
+Bot_30	FromRipple
+Bot_31	FactoryFoe
+Bot_32	GoGoKirby
+Bot_33	Yo_Tornado
+Bot_34	KirbyPhone
+Bot_35	MirageNite
+Bot_36	DededeSoul
+Bot_37	MaskedMarx
+Bot_38	UrOverlord
+Bot_39	Crafty Egg
+Bot_40	Q.Joronia
+Bot_41	SkyPeople
+Bot_42	Patrya
+Bot_43	P.Haltmann
+Bot_44	HeartFwend
+Bot_45	ZanParWho?
+Bot_46	Neichel
+Bot_47	BeastPack
+Bot_48	TeaCup
+Bot_49	JiroJiro
+Bot_50	Minigamer
+Bot_51	Shirleelee
+Bot_52	Anna
+Bot_53	Yetta
+Bot_54	Wisdom
+Bot_55	Amy
+Bot_56	Otto
+Bot_57	Kyle
+Bot_58	Kiddo
+Bot_59	Cook
+Bot_60	Katie
+Bot_61	Chauncey
+Bot_62	Samuel
+Bot_63	Sylvaria
+Bot_64	Suzanna
+Bot_65	Sebastian
+Bot_66	Sophie
+Bot_67	Tyler
+Bot_68	Chelsea
+Bot_69	Dreamstalk
+Bot_70	Tina
+Bot_71	Thomas
+Bot_72	Nyaoko
+Bot_73	Nikita
+Bot_74	Nurmela
+Bot_75	Nedry
+Bot_76	Nordin
+Bot_77	Ricky
+Bot_78	Fedor
+Bot_79	Fauser
+Bot_80	Herrlich
+Bot_81	Hopkins
+Bot_82	Maggie
+Bot_83	Mitchel
+Bot_84	Moore
+Bot_85	Melanie
+Bot_86	Monika
+Bot_87	Janice
+Bot_88	Julian
+Bot_89	Johan
+Bot_90	Lionel
+Bot_91	Ricardo
+Bot_92	Luisa
+Bot_93	Leon
+Bot_94	Roxanne
+Bot_95	WhySoWise
+Bot_96	Springer
+Bot_97	Summers
+Bot_98	Autumn
+Bot_99	Winterly
+Bot_100	DrumDasher
+Bot_101	LoLoLaLa
+Bot_102	KingKracko
+Bot_103	TheBright1
+Bot_104	RoRoRoller
+Bot_105	Sr.Heavy
+Bot_106	Metal G.
+Bot_107	IceLizard
+Bot_108	MaxSpeed
+Bot_109	LiteMatter
+Bot_110	MskdWhspy
+Bot_111	DynaWings
+Bot_112	BamWhammy
+Bot_113	Jr.Heavy
+Bot_114	HeyHowdyHi
+Bot_115	PonCon
+Bot_116	Ado-chan
+Bot_117	ZeroOne
+Bot_118	EyeBelly
+Bot_119	Magmister
+Bot_120	VibrantPix
+Bot_121	HeavyIII
+Bot_122	Zero2sOwie
+Bot_123	NightMareS
+Bot_124	Knightmare
+Bot_125	Elephanfan
+Bot_126	GippiG
+Bot_127	Titan Arm
+Bot_128	QuestnMark
+Bot_129	BatafireBB
+Bot_130	Gobbler
+Bot_131	Drawcian
+Bot_132	Paint_Soul
+Bot_133	CacklinPnt
+Bot_134	UnknownArt
+Bot_135	MouseMob
+Bot_136	SneakSnack
+Bot_137	CakeTaker
+Bot_138	Neb-u-la
+Bot_139	Galaxys#1
+Bot_140	BoomKapow
+Bot_141	WhoaKabula
+Bot_142	SoulScream
+Bot_143	Kindolor
+Bot_144	Adorabolor
+Bot_145	Sweetolor
+Bot_146	Troubolor
+Bot_147	ThankYou
+Bot_148	YourServer
+Bot_149	Lil_Landia
+Bot_150	TunaBlade
+Bot_151	TaranzaFan
+Bot_152	DreamBloom
+Bot_153	FatalBloom
+Bot_154	Miracle4
+Bot_155	LastLander
+Bot_156	BringItOn
+Bot_157	Kirbistory
+Bot_158	HeartStar
+Bot_159	SusieSuit
+Bot_160	Haltmann$
+Bot_161	Star_Dream
+Bot_162	Nyaooon!
+Bot_163	MageSister
+Bot_164	ShakenSoda
+Bot_165	BigBigBBQ
+Bot_166	DrumNWaste
+Bot_167	Bonjam
+Bot_168	Jambuhbye
+Bot_169	Voidalike
+Bot_170	Carol
+Bot_171	Leongar
+Bot_172	FlutterBy
+Bot_173	HeyWhatHuh
+Bot_174	ID-F85
+Bot_175	Psychmedlr
+Bot_176	BandanaRun
+Bot_177	HeartDrive
+Bot_178	MeowMeow
+Bot_179	New World
+Name\SeriesName.msbt
+Series0	Kirby's Dream Land
+Series1	Kirby's Adventure
+Series2	Kirby's Pinball Land
+Series3	Kirby's Dream Course
+Series4	Kirby's Dream Land 2
+Series5	Kirby's Block Ball
+Series6	Kirby Super Star
+Series7	Kirby's Star Stacker
+Series8	Kirby's Dream Land 3
+Series9	Kirby's Star Stacker (Super Famicom)
+Series10	Kirby 64: The Crystal Shards
+Series11	Kirby Tilt 'n' Tumble
+Series12	Kirby: Nightmare in Dream Land
+Series13	Kirby Air Ride
+Series14	Kirby & The Amazing Mirror
+Series15	Kirby: Canvas Curse
+Series16	Kirby: Squeak Squad
+Series17	Kirby Super Star Ultra
+Series18	Kirby's Epic Yarn
+Series19	Kirby Mass Attack
+Series20	Kirby's Return to Dream Land
+Series21	Kirby's Dream Collection Special Edition
+Series22	Kirby: Triple Deluxe
+Series23	Kirby Fighters Deluxe
+Series24	Dedede's Drum Dash Deluxe
+Series25	Kirby and the Rainbow Curse
+Series26	Kirby: Planet Robobot
+Series27	Team Kirby Clash Deluxe
+Series28	Kirby's Blowout Blast
+Series29	Kirby Battle Royale
+Series30	Kirby Star Allies
+Series31	Kirby's Extra Epic Yarn
+Series32	Super Kirby Clash
+Series33	Kirby Fighters 2
+Series34	Kirby and the Forgotten Land
+Series35	Kirby 30th Anniversary Music Fest.
+Series36	Kirby Café
+Series37	Kirby 30th Anniversary
+Name\SkinName.msbt
+Collection_Skin_None	Normal
+Collection_Skin_WaddleDee	Bandana Waddle Dee
+Collection_Skin_Dedede	King Dedede
+Collection_Skin_Metaknight	Meta Knight
+Collection_Skin_Kawasaki	Chef Kawasaki
+Collection_Skin_Marx	Marx
+Collection_Skin_Gooey	Gooey
+Collection_Skin_Chuchu	Chuchu
+Collection_Skin_Adeleine	Adeleine & Ribbon
+Collection_Skin_Daroach	Daroach
+Collection_Skin_Magolor	Magolor
+Collection_Skin_Taranza	Taranza
+Collection_Skin_Susie	Susie
+Collection_Skin_Francisca	Francisca
+Collection_Skin_Flamberge	Flamberge
+Collection_Skin_Zan	Zan Partizanne
+Collection_Skin_Elfilin	Elfilin
+Collection_Skin_MorphoKnight	Morpho Knight
+Collection_Skin_Burger	Kirby Burger
+Collection_Skin_WaddleDoo	Waddle Doo
+Collection_Skin_Cream	Whipped Cream
+Collection_Skin_Kine	Kine
+Collection_Skin_CarMouth	Car-Mouth Cake
+Collection_Skin_Coo	Coo
+Collection_Skin_Rick	Rick
+Name\SoundName.msbt
+Collection_Sound_Home	Kirby's Dream Buffet
+Collection_Sound_RewardRace0	I'm a Hungry Pink Puffball!
+Collection_Sound_RewardRace1	Working Up an Appetite
+Collection_Sound_RewardRace2	Cute, Colorful Candies
+Collection_Sound_RewardRace3	On a Fun Drive with You
+Collection_Sound_RewardRace4	Caramel Country Western
+Collection_Sound_RewardRace5	Rolling-Quartet Jazz Band
+Collection_Sound_RewardRace6	Route 8 on a Winter Day
+Collection_Sound_RewardRace7	Love, Love, Alivel
+Collection_Sound_RewardRace8	Seven Colors in the Sky
+Collection_Sound_RewardRace9	A Dance with the Painting Witch
+Collection_Sound_RewardRace10	Revenge of Steel Wings
+Collection_Sound_RewardRace11	Flying in the Clouds
+Collection_Sound_RewardRace12	Prismatic Pinball
+Collection_Sound_RewardRace13	Polka-Dotted Cityscape
+Collection_Sound_RewardRace14	Tonight's Bright-Lights Show
+Collection_Sound_RewardRace15	I'm a Hungry Pink Puffball! (Ver. 2)
+Collection_Sound_MemorialTrack0	Kirby's Dream Land: Memorial Song 1
+Collection_Sound_MemorialTrack1	Kirby's Dream Land: Memorial Song 2
+Collection_Sound_MemorialTrack2	Kirby's Adventure: Memorial Song 1
+Collection_Sound_MemorialTrack3	Kirby's Adventure: Memorial Song 2
+Collection_Sound_MemorialTrack4	Kirby's Pinball Land: Memorial Song 1
+Collection_Sound_MemorialTrack5	Kirby's Pinball Land: Memorial Song 2
+Collection_Sound_MemorialTrack6	Kirby's Dream Course: Memorial Song 1
+Collection_Sound_MemorialTrack7	Kirby's Dream Course: Memorial Song 2
+Collection_Sound_MemorialTrack8	Kirby's Dream Land 2: Memorial Song 1
+Collection_Sound_MemorialTrack9	Kirby's Dream Land 2: Memorial Song 2
+Collection_Sound_MemorialTrack10	Kirby's Block Ball: Memorial Song 1
+Collection_Sound_MemorialTrack11	Kirby's Block Ball: Memorial Song 2
+Collection_Sound_MemorialTrack12	Kirby Super Star: Memorial Song 1
+Collection_Sound_MemorialTrack13	Kirby Super Star: Memorial Song 2
+Collection_Sound_MemorialTrack14	Kirby Super Star: Memorial Song 3
+Collection_Sound_MemorialTrack15	Kirby's Dream Land 3: Memorial Song 1
+Collection_Sound_MemorialTrack16	Kirby's Dream Land 3: Memorial Song 2
+Collection_Sound_MemorialTrack17	Kirby 64: The Crystal Shards: Memorial Song 1
+Collection_Sound_MemorialTrack18	Kirby 64: The Crystal Shards: Memorial Song 2
+Collection_Sound_MemorialTrack19	Kirby Tilt 'n' Tumble: Memorial Song 1
+Collection_Sound_MemorialTrack20	Kirby Tilt 'n' Tumble: Memorial Song 2
+Collection_Sound_MemorialTrack21	Kirby: Nightmare in Dream Land: Memorial Song 1
+Collection_Sound_MemorialTrack22	Kirby: Nightmare in Dream Land: Memorial Song 2
+Collection_Sound_MemorialTrack23	Kirby Air Ride: Memorial Song 1
+Collection_Sound_MemorialTrack24	Kirby Air Ride: Memorial Song 2
+Collection_Sound_MemorialTrack25	Kirby Air Ride: Memorial Song 3
+Collection_Sound_MemorialTrack26	Kirby & The Amazing Mirror: Memorial Song 1
+Collection_Sound_MemorialTrack27	Kirby & The Amazing Mirror: Memorial Song 2
+Collection_Sound_MemorialTrack28	Kirby: Squeak Squad: Memorial Song 1
+Collection_Sound_MemorialTrack29	Kirby: Squeak Squad: Memorial Song 2
+Collection_Sound_MemorialTrack30	Kirby Super Star Ultra: Memorial Song 1
+Collection_Sound_MemorialTrack31	Kirby Super Star Ultra: Memorial Song 2
+Collection_Sound_MemorialTrack32	Kirby's Return to Dream Land: Memorial Song 1
+Collection_Sound_MemorialTrack33	Kirby's Return to Dream Land: Memorial Song 2
+Collection_Sound_MemorialTrack34	Kirby's Return to Dream Land: Memorial Song 3
+Collection_Sound_MemorialTrack35	Kirby's Dream Collection: Memorial Song 1
+Collection_Sound_MemorialTrack36	Kirby's Dream Collection: Memorial Song 2
+Collection_Sound_MemorialTrack37	Kirby: Triple Deluxe: Memorial Song 1
+Collection_Sound_MemorialTrack38	Kirby: Triple Deluxe: Memorial Song 2
+Collection_Sound_MemorialTrack39	Kirby: Planet Robobot: Memorial Song 1
+Collection_Sound_MemorialTrack40	Kirby: Planet Robobot: Memorial Song 2
+Collection_Sound_MemorialTrack41	Kirby Star Allies: Memorial Song 1
+Collection_Sound_MemorialTrack42	Kirby Star Allies: Memorial Song 2
+Collection_Sound_MemorialTrack43	Kirby Star Allies: Memorial Song 3
+Collection_Sound_MemorialTrack44	Super Kirby Clash: Memorial Song 1
+Collection_Sound_MemorialTrack45	Super Kirby Clash: Memorial Song 2
+Collection_Sound_MemorialTrack46	Kirby Fighters 2: Memorial Song 1
+Collection_Sound_MemorialTrack47	Kirby Fighters 2: Memorial Song 2
+Collection_Sound_MemorialTrack48	Kirby and the Forgotten Land: Memorial Song 1
+Collection_Sound_MemorialTrack49	Kirby and the Forgotten Land: Memorial Song 2
+Collection_Sound_MemorialTrack50	Kirby and the Forgotten Land: Memorial Song 3
+Collection_Sound_MemorialTrack51	Kirby and the Forgotten Land: Memorial Song 4
+Collection_Sound_MemorialTrack52	Kirby and the Forgotten Land: Memorial Song 5
+Collection_Sound_MemorialTrack53	Kirby 30th Music Fest: HAL Laboratory Dream Band Song
+Collection_Sound_MemorialTrack54	Kirby and the Forgotten Land: Bonus Song 1
+Collection_Sound_MemorialTrack55	Kirby and the Forgotten Land: Bonus Song 2
+Collection_Sound_MemorialTrack56	Kirby and the Forgotten Land: Bonus Song 3
+Collection_Sound_MemorialTrack57	Kirby Star Allies: Bonus Song 1
+Collection_Sound_MemorialTrack58	Kirby Star Allies: Bonus Song 2
+Collection_Sound_MemorialTrack59	Kirby Star Allies: Bonus Song 3
+Collection_Sound_MemorialTrack60	Kirby Fighters 2: Bonus Song 1
+Collection_Sound_MemorialTrack61	Kirby Fighters 2: Bonus Song 2
+Collection_Sound_MemorialTrack62	Kirby Fighters 2: Bonus Song 3
+Collection_Sound_MemorialTrack63	Super Kirby Clash: Bonus Song 1
+Collection_Sound_MemorialTrack64	Super Kirby Clash: Bonus Song 2
+Collection_Sound_MemorialTrack65	Super Kirby Clash: Bonus Song 3
+Collection_Sound_CollectionSweetComplete	Kirby's Ultra-Gourmet Memories
+Collection_Sound_HomeMaxRank	Afternoon Tea
+Name\StageName.msbt
+Race1RollcakeMap01	Cake Rolls
+Race1RollcakeMap02	Cake Rolls
+Race2RollcakeMap01	Cake Rolls
+Race2RollcakeMap02	Cake Rolls
+Race1BaumkuchenMap01	Baumkuchen
+Race1BaumkuchenMap02	Baumkuchen
+Race2BaumkuchenMap01	Baumkuchen
+Race2BaumkuchenMap02	Baumkuchen
+Race1ShortCakeMap01	Shortcake
+Race1ShortCakeMap02	Shortcake
+Race2ShortCakeMap01	Shortcake
+Race2ShortCakeMap02	Shortcake
+Race1PancakeMap01	Pancakes
+Race1PancakeMap02	Pancakes
+Race2PancakeMap01	Pancakes
+Race2PancakeMap02	Pancakes
+Race1ChocolateFountainMap01	Chocolate Fountain
+Race1ChocolateFountainMap02	Chocolate Fountain
+Race2ChocolateFountainMap01	Chocolate Fountain
+Race2ChocolateFountainMap02	Chocolate Fountain
+Race1IceCreamMap01	Ice Cream
+Race1IceCreamMap02	Ice Cream
+Race2IceCreamMap01	Ice Cream
+Race2IceCreamMap02	Ice Cream
+Race1HamburgerMap01	Hamburgers
+Race1HamburgerMap02	Hamburgers
+Race2HamburgerMap01	Hamburgers
+Race2HamburgerMap02	Hamburgers
+Race1DonutMap01	Doughnuts
+Race1DonutMap02	Doughnuts
+Race2DonutMap01	Doughnuts
+Race2DonutMap02	Doughnuts
+BonusGame_BattleCupcakeMap01	Cupcakes
+BonusGame_BattleCupcakeMap02	Cupcakes
+BonusGame_BattleCupcakeMap03	Cupcakes
+BonusGame_BattleCheeseFondueMap01	Cheese Fondue
+BonusGame_BattleCheeseFondueMap02	Cheese Fondue
+BonusGame_BattleCheeseFondueMap03	Cheese Fondue
+BonusGame_BattleElfilinMap01	Elfilin Cake
+BonusGame_BattleKirbyMap01	Kirby Cake
+BonusGame_BattlePieMap01	Pie
+BonusGame_BattlePieMap02	Pie
+BonusGame_BattlePieMap03	Pie
+BonusGame_BattleWaffleMap01	Waffle
+BonusGame_BattleWaffleMap02	Waffle
+BonusGame_BoxCupcakeMap01	Cupcakes
+BonusGame_BoxCupcakeMap02	Cupcakes
+BonusGame_BoxCupcakeMap03	Cupcakes
+BonusGame_BoxPieMap01	Pie
+BonusGame_BoxPieMap02	Pie
+BonusGame_BoxPieMap03	Pie
+BonusGame_BoxWaffleMap01	Waffle
+BonusGame_BoxWaffleMap02	Waffle
+BonusGame_DropCupcakeMap01	Cupcakes
+BonusGame_DropCupcakeMap02	Cupcakes
+BonusGame_DropCupcakeMap03	Cupcakes
+BonusGame_DropChiffonCakeMap01	Chiffon Cake
+BonusGame_DropChiffonCakeMap02	Chiffon Cake
+BonusGame_DropChiffonCakeMap03	Chiffon Cake
+BonusGame_DropKirbyMap01	Kirby Cake
+BonusGame_DropElfilinMap01	Elfilin Cake
+BonusGame_DropPieMap01	Pie
+BonusGame_DropPieMap02	Pie
+BonusGame_DropPieMap03	Pie
+BonusGame_DropCheeseFondueMap01	Cheese Fondue
+BonusGame_DropCheeseFondueMap02	Cheese Fondue
+BonusGame_DropCheeseFondueMap03	Cheese Fondue
+BonusGame_DropWaffleMap01	Waffle
+BonusGame_DropWaffleMap02	Waffle
+BonusGame_CupTeaCupMap01	Teatime
+BonusGame_CupTeaCupMap02	Teatime
+FinalBattleWholecakeMap01	Whole Cakes
+FinalBattleWholecakeMap02	Whole Cakes
+FinalBattleWholecakeMap03	Whole Cakes
+FinalBattleSquarecakeMap01	Sheet Cake
+FinalBattleSquarecakeMap02	Sheet Cake
+FinalBattleSquarecakeMap03	Sheet Cake
+FinalBattleIcePopMap01	Frozen Treats
+FinalBattleIcePopMap02	Frozen Treats
+FinalBattleIcePopMap03	Frozen Treats
+FinalBattlePuddingMap01	Puddings à la Mode
+FinalBattlePuddingMap02	Puddings à la Mode
+FinalBattlePuddingMap03	Puddings à la Mode
+FinalBattleHamburgerSteakMap01	BBQ
+FinalBattleHamburgerSteakMap02	BBQ
+FinalBattleHamburgerSteakMap03	BBQ
+FinalBattleSandwichMap01	Sandwiches
+FinalBattleSandwichMap02	Sandwiches
+FinalBattleSandwichMap03	Sandwiches
+FinalBattleMagolorMap01	Magolor Cake
+FinalBattleWhispyWoodsMap01	Whispy Stage Cake
+Collection_Stage_IceCream	Ice Cream
+Collection_Stage_ChocolateFountain	Chocolate Fountain
+Collection_Stage_Magolor	Magolor Cake
+Collection_Stage_Elfilin	Elfilin Cake
+Collection_Stage_IcePop	Frozen Treats
+Collection_Stage_HamburgerSteak	BBQ
+Collection_Stage_Kirby	Kirby Cake
+Collection_Stage_WhispyWoods	Whispy Stage Cake
+Name\SweetName.msbt
+Collection_Sweet_Kirby	Kirby
+Collection_Sweet_Dedede	King Dedede
+Collection_Sweet_WaddleDee	Waddle Dee
+Collection_Sweet_WaddleDoo	Waddle Doo
+Collection_Sweet_Kracko	Kracko
+Collection_Sweet_WhispyWoods	Whispy Woods
+Collection_Sweet_KirbyPixel	Pixel Kirby
+Collection_Sweet_WarpStar	Pixel Warp Star
+Collection_Sweet_WaddleDeePixel	Pixel Waddle Dee
+Collection_Sweet_BrontoburtPixel	Pixel Bronto Burt
+Collection_Sweet_Grizzo	Pixel Grizzo
+Collection_Sweet_DededePixel	Pixel King Dedede
+Collection_Sweet_DededeShocked	Pixel Shocked Dedede
+Collection_Sweet_MintLeaf	Pixel Mint Leaf
+Collection_Sweet_SuperspicyCurry	Pixel Superspicy Curry
+Collection_Sweet_StarRod	Kirby (Star Rod)
+Collection_Sweet_Ufo	UFO Kirby
+Collection_Sweet_MrShine	Mr. Shine
+Collection_Sweet_MrBright	Mr. Bright
+Collection_Sweet_SwordKnight	Sword Knight
+Collection_Sweet_Nightmare	Nightmare Wizard
+Collection_Sweet_Metaknight	Meta Knight
+Collection_Sweet_KirbyCannon	Pixel Kirby (Cannon)
+Collection_Sweet_KirbySword	Pixel Sword Kirby
+Collection_Sweet_KirbyStone	Pixel Stone Kirby
+Collection_Sweet_WaddleDooPixel	Pixel Waddle Doo
+Collection_Sweet_HotHead	Pixel Hot Head
+Collection_Sweet_Bonkers	Pixel Bonkers
+Collection_Sweet_KrackoPixel	Pixel Kracko
+Collection_Sweet_MetaknightPixel	Pixel Meta Knight
+Collection_Sweet_Pinball	Kirby (Flippers)
+Collection_Sweet_PinballIcon1	Kirby's Pinball Land (1)
+Collection_Sweet_PinballIcon2	Kirby's Pinball Land (2)
+Collection_Sweet_DreamCourse	Kirby & Keeby
+Collection_Sweet_KirbyFlag	Kirby (Flags)
+Collection_Sweet_DreamCourseLogo	Kirby (Hole in One)
+Collection_Sweet_Rick	Rick
+Collection_Sweet_Kine	Kine
+Collection_Sweet_Coo	Coo
+Collection_Sweet_CrackTweet	Hatched Chick
+Collection_Sweet_Masher	Masher
+Collection_Sweet_IceDragon	Ice Dragon
+Collection_Sweet_KirbyCutter	Pixel Cutter Kirby
+Collection_Sweet_LordKibble	Pixel Lord Kibble
+Collection_Sweet_MasterGreen	Pixel Master Green
+Collection_Sweet_NruffAndNelly	Pixel Nruff & Nelly
+Collection_Sweet_MrFrostyPixel	Pixel Mr. Frosty
+Collection_Sweet_DarkMatterPixel	Pixel Dark Matter
+Collection_Sweet_BlockBall	Kirby's Block Ball
+Collection_Sweet_KirbyCook	Chef Kirby
+Collection_Sweet_KirbyJet	Jet Kirby
+Collection_Sweet_KirybMirror	Mirror Kirby
+Collection_Sweet_Wheelie	Pixel Wheelie Rider
+Collection_Sweet_KirbyYoyo	Pixel Yo-Yo Kirby
+Collection_Sweet_ChefKawasaki	Pixel Chef Kawasaki
+Collection_Sweet_KnuckleJoe	Pixel Knuckle Joe
+Collection_Sweet_Marx	Marx
+Collection_Sweet_Tac	Pixel Tac
+Collection_Sweet_Walky	Walky
+Collection_Sweet_AxeKnight	Axe Knight
+Collection_Sweet_JavelinKnight	Javelin Knight
+Collection_Sweet_TridentKnight	Trident Knight
+Collection_Sweet_MaceKnight	Mace Knight
+Collection_Sweet_DynaBlade	Pixel Dyna Blade
+Collection_Sweet_RickBlock	Rick Block
+Collection_Sweet_KineBlock	Kine Block
+Collection_Sweet_CooBlock	Coo Block
+Collection_Sweet_KirbyClean	Pixel Clean Kirby
+Collection_Sweet_KirbyParasol	Parasol Kirby
+Collection_Sweet_Gooey	Gooey
+Collection_Sweet_ChuChu	Chuchu
+Collection_Sweet_Nago	Nago
+Collection_Sweet_Pitch	Pitch
+Collection_Sweet_Gabon	Pixel Gabon
+Collection_Sweet_DarkMatterPixelColor	Pixel Dark Matter
+Collection_Sweet_Zero	Zero
+Collection_Sweet_PonAndCon	Pixel Pon & Con
+Collection_Sweet_MrStar	Mr. Star
+Collection_Sweet_TickTockJr	Tick-Tock Jr.
+Collection_Sweet_Gryll	Gryll
+Collection_Sweet_KirbyBurningStone	Burning Stone
+Collection_Sweet_KirbyNeedle	Needle Kirby
+Collection_Sweet_Ribbon	Ribbon
+Collection_Sweet_Adeleine	Adeleine
+Collection_Sweet_WaddleDee64	Kirby & Waddle Dee
+Collection_Sweet_Dedede64	Kirby & King Dedede
+Collection_Sweet_Nz	N-Z
+Collection_Sweet_Acro	Acro
+Collection_Sweet_Magman	Magman
+Collection_Sweet_Hrh	HR-H
+Collection_Sweet_Blockbot	Blockbot
+Collection_Sweet_Blinkbat	Blinkbat
+Collection_Sweet_Orbservor	Orbservors
+Collection_Sweet_Noddy	Noddy
+Collection_Sweet_Gordo	Pixel Gordo
+Collection_Sweet_FireLion	Fire Lion
+Collection_Sweet_PhanPhan	Pixel Phan Phan
+Collection_Sweet_PaintRoller	Paint Roller
+Collection_Sweet_HeavyMole	Pixel Heavy Mole
+Collection_Sweet_MaximTomato	Maxim Tomato
+Collection_Sweet_InvincibleCandy	Invincible Candy
+Collection_Sweet_Dragoon	Dragoon
+Collection_Sweet_Hydra	Hydra
+Collection_Sweet_WarpStarAirRide	Warp Star
+Collection_Sweet_ShadowStar	Shadow Star
+Collection_Sweet_Caller	Caller
+Collection_Sweet_Flappy	Flappy
+Collection_Sweet_KirbyPhone	Pixel Kirby (Phone)
+Collection_Sweet_KirbyMissile	Missile Kirby
+Collection_Sweet_Mirra	Pixel Mirra
+Collection_Sweet_Gobbler	Pixel Gobbler
+Collection_Sweet_MasterHand	Pixel Master Hand
+Collection_Sweet_CrazyHand	Crazy Hand
+Collection_Sweet_DarkMetaknight	Dark Meta Knight
+Collection_Sweet_DarkMind	Pixel Dark Mind
+Collection_Sweet_KirbyBall	Kirby Ball
+Collection_Sweet_MetaknightBall	Meta Knight Ball
+Collection_Sweet_DededeBall	Dedede Ball
+Collection_Sweet_Bloon	Pixel Bloon
+Collection_Sweet_Drawcia	Pixel Drawcia Sorceress
+Collection_Sweet_DrawciaSoul	Drawcia Soul
+Collection_Sweet_KirbyAnimal	Pixel Animal Kirby
+Collection_Sweet_KirbyGhost	Pixel Ghost Kirby
+Collection_Sweet_Squeaker	Squeaker
+Collection_Sweet_Doc	Doc
+Collection_Sweet_Storo	Storo
+Collection_Sweet_Spinni	Spinni
+Collection_Sweet_Daroach	Daroach
+Collection_Sweet_DarkNebula	Dark Nebula
+Collection_Sweet_KirbyNinja	Ninja Kirby
+Collection_Sweet_KirbyPlasma	Plasma Kirby
+Collection_Sweet_KirbySuplex	Suplex Kirby
+Collection_Sweet_SailorWaddleDee	Sailor Waddle Dee
+Collection_Sweet_GalacticNova	Galactic Nova
+Collection_Sweet_MaskedDedede	Pixel Masked Dedede
+Collection_Sweet_GalactaKnight	Pixel Galacta Knight
+Collection_Sweet_MarxSoul	Pixel Marx Soul
+Collection_Sweet_EpicYarn	Kirby
+Collection_Sweet_Fluff	Prince Fluff
+Collection_Sweet_YinYarn	Yin-Yarn
+Collection_Sweet_KirbyTwo	Double Kirby
+Collection_Sweet_Beanbon	Beanbon
+Collection_Sweet_Skully	Skully
+Collection_Sweet_Skullord	Pixel Skullord
+Collection_Sweet_KirbyCrackler	Kirby (Crackler)
+Collection_Sweet_KirbyLeaf	Leaf Kirby
+Collection_Sweet_KirbyWhip	Whip Kirby
+Collection_Sweet_KirbyUltraSword	Ultra Sword
+Collection_Sweet_KirbyMonsterFlame	Monster Flame
+Collection_Sweet_KirbySnowBowl	Snow Bowl
+Collection_Sweet_Leafan	Leafan
+Collection_Sweet_Whippy	Whippy
+Collection_Sweet_BandanaWaddleDee	Bandana Waddle Dee
+Collection_Sweet_MetaknightWii	Meta Knight
+Collection_Sweet_DededeWii	King Dedede
+Collection_Sweet_Magolor	Magolor
+Collection_Sweet_AllPlayerWii	Four Adventurers
+Collection_Sweet_Lor	Lor Starcutter
+Collection_Sweet_MagolorPixel	Pixel Magolor
+Collection_Sweet_DreamCollectionLogo1	20th Anniversary Logo (1)
+Collection_Sweet_DreamCollectionLogo2	20th Anniversary Logo (2)
+Collection_Sweet_KirbySmashBros	Smash Bros. Kirby
+Collection_Sweet_Kirby3dWarpStar	3D Warp Star
+Collection_Sweet_KirbyHypernova	Hypernova Inhale
+Collection_Sweet_KirbyBeetle	Beetle Kirby
+Collection_Sweet_KirbyBell	Bell Kirby
+Collection_Sweet_KirbyCircus	Circus Kirby
+Collection_Sweet_Beetley	Beetley
+Collection_Sweet_Ringle	Ringle
+Collection_Sweet_Spynum	Spynum
+Collection_Sweet_Taranza	Taranza
+Collection_Sweet_SunStone	Sun Stone
+Collection_Sweet_SwordBeam	Sword vs. Beam
+Collection_Sweet_ArcherFighter	Archer vs. Fighter
+Collection_Sweet_TeamCannon	Team Cannon
+Collection_Sweet_DededeTambourine	King Dedede (Tambourine)
+Collection_Sweet_KirbyMegaphone	Kirby (Megaphone)
+Collection_Sweet_Tambourine	Tambourine
+Collection_Sweet_KirbyRainbowCurse	Kirby
+Collection_Sweet_Elline	Elline
+Collection_Sweet_Claycia	Claycia
+Collection_Sweet_KirbyHelmet	Kirby (Helmet)
+Collection_Sweet_KirbyEsp	ESP Kirby
+Collection_Sweet_KirbyDoctor	Doctor Kirby
+Collection_Sweet_RobobotNormal	Robobot Armor
+Collection_Sweet_RobobotJet	Jet Mode
+Collection_Sweet_RobobotWheel	Wheel Mode
+Collection_Sweet_WalkerWaddleDee	Walker Waddle Dee
+Collection_Sweet_BrontoBurt	Bronto Burt
+Collection_Sweet_Susie	Susie
+Collection_Sweet_Haltmann	President Haltmann
+Collection_Sweet_SwordHero	Sword Hero
+Collection_Sweet_HammerLord	Hammer Lord
+Collection_Sweet_DoctorHealmore	Doctor Healmore
+Collection_Sweet_BeamMage	Beam Mage
+Collection_Sweet_KibbleBlade	Kibble Blade
+Collection_Sweet_Inhale	Inhaling Kirby
+Collection_Sweet_FullBellyKirby	Full Belly Kirby
+Collection_Sweet_BlasterBulletKirby	Kirby (Blaster Bullet)
+Collection_Sweet_Cake	Deluxe Tiered Cake
+Collection_Sweet_KirbyPrinter	Kirby Printer
+Collection_Sweet_KirbyFighter	Fighter Kirby
+Collection_Sweet_ThrowFriendHeart	Kirby
+Collection_Sweet_FriendCircle	Friend Circle
+Collection_Sweet_SizzleYoyo	Sizzle Yo-Yo
+Collection_Sweet_BonkersZapHammer	Zap Hammer Bonkers
+Collection_Sweet_BladeKnightBlizzardSword	Blizzard Sword Blade Knight
+Collection_Sweet_PoppyBrosJrBlusterBomb	Bluster Bomb Poppy Bros. Jr.
+Collection_Sweet_Vividria	Vividria
+Collection_Sweet_DededeStarAllies	King Dedede
+Collection_Sweet_Francisca	Francisca
+Collection_Sweet_Flamberge	Flamberge
+Collection_Sweet_ZanPartizanne	Zan Partizanne
+Collection_Sweet_VoidTermina	Void Termina
+Collection_Sweet_MeDevil	Me-Devil
+Collection_Sweet_YeDevil	Ye-Devil
+Collection_Sweet_WeDevil	We-Devil
+Collection_Sweet_SwordHeroSuper	Sword Hero
+Collection_Sweet_HammerLordSuper	Hammer Lord
+Collection_Sweet_DoctorHealmoreSuper	Doctor Healmore
+Collection_Sweet_BeamMageSuper	Beam Mage
+Collection_Sweet_ParallelNightmare	Parallel Nightmare
+Collection_Sweet_AeonHero	Aeon Hero
+Collection_Sweet_ShopkeeperMagolor	Shopkeeper Magolor
+Collection_Sweet_SwordWrestler	Sword & Wrestler
+Collection_Sweet_CheerStyle	Cheer Style
+Collection_Sweet_SumoTopknot	Sumo Topknot
+Collection_Sweet_DededeMetaknight	King Dedede & Meta Knight
+Collection_Sweet_DededeMetaknightMasked	Masked D. & Masked M.
+Collection_Sweet_BuddyStarBlaster	Buddy Star Blaster
+Collection_Sweet_KirbyDiscovery	Kirby
+Collection_Sweet_BandanaWaddleDeeDiscovery	Bandana Waddle Dee
+Collection_Sweet_Elfilin	Elfilin
+Collection_Sweet_CarMouth	Car-Mouth Kirby
+Collection_Sweet_ConeMouth	Cone-Mouth Kirby
+Collection_Sweet_VendingMouth	Vending-Mouth Kirby
+Collection_Sweet_RingMouth	Ring-Mouth Kirby
+Collection_Sweet_KirbyDrill	Drill Kirby
+Collection_Sweet_KirbyRanger	Ranger Kirby
+Collection_Sweet_KirbyDragonFire	Dragon Fire Kirby
+Collection_Sweet_KirbyDeepSleep	Deep Sleep Kirby
+Collection_Sweet_Awoofy	Awoofy
+Collection_Sweet_Gorimondo	Gorimondo
+Collection_Sweet_Clawroline	Clawroline
+Collection_Sweet_DededeDiscovery	King Dedede
+Collection_Sweet_MetaknightDiscobery	Meta Knight
+Collection_Sweet_WeaponsShopWaddleDee	Weapons-Shop Waddle Dee
+Collection_Sweet_CarMouthCake	Car-Mouth Cake
+Collection_Sweet_KirbyElfilinWaddleDee	Group Pose!
+Collection_Sweet_CapturedWaddleDee	Captured Waddle Dees
+Collection_Sweet_KirbyMusicFest	Kirby
+Collection_Sweet_ElfilinMusicFest	Elfilin
+Collection_Sweet_MagolorMusicFest	Magolor
+Collection_Sweet_KirbyCafe	Kirby
+Collection_Sweet_WaddleDeeCafe	Waddle Dee
+Collection_Sweet_Logo30th	30th Anniversary Logo

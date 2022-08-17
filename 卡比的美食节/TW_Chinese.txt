@@ -1,0 +1,1355 @@
+Bmenu.msbt
+$BmenuBackGuide	返回
+Title_ModeName_Battle	對戰模式
+Title_ModeName_Online	線上模式
+Title_ModeName_Local	鄰近主機模式
+$BMenuPartsModeSelTitleText	主選單
+$BMenuModeSelLocalBtnTitle	鄰近主機模式
+$BMenuModeSelOfflineBtnTitle	對戰模式
+$BMenuModeSelOnlineBtnTitle	線上模式
+ModeSelDetail_Online	可以在線上跟世界各地的人遊玩,\n或是透過暗號跟遠方的朋友遊玩。
+ModeSelDetail_NoNet	可以與CP角色進行4人遊玩，\n也可以與朋友2人\n透過分享Joy-Con來遊玩。
+ModeSelDetail_LocalNet	只要有與人數相同的軟體和主機，\n就能透過鄰近主機通訊\n最多四人一起遊玩。
+$BmenuPartsPlayerEntrySumTitleText	玩家人數
+$BmenuPartsEntrySumBtnText1P	1人
+$BmenuPartsEntrySumBtnText2P	2人
+PlayerNum_P1	1P
+PlayerNum_P2	2P
+PlayerNum_P3	3P
+PlayerNum_P4	4P
+$BMenuPartsRuleSelTitleText	遊戲規則
+$BMenuPartsRuleSelGrandPrixBtnText	美食大賞
+RuleSelTitle_GrandPrix	美食大賞
+$BMenuPartsRuleSelRaceBtnText	單人比賽
+RuleSelTitle_Race	單人比賽
+$BMenuPartsRuleSelBonusBtnText	單人小遊戲
+RuleSelTitle_Bonus	單人小遊戲
+$BMenuPartsRuleSelRoundBtnText	單人生存戰
+RuleSelTitle_Round	單人生存戰
+$BMenuPartsRuleSelFreeTrainingBtnText	自由練習
+RuleSelTitle_Training	自由練習
+RuleSelDetail_GrandPrix	可遊玩包含比賽、小遊戲，\n以及最後的生存戰3種遊戲的完整美食節！\n可以獲得「角色點心」。
+RuleSelDetail_Race	在1個被選中的關卡菜單裡馳騁，\n以終點的草莓堆為目標吧！\n可以獲得「角色點心」。
+RuleSelDetail_Bonus	輕鬆又快速的小遊戲。\n按照被隨機選中的1種規則，\n吃下比其他人更多的草莓吧！
+RuleSelDetail_Round	在被選中的主餐為舞台，使用複製食物\n進行有機會大逆轉的生存戰！\n可以獲得「角色點心」。
+RuleSelDetail_Training	在寬廣的遊樂場中自由練習。\n還能自由嘗試各種複製食物。\n與朋友們一起吃一起滾動吧。\nBGM每幾分鐘就會更換一次！
+$BmenuPartsMatchingGroupTitleText	選擇隊伍
+$BmenuPartsMatchingGroupAddText	{[0412|9500]}/{[0411|9400]}組成隊伍
+$BmenuPartsMatchingGroupReloadText	更新列表
+$BmenuPartsMatchingGroupNotFound	沒有隊伍。\n請按{[0412|9500]}/{[0411|9400]}組成隊伍\n或按{[040a|6100]}更新列表。
+$BMenuPartsMatchingWaitTitleText	配對中
+$BMenuPartsTypeSelTitleText	配對選擇
+$BMenuTypeSelBtnKeyword	暗號配對
+$BMenuTypeSelBtnOthers	和任何人配對
+BMenuTypeSel_KeywordHeaderText	輸入暗號
+Cmn.msbt
+$Back	返回
+TimeDisplaySecPunctuation	:
+$CmnTimeExtraInnings	延長時間
+$CmnBtnMatchingCloseText	結束
+$CmnBattleRecordDifficulty	CP等級
+$CmnGourmetGaugeName	美食級別
+GourmetRankGuage_Point	{[0302|0000]} / {size[4b00]}{[0302|0100]}{size[6400]}
+GourmetRankGuage_MaxRankPoint	{[0302|0000]}
+$CmnGourmetRankBarBalloonBonus	獎勵
+GourmetRankGuage_PointGet	+{[0301|0000]}
+$CmnBattleRecordNumOfVictories	優勝次數
+$CmnBattleRecordRating	勝率
+BattleRecord_ChangeNum_Plus	+{[0301|0000]}
+BattleRecord_ChangeNum_Minus	-{[0301|0000]}
+$CmnEmoteTextL	開心～！
+EmoteText_EmotionC	開心～！
+$CmnEmoteTextR	啊！
+EmoteText_EmotionD	啊！
+$CmnEmoteTextU	請多指教！
+EmoteText_EmotionA	請多指教！
+$CmnEmoteTextB	謝謝～！
+EmoteText_EmotionB	謝謝～！
+KiloSeparator	,
+DecimalPoint	.
+$NewIconText	NEW!
+$CmnPleaseWait	請稍等一下
+Collection.msbt
+$CollectionSkinGuideAttach	更換
+$CollectionSkinGuideRotate	旋轉
+$CollectionSkinTitle	更換外表
+$CollectionListNameColor	顏色
+$CollectionListNameSkin	外表
+$CollectionSweetViewTitle	角色點心收藏
+CollectionSweetDecor_Decor	裝飾蛋糕
+CollectionSweetDecor_Remove	自蛋糕移除
+$CollectionSweetViewMultiplication	×
+$CollectionSweetViewSlash	/
+Credit.msbt
+Staff	STAFF
+GeneralDirector	GENERAL DIRECTOR
+GeneralDirector_00	SHINYA KUMAZAKI
+SequenceDirector	SEQUENCE DIRECTOR
+SequenceDirector_00	SHOTA YAMADA
+LevelDesignDirector	LEVEL DESIGN DIRECTOR
+LevelDesignDirector_00	KOSUKE YAMAZAKI
+GameDesigners	GAME DESIGNERS
+GameDesigners_00	YUYA KOZUKA
+GameDesigners_01	RYOSUKE SAKAMOTO
+TechnicalDirector	TECHNICAL DIRECTOR
+TechnicalDirector_00	HIROSHI OHNISHI
+LeadActionProgrammer	LEAD ACTION PROGRAMMER
+LeadActionProgrammer_00	KATSUYOSHI SUMITOMO
+LeadUiProgrammer	LEAD UI PROGRAMMER
+LeadUiProgrammer_00	YUSHI UCHIDA
+Programmers	PROGRAMMERS
+Programmers_00	TAISEI YAMAMOTO
+Programmers_01	KAKUYA MAEKUBO
+Programmers_02	KEISUKE TAKEMURA
+Programmers_03	TAIKI SAKA
+Programmers_04	KEITA YAMADA
+Programmers_05	HIROMU WATANABE
+ArtDirector	ART DIRECTOR
+ArtDirector_00	RIKI FUHRMANN
+CharacterArtists	CHARACTER ARTISTS
+CharacterArtists_00	KENTA MIYAMOTO
+CharacterArtists_01	AKIKO HAYASHI
+FieldArtists	FIELD ARTISTS
+FieldArtists_00	YUKI YOSHIOKA
+FieldArtists_01	MAO YAMASE
+FieldArtists_02	KEIYA OGAWA
+FieldArtists_03	NATSUMI MURAKI
+FieldArtists_04	TOMOMI MINAMI
+LeadUiArtist	LEAD UI ARTIST
+LeadUiArtist_00	KANAKO OMORI
+UiArtists	UI ARTISTS
+UiArtists_00	FUMIYASU KATO
+UiArtists_01	HIKARU USHIKI
+UiArtists_02	YUMI TODO
+UiArtists_03	TERUHIKO SUZUKI
+Movie	MOVIE
+Movie_00	D.A.G Inc.
+Movie_01	EIKI TAKIZAWA
+Movie_02	HISANORI MATSUSHIMA
+Movie_03	AKIKO SASAOKA
+Movie_04	YUYA SUZUKI
+Movie_05	KENRO SHIMIZU
+Movie_06	SADAHIRO OKUI
+Movie_07	AIKA TAKAHASHI
+Movie_08	KEISUKE NISHINA
+LeadSound	LEAD SOUND
+LeadSound_00	YUUTA OGASAWARA
+Sound	SOUND
+Sound_00	JUN ISHIKAWA
+Sound_01	SHOGO SAKAI
+Sound_03	HIROKAZU ANDO
+Sound_04	MEGUMI OHARA
+Sound_05	YUKI SHIMOOKA
+Voice	VOICE
+Voice_00	MAKIKO OHMOTO
+FratFrameworkProgrammers	FRAT FRAMEWORK PROGRAMMERS
+FratFrameworkProgrammers_00	KAZUYA SUETSUGU
+FratFrameworkProgrammers_01	TETSUYA NOGE
+FratFrameworkProgrammers_02	TOMOKAZU TSURUOKA
+FratFrameworkProgrammers_03	RYOICHIRO ATONO
+FratFrameworkProgrammers_04	SHINICHI KAWAJI
+FratFrameworkProgrammers_05	RUI UCHIDA
+FratFrameworkProgrammers_06	AYUMU KATO
+FratFrameworkProgrammers_07	YUYA SUZUKI
+FratFrameworkProgrammers_08	MASATAKA SESHIMO
+FratFrameworkProgrammers_09	KEIGO TSUDA
+FratFrameworkProgrammers_10	MUNEMASA KIMURA
+FratFrameworkProgrammers_11	TAKASHI MATSUDA
+TechnicalSupport	TECHNICAL SUPPORT
+TechnicalSupport_00	KAZUYA KONISHI
+TechnicalSupport_01	HAJIME IMAIZUMI
+TechnicalSupport_02	YOUSUKE FUKUNAGA
+TechnicalSupport_03	TAKAAKI KAZUNO
+TechnicalSupport_04	TAKASHI NEMOTO
+TechnicalSupport_05	JUNICHI AOYAGI
+TechnicalSupport_06	HIROAKI NAKANO
+TechnicalSupport_07	TATSUYA MURASE
+TechnicalSupport_08	AKIO HANYU
+TechnicalSupport_09	TATSUHIRO TANOUE
+TechnicalSupport_10	TAKESHI MINAGAWA
+TechnicalSupport_11	TAKEHIRO OYAMA
+TeamSupport	TEAM SUPPORT
+TeamSupport_00	YOSHIMI TAKAHASHI
+TeamSupport_01	KATSUHIRO SAKODA
+Artwork	ARTWORK
+Artwork_00	RIEKO KAWAHARA
+Artwork_01	YUTO IBARAKI
+Artwork_02	EMI IMAMURA
+Artwork_03	KEIKO INOUE
+Testing	TESTING
+Testing_00	MASARU KOBAYASHI
+Testing_01	TAKESHI TAMURA
+Testing_02	AKIKO OHASHI
+Testing_03	MANAMI ONOZUKA
+Testing_04	TAIKI MAEDA
+Testing_05	YUKI ITONAGA
+Testing_06	HAL DEBUG TEAM
+Testing_07	Mario Club Co., Ltd.
+Testing_08	SHIFT Inc.
+LocalizationManagement	LOCALIZATION MANAGEMENT
+LocalizationManagement_00	SEIJI OTOGURO
+Localization	LOCALIZATION
+Localization_00	SHIGERU HASHIGUCHI
+Localization_01	KENICHI MASUDA
+Localization_02	SHIGERU HIRAYAMA
+NoaLocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NoaLocalizationManagement_00	REIKO NINOMIYA
+NoaLocalizationManagement_01	RICH AMTOWER
+NoaLocalizationManagement_02	RAYMOND ELLIGET
+NoaLocalizationManagement_03	NICKO GONZALEZ
+NoaLocalizationManagement_04	BERENICE HOFSETZ
+NoaLocalizationManagement_05	TIM O'LEARY
+NoaLocalizationManagement_06	CÉSAR PÉREZ
+NoaLocalizationManagement_07	MORGAN RITCHIE
+NoaLocalizationManagement_08	THADDÉE WISEUR
+NoaLocalizationManagement_09	ÁLEX ZARZA
+NoaLocalization	NOA LOCALIZATION
+NoaLocalization_00	ANA CELESTE ASCANIO
+NoaLocalization_01	MICHAEL BENEDETTO
+NoaLocalization_02	BILLY CARROLL
+NoaLocalization_03	YANETT CEPEDA VALOR
+NoaLocalization_04	KRIS COPELAND
+NoaLocalization_05	MARJOLAINE DROUIN
+NoaLocalization_06	PALOMA HERNANDEZ
+NoaLocalization_07	DUTCH HIXENBAUGH
+NoaLocalization_08	SARA HOAD
+NoaLocalization_09	MARISSOL KARCZESKI
+NoaLocalization_10	KRISTOPHER KATZ
+NoaLocalization_11	BRANDON KRAEMER
+NoaLocalization_12	KELI DOMINCIANO NAKAMURA
+NoaLocalization_13	ERIN PETERSON
+NoaLocalization_14	CAROLINA QUESADA
+NoaLocalization_15	BABI VELHO BARRETO
+NoaLocalization_16	LAUREN WELLS
+NoaLocalization_17	LUDOVIC TIENTCHEU PONKIN
+NoaLocalization_18	TARYN ZIEGLER
+NoaLocalization_19	FELIPE ZYLBERSZTAJN
+NoaProductTesting	NOA PRODUCT TESTING
+NoaProductTesting_00	KENTARO NISHIMURA
+NoaProductTesting_01	KIRK BUCHANAN
+NoaProductTesting_02	TOMO ISHIYAMA
+NoaProductTesting_03	HITOSHI NISHIZAWA
+NoaProductTesting_04	SEAN EGAN
+NoaProductTesting_05	TOMOKO MIKAMI
+NoaProductTesting_06	ANDY KOLDEN
+NoaProductTesting_07	JIM HOLDEMAN
+NoaProductTesting_08	MANNA YAMASAKI
+NoaProductTesting_09	TOM HERTZOG
+NoaProductTesting_10	YOUNG KIM
+NoaProductTesting_11	MARKO WALLENIUS
+NoaProductTesting_12	MICHAEL SAHLIN
+NoaProductTesting_13	JAMES DILLON
+NoaProductTesting_14	JOSH YAGI-STANTON
+NoaProductTesting_15	CRAIG SO
+NoaProductTesting_16	LUISA BAYONA OTERO
+NoaProductTesting_17	ROSE HERNANDEZ
+NoaProductTesting_18	AGATHA CARVALHAES CAMARGO HORTIZ
+NoaProductTesting_19	NICOLAS MORA
+NoaProductTesting_20	CAMERON PARENT
+NoaProductTesting_21	LIBIA SANTOS SOUZA
+NoaProductTesting_22	BRANDON TRUAX
+NoaProductTesting_23	FRANCES ECKRICH
+NoaProductTesting_24	AARON JONES
+NoaProductTesting_25	PRODUCT TESTING TECHNICIANS
+NoeLocalisationProducers	NOE LOCALISATION PRODUCERS
+NoeLocalisationProducers_00	IVÁN GARRIDO GONZÁLEZ
+NoeLocalisationProducers_01	SASKIA DOORSCHODT
+NoeLocalisationProducers_02	DARIO DE LEO
+NoeLocalisationProducers_03	LIAM HIGGINS
+NoeTranslationCoordination	NOE TRANSLATION COORDINATION
+NoeTranslationCoordination_00	PIERRE SANCHEZ
+NoeTranslationCoordination_01	ANDREA JÄHN
+NoeEnglishTranslationSupport	NOE ENGLISH TRANSLATION SUPPORT
+NoeEnglishTranslationSupport_00	PATRICK JOYCE
+NoeTranslation	NOE TRANSLATION
+NoeTranslation_00	CLÉMENCE DIERYCK
+NoeTranslation_01	JEAN-PAUL HAUSMANN
+NoeTranslation_02	GIOVANNA PRATI
+NoeTranslation_03	GIACOMO IACUMIN
+NoeTranslation_04	KENT ROBELLO
+NoeTranslation_05	MICHAEL HUSSINGER
+NoeTranslation_06	HANNAH SIEBERT
+NoeTranslation_07	SEBASTIAN BRÜCK
+NoeTranslation_08	JÓNATAN MARCOS MILLÁN
+NoeTranslation_09	JOSÉ MANUEL MALAGÓN LEÓN
+NoeTranslation_10	CARSTEN HARMANS
+NoeTranslation_11	PATRICK KOUDSTAAL
+NoeQaCoordination	NOE QA COORDINATION
+NoeQaCoordination_00	J. IGNACIO LEÓN LÓPEZ
+NoeQaCoordination_01	MATTHEW DAVID JONES
+NoeQualityAssurance	NOE QUALITY ASSURANCE
+NoeQualityAssurance_00	KEYWORDS STUDIOS
+NokLocalizationManagement	NOK LOCALIZATION MANAGEMENT
+NokLocalizationManagement_00	KIM DONGYEON
+NokTranslation	NOK TRANSLATION
+NokTranslation_00	KIM SOONIL
+NokQualityAssurance	NOK QUALITY ASSURANCE
+NokQualityAssurance_00	SEOUNG KIUNG
+NokArtwork	NOK ARTWORK
+NokArtwork_00	LEE HOONKYUNG
+NhlTranslation	NHL TRANSLATION
+NhlTranslation_00	JEANIE HO
+NhlTranslation_01	NATALIE YU
+NhlQualityAssurance	NHL QUALITY ASSURANCE
+NhlQualityAssurance_00	EIJU UMEMURA
+NhlQualityAssurance_01	CHIH HSIEN CHIEN
+NhlQualityAssurance_02	CHEN WEI MING
+NhlArtwork	NHL ARTWORK
+NhlArtwork_00	MIKE KAN
+IqueLocalizationCoordination	iQue LOCALIZATION COORDINATION
+IqueLocalizationCoordination_00	CHEN YIJUN
+IqueTranslation	iQue TRANSLATION
+IqueTranslation_00	QIU XIAOCHUN
+IqueQualityAssurance	iQue QUALITY ASSURANCE
+IqueQualityAssurance_00	ZHANG JIONG
+SpecialThanks	SPECIAL THANKS
+SpecialThanks_00	HARUKA ITOH
+SpecialThanks_01	NAHO YOSHIZAWA
+SpecialThanks_02	YU KANAI
+SpecialThanks_03	TATSUYA KAMIYAMA
+SpecialThanks_04	MASAYO NAKAGAMI
+SpecialThanks_05	YURINA INOUE
+SpecialThanks_06	SHIGENOBU KASAI
+SpecialThanks_07	TETSUYA ABE
+SpecialThanks_08	TOMOHIRO MINEMURA
+SpecialThanks_09	HIROAKI IKARASHI
+SpecialThanks_10	SHOHEI TAKAHAMA
+SpecialThanks_11	YUMI OSADA
+SpecialThanks_12	AKIRA EGUCHI
+SpecialThanks_13	NOBUYUKI OKADA
+SpecialThanks_14	TADASHI IKEGAMI
+SpecialThanks_15	Good-Feel Co., Ltd.
+Coordinator	COORDINATOR
+Coordinator_00	TOMOKI FUKUSHIMA
+ProjectManagement	PROJECT MANAGEMENT
+ProjectManagement_00	KAZUYUKI NAKAMURA
+ProjectManagement_01	KAORI ISHIZAKI
+ProjectManagement_02	SHINYA SAITO
+ProjectManagement_03	AKIRA KINASHI
+AssociateProducer	ASSOCIATE PRODUCER
+AssociateProducer_00	KEI NINOMIYA
+LineProducer	LINE PRODUCER
+LineProducer_00	YOSHIHIRO NAGATA
+Producers	PRODUCERS
+Producers_00	TADASHI KAMITAKE
+Producers_01	TOYOKAZU NONAKA
+GeneralProducers	GENERAL PRODUCERS
+GeneralProducers_00	SHIGEFUMI KAWASE
+GeneralProducers_01	SHINYA TAKAHASHI
+ExecutiveProducer	EXECUTIVE PRODUCER
+ExecutiveProducer_00	SHUNTARO FURUKAWA
+Copyright	HAL Laboratory, Inc. and Nintendo are\nthe authors of this software for the purpose\nof copyright. All rights reserved.\n©HAL Laboratory, Inc. / Nintendo
+$CreditBackGuide	返回
+Dialog.msbt
+CornerBtn_Back	返回
+CornerBtn_Close	關閉
+Btn_CancelForExit	取消
+Text_FileDeleteConfirm1	要刪除所有儲存資料嗎？
+Btn_FileDeleteConfirm1_Yes	刪除
+Btn_FileDeleteConfirm1_No	不要刪除
+Text_FileDeleteConfirm2	真的要刪除囉？
+Btn_FileDeleteConfirm2_Yes	真的要刪除
+Btn_FileDeleteConfirm2_No	還是不刪除了
+Text_FileDeleteConfirm3	資料刪除後就無法復原了！！\n{color[ff4d2fff]}確定不會後悔嗎？{color[000000ff]}
+Btn_FileDeleteConfirm3_Yes	不後悔！！！！
+Btn_FileDeleteConfirm3_No	不想刪除了……
+Text_FileDeleteFinished	已刪除儲存資料。
+Title_CpLevel	CP等級
+Btn_CpLevelEasy	甜甜
+Btn_CpLevelNormal	微辣
+Btn_CpLevelHard	中辣
+Btn_CpLevelVeryHard	超辣
+Text_BattleMenu_ConfirmSessionDisband	要{color[ff4d2fff]}解散{color[000000ff]}隊伍嗎？
+Btn_Disband	解散
+Text_BattleMenu_NetworkError	發生通訊錯誤。
+Text_BattleMenu_NetworkTimeout	由於有一段時間沒有動作，\n因此{color[ff4d2fff]}通訊已經中斷。{color[000000ff]}
+Text_BattleMenu_FirstNetworkNote	參加線上遊玩，\n玩家名稱會向他人公開。\n\n※對戰對手有可能是電腦。
+Text_BattleMenu_NetworkPenalty	上次的線上遊玩未正常結束。\n如果持續發生通訊中斷，\n可能會讓勝率下降。\n建議在通訊穩定的環境下遊玩。
+Text_ResultSessionDisbanded	隊伍已被{color[ff4d2fff]}解散{color[000000ff]}。
+Text_ColectionSweet_CannotOpen	尚未持有角色點心。\n\n玩遊戲就能獲得角色點心。
+Text_CollectionSweet_AskMode	要裝飾蛋糕嗎？\n要查看角色點心收藏嗎？
+Btn_View	查看收藏
+Btn_Decor	裝飾
+Text_Retry	要從遊戲剛開始的地方{color[ff4d2fff]}重新開始{color[000000ff]}嗎？
+Btn_Retry	重新開始
+Text_Reset	要{color[ff4d2fff]}重設{color[000000ff]}為\n關卡最初的狀態嗎？
+Btn_Reset	重設
+Text_StageExitSimple	要返回主桌嗎？\n\n返回後，吃下的草莓\n將{color[ff4d2fff]}不會被加到{color[000000ff]}美食級別。
+Text_BackToHome	要返回主桌嗎？
+Btn_StageExit	返回主桌
+Text_BackToTitle	要返回標題嗎？
+Btn_BackToTitle	前往標題
+Btn_PlayAgain	再玩一次
+Btn_RuleChange	遊玩其他遊戲
+Btn_SkinChange	更換外表
+Btn_BackToHome	返回主桌
+Title_Rule	規則選擇
+Btn_RuleGrandPrix	美食大賞
+Btn_RuleRace	單人比賽
+Btn_RuleBonusGame	單人小遊戲
+Btn_RuleFinalBattle	單人生存戰
+Btn_RuleTraining	自由練習
+Text_ControllerErrorShortsge	已連接的\n{color[ff4d2fff]}控制器{color[000000ff]}只有{color[ff4d2fff]}1個{color[000000ff]}。
+Text_ControllerErrorDisconnectedP2	要返回主桌嗎？\n\n要繼續遊戲的話，\n需要連接{color[ff4d2fff]}與人數相同的控制器{color[000000ff]}。
+Btn_ConnectController	繼續遊戲
+Btn_EndGame	返回主桌
+Text_ControllerErrorDisconnectedNetwork	控制器的{color[ff4d2fff]}連接已斷線{color[000000ff]}。\n將返回主桌。
+Text_HomeCreditOrHistory	要查看工作人員名單嗎？\n要查看過去的冒險嗎？
+Btn_Credit	查看工作人員名單
+Btn_History	查看過去的冒險
+History.msbt
+$HistoryCloseInfoText	返回
+ProductNameLatest1	星之卡比 探索發現
+ProductNameLatest2	星之卡比 新星同盟
+ProductNameLatest3	卡比群星戰2
+ProductNameLatest4	超級卡比獵人隊
+ProductNameOther1	Kirby's Extra Epic Yarn
+ProductNameOther2	Kirby Battle Royale
+ProductNameOther3	Kirby's Blowout Blast
+ProductNameOther4	Team Kirby Clash Deluxe
+ProductNameOther5	Kirby: Planet Robobot
+ProductNameOther6	Kirby and the Rainbow Curse
+ProductNameOther7	Kirby Fighters Deluxe
+ProductNameOther8	Dedede's Drum Dash Deluxe
+ProductNameOther9	Kirby: Triple Deluxe
+$HistoryTitleText	過去的冒險
+PlatformName1	Nintendo Switch
+PlatformName2	Nintendo 3DS
+PlatformName3	Wii U
+ProductCommentLatest1	這是《星之卡比》系列的首款3D動作遊戲。\n卡比使用新能力「塞滿嘴變形」和「複製能力進化」，\n在融合了文明和自然的未知「新世界」進行冒險。\n透過分享Joy-Con，最多可以2人一起遊玩。
+ProductCommentLatest2	以盟友之心讓敵人成為同伴！\n與同伴搭配依序使出「盟友能力」，\n為拯救世界而戰吧！\n透過分享Joy-Con，最多可以4人一起遊玩。
+ProductCommentLatest3	選擇複製能力，最多4人一起對戰的動作遊戲。\n玩家也可以遊玩故事模式，\n挑戰帝帝帝大王與魅塔騎士聯手的組合。\n此外，還能夠在線上與全世界的玩家以及朋友對戰。
+ProductCommentLatest4	4個職業的卡比同心協力挑戰各式各樣的探索，\n是基本免費的動作遊戲。\n不只可以一人遊玩，\n還有多人的線上遊玩、分享遊玩。
+ProductCommentOther1	操控毛線外觀的卡比，使用毛線特有的多種招式\n進行冒險的動作遊戲。\n除了可以讓卡比變身成各種樣貌的「換形能力」，\n還能夠使用全新的「裁縫能力」！
+ProductCommentOther2	操控卡比與眾多對手\n展開多彩多姿戰鬥的動作遊戲。\n除了可以1個人遊玩，也能夠透過網路通訊\n或鄰近主機通訊與最多4名玩家互相競爭！
+ProductCommentOther3	《Kirby: Planet Robobot》的小遊戲脫胎換骨，\n搖身一變成為捲軸式3D動作遊戲。\n在3D空間奔馳，藉由吸入與吐出打倒敵人\n並取得高分吧！
+ProductCommentOther4	在《Kirby: Planet Robobot》的小遊戲中\n加入了新的探索、超過80種的「裝備」，\n以及作為據點的「小鎮」等等嶄新要素。\n還能夠享受4人合作遊玩，基本上是免費遊戲。
+ProductCommentOther5	為了拯救被邪惡企業侵略的世界，\n卡比將與擁有10種以上不同型態的\n「機器博博裝甲」一同奮戰！\n可對應所有的amiibo。
+ProductCommentOther6	使用觸控筆畫出彩虹線條，\n將卡比引導至終點吧！\n卡比還可以變身成3種不同種類的運輸設備。\n其他玩家也能夠操縱瓦豆魯迪，享受4人合作遊戲！
+ProductCommentOther7	在《Kirby: Triple Deluxe》的小遊戲\n新增了更多要素。\n能夠從10種複製能力當中選擇喜歡的能力進行對戰，\n也可以使用通訊遊玩4人同樂！
+ProductCommentOther8	在《Kirby: Triple Deluxe》的小遊戲\n新增了更多要素。\n配合節奏操作帝帝帝大王，\n使用不同跳躍往終點前進！
+ProductCommentOther9	特色是不再侷限於橫向，\n能夠在關卡的前後移動。\n除了25種複製能力以外，\n還能夠享受「大爆炸吸入」帶來的衝擊性與樂趣！
+Home.msbt
+FacilityName_BattleMenu	主選單
+FacilityName_CollectionSkin	更換外表
+FacilityName_CollectionSweet	角色點心收藏
+FacilityName_TrainingMode	自由練習
+FacilityName_Reward	獎勵選單
+Tips_RollingSpeed	一口筆記：卡比滾動的速度會隨著吃草莓越吃越大而增加。
+Tips_HoverTime	一口筆記：卡比的可盤旋時間會隨著吃草莓越吃越大而縮短。
+Tips_Slipstream	一口筆記：只要跟在滾動者的後方，追趕的速度就會稍微增加。
+Tips_Training0	一口筆記：在「自由練習」中可以自由地練習、奔跑、玩耍！
+Tips_Training1	一口筆記：在「自由練習」中，只要吃下最後面的草莓堆，遊戲就會結束。
+Tips_Training2	一口筆記：在「自由練習」中，可以和遠方的朋友透過暗號配對來遊玩。即便是在線上，也可以自由地練習。
+Tips_Training3	一口筆記：在「自由練習」中，藏著4片歷代卡比遊戲的主視覺餅乾，把它們找出來吧！
+Tips_GrandPrix	一口筆記：在「美食大賞」中，1場遊戲可以遊玩比賽、小遊戲和生存戰，也可以獲得角色點心！
+Tips_CopyFood	一口筆記：「複製食物」是可以獲得複製食物能力的食物，盛裝的箱子則稱為「食物箱」。
+Tips_Wheel0	一口筆記：發動「車輪」時，只要再度按住{[040a|6100]}並轉彎，就能使出能劃出曲線的飄移！
+Tips_Wheel1	一口筆記：發動「車輪」時，只要再度按住{[040a|6100]}轉彎就能使出飄移。如保持飄移一段時間還會發動飄移加速！
+Tips_Stone0	一口筆記：發動「石塊」時，若長按{[040a|6100]}再放開，就能增加攻擊範圍！由於發動需要時間，因此要注意時機。
+Tips_Drill0	一口筆記：發動「鑽擊」後，如畫圓一般圈出圓形就能使出地面咚！被擊中的對手會頭暈目眩。
+Tips_HiJump0	一口筆記：發動「跳高」時長按{[040a|6100]}並推動{[041e|f100]}，就可以稍微調整著地的位置喔。
+Tips_Burning0	一口筆記：發動「燃燒」時，只要再度按下{[040a|6100]}就會發動燃燒加速！而且可以連續發動。
+Tips_Needle0	一口筆記：發動「針」時，只要在發動中長按{[040a|6100]}就能發動能快速突擊的刺針衝鋒！
+Tips_Tornado0	一口筆記：發動「龍捲風」時，只要在發動中再度按下{[040a|6100]}，就能讓效果範圍更廣並釋放瞬間最大風速！
+Tips_Jelly0	一口筆記：發動「果凍」時，按{[040a|6100]}能製造出會變成障礙物，妨礙敵人行動的黏黏果凍。
+Tips_Jelly1	一口筆記：發動「果凍」時按{[040a|6100]}製造出越多黏黏果凍，果凍能力的持續時間就會越短。
+Tips_HomeTable	一口筆記：擺放在舉辦遊戲派對會場的桌子就叫做「主桌」。裝飾風格非常有節慶的氣氛！
+Tips_DreamFork	一口筆記：把卡比變小，並讓其夢想成真的叉子，聽說名叫「夢想叉子」。
+Tips_RewardListBgm	一口筆記：能在「獎勵選單」中選擇的BGM，也可以在「主桌」或主畫面右邊的「自由練習」播放。
+Tips_DreamRestaurant	一口筆記：美食節的會場叫做「夢想餐廳」。這個桌子叫做「主桌」。
+Tips_MountainCake	一口筆記：卡比因「夢想叉子」的力量而變小。聽說已經達成了吃到像山一樣的蛋糕的夢想。
+Tips_IcePop	一口筆記：「冰棒」的表面滑滑的。但是變成果凍之後，前進的時候就會稍微變順利一點。
+Tips_FinalBattle	一口筆記：在「生存戰」中出現的夾子，會以卡比為目標，似乎對大卡比的魅力特別感興趣。
+Tips_ServerHand	一口筆記：出現在關卡中那隻謎樣的「手」叫做「服務生之手」。
+Tips_CollectionSkin	一口筆記：在「更換外表」中，只要配合「顏色」就可以化身為該角色。向大家展現出自信的一面吧！
+Tips_BonusFruit	一口筆記：吃關卡中的藍莓、覆盆子和櫻桃，會影響結果發表的獎勵。
+Tips_LoseStrawberry	一口筆記：按下{[0420|f300]}就能改變視角鏡頭的遠近。推薦在拍攝畫面照片時使用。
+Tips_AddedTipes00	一口筆記：按下任何一個{[0419|a000]}，就可以利用表情符號進行簡單的溝通。
+Tips_AddedTipes01	一口筆記：線上和鄰近主機通訊時，按下{[0419|a000]}，就可以傳送4種不同的固定句子。
+Tips_AddedTipes02	一口筆記：即使在遊戲中的查看結果等畫面，只要按下{[0419|a000]}就能讓卡比使用表情符號做出反應喔！
+Tips_AddedTipes03	一口筆記：裝飾在蛋糕最上方的點心也會被放在比賽的起點。
+Tips_AddedTipes04	一口筆記：比賽時常能見到帶有裂痕的餅乾牆，如果是在「果凍」狀態下就能快速穿過去！
+Tips_AddedTipes05	一口筆記：角色點心一共有256個！收集到的角色點心也會被裝飾在「自由練習」中。
+Tips_AddedTipes06	一口筆記：「自由練習」就是自由地玩耍。因此，即使吃了草莓，也不會影響美食級別。
+Tips_AddedTipes07	一口筆記：在線上和大家一起遊玩，美食級別較容易提升。
+Tips_AddedTipes08	一口筆記：「超辣」這種高CP等級雖然難度較高，但能得到美食級別獎勵。先在「微辣」之類的等級練習後再去挑戰吧！
+Tips_AddedTipes09	一口筆記：遊玩過「星之卡比 探索發現」和「卡比群星戰2」的玩家，會各得到3首比賽BGM贈禮！
+Tips_AddedTipes10	一口筆記：遊玩過「星之卡比 新星同盟」和「超級卡比獵人隊」的玩家，會各得到3首比賽BGM贈禮！
+Tips_AddedTipes11	一口筆記：在「角色點心收藏」查看收藏時，可以旋轉該收藏查看其背面。只有金太郎糖是兩面都一樣的！
+Tips_AddedTipes12	一口筆記：在「角色點心收藏」查看收藏時，只要按下{[0420|f300]}就能稍稍調整鏡頭遠近。
+Tips_AddedTipes13	一口筆記：除了線上模式之外，只要按住{[0403|0300]}並開始遊玩大賞或單人比賽，就能播放在獎勵選單中選擇的比賽BGM。
+Tips_AddedTipes14	一口筆記：如果一直贏不了，就將CP等級改成「甜甜」或「微辣」練習一下吧。一樣可以獲得美食點數喔！
+Tips_AddedTipes15	一口筆記：只要遊玩美食大賞、單人比賽、單人生存戰後就一定能獲得「角色點心」。如在美食大賞遊玩「中辣」以上CP等級，還能一次獲得2個！
+Tips_AddedTipes16	一口筆記：只要在線上的美食大賞中取得第1名，就能再多獲得1個「角色點心」。同時獲得2個以上的「角色點心」時，必定有1個是之前沒有獲得過的點心。
+Lobby.msbt
+$LobbyMatching	配對中
+$LobbyMatchingDone	配對完成
+$LobbyMainQuit	離開大廳
+Pause.msbt
+ContinueBtnText	繼續遊戲
+RetryBtnText	重新開始
+ResetBtnText	重設
+BackBtnText_ToHome	返回主桌
+BackBtnText_ToTitle	前往標題
+HowToBtnText	遊戲說明
+Resident.msbt
+$Saving	儲存中
+Result.msbt
+$ResultText	結果發表
+ResultRankText_00	優勝！
+ResultRankText_01	第2名
+ResultRankText_02	第3名
+ResultRankText_03	第4名
+ResultKeepWiningText	{[0301|0000]}{size[4b00]}連勝{size[6400]}
+ResultBonusText_Online	線上獎勵
+ResultBonusText_DifficultyLevelHard	中辣獎勵
+ResultBonusText_DifficultyLevelVeryHard	超辣獎勵
+ResultBonusText_GrandPrix	大賞獎勵
+ResultOnlineBonus_NumText	× {[0302|0000]}
+$RewardGetTodaysSweet	隨興 角色點心獎勵
+AnnounceText_Victory	優勝的是……
+BonusName_EatScoreFoodInBonusRule	在小遊戲中吃了最多草莓
+BonusName_EatScoreFoodInRaceRule	在比賽中吃了最多草莓
+BonusName_EatStrawberry5	在比賽中吃了最多次5個草莓
+BonusName_EatBonusFruit_Blueberry	吃了最多藍莓
+BonusName_EatBonusFruit_Cherry	吃了最多櫻桃
+BonusName_EatBonusFruit_Raspberry	吃了最多覆盆子
+BonusName_DamageBreakableBlock	撞到最多破碎餅乾
+BonusName_UseCopyAbility	使用最多複製食物的能力
+BonusName_DefeatEnemy	打倒最多敵人角色
+BonusName_UseHoverTime	使用最多盤旋
+$LayoutResultBonusPointPlus	+
+$ResultBonusPointPlayerNone	沒有人
+RewardGet_GetText	你獲得{[030b]}\n{color[ff4d2fff]}{[030a]}{color[000000ff]}了！
+RewardGet_GetStageText_Bonus	可以在小遊戲中遊玩\n{color[ff4d2fff]}{[030a]}\n{color[000000ff]}關卡了！
+RewardGet_GetStageText_Race	可以在比賽中遊玩\n{color[ff4d2fff]}{[030a]}\n{color[000000ff]}關卡了！
+RewardGet_GetStageText_Final	可以在生存戰中遊玩\n{color[ff4d2fff]}{[030a]}\n{color[000000ff]}關卡了！
+RewardGet_GetSoundText_Race	可以在比賽中播放\n比賽BGM\n{color[ff4d2fff]}{[030a]}{color[000000ff]}了！
+RewardGet_SpecialRewardText_PlayedDiscovery_0	感謝遊玩\n{color[ff4d2fff]}《星之卡比 探索發現》{color[000000ff]}！
+RewardGet_SpecialRewardText_PlayedDiscovery_1	作為遊玩特典，\n現在在比賽中可以播放\n{color[ff4d2fff]}3首《星之卡比 探索發現》{color[000000ff]}的{color[ff4d2fff]}BGM{color[000000ff]}了！
+RewardGet_SpecialRewardText_PlayedStarAllies_0	感謝遊玩\n{color[ff4d2fff]}《星之卡比 新星同盟》{color[000000ff]}！
+RewardGet_SpecialRewardText_PlayedStarAllies_1	作為遊玩特典，\n現在在比賽中可以播放\n{color[ff4d2fff]}3首《星之卡比 新星同盟》{color[000000ff]}的{color[ff4d2fff]}BGM{color[000000ff]}了！
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_0	感謝遊玩\n{color[ff4d2fff]}《卡比群星戰2》{color[000000ff]}！
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_1	作為遊玩特典，\n現在在比賽中可以播放\n{color[ff4d2fff]}3首《卡比群星戰2》{color[000000ff]}的{color[ff4d2fff]}BGM{color[000000ff]}了！
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_0	感謝遊玩\n{color[ff4d2fff]}《超級卡比獵人隊》{color[000000ff]}！
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_1	作為遊玩特典，\n現在在比賽中可以播放\n{color[ff4d2fff]}3首《超級卡比獵人隊》{color[000000ff]}的{color[ff4d2fff]}BGM{color[000000ff]}了！
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_0	完成\n角色點心收藏了！
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_1	作為獎勵，\n可以在角色點心收藏中播放BGM\n{color[ff4d2fff]}{[030a]}{color[000000ff]}了！
+RewardGet_SpecialRewardText_HitMaxGourmetRank_0	美食級別達到MAX了！
+RewardGet_SpecialRewardText_HitMaxGourmetRank_1	作為獎勵，\n可以在主桌中播放BGM\n{color[ff4d2fff]}{[030a]}{color[000000ff]}了！
+RewardList.msbt
+Category_Unrevealed	???
+Name_Unrevealed	???
+Description	美食級別達到{[0301|0000]}\n就會開放！
+$RewardListTitle	獎勵選單
+Step.msbt
+$StepStageTodayMenu	本日關卡菜單
+StepStageTodayMenu_Single	本日菜單
+$TodayMainDish	主餐
+$StepStageRule	規則
+StepStageRuleText_DecisiveBattle	主餐\n美食生存戰！
+StepStageRuleText_GoalFruit	以草莓堆為目標吧。
+StepStageRuleText_DropScoreItem	吃下掉下來的草莓吧。
+StepStageRuleText_TeaCupItem	滾動到杯子裡，然後吃下草莓吧。
+StepStageRuleText_BattleEnemy	打倒敵人後吃下草莓吧。
+StepStageRuleText_BreakBox	破壞箱子後吃下草莓吧。
+$StepScaleMaterSizeUp	尺寸增加
+$StepScaleMaterSizeUpMax	達到最大尺寸！
+StepHowToPlayText_00	吃東西、滾動，然後變大吧！
+StepHowToPlayTextSub_00	身體變得越大，滾動得越快。最大的就會優勝！
+StepHowToPlayText_01	就算跌下來了，也能按下{[0400|0000]}再次飛起來。
+StepHowToPlayTextSub_01	身體越小，就能用盤旋飛得越久，也就越有優勢。
+StepHowToPlayText_02	終點的草莓一人只能拿一盤！
+StepHowToPlayTextSub_02	在大賞中，3個人全部吃完之後就會進入下一個遊戲。
+StepHowToPlayText_03	按下{[040a|6100]}使用複製食物，逆轉形勢！
+StepHowToPlayTextSub_03	一口氣讓巨大敵人跌下來，\n搶奪草莓吧！
+$StepStartSignGoText	LET'S EAT！
+TimeupText_Finish	謝謝招待
+$StepKillLogText	被你打倒了
+$StepKillLogPlus	+
+$StepKillerInfoText	打倒你了
+$StepAchievementMinus	-
+$StepDropoutRouletteStart	輪盤
+$MainTrainingBaseReset	重設吃完的草莓
+$MainTrainingGuideText	–吃到草莓堆之後，遊戲就會結束–
+TitleMenu.msbt
+$TiteleMenuBtn	按下{[0400|0000]}鍵
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+Version	Ver. {[0301|0000]}.{[0301|0100]}.{[0301|0200]}
+$TitleDeleteSaveDataGuide	刪除儲存資料
+Name\AbilityName.msbt
+Burning	燃燒
+Needle	針
+Stone	石塊
+Drill	鑽擊
+Tornado	龍捲風
+Jelly	果凍
+HiJump	跳高
+Wheel	車輪
+InvincibleCandy	彩虹棒棒糖
+Name\CollectionCategoryName.msbt
+Collection_Category_Sweet	角色點心
+Collection_Category_Skin	外表
+Collection_Category_Color	顏色
+Collection_Category_Sound_Home	主BGM
+Collection_Category_Sound_Race	比賽BGM
+Collection_Category_Sound_Menu	主選單BGM
+Collection_Category_Stage_Race	比賽
+Collection_Category_Stage_Bonus	小遊戲
+Collection_Category_Stage_Final	生存戰
+Name\ColorName.msbt
+Collection_Color_BasicPink	卡比粉紅色
+Collection_Color_BasicYellow	奇比黃色
+Collection_Color_BasicBlue	冰藍色
+Collection_Color_BasicGreen	草餅綠色
+Collection_Color_BasicRed	火紅色
+Collection_Color_Cherry	櫻桃色
+Collection_Color_Chocolate	巧克力色
+Collection_Color_Chocomint	薄荷巧克力色
+Collection_Color_Citrus	柑橘色
+Collection_Color_Grape	葡萄色
+Collection_Color_Orange	橘色
+Collection_Color_Pumpkin	南瓜色
+Collection_Color_Strawberry	草莓色
+Collection_Color_Waddledee	迪橘色
+Collection_Color_Dedede	帝帝帝藍色
+Collection_Color_Metaknight	魅塔海軍藍色
+Collection_Color_Kawasaki	川崎日落色
+Collection_Color_Marx	魔嚕酷紫丁香色
+Collection_Color_Gooey	蠱依鈷藍色
+Collection_Color_Chuchu	啾啾粉紅玫瑰色
+Collection_Color_Adeleine	阿朵膚橘色
+Collection_Color_Daroach	怪盜洛切鼠灰色
+Collection_Color_Magolor	魔法洛亞琥珀色
+Collection_Color_Taranza	塔狼蛛栗子色
+Collection_Color_Susie	蘇姿粉紅白色
+Collection_Color_Francisca	基斯冬藍色
+Collection_Color_Flamberge	露啾緋紅色
+Collection_Color_Zan	帕嚕金光閃閃色
+Collection_Color_Elfilin	艾菲靈孔雀色
+Collection_Color_Morphoknight	冥蝶灰色
+Collection_Color_Burger	漢堡棕色
+Collection_Color_Waddledoo	魯篤番茄醬色
+Collection_Color_Retro	復古色調
+Collection_Color_Shadow	暗影色
+Collection_Color_Carmouth	兜風天空色
+Collection_Color_Coo	空紫色
+Collection_Color_Kine	海恩水藍色
+Collection_Color_Pudding	布丁色
+Collection_Color_Rick	陸庫奶油色
+Collection_Color_Kiwi	奇異果色
+Name\DifficultyName.msbt
+Easy	甜甜
+Normal	微辣
+Hard	中辣
+VeryHard	超辣
+Name\ItemName.msbt
+Strawberry3	3個草莓
+Strawberry5	5個草莓
+Strawberry10	10個草莓
+Name\PlayerName.msbt
+Mob_0	Waddelaney
+Mob_1	Waddelia
+Mob_2	Waddle Waddle
+Mob_3	Waddlini
+Mob_4	Woddball
+Mob_5	Mr. Waddle Waddle
+Mob_6	Wadana Dee
+Mob_7	Waddlecia
+Mob_8	Waddolor
+Mob_9	Waddby
+Mob_10	Wadda Knight
+Mob_11	King WaDeDe
+Guest_0	Guest
+Cp_0	CP1
+Cp_1	CP2
+Cp_2	CP3
+Bot_0	Pink-Puff
+Bot_1	PinkBowler
+Bot_2	Puffball
+Bot_3	Stubby
+Bot_4	Kirby-chan
+Bot_5	Kirby-san
+Bot_6	PINKball
+Bot_7	PeachArmor
+Bot_8	Round Hero
+Bot_9	Star Hero
+Bot_10	Maxim #1
+Bot_11	Maxim86
+Bot_12	PoweredUp
+Bot_13	FullEnergy
+Bot_14	VincyCandy
+Bot_15	Lickety
+Bot_16	Got_a_1UP
+Bot_17	0LivesLeft
+Bot_18	PointStars
+Bot_19	Pink Stars
+Bot_20	Twinkles
+Bot_21	Glimmer
+Bot_22	TheStarRod
+Bot_23	MrNightmare
+Bot_24	RnbwIsland
+Bot_25	RainboSord
+Bot_26	EasyBreezy
+Bot_27	DreamRacer
+Bot_28	YourBuddy
+Bot_29	Animal Pal
+Bot_30	FromRipple
+Bot_31	FactoryFoe
+Bot_32	GoGoKirby
+Bot_33	Yo_Tornado
+Bot_34	KirbyPhone
+Bot_35	MirageNite
+Bot_36	DededeSoul
+Bot_37	MaskedMarx
+Bot_38	UrOverlord
+Bot_39	Crafty Egg
+Bot_40	Q.Joronia
+Bot_41	SkyPeople
+Bot_42	Patrya
+Bot_43	P.Haltmann
+Bot_44	HeartFwend
+Bot_45	ZanParWho?
+Bot_46	Neichel
+Bot_47	BeastPack
+Bot_48	TeaCup
+Bot_49	JiroJiro
+Bot_50	Minigamer
+Bot_51	Shirleelee
+Bot_52	Anna
+Bot_53	Yetta
+Bot_54	Wisdom
+Bot_55	Amy
+Bot_56	Otto
+Bot_57	Kyle
+Bot_58	Kiddo
+Bot_59	Cook
+Bot_60	Katie
+Bot_61	Coleman
+Bot_62	Samuel
+Bot_63	Sylvaria
+Bot_64	Suzanna
+Bot_65	Sebastian
+Bot_66	Sophie
+Bot_67	Tyler
+Bot_68	Chelsea
+Bot_69	Dreamstalk
+Bot_70	Tina
+Bot_71	Thomas
+Bot_72	Nyaoko
+Bot_73	Nikita
+Bot_74	Nurmela
+Bot_75	Nedry
+Bot_76	Nordin
+Bot_77	Ricky
+Bot_78	Fedor
+Bot_79	Fauser
+Bot_80	Herrlich
+Bot_81	Hopkins
+Bot_82	Maggie
+Bot_83	Mitchel
+Bot_84	Moore
+Bot_85	Melanie
+Bot_86	Monika
+Bot_87	Janice
+Bot_88	Julian
+Bot_89	Johan
+Bot_90	Lionel
+Bot_91	Ricardo
+Bot_92	Luisa
+Bot_93	Leon
+Bot_94	Roxanne
+Bot_95	WhySoWise
+Bot_96	Springer
+Bot_97	Summers
+Bot_98	Autumn
+Bot_99	Winterly
+Bot_100	DrumDasher
+Bot_101	LoLoLaLa
+Bot_102	KingKracko
+Bot_103	TheBright1
+Bot_104	RoRoRoller
+Bot_105	Sr.Heavy
+Bot_106	Meta.G.
+Bot_107	IceLizard
+Bot_108	MaxSpeed
+Bot_109	LiteMatter
+Bot_110	MskdWhspy
+Bot_111	DynaWings
+Bot_112	BamWhammy
+Bot_113	Jr.Heavy
+Bot_114	HeyHowdyHi
+Bot_115	PonCon
+Bot_116	Ado-chan
+Bot_117	ZeroOne
+Bot_118	EyeBelly
+Bot_119	Magmister
+Bot_120	VibrantPix
+Bot_121	HeavyIII
+Bot_122	Zero2sOwie
+Bot_123	NightMareS
+Bot_124	Knightmare
+Bot_125	Elephanphan
+Bot_126	GippiG
+Bot_127	Titan Arm
+Bot_128	QuestnMark
+Bot_129	BatafireBB
+Bot_130	Gobbler
+Bot_131	Drawcian
+Bot_132	Paint_Soul
+Bot_133	CacklinPnt
+Bot_134	UnknownArt
+Bot_135	MouseMob
+Bot_136	SneakSnack
+Bot_137	CakeTaker
+Bot_138	Neb-u-la
+Bot_139	Galaxys#1
+Bot_140	BoomKapow
+Bot_141	WhoaKabula
+Bot_142	SoulScream
+Bot_143	Kindolor
+Bot_144	Adorabolor
+Bot_145	Sweetolor
+Bot_146	Troubolor
+Bot_147	ThankYou
+Bot_148	YourServer
+Bot_149	Lil_Landia
+Bot_150	TunaBlade
+Bot_151	TaranzaFan
+Bot_152	DreamBloom
+Bot_153	FatalBloom
+Bot_154	Miracle4
+Bot_155	LastLander
+Bot_156	BringItOn
+Bot_157	Kirbistory
+Bot_158	HeartStar
+Bot_159	SusieSuit
+Bot_160	Haltmann$
+Bot_161	Star_Dream
+Bot_162	Nyaooon!
+Bot_163	MageSister
+Bot_164	ShakenSoda
+Bot_165	BigBigBBQ
+Bot_166	DrumNWaste
+Bot_167	Bonjam
+Bot_168	Jambuhbye
+Bot_169	Voidalike
+Bot_170	Carol
+Bot_171	Leongar
+Bot_172	FlutterBy
+Bot_173	HeyWhatHuh
+Bot_174	ID-F85
+Bot_175	Psychmedlr
+Bot_176	BandanaRun
+Bot_177	HeartDrive
+Bot_178	MeowMeow
+Bot_179	New World
+Name\SeriesName.msbt
+Series0	Kirby's Dream Land
+Series1	Kirby's Adventure
+Series2	Kirby's Pinball Land
+Series3	Kirby's Dream Course
+Series4	Kirby's Dream Land 2
+Series5	Kirby's Block Ball
+Series6	Kirby Super Star
+Series7	Kirby's Star Stacker
+Series8	Kirby's Dream Land 3
+Series9	Kirby's Star Stacker (Super Famicom)
+Series10	Kirby 64: The Crystal Shards
+Series11	Kirby Tilt 'n' Tumble
+Series12	Kirby: Nightmare in Dream Land
+Series13	Kirby Air Ride
+Series14	Kirby & The Amazing Mirror
+Series15	Kirby: Canvas Curse
+Series16	Kirby: Squeak Squad
+Series17	Kirby Super Star Ultra
+Series18	Kirby's Epic Yarn
+Series19	Kirby Mass Attack
+Series20	Kirby's Return to Dream Land
+Series21	Kirby's Dream Collection Special Edition
+Series22	Kirby: Triple Deluxe
+Series23	Kirby Fighters Deluxe
+Series24	Dedede's Drum Dash Deluxe
+Series25	Kirby and the Rainbow Curse
+Series26	Kirby: Planet Robobot
+Series27	Team Kirby Clash Deluxe
+Series28	Kirby's Blowout Blast
+Series29	Kirby Battle Royale
+Series30	星之卡比 新星同盟
+Series31	Kirby's Extra Epic Yarn
+Series32	超級卡比獵人隊
+Series33	卡比群星戰2
+Series34	星之卡比 探索發現
+Series35	Kirby 30th Music Fest
+Series36	Kirby Café
+Series37	Kirby 30th Anniversary
+Name\SkinName.msbt
+Collection_Skin_None	普通
+Collection_Skin_WaddleDee	頭巾瓦豆魯迪
+Collection_Skin_Dedede	帝帝帝大王
+Collection_Skin_Metaknight	魅塔騎士
+Collection_Skin_Kawasaki	廚師川崎
+Collection_Skin_Marx	魔嚕酷
+Collection_Skin_Gooey	蠱依
+Collection_Skin_Chuchu	啾啾
+Collection_Skin_Adeleine	阿朵萊妮&莉寶
+Collection_Skin_Daroach	怪盜洛切
+Collection_Skin_Magolor	魔法洛亞
+Collection_Skin_Taranza	塔狼蛛
+Collection_Skin_Susie	秘書蘇姿
+Collection_Skin_Francisca	冰斧基斯
+Collection_Skin_Flamberge	炎劍露啾
+Collection_Skin_Zan	雷槍帕嚕提扎努
+Collection_Skin_Elfilin	艾菲靈
+Collection_Skin_MorphoKnight	冥蝶騎士
+Collection_Skin_Burger	卡比漢堡
+Collection_Skin_WaddleDoo	瓦豆魯篤
+Collection_Skin_Cream	鮮奶油
+Collection_Skin_Kine	海恩
+Collection_Skin_CarMouth	汽車塞滿嘴蛋糕
+Collection_Skin_Coo	空
+Collection_Skin_Rick	陸庫
+Name\SoundName.msbt
+Collection_Sound_Home	Kirby's Dream Buffet
+Collection_Sound_RewardRace0	I'm Hungry Pinker Ball!
+Collection_Sound_RewardRace1	Youth Athletic Meet!
+Collection_Sound_RewardRace2	Colorful Cute Candies
+Collection_Sound_RewardRace3	Fun Drive with You
+Collection_Sound_RewardRace4	Caramel Country Western
+Collection_Sound_RewardRace5	Jazz Band of Four Balls
+Collection_Sound_RewardRace6	Winter Days Route 8
+Collection_Sound_RewardRace7	Love Love Alivel
+Collection_Sound_RewardRace8	Seven-Colored Sky
+Collection_Sound_RewardRace9	Dance with Painting Witch
+Collection_Sound_RewardRace10	Revenge of Steel Wings
+Collection_Sound_RewardRace11	Flying in the Clouds
+Collection_Sound_RewardRace12	Colorful Pinball
+Collection_Sound_RewardRace13	Polka Dot Cityscape
+Collection_Sound_RewardRace14	Tonight's Light Up Show
+Collection_Sound_RewardRace15	I'm Hungry Pinker Ball! Ver. 2
+Collection_Sound_MemorialTrack0	Kirby's Dream Land：紀念樂曲1
+Collection_Sound_MemorialTrack1	Kirby's Dream Land：紀念樂曲2
+Collection_Sound_MemorialTrack2	Kirby's Adventure：紀念樂曲1
+Collection_Sound_MemorialTrack3	Kirby's Adventure：紀念樂曲2
+Collection_Sound_MemorialTrack4	Kirby's Pinball Land：紀念樂曲1
+Collection_Sound_MemorialTrack5	Kirby's Pinball Land：紀念樂曲2
+Collection_Sound_MemorialTrack6	Kirby's Dream Course：紀念樂曲1
+Collection_Sound_MemorialTrack7	Kirby's Dream Course：紀念樂曲2
+Collection_Sound_MemorialTrack8	Kirby's Dream Land 2：紀念樂曲1
+Collection_Sound_MemorialTrack9	Kirby's Dream Land 2：紀念樂曲2
+Collection_Sound_MemorialTrack10	Kirby's Block Ball：紀念樂曲1
+Collection_Sound_MemorialTrack11	Kirby's Block Ball：紀念樂曲2
+Collection_Sound_MemorialTrack12	Kirby Super Star：紀念樂曲1
+Collection_Sound_MemorialTrack13	Kirby Super Star：紀念樂曲2
+Collection_Sound_MemorialTrack14	Kirby Super Star：紀念樂曲3
+Collection_Sound_MemorialTrack15	Kirby's Dream Land 3：紀念樂曲1
+Collection_Sound_MemorialTrack16	Kirby's Dream Land 3：紀念樂曲2
+Collection_Sound_MemorialTrack17	Kirby 64: The Crystal Shards：紀念樂曲1
+Collection_Sound_MemorialTrack18	Kirby 64: The Crystal Shards：紀念樂曲2
+Collection_Sound_MemorialTrack19	Kirby Tilt 'n' Tumble：紀念樂曲1
+Collection_Sound_MemorialTrack20	Kirby Tilt 'n' Tumble：紀念樂曲2
+Collection_Sound_MemorialTrack21	Kirby: Nightmare in Dream Land：紀念樂曲1
+Collection_Sound_MemorialTrack22	Kirby: Nightmare in Dream Land：紀念樂曲2
+Collection_Sound_MemorialTrack23	Kirby Air Ride：紀念樂曲1
+Collection_Sound_MemorialTrack24	Kirby Air Ride：紀念樂曲2
+Collection_Sound_MemorialTrack25	Kirby Air Ride：紀念樂曲3
+Collection_Sound_MemorialTrack26	Kirby & The Amazing Mirror：紀念樂曲1
+Collection_Sound_MemorialTrack27	Kirby & The Amazing Mirror：紀念樂曲2
+Collection_Sound_MemorialTrack28	Kirby: Squeak Squad：紀念樂曲1
+Collection_Sound_MemorialTrack29	Kirby: Squeak Squad：紀念樂曲2
+Collection_Sound_MemorialTrack30	Kirby Super Star Ultra：紀念樂曲1
+Collection_Sound_MemorialTrack31	Kirby Super Star Ultra：紀念樂曲2
+Collection_Sound_MemorialTrack32	Kirby's Return to Dream Land：紀念樂曲1
+Collection_Sound_MemorialTrack33	Kirby's Return to Dream Land：紀念樂曲2
+Collection_Sound_MemorialTrack34	Kirby's Return to Dream Land：紀念樂曲3
+Collection_Sound_MemorialTrack35	Kirby's Dream Collection：紀念樂曲1
+Collection_Sound_MemorialTrack36	Kirby's Dream Collection：紀念樂曲2
+Collection_Sound_MemorialTrack37	Kirby: Triple Deluxe：紀念樂曲1
+Collection_Sound_MemorialTrack38	Kirby: Triple Deluxe：紀念樂曲2
+Collection_Sound_MemorialTrack39	Kirby: Planet Robobot：紀念樂曲1
+Collection_Sound_MemorialTrack40	Kirby: Planet Robobot：紀念樂曲2
+Collection_Sound_MemorialTrack41	新星同盟：紀念樂曲1
+Collection_Sound_MemorialTrack42	新星同盟：紀念樂曲2
+Collection_Sound_MemorialTrack43	新星同盟：紀念樂曲3
+Collection_Sound_MemorialTrack44	超級卡比獵人隊：紀念樂曲1
+Collection_Sound_MemorialTrack45	超級卡比獵人隊：紀念樂曲2
+Collection_Sound_MemorialTrack46	卡比群星戰2：紀念樂曲1
+Collection_Sound_MemorialTrack47	卡比群星戰2：紀念樂曲2
+Collection_Sound_MemorialTrack48	探索發現：紀念樂曲1
+Collection_Sound_MemorialTrack49	探索發現：紀念樂曲2
+Collection_Sound_MemorialTrack50	探索發現：紀念樂曲3
+Collection_Sound_MemorialTrack51	探索發現：紀念樂曲4
+Collection_Sound_MemorialTrack52	探索發現：紀念樂曲5
+Collection_Sound_MemorialTrack53	Kirby 30th Music Fest：HAL Laboratory夢想樂隊樂曲
+Collection_Sound_MemorialTrack54	探索發現：遊玩特典樂曲1
+Collection_Sound_MemorialTrack55	探索發現：遊玩特典樂曲2
+Collection_Sound_MemorialTrack56	探索發現：遊玩特典樂曲3
+Collection_Sound_MemorialTrack57	新星同盟：遊玩特典樂曲1
+Collection_Sound_MemorialTrack58	新星同盟：遊玩特典樂曲2
+Collection_Sound_MemorialTrack59	新星同盟：遊玩特典樂曲3
+Collection_Sound_MemorialTrack60	卡比群星戰2：遊玩特典樂曲1
+Collection_Sound_MemorialTrack61	卡比群星戰2：遊玩特典樂曲2
+Collection_Sound_MemorialTrack62	卡比群星戰2：遊玩特典樂曲3
+Collection_Sound_MemorialTrack63	超級卡比獵人隊：遊玩特典樂曲1
+Collection_Sound_MemorialTrack64	超級卡比獵人隊：遊玩特典樂曲2
+Collection_Sound_MemorialTrack65	超級卡比獵人隊：遊玩特典樂曲3
+Collection_Sound_CollectionSweetComplete	Kirby's Ultra Gourmet Memories
+Collection_Sound_HomeMaxRank	Elegant Afternoon Tea Time
+Name\StageName.msbt
+Race1RollcakeMap01	蛋糕捲
+Race1RollcakeMap02	蛋糕捲
+Race2RollcakeMap01	蛋糕捲
+Race2RollcakeMap02	蛋糕捲
+Race1BaumkuchenMap01	年輪蛋糕
+Race1BaumkuchenMap02	年輪蛋糕
+Race2BaumkuchenMap01	年輪蛋糕
+Race2BaumkuchenMap02	年輪蛋糕
+Race1ShortCakeMap01	草莓蛋糕
+Race1ShortCakeMap02	草莓蛋糕
+Race2ShortCakeMap01	草莓蛋糕
+Race2ShortCakeMap02	草莓蛋糕
+Race1PancakeMap01	美式鬆餅
+Race1PancakeMap02	美式鬆餅
+Race2PancakeMap01	美式鬆餅
+Race2PancakeMap02	美式鬆餅
+Race1ChocolateFountainMap01	巧克力噴泉
+Race1ChocolateFountainMap02	巧克力噴泉
+Race2ChocolateFountainMap01	巧克力噴泉
+Race2ChocolateFountainMap02	巧克力噴泉
+Race1IceCreamMap01	雪糕
+Race1IceCreamMap02	雪糕
+Race2IceCreamMap01	雪糕
+Race2IceCreamMap02	雪糕
+Race1HamburgerMap01	漢堡
+Race1HamburgerMap02	漢堡
+Race2HamburgerMap01	漢堡
+Race2HamburgerMap02	漢堡
+Race1DonutMap01	甜甜圈
+Race1DonutMap02	甜甜圈
+Race2DonutMap01	甜甜圈
+Race2DonutMap02	甜甜圈
+BonusGame_BattleCupcakeMap01	杯子蛋糕
+BonusGame_BattleCupcakeMap02	杯子蛋糕
+BonusGame_BattleCupcakeMap03	杯子蛋糕
+BonusGame_BattleCheeseFondueMap01	起司鍋
+BonusGame_BattleCheeseFondueMap02	起司鍋
+BonusGame_BattleCheeseFondueMap03	起司鍋
+BonusGame_BattleElfilinMap01	艾菲靈蛋糕
+BonusGame_BattleKirbyMap01	卡比蛋糕
+BonusGame_BattlePieMap01	甜派
+BonusGame_BattlePieMap02	甜派
+BonusGame_BattlePieMap03	甜派
+BonusGame_BattleWaffleMap01	格子鬆餅
+BonusGame_BattleWaffleMap02	格子鬆餅
+BonusGame_BoxCupcakeMap01	杯子蛋糕
+BonusGame_BoxCupcakeMap02	杯子蛋糕
+BonusGame_BoxCupcakeMap03	杯子蛋糕
+BonusGame_BoxPieMap01	甜派
+BonusGame_BoxPieMap02	甜派
+BonusGame_BoxPieMap03	甜派
+BonusGame_BoxWaffleMap01	格子鬆餅
+BonusGame_BoxWaffleMap02	格子鬆餅
+BonusGame_DropCupcakeMap01	杯子蛋糕
+BonusGame_DropCupcakeMap02	杯子蛋糕
+BonusGame_DropCupcakeMap03	杯子蛋糕
+BonusGame_DropChiffonCakeMap01	戚風蛋糕
+BonusGame_DropChiffonCakeMap02	戚風蛋糕
+BonusGame_DropChiffonCakeMap03	戚風蛋糕
+BonusGame_DropKirbyMap01	卡比蛋糕
+BonusGame_DropElfilinMap01	艾菲靈蛋糕
+BonusGame_DropPieMap01	甜派
+BonusGame_DropPieMap02	甜派
+BonusGame_DropPieMap03	甜派
+BonusGame_DropCheeseFondueMap01	起司鍋
+BonusGame_DropCheeseFondueMap02	起司鍋
+BonusGame_DropCheeseFondueMap03	起司鍋
+BonusGame_DropWaffleMap01	格子鬆餅
+BonusGame_DropWaffleMap02	格子鬆餅
+BonusGame_CupTeaCupMap01	喝茶時光
+BonusGame_CupTeaCupMap02	喝茶時光
+FinalBattleWholecakeMap01	圓形蛋糕
+FinalBattleWholecakeMap02	圓形蛋糕
+FinalBattleWholecakeMap03	圓形蛋糕
+FinalBattleSquarecakeMap01	方形蛋糕
+FinalBattleSquarecakeMap02	方形蛋糕
+FinalBattleSquarecakeMap03	方形蛋糕
+FinalBattleIcePopMap01	冰棒
+FinalBattleIcePopMap02	冰棒
+FinalBattleIcePopMap03	冰棒
+FinalBattlePuddingMap01	布丁聖代
+FinalBattlePuddingMap02	布丁聖代
+FinalBattlePuddingMap03	布丁聖代
+FinalBattleHamburgerSteakMap01	燒烤
+FinalBattleHamburgerSteakMap02	燒烤
+FinalBattleHamburgerSteakMap03	燒烤
+FinalBattleSandwichMap01	三明治
+FinalBattleSandwichMap02	三明治
+FinalBattleSandwichMap03	三明治
+FinalBattleMagolorMap01	魔法洛亞蛋糕
+FinalBattleWhispyWoodsMap01	風語關卡蛋糕
+Collection_Stage_IceCream	雪糕
+Collection_Stage_ChocolateFountain	巧克力噴泉
+Collection_Stage_Magolor	魔法洛亞蛋糕
+Collection_Stage_Elfilin	艾菲靈蛋糕
+Collection_Stage_IcePop	冰棒
+Collection_Stage_HamburgerSteak	燒烤
+Collection_Stage_Kirby	卡比蛋糕
+Collection_Stage_WhispyWoods	風語關卡蛋糕
+Name\SweetName.msbt
+Collection_Sweet_Kirby	卡比
+Collection_Sweet_Dedede	帝帝帝大王
+Collection_Sweet_WaddleDee	瓦豆魯迪
+Collection_Sweet_WaddleDoo	瓦豆魯篤
+Collection_Sweet_Kracko	獨眼雲
+Collection_Sweet_WhispyWoods	風語大樹
+Collection_Sweet_KirbyPixel	卡比點陣
+Collection_Sweet_WarpStar	傳送之星點陣
+Collection_Sweet_WaddleDeePixel	瓦豆魯迪點陣
+Collection_Sweet_BrontoburtPixel	飛翅球球點陣
+Collection_Sweet_Grizzo	頭帶熊點陣
+Collection_Sweet_DededePixel	帝帝帝大王點陣
+Collection_Sweet_DededeShocked	帝帝帝大王點陣（驚嚇）
+Collection_Sweet_MintLeaf	薄荷葉點陣
+Collection_Sweet_SuperspicyCurry	超辣咖哩飯點陣
+Collection_Sweet_StarRod	卡比（星星神杖）
+Collection_Sweet_Ufo	UFO卡比
+Collection_Sweet_MrShine	閃亮先生
+Collection_Sweet_MrBright	光亮先生
+Collection_Sweet_SwordKnight	利劍騎士
+Collection_Sweet_Nightmare	夢魘 巫師
+Collection_Sweet_Metaknight	魅塔騎士
+Collection_Sweet_KirbyCannon	卡比點陣（大炮）
+Collection_Sweet_KirbySword	利劍卡比點陣
+Collection_Sweet_KirbyStone	石塊卡比點陣
+Collection_Sweet_WaddleDooPixel	瓦豆魯篤點陣
+Collection_Sweet_HotHead	熾熱頭點陣
+Collection_Sweet_Bonkers	錘星猩點陣
+Collection_Sweet_KrackoPixel	獨眼雲點陣
+Collection_Sweet_MetaknightPixel	魅塔騎士點陣
+Collection_Sweet_Pinball	卡比（蛙鞋）
+Collection_Sweet_PinballIcon1	Kirby's Pinball Land (1)
+Collection_Sweet_PinballIcon2	Kirby's Pinball Land (2)
+Collection_Sweet_DreamCourse	卡比&奇比
+Collection_Sweet_KirbyFlag	卡比（旗子）
+Collection_Sweet_DreamCourseLogo	卡比（一桿進洞）
+Collection_Sweet_Rick	陸庫
+Collection_Sweet_Kine	海恩
+Collection_Sweet_Coo	空
+Collection_Sweet_CrackTweet	破殼小雞
+Collection_Sweet_Masher	鐵球武士
+Collection_Sweet_IceDragon	冰龍
+Collection_Sweet_KirbyCutter	彎刀卡比點陣
+Collection_Sweet_LordKibble	勳爵彎刀騎士點陣
+Collection_Sweet_MasterGreen	綠大師點陣
+Collection_Sweet_NruffAndNelly	突進野豬&奈利點陣
+Collection_Sweet_MrFrostyPixel	冰霜先生點陣
+Collection_Sweet_DarkMatterPixel	闇物質點陣
+Collection_Sweet_BlockBall	Kirby's Block Ball
+Collection_Sweet_KirbyCook	廚師卡比
+Collection_Sweet_KirbyJet	噴射機卡比
+Collection_Sweet_KirybMirror	鏡子卡比
+Collection_Sweet_Wheelie	特技輪騎士點陣
+Collection_Sweet_KirbyYoyo	溜溜球卡比點陣
+Collection_Sweet_ChefKawasaki	廚師川崎點陣
+Collection_Sweet_KnuckleJoe	格鬥家喬點陣
+Collection_Sweet_Marx	魔嚕酷
+Collection_Sweet_Tac	喵客點陣
+Collection_Sweet_Walky	大聲公
+Collection_Sweet_AxeKnight	斧頭騎士
+Collection_Sweet_JavelinKnight	標槍騎士
+Collection_Sweet_TridentKnight	三叉戟騎士
+Collection_Sweet_MaceKnight	錘矛騎士
+Collection_Sweet_DynaBlade	巨大鋒翼鳥點陣
+Collection_Sweet_RickBlock	陸庫方塊
+Collection_Sweet_KineBlock	海恩方塊
+Collection_Sweet_CooBlock	空方塊
+Collection_Sweet_KirbyClean	清潔卡比點陣
+Collection_Sweet_KirbyParasol	陽傘卡比
+Collection_Sweet_Gooey	蠱依
+Collection_Sweet_ChuChu	啾啾
+Collection_Sweet_Nago	喵果
+Collection_Sweet_Pitch	嗶奇
+Collection_Sweet_Gabon	骷髏怪點陣
+Collection_Sweet_DarkMatterPixelColor	闇物質點陣
+Collection_Sweet_Zero	零
+Collection_Sweet_PonAndCon	阿狸&阿狐點陣
+Collection_Sweet_MrStar	星仔
+Collection_Sweet_TickTockJr	滴答Jr.
+Collection_Sweet_Gryll	考盧
+Collection_Sweet_KirbyBurningStone	燃燒石塊
+Collection_Sweet_KirbyNeedle	針卡比
+Collection_Sweet_Ribbon	妖精莉寶
+Collection_Sweet_Adeleine	阿朵萊妮
+Collection_Sweet_WaddleDee64	卡比&瓦豆魯迪
+Collection_Sweet_Dedede64	卡比&帝帝帝大王
+Collection_Sweet_Nz	恩之
+Collection_Sweet_Acro	鯨虎
+Collection_Sweet_Magman	容炎
+Collection_Sweet_Hrh	HR-H
+Collection_Sweet_Blockbot	諾博特
+Collection_Sweet_Blinkbat	扁福
+Collection_Sweet_Orbservor	眼珠子
+Collection_Sweet_Noddy	諾迪
+Collection_Sweet_Gordo	黑刺球點陣
+Collection_Sweet_FireLion	火獅
+Collection_Sweet_PhanPhan	象象點陣
+Collection_Sweet_PaintRoller	畫畫滾輪
+Collection_Sweet_HeavyMole	重量級鼴鼠點陣
+Collection_Sweet_MaximTomato	M番茄
+Collection_Sweet_InvincibleCandy	彩虹棒棒糖
+Collection_Sweet_Dragoon	龍騎兵
+Collection_Sweet_Hydra	九頭蛇
+Collection_Sweet_WarpStarAirRide	傳送之星
+Collection_Sweet_ShadowStar	惡魔之星
+Collection_Sweet_Caller	喚喚
+Collection_Sweet_Flappy	龍鳥
+Collection_Sweet_KirbyPhone	卡比（手機）點陣
+Collection_Sweet_KirbyMissile	導彈卡比
+Collection_Sweet_Mirra	鏡藍點陣
+Collection_Sweet_Gobbler	加百獵點陣
+Collection_Sweet_MasterHand	大師之手點陣
+Collection_Sweet_CrazyHand	瘋狂之手
+Collection_Sweet_DarkMetaknight	闇魅塔騎士
+Collection_Sweet_DarkMind	闇意向點陣
+Collection_Sweet_KirbyBall	卡比球
+Collection_Sweet_MetaknightBall	魅塔騎士球
+Collection_Sweet_DededeBall	帝帝帝球
+Collection_Sweet_Bloon	氣球球點陣
+Collection_Sweet_Drawcia	繪畫墮落錫安 女巫點陣
+Collection_Sweet_DrawciaSoul	繪畫墮落錫安靈魂
+Collection_Sweet_KirbyAnimal	動物卡比點陣
+Collection_Sweet_KirbyGhost	{size[6e00]}幽{size[6400]}靈卡比點陣
+Collection_Sweet_Squeaker	吱鼠
+Collection_Sweet_Doc	多庫
+Collection_Sweet_Storo	鼠泰隆
+Collection_Sweet_Spinni	鼠賓
+Collection_Sweet_Daroach	怪盜洛切
+Collection_Sweet_DarkNebula	闇零
+Collection_Sweet_KirbyNinja	忍者卡比
+Collection_Sweet_KirbyPlasma	電離子卡比
+Collection_Sweet_KirbySuplex	摔角手卡比
+Collection_Sweet_SailorWaddleDee	船員瓦豆魯迪
+Collection_Sweet_GalacticNova	銀河‧新星
+Collection_Sweet_MaskedDedede	蒙面‧帝帝帝點陣
+Collection_Sweet_GalactaKnight	星河騎士點陣
+Collection_Sweet_MarxSoul	魔嚕酷靈魂點陣
+Collection_Sweet_EpicYarn	卡比
+Collection_Sweet_Fluff	毛毛
+Collection_Sweet_YinYarn	棒針狂人
+Collection_Sweet_KirbyTwo	卡比（2人）
+Collection_Sweet_Beanbon	葉芽
+Collection_Sweet_Skully	頭骨兒
+Collection_Sweet_Skullord	頭骨大王點陣
+Collection_Sweet_KirbyCrackler	卡比（炮台）
+Collection_Sweet_KirbyLeaf	葉子卡比
+Collection_Sweet_KirbyWhip	鞭子卡比
+Collection_Sweet_KirbyUltraSword	究極劍
+Collection_Sweet_KirbyMonsterFlame	龍襲怒吼
+Collection_Sweet_KirbySnowBowl	冰晶雪球
+Collection_Sweet_Leafan	葉片怪
+Collection_Sweet_Whippy	鞭皮
+Collection_Sweet_BandanaWaddleDee	頭巾瓦豆魯迪
+Collection_Sweet_MetaknightWii	魅塔騎士
+Collection_Sweet_DededeWii	帝帝帝大王
+Collection_Sweet_Magolor	魔法洛亞
+Collection_Sweet_AllPlayerWii	與4位同伴一起
+Collection_Sweet_Lor	洛亞
+Collection_Sweet_MagolorPixel	魔法洛亞點陣
+Collection_Sweet_DreamCollectionLogo1	20週年標誌（1）
+Collection_Sweet_DreamCollectionLogo2	20週年標誌（2）
+Collection_Sweet_KirbySmashBros	大亂鬥卡比
+Collection_Sweet_Kirby3dWarpStar	3D傳送之星
+Collection_Sweet_KirbyHypernova	大爆炸吸入
+Collection_Sweet_KirbyBeetle	獨角仙卡比
+Collection_Sweet_KirbyBell	銅鈴卡比
+Collection_Sweet_KirbyCircus	馬戲團卡比
+Collection_Sweet_Beetley	大角甲蟲
+Collection_Sweet_Ringle	叮叮噹
+Collection_Sweet_Spynum	矢派南
+Collection_Sweet_Taranza	塔狼蛛
+Collection_Sweet_SunStone	太陽石
+Collection_Sweet_SwordBeam	利劍VS光束
+Collection_Sweet_ArcherFighter	狙擊手VS格鬥家
+Collection_Sweet_TeamCannon	隊伍合體炮
+Collection_Sweet_DededeTambourine	帝帝帝大王（鈴鼓）
+Collection_Sweet_KirbyMegaphone	卡比（加油棒）
+Collection_Sweet_Tambourine	鈴鼓
+Collection_Sweet_KirbyRainbowCurse	卡比
+Collection_Sweet_Elline	艾莉妮
+Collection_Sweet_Claycia	黏土西亞
+Collection_Sweet_KirbyHelmet	卡比（安全帽）
+Collection_Sweet_KirbyEsp	超能力卡比
+Collection_Sweet_KirbyDoctor	醫生卡比
+Collection_Sweet_RobobotNormal	機器博博裝甲
+Collection_Sweet_RobobotJet	噴射機模式
+Collection_Sweet_RobobotWheel	車輪模式
+Collection_Sweet_WalkerWaddleDee	步行者瓦豆魯迪
+Collection_Sweet_BrontoBurt	飛翅球球
+Collection_Sweet_Susie	秘書蘇姿
+Collection_Sweet_Haltmann	總裁‧哈魯特曼
+Collection_Sweet_SwordHero	英雄利劍
+Collection_Sweet_HammerLord	重錘子
+Collection_Sweet_DoctorHealmore	治癒醫生
+Collection_Sweet_BeamMage	魔法光束
+Collection_Sweet_KibbleBlade	彎刀騎士老大
+Collection_Sweet_Inhale	卡比（吸入）
+Collection_Sweet_FullBellyKirby	滿腹卡比
+Collection_Sweet_BlasterBulletKirby	卡比（貫通星形彈）
+Collection_Sweet_Cake	豪華蛋糕堆
+Collection_Sweet_KirbyPrinter	卡比列印機
+Collection_Sweet_KirbyFighter	格鬥家卡比
+Collection_Sweet_ThrowFriendHeart	卡比
+Collection_Sweet_FriendCircle	盟友滾輪
+Collection_Sweet_SizzleYoyo	火焰溜溜球
+Collection_Sweet_BonkersZapHammer	電氣錘 錘星猩
+Collection_Sweet_BladeKnightBlizzardSword	冰雪劍 劍騎士
+Collection_Sweet_PoppyBrosJrBlusterBomb	風切炸彈 小波比兄弟
+Collection_Sweet_Vividria	彩繪比比提安
+Collection_Sweet_DededeStarAllies	帝帝帝大王
+Collection_Sweet_Francisca	冰斧基斯
+Collection_Sweet_Flamberge	炎劍露啾
+Collection_Sweet_ZanPartizanne	雷槍帕嚕提扎努
+Collection_Sweet_VoidTermina	終焉‧虛無
+Collection_Sweet_MeDevil	本大爺‧惡魔
+Collection_Sweet_YeDevil	哇‧惡魔
+Collection_Sweet_WeDevil	我們‧惡魔
+Collection_Sweet_SwordHeroSuper	英雄利劍
+Collection_Sweet_HammerLordSuper	重錘子
+Collection_Sweet_DoctorHealmoreSuper	治癒醫生
+Collection_Sweet_BeamMageSuper	魔法光束
+Collection_Sweet_ParallelNightmare	異次元夢魘
+Collection_Sweet_AeonHero	圍繞淵源的英雄
+Collection_Sweet_ShopkeeperMagolor	店主魔法洛亞
+Collection_Sweet_SwordWrestler	利劍&蒙面摔角手
+Collection_Sweet_CheerStyle	啦啦隊
+Collection_Sweet_SumoTopknot	橫綱髮髻
+Collection_Sweet_DededeMetaknight	帝帝帝大王&魅塔騎士
+Collection_Sweet_DededeMetaknightMasked	蒙面‧D&蒙面‧M
+Collection_Sweet_BuddyStarBlaster	搭檔發射之星
+Collection_Sweet_KirbyDiscovery	卡比
+Collection_Sweet_BandanaWaddleDeeDiscovery	頭巾瓦豆魯迪
+Collection_Sweet_Elfilin	艾菲靈
+Collection_Sweet_CarMouth	汽車塞滿嘴
+Collection_Sweet_ConeMouth	三角錐塞滿嘴
+Collection_Sweet_VendingMouth	自動販賣機塞滿嘴
+Collection_Sweet_RingMouth	圈圈塞滿嘴
+Collection_Sweet_KirbyDrill	鑽擊卡比
+Collection_Sweet_KirbyRanger	探巡隊卡比
+Collection_Sweet_KirbyDragonFire	龍之烈火卡比
+Collection_Sweet_KirbyDeepSleep	深層睡覺卡比
+Collection_Sweet_Awoofy	加魯魯菲
+Collection_Sweet_Gorimondo	猩猛霸
+Collection_Sweet_Clawroline	卡洛凌
+Collection_Sweet_DededeDiscovery	帝帝帝大王
+Collection_Sweet_MetaknightDiscobery	魅塔騎士
+Collection_Sweet_WeaponsShopWaddleDee	武器店瓦豆魯迪
+Collection_Sweet_CarMouthCake	汽車塞滿嘴蛋糕
+Collection_Sweet_KirbyElfilinWaddleDee	大家來擺姿勢！
+Collection_Sweet_CapturedWaddleDee	被囚禁的瓦豆魯迪們
+Collection_Sweet_KirbyMusicFest	卡比
+Collection_Sweet_ElfilinMusicFest	艾菲靈
+Collection_Sweet_MagolorMusicFest	魔法洛亞
+Collection_Sweet_KirbyCafe	卡比
+Collection_Sweet_WaddleDeeCafe	瓦豆魯迪
+Collection_Sweet_Logo30th	30週年標誌

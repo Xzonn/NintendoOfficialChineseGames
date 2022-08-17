@@ -1,0 +1,1358 @@
+Bmenu.msbt
+$BmenuBackGuide	もどる
+Title_ModeName_Battle	{r2[たいせん]}対戦{/r2}モード
+Title_ModeName_Online	オンラインモード
+Title_ModeName_Local	ローカルモード
+$BMenuPartsModeSelTitleText	メインメニュー
+$BMenuModeSelLocalBtnTitle	ローカルモード
+$BMenuModeSelOfflineBtnTitle	{r2[たいせん]}対戦{/r2}モード
+$BMenuModeSelOnlineBtnTitle	オンラインモード
+ModeSelDetail_Online	オンラインで {r2[せかいじゅう]}世界中{/r2}の だれと\nでも、もしくは あいことばで\n{r2[とお]}遠{/r2}くの ともだちと あそべます。
+ModeSelDetail_NoNet	CPキャラと {r2[よにん]}４人{/r2}プレイや\nともだちと{r2[ふたり]}２人{/r2}で おすそわけ\nプレイも {r2[たの]}楽{/r2}しめます。
+ModeSelDetail_LocalNet	ソフトと{r2[ほんたい]}本体{/r2}が {r2[にんずうぶん]}人数分{/r2}あれば\nローカル{r2[つうしん]}通信{/r2}で つないで\nさいだい{r2[よにん]}４人{/r2}で あそべます。
+$BmenuPartsPlayerEntrySumTitleText	プレイヤーにんずう
+$BmenuPartsEntrySumBtnText1P	{r2[ひとり]}１人{/r2}
+$BmenuPartsEntrySumBtnText2P	{r2[ふたり]}２人{/r2}
+PlayerNum_P1	1P
+PlayerNum_P2	2P
+PlayerNum_P3	3P
+PlayerNum_P4	4P
+$BMenuPartsRuleSelTitleText	ゲームルール
+$BMenuPartsRuleSelGrandPrixBtnText	グルメグランプリ
+RuleSelTitle_GrandPrix	グルメグランプリ
+$BMenuPartsRuleSelRaceBtnText	シングルレース
+RuleSelTitle_Race	シングルレース
+$BMenuPartsRuleSelBonusBtnText	シングルミニゲーム
+RuleSelTitle_Bonus	シングルミニゲーム
+$BMenuPartsRuleSelRoundBtnText	シングルバトロワ
+RuleSelTitle_Round	シングルバトロワ
+$BMenuPartsRuleSelFreeTrainingBtnText	フリーロール
+RuleSelTitle_Training	フリーロール
+RuleSelDetail_GrandPrix	レース、ミニゲーム、さいごは\nバトルロイヤルと、３{r2[しゅ]}種{/r2}の ゲームで\nあそべる フルコースな グルメフェス！\n「キャラおかし」も もらえます。
+RuleSelDetail_Race	えらばれた １つの コースメニューを\nかけぬけて、ゴールにある\n{r2[やま]}山{/r2}もりイチゴを めざそう！\n「キャラおかし」も もらえます。
+RuleSelDetail_Bonus	サクッと お{r2[きがる]}気軽{/r2} ミニゲーム。\nえらばれた １つの ルールで、\nだれよりも たくさん\nイチゴを {r2[た]}食{/r2}べちゃおう！
+RuleSelDetail_Round	えらばれた メインディッシュにて\nコピーフードで ぎゃくてん ありの \nレッツ・バトルロイヤル！\n「キャラおかし」も もらえます。
+RuleSelDetail_Training	{r2[ひろ]}広{/r2}い あそび{r2[ば]}場{/r2}で フリーに{r2[れんしゅう]}練習{/r2}。\nコピーフードも {r2[じゆう]}自由{/r2}に おためし\nともだちと もぐもぐ ころがりプレイ。\nBGMも {r2[すうふん]}数分{/r2}ごとに シャッフル！
+$BmenuPartsMatchingGroupTitleText	グループせんたく
+$BmenuPartsMatchingGroupAddText	{[0412|9500]}/{[0411|9400]}グループをつくる
+$BmenuPartsMatchingGroupReloadText	リストこうしん
+$BmenuPartsMatchingGroupNotFound	グループが ありません。\n{[0412|9500]}/{[0411|9400]}で グループをつくるか、\n{[040a|6100]}で リストをこうしん してください。
+$BMenuPartsMatchingWaitTitleText	マッチング{r2[ちゅう]}中{/r2}
+$BMenuPartsTypeSelTitleText	マッチセレクト
+$BMenuTypeSelBtnKeyword	あいことばマッチ
+$BMenuTypeSelBtnOthers	だれかとマッチ
+BMenuTypeSel_KeywordHeaderText	あいことば入力
+Cmn.msbt
+$Back	もどる
+TimeDisplaySecPunctuation	:
+$CmnTimeExtraInnings	えんちょうタイム
+$CmnBtnMatchingCloseText	しめきる
+$CmnBattleRecordDifficulty	CPレベル
+$CmnGourmetGaugeName	グルメランク
+GourmetRankGuage_Point	{[0302|0000]} / {size[4b00]}{[0302|0100]}{size[6400]}
+GourmetRankGuage_MaxRankPoint	{[0302|0000]}
+$CmnGourmetRankBarBalloonBonus	ボーナス
+GourmetRankGuage_PointGet	+{[0301|0000]}
+$CmnBattleRecordNumOfVictories	{r2[ゆうしょうかいすう]}優勝回数{/r2}
+$CmnBattleRecordRating	レート
+BattleRecord_ChangeNum_Plus	+{[0301|0000]}
+BattleRecord_ChangeNum_Minus	-{[0301|0000]}
+$CmnEmoteTextL	わぁ〜い！
+EmoteText_EmotionC	わぁ〜い！
+$CmnEmoteTextR	ガーン！
+EmoteText_EmotionD	ガーン！
+$CmnEmoteTextU	よろしくねっ！
+EmoteText_EmotionA	よろしくねっ！
+$CmnEmoteTextB	ありがとう〜！
+EmoteText_EmotionB	ありがとう〜！
+KiloSeparator	,
+DecimalPoint	.
+$NewIconText	NEW!
+$CmnPleaseWait	しばらく おまちください
+Collection.msbt
+$CollectionSkinGuideAttach	きがえる
+$CollectionSkinGuideRotate	まわす
+$CollectionSkinTitle	きせかえスキン
+$CollectionListNameColor	カラー
+$CollectionListNameSkin	スキン
+$CollectionSweetViewTitle	キャラおかしコレクション
+CollectionSweetDecor_Decor	ケーキに デコる
+CollectionSweetDecor_Remove	ケーキから はずす
+$CollectionSweetViewMultiplication	×
+$CollectionSweetViewSlash	/
+Credit.msbt
+Staff	スタッフ
+GeneralDirector	ゼネラルディレクター
+GeneralDirector_00	{r2[くまざき]}熊崎{/r2} {r2[しんや]}信也{/r2}
+SequenceDirector	シーケンスディレクター
+SequenceDirector_00	{r2[やまだ]}山田{/r2} {r2[しょうた]}翔太{/r2}
+LevelDesignDirector	レベルデザインディレクター
+LevelDesignDirector_00	{r2[やまざき]}山崎{/r2} {r2[こうすけ]}耕典{/r2}
+GameDesigners	ゲームデザイナー
+GameDesigners_00	{r2[こづか]}小塚{/r2} {r2[ゆうや]}悠矢{/r2}
+GameDesigners_01	{r2[さかもと]}坂本{/r2} {r2[りょうすけ]}竜輔{/r2}
+TechnicalDirector	テクニカルディレクター
+TechnicalDirector_00	{r2[おおにし]}大西{/r2} {r2[ひろし]}洋{/r2}
+LeadActionProgrammer	リードアクションプログラマー
+LeadActionProgrammer_00	{r2[すみとも]}住友{/r2} {r2[かつよし]}克禎{/r2}
+LeadUiProgrammer	リードＵＩプログラマー
+LeadUiProgrammer_00	{r2[うちだ]}内田{/r2} {r2[ゆうし]}勇志{/r2}
+Programmers	プログラマー
+Programmers_00	{r2[やまもと]}山本{/r2} {r2[たいせい]}大聖{/r2}
+Programmers_01	{r2[まえくぼ]}前久保{/r2} {r2[かくや]}格也{/r2}
+Programmers_02	{r2[たけむら]}竹村{/r2} {r2[けいすけ]}圭祐{/r2}
+Programmers_03	{r2[さか]}坂{/r2} {r2[たいき]}大樹{/r2}
+Programmers_04	{r2[やまだ]}山田{/r2} {r2[けいた]}圭太{/r2}
+Programmers_05	{r2[わたなべ]}渡邉{/r2} {r2[ひろむ]}啓{/r2}
+ArtDirector	アートディレクター
+ArtDirector_00	ファーマン {r2[りき]}力{/r2}
+CharacterArtists	キャラクターアーティスト
+CharacterArtists_00	{r2[みやもと]}宮本{/r2} {r2[けんた]}堅太{/r2}
+CharacterArtists_01	{r2[はやし]}林{/r2} {r2[あきこ]}明子{/r2}
+FieldArtists	フィールドアーティスト
+FieldArtists_00	{r2[よしおか]}吉岡{/r2} {r2[ゆうき]}優輝{/r2}
+FieldArtists_01	{r2[やませ]}山瀬{/r2} {r2[まお]}眞央{/r2}
+FieldArtists_02	{r2[おがわ]}小川{/r2} {r2[けいや]}恵也{/r2}
+FieldArtists_03	{r2[むらき]}村木{/r2} {r2[なつみ]}菜津弥{/r2}
+FieldArtists_04	{r2[みなみ]}南{/r2} {r2[ともみ]}知臣{/r2}
+LeadUiArtist	リードＵＩアーティスト
+LeadUiArtist_00	{r2[おおもり]}大森{/r2} {r2[かなこ]}香菜子{/r2}
+UiArtists	ＵＩアーティスト
+UiArtists_00	{r2[かとう]}加藤{/r2} {r2[ふみやす]}史康{/r2}
+UiArtists_01	{r2[うしき]}宇敷{/r2} {r2[ひかる]}光{/r2}
+UiArtists_02	{r2[とうどう]}東藤{/r2} {r2[ゆみ]}由実{/r2}
+UiArtists_03	{r2[すずき]}鈴木{/r2} {r2[てるひこ]}輝彦{/r2}
+Movie	ムービー
+Movie_00	{r2[かぶしきがいしゃ]}株式会社{/r2}D・A・G
+Movie_01	{r2[たきざわ]}滝沢{/r2} {r2[えいき]}映希{/r2}
+Movie_02	{r2[まつしま]}松嶋{/r2} {r2[ひさのり]}古記{/r2}
+Movie_03	{r2[ささおか]}笹岡{/r2} {r2[あきこ]}晃子{/r2}
+Movie_04	{r2[すずき]}鈴木{/r2} {r2[ゆうや]}裕也{/r2}
+Movie_05	{r2[しみず]}清水{/r2} {r2[けんろう]}建郎{/r2}
+Movie_06	{r2[おくい]}奥井{/r2} {r2[さだひろ]}貞博{/r2}
+Movie_07	{r2[たかはし]}高橋{/r2} {r2[あいか]}愛加{/r2}
+Movie_08	{r2[にしな]}仁科{/r2} {r2[けいすけ]}敬介{/r2}
+LeadSound	リードサウンド
+LeadSound_00	{r2[おがさわら]}小笠原{/r2} {r2[ゆうた]}雄太{/r2}
+Sound	サウンド
+Sound_00	{r2[いしかわ]}石川{/r2} {r2[じゅん]}淳{/r2}
+Sound_01	{r2[さかい]}酒井{/r2} {r2[しょうご]}省吾{/r2}
+Sound_03	{r2[あんどう]}安藤{/r2} {r2[ひろかず]}浩和{/r2}
+Sound_04	{r2[おおはら]}大原{/r2} {r2[めぐみ]}萌{/r2}
+Sound_05	{r2[しもおか]}下岡{/r2} {r2[ゆうき]}優希{/r2}
+Voice	ボイス
+Voice_00	{r2[おおもと]}大本{/r2} {r2[まきこ]}眞基子{/r2}
+FratFrameworkProgrammers	Frat Framework プログラマー
+FratFrameworkProgrammers_00	{r2[すえつぐ]}末継{/r2} {r2[かずや]}和也{/r2}
+FratFrameworkProgrammers_01	{r2[のげ]}野下{/r2} {r2[てつや]}徹也{/r2}
+FratFrameworkProgrammers_02	{r2[つるおか]}鶴岡{/r2} {r2[ともかず]}友和{/r2}
+FratFrameworkProgrammers_03	{r2[あとの]}後野{/r2} {r2[りょういちろう]}遼一郎{/r2}
+FratFrameworkProgrammers_04	{r2[かわじ]}川路{/r2} {r2[しんいち]}慎一{/r2}
+FratFrameworkProgrammers_05	{r2[うちだ]}内田{/r2} {r2[るい]}瑠依{/r2}
+FratFrameworkProgrammers_06	{r2[かとう]}加藤{/r2} {r2[あゆむ]}歩{/r2}
+FratFrameworkProgrammers_07	{r2[すずき]}鈴木{/r2} {r2[ゆうや]}雄也{/r2}
+FratFrameworkProgrammers_08	{r2[せしも]}瀬下{/r2} {r2[まさたか]}真隆{/r2}
+FratFrameworkProgrammers_09	{r2[つだ]}津田{/r2} {r2[けいご]}圭吾{/r2}
+FratFrameworkProgrammers_10	{r2[きむら]}木村{/r2} {r2[むねまさ]}宗理{/r2}
+FratFrameworkProgrammers_11	{r2[まつだ]}松田{/r2} {r2[たかし]}孝史{/r2}
+TechnicalSupport	テクニカルサポート
+TechnicalSupport_00	{r2[こにし]}小西{/r2} {r2[かずや]}和弥{/r2}
+TechnicalSupport_01	{r2[いまいずみ⽠はじめ]}今泉 肇{/r2}
+TechnicalSupport_02	{r2[ふくなが]}福永{/r2} {r2[ようすけ]}洋介{/r2}
+TechnicalSupport_03	{r2[かずの]}数野{/r2} {r2[たかあき]}貴亮{/r2}
+TechnicalSupport_04	{r2[ねもと]}根本{/r2} {r2[たかし]}卓{/r2}
+TechnicalSupport_05	{r2[あおやぎ]}青柳{/r2} {r2[じゅんいち]}純一{/r2}
+TechnicalSupport_06	{r2[なかの]}中野{/r2} {r2[ひろあき]}宏晃{/r2}
+TechnicalSupport_07	{r2[むらせ]}村瀨{/r2} {r2[たつや]}達哉{/r2}
+TechnicalSupport_08	{r2[はにゅう]}羽生{/r2} {r2[あきお]}昭夫{/r2}
+TechnicalSupport_09	{r2[たのうえ]}田上{/r2} {r2[たつひろ]}達宏{/r2}
+TechnicalSupport_10	{r2[みながわ]}皆川{/r2} {r2[たけし]}健{/r2}
+TechnicalSupport_11	{r2[おやま]}小山{/r2} {r2[たけひろ]}武宏{/r2}
+TeamSupport	チームサポート
+TeamSupport_00	{r2[たかはし]}高橋{/r2} {r2[よしみ]}芳美{/r2}
+TeamSupport_01	{r2[さこだ]}迫田{/r2} {r2[かつひろ]}勝弘{/r2}
+Artwork	アートワーク
+Artwork_00	{r2[かわはら]}川原{/r2} {r2[りえこ]}理恵子{/r2}
+Artwork_01	{r2[いばらき]}荊木{/r2} {r2[ゆうと]}勇斗{/r2}
+Artwork_02	{r2[いまむら]}今村{/r2} {r2[えみ]}恵美{/r2}
+Artwork_03	{r2[いのうえ]}井上{/r2} {r2[けいこ]}桂子{/r2}
+Testing	テスティング
+Testing_00	{r2[こばやし]}小林{/r2} {r2[まさる]}勝{/r2}
+Testing_01	{r2[たむら]}田村{/r2} {r2[たけし]}猛{/r2}
+Testing_02	{r2[おおはし]}大橋{/r2} {r2[あきこ]}亜規子{/r2}
+Testing_03	{r2[おのづか]}小野塚{/r2} {r2[まなみ]}愛美{/r2}
+Testing_04	{r2[まえだ]}前田{/r2} {r2[たいき]}泰希{/r2}
+Testing_05	{r2[いとなが]}糸永{/r2} {r2[ゆうき]}雄樹{/r2}
+Testing_06	ハルデバッグチーム
+Testing_07	マリオクラブ{r2[かぶしきがいしゃ]}株式会社{/r2}
+Testing_08	{r2[かぶしきがいしゃ]}株式会社{/r2}SHIFT
+LocalizationManagement	ローカライズマネージメント
+LocalizationManagement_00	{r2[おとぐろ]}乙黒{/r2} {r2[せいじ]}誠二{/r2}
+Localization	ローカライズ
+Localization_00	{r2[はしぐち]}橋口{/r2} {r2[しげる]}茂{/r2}
+Localization_01	{r2[ますだ]}益田{/r2} {r2[けんいち]}健一{/r2}
+Localization_02	{r2[ひらやま]}平山{/r2} {r2[しげる]}茂{/r2}
+NoaLocalizationManagement	NOA LOCALIZATION MANAGEMENT
+NoaLocalizationManagement_00	REIKO NINOMIYA
+NoaLocalizationManagement_01	RICH AMTOWER
+NoaLocalizationManagement_02	RAYMOND ELLIGET
+NoaLocalizationManagement_03	NICKO GONZALEZ
+NoaLocalizationManagement_04	BERENICE HOFSETZ
+NoaLocalizationManagement_05	TIM O'LEARY
+NoaLocalizationManagement_06	CÉSAR PÉREZ
+NoaLocalizationManagement_07	MORGAN RITCHIE
+NoaLocalizationManagement_08	THADDÉE WISEUR
+NoaLocalizationManagement_09	ÁLEX ZARZA
+NoaLocalization	NOA LOCALIZATION
+NoaLocalization_00	ANA CELESTE ASCANIO
+NoaLocalization_01	MICHAEL BENEDETTO
+NoaLocalization_02	BILLY CARROLL
+NoaLocalization_03	YANETT CEPEDA VALOR
+NoaLocalization_04	KRIS COPELAND
+NoaLocalization_05	MARJOLAINE DROUIN
+NoaLocalization_06	PALOMA HERNANDEZ
+NoaLocalization_07	DUTCH HIXENBAUGH
+NoaLocalization_08	SARA HOAD
+NoaLocalization_09	MARISSOL KARCZESKI
+NoaLocalization_10	KRISTOPHER KATZ
+NoaLocalization_11	BRANDON KRAEMER
+NoaLocalization_12	KELI DOMINCIANO NAKAMURA
+NoaLocalization_13	ERIN PETERSON
+NoaLocalization_14	CAROLINA QUESADA
+NoaLocalization_15	BABI VELHO BARRETO
+NoaLocalization_16	LAUREN WELLS
+NoaLocalization_17	LUDOVIC TIENTCHEU PONKIN
+NoaLocalization_18	TARYN ZIEGLER
+NoaLocalization_19	FELIPE ZYLBERSZTAJN
+NoaProductTesting	NOA PRODUCT TESTING
+NoaProductTesting_00	KENTARO NISHIMURA
+NoaProductTesting_01	KIRK BUCHANAN
+NoaProductTesting_02	TOMO ISHIYAMA
+NoaProductTesting_03	HITOSHI NISHIZAWA
+NoaProductTesting_04	SEAN EGAN
+NoaProductTesting_05	TOMOKO MIKAMI
+NoaProductTesting_06	ANDY KOLDEN
+NoaProductTesting_07	JIM HOLDEMAN
+NoaProductTesting_08	MANNA YAMASAKI
+NoaProductTesting_09	TOM HERTZOG
+NoaProductTesting_10	YOUNG KIM
+NoaProductTesting_11	MARKO WALLENIUS
+NoaProductTesting_12	MICHAEL SAHLIN
+NoaProductTesting_13	JAMES DILLON
+NoaProductTesting_14	JOSH YAGI-STANTON
+NoaProductTesting_15	CRAIG SO
+NoaProductTesting_16	LUISA BAYONA OTERO
+NoaProductTesting_17	ROSE HERNANDEZ
+NoaProductTesting_18	AGATHA CARVALHAES CAMARGO HORTIZ
+NoaProductTesting_19	NICOLAS MORA
+NoaProductTesting_20	CAMERON PARENT
+NoaProductTesting_21	LIBIA SANTOS SOUZA
+NoaProductTesting_22	BRANDON TRUAX
+NoaProductTesting_23	FRANCES ECKRICH
+NoaProductTesting_24	AARON JONES
+NoaProductTesting_25	PRODUCT TESTING TECHNICIANS
+NoeLocalisationProducers	NOE LOCALISATION PRODUCERS
+NoeLocalisationProducers_00	IVÁN GARRIDO GONZÁLEZ
+NoeLocalisationProducers_01	SASKIA DOORSCHODT
+NoeLocalisationProducers_02	DARIO DE LEO
+NoeLocalisationProducers_03	LIAM HIGGINS
+NoeTranslationCoordination	NOE TRANSLATION COORDINATION
+NoeTranslationCoordination_00	PIERRE SANCHEZ
+NoeTranslationCoordination_01	ANDREA JÄHN
+NoeEnglishTranslationSupport	NOE ENGLISH TRANSLATION SUPPORT
+NoeEnglishTranslationSupport_00	PATRICK JOYCE
+NoeTranslation	NOE TRANSLATION
+NoeTranslation_00	CLÉMENCE DIERYCK
+NoeTranslation_01	JEAN-PAUL HAUSMANN
+NoeTranslation_02	GIOVANNA PRATI
+NoeTranslation_03	GIACOMO IACUMIN
+NoeTranslation_04	KENT ROBELLO
+NoeTranslation_05	MICHAEL HUSSINGER
+NoeTranslation_06	HANNAH SIEBERT
+NoeTranslation_07	SEBASTIAN BRÜCK
+NoeTranslation_08	JÓNATAN MARCOS MILLÁN
+NoeTranslation_09	JOSÉ MANUEL MALAGÓN LEÓN
+NoeTranslation_10	CARSTEN HARMANS
+NoeTranslation_11	PATRICK KOUDSTAAL
+NoeQaCoordination	NOE QA COORDINATION
+NoeQaCoordination_00	J. IGNACIO LEÓN LÓPEZ
+NoeQaCoordination_01	MATTHEW DAVID JONES
+NoeQualityAssurance	NOE QUALITY ASSURANCE
+NoeQualityAssurance_00	KEYWORDS STUDIOS
+NokLocalizationManagement	NOK LOCALIZATION MANAGEMENT
+NokLocalizationManagement_00	KIM DONGYEON
+NokTranslation	NOK TRANSLATION
+NokTranslation_00	KIM SOONIL
+NokQualityAssurance	NOK QUALITY ASSURANCE
+NokQualityAssurance_00	SEOUNG KIUNG
+NokArtwork	NOK ARTWORK
+NokArtwork_00	LEE HOONKYUNG
+NhlTranslation	NHL TRANSLATION
+NhlTranslation_00	JEANIE HO
+NhlTranslation_01	NATALIE YU
+NhlQualityAssurance	NHL QUALITY ASSURANCE
+NhlQualityAssurance_00	EIJU UMEMURA
+NhlQualityAssurance_01	CHIH HSIEN CHIEN
+NhlQualityAssurance_02	CHEN WEI MING
+NhlArtwork	NHL ARTWORK
+NhlArtwork_00	MIKE KAN
+IqueLocalizationCoordination	iQue LOCALIZATION COORDINATION
+IqueLocalizationCoordination_00	CHEN YIJUN
+IqueTranslation	iQue TRANSLATION
+IqueTranslation_00	QIU XIAOCHUN
+IqueQualityAssurance	iQue QUALITY ASSURANCE
+IqueQualityAssurance_00	ZHANG JIONG
+SpecialThanks	スペシャルサンクス
+SpecialThanks_00	{r2[いとう]}伊藤{/r2} {r2[はるか]}晴香{/r2}
+SpecialThanks_01	{r2[よしざわ]}吉澤{/r2} {r2[なほ]}南帆{/r2}
+SpecialThanks_02	{r2[かない]}金井{/r2} {r2[ゆう]}優{/r2}
+SpecialThanks_03	{r2[かみやま]}神山{/r2} {r2[たつや]}達哉{/r2}
+SpecialThanks_04	{r2[なかがみ]}仲上{/r2} {r2[まさよ]}雅代{/r2}
+SpecialThanks_05	{r2[いのうえ]}井上{/r2} {r2[ゆりな]}祐里奈{/r2}
+SpecialThanks_06	{r2[かさい]}葛西{/r2} {r2[しげのぶ]}重忍{/r2}
+SpecialThanks_07	{r2[あべ]}阿部{/r2} {r2[てつや]}哲也{/r2}
+SpecialThanks_08	{r2[みねむら]}峰村{/r2} {r2[ともひろ]}智大{/r2}
+SpecialThanks_09	{r2[いからし]}五十嵐{/r2} {r2[ひろあき]}広朗{/r2}
+SpecialThanks_10	{r2[たかはま]}高濱{/r2} {r2[しょうへい]}昇平{/r2}
+SpecialThanks_11	{r2[おさだ]}長田{/r2} {r2[ゆみ]}有美{/r2}
+SpecialThanks_12	{r2[えぐち]}江口{/r2} {r2[あきら]}聖{/r2}
+SpecialThanks_13	{r2[おかだ]}岡田{/r2} {r2[のぶゆき]}信志{/r2}
+SpecialThanks_14	{r2[いけがみ]}池上{/r2} {r2[ただし]}正{/r2}
+SpecialThanks_15	{r2[かぶしきがいしゃ]}株式会社{/r2}グッド・フィール
+Coordinator	コーディネーター
+Coordinator_00	{r2[ふくしま]}福島{/r2} {r2[ともき]}朋樹{/r2}
+ProjectManagement	プロジェクトマネージメント
+ProjectManagement_00	{r2[なかむら]}中村{/r2} {r2[かずゆき]}和幸{/r2}
+ProjectManagement_01	{r2[いしざき]}石崎{/r2} {r2[かおり]}佳織{/r2}
+ProjectManagement_02	{r2[さいとう]}齋藤{/r2} {r2[しんや]}伸也{/r2}
+ProjectManagement_03	{r2[きなし]}木梨{/r2} {r2[あきら]}玲{/r2}
+AssociateProducer	アソシエイトプロデューサー
+AssociateProducer_00	{r2[にのみや]}二宮{/r2} {r2[けい]}啓{/r2}
+LineProducer	ラインプロデューサー
+LineProducer_00	{r2[ながた]}永田{/r2} {r2[よしひろ]}善裕{/r2}
+Producers	プロデューサー
+Producers_00	{r2[かみたけ]}上武{/r2} {r2[ただし]}理志{/r2}
+Producers_01	{r2[のなか]}野中{/r2} {r2[とよかず]}豊和{/r2}
+GeneralProducers	ゼネラルプロデューサー
+GeneralProducers_00	{r2[かわせ]}川瀬{/r2} {r2[しげふみ]}滋史{/r2}
+GeneralProducers_01	{r2[たかはし]}高橋{/r2} {r2[しんや]}伸也{/r2}
+ExecutiveProducer	エグゼクティブプロデューサー
+ExecutiveProducer_00	{r2[ふるかわ]}古川{/r2} {r2[しゅんたろう]}俊太郎{/r2}
+Copyright	制作・著作　株式会社ハル研究所／任天堂株式会社\n©HAL Laboratory, Inc. / Nintendo
+$CreditBackGuide	もどる
+Dialog.msbt
+CornerBtn_Back	もどる
+CornerBtn_Close	とじる
+Btn_CancelForExit	キャンセル
+Text_FileDeleteConfirm1	セーブデータを すべて けしますか？
+Btn_FileDeleteConfirm1_Yes	けす
+Btn_FileDeleteConfirm1_No	けさない
+Text_FileDeleteConfirm2	ほんとうに けしますよ？
+Btn_FileDeleteConfirm2_Yes	ほんとうに けす
+Btn_FileDeleteConfirm2_No	やっぱり けさない
+Text_FileDeleteConfirm3	けしたデータは もどりません！！\n{color[ff4d2fff]}こうかいしませんね？{color[000000ff]}
+Btn_FileDeleteConfirm3_Yes	こうかいしない！！！！
+Btn_FileDeleteConfirm3_No	けしたく ないです…
+Text_FileDeleteFinished	セーブデータを けしました。
+Title_CpLevel	CPレベル
+Btn_CpLevelEasy	あまい
+Btn_CpLevelNormal	ふつう
+Btn_CpLevelHard	カラい
+Btn_CpLevelVeryHard	ゲキカラ
+Text_BattleMenu_ConfirmSessionDisband	グループを {color[ff4d2fff]}かいさん{color[000000ff]} しますか？
+Btn_Disband	かいさんする
+Text_BattleMenu_NetworkError	{r2[つうしん]}通信{/r2}エラーが\nはっせい しました。
+Text_BattleMenu_NetworkTimeout	{r2[いっていじかん]}一定時間{/r2} {r2[にゅうりょく]}入力{/r2}が なかったため\n{color[ff4d2fff]}{r2[つうしん]}通信{/r2}が きれました。{color[000000ff]}
+Text_BattleMenu_FirstNetworkNote	オンラインプレイに {r2[さんか]}参加{/r2}すると\nプレイヤー{r2[めい]}名{/r2}が ほかの{r2[ひと]}人{/r2}に {r2[こうかい]}公開{/r2}されます。\n\n※{r2[たいせんあいて]}対戦相手{/r2}が コンピューターとなる {r2[ばあい]}場合{/r2}もあります。
+Text_BattleMenu_NetworkPenalty	{r2[ぜんかい]}前回{/r2}の オンラインプレイが {r2[せいじょう]}正常{/r2}に{r2[しゅうりょう]}終了{/r2}しませんでした。\n{r2[つうしんせつだん]}通信切断{/r2}が {r2[なんど]}何度{/r2}も つづくと\nレートが {r2[さ]}下{/r2}がってしまう {r2[ばあい]}場合{/r2}があります。\n{r2[つうしん]}通信{/r2}が{r2[あんてい]}安定{/r2}した{r2[じょうたい]}状態{/r2}での プレイをおすすめします。
+Text_ResultSessionDisbanded	グループが {color[ff4d2fff]}かいさん{color[000000ff]} されました。
+Text_ColectionSweet_CannotOpen	キャラおかしを もっていません。\n\nキャラおかしは ゲームをあそべば もらえます。
+Text_CollectionSweet_AskMode	ケーキを デコレーション しますか？\nキャラおかしコレクションを みますか？
+Btn_View	コレクションをみる
+Btn_Decor	デコレーションする
+Text_Retry	ゲームのさいしょから {color[ff4d2fff]}リトライ{color[000000ff]}しますか？
+Btn_Retry	リトライする
+Text_Reset	ステージを さいしょの じょうたいに\n{color[ff4d2fff]}リセット{color[000000ff]}しますか？
+Btn_Reset	リセットする
+Text_StageExitSimple	ホームテーブルへ もどりますか？\n\nもどると {r2[た]}食{/r2}べたイチゴは\nグルメランクに {color[ff4d2fff]}プラス されません。{color[000000ff]}
+Text_BackToHome	ホームテーブルへ もどりますか？
+Btn_StageExit	ホームテーブルへ もどる
+Text_BackToTitle	タイトルへ もどりますか？
+Btn_BackToTitle	タイトルへ
+Btn_PlayAgain	もういちどプレイ
+Btn_RuleChange	べつのゲームで あそぶ
+Btn_SkinChange	スキンを きせかえる
+Btn_BackToHome	ホームテーブルへ もどる
+Title_Rule	ルールせんたく
+Btn_RuleGrandPrix	グルメグランプリ
+Btn_RuleRace	シングルレース
+Btn_RuleBonusGame	シングルミニゲーム
+Btn_RuleFinalBattle	シングルバトロワ
+Btn_RuleTraining	フリーロール
+Text_ControllerErrorShortsge	{r2[せつぞく]}接続{/r2} されている\n{color[ff4d2fff]}コントローラーが１つ{color[000000ff]}しか ありません。
+Text_ControllerErrorDisconnectedP2	ホームテーブルへ もどりますか？\n\nゲームを つづけるには {color[ff4d2fff]}{r2[にんずうぶん]}人数分{/r2}のコントローラー{color[000000ff]}を\n{r2[せつぞく]}接続{/r2}する ひつようが あります。
+Btn_ConnectController	ゲームを つづける
+Btn_EndGame	ホームテーブルへ もどる
+Text_ControllerErrorDisconnectedNetwork	コントローラーの {color[ff4d2fff]}{r2[せつぞく]}接続{/r2}が きれました。\n{color[000000ff]}ホームテーブルへ もどります。
+Text_HomeCreditOrHistory	クレジットを みますか？\nかこのぼうけんを みますか？
+Btn_Credit	クレジットをみる
+Btn_History	かこのぼうけんをみる
+History.msbt
+$HistoryCloseInfoText	もどる
+ProductNameLatest1	{r2[ほし]}星{/r2}のカービィ　ディスカバリー
+ProductNameLatest2	{r2[ほし]}星{/r2}のカービィ　スターアライズ
+ProductNameLatest3	カービィファイターズ２
+ProductNameLatest4	スーパーカービィハンターズ
+ProductNameOther1	{r2[けいと]}毛糸{/r2}のカービィ プラス
+ProductNameOther2	カービィ バトルデラックス！
+ProductNameOther3	カービィのすいこみ{r2[だいさくせん]}大作戦{/r2}
+ProductNameOther4	みんなで！カービィハンターズＺ
+ProductNameOther5	{r2[ほし]}星{/r2}のカービィ　ロボボプラネット
+ProductNameOther6	タッチ！カービィ　スーパーレインボー
+ProductNameOther7	カービィファイターズＺ
+ProductNameOther8	デデデ{r2[だいおう]}大王{/r2}のデデデでデンＺ
+ProductNameOther9	{r2[ほし]}星{/r2}のカービィ　トリプルデラックス
+$HistoryTitleText	かこのぼうけん
+PlatformName1	Nintendo Switch
+PlatformName2	ニンテンドー3DS
+PlatformName3	Wii U
+ProductCommentLatest1	「{r2[ほし]}星{/r2}のカービィ」シリーズ{r2[はつ]}初{/r2}の3Dアクションです。\nカービィの{r2[あら]}新{/r2}たなチカラ「ほおばりヘンケイ」と\n「コピー{r2[のうりょくしんか]}能力進化{/r2}」を{r2[つか]}使{/r2}い、{r2[ぶんめい]}文明{/r2}と{r2[しぜん]}自然{/r2}が{r2[ゆうごう]}融合{/r2}した\n{r2[みち]}未知{/r2}なる“{r2[しんせかい]}新世界{/r2}”を{r2[ぼうけん]}冒険{/r2}します。\n{r2[ジョイコン]}Joy-Con{/r2}をおすそわけして、{r2[さいだいふたり]}最大2人{/r2}まで{r2[いっしょ]}一緒{/r2}に{r2[あそ]}遊{/r2}べます。
+ProductCommentLatest2	フレンズハートで{r2[てき]}敵{/r2}を{r2[なかま]}仲間{/r2}に！ {r2[なかまどうし]}仲間同士{/r2}の{r2[のうりょく]}能力{/r2}を\nかけあわせて{r2[く]}繰{/r2}り{r2[だ]}出{/r2}す「フレンズ{r2[のうりょく]}能力{/r2}」を{r2[つか]}使{/r2}い、\n{r2[せかい]}世界{/r2}を{r2[すく]}救{/r2}うために{r2[たたか]}戦{/r2}います。{r2[ジョイコン]}Joy-Con{/r2}をおすそわけして、\n{r2[さいだいよにん]}最大4人{/r2}まで{r2[いっしょ]}一緒{/r2}に{r2[あそ]}遊{/r2}べます。
+ProductCommentLatest3	コピー{r2[のうりょく]}能力{/r2}を{r2[えら]}選{/r2}んで{r2[さいだいよにん]}最大4人{/r2}で{r2[たたか]}戦{/r2}うアクションゲームです。\nデデデ{r2[だいおう]}大王{/r2}とメタナイトのタッグに{r2[いど]}挑{/r2}む\nストーリーモードも{r2[あそ]}遊{/r2}べます。オンラインで、\n{r2[せかいじゅう]}世界中{/r2}のプレイヤーや{r2[とも]}友{/r2}だちとも{r2[たいせんかのう]}対戦可能{/r2}です。
+ProductCommentLatest4	4つのジョブのカービィ{r2[たち]}達{/r2}が、{r2[きょうりょく]}協力{/r2}して{r2[さまざま]}様々{/r2}な\nクエストに{r2[いど]}挑{/r2}む、{r2[きほんむりょう]}基本無料{/r2}のアクションゲームです。\nひとりで{r2[あそ]}遊{/r2}べることはもちろん、オンラインプレイや、\nおすそわけプレイなど、{r2[てがる]}手軽{/r2}に{r2[ふくすうにん]}複数人{/r2}でも{r2[あそ]}遊{/r2}べます。
+ProductCommentOther1	{r2[けいと]}毛糸{/r2}の{r2[すがた]}姿{/r2}のカービィが{r2[けいと]}毛糸{/r2}ならではの\n{r2[たさい]}多彩{/r2}な{r2[わざ]}技{/r2}を{r2[つか]}使{/r2}って{r2[ぼうけん]}冒険{/r2}するアクションゲームです。\nカービィは{r2[さまざま]}様々{/r2}な{r2[すがた]}姿{/r2}に{r2[へんしん]}変身{/r2}する「メタモル{r2[のうりょく]}能力{/r2}」の{r2[ほか]}他{/r2}に、\n{r2[あたら]}新{/r2}しく「さいほう{r2[のうりょく]}能力{/r2}」が{r2[つか]}使{/r2}えるようになりました。
+ProductCommentOther2	カービィが{r2[おおぜい]}大勢{/r2}のライバルたちと{r2[たさい]}多彩{/r2}なバトルを\n{r2[く]}繰{/r2}り{r2[ひろ]}広{/r2}げる{r2[たいせん]}対戦{/r2}アクションゲームです。\n{r2[ひとり]}1人{/r2}プレイ{r2[いがい]}以外{/r2}にもインターネット・ローカル{r2[つうしん]}通信{/r2}によって\n{r2[さいだいよにん]}最大4人{/r2}での{r2[きそ]}競{/r2}い{r2[あ]}合{/r2}いを{r2[たの]}楽{/r2}しむことができます。
+ProductCommentOther3	『{r2[ほし]}星{/r2}のカービィ ロボボプラネット』の\nサブゲームが、スクロール{r2[がた]}型{/r2}3Dアクションゲームに\n{r2[う]}生{/r2}まれ{r2[か]}変{/r2}わりました。3D{r2[くうかん]}空間{/r2}を{r2[か]}駆{/r2}け{r2[まわ]}回{/r2}り、\nすってはいてで{r2[てき]}敵{/r2}を{r2[たお]}倒{/r2}しハイスコアを{r2[めざ]}目指{/r2}します。
+ProductCommentOther4	『{r2[ほし]}星{/r2}のカービィ　ロボボプラネット』の\nサブゲームに、{r2[あら]}新{/r2}たなクエスト、80{r2[しゅ]}種{/r2}を{r2[こ]}超{/r2}える「そうび」、\n{r2[きょてん]}拠点{/r2}となる「まち」など{r2[しんようそ]}新要素{/r2}を{r2[ついか]}追加{/r2}。\n{r2[よにん]}4人{/r2}で{r2[きょうりょく]}協力{/r2}プレイも{r2[たの]}楽{/r2}しめる、{r2[きほんむりょう]}基本無料{/r2}のゲームです。
+ProductCommentOther5	{r2[あく]}悪{/r2}の{r2[きぎょう]}企業{/r2}に{r2[しんりゃく]}侵略{/r2}された\n{r2[せかい]}世界{/r2}を{r2[すく]}救{/r2}うため、カービィは10{r2[しゅるいいじょう]}種類以上{/r2}に{r2[へんけい]}変形{/r2}する\n「ロボボアーマー」とともに{r2[たたか]}戦{/r2}います。\nすべての{r2[アミーボ]}amiibo{/r2}に{r2[たいおう]}対応{/r2}しています。
+ProductCommentOther6	タッチペンで{r2[えが]}描{/r2}いた{r2[にじ]}虹{/r2}のラインで\nカービィをゴールまで{r2[みちび]}導{/r2}きます。\nカービィは3{r2[しゅるい]}種類{/r2}の{r2[の]}乗{/r2}り{r2[もの]}物{/r2}に{r2[へんしん]}変身{/r2}できます。\nワドルディを{r2[そうさ]}操作{/r2}しての{r2[よにんきょうりょく]}4人協力{/r2}プレイも{r2[たの]}楽{/r2}しめます。
+ProductCommentOther7	『{r2[ほし]}星{/r2}のカービィ トリプルデラックス』の\nサブゲームに{r2[しんようそ]}新要素{/r2}を{r2[ついか]}追加{/r2}。\n10{r2[しゅるい]}種類{/r2}のコピー{r2[のうりょく]}能力{/r2}から{r2[す]}好{/r2}きなものを{r2[えら]}選{/r2}んで\n{r2[たいせん]}対戦{/r2}します。{r2[よにん]}4人{/r2}での{r2[つうしん]}通信{/r2}プレイも{r2[たの]}楽{/r2}しめます。
+ProductCommentOther8	『{r2[ほし]}星{/r2}のカービィ トリプルデラックス』の\nサブゲームに{r2[しんようそ]}新要素{/r2}を{r2[ついか]}追加{/r2}。\nリズムにあわせてデデデ{r2[だいおう]}大王{/r2}を{r2[そうさ]}操作{/r2}し、\nジャンプを{r2[つか]}使{/r2}い{r2[わ]}分{/r2}けながらゴールを{r2[めざ]}目指{/r2}します。
+ProductCommentOther9	{r2[よこほうこう]}横方向{/r2}だけでなく、\nステージの{r2[てまえ]}手前{/r2}と{r2[おく]}奥{/r2}の{r2[い]}行{/r2}き{r2[き]}来{/r2}が{r2[かのう]}可能{/r2}なのが{r2[とくちょう]}特徴{/r2}。\n25{r2[しゅるい]}種類{/r2}のコピー{r2[のうりょく]}能力{/r2}のほかに、\n「ビッグバンすいこみ」で{r2[はくりょく]}迫力{/r2}のある{r2[あそ]}遊{/r2}びが{r2[たの]}楽{/r2}しめます。
+Home.msbt
+FacilityName_BattleMenu	メインメニュー
+FacilityName_CollectionSkin	きせかえスキン
+FacilityName_CollectionSweet	キャラおかしコレクション
+FacilityName_TrainingMode	フリーロール
+FacilityName_Reward	ごほうびメニュー
+Tips_RollingSpeed	ひとくちメモ：イチゴを たべて {r2[おお]}大{/r2}きくなるほど、カービィの ころがる スピードが あがります。
+Tips_HoverTime	ひとくちメモ：イチゴを たべて {r2[おお]}大{/r2}きくなるほど、カービィの ホバリングできる じかんが みじかくなります。
+Tips_Slipstream	ひとくちメモ：ころがる あいての うしろを はしると、すこしだけ おいぬくスピードが あがります。
+Tips_Training0	ひとくちメモ：「フリーロール」では れんしゅうしたり かけっこしたり、そこでは じゆうに あそべます！
+Tips_Training1	ひとくちメモ：「フリーロール」では おくの {r2[やま]}山{/r2}もりイチゴを たべると ゲームしゅうりょうに なります。
+Tips_Training2	ひとくちメモ：「フリーロール」は とおくの ともだちと あいことばマッチで あそべます。 オンラインでも じゆうに フリーロール！
+Tips_Training3	ひとくちメモ：「フリーロール」には かくされた カービィの かこのゲームの メインビジュアルクッキーが ４まい あります。さがしてみよう！
+Tips_GrandPrix	ひとくちメモ：「グルメグランプリ」では 1ゲームで レース、ミニゲーム、バトルロイヤルで あそべ、キャラおかしも ゲットできます！
+Tips_CopyFood	ひとくちメモ：コピーフードのうりょくを ゲットできる たべものは「コピーフード」。{r2[はい]}入{/r2}っている ハコは「フードボックス」と いいます。
+Tips_Wheel0	ひとくちメモ：「ホイール」は はつどう{r2[ご]}後{/r2} ふたたび {[040a|6100]}を おしながら まがると、カーブをえがく、ドリフトができます！
+Tips_Wheel1	ひとくちメモ：「ホイール」で {[040a|6100]}を おしながら まがると ドリフトに。 ながく ドリフトをつづけると ドリフトターボが はっせいします！
+Tips_Stone0	ひとくちメモ：「ストーン」で {[040a|6100]}を おしつづけて はなてば、こうげきはんいがアップ！ はつどうは おくれるので つかいどころは ようちゅうい。
+Tips_Drill0	ひとくちメモ：「ドリル」では ぐるりと まるを えがけば、グラウンドーン！ くらった ライバルは くるくる {r2[め]}目{/r2}をまわします。
+Tips_HiJump0	ひとくちメモ：「ハイジャンプ」では {[040a|6100]}を {r2[なが]}長{/r2}おし して {[041e|f100]}を うごかせば、すこしだけ ちゃくち ばしょを ちょうせい できます。
+Tips_Burning0	ひとくちメモ：「バーニング」は はつどう{r2[ちゅう]}中{/r2}に ふたたび {[040a|6100]}を おせば、バーニングターボが はっせい！ れんぞくで はつどうできます。
+Tips_Needle0	ひとくちメモ：「ニードル」では はつどう{r2[ちゅう]}中{/r2}に {[040a|6100]}{r2[なが]}長{/r2}おしで、すばやく とつげきできる ラッシュニードルが はつどう！
+Tips_Tornado0	ひとくちメモ：「トルネイド」で はつどう{r2[ちゅう]}中{/r2}に ふたたび {[040a|6100]}を おせば、はんいが ひろがる しゅんかんさいだいふうそくを はなてます！
+Tips_Jelly0	ひとくちメモ：「ゼリー」の ときに {[040a|6100]}で ライバルの しょうがいぶつになる、おじゃまな くっつくゼリーを うみおとします。
+Tips_Jelly1	ひとくちメモ：「ゼリー」の ときに {[040a|6100]}で{r2[で]}出{/r2}る くっつくゼリーは、{r2[だ]}出{/r2}すほどに ゼリーのうりょくで いられる じかんが みじかくなります。
+Tips_HomeTable	ひとくちメモ：ゲームを はじめる パーティかいじょうに ある テーブルの なまえは、「ホームテーブル」と いいます。 とっても フェスティバルな かざりつけです！
+Tips_DreamFork	ひとくちメモ：カービィを {r2[ちい]}小{/r2}さくしてしまった、ゆめを かなえる あのフォークは「ドリームフォーク」という なまえだとか。
+Tips_RewardListBgm	ひとくちメモ：「ごほうびメニュー」で えらんだBGMは、「ホームテーブル」や ホームみぎがわに ある「フリーロール」でも ながれます。
+Tips_DreamRestaurant	ひとくちメモ：このフェスの かいじょうの なまえは「ドリームレストラン」。 このテーブルは「ホームテーブル」と いいます。
+Tips_MountainCake	ひとくちメモ：「ドリームフォーク」の {r2[ちから]}力{/r2}で {r2[ちい]}小{/r2}さくなった カービィ。 {r2[やま]}山{/r2}のような ケーキが たべたいという ゆめが かなったの だとか。
+Tips_IcePop	ひとくちメモ：「アイスキャンディー」の{r2[うえ]}上{/r2}は ツルツル。 だけど ゼリーになれば、ちょっと かいてきに すすめます。
+Tips_FinalBattle	ひとくちメモ：「バトルロイヤル」に あらわれる カービィをねらう トングは、{r2[おお]}大{/r2}きなカービィに みりょくを かんじる ようです。
+Tips_ServerHand	ひとくちメモ： コースなどに あらわれる あの ナゾの「{r2[て]}手{/r2}」は、「ウェイターハンド」という なまえだとか。
+Tips_CollectionSkin	ひとくちメモ：「きせかえスキン」では 「カラー」とあわせて そのキャラクターに なりきることも。 みんなに じまん しちゃおう！
+Tips_BonusFruit	ひとくちメモ：コースにある ブルーベリー、ラスベリー、チェリーは たべると けっかはっぴょうの ボーナスに えいきょうします。
+Tips_LoseStrawberry	ひとくちメモ：{[0420|f300]}を おしこめば、カメラを ズームできます。 スクリーンショットの さつえいにも オススメです。
+Tips_AddedTipes00	ひとくちメモ：{[0419|a000]}を どれか おせば、エモートで カンタンな コミュニケーションが とれます。
+Tips_AddedTipes01	ひとくちメモ：オンラインや ローカルつうしん{r2[ちゅう]}中{/r2}、{[0419|a000]}を おせば、４つの ていけい{r2[ぶん]}文{/r2}を おくれます。
+Tips_AddedTipes02	ひとくちメモ：ゲーム{r2[ちゅう]}中{/r2} リザルトなどでも、{[0419|a000]}を おせば、エモートで カービィが アピールして くれます！
+Tips_AddedTipes03	ひとくちメモ：ケーキの いちばん{r2[うえ]}上{/r2}に デコレーションされた おかしは、レースのスタートちてん にも おかれます。
+Tips_AddedTipes04	ひとくちメモ：レースで よく みかける ヒビのはいる クッキーのカベは、「ゼリー」の じょうたいなら スルリと つうか できちゃいます！
+Tips_AddedTipes05	ひとくちメモ：「キャラおかし」は なんと ぜんぶで２５６コ！ あつめた キャラおかしは「フリーロール」にも かざられて いきます。
+Tips_AddedTipes06	ひとくちメモ：「フリーロール」は じゆうな あそびば。 なので、イチゴを たべても グルメランクに えいきょう しません。
+Tips_AddedTipes07	ひとくちメモ：オンラインで みんなと あそんだほうが、グルメランクが あがりやすく なっています。
+Tips_AddedTipes08	ひとくちメモ：「ゲキカラ」など、{r2[たか]}高{/r2}い CPレベルは てごわいですが、グルメランクに ボーナスがつきます。 「ふつう」などで、れんしゅうしてから いどもう！
+Tips_AddedTipes09	ひとくちメモ：「{r2[ほし]}星{/r2}のカービィ　ディスカバリー」や「カービィファイターズ２」などを プレイされた かたに、それぞれ ３{r2[きょく]}曲{/r2}の レースBGMを プレゼント！
+Tips_AddedTipes10	ひとくちメモ：「{r2[ほし]}星{/r2}のカービィ　スターアライズ」や「スーパーカービィハンターズ」などを プレイされた かたに、それぞれ ３{r2[きょく]}曲{/r2}の レースBGMを プレゼント！
+Tips_AddedTipes11	ひとくちメモ：「キャラおかしコレクション」で コレクションを みるとき、まわして うらがわも みられます。 きんたろうアメ だけは うらも おんなじデザイン！
+Tips_AddedTipes12	ひとくちメモ：「キャラおかしコレクション」で コレクションを みるとき {[0420|f300]}を おしこめば、ひそかに ズームが できますよ。
+Tips_AddedTipes13	ひとくちメモ：オンラインいがいで、{[0403|0300]}を おしながら グランプリや シングルレースを かいしすれば、ごほうびメニューで せんたく されていたレースBGMが ながれます。
+Tips_AddedTipes14	ひとくちメモ：なかなか かてない ときは、CPレベルを 「あまい」や「ふつう」にして れんしゅうしよう。 グルメポイントも ちゃんと もらえますよ！
+Tips_AddedTipes15	ひとくちメモ：「キャラおかし」は グルメグランプリ、シングルレース、シングルバトロワを あそべば かならず もらえます。 グランプリのみ、CPレベル 「カラい」いじょうで あそべば ２まい ゲットできます！
+Tips_AddedTipes16	ひとくちメモ：オンラインの グルメグランプリで １{r2[い]}位{/r2}になれば、「キャラおかし」を もう１まい ゲットできます。 ２まい いじょうの ときは かならず １まいは ダブらない ようです。
+Lobby.msbt
+$LobbyMatching	マッチング{r2[ちゅう]}中{/r2}
+$LobbyMatchingDone	マッチング{r2[かんりょう]}完了{/r2}
+$LobbyMainQuit	ロビーをぬける
+Pause.msbt
+ContinueBtnText	つづける
+RetryBtnText	リトライする
+ResetBtnText	リセットする
+BackBtnText_ToHome	ホームテーブルへ もどる
+BackBtnText_ToTitle	タイトルへ
+HowToBtnText	ゲームせつめい
+Resident.msbt
+$Saving	セーブ{r2[ちゅう]}中{/r2}
+Result.msbt
+$ResultText	けっかはっぴょう
+ResultRankText_00	{r2[ゆうしょう]}優勝{/r2}!
+ResultRankText_01	2{r2[い]}位{/r2}{size[3200]} {size[6400]}
+ResultRankText_02	3{r2[い]}位{/r2}{size[3200]} {size[6400]}
+ResultRankText_03	4{r2[い]}位{/r2}{size[3200]} {size[6400]}
+ResultKeepWiningText	{[0301|0000]}{size[4b00]}{r2[れんしょう]}連勝{/r2}{size[6400]}
+ResultBonusText_Online	オンラインボーナス
+ResultBonusText_DifficultyLevelHard	カラいボーナス
+ResultBonusText_DifficultyLevelVeryHard	ゲキカラボーナス
+ResultBonusText_GrandPrix	グランプリボーナス
+ResultOnlineBonus_NumText	× {[0302|0000]}
+$RewardGetTodaysSweetRuby	き　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　               
+$RewardGetTodaysSweet	気まぐれ キャラおかしボーナス
+AnnounceText_Victory	{r2[ゆうしょう]}優勝{/r2}は…
+BonusName_EatScoreFoodInBonusRule	いちばん ミニゲームでイチゴを {r2[た]}食{/r2}べた
+BonusName_EatScoreFoodInRaceRule	いちばん レースでイチゴを {r2[た]}食{/r2}べた
+BonusName_EatStrawberry5	いちばん レースで５コイチゴを {r2[た]}食{/r2}べた
+BonusName_EatBonusFruit_Blueberry	いちばん ブルーベリーを {r2[た]}食{/r2}べた
+BonusName_EatBonusFruit_Cherry	いちばん チェリーを {r2[た]}食{/r2}べた
+BonusName_EatBonusFruit_Raspberry	いちばん ラズベリーを {r2[た]}食{/r2}べた
+BonusName_DamageBreakableBlock	いちばん こわせるクッキーに {r2[あ]}当{/r2}たった
+BonusName_UseCopyAbility	いちばん コピーフード{r2[のうりょく]}能力{/r2}を {r2[つか]}使{/r2}った
+BonusName_DefeatEnemy	いちばん てきキャラを たおした
+BonusName_UseHoverTime	いちばん ホバリングを おこなった
+$LayoutResultBonusPointPlus	+
+$ResultBonusPointPlayerNone	がいとう なし
+RewardGet_GetText	{[030b]}\n{color[ff4d2fff]}{[030a]} {color[000000ff]}を\n{r2[て]}手{/r2}にいれた！
+RewardGet_GetStageText_Bonus	ステージ\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nミニゲームで あそべるように なりました！
+RewardGet_GetStageText_Race	ステージ\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nレースで あそべるように なりました！
+RewardGet_GetStageText_Final	ステージ\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nバトロワで あそべるように なりました！
+RewardGet_GetSoundText_Race	レースBGM\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nレースで ながれるように なりました！
+RewardGet_SpecialRewardText_PlayedDiscovery_0	{color[ff4d2fff]}『{r2[ほし]}星{/r2}のカービィ　ディスカバリー』{color[000000ff]}を\nあそんでくれて ありがとう！
+RewardGet_SpecialRewardText_PlayedDiscovery_1	プレイ{r2[とくてん]}特典{/r2}として\n{color[ff4d2fff]}『{r2[ほし]}星{/r2}のカービィ　ディスカバリー』{color[000000ff]}の {color[ff4d2fff]}BGM ３{r2[きょく]}曲{/r2}が、\n{color[000000ff]}{r2[あら]}新{/r2}たに レースで ながれるように なりました！
+RewardGet_SpecialRewardText_PlayedStarAllies_0	{color[ff4d2fff]}『{r2[ほし]}星{/r2}のカービィ　スターアライズ』{color[000000ff]}を\nあそんでくれて ありがとう！
+RewardGet_SpecialRewardText_PlayedStarAllies_1	プレイ{r2[とくてん]}特典{/r2}として\n{color[ff4d2fff]}『{r2[ほし]}星{/r2}のカービィ　スターアライズ』{color[000000ff]}の {color[ff4d2fff]}BGM ３{r2[きょく]}曲{/r2}が、\n{color[000000ff]}{r2[あら]}新{/r2}たに レースで ながれるように なりました！
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_0	{color[ff4d2fff]}『カービィファイターズ２』{color[000000ff]}を\nあそんでくれて ありがとう！
+RewardGet_SpecialRewardText_PlayedKirbyFighters2_1	プレイ{r2[とくてん]}特典{/r2}として\n{color[ff4d2fff]}『カービィファイターズ２』{color[000000ff]}の {color[ff4d2fff]}BGM ３{r2[きょく]}曲{/r2}が、\n{color[000000ff]}{r2[あら]}新{/r2}たに レースで ながれるように なりました！
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_0	{color[ff4d2fff]}『スーパーカービィハンターズ』{color[000000ff]}を\nあそんでくれて ありがとう！
+RewardGet_SpecialRewardText_PlayedSuperKirbyHunters_1	プレイ{r2[とくてん]}特典{/r2}として\n{color[ff4d2fff]}『スーパーカービィハンターズ』{color[000000ff]}の {color[ff4d2fff]}BGM ３{r2[きょく]}曲{/r2}が、\n{color[000000ff]}{r2[あら]}新{/r2}たに レースで ながれるように なりました！
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_0	キャラおかしコレクションを\nコンプリートしました！
+RewardGet_SpecialRewardText_CompleteAllCollectionSweet_1	ごほうびとして BGM\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nキャラおかしコレクションで ながれるように なりました！
+RewardGet_SpecialRewardText_HitMaxGourmetRank_0	グルメランクが MAXに なりました！
+RewardGet_SpecialRewardText_HitMaxGourmetRank_1	ごほうびとして BGM\n{color[ff4d2fff]}{[030a]} {color[000000ff]}が\nホームテーブルで ながれるように なりました！
+RewardList.msbt
+Category_Unrevealed	???
+Name_Unrevealed	???
+Description	グルメランク {[0301|0000]} で\nかいほう される！
+$RewardListTitle	ごほうびメニュー
+Step.msbt
+$StepStageTodayMenuRuby	ほんじつ              　 　　   　　 　        　　　　　 
+StepStageTodayMenuRuby_Single	ほんじつ                                       
+$StepStageTodayMenu	本日のコースメニュー
+StepStageTodayMenu_Single	本日のメニュー
+$TodayMainDish	メインディッシュ
+$StepStageRule	ルール
+StepStageRuleText_DecisiveBattle	メインディッシュ\nグルメ・バトルロイヤル！
+StepStageRuleText_GoalFruit	{r2[やま]}山{/r2}もりイチゴを めざそう
+StepStageRuleText_DropScoreItem	ふってくる イチゴを {r2[た]}食{/r2}べよう
+StepStageRuleText_TeaCupItem	カップインして イチゴを {r2[た]}食{/r2}べよう
+StepStageRuleText_BattleEnemy	てきを たおして イチゴを {r2[た]}食{/r2}べよう
+StepStageRuleText_BreakBox	ハコを こわして イチゴを {r2[た]}食{/r2}べよう
+$StepScaleMaterSizeUp	サイズUP
+$StepScaleMaterSizeUpMax	MAXサイズ！
+StepHowToPlayText_00	{r2[た]}食{/r2}べて ころがり ビッグになろう！
+StepHowToPlayTextSub_00	ビッグなほど はやく ころがれる。{r2[いちばん]}一番{/r2} ビッグなら、{r2[ゆうしょう]}優勝{/r2}！
+StepHowToPlayText_01	{r2[お]}落{/r2}ちても {[0400|0000]}で {r2[と]}飛{/r2}んで もどれる
+StepHowToPlayTextSub_01	{r2[ちい]}小{/r2}さいほど、ホバリングで {r2[なが]}長{/r2}～く {r2[と]}飛{/r2}べて ゆうりです
+StepHowToPlayText_02	ゴールの イチゴは {r2[ひとりひとさら]}１人１皿{/r2}まで！
+StepHowToPlayTextSub_02	グランプリでは、{r2[さんにん]}３人{/r2} {r2[た]}食{/r2}べきったら {r2[つぎ]}次{/r2}のゲームへ すすむ
+StepHowToPlayText_03	コピーフードを {[040a|6100]}で{r2[つか]}使{/r2}って {r2[だい]}大{/r2}ぎゃくてん！
+StepHowToPlayTextSub_03	ビッグな ライバルを {r2[いっき]}一気{/r2}に {r2[お]}落{/r2}として、イチゴを うばっちゃえ！
+$StepStartSignGoText	LET'S EAT！
+TimeupText_Finish	ごちそうさま
+$StepKillLogText	を おとした
+$StepKillLogPlus	+
+$StepKillerInfoText	に おとされた
+$StepAchievementMinus	-
+$StepDropoutRouletteStart	ルーレット
+$MainTrainingBaseReset	{r2[た]}食{/r2}べたイチゴリセット
+$MainTrainingGuideText	‐{r2[やま]}山{/r2}もりイチゴを {r2[た]}食{/r2}べたら ゲーム{r2[しゅうりょう]}終了{/r2}‐
+TitleMenu.msbt
+$TiteleMenuBtn	PRESS {[0400|0000]} BUTTON
+$TitleMenuCopyright	©HAL Laboratory, Inc. / Nintendo
+Version	Ver. {[0301|0000]}.{[0301|0100]}.{[0301|0200]}
+$TitleDeleteSaveDataGuide	セーブデータをけす
+Name\AbilityName.msbt
+Burning	バーニング
+Needle	ニードル
+Stone	ストーン
+Drill	ドリル
+Tornado	トルネイド
+Jelly	ゼリー
+HiJump	ハイジャンプ
+Wheel	ホイール
+InvincibleCandy	むてきキャンディー
+Name\CollectionCategoryName.msbt
+Collection_Category_Sweet	キャラおかし
+Collection_Category_Skin	スキン
+Collection_Category_Color	カラー
+Collection_Category_Sound_Home	ホームBGM
+Collection_Category_Sound_Race	レースBGM
+Collection_Category_Sound_Menu	メニューBGM
+Collection_Category_Stage_Race	レース
+Collection_Category_Stage_Bonus	ミニゲーム
+Collection_Category_Stage_Final	バトロワ
+Name\ColorName.msbt
+Collection_Color_BasicPink	カービィピンク
+Collection_Color_BasicYellow	キービィイエロー
+Collection_Color_BasicBlue	アイスブルー
+Collection_Color_BasicGreen	くさもちグリーン
+Collection_Color_BasicRed	ファイアレッド
+Collection_Color_Cherry	チェリー
+Collection_Color_Chocolate	チョコレート
+Collection_Color_Chocomint	チョコミント
+Collection_Color_Citrus	シトラス
+Collection_Color_Grape	グレープ
+Collection_Color_Orange	オレンジ
+Collection_Color_Pumpkin	パンプキン
+Collection_Color_Strawberry	ストロベリー
+Collection_Color_Waddledee	ディオレンジ
+Collection_Color_Dedede	デデデブルー
+Collection_Color_Metaknight	メタネイビー
+Collection_Color_Kawasaki	カワサキサンセット
+Collection_Color_Marx	マルクライラック
+Collection_Color_Gooey	グーイコバルト
+Collection_Color_Chuchu	チュチュピンクローズ
+Collection_Color_Adeleine	アドペールオレンジ
+Collection_Color_Daroach	ドロッチェマウス
+Collection_Color_Magolor	マホローアンバー
+Collection_Color_Taranza	タランザマロン
+Collection_Color_Susie	スージーピンクホワイト
+Collection_Color_Francisca	キッスウィンター
+Collection_Color_Flamberge	ルージュスカーレット
+Collection_Color_Zan	パルルゴールドスパーク
+Collection_Color_Elfilin	エフィリンピーコック
+Collection_Color_Morphoknight	バルフレイグレイ
+Collection_Color_Burger	バーガーブラウン
+Collection_Color_Waddledoo	ドゥケチャップ
+Collection_Color_Retro	レトロトーン
+Collection_Color_Shadow	シャドー
+Collection_Color_Carmouth	ドライブスカイ
+Collection_Color_Coo	クーパープル
+Collection_Color_Kine	カインアクア
+Collection_Color_Pudding	プリン
+Collection_Color_Rick	リッククリーム
+Collection_Color_Kiwi	キウイ
+Name\DifficultyName.msbt
+Easy	あまい
+Normal	ふつう
+Hard	カラい
+VeryHard	ゲキカラ
+Name\ItemName.msbt
+Strawberry3	{size[6400]}３コイチゴ{size[6400]}
+Strawberry5	{size[6400]}５コイチゴ{size[6400]}
+Strawberry10	{size[6400]}１０コイチゴ{size[6400]}
+Name\PlayerName.msbt
+Mob_0	わどのすけ
+Mob_1	わどこさん
+Mob_2	わどわどぅ
+Mob_3	わどるりん
+Mob_4	わどぼうる
+Mob_5	わどわどさん
+Mob_6	ばんだなでぃ
+Mob_7	わどるしあ
+Mob_8	わどろあ
+Mob_9	わどびぃ
+Mob_10	わどないと
+Mob_11	わどどだいおう
+Guest_0	ゲスト
+Cp_0	CP1
+Cp_1	CP2
+Cp_2	CP3
+Bot_0	ピンクだま
+Bot_1	ピンクボーラー
+Bot_2	ずんぐりボウル
+Bot_3	ずんぐりだま
+Bot_4	カービィちゃん
+Bot_5	カービィさん
+Bot_6	ももだまはっしん
+Bot_7	ももいろアーマー
+Bot_8	まんまるヒーロー
+Bot_9	ほしのヒーロー
+Bot_10	マキシム１ごう
+Bot_11	マキシム８６ごう
+Bot_12	げんきドリンカー
+Bot_13	げんきかいふく
+Bot_14	むてキャン
+Bot_15	ぺろぺろん
+Bot_16	１UPゲット
+Bot_17	ざんきなっしんぐ
+Bot_18	ポイントスターズ
+Bot_19	ピンクスターズ
+Bot_20	きらきらのほし
+Bot_21	きらめきぼし
+Bot_22	スターロッドづかい
+Bot_23	ナイトメアキラー
+Bot_24	にじのしまリゾート
+Bot_25	レインボーソード
+Bot_26	はるかぜにふかれて
+Bot_27	グルメフェスレーサー
+Bot_28	おともとしもべ
+Bot_29	アニマルフレンズ
+Bot_30	リップルじん
+Bot_31	こうじょうだいさくせん
+Bot_32	カービィでゴー
+Bot_33	たつまきみたいさ
+Bot_34	テレフォンマン
+Bot_35	ミラージュナイト
+Bot_36	デデデソウル
+Bot_37	マスクドマルク
+Bot_38	しはいシテアゲルひと
+Bot_39	イカサマたまご
+Bot_40	タランザ＆ジョロニア
+Bot_41	てんくうのたみ
+Bot_42	ファミリアさん
+Bot_43	いだいなハルトマン
+Bot_44	ハートフルフレンズ
+Bot_45	ザンパルルなんとか
+Bot_46	NEICHEL
+Bot_47	しんせかいアニマルズ
+Bot_48	タロロン
+Bot_49	ジロジロ
+Bot_50	サブちゃん
+Bot_51	シローウ
+Bot_52	アンちゃん
+Bot_53	イェッタ
+Bot_54	ウィズダム
+Bot_55	エイミー
+Bot_56	オットー
+Bot_57	カイザー
+Bot_58	キッド
+Bot_59	クック
+Bot_60	ケイティ
+Bot_61	コルスタッド
+Bot_62	サミュエル
+Bot_63	シルヴァリア
+Bot_64	スザンナ
+Bot_65	セバスチャン
+Bot_66	ソフィー
+Bot_67	タイラー
+Bot_68	チェルシー
+Bot_69	ツリーズ
+Bot_70	ティーナ
+Bot_71	トムソン
+Bot_72	にゃおこ
+Bot_73	ニキータ
+Bot_74	ヌルメラ
+Bot_75	ネローニ
+Bot_76	ノーディン
+Bot_77	ハインリックス
+Bot_78	ヒュードル
+Bot_79	ファウザー
+Bot_80	ヘアリッヒ
+Bot_81	ホプキンソン
+Bot_82	マギー
+Bot_83	ミッチェル
+Bot_84	ムーア
+Bot_85	メラニー
+Bot_86	モニカ
+Bot_87	ヤニス
+Bot_88	ユリアン
+Bot_89	ヨハン
+Bot_90	ライオネル
+Bot_91	リカルド
+Bot_92	ルイーザ
+Bot_93	レオン
+Bot_94	ロクサーヌ
+Bot_95	ワイズ
+Bot_96	スプリンガー
+Bot_97	サマーマン
+Bot_98	ふぉーるん
+Bot_99	ウィンティア
+Bot_100	デデデデデン
+Bot_101	ロロララン
+Bot_102	オオクラッコ
+Bot_103	ブライトはどっち
+Bot_104	ローリング
+Bot_105	がんそヘビー
+Bot_106	メタジェネラル
+Bot_107	アイストカゲ
+Bot_108	ちょとつもうしん
+Bot_109	ホワイトマター
+Bot_110	マスクドウィスピー
+Bot_111	しろきつばさ
+Bot_112	ワムバムパンチ
+Bot_113	にだいめヘビー
+Bot_114	ヘイヘイヘーイ
+Bot_115	ぽんコン
+Bot_116	アドちゃん
+Bot_117	ゼロワン
+Bot_118	おなかのめだま
+Bot_119	ようがんじん
+Bot_120	カラフルピクス
+Bot_121	さんだいめヘビー
+Bot_122	てんしのばんそうこう
+Bot_123	ナイトメアーズ
+Bot_124	メタゴー
+Bot_125	エレファン
+Bot_126	ピッグ
+Bot_127	タイタンのうで
+Bot_128	ハテナハテナ
+Bot_129	バタバタファイア
+Bot_130	ガブリストーン
+Bot_131	ドロシアン
+Bot_132	えのぐのソウル
+Bot_133	ケタケタ
+Bot_134	なもなきかいが
+Bot_135	どろちゅ〜
+Bot_136	おなかのひみつ
+Bot_137	ケーキをもとめて
+Bot_138	ネビュラ
+Bot_139	ぎんがさいきょう
+Bot_140	ワムバムのほうせき
+Bot_141	まさかのカブーラー
+Bot_142	だんまつソウル
+Bot_143	やさしいマホロア
+Bot_144	かわいいマホロア
+Bot_145	しんせつなマホロア
+Bot_146	おちゃめなマホロア
+Bot_147	カンシャするヨォ
+Bot_148	ウェイタークラウン
+Bot_149	コランディアーズ
+Bot_150	まぐろソード
+Bot_151	タランザのおもい
+Bot_152	ワールドフワラー
+Bot_153	きょうかすいげつ
+Bot_154	きせきのみ４つ
+Bot_155	ラストランド
+Bot_156	もっとチャレンジ
+Bot_157	カービィヒストリー
+Bot_158	ココロプラネット
+Bot_159	NEWリレインバー
+Bot_160	86おくハルトマニー
+Bot_161	ほしのゆめのゆめ
+Bot_162	にゃお〜〜ん
+Bot_163	さんまかんず
+Bot_164	シェイキングソーダ
+Bot_165	バーベキュー
+Bot_166	カミナリオコシ
+Bot_167	ジャマハローア
+Bot_168	ジャマサラーバ
+Bot_169	にるににる
+Bot_170	キャロル
+Bot_171	レオンがるふ
+Bot_172	バタフライ
+Bot_173	あれ
+Bot_174	F88
+Bot_175	サイコメトラー
+Bot_176	バンワドのぼうけん
+Bot_177	ハートいろのくるま
+Bot_178	ニャォン、オォン
+Bot_179	NEW WORLD
+Name\SeriesName.msbt
+Series0	{r2[ほし]}星{/r2}のカービィ
+Series1	{r2[ほし]}星{/r2}のカービィ {r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}の{r2[ものがたり]}物語{/r2}
+Series2	カービィのピンボール
+Series3	カービィボウル
+Series4	{r2[ほし]}星{/r2}のカービィ２
+Series5	カービィのブロックボール
+Series6	{r2[ほし]}星{/r2}のカービィ スーパーデラックス
+Series7	カービィのきらきらきっず
+Series8	{r2[ほし]}星{/r2}のカービィ３
+Series9	カービィのきらきらきっず(SFC)
+Series10	{r2[ほし]}星{/r2}のカービィ64
+Series11	コロコロカービィ
+Series12	{r2[ほし]}星{/r2}のカービィ {r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}デラックス
+Series13	カービィのエアライド
+Series14	{r2[ほし]}星{/r2}のカービィ {r2[かがみ]}鏡{/r2}の{r2[だいめいきゅう]}大迷宮{/r2}
+Series15	タッチ！カービィ
+Series16	{r2[ほし]}星{/r2}のカービィ {r2[さんじょう]}参上{/r2}！ドロッチェ{r2[だん]}団{/r2}
+Series17	{r2[ほし]}星{/r2}のカービィ ウルトラスーパーデラックス
+Series18	{r2[けいと]}毛糸{/r2}のカービィ
+Series19	あつめて！カービィ
+Series20	{r2[ほし]}星{/r2}のカービィ Wii
+Series21	{r2[ほし]}星{/r2}のカービィ 20{r2[しゅうねん]}周年{/r2}スペシャルコレクション
+Series22	{r2[ほし]}星{/r2}のカービィ　トリプルデラックス
+Series23	カービィファイターズＺ
+Series24	デデデ{r2[だいおう]}大王{/r2}のデデデでデンＺ
+Series25	タッチ！カービィ　スーパーレインボー
+Series26	{r2[ほし]}星{/r2}のカービィ　ロボボプラネット
+Series27	みんなで！カービィハンターズＺ
+Series28	カービィのすいこみ{r2[だいさくせん]}大作戦{/r2}
+Series29	カービィ バトルデラックス！
+Series30	{r2[ほし]}星{/r2}のカービィ　スターアライズ
+Series31	{r2[けいと]}毛糸{/r2}のカービィ プラス
+Series32	スーパーカービィハンターズ
+Series33	カービィファイターズ２
+Series34	{r2[ほし]}星{/r2}のカービィ　ディスカバリー
+Series35	Kirby 30th Music Fest
+Series36	Kirby Café
+Series37	Kirby 30th Anniversary
+Name\SkinName.msbt
+Collection_Skin_None	すっぴん
+Collection_Skin_WaddleDee	バンダナワドルディ
+Collection_Skin_Dedede	デデデ{r2[だいおう]}大王{/r2}
+Collection_Skin_Metaknight	メタナイト
+Collection_Skin_Kawasaki	コックカワサキ
+Collection_Skin_Marx	マルク
+Collection_Skin_Gooey	グーイ
+Collection_Skin_Chuchu	チュチュ
+Collection_Skin_Adeleine	アドレーヌ＆リボン
+Collection_Skin_Daroach	ドロッチェ
+Collection_Skin_Magolor	マホロア
+Collection_Skin_Taranza	タランザ
+Collection_Skin_Susie	{r2[ひしょ]}秘書{/r2}スージー
+Collection_Skin_Francisca	フラン・キッス
+Collection_Skin_Flamberge	フラン・ルージュ
+Collection_Skin_Zan	ザン・パルルティザーヌ
+Collection_Skin_Elfilin	エフィリン
+Collection_Skin_MorphoKnight	バルフレイナイト
+Collection_Skin_Burger	カービィバーガー
+Collection_Skin_WaddleDoo	ワドルドゥ
+Collection_Skin_Cream	ホイップクリーム
+Collection_Skin_Kine	カイン
+Collection_Skin_CarMouth	くるまほおばりケーキ
+Collection_Skin_Coo	クー
+Collection_Skin_Rick	リック
+Name\SoundName.msbt
+Collection_Sound_Home	Kirby's Gourmet Fest
+Collection_Sound_RewardRace0	I'm Hungry Pinker Ball!
+Collection_Sound_RewardRace1	Youth Athletic Meet!
+Collection_Sound_RewardRace2	Colorful Cute Candies
+Collection_Sound_RewardRace3	Fun Drive with You
+Collection_Sound_RewardRace4	Caramel Country Western
+Collection_Sound_RewardRace5	Jazz Band of Four Balls
+Collection_Sound_RewardRace6	Winter Days Route 8
+Collection_Sound_RewardRace7	Love Love Alivel
+Collection_Sound_RewardRace8	Seven-Colored Sky
+Collection_Sound_RewardRace9	Dance with Painting Witch
+Collection_Sound_RewardRace10	Revenge of Steel Wings
+Collection_Sound_RewardRace11	Flying in the Clouds
+Collection_Sound_RewardRace12	Colorful Pinball
+Collection_Sound_RewardRace13	Polka Dot Cityscape
+Collection_Sound_RewardRace14	Tonight's Light Up Show
+Collection_Sound_RewardRace15	I'm Hungry Pinker Ball! Ver. 2
+Collection_Sound_MemorialTrack0	{r2[ほし]}星{/r2}のカービィ：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack1	{r2[ほし]}星{/r2}のカービィ：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack2	{r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}の{r2[ものがたり]}物語{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack3	{r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}の{r2[ものがたり]}物語{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack4	カービィのピンボール：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack5	カービィのピンボール：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack6	カービィボウル：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack7	カービィボウル：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack8	{r2[ほし]}星{/r2}のカービィ２：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack9	{r2[ほし]}星{/r2}のカービィ２：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack10	カービィのブロックボール：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack11	カービィのブロックボール：メモリアル{r2[かっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack12	スーパーデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack13	スーパーデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack14	スーパーデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 3
+Collection_Sound_MemorialTrack15	{r2[ほし]}星{/r2}のカービィ３：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack16	{r2[ほし]}星{/r2}のカービィ３：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack17	{r2[ほし]}星{/r2}のカービィ64：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack18	{r2[ほし]}星{/r2}のカービィ64：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack19	コロコロカービィ：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack20	コロコロカービィ：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack21	{r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}デラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack22	{r2[ゆめ]}夢{/r2}の{r2[いずみ]}泉{/r2}デラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack23	カービィのエアライド：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack24	カービィのエアライド：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack25	カービィのエアライド：メモリアル{r2[がっきょく]}楽曲{/r2} 3
+Collection_Sound_MemorialTrack26	{r2[かがみ]}鏡{/r2}の{r2[だいめいきゅう]}大迷宮{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack27	{r2[かがみ]}鏡{/r2}の{r2[だいめいきゅう]}大迷宮{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack28	{r2[さんじょう]}参上{/r2}！ドロッチェ{r2[だん]}団{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack29	{r2[さんじょう]}参上{/r2}！ドロッチェ{r2[だん]}団{/r2}：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack30	ウルトラスーパーデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack31	ウルトラスーパーデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack32	{r2[ほし]}星{/r2}のカービィ Wii：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack33	{r2[ほし]}星{/r2}のカービィ Wii：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack34	{r2[ほし]}星{/r2}のカービィ Wii：メモリアル{r2[がっきょく]}楽曲{/r2} 3
+Collection_Sound_MemorialTrack35	20{r2[しゅうねん]}周年{/r2}スペシャルコレクション：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack36	20{r2[しゅうねん]}周年{/r2}スペシャルコレクション：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack37	トリプルデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack38	トリプルデラックス：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack39	ロボボプラネット：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack40	ロボボプラネット：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack41	スターアライズ：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack42	スターアライズ：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack43	スターアライズ：メモリアル{r2[がっきょく]}楽曲{/r2} 3
+Collection_Sound_MemorialTrack44	スーパーカービィハンターズ：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack45	スーパーカービィハンターズ：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack46	カービィファイターズ２：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack47	カービィファイターズ２：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack48	ディスカバリー：メモリアル{r2[がっきょく]}楽曲{/r2} 1
+Collection_Sound_MemorialTrack49	ディスカバリー：メモリアル{r2[がっきょく]}楽曲{/r2} 2
+Collection_Sound_MemorialTrack50	ディスカバリー：メモリアル{r2[がっきょく]}楽曲{/r2} 3
+Collection_Sound_MemorialTrack51	ディスカバリー：メモリアル{r2[がっきょく]}楽曲{/r2} 4
+Collection_Sound_MemorialTrack52	ディスカバリー：メモリアル{r2[がっきょく]}楽曲{/r2} 5
+Collection_Sound_MemorialTrack53	Kirby 30th Music Fest：ハル{r2[けん]}研{/r2}ドリームバンド{r2[がっきょく]}楽曲{/r2}
+Collection_Sound_MemorialTrack54	ディスカバリー：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 1
+Collection_Sound_MemorialTrack55	ディスカバリー：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 2
+Collection_Sound_MemorialTrack56	ディスカバリー：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 3
+Collection_Sound_MemorialTrack57	スターアライズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 1
+Collection_Sound_MemorialTrack58	スターアライズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 2
+Collection_Sound_MemorialTrack59	スターアライズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 3
+Collection_Sound_MemorialTrack60	カービィファイターズ２：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 1
+Collection_Sound_MemorialTrack61	カービィファイターズ２：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 2
+Collection_Sound_MemorialTrack62	カービィファイターズ２：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 3
+Collection_Sound_MemorialTrack63	スーパーカービィハンターズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 1
+Collection_Sound_MemorialTrack64	スーパーカービィハンターズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 2
+Collection_Sound_MemorialTrack65	スーパーカービィハンターズ：プレイ{r2[とくてんがっきょく]}特典楽曲{/r2} 3
+Collection_Sound_CollectionSweetComplete	Kirby's Ultra Gourmet Memories
+Collection_Sound_HomeMaxRank	Elegant Afternoon Tea Time
+Name\StageName.msbt
+Race1RollcakeMap01	ロールケーキ
+Race1RollcakeMap02	ロールケーキ
+Race2RollcakeMap01	ロールケーキ
+Race2RollcakeMap02	ロールケーキ
+Race1BaumkuchenMap01	バウムクーヘン
+Race1BaumkuchenMap02	バウムクーヘン
+Race2BaumkuchenMap01	バウムクーヘン
+Race2BaumkuchenMap02	バウムクーヘン
+Race1ShortCakeMap01	ショートケーキ
+Race1ShortCakeMap02	ショートケーキ
+Race2ShortCakeMap01	ショートケーキ
+Race2ShortCakeMap02	ショートケーキ
+Race1PancakeMap01	パンケーキ
+Race1PancakeMap02	パンケーキ
+Race2PancakeMap01	パンケーキ
+Race2PancakeMap02	パンケーキ
+Race1ChocolateFountainMap01	チョコレートファウンテン
+Race1ChocolateFountainMap02	チョコレートファウンテン
+Race2ChocolateFountainMap01	チョコレートファウンテン
+Race2ChocolateFountainMap02	チョコレートファウンテン
+Race1IceCreamMap01	アイスクリーム
+Race1IceCreamMap02	アイスクリーム
+Race2IceCreamMap01	アイスクリーム
+Race2IceCreamMap02	アイスクリーム
+Race1HamburgerMap01	ハンバーガー
+Race1HamburgerMap02	ハンバーガー
+Race2HamburgerMap01	ハンバーガー
+Race2HamburgerMap02	ハンバーガー
+Race1DonutMap01	ドーナツ
+Race1DonutMap02	ドーナツ
+Race2DonutMap01	ドーナツ
+Race2DonutMap02	ドーナツ
+BonusGame_BattleCupcakeMap01	カップケーキ
+BonusGame_BattleCupcakeMap02	カップケーキ
+BonusGame_BattleCupcakeMap03	カップケーキ
+BonusGame_BattleCheeseFondueMap01	チーズフォンデュ
+BonusGame_BattleCheeseFondueMap02	チーズフォンデュ
+BonusGame_BattleCheeseFondueMap03	チーズフォンデュ
+BonusGame_BattleElfilinMap01	エフィリンケーキ
+BonusGame_BattleKirbyMap01	カービィケーキ
+BonusGame_BattlePieMap01	スイートパイ
+BonusGame_BattlePieMap02	スイートパイ
+BonusGame_BattlePieMap03	スイートパイ
+BonusGame_BattleWaffleMap01	ワッフル
+BonusGame_BattleWaffleMap02	ワッフル
+BonusGame_BoxCupcakeMap01	カップケーキ
+BonusGame_BoxCupcakeMap02	カップケーキ
+BonusGame_BoxCupcakeMap03	カップケーキ
+BonusGame_BoxPieMap01	スイートパイ
+BonusGame_BoxPieMap02	スイートパイ
+BonusGame_BoxPieMap03	スイートパイ
+BonusGame_BoxWaffleMap01	ワッフル
+BonusGame_BoxWaffleMap02	ワッフル
+BonusGame_DropCupcakeMap01	カップケーキ
+BonusGame_DropCupcakeMap02	カップケーキ
+BonusGame_DropCupcakeMap03	カップケーキ
+BonusGame_DropChiffonCakeMap01	シフォンケーキ
+BonusGame_DropChiffonCakeMap02	シフォンケーキ
+BonusGame_DropChiffonCakeMap03	シフォンケーキ
+BonusGame_DropKirbyMap01	カービィケーキ
+BonusGame_DropElfilinMap01	エフィリンケーキ
+BonusGame_DropPieMap01	スイートパイ
+BonusGame_DropPieMap02	スイートパイ
+BonusGame_DropPieMap03	スイートパイ
+BonusGame_DropCheeseFondueMap01	チーズフォンデュ
+BonusGame_DropCheeseFondueMap02	チーズフォンデュ
+BonusGame_DropCheeseFondueMap03	チーズフォンデュ
+BonusGame_DropWaffleMap01	ワッフル
+BonusGame_DropWaffleMap02	ワッフル
+BonusGame_CupTeaCupMap01	ティータイム
+BonusGame_CupTeaCupMap02	ティータイム
+FinalBattleWholecakeMap01	ホールケーキ
+FinalBattleWholecakeMap02	ホールケーキ
+FinalBattleWholecakeMap03	ホールケーキ
+FinalBattleSquarecakeMap01	スクエアケーキ
+FinalBattleSquarecakeMap02	スクエアケーキ
+FinalBattleSquarecakeMap03	スクエアケーキ
+FinalBattleIcePopMap01	アイスキャンディー
+FinalBattleIcePopMap02	アイスキャンディー
+FinalBattleIcePopMap03	アイスキャンディー
+FinalBattlePuddingMap01	プリンアラモード
+FinalBattlePuddingMap02	プリンアラモード
+FinalBattlePuddingMap03	プリンアラモード
+FinalBattleHamburgerSteakMap01	バーベキュー
+FinalBattleHamburgerSteakMap02	バーベキュー
+FinalBattleHamburgerSteakMap03	バーベキュー
+FinalBattleSandwichMap01	サンドイッチ
+FinalBattleSandwichMap02	サンドイッチ
+FinalBattleSandwichMap03	サンドイッチ
+FinalBattleMagolorMap01	マホロアケーキ
+FinalBattleWhispyWoodsMap01	ウィスピーステージケーキ
+Collection_Stage_IceCream	アイスクリーム
+Collection_Stage_ChocolateFountain	チョコレートファウンテン
+Collection_Stage_Magolor	マホロアケーキ
+Collection_Stage_Elfilin	エフィリンケーキ
+Collection_Stage_IcePop	アイスキャンディー
+Collection_Stage_HamburgerSteak	バーベキュー
+Collection_Stage_Kirby	カービィケーキ
+Collection_Stage_WhispyWoods	ウィスピーステージケーキ
+Name\SweetName.msbt
+Collection_Sweet_Kirby	カービィ
+Collection_Sweet_Dedede	デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_WaddleDee	ワドルディ
+Collection_Sweet_WaddleDoo	ワドルドゥ
+Collection_Sweet_Kracko	クラッコ
+Collection_Sweet_WhispyWoods	ウィスピーウッズ
+Collection_Sweet_KirbyPixel	ドット カービィ
+Collection_Sweet_WarpStar	ドット ワープスター
+Collection_Sweet_WaddleDeePixel	ドット ワドルディ
+Collection_Sweet_BrontoburtPixel	ドット ブロントバート
+Collection_Sweet_Grizzo	ドット グリゾー
+Collection_Sweet_DededePixel	ドット デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_DededeShocked	ドット デデデ{r2[だいおう]}大王{/r2}(あんぐり)
+Collection_Sweet_MintLeaf	ドット さつまいも
+Collection_Sweet_SuperspicyCurry	ドット {r2[げきから]}激辛{/r2}カレーライス
+Collection_Sweet_StarRod	カービィ(スターロッド)
+Collection_Sweet_Ufo	U.F.O.カービィ
+Collection_Sweet_MrShine	ミスター・シャイン
+Collection_Sweet_MrBright	ミスター・ブライト
+Collection_Sweet_SwordKnight	ソードナイト
+Collection_Sweet_Nightmare	ナイトメア ウィザード
+Collection_Sweet_Metaknight	メタナイト
+Collection_Sweet_KirbyCannon	ドット カービィ(たいほう)
+Collection_Sweet_KirbySword	ドット ソードカービィ
+Collection_Sweet_KirbyStone	ドット ストーンカービィ
+Collection_Sweet_WaddleDooPixel	ドット ワドルドゥ
+Collection_Sweet_HotHead	ドット ホットヘッド
+Collection_Sweet_Bonkers	ドット ボンカース
+Collection_Sweet_KrackoPixel	ドット クラッコ
+Collection_Sweet_MetaknightPixel	ドット メタナイト
+Collection_Sweet_Pinball	カービィ(フリッパー)
+Collection_Sweet_PinballIcon1	カービィのピンボール(1)
+Collection_Sweet_PinballIcon2	カービィのピンボール(2)
+Collection_Sweet_DreamCourse	カービィ＆キービィ
+Collection_Sweet_KirbyFlag	カービィ(フラッグ)
+Collection_Sweet_DreamCourseLogo	カービィ(ホールインワン)
+Collection_Sweet_Rick	リック
+Collection_Sweet_Kine	カイン
+Collection_Sweet_Coo	クー
+Collection_Sweet_CrackTweet	クラックツィート
+Collection_Sweet_Masher	マッシャー
+Collection_Sweet_IceDragon	アイスドラゴン
+Collection_Sweet_KirbyCutter	ドット カッターカービィ
+Collection_Sweet_LordKibble	ドット ロードキブル
+Collection_Sweet_MasterGreen	ドット マスターグリーン
+Collection_Sweet_NruffAndNelly	ドット ヌラフ＆ネリー
+Collection_Sweet_MrFrostyPixel	ドット ミスター・フロスティ
+Collection_Sweet_DarkMatterPixel	ドット ダークマター
+Collection_Sweet_BlockBall	カービィのブロックボール
+Collection_Sweet_KirbyCook	コックカービィ
+Collection_Sweet_KirbyJet	ジェットカービィ
+Collection_Sweet_KirybMirror	ミラーカービィ
+Collection_Sweet_Wheelie	ドット ウィリーライダー
+Collection_Sweet_KirbyYoyo	ドット ヨーヨーカービィ
+Collection_Sweet_ChefKawasaki	ドット コックカワサキ
+Collection_Sweet_KnuckleJoe	ドット ナックルジョー
+Collection_Sweet_Marx	マルク
+Collection_Sweet_Tac	ドット タック
+Collection_Sweet_Walky	ウォーキー
+Collection_Sweet_AxeKnight	アックスナイト
+Collection_Sweet_JavelinKnight	ジャベリンナイト
+Collection_Sweet_TridentKnight	トライデントナイト
+Collection_Sweet_MaceKnight	メイスナイト
+Collection_Sweet_DynaBlade	ドット ダイナブレイド
+Collection_Sweet_RickBlock	リックブロック
+Collection_Sweet_KineBlock	カインブロック
+Collection_Sweet_CooBlock	クーブロック
+Collection_Sweet_KirbyClean	ドット クリーンカービィ
+Collection_Sweet_KirbyParasol	パラソルカービィ
+Collection_Sweet_Gooey	グーイ
+Collection_Sweet_ChuChu	チュチュ
+Collection_Sweet_Nago	ナゴ
+Collection_Sweet_Pitch	ピッチ
+Collection_Sweet_Gabon	ドット ガボン
+Collection_Sweet_DarkMatterPixelColor	ドット ダークマター
+Collection_Sweet_Zero	ゼロ
+Collection_Sweet_PonAndCon	ドット ポン＆コン
+Collection_Sweet_MrStar	{r2[ほし]}星{/r2}くん
+Collection_Sweet_TickTockJr	チクタクJr.
+Collection_Sweet_Gryll	グリル
+Collection_Sweet_KirbyBurningStone	バーニングストーン
+Collection_Sweet_KirbyNeedle	ニードルカービィ
+Collection_Sweet_Ribbon	{r2[ようせい]}妖精{/r2}リボン
+Collection_Sweet_Adeleine	アドレーヌ
+Collection_Sweet_WaddleDee64	カービィ＆ワドルディ
+Collection_Sweet_Dedede64	カービィ＆デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_Nz	エヌゼット
+Collection_Sweet_Acro	アクロ
+Collection_Sweet_Magman	ヨガン
+Collection_Sweet_Hrh	HR-H
+Collection_Sweet_Blockbot	ノボット
+Collection_Sweet_Blinkbat	バットン
+Collection_Sweet_Orbservor	メガイター
+Collection_Sweet_Noddy	ノディ
+Collection_Sweet_Gordo	ドット ゴルドー
+Collection_Sweet_FireLion	ファイアーライオン
+Collection_Sweet_PhanPhan	ドット ファンファン
+Collection_Sweet_PaintRoller	ペイントローラー
+Collection_Sweet_HeavyMole	ドット ヘビーモール
+Collection_Sweet_MaximTomato	マキシムトマト
+Collection_Sweet_InvincibleCandy	むてきキャンディー
+Collection_Sweet_Dragoon	ドラグーン
+Collection_Sweet_Hydra	ハイドラ
+Collection_Sweet_WarpStarAirRide	ワープスター
+Collection_Sweet_ShadowStar	デビルスター
+Collection_Sweet_Caller	カーラー
+Collection_Sweet_Flappy	フラッピィ
+Collection_Sweet_KirbyPhone	ドット カービィ(ケータイ)
+Collection_Sweet_KirbyMissile	ミサイルカービィ
+Collection_Sweet_Mirra	ドット ミラン
+Collection_Sweet_Gobbler	ドット ガブリエル
+Collection_Sweet_MasterHand	ドット マスターハンド
+Collection_Sweet_CrazyHand	クレイジーハンド
+Collection_Sweet_DarkMetaknight	ダークメタナイト
+Collection_Sweet_DarkMind	ドット ダークマインド
+Collection_Sweet_KirbyBall	カービィボール
+Collection_Sweet_MetaknightBall	メタナイトボール
+Collection_Sweet_DededeBall	デデデボール
+Collection_Sweet_Bloon	ドット プクラ
+Collection_Sweet_Drawcia	ドット ドロシア ソーサレス
+Collection_Sweet_DrawciaSoul	ドロシア ソウル
+Collection_Sweet_KirbyAnimal	ドット アニマルカービィ
+Collection_Sweet_KirbyGhost	ドット ゴーストカービィ
+Collection_Sweet_Squeaker	チューリン
+Collection_Sweet_Doc	ドク
+Collection_Sweet_Storo	ストロン
+Collection_Sweet_Spinni	スピン
+Collection_Sweet_Daroach	ドロッチェ
+Collection_Sweet_DarkNebula	ダークゼロ
+Collection_Sweet_KirbyNinja	ニンジャカービィ
+Collection_Sweet_KirbyPlasma	プラズマカービィ
+Collection_Sweet_KirbySuplex	スープレックスカービィ
+Collection_Sweet_SailorWaddleDee	{r2[せんいん]}船員{/r2}ワドルディ
+Collection_Sweet_GalacticNova	ギャラクティック・ノヴァ
+Collection_Sweet_MaskedDedede	ドット マスクド・デデデ
+Collection_Sweet_GalactaKnight	ドット ギャラクティックナイト
+Collection_Sweet_MarxSoul	ドット マルク ソウル
+Collection_Sweet_EpicYarn	カービィ
+Collection_Sweet_Fluff	フラッフ
+Collection_Sweet_YinYarn	アミーボ・アモーレ
+Collection_Sweet_KirbyTwo	カービィ({r2[ふたり]}2人{/r2})
+Collection_Sweet_Beanbon	プッポン
+Collection_Sweet_Skully	ドクロン
+Collection_Sweet_Skullord	ドット ドクロ{r2[だいおう]}大王{/r2}
+Collection_Sweet_KirbyCrackler	カービィ(クラッカー)
+Collection_Sweet_KirbyLeaf	リーフカービィ
+Collection_Sweet_KirbyWhip	ウィップカービィ
+Collection_Sweet_KirbyUltraSword	ウルトラソード
+Collection_Sweet_KirbyMonsterFlame	ドラゴストーム
+Collection_Sweet_KirbySnowBowl	スノーボウル
+Collection_Sweet_Leafan	リーファン
+Collection_Sweet_Whippy	ウィッピィ
+Collection_Sweet_BandanaWaddleDee	バンダナワドルディ
+Collection_Sweet_MetaknightWii	メタナイト
+Collection_Sweet_DededeWii	デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_Magolor	マホロア
+Collection_Sweet_AllPlayerWii	{r2[よにん]}4人{/r2}の{r2[なかま]}仲間{/r2}と
+Collection_Sweet_Lor	{r2[あま]}天{/r2}かける{r2[ふね]}船{/r2} ローア
+Collection_Sweet_MagolorPixel	ドット マホロア
+Collection_Sweet_DreamCollectionLogo1	20{r2[しゅうねん]}周年{/r2}ロゴ(1)
+Collection_Sweet_DreamCollectionLogo2	20{r2[しゅうねん]}周年{/r2}ロゴ(2)
+Collection_Sweet_KirbySmashBros	スマブラカービィ
+Collection_Sweet_Kirby3dWarpStar	３Dワープスター
+Collection_Sweet_KirbyHypernova	ビッグバンすいこみ
+Collection_Sweet_KirbyBeetle	ビートルカービィ
+Collection_Sweet_KirbyBell	ベルカービィ
+Collection_Sweet_KirbyCircus	サーカスカービィ
+Collection_Sweet_Beetley	ビートリー
+Collection_Sweet_Ringle	ディングル
+Collection_Sweet_Spynum	スパイナム
+Collection_Sweet_Taranza	タランザ
+Collection_Sweet_SunStone	サンストーン
+Collection_Sweet_SwordBeam	ソードVSビーム
+Collection_Sweet_ArcherFighter	スナイパーVSファイター
+Collection_Sweet_TeamCannon	チーム{r2[がったいほう]}合体砲{/r2}
+Collection_Sweet_DededeTambourine	デデデ{r2[だいおう]}大王{/r2}(タンバリン)
+Collection_Sweet_KirbyMegaphone	カービィ(メガホン)
+Collection_Sweet_Tambourine	タンバリン
+Collection_Sweet_KirbyRainbowCurse	カービィ
+Collection_Sweet_Elline	エリーヌ
+Collection_Sweet_Claycia	クレイシア
+Collection_Sweet_KirbyHelmet	カービィ(ヘルメット)
+Collection_Sweet_KirbyEsp	エスパーカービィ
+Collection_Sweet_KirbyDoctor	ドクターカービィ
+Collection_Sweet_RobobotNormal	ロボボアーマー
+Collection_Sweet_RobobotJet	ジェットモード
+Collection_Sweet_RobobotWheel	ホイールモード
+Collection_Sweet_WalkerWaddleDee	ウォーカーワドルディ
+Collection_Sweet_BrontoBurt	ブロントバート
+Collection_Sweet_Susie	{r2[ひしょ]}秘書{/r2}スージー
+Collection_Sweet_Haltmann	プレジデント・ハルトマン
+Collection_Sweet_SwordHero	ヒーローソード
+Collection_Sweet_HammerLord	ヘビィハンマー
+Collection_Sweet_DoctorHealmore	ヒールドクター
+Collection_Sweet_BeamMage	マジックビーム
+Collection_Sweet_KibbleBlade	ザンキブル
+Collection_Sweet_Inhale	カービィ(すいこみ)
+Collection_Sweet_FullBellyKirby	まんぷくカービィ
+Collection_Sweet_BlasterBulletKirby	カービィ({r2[かんつうほし]}貫通星{/r2}がただん)
+Collection_Sweet_Cake	デラックス{r2[やま]}山{/r2}もりケーキ
+Collection_Sweet_KirbyPrinter	カービィプリンター
+Collection_Sweet_KirbyFighter	ファイターカービィ
+Collection_Sweet_ThrowFriendHeart	カービィ
+Collection_Sweet_FriendCircle	フレンズころがり
+Collection_Sweet_SizzleYoyo	メラーガヨーヨー
+Collection_Sweet_BonkersZapHammer	バリッカハンマー ボンカース
+Collection_Sweet_BladeKnightBlizzardSword	ブリザソード ブレイドナイト
+Collection_Sweet_PoppyBrosJrBlusterBomb	ウィンガボム ポピーブラザーズJr.
+Collection_Sweet_Vividria	ビビッティア
+Collection_Sweet_DededeStarAllies	デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_Francisca	フラン・キッス
+Collection_Sweet_Flamberge	フラン・ルージュ
+Collection_Sweet_ZanPartizanne	ザン・パルルティザーヌ
+Collection_Sweet_VoidTermina	エンデ・ニル
+Collection_Sweet_MeDevil	オレ・デビール
+Collection_Sweet_YeDevil	ワイ・デビール
+Collection_Sweet_WeDevil	ウチ・デビール
+Collection_Sweet_SwordHeroSuper	ヒーローソード
+Collection_Sweet_HammerLordSuper	ヘビィハンマー
+Collection_Sweet_DoctorHealmoreSuper	ヒールドクター
+Collection_Sweet_BeamMageSuper	マジックビーム
+Collection_Sweet_ParallelNightmare	アナザーナイトメア
+Collection_Sweet_AeonHero	{r2[えんげん]}淵源{/r2}を{r2[めぐ]}巡{/r2}る{r2[えいゆう]}英雄{/r2}
+Collection_Sweet_ShopkeeperMagolor	{r2[てんしゅ]}店主{/r2}マホロア
+Collection_Sweet_SwordWrestler	ソード＆レスラー
+Collection_Sweet_CheerStyle	チアリーダー
+Collection_Sweet_SumoTopknot	よこづなのマゲ
+Collection_Sweet_DededeMetaknight	デデデ{r2[だいおう]}大王{/r2}＆メタナイト
+Collection_Sweet_DededeMetaknightMasked	マスクド・D＆マスクド・M
+Collection_Sweet_BuddyStarBlaster	バディシューティングスター
+Collection_Sweet_KirbyDiscovery	カービィ
+Collection_Sweet_BandanaWaddleDeeDiscovery	バンダナワドルディ
+Collection_Sweet_Elfilin	エフィリン
+Collection_Sweet_CarMouth	くるまほおばり
+Collection_Sweet_ConeMouth	さんかくほおばり
+Collection_Sweet_VendingMouth	じはんきほおばり
+Collection_Sweet_RingMouth	わっかほおばり
+Collection_Sweet_KirbyDrill	ドリルカービィ
+Collection_Sweet_KirbyRanger	レンジャーカービィ
+Collection_Sweet_KirbyDragonFire	ドラゴニックファイアカービィ
+Collection_Sweet_KirbyDeepSleep	ディープスリープカービィ
+Collection_Sweet_Awoofy	ガルルフィ
+Collection_Sweet_Gorimondo	ゴルルムンバ
+Collection_Sweet_Clawroline	キャロライン
+Collection_Sweet_DededeDiscovery	デデデ{r2[だいおう]}大王{/r2}
+Collection_Sweet_MetaknightDiscobery	メタナイト
+Collection_Sweet_WeaponsShopWaddleDee	ぶき{r2[や]}屋{/r2}ワドルディ
+Collection_Sweet_CarMouthCake	くるまほおばりケーキ
+Collection_Sweet_KirbyElfilinWaddleDee	みんなでポーズ！
+Collection_Sweet_CapturedWaddleDee	とらわれたワドルディたち
+Collection_Sweet_KirbyMusicFest	カービィ
+Collection_Sweet_ElfilinMusicFest	エフィリン
+Collection_Sweet_MagolorMusicFest	マホロア
+Collection_Sweet_KirbyCafe	カービィ
+Collection_Sweet_WaddleDeeCafe	ワドルディ
+Collection_Sweet_Logo30th	30{r2[しゅうねん]}周年{/r2}ロゴ

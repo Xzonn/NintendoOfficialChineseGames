@@ -21,8 +21,8 @@ Win_Weapon03	Flip Out
 Win04	Stuntin'
 Win08	Breakin'
 Win13	Victory Strut
-Crouching00	The Lowdown
 Win15	Double-Cross Dab
+Crouching00	The Lowdown
 NwBtl00	Card Shark
 Win_Tricol	Win_Tricol
 CommonMsg\FestRegion.msbt
@@ -74,7 +74,11 @@ Crater	The Crater
 Alternative	Alterna
 Inkling	Inkling
 Octoling	Octoling
+PlatoonNew	New Squidbeak Splatoon
+IdolGroup_01	Squid Sisters
+IdolGroup_02	Off the Hook
 IdolGroup_03	Deep Cut
+Band01	Squid Squad
 SquidRoll	Squid Roll
 SquidSurge	Squid Surge
 MiniGameRank	Tableturf Rank
@@ -349,10 +353,10 @@ FlagMeter	{[0200|00020000]}.{[0200|01010000]}
 GearBreakLimit00	XP x {[0200|00010000]}.{[0200|01010000]}
 GearBreakLimit01	XP x {[0200|00010000]}.{[0200|01020100]}
 CapsuleNum	x {[0200|00020000]}
-DateTime00	{[0200|00020100]}/{[0200|01020100]}  {[0200|02020000]}:{[0200|03020100]}
-DateTime01	{[0200|01020100]}/{[0200|02020100]}/{[0200|00040100]} {[0200|03020000]}:{[0200|04020100]}
-DateTime02	{[0200|00020100]}/{[0200|01020100]} ({[0410|02000000]}) {[0200|03020000]}:{[0200|04020100]}
-Date01	{[0200|01020100]}/{[0200|02020100]}/{[0200|00040100]}
+DateTime00	{[0200|00020000]}/{[0200|01020000]}  {[0200|02020000]}:{[0200|03020100]}
+DateTime01	{[0200|01020000]}/{[0200|02020000]}/{[0200|00040000]} {[0200|03020000]}:{[0200|04020100]}
+DateTime02	{[0200|00020000]}/{[0200|01020000]} ({[0410|02000000]}) {[0200|03020000]}:{[0200|04020100]}
+Date01	{[0200|01020000]}/{[0200|02020000]}/{[0200|00040000]}
 Time00	{[0200|00020000]}:{[0200|01020100]}
 ScheduleTerm	{[0201|0010]} - {[0201|0110]}
 MsnStageNo	No. {[0200|00020000]}
@@ -2405,6 +2409,9 @@ AMB007	Marinated Top
 AMB008	Enchanted Robe A
 AMB009	Steel Platemail
 AMB010	Fresh Fish Gloves
+AMB011	Schoolyard Scrap Jack
+AMB012	Black-Belt Gi
+AMB013	Chaos Commander Suit
 AMB014	School Uniform B
 AMB015	School Cardigan B
 AMB017	Enchanted Robe B
@@ -2496,6 +2503,9 @@ AMB007	Marinated Headphones
 AMB008	Enchanted Hat
 AMB009	Steel Helm
 AMB010	Fresh Fish Head
+AMB011	Boss Floss
+AMB012	Sushi Sous-Chef Band
+AMB013	Chaos Helm
 AMB016	Squinja Mask Mk I
 AMB017	Pearlescent Crown L
 MSN000	Hero Headset Replica
@@ -2595,6 +2605,9 @@ AMB007	Marinated Slip-Ons
 AMB008	Enchanted Boots
 AMB009	Steel Greaves
 AMB010	Fresh Fish Feet
+AMB011	Knotty Bois
+AMB012	Kick Dampeners
+AMB013	Chaos Kicks
 AMB014	Base School Shoes
 AMB015	Base Fringed Loafers
 MSN000	Hero Runner Replicas
@@ -3011,8 +3024,8 @@ Stc_Sti_Decoration_09	WNQ-IZ deco
 Stc_Sti_Decoration_10	EX0-1 deco
 Stc_Sti_Decoration_11	EX0-2 deco
 Stc_Sti_Decoration_13	MTNMTN deco
-Stc_Sti_Logo_00	Squid 3 logo
-Stc_Sti_Logo_01	Octopus 3 logo
+Stc_Sti_Logo_00	Octopus 3 logo
+Stc_Sti_Logo_01	Squid 3 logo
 Stc_Sti_Logo_02	Barazushi logo
 Stc_Sti_Logo_03	Emberz logo
 Stc_Sti_Logo_04	Squid 2-B logo
@@ -5005,7 +5018,7 @@ Tips_57	Meow. ({color[0100]}Shooters{color[ffff]},{color[0100]} {color[ffff]}suc
 Tips_58	Meow. ({color[0100]}Splash Walls{color[ffff]} and {color[0100]}Big Bubblers{color[ffff]} can block\nyour ink from hitting an opponent.){[0004]}Meow! (But! If either gets hit by a {color[0100]}Splat Bomb{color[ffff]} or\na {color[0100]}Suction Bomb{color[ffff]}, the bomb will explode right then!){[0004]}Meow. (Don't give opponents hiding near a\nSplash Wall a chance to relax. Outsmart them!){[0004]}Meow... (But on the other paw, if you set up a\nSplash Wall, opponents CAN do this to you...)
 Tips_58_Trial	Press {[030a|295c0f4005000000]} to throw {color[0100]}Suction Bombs{color[ffff]} and break the targets!\nThey'll explode as soon as they touch a Splash Wall.
 Tips_59	Meow? (You been to the {color[0100]}shop{color[ffff]} in the lobby yet?){[0004]}Meow. (The {color[0100]}food{color[ffff]} and {color[0100]}drinks{color[ffff]} sold there can boost\nthe {color[0100]}expurrrience {color[ffff]}and {color[0100]}cash {color[ffff]}you earn from battle.){[0004]}Meow! (Although, you'll need {color[0100]}tickets{color[ffff]} to buy the\ngoods, so round some up before stopping by!)
-Tips_60	Meow. (If you want to look at how you're doing,\ngo to the lobby terminal and hit {color[0100]}View Replays{color[ffff]}.){[0004]}Meow. (There you can {color[0100]}watch replays {color[ffff]}of many\nof the battles you've been in.){[0004]}Meow. (You can also watch other people's replays\nby {color[0100]}entering a Replay Code{color[ffff]}.){[0004]}Meow! (Watching yourself play, or seeing how\nothers play, can be a great way to impurrrove!)
+Tips_60	Meow. (If you want to look at how you're doing,\ngo to the lobby terminal and hit {color[0100]}View Replays{color[ffff]}.){[0004]}Meow. (There you can {color[0100]}watch replays {color[ffff]}of many\nof the battles you've been in.){[0004]}Meow. (You can also watch other people's\nreplays by {color[0100]}entering a Replay Code{color[ffff]}.){[0004]}Meow! (Watching yourself play, or seeing how\nothers play, can be a great way to impurrrove!)
 Tips_61	Meow? (Everrr gotten lost during a battle?){[0004]}Meow. (If you have, maybe you should visit the\nstages on your own and do some {color[0100]}recon{color[ffff]}.){[0004]}Meow! (To set up a trip and get to know a stage,\njust talk to the {color[0100]}Recon Guide{color[ffff]} in the square!)
 Tips_62	Meow. (Wondering what the ★ on gear means?\nThat's how much star power each item has.){[0004]}Meow. (Gear with three ★ can have {color[0100]}3{color[ffff]}\nsecondary abilities. That's good!){[0004]}Meow! (Check out the shops for items that\ncome with lots of star power by default.){[0004]}Meow! (You can also {color[0100]}rebuy {color[ffff]}an item you already\nown to raise its star power!){[0004]}Meow! ({color[0100]}Murch{color[ffff]} knows more. He's in the square.\nGo make your gear be all it can be!)
 Tips_63	Meow. (Each weapon has a {color[0100]}Freshness rating{color[ffff]}, which\ngrows as you use it.){[0004]}Meow! (You'll get bonuses for boosting a weapon's\nrating, like {color[0100]}Sheldon Licenses{color[ffff]}, stickers, and badges!){[0004]}Meow. (Stickers and badges are great for showing\neveryone which weapons you like to use.)
@@ -5237,6 +5250,48 @@ Octo_PostRewardAsFollowNow	Don't stop now. I've still got gifts\nto give you!
 Octo_NearReward	Great battles—bad timing. I need\nmore time to get you a new gift.
 Octo_FarReward	Keep it up! Your battles just keep\ngetting better!
 Octo_NoRewardAsOffline	So, about the internet... You're not\nconnected to it.{[0004]}But if you were to go to the {color[0100]}lobby{color[ffff]},\nconnect up to it, then come back,\nI might have something for you!
+InkYellow_WantFollow	Look at you! We've got a fresh one\nhere! Nice. I'm digging it!{[0004]}Although, I'm not digging it QUITE\nas much as I could be. What I'm\nsaying is...something's missing.{[0004]}I got it! This is easy—you just need\nto earn more experience. And then?\nYou are gonna SOAR!{[0004]}Hey, would it be alright if I rode your\ncoattails a little? Watching a {color[0100]}friend{color[ffff]}\nrise to greatness sounds like a big\nmess of fun.{[0004]}Don't worry—I can pull my weight.\nI can keep track of your equipped\n{color[0100]}gear{color[ffff]} and your {color[0100]}camera options{color[ffff]}.{[0004]}Oh, and also your {color[0100]}Freshest Fits{color[ffff]}!\nThose are important. Then a quick\ntrip to the {color[0100]}Equip{color[ffff]} menu is all it'll\ntake to pop into a favorite outfit!{[0004]}So whaddaya say? Friends?
+InkYellow_FollowMeHello	Hey, how's it going? Stayin' fresh?\nStayin' cool?
+InkYellow_FollowOtherHello	Hey, hey!{[0004]}Oh, and another hey from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+InkYellow_NoAppDataHello	Another day in Splatsville... Can you\nfeel it? The energy? The LIFE?{[0004]}Hold up. Do I know you? Check that.\nI wanna know you. Hi!
+InkYellow_OtherAppDataHello	Ahhh! Another day in Splatsville. You\ncan feel it—the energy...the LIFE!{[0004]}Oh! Hey, you.
+InkYellow_WhatDo	Need somethin'?
+InkYellow_Reward	I've been watching how hard you're\nbattlin' out there, and I felt you've\nearned a little reward. Enjoy!
+InkYellow_DoneSomeBattle	So, yeah! The way you've been\nbattling out there? Wow! Can't\nget enough.{[0004]}Here—a gift for you. Thanks for\nbeing so fun to watch!
+InkYellow_RewardAsFollowNow	Alright, in honor of makin' it official,\nthis present's for you!
+InkYellow_DoneAllReward	Bad news... I've given you everything\nI've got to give. That's it. All done.\nEnd of the line.{[0004]}But the good news? You've made\na friend for life. Listen hard enough,\nand you'll hear me cheering. Always.
+InkYellow_PostRewardAsFollowNow	Get out there and splat somebody!\nI'll try to scrounge up some more\ngifts for you in the meantime.
+InkYellow_NearReward	Way to battle! You're SO close to...\nActually, forget I said anything.\nJust push a little further, OK?
+InkYellow_FarReward	You DO know I'm watchin' all your\nbattles, right? 'Cause if you didn't,\nwell...I am!
+InkYellow_NoRewardAsOffline	Uh, you might wanna sit down for\nthis... You're not connected to the\ninternet right now.{[0004]}Don't be scared though. Just head\nto the {color[0100]}lobby{color[ffff]} and reconnect. I might\neven have a gift for you if you do!
+OctoBlue_WantFollow	Whoa, whoa, WHOA! Your freshness\nis straight-up outta control!{[0004]}And the wildest part? I can tell\nyou're just getting started.{[0004]}What's with the face? I know\nfreshness when I see it. And right\nnow, I'm seein' it!{[0004]}What that means is we gotta be\n{color[0100]}friends{color[ffff]}. Don't ask why. Those're\njust the unwritten rules. Plus,\nI wanna see how far you can go.{[0004]}So here's what I'm offering. I'll keep\ntrack of all your equipped {color[0100]}gear{color[ffff]}, your\n{color[0100]}camera settings{color[ffff]}, and even your\n{color[0100]}Freshest Fits{color[ffff]}!{[0004]}That Freshest Fits thing is key too.\nThose let you change outfits like\nBAM! Just gotta visit the {color[0100]}Equip{color[ffff]}\nscreen. Cool, huh?{[0004]}And what do I want for all this?\nNothin'. Just let me on for the ride,\nand I'll take it from there. So...\nwhaddaya say? Friends?
+OctoBlue_FollowMeHello	Hey, freshness! What's up?
+OctoBlue_FollowOtherHello	Hey there!{[0004]}Oh yeah, I have a hi from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+OctoBlue_NoAppDataHello	Splatsville is nuts, ain't it? I love\nit here.{[0004]}Anyway, hey. What's shaking?
+OctoBlue_OtherAppDataHello	Splatsville is nuts, ain't it? I love\nit here.{[0004]}Anyway, hey. How're things?
+OctoBlue_WhatDo	Do you need something?
+OctoBlue_Reward	Yo! You've been throwing yourself\ninto those battles like nobody's\nbusiness. It's a blast to watch!{[0004]}I could BARELY tear myself away to\ngo gift shopping for you. That's\nright—I got you a gift!
+OctoBlue_DoneSomeBattle	Busy, busy battler. Just don't get\nso busy you forget to take care of\nyourself, 'K?{[0004]}Anyway, I got you something. Here!
+OctoBlue_RewardAsFollowNow	Yes! This is so awesome. Here—\nlet's make it official.
+OctoBlue_DoneAllReward	So, guess what? I'm aaaaaall outta\npresents. I know, right?{[0004]}But that doesn't mean I won't be out\nthere losin' my voice cheering you\non. That's not changing one bit.
+OctoBlue_PostRewardAsFollowNow	Battles, battles, and MORE battles!\nThat's, uh...my way of telling you\nI need a little time to get another\ngift ready for you. Ha...
+OctoBlue_NearReward	You are a FORCE out there. Whoa!\nFriends or not, I can't stop watchin'.\nLike, I haven't even had time to get\na new gift going... But I will!
+OctoBlue_FarReward	I just can't get enough of your\nthrill-a-minute style out there.\nThen I remember we're friends,\nand I'm like...whoa!
+OctoBlue_NoRewardAsOffline	Hey, uh...how can I put this? You\nand the internet aren't on speaking\nterms right now.{[0004]}Tell ya what! Head to the {color[0100]}lobby{color[ffff]} and\nreconnect. I might have a gift for\nyou if you do!
+Smallfry_WantFollow	{[0102]}It seems this Smallfry is trying to\ntell you something! What could that\nblank stare mean?{[0004]}{[0102]}Ah! It's marked you as a uniquely\nfresh individual—whose freshness\nwill grow even stronger over time.{[0004]}{[0102]}As a token of its admiration, this\nSmallfry hopes to watch over your\nprogress...and officially become\nyour {color[0100]}friend{color[ffff]}! Aw!{[0004]}{[0102]}Friends can remember your equipped\n{color[0100]}gear {color[ffff]}and {color[0100]}camera settings{color[ffff]}, and track\nyour {color[0100]}Freshest Fits{color[ffff]} for you.{[0004]}{[0102]}With this Smallfry's help, you could\nchange your gear on the {color[0100]}Equip{color[ffff]}\nscreen much more efficiently...{[0004]}{[0102]}How will you respond to this small\nyet generous Salmonid's offer to\nbecome your friend?
+Smallfry_FollowMeHello	{[0102]}This Smallfry looks pleased to\nsee you! It can be hard to tell.
+Smallfry_FollowOtherHello	{[0102]}Hmmm. This Smallfry appears to be\naffiliated with someone named\n{color[0100]}{[0201|0010]}{color[ffff]}.
+Smallfry_NoAppDataHello	{[0102]}Surrounded by the sights of\nSplatsville, this little Smallfry\nmust not know where to look first...{[0004]}{[0102]}Ah! It seems to have noticed you.\nAnd now it's staring at you. Intently.\nDon't be alarmed...yet.
+Smallfry_OtherAppDataHello	{[0102]}This Smallfry is soaking in the\ncolors of Splatsville. It's not sure\nwhere to look first...{[0004]}{[0102]}Ah! It seems to have noticed you,\nyet it remains unclear what, if any,\nemotions are hiding behind its\ngargantuan googly eyeballs.
+Smallfry_WhatDo	{[0102]}Is there anything you'd like to ask\nof this Smallfry?
+Smallfry_Reward	{[0102]}This Smallfry seems thrilled by your\nperformance in recent battles.{[0004]}{[0102]}Oh? What's it got there? Is that...\nIt is! It's a present just for you! 
+Smallfry_DoneSomeBattle	{[0102]}There seems to be a spark hiding\nbehind this Smallfry's walleyed\nstare. It may be encouraging you\nto become even fresher...{[0004]}{[0102]}Oh! It's acquired a present just\nfor you! Somehow!
+Smallfry_RewardAsFollowNow	{[0102]}This Smallfry looks pleased to have\nformed a bond with you! Or perhaps\nit's just grimacing due to gas pain...{[0004]}{[0102]}Oh! It wants to show you something.\nLooks like a present just for you!
+Smallfry_DoneAllReward	{[0102]}With that gesture complete, the\nSmallfry's usual chipper demeanor\nturns downward. That was the last\npresent it had to give.{[0004]}{[0102]}But its greatest gift...is friendship.\nThis Smallfry will still do its best\nto help you whenever you'd like!
+Smallfry_PostRewardAsFollowNow	{[0102]}Steadfast. Stalwart. This Smallfry\nseems to want one thing, and one\nthing only...to watch you grow even\nfresher from here!{[0004]}{[0102]}If you engage in a few more battles\nand boost your freshness a bit, it\nwould surely enjoy another quick\ncheck-in. What a good friend.
+Smallfry_NearReward	{[0102]}This Smallfry seems satisfied with\nyour performance in recent battles.\nPride, like most of its emotions,\nappears as a bug-eyed grin.{[0004]}{[0102]}Do you get the sense that it\nWANTS to give you something,\nbut it's not quite ready?
+Smallfry_FarReward	{[0102]}This Smallfry has been tracking\nyour battles with great enthusiasm.\nDespite its standard chaotic energy,\nit hasn't slept in quite a while.
+Smallfry_NoRewardAsOffline	{[0102]}This Smallfry seems restless...\nPerhaps it's because you're not\nconnected to the internet.{[0004]}{[0102]}It may settle down if you come back\nafter connecting to the internet in\nthe {color[0100]}lobby{color[ffff]}.
 Aori_WantFollow	Hey! You seem pretty fresh.\nAnd unlike some things, I bet\nyou get fresher over time!{[0004]}Look, this isn't just because I view\nyou as a potential rival, but...I kinda\nwant to {color[0100]}keep tabs on you{color[ffff]}.{[0004]}Want me to memorize your {color[0100]}control\nsettings{color[ffff]} and favorite {color[0100]}gear{color[ffff]}? I can\ntotally keep track of your {color[0100]}Freshest\nFits{color[ffff]} too!{[0004]}That way you can put them on\nquickly from the {color[0100]}Equip{color[ffff]} menu.{[0004]}Think of it as ME being a superfan\nof YOU, instead of the reverse.\nAlthough you better be a superfan\nof me too...
 Aori_FollowMeHello	It's you! How's it going?
 Aori_FollowOtherHello	Hey, you!{[0004]}I'm ready to ROCK! Greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
@@ -5862,15 +5917,15 @@ PropertySquid	Squid
 PropertyOctopus	Octo 
 PropertyHair00	Hippie 
 PropertyHair01	Haircut 
-PropertyHair02	Topknot 
-PropertyHair03	Slick 
-PropertyHair04	Double-Bun 
-PropertyHair05	Buzz-Cut 
-PropertyHair06	Wave 
-PropertyHair07	Hipster 
-PropertyHair08	Pigtail 
-PropertyHair09	Spiky-Haired 
-PropertyHair10	Banger 
+PropertyHair02	Double-Bun 
+PropertyHair03	Wave 
+PropertyHair04	Pigtail 
+PropertyHair05	Banger 
+PropertyHair06	Topknot 
+PropertyHair07	Slick 
+PropertyHair08	Buzz-Cut 
+PropertyHair09	Hipster 
+PropertyHair10	Spiky-Haired 
 PropertyHair11	Mush-Cut 
 PropertyHair12	Megalobraid 
 PropertyHair13	Bed Head 
@@ -6011,6 +6066,9 @@ AMB007	Marinated
 AMB008	Enchanted
 AMB009	Steelhead
 AMB010	Fresh
+AMB011	{[0506]}
+AMB012	{[0506]}
+AMB013	{[0506]}
 AMB016	{[0506]}
 AMB017	{[0506]}
 MSN000	Heroic
@@ -6094,6 +6152,9 @@ AMB007	Marina-Loving
 AMB008	Bewitched
 AMB009	Steel
 AMB010	Fishy
+AMB011	{[0506]}
+AMB012	{[0506]}
+AMB013	{[0506]}
 AMB014	{[0506]}
 AMB015	{[0506]}
 MSN000	Hero-Runner
@@ -6797,8 +6858,8 @@ Comment_08	I'm about to drop my latest hit...
 Comment_09	right on your smug little FACE!
 EventFlowMsg\Mission_BeforeBreakKebaInkTutorial.msbt
 Comment_00	Oh, right. I plumb forgot about all this {color[0100]}Fuzzy Ooze{color[ffff]}.{[0004]}And that blasted {[0316|0000803f00000000]}{color[0100]}Fuzzball {color[ffff]}is just wobblin' back and\nforth, taunting us...
-Comment_01	Is that your Smallfry buddy chirpin' about something?{[0004]}You know...{[0100|0f000000]}that species is rumored to have a BIG\nreaction to {[0317|0000803f00000000]}{color[0100]}Power Eggs{color[ffff]}...
-Comment_02	Anything's worth a shot, right? Try pressing {[0308|cdcc4c3f00000000]} to\npower up your little buddy with some {color[0100]}Power Eggs{color[ffff]}!
+Comment_01	Is that your Smallfry buddy chirpin' about something?{[0004]}You know...{[0100|0f000000]}that species is rumored to have a BIG\nreaction to {[0317|0000803f00000000]}{color[0100]}Power Eggs{color[ffff]}...{[0100|1e000000]} Why don'tcha toss a\nfew of 'em to the little scamp?
+Comment_02	Anything's worth a shot, right? Try pressing the\nRight Stick ({[0308|cdcc4c3f00000000]}) to power up your little buddy!
 EventFlowMsg\Mission_BigWorldFirstAfterClear.msbt
 000	Agent 3! {[0100|0f000000]}Agent 3!
 000_01	I'm so glad you're OK! {[0100|0f000000]}I mean...{[0100|0f000000]}I knew you would be.
@@ -8070,7 +8131,7 @@ LayoutMsg\Cmn_VersusMatch_02.msbt
 012	Battle ends in {[0200|00020200]}:{[0200|01020100]}.
 013	Please wait...
 014	You'll drop in once you're ready.
-T_RuleHeader_00	Mode
+020	Rank
 T_StageHeader_00	Stage
 L_StartBtn_00-T_Btn_01	Ready!
 L_StartBtn_01-T_Btn_01	Start with\nthis crew!
@@ -8080,6 +8141,8 @@ L_GuideCancel_00-T_Info_00	Cancel
 L_BackBtn_00-T_Info_00	Back
 L_PlayerName_00-T_Wait_00	Waiting...
 L_GuideNotify_00-T_Btn_00	Y
+L_Power_00-T_FestPow_00	Clout
+L_FestItemAll_00-T_Max_00	MAX
 LayoutMsg\Cmn_WindowGet_00.msbt
 T_SubTitle_00	Splatfest Title
 L_Icon_00-T_Text_00	x
@@ -8230,7 +8293,7 @@ T_Change_02	Special supply drop!
 T_WpnName_02	An egg cannon!
 LayoutMsg\Lobby_Capsule_00.msbt
 000	Step right up, and try your luck at the\n{color[0100]}Shell-Out Machine{color[ffff]}!\n\nThe first play will cost you {[0327|0000404000000000]}{color[0100]}5,000{color[ffff]}.\nAnd it's a cool {[0327|0000404000000000]}{color[0100]}30,000 {color[ffff]}for each\nplay after that!
-001	During Splatfests, you can use a\n{[0323|0000404000000000]}{color[0100]}conch shell {color[ffff]}to play the Shell-Out\nMachine once per day.\n\nYou can also play with cash like usual.\nJust {[0327|0000404000000000]}{color[0100]}5,000 {color[ffff]}for the first play, and\n{[0327|0000404000000000]}{color[0100]}30,000 {color[ffff]}every time after that!
+001	During Splatfests, you can use\n{[0323|0000404000000000]}{color[0100]}conch shells {color[ffff]}to play the Shell-Out\nMachine. One shell gets you one play!\n\nYou can also play with cash like usual.\nJust {[0327|0000404000000000]}{color[0100]}5,000 {color[ffff]}for the first play and\n{[0327|0000404000000000]}{color[0100]}30,000 {color[ffff]}every time after that!
 L_Btn_00-T_Btn_00	Nah
 100	Play!
 101	Use Cash to Play!
@@ -8397,10 +8460,6 @@ L_Btn_00-L_GuideCancel_00-T_Info_00	Cancel
 227	First, try some regular\nSplatfest Battles!
 228	First, try some regular\nSplatfest Battles!
 229	First, try some regular\nSplatfest Battles!
-300	Dry
-301	Raw
-302	Smokin'
-303	SUPERFRESH!
 400	VICTORY
 401	DEFEAT
 T_Rule_00	Mode
@@ -8550,7 +8609,7 @@ T_text_00	Player(s) waiting to join!
 LayoutMsg\Lobby_ScoreList_00.msbt
 100	No contest.
 101	The match was not fully completed.
-102	Because some players were not able to continue, the match will not count as a loss.
+102	Because one or more players were not able to continue, the match will not count as a loss.
 T_MedalAll_00	Medals Won
 L_ResultMeter_00-T_PlayerMax_00	KNOCKOUT!
 L_WinTeam_00-T_Point_00	p
@@ -9163,7 +9222,7 @@ L_StartBtn_00-T_Btn_00	Start Battle
 000	Lv. {[0200|00010000]}
 LayoutMsg\Plz_Title_00.msbt
 T_Press_00	Press
-T_Copyright_00	©2022 Nintendo
+T_Copyright_00	© Nintendo
 T_Title_00	Splatfest World Premiere
 L_Version_00-T_VersionTitle_00	Ver.
 LayoutMsg\Plz_TopicNews_00.msbt
@@ -9214,14 +9273,14 @@ LayoutMsg\Plz_WinTalkNews_00.msbt
 011	Splatfest Results
 T_NameR_00	Frye
 T_NameL_00	Shiver
+T_NameC_00	Big Man
 100	Listen to Splatcast
 101	Skip
-T_NameC_00	Big Man
 LayoutMsg\Replay_Main_00.msbt
 000	Pause
 001	Play
 003	Overhead
-004	By Mode
+004	Objectives
 L_Btn_01-T_Text_00	Nav Bar
 L_Btn_02-T_Text_00	Camera
 L_Btn_04-T_Text_00	To Highlight
@@ -9331,7 +9390,7 @@ LayoutMsg\Tml_Contents_00.msbt
 001	Back
 010	Nah
 020	Play!
-021	Replay this battle replay?
+021	Play this battle replay?
 030	Upload!
 031	Upload this battle replay?
 040	Download!
@@ -9420,7 +9479,7 @@ L_Upload_00-T_Text_00	Upload
 081	???
 090	The match was not fully completed.
 091	No contest.
-092	Because some players were not able to continue, the match will not count as a loss.
+092	Because one or more players were not able to continue, the match will not count as a loss.
 T_MedalAll_00	Medals Won
 T_ReplayName_01	's battle replay
 L_Result_04-T_MSign_01	x
@@ -10708,7 +10767,7 @@ cad1f675-3301-409b-80ff-53df1ce37b85	Ack! Your little pal needs more power. Pres
 dc918e12-63c9-47ba-bb28-d5908941bd2a	Yep. That Fuzzy Ooze is way overgrown and blockin'\nour path. Confirmed!
 618321da-390d-4cb3-a92e-792da1825ae9	Hm, doesn't look like the ol' ink is doin' much.\nWe got anything with more OOMPH?
 d2bc1fb0-ce5d-426e-b2a4-acc2bf1dd48c	Whoa! That did something. Try throwing it at\nthe Fuzzball!
-5087f971-62a1-4c31-9ec9-85ee1100c845	That's OK—give it another go! Press {[0308|cdcc4c3f00000000]} to power\nup, then throw it at the {color[0100]}Fuzzball {color[ffff]}with {[030a|0000803f00000000]}!
+5087f971-62a1-4c31-9ec9-85ee1100c845	That's OK—try again! Press the Right Stick ({[0308|cdcc4c3f00000000]}) to\npower up, then throw it at the {color[0100]}Fuzzball {color[ffff]}with {[030a|0000803f00000000]}!
 69ceea28-ad90-4eac-a12a-808d33534e30	You gotta hit the {color[0100]}Fuzzball {color[ffff]}directly, so take careful\naim and try again.
 be58c4cd-a1d3-44e0-b12b-5e18ee343082	Uh...you are aiming for the {color[0100]}Fuzzball{color[ffff]}, right? That nasty,\nhairy bubble thing on the Fuzzy Ooze?
 796db7e5-31c0-42ee-a836-49d0dd0e2d6e	Mind the {color[0100]}Fuzzy Ooze{color[ffff]} that's all over the place.\nTouch that stuff, and who knows what'll happen.

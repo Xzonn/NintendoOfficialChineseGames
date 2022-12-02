@@ -1413,7 +1413,7 @@ msg_ui_btlspot_help_06	[~ 127]
 msg_ui_btlspot_help_07	拍攝畫面
 msg_ui_btlspot_help_08	[~ 129]
 msg_ui_btlspot_help_09	[~ 130]
-msg_ui_btlspot_help_10	[~ 131]
+msg_ui_btlspot_help_10	詳細規則
 msg_ui_btlspot_help_11	[~ 132]
 msg_ui_btlspot_help_12	[~ 133]
 msg_ui_btlspot_help_13	查看隊伍
@@ -1717,8 +1717,8 @@ msg_ui_btlspot_win_02	[~ 431]
 msg_ui_btlspot_win_03	[~ 432]
 msg_ui_btlspot_win_04	發生連線錯誤。\n請重新再試一次。\c
 msg_ui_btlspot_win_05	要繼續對戰嗎？
-msg_ui_btlspot_win_06	新的賽季開始了！\c\n由於更換賽季，\n將從最初的級別開始。\c
-msg_ui_btlspot_win_07	賽季已結束。\c
+msg_ui_btlspot_win_06	新的賽季開始了！\c\n由於更換賽季，\n將從新的級別開始。\c
+msg_ui_btlspot_win_07	本次賽季已結束。\c
 msg_ui_btlspot_win_08	更新成績\n需要一些時間。\c\n要繼續對戰嗎？
 msg_ui_btlspot_win_09	[~ 438]
 msg_ui_btlspot_win_10	參加的官方大賽已結束。\c\n對戰隊伍已解鎖。\c
@@ -1810,10 +1810,10 @@ msg_ui_btlspot_competition_account_b	[~ 524]
 msg_ui_btlspot_reward_title	獎勵
 msg_ui_btlspot_reward_message_00	已接收賽季[VAR 0201(0000)]的獎勵！\c
 msg_ui_btlspot_reward_message_01	已接收參加大賽的獎勵！\c
-msg_ui_btlspot_reward_message_02	已接收遊玩級別大賽的獎勵！\c
+msg_ui_btlspot_reward_message_02	已接收遊玩級別對戰的獎勵！\c
 msg_ui_btlspot_reward_message_noreward	結果為「無排名」，\n因此沒有可獲得的獎勵。\c
 msg_ui_btlspot_rankbattle_result_message_01	您在賽季[VAR 0201(0000)]的排名是\n第[VAR 0206(0001,0000)]名！\c
-msg_ui_btlspot_rankbattle_result_message_02	您在賽季[VAR 0201(0000)]最終得到\n第[VAR 0201(0001)]名！\c
+msg_ui_btlspot_rankbattle_result_message_02	您在賽季[VAR 0201(0000)]的結果是\n級別[VAR 0201(0001)]！\c
 msg_ui_btlspot_reward_list_01	[VAR 0109(0000)]×[VAR 0201(0001)]
 msg_ui_btlspot_reward_list_02	聯盟支付點：[VAR 0206(0000,0000)]LP
 msg_ui_btlspot_reward_list_03	零用錢：[VAR 0206(0000,0000)]

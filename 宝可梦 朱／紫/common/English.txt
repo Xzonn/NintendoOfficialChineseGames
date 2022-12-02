@@ -1413,7 +1413,7 @@ msg_ui_btlspot_help_06	[~ 127]
 msg_ui_btlspot_help_07	Take a Screenshot
 msg_ui_btlspot_help_08	[~ 129]
 msg_ui_btlspot_help_09	[~ 130]
-msg_ui_btlspot_help_10	[~ 131]
+msg_ui_btlspot_help_10	Details of the Rules
 msg_ui_btlspot_help_11	[~ 132]
 msg_ui_btlspot_help_12	[~ 133]
 msg_ui_btlspot_help_13	Check Teams
@@ -1719,7 +1719,7 @@ msg_ui_btlspot_win_04	Communication error.\nPlease start again from the beginnin
 msg_ui_btlspot_win_05	Do you want to continue battling?
 msg_ui_btlspot_win_06	A new season has started!\c\nYou’ll start out the new season with a new rank!\c
 msg_ui_btlspot_win_07	The season has ended.\c
-msg_ui_btlspot_win_08	It will take some time for the results to\nbe updated.\c\nDo you want to continue battling?
+msg_ui_btlspot_win_08	It may take some time for the latest results to be\nreflected.\c\nDo you want to continue battling?
 msg_ui_btlspot_win_09	[~ 438]
 msg_ui_btlspot_win_10	The Official Competition in which you were\nparticipating has ended.\c\nYour Battle Team has been unlocked.\c
 msg_ui_btlspot_win_27	The Friendly Competition in which you were\nparticipating has ended.\c\nYour Battle Team has been unlocked.\c
@@ -1784,7 +1784,7 @@ msg_ui_btlspot_win_64	Searching for an opposing Trainer...
 msg_ui_btlspot_win_64_01	[~ 499]
 msg_ui_btlspot_win_65	An opposing Trainer has been found!
 msg_ui_btlspot_win_66	A battle against [VAR 0100(0000)] is about\nto start!
-msg_ui_btlspot_win_67	A battle against [VAR 0100(0000)] (Rank: [VAR 0201(0001)])\nis about to start!
+msg_ui_btlspot_win_67	A battle against [VAR 0100(0000)] (Rank [VAR 0201(0001)])\nis about to start!
 msg_ui_btlspot_win_68	A battle against [VAR 0100(0000)] (No. [VAR 0206(0001,0000)])\nis about to start!
 msg_ui_btlspot_win_69	A battle against [VAR 0100(0000)] (Rating: [VAR 0203(0001,0000)])\nis about to start!
 msg_ui_btlspot_win_70	An opposing Trainer couldn’t be found.\nPlease try again later.\c
@@ -1799,7 +1799,7 @@ msg_ui_btlspot_rank_change_08	Your tier has risen to Poké Ball Tier!\c
 msg_ui_btlspot_rank_change_09	Your tier has risen to Great Ball Tier!\c
 msg_ui_btlspot_rank_change_10	Your tier has risen to Ultra Ball Tier!\c
 msg_ui_btlspot_rank_change_11	Your tier has risen to Master Ball Tier!\c
-msg_ui_btlspot_rank_update_00	Update Data
+msg_ui_btlspot_rank_update_00	Update Status
 msg_ui_btlspot_terms_first	[~ 518]
 msg_ui_btlspot_terms_jp	[~ 519]
 msg_ui_btlspot_terms_ptc	[~ 520]
@@ -1810,13 +1810,13 @@ msg_ui_btlspot_competition_account_b	[~ 524]
 msg_ui_btlspot_reward_title	Rewards
 msg_ui_btlspot_reward_message_00	You claimed your rewards for Season [VAR 0201(0000)]!\c
 msg_ui_btlspot_reward_message_01	You’ve received rewards for taking part in a\ncompetition!\c
-msg_ui_btlspot_reward_message_02	You’ve received rewards for taking part in\nRanked Battles!\c
+msg_ui_btlspot_reward_message_02	You’ve earned rewards for your efforts in\nRanked Battles!\c
 msg_ui_btlspot_reward_message_noreward	You didn’t earn a standing in the competition,\nso there are no rewards for you to claim.\c
 msg_ui_btlspot_rankbattle_result_message_01	Your final standing in Season [VAR 0201(0000)] was\nNo. [VAR 0206(0001,0000)]!\c
-msg_ui_btlspot_rankbattle_result_message_02	Your rank for Season [VAR 0201(0000)] was [VAR 0201(0001)]!\c
+msg_ui_btlspot_rankbattle_result_message_02	You reached rank [VAR 0201(0001)] in Season [VAR 0201(0000)]!\c
 msg_ui_btlspot_reward_list_01	[VAR 0109(0000)] ×[VAR 0201(0001)]
-msg_ui_btlspot_reward_list_02	League Points ×[VAR 0206(0000,002C)] LP
-msg_ui_btlspot_reward_list_03	Prize money ×[VAR 0206(0000,002C)]
+msg_ui_btlspot_reward_list_02	League Points: [VAR 0206(0000,002C)] LP
+msg_ui_btlspot_reward_list_03	Prize money: [VAR 0206(0000,002C)]
 msg_ui_btlspot_reward_list_noreward	—
 msg_ui_btlspot_entryoption_select_title	Region and Division
 msg_ui_btlspot_entryoption_select01_01	Africa

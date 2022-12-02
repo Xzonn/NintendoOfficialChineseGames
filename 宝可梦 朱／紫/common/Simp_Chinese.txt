@@ -1413,7 +1413,7 @@ msg_ui_btlspot_help_06	[~ 127]
 msg_ui_btlspot_help_07	拍摄屏幕画面
 msg_ui_btlspot_help_08	[~ 129]
 msg_ui_btlspot_help_09	[~ 130]
-msg_ui_btlspot_help_10	[~ 131]
+msg_ui_btlspot_help_10	详细规则
 msg_ui_btlspot_help_11	[~ 132]
 msg_ui_btlspot_help_12	[~ 133]
 msg_ui_btlspot_help_13	查看队伍
@@ -1812,11 +1812,11 @@ msg_ui_btlspot_reward_message_00	已接收第[VAR 0201(0000)]赛季的奖励！\
 msg_ui_btlspot_reward_message_01	已接收参加大赛的奖励！\c
 msg_ui_btlspot_reward_message_02	已接收游玩级别对战的奖励！\c
 msg_ui_btlspot_reward_message_noreward	因结果为“无排名”，\n所以没有能接收的奖励。\c
-msg_ui_btlspot_rankbattle_result_message_01	你在赛季[VAR 0201(0000)]的排名是\n第[VAR 0206(0001,0000)]名！\c
-msg_ui_btlspot_rankbattle_result_message_02	你在赛季[VAR 0201(0000)]的结果是\n[VAR 0201(0001)]级别！\c
+msg_ui_btlspot_rankbattle_result_message_01	你在第[VAR 0201(0000)]赛季的排名是\n第[VAR 0206(0001,0000)]名！\c
+msg_ui_btlspot_rankbattle_result_message_02	你在第[VAR 0201(0000)]赛季的结果是\n级别：[VAR 0201(0001)]！\c
 msg_ui_btlspot_reward_list_01	[VAR 0109(0000)]　×[VAR 0201(0001)]
 msg_ui_btlspot_reward_list_02	联盟支付点：[VAR 0206(0000,0000)]LP
-msg_ui_btlspot_reward_list_03	零花钱：[VAR 0206(0000,002C)]
+msg_ui_btlspot_reward_list_03	零花钱：[VAR 0206(0000,0000)]
 msg_ui_btlspot_reward_list_noreward	无
 msg_ui_btlspot_entryoption_select_title	地区／参加类别
 msg_ui_btlspot_entryoption_select01_01	非洲

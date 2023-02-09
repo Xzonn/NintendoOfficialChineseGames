@@ -1,0 +1,1029 @@
+Cmn.msbt
+ConfirmYes	Yes
+ConfirmNo	No
+TotalSphereCount	{[0201]}{size[5000]}/{[0201]}{size[6400]}
+WaiwaiModeButton	Merry\nMagoland
+WaiwaiModeButtonOperation	{[0402|0200]}
+PlayerNUp	{[0201]}{size[4600]}UP{size[6400]}
+Player1Up	1{size[4600]}UP{size[6400]}
+OperationSkip	{[0411|9400]}Skip
+CharaKirby	Kirby
+CharaMetaknight	Meta Knight
+CharaDedede	King Dedede
+CharaWaddledee	Bandana\nWaddle Dee
+KiloSeparator	,
+AbilityKirby	Kirby
+AbilityMetaknight	Meta Knight
+AbilityDedede	King Dedede
+AbilityWaddledee	Bandana\nWaddle Dee
+AbilitySword	Sword
+AbilityCutter	Cutter
+AbilityLeaf	Leaf
+AbilityWhip	Whip
+AbilityFire	Fire
+AbilityNeedle	Needle
+AbilityBeam	Beam
+AbilitySleep	Sleep
+AbilityWater	Water
+AbilityHighjump	Hi-Jump
+AbilityTornado	Tornado
+AbilityNinja	Ninja
+AbilityFighter	Fighter
+AbilitySand	Sand
+AbilitySuperSword	Ultra Sword
+AbilitySuperFire	Monster Flame
+SharedPlay_P1_Subject	Play together at any place or time\nby {color[fddb00ff]}sharing Joy-Con controllers{color[000000ff]}!
+SharedPlay_P1_Body1	Up to{color[fddb00ff]} 4 people{color[000000ff]} can play together.
+SharedPlay_P1_Body2	You can even play as some of Kirby's friends!
+SharedPlay_P2_Subject	{color[fddb00ff]}Drop in or out whenever you want{color[000000ff]}\nwith the touch of a button!
+SharedPlay_P2_Body1	If your controller won't connect, enter the Controllers\nsection of the {[0412|a400]}/{[0414|a500]}Pause Menu to register the controller.
+SharedPlay_P2_Caption1	{color[fddb00ff]}Press any button{color[000000ff]}\nto play together!
+SharedPlay_P2_Caption2	{color[fddb00ff]}Hold down {[0703|0300]}{color[000000ff]}\nto drop out!
+SharedPlay_OperationClose	Close
+SharedPlay_OperationBack	Back
+SceneChangeToWaiwai_Dialog_Body	Would you like to go have\nsome fun in {color[fddb00ff]}Merry Magoland{color[000000ff]}?
+SceneChangeToWaiwai_Dialog_ButtonNo	Cancel
+SceneChangeToWaiwai_Dialog_ButtonYes	Visit Park
+SceneChangeToShop_Dialog_Body	Would you like to visit\n{color[fddb00ff]}Nintendo eShop{color[000000ff]}?
+SceneChangeToShop_Yy_Dialog_Body	Would you like to visit\n{color[fddb00ff]}Nintendo eShop{color[000000ff]}?
+SceneChangeToShop_Yy_Dialog_ConfirmYes	Yes
+SceneChangeToShop_Yy_Dialog_ConfirmNo	No
+StampTicketTutotial_Title	Redeem {color[ffe614ff]}Stamp Tickets{color[000000ff]}!
+StampTicketTutotial_Body	Stamp Tickets can be redeemed for stamps\nin {color[fe3c02ff]}Merry Magoland{color[000000ff]}. Collect lots of stamps\nto get special {color[fe3c02ff]}souvenirs{color[000000ff]}!
+IconBalloonControllerLRJoin	{size[7800]}{[0409|6000]}{size[6400]} + {size[7800]}{[040a|6100]}{size[6400]} Join
+OperationSetting_Title	Control Settings
+OperationSetting_OperationBack	Back
+OperationSetting_Stick	{[0415|c000]}
+OperationSetting_Move	Move
+OperationSetting_ButtonA	{[0400|0000]}
+OperationSetting_ButtonB	{[0401|0100]}
+OperationSetting_ButtonX	{[0402|0200]}
+OperationSetting_ButtonY	{[0403|0300]}
+OperationSetting_Jump	Jump
+OperationSetting_Attack	Attack
+OperationSetting_Discard	Drop Ability
+OperationSetting_Souvenir	Souvenir Item
+OperationSetting_StoryOperationType	Control Type
+OperationSetting_StoryOperationTypeA	Type A
+OperationSetting_StoryOperationTypeB	Type B
+OperationSetting_StoryVibration	Rumble
+OperationSetting_StoryVibrationOn	ON
+OperationSetting_StoryVibrationOff	OFF
+OperationSetting_StoryAutoDrawing	Auto Swallow
+OperationSetting_StoryAutoDrawingOn	ON
+OperationSetting_StoryAutoDrawingOff	OFF
+OperationSetting_StoryAutoDrawingOffNotify	Auto Swallow has been turned OFF.\nTo swallow objects, tilt {[0417|c200]}.
+EasyTutorial_Tutorial_Subject	{color[fddb00ff]}Helper Magolor{color[000000ff]} Is Here to Help!
+EasyTutorial_Tutorial_Body	Magolor can help you during your adventure!\nHe'll give you potions that {color[fe3c02ff]}double your stamina{color[000000ff]}\nand can {color[fe3c02ff]}save you from falling down holes{color[000000ff]}!
+EasyTutorial_Tutorial1_Subject	Adventuring with {color[fddb00ff]}Magolor{color[000000ff]}
+EasyTutorial_Tutorial1_Body	A visitor named Magolor has dropped out of the\nblue and landed on Planet Popstar. He's ready\nto lend a {color[fe3c02ff]}helping hand during your adventure{color[000000ff]}!
+EasyTutorial_Tutorial2_Subject	{color[fddb00ff]}Helper Magolor{color[000000ff]} Is Here to Help!
+EasyTutorial_Tutorial2_Body	He'll give you potions that {color[fe3c02ff]}double your stamina{color[000000ff]}\nand can {color[fe3c02ff]}save you from falling down holes{color[000000ff]}!\n(This will also activate Auto Swallow for Kirby.)
+EasyTutorial_Dialog_Body	Would you like for {color[fddb00ff]}Helper Magolor{color[000000ff]}\nto help while you play?\n{size[5000]}(You can change your Helper Magolor\nor Auto Swallow settings at any time\nin the {[0412|a400]}/{[0414|a500]}Pause Menu.){size[6400]}
+EasyTutorial_Dialog_ButtonNo	No
+EasyTutorial_Dialog_ButtonYes	Yes
+EasyTutorial_OperationBack	Back
+ShopButtonOperation	{[0413|9500]}
+$EshopBtn	Nintendo eShop
+GameOver.msbt
+Title	GAME OVER
+Continue	Continue
+Exit	Quit
+GoalGame.msbt
+Title	GOAL GAME
+RepdigitBonus	TEAM BONUS!
+EnemiesCount	Foes\ndefeated
+Push	Push
+SpecialBonus	SPECIAL\n{color[fddb00ff]}BONUS!{color[000000ff]}
+Start	START
+Movie.msbt
+TrialPromotion_01	The full version features even more\nstages and Copy Abilities!
+TrialPromotion_02	Various challenges and bosses\nawait you on your adventure.
+TrialPromotion_03	Merry Magoland is filled with\nfun subgame attractions!
+TrialPromotion_04	You can wear the dress-up masks\nyou've earned in Story Mode too!
+TrialPromotion_05	And after clearing the story...another tale unfolds.
+TrialPromotion_06	You'll be able to adventure with Magolor as he\nwanders through interdimensional space.
+TrialPromotion_07	Magolor will need your aid in gathering\nmagic to boost his powers.
+TrialPromotion_08	Will Magolor be able to escape\nfrom interdimensional space?!
+TrialPromotion_09	The adventure! The subgames!\nEverything's gone deluxe!
+TrialPromotion_10	All modes can be played solo\nor with multiplayer!
+Pause.msbt
+PageCountSlash	/
+OperationBack	Close
+DropoutTitle	Pause Menu
+DropoutContinue	Return to Game
+DropoutExitStage	Exit Stage
+DropoutExitStageConfirm	If you exit, your progress\n{color[fddb00ff]}will not be saved{color[000000ff]}.
+DropoutExitStageConfirm_Yes	Exit
+DropoutExitStageConfirm_No	Cancel
+DropoutReturnModeSelect	Mode Selection
+DropoutReturnModeSelectConfirm	Quit and return to the\n{color[fddb00ff]}Mode Selection{color[000000ff]} screen?
+DropoutReturnModeSelectConfirm_Yes	Yes
+DropoutReturnModeSelectConfirm_No	No
+DropoutReturnWorldMap	World Map
+DropoutReturnLor	To the Lor
+DropoutReturnLorConfirm	Quit and return to\nthe {color[fddb00ff]}Lor Starcutter{color[000000ff]}?
+DropoutReturnLorConfirm_Yes	Yes
+DropoutReturnLorConfirm_No	No
+SpTitle	Special Page
+SpVSLowper	VS Sphere Doomer
+SpVSLowperInfo	A {color[fe3c02ff]}Super Ability{color[000000ff]} helped you enter this\nstrange space, and a {color[fe3c02ff]}Sphere Doomer\n{color[000000ff]}has flown in from a different dimension\nas well! It won't let you steal the {color[fe3c02ff]}energy{color[000000ff]}\nof the spheres...so brace for an {color[fe3c02ff]}attack{color[000000ff]}!
+SpVSWhispy	VS Whispy Woods
+SpVSWhispyInfo	What does {color[fe3c02ff]}Whispy Woods{color[000000ff]} want with the\n{color[fe3c02ff]}ship part{color[000000ff]} it found? Maybe it's because\nit's so shiny? Whatever the reason, the\nguardian of the forest {color[fe3c02ff]}does NOT want\nto share{color[000000ff]} it with Kirby!
+SpVSWhispyExTrial	VS Whispy Woods EX
+SpVSWhispyExTrialInfo	Joining this demo for a {color[fe3c02ff]}special battle{color[000000ff]},\nit's {color[fe3c02ff]}Whispy Woods EX {color[000000ff]}from Extra Mode!\nHe fires {color[fe3c02ff]}whirlwinds{color[000000ff]} and drops {color[fe3c02ff]}poison\napples{color[000000ff]}. Try using various {color[fe3c02ff]}Copy Abilities{color[000000ff]}\nand {color[fe3c02ff]}souvenirs{color[000000ff]} to take down this boss!
+AblNoteRightDirection	Facing Right
+AblNormalTitle	About Kirby
+AblNormalTitle1	About Kirby 1
+AblNormalTitle2	About Kirby 2
+AblNormalTitle3	About Kirby 3
+AblNormalInfo	Inhale foes to gain {color[fe3c02ff]}Copy\nAbilities{color[000000ff]}! Or hold {size[7800]}{[0701|0100]}{size[6400]} to do\na {color[fe3c02ff]}Super Inhale{color[000000ff]}. And by\nsharing Joy-Con, you can\nplay as a {color[fe3c02ff]}team of 4{color[000000ff]}!
+AblNormalSwimTitle	Water Controls
+AblNormalSwimTitle1	Water Controls 1
+AblNormalSwimInfo	{color[fe3c02ff]}Into the water{color[000000ff]}: sploosh!\nGood thing you can {color[fe3c02ff]}float{color[000000ff]}.\nYour moves are limited,\nbut if all else fails, there's\nalways your {color[fe3c02ff]}Water Gun{color[000000ff]}!
+AblNormalDrawing	Inhale/Spit
+AblNormalDrawingSuper	Super Inhale
+AblNormalDrawn	Swallow/Copy
+AblNormalJump	Jump/Hover
+AblNormalDash	Dash
+AblNormalPlancher	Quick Fall
+AblNormalSliding	Slide
+AblNormalDump	Drop Ability
+AblNormalGuard	Guard
+AblNormalAvoidMove	Dodge
+AblNormalAvoidMoveFlying	Air Dodge
+AblNormalDrawingBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblNormalDrawingSuperBtn	Hold {size[7800]}{[0701|0100]}{size[6400]} or {size[7800]}{[0701|0100]}{size[6400]}\n+ move {size[7800]}{[0415|c000]}{size[6400]} rapidly
+AblNormalDrawnBtn	{size[7800]}{[0417|c200]}{size[6400]} after inhaling
+AblNormalJumpBtn	{size[7800]}{[0700|0000]}{size[6400]}
+AblNormalDashBtn	Quickly {size[7800]}{[0416|c100]}{size[6400]}/{size[7800]}{[0416|c100]} {[0416|c100]}{size[6400]}
+AblNormalPlancherBtn	{size[7800]}{[0417|c200]}{[0417|c200]}{size[6400]} in midair
+AblNormalSlidingBtn	{size[7800]}{[0417|c200]} {size[6400]}+ {size[7800]}{[0700|0000]}{size[6400]}
+AblNormalDumpBtn	Press and hold {size[7800]}{[0703|0300]}{size[6400]} / {size[7800]}{[0413|9500]}{size[6400]}
+AblNormalGuardBtn	{size[7800]}{[0409|6000]}/{[040a|6100]}{size[6400]}
+AblNormalAvoidMoveBtn	{size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]} + {size[7800]}{[0415|c000]}{size[6400]}
+AblNormalAvoidMoveFlyingBtn	{size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]} in midair
+AblNormalSwimSwim	Swim
+AblNormalSwimSwim2	Swim up
+AblNormalSwimPistol	Water Gun
+AblNormalSwimAbl	Some Copy Abilities also work in water!
+AblNormalSwimSwimBtn	{size[7800]}{[0415|c000]}{size[6400]}
+AblNormalSwimSwim2Btn	{size[7800]}{[0700|0000]}{size[6400]}
+AblNormalSwimPistolBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblWhipTitle	Whip
+AblWhipTitle1	Whip 1
+AblWhipTitle2	Whip 2
+AblWhipTitle3	Whip 3
+AblWhipInfo	What a {color[fe3c02ff]}stylish{color[000000ff]} hat! With the\nwhip's {color[fe3c02ff]}long reach{color[000000ff]}, striking\nfoes and {color[fe3c02ff]}pulling{color[000000ff]} in items is\na {color[fe3c02ff]}snap{color[000000ff]}. Adventure awaits!
+AblWhipSlash	Whip Strike
+AblWhipItemCatch	Use any whip attack to grab items!
+AblWhipMultiAttack	100-Whip Slap
+AblWhipRoof	Ceiling Strike
+AblWhipJump	Jump Strike
+AblWhipTyphoon	Whip Tornado
+AblWhipCicleRibon	100-Whip Dash
+AblWhipCapture	Whip Grab
+AblWhipBeatFront	Front Lash
+AblWhipBeatDouble	Double Lash
+AblWhipBeatBack	Back Lash
+AblWhipBeatHight	High Lash
+AblWhipSlashBtn	Tap {size[7800]}{[0701|0100]}{size[6400]}
+AblWhipMultiAttackBtn	{size[7800]}{[0701|0100]}{size[6400]} repeatedly
+AblWhipRoofBtn	{size[7800]}{[0419|c400]}{size[6400]} + tap {size[7800]}{[0701|0100]}{size[6400]}
+AblWhipJumpBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblWhipTyphoonBtn	{size[7800]}{[0417|c200]}{size[6400]}, then {size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblWhipCicleRibonBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblWhipCaptureBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblWhipBeatFrontBtn	Whip Grab + {size[7800]}{[0701|0100]} {size[6400]}/\nWhip Grab + {size[7800]}{[0416|c100]}{size[6400]}
+AblWhipBeatDoubleBtn	Whip Grab + {size[7800]}{[0417|c200]}{size[6400]}
+AblWhipBeatBackBtn	Whip Grab + {size[7800]}{[0418|c300]}{size[6400]}
+AblWhipBeatHightBtn	Whip Grab + {size[7800]}{[0419|c400]}{size[6400]}
+AblWaterTitle	Water
+AblWaterTitle1	Water 1
+AblWaterTitle2	Water 2
+AblWaterInfo	Look out—you're a {color[fe3c02ff]}water\nwizard{color[000000ff]}! Ride the waves to\n{color[fe3c02ff]}wipe out{color[000000ff]} the {color[fe3c02ff]}flames in your\nway{color[000000ff]}! Oh, and your Water\nGun is supercharged too!
+AblWaterWaveShot	Wave Attack
+AblWaterRideWave	Surf
+AblWaterStrokkur	Geyser
+AblWaterFountain	Fountain Hover
+AblWaterSurfTackle	Wave Surf
+AblWaterRaibowRain	Rainbow Rain
+AblWaterCrown	Water Crown
+AblWaterPistol	Enhanced\nWater Gun
+AblWaterWaveShotBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblWaterRideWaveBtn	Dash
+AblWaterStrokkurBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblWaterFountainBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblWaterSurfTackleBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblWaterRaibowRainBtn	{size[7800]}{[0417|c200]}{size[6400]}, then {size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblWaterCrownBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblWaterPistolBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblCutterTitle	Cutter
+AblCutterTitle1	Cutter 1
+AblCutterTitle2	Cutter 2
+AblCutterInfo	{color[fe3c02ff]}Cut{color[000000ff]} through {color[fe3c02ff]}ropes{color[000000ff]} with\nthe {color[fe3c02ff]}blade{color[000000ff]} of a well-aimed\nboomerang. {color[fe3c02ff]}Aim{color[000000ff]} it upward\nor down, or hold to charge\nup a {color[fe3c02ff]}Hyper Boomerang{color[000000ff]}!
+AblCutterBoomerang	Cutter\nBoomerang
+AblCutterDashAttack	Cutter Dash
+AblCutterDrop	Sweep Cutter
+AblCutterDropHight	Cutter Drop
+AblCutterKaratake	Cleaving Cutter
+AblCutterFinalCombo	Final Cutter
+AblCutterBoomerangHyper	Hyper\nBoomerang
+AblCutterBoomerangBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblCutterDashAttackBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblCutterDropBtn	Press and hold {size[7800]}{[0701|0100]}\n{size[6400]}in midair
+AblCutterDropHightBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblCutterKaratakeBtn	{size[7800]}{[0701|0100]}{size[6400]} near an enemy
+AblCutterFinalComboBtn	{size[7800]}{[0701|0100]}{size[6400]} repeatedly\nnear an enemy
+AblCutterBoomerangHyperBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblSleepTitle	Sleep
+AblSleepTitle1	Sleep 1
+AblSleepInfo	Just...{size[5a00]}five more...{size[6400]}{size[5000]}minutes.{size[6400]}\nPlease...{size[5000]}just let me sleep.{size[6400]}\nIf you must...{size[5000]}wake me...{size[6400]}\n{size[5000]}just...{size[6400]}{size[4600]}shake me...{size[6400]}\n{size[6e00]}Zzz...{size[6400]}{size[5a00]}zzz...{size[6400]}{size[4600]}zzz...{size[6400]}
+AblSleepNormal	Sleep
+AblSleepGetUp	Early Wake-Up
+AblSleepNormalBtn	When swallowing
+AblSleepGetUpBtn	Move {size[7800]}{[0415|c000]}{size[6400]} rapidly
+AblSwordTitle	Sword
+AblSwordTitle1	Sword 1
+AblSwordTitle2	Sword 2
+AblSwordTitle3	Sword 3
+AblSwordTitle4	Sword 4
+AblSwordInfo	Don a {color[fe3c02ff]}green hat{color[000000ff]} with your\nsword in hand! {color[fe3c02ff]}Spin Slash{color[000000ff]}!\nDo a {color[fe3c02ff]}Sword Dive{color[000000ff]} as your\n{color[fe3c02ff]}finishing strike{color[000000ff]}! It's all\nabout the flourish.
+AblSwordNormal	Overhead Slash
+AblSwordBeam	Sword Beam
+AblSwordComboAttack	Multisword\nAttack
+AblSwordDril	Drill Stab
+AblSwordDash	Sword Spin
+AblSwordChopping	Chop and Thrust
+AblSwordKabuto	Hat Thrust
+AblSwordUnder	Down Thrust
+AblSwordUpper	Upward Slash
+AblSwordMteoend	Sword Dive
+AblSwordRoll	Spin Slash
+AblSwordTornado	Twister Slash
+AblSwordSkyEnergy	Sky Energy Sword
+AblSwordDashWater	Underwater Spin
+AblSwordNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblSwordBeamBtn	{size[7800]}{[0701|0100]}{size[6400]} with full health
+AblSwordComboAttackBtn	{size[7800]}{[0701|0100]}{size[6400]} after Overhead Slash
+AblSwordDrilBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblSwordDashBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblSwordChoppingBtn	{size[7800]}{[0701|0100]}{size[6400]} in midair
+AblSwordKabutoBtn	Hold {size[7800]}{[0701|0100]} {size[6400]}during\nChop and Thrust, then {size[7800]}{[0417|c200]}{size[6400]}
+AblSwordUnderBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblSwordUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblSwordMteoendBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} while rising\nduring Upward Slash
+AblSwordRollBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblSwordTornadoBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release + {size[7800]}{[0419|c400]}{size[6400]}
+AblSwordSkyEnergyBtn	Press and hold {size[7800]}{[0419|c400]}{size[6400]},\nthen {size[7800]}{[0701|0100]}{size[6400]}
+AblSwordDashWaterBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblTornadoTitle	Tornado
+AblTornadoTitle1	Tornado 1
+AblTornadoTitle2	Tornado 2
+AblTornadoInfo	{color[fe3c02ff]}Round and round{color[000000ff]} you go!\nSpin with {color[fe3c02ff]}special {color[000000ff]}controls!\nWiggle {size[7800]}{[0415|c000]}{size[6400]} to charge up\na {color[fe3c02ff]}whirlwind attack{color[000000ff]}! Round\nand round and— Whee!
+AblTornadoAttack	Tornado Attack
+AblTornadoTackle	Tornado Dash
+AblTornadoUnder	Falling Gust
+AblTornadoUpper	Rising Gust
+AblTornadoHyper	Hyper Tornado
+AblTornadoAttackBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblTornadoTackleBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblTornadoUnderBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]} {size[6400]}in midair
+AblTornadoUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblTornadoHyperBtn	Move {size[7800]}{[0415|c000]}{size[6400]} rapidly or hold\n{size[7800]}{[0701|0100]}{size[6400]} during Tornado Attack
+AblNeedleTitle	Needle
+AblNeedleTitle1	Needle 1
+AblNeedleTitle2	Needle 2
+AblNeedleInfo	{color[fe3c02ff]}Prick{color[000000ff]} your foes with a\nthorny jab! Really {color[fe3c02ff]}stick it\n{color[000000ff]}to 'em! Roll from dashing\nto bring the pain with\na {color[fe3c02ff]}Rolling Needle{color[000000ff]}!
+AblNeedleAttack	Needle Attack
+AblNeedleStickToWall	Wall Stick
+AblNeedleBurn	Needle Burst
+AblNeedleTackle	Rolling Needle
+AblNeedleUpper	Mega Needle
+AblNeedleAttackBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblNeedleStickToWallBtn	Touch wall while\nusing Needle Attack
+AblNeedleBurnBtn	{size[7800]}{[0701|0100]}{size[6400]} + move {size[7800]}{[0415|c000]}{size[6400]} rapidly
+AblNeedleTackleBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblNeedleUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaTitle	Ninja
+AblNinjaTitle1	Ninja 1
+AblNinjaTitle2	Ninja 2
+AblNinjaTitle3	Ninja 3
+AblNinjaTitle4	Ninja 4
+AblNinjaInfo	Hide in {color[fe3c02ff]}shadows{color[000000ff]} and\nfade into the {color[fe3c02ff]}darkness{color[000000ff]}.\nBecome a master {color[fe3c02ff]}Ninja{color[000000ff]},{color[ff4b32ff]}\n{color[000000ff]}and no one will expect\nyour {color[fe3c02ff]}Blossom Storm{color[000000ff]}!
+AblNinjaKunai	Knife Throw
+AblNinjaSmoke	Smoke Screen
+AblNinjaFlowerShower	Blossom Storm
+AblNinjaSlash	Shock
+AblNinjaSlashCombo	Quad Shock
+AblNinjaDash	Stealth Slash
+AblNinjaKick	Ninja Kick
+AblNinjaAirDrop	Air Drop
+AblNinjaHide	Hide Guard
+AblNinjaHideGard	Smoke Counter
+AblNinjaStickWall	Wall Cling
+AblNinjaStickWallKunai	Wall Strike
+AblNinjaTriangleJump	Wall Jump
+AblNinjaWaterIn	Stealth\nWater Gun
+AblNinjaKunaiBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaSmokeBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaFlowerShowerBtn	{size[7800]}{[0419|c400]}{size[6400]}, then {size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaSlashBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaSlashComboBtn	Press and hold {size[7800]}{[0701|0100]}\n{size[6400]}near an enemy
+AblNinjaDashBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblNinjaKickBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblNinjaAirDropBtn	Either {size[7800]}{[041c|c700]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}\nnear an enemy
+AblNinjaHideBtn	{size[7800]}{[0701|0100]}{size[6400]} right after\nbeing attacked
+AblNinjaHideGardBtn	{size[7800]}{[0701|0100]}{size[6400]} right after being\nattacked while guarding
+AblNinjaStickWallBtn	Hold {[0418|c300]} or {[0416|c100]} against\na wall in midair
+AblNinjaStickWallKunaiBtn	{size[7800]}{[0701|0100]}{size[6400]} during Wall Cling
+AblNinjaTriangleJumpBtn	{size[7800]}{[0700|0000]}{size[6400]} during Wall Cling
+AblNinjaWaterInBtn	{size[7800]}{[0701|0100]}{size[6400]} while floating on\nthe water's surface
+AblHighjumpTitle	Hi-Jump
+AblHighjumpTitle1	Hi-Jump 1
+AblHighjumpInfo	Leap into the air with a\n{color[fe3c02ff]}Hi-Jump{color[000000ff]}! Then zoom back\ndown with an {color[fe3c02ff]}unstoppable{color[000000ff]}{color[ff4b32ff]}\n{color[000000ff]}high-speed Rocket Dive!\nThe {color[fe3c02ff]}hero returns{color[000000ff]}!
+AblHighjumpNormal	Hi-Jump
+AblHighjumpHight	Rocket Hi-Jump
+AblHighjumpHeightBomb	Mega Hi-Jump
+AblHighjumpFalling	Rocket Dive
+AblHighjumpNormalBtn	Tap {size[7800]}{[0701|0100]}{size[6400]}
+AblHighjumpHightBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblHighjumpHeightBombBtn	Hold {size[7800]}{[0701|0100]}{size[6400]} even longer\nbefore releasing
+AblHighjumpFallingBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblBeamTitle	Beam
+AblBeamTitle1	Beam 1
+AblBeamTitle2	Beam 2
+AblBeamInfo	Lash foes with a whip-like\nbeam! Dash for {color[fe3c02ff]}Cycle{color[000000ff]}! Grab\nand {color[fe3c02ff]}Capture{color[000000ff]}! Spin in midair\nfor a {color[fe3c02ff]}Revolution{color[000000ff]}! Charge it\nup, and BAM! {color[fe3c02ff]}Wave Beam{color[000000ff]}!
+AblBeamWhip	Beam Whip
+AblBeamCicle	Cycle Beam
+AblBeamMachinegun	Beam Blast
+AblBeamRevolution	Revolution Beam
+AblBeamCannon	Wave Beam
+AblBeamCaptuer	Capture Beam
+AblBeamWhipBtn	Tap {size[7800]}{[0701|0100]}{size[6400]}
+AblBeamCicleBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblBeamMachinegunBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblBeamRevolutionBtn	{size[7800]}{[0701|0100]}{size[6400]} repeatedly in midair
+AblBeamCannonBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblBeamCaptuerBtn	{size[7800]}{[0420|cb00]}{size[6400]} + {size[7800]}{[0701|0100]} {size[6400]}near an enemy
+AblFireTitle	Fire
+AblFireTitle1	Fire 1
+AblFireTitle2	Fire 2
+AblFireTitle3	Fire 3
+AblFireInfo	Feel the heat of hot {color[fe3c02ff]}flame{color[000000ff]}\ntechniques. Light {color[fe3c02ff]}fuses{color[000000ff]}!\nClimb walls! {color[fe3c02ff]}Fireball Climb!{color[000000ff]}\nGet fired up with the secret\nmove {color[fe3c02ff]}Fireball Inferno{color[000000ff]}!
+AblFireNormal	Fire Breath
+AblFireDirecrtion	Target Fire
+AblFireBall	Fireball Inferno
+AblFireBurningAttack	Burn
+AblFireBurningBurn	Searing Burn
+AblFireFalling	Burning Flame
+AblFireRoll	Spinning\nFire Breath
+AblFireSpin	Fireball Spin
+AblFireRollingAttack	Fireball Roll
+AblFireRollingJump	Fireball Jump
+AblFireRollingClimb	Fireball Climb
+AblFireNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblFireDirecrtionBtn	Fire Breath + {size[7800]}{[0415|c000]}{size[6400]}
+AblFireBallBtn	Press and hold {size[7800]}{[0418|c300]}\n{size[6400]}during Fire Breath
+AblFireBurningAttackBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblFireBurningBurnBtn	{size[7800]}{[0700|0000]}{size[6400]} during Burn
+AblFireFallingBtn	{size[7800]}{[0701|0100]}{size[6400]} during Burn
+AblFireRollBtn	{size[7800]}{[0701|0100]}{size[6400]} in midair
+AblFireSpinBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblFireRollingAttackBtn	Touch the ground\nduring Fireball Spin
+AblFireRollingJumpBtn	Press {size[7800]}{[0700|0000]}{size[6400]} during\nFireball Roll
+AblFireRollingClimbBtn	Touch a wall during\nFireball Roll or Fireball Spin
+AblFighterTitle	Fighter
+AblFighterTitle1	Fighter 1
+AblFighterTitle2	Fighter 2
+AblFighterTitle3	Fighter 3
+AblFighterTitle4	Fighter 4
+AblFighterInfo	Get ready to {color[fe3c02ff]}brawl{color[000000ff]}! {color[fe3c02ff]}How\nlong{color[000000ff]} you hold the button\nwill change how {color[fe3c02ff]}strong{color[000000ff]} or\n{color[fe3c02ff]}weak{color[000000ff]} your attacks are. And\nthere are a {color[fe3c02ff]}ton{color[000000ff]} of them!
+AblFighterJump	Vulcan Jab
+AblFighterPanchi	Smash Punch
+AblFighterUnder	Leg Sweep
+AblFighterSpinKick	Spin Kick
+AblFighterTrampleKick	Down Kick
+AblFighterDoubleKick	Double Kick
+AblFighterCannon	Force Blast
+AblFighterMegaCannon	Mega Force Blast
+AblFighterGigaCannon	Giga Force Blast
+AblFighterMegaCannonFast	Instant Mega\nForce Blast
+AblFighterRisingBreak	Rising Break
+AblFighterMoonSalto	Moon Somersault\nKick
+AblFighterSkyKick	Sky Kick
+AblFighterCapture	Foe Grab
+AblFighterThrow	Arm Throw
+AblFighterBackThrow	Judo Throw
+AblFighterJumpBtn	Tap {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterPanchiBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterUnderBtn	Dash, then tap {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterSpinKickBtn	Dash + hold {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterTrampleKickBtn	Tap {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblFighterDoubleKickBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblFighterCannonBtn	{size[7800]}{[0417|c200]}{size[6400]} + hold {size[7800]}{[0701|0100]}{size[6400]} briefly\nbefore releasing
+AblFighterMegaCannonBtn	{size[7800]}{[0417|c200]}{size[6400]} + hold {size[7800]}{[0701|0100]}{size[6400]} longer\nbefore releasing
+AblFighterGigaCannonBtn	{size[7800]}{[0417|c200]}{size[6400]} + hold {size[7800]}{[0701|0100]}{size[6400]} even longer\nbefore releasing
+AblFighterMegaCannonFastBtn	{size[7800]}{[0417|c200]}{[0416|c100]}{size[6400]} + hold {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterRisingBreakBtn	{size[7800]}{[0419|c400]}{size[6400]} and hold {size[7800]}{[0701|0100]}{size[6400]}
+AblFighterMoonSaltoBtn	Release {size[7800]}{[0701|0100]}{size[6400]} near an\nenemy in midair
+AblFighterSkyKickBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblFighterCaptureBtn	Either {size[7800]}{[041c|c700]}{size[6400]} + {size[7800]}{[0701|0100]}\n{size[6400]}near an enemy
+AblFighterThrowBtn	Foe Grab + {size[7800]}{[0701|0100]}{size[6400]} or\nFoe Grab + either {size[7800]}{[041c|c700]}{size[6400]}
+AblFighterBackThrowBtn	Foe Grab + either {size[7800]}{[041e|c900]}{size[6400]}
+AblLeafTitle	Leaf
+AblLeafTitle1	Leaf 1
+AblLeafTitle2	Leaf 2
+AblLeafInfo	Time to {color[ff4b32ff]}dance{color[000000ff]}! The {color[ff4b32ff]}Leaf\nDance {color[000000ff]}creates a gorgeous\nswirl of razor-sharp leaves.\nPress {size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]} to {color[ff4b32ff]}Guard{color[000000ff]},\nand... Huh?! {color[ff4b32ff]}You vanished!{color[000000ff]}
+AblLeafCutter	Leaf Attack
+AblLeafBarrier	Leaf Swirl
+AblLeafDisperse	Leaf Scatter
+AblLeafDance	Leaf Dance
+AblLeafUpper	Leaf Uppercut
+AblLeafUnder	Leaf Rain
+AblLeafHide	Leaf Hide
+AblLeafApper	Reveal
+AblLeafCutterBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblLeafBarrierBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]}
+AblLeafDisperseBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblLeafDanceBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblLeafUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblLeafUnderBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblLeafHideBtn	{size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]}
+AblLeafApperBtn	During Leaf Hide,\nrelease {size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]}
+AblSandTitle	Sand
+AblSandTitle1	Sand 1
+AblSandTitle2	Sand 2
+AblSandTitle3	Sand 3
+AblSandTitle4	Sand 4
+AblSandInfo	{color[fe3c02ff]}Sand{color[000000ff]} can be shifted into all\nkinds of shapes. Form a fist\nto {color[fe3c02ff]}smash{color[000000ff]} and {color[fe3c02ff]}grab{color[000000ff]}, then\n{color[fe3c02ff]}finish{color[000000ff]} your foes by sculpting\na sudden {color[fe3c02ff]}sandcastle{color[000000ff]}!
+AblSandWave	Sand Wave
+AblSandAttack	Sand Burst
+AblSandBag	Sand Kick
+AblSandCapture	Sand Grab
+AblSandGrip	Sand Toss
+AblSandCrusher	Sand Smasher
+AblSandGolemCrusher	Golem Smasher
+AblSandStorm	Sand Storm
+AblSandHurricane	Sand Hurricane
+AblSandRush	Sand Dash
+AblSandBall	Sand Ball
+AblSandHide	Sand Hide
+AblSandApper	Reveal
+AblSandGazer	Sand Geyser
+AblSandCastle	Sandcastle
+AblSandWaveBtn	Tap {size[7800]}{[0701|0100]}{size[6400]}
+AblSandAttackBtn	{size[7800]}{[0701|0100]}{size[6400]} after Sand Wave
+AblSandBagBtn	{size[7800]}{[0418|c300]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} after Sand Wave
+AblSandCaptureBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblSandGripBtn	Sand Grab + {size[7800]}{[0701|0100]}{size[6400]}
+AblSandCrusherBtn	{size[7800]}{[0417|c200]}{size[6400]} + tap {size[7800]}{[0701|0100]}{size[6400]}
+AblSandGolemCrusherBtn	{size[7800]}{[0417|c200]}{size[6400]} + press and hold\n{size[7800]}{[0701|0100]}{size[6400]}, then release
+AblSandStormBtn	{size[7800]}{[0419|c400]}{size[6400]} + tap {size[7800]}{[0701|0100]}{size[6400]}
+AblSandHurricaneBtn	{size[7800]}{[0419|c400]}{size[6400]} and hold {size[7800]}{[0701|0100]}{size[6400]}
+AblSandRushBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblSandBallBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblSandHideBtn	{size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]}
+AblSandApperBtn	Release {size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]} while\nusing Sand Hide
+AblSandGazerBtn	{size[7800]}{[0701|0100]}{size[6400]} during Sand Hide
+AblSandCastleBtn	{size[7800]}{[0417|c200]}{size[6400]}, then {size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblSuperSwordTitle	Ultra Sword
+AblSuperSwordTitle1	Ultra Sword 1
+AblSuperSwordInfo	Packing pure destructive\npower, it's a {color[fe3c02ff]}Super Ability{color[000000ff]}!\nIts name: {color[fe3c02ff]}Ultra Sword{color[000000ff]}!\nIt {color[fe3c02ff]}destroys everything in\nits path{color[000000ff]}, even the ground!
+AblSuperSwordNormal	Ultra Sword
+AblSuperSwordChange	The sword changes each time you swing!
+AblSuperSwordNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblSuperFireTitle	Monster Flame
+AblSuperFireTitle1	Monster Flame 1
+AblSuperFireInfo	A fiery {color[fe3c02ff]}dragon flies{color[000000ff]} through\nthe skies! Storming into\nbattle, the {color[fe3c02ff]}fury{color[000000ff]} of its\n{color[fe3c02ff]}Monster Flame{color[000000ff]} will {color[fe3c02ff]}burn\n{color[000000ff]}every foe in its path!
+AblSuperFireNormal	Monster Flame
+AblSuperFireDirection	Target Flame
+AblSuperFireNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblSuperFireDirectionBtn	{size[7800]}{[041b|c600]}{size[6400]} during Monster Flame
+AblMetaTitle	About Meta Knight
+AblMetaTitle1	About Meta Knight 1
+AblMetaTitle2	About Meta Knight 2
+AblMetaTitle3	About Meta Knight 3
+AblMetaTitle4	About Meta Knight 4
+AblMetaTitle5	About Meta Knight 5
+AblMetaInfo	The {color[fe3c02ff]}masked knight{color[000000ff]} enters,\nsoaring through the {color[fe3c02ff]}air{color[000000ff]} and\ndeftly swinging his {color[fe3c02ff]}sword{color[000000ff]}.{color[fe3c02ff]}\n{color[000000ff]}His {color[fe3c02ff]}unrivaled speed{color[000000ff]} is the\nresult of intense training!
+AblMetaNormal	Overhead Slash
+AblMetaBeam	Knight Beam
+AblMeta3Attack	Meta Triple Slash
+AblMetaCombo	Meta Multithrust
+AblMetaDrill	Piercing Slash
+AblMetaSpin	Knight Spin
+AblMetaChopping	Meta Chop
+AblMetaLower	Down Thrust
+AblMetaUpper	Up Thrust
+AblMetaCounter	Galactic Counter
+AblMetaRolling	Meta Spin Slash
+AblMetaMachTornado	Mach Tornado
+AblMetaSkyKnight	Sky Knight Sword
+AblMetaDive	Meta\nCondor Dive
+AblMetaShattleloop	Shuttle Loop
+AblMetaFlapping	Hover
+AblMetaWaterSpin	Underwater Spin
+AblMetaNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblMetaBeamBtn	{size[7800]}{[0701|0100]}{size[6400]} with full health
+AblMeta3AttackBtn	{size[7800]}{[0701|0100]}{size[6400]} twice after\nOverhead Slash
+AblMetaComboBtn	{size[7800]}{[0701|0100]}{size[6400]} after Meta Triple Slash
+AblMetaDrillBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblMetaSpinBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblMetaChoppingBtn	{size[7800]}{[0701|0100]}{size[6400]} in midair
+AblMetaLowerBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblMetaUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblMetaCounterBtn	{size[7800]}{[0417|c200]}{size[6400]} {size[7800]}+ {[0701|0100]}{size[6400]}
+AblMetaRollingBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblMetaMachTornadoBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release + {size[7800]}{[0419|c400]}{size[6400]}
+AblMetaSkyKnightBtn	Press and hold {size[7800]}{[0419|c400]}{size[6400]},\nthen {size[7800]}{[0701|0100]}{size[6400]}
+AblMetaDiveBtn	Dash and press {size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}\n{size[6400]}in midair
+AblMetaShattleloopBtn	{size[7800]}{[0417|c200]}{size[6400]}, then {size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblMetaFlappingBtn	{size[7800]}{[0700|0000]}{size[6400]} in midair
+AblMetaWaterSpinBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblDededeTitle	About King Dedede
+AblDededeTitle1	About King Dedede 1
+AblDededeTitle2	About King Dedede 2
+AblDededeTitle3	About King Dedede 3
+AblDededeTitle4	About King Dedede 4
+AblDededeInfo	Make way for the {color[fe3c02ff]}king{color[000000ff]} of\nDream Land! I'm {size[8200]}{color[fe3c02ff]}big{color[000000ff]}{size[6400]} and\n{color[fe3c02ff]}burly{color[000000ff]}, just like my {color[fe3c02ff]}hammer{color[000000ff]}.\nYou won't get far without\nme...so{size[5f00]} {size[6400]}{size[7800]}I'm coming too!{size[6400]}
+AblDededeNormal	Hammer
+AblDededeLower	Hammer Twirl
+AblDedede3Attack	Triple\nDedede Hammer
+AblDededeSwing	Giant\nDedede Swing
+AblDededeRolling	Midair\nHammer Swing
+AblDededeFire	Dedede\nHammer Flip
+AblDededeTameMove	Move\nwhile Charging
+AblDededeThrow	Dedede\nHammer Throw
+AblDededeSliding	Head Slide
+AblDededeSuperJump	Super Dedede Jump
+AblDededeWater	Underwater\nHammer Swing
+AblDededeHover	Hover
+AblDededeAirBall	Air Bullet
+AblDededeNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblDededeLowerBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblDedede3AttackBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblDededeSwingBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblDededeRollingBtn	{size[7800]}{[0701|0100]}{size[6400]} in midair
+AblDededeFireBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblDededeTameMoveBtn	{size[7800]}{[0418|c300]}{size[6400]}/{size[7800]}{[0416|c100]}{size[6400]} during\nDedede Hammer Flip
+AblDededeThrowBtn	Dash + {size[7800]}{[0703|0300]}{size[6400]}
+AblDededeSlidingBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} while dashing
+AblDededeSuperJumpBtn	{size[7800]}{[0417|c200]}{size[6400]}, then {size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblDededeWaterBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblDededeHoverBtn	{size[7800]}{[0700|0000]}{size[6400]} in midair
+AblDededeAirBallBtn	{size[7800]}{[0701|0100]}{size[6400]} during Hover
+AblDeeTitle	About Bandana Waddle Dee
+AblDeeTitle1	About Bandana Waddle Dee 1
+AblDeeTitle2	About Bandana Waddle Dee 2
+AblDeeTitle3	About Bandana Waddle Dee 3
+AblDeeTitle4	About Bandana Waddle Dee 4
+AblDeeInfo	I'm Bandana Waddle Dee,\n{color[fe3c02ff]}everyone's favorite{color[000000ff]}! Sure,\nI may be {size[5000]}{color[fe3c02ff]}small{color[000000ff]}{size[6400]}, but I've got\na {size[6e00]}{color[fe3c02ff]}BIG HEART{color[000000ff]}{size[6400]}...and a big\n{color[fe3c02ff]}spear {color[000000ff]}that packs a wallop!
+AblDeeNormal	Spear Thrust
+AblDeeAttackBack	Back Thrust
+AblDeeCombo	Multispear Thrust
+AblDeeHeri	Waddle Copter
+AblDeeUpper	Skyward Thrust
+AblDeeGround	Ground Thrust
+AblDeeLower	Moon Drop
+AblDeeArrow	Waddle\nSpear Throw
+AblDeeThrowShot	Waddle\nSpear Barrage
+AblDee3WayThrow	Waddle\nTriple Throw
+AblDeeWater	Underwater\nThrust
+AblDeeWaterUpper	Surface Thrust
+AblDeeWaterLower	Underwater\nDownward Thrust
+AblDeeNormalBtn	{size[7800]}{[0701|0100]}{size[6400]}
+AblDeeAttackBackBtn	After pressing {size[7800]}{[0701|0100]}{size[6400]},\npress {size[7800]}{[0418|c300]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]}
+AblDeeComboBtn	{size[7800]}{[0701|0100]}{size[6400]} repeatedly
+AblDeeHeriBtn	Press and hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblDeeUpperBtn	{size[7800]}{[0419|c400]} + {[0701|0100]}{size[6400]}
+AblDeeGroundBtn	{size[7800]}{[0417|c200]} + {[0701|0100]}{size[6400]}
+AblDeeLowerBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} in midair
+AblDeeArrowBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]}
+AblDeeThrowShotBtn	Dash + {size[7800]}{[0701|0100]}{size[6400]} repeatedly\nin midair
+AblDee3WayThrowBtn	Dash + hold {size[7800]}{[0701|0100]}{size[6400]},\nthen release
+AblDeeWaterBtn	{size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblDeeWaterUpperBtn	{size[7800]}{[0419|c400]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblDeeWaterLowerBtn	{size[7800]}{[0417|c200]}{size[6400]} + {size[7800]}{[0701|0100]}{size[6400]} while underwater
+AblFriendTitle1	Co-op Techniques
+AblFriendRide	Ride Piggyback
+AblFriendHead	Headbutt Jump
+AblFriendCombination	Team Attack
+AblFriendMouth	Feed Me
+AblFriendRideBtn	Climb on an ally's back
+AblFriendHeadBtn	Jump upward toward\nan ally in midair
+AblFriendCombinationBtn	During Ride Piggyback, hold\n{size[7800]}{[0409|6000]}{size[6400]}/{size[7800]}{[040a|6100]}{size[6400]}, release together
+AblFriendMouthBtn	Touch an ally after\ngrabbing a healing item
+ShipTitle	Starcutter Parts
+ShipTotalSphereCount	{[0201]}{size[5000]}/{[0201]}{size[6400]}
+ControllerTitle	Settings
+ControllerSetting	Controllers
+ControllerKeyConfig	Control Settings
+ControllerEasySwitch	Helper Magolor
+EasySwitchOnConfirm	Would you like to receive help\nfrom {color[fe3c02ff]}Helper Magolor{color[000000ff]}?
+EasySwitchOffConfirm	Would you prefer to play without\nhelp from {color[fe3c02ff]}Helper Magolor{color[000000ff]}?
+EasySwitchConfirm	If you change this setting now, you'll\nneed to {color[fe3c02ff]}exit the stage and start over{color[000000ff]}.\nIs that OK?
+SouvenirTitle	Souvenir Shop
+SouvenirOmen	Dress-Up Masks
+SouvenirCarryItem	Souvenir Items
+Resident.msbt
+Lv1	Level 1
+ShipTitle	Lor Starcutter
+ShipTitle_00	Lor Starcutter
+Lv1Title	{color[3ded7aff]}C{color[000000ff]}ookie {color[3ded7aff]}C{color[000000ff]}ountry
+Lv1Title_00	Cookie Country
+HIDErrorDialog_MainPlayer_Text	{color[fe9a10ff]}Cannot find{color[000000ff]} the {color[fe9a10ff]}P1{color[000000ff]}\ncontroller.
+HIDErrorDialog_Disconnected1	{color[fe9a10ff]}P{[0201]}{color[000000ff]}'s controller disconnected.\nThey can rejoin at any time by\nreconnecting the controller.
+HIDErrorDialog_Disconnected2	{color[fe9a10ff]}P{[0201]}{color[000000ff]}'s controller disconnected.
+SaveInfoNowSaving	Saving...
+Ship.msbt
+MahoroaName	Magolor
+MahoroaSpeak_P0_1A_00	Hey, {[1404|09cd]}Kirby!
+MahoroaSpeak_P0_1A_01	So...you haven't seen any huge spaceship parts\nlying around, have you?
+MahoroaSpeak_P0_1A_02	As you probably noticed, when my Starcutter\ncrashed here in Dream Land...
+MahoroaSpeak_P0_1A_03	{[1404|04cd]}a bunch of stuff broke off and went flying\nevery which way!
+MahoroaSpeak_P0_1A_04	{[1404|01cd]}The {color[fddb00ff]}oars{color[000000ff]}, the {color[fddb00ff]}wings{color[000000ff]}... There are {color[fddb00ff]}5 {color[000000ff]}very important\nparts that have all gone missing!
+MahoroaSpeak_P0_1A_05	I also lost all {color[fddb00ff]}120 {color[000000ff]}of my {color[fddb00ff]}Energy Spheres{color[000000ff]}.\nMy poor ship is in shambles!
+MahoroaSpeak_P0_1A_06	Anyway, I'm going to stay here and try to\nrepair the Lor as best I can.
+MahoroaSpeak_P0_1A_07	But I could sure use some help tracking down\nthose missing parts...
+MahoroaSpeak_P0_1B_00	Hey, {[1404|09cd]}Kirby!
+MahoroaSpeak_P0_1B_01	Not having much luck tracking down those\nmissing parts, eh?
+MahoroaSpeak_P0_1B_02	You've found {color[fddb00ff]}{[0205]}{color[000000ff]} of my {color[fddb00ff]}Energy Spheres{color[000000ff]}.
+MahoroaSpeak_P0_1B_03	But I can't fix my Starcutter without all five parts.
+MahoroaSpeak_P0_1B_04	{[1407|00cd]}{[1405|00cd]}{[1404|07cd]}{[1406|00cd]}{[1408]}The {color[fddb00ff]}oars{color[000000ff]}, the {color[fddb00ff]}right wing{color[000000ff]}, the {color[fddb00ff]}left wing{color[000000ff]}...
+MahoroaSpeak_P0_1B_05	the {color[fddb00ff]}emblem{color[000000ff]}, and the {color[fddb00ff]}mast{color[000000ff]}.
+MahoroaSpeak_P0_2A_00	{[1407|01cd]}{[1404|08cd]}{[1405|01cd]}{[1408]}{[1404|01cd]}I've traveled to countless worlds in my time!
+MahoroaSpeak_P0_2A_01	But this is the first time my Starcutter has failed me.
+MahoroaSpeak_P0_2A_02	{[1404|04cd]}Sigh... I just hope I can fix it soon and return home.
+MahoroaSpeak_P0_2B_00	{[1407|01cd]}{[1404|08cd]}{[1405|01cd]}{[1408]}{[1404|01cd]}What bad luck for my poor ship to have\ncompletely broken down like this...
+MahoroaSpeak_P0_2B_01	{[1404|03cd]}But I'm so glad to have met someone as\nkind as you, Kirby!
+MahoroaSpeak_P1_1B_00	Hey, {[1404|09cd]}Kirby!
+MahoroaSpeak_P1_1B_01	{[1404|03cd]}The Lor is looking a bit better now that the oars\nare back in place, eh?
+MahoroaSpeak_P1_1B_02	{[1404|01cd]}You've found {color[fddb00ff]}{[0205]}{color[000000ff]} of my {color[fddb00ff]}Energy Spheres{color[000000ff]}.
+MahoroaSpeak_P1_1B_03	As for the missing parts, I still need you\nto track down...
+MahoroaSpeak_P1_1B_04	{[1407|00cd]}{[1405|00cd]}{[1404|07cd]}{[1406|00cd]}{[1408]}the {color[fddb00ff]}right wing{color[000000ff]}, the {color[fddb00ff]}left wing{color[000000ff]}, the {color[fddb00ff]}emblem{color[000000ff]}...
+MahoroaSpeak_P1_1B_05	and the {color[fddb00ff]}mast{color[000000ff]}.
+MahoroaSpeak_PTrial_1A_00	{[1404|01cd]}Hey, Kirby! I wonder what sort of adventure\nawaits us?
+MahoroaSpeak_PTrial_1A_01	I'm a bit busted-up about my broken ship, but\n{[1404|03cd]}there's something quite exciting about all this...
+MahoroaSpeak_PTrial_1A_02	It makes me want to go on my own\nbig adventure too!
+MahoroaSpeak_PTrial_2A_00	{[1404|01cd]}Hey...Kirby. I imagine you're hoping I'll say\nsomething really clever and/or insightful\nsince you keep talking to me, but...
+MahoroaSpeak_PTrial_2A_01	{[1404|04cd]}I'm fresh out of words. Consider me an ellipsis,\nif you will. An infinite series of dots ever repeating\nacross a vast expanse of sweet, unknowable silence.
+MahoroaSpeak_PTrial_2A_02	{[1404|03cd]}We'll yak it up another time, ya?\nHee hee hee!
+Step.msbt
+PlayerNumber	P{[0201]}
+SphereComplete	{[0201]}-{[0201]} Energy\nSpheres Complete!
+SphereComplete_LvMap	Level {[0201]} Energy\nSpheres Complete!
+WarpStar	World Map
+GuideSphereTitle	Energy Sphere Found!
+GuideSphereBody	{color[fddb00ff]}Energy Spheres{color[000000ff]} are\nscattered across the\nland. Try to find all of\nthe hidden ones!
+Lv1	Level 1
+Lv1Title	{color[3ded7aff]}C{color[000000ff]}ookie {color[3ded7aff]}C{color[000000ff]}ountry
+CharaLowper	Sphere Doomer
+CharaWhispy	Whispy Woods
+CharaExWhispy	Whispy Woods EX
+ChargeInfo_DiscardAbility	Drop\nAbility
+ChargeInfo_Quit	Leave
+DemoBossChoices_Body	Would you like to take on the tough\nchallenge of {color[fe3c02ff]}Whispy Woods EX{color[000000ff]}?
+DemoBossChoices_Main	No
+DemoBossChoices_Extra	Yes
+TitleMenu.msbt
+TitleCopyright	©HAL Laboratory, Inc. / Nintendo
+TitleButton	Start
+PrimaryModeSelectTitle	Mode Selection
+PrimaryModeSelectOperationBack	Back
+PrimaryModeSelectStory	Main Mode
+PrimaryModeSelectWaiwai	{size[5000]}Merry{size[6400]}\nMagoland
+PrimaryModeSelectOption	Options
+PrimaryModeSelectSharedPlay	Play Together!
+PrimaryModeSelectNotifyWaiwaiLocked	You can play this section after making\nmore progress through the{color[fddb00ff]} Main Mode{color[000000ff]}.
+PrimaryModeSelectMovie	Movie
+PrimaryModeSelectProduct	Introduction Pages
+DialogTrialClearNotifyTitle_ExBoss	A {color[fddb00ff]}new boss{color[000000ff]} has appeared!
+DialogTrialClearNotifyTitle_AbilityRoom	{color[fddb00ff]}Copy Ability Room{color[000000ff]} unlocked!
+DialogTrialClearNotifyDesc_ExBoss	You can now take on {color[fe3c02ff]}Whispy Woods EX{color[000000ff]}\nin the boss stage!
+DialogTrialClearNotifyDesc_AbilityRoom	New {color[fe3c02ff]}Copy Abilities{color[000000ff]} are available inside the Lor.\nYou can take them into stages to try them out!
+$ProductInfoTitle	The story continues in the full version of\nKirby's Return to Dream Land Deluxe!
+ProductInfoText01	Kirby and friends are on a grand\nadventure on Planet Popstar!\n{color[fe3c02ff]}You can share Joy-Con controllers{color[000000ff]}\nat any time to play together with\nup to three additional pals!
+ProductInfoText02	In Merry Magoland, you can join a\n100-Kirby battle in {color[fe3c02ff]}Samurai Kirby\n100{color[000000ff]} or take a {color[fe3c02ff]}Magoland Tour{color[000000ff]} to\ncompete across multiple subgame\nattractions.
+ProductInfoText03	And after clearing the story, you\ncan access the {color[fe3c02ff]}Magolor Epilogue{color[000000ff]}!\nGather magic to boost Magolor's\nskills as you choose, and try to\nescape interdimensional space!
+ProductInfoButton_ToShop	To Nintendo eShop
+ProductInfoButton_ToModeSelect	To Mode Selection
+ProductInfoButton_Return	Close
+UiSys.msbt
+TimeDisplayEmpty	--
+TimeDisplayEmptyHour	--
+TimeDisplayCsecPunctuation	.
+TimeDisplaySecPunctuation	:
+Unlock.msbt
+MahoroalandTutorial_Dialog_Subject_Trial	A peek at {color[fddb00ff]}Merry Magoland{color[000000ff]} is open!
+MahoroalandTutorial_Dialog_Body_Trial	{color[fe3c02ff]}Magolor built a theme park{color[000000ff]} on a distant world.\nIt's filled with fun subgame attractions and nifty\nsouvenirs! Press {color[fe3c02ff]}{[0402|0200]}{color[000000ff]} to visit whenever you want.
+WorldMap.msbt
+WorldName_PopStar	Planet Popstar
+PlanetName_ToPopStar	Planet Popstar
+LevelName_Lv1	Level 1
+LevelName_ShipTitle	Lor Starcutter
+LevelName_Lv1Title	{color[3ded7aff]}C{color[000000ff]}ookie {color[3ded7aff]}C{color[000000ff]}ountry
+LevelName_EnterShip	Enter
+LevelName_EnterLevel	Enter
+LevelName_SpheresCount	{[0201]}{size[5000]}/{[0201]}{size[6400]}
+SphereWindow_StageNumber	{[0201]}-{[0201]}
+ChargeInfo_Quit	Leave
+YgShuriken.msbt
+Title_WinHighScore_Difficulty_LevelKind_1	Apprentice
+Title_WinHighScore_Difficulty_LevelKind_2	Warrior
+Title_WinHighScore_Difficulty_LevelKind_3	Master
+Title_WinHighScore_Score_Count	{[0206|0000]}
+Title_WinHighScore_Score_Count_One	{[0206|0000]}
+Title_WinHighScore_Score_Count_Void	--
+Title_WinHighScore_Score	{[0206|0000]} pts.
+Title_WinHighScore_Score_One	{[0206|0000]} pt.
+Title_WinHighScore_Score_Void	----
+SelectMenu_Title	Difficulty
+SelectMenu_Difficulty_Easy	Apprentice
+SelectMenu_Difficulty_Normal	Warrior
+SelectMenu_Difficulty_Hard	Master
+Unlock_Open_LevelKind_Others	Warrior and Master
+Title_WinTutorialText_00	{color[fe3c02ff]}Swing{color[000000ff]} the Joy-Con to throw your {color[fe3c02ff]}ninja star{color[000000ff]}!\n{size[5a00]}(You can also throw by pressing {color[fe3c02ff]}{[0400|0000]}{color[000000ff]}.){size[6400]}
+Title_WinTutorialText_01	Try to hit the target as it\n{color[fe3c02ff]}moves{color[000000ff]} across the screen.
+Title_WinTutorialText_02	The closer you are to the {color[fe3c02ff]}center{color[000000ff]}, the more points\nyou'll earn. Hit the {color[fe3c02ff]}yellow area{color[000000ff]} for a bull's-eye bonus!
+PlayerNum1P	P1
+PlayerNum2P	P2
+PlayerNum3P	P3
+PlayerNum4P	P4
+PlayerNum_CPU	CPU
+Msg_Game_Intro	Ready to begin your training?\nThen prepare your ninja stars!
+Msg_Game_Intro_Multi	When the targets appear, wait for\nthe right moment, aaand...throw!
+InGameRoundText_1	TARGET 1
+InGameRoundText_2	TARGET 2
+InGameRoundText_3	TARGET 3
+InGameRoundText_4	TARGET 4
+InGameRoundText_5	TARGET 5
+InGameRoundText_6	TARGET 6
+InGameRoundText_7	TARGET 7
+InGameRoundText_8	TARGET 8
+InGameRoundText_9	TARGET 9
+$RoundFinal	FINAL\nTARGET
+$SuccessText	HIT!
+$BonusText	BULL'S-EYE!
+$FailureText	TOO BAD...
+$BonusTextS	BULL'S-EYE!
+$BonusTextSolo	SOLO WIN!
+$BonusTextAll	ALL BULL'S-EYES!
+$BonusTextSub	AMAZING!
+$ResultFailure	MISS
+InGameRoundResultScore_Zero	{[0206|0000]} {size[4600]}pts.{size[6400]}
+InGameRoundResultScore_One	{[0206|0000]} {size[4600]}pt.{size[6400]}
+InGameRoundResultScore	{[0206|0000]} {size[4600]}pts.{size[6400]}
+InGameRoundResultBonusPoint	＋{[0206|0000]}×{[0206|0100]}
+InGameRoundResultBonusAllPoint	＋{[0206|0000]}×{[0206|0100]}
+InGameRoundResultBonusMultiPoint	＋{[0206|0000]}×{[0206|0100]}
+InGameRoundResultBonusMultiPointSolo	+{[0206|0000]}
+InGameRoundResultBonusCount_2	2 IN A ROW!
+InGameRoundResultBonusCount_3	3 IN A ROW!
+InGameRoundResultBonusCount_4	4 IN A ROW!
+InGameRoundResultBonusCount_5	5 IN A ROW!
+InGameRoundResultBonusCount_6	6 IN A ROW!
+InGameRoundResultBonusCount_7	7 IN A ROW!
+InGameRoundResultBonusCount_8	8 IN A ROW!
+InGameRoundResultBonusCount_9	9 IN A ROW!
+InGameRoundResultBonusMultiCount_2	2 IN A ROW!
+InGameRoundResultBonusMultiCount_3	3 IN A ROW!
+InGameRoundResultBonusMultiCount_4	4 IN A ROW!
+InGameRoundResultBonusMultiCount_5	5 IN A ROW!
+InGameRoundResultBonusMultiCount_6	6 IN A ROW!
+InGameRoundResultBonusMultiCount_7	7 IN A ROW!
+InGameRoundResultBonusMultiCount_8	8 IN A ROW!
+InGameRoundResultBonusMultiCount_9	9 IN A ROW!
+InGameRoundResultBonusMultiCount_10	10 IN A ROW!
+$ShurikenOk	OK!
+$NewRecord	New Record!
+Header_Result	RESULTS
+ResultResultSingleScore_Zero	{[0206|0000]} {size[5000]}pts.{size[6400]}
+ResultResultSingleScore_One	{[0206|0000]} {size[5000]}pt.{size[6400]}
+ResultResultSingleScore_TwoMore	{[0206|0000]} {size[5000]}pts.{size[6400]}
+$HitTarget	Targets Hit:
+ResultResultSingleHitTarget	{[0206|0000]}
+ResultResultMultiRank_1	1st
+ResultResultMultiRank_2	2nd
+ResultResultMultiRank_3	3rd
+ResultResultMultiRank_4	4th
+ResultResultMultiScore_Zero	{[0206|0000]} {size[5000]}pts.{size[6400]}
+ResultResultMultiScore_One	{[0206|0000]} {size[5000]}pt.{size[6400]}
+ResultResultMultiScore	{[0206|0000]} {size[5000]}pts.{size[6400]}
+YgTps.msbt
+Title_WinHighScore_Difficulty_Solo_Easy	Level 1
+Title_WinHighScore_Difficulty_Solo_Normal	Level 2
+Title_WinHighScore_Difficulty_Solo_Hard	Level 3
+SelectMenu_Title_Solo	Difficulty
+SelectMenu_Difficulty_Easy	Level 1
+SelectMenu_Difficulty_Normal	Level 2
+SelectMenu_Difficulty_Hard	Level 3
+LevelUnlock_Level2_Level3	Level 2 and Level 3
+Title_WinTutorialText_00	Blast your rivals with {color[fe3c02ff]}shots{color[000000ff]} using {color[fe3c02ff]}{[0701|0100]}{color[000000ff]}!\n{color[fe3c02ff]}Hold{color[000000ff]} {color[fe3c02ff]}{[0701|0100]} {color[000000ff]}to fire off an {color[fe3c02ff]}Overhead Shot{color[000000ff]}.\nHit rivals twice to {color[fe3c02ff]}level up{color[000000ff]} your shots!
+Title_WinTutorialText_01	Be careful not to run out of ammo!\nPick up {color[fe3c02ff]}Energy Capsules{color[000000ff]} to recharge.
+Title_WinTutorialText_02	{color[fe3c02ff]}Dodge shots{color[000000ff]} from your rivals by\npressing {color[fe3c02ff]}{[0700|0000]}{color[000000ff]} to jump.
+Title_WinTutorialText_03	When a {color[fe3c02ff]}Super Blaster{color[000000ff]} appears, use it to take out\nmultiple rivals at once with a piercing {color[fe3c02ff]}Super Shot{color[000000ff]}.\nIt can even blast through walls!
+$TpsStartText	GO!
+$TpsFinishText	FINISH
+PlayerNo	P{[0206|0000]}
+PlayerNo_Cpu	CPU
+LevelUp	Level Up
+LevelUpMax	MAX Level
+LevelCount	Level {[0206|0000]}
+LevelCountMax	MAX Level
+BulletZeroText	OUT
+$KaboulerInfoText	Kabula Approaching!
+OperationSkip	{[0403|0300]}Skip
+$HighScore	High Score
+$HighScoreNew	NEW!
+YmEntrance.msbt
+CharaName_Mahoroa	Manager Magolor
+Msg_EntranceGuide_Welcome1Trial	{[1404|03cd]}Hey, {[1404|09cd]}Kirby! Welcome to {color[fe3c02ff]}Merry Magoland{color[000000ff]}!
+Msg_EntranceGuide_Welcome2Trial	{[1404|01cd]}I built this theme park and filled it with all kinds\nof subgame attractions and other cool stuff!{[1404|00cd]}
+Msg_EntranceGuide_Welcome4Trial	{[1404|00cd]}I even made a {color[fe3c02ff]}Stamp Rally{color[000000ff]}. It's super fun!\nTry out the various subgame attractions,\nand collect a bunch of stamps as you go.
+Msg_EntranceGuide_Welcome5Trial	{[1404|01cd]}Oh, and as a special thanks for stopping by,\nI've got a {color[fe3c02ff]}souvenir{color[000000ff]} for ya. You're welcome!
+Msg_EntranceGuide_OmenGuideTrial	{[1404|01cd]}The {color[fe3c02ff]}Souvenir Shop{color[000000ff]} in the {color[fe3c02ff]}Entrance Plaza{color[000000ff]} will\nhold on to all your souvenirs for safekeeping.\nBe sure to check it out when you have time!
+Msg_EntranceGuide__EndTrial	{[1404|03cd]}Now, off you go—have fun out there!
+CharaName_OmenClerk	Souvenir Shop Waddle Dee
+Msg_OmenClerk_Welcome	Welcome, welcome! How can I help you today?
+Msg_OmenClerk_FirstWelcomeStory_00	Welcome! I've come all the way here from a\ndifferent world...{[0004]}I'm from a fantastical amusement park called\n{color[fe3c02ff]}Merry Magoland{color[000000ff]}! I run the {color[fe3c02ff]}Souvenir Shop{color[000000ff]} there.{[0004]}I'll keep track of all the {color[fe3c02ff]}souvenirs {color[000000ff]}that you can {color[fe3c02ff]}bring\n{color[000000ff]}into stages. Just make sure you {color[fe3c02ff]}pick a souvenir item\n{color[000000ff]}before you want to use it!
+Msg_OmenClerk_FirstWelcomeStory_01	So...how can I help you today?
+Msg_OmenClerk_FirstWelcome_00	Welcome! This is the {color[fe3c02ff]}Souvenir Shop{color[000000ff]}. We'll keep track\nof your {color[fe3c02ff]}dress-up masks{color[000000ff]} and {color[fe3c02ff]}souvenir items{color[000000ff]}.{[0004]}You can {color[fe3c02ff]}bring the souvenirs{color[000000ff]} into stages with you!\nJust make sure you {color[fe3c02ff]}pick a souvenir item {color[000000ff]}before you\nwant to use it!
+Msg_OmenClerk_FirstWelcome_01	With that said and done, how can I help you today?
+Msg_OmenClerk_Thanks_Omen_00	Thanks for stopping by! If you want to {color[fe3c02ff]}remove {color[000000ff]}your\nmask, just {color[fe3c02ff]}press {[0424|f300]}{color[000000ff]}. To {color[fe3c02ff]}slip the mask back on{color[000000ff]}, just\npress {color[fe3c02ff]}{[0424|f300]} {color[000000ff]}again!
+Msg_OmenClerk_Thanks_Item_00	Thanks for stopping by! To use souvenir items\nduring stages, just {color[fe3c02ff]}hold down {[0402|0200]}{color[000000ff]}.
+Msg_OmenClerk_Thanks_Common_00	Thanks for stopping by! If you want to look at all of\nyour masks or souvenir items, you can check them\nby using the {color[fe3c02ff]}{[0411|9400]}Pause Menu{color[000000ff]}.
+Msg_OmenClerk_Thanks_Common_01	Thanks for stopping by! If you want to collect more\nmasks and souvenir items, just earn some {color[fe3c02ff]}stamps{color[000000ff]}.
+Msg_OmenClerk_Thanks_Common_Story_00	Thanks for stopping by! You can visit {color[fe3c02ff]}Magoland\n{color[000000ff]}at any time by pressing{color[fe3c02ff]} {[0402|0200]}{color[000000ff]}. Come play in our park\nwhenever you feel like it!
+Msg_OmenClerk_Thanks_Common_Story_NoticeIcon	Thanks for stopping by! Say, have you ever noticed\na little {color[fe3c02ff]}blue circle {color[000000ff]}in the upper right where it says\n{[0402|0200]}Merry Magoland?{[0004]}When you see that blue circle, it means you have a\n{color[fe3c02ff]}mask{color[000000ff]} ready and waiting to be claimed in Magoland!
+Msg_OmenClerk_OutOfService	Hello, Kirby! I've come all the way here from a\ndifferent world...{[0004]}I'm from a fantastical amusement park called\n{color[fe3c02ff]}Merry Magoland{color[000000ff]}! I run the {color[fe3c02ff]}Souvenir Shop{color[000000ff]} there.{[0004]}Magoland is filled with fun subgame attractions,\nand we have lots and lots of neat souvenirs.\n{color[fe3c02ff]}You should come visit {color[000000ff]}us sometime!
+DialogBtn_Omen	Dress-Up Masks
+DialogBtn_CarryItem	Souvenir Items
+Msg_Mahoroa_MahoroaFreeTrial_00	{[1404|03cd]}Hey, {[1404|09cd]}Kirby! Welcome to {color[fe3c02ff]}Merry Magoland{color[000000ff]}!{[0004]}{[1404|01cd]}Are you enjoying the subgame attractions?{[1404|00cd]}{[0004]}{[1404|01cd]}In the full version, you'd be able to connect\nto the internet and learn {color[fe3c02ff]}fun facts{color[000000ff]} from\n{color[fe3c02ff]}Magolands around the world{color[000000ff]}.{[0004]}{[1404|04cd]}However, that feature {color[fe3c02ff]}is not available{color[000000ff]}\nin this demo... Apologies, my dude.{[0004]}{[1404|01cd]}I wonder what sort of fun facts we'll be able\nto hear about? I can't wait to find out!{[0004]}{[1404|03cd]}If you play the full version, I'd welcome you to come\nback and talk to me here. It'll be a fun feature!
+Msg_Mahoroa_MahoroaFreeTrial_01	{[1404|03cd]}Hey, {[1404|09cd]}Kirby!{[0004]}{[1404|01cd]}Are you enjoying my subgame attractions\nhere in Magoland?{[0004]}{[1404|04cd]}Only a small section of the park is open right now,\nso there's just the two attractions available.{[0004]}{[1404|01cd]}But in the full version, we'll have {color[fe3c02ff]}10 {color[000000ff]}subgame\nattractions for ya, and all of them can be played by\n{color[fe3c02ff]}up to 4 players by sharing Joy-Con controllers{color[000000ff]}!{[0004]}There's a lot more to experience too! {color[fe3c02ff]}Stamp Rallies{color[000000ff]},\n{color[fe3c02ff]}masks{color[000000ff]}, {color[fe3c02ff]}souvenir items{color[000000ff]}... So much fun stuff!{[0004]}{[1404|03cd]}You and some of your best buds can come on by\nto enjoy all we'll have to offer.
+$BtnStoryBtn	{[0402|0200]}
+Text_EntranceBtnStory	Story Mode
+Text_EntranceBtnEshop	{[0413|9500]}
+StampRally_CardNo	No. {[0206|0000]}
+StampRally_GetRewardItem	You earned the following item:\n{color[fe3c02ff]}{[020c]} {color[000000ff]}×{color[fe3c02ff]} 1{color[000000ff]}
+StampRally_GetRewardItems	You earned the following items:\n{color[fe3c02ff]}{[020c]} {color[000000ff]}×{color[fe3c02ff]} {[020f|0000]}{color[000000ff]}
+StampRally_GetReward2Items	You earned the following items:\n{color[fe3c02ff]}{[020c]} {color[000000ff]}×{color[fe3c02ff]} {[020f|0000]} {color[000000ff]}and\n{color[fe3c02ff]}{[020c]} {color[000000ff]}× {color[fe3c02ff]}{[020f|0100]}{color[000000ff]}
+StampRally_GetRewardItemInDemoEntranceGuide	You earned the following souvenir item:\n{color[fe3c02ff]}{[020c]}{color[000000ff]} × {color[fe3c02ff]}{[020f|0000]}{color[000000ff]}
+StampRally_GetRewardOmen	You earned a dress-up mask\nof {color[fe3c02ff]}{[020b]}{color[000000ff]}!
+StampRally_DemoGetAllRewardOmen	You found all of the {color[fe3c02ff]}masks{color[000000ff]} in the demo!\nThere are {color[fe3c02ff]}over 80 masks{color[000000ff]} in the full version.
+StampRally_StoreDemoGetAllRewardOmen	You found all of the {color[fe3c02ff]}masks{color[000000ff]} in the demo!\nThere are {color[fe3c02ff]}over 80 masks{color[000000ff]} in the full version.
+StampRally_PlayCountBonus	Times played: {color[fe3c02ff]}{[020f|0000]}{color[000000ff]}\nYou earned stamps × {color[fe3c02ff]}{[020f|0100]}{color[000000ff]}
+StampRally_PlayCountManyBonus	Times played: {color[fe3c02ff]}999+{color[000000ff]}\nYou earned stamps × {color[fe3c02ff]}{[0206|0000]}{color[000000ff]}
+StampRally_PrevPlayBonus	Here are the stamps you won\nin {[020e]}!
+StampRally_PrevPlayTourBonus	Here are the stamps you won\nin your last Magoland Tour!
+StampRally_RankBonus	Performance bonus!\nYou earned stamps × {color[fe3c02ff]}{[020f|0000]}{color[000000ff]}
+StampRally_FirstPlayBonus	You played for the first time!\nYou earned stamps × {color[fe3c02ff]}{[020f|0000]}{color[000000ff]}
+DialogText_InEntranceBackToTitle	Would you like to exit Merry Magoland\nand return to the {color[fe3c02ff]}Mode Selection{color[000000ff]} screen?
+DialogBtn_InEntranceBackToTitle_Yes	Mode Selection
+DialogBtn_InEntranceBackToTitle_No	Cancel
+DialogText_InEntranceGoToStory	Would you like to switch to {color[fe3c02ff]}Story Mode{color[000000ff]}?
+DialogText_InEntranceGoToStoryExtra	Would you like to switch to {color[fe3c02ff]}Extra Mode{color[000000ff]}?
+DialogBtn_InEntranceGoToStory_Yes	Yes
+DialogBtn_InEntranceGoToStory_No	Cancel
+MemberSelect_CharaKirby	Kirby
+MemberSelect_CharaMetaknight	Meta Knight
+MemberSelect_CharaDedede	King Dedede
+MemberSelect_CharaWaddledee	Bandana\nWaddle Dee
+Pause_Title_Main	Pause
+Pause_Title_Souvenir	Souvenir Shop
+Pause_Continue	Continue
+Pause_ControllerConnect	Controllers
+Pause_ReturnToTitle	Mode Selection
+Pause_SelectOmen	Dress-Up Masks
+Pause_SelectCarryItem	Souvenir Items
+TitleMenu_MemberSelect	Add Players
+$MemberSelectDecide	Confirm
+$MemberSelectOk	OK!
+$MemberSelectJoin	{[0409|6000]}+{[040a|6100]}\nJoin
+YmTitle.msbt
+MemberSelect_TitleText	Select Character
+MemberSelect_EntryBtnText	OK
+MemberSelect_AddControllerText	Add Controllers
+MemberSelect_NoEntry	Up to 4\ncan play
+MemberSelect_SubGame_TitleText	Add Players
+MemberSelect_SubGame_EntryBtnText	OK
+YyCmn.msbt
+InGamePause_Pause_Continue	Continue
+InGamePause_Pause_FromShip_Continue	Continue
+InGamePause_Pause_Restart	Restart
+DialogText_InGamePause_Restart	Would you like to restart this subgame?
+DialogBtn_InGamePause_Restart_Yes	Restart
+DialogBtn_InGamePause_Restart_No	Cancel
+InGamePause_Pause_Quit	Quit
+DialogText_InGamePause_Quit	Would you like to exit this\nsubgame attraction and return\nto the {color[fe3c02ff]}Entrance Plaza{color[000000ff]}?
+DialogBtn_InGamePause_Quit_Yes	Return to Plaza
+DialogBtn_InGamePause_Quit_No	Cancel
+DialogText_LevelUnlock	You unlocked new ways to play!\n{color[ff4b32ff]}{[0207|0000]}{color[000000ff]}
+InGamePause_Result_SelectDifficulty	Select Difficulty
+InGamePause_Result_Restart	Retry
+InGamePause_Result_Quit	Quit
+SelectMenu_HighScoreBtn	High Scores
+SelectMenu_TutorialBtn	Tutorial
+$HighscoreTitle	High Scores
+$HighscoreContentsGroupText	Multiplayer
+$HighscoreContentsSoloText	Solo
+TimeDisplayCsecPunctuation	.
+TimeDisplaySecPunctuation	:
+$TutorialTitle	Tutorial
+$ControllerHeadline	Controls
+ControllerCfg_PlayerNo	P{[0206|0000]}
+ControllerCfg_PlayerNo_Cpu	CPU
+ControllerCfg_ControllerDetail_Button	Button Controls
+ControllerCfg_ControllerDetail_Stick	Stick Controls
+ControllerCfg_ControllerDetail_Swing	Motion Controls
+ControllerCfg_ControllerDetail_Gyro	Tilt Controls
+ControllerCfg_ControllerDetail_Touch	Touch Controls
+ControllerCfg_ControllerName_JoyconR	Joy-Con (R)
+ControllerCfg_ControllerName_JoyconL	Joy-Con (L)
+$DecideBtn	OK
+$DicideBtnOk	OK!
+ControllerConectCfg	Controllers
+$Slash	/
+DialogOperation_Text	Play by moving the Joy-Con while {color[fe3c02ff]}holding\nit vertically{color[000000ff]}. Make sure you {color[fe3c02ff]}fasten the strap\n{color[000000ff]}and hold the Joy-Con firmly. Please be\n{color[fe3c02ff]}mindful of your surroundings {color[000000ff]}while playing.
+DialogOperation_JoyconGyro	Play by tilting the Joy-Con while {color[fe3c02ff]}holding it\nvertically{color[000000ff]}. Make sure you {color[fe3c02ff]}fasten the strap\n{color[000000ff]}and hold the Joy-Con firmly. Please be\n{color[fe3c02ff]}mindful of your surroundings {color[000000ff]}while playing.
+ControllerCfg_EntryBtn_A	Start
+DialogText_ControllerConfig_ChangeJoycon	For those playing with {color[fe3c02ff]}motion\ncontrols{color[000000ff]}, detach the Joy-Con\nand hold it {color[fe3c02ff]}vertically{color[000000ff]}.
+DialogText_ControllerConfig_ChangeJoyconGyro	For those playing with {color[fe3c02ff]}one-handed\ntilt controls{color[000000ff]}, detach the Joy-Con and\nhold it {color[fe3c02ff]}vertically{color[000000ff]}.
+DialogText_ControllerConfig_ReturnButtonControl	Resume holding the Joy-Con\nwith {color[fe3c02ff]}two hands{color[000000ff]}.
+DialogText_ControllerConfig_ChangeOrReturn	For those playing with {color[fe3c02ff]}motion controls{color[000000ff]},\nplease hold the Joy-Con {color[fe3c02ff]}vertically{color[000000ff]}.\nFor those playing with {color[fe3c02ff]}button controls{color[000000ff]},\nplease resume holding the Joy-Con\nwith {color[fe3c02ff]}two hands{color[000000ff]}.
+DialogText_ControllerConfig_ChangeOrReturnGyro	For those playing with {color[fe3c02ff]}one-handed\ntilt controls{color[000000ff]}, please hold the Joy-Con\n{color[fe3c02ff]}vertically{color[000000ff]}. For those playing with {color[fe3c02ff]}button\ncontrols{color[000000ff]}, please resume holding the\nJoy-Con with {color[fe3c02ff]}two hands{color[000000ff]}.
+DialogText_ControllerErrorShortage	There aren't enough\n{color[ff4b32ff]}controllers {color[000000ff]}connected.
+DialogText_ControllerErrorChangeQuit	Controllers have been changed.\nNow returning to the {color[fe3c02ff]}Entrance Plaza{color[000000ff]}.
+DialogText_ControllerErrorShortageQuit	There aren't enough {color[ff4b32ff]}controllers{color[000000ff]}\nconnected. Now returning to the\n{color[fe3c02ff]}Entrance Plaza{color[000000ff]}.
+DialogText_ControllerDisconnect	{color[fe3c02ff]}P{[0206|0000]}{color[000000ff]}'s controller has disconnected.\nPlease reconnect the controller\nto continue playing.
+Back	Back
+Close	Close
+DialogText_OmenSelectDecideConfirm	Would you like to continue with\nyour current mask selection?
+DialogText_OmenSelectDecideConfirmAllOff	Would you like to play without a mask?
+DialogText_OmenSelectCancelDecide	Would you like to continue without\nchanging your current mask selection?
+DialogBtn_OmenCancel_Yes	Continue
+DialogBtn_OmenCancel_No	Back to Selection
+DialogBtn_OmenSelect_Yes	OK
+DialogBtn_OmenSelect_No	Cancel
+$OmenOff	{[0402|0200]}Remove
+$OmenSelectOff	None
+$OmenSelectNone	?
+$OmenSelectDecide	OK!
+OmenSelectPlayerNum_01	P1
+OmenSelectPlayerNum_02	P2
+OmenSelectPlayerNum_03	P3
+OmenSelectPlayerNum_04	P4
+DialogText_OmenHintStampRally	Earn this mask by completing\nStamp Rally {color[fe3c02ff]}No. {[0206|0000]}{color[000000ff]}.
+DialogText_DemoMissionComplete	You cleared all of the {color[fe3c02ff]}missions{color[000000ff]} in the demo!\nThe full version has {color[fe3c02ff]}100{color[000000ff]} missions to take on.
+DialogText_StoreDemoMissionComplete	You cleared all of the {color[fe3c02ff]}missions{color[000000ff]} in the demo!\nThe full version has {color[fe3c02ff]}100{color[000000ff]} missions to take on.
+AbilityStarDesc	Various abilities will rotate in a loop.\nTouch it to pick one and transform!
+CrackerDesc	This item fires while you're holding it!\nUse it to blast enemies and blocks.
+EnergyDrinkDesc	Drink one of these to restore a lot of\nyour stamina. Great for adventuring!
+$MissionListCountSlash	/
+$MissionListHeadline	Missions
+$ContentsHeadline	Completion Criteria
+$MissionText	Missions
+$MissionClear	Mission Complete!
+$MissionCountSlash	/
+$StampRallyText	Stamp Rally
+$BtnMissionInfoBtn	{[0403|0300]}
+$BtnStampRallyInfoBtn	{[0413|9500]}
+$BtnMissionInfoFourReavesBtn	{[0407|3300]}
+YyMission.msbt
+Title_ShurikenMission1	The Dojo Conquest Begins
+Title_ShurikenMission2	{[020f|0000]} Straight Bull's-Eyes
+Title_ShurikenMission7	Clear All Difficulties
+Desc_ShurikenMission1	Play Ninja Dojo\nfor the first time.
+Desc_ShurikenMission2	Get {[020f|0000]} consecutive bull's-eyes\nin a single game.
+Desc_ShurikenMission7	Clear all difficulty settings.
+Title_TpsMission1	Rookie Blaster
+Title_TpsMission2	Super Shot, Double Hits
+Title_TpsMission8	Clear All Difficulties
+Desc_TpsMission1	Play Booming Blasters\nfor the first time.
+Desc_TpsMission2	Hit two or more rivals with\na single Super Shot.
+Desc_TpsMission8	Win on all difficulty settings.
+Difficulty01	Sounds easy, right?
+Difficulty03	If you can finish this one,\nyou're super skilled!
+Desc_ThreeDifficulty_Progress	({[0207|0000]} / {[0207|0100]} / {[0207|0200]})
+Desc_Difficulty_Clear	{color[fe3c02ff]}{[0207|0400]}{color[000000ff]}
+YyResident.msbt
+Name\CarryItem.msbt
+AbilityStar	Random Copy Essence
+Cracker	Crackler
+EnergyDrink	Energy Drink
+ClosureTitle	???
+Name\Omen.msbt
+None	None
+LockOmenName	???
+Dedede	King Dedede
+Kine	Kine
+Elfilin	Elfilin
+Waddledee	Waddle Dee
+ChefKawasaki	Chef Kawasaki
+Name\YySubGame.msbt
+Shuriken	NINJA DOJO
+Tps	BOOMING\nBLASTERS
+HighScore_Shuriken	Ninja Dojo
+HighScore_Tps	Booming Blasters
+Dialog_Shuriken	Ninja Dojo
+Dialog_Tps	Booming Blasters

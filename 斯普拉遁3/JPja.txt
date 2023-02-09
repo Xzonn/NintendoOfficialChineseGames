@@ -13,16 +13,23 @@ Msg_Inappropriate_Nickname_Error	このプレイヤー名は使用できませ�
 Msg_Server_Maintenance_Error	まもなくサーバーメンテナンスが始まるため、広場へ移動します\n（メンテナンス中はオフライン状態になります）
 Msg_Session_May_Closed_Error	このメンバー募集はすでに終了しているため\n合流できません
 Msg_Target_Session_Is_Lost_Error	この部屋はすでに解散しているため\n合流できません
+Msg_Other_Player_Disconnected_Error	他の参加プレイヤーが通信を切断しました
 CommonMsg\Dev.msbt
 BugReportContent	――――\n■手順 / Procedures\n1.\n2.\n3.\n\n■結果 / Result\n\n■試行回数 / Number of attempts\nX/X\n\n■備考 / Remarks\n\n――――
 CommonMsg\EmoteName.msbt
 FeelingWarm00	ホット
+Shivering00	さむがり
 Win_Weapon03	ブキポーズ
 Win04	ポーズ２
+Win07	ロボットダンス１
 Win08	ダンス１
 Win13	ダンス２
+Win14	ダンス４
 Win15	ダンス３
+Win20	あいさつ１
 Crouching00	ポーズ１
+SittingCrossedLegs	あぐら
+WaveHands	あいさつ２
 NwBtl00	ナワバトラー
 Win_Tricol	Win_Tricol
 CommonMsg\FestRegion.msbt
@@ -64,6 +71,7 @@ GoodsShop	パル子
 FoodShop	ロブ
 Vendor	スパイキー
 Dolphin	イルカ
+Mother	マザー
 MotherFoodShop	店員さん
 MotherWalk	ガイドさん
 MotherMiniGame	スタッフさん
@@ -79,8 +87,11 @@ IdolGroup_01	Sea O'Colors\n(シオカラーズ)
 IdolGroup_02	テンタクルズ
 IdolGroup_03	すりみ連合
 Band01	Squid Squad
+SquidSpawn	イカスポーン
 SquidRoll	イカロール
 SquidSurge	イカノボリ
+RoeThrow	イクラ投げ
+MiniGameTitle	陣取大戦ナワバトラー
 MiniGameRank	ナワバトランク
 CardPack	カードパック
 SpecialPoint	スペシャルポイント
@@ -92,11 +103,24 @@ MiniGameKurage1	のんびりクラゲ
 MiniGameKurage2	まえむきクラゲ
 MiniGameKurage3	ものまねクラゲ
 Shakeup	シェケナダム
+Shakeship	難破船ドン・ブラコ
 Shakespiral	アラマキ砦
 Shakedent	ムニ・エール海洋発電所
+RoeContainer	イクラコンテナ
 RoeCannon	イクラキャノン
 SakeArtilleryCannon	発射台
+BigRun	ビッグラン
 Uroko	ウロコ
+SakeBigBossGauge	オカシラゲージ
+CoopScenario	バイトシナリオ
+CoopEvent_Rush	ラッシュ
+CoopEvent_Fog	霧
+CoopEvent_Dozer	グリル発進
+CoopEvent_Missile	ドスコイ大量発生
+CoopEvent_Geyser	キンシャケ探し
+CoopEvent_Hakobiya	ハコビヤ襲来
+CoopEvent_Tamaire	ドロシャケ噴出
+CoopEvent_Relay	巨大タツマキ
 SakelienStandard	シャケ
 SakelienLarge	ドスコイ
 SakelienSmall	コジャケ
@@ -116,15 +140,18 @@ SakeSaucer	ナベブタ
 SakePillar	ハシラ
 SakeDolphin	ダイバー
 SakeArtillery	テッキュウ
-SakelienGiant	ヨコヅナ
 SakeTamaire	ドロシャケ
 SakeBigBoss	オカシラシャケ
+SakelienGiant	ヨコヅナ
 Msn_EnmOctTrooper_01	タコトルーパー
+Msn_EnmOctTrooper_02	タテタコトルーパー
 Msn_EnmOctTrooper_03	バイタコトルーパー
 Msn_EnmOctTrooper_13	タコホッパー
 Msn_EnmOctCopter_01	タコプター
 Msn_EnmOctCopter_03	タコミラーボール
+Msn_EnmOctCopter_04	ボムタコプター
 Msn_EnmOctPod_01	タコポッド
+Msn_EnmOctPod_02	大容量タコポッド
 Msn_EnmOctEscape_01	スタコラー
 Msn_EnmOctStamp_01	タコスタンプ
 Msn_EnmOctStamp_02	ビートタコスタンプ
@@ -137,6 +164,8 @@ Msn_EnmOctBaller_01	タコストライク
 Msn_EnmOctCleaner_01	インクリーナー
 Msn_EnmOctFlooder_01	タコドーザー
 Msn_AreaOfAlternative	サイト
+Msn_ZapfishGiant	オオデンチナマズ
+Msn_ZapfishNormal	デンチナマズ
 Msn_ZapfishReplica	でんちゃん
 Msn_Archives_01	ミステリーファイル
 Msn_Drone	ドローン
@@ -155,6 +184,7 @@ Msn_JumpPoint	ジャンプポイント
 Msn_CourseObj_04	スイッチ
 Msn_CourseObj_05	でんでんスイッチ
 Msn_CourseObj_06	ボム風船
+Msn_CourseObj_07	スポンジ
 Msn_CourseObj_10	カンケツセン
 Msn_CourseObj_11	ピロピロ
 Msn_CourseObj_12	プロペラ
@@ -170,9 +200,16 @@ Msn_CourseObj_22	プロペラリフト
 Msn_BreakableObj_08	ダメ風船
 Msn_BreakableObj_09	マト
 Msn_ObstacleObj_02	ヌリヌリ棒
+Msn_ObstacleObj_03	スプリンクラー
+Msn_ObstacleObj_04	ポイズンミスト
+Msn_ObstacleObj_05	スプラッシュシールド
 UdemaePoint	ウデマエポイント
 UdemaePoint_00	昇格戦
 BattleMemory	バトルメモリー
+XRanking	Xランキング
+XRegionGroup	グループ
+VS_Obj_01	マト
+VS_Obj_03	ガチエリア
 VS_Obj_04	ガチヤグラ
 VS_Obj_05	ガチホコ
 VS_Obj_10	ガチアサリ
@@ -182,14 +219,18 @@ FesPoint	フェスポイント
 Fes100Person	１００ケツ
 TrumpetShell	ホラガイ
 FestivalShell	オマツリガイ
+FesFloat	オミコシ
 FesPhase_01	ヨビ祭
 FesPhase_02	本祭
 TricolorSignal	スーパーシグナル
 TricolorTreasure	マトイ
 ModeMission	ヒーローモード
+Plz_Obj_01	フェス投票所
+Lobby_Obj_01	バトルポット
 Lobby_Obj_02	ロビー端末
 Lobby_Obj_03	ダミイカ
 PlayerAvatar	ブンシン
+Grizzco_Obj_01	クマサン端末
 WeaponLicense	ブキチライセンス
 WeaponLicenseGold	ゴールドブキチライセンス
 SDServiceName	イカリング３
@@ -205,12 +246,14 @@ CommonMsg\MatchMode.msbt
 Regular	レギュラーマッチ
 Bankara	バンカラマッチ{size[4b00]}（チャレンジ）{size[6400]}
 BankaraOpen	バンカラマッチ{size[4b00]}（オープン）{size[6400]}
+XMatch	Xマッチ
 Private	プライベートマッチ
 FestRegular	フェスマッチ{size[4b00]}（オープン）{size[6400]}
 FestChallenge	フェスマッチ{size[4b00]}（チャレンジ）{size[6400]}
-FestTriColor	トリカラアタック
+FestTriColor	トリカラマッチ
 Coop	SALMON RUN
 CoopPrivate	プライベートバイト
+CoopBigRun	ビッグラン
 MiniGame	ナワバトラー
 CommonMsg\PictFontRef.msbt
 Tuto_B	{[0301|0000204000000000]}
@@ -311,6 +354,8 @@ System_WeaponLicenseGold	{[031d|f6285c3f00000000]}
 Mng_SpecialMass	{[0329|14ae473f00000000]}
 Mng_SpecialMass_Op	{[032a|14ae473f00000000]}
 Result_WeaponLicense	{[031c|295c4f3f00000000]}
+X_YakoLeague	{[032c|0000803f00000000]}
+X_AromeLeague	{[032b|0000803f00000000]}
 CommonMsg\RegionLanguageID.msbt
 JPja	日本語
 USen	英語
@@ -325,7 +370,7 @@ Summer	夏 Sizzle Season
 Autumn	秋 Drizzle Season
 Winter	冬 Chill Season
 CommonMsg\UnitName.msbt
-Identifier	#{[0201|0010]}
+Identifier	#{d}
 VSTimer	{[0200|00020000]}:{[0200|01020100]}
 MsnTimer_MinSec	{[0200|00020200]}:{[0200|01020100]}
 MinSec_1Digit	{[0200|00010000]}:{[0200|01020100]}
@@ -358,7 +403,7 @@ DateTime01	{[0200|00040100]}/{[0200|01020000]}/{[0200|02020000]}  {[0200|0302010
 DateTime02	{[0200|00020000]}/{[0200|01020000]} ({[0410|02000000]}) {[0200|03020100]}:{[0200|04020100]}
 Date01	{[0200|00040100]}/{[0200|01020000]}/{[0200|02020000]}
 Time00	{[0200|00020100]}:{[0200|01020100]}
-ScheduleTerm	{[0201|0010]} ～ {[0201|0110]}
+ScheduleTerm	{d} ～ {[0201|0100]}
 MsnStageNo	No.{[0200|00020000]}
 UdemaePoint	{[0200|00050000]}p
 UdemaePointGoal	NEXT:{[0200|00040000]}p
@@ -371,6 +416,12 @@ CatalogSeason	{[0200|00040000]}{[040c|01000000]}
 FestPowCount	{[0200|00010000]}/{[0200|01010000]}
 NumFestPowNow	現在：{[0200|00040000]}.{[0200|01010000]}
 NumFestPowMax	最高：{[0200|00040000]}.{[0200|01010000]}
+XPower	{[0200|00040000]}.{[0200|01010000]}
+Hyphen2	--
+CardGameWin_Singular	勝
+CardGameWin_Prural	勝
+BigRunHighScore	x{[0200|00040000]}
+StatusXPower	Xパワー ： {[0200|00040000]}.{[0200|01010000]}
 Sunday	日
 Monday	月
 Tuesday	火
@@ -378,9 +429,6 @@ Wednesday	水
 Thursday	木
 Friday	金
 Saturday	土
-Hyphen2	--
-CardGameWin_Singular	勝
-CardGameWin_Prural	勝
 CommonMsg\Badge\BadgeMsg.msbt
 Mission_Lv00	DJタコワサ将軍を倒した
 Mission_Lv01	ヒーローモードをクリアした
@@ -405,6 +453,9 @@ WinCount_Tcl_Def_Lv01	トリカラバトルの守備チームで１０回勝利�
 Udemae_Lv00	ウデマエがＡになった
 Udemae_Lv01	ウデマエがＳになった
 Udemae_Lv02	ウデマエがＳ+になった
+XRank_Lv00	Xマッチのランキングで３０００位以内に入った
+XRank_Lv01	Xマッチのランキングで５００位以内に入った
+XRank_Lv02	Xマッチのランキングで１０位以内に入った
 WeaponLevel_Lv00	{[0401|00000000]}のじゅくれん度が★４になった
 WeaponLevel_Lv01	{[0401|00000000]}のじゅくれん度が★５になった
 WinCount_WeaponSp_Lv00	{[0401|00000000]}を使ってバトルで３０回勝利した
@@ -449,12 +500,23 @@ OrderFood_Lv01	売店で１００回注文した
 OrderFood_Lv02	売店で１０００回注文した
 OrderVendor_Lv00	スパイキーに１０回ギアを注文した
 OrderVendor_Lv01	スパイキーに１００回ギアを注文した
+SpendLottery_Lv00	くじ引きでおカネを３００,０００ゲソ使った
+SpendLottery_Lv01	くじ引きでおカネを３,０００,０００ゲソ使った
+SpendLottery_Lv02	くじ引きでおカネを３０,０００,０００ゲソ使った
+LimitedRewardLottery_Lv00	くじ引きで大当たりを４回引いた
+LimitedRewardLottery_Lv01	くじ引きで大当たりを８回引いた
+LimitedRewardLottery_Lv02	くじ引きで大当たりを１６回引いた
+CoopBigRunTrophy_Lv00	ビッグランで上位５０%に入った
+CoopBigRunTrophy_Lv01	ビッグランで上位２０%に入った
+CoopBigRunTrophy_Lv02	ビッグランで上位５%に入った
 CommonMsg\Byname\BynameAdjective.msbt
 0000	ユノハナ{r2[だいけいこく]}大渓谷{/r2}の
 0001	ゴンズイ{r2[ちく]}地区{/r2}の
 0002	ヤガラ{r2[いちば]}市場{/r2}の
 0003	マテガイ{r2[ほうすいろ]}放水路{/r2}の
 0005	ナメロウ{r2[きんぞく]}金属{/r2}の
+0006	クサヤ{r2[おんせん]}温泉{/r2}の
+0007	ヒラメが{r2[おかだんち]}丘団地{/r2}の
 0008	マサバ{r2[かいきょうおおはし]}海峡大橋{/r2}の
 0009	キンメダイ{r2[びじゅつかん]}美術館{/r2}の
 0010	マヒマヒリゾート＆スパの
@@ -463,6 +525,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 0013	ザトウマーケットの
 0014	スメーシーワールドの
 0040	シェケナダムの
+0041	{r2[なんぱせん]}難破船{/r2}ドン・ブラコの
 0045	アラマキ{r2[とりで]}砦{/r2}の
 0046	ムニ・エール{r2[かいようはつでんしょ]}海洋発電所{/r2}の
 0060	レギュラーマッチの
@@ -470,6 +533,8 @@ CommonMsg\Byname\BynameAdjective.msbt
 0062	プライベートマッチの
 0063	ヒーローモードの
 0064	サーモンランの
+0065	Xマッチの
+0067	トリカラマッチの
 0100	インク{r2[ぎ]}切{/r2}れの
 0101	{r2[しゅうまつ]}週末{/r2}の
 0102	{r2[めだ]}目立{/r2}ちたがりな
@@ -934,7 +999,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 0660	アガる
 0661	アウトドアな
 0662	IT{r2[かい]}界{/r2}の
-0663	I LOVE
+0663	I LOVE 
 0664	amiiboの
 0665	５{r2[ねんご]}年後{/r2}には
 0666	１０{r2[ねんまえ]}年前{/r2}は
@@ -987,7 +1052,10 @@ CommonMsg\Byname\BynameAdjective.msbt
 0720	VR
 0721	５０％
 0722	３％
+2002	モノクロの
+2003	{r2[なが]}長{/r2}そでの
 2500	{r2[だいだいきち]}大大吉{/r2}の
+2501	{r2[げき]}激{/r2}レアの
 3000	バンカラな
 3001	インド{r2[よう]}洋{/r2}の
 3002	{r2[きたたいせいよう]}北大西洋{/r2}の
@@ -1008,6 +1076,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 3200	エンジョイ
 3201	{r2[さいきょう]}最強{/r2}の
 3300	アゲアゲの
+3301	{r2[た]}立{/r2}ちこぎの
 CommonMsg\Byname\BynameSubject.msbt
 0000_0	ボールドマーカー{r2[つか]}使{/r2}い
 0000_1	{[0102]}
@@ -1117,6 +1186,12 @@ CommonMsg\Byname\BynameSubject.msbt
 0052_1	{[0102]}
 0053_0	4Kスコープ{r2[つか]}使{/r2}い
 0053_1	{[0102]}
+0054_0	スペースシューター{r2[つか]}使{/r2}い
+0054_1	{[0102]}
+0055_0	ワイドローラー{r2[つか]}使{/r2}い
+0055_1	{[0102]}
+0056_0	R-PEN{r2[つか]}使{/r2}い
+0056_1	{[0102]}
 0100_0	スプラッシュボム{r2[つか]}使{/r2}い
 0100_1	{[0102]}
 0101_0	キューバンボム{r2[つか]}使{/r2}い
@@ -1235,6 +1310,10 @@ CommonMsg\Byname\BynameSubject.msbt
 0190_1	{[0102]}
 0191_0	C-Sideファン
 0191_1	{[0102]}
+0192_0	Front Roeファン
+0192_1	{[0102]}
+0193_0	ビジー・バケーションファン
+0193_1	{[0102]}
 0220_0	ロングヘア
 0220_1	{[0102]}
 0221_0	ショートカット
@@ -2084,8 +2163,14 @@ CommonMsg\Byname\BynameSubject.msbt
 0729_1	おじょうさま
 0730_0	{r2[にまいめ]}二枚目{/r2}
 0730_1	{[0102]}
+2002_0	{r2[おも]}思{/r2}い{r2[で]}出{/r2}
+2002_1	{[0102]}
+2003_0	スタイリスト
+2003_1	{[0102]}
 2500_0	ラッキーマン
 2500_1	{[0102]}
+2501_0	{r2[てんねんきねんぶつ]}天然記念物{/r2}
+2501_1	{[0102]}
 3000_0	{r2[わかもの]}若者{/r2}
 3000_1	{[0102]}
 3001_0	イカ
@@ -2126,6 +2211,8 @@ CommonMsg\Byname\BynameSubject.msbt
 3201_1	{[0102]}
 3300_0	{r2[たびびと]}旅人{/r2}
 3300_1	{[0102]}
+3301_0	{r2[じてんしゃの]}自転車乗{/r2}り
+3301_1	{[0102]}
 CommonMsg\Coop\CoopEnemy.msbt
 SakelienStandard	シャケ
 SakelienLarge	ドスコイ
@@ -2177,7 +2264,9 @@ COP006	バイトツナギ ブラック
 COP007	バイトツナギ ホワイト
 CommonMsg\Coop\CoopStageName.msbt
 Shakeup	シェケナダム
+Shakeship	難破船ドン・ブラコ
 Shakespiral	アラマキ砦
+Carousel	スメーシーワールド
 Shakedent	ムニ・エール海洋発電所
 Tutorial	アラマキ砦
 Unknown	？？？
@@ -2219,6 +2308,9 @@ Gear_Clothes_01	インターネット対戦で使ってみよう！
 Gear_Shoes_00	「{[0402|00000000]}」をゲット！
 Gear_Shoes_01	インターネット対戦で使ってみよう！
 LockerFigure_00	オキモノをゲット！
+LockerFigure_Bronze_00	銅のオキモノをゲット！
+LockerFigure_Silver_00	銀のオキモノをゲット！
+LockerFigure_Gold_00	金のオキモノをゲット！
 LockerFigure_Plural_00	オキモノをゲット！
 LockerFigure_01	ロッカーに かざってみよう！
 LockerSticker_00	ステッカーをゲット！
@@ -2253,12 +2345,17 @@ Catalog1st_00	カタログをゲット！
 Catalog1st_01	バトルやバイトでカタログポイントを貯めて\nイカしたアイテムをゲットしよう！
 Catalog_00	カタログ（{[0200|00040000]}冊目）をゲット！
 Catalog_01	バトルやバイトでカタログポイントを貯めて\nイカしたアイテムをゲットしよう！
+NextSeasonCatalog_00	新シーズンのカタログをゲット！
+NextSeasonCatalog_01	古いカタログは回収されたぞ！
 GoldWeaponLicense_00	ゴールドブキチライセンスを {[0200|00020000]}枚ゲット！
 GoldWeaponLicense_01	ブキ屋に持っていって 好きなブキと交換しよう！
 BankaraMatchUnlock_00	バンカラマッチに挑戦できるようになった！
 BankaraMatchUnlock_01	バトルポットから参加しよう！
+XMatchUnlock_00	Xマッチに挑戦できるようになった！
+XMatchUnlock_01	バトルポットから参加しよう！
 LockerPhotoFrame_00	フォトスタンドをゲットした！
 LockerPhotoFrame_01	ロッカーにお気に入りの写真をかざれるぞ！
+RankInReward_00	ランクインおめでとう！
 MsnWeaponBufDocument_00	イリコニウムをゲット！
 MsnWeaponBufDocument_01	ヒーローそうびのパワーアップに使えるぞ！\nパワーアップは{[0302|0000803f00000000]}のメニューからだ！
 MsnGoldDisk_00	ゴールドディスクをゲット！
@@ -2284,6 +2381,8 @@ Page_MiniGameRank	ナワバトラーでゲット！
 Page_Trigger	イカリング３からのお届けもの！
 Page_Trigger_Plu	イカリング３からのお届けもの！
 Page_CatalogLevel	カタログレベルアップ！
+Page_SeasonReset	カタログのアイテムをゲット！
+Page_Aoc	追加コンテンツの特典をゲット！
 CommonMsg\Gear\GearBrandName.msbt
 B00	バトロイカ
 B01	アイロニック
@@ -2306,8 +2405,10 @@ B97	クマサン商会
 B98	アタリメイド
 B99	amiibo
 CommonMsg\Gear\GearName_Clothes.msbt
+FST001	わかばイカＴ
 TES000	イカホワイト
 TES001	イカノメＴ ブラック
+TES003	イカノメＴ ライトブルー
 TES004	ロッケンベルグＴ ホワイト
 TES005	ロッケンベルグＴ ブラック
 TES006	イカブラック
@@ -2319,13 +2420,20 @@ TES018	パイレーツボーダー
 TES019	マリンボーダー
 TES020	ヤキフグ8bit ホワイト
 TES021	ヤキフグ8bit ブラック
+TES026	ニクショクＴ
+TES028	タコＴ
+TES029	ソウショクＴ
 TES030	イカブラックV
 TES035	イカホワイトV
+TES047	アナアキT ポルポピック
+TES048	ホットグラデT
+TES049	ヤコタイダイ ギャラクシー
+TES050	ヤコタイダイ レインボー
+TES055	アイスグラデT
 TES063	サキイカホワイト
 TES064	アロメT ゴブゴブ
 TES066	アナアキT チョーカー
 TES067	アナアキT アシメブレス
-TES088	ガブリエルT
 TES069	リイシューT ブルー
 TES070	リイシューT ブラウン
 TES071	バラズシ ノリマキ
@@ -2339,9 +2447,12 @@ TES082	リンガーT パイン
 TES083	リンガーT アップル
 TES084	トワイライトグラデT
 TES085	サンセットグラデT
+TES088	ガブリエルT
 TES090	スシズメブロブ ライム
 TES091	スシズメブロブ ベリー
 TEL004	エゾッコラグラン
+TEL015	アナアキロンT ドライブ
+TEL026	カラマリフック ブラック
 TLY000	レイヤード ホワイト
 TLY001	マスタードガサネ
 TLY004	アイロニックレイヤード
@@ -2354,11 +2465,15 @@ PLO009	キングラガー010
 PLO010	キングラガー008
 JKT000	マウンテンオリーブ
 JKT001	ヤコナイロン ヴィンテージ
+JKT003	スタジャンロゴマシ
+JKT005	レタード グリーン
 JKT006	イカライダーBLACK
+JKT010	F-190
 JKT014	イカスカジャン
 JKT015	ウラスカジャン
 JKT019	マッチャ ライトダウン
 JKT023	ケンサキコーチ
+JKT036	ボンバージャケット ネガ
 JKT045	モンスター PCU56
 JKT046	バラズシヤッケ
 JKT047	フィレジャケット
@@ -2367,16 +2482,25 @@ JKT049	パドリングジャケット ネガ
 JKT050	コテボレロ ネガ
 JKT051	オスモル アイボリー
 JKT054	ハンティングジャケットKK
+JKT055	パドリングジャケット ポジ
+JKT056	コテボレロ ポジ
+JKT057	バラズシダッフル
+JKT060	マウンテン アオサ
 TNK000	バスケジャージ ホーム
 TNK003	キングタンク ホワイト
 TNK008	ウミボーズ ホーム
 SWT001	イカバッテン マスタード
+SWT007	ドロップスウェット ネガ
 SWT010	アナアキニット アオソデ
+SWT013	エンペーサートレーナー
 SWT016	クラマナスウェット
 SWT017	3Dニット シャーク
 SWT018	タコピステ ブルー
+SWT020	3Dニット ホエール
 SHT000	オータムネル
+SHT001	イカスタンシャツ
 SHT003	シロシャツ
+SHT004	ウーニーズBBシャツ
 SHT005	おどるイカアロハ
 SHT012	ロゴマシマシアロハ
 SHT017	ピーターパンクシャツ
@@ -2385,12 +2509,15 @@ SHT019	スミカケシャツ
 SHT020	パラシューター ザクロ
 SHT024	チリメンタコアロハ
 SHT025	アナアキオンブレネル
+SHT026	スミヌキシャツ
 SHT030	タツノコキューバ
 SHT031	ピエロシャツ
 SHT033	フィレシャツ サファリ
 SHT034	ステッチシャツ ヤガラ
 SHT036	スミチラシシャツ
+SHT038	バンドカラー ムジ
 SHT040	フィレシャツ アーバン
+VST004	イカゴッチンベスト
 VST010	ハンティングベストKK
 VST011	タカアシプロテクターレッド
 VST012	タカアシプロテクターライム
@@ -2438,24 +2565,33 @@ COP007	バイトツナギ ホワイト
 CommonMsg\Gear\GearName_Head.msbt
 FST000	ヘッドバンド ホワイト
 CAP000	ウーニーズBBキャップ
+CAP001	キャンプキャップ
 CAP002	ヤコメッシュ
 CAP003	ビバレッジキャップ
+CAP004	チドリキャップ
 CAP005	イカベーダーキャップ
 CAP012	テッカサイクルキャップ
 CAP020	ヒッコリーワークキャップ
 CAP021	ウールウーニーズクラシック
+CAP023	クラゲーダーキャップ
+CAP024	ハウスタグデニムCAP
 CAP028	シェーディングキャップ スミ
 CAP036	フィッシャーマンキャップ
+NCP001	ショートビーニー
 NCP008	リブニット
+NCP009	アナアキアンピンベレー
+EYE000	クロブチ レトロ
 EYE001	スプラッシュゴーグル
 EYE002	パイロットゴーグル
 EYE003	イロメガネ
-EYE007	ダテコンタクト
 EYE008	タレサン18K
 EYE009	マルベッコー
 EYE011	セルブロウ
 EYE012	ダブルエッグサングラス
+EYE014	マルサンSV925
+EYE015	アナアキバスクベレー
 EYE016	スイミングモーグル
+EYE018	モーグル タタキベッチュー
 EYE021	デメニギスゴーグル
 EYE022	８ビットフレーム
 EYE023	ワイヤーグラス
@@ -2464,9 +2600,12 @@ EYE025	フロート クリアグラス
 EYE026	バイカーシェード
 EYE027	アナアキスクエアグラス
 EYE029	タマサンBC925
+EYE031	フトブチスクエア
+HAT003	フグベルハット
 HAT004	スゲ
 HAT006	イカンカン クラシック
 HAT008	イカバケット
+HAT010	パラソルチューリップ
 HAT015	ボーラークラシック
 HAT016	ステンシルデニムハット
 HAT017	ホタテンガロン
@@ -2476,14 +2615,24 @@ HDP001	オーロラヘッドホン
 HDP004	ステカセヘッドホン
 HDP007	ミミタコ8
 HDP008	甲伝導エンペラEP
+HDP009	ミミタコ8 RAW
 VIS001	ヤキフグ サンバイザー
 VIS003	ヤコバイザー
 VIS004	フェイスバイザー
+MET004	スケボーメット
+MET006	ロゴヅクシMTBメット
 MET007	イカロスHKメット
+MET009	オクトメットプライズデコ
 MET012	シェルメット
 MET013	ホーンメットBF
 MET014	キャッチャーマスクFU
+MET016	ヘッキャ ムジ
+MSK002	エイズリーバンダナ
+MSK003	イカスカルマスク
+MSK004	ペインターマスク
 MSK005	アナアキマスク
+MSK006	キングタコスターマスク
+MSK007	イカバッテンガード
 MSK008	マスクドホッコリー
 MSK011	フォーリマスク
 MSK014	ブロブスマイルマスク
@@ -2522,8 +2671,12 @@ MSN306	ヒーローブレイン レプリカ
 MSN310	でんせつのぼうし
 COP110	イトヨリキャップ
 COP111	シカイバイザー
+COP112	カジカブト
 COP113	パイロットメット
+COP114	ハイテクスコープ
 COP115	ヒラメキブレインメット
+COP116	タコツボメット
+ACC003	イカタコピアス 
 COP001	バイトヘルメット オレンジ
 COP002	バイトヘルメット グリーン
 COP003	バイトヘルメット イエロー
@@ -2537,25 +2690,34 @@ CommonMsg\Gear\GearName_Shoes.msbt
 SLO000	グリッチョ ブルー
 SLO008	ベリベリホワイト
 SLO009	ベリベリレッド
+SLO010	ユデスパイカ
+SLO012	ボルダーシューズ タイノエ
 SLO021	NNJグリーン
 SLO022	ザ・ベース ルーキー
 SLO023	クラム600 カンロ
 SLO024	ザ・ベース ボス
+SLO025	クラム600 コハク
 SHI000	シーホースHi レッド
 SHI001	シーホースHi ゾンビ
 SHI003	シーホースHi パープル
 SHI004	キャンバスHi モロヘイヤ
 SHI005	キャンバスHi トマト
 SHI006	シーホースHi ゴールド
+SHI008	シャークモカシン
+SHI010	デカロニックチョコレート
 SHI011	デカロニックミント
 SHI016	オルカHi サンセット
 SHI017	エギング4 アカクロ
 SHI018	エギング4 アオクロ
+SHI025	エギング5 シロアカ
 SHI042	パワーリセットHi
 SHI043	テンヤ8 レッド
 SHI045	01STER コハク
+SHI046	ウノアシHi
+SHI052	01STER カンロ
 SHT000	ピンクビーンズ
 SHT001	オレンジアローズ
+SHT002	ウミウシイエロー
 SHT004	シアンビーンズ
 SHT009	ブラックビーンズ
 SHT012	アロメッシュイエロー
@@ -2571,6 +2733,7 @@ SDL001	チョコクロッグ
 SDL003	デルタストラップ ネオン
 SDL004	BBサンダル
 SDL005	デルタストラップ スノー
+SDL006	デルタストラップ ルミナス
 SDL007	ヤキフグシャワサン アカ
 SDL008	ヤキフグシャワサン キ
 SDL010	フィッシュボーンワラチ
@@ -2583,15 +2746,27 @@ TRS000	トレッキングライト
 TRS001	トレッキングカスタム
 BOT000	モトクロスブーツ
 BOT001	ヌバックブーツ イエロー
+BOT002	ヌバックブーツ レッド
+BOT004	レイニーモスグリーン
 BOT006	ロッキンホワイト
 BOT007	ロッキンチェリー
+BOT010	ミルキーダウンブーツ
 BOT012	ハンティングブーツ
+BOT013	ロッキンブラック
+BOT019	モトクロスM-DCB
 BOT020	ヌバックブーツxSJ
 BOT021	ダックブーツ スノウ
 BOT023	カセブカブーツ レッド
 BOT025	ロッキンピンク
+BOT026	ウォームブーツ
+SLP000	スリッポン ブルー
 SLP002	スリッポン チドリ
+LTS000	ラバーソール ホワイト
+LTS003	イカスミチップ
+LTS005	イカボウズキャメル
+LTS007	ネイビーチップ レッドソール
 LTS010	アナアキラバー ハバネロ
+LTS011	アナアキラバー フェイク
 LTS013	チャッカブーツ サンド
 LTS014	デッキシューズ フカイリ
 AMB000	スクールローファー ハイソ
@@ -2621,6 +2796,7 @@ MSN304	ヒーローブーツLv3
 MSN305	ヒーローブーツST
 MSN306	ヒーローブーツ レプリカ
 MSN310	でんせつのゾーリ
+TRG000	AGE262
 CommonMsg\Gear\GearPowerExp.msbt
 None	ギアをバトルで使用してケイケン値をためると\nギアパワーが解放されます。
 OpInkEffect_Reduction	相手のインクをふんだ時のダメージや移動速度の減少量が\n少なくなります。
@@ -2823,6 +2999,10 @@ Fig_LaundryDetergent01	せんざい クリーン
 Fig_CoopSalmonTower	タワー
 Fig_CerealBox02	シリアル ココナッツ
 Fig_CoopSalmonRocket	コウモリ
+Fig_CoopSalmonBigKing00	ヨコヅナ ノーマル
+Fig_CoopSalmonBigKing01	ヨコヅナ ブロンズ
+Fig_CoopSalmonBigKing02	ヨコヅナ シルバー
+Fig_CoopSalmonBigKing03	ヨコヅナ ゴールド
 Fig_CoopSalmonGuardian	テッパン
 Fig_Snack06	サクサクスナック
 Fig_Box01L	きばこ アタリメイド
@@ -2922,6 +3102,12 @@ Fig_UdemaeReward_Lv04	ウデマエトロフィー B
 Fig_UdemaeReward_Lv01	ウデマエトロフィー S+
 Fig_UdemaeReward_Lv02	ウデマエトロフィー S
 Fig_UdemaeReward_Lv03	ウデマエトロフィー A
+Fig_JuiceBox_00	パックジュース マンゴー
+Fig_Backpack00	リュックサック ネイビー
+Fig_DrawstringBag00	ナップザック メッシュ
+Fig_LunchBox00	ランチタッパー ブルー
+Fig_RingBinder00	リングバインダー パープル
+Fig_WaterBottle00	ウォーターボトル アクア
 Grf_Sti_Character_28	キャラ ARE-TK
 Grf_Sti_Character_29	キャラ ARE-IK
 Grf_Sti_Decoration_14	デコ HDS
@@ -2983,6 +3169,7 @@ Pap_Sti_Poster_14	チラシ TNA
 Pap_Sti_Poster_15	ポスター KS-MDK
 Pap_Sti_Poster_18	ポスター KS-TAB
 Pap_Sti_Poster_19	ポスター KS-SYK
+Pap_Sti_Poster_20	ポスター KU-ARP
 Pap_Sti_Signboard_11	はりがみ KIW
 Pap_Sti_Signboard_12	はりがみ SUM-HU
 Pap_Sti_Sticker_20	ステッカー GDJ
@@ -3101,6 +3288,17 @@ Stc_Sti_MiniGame_RankAward_Lv04	ナワバトラーステッカー４
 Stc_Sti_MiniGame_RankAward_Lv05	ナワバトラーステッカー５
 Stc_Sti_MiniGame_RankAward_Lv06	ナワバトラーステッカー６
 Stc_Sti_MiniGame_RankAward_Lv07	ナワバトラーステッカー７
+Grf_Sti_Graffiti_44	グラフィティ KU-ARK
+Grf_Sti_Signboard_23	かんばん KU-OKB
+Pap_Sti_Signboard_24	はりがみ KU-SHG
+Stc_Sti_Character_30	キャラ HI-TBK
+Stc_Sti_Character_31	キャラ HI-CKU
+Stc_Sti_Character_32	キャラ KU-KCA
+Stc_Sti_Signboard_20	かんばん HI-SNR
+Stc_Sti_Signboard_21	かんばん HI-SPY
+Stc_Sti_Signboard_22	かんばん HI-KRD
+Stc_Sti_Sticker_34	ステッカー HI-ISP
+Stc_Sti_Sticker_35	ステッカー KU-YIS
 Stc_Sti_Wst_Charger_Normal_00_Lv00	ステッカー スプラチャージャー
 Hla_Sti_Wst_Roller_Normal_00_Lv01	ステッカー スプラローラー HO
 Hla_Sti_Wst_Charger_Normal_00_Lv01	ステッカー スプラチャージャー HO
@@ -3115,7 +3313,9 @@ Hla_Sti_Wst_Blaster_Light_00_Lv01	ステッカー ラピッドブラスター HO
 Hla_Sti_Wst_Blaster_Long_00_Lv01	ステッカー ロングブラスター HO
 Hla_Sti_Wst_Blaster_Middle_00_Lv01	ステッカー ホットブラスター HO
 Hla_Sti_Wst_Blaster_Short_00_Lv01	ステッカー ノヴァブラスター HO
+Hla_Sti_Wst_Blaster_Short_01_Lv01	ステッカー ノヴァブラスターネオ HO
 Hla_Sti_Wst_Brush_Mini_00_Lv01	ステッカー パブロ HO
+Hla_Sti_Wst_Brush_Mini_01_Lv01	ステッカー パブロ・ヒュー HO
 Hla_Sti_Wst_Brush_Normal_00_Lv01	ステッカー ホクサイ HO
 Hla_Sti_Wst_Charger_Keeper_00_Lv01	ステッカー ソイチューバー HO
 Hla_Sti_Wst_Charger_Light_00_Lv01	ステッカー 14式竹筒銃・甲 HO
@@ -3127,8 +3327,10 @@ Hla_Sti_Wst_Maneuver_Dual_00_Lv01	ステッカー デュアルスイーパー HO
 Hla_Sti_Wst_Maneuver_Gallon_00_Lv01	ステッカー ケルビン525 HO
 Hla_Sti_Wst_Maneuver_Normal_00_Lv01	ステッカー スプラマニューバー HO
 Hla_Sti_Wst_Maneuver_Short_00_Lv01	ステッカー スパッタリー HO
+Hla_Sti_Wst_Maneuver_Short_01_Lv01	ステッカー スパッタリー・ヒュー HO
 Hla_Sti_Wst_Maneuver_Stepper_00_Lv01	ステッカー クアッドホッパーブラック HO
 Hla_Sti_Wst_Roller_Compact_00_Lv01	ステッカー カーボンローラー HO
+Hla_Sti_Wst_Roller_Compact_01_Lv01	ステッカー カーボンローラーデコ HO
 Hla_Sti_Wst_Roller_Heavy_00_Lv01	ステッカー ダイナモローラー HO
 Hla_Sti_Wst_Roller_Hunter_00_Lv01	ステッカー ヴァリアブルローラー HO
 Hla_Sti_Wst_Saber_Lite_00_Lv01	ステッカー ドライブワイパー HO
@@ -3137,12 +3339,16 @@ Hla_Sti_Wst_Shelter_Compact_00_Lv01	ステッカー スパイガジェット HO
 Hla_Sti_Wst_Shelter_Normal_00_Lv01	ステッカー パラシェルター HO
 Hla_Sti_Wst_Shelter_Wide_00_Lv01	ステッカー キャンピングシェルター HO
 Hla_Sti_Wst_Shooter_Blaze_00_Lv01	ステッカー プロモデラーMG HO
+Hla_Sti_Wst_Shooter_Blaze_01_Lv01	ステッカー プロモデラーRG HO
 Hla_Sti_Wst_Shooter_Expert_00_Lv01	ステッカー プライムシューター HO
+Hla_Sti_Wst_Shooter_Expert_01_Lv01	ステッカー プライムシューターコラボ HO
 Hla_Sti_Wst_Shooter_First_00_Lv01	ステッカー わかばシューター HO
+Hla_Sti_Wst_Shooter_First_01_Lv01	ステッカー もみじシューター HO
 Hla_Sti_Wst_Shooter_Flash_00_Lv01	ステッカー ボトルガイザー HO
 Hla_Sti_Wst_Shooter_Gravity_00_Lv01	ステッカー .52ガロン HO
 Hla_Sti_Wst_Shooter_Heavy_00_Lv01	ステッカー .96ガロン HO
 Hla_Sti_Wst_Shooter_Long_00_Lv01	ステッカー ジェットスイーパー HO
+Hla_Sti_Wst_Shooter_Normal_01_Lv01	ステッカー スプラシューターコラボ HO
 Hla_Sti_Wst_Shooter_Normal_H_Lv01	ステッカー ヒーローシューター レプリカ HO
 Hla_Sti_Wst_Shooter_Precision_00_Lv01	ステッカー シャープマーカー HO
 Hla_Sti_Wst_Shooter_QuickMiddle_00_Lv01	ステッカー N-ZAP85 HO
@@ -3152,10 +3358,12 @@ Hla_Sti_Wst_Slosher_Bathtub_00_Lv01	ステッカー オーバーフロッシャ�
 Hla_Sti_Wst_Slosher_Diffusion_00_Lv01	ステッカー ヒッセン HO
 Hla_Sti_Wst_Slosher_Launcher_00_Lv01	ステッカー スクリュースロッシャー HO
 Hla_Sti_Wst_Slosher_Strong_00_Lv01	ステッカー バケットスロッシャー HO
+Hla_Sti_Wst_Slosher_Strong_01_Lv01	ステッカー バケットスロッシャーデコ HO
 Hla_Sti_Wst_Slosher_Washtub_00_Lv01	ステッカー エクスプロッシャー HO
 Hla_Sti_Wst_Spinner_Downpour_00_Lv01	ステッカー クーゲルシュライバー HO
 Hla_Sti_Wst_Spinner_Hyper_00_Lv01	ステッカー ハイドラント HO
 Hla_Sti_Wst_Spinner_Quick_00_Lv01	ステッカー スプラスピナー HO
+Hla_Sti_Wst_Spinner_Quick_01_Lv01	ステッカー スプラスピナーコラボ HO
 Hla_Sti_Wst_Spinner_Serein_00_Lv01	ステッカー ノーチラス47 HO
 Hla_Sti_Wst_Spinner_Standard_00_Lv01	ステッカー バレルスピナー HO
 Hla_Sti_Wst_Stringer_Normal_00_Lv01	ステッカー トライストリンガー HO
@@ -3166,7 +3374,9 @@ Stc_Sti_Wst_Blaster_Light_00_Lv00	ステッカー ラピッドブラスター
 Stc_Sti_Wst_Blaster_Long_00_Lv00	ステッカー ロングブラスター
 Stc_Sti_Wst_Blaster_Middle_00_Lv00	ステッカー ホットブラスター
 Stc_Sti_Wst_Blaster_Short_00_Lv00	ステッカー ノヴァブラスター
+Stc_Sti_Wst_Blaster_Short_01_Lv00	ステッカー ノヴァブラスターネオ
 Stc_Sti_Wst_Brush_Mini_00_Lv00	ステッカー パブロ
+Stc_Sti_Wst_Brush_Mini_01_Lv00	ステッカー パブロ・ヒュー
 Stc_Sti_Wst_Brush_Normal_00_Lv00	ステッカー ホクサイ
 Stc_Sti_Wst_Charger_Keeper_00_Lv00	ステッカー ソイチューバー
 Stc_Sti_Wst_Charger_Light_00_Lv00	ステッカー 14式竹筒銃・甲
@@ -3178,8 +3388,10 @@ Stc_Sti_Wst_Maneuver_Dual_00_Lv00	ステッカー デュアルスイーパー
 Stc_Sti_Wst_Maneuver_Gallon_00_Lv00	ステッカー ケルビン525
 Stc_Sti_Wst_Maneuver_Normal_00_Lv00	ステッカー スプラマニューバー
 Stc_Sti_Wst_Maneuver_Short_00_Lv00	ステッカー スパッタリー
+Stc_Sti_Wst_Maneuver_Short_01_Lv00	ステッカー スパッタリー・ヒュー
 Stc_Sti_Wst_Maneuver_Stepper_00_Lv00	ステッカー クアッドホッパーブラック
 Stc_Sti_Wst_Roller_Compact_00_Lv00	ステッカー カーボンローラー
+Stc_Sti_Wst_Roller_Compact_01_Lv00	ステッカー カーボンローラーデコ
 Stc_Sti_Wst_Roller_Heavy_00_Lv00	ステッカー ダイナモローラー
 Stc_Sti_Wst_Roller_Hunter_00_Lv00	ステッカー ヴァリアブルローラー
 Stc_Sti_Wst_Saber_Lite_00_Lv00	ステッカー ドライブワイパー
@@ -3188,12 +3400,16 @@ Stc_Sti_Wst_Shelter_Compact_00_Lv00	ステッカー スパイガジェット
 Stc_Sti_Wst_Shelter_Normal_00_Lv00	ステッカー パラシェルター
 Stc_Sti_Wst_Shelter_Wide_00_Lv00	ステッカー キャンピングシェルター
 Stc_Sti_Wst_Shooter_Blaze_00_Lv00	ステッカー プロモデラーMG
+Stc_Sti_Wst_Shooter_Blaze_01_Lv00	ステッカー プロモデラーRG
 Stc_Sti_Wst_Shooter_Expert_00_Lv00	ステッカー プライムシューター
+Stc_Sti_Wst_Shooter_Expert_01_Lv00	ステッカー プライムシューターコラボ
 Stc_Sti_Wst_Shooter_First_00_Lv00	ステッカー わかばシューター
+Stc_Sti_Wst_Shooter_First_01_Lv00	ステッカー もみじシューター
 Stc_Sti_Wst_Shooter_Flash_00_Lv00	ステッカー ボトルガイザー
 Stc_Sti_Wst_Shooter_Gravity_00_Lv00	ステッカー .52ガロン
 Stc_Sti_Wst_Shooter_Heavy_00_Lv00	ステッカー .96ガロン
 Stc_Sti_Wst_Shooter_Long_00_Lv00	ステッカー ジェットスイーパー
+Stc_Sti_Wst_Shooter_Normal_01_Lv00	ステッカー スプラシューターコラボ
 Stc_Sti_Wst_Shooter_Normal_H_Lv00	ステッカー ヒーローシューター レプリカ
 Stc_Sti_Wst_Shooter_Precision_00_Lv00	ステッカー シャープマーカー
 Stc_Sti_Wst_Shooter_QuickMiddle_00_Lv00	ステッカー N-ZAP85
@@ -3203,14 +3419,22 @@ Stc_Sti_Wst_Slosher_Bathtub_00_Lv00	ステッカー オーバーフロッシャ�
 Stc_Sti_Wst_Slosher_Diffusion_00_Lv00	ステッカー ヒッセン
 Stc_Sti_Wst_Slosher_Launcher_00_Lv00	ステッカー スクリュースロッシャー
 Stc_Sti_Wst_Slosher_Strong_00_Lv00	ステッカー バケットスロッシャー
+Stc_Sti_Wst_Slosher_Strong_01_Lv00	ステッカー バケットスロッシャーデコ
 Stc_Sti_Wst_Slosher_Washtub_00_Lv00	ステッカー エクスプロッシャー
 Stc_Sti_Wst_Spinner_Downpour_00_Lv00	ステッカー クーゲルシュライバー
 Stc_Sti_Wst_Spinner_Hyper_00_Lv00	ステッカー ハイドラント
 Stc_Sti_Wst_Spinner_Quick_00_Lv00	ステッカー スプラスピナー
+Stc_Sti_Wst_Spinner_Quick_01_Lv00	ステッカー スプラスピナーコラボ
 Stc_Sti_Wst_Spinner_Serein_00_Lv00	ステッカー ノーチラス47
 Stc_Sti_Wst_Spinner_Standard_00_Lv00	ステッカー バレルスピナー
 Stc_Sti_Wst_Stringer_Normal_00_Lv00	ステッカー トライストリンガー
 Stc_Sti_Wst_Stringer_Short_00_Lv00	ステッカー LACT-450
+Stc_Sti_Wst_Shooter_QuickLong_00_Lv00	ステッカー スペースシューター
+Hla_Sti_Wst_Shooter_QuickLong_00_Lv01	ステッカー スペースシューター HO
+Stc_Sti_Wst_Roller_Wide_00_Lv00	ステッカー ワイドローラー
+Hla_Sti_Wst_Roller_Wide_00_Lv01	ステッカー ワイドローラー HO
+Stc_Sti_Wst_Charger_Pencil_00_Lv00	ステッカー R-PEN/5H
+Hla_Sti_Wst_Charger_Pencil_00_Lv01	ステッカー R-PEN/5H HO
 CommonMsg\Lobby\LobbyFoodExp.msbt
 PartyMoney_Up_Purchase	バトル後にもらえるおカネが\n{color[0100]}味方全員{color[ffff]}２倍にアップ！
 PartyExp_Up_Purchase	バトル後にもらえるケイケン値が\n{color[0100]}味方全員{color[ffff]}２倍にアップ！
@@ -3450,27 +3674,32 @@ T_ExplainEnemy_50	● 状況の説明\n　・ 土地が干上がり、沖のほ�
 T_ExplainEnemy_51	● クマサンからのアドバイス\n　・ 長距離の運搬になるため、仲間と連携してイクラ投げを使うべし。\n　・ 飛んできたシャケは避けるか、運搬の合間に倒すべし。\n\n● 補足\n　・ 巨大タツマキの発生は予測不能であり、海中のあらゆるものが飛ばされ、\n　  シャケたちにも甚大な被害が及ぶ。\n　・ 飛来物が多く、よく事故が発生する。 干上がった土地のイクラコンテナが\n　  使えなくなった場合、金イクラ１コの納品が２コ分として計上される。
 Coop_Button02	キホンの「キ」
 Coop_Button03	キホンの「ホ」
+CommonMsg\Manual\ManualCoopEvent.msbt
+BigRun_Title	ビッグランとは？
+BigRun_Manual01	・ ビッグランとは、街にある{color[0100]}バトルのステージ{color[ffff]}に\n  シャケの大群が押し寄せてくる現象です。\n\n・ クマサン商会では、シャケから街を守るために\n  広くバイトを募集しています。 ステージに現れた\n  シャケを撃退しつつ、金イクラを集めてください。
+BigRun_Manual02	・ ビッグラン中の評価基準は通常のバイトと同じですが、\n  {color[0100]}ほうしゅうメーター{color[ffff]}にセットする報酬の数をいつもより\n  多めにしています。\n  また、カタログポイントを少し上乗せしてお付けします。\n\n・ さらに、ビッグランの間に一度でも参加してくれた方には\n  お礼として{color[0100]}オキモノ{color[ffff]}をプレゼントします。
+BigRun_Manual03	・ ビッグラン中は、１回のバイトでチーム全員が集めた\n  金イクラの数の{color[0100]}ハイスコア{color[ffff]}を記録しています。\n  参加者の中でも上位に入る優れたハイスコアを\n  記録した方には、より良いオキモノをお贈りします。\n\n・ ビッグランの結果は、シャケが退却して現地の安全を\n  確認できたら発表します。\n  みなさんの、ますますのカツヤクを期待しています。
 CommonMsg\Manual\ManualFes.msbt
 Fes_Button01	フェスの心得
 Fes_Button02	ヨビ祭・本祭
 Fes_Button03	フェスマッチ\nのキホン
-Fes_Button04	トリカラアタック\nのキホン
+Fes_Button04	トリカラマッチ\nのキホン
 Fes_Button05	最終結果
 Fes_MainSubFes_Title	ヨビ祭・本祭
 Fes_MainSubFes_Manual00	フェスは、お題への投票期間である{color[0100]}ヨビ祭{color[ffff]}と、\n投票したチームに入ってバトルする{color[0100]}本祭{color[ffff]}に分かれている。\n\nフェスに参加するために、まずは{color[0100]}フェス投票所で投票{color[ffff]}しよう！\n投票すると{color[0100]}フェスT{color[ffff]}がレンタルできるぞ。 フェスTを着て、チームを応援だ！\n\nフェス期間中は、カタログレベルが上がるたびに {color[0100]}ホラガイ{color[ffff]}をゲットできるぞ。\nバトルやバイトに参加して、どんどんカタログポイントを貯めよう！\n※カタログはランク４になったらザッカ屋でもらえるぞ。
 Fes_MainSubFes_Manual01	ヨビ祭中に手に入れたホラガイの数は、フェスの結果に反映されるぞ！\nまた、ホラガイを使うとロビーで{color[0100]}くじ引き{color[ffff]}ができる。\nくじ引きでホラガイを使っても、フェスの結果には反映されないので、\nホラガイを集めて、たくさんくじを引いてみよう！\n\nフェスTは{color[0100]}ギアパワーの付け替え{color[ffff]}や{color[0100]}スロットのクリーニング{color[ffff]}がお得にできるぞ！\n本祭に向けて、自分好みにカスタマイズしておこう。\n\nなお、フェスTやホラガイはフェスが終わると回収されるので注意しよう。
 Fes_MainSubFes_Manual02	本祭では{color[0100]}フェスマッチ{color[ffff]}に参加できるようになるぞ！\nフェスマッチでカツヤクすると {color[0100]}こうけん度{color[ffff]}を獲得できる。\nこうけん度もフェスの結果に反映されるぞ。\n\nまれに発生する{color[0100]}１０倍マッチ{color[ffff]}で勝利すると、\n１０倍のこうけん度に加え、{color[0100]}オマツリガイ{color[ffff]}を入手できる。\nオマツリガイをたくさん持っていると、さらに大量のこうけん度を\n獲得できる{color[0100]}１００倍マッチ{color[ffff]}や{color[0100]}３３３倍マッチ{color[ffff]}が発生しやすくなるぞ！
-Fes_MainSubFes_Manual03	本祭の前半戦が終わると{color[0100]}中間発表{color[ffff]}でその時点の１位が発表され、\n{color[0100]}トリカラアタック{color[ffff]}が解禁されるぞ！\n中間発表で１位になれなかったチームの人は、\nロビーで「トリカラアタック」を選んで１位のチームと戦おう！\n\nバトルのルールについてくわしくは、\n「フェスマッチのキホン」「トリカラアタックのキホン」をチェックだ！\n\nちなみに、本祭の間は いつもより多めにカタログポイントをもらえるぞ！
+Fes_MainSubFes_Manual03	本祭の前半戦が終わると{color[0100]}中間発表{color[ffff]}でその時点の１位が発表され、\n{color[0100]}トリカラマッチ{color[ffff]}が解禁されるぞ！\n中間発表で１位になれなかったチームの人は、\nロビーで「トリカラマッチ」を選んで１位のチームと戦おう！\n\nバトルのルールについてくわしくは、\n「フェスマッチのキホン」「トリカラマッチのキホン」をチェックだ！\n\nちなみに、本祭の間は いつもより多めにカタログポイントをもらえるぞ！
 Fes_FesMatch_Title	フェスマッチのキホン
 Fes_FesMatch_Manual00	３つの勢力に分かれて競い合え！
 Fes_FesMatch_Manual01	フェスマッチは、出されたお題をもとに３つの勢力に\n分かれてバトルする、ナワバリバトルの祭典だ！\n３分間地面を塗りまくってナワバリを広げ、\nよりインクを塗った面積が広いチームの勝利だ。\n\nバトルの結果に応じて{color[0100]}フェスポイント{color[ffff]}がもらえる。\nフェスポイントをかせいで{color[0100]}フェスランク{color[ffff]}を上げるほど、\nフェスの終了後にもらえる{color[0100]}スーパーサザエ{color[ffff]}が多くなるぞ！
 Fes_FesMatch_Manual02	フェスマッチには{color[0100]}オープン{color[ffff]}と{color[0100]}チャレンジ{color[ffff]}、２つの部門がある！\n{color[0100]}オープン部門{color[ffff]}は、１人で気軽に参加したり、\n同じ勢力に投票した仲間といっしょに\n２～４人のチームを組んで参加したりできる部門だ。\n\nこの部門では、塗りポイント数と勝利ボーナスが\n{color[0100]}こうけん度{color[ffff]}としてカウントされる。\nまた、自分たちのチームが連勝を重ねるほど、\n同じように連勝を重ねたチームと対戦しやすくなるぞ！
 Fes_FesMatch_Manual03	{color[0100]}チャレンジ部門{color[ffff]}は、１人で参加して自分の限界に\nいどむ部門だ。 この部門では、キミのそのフェスでの\n実力を示す{color[0100]}フェスパワー{color[ffff]}が計測されるぞ。\nフェスパワーを高めて{color[0100]}フェス１００ケツ{color[ffff]}を目指そう！\n\nこの部門では、相手チームに勝つことで\n{color[0100]}こうけん度{color[ffff]}を獲得できる。 \n相手チームのフェスパワーが高いほど、\n獲得できるこうけん度は高くなるぞ！
-Fes_Torikara_Title	トリカラアタックのキホン
+Fes_Torikara_Title	トリカラマッチのキホン
 Fes_Torikara_Manual00	３チームでスーパーシグナルをうばい合い、地面を塗りまくって、ナワバリが多いチームの勝ち！
 Fes_Torikara_Manual01	１．各チームのナワバリの広さ\n２．スーパーシグナル\n３．マトイ\n４．確保したスーパーシグナルの数
-Fes_Torikara_Manual02	中間発表で１位をのがした勢力のプレイヤーは、\n本祭の後半戦で{color[0100]}トリカラアタック{color[ffff]}に参加できるぞ。\nトリカラアタックのルールは、\n２人vs４人vs２人で対決する{color[0100]}トリカラバトル{color[ffff]}だ！\n\nトリカラアタックに参加している２つの勢力で\nそれぞれ2人ずつのチームを組み、\nフェスマッチ（オープン）に参加している１位勢力の\n４人チームをはさみ撃ちにできるぞ！
-Fes_Torikara_Manual03	{color[0100]}トリカラバトル{color[ffff]}は３色のインクが入り乱れる\n特別なバトルだ！\n\n中間発表で１位の勢力は守備チームに、\nそれ以外の勢力はそれぞれ攻撃チームになるぞ！\n\n守備チームは中央に位置する{color[0100]}スーパーシグナル{color[ffff]}を守りながら\n{color[0100]}たくさんのナワバリを確保{color[ffff]}して勝利を目指そう！
+Fes_Torikara_Manual02	中間発表が終わると、本祭の後半戦開始だ！\n{color[0100]}トリカラマッチ{color[ffff]}に参加できるようになるぞ。\n\n{color[0100]}トリカラマッチ{color[ffff]}を選んだプレイヤーが攻撃チームか\n守備チーム、どちらかになって戦う！\n\n中間発表で１位の勢力は守備チームのときに、\n２位と３位の勢力は攻撃チームのときに勝利すると、\nこうけん度のボーナスがもらえるぞ。
+Fes_Torikara_Manual03	{color[0100]}トリカラマッチ{color[ffff]}のルールは、\n２人vs４人vs２人で対決する{color[0100]}トリカラバトル{color[ffff]}！\n３色のインクが入り乱れる特別なバトルだ！\n\nそれぞれ２人ずつの攻撃チーム２つが\n４人組の守備チームをはさみ撃ちにする！\n\n守備チームは中央に位置する{color[0100]}スーパーシグナル{color[ffff]}を守り\nながら、{color[0100]}たくさんのナワバリを確保{color[ffff]}して勝利を目指そう！
 Fes_Torikara_Manual04	攻撃チームは、スーパーシグナルをうばってすりみ連合の力を借り、\nどんどんナワバリを塗り広げて\n{color[0100]}守備チームが勝利するのを食い止めよう！{color[ffff]}\n\n攻撃チームがステージ中央のスーパーシグナルにふれると、\nスーパーシグナルに{color[0100]}トライ{color[ffff]}できる。\nトライして一定時間がたつと、スーパーシグナルを確保できるぞ！
 Fes_Torikara_Manual05	スーパーシグナルを確保すると合図が送られ、すりみ連合が\nステージを自動で塗ってくれる{color[0100]}マトイ{color[ffff]}を届けてくれるぞ。\n\nトライしている間に倒されると確保に失敗してしまうが、\nトライするたびに{color[0100]}確保までの時間は短くなる{color[ffff]}。\nあきらめずに攻めこんでスーパーシグナルを確保し、\nマトイでバトルを有利に進めよう！ \n\nなお、スーパーシグナルは１回のバトルで２個まで出現するぞ。
 Fes_Torikara_Manual06	攻撃チームが得られるこうけん度は、\n{color[0100]}守備チームの勝利を食い止めたかどうか{color[ffff]}で\n大きく変わるぞ。 自分のチームが勝利することより、\n反対側の攻撃チームと息を合わせ、守備チームの\nナワバリをうばって勝利させないことが重要だ！\n\nただし、{color[0100]}順位{color[ffff]}や{color[0100]}確保したスーパーシグナルの数{color[ffff]}、{color[0100]}トライの回数{color[ffff]}でも\nこうけん度は変わるので、守備チームの勝利を阻止\nできそうなら、より高みを目指してみるのもいいだろう。
@@ -3569,6 +3798,56 @@ Vendor_Replacement_Gear_Power_Manual01	ちなみに、ギアパワーを付け�
 Vendor_GesoTown_Title	ゲソタウンについて
 Vendor_GesoTown_Manual00	{color[0100]}ゲソタウン{color[ffff]}は、インターネットサービス「{color[0100]}イカリング３{color[ffff]}」で\n利用できるギア注文機能だ！\nバンカラ街のショップに並ぶものとはギアパワーがちがう\nスペシャルなギアを注文できるぞ。\n\nくわしくは、スプラトゥーン3の公式サイトでチェックだ！
 Vendor_GesoTown_Manual01	ゲソタウンで注文できるギアは、同時に{color[0100]}１つだけ{color[ffff]}だ。\nただし、注文するとすぐにスパイキーのところへ届いて、\n受け取れば次の注文ができるようになるぞ。\n\n欲しいギアは、のがさずゲットしよう！
+CommonMsg\Manual\ManualXMatch.msbt
+XMatch_Button01	Xマッチ
+XMatch_Button02	ガチエリア
+XMatch_Button03	ガチヤグラ
+XMatch_Button04	ガチホコバトル
+XMatch_Button05	ガチアサリ
+XMatch_Title	Xマッチとは
+XMatch_Manual00	高みを目指す者たちの「頂点」が決まる！
+XMatch_Manual01	Xマッチは、ツワモノたちの頂点を決めるバトルだ！\n\nウデマエＳ+{size[4b00]}0{size[6400]}以上のプレイヤーだけが１人で参加でき、\nウデマエではなく{color[0100]}Xパワー{color[ffff]}をかけて戦う。\n\nXマッチのルールはバンカラマッチと同じ４つだ。\n{color[0100]}ルールごとに{color[ffff]}Xパワーがあるぞ。
+XMatch_Manual02	Xパワーはプレイヤーの実力を示す数値だ。\n{color[0100]}最初に５戦する{color[ffff]}と計測が完了してXパワーが決まり、\nXパワーをかけた挑戦が始まる！\n\n一度の挑戦は{color[0100]}３勝するか３敗する{color[ffff]}まで続き、\n終了時に、勝敗に応じてXパワーが上下する。\n\n計測や挑戦の状態はルールごとに記録されるぞ。
+XMatch_Manual03	Xパワーが上がるとXランキングに登録される。\nXランキング上位者はプレイヤー名に王冠がつくぞ！\n\nXパワーは{color[0100]}シーズンごとに再計測{color[ffff]}される。\nシーズン中にランキング上位を目指そう！\n\nイカリング３を使えば、ルールやブキごとの\nランキングを確認できるぞ。
+XMatch_Gachiarea_Title	ガチエリアのルール
+XMatch_Gachiarea_Manual00	ガチエリアを塗って、一定時間確保したチームが勝利！
+XMatch_Gachiarea_Manual01	１．ガチエリア\n２．エリアの確保状況\n３．カウント\n４．ペナルティカウント
+XMatch_Gachiarea_Manual02	ステージ内の{color[0100]}ガチエリア{color[ffff]}を一定時間確保した\nチームが勝利だ！\n\nまずはガチエリアを塗って確保しよう。\nどれくらい塗られているかは、{color[0100]}エリアの確保状況{color[ffff]}を\n見ればわかるぞ。 ガチエリアをすべて確保すると、\n確保したチームの{color[0100]}カウント{color[ffff]}が{color[0100]}減って{color[ffff]}いく。\nカウントが０になったら、ノックアウト勝利だ！
+XMatch_Gachiarea_Manual03_Title	ガチエリアのコツ
+XMatch_Gachiarea_Manual03	・ 仲間と協力しよう！\n    相手が守っているガチエリアを１人で取り返すのは難しい。 仲間と息を合わせて４人で攻撃だ！\n    逆に、自分たちが確保しているときは、相手がそろう前にたおしていこう。\n\n・ 負けていてもあきらめるな！\n    相手チームがエリアを確保しているときや、カウントが負けているときは、スペシャルゲージが\n    自動でたまっていくぞ！
+XMatch_Gachiarea_Manual04	・ 延長戦で逆転をねらえ！\n    時間切れの際、負けているチームがエリアを確保していると延長戦が発生！\n    最後まであきらめなければ延長戦で逆転できるかも？
+XMatch_Gachiyagura_Title	ガチヤグラのルール
+XMatch_Gachiyagura_Manual00	ガチヤグラに乗って、相手陣地のゴールまでガチヤグラを運んだチームが勝利！
+XMatch_Gachiyagura_Manual01	１．ガチヤグラ\n２．ゴール\n３．カンモン\n４．残りカウント
+XMatch_Gachiyagura_Manual02	ステージ中央に配置された{color[0100]}ガチヤグラ{color[ffff]}を相手陣地の\n{color[0100]}ゴール{color[ffff]}まで運んだチームが勝利だ！\n\nまずはガチヤグラの側面を塗り、上に登って確保しよう。 \nガチヤグラが相手陣地に進んでいくぞ！\n\n相手にやられてうばわれたり、\n仲間がひとりも乗っていない状態が続いたりすると、\nガチヤグラは中央にもどっていくぞ。
+XMatch_Gachiyagura_Manual03	ゴールへの道には{color[0100]}カンモン{color[ffff]}が配置されている。 \nガチヤグラがカンモンに乗ると、一時停止するぞ。\nカンモンの耐久値が０になるまでガチヤグラを\n確保し続けて突破しよう。\n\n突破したカンモンは、次からは素通りできる。\n突破できなかったら耐久値が回復してしまうぞ。
+XMatch_Gachiyagura_Manual04	相手ゴールに近づくほど、{color[0100]}残りカウント{color[ffff]}は{color[0100]}減って{color[ffff]}いく。\n制限時間内にゴールに運べなかったら、よりカウントを\n減らしたチームの勝利だ。
+XMatch_Gachiyagura_Manual04_Title	ガチヤグラのコツ
+XMatch_Gachiyagura_Manual05	・ ガチヤグラを守れ！\n    ガチヤグラに乗っているプレイヤーはねらわれやすいぞ。 乗っていない仲間はガチヤグラの\n    前に出て、安全を確保しよう！\n\n・ カンモンでうばい返せ！\n    相手が確保したガチヤグラがカンモンで停止するときは、うばい返すチャンスだ。\n    仲間と息を合わせて攻撃しよう！
+XMatch_Gachiyagura_Manual06	・ 延長戦で逆転をねらえ！\n    時間切れの際、負けているチームがガチヤグラを確保していると延長戦が発生！\n    最後まであきらめなければ延長戦で逆転できるかも？
+XMatch_Gachihoko_Title	ガチホコバトルのルール
+XMatch_Gachihoko_Manual00	ガチホコを持って、相手陣地のゴールまでガチホコを運んだチームが勝利！
+XMatch_Gachihoko_Manual01	１．ガチホコ\n２．ゴール\n３．ガチホコを持てる時間\n４．残りカウント\n５．カンモン
+XMatch_Gachihoko_Manual02	{color[0100]}ガチホコ{color[ffff]}を持って、相手陣地の{color[0100]}ゴール{color[ffff]}へ運んだチームが\n勝利だ！\n\nまずはステージ中央にあるガチホコへ向かおう。\nガチホコはバリアに包まれているので、攻撃してバリアを\n割ってから拾おう。\n\nガチホコを落とすと、バリアが復活する。そのまま放置\nしていると、勝手に中央にもどるぞ。
+XMatch_Gachihoko_Manual03	ガチホコを持っている間は、通常のブキや\nスーパージャンプが使えない。 その代わり、ガチホコから\n強力な{color[0100]}ガチホコショット{color[ffff]}を発射できるぞ！\n\nガチホコは持っていられる時間に制限があり、時間が\n０になったら爆発してしまうから気をつけよう。
+XMatch_Gachihoko_Manual04	ガチホコを持ったら、まずは相手の{color[0100]}カンモン{color[ffff]}へ向かおう。\n\nカンモンを突破したら、次は相手ゴールを目指そう！\n突破したカンモンは素通りできるぞ。\n\nカンモンや相手ゴールに近づくほど、{color[0100]}残りカウント{color[ffff]}は\n{color[0100]}減って{color[ffff]}いく。 制限時間内にゴールに運べなかったら、\nよりカウントを減らしたチームの勝利だ。
+XMatch_Gachihoko_Manual05_Title	ガチホコバトルのコツ
+XMatch_Gachihoko_Manual05	・ ガチホコを運べ！\n    一番大事なのは、ガチホコを前に運ぶことだ！ ガチホコを持ったら積極的に前進しよう。\n    仲間がガチホコを持ったら、前に出てガチホコの進路を切り開こう！\n\n・ 負けていてもあきらめるな！\n    相手がガチホコを持っているときや、味方がガチホコを持っていない状態でカウントが\n    負けているときは、スペシャルゲージが自動でたまっていくぞ！
+XMatch_Gachihoko_Manual06	・ 延長戦で逆転をねらえ！\n    時間切れの際、負けているチームがガチホコを確保しているか、勝っているチームがガチホコを落とすと\n    延長戦が発生！ 最後まであきらめなければ延長戦で逆転できるかも？
+XMatch_Gachiasari_Title	ガチアサリのルール
+XMatch_Gachiasari_Manual00	ガチアサリで相手ゴールのアサリバリアを壊し、アサリを多く投げ入れたチームが勝利！
+XMatch_Gachiasari_Manual01	１．アサリ\n２．ガチアサリ\n３．ゴール\n４．カウント
+XMatch_Gachiasari_Manual02	５．チャンスタイムの残り時間\n６．チーム全体のアサリ総数\n７．自分が持っているアサリの数\n８．アサリを一番多く持っている味方
+XMatch_Gachiasari_Manual03	相手ゴールに{color[0100]}アサリ{color[ffff]}を多く投げ入れたチームが勝利だ！\nただし、相手ゴールは{color[0100]}アサリバリア{color[ffff]}で守られている。\n\nまずは、アサリバリアを壊す準備だ。\nステージに散らばっているアサリを集めよう。
+XMatch_Gachiasari_Manual04	アサリを{color[0100]}８個{color[ffff]}集めると、{color[0100]}ガチアサリ{color[ffff]}に変化するぞ。\nこれで、アサリバリアを壊す準備完了だ！
+XMatch_Gachiasari_Manual05	アサリとガチアサリは{[0300|52b85e3f03000000]}か{[0309|52b85e3f03000000]}で\n投げることができる。\n\n相手ゴールにガチアサリを投げつけて\nアサリバリアを壊したら、\n{color[0100]}チャンスタイム{color[ffff]}の始まりだ！
+XMatch_Gachiasari_Manual06	アサリやガチアサリをどんどん投げ入れよう！\n\nアサリを入れると{color[0100]}３{color[ffff]}、ガチアサリなら{color[0100]}２０{color[ffff]}、{color[0100]}カウント{color[ffff]}を{color[0100]}\n減らせる{color[ffff]}ぞ。 ０になったらノックアウト勝利だ！\n\nさらに、アサリやガチアサリを投げ入れると\n{color[0100]}チャンスタイムの残り時間{color[ffff]}を回復できる。\n残り時間がなくなったらチャンスタイム終了だ。
+XMatch_Gachiasari_Manual07	相手のチャンスタイム中は、相手ゴールを攻撃できない。\n味方ゴールの守りに集中だ！ アサリを持っている\n相手をたおして、早くチャンスタイムを終わらせよう。\n\n相手のチャンスタイムが終わると、味方ゴールの下に\n{color[0100]}反撃用のガチアサリ{color[ffff]}が生まれるぞ！
+XMatch_Gachiasari_Manual08	相手をたおすと、相手が持っていたアサリがいくつか\n落ちる。 落ちたアサリは一定時間で消えるので、\n急いで回収しよう。\n\n相手が落としたガチアサリは拾えない。\n消えるまで、他の相手に拾われるのを防ごう。
+XMatch_Gachiasari_Manual09	味方チームのインク上にあるアサリは、マークが\nつくので見つけやすいぞ。\nナワバリマップにも表示される。\n\nアサリは一定時間ごとにステージのどこかに\n生まれる。 あらかじめナワバリを広げておけば\n相手より先に拾いにいけるぞ！
+XMatch_Gachiasari_Manual10_Title	ガチアサリのコツ
+XMatch_Gachiasari_Manual10	・ ステージをさんぽしよう！\n    ステージをさんぽして、ゴールの場所やゴールに向かうルートを覚えておこう。\n    本番のガチアサリで有利に立ち回れるぞ！\n\n・ ナワバリを広げよう！\n    地面にインクを塗りまくってナワバリを広げておけば、追加で生まれるアサリを\n    見つけやすくなるぞ！
+XMatch_Gachiasari_Manual11	・ 負けていてもあきらめるな！\n    どちらのチームもガチアサリを持っていないときや、両チームともガチアサリを持っているときは、\n    負けているチームのスペシャルゲージが自動でたまっていくぞ！\n\n・ 延長戦で逆転をねらえ！\n    時間切れの際、負けているチームがガチアサリを持っているか、チャンスタイム中なら延長戦が発生！\n    最後まであきらめなければ延長戦で逆転できるかも？
 CommonMsg\MiniGame\MiniGame.msbt
 StarterDeckName	スターターデッキ
 DefaultDeckName	デッキ{[0200|00010000]}
@@ -3639,15 +3918,21 @@ Tamaire	ドロシャケ
 HeroShooter	ヒーローシューター
 ShooterShort00	ボールドマーカー
 ShooterFirst00	わかばシューター
+ShooterFirst01	もみじシューター
 ShooterPrecision00	シャープマーカー
 ShooterBlaze00	プロモデラーMG
+ShooterBlaze01	プロモデラーRG
 ShooterNormal00	スプラシューター
+ShooterNormal01	スプラシューターコラボ
 ShooterGravity00	.52ガロン
 ShooterQuickMiddle00	N-ZAP85
 ShooterExpert00	プライムシューター
+ShooterExpert01	プライムシューターコラボ
 ShooterHeavy00	.96ガロン
 ShooterLong00	ジェットスイーパー
+ShooterQuickLong00	スペースシューター
 BlasterShort00	ノヴァブラスター
+BlasterShort01	ノヴァブラスターネオ
 BlasterMiddle00	ホットブラスター
 BlasterLong00	ロングブラスター
 BlasterLightShort00	クラッシュブラスター
@@ -3657,10 +3942,13 @@ ShooterTripleQuick00	L3リールガン
 ShooterTripleMiddle00	H3リールガン
 ShooterFlash00	ボトルガイザー
 RollerCompact00	カーボンローラー
+RollerCompact01	カーボンローラーデコ
 RollerNormal00	スプラローラー
 RollerHeavy00	ダイナモローラー
 RollerHunter00	ヴァリアブルローラー
+RollerWide00	ワイドローラー
 BrushMini00	パブロ
+BrushMini01	パブロ・ヒュー
 BrushNormal00	ホクサイ
 ChargerQuick00	スクイックリンα
 ChargerNormal00	スプラチャージャー
@@ -3669,17 +3957,21 @@ ChargerLong00	リッター4K
 ChargerLongScope00	4Kスコープ
 ChargerLight00	14式竹筒銃・甲
 ChargerKeeper00	ソイチューバー
+ChargerPencil00	R-PEN/5H
 SlosherStrong00	バケットスロッシャー
+SlosherStrong01	バケットスロッシャーデコ
 SlosherDiffusion00	ヒッセン
 SlosherLauncher00	スクリュースロッシャー
 SlosherBathtub00	オーバーフロッシャー
 SlosherWashtub00	エクスプロッシャー
 SpinnerQuick00	スプラスピナー
+SpinnerQuick01	スプラスピナーコラボ
 SpinnerStandard00	バレルスピナー
 SpinnerHyper00	ハイドラント
 SpinnerDownpour00	クーゲルシュライバー
 SpinnerSerein00	ノーチラス47
 ManeuverShort00	スパッタリー
+ManeuverShort01	スパッタリー・ヒュー
 ManeuverNormal00	スプラマニューバー
 ManeuverGallon00	ケルビン525
 ManeuverDual00	デュアルスイーパー
@@ -5090,6 +5382,7 @@ Tips_101	に゛っに゛っ！({color[0100]}ザッカ屋{color[ffff]}にはも�
 CommonMsg\Notification\NotificationMsg.msbt
 RankUp	ランク{[0200|00020000]}になった！
 UdemaeUp	ウデマエ{[0403|00000000]}になった！
+MaxXPowerUp	Xパワー最高値更新！
 FestRankUp	フェスランクが上がった！
 WonFestSpecialMatch100	１００倍マッチで勝利！
 WonFestSpecialMatch333	３３３倍マッチで勝利！
@@ -5098,34 +5391,40 @@ MiniGameRankUp	ナワバトランクが上がった！
 StartSolo_Regular	レギュラーマッチを開始！
 StartSolo_Bankara	バンカラマッチ{size[4b00]}（チャレンジ）{size[6400]}を開始！
 StartSolo_BankaraOpen	バンカラマッチ{size[4b00]}（オープン）{size[6400]}を開始！
+StartSolo_XMatch	Xマッチを開始！
 StartSolo_Private	プライベートマッチを開始！
 StartSolo_FestRegular	フェスマッチ{size[4b00]}（オープン）{size[6400]}を開始！
 StartSolo_FestChallenge	フェスマッチ{size[4b00]}（チャレンジ）{size[6400]}を開始！
-StartSolo_FestTriColor	トリカラアタックを開始！
+StartSolo_FestTriColor	トリカラマッチを開始！
 StartSolo_Coop	バイトを開始！
+StartSolo_CoopBigRun	ビッグランのバイトを開始！
 CreateRoom_Regular	レギュラーマッチの部屋を作った！
 CreateRoom_BankaraOpen	バンカラマッチ{size[4b00]}（オープン）{size[6400]}の部屋を作った！
 CreateRoom_Private	プライベートマッチの部屋を作った！
 CreateRoom_FestRegular	フェスマッチ{size[4b00]}（オープン）{size[6400]}の部屋を作った！
-CreateRoom_FestTriColor	トリカラアタックの部屋を作った！
+CreateRoom_FestTriColor	トリカラマッチの部屋を作った！
 CreateRoom_Coop	バイトの部屋を作った！
 CreateRoom_CoopPrivate	プライベートバイトの部屋を作った！
+CreateRoom_CoopBigRun	ビッグランの部屋を作った！
 JoinRoom_Regular	レギュラーマッチの部屋に合流した！
 JoinRoom_BankaraOpen	バンカラマッチ{size[4b00]}（オープン）{size[6400]}の部屋に合流した！
 JoinRoom_Private	プライベートマッチの部屋に合流した！
 JoinRoom_FestRegular	フェスマッチ{size[4b00]}（オープン）{size[6400]}の部屋に合流した！
-JoinRoom_FestTriColor	トリカラアタックの部屋に合流した！
+JoinRoom_FestTriColor	トリカラマッチの部屋に合流した！
 JoinRoom_Coop	バイトの部屋に合流した！
 JoinRoom_CoopPrivate	プライベートバイトの部屋に合流した！
+JoinRoom_CoopBigRun	ビッグランの部屋に合流した！
 Recruit_Regular	レギュラーマッチのメンバー募集中！
 Recruit_BankaraOpen	バンカラマッチ{size[4b00]}（オープン）{size[6400]}のメンバー募集中！
 Recruit_Private	プライベートマッチのメンバー募集中！
 Recruit_FestRegular	フェスマッチ{size[4b00]}（オープン）{size[6400]}のメンバー募集中！
-Recruit_FestTriColor	トリカラアタックのメンバー募集中！
+Recruit_FestTriColor	トリカラマッチのメンバー募集中！
 Recruit_Coop	バイト仲間を募集中！
 Recruit_CoopPrivate	プライベートバイトの仲間を募集中！
+Recruit_CoopBigRun	ビッグランのバイト仲間を募集中！
 Btn_RankUp	ランクアップ！
 Btn_UdemaeUp	ウデマエアップ！
+Btn_MaxXPowerUp	Xパワー更新
 Btn_FestRankUp	フェスランクアップ！
 Btn_WonFestSpecialMatch100	１００倍マッチで勝利！
 Btn_WonFestSpecialMatch333	３３３倍マッチで勝利！
@@ -5138,6 +5437,8 @@ StatusRank_MiniGameRank	ナワバトランク
 ParticipantNum	{[0200|00020000]}/{[0200|01020000]}
 IkasuNum	イカす！ ×{[0200|00030000]}
 CoopGrade	{[0201|000e]} {[0200|00030000]}
+XPower	Xパワー：{[0200|00040000]}.{[0200|01010000]}
+XPower_Measuring	Xパワー：---
 CommonMsg\Plaza\PlazaAmiibo.msbt
 Msg_Reading	amiiboを読みこんでいます\nそのまま動かさないでください
 Msg_Writing	amiiboに書きこんでいます\nそのまま動かさないでください
@@ -5162,7 +5463,7 @@ Msg_WiredProCon	「Proコントローラーの有線通信」設定を\nONに切
 Msg_NotWritten	ギアが 登録されていません\nカスタマイズの「その他」で 登録してください
 Girl_WantFollow	あれれ？\nなんかキミって イカしてる？{[0004]}うんうん！ バトルすればするほど\nもっともっと イカしてくると思う！{[0004]}キミのこと、これから\nチェックしていくのが よさそうだね！{[0004]}もし よかったら キミ公認の{color[0100]}サポーター{color[ffff]}に\nなりたいんだけど いい？{[0004]}サポーターにしてくれたら、キミが そうびしてる\n{color[0100]}ギア{color[ffff]}や {color[0100]}カメラオプション{color[ffff]}を覚えてあげられるよ！{[0004]}さらにさらに！ {color[0100]}マイコーデ{color[ffff]}も覚えるよ！{[0004]}覚えたものは {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられるし 便利でしょ？！{[0004]}どう？ サポーターにしてくれる？
 Girl_FollowMeHello	元気？\n調子はどうかな？
-Girl_FollowOtherHello	こんにちは！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来たよ！
+Girl_FollowOtherHello	こんにちは！{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来たよ！
 Girl_NoAppDataHello	ここが バンカラ街！\nにぎやかだなー{[0004]}あっ はじめまして！
 Girl_OtherAppDataHello	ここが バンカラ街！\nにぎやかだなー{[0004]}あっ こんにちは！
 Girl_WhatDo	さてさて\n何か知りたいこと あるかな？
@@ -5177,7 +5478,7 @@ Girl_FarReward	キミのバトルは 全部チェックしてるよ！\n公認�
 Girl_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}でインターネットにつないでから\nまた来てね{[0004]}そしたら いいもの\nあげられるかも！
 Boy_WantFollow	お？ なんかキミ\nけっこう イカしてるね！{[0004]}でも、バトルすればするほど\nもっともっと イカしてきそうだぞ！{[0004]}うーむ、キミのことは 要チェックだな！{[0004]}あのさ、よかったら キミ公認の{color[0100]}サポーター{color[ffff]}に\nなりたいんだけど いいかな？{[0004]}サポーターにしてくれたら、キミが そうびしてる\n{color[0100]}ギア{color[ffff]}や {color[0100]}カメラオプション{color[ffff]}を覚えてあげられるぞ！{[0004]}あと、{color[0100]}マイコーデ{color[ffff]}も覚えるぞ！{[0004]}覚えたものは {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられるし 便利だろ？！{[0004]}どう？ 公認のサポーターにしてくれる？
 Boy_FollowMeHello	よっ！\n今日の調子はどう？
-Boy_FollowOtherHello	よっ！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来たぞ！
+Boy_FollowOtherHello	よっ！{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来たぞ！
 Boy_NoAppDataHello	ここが バンカラ街か！\nすげー！{[0004]}おっと、はじめまして！
 Boy_OtherAppDataHello	ここが バンカラ街か！\nすげー！{[0004]}おっと、こんにちは！
 Boy_WhatDo	さて、なんか\n知りたいことあるか？
@@ -5192,7 +5493,7 @@ Boy_FarReward	キミのバトルは 全部チェックしてるぞ！\n公認サ
 Boy_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}でインターネットにつないだら\nまた来なよ{[0004]}そしたら いいこと\nあるかもな！
 Squid_WantFollow	あらあら？ あんさん、\nなかなか イカしてはりますね～{[0004]}でも もっとバトルされたら\nまだまだ イカしてくる気がしますけどな～{[0004]}ふふ… 目が はなせまへん お人やわ～{[0004]}もし よろしいなら あんさん公認の{color[0100]}サポーター{color[ffff]}\nさせてもらいたいんどすけど ええどすか？{[0004]}サポーターにしてもろたら、そうびしてはる\n{color[0100]}ギア{color[ffff]}や {color[0100]}カメラオプション{color[ffff]}を覚えられますよって{[0004]}あと、{color[0100]}マイコーデ{color[ffff]}も覚えますし{[0004]}覚えたもんは {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられるんどす 便利どすえ～{[0004]}どうえ？\n公認サポーターにしてもらえます？
 Squid_FollowMeHello	まいど おおきに～\n調子 どないどす？
-Squid_FollowOtherHello	どうも～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来ました～
+Squid_FollowOtherHello	どうも～{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来ました～
 Squid_NoAppDataHello	ここが バンカラ街どすか\nええとこやね～{[0004]}あら、お初にお目にかかります～
 Squid_OtherAppDataHello	ここが バンカラ街どすか\nええとこやね～{[0004]}あら、こんにちは～
 Squid_WhatDo	なんぞ 知りたいこと\nあらはります？
@@ -5207,7 +5508,7 @@ Squid_FarReward	あんさんのバトル、いつもチェックしとるよ\n�
 Squid_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}でインターネットにつないでから\nまた おいでや～{[0004]}なんや ええこと\nあるかもしれへんよ～
 OctoGirl_WantFollow	アレ…？ ワタシハ アナタニ\nイカシテルト オモッタ キガイタシマス？{[0004]}ソウデスネ… バトルニ アケクレルノデス\nタクサン イカスアナタニ ナルデショウ？{[0004]}ワタシ、 アナタヲ チェックシマス\nソシタラ ナンカ イイカンジデスネ？{[0004]}コウイウトキハ アナタ公認ノ {color[0100]}サポーター{color[ffff]}ニ\nナルッテ キクンデスヨ？{[0004]}ワタシ サポーターニナルデショ？\nアナタノ ソウビ {color[0100]}ギア{color[ffff]}ヤ {color[0100]}カメラオプション{color[ffff]}ヲ\nオボエルデショ？{[0004]}ソシテ {color[0100]}マイコーデ{color[ffff]}ヲ オボエマス？{[0004]}ワタシ オボエタノ {color[0100]}カスタマイズ{color[ffff]}デ\nアナタ スグキガエル コレ、ベンリ！{[0004]}イイネ！ サポーター シマス！
 OctoGirl_FollowMeHello	ゲンキハ ドウデスカ？\nチョーシモ イイデショウ？
-OctoGirl_FollowOtherHello	ワタシカラ コンニチハ！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}ノ\nトコロカラ アソブノタメニ\nイラッシャイマシタヨ？
+OctoGirl_FollowOtherHello	ワタシカラ コンニチハ！{[0004]}{color[0100]}{d}{color[ffff]}ノ\nトコロカラ アソブノタメニ\nイラッシャイマシタヨ？
 OctoGirl_NoAppDataHello	ココハ バンカラ街デス？\nステキナ トコロト オモイマス{[0004]}アナタ アウノ ハジメマシテ デスネ…
 OctoGirl_OtherAppDataHello	ココハ バンカラ街デス？\nステキナ トコロト オモイマス{[0004]}アナタニ コンニチハ！
 OctoGirl_WhatDo	ソシテ アナタハ\nシリタイデス？
@@ -5222,7 +5523,7 @@ OctoGirl_FarReward	ワタシ アナタノ サポーターダカラ\nアナタノ
 OctoGirl_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}デ インターネットニ ツナイデ\nマタ キテホシイデス{[0004]}ワタシ イイモノ アゲルコト\nデキルカモ？
 OctoBoy_WantFollow	ア… オマエ、 イカシテルカタデスネ？\nタブン ソウデスヨネ、 エエ… キット ソウデス！{[0004]}デモオマエ、 バトルノケイケンヲ\nツンデイケバ タクサンタクサン イカスカタニ\nナルトオモイマス！{[0004]}ダカラ ボクハ… オマエヲ ミテイタイデス…{[0004]}ダカラ ボク、 オマエ公認ノ{color[0100]}サポーター{color[ffff]}ニ\nナリタイ！ ドウデスカ？{[0004]}ア… サポーターニナッタラ、オマエノ ソウビ\n{color[0100]}ギア{color[ffff]}ヤ {color[0100]}カメラオプション{color[ffff]}ヲ オボエルノデキマス{[0004]}ボク、{color[0100]}マイコーデ{color[ffff]}モ オボエルノデス{[0004]}オボエタラ {color[0100]}カスタマイズ{color[ffff]}デ\nキガエルノハヤイカラ ベンリナンデス！{[0004]}ボク… 公認ノ サポーターデ イイデスカ？
 OctoBoy_FollowMeHello	オゲンキデスカ…？\nキョウハ チョーシサイコーニ ナレマスカ？
-OctoBoy_FollowOtherHello	ア、 コンニチハ{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}ノ\nトコロカラ アソビニ キテミマシタ
+OctoBoy_FollowOtherHello	ア、 コンニチハ{[0004]}{color[0100]}{d}{color[ffff]}ノ\nトコロカラ アソビニ キテミマシタ
 OctoBoy_NoAppDataHello	オー、ココガ バンカラ街！\nスバラシイデス！{[0004]}オマエハ…\nハジメマシテ デスヨネ…？
 OctoBoy_OtherAppDataHello	オー、ココガ バンカラ街！\nスバラシイデス！{[0004]}ドウモ、コンニチハ！
 OctoBoy_WhatDo	ア… シリタイコト\nアリマスカ？
@@ -5237,7 +5538,7 @@ OctoBoy_FarReward	ボクハ オマエノ サポーターダカラ\nミテイマ�
 OctoBoy_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}デ インターネットニ ツナグ\nソレカラ マタ アイタイデス{[0004]}ソノトキ ナニカ オクリモノ\nデキルカモ、デキナイカモ
 Octo_WantFollow	ムム… … 、\nナカナカ イカシタヤツダナ{[0004]}ダガ オマエノチカラハ マダマダカクレテイルゾ\nモット バトルヲヤッテミタラドウダ？{[0004]}フム… ノビシロヲ カンジルヤツダ{[0004]}…ソウダナ ワタシガ公認ノ{color[0100]}サポーター{color[ffff]}ニ\nナッテミルトイウノハ ドウダ？{[0004]}サポーターヲシッテイルカ？ ソウビシテイル\n{color[0100]}ギア{color[ffff]}ヤ {color[0100]}カメラオプション{color[ffff]}ヲ ワタシガオボエルゾ{[0004]}サラニハ\n{color[0100]}マイコーデ{color[ffff]}モ オボエルコトガデキル{[0004]}オボエタモノハ {color[0100]}カスタマイズ{color[ffff]}デ\nスグニキガエルコトモ カノウダ\nベンリデハナイカ？{[0004]}サア、 ドウスル？\n公認サポーターニ シテミナイカ？
 Octo_FollowMeHello	… … …\nチョーシハ ドウダ？
-Octo_FollowOtherHello	… … フム{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}ノ\nトコロカラ キテミタノダガ
+Octo_FollowOtherHello	… … フム{[0004]}{color[0100]}{d}{color[ffff]}ノ\nトコロカラ キテミタノダガ
 Octo_NoAppDataHello	ココガ バンカラ街… …\nサワガシイナ{[0004]}… … ミナイ カオダナ
 Octo_OtherAppDataHello	ココガ バンカラ街… …\nサワガシイナ{[0004]}… … …
 Octo_WhatDo	… … ソレデ\nナニヲ シリタイ？
@@ -5252,7 +5553,7 @@ Octo_FarReward	サポータートシテハ オマエニ\nガンバッテモラ�
 Octo_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}デ インターネットニ ツナイダラ\nマタ キテクレ… …{[0004]}ソノトキニハ ナニカ\nワタセルカモナ
 InkYellow_WantFollow	へぇ～\nなかなかの イカしっぷり\nいいねぇ いいねぇ！{[0004]}でも、まだちょっと足りない\nイカしきれてないってカンジだ{[0004]}これから経験をつめば\nあんたは かなりのモノになる！\nホショウするよ{[0004]}あんたが どんだけイカしてくか見ときたいな…\nそうだ！ 公認の{color[0100]}サポーター{color[ffff]}にしてくれねぇか？{[0004]}サポーターにしてくれたら\nそうび中の{color[0100]}ギア{color[ffff]}や{color[0100]}カメラオプション{color[ffff]}を\n覚えてやれるぜ{[0004]}それに、{color[0100]}マイコーデ{color[ffff]}だって覚えてやる{[0004]}そしたら {color[0100]}カスタマイズ{color[ffff]}で パパッと\n着替えられるし、便利だろ？{[0004]}なぁ どうだ？\n公認サポーターにしてくれるか？
 InkYellow_FollowMeHello	よっ こんちは！\n今日も絶好調、だろ？
-InkYellow_FollowOtherHello	よっ こんちは！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nとこから来てやったぞ！
+InkYellow_FollowOtherHello	よっ こんちは！{[0004]}{color[0100]}{d}{color[ffff]}の\nとこから来てやったぞ！
 InkYellow_NoAppDataHello	バンカラ街は\n今日も さわがしいな{[0004]}んっ？ あんた…\nはじめまして、だよな！
 InkYellow_OtherAppDataHello	バンカラ街は\n今日も さわがしいな{[0004]}おっ こんちは！
 InkYellow_WhatDo	さて、なんか\n知りたいことあるか？
@@ -5266,7 +5567,7 @@ InkYellow_FarReward	あんたのバトルは全部チェックしてるよ\nま�
 InkYellow_NoRewardAsOffline	んっ？ インターネットに\nつながってないぞ{[0004]}{color[0100]}ロビー{color[ffff]}でつないだら、また来いよ\nなんか あげられるかもだ
 OctoBlue_WantFollow	おや…？ あなた\nかなり イカしてますね！{[0004]}そして あなたには\nまだ のびしろがあります{[0004]}これから さらに グッとイカしていく…\nまちがいないです、はい！{[0004]}あなたが イカしきわめるサマを\n見ていたい 見とどけたい！\n公認の{color[0100]}サポーター{color[ffff]}として、近くでずっと…{[0004]}サポーターになったら、\nそうび中の{color[0100]}ギア{color[ffff]}や{color[0100]}カメラオプション{color[ffff]}を覚えたり\n{color[0100]}マイコーデ{color[ffff]}を覚えたりできます！{[0004]}覚えたら、{color[0100]}カスタマイズ{color[ffff]}で\n素早く着替えられるように\nお手伝いしますよ！{[0004]}いかがでしょう？！\nあなたの公認サポーターに\nしてくれますか？
 OctoBlue_FollowMeHello	こんにちは！\n調子はどうです？
-OctoBlue_FollowOtherHello	こんにちは！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}さんの\nところから来ました！
+OctoBlue_FollowOtherHello	こんにちは！{[0004]}{color[0100]}{d}{color[ffff]}さんの\nところから来ました！
 OctoBlue_NoAppDataHello	今日もバンカラ街は\nにぎやかですね{[0004]}あ、どうも\nはじめまして！
 OctoBlue_OtherAppDataHello	今日もバンカラ街は\nにぎやかですね{[0004]}あ、どうも\nこんにちは！
 OctoBlue_WhatDo	さて、何か知りたいこと\nありますか？
@@ -5280,7 +5581,7 @@ OctoBlue_FarReward	あなたのバトルは、全部見てますよ\n公認の�
 OctoBlue_NoRewardAsOffline	{color[0100]}ロビー{color[ffff]}でインターネットにつないでから\nまた来てほしいです{[0004]}そのとき 何か\n差し上げられるかも
 Smallfry_WantFollow	{[0102]}コジャケはあなたのことを\n「イカしたやつ」と認めたようだ{[0004]}{[0102]}そして、これから\n「もっとイカしていく」と確信したらしい{[0004]}{[0102]}あなたの成長を見守りたい\nあなた公認の{color[0100]}サポーター{color[ffff]}になりたい\nと、コジャケはアピールしている{[0004]}{[0102]}公認サポーターは、\nそうび中の{color[0100]}ギア{color[ffff]}や{color[0100]}カメラオプション{color[ffff]}、\n{color[0100]}マイコーデ{color[ffff]}を覚えられる{[0004]}{[0102]}覚えてもらえば、{color[0100]}カスタマイズ{color[ffff]}で\n素早く着替えられるらしい\n役に立ってくれそうだ{[0004]}{[0102]}さて、コジャケの\nサポーターになりたいという気持ちに\nあなたはどう答えるか
 Smallfry_FollowMeHello	{[0102]}コジャケはあなたに会えて\nうれしそうだ
-Smallfry_FollowOtherHello	{color[0100]}{[0102]}{[0201|0010]}{color[ffff]}の\nところから来たコジャケは\nのんびりしている
+Smallfry_FollowOtherHello	{color[0100]}{[0102]}{d}{color[ffff]}の\nところから来たコジャケは\nのんびりしている
 Smallfry_NoAppDataHello	{[0102]}コジャケはバンカラ街を\nぼんやりながめている{[0004]}{[0102]}おや、あなたに気づいたようだ\nじっと見つめてきた
 Smallfry_OtherAppDataHello	{[0102]}コジャケはバンカラ街を\nぼんやりながめている{[0004]}{[0102]}おや、あなたに気づいたようだ\nしかし、あなたを見るその目からは\nなんの感情も読み取れない
 Smallfry_WhatDo	{[0102]}さて、知りたいことがあれば\n選ぶといい
@@ -5294,7 +5595,7 @@ Smallfry_FarReward	{[0102]}コジャケは、あなたのバトルを\n全部チ
 Smallfry_NoRewardAsOffline	{[0102]}インターネットにつながっていないためか、\nコジャケはソワソワしている{[0004]}{[0102]}{color[0100]}ロビー{color[ffff]}でつないでから、また来てあげてほしい
 Aori_WantFollow	あれ？ なんかキミって\nスッゴイ イカしてる？！{[0004]}うんうん！ アタシの目に くるいはない！\nたくさんバトルしたら もっと イカしてくと思うよ！{[0004]}ハイ！ キミはアタシの\n要チェックリストに 入れとくね！{[0004]}そうそう！ ちゃんとチェックしなくちゃ\nいけないし、キミ公認の{color[0100]}サポーター{color[ffff]}に\nなったほうがいいんだけど オッケー？{[0004]}サポーターにしてくれたら、ナント！ そうびしてる\n{color[0100]}ギア{color[ffff]}や {color[0100]}カメラオプション{color[ffff]}を覚えてあげられるよ！{[0004]}あと {color[0100]}マイコーデ{color[ffff]}も覚えるし！{[0004]}覚えたものは {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられる！ カクメイテキ！{[0004]}どう？ 公認サポーターにしてくれる？
 Aori_FollowMeHello	ヤッホー！\n今日の調子はどう？
-Aori_FollowOtherHello	ヤッホー！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来たよ！
+Aori_FollowOtherHello	ヤッホー！{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来たよ！
 Aori_NoAppDataHello	バンカラ街は いつも にぎやかだなー！{[0004]}あっ、はじめまして！\nシオカラーズのアオリだよ！
 Aori_OtherAppDataHello	バンカラ街は いつも にぎやかだなー！{[0004]}あっ、こんにちはー！\nシオカラーズのアオリだよ！
 Aori_WhatDo	よーし！ なんでも\n教えちゃうよー！
@@ -5309,7 +5610,7 @@ Aori_FarReward	キミのバトルは、いつも チェックしてるよ！\n�
 Aori_NoRewardAsOffline	あれれ？ インターネットに\nつながってないのかなー？{[0004]}{color[0100]}ロビー{color[ffff]}でつないでから また来てね\nいいこと あるかもよー！
 Hotaru_WantFollow	…ん？ なんか\nイカしたオーラ出とるね{[0004]}どんどん バトルしてったら\nもっと よくなりそじゃね？{[0004]}キミの動向 ちゃんとチェックしたいから\nキミ公認の{color[0100]}サポーター{color[ffff]}になっちゃお～かな～{[0004]}サポーターにしてくれたら、そうびしてる{color[0100]}ギア{color[ffff]}や\n{color[0100]}カメラオプション{color[ffff]}を覚えてあげられるし{[0004]}{color[0100]}マイコーデ{color[ffff]}も 覚えるし{[0004]}そうすりゃ {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられるんよ、便利っしょ？{[0004]}公認サポーター、どかな？
 Hotaru_FollowMeHello	ども～ 調子どう？
-Hotaru_FollowOtherHello	どうも～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来たよ
+Hotaru_FollowOtherHello	どうも～{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来たよ
 Hotaru_NoAppDataHello	バンカラ街は元気やね～{[0004]}こんちゃ～\nシオカラーズの ホタルで～す
 Hotaru_OtherAppDataHello	バンカラ街は元気やね～{[0004]}どもども～\nシオカラーズの ホタルで～す
 Hotaru_WhatDo	そんで、なんか\n知りたいことある？
@@ -5324,7 +5625,7 @@ Hotaru_FarReward	バトル がんばってる～？\nイイとこ 見せてね�
 Hotaru_NoRewardAsOffline	…ん？ インターネットに\nつながっとらんね{[0004]}いいモノ あげられるかもしれんし\n{color[0100]}ロビー{color[ffff]}でつないでから また来てね～
 Pearl_WantFollow	…ん？ なんか\nイカしたオーラ出てんな！{[0004]}どんどん バトルしてったら\nもっと イカしたかんじに なりそーじゃね？{[0004]}ヨシッ！ がっつりチェックすることに決めた！\nそんじゃー 公認{color[0100]}サポーター{color[ffff]}になってみっかな！{[0004]}サポーターにしてくれたら、そうびしてる{color[0100]}ギア{color[ffff]}や\n{color[0100]}カメラオプション{color[ffff]}を覚えてあげられっしさ！{[0004]}あと、{color[0100]}マイコーデ{color[ffff]}も覚えられるんだ！{[0004]}そーすりゃ {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられんだぜ！ 便利だろ？{[0004]}公認サポーター、どーよ？
 Pearl_FollowMeHello	Ｙｏ！\n調子はどうだ？
-Pearl_FollowOtherHello	オッス！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}の\nところから遊びに来たよ！
+Pearl_FollowOtherHello	オッス！{[0004]}{color[0100]}{d}{color[ffff]}の\nところから遊びに来たよ！
 Pearl_NoAppDataHello	うおお！ ここが バンカラ街！\nマジ ワイルドじゃん！{[0004]}…っと、Yo！Yo！Yo！\nテンタクルズの ヒメだよ！
 Pearl_OtherAppDataHello	うおお！ ここが バンカラ街！\nマジ ワイルドじゃん！{[0004]}…っと、オッス！\nテンタクルズの ヒメだよ！
 Pearl_WhatDo	オシ！ なんか\n知りたいことあるか？
@@ -5339,7 +5640,7 @@ Pearl_FarReward	アタシが おうえんしてるぞ！\n今日もバトル、�
 Pearl_NoRewardAsOffline	おっと インターネットに\nつながってねーのか{[0004]}{color[0100]}ロビー{color[ffff]}でつないだら また来いよ！\nそしたら いいモノ あげられるかも！
 Marina_WantFollow	…あれ？ なんだか\nイカしたオーラ出てますね～{[0004]}どんどん バトルしていったら\nも～っと よくなりそうじゃないですか？ ウンウン{[0004]}アナタの動向 ちゃんとチェックしてみたいので\n公認{color[0100]}サポーター{color[ffff]}になるってどうですか？{[0004]}サポーターにしてくれたら、 そうびしてる{color[0100]}ギア{color[ffff]}や\n{color[0100]}カメラオプション{color[ffff]}を覚えてあげられますし、{[0004]}あ、あと {color[0100]}マイコーデ{color[ffff]}も覚えますし～{[0004]}そうすれば {color[0100]}カスタマイズ{color[ffff]}で\nすぐに着替えられて とっても便利ですよ♪{[0004]}公認サポーター、どうでしょう？
 Marina_FollowMeHello	こんにちは～\n今日の調子はどうですか？
-Marina_FollowOtherHello	こんにちは～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}さんの\nところから遊びに来ました～
+Marina_FollowOtherHello	こんにちは～{[0004]}{color[0100]}{d}{color[ffff]}さんの\nところから遊びに来ました～
 Marina_NoAppDataHello	バンカラ街は ステキな街ですね～♪{[0004]}あっ、こんにちは～\nテンタクルズの イイダです！
 Marina_OtherAppDataHello	バンカラ街は ステキな街ですね～♪{[0004]}どうも～ ワタシ、\nテンタクルズの イイダです！
 Marina_WhatDo	さてさて、なんでも教えちゃいますよ～
@@ -5426,6 +5727,23 @@ GoodBye	ありがとナ\nまた ヨロシクたのむぜ\n待ってるからさ
 CommonMsg\Plaza\PlazaWalkThrough.msbt
 FirstExplain	あら、いらっしゃい！{[0004]}アナタ、はじめてのご利用だね？\nあらあら、うれしいわぁ！{[0004]}ここは さんぽの案内所だよ！\n好きなステージを 好きなルールで 思うぞんぶん\nさんぽできるの！ いいでしょ？！{[0004]}それじゃ、気をつけて\n行ってらっしゃい！{[0004]}あらやだ ちょっと待って！\n帰りたくなったら「{[0305|0000803f00000000]}ポーズ」するんだよ\n覚えといてねぇ
 Select	さんぽしてくかい？
+CommonMsg\Sound\ArtistName.msbt
+010	すりみ連合
+011	C-Side
+012	Front Roe
+013	ビジー・バケーション feat. テンタクルズ
+CommonMsg\Sound\MusicName.msbt
+Versus_Thunder_01	Clickbait
+Versus_Thunder_02	Splattack!
+Versus_Thunder_03	Headhammer
+Versus_Thunder_04	Paintscraper
+Versus_Thunder_05	Triple Dip
+Versus_Thunder_06	Sea Me Now
+Versus_Thunder_07	Sandy Side Up
+Versus_Thunder_08	ゼンゲン・テッカイ
+Versus_Thunder_09	サイタン・ケーロ
+Versus_Fes_Thunder_01	衝天プチョフィンザ
+Versus_Fes_Thunder_02	張拳ゴーアヘッド
 CommonMsg\SystemWindow\SystemMsg_CloudSave.msbt
 Msg_Resume	インターネット対戦などで遊ぶ前に\n必要な初回設定を行います
 Msg_DoTransfer	セーブデータを引き継ぎました\n引き継ぎ特典の {[031d|f6285c3f00000000]}ゴールドブキチライセンスは、\nロビーで{color[0100]}最初のバトルを終えたあと{color[ffff]}に受け取れます
@@ -5472,21 +5790,30 @@ BtnR_StartSoloConfirm_Regular	参加する！
 Msg_StartSoloConfirm_BankaraOpen	バンカラマッチに参加しますか？\n（８人そろったらバトルが始まります）
 BtnL_StartSoloConfirm_BankaraOpen	やめとく
 BtnR_StartSoloConfirm_BankaraOpen	参加する！
+Msg_StartSoloConfirm_XMatch	Xマッチに挑戦しますか？\n（８人そろったらバトルが始まります）
+BtnL_StartSoloConfirm_XMatch	やめとく
+BtnR_StartSoloConfirm_XMatch	挑戦する！
 Msg_StartSoloConfirm_FestRegular	フェスマッチに参加しますか？\n（８人そろったらバトルが始まります）
 BtnL_StartSoloConfirm_FestRegular	やめとく
 BtnR_StartSoloConfirm_FestRegular	参加する！
 Msg_StartSoloConfirm_FestChallenge	フェスマッチに参加しますか？\n（８人そろったらバトルが始まります）
 BtnL_StartSoloConfirm_FestChallenge	やめとく
 BtnR_StartSoloConfirm_FestChallenge	参加する！
-Msg_StartSoloConfirm_FestTriColor	トリカラアタックに参加しますか？\n（８人そろったらバトルが始まります）
+Msg_StartSoloConfirm_FestTriColor	トリカラマッチに参加しますか？\n（８人そろったらバトルが始まります）
 BtnL_StartSoloConfirm_FestTriColor	やめとく
 BtnR_StartSoloConfirm_FestTriColor	参加する！
 Msg_StartSoloContinueConfirm_Bankara	前回中断したところから 挑戦を再開します\n（現在 {[0200|00010000]}勝 {[0200|01010000]}敗）
 BtnL_StartSoloContinueConfirm_Bankara	やめとく
 BtnR_StartSoloContinueConfirm_Bankara	再開する！
+Msg_StartSoloContinueConfirm_XMatch	前回中断したところから 挑戦を再開します\n（現在 {[0200|00010000]}勝 {[0200|01010000]}敗）
+BtnL_StartSoloContinueConfirm_XMatch	やめとく
+BtnR_StartSoloContinueConfirm_XMatch	再開する！
 Msg_StartSoloConfirm_Coop	バイトに参加しますか？
 BtnL_StartSoloConfirm_Coop	やめとく
 BtnR_StartSoloConfirm_Coop	参加する！
+Msg_StartSoloConfirm_CoopBigRun	ビッグランのバイトに参加しますか？
+BtnL_StartSoloConfirm_CoopBigRun	やめとく
+BtnR_StartSoloConfirm_CoopBigRun	参加する！
 Msg_QuitConfirm	部屋から抜けますか？
 BtnL_QuitConfirm	やめとく
 BtnR_QuitConfirm	抜ける
@@ -5545,6 +5872,31 @@ BtnL_ReservedReplayDownloadConfirm	やめとく
 BtnR_ReservedReplayDownloadConfirm	ダウンロードする！
 Msg_RecruitNotification	フレンドのロビーに\nメンバー募集の通知を送りました
 Msg_RecruitFullMember	満員のため、メンバーを募集できません
+Msg_DescribeXRankingRegion	Xマッチは、{color[0100]}グループ・ヤコ{color[ffff]}と{color[0100]}グループ・アロメ{color[ffff]}に分かれて\n同じグループ内のプレイヤー同士で対戦します\n上位プレイヤーのランキングも、グループ別に発表されます\n\nお住まいの地域に合わせて\n今シーズン参加するグループを決めてください
+Msg_ConfirmXRankingRegion	このグループでよろしいですか？\n一度決定すると、次のシーズンまで変更できません。\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}
+BtnL_ConfirmXRankingRegion	変更する
+BtnR_ConfirmXRankingRegion	OK!
+Msg_SelectXRankingRegion	どちらのグループに参加しますか？\n\n{color[0100]}{size[9600]}グループ・ヤコ{size[6400]}{color[ffff]}\n{size[4b00]}（日本/香港/韓国/オーストラリア/ニュージーランド）{size[6400]}\n\n{size[9600]}{color[0100]}グループ・アロメ{color[ffff]}{size[6400]}\n{size[4b00]}（アメリカ大陸/ヨーロッパ）{size[6400]}
+BtnL_SelectXRankingRegion	グループ・ヤコ
+BtnR_SelectXRankingRegion	グループ・アロメ
+Msg_NoticeXRankingRegion	このグループでよろしいですか？\n一度決定すると、次のシーズンまで変更できません。\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}\n\n※お住まいの地域と異なるグループを選んだ場合、\n通信が遅延したり、マッチメイクしづらくなったりして\n快適に遊べないことがあります
+BtnL_NoticeXRankingRegion	選び直す
+BtnR_NoticeXRankingRegion	OK!
+Msg_FirstPlayerNameAlias	別名を設定すると いつもとちがう名前で\nプライベートマッチに参加できます
+Msg_ConfirmPlayerNameAlias	{color[0100]}{d}{color[ffff]}\n\nこの名前で プライベートマッチに参加しても\nよろしいですか？
+BtnL_ConfirmPlayerNameAlias	やめとく
+BtnR_ConfirmPlayerNameAlias	OK!
+Msg_UdemaeReset_Already	ウデマエは １シーズンに１回だけ リセットできます\n今シーズンは リセットできません
+Msg_UdemaeReset_Confirm1	ウデマエを {[0403|00000000]} に リセットしますか？\n（１シーズンに１回だけ リセットできます）
+BtnL_UdemaeReset_Confirm1	やめとく
+BtnR_UdemaeReset_Confirm1	リセットする
+Msg_UdemaeReset_Confirm2	本当に ウデマエを リセットしますか？
+BtnL_UdemaeReset_Confirm2	やめとく
+BtnR_UdemaeReset_Confirm2	OK!
+Msg_UdemaeReset_Processing	しばらくお待ちください…
+Msg_UdemaeReset_Done	ウデマエを {[0403|00000000]} に リセットしました
+Msg_CoopPrivate_ScenarioApplied	親がバイトの設定を変更しました
+Msg_CoopPrivate_InvalidScenario	このバイトシナリオはデータに問題があるため\n遊ぶことができません
 CommonMsg\SystemWindow\SystemMsg_MainMenu.msbt
 Msg_PlayerMakeConfirm	プレイヤーとコジャケのスタイルを変更しますか？\n（おカネ、ブキ、ギアなどのデータは受け継がれます）
 BtnL_PlayerMakeConfirm	やめとく
@@ -5558,6 +5910,7 @@ Msg_PhotoAlbumUploadFailure	イカリング３への送信に失敗しました
 CommonMsg\SystemWindow\SystemMsg_Versus.msbt
 Msg_NoContest	バトル開始直後に 一部のプレイヤーの通信が切断されたため、\n無効試合になりました\n（通信を切断したプレイヤーは バトルに負けたことになります）
 Msg_NoContest_Private	{color[0100]}{[0400|00000000]}{color[ffff]}がバトルを終了させました
+Msg_SpectatorCannotPhoto	観戦中は撮影できません
 CommonMsg\Talk\TalkCoop.msbt
 Coop_InGame_AppearTarget	{color[0100]}オオモノシャケ{color[ffff]}が 現れたようだね\nあわてることはないよ… だが、急いで見つけるんだ
 Coop_InGame_AppearBank	イクラコンテナを セットしておくからね…\nキミたちのがんばりに 期待しているよ
@@ -5714,6 +6067,13 @@ Coop_Result_C2_Failure_Missile_00	ドスコイの群れには キャノンを利
 Coop_Result_C2_Failure_Tamaire_00	ドロシャケを倒すときは 仲間といっしょに向かうといい\nボムは インクを多く消費するからね…
 Coop_Result_C2_Failure_Relay_00	金イクラをたくさん運ぶには 仲間との協力が大切だ\n運ぶ、パスする、納品する… うまく役割分担してくれたまえ
 Coop_Result_C2_Failure_Boss_00	それはさておき… 今回も たくさんの金イクラを集めてくれたね\nキミたちの さらなるちょうせんを 楽しみにしているよ
+Coop_InGame_AppearBank_BigRun	イクラコンテナをセットしておくよ…\n街を守るために がんばってくれたまえ
+Coop_InGame_AppearTarget_BigRun	あんなところから シャケが…\nあわてず 無理せず 立ち向かうんだ
+Coop_InGame_DisappearBank_BigRun	シャケが引き返していった… その調子だよ\nイクラコンテナは こちらで回収しておくからね
+Coop_InGame_DisappearBank_Final_BigRun	おつかれさま、よくがんばってくれたね\nおかげでシャケを 食い止めることができたよ
+Coop_Result_C1_Success_00_BigRun	街を守ってくれてありがとう、助かったよ\nついでに 金イクラも{[0200|00010000]}コ 集まったしね…
+Coop_Result_C1_Failure_AllDead_00_BigRun	ゼンメツしてしまったようだね… いや、気にすることはない\nこの金イクラ{[0200|00010000]}コは きっとみんなの役に立つさ
+Coop_Result_C1_Failure_TimeUp_00_BigRun	時間切れだ… しかし よくシャケを食い止めてくれた\n金イクラも{[0200|00010000]}コ集まったことだし、心配はいらないよ
 CommonMsg\Talk\TalkShop.msbt
 Weapon_Welcome_00	いらっしゃいやし～！\nバトルでイカせるブキを 見ていくでし！
 Weapon_WelcomeS	いらっしゃいやし～！
@@ -5841,15 +6201,21 @@ Goods_ThanksBadgeA_00	あ、そーだ{[0004]}キミ ウチの店で\nいっぱ�
 Goods_ThanksBadgeB_00	あ、そーだ{[0004]}キミ ウチの店で\nすっごいいっぱい買ってくれたね！\nおかげで お店やっていけるよ～\nまさに救世主だよ キミは！{[0004]}それでですね、あなた様に\n心からの カンシャをこめた\n特上の{color[0100]}バッジ{color[ffff]}を 差し上げます！！\n使っていただけたら幸いです！ {[0004]}って、テンチョーがいってた
 CommonMsg\Talk\TalkShopWeaponExp.msbt
 Shooter_Short_00	メインウェポンの {color[0100]}ボールドマーカー{color[ffff]}は\n射出口のパイを大きくすることで 飛距離を\nぎせいにし、近接戦に 特化したものでし{[0004]}インファイトなら こわいものなし！\nさらに、離れた相手のふところに {color[0100]}カーリングボム{color[ffff]}で\n飛びこむ 技ありな一面も かね備えるでし！{[0004]}{color[0100]}ウルトラハンコ{color[ffff]}での正面突破も 強力でしから\n仲間の進路を 切り開くのが得意な\n使い手に かわいがって欲しいでし
+Shooter_First_01	メインの {color[0100]}もみじシューター{color[ffff]}は わかばシューターと\n同じ性能でしが、バトルの立ち回りかたに\nちがう味付けをした モデルでし！{[0004]}サブは{color[0100]}トーピード{color[ffff]}、スペシャルは{color[0100]}ホップソナー{color[ffff]}と、\n相手の位置を探ることに特化した構成で\n味方に有利な戦場を 作り出せるでし！{[0004]}塗りと探知力で 仲間をサポートしながら戦う、\nチーム力を重視する 使い手に \nかわいがって欲しいでし！
 Shooter_Precision_00	メインウェポンの {color[0100]}シャープマーカー{color[ffff]}は、職人さんの\n手作業による チリ合わせと バラスト調整で\nとっても高い精度を得た シューターでし！{[0004]}弾のバラつきを おさえた結果\n攻撃力は少し ひかえめでしが、\n連射の速さで補っているから 問題ないでし！{[0004]}サブの{color[0100]}クイックボム{color[ffff]}も 組み合わせつつ\n相手の足場を ガッチリ塗り固めたら、あとは\n圧倒的な精度の連射で ハチの巣にしてやるでし！{[0004]}スペシャルは{color[0100]}カニタンク{color[ffff]}で 制圧力の高さは\n折り紙つきでしから、相手に好き勝手させたくない\nワガママな使い手に かわいがって欲しいでし！
 Shooter_Blaze_00	メインウェポンの {color[0100]}プロモデラーMG{color[ffff]}は\n飛距離と精度は それなりでしが、\n連射速度は すさまじく速いでし！{[0004]}サブの {color[0100]}タンサンボム{color[ffff]}を使えば\n移動もラクチンで、塗り性能はカンペキ！\n手早くナワバリを確保して 仲間をサポートでし！{[0004]}一見 塗りばかりで大人しそうなブキでしが、\n{color[0100]}サメライド{color[ffff]}の突撃で 不意打ちをしかける\n勇ましい面も 持ち合わせているでし！{[0004]}塗りで前線を押し上げながら、ここぞという場面で\n前に出る、メリハリのある戦いを好む使い手に\nかわいがって欲しいでし！
+Shooter_Blaze_01	メインウェポンの {color[0100]}プロモデラーRG{color[ffff]}は、\nプロモデラーMGを メッキしたものなので\n性能としては 同じでし！{[0004]}メインの すさまじい連射性能に\nサブの{color[0100]}スプリンクラー{color[ffff]}を組み合わせた結果、\nとんでもない塗り性能になったでし！{[0004]}相手が守っている要所にも{color[0100]}ナイスダマ{color[ffff]}で\n切りこめるので、前を塗る意識の高い使い手に\nかわいがって欲しいでし！
 Shooter_Normal_00	メインウェポンの {color[0100]}スプラシューター{color[ffff]}は、\nあつかいやすさと高いポテンシャルで\n大好評の、定番ブキの最新モデルでし！{[0004]}バランスの良いメインと {color[0100]}キューバンボム{color[ffff]}の\n組み合わせは 安定感バツグンで、\nどんな状況にも対応できるでし！{[0004]}さらに スペシャルの{color[0100]}ウルトラショット{color[ffff]}で\n相手のナワバリを突破したり 要所を守ったりも\nできるので、カツヤクの幅は無限大でし！{[0004]}バトルの基本が学べる このブキを\nかわいがれるようになったら\nキミも 一人前でし！
+Shooter_Normal_01	メインウェポンの {color[0100]}スプラシューターコラボ{color[ffff]}は\nギアブランドの アロメと\nスプラシューターが コラボしたモデルでし！{[0004]}性能は同じでしが、サブの{color[0100]}スプラッシュボム{color[ffff]}と\nスペシャルの{color[0100]}トリプルトルネード{color[ffff]}で、遠くにいる\n相手にも 攻撃しやすくなったでし！{[0004]}自分の手で前線を上げて、チームの士気も\n上げるでし！ 盛り上げ上手な使い手に\nぜひ かわいがって欲しいでし！\n
 Shooter_Gravity_00	メインウェポンの {color[0100]}.52ガロン{color[ffff]}は、\n一度に大量のインクを 撃てるように\n大きなノズル径をそなえた シューターでし{[0004]}なので、一発一発の攻撃力は高いでしが\n連射がおそいので、{color[0100]}スプラッシュシールド{color[ffff]}で\n守りを固めて戦うことが 大事になるでし！{[0004]}なかなか近づかせてくれない相手は\n{color[0100]}メガホンレーザー5.1ch{color[ffff]}で ロックオン！\nレーザーで追いつめたところを 仕留めるでし！{[0004]}守りの姿勢を 大切にしつつも\n時には ダイタンな一撃を お見舞いしたい\n使い手に かわいがって欲しいでし！
 Shooter_QuickMiddle_00	メインウェポンの {color[0100]}N-ZAP85{color[ffff]}は\n混合気比率を 極限まで高めたインクを撃つ、\n連射に優れた シューターでし！{[0004]}攻撃力は低めでも 連射と塗り性能はバツグン！\nその特性をイカし、細かく塗りながら\nじわりじわりと 相手を追いこむでし！{[0004]}追いこんだ相手を {color[0100]}キューバンボム{color[ffff]}で あぶり出し、\n仲間を {color[0100]}エナジースタンド{color[ffff]}で元気づけて\n一気に攻めこむ！{[0004]}これぞ 塗りとチームワークのコラボレーション！\nチームで堅実に勝ちを目指したい人に\nかわいがって欲しいでし！
 Shooter_Expert_00	メインウェポンの {color[0100]}プライムシューター{color[ffff]}は\nスプラシューターの開発者が\n上級者用に開発した モデルでし！{[0004]}サブの{color[0100]}ラインマーカー{color[ffff]}で 相手の位置を探りながら\n動きを制限し、持ち前の精度と飛距離で\n片っぱしから 仕留めていくでし！{[0004]}連射やインク効率は イマイチでしが、\nそこは スペシャルの{color[0100]}カニタンク{color[ffff]}を組み合わせた\nスキのない立ち回りで カバーでし！{[0004]}あつかいは難しいでしが、さらなる高みを\n目指したい使い手に ピッタリの一品でしから\nぜひぜひ かわいがって欲しいでし！
+Shooter_Expert_01	メインの {color[0100]}プライムシューターコラボ{color[ffff]}は、\nギアブランドの フォーリマが\nプライムシューターと コラボしたものでし！{[0004]}中身は プライムシューターと同じでしが、\nサブの{color[0100]}キューバンボム{color[ffff]}で 相手をあぶり出して\nねらい撃ちできるようになったでし！{[0004]}スペシャルの{color[0100]}ナイスダマ{color[ffff]}は、相手が集まった\nところに投げるとお得でし！ 逃れた相手は\nメインの長射程ショットで仕留めるでし！{[0004]}テクニックを みがかないと\nかわいがるのが難しいブキでしから、\n心して 使って欲しいでし！
 Shooter_Heavy_00	メインウェポンの {color[0100]}.96ガロン{color[ffff]}は、大型タンクと\n長めのバレルを取りつけた、高い攻撃力\nかつ 長距離射程を ほこるシューターでし！{[0004]}その分 連射性能は心もとないでしから、\nサブの{color[0100]}スプリンクラー{color[ffff]}で ナワバリを確保しつつ\n一発一発 確実に当てていくでし！{[0004]}仲間のピンチは {color[0100]}キューインキ{color[ffff]}でサポート！\nチームメンバーと 力を合わせて戦う\n戦術派な人に かわいがって欲しいでし！
 Shooter_Long_00	メインウェポンの {color[0100]}ジェットスイーパー{color[ffff]}は\nポンプ圧をブーストして、チャージャーにせまる\n飛距離を得た シューターでし！{[0004]}メインの攻撃力は 少しひかえめでしが、\nサブの{color[0100]}ラインマーカー{color[ffff]}で 相手の位置を探れば\n飛距離をイカして 一方的に攻撃できるでし！{[0004]}{color[0100]}キューインキ{color[ffff]}があれば 飛んできたボムもこわくない！\n遠距離から たくみに相手を追いこむ\nクールな使い手に かわいがって欲しいでし！
+Shooter_QuickLong_00	メインウェポンの{color[0100]}スペースシューター{color[ffff]}は\n射程と連射力の両立を目指して\n開発されたシューターでし！{[0004]}塗り能力が高い反面、攻撃力は低いでしから、\n長射程をイカして 前線の仲間をサポートする\n戦い方がオススメでし{color[0100]}{[0004]}ポイントセンサー{color[ffff]}で相手の位置を仲間に伝え、\n仲間が倒しきれなかった相手は\n{color[0100]}メガホンレーザー5.1ch{color[ffff]}でトドメでし！{[0004]}遠くから塗って前線の仲間を後押ししつつ\nここぞの一撃をお見舞い！ 美味しいとこ取りが\n好きな使い手に かわいがって欲しいでし！
 Blaster_Short_00	メインの {color[0100]}ノヴァブラスター{color[ffff]}は そのかわいい\n見た目とは裏腹に、短時間で爆発する\nインクを内蔵した 近距離用ブラスターでし{[0004]}連射はできるでしが イカんせん射程が短いので、\nサブの {color[0100]}スプラッシュボム{color[ffff]}で 相手を動かして\nうまく爆発に巻きこんでやるでし{[0004]}遠くから撃ってくる相手には、スペシャルの\n{color[0100]}ショクワンダー{color[ffff]}で後ろに回りこんで ドカン！\nと クールにキメるでし{[0004]}戦場の地形と 相手の動きを読み切る\nクレバーな使い手に かわいがって欲しいでし！
+Blaster_Short_01	メインの {color[0100]}ノヴァブラスターネオ{color[ffff]}は、\n形状はそのままに 表面をマットに仕上げた\nノヴァブラスターのマイナーチェンジモデルでし{[0004]}ニガテな遠距離の相手を サブの{color[0100]}タンサンボム{color[ffff]}で\nけん制しつつ、こっそり近づいて メインの爆発を\nくらわせてやるでし！{[0004]}うまく近づけないときは、{color[0100]}ウルトラハンコ{color[ffff]}で\n強行突破！ 相手をペシャンコにしてやるでし！{[0004]}かわいい見た目に反して 攻撃的な\nブキでしから、ギャップが好きな使い手に\nかわいがって欲しいでし！
 Blaster_Middle_00	メインウェポンの {color[0100]}ホットブラスター{color[ffff]}は、\n空気にふれると 爆発するインクを発射する\n{color[0100]}ブラスター{color[ffff]}と呼ばれるブキの ひとつでし{[0004]}連射も飛距離も イマイチでしが、\n直撃すれば特大ダメージ！ カベの裏に\nかくれている相手にも 爆風で攻撃できるでし！{[0004]}なかなか出てこない相手には {color[0100]}ロボットボム{color[ffff]}を\nプレゼントして、出てきたところを ドカン！\nと ねらい撃ちするのが美しいでしね～{[0004]}接近されても {color[0100]}グレートバリア{color[ffff]}があれば問題なし！\n相手の動きを コントロールして戦う使い手に\nかわいがって欲しいでし！
 Blaster_Long_00	メインウェポンの {color[0100]}ロングブラスター{color[ffff]}は、\nインクの酸化を おくらせることで\n爆発までの距離を長くした ブラスターでし！{[0004]}特殊な構造のために 連射速度が少し\n下がったでしが、{color[0100]}キューバンボム{color[ffff]}で あぶり出した\n相手を 持ち前の長射程で仕留めるでし！{[0004]}スペシャルの {color[0100]}ホップソナー{color[ffff]}で\n相手の位置を ハアクすれば、\nカベの後ろにかくれた相手も ねらい放題！{[0004]}離れた場所から ジリジリと追いつめたい\nハンターな使い手に かわいがって欲しいでし！
 Blaster_LightShort_00	メインの {color[0100]}クラッシュブラスター{color[ffff]}は\n連射性能を追求した ブラスターでし！\n速い連射と爆発で 相手を近寄らせないでし！{[0004]}連射力を上げた分 攻撃力は低いので、\nサブの {color[0100]}スプラッシュボム{color[ffff]}で\n相手の逃げ場を無くして 追いこむでし！{[0004]}それでも逃げる相手には {color[0100]}ウルトラショット{color[ffff]}を\nたたきこんでやるでし！ ガンガン攻めて 前線を\nかき回したい人に かわいがって欲しいでし！
@@ -5859,10 +6225,13 @@ Shooter_TripleQuick_00	メインウェポンの {color[0100]}L3リールガン{c
 Shooter_TripleMiddle_00	メインウェポンの {color[0100]}H3リールガン{color[ffff]}は、\nL3リールガンより 攻撃力が高い\n３点バーストタイプの シューターでし！{[0004]}連射力は少し ひかえめでしが、\n{color[0100]}ポイントセンサー{color[ffff]}で 相手の位置を見つけだして\n一気に相手を しずめれば問題ないでし！{[0004]}相手の探知だけでなく {color[0100]}エナジースタンド{color[ffff]}でも\nチームをサポートできるので、仲間と共に\nカツヤクしたい人に かわいがって欲しいでし！
 Shooter_Flash_00	メインウェポンの {color[0100]}ボトルガイザー{color[ffff]}は、\n１トリガーで 強力な弾を１発だけ発射する\n特殊な機構の シューターでし！{[0004]}{[030c|0000803f00000000]}を押しっぱなしにすると {color[0100]}性能が変化{color[ffff]}して、\n自分の周りを 素早く塗り固められる\n連射力と機動力の高いブキになるでし！{[0004]}攻撃力と射程に優れた {[030c|0000803f00000000]}連打と\n塗りに強い {[030c|0000803f00000000]}押しっぱなしを\nうまく使い分けて欲しいでし！{[0004]}{color[0100]}スプラッシュシールド{color[ffff]}で 守りを固めつつ、\n{color[0100]}ウルトラショット{color[ffff]}で 遠くの相手にもアプローチ！{[0004]}状況に応じた カレイな立ち回りで目立ちたい\nパーティーピーポーな使い手に\nかわいがって欲しいでし！
 Roller_Compact_00	メインウェポンの {color[0100]}カーボンローラー{color[ffff]}は、\n軽くて強い CFRP素材を多用して\n振りやすさと軽さを実現した ローラーでし！{[0004]}一度に飛ばせる インク量が少ないので、\n{color[0100]}ロボットボム{color[ffff]}で 相手の位置を見つけてから\n機動力をイカして 裏へ回りこむでし！{[0004]}よそ見している相手がいたら、{color[0100]}ショクワンダー{color[ffff]}で\n一気に距離をつめて 後ろからバシャッ！\nニンジャのような使い手に かわいがって欲しいでし
+Roller_Compact_01	メインウェポンの {color[0100]}カーボンローラーデコ{color[ffff]}は\nカーボンローラーを元に、デコ職人さんが\nデコレーションをほどこした ローラーでし！{[0004]}サブの{color[0100]}クイックボム{color[ffff]}で 塗り能力が さらに\n向上したでし！ ボムで地面を大きく塗れば、\n素早く相手に つめ寄れるでし！{[0004]}なかなか近づけない相手には\n{color[0100]}ウルトラショット{color[ffff]}を撃ちこんでやるといいでし！{[0004]}戦場を塗りまくり、荒らしまくって 相手を\n追いつめる！ ワイルドなバトルを好む使い手に\nかわいがって欲しいでし！
 Roller_Normal_00	メインウェポンの {color[0100]}スプラローラー{color[ffff]}は\n{color[0100]}ローラー{color[ffff]}と呼ばれるブキで、ユカをコロコロ\n塗りながら 接近戦もできるタイプでし{[0004]}{[030c|0000803f00000000]}を押して インクを放って攻撃！\n押し続けながら 移動すれば\nすみずみまで ユカを塗れるでし！{[0004]}サブの{color[0100]}カーリングボム{color[ffff]}で 一気に距離をつめ、\n相手のスキをついて ローラーでバシャッ！\nキレイに決まれば 気分ソウカイでし～{[0004]}相手をやっつけたあとは\nスペシャルの{color[0100]}グレートバリア{color[ffff]}を 前線に展開し、\n仲間を呼んで 一気に攻めるでし！{[0004]}ローラーで 近距離戦のエキスパートを目指すなら\nまずこのブキを かわいがるといいでし！
 Roller_Heavy_00	メインウェポンの {color[0100]}ダイナモローラー{color[ffff]}は、\n発電機を組みこんだ、高い攻撃力と\n長い射程を持った ボク特製のローラーでし！{[0004]}発電機の分 重くなったので\n機動力は低いでしが、その代わり ひと振りで\n大量のインクを 遠くまで飛ばせるでし！{[0004]}サブの{color[0100]}スプリンクラー{color[ffff]}で 塗り広げつつ、\n重量級のイアツ感で 仲間と共に\n前線を押し上げるでし！{[0004]}{color[0100]}エナジースタンド{color[ffff]}で 仲間のフォローもできるので\n相手を圧倒しつつも チームを思いやれる\n気配り上手な人に かわいがって欲しいでし！
 Roller_Hunter_00	メインウェポンの {color[0100]}ヴァリアブルローラー{color[ffff]}は\nヨコ振りとタテ振りで 形状が変化する\n面白い設計の ローラーでし！{[0004]}自動遠心式クラッチによる スムーズな変形で、\nヨコ振りは 軽量ローラーで素早くバシャッ！\nタテ振りは 遠くまでインクを飛ばせるでし！{[0004]}タテ振りで塗って前進し、相手に近づいたら\nヨコ振りで仕留める！\n機動力の高いローラーでし！{[0004]}機動力をイカして {color[0100]}トラップ{color[ffff]}を設置すれば\n相手の位置を いち早く察知して\n仕留めにいくことが可能になるでし！{[0004]}さらに{color[0100]}マルチミサイル{color[ffff]}でも相手の位置を\n見つけられるでしから、戦況を支配したい\n頭脳派な使い手に かわいがって欲しいでし！
+Roller_Wide_00	メインウェポンの{color[0100]}ワイドローラー{color[ffff]}は\n軽さと塗りの幅広さの両立が\nコンセプトのローラーでし！{[0004]}ワイドの名にいつわりなし！ コロコロ部分が\n長いので、地面をワイドに塗ってあげられるでし！\nヨコ振りもワイドに飛ばせるでしよ～{[0004]}攻撃力がひかえめな点は注意でしが\nタテ振りはインクを遠くに飛ばせるので、\n{color[0100]}スプラッシュシールド{color[ffff]}の後ろからバシャバシャでし{[0004]}それでも近づいてきた相手には\nスペシャルの{color[0100]}キューインキ{color[ffff]}でインクを吸い取って\n反撃してやるでし！{[0004]}地面を塗るのが得意なブキでしから、\nちょっとの塗り残しも許せない キレイ好きな\n使い手に かわいがって欲しいでし！
 Brush_Mini_00	メインウェポンの {color[0100]}パブロ{color[ffff]}は、\n高速で塗り進むことができる\nとても軽い フデでし！{[0004]}攻撃力は 期待できないでしが、\n高い機動力と {color[0100]}スプラッシュボム{color[ffff]}で かくらんして\n反撃のスキをあたえなければ こっちのもんでし！{[0004]}スペシャルの {color[0100]}メガホンレーザー5.1ch{color[ffff]}も\n組み合わせれば、相手は大混乱！\n一気に距離をつめて たたみかけてやるでし！{[0004]}持ち前の移動速度で 前線をかき乱す！\n戦場をかけ回って バトルの常識を\n塗り替えたい人に かわいがって欲しいでし！
+Brush_Mini_01	メインウェポンの {color[0100]}パブロ・ヒュー{color[ffff]}は、\nパブロと同じ性能でしが\n別のプレイスタイルを 提案する モデルでし！{[0004]}機動力をイカして{color[0100]}トラップ{color[ffff]}を置いてまわり、\nかかった相手に スッと近づいて\nバシャバシャしてやるでし！{[0004]}難所は{color[0100]}ウルトラハンコ{color[ffff]}で強行突破！\n相手のナワバリに入りこんでからが\n移動速度の見せ場でし！{[0004]}仲間をサポートしたり、相手をジャマしたりと\n戦場をいそがしく かけ回る！ 仕事好きな\n使い手に かわいがって欲しいでし！
 Brush_Normal_00	メインウェポンの {color[0100]}ホクサイ{color[ffff]}は、\n穂の密度を高めて 振った時に飛び散る\nインク量を多くした {color[0100]}フデ{color[ffff]}でし！{[0004]}サブの{color[0100]}キューバンボム{color[ffff]}は フデが届かない\n場所にいる相手の けん制にも使えるので、\nうまく使えば 安全に塗り進むことができるでし！{[0004]}遠くて近づけない相手には {color[0100]}ショクワンダー{color[ffff]}！\n後ろに回りこんで バシャバシャすれば\n相手は ひとたまりもないでし！{[0004]}フデ初心者にも 使いやすい構成なので\nぜひ手に取って かわいがって欲しいでし！
 Charger_Quick_00	メインウェポンの {color[0100]}スクイックリンα{color[ffff]}は、\nチャージャー特有の 飛距離を ぎせいにして\nチャージ時間を 短くしたモデルでし！{[0004]}チャージャーでありながら アグレッシブに\n攻められる設計なので、{color[0100]}ポイントセンサー{color[ffff]}で\n相手をマークしたら 仲間と共に突撃でし！{[0004]}接近されそうになったら すかさず\n{color[0100]}グレートバリア{color[ffff]}を展開して、バリアの中から\n一方的に ねらい撃ちしてやるでし！{[0004]}近距離戦でも 戦えるチャージャーとして\nインクを確実に当てる 自信のある\nウデじまんの使い手に かわいがって欲しいでし！
 Charger_Normal_00	メインウェポンの {color[0100]}スプラチャージャー{color[ffff]}は\n{color[0100]}チャージャー{color[ffff]}と呼ばれている\n遠距離攻撃が 得意なモデルでし！{[0004]}{[030c|0000803f00000000]}を押し続けて インクを圧縮～～…\n{[030c|0000803f00000000]}を離して 遠くまでパシューーーッ！\nと、一直線上に インクを塗れるでし！{[0004]}さらに、フルチャージしたまま インクを泳いでも\nチャージ状態をキープできる、{color[0100]}チャージキープ{color[ffff]}で\n機動力の低さを カバーしているでし{[0004]}かくれた相手をあぶり出す {color[0100]}スプラッシュボム{color[ffff]}と\n近距離攻撃を返りうちにする {color[0100]}キューインキ{color[ffff]}の\nセットは、チャージャーと相性ピッタリ！{[0004]}チャージャーを初めて持つ人にも 使いやすい\n構成でしから、 まずは このブキをかわいがって\nチャージャーに慣れるでし！
@@ -5871,17 +6240,21 @@ Charger_Long_00	メインウェポンの {color[0100]}リッター4K{color[ffff]
 Charger_LongScope_00	メインウェポンの {color[0100]}4Kスコープ{color[ffff]}は、\nリッター4Kに 遠くまでよく見える\nスコープを付けたモデルでし！{[0004]}スコープによって、全チャージャーの中で\n最長の射程を手に入れたでしが、チャージ中に\n視界がせまくなるので 周りに注意でし！{[0004]}リッター4Kとちがって チャージキープできないので\n立ち回りも 少し変わってくるところが\nスコープ使いの意欲を かき立てるでし！{[0004]}{color[0100]}トラップ{color[ffff]}と {color[0100]}ホップソナー{color[ffff]}で 安全確保しつつも\nしっかりねらって 撃ちぬきたい人に\nかわいがって欲しいでし！ 
 Charger_Light_00	メインウェポンの {color[0100]}14式竹筒銃・甲{color[ffff]}は\n伝説の部隊の司令官が 持っていたものを\n現代のバトル用に 復刻したものでし！{[0004]}職人さんが 当時のものを忠実に再現するため、\n素材に 竹を使用しているので\n{color[0100]}チャージキープはできない{color[ffff]}でし{[0004]}一発の攻撃力は 他のチャージャーにおとるでしが、\n高速でチャージできるので 連射に強いうえ、\nフルチャージ後の機動力も高いのがウリでし！{[0004]}{color[0100]}ロボットボム{color[ffff]}で相手の場所を察知したら\nすかさずチャージして 攻めこむ！\n攻撃的な立ち回りで 追いこんでいくでし！{[0004]}切り札の {color[0100]}メガホンレーザー5.1ch{color[ffff]}で 部隊を\n勝利にみちびくでし！ ぜひ 伝説の司令官に\nなりきって かわいがって欲しいでし！
 Charger_Keeper_00	メインウェポンの {color[0100]}ソイチューバー{color[ffff]}は、\nチャージキープ機構に さらなる改良が\n加えられた チャージャーでし！{[0004]}インクを高圧のまま長時間保持できるので、\nチャージキープした状態で インクを泳げる距離が\n延びて、機動力が増したでし！{[0004]}その分 フルチャージまでの時間は長いでしが、\nこのブキは {color[0100]}フルチャージしなくてもチャージキープ{color[ffff]}が\n可能なので、何回かに分けてチャージするか…{[0004]}サブの{color[0100]}トーピード{color[ffff]}で 相手の位置をハアクして、\n安全な位置で チャージするといいでし！{[0004]}フルチャージ状態をキープしつつ 有利な位置に\n移動して ねらい撃ち！ 倒し損ねても\n追い打ちの{color[0100]}マルチミサイル{color[ffff]}で チェックメイトでし！{[0004]}チャージキープをマスターしたい人や \nチャージャーの機動力を上げたい使い手には、\nぜひ手に取って かわいがってみて欲しいでし！
+Charger_Pencil_00	メインウェポンの{color[0100]}R-PEN/5H{color[ffff]}は\nチャージしたインクを ちょっとずつ発射することで\n連続で撃てるようにしたチャージャーでし！{[0004]}{[030c|0000803f00000000]}でチャージしたあと、離すと発射でし\nもう一度 {[030c|0000803f00000000]}を押して離すと、また発射！\n最大５回まで、遠距離に攻撃できるんでし～{[0004]}連続で撃てる代わりに １発のイリョクは\nひかえめで、チャージキープもできない点には\n注意して欲しいでし{[0004]}チャージャーの中では塗り能力が高いので、\n塗りでも前線をサポートできるでし！\nサブの{color[0100]}スプリンクラー{color[ffff]}も合わせて、塗りまくるでし！{[0004]}{color[0100]}エナジースタンド{color[ffff]}で、自分も仲間もパワーアップ！\nさらに、設置した冷蔵庫は インクを通さないので\n一時的なタテにもなるんでしよ{[0004]}ちょっとクセのあるブキでしが、\n１回のチャージで何回も攻撃したい\n欲張りな使い手に かわいがって欲しいでし！
 Slosher_Strong_00	メインウェポンの {color[0100]}バケットスロッシャー{color[ffff]}は、\n一直線に大量のインクを ぶちまける性能を持つ\n{color[0100]}スロッシャー{color[ffff]}と呼ばれるブキの ひとつでし！{[0004]}スロッシャーは、他のブキが苦手とする\n高台の上や カベの向こう側を\n攻撃するのが 得意なんでしね～{[0004]}連射はできないでしが、メインで高台の上を\nけん制しつつ サブの{color[0100]}スプラッシュボム{color[ffff]}を\n投げこめば、相手を足止めできるでし！{[0004]}気づかれずに接近したいときは、スペシャルの\n{color[0100]}トリプルトルネード{color[ffff]}を 目かくしにして突撃！\nスロッシャー初心者に オススメのブキでし！
+Slosher_Strong_01	メインの {color[0100]}バケットスロッシャーデコ{color[ffff]}は\nメーカーオプションのステッカーが\nほどこされた、バケットスロッシャーでし！{[0004]}サブの{color[0100]}ラインマーカー{color[ffff]}で、相手を見つけやすく\nなってるでし！ かかった相手はマークされるので、\n仲間といっしょに 片づけちゃうでし！{[0004]}スペシャルは{color[0100]}ショクワンダー{color[ffff]}！\n相手の頭上に飛びつけば、一方的に大量の\nインクを浴びせてあげられるでし！{[0004]}スロッシャーの強みをイカせる構成でしから、\n道を極めたいスロッシャー使いに\nかわいがって欲しいでし！
 Slosher_Diffusion_00	メインウェポンの {color[0100]}ヒッセン{color[ffff]}は、\n一度に前３方向へ インクを\nぶちまけることができる スロッシャーでし！{[0004]}インクが分散される分、攻撃力は少し\n落ちるでしが、{color[0100]}ポイズンミスト{color[ffff]}で相手の動きを\n止めてしまえば 心配はいらないでし！ {[0004]}スペシャルは{color[0100]}ジェットパック{color[ffff]}で 制圧力もバッチリ！\n塗るばかりではなく、攻めもしっかりやりたい\nよくばりな使い手に かわいがって欲しいでし
 Slosher_Launcher_00	メインウェポンの {color[0100]}スクリュースロッシャー{color[ffff]}は\n洗濯機の機構から 着想を得た、\nヒネリの効いたスクリュー弾が 撃てるブキでし！{[0004]}スクリュー弾の 直撃による攻撃力と\nウズになって飛び散るインクでの けん制が\nミリョクのブキなんでしね～{[0004]}サブの{color[0100]}タンサンボム{color[ffff]}で 相手の行動範囲を\n制限して バシャバシャかける！ にげられたら\nすかさず {color[0100]}ナイスダマ{color[ffff]}で追い打ちでし！{[0004]}とにかく インクをかけまくって、\n戦場を混乱のウズに おとしいれてやるでし！
 Slosher_Bathtub_00	メインウェポンの {color[0100]}オーバーフロッシャー{color[ffff]}は\nバスタブの機構から 着想を得た、\nバウンドする弾が 撃てるブキでし！{[0004]}ひと振りにつき ４発の弾を自動で発射！\n一か所を集中的に攻撃したり、動き回りながら\n広範囲をけん制したり できるでし！{[0004]}サブは {color[0100]}スプリンクラー{color[ffff]}、スペシャルは {color[0100]}アメフラシ{color[ffff]}と\n塗り性能バツグンの コンビネーション！{[0004]}射程の長さと塗りの強さで 要所を守って\n勝利のひとっ風呂を浴びたい使い手に\nかわいがって欲しいでし！
 Slosher_Washtub_00	メインウェポンの {color[0100]}エクスプロッシャー{color[ffff]}は\n業務用ヒーターをもとに アツアツのインクを\n遠くまで放出できるように改良したブキでし！{[0004]}放出された弾は 地面やカベに当たると\n爆発するので、モノカゲに かくれている相手にも\nダメージをあたえやすいブキでし！{[0004]}サブの {color[0100]}ポイントセンサー{color[ffff]}を使えば、\n相手の位置を伝えて 仲間を\nサポートしてあげることが可能でし！{[0004]}さらに スペシャルの{color[0100]}アメフラシ{color[ffff]}で \nインクに かくれている相手を\n見つけることもできるでし！{[0004]}サブとスペシャルを活用して 仲間といっしょに\n相手を追いこむ、キャプテン気質な\n使い手に かわいがって欲しいでし！
 Spinner_Quick_00	メインウェポンの {color[0100]}スプラスピナー{color[ffff]}は\n機構を見直すことで、チャージ時間を\n減らして あつかいやすくしたスピナーでし！{[0004]}サブの {color[0100]}クイックボム{color[ffff]}を使えば カベ塗りを\nスムーズにこなして 立体的な戦いができるうえ、\n近寄ってきた相手にも 素早く対応できるでし{[0004]}さらに スペシャルの{color[0100]}ウルトラハンコ{color[ffff]}で\n一気に前線を押し上げることも可能でし！ \n軽快に立ち回って 仲間と勝利をつかむでし！
+Spinner_Quick_01	{color[0100]}スプラスピナーコラボ{color[ffff]}は スピナーの中でも\nスキの少ないスプラスピナーと同じ性能でしが\n構成を変えて 別の味付けになったブキでし{[0004]}サブの{color[0100]}ポイズンミスト{color[ffff]}で動きにくくなった\n相手は かっこうのマトでし！{[0004]}チャージ中のスキは{color[0100]}グレートバリア{color[ffff]}でカバー！\n安全な場所から一方的に攻撃でし！{[0004]}あつかいやすい構成になってるでしから、\nスピナー初心者に かわいがって欲しいでし！
 Spinner_Standard_00	メインウェポンの {color[0100]}バレルスピナー{color[ffff]}は\n使い方は チャージャーに似てるでしが\n{color[0100]}スピナー{color[ffff]}と呼ばれる 別タイプのブキでし！{[0004]}{[030c|0000803f00000000]}を押し続けて インクを圧縮～～…\n{[030c|0000803f00000000]}を離して スパパパパパパッ！ と、\nインク弾を 連続で発射できるでし！{[0004]}が、インクを多く使うのと チャージに時間が\nかかるので、かなり スキが大きくなるでし{[0004]}サブの{color[0100]}スプリンクラー{color[ffff]}で塗りをキープして\n相手との間合いを確保し、こっちから\n一方的に撃てるように 立ち回るでし！{[0004]}さらに {color[0100]}ホップソナー{color[ffff]}で相手の位置を見つけ、\n射程をイカして 撃ちぬけば\nミッション・コンプリートでし！{[0004]}チャージャーにはない 攻撃時間の長さで\n相手を寄せつけない ナワバリの番人として\nカツヤクしたい使い手に オススメでし！
 Spinner_Hyper_00	{color[0100]}ハイドラント{color[ffff]}は、相手チームのナワバリの\n制圧を目的とした スピナーでし！\n弾幕の雨あられは 一見の価値あり！{[0004]}…でしが、チャージ時間が とんでもなく長いし、\nインク消費量も ケタ外れでしから\n相手との距離に 十分注意するでし！{[0004]}{color[0100]}ロボットボム{color[ffff]}で 近づく相手を遠ざけたり、\nかくれている相手を探したりすることで\n長距離射程が生きてくるでし！{[0004]}距離をつめてきた相手には\nスペシャルの {color[0100]}ナイスダマ{color[ffff]}をプレゼント！\nこれで制圧完了でし！{[0004]}相手を近づけさせない カクゴの持ち主で、\n後方からサポートして 戦場を制圧したい\n使い手に かわいがって欲しいでし！
 Spinner_Downpour_00	メインウェポンの {color[0100]}クーゲルシュライバー{color[ffff]}は\n２つの射程を持ったスピナーでし！{[0004]}撃ち始めは 回転の勢いが強いので\n高速連射で塗りまくり、近くの相手を\nあっという間に 倒すこともできるでし！{[0004]}だんだん 回転が落ち着いてくると\n遠くの相手を精密に ねらうことができるでし！{[0004]}このブキにはもうひとつ トクチョウがあるでし！\nなんと 弾の{color[0100]}発射中にチャージしなおす{color[ffff]}ことが\nできるんでし！{[0004]}再チャージの時間によって 回転の勢いを\nコントロールすれば より自在に戦えるでし！\n試しうちで一度さわってみてほしいでし！{[0004]}サブの{color[0100]}タンサンボム{color[ffff]}で 有利な位置に\n移動しながら、飛距離のちがう射撃を\nうまく使い分けて戦うと良いでし！{[0004]}さらに スペシャルの{color[0100]}ジェットパック{color[ffff]}も\n組み合わせれば、相手のナワバリを\n荒らし放題でし！{[0004]}トリッキーなブキを 使いこなせる\nテクニシャンな使い手に かわいがって欲しいでし！
 Spinner_Serein_00	メインウェポンの {color[0100]}ノーチラス47{color[ffff]}は\n初めて{color[0100]}チャージキープ{color[ffff]}機構が付いた\n機械じかけのスピナーになるでし！{[0004]}チャージキープを使いこなせば、安全な場所で\nチャージしたあと モノカゲや段差から\n一気に飛び出して 攻撃することだってできるでし！{[0004]}さらに 発射中の{color[0100]}再チャージ{color[ffff]}機構に加えて、\nジャンプ中に弾のブレ幅を一定に保つ\nスタビライザーも付いた、ロマンあふれるブキでし！{[0004]}サブの{color[0100]}ポイントセンサー{color[ffff]}で 相手の動きを\nとらえたら、あとはチャージキープや再チャージを\n活用して 仕留めるだけでし！{[0004]}スペシャルの {color[0100]}アメフラシ{color[ffff]}で、\nかくれた相手の居場所も バッチリ丸見え！{[0004]}チャージキープしながら センプクする姿は\nさながら潜水艦のようでし！ 相手の裏をつくのが\n好きな使い手に かわいがって欲しいでし！
 Maneuver_Short_00	メインウェポンの {color[0100]}スパッタリー{color[ffff]}は、\n機動性を追求するために とことん\n工夫をこらした マニューバーなんでし！{[0004]}軽量化も工夫のひとつでしが、その結果\n射程が短くなったでし… しかし、スライドの\n性能は しっかり保っているところが さすがでし！{[0004]}機動性の高さをイカして、\n{color[0100]}ジャンプビーコン{color[ffff]}を戦場に設置しまくって\n仲間の後押しをするでし！{[0004]}{color[0100]}エナジースタンド{color[ffff]}を使えば さらに移動力アップ！\n持ち前のスピードで 相手を手玉に取るでし！{[0004]}軽快なフットワークで 仲間をサポートし、\nスキをついて相手を撃つ、ヒット・アンド・アウェイが\n得意な使い手に かわいがって欲しいでし！
+Maneuver_Short_01	メインウェポンの {color[0100]}スパッタリー・ヒュー{color[ffff]}は\nスパッタリーと同じ性能でしが、 テクニシャンな\n使い手にぴったりの構成になってるでし！{[0004]}サブの{color[0100]}トーピード{color[ffff]}で相手の注意をそらし、\nスライドで 一気に射程に入りこむでし！{[0004]}近づけない相手には{color[0100]}サメライド{color[ffff]}！\n複数の相手を巻きこめるので、\nここぞというタイミングで突撃でし！{[0004]}状況ハアクと対処能力に 自信のある\n使い手に かわいがって欲しいでし！
 Maneuver_Normal_00	メインウェポンの {color[0100]}スプラマニューバー{color[ffff]}は、過熱する\nナワバリバトル人気の高まりの中で生まれた\n{color[0100]}マニューバー{color[ffff]}と呼ばれるタイプの ブキでし！{[0004]}両手に１つずつ ブキを持つのも注目でしが、\nなんといっても、ノズルからふき出したインクの\n推進力で高速移動する{color[0100]}スライド{color[ffff]}！ コレでし！{[0004]}スライド直後に 少しの間 移動できなく\nなるでしが、２つの照準が一点に重なるので\n集弾力が上がり、一気に倒せるでし！{[0004]}攻撃力は少し ひかえめでしが、\nサブの{color[0100]}キューバンボム{color[ffff]}と スライドの機動力を\nイカして、相手をホンロウするでし！{[0004]}遠くの相手は {color[0100]}カニタンク{color[ffff]}で ねらい撃ち！\nバランスの取れた構成でしから、マニューバーの\n第一歩を ふみ出す人に オススメでし！
 Maneuver_Gallon_00	メインウェポンの {color[0100]}ケルビン525{color[ffff]}は\n攻撃力を高めることに注力して\n開発された マニューバーでし！{[0004]}連射は あまり速くないでしが、\nスライド直後に発射する弾のイリョクが\nグンと高くなってるでし！{[0004]}攻撃力の高さに目がいきがちでしが、\nサブの {color[0100]}スプラッシュシールド{color[ffff]}で\n守りも固められる万能タイプでし{[0004]}さらにスペシャルの{color[0100]}ナイスダマ{color[ffff]}を使えば、\n一気に戦局を変えられるポテンシャルも\n秘めているでし{[0004]}攻守のバランスが取れたモデルでしから\nオールラウンドに カツヤクしたい使い手に\nかわいがって欲しいでし！
 Maneuver_Dual_00	メインウェポンの {color[0100]}デュアルスイーパー{color[ffff]}は、\n以前シューターとして使われていたものを改造し、\nマニューバーとして 生まれ変わらせたブキでし！{[0004]}スライド後に 構え撃ちするときの\n高い精度での連射と、長い射程の\n組み合わせがバツグンでし！{[0004]}{color[0100]}スプラッシュボム{color[ffff]}で相手を あぶりだしたら、\n射程と連射をイカして 集中攻撃でし！{[0004]}{color[0100]}ホップソナー{color[ffff]}もセンプク中の相手を\n探すのにピッタリなので、\n見つけた相手を 片っぱしから倒すでし！{[0004]}近寄られてもスライドで距離を取れるでしから\n機動力と長い射程が両方欲しい\nよくばりな使い手に かわいがって欲しいでし！
@@ -6001,24 +6374,33 @@ B98	{[0506]}
 CommonMsg\UniformName\UniformNameGearName_Head.msbt
 FST000	{[0506]}
 CAP000	{[0506]}
+CAP001	{[0506]}
 CAP002	{[0506]}
 CAP003	{[0506]}
+CAP004	{[0506]}
 CAP005	{[0506]}
 CAP012	{[0506]}
 CAP020	{[0506]}
 CAP021	{[0506]}
+CAP023	{[0506]}
+CAP024	{[0506]}
 CAP028	{[0506]}
 CAP036	{[0506]}
+NCP001	{[0506]}
 NCP008	{[0506]}
+NCP009	{[0506]}
+EYE000	{[0506]}
 EYE001	{[0506]}
 EYE002	{[0506]}
 EYE003	{[0506]}
-EYE007	{[0506]}
 EYE008	{[0506]}
 EYE009	{[0506]}
 EYE011	{[0506]}
 EYE012	{[0506]}
+EYE014	{[0506]}
+EYE015	{[0506]}
 EYE016	{[0506]}
+EYE018	{[0506]}
 EYE021	{[0506]}
 EYE022	{[0506]}
 EYE023	{[0506]}
@@ -6027,9 +6409,12 @@ EYE025	{[0506]}
 EYE026	{[0506]}
 EYE027	{[0506]}
 EYE029	{[0506]}
+EYE031	{[0506]}
+HAT003	{[0506]}
 HAT004	{[0506]}
 HAT006	{[0506]}
 HAT008	{[0506]}
+HAT010	{[0506]}
 HAT015	{[0506]}
 HAT016	{[0506]}
 HAT017	{[0506]}
@@ -6039,14 +6424,24 @@ HDP001	{[0506]}
 HDP004	{[0506]}
 HDP007	{[0506]}
 HDP008	{[0506]}
+HDP009	{[0506]}
 VIS001	{[0506]}
 VIS003	{[0506]}
 VIS004	{[0506]}
+MET004	{[0506]}
+MET006	{[0506]}
 MET007	{[0506]}
+MET009	{[0506]}
 MET012	{[0506]}
 MET013	{[0506]}
 MET014	{[0506]}
+MET016	{[0506]}
+MSK002	{[0506]}
+MSK003	{[0506]}
+MSK004	{[0506]}
 MSK005	{[0506]}
+MSK006	{[0506]}
+MSK007	{[0506]}
 MSK008	{[0506]}
 MSK011	{[0506]}
 MSK014	{[0506]}
@@ -6077,32 +6472,45 @@ MSN109	{[0506]}
 MSN306	{[0506]}
 COP110	{[0506]}
 COP111	{[0506]}
+COP112	{[0506]}
 COP113	{[0506]}
+COP114	{[0506]}
 COP115	{[0506]}
+COP116	{[0506]}
+ACC003	{[0506]}
 TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameGearName_Shoes.msbt
 SLO000	{[0506]}
 SLO008	{[0506]}
 SLO009	{[0506]}
+SLO010	{[0506]}
+SLO012	{[0506]}
 SLO021	{[0506]}
 SLO022	{[0506]}
 SLO023	{[0506]}
 SLO024	{[0506]}
+SLO025	{[0506]}
 SHI000	{[0506]}
 SHI001	{[0506]}
 SHI003	{[0506]}
 SHI004	{[0506]}
 SHI005	{[0506]}
 SHI006	{[0506]}
+SHI008	{[0506]}
+SHI010	{[0506]}
 SHI011	{[0506]}
 SHI016	{[0506]}
 SHI017	{[0506]}
 SHI018	{[0506]}
+SHI025	{[0506]}
 SHI042	{[0506]}
 SHI043	{[0506]}
 SHI045	{[0506]}
+SHI046	{[0506]}
+SHI052	{[0506]}
 SHT000	{[0506]}
 SHT001	{[0506]}
+SHT002	{[0506]}
 SHT004	{[0506]}
 SHT009	{[0506]}
 SHT012	{[0506]}
@@ -6118,6 +6526,7 @@ SDL001	{[0506]}
 SDL003	{[0506]}
 SDL004	{[0506]}
 SDL005	{[0506]}
+SDL006	{[0506]}
 SDL007	{[0506]}
 SDL008	{[0506]}
 SDL010	{[0506]}
@@ -6130,15 +6539,27 @@ TRS000	{[0506]}
 TRS001	{[0506]}
 BOT000	{[0506]}
 BOT001	{[0506]}
+BOT002	{[0506]}
+BOT004	{[0506]}
 BOT006	{[0506]}
 BOT007	{[0506]}
+BOT010	{[0506]}
 BOT012	{[0506]}
+BOT013	{[0506]}
+BOT019	{[0506]}
 BOT020	{[0506]}
 BOT021	{[0506]}
 BOT023	{[0506]}
 BOT025	{[0506]}
+BOT026	{[0506]}
+SLP000	{[0506]}
 SLP002	{[0506]}
+LTS000	{[0506]}
+LTS003	{[0506]}
+LTS005	{[0506]}
+LTS007	{[0506]}
 LTS010	{[0506]}
+LTS011	{[0506]}
 LTS013	{[0506]}
 LTS014	{[0506]}
 AMB000	{[0506]}
@@ -6160,19 +6581,25 @@ AMB015	{[0506]}
 MSN000	{[0506]}
 MSN004	{[0506]}
 MSN306	{[0506]}
+TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Main.msbt
 Shooter_Short_00	{[0506]}
 Shooter_First_00	{[0506]}
+Shooter_First_01	{[0506]}
 Shooter_Precision_00	{[0506]}
 Shooter_Blaze_00	{[0506]}
+Shooter_Blaze_01	{[0506]}
 Shooter_Normal_00	{[0506]}
+Shooter_Normal_01	{[0506]}
 Shooter_Normal_H	{[0506]}
 Shooter_Gravity_00	{[0506]}
 Shooter_QuickMiddle_00	{[0506]}
 Shooter_Expert_00	{[0506]}
+Shooter_Expert_01	{[0506]}
 Shooter_Heavy_00	{[0506]}
 Shooter_Long_00	{[0506]}
 Blaster_Short_00	{[0506]}
+Blaster_Short_01	{[0506]}
 Blaster_Middle_00	{[0506]}
 Blaster_Long_00	{[0506]}
 Blaster_LightShort_00	{[0506]}
@@ -6182,10 +6609,12 @@ Shooter_TripleQuick_00	{[0506]}
 Shooter_TripleMiddle_00	{[0506]}
 Shooter_Flash_00	{[0506]}
 Roller_Compact_00	{[0506]}
+Roller_Compact_01	{[0506]}
 Roller_Normal_00	{[0506]}
 Roller_Heavy_00	{[0506]}
 Roller_Hunter_00	{[0506]}
 Brush_Mini_00	{[0506]}
+Brush_Mini_01	{[0506]}
 Brush_Normal_00	{[0506]}
 Charger_Quick_00	{[0506]}
 Charger_Normal_00	{[0506]}
@@ -6195,16 +6624,19 @@ Charger_LongScope_00	{[0506]}
 Charger_Light_00	{[0506]}
 Charger_Keeper_00	{[0506]}
 Slosher_Strong_00	{[0506]}
+Slosher_Strong_01	{[0506]}
 Slosher_Diffusion_00	{[0506]}
 Slosher_Launcher_00	{[0506]}
 Slosher_Bathtub_00	{[0506]}
 Slosher_Washtub_00	{[0506]}
 Spinner_Quick_00	{[0506]}
+Spinner_Quick_01	{[0506]}
 Spinner_Standard_00	{[0506]}
 Spinner_Hyper_00	{[0506]}
 Spinner_Downpour_00	{[0506]}
 Spinner_Serein_00	{[0506]}
 Maneuver_Short_00	{[0506]}
+Maneuver_Short_01	{[0506]}
 Maneuver_Normal_00	{[0506]}
 Maneuver_Gallon_00	{[0506]}
 Maneuver_Dual_00	{[0506]}
@@ -6216,6 +6648,9 @@ Stringer_Short_00	{[0506]}
 Shelter_Compact_00	{[0506]}
 Saber_Normal_00	{[0506]}
 Saber_Lite_00	{[0506]}
+Shooter_QuickLong_00	{[0506]}
+Roller_Wide_00	{[0506]}
+Charger_Pencil_00	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Special.msbt
 SpInkStorm	{[0506]}
 SpUltraShot	{[0506]}
@@ -6357,6 +6792,8 @@ District	ゴンズイ地区
 Yagara	ヤガラ市場
 Temple	マテガイ放水路
 Scrap	ナメロウ金属
+BigSlope	クサヤ温泉
+Jyoheki	ヒラメが丘団地
 Kaisou	マサバ海峡大橋
 Pivot	キンメダイ美術館
 Hiagari	マヒマヒリゾート＆スパ
@@ -6365,6 +6802,13 @@ Nagasaki	チョウザメ造船
 Line	ザトウマーケット
 Carousel	スメーシーワールド
 Unknown	？？？
+CommonMsg\VS\XRankingRegion.msbt
+Pacific_Short	{[032c|0000803f00000000]}グループ・ヤコ
+Pacific_Detail	日本/香港/韓国/オーストラリア/ニュージーランド
+Pacific_Short_Plain	グループ・ヤコ
+Atlantic_Short	{[032b|0000803f00000000]}グループ・アロメ
+Atlantic_Detail	アメリカ大陸/ヨーロッパ
+Atlantic_Short_Plain	グループ・アロメ
 CommonMsg\Weapon\WeaponExp_Special.msbt
 SpInkStorm	インクの雨雲を発生させる装置を投げる。\nインクの雨雲は着地地点から少しずつ移動していく。
 SpUltraShot	回転しながら飛ぶ強力なショットを、最大で３回発射する。\n{[030c|0000803f00000000]}を押すと３発のインクが同時に射出される。
@@ -6399,16 +6843,21 @@ LineMarker	通り道に線を残しながら、一直線に飛んでいくサブ
 CommonMsg\Weapon\WeaponName_Main.msbt
 Shooter_Short_00	ボールドマーカー
 Shooter_First_00	わかばシューター
+Shooter_First_01	もみじシューター
 Shooter_Precision_00	シャープマーカー
 Shooter_Blaze_00	プロモデラーMG
+Shooter_Blaze_01	プロモデラーRG
 Shooter_Normal_00	スプラシューター
+Shooter_Normal_01	スプラシューターコラボ
 Shooter_Normal_H	ヒーローシューター レプリカ
 Shooter_Gravity_00	.52ガロン
 Shooter_QuickMiddle_00	N-ZAP85
 Shooter_Expert_00	プライムシューター
+Shooter_Expert_01	プライムシューターコラボ
 Shooter_Heavy_00	.96ガロン
 Shooter_Long_00	ジェットスイーパー
 Blaster_Short_00	ノヴァブラスター
+Blaster_Short_01	ノヴァブラスターネオ
 Blaster_Middle_00	ホットブラスター
 Blaster_Long_00	ロングブラスター
 Blaster_LightShort_00	クラッシュブラスター
@@ -6418,10 +6867,12 @@ Shooter_TripleQuick_00	L3リールガン
 Shooter_TripleMiddle_00	H3リールガン
 Shooter_Flash_00	ボトルガイザー
 Roller_Compact_00	カーボンローラー
+Roller_Compact_01	カーボンローラーデコ
 Roller_Normal_00	スプラローラー
 Roller_Heavy_00	ダイナモローラー
 Roller_Hunter_00	ヴァリアブルローラー
 Brush_Mini_00	パブロ
+Brush_Mini_01	パブロ・ヒュー
 Brush_Normal_00	ホクサイ
 Charger_Quick_00	スクイックリンα
 Charger_Normal_00	スプラチャージャー
@@ -6431,16 +6882,19 @@ Charger_LongScope_00	4Kスコープ
 Charger_Light_00	14式竹筒銃・甲
 Charger_Keeper_00	ソイチューバー
 Slosher_Strong_00	バケットスロッシャー
+Slosher_Strong_01	バケットスロッシャーデコ
 Slosher_Diffusion_00	ヒッセン
 Slosher_Launcher_00	スクリュースロッシャー
 Slosher_Bathtub_00	オーバーフロッシャー
 Slosher_Washtub_00	エクスプロッシャー
 Spinner_Quick_00	スプラスピナー
+Spinner_Quick_01	スプラスピナーコラボ
 Spinner_Standard_00	バレルスピナー
 Spinner_Hyper_00	ハイドラント
 Spinner_Downpour_00	クーゲルシュライバー
 Spinner_Serein_00	ノーチラス47
 Maneuver_Short_00	スパッタリー
+Maneuver_Short_01	スパッタリー・ヒュー
 Maneuver_Normal_00	スプラマニューバー
 Maneuver_Gallon_00	ケルビン525
 Maneuver_Dual_00	デュアルスイーパー
@@ -6452,6 +6906,9 @@ Stringer_Short_00	LACT-450
 Shelter_Compact_00	スパイガジェット
 Saber_Normal_00	ジムワイパー
 Saber_Lite_00	ドライブワイパー
+Shooter_QuickLong_00	スペースシューター
+Roller_Wide_00	ワイドローラー
+Charger_Pencil_00	R-PEN/5H
 Blaster_Light_Coop	ラピッドブラスター
 Blaster_LightLong_Coop	Rブラスターエリート
 Blaster_LightShort_Coop	クラッシュブラスター
@@ -6504,8 +6961,12 @@ Stringer_Normal_Coop	トライストリンガー
 Stringer_Short_Coop	LACT-450
 Saber_Normal_Coop	ジムワイパー
 Saber_Lite_Coop	ドライブワイパー
+Shooter_QuickLong_Coop	スペースシューター
+Roller_Wide_Coop	ワイドローラー
+Charger_Pencil_Coop	R-PEN/5H
 Blaster_Bear_Coop	クマサン印のブラスター
 Charger_Bear_Coop	クマサン印のチャージャー
+Saber_Bear_Coop	クマサン印のワイパー
 Shelter_Bear_Coop	クマサン印のシェルター
 Slosher_Bear_Coop	クマサン印のスロッシャー
 Stringer_Bear_Coop	クマサン印のストリンガー
@@ -6669,6 +7130,10 @@ Blaster	ブラスター
 Brush	フデ
 Stringer	ストリンガー
 Saber	ワイパー
+EventFlowMsg\LobbyCoop_BigRunTutorial.msbt
+Comment_00	よく来てくれたね{[0100|0f000000]}\n待っていたよ{[0004]}{color[0100]}ビッグラン{color[ffff]}の求人広告を見て 来てくれたのかな{[0100|1e000000]}\n人手が足りなかったからね… とても助かるよ
+Comment_01	ところで… もう知っているかもしれないが\n今は{color[0100]}ビッグラン{color[ffff]}が発生していてね
+Comment_02	{color[0100]}ビッグラン{color[ffff]}とは、いつもは自分のナワバリにいるシャケが\n街の近くにまで 押し寄せてくる現象だ{[0004]}街にヒガイが出る前に シャケを食い止める…{[0100|1e000000]}\n大変だけど、これもクマサン商会の役目なんだよ{[0004]}今はキミたちに、街を守るこの重要なシゴトを手伝ってほしいんだ{[0100|1e000000]}\nついでに金イクラも集めてくれると 助かるね…{[0004]}責任が重いぶん、いつもより{color[0100]}ほうしゅうを手厚く{color[ffff]}しているし\nビッグランを乗り切ったら お礼に{color[0100]}特別なオキモノ{color[ffff]}も用意するよ{[0004]}くわしいことは、バイトを始める前に ワタシに話しかけて\n{[0306|0000803f00000000]}で確認しておいてくれたまえ{[0004]}それじゃあ、よろしくたのむね{[0100|1e000000]}\nキミたちの かがやかしいカツヤクを 期待しているよ
 EventFlowMsg\LobbyCoop_RankShortage.msbt
 Comment_00	よく来てくれたね…{[0004]}…ん? 悪いんだが\nまだイカしていない子は 採用できないんだ{[0004]}{color[0100]}ランク４{color[ffff]}になったら、またおいで
 EventFlowMsg\LobbyCoop_Tutorial00.msbt
@@ -6717,6 +7182,12 @@ AfterFirstBattle_01	キミの持っているネームプレートは\nまだ{col
 AfterFirstBattle_02	次のバトルへ行く前に、あそこにある{color[0100]}ロビー端末{color[ffff]}で\nプレイヤー名を登録してくれ！
 AfterFirstBattle_Reward_00	キミの持っているネームプレートには\nどうやら昔のデータが少しだけ残っているみたいだ{[0004]}残っているデータを使えるようにするぞ…
 AfterFirstBattle_Reward_01	プレイヤー名は あらためて登録する必要があるぞ
+EventFlowMsg\LobbyVersus_FestMikoshi100.msbt
+000	１００倍マッチでの勝利、おめでとう！！
+001	最高のプレイでフェスを盛り上げてくれたキミ！\n広場の{color[0100]}オミコシ{color[ffff]}に乗って写真をとれるようになったぞ{[0004]}オミコシには、広場にある{color[0100]}フェス投票所{color[ffff]}から乗りこめる\nイカした仲間たちとの思い出を写真に残してみよう！
+EventFlowMsg\LobbyVersus_FestMikoshi333.msbt
+000	３３３倍マッチ勝利、おめでとう！！！
+001	最高のプレイでフェスを盛り上げてくれたキミ！\n広場の{color[0100]}オミコシ{color[ffff]}に乗って写真をとれるようになったぞ{[0004]}オミコシには、広場にある{color[0100]}フェス投票所{color[ffff]}から乗りこめる\nイカした仲間たちとの思い出を写真に残してみよう！
 EventFlowMsg\LobbyVersus_FirstEnter.msbt
 FirstEnter_00	{color[0100]}ロビー{color[ffff]}へようこそ！\nここには、バトルに必要な設備がそろっているぞ！
 FirstEnter_01	ここでバトルに参加することで\n{color[0100]}ランク{color[ffff]}が上がったり、{color[0100]}おカネ{color[ffff]}がもらえたりする！{[0004]}{color[0100]}ランク{color[ffff]}が上がると\nショップで{color[0100]}買えるモノ{color[ffff]}が増えたり…{[0004]}バトルの {color[0100]}新しいモード{color[ffff]}が遊べたり…\nイカした要素が増えていくぞ！
@@ -6742,6 +7213,18 @@ UnlockBankaraMatch_00	一人前のイカしたプレイヤーになったキミ�
 UnlockBankaraMatch_01	バトルポットに入ったら、バンカラマッチを始める前に\n{[0306|0000803f00000000]}で{color[0100]}ルール確認{color[ffff]}をしておこう！
 UnlockBankaraMatch_02	ちなみに… バンカラマッチには\n{color[0100]}チャレンジ{color[ffff]}と{color[0100]}オープン{color[ffff]}の２つのスタイルがあるぞ{[0004]}迷ったら {color[0100]}チャレンジ{color[ffff]}がオススメだ{[0004]}{color[0100]}チャレンジ{color[ffff]}は、１人でじっくり挑戦するスタイルだ\nめぐりあった仲間とチームを組んで勝利を重ねよう{[0004]}フレンドといっしょに挑戦したいときや、\n少しだけプレイしたいときは{color[0100]}オープン{color[ffff]}を選ぼう
 UnlockBankaraMatch_03	もちろん、これまで通り レギュラーマッチでも\nケイケン値がもらえるから 好きなモードに参加してほしい{[0004]}では、けんとうをいのる！
+EventFlowMsg\LobbyVersus_UnlockXMatch.msbt
+XMatchOpen_00	最高にイカしたプレイヤーになったキミへ！
+XMatchOpen_01	ウデマエＳ+は、 Ｓ+{size[4b00]}０{size[6400]}から Ｓ+{size[4b00]}５０{size[6400]}まであるぞ\nここから もっともっと上を目指してくれ！
+XMatchOpen_02	そして新たに {color[0100]}Xマッチ{color[ffff]}への参加権を得たぞ！
+XMatchOpen_03	Xマッチでは、ウデマエポイントの代わりに\n勝敗で変化する {color[0100]}Xパワー{color[ffff]}をかけてバトルを行うんだ
+XMatchOpen_04	Xパワーが上位に入ると、Xランキングにも表示されるぞ！\nXランキングは{color[0100]}イカリング３{color[ffff]}で確認してくれ
+XMatchOpen_05	Xランキングは {color[0100]}シーズンが変わるとリセット{color[ffff]}されるぞ\nシーズンごとに新たな気持ちで Xマッチに挑むんだ！
+XMatchOpen_07	では、けんとうをいのる！
+EventFlowMsg\LobbyVersus_XRankingReward.msbt
+XRankingReward_00	Xマッチで最高にイカしたプレイを見せてくれた\nキミへのお知らせだ！
+XRankingReward_01	おめでとう！ 前のシーズンのXランキングが決まって\nキミの順位が上がったぞ！
+XRankingReward_02	順位のチェックは{color[0100]}イカリング３{color[ffff]}からだ！
 EventFlowMsg\Mission_AfterBreakKebaInkTutorial.msbt
 Comment_00	おおッ、コアを食べよった！！{[0100|1e000000]}\n小さな体で パワフルじゃのー！
 Comment_01	これで先に進めるわィ！
@@ -7259,6 +7742,76 @@ Comment_14	エイーッ！{[0405]}（アネゴーッ！）\x0f\x04\x05
 Comment_15	わーっ！ すごいよホタルちゃん！
 Comment_16	ホタルちゃんに シャテイができちゃった！{[0100|1e000000]}\nいいなーっ！
 Comment_17	めんどくさいことになった…
+EventFlowMsg\News_BigRunAnnounce.msbt
+000	エイエイッ！{[0405]}（臨時ニュース！ 臨時ニューーース！）\x0f\x04\x05
+001	どした？ 顔色が真っ白じゃぞ
+002	エイ！{[0405]}（クマサン商会から緊急のお知らせです！）\x0f\x04\x05
+003	なんや、バイトの募集なら あとでもええやろ…
+004	はぁ？！ {color[0100]}ビッグラン{color[ffff]}警報やて？！
+005	もうすぐシャケが攻めてくるんじゃな？！
+006	エエエイー！{[0405]}（シャケの大群が{color[0100]}スメーシーワールド{color[ffff]}に接近中！\nどどどうしようーーー？！）\x0f\x04\x05
+007	シャケも遊園地が好きなんかのう…
+008	エイ？！{[0405]}（スメーシーワールドを足がかりに\nボクらの街を 乗っ取るつもりかな？！）\x0f\x04\x05
+009	ん～ どやろねぇ…
+010	ま、あちらさんが その気なら\nたっぷり おもてなしせんとなぁ？
+011	ワシらの大事な遊び場を シャケどもにはやらんぞ！\nのう、マンタロー！
+012	エ、エイ！{[0405]}（そうだね、クマサン商会もしっかり\n準備してくれるみたいだし…）\x0f\x04\x05
+013	エーイ{[0405]}（ちなみに、当日クマサン商会に協力すると\nお礼の品をもらえるそうです）\x0f\x04\x05
+014	よっしゃ もろた！
+015	ええか、みんな？\nビッグランが始まったら クマサン商会に集合やで！
+016	気合いで街を守るのじゃー！
+EventFlowMsg\News_BigRunBeingHeld.msbt
+000	ビッグラン発生中につき\nスメーシーワールドは臨時休業やって
+001	シャケのせいで せっかくの週末が台無しじゃな…
+002	{color[0100]}クマサン商会{color[ffff]}では、現地で対応にあたるバイトを\n大・大・大募集中やで！
+003	エイッ！{[0405]}（みんなでシャケに立ち向かおう！）\x0f\x04\x05
+004	バイトに参加すれば お礼の品がもらえる\nっちゅう話やったな？
+005	ニヒヒ… 見のがせないのう？
+006	エイ？{[0405]}（街を守るためのお仕事だからね？）\x0f\x04\x05
+EventFlowMsg\News_BigRunBeingHeld_Short.msbt
+000	今は ビッグランのせいで\nスメーシーワールドが えらいコトになってんで
+001	エイ！{[0405]}（力を貸してくれる方は クマサン商会まで！）\x0f\x04\x05
+100	シャケどもに ワシらのスメーシーワールドはわたさんぞ！
+101	エイエイ！{[0405]}（オーーーッ！）\x0f\x04\x05
+110	エエイ？！{[0405]}（それにしても遊園地をねらうなんて…\nまさか、ボクらの心を折る作戦？！）\x0f\x04\x05
+111	そこまで考えてへんやろ
+120	マスコットの ひれおくんは無事じゃろうか…
+121	シャケとも仲良うなってたりしてな
+EventFlowMsg\News_BigRunEnd.msbt
+000	エイ！！{[0405]}（いま入ってきたニュースです！！）\x0f\x04\x05
+001	なんじゃなんじゃ？
+002	エイエ～イ！{[0405]}（スメーシーワールドに押し寄せていたシャケが\n海へ帰っていきましたー！！）\x0f\x04\x05
+003	ほんまに？！
+004	ウチらの完全勝利やね！！
+005	どんなもんじゃーい！！
+006	で？ で？\nお礼とやらは 何がもらえるんじゃ？！
+007	エイ！{[0405]}（クマサン商会で バイト記録を確認中らしいから\n発表まで もうちょっと待っててね！）\x0f\x04\x05
+EventFlowMsg\News_BigRunResult.msbt
+000	エイッ！{[0405]}（ステージ紹介の前に 臨時ニュースだよ！）\x0f\x04\x05
+001	なんや？ うれしそうやん
+002	エイエイ！{[0405]}（{color[0100]}ビッグラン{color[ffff]}の結果が出ましたー！）\x0f\x04\x05
+003	うおおお！ 来たのじゃーー！！
+004	……え、何？ クマサン商会から？
+005	え～、 「このたびは多大なるご協力をいただき\nまことにありがとうございました」
+006	「ささやかながら ハイスコアに応じたお礼の品を\nご用意いたしました」…やって！
+007	ふむぅ、ワクワクするのう！
+008	それでは発表いたしやしょう！\nええモノもらえる {color[0100]}ハイスコア{color[ffff]}のボーダーラインは…
+009	はよ！ はよぅ！！
+010	てんてけてけてけー…
+011	エイエイエイエイ～…
+012	{size[9600]}ぽん！{size[6400]}
+013	{size[9600]}エイ！{size[6400]}
+014	こ、こんなに高いスコアを出した連中がおったんか？！
+015	エ～イ！！{[0405]}（ファンタスティック！！）\x0f\x04\x05
+016	このスコアに届かんかっても\nお礼は全員もらえるさかい、安心してな～
+017	エイ…{[0405]}（ホッ…）\x0f\x04\x05
+100	エイ！{[0405]}（一時は どうなることかと思ったけど\nみんなのおかげで街を守れたね！）\x0f\x04\x05
+101	うむ、バンカラもんの強さを\nシャケどもに見せつけてやったのじゃ！
+102	みんな ほんまにようやったね！\nバンカラを代表して お礼を言わしてもらいますえ！
+103	あー、久しぶりに あのジェットコースター\n乗りたくなってきたのう！
+104	エイ～{[0405]}（最近プライベートでは 行ってなかったもんね～）\x0f\x04\x05
+105	ほな、営業再開したら ３人で行こか！
+106	ヨッシャ！ 決まりじゃな！！
 EventFlowMsg\News_Coop.msbt
 001	クマサン商会からアルバイト募集の\nお知らせやって
 002	シャケにナメられたら負けじゃぞ！
@@ -7334,15 +7887,15 @@ EventFlowMsg\News_FestIntermediate.msbt
 007	{size[8200]}エイ！{size[6400]}
 100	エ゛イ！{[0405]}（ボクらのチームが １位だと思ったのに～！）\x0f\x04\x05
 101	ンフフ♪ なんや悪いなぁ\nウチらが このまま勝ってしまいそうやわ～
-102	ええい、チーム全員 ワシを信じてついてこい！\nこっからは {color[0100]}トリカラアタック{color[ffff]}が解禁じゃー！！
+102	ええい、チーム全員 ワシを信じてついてこい！\nこっからは {color[0100]}トリカラマッチ{color[ffff]}が解禁じゃー！！
 103	エイッ！{[0405]}（力を合わせて逆転しよう！\n勝負は最後まで わからないよ！）\x0f\x04\x05
 110	そこが１位なん？！ ウソやん！
 111	ヨッシャー！！\nこのままワシらのチームが勝利をいただくのじゃ！
-112	エイー！{[0405]}（みんな、まだチャンスはあるよ！\nここからは {color[0100]}トリカラアタック{color[ffff]}が解禁だ！！）\x0f\x04\x05
+112	エイー！{[0405]}（みんな、まだチャンスはあるよ！\nここからは {color[0100]}トリカラマッチ{color[ffff]}が解禁だ！！）\x0f\x04\x05
 113	一気に追い上げるで～！！\nウチらのチームの底力、見せつけたってや！
 120	くぅ～！ おくれを取ったとはのう…
 121	エエ～イ！{[0405]}（よ～し、イイ感じだよ！\nみんな、このままトップで泳ぎ切ろうね！！）\x0f\x04\x05
-122	なんの、ここからが正念場！\n準備はええか？ {color[0100]}トリカラアタック{color[ffff]}の解禁や！！
+122	なんの、ここからが正念場！\n準備はええか？ {color[0100]}トリカラマッチ{color[ffff]}の解禁や！！
 123	ヨッシャ、巻き返しじゃ！\nこのまま引き下がるワシらではないぞ！！
 EventFlowMsg\News_FestMatchVersusStage.msbt
 000	今のフェスマッチのステージは、ここや！
@@ -7365,7 +7918,7 @@ EventFlowMsg\News_FestResult.msbt
 009	エイ！{[0405]}（負けないぞ～！）\x0f\x04\x05
 010	ほう、こうなっておったのか！
 011	エイー？！{[0405]}（そしてそしてー？！）\x0f\x04\x05
-012	どこがフェスを盛り上げたか {color[0100]}こうけん度{color[ffff]}の発表！\nオープンとチャレンジ、いっぺんにいきますえ！
+012	どこがフェスを盛り上げたか {color[0100]}こうけん度{color[ffff]}の発表！\nオープン・チャレンジ・トリカラ、いっぺんにいきますえ！
 013	いっぺんに？！ ちょ、ちょう待ってくれ\n心の準備が まだなんじゃー！
 014	ふぉおおお？！！
 015	エイ！！
@@ -7414,14 +7967,32 @@ Comment_02	バンカラジオの時間じゃー！！！
 Comment_03	エイ！ {[0405]}（はじまるよ！）\x0f\x04\x05
 Comment_04	今日も スミからスミまで\nずずずい～っと 塗ってみせやしょう！
 Comment_05	エイエイ！ \n{[0405]}（いよっ、 ホホジロ屋ー！）\x0f\x04\x05
+EventFlowMsg\News_Season02.msbt
+000	{color[0100]}新しいシーズン{color[ffff]}が 始まったで～！
+001	おおおー！！
+002	エ～イ！{[0405]}（心機一転 がんばっていこう！）\x0f\x04\x05
+003	{color[0100]}Xマッチ{color[ffff]}が 解禁されたで！
+005	エ～イ！{[0405]}（ウデマエ {color[0100]}Ｓ+{size[4b00]}0{size[6400]}以上{color[ffff]}で参加できるよ！）\x0f\x04\x05
+006	テッペンはワシがいただきじゃー！！
+007	{color[0100]}新しいブキ{color[ffff]}が 追加されたんじゃな！
+008	エイ！{[0405]}（やったね！）\x0f\x04\x05
+008_01	ほうほう…
+009	これは ブキチはんのお話が楽しみどすなぁ…
+010	{color[0100]}新しいステージ{color[ffff]}も 追加されたんか！
+011	エイエイ！{[0405]}（どんな立ち回りができるのかな～！）\x0f\x04\x05
+012	{color[0100]}バトルのステージ{color[ffff]}に 選ばれるようになったし、\n楽しみにしといてや！
+013	はよう暴れ回りたいのう！
+EventFlowMsg\News_SeasonPost.msbt
+001	…っちゅうワケで、\n新シーズンも おきばりやす～！
+002	ゆくぞ、オマエさんらーーー！！
 EventFlowMsg\News_TricolorVersusStage.msbt
-000	そして トリカラアタックのステージは、ここ！
+000	そして トリカラマッチのステージは、ここ！
 001	行くぞ、マンタロー！\n１位のヤツらに 目にもの見せてやるのじゃ！！
 002	エーイ！{[0405]}（オッケー！ でも最後には\nボクのチームが勝たせてもらうよ！）\x0f\x04\x05
-003	エイ！{[0405]}（フウカちゃん！ ここは息を合わせて\n１位チームの勝利を止めよう！） \x0f\x04\x05
-004	ええで！\nただし、最後に笑うんは ウチのチームや！
-005	ウツホ、トリカラアタックでは 一時休戦やな\nいっしょに１位チームを 引きずり下ろすで！
-006	ヨッシャ！！ じゃが、フェスの勝利は\nワシのチームが いただくぞ！
+003	エイ！{[0405]}（フウカちゃん！ ここは息を合わせて\n１位のみんなを止めよう！） \x0f\x04\x05
+004	おたがい攻撃チームやったらね\nただし、最後に笑うんは ウチのとこや！
+005	ウツホ、おたがい攻撃チームのときは 一時休戦や\nいっしょに１位さんを 引きずり下ろすで！
+006	ヨッシャ！！ じゃが、フェスの勝利は\nこのワシが いただくぞ！
 EventFlowMsg\News_UpdateInfo.msbt
 000	エイエーイ！{[0405]}（アップデートのお知らせだよ！）\x0f\x04\x05
 001	ほう、なんじゃなんじゃ？
@@ -7458,6 +8029,18 @@ EventFlowMsg\Plaza_Intro.msbt
 005	気を取り直して…\n何はともあれ行動あるのみ！
 006	{color[0100]}ロビー{color[ffff]}に行ってバトルをするもよし、\n{color[0100]}アヤシイ老人{color[ffff]}の様子を見に行くもよしだ！
 007	キミのけんとうを いのる！
+LayoutMsg\Catalog_Base_00.msbt
+L_Catalog_00-T_Max_00	MAX
+L_Catalog_00-T_Rank_00	カタログレベル
+L_Guide_00-T_Info_00	もどる
+001	カードパック
+002	フレッシュカードパック
+003	二つ名
+004	プレート
+005	ミステリーボックス
+006	フードチケット
+007	ドリンクチケット
+100	{[0200|00030000]}冊目
 LayoutMsg\Cmn_Album_00.msbt
 T_Photo_00	すべて
 T_Photo_01	{[0200|00030001]}
@@ -7529,9 +8112,12 @@ T_Explain_01	ギア交換しない場合は 別のものと交換します
 LayoutMsg\Cmn_CoopMatch_00.msbt
 L_StartBtn_00-T_Btn_01	準備OK！
 210	ブキを選ぶ
-211	シナリオを選ぶ
+211	バイトシナリオを選ぶ
+212	ブキを選ぶ
+213	設定のリセット
 L_HoldCancelBtn_00-T_Info_00	キャンセル
 L_HoldCancelBtn_01-T_Info_00	部屋を解散する
+L_HoldCancelBtn_03-T_Info_00	部屋を解散する
 L_HoldCancelBtn_02-T_Info_00	部屋を抜ける
 010	とじる
 000	メンバーの合流を待っています
@@ -7549,6 +8135,7 @@ T_StageHeader_00	ステージ
 230	カスタム
 T_LevelHeader_00	キケン度
 110	決定！
+111	決定！
 200	{[0200|00030000]}%
 180	おまかせ
 T_WpnHeader_00	支給ブキ
@@ -7557,6 +8144,8 @@ L_GuideNotify_00-T_Btn_00	Y
 L_PlayerName_00-T_Wait_00	募集中…
 T_Rank_00	ほうしゅうメーター
 L_Meter_00-T_NextReward_00	次のレアほうしゅうまで あと
+T_ScoreHeader_00	ハイスコア
+T_WpnCstm_00	選ぶことができます
 LayoutMsg\Cmn_CountDownFinish_00.msbt
 T_Finsh_01	Finish!
 LayoutMsg\Cmn_CstAmiiboMyset_00.msbt
@@ -7777,12 +8366,18 @@ T_Info_00	撮影する！
 205	ポーズ６
 206	ポーズ７
 207	ポーズ８
+208	ポーズ９
+209	ポーズ１０
+210	ポーズ１１
+211	ポーズ１２
 T_Text_00	立たせる場所を決めてください
 300	バンカラ街
 T_Push_00	押しこみ
 T_Info_07	タテヨコ切替
 T_Date_01	日づけ
 T_Stage_01	スポット名
+400	スポット名
+401	フェス二つ名
 T_Player_00	プレイヤー名
 T_Guide_00	操作ガイド
 L_Timer_00-T_BtnL_00	なし
@@ -7793,6 +8388,7 @@ T_Timer_00	タイマー
 T_Gear_00	amiiboのそうび
 T_Pause_00	プレイヤーのポーズ
 T_Pause_01	amiiboのポーズ
+L_Switch_01-T_Msg_00	条件がそろっていた場合のみ\n表示できます
 LayoutMsg\Cmn_Menu_00.msbt
 L_Tab_00-T_Text_00	マップ
 L_Tab_01-T_Text_00	ステージ情報
@@ -7818,14 +8414,16 @@ L_BtnStage_00-T_WhiteText_00	レギュラーマッチ
 L_BtnStage_00-T_BlackText_00	レギュラーマッチ
 L_BtnStage_01-T_WhiteText_00	バンカラマッチ\n{size[4b00]}（チャレンジ）{size[6400]}
 L_BtnStage_01-T_BlackText_00	バンカラマッチ\n{size[4b00]}（チャレンジ）{size[6400]}
+L_BtnStage_02-T_WhiteText_00	Xマッチ
+L_BtnStage_02-T_BlackText_00	Xマッチ
 L_BtnStage_04-T_WhiteText_00	SALMON  RUN
 L_BtnStage_04-T_BlackText_00	SALMON  RUN
 L_BtnStage_05-T_WhiteText_00	バンカラマッチ\n{size[4b00]}（オープン）{size[6400]}
 L_BtnStage_05-T_BlackText_00	バンカラマッチ\n{size[4b00]}（オープン）{size[6400]}
 L_BtnFestStage_00-T_WhiteText_00	フェスマッチ
 L_BtnFestStage_00-T_BlackText_00	フェスマッチ
-L_BtnFestStage_01-T_WhiteText_00	トリカラアタック
-L_BtnFestStage_01-T_BlackText_00	トリカラアタック
+L_BtnFestStage_01-T_WhiteText_00	トリカラマッチ
+L_BtnFestStage_01-T_BlackText_00	トリカラマッチ
 L_BtnFestStage_02-T_WhiteText_00	SALMON  RUN
 L_BtnFestStage_02-T_BlackText_00	SALMON  RUN
 100	いま
@@ -7833,6 +8431,7 @@ L_Stage_03-T_Mode_00	いま
 L_Stage_01-T_Mode_01	つぎ
 L_Stage_02-T_Mode_01	そのつぎ
 L_Bottom_03-T_Info_00	もどる
+120	ビッグラン
 L_Player_00-T_WhiteText_00	そうび
 L_Player_00-T_BlackText_00	そうび
 L_Player_01-T_WhiteText_00	カタログ
@@ -7845,11 +8444,14 @@ L_BtnNpl_00-T_Edit_00	変更する
 L_Rank_00-T_RankHeader_00	ランク
 T_Max_00	COMPLETE!!
 T_UdemaeTitle_00	ウデマエ
+T_XPower_00	Xパワー
 T_Catalog_00	カタログは ザッカ屋でゲットできます
+L_BtnCatalog_00-T_WhiteText_00	もっと見る
+L_BtnCatalog_00-T_BlackText_00	もっと見る
 L_NextItem_00-T_NextItem_00	次のアイテム
 T_MaxNext_00	ザッカ屋に行って 最後のアイテムをもらおう！
 240	{size[4b00]}レベル {size[6400]}{[0200|00030000]}
-250	{[0201|0010]} まで
+250	{d} まで
 T_Count_01	持っているかけらの数
 201	×{[0200|00030000]}
 L_BtnCard_00-T_WhiteText_00	カードリスト
@@ -8015,6 +8617,25 @@ L_ReasonReport_00-T_Report_00	状況を詳しく
 T_Player_00	プレイヤー：
 LayoutMsg\Cmn_Save_00.msbt
 T_Save_00	セーブ完了
+LayoutMsg\Cmn_SeasonRecord_00.msbt
+000	Xマッチ結果発表
+001	バンカラマッチ最終結果
+002	新シーズンのウデマエ決定！
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]}  ～  {[0201|010c]}
+101	{[0201|000c]}  ～  {[0201|010c]}
+L_Record_00-T_Max_00	最高：
+L_Record_00-T_Fix_00	最終：
+L_Record_00-T_NoRecord_00	きろくがありません
+L_Record_00-T_Rank_00	推定
+200	{[0200|00050000]}位
+T_Rule_00	ガチエリア
+T_Rule_01	ガチヤグラ
+T_Rule_02	ガチホコバトル
+T_Rule_03	ガチアサリ
+300	正確なランキングについては、\nインターネットサービス「{color[0100]}イカリング３{color[ffff]}」をご確認ください\n\n順位が確定したとき、一定以上の順位にランクインした場合は\n{color[0100]}ロビー{color[ffff]}でプレゼントを受け取ることができます
+T_UdemaeTitle_00	ウデマエ
+T_UdemaeMsg_00	次のシーズンも ウデマエの高みを目指そう！
 LayoutMsg\Cmn_SelectFestPlace_00.msbt
 T_Msg_00	どの地域のフェスに参加しますか？\n※遊んでいる場所と異なる地域を選んだ場合、\nフェスを快適にプレイできないことがあります
 L_BackBtn_00-T_Btn_00	もどる
@@ -8042,6 +8663,7 @@ L_Menu_00-T_Info_00	メニュー
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	ウデマエ
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	{color[0100]}フェス投票{color[ffff]}に向かえ！
+L_PlayerStatus_00-T_AnnounceCoop_00	{color[0100]}クマサン商会{color[ffff]}に向かえ！
 LayoutMsg\Cmn_SystemWindowChallenge_00.msbt
 000	ウデマエポイントを{color[0100]}{[0200|00030000]}p{color[ffff]}支払って\nバンカラマッチに挑戦しますか？
 001	次は{color[0100]}昇格戦{color[ffff]}です！\nウデマエポイントを{color[0100]}{[0200|00030000]}p{color[ffff]}支払って挑戦しますか？
@@ -8063,6 +8685,12 @@ BtnR_ConfirmLimitOnlinePlay	OK!
 Msg_ConfirmLimitOnlinePlay2	ニンテンドーアカウント利用規約に反する名前を登録すると\nオンラインプレイを制限されることがあります
 BtnL_ConfirmLimitOnlinePlay2	やめる
 BtnR_ConfirmLimitOnlinePlay2	OK!
+LayoutMsg\Cmn_SystemWindowPlace_00.msbt
+T_Msg_00	どこでオミコシに乗りますか？
+L_Btn_00-T_Btn_00	投票所の前
+L_Btn_01-T_Btn_00	路地裏
+L_Btn_02-T_Btn_00	ショップの前
+L_Btn_03-T_Btn_00	もどる
 LayoutMsg\Cmn_SystemWindowSaveData_00.msbt
 T_Msg_00	『スプラトゥーン２』 のセーブデータが見つかりました\nこのデータを本作に引き継ぐことができます
 000	★{[0200|00030000]}
@@ -8132,6 +8760,8 @@ LayoutMsg\Cmn_VersusMatch_02.msbt
 013	しばらくお待ちください…
 014	準備ができたらバトルに参加します
 020	ウデマエ
+021	Xパワー
+022	計測中… {[0200|00010000]}/{[0200|01010000]}
 T_StageHeader_00	ステージ
 L_StartBtn_00-T_Btn_01	準備OK！
 L_StartBtn_01-T_Btn_01	このメンバーで\nはじめる！
@@ -8143,14 +8773,23 @@ L_PlayerName_00-T_Wait_00	募集中…
 L_GuideNotify_00-T_Btn_00	Y
 L_Power_00-T_FestPow_00	こうけん度
 L_FestItemAll_00-T_Max_00	MAX
+LayoutMsg\Cmn_WindowCatalog_00.msbt
+000	カタログの記録
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]}  ～  {[0201|010c]}
+T_Catalog_00	カタログレベル
+200	{[0200|00050000]}
+T_Attain_00	達成！
 LayoutMsg\Cmn_WindowGet_00.msbt
 T_SubTitle_00	今回の称号
 L_Icon_00-T_Text_00	×
 000	{[0200|00050000]}
 001	×{[0200|00020000]}
 002	{[0200|00050000]}
+100	クマサン商会からのお礼
 L_Btn_00-T_Info_00	セットする
 L_Btn_01-T_Info_00	OK
+200	{[0201|000c]}  ～  {[0201|010c]}
 LayoutMsg\Cmn_WindowMng_00.msbt
 T_Text_00	このプレイヤーとナワバトラーで対戦しますか？
 T_Rank_00	ナワバトランク
@@ -8211,8 +8850,12 @@ LayoutMsg\Coop_ResultDetail_00.msbt
 112	次のバイトを探す
 200	つづけてプレイしますか？
 201	再チャレンジしますか？
+300	ビッグランボーナス
+301	×１.２
 320	×{[0200|00010000]} ゲット！
 500	カスタム
+501	SALMON RUN
+502	プライベートバイト
 T_Clear_00	Clear!!
 T_Failure_00	Failure
 T_Rank_01	バイト結果
@@ -8251,6 +8894,7 @@ L_Card_00-T_Result_00	GJ!
 L_Card_00-T_Result_01	NG
 L_Card_01-T_Wave_00	WAVE ２
 L_Card_02-T_Wave_00	WAVE ３
+T_Score_00	ハイスコア更新！！
 LayoutMsg\Coop_ShopGift_00.msbt
 100	ほうしゅうを確認！
 101	確認オッケー
@@ -8332,6 +8976,7 @@ L_GuideBtn_02-T_State_00	切り替え
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	ウデマエ
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	{color[0100]}フェス投票{color[ffff]}に向かえ！
+L_HighScore_00-T_Score_00	ハイスコア
 LayoutMsg\Lobby_GuideTips_00.msbt
 L_GuideBtn_00-T_Info_00	スキップ
 LayoutMsg\Lobby_JudgeBalloon_00.msbt
@@ -8380,8 +9025,8 @@ L_GuideBtn_00-T_Info_00	もどる
 107	募集中
 108	ゲーム中
 109	合流不可
-200	{[0201|0010]} {color[0000]}{[0201|0110]}{color[ffff]}
-201	{color[0000]}{[0201|0010]}{color[ffff]}
+200	{d} {color[0000]}{[0201|0100]}{color[ffff]}
+201	{color[0000]}{d}{color[ffff]}
 LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 000	つかむ
 001	はなす
@@ -8389,6 +9034,8 @@ LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 L_Operation_01-T_Text_00	しまう
 010	ハコに入れる
 011	ハコから出す
+012	たたむ
+013	ハンガーにかける
 L_Operation_05-T_Text_00	写真を選ぶ
 020	閉める
 021	開ける
@@ -8421,15 +9068,17 @@ LayoutMsg\Lobby_MenuMode_00.msbt
 000	レギュラー\nマッチ
 001	バンカラマッチ\n{size[4b00]}（チャレンジ）{size[6400]}
 014	バンカラマッチ\n{size[4b00]}（オープン）{size[6400]}
+002	X\nマッチ
 004	プライベート\nマッチ
 005	バイトに\n参加
 006	プライベート\nバイト
+007	ビッグラン
 008	SALMON\nRUN
 009	プライベート\nマッチ
 010	陣取大戦\nナワバトラー
 011	フェスマッチ\n{size[4b00]}（オープン）{size[6400]}
 012	フェスマッチ\n{size[4b00]}（チャレンジ）{size[6400]}
-013	トリカラアタック
+013	トリカラマッチ
 040	塗り リセット
 041	ダミイカ ON
 042	ダミイカ OFF
@@ -8437,18 +9086,21 @@ L_Btn_03-T_Friend_00	フレンドと
 L_GuideClose_00-T_Info_00	とじる
 L_Btn_00-L_GuideCancel_00-T_Info_00	キャンセル
 070	ルール確認
+L_Reset_00-T_Info_00	ウデマエリセット
 100	世界中のプレイヤーとナワバリバトル
 118	ひとりでも仲間とでも エクストリームバトル
 101	ガチなやつらとエクストリームバトル
+103	限界にいどむ エクストリームバトル
 104	投票したチームに参加してバトル
 105	投票したチームに参加してバトル
-106	逆転ねらって ３色はさみ撃ちバトル
+106	３色入り乱れて はさみ撃ちバトル
 107	フレンドであつまって 自由にバトル
 109	近くのプレイヤーと 自由にバトル
 110	仲間といっしょにイクラ狩り
 111	デッキを持ち寄ってカードバトル
 112	新しいジブン きっとミツカル
 113	気の合う仲間と バイトの練習
+114	くらしをマモル やりがいあるシゴト
 200	ルール/ステージ/チームを\n自由に設定して\nフレンドだけでバトル！
 202	ステージ/キケン度を\n自由に設定して\nフレンドだけでバイトの練習！
 203	ルール/ステージ/チームを\n自由に設定して\n近くにいる人とバトル！
@@ -8474,8 +9126,13 @@ L_PlayerStatus_01-L_Info_00-T_Info_00	評価リセット
 L_GuideReward_00-T_Info_00	ほうしゅうとポイント
 T_Stage_02	ステージ
 T_Wpn_01	支給ブキ
-L_Btn_00-T_Title_00	トリカラアタック
+L_HighScore_00-T_Score_00	ハイスコア
+L_GuideManual_01-T_Info_00	ルール確認
+L_Btn_00-T_Title_00	トリカラマッチ
 501	所属チームが中間１位のため選べません\nトリカラバトルは、フェスマッチ（オープン）で\n発生することがあります
+600	計測中… {[0200|00010000]}/{[0200|01010000]}
+601	Xパワー ： {[0200|00040000]}.{[0200|01010000]}
+610	推定 {[0200|00040000]}位
 T_VS_00	VS
 L_PlayerStatus_00-L_Choushi_00-T_FestPow_00	こうけん度
 L_PlayerStatus_00-L_Choushi_00-T_FestPowCount_00	計測中…
@@ -8504,11 +9161,12 @@ LayoutMsg\Lobby_Password_00.msbt
 000	{color[0100]}レギュラーマッチ{color[ffff]}の部屋を作りますか？
 001	{color[0100]}バンカラマッチ{color[ffff]}の部屋を作りますか？
 005	{color[0100]}フェスマッチ{color[ffff]}の部屋を作りますか？
-006	{color[0100]}トリカラアタック{color[ffff]}の部屋を作りますか？
+006	{color[0100]}トリカラマッチ{color[ffff]}の部屋を作りますか？
 008	{color[0100]}バイト{color[ffff]}の部屋を作りますか？
 002	{color[0100]}プライベートマッチ{color[ffff]}の部屋を作りますか？
 003	{color[0100]}SALMON RUN {color[ffff]}の部屋を作りますか？
 009	{color[0100]}プライベートバイト{color[ffff]}の部屋を作りますか？
+011	{color[0100]}ビッグラン{color[ffff]}の部屋を作りますか？
 004	このパスワードで合流しますか？
 010	{[0200|00040100]}
 T_Password_02	パスワードなし
@@ -8520,6 +9178,8 @@ T_VoiceChat_01	ボイスチャット OFF
 041	パスワード設定
 040	パスワードリセット
 L_VoiceChatBtn_00-T_Info_00	ボイスチャット ON/OFF
+L_NameBtn_00-T_Info_00	別名設定
+050	別名： {[0201|000a]}
 LayoutMsg\Lobby_ResultClearance_00.msbt
 000	昇格おめでとう！！
 001	挑戦終了！
@@ -8547,6 +9207,9 @@ T_Msg_02	ウデマエアップ！！
 102	昇格戦
 110	{[0200|00030000]}{size[4600]}p{size[6400]}
 T_Msg_01	バンカラマッチ（チャレンジ）で\n{color[0100]}昇格戦{color[ffff]}に挑戦できるぞ！
+T_XPowerTitle_00	Xパワー
+210	+{[0200|00020000]}.{[0200|01010000]}
+211	-{[0200|00020000]}.{[0200|01010000]}
 LayoutMsg\Lobby_ResultDialogue_00.msbt
 000	＋{[0200|00040000]}
 001	×{[0200|00010000]}.{[0200|01010000]}
@@ -8558,6 +9221,8 @@ LayoutMsg\Lobby_ResultDialogue_00.msbt
 020	バトル
 021	塗り\n{[0200|00040000]}pクリア！
 022	おそろい\nボーナス
+023	攻撃ボーナス
+024	守備ボーナス
 100	１０倍マッチ
 101	１００倍マッチ
 102	３３３倍マッチ
@@ -8572,6 +9237,12 @@ T_Get_01	持っている数
 T_Max_00	MAX
 T_Open_00	フェスマッチ（オープン）
 T_Challenge_00	フェスマッチ（チャレンジ）
+T_Progress_00	Xパワー 計測中…
+T_Rank_00	計測完了！！
+T_NumProgress_01	/５
+T_XRankTitle_00	現在の順位
+T_XRankTitle_01	推定
+200	{[0200|00040000]}位
 LayoutMsg\Lobby_ResultReward_00.msbt
 000	＋{[0200|00040000]}
 001	タイムボーナス\n{[0200|00010000]}min
@@ -8695,9 +9366,12 @@ L_Win_00-T_Mic_00	ボイスチャット ON
 102	レギュラーマッチ
 103	バンカラマッチ{size[4b00]}（オープン）{size[6400]}
 105	フェスマッチ
-106	トリカラアタック
+106	トリカラマッチ
+107	ビッグラン
 200	{[0201|000e]} {[0200|00030000]}
 L_Win_00-T_Wpn_00	支給ブキ
+L_Win_00-L_Key_02-T_Info_00	別名設定
+210	別名： {[0201|000a]}
 LayoutMsg\Mng_BaseTry_00.msbt
 T_Rotate_00	回転
 T_Back_00	もどる
@@ -9112,7 +9786,10 @@ L_Back_00-T_Info_00	もどる
 L_BtnMyset_00-T_Btn_00	ギアを覚えてもらう方法
 L_BtnCamera_00-T_Btn_00	いっしょに写真をとる方法
 LayoutMsg\Plz_FestText_00.msbt
-000	{[0201|0010]} - {[0201|0110]} 開催
+000	{d} - {[0201|0100]} 開催
+100	３３３倍マッチ WINNER!!!
+101	１００倍マッチ WINNER!
+102	１０倍マッチ WINNER!
 LayoutMsg\Plz_GearOrder_00.msbt
 000	{[0400|00000000]}のそうび
 T_Delivery_03	注文リスト
@@ -9203,6 +9880,7 @@ L_Btn_02-T_Btn_00	OK!
 L_BtnTeamC_00-T_ATitle_00	中間
 L_BtnTeamC_00-T_ARanking_00	１位
 L_GuideRule_01-T_Info_00	もどる
+L_Btn_03-T_Btn_00	オミコシに乗る！
 LayoutMsg\Plz_SelectMenu_00.msbt
 L_Btn_00-T_WhiteText_00	注文の受け取り
 L_Btn_01-T_WhiteText_00	ギアのレア度アップ
@@ -9231,11 +9909,12 @@ LayoutMsg\Plz_TopicNews_00.msbt
 002	得票率
 003	こうけん度
 004	最終結果！
-T_Msg_00	ゲームを 快適に遊んでいただけるよう、\n一部 ゲーム内容を修正しました\nくわしくは スプラトゥーン3の\n公式サイトを ご覧ください
+005	{[0200|00030000]}以上
 T_Match_00	レギュラーマッチ
 T_Match_01	バンカラマッチ{size[4b00]}（チャレンジ）{size[6400]}
 T_Match_06	バンカラマッチ{size[4b00]}（オープン）{size[6400]}
-T_Match_04	トリカラアタック
+T_Match_02	Xマッチ
+T_Match_04	トリカラマッチ
 T_Match_05	フェスマッチ
 L_FestA_00-T_Top_00	中間
 L_FestA_00-T_Top_01	１位
@@ -9243,17 +9922,28 @@ T_TypeFest_00	ヨビ祭
 T_FestTitle_01	こうけん度
 T_Rule_00	オープン
 T_Rule_01	チャレンジ
+T_Rule_02	トリカラマッチ
 L_FestResult_00-T_Title_02	オープン
 L_FestResult_00-T_Title_03	チャレンジ
+L_FestResult_00-T_Title_04	トリカラマッチ
 L_FestResult_00-T_Title_01	得票率
 L_FestA_00-T_Point_00	p
-L_FestResult_00-T_Num_00	10
-L_FestResult_00-T_Num_02	15
+L_FestResult_00-T_Num_00	８
+L_FestResult_00-T_Num_01	１０
+L_FestResult_00-T_Num_02	１２
+L_FestResult_00-T_Num_03	１２
+L_FestResult_00-T_Num_04	１５
 L_FestResult_00-T_Point_00	p
 L_FestResult_00-T_Title_00	ヨビ祭
 L_FestA_00-T_Unit_00	%
 L_FestA_02-T_Unit_00	p
 L_FestA_02-T_WinNum_00	勝利！
+T_Msg_00	ゲームを 快適に遊んでいただけるよう、\n一部 ゲーム内容を修正しました\nくわしくは スプラトゥーン3の\n公式サイトを ご覧ください
+T_SeasonInfo_00	新シーズン開幕！
+T_Top_00	上位
+T_NumTop_00	５％
+T_NumTop_01	２０％
+T_NumTop_02	５０％
 LayoutMsg\Plz_WindowDrawn_01.msbt
 T_Yeah_00	イカす！
 T_Report_00	通報
@@ -9271,11 +9961,17 @@ LayoutMsg\Plz_WinTalkNews_00.msbt
 009	フェス中間発表
 010	フェス終了！
 011	フェス結果発表
+012	ビッグラン警報発令！
+013	ビッグラン発生中！
+014	ビッグラン終了！
+015	ビッグラン結果発表
 T_NameR_00	ウツホ
 T_NameL_00	フウカ
 T_NameC_00	マンタロー
 100	ラジオで聞く
 101	スキップ
+200	x{[0200|00040000]}
+L_HighScore_00-T_Score_00	あなたのハイスコア
 LayoutMsg\Replay_Main_00.msbt
 000	一時停止
 001	再生
@@ -9381,6 +10077,7 @@ L_Item_00-T_SoldOut_00	売り切れ
 L_ItemDetail_03-T_Owns_00	持っている数
 L_BtnSelectNum_00-T_Btn_00	買う！
 L_ZakkaPrev_00-T_SoldOut_00	売り切れ
+L_KeyIcon_03-T_Info_00	ブキの説明
 LayoutMsg\Shr_Points_00.msbt
 000	{[0200|00030000]}.{[0200|01010000]}
 LayoutMsg\Shw_Thanks_00.msbt
@@ -9395,7 +10092,12 @@ LayoutMsg\Tml_Contents_00.msbt
 031	このバトルメモリーをアップロードしますか？
 040	ダウンロードする！
 041	このバトルメモリーをダウンロードしますか？
+050	削除する！
+051	このバイトシナリオを削除しますか？
+060	保存する！
+061	このバイトシナリオを保存しますか？
 T_Title_00	プレイヤー名登録
+T_Title_01	バイトシナリオ
 T_Name_00	name
 T_Text_00-Text_01	プレイヤー名を変更すると、\nそれから３０日間は変更できなくなります
 T_Text_00-Text_02	新しいプレイヤー名は これでよろしいですか？
@@ -9405,15 +10107,16 @@ L_Btn_01-T_Text_01	変更する！
 L_Btn_01-T_Text_02	OK!
 T_Title_02	コード入力
 T_Text_02	１６ケタのコードを入力して\nバトルメモリーを受け取ることができます
+T_Text_03	１６ケタのコードを入力して\nバイトシナリオを受け取ることができます
 L_Btn_02-T_Text_00	OK！
 L_BtnCode_00-T_Name_00	code
 T_Title_04	バトルメモリー
 T_Wpn_00	支給ブキ
+T_LevelTitle_00	キケン度
 LayoutMsg\Tml_CoopReward_00.msbt
 000	もどる
 100	{[0200|00060000]}p
 200	×{[0200|00040000]}
-L_RewardMeter_00-T_Get_00	Get!!
 T_Reward_00	ほうしゅうメーター
 T_limitedTime_00	今月のギア
 T_Uroko_00	ウロコ
@@ -9432,14 +10135,40 @@ L_BtnBack_00-T_Info_00	もどる
 T_LevelTitle_00	キケン度
 L_BtnReport_00-T_Info_00	通報
 001	最近のバイト
+002	保存したバイトシナリオ
+010	バイトシナリオを保存
+011	削除する
+020	{[0200|00020000]}/{[0200|01020000]}
 L_BtnScoreScenario_00-T_Result_00	Failure
 L_BtnScoreScenario_00-T_Result_01	Clear!!
 L_Wave_00-T_Result_00	GJ!
 L_Wave_00-T_Result_01	NG
+L_WaveScenario_00-T_Result_00	GJ!
+L_WaveScenario_00-T_Result_01	NG
 100	時間切れ
 101	ゼンメツ！
 L_PlayerScore_00-T_MSign_03	x
+L_PlayerScenario_00-T_MSign_00	x
+030	干潮
+031	普通
+032	満潮
 050	＜{[0200|00030000]}＞
+060	----/--/--  --:--
+061	---
+062	---
+070	＋{[0200|00010000]}
+T_HighScore_00	ハイスコア
+T_ScenarioPlay_00	このバイトシナリオは まだ遊んでいません
+T_Version_00	ver.
+T_VersionMsg_00	バイトシナリオのバージョンが古いため、\nゲーム内容が変化している場合があります
+Rush	ラッシュ
+Geyser	キンシャケ探し
+Dozer	グリル発進
+Hakobiya	ハコビヤ襲来
+Fog	霧
+Missile	ドスコイ大量発生
+Relay	巨大タツマキ
+Tamaire	ドロシャケ噴出
 LayoutMsg\Tml_Home_00.msbt
 000	アイテムゲット
 010	メモリープレーヤー
@@ -9450,6 +10179,9 @@ LayoutMsg\Tml_Home_00.msbt
 051	プレイヤー名変更
 060	フェス地域変更
 400	とじる
+L_CoopContents_00-T_Contents_00	バイト記録
+L_CoopContents_01-T_Contents_00	バイトシナリオ一覧
+L_CoopContents_02-T_Contents_00	コード入力
 LayoutMsg\Tml_ReplayScore_00.msbt
 000	{[0200|00040000]} p
 001	{[0200|00020000]}カウント
@@ -9518,8 +10250,20 @@ LayoutMsg\Tml_Window_00.msbt
 041	このバトルメモリーはダウンロード済みです
 042	バトルメモリーをダウンロードしました
 043	バトルメモリーのダウンロードに失敗しました
+044	バトルメモリーのバージョンが古いため\nダウンロードできません
+045	このコードは バトルメモリー用です\nロビーにある{color[0100]}ロビー端末{color[ffff]}から入力してください
+046	このコードは バイトシナリオ用です\nクマサン商会にある{color[0100]}クマサン端末{color[ffff]}から入力してください
 050	{[0201|000c]} まで\nフェスの地域を変更することはできません
 060	もらえるアイテムが ありません
+070	バイトシナリオがありません\nバイトシナリオは バイト記録やコード入力から\n保存することができます
+071	保存できるバイトシナリオは ５０件までです\nバイトシナリオ一覧から削除すると 新しく保存できます
+072	保存できるバイトシナリオは ５０件までです\nバイトシナリオ一覧から削除すると 新しく保存できます
+080	このバイトシナリオは保存済みです
+081	バイトシナリオを削除しました
+082	バイトシナリオを保存しました\n保存したバイトシナリオは プライベートバイトで遊ぶことができます
+083	バイトシナリオの保存に失敗しました
+084	ビッグランのバイトシナリオは保存できません
+085	バージョンが 2.0.0より前のバイトシナリオは\n保存できません
 T_Name_00	name
 L_Btn_00-T_Info_00	OK
 LayoutMsg\Tuto_CircleTimer_00.msbt
@@ -9604,6 +10348,8 @@ LayoutMsg\VS_Beaten_00.msbt
 999	{[0401|00000000]} で\nやられた！
 LayoutMsg\VS_BeatMessage_00.msbt
 000	{[0400|00000000]} をたおした！
+LayoutMsg\VS_BgmName_00.msbt
+000	♪ {[0413|00000000]} / {[0414|00000000]}
 LayoutMsg\VS_Caution_00.msbt
 T_Msg_00	通信状況が不安定になっています
 LayoutMsg\VS_Emote_00.msbt
@@ -9660,8 +10406,13 @@ T_Rule_01	ルール
 T_FestA_00	１０倍マッチ
 005	１００倍マッチ
 006	３３３倍マッチ
+007	スーパーシグナルをうばって\nたくさんナワバリを確保しろ！
+008	スーパーシグナルを守って\nたくさんナワバリを確保しろ！
+100	攻撃チーム
+101	守備チーム
+102	１.５倍ボーナス！
+103	１.５倍ボーナス！
 T_Rule_04	ルール
-T_TriRule_00	スーパーシグナルをうばって\nたくさんナワバリを確保しろ！
 T_TriGame_00	トリカラ\nバトル
 LayoutMsg\VS_TeamPow_00.msbt
 000	チームの連勝数：{[0200|00020200]}

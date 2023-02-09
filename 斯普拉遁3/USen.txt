@@ -13,16 +13,23 @@ Msg_Inappropriate_Nickname_Error	You cannot use this nickname. You must\nchange 
 Msg_Server_Maintenance_Error	Sorry to burst your bubble, but server\nmaintenance is about to begin. You won't\nbe able to start new online battles until\nit's done. Back to Splatsville for now!
 Msg_Session_May_Closed_Error	Sorry, but player recruitment for this room has\nalready ended.
 Msg_Target_Session_Is_Lost_Error	Sorry, but the room you are trying to join\nhas already been closed.
+Msg_Other_Player_Disconnected_Error	One or more players disconnected.
 CommonMsg\Dev.msbt
 BugReportContent	――――\n■手順 / Procedures\n1.\n2.\n3.\n\n■結果 / Result\n\n■試行回数 / Number of attempts\nX/X\n\n■備考 / Remarks\n\n――――
 CommonMsg\EmoteName.msbt
 FeelingWarm00	No Chill
+Shivering00	All Chill
 Win_Weapon03	Flip Out
 Win04	Stuntin'
+Win07	Robo Steppin'
 Win08	Breakin'
 Win13	Victory Strut
+Win14	Your Move
 Win15	Double-Cross Dab
+Win20	You're Welcome
 Crouching00	The Lowdown
+SittingCrossedLegs	Who's Next?
+WaveHands	Wave 'Em Off
 NwBtl00	Card Shark
 Win_Tricol	Win_Tricol
 CommonMsg\FestRegion.msbt
@@ -64,6 +71,7 @@ GoodsShop	Harmony
 FoodShop	Crusty Sean
 Vendor	Murch
 Dolphin	O.R.C.A.
+Mother	Marigold
 MotherFoodShop	Staff
 MotherWalk	Recon Guide
 MotherMiniGame	Staff
@@ -79,8 +87,11 @@ IdolGroup_01	Squid Sisters
 IdolGroup_02	Off the Hook
 IdolGroup_03	Deep Cut
 Band01	Squid Squad
+SquidSpawn	Squid Spawn
 SquidRoll	Squid Roll
 SquidSurge	Squid Surge
+RoeThrow	Egg Throw
+MiniGameTitle	Tableturf Battle
 MiniGameRank	Tableturf Rank
 CardPack	pack of cards
 SpecialPoint	Special Point
@@ -92,11 +103,24 @@ MiniGameKurage1	Cool Jelly
 MiniGameKurage2	Aggro Jelly
 MiniGameKurage3	Clone Jelly
 Shakeup	Spawning Grounds
+Shakeship	Marooner's Bay
 Shakespiral	Sockeye Station
 Shakedent	Gone Fission Hydroplant
+RoeContainer	egg basket
 RoeCannon	egg cannon
 SakeArtilleryCannon	Big Shot launcher
+BigRun	Big Run
 Uroko	fish scales
+SakeBigBossGauge	Salmometer
+CoopScenario	job scenario
+CoopEvent_Rush	Rush
+CoopEvent_Fog	Fog
+CoopEvent_Dozer	The Griller
+CoopEvent_Missile	Cohock Charge
+CoopEvent_Geyser	Goldie Seeking
+CoopEvent_Hakobiya	The Mothership
+CoopEvent_Tamaire	Mudmouth Eruptions
+CoopEvent_Relay	Giant Tornado
 SakelienStandard	Chum
 SakelienLarge	Cohock
 SakelienSmall	Smallfry
@@ -116,15 +140,18 @@ SakeSaucer	Slammin' Lid
 SakePillar	Fish Stick
 SakeDolphin	Flipper-Flopper
 SakeArtillery	Big Shot
-SakelienGiant	Cohozuna
 SakeTamaire	Mudmouth
 SakeBigBoss	King Salmonid
+SakelienGiant	Cohozuna
 Msn_EnmOctTrooper_01	Octotrooper
+Msn_EnmOctTrooper_02	Shielded Octotrooper
 Msn_EnmOctTrooper_03	Twintacle Octotrooper
 Msn_EnmOctTrooper_13	Octohopper
 Msn_EnmOctCopter_01	Octocopter
 Msn_EnmOctCopter_03	Octodisco
+Msn_EnmOctCopter_04	Octobomber
 Msn_EnmOctPod_01	Octopod
+Msn_EnmOctPod_02	Oversized Octopod
 Msn_EnmOctEscape_01	Tentakook
 Msn_EnmOctStamp_01	Octostamp
 Msn_EnmOctStamp_02	Amped Octostamp
@@ -137,6 +164,8 @@ Msn_EnmOctBaller_01	Octoballer
 Msn_EnmOctCleaner_01	Squee-G
 Msn_EnmOctFlooder_01	Flooder
 Msn_AreaOfAlternative	site
+Msn_ZapfishGiant	Great Zapfish
+Msn_ZapfishNormal	Zapfish
 Msn_ZapfishReplica	stuffed Zapfish
 Msn_Archives_01	Sunken Scroll
 Msn_Drone	Shel-drone
@@ -155,6 +184,7 @@ Msn_JumpPoint	launchpad
 Msn_CourseObj_04	splat switch
 Msn_CourseObj_05	ink switch
 Msn_CourseObj_06	balloon fish
+Msn_CourseObj_07	sponge
 Msn_CourseObj_10	gusher
 Msn_CourseObj_11	inkfurler
 Msn_CourseObj_12	propeller
@@ -170,9 +200,16 @@ Msn_CourseObj_22	propellervator
 Msn_BreakableObj_08	fail balloon
 Msn_BreakableObj_09	target
 Msn_ObstacleObj_02	ink stick
+Msn_ObstacleObj_03	Sprinkler
+Msn_ObstacleObj_04	Toxic Mist
+Msn_ObstacleObj_05	Splash Wall
 UdemaePoint	Rank Points
 UdemaePoint_00	Rank-Up Battle
 BattleMemory	battle replay
+XRanking	X Rankings
+XRegionGroup	Division
+VS_Obj_01	target
+VS_Obj_03	Splat Zone
 VS_Obj_04	Tower Control
 VS_Obj_05	Rainmaker
 VS_Obj_10	power clam
@@ -182,14 +219,18 @@ FesPoint	Splatfest Points
 Fes100Person	Top 100
 TrumpetShell	conch shell
 FestivalShell	festival shell
+FesFloat	Splatfest Float
 FesPhase_01	Splatfest Sneak Peek
 FesPhase_02	Splatfest Main Event
 TricolorSignal	Ultra Signal
 TricolorTreasure	Sprinkler of Doom
 ModeMission	Story Mode
+Plz_Obj_01	Splatfest Pledge Box
+Lobby_Obj_01	battle pot
 Lobby_Obj_02	lobby terminal
 Lobby_Obj_03	copy machine
 PlayerAvatar	ghosts
+Grizzco_Obj_01	Grizzco terminal
 WeaponLicense	Sheldon License
 WeaponLicenseGold	Gold Sheldon License
 SDServiceName	SplatNet 3
@@ -205,12 +246,14 @@ CommonMsg\MatchMode.msbt
 Regular	Regular Battle
 Bankara	Anarchy Battle {size[4b00]}(Series){size[6400]}
 BankaraOpen	Anarchy Battle {size[4b00]}(Open){size[6400]}
+XMatch	X Battle
 Private	Private Battle
 FestRegular	Splatfest Battle {size[4b00]}(Open){size[6400]}
 FestChallenge	Splatfest Battle {size[4b00]}(Pro){size[6400]}
 FestTriColor	Tricolor Battle
 Coop	Salmon Run
 CoopPrivate	Private Job
+CoopBigRun	Big Run
 MiniGame	Tableturf Battle
 CommonMsg\PictFontRef.msbt
 Tuto_B	{[0301|0000204000000000]}
@@ -311,6 +354,8 @@ System_WeaponLicenseGold	{[031d|f6285c3f00000000]}
 Mng_SpecialMass	{[0329|14ae473f00000000]}
 Mng_SpecialMass_Op	{[032a|14ae473f00000000]}
 Result_WeaponLicense	{[031c|295c4f3f00000000]}
+X_YakoLeague	{[032c|0000803f00000000]}
+X_AromeLeague	{[032b|0000803f00000000]}
 CommonMsg\RegionLanguageID.msbt
 JPja	Japanese
 USen	English
@@ -325,7 +370,7 @@ Summer	Sizzle Season
 Autumn	Drizzle Season
 Winter	Chill Season
 CommonMsg\UnitName.msbt
-Identifier	#{[0201|0010]}
+Identifier	#{d}
 VSTimer	{[0200|00020000]}:{[0200|01020100]}
 MsnTimer_MinSec	{[0200|00020200]}:{[0200|01020100]}
 MinSec_1Digit	{[0200|00010000]}:{[0200|01020100]}
@@ -358,7 +403,7 @@ DateTime01	{[0200|01020000]}/{[0200|02020000]}/{[0200|00040000]} {[0200|03020000
 DateTime02	{[0200|00020000]}/{[0200|01020000]} ({[0410|02000000]}) {[0200|03020000]}:{[0200|04020100]}
 Date01	{[0200|01020000]}/{[0200|02020000]}/{[0200|00040000]}
 Time00	{[0200|00020000]}:{[0200|01020100]}
-ScheduleTerm	{[0201|0010]} - {[0201|0110]}
+ScheduleTerm	{d} - {[0201|0100]}
 MsnStageNo	No. {[0200|00020000]}
 UdemaePoint	{[0200|00050000]}p
 UdemaePointGoal	NEXT: {[0200|00040000]}p
@@ -371,6 +416,12 @@ CatalogSeason	{[040c|01000000]} {[0200|00040000]}
 FestPowCount	{[0200|00010000]}/{[0200|01010000]}
 NumFestPowNow	Current: {[0200|00040000]}.{[0200|01010000]}
 NumFestPowMax	Highest: {[0200|00040000]}.{[0200|01010000]}
+XPower	{[0200|00040000]}.{[0200|01010000]}
+Hyphen2	--
+CardGameWin_Singular	Win
+CardGameWin_Prural	Wins
+BigRunHighScore	x{[0200|00040000]}
+StatusXPower	X Power: {[0200|00040000]}.{[0200|01010000]}
 Sunday	Sun.
 Monday	Mon.
 Tuesday	Tues.
@@ -378,9 +429,6 @@ Wednesday	Wed.
 Thursday	Thur.
 Friday	Fri.
 Saturday	Sat.
-Hyphen2	--
-CardGameWin_Singular	Win
-CardGameWin_Prural	Wins
 CommonMsg\Badge\BadgeMsg.msbt
 Mission_Lv00	DJ Octavio Defeated!
 Mission_Lv01	Story Mode Cleared!
@@ -405,6 +453,9 @@ WinCount_Tcl_Def_Lv01	10 Tricolor Turf War Wins - Defender
 Udemae_Lv00	A Rank Reached!
 Udemae_Lv01	S Rank Reached!
 Udemae_Lv02	S+ Rank Reached!
+XRank_Lv00	Top 3,000 in X Battle!
+XRank_Lv01	Top 500 in X Battle!
+XRank_Lv02	Top 10 in X Battle!
 WeaponLevel_Lv00	4★ {[0401|00000000]} User
 WeaponLevel_Lv01	5★ {[0401|00000000]} User
 WinCount_WeaponSp_Lv00	30 Wins with {[0401|00000000]}
@@ -449,12 +500,23 @@ OrderFood_Lv01	Ordered 100 Concessions
 OrderFood_Lv02	Ordered 1,000 Concessions
 OrderVendor_Lv00	10 Murch Orders
 OrderVendor_Lv01	100 Murch Orders
+SpendLottery_Lv00	Spent 300,000 Cash on the Shell-Out Machine
+SpendLottery_Lv01	Spent 3,000,000 Cash on the Shell-Out Machine
+SpendLottery_Lv02	Spent 30,000,000 Cash on the Shell-Out Machine
+LimitedRewardLottery_Lv00	Hit the Shell-Out Machine Jackpot 4 Times
+LimitedRewardLottery_Lv01	Hit the Shell-Out Machine Jackpot 8 Times
+LimitedRewardLottery_Lv02	Hit the Shell-Out Machine Jackpot 16 Times
+CoopBigRunTrophy_Lv00	Top 50% in Big Run!
+CoopBigRunTrophy_Lv01	Top 20% in Big Run!
+CoopBigRunTrophy_Lv02	Top 5% in Big Run!
 CommonMsg\Byname\BynameAdjective.msbt
 0000	Scorch Gorge
 0001	Eeltail Alley
 0002	Hagglefish Market
 0003	Undertow Spillway
 0005	Mincemeat Metalworks
+0006	Brinewater Springs
+0007	Flounder Heights
 0008	Hammerhead Bridge
 0009	Museum d'Alfonsino
 0010	Mahi-Mahi Resort
@@ -463,6 +525,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 0013	MakoMart
 0014	Wahoo World
 0040	Spawning Grounds
+0041	Marooner's Bay
 0045	Sockeye Station
 0046	Gone Fission Hydroplant
 0060	Regular Battle
@@ -470,6 +533,8 @@ CommonMsg\Byname\BynameAdjective.msbt
 0062	Private Battle
 0063	Story Mode
 0064	Salmon Run
+0065	X Battle
+0067	Tricolor Battle
 0100	Inkless
 0101	Clocked-Out
 0102	Attention-Seeking
@@ -987,7 +1052,10 @@ CommonMsg\Byname\BynameAdjective.msbt
 0720	Virtual
 0721	Half
 0722	Microscopic
+2002	Monochrome
+2003	Long-Sleeved
 2500	Super-Duper Lucky
+2501	Super-Rare
 3000	Splatlandian
 3001	Indian Ocean
 3002	North Atlantic
@@ -1008,6 +1076,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 3200	Fun
 3201	The Strongest
 3300	Crusty
+3301	Saddle-Straddlin'
 CommonMsg\Byname\BynameSubject.msbt
 0000_0	Sploosh-o-matic User
 0000_1	{[0102]}
@@ -1117,6 +1186,12 @@ CommonMsg\Byname\BynameSubject.msbt
 0052_1	{[0102]}
 0053_0	E-liter 4K Scope User
 0053_1	{[0102]}
+0054_0	Splattershot Nova User
+0054_1	{[0102]}
+0055_0	Big Swig Roller User
+0055_1	{[0102]}
+0056_0	Snipewriter 5H User
+0056_1	{[0102]}
 0100_0	Splat Bomb User
 0100_1	{[0102]}
 0101_0	Suction Bomb User
@@ -1235,6 +1310,10 @@ CommonMsg\Byname\BynameSubject.msbt
 0190_1	{[0102]}
 0191_0	C-Side Superfan
 0191_1	{[0102]}
+0192_0	Front Roe Fan
+0192_1	{[0102]}
+0193_0	Damp Socks Fan
+0193_1	{[0102]}
 0220_0	Hippie
 0220_1	{[0102]}
 0221_0	Barber
@@ -2084,8 +2163,14 @@ CommonMsg\Byname\BynameSubject.msbt
 0729_1	Duchess
 0730_0	Celebrity
 0730_1	{[0102]}
+2002_0	Recollection
+2002_1	{[0102]}
+2003_0	Stylist
+2003_1	{[0102]}
 2500_0	Lucky Duck
 2500_1	{[0102]}
+2501_0	Protected Species
+2501_1	{[0102]}
 3000_0	Youth
 3000_1	{[0102]}
 3001_0	Squid
@@ -2126,6 +2211,8 @@ CommonMsg\Byname\BynameSubject.msbt
 3201_1	{[0102]}
 3300_0	Traveler
 3300_1	{[0102]}
+3301_0	Cyclist
+3301_1	{[0102]}
 CommonMsg\Coop\CoopEnemy.msbt
 SakelienStandard	Chum
 SakelienLarge	Cohock
@@ -2162,7 +2249,7 @@ Grade_Arbeiter_00	Apprentice
 Grade_Arbeiter_01	Part-Timer
 Grade_Arbeiter_02	Go-Getter
 Grade_Arbeiter_03	Overachiever
-Grade_Arbeiter_04	Profreshional Part-Timer
+Grade_Arbeiter_04	Profreshional
 Grade_Arbeiter_05	Profreshional +1
 Grade_Arbeiter_06	Profreshional +2
 Grade_Arbeiter_07	Profreshional +3
@@ -2177,7 +2264,9 @@ COP006	Black Slopsuit
 COP007	White Slopsuit
 CommonMsg\Coop\CoopStageName.msbt
 Shakeup	Spawning Grounds
+Shakeship	Marooner's Bay
 Shakespiral	Sockeye Station
+Carousel	Wahoo World
 Shakedent	Gone Fission Hydroplant
 Tutorial	Sockeye Station
 Unknown	???
@@ -2219,6 +2308,9 @@ Gear_Clothes_01	Now go show off your style in a multiplayer battle!
 Gear_Shoes_00	{[0402|00000000]}!
 Gear_Shoes_01	Now go show off your style in a multiplayer battle!
 LockerFigure_00	You got a decoration!
+LockerFigure_Bronze_00	You got a bronze decoration!
+LockerFigure_Silver_00	You got a silver decoration!
+LockerFigure_Gold_00	You got a gold decoration!
 LockerFigure_Plural_00	You got some decorations!
 LockerFigure_01	Time to freshen up your locker!
 LockerSticker_00	You got a sticker!
@@ -2253,12 +2345,17 @@ Catalog1st_00	You got a catalog!
 Catalog1st_01	Earn Catalog Points in battle or on the job\nto get your hands on inkredible items!
 Catalog_00	Got a catalog (this makes {[0200|00040000]})!
 Catalog_01	Earn Catalog Points in battle or on the job\nto get your hands on inkredible items!
+NextSeasonCatalog_00	You got the new catalog!
+NextSeasonCatalog_01	Your old catalog has been recycled.
 GoldWeaponLicense_00	Gold Sheldon Licenses: {[0200|00020000]}!
 GoldWeaponLicense_01	Bring these to Ammo Knights to get new weapons!
 BankaraMatchUnlock_00	Anarchy Battles unlocked!
 BankaraMatchUnlock_01	Join one from the battle pot!
+XMatchUnlock_00	You unlocked X Battles!
+XMatchUnlock_01	Head to the battle pot, and give one a try!
 LockerPhotoFrame_00	You got a photo stand!
 LockerPhotoFrame_01	Now you can show off your favorite picture!
+RankInReward_00	Sweet ranking! Congrats!
 MsnWeaponBufDocument_00	You got Sardinium!
 MsnWeaponBufDocument_01	You can use that to upgrade your Hero Gear!\nPress {[0302|0000803f00000000]} to open the upgrade menu.
 MsnGoldDisk_00	You got a gold record!
@@ -2284,6 +2381,8 @@ Page_MiniGameRank	Earned from Tableturf Battles!
 Page_Trigger	A Gift from SplatNet 3!
 Page_Trigger_Plu	Gifts from SplatNet 3!
 Page_CatalogLevel	Catalog Level Up!
+Page_SeasonReset	You Got Your Unclaimed Rewards!
+Page_Aoc	You Got DLC Rewards!
 CommonMsg\Gear\GearBrandName.msbt
 B00	SquidForce
 B01	Zink
@@ -2306,8 +2405,10 @@ B97	Grizzco
 B98	Cuttlegear
 B99	amiibo
 CommonMsg\Gear\GearName_Clothes.msbt
+FST001	Basic Tee
 TES000	White Tee
 TES001	Black Squideye
+TES003	Sky-Blue Squideye
 TES004	Rockenberg White
 TES005	Rockenberg Black
 TES006	Black Tee
@@ -2319,13 +2420,20 @@ TES018	Pirate-Stripe Tee
 TES019	Sailor-Stripe Tee
 TES020	White 8-Bit FishFry
 TES021	Black 8-Bit FishFry
+TES026	Carnivore Tee
+TES028	Octo Tee
+TES029	Herbivore Tee
 TES030	Black V-Neck Tee
 TES035	White V-Neck Tee
+TES047	Annaki Polpo-Pic Tank
+TES048	Firewave Tee
+TES049	Takoroka Galactic Tie Dye
+TES050	Takoroka Rainbow Tie Dye
+TES055	Icewave Tee
 TES063	Tri-Shred Tee
 TES064	Tentatek Tandem
 TES066	Annaki Choker Tee
 TES067	Annaki Bracelet Tee
-TES088	Eelzebub Tee
 TES069	Blue Retro Tee
 TES070	Tan Retro Tee
 TES071	Barazushi Wrap
@@ -2339,9 +2447,12 @@ TES082	Pineapple Ringer
 TES083	Apple Ringer
 TES084	Vaporwave Tee
 TES085	Duskwave Tee
+TES088	Eelzebub Tee
 TES090	Lime BlobMob Tee
 TES091	Berry BlobMob Tee
 TEL004	Zekko Baseball LS
+TEL015	Annaki Drive Tee 
+TEL026	Ink-Black Tangle Top
 TLY000	White Layered LS
 TLY001	Yellow Layered LS
 TLY004	Zink Layered LS
@@ -2354,11 +2465,15 @@ PLO009	Rugby King 10
 PLO010	Rugby King 08
 JKT000	Olive Ski Jacket
 JKT001	Takoroka Nylon Vintage
+JKT003	Varsity Jacket
+JKT005	Green Cardigan
 JKT006	Black Inky Rider
+JKT010	Forge Inkling Parka
 JKT014	Squid Satin Jacket
 JKT015	Zapfish Satin Jacket
 JKT019	Matcha Down Jacket
 JKT023	Kensa Coat
+JKT036	Dark Bomber Jacket
 JKT045	Arctic Monster Parka
 JKT046	Barazushi Anorak
 JKT047	Patchwork Bomber
@@ -2367,16 +2482,25 @@ JKT049	Ink-Black Paddle Jack
 JKT050	Orca Bolero
 JKT051	Cream Tundra Fleece
 JKT054	Dusty Field Jacket
+JKT055	Light-Bright Paddle Jack
+JKT056	Penguin Bolero
+JKT057	Barazushi Tuff Duffel
+JKT060	Lime Ski Jacket
 TNK000	B-ball Jersey (Home)
 TNK003	White King Tank
 TNK008	Umibozu Home Jersey
 SWT001	Squidmark Sweat
+SWT007	Negative Longcuff Sweater
 SWT010	Annaki Blue Cuff
+SWT013	N-Pacer Sweat
 SWT016	Manatee Swag Sweat
 SWT017	Apex Sweater
 SWT018	Octo Jumper Away
+SWT020	Moby Knit
 SHT000	Lumberjack Shirt
+SHT001	Rodeo Shirt
 SHT003	White Shirt
+SHT004	Urchins Jersey
 SHT005	Aloha Shirt
 SHT012	Logo Aloha Shirt
 SHT017	Hula Punk Shirt
@@ -2385,12 +2509,15 @@ SHT019	Inkfall Shirt
 SHT020	Crimson Parashooter
 SHT024	Chili Octo Aloha
 SHT025	Annaki Flannel Hoodie
+SHT026	Ink-Wash Shirt
 SHT030	Seahorse Shoreliner
 SHT031	Button-Clown Shirt
 SHT033	Business Animal
 SHT034	Fancyfish Stitch
 SHT036	Fashion Splash Shirt
+SHT038	Base White Button Up
 SHT040	Urban Upcycle Top
+VST004	Squid-Pattern Waistcoat
 VST010	Khaki Ranger Vest
 VST011	Red Battlecrab Shell
 VST012	Lime Battlecrab Shell
@@ -2438,24 +2565,33 @@ COP007	White Slopsuit
 CommonMsg\Gear\GearName_Head.msbt
 FST000	White Headband
 CAP000	Urchins Cap
+CAP001	Lightweight Cap
 CAP002	Takoroka Mesh
 CAP003	Streetstyle Cap
+CAP004	Squid-Stitch Cap
 CAP005	Squidvader Cap
 CAP012	Cycling Cap
 CAP020	Hickory Work Cap
 CAP021	Woolly Urchins Classic
+CAP023	Jellyvader Cap
+CAP024	House-Tag Denim Cap
 CAP028	Ink-Black Flap Cap
 CAP036	Wharfside Cap
+NCP001	Short Beanie
 NCP008	Knitted Hat
+NCP009	Annaki Beret
+EYE000	Retro Specs
 EYE001	Splash Goggles
 EYE002	Pilot Goggles
 EYE003	Tinted Shades
-EYE007	Fake Contacts
 EYE008	18K Aviators
 EYE009	Full-Moon Glasses
 EYE011	Half-Rim Glasses
 EYE012	Double Egg Shades
+EYE014	SV925 Circle Shades
+EYE015	Annaki Beret & Glasses
 EYE016	Swim Goggles
+EYE018	Toni Kensa Goggles
 EYE021	Ink-Tinted Goggles
 EYE022	Retro Framers
 EYE023	Glassless Glasses
@@ -2464,9 +2600,12 @@ EYE025	Invisifloats
 EYE026	Moto Shades
 EYE027	Annaki Charms
 EYE029	Retro BluFocals
+EYE031	Hipster Horn-Rims
+HAT003	Blowfish Bell Hat
 HAT004	Bamboo Hat
 HAT006	Classic Straw Boater
 HAT008	Bucket Hat
+HAT010	Tulip Parasol
 HAT015	Classic Bowler
 HAT016	Jean Dream Bucket
 HAT017	Howdy Hat
@@ -2476,14 +2615,24 @@ HDP001	Designer Headphones
 HDP004	Squidlife Headphones
 HDP007	Ocho OctoPhones
 HDP008	Cephalo Pods
+HDP009	Ocho OctoPhones Blancos
 VIS001	FishFry Visor
 VIS003	Takoroka Visor
 VIS004	Face Visor
+MET004	Skate Helmet
+MET006	MTB Helmet
 MET007	Hockey Helmet
+MET009	Octo Tackle Helmet Deco
 MET012	Winkle Stripe Helm
 MET013	Party Hard Hat
 MET014	Home-Team Catcher
+MET016	Scrum Cap
+MSK002	Paisley Bandana
+MSK003	Skull Bandana
+MSK004	Painter's Mask
 MSK005	Annaki Mask
+MSK006	Octoking Facemask
+MSK007	Squid Facemask
 MSK008	Firefin Facemask
 MSK011	Forge Mask
 MSK014	BlobMob Mask
@@ -2522,8 +2671,12 @@ MSN306	Hero Mindset Replica
 MSN310	Legendary Cap
 COP110	Bream-Brim Cap
 COP111	Lo-Vis Visor
+COP112	Five-Alarm Helmet
 COP113	Astro Helm
+COP114	360 All-Scopes
 COP115	Brain Strainer
+COP116	Deep Sinker Helm
+ACC003	Tentaclinger Earring
 COP001	バイトヘルメット オレンジ
 COP002	バイトヘルメット グリーン
 COP003	バイトヘルメット イエロー
@@ -2537,25 +2690,34 @@ CommonMsg\Gear\GearName_Shoes.msbt
 SLO000	Blue Lo-Tops
 SLO008	White 3-Straps
 SLO009	Red 3-Straps
+SLO010	Soccer Shoes
+SLO012	Sunny Climbing Shoes
 SLO021	Wasabi Tabi
 SLO022	Suede Basics
 SLO023	Ink-Black Clam 600s
 SLO024	Suede Bosses
+SLO025	White Clam 600s
 SHI000	Red Hi-Horses
 SHI001	Zombie Hi-Horses
 SHI003	Purple Hi-Horses
 SHI004	Hunter Hi-Tops
 SHI005	Red Hi-Tops
 SHI006	Gold Hi-Horses
+SHI008	Shark Moccasins
+SHI010	Chocolate Dakroniks
 SHI011	Cyan Dakroniks
 SHI016	Sunset Orca Hi-Tops
 SHI017	Red & Black Squidkid IV
 SHI018	Blue & Black Squidkid IV
+SHI025	Red & White Squidkid V
 SHI042	Force ReBoots
 SHI043	Tenya OctoReds
 SHI045	Pearl 01STERs
+SHI046	Zebrafish Hi-Tops
+SHI052	Onyx 01STERs
 SHT000	Pink Trainers
 SHT001	Orange Arrows
+SHT002	Neon Sea Slugs
 SHT004	Cyan Trainers
 SHT009	Black Trainers
 SHT012	Yellow-Mesh Sneakers
@@ -2571,6 +2733,7 @@ SDL001	Choco Clogs
 SDL003	Neon Delta Straps
 SDL004	Black Flip-Flops
 SDL005	Snow Delta Straps
+SDL006	Luminous Delta Straps
 SDL007	Red FishFry Sandals
 SDL008	Yellow FishFry Sandals
 SDL010	Cuttlefish Sandies
@@ -2583,15 +2746,27 @@ TRS000	Trail Boots
 TRS001	Custom Trail Boots
 BOT000	Moto Boots
 BOT001	Tan Work Boots
+BOT002	Red Work Boots
+BOT004	Green Rain Boots
 BOT006	Punk Whites
 BOT007	Punk Cherries
+BOT010	Snowy Down Boots
 BOT012	Hunting Boots
+BOT013	Punk Nights
+BOT019	Blu-Shift Moto Boots
 BOT020	Skipjack Work Boots
 BOT021	Arctic Duck Boots
 BOT023	Red Hammertreads
 BOT025	Punk Pinks
+BOT026	Fuzzy Boots
+SLP000	Blue Slip-Ons
 SLP002	Squid-Stitch Slip-Ons
+LTS000	White Kicks
+LTS003	Squink Wingtips
+LTS005	Kid Clams
+LTS007	Navy Red-Soled Wingtips
 LTS010	Annaki Habaneros
+LTS011	Annaki Tigers
 LTS013	Desert Chukkas
 LTS014	Dark-Roast Boaties
 AMB000	School Shoes + Hi Socks
@@ -2621,6 +2796,7 @@ MSN304	Hero Boots Lv3
 MSN305	Hero Boots ST
 MSN306	Hero Boot Replicas
 MSN310	Legendary Sandals
+TRG000	Fry Tops
 CommonMsg\Gear\GearPowerExp.msbt
 None	Unlock this ability by battling while wearing\nthis gear.
 OpInkEffect_Reduction	Reduces damage taken and improves mobility\nwhen walking through enemy ink.
@@ -2823,6 +2999,10 @@ Fig_LaundryDetergent01	ultra-clean detergent
 Fig_CoopSalmonTower	Stinger
 Fig_CerealBox02	coconut cereal
 Fig_CoopSalmonRocket	Drizzler
+Fig_CoopSalmonBigKing00	base Cohozuna
+Fig_CoopSalmonBigKing01	bronze Cohozuna
+Fig_CoopSalmonBigKing02	silver Cohozuna
+Fig_CoopSalmonBigKing03	gold Cohozuna
 Fig_CoopSalmonGuardian	Scrapper
 Fig_Snack06	crusty snacks
 Fig_Box01L	Cuttlegear crate
@@ -2922,6 +3102,12 @@ Fig_UdemaeReward_Lv04	B Rank trophy
 Fig_UdemaeReward_Lv01	S+ Rank trophy
 Fig_UdemaeReward_Lv02	S Rank trophy
 Fig_UdemaeReward_Lv03	A Rank trophy
+Fig_JuiceBox_00	mango juice box
+Fig_Backpack00	navy backpack
+Fig_DrawstringBag00	mesh drawstring bag
+Fig_LunchBox00	blue-lid lunch box
+Fig_RingBinder00	purple loose-leaf binder
+Fig_WaterBottle00	aqua water bottle
 Grf_Sti_Character_28	ANG-OKTO character
 Grf_Sti_Character_29	ANG-SQD character
 Grf_Sti_Decoration_14	SFSH-SKN deco
@@ -2983,6 +3169,7 @@ Pap_Sti_Poster_14	OKTOKTOKT flyer
 Pap_Sti_Poster_15	GCI-WTD poster
 Pap_Sti_Poster_18	GCI-DNG poster
 Pap_Sti_Poster_19	GCI-N0SLMN poster
+Pap_Sti_Poster_20	BWTR-SPRGS-HTL poster
 Pap_Sti_Signboard_11	BCF poster
 Pap_Sti_Signboard_12	SOZ-2 poster
 Pap_Sti_Sticker_20	TWSNTRN sticker
@@ -3101,6 +3288,17 @@ Stc_Sti_MiniGame_RankAward_Lv04	Tableturf Battle sticker 4
 Stc_Sti_MiniGame_RankAward_Lv05	Tableturf Battle sticker 5
 Stc_Sti_MiniGame_RankAward_Lv06	Tableturf Battle sticker 6
 Stc_Sti_MiniGame_RankAward_Lv07	Tableturf Battle sticker 7
+Grf_Sti_Graffiti_44	BWTR-SPRGS-MR0R graffiti
+Grf_Sti_Signboard_23	BWTR-BTHS sign
+Pap_Sti_Signboard_24	BWTR-N0-T poster
+Stc_Sti_Character_30	FLDRHTS-OKTBY character
+Stc_Sti_Character_31	FLDRHTS-BYCYFSH character
+Stc_Sti_Character_32	BWTR-BE-T character
+Stc_Sti_Signboard_20	FLDRHTS-APTS sign
+Stc_Sti_Signboard_21	FLDRHTS-BBSHP sign
+Stc_Sti_Signboard_22	FLDRHTS-0-MAT sign
+Stc_Sti_Sticker_34	FLDRHTS-3CLR sticker
+Stc_Sti_Sticker_35	BWTR-SQDLNS sticker
 Stc_Sti_Wst_Charger_Normal_00_Lv00	Splat Charger sticker
 Hla_Sti_Wst_Roller_Normal_00_Lv01	Splat Roller holo sticker
 Hla_Sti_Wst_Charger_Normal_00_Lv01	Splat Charger holo sticker
@@ -3115,7 +3313,9 @@ Hla_Sti_Wst_Blaster_Light_00_Lv01	Rapid Blaster holo sticker
 Hla_Sti_Wst_Blaster_Long_00_Lv01	Range Blaster holo sticker
 Hla_Sti_Wst_Blaster_Middle_00_Lv01	Blaster holo sticker
 Hla_Sti_Wst_Blaster_Short_00_Lv01	Luna Blaster holo sticker
+Hla_Sti_Wst_Blaster_Short_01_Lv01	Luna Blaster Neo holo sticker
 Hla_Sti_Wst_Brush_Mini_00_Lv01	Inkbrush holo sticker
+Hla_Sti_Wst_Brush_Mini_01_Lv01	Inkbrush Nouveau holo sticker
 Hla_Sti_Wst_Brush_Normal_00_Lv01	Octobrush holo sticker
 Hla_Sti_Wst_Charger_Keeper_00_Lv01	Goo Tuber holo sticker
 Hla_Sti_Wst_Charger_Light_00_Lv01	Bamboozler 14 Mk I holo sticker
@@ -3127,8 +3327,10 @@ Hla_Sti_Wst_Maneuver_Dual_00_Lv01	Dualie Squelchers holo sticker
 Hla_Sti_Wst_Maneuver_Gallon_00_Lv01	Glooga Dualies holo sticker
 Hla_Sti_Wst_Maneuver_Normal_00_Lv01	Splat Dualies holo sticker
 Hla_Sti_Wst_Maneuver_Short_00_Lv01	Dapple Dualies holo sticker
+Hla_Sti_Wst_Maneuver_Short_01_Lv01	Dapple Dualies Nouveau holo sticker
 Hla_Sti_Wst_Maneuver_Stepper_00_Lv01	Dark Tetra Dualies holo sticker
 Hla_Sti_Wst_Roller_Compact_00_Lv01	Carbon Roller holo sticker
+Hla_Sti_Wst_Roller_Compact_01_Lv01	Carbon Roller Deco holo sticker
 Hla_Sti_Wst_Roller_Heavy_00_Lv01	Dynamo Roller holo sticker
 Hla_Sti_Wst_Roller_Hunter_00_Lv01	Flingza Roller holo sticker
 Hla_Sti_Wst_Saber_Lite_00_Lv01	Splatana Wiper holo sticker
@@ -3137,12 +3339,16 @@ Hla_Sti_Wst_Shelter_Compact_00_Lv01	Undercover Brella holo sticker
 Hla_Sti_Wst_Shelter_Normal_00_Lv01	Splat Brella holo sticker
 Hla_Sti_Wst_Shelter_Wide_00_Lv01	Tenta Brella holo sticker
 Hla_Sti_Wst_Shooter_Blaze_00_Lv01	Aerospray MG holo sticker
+Hla_Sti_Wst_Shooter_Blaze_01_Lv01	Aerospray RG holo sticker
 Hla_Sti_Wst_Shooter_Expert_00_Lv01	Splattershot Pro holo sticker
+Hla_Sti_Wst_Shooter_Expert_01_Lv01	Forge Splattershot Pro holo sticker
 Hla_Sti_Wst_Shooter_First_00_Lv01	Splattershot Jr. holo sticker
+Hla_Sti_Wst_Shooter_First_01_Lv01	Custom Splattershot Jr. holo sticker
 Hla_Sti_Wst_Shooter_Flash_00_Lv01	Squeezer holo sticker
 Hla_Sti_Wst_Shooter_Gravity_00_Lv01	.52 Gal holo sticker
 Hla_Sti_Wst_Shooter_Heavy_00_Lv01	.96 Gal holo sticker
 Hla_Sti_Wst_Shooter_Long_00_Lv01	Jet Squelcher holo sticker
+Hla_Sti_Wst_Shooter_Normal_01_Lv01	Tentatek Splattershot holo sticker
 Hla_Sti_Wst_Shooter_Normal_H_Lv01	Hero Shot Replica holo sticker
 Hla_Sti_Wst_Shooter_Precision_00_Lv01	Splash-o-matic holo sticker
 Hla_Sti_Wst_Shooter_QuickMiddle_00_Lv01	N-ZAP '85 holo sticker
@@ -3152,10 +3358,12 @@ Hla_Sti_Wst_Slosher_Bathtub_00_Lv01	Bloblobber holo sticker
 Hla_Sti_Wst_Slosher_Diffusion_00_Lv01	Tri-Slosher holo sticker
 Hla_Sti_Wst_Slosher_Launcher_00_Lv01	Sloshing Machine holo sticker
 Hla_Sti_Wst_Slosher_Strong_00_Lv01	Slosher holo sticker
+Hla_Sti_Wst_Slosher_Strong_01_Lv01	Slosher Deco holo sticker
 Hla_Sti_Wst_Slosher_Washtub_00_Lv01	Explosher holo sticker
 Hla_Sti_Wst_Spinner_Downpour_00_Lv01	Ballpoint Splatling holo sticker
 Hla_Sti_Wst_Spinner_Hyper_00_Lv01	Hydra Splatling holo sticker
 Hla_Sti_Wst_Spinner_Quick_00_Lv01	Mini Splatling holo sticker
+Hla_Sti_Wst_Spinner_Quick_01_Lv01	Zink Mini Splatling holo sticker
 Hla_Sti_Wst_Spinner_Serein_00_Lv01	Nautilus 47 holo sticker
 Hla_Sti_Wst_Spinner_Standard_00_Lv01	Heavy Splatling holo sticker
 Hla_Sti_Wst_Stringer_Normal_00_Lv01	Tri-Stringer holo sticker
@@ -3166,7 +3374,9 @@ Stc_Sti_Wst_Blaster_Light_00_Lv00	Rapid Blaster sticker
 Stc_Sti_Wst_Blaster_Long_00_Lv00	Range Blaster sticker
 Stc_Sti_Wst_Blaster_Middle_00_Lv00	Blaster sticker
 Stc_Sti_Wst_Blaster_Short_00_Lv00	Luna Blaster sticker
+Stc_Sti_Wst_Blaster_Short_01_Lv00	Luna Blaster Neo sticker
 Stc_Sti_Wst_Brush_Mini_00_Lv00	Inkbrush sticker
+Stc_Sti_Wst_Brush_Mini_01_Lv00	Inkbrush Nouveau sticker
 Stc_Sti_Wst_Brush_Normal_00_Lv00	Octobrush sticker
 Stc_Sti_Wst_Charger_Keeper_00_Lv00	Goo Tuber sticker
 Stc_Sti_Wst_Charger_Light_00_Lv00	Bamboozler 14 Mk I sticker
@@ -3178,8 +3388,10 @@ Stc_Sti_Wst_Maneuver_Dual_00_Lv00	Dualie Squelchers sticker
 Stc_Sti_Wst_Maneuver_Gallon_00_Lv00	Glooga Dualies sticker
 Stc_Sti_Wst_Maneuver_Normal_00_Lv00	Splat Dualies sticker
 Stc_Sti_Wst_Maneuver_Short_00_Lv00	Dapple Dualies sticker
+Stc_Sti_Wst_Maneuver_Short_01_Lv00	Dapple Dualies Nouveau sticker
 Stc_Sti_Wst_Maneuver_Stepper_00_Lv00	Dark Tetra Dualies sticker
 Stc_Sti_Wst_Roller_Compact_00_Lv00	Carbon Roller sticker
+Stc_Sti_Wst_Roller_Compact_01_Lv00	Carbon Roller Deco sticker
 Stc_Sti_Wst_Roller_Heavy_00_Lv00	Dynamo Roller sticker
 Stc_Sti_Wst_Roller_Hunter_00_Lv00	Flingza Roller sticker
 Stc_Sti_Wst_Saber_Lite_00_Lv00	Splatana Wiper sticker
@@ -3188,12 +3400,16 @@ Stc_Sti_Wst_Shelter_Compact_00_Lv00	Undercover Brella sticker
 Stc_Sti_Wst_Shelter_Normal_00_Lv00	Splat Brella sticker
 Stc_Sti_Wst_Shelter_Wide_00_Lv00	Tenta Brella sticker
 Stc_Sti_Wst_Shooter_Blaze_00_Lv00	Aerospray MG sticker
+Stc_Sti_Wst_Shooter_Blaze_01_Lv00	Aerospray RG sticker
 Stc_Sti_Wst_Shooter_Expert_00_Lv00	Splattershot Pro sticker
+Stc_Sti_Wst_Shooter_Expert_01_Lv00	Forge Splattershot Pro sticker
 Stc_Sti_Wst_Shooter_First_00_Lv00	Splattershot Jr. sticker
+Stc_Sti_Wst_Shooter_First_01_Lv00	Custom Splattershot Jr. sticker
 Stc_Sti_Wst_Shooter_Flash_00_Lv00	Squeezer sticker
 Stc_Sti_Wst_Shooter_Gravity_00_Lv00	.52 Gal sticker
 Stc_Sti_Wst_Shooter_Heavy_00_Lv00	.96 Gal sticker
 Stc_Sti_Wst_Shooter_Long_00_Lv00	Jet Squelcher sticker
+Stc_Sti_Wst_Shooter_Normal_01_Lv00	Tentatek Splattershot sticker
 Stc_Sti_Wst_Shooter_Normal_H_Lv00	Hero Shot Replica sticker
 Stc_Sti_Wst_Shooter_Precision_00_Lv00	Splash-o-matic sticker
 Stc_Sti_Wst_Shooter_QuickMiddle_00_Lv00	N-ZAP '85 sticker
@@ -3203,14 +3419,22 @@ Stc_Sti_Wst_Slosher_Bathtub_00_Lv00	Bloblobber sticker
 Stc_Sti_Wst_Slosher_Diffusion_00_Lv00	Tri-Slosher sticker
 Stc_Sti_Wst_Slosher_Launcher_00_Lv00	Sloshing Machine sticker
 Stc_Sti_Wst_Slosher_Strong_00_Lv00	Slosher sticker
+Stc_Sti_Wst_Slosher_Strong_01_Lv00	Slosher Deco sticker
 Stc_Sti_Wst_Slosher_Washtub_00_Lv00	Explosher sticker
 Stc_Sti_Wst_Spinner_Downpour_00_Lv00	Ballpoint Splatling sticker
 Stc_Sti_Wst_Spinner_Hyper_00_Lv00	Hydra Splatling sticker
 Stc_Sti_Wst_Spinner_Quick_00_Lv00	Mini Splatling sticker
+Stc_Sti_Wst_Spinner_Quick_01_Lv00	Zink Mini Splatling sticker
 Stc_Sti_Wst_Spinner_Serein_00_Lv00	Nautilus 47 sticker
 Stc_Sti_Wst_Spinner_Standard_00_Lv00	Heavy Splatling sticker
 Stc_Sti_Wst_Stringer_Normal_00_Lv00	Tri-Stringer sticker
 Stc_Sti_Wst_Stringer_Short_00_Lv00	REEF-LUX 450 sticker
+Stc_Sti_Wst_Shooter_QuickLong_00_Lv00	Splattershot Nova sticker
+Hla_Sti_Wst_Shooter_QuickLong_00_Lv01	Splattershot Nova holo sticker
+Stc_Sti_Wst_Roller_Wide_00_Lv00	Big Swig Roller sticker
+Hla_Sti_Wst_Roller_Wide_00_Lv01	Big Swig Roller holo sticker
+Stc_Sti_Wst_Charger_Pencil_00_Lv00	Snipewriter 5H sticker
+Hla_Sti_Wst_Charger_Pencil_00_Lv01	Snipewriter 5H holo sticker
 CommonMsg\Lobby\LobbyFoodExp.msbt
 PartyMoney_Up_Purchase	Doubles battle cash {color[0100]}for\nall teammates{color[ffff]}!
 PartyExp_Up_Purchase	Doubles battle XP {color[0100]}for\nall teammates{color[ffff]}!
@@ -3450,6 +3674,11 @@ T_ExplainEnemy_50	● What Happens\n　・ The ground will dry up, and a giganti
 T_ExplainEnemy_51	● Advice from Mr. Grizz\n　・ Since the eggs may land far away from the basket, coordinate\n　　 with your coworkers and use the Egg Throw.\n　・ Dodge any Salmonids that come flying toward you, or splat them\n　　 as you transport the eggs.\n\n● Supplementary Information\n　・ There's no way to predict when a giant tornado might appear.\n　　 It will fling all kinds of things out from the ocean, which usually\n　　 results in a great number of Salmonid casualties.\n　・ Flying debris will be present, and accidents are bound to happen.\n　　 If you become unable to use the egg basket on dry land,\n　　 a single egg delivered to the basket will be counted as two.
 Coop_Button02	Basics
 Coop_Button03	Not Basics
+CommonMsg\Manual\ManualCoopEvent.msbt
+BigRun_Title	What's Big Run?
+BigRun_Manual01	・ Big Run is a terrifying phenomenon in which a\n  swarm of Salmonids overtake a {color[0100]}battle stage{color[ffff]}\n  in the city!\n\n・ At Grizzco Industries, we want to protect\n  your city from Salmonid infestation. That's\n  why we're recruiting far and wide for heroes\n  who are willing to help collect Golden Eggs\n  and drive the Salmonids back from our home.
+BigRun_Manual02	・ Our high standards for job performance will\n  be unchanged during the Big Run. However,\n  we've increased the number of rewards on\n  your {color[0100]}Bonus Meter{color[ffff]}. You will also be pleasantly\n  surprised to receive more Catalog Points.\n\n・ What's more, everyone who participates during\n  Big Run even once will be given a {color[0100]}decoration {color[ffff]}as\n  a token of gratitude.
+BigRun_Manual03	・ Following a Big Run, we will tally the number\n  of Golden Eggs your team collected during the\n  shift. Your strongest performance in a single\n  shift will be your {color[0100]}high score{color[ffff]}! And the very\n  strongest performers will receive better\n  decorations than everyone else.\n\n・ Once all of the Salmonids have been cleared\n  and things are back to business casual, we will\n  announce the final Big Run results. Corporate\n  wishes you good luck!
 CommonMsg\Manual\ManualFes.msbt
 Fes_Button01	Splatfest Info
 Fes_Button02	Sneak Peek/\nMain Event
@@ -3469,8 +3698,8 @@ Fes_FesMatch_Manual03	{color[0100]}Pro {color[ffff]}is where solo players go whe
 Fes_Torikara_Title	Tricolor Battle Basics
 Fes_Torikara_Manual00	Three teams ink turf and fight to take over Ultra Signals. At the end, the\nteam with the most turf inked wins!
 Fes_Torikara_Manual01	1. Each Team's Turf Area\n2. The Ultra Signal\n3. Sprinkler of Doom\n4. Number of Ultra Signals Secured
-Fes_Torikara_Manual02	After the Halftime Report, those on a runner-up\nteam can play {color[0100]}Tricolor Battles{color[ffff]} for the rest of\nthe Splatfest. Here players will fight in an\nintense two vs. four vs. two {color[0100]}Tricolor Turf War{color[ffff]}!\n\nThose on the leading Splatfest team playing an\nOpen Splatfest Battle may find themselves on\na squad of four defending against two groups\nof two players from the runner-up teams!
-Fes_Torikara_Manual03	{color[0100]}Tricolor Turf Wars{color[ffff]} are (you guessed it!) special\nbattles with three ink colors fighting it out.\n\nThe Splatfest Halftime Report will announce\nwhich team is in the lead. They will become the\ndefenders, while those on the runner-up teams\nwill be the attackers.\n\nThe defenders must work to {color[0100]}ink the most turf{color[ffff]},\nwhile also defending the {color[0100]}Ultra Signal{color[ffff]} in the middle\nof the stage.
+Fes_Torikara_Manual02	After the Halftime Report, players can choose\nto participate in {color[0100]}Tricolor Battles{color[ffff]}!\n\nThese two vs. four vs. two showdowns feature\nan intense battle to control the central turf\nbetween three teams.\n\nIf players on a leading Splatfest team win\nbattles as a defending team, they will receive\nbonus Clout. Likewise, if players on the second-\nand third-place teams win as an attacking team,\nthey'll also receive bonus Clout.
+Fes_Torikara_Manual03	{color[0100]}Tricolor Turf War {color[ffff]}battles are (you guessed it!)\nspecial battles with three ink colors fighting it\nout. Two teams of two take on a team of four!\n\nBoth two-player teams flank the four-player\nteam and attempt to take control of the\n{color[0100]}Ultra Signal {color[ffff]}in the center of the stage.\nMeanwhile, the four-player team tries to {color[0100]}ink\nthe most turf{color[ffff]} and defend the {color[0100]}Ultra Signal{color[ffff]}!
 Fes_Torikara_Manual04	The attacking teams need to ink as much ground\nas possible and try to use the Ultra Signal to\ncall in help from the band Deep Cut!\n\nWhen an attacker touches the Ultra Signal, an\n{color[0100]}attempt{color[ffff]} is made. Hang on to the Ultra Signal\nlong enough, and it will be secured.
 Fes_Torikara_Manual05	Once attackers secure the Ultra Signal,\nDeep Cut will deploy a {color[0100]}Sprinkler of Doom{color[ffff]},\na device that inks turf automatically!\n\nAlso, each attempt on the Ultra Signal {color[0100]}shortens\nhow long it takes to secure it{color[ffff]}, so don't let up.\nKeep up the pressure, and the Sprinkler of Doom\nwill be yours!\n\nOnly two Ultra Signals can appear per battle.
 Fes_Torikara_Manual06	Clout earned by attacking teams is largely set\nby whether or not they {color[0100]}defeated the defenders{color[ffff]}.\nIn other words, it is worth far more Clout for the\ndefenders to come in last than for an attacking\nteam to come in first or second.\n\nThe Clout attackers earn is also based on {color[0100]}rank{color[ffff]},\nthe {color[0100]}number of attempts the team made on\nUltra Signals{color[ffff]}, and {color[0100]}how many Ultra Signals a\nteam secured{color[ffff]}. So as long as you've got the\ndefenders under control, SHOW NO MERCY!
@@ -3569,6 +3798,56 @@ Vendor_Replacement_Gear_Power_Manual01	By the way, when you reroll a piece of ge
 Vendor_GesoTown_Title	About the SplatNet Shop
 Vendor_GesoTown_Manual00	The {color[0100]}SplatNet Shop{color[ffff]} lets you order gear through\nthe {color[0100]}SplatNet 3{color[ffff]} online service, meaning you can\norder new gear even when you're not playing!\n\nThere's even gear with unique ability layouts you\nwon't see on the versions sold in Splatsville!\n\nCheck out the official Splatoon 3 website\nto learn more.
 Vendor_GesoTown_Manual01	Only {color[0100]}1 piece{color[ffff]} of gear can be ordered from the\nSplatNet Shop at a time. However, those orders\nare delivered to Murch immediately, and another\norder can be made as soon as it's picked up.\n\nNever miss a chance to get gear you want!
+CommonMsg\Manual\ManualXMatch.msbt
+XMatch_Button01	X Battle
+XMatch_Button02	Splat Zones
+XMatch_Button03	Tower Control
+XMatch_Button04	Rainmaker
+XMatch_Button05	Clam Blitz
+XMatch_Title	X Battle: The X Means It's X-TREME
+XMatch_Manual00	Think you're the best of the best? Now's your chance to prove it!
+XMatch_Manual01	Are you the type of player who wants to take\non the toughest challenge around? X Battles\nmay be for you!\n\nOnce you reach a rank of Ｓ+{size[4b00]}0{size[6400]} or higher, you'll\nunlock the ability to enter X Battles using\nyour {color[0100]}X Power{color[ffff]} instead of Rank Points.\n\nYou'll compete in the same four modes as\nAnarchy Battles, but {color[0100]}each mode{color[ffff]} has its own\nX Power that you can win or lose.
+XMatch_Manual02	Don't see any X Power yet? Don't worry. Your\nX Power will be calculated {color[0100]}after your first 5\nbattles{color[ffff]}. Then you can start using it to take\non challenges.\n\nEach challenge continues until you {color[0100]}win or\nlose 3 times{color[ffff]}. Depending on the results,\nyour X Power will go up or down from there.\n\nRemember—challenges and X Power calculations\nare separate for each of the four types of\nX Battle modes.
+XMatch_Manual03	If your X Power increases enough, you may\nshow up in the X Rank leaderboards. Some of\nthe highest-ranked players will get a crown\nto display along with their nicknames!\n\nDidn't make it this season? You'll get another\nshot—X Power will be {color[0100]}recalculated every season{color[ffff]}!\n\nYou can see the latest rankings by mode or\nby weapon in the SplatNet 3 app.
+XMatch_Gachiarea_Title	Splat Zones: The Rules
+XMatch_Gachiarea_Manual00	Splatter the Splat Zones with ink, then hold your turf to emerge victorious!
+XMatch_Gachiarea_Manual01	1. Splat Zone\n2. Control Indicator\n3. Progress Countdown\n4. Penalty Countdown
+XMatch_Gachiarea_Manual02	Whichever team can hold all {color[0100]}Splat Zones{color[ffff]} long\nenough for the timer to reach zero wins!\n\nFirst, claim Splat Zones by covering them in ink.\nYou can see how much of a zone you've inked\nby looking at the {color[0100]}control indicator{color[ffff]}. Claim all the\nSplat Zones, and your team's {color[0100]}timer{color[ffff]} will start to\n{color[0100]}count down{color[ffff]}. If the timer hits zero, that's a\nknockout victory!
+XMatch_Gachiarea_Manual03_Title	Splat Zones: Pro Tips
+XMatch_Gachiarea_Manual03	・ Work with your team!\n    Going solo to retake a Splat Zone guarded by your opponents is NOT easy.\n    Group up with your allies and strike together! Or, if you're defending, try\n    to scatter your opponents and stop them from working as a team.\n\n・ Never give up, even if you're losing!\n    When the enemy team controls the zones or when you're behind in the\n    countdown, your special gauge will start filling automatically!
+XMatch_Gachiarea_Manual04	・ Try to turn it around in overtime!\n    If time runs out with the losing team in control of the zones, the battle\n    will go into overtime. Fight to the very end, and you can come from behind\n    for an overtime win!
+XMatch_Gachiyagura_Title	Tower Control: The Rules
+XMatch_Gachiyagura_Manual00	Whichever team rides the tower to the goal in the enemy base wins!
+XMatch_Gachiyagura_Manual01	1. The Tower\n2. The Goal\n3. Checkpoint\n4. Goal Distance Remaining
+XMatch_Gachiyagura_Manual02	Ride the {color[0100]}tower{color[ffff]} from the center of the stage to\nthe {color[0100]}goal {color[ffff]}in the enemy base to win!\n\nInk the sides of the tower, and climb on top to\nclaim it. The tower will start moving toward the\nenemy base automatically.\n\nIf you get splatted and the enemy takes control\nof the tower, or if it sits for too long without\nanyone on it, it will move back toward the center\nof the stage.
+XMatch_Gachiyagura_Manual03	There are {color[0100]}checkpoints{color[ffff]} along the route to the\ngoal. Ride the tower to a checkpoint, and it will\nstop for a short while. Keep control of the tower\nuntil the checkpoint's defenses are gone, and\nthe tower will start moving again.\n\nFully clear a checkpoint once, and the tower\nwon't need to stop at it again. However, if a\ncheckpoint isn't fully cleared, its defenses\nwill return!
+XMatch_Gachiyagura_Manual04	As the tower gets near the goal, your team's\n{color[0100]}goal distance {color[ffff]}will {color[0100]}decrease{color[ffff]}. If the tower can't\nreach either goal before time runs out, the team\nwith the lowest goal distance wins.
+XMatch_Gachiyagura_Manual04_Title	Tower Control: Pro Tips
+XMatch_Gachiyagura_Manual05	・ Protect the tower!\n    Anyone riding the tower is an easy target, so have teammates scout ahead\n    to make sure the way is safe!\n\n・ Take the tower back at checkpoints!\n    Don't forget that the tower stops at checkpoints. That makes it the\n    perfect time to attack and take it for your team!
+XMatch_Gachiyagura_Manual06	・ Turn it around in overtime!\n    If the losing team controls the tower when the clock runs out, the battle\n    goes into overtime. Don't give up—you might be able to come from behind\n    to win it in overtime!
+XMatch_Gachihoko_Title	Rainmaker: The Rules
+XMatch_Gachihoko_Manual00	Bring the Rainmaker to the goal in the enemy base to win!
+XMatch_Gachihoko_Manual01	1. The Rainmaker\n2. The Goal\n3. Time Left to Carry the Rainmaker\n4. Goal Distance Remaining\n5. Checkpoint
+XMatch_Gachihoko_Manual02	The team that gets the {color[0100]}Rainmaker{color[ffff]} and carries\nit to the {color[0100]}goal{color[ffff]} in the enemy base wins!\n\nFirst, run to the Rainmaker in the middle of the\nstage, then break it out of its shield to grab it.\n\nIf the Rainmaker is dropped, the shield will slowly\nreturn. Leave the Rainmaker for too long, and\nit will automatically go back to its starting\nposition in the middle of the stage.
+XMatch_Gachihoko_Manual03	When you're carrying the Rainmaker, you can't\nSuper Jump or use your weapons. However, you\nCAN fire a super-powerful {color[0100]}Rainmaker Shot{color[ffff]}!\n\nAlso, carrying the Rainmaker is dangerous.\nIf you hold on to it for too long, it will explode\nand splat you. Be careful!
+XMatch_Gachihoko_Manual04	Once you've got the Rainmaker, head for the\n{color[0100]}checkpoint{color[ffff]}.\n\nAfter you clear the checkpoint, your next stop\nis the goal. If you get pushed back, you can run\nright through any checkpoints your team has\nalready cleared.\n\nAs you get closer to the checkpoint and then\nthe enemy goal, your team's {color[0100]}goal distance{color[ffff]} will\n{color[0100]}decrease{color[ffff]}. If time runs out before the Rainmaker\ngets to a goal, the team with the lowest\ngoal distance wins.
+XMatch_Gachihoko_Manual05_Title	Rainmaker: Pro Tips
+XMatch_Gachihoko_Manual05	・ Move that Rainmaker!\n    The most important thing is to get the Rainmaker to the goal! If you have\n    the Rainmaker, push forward. If a teammate has the Rainmaker, start\n    clearing a path for them. Keep the Rainmaker moving forward!\n\n・ Never give up, even if you're losing!\n    If your opponents have the Rainmaker, or if your team is both behind in\n    goal distance and doesn't have the Rainmaker, your special gauge will\n    start filling automatically!
+XMatch_Gachihoko_Manual06	・ Try to turn it around in overtime!\n    If the losing team controls the Rainmaker when time runs out, the battle\n    goes into overtime! Keep up the pressure, and you might come from behind\n    and win it in overtime!
+XMatch_Gachiasari_Title	Clam Blitz: The Rules
+XMatch_Gachiasari_Manual00	The team that gets the most clams in their enemy's basket wins! You'll need to\nuse a power clam to take down the basket's barrier first.
+XMatch_Gachiasari_Manual01	1. Clams\n2. Power Clams\n3. The Basket\n4. Score Countdown
+XMatch_Gachiasari_Manual02	5. Barrier Timer\n6. Team Clam Total\n7. Clams You're Holding\n8. Player Clam Totals
+XMatch_Gachiasari_Manual03	The team that throws the most {color[0100]}clams {color[ffff]}into the\nother team's basket wins! Just don't forget that\nthe baskets have a {color[0100]}barrier{color[ffff]} around them.\n\nFirst, you need to break the barrier. Collect\nclams from around the stage.
+XMatch_Gachiasari_Manual04	Once you have {color[0100]}8{color[ffff]} clams, they'll combine into a\n{color[0100]}power clam{color[ffff]}. Then it's time to break that barrier!
+XMatch_Gachiasari_Manual05	You can throw both regular and power clams by\npressing {[0300|52b85e3f03000000]} or {[0309|52b85e3f03000000]}.\n\nBreak a barrier using a power clam, and a\n{color[0100]}barrier timer{color[ffff]} will start!
+XMatch_Gachiasari_Manual06	Throw clams and power clams into your\nopponents' basket as fast as you can!\n\nIf you can get your score down to 0, you'll earn\na knockout victory. Each clam drops your team's\n{color[0100]}score countdown{color[ffff]} by {color[0100]}3{color[ffff]} points, while a power clam\ndrops it by {color[0100]}20{color[ffff]}!\n\nYou'll also {color[0100]}extend the barrier timer{color[ffff]} with each\nclam you throw into the enemy basket.
+XMatch_Gachiasari_Manual07	If your barrier is broken, your opponents' barrier\nbecomes invincible, so don't forget to defend!\nIf you see an enemy with clams, splat them quick\nto keep them from extending the barrier timer.\n\nOnce your barrier is back, a power clam will\n{color[0100]}appear under your basket{color[ffff]} to help your team\nlaunch a counterattack!
+XMatch_Gachiasari_Manual08	Getting splatted causes you to drop all of\nthe clams you're carrying. If you see a dropped\nregular clam, grab it quick before it disappears!\n\nGetting splatted can also cause you to drop\npower clams. These can only be picked up by\nsomeone from the same team that dropped it.\nIf an opponent drops a power clam, fight to keep\nit from being picked back up until it disappears.
+XMatch_Gachiasari_Manual09	Any clams on your team's ink are marked to make\nthem easy to find.\n\nNew clams appear often, so inking more turf will\nmake it easier to find and grab clams before\nyour opponents can.
+XMatch_Gachiasari_Manual10_Title	Clam Blitz: Pro Tips
+XMatch_Gachiasari_Manual10	・ Go on recon!\n    Use recon to visit the stage and learn different ways to get to each\n    basket. Knowing your way around is crucial!\n\n・ Expand your turf!\n    Ink the ground and expand your turf to make it faster and easier to find\n    more clams as they appear!
+XMatch_Gachiasari_Manual11	・ Never give up, even if you're losing!\n    If neither team has a power clam, or if both teams have one, whichever\n    team is losing will have their special gauges start filling automatically!\n\n・ Turn it around in overtime!\n    If the losing team has a power clam or the barrier timer is running when\n    the clock runs out, the battle goes into overtime. That's your cue to give\n    it all you've got and claim an overtime win!
 CommonMsg\MiniGame\MiniGame.msbt
 StarterDeckName	Starter Deck
 DefaultDeckName	Deck {[0200|00010000]}
@@ -3639,15 +3918,21 @@ Tamaire	Mudmouth
 HeroShooter	Hero Shot
 ShooterShort00	Sploosh-o-matic
 ShooterFirst00	Splattershot Jr.
+ShooterFirst01	Custom\nSplattershot Jr.
 ShooterPrecision00	Splash-o-matic
 ShooterBlaze00	Aerospray MG
+ShooterBlaze01	Aerospray RG
 ShooterNormal00	Splattershot
+ShooterNormal01	Tentatek\nSplattershot
 ShooterGravity00	.52 Gal
 ShooterQuickMiddle00	N-ZAP '85
 ShooterExpert00	Splattershot\nPro
+ShooterExpert01	Forge\nSplattershot Pro
 ShooterHeavy00	.96 Gal
 ShooterLong00	Jet Squelcher
+ShooterQuickLong00	Splattershot Nova
 BlasterShort00	Luna Blaster
+BlasterShort01	Luna Blaster\nNeo
 BlasterMiddle00	Blaster
 BlasterLong00	Range Blaster
 BlasterLightShort00	Clash Blaster
@@ -3657,10 +3942,13 @@ ShooterTripleQuick00	L-3 Nozzlenose
 ShooterTripleMiddle00	H-3 Nozzlenose
 ShooterFlash00	Squeezer
 RollerCompact00	Carbon Roller
+RollerCompact01	Carbon Roller\nDeco
 RollerNormal00	Splat Roller
 RollerHeavy00	Dynamo Roller
 RollerHunter00	Flingza Roller
+RollerWide00	Big Swig Roller
 BrushMini00	Inkbrush
+BrushMini01	Inkbrush\nNouveau
 BrushNormal00	Octobrush
 ChargerQuick00	Classic Squiffer
 ChargerNormal00	Splat Charger
@@ -3669,17 +3957,21 @@ ChargerLong00	E-liter 4K
 ChargerLongScope00	E-liter 4K Scope
 ChargerLight00	Bamboozler\n14 Mk I
 ChargerKeeper00	Goo Tuber
+ChargerPencil00	Snipewriter 5H
 SlosherStrong00	Slosher
+SlosherStrong01	Slosher Deco
 SlosherDiffusion00	Tri-Slosher
 SlosherLauncher00	Sloshing\nMachine
 SlosherBathtub00	Bloblobber
 SlosherWashtub00	Explosher
 SpinnerQuick00	Mini Splatling
+SpinnerQuick01	Zink Mini\nSplatling
 SpinnerStandard00	Heavy Splatling
 SpinnerHyper00	Hydra Splatling
 SpinnerDownpour00	Ballpoint\nSplatling
 SpinnerSerein00	Nautilus 47
 ManeuverShort00	Dapple Dualies
+ManeuverShort01	Dapple Dualies\nNouveau
 ManeuverNormal00	Splat Dualies
 ManeuverGallon00	Glooga Dualies
 ManeuverDual00	Dualie\nSquelchers
@@ -5090,6 +5382,7 @@ Tips_101	Meow? (Been to {color[0100]}Hotlantis{color[ffff]} yet? They sell all\n
 CommonMsg\Notification\NotificationMsg.msbt
 RankUp	I just leveled up!
 UdemaeUp	My rank just went up!
+MaxXPowerUp	My new highest X Power was recorded!
 FestRankUp	My Splatfest Rank is up!
 WonFestSpecialMatch100	I won a 100x Battle!
 WonFestSpecialMatch333	I won a 333x Battle!
@@ -5098,11 +5391,13 @@ MiniGameRankUp	My Tableturf Rank is up!
 StartSolo_Regular	I'm starting a Regular Battle!
 StartSolo_Bankara	I'm starting an\nAnarchy Battle {size[4b00]}(Series){size[6400]}!
 StartSolo_BankaraOpen	I'm starting an\nAnarchy Battle {size[4b00]}(Open){size[6400]}!
+StartSolo_XMatch	I'm starting an X Battle!
 StartSolo_Private	I'm starting a Private Battle!
 StartSolo_FestRegular	I'm starting a\nSplatfest Battle {size[4b00]}(Open){size[6400]}!
 StartSolo_FestChallenge	I'm starting a\nSplatfest Battle {size[4b00]}(Pro){size[6400]}!
 StartSolo_FestTriColor	I'm starting a Tricolor Battle!
 StartSolo_Coop	I'm starting a Salmon Run Shift!
+StartSolo_CoopBigRun	I'm starting a Big Run shift!
 CreateRoom_Regular	I created a room for a\nRegular Battle!
 CreateRoom_BankaraOpen	I created a room for an\nAnarchy Battle {size[4b00]}(Open){size[6400]}!
 CreateRoom_Private	I created a room for a\nPrivate Battle!
@@ -5110,6 +5405,7 @@ CreateRoom_FestRegular	I created a room for a\nSplatfest Battle {size[4b00]}(Ope
 CreateRoom_FestTriColor	I created a room for a\nTricolor Battle!
 CreateRoom_Coop	I created a room for a\nSalmon Run Shift!
 CreateRoom_CoopPrivate	Private Job room created!
+CreateRoom_CoopBigRun	Big Run room created!
 JoinRoom_Regular	I joined a room for a\nRegular Battle!
 JoinRoom_BankaraOpen	I joined a room for an\nAnarchy Battle {size[4b00]}(Open){size[6400]}!
 JoinRoom_Private	I joined a room for a\nPrivate Battle!
@@ -5117,6 +5413,7 @@ JoinRoom_FestRegular	I joined a room for a\nSplatfest Battle {size[4b00]}(Open){
 JoinRoom_FestTriColor	I joined a room for a\nTricolor Battle!
 JoinRoom_Coop	I joined a room for a\nSalmon Run Shift!
 JoinRoom_CoopPrivate	I joined a room for a\nPrivate Job!
+JoinRoom_CoopBigRun	I joined a room for a\nBig Run!
 Recruit_Regular	Looking for players for\na Regular Battle!
 Recruit_BankaraOpen	Looking for players for\nan Anarchy Battle {size[4b00]}(Open){size[6400]}!
 Recruit_Private	Looking for players for\na Private Battle!
@@ -5124,8 +5421,10 @@ Recruit_FestRegular	Looking for players for\na Splatfest Battle {size[4b00]}(Ope
 Recruit_FestTriColor	Looking for players for\na Tricolor Battle!
 Recruit_Coop	Looking for a work crew!
 Recruit_CoopPrivate	Looking for a work crew\nfor a Private Job!
+Recruit_CoopBigRun	Looking for a work crew\nfor a Big Run!
 Btn_RankUp	Level up!
 Btn_UdemaeUp	Rank up!
+Btn_MaxXPowerUp	X Power updated!
 Btn_FestRankUp	Splatfest Rank up!
 Btn_WonFestSpecialMatch100	100x Battle win!
 Btn_WonFestSpecialMatch333	333x Battle win!
@@ -5138,6 +5437,8 @@ StatusRank_MiniGameRank	Tableturf Rank
 ParticipantNum	{[0200|00020000]}/{[0200|01020000]}
 IkasuNum	Fresh! x{[0200|00030000]}
 CoopGrade	{[0201|000e]} {[0200|00030000]}
+XPower	X Power: {[0200|00040000]}.{[0200|01010000]}
+XPower_Measuring	X Power: ---
 CommonMsg\Plaza\PlazaAmiibo.msbt
 Msg_Reading	Reading amiibo...\nDon't mess with it right now.
 Msg_Writing	Writing to amiibo...\nDon't mess with it right now.
@@ -5162,7 +5463,7 @@ Msg_WiredProCon	The Nintendo Switch Pro Controller\nWired Communication setting\
 Msg_NotWritten	No gear has been saved. Save a gear loadout in\nOther within the Equip menu.
 Girl_WantFollow	Whoa! Check out the super-fresh\nvibe coming off you!{[0004]}Hey, wanna be {color[0100]}friends{color[ffff]}? I've got a\nhunch I could learn a lot from you.{[0004]}Plus, I could memorize your {color[0100]}control\nsettings{color[ffff]} and {color[0100]}gear{color[ffff]}!{[0004]}Double plus! I'll remember your\n{color[0100]}Freshest Fits{color[ffff]} too!{[0004]}That way you can gear up super\nfast from the {color[0100]}Equip{color[ffff]} menu!{[0004]}Pretty cool, right? So whaddaya\nsay? Wanna be friends?
 Girl_FollowMeHello	Hey! How's stuff?
-Girl_FollowOtherHello	What's up?{[0004]}I'm here to play! Greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Girl_FollowOtherHello	What's up?{[0004]}I'm here to play! Greetings from\n{color[0100]}{d}{color[ffff]}!
 Girl_NoAppDataHello	So this is Splatsville! What a town!{[0004]}Yo, nice to meet you!
 Girl_OtherAppDataHello	So this is Splatsville! What a town!{[0004]}Whoa! Hello there!
 Girl_WhatDo	OK then, what do you wanna know?
@@ -5177,7 +5478,7 @@ Girl_FarReward	I've been watching all your battles.\nI'm, like, your biggest fan
 Girl_NoRewardAsOffline	You ought to come back after\nyou've connected to the internet\nfrom the {color[0100]}lobby{color[ffff]}.{[0004]}I might have something cool for you\nif you do!
 Boy_WantFollow	Whoa, talk about fresh! You're,\nlike, practically RAW! So cool!{[0004]}You probably lead every team you're\non, huh? I can tell.{[0004]}Hey, wanna be {color[0100]}friends{color[ffff]}? I've got a\nfeeling I could learn a lot from you.{[0004]}Also, I could memorize your {color[0100]}control\nsettings{color[ffff]} and {color[0100]}gear{color[ffff]}!{[0004]}Aaaaaaaaand I'll remember your\n{color[0100]}Freshest Fits{color[ffff]} too!{[0004]}That way you can gear up super\nquick from the {color[0100]}Equip{color[ffff]} menu!{[0004]}Pretty cool, right? So, are you in?
 Boy_FollowMeHello	What's going on?
-Boy_FollowOtherHello	Yo!{[0004]}I'm here to splat! Greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Boy_FollowOtherHello	Yo!{[0004]}I'm here to splat! Greetings from\n{color[0100]}{d}{color[ffff]}!
 Boy_NoAppDataHello	So this is Splatsville! Awesome!{[0004]}Oh, nice to meet you!
 Boy_OtherAppDataHello	So this is Splatsville! Awesome!{[0004]}Oh, hey there!
 Boy_WhatDo	So, you need something?
@@ -5192,7 +5493,7 @@ Boy_FarReward	I hope you know I'm checkin' out all\nyour battles. It's what frie
 Boy_NoRewardAsOffline	You know the internet, right? Head\nto the {color[0100]}lobby{color[ffff]}, hook up to it, then\ncome back.{[0004]}I might have something cool for you\nif you do.
 Squid_WantFollow	Oh my! Those are some SERIOUSLY\nfresh vibes on you, I must admit!{[0004]}And I got a feeling you're gonna get\neven FRESHER by the battle!{[0004]}Yeah, you caught me. I'm a fan.{[0004]}You wouldn't happen to need a new\n{color[0100]}friend{color[ffff]}, by any chance?{[0004]}'Cause if so, then I could memorize\nyour {color[0100]}controls{color[ffff]} and {color[0100]}gear{color[ffff]} for you!{[0004]}Oh, and your {color[0100]}Freshest Fits{color[ffff]} too!{[0004]}Then you could quickly throw on\nthat gear from the {color[0100]}Equip{color[ffff]} menu!{[0004]}Sounds pretty good, huh? So...\nFriends?
 Squid_FollowMeHello	Hello, hello! How are things going\ntoday?
-Squid_FollowOtherHello	Hey there!{[0004]}I'm here to play! Greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Squid_FollowOtherHello	Hey there!{[0004]}I'm here to play! Greetings from\n{color[0100]}{d}{color[ffff]}!
 Squid_NoAppDataHello	So this is Splatsville! My, what a\nplace!{[0004]}Greetings! It's a pleasure to\nmeet you!
 Squid_OtherAppDataHello	So this is Splatsville! My, what a\nplace!{[0004]}Greetings!
 Squid_WhatDo	Is there anything you wish to know?
@@ -5207,7 +5508,7 @@ Squid_FarReward	I'm always watching your battles,\nso if you ever hear cheering,
 Squid_NoRewardAsOffline	I insist you come back once you've\ngone to the {color[0100]}lobby{color[ffff]} and connected to\nthe internet.{[0004]}I may have just the thing for\nyou then!
 OctoGirl_WantFollow	Yow! How cool! How interesting!\nHow impeccably...FRESH you are!{[0004]}And I sense your freshness will be\never growing too!{[0004]}Hm, I wonder... Are you looking for\nnew {color[0100]}friends{color[ffff]}? Because I am!{[0004]}As your friend, I can remember your\n{color[0100]}gear {color[ffff]}and {color[0100]}camera options{color[ffff]}.{[0004]}Oh! And I can also remember your\n{color[0100]}Freshest Fits{color[ffff]}!{[0004]}Then you'll be able to super quickly\nswap gear from the {color[0100]}Equip{color[ffff]} screen!{[0004]}Well, you haven't said no, sooo...\nwe're friends now!
 OctoGirl_FollowMeHello	Hello, friend! What's happening?
-OctoGirl_FollowOtherHello	Oh, hi there!{[0004]}And also an enthusiastic hello from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+OctoGirl_FollowOtherHello	Oh, hi there!{[0004]}And also an enthusiastic hello from\n{color[0100]}{d}{color[ffff]}!
 OctoGirl_NoAppDataHello	So this is Splatsville... I think\nI love it here!{[0004]}It's such a pleasure to meet you!
 OctoGirl_OtherAppDataHello	So this is Splatsville. I think\nI love it here!{[0004]}Oh, and by the way...hello!
 OctoGirl_WhatDo	Now, what would you like to know?
@@ -5222,7 +5523,7 @@ OctoGirl_FarReward	I want you to know that I've been\nwatching every one of your
 OctoGirl_NoRewardAsOffline	Oh, if only you'd gone to the {color[0100]}lobby{color[ffff]}\nand connected to the internet...{[0004]}Because if you had, I'd probably\nhave a new gift for you!
 OctoBoy_WantFollow	Now, THAT is the smell of\nfreshness!{[0004]}And not just the smell, but you've\ngot the LOOK too.{[0004]}Yeah... Yeah, I know a potential\nfriend for life when I see one.{[0004]}How about you? Feel like taking on\na new {color[0100]}friend{color[ffff]}?{[0004]}If you are, then I can keep track of\nyour {color[0100]}gear {color[ffff]}and {color[0100]}camera options{color[ffff]}.{[0004]}Not only that, but I'll also remember\nyour {color[0100]}Freshest Fits{color[ffff]}!{[0004]}Then all you'd need to do is visit the\n{color[0100]}Equip{color[ffff]} screen to swap to that gear!{[0004]}Because that's what friends do!\nThey help each other.
 OctoBoy_FollowMeHello	What's up, friend? Tentacles\nfeeling alright?
-OctoBoy_FollowOtherHello	Hey, it's great to meet you.{[0004]}Oh yeah, and greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+OctoBoy_FollowOtherHello	Hey, it's great to meet you.{[0004]}Oh yeah, and greetings from\n{color[0100]}{d}{color[ffff]}!
 OctoBoy_NoAppDataHello	Oh! Splatsville, huh? This is nice!{[0004]}It's a pleasure to meet you.
 OctoBoy_OtherAppDataHello	Oh! Splatsville, huh? This is nice!{[0004]}Hey, how are you?
 OctoBoy_WhatDo	Anything I can help you with?
@@ -5237,7 +5538,7 @@ OctoBoy_FarReward	Ha! I don't think I'll ever get sick\nof watching you battle.
 OctoBoy_NoRewardAsOffline	You know you're not connected to\nthe internet, right? You can link up\nfrom the {color[0100]}lobby{color[ffff]}.{[0004]}Come back once you've done that,\nand I might have something for you.
 Octo_WantFollow	Whoa! Check you out. You're like...\na huge iceberg of freshness.{[0004]}You and me? We're gonna be good\n{color[0100]}friends{color[ffff]}. I can already tell.{[0004]}In fact, I'll start tracking your {color[0100]}gear{color[ffff]}\nand {color[0100]}camera options{color[ffff]} in my brain now.{[0004]}Oh yeah, and I'll memorize your\n{color[0100]}Freshest Fits{color[ffff]} too.{[0004]}Then you can swap to them super\nfast from the {color[0100]}Equip {color[ffff]}screen.{[0004]}Too good to be true, you say?\nWell, my friend, it's true!
 Octo_FollowMeHello	Hey, hello, hi! How are you?
-Octo_FollowOtherHello	Hey, it's a pleasure to meet you.{[0004]}Oh! And also, hello from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Octo_FollowOtherHello	Hey, it's a pleasure to meet you.{[0004]}Oh! And also, hello from\n{color[0100]}{d}{color[ffff]}!
 Octo_NoAppDataHello	Oh! Splatsville, huh? I've heard of\nthis place. It's very, uh...noisy.{[0004]}Anyway, it's real nice to meet you!
 Octo_OtherAppDataHello	Oh! Splatsville, huh? I've heard of\nthis place. It's very, uh...noisy.{[0004]}Anyway, how's it going?
 Octo_WhatDo	Need help with anything?
@@ -5252,7 +5553,7 @@ Octo_FarReward	Keep it up! Your battles just keep\ngetting better!
 Octo_NoRewardAsOffline	So, about the internet... You're not\nconnected to it.{[0004]}But if you were to go to the {color[0100]}lobby{color[ffff]},\nconnect up to it, then come back,\nI might have something for you!
 InkYellow_WantFollow	Look at you! We've got a fresh one\nhere! Nice. I'm digging it!{[0004]}Although, I'm not digging it QUITE\nas much as I could be. What I'm\nsaying is...something's missing.{[0004]}I got it! This is easy—you just need\nto earn more experience. And then?\nYou are gonna SOAR!{[0004]}Hey, would it be alright if I rode your\ncoattails a little? Watching a {color[0100]}friend{color[ffff]}\nrise to greatness sounds like a big\nmess of fun.{[0004]}Don't worry—I can pull my weight.\nI can keep track of your equipped\n{color[0100]}gear{color[ffff]} and your {color[0100]}camera options{color[ffff]}.{[0004]}Oh, and also your {color[0100]}Freshest Fits{color[ffff]}!\nThose are important. Then a quick\ntrip to the {color[0100]}Equip{color[ffff]} menu is all it'll\ntake to pop into a favorite outfit!{[0004]}So whaddaya say? Friends?
 InkYellow_FollowMeHello	Hey, how's it going? Stayin' fresh?\nStayin' cool?
-InkYellow_FollowOtherHello	Hey, hey!{[0004]}Oh, and another hey from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+InkYellow_FollowOtherHello	Hey, hey!{[0004]}Oh, and another hey from\n{color[0100]}{d}{color[ffff]}!
 InkYellow_NoAppDataHello	Another day in Splatsville... Can you\nfeel it? The energy? The LIFE?{[0004]}Hold up. Do I know you? Check that.\nI wanna know you. Hi!
 InkYellow_OtherAppDataHello	Ahhh! Another day in Splatsville. You\ncan feel it—the energy...the LIFE!{[0004]}Oh! Hey, you.
 InkYellow_WhatDo	Need somethin'?
@@ -5266,7 +5567,7 @@ InkYellow_FarReward	You DO know I'm watchin' all your\nbattles, right? 'Cause if
 InkYellow_NoRewardAsOffline	Uh, you might wanna sit down for\nthis... You're not connected to the\ninternet right now.{[0004]}Don't be scared though. Just head\nto the {color[0100]}lobby{color[ffff]} and reconnect. I might\neven have a gift for you if you do!
 OctoBlue_WantFollow	Whoa, whoa, WHOA! Your freshness\nis straight-up outta control!{[0004]}And the wildest part? I can tell\nyou're just getting started.{[0004]}What's with the face? I know\nfreshness when I see it. And right\nnow, I'm seein' it!{[0004]}What that means is we gotta be\n{color[0100]}friends{color[ffff]}. Don't ask why. Those're\njust the unwritten rules. Plus,\nI wanna see how far you can go.{[0004]}So here's what I'm offering. I'll keep\ntrack of all your equipped {color[0100]}gear{color[ffff]}, your\n{color[0100]}camera settings{color[ffff]}, and even your\n{color[0100]}Freshest Fits{color[ffff]}!{[0004]}That Freshest Fits thing is key too.\nThose let you change outfits like\nBAM! Just gotta visit the {color[0100]}Equip{color[ffff]}\nscreen. Cool, huh?{[0004]}And what do I want for all this?\nNothin'. Just let me on for the ride,\nand I'll take it from there. So...\nwhaddaya say? Friends?
 OctoBlue_FollowMeHello	Hey, freshness! What's up?
-OctoBlue_FollowOtherHello	Hey there!{[0004]}Oh yeah, I have a hi from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+OctoBlue_FollowOtherHello	Hey there!{[0004]}Oh yeah, I have a hi from\n{color[0100]}{d}{color[ffff]}!
 OctoBlue_NoAppDataHello	Splatsville is nuts, ain't it? I love\nit here.{[0004]}Anyway, hey. What's shaking?
 OctoBlue_OtherAppDataHello	Splatsville is nuts, ain't it? I love\nit here.{[0004]}Anyway, hey. How're things?
 OctoBlue_WhatDo	Do you need something?
@@ -5280,8 +5581,8 @@ OctoBlue_FarReward	I just can't get enough of your\nthrill-a-minute style out th
 OctoBlue_NoRewardAsOffline	Hey, uh...how can I put this? You\nand the internet aren't on speaking\nterms right now.{[0004]}Tell ya what! Head to the {color[0100]}lobby{color[ffff]} and\nreconnect. I might have a gift for\nyou if you do!
 Smallfry_WantFollow	{[0102]}It seems this Smallfry is trying to\ntell you something! What could that\nblank stare mean?{[0004]}{[0102]}Ah! It's marked you as a uniquely\nfresh individual—whose freshness\nwill grow even stronger over time.{[0004]}{[0102]}As a token of its admiration, this\nSmallfry hopes to watch over your\nprogress...and officially become\nyour {color[0100]}friend{color[ffff]}! Aw!{[0004]}{[0102]}Friends can remember your equipped\n{color[0100]}gear {color[ffff]}and {color[0100]}camera settings{color[ffff]}, and track\nyour {color[0100]}Freshest Fits{color[ffff]} for you.{[0004]}{[0102]}With this Smallfry's help, you could\nchange your gear on the {color[0100]}Equip{color[ffff]}\nscreen much more efficiently...{[0004]}{[0102]}How will you respond to this small\nyet generous Salmonid's offer to\nbecome your friend?
 Smallfry_FollowMeHello	{[0102]}This Smallfry looks pleased to\nsee you! It can be hard to tell.
-Smallfry_FollowOtherHello	{[0102]}Hmmm. This Smallfry appears to be\naffiliated with someone named\n{color[0100]}{[0201|0010]}{color[ffff]}.
-Smallfry_NoAppDataHello	{[0102]}Surrounded by the sights of\nSplatsville, this little Smallfry\nmust not know where to look first...{[0004]}{[0102]}Ah! It seems to have noticed you.\nAnd now it's staring at you. Intently.\nDon't be alarmed...yet.
+Smallfry_FollowOtherHello	{[0102]}Hmmm. This Smallfry appears to be\naffiliated with someone named\n{color[0100]}{d}{color[ffff]}.
+Smallfry_NoAppDataHello	{[0102]}Surrounded by the sights of\nthe city, this little Smallfry\nmust not know where to look first...{[0004]}{[0102]}Ah! It seems to have noticed you.\nAnd now it's staring at you. Intently.\nDon't be alarmed...yet.
 Smallfry_OtherAppDataHello	{[0102]}This Smallfry is soaking in the\ncolors of Splatsville. It's not sure\nwhere to look first...{[0004]}{[0102]}Ah! It seems to have noticed you,\nyet it remains unclear what, if any,\nemotions are hiding behind its\ngargantuan googly eyeballs.
 Smallfry_WhatDo	{[0102]}Is there anything you'd like to ask\nof this Smallfry?
 Smallfry_Reward	{[0102]}This Smallfry seems thrilled by your\nperformance in recent battles.{[0004]}{[0102]}Oh? What's it got there? Is that...\nIt is! It's a present just for you! 
@@ -5294,7 +5595,7 @@ Smallfry_FarReward	{[0102]}This Smallfry has been tracking\nyour battles with gr
 Smallfry_NoRewardAsOffline	{[0102]}This Smallfry seems restless...\nPerhaps it's because you're not\nconnected to the internet.{[0004]}{[0102]}It may settle down if you come back\nafter connecting to the internet in\nthe {color[0100]}lobby{color[ffff]}.
 Aori_WantFollow	Hey! You seem pretty fresh.\nAnd unlike some things, I bet\nyou get fresher over time!{[0004]}Look, this isn't just because I view\nyou as a potential rival, but...I kinda\nwant to {color[0100]}keep tabs on you{color[ffff]}.{[0004]}Want me to memorize your {color[0100]}control\nsettings{color[ffff]} and favorite {color[0100]}gear{color[ffff]}? I can\ntotally keep track of your {color[0100]}Freshest\nFits{color[ffff]} too!{[0004]}That way you can put them on\nquickly from the {color[0100]}Equip{color[ffff]} menu.{[0004]}Think of it as ME being a superfan\nof YOU, instead of the reverse.\nAlthough you better be a superfan\nof me too...
 Aori_FollowMeHello	It's you! How's it going?
-Aori_FollowOtherHello	Hey, you!{[0004]}I'm ready to ROCK! Greetings from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Aori_FollowOtherHello	Hey, you!{[0004]}I'm ready to ROCK! Greetings from\n{color[0100]}{d}{color[ffff]}!
 Aori_NoAppDataHello	Ah...I feel so SEEN in Splatsville!{[0004]}Oh, hey! I'm Callie from the Squid\nSisters. You know—stay fresh!
 Aori_OtherAppDataHello	Ah...I feel so SEEN in Splatsville!{[0004]}Oh, do we know each other?\nI'm Callie from the Squid Sisters.\nYou know—stay fresh!
 Aori_WhatDo	What do you want to know?\nI'll spill the juicy deets!
@@ -5309,7 +5610,7 @@ Aori_FarReward	Don't worry—I've got eyes on all\nyour battles. Keep it up!
 Aori_NoRewardAsOffline	Ugh, the internet is out! Now what?{[0004]}Head to the {color[0100]}lobby{color[ffff]}, get connected,\nand then come see me, OK? I might\nhave something for you!
 Hotaru_WantFollow	Whoa. You're the one who's throwing\noff fresh vibes? I can see it.{[0004]}Listen, since I'm already here, I've\ngot a proposal for you. You've got\ntalent with a capital T, and that\nmeans you need an {color[0100]}agent{color[ffff]}.{[0004]}What do agents do? More like what\nDON'T agents do! I'll look out for\nyou, plus memorize your fave {color[0100]}gear{color[ffff]}\nand how you like your {color[0100]}controls{color[ffff]}.{[0004]}Oh, I'll be your personal wardrobe\nmanager too. Your {color[0100]}Freshest Fits{color[ffff]} are{color[0100]}{color[ffff]}\njust a click away in the {color[0100]}Equip {color[ffff]}menu.{[0004]}Ready to sign your life away?\nJoking! It's an agent joke.\nWe like to laugh.
 Hotaru_FollowMeHello	Oh, hey. What's up?
-Hotaru_FollowOtherHello	Heya...{[0004]}Let's do this. Greetings from \n{color[0100]}{[0201|0010]}{color[ffff]}!
+Hotaru_FollowOtherHello	Heya...{[0004]}Let's do this. Greetings from \n{color[0100]}{d}{color[ffff]}!
 Hotaru_NoAppDataHello	Love the vibes here in Splatsville.\nAlways a fun time.{[0004]}Hey. I'm Marie of the Squid Sisters.
 Hotaru_OtherAppDataHello	Love the vibes here in Splatsville.\nAlways a fun time.{[0004]}Do we know each other? I'm Marie.\nYes, Marie from the Squid Sisters.
 Hotaru_WhatDo	So...what's going on? Is there\nsomething I can help you with?
@@ -5324,7 +5625,7 @@ Hotaru_FarReward	Are you fighting the good fight\nout there? Show me something\n
 Hotaru_NoRewardAsOffline	Ooo, your internet connection\nseems a bit...not fresh right now.{[0004]}Maybe take a trip to the {color[0100]}lobby{color[ffff]} to\nfix that, and then talk to me again.\nI might have something for you!
 Pearl_WantFollow	Look! At! You! Flawless style.\nI am aaall about that freshness.{[0004]}Once you get enough battles under\nyour belt, you'll be unstoppable!{[0004]}Aight. Made my mind up. I'ma be\nyour personal {color[0100]}hype squid{color[ffff]}!{[0004]}Need to load up your preferred {color[0100]}gear{color[ffff]}\nand {color[0100]}camera options{color[ffff]}? I gotchu!{[0004]}I'll even keep your {color[0100]}Freshest Fits{color[ffff]}\nready to go at any time.{[0004]}Then you can swap your setup in\nthe {color[0100]}Equip{color[ffff]} screen ANY flippin' time.{[0004]}You feel me?
 Pearl_FollowMeHello	Wassup, B? How you livin'?
-Pearl_FollowOtherHello	What up!{[0004]}Guess who told me to say hi?\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Pearl_FollowOtherHello	What up!{[0004]}Guess who told me to say hi?\n{color[0100]}{d}{color[ffff]}!
 Pearl_NoAppDataHello	Splatsville! Check it OUT! This place\nhas everything, huh?{[0004]}Anyway, AYOOO! One two, one two!\nIt's ya girl Pearl from Off the Hook!
 Pearl_OtherAppDataHello	Splatsville! Check it OUT! This place\nhas everything, huh?{[0004]}...Oh! Yo! It's ya girl Pearl from\nOff the Hook.
 Pearl_WhatDo	So, what's up? You need somethin'?
@@ -5339,7 +5640,7 @@ Pearl_FarReward	I'm hypin' you up out here! Go cook\nthose battles today!
 Pearl_NoRewardAsOffline	Yo. You not connected to the\ninternet or somethin'? A quick\ntrip to the {color[0100]}lobby{color[ffff]} could fix that.{[0004]}Well, go connect and come back!\nI miiight have somethin' for you!
 Marina_WantFollow	Ooo! Look at you, serving funky\nfreshness!{[0004]}Wanna be {color[0100]}friends{color[ffff]}? I definitely do.{[0004]}I can remember your favorite {color[0100]}gear{color[ffff]}\nand comfiest {color[0100]}camera options{color[ffff]}...{[0004]}And I'll keep track of your {color[0100]}Freshest\nFits {color[ffff]}too, of course.{[0004]}Just call on me to quickly swap\nyour setup in the {color[0100]}Equip{color[ffff]} screen.{[0004]}How's that sound to you?
 Marina_FollowMeHello	Heyo! How's it goin'?
-Marina_FollowOtherHello	Heyo!{[0004]}Oh, and hi from\n{color[0100]}{[0201|0010]}{color[ffff]}!
+Marina_FollowOtherHello	Heyo!{[0004]}Oh, and hi from\n{color[0100]}{d}{color[ffff]}!
 Marina_NoAppDataHello	Ahhh, Splatsville is such a cool city!\nSo much to take in...{[0004]}Hey, I'm Marina from Off the Hook.\nNice to meet you!
 Marina_OtherAppDataHello	Ahhh, Splatsville is such a cool city!\nSo much to take in...{[0004]}Hey, I'm Marina from Off the Hook.\nWhat's going on?
 Marina_WhatDo	Need help with something?
@@ -5426,6 +5727,23 @@ GoodBye	Thanks, chum! You know where to\nfind me if you need anything else.
 CommonMsg\Plaza\PlazaWalkThrough.msbt
 FirstExplain	Oh my! Welcome, sweetie.{[0004]}You new around here? That's just\nfine. We all started somewhere.{[0004]}I'm the local Recon Guide. I'll send\nyou to any battle stage in any mode\nyou like for a nice, safe stroll. It's\na great way to get to know a place.{[0004]}And that's it! Have fun out there,\nalright?{[0004]}Oh! I plumb forgot to tell you how\nto leave recon. Well, it's easy as\npie—just press {[0305|0000803f00000000]}, and you'll see\nit on the menu. And NOW that's it!
 Select	Going out for recon?
+CommonMsg\Sound\ArtistName.msbt
+010	Deep Cut
+011	C-Side
+012	Front Roe
+013	Damp Socks feat. Off the Hook
+CommonMsg\Sound\MusicName.msbt
+Versus_Thunder_01	Clickbait
+Versus_Thunder_02	Splattack!
+Versus_Thunder_03	Headhammer
+Versus_Thunder_04	Paintscraper
+Versus_Thunder_05	Triple Dip
+Versus_Thunder_06	Sea Me Now
+Versus_Thunder_07	Sandy Side Up
+Versus_Thunder_08	Candy-Coated Rocks
+Versus_Thunder_09	Tentacle to the Metal
+Versus_Fes_Thunder_01	Fins in the Air
+Versus_Fes_Thunder_02	Till Depth Do Us Part
 CommonMsg\SystemWindow\SystemMsg_CloudSave.msbt
 Msg_Resume	We need to set up a few things before you'll be\nable to play online.
 Msg_DoTransfer	Save data imported! {color[0100]}After your first online\nbattle{color[ffff]}, three {[031d|f6285c3f00000000]}Gold Sheldon Licenses will\nbe waiting for you in the lobby as a bonus!
@@ -5472,6 +5790,9 @@ BtnR_StartSoloConfirm_Regular	Yeah
 Msg_StartSoloConfirm_BankaraOpen	Join Anarchy Battle?\n(Battle will begin once eight players have joined.)
 BtnL_StartSoloConfirm_BankaraOpen	Nah
 BtnR_StartSoloConfirm_BankaraOpen	Yeah!
+Msg_StartSoloConfirm_XMatch	Join X Battle?\n(Battle will begin once eight players have joined.)
+BtnL_StartSoloConfirm_XMatch	Nah
+BtnR_StartSoloConfirm_XMatch	Yeah!
 Msg_StartSoloConfirm_FestRegular	Join Splatfest Battle?\n(Battle will begin once eight players have joined.)
 BtnL_StartSoloConfirm_FestRegular	Nah
 BtnR_StartSoloConfirm_FestRegular	Yeah!
@@ -5484,9 +5805,15 @@ BtnR_StartSoloConfirm_FestTriColor	Yeah!
 Msg_StartSoloContinueConfirm_Bankara	Do you want to continue the challenge from\nwhere you left off? (Wins: {[0200|00010000]} Losses: {[0200|01010000]})
 BtnL_StartSoloContinueConfirm_Bankara	Nah
 BtnR_StartSoloContinueConfirm_Bankara	Continue!
+Msg_StartSoloContinueConfirm_XMatch	Do you want to continue the challenge from\nwhere you left off? (Wins: {[0200|00010000]} Losses: {[0200|01010000]})
+BtnL_StartSoloContinueConfirm_XMatch	Nah
+BtnR_StartSoloContinueConfirm_XMatch	Continue!
 Msg_StartSoloConfirm_Coop	Join a work crew?
 BtnL_StartSoloConfirm_Coop	Nah
 BtnR_StartSoloConfirm_Coop	Yeah!
+Msg_StartSoloConfirm_CoopBigRun	Join a Big Run work crew?
+BtnL_StartSoloConfirm_CoopBigRun	Nah
+BtnR_StartSoloConfirm_CoopBigRun	Yeah!
 Msg_QuitConfirm	Leave room?
 BtnL_QuitConfirm	Nah
 BtnR_QuitConfirm	Leave
@@ -5545,6 +5872,31 @@ BtnL_ReservedReplayDownloadConfirm	Nah
 BtnR_ReservedReplayDownloadConfirm	Download!
 Msg_RecruitNotification	Recruitment notification sent to your friends!
 Msg_RecruitFullMember	The room is full, so you can't recruit\nany more members.
+Msg_DescribeXRankingRegion	X Battles and rankings are split into two divisions—\n{color[0100]}Takoroka Division{color[ffff]} and {color[0100]}Tentatek Division{color[ffff]}.\n\nSo before you get started, you'll need to join the\ndivision that best matches up with your location.
+Msg_ConfirmXRankingRegion	Are you OK with this division?\nOnce you select a division, you can't change it until\nthe next season.\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}
+BtnL_ConfirmXRankingRegion	Change
+BtnR_ConfirmXRankingRegion	OK
+Msg_SelectXRankingRegion	Which division will you join?\n\n{color[0100]}{size[9600]}Takoroka Division{size[6400]}{color[ffff]}\n{size[4b00]}（Japan/Hong Kong/S. Korea/Australia/New Zealand）{size[6400]}\n\n{size[9600]}{color[0100]}Tentatek Division{color[ffff]}{size[6400]}\n{size[4b00]}（The Americas/Europe）{size[6400]}
+BtnL_SelectXRankingRegion	Takoroka
+BtnR_SelectXRankingRegion	Tentatek
+Msg_NoticeXRankingRegion	Are you OK with this division?\nOnce you select a division, you can't change it until\nthe next season.\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}\n\nNote: Choosing the wrong division could lead to\nin-game lag, matchmaking difficulties, and other\ngameplay issues.
+BtnL_NoticeXRankingRegion	Choose Again
+BtnR_NoticeXRankingRegion	OK
+Msg_FirstPlayerNameAlias	Setting an alias allows you to join Private\nBattles with a different nickname than usual.
+Msg_ConfirmPlayerNameAlias	You entered: {color[0100]}{d}{color[ffff]}\n\nUse this alias in Private Battles?
+BtnL_ConfirmPlayerNameAlias	Never Mind
+BtnR_ConfirmPlayerNameAlias	That's Me!
+Msg_UdemaeReset_Already	You can only reset your rank once per season.\nNo more resets remain this season.
+Msg_UdemaeReset_Confirm1	Reset your rank to {[0403|00000000]}?\n(You can only reset once per season.)
+BtnL_UdemaeReset_Confirm1	Nah
+BtnR_UdemaeReset_Confirm1	Reset It!
+Msg_UdemaeReset_Confirm2	Are you SURE you want to reset your rank?
+BtnL_UdemaeReset_Confirm2	Nah
+BtnR_UdemaeReset_Confirm2	Very Sure!
+Msg_UdemaeReset_Processing	Please wait...
+Msg_UdemaeReset_Done	Rank reset to {[0403|00000000]}.
+Msg_CoopPrivate_ScenarioApplied	The host has selected a job scenario.
+Msg_CoopPrivate_InvalidScenario	This job scenario cannot be played due to\nan issue with the data.
 CommonMsg\SystemWindow\SystemMsg_MainMenu.msbt
 Msg_PlayerMakeConfirm	Wanna change up your look? Or Smallfry's look?\n(You won't lose any of your gear or cash.)
 BtnL_PlayerMakeConfirm	Nah
@@ -5558,6 +5910,7 @@ Msg_PhotoAlbumUploadFailure	Failed to send...
 CommonMsg\SystemWindow\SystemMsg_Versus.msbt
 Msg_NoContest	One or more players disconnected shortly\nafter the battle began. Disconnected players\nwill be assigned a loss, but the battle will not\ncount for players who remained connected.
 Msg_NoContest_Private	{color[0100]}{[0400|00000000]}{color[ffff]} has ended the battle.
+Msg_SpectatorCannotPhoto	You can't take pictures as a spectator.
 CommonMsg\Talk\TalkCoop.msbt
 Coop_InGame_AppearTarget	You've got a {color[0100]}Boss Salmonid{color[ffff]} incoming. DO YOUR JOB!
 Coop_InGame_AppearBank	The egg basket is ready and waiting. Don't let me down.
@@ -5714,6 +6067,13 @@ Coop_Result_C2_Failure_Missile_00	Use the cannons to fight off the Cohock Charge
 Coop_Result_C2_Failure_Tamaire_00	It takes teamwork to topple a Mudmouth. And bombs.
 Coop_Result_C2_Failure_Relay_00	It's everyone's job to get Golden Eggs into that basket.\nCarrying, passing, depositing... Smart delegation is key!
 Coop_Result_C2_Failure_Boss_00	At least you got a LOT of Golden Eggs! I can't wait to\nsee how many you'll get next time.
+Coop_InGame_AppearBank_BigRun	The egg basket is ready and waiting. Get to work\nand protect the city! And don't let me down.
+Coop_InGame_AppearTarget_BigRun	I'm not going to sugarcoat it—there are Salmonids\neverywhere. Just stay focused on the task at hand,\nand you'll get through. I hope you had your coffee...
+Coop_InGame_DisappearBank_BigRun	I'm pleased to report that you're turning the tide.\nKeep up the good work. And come to Papa, little eggs...
+Coop_InGame_DisappearBank_Final_BigRun	Way to show those Salmonids who's the boss!\nIt's me. I'm the boss.
+Coop_Result_C1_Success_00_BigRun	Well done. You've saved the city and, more importantly,\nincreased my egg count by {[0200|00010000]}. I'll remember this when\nit's time for your performance review.
+Coop_Result_C1_Failure_AllDead_00_BigRun	Crew got wiped, huh? Happens to the best of us.\nBesides, the Golden Egg count is what really matters.\nAnd it looks like you got...{[0200|00010000]}.
+Coop_Result_C1_Failure_TimeUp_00_BigRun	Time to clock out! Is it just me, or is the workday\ntoo short? Anyway, nice job on the Golden Eggs.\nYou got {[0200|00010000]}!
 CommonMsg\Talk\TalkShop.msbt
 Weapon_Welcome_00	Hello, hello! What are you in the\nmarket for today?
 Weapon_WelcomeS	Hello, hello!
@@ -5841,15 +6201,21 @@ Goods_ThanksBadgeA_00	Oh. Hey. You've bought a lot of\nstuff from this place...{
 Goods_ThanksBadgeB_00	Oh. Hey. You've bought a LOOOT of\nstuff from this place...{[0004]}Barry had another message for this.{[0004]}He wanted me to get super sappy if a\nregular customer became a super-big\nspender here. Like you. So congrats\non...buying a lot of stuff. You did it.{[0004]}Then he wanted me to do another\n{color[0100]}badge{color[ffff]} ceremony with a handshake,\npublicity photos, singing a parody\nsong that he wrote himself...{[0004]}So anyway...here. Badge. Ta-daaa.
 CommonMsg\Talk\TalkShopWeaponExp.msbt
 Shooter_Short_00	With its wide muzzle, the\n{color[0100]}Sploosh-o-matic{color[ffff]} is well suited\nfor close-combat situations.{[0004]}And escorting you to those close-\ncombat situations is the {color[0100]}Curling\nBomb{color[ffff]}! Let one loose, and it'll lay\ndown a proverbial red carpet to\nyour foes' feet.{[0004]}Combined with the {color[0100]}Ultra Stamp{color[ffff]}'s\nforward rush, you have one powerful\nsetup for players who love getting up\nclose and personal—or who want to\nblaze a path forward for their allies.
+Shooter_First_01	The {color[0100]}Custom Splattershot Jr.{color[ffff]} offers\nthe same functions as the\nSplattershot Jr., but with a twist!{[0004]}Paired with the {color[0100]}Torpedo {color[ffff]}sub weapon\nand {color[0100]}Wave Breaker {color[ffff]}special, this\nloadout allows you to seek out and\nexploit your opponents' positions\nto maximize your team's advantage!{[0004]}I recommend this set for players\nwho know there's no "I" in "team,"\nno "L" in "victory," and who are\njust generally good at spelling overall.
 Shooter_Precision_00	For your main weapon, I present the\n{color[0100]}Splash-o-matic{color[ffff]}, a weapon fine-tuned\nfor highly accurate barrages!{[0004]}It may not have the ink spread or\nraw power of some weapons, but\nit more than makes up for it with\nrapid fire that is quite rapid indeed.{[0004]}Plus, when you can pin down an\nenemy with {color[0100]}Burst Bombs{color[ffff]}, you don't\nneed as much power. Simply splatter\nthem at your leisure while they're\nmired in your ink.{[0004]}And with the {color[0100]}Crab Tank {color[ffff]}special in\nyour back pocket, nothing can\nstand in your way! Try not to laugh\nmaniacally as you overpower the\nother team time and again.
 Shooter_Blaze_00	The range and accuracy of the\n{color[0100]}Aerospray MG{color[ffff]} aren't anything to write\nhome about, but break out a pen and\nsome stationery for its rate of fire!{[0004]}And when you pair a nimble weapon\nlike that with {color[0100]}Fizzy Bombs{color[ffff]}, it makes\nmovement a breeze. You can quickly\nlock down plenty of turf to help\nsupport your teammates.{[0004]}Of course, inking turf is the name\nof the game, but sometimes you\nneed a little extra OOMPH, and that's\nwhere the {color[0100]}Reefslider {color[ffff]}special comes\nin. Ride it to glorious victory!{[0004]}This setup is ideal for players who\nlike to mix it up—tactically pushing\nthe front line and waiting for the\nright moment to go big.
+Shooter_Blaze_01	Love the Aerospray MG but wish it\ncame with a different sub and\nspecial? Well, today is your lucky\nday! The {color[0100]}Aerospray RG {color[ffff]}set was made\njust for you!{[0004]}It's the same great Aerospray that\nlets you spray it—not say it—but\nthe addition of the {color[0100]}Sprinkler {color[ffff]}sub\ngives you absurd coverage.{[0004]}And when you need something with\nmore mustard to make a strategic\npush, {color[0100]}Booyah Bombs {color[ffff]}always live up\nto their name. I recommend this set\nfor those who ink outside the box!
 Shooter_Normal_00	The {color[0100]}Splattershot{color[ffff]} is beloved for its\nease of handling and high potential.\nThis is the latest model of the\ngo-to weapon!{[0004]}Paired with {color[0100]}Suction Bombs{color[ffff]}, you have\na wonderfully stable loadout that\nallows you to respond to whatever\nthe enemy throws at you.{[0004]}And let's not forget the {color[0100]}Trizooka{color[ffff]}\nspecial. Let one off the leash at\nthe right moment, and I guarantee\nyour opponent won't forget!{[0004]}Is this setup a little basic? Yes!\nBasically one of the best setups you\ncan have! Master the fundamentals,\nand you'll become a force to be\nreckoned with.
+Shooter_Normal_01	As if the original Splattershot wasn't\nstylish enough, a special collab gives\nus the {color[0100]}Tentatek Splattershot{color[ffff]}!{[0004]}Functionally, the weapon is identical\nto a regular Splattershot. But its\nfashion-forward form comes with\n{color[0100]}Splat Bombs {color[ffff]}and the feared {color[0100]}Triple\nInkstrike{color[ffff]} special.{[0004]}It's always in style to mix things up,\nso I recommend this loadout for\nSplattershot users who dare to be\ndifferent. Talk about très dangereux!
 Shooter_Gravity_00	The {color[0100]}.52 Gal{color[ffff]} is a heavy hitter with\nan extra-large nozzle for shooting\nmassive amounts of ink.{[0004]}Of course, all that power comes at\nthe expense of fire rate...which is\nwhy you'll want the {color[0100]}Splash Wall {color[ffff]}to\nhide behind while reloading.{[0004]}And if the other team is playing it\na little too safe, you've always got\nthe {color[0100]}Killer Wail 5.1{color[ffff]}. Lock on and blast\n'em with lasers!{[0004]}So if you're the type to hang back\nand wait for just the right moment,\nthis loadout is for you.
 Shooter_QuickMiddle_00	The {color[0100]}N-ZAP '85{color[ffff]} is a shooter with\nexcellent ink efficiency and\nrapid-fire capability!{[0004]}And, um...its power is certainly...\nadequate. Sorry—I hate to say\nanything negative, but this weapon\ndoesn't pack the biggest punch.{[0004]}But that's OK! It's fast enough to\nsend your enemies scrambling...and\nthat's when you hit 'em with the\n{color[0100]}Suction Bombs{color[ffff]}.{[0004]}Fire up the {color[0100]}Tacticooler {color[ffff]}to energize\nyour squad for a big push, and you've\ngot a nimble loadout that's built for\nteamwork. It's what makes the\ndream work!
 Shooter_Expert_00	The {color[0100]}Splattershot Pro{color[ffff]} was developed\nfor more advanced users by the\nsame team that brought you the\nSplattershot!{[0004]}And here's a "pro" strategy for using\nit—deploy the {color[0100]}Angle Shooter {color[ffff]}to limit\nyour opponent's movement, then take\nadvantage of the Pro's accuracy and\nrange to splat 'em from downtown.{[0004]}Of course, sometimes you just want\nto crush your enemies with a\ncrustacean, and that's where the\n{color[0100]}Crab Tank {color[ffff]}comes in.{[0004]}Putting it all together is easier said\nthan done, but this setup is built\nfor players who dare to dream.
+Shooter_Expert_01	If the Splattershot Pro is for pro\nSplattershot users, I guess the\n{color[0100]}Forge Splattershot Pro{color[ffff]} is for pro\nSplattershot users who also rock\nForge-brand gear!{[0004]}It's a mouthful, but when this set is\nfiring on all cylinders, it does the\ntalking for you.{[0004]}The main weapon is functionally\nidentical to the base Splattershot\nPro, but a {color[0100]}Suction Bomb {color[ffff]}a day keeps\nthe enemies away! Or, well, as many\nSuction Bombs as you can muster.{[0004]}And while the {color[0100]}Booyah Bomb {color[ffff]}special\nmight feel like too many bombs, when\nyou get a chance to drop one, you'll\nrealize that there's no such thing\nas too many bombs!{[0004]}This set isn't necessarily balanced\nfor a beginner, but if you can handle\nit, few opponents will be able to\nhandle YOU!
 Shooter_Heavy_00	The {color[0100]}.96 Gal{color[ffff]} is a shooter that hits\nhard and has a long range, courtesy\nof its large chamber and extended\nbarrel!{[0004]}This thing would be an absolute\ncheat code if it fired just a little\nfaster...but you can't have your\ncrab cake and eat it too. You have\nto make each shot count!{[0004]}Still, you can set up a {color[0100]}Sprinkler {color[ffff]}to\nhelp secure your turf...and the\n{color[0100]}Ink Vac {color[ffff]}special doesn't suck. I mean,\nit DOES, but...you know what I mean!
 Shooter_Long_00	The {color[0100]}Jet Squelcher {color[ffff]}has boosted pump\npressure to give it a range that\nrivals charger weapons!{[0004]}Like other weapons with extreme\nrange, it doesn't offer much in the\nway of power. But when combined\nwith the {color[0100]}Angle Shooter {color[ffff]}sub, your\nenemies won't know what hit 'em.\nBecause you'll be SO far away!\nAdd the {color[0100]}Ink Vac {color[ffff]}to the mix to suck\nup incoming offensives, and you have\na loadout that's perfect for cool,\ncalculating players who play it safe.
+Shooter_QuickLong_00	There are a lot of cool weapons in\nthe Splattershot family, but the\n{color[0100]}Splattershot Nova {color[ffff]}is a unique combo\nof range and firing rate in one\nawesome package!{[0004]}Granted, the weapon isn't going to\nwin "Most Powerful" at the splat\npageant, but it's great at supporting\nyour front-line allies from a distance.{[0004]}Plus, when paired with the {color[0100]}Point\nSensor{color[ffff]}, you can telegraph opponent\nmoves to your team—and mop up\nany survivors with the {color[0100]}Killer Wail 5.1{color[ffff]}\nspecial.{[0004]}If you like to save the tastiest-\nlooking bite of food for last, give\nthis loadout a try! And stop doing\nthat—it'll taste better at the start\nof the meal.
 Blaster_Short_00	The {color[0100]}Luna Blaster{color[ffff]} may look cute, but\nits short-range exploding ink shots\npack a serious wallop.{[0004]}If you find that your enemies are\ndancing just outside that range,\ntoss a few {color[0100]}Splat Bombs {color[ffff]}to keep 'em\non their toes.{[0004]}And for the ones sniping you from\nFAR away, fire up the {color[0100]}Zipcaster{color[ffff]},\nsneak behind 'em, and...well, you\nknow what to do from there.{[0004]}Really, this set is ideal for players\nwho want to read the terrain and\nreact to their opponents' moves.
+Blaster_Short_01	Some say the {color[0100]}Luna Blaster Neo {color[ffff]}is\njust a Luna Blaster with a sweet\nnew design. I...may have said that\nmyself. But the loadout as a whole\nis actually quite different!{[0004]}Of course, the weapon packs that\nsame great punch as the original\nLuna Blaster, but if you find the\nrange isn't enough, now you can\nfire off a {color[0100]}Fizzy Bomb{color[ffff]}.{[0004]}And for those times you're politely\nknocking on the door but can't break\nthrough, the {color[0100]}Ultra Stamp {color[ffff]}can help\nkick that thing down and get the\nsplat party started!{[0004]}This set is cute as all get-out, but\nit's deadlier than a bathtub full of\nalligators. If you're into that kind\nof contrast, give it a try!
 Blaster_Middle_00	What can I say about the {color[0100]}Blaster{color[ffff]}\nother than...it blasts. HARD.\nWhen those balls of ink explode,\nthey can even tag enemies hiding\nbehind walls.{[0004]}Now, the range isn't great, and the\nrate of fire leaves a little to be\ndesired, but you can always coax\nan enemy out of hiding with an\n{color[0100]}Autobomb{color[ffff]}, can't you?{[0004]}On the other hand, if you're getting\ncharged, that's when it's time to\nbreak out the {color[0100]}Big Bubbler{color[ffff]}.{[0004]}Basically, if YOU want to be the\none controlling the action, this\nis the loadout for you.
 Blaster_Long_00	The {color[0100]}Range Blaster{color[ffff]} delays the\noxidization of ink, which extends\nthe range before it explodes.{[0004]}Let that sink in. It's SO COOL how\nit works! Of course, you lose a\nlittle fire rate, but that's OK when\nyou have {color[0100]}Suction Bombs{color[ffff]} to flush\nout your opponents.{[0004]}And with the {color[0100]}Wave Breaker {color[ffff]}at your\ndisposal to reveal their positions,\nit's almost like your enemies will\nhave nowhere to hide!{[0004]}I recommend this loadout to anyone\nwho fancies themselves a master\nof the hunt.
 Blaster_LightShort_00	You know how blasters tend to have\na low rate of fire? Not the {color[0100]}Clash\nBlaster{color[ffff]}! Its speedy shots are great\nfor keeping foes at bay!{[0004]}Now, it's not going to win any awards\nfor power, but when you have {color[0100]}Splat\nBombs{color[ffff]} to corner your enemies, it'll\nget the job done.{[0004]}And if an opponent still manages to\nslip away? That's when you trash\n'em with the {color[0100]}Trizooka{color[ffff]}. Talk about\na chaotic combo. If that sounds fun,\nthis loadout is for you!
@@ -5859,10 +6225,13 @@ Shooter_TripleQuick_00	Why fire once when you can fire\nthree times? That's the 
 Shooter_TripleMiddle_00	If you like the L-3 Nozzlenose but\nfind it a bit lacking in power...\nenter the {color[0100]}H-3 Nozzlenose{color[ffff]}!{[0004]}The "H" probably stands for "heavy,"\nbut I like to think it stands for\n"HAHAHAHA," which is the noise one\ntypically makes while firing it.{[0004]}Now, the fire rate suffers a bit\ncompared to lighter weapons, but\nwhen you can pinpoint your enemies\nwith a {color[0100]}Point Sensor{color[ffff]}, you can make\neach shot count.{[0004]}And with a team all juiced up on\nenergy from your {color[0100]}Tacticooler{color[ffff]}, you're\nready to laugh all the way to the\nwinner's circle.
 Shooter_Flash_00	The {color[0100]}Squeezer {color[ffff]}is a great choice for\nplayers who want flexibility. Pull the\ntrigger once, and you get a single\nhigh-powered shot.{[0004]}But holding down {[030c|0000803f00000000]} {color[0100]}changes\neverything{color[ffff]}! Suddenly the rate of\nfire goes up, and the Squeezer\ntransforms into an absolute\nturf-inking machine.{[0004]}Master both modes, and you'll barely\neven need the {color[0100]}Splash Wall {color[ffff]}to shore\nup your defenses. But it's there for\nyou anyway!{[0004]}And with a {color[0100]}Trizooka {color[ffff]}to tame far-off\nenemies, this set is built for flashy\nfighters who are comfortable being\nthe center of attention.
 Roller_Compact_00	The {color[0100]}Carbon Roller{color[ffff]} is a lightweight\nroller built using low-density parts\nfor increased handling!{[0004]}Of course, lightweight leads to\nlight inking capability, but if you\ncan find an opponent with an\n{color[0100]}Autobomb {color[ffff]}and then sneak behind\nthem, it'll get the job done.{[0004]}Rounding out this zippy little loadout\nis the {color[0100]}Zipcaster{color[ffff]}, which can also help\nyou surprise and undelight your\nopponents. Basically, if you want to\nbe a ninja, try out this set!
+Roller_Compact_01	Feel like the Carbon Roller could use\na little more zazz? Then the {color[0100]}Carbon\nRoller Deco{color[ffff]} might be for you, friend!{[0004]}With a look created by top designers,\nthis special roller comes with {color[0100]}Burst\nBombs{color[ffff]} to take your inking abilities\nto a whole new level.{[0004]}You'll cover so much turf that your\nopponents will find it hard to move—\nand then you can hit 'em with the\n{color[0100]}Trizooka {color[ffff]}from way downtown.{[0004]}It really is that simple with this set.\nIf you like sticking with a tried-and-\ntrue strategy—ink first and ask\nquestions never—then give it a try!
 Roller_Normal_00	The {color[0100]}Splat Roller {color[ffff]}represents the\n{color[0100]}roller{color[ffff]} class of weapons that excel\nat close combat and inking turf.{[0004]}With any roller, you can tap {[030c|0000803f00000000]}\nto fling ink, or hold {[030c|0000803f00000000]} down as\nyou run to lay down a path of\ninky goodness.{[0004]}Try using your {color[0100]}Curling Bombs {color[ffff]}to\nsneak up close to an enemy, and\nthen...PLOOSH! Get 'em with the\nroller. It's oh so satisfying.{[0004]}As an added strategic wrinkle, you\nhave the {color[0100]}Big Bubbler {color[ffff]}to rally your\nteam to the front line at just the\nright moment.{[0004]}If you're new to rollers, I can't\nrecommend this loadout enough.\nWho knows? Maybe you'll become\na roller for life!
 Roller_Heavy_00	The {color[0100]}Dynamo Roller{color[ffff]} is a roller I\ndesigned myself using a power\ngenerator for high strength and\nlong range!{[0004]}Now, I wasn't able to reduce the\nweight on the motor as much as I\nwould have liked, but this thing\ncan REALLY spill some ink, if I do\nsay so myself.{[0004]}Pair it with the {color[0100]}Sprinkler {color[ffff]}sub, and\nyou can push forward to apply max\npressure to the other team.{[0004]}And what will your team be doing,\nyou ask? Why, relaxing and enjoying\nsweet, sugary sips from your\n{color[0100]}Tacticooler{color[ffff]}, of course. You'll be the\nmost popular teammate around!
 Roller_Hunter_00	The {color[0100]}Flingza Roller{color[ffff]} is a wild one.\nIts shape changes depending on\nwhether you swing it vertically\nor horizontally!{[0004]}I won't get too technical, but the\nautomatic centrifugal clutch allows\nfor light horizontal swings that go\nFLOOSH and heavier vertical swings\nthat are more like GLOMP!{[0004]}The bottom line is that you can\ncontrol the action. Use the vertical\nswing to lay down a path, then take\ndown nearby opponents with the quick\nstrike of a horizontal swing.{[0004]}While you're zipping around, you can\nalso lay down {color[0100]}Ink Mines {color[ffff]}to help sniff\nout opponents and fire off some\n{color[0100]}Tenta Missiles {color[ffff]}for a one-two punch.{[0004]}If you're up to the challenge of\nsimply dominating a match, then\nyou should give this set a try!
+Roller_Wide_00	You ever think to yourself..."This\nroller is great, but what if it were\nWIDER?" If so, the {color[0100]}Big Swig Roller{color[ffff]}\nmay be just what you wanted!{[0004]}They've taken a regular roller and\njust...made the roller part bigger!\nThe result is that you can lay down\na veritable red carpet—or green, or\npink, or...you get it—of ink.{[0004]}Horizontal swings also hit a wider\nrange, and vertical swings launch\nfarther. The drawback is that attack\npower is lower than other rollers.{[0004]}That may not be an issue when\nyou're hiding behind a {color[0100]}Splash Wall{color[ffff]}, or\nwhen you can guzzle enemy ink with\nthe {color[0100]}Ink Vac {color[ffff]}special, so the set is\nactually pretty well-balanced.{[0004]}If you can't stand to see even a\nsingle spot of un-inked turf, give\nthis set a try!
 Brush_Mini_00	The {color[0100]}Inkbrush{color[ffff]} is a super-light brush\nweapon that lets you ink your way\nforward with blistering speed!{[0004]}There's not much room for power\nwhen you're moving that fast, but\nyou can keep counterattacks at\nbay with plenty of {color[0100]}Splat Bombs{color[ffff]}.{[0004]}Add the {color[0100]}Killer Wail 5.1 {color[ffff]}to the mix,\nand you've got a combo that will\nconfuse and annoy your opponents\ninto submission!{[0004]}I can see it now... You blaze across\nbattle lines...toss a Splat Bomb, and\ntrigger the Killer Wail just in time to\nheadbang along as the clock runs out.\nWhew! That's inking outside the box!
+Brush_Mini_01	If you like the Inkbrush but you're\nnot thrilled with its base loadout,\nwhy not try something new? By that\nI mean the {color[0100]}Inkbrush Nouveau{color[ffff]}!{[0004]}You can use that patented Inkbrush\nmobility to glide across the terrain,\nleaving {color[0100]}Ink Mines {color[ffff]}in all sorts of\nINK-onvenient places for the other\nteam as you go.{[0004]}Find yourself in a tight spot? Blast\nyour way out with the {color[0100]}Ultra Stamp{color[ffff]}!\nThen you can continue inking up\nenemy territory like a postmodern\npainter gone wild.{[0004]}This is the perfect set for battle\nartists who can't stand to stand still!
 Brush_Normal_00	The {color[0100]}Octobrush{color[ffff]} has dense bristles\nthat fling a thick stream of ink with\neach slash. It's a heavier entry in the\n{color[0100]}brush{color[ffff]} weapon class, which is known\nfor being light and nimble.{[0004]}But even with those heavy brush\nstrokes, you won't be able to reach\neverywhere—and that's where the\n{color[0100]}Suction Bombs {color[ffff]}come in.{[0004]}Lastly, if you're up against enemies\nwith ranged weapons who just won't\nengage up close, you've got the\n{color[0100]}Zipcaster {color[ffff]}in your back pocket. Zip\non over and give 'em what for!{[0004]}This is a user-friendly loadout that's\neasy for beginner brushers but\ncapable enough for true artistes!
 Charger_Quick_00	Ah, the {color[0100]}Classic Squiffer{color[ffff]}. For a\ncharger, it's a bit short on range,\nbut in return it can charge up\nmuch more quickly.{[0004]}That allows you to use it in a more\noffensive way! I mean...being on\nthe offense. Not that the weapon is\noffensive...except to your opponents.{[0004]}Anyway, I'd take advantage of the\n{color[0100]}Point Sensor {color[ffff]}sub to coordinate an\nattack with my teammates.{[0004]}And if my home turf was invaded, I'd\ndeploy the {color[0100]}Big Bubbler {color[ffff]}and hide inside,\nusing that Classic Squiffer action to\nsnipe enemies. Comfy in close range\nwith a charger? This set is for you!
 Charger_Normal_00	Simply put, the {color[0100]}Splat Charger{color[ffff]} is a\n{color[0100]}charger{color[ffff]}-type weapon designed for\nlong-range offense.{[0004]}Its operation is standard—hold down\n{[030c|0000803f00000000]} to charge up ink, then release\n{[030c|0000803f00000000]} to fire it all out at once, inking\na long path in an instant!{[0004]}Ah, but here's a key difference...the\nSplat Charger can actually {color[0100]}hold its\ncharge{color[ffff]} for a short period while you\nswim. Tactically speaking, that's a\ngame-changing advantage!{[0004]}And with {color[0100]}Splat Bombs {color[ffff]}to flush out\nhiding enemies and the {color[0100]}Ink Vac {color[ffff]}to\nturn the tables on invaders, this set\nis impressively well-balanced.{[0004]}I recommend it for anyone who's\nlooking to eventually master the\ncharger category of weapons!
@@ -5871,17 +6240,21 @@ Charger_Long_00	With its pressurized polymer\nconstruction, the {color[0100]}E-l
 Charger_LongScope_00	The {color[0100]}E-liter 4K Scope{color[ffff]} delivers the\nlong-range action of the 4K model\nwith a scope for added accuracy!{[0004]}Though it boasts a shot range that\nbeats almost every other charger,\nyou'll want to be extra aware of your\nsurroundings when scoping in.{[0004]}Unlike the E-liter 4K, the scoped\nconfiguration won't let you store a\ncharged shot, so keep that in mind\nas you adjust to the feel of using\na scope.{[0004]}It comes with the same {color[0100]}Ink Mines {color[ffff]}and\n{color[0100]}Wave Breaker {color[ffff]}special as the base\nE-liter 4K, so you can apply the same\nstrategy—stay safe while you zoom\nin and splat unsuspecting foes!
 Charger_Light_00	The {color[0100]}Bamboozler 14 Mk I{color[ffff]} is a tribute\nto a weapon used by the leader of\nthe famous Squidbeak Splatoon, but\nretooled for the battles of today!{[0004]}I've used bamboo in my version to\nremain faithful to the original design,\nbut as a trade-off, it {color[0100]}can't store a\ncharged shot{color[ffff]}.{[0004]}Is it the most powerful charger?\nNo. Is it the most mobile charger?\nAlso no. But with "good enough"\npower and charging speed, I think\nthis is a compromise that WORKS.{[0004]}Plus, when you have {color[0100]}Autobombs {color[ffff]}to\nsniff out enemy positions, you can\nput yourself in the perfect spot to\ncharge up and attack!{[0004]}For the coup de grâce, activate your\n{color[0100]}Killer Wail 5.1 {color[ffff]}and take a moment to\npay tribute to the legendary leader\nwho inspired this weapon.
 Charger_Keeper_00	I debuted this weapon before, but I'm\nas proud as ever of the {color[0100]}Goo Tuber{color[ffff]}, a\ncharger with the upgraded ability to\nstore your charge even longer!{[0004]}It offers high-pressure ink storage\nfor extended periods, allowing you to\nstay submerged while you wait for\nthe perfect shot!{[0004]}In exchange, it takes a bit longer to\ncharge, but this baby can even {color[0100]}store\na{color[ffff]} {color[0100]}partial charge{color[ffff]}, giving you the\nultimate in flexibility.{[0004]}For instance, while you use a {color[0100]}Torpedo{color[ffff]}\nto reveal enemy positions, you can\nbe comfortably charging away in\na safe spot.{[0004]}Then, when you're ready to ink 'em\nup, zip to the most advantageous\nspot and snipe away! If you miss,\nyou have {color[0100]}Tenta Missiles {color[ffff]}in your back\npocket to finish the job.{[0004]}If you want to take your strategy to\nthe next level by storing charges\nand taking advantage of each stage's\nunique terrain with your mobility,\nthis set is for you!
+Charger_Pencil_00	If you use chargers but wish they\nwere a little more...prolific...enter\nthe {color[0100]}Snipewriter 5H{color[ffff]}! It's a charger-\nstyle weapon that can fire shots\nin quick succession.\nHold down {[030c|0000803f00000000]} to charge, and then\nrelease to fire. Then you can press\n{[030c|0000803f00000000]} to fire again and again—up to\nfive shots on a single charge!{[0004]}Now, there's always a catch, and\nhere's the catch on this weapon—\neach shot is a bit less powerful than\nsome other chargers, and you can't\nstore a charge.{[0004]}But when you have the {color[0100]}Sprinkler {color[ffff]}to\nhelp with coverage and a {color[0100]}Tacticooler{color[ffff]}\nto power up your friends, those may\nbe catches you can live with.{[0004]}The fifth time's the charm with\nthis unique charger, so I hope you'll\ngive it a try!
 Slosher_Strong_00	The {color[0100]}Slosher {color[ffff]}is one of the most\ntechnologically advanced weapons I\nhave had the privilege of demoing.{[0004]}I'm kidding! It's a bucket of ink!\nBut that doesn't mean it can't be\nabsolutely brutal in the right hands.{[0004]}See, {color[0100]}slosher{color[ffff]}-type weapons are\nperfect for attacking enemies in\nelevated positions or hiding behind\nwalls. They think they're safe, and\nthen...SPLOOOSH!{[0004]}You can't rapid-fire a bucket, of\ncourse, but in conjunction with\n{color[0100]}Splat Bombs{color[ffff]},{color[0100]} {color[ffff]}you can stop almost\nanyone in their tracks.{[0004]}And with the {color[0100]}Triple Inkstrike {color[ffff]}special,\nyou have the ability to blindside the\nother team before moving in for the\nsplat. This loadout is a bucketload\nof fun!
+Slosher_Strong_01	Slosher users—ever feel like your\nslosher just isn't as fancy as some\nof the other weapon types? Well,\ncheck out the {color[0100]}Slosher Deco{color[ffff]}! It has\ncool stickers on it!{[0004]}I joke, but no one will be laughing\nwhen you master the {color[0100]}Angle Shooter{color[ffff]}\nsub and tag all your enemies for\neasy splatting by your teammates.{[0004]}And if you use the {color[0100]}Zipcaster {color[ffff]}to\nreach high ground, you can rain\ndown ink all day long like only a\nslosher main can.{[0004]}Your bucket will runneth over with\nthis set, so be sure to give it a try\nif you like sloshing!
 Slosher_Diffusion_00	The {color[0100]}Tri-Slosher {color[ffff]}answers a question\nthat nobody asked, which is..."Please\nlet me fling three giant buckets of ink\nat the same time."{[0004]}Hey, come to think of it, that's not\neven a question! Anyway, since the\nTri-Slosher offers a broader attack,\nthe inkpower is a bit less than your\nbasic Slosher.\nBut when you've got {color[0100]}Toxic Mist {color[ffff]}to\nslow enemies down, it's barely even a\nproblem. Add in the {color[0100]}Inkjet{color[ffff]},{color[0100]} {color[ffff]}and you're\npacking plenty of power. This is a set\nfor sloshing away with impunity!
 Slosher_Launcher_00	The {color[0100]}Sloshing Machine{color[ffff]} is like a washing\nmachine...but for getting everything\nfilthy with ink!{[0004]}Each volley of beautiful, twisting\nink hits its target with plenty of\npower and leaves a sloppy mess\neverywhere. It's great for covering\nplenty of turf.{[0004]}Try using {color[0100]}Fizzy Bombs {color[ffff]}to contain the\nother team's movement while you\ndial the Sloshing Machine up to the\nmax. The other team will be in a spin\ncycle before you know it!{[0004]}And don't forget about your {color[0100]}Booyah\nBombs{color[ffff]}—another tool in your quest\nto make a mess-terpiece of the field.\nBy now it should be clear...this set is\nNOT for neat freaks.
 Slosher_Bathtub_00	Even if you've never lobbed a blob,\nit's not against blob law to use the\n{color[0100]}Bloblobber{color[ffff]}! What's more, each lob\nfires four blobs—that's an awful\nlot of lawful blobs!{[0004]}Once your tongue is untied, you can\nuse the Bloblobber to target a single\nenemy—perhaps your friend Rob—or\nan entire mob. Truly, it's a versatile\nweapon for every job.{[0004]}And although they sound out of place\nhere, the {color[0100]}Sprinkler {color[ffff]}sub weapon and\n{color[0100]}Ink Storm {color[ffff]}special actually complement\nthis set quite nicely. Like butter\nmelting over corn on the cob!
 Slosher_Washtub_00	The {color[0100]}Explosher{color[ffff]} main is a reporpoised\nindustrial heater modified to fling\npiping-hot ink long distances!{[0004]}Its shots explode on contact with\nwalls and the ground, so it's handy\nfor hitting foes who like to hide!{[0004]}And with the {color[0100]}Point Sensor {color[ffff]}sub, you\ncan reveal enemy positions to your\nallies, or queue 'em up for your own\nink bath, courtesy of the Explosher.{[0004]}For super-slippery customers who\nmight be slinking along in their own\nink, fire up the {color[0100]}Ink Storm {color[ffff]}and watch\n'em scramble as they're revealed.{[0004]}With so many ways to direct the\naction, I recommend this loadout\nfor all aspiring team captains!
 Spinner_Quick_00	Ooo, let me tell you all about the new\nand improved {color[0100]}Mini Splatling{color[ffff]}. Thanks\nto a few revisions with the firing\nmechanism, it charges more quickly\nthan ever!{[0004]}This loadout also comes with\n{color[0100]}Burst Bombs{color[ffff]}, which are excellent\nfor inking walls, allowing you to\nget vertical in a hurry when the\nsituation demands it.{[0004]}And speaking of situational strategy,\nwith the {color[0100]}Ultra Stamp {color[ffff]}as your special,\nyou can push the front line at the\ndrop of a splat. Try this set out if\nyou fancy yourself a field general!
+Spinner_Quick_01	The {color[0100]}Zink Mini Splatling {color[ffff]}stands out\nwith a fancy new look and an updated\nsuite of complementary weapons,\nalthough its performance is identical\nto the original Mini Splatling.{[0004]}First of all, we now have the {color[0100]}Toxic\nMist{color[ffff]} sub weapon to slow enemies\ndown. Slow enemies make for good\ntargets, so you're less likely to\n"mist" them with the Mini Splatling!{[0004]}Another good strategy with this\nloadout is to fire up the {color[0100]}Big Bubbler{color[ffff]}\nand take cover while you're charging.\nThen you can burst forward, ready\nto launch an offensive!{[0004]}If you're new to splatlings, this set\nis user-friendly and ready to rock.\nGive it a try!
 Spinner_Standard_00	The mechanics of the {color[0100]}Heavy Splatling{color[ffff]}\nare similar to those of a charger, but\nit's in a weapon class of its own!{[0004]}Hold down {[030c|0000803f00000000]} to compress your ink,\nand then release {[030c|0000803f00000000]} to unleash a\nmonster stream!{[0004]}Now, as you might expect, each\ncharge takes a while to get ready\nand uses a huge amount of ink,\nleaving you wide-open while you wait.{[0004]}That's why the {color[0100]}Sprinkler {color[ffff]}is a great\nsub weapon here. It'll help your turf\nstay inked and keep a little distance\nbetween you and your enemies.{[0004]}The pro move is to fire up your\n{color[0100]}Wave Breaker {color[ffff]}to expose enemy\nlocations while the Heavy Splatling\ncharges up. Then it's open season\nfrom way downtown!{[0004]}With power like this, even enemies\nwith chargers will be jelly!
 Spinner_Hyper_00	The {color[0100]}Hydra Splatling{color[ffff]} is designed to\nimpose extreme pressure on your\nopponents' turf through superior\nfirepower.{[0004]}However, because the weapon takes\nso long to charge, it's definitely\na liability in close quarters.{[0004]}I recommend using your {color[0100]}Autobombs{color[ffff]}\nto fend off incoming bogeys—and\nthey can even help reveal far-off\nopponents who can be splatted from\nlong range!{[0004]}If anyone DOES make it past your\ndefenses, the unwelcome surprises\naren't over. This loadout allows you\nto greet them with a {color[0100]}Booyah Bomb{color[ffff]}!\nMi casa is NOT su casa!{[0004]}I recommend this setup for all you\nhomebodies who want to set up\ncamp and never leave—supporting\nyour team through long-range\nfirepower instead!
 Spinner_Downpour_00	Let me introduce you to a very\nspecial weapon—this is called\nthe {color[0100]}Ballpoint Splatling{color[ffff]}, and it has\na unique dual fire rate!{[0004]}Here's how it works. When you start\nfiring, the barrel spins super fast,\nspraying everything around you with\ntons of ink. It's great for covering\nturf quickly.{[0004]}But once the spin slows a bit, the\nweapon transforms into a long-range\nace! You can target faraway enemies\nwith shocking accuracy.{[0004]}And that's not all! Sorry—I've been\nwatching infomercials. The Ballpoint\n{color[0100]}can be paused midfire{color[ffff]} {color[0100]}to recharge{color[ffff]}.\nNot all splatlings can do that!{[0004]}Now, with all of these features, this\nweapon might take some getting used\nto, so I recommend taking it for a\ntest run on the firing range before\nheading straight into battle.{[0004]}In conjunction with {color[0100]}Fizzy Bombs {color[ffff]}and\nthe {color[0100]}Inkjet {color[ffff]}special, this loadout may\nnot be for beginners, but it's a\ntechnical wizard's dream come true.
 Spinner_Serein_00	The {color[0100]}Nautilus 47{color[ffff]} was the first\nsplatling to allow you to {color[0100]}store your\ncharge {color[ffff]}while swimming in ink!{[0004]}It sounds like a small detail, but let\nme assure you...it's huge! It means\nyou can charge undetected until\nyou're ready to leap out and splat\nan unsuspecting opponent.{[0004]}Of course, this state-of-the-art\nweapon has a few other tricks up\nits sleeve as well...{[0004]}It can be {color[0100]}paused midshot to charge{color[ffff]}.\nIt has a stabilizer to keep your aim\nsteady while you jump. And it makes\nan inkredible grilled cheese! Oh, I may\nhave dreamed the last one...{[0004]}Anyway, with the {color[0100]}Point Sensor {color[ffff]}sub\nand {color[0100]}Ink Storm {color[ffff]}special to help read\nopponent positions, this loadout can\nmake you feel like you're playing in\nCod Mode!
 Maneuver_Short_00	The {color[0100]}Dapple Dualies{color[ffff]} are dualie-type\nweapons that have been obsessively\nengineered for optimum mobility!{[0004]}They're now lighter, allowing for\nfaster movement, but they\nhave less range. It's a trade-off.{[0004]}But you know what goes well with\nmobility? Even more mobility! That's\nwhere the {color[0100]}Tacticooler {color[ffff]}special shines.{[0004]}Blitz forward with added speed from\nthe Tacticooler, and place {color[0100]}Squid{color[ffff]}\n{color[0100]}Beakons {color[ffff]}to help your teammates\nsecure forward positions to take\nadvantage of this set.{[0004]}It's not a hit-and-run strategy.\nIt's more like...run-hit-run-run-hit-\nhit-hit-run... You get the picture.
+Maneuver_Short_01	The trouble with the {color[0100]}Dapple Dualies\nNouveau{color[ffff]} is that you'll be whizzing\nthrough the stage so fast with them\nthat no one will be able to appreciate\ntheir cool design!{[0004]}As weapons, though, they're pretty\ngood. Just like the Dapple Dualies\nyou may know and love already. But\nnow equipped with the {color[0100]}Torpedo{color[ffff]} sub\nto distract and annoy your enemies!{[0004]}And for those times when foes are\nbunching up and you need something\nwith more oomph, kick the {color[0100]}Reefslider{color[ffff]}\ninto gear and splat 'em all at once.{[0004]}If you're good at reading the map\nand making your own plan of attack,\nthis loadout is a great choice!
 Maneuver_Normal_00	Here we have the {color[0100]}Splat Dualies{color[ffff]}, a\n{color[0100]}dualie{color[ffff]} weapon born from the "ink\nhard or get splatted trying" culture\nof Turf War battles!{[0004]}These are dual-wielding, pistol-type\nweapons that—let's be honest—look\npretty sweet. But there's some real\nsubstance behind the style...{[0004]}The propulsive exhaust nozzles on\neach weapon allow you to perform\na high-speed {color[0100]}Dodge Roll{color[ffff]}!{[0004]}As a trade-off, you won't be able to\nmove for a brief moment after\nexecuting this move. But during that\ntime, the two weapon sights overlap,\nincreasing your splatting power.{[0004]}Paired with {color[0100]}Suction Bombs {color[ffff]}as your\nsub weapon, this loadout might SEEM\nas though it's lacking in power...\nthen BOOM. You realize you have\nthe {color[0100]}Crab Tank{color[ffff]}. All hail Crab Tank!
 Maneuver_Gallon_00	The {color[0100]}Glooga Dualies{color[ffff]} were developed\nwith one thing in mind—pure damage.{[0004]}They're not the fastest dualies, but\nwhen you pull off a sweet Dodge Roll\nwith these in your hands, you\ntemporarily gain the ability to fire\nan outrageously powerful shot!{[0004]}Now, while the big-shot power grabs\nthe headlines, many people overlook\nthe {color[0100]}Splash Wall {color[ffff]}sub. And that's a\nmistake, because it actually gives\nyou great defensive balance.{[0004]}Last but not least, the {color[0100]}Booyah Bomb{color[ffff]}\nspecial has the potential to tip the\nscales in your favor. I hope this\nbalanced set helps you net a\nlopsided victory!
 Maneuver_Dual_00	Do you know the Jet Squelcher?\nWould you like to have two of them?\nGood, because that's what {color[0100]}Dualie\nSquelchers{color[ffff]} offer!{[0004]}If you don't know the Jet Squelcher,\nit features the ability to fire off\nextremely accurate and fairly rapid\nshots after executing a roll. And\nnow you have TWO of them!{[0004]}Meanwhile, you can sniff out enemies\nwith both the {color[0100]}Wave Breaker {color[ffff]}special\nand your {color[0100]}Splat Bombs{color[ffff]}. I call it the\n"see it, splat it" strategy.{[0004]}If you like to stick and move with\naccurate shots across a long\ndistance, I recommend you give\nthis loadout a try!
@@ -6001,24 +6374,33 @@ B98	Cuttlegeared
 CommonMsg\UniformName\UniformNameGearName_Head.msbt
 FST000	White-Headbanded
 CAP000	Urchin
+CAP001	Lightweight
 CAP002	Tako-Mesh
 CAP003	Streetstyle
+CAP004	Squid-Stitch
 CAP005	Squidvader
 CAP012	Cycling
 CAP020	Hickory
 CAP021	Woolly-Urchin
+CAP023	Jellyvader
+CAP024	Denim-Headed
 CAP028	{[0506]}
 CAP036	{[0506]}
+NCP001	Li'l Beanie
 NCP008	Knit-Hat
+NCP009	Annaki-Beret-Rockin'
+EYE000	16-Eyed
 EYE001	Splash-Goggled
 EYE002	Pilot-Goggled
 EYE003	Tint-Shaded
-EYE007	Contacted
 EYE008	Aviating
 EYE009	Full-Moon
 EYE011	Half-Rimmed
 EYE012	Shady-Egg
+EYE014	Circle-Shaded
+EYE015	Poetic
 EYE016	Swim-Goggled
+EYE018	Kensa-Goggled
 EYE021	{[0506]}
 EYE022	{[0506]}
 EYE023	{[0506]}
@@ -6027,9 +6409,12 @@ EYE025	{[0506]}
 EYE026	{[0506]}
 EYE027	{[0506]}
 EYE029	{[0506]}
+EYE031	{[0506]}
+HAT003	Blowfish-Bell
 HAT004	Bamboo
 HAT006	Classic-Straw-Boating
 HAT008	Bucket-Headed
+HAT010	2-Lipped
 HAT015	{[0506]}
 HAT016	{[0506]}
 HAT017	{[0506]}
@@ -6039,14 +6424,24 @@ HDP001	Designer-Headphoned
 HDP004	Squidlife
 HDP007	{[0506]}
 HDP008	{[0506]}
+HDP009	{[0506]}
 VIS001	FishFry-Visored
 VIS003	Takoroka-Visored
 VIS004	Introverted
+MET004	Skater
+MET006	Off-Road
 MET007	Hockey-Lovin'
+MET009	Blitz
 MET012	{[0506]}
 MET013	{[0506]}
 MET014	{[0506]}
+MET016	{[0506]}
+MSK002	Paisley
+MSK003	Skull
+MSK004	Painter
 MSK005	Considerate
+MSK006	Conscientious
+MSK007	Mindful
 MSK008	Face-Covered
 MSK011	Forge-Masked
 MSK014	{[0506]}
@@ -6077,32 +6472,45 @@ MSN109	{[0506]}
 MSN306	{[0506]}
 COP110	{[0506]}
 COP111	{[0506]}
+COP112	{[0506]}
 COP113	{[0506]}
+COP114	{[0506]}
 COP115	{[0506]}
+COP116	{[0506]}
+ACC003	{[0506]}
 TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameGearName_Shoes.msbt
 SLO000	Low-Blue
 SLO008	Strapping
 SLO009	Strapped
+SLO010	Striker
+SLO012	Sunny-Climber
 SLO021	{[0506]}
 SLO022	{[0506]}
 SLO023	{[0506]}
 SLO024	{[0506]}
+SLO025	{[0506]}
 SHI000	Red-Horsey
 SHI001	Zombie
 SHI003	Purple-Horsey
 SHI004	Hunting
 SHI005	Ruby-Footed
 SHI006	Gold Horsey
+SHI008	Shark-Footed
+SHI010	Chocolate
 SHI011	Cyan
 SHI016	Sunset-Orca
 SHI017	Dapper
 SHI018	OG
+SHI025	Slammin'
 SHI042	{[0506]}
 SHI043	{[0506]}
 SHI045	{[0506]}
+SHI046	{[0506]}
+SHI052	{[0506]}
 SHT000	Pink-Toed
 SHT001	Orange-Arrowed
+SHT002	Neon-Slug
 SHT004	Aquatic
 SHT009	Shadow-Footed
 SHT012	Yellow-Mesh
@@ -6118,6 +6526,7 @@ SDL001	Choco-Clog
 SDL003	Neon
 SDL004	Flipped
 SDL005	Snowy
+SDL006	Luminous
 SDL007	Fried-Red
 SDL008	Fried-Yellow
 SDL010	{[0506]}
@@ -6130,15 +6539,27 @@ TRS000	Trailer
 TRS001	Custom-Trailer
 BOT000	Moto-Boot
 BOT001	Timmy
+BOT002	Red-Timmy
+BOT004	Splashin'
 BOT006	Punk
 BOT007	Splatter-Punk
+BOT010	Snow-Down
 BOT012	Hunted
+BOT013	Shadow-Punk
+BOT019	{[0506]}
 BOT020	{[0506]}
 BOT021	{[0506]}
 BOT023	{[0506]}
 BOT025	{[0506]}
+BOT026	{[0506]}
+SLP000	Blue-Slip
 SLP002	Squid-Slip
+LTS000	Vanilla-Footed
+LTS003	Squinky
+LTS005	Clammy
+LTS007	Blue-Winged
 LTS010	Habanero
+LTS011	Tiger
 LTS013	{[0506]}
 LTS014	{[0506]}
 AMB000	Schoolin'
@@ -6160,19 +6581,25 @@ AMB015	{[0506]}
 MSN000	Hero-Runner
 MSN004	Steel-Toed
 MSN306	{[0506]}
+TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Main.msbt
 Shooter_Short_00	Splooshy
 Shooter_First_00	Junior
+Shooter_First_01	Custom-Junior
 Shooter_Precision_00	Splashy
 Shooter_Blaze_00	Aerospray-MG
+Shooter_Blaze_01	Aerospray-RG
 Shooter_Normal_00	Splattershottin'
+Shooter_Normal_01	Tentatek-Splattershottin'
 Shooter_Normal_H	Hero-Splatting
 Shooter_Gravity_00	52
 Shooter_QuickMiddle_00	Gray-Zappin'
 Shooter_Expert_00	Splatter-Pro
+Shooter_Expert_01	Forged Splatter-Pro
 Shooter_Heavy_00	96
 Shooter_Long_00	Jet-Squelchin'
 Blaster_Short_00	Luna
+Blaster_Short_01	Neo-Luna
 Blaster_Middle_00	Blastin'
 Blaster_Long_00	Range-Blastin'
 Blaster_LightShort_00	Clash-Blastin'
@@ -6182,10 +6609,12 @@ Shooter_TripleQuick_00	L-3-Nozzlin'
 Shooter_TripleMiddle_00	H-3-Nozzlin'
 Shooter_Flash_00	Squeezy
 Roller_Compact_00	Carbon-Roller
+Roller_Compact_01	Carbon-Roller-Deco
 Roller_Normal_00	Splat-Roller
 Roller_Heavy_00	Dynamo
 Roller_Hunter_00	Flingza
 Brush_Mini_00	Inkbrushin'
+Brush_Mini_01	Inkbrush-Nouveau
 Brush_Normal_00	Octobrushin'
 Charger_Quick_00	Squiffer
 Charger_Normal_00	Splat-Chargin'
@@ -6195,16 +6624,19 @@ Charger_LongScope_00	Scoped-E-liter
 Charger_Light_00	Bamboozler
 Charger_Keeper_00	Goo-Tuber
 Slosher_Strong_00	{[0506]}
+Slosher_Strong_01	{[0506]}
 Slosher_Diffusion_00	{[0506]}
 Slosher_Launcher_00	Sloshing-Machine
 Slosher_Bathtub_00	Bloblobbin'
 Slosher_Washtub_00	{[0506]}
 Spinner_Quick_00	Mini-Splatling
+Spinner_Quick_01	Zink-Mini-Splatling
 Spinner_Standard_00	Heavy-Splatling
 Spinner_Hyper_00	Hydra
 Spinner_Downpour_00	Ballpoint
 Spinner_Serein_00	Naut-47
 Maneuver_Short_00	Dapple-Dualie
+Maneuver_Short_01	Dapple-Dualie-Nouveau
 Maneuver_Normal_00	Splat-Dualie
 Maneuver_Gallon_00	Glooga-Dualie
 Maneuver_Dual_00	Dualie-Squelcher
@@ -6216,6 +6648,9 @@ Stringer_Short_00	{[0506]}
 Shelter_Compact_00	Undercover
 Saber_Normal_00	{[0506]}
 Saber_Lite_00	{[0506]}
+Shooter_QuickLong_00	{[0506]}
+Roller_Wide_00	{[0506]}
+Charger_Pencil_00	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Special.msbt
 SpInkStorm	Stormy
 SpUltraShot	{[0506]}
@@ -6357,6 +6792,8 @@ District	Eeltail Alley
 Yagara	Hagglefish Market
 Temple	Undertow Spillway
 Scrap	Mincemeat Metalworks
+BigSlope	Brinewater Springs
+Jyoheki	Flounder Heights
 Kaisou	Hammerhead Bridge
 Pivot	Museum d'Alfonsino
 Hiagari	Mahi-Mahi Resort
@@ -6365,6 +6802,13 @@ Nagasaki	Sturgeon Shipyard
 Line	MakoMart
 Carousel	Wahoo World
 Unknown	???
+CommonMsg\VS\XRankingRegion.msbt
+Pacific_Short	{[032c|0000803f00000000]}Takoroka Division
+Pacific_Detail	Japan/Hong Kong/S. Korea/Australia/New Zealand
+Pacific_Short_Plain	Takoroka Division
+Atlantic_Short	{[032b|0000803f00000000]}Tentatek Division
+Atlantic_Detail	The Americas/Europe
+Atlantic_Short_Plain	Tentatek Division
 CommonMsg\Weapon\WeaponExp_Special.msbt
 SpInkStorm	Throw this device to generate a rain cloud of ink.\nThe cloud gradually moves away from where the\ndevice was thrown.
 SpUltraShot	Press {[030c|0000803f00000000]} to launch three blasts of spiraling ink\nin a single shot. You can fire it up to three times.
@@ -6399,16 +6843,21 @@ LineMarker	A sub weapon that fires straight forward and leaves\na line in its pa
 CommonMsg\Weapon\WeaponName_Main.msbt
 Shooter_Short_00	Sploosh-o-matic
 Shooter_First_00	Splattershot Jr.
+Shooter_First_01	Custom Splattershot Jr.
 Shooter_Precision_00	Splash-o-matic
 Shooter_Blaze_00	Aerospray MG
+Shooter_Blaze_01	Aerospray RG
 Shooter_Normal_00	Splattershot
+Shooter_Normal_01	Tentatek Splattershot
 Shooter_Normal_H	Hero Shot Replica
 Shooter_Gravity_00	.52 Gal
 Shooter_QuickMiddle_00	N-ZAP '85
 Shooter_Expert_00	Splattershot Pro
+Shooter_Expert_01	Forge Splattershot Pro
 Shooter_Heavy_00	.96 Gal
 Shooter_Long_00	Jet Squelcher
 Blaster_Short_00	Luna Blaster
+Blaster_Short_01	Luna Blaster Neo
 Blaster_Middle_00	Blaster
 Blaster_Long_00	Range Blaster
 Blaster_LightShort_00	Clash Blaster
@@ -6418,10 +6867,12 @@ Shooter_TripleQuick_00	L-3 Nozzlenose
 Shooter_TripleMiddle_00	H-3 Nozzlenose
 Shooter_Flash_00	Squeezer
 Roller_Compact_00	Carbon Roller
+Roller_Compact_01	Carbon Roller Deco
 Roller_Normal_00	Splat Roller
 Roller_Heavy_00	Dynamo Roller
 Roller_Hunter_00	Flingza Roller
 Brush_Mini_00	Inkbrush
+Brush_Mini_01	Inkbrush Nouveau
 Brush_Normal_00	Octobrush
 Charger_Quick_00	Classic Squiffer
 Charger_Normal_00	Splat Charger
@@ -6431,16 +6882,19 @@ Charger_LongScope_00	E-liter 4K Scope
 Charger_Light_00	Bamboozler 14 Mk I
 Charger_Keeper_00	Goo Tuber
 Slosher_Strong_00	Slosher
+Slosher_Strong_01	Slosher Deco
 Slosher_Diffusion_00	Tri-Slosher
 Slosher_Launcher_00	Sloshing Machine
 Slosher_Bathtub_00	Bloblobber
 Slosher_Washtub_00	Explosher
 Spinner_Quick_00	Mini Splatling
+Spinner_Quick_01	Zink Mini Splatling
 Spinner_Standard_00	Heavy Splatling
 Spinner_Hyper_00	Hydra Splatling
 Spinner_Downpour_00	Ballpoint Splatling
 Spinner_Serein_00	Nautilus 47
 Maneuver_Short_00	Dapple Dualies
+Maneuver_Short_01	Dapple Dualies Nouveau
 Maneuver_Normal_00	Splat Dualies
 Maneuver_Gallon_00	Glooga Dualies
 Maneuver_Dual_00	Dualie Squelchers
@@ -6452,6 +6906,9 @@ Stringer_Short_00	REEF-LUX 450
 Shelter_Compact_00	Undercover Brella
 Saber_Normal_00	Splatana Stamper
 Saber_Lite_00	Splatana Wiper
+Shooter_QuickLong_00	Splattershot Nova
+Roller_Wide_00	Big Swig Roller
+Charger_Pencil_00	Snipewriter 5H
 Blaster_Light_Coop	Rapid Blaster
 Blaster_LightLong_Coop	Rapid Blaster Pro
 Blaster_LightShort_Coop	Clash Blaster
@@ -6504,8 +6961,12 @@ Stringer_Normal_Coop	Tri-Stringer
 Stringer_Short_Coop	REEF-LUX 450
 Saber_Normal_Coop	Splatana Stamper
 Saber_Lite_Coop	Splatana Wiper
+Shooter_QuickLong_Coop	Splattershot Nova
+Roller_Wide_Coop	Big Swig Roller
+Charger_Pencil_Coop	Snipewriter 5H
 Blaster_Bear_Coop	Grizzco Blaster
 Charger_Bear_Coop	Grizzco Charger
+Saber_Bear_Coop	Grizzco Splatana
 Shelter_Bear_Coop	Grizzco Brella
 Slosher_Bear_Coop	Grizzco Slosher
 Stringer_Bear_Coop	Grizzco Stringer
@@ -6669,6 +7130,10 @@ Blaster	Blasters
 Brush	Brushes
 Stringer	Stringers
 Saber	Splatanas
+EventFlowMsg\LobbyCoop_BigRunTutorial.msbt
+Comment_00	Welcome to Grizzco Industries.{[0100|0f000000]} And congrats on\nmaking the kind of sound business decision that\nfuture you will no doubt appreciate.{[0004]}I take it my advertisements for help with the {color[0100]}Big Run{color[ffff]}\nhave been effective. {[0100|1e000000]}We are...somewhat short-staffed\nat the moment. You've come at just the right time!
+Comment_01	Oh, by the way, you may have heard that there is a\n{color[0100]}Big Run {color[ffff]}going on right now.
+Comment_02	You...are aware of the {color[0100]}Big Run {color[ffff]}phenomenon, yes?\nWhere Salmonids stray far from their own turf and\ninvade our city?{[0004]}It is business critical that we prevent the Salmonids\nfrom damaging the city. {[0100|1e000000]}Stopping them is no small task,\nbut Grizzco employees are willing to risk it all.{[0004]}The primary objective of stopping the Salmonids just\nso happens to dovetail nicely with our core business\nmodel—collecting Golden Eggs. It's all about synergy!{[0004]}Now, we at Grizzco recognize the risk associated with\nthis challenging task. That's why we're {color[0100]}increasing our\npayout{color[ffff]} for all surviv— Um...for all top producers.{[0004]}We've even prepared a {color[0100]}special decoration{color[ffff]} for everyone,\nregardless of job performance. For more details, just\npress {[0306|0000803f00000000]} when you're talking to me before a job.{[0004]}This has been productive. {[0100|1e000000]}I'm looking forward to\nseeing what you can do with this opportunity.\nGood luck!
 EventFlowMsg\LobbyCoop_RankShortage.msbt
 Comment_00	Welcome to Grizzco Industries. And congrats on taking\nyour first step toward financial securi—{[0004]}Just got here, huh? Look, there's no way I'd hire\nyou right now. You'd only get hurt, and that's far\nmore paperwork than I want to deal with.{[0004]}Hey, don't give me the sad face... OK, how's this—if you\nreally want it that bad, bootstrap yourself up to {color[0100]}level 4{color[ffff]}\nand come back. THEN I'll hire ya!
 EventFlowMsg\LobbyCoop_Tutorial00.msbt
@@ -6717,6 +7182,12 @@ AfterFirstBattle_01	You haven't even set up a {color[0100]}nickname {color[ffff]
 AfterFirstBattle_02	You gotta show up in style to your next battle!\nHit the {color[0100]}lobby terminal{color[ffff]} and set a nickname, OK?
 AfterFirstBattle_Reward_00	Hm, it looks like you might have a bit of older\ndata on your Splashtag...{[0004]}Let's see if we can get that sorted out.
 AfterFirstBattle_Reward_01	Now you just need to register a new\nnickname, and you'll be all set!
+EventFlowMsg\LobbyVersus_FestMikoshi100.msbt
+000	You won a 100x Battle! Congrats!
+001	Thanks to your fast inking, you get to board\na {color[0100]}Splatfest Float {color[ffff]}in the square!{[0004]}Just head to the {color[0100]}Splatfest Pledge Box {color[ffff]}to climb\naboard. And be sure to get some selfies!
+EventFlowMsg\LobbyVersus_FestMikoshi333.msbt
+000	You won a 333x Battle! Congrats!
+001	Thanks to your fast inking, you get to board\na {color[0100]}Splatfest Float {color[ffff]}in the square!{[0004]}Just head to the {color[0100]}Splatfest Pledge Box {color[ffff]}to climb\naboard. And be sure to get some selfies!
 EventFlowMsg\LobbyVersus_FirstEnter.msbt
 FirstEnter_00	Welcome to the {color[0100]}lobby{color[ffff]}! It's your portal to online\nbattles...and where you stash all your gear.
 FirstEnter_01	As you splat forth in online battles, you'll\n{color[0100]}level up{color[ffff]} and {color[0100]}earn cash{color[ffff]}, to boot.{[0004]}Why level up and get cash? So you can access\nand afford the {color[0100]}freshest gear{color[ffff]} in Splatsville!{[0004]}And some {color[0100]}battle modes{color[ffff]} are restricted to players\nat a higher level too. So get that level up!
@@ -6742,6 +7213,18 @@ UnlockBankaraMatch_00	Whoa, you've made quite a splash already.\nI bet you're re
 UnlockBankaraMatch_01	Press {[0306|0000803f00000000]} when you're in the battle pot to\n{color[0100]}brush up on the rules{color[ffff]} before you get started!
 UnlockBankaraMatch_02	Oh, by the way...there are two types of\nAnarchy Battles: {color[0100]}Open {color[ffff]}and {color[0100]}Series{color[ffff]}.{[0004]}If you only have a little time or you want to\njoin friends in battle, choose {color[0100]}Open{color[ffff]}.{[0004]}It's just a single battle, so you're in and\nout in no time.{[0004]}On the other hand, if you want to play solo and\ncommit to a longer session, give {color[0100]}Series {color[ffff]}a try!{[0004]}It's a best-of-five challenge with serious upside\nAND serious risk when it comes to your rank.
 UnlockBankaraMatch_03	Of course, Regular Battles are always a good\nchoice. You can keep earning experience there!{[0004]}Either way, get out there and splat to your\nheart's content! May your ink never run dry.
+EventFlowMsg\LobbyVersus_UnlockXMatch.msbt
+XMatchOpen_00	Hey, you're X-tremely good at this...
+XMatchOpen_01	But did you know your rank can get even higher?\nFrom Ｓ+{size[4b00]}０{size[6400]} to Ｓ+{size[4b00]}５０{size[6400]}! Don't stop now!
+XMatchOpen_02	And...you've just unlocked {color[0100]}X Battles{color[ffff]}!
+XMatchOpen_03	Instead of Rank Points, you'll gain or lose\n{color[0100]}X Power{color[ffff]} when you face off in an X Battle.
+XMatchOpen_04	Win enough X Power, and you could find yourself\non the X Rankings leaderboard on {color[0100]}SplatNet 3{color[ffff]}!
+XMatchOpen_05	The X Rankings leaderboard will {color[0100]}reset every\nseason{color[ffff]}. So you always have a chance!
+XMatchOpen_07	Alright, that's enough X-planation. Go get 'em!
+EventFlowMsg\LobbyVersus_XRankingReward.msbt
+XRankingReward_00	Special announcement for an X Battle boss...
+XRankingReward_01	The latest X Rankings are out...and you\nranked up! Congratulations!
+XRankingReward_02	Check out the full rankings in {color[0100]}SplatNet 3{color[ffff]}, and\nkeep splatting in style!
 EventFlowMsg\Mission_AfterBreakKebaInkTutorial.msbt
 Comment_00	Look at that—it gobbled up the ooze like it was nothin'.{[0100|1e000000]}\nThat little monster has quite an appetite!
 Comment_01	Anyway, it cleared the path for you. Go on!
@@ -7259,6 +7742,76 @@ Comment_14	Ay! {[0405]}(New boss! Can I get a raise?)\x0f\x04\x05
 Comment_15	Boss Marie?! Ahaha!
 Comment_16	Looks like you have your own employees now.{[0100|1e000000]}\nHave fun with that!
 Comment_17	Oh... I'm going to have to approve their\ntime cards, aren't I?
+EventFlowMsg\News_BigRunAnnounce.msbt
+000	Ay! Ayayay! {[0405]}(Hot off the press! Big Man\nhere with super-big news!)\x0f\x04\x05
+001	Are you OK? You're shook!
+002	Ay!{[0405]} (I'm OK—it's just that I have this\nurgent announcement from Grizzco.)\x0f\x04\x05
+003	Right, they're hiring. They're always hiring.\nIt's not really news. Lemme see the report...
+004	GYAAAH! This is a {color[0100]}Big Run {color[ffff]}alert!
+005	Wait—we're under attack? Is that what\nthat means? The Salmonids are coming?!
+006	AAAY!{[0405]} (A swarm of Salmonids is approaching\n{color[0100]}Wahoo World{color[ffff]}! THIS IS NOT A DRILL!)\x0f\x04\x05
+007	But why Wahoo World? Can Salmonids even\nride rides?
+008	Ay? Ay!{[0405]} (Don't you see? First it's Wahoo\nWorld, then it's the rest of the world!)\x0f\x04\x05
+009	...We are still talking about Salmonids,\nright? Maybe dial it back a tad.
+010	But that's not to say we shouldn't give\nthem a warm Splatlandian welcome, hm?
+011	That means beat 'em up, right? Yeah!\nLet's show the Salmonids who's boss.
+012	Ay...{[0405]} (Well, if we'll be working for Grizzco,\nthen technically THEY'RE the boss, but...)\x0f\x04\x05
+013	Ay!{[0405]} (It sounds like they're offering some\nkind of special reward for helping out!)\x0f\x04\x05
+014	Well, well. I'm not above a special reward.
+015	Prepare yourselves, Deep Cut. Let's get to\nGrizzco at the start of the Big Run!
+016	Wooo! I mean wahoo. As in Wahoo World.\nLet's go get 'em and save the city!
+EventFlowMsg\News_BigRunBeingHeld.msbt
+000	Oh! It looks like Wahoo World is temporarily\nclosed for the Big Run.
+001	No! I haven't been there in years, but I was\ntotally going to go this weekend! Probably.
+002	Well, {color[0100]}Grizzco {color[ffff]}is hiring if you want to help\nclean up the Salmonid mess...
+003	Ay!{[0405]} (I could use a job! How many Salmonids\nper hour? And can I keep them as pets?)\x0f\x04\x05
+004	No mention of pay...but it says something\nabout a thank-you gift!
+005	So I can get into Wahoo World when it's\nclosed...AND get a free gift? Sign me up!
+006	...Ay? Ay.{[0405]} (...And you want to help save the\ncity, right? Good for you.)\x0f\x04\x05
+EventFlowMsg\News_BigRunBeingHeld_Short.msbt
+000	Have you seen Wahoo World since the Big\nRun started? It's a bit fishy for my taste.
+001	Ay. Ay!{[0405]} (I'm hearing that Grizzco could use\nall the help it can get. All hands on deck!)\x0f\x04\x05
+100	Yeah! C'mon, we can't let those stinking\nSalmonids take over our amusement park!
+101	Ay!{[0405]} (You're right. We've got to fight for our\nright to go on dangerously outdated rides!)\x0f\x04\x05
+110	Ay?!{[0405]} (Why would they target Wahoo World\nin the first place? Do they hate fun?!)\x0f\x04\x05
+111	They're fish, Big Man. All they do is swim,\nspawn, eat, repeat. Sounds nice, actually...
+120	I just hope the Wahoo World mascot is OK.\nFresh Fish, wiggle your tail if you're safe!
+121	Oh, I'm sure Fresh Fish and the Salmonids\nare getting along swimmingly.
+EventFlowMsg\News_BigRunEnd.msbt
+000	Ay! Ay!{[0405]} (Special report! Fresh news,\nnever frozen!)\x0f\x04\x05
+001	Ooo! Gimme, gimme, gimme!
+002	Ay.{[0405]} (I'm being told that the Salmonids that\ninvaded Wahoo World have been driven out.)\x0f\x04\x05
+003	Are you serious, Big Man?
+004	Not that I had any doubt. Another win for\nus in the books. Well done, team!
+005	Haha! Yeah, we rule!
+006	So where's the thank-you gift? Are they\nmailing it directly, or...
+007	Ay!{[0405]} (Ah! It sounds like Grizzco is checking\nthe job logs. Hold on to your seahorses!)\x0f\x04\x05
+EventFlowMsg\News_BigRunResult.msbt
+000	Ay!{[0405]} (Before we get to the current stages,\nI have an announcement!)\x0f\x04\x05
+001	What is it? You're so excited!
+002	Ay! Ay!{[0405]} (I am, I am! Because the {color[0100]}Big Run{color[ffff]}\nresults are in!)\x0f\x04\x05
+003	Ooo! He's got a letter!
+004	Really? Grizzco sent a letter? Why don't\nyou let me read it? Ahem...
+005	"Thank you for participating in an official\nGrizzco Big Run™."
+006	"We appreciate your support and have\nprepared a small token of gratitude."
+007	What is it? What is it? EEEEEE!
+008	Huh. Now there's a list of {color[0100]}high scores{color[ffff]}\nalong with the prize info...
+009	Hurry UUUUUUP!
+010	Budda-dudda-budda-dudda...
+011	Ayayayayayaaay...
+012	{size[9600]}BAM!{size[6400]}
+013	{size[9600]}AAAY!{size[6400]}
+014	A-are those scores real? How are people\nso good at this?!
+015	Ay! Ay.{[0405]} (Practice makes perfect! I guess\nthey must practice...a LOT.)\x0f\x04\x05
+016	Don't worry, you two. All participants will\nget a gift, regardless of score.
+017	Ay...{[0405]} (Whew...)\x0f\x04\x05
+100	Ay!{[0405]} (Well, it was touch-and-go for a bit\nthere, but...we did it! We saved the city!)\x0f\x04\x05
+101	That'll teach those Salmonids to mess with\nthe Splatlands! I mean...to NOT do that.
+102	Well done, everyone. On behalf of all of us,\nI want to thank you for your service.
+103	So, now...do we get to ride the coaster or\nnah? I want the wind in my tentacles!
+104	Ay!{[0405]} (Great idea, Frye! I want to be all\nflapppppp-flappp-flappity-flap in the wind!)\x0f\x04\x05
+105	Then it's settled. A trip to Wahoo World is\nin the cards...as soon as it reopens.
+106	Giddyup!
 EventFlowMsg\News_Coop.msbt
 001	Important update for job seekers—we've\nbeen informed that Grizzco is hiring.
 002	If you've always wanted to show those\nSalmonids who's boss, now's your chance!
@@ -7365,7 +7918,7 @@ EventFlowMsg\News_FestResult.msbt
 009	Ay...ay... {[0405]}(C'mon, c'mon...)\x0f\x04\x05
 010	No way!
 011	Ay? Ay! {[0405]}(What's next? Tell meee!)\x0f\x04\x05
-012	Time for a {color[0100]}Clout {color[ffff]}check! Open and Pro\nClout results incoming!
+012	Time for a {color[0100]}Clout {color[ffff]}check! Open, Pro, and\nTricolor Clout results incoming!
 013	All at once?! Hold up—I need a moment\nto cool off before all this excitement...
 014	Wheeeeeew!
 015	AAAY!
@@ -7414,11 +7967,29 @@ Comment_02	Anarchy Splatcast! We're live!
 Comment_03	Ay! {[0405]}(Here we go!)\x0f\x04\x05
 Comment_04	You lip-synch, we drip ink...
 Comment_05	Ay, ay, ay! {[0405]}(Shiver, Frye, and Big Man!)\x0f\x04\x05
+EventFlowMsg\News_Season02.msbt
+000	Oh, this is exciting. The {color[0100]}new season{color[ffff]}\nhas started!
+001	Yesss! I'm HYPED!
+002	Ay! Ay.{[0405]} (Yes! Chill Season! I can't wait to\nbreak out my sweaters and get cozy.)\x0f\x04\x05
+003	Well, don't get TOO cozy. Looks like an\nintense new mode is here. {color[0100]}X Battles{color[ffff]} are go!
+005	Ay. Ay.{[0405]} (Whoa. Looks like you need to be\nranked {color[0100]}Ｓ+{size[4b00]}0{size[6400]} or higher{color[ffff]} to try it.)\x0f\x04\x05
+006	Look out, world. I'm gonna blaze a path\nto the top spot.
+007	And I'm gonna do it using some of these\n{color[0100]}new weapons{color[ffff]}!
+008	Ay. Ay?{[0405]} (Those look cool. Are any of 'em\nfin operated? Asking for me.)\x0f\x04\x05
+008_01	So pretty... Which one will be my new main?\nI'll have to splat test 'em all...
+009	Knock yourself out. I'll just listen to what\nSheldon says. I might be the only one...
+010	Listening? No time for it. Not when\n{color[0100]}NEW STAGES{color[ffff]} JUST DROPPED!
+011	Ay. Ay!{[0405]} (I'll still make time for listening.\nBut those new stages do look good...)\x0f\x04\x05
+012	You mean good for {color[0100]}battling{color[ffff]}, right? 'Cause\nthat's what they're there for!
+013	Full splat ahead!
+EventFlowMsg\News_SeasonPost.msbt
+001	That's the spirit, Frye. Let's all hit the\nground running at the start of the season!
+002	As long as you're all running FROM me.\nMuhahaha! Let's goooooo!
 EventFlowMsg\News_TricolorVersusStage.msbt
 000	And here's where the Tricolor Battles are\nhappening!
 001	Let's go, Big Man! Between the two of our\nteams, we can knock first place down a peg!
 002	Ay! Ay...{[0405]} (I'm with you! At least...until it's\nno longer in my team's interest...)\x0f\x04\x05
-003	Ay!{[0405]} (Let's work together to knock off the\nteam in first!)\x0f\x04\x05
+003	Ay!{[0405]} (Let's work together to knock off\nthe leaders!)\x0f\x04\x05
 004	Big Man! I didn't know you had it in you.\nBut yes...let's swarm 'em!
 005	Frye! Let's call a truce between our teams\nand take down the leader. Idol solidarity!
 006	You're on! Until the grand finale, at least...\n{size[4b00]}'Cause THIS idol wants the spotlight all to herself!{size[6400]}
@@ -7458,6 +8029,18 @@ EventFlowMsg\Plaza_Intro.msbt
 005	So where were we? Oh, right. Battles! Time to sink\ninto the ink!
 006	If you wanna get right to it, check out the {color[0100]}lobby{color[ffff]}.\nOr...follow that {color[0100]}weirdo {color[ffff]}down the {color[0100]}sewer{color[ffff]}. Up to you.
 007	Go get 'em! Full splat ahead!
+LayoutMsg\Catalog_Base_00.msbt
+L_Catalog_00-T_Max_00	MAX
+L_Catalog_00-T_Rank_00	Catalog Lv.
+L_Guide_00-T_Info_00	Back
+001	pack of cards
+002	fresh card pack
+003	title
+004	banner
+005	Mystery Box
+006	food ticket
+007	drink ticket
+100	No. {[0200|00030000]}
 LayoutMsg\Cmn_Album_00.msbt
 T_Photo_00	All
 T_Photo_01	{[0200|00030001]}
@@ -7529,9 +8112,12 @@ T_Explain_01	If you don't want to keep it, you can trade it in.
 LayoutMsg\Cmn_CoopMatch_00.msbt
 L_StartBtn_00-T_Btn_01	Ready!
 210	Select Weapon
-211	Select Job
+211	Select Job Scenario
+212	Select Weapon
+213	Reset Settings
 L_HoldCancelBtn_00-T_Info_00	Cancel
 L_HoldCancelBtn_01-T_Info_00	Close Room
+L_HoldCancelBtn_03-T_Info_00	Close Room
 L_HoldCancelBtn_02-T_Info_00	Leave Room
 010	Back
 000	Waiting for players to join...
@@ -7549,6 +8135,7 @@ T_StageHeader_00	Stage
 230	Custom
 T_LevelHeader_00	Hazard Level
 110	OK
+111	OK
 200	{[0200|00030000]}%
 180	Random
 T_WpnHeader_00	Supplied Weapons
@@ -7557,6 +8144,8 @@ L_GuideNotify_00-T_Btn_00	Y
 L_PlayerName_00-T_Wait_00	Searching...
 T_Rank_00	Bonus Meter
 L_Meter_00-T_NextReward_00	Until superbonus:
+T_ScoreHeader_00	High Score
+T_WpnCstm_00	Free weapon choice.
 LayoutMsg\Cmn_CountDownFinish_00.msbt
 T_Finsh_01	GAME!
 LayoutMsg\Cmn_CstAmiiboMyset_00.msbt
@@ -7777,12 +8366,18 @@ T_Info_00	Take Picture
 205	Pose 6
 206	Pose 7
 207	Pose 8
+208	Pose 9
+209	Pose 10
+210	Pose 11
+211	Pose 12
 T_Text_00	Choose Location
 300	Splatsville
 T_Push_00	Push
 T_Info_07	Vert./Horiz.
 T_Date_01	Date
 T_Stage_01	Spot Name
+400	Spot Name
+401	Splatfest Title
 T_Player_00	Nickname
 T_Guide_00	Controls
 L_Timer_00-T_BtnL_00	Hide
@@ -7793,6 +8388,7 @@ T_Timer_00	Timer
 T_Gear_00	amiibo Gear
 T_Pause_00	Pose
 T_Pause_01	amiibo Pose
+L_Switch_01-T_Msg_00	Cannot be displayed—Splatfest\ntitles do not match.
 LayoutMsg\Cmn_Menu_00.msbt
 L_Tab_00-T_Text_00	Map
 L_Tab_01-T_Text_00	Stages
@@ -7818,6 +8414,8 @@ L_BtnStage_00-T_WhiteText_00	Regular Battle
 L_BtnStage_00-T_BlackText_00	Regular Battle
 L_BtnStage_01-T_WhiteText_00	Anarchy Battle\n{size[4b00]}(Series){size[6400]}
 L_BtnStage_01-T_BlackText_00	Anarchy Battle\n{size[4b00]}(Series){size[6400]}
+L_BtnStage_02-T_WhiteText_00	X Battle
+L_BtnStage_02-T_BlackText_00	X Battle
 L_BtnStage_04-T_WhiteText_00	Salmon Run
 L_BtnStage_04-T_BlackText_00	Salmon Run
 L_BtnStage_05-T_WhiteText_00	Anarchy Battle\n{size[4b00]}(Open){size[6400]}
@@ -7833,6 +8431,7 @@ L_Stage_03-T_Mode_00	Now
 L_Stage_01-T_Mode_01	Next
 L_Stage_02-T_Mode_01	Future
 L_Bottom_03-T_Info_00	Back
+120	Big Run
 L_Player_00-T_WhiteText_00	Gear
 L_Player_00-T_BlackText_00	Gear
 L_Player_01-T_WhiteText_00	Catalog
@@ -7845,11 +8444,14 @@ L_BtnNpl_00-T_Edit_00	Edit
 L_Rank_00-T_RankHeader_00	Level
 T_Max_00	COMPLETE!
 T_UdemaeTitle_00	Rank
+T_XPower_00	X Power
 T_Catalog_00	Head to Hotlantis to get a catalog!
+L_BtnCatalog_00-T_WhiteText_00	See More
+L_BtnCatalog_00-T_BlackText_00	See More
 L_NextItem_00-T_NextItem_00	Next Level
 T_MaxNext_00	Go to Hotlantis to get the final item!
 240	{size[4b00]}Level {size[6400]}{[0200|00030000]}
-250	Until {[0201|0010]}
+250	Until {d}
 T_Count_01	Ability Chunks
 201	x{[0200|00030000]}
 L_BtnCard_00-T_WhiteText_00	Card List
@@ -8015,6 +8617,25 @@ L_ReasonReport_00-T_Report_00	Detailed Description
 T_Player_00	Player:
 LayoutMsg\Cmn_Save_00.msbt
 T_Save_00	Game saved!
+LayoutMsg\Cmn_SeasonRecord_00.msbt
+000	X Battle Results
+001	Anarchy Battle Results
+002	New Season Rank!
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]} - {[0201|010c]}
+101	{[0201|000c]}  -  {[0201|010c]}
+L_Record_00-T_Max_00	Top:
+L_Record_00-T_Fix_00	Last:
+L_Record_00-T_NoRecord_00	No records.
+L_Record_00-T_Rank_00	Estimate
+200	Place: {[0200|00050000]}
+T_Rule_00	Splat Zones
+T_Rule_01	Tower Control
+T_Rule_02	Rainmaker
+T_Rule_03	Clam Blitz
+300	Check the {color[0100]}SplatNet 3{color[ffff]} app for complete rankings.\n\nDid you earn one of the highest ranks? If so, you\nmay be getting a present in the {color[0100]}lobby{color[ffff]}!
+T_UdemaeTitle_00	Rank
+T_UdemaeMsg_00	Aim high next season too!
 LayoutMsg\Cmn_SelectFestPlace_00.msbt
 T_Msg_00	Which Splatfest region makes sense for you?\nIt's recommended to choose the region you live\nin for the best play experience.
 L_BackBtn_00-T_Btn_00	Back
@@ -8042,6 +8663,7 @@ L_Menu_00-T_Info_00	Menu
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	Rank
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	Go pick a {color[0100]}team{color[ffff]}!
+L_PlayerStatus_00-T_AnnounceCoop_00	Head to {color[0100]}Grizzco Industries{color[ffff]}!
 LayoutMsg\Cmn_SystemWindowChallenge_00.msbt
 000	Spend {color[0100]}{[0200|00030000]}p{color[ffff]} to enter Anarchy Battle (Series)?
 001	You've got a {color[0100]}Rank-Up Battle {color[ffff]}on deck!\nSpend {color[0100]}{[0200|00030000]} Rank Points{color[ffff]} to take it on?
@@ -8063,6 +8685,12 @@ BtnR_ConfirmLimitOnlinePlay	OK
 Msg_ConfirmLimitOnlinePlay2	Choosing a nickname that violates Nintendo's\nCommunity Guidelines may result in being\nrestricted from online play. The Community\nGuidelines can be found on our website.
 BtnL_ConfirmLimitOnlinePlay2	Quit
 BtnR_ConfirmLimitOnlinePlay2	OK
+LayoutMsg\Cmn_SystemWindowPlace_00.msbt
+T_Msg_00	Where do you want to board the Splatfest Float?
+L_Btn_00-T_Btn_00	In Front of the Pledge Box
+L_Btn_01-T_Btn_00	Down the Back Alley
+L_Btn_02-T_Btn_00	In Front of All the Shops
+L_Btn_03-T_Btn_00	Back
 LayoutMsg\Cmn_SystemWindowSaveData_00.msbt
 T_Msg_00	Splatoon 2 save data found!\nYou can import it if you want.
 000	{[0200|00030000]}★
@@ -8132,6 +8760,8 @@ LayoutMsg\Cmn_VersusMatch_02.msbt
 013	Please wait...
 014	You'll drop in once you're ready.
 020	Rank
+021	X Power
+022	Calculating...{[0200|00010000]}/{[0200|01010000]}
 T_StageHeader_00	Stage
 L_StartBtn_00-T_Btn_01	Ready!
 L_StartBtn_01-T_Btn_01	Start with\nthis crew!
@@ -8143,14 +8773,23 @@ L_PlayerName_00-T_Wait_00	Waiting...
 L_GuideNotify_00-T_Btn_00	Y
 L_Power_00-T_FestPow_00	Clout
 L_FestItemAll_00-T_Max_00	MAX
+LayoutMsg\Cmn_WindowCatalog_00.msbt
+000	Catalog Record
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]} - {[0201|010c]}
+T_Catalog_00	Catalog Lv.
+200	{[0200|00050000]}
+T_Attain_00	Achieved!
 LayoutMsg\Cmn_WindowGet_00.msbt
 T_SubTitle_00	Splatfest Title
 L_Icon_00-T_Text_00	x
 000	{[0200|00050000]}
 001	x{[0200|00020000]}
 002	{[0200|00050000]}
+100	Grizzco Industries Thanks You!
 L_Btn_00-T_Info_00	Equip Now
 L_Btn_01-T_Info_00	OK
+200	{[0201|000c]}  -  {[0201|010c]}
 LayoutMsg\Cmn_WindowMng_00.msbt
 T_Text_00	Face off against this player in Tableturf Battle?
 T_Rank_00	Tableturf Rank
@@ -8211,8 +8850,12 @@ LayoutMsg\Coop_ResultDetail_00.msbt
 112	Again!
 200	Play another?
 201	Try again?
+300	Big Run Bonus
+301	x1.2
 320	x{[0200|00010000]}!
 500	Custom
+501	Salmon Run
+502	Private Job
 T_Clear_00	Clear!
 T_Failure_00	Defeat
 T_Rank_01	Job Review
@@ -8251,6 +8894,7 @@ L_Card_00-T_Result_00	✓
 L_Card_00-T_Result_01	✘
 L_Card_01-T_Wave_00	Wave 2
 L_Card_02-T_Wave_00	Wave 3
+T_Score_00	New High Score!
 LayoutMsg\Coop_ShopGift_00.msbt
 100	Check rewards!
 101	OK!
@@ -8332,6 +8976,7 @@ L_GuideBtn_02-T_State_00	Swap
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	Rank
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	Go pick a {color[0100]}team{color[ffff]}!
+L_HighScore_00-T_Score_00	High Score
 LayoutMsg\Lobby_GuideTips_00.msbt
 L_GuideBtn_00-T_Info_00	Skip
 LayoutMsg\Lobby_JudgeBalloon_00.msbt
@@ -8380,8 +9025,8 @@ L_GuideBtn_00-T_Info_00	Back
 107	Recruiting
 108	In a Run
 109	Not Joinable
-200	{[0201|0010]} {color[0000]}{[0201|0110]}{color[ffff]}
-201	{color[0000]}{[0201|0010]}{color[ffff]}
+200	{d} {color[0000]}{[0201|0100]}{color[ffff]}
+201	{color[0000]}{d}{color[ffff]}
 LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 000	Grab
 001	Let Go
@@ -8389,6 +9034,8 @@ LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 L_Operation_01-T_Text_00	Put Away
 010	Put in Box
 011	Unbox
+012	Fold
+013	Hang Up
 L_Operation_05-T_Text_00	Pick Photo
 020	Close
 021	Open
@@ -8421,9 +9068,11 @@ LayoutMsg\Lobby_MenuMode_00.msbt
 000	Regular\nBattle
 001	Anarchy\nBattle\n{size[4b00]}(Series){size[6400]}
 014	Anarchy\nBattle\n{size[4b00]}(Open){size[6400]}
+002	X Battle
 004	Private\nBattle
 005	Freelance
 006	Private\nJob
+007	Big Run
 008	Salmon\nRun
 009	Private\nBattle
 010	Tableturf\nBattle
@@ -8437,9 +9086,11 @@ L_Btn_03-T_Friend_00	With Friends
 L_GuideClose_00-T_Info_00	Back
 L_Btn_00-L_GuideCancel_00-T_Info_00	Cancel
 070	Rules
+L_Reset_00-T_Info_00	Rank Reset
 100	Hop into a Turf War battle.
 118	One extreme battle.
 101	Win five and triumph.\nLose three and you're out.
+103	Test your limits against the best\nof the best in extreme battles.
 104	Battle alongside players\non your Splatfest team.
 105	Battle alongside players\non your Splatfest team.
 106	Mix it up in a three-way battle\nto control the central turf!
@@ -8449,6 +9100,7 @@ L_Btn_00-L_GuideCancel_00-T_Info_00	Cancel
 111	Shuffle up and battle with cards.
 112	Work with a team of randoms\nto get the job done.
 113	Take on a practice job with friends.
+114	Save the city from Salmonids, and\nearn rewards while you're at it!
 200	Set the mode, stage,\nand teams in a battle\nwith your friends.
 202	Set stage and hazard\nlevel in a practice shift\nwith friends only.
 203	Set the mode, stage,\nand teams in a battle\nwith people nearby!
@@ -8474,8 +9126,13 @@ L_PlayerStatus_01-L_Info_00-T_Info_00	Demote Self
 L_GuideReward_00-T_Info_00	Rewards & Points
 T_Stage_02	Stage
 T_Wpn_01	Supplied Weapons
+L_HighScore_00-T_Score_00	High Score
+L_GuideManual_01-T_Info_00	Rules
 L_Btn_00-T_Title_00	Tricolor Battle
 501	Your team was in first place at halftime, so you\ncannot select this. However, Tricolor Turf Wars\nmay automatically trigger for you in open\nSplatfest Battles.
+600	Calculating... {[0200|00010000]}/{[0200|01010000]}
+601	X Power: {[0200|00040000]}.{[0200|01010000]}
+610	Approximate Rank: #{[0200|00040000]}
 T_VS_00	VS
 L_PlayerStatus_00-L_Choushi_00-T_FestPow_00	Clout
 L_PlayerStatus_00-L_Choushi_00-T_FestPowCount_00	Calculating...
@@ -8509,6 +9166,7 @@ LayoutMsg\Lobby_Password_00.msbt
 002	Create room for a {color[0100]}Private Battle{color[ffff]}?
 003	Create room for a {color[0100]}Salmon Run{color[ffff]}?
 009	Create room for a {color[0100]}Private Job{color[ffff]}?
+011	Create a room for a {color[0100]}Big Run{color[ffff]}?
 004	Join with this password?
 010	{[0200|00040100]}
 T_Password_02	No Password
@@ -8520,6 +9178,8 @@ T_VoiceChat_01	Voice chat OFF
 041	Set Password
 040	Clear Password
 L_VoiceChatBtn_00-T_Info_00	Voice chat ON/OFF
+L_NameBtn_00-T_Info_00	Set Alias
+050	Alias: {[0201|000a]}
 LayoutMsg\Lobby_ResultClearance_00.msbt
 000	Congrats on ranking up!
 001	Series Complete!
@@ -8547,6 +9207,9 @@ T_Msg_02	Rank Up!
 102	Rank-Up Battle
 110	{[0200|00030000]}{size[4600]}p{size[6400]}
 T_Msg_01	You can enter a {color[0100]}Rank-Up Battle{color[ffff]} in an\nAnarchy Battle (Series)!
+T_XPowerTitle_00	X Power
+210	+{[0200|00020000]}.{[0200|01010000]}
+211	-{[0200|00020000]}.{[0200|01010000]}
 LayoutMsg\Lobby_ResultDialogue_00.msbt
 000	+{[0200|00040000]}
 001	x{[0200|00010000]}.{[0200|01010000]}
@@ -8556,8 +9219,10 @@ LayoutMsg\Lobby_ResultDialogue_00.msbt
 010	Ultra Signal\nSecured!
 011	Ultra Signal\nAttempt!
 020	Battle\nBonus
-021	Ink Bonus\nGot {[0200|00040000]}p!
+021	Ink Bonus\nfor {[0200|00040000]}p!
 022	Synergy\nBonus
+023	Attack\nBonus
+024	Defense\nBonus
 100	10x Battle
 101	100x Battle
 102	333x Battle
@@ -8572,6 +9237,12 @@ T_Get_01	Total
 T_Max_00	MAX
 T_Open_00	Splatfest Battle (Open)
 T_Challenge_00	Splatfest Battle (Pro)
+T_Progress_00	Calculating X Power...
+T_Rank_00	All done!
+T_NumProgress_01	/5
+T_XRankTitle_00	Position
+T_XRankTitle_01	Estimate
+200	#{[0200|00040000]}
 LayoutMsg\Lobby_ResultReward_00.msbt
 000	+{[0200|00040000]}
 001	Time Bonus\n{[0200|00010000]} min.
@@ -8696,8 +9367,11 @@ L_Win_00-T_Mic_00	Voice chat ON
 103	Anarchy Battle {size[4b00]}(Open){size[6400]}
 105	Splatfest Battle
 106	Tricolor Battle
+107	Big Run
 200	{[0201|000e]} {[0200|00030000]}
 L_Win_00-T_Wpn_00	Supplied Weapons
+L_Win_00-L_Key_02-T_Info_00	Set Alias
+210	Alias: {[0201|000a]}
 LayoutMsg\Mng_BaseTry_00.msbt
 T_Rotate_00	Rotate
 T_Back_00	Back
@@ -8789,7 +9463,7 @@ T_Win_00	VICTORY
 T_Lose_00	DEFEAT
 T_Draw_00	DRAW
 LayoutMsg\Mng_Setting_00.msbt
-000	Hide
+000	Off
 001	{[0200|00030000]} sec.
 010	{[0408|00000000]}
 T_SelectStage_00	Select a Stage
@@ -8812,7 +9486,7 @@ LayoutMsg\Mng_SystemWindow_00.msbt
 022	Keep Going
 030	You gave up...
 040	Your opponent has given up.
-050	Your opponent left. Returning to the lobby.
+050	Your opponent left.
 100	Overwrite this deck? The existing deck\nwill be lost.
 101	Yeah!
 102	Nah
@@ -9112,7 +9786,10 @@ L_Back_00-T_Info_00	Back
 L_BtnMyset_00-T_Btn_00	Saving gear to amiibo.
 L_BtnCamera_00-T_Btn_00	Taking photos with amiibo.
 LayoutMsg\Plz_FestText_00.msbt
-000	{[0201|0010]} - {[0201|0110]}
+000	{d} - {[0201|0100]}
+100	333x Battle WINNER!
+101	100x Battle WINNER!
+102	10x Battle WINNER!
 LayoutMsg\Plz_GearOrder_00.msbt
 000	{[0400|00000000]}'s Stuff
 T_Delivery_03	Open Orders
@@ -9203,6 +9880,7 @@ L_Btn_02-T_Btn_00	OK!
 L_BtnTeamC_00-T_ATitle_00	Halftime
 L_BtnTeamC_00-T_ARanking_00	1st
 L_GuideRule_01-T_Info_00	Back
+L_Btn_03-T_Btn_00	Board a Float!
 LayoutMsg\Plz_SelectMenu_00.msbt
 L_Btn_00-T_WhiteText_00	Order Status
 L_Btn_01-T_WhiteText_00	Boost Star Power
@@ -9231,10 +9909,11 @@ LayoutMsg\Plz_TopicNews_00.msbt
 002	Votes
 003	Clout
 004	Results
-T_Msg_00	We've updated some game data\nto improve your play experience!\nFor further details, please see\nthe Splatoon 3 website.
+005	{[0200|00030000]} & Up
 T_Match_00	Regular Battle
 T_Match_01	Anarchy Battle {size[4b00]}(Series){size[6400]}
 T_Match_06	Anarchy Battle {size[4b00]}(Open){size[6400]}
+T_Match_02	X Battle
 T_Match_04	Tricolor Battle
 T_Match_05	Splatfest Battle
 L_FestA_00-T_Top_00	Halftime
@@ -9243,17 +9922,28 @@ T_TypeFest_00	Sneak Peek
 T_FestTitle_01	Clout
 T_Rule_00	Open
 T_Rule_01	Pro
+T_Rule_02	Tricolor Battle
 L_FestResult_00-T_Title_02	Open
 L_FestResult_00-T_Title_03	Pro
+L_FestResult_00-T_Title_04	Tricolor Battle
 L_FestResult_00-T_Title_01	Votes
 L_FestA_00-T_Point_00	p
-L_FestResult_00-T_Num_00	10
-L_FestResult_00-T_Num_02	15
+L_FestResult_00-T_Num_00	８
+L_FestResult_00-T_Num_01	１０
+L_FestResult_00-T_Num_02	１２
+L_FestResult_00-T_Num_03	１２
+L_FestResult_00-T_Num_04	１５
 L_FestResult_00-T_Point_00	p
 L_FestResult_00-T_Title_00	Sneak Peek
 L_FestA_00-T_Unit_00	%
 L_FestA_02-T_Unit_00	p
 L_FestA_02-T_WinNum_00	Victory!
+T_Msg_00	We've updated some game data\nto improve your play experience!\nFor further details, please see\nthe Splatoon 3 website.
+T_SeasonInfo_00	A New Season Is Here!
+T_Top_00	The Top
+T_NumTop_00	5%
+T_NumTop_01	20%
+T_NumTop_02	50%
 LayoutMsg\Plz_WindowDrawn_01.msbt
 T_Yeah_00	Fresh!
 T_Report_00	Report
@@ -9271,11 +9961,17 @@ LayoutMsg\Plz_WinTalkNews_00.msbt
 009	Splatfest Halftime Report
 010	SPLATFEST ENDS
 011	Splatfest Results
+012	Big Run Incoming!
+013	Big Run In Progress!
+014	Big Run Complete!
+015	Big Run Results Announced!
 T_NameR_00	Frye
 T_NameL_00	Shiver
 T_NameC_00	Big Man
 100	Listen to Splatcast
 101	Skip
+200	x{[0200|00040000]}
+L_HighScore_00-T_Score_00	Your High Score
 LayoutMsg\Replay_Main_00.msbt
 000	Pause
 001	Play
@@ -9381,6 +10077,7 @@ L_Item_00-T_SoldOut_00	Sold Out
 L_ItemDetail_03-T_Owns_00	You Own
 L_BtnSelectNum_00-T_Btn_00	Buy!
 L_ZakkaPrev_00-T_SoldOut_00	Sold Out
+L_KeyIcon_03-T_Info_00	Weapon details
 LayoutMsg\Shr_Points_00.msbt
 000	{[0200|00030000]}.{[0200|01010000]}
 LayoutMsg\Shw_Thanks_00.msbt
@@ -9395,7 +10092,12 @@ LayoutMsg\Tml_Contents_00.msbt
 031	Upload this battle replay?
 040	Download!
 041	Download this battle replay?
+050	Delete!
+051	Delete this job scenario?
+060	Save!
+061	Save this job scenario?
 T_Title_00	Set Nickname
+T_Title_01	Job Scenario
 T_Name_00	Nickname
 T_Text_00-Text_01	If you change your nickname, you won't be able to change it\nagain for 30 days. Are you sure you want to proceed?
 T_Text_00-Text_02	Looking good?
@@ -9405,15 +10107,16 @@ L_Btn_01-T_Text_01	Change It!
 L_Btn_01-T_Text_02	OK
 T_Title_02	Enter Code
 T_Text_02	Please enter the 16-character code to view a battle replay.
+T_Text_03	Please input the 16-character code to load a job scenario.
 L_Btn_02-T_Text_00	OK
 L_BtnCode_00-T_Name_00	Code
 T_Title_04	Battle Replay
 T_Wpn_00	Supplied Weapons
+T_LevelTitle_00	Hazard Level
 LayoutMsg\Tml_CoopReward_00.msbt
 000	Back
 100	{[0200|00060000]}p
 200	x{[0200|00040000]}
-L_RewardMeter_00-T_Get_00	Got it!
 T_Reward_00	Bonus Meter
 T_limitedTime_00	Current Gear
 T_Uroko_00	Scales
@@ -9432,14 +10135,40 @@ L_BtnBack_00-T_Info_00	Back
 T_LevelTitle_00	Hazard Level
 L_BtnReport_00-T_Info_00	Report
 001	Recent Jobs
+002	Saved Job Scenarios
+010	Save Job Scenario
+011	Delete
+020	{[0200|00020000]}/{[0200|01020000]}
 L_BtnScoreScenario_00-T_Result_00	Defeat
 L_BtnScoreScenario_00-T_Result_01	Clear!
 L_Wave_00-T_Result_00	✓
 L_Wave_00-T_Result_01	✘
+L_WaveScenario_00-T_Result_00	✓
+L_WaveScenario_00-T_Result_01	✘
 100	Time Up!
 101	DEFEAT!
 L_PlayerScore_00-T_MSign_03	x
+L_PlayerScenario_00-T_MSign_00	x
+030	Low Tide
+031	Normal
+032	High Tide
 050	＜{[0200|00030000]}＞
+060	--/--/----  --:--
+061	---
+062	---
+070	+{[0200|00010000]}
+T_HighScore_00	High Score
+T_ScenarioPlay_00	This job scenario hasn't been played yet.
+T_Version_00	Ver.
+T_VersionMsg_00	This job scenario is from an older version of\nthe game and may no longer be supported.
+Rush	Rush
+Geyser	Goldie Seeking
+Dozer	The Griller
+Hakobiya	The Mothership
+Fog	Fog
+Missile	Cohock Charge
+Relay	Giant Tornado
+Tamaire	Mudmouth Eruptions
 LayoutMsg\Tml_Home_00.msbt
 000	Get Stuff
 010	View Replays
@@ -9450,10 +10179,13 @@ LayoutMsg\Tml_Home_00.msbt
 051	Change Nickname
 060	Splatfest Region
 400	Back
+L_CoopContents_00-T_Contents_00	Job Logs
+L_CoopContents_01-T_Contents_00	Job Scenarios
+L_CoopContents_02-T_Contents_00	Enter Code
 LayoutMsg\Tml_ReplayScore_00.msbt
 000	{[0200|00040000]}p
 001	Score: {[0200|00020000]}
-004	Because some players were not able to continue,\nthe match will not count as a loss.
+004	Because one or more players were not able to continue,\nthe match will not count as a loss.
 007	???
 008	VICTORY
 009	DEFEAT
@@ -9518,8 +10250,20 @@ LayoutMsg\Tml_Window_00.msbt
 041	This battle replay is already downloaded.
 042	Battle replay downloaded.
 043	Battle replay download failed.
+044	Download failed. It seems the battle replay\nis out of date.
+045	This is a code for a battle replay. You can enter\nit using the {color[0100]}lobby terminal{color[ffff]}.
+046	This is a code for a job scenario. You can enter\nit using the {color[0100]}Grizzco terminal{color[ffff]}.
 050	Cannot change Splatfest region again\nuntil {[0201|000c]}.
 060	There are no items to pick up.
+070	There are no job scenarios available. Remember—\nyou can save job scenarios from job logs or\nby inputting codes.
+071	You can save up to 50 job scenarios. Now that\nyou have reached that number, you'll need to\ndelete existing job scenarios to add new ones.
+072	You can save up to 50 job scenarios. Now that\nyou have reached that number, you'll need to\ndelete existing job scenarios to add new ones.
+080	This job scenario is already saved.
+081	Job scenario deleted.
+082	Job scenario saved. Saved job scenarios can be\nplayed as Private Jobs.
+083	Failed to save job scenario.
+084	Cannot save Big Run job scenarios.
+085	Cannot save job scenarios from software versions\nprior to 2.0.0.
 T_Name_00	Nickname
 L_Btn_00-T_Info_00	OK
 LayoutMsg\Tuto_CircleTimer_00.msbt
@@ -9604,6 +10348,8 @@ LayoutMsg\VS_Beaten_00.msbt
 999	Splatted by\n{[0401|00000000]}!
 LayoutMsg\VS_BeatMessage_00.msbt
 000	Splatted {[0400|00000000]}!
+LayoutMsg\VS_BgmName_00.msbt
+000	♪ {[0413|00000000]} / {[0414|00000000]}
 LayoutMsg\VS_Caution_00.msbt
 T_Msg_00	The connection is unstable.
 LayoutMsg\VS_Emote_00.msbt
@@ -9660,8 +10406,13 @@ T_Rule_01	MODE
 T_FestA_00	10x Battle
 005	100x Battle
 006	333x Battle
+007	Take control of the Ultra Signal\nand ink the most turf to win!
+008	Defend the Ultra Signal and ink the\nmost turf to win!
+100	Attacking Team
+101	Defending Team
+102	1.5x Bonus!
+103	1.5x Bonus!
 T_Rule_04	Mode
-T_TriRule_00	Control the Ultra Signal and ink the\nmost turf to win!
 T_TriGame_00	Tricolor\nTurf War
 LayoutMsg\VS_TeamPow_00.msbt
 000	{[0200|00020200]}-WIN STREAK

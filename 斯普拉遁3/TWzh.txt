@@ -13,16 +13,23 @@ Msg_Inappropriate_Nickname_Error	無法使用此玩家名稱，\n請透過大廳
 Msg_Server_Maintenance_Error	伺服器即將進行維護，您將被轉移至廣場。\n（在維護期間，您會處於離線狀態。）
 Msg_Session_May_Closed_Error	成員招募已結束，\n無法會合。
 Msg_Target_Session_Is_Lost_Error	房間已解散，\n無法會合。
+Msg_Other_Player_Disconnected_Error	其他參加的玩家已中斷連線。
 CommonMsg\Dev.msbt
 BugReportContent	――――\n■手順 / Procedures\n1.\n2.\n3.\n\n■結果 / Result\n\n■試行回数 / Number of attempts\nX/X\n\n■備考 / Remarks\n\n――――
 CommonMsg\EmoteName.msbt
 FeelingWarm00	火熱
+Shivering00	怕冷
 Win_Weapon03	武器姿勢
 Win04	姿勢2
+Win07	機械舞1
 Win08	跳舞1
 Win13	跳舞2
+Win14	跳舞4
 Win15	跳舞3
+Win20	打招呼1
 Crouching00	姿勢1
+SittingCrossedLegs	盤腿坐
+WaveHands	打招呼2
 NwBtl00	占地鬥士
 Win_Tricol	Win_Tricol
 CommonMsg\FestRegion.msbt
@@ -64,6 +71,7 @@ GoodsShop	脈子
 FoodShop	阿龍
 Vendor	刺冠
 Dolphin	海豚豚
+Mother	阿母
 MotherFoodShop	店員
 MotherWalk	導覽員
 MotherMiniGame	員工
@@ -79,8 +87,11 @@ IdolGroup_01	Sea O'Colors\n（麻辣魷物）
 IdolGroup_02	腕兒姐妹
 IdolGroup_03	魚漿幫
 Band01	Squid Squad
+SquidSpawn	魷魚生成
 SquidRoll	魷魚滾行
 SquidSurge	魷魚登頂
+RoeThrow	投擲鮭魚卵
+MiniGameTitle	布陣大戰占地鬥士
 MiniGameRank	占地鬥士等級
 CardPack	卡包
 SpecialPoint	特殊點數
@@ -92,11 +103,24 @@ MiniGameKurage1	悠閒水母
 MiniGameKurage2	獨當一面水母
 MiniGameKurage3	模仿水母
 Shakeup	鮭壩
+Shakeship	漂浮落難船
 Shakespiral	新卷堡
 Shakedent	麥年海洋發電所
+RoeContainer	鮭魚卵容器
 RoeCannon	鮭魚卵大炮
 SakeArtilleryCannon	發射台
+BigRun	大型跑
 Uroko	鱗片
+SakeBigBossGauge	頭目槽
+CoopScenario	打工劇本
+CoopEvent_Rush	狂潮
+CoopEvent_Fog	霧
+CoopEvent_Dozer	烤架魚出動
+CoopEvent_Missile	大胖魚大量出現
+CoopEvent_Geyser	尋找金鮭魚
+CoopEvent_Hakobiya	走私魚來襲
+CoopEvent_Tamaire	泥鮭魚噴發
+CoopEvent_Relay	巨型龍捲風
 SakelienStandard	鮭魚
 SakelienLarge	大胖魚
 SakelienSmall	小鮭魚
@@ -116,15 +140,18 @@ SakeSaucer	鍋蓋魚
 SakePillar	柱魚
 SakeDolphin	潛水魚
 SakeArtillery	鐵球魚
-SakelienGiant	橫綱
 SakeTamaire	泥鮭魚
 SakeBigBoss	頭目鮭魚
+SakelienGiant	橫綱
 Msn_EnmOctTrooper_01	章魚兵
+Msn_EnmOctTrooper_02	盾牌章魚兵
 Msn_EnmOctTrooper_03	強化章魚兵
 Msn_EnmOctTrooper_13	章魚彈跳兵
 Msn_EnmOctCopter_01	章魚螺旋槳兵
 Msn_EnmOctCopter_03	章魚鏡球兵
+Msn_EnmOctCopter_04	炸彈章魚螺旋槳兵
 Msn_EnmOctPod_01	章魚彈艙兵
+Msn_EnmOctPod_02	大容量章魚彈艙兵
 Msn_EnmOctEscape_01	章魚溜兵
 Msn_EnmOctStamp_01	章魚印章兵
 Msn_EnmOctStamp_02	波動章魚印章兵
@@ -137,6 +164,8 @@ Msn_EnmOctBaller_01	章魚保齡球兵
 Msn_EnmOctCleaner_01	吸墨器
 Msn_EnmOctFlooder_01	章魚推進灑墨機
 Msn_AreaOfAlternative	地域
+Msn_ZapfishGiant	大電池鯰魚
+Msn_ZapfishNormal	電池鯰魚
 Msn_ZapfishReplica	電仔
 Msn_Archives_01	神秘檔案
 Msn_Drone	無人機
@@ -155,6 +184,7 @@ Msn_JumpPoint	跳躍點
 Msn_CourseObj_04	開關
 Msn_CourseObj_05	轉轉開關
 Msn_CourseObj_06	炸彈氣球
+Msn_CourseObj_07	海綿
 Msn_CourseObj_10	噴泉
 Msn_CourseObj_11	吹吹捲
 Msn_CourseObj_12	螺旋槳
@@ -170,9 +200,16 @@ Msn_CourseObj_22	螺旋槳踏板
 Msn_BreakableObj_08	失敗氣球
 Msn_BreakableObj_09	標靶
 Msn_ObstacleObj_02	塗塗棒
+Msn_ObstacleObj_03	灑墨器
+Msn_ObstacleObj_04	毒霧
+Msn_ObstacleObj_05	斯普拉防護牆
 UdemaePoint	技術點數
 UdemaePoint_00	晉級戰
 BattleMemory	對戰記憶
+XRanking	X排名
+XRegionGroup	組別
+VS_Obj_01	標靶
+VS_Obj_03	真格區域
 VS_Obj_04	真格塔樓
 VS_Obj_05	真格魚虎
 VS_Obj_10	真格蛤蜊
@@ -182,14 +219,18 @@ FesPoint	祭典點數
 Fes100Person	百傑
 TrumpetShell	法螺
 FestivalShell	祭典貝
+FesFloat	神轎
 FesPhase_01	準備祭
 FesPhase_02	正式祭
 TricolorSignal	超級信號
 TricolorTreasure	塗滿告示牌
 ModeMission	英雄模式
+Plz_Obj_01	祭典投票所
+Lobby_Obj_01	對戰壺
 Lobby_Obj_02	大廳設備
 Lobby_Obj_03	假魷魚
 PlayerAvatar	分身
+Grizzco_Obj_01	熊先生設備
 WeaponLicense	武器兌換證
 WeaponLicenseGold	金色武器兌換證
 SDServiceName	魷魚圈 3
@@ -205,12 +246,14 @@ CommonMsg\MatchMode.msbt
 Regular	一般比賽
 Bankara	蠻頹比賽{size[4b00]}（挑戰）{size[6400]}
 BankaraOpen	蠻頹比賽{size[4b00]}（開放）{size[6400]}
+XMatch	X比賽
 Private	私人比賽
 FestRegular	祭典比賽{size[4b00]}（開放）{size[6400]}
 FestChallenge	祭典比賽{size[4b00]}（挑戰）{size[6400]}
-FestTriColor	三色奪寶攻擊
+FestTriColor	三色奪寶比賽
 Coop	SALMON RUN
 CoopPrivate	私人打工
+CoopBigRun	大型跑
 MiniGame	占地鬥士
 CommonMsg\PictFontRef.msbt
 Tuto_B	{[0301|0000204000000000]}
@@ -311,6 +354,8 @@ System_WeaponLicenseGold	{[031d|f6285c3f00000000]}
 Mng_SpecialMass	{[0329|14ae473f00000000]}
 Mng_SpecialMass_Op	{[032a|14ae473f00000000]}
 Result_WeaponLicense	{[031c|295c4f3f00000000]}
+X_YakoLeague	{[032c|0000803f00000000]}
+X_AromeLeague	{[032b|0000803f00000000]}
 CommonMsg\RegionLanguageID.msbt
 JPja	日文
 USen	英文
@@ -325,7 +370,7 @@ Summer	夏 Sizzle Season
 Autumn	秋 Drizzle Season
 Winter	冬 Chill Season
 CommonMsg\UnitName.msbt
-Identifier	#{[0201|0010]}
+Identifier	#{d}
 VSTimer	{[0200|00020000]}:{[0200|01020100]}
 MsnTimer_MinSec	{[0200|00020200]}:{[0200|01020100]}
 MinSec_1Digit	{[0200|00010000]}:{[0200|01020100]}
@@ -358,7 +403,7 @@ DateTime01	{[0200|00040100]}/{[0200|01020000]}/{[0200|02020000]}  {[0200|0302010
 DateTime02	{[0200|00020000]}/{[0200|01020000]} （{[0410|02000000]}） {[0200|03020100]}:{[0200|04020100]}
 Date01	{[0200|00040100]}/{[0200|01020000]}/{[0200|02020000]}
 Time00	{[0200|00020100]}:{[0200|01020100]}
-ScheduleTerm	{[0201|0010]} ～ {[0201|0110]}
+ScheduleTerm	{d} ～ {[0201|0100]}
 MsnStageNo	No.{[0200|00020000]}
 UdemaePoint	{[0200|00050000]}p
 UdemaePointGoal	NEXT:{[0200|00040000]}p
@@ -371,6 +416,12 @@ CatalogSeason	{[0200|00040000]}{[040c|01000000]}
 FestPowCount	{[0200|00010000]}/{[0200|01010000]}
 NumFestPowNow	目前：{[0200|00040000]}.{[0200|01010000]}
 NumFestPowMax	最高：{[0200|00040000]}.{[0200|01010000]}
+XPower	{[0200|00040000]}.{[0200|01010000]}
+Hyphen2	--
+CardGameWin_Singular	勝
+CardGameWin_Prural	勝
+BigRunHighScore	x{[0200|00040000]}
+StatusXPower	X戰力：{[0200|00040000]}.{[0200|01010000]}
 Sunday	日
 Monday	一
 Tuesday	二
@@ -378,9 +429,6 @@ Wednesday	三
 Thursday	四
 Friday	五
 Saturday	六
-Hyphen2	--
-CardGameWin_Singular	勝
-CardGameWin_Prural	勝
 CommonMsg\Badge\BadgeMsg.msbt
 Mission_Lv00	已擊倒DJ芥末章魚將軍
 Mission_Lv01	已通過英雄模式
@@ -405,6 +453,9 @@ WinCount_Tcl_Def_Lv01	在三色奪寶對戰中作為防守隊伍獲勝10次
 Udemae_Lv00	技術達到A
 Udemae_Lv01	技術達到S
 Udemae_Lv02	技術達到S+
+XRank_Lv00	在X比賽的排名中位列前3000名
+XRank_Lv01	在X比賽的排名中位列前500名
+XRank_Lv02	在X比賽的排名中位列前10名
 WeaponLevel_Lv00	{[0401|00000000]}的熟練度達到★4
 WeaponLevel_Lv01	{[0401|00000000]}的熟練度達到★5
 WinCount_WeaponSp_Lv00	使用{[0401|00000000]}在對戰中獲勝30次
@@ -449,12 +500,23 @@ OrderFood_Lv01	在商店完成預訂100次
 OrderFood_Lv02	在商店完成預訂1000次
 OrderVendor_Lv00	找刺冠預訂裝備10次
 OrderVendor_Lv01	找刺冠預訂裝備100次
+SpendLottery_Lv00	抽獎的消費金額達到300,000元魷鈔
+SpendLottery_Lv01	抽獎的消費金額達到3,000,000元魷鈔
+SpendLottery_Lv02	抽獎的消費金額達到30,000,000元魷鈔
+LimitedRewardLottery_Lv00	抽獎抽中了4次頭獎
+LimitedRewardLottery_Lv01	抽獎抽中了8次頭獎
+LimitedRewardLottery_Lv02	抽獎抽中了16次頭獎
+CoopBigRunTrophy_Lv00	大型跑的分數位列前50％
+CoopBigRunTrophy_Lv01	大型跑的分數位列前20％
+CoopBigRunTrophy_Lv02	大型跑的分數位列前5％
 CommonMsg\Byname\BynameAdjective.msbt
 0000	溫泉花大峽谷的
 0001	鰻鯰區的
 0002	煙管魚市場的
 0003	竹蟶疏洪道的
 0005	魚肉碎金屬的
+0006	臭魚乾溫泉的
+0007	比目魚住宅區的
 0008	真鯖跨海大橋的
 0009	金眼鯛美術館的
 0010	鬼頭刀SPA度假區的
@@ -463,6 +525,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 0013	座頭購物中心的
 0014	醋飯海洋世界的
 0040	鮭壩的
+0041	漂浮落難船的
 0045	新卷堡的
 0046	麥年海洋發電所的
 0060	一般比賽的
@@ -470,6 +533,8 @@ CommonMsg\Byname\BynameAdjective.msbt
 0062	私人比賽的
 0063	英雄模式的
 0064	鮭魚跑的
+0065	X比賽的
+0067	三色奪寶比賽的
 0100	墨汁用光的
 0101	週末的
 0102	萬眾矚目的
@@ -987,7 +1052,10 @@ CommonMsg\Byname\BynameAdjective.msbt
 0720	VR
 0721	50％的
 0722	3％的
+2002	黑白的
+2003	長袖的
 2500	大大吉的
+2501	極稀有的
 3000	蠻頹的
 3001	印度洋的
 3002	北大西洋的
@@ -1008,6 +1076,7 @@ CommonMsg\Byname\BynameAdjective.msbt
 3200	享樂的
 3201	最強的
 3300	酥脆的
+3301	站著踩的
 CommonMsg\Byname\BynameSubject.msbt
 0000_0	廣域標記槍操作者
 0000_1	{[0102]}
@@ -1117,6 +1186,12 @@ CommonMsg\Byname\BynameSubject.msbt
 0052_1	{[0102]}
 0053_0	4K準星槍操作者
 0053_1	{[0102]}
+0054_0	太空射擊槍操作者
+0054_1	{[0102]}
+0055_0	寬滾筒操作者
+0055_1	{[0102]}
+0056_0	R-PEN操作者
+0056_1	{[0102]}
 0100_0	斯普拉炸彈操作者
 0100_1	{[0102]}
 0101_0	吸盤炸彈操作者
@@ -1235,6 +1310,10 @@ CommonMsg\Byname\BynameSubject.msbt
 0190_1	{[0102]}
 0191_0	C-Side粉絲
 0191_1	{[0102]}
+0192_0	Front Roe粉絲
+0192_1	{[0102]}
+0193_0	Damp Socks粉絲
+0193_1	{[0102]}
 0220_0	長髮
 0220_1	{[0102]}
 0221_0	短髮
@@ -2084,8 +2163,14 @@ CommonMsg\Byname\BynameSubject.msbt
 0729_1	大小姐
 0730_0	配角
 0730_1	{[0102]}
+2002_0	回憶
+2002_1	{[0102]}
+2003_0	造型師
+2003_1	{[0102]}
 2500_0	幸運兒
 2500_1	{[0102]}
+2501_0	天然紀念物
+2501_1	{[0102]}
 3000_0	年輕人
 3000_1	{[0102]}
 3001_0	魷魚
@@ -2126,6 +2211,8 @@ CommonMsg\Byname\BynameSubject.msbt
 3201_1	{[0102]}
 3300_0	旅行者
 3300_1	{[0102]}
+3301_0	單車騎士
+3301_1	{[0102]}
 CommonMsg\Coop\CoopEnemy.msbt
 SakelienStandard	鮭魚
 SakelienLarge	大胖魚
@@ -2177,7 +2264,9 @@ COP006	打工連身工作服 黑色
 COP007	打工連身工作服 白色
 CommonMsg\Coop\CoopStageName.msbt
 Shakeup	鮭壩
+Shakeship	漂浮落難船
 Shakespiral	新卷堡
+Carousel	醋飯海洋世界
 Shakedent	麥年海洋發電所
 Tutorial	新卷堡
 Unknown	？？？
@@ -2219,6 +2308,9 @@ Gear_Clothes_01	在遊玩網路對戰時使用吧！
 Gear_Shoes_00	獲得「{[0402|00000000]}」！
 Gear_Shoes_01	在遊玩網路對戰時使用吧！
 LockerFigure_00	獲得裝飾品！
+LockerFigure_Bronze_00	獲得銅裝飾品！
+LockerFigure_Silver_00	獲得銀裝飾品！
+LockerFigure_Gold_00	獲得金裝飾品！
 LockerFigure_Plural_00	獲得裝飾品！
 LockerFigure_01	在裝飾置物櫃時使用吧！
 LockerSticker_00	獲得貼紙！
@@ -2253,12 +2345,17 @@ Catalog1st_00	獲得目錄！
 Catalog1st_01	透過對戰或打工累積目錄點數\n獲得超魷型的道具吧！
 Catalog_00	獲得目錄（第{[0200|00040000]}本）！
 Catalog_01	透過對戰或打工累積目錄點數\n獲得超魷型的道具吧！
+NextSeasonCatalog_00	獲得新賽季的目錄！
+NextSeasonCatalog_01	舊目錄已經被回收了！
 GoldWeaponLicense_00	獲得{[0200|00020000]}張金色武器兌換證！
 GoldWeaponLicense_01	帶去武器店兌換自己喜歡的武器吧！
 BankaraMatchUnlock_00	可以挑戰蠻頹比賽了！
 BankaraMatchUnlock_01	透過對戰壺參加吧！
+XMatchUnlock_00	可以挑戰X比賽了！
+XMatchUnlock_01	透過對戰壺參加吧！
 LockerPhotoFrame_00	獲得相框！
 LockerPhotoFrame_01	可以用自己喜歡的照片來裝飾置物櫃喔！
+RankInReward_00	恭喜入榜！
 MsnWeaponBufDocument_00	獲得小魚乾！
 MsnWeaponBufDocument_01	可以用來強化英雄裝備喔！\n按下{[0302|0000803f00000000]}打開選單就能強化了！
 MsnGoldDisk_00	獲得金色唱片！
@@ -2279,11 +2376,13 @@ Page_MissionAncientDocument_Plu	獲得神秘檔案的貼紙！
 Page_MissionKebaInkClear	幻界調查完畢！
 Page_MissionStoryClear	通過英雄模式！
 Page_MissionComplete	通過隱藏茶壺！
-Page_MissionDrone	發現無人機！
+Page_MissionDrone	無人機發現東西了！
 Page_MiniGameRank	透過占地鬥士獲得！
 Page_Trigger	來自《魷魚圈 3》的禮物！
 Page_Trigger_Plu	來自《魷魚圈 3》的禮物！
 Page_CatalogLevel	目錄等級提升！
+Page_SeasonReset	獲得目錄的道具！
+Page_Aoc	獲得新增內容的特典！
 CommonMsg\Gear\GearBrandName.msbt
 B00	戰鬥魷魚
 B01	鋼鐵先鋒
@@ -2306,8 +2405,10 @@ B97	熊先生商會
 B98	魚乾製造
 B99	amiibo
 CommonMsg\Gear\GearName_Clothes.msbt
+FST001	新葉魷魚T恤
 TES000	魷魚T恤 白色
 TES001	魷魚眼T恤 黑色
+TES003	魷魚眼T恤 淺藍色
 TES004	羅肯貝格T恤 白色
 TES005	羅肯貝格T恤 黑色
 TES006	魷魚T恤 黑色
@@ -2319,13 +2420,20 @@ TES018	海盜風橫紋T恤
 TES019	海軍風橫紋T恤
 TES020	燒河豚點陣T恤 白色
 TES021	燒河豚點陣T恤 黑色
+TES026	肉食動物T恤
+TES028	章魚T恤
+TES029	草食動物T恤
 TES030	魷魚V領T恤 黑色
 TES035	魷魚V領T恤 白色
+TES047	無法無天章魚圖案T恤
+TES048	火熱漸層T恤
+TES049	暇古扎染T恤 銀河
+TES050	暇古扎染T恤 彩虹
+TES055	冰原漸層T恤
 TES063	魷魚絲T恤 白色
 TES064	艾洛眼T恤 五分袖
 TES066	無法無天T恤配頸鍊
 TES067	無法無天T恤配手鍊
-TES088	加百列T恤
 TES069	再版T恤 藍色
 TES070	再版T恤 棕色
 TES071	散壽司披肩 海苔卷
@@ -2339,9 +2447,12 @@ TES082	滾邊T恤 鳳梨
 TES083	滾邊T恤 蘋果
 TES084	暮光漸層T恤
 TES085	日落漸層T恤
+TES088	加百列T恤
 TES090	密集水滴魚上衣 萊姆綠
 TES091	密集水滴魚上衣 莓果紅
 TEL004	澤酷插肩袖上衣
+TEL015	無法無天長袖T恤 駕駛
+TEL026	纏繞鉤爪T恤 黑色
 TLY000	兩件式長袖上衣 白色
 TLY001	兩件式長袖上衣 芥末黃
 TLY004	鋼鐵先鋒兩件式長袖上衣
@@ -2354,11 +2465,15 @@ PLO009	王者橄欖球衫010
 PLO010	王者橄欖球衫008
 JKT000	登山外套 橄欖綠
 JKT001	暇古尼龍拉鍊上衣 懷舊
+JKT003	多Logo棒球外套
+JKT005	字母針織罩衫 綠色
 JKT006	魷魚騎士皮外套 黑色
+JKT010	F-190
 JKT014	魷魚飛行外套
 JKT015	鯰魚飛行外套
 JKT019	輕量羽絨外套 抹茶色
 JKT023	劍尖教練外套
+JKT036	轟炸機飛行外套 負片
 JKT045	怪物 PCU56
 JKT046	散壽司派克大衣
 JKT047	魚片外套
@@ -2367,16 +2482,25 @@ JKT049	划槳外套 負片
 JKT050	短版小外套 負片
 JKT051	滲透壓毛絨外套 象牙色
 JKT054	狩獵外套KK
+JKT055	划槳外套 正片
+JKT056	短版小外套 正片
+JKT057	散壽司毛大衣
+JKT060	登山外套 藻綠色
 TNK000	籃球運動服 主場
 TNK003	王者坦克背心 白色
 TNK008	海坊主坦克背心 主場
 SWT001	魷魚交叉套頭衫 芥末黃
+SWT007	長版套頭衫 負片
 SWT010	無法無天針織衫 藍色袖子
+SWT013	皇耆訓練套頭衫
 SWT016	海月海牛套頭衫
 SWT017	3D針織衫 鯊魚
 SWT018	章魚防風運動上衣 藍色
+SWT020	3D針織衫 鯨魚
 SHT000	秋季法蘭絨襯衫
+SHT001	魷魚刺繡西部襯衫
 SHT003	白色襯衫
+SHT004	海膽BB襯衫
 SHT005	舞動魷魚夏威夷襯衫
 SHT012	很多Logo夏威夷襯衫
 SHT017	彼得龐克襯衫
@@ -2385,12 +2509,15 @@ SHT019	墨汁噴灑襯衫
 SHT020	降落傘上衣 石榴紅
 SHT024	扁面蛸夏威夷襯衫
 SHT025	無法無天法蘭絨連帽上衣
+SHT026	墨汁脫落襯衫
 SHT030	海馬古巴襯衫
 SHT031	小丑襯衫
 SHT033	魚片襯衫 野外觀察
 SHT034	繡花襯衫 煙管魚
 SHT036	噴墨襯衫
+SHT038	立領襯衫 素色
 SHT040	魚片襯衫 城市
+VST004	相撞魷魚背心
 VST010	狩獵背心KK
 VST011	長腿護甲 紅色
 VST012	長腿護甲 萊姆綠
@@ -2438,24 +2565,33 @@ COP007	打工連身工作服 白色
 CommonMsg\Gear\GearName_Head.msbt
 FST000	頭帶 白色
 CAP000	海膽BB帽
+CAP001	露營帽
 CAP002	暇古網帽
 CAP003	飲料標誌帽
+CAP004	千鳥帽
 CAP005	墨行帽
 CAP012	單車帽
 CAP020	山核桃條紋工作帽
 CAP021	羊毛海膽經典帽
+CAP023	位元水母帽
+CAP024	房屋標籤牛仔帽
 CAP028	遮陽帽 墨黑
 CAP036	瓜皮帽
+NCP001	短款圓頂毛帽
 NCP008	針織帽
+NCP009	無法無天別針貝雷帽
+EYE000	復古黑框眼鏡
 EYE001	斯普拉護目鏡
 EYE002	飛行員護目鏡
 EYE003	有色眼鏡
-EYE007	顯眼隱形眼鏡
 EYE008	明星墨鏡 18K
 EYE009	玳瑁圓形眼鏡
 EYE011	半框眼鏡
 EYE012	鐵蛋墨鏡
+EYE014	圓形墨鏡SV925
+EYE015	無法無天巴斯克貝雷帽
 EYE016	競技泳鏡
+EYE018	劍尖特製競技泳鏡
 EYE021	桶眼魚護目鏡
 EYE022	8-Bit 鏡框
 EYE023	眼飾
@@ -2464,9 +2600,12 @@ EYE025	浮法玻璃透明眼鏡
 EYE026	騎士偏光眼鏡
 EYE027	無法無天方形眼鏡
 EYE029	球形墨鏡BC925
+EYE031	粗框方形眼鏡
+HAT003	河豚鈴鐺圓邊帽
 HAT004	斗笠
 HAT006	經典魷魚草帽
 HAT008	魷魚漁夫帽
+HAT010	遮陽鬱金香帽
 HAT015	經典圓頂禮帽
 HAT016	模板噴畫牛仔布帽
 HAT017	帆立貝牛仔帽
@@ -2476,14 +2615,24 @@ HDP001	極光耳機
 HDP004	立體聲錄音機耳機
 HDP007	耳朵章魚8
 HDP008	骨傳導鰭掛式耳機EP
+HDP009	耳朵章魚8 RAW
 VIS001	燒河豚中空遮陽帽
 VIS003	暇古中空遮陽帽
 VIS004	臉部中空遮陽帽
+MET004	滑板安全帽
+MET006	贊助商標摩托車安全帽
 MET007	伊卡洛斯曲棍球安全帽
+MET009	裝飾獎章魚安全帽
 MET012	貝殼安全帽
 MET013	號角安全帽BF
 MET014	捕手面罩FU
+MET016	頭部護具 素色
+MSK002	佩斯利花紋絲巾
+MSK003	魷魚骨口罩
+MSK004	噴漆面罩
 MSK005	無法無天口罩
+MSK006	章魚王星星口罩
+MSK007	魷魚交叉防護口罩
 MSK008	暖流口罩
 MSK011	鍛品口罩
 MSK014	水滴魚微笑面罩
@@ -2522,8 +2671,12 @@ MSN306	英雄頭飾裝備 複製
 MSN310	傳說的帽子
 COP110	金線魚帽
 COP111	視野中空遮陽帽
+COP112	消防盔
 COP113	飛行員安全帽
+COP114	高科技望遠鏡
 COP115	靈光一閃安全帽
+COP116	蛸壺安全帽
+ACC003	魷魚章魚耳飾
 COP001	バイトヘルメット オレンジ
 COP002	バイトヘルメット グリーン
 COP003	バイトヘルメット イエロー
@@ -2537,25 +2690,34 @@ CommonMsg\Gear\GearName_Shoes.msbt
 SLO000	低筒鞋 藍色
 SLO008	魔鬼氈鞋 白色
 SLO009	魔鬼氈鞋 紅色
+SLO010	釘鞋 橙紅
+SLO012	攀岩鞋 食舌蟲
 SLO021	NNJ運動鞋 綠色
 SLO022	基地訓練鞋 入門
 SLO023	蛤蜊600 甘露醬油
 SLO024	基地訓練鞋 高手
+SLO025	蛤蜊600 琥珀
 SHI000	高筒海馬鞋 紅色
 SHI001	高筒海馬鞋 殭屍
 SHI003	高筒海馬鞋 紫色
 SHI004	高筒帆布鞋 黃麻
 SHI005	高筒帆布鞋 番茄
 SHI006	高筒海馬鞋 金色
+SHI008	莫卡辛鞋 鯊魚
+SHI010	貝殼鞋 巧克力
 SHI011	貝殼鞋 薄荷
 SHI016	虎鯨高筒鞋 日落
 SHI017	餌木釣鞋4 紅配黑
 SHI018	餌木釣鞋4 藍配黑
+SHI025	餌木釣鞋5 白配紅
 SHI042	能力重置高筒鞋
 SHI043	天亞8籃球鞋 紅色
 SHI045	01STER 琥珀
+SHI046	鵜足青螺高筒鞋
+SHI052	01STER 甘露醬油
 SHT000	糖果運動鞋 粉紅色
 SHT001	箭標鞋 橘色
+SHT002	海蛞蝓鞋 黃色
 SHT004	糖果運動鞋 藍綠色
 SHT009	糖果運動鞋 黑色
 SHT012	艾洛網眼運動鞋 黃色
@@ -2571,6 +2733,7 @@ SDL001	鱷魚鞋 巧克力
 SDL003	三角帶運動涼鞋 霓虹
 SDL004	BB拖鞋
 SDL005	三角帶運動涼鞋 雪白
+SDL006	三角帶運動涼鞋 光亮
 SDL007	燒河豚浴室拖鞋 紅色
 SDL008	燒河豚浴室拖鞋 黃色
 SDL010	魚骨編織涼鞋
@@ -2583,15 +2746,27 @@ TRS000	登山鞋 輕量
 TRS001	登山鞋 訂製
 BOT000	越野摩托車靴
 BOT001	磨砂皮革靴 黃色
+BOT002	磨砂皮革靴 紅色
+BOT004	雨靴 青苔綠
 BOT006	搖滾靴 白色
 BOT007	搖滾靴 櫻桃
+BOT010	羽絨靴 牛乳
 BOT012	狩獵靴
+BOT013	搖滾靴 黑色
+BOT019	越野摩托車靴M-DCB
 BOT020	磨砂皮革靴xSJ
 BOT021	獵鴨靴 白雪
 BOT023	雙髻鯊靴 紅色
 BOT025	搖滾靴 粉紅色
+BOT026	暖暖靴
+SLP000	懶人鞋 藍色
 SLP002	懶人鞋 千鳥
+LTS000	厚底鞋 白色
+LTS003	魷魚墨汁雕花鞋
+LTS005	魷魚僧侶鞋 駝色
+LTS007	海軍雕花鞋 紅底
 LTS010	無法無天厚底鞋 哈瓦那辣椒
+LTS011	無法無天厚底鞋 爵士經典
 LTS013	查卡靴 三明治
 LTS014	帆船鞋 深咖啡色
 AMB000	學校樂福鞋 高級
@@ -2621,6 +2796,7 @@ MSN304	英雄靴Lv3
 MSN305	英雄靴ST
 MSN306	英雄靴 複製
 MSN310	傳說的草鞋
+TRG000	AGE262
 CommonMsg\Gear\GearPowerExp.msbt
 None	在對戰中使用裝備累積經驗值\n即可解鎖裝備能力。
 OpInkEffect_Reduction	降低踩到對手墨汁時\n受到的傷害與移動速度減少的幅度。
@@ -2823,6 +2999,10 @@ Fig_LaundryDetergent01	潔淨型洗衣劑
 Fig_CoopSalmonTower	高塔魚
 Fig_CerealBox02	椰子麥片
 Fig_CoopSalmonRocket	蝙蝠魚
+Fig_CoopSalmonBigKing00	橫綱 一般版
+Fig_CoopSalmonBigKing01	橫綱 銅色版
+Fig_CoopSalmonBigKing02	橫綱 銀色版
+Fig_CoopSalmonBigKing03	橫綱 金色版
 Fig_CoopSalmonGuardian	鐵板魚
 Fig_Snack06	爽脆零食
 Fig_Box01L	木箱 魚乾製造
@@ -2922,6 +3102,12 @@ Fig_UdemaeReward_Lv04	技術獎盃 B
 Fig_UdemaeReward_Lv01	技術獎盃 S+
 Fig_UdemaeReward_Lv02	技術獎盃 S
 Fig_UdemaeReward_Lv03	技術獎盃 A
+Fig_JuiceBox_00	包裝飲料 芒果
+Fig_Backpack00	後背包 海軍藍
+Fig_DrawstringBag00	抽繩包 網眼
+Fig_LunchBox00	便當盒 藍色
+Fig_RingBinder00	活頁簿 紫色
+Fig_WaterBottle00	水壺 水藍色
 Grf_Sti_Character_28	角色 ARE-TK
 Grf_Sti_Character_29	角色 ARE-IK
 Grf_Sti_Decoration_14	裝飾 HDS
@@ -2983,6 +3169,7 @@ Pap_Sti_Poster_14	傳單 TNA
 Pap_Sti_Poster_15	海報 KS-MDK
 Pap_Sti_Poster_18	海報 KS-TAB
 Pap_Sti_Poster_19	海報 KS-SYK
+Pap_Sti_Poster_20	海報 KU-ARP
 Pap_Sti_Signboard_11	告示 KIW
 Pap_Sti_Signboard_12	告示 SUM-HU
 Pap_Sti_Sticker_20	貼紙 GDJ
@@ -3101,6 +3288,17 @@ Stc_Sti_MiniGame_RankAward_Lv04	占地鬥士貼紙4
 Stc_Sti_MiniGame_RankAward_Lv05	占地鬥士貼紙5
 Stc_Sti_MiniGame_RankAward_Lv06	占地鬥士貼紙6
 Stc_Sti_MiniGame_RankAward_Lv07	占地鬥士貼紙7
+Grf_Sti_Graffiti_44	塗鴉 KU-ARK
+Grf_Sti_Signboard_23	招牌 KU-OKB
+Pap_Sti_Signboard_24	告示 KU-SHG
+Stc_Sti_Character_30	角色 HI-TBK
+Stc_Sti_Character_31	角色 HI-CKU
+Stc_Sti_Character_32	角色 KU-KCA
+Stc_Sti_Signboard_20	招牌 HI-SNR
+Stc_Sti_Signboard_21	招牌 HI-SPY
+Stc_Sti_Signboard_22	招牌 HI-KRD
+Stc_Sti_Sticker_34	貼紙 HI-ISP
+Stc_Sti_Sticker_35	貼紙 KU-YIS
 Stc_Sti_Wst_Charger_Normal_00_Lv00	貼紙 斯普拉蓄力狙擊槍
 Hla_Sti_Wst_Roller_Normal_00_Lv01	貼紙 斯普拉滾筒 HO
 Hla_Sti_Wst_Charger_Normal_00_Lv01	貼紙 斯普拉蓄力狙擊槍 HO
@@ -3115,7 +3313,9 @@ Hla_Sti_Wst_Blaster_Light_00_Lv01	貼紙 快速爆破槍 HO
 Hla_Sti_Wst_Blaster_Long_00_Lv01	貼紙 遠距爆破槍 HO
 Hla_Sti_Wst_Blaster_Middle_00_Lv01	貼紙 火熱爆破槍 HO
 Hla_Sti_Wst_Blaster_Short_00_Lv01	貼紙 新星爆破槍 HO
+Hla_Sti_Wst_Blaster_Short_01_Lv01	貼紙 新星爆破槍 新型 HO
 Hla_Sti_Wst_Brush_Mini_00_Lv01	貼紙 巴勃羅 HO
+Hla_Sti_Wst_Brush_Mini_01_Lv01	貼紙 巴勃羅‧新藝術 HO
 Hla_Sti_Wst_Brush_Normal_00_Lv01	貼紙 北齋 HO
 Hla_Sti_Wst_Charger_Keeper_00_Lv01	貼紙 高壓油管槍 HO
 Hla_Sti_Wst_Charger_Light_00_Lv01	貼紙 14式竹筒槍‧甲 HO
@@ -3127,8 +3327,10 @@ Hla_Sti_Wst_Maneuver_Dual_00_Lv01	貼紙 雙重清潔槍 HO
 Hla_Sti_Wst_Maneuver_Gallon_00_Lv01	貼紙 開爾文525 HO
 Hla_Sti_Wst_Maneuver_Normal_00_Lv01	貼紙 斯普拉機動槍 HO
 Hla_Sti_Wst_Maneuver_Short_00_Lv01	貼紙 濺鍍槍 HO
+Hla_Sti_Wst_Maneuver_Short_01_Lv01	貼紙 濺鍍槍‧新藝術 HO
 Hla_Sti_Wst_Maneuver_Stepper_00_Lv01	貼紙 四重彈跳手槍 黑 HO
 Hla_Sti_Wst_Roller_Compact_00_Lv01	貼紙 碳纖維滾筒 HO
+Hla_Sti_Wst_Roller_Compact_01_Lv01	貼紙 碳纖維滾筒 裝飾 HO
 Hla_Sti_Wst_Roller_Heavy_00_Lv01	貼紙 電動馬達滾筒 HO
 Hla_Sti_Wst_Roller_Hunter_00_Lv01	貼紙 可變式滾筒 HO
 Hla_Sti_Wst_Saber_Lite_00_Lv01	貼紙 雨刷刮水刀 HO
@@ -3137,12 +3339,16 @@ Hla_Sti_Wst_Shelter_Compact_00_Lv01	貼紙 特務配件 HO
 Hla_Sti_Wst_Shelter_Normal_00_Lv01	貼紙 遮陽防空傘 HO
 Hla_Sti_Wst_Shelter_Wide_00_Lv01	貼紙 露營防空傘 HO
 Hla_Sti_Wst_Shooter_Blaze_00_Lv01	貼紙 專業模型槍MG HO
+Hla_Sti_Wst_Shooter_Blaze_01_Lv01	貼紙 專業模型槍RG HO
 Hla_Sti_Wst_Shooter_Expert_00_Lv01	貼紙 頂尖射擊槍 HO
+Hla_Sti_Wst_Shooter_Expert_01_Lv01	貼紙 頂尖射擊槍 聯名 HO
 Hla_Sti_Wst_Shooter_First_00_Lv01	貼紙 新葉射擊槍 HO
+Hla_Sti_Wst_Shooter_First_01_Lv01	貼紙 楓葉射擊槍 HO
 Hla_Sti_Wst_Shooter_Flash_00_Lv01	貼紙 開瓶噴泉槍 HO
 Hla_Sti_Wst_Shooter_Gravity_00_Lv01	貼紙 .52加侖 HO
 Hla_Sti_Wst_Shooter_Heavy_00_Lv01	貼紙 .96加侖 HO
 Hla_Sti_Wst_Shooter_Long_00_Lv01	貼紙 噴射清潔槍 HO
+Hla_Sti_Wst_Shooter_Normal_01_Lv01	貼紙 斯普拉射擊槍 聯名 HO
 Hla_Sti_Wst_Shooter_Normal_H_Lv01	貼紙 英雄射擊槍 複製 HO
 Hla_Sti_Wst_Shooter_Precision_00_Lv01	貼紙 窄域標記槍 HO
 Hla_Sti_Wst_Shooter_QuickMiddle_00_Lv01	貼紙 N-ZAP85 HO
@@ -3152,10 +3358,12 @@ Hla_Sti_Wst_Slosher_Bathtub_00_Lv01	貼紙 滿溢泡澡潑桶 HO
 Hla_Sti_Wst_Slosher_Diffusion_00_Lv01	貼紙 洗筆桶 HO
 Hla_Sti_Wst_Slosher_Launcher_00_Lv01	貼紙 迴旋潑桶 HO
 Hla_Sti_Wst_Slosher_Strong_00_Lv01	貼紙 飛濺潑桶 HO
+Hla_Sti_Wst_Slosher_Strong_01_Lv01	貼紙 飛濺潑桶 裝飾 HO
 Hla_Sti_Wst_Slosher_Washtub_00_Lv01	貼紙 爆炸潑桶 HO
 Hla_Sti_Wst_Spinner_Downpour_00_Lv01	貼紙 圓珠筆 HO
 Hla_Sti_Wst_Spinner_Hyper_00_Lv01	貼紙 消防栓旋轉槍 HO
 Hla_Sti_Wst_Spinner_Quick_00_Lv01	貼紙 斯普拉旋轉槍 HO
+Hla_Sti_Wst_Spinner_Quick_01_Lv01	貼紙 斯普拉旋轉槍 聯名 HO
 Hla_Sti_Wst_Spinner_Serein_00_Lv01	貼紙 鸚鵡螺號47 HO
 Hla_Sti_Wst_Spinner_Standard_00_Lv01	貼紙 桶裝旋轉槍 HO
 Hla_Sti_Wst_Stringer_Normal_00_Lv01	貼紙 三發獵魚弓 HO
@@ -3166,7 +3374,9 @@ Stc_Sti_Wst_Blaster_Light_00_Lv00	貼紙 快速爆破槍
 Stc_Sti_Wst_Blaster_Long_00_Lv00	貼紙 遠距爆破槍
 Stc_Sti_Wst_Blaster_Middle_00_Lv00	貼紙 火熱爆破槍
 Stc_Sti_Wst_Blaster_Short_00_Lv00	貼紙 新星爆破槍
+Stc_Sti_Wst_Blaster_Short_01_Lv00	貼紙 新星爆破槍 新型
 Stc_Sti_Wst_Brush_Mini_00_Lv00	貼紙 巴勃羅
+Stc_Sti_Wst_Brush_Mini_01_Lv00	貼紙 巴勃羅‧新藝術
 Stc_Sti_Wst_Brush_Normal_00_Lv00	貼紙 北齋
 Stc_Sti_Wst_Charger_Keeper_00_Lv00	貼紙 高壓油管槍
 Stc_Sti_Wst_Charger_Light_00_Lv00	貼紙 14式竹筒槍‧甲
@@ -3178,8 +3388,10 @@ Stc_Sti_Wst_Maneuver_Dual_00_Lv00	貼紙 雙重清潔槍
 Stc_Sti_Wst_Maneuver_Gallon_00_Lv00	貼紙 開爾文525
 Stc_Sti_Wst_Maneuver_Normal_00_Lv00	貼紙 斯普拉機動槍
 Stc_Sti_Wst_Maneuver_Short_00_Lv00	貼紙 濺鍍槍
+Stc_Sti_Wst_Maneuver_Short_01_Lv00	貼紙 濺鍍槍‧新藝術
 Stc_Sti_Wst_Maneuver_Stepper_00_Lv00	貼紙 四重彈跳手槍 黑
 Stc_Sti_Wst_Roller_Compact_00_Lv00	貼紙 碳纖維滾筒
+Stc_Sti_Wst_Roller_Compact_01_Lv00	貼紙 碳纖維滾筒 裝飾
 Stc_Sti_Wst_Roller_Heavy_00_Lv00	貼紙 電動馬達滾筒
 Stc_Sti_Wst_Roller_Hunter_00_Lv00	貼紙 可變式滾筒
 Stc_Sti_Wst_Saber_Lite_00_Lv00	貼紙 雨刷刮水刀
@@ -3188,12 +3400,16 @@ Stc_Sti_Wst_Shelter_Compact_00_Lv00	貼紙 特務配件
 Stc_Sti_Wst_Shelter_Normal_00_Lv00	貼紙 遮陽防空傘
 Stc_Sti_Wst_Shelter_Wide_00_Lv00	貼紙 露營防空傘
 Stc_Sti_Wst_Shooter_Blaze_00_Lv00	貼紙 專業模型槍MG
+Stc_Sti_Wst_Shooter_Blaze_01_Lv00	貼紙 專業模型槍RG
 Stc_Sti_Wst_Shooter_Expert_00_Lv00	貼紙 頂尖射擊槍
+Stc_Sti_Wst_Shooter_Expert_01_Lv00	貼紙 頂尖射擊槍 聯名
 Stc_Sti_Wst_Shooter_First_00_Lv00	貼紙 新葉射擊槍
+Stc_Sti_Wst_Shooter_First_01_Lv00	貼紙 楓葉射擊槍
 Stc_Sti_Wst_Shooter_Flash_00_Lv00	貼紙 開瓶噴泉槍
 Stc_Sti_Wst_Shooter_Gravity_00_Lv00	貼紙 .52加侖
 Stc_Sti_Wst_Shooter_Heavy_00_Lv00	貼紙 .96加侖
 Stc_Sti_Wst_Shooter_Long_00_Lv00	貼紙 噴射清潔槍
+Stc_Sti_Wst_Shooter_Normal_01_Lv00	貼紙 斯普拉射擊槍 聯名
 Stc_Sti_Wst_Shooter_Normal_H_Lv00	貼紙 英雄射擊槍 複製
 Stc_Sti_Wst_Shooter_Precision_00_Lv00	貼紙 窄域標記槍
 Stc_Sti_Wst_Shooter_QuickMiddle_00_Lv00	貼紙 N-ZAP85
@@ -3203,14 +3419,22 @@ Stc_Sti_Wst_Slosher_Bathtub_00_Lv00	貼紙 滿溢泡澡潑桶
 Stc_Sti_Wst_Slosher_Diffusion_00_Lv00	貼紙 洗筆桶
 Stc_Sti_Wst_Slosher_Launcher_00_Lv00	貼紙 迴旋潑桶
 Stc_Sti_Wst_Slosher_Strong_00_Lv00	貼紙 飛濺潑桶
+Stc_Sti_Wst_Slosher_Strong_01_Lv00	貼紙 飛濺潑桶 裝飾
 Stc_Sti_Wst_Slosher_Washtub_00_Lv00	貼紙 爆炸潑桶
 Stc_Sti_Wst_Spinner_Downpour_00_Lv00	貼紙 圓珠筆
 Stc_Sti_Wst_Spinner_Hyper_00_Lv00	貼紙 消防栓旋轉槍
 Stc_Sti_Wst_Spinner_Quick_00_Lv00	貼紙 斯普拉旋轉槍
+Stc_Sti_Wst_Spinner_Quick_01_Lv00	貼紙 斯普拉旋轉槍 聯名
 Stc_Sti_Wst_Spinner_Serein_00_Lv00	貼紙 鸚鵡螺號47
 Stc_Sti_Wst_Spinner_Standard_00_Lv00	貼紙 桶裝旋轉槍
 Stc_Sti_Wst_Stringer_Normal_00_Lv00	貼紙 三發獵魚弓
 Stc_Sti_Wst_Stringer_Short_00_Lv00	貼紙 LACT-450
+Stc_Sti_Wst_Shooter_QuickLong_00_Lv00	貼紙 太空射擊槍
+Hla_Sti_Wst_Shooter_QuickLong_00_Lv01	貼紙 太空射擊槍 HO
+Stc_Sti_Wst_Roller_Wide_00_Lv00	貼紙 寬滾筒
+Hla_Sti_Wst_Roller_Wide_00_Lv01	貼紙 寬滾筒 HO
+Stc_Sti_Wst_Charger_Pencil_00_Lv00	貼紙 R-PEN/5H
+Hla_Sti_Wst_Charger_Pencil_00_Lv01	貼紙 R-PEN/5H HO
 CommonMsg\Lobby\LobbyFoodExp.msbt
 PartyMoney_Up_Purchase	{color[0100]}所有同伴{color[ffff]}在對戰後可獲得的金錢\n提升為2倍！
 PartyExp_Up_Purchase	{color[0100]}所有同伴{color[ffff]}在對戰後可獲得的經驗值\n提升為2倍！
@@ -3450,27 +3674,32 @@ T_ExplainEnemy_50	● 狀況說明\n　‧土地會乾竭，海面上會出現�
 T_ExplainEnemy_51	● 熊先生的建議\n　‧由於搬運距離長，應與同伴聯手利用投擲鮭魚卵的做法。\n　‧應躲避飛來的鮭魚，或是利用搬運的間隔時間擊倒。\n\n● 補充\n　‧巨型龍捲風的出現無法預測，海裡的各種東西會被捲起並拋擲，\n　　也會對鮭魚群造成莫大的損害。\n　‧由於拋擲物多，經常發生意外事故。\n　　如果位於乾竭土地上的鮭魚卵容器已無法使用，\n　　則每交付1顆金鮭魚卵時，將以2顆計算。
 Coop_Button02	基礎指南 第一課
 Coop_Button03	基礎指南 第二課
+CommonMsg\Manual\ManualCoopEvent.msbt
+BigRun_Title	何謂大型跑？
+BigRun_Manual01	‧所謂的大型跑就是指鮭魚成群結隊\n　朝城鎮中的{color[0100]}對戰場地{color[ffff]}蜂擁而至的現象。\n\n‧為了保護城鎮免受鮭魚侵害，\n　熊先生商會正在大舉招募打工的人手。\n　請擊退出現在場地中的鮭魚並收集金鮭魚卵。
+BigRun_Manual02	‧大型跑的評價標準和一般的打工相同，\n　不過設置於{color[0100]}報酬量表{color[ffff]}中的報酬數量\n　會比平時還要來得更多，\n　與此同時，也會額外附加少量的目錄點數。\n\n‧此外，所有在大型跑期間內曾參加過的人\n　都可以獲得贈送的{color[0100]}裝飾品{color[ffff]}。
+BigRun_Manual03	‧參加大型跑時，所有隊員於單次打工中\n　合力收集的金鮭魚卵數量會記錄為{color[0100]}最高分數{color[ffff]}。\n　最高分數在參加者當中名列前茅的優秀玩家\n　將會獲贈更好的裝飾品。\n\n‧大型跑的結果將會在鮭魚撤退\n　並確認現場已安全無虞後公布。\n　期待各位有更加活躍的表現。
 CommonMsg\Manual\ManualFes.msbt
 Fes_Button01	祭典守則
 Fes_Button02	準備祭‧正式祭
 Fes_Button03	祭典比賽\n基礎指南
-Fes_Button04	三色奪寶攻擊\n基礎指南
+Fes_Button04	三色奪寶比賽\n基礎指南
 Fes_Button05	最終結果
 Fes_MainSubFes_Title	準備祭‧正式祭
 Fes_MainSubFes_Manual00	祭典流程分為主題投票期間的{color[0100]}準備祭{color[ffff]}\n以及加入投票選擇的隊伍展開對戰的{color[0100]}正式祭{color[ffff]}。\n\n想要參加祭典的話，就先到{color[0100]}祭典投票所完成投票{color[ffff]}吧！\n完成投票後就能租借{color[0100]}祭典T恤{color[ffff]}喔！穿上祭典T恤支持你票選的隊伍吧！\n\n在祭典舉行期間，每一次目錄等級提升時都能獲得{color[0100]}法螺{color[ffff]}喔！\n參加對戰或打工，累積大量的目錄點數吧！\n※達到等級4之後就能在雜貨店獲得目錄囉！
 Fes_MainSubFes_Manual01	在準備祭中獲得的法螺數量會反映在祭典結果上喔！\n而且還可以在大廳使用法螺{color[0100]}抽獎{color[ffff]}呢。\n即使使用法螺抽獎也不會影響祭典結果，\n努力地收集法螺然後盡情地抽獎吧！\n\n為祭典T恤{color[0100]}替換裝備能力{color[ffff]}或是{color[0100]}漂洗能力槽{color[ffff]}會有優惠喔！\n在正式祭開始之前，把裝備能力自訂成自己想要的吧！\n\n此外，祭典T恤與法螺將會在祭典結束後回收，敬請注意。
 Fes_MainSubFes_Manual02	在正式祭開始之後就能參加{color[0100]}祭典比賽{color[ffff]}囉！\n只要在祭典比賽中大顯身手就能獲得{color[0100]}貢獻度{color[ffff]}，\n貢獻度也會反映在祭典結果上喔！\n\n如果在低機率出現{color[0100]}10倍比賽{color[ffff]}中獲勝的話，\n除了可以獲得10倍的貢獻度之外，還能獲得{color[0100]}祭典貝{color[ffff]}。\n持有的祭典貝越多，就越容易出現{color[0100]}100倍比賽{color[ffff]}或是{color[0100]}333倍比賽{color[ffff]}，\n可以趁機獲得大量的貢獻度喔！
-Fes_MainSubFes_Manual03	當正式祭的上半場結束時，將會透過{color[0100]}中場戰報{color[ffff]}公布當下的第1名，\n然後就能發動{color[0100]}三色奪寶攻擊{color[ffff]}囉！\n在中場戰報沒能拿下第1名的隊伍成員可以在大廳選擇「三色奪寶攻擊」，\n與第1名的隊伍展開對戰！\n\n如果想要了解對戰規則相關的詳細資訊，\n就去閱讀「祭典比賽基礎指南」、「三色奪寶攻擊基礎指南」吧！\n\n此外，在正式祭舉行期間，可以獲得的目錄點數會比平時更多喔！
+Fes_MainSubFes_Manual03	當正式祭的上半場結束時，將會透過{color[0100]}中場戰報{color[ffff]}公布當下的第1名，\n然後就能發動{color[0100]}三色奪寶比賽{color[ffff]}囉！\n在中場戰報沒能拿下第1名的隊伍成員可以在大廳選擇「三色奪寶比賽」，\n與第1名的隊伍展開對戰！\n\n如果想要了解對戰規則相關的詳細資訊，\n就去閱讀「祭典比賽基礎指南」、「三色奪寶比賽基礎指南」吧！\n\n此外，在正式祭舉行期間，可以獲得的目錄點數會比平時更多喔！
 Fes_FesMatch_Title	祭典比賽基礎指南
 Fes_FesMatch_Manual00	分成3大勢力互相競爭！
 Fes_FesMatch_Manual01	祭典比賽是占地對戰的狂歡，\n玩家會根據祭典的主題分成3大勢力展開對戰！\n隊伍必須在3分鐘內持續塗墨拓展占地面積，\n塗墨面積較多才能獲勝。\n\n玩家會根據對戰結果獲得相應的{color[0100]}祭典點數{color[ffff]}，\n累積祭典點數將{color[0100]}祭典等級{color[ffff]}提升得越高，\n就能在祭典結束後獲得越多的{color[0100]}超級蠑螺{color[ffff]}喔！
 Fes_FesMatch_Manual02	祭典比賽分為{color[0100]}開放{color[ffff]}跟{color[0100]}挑戰{color[ffff]}2種形式！\n{color[0100]}開放形式{color[ffff]}可以自己一人隨興地參加比賽，\n或是與投票給相同勢力的同伴\n組成2～4人的隊伍一起參加。\n\n選擇此形式時，\n塗墨點數與獲勝獎勵將會被視為{color[0100]}貢獻度{color[ffff]}計算。\n此外，如果自己的隊伍獲得連勝的次數越多，\n對戰時就越容易遇到同樣獲得連勝的隊伍喔！
 Fes_FesMatch_Manual03	{color[0100]}挑戰形式{color[ffff]}可以自己一人參加比賽挑戰自身的極限。\n選擇此形式時，\n將會以{color[0100]}祭典戰力{color[ffff]}計算出你在該次祭典中的實力喔！\n以成為{color[0100]}祭典百傑{color[ffff]}為目標提升祭典戰力吧！\n\n選擇此形式時，\n只要戰勝敵方隊伍就能獲得{color[0100]}貢獻度{color[ffff]}。\n敵方隊伍的祭典戰力越高，\n能獲得的貢獻度就越多喔！
-Fes_Torikara_Title	三色奪寶攻擊基礎指南
+Fes_Torikara_Title	三色奪寶比賽基礎指南
 Fes_Torikara_Manual00	3個隊伍必須互相爭奪超級信號並持續對地面塗墨，占地面積較多才能獲勝！
 Fes_Torikara_Manual01	1.各隊伍的占地面積\n2.超級信號\n3.塗滿告示牌\n4.成功奪得的超級信號數量
-Fes_Torikara_Manual02	在中場戰報沒能拿下第1名的勢力成員\n可以在正式祭的下半場參加{color[0100]}三色奪寶攻擊{color[ffff]}喔！\n三色奪寶攻擊的規則採用以2人 vs 4人 vs 2人的方式\n展開對決的{color[0100]}三色奪寶對戰{color[ffff]}！\n\n參加三色奪寶攻擊的2個勢力可以各自組成2人隊伍，\n並在第1名的勢力成員參加祭典比賽（開放）時，\n對他們的4人隊伍展開雙面夾攻喔！
-Fes_Torikara_Manual03	{color[0100]}三色奪寶對戰{color[ffff]}是混合了3色墨汁的特殊對戰！\n\n在中場戰報拿下第1名的勢力會成為防守隊伍，\n其他的勢力則是會各自成為進攻隊伍喔！\n\n防守隊伍除了必須守住位於中央的{color[0100]}超級信號{color[ffff]}之外，\n同時還得想辦法{color[0100]}占領大量的占地面積{color[ffff]}取得勝利喔！
+Fes_Torikara_Manual02	中場戰報結束之後，就是正式祭下半場的開始！\n到時候就可以參加{color[0100]}三色奪寶比賽{color[ffff]}囉！\n\n選擇參加{color[0100]}三色奪寶比賽{color[ffff]}的玩家\n將會成為進攻隊伍或防守隊伍展開對戰！\n\n在中場戰報拿下第1名的勢力作為防守隊伍獲勝時，\n或是第2名與第3名的勢力作為進攻隊伍獲勝時，\n都可以得到貢獻度獎勵喔！
+Fes_Torikara_Manual03	{color[0100]}三色奪寶比賽{color[ffff]}的規則是以2人 vs 4人 vs 2人\n展開對決的{color[0100]}三色奪寶對戰{color[ffff]}！\n是混合了3色墨汁的特殊對戰！\n\n2個分別由2人組成的進攻隊伍\n將會對4人組成的防守隊伍展開夾攻！\n\n防守隊伍除了要守住位於中央的{color[0100]}超級信號{color[ffff]}之外，\n還得想辦法{color[0100]}占領大量的占地面積{color[ffff]}取得勝利喔！
 Fes_Torikara_Manual04	進攻隊伍必須奪取超級信號尋求魚漿幫的協助，\n持續塗墨拓展占地面積，\n{color[0100]}阻止防守隊伍取得勝利喔！{color[ffff]}\n\n進攻隊伍只要觸碰場地中央的超級信號\n就可以{color[0100]}奪取{color[ffff]}超級信號。\n奪取達一定的時間後，就能成功奪得超級信號囉！
 Fes_Torikara_Manual05	成功奪得超級信號時會發送信號，\n接著魚漿幫就會派送{color[0100]}塗滿告示牌{color[ffff]}對場地自動塗墨喔！\n\n一旦在奪取的途中被擊倒就會導致奪取失敗，\n不過每一次奪取{color[0100]}都會縮短成功奪得所需的時間{color[ffff]}。\n以堅持到底、持續進攻的方式奪得超級信號，\n利用塗滿告示牌在對戰中取得優勢吧！\n\n此外，在1次的對戰當中，最多只會出現2個超級信號喔！
 Fes_Torikara_Manual06	進攻隊伍可獲得的貢獻度\n將會大幅取決於{color[0100]}是否成功阻止防守隊伍取勝{color[ffff]}喔！\n比起讓自己的隊伍獲勝，\n和另一側的進攻隊伍互相配合奪取占地面積\n讓防守隊伍無法取勝才是最重要的！\n\n不過貢獻度也因根據{color[0100]}名次{color[ffff]}、{color[0100]}成功奪得的超級信號數量{color[ffff]}\n以及{color[0100]}奪取次數{color[ffff]}而改變，如果有信心能阻止防守隊伍取勝，\n那或許也可以嘗試朝更高的境界邁進。
@@ -3569,6 +3798,56 @@ Vendor_Replacement_Gear_Power_Manual01	此外，在重新附加裝備能力後�
 Vendor_GesoTown_Title	關於魷魚鬚商城
 Vendor_GesoTown_Manual00	{color[0100]}魷魚鬚商城{color[ffff]}是可以透過網路服務《{color[0100]}魷魚圈 3{color[ffff]}》\n預訂裝備的功能！\n與蠻頹鎮的商店所販售的品項相比，\n利用此功能預訂的特殊裝備會附加不同的裝備能力喔！\n\n詳細資訊請至《斯普拉遁 3》官方網站查詢！
 Vendor_GesoTown_Manual01	同一時間可以透過魷魚鬚商城預訂最多{color[0100]}1個裝備{color[ffff]}，\n不過在預訂之後裝備就會馬上配送到刺冠的手裡，\n只要領取完成就能繼續預訂囉！\n\n看到想要的裝備就通通買下來吧！
+CommonMsg\Manual\ManualXMatch.msbt
+XMatch_Button01	X比賽
+XMatch_Button02	真格區域
+XMatch_Button03	真格塔樓
+XMatch_Button04	真格魚虎對戰
+XMatch_Button05	真格蛤蜊
+XMatch_Title	何謂X比賽
+XMatch_Manual00	朝更高境界邁進的人們將角逐「顛峰」之位！
+XMatch_Manual01	X比賽是高手們一決勝負角逐顛峰之位的對戰！\n\n僅限技術S+{size[4b00]}0{size[6400]}以上的玩家獨自一人參加，\n{color[0100]}X戰力{color[ffff]}將會取代技術成為對戰的籌碼。\n\nX比賽和蠻頹比賽一樣分為4種規則，\n{color[0100]}個別規則{color[ffff]}都擁有各自獨立的X戰力。
+XMatch_Manual02	X戰力是用來代表玩家實力的數值，\n在{color[0100]}最初的5場對戰{color[ffff]}結束後就能完成X戰力的計算，\n並展開X戰力為籌碼的挑戰！\n\n每一次的挑戰都會持續到獲得{color[0100]}3勝或3敗{color[ffff]}為止，\n挑戰結束時，X戰力將會根據勝敗而有所變動。\n\n個別規則的計算和挑戰狀態會各自獨立記錄喔！
+XMatch_Manual03	X戰力提升後就會登錄於X排名中，\n在X排名中名列前茅的玩家名稱會附帶王冠喔！\n\nX戰力會隨著{color[0100]}賽季交替重新計算{color[ffff]}，\n在賽季中以進入前段排名為目標努力吧！\n\n只要使用《魷魚圈 3》，\n就能查看每種規則和武器各自的排名喔！
+XMatch_Gachiarea_Title	真格區域的規則
+XMatch_Gachiarea_Manual00	隊伍必須塗墨占領真格區域，占領達一定時間才能獲勝！
+XMatch_Gachiarea_Manual01	1.真格區域\n2.區域的占領狀況\n3.計數\n4.懲罰計數
+XMatch_Gachiarea_Manual02	隊伍必須塗墨占領場地中的{color[0100]}真格區域{color[ffff]}，\n占領達一定時間才能獲勝！\n\n首先必須對真格區域塗墨完成占領，\n只要查看{color[0100]}區域的占領狀況{color[ffff]}就能一眼看出塗墨的進度囉！\n一旦完全占領了真格區域，\n隊伍的{color[0100]}計數{color[ffff]}就會在占領成功後開始{color[0100]}減少{color[ffff]}。\n當計數歸零的時候，就能拿下完全勝利！
+XMatch_Gachiarea_Manual03_Title	真格區域的訣竅
+XMatch_Gachiarea_Manual03	‧與同伴團結合作吧！\n　想憑一己之力奪回對手嚴防的真格區域是很困難的，與同伴互相配合，4人一起進攻吧！\n　相反的，當我方成功占領真格區域時，就得趁對手集合之前個別擊倒！\n\n‧就算落後也別輕易放棄！\n　當敵方隊伍占領了真格區域或是計數落後時，\n　特殊武器蓄力槽將會自動增加喔！
+XMatch_Gachiarea_Manual04	‧靠延長賽逆轉戰局！\n　如果時限結束時落後隊伍仍占領著真格區域，就會進入延長賽！\n　只要堅持到底不輕易放棄，或許就能在延長賽時逆轉戰局喔！
+XMatch_Gachiyagura_Title	真格塔樓的規則
+XMatch_Gachiyagura_Manual00	隊伍必須占領真格塔樓，將真格塔樓運送至對手陣地的終點才能獲勝！
+XMatch_Gachiyagura_Manual01	1.真格塔樓\n2.終點\n3.關卡\n4.剩餘計數
+XMatch_Gachiyagura_Manual02	隊伍必須占領設置於場地中央的{color[0100]}真格塔樓{color[ffff]}，\n將真格塔樓運送至對手陣地的{color[0100]}終點{color[ffff]}才能獲勝！\n\n首先必須對真格塔樓的側面塗墨並爬上去完成占領，\n如此一來真格塔樓就會朝著對手的陣地前進囉！\n\n如果被對手擊倒並占領\n或是沒有其他同伴爬上去占領的話，\n真格塔樓就會返回場地中央喔！
+XMatch_Gachiyagura_Manual03	在通往終點的路上會有{color[0100]}關卡{color[ffff]}存在，\n當真格塔樓抵達關卡時會暫停移動喔！\n只要持續占領真格塔樓直到關卡的耐久度歸零\n就能成功突破關卡！\n\n成功突破關卡後，下一次就能直接通過了，\n要是突破失敗的話，耐久度就會恢復喔！
+XMatch_Gachiyagura_Manual04	真格塔樓離對手的終點越近，{color[0100]}剩餘計數{color[ffff]}也會隨之{color[0100]}減少{color[ffff]}。\n如果沒有在時限內將真格塔樓運送到對手的終點，\n就會由計數減少較多的隊伍獲勝。
+XMatch_Gachiyagura_Manual04_Title	真格塔樓的訣竅
+XMatch_Gachiyagura_Manual05	‧死守真格塔樓！\n　爬上真格塔樓的玩家很容易被對手給盯上喔！\n　其他同伴得挺身為真格塔樓開路，確保安全！\n\n‧在關卡處奪回真格塔樓！\n　被對手占領的真格塔樓停在關卡處的時候，就是奪回真格塔樓的好機會！\n　與同伴互相配合展開攻勢吧！
+XMatch_Gachiyagura_Manual06	‧靠延長賽逆轉戰局！\n　如果時限結束時落後隊伍仍占領著真格塔樓，就會進入延長賽！\n　只要堅持到底不輕易放棄，或許就能在延長賽時逆轉戰局喔！
+XMatch_Gachihoko_Title	真格魚虎對戰的規則
+XMatch_Gachihoko_Manual00	隊伍必須搶奪真格魚虎，將真格魚虎運送至對手陣地的終點才能獲勝！
+XMatch_Gachihoko_Manual01	1.真格魚虎\n2.終點\n3.持有真格魚虎的時間\n4.剩餘計數\n5.關卡
+XMatch_Gachihoko_Manual02	隊伍必須搶奪{color[0100]}真格魚虎{color[ffff]}，\n將真格魚虎運送至對手陣地的{color[0100]}終點{color[ffff]}才能獲勝！\n\n首先必須前往場地中央搶奪真格魚虎，\n真格魚虎將會位於防護罩內部，\n以攻擊的方式打破防護罩搶奪真格魚虎吧！\n\n一旦無人持有真格魚虎，防護罩就會復原，\n如果置之不理的話，真格魚虎就會自動返回場地中央喔！
+XMatch_Gachihoko_Manual03	在持有真格魚虎的期間\n將會無法使用一般武器與超級跳躍，\n但是可以利用真格魚虎使出強大的{color[0100]}真格魚虎發射{color[ffff]}喔！\n\n可持有真格魚虎的時間會受到限制，\n一旦時間歸零就會發生爆炸，必須多加注意。
+XMatch_Gachihoko_Manual04	在奪得真格魚虎之後，就先朝著對手的{color[0100]}關卡{color[ffff]}前進吧！\n\n只要成功突破關卡，接下來就可以邁向對手的終點了！\n成功突破關卡後，下一次就能直接通過囉！\n\n離對手的關卡或終點越近，{color[0100]}剩餘計數{color[ffff]}也會隨之{color[0100]}減少{color[ffff]}，\n如果沒有在時限內將真格魚虎運送到對手的終點，\n就會由計數減少較多的隊伍獲勝。
+XMatch_Gachihoko_Manual05_Title	真格魚虎對戰的訣竅
+XMatch_Gachihoko_Manual05	‧運送真格魚虎！\n　想辦法將真格魚虎運送至終點是最重要的！一旦奪得真格魚虎就積極地前進吧！\n　當同伴奪得真格魚虎時，就挺身而出為真格魚虎開路吧！\n\n‧就算落後也別輕易放棄！\n　當敵方隊伍奪得真格魚虎或是我方尚未奪得真格魚虎且計數落後時，\n　特殊武器蓄力槽將會自動增加喔！
+XMatch_Gachihoko_Manual06	‧靠延長賽逆轉戰局！\n　如果時限結束時落後隊伍仍持有真格魚虎或是領先隊伍失去真格魚虎，就會進入延長賽！\n　只要堅持到底不輕易放棄，或許就能在延長賽時逆轉戰局喔！
+XMatch_Gachiasari_Title	真格蛤蜊的規則
+XMatch_Gachiasari_Manual00	隊伍必須使用真格蛤蜊摧毀對手終點的蛤蜊防護罩，投入的蛤蜊較多才能獲勝！
+XMatch_Gachiasari_Manual01	1.蛤蜊\n2.真格蛤蜊\n3.終點\n4.計數
+XMatch_Gachiasari_Manual02	5.奪分機會\n6.隊伍整體的蛤蜊總數\n7.自己持有的蛤蜊數量\n8.持有最多蛤蜊的同伴
+XMatch_Gachiasari_Manual03	隊伍必須將{color[0100]}蛤蜊{color[ffff]}投入對手終點，投入蛤蜊較多才能獲勝！\n但是對手的終點會有{color[0100]}蛤蜊防護罩{color[ffff]}保護著。\n\n首先必須收集四散在場地各處的蛤蜊，\n完成摧毀蛤蜊防護罩的準備。
+XMatch_Gachiasari_Manual04	收集到{color[0100]}8個{color[ffff]}之後蛤蜊就會變成{color[0100]}真格蛤蜊{color[ffff]}喔！\n如此一來就順利完成摧毀蛤蜊防護罩的準備了！
+XMatch_Gachiasari_Manual05	只要按下{[0300|52b85e3f03000000]}或是{[0309|52b85e3f03000000]}\n就能投擲蛤蜊或真格蛤蜊。\n\n朝著對手的終點投擲真格蛤蜊\n將蛤蜊防護罩摧毀之後，\n就會獲得{color[0100]}奪分機會{color[ffff]}！
+XMatch_Gachiasari_Manual06	將大量的蛤蜊或真格蛤蜊投入對手的終點吧！\n\n投入蛤蜊{color[0100]}計數{color[ffff]}會{color[0100]}減少3{color[ffff]}，投入真格蛤蜊{color[0100]}計數{color[ffff]}會{color[0100]}減少20{color[ffff]}，\n當計數歸零的時候，就能拿下完全勝利！\n\n此外，只要將蛤蜊或真格蛤蜊投入對手的終點\n就能增加{color[0100]}奪分機會的剩餘時間{color[ffff]}，\n耗盡剩餘時間後，奪分機會就會結束。
+XMatch_Gachiasari_Manual07	當對手獲得奪分機會時，將會無法進攻對手的終點，\n到時候就得先專心地防守我方的終點！\n打倒持有蛤蜊的對手，讓對手的奪分機會盡快結束吧！\n\n一旦對手的奪分機會結束，\n我方的終點下就會出現{color[0100]}反擊用的真格蛤蜊{color[ffff]}喔！
+XMatch_Gachiasari_Manual08	在擊倒對手時，將會有部分對手原本持有的蛤蜊掉落。\n掉落的蛤蜊會在經過一段時間後消失，\n所以要盡快拾取喔！\n\n對手掉落的真格蛤蜊是無法拾取的，\n在消失之前，別忘了阻止其他的對手拾取喔！
+XMatch_Gachiasari_Manual09	位於我方隊伍墨汁上的蛤蜊將會被標記，\n除了可以更加容易地找到蛤蜊之外，\n還會顯示在占地地圖上喔！\n\n每經過一段時間，蛤蜊就會在場地中的某些地方出現，\n只要事先拓展占地面積，\n就可以比對手搶先一步拾取囉！
+XMatch_Gachiasari_Manual10_Title	真格蛤蜊的訣竅
+XMatch_Gachiasari_Manual10	‧到場地裡散散步吧！\n　事先到場地裡散步，記住終點的位置以及通往終點的路線吧！\n　如此一來就能在正式進行真格蛤蜊對戰時獲得攻防上的優勢喔！\n\n‧拓展占地面積吧！\n　只要持續對地面塗墨拓展占地面積，\n　就可以更加容易地找到後續出現的蛤蜊喔！
+XMatch_Gachiasari_Manual11	‧就算落後也別輕易放棄！\n　當隊伍雙方都持有真格蛤蜊或是都未持有真格蛤蜊時，\n　落後隊伍的特殊武器蓄力槽將會自動增加喔！\n\n‧靠延長賽逆轉戰局！\n　如果時限結束時落後隊伍仍持有真格蛤蜊或是擁有奪分機會，就會進入延長賽！\n　只要堅持到底不輕易放棄，或許就能在延長賽時逆轉戰局喔！
 CommonMsg\MiniGame\MiniGame.msbt
 StarterDeckName	Starter Deck
 DefaultDeckName	Deck {[0200|00010000]}
@@ -3639,15 +3918,21 @@ Tamaire	泥鮭魚
 HeroShooter	英雄射擊槍
 ShooterShort00	廣域標記槍
 ShooterFirst00	新葉射擊槍
+ShooterFirst01	楓葉射擊槍
 ShooterPrecision00	窄域標記槍
 ShooterBlaze00	專業模型槍MG
+ShooterBlaze01	專業模型槍RG
 ShooterNormal00	斯普拉射擊槍
+ShooterNormal01	斯普拉射擊槍 聯名
 ShooterGravity00	.52加侖
 ShooterQuickMiddle00	N-ZAP85
 ShooterExpert00	頂尖射擊槍
+ShooterExpert01	頂尖射擊槍 聯名
 ShooterHeavy00	.96加侖
 ShooterLong00	噴射清潔槍
+ShooterQuickLong00	太空射擊槍
 BlasterShort00	新星爆破槍
+BlasterShort01	新星爆破槍 新型
 BlasterMiddle00	火熱爆破槍
 BlasterLong00	遠距爆破槍
 BlasterLightShort00	衝塗爆破槍
@@ -3657,10 +3942,13 @@ ShooterTripleQuick00	L3捲管槍
 ShooterTripleMiddle00	H3捲管槍
 ShooterFlash00	開瓶噴泉槍
 RollerCompact00	碳纖維滾筒
+RollerCompact01	碳纖維滾筒 裝飾
 RollerNormal00	斯普拉滾筒
 RollerHeavy00	電動馬達滾筒
 RollerHunter00	可變式滾筒
+RollerWide00	寬滾筒
 BrushMini00	巴勃羅
+BrushMini01	巴勃羅‧新藝術
 BrushNormal00	北齋
 ChargerQuick00	魷快潔α
 ChargerNormal00	斯普拉蓄力狙擊槍
@@ -3669,17 +3957,21 @@ ChargerLong00	公升4K
 ChargerLongScope00	4K準星槍
 ChargerLight00	14式竹筒槍‧甲
 ChargerKeeper00	高壓油管槍
+ChargerPencil00	R-PEN/5H
 SlosherStrong00	飛濺潑桶
+SlosherStrong01	飛濺潑桶 裝飾
 SlosherDiffusion00	洗筆桶
 SlosherLauncher00	迴旋潑桶
 SlosherBathtub00	滿溢泡澡潑桶
 SlosherWashtub00	爆炸潑桶
 SpinnerQuick00	斯普拉旋轉槍
+SpinnerQuick01	斯普拉旋轉槍 聯名
 SpinnerStandard00	桶裝旋轉槍
 SpinnerHyper00	消防栓旋轉槍
 SpinnerDownpour00	圓珠筆
 SpinnerSerein00	鸚鵡螺號47
 ManeuverShort00	濺鍍槍
+ManeuverShort01	濺鍍槍‧新藝術
 ManeuverNormal00	斯普拉機動槍
 ManeuverGallon00	開爾文525
 ManeuverDual00	雙重清潔槍
@@ -5090,6 +5382,7 @@ Tips_101	咪！（你有去過{color[0100]}雜貨店{color[ffff]}了嗎？\n店�
 CommonMsg\Notification\NotificationMsg.msbt
 RankUp	已達到等級{[0200|00020000]}！
 UdemaeUp	已達到技術{[0403|00000000]}！
+MaxXPowerUp	已刷新X戰力最高數值！
 FestRankUp	祭典等級已提升！
 WonFestSpecialMatch100	在100倍比賽中獲勝！
 WonFestSpecialMatch333	在333倍比賽中獲勝！
@@ -5098,34 +5391,40 @@ MiniGameRankUp	占地鬥士等級已提升！
 StartSolo_Regular	已開始一般比賽！
 StartSolo_Bankara	已開始蠻頹比賽{size[4b00]}（挑戰）{size[6400]}！
 StartSolo_BankaraOpen	已開始蠻頹比賽{size[4b00]}（開放）{size[6400]}！
+StartSolo_XMatch	已開始X比賽！
 StartSolo_Private	已開始私人比賽！
 StartSolo_FestRegular	已開始祭典比賽{size[4b00]}（開放）{size[6400]}！
 StartSolo_FestChallenge	已開始祭典比賽{size[4b00]}（挑戰）{size[6400]}！
-StartSolo_FestTriColor	已開始三色奪寶攻擊！
+StartSolo_FestTriColor	已開始三色奪寶比賽！
 StartSolo_Coop	已開始打工！
+StartSolo_CoopBigRun	已開始大型跑打工！
 CreateRoom_Regular	已建立一般比賽的房間！
 CreateRoom_BankaraOpen	已建立蠻頹比賽{size[4b00]}（開放）{size[6400]}的房間！
 CreateRoom_Private	已建立私人比賽的房間！
 CreateRoom_FestRegular	已建立祭典比賽{size[4b00]}（開放）{size[6400]}的房間！
-CreateRoom_FestTriColor	已建立三色奪寶攻擊的房間！
+CreateRoom_FestTriColor	已建立三色奪寶比賽的房間！
 CreateRoom_Coop	已建立打工的房間！
 CreateRoom_CoopPrivate	已建立私人打工的房間！
+CreateRoom_CoopBigRun	已建立大型跑的房間！
 JoinRoom_Regular	已進入一般比賽的房間會合！
 JoinRoom_BankaraOpen	已進入蠻頹比賽{size[4b00]}（開放）{size[6400]}的房間會合！
 JoinRoom_Private	已進入私人比賽的房間會合！
 JoinRoom_FestRegular	已進入祭典比賽{size[4b00]}（開放）{size[6400]}的房間會合！
-JoinRoom_FestTriColor	已進入三色奪寶攻擊的房間會合！
+JoinRoom_FestTriColor	已進入三色奪寶比賽的房間會合！
 JoinRoom_Coop	已進入打工的房間會合！
 JoinRoom_CoopPrivate	已進入私人打工的房間會合！
+JoinRoom_CoopBigRun	已進入大型跑的房間會合！
 Recruit_Regular	一般比賽成員招募中！
 Recruit_BankaraOpen	蠻頹比賽{size[4b00]}（開放）{size[6400]}成員招募中！
 Recruit_Private	私人比賽成員招募中！
 Recruit_FestRegular	祭典比賽{size[4b00]}（開放）{size[6400]}成員招募中！
-Recruit_FestTriColor	三色奪寶攻擊成員招募中！
+Recruit_FestTriColor	三色奪寶比賽成員招募中！
 Recruit_Coop	打工同伴招募中！
 Recruit_CoopPrivate	私人打工同伴招募中！
+Recruit_CoopBigRun	大型跑打工同伴招募中！
 Btn_RankUp	等級提升！
 Btn_UdemaeUp	技術提升！
+Btn_MaxXPowerUp	X戰力刷新
 Btn_FestRankUp	祭典等級提升！
 Btn_WonFestSpecialMatch100	在100倍比賽中獲勝！
 Btn_WonFestSpecialMatch333	在333倍比賽中獲勝！
@@ -5138,6 +5437,8 @@ StatusRank_MiniGameRank	占地鬥士等級
 ParticipantNum	{[0200|00020000]}/{[0200|01020000]}
 IkasuNum	魷型！ ×{[0200|00030000]}
 CoopGrade	{[0201|000e]} {[0200|00030000]}
+XPower	X戰力：{[0200|00040000]}.{[0200|01010000]}
+XPower_Measuring	X戰力：---
 CommonMsg\Plaza\PlazaAmiibo.msbt
 Msg_Reading	正在讀取amiibo，\n請保持現狀並停止動作。
 Msg_Writing	正在寫入amiibo，\n請保持現狀並停止動作。
@@ -5162,7 +5463,7 @@ Msg_WiredProCon	已將「Pro控制器的有線通訊」設定\n切換為ON。
 Msg_NotWritten	尚未登錄裝備，\n請透過自訂選單中的「其他」進行登錄。
 Girl_WantFollow	哦？\n你好像很魷型耶！{[0004]}嗯！如果你繼續不停地對戰，\n我相信一定還能變得更加魷型！{[0004]}看來我以後\n應該要持續關注你！{[0004]}要是你願意的話，\n可以讓我成為你公認的{color[0100]}支持者{color[ffff]}嗎？{[0004]}只要你讓我成為支持者，我就會幫你\n記住身上穿的{color[0100]}裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}喔！{[0004]}除此之外！我也會記住你的{color[0100]}個人穿搭{color[ffff]}喔！{[0004]}在我記住之後就能透過{color[0100]}自訂{color[ffff]}快速更換，\n很方便對吧！？{[0004]}你說呢？\n可以讓我成為你的支持者嗎？
 Girl_FollowMeHello	你好嗎？\n狀態如何？
-Girl_FollowOtherHello	你好！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩囉！
+Girl_FollowOtherHello	你好！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩囉！
 Girl_NoAppDataHello	原來這裡就是蠻頹鎮！\n好熱鬧喔～{[0004]}啊，很高興見到你！
 Girl_OtherAppDataHello	原來這裡就是蠻頹鎮！\n好熱鬧喔～{[0004]}啊，你好！
 Girl_WhatDo	所以，\n你有什麼想知道的事嗎？
@@ -5177,7 +5478,7 @@ Girl_FarReward	你的每一場對戰我都有關注喔！\n畢竟我是你公認
 Girl_NoRewardAsOffline	等你在{color[0100]}大廳{color[ffff]}連接網路之後\n再來找我吧！{[0004]}到時候說不定\n有好東西可以給你喔！
 Boy_WantFollow	哦？\n你好像滿魷型的耶！{[0004]}如果你繼續不停地對戰，\n我覺得應該還能變得更加魷型喔！{[0004]}嗯……看來我應該要關注你！{[0004]}所以要是你願意的話，\n可以讓我成為你公認的{color[0100]}支持者{color[ffff]}嗎？{[0004]}只要你讓我成為支持者，我就會幫你\n記住{color[0100]}身上穿的裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}囉！{[0004]}而且，我也會記住你的{color[0100]}個人穿搭{color[ffff]}喔！{[0004]}在我記住之後就能透過{color[0100]}自訂{color[ffff]}快速更換，\n很方便吧！？{[0004]}你說呢？\n可以讓我成為你公認的支持者嗎？
 Boy_FollowMeHello	嘿！\n你今天狀態如何？
-Boy_FollowOtherHello	嘿！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩囉！
+Boy_FollowOtherHello	嘿！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩囉！
 Boy_NoAppDataHello	這裡就是蠻頹鎮吧！\n好棒喔——！{[0004]}啊，很高興見到你！
 Boy_OtherAppDataHello	這裡就是蠻頹鎮吧！\n好棒喔——！{[0004]}啊，你好！
 Boy_WhatDo	所以，\n你有什麼想知道的事嗎？
@@ -5192,7 +5493,7 @@ Boy_FarReward	你的每一場對戰我都有關注喔！\n畢竟我是你公認�
 Boy_NoRewardAsOffline	等你在{color[0100]}大廳{color[ffff]}連接網路之後\n要再來找我喔！{[0004]}到時候說不定\n會有好事發生喔！
 Squid_WantFollow	哦？\n你實在是挺魷型的耶～{[0004]}如果你繼續對戰下去的話，\n我覺得應該還能變得更加魷型喔～{[0004]}嗯……你真是個吸睛的人呢～{[0004]}如果你願意的話，\n可以讓我成為你公認的{color[0100]}支持者{color[ffff]}嗎？{[0004]}只要你讓我成為支持者，我就會幫你\n記住{color[0100]}身上穿的裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}喔！{[0004]}還有，我也會記住你的{color[0100]}個人穿搭{color[ffff]}！{[0004]}在我記住之後就能透過{color[0100]}自訂{color[ffff]}快速更換，\n很方便的～{[0004]}你說呢？\n可以讓我成為你公認的支持者嗎？
 Squid_FollowMeHello	真是承蒙關照了～\n你狀態如何？
-Squid_FollowOtherHello	你好～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩了～
+Squid_FollowOtherHello	你好～{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩了～
 Squid_NoAppDataHello	所以這裡就是蠻頹鎮吧。\n真是個好地方呢～{[0004]}啊，很高興見到你～
 Squid_OtherAppDataHello	所以這裡就是蠻頹鎮吧。\n真是個好地方呢～{[0004]}啊，你好～
 Squid_WhatDo	你有沒有什麼\n想知道的事呢？
@@ -5207,7 +5508,7 @@ Squid_FarReward	我一直都有在關注你的對戰喔！\n畢竟我是你公�
 Squid_NoRewardAsOffline	等你在{color[0100]}大廳{color[ffff]}連接網路之後\n再來找我吧～{[0004]}到時候說不定\n會有好事發生喔～
 OctoGirl_WantFollow	哦……？\n我覺得你好像還滿魷型的？{[0004]}我想……你要繼續不停地對戰，\n這樣一來……你應該會變得更加魷型吧？{[0004]}感覺我如果關注你的話，\n應該會是一件好事？{[0004]}既然如此，\n我是不是應該成為你公認的{color[0100]}支持者{color[ffff]}呢？{[0004]}我應該成為支持者吧？這樣才能幫你\n記住{color[0100]}身上穿的裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}吧？{[0004]}而且，這樣也能記住你的{color[0100]}個人穿搭{color[ffff]}吧？{[0004]}在我記住之後你就能透過{color[0100]}自訂{color[ffff]}快速更換，\n真的很方便！{[0004]}太棒了！\n我決定成為你的支持者！
 OctoGirl_FollowMeHello	你過得好嗎？\n狀態應該還不錯吧？
-OctoGirl_FollowOtherHello	在此向你問候！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩了？
+OctoGirl_FollowOtherHello	在此向你問候！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩了？
 OctoGirl_NoAppDataHello	這裡就是蠻頹鎮？\n我覺得是個很棒的地方。{[0004]}我們應該是初次見面吧……
 OctoGirl_OtherAppDataHello	這裡就是蠻頹鎮？\n我覺得是個很棒的地方。{[0004]}在此向你問候！
 OctoGirl_WhatDo	所以，\n你想知道？
@@ -5222,7 +5523,7 @@ OctoGirl_FarReward	因為我是你的支持者，\n所以你的每一場對戰�
 OctoGirl_NoRewardAsOffline	希望你在{color[0100]}大廳{color[ffff]}連接網路後\n再來找我。{[0004]}到時候我說不定\n有好東西可以給你？
 OctoBoy_WantFollow	啊……我想你應該是個魷型的人吧？\n大概是這樣吧，嗯……肯定是這樣沒錯！{[0004]}如果你繼續累積對戰經驗的話，\n應該就能成為比現在還要更加魷型的人！{[0004]}所以我……想要持續關注你……{[0004]}所以我……想要成為你公認的{color[0100]}支持者{color[ffff]}！\n你覺得呢？{[0004]}啊……只要讓我成為支持者，我就能幫你\n記住{color[0100]}身上穿的裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}。{[0004]}同時，我也會記住你的{color[0100]}個人穿搭{color[ffff]}。{[0004]}在我記住之後就能透過{color[0100]}自訂{color[ffff]}快速更換了，\n非常方便！{[0004]}可以讓我……成為你公認的支持者嗎？
 OctoBoy_FollowMeHello	你過得好嗎……？\n今天是否狀態絕佳呢？
-OctoBoy_FollowOtherHello	啊，你好。{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩了。
+OctoBoy_FollowOtherHello	啊，你好。{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩了。
 OctoBoy_NoAppDataHello	哦～這裡就是蠻頹鎮啊！\n真是太棒了！{[0004]}你是……\n我們應該是初次見面吧……？
 OctoBoy_OtherAppDataHello	哦～這裡就是蠻頹鎮啊！\n真是太棒了！{[0004]}你好！
 OctoBoy_WhatDo	啊……\n你有什麼想知道的事嗎？
@@ -5237,7 +5538,7 @@ OctoBoy_FarReward	因為我是你的支持者，\n所以我有在關注你的對
 OctoBoy_NoRewardAsOffline	希望你在{color[0100]}大廳{color[ffff]}連接網路之後\n再來見我。{[0004]}到時候我說不定有禮物可以送給你，\n也可能沒有。
 Octo_WantFollow	嗯……\n你真是個相當魷型的人呢。{[0004]}不過你的實力還沒有被完全激發出來喔！\n再去多多參加對戰吧！{[0004]}嗯……我覺得你這個人很有潛力。{[0004]}……這樣好了，讓我成為你\n公認的{color[0100]}支持者{color[ffff]}試試吧，你覺得呢？{[0004]}你知道成為支持者代表什麼嗎？代表我能\n幫你記住身上穿的{color[0100]}裝備{color[ffff]}跟{color[0100]}鏡頭選項{color[ffff]}喔。{[0004]}除此之外，\n我也能記住你的{color[0100]}個人穿搭{color[ffff]}。{[0004]}在我記住之後還能透過{color[0100]}自訂{color[ffff]}快速更換，\n你不覺得很方便嗎？{[0004]}所以你說呢？\n要讓我成為你公認的支持者試試看嗎？
 Octo_FollowMeHello	……\n狀態如何？
-Octo_FollowOtherHello	……嗯。{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡看看了。
+Octo_FollowOtherHello	……嗯。{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡看看了。
 Octo_NoAppDataHello	這裡就是蠻頹鎮……\n真是人聲鼎沸呢。{[0004]}……我好像沒見過你。
 Octo_OtherAppDataHello	這裡就是蠻頹鎮……\n真是人聲鼎沸呢。{[0004]}……
 Octo_WhatDo	……所以，\n你想知道什麼？
@@ -5252,7 +5553,7 @@ Octo_FarReward	身為你的支持者，\n我希望你可以繼續加油。{[0004
 Octo_NoRewardAsOffline	等你在{color[0100]}大廳{color[ffff]}連接網路之後\n再來找我吧……{[0004]}到時候說不定\n有東西可以給你。
 InkYellow_WantFollow	哦～\n你的模樣還真是魷型呢，\n不錯喔，很棒！{[0004]}但是好像有那麼一點美中不足，\n感覺魷型得還不夠徹底。{[0004]}我可以向你保證，\n只要你接下來好好累積經驗，\n肯定就能成為一個大人物！{[0004]}好想親眼見證你會變得多魷型喔……\n對了！可以讓我成為你公認的{color[0100]}支持者{color[ffff]}嗎？{[0004]}只要你讓我成為支持者，\n我就會幫你記住身上穿的{color[0100]}裝備{color[ffff]}\n還有{color[0100]}鏡頭選項{color[ffff]}喔！{[0004]}除此之外，我也會記住你的{color[0100]}個人穿搭{color[ffff]}。{[0004]}在我記住之後還能透過{color[0100]}自訂{color[ffff]}快速更換，\n很方便吧？{[0004]}所以你說呢？\n可以讓我成為你公認的支持者嗎？
 InkYellow_FollowMeHello	嘿！你好啊！\n今天也是狀態絕佳呢，對吧？
-InkYellow_FollowOtherHello	嘿！你好啊！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來向你打聲招呼！
+InkYellow_FollowOtherHello	嘿！你好啊！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來向你打聲招呼！
 InkYellow_NoAppDataHello	蠻頹鎮今天\n還是一樣很嘈雜呢。{[0004]}嗯？你……\n我們是初次見面，對吧！
 InkYellow_OtherAppDataHello	蠻頹鎮今天\n還是一樣很嘈雜呢。{[0004]}哦，你好！
 InkYellow_WhatDo	所以，\n你有什麼想知道的事嗎？
@@ -5266,7 +5567,7 @@ InkYellow_FarReward	你的每一場對戰我都有關注喔！\n畢竟我是你�
 InkYellow_NoRewardAsOffline	嗯？\n你沒有連接網路喔。{[0004]}等你在{color[0100]}大廳{color[ffff]}連接網路之後再來找我吧，\n到時候說不定有東西可以給你。
 OctoBlue_WantFollow	哦……？\n你真的是相當魷型呢！{[0004]}除此之外，\n你還擁有可以繼續進步的潛力。{[0004]}以後你肯定還會變得更加魷型……\n我是不會看走眼的，嗯！{[0004]}我想要以公認{color[0100]}支持者{color[ffff]}的身分\n永遠待在你的身邊……\n親眼見證你達到魷型的極限！{[0004]}只要我成為了支持者，我就可以\n幫你記住身上穿的{color[0100]}裝備{color[ffff]}以及{color[0100]}鏡頭選項{color[ffff]}，\n然後還有{color[0100]}個人穿搭{color[ffff]}！{[0004]}在我記住之後，\n就能協助你透過{color[0100]}自訂{color[ffff]}快速更換喔！{[0004]}你覺得呢！？\n可以讓我成為你公認的支持者嗎？
 OctoBlue_FollowMeHello	你好！\n狀態如何？
-OctoBlue_FollowOtherHello	你好！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來向你打聲招呼！
+OctoBlue_FollowOtherHello	你好！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來向你打聲招呼！
 OctoBlue_NoAppDataHello	蠻頹鎮今天\n還是一樣人聲鼎沸呢。{[0004]}啊，初次見面，\n你好！
 OctoBlue_OtherAppDataHello	蠻頹鎮今天\n還是一樣人聲鼎沸呢。{[0004]}啊，你好，\n很高興見到你！
 OctoBlue_WhatDo	所以，\n你有什麼想知道的事嗎？
@@ -5280,7 +5581,7 @@ OctoBlue_FarReward	你的每一場對戰我都有在看喔！\n畢竟我是你�
 OctoBlue_NoRewardAsOffline	等你在{color[0100]}大廳{color[ffff]}連接網路之後\n再來找我吧。{[0004]}到時候說不定\n有東西可以給你。
 Smallfry_WantFollow	{[0102]}小鮭魚似乎認為\n你是一個「超魷型的人」。{[0004]}{[0102]}除此之外，牠好像很肯定\n你以後還會「變得更加魷型」。{[0004]}{[0102]}小鮭魚表達出了牠的意願，\n想要從旁看著你的成長，\n想要成為你公認的{color[0100]}支持者{color[ffff]}。{[0004]}{[0102]}公認的支持者可以幫你記住\n身上穿的{color[0100]}裝備{color[ffff]}以及{color[0100]}鏡頭選項{color[ffff]}，\n還有{color[0100]}個人穿搭{color[ffff]}。{[0004]}{[0102]}在記住之後，\n就能透過{color[0100]}自訂{color[ffff]}快速更換，\n感覺相當實用。{[0004]}{[0102]}接下來，\n對於小鮭魚想要成為支持者的想法，\n你打算如何回應呢？
 Smallfry_FollowMeHello	{[0102]}小鮭魚似乎很高興\n能夠見到你。
-Smallfry_FollowOtherHello	{color[0100]}{[0102]}{color[ffff]}從{color[0100]}{[0201|0010]}{color[ffff]}\n那裡來的小鮭魚\n正在悠閒地休息！
+Smallfry_FollowOtherHello	{color[0100]}{[0102]}{color[ffff]}從{color[0100]}{d}{color[ffff]}\n那裡來的小鮭魚\n正在悠閒地休息！
 Smallfry_NoAppDataHello	{[0102]}小鮭魚正在茫然地\n眺望著蠻頹鎮。{[0004]}{[0102]}哦，牠好像發現你了，\n一直不停地盯著這裡看。
 Smallfry_OtherAppDataHello	{[0102]}小鮭魚正在茫然地\n眺望著蠻頹鎮。{[0004]}{[0102]}哦，牠好像發現你了，\n但是從牠盯著你的眼神裡\n看不出有任何感情的存在。
 Smallfry_WhatDo	{[0102]}接下來，\n選擇你想知道的事情吧。
@@ -5294,7 +5595,7 @@ Smallfry_FarReward	{[0102]}你的每一場對戰\n小鮭魚似乎都有在關注
 Smallfry_NoRewardAsOffline	{[0102]}可能是因為尚未連接網路的關係，\n小鮭魚現在一副心神不寧的樣子。{[0004]}{[0102]}等你在{color[0100]}大廳{color[ffff]}連接網路之後再來找牠吧。
 Aori_WantFollow	哦？\n你好像非常魷型耶！？{[0004]}嗯！我的眼光不會錯！我覺得你如果\n多多參加對戰，就能變得更加魷型喔！{[0004]}好！\n我決定把你加進我的關注名單裡！{[0004]}對了！既然我得好好關注你的話，\n那讓我成為你公認的{color[0100]}支持者{color[ffff]}應該比較好，\n你OK吧？{[0004]}你知道嗎！？只要讓我成為支持者，我就會\n幫你記住身上穿的{color[0100]}裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}喔！{[0004]}此外，我也會記住你的{color[0100]}個人穿搭{color[ffff]}！{[0004]}在我記住之後就能透過{color[0100]}自訂{color[ffff]}快速更換了！\n很創新吧！{[0004]}你說呢？\n可以讓我成為你公認的支持者嗎？
 Aori_FollowMeHello	呀呼——！\n你今天狀態如何？
-Aori_FollowOtherHello	呀呼～！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩囉！
+Aori_FollowOtherHello	呀呼～！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩囉！
 Aori_NoAppDataHello	蠻頹鎮無論何時都很熱鬧呢——！{[0004]}啊！很高興見到你！\n我是麻辣魷物的小擬喔！
 Aori_OtherAppDataHello	蠻頹鎮無論何時都很熱鬧呢——！{[0004]}啊！你好～！\n我是麻辣魷物的小擬喔！
 Aori_WhatDo	好——！\n有任何事都能儘管問喔～！
@@ -5309,7 +5610,7 @@ Aori_FarReward	你的對戰我一直都有在關注喔！\n畢竟我是你的支
 Aori_NoRewardAsOffline	咦？\n你是不是沒有連接網路呢？{[0004]}等你在{color[0100]}大廳{color[ffff]}連接網路之後再來找我吧，\n說不定會有好事發生喔！
 Hotaru_WantFollow	……嗯？\n你好像散發著一股超魷型的氣息呢。{[0004]}如果你繼續不停地對戰，\n應該還會變得更加魷型吧？{[0004]}我想要好好地關注你的動向，\n所以乾脆成為你公認的{color[0100]}支持者{color[ffff]}好了～{[0004]}只要你讓我成為支持者，我就會幫你\n記住身上穿的{color[0100]}裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}。{[0004]}同時，我也會記住你的{color[0100]}個人穿搭{color[ffff]}。{[0004]}如此一來，你就能透過{color[0100]}自訂{color[ffff]}快速更換囉！\n很方便吧！{[0004]}讓我成為公認的支持者吧！\n你覺得呢？
 Hotaru_FollowMeHello	嗨～\n狀態如何？
-Hotaru_FollowOtherHello	你好～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩囉！
+Hotaru_FollowOtherHello	你好～{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩囉！
 Hotaru_NoAppDataHello	蠻頹鎮還真有活力呢～{[0004]}你好～\n我是麻辣魷物的小螢～
 Hotaru_OtherAppDataHello	蠻頹鎮還真有活力呢～{[0004]}請多關照～\n我是麻辣魷物的小螢～
 Hotaru_WhatDo	所以，\n你有什麼想知道的事嗎？
@@ -5324,7 +5625,7 @@ Hotaru_FarReward	你有努力地參加對戰嗎～？\n讓我見識一下你的�
 Hotaru_NoRewardAsOffline	……嗯？\n你還沒有連接網路吧。{[0004]}說不定有好東西可以給你，\n等你在{color[0100]}大廳{color[ffff]}連接網路之後再來找我吧～
 Pearl_WantFollow	……嗯？\n你好像散發著一股超魷型的氣息呢。{[0004]}如果你繼續不停地對戰，\n感覺應該還會變得更加魷型吧？{[0004]}好！我決定來好好地關注你！\n既然如此，乾脆成為你公認的{color[0100]}支持者{color[ffff]}好了！{[0004]}只要你讓我成為支持者，我就會幫你\n記住身上穿的{color[0100]}裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}！{[0004]}而且，我也會記住你的{color[0100]}個人穿搭{color[ffff]}！{[0004]}如此一來，你就能透過{color[0100]}自訂{color[ffff]}快速更換囉！\n很方便吧！{[0004]}讓我成為公認的支持者吧！\n你覺得呢？
 Pearl_FollowMeHello	Yo！\n狀態如何？
-Pearl_FollowOtherHello	嗨！{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩囉！
+Pearl_FollowOtherHello	嗨！{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩囉！
 Pearl_NoAppDataHello	哦——！這裡就是蠻頹鎮吧！\n實在是超狂野的耶！{[0004]}……啊，Yo！Yo！Yo！\n我是腕兒姐妹的小姬喔！
 Pearl_OtherAppDataHello	哦——！這裡就是蠻頹鎮吧！\n實在是超狂野的耶！{[0004]}……啊，嗨！\n我是腕兒姐妹的小姬喔！
 Pearl_WhatDo	好！\n你有什麼想知道的事嗎？
@@ -5339,7 +5640,7 @@ Pearl_FarReward	我會支持你的！\n你今天也要努力對戰喔！
 Pearl_NoRewardAsOffline	啊！\n你居然沒有連接網路？{[0004]}等你在{color[0100]}大廳{color[ffff]}連接網路之後要記得再來喔！\n到時候說不定有好東西可以給你！
 Marina_WantFollow	……哦？\n你好像散發著一股超魷型的氣息耶～{[0004]}如果你繼續不停地對戰，\n我覺得應該還會變得更～加魷型吧？嗯！{[0004]}我想要好好地關注你的動向，\n要不要乾脆讓我成為你公認的{color[0100]}支持者{color[ffff]}呢？{[0004]}只要你讓我成為支持者，我就會幫你\n記住身上穿的{color[0100]}裝備{color[ffff]}還有{color[0100]}鏡頭選項{color[ffff]}。{[0004]}啊，還有，我也會記住你的{color[0100]}個人穿搭{color[ffff]}喔～{[0004]}如此一來，你就能透過{color[0100]}自訂{color[ffff]}快速更換，\n非常方便喔♪{[0004]}讓我成為公認的支持者吧！\n你覺得呢？
 Marina_FollowMeHello	你好～\n今天的狀態如何？
-Marina_FollowOtherHello	你好～{[0004]}{color[0100]}{[0201|0010]}{color[ffff]}\n讓我來這裡玩了～
+Marina_FollowOtherHello	你好～{[0004]}{color[0100]}{d}{color[ffff]}\n讓我來這裡玩了～
 Marina_NoAppDataHello	蠻頹鎮真是個美好的地方呢～♪{[0004]}啊，你好～\n我是腕兒姐妹的飯田！
 Marina_OtherAppDataHello	蠻頹鎮真是個美好的地方呢～♪{[0004]}請多關照～\n我是腕兒姐妹的飯田！
 Marina_WhatDo	來吧，\n有任何事都能儘管問喔～
@@ -5426,6 +5727,23 @@ GoodBye	多謝惠顧，\n歡迎下次再來，\n我會等你大駕光臨的。
 CommonMsg\Plaza\PlazaWalkThrough.msbt
 FirstExplain	啊，歡迎光臨！{[0004]}你是第一次使用這個服務吧？\n哇！真是太令人高興了！{[0004]}這裡是散步服務台喔！\n你可以選擇喜歡的規則與場地盡情地散步！\n是不是很棒呢！？{[0004]}接下來的路途\n就請你注意安全吧！{[0004]}哎呀，等一下！\n當你想要回來的時候就直接「{[0305|0000803f00000000]}暫停」吧！\n不要忘記囉！
 Select	要去散步嗎？
+CommonMsg\Sound\ArtistName.msbt
+010	魚漿幫
+011	C-Side
+012	Front Roe
+013	Damp Socks feat. 腕兒姐妹
+CommonMsg\Sound\MusicName.msbt
+Versus_Thunder_01	Clickbait
+Versus_Thunder_02	Splattack!
+Versus_Thunder_03	Headhammer
+Versus_Thunder_04	Paintscraper
+Versus_Thunder_05	Triple Dip
+Versus_Thunder_06	Sea Me Now
+Versus_Thunder_07	Sandy Side Up
+Versus_Thunder_08	Candy-Coated Rocks
+Versus_Thunder_09	Tentacle to the Metal
+Versus_Fes_Thunder_01	Fins in the Air
+Versus_Fes_Thunder_02	Till Depth Do Us Part
 CommonMsg\SystemWindow\SystemMsg_CloudSave.msbt
 Msg_Resume	在遊玩網路對戰之前，\n必須完成首次設定。
 Msg_DoTransfer	已繼承儲存資料。\n在{color[0100]}首次對戰結束之後{color[ffff]}，\n即可於大廳領取繼承特典{[031d|f6285c3f00000000]}金色武器兌換證。
@@ -5472,21 +5790,30 @@ BtnR_StartSoloConfirm_Regular	參加！
 Msg_StartSoloConfirm_BankaraOpen	確定要參加蠻頹比賽嗎？\n（對戰將會在8人到齊後開始）
 BtnL_StartSoloConfirm_BankaraOpen	取消
 BtnR_StartSoloConfirm_BankaraOpen	參加！
+Msg_StartSoloConfirm_XMatch	確定要挑戰X比賽嗎？\n（對戰將會在8人到齊後開始）
+BtnL_StartSoloConfirm_XMatch	取消
+BtnR_StartSoloConfirm_XMatch	挑戰！
 Msg_StartSoloConfirm_FestRegular	確定要參加祭典比賽嗎？\n（對戰將會在8人到齊後開始）
 BtnL_StartSoloConfirm_FestRegular	取消
 BtnR_StartSoloConfirm_FestRegular	參加！
 Msg_StartSoloConfirm_FestChallenge	確定要參加祭典比賽嗎？\n（對戰將會在8人到齊後開始）
 BtnL_StartSoloConfirm_FestChallenge	取消
 BtnR_StartSoloConfirm_FestChallenge	參加！
-Msg_StartSoloConfirm_FestTriColor	確定要參加三色奪寶攻擊嗎？\n（對戰將會在8人到齊後開始）
+Msg_StartSoloConfirm_FestTriColor	確定要參加三色奪寶比賽嗎？\n（對戰將會在8人到齊後開始）
 BtnL_StartSoloConfirm_FestTriColor	取消
 BtnR_StartSoloConfirm_FestTriColor	參加！
 Msg_StartSoloContinueConfirm_Bankara	要從上一次中斷時的進度繼續挑戰嗎？\n（目前 {[0200|00010000]}勝 {[0200|01010000]}敗）
 BtnL_StartSoloContinueConfirm_Bankara	放棄
 BtnR_StartSoloContinueConfirm_Bankara	繼續！
+Msg_StartSoloContinueConfirm_XMatch	要從上一次中斷時的進度繼續挑戰嗎？\n（目前 {[0200|00010000]}勝 {[0200|01010000]}敗）
+BtnL_StartSoloContinueConfirm_XMatch	放棄
+BtnR_StartSoloContinueConfirm_XMatch	繼續！
 Msg_StartSoloConfirm_Coop	確定要參加打工嗎？
 BtnL_StartSoloConfirm_Coop	取消
 BtnR_StartSoloConfirm_Coop	參加！
+Msg_StartSoloConfirm_CoopBigRun	確定要參加大型跑打工嗎？
+BtnL_StartSoloConfirm_CoopBigRun	取消
+BtnR_StartSoloConfirm_CoopBigRun	參加！
 Msg_QuitConfirm	確定要離開房間嗎？
 BtnL_QuitConfirm	取消
 BtnR_QuitConfirm	離開
@@ -5510,7 +5837,7 @@ Msg_Unlocked	此模式尚未解鎖。
 Msg_AnotherLobby_Versus	請前往大廳以便參加對戰。
 Msg_AnotherLobby_Coop	請前往熊先生商會以便參加打工。
 Msg_NeedVote	請前往廣場的投票所完成投票，\n選擇想要加入的隊伍以便參加祭典。
-Msg_NotFoundScenario	目前沒有已儲存的故事\n使用位於熊先生商會的熊先生設備即可儲存故事
+Msg_NotFoundScenario	目前沒有已儲存的劇本\n使用位於熊先生商會的熊先生設備即可儲存劇本
 Msg_MemberFixing	成員招募截止中……
 Msg_CoopManualConfirmKi	確定要再次參加\n打工實習「基礎指南 第一課」嗎？
 BtnL_CoopManualConfirmKi	取消
@@ -5545,6 +5872,31 @@ BtnL_ReservedReplayDownloadConfirm	不要
 BtnR_ReservedReplayDownloadConfirm	下載！
 Msg_RecruitNotification	已將成員招募的通知\n發送至朋友的大廳。
 Msg_RecruitFullMember	房間已額滿，無法招募成員。
+Msg_DescribeXRankingRegion	X比賽將會分為「{color[0100]}組別‧暇古{color[ffff]}」和「{color[0100]}組別‧艾洛眼{color[ffff]}」，\n由隸屬於相同組別的玩家互相對戰，\n名列前茅的玩家排名也會依組別區分個別公布。\n\n請根據您的居住地區\n決定本賽季要參加的組別。
+Msg_ConfirmXRankingRegion	確定要參加這個組別嗎？\n一旦決定參加，在下個賽季前都將無法更改。\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}
+BtnL_ConfirmXRankingRegion	更改
+BtnR_ConfirmXRankingRegion	OK！
+Msg_SelectXRankingRegion	要參加哪個組別？\n\n{color[0100]}{size[9600]}組別‧暇古{size[6400]}{color[ffff]}\n{size[4b00]}（日本/香港/韓國/澳洲/紐西蘭）{size[6400]}\n\n{size[9600]}{color[0100]}組別‧艾洛眼{color[ffff]}{size[6400]}\n{size[4b00]}（美洲大陸/歐洲）{size[6400]}
+BtnL_SelectXRankingRegion	組別‧暇古
+BtnR_SelectXRankingRegion	組別‧艾洛眼
+Msg_NoticeXRankingRegion	確定要參加這個組別嗎？\n一旦決定參加，在下個賽季前都將無法更改。\n\n{color[0100]}{size[9600]}{[0415|00000000]}{size[6400]}{color[ffff]}\n{size[4b00]}（{[0416|00000000]}）{size[6400]}\n\n※如果選擇的組別與實際的居住地區不同，\n　將有可能發生通訊延遲、比賽配對困難的情況\n　進而導致無法順暢地遊玩。
+BtnL_NoticeXRankingRegion	重新選擇
+BtnR_NoticeXRankingRegion	OK！
+Msg_FirstPlayerNameAlias	設定別稱之後，\n就能使用與平時不同的名稱參加私人比賽。
+Msg_ConfirmPlayerNameAlias	{color[0100]}{d}{color[ffff]}\n\n確定要使用此名稱參加私人比賽嗎？
+BtnL_ConfirmPlayerNameAlias	取消
+BtnR_ConfirmPlayerNameAlias	OK！
+Msg_UdemaeReset_Already	同一賽季僅能將技術重置1次，\n在目前的賽季中無法重置。
+Msg_UdemaeReset_Confirm1	確定要將技術重置為{[0403|00000000]}嗎？\n（同一賽季僅能重置1次）
+BtnL_UdemaeReset_Confirm1	取消
+BtnR_UdemaeReset_Confirm1	重置
+Msg_UdemaeReset_Confirm2	真的確定要將技術重置嗎？
+BtnL_UdemaeReset_Confirm2	取消
+BtnR_UdemaeReset_Confirm2	OK！
+Msg_UdemaeReset_Processing	請稍待片刻……
+Msg_UdemaeReset_Done	技術已重置為{[0403|00000000]}。
+Msg_CoopPrivate_ScenarioApplied	主辦者已更改打工設定。
+Msg_CoopPrivate_InvalidScenario	此打工劇本的資料有問題，\n無法遊玩。
 CommonMsg\SystemWindow\SystemMsg_MainMenu.msbt
 Msg_PlayerMakeConfirm	確定要更改玩家與小鮭魚的外型嗎？\n（金錢、武器、裝備等資料將會繼承）
 BtnL_PlayerMakeConfirm	取消
@@ -5558,6 +5910,7 @@ Msg_PhotoAlbumUploadFailure	發送至《魷魚圈 3》失敗。
 CommonMsg\SystemWindow\SystemMsg_Versus.msbt
 Msg_NoContest	因部分玩家在對戰開始後的短時間內中斷連線，\n本次對戰已被判定為無效比賽。\n（中斷連線的玩家將被視為在對戰中落敗）
 Msg_NoContest_Private	{color[0100]}{[0400|00000000]}{color[ffff]}已終止對戰。
+Msg_SpectatorCannotPhoto	觀戰時無法拍攝。
 CommonMsg\Talk\TalkCoop.msbt
 Coop_InGame_AppearTarget	{color[0100]}巨大鮭魚{color[ffff]}好像出現了。\n不必著急……但還是趕快找出來吧。
 Coop_InGame_AppearBank	我已經把鮭魚卵容器設置好了……\n很期待各位的活躍表現喔！
@@ -5714,6 +6067,13 @@ Coop_Result_C2_Failure_Missile_00	面對群聚的大胖魚時，最好利用大�
 Coop_Result_C2_Failure_Tamaire_00	使用炸彈是會消耗大量墨汁的，\n所以想要擊倒泥鮭魚時，最好還是跟同伴一起行動喔……
 Coop_Result_C2_Failure_Relay_00	在搬運大量金鮭魚卵時，與同伴之間的合作是很重要的，\n搬運、傳給同伴、交付……妥善分工並各司其職吧。
 Coop_Result_C2_Failure_Boss_00	撇開這件事不談……這次也收集到了很多金鮭魚卵呢，\n我很期待你們面對更進一步的挑戰喔！
+Coop_InGame_AppearBank_BigRun	我已經把鮭魚卵容器設置好囉……\n請各位努力地保護城鎮吧！
+Coop_InGame_AppearTarget_BigRun	鮭魚居然從那種地方出現了……\n別慌，在能力所及的範圍之內應對吧。
+Coop_InGame_DisappearBank_BigRun	鮭魚撤退了……保持這股氣勢吧！\n鮭魚卵容器就由我這邊回收了。
+Coop_InGame_DisappearBank_Final_BigRun	辛苦了，大家都很努力呢。\n都是多虧有各位才成功地阻止了鮭魚喔！
+Coop_Result_C1_Success_00_BigRun	感謝各位幫忙保護城鎮，真是得救了。\n而且還順便收集到了{[0200|00010000]}顆金鮭魚卵呢……
+Coop_Result_C1_Failure_AllDead_00_BigRun	看來你們好像全軍覆沒了……但沒關係，不用介意，\n這{[0200|00010000]}顆金鮭魚卵肯定能幫到大家的。
+Coop_Result_C1_Failure_TimeUp_00_BigRun	時間到了……不過還真虧你有辦法擋下鮭魚，\n而且還收集到了{[0200|00010000]}顆金鮭魚卵，那就不用擔心了。
 CommonMsg\Talk\TalkShop.msbt
 Weapon_Welcome_00	歡迎光臨～！\n這些武器能讓你在對戰時更魷力喔！
 Weapon_WelcomeS	歡迎光臨～！
@@ -5841,15 +6201,21 @@ Goods_ThanksBadgeA_00	啊，對了～{[0004]}你已經在我們店裡\n買過很
 Goods_ThanksBadgeB_00	啊，對了～{[0004]}你已經在我們店裡\n買過超多東西了吧！\n這間店都是多虧有你才能繼續經營喔～\n你就是我們的救世主！{[0004]}所以呢，\n我要把這滿懷謝意的特級{color[0100]}徽章{color[ffff]}送給你！！\n希望你可以實際用用看！{[0004]}店長是這麼說的。
 CommonMsg\Talk\TalkShopWeaponExp.msbt
 Shooter_Short_00	主要武器{color[0100]}廣域標記槍{color[ffff]}\n是藉由擴大槍口的圓周犧牲射程\n來強化近身戰的武器。{[0004]}在近身戰時所向無敵！\n此外，也能利用{color[0100]}冰壺炸彈{color[ffff]}逼近遠處的對手，\n擁有技術性的一面！{[0004]}使用{color[0100]}終極印章{color[ffff]}正面突破也是個強大的方法，\n推薦給擅長為同伴開路的人。
+Shooter_First_01	主要武器{color[0100]}楓葉射擊槍{color[ffff]}的性能\n與新葉射擊槍相同，\n但是在對戰的攻防上有不一樣的醍醐味。{[0004]}次要武器{color[0100]}魚雷{color[ffff]}與特殊武器{color[0100]}彈跳聲納{color[ffff]}\n是專門用來偵測對手位置的組合，\n可以在戰場上為同伴創造優勢！{[0004]}能以塗墨與探測的方式應戰並輔助同伴，\n推薦給重視團隊能力的人！
 Shooter_Precision_00	主要武器{color[0100]}窄域標記槍{color[ffff]}\n是由工匠手工磨合並調整平衡的射擊槍，\n擁有相當高的精準度！{[0004]}在抑制子彈的分散程度後，\n雖然攻擊力稍微偏低，\n但是連射速度有所提升，所以不成問題！{[0004]}搭配次要武器{color[0100]}快速炸彈{color[ffff]}使用，\n成功在對手的腳下塗墨進行壓制後，\n就能用極為精準的連射將對手打成蜂窩！{[0004]}特殊武器{color[0100]}螃蟹坦克{color[ffff]}擁有強大的壓制力，\n所以推薦給想要盡情地阻撓對手行動的人！
 Shooter_Blaze_00	主要武器{color[0100]}專業模型槍MG{color[ffff]}\n在射程與精準度上不算突出，\n但是擁有非常快的連射速度！{[0004]}只要善加利用次要武器{color[0100]}碳酸炸彈{color[ffff]}，\n移動時就會相當輕鬆，塗墨性能也很完美！\n能夠迅速地占地並輔助同伴！{[0004]}乍看之下是個只能用來塗墨的和平武器，\n但其實也能趁人不備地使用{color[0100]}鯊魚坐騎{color[ffff]}突襲，\n有著勇猛的一面！{[0004]}推薦給應戰時偏好適時進退的人，\n藉由塗墨的方式推進前線，\n並在合適的場面嶄露頭角！
+Shooter_Blaze_01	主要武器{color[0100]}專業模型槍RG{color[ffff]}\n是以專業模型槍MG電鍍製成的，\n所以擁有相同的性能！{[0004]}主要武器具備優秀的連射性能，\n搭配次要武器{color[0100]}灑墨器{color[ffff]}後，\n就能發揮無與倫比的塗墨能力！{[0004]}除此之外，\n也能使用{color[0100]}讚氣彈{color[ffff]}突破敵隊防守的關鍵地點，\n推薦給注重於前線塗墨的人！
 Shooter_Normal_00	主要武器{color[0100]}斯普拉射擊槍{color[ffff]}是最新款的武器，\n其前身簡單好用且潛力十足，\n所以被視為必備武器而大受好評！{[0004]}性能平衡良好的主要武器搭配了{color[0100]}吸盤炸彈{color[ffff]}，\n這樣的組合擁有絕佳的穩定性，\n無論遇到什麼樣的狀況都能應對！{[0004]}此外，特殊武器{color[0100]}終極發射{color[ffff]}可以用來突破\n對手占領的區域，也能用來防守關鍵地點，\n可以在無限種戰況中大顯身手！{[0004]}只要能夠善加利用這把武器\n讓自己學會對戰的基礎，\n就能獨當一面了！
+Shooter_Normal_01	主要武器{color[0100]}斯普拉射擊槍 聯名{color[ffff]}\n是裝備品牌艾洛眼和斯普拉射擊槍\n聯名推出的款式！{[0004]}雖然性能相同，不過次要武器{color[0100]}斯普拉炸彈{color[ffff]}\n以及特殊武器{color[0100]}三重龍捲風{color[ffff]}能夠更加輕易地\n攻擊到位於遠處的對手！{[0004]}親自推進前線也能提振團隊的士氣！\n推薦給擅長帶動氣氛的人！
 Shooter_Gravity_00	主要武器{color[0100]}.52加侖{color[ffff]}\n是擁有大口徑噴嘴的射擊槍，\n可以一口氣發射大量墨汁。{[0004]}雖然單發射擊擁有強大的攻擊力，\n但連射速度緩慢，所以應戰的關鍵在於\n使用{color[0100]}斯普拉防護牆{color[ffff]}好好地保護自己！{[0004]}遇到難以接近的對手時\n就靠{color[0100]}喇叭雷射5.1ch{color[ffff]}鎖定！\n用雷射將對手逼上絕路後給予最後一擊！{[0004]}推薦給想要重視防禦\n並時不時給予對手沉重打擊的人！
 Shooter_QuickMiddle_00	主要武器{color[0100]}N-ZAP85{color[ffff]}\n是連射性能優秀的射擊槍，\n可以發射將混合氣比例提高至極限的墨汁！{[0004]}雖然攻擊力低，但連射與塗墨的性能超群！\n只要利用此特性，就能在塗遍各地的同時\n一步一步地將對手逼上絕路！{[0004]}等對手無路可逃時就用{color[0100]}吸盤炸彈{color[ffff]}逼其現身，\n然後再用{color[0100]}能量站{color[ffff]}強化同伴，\n一鼓作氣全面進攻！{[0004]}這就是結合塗墨與團隊合作的成果！\n推薦給想要讓隊伍穩定取勝的人！
 Shooter_Expert_00	主要武器{color[0100]}頂尖射擊槍{color[ffff]}\n是斯普拉射擊槍的研發者\n製作給頂尖高手使用的款式！{[0004]}次要武器{color[0100]}標線器{color[ffff]}能偵測對手的位置\n並限制其行動，憑藉本身的射程與精準度\n掃蕩每一個角落！{[0004]}連射性能與墨汁效率普普通通，\n不過只要搭配特殊武器{color[0100]}螃蟹坦克{color[ffff]}\n就能藉著毫無破綻的攻防來彌補！{[0004]}雖然難以駕馭，\n不過最適合推薦給那些\n想要邁向更高境界的人！
+Shooter_Expert_01	主要武器{color[0100]}頂尖射擊槍 聯名{color[ffff]}\n是裝備品牌鍛品與頂尖射擊槍\n聯名推出的款式！{[0004]}雖然內部構造和頂尖射擊槍相同，\n不過可以利用次要武器{color[0100]}吸盤炸彈{color[ffff]}逼出對手\n並趁機展開攻擊！{[0004]}使用特殊武器{color[0100]}讚氣彈{color[ffff]}攻擊對手群聚之處\n就可以一網打盡！出現漏網之魚時\n也能利用主要武器的長遠射程收拾對手！{[0004]}如果技術沒有磨練到一定的程度\n是很難駕馭這把武器的，\n所以使用時建議保持專注！
 Shooter_Heavy_00	主要武器{color[0100]}.96加侖{color[ffff]}是裝設了長槍管\n還有大型墨汁槽的射擊槍，\n擁有傲人的長遠射程與強大攻擊力！{[0004]}相對的，在連射性能上較不可靠，\n建議搭配次要武器{color[0100]}灑墨器{color[ffff]}，\n在占地的同時以單發射擊確實命中對手！{[0004]}{color[0100]}吸墨機{color[ffff]}可以用來輔助陷入危機的同伴！\n推薦給願意和隊友同心協力應戰的\n戰術派人士！
 Shooter_Long_00	主要武器{color[0100]}噴射清潔槍{color[ffff]}\n是強化了泵壓的射擊槍，\n射程足以與蓄力狙擊槍匹敵！{[0004]}雖然主要武器的攻擊力稍微偏低，\n但只要用次要武器{color[0100]}標線器{color[ffff]}找出對手的位置，\n就能活用射程的優勢單方面展開猛攻！{[0004]}而且有了{color[0100]}吸墨機{color[ffff]}，就算炸彈飛過來也不怕！\n推薦給想要從遠距離\n冷酷且巧妙地將對手逼上絕路的人！
+Shooter_QuickLong_00	主要武器{color[0100]}太空射擊槍{color[ffff]}\n是以射程與連射力兼具為目標\n研發製成的射擊槍！{[0004]}擁有強大的塗墨能力，但攻擊力也相對較低，\n所以對戰時建議活用長遠的射程\n輔助位於前線的同伴。{[0004]}使用{color[0100]}定點偵測器{color[ffff]}就能讓同伴知道對手位置，\n發現同伴沒能順利擊倒的對手時，\n就靠{color[0100]}喇叭雷射5.1ch{color[ffff]}給予最後一擊吧！{[0004]}可以從遠處塗墨幫助前線的同伴推進\n並同時趁隙攻擊對手！\n推薦給喜歡收割戰果的人！
 Blaster_Short_00	主要武器{color[0100]}新星爆破槍{color[ffff]}是近身戰用的爆破槍，\n與可愛的外觀相反，\n採用了會在短時間內爆炸的強大墨汁。{[0004]}雖然可以連射，但是射程短，\n所以必須善加利用次要武器{color[0100]}斯普拉炸彈{color[ffff]}，\n逼對手移動，使其受到爆炸的衝擊。{[0004]}遇到從遠處來襲的對手時，只要用特殊武器\n{color[0100]}觸手噴射{color[ffff]}繞到對方的背後再展開轟炸\n就能帥氣地反擊！{[0004]}推薦給能夠完整觀察戰場地形\n以及看穿對手行動的聰明人！
+Blaster_Short_01	主要武器{color[0100]}新星爆破槍 新型{color[ffff]}\n是新星爆破槍的微幅改裝款式，\n雖然外形沒有改動，但是表面做了霧面處理。{[0004]}在面對位於遠處而難以應付的對手時，\n就利用次要武器{color[0100]}碳酸炸彈{color[ffff]}牽制並偷偷接近，\n然後讓對手嚐嚐主要武器的爆炸威力吧！{[0004]}無法順利縮短距離時，\n還可以靠{color[0100]}終極印章{color[ffff]}強行突破！\n把對手壓成魷魚乾！{[0004]}在這把武器可愛的外表之下\n蘊藏了猛烈的攻擊性，\n推薦給喜歡有反差感的人！
 Blaster_Middle_00	主要武器{color[0100]}火熱爆破槍{color[ffff]}\n是屬於{color[0100]}爆破槍{color[ffff]}種類的武器之一，\n可以發射接觸到空氣後就會爆炸的墨汁。{[0004]}射程與連射性能都馬馬虎虎，\n但是如果直接命中就能造成極大的傷害！\n也能利用爆炸的衝擊命中躲在牆後的對手！{[0004]}要是對手遲遲不肯現身的話，\n那就送給對手{color[0100]}機器人炸彈{color[ffff]}這份大禮，\n看準對方現身時展開轟炸可是很華麗的喔~{[0004]}當對手逼近的時候也有{color[0100]}巨大防護罩{color[ffff]}能用，\n所以不成問題！\n推薦給想要在應戰時掌控對手行動的人！
 Blaster_Long_00	主要武器{color[0100]}遠距爆破槍{color[ffff]}\n是延緩了墨汁氧化速度的爆破槍，\n藉此延長了從發射到爆炸的距離！{[0004]}由於構造特殊，所以連射速度有些微下降，\n不過可以用{color[0100]}吸盤炸彈{color[ffff]}逼出對手，\n再憑藉本身的長遠射程擊倒對方！{[0004]}只要利用特殊武器{color[0100]}彈跳聲納{color[ffff]}\n掌握對手的所在位置，\n就算是躲在牆壁後面也一樣無所遁形！{[0004]}推薦給想要像個獵人一樣，\n從遠方慢慢地將獵物逼上絕路的人！
 Blaster_LightShort_00	主要武器{color[0100]}衝塗爆破槍{color[ffff]}\n是追求連射性能的爆破槍！\n爆炸與快速的連射能使對手無法靠近！{[0004]}隨著連射力有所提升，攻擊力也相對較低，\n因此建議使用次要武器{color[0100]}斯普拉炸彈{color[ffff]}追擊，\n讓對手無路可逃！{[0004]}遇到逃過上述所有攻擊的對手時\n就使用{color[0100]}終極發射{color[ffff]}猛攻！\n推薦給想要不停地進攻擾亂前線的人！
@@ -5859,10 +6225,13 @@ Shooter_TripleQuick_00	主要武器{color[0100]}L3捲管槍{color[ffff]}\n是三
 Shooter_TripleMiddle_00	主要武器{color[0100]}H3捲管槍{color[ffff]}\n是三發點放式的射擊槍，\n和L3捲管槍相比攻擊力較高！{[0004]}雖然連射力稍微偏低，\n不過只要利用{color[0100]}定點偵測器{color[ffff]}找出對手的位置\n並一鼓作氣擊倒對方就不成問題！{[0004]}除了偵測對手的位置之外，\n也能使用{color[0100]}能量站{color[ffff]}來支援隊友，\n推薦給想要和同伴一起大顯身手的人！
 Shooter_Flash_00	主要武器{color[0100]}開瓶噴泉槍{color[ffff]}\n是以特殊構造製成的射擊槍，\n按1次扳機只會發射1發威力強大的子彈！{[0004]}只要按住{[030c|0000803f00000000]}{color[0100]}性能就會隨之變化{color[ffff]}，\n成為一把機動性與連射力兼具的武器，\n可以迅速地對自己的周邊塗墨！{[0004]}連按{[030c|0000803f00000000]}能得到射程與攻擊力上的優勢，\n按住{[030c|0000803f00000000]}則能得到塗墨上的優勢，\n如何活用這兩種攻擊是關鍵所在！{[0004]}在使用{color[0100]}斯普拉防護牆{color[ffff]}防守的同時\n也能利用{color[0100]}終極發射{color[ffff]}攻向遠處的對手！{[0004]}推薦給想要根據戰況展現華麗攻防\n並藉此吸引目光的狂歡派人士！
 Roller_Compact_00	主要武器{color[0100]}碳纖維滾筒{color[ffff]}\n採用大量輕巧且堅固的CFRP材料製成，\n是個輕盈又好揮的滾筒！{[0004]}雖然單次潑灑的墨汁量較少，\n不過用{color[0100]}機器人炸彈{color[ffff]}找出對手的位置之後，\n就能活用其機動性繞到對方的背後！{[0004]}如果有對手正在分心的話，就能用{color[0100]}觸手噴射{color[ffff]}\n一鼓作氣縮短距離並從後方潑灑墨汁！\n推薦給想要像忍者一樣神出鬼沒的人！
+Roller_Compact_01	主要武器{color[0100]}碳纖維滾筒 裝飾{color[ffff]}\n是由裝飾工匠對碳纖維滾筒\n進行裝飾加工製成的滾筒！{[0004]}次要武器{color[0100]}快速炸彈{color[ffff]}讓塗墨能力又更強大了！\n只要使用炸彈對地面大幅塗墨，\n就可以迅速地逼近對手！{[0004]}遇到非常難以接近的對手時，\n也可以直接使用{color[0100]}終極發射{color[ffff]}展開攻擊！{[0004]}推薦給喜歡享受激烈對戰的人！\n在戰場上四處塗墨、持續擾敵、\n窮追不捨地將對手逼上絕路！
 Roller_Normal_00	主要武器{color[0100]}斯普拉滾筒{color[ffff]}\n是屬於{color[0100]}滾筒{color[ffff]}種類的武器，能以滾動的方式\n對地面塗墨，也能進行近身戰。{[0004]}只要按下{[030c|0000803f00000000]}就能潑灑墨汁進行攻擊！\n在按住的同時移動\n就能塗遍地面的每一個角落！{[0004]}使用次要武器{color[0100]}冰壺炸彈{color[ffff]}一鼓作氣縮短距離，\n再趁對手不備用滾筒唏哩嘩啦地潑灑墨汁！\n像這樣漂亮地擊倒對手可是很暢快的喔～{[0004]}在擊倒對手之後\n還能使用特殊武器{color[0100]}巨大防護罩{color[ffff]}支援前線，\n呼叫同伴一起全面進攻！{[0004]}推薦想要用滾筒成為近身戰高手的人\n先從熟練地運用這把武器開始做起！
 Roller_Heavy_00	主要武器{color[0100]}電動馬達滾筒{color[ffff]}\n是我個人特製的滾筒，結合了發電機，\n擁有強大的攻擊力以及長遠的射程！{[0004]}因為發電機造成重量增加，所以機動性偏低，\n不過相對的，每一次揮擊都能夠\n將大量的墨汁潑灑到遠處！{[0004]}利用次要武器{color[0100]}灑墨器{color[ffff]}擴大塗墨的面積，\n並同時發揮武器的重量級魄力，\n與同伴一起推進前線！{[0004]}也能使用{color[0100]}能量站{color[ffff]}來輔助同伴，\n推薦給懂得關心他人，\n能夠在壓制對手的同時為團隊著想的人！
 Roller_Hunter_00	主要武器{color[0100]}可變式滾筒{color[ffff]}\n會隨著橫揮與縱揮改變形狀，\n是個設計相當有趣的滾筒！{[0004]}透過自動離心式離合器實現的流暢變形，\n橫揮就像輕量級滾筒可以快速潑灑墨汁！\n縱揮則可以將墨汁潑灑到遠處！{[0004]}可以用縱揮塗墨前進，\n然後當對手接近時就用橫揮擊倒！\n是個高機動性的滾筒！{[0004]}只要活用高機動性搶先設置{color[0100]}墨汁陷阱{color[ffff]}，\n就有機會能儘早察覺對手的位置\n並將其擊倒！{[0004]}此外，{color[0100]}多重導彈{color[ffff]}也一樣能找出對手的位置，\n所以推薦給想要掌控戰況的頭腦派！
+Roller_Wide_00	主要武器{color[0100]}寬滾筒{color[ffff]}\n是以輕巧度與塗墨廣度為設計概念\n製成的滾筒！{[0004]}這是一把名符其實的武器！\n由於滾筒較長，所以能寬廣地對地面塗墨！\n橫揮潑灑墨汁時的觸及範圍也很寬喔～{[0004]}攻擊力偏低是比較需要注意的一點，\n不過縱揮時墨汁的潑灑距離較遠，\n所以能從{color[0100]}斯普拉防護牆{color[ffff]}後方展開猛烈攻勢。{[0004]}如果對手仍執意接近的話，\n那就使用特殊武器{color[0100]}吸墨機{color[ffff]}吸收墨汁反擊吧！{[0004]}這個武器很適合用來對地面塗墨，\n所以推薦給喜歡毫無遺漏地\n塗遍每一個角落的人！
 Brush_Mini_00	主要武器{color[0100]}巴勃羅{color[ffff]}\n是一把非常輕巧的畫筆，\n能夠以很快的速度塗墨前進！{[0004]}雖然攻擊力無法符合期待，\n不過只要利用高機動性跟{color[0100]}斯普拉炸彈{color[ffff]}擾敵，\n創造出反擊的破綻後，就能手到擒來了！{[0004]}再搭配上特殊武器{color[0100]}喇叭雷射5.1ch{color[ffff]}的話，\n就能讓對手陷入大混亂！\n可以趁機一鼓作氣縮短距離並展開猛攻！{[0004]}利用本身的移動速度就能擾亂前線！\n推薦給想要在戰場上四處奔走，\n用墨汁改寫對戰常識的人！
+Brush_Mini_01	主要武器{color[0100]}巴勃羅‧新藝術{color[ffff]}\n擁有與巴勃羅相同的性能，\n但是此款式可以展現出不一樣的作戰風格！{[0004]}在魷效地活用機動性四處設置{color[0100]}墨汁陷阱{color[ffff]}後，\n就能趁對手觸發陷阱時迅速接近\n並潑灑墨汁展開攻擊！{[0004]}難以接近的地方還能靠{color[0100]}終極印章{color[ffff]}強行突破！\n切入對手占領的區域之後，\n就是徹底發揮移動速度的時候了！{[0004]}推薦給積極勤勞的人！\n在戰場上四處奔波，\n輔助同伴並干擾對手吧！
 Brush_Normal_00	主要武器{color[0100]}北齋{color[ffff]}\n是提升了筆尖刷毛密度的{color[0100]}畫筆{color[ffff]}，\n在揮擊時潑灑的墨汁量較多！{[0004]}當畫筆無法攻擊到對手所在的位置時，\n也能使用次要武器{color[0100]}吸盤炸彈{color[ffff]}牽制，\n只要善加利用就能安全地塗墨前進！{[0004]}遇到位在遠處且不會接近的對手時，\n就用{color[0100]}觸手噴射{color[ffff]}繞到後方再攻擊！\n這樣一來對手就一命嗚呼了！{[0004]}就算是剛開始接觸畫筆的人也能輕易運用\n這樣的組合，推薦初學者使用！
 Charger_Quick_00	主要武器{color[0100]}魷快潔α{color[ffff]}\n是藉由犧牲蓄力狙擊槍特有的射程\n來縮短蓄力時間的款式！{[0004]}作為蓄力狙擊槍採用了能積極進攻的設計，\n可以在利用{color[0100]}定點偵測器{color[ffff]}標記對手後\n與同伴一起展開突襲！{[0004]}當對手即將逼近時，\n可以迅速地使用{color[0100]}巨大防護罩{color[ffff]}應對，\n從防護罩之中單方面地猛攻！{[0004]}作為一把擁有近身戰能力的蓄力狙擊槍，\n推薦給對自身技術有自信，\n有把握用墨汁確實命中對手的人！
 Charger_Normal_00	主要武器{color[0100]}斯普拉蓄力狙擊槍{color[ffff]}\n是屬於{color[0100]}蓄力狙擊槍{color[ffff]}種類的武器，\n適合進行遠距離攻擊！{[0004]}持續按住{[030c|0000803f00000000]}壓縮墨汁～～\n接著再放開{[030c|0000803f00000000]}就能「啪——！」地發射，\n塗出一條能觸及遠處的直線墨汁！{[0004]}此外，在完全蓄力的狀態下\n就算潛入墨汁游動也可以保留蓄力的狀態，\n靠{color[0100]}蓄力留存{color[ffff]}就能彌補機動性方面的弱勢。{[0004]}{color[0100]}斯普拉炸彈{color[ffff]}能用來逼出躲藏的對手\n{color[0100]}吸墨機{color[ffff]}能用來對抗對手的近身攻擊，\n這樣的搭配與蓄力狙擊槍相當契合！{[0004]}就算是沒用過蓄力狙擊槍的人\n也能輕易運用這樣的組合，\n想熟悉蓄力狙擊槍的話就從這把武器開始！
@@ -5871,17 +6240,21 @@ Charger_Long_00	主要武器{color[0100]}公升4K{color[ffff]}\n是活用了耐�
 Charger_LongScope_00	主要武器{color[0100]}4K準星槍{color[ffff]}\n是在公升4K上裝設了瞄準器的款式，\n可以清楚地看見遠方！{[0004]}透過瞄準器可以獲得\n所有蓄力狙擊槍當中最遠的射程，\n但是蓄力時視野會變小，需注意周遭安全！{[0004]}因為無法像公升4K一樣利用蓄力留存，\n所以在攻防策略上也有些許的改變，\n讓人更有意願想要使用瞄準器！{[0004]}推薦給想要利用{color[0100]}墨汁陷阱{color[ffff]}以及{color[0100]}彈跳聲納{color[ffff]}\n確保自身安全並仔細瞄準擊倒對手的人！
 Charger_Light_00	主要武器{color[0100]}14式竹筒槍‧甲{color[ffff]}\n是以傳奇部隊的司令所使用的武器為原形，\n用符合現代對戰的形式復刻製成的！{[0004]}工匠為了忠實重現當時的狀態\n而採用竹子作為製造材料，\n所以{color[0100]}無法使用蓄力留存{color[ffff]}。{[0004]}單發的攻擊力相對低於其他的蓄力狙擊槍，\n不過蓄力速度快，除了強大的連射性能之外，\n完全蓄力後仍保有高機動性也是特色之一！{[0004]}利用{color[0100]}機器人炸彈{color[ffff]}找出對手的所在位置後，\n就能迅速地蓄力並展開攻擊！\n以積極的攻勢將對手逼上絕路！{[0004]}{color[0100]}喇叭雷射5.1ch{color[ffff]}這張王牌\n更是能引領團隊走上勝利之路！\n推薦給想要化身成為傳奇司令的人！
 Charger_Keeper_00	主要武器{color[0100]}高壓油管槍{color[ffff]}\n是再次改良了蓄力留存構造的蓄力狙擊槍！{[0004]}可以讓墨汁長時間維持高壓，\n延長了在蓄力留存狀態下潛入墨汁時\n可游動的距離，使機動性有所提升！{[0004]}相對的，完全蓄力所需的時間更長，\n不過{color[0100]}即使沒有完全蓄力也能使用蓄力留存{color[ffff]}，\n因此可以將蓄力分成數次進行……{[0004]}只要利用次要武器{color[0100]}魚雷{color[ffff]}掌握對手的位置，\n就能在安全的地方蓄力！{[0004]}可以在保留完全蓄力的狀態下\n移動到有利的位置展開攻擊！\n就算失手也能靠{color[0100]}多重導彈{color[ffff]}追擊將對手一軍！{[0004]}推薦給想要熟練地使用蓄力留存\n或是想要以高機動性使用蓄力狙擊槍的人！
+Charger_Pencil_00	主要武器{color[0100]}R-PEN/5H{color[ffff]}是可以在蓄力後\n藉由分段發射微量墨汁\n進行連續射擊的蓄力狙擊槍！{[0004]}按住{[030c|0000803f00000000]}蓄力後，只要放開即可發射，\n接著再次按下{[030c|0000803f00000000]}並放開就能再度發射！\n最多可以進行5次遠距離攻擊喔～{[0004]}雖然可以連續射擊，\n但是每1發的威力也相對較低，\n無法蓄力留存也是必須注意的一點。{[0004]}在蓄力狙擊槍當中擁有較強大的塗墨能力，\n所以也能透過塗墨的方式輔助前線！\n搭配次要武器{color[0100]}灑墨器{color[ffff]}盡情地塗墨吧！{[0004]}使用{color[0100]}能量站{color[ffff]}時，除了能強化自己和同伴之外，\n也因為設置的冰箱可以阻擋墨汁，\n所以能暫時當作盾牌使用喔！{[0004]}雖然這是個較難掌握的武器，\n不過還是推薦給想要只蓄力1次\n就能射擊好幾次的貪心人！
 Slosher_Strong_00	主要武器{color[0100]}飛濺潑桶{color[ffff]}\n是屬於{color[0100]}潑桶{color[ffff]}種類的武器之一，\n擁有可以直線潑灑大量墨汁的性能！{[0004]}潑桶的優勢在於可以輕易地攻擊到\n其他武器難以觸及的位置，\n像是高處或是牆壁的另一端。{[0004]}雖然無法連射，\n不過可以站在高處使用主要武器進行牽制，\n並投擲次要武器{color[0100]}斯普拉炸彈{color[ffff]}阻撓對手！{[0004]}想在隱匿的狀態下接近對手時，也能靠\n特殊武器{color[0100]}三重龍捲風{color[ffff]}掩人耳目展開突襲！\n是個推薦潑桶初學者使用的武器！
+Slosher_Strong_01	主要武器{color[0100]}飛濺潑桶 裝飾{color[ffff]}\n是採用了原廠選配的貼紙\n進行加工製成的飛濺潑桶！{[0004]}利用次要武器{color[0100]}標線器{color[ffff]}就能輕易地找出對手！\n觸碰到線條的對手將會遭到標記，\n可以趁機和同伴一起聯手出擊！{[0004]}特殊武器為{color[0100]}觸手噴射{color[ffff]}！\n只要飛到對手的頭上，就能單方面地讓對手\n沐浴在大量從天而降的墨汁之中！{[0004]}這樣的組合很魷效地活用了潑桶的強項，\n推薦給想要窮究潑桶應用的潑桶操作者！
 Slosher_Diffusion_00	主要武器{color[0100]}洗筆桶{color[ffff]}\n是可以一次朝前方3個方向\n潑灑墨汁的潑桶！{[0004]}由於墨汁分散，攻擊力也相對有些許下降，\n不過只要利用{color[0100]}毒霧{color[ffff]}阻礙對手的行動，\n就沒有什麼好擔心的了！{[0004]}特殊武器{color[0100]}噴射背包{color[ffff]}的壓制力也相當完美！\n推薦給除了塗墨之外\n也想要主動進攻的野心家！
 Slosher_Launcher_00	主要武器{color[0100]}迴旋潑桶{color[ffff]}\n是參考洗衣機的構造作為靈感製成的武器，\n可以發射獨特的螺旋彈！{[0004]}螺旋彈直接命中時的攻擊力\n以及利用化成渦流飛散的墨汁進行牽制\n是此武器的魅力所在。{[0004]}可以用次要武器{color[0100]}碳酸炸彈{color[ffff]}\n限制對手的行動範圍再潑灑墨汁！\n當對手逃跑時還能用{color[0100]}讚氣彈{color[ffff]}迅速展開追擊！{[0004]}總而言之，四處潑灑墨汁，\n讓戰場陷入混亂的渦流之中就對了！
 Slosher_Bathtub_00	主要武器{color[0100]}滿溢泡澡潑桶{color[ffff]}\n是參考浴缸的構造作為靈感製成的武器，\n可以發射會彈跳的子彈！{[0004]}每一次揮擊都會自動發射4發子彈！\n能集中攻擊同一個位置，\n或是在迂迴的同時對廣範圍進行牽制！{[0004]}次要武器是{color[0100]}灑墨器{color[ffff]}，特殊武器{color[0100]}墨雨雲{color[ffff]}，\n可說是塗墨性能超群的組合搭配！{[0004]}推薦給想要利用長遠射程\n以及強大的塗墨性能守住重要地點，\n沐浴在勝利榮耀之下的人！
 Slosher_Washtub_00	主要武器{color[0100]}爆炸潑桶{color[ffff]}\n是改良自工業用暖器的武器，\n可以對遠方發射火熱的墨汁！{[0004]}這個武器發射出去的子彈\n會在命中地面或牆壁時爆炸，\n能輕易地對躲在暗處的對手造成傷害！{[0004]}只要利用次要武器{color[0100]}定點偵測器{color[ffff]}\n就能讓同伴知道對手的位置，\n藉此輔助隊友！{[0004]}除此之外，特殊武器{color[0100]}墨雨雲{color[ffff]}\n也一樣可以用來找出\n躲在墨汁裡面的對手！{[0004]}可以活用次要武器與特殊武器，\n與同伴一起追擊對手，\n推薦給擁有隊長資質的人！
 Spinner_Quick_00	主要武器{color[0100]}斯普拉旋轉槍{color[ffff]}\n是構造經過重新設計的旋轉槍，\n縮短了蓄力時間，變得更加簡單好用！{[0004]}只要使用次要武器{color[0100]}快速炸彈{color[ffff]}就能流暢地\n對牆壁塗墨，並藉此運用立體空間應戰，\n還可以用來迅速地應對逼近的對手。{[0004]}除此之外，也能使用特殊武器{color[0100]}終極印章{color[ffff]}\n一鼓作氣推進前線！\n以輕快的攻防策略與同伴一起奪得勝利！
+Spinner_Quick_01	{color[0100]}斯普拉旋轉槍 聯名{color[ffff]}的性能與旋轉槍當中\n破綻較少的斯普拉旋轉槍相同，\n但是在改變組合後就成了別具風格的武器。{[0004]}次要武器{color[0100]}毒霧{color[ffff]}可以令對手難以動彈，\n淪為一個絕佳的活靶！{[0004]}蓄力時的破綻也可以靠{color[0100]}巨大防護罩{color[ffff]}彌補！\n藉此從安全的位置單方面地展開攻擊！{[0004]}這是個簡單好用的組合，\n推薦給使用旋轉槍的初學者！
 Spinner_Standard_00	主要武器{color[0100]}桶裝旋轉槍{color[ffff]}的使用方式\n與蓄力狙擊槍類似，\n不過是另一種屬於{color[0100]}旋轉槍{color[ffff]}種類的武器！{[0004]}持續按住{[030c|0000803f00000000]}壓縮墨汁～～\n接著再放開{[030c|0000803f00000000]}就能「啪啪啪啪啪啪！」地\n連續發射墨汁彈！{[0004]}不過因為需要消耗大量的墨汁，\n蓄力也會耗費許多時間，所以破綻相當大。{[0004]}可以利用次要武器{color[0100]}灑墨器{color[ffff]}持續塗墨，\n確保對手與自己保持距離，\n然後迂迴到能單方面展開猛攻的地方！{[0004]}接著再使用{color[0100]}彈跳聲納{color[ffff]}找出對手的位置，\n活用射程擊倒對手就行了，\nMission Complete！{[0004]}憑藉蓄力狙擊槍沒有的攻擊時間長度\n就能讓對手無法接近，\n推薦給想要當個地盤守護者大顯身手的人！
 Spinner_Hyper_00	主要武器{color[0100]}消防栓旋轉槍{color[ffff]}是著重於\n對敵方隊伍占領的區域進行壓制的旋轉槍！\n槍林彈雨般的猛攻相當值得一看！{[0004]}……不過蓄力所需的時間非同小可，\n墨汁消耗量也非比尋常，\n所以必須十分留意與對手之間的距離！{[0004]}利用{color[0100]}機器人炸彈{color[ffff]}可以逼退想要接近的對手，\n或是找出躲藏起來的對手\n並活用距離長遠的射程進行！{[0004]}遇到步步逼近的對手時\n可以用特殊武器{color[0100]}讚氣彈{color[ffff]}送對方一份大禮！\n如此一來就能順利壓制了！{[0004]}推薦給下定決心想要讓對手無法接近，\n從後方提供輔助壓制戰場的人！
 Spinner_Downpour_00	主要武器{color[0100]}圓珠筆{color[ffff]}\n是擁有2種射程的旋轉槍！{[0004]}開始射擊時的旋轉動力強，\n能夠以高速連射廣泛塗墨，\n也能瞬間擊倒近距離的對手！{[0004]}在旋轉動力漸漸緩下來之後，\n就可以精準地瞄準位在遠處的對手！{[0004]}這把武器還有另外一項特色！\n也就是可以在子彈{color[0100]}射擊途中重新蓄力{color[ffff]}！{[0004]}只要利用重新蓄力的時間控制旋轉的動力，\n就能更加隨心所欲地應戰！\n推薦在試射時親自嘗試看看！{[0004]}建議應戰時可以利用次要武器{color[0100]}碳酸炸彈{color[ffff]}\n移動到有利的位置，\n並活用不同的射程展開攻勢！{[0004]}除此之外，\n只要搭配特殊武器{color[0100]}噴射背包{color[ffff]}使用，\n就能盡情地擾亂對手占領的區域！{[0004]}推薦給想要熟練地\n使用詭怪的武器對戰的技術型高手！
 Spinner_Serein_00	主要武器{color[0100]}鸚鵡螺號47{color[ffff]}\n是第一把附加並運用了\n{color[0100]}蓄力留存{color[ffff]}構造的旋轉槍！{[0004]}只要能熟練地運用蓄力留存，\n就可以先在安全的地方蓄力，然後從暗處\n或是有高低差的地方突然現身展開攻擊！{[0004]}除了能在射擊途中{color[0100]}重新蓄力{color[ffff]}的構造之外，\n還附加了可以在跳躍射擊時抑制子彈偏移\n幅度的穩定器，是個充滿浪漫情懷的武器！{[0004]}靠次要武器{color[0100]}定點偵測器{color[ffff]}掌控對手的行動後，\n只要活用蓄力留存以及重新蓄力\n就能順利擊倒對手！{[0004]}用了特殊武器{color[0100]}墨雨雲{color[ffff]}之後，\n就算是躲藏起來的對手也照樣一覽無遺！{[0004]}保留蓄力並潛伏進入墨汁中的模樣\n彷彿就像是潛水艇一樣！\n推薦給應戰時喜歡出其不意的人！
 Maneuver_Short_00	主要武器{color[0100]}濺鍍槍{color[ffff]}是為了追求機動性\n而費盡苦心製成的機動槍！{[0004]}輕量化也是下了工夫的重點之一，\n但結果反而造成射程縮短……\n不過厲害的地方在於仍然保有翻滾的性能！{[0004]}可以活用強大的機動性，\n在戰場上四處設置{color[0100]}跳躍信標{color[ffff]}，\n成為同伴的後援！{[0004]}使用{color[0100]}能量站{color[ffff]}更是能再度提升移動力！\n憑藉本身的速度將對手玩弄於鼓掌之間！{[0004]}能夠以輕快的步調輔助同伴，\n然後再趁對手不備時進攻，\n推薦給擅長使用打帶跑戰術的人！
+Maneuver_Short_01	主要武器{color[0100]}濺鍍槍‧新藝術{color[ffff]}\n擁有與濺鍍槍相同的性能，\n不過在組合方面更加適合技術型高手！{[0004]}次要武器{color[0100]}魚雷{color[ffff]}可以用來分散對手的注意力，\n並趁機以翻滾的方式讓對手進入射程之內！{[0004]}遇到無法接近的對手還可以使用{color[0100]}鯊魚坐騎{color[ffff]}！\n攻擊範圍足以波及到複數對手，\n所以只要抓準時機就可以展開突襲！{[0004]}推薦給對於掌握戰況還有應對能力\n都有自信的人！
 Maneuver_Normal_00	主要武器{color[0100]}斯普拉機動槍{color[ffff]}\n是屬於{color[0100]}機動槍{color[ffff]}種類的武器，\n因占地對戰狂熱高漲的人氣而誕生！{[0004]}雙手分別手持一把武器的特色很值得關注，\n不過利用噴嘴發射墨汁的推進力\n進行高速移動的{color[0100]}翻滾{color[ffff]}動作更是關鍵！{[0004]}翻滾後會暫時無法移動，\n但是左右兩個準星將會瞄準同個位置，\n使集彈力有所提升，能一鼓作氣擊倒對手！{[0004]}雖然攻擊力稍微偏低，不過只要活用\n次要武器{color[0100]}吸盤炸彈{color[ffff]}以及翻滾的機動性，\n就能將對手玩弄於鼓掌之間！{[0004]}遇到位在遠處的對手還能用{color[0100]}螃蟹坦克{color[ffff]}狙擊！\n是種相當平衡的組合，\n推薦給想跨出第一步開始使用機動槍的人！
 Maneuver_Gallon_00	主要武器{color[0100]}開爾文525{color[ffff]}是在研發時\n以提高攻擊力為主旨製成的機動槍！{[0004]}連射的速度並不快，\n但是在翻滾後立即開火\n子彈的威力就會大幅提升！{[0004]}強大的攻擊力是個值得關注的特色，\n也能使用次要武器{color[0100]}斯普拉防護牆{color[ffff]}固守防禦，\n可以說是個萬能型的武器。{[0004]}除此之外，特殊武器{color[0100]}讚氣彈{color[ffff]}\n也蘊藏著能夠一舉改變戰況的潛力。{[0004]}此款式擁有優秀的攻守平衡，\n推薦給想要在各個層面都大放異彩的人！
 Maneuver_Dual_00	主要武器{color[0100]}雙重清潔槍{color[ffff]}\n是將以往使用的射擊槍改造成機動槍後\n脫胎換骨重生的武器！{[0004]}翻滾後立刻開火時的高精準度連射\n配上長遠的射程可說是效果超群！{[0004]}可以用{color[0100]}斯普拉炸彈{color[ffff]}逼對手現身\n再活用射程與連射集中炮火攻擊！{[0004]}{color[0100]}彈跳聲納{color[ffff]}也很適合用來找出潛伏中的對手，\n可以在發現對手後一個不留地全數擊倒！{[0004]}即使對手逼近也能使用翻滾拉開距離，\n所以推薦給想要同時擁有機動性\n以及長遠射程的強欲之人！
@@ -6001,24 +6374,33 @@ B98	{[0506]}
 CommonMsg\UniformName\UniformNameGearName_Head.msbt
 FST000	{[0506]}
 CAP000	{[0506]}
+CAP001	{[0506]}
 CAP002	{[0506]}
 CAP003	{[0506]}
+CAP004	{[0506]}
 CAP005	{[0506]}
 CAP012	{[0506]}
 CAP020	{[0506]}
 CAP021	{[0506]}
+CAP023	{[0506]}
+CAP024	{[0506]}
 CAP028	{[0506]}
 CAP036	{[0506]}
+NCP001	{[0506]}
 NCP008	{[0506]}
+NCP009	{[0506]}
+EYE000	{[0506]}
 EYE001	{[0506]}
 EYE002	{[0506]}
 EYE003	{[0506]}
-EYE007	{[0506]}
 EYE008	{[0506]}
 EYE009	{[0506]}
 EYE011	{[0506]}
 EYE012	{[0506]}
+EYE014	{[0506]}
+EYE015	{[0506]}
 EYE016	{[0506]}
+EYE018	{[0506]}
 EYE021	{[0506]}
 EYE022	{[0506]}
 EYE023	{[0506]}
@@ -6027,9 +6409,12 @@ EYE025	{[0506]}
 EYE026	{[0506]}
 EYE027	{[0506]}
 EYE029	{[0506]}
+EYE031	{[0506]}
+HAT003	{[0506]}
 HAT004	{[0506]}
 HAT006	{[0506]}
 HAT008	{[0506]}
+HAT010	{[0506]}
 HAT015	{[0506]}
 HAT016	{[0506]}
 HAT017	{[0506]}
@@ -6039,14 +6424,24 @@ HDP001	{[0506]}
 HDP004	{[0506]}
 HDP007	{[0506]}
 HDP008	{[0506]}
+HDP009	{[0506]}
 VIS001	{[0506]}
 VIS003	{[0506]}
 VIS004	{[0506]}
+MET004	{[0506]}
+MET006	{[0506]}
 MET007	{[0506]}
+MET009	{[0506]}
 MET012	{[0506]}
 MET013	{[0506]}
 MET014	{[0506]}
+MET016	{[0506]}
+MSK002	{[0506]}
+MSK003	{[0506]}
+MSK004	{[0506]}
 MSK005	{[0506]}
+MSK006	{[0506]}
+MSK007	{[0506]}
 MSK008	{[0506]}
 MSK011	{[0506]}
 MSK014	{[0506]}
@@ -6077,32 +6472,45 @@ MSN109	{[0506]}
 MSN306	{[0506]}
 COP110	{[0506]}
 COP111	{[0506]}
+COP112	{[0506]}
 COP113	{[0506]}
+COP114	{[0506]}
 COP115	{[0506]}
+COP116	{[0506]}
+ACC003	{[0506]}
 TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameGearName_Shoes.msbt
 SLO000	{[0506]}
 SLO008	{[0506]}
 SLO009	{[0506]}
+SLO010	{[0506]}
+SLO012	{[0506]}
 SLO021	{[0506]}
 SLO022	{[0506]}
 SLO023	{[0506]}
 SLO024	{[0506]}
+SLO025	{[0506]}
 SHI000	{[0506]}
 SHI001	{[0506]}
 SHI003	{[0506]}
 SHI004	{[0506]}
 SHI005	{[0506]}
 SHI006	{[0506]}
+SHI008	{[0506]}
+SHI010	{[0506]}
 SHI011	{[0506]}
 SHI016	{[0506]}
 SHI017	{[0506]}
 SHI018	{[0506]}
+SHI025	{[0506]}
 SHI042	{[0506]}
 SHI043	{[0506]}
 SHI045	{[0506]}
+SHI046	{[0506]}
+SHI052	{[0506]}
 SHT000	{[0506]}
 SHT001	{[0506]}
+SHT002	{[0506]}
 SHT004	{[0506]}
 SHT009	{[0506]}
 SHT012	{[0506]}
@@ -6118,6 +6526,7 @@ SDL001	{[0506]}
 SDL003	{[0506]}
 SDL004	{[0506]}
 SDL005	{[0506]}
+SDL006	{[0506]}
 SDL007	{[0506]}
 SDL008	{[0506]}
 SDL010	{[0506]}
@@ -6130,15 +6539,27 @@ TRS000	{[0506]}
 TRS001	{[0506]}
 BOT000	{[0506]}
 BOT001	{[0506]}
+BOT002	{[0506]}
+BOT004	{[0506]}
 BOT006	{[0506]}
 BOT007	{[0506]}
+BOT010	{[0506]}
 BOT012	{[0506]}
+BOT013	{[0506]}
+BOT019	{[0506]}
 BOT020	{[0506]}
 BOT021	{[0506]}
 BOT023	{[0506]}
 BOT025	{[0506]}
+BOT026	{[0506]}
+SLP000	{[0506]}
 SLP002	{[0506]}
+LTS000	{[0506]}
+LTS003	{[0506]}
+LTS005	{[0506]}
+LTS007	{[0506]}
 LTS010	{[0506]}
+LTS011	{[0506]}
 LTS013	{[0506]}
 LTS014	{[0506]}
 AMB000	{[0506]}
@@ -6160,19 +6581,25 @@ AMB015	{[0506]}
 MSN000	{[0506]}
 MSN004	{[0506]}
 MSN306	{[0506]}
+TRG000	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Main.msbt
 Shooter_Short_00	{[0506]}
 Shooter_First_00	{[0506]}
+Shooter_First_01	{[0506]}
 Shooter_Precision_00	{[0506]}
 Shooter_Blaze_00	{[0506]}
+Shooter_Blaze_01	{[0506]}
 Shooter_Normal_00	{[0506]}
+Shooter_Normal_01	{[0506]}
 Shooter_Normal_H	{[0506]}
 Shooter_Gravity_00	{[0506]}
 Shooter_QuickMiddle_00	{[0506]}
 Shooter_Expert_00	{[0506]}
+Shooter_Expert_01	{[0506]}
 Shooter_Heavy_00	{[0506]}
 Shooter_Long_00	{[0506]}
 Blaster_Short_00	{[0506]}
+Blaster_Short_01	{[0506]}
 Blaster_Middle_00	{[0506]}
 Blaster_Long_00	{[0506]}
 Blaster_LightShort_00	{[0506]}
@@ -6182,10 +6609,12 @@ Shooter_TripleQuick_00	{[0506]}
 Shooter_TripleMiddle_00	{[0506]}
 Shooter_Flash_00	{[0506]}
 Roller_Compact_00	{[0506]}
+Roller_Compact_01	{[0506]}
 Roller_Normal_00	{[0506]}
 Roller_Heavy_00	{[0506]}
 Roller_Hunter_00	{[0506]}
 Brush_Mini_00	{[0506]}
+Brush_Mini_01	{[0506]}
 Brush_Normal_00	{[0506]}
 Charger_Quick_00	{[0506]}
 Charger_Normal_00	{[0506]}
@@ -6195,16 +6624,19 @@ Charger_LongScope_00	{[0506]}
 Charger_Light_00	{[0506]}
 Charger_Keeper_00	{[0506]}
 Slosher_Strong_00	{[0506]}
+Slosher_Strong_01	{[0506]}
 Slosher_Diffusion_00	{[0506]}
 Slosher_Launcher_00	{[0506]}
 Slosher_Bathtub_00	{[0506]}
 Slosher_Washtub_00	{[0506]}
 Spinner_Quick_00	{[0506]}
+Spinner_Quick_01	{[0506]}
 Spinner_Standard_00	{[0506]}
 Spinner_Hyper_00	{[0506]}
 Spinner_Downpour_00	{[0506]}
 Spinner_Serein_00	{[0506]}
 Maneuver_Short_00	{[0506]}
+Maneuver_Short_01	{[0506]}
 Maneuver_Normal_00	{[0506]}
 Maneuver_Gallon_00	{[0506]}
 Maneuver_Dual_00	{[0506]}
@@ -6216,6 +6648,9 @@ Stringer_Short_00	{[0506]}
 Shelter_Compact_00	{[0506]}
 Saber_Normal_00	{[0506]}
 Saber_Lite_00	{[0506]}
+Shooter_QuickLong_00	{[0506]}
+Roller_Wide_00	{[0506]}
+Charger_Pencil_00	{[0506]}
 CommonMsg\UniformName\UniformNameWeaponName_Special.msbt
 SpInkStorm	{[0506]}
 SpUltraShot	{[0506]}
@@ -6357,6 +6792,8 @@ District	鰻鯰區
 Yagara	煙管魚市場
 Temple	竹蟶疏洪道
 Scrap	魚肉碎金屬
+BigSlope	臭魚乾溫泉
+Jyoheki	比目魚住宅區
 Kaisou	真鯖跨海大橋
 Pivot	金眼鯛美術館
 Hiagari	鬼頭刀SPA度假區
@@ -6365,6 +6802,13 @@ Nagasaki	鱘魚造船廠
 Line	座頭購物中心
 Carousel	醋飯海洋世界
 Unknown	？？？
+CommonMsg\VS\XRankingRegion.msbt
+Pacific_Short	{[032c|0000803f00000000]}組別‧暇古
+Pacific_Detail	日本/香港/韓國/澳洲/紐西蘭
+Pacific_Short_Plain	組別‧暇古
+Atlantic_Short	{[032b|0000803f00000000]}組別‧艾洛眼
+Atlantic_Detail	美洲大陸/歐洲
+Atlantic_Short_Plain	組別‧艾洛眼
 CommonMsg\Weapon\WeaponExp_Special.msbt
 SpInkStorm	投擲可以製造墨汁雨雲的裝置。\n墨汁雨雲會從落地點開始緩慢移動。
 SpUltraShot	發射旋轉飛行的強力墨汁，最多發射3次。\n按下{[030c|0000803f00000000]}可以同時發射3發墨汁。
@@ -6399,16 +6843,21 @@ LineMarker	會以直線飛行\n並在行經之處留下線條的次要武器。\
 CommonMsg\Weapon\WeaponName_Main.msbt
 Shooter_Short_00	廣域標記槍
 Shooter_First_00	新葉射擊槍
+Shooter_First_01	楓葉射擊槍
 Shooter_Precision_00	窄域標記槍
 Shooter_Blaze_00	專業模型槍MG
+Shooter_Blaze_01	專業模型槍RG
 Shooter_Normal_00	斯普拉射擊槍
+Shooter_Normal_01	斯普拉射擊槍 聯名
 Shooter_Normal_H	英雄射擊槍 複製
 Shooter_Gravity_00	.52加侖
 Shooter_QuickMiddle_00	N-ZAP85
 Shooter_Expert_00	頂尖射擊槍
+Shooter_Expert_01	頂尖射擊槍 聯名
 Shooter_Heavy_00	.96加侖
 Shooter_Long_00	噴射清潔槍
 Blaster_Short_00	新星爆破槍
+Blaster_Short_01	新星爆破槍 新型
 Blaster_Middle_00	火熱爆破槍
 Blaster_Long_00	遠距爆破槍
 Blaster_LightShort_00	衝塗爆破槍
@@ -6418,10 +6867,12 @@ Shooter_TripleQuick_00	L3捲管槍
 Shooter_TripleMiddle_00	H3捲管槍
 Shooter_Flash_00	開瓶噴泉槍
 Roller_Compact_00	碳纖維滾筒
+Roller_Compact_01	碳纖維滾筒 裝飾
 Roller_Normal_00	斯普拉滾筒
 Roller_Heavy_00	電動馬達滾筒
 Roller_Hunter_00	可變式滾筒
 Brush_Mini_00	巴勃羅
+Brush_Mini_01	巴勃羅‧新藝術
 Brush_Normal_00	北齋
 Charger_Quick_00	魷快潔α
 Charger_Normal_00	斯普拉蓄力狙擊槍
@@ -6431,16 +6882,19 @@ Charger_LongScope_00	4K準星槍
 Charger_Light_00	14式竹筒槍‧甲
 Charger_Keeper_00	高壓油管槍
 Slosher_Strong_00	飛濺潑桶
+Slosher_Strong_01	飛濺潑桶 裝飾
 Slosher_Diffusion_00	洗筆桶
 Slosher_Launcher_00	迴旋潑桶
 Slosher_Bathtub_00	滿溢泡澡潑桶
 Slosher_Washtub_00	爆炸潑桶
 Spinner_Quick_00	斯普拉旋轉槍
+Spinner_Quick_01	斯普拉旋轉槍 聯名
 Spinner_Standard_00	桶裝旋轉槍
 Spinner_Hyper_00	消防栓旋轉槍
 Spinner_Downpour_00	圓珠筆
 Spinner_Serein_00	鸚鵡螺號47
 Maneuver_Short_00	濺鍍槍
+Maneuver_Short_01	濺鍍槍‧新藝術
 Maneuver_Normal_00	斯普拉機動槍
 Maneuver_Gallon_00	開爾文525
 Maneuver_Dual_00	雙重清潔槍
@@ -6452,6 +6906,9 @@ Stringer_Short_00	LACT-450
 Shelter_Compact_00	特務配件
 Saber_Normal_00	工作刮水刀
 Saber_Lite_00	雨刷刮水刀
+Shooter_QuickLong_00	太空射擊槍
+Roller_Wide_00	寬滾筒
+Charger_Pencil_00	R-PEN/5H
 Blaster_Light_Coop	快速爆破槍
 Blaster_LightLong_Coop	快速爆破槍 精英
 Blaster_LightShort_Coop	衝塗爆破槍
@@ -6504,8 +6961,12 @@ Stringer_Normal_Coop	三發獵魚弓
 Stringer_Short_Coop	LACT-450
 Saber_Normal_Coop	工作刮水刀
 Saber_Lite_Coop	雨刷刮水刀
+Shooter_QuickLong_Coop	太空射擊槍
+Roller_Wide_Coop	寬滾筒
+Charger_Pencil_Coop	R-PEN/5H
 Blaster_Bear_Coop	熊先生印章爆破槍
 Charger_Bear_Coop	熊先生印章狙擊槍
+Saber_Bear_Coop	熊先生印章刮水刀
 Shelter_Bear_Coop	熊先生印章防空傘
 Slosher_Bear_Coop	熊先生印章潑桶
 Stringer_Bear_Coop	熊先生印章獵魚弓
@@ -6669,6 +7130,10 @@ Blaster	爆破槍
 Brush	畫筆
 Stringer	獵魚弓
 Saber	刮水刀
+EventFlowMsg\LobbyCoop_BigRunTutorial.msbt
+Comment_00	歡迎你來到這裡，{[0100|0f000000]}\n我已經等你很久了。{[0004]}你是看了{color[0100]}大型跑{color[ffff]}的招募廣告才來的嗎？{[0100|1e000000]}\n因為現在人手不足……你的到來真是幫了大忙呢。
+Comment_01	對了……我想你可能也已經知道，\n目前發生了{color[0100]}大型跑{color[ffff]}。
+Comment_02	所謂的{color[0100]}大型跑{color[ffff]}，就是指原本待在自己地盤內的鮭魚\n開始朝城鎮附近蜂擁而至的現象。{[0004]}必須在城鎮遭受損害之前阻止鮭魚……{[0100|1e000000]}\n雖然辛苦，但這也是熊先生商會背負的使命喔。{[0004]}現在，希望你們可以伸出援手，完成這項保護城鎮的重要工作，{[0100|1e000000]}\n要是可以順便收集金鮭魚卵的話，那就更好了……{[0004]}雖然責任重大，但是也能相對獲得比平時{color[0100]}更豐厚的報酬{color[ffff]}，\n如果成功地撐過了大型跑，我還會贈送{color[0100]}特殊的裝飾品{color[ffff]}喔！{[0004]}在開始打工之前，\n先來和我交談並按下{[0306|0000803f00000000]}確認細節吧。{[0004]}那後續就麻煩各位幫忙了，{[0100|1e000000]}\n期待你們有亮眼的活躍表現喔！
 EventFlowMsg\LobbyCoop_RankShortage.msbt
 Comment_00	歡迎你來到這裡……{[0004]}……嗯？抱歉了，\n不夠魷型的人是不會被我錄取。{[0004]}等你達到{color[0100]}等級4{color[ffff]}之後再來吧。
 EventFlowMsg\LobbyCoop_Tutorial00.msbt
@@ -6717,6 +7182,12 @@ AfterFirstBattle_01	你目前持有的名牌\n好像還沒有{color[0100]}登錄
 AfterFirstBattle_02	在參加下一場對戰之前，\n先透過那台{color[0100]}大廳設備{color[ffff]}登錄玩家名稱吧！
 AfterFirstBattle_Reward_00	你目前持有的名牌\n似乎還留有一些以前的舊資料。{[0004]}我來幫你啟用留下來的資料吧……
 AfterFirstBattle_Reward_01	不過需要重新登錄玩家名稱喔！
+EventFlowMsg\LobbyVersus_FestMikoshi100.msbt
+000	恭喜你在100倍比賽中獲勝！！
+001	你以絕佳的表現炒熱了祭典的氣氛！\n現在可以搭乘廣場的{color[0100]}神轎{color[ffff]}拍攝照片囉！{[0004]}從位於廣場的{color[0100]}祭典投票所{color[ffff]}搭乘神轎，\n和超魷型的同伴們一起留下充滿回憶的照片吧！
+EventFlowMsg\LobbyVersus_FestMikoshi333.msbt
+000	恭喜你在333倍比賽中獲勝！！！
+001	你以絕佳的表現炒熱了祭典的氣氛！\n現在可以搭乘廣場的{color[0100]}神轎{color[ffff]}拍攝照片囉！{[0004]}從位於廣場的{color[0100]}祭典投票所{color[ffff]}搭乘神轎，\n和超魷型的同伴們一起留下充滿回憶的照片吧！
 EventFlowMsg\LobbyVersus_FirstEnter.msbt
 FirstEnter_00	歡迎來到{color[0100]}大廳{color[ffff]}！\n對戰所需的設備全都在這裡喔！
 FirstEnter_01	只要在這裡參加對戰\n就能提升{color[0100]}等級{color[ffff]}並獲得{color[0100]}金錢{color[ffff]}！{[0004]}提升{color[0100]}等級{color[ffff]}後，\n在商店裡{color[0100]}能買的東西{color[ffff]}就會變多……{[0004]}還能解鎖{color[0100]}新的對戰模式{color[ffff]}……\n會增加各種超魷型的要素喔！
@@ -6742,6 +7213,18 @@ UnlockBankaraMatch_00	你已經是個獨當一面的超魷型玩家了！\n現�
 UnlockBankaraMatch_01	進入對戰壺之後，\n在參加蠻頹比賽前按下{[0306|0000803f00000000]}{color[0100]}確認規則{color[ffff]}吧！
 UnlockBankaraMatch_02	此外……\n蠻頹比賽還有分為{color[0100]}挑戰{color[ffff]}跟{color[0100]}開放{color[ffff]}2種形式喔！{[0004]}如果猶豫不決的話建議先選擇{color[0100]}挑戰{color[ffff]}！{[0004]}{color[0100]}挑戰{color[ffff]}是以獨立身分參賽的形式，\n和相遇的同伴組成隊伍取勝吧！{[0004]}如果要和朋友一起參賽或是只想短時間遊玩的話，\n那就選擇{color[0100]}開放{color[ffff]}吧！
 UnlockBankaraMatch_03	當然你也可以像之前一樣參加一般比賽獲得經驗值，\n選擇你想要模式去參加吧！{[0004]}祝你百戰百勝！
+EventFlowMsg\LobbyVersus_UnlockXMatch.msbt
+XMatchOpen_00	你已經是個超魷型的玩家了！
+XMatchOpen_01	在技術S+之中，還分為S+{size[4b00]}0{size[6400]}到S+{size[4b00]}50{size[6400]}喔！\n接下來就繼續邁向更高的境界吧！
+XMatchOpen_02	此外，你還獲得了{color[0100]}X比賽{color[ffff]}的參賽權喔！
+XMatchOpen_03	在X比賽中，會隨著勝敗有所變動的{color[0100]}X戰力{color[ffff]}\n將會取代技術點數成為對戰的籌碼。
+XMatchOpen_04	如果X戰力名列前茅的話，還能登上X排名喔！\n透過《{color[0100]}魷魚圈 3{color[ffff]}》查看X排名吧！
+XMatchOpen_05	X排名會在{color[0100]}賽季交替時重置{color[ffff]}喔！\n所以每個賽季都能以煥然一新的心情挑戰X比賽！
+XMatchOpen_07	祝你百戰百勝！
+EventFlowMsg\LobbyVersus_XRankingReward.msbt
+XRankingReward_00	這裡有個消息\n要通知在X比賽中展現了超魷型風範的你！
+XRankingReward_01	恭喜！\n前賽季的X排名已經確定了，你的名次提升囉！
+XRankingReward_02	快透過《{color[0100]}魷魚圈 3{color[ffff]}》確認名次吧！
 EventFlowMsg\Mission_AfterBreakKebaInkTutorial.msbt
 Comment_00	哦，牠把核心吃掉了！！{[0100|1e000000]}\n那小巧的身軀還真是充滿了力量呢！
 Comment_01	這樣一來就能繼續前進了！
@@ -7259,6 +7742,76 @@ Comment_14	魟！{[0405]}（大姊頭——！）\x0f\x04\x05
 Comment_15	哇——！\n小螢，你好厲害喔！
 Comment_16	一口氣收了好幾個小弟呢！{[0100|1e000000]}\n好羨慕喔——！
 Comment_17	這下事情麻煩了……
+EventFlowMsg\News_BigRunAnnounce.msbt
+000	魟魟！{[0405]}（新聞快報！新聞快報——！）\x0f\x04\x05
+001	怎麼了？你臉色都發白了耶。
+002	魟！{[0405]}（我收到熊先生商會的緊急通知！）\x0f\x04\x05
+003	什麼嘛，想招人打工可以不用這麼急吧……
+004	什麼！？{color[0100]}大型跑{color[ffff]}警報！？
+005	那代表鮭魚馬上就要來襲了吧！？
+006	吼吼魟——！{[0405]}（成群的鮭魚正在逼近{color[0100]}醋飯海洋世界{color[ffff]}！\n怎、怎、怎麼辦——！？）\x0f\x04\x05
+007	看來鮭魚也喜歡遊樂園呢……
+008	魟！？{[0405]}（牠們該不會是打算利用醋飯海洋世界\n來占領我們的城鎮吧！？）\x0f\x04\x05
+009	嗯～誰知道呢……
+010	總之，既然牠們不請自來，\n那我們也得好好地「招待」一下才行吧？
+011	絕對不能把我們寶貴的遊樂場所讓給那群鮭魚！\n對吧，鬼福！
+012	吼、魟！\n{[0405]}（是啊，而且熊先生商會似乎也有所準備了……）\x0f\x04\x05
+013	魟——{[0405]}（對了，如果當天有協助熊先生商會的話，\n好像還可以拿到禮物呢。）\x0f\x04\x05
+014	好！我一定要拿到！
+015	所有人都聽好囉！\n等大型跑開始之後就到熊先生商會集合！
+016	我們要靠毅力保護城鎮！
+EventFlowMsg\News_BigRunBeingHeld.msbt
+000	聽說因為現在發生了大型跑，\n所以醋飯海洋世界臨時停業了。
+001	都是鮭魚害的，難得的週末全都泡湯了……
+002	{color[0100]}熊先生商會{color[ffff]}正在大舉招募打工的人手\n前往現場處理此狀況！
+003	魟！{[0405]}（大家一起挺身對抗鮭魚吧！）\x0f\x04\x05
+004	我記得你說過\n只要參加打工就可以拿到禮物對吧？
+005	嘻嘻嘻……那怎麼能不參加呢？
+006	魟？{[0405]}（這可是為了保護城鎮的工作喔？）\x0f\x04\x05
+EventFlowMsg\News_BigRunBeingHeld_Short.msbt
+000	因為受到大型跑的影響，\n醋飯海洋世界現在變得一團亂了。
+001	魟！{[0405]}（願意提供協助的人還請前往熊先生商會！）\x0f\x04\x05
+100	絕對不能把我們的醋飯海洋世界讓給那群鮭魚！
+101	魟魟！{[0405]}（沒錯——！）\x0f\x04\x05
+110	吼魟！？{[0405]}（話說會來，沒想到鮭魚會盯上遊樂園……\n難道是為了讓我們內心受挫才使用這種戰略嗎！？）\x0f\x04\x05
+111	牠們應該沒有想那麼多吧。
+120	不知道吉祥物魚奇奇是否平安無事……
+121	搞不好會跟鮭魚變成朋友呢。
+EventFlowMsg\News_BigRunEnd.msbt
+000	魟！！{[0405]}（剛才收到了一則新聞！！）\x0f\x04\x05
+001	是什麼？
+002	魟魟～！\n{[0405]}（湧入醋飯海洋世界的鮭魚已經回到海裡了！！）\x0f\x04\x05
+003	真的嗎！？
+004	看來是我們大獲全勝呢！！
+005	知道厲害了吧！！
+006	所以呢？\n我們可以拿到什麼禮物！？
+007	魟！{[0405]}（熊先生商會好像正在確認打工記錄，\n在結果公布之前，再耐心地多等一下吧！）\x0f\x04\x05
+EventFlowMsg\News_BigRunResult.msbt
+000	魟！{[0405]}（在進行場地介紹之前先插播一則新聞快報！）\x0f\x04\x05
+001	是什麼？看你一臉高興的樣子。
+002	魟魟！{[0405]}（{color[0100]}大型跑{color[ffff]}的結果出爐了——！）\x0f\x04\x05
+003	哦——！終於來了啊——！！
+004	……咦？什麼？來自熊先生商會的訊息？
+005	嗯～\n「在此要誠摯地感謝您本次的鼎力相助」
+006	「我們根據最高分數為您準備了一份相應的小禮物，\n　還請笑納」……就這樣！
+007	嗯，真是令人期待耶！
+008	那就來公布結果吧！\n可以拿到好東西的{color[0100]}最高分數{color[ffff]}基準線是……
+009	快！快說！！
+010	噔噔噔噔～
+011	魟魟魟魟～
+012	{size[9600]}砰！{size[6400]}
+013	{size[9600]}魟！{size[6400]}
+014	居、居然有人拿到了那麼高的分數嗎！？
+015	魟～！！{[0405]}（太優秀了！！）\x0f\x04\x05
+016	即使沒有達到這個分數也可以儘管放心，\n所有人都一樣會拿到禮物喔～
+017	魟……{[0405]}（呼……）\x0f\x04\x05
+100	魟！{[0405]}（我原本一時之間還在擔心事情會怎麼發展，\n不過都是多虧大家的幫忙才能成功地守住城鎮！）\x0f\x04\x05
+101	嗯，那群鮭魚現在應該知道\n我們蠻頹之民的厲害了！
+102	大家真的都做得很棒！\n在此我要代表蠻頹向各位致謝！
+103	啊——\n我已經開始想搭久違的雲霄飛車了！
+104	魟～{[0405]}（畢竟這陣子的私人行程都沒有去那裡呢～）\x0f\x04\x05
+105	嗯，那等恢復營業之後就3個人一起去吧！
+106	好耶！就這麼說定了！！
 EventFlowMsg\News_Coop.msbt
 001	是熊先生商會發布的\n打工招募告示呢。
 002	要是被鮭魚給看低的話可就輸囉！
@@ -7334,15 +7887,15 @@ EventFlowMsg\News_FestIntermediate.msbt
 007	{size[8200]}魟！{size[6400]}
 100	魟！{[0405]}（本來還以為我們這一隊會是第1名耶～！）\x0f\x04\x05
 101	呵呵呵♪真是不好意思呢，\n我們可能就要這樣一路贏下去囉～
-102	好，所有隊員，相信我然後追隨我的腳步吧！\n接下來就能發動{color[0100]}三色奪寶攻擊{color[ffff]}了！！
+102	好，所有隊員，相信我然後追隨我的腳步吧！\n接下來就能發動{color[0100]}三色奪寶比賽{color[ffff]}了！！
 103	魟！{[0405]}（同心協力逆轉戰局吧！\n在最後一刻來臨之前，誰勝誰負還很難說呢！）\x0f\x04\x05
 110	他們拿下了第1名！？不可能吧！？
 111	好耶——！！\n我們的隊伍會憑著這股氣勢直接獲勝的！
-112	魟！{[0405]}（各位，我們還是有機會的喔！\n接下來就能發動{color[0100]}三色奪寶攻擊{color[ffff]}了！！）\x0f\x04\x05
+112	魟！{[0405]}（各位，我們還是有機會的喔！\n接下來就能發動{color[0100]}三色奪寶比賽{color[ffff]}了！！）\x0f\x04\x05
 113	一鼓作氣超前領先吧～！！\n讓那些人見識一下我們這一隊的潛力！
 120	唔～！居然被超前了……
 121	吼魟～！{[0405]}（很好～非常棒喔！\n各位，就這樣維持在第1名奮戰到最後吧！！）\x0f\x04\x05
-122	休想，接下來才是緊要關頭！\n準備好了嗎？發動{color[0100]}三色奪寶攻擊{color[ffff]}吧！！
+122	休想，接下來才是緊要關頭！\n準備好了嗎？發動{color[0100]}三色奪寶比賽{color[ffff]}吧！！
 123	好，開始反攻！\n我們可不會就這樣直接認輸喔！！
 EventFlowMsg\News_FestMatchVersusStage.msbt
 000	祭典比賽目前的場地是這裡！
@@ -7365,7 +7918,7 @@ EventFlowMsg\News_FestResult.msbt
 009	魟！{[0405]}（我可不會輸喔～！）\x0f\x04\x05
 010	哦，居然是這種結果呢！
 011	魟！？{[0405]}（然後呢！？）\x0f\x04\x05
-012	再來是{color[0100]}貢獻度{color[ffff]}，看是哪個地區的祭典反應最火熱！\n開放跟挑戰的結果將會同時公布！
+012	再來是{color[0100]}貢獻度{color[ffff]}，看哪個隊伍最能炒熱祭典的氣氛！\n開放、挑戰、三色奪寶的結果將會同時公布！
 013	同時公布！？先、先等一下！\n我還沒做好心理準備啦！
 014	哦——！！？
 015	魟！！
@@ -7414,14 +7967,32 @@ Comment_02	蠻頹電台時光——！！！
 Comment_03	魟！{[0405]}（要開始囉！）\x0f\x04\x05
 Comment_04	我等今日也將盡情揮灑墨汁……\n塗塗塗～！塗遍每一個角落！
 Comment_05	魟魟！{[0405]}（喲！宛如大白鯊——！）\x0f\x04\x05
+EventFlowMsg\News_Season02.msbt
+000	{color[0100]}新賽季{color[ffff]}開始囉～！
+001	哦——！！
+002	魟～！{[0405]}（轉換心境迎接新的開始吧！）\x0f\x04\x05
+003	{color[0100]}X比賽{color[ffff]}已經開放了！
+005	魟～！{[0405]}（技術達到{color[0100]}S+{size[4b00]}0{size[6400]}以上{color[ffff]}就可以參加囉！）\x0f\x04\x05
+006	站上顛峰的人將會是我！！
+007	也有追加{color[0100]}新武器{color[ffff]}呢！
+008	魟！{[0405]}（好耶！）\x0f\x04\x05
+008_01	哦……
+009	我已經開始期待武器子的解說了……
+010	而且還追加了{color[0100]}新場地{color[ffff]}！
+011	魟魟！{[0405]}（真好奇對戰時會是什麼感覺呢～！）\x0f\x04\x05
+012	反正已經成為候選的{color[0100]}對戰場地{color[ffff]}了，\n就先期待一下吧！
+013	好想趕快去大鬧一場喔！
+EventFlowMsg\News_SeasonPost.msbt
+001	……總之就是這樣，\n到了新賽季也要好好地加油喔～！
+002	全力以赴，向前衝——！！
 EventFlowMsg\News_TricolorVersusStage.msbt
-000	接下來，三色奪寶攻擊的場地是這裡！
+000	接下來，三色奪寶比賽的場地是這裡！
 001	上吧，鬼福！\n給第1名那些傢伙一點顏色瞧瞧！！
 002	魟！{[0405]}（OK！不過最後\n肯定會是我這一隊獲勝啦！）\x0f\x04\x05
-003	魟！{[0405]}（莎莎！現在就先互相配合，\n阻止第1名的隊伍獲勝吧！）\x0f\x04\x05
-004	好啊！\n不過最後開懷大笑將會是我這一隊！
-005	曼曼，在發動三色奪寶攻擊時我們就先暫且休兵，\n一起把第1名的隊伍拉下來吧！
-006	好啊！！不過這場祭典的勝利\n會由我這一隊拿下的！
+003	魟！{[0405]}（莎莎！現在就先互相配合，\n阻止第1名的人獲勝吧！）\x0f\x04\x05
+004	畢竟我們都是進攻隊伍的啊。\n不過最後開懷大笑將會是我！
+005	曼曼，我們都是進攻隊伍時就先暫且休兵，\n一起把第1名拉下來吧！
+006	好啊！！不過這場祭典的勝利\n會由我拿下的！
 EventFlowMsg\News_UpdateInfo.msbt
 000	魟魟！{[0405]}（有更新通知喔！）\x0f\x04\x05
 001	哦！更新了什麼呢？
@@ -7458,6 +8029,18 @@ EventFlowMsg\Plaza_Intro.msbt
 005	言歸正傳……\n不管怎樣，採取行動就對了！
 006	你可以前往{color[0100]}大廳{color[ffff]}參加對戰，\n也可以去查看一下那個{color[0100]}可疑的老人{color[ffff]}！
 007	祝你好運！
+LayoutMsg\Catalog_Base_00.msbt
+L_Catalog_00-T_Max_00	MAX
+L_Catalog_00-T_Rank_00	目錄等級
+L_Guide_00-T_Info_00	返回
+001	卡包
+002	新鮮卡包
+003	別名
+004	背景
+005	神秘禮盒
+006	美食券
+007	飲料券
+100	第{[0200|00030000]}本
 LayoutMsg\Cmn_Album_00.msbt
 T_Photo_00	全部
 T_Photo_01	{[0200|00030001]}
@@ -7529,9 +8112,12 @@ T_Explain_01	如果不兌換裝備，將會更換為其他物品。
 LayoutMsg\Cmn_CoopMatch_00.msbt
 L_StartBtn_00-T_Btn_01	準備OK！
 210	選擇武器
-211	選擇故事
+211	選擇打工劇本
+212	選擇武器
+213	重置設定
 L_HoldCancelBtn_00-T_Info_00	取消
 L_HoldCancelBtn_01-T_Info_00	解散房間
+L_HoldCancelBtn_03-T_Info_00	解散房間
 L_HoldCancelBtn_02-T_Info_00	離開房間
 010	關閉
 000	正在等待成員會合
@@ -7549,6 +8135,7 @@ T_StageHeader_00	場地
 230	自訂
 T_LevelHeader_00	危險度
 110	確定！
+111	確定！
 200	{[0200|00030000]}%
 180	隨機
 T_WpnHeader_00	派發武器
@@ -7557,6 +8144,8 @@ L_GuideNotify_00-T_Btn_00	Y
 L_PlayerName_00-T_Wait_00	招募中……
 T_Rank_00	報酬量表
 L_Meter_00-T_NextReward_00	離下次取得稀有報酬仍需
+T_ScoreHeader_00	最高分數
+T_WpnCstm_00	可選擇
 LayoutMsg\Cmn_CountDownFinish_00.msbt
 T_Finsh_01	Finish!
 LayoutMsg\Cmn_CstAmiiboMyset_00.msbt
@@ -7777,12 +8366,18 @@ T_Info_00	拍攝！
 205	姿勢6
 206	姿勢7
 207	姿勢8
+208	姿勢9
+209	姿勢10
+210	姿勢11
+211	姿勢12
 T_Text_00	請決定站立位置
 300	蠻頹鎮
 T_Push_00	按下
 T_Info_07	切換方向
 T_Date_01	日期
 T_Stage_01	景點名稱
+400	景點名稱
+401	祭典別名
 T_Player_00	玩家名稱
 T_Guide_00	操作導引
 L_Timer_00-T_BtnL_00	無
@@ -7793,6 +8388,7 @@ T_Timer_00	計時器
 T_Gear_00	amiibo裝備
 T_Pause_00	玩家姿勢
 T_Pause_01	amiibo姿勢
+L_Switch_01-T_Msg_00	僅限於符合條件的情況下\n才會顯示。
 LayoutMsg\Cmn_Menu_00.msbt
 L_Tab_00-T_Text_00	地圖
 L_Tab_01-T_Text_00	場地資訊
@@ -7818,14 +8414,16 @@ L_BtnStage_00-T_WhiteText_00	一般比賽
 L_BtnStage_00-T_BlackText_00	一般比賽
 L_BtnStage_01-T_WhiteText_00	蠻頹比賽\n{size[4b00]}（挑戰）{size[6400]}
 L_BtnStage_01-T_BlackText_00	蠻頹比賽\n{size[4b00]}（挑戰）{size[6400]}
+L_BtnStage_02-T_WhiteText_00	X比賽
+L_BtnStage_02-T_BlackText_00	X比賽
 L_BtnStage_04-T_WhiteText_00	SALMON  RUN
 L_BtnStage_04-T_BlackText_00	SALMON  RUN
 L_BtnStage_05-T_WhiteText_00	蠻頹比賽\n{size[4b00]}（開放）{size[6400]}
 L_BtnStage_05-T_BlackText_00	蠻頹比賽\n{size[4b00]}（開放）{size[6400]}
 L_BtnFestStage_00-T_WhiteText_00	祭典比賽
 L_BtnFestStage_00-T_BlackText_00	祭典比賽
-L_BtnFestStage_01-T_WhiteText_00	三色奪寶攻擊
-L_BtnFestStage_01-T_BlackText_00	三色奪寶攻擊
+L_BtnFestStage_01-T_WhiteText_00	三色奪寶比賽
+L_BtnFestStage_01-T_BlackText_00	三色奪寶比賽
 L_BtnFestStage_02-T_WhiteText_00	SALMON  RUN
 L_BtnFestStage_02-T_BlackText_00	SALMON  RUN
 100	現在
@@ -7833,6 +8431,7 @@ L_Stage_03-T_Mode_00	現在
 L_Stage_01-T_Mode_01	下次
 L_Stage_02-T_Mode_01	下下次
 L_Bottom_03-T_Info_00	返回
+120	大型跑
 L_Player_00-T_WhiteText_00	裝備
 L_Player_00-T_BlackText_00	裝備
 L_Player_01-T_WhiteText_00	目錄
@@ -7845,11 +8444,14 @@ L_BtnNpl_00-T_Edit_00	更改
 L_Rank_00-T_RankHeader_00	等級
 T_Max_00	COMPLETE!!
 T_UdemaeTitle_00	技術
+T_XPower_00	X戰力
 T_Catalog_00	透過雜貨店即可取得目錄。
+L_BtnCatalog_00-T_WhiteText_00	顯示更多
+L_BtnCatalog_00-T_BlackText_00	顯示更多
 L_NextItem_00-T_NextItem_00	下一個道具
 T_MaxNext_00	到雜貨店去領取最後的道具吧！
 240	{size[4b00]}等級{size[6400]}{[0200|00030000]}
-250	{[0201|0010]}為止
+250	{d}為止
 T_Count_01	碎片持有數
 201	×{[0200|00030000]}
 L_BtnCard_00-T_WhiteText_00	卡片清單
@@ -8015,6 +8617,25 @@ L_ReasonReport_00-T_Report_00	詳細狀況
 T_Player_00	玩家：
 LayoutMsg\Cmn_Save_00.msbt
 T_Save_00	儲存完成
+LayoutMsg\Cmn_SeasonRecord_00.msbt
+000	X比賽結果公布
+001	蠻頹比賽最終結果
+002	新賽季的技術已定！
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]}  ～  {[0201|010c]}
+101	{[0201|000c]}  ～  {[0201|010c]}
+L_Record_00-T_Max_00	最高：
+L_Record_00-T_Fix_00	最終：
+L_Record_00-T_NoRecord_00	沒有記錄
+L_Record_00-T_Rank_00	預估
+200	第{[0200|00050000]}名
+T_Rule_00	真格區域
+T_Rule_01	真格塔樓
+T_Rule_02	真格魚虎對戰
+T_Rule_03	真格蛤蜊
+300	透過網路服務《{color[0100]}魷魚圈 3{color[ffff]}》\n即可確認排名的細節。\n\n在名次確定時，如果有進入一定的名次之內，\n即可在{color[0100]}大廳{color[ffff]}領取禮物。
+T_UdemaeTitle_00	技術
+T_UdemaeMsg_00	在下個賽季中繼續朝「技術」的顛峰邁進吧！
 LayoutMsg\Cmn_SelectFestPlace_00.msbt
 T_Msg_00	要參加哪個地區的祭典？\n※如果選擇的地區與實際遊玩的地點不同，\n　將有可能無法順暢地參與祭典。
 L_BackBtn_00-T_Btn_00	返回
@@ -8042,6 +8663,7 @@ L_Menu_00-T_Info_00	選單
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	技術
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	前往完成{color[0100]}祭典投票{color[ffff]}！
+L_PlayerStatus_00-T_AnnounceCoop_00	前往{color[0100]}熊先生商會{color[ffff]}！
 LayoutMsg\Cmn_SystemWindowChallenge_00.msbt
 000	確定要支付技術點數{color[0100]}{[0200|00030000]}p{color[ffff]}\n挑戰蠻頹比賽嗎？
 001	下一場比賽是{color[0100]}晉級戰{color[ffff]}！\n確定要支付技術點數{color[0100]}{[0200|00030000]}p{color[ffff]}挑戰嗎？
@@ -8063,6 +8685,12 @@ BtnR_ConfirmLimitOnlinePlay	OK！
 Msg_ConfirmLimitOnlinePlay2	如果登錄的名稱違反了Nintendo Account使用條款，\n線上遊玩的功能將有可能受到限制。
 BtnL_ConfirmLimitOnlinePlay2	取消
 BtnR_ConfirmLimitOnlinePlay2	OK！
+LayoutMsg\Cmn_SystemWindowPlace_00.msbt
+T_Msg_00	要在哪裡搭乘神轎？
+L_Btn_00-T_Btn_00	投票所前
+L_Btn_01-T_Btn_00	後巷
+L_Btn_02-T_Btn_00	商店前
+L_Btn_03-T_Btn_00	返回
 LayoutMsg\Cmn_SystemWindowSaveData_00.msbt
 T_Msg_00	已發現《斯普拉遁 2》的儲存資料，\n可以將該資料繼承至本遊戲。
 000	★{[0200|00030000]}
@@ -8132,6 +8760,8 @@ LayoutMsg\Cmn_VersusMatch_02.msbt
 013	請稍待片刻……
 014	完成準備之後就能參加對戰
 020	技術
+021	X戰力
+022	計算中……{[0200|00010000]}/{[0200|01010000]}
 T_StageHeader_00	場地
 L_StartBtn_00-T_Btn_01	準備OK！
 L_StartBtn_01-T_Btn_01	以目前的成員\n開始！
@@ -8143,14 +8773,23 @@ L_PlayerName_00-T_Wait_00	招募中……
 L_GuideNotify_00-T_Btn_00	Y
 L_Power_00-T_FestPow_00	貢獻度
 L_FestItemAll_00-T_Max_00	MAX
+LayoutMsg\Cmn_WindowCatalog_00.msbt
+000	目錄記錄
+L_Btn_00-T_Info_00	OK
+100	{[0201|000c]}  ～  {[0201|010c]}
+T_Catalog_00	目錄等級
+200	{[0200|00050000]}
+T_Attain_00	達成！
 LayoutMsg\Cmn_WindowGet_00.msbt
 T_SubTitle_00	本次的稱號
 L_Icon_00-T_Text_00	×
 000	{[0200|00050000]}
 001	×{[0200|00020000]}
 002	{[0200|00050000]}
+100	來自熊先生商會的禮物
 L_Btn_00-T_Info_00	設置
 L_Btn_01-T_Info_00	OK
+200	{[0201|000c]}  ～  {[0201|010c]}
 LayoutMsg\Cmn_WindowMng_00.msbt
 T_Text_00	確定要和此玩家展開占地鬥士對戰嗎？
 T_Rank_00	占地鬥士等級
@@ -8211,8 +8850,12 @@ LayoutMsg\Coop_ResultDetail_00.msbt
 112	繼續尋找打工機會
 200	要繼續遊玩嗎？
 201	要再次挑戰嗎？
+300	大型跑獎勵
+301	×1.2
 320	×{[0200|00010000]} 獲得！
 500	自訂
+501	SALMON RUN
+502	私人打工
 T_Clear_00	Clear！！
 T_Failure_00	Failure
 T_Rank_01	打工結果
@@ -8251,6 +8894,7 @@ L_Card_00-T_Result_00	GJ！
 L_Card_00-T_Result_01	NG
 L_Card_01-T_Wave_00	WAVE 2
 L_Card_02-T_Wave_00	WAVE 3
+T_Score_00	刷新最高分數！！
 LayoutMsg\Coop_ShopGift_00.msbt
 100	確認報酬！
 101	確認完成
@@ -8332,6 +8976,7 @@ L_GuideBtn_02-T_State_00	切換
 L_PlayerStatus_00-L_Udemae_00-T_UdemaeTitle_00	技術
 L_PlayerStatus_00-L_FestRankGauge_00-T_Max_00	MAX
 L_PlayerStatus_00-L_FestRankGauge_00-T_Vote_00	前往完成{color[0100]}祭典投票{color[ffff]}！
+L_HighScore_00-T_Score_00	最高分數
 LayoutMsg\Lobby_GuideTips_00.msbt
 L_GuideBtn_00-T_Info_00	略過
 LayoutMsg\Lobby_JudgeBalloon_00.msbt
@@ -8380,8 +9025,8 @@ L_GuideBtn_00-T_Info_00	返回
 107	招募中
 108	遊玩中
 109	無法會合
-200	{[0201|0010]} {color[0000]}{[0201|0110]}{color[ffff]}
-201	{color[0000]}{[0201|0010]}{color[ffff]}
+200	{d} {color[0000]}{[0201|0100]}{color[ffff]}
+201	{color[0000]}{d}{color[ffff]}
 LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 000	拿取
 001	放開
@@ -8389,6 +9034,8 @@ LayoutMsg\Lobby_LockerGuideBtn_00.msbt
 L_Operation_01-T_Text_00	收拾
 010	放入盒內
 011	拿到盒外
+012	摺衣
+013	掛上衣架
 L_Operation_05-T_Text_00	選擇照片
 020	關閉
 021	開啟
@@ -8421,15 +9068,17 @@ LayoutMsg\Lobby_MenuMode_00.msbt
 000	一般\n比賽
 001	蠻頹比賽\n{size[4b00]}（挑戰）{size[6400]}
 014	蠻頹比賽\n{size[4b00]}（開放）{size[6400]}
+002	X\n比賽
 004	私人\n比賽
 005	參加\n打工
 006	私人\n打工
+007	大型跑
 008	SALMON\nRUN
 009	私人\n比賽
 010	布陣大戰\n占地鬥士
 011	祭典比賽\n{size[4b00]}（開放）{size[6400]}
 012	祭典比賽\n{size[4b00]}（挑戰）{size[6400]}
-013	三色奪寶攻擊
+013	三色奪寶比賽
 040	塗墨重置
 041	啟動假魷魚
 042	關閉假魷魚
@@ -8437,18 +9086,21 @@ L_Btn_03-T_Friend_00	和朋友
 L_GuideClose_00-T_Info_00	關閉
 L_Btn_00-L_GuideCancel_00-T_Info_00	取消
 070	確認規則
+L_Reset_00-T_Info_00	重置技術
 100	與世界各地的玩家展開占地對戰
 118	自己一人或是和同伴一起展開極限對戰
 101	與全力以赴的人展開極限對戰
+103	突破自我的極限對戰
 104	加入投票選擇的隊伍展開對戰
 105	加入投票選擇的隊伍展開對戰
-106	以逆轉戰局為目標展開三色夾攻對戰
+106	混合了3色墨汁的夾攻對戰
 107	和朋友齊聚一堂自由對戰
 109	與鄰近的玩家自由對戰
 110	與同伴一起收集鮭魚卵
 111	使用自己的牌組進行卡牌對戰
 112	你一定能找到嶄新的自己
 113	與意氣相投的同伴練習打工
+114	充滿成就感，能夠保衛家園的工作
 200	可以自由設定\n規則/場地/隊伍\n和朋友對戰！
 202	可以自由設定\n場地/危險度\n和朋友練習打工！
 203	可以自由設定\n規則/場地/隊伍\n與鄰近的人對戰！
@@ -8474,8 +9126,13 @@ L_PlayerStatus_01-L_Info_00-T_Info_00	重置評價
 L_GuideReward_00-T_Info_00	報酬與點數
 T_Stage_02	場地
 T_Wpn_01	派發武器
-L_Btn_00-T_Title_00	三色奪寶攻擊
+L_HighScore_00-T_Score_00	最高分數
+L_GuideManual_01-T_Info_00	確認規則
+L_Btn_00-T_Title_00	三色奪寶比賽
 501	您的隊伍是中場第1名，無法選擇此項目。\n在祭典比賽（開放）中\n將有可能會發生三色奪寶對戰。
+600	計算中……{[0200|00010000]}/{[0200|01010000]}
+601	X戰力：{[0200|00040000]}.{[0200|01010000]}
+610	預估第{[0200|00040000]}名
 T_VS_00	VS
 L_PlayerStatus_00-L_Choushi_00-T_FestPow_00	貢獻度
 L_PlayerStatus_00-L_Choushi_00-T_FestPowCount_00	計算中……
@@ -8504,11 +9161,12 @@ LayoutMsg\Lobby_Password_00.msbt
 000	確定要建立{color[0100]}一般比賽{color[ffff]}的房間嗎？
 001	確定要建立{color[0100]}蠻頹比賽{color[ffff]}的房間嗎？
 005	確定要建立{color[0100]}祭典比賽{color[ffff]}的房間嗎？
-006	確定要建立{color[0100]}三色奪寶攻擊{color[ffff]}的房間嗎？
+006	確定要建立{color[0100]}三色奪寶比賽{color[ffff]}的房間嗎？
 008	確定要建立{color[0100]}打工{color[ffff]}的房間嗎？
 002	確定要建立{color[0100]}私人比賽{color[ffff]}的房間嗎？
 003	確定要建立{color[0100]}SALMON RUN{color[ffff]}的房間嗎？
 009	確定要建立{color[0100]}私人打工{color[ffff]}的房間嗎？
+011	確定要建立{color[0100]}大型跑{color[ffff]}的房間嗎？
 004	確定要使用此密碼會合嗎？
 010	{[0200|00040100]}
 T_Password_02	無密碼
@@ -8520,6 +9178,8 @@ T_VoiceChat_01	語音聊天 OFF
 041	密碼設定
 040	重置密碼
 L_VoiceChatBtn_00-T_Info_00	語音聊天 ON/OFF
+L_NameBtn_00-T_Info_00	別稱設定
+050	別稱：{[0201|000a]}
 LayoutMsg\Lobby_ResultClearance_00.msbt
 000	恭喜成功晉級！！
 001	挑戰結束！
@@ -8547,6 +9207,9 @@ T_Msg_02	技術提升！！
 102	晉級戰
 110	{[0200|00030000]}{size[4600]}p{size[6400]}
 T_Msg_01	可以參加蠻頹比賽（挑戰）\n並挑戰{color[0100]}晉級戰{color[ffff]}囉！
+T_XPowerTitle_00	X戰力
+210	+{[0200|00020000]}.{[0200|01010000]}
+211	-{[0200|00020000]}.{[0200|01010000]}
 LayoutMsg\Lobby_ResultDialogue_00.msbt
 000	＋{[0200|00040000]}
 001	×{[0200|00010000]}.{[0200|01010000]}
@@ -8558,6 +9221,8 @@ LayoutMsg\Lobby_ResultDialogue_00.msbt
 020	對戰
 021	達成\n{[0200|00040000]}p塗墨！
 022	團隊穿搭\n獎勵
+023	進攻獎勵
+024	防守獎勵
 100	10倍比賽
 101	100倍比賽
 102	333倍比賽
@@ -8572,6 +9237,12 @@ T_Get_01	持有數
 T_Max_00	MAX
 T_Open_00	祭典比賽（開放）
 T_Challenge_00	祭典比賽（挑戰）
+T_Progress_00	X戰力計算中……
+T_Rank_00	計算完畢！！
+T_NumProgress_01	/5
+T_XRankTitle_00	目前的名次
+T_XRankTitle_01	預估
+200	第{[0200|00040000]}名
 LayoutMsg\Lobby_ResultReward_00.msbt
 000	＋{[0200|00040000]}
 001	時間獎勵\n{[0200|00010000]}min
@@ -8695,9 +9366,12 @@ L_Win_00-T_Mic_00	語音聊天 ON
 102	一般比賽
 103	蠻頹比賽{size[4b00]}（開放）{size[6400]}
 105	祭典比賽
-106	三色奪寶攻擊
+106	三色奪寶比賽
+107	大型跑
 200	{[0201|000e]} {[0200|00030000]}
 L_Win_00-T_Wpn_00	派發武器
+L_Win_00-L_Key_02-T_Info_00	別稱設定
+210	別稱：{[0201|000a]}
 LayoutMsg\Mng_BaseTry_00.msbt
 T_Rotate_00	旋轉
 T_Back_00	返回
@@ -9112,7 +9786,10 @@ L_Back_00-T_Info_00	返回
 L_BtnMyset_00-T_Btn_00	記憶裝備的方法
 L_BtnCamera_00-T_Btn_00	一起拍攝照片的方法
 LayoutMsg\Plz_FestText_00.msbt
-000	{[0201|0010]} - {[0201|0110]} 舉行
+000	{d} - {[0201|0100]} 舉行
+100	333倍比賽 WINNER！！！
+101	100倍比賽 WINNER！！！
+102	10倍比賽 WINNER！！！
 LayoutMsg\Plz_GearOrder_00.msbt
 000	{[0400|00000000]}的裝備
 T_Delivery_03	預訂清單
@@ -9203,6 +9880,7 @@ L_Btn_02-T_Btn_00	OK！
 L_BtnTeamC_00-T_ATitle_00	中場
 L_BtnTeamC_00-T_ARanking_00	第1名
 L_GuideRule_01-T_Info_00	返回
+L_Btn_03-T_Btn_00	搭乘神轎！
 LayoutMsg\Plz_SelectMenu_00.msbt
 L_Btn_00-T_WhiteText_00	領取預訂商品
 L_Btn_01-T_WhiteText_00	提升裝備稀有度
@@ -9231,11 +9909,12 @@ LayoutMsg\Plz_TopicNews_00.msbt
 002	得票率
 003	貢獻度
 004	最終結果！
-T_Msg_00	已修正部分遊戲內容\n以提升遊戲的順暢度。\n詳細資訊請至《斯普拉遁 3》\n官方網站查詢。
+005	{[0200|00030000]}以上
 T_Match_00	一般比賽
 T_Match_01	蠻頹比賽{size[4b00]}（挑戰）{size[6400]}
 T_Match_06	蠻頹比賽{size[4b00]}（開放）{size[6400]}
-T_Match_04	三色奪寶攻擊
+T_Match_02	X比賽
+T_Match_04	三色奪寶比賽
 T_Match_05	祭典比賽
 L_FestA_00-T_Top_00	中場
 L_FestA_00-T_Top_01	第1名
@@ -9243,17 +9922,28 @@ T_TypeFest_00	準備祭
 T_FestTitle_01	貢獻度
 T_Rule_00	開放
 T_Rule_01	挑戰
+T_Rule_02	三色奪寶比賽
 L_FestResult_00-T_Title_02	開放
 L_FestResult_00-T_Title_03	挑戰
+L_FestResult_00-T_Title_04	三色奪寶比賽
 L_FestResult_00-T_Title_01	得票率
 L_FestA_00-T_Point_00	p
-L_FestResult_00-T_Num_00	10
-L_FestResult_00-T_Num_02	15
+L_FestResult_00-T_Num_00	８
+L_FestResult_00-T_Num_01	１０
+L_FestResult_00-T_Num_02	１２
+L_FestResult_00-T_Num_03	１２
+L_FestResult_00-T_Num_04	１５
 L_FestResult_00-T_Point_00	p
 L_FestResult_00-T_Title_00	準備祭
 L_FestA_00-T_Unit_00	％
 L_FestA_02-T_Unit_00	p
 L_FestA_02-T_WinNum_00	獲勝！
+T_Msg_00	已修正部分遊戲內容\n以提升遊戲的順暢度。\n詳細資訊請至《斯普拉遁 3》\n官方網站查詢。
+T_SeasonInfo_00	新賽季開幕！
+T_Top_00	前
+T_NumTop_00	5％
+T_NumTop_01	20％
+T_NumTop_02	50％
 LayoutMsg\Plz_WindowDrawn_01.msbt
 T_Yeah_00	魷型！
 T_Report_00	檢舉
@@ -9271,11 +9961,17 @@ LayoutMsg\Plz_WinTalkNews_00.msbt
 009	祭典中場戰報
 010	祭典結束！
 011	祭典結果公布
+012	大型跑警報！
+013	大型跑發生中！
+014	大型跑結束！
+015	大型跑結果公布
 T_NameR_00	曼曼
 T_NameL_00	莎莎
 T_NameC_00	鬼福
 100	用電台收聽
 101	略過
+200	x{[0200|00040000]}
+L_HighScore_00-T_Score_00	個人最高分數
 LayoutMsg\Replay_Main_00.msbt
 000	暫停
 001	播放
@@ -9381,6 +10077,7 @@ L_Item_00-T_SoldOut_00	售完
 L_ItemDetail_03-T_Owns_00	持有數
 L_BtnSelectNum_00-T_Btn_00	購買！
 L_ZakkaPrev_00-T_SoldOut_00	售完
+L_KeyIcon_03-T_Info_00	武器說明
 LayoutMsg\Shr_Points_00.msbt
 000	{[0200|00030000]}.{[0200|01010000]}
 LayoutMsg\Shw_Thanks_00.msbt
@@ -9395,7 +10092,12 @@ LayoutMsg\Tml_Contents_00.msbt
 031	要上傳此對戰記憶嗎？
 040	下載！
 041	要下載此對戰記憶嗎？
+050	刪除！
+051	確定要刪除此打工劇本嗎？
+060	儲存！
+061	確定要儲存此打工劇本嗎？
 T_Title_00	登錄玩家名稱
+T_Title_01	打工劇本
 T_Name_00	name
 T_Text_00-Text_01	更改玩家名稱後，\n將會有30天的時間無法再次更改。
 T_Text_00-Text_02	確定要使用這個新的玩家名稱嗎？
@@ -9405,15 +10107,16 @@ L_Btn_01-T_Text_01	更改！
 L_Btn_01-T_Text_02	OK！
 T_Title_02	輸入代碼
 T_Text_02	輸入16位數的代碼\n即可領取對戰記憶。
+T_Text_03	輸入16位數的代碼\n即可領取打工劇本。
 L_Btn_02-T_Text_00	OK！
 L_BtnCode_00-T_Name_00	code
 T_Title_04	對戰記憶
 T_Wpn_00	派發武器
+T_LevelTitle_00	危險度
 LayoutMsg\Tml_CoopReward_00.msbt
 000	返回
 100	{[0200|00060000]}p
 200	×{[0200|00040000]}
-L_RewardMeter_00-T_Get_00	Get！！
 T_Reward_00	報酬量表
 T_limitedTime_00	本月的裝備
 T_Uroko_00	鱗片
@@ -9432,14 +10135,40 @@ L_BtnBack_00-T_Info_00	返回
 T_LevelTitle_00	危險度
 L_BtnReport_00-T_Info_00	檢舉
 001	最近的打工
+002	已儲存的打工劇本
+010	儲存打工劇本
+011	刪除
+020	{[0200|00020000]}/{[0200|01020000]}
 L_BtnScoreScenario_00-T_Result_00	Failure
 L_BtnScoreScenario_00-T_Result_01	Clear！！
 L_Wave_00-T_Result_00	GJ！
 L_Wave_00-T_Result_01	NG
+L_WaveScenario_00-T_Result_00	GJ！
+L_WaveScenario_00-T_Result_01	NG
 100	時間到
 101	全軍覆沒！
 L_PlayerScore_00-T_MSign_03	x
+L_PlayerScenario_00-T_MSign_00	x
+030	乾潮
+031	普通
+032	滿潮
 050	＜{[0200|00030000]}＞
+060	----/--/--  --:--
+061	---
+062	---
+070	＋{[0200|00010000]}
+T_HighScore_00	最高分數
+T_ScenarioPlay_00	尚未遊玩過此打工劇本
+T_Version_00	ver.
+T_VersionMsg_00	打工劇本的版本過舊，\n遊戲內容可能會有所變化。
+Rush	狂潮
+Geyser	尋找金鮭魚
+Dozer	烤架魚出動
+Hakobiya	走私魚來襲
+Fog	霧
+Missile	大胖魚大量出現
+Relay	巨型龍捲風
+Tamaire	泥鮭魚噴發
 LayoutMsg\Tml_Home_00.msbt
 000	獲取道具
 010	記憶播放器
@@ -9450,6 +10179,9 @@ LayoutMsg\Tml_Home_00.msbt
 051	更改玩家名稱
 060	更改祭典地區
 400	關閉
+L_CoopContents_00-T_Contents_00	打工記錄
+L_CoopContents_01-T_Contents_00	打工劇本一覽
+L_CoopContents_02-T_Contents_00	輸入代碼
 LayoutMsg\Tml_ReplayScore_00.msbt
 000	{[0200|00040000]}p
 001	{[0200|00020000]}計數
@@ -9518,8 +10250,20 @@ LayoutMsg\Tml_Window_00.msbt
 041	此對戰記憶已下載完成。
 042	對戰記憶下載完成。
 043	對戰記憶下載失敗。
+044	對戰記憶的版本過舊，\n無法下載。
+045	此為對戰記憶專用的代碼，\n請透過位於大廳的{color[0100]}大廳設備{color[ffff]}輸入。
+046	此為打工劇本專用的代碼，\n請透過位於熊先生商會的{color[0100]}熊先生設備{color[ffff]}輸入。
 050	在{[0201|000c]}前，\n無法再次更改祭典地區。
 060	沒有可領取的道具
+070	沒有打工劇本。\n透過打工記錄或輸入代碼\n即可儲存打工劇本。
+071	最多可儲存50個打工劇本，\n從打工劇本一覽中刪除後，即可儲存新的劇本。
+072	最多可儲存50個打工劇本，\n從打工劇本一覽中刪除後，即可儲存新的劇本。
+080	此打工劇本已儲存完成。
+081	打工劇本刪除完成。
+082	打工劇本儲存完成。\n可以在私人打工中遊玩已儲存的打工劇本。
+083	打工劇本儲存失敗。
+084	無法儲存大型跑的打工劇本。
+085	無法儲存2.0.0版本以前的打工劇本。
 T_Name_00	name
 L_Btn_00-T_Info_00	OK
 LayoutMsg\Tuto_CircleTimer_00.msbt
@@ -9604,6 +10348,8 @@ LayoutMsg\VS_Beaten_00.msbt
 999	遭{[0401|00000000]}擊倒\n陣亡！
 LayoutMsg\VS_BeatMessage_00.msbt
 000	將{[0400|00000000]}擊倒了！
+LayoutMsg\VS_BgmName_00.msbt
+000	♪ {[0413|00000000]} / {[0414|00000000]}
 LayoutMsg\VS_Caution_00.msbt
 T_Msg_00	通訊狀況不穩。
 LayoutMsg\VS_Emote_00.msbt
@@ -9660,8 +10406,13 @@ T_Rule_01	RULE
 T_FestA_00	10倍比賽
 005	100倍比賽
 006	333倍比賽
+007	奪取超級信號，\n占領大量的占地面積！
+008	守住超級信號，\n占領大量的占地面積！
+100	進攻隊伍
+101	防守隊伍
+102	1.5倍獎勵！
+103	1.5倍獎勵！
 T_Rule_04	RULE
-T_TriRule_00	奪取超級信號，\n占領大量的占地面積！
 T_TriGame_00	三色奪寶\n對戰
 LayoutMsg\VS_TeamPow_00.msbt
 000	隊伍連勝數：{[0200|00020200]}

@@ -60,8 +60,6 @@ SYS_HUD_GUIDE_PRO_MOVE	  移動
 SYS_HUD_GUIDE_PRO_MOVE2	  移動（長按則排序）
 SYS_HUD_GUIDE_PRO_SORT	  長按則排序
 SYS_HUD_GUIDE_PRO_PLAY	  開始
-SYS_HUD_GUIDE_PRO_INVITE	  邀請朋友
-SYS_HUD_GUIDE_PRO_Invitation	  邀請朋友
 SYS_HUD_GUIDE_PRO_GUIDE	  操作指南
 SYS_HUD_GUIDE_PRO_EXCHANGE	  更換1P/2P
 SYS_HUD_GUIDE_PRO_VOICE_CHAT	  如何語音聊天？
@@ -385,6 +383,7 @@ SYS_USER_GUIDE_SYSTEM_CAPTURE2	拍攝
 SYS_USER_GUIDE_MICROPHONE	麥克風
 SYS_USER_GUIDE_MICROPHONE_VOLUME	麥克風音量
 SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED	不能以此握持方式\n使用麥克風
+SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED_00	不能以此握持方式\n使用麥克風
 META_TITLE_COMMENT_CLV_P_HAAWJ	將敵人撞個四腳朝天，再踢下去。瑪利歐系列的第1作。\n\n本作品於1983年發售，\n為Family Computer中的一款動作遊戲。\n玩家藉由操作瑪利歐及路易吉，由下方出拳，\n將從水管中出現的敵人撞個四腳朝天，\n再趁這個時候將其踢下去消滅。\n在2人遊玩中，有很多玩法可以一起同樂，\n像是彼此合作打倒敵人或是彼此互相妨礙等。
 META_TITLE_COMMENT_CLV_P_HAAAJ	為拯救被抓走的碧姬公主，瑪利歐在蘑菇王國大冒險。\n\n本作品於1985年發售，\n為Family Computer中的一款動作遊戲。\n是超級瑪利歐系列的第一彈。\n跳躍、奔跑、投擲、敲擊及破壞磚塊……\n為了救出被大魔王庫巴抓走的碧姬公主，\n瑪利歐及路易吉展開了一場動作豐富的大冒險。\n找尋秘技及隱藏道具，也是一種有趣的玩法。
 META_TITLE_COMMENT_CLV_P_HAACJ	奪回被大魔王庫巴及Koopalings 7兄弟奪走的魔法杖。\n瑪利歐及路易吉的第3次冒險。\n\n本作品於1988年發售，\n為Family Computer中的一款動作遊戲。\n為了奪回被大魔王庫巴及Koopalings奪走的7支魔法杖，\n瑪利歐及路易吉展開了一場蘑菇世界的冒險。\n在地圖上會顯示由庫巴手下看守的堡壘及能獲得道具的奇諾比奧的家。\n一面變身為能在空中飛行的「尾巴瑪利歐」或擅長游泳的「青蛙瑪利歐」，\n一面朝8個世界邁進。
@@ -485,8 +484,10 @@ META_TITLE_COMMENT_CLV_P_HACSJ	以飛鏢和忍法擊破妖怪，拯救櫻花公�
 META_TITLE_SUBTITLE_CLV_P_HAACJ_sp1	瑪利歐八變版本
 META_TITLE_COMMENT_CLV_P_HAACJ_sp1	～並非一成不變，總共有八變～\n\n本作品是以持有許多道具的狀態，從最後世界的世界8黑暗國開始的\n《超級瑪利歐兄弟3》特別版。一開始是小瑪利歐（一變），\n但道具欄有能變成超級瑪利歐（二變）的超級蘑菇、\n能變成火焰瑪利歐（三變）的火之花、\n能變成尾巴瑪利歐（四變）的超級樹葉、\n能變成狸貓瑪利歐（五變）的狸貓裝、\n能變成青蛙瑪利歐（六變）的青蛙裝，\n還有能變成鎚子瑪利歐（七變）的鎚子裝，充滿了稀有道具。\n在地圖畫面按B鍵會顯示道具，因為道具數量多，要用上下鍵換面選擇。\n……嗯？還有一變是什麼？相信細心的您有這個疑問，請放心，\n在狸貓瑪利歐時按住十字鍵的下再按住B鍵，\n就能暫時變成地藏（八變）。在變地藏時，被敵人攻擊也不會有事。\n瑪利歐的這八變，您喜歡哪種呢？
 META_TITLE_COMMENT_CLV_P_HAAJJ	玩到結局都不可以哭。\n以現代為舞台的愛與勇氣與冒險的故事。\n\n本作品於1989年發售，為Family Computer中的一款角色扮演遊戲。\n在美國鄉鎮マザーズデイ中，接連發生了奇妙的事件。\n例如房間中的台燈和娃娃亂竄，從墳場復甦的喪屍去攻擊人……\n少年主角為了保護家人，決定冒險旅行。他餓了就吃漢堡，\n遇到敵人則用手中球棒和PSI（超能力）對抗，並結識可靠的同伴……\n在如此旅途中，播放的音樂曲曲都能讓人長留心中，\n還請放大音量，細細品味一番。
-META_TITLE_COMMENT_CLV_P_HAGUJ	Mappy和Nyamco他們的躲貓貓將在市鎮、城堡、叢林等處展開！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲，\n是以可愛角色和單純好玩受到歡迎的《Mappy》續作。\n玩家要運用彈跳床和梯子等機關避免被敵人抓到，並收集標的物。\n四篇故事各有不同的標的物要收集，跳上彈跳床就可以上下移動，\n這時碰到敵人也不算失誤，但連續彈跳時，彈跳床會變色，\n在變紅的時候跳上去就會破掉，但落到地面則會回復成藍色。\n還請聽明地運用阻擋用道具和反擊用道具爭取高分。
-META_TITLE_COMMENT_CLV_P_HAGQJ	舞台從地底來到島嶼的戰略性破壞島嶼遊戲！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲。\n玩家要操作主角「Dig Dug」對抗擾亂島嶼的怪物。\n會朝主角逼進的怪物，可以用鑽頭刺入後充氣脹破，或破壞島嶼\n使其墜海的方式打倒。讓怪物一次墜海，得分會因應數量而增高。\n打倒所有怪物就算過關，進入下一關。
+META_TITLE_COMMENT_CLV_P_HAGUJ	MAPPY和NYAMCO他們的躲貓貓將在市鎮、城堡、叢林等處展開！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲，\n是以可愛角色和單純好玩受到歡迎的《MAPPY》續作。\n玩家要運用彈跳床和梯子等機關避免被敵人抓到，並收集標的物。\n四篇故事各有不同的標的物要收集，跳上彈跳床就可以上下移動，\n這時碰到敵人也不算失誤，但連續彈跳時，彈跳床會變色，\n在變紅的時候跳上去就會破掉，但落到地面則會回復成藍色。\n還請聽明地運用阻擋用道具和反擊用道具爭取高分。
+META_TITLE_COMMENT_CLV_P_HAGQJ	舞台從地底來到島嶼的戰略性破壞島嶼遊戲！\n\n本作品於1986年發售，為Family Computer中的一款動作遊戲。\n玩家要操作主角「DIG DUG」對抗擾亂島嶼的怪物。\n會朝主角逼進的怪物，可以用鑽頭刺入後充氣脹破，或破壞島嶼\n使其墜海的方式打倒。讓怪物一次墜海，得分會因應數量而增高。\n破壞島嶼達到三處，會出現獎勵道具「蔬菜標的物」。\n打倒所有怪物就算過關，進入下一關。
+META_TITLE_COMMENT_CLV_P_HAHJJ	找出快速打高分的訣竅。獎勵關卡會出現瑪利歐。\n\n本作品於1984年發售，為Family Computer中的一款彈珠台遊戲。\n遊戲目的是取得高分，要以彈板打彈珠，避免掉落到底下，\n並彈到台內各種地方賺取分數。彈珠一旦打進大廳，會轉到特殊台子，\n變成操作瑪利歐而不是彈板。湊齊賓果燈，用瑪利歐順利接住\n掉下的淑女，就可以獲得獎勵分數。
+META_TITLE_COMMENT_CLV_P_HAGPJ	行星アルジェナ的不明消失，是一切的開端……\n\n本作品於1986年發售，為Family Computer中的一款動作模擬\n戰爭遊戲。遊戲由三種場景組成，分別是策略模擬的「戰略場景」、\n對戰模式的「艦隊戰」、動作遊戲的「行星戰」。遊戲目的是完全占領地圖上\n顯示的十四顆敵方行星，以及找出並攻略未顯示在地圖上的ヴリトラ製造\n行星和ナーサティア雙行星。ヴリトラ製造行星會逐步完工，一旦完成，\n我方主星會遭到像黑龍的人工有機體ヴリトラ攻擊而立刻導致遊戲結束，\n還請在其完成前發現並且攻下。敵方主星ナーサティア雙行星則會在\n反覆遊玩遊戲下逐步揭曉而得以發現。\n本作雖然是模擬遊戲，但特色除了有在宇宙空間和行星上運用戰略戰術\n作戰的趣味，還加上了ヴリトラ製造行星造成的緊張感和探索前往\nナーサティア雙行星的航路等解謎之類的要素，\n如果想要直接玩行星戰，請在密碼畫面輸入「たたかう」，要遊玩的行星\n會從十四顆行星中以亂數選出。
 exploded_strings
 SYS_DIALOG_GENERIC_BUTTON1	[GENERIC_DIALOG_BUTTON1]
 SYS_DIALOG_GENERIC_BUTTON2	[GENERIC_DIALOG_BUTTON2]
@@ -508,8 +509,6 @@ SYS_HUD_GUIDE_PRO_MOVE	[IMG_BUTTON_Y]  移動
 SYS_HUD_GUIDE_PRO_MOVE2	[IMG_BUTTON_Y]  移動（長按則排序）
 SYS_HUD_GUIDE_PRO_SORT	[IMG_BUTTON_Y]  長按則排序
 SYS_HUD_GUIDE_PRO_PLAY	[IMG_BUTTON_A]  開始
-SYS_HUD_GUIDE_PRO_INVITE	[IMG_BUTTON_PLUS]  邀請朋友
-SYS_HUD_GUIDE_PRO_Invitation	[IMG_BUTTON_PLUS]  邀請朋友
 SYS_HUD_GUIDE_PRO_GUIDE	[IMG_BUTTON_X]  操作指南
 SYS_HUD_GUIDE_PRO_EXCHANGE	[IMG_BUTTON_Y]  更換1P/2P
 SYS_HUD_GUIDE_PRO_VOICE_CHAT	[IMG_BUTTON_X]  如何語音聊天？
@@ -847,5 +846,7 @@ CLV-P-HAEIJ	VS.エキサイトバイク
 CLV-P-HAEJJ	バレーボール
 CLV-P-HAEKJ	ラフワールド
 CLV-P-HAERJ	ソロモンの鍵２ ～クールミン島救出作戦～
+CLV-P-HAGPJ	ディーヴァ STORY 6 ナーサティアの玉座
 CLV-P-HAGQJ	ディグダグⅡ
 CLV-P-HAGUJ	マッピーランド
+CLV-P-HAHJJ	ピンボール

@@ -59,8 +59,6 @@ SYS_HUD_GUIDE_PRO_MOVE	  移動
 SYS_HUD_GUIDE_PRO_MOVE2	  移動（長按則排序）
 SYS_HUD_GUIDE_PRO_SORT	  長按則排序
 SYS_HUD_GUIDE_PRO_PLAY	  開始
-SYS_HUD_GUIDE_PRO_INVITE	  邀請朋友
-SYS_HUD_GUIDE_PRO_Invitation	  邀請朋友
 SYS_HUD_GUIDE_PRO_GUIDE	  操作指南
 SYS_HUD_GUIDE_PRO_GUIDE_CHANGE	  更改操作方式
 SYS_HUD_GUIDE_PRO_EXCHANGE	  更換1P/2P
@@ -356,6 +354,7 @@ SYS_NOTIFICATION_OPERATION_DENIED_TEXT	正在操作。
 SYS_NOTIFICATION_OPERATION_DENIED2_TEXT	正在操作。
 SYS_NOTIFICATION_DENIED_MOVE_OPERATION_TEXT	無法移動作品。\n必須將排序更改成「按喜愛順序」。
 SYS_NOTIFICATION_PLAYER_ORDER_TEXT	已經更改控制器的定義。
+SYS_NOTIFICATION_INGAME_CAUTION_STICK_TEXT	請勿用掌心之類，皮膚較脆弱的部位，操作控制器的操控搖桿。
 SYS_POPUP_GUIDE_PRO_CONTROLLER_SELECT	按鍵移動游標
 SYS_POPUP_GUIDE_PRO_CONTROLLER_START	按鍵開始遊戲
 SYS_POPUP_GUIDE_JOY_L_CONTROLLER_SELECT	 + 移動游標
@@ -457,6 +456,7 @@ SYS_USER_GUIDE_LARK3_SYSTEM_CAPTURE	 拍攝
 SYS_USER_GUIDE_MICROPHONE	麥克風
 SYS_USER_GUIDE_MICROPHONE_VOLUME	麥克風音量
 SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED	不能以此握持方式\n使用麥克風
+SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED_00	不能以此握持方式\n使用麥克風
 META_TITLE_COMMENT_N_3013_j	熟悉的角色開車狂飆！\n用道具妨礙其他競爭對手！！\n\n本作品於1996年發售，為Nintendo 64中的一款動作競賽遊戲。\n《超級瑪利歐》的瑪利歐、庫巴、碧姬公主、耀西等角色將駕駛賽車競賽。\n如何超前競爭對手將是比賽的關鍵，玩家可以用力量提升道具奮力超前，\n也可以用妨礙道具打擊其他對手；要在哪裡用哪種道具，要跑哪條路線？\n能在鬥智鬥力中壓過對手，才能贏得冠軍。遊戲中共有二十條賽道登場，\n「瑪利歐大獎賽」「VS」「計時賽」中有十六條通用賽道，「對戰」則有\n四條專用賽道。諸如「瑪利歐賽道」「庫巴城堡」等等，賽道都富有特色，\n而且還有各種機關和小路，每次遊玩或許都會發現新的跑法。
 META_TITLE_COMMENT_N_3017_j	獨樂樂眾樂樂都能樂在其中，輕鬆簡單又實在的網球！\n\n本作品於2000年發售，為Nintendo 64中的一款運動遊戲。\n登場角色有瑪利歐、路易吉、耀西等《瑪利歐》系列的知名角色，\n他們將齊聚一堂以網球對決。遊戲中可以像實際網球一樣打出各種球路，\n不用學複雜的操作方式，任何人都能簡單地體驗到實在的網球運動。\n遊戲模式有五種，諸如「自由對戰」中可以隨意選擇角色和球場，\n簡單地打一場比賽；「圓環擊球」是要在網球比賽中將球打過出現在\n球場上的圓環以累積「圓環分數」；還有道具會左右勝敗的\n「Bowser Stage」等等。
 META_TITLE_COMMENT_N_3030_j	星際火狐出擊！\n舞台為宇宙空間的爽快射擊遊戲。\n\n本作品於1997年發售，為Nintendo 64中的一款射擊遊戲。\n故事舞台所在的「萊拉特星系」正因為安德羅斯博士而面臨毀滅的危機。\n玩家要成為游擊隊星際火狐的隊長火狐‧麥克勞德，駕駛戰鬥機「艾英」\n前去粉碎安德羅斯軍的野心，終極目標是打敗坐鎮行星維諾的安德羅斯。\n伴隨火狐出擊的三個同伴都有鮮明性格，經由他們協助可以得到有用的\n提示或是找到新的路線。玩家當然也不能一味接受幫助，身為隊長，\n也要發揮實力保護遭到敵方無情攻擊的同伴，運用後空翻和上升反轉等\n豐富的動作，個個擊破進逼的敵機。遊戲中除了正篇，還有四人對戰的\n「VS.」模式可以遊玩。誰能將艾英操縱得最漂亮，優先贏得勝利呢？
@@ -469,6 +469,15 @@ META_TITLE_COMMENT_N_2992_j	為了冒險帶回Star Spirits，\n瑪利歐將在�
 META_TITLE_COMMENT_N_4868_j	阿邦與阿卡活力十足的大冒險就要開始！\n\n本作品於1998年發售，為Nintendo 64中的一款動作遊戲。\n公熊阿邦與母鳥阿卡這對奇妙搭檔要運用各種發揮彼此特徵的動作\n展開大冒險。他們的行動起於要救阿邦被壞巫女葛蘭蒂擄走的妹妹桃蒂，\n所以他們從「Spiral Mountain」出發冒險，路上將闖蕩有鯊魚出沒的\n「Treasure Trove Cove」和一片雪白的「Freezeezy Peak」等豐富關卡。\n阿卡平常會待在阿邦的藍色背包內，這兩位從各方面可說是合作無間。\n或許搭檔間也會有討人厭的狀況發生，但如果能彼此通力合作，\n就可以跨越難關才是。就來和他們兩位一起在遊戲世界中冒險犯難吧！
 META_TITLE_COMMENT_N_1407_j	林克闖進了一個世界……\n那是再三天就末日的世界。\n\n本作品於2000年發售，為Nintendo 64中的一款立體動作角色扮演\n遊戲。保護薩爾達公主並拯救海拉魯幾個月後，旅經森林的林克\n被戴著詭異面具的小怪物「骷髏小子」攻擊，林克因而迷失到陌生世界。\n那個地方稱作「Termina」，三天後「月亮」就會墜落。\n在這個不可思議的世界中，每當月亮墜地，世界毀滅時就會被帶回\n三天前的早上，一切都變成未曾發生。林克在此將仰賴潛藏在面具中的\n各種能力，還有樂曲的力量，冒險拯救Termina。\n林克究竟能不能在有限的三天時間內離開這噩夢循環呢？……
 META_TITLE_COMMENT_N_2456_j	冒死之徒再次結合。\n駕駛音速賽車奔馳立體賽道！\n\n本作品於1998年發售，為Nintendo 64中的一款競賽遊戲。\n系列作第二部的本作，在許多面向上自初代脫胎換骨，例如賽道立體化、\n賽車數量增加、新增動作等等。模式除了主要的GP模式，還設計了\n挑戰自我極限的Time Attack模式、比自己之外賽車全部出局所花時間的\nDeath Race模式等等。要在競賽中壓倒群英，關鍵就在瞭解賽道機關、\n熟悉所用賽車適合的跑法和發揮玩家的技術。
+META_TITLE_COMMENT_N_4371_j	操作簡單，大人小孩都能玩。\n和瑪利歐一起打一場實在的高爾夫球！\n\n本作品於1999年發售，是Nintendo 64中的一款運動遊戲。\n登場角色有瑪利歐、路易吉、碧姬公主等《瑪利歐》系列的知名角色。\n遊戲規則很簡單，就算不懂高爾夫球，看著打球畫面上的計量表，\n抓準時機按下按鍵就能打出一記好球。如果已經熟練或喜歡玩高爾夫球，\n擊球前可以參詳資訊，詳細設定球桿種類和擊球點等等，以打出好成績。\n得到好成績並提高「COURSE Pts」，將可以遊玩新的球場。\n在「Get Character」中贏過對戰角色，則下次起便能選用該角色。\n此外還收錄了能四個玩家遊玩的「Stroke」和「Club Slots」等模式，\n以「Bets」下注分數來遊玩，對戰起來會更加地熱烈。
+META_TITLE_COMMENT_N_3052_j	變身自如的卡比為了尋找Crystal Shards，\n將往來各星球展開大冒險。\n\n本作品於2000年發售，為Nintendo 64中的一款動作遊戲。\n妖精所在的「Ripple Star」突然出現了詭異的黑雲，\n其目的是妖精的寶物「Crystal」。妖精「Ribbon」帶著Crystal逃走，\n卻被黑雲撞得墜落地面，Crystal也因此摔得碎開，四散到各星球中。\n正在「波普之星」仰望星空的卡比遇見了掉下來的Ribbon，\n他為了幫助遭遇困難的Ribbon而就此展開冒險。\n卡比能夠複製敵人的能力，而他在本作能混合兩種能力，產生新的能力。\n方法有4種，諸如讓具有能力的敵人相撞、同時吸進兩個敵人複製等等。\n「Mini-Games」含有三種小遊戲，可一到四人遊玩。
+META_TITLE_COMMENT_N_3240_j	拍出獨自的最佳照片。\n用照相機暢遊《寶可夢》世界！\n\n本作品於1999年發售，為Nintendo 64中的一款拍照動作遊戲。\n主角不是「寶可夢訓練家」，而是「寶可夢攝影師」。\n遊戲目的是拍下棲息在「Pokémon Island」中的寶可夢身影。\n60種以上《寶可夢》系列知名的寶可夢將會登場，\n有的會對鏡頭擺姿勢，有的則會一起愉快地玩耍，動作豐富多變。\n喜愛的照片可以存到「PKMN Album」中，並任意加上說明。\n照片可以給大木博士打分數，提高總分能獲得輔助拍攝的「道具」，\n有的寶可夢在使用道具後會出現不同的反應，所以一旦得到道具，\n還請多方使用看看。
+META_TITLE_COMMENT_N_4093_j	稱霸超高速戰鬥，成為最強的指揮官！\n\n本作品於1999年發售，為Nintendo 64中的一款機器人動作角色扮演\n遊戲。玩家要化身為「指揮官」，操控身高約30公分的小型機器人\n「Custom Robo」，和同伴一起冒險犯難，並改裝途中取得的機器人和\n零件，最終成為最強的指揮官。遊玩劇情模式會增加「街機模式」中\n能玩的模式和提升等級。「街機模式」是能盡情對戰的模式，\n除了主角的愛機「Ray」，也可以用「劇情模式」中對戰過的機器人。\n在「劇情模式」玩到結局後，就可以在「選項模式」設定\n遊戲中登場的違法零件是否要出現。
+META_TITLE_COMMENT_N_3668_j	隨意組合零件，改裝機器人，\n以獨自的カスタムロボ對戰！\n\n本作品於2000年發售，為Nintendo 64中的一款機器人動作角色扮演\n遊戲。玩家要化身為「指揮官」，操控身高約30公分的小型機器人\n「Custom Robo」，和同伴一起冒險犯難，並改裝途中取得的機器人和\n零件，最終成為最強的指揮官。劇情模式有兩篇，分別是\n「A New Journey」和「The Grand Battle」。「A New Journey」\n是順著故事展開冒險和對戰，「The Grand Battle」則是有\n「Parts Confiscation Battle」和「Lended Parts Battle」等特殊規則，\n遊玩感受會與「A New Journey」別有不同風味。打贏特定對戰後，\n會取得機器人或零件，有五個部位可以組合，分別是「Robo」「炮」「炸彈」\n「彈艙」「腿」。要嘗試各種戰術，就要收集到這些，隨意改裝機器人。\n作為對戰場地的Holosseum超過40種，有各種障礙物和機關，\n牆壁位置等設定也不同，配合地形訂立戰略正是獲勝的捷徑。
+META_TITLE_COMMENT_N_4813_j	劃過波光蕩漾的水面。\n以水上為舞台的JET SKI競賽遊戲。\n\n本作品於1996年發售，為Nintendo 64中的一款競賽遊戲。\n玩家要操縱行駛水面的JET SKI水上摩托車與競爭對手較量時間和技巧，\n同時也要挑戰自我。車輛有四種，可以依自己的技巧和喜好來選，\n並且可以改裝「Handling」「Acceleration」「Grip」這三種要素。\n遊戲設有數種模式，有豐富的內容供玩家遊玩。
+META_TITLE_COMMENT_N_3783_j	您能獲得職業空中運動好手的桂冠嗎？\n\n本作品於1996年發售，為Nintendo 64中的一款空中運動模擬遊戲。\n在飛翔的世界中，有著眾多自在翱翔天空的飛行員同好。\n他們嚮往獲得「飛行員執照」和「徽章」，所以必須在「HANG GLIDER」\n「ROCKET BELT」「GYROCOPTER」這三種運動完成其中設定的考驗，\n通過檢定考才行。身為職業空中運動玩家，當然不能因為這樣就滿足。\n所以前作（Super Famicom版）中為人津津樂道的「SKY DIVING」等\n各種運動也等著大家去挑戰。在遊戲中登場的六個飛行員，\n個個都個性十足。您能和他們一同翱翔天際，稱霸所有運動及考驗，\n獲得職業空中運動好手的桂冠嗎？
+META_TITLE_COMMENT_N_4737_j	各個當紅角色將為了超級星而歡聚一堂開派對！！\n\n本作品於1998年發售，為Nintendo 64中的一款派對遊戲。\n前所未有的新型「桌遊」登場。在桌面上會因停下的格子而出現小遊戲，\n能順利通過各個小遊戲，就會往有利方向發展，遊戲中將可以體驗到\n一般擲骰子前進的傳統桌遊所沒有的緊張刺激感。\n《瑪利歐派對》並不是單純的「桌遊」，而是滿載各種遊戲的\n「派對遊戲」。
+META_TITLE_COMMENT_N_1053_j	和瑪利歐他們一起闖蕩充滿趣味機關的世界！！\n\n本作品於1999年發售，為Nintendo 64中的一款派對遊戲。\n瑪利歐一行人建造了一座充滿夢想與冒險的主題公園，就要取名的時候，\n卻遭遇庫巴來犯！後來瑪利歐一行人就以打倒了庫巴的無敵星星為名，\n為主題公園取名。究竟誰會成為那閃亮的無敵星星呢？盤面上設計了許多\n趣味事件和小遊戲，而且小遊戲的種類多達64種！也有競速和動作等\n多種不同的遊戲類型。在盤上可以使用「搶劫箱」「傳送磚塊」等道具，\n如果能夠善用，或許能一舉反敗為勝？……
 exploded_strings
 SYS_DIALOG_GENERIC_BUTTON1	[GENERIC_DIALOG_BUTTON1]
 SYS_DIALOG_GENERIC_BUTTON2	[GENERIC_DIALOG_BUTTON2]
@@ -495,8 +504,6 @@ SYS_HUD_GUIDE_PRO_MOVE	[IMG_BUTTON_Y]  移動
 SYS_HUD_GUIDE_PRO_MOVE2	[IMG_BUTTON_Y]  移動（長按則排序）
 SYS_HUD_GUIDE_PRO_SORT	[IMG_BUTTON_Y]  長按則排序
 SYS_HUD_GUIDE_PRO_PLAY	[IMG_BUTTON_A]  開始
-SYS_HUD_GUIDE_PRO_INVITE	[IMG_BUTTON_PLUS]  邀請朋友
-SYS_HUD_GUIDE_PRO_Invitation	[IMG_BUTTON_PLUS]  邀請朋友
 SYS_HUD_GUIDE_PRO_GUIDE	[IMG_BUTTON_X]  操作指南
 SYS_HUD_GUIDE_PRO_GUIDE_CHANGE	[IMG_BUTTON_X]  更改操作方式
 SYS_HUD_GUIDE_PRO_EXCHANGE	[IMG_BUTTON_Y]  更換1P/2P
@@ -806,13 +813,22 @@ SYS_USER_GUIDE_SYSTEM_CAPTURE2	拍攝 [IMG_BUTTON_CAPTURE]
 SYS_USER_GUIDE_LARK3_SYSTEM_CAPTURE	[IMG_BUTTON_CAPTURE] 拍攝
 titles
 N-4868_j	阿邦阿卡大冒險
+N-3668_j	カスタムロボV2
+N-4093_j	カスタムロボ
 N-2456_j	F-ZERO X
+N-3052_j	星之卡比64
+N-4371_j	瑪利歐高爾夫64
 N-3013_j	瑪利歐賽車64
+N-1053_j	瑪利歐派對2
+N-4737_j	瑪利歐派對
 N-3017_j	瑪利歐網球64
 N-2992_j	マリオストーリー
+N-3783_j	パイロットウイングス64
+N-3240_j	寶可夢隨樂拍
 N-3029_j	罪と罰 地球の継承者
 N-3030_j	星際火狐64
 N-3031_j	超級瑪利歐64
+N-4813_j	ウエーブレース64
 N-3034_j	WIN BACK
 N-3036_j	ヨッシーストーリー
 N-1407_j	薩爾達傳說 魔吉拉的面具

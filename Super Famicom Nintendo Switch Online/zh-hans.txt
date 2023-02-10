@@ -56,8 +56,6 @@ SYS_HUD_GUIDE_PRO_MOVE	  移动
 SYS_HUD_GUIDE_PRO_MOVE2	  移动（长按排序）
 SYS_HUD_GUIDE_PRO_SORT	  长按排序
 SYS_HUD_GUIDE_PRO_PLAY	  开始
-SYS_HUD_GUIDE_PRO_INVITE	  邀请好友
-SYS_HUD_GUIDE_PRO_Invitation	  邀请好友
 SYS_HUD_GUIDE_PRO_GUIDE	  操作指南
 SYS_HUD_GUIDE_PRO_EXCHANGE	  更换1P/2P
 SYS_HUD_GUIDE_PRO_VOICE_CHAT	  如何进行语音聊天？
@@ -381,6 +379,7 @@ SYS_USER_GUIDE_SYSTEM_CAPTURE2	截图
 SYS_USER_GUIDE_MICROPHONE	麦克风
 SYS_USER_GUIDE_MICROPHONE_VOLUME	麦克风音量
 SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED	此握法无法\n使用麦克风
+SYS_USER_GUIDE_MICROPHONE_NOT_SUPPORTED_00	此握法无法\n使用麦克风
 META_TITLE_COMMENT_S_2017_j	马力欧以Dinosaur Land为舞台展开一场大冒险。\n斗篷马力欧及耀西首次登场。\n\n本作品发售于1990年，是Super Famicom上的动作游戏。\n以Dinosaur Land为舞台，为了救出被酷霸王掳走的桃花公主，\n马力欧和路易吉展开一场冒险。\n这个游戏充满各种精采绝伦的动作及多彩多姿的角色，\n像是与值得信赖的好伙伴耀西一起打倒敌人，\n或是穿上斗篷在天空翱翔等等。\n玩家会在机关及解谜要素千变万化的关卡中过关。
 META_TITLE_COMMENT_S_2023_j	耀西一行将为了拯救双胞胎孩子而大奋战。\n\n本作品发售于1995年，是Super Famicom上的动作游戏。\n背着孩子的耀西一行为了救出被酷霸王王国魔法师卡美克\n所掳走的另一个双胞胎孩子而踏上冒险之旅。\n在游戏中要用蛋做出各种动作并活用直升机及\n鼹鼠坦克等“变身道具”，以通过6个世界。\n这款游戏犹如绘本般具有温馨的手绘画风也非常引人注目。
 META_TITLE_COMMENT_S_2016_j	马力欧系列角色为夺得冠军而激烈竞争。\n\n本作品发售于1992年，是Super Famicom上的动作竞速游戏。\n这是马力欧系列角色以卡丁车来竞赛及对战的《马力欧卡丁车》系列第1作。\n这款游戏以卡丁车赛道和泥巴路等场景作为关卡，\n玩家需从强项是加速或抓地力等特色各异的\n8位角色中选择1位来挑战比赛。\n此外，游戏中也有让对手失控的香蕉皮或是\n让自己的赛车变成无敌状态的无敌星等道具。
@@ -435,9 +434,19 @@ META_TITLE_SUBTITLE_S_2018_j_sp1	萨姆斯·亚兰最终形态
 META_TITLE_COMMENT_S_2018_j_sp1	～装备齐全～\n\n本作品是《超级密特罗德》的特别版本，\n主人公萨姆斯·亚兰一开始便处于最强状态，\n获得所有强化道具，武器和加强服的能力也已经过加强。\n剩下的就只是打倒要塞中心处的母脑了。\n根据通关时间的多少，结局也会有所不同（共3种）。\n如果能快速通关的话，还能看到脱下加强服后的萨姆斯的样子。
 META_TITLE_COMMENT_S_2037_j	温馨生活模拟游戏\n\n本作品发售于1996年，是Super Famicom上的生活模拟游戏。\n故事的舞台位于Flower Bud Village，男主角继承了祖父的牧场，\n并要在三年内妥善重建。除了栽种农作物、养殖动物、扩建房屋等\n发展牧场的工作外，还可以和村民交流，与结婚人选的女孩谈恋爱结婚。
 META_TITLE_SUBTITLE_S_2019_j_sp1	冠军版本
-META_TITLE_COMMENT_S_2019_j_sp1	～16位实力强劲的对手齐聚一堂～\n\n此游戏是能挑战所有巡回赛和对手的《超级击拳热斗！！》的特殊版本。\n不仅可以挑战“MINOR CIRCUIT”、“MAJOR CIRCUIT”和\n“WORLD CIRCUIT”，还可以选择只有在无败绩称霸以上巡回赛后\n才能挑战的“SPECIAL CURCUIT”。\n在“SPECIAL CURCUIT”出场的的拳手分别是\n“Narcis Prince”、“Hoy Quarlow”、“Rick Bruiser”和\n“Nick Bruiser”这4人。\n可以先在“TIME ATTACK MODE”里练习一下再去挑战。\n另外，据说当时的开发人员打出的“SPECIAL CIRCUIT”的\n最高得分是583,550。
+META_TITLE_COMMENT_S_2019_j_sp1	～16位实力强劲的对手齐聚一堂～\n\n此游戏是能挑战所有巡回赛和对手的《超级击拳热斗！！》的特殊版本。\n不仅可以挑战“MINOR CIRCUIT”、“MAJOR CIRCUIT”和\n“WORLD CIRCUIT”，还可以选择只有在无败绩称霸以上巡回赛后\n才能挑战的“SPECIAL CIRCUIT”。\n在“SPECIAL CIRCUIT”出场的的拳手分别是\n“Narcis Prince”、“Hoy Quarlow”、“Rick Bruiser”和\n“Nick Bruiser”这4人。\n可以先在“TIME ATTACK MODE”里练习一下再去挑战。\n另外，据说当时的开发人员打出的“SPECIAL CIRCUIT”的\n最高得分是583,550。
 META_TITLE_SUBTITLE_S_2017_j_sp1	焕然一新！感觉大不同的版本
 META_TITLE_COMMENT_S_2017_j_sp1	～邀请体验通过特殊关卡后的内容～\n\n此游戏是风格与以往不同的《超级马力欧世界》的特殊版本。\n一开始就在只有通过特殊关卡才能抵达的，\n风格迥异的Dinosaur Land。\n重新开始冒险，体验不同以往的感觉吧。
+META_TITLE_COMMENT_S_2141_j	拯救被绑架的妹妹！由两位警察展现的爽快格斗动作游戏。\n\n本作品发售于1992年，是Super Famicom上的动作游戏。\n为了救出被秘密贩卖组织ジョウカル绑架的マリア，\nネオ・シスコ州的两名警官挺身而出。玩家将操作マリア的哥哥ノートン，\n以及从小就与两兄妹熟识，同时也是ノートン的前辈ビルド。\nノートン会利用自己轻快灵活的身手战斗，ビルド则更依靠自己的力量。\n受到敌人一定的伤害后会进入“愤怒模式”，在一定时间内\n不会受到任何伤害。同时，攻击力会上升，部分攻击也会发生变化。\n对于单人游戏可能会陷入苦战的场景，合作游玩可能会比较容易打倒敌人通关，\n但恢复道具的数量有限，由谁获取需要慎重判断才行。
+META_TITLE_COMMENT_S_2154_j	人人都说不可能的崭新动作系统诞生！\n\n本作品发售于1994年，是Super Famicom上的橡胶索动作游戏。\n所谓橡胶索动作，是种新型的动作游戏，采用了有如橡胶，\n会伸缩的特殊绳索呈现全新动态。海腹川背是本游戏登场的\n女生的名字，也是玩家要操作的角色。海腹川背要走的是\n不成路的路，路上还会莫名遭到鱼类妨碍，能依赖的只有前端\n附有路亚（用来钓鱼的假饵），伸缩有如橡胶的特殊绳索！\n然而，这种绳索是相当方便的工具，除了可以用来勾住鱼类，\n还可以攀墙及越过空隙。请练到能随心所欲地操控这条绳索，\n让海腹川背可以平安地越过危险的场地。
+META_TITLE_SUBTITLE_S_2007_j_sp1	来一场卡比跳舞版本
+META_TITLE_COMMENT_S_2007_j_sp1	～登楞楞楞楞楞♪登——登——♪～\n\n本作品是《カービィボウル》的特别版，各种隐藏模式已经开放。\n“1PLAY GAME”和“2PLAY GAME”的“PLAY EXTRA COURSE”，\n以及“MAP SELECT”的“NORMAL COURSE”和“EXTRA COURSE”，\n还有“SOUND ROOM”，再加上“DANCE SELECT”都可以选择。\n来和卡比一起跳一场舞吧！
+META_TITLE_SUBTITLE_S_2008_j_sp1	“最近的游戏还是太难了？”的版本
+META_TITLE_COMMENT_S_2008_j_sp1	～轻松游戏～\n\n本作品是开放了各种隐藏模式的《星之卡比3》的特殊版本。\n《星之卡比3》刚发行时（1998年），其主页上的宣传语是\n“最近的游戏太难了。我们想要更加轻松的游玩。所以它回来了。\n大家都可以玩，可以一起玩。星之卡比再次登场！”为了拯救\n波普之星，卡比带着伙伴向着黑云出发了。在这个特殊版本中，\n轻松就能救出波普之星，轻松就能让完成率达到100%。除了可以\n选择所有的关卡外，在“OPTION”的“サウンドテスト”中\n还可以欣赏所有的乐曲，连续游玩游戏中出现的5种小游戏，\n游玩“Jumping”、“BOSS BUTCH!”，观看所有的剧情动画和\n3种不同的结局。
+META_TITLE_SUBTITLE_S_2029_j_sp1	魅塔骑士的逆袭版本
+META_TITLE_COMMENT_S_2029_j_sp1	～“Milky Way Wishes”和“Arena”都可以玩～\n\n本作品是《星之卡比 超级豪华版》的特别版，各种隐藏模式已经开放。\n“Revenge of Meta Knight”、“Milky Way Wishes”、\n“The Arena”还有卡比系列常见的“Sound Test”都已经可以选择。\n“Milky Way Wishes”模式中不能复制敌人的能力，但取得\n“复制的原型豪华版”这种道具就可以学到能力。\n学到的能力可以任意使用，还请痛快地运用。
+META_TITLE_COMMENT_S_2172_j	卡比在动作解谜游戏中大展身手！\n规则简单，不管是解谜新手还是高手都能乐在其中。\n\n本作品发售于1999年，是Super Famicom上的动作解谜游戏。\n为了收集因帝帝帝大王的攻击而四分五裂的“Mr. Star”的\n身体“ほしのかけら”，卡比与《星之卡比3》中登场的伙伴\n“陆库”、“海恩”和“空”一起挑战动作解谜。\n游戏规则十分简单，就是利用同一伙伴的方块夹住星星。\n即使不擅长解谜，也能乐享其中。
+META_TITLE_COMMENT_S_2174_j	真正的格斗家的历史将从这里开始！\n\n本作品发售于1994年，是Super Famicom上的对战格斗动作游戏。\n来自世界各地的格斗强者都聚集于此。有些人是为了养家糊口，\n有些人则是为了复仇……随着各自的意愿交织相错，激烈的战斗\n也即将开始。游戏采用WPS（弱点点数系统）。每个角色都有一个弱点，\n如果受到一定程度的伤害，就会被击晕一段时间。所以即使身处\n不利的情况，也能扭转局面。来享受紧张刺激的战斗吧。
 exploded_strings
 SYS_DIALOG_GENERIC_BUTTON1	[GENERIC_DIALOG_BUTTON1]
 SYS_DIALOG_GENERIC_BUTTON2	[GENERIC_DIALOG_BUTTON2]
@@ -459,8 +468,6 @@ SYS_HUD_GUIDE_PRO_MOVE	[IMG_BUTTON_Y]  移动
 SYS_HUD_GUIDE_PRO_MOVE2	[IMG_BUTTON_Y]  移动（长按排序）
 SYS_HUD_GUIDE_PRO_SORT	[IMG_BUTTON_Y]  长按排序
 SYS_HUD_GUIDE_PRO_PLAY	[IMG_BUTTON_A]  开始
-SYS_HUD_GUIDE_PRO_INVITE	[IMG_BUTTON_PLUS]  邀请好友
-SYS_HUD_GUIDE_PRO_Invitation	[IMG_BUTTON_PLUS]  邀请好友
 SYS_HUD_GUIDE_PRO_GUIDE	[IMG_BUTTON_X]  操作指南
 SYS_HUD_GUIDE_PRO_EXCHANGE	[IMG_BUTTON_Y]  更换1P/2P
 SYS_HUD_GUIDE_PRO_VOICE_CHAT	[IMG_BUTTON_X]  如何进行语音聊天？
@@ -729,20 +736,26 @@ S-2055_j	スーパードンキーコング
 S-2139_j	対決!!ブラスナンバーズ
 S-2051_j	MOTHER2 ギーグの逆襲
 S-2005_j	F-ZERO
+S-2174_j	ファイターズヒストリー
 S-2027_j	Fire Emblem 紋章の謎
 S-2028_j	Fire Emblem 聖戦の系譜
 S-2037_j	牧場物語
 S-2006_j	戦え原始人3 主役はやっぱりJOE&MAC
 S-2169_j	JOE&MAC 戦え原始人
 S-2029_j	星之卡比 超级豪华版
+S-2029_j-sp1	星之卡比 超级豪华版
 S-2007_j	カービィボウル
+S-2007_j-sp1	カービィボウル
 S-2008_j	星之卡比３
+S-2008_j-sp1	星之卡比３
+S-2172_j	カービィのきらきらきっず
 S-2151_j	マジカルドロップ2
 S-2044_j	マリオのスーパーピクロス
 S-2034_j	パネルでポン
 S-2009_j	パイロットウイングス
 S-2010_j	Pop'nツインビー
 S-2145_j	サイコドリーム
+S-2141_j	ラッシング・ビート
 S-2148_j	真・女神転生Ⅱ
 S-2149_j	真・女神転生if...
 S-2147_j	真・女神転生
@@ -767,6 +780,7 @@ S-2021_j	スーパーフォーメーションサッカー
 S-2022_j	スーパーテニス・ワールドサーキット
 S-2142_j	ファイヤー・ファイティング
 S-2146_j	DEAD DANCE
+S-2154_j	海腹川背
 S-2049_j	ワイルドガンズ
 S-2023_j	超级马力欧 耀西岛
 S-2024_j	塞尔达传说 众神的三角神力

@@ -1,4 +1,3166 @@
-CHSC.msbt
+MiscData.pak\TEXT_RequiredEntries.msbt
+GEN_Inventory_Numbers	0123456789
+GEN_SingleParam	\{0}
+GEN_Versions	code:\{0} data:\{1}
+Preload\MPR1\GuiSysMP1.pak\TEXT_CrashedShipAreaNames.msbt
+[B2B4EED7]_000	鸥尔菲恩坠落点
+[45824A25]_000	研究区域连接通道A
+[F0A0E31D]_000	研究区域连接通道B
+[CCC00015]_000	研究区域连接通道C
+[2CF7ADD2]_000	生化科技研究区域1
+[2834A136]_000	研究数据保管区域
+[CFBB9D7A]_000	动力炉入口
+[4026B776]_000	保存站
+[F0412CCA]_000	动力炉
+[5232007D]_000	排气口C
+[9B2D08C2]_000	排气口D
+[6AF70D68]_000	排气口E
+[ADE33280]_000	货物升降台
+[0238C356]_000	鸥尔菲恩连接隧道
+[622428A4]_000	电梯：往研究区域
+[84ACB1F8]_000	通风管
+Preload\MPR1\GuiSysMP1.pak\TEXT_CraterAreaNames.msbt
+[B8D3C667]_000	撞击坑洞
+[5856D93B]_000	费原子核心隧道A
+[23485BD8]_000	费原子核心隧道B
+[DF9C7D3C]_000	传送门
+[201FF947]_000	费原子核心
+[E531EDAF]_000	坑洞主厅
+[58FB8161]_000	坑洞大厅1
+[856D58E4]_000	坑洞大厅2
+[F81E5EBC]_000	坑洞大厅3
+[25888739]_000	坑洞大厅4
+[BFE8F636]_000	坑洞悬崖
+[9842EBF7]_000	陨石核心
+[D5D8DD20]_000	导弹站
+[3BBD6FB7]_000	Special Ending
+Preload\MPR1\GuiSysMP1.pak\TEXT_IceWorldAreaNames.msbt
+[F1ACE236]_000	冰冻山谷
+[6F9B4863]_000	冰冻广场
+[27157897]_000	冰冻庭园
+[4ED3BCD8]_000	冰冻遗迹
+[2146196C]_000	冰冻峡谷
+[2BB2D46B]_000	冰冻瀑布
+[501C1B73]_000	冰冻圣堂
+[768CA684]_000	冰霜萨满室
+[A31A61D3]_000	控制塔
+[2DACDF33]_000	保安室
+[71779F23]_000	九头蛇实验室
+[3BC68CD9]_000	天文台
+[1327ECF0]_000	以太实验室
+[3C28345E]_000	主实验室
+[2A7752FD]_000	双桥梁
+[5CB624E9]_000	冰霜洞穴
+[A9374BD0]_000	芬朵拉娜洞穴
+[0E1EC680]_000	湖泊洞穴
+[832CFFC2]_000	芬朵拉娜地下湖
+[8DF1AB6C]_000	冰冻圆顶室
+[3B5F7483]_000	Courtyard Access
+[473E5158]_000	冰冻广场通道
+[BFFC1AEE]_000	地下湖通道
+[22F3FB98]_000	冰霜隧道
+[5E92DE43]_000	瀑布通道
+[C39D3F35]_000	湖泊洞穴通道
+[95098BC3]_000	双桥梁通道A
+[08066AB5]_000	冰霜洞穴通道
+[321E3E44]_000	隐藏洞穴
+[F942EDE1]_000	洞穴顶部
+[E447DD59]_000	冰冻圆顶室管理室
+[54D106A6]_000	西塔
+[D2457408]_000	东塔
+[6E69E7E2]_000	地图站
+[E8FD954C]_000	保存站1
+[74674F6E]_000	实验室门
+[E968AE18]_000	冰冻遗迹门
+[B607D038]_000	地下水脉
+[2198C111]_000	西塔连接通道
+[A70CB3BF]_000	以太实验室连接通道
+[6C50601A]_000	洞穴走廊
+[715550A2]_000	冰冻庭园通道
+[BA098307]_000	萨满室门
+[3C9DF1A9]_000	冰冻峡谷通道
+[F7C1220C]_000	冰冻庭园洞窟
+[069790D9]_000	九头蛇实验室连接通道
+[8CA504D8]_000	双桥梁通道B
+[6DCBC075]_000	主实验室连接通道
+[F0C42103]_000	天文台连接通道
+[23A146E9]_000	保存站4
+[AB7D1A93]_000	保存站2
+[B48A4CEA]_000	保存站3
+[C0E2A999]_000	圣堂走廊
+[218C6D34]_000	冰冻圆顶室门
+[BC838C42]_000	西圆顶室走廊
+[5DED48EF]_000	南圆顶室走廊
+[EAD47FF5]_000	电梯：往火山洞穴南面
+[F7D14F4D]_000	电梯：往火山洞穴西面
+Preload\MPR1\GuiSysMP1.pak\TEXT_InGame.msbt
+[0552A456]_CombatVisor	战斗面罩
+[0552A456]_ScanVisor	扫描面罩
+[0552A456]_XRayVisor	X光面罩
+[0552A456]_ThermoVisor	热成像面罩
+[0552A456]_PowerBeam	加强光束
+[0552A456]_IceBeam	冰冻光束
+[0552A456]_WaveBeam	波动光束
+[0552A456]_PlasmaBeam	等离子光束
+[0552A456]_PhazonBeam	费原子光束
+[0552A456]_EnergyLow	能量不足
+[0552A456]_ThreatProximity	危险
+[0552A456]_ThreatDamage	受损
+[0552A456]_MissileWarning	弹药不足
+[0552A456]_MissileDepleted	弹药耗尽
+[0552A456]_DownloadingMessage	Scanning…
+[0552A456]_DownloadedMessage	扫描完成。
+[0552A456]_ScanOutOfRangeMessage	超出扫描范围。
+[0552A456]_MessageContinue	{[0100|1ccd]} 继续
+[0552A456]_ThermalVisorOverload	热成像面罩已超过负荷！\n请切换战斗面罩。
+[0552A456]_FrozenPlayerFirstPerson	功能全部冻结，\n请连按{[0100|05cd]}破坏冰块。
+[0552A456]_FrozenPlayerMorphBall	功能全部冻结，\n请使用炸弹破坏冰块。
+[0552A456]_HyperMode	超能模式
+[0552A456]_Yes	是
+[0552A456]_No	否
+[0552A456]_QuitGame	要结束游戏吗？
+[0552A456]_Continue	{size[5500]}要从保存点继续游戏吗？{size[6400]}
+[0552A456]_SpacePirate	海盗数据
+[0552A456]_ChozoLore	鸟人传说
+[0552A456]_Creatures	生物
+[0552A456]_Gameplay	调查
+[0552A456]_Artifacts	文物
+[0552A456]_InstructionsLeft	{[0100|1dcd]} 返回游戏
+[0552A456]_InstructionsMid	{[0100|29cd]} 切换显示
+[0552A456]_InstructionsRightWorld	世界地图
+[0552A456]_InstructionsRightUniverse	区域地图
+[0552A456]_Boss0ParasiteQueen	寄生虫后
+[0552A456]_Boss1Flagra	富拉古拉
+[0552A456]_Boss2Thardus	撒达斯
+[0552A456]_Boss3OmegaPirate	欧米伽海盗
+[0552A456]_Boss4Ridley	机器利德雷
+[0552A456]_Boss5MetroidPrime	密特罗德究极
+[0552A456]_Boss6	 
+[0552A456]_Energy	ENERGY
+[0552A456]_ThardusBoost	使用加速球来闪避。
+[0552A456]_ArtifactAcquired	获得文物。
+[0552A456]_FirstPowerBombPickup	获得重磅炸弹。
+[CEDB5BA7]_000	{color[ffffffff]}漂浮于行星泰隆Ⅳ轨道上的废弃太空船，\n发出了一道不明求救信号……{color[000000ff]}
+[CEDB5BA7]_001	漂浮于行星泰隆Ⅳ轨道上的废弃太空船，\n发出了一道不明求救信号……
+[C5F409E5]_000	{color[ffffffff]}坑洞即将崩塌，\n请尽快逃离现场！{color[000000ff]}
+[C5F409E5]_001	坑洞即将崩塌，\n请尽快逃离现场！
+[398D1DEC]_000	{color[ffffffff]}目标丢失。\n即将展开行星探索。\n准备着陆。{color[000000ff]}
+[398D1DEC]_001	已丢失目标。\n即将进行行星探索。\n开始准备着陆。
+[19C3F7F7]_EncodingMismatch	数据已损毁。\n无法使用文件。
+[19C3F7F7]_CorruptedFile	数据已损毁，\n无法使用文件。
+[19C3F7F7]_SaveFile	要保存吗？
+[19C3F7F7]_ChoiceYes	是
+[19C3F7F7]_ChoiceNo	否
+[19C3F7F7]_ChoiceContinueWithWarning	继续
+[19C3F7F7]_ChoiceContinueWithoutSave	不保存继续游戏
+[19C3F7F7]_ChoiceRetry	重试
+[19C3F7F7]_ChoiceCancel	取消
+[19C3F7F7]_ChoiceDeleteCorruptedFile	删除损毁的文件
+[19C3F7F7]_ChoiceSave	保存
+[19C3F7F7]_StatusWriting	正在保存……\n请勿触碰主机电源键。
+[19C3F7F7]_TitleWarning	警告
+[500EC6A0]_LogScreenTitle	【 日志 】
+[500EC6A0]_SpacePirate	海盗数据
+[500EC6A0]_ChozoLore	鸟人传说
+[500EC6A0]_Creatures	生物
+[500EC6A0]_Gameplay	调查
+[500EC6A0]_Artifacts	文物
+[500EC6A0]_LogBookScreenInstructionPanelLabel	日志
+[500EC6A0]_OptionsScreenInstructionPanelLabel	选项
+[500EC6A0]_InventoryScreenInstructionPanelLabel	状态
+[500EC6A0]_InventoryScreenTitle	【 状态 】
+[500EC6A0]_BeamCategory	手臂加农炮
+[500EC6A0]_MorphBallCategory	变形球
+[500EC6A0]_SuitsCategory	加强服
+[500EC6A0]_VisorsCategory	面罩
+[500EC6A0]_SecondaryItemsCategory	副道具
+[500EC6A0]_OptionsTitle	【 选项 】
+[500EC6A0]_HudOptions	面罩
+[500EC6A0]_DisplayOptions	显示
+[500EC6A0]_SoundOptions	声音
+[500EC6A0]_ControllerOptions	控制
+[500EC6A0]_QuitGameOption	结束游戏
+[500EC6A0]_HudOpacityOption	面罩透明度
+[500EC6A0]_HelmetOpacityOption	视窗透明度
+[500EC6A0]_HudLagOption	视窗摇晃选项
+[500EC6A0]_RedundantHintOption	提示系统
+[500EC6A0]_EnglishHudOption	显示语言
+[500EC6A0]_SFXVolumeOption	音效音量
+[500EC6A0]_MusicVolumeOption	背景音乐音量
+[500EC6A0]_SwichVisorBeamOption_00	面罩/光束对调
+[500EC6A0]_SwichVisorBeamOption	面罩/光束对调
+[500EC6A0]_RestoreDefaultOption	默认
+[500EC6A0]_PowerBeam	加强光束
+[500EC6A0]_IceBeam	冰冻光束
+[500EC6A0]_WaveBeam	波动光束
+[500EC6A0]_PlasmaBeam	等离子光束
+[500EC6A0]_PhazonBeam	费原子光束
+[500EC6A0]_PowerBeamCombo	超级导弹
+[500EC6A0]_IceBeamCombo	冰冻散射枪
+[500EC6A0]_WaveBeamCombo	波动炮
+[500EC6A0]_PlasmaBeamCombo	火焰喷射器
+[500EC6A0]_MorphBall	变形球
+[500EC6A0]_BoostBall	加速球
+[500EC6A0]_SpiderBall	蜘蛛球
+[500EC6A0]_Bomb	炸弹
+[500EC6A0]_PowerBomb	重磅炸弹
+[500EC6A0]_PowerSuit	普通服
+[500EC6A0]_VariaSuit	防护服
+[500EC6A0]_GravitySuit	重力服
+[500EC6A0]_PhazonSuit	费原子服
+[500EC6A0]_EnergyTank	能量包
+[500EC6A0]_CombatVisor	战斗面罩
+[500EC6A0]_ScanVisor	扫描面罩
+[500EC6A0]_XRayVisor	X光面罩
+[500EC6A0]_ThermalVisor	热成像面罩
+[500EC6A0]_SpaceJumpBoots	连跳
+[500EC6A0]_GrappleBeam	抓钩光束
+[500EC6A0]_MissileLauncher	导弹
+[500EC6A0]_ChargeBeam	蓄光束
+[500EC6A0]_BeamCombo	蓄力连击
+[500EC6A0]_EmptyBeamComboDescription	[ ？？？]\n\n\n\n\n\n\n\n\n
+[500EC6A0]_CombatVisorDescription	{color[89d6ffff]}战斗面罩：{color[000000ff]}\n萨姆斯的标准装备，\n可显示正常视野。\n\n将面罩中央的{color[ffaf00ff]}准星{color[000000ff]}对准敌人，\n按下{[0100|0bcd]}即可{color[ffaf00ff]}锁定{color[000000ff]}。\n\n面罩下方会显示当前装备的面罩。\n按下{[0100|10cd]}可从战斗面罩\n切换至{color[ffaf00ff]}扫描面罩{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}“选项”{color[000000ff]}内的{color[ffaf00ff]}“面罩/光束对调”{color[000000ff]}\n可将面罩和光束的切换键{color[ffaf00ff]}对调{color[000000ff]}。
+[500EC6A0]_ScanVisorDescription	{color[89d6ffff]}扫描面罩：{color[000000ff]}\n标准装备，可显示正常视野。\n\n通过{color[ffaf00ff]}扫描{color[000000ff]}可{color[ffaf00ff]}采集各种数据{color[000000ff]}，\n亦可分析、{color[ffaf00ff]}启动{color[000000ff]}特定装置。\n{color[ffaf00ff]}装备扫描面罩时{color[000000ff]}，{color[ffaf00ff]}无法进行任何攻击{color[000000ff]}。\n\n按下{[0100|10cd]}即可切换{color[ffaf00ff]}扫描面罩{color[000000ff]}。\n对着目标{[0100|3acd]}按下{[0100|0bcd]}持续{color[ffaf00ff]}锁定\n{color[000000ff]}即可{color[ffaf00ff]}扫描目标{color[000000ff]}。\n使用扫描面罩时，\n按下{[0100|11cd]}或{[0100|30cd]}\n可切换{color[ffaf00ff]}战斗面罩{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n出现{[0100|3bcd]}标志代表含有重要信息。\n{color[ffaf00ff]}扫描{color[000000ff]}敌人时，\n可以得知其能力和弱点。\n\n在暂停菜单内的{color[ffaf00ff]}“日志”\n{color[000000ff]}可查看扫描过的数据。\n在此画面按下{[0100|2dcd]}打开{color[ffaf00ff]}日志{color[000000ff]}吧。
+[500EC6A0]_XRayVisorDescription	{color[89d6ffff]}X光面罩：{color[000000ff]}\n可侦测到正常视野看不见的东西，\n例如辨识{color[ffaf00ff]}隐形的敌人、物体{color[000000ff]}，\n以及{color[ffaf00ff]}透视墙壁{color[000000ff]}等等。\n\n按下{[0100|0ecd]}可切换{color[ffaf00ff]}X光面罩{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n仅能辨识不可透视物质，\n不利于掌握周围情况。
+[500EC6A0]_ThermoVisorDescription	{color[89d6ffff]}热成像面罩：\n{color[000000ff]}能利用红外线光谱侦测环境，\n在暗处也可{color[ffaf00ff]}通过温差辨识物体{color[000000ff]}，\n温度越高颜色越鲜艳。\n\n按下{[0100|0fcd]}可切换{color[ffaf00ff]}热成像面罩{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n可有效探索能见度低的场所，\n适用于暗处或天候不佳时。\n{color[ffaf00ff]}在高温地区或爆炸时应避免装备{color[000000ff]}。
+[500EC6A0]_PowerBeamDescription	{color[89d6ffff]}加强光束：{color[000000ff]}\n初始装备{color[ffaf00ff]}手臂加农炮{color[000000ff]}可以发射的\n光束，\n由萨姆斯的活体能量转换而来。\n虽然攻击力不高，但{color[ffaf00ff]}1秒内约可连射9发{color[000000ff]}。\n\n按下{[0100|07cd]}可切换{color[ffaf00ff]}加强光束{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n使用加强光束击中{color[ffaf00ff]}无法起效{color[000000ff]}的目标\n时，光束会{color[ffaf00ff]}反弹{color[000000ff]}。
+[500EC6A0]_PowerBeamComboDescription	{color[89d6ffff]}超级导弹：{color[000000ff]}\n{color[ffaf00ff]}单发型组合弹{color[000000ff]}。\n每射{color[ffaf00ff]}1发即消耗5发导弹{color[000000ff]}。\n\n{color[ffaf00ff]}可破坏{color[000000ff]}一种叫做{color[ffaf00ff]}柯鲁达合金{color[000000ff]}的\n坚硬物质。\n\n\n\n
+[500EC6A0]_IceBeamDescription	{color[89d6ffff]}冰冻光束：{color[000000ff]}\n在高频磁场下急速结冻的电子粒光束。\n可夺走敌人的热能，\n{color[ffaf00ff]}被冻结的目标将暂时无法行动{color[000000ff]}。\n\n按下{[0100|08cd]}可切换{color[ffaf00ff]}冰冻光束{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n对高温地区的敌人效果显著。\n{color[ffaf00ff]}用导弹攻击结冻的敌人，\n可使其粉碎{color[000000ff]}。
+[500EC6A0]_IceBeamComboDescription	{color[89d6ffff]}冰冻散射枪：{color[000000ff]}\n{color[ffaf00ff]}单发型组合弹{color[000000ff]}。\n附加追击能力，攻击力极强。\n每射{color[ffaf00ff]}1发即消耗10发导弹{color[000000ff]}。\n但{color[ffaf00ff]}机器{color[000000ff]}系敌人即使{color[ffaf00ff]}冻结也会复活{color[000000ff]}。\n\n\n\n\n
+[500EC6A0]_WaveBeamDescription	{color[89d6ffff]}波动光束：{color[000000ff]}\n赋予超高压电流以指向性\n并进行发射的光束。\n{color[ffaf00ff]}精确度高{color[000000ff]}，\n但光束会分散成三道电流，\n{color[ffaf00ff]}导致每道电流攻击力降低{color[000000ff]}。\n按下{[0100|09cd]} 可切换{color[ffaf00ff]}波动光束{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n被攻击的敌人会\n{color[ffaf00ff]}因触电暂时无法移动{color[000000ff]}。
+[500EC6A0]_WaveBeamComboDescription	{color[89d6ffff]}波动炮：{color[000000ff]}\n{color[ffaf00ff]}持续型组合弹{color[000000ff]}，\n会不断产生电流追击敌人。\n\n{color[ffaf00ff]}即使不锁定敌人{color[000000ff]}，\n只要击中就会持续{color[ffaf00ff]}追击{color[000000ff]}目标。\n发射时{color[ffaf00ff]}消耗10发导弹{color[000000ff]}，\n之后{color[ffaf00ff]}每秒消耗5发导弹{color[000000ff]}。\n\n
+[500EC6A0]_PlasmaBeamDescription	{color[89d6ffff]}等离子光束：{color[000000ff]}\n带电粒子活化后产生的\n超高温能量光束。\n{color[ffaf00ff]}蓄光束{color[000000ff]}发射出的等离子火球会\n{color[ffaf00ff]}灼烧敌人并造成伤害{color[000000ff]}。\n\n按下{[0100|0acd]}可切换{color[ffaf00ff]}等离子光束{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n对低温地区的敌人效果显著。
+[500EC6A0]_PlasmaBeamComboDescription	{color[89d6ffff]}火焰喷射器：{color[000000ff]}\n{color[ffaf00ff]}持续型组合弹{color[000000ff]}，\n能不断释放高温火焰。\n\n发射时{color[ffaf00ff]}消耗10发导弹{color[000000ff]}，\n之后{color[ffaf00ff]}每秒消耗5发导弹{color[000000ff]}。\n\n\n\n
+[500EC6A0]_PhazonBeamDescription	{color[89d6ffff]}费原子光束：{color[000000ff]}\n{color[ffaf00ff]}费原子{color[000000ff]}渗透进加强服后，\n{color[ffaf00ff]}连带影响了手臂加农炮{color[000000ff]}。\n这层影响使手臂加农炮得以\n发射威力强大的{color[ffaf00ff]}费原子光束{color[000000ff]}。\n\n但{color[ffaf00ff]}无法使出{color[000000ff]}蓄光束和{color[ffaf00ff]}蓄力连击{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}只有在可吸收费原子能量的情况下\n{color[000000ff]}才能发射{color[ffaf00ff]}费原子光束{color[000000ff]}。
+[500EC6A0]_SpaceJumpBootsDescription	{color[89d6ffff]}连跳：{color[000000ff]}\n通过高机动性推进能量喷射靴，\n可大幅提升萨姆斯的跳跃能力。\n\n按下{[0100|05cd]}{color[ffaf00ff]}跳跃{color[000000ff]}后，\n于半空中{color[ffaf00ff]}再次按下{color[000000ff]}{[0100|05cd]}，\n即可在该位置{color[ffaf00ff]}再次跳跃{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}连跳{color[000000ff]}的关键在于{color[ffaf00ff]}时机{color[000000ff]}，\n掌握技巧才能跳得更高更远。\n此外，\n连跳也能{color[ffaf00ff]}有效闪避敌人的攻击{color[000000ff]}。
+[500EC6A0]_GrappleBeamDescription	{color[89d6ffff]}抓钩光束：{color[000000ff]}\n可{color[ffaf00ff]}悬吊{color[000000ff]}于建筑物天花板处\n{color[ffaf00ff]}抓钩点{color[000000ff]}的绳状光束。\n通过{color[ffaf00ff]}摆荡{color[000000ff]}，\n即可{color[ffaf00ff]}移动{color[000000ff]}到连跳到不了的地方。\n\n对着{color[ffaf00ff]}抓钩点{color[000000ff]}{[0101|220054005800540052005f0047006c00790070006800470072006100700070006c0065000100]}长按{[0100|0bcd]}持续{color[ffaf00ff]}锁定{color[000000ff]}，\n可发射{color[ffaf00ff]}抓钩光束{color[000000ff]}。\n按住{[0100|0bcd]}可维持悬吊状态，\n{color[ffaf00ff]}放开后即解除{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n摆荡中推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}{color[ffaf00ff]}可改变摆荡的方向{color[000000ff]}。
+[500EC6A0]_MissileLauncherDescription	{color[89d6ffff]}导弹：{color[000000ff]}\n装备在手臂加农炮内的{color[ffaf00ff]}导弹{color[000000ff]}，\n具有{color[ffaf00ff]}追击能力{color[000000ff]}。\n\n{color[ffaf00ff]}初期只能装备5发{color[000000ff]}，\n取得{color[ffaf00ff]}导弹包后{color[000000ff]}，\n{color[ffaf00ff]}可再多装备5发{color[000000ff]}。\n\n按下{[0100|06cd]}发射{color[ffaf00ff]}导弹{color[000000ff]}。\n按下{[0100|30cd]}回到可发射光束的状态。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}锁定敌人{color[000000ff]}后再发射{color[ffaf00ff]}导弹{color[000000ff]}，\n导弹就会自动{color[ffaf00ff]}追击目标{color[000000ff]}。\n导弹攻击力高，\n但必须随时留意剩余数量。
+[500EC6A0]_PowerSuitDescription	{color[89d6ffff]}普通服：{color[000000ff]}\n{color[ffaf00ff]}萨姆斯·亚兰专用{color[000000ff]}的基本款{color[ffaf00ff]}加强服{color[000000ff]}，\n由鸟人族的外骨骼改良而成。\n\n具备基本的生命维持装置\n和防御功能，\n但{color[ffaf00ff]}性能不及防护服{color[000000ff]}。\n可通过{color[ffaf00ff]}“组件功能”\n追加其他功能{color[000000ff]}、新武器和面罩。\n\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n为提升战斗效率，\n最好尽快{color[ffaf00ff]}加强普通服的性能{color[000000ff]}。\n
+[500EC6A0]_VariaSuitDescription	{color[89d6ffff]}防护服：{color[000000ff]}\n{color[ffaf00ff]}提升了耐热性能{color[000000ff]}的加强服。\n\n防御性能{color[ffaf00ff]}比普通服略佳{color[000000ff]}，\n可稍微减轻伤害。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n防护服并非完全耐热，\n在{color[ffaf00ff]}极高温环境{color[000000ff]}下仍须{color[ffaf00ff]}注意{color[000000ff]}。
+[500EC6A0]_GravitySuitDescription	{color[89d6ffff]}重力服：{color[000000ff]}\n强化了{color[ffaf00ff]}耐热功能{color[000000ff]}与\n{color[ffaf00ff]}水中机动能力{color[000000ff]}的加强服。\n\n防御性能{color[ffaf00ff]}比防护服优秀{color[000000ff]}，\n可大幅减轻敌人造成的伤害。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n无法抵御有害液体侵蚀，\n穿上后仍会受到伤害。\n\n强化了水中面罩功能，\n{color[ffaf00ff]}能让水中视野变清晰{color[000000ff]}。
+[500EC6A0]_PhazonSuitDescription	{color[89d6ffff]}费原子服：{color[000000ff]}\n加强服遭{color[ffaf00ff]}费原子{color[000000ff]}入侵后转变而成。\n\n具有对费原子物质的抗性，\n{color[ffaf00ff]}能将费原子造成的伤害无效化{color[000000ff]}。\n{color[ffaf00ff]}防御性能大幅提升{color[000000ff]}，\n可大幅减轻伤害。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n即使穿上费原子服，\n也{color[ffaf00ff]}不代表能抵御所有费原子物质{color[000000ff]}。
+[500EC6A0]_EnergyTankDescription	{color[89d6ffff]}能量包：{color[000000ff]}\n让服装的屏障{color[ffaf00ff]}能量{color[000000ff]}上限\n{color[ffaf00ff]}增加100点{color[000000ff]}。\n\n同时将能量{color[ffaf00ff]}回复至上限{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n为应付更凶狠的敌人，\n须尽量搜集{color[ffaf00ff]}能量包{color[000000ff]}。
+[500EC6A0]_MorphBallDescription	{color[89d6ffff]}变形球：{color[000000ff]}\n利用{color[ffaf00ff]}加强服{color[000000ff]}的变形功能{color[ffaf00ff]}化为球体{color[000000ff]}。\n\n按下{[0100|13cd]}可切换成{color[ffaf00ff]}变形球{color[000000ff]}，\n再按一次解除。\n化为变形球时\n可推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}来移动并调整方向。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}变形球{color[000000ff]}与加强服一样具{color[ffaf00ff]}组件功能{color[000000ff]}，\n可提升性能。
+[500EC6A0]_BoostBallDescription	{color[89d6ffff]}加速球：{color[000000ff]}\n于变形球模式下使用{color[ffaf00ff]}加速功能{color[000000ff]}。\n\n长按{[0100|31cd]}并{color[ffaf00ff]}放开可加速{color[000000ff]}。\n按压时间越长加速时间也会越久。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n遇到U字地形{color[ffaf00ff]}“半管式滑道”{color[000000ff]}时，\n先于下坡时蓄力，\n滚到对面坡道时再{color[ffaf00ff]}抓紧时机加速{color[000000ff]}，\n即可抵达高处。
+[500EC6A0]_SpiderBallDescription	{color[89d6ffff]}蜘蛛球：{color[000000ff]}\n于变形球模式下使用{color[ffaf00ff]}磁化功能{color[000000ff]}。\n\n按下{[0100|0ccd]}附着于{color[ffaf00ff]}磁化轨道{color[000000ff]}上，\n推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}在轨道上移动。{color[ffaf00ff]}\n放开{color[000000ff]}{[0100|0ccd]}即可{color[ffaf00ff]}离开{color[000000ff]}轨道。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n在轨道上使用{color[ffaf00ff]}炸弹{color[000000ff]}\n可使出{color[ffaf00ff]}炸弹跳跃{color[000000ff]}。
+[500EC6A0]_BombDescription	{color[89d6ffff]}炸弹：{color[000000ff]}\n{color[ffaf00ff]}变形球{color[000000ff]}模式下的标准武器。\n除了能对敌人造成伤害，\n也可{color[ffaf00ff]}破坏墙壁{color[000000ff]}或是{color[ffaf00ff]}启动特殊装置{color[000000ff]}。\n\n按下{[0100|30cd]}设置{color[ffaf00ff]}炸弹{color[000000ff]}，\n最多{color[ffaf00ff]}可连续设置3颗炸弹{color[000000ff]}。\n也可以利用{color[ffaf00ff]}炸弹{color[000000ff]}的爆炸气流\n使用{color[ffaf00ff]}炸弹跳跃{color[000000ff]}。\n\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}可破坏{color[000000ff]}由{color[ffaf00ff]}沙质石头{color[000000ff]}或{color[ffaf00ff]}泰隆合金{color[000000ff]}等\n构成的物质。
+[500EC6A0]_PowerBombDescription	{color[89d6ffff]}重磅炸弹：{color[000000ff]}\n{color[ffaf00ff]}变形球{color[000000ff]}模式下的强力武器，\n在所有武器中{color[ffaf00ff]}\n拥有最高等级的破坏力{color[000000ff]}。\n\n按下{[0100|06cd]}可设置重磅炸弹，\n但无法连续设置。\n初期只能持有4颗。\n获得{color[ffaf00ff]}重磅炸弹包{color[000000ff]}后{color[ffaf00ff]}\n可再多持有1颗{color[000000ff]}。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n{color[ffaf00ff]}可破坏{color[000000ff]}高硬度的{color[ffaf00ff]}斑迪兹姆{color[000000ff]}。\n因持有数量较少，\n需注意使用的时机。
+[500EC6A0]_ChargeBeamDescription	{color[89d6ffff]}蓄光束：{color[000000ff]}\n在手臂加农炮内蓄积光束能量，\n再一口气释放。\n\n长按{[0100|30cd]}蓄力，放开后即可发射。\n\n{color[ffaf00ff]}蓄力时可吸引并拾取{color[000000ff]}附近的回复道具。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n蓄光束的{color[ffaf00ff]}破坏力{color[000000ff]}会根据\n{color[ffaf00ff]}蓄力时间的长短{color[000000ff]}而定。
+[500EC6A0]_BeamComboDescription	{color[89d6ffff]}蓄力连击：{color[000000ff]}\n把{color[ffaf00ff]}“导弹”{color[000000ff]}和{color[ffaf00ff]}“蓄光束”{color[000000ff]}效果\n{color[ffaf00ff]}合二为一{color[000000ff]}的攻击。\n\n使用这种联合攻击，\n可产生比普通攻击\n更强大的{color[ffaf00ff]}破坏力{color[000000ff]}。\n长按{[0100|30cd]}蓄满光束，\n在持续按住{[0100|30cd]}时按下{[0100|06cd]}\n即可发动。\n\n{color[89d6ffff]}萨姆斯的记录：{color[000000ff]}\n获得相关道具后，\n{color[ffaf00ff]}会在这里记录\n蓄力连击{color[000000ff]}的详细信息。\n\n\n\n\n
+[500EC6A0]_On	开启
+[500EC6A0]_Off	关闭
+[500EC6A0]_TrophyMode	变焦
+[500EC6A0]_LegendExit	结束
+[500EC6A0]_LegendBack	返回
+[500EC6A0]_LegendNext	确定
+[500EC6A0]_VisorBeamSwitchOn	开启
+[500EC6A0]_VisorBeamSwitchOff	关闭
+[500EC6A0]_HudLanaguageEnglish	English
+[500EC6A0]_HudLanaguageJapanese	简体中文
+[95019A7A]_MainText	M I S S I O N  C O M P L E T E
+[95019A7A]_PercentageComplete	收集率 \{0}%
+[95019A7A]_TotalTime	游玩时间\{0}:\{1}
+[95019A7A]_HardModeUnlocked	已解锁困难模式！
+[95019A7A]_MessageContinue	{[0100|1ccd]} 继续
+[6A403A19]_CombatVisor	战斗面罩
+[6A403A19]_ScanVisor	扫描面罩
+[6A403A19]_XRayVisor	X光面罩
+[6A403A19]_ThermoVisor	热成像面罩
+[6A403A19]_PowerBeam	加强光束
+[6A403A19]_IceBeam	冰冻光束
+[6A403A19]_WaveBeam	波动光束
+[6A403A19]_PlasmaBeam	等离子光束
+[6A403A19]_EnergyLow	能量不足
+[6A403A19]_ThreatProximity	危险
+[6A403A19]_ThreatDamage	受损
+[6A403A19]_MissileWarning	弹药不足
+[6A403A19]_MissileDepleted	弹药耗尽
+[6A403A19]_DownloadingMessage	扫描中……
+[6A403A19]_DownloadedMessage	扫描完成
+[6A403A19]_ScanOutOfRangeMessage	超出扫描范围
+[6A403A19]_Boss0ParasiteQueen	寄生虫后
+[6A403A19]_Boss1Flagra	富拉古拉
+[6A403A19]_Boss2Thardus	撒达斯
+[6A403A19]_Boss3OmegaPirate	欧米伽海盗
+[6A403A19]_Boss4Ridley	机器利德雷
+[6A403A19]_Boss5MetroidPrime	密特罗德究极
+[0B6267A0]_CombatVisor	{size[5a00]}Combat\nVisor{size[6400]}
+[0B6267A0]_ScanVisor	{size[5a00]}Scan\nVisor{size[6400]}
+[0B6267A0]_XRayVisor	{size[5a00]}X-Ray\nVisor{size[6400]}
+[0B6267A0]_ThermoVisor	{size[5a00]}Thermal\nVisor{size[6400]}
+[0B6267A0]_PowerBeam	{size[5a00]}Power\nBeam{size[6400]}
+[0B6267A0]_IceBeam	{size[5a00]}Ice\nBeam{size[6400]}
+[0B6267A0]_WaveBeam	{size[5a00]}Wave\nBeam{size[6400]}
+[0B6267A0]_PlasmaBeam	{size[5a00]}Plasma\nBeam{size[6400]}
+[0B6267A0]_EnergyLow	{size[5a00]}Energy Low{size[6400]}
+[0B6267A0]_ThreatProximity	{size[5a00]}Warning{size[6400]}
+[0B6267A0]_ThreatDamage	{size[5a00]}Damage{size[6400]}
+[0B6267A0]_MissileWarning	{size[5a00]}Missiles\nLow{size[6400]}
+[0B6267A0]_MissileDepleted	{size[5a00]}Depleted{size[6400]}
+[0B6267A0]_DownloadingMessage	{size[5a00]}Scanning...{size[6400]}
+[0B6267A0]_DownloadedMessage	{size[5a00]}Scan complete.{size[6400]}
+[0B6267A0]_ScanOutOfRangeMessage	{size[5a00]}Object out of scanning range.{size[6400]}
+[0B6267A0]_Boss0ParasiteQueen	Parasite Queen
+[0B6267A0]_Boss1Flagra	Flaahgra
+[0B6267A0]_Boss2Thardus	Thardus
+[0B6267A0]_Boss3OmegaPirate	Omega Pirate
+[0B6267A0]_Boss4Ridley	Meta Ridley
+[0B6267A0]_Boss5MetroidPrime	Metroid Prime
+[0552A456]_InstructionsA	{[0100|1ccd]}
+[0552A456]_ScreenshotSource	密特罗德究极
+[0552A456]_RestoreDefaultsMenu	要恢复成默认吗？
+[0552A456]_MapLegendText_PurpleDoorText	波动光束
+[0552A456]_MapLegendText_WhiteDoorText	冰冻光束
+[0552A456]_MapLegendText_RedDoorText	等离子光束
+[0552A456]_MapLegendText_GreyDoorText	导弹
+[0552A456]_MapLegendText_NotVisible	？？？
+[19C3F7F7]_SaveFileEndGame	若在此保存，\n文件会被通关数据覆盖。\n下次选择此文件时\n游戏将从头开始。\n\n确定要保存吗？
+[500EC6A0]_ZoomButton	{[0100|29cd]}
+[500EC6A0]_NextButton	{[0100|1ccd]}
+[500EC6A0]_BackButton	{[0100|1dcd]}
+[500EC6A0]_ExitButton	{[0100|17cd]}
+[500EC6A0]_ShiftLeftButton	{[0100|2ccd]}
+[500EC6A0]_ShiftRightButton	{[0100|2dcd]}
+[500EC6A0]_NextButtonPressed	{[0101|2a0054005800540052005f00500061007500730065004e0065007800740050007200650073007300650064000100]}
+[500EC6A0]_BackButtonPressed	{[0101|2a0054005800540052005f00500061007500730065004200610063006b0050007200650073007300650064000100]}
+[500EC6A0]_ExitButtonPressed	{[0101|2a0054005800540052005f0050006100750073006500450078006900740050007200650073007300650064000100]}
+[500EC6A0]_ShiftLeftButtonPressed	{[0101|260054005800540052005f005a006f006f006d004f007500740050007200650073007300650064000100]}
+[500EC6A0]_ShiftRightButtonPressed	{[0101|240054005800540052005f005a006f006f006d0049006e0050007200650073007300650064000100]}
+[500EC6A0]_LockOnFreeAim	锁定/自由瞄准
+[500EC6A0]_ReverseJumpFireControls	光束/跳跃对调
+[500EC6A0]_Sensitivity	视角灵敏度
+[500EC6A0]_QuestionMarks	？？？
+Preload\MPR1\GuiSysMP1.pak\TEXT_IntroLevelAreaNames.msbt
+[DB2330B8]_000	巡防舰鸥尔菲恩
+[45DAB3E8]_000	主船坞
+[B4A13728]_000	避难区域连接通道A
+[F60AFC04]_000	紧急避难区域
+[26CA1FF6]_000	避难区域连接通道B
+[1B087AE2]_000	地图站
+[4C05A704]_000	保存站
+[E72A3531]_000	电梯：往研究区域
+[7E6F41A4]_000	研究区域连接通道A
+[5AF23509]_000	生化科技研究区域1
+[9F2BE737]_000	研究区域连接通道B
+[C92F52A5]_000	研究数据保管区域
+[FA4CDC71]_000	研究区域连接通道C
+[29E0D78B]_000	货物升降台
+[69848506]_000	排气口A
+[7574CA8B]_000	排气口B
+[DB1C5B1A]_000	电梯：往研究区域
+[86D633E7]_000	监控屏幕通道
+[240206E1]_000	动力炉
+[D69C928A]_000	动力炉入口
+[9DB14D78]_000	排气口C
+[A4C9E038]_000	排气口D
+[B3E184F8]_000	排气口E
+[D638BAB8]_000	排气口F
+[C110DE78]_000	排气口G
+[F8687338]_000	排气口H
+[449ED3E6]_000	生化科技研究区域2
+[78F0B6AF]_000	电梯：往主船坞
+[3D3859B2]_000	气密舱
+[20AA1CFD]_000	气密舱连接通道
+[DCDD1BB1]_000	After Credits
+Preload\MPR1\GuiSysMP1.pak\TEXT_LavaWorldAreaNames.msbt
+[21015B5D]_000	火山洞穴
+[E0E1C4DA]_000	电梯：往冰冻山谷北面
+[BD4E14B9]_000	电梯：往世外桃源西面
+[1BEFC19B]_000	电梯：往鸟人遗迹北面
+[9AA5CF58]_000	熔岩湖泊通道
+[39F349F1]_000	保安门
+[EE11C9A9]_000	管理站连接通道A
+[A42F42E2]_000	管理站连接通道B
+[73CDC2BA]_000	熔岩花园连接桥
+[D09B4413]_000	熔岩桥
+[0779C44B]_000	熔岩小路
+[44E65285]_000	地热发电区域通道A
+[9304D2DD]_000	地热发电区域通道B
+[30525474]_000	工作站连接通道
+[241E67AF]_000	双熔岩池
+[6E48B2BF]_000	力之神殿
+[2C52CA13]_000	集中管理站
+[B6F6D592]_000	火山工作站
+[CC17B02F]_000	熔岩湖泊
+[049C2897]_000	熔岩花园
+[A82FAA33]_000	地热发电区域
+[4A01FD0C]_000	火山保管库
+[D2BFC1FA]_000	地热蓄积区域
+[18880D33]_000	燃烧小路
+[66DEBE97]_000	电梯：往冰冻山谷南面
+[FF5F6594]_000	电梯：往费原子矿场西面
+[4CAB9C23]_000	工作站连接桥
+[F685E768]_000	保存站1
+[701195C6]_000	保存站2
+[7D25E938]_000	地热发电准备室
+Preload\MPR1\GuiSysMP1.pak\TEXT_MinesWorldAreaNames.msbt
+[883BB687]_000	费原子矿场
+[C88215F0]_000	费原子采掘站
+[4E16675E]_000	主保安站
+[854AB4FB]_000	海盗研究区域1
+[984F8443]_000	旋转塔
+[531357E6]_000	海盗研究区域2
+[D5872548]_000	海盗研究区域3
+[1EDBF6ED]_000	中央发电所
+[EF8D4438]_000	密特罗德隔离区域
+[24D1979D]_000	密特罗德农场1
+[A5A9CDE1]_000	密特罗德农场2
+[6EF51E44]_000	密特罗德农场管理室
+[E8616CEA]_000	海盗战斗实验区域
+[233DBF4F]_000	费原子蓄积中心
+[B8A06707]_000	电梯：往B1
+[FD73B341]_000	电梯：往B2
+[47C4108D]_000	电梯：往火山洞穴南面
+[8D7B16B4]_000	电梯：往世外桃源南面
+[398086EF]_000	采掘站连接通道
+[BF14F441]_000	保安范围A
+[744827E4]_000	保安范围B
+[694D175C]_000	旋转塔走廊A
+[A211C4F9]_000	旋转塔走廊B
+[2485B657]_000	研究区域连接通道
+[EFD965F2]_000	蓄积中心连接隧道
+[1E8FD727]_000	大型排气口
+[D5D30482]_000	发电所连接通道
+[5347762C]_000	隔离区域连接通道A
+[981BA589]_000	隔离区域连接通道B
+[851E9531]_000	农场入口
+[4E424694]_000	费原子地下隧道
+[C8D6343A]_000	农场管理室连接通道
+[038AE79F]_000	战斗实验区域连接通道
+[F10A57D1]_000	蓄积中心连接通道B
+[BCC2F6DA]_000	污染物净化装置
+[779E257F]_000	蓄积中心连接通道A
+[30A2AC20]_000	保管室
+[E6FB4F3D]_000	仓库
+[63AD0B3D]_000	地图站
+[5E581365]_000	Missile Station Mines
+[BC6E6792]_000	保存站1
+[3AFA153C]_000	导弹站
+[F1A6C699]_000	保存站2
+[ECA3F621]_000	保存站3
+Preload\MPR1\GuiSysMP1.pak\TEXT_OverWorldAreaNames.msbt
+[A6B8CE2B]_000	泰隆世外桃源
+[630EA5FC]_000	电梯：往鸟人遗迹南面
+[DB1204A3]_000	神殿入口
+[8FD7A7E5]_000	降落地
+[1923E46E]_000	静谧庭园
+[C4FA6C8B]_000	泰隆峡谷
+[593523C0]_000	泰隆洞穴
+[10C41BBE]_000	伟大之树洞穴
+[62528BE7]_000	生命之泉
+[D6007C5A]_000	鸥尔菲恩坠落区域
+[BB14D662]_000	坠落区域通道A
+[8159A513]_000	文物神殿
+[D83F1351]_000	神殿主门
+[CD758404]_000	降落地
+[56E4C612]_000	生命之泉
+[1B2C6719]_000	文物神殿
+[F92C2264]_000	电梯：往火山洞穴东面
+[390E86B7]_000	电梯：往鸟人遗迹南面
+[F2525512]_000	电梯：往费原子矿场东面
+[9EE2172A]_000	电梯：往鸟人遗迹西面
+[0573553C]_000	电梯：往鸟人遗迹东面
+[3C77171B]_000	瀑布洞穴
+[BAE365B5]_000	坠落区域通道B
+[B36AA9A4]_000	坠落区域通道A
+[6CBA86A8]_000	大树洞穴通道B
+[217227A3]_000	大树洞穴通道A
+[EA2EF406]_000	生命之路
+[56B0E7D8]_000	空中回廊
+[9DEC347D]_000	泰隆峡谷通道B
+[80E904C5]_000	泰隆峡谷通道A
+[4BB5D760]_000	泰隆洞穴通道A
+[067D766B]_000	泰隆洞穴通道B
+[6F6C8433]_000	降落地走廊
+[D4E99B75]_000	树桩密室
+[C9ECABCD]_000	大树顶部
+Preload\MPR1\GuiSysMP1.pak\TEXT_Pickups.msbt
+[C132AB74]_000	获得X光面罩！
+[C132AB74]_001	按下{[0100|0ecd]}戴上X光面罩，\n可侦测到普通面罩无法显示的物体。
+[C132AB74]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[9E6F9F49]_000	获得变形球！
+[9E6F9F49]_001	按{[0100|13cd]}化为变形球。\n推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}可以移动。
+[9E6F9F49]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[6741F09A]_000	获得导弹包！
+[6741F09A]_001	导弹持有上限增加5发。
+[FDE81773]_000	获得导弹！
+[FDE81773]_001	按下{[0100|06cd]}发射导弹，\n可破坏门屏障等障碍物。
+[FDE81773]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[9A193171]_000	获得加速球！
+[9A193171]_001	在变形球模式长按{[0100|31cd]}蓄力， \n放开{[0100|31cd]}后即可加速。
+[9A193171]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[994C3AA8]_000	获得能量包！
+[994C3AA8]_001	能量上限增加100点。
+[B83C37AF]_000	获得波动光束！
+[B83C37AF]_001	按{[0100|09cd]}切换波动光束，\n可以为{color[8a2be2ff]}波动门{color[000000ff]}{[0100|37cd]}解锁。
+[B83C37AF]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[B3A2C79E]_000	获得等离子光束！
+[B3A2C79E]_001	按{[0100|0acd]}切换等离子光束，\n可以为{color[ff0a0aff]}等离子门{[0100|38cd]}{color[000000ff]}解锁。
+[B3A2C79E]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[0D1F9C75]_000	获得冰冻光束！
+[0D1F9C75]_001	按下{[0100|08cd]}切换冰冻光束，\n可以为{color[ffffffff]}冰冻门{[0101|1c0054005800540052005f005700680069007400650044006f006f0072000100]}{color[000000ff]}解锁。
+[0D1F9C75]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[E6C38392]_000	获得连跳！
+[E6C38392]_001	按下{[0100|05cd]}跳跃时，\n再次按下{[0100|05cd]}可跳得更高。
+[E6C38392]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[43A48295]_000	获得炸弹！
+[43A48295]_001	在变形球模式按下{[0100|30cd]}\n可在该处设置炸弹。
+[43A48295]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[824FA176]_000	获得蜘蛛球！
+[824FA176]_001	在变形球模式按下{[0100|0ccd]}，\n可在蜘蛛球轨道上移动。
+[824FA176]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[69152AF7]_000	获得热成像面罩！
+[69152AF7]_001	按下{[0100|0fcd]}戴上热成像面罩，\n可寻找能量管道。
+[69152AF7]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[D92A9D3D]_000	获得抓钩光束！
+[D92A9D3D]_001	向抓钩点长按{[0100|0bcd]}发射抓钩光束。\n放开{[0100|0bcd]}即可解除光束。
+[D92A9D3D]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[C58B5A5B]_000	获得重磅炸弹！
+[C58B5A5B]_001	在变形球模式按下{[0100|06cd]}\n可在该处设置重磅炸弹。\n不可连续设置。
+[C58B5A5B]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[C7338E0E]_000	获得重磅炸弹包！
+[C7338E0E]_001	重磅炸弹持有上限增加1颗。
+[DC2EE01E]_000	获得蓄光束！
+[DC2EE01E]_001	长按{[0100|30cd]}蓄力，\n放开即可发射光束。
+[DC2EE01E]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[74DB3935]_000	获得防护服！
+[74DB3935]_001	穿上防护服后可进入高温的危险地带。
+[74DB3935]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[6CB4CD9A]_000	获得重力服！
+[6CB4CD9A]_001	穿上重力服后将不受水流阻力影响。
+[6CB4CD9A]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[11BEB861]_000	获得费原子服！
+[11BEB861]_001	注入高浓度费原子后，\n服装对费原子辐射产生了抗性。
+[11BEB861]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[A5A3525D]_000	获得超级导弹！
+[A5A3525D]_001	按下{[0100|30cd]}将{color[ff0a0aff]}加强光束{color[000000ff]}蓄满，\n同时按下{[0100|06cd]}即可发射。\n1发超级导弹将消耗5发导弹。
+[A5A3525D]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[DAC325BE]_000	获得冰冻散射枪！
+[DAC325BE]_001	按下{[0100|30cd]}将{color[ff0a0aff]}冰冻光束{color[000000ff]}蓄满\n同时按下{[0100|06cd]}即可发射。\n1发冰冻散射枪将消耗10发导弹。
+[DAC325BE]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[8437E252]_000	获得波动炮！
+[8437E252]_001	按下{[0100|30cd]}将{color[ff0a0aff]}波动光束{color[000000ff]}蓄满，\n同时按下{[0100|06cd]}即可发射。\n在放开{[0100|30cd]}之前，\n会持续发射光束并消耗导弹。
+[8437E252]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[49643F4F]_000	获得火焰喷射器！
+[49643F4F]_001	按下{[0100|30cd]}将{color[ff0a0aff]}等离子光束{color[000000ff]}蓄满\n再按{[0100|06cd]}即可发射。\n在放开{[0100|30cd]}之前，\n会持续发射光束并消耗导弹。
+[49643F4F]_002	按{[0100|17cd]}开启状态界面，\n可查看详细信息。
+[480FE92F]_000	已下载区域地图。
+[480FE92F]_001	按下{[0100|1ecd]}进入地图画面。\n再按一次{[0100|1ecd]}即可返回游戏。
+[A796C466]_000	获得鸟人文物！
+[A796C466]_001	这是文物“真实”。\n文物总共有12个，\n集齐所有文物即可解除封印。
+[6DD8CDD7]_000	获得鸟人文物！
+[6DD8CDD7]_001	这是第2个文物“力量”。
+[A6841E72]_000	获得鸟人文物！
+[A6841E72]_001	这是第3个文物“长老”。
+[BB812ECA]_000	获得鸟人文物！
+[BB812ECA]_001	这是第4个文物“野性”。
+[70DDFD6F]_000	获得鸟人文物！
+[70DDFD6F]_001	这是第5个文物“守卫”。
+[F6498FC1]_000	获得鸟人文物！
+[F6498FC1]_001	这是第6个文物“战士”。
+[3D155C64]_000	获得鸟人文物！
+[3D155C64]_001	这是第7个文物“鸟人”。
+[CC43EEB1]_000	获得鸟人文物！
+[CC43EEB1]_001	这是第8个文物“自然”。
+[071F3D14]_000	获得鸟人文物！
+[071F3D14]_001	这是第9个文物“太阳”。
+[AD54BB52]_000	获得鸟人文物！
+[AD54BB52]_001	这是第10个文物“世界”。
+[660868F7]_000	获得鸟人文物！
+[660868F7]_001	这是第11个文物“灵魂”。
+[E09C1A59]_000	获得鸟人文物！
+[E09C1A59]_001	这是第12个文物“新生”。
+[B4A49321]_000	在变形球模式下\n一样可以按{[0100|32cd]}跳跃。
+Preload\MPR1\GuiSysMP1.pak\TEXT_RHSsystem.msbt
+[37DF4481]_000	Save Station detected.
+[506D08B6]_000	Save Station detected.
+[93736CD7]_000	Save Station detected.
+[171F2C82]_000	Save Station detected.
+[BD5FCF14]_000	信号源来自遗迹内部。
+[BD5FCF14]_001	侦测到来历不明的信标讯号。
+[BD5FCF14]_002	启用远程扫描！
+[A5E86FBF]_000	“侦测到信标讯号”
+[E2FEA6FD]_000	发现电梯。
+[E2FEA6FD]_001	侦测到传输技术。
+[E2FEA6FD]_002	启用远程扫描！
+[0551506F]_000	“发现电梯”
+[D715B76C]_000	发现电梯。
+[D715B76C]_001	侦测到传输技术。
+[D715B76C]_002	启用远程扫描！
+[F670F1ED]_000	“发现电梯”
+[A2CCEDFF]_000	侦测到能量反应。
+[9F8548EE]_000	侦测到能量反应。
+[ED2FBCB9]_000	震动为若干个体移动所导致。
+[ED2FBCB9]_001	侦测到地底发生不规则震动。
+[ED2FBCB9]_002	启用远程扫描！
+[080A506C]_000	“侦测到不规则震动”
+[2F2BCD0A]_000	该处还有黄蜂出没。
+[2F2BCD0A]_001	侦测到地底有金属反应。
+[2F2BCD0A]_002	启用远程扫描！
+[43F8D5E7]_000	“侦测到金属反应”
+[7FC4AEFF]_000	确定遗迹毒素污染源。
+[7FC4AEFF]_001	分析毒素污染流动模式。
+[7FC4AEFF]_002	启用远程扫描！
+[0A5CF8DC]_000	“确定毒素污染源”
+[88B25FE0]_000	发现火山洞穴内有热力发电厂。
+[88B25FE0]_001	侦测到海盗技术。
+[88B25FE0]_002	启用远程扫描！
+[EC9C1F3D]_000	“发现热力发电厂”
+[8D7CE33A]_000	该处似乎设有某种装置。
+[8D7CE33A]_001	发现冰冻山谷内有鸟人族建筑物。
+[8D7CE33A]_002	启用远程扫描！
+[4C224FFB]_000	“发现鸟人族建筑物”
+[17447530]_000	该地形为半管式滑道。
+[17447530]_001	发现世外桃源有人工地形。
+[17447530]_002	启用远程扫描！
+[DD44AD7C]_000	“发现人工地形”
+[DC47FEC3]_000	能量来自冰冻山谷，反应强烈。
+[DC47FEC3]_001	侦测到能量反应。
+[DC47FEC3]_002	启用远程扫描！
+[836CA8AF]_000	“侦测到能量反应”
+[5AB95033]_000	侦测到鸟人遗迹里有强化道具。
+[5AB95033]_001	正在搜寻武器强化道具。
+[5AB95033]_002	强化装备后可使用超级导弹。
+[58082444]_000	“侦测到武器强化道具”
+[008FCAFF]_000	该建筑为中央研究设施。
+[008FCAFF]_001	侦测到冰冻山谷有海盗建筑。
+[008FCAFF]_002	启用远程扫描！
+[96B56143]_000	“海盗研究设施”
+[DAAA3C7C]_000	反应极度微弱。
+[DAAA3C7C]_001	侦测到隔离区域有无机生命体。
+[DAAA3C7C]_002	启用远程扫描！
+[56E59CD9]_000	“侦测到无机生命体”
+[1D7E306C]_000	能量来自遗迹，反应强烈。
+[1D7E306C]_001	侦测到能量反应。
+[1D7E306C]_002	启用远程扫描！
+[EFB2652A]_000	“侦测到能量反应”
+[F0963B09]_000	讯号来自冰冻山谷。
+[F0963B09]_001	侦测到异常重力脉冲。
+[F0963B09]_002	启用远程扫描！
+[A7036ADB]_000	“侦测到重力脉冲”
+[545BE59D]_000	发现遇难船只。
+[545BE59D]_001	侦测到求救讯号。
+[545BE59D]_002	启用远程扫描！
+[BDD9CAE0]_000	“发现遇难船只”
+[E4F7949D]_000	发现电梯。
+[E4F7949D]_001	侦测到传输技术。
+[E4F7949D]_002	启用远程扫描！
+[213988EE]_000	“发现电梯”
+[81EB0CE1]_000	波动来自矿场内，反应强烈。
+[81EB0CE1]_001	侦测到力量波动。
+[81EB0CE1]_002	启用远程扫描！
+[287FB608]_000	“侦测到力量波动”
+[45086BAE]_000	矿场上方疑有特殊道具。
+[45086BAE]_001	捕捉到海盗发出的讯号。
+[45086BAE]_002	启用远程扫描！
+[4FCA8540]_000	“发现特殊道具”
+[9852FD5A]_000	震动来自火山洞穴。
+[9852FD5A]_001	侦测到地壳震动。
+[9852FD5A]_002	启用远程扫描！
+[0766DB45]_000	“侦测到地壳震动”
+[19504BD8]_000	光谱来自世外桃源。
+[19504BD8]_001	侦测到强烈光谱。
+[19504BD8]_002	启用远程扫描！
+[296CF663]_000	“侦测到光谱”
+[521F3219]_000	费原子源自矿场内。
+[521F3219]_001	侦测到高浓度费原子。
+[521F3219]_002	启用远程扫描！
+[2A52E70D]_000	“侦测到高浓度费原子”
+[95150DE0]_000	请将12个文物设置在图腾柱上。
+[95150DE0]_001	分析文物神殿系统。
+[95150DE0]_002	启用远程扫描！
+[01E4A314]_000	“设置文物”
+Preload\MPR1\GuiSysMP1.pak\TEXT_RuinsWorldAreaNames.msbt
+[9F40734D]_000	鸟人遗迹
+[1CE1DDBC]_000	电梯：往世外桃源东面
+[9A75AF12]_000	电梯：往世外桃源南面
+[7285517C]_000	遗迹广场通道
+[0EE474A7]_000	灵魂树通道
+[93EB95D1]_000	双大厅通道
+[F6263F11]_000	能量核心通道A
+[6B29DE67]_000	瀑布大厅通道
+[1748FBBC]_000	中央门通道
+[DCD3AE3C]_000	能量核心通道B
+[41DC4F4A]_000	大中庭通道
+[3DBD6A91]_000	蓄水池通道B
+[A0B28BE7]_000	日出圆顶室门
+[C57F2127]_000	日出圆顶室通道
+[5870C051]_000	遗迹庭园通道B
+[89388C66]_000	熔岩池通道
+[14376D10]_000	遗迹门
+[F559A9BD]_000	广场走廊
+[9094037D]_000	北活塞隧道
+[0D9BE20B]_000	展览室通道
+[71FAC7D0]_000	日出之塔
+[ECF526A6]_000	日出之塔通道
+[C10FF260]_000	主广场
+[A445FC31]_000	保存站1
+[2FA5B346]_000	中央门
+[B65B8F1A]_000	发电机通道
+[B01EE17B]_000	瀑布大厅
+[1C7B67FC]_000	发电机
+[7C1E7CBF]_000	熔岩密室
+[CA78CC80]_000	光之塔
+[F56712ED]_000	能量核心
+[2C32A2BC]_000	熔矿炉
+[79C6DCFE]_000	长老大圣堂
+[14B70ABF]_000	大圣堂地下室
+[11FCD7D6]_000	大中庭
+[45D3E6A2]_000	大圣堂通道C
+[C347940C]_000	大圣堂通道B
+[8E1A98C3]_000	蜂巢图腾柱
+[7A465821]_000	祭坛遗址
+[3BDF0E1A]_000	南活塞隧道
+[0BA44CA5]_000	主广场
+[A26E475A]_000	遗迹庭园
+[4EC32153]_000	保存站2
+[A3715140]_000	蓄水池密室
+[90AE6BA3]_000	蓄水池
+[23BE18E3]_000	日出圆顶室
+[A20E3F19]_000	保安圆顶室
+[00091182]_000	遗迹广场
+[A19197B2]_000	保存站3
+[ED05B6D6]_000	遗迹展览室
+[BA00BFC4]_000	蜂巢图腾柱通道
+[73012D88]_000	喷泉遗迹
+[C08FF8AD]_000	熔岩池
+[881D7FDF]_000	双大厅
+[1AA847C9]_000	灵魂树
+[13D3CDB9]_000	光之塔通道
+[9547BF17]_000	祭坛遗址通道
+[431E5C0A]_000	遗迹庭园通道A
+[88428FAF]_000	熔矿炉通道
+[0ED6FD01]_000	大圣堂通道A
+[02D8AE3E]_000	蓄水池通道A
+[C9847D9B]_000	喷泉遗迹通道
+[EF743A55]_000	地图站
+[F747143D]_000	电梯：往世外桃源北面
+[71D36693]_000	电梯：往火山洞穴北面
+[B53E5239]_000	塔之密室
+[80BA3447]_000	保安圆顶室通道
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansChozoLore.msbt
+[481ED8EC]_000	发现鸟人族碑文，\n开始解读。
+[481ED8EC]_001	起源
+[481ED8EC]_002	鸟人的历史发迹于太古。\n鸟人究竟从何而来，\n现在的我们也无从得知。\n知道的，\n只有祖先在这片土地\n流传下来的生活方式。\n鸟人选择放弃\n高度的机械文明，\n遵从宇宙真理，\n与自然共存。\n而我们会在这段和平岁月中，\n花些时日留下关于鸟人的记录。
+[CE8AAA42]_000	发现鸟人族碑文，\n开始解读。
+[CE8AAA42]_001	调和
+[CE8AAA42]_002	距离鸟人扎根此地，\n已然经过数千漫长岁月。\n\n在时光流逝中，\n我们的神秘力量逐渐苏醒。\n\n使我们见从前所不见，\n使我们知往常所不知。\n\n这份力量的显现，\n代表着鸟人能和宇宙调和，\n并逐渐掌握宇宙的真相。
+[05D679E7]_000	发现鸟人族碑文，\n开始解读。
+[05D679E7]_001	陨石撞击
+[05D679E7]_002	冥冥中一直有股不详的预感，\n灾害终究降临了。\n\n一颗来自远方的陨石\n撞击了泰隆Ⅳ，\n并钻进地底深处。\n陨石坠落微不足道，\n问题是陨石释放出了\n强大的负能量。\n负能量如爆炸般\n自陨石中心扩散，\n转瞬间吞没了整个泰隆Ⅳ。
+[18D3495F]_000	发现鸟人族碑文，\n开始解读。
+[18D3495F]_001	扩散的恶梦
+[18D3495F]_002	负能量影响了所有生物，\n有的失去性命、\n有的变得面目全非。\n那强占纯净喷泉之物，\n其分泌的毒液流入泉水，\n蔓延并污染了鸟人的圣地。\n但我们鸟人将这视作\n宇宙给予的考验。\n\n消弭这场“大灾害”，\n正是鸟人的使命。
+[D38F9AFA]_000	发现鸟人族碑文，\n开始解读。
+[D38F9AFA]_001	大灾害
+[D38F9AFA]_002	负能量带来的疾病\n在此地贪婪地索取生命，\n使其腐败殆尽。\n它究竟是什么？\n陨石又从何而来？\n是在宇宙角落消逝的星球残骸？\n不，它是幸存的恶魔。\n为了夺回宇宙的和平，\n鸟人必须永远封印恶魔。
+[551BE854]_000	发现鸟人族碑文，\n开始解读。
+[551BE854]_001	充满光芒者
+[551BE854]_002	我们将用12文物和神殿\n将恶魔封印于地底深处。\n\n在这片土地上，\n我们看不清鸟人的未来，\n但黑暗中有道闪耀的光。\n尽管不知道那是什么，\n鸟人还是将希望寄托于它。\n\n光芒照耀之处，\n鸟人与之同在。
+[9E473BF1]_000	发现鸟人族碑文，\n开始解读。
+[9E473BF1]_001	暗号
+[9E473BF1]_002	鸟人开始建造神殿\n镇压这场噩梦。\n\n我们在神殿中央铺上一种\n名为“暗号”的方形阵。\n\n通过蕴含我族强大信念的\n12文物来完成封印。\n
+[6F118924]_000	发现鸟人族碑文，\n开始解读。
+[6F118924]_001	被托付者
+[6F118924]_002	无数鸟人受负能量侵蚀，\n一一逝去。\n\n恐怕再也没有重启神殿大门，\n消灭恶魔的那一天了。\n\n但鸟人从未放弃信念，\n我们相信能托付信念者\n终会出现。\n为此我们将鸟人一族\n自古承袭的铠甲和武器位置\n标示于此。\n将这些装备集齐的人，\n即为鸟人信念的继承者。
+[A44D5A81]_000	发现鸟人族碑文，\n开始解读。
+[A44D5A81]_001	入侵者的肆虐
+[A44D5A81]_002	“被托付者”啊……\n\n\n这片土地上的怪物\n有的凶暴、有的狡猾，\n他们会阻碍汝前行。\n愚蠢的他们甚至对\n“大灾害”的力量虎视眈眈。\n唯有击退这些敌人，\n汝才能成为真正的\n“被托付者”。
+[253500FD]_000	发现鸟人族碑文，\n开始解读。
+[253500FD]_001	摇篮
+[253500FD]_002	没人保证鸟人神殿“摇篮”\n能够永远困住恶魔。\n\n但我们深信，\n由12文物连结产生的\n暗号之力坚不可摧。\n这个世界的命运，\n将交付给集齐12文物之人。\n\n届时“被托付者”\n便会知晓自己的使命。
+[EE69D358]_000	发现鸟人族碑文，\n开始解读。
+[EE69D358]_001	虫子
+[EE69D358]_002	随着和宇宙的调和加深，\n更多的族人觉醒了力量。\n\n我们凝视庭院水池的波纹，\n倾听藏在风声中的细语，\n借此预知未来。\n在预言中最糟糕的、\n也最常预见的就是虫子的出现。\n\n它们是一种寄生生物，\n在有毒母体中摄取营养、发育，\n然后吞噬世界。\n尽管并非所有预言都会成真，\n但如此不详的预兆\n实在令人胆寒。
+[68FDA1F6]_000	发现鸟人族碑文，\n开始解读。
+[68FDA1F6]_001	无形者
+[68FDA1F6]_002	有形之物，终有逝时。\n无形之物，思则形现。\n\n鸟人残留的强烈遗志，\n化作有形之物，现身于此。\n\n但其本身无法思考。\n“被托付者”\n也须受此试炼。
+[A3A17253]_000	发现鸟人族碑文，\n开始解读。
+[A3A17253]_001	封印
+[A3A17253]_002	鸟人将“大灾害”\n囚禁于这个摇篮中，\n让它与世界隔绝。\n为了避免有人\n恶意接近“大灾害”、\n破坏封印的力量，\n鸟人将遗志倾注于\n12个文物里，\n将恶魔锁进这道大门。\n直到灾害被消弭的那天，\n这道门将不再开启。
+[BEA442EB]_000	发现鸟人族碑文，\n开始解读。
+[BEA442EB]_001	净化
+[BEA442EB]_002	陨石带来的负能量影响\n超乎鸟人的想像。\n\n鸟人至今仍缺乏\n镇压“大灾害”的力量。\n\n如今只能将其封印，\n静待净化它的人出现。\n\n但我们已经无法阻止\n灾害蔓延至整个星球。
+[75F8914E]_000	发现鸟人族碑文，\n开始解读。
+[75F8914E]_001	光之预言
+[75F8914E]_002	在与恶魔的战斗中，\n鸟人看到了那道光芒。\n\n耀眼的光芒照射下来，\n净化了“大灾害”。\n\n在那一瞬间\n光芒似乎化作了一位女性。\n\n那道光来自宇宙，\n最终也回归宇宙。\n\n此时鸟人的封印，\n才终于结束它漫长的使命。
+[F36CE3E0]_000	发现鸟人族碑文，\n开始解读。
+[F36CE3E0]_001	Artifacts
+[F36CE3E0]_002	The 12 artifacts were forged by the Master Artisan then placed in sacred places across this land. These are no mere remembrances - every artifact is infused with the essence of an element we Chozo find precious. Taken alone, each of them exudes no little strength...but it is when they are joined that their true power shall be released. When that time comes, when the artifacts are brought together, they will lead the Entrusted One to the land of the Great Poison.
+[38303045]_000	发现鸟人族碑文，\n开始解读。
+[38303045]_001	喷泉
+[38303045]_002	鸟人的未来依旧渺茫。\n\n\n即使能够预知未来，\n鸟人仍无法左右命运。\n\n喷泉涌出的泉水，\n或许终有枯竭的一天。\n\n但这强大信念的力量\n是毋庸置疑的。\n鸟人的信念将永不磨灭。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansChozoRuins.msbt
+[3C6FF426]_000	已授权进入{color[ff0a0aff]}泰隆世外桃源北部{color[000000ff]}，\n请站在全息影像处。
+[D3F29D19]_000	移动点：\n{color[ff0a0aff]}泰隆世外桃源北部{color[000000ff]}\n电梯启动。
+[B2CB31A6]_000	柱子因腐蚀强度大幅降低，\n无法辨识建造年代。
+[10E546A0]_000	柱子因腐蚀强度大幅降低，\n无法辨识建造年代。
+[6D9E40ED]_000	生命迹象微弱。\n细胞正被腐蚀。
+[1A606194]_000	解读鸟人族全息影像。\n“将我族的一切\n交付给 被托付者”
+[75BE64C2]_000	叶片异常干燥，\n甚至出现萎缩。
+[977C2291]_000	发现岩石。\n推测由上方通道掉落。
+[2B7FE32D]_000	表面平滑均匀，\n大概率由人为加工而成。
+[25ECB1B4]_000	由植物的茎组成，\n可充当桥梁。
+[19B1CC09]_000	发现物体。\n位置超出萨姆斯的可跳跃高度。
+[93708993]_000	在坡道顶端发现物体。
+[8FB3296E]_000	发现刻有鸟类生物的铜版画。
+[37404AF2]_000	侦测到屏障，\n无法用光束解锁。
+[5008C87D]_000	发现单向门，\n无法从这一侧开启。
+[D6F9F16D]_000	距离超出抓钩光束的射程。
+[0BC1AA76]_000	蓝色球体的光源。
+[7E9A7BD1]_000	石材表面为人工打磨，\n十分光滑。
+[6C1C410A]_000	从状似轨道的物体表面\n侦测到强大磁力。
+[4C8C75FE]_000	此为可动式墙面，\n启动开关位置不明。
+[C752D8C9]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n有无数细小裂缝，\n硬度偏低。
+[167182D9]_000	发现变形球！
+[FCD69EB0]_000	已授权进入{color[ff0a0aff]}泰隆世外桃源东部{color[000000ff]}，\n请站在全息影像处。
+[598EF87A]_000	移动点：\n{color[ff0a0aff]}泰隆世外桃源东部{color[000000ff]}\n电梯启动。
+[411CF27E]_000	已授权进入{color[ff0a0aff]}泰隆世外桃源南部{color[000000ff]}，\n请站在全息影像处。
+[48F39203]_000	移动点：\n{color[ff0a0aff]}泰隆世外桃源南部{color[000000ff]}\n电梯启动。
+[9660CD3F]_000	分析完毕。\n检测到树皮含有高浓度毒素。
+[9660CD3F]_001	 
+[9660CD3F]_002	推测受到有毒的水源污染。
+[052FFA19]_000	分析完毕。\n检测到叶片含有超高浓度毒性。
+[67729B8C]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n砖块硬度极低。
+[CF1DFF3B]_000	金属砖块。\n硬度极高，\n无法使用武器破坏。
+[09EAED3E]_000	发现物体。\n位于墙面沟槽末端。
+[3AA17A4B]_000	墙面上装饰有反射盘，\n表面虽为镜面，\n但已年久生锈。
+[464DEB4E]_000	保存站
+[464DEB4E]_001	保存站
+[464DEB4E]_002	可保存目前为止的行动记录\n并补给能量。
+[D1182586]_000	解读平板电脑的数据。\n“该区的水已全部蒸发”
+[578C5728]_000	解读平板电脑数据。\n“该区曾拥有丰沛水源”
+[8D21D3E4]_000	鸟人族的手工雕刻品。\n歌颂泰隆星的作品，\n具有文物价值。
+[0BB5A14A]_000	鸟人族的手工雕刻品。\n歌颂泰隆星的作品，\n具有文物价值。
+[6BB8EF1E]_000	鸟人族的手工雕刻品。\n仅能辨认出“鸟人”二字。
+[ED2C9DB0]_000	鸟人族的手工雕刻品。\n仅能辨认出“鸟人”二字。
+[BC23DC5B]_000	有机体的化石。
+[D23E6579]_000	污水中检测出高浓度毒素。\n接触污水可能丧命。
+[B134DA8F]_000	该区域水质已有改善，\n毒素几乎完全清除。
+[B27A4583]_000	洞穴直径约1米，\n无法判断洞穴深度。
+[0C486601]_000	区域供水用水管。
+[0C486601]_001	 
+[0C486601]_002	该区域水质已遭毒素污染，\n污染源不明。
+[25E4221C]_000	该区域水质已有改善，\n毒素几乎完全清除。
+[383CAFB8]_000	材质：{color[ff0a0aff]}纤维石头{color[000000ff]}\n墙面硬度偏低。
+[383CAFB8]_001	 
+[383CAFB8]_002	施加冲击可使其粉碎。
+[4AB5C662]_000	地图站
+[4AB5C662]_001	地图站
+[4AB5C662]_002	站在全息影像处\n可下载区域地图。
+[8760B948]_000	发现金属制的桥。\n虽然老旧但仍可使用。
+[D4B79570]_000	发现排水口。\n检测到高浓度毒素流出的痕迹。
+[8CFC488C]_000	检测到强烈毒性。\n污水极其危险，\n接触后可能丧命。
+[06ABDBE4]_000	发现可动单位。\n现已停止运作，\n检测到内部有生命迹象。
+[F2B59673]_000	正在发送特定频率的信号，\n似乎在引诱血黄蜂。
+[41E038A0]_000	发现特殊物体。\n除了桥以外，\n查无其他路径可以接近。
+[089EA5AA]_000	发现导弹！
+[6B6BF25D]_000	机器人：蜂巢图腾柱\n鸟人族创造的\n道具守备单位。
+[6B6BF25D]_001	蜂巢图腾柱
+[6B6BF25D]_002	没有配备武器的防御机器人，\n主要通过保护有机单位\n并与其连动以抵御外敌。\n配备有高强度装甲，\n但指挥有机单位时\n会暴露无装甲部位。
+[17D2E17B]_000	直径约1米的管状通道，\n可通往别的房间。
+[C610DFE6]_000	已授权进入{color[ff0a0aff]}火山洞穴北部{color[000000ff]}，\n请站在全息影像处。
+[B4B44968]_000	移动点：\n{color[ff0a0aff]}火山洞穴北部{color[000000ff]}\n电梯启动。
+[CFC1820C]_000	第1道门锁。
+[CFC1820C]_001	 
+[CFC1820C]_002	门锁被金属栅栏挡住了。
+[4955F0A2]_000	第2道门锁。
+[4955F0A2]_001	 
+[4955F0A2]_002	门锁被金属栅栏挡住了。
+[82092307]_000	第3道门锁。
+[82092307]_001	 
+[82092307]_002	门锁无栅栏阻挡，\n可以解除。
+[0B844A0F]_000	已解除栅栏，\n可使用门锁。
+[B129F906]_000	已解锁。
+[420BC116]_000	高硬度的金属门。\n解开3道门锁后可开启。
+[0E279F59]_000	导弹包：\n可增加导弹持有上限的道具。
+[5DD99EA4]_000	枝干阻挡了约70%的通道。\n在地面附近发现缺口。
+[EE332C83]_000	从状似轨道的物体表面\n侦测到强大磁力。
+[DA9F63A6]_000	检测到强烈毒性。\n污水极其危险，\n接触后可能丧命。
+[9D49025A]_000	一种喷泉。\n出水口被植物组织堵塞。
+[8F99D084]_000	毒素已几乎清除。
+[B7FB6DFE]_000	喷泉出水正常。\n出水口处的植物组织已去除。
+[3377CAD1]_000	金属砖块。\n硬度极高，\n无法使用武器破坏。
+[1343B73D]_000	解读鸟人族全息影像。\n“水中 污染物\n追寻 阳光”
+[95D7C593]_000	解读鸟人族全息影像。\n“污染物 自泰隆中心\n流淌而出”
+[5E8B1636]_000	解读鸟人族全息影像。\n“真相 揭示于\n我族 神殿“
+[2AA5F89C]_000	解读平板电脑数据。\n“高浓度毒素正在污染水源”
+[6CD2CB9D]_000	解读平板电脑数据。\n“正在改善水质”
+[AC318A32]_000	解读平板电脑数据。\n“毒素导致水质污染，\n检测不到水中微生物”\n
+[AC318A32]_001	 
+[AC318A32]_002	“此地生态圈\n将于3周内毁灭殆尽”
+[1B22C834]_000	解读平板电脑的数据。\n“正在改善水质”
+[170D9467]_000	毒素污染度90%。\n推测污染源来自\n目前所在地以北。
+[378B9EB4]_000	该区域水质已有改善，\n毒素几乎完全清除。
+[5B405F0A]_000	解读鸟人族文字。\n“鸟人与自然同在”
+[DDD42DA4]_000	解读鸟人族文字。\n“鸟人与宇宙同在”
+[DDD42DA4]_001	 
+[DDD42DA4]_002	“植物腐朽 生物变异\n生灵万物 濒临危机\n忽现新生 自天而降”
+[65E67DB3]_000	检测到强烈毒性。\n污水极其危险，\n接触后可能丧命。
+[C77E6D71]_000	该区域水质已有改善，\n毒素几乎完全清除。
+[E8F59FA7]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n墙面不平整，\n可用武器破坏。
+[0553A3E7]_000	分析完毕。\n树木的大部分细胞\n已遭毒素侵蚀。
+[83C7D149]_000	整棵树都在腐烂。
+[489B02EC]_000	此为泰隆历百年古树。
+[2B9FDDE1]_000	树叶皆遭毒素侵蚀而腐败，\n散发着强烈的臭味。
+[70643037]_000	裂缝深约3米，\n内部有生命迹象。
+[FFE3A083]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n整面墙硬度偏低。
+[195C6807]_000	枝干沿着墙上的洞往里面延伸。
+[6129FE1A]_000	检测到强烈毒性。\n污水极其危险，\n接触后可能丧命。
+[877B4C18]_000	金属门。\n表面有4个“符文”。
+[877B4C18]_001	 
+[877B4C18]_002	扫描房间内的所有符文，\n与之连动即可开门。
+[44B9E763]_000	“符文”与门连动中。
+[053B10A6]_000	启动符文。
+[053B10A6]_001	 
+[053B10A6]_002	将房内的4个符文全数启动，\n即可开门。
+[795A357D]_000	启动符文。
+[795A357D]_001	 
+[795A357D]_002	将房内的4个符文全数启动，\n即可开门。
+[E455D40B]_000	启动符文。
+[E455D40B]_001	 
+[E455D40B]_002	将房内的4个符文全数启动，\n即可开门。
+[81987ECB]_000	启动符文。
+[81987ECB]_001	 
+[81987ECB]_002	将房内的4个符文全数启动，\n即可开门。
+[F8DF3DA2]_000	植物形态：富拉古拉\n受费原子影响突变的植物。
+[F8DF3DA2]_001	富拉古拉
+[F8DF3DA2]_002	拥有显著的植物特征，\n兼具动物运动能力的生物。\n\n细胞内含有特殊叶绿素，\n可快速进行光合作用\n获取活动能量。\n光合作用时排出的是\n强烈的毒素而非氧气，\n导致遗迹水源被污染。\n雌蕊具有强烈的攻击性，\n但只能在阳光下活动。\n\n外层覆盖着厚重坚固的表皮，\n用武器攻击也无法伤害本体，\n将其打晕能使其暂时停止活动。
+[4BC138B5]_000	植物形态：富拉古拉的触手\n富拉古拉沿排水沟生长的触手。
+[4BC138B5]_001	富拉古拉的触手
+[4BC138B5]_002	触手深处有富拉古拉的弱点\n“中央神经系统”。
+[0FB3D07F]_000	发现太阳能聚集镜，\n通过冲击使其倾斜，\n可阻断阳光。
+[F1E43726]_000	毒素浓度98%，\n极其危险，需避免接触。
+[029D73BD]_000	Mechanical lifting device detected beneath stonework.
+[92C600F3]_000	发现防护服！
+[0C4980B6]_000	门被藤蔓植物组织缠绕，\n无法正常使用。\n无法使用武器破坏。
+[F3142012]_000	未检测出毒素，\n水质似乎已改善。
+[E956591A]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n此壁挂物已有裂痕，\n但硬度仍偏高。
+[6FC22BB4]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n此壁挂物已有裂痕，\n但硬度仍偏高。
+[E3B614B2]_000	挡住磁性轨道的金属门上\n有4个“符文”。
+[E3B614B2]_001	 
+[E3B614B2]_002	扫描房间内的所有符文，\n与之连动即可开门。
+[CEB768E5]_000	启动符文。
+[CEB768E5]_001	 
+[CEB768E5]_002	将房内的4个符文全数启动，\n即可使用轨道。
+[48231A4B]_000	启动符文。
+[48231A4B]_001	 
+[48231A4B]_002	将房内的4个符文全数启动，\n即可使用轨道。
+[837FC9EE]_000	启动符文。
+[837FC9EE]_001	 
+[837FC9EE]_002	将房内的4个符文全数启动，\n即可使用轨道。
+[9E7AF956]_000	启动符文。
+[9E7AF956]_001	 
+[9E7AF956]_002	将房内的4个符文全数启动，\n即可使用轨道。
+[EAF38FD2]_000	发现水泵控制装置。\n似乎已停止运作。
+[0F88EEE5]_000	由鸟人族文字变形而成的符号，\n意为“巨大的植物”。
+[2C76EDEC]_000	发光圆柱运作率80%。
+[FB1E0456]_000	发现金属牢笼。\n强度因腐蚀而变低。
+[42228BC6]_000	检测到超高浓度毒素。\n极其危险，需避免接触污水。
+[C8B4AA9D]_000	解读平板电脑数据。\n“因地板破损，污水已流入。”
+[4E20D833]_000	解读平板电脑数据。\n“毒素源头位于300米内。”
+[30A8D273]_000	保存站
+[30A8D273]_001	保存站
+[30A8D273]_002	可保存目前为止的行动记录\n并补给能量。
+[ABDB38A7]_000	保存站
+[ABDB38A7]_001	保存站
+[ABDB38A7]_002	可保存目前为止的行动记录\n并补给能量。
+[D0CA50E3]_000	发现微量沉淀物痕迹，\n似乎曾有水流过排水沟。
+[28C18C39]_000	裂缝深约3米，\n内部有生命迹象。
+[3028D6F5]_000	此为干燥的植物根。\n虽尚未腐败但已无生命迹象。
+[50BA65EF]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n直径约1米的障碍物\n堵住了洞口。
+[309B906A]_000	Unidentified life-form is in low-level sleep state. Heart rate status at 4 beats per minute.
+[3B6562E9]_000	金属门，\n表面有4个“符文”。
+[3B6562E9]_001	 
+[3B6562E9]_002	扫描房间内的4个符文，\n与之连动即可解锁。
+[51852241]_000	门锁已解除，\n即将开门。
+[DDACCF22]_000	启动符文。
+[DDACCF22]_001	 
+[DDACCF22]_002	将房内的4个符文全数启动，\n即可解除门锁。
+[5B38BD8C]_000	启动符文。
+[5B38BD8C]_001	 
+[5B38BD8C]_002	将房内的4个符文全数启动，\n即可解除门锁。
+[90646E29]_000	启动符文。
+[90646E29]_001	 
+[90646E29]_002	将房内的4个符文全数启动，\n即可解除门锁。
+[8D615E91]_000	启动符文。
+[8D615E91]_001	 
+[8D615E91]_002	将房内的4个符文全数启动，\n即可解除门锁。
+[9DC85413]_000	发现蓄光束！
+[BEAD7242]_000	装置运作率50%。\n正以低效率补给能量。
+[34F62F5E]_000	从状似轨道的物体表面\n侦测到强大磁力。
+[02D3788C]_000	发现金属装饰。\n强度因腐蚀而变低。
+[AE4D486C]_000	换气扇运作中，\n功能正常。
+[55BB4BEB]_000	解读平板电脑数据。\n“天花板崩塌原因：不详”
+[D32F3945]_000	解读平板电脑数据。\n“继续崩塌可能性较低”
+[B1DA46A2]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n堵住洞口的墙，\n强度偏低。
+[564F8F4F]_000	Unidentified life-form is in low-level sleep state. Heart rate status at 8 beats per minute.
+[94D7E7EA]_000	此为升降台。\n所有系统恢复运作后即可启动。
+[2DCD4A8D]_000	装置已停止，\n但功能并未受损。\n启动后即可正常运作。
+[46FDF6A5]_000	排水装置启动。\n正在为该区域排水。
+[46FDF6A5]_001	The water may not stay drained for long, as this machine already seems to be losing power. 
+[74A37F2A]_000	装置运作中，\n水已排净。
+[7B4B2726]_000	炸弹栏位停止运作，\n请先启动其他系统。
+[7B4B2726]_001	 
+[7B4B2726]_002	整个系统的总开关。
+[3F2477B6]_000	已启动与栏位连动的装置。\n关闭炸弹栏位功能。
+[3CB020F4]_000	Machine is inactive.
+[FB379A6B]_000	1号升降台控制装置启动，\n升降台已上升。
+[FB379A6B]_001	未于时间内\n启动下个系统，\n装置已停止。
+[273924AE]_000	装置可正常运作。
+[0FFFC128]_000	There are a series of power cords leading from this slot to the inactive machine in this room. 
+[0FFFC128]_002	此为系统总开关。
+[3A10E335]_000	已启动与栏位连动的装置。\n关闭炸弹栏位功能。
+[854BFB1C]_000	装置已停止，\n但功能并未受损。\n启动后即可正常运作。
+[26A143EE]_000	2号升降台控制装置启动，\n升降台已完全上升。
+[A5CA60AB]_000	The machine connected to this slot is currently functioning. This slot has turned itself off.
+[18D7A5E8]_000	There are a series of power cords leading from this slot to the inactive machine in this room. 
+[18D7A5E8]_001	This may be the master switch for the machine.
+[AE0F5DDE]_000	发现炸弹栏位。\n装置可使用，\n但无法于水中运作。
+[C7923B30]_000	Although this object is composed of minerals, some vital energies are present as well.
+[AA7415BB]_000	Update: Object classified as Stone Toad. Skin impervious to standard weapons. Creature’s feeding impulse may be triggered by the Morph Ball.
+[41A60069]_000	机器人：\n突击火焰喷射枪AO-1837\n火焰放射型防御单位。
+[41A60069]_001	突击火焰喷射枪AO-1837
+[41A60069]_002	能释放高温火焰，\n歼灭外敌。\n\n具有高硬度外部装甲，\n可抵挡物理攻击而不伤及内部，\n故可用于保存道具。\n缺点是转速固定，\n旋转时会暂时暴露内部构造。
+[6074C4DB]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n堵住洞口的墙，\n强度偏低。
+[236BD87E]_000	发现炸弹！
+[D8D21313]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n这一带的地面构造不平整。
+[D8D21313]_001	 
+[D8D21313]_002	若受到强烈冲击，\n地面会有崩塌的危险。
+[07868528]_000	This machine ruptured some time ago. Cause of rupture is unclear.
+[8112F786]_000	The interior of this machine appears hollow and empty.
+[EDE54A35]_000	Heavy magnetic field detected emanating from treads in track.
+[FD6BF58E]_000	发现鸟人族碑文，\n开始解读。
+[FD6BF58E]_001	Spreading Evil
+[FD6BF58E]_002	The cries of this dying land pulled us from our dreaming state, and now we Chozo walk as ghosts while the Great Poison sinks into the trees and waters, devouring all life. Some creatures survive, but their forms grow as twisted and evil as the force that fell from the sky. The heart of the planet will succumb soon, and so will we, even in our ghostly states. Already many Chozo have faded and passed into the unknown. The Great Poison is unlike anything we have glimpsed in this or any dimension. It eats relentlessly, worming out life wherever it blooms and corrupting what it cannot kill. It will be our undoing. Our last hope lies in the Cradle, the temple we hope might contain this abomination. It is almost complete, hovering over the impact site, the dark heart of the spreading evil. If we can finish before the last of our kind drifts into madness or death, there is a chance for this world. If we fail, we are doomed with it.
+[0D13BBC6]_000	此目标具备机械结构，\n应为可动式。
+[1A0CA3B4]_000	解读鸟人族全息影像。\n“崇高之人 我们\n称之为 长老”
+[C2F44A51]_000	放射线收集机。\n吸收太阳光并转为能量的装置。\n正常运作中。
+[9E9F3E13]_000	鸟人长老：\n推测为鸟人族长老的雕像。
+[9E9F3E13]_001	 
+[9E9F3E13]_002	在鸟人传说中，\n雕像是坟墓或神殿的守护者。\n从关节构造来看，应为可动式。
+[B067FF64]_000	此装置已关闭电源。
+[6B0DD3BF]_000	栏位上设置了带扣，\n可利用控制装置解除。\n控制装置所在地不明。
+[6B0DD3BF]_001	 
+[6B0DD3BF]_002	根据分析结果，\n此装置的控制按钮位于高处。
+[A6CBD058]_000	一种电磁力场。\n释放同频率电磁波可消除力场。
+[82B81EB7]_000	带电粒子活化力场。\n释放同频率等离子可消除力场。
+[6835A8DD]_000	负自旋电子力场。\n释放同样的负温度能量粒子\n可消除力场。
+[A9905BD1]_000	一种电磁力场。\n释放同频率电磁波可消除力场。
+[12936846]_000	带电粒子活化力场。\n释放同频率等离子可消除力场。
+[33471594]_000	负自旋电子力场。\n释放同样的负温度能量粒子\n可消除力场。
+[ABFD0A7A]_000	This slot appears to be activated and awaiting input.
+[92F752C6]_000	解读鸟人族全息影像。\n“台座上 沉睡着\n伟大的 长老之力”
+[E8B3E6C6]_000	导弹站
+[E8B3E6C6]_001	导弹站
+[E8B3E6C6]_002	可将导弹补充至持有上限。
+[4E6F1B4A]_000	安保屏障解除，\n已可正常通过。
+[A84B32DE]_000	此处设有安保屏障，\n无法通过。
+[EA375DD1]_000	解读鸟人族全息影像。\n“唯有12文物持有者\n可以挑战 大灾害”
+[0362D31D]_000	解读鸟人族全息影像。\n“大灾害 是鸟人\n能力 不可及之物”
+[98FF4A67]_000	材质：{color[ff0a0aff]}纤维石头 {color[000000ff]}\n柱子表面已严重损毁。
+[184B718E]_000	柱子的损毁面积持续扩大，\n受到冲击会有崩塌危险。
+[781B9802]_000	损毁部分已清除，\n柱子无法再支撑建筑。
+[6CA11B21]_000	与排水沟连动的装置\n让蓄水池水位维持在95%。
+[12E69FCA]_000	排水沟盖遭到破坏，\n装置无法正常运作。
+[C2E2D9DB]_000	材质：{color[ff0a0aff]}泰隆合金\n{color[000000ff]}排水沟盖。\n强度有所降低。
+[C2E2D9DB]_001	 
+[C2E2D9DB]_002	强度普通。
+[4F15E331]_000	发现冰冻光束！
+[DCEB9E70]_000	昆虫形态：泰隆甲虫\n于地底移动的昆虫。\n外壳坚硬，极具攻击性。
+[DCEB9E70]_001	泰隆甲虫
+[DCEB9E70]_002	用强有力的嘴凿开岩石\n在地底移动。\n平常潜伏在地底，\n一旦察觉到有生物靠近，\n就会爬出地面迅速发动攻击。
+[D08D80F4]_000	昆虫形态：巨人甲虫\n拥有高硬度甲壳的昆虫。
+[D08D80F4]_001	巨人甲虫
+[D08D80F4]_002	巨大的头部甲壳\n硬度在金属以上，\n会用角状部位施展突刺攻击。\n因腹部相对脆弱，\n为了保护腹部，\n移动时总是与敌人面对面。
+[78CD9847]_000	昆虫形态：泰隆黄蜂\n飞行系昆虫，\n身上的针带有剧毒，贯穿力强。
+[78CD9847]_001	泰隆黄蜂
+[78CD9847]_002	察觉危险或敌人时会离开巢穴，\n伸出毒针从空中极速俯冲攻击。\n\n毒针分泌的速效毒液\n能让小型生物几乎动弹不得。
+[E3EFB1BF]_000	昆虫形态：有毒黄蜂\n能朝猎物发射毒针的大型黄蜂。
+[E3EFB1BF]_001	有毒黄蜂
+[E3EFB1BF]_002	毒针拥有异常迅速的再生能力，\n攻击射程最远可达20米，\n针内有溶解猎物的酸性化合物。
+[42EF5902]_000	昆虫形态：血黄蜂\n会围绕敌人高速飞行，\n使其丧失方向感后攻击。
+[42EF5902]_001	血黄蜂
+[42EF5902]_002	喜欢在阴暗潮湿处筑巢，\n危险逼近时会成群出没。\n\n能用特殊信号呼朋引伴\n将敌人团团围住，\n并同时发动攻击。
+[A638777F]_000	植物形态：蛇蝎杂草\n叶面布满小刺的食虫植物，\n会借此捕捉猎物。
+[A638777F]_001	蛇蝎杂草
+[A638777F]_002	拥有基本的感官和意识，\n察觉到危险时\n会将叶片缩到地底藏起来。\n对小型生物有害，\n但对大型生物而言\n只是有点烦而已。
+[EBC8C380]_000	植物形态：有毒杂草\n叶色鲜艳的食虫植物，\n叶尖具有毒性。
+[EBC8C380]_001	有毒杂草
+[EBC8C380]_002	会用鲜嫩的叶子引诱猎物靠近，\n再以含有剧毒的小刺捕食猎物。\n\n和蛇蝎杂草一样，\n察觉到危险时\n会将叶片缩到地底藏起来。
+[C1C44285]_000	植物形态：击打藤蔓\n生长在岩石等洞穴中的\n藤本植物。
+[C1C44285]_001	击打藤蔓
+[C1C44285]_002	藤蔓上的眼球\n视线范围约为10米，\n藤蔓前段呈尖锐刃状。\n一旦察觉到\n感知范围内出现的任何物体，\n就会不顾一切地用刃部攻击。
+[B8AAD4A2]_000	植物形态：爆裂蘑菇\n一种菇类，\n受到冲击后会释放有毒孢子。
+[B8AAD4A2]_001	爆裂蘑菇
+[B8AAD4A2]_002	只要受到一点碰触，\n就会将菌盖炸开，\n散发有毒孢子。\n这种毒性可避免\n自身遭其他生物捕食。
+[CD631A08]_000	昆虫形态：死亡甲虫\n群体行动的爆炸型寄生虫。
+[CD631A08]_001	死亡甲虫
+[CD631A08]_002	察觉到敌人后，\n会将身体埋进墙壁或地板，\n阻挡敌人前进。\n埋在墙壁或地板的死亡甲虫\n只要感觉到危险\n就会引爆自己攻击敌人。
+[B90BD230]_000	异形形态：鸟人幽灵\n鸟人残存的强烈思念\n具象化后的生命体。
+[B90BD230]_001	鸟人幽灵
+[B90BD230]_002	有时看得见有时看不见，\n须使用X光扫描才能准确追踪。\n\n属超自然性质，\n火、冰、电等自然界能量\n对其无效。
+[DAD56105]_000	两栖形态：石头蟾蜍\n皮肤呈岩石状，\n须从内部攻击才有效。
+[DAD56105]_001	石头蟾蜍
+[DAD56105]_002	平常几乎一动也不动。\n当有体积较小的生物接近时，\n会将其从头到尾一口吞下。\n若无法消化再吐出。\n皮肤已经岩石化，\n故实际上是陆生生物。
+[CBD87ED5]_000	哺乳类形态：尖叫蝙蝠\n一种宇宙蝙蝠，\n体温最高可达121摄氏度。
+[CBD87ED5]_001	尖叫蝙蝠
+[CBD87ED5]_002	因体温很高，\n通过热成像画面就能轻易发现。\n\n领地意识异常强烈，\n会对任何接近的物体\n施展急速俯冲攻击。
+[8BABAEF6]_000	Morphology: Eyon\nOrganism capable of channelling energy through its ocular tissue.
+[8BABAEF6]_001	Eyon
+[8BABAEF6]_002	Capable of launching sustained energy beams when active, the Eyon is sensitive to light and will close shut if a bright flash ignites nearby.
+[044A30D3]_000	有机形态：眼球体\n整体由眼球细胞构成的\n固定型有机体。
+[044A30D3]_001	眼球体
+[044A30D3]_002	活动时会通过眼球组织\n连续发射能量光束。\n\n对光线很敏感，\n在附近用光照它，\n就会闭上眼睛暂时乖乖不动。
+[23503982]_000	甲壳形态：义玛\n沿墙壁爬行的甲壳动物，\n拥有可自由伸缩的刺。
+[23503982]_001	义玛
+[23503982]_002	义玛是从演化过程中\n衍生出来的一种基玛。\n\n危险逼近时会伸出锐利的刺，\n将头藏在装甲般的壳内。
+[266EB5D0]_000	Morphology: Bombu\nRaw electricity made corporeal. Periodically sloughs off explosive segments of its form.
+[266EB5D0]_001	Bombu
+[266EB5D0]_002	The Bombu lacks any intelligence beyond an instinctive attraction to other charged energy sources. Producing electricity in a never-ending cycle, it constantly drops excess charges away from its main form.
+[71969378]_000	有机形态：蜂巢\n泰隆黄蜂的巢，\n可使用爆炸型武器破坏。
+[71969378]_001	蜂巢
+[71969378]_002	泰隆黄蜂善用\n四周环境中的各种材料，\n将巢筑在建筑物的缝隙中。\n外面看到的仅是巢的一部分，\n里面还有更大的空间。
+[39EB5BAF]_000	有机形态：蜂巢\n当巢穴被破坏时，\n黄蜂会在巢里静待危险过去。
+[39EB5BAF]_001	坏掉的蜂巢
+[39EB5BAF]_002	泰隆黄蜂是一种高智慧昆虫，\n就算巢穴损毁也不会移动住处，\n存活的黄蜂能在原地再次筑巢。
+[5865A504]_000	甲壳形态：眼球虫\n一边沿着墙壁爬行，\n一边发出电能脉冲的生物。
+[5865A504]_001	眼球虫
+[5865A504]_002	受坚硬外壳及电能力场保护，\n可抵御任何外敌的攻击，\n但察觉到危险就会躲进壳里。
+[58388B4F]_000	昆虫形态：泰隆闪光虫\n能将体内的热量\n转化为光的昆虫。
+[58388B4F]_001	泰隆闪光虫
+[58388B4F]_002	泰隆闪光虫是一种温驯的昆虫，\n会靠近热源补充能量并转为光，\n借此照亮周围来觅食。
+[6C2B07EC]_000	昆虫形态：装甲寄生虫\n拥有金属般坚硬外皮的\n一种寄生虫。
+[6C2B07EC]_001	装甲寄生虫
+[6C2B07EC]_002	具有强大的抗性，\n能抵挡绝大多数的普通武器，\n因此很难对其造成伤害。\n平常会在狭窄的区域内移动，\n不太具有攻击性。\n仅有腹部表皮较薄。
+[B7B2F8FA]_000	昆虫形态：寄生虫\n许多行星都曾出没的害虫，\n为集群性生物。
+[B7B2F8FA]_001	寄生虫
+[B7B2F8FA]_002	个体生性胆小，\n但群体行动时会变得\n十分具有攻击性，\n甚至会围攻并捕食其他生物。\n体液含微量毒性，\n若大量接触恐有危险。
+[9AB68CF2]_000	有机形态：蜂巢\n有毒黄蜂的巢。
+[9AB68CF2]_001	Hive\n(Barbed Wasp)
+[9AB68CF2]_002	非常坚固。\n除了在巢穴口下方点火燃烧外，\n没有其他方式能破坏。
+[27B2B760]_000	有机形态：蜂巢\n有毒黄蜂的巢，\n已被完全破坏。
+[27B2B760]_001	Hive\n(Destroyed)
+[27B2B760]_002	当巢穴内的所有黄蜂死亡后，\n巢穴便无法再生。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansGameMechanics.msbt
+[86AAD024]_000	门锁组件：\n通用门锁系统，\n各区域的解锁条件不同。
+[86AAD024]_001	门锁组件
+[E40166BB]_000	This platform is kept aloft by a gas-based propulsion system attached to its underside.
+[E40166BB]_001	Floating Platform
+[875CE513]_000	高速旋转器：\n辅助动力装置。
+[875CE513]_001	高速旋转器
+[875CE513]_002	化为变形球后\n进入高速旋转器缺口，\n使用加速功能，\n让发电机皮带迅速旋转发电，\n即可启动装置。
+[8BFF1117]_000	炸弹栏位：\n亮灯代表启动中。
+[8BFF1117]_001	炸弹栏位
+[8BFF1117]_002	化为变形球后\n紧贴炸弹栏位使用炸弹，\n即可发出爆破震动，\n启动与其连动的装置。
+[8C16D17F]_000	钟乳石：\n从洞穴上方突出的岩石，\n顶端已有裂痕。
+[8C16D17F]_001	钟乳石
+[8C16D17F]_002	钟乳石经撞击后\n会从洞穴上方坠落，\n可以踩在上面移动。
+[F614349B]_000	Antigravitational boosters beneath platform appear insufficient to support heavy weights for long durations.
+[F614349B]_001	Sinking Platform
+[F614349B]_002	This airborne platform can only support minimal weight. Excessive weight will make the platform begin to sink.
+[A32EDC44]_000	蜘蛛球轨道：\n磁力轨道系统。
+[A32EDC44]_001	蜘蛛球轨道
+[A32EDC44]_002	化为变形球靠近轨道按{[0100|0ccd]}\n可将磁力吸附在轨道上，\n推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}可在轨道上移动。\n放开{[0100|0ccd]}后磁力失效，\n脱离轨道。在轨道使用\n炸弹时须格外小心。
+[180E604F]_000	能量球：\n回复能量10点。
+[180E604F]_001	能量球
+[353793AF]_000	大能量球：\n回复能量20点。
+[353793AF]_001	大能量球
+[77DB2622]_000	超级能量球：\n回复能量100点。
+[77DB2622]_001	超级能量球
+[9BC71C1B]_000	导弹（补给道具）：\n补给3发导弹。
+[9BC71C1B]_001	导弹（补给用）
+[A752F56A]_000	导弹（补给道具）：\n补给5发导弹。
+[A752F56A]_001	导弹（补给用）
+[EDCD1F87]_000	导弹（补给道具）：\n补给10发导弹。
+[EDCD1F87]_001	导弹（补给用）
+[99BA9BFA]_000	导弹包：\n增加导弹持有上限5发。
+[99BA9BFA]_001	导弹包
+[E95E2914]_000	能量包：\n增加能量上限100点。
+[E95E2914]_001	能量包
+[E5804F4E]_000	重磅炸弹（补给道具）：\n回复1颗重磅炸弹。
+[E5804F4E]_001	重磅炸弹（补给用）
+[406D5277]_000	重磅炸弹包：\n增加重磅炸弹\n持有上限1颗。
+[406D5277]_001	重磅炸弹包
+[350B1882]_000	发现重磅炸弹！
+[350B1882]_001	重磅炸弹
+[1BC22F30]_000	猎人规格宇宙舰艇：\n登记人 萨姆斯·亚兰
+[1BC22F30]_001	宇宙舰艇
+[1BC22F30]_002	可在宇宙舰艇保存\n到目前为止的行动记录\n并补给能量。
+[50AC3B9A]_000	抓钩点：\n可使用抓钩光束的地点。
+[50AC3B9A]_001	抓钩点
+[50AC3B9A]_002	{[0101|220054005800540052005f0047006c00790070006800470072006100700070006c0065000100]}出现时，长按{[0100|0bcd]}即可抓钩。
+[191A6881]_000	发现抓钩点。
+[191A6881]_001	 
+[191A6881]_002	抓钩光束功能受损，\n目前无法使用。
+[2F6A9C2C]_000	Analysis indicates a viable attach point for the\nGrapple Beam. 
+[59C2FAFA]_000	发现导弹！
+[7E28D21A]_000	Area must be secure to access Door Control.
+[90A7231C]_000	Beam Combo Attachment
+[F7333676]_000	发现超级导弹！
+[A258EB79]_000	发现冰冻散射枪！
+[64C92BBB]_000	发现火焰喷射器！
+[6056B36F]_000	发现波动炮！
+[265142BA]_000	门屏障：\n必须破坏屏障才可开门。
+[265142BA]_001	门屏障
+[265142BA]_002	唯有爆炸冲击\n可破坏门屏障，\n光束派不上用场。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansIceWorld.msbt
+[2DDB22E1]_000	已授权进入{color[ff0a0aff]}火山洞穴西部{color[000000ff]}，\n请站在全息影像处。
+[38F9BAC5]_000	移动点：\n{color[ff0a0aff]}火山洞穴西部{color[000000ff]}\n电梯启动。
+[63FF595D]_000	前方有厚冰挡住通道。
+[63FF595D]_001	 
+[63FF595D]_002	冰块强度：中级\n硬度虽高，\n面对强大冲击却不堪一击。
+[D0E9D1C9]_000	材质：{color[ff0a0aff]}瑞迪恩{color[000000ff]}\n因低温而受损。
+[BFE4ED0B]_000	门锁组件：\n通过控制装置即可解锁。
+[BFE4ED0B]_001	 
+[BFE4ED0B]_002	侦测到附近有控制装置。
+[7768D1D3]_000	启动门锁控制装置。\n已解除连动的门锁。
+[8D4F3419]_000	漂浮石。\n底部装置喷出的气体产生推力，\n将石头推至空中。
+[3CB3C634]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n虽因风化作用而受损，\n但硬度仍偏高。
+[3CB3C634]_001	 
+[3CB3C634]_002	于雕像后方发现某种启动装置。
+[5CDD8F79]_000	侦测到墙后有动作反应。\n该反应正在与附近的系统连动。
+[CF1A421A]_000	冰块强度：最高级\n受冲击而破裂的概率为0.01%，\n有高温融化的痕迹。
+[30C2F00A]_000	从状似轨道的物体表面\n侦测到强大磁力。
+[30C2F00A]_001	 
+[30C2F00A]_002	磁力系统功能正常。\n需要蜘蛛球技术才可使用。
+[3ED1C254]_000	鸟人族雕像，\n手上抱着巨大圆盘。
+[A5309369]_000	萨满像的手有部分结冰。
+[8B3357DF]_000	发现水瓮周围出现厚冰。\n雕像口中设有出水系统。
+[4182CF44]_000	This gate blocks the entrance to the next room. A strange statue resides at the pivot.
+[BE6E9887]_000	门上有鸟人族胸像。\n与数据库记录的{color[ff0a0aff]}萨满像{color[000000ff]}\n极为相似。
+[BE6E9887]_001	 
+[BE6E9887]_002	解读表面文字。\n“吾友为支柱\n以其身 守护圣地之钥”
+[C8BF77EC]_000	鸟人族胸像。\n与{color[ff0a0aff]}萨满像{color[000000ff]}极为相似。
+[C8BF77EC]_001	 
+[C8BF77EC]_002	材质：{color[ff0a0aff]}纤维石头{color[000000ff]}\n表面出现龟裂。
+[4E2B0542]_000	鸟人族胸像，\n具有{color[ff0a0aff]}战士{color[000000ff]}的特征。
+[4E2B0542]_001	 
+[4E2B0542]_002	保存良好，毫无损伤。
+[8577D6E7]_000	鸟人族胸像，\n雕像表面有代表{color[ff0a0aff]}建筑家{color[000000ff]}的文字。
+[8577D6E7]_001	 
+[8577D6E7]_002	保存良好，毫无损伤。
+[9872E65F]_000	鸟人族胸像，\n雕像表面有代表{color[ff0a0aff]}哲学{color[000000ff]}的花纹。
+[9872E65F]_001	 
+[9872E65F]_002	保存良好，毫无损伤。
+[D4107F49]_000	发现波动光束！
+[5BFEB446]_000	分析海盗记录：\n刚抵达的部队\n请立即前往主实验室。
+[5BFEB446]_001	 
+[5BFEB446]_002	抗命者将减少30%的配给\n并增加军务。
+[DD6AC6E8]_000	分析海盗记录：\n冰冻庭园已实行2级封锁。
+[DD6AC6E8]_001	 
+[DD6AC6E8]_002	因此所有计划一律暂停，\n任何情况下皆不许部队入内。
+[1636154D]_000	分析海盗记录：\n所有弹道支援部队\n请前往九头蛇实验室。
+[1636154D]_001	 
+[1636154D]_002	获得详细信息前，\n须持续执行3A封锁计划。
+[853720F1]_000	Save Station
+[853720F1]_001	Save Station
+[853720F1]_002	Step into these stations to save your game and fully restore your energy.
+[0564C276]_000	冰块强度：最高级\n受冲击而破裂的概率为0.01%，\n有高温融化的痕迹。
+[B1AFD018]_000	冰块强度：最高级\n受冲击而破裂的概率为0.01%，\n有高温融化的痕迹。
+[09A0E022]_000	Structural weakness found in stalactite. Structure may destabilize if impacted.
+[5B3D6C86]_000	漂浮石推进装置力量不足，\n无法长时间支撑\n整套服装的重量。
+[CD60B229]_000	启动调整开关。\n漂浮石重回正常位置。
+[DEF3DB86]_000	于光滑的冰面下发现鱼影。\n鱼似乎已冻结成冰，\n毫无生命迹象。
+[253033B4]_000	漂浮石目前呈停止状态。
+[CC15A04B]_000	发现加速球！
+[BE989A7F]_000	Multiple microscopic fractures found throughout {color[ff0a0aff]}Sandstone{color[000000ff]} wall section. 
+[4EF566ED]_000	Normal water flow to fountain has been blocked.
+[D5C2B919]_000	Generator belts can be activated by rapid rotational force on treads in base of aperture. 
+[628E4B6C]_000	{color[ff0a0aff]}高速旋转器{color[000000ff]}。\n目前已停止运作。
+[1B9CD6CF]_000	此装置目前已停止运作。
+[91836F3B]_000	此栏位已停止运作，\n启动后即可使用。
+[E2E9D99D]_000	This slot is now active.
+[5D8AD7A7]_000	此栏位目前已停止运作。
+[D88E409E]_000	以低密度材质构成的岩石。\n底部未固定，\n可漂浮于水面上。
+[A5410B90]_000	缺乏电能。
+[A5410B90]_001	 
+[A5410B90]_002	侦测到门上方的绝缘体内部\n含有{color[ff0a0aff]}能量管道{color[000000ff]}。\n将电能注入管道即可供电。\n管道会释放普通频率\n难以发现的特殊热能。
+[F1324659]_000	Heavy magnetic field detected emanating from treads in track.
+[C3974856]_000	单向通行的舱口。\n此为出口专用，\n入口在别处。
+[A1C2F004]_000	分析海盗记录：\n成功取得通往\n保安室的示意图。
+[A1C2F004]_001	 
+[A1C2F004]_002	出发至研究区域的人员\n请直接前往检查点。
+[275682AA]_000	分析海盗记录：\n成功取得通往\n九头蛇实验室的示意图。
+[275682AA]_001	 
+[275682AA]_002	须经由南方的{color[8a2be2ff]}波动门{color[000000ff]}\n前往九头蛇实验室。
+[480CB15F]_000	Map Station
+[480CB15F]_001	Map Station
+[480CB15F]_002	Walk into Map Station holograms to download a map of the area you're in.
+[17BB8397]_000	低温冬眠舱。\n使用目的：保管实验体。\n无法确认内部有无有机体。
+[17BB8397]_001	 
+[17BB8397]_002	测量潜伏辐射指数。\n实验体曾暴露在强烈辐射下。
+[729AB1A4]_000	研究所的子处理断路器，\n可正常运作。
+[D32CE762]_000	庞大的大型燃料电池，\n安装在塔的基座上。
+[D32CE762]_001	 
+[D32CE762]_002	燃料电池材质：{color[ff0a0aff]}瑞迪恩{color[000000ff]}\n塔的外墙发现无数裂痕。
+[F280C8F9]_000	Aeration canisters used to filter toxins from Tallon atmosphere.
+[432A23EA]_000	于门上发现扫描装置。\n核对生化数据后，将自动开门。\n授权数据：海盗
+[2902CF96]_000	泰坦计划的实验体\n目前安置于冰冻圆顶室。
+[2902CF96]_001	 
+[2902CF96]_002	凶暴程度急剧增加，\n建议再次转移至别处。
+[AF96BD38]_000	费原子矿石可借由该能量\n相互结合。
+[AF96BD38]_001	 
+[AF96BD38]_002	须以“热成像”侦测\n矿石结合剂的高浓度辐射。\n\n热成像研究成果存放于\n设施内的保管区域。
+[64CA6E9D]_000	费原子矿石耐久度高，\n能抵御冲击。
+[64CA6E9D]_001	 
+[64CA6E9D]_002	矿石制防护罩的防御力极高，\n但热成像能够侦测到其连接处。\n对敌暴露该弱点后须再行改良。
+[79CF5E25]_000	冰冻圆顶室西面区域的\n保安等级：高
+[79CF5E25]_001	 
+[79CF5E25]_002	未经授权者禁止进入。\n欲入内者须通过生化扫描。
+[1CD546F0]_000	Save Station
+[1CD546F0]_001	Save Station
+[1CD546F0]_002	Step into these stations to save your game and fully restore your energy.
+[7B23249C]_000	已授权进入{color[ff0a0aff]}控制塔{color[000000ff]}，\n请站在全息影像处。
+[4B0B4EB3]_000	电梯启动。
+[C6E94852]_000	已授权进入{color[ff0a0aff]}以太实验室{color[000000ff]}，\n请站在全息影像处。
+[5A7624CA]_000	电梯启动。
+[F880C37B]_000	Empty stasis tank used for biological specimens.
+[F880C37B]_001	 
+[F880C37B]_002	Latent radiation readings indicate specimen was highly irradiated before removal.
+[7E14B1D5]_000	Empty stasis tank used for biological specimens.
+[7E14B1D5]_001	 
+[7E14B1D5]_002	Faint radiation readings indicate tank has been empty for some time.
+[B5486270]_000	Empty stasis tank used for biological specimens.
+[B5486270]_001	 
+[B5486270]_002	Scarified glass indicates subject perished violently in tank and was recently removed.
+[E9C175F9]_000	低温冬眠舱。\n使用目的：保管实验体。\n无法确认内部有无有机体。
+[6787525A]_000	实验体029：生命迹象正常\n脉搏率140%，质量增加4%。\n已转移。
+[6F550757]_000	Stasis tank operational but currently empty.
+[E11320F4]_000	实验体043：生命迹象微弱\n舱内冷气稳定，已转移。
+[A409D4F2]_000	低温冬眠舱。\n使用目的：保管实验体。\n无法确认内部有无有机体。
+[2A4FF351]_000	实验体102：不稳定性提升\n低温下仍显露出掠食者的本性。\n已转移。
+[B90CE44A]_000	低温冬眠舱。\n使用目的：保管实验体。\n无法确认内部有无有机体。
+[374AC3E9]_000	实验体002：精神失调\n后于12.091.4执行安乐死，\n预定废弃处理。
+[A91AEF5F]_000	除了“Sclera”研究组，\n一律禁止进入以太实验室。
+[A91AEF5F]_001	 
+[A91AEF5F]_002	请使用西电梯\n前往天文台。
+[E4D24E54]_000	已驱逐95%在主实验室区域\n盘桓的冰冻甲虫。
+[E4D24E54]_001	 
+[E4D24E54]_002	万一发现残存的冰冻甲虫，\n请立刻告知保安司令部。
+[F9D77EEC]_000	Orpheon impact site confirmed at heading mark 22.10.09. All medical crews report immediately. 
+[3CF3B704]_000	已解读宇宙海盗的加密数据。
+[3CF3B704]_001	Parasite Larva
+[3CF3B704]_002	Log 10.515.8\nOur initial tests exposing Tallon IV’s indigenous parasites to Phazon appear to be successful. Increases in strength, size and aggressiveness are common in all test subjects, as well as unforeseen evolutions like additional poison sacs within the abdomen and the appearance of a second ring of mandibles in several subjects. These creatures were chosen because of their resilience, and it appears possible that, given enough exposure to Phazon, they may one day be able to survive on any planet we transport them to. Our methods will have to be refined; we currently have a 100% extinction rate after the fourth infusion period, and most survivors of the third infusion stage are so violent and uncontrollable that they have to be euthanized. Even still, we remain hopeful that further experimentation will result in success.
+[BA67C5AA]_000	约有40%的低温冬眠舱\n正在使用。
+[BA67C5AA]_001	 
+[BA67C5AA]_002	舱内温度调节机故障\n已于12.112.4修复。
+[713B160F]_000	费原子液舱内酸度上升。
+[713B160F]_001	 
+[713B160F]_002	此现象应为实验体摄取费原子后\n出现的副作用。
+[D708C99A]_000	杰诺姆S-a能量核心的\n费原子注入率达上限的70%，\n可继续追加。
+[519CBB34]_000	杰诺姆S-a正要移送至\n九头蛇实验室。
+[519CBB34]_001	 
+[519CBB34]_002	因异常行为急剧增加，\n已授权转移实验体。\n机密委员号码：D-13。
+[6ABA68CA]_000	实验体034\n已移送至九头蛇实验室。\n为确保安全，请暂停注入。
+[EC2E1A64]_000	实验群体Y预计于\n12.312.2抵达。\n请事先准备好舱体。
+[FF533091]_000	突变体776-V吸收力异常良好。\n正在执行该突变体的再生实验。
+[79C7423F]_000	实验体1734E下颚突变，\n考虑与实验体1622G交换注入。
+[B29B919A]_000	根据行动模式分析得知，\n杰诺姆处于冰点下时\n反射能力会降低。
+[413F3F4B]_000	注意：\n在缺乏适当的低温控制装置时，\n不可操控杰诺姆。
+[C7AB4DE5]_000	776-V种再生实验已成功。
+[C7AB4DE5]_001	 
+[C7AB4DE5]_002	我们将之命名为\n“巴鲁堤哥型”，\n而测试用杰诺姆目前仍在突变。
+[0CF79E40]_000	发现实验体1664Z\n感染杰诺姆带原的病毒。\n将废弃所有实验体。
+[D2C3A74C]_000	Empty stasis tank used for biological specimens. Latent radiation readings indicate specimen was highly irradiated before recent removal.
+[AD3A067B]_000	Phazon Infusion Stage 5\nSubject Xenome F-c >> Cold damping is becoming ineffective. Keep subject sedated at all times.
+[5457D5E2]_000	Empty stasis tank used for biological specimens. Latent radiation readings indicate specimen was highly irradiated before removal.
+[2BAE74D5]_000	实验体070：\n吸收力进步惊人，\n内部组织却发生退化。
+[D4D66710]_000	上层低温冬眠舱在线。\n费原子注入列正常运作。
+[524215BE]_000	舱内液体浓度维持在70%。\n将按照12.003.8的程序\n检查状态。
+[991EC61B]_000	以太实验室全体队员\n须每日执行去污作业。
+[841BF6A3]_000	从舱内采集的组织样本\n将移至九头蛇进行分析。\n须确保移动过程的安全。
+[9CAE81C9]_000	屏障挡住了入口。\n附近应该有控制装置。
+[5DC503C9]_000	已授权进入{color[ff0a0aff]}九头蛇实验室{color[000000ff]}。
+[609E5096]_000	启动全息影像。
+[9FB25C24]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n圆柱表面有老旧破损的痕迹。
+[43A6A211]_000	Missile Expansion
+[43C0737A]_000	Generator belts can be activated by rapid rotational force on treads in base of aperture. Currently inactive.
+[7A4BB563]_000	Generator belts can be activated by rapid rotational force on treads in base of aperture.
+[B2C46B34]_000	宇宙全息影像机的底座装置\n目前停止运作。
+[E5CC8D9A]_000	宇宙全息影像机的底座装置\n目前正常运作。
+[88DD2022]_000	宇宙全息影像机的顶端装置\n目前停止运作。
+[43EDACB1]_000	Upper node of astronomical holographic projector functioning normally.
+[91A941F1]_000	已解读宇宙海盗的加密数据。
+[91A941F1]_001	Contact
+[91A941F1]_002	Log 10.299.2\nScans of the Spiral Sector detected a massive energy spike emanating from a Wanderer-class planet identified as Tallon IV. Scout reconnaissance was immediately dispatched to the center of the spike, a land mass at heading mark 40.08.02, returning with planetary samples and atmospheric imaging. Analysis shows the energy source to be an unstable radioactive material of enormous potential. We are unable to form an accurate risk-assessment at this time, but we are unlikely to find an energy source this powerful again. Analysis will continue, but currently Tallon IV appears to be a viable secondary headquarters.
+[173D335F]_000	全息影像空间示意图\n因保安指令2.23.445\n而受到严格加密。
+[DC61E0FA]_000	已成功更新\n全息影像地图的坐标信息。
+[4092E3A5]_000	全息影像机停止运作时\n通常会收起顶端装置。
+[C606910B]_000	启动影像机扩充部分时，\n请直接连接装置，\n转动基础发动机。
+[C606910B]_001	 
+[C606910B]_002	使用设置在影像机底座的\n{color[ff0a0aff]}高速旋转器{color[000000ff]}，\n即可将平台移动至合适位置。
+[2C432946]_000	This slot is active.
+[4EF24F59]_000	炸弹栏位目前停止运作。
+[11969C2E]_000	名称：行星 泽贝斯\n质量：4.8兆亿吨
+[11969C2E]_001	泽贝斯
+[11969C2E]_002	该行星地质坚硬、不易崩塌，\n适合开发地下设施。\n\n但环境严峻，不宜生物居住。\n直到成为海盗要塞才受人瞩目。
+[607BE850]_000	名称：行星 泰隆Ⅳ\n质量：5.1兆亿吨
+[607BE850]_001	泰隆Ⅳ
+[607BE850]_002	根据推测，\n该行星本来拥有丰富的生态系。\n\n由于不明力量带来的严重影响，\n才导致现在生态急速崩溃。
+[9955C146]_000	Star Helialis\nTemperature: 6,500° centigrade (surface), 15,000,000° centigrade (core).\nProfile: Gold Colossus-class star. The center of the solar system.
+[3DF0C0C4]_000	名称：行星 欧麦恩Ⅱ\n质量：2.3兆亿吨
+[3DF0C0C4]_001	 
+[3DF0C0C4]_002	已荒废的行星。\n核能尘暴和大地震频发，\n不宜居住。
+[20F5F07C]_000	名称：行星 比利乌姆\n质量：3.8兆亿吨
+[20F5F07C]_001	 
+[20F5F07C]_002	隔离区域。\n大气中含有大量名为\n米托拉利斯的气态致命病毒。
+[EBA923D9]_000	名称：行星 双塔布拉\n质量：4.1兆亿吨
+[EBA923D9]_001	 
+[EBA923D9]_002	该星球因特殊病毒传染病\n“双热病”而闻名。\n感染该病将失明并丧命。
+[6D3D5177]_000	Planet Oormine II
+[A66182D2]_000	Planet Miteralis
+[57373007]_000	Planet Ariolia
+[9C6BE3A2]_000	Planet Viprace
+[E2581248]_000	Meteor Ovus\nAnalysis of the impact zone indicates this meteor struck Tallon IV approximately 100 years prior to our scout reconnaissance of 10.299.2. Meteor is of unknown origin.
+[8CD2629A]_000	已成功将全息影像系统初始化。
+[BC1CAD22]_000	超级导弹
+[07EF2FA0]_000	密特罗德分析结果：脑部\n于温暖环境狩猎时，\n顶叶会特别活跃。
+[07EF2FA0]_001	 
+[07EF2FA0]_002	10摄氏度似乎是\n活动变化的分界点。
+[817B5D0E]_000	密特罗德分析结果：内脏\n仅由吸收细胞与储能脏器\n组合而成。
+[4A278EAB]_000	经调整后，\n密特罗德的抑制屏障\n已100%正常运作。
+[4A278EAB]_001	 
+[4A278EAB]_002	在10摄氏度以下的环境中，\n密特罗德较容易受到控制。
+[5722BE13]_000	密特罗德分析结果：下颚\n用强韧下颚贯穿猎物的皮肤\n并吸收生命能量。
+[920677FB]_000	已解读宇宙海盗的加密数据。
+[920677FB]_001	Metroid Studies
+[920677FB]_002	Log 10.444.4\n\nInitial transfer of Metroids to Tallon IV research facilities has been completed. Three were terminated in an incident at the landing site, but the others were pacified and transported safely. Initial Phazon-infusion testing is under way. We are eager to observe the effects of Phazon on Metroids, especially their ability to absorb and process the energy given off by Phazon sources. Early research suggests a considerable growth in power and size. Whether the creatures stay stable thereafter remains to be seen.
+[14920555]_000	舱内温度维持在3摄氏度，\n舱内环境亦判定为良好。
+[7E661F8C]_000	低温冬眠舱。\n使用目的：保管实验体。\n无法确认内部有无有机体。
+[7E661F8C]_001	 
+[7E661F8C]_002	测量潜伏辐射指数。\n侦测到异常的辐射污染现象。
+[AEE54288]_000	体液流停止舱B118：\n污染浓度超过安全标准值，\n已撤除。
+[28713026]_000	费原子注入等级6\n实验体：密特罗德BR549
+[28713026]_001	 
+[28713026]_002	费原子使用量增加4%，\n实验体质量较上次注入时\n增加180%。
+[2C6A7821]_000	密特罗德由能量所构成，\n吸收能量后，\n质量将迅速增加。
+[AAFE0A8F]_000	转移密特罗德时，\n须使用冰冻控制装置。
+[AAFE0A8F]_001	 
+[AAFE0A8F]_002	该措施同样适用于\n镇静状态的实验体\n以及被宣告死亡的实验体。
+[61A2D92A]_000	万一密特罗德发动攻击，\n请以冲击力调至最高的\n导弹应战。
+[7CA7E992]_000	接到猎人密特罗德ds\n状态不稳定的报告，\n且寒冷抗性上升中。
+[B7FB3A37]_000	猎人密特罗德dg会对\n附近活动的物体产生过度反应。
+[B7FB3A37]_001	 
+[B7FB3A37]_002	因此严禁靠近舱体，\n务请保持3米以上的距离。
+[316F4899]_000	实验No.7526的残骸。\n未成功转换为菁英海盗。
+[342756D0]_000	注入巴鲁堤哥费原子的\n密特罗德正在顺利成长。
+[342756D0]_001	 
+[342756D0]_002	若能施行适当的服从化措施，\n它们将成为最佳的能量吸收器。
+[B2B3247E]_000	隔离区域的实验体极具攻击性。
+[B2B3247E]_001	 
+[B2B3247E]_002	费原子矿石制的身体近乎无敌，\n几乎无法靠训练让实验体服从。
+[79EFF7DB]_000	冰冻圆顶室西侧大门紧闭。
+[79EFF7DB]_001	 
+[79EFF7DB]_002	实验体目前安置在隔离区域。\n确认区域安全前，\n所有实验暂停。
+[5A0BEE92]_000	体液流停止舱C012：\n污染浓度超过安全标准值，\n已撤除。
+[A1CE0E8B]_000	泰坦计划已暂停。
+[A1CE0E8B]_001	 
+[A1CE0E8B]_002	保安漏洞导致多人死伤，\n新指令发布前严禁进入。
+[C6C1A28C]_000	Stasis tank operational but currently empty.
+[CA3DA3F3]_000	全息影像已启动。
+[93E3F29F]_000	连接中央舱主回路。\n解除部分与能量装置的连接。
+[0A01949E]_000	连接中央舱主回路。\n解除部分与能量装置的连接。
+[CB8F4B5E]_000	连接中央舱主回路。\n解除部分与能量装置的连接。
+[CB298F9A]_000	热成像程序测试完成。
+[CB298F9A]_001	 
+[CB298F9A]_002	为展开实地测试，\n将下载数据至初型战斗面罩。
+[00755C3F]_000	通知司令部，\n我方即将展开热成像测试。
+[00755C3F]_001	 
+[00755C3F]_002	使用热成像光谱，\n可让释放热能的物质\n显示为红色。
+[86E12E91]_000	热成像程序的性能极为优异，\n超出预期。
+[86E12E91]_001	 
+[86E12E91]_002	正在向司令部申请\n于战斗中使用，\n保安要员已获准使用初型。
+[4DBDFD34]_000	预定将热成像面罩界面\n送至隔离区域。
+[4DBDFD34]_001	 
+[4DBDFD34]_002	对于和该危险实验体接触的\n工作人员而言，\n该面罩应该相当有帮助。
+[C37F493F]_000	Door's power source has been cut off. Cycling mechanism inactive.
+[C7EB2F1D]_000	该装置正向位于\n底舱的屏障供应能量。
+[D49CF7DD]_000	道具周围的屏障网络已启动。
+[D49CF7DD]_001	 
+[D49CF7DD]_002	须使3个屏障全部停止，\n才能取得道具。
+[6C197F18]_000	发现热成像面罩！
+[8A487071]_000	缺乏电能。
+[8A487071]_001	 
+[8A487071]_002	将电能注入区域内的{color[ff0a0aff]}能量管道{color[000000ff]}\n即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[7CCFFF55]_000	无机形态：撒达斯\n岩石构成的无机生命体。\n已成为费原子矿石。
+[7CCFFF55]_001	撒达斯
+[7CCFFF55]_002	撒达斯释放的费原子辐射\n会使自动瞄准系统失效，\n须切换面罩寻找准星。\n此岩石聚合物\n以费原子能量为核心，\n拥有自我意识。\n不仅能冰封敌人，\n还可利用巨大身躯\n发动强力攻击。
+[A6A53C6B]_000	发现蜘蛛球！
+[D506C4F6]_000	撒达斯调教计划目前仍在进行。
+[D506C4F6]_001	 
+[D506C4F6]_002	如计划成功，\n将派撒达斯巡逻费原子矿山。
+[5392B658]_000	撒达斯缺乏稳定性，\n须使用其他自然物质\n执行费原子无生物实验。
+[5392B658]_001	 
+[5392B658]_002	借此进一步扩大\n泰隆Ⅳ的调查范围。
+[993CEFE8]_000	已授权进入{color[ff0a0aff]}火山洞穴南部{color[000000ff]}，\n请站在全息影像处。
+[0CEE0B66]_000	移动点：\n{color[ff0a0aff]}火山洞穴南部{color[000000ff]}\n电梯启动。
+[72E23E75]_000	发现重力服！
+[9D0C9BC6]_000	经年累月形成的坚固冰柱，\n含有多种矿床。
+[9D0C9BC6]_001	 
+[9D0C9BC6]_002	其中一种矿床具有\n导热性高的特质，\n能将热能大范围迅速传开。
+[ECE2A824]_000	发现物体。\n位置超出萨姆斯的可跳跃高度。
+[1B4D07E7]_000	冰块强度：最高级\n受冲击而破裂的概率为0.01%，\n有高温融化的痕迹。
+[1B4D07E7]_001	 
+[1B4D07E7]_002	火焰的光芒能开拓出道路。
+[8CE76B14]_000	影像机需要保养，\n请全息影像技师至天文台集合。
+[0A7319BA]_000	宇宙飞行官指出\n双全息影像系统已过时。\n等候研究报告。
+[F0864ECF]_000	费原子可能超过基准值时，\n开采装置操作员须立即报告。
+[76123C61]_000	鸥尔菲恩的紧急降落地点\n指定为等级：MID之保安区域。
+[BD4EEFC4]_000	从鸥尔菲恩紧急降落地点\n接收到最后的通信记录。
+[A04BDF7C]_000	进入矿山时须先检查\n各自的生命维持系统，\n以确保安全。
+[6D89AFB9]_000	负责巡逻矿山的无人机\n须事先接受安检。
+[EB1DDD17]_000	所有开挖的费原子矿脉中，\n奥米克隆于每立方米的\n产量最高。
+[20410EB2]_000	冲击核心应位于\n距离费原子矿脉奥米克隆\n800米处。
+[A8B69975]_000	所有密特罗德移送至\n矿山的费原子区域前，\n皆须接受检查。
+[2E22EBDB]_000	所有实验室皆可查阅\n气温与密特罗德行动之关联性。\n登入码：LIF-22
+[44B9FF31]_000	Save Station
+[44B9FF31]_001	Save Station
+[44B9FF31]_002	Step into these stations to save your game and fully restore your energy.
+[8168BC47]_000	哺乳形态：闪现蝙蝠\n能让体细胞色素暂时消失，\n借此隐形。
+[8168BC47]_001	闪现蝙蝠
+[8168BC47]_002	体细胞会暂时隐形，\n除了用X光照射以外，\n没有其他方法能使其现形。\n闪现蝙蝠还会通过\n发达的音波侦测器官来导航，\n借此盘旋并追踪飞行。
+[A888903D]_000	昆虫形态：冰冻甲虫\n一种在地底移动的昆虫，\n坚硬的表皮上覆盖着冰霜。
+[A888903D]_001	冰冻甲虫
+[A888903D]_002	一种甲虫。\n甲壳遭冰霜覆盖，\n防御力高却不敌高温武器。
+[DF4642BC]_000	爬虫形态：撕涡士\n冰冻山谷最凶猛的掠食动物。
+[DF4642BC]_001	撕涡士
+[DF4642BC]_002	背部拥有特殊的水晶甲壳，\n可吸收能量，\n令光束攻击无效。\n嘴巴能发射超低温吐息，\n以及从背部吸收之能量\n转换而来的冷气弹来攻击。\n发射后会呼吸以补充氧气，\n导致嘴巴疏于防备。\n\n相较于僵硬的背部，\n腹部非常柔软，\n易受冲击。
+[BC86A63D]_000	爬虫形态：幼体撕涡士\n肉食动物，\n坚硬的表皮能够反射光束。
+[BC86A63D]_001	幼体撕涡士
+[BC86A63D]_002	皮肤坚硬且可弹回光束，\n唯独背部的甲壳较单薄。\n\n为了避免背对敌人、\n暴露出唯一的弱点，\n移动时会快速变换方向。\n发射超低温瓦斯弹冻结猎物后，\n会连同冰块将其吞食。
+[0BAA2966]_000	外星人形态：宇宙海盗\n聪明且性格残忍的外星人。
+[0BAA2966]_001	宇宙海盗
+[0BAA2966]_002	宇宙海盗企图以\n高科技掌控银河系，\n为达目的不择手段。\n主要武器为直流电加速式加农炮\n以及前臂固定型镰刀。
+[EE99BA29]_000	外星人形态：影子海盗\n海盗的特殊战斗员。
+[EE99BA29]_001	影子海盗
+[EE99BA29]_002	用特殊透明屏幕隐身的\n海盗精锐战斗员。\n\n由于屏幕消耗的能量大，\n因此无法使用光束枪，\n而是以近身武器作战。
+[1F2379A3]_000	外星人形态：飞行海盗\n海盗的空中战斗员。
+[1F2379A3]_001	飞行海盗
+[1F2379A3]_002	携带喷射背包，\n能在空中移动自如，\n并配备强大导弹。\n喷射背包会散发高温，\n用热成像即可轻易追踪。
+[973D0A9A]_000	哺乳形态：冰冻尖叫蝙蝠\n栖息于寒冷地带，\n习惯挂在天花板上埋伏敌人。
+[973D0A9A]_001	冰冻尖叫蝙蝠
+[973D0A9A]_002	一种适应寒冷气候的尖叫蝙蝠，\n但体温仍然偏高，\n可用热成像轻易侦测到。
+[3505811E]_000	浮游生命形态：泰隆密特罗德\n费原子突变型密特罗德。
+[3505811E]_001	泰隆密特罗德
+[3505811E]_002	密特罗德原本是\nSR388行星的优势物种，\n受费原子影响，\n才突变成泰隆Ⅳ特有种。\n贴近其他生命体时，\n会吸收其生命能量。\n近距离接触时须化为变形球，\n利用炸弹的爆炸气流来闪避。
+[F8EF6A57]_000	浮游生命体：猎人密特罗德\n有触手的密特罗德亚种。
+[F8EF6A57]_001	猎人密特罗德
+[F8EF6A57]_002	发达的触手可吸收能量，\n从远距离发动攻击。\n与对付密特罗德时相同，\n用冷气攻击效果极佳。
+[DDF4AB57]_000	甲壳形态：结晶虫\n栖息于寒冷地带的生物，\n好食腐肉，光束抗性强。
+[DDF4AB57]_001	结晶虫
+[DDF4AB57]_002	甲壳由镜状组织构成，\n反射性强，\n光束攻击对其无效。\n须靠冲击性攻击才能对付它。
+[9C82677F]_000	浮游生命形态：脉冲旋涡\n一种能量生命体。
+[9C82677F]_001	脉冲漩涡
+[9C82677F]_002	只有电力冲击能对付它，\n一般武器皆无法伤其分毫。\n\n无智力但有趋向性，\n会受其他能源吸引而前往。\n\n将周遭能量吸收殆尽后，\n会持续排出多余能量，\n故具有危险性。
+[A9CD451A]_000	浮游生命形态：电波旋涡\n具有触手的能量生命体。
+[A9CD451A]_001	电波漩涡
+[A9CD451A]_002	一种能量生命体，\n只有电力冲击能伤害它。\n靠近时会使电能类面罩故障。\n化为变形球\n钻过旋转的能量触手，\n即可避免受到伤害。
+[93B5B2F8]_000	昆虫形态：冰冻死亡甲虫\n寄生虫，\n危险逼近时会自爆以保护同伴。
+[93B5B2F8]_001	冰冻死亡甲虫
+[93B5B2F8]_002	一种圣甲虫，\n侦测到危险后\n会自爆以保护同伴。\n发现带有敌意的生命体接近时，\n会将身体埋进地板和墙壁，\n阻止敌人前进。\n遇到这种状况\n须提防它在数秒后爆炸。
+[984400D6]_000	软体形态：水生扎普\n栖息于水中的生物，\n靠电脉冲连接上下身体。
+[984400D6]_001	水生扎普
+[984400D6]_002	脑在上半身，\n心脏和消化器官在下半身，\n靠电脉冲连接着身体。\n遇险时，\n外皮坚硬的上下半身会合起，\n然后静止不动。\n一旦电脉冲被切断，\n便会立即丧命。
+[67AC4D41]_000	昆虫形态：冰冻寄生虫\n有结晶状外壳的寄生虫。
+[67AC4D41]_001	冰冻寄生虫
+[67AC4D41]_002	寄生虫拥有极强的适应力，\n能在三代以内彻底适应环境，\n如冰冻寄生虫便适应了寒带。\n杂食性，\n可在生物几乎绝迹的土地生存。
+[3D8AB6C1]_000	机器人：无人机\n具备高性能装备的保安机器。
+[3D8AB6C1]_001	无人机
+[3D8AB6C1]_002	无自我意识，\n能彻底执行输入的任务。\n\n属于精密仪器，\n故不耐电力冲击。\n\n发现入侵者时\n会启动保安锁并封锁路线，\n令入侵者无路可逃。\n散发的电磁波会使\n附近的面罩失效。
+[A9ED37AC]_000	哺乳形态：滑翔虫\n具有强烈磁力的飞行生物。
+[A9ED37AC]_001	滑翔虫
+[A9ED37AC]_002	飘浮在空中的无害生物。\n身体会释放出\n与抓钩光束同频的磁力。
+[3034822E]_000	昆虫形态：冰冻挖土虫\n适应冰点下气温的挖土虫。
+[3034822E]_001	冰冻挖土虫
+[3034822E]_002	挖土虫喜欢高温地带，\n该品种却适应了低温。\n\n平时几乎都待在冻结的地底，\n不过一侦测到震动\n就会飞出地表发动攻击。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansIntroLevel.msbt
+[6CD6943F]_000	The Galactic Federation data banks catalog this planet as Tallon IV. Unstable energy patterns detected emitting from the planet's surface.
+[B2B94979]_000	Zebian-class research frigate. The exterior design of this ship looks oddly familiar, but is not registered in any current database.
+[DF4E435B]_000	发现屏障控制装置开关。
+[5F233C7C]_000	侦测到前方有屏障，\n无法进入。
+[5F233C7C]_001	 
+[5F233C7C]_002	将屏障控制装置开关\n全数关闭，\n即可解除屏障。
+[227EF563]_000	侦测到屏障，无法进入。\n请解除屏障。
+[227EF563]_001	 
+[227EF563]_002	请先扫描\n中央操作杆上的面板{[0101|220054005800540052005f0047006c007900700068005300630061006e005200650064000100]}，\n让开关显示红灯。
+[A8F1C054]_000	已启动屏障控制开关。
+[28FED937]_000	屏障控制开关启动失败，\n须再次启动。
+[28FED937]_001	 
+[28FED937]_002	扫描中央操作杆上的控制面板{[0101|220054005800540052005f0047006c007900700068005300630061006e005200650064000100]}\n即可启动。
+[2B10D6CA]_000	发现宇宙舰艇。\n受能量力场阻碍，无法登船。
+[F34FB6A3]_000	从陨石碎片侦测到高浓度辐射。\n发生区域：不明
+[D3CDF65E]_000	A security barrier restricts access to this area. A surge of energy may be enough to deactivate the Force Field.
+[4E9E89A3]_000	区域名称：{color[ff0a0aff]}紧急避难区域{color[000000ff]}\n现况：{color[ff0a0aff]}不稳定{color[000000ff]}
+[C80AFB0D]_000	区域名称：{color[ff0a0aff]}研究数据保管区域{color[000000ff]}\n现况：{color[ff0a0aff]}正常{color[000000ff]}
+[035628A8]_000	区域名称：{color[ff0a0aff]}动力炉{color[000000ff]}\n现况：{color[ff0a0aff]}正常{color[000000ff]}
+[93A00C55]_000	Security codes are needed to access all floor elevators. See deck commanders to receive temporary security clearance.
+[15347EFB]_000	Newly shipped biological specimens should be taken directly to Quarantine on Deck Beta.
+[DE68AD5E]_000	Unregistered docked spacecraft must be inspected by the assigned deck commander. 
+[C36D9DE6]_000	Any sightings of Galactic Federation probes or spacecraft must be immediately reported to deck commanders.
+[C5172B63]_000	外侧船坞入口
+[6EE9446F]_000	气密舱入口
+[5E6029A3]_000	已成功解锁气密舱。
+[C74E1C79]_000	{color[ff0a0aff]}气密舱运作中：{color[000000ff]}\n请扫描控制面板，解锁气密舱。
+[2290D298]_000	避难区域连接通道A入口
+[985F1732]_000	发现门。\n可用光束解锁。
+[BF797B4C]_000	气密舱入口
+[6539E5DF]_000	紧急避难区域入口
+[9A004697]_000	不明形态：名称不详\n侦测到高能辐射。
+[8D4675A7]_000	构造分析完毕。\n尾巴前端有开口，\n应为生殖器官的一部分。
+[40D843AC]_000	构造分析完毕。\n下颚周围的肌肉组织异常发达。
+[40D843AC]_001	 
+[40D843AC]_002	并于口腔内侦测到\n流动性酸性液胞。
+[DADF2B27]_000	Morphology: Parasite Larva\nInfo >> Harmless unless encountered in large numbers.
+[2F59363A]_000	外星人形态：宇宙海盗\n无生命迹象。
+[A9CD4494]_000	外星人形态：宇宙海盗\n遭酸性物质溶解。
+[62919731]_000	外星人形态：宇宙海盗\n烧烫伤死亡。
+[F7EAE674]_000	Space Pirate Deck Commander.  \nScan analysis has detected and downloaded an access code. Access code use unknown.
+[085E4A8E]_000	发现逃生舱入口。\n舱体已发射至船外。
+[085E4A8E]_001	 
+[085E4A8E]_002	约于6小时前逃离。
+[A25C5CE3]_000	发现电梯。\n已完全停止运作，\n无法使用。
+[C7DFB9E8]_000	逃生舱3：发射完毕\n逃生舱4：发射完毕\n逃生舱7：发射完毕
+[414BCB46]_000	机器：光束炮台KT-0687\n使用导弹可有效攻击。
+[C2B59B2A]_000	危险生命体\n费原子实验群体 I209.A\n移送地点：研究区域
+[4421E984]_000	危险生命体\n费原子实验群体 0142.A\n移送地点：研究区域
+[8F7D3A21]_000	危险生命体\n费原子实验群体 0073.A\n移送地点：研究区域
+[92780A99]_000	Biohazardous materials\nPhazon Batch 0403.A\nDestination >> Deck Beta
+[D0188376]_000	避难区域连接通道A入口
+[568CF1D8]_000	避难区域连接通道B入口
+[FCD07AF8]_000	外星人形态：宇宙海盗\n生命迹象微弱。
+[FCD07AF8]_001	 
+[FCD07AF8]_002	身上有巨大的撕裂伤，\n极可能为大型生物的獠牙所致。
+[DF45BFDF]_000	外星人形态：宇宙海盗\n头部凹陷而亡。
+[06B7036B]_000	紧急避难区域入口
+[A7005112]_000	地图站入口
+[EFF456A9]_000	发现障碍物。\n硬度分析完毕，可以破坏。
+[2855576C]_000	Interior configuration of this ship has been downloaded.
+[A29FF696]_000	避难区域连接通道B入口
+[74614F78]_000	电梯入口
+[93F0B56A]_000	The holographic image looks like a diagram of this ship's interior.
+[CDA1517C]_000	排气口内出现大群寄生虫！
+[4B3523D2]_000	紧急通知！\n2具寄生虫后实验体发生异常。
+[4B3523D2]_001	 
+[4B3523D2]_002	请所有保安人员，\n至生化科技研究区域集合。
+[8069F077]_000	泰隆Ⅳ：0号地点安全。\n不得进入坑洞内部。
+[9D6CC0CF]_000	巡防舰船身稳定，\n未收到问题回报。
+[BDBCACD4]_000	该通风口连通地图数据保管室。
+[72C1CDB5]_000	{color[ff0a0aff]}电梯启动，{color[000000ff]}\n请站在全息影像处。
+[09393DCF]_000	An access code is required to enter Deck Beta.\nPlease see a deck commander to receive a temporary code.
+[40AB1D8E]_000	{color[ff0a0aff]}电梯启动，{color[000000ff]}\n请站在全息影像处。
+[2037AA00]_000	电梯停止运作，\n须打开启动装置。
+[0B848CB5]_000	全息影像已启动。
+[78391B18]_000	地图站入口
+[B6FA6F39]_000	研究区域连接通道A入口
+[8C918B4A]_000	全体人员请注意：\n研究区域的低温舱受损，\n请尽快封锁该区域。
+[C1592A41]_000	紧急通知！\n射击部队请立即前往\n研究区域1进行支援。
+[0A05F9E4]_000	Specimen Cell A >> Normal\nSpecimen Cell B >> Breached\nSpecimen Cell C >> Breached
+[DFED0F3B]_000	能量导体单位故障，\n靠近电弧放电区时请小心。
+[27514A0A]_000	电梯入口
+[708E2569]_000	生化科技研究区域1入口
+[72CCAC51]_000	不明形态：名称不详\n生命迹象微弱，\n处于冬眠状态。
+[72CCAC51]_001	 
+[72CCAC51]_002	极可能发生突变。
+[1F392FEF]_000	通风口盖结构受损。
+[81ACE632]_000	实验体细胞 B\n状态：对费原子化合物\n产生排斥反应。
+[0738949C]_000	实验体细胞 C\n状态：对费原子化合物\n产生排斥反应。
+[CC644739]_000	实验体细胞 A\n状态：休眠中，\n已转移至0080.D组。
+[577B0647]_000	封锁屏障受损，\n实验体恐失控！\n{color[ff0a0aff]}请尽快处理实验体。{color[000000ff]}
+[197A0708]_000	实验体已死亡。
+[197A0708]_001	 
+[197A0708]_002	推测因较预期提前开始腐化，\n导致状态不完整。
+[C19F3463]_000	寄生虫卵。
+[C19F3463]_001	 
+[C19F3463]_002	卵壳不会被溶解，\n能保护身体不受\n母亲的酸性体液侵蚀。
+[470B46CD]_000	变异后口腔内的液胞开始生长。
+[470B46CD]_001	 
+[470B46CD]_002	导致腐蚀性唾液大量分泌。
+[8C579568]_000	变异后的幼虫：\n壳的硬度会随成长增加，\n产生反射能力。
+[8C579568]_001	 
+[8C579568]_002	能充分应付外来的攻击。
+[9152A5D0]_000	前脚的爪子极其锐利，\n甚至能贯穿金属。
+[9152A5D0]_001	 
+[9152A5D0]_002	堪称完美的生化武器。
+[02FAD541]_000	外星人形态：宇宙海盗\n双腿已受损，无法走动。
+[846EA7EF]_000	外星人形态：宇宙海盗\n受到严重内伤。
+[1E3F4353]_000	研究区域连接通道B入口
+[033A73EB]_000	研究区域连接通道A入口
+[0685E0EC]_000	侦测到门后有高浓度辐射，\n该区域封锁中。
+[D1367065]_000	生化科技研究区域1入口
+[0C2BBABA]_000	研究数据保管区域入口
+[B86DC10C]_000	不明形态：名称不详\n变异实验失败实验体，\n无生命迹象。
+[6B270287]_000	昆虫形态：寄生幼虫\n群聚时非常危险。
+[0E774478]_000	昆虫形态：装甲寄生幼虫\n栖息地：泰隆Ⅳ
+[C3D23614]_000	Morphology: Olbap\nInfo >> Native of Tallon IV
+[882FCCFB]_000	哺乳类形态：尖叫蝙蝠\n栖息地：泰隆Ⅳ
+[F1217E3D]_000	哺乳类形态：冰冻尖叫蝙蝠\n栖息地：泰隆Ⅳ
+[84AD7132]_000	昆虫形态：泰隆闪光虫\n栖息地：泰隆Ⅳ
+[5A65EE71]_000	甲壳形态：基玛\n栖息地：泰隆Ⅳ
+[7F998F5E]_000	昆虫形态：泰隆黄蜂\n栖息地：泰隆Ⅳ
+[F083992D]_000	费原子注入 第1阶段\n寄生幼虫状态：\n重量1.2 全长0.5
+[7617EB83]_000	费原子注入 第2阶段\n费原子实验群体 0732.C\n状态：细部组织稳定
+[BD4B3826]_000	费原子注入 第3阶段\n费原子实验群体 0732.C\n状态：开始变异
+[A04E089E]_000	费原子注入 第4阶段\n状态：重量14.5 全长40.3\n细部组织产生缺陷。
+[6B12DB3B]_000	实验群体0732.C的DNA不适合，\n停止注入。
+[ED86A995]_000	将于3小时内实行\n生化科技废弃处理。
+[ED86A995]_001	 
+[ED86A995]_002	废弃实验体前，\n请先向舰艇指挥官\n报告费原子辐射度数。
+[26DA7A30]_000	实验 435.8\n耐冲击度：13%\n维持现状。
+[D78CC8E5]_000	注入分析结果 10.2：\n费原子实验群体 0732.C
+[D78CC8E5]_001	 
+[D78CC8E5]_002	报告显示注入费原子后，\n实验体的体力值与肌肉\n异常增加。
+[1CD01B40]_000	Unstable specimens are to be locked in solitary holdings until toxicity levels decrease.
+[C149E199]_000	注入分析结果 12.5：\n费原子实验群体 0003.H
+[C149E199]_001	 
+[C149E199]_002	该实验能增加\n寄生幼虫唾液的酸性浓度。
+[5831CA1C]_000	诱变槽1\n费原子实验群体 0732.C
+[DEA5B8B2]_000	诱变槽2\n费原子实验群体 0003.H
+[15F96B17]_000	诱变槽3\n费原子实验群体 1426.K
+[08FC5BAF]_000	诱变槽4\n费原子实验群体 3203.C
+[F3F8A9DE]_000	隔离槽：{color[ff0a0aff]}变异生命体{color[000000ff]}\n无法解锁隔离槽。
+[756CDB70]_000	隔离槽 12\n费原子等级：有害\n状态：封锁中
+[BE3008D5]_000	隔离槽 13\n费原子等级：正常\n状态：封锁中
+[A335386D]_000	隔离槽 14\n费原子等级：有害\n状态：封锁中
+[6869EBC8]_000	隔离槽 15\n费原子等级：零\n状态：未使用
+[30073F4F]_000	{color[ff0a0aff]}电梯启动，{color[000000ff]}\n请站在全息影像处。
+[83D58811]_000	This platform does not seem to be functional. There must be something nearby that will turn it on.
+[53176A42]_000	全息影像已启动。
+[8F83F7CB]_000	外星人形态：宇宙海盗\n受到内伤。
+[09178565]_000	外星人形态：宇宙海盗\n侦测到脑内出血。
+[09178565]_001	 
+[09178565]_002	仍可移动和攻击。\n请避开它的攻击并解决它。
+[C24B56C0]_000	外星人形态：宇宙海盗\n仅有些微撕裂伤。
+[C24B56C0]_001	 
+[C24B56C0]_002	体能正常，\n{color[ff0a0aff]}请火力全开。{color[000000ff]}
+[DF4E6678]_000	外星人形态：宇宙海盗\n双腿多处遭溶解。
+[B1D188C8]_000	研究区域连接通道B入口
+[7A8D5B6D]_000	研究区域连接通道C入口
+[EC4C1258]_000	{color[ff0a0aff]}货物升降台启动，{color[000000ff]}\n请站在全息影像处。
+[1E0C0788]_000	An access code is required to enter Deck Gamma. Please see a deck commander to receive a temporary code.
+[ED9C5528]_000	This platform does not seem to be functional. There must be something nearby that will turn it on.
+[5CE41F15]_000	全息影像已启动。
+[664517E0]_000	外星人形态：宇宙海盗\n死因为腹部撕裂伤。
+[673F8258]_000	门锁控制装置：\n装置停止运作，\n须再次启动。
+[19568DEB]_000	{color[ff0a0aff]}门锁控制装置启动，{color[000000ff]}\n地面装置已正常运作。
+[9C0CD2AD]_000	发现保安门，\n目前未通电。
+[C31E2D6D]_000	电力已从保安门中央的\n门锁装置注入。
+[C31E2D6D]_001	 
+[C31E2D6D]_002	启动控制装置即可解锁。
+[29861F5A]_000	Insert metallic sphere to open door.
+[37ECD38A]_000	外星人形态：宇宙海盗\n死因为腹部撕裂伤。
+[B178A124]_000	外星人形态：宇宙海盗\n死因为内脏破裂。
+[008F3640]_000	外星人形态：宇宙海盗\n未发现外伤。
+[008F3640]_001	 
+[008F3640]_002	体能正常，\n{color[ff0a0aff]}请火力全开。{color[000000ff]}
+[84DD1CA3]_000	研究区域连接通道C入口
+[C62F739D]_000	须放置金属球体于全息影像处。
+[6543913E]_000	{color[ff0a0aff]}门锁控制装置启动，{color[000000ff]}\n地面装置已正常运作。
+[DF432C1D]_000	Insert metallic sphere to open door.
+[7ACED053]_000	外星人形态：宇宙海盗\n死因为头部破裂。
+[FC5AA2FD]_000	外星人形态：宇宙海盗\n无生命迹象。
+[FC5AA2FD]_001	 
+[FC5AA2FD]_002	身上到处都有被啃食的痕迹。
+[37067158]_000	外星人形态：宇宙海盗\n死因为背部遭碾压。
+[2A0341E0]_000	外星人形态：宇宙海盗\n死因为酸性物质造成的\n头部烧伤。
+[AEA5D7FB]_000	The Save Station is not operational.
+[2FB943D6]_000	保存站入口
+[FF2C5A54]_000	动力炉入口
+[892E972A]_000	光束炮台的保安密码\n按照阴历周期定期更换。
+[892E972A]_001	 
+[892E972A]_002	输入错误的密码\n光束炮台就会启动。
+[0FBAE584]_000	侦测到原子炉通风系统内\n有障碍物。
+[0FBAE584]_001	 
+[0FBAE584]_002	请工程师立刻至\n货物升降台通道集合。
+[C4E63621]_000	空气不流通时，\n可能导致通风口盖异常高温。
+[C4E63621]_001	 
+[C4E63621]_002	温度指数异常时，\n务必向值班的舰艇工程师报告。
+[E0CF7E26]_000	研究数据保管区域入口
+[C9677BC8]_000	货物升降台入口
+[E8976E30]_000	人为变异形态：寄生虫后\n人为强化的寄生虫。
+[E8976E30]_001	寄生虫后
+[E8976E30]_002	因海盗的费原子实验\n而突变的强大寄生虫，\n可从口腔发射具破坏力的能量。\n口腔内较为脆弱，\n可瞄准口腔狙击。
+[C50390B0]_000	{color[ff0a0aff]}动力炉异常！\n请尽快避难！{color[000000ff]}
+[C8062EFD]_000	侦测到微弱的体温，\n不久前才刚死亡。
+[4E925C53]_000	死因为大量出血。
+[4E925C53]_001	 
+[4E925C53]_002	习性与肉食动物相同。\n这些尸体均为储备粮食。
+[85CE8FF6]_000	无生命迹象。
+[13FD4086]_000	监控屏幕通道入口
+[8C10776F]_000	{color[ff0a0aff]}电梯启动，{color[000000ff]}\n请站在全息影像处。
+[F4EBA4E2]_000	全息影像已启动。
+[202DCCED]_000	电梯停止运作，\n须打开启动装置。
+[20937205]_000	侦测到门后有高浓度辐射，\n该区域封锁中。
+[868F00FF]_000	生化科技研究区域1入口
+[52B0869F]_000	电梯通道入口
+[7818F593]_000	侦测到门后有高浓度辐射，\n该区域封锁中。
+[F21400AC]_000	实验体：机器利德雷\n脑部皮膜稳定，\n受外骨骼保护。
+[74807202]_000	实验体：机器利德雷\n武器更新完成。\n等离子燃料细胞：运作中。
+[08D35A3E]_000	对准抓钩点长按{[0100|2ecd]}\n发射抓钩光束。
+[7E8B2866]_000	电梯入口
+[EF85967D]_000	{color[ff0a0aff]}电梯启动，{color[000000ff]}\n请站在全息影像处。
+[606D4AE3]_000	电梯停止运作，\n须打开启动装置。
+[4BDE6C56]_000	全息影像已启动。
+[3B4AACE8]_000	This door has been sealed to prevent radiation leaks.
+[E0A77146]_000	机器：光束炮台KT-0687\n使用导弹可有效攻击。
+[E0A77146]_001	光束炮台\nKT-0687
+[5C4BB804]_000	光束炮台：停止运作
+[C77ED476]_000	光束炮台：停止运作
+[A9D93062]_000	光束炮台：停止运作
+[2F4D42CC]_000	光束炮台：停止运作
+[950A8635]_000	Small Health. Replenishes 10 units of health.
+[950A8635]_001	Small Health
+[2B9A80DF]_000	Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo.
+[2B9A80DF]_001	Missile Ammo
+[75E77221]_000	Energy Tank. This item permanently increases your maximum energy capacity by 100 units.
+[75E77221]_001	Energy Tank
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansLavaWorld.msbt
+[0D3EC7DC]_000	已授权进入{color[ff0a0aff]}鸟人遗迹北部{color[000000ff]}，\n请站在全息影像处。
+[8EA3FD98]_000	移动点：\n{color[ff0a0aff]}鸟人遗迹北部{color[000000ff]}\n电梯启动。
+[D1F0F46C]_000	Elevator mechanism has been retrofitted onto existing rock wall. 
+[AD152AD8]_000	Molten lava temperature is 1180° centigrade, rendering Suit shielding inadequate. Contact is hazardous.
+[065BEFBD]_000	Light fixture powered by cycling thermal battery. Technology consistent with Space Pirate profile.
+[7BC95B11]_000	Aperture vents flames at regular intervals whenever thermal pressure reaches critical levels.
+[435D4B86]_000	Antigravitational boosters beneath platform appear insufficient to support heavy weights for long durations.
+[4290EB09]_000	Structural weaknesses detected throughout wall.
+[D110EC18]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n墙面有破损，\n应是由压力造成。
+[8D090540]_000	Lava tube bored into a magma reservoir provides a thermal fuel conduit for Flamethrowers.
+[09887AA9]_000	Light fixture is powered by a geothermal tap in the magma stream.
+[33EC52C7]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n硬度为最高级。
+[4718E0AB]_000	Minor structural defects detected in bridge section. Structure's integrity could be compromised by a powerful explosion.
+[4BFA413E]_000	活塞运转正常，\n正从熔岩吸取能量，\n地热发电进展顺利。
+[4BFA413E]_001	 
+[4BFA413E]_002	建议立即停用中央发电机，\n改以地热发电。
+[DEC85AE9]_000	从天然水晶侦测到\n低浓度费原子。
+[DEC85AE9]_001	 
+[DEC85AE9]_002	可高价出售给特定种族，\n将费原子清除后市价极高。
+[F9849756]_000	吊桥已降下。\n如要跨越吊桥\n请使用高速旋转器。
+[05BC785E]_000	吊桥上升。
+[E8137311]_000	站内设置的地热发电装置\n可正常运作。
+[E8137311]_001	 
+[E8137311]_002	当熔岩流波动幅度\n超过安全基准时，\n请将地热网片上的塔移走。
+[BA55BF8F]_000	This is a standard Spinner device.
+[BA55BF8F]_001	Spinner
+[BA55BF8F]_002	The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device.
+[EF77BBE2]_000	Spinner system offline. Bridge control locked for this level.
+[B448EA6B]_000	Log entered from Pirate Log spreadsheet.
+[07353198]_000	Bridge access to radial lava pathways is limited to Pyroclastic Team only. Identity scan required.
+[F521EAE9]_000	Elevator gangway bridge activated.
+[4D1991EE]_000	发现岩浆内有生物活动时，\n须告知中央保安。
+[D0A81E59]_000	已授权进入{color[ff0a0aff]}冰冻山谷北部{color[000000ff]}，\n请站在全息影像处。
+[4F2D2258]_000	移动点：\n{color[ff0a0aff]}冰冻山谷北部{color[000000ff]}\n电梯启动。
+[65D31D01]_000	Air vent is part of circulation system pumping surface atmosphere throughout lava caverns.
+[F486D876]_000	Air vent diameter is .7 meters. Termination point unknown.
+[60D7F5B0]_000	Air vent appears dislocated from central circulation network.
+[4BE9A4CC]_000	已授权进入{color[ff0a0aff]}泰隆世外桃源西部{color[000000ff]}，\n请站在全息影像处。
+[58DA42EA]_000	移动点：\n{color[ff0a0aff]}泰隆世外桃源西部{color[000000ff]}\n电梯启动。
+[7142FD95]_000	Scan shows stress fractures in {color[ff0a0aff]}Brinstone{color[000000ff]} wall.
+[CD7E298C]_000	门的控制装置已停止运作，\n使用时请供电。
+[CD7E298C]_001	 
+[CD7E298C]_002	侦测到区域内有{color[ff0a0aff]}3个能量管道{color[000000ff]}，\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[2A500CE0]_000	确认供电。\n已启动门的控制装置。
+[2A500CE0]_001	 
+[2A500CE0]_002	已授权进入西门，\n启动冷却装置。
+[E136F3C7]_000	西门关闭中，\n请启动控制装置。
+[147E5202]_000	东门关闭中，\n请启动控制装置。
+[C77A205E]_000	北门关闭中，\n请启动控制装置。
+[C76EEC4E]_000	已授权进入东门，\n启动冷却装置。
+[3F9D8B53]_000	已授权进入北门，\n启动冷却装置。
+[26A31486]_000	Access to West channel door granted. Lava within channel has been cooled.
+[534FDF52]_000	Cooling system fully operational. All channels clear.
+[F230DF62]_000	发现旋转式升降台。\n可正常运作。
+[64B3F918]_000	Use the magnetic rail system to advance.
+[6F2DF08A]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n墙面有部分破损，\n硬度为最高级。
+[13579E70]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n前方有瓦砾，\n硬度为最高级。
+[95C3ECDE]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n前方有瓦砾，\n硬度为最高级。
+[6F30E3D4]_000	已授权进入{color[ff0a0aff]}冰冻山谷南部{color[000000ff]}，\n请站在全息影像处。
+[61805AFF]_000	移动点：\n{color[ff0a0aff]}冰冻山谷南部{color[000000ff]}\n电梯启动。
+[2FAF7EDA]_000	已授权进入{color[ff0a0aff]}费原子矿场西部{color[000000ff]}，\n请站在全息影像处。
+[28E3D615]_000	移动点：\n{color[ff0a0aff]}费原子矿场西部{color[000000ff]}\n电梯启动。
+[B0355C18]_000	Save Station
+[B0355C18]_001	Save Station
+[B0355C18]_002	Step into these stations to save your game and fully restore your energy.
+[29D73A19]_000	Save Station
+[29D73A19]_001	Save Station
+[29D73A19]_002	Step into these stations to save your game and fully restore your energy.
+[DD4DD38A]_000	发现等离子光束！
+[8F68D772]_000	甲壳形态：装甲帽虫\n具有光束抗性，嗜食腐肉。\n是泰隆Ⅳ的清道夫。
+[8F68D772]_001	装甲帽虫
+[8F68D772]_002	高温地热导致分子结构\n类似金属的甲壳互相融合，\n因此具有高光束抗性。\n行动模式单一，\n总是四处寻找腐肉。
+[ED007111]_000	爬虫形态：玛古多利提\n大型蛇类，\n会从口中喷出高温火焰。
+[ED007111]_001	玛古多利提
+[ED007111]_002	喜欢极高温地带，\n相对的也非常害怕冷气攻击。\n\n几乎全盲，\n但能靠着敏锐的声波探测器官，\n在熔岩流里随意移动。\n嗅觉器官也很发达，\n能精准狙击目标。
+[E3CD731D]_000	形态：欧尔巴普\n类似昆虫的食尸动物，\n会本能地攻击比自己小的东西。
+[E3CD731D]_001	欧尔巴普
+[E3CD731D]_002	欧尔巴普的身体覆盖着\n鳞片叠成的坚韧甲壳，\n唯独腹部柔软。\n它会趴在地面上刨土掘食，\n以此为生。\n\n察觉危险时，\n则会将身体蜷成球状，\n灵活撞击敌人。
+[B0DC1B98]_000	软体形态：岩浆孢子\n覆盖硬壳的软体生物。
+[B0DC1B98]_001	岩浆孢子
+[B0DC1B98]_002	侦测到敌人后会张开巨大外壳，\n喷射能量团块，\n此时外壳膜会疏于防备，\n一旦受到攻击，\n就会旋转身躯、转攻为守。\n碰到能量团块会有危险。
+[3081ABEA]_000	昆虫形态：三叉库罗普斯\n拥有坚硬甲壳以及\n分裂成三块的强韧下颚。
+[3081ABEA]_001	三叉库罗普斯
+[3081ABEA]_002	分裂成三块的下颚极其强韧，\n遭其捕捉后将难以逃脱。\n\n习惯将捕获的猎物和食物\n存放起来当成储备粮。\n\n建议利用该习性使用炸弹，\n效果极佳。
+[AEFB2390]_000	浮游生命形态：帕法\n体内充满剧毒气体的浮游生物，\n轻触就会爆炸。
+[AEFB2390]_001	帕法
+[AEFB2390]_002	体内充满了\n剧毒气体梅塔威普利姆，\n轻触就会爆炸。\n爆炸后毒气外泄，杀伤力十足。\n身体结构脆弱，\n却是赫赫有名的凶猛猎人。
+[3771E537]_000	浮游生命形态：装甲帕法\n帕法的突变种。
+[3771E537]_001	装甲帕法
+[3771E537]_002	费原子使其身体发生突变，\n产生光束抗性，\n但仍不敌导弹。\n体内充满跟帕法一样的毒气，\n危险度极高。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansMines.msbt
+[49E08B9B]_000	双重屏障运作中，\n须关闭控制装置的开关。
+[AD72FE2A]_000	已解除第1道屏障。
+[76D7EF4F]_000	已解除第2道屏障。
+[D8D61110]_000	起重机停止运作，\n须供应电能。
+[D8D61110]_001	 
+[D8D61110]_002	请搜索起重机的{color[ff0a0aff]}能量管道{color[000000ff]}。\n将电能注入能量管道即可供电。
+[0CBB0F77]_000	建造原料运送完毕。
+[0CBB0F77]_001	 
+[0CBB0F77]_002	正在处理用于\n杰诺姆存放单位的建造原料。
+[07C3C0EE]_000	有关费原子突变体的信息……
+[07C3C0EE]_001	 
+[07C3C0EE]_002	优秀的突变体将获得特权。\n目前司令部正在拟定\n菁英及士兵的候选名单。
+[930A3524]_000	侦测到微弱的能量反应，\n已经很接近能量管道了。
+[7B9448AB]_000	起重机启动。
+[0BD560C4]_000	Magnetic power circuit inactive. Restore missing track section to activate.
+[AEE90A48]_000	起重机控制装置停止运作，\n须供应电能。
+[AEE90A48]_001	 
+[AEE90A48]_002	供应电能的能量管道\n在起重机座上。
+[EC75CE0A]_000	已授权进入保存站。
+[9E84C4C0]_000	屏障运作中，无法进入。
+[F949297E]_000	生化保安锁运作中。\n此为宇宙海盗才能解除的\n特殊保安锁。
+[D2E8D5F6]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n硬度极高，\n但有些微受损。
+[42C52F3D]_000	保安锁解除。\n楼下的屏障已停止运作。
+[E4485F56]_000	Test results from Battle Simulation 'Samus Aran' are promising. 
+[E4485F56]_001	 
+[E4485F56]_002	Elite units report a 74% success ratio against Aran in testing. High Command is pleased, but expects a higher ratio by project's end.
+[62DC2DF8]_000	已解读宇宙海盗的加密数据。
+[62DC2DF8]_001	菁英海盗
+[62DC2DF8]_002	日志 11.001.9\n“赫里库斯”计划\n\n最初使用海盗胎儿做的实验\n以失败告终。\n\n在注入费原子的过程中，\n肌肉质量虽然成功增加，\n脑部组织却同时退化。\n最终我们仍无法控制\n菁英海盗实验体。\n\n我们决定参考\n“Sclera”研究组的研发成果，\n\n采用实验成功的\n费原子突变寄生虫\n“Vertigo”。\n让DNA融合“Vertigo”后，\n最新型的菁英海盗\n终于顺利进入成熟期，\n已可投入实地测试及训练。
+[A980FE5D]_000	Space Pirate encrypted data decoded.\n
+[A980FE5D]_001	Mining Operations
+[A980FE5D]_002	Log 11.242.3\n\nPrevious problems with power supplies in the mining operation have been solved, and we are back on schedule. By shunting thermal energy from the lava flows in the Magmoor Caverns region of Tallon IV, we now have the means to run all of the earth-moving and Phazon-refinement machinery stationed in the caves surrounding the impact crater. Once the operation is running smoothly, we will be able to make projections on Phazon yields and predict if we will be able to leach enough of the substance from the earth to suit the requests of research labs Hydra and Aether. Additionally, three teams of deep-earth Harrowers have already begun sealing off several of the Phazon-rich caves for use as Metroid farms.
+[B485CEE5]_000	菁英海盗战斗系统一览：
+[B485CEE5]_001	 
+[B485CEE5]_002	等离子加农炮\n反射性盾\n波动投射器\n能量吸收系统\n收缩式磁力爪
+[524420CD]_000	Scans indicate this platform is functional, but inactive. 
+[E7511A0D]_000	平台系统启动。
+[61C568A3]_000	平台系统启动。
+[B9DBCBC2]_000	保安警告，全站请注意。
+[B9DBCBC2]_001	 
+[B9DBCBC2]_002	在泰隆Ⅳ发现萨姆斯·亚兰。\n萨姆斯极有可能\n已经入侵该区域，\n若发现萨姆斯踪迹，\n立即向保安司令部报告，\n并迅速展开攻击。
+[D55EA721]_000	脉冲光束炮控制装置启动，\n将自动发射脉冲光束炮。
+[DAF944C8]_000	紧急警报！\n所有单位准备战斗。
+[DAF944C8]_001	 
+[DAF944C8]_002	抗命者视同犯下叛乱罪，\n将处以流放或同等刑罚。
+[05EA8A69]_000	工业用等级脉冲光束，\n于挖掘时使用。
+[D09D4384]_000	表面硬度：23%\n可用脉冲光束破坏。
+[5609312A]_000	表面硬度：44%\n可用脉冲光束破坏。
+[9D55E28F]_000	表面硬度：13%\n可用脉冲光束破坏。
+[0A871D86]_000	表面硬度：42%\n侦测到热能反应。
+[0A871D86]_001	 
+[0A871D86]_002	可用脉冲光束破坏。
+[4B0C0192]_000	表面硬度：8%\n可用脉冲光束破坏。
+[CD98733C]_000	表面硬度：31%\n可用脉冲光束破坏。
+[9B2D67A1]_000	This is a standard {color[ff0a0aff]}Spinner{color[000000ff]} device.
+[9B2D67A1]_001	Spinner
+[9B2D67A1]_002	The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device.
+[0B3D2605]_000	单元认证码：\nEPG-8642 实验群体 23\n菁英海盗 阿尔法
+[0B3D2605]_001	 
+[0B3D2605]_002	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n经合金电镀强化。
+[922E41BC]_000	Structure contains several rotating sections. They can be moved to gain access to different areas.
+[922E41BC]_001	 
+[922E41BC]_002	Rotation of pillar will alter the path of magnetic rail tracks.
+[DB4418D7]_000	下方的旋转控制单位，\n和炸弹栏位功能一致。
+[0E285CD0]_000	中央的旋转控制单位，\n和炸弹栏位功能一致。
+[059F7AC8]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n部分墙壁崩塌，\n无法到达控制单位处。
+[885FB860]_000	上方的旋转控制单位，\n和炸弹栏位功能一致。
+[D7FD3D9A]_000	全息影像和房间中央的旋转柱\n是连动的。
+[D7FD3D9A]_001	 
+[D7FD3D9A]_002	分别转动柱子的3个部位，\n可更改目的地。
+[02E374F8]_000	发现等离子加农炮。\n因缺乏热屏障，\n已侦测到其高温反应。
+[02E374F8]_001	 
+[02E374F8]_002	可使用热成像面罩\n标示出加农炮位置。\n\n能量吸收单位运作时，\n光束会被吸收，\n无法造成伤害。
+[6A2E9A12]_000	屏障运作中。\n控制装置位置不明。
+[9E8DC42A]_000	认证码正确，\n屏障解除。
+[A2529296]_000	军事用等离子加农炮\n正被依序送往泰隆Ⅳ。
+[A2529296]_001	 
+[A2529296]_002	“Egenoid”宇宙海兵队\n将这种加农炮\n废置在了仓库里。\n运用我们的技术\n让菁英海盗装备后，\n即可有效利用。
+[24C6E038]_000	司令部下达指示，\n将菁英海盗编入保安部队。
+[24C6E038]_001	 
+[24C6E038]_002	单位 EPG-8644、EPG-8656\n准备投入现场执行任务。
+[EF9A339D]_000	密特罗德区域内配置的海盗群\n发生紧急情况！
+[EF9A339D]_001	 
+[EF9A339D]_002	保安司令部下令，\n要求支援部队\n前往密特罗德隔离区域。
+[F29F0325]_000	现在起实施4级保安警戒，\n直到状况稳定。\n警戒解除前严禁外出。
+[39C3D080]_000	菁英以外的单位严禁摄取\n菁英用维生食品。
+[39C3D080]_001	 
+[39C3D080]_002	违规者将减少50%的粮食配给，\n持续10周。
+[BF57A22E]_000	生命体萨姆斯·亚兰\n持续在泰隆Ⅳ活动，\n破坏我方各区域。
+[BF57A22E]_001	 
+[BF57A22E]_002	多区保安系统遭到破坏，\n死伤人数逐渐增加。\n\n司令部决定以巨额奖金\n悬赏萨姆斯，无论生死。\n详情请咨询各处负责人。
+[740B718B]_000	等离子加农炮分析结果报告。
+[740B718B]_001	 
+[740B718B]_002	功能正常，\n但因欠缺热屏障，\n用热源探测器就能轻松定位。
+[855DC35E]_000	保安警告，\n电脑系统受损。
+[855DC35E]_001	 
+[855DC35E]_002	生命体萨姆斯·亚兰\n已破坏多处系统。\n萨姆斯可自由连接系统，\n避开大多数的保安程序。\n请切换至手动上锁系统，\n阻止萨姆斯入侵。
+[4E0110FB]_000	泰隆密特罗德攻击等级提升。
+[4E0110FB]_001	 
+[4E0110FB]_002	密特罗德的能量吸收能力\n无法破坏我们的屏障。\n\n但注入费原子后变异的\n泰隆密特罗德，\n潜力仍是未知数。\n请谨防那些试图从隔离区域\n逃脱的泰隆密特罗德。
+[9DA85A96]_000	猎人行动分析：
+[9DA85A96]_001	 
+[9DA85A96]_002	已证实猎人会使用变形球技术\n入侵我方设施。\n\n请再次调节探测器数值，\n侦测变形球的能量反应。
+[56F48933]_000	标准型孵化槽盖\n替换工作进行中。
+[56F48933]_001	 
+[56F48933]_002	钢铁制槽盖预计于20周内\n替换为柯鲁达合金制\n或斑迪兹姆制。
+[D060FB9D]_000	请将菁英海盗用维生食品内的\n费原子含量提高18%。
+[1B3C2838]_000	若菁英拒绝摄取维生食品\n请立即报告。
+[06391880]_000	注入费原子的菌类\n仍在持续培养。
+[06391880]_001	 
+[06391880]_002	已授权将费原子菌类\n混入菁英用维生食品。
+[CD65CB25]_000	已授权再次部署保安无人机。
+[CD65CB25]_001	 
+[CD65CB25]_002	请在特别任务所需区域\n紧急部署无人机。
+[4BF1B98B]_000	行星隐蔽技术已修复，\n因此我们成功躲过了\n埃蒙斯巡洋战舰的搜索。
+[4BF1B98B]_001	 
+[4BF1B98B]_002	如此一来巡防舰坠落引发的\n紧急危机也解除了。\n全体单位集中精神对抗萨姆斯。
+[554DD50F]_000	费原子化合物培养舱。\n正在促进菁英海盗用\n维生食品的化合反应。
+[D3D9A7A1]_000	费原子化合物培养舱。\n正在促进菁英海盗用\n维生食品的化合反应。
+[F9459224]_000	已解读宇宙海盗的加密数据。
+[F9459224]_001	欧米伽海盗
+[F9459224]_002	日志 11.232.8\n“欧米伽海盗”\n\n菁英海盗·宇普西龙的\n费原子倾向，\n孕生了突破性的结果。\n大幅增加费原子注入量后，\n实验体的质量\n也跟着显著提升，\n不但保有心智能力，\n还能精确操控\n菁英用兵器。\n菁英海盗·宇普西龙\n最厉害的地方在于\n能发动自我恢复能力，\n借由吸收附近的费原子，\n修补受损的费原子装甲。\n\n此实验体很有机会\n成为我军的新主力，\n代号为“欧米伽海盗”。
+[7FD1E08A]_000	模拟对战报告：\n可对抗萨姆斯·亚兰
+[7FD1E08A]_001	 
+[7FD1E08A]_002	菁英单位获胜率74%，\n获得最高司令部的肯定。\n但重要的是在实战打倒萨姆斯。
+[778E8314]_000	屏障解除，\n已授权进入。
+[D303C580]_000	屏障解除，\n已授权进入。
+[B48D332F]_000	单元认证码：\nEPG-8701 实验群体 01\n名称“菁英海盗”
+[A9880397]_000	单元认证码：\nEPG-8702 实验群体 01\n名称“菁英海盗”
+[62D4D032]_000	低温冬眠舱发生异常，\n温度持续上升。
+[E440A29C]_000	观察结果显示\n最新型菁英海盗更具有攻击性。
+[E440A29C]_001	 
+[E440A29C]_002	推测原因为\n科学组指定增加\n0.07%的费原子注入率。
+[2F1C7139]_000	未经授权严禁向\n泰隆密特罗德供给能量。
+[DE4AC3EC]_000	初期实验体密特罗德，\n已经成长至猎人级。
+[DE4AC3EC]_001	 
+[DE4AC3EC]_002	猎人密特罗德可通过触手\n远距离吸收能量。
+[15161049]_000	报告显示密特罗德\n于低温地带不活跃。
+[B89C9F36]_000	密特罗德对合成营养物质\n无任何反应。
+[B89C9F36]_001	 
+[B89C9F36]_002	它们会直接从活体生物\n吸收生物能量，\n当成营养摄入。
+[73C04C93]_000	磁轨系统须所有保安系统\n授权后才能使用。
+[F5543E3D]_000	科学组正在招募\n新武器实验的志愿者。
+[3E08ED98]_000	侦查组正在搜索\n萨姆斯的宇宙舰艇。
+[3E08ED98]_001	 
+[3E08ED98]_002	该舰艇可能设置了一种\n不可探测的高性能屏障，\n导致被发现概率极低。\n但阻止并歼灭萨姆斯是必须的，\n绝不允许失败。
+[230DDD20]_000	得出详细结果前，\n禁止进入鸟人遗迹。
+[E8510E85]_000	收到资源不当使用的报告，\n推测是被萨姆斯夺走了。
+[E8510E85]_001	 
+[E8510E85]_002	必须尽快增设\n费原子矿场的监控设备。
+[6EC57C2B]_000	可出动的士兵，\n请在主保安站集结。
+[A599AF8E]_000	所有飞行单位，立刻出发。\n单位编队：席格玛4
+[54CF1D5B]_000	请增加可行动区域的巡逻人员。
+[9F93CEFE]_000	务必歼灭所有\n与我们作对的敌人，\n包括萨姆斯。
+[897485AB]_000	菁英们压倒性的攻击力\n是不可战胜的。
+[8B762ABF]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n部分墙壁已崩塌，\n可用强力的爆炸去除。
+[D5CAB5DB]_000	Access to complete map system for Mining Complex.
+[9078348F]_000	泰隆密特罗德隔离中，\n无司令部许可不得入内。
+[16EC4621]_000	严禁不当使用费原子。
+[16EC4621]_001	 
+[16EC4621]_002	违规者须在密特罗德隔离区域\n值勤90周。
+[68A292A0]_000	与发电机维修组的通讯\n突然中断了，\n正在向中央司令部确认。
+[074CD458]_000	侦测到安全系统异常，\n须关闭电源。
+[C49E7859]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n部分天花板崩塌，\n堵住了门。
+[85C96F4A]_000	费原子处理以及\n保安系统的所需电量，\n已超过发电机的负荷范围。
+[85C96F4A]_001	 
+[85C96F4A]_002	改为地热发电\n虽可稍微缓解能源危机，\n但不足以完全解决问题。\n维持现状持续使用能量，\n有导致系统故障之虞。
+[035D1DE4]_000	因费原子会造成精神伤害，\n已大规模替换掉\n负责发电的作业员。
+[035D1DE4]_001	 
+[035D1DE4]_002	作业员们被召集至科学组\n协助研究实验和\n新菁英海盗计划。\n他们可充当\n菁英实验体的训练对手。
+[C801CE41]_000	在费原子的相关分析\n完全结束前，\n禁止饲养宠物。
+[C801CE41]_001	 
+[C801CE41]_002	饲育型野兽有受费原子影响\n而狂暴化的风险。\n\n必须处理掉区域内的\n固隆卡特和欧尔巴普。\n抗命者将断粮1周。
+[6391AED0]_000	现状报告：菁英海盗和\n注入费原子的密特罗德的\n打斗迹象大幅缓和。
+[6391AED0]_001	 
+[6391AED0]_002	科学组认为\n极可能是注入费原子\n让它们之间产生了协调性。\n关于这点，\n之后将做更详细的研究。
+[E505DC7E]_000	作业员须谨防\n让密特罗德进入亢奋状态。
+[E505DC7E]_001	 
+[E505DC7E]_002	抗命者将给予严厉惩罚。
+[2E590FDB]_000	Metroid batch 7702A, Unit 321. Phazon feed level at maximum.
+[335C3F63]_000	该菌比平常菌类大上4倍。
+[F800ECC6]_000	若屏障有任何异常，\n请立即报告司令部。
+[F800ECC6]_001	 
+[F800ECC6]_002	须经过司令部同意\n才能解除屏障。
+[7E949E68]_000	菌类活化液的加工等级\n数值正常。
+[B5C84DCD]_000	已暂停供应密特罗德人造食品。
+[B5C84DCD]_001	 
+[B5C84DCD]_002	预计将密特罗德用的人造食品\n更换为生化能源12.025.1。
+[449EFF18]_000	志愿兵已陆续加入\n对抗猎人的战斗部队。
+[449EFF18]_001	 
+[449EFF18]_002	现在的目标为\n生命体萨姆斯·亚兰。
+[8FC22CBD]_000	正在对原生菌类注入费原子。
+[8FC22CBD]_001	 
+[8FC22CBD]_002	通过质量增幅计划，\n已成功生产出足够的粮食，\n可配发给各大费原子强化单位。
+[0905768B]_000	Synthetic Metroid ration mix.
+[1EDD8A0F]_000	正在促进密特罗德\n维生食品的化合反应。
+[95C90385]_000	已连接司令部电脑，\n屏障解除。
+[33606305]_000	屏障运作中。
+[33606305]_001	 
+[33606305]_002	须连接司令部电脑\n才能解除屏障。
+[8A2563C0]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n墙面严重腐朽。
+[FA8537C2]_000	平台运作中。
+[186AF5AB]_000	Force Field engaged. Secure this area to deactivate it.
+[5BD11634]_000	Security bioscan locks in place. Locks keyed to Space Pirate life signs only. Access denied.
+[A460B300]_000	屏障运作中，\n无法进入。
+[6F315968]_000	已连接保安控制装置，\n屏障解除。
+[0F5C3FB8]_000	Automated Servo Grapple control engaged. Please clear path of any obstructions.
+[DFC50A64]_000	Space Pirate encrypted data decoded.\n
+[DFC50A64]_001	Special Forces
+[DFC50A64]_002	Log 11.369.4\n\nAs we continue to observe the development of Project Helix's Elite Pirates, it becomes increasingly obvious that these warriors will usher in a new era of Space Pirate dominance. They are incredibly resistant to damage, and their ability to transport and wield so many weapons at once makes them the ideal mainstays of our ground forces. Though they are not as quick as typical Pirates, it makes little difference. With a platoon of Elite Pirates in the vanguard of an army of normal and Flying Pirates, we will have a near-indestructible backbone that should turn the tide in any engagement.
+[6FDF7845]_000	能量吸收系统\n运作测试结果报告：
+[6FDF7845]_001	 
+[6FDF7845]_002	实地测试结果显示，\n该系统对光束武器效果显著，\n但对导弹武器无效，\n须尽快请科学组改良。
+[A483ABE0]_000	欧米伽海盗\n延命措施检查报告：
+[A483ABE0]_001	 
+[A483ABE0]_002	全实验体细胞因注入\n高浓度费原子而迅速退化。\n\n目前无任何实验体\n可存活20周以上。\n\n为提高成本效率，\n须尽快改良以延长寿命。
+[E79F1E09]_000	Scan for Biotanks in area past Force Field.
+[D7A42B28]_000	费原子加工效率已达最高等级，\n产出率187%，\n可继续提升。
+[FCCC93AF]_000	费原子辐射警戒持续中。
+[FCCC93AF]_001	 
+[FCCC93AF]_002	处于高浓度费原子地区时，\n请穿着等级8以上的\n费原子防护服。\n毫无防备的情况下，\n长期接触费原子非常危险。
+[3A366B79]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n排气口有部分破损。
+[22CC46A7]_000	Missile Expansion
+[F75B4A9C]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n门有构造缺陷，\n但硬度为最高级。
+[3D138D92]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n格状盖子下面有狭窄的通道。
+[0C7FE0BB]_000	换气系统启动，\n已供应电能，\n风扇开始转动。
+[D7936B7B]_000	换气扇停止运作，\n须供应电能。
+[D7936B7B]_001	 
+[D7936B7B]_002	附近应该有控制面板。
+[D61ED1ED]_000	换气扇低速运转中。
+[D61ED1ED]_001	 
+[D61ED1ED]_002	启动通风系统后\n就会高速运转。
+[BECFAA7C]_000	低温冬眠舱。\n单位 CS-4468R。
+[BECFAA7C]_001	 
+[BECFAA7C]_002	改良舱，\n用于保存菁英海盗。
+[853949CE]_000	人为变异形态：菁英海盗\n性能强化的海盗。
+[853949CE]_001	菁英海盗
+[853949CE]_002	配备能量吸收系统，\n可吸收光束攻击，\n是非常强大的海盗。\n能够通过内置的波形震动发生器\n发出冲击波并传导至地面，\n进行大范围攻击。\n该个体因形态不同，\n没有配备加农炮。
+[9D431B68]_000	因能量流动\n导致面板功能受损。
+[ED55F1F8]_000	低温舱已停止运作。\n无生命迹象。
+[AA71416B]_000	Phazon-infused mutant fungus. Indigenous to Tallon IV.
+[AA692E30]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n侦测到岩石内部有费原子反应。
+[ADBC8186]_000	侦测到冰柱内部有保安门电缆。\n因电缆局部冻结，\n保安门停止运作。
+[ADBC8186]_001	 
+[ADBC8186]_002	须溶解冰柱让电缆通电。
+[3E85A492]_000	保安门封锁中。\n因电缆局部故障，\n控制装置无法运作。
+[850DEA49]_000	保安门封锁中。\n控制装置位于另一侧。
+[0B382B91]_000	保安门已解除。
+[3C7DB7A8]_000	污染物净化装置投入口。\n小型污染物会自动被吸入\n净化装置里。
+[CBCC7C33]_000	已授权进入{color[ff0a0aff]}费原子矿场 B1{color[000000ff]}，\n请站在全息影像处。
+[072487BC]_000	全息影像已启动。
+[8ED8A436]_000	已授权进入{color[ff0a0aff]}费原子矿场 B2{color[000000ff]}，\n请站在全息影像处。
+[F25B6C0B]_000	全息影像已启动。
+[A00EF446]_000	已授权进入{color[ff0a0aff]}泰隆世外桃源南部{color[000000ff]}，\n请站在全息影像处。
+[B60F6ADF]_000	移动点：\n{color[ff0a0aff]}泰隆世外桃源南部{color[000000ff]}\n电梯启动。
+[1D8BB16C]_000	已授权进入{color[ff0a0aff]}火山洞穴南部{color[000000ff]}，\n请站在全息影像处。
+[DFD2AE6D]_000	移动点：\n{color[ff0a0aff]}火山洞穴南部{color[000000ff]}\n电梯启动。
+[D56C2A41]_000	发现抓钩光束！
+[A766B9EA]_000	未确认的费原子。
+[A766B9EA]_001	 
+[A766B9EA]_002	基本和费原子性质相同，\n但突变诱发性比费原子高86%。\n\n现在穿着的服装防御力\n无法抵御其伤害。
+[E382F03E]_000	人为变异形态：菁英海盗\n性能强化的海盗。
+[E382F03E]_001	菁英海盗
+[E382F03E]_002	配备能量吸收系统，\n可吸收光束攻击，\n是非常强大的海盗。\n能通过内置的波形震动发生器\n发出冲击波并传导至地面，\n进行大范围攻击。\n远攻近战两者皆可，\n缺点是体型笨重，\n行动速度缓慢。
+[F2F152F4]_000	机器：光束炮台RT-1831\n强化型周边防御用炮台。
+[F2F152F4]_001	光束炮台\nRT-1831
+[F2F152F4]_002	此光束炮台设有能量屏障，\n强化了炮台的防御能力。\n\n经此改良后，\n可当做强大的固定式防御兵器\n来使用。
+[CF683337]_000	昆虫形态：挖土虫\n栖息在地底的肉食性昆虫。
+[CF683337]_001	挖土虫
+[CF683337]_002	平常栖息在地底，\n和甲虫一样通过震动\n感知地表状况，\n再钻出地面攻击敌人，\n并同时发射有毒粘液。\n智力不高。
+[A26A9809]_000	形态：费原子挖土虫\n爱挖地道的昆虫，\n因高浓度沉积矿物而充满毒素。
+[A26A9809]_001	费原子挖土虫
+[A26A9809]_002	一种产生了突变的挖土虫。\n因在费原子污染土中挖掘，\n剧毒累积于体内而产生变异。\n甲壳碎裂时会喷出致命毒雾。
+[EEB20113]_000	形态：虚无邦布\n具遁形能力的邦布，\n能躲避视觉辨识及追踪。
+[EEB20113]_001	虚无邦布
+[EEB20113]_002	虚无邦布具有特殊的遁形能力，\n要追踪它非常困难，\n以目前的面罩技术\n均无法持续捕捉其形貌。\n虚无邦布与其他邦布一样\n会释放、发射电能，\n不同之处在于\n它不受带电能源的吸引。
+[B6FDD1CC]_000	人为变异形态：加强士兵\n一种性能强化的海盗。
+[B6FDD1CC]_001	加强士兵
+[B6FDD1CC]_002	通过注入费原子\n并逆向分析加强光束\n所生成的强化海盗。\n\n虽有一般能量光束抗性，\n但丧失了加强光束抗性。
+[ABF8BD55]_000	人为变异形态：冰冻士兵\n一种性能强化的海盗。
+[ABF8BD55]_001	冰冻士兵
+[ABF8BD55]_002	通过注入费原子\n获得高温抗性的强化海盗。\n\n强化过程中丧失低温抗性，\n用冰冻光束可有效攻击。
+[3ABB8192]_000	人为变异形态：波动士兵\n一种性能强化的海盗。
+[3ABB8192]_001	波动士兵
+[3ABB8192]_002	通过注入费原子\n获得温度变化抗性的强化海盗。\n\n强化过程中丧失电磁波抗性，\n用波动光束可有效攻击。
+[D1AC6904]_000	人为变异形态：等离子士兵\n一种性能强化的海盗。
+[D1AC6904]_001	等离子士兵
+[D1AC6904]_002	通过注入费原子\n获得低温抗性的强化海盗。\n\n强化过程中丧失高温抗性，\n用等离子光束可有效攻击。
+[D23B52AE]_000	软体形态：水生收割者\n某种水生生物的触手。
+[D23B52AE]_001	水生收割者
+[D23B52AE]_002	适应了水中环境的一种生物，\n但性质与陆生的击打藤蔓类似。\n视力和击打藤蔓一样微弱，\n靠发达的声呐搜索猎物。\n身体构造不易受水流阻力影响，\n因此动作敏捷且破坏力强。
+[6A4DE1B9]_000	外星人形态：水生海盗\n海盗的水中战斗员。
+[6A4DE1B9]_001	水生海盗
+[6A4DE1B9]_002	身上的装甲服搭载改良过的\n小型火箭引擎和重力服技术，\n让海盗能在水中行动自如。\n引擎散发高温，\n用热成像面罩可轻松定位。
+[E636ED7B]_000	实验形态：费原子菁英\n菁英海盗的实验体。
+[E636ED7B]_001	费原子菁英
+[E636ED7B]_002	注入高浓度费原子的\n菁英海盗实验体。\n\n可利用内置的波形震动发生器，\n以自身为中心\n产生大范围冲击波。\n和菁英海盗不同，\n没有配备等离子加农炮。\n本质为实验体，故寿命极短。
+[BF14D821]_000	Mechanoid: Beta Drone\nSecurity mecha equipped with phased cloaking grid. 
+[BF14D821]_001	Beta Drone
+[BF14D821]_002	The next generation of Drones operate fully cloaked from normal sight. A defense shield and extra Beam Cannon increases their combat effectiveness as well. Still, they are machines, and can be nullified with electromagnetic pulses.
+[E0596433]_000	人为变异形态：欧米伽海盗\n最强的海盗。
+[E0596433]_001	欧米伽海盗
+[E0596433]_002	拥有费原子装甲，\n即使被破坏也能吸收费原子\n使装甲重生。\n吸收能量时会隐身，\n唯有此时可以对它造成伤害。\n\n为菁英海盗计划中的\n最终形态。
+[20452CF9]_000	爬虫形态：露米壁虎\n在体内储存费原子的爬虫类。
+[20452CF9]_001	露米壁虎
+[20452CF9]_002	能吸收并释放费原子能量，\n当其群体行动时要留意。
+[F6842A26]_000	形态：费原子蛆虫\n因费原子而突变的虫。
+[F6842A26]_001	费原子蛆虫
+[F6842A26]_002	Exposure to Phazon has had a dramatic impact on the Tallon IV ecosystem. The flora and fauna that manage to survive Phazon exposure often mutate in the process. Even the lowly maggot is no exception.
+[AD0ACEAB]_000	突变形态：\n密特罗德究极（蜘蛛）\n产生费原子的研究生物。
+[AD0ACEAB]_001	密特罗德究极
+[AD0ACEAB]_002	一种突变生命体，\n推测为费原子的起源。\n\n甲壳坚若磐石，\n可以抵御所有攻击。\n\n只有瞄准头部\n为观察外界而张开的细小缝隙，\n才能对其造成伤害。\n拥有光束、冷冻、导弹等\n多种攻击能力。\n可依据能力改变身体特征。\n随机应变全力以赴\n是唯一的获胜手段。
+[D2504666]_000	能量生命形态：\n密特罗德究极（头部）\n褪下甲壳后的本体。
+[D2504666]_001	密特罗德究极\n（头部）
+[D2504666]_002	费原子能量生命体，\n一般武器对其无效，\n\n只有用和费原子结合的\n手臂加农炮攻击，\n才能对其造成伤害。\n可将头部遭到攻击时\n产生的费原子\n转换为光束发射。\n头部会在生成\n其他密特罗德时隐身，\n以欺敌耳目。
+[7BCFFAE1]_000	人为变异形态：机器利德雷\n通过基因工程和机械技术复活的\n机械型利德雷。
+[7BCFFAE1]_001	机器利德雷
+[7BCFFAE1]_002	通过海盗技术进化的利德雷。\n轻薄的胸部装甲\n受高反射性能的表皮保护，\n配备多重导弹、\n追尾攻击和炸弹等多种武器。\n\n冰系攻击对其有效，\n但其动作敏捷，\n不易被命中。
+[DC935FCD]_000	突变形态：分裂密特罗德\n能分裂的亚种密特罗德。
+[DC935FCD]_001	分裂密特罗德
+[DC935FCD]_002	具分裂能力的密特罗德突变体，\n分裂前几乎所有武器\n都无法对其造成伤害。\n分裂后能力不稳定，\n会特别惧怕某个类型的武器。\n\n因费原子突变体性质不稳定，\n故弱点也会因分裂结果而异。
+[A84E9954]_000	Morphology: Power Metroid\nMutated Fission Metroid. 
+[A84E9954]_001	Power Metroid
+[A84E9954]_002	Once split, Fission Metroids gain invulnerability to most weaponry. A genetic flaw leaves them susceptible to certain weapons; in the case of the Power Metroid, shots from the Power Beam will harm them.
+[1E93642B]_000	Morphology: Ice Metroid\nMutated Fission Metroid.
+[1E93642B]_001	Ice Metroid
+[1E93642B]_002	Once split, Fission Metroids gain invulnerability to most weaponry. A genetic flaw leaves them susceptible to certain weapons; in the case of the Ice Metroid, shots from the Ice Beam will harm them.
+[0496D5D8]_000	Morphology: Wave Metroid\nMutated Fission Metroid.
+[0496D5D8]_001	Wave Metroid
+[0496D5D8]_002	Once split, Fission Metroids gain invulnerability to most weaponry. A genetic flaw leaves them susceptible to certain weapons; in the case of the Wave Metroid, shots from the Wave Beam will harm them.
+[30B56A20]_000	Morphology: Plasma Metroid\nMutated Fission Metroid.
+[30B56A20]_001	Plasma Metroid
+[30B56A20]_002	Once split, Fission Metroids gain invulnerability to most weaponry. A genetic flaw leaves them susceptible to certain weapons; in the case of the Plasma Metroid, shots from the Plasma Beam will harm them.
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansOverWorld.msbt
+[553D72C9]_000	植物形态：泰隆蕨\n无毒的泰隆植物，\n生长在水源附近。
+[F6C728A3]_000	植物形态：鲜红星掌花\n备受喜爱的食用花，\n非常美味。
+[C0C46535]_000	植物形态：发光蜘蛛藤蔓\n会利用发光部位\n来吸引昆虫。
+[FB28AED3]_000	散发低浓度辐射的苔藓群。\n查无此生物数据。
+[669A0BB8]_000	发现小隧道。
+[E05C6664]_000	Return to your ship to save and recharge.
+[1F652949]_000	门锁运作中。\n该武器无法解除门锁。
+[DAA51C9A]_000	岩石阻挡了通道，\n无法破坏。\n底部有些微空隙。
+[FC883F7C]_000	发现连跳！
+[41B6A1AE]_000	在泰隆Ⅳ上空爆炸的巡防舰。\n侦测到内部有微弱的生命迹象。
+[52A49C15]_000	植物形态：琼浆莎库\n受到冲击时，\n袋中会产生化学反应引起爆炸。
+[01B1CFF4]_000	外星人形态：宇宙海盗\n负有内伤，生命迹象微弱。
+[8725BD5A]_000	外星人形态：宇宙海盗\n头部破裂，生命迹象微弱。
+[DB6E2768]_000	散发低浓度辐射的苔藓群。\n查无此生物数据。
+[F655F1E0]_000	发现小隧道。
+[2FB80DC4]_000	运送用容器，\n堆积在海盗的巡防舰内。
+[2FB80DC4]_001	 
+[2FB80DC4]_002	侦测到流出液体含高浓度毒素，\n是活体实验用的费原子化合物。
+[A4987450]_000	可化为变形球通过。
+[457D4250]_000	{color[ff0a0aff]}Alert: Phazon Radiation Level High{color[000000ff]}
+[D148289E]_000	通道被树枝挡住。
+[D148289E]_001	 
+[D148289E]_002	发现地板附近有空间。
+[51DCA8D9]_000	已授权进入{color[ff0a0aff]}鸟人遗迹东部{color[000000ff]}，\n请站在全息影像处。
+[55A27CA9]_000	移动点：\n{color[ff0a0aff]}鸟人遗迹东部{color[000000ff]}\n电梯启动。
+[0ABF9020]_000	未知光源，\n查无相关数据。
+[226FAE3F]_000	植物形态：阴暗蘑菇\n散发蓝白幽光的蘑菇，\n生长在阴暗潮湿的地方。
+[455078FD]_000	植物形态：引路树干\n一种发光性植物，\n生长范围广泛。
+[44DA4338]_000	Morphology: Sap Sac\nChemical reaction within sac produces violent explosion when agitated.
+[7A627568]_000	覆盖着青苔的斜坡。\n表面平滑，\n应为人工建造物。
+[9860AC2F]_000	年轮分析结果显示\n树龄已超过两百年。\n生命状态正常。
+[11803002]_000	植物形态：石头爬墙虎\n藤本植物，\n大多生长在岩石上。
+[BF1D2149]_000	粗大的枝干盘根错节，\n形成桥状。\n可充当踏板。
+[E14EB239]_000	材质：{color[ff0a0aff]}沙质石头{color[000000ff]}\n表面有破损。
+[73A833EB]_000	已授权进入{color[ff0a0aff]}鸟人遗迹西部{color[000000ff]}，\n请站在全息影像处。
+[04685AE9]_000	移动点：\n{color[ff0a0aff]}鸟人遗迹西部{color[000000ff]}\n电梯启动。
+[DB56546C]_000	This water may be too deep to get out of without further Suit augmentations.
+[9FD3DE37]_ 	Force Field detected. It cannot be affected by Beam weapons.
+[849588F5]_000	侦测到地底有生命体。
+[AE798F4E]_000	Analysis indicates a viable attach point for Grapple Beam.
+[513DD9D3]_000	水滴在空中反弹。
+[5400AD36]_000	Unknown Item
+[8EA61E34]_000	已授权进入{color[ff0a0aff]}火山洞穴东部{color[000000ff]}，\n请站在全息影像处。
+[D658ADBD]_000	移动点：\n{color[ff0a0aff]}火山洞穴东部{color[000000ff]}\n电梯启动。
+[508C111F]_000	门锁运作中。\n控制装置设于另一侧。
+[A5C1E05D]_000	门锁运作中。\n请启动控制装置以解锁。
+[02AE3381]_000	饱和的水压\n使墙面硬度日渐下降。
+[02AE3381]_001	 
+[02AE3381]_002	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n硬度为最高级。
+[25FD1796]_000	This patch of ground appears unstable.
+[93E9FEC7]_000	发现X光面罩！
+[B389B6D6]_000	已解读宇宙海盗的加密数据。
+[B389B6D6]_001	文物站
+[B389B6D6]_002	日志 10.308.0\n“文物站”\n\n实地组调查了\n悬浮在撞击坑洞上方的\n古老鸟人建筑物。\n发现那是一种妨碍系统，\n用来阻止外人进入\n费原子核心所在的坑洞。\n科学组判断\n该系统的能量来源\n正是鸟人文物。\n为了生产费原子能量，\n我们必须尽快铲除这个\n庞大的阻碍。\n即使必须破坏鸟人文物\n也在所不惜。
+[B54C5C4A]_000	{color[ff0a0aff]}鸟人文物{color[000000ff]}
+[B54C5C4A]_001	 
+[B54C5C4A]_002	正在解读鸟人族全息影像……\n\n\n唯有诚心盼望者，\n才能获得{color[15f873ff]}“真实”{color[000000ff]}。\n\n当12文物到齐之时，\n鸟人会打开大门，\n引领被托付者前进。
+[FAE3D58E]_000	正在解读鸟人族全息影像……
+[FAE3D58E]_001	真实
+[FAE3D58E]_002	唯有诚心盼望者，\n才能获得{color[15f873ff]}“真实”{color[000000ff]}。
+[7C77A720]_000	正在解读鸟人族全息影像……
+[7C77A720]_001	力量
+[7C77A720]_002	灼热火焰阻挡了汝之去路，\n恶人立起了{color[15f873ff]}巨大铁塔{color[000000ff]}。\n\n攀登而上，前往岩石祭坛。\n那里寄宿着神秘的{color[15f873ff]}“力量”{color[000000ff]}。
+[B72B7485]_000	正在解读鸟人族全息影像……
+[B72B7485]_001	长老
+[B72B7485]_002	蓝黑暗影吞噬了洁白大地。\n在{color[15f873ff]}耸立的双塔{color[000000ff]}之一下，\n高洁{color[15f873ff]}“长老”{color[000000ff]}长眠于此。\n我族之怒将化为闪电，\n经天选者之手，\n贯穿高塔、制裁黑暗。
+[AA2E443D]_000	正在解读鸟人族全息影像……
+[AA2E443D]_001	野性
+[AA2E443D]_002	巨大怪物从天而降，\n将城顶的{color[15f873ff]}太阳之间{color[000000ff]}\n化为孕育腐败的温床。\n渴望{color[15f873ff]}“野性”{color[000000ff]}之人啊……\n从诅咒中\n解放鸟人的灵魂吧。\n如此一来，\n汝的愿望将会实现。
+[61729798]_000	正在解读鸟人族全息影像……
+[61729798]_001	守卫
+[61729798]_002	光芒永远照耀吾城。\n唯有受水神允诺之人\n才能来到{color[15f873ff]}“守卫”{color[000000ff]}之下。\n{color[15f873ff]}吾城光之塔{color[000000ff]}将永存于此。
+[E7E6E536]_000	正在解读鸟人族全息影像……
+[E7E6E536]_001	战士
+[E7E6E536]_002	异种亵渎神明，\n孕育出邪恶魔物。\n\n魔物潜藏于\n{color[15f873ff]}矿山深处的第一炼金术之间{color[000000ff]}，\n张牙舞爪地等待猎物现身。\n将其首级敬献给神，\n{color[15f873ff]}“战士”{color[000000ff]}将于汝面前现身。
+[2CBA3693]_000	正在解读鸟人族全息影像……
+[2CBA3693]_001	鸟人
+[2CBA3693]_002	{color[15f873ff]}生命之泉{color[000000ff]}一日不竭\n万物便生生不息。\n\n汝若拥有贤者之智，\n隐于丰沛泉水下混淆恶人耳目，\n{color[15f873ff]}“鸟人”{color[000000ff]}将再次现身。
+[DDEC8446]_000	正在解读鸟人族全息影像……
+[DDEC8446]_001	自然
+[DDEC8446]_002	{color[15f873ff]}熔岩池{color[000000ff]}将一切燃烧殆尽。\n{color[15f873ff]}“自然”{color[000000ff]}化为支撑天空的石柱，\n等候着天选者到来。
+[16B057E3]_000	正在解读鸟人族全息影像……
+[16B057E3]_001	太阳
+[16B057E3]_002	一望无际的冰霜湖畔，\n{color[15f873ff]}萨满{color[000000ff]}长老冻结了时间。\n\n若有人以热情融化冰冻的灵魂，\n{color[15f873ff]}“太阳”{color[000000ff]}将再次升起。
+[8E9C7387]_000	正在解读鸟人族全息影像……
+[8E9C7387]_001	世界
+[8E9C7387]_002	高洁长老供奉于{color[15f873ff]}吾城大圣堂{color[000000ff]}。\n坐镇在此的圣灵\n双目依旧雪亮。\n唯有经长老首肯之人，\n才能获得{color[15f873ff]}“世界”{color[000000ff]}的力量。
+[45C0A022]_000	正在解读鸟人族全息影像……
+[45C0A022]_001	灵魂
+[45C0A022]_002	冰天雪地的世界尽头，\n{color[15f873ff]}贯天洞窟{color[000000ff]}之下。\n\n{color[15f873ff]}“灵魂”{color[000000ff]}之力长眠于\n巨岩阻挡的门扉深处。
+[C354D28C]_000	正在解读鸟人族全息影像……
+[C354D28C]_001	新生
+[C354D28C]_002	大灾害愈发猖獗，\n吞噬了长眠于{color[15f873ff]}矿山地底深处{color[000000ff]}的\n{color[15f873ff]}“新生”{color[000000ff]}之力。\n唯有制服大灾害者始能入内。\n若因前路笔直而轻忽，\n定将自食恶果。
+[BB268AE6]_000	发现鸟人文物！
+[188A16DA]_000	Chozo script translated.\nLog Book entry {color[ff0a0aff]}[Binding]{color[000000ff]} acquired.
+[C33210FA]_000	已归还“真实”文物。
+[C33210FA]_001	 
+[C33210FA]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[45A66254]_000	已归还“力量”文物。
+[45A66254]_001	 
+[45A66254]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[8EFAB1F1]_000	已归还“长老”文物。
+[8EFAB1F1]_001	 
+[8EFAB1F1]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[93FF8149]_000	已归还“野性”文物。
+[93FF8149]_001	 
+[93FF8149]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[58A352EC]_000	已归还“守卫”文物。
+[58A352EC]_001	 
+[58A352EC]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[DE372042]_000	已归还“战士”文物。
+[DE372042]_001	 
+[DE372042]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[156BF3E7]_000	已归还“鸟人”文物。
+[156BF3E7]_001	 
+[156BF3E7]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[E43D4132]_000	已归还“自然”文物。
+[E43D4132]_001	 
+[E43D4132]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[2F619297]_000	已归还“太阳”文物。
+[2F619297]_001	 
+[2F619297]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[D9CD1767]_000	已归还“世界”文物。
+[D9CD1767]_001	 
+[D9CD1767]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[1291C4C2]_000	已归还“灵魂”文物。
+[1291C4C2]_001	 
+[1291C4C2]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[9405B66C]_000	已归还“新生”文物。
+[9405B66C]_001	 
+[9405B66C]_002	从鸟人图腾柱侦测到\n强烈能量反应。
+[9405B66C]_003	Binding
+[9405B66C]_004	The Chozo Cipher, the congregation of Artifacts that held the Great Poison at bay, is broken now. Fearful of the potential within the small statues, the invaders known as Space Pirates tried to destroy them, only to fail in every attempt. Instead, they have scattered what they could not break across the planet, hiding the Artifacts far from one another, knowing that their reunion could spell disaster for their dark designs. They are right to fear them. Great power sleeps inside these tokens; we Chozo built our temple, the Cradle, to draw its strength from their communal energy. If they could be gathered together once again and replaced in the Cradle, then hope might bloom again in this suffocating land.
+[F986C2BE]_000	饱和的水压\n使墙面硬度日渐下降。
+[F986C2BE]_001	 
+[F986C2BE]_002	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}\n硬度为最高级。
+[EC16C417]_000	已授权进入{color[ff0a0aff]}鸟人遗迹南部{color[000000ff]}，\n请站在全息影像处。
+[CC401AA8]_000	移动点：\n{color[ff0a0aff]}鸟人遗迹南部{color[000000ff]}\n电梯启动。
+[294EC2B2]_000	已授权进入{color[ff0a0aff]}费原子矿场东部{color[000000ff]}，\n请站在全息影像处。
+[4921B661]_000	移动点：\n{color[ff0a0aff]}费原子矿场东部{color[000000ff]}\n电梯启动。
+[26467242]_000	Debris resulting from the crash clogs the shaft. There appears to be a single small aperture leading through.
+[41949F4A]_000	Debris completely blocks the walkway. Impossible to bypass.
+[0B71E099]_000	The door is blocked by fallen debris. It cannot be opened.
+[A561487C]_000	The walkway above has collapsed.
+[CF35C66C]_000	This piece of debris is structurally sound enough to be used as a platform.
+[3BF85EBD]_000	缺乏电能。
+[3BF85EBD]_001	 
+[3BF85EBD]_002	侦测到区域内有{color[ff0a0aff]}3个能量管道{color[000000ff]}。\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[AAA45536]_000	The power supply for this door has been shorted out by the water. 
+[AAA45536]_001	It can be reactivated through its dedicated control panel. Panel whereabouts unknown.
+[892544ED]_000	The power to this door has been reestablished. It is now fully functional.
+[A1A589BB]_000	This panel is no longer functional due to impact fracturing.
+[CC694977]_000	缺乏电能。
+[CC694977]_001	 
+[CC694977]_002	侦测到区域内有{color[ff0a0aff]}3个能量管道{color[000000ff]}。\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[37FF99B6]_000	实验体正在迅速腐败。
+[10D33FFC]_000	材质：{color[ff0a0aff]}柯鲁达合金{color[000000ff]}\n隔离槽舱口的强度正在下降。
+[40A1F39A]_000	This door has been almost entirely torn from its frame.
+[FEA4EFD3]_000	This piece of debris is structurally sound enough to be used as a platform.
+[1A174537]_000	缺乏电能。
+[1A174537]_001	 
+[1A174537]_002	侦测到区域内有{color[ff0a0aff]}3个能量管道{color[000000ff]}。\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[AAA9BD1F]_000	货物升降台已完全停止运作。\n内部有能量包。
+[AAA9BD1F]_001	 
+[AAA9BD1F]_002	可使用冲击波破坏门板。
+[1A4606B3]_000	Morphology: Space Pirate\nCause of death was severe spinal and cranial trauma. 
+[1A4606B3]_001	This creature is in an advanced state of decomposition. 
+[5A057B68]_000	缺乏电能。
+[5A057B68]_001	 
+[5A057B68]_002	侦测到区域内有{color[ff0a0aff]}2个能量管道{color[000000ff]}。\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[6F48B7DF]_000	门锁控制装置完全停止运作，\n须先启动辅助装置。
+[E9DCC571]_000	门锁控制装置完全停止运作，\n须先启动辅助装置。
+[810F789A]_000	辅助控制装置运作中，\n请靠近门。
+[079B0A34]_000	辅助控制装置运作中，\n请靠近门。
+[C5075B71]_000	Save Station
+[C5075B71]_001	Save Station
+[C5075B71]_002	Step into these stations to save your game and fully restore your energy.
+[8D3A65A4]_000	The power supply for this door has been shorted out by the water. 
+[8D3A65A4]_001	It can be reactivated through its dedicated control panel. Panel whereabouts unknown.
+[EC8BBB47]_000	The power to this door has been reestablished. It is now fully functional.
+[682A8B0A]_000	This door seems to be barred from the other side. There is no way to open it.
+[ADD973BF]_000	Emergency channel>>Majority of crew killed or evacuated in Queen specimen breach. Hunter infiltration confirmed. Reactor critical. Ship foundering.
+[2B4D0111]_000	Emergency channel>>Tallon IV exosphere penetrated. Reactor irreparable due to Queen Parasite corpse. Crash procedure AA3 initiated.
+[E011D2B4]_000	Emergency channel>>Rescue beacon activated. Ship impacted near body of water in northern hemisphere. Near total mechanical failure throughout. 
+[FD14E20C]_000	Emergency channel>>Rescue. Four known survivors. Rescue. Ship interior flooding. Rescue beacon active. Life support inoperable. Rescue.
+[364831A9]_000	Emergency channel>>All crew inside the ship are dead. Surface survivors are activating the remote distress beacon. Glacier One please respond.
+[5D7B804B]_000	缺乏电能。
+[5D7B804B]_001	 
+[5D7B804B]_002	侦测到区域内有{color[ff0a0aff]}4个能量管道{color[000000ff]}。\n将电能注入所有管道即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。
+[1F52DCA1]_000	缺乏电能。
+[1F52DCA1]_001	 
+[1F52DCA1]_002	将电能注入区域内的{color[ff0a0aff]}能量管道{color[000000ff]}\n即可供电。\n\n管道会释放普通频率\n难以发现的特殊热能。\n
+[920473DD]_000	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[D11C62CB]_000	植物形态：血之花\n会释放有毒孢子抵御外敌。
+[D11C62CB]_001	血之花
+[D11C62CB]_002	会对靠近自己半径5米内的\n所有生物发射巨大毒孢。\n\n血之花自身碰到\n炸裂的孢子也会中毒而亡。
+[196B06D3]_000	甲壳形态：基玛\n总是贴着墙面爬行，\n接触它的刺会有危险。
+[196B06D3]_001	基玛
+[196B06D3]_002	下颚上的神经中枢\n会侦测营养物质。\n\n用尖刺抵御外敌，\n但外壳本身硬度低，\n可轻易破坏。
+[868F94BC]_000	植物形态：琼浆莎库\n受到冲击时，\n袋内会产生化学反应引起爆炸。
+[868F94BC]_001	琼浆莎库
+[868F94BC]_002	因香气诱人且花蜜甘甜，\n曾被外敌大量捕食。\n演化出爆炸型囊袋才免于灭绝。
+[7BF0573E]_000	植物形态：针刺种子\n一种食虫植物。\n有固定型与行走型两种类别。
+[7BF0573E]_001	刺针种子
+[7BF0573E]_002	会从全身发射出尖刺\n以抵御外敌。
+[300D94A7]_000	机器人：无人机Dv-Ⅰ\n以无人机改造的保安机器，\n加强了潜水功能。
+[300D94A7]_001	无人机Dv-Ⅰ
+[300D94A7]_002	除了武器和人工智能\n改造为潜水型以外，\n其余功能基本与无人机相同。\n就连对电属性攻击较弱的缺点，\n也一并继承了下来。
+[3D1F47F0]_000	植物形态：水生莎库\n生长在水中，\n琼浆莎库的同类。
+[3D1F47F0]_001	水生莎库
+[3D1F47F0]_002	受到强烈冲击后，\n囊袋部分会分解但不会爆炸，\n几乎无害。
+[4D058EF5]_000	甲壳形态：泰隆蟹\n栖息于泰隆Ⅳ的甲壳类生物。
+[4D058EF5]_001	泰隆蟹
+[4D058EF5]_002	外壳坚硬，\n喜欢群体行动。\n受费原子影响前是可食用生物。\n单独行动时几乎无害，\n但群体行动时需要十分留意。
+Preload\MPR1\GuiSysMP1.pak\TEXT_ScansSpacePirateLog.msbt
+[F0D4998F]_000	已解读宇宙海盗的加密数据。
+[F0D4998F]_001	沦陷的泽贝斯
+[F0D4998F]_002	日志 09.992.3\n“沦陷的泽贝斯”\n\n泽贝斯分崩离析。\n萨姆斯·亚兰的突袭\n导致地下设施坍塌，\n全体同胞遇难。\n\n\n泽贝斯轨道上的研究巡防舰\n“鸥尔菲恩”“西莱克斯”\n“波鲁帕拉贡”逃过一劫，\n航上行星轨道试图撤退。\n舰上货柜全部完好无损。\n\n我们正准备着手研究舰上的\n密特罗德与其他生命体。\n\n因未接获猎人追击的警告，\n保安状态依然维持蓝色警示。
+[7640EB21]_000	已解读宇宙海盗的加密数据。
+[7640EB21]_001	接触
+[7640EB21]_002	日志 10.299.2\n“接触”\n\n扫描螺旋区域时，\n侦测到行星泰隆Ⅳ\n散发出庞大能量辐射。\n我们立刻派出侦察队\n前往导标40.08.02\n采集多个行星样本。\n分析结果显示，\n该能量为不稳定辐射性物质，\n蕴藏极大潜力。\n目前尚未查清确切风险，\n但这无疑是一种\n珍贵的能源来源。\n该能量的分析今后仍将继续，\n但眼下我们极有可能\n将泰隆Ⅳ当做第二基地。
+[BD1C3884]_000	已解读宇宙海盗的加密数据。
+[BD1C3884]_001	文物站
+[BD1C3884]_002	日志 10.308.0\n“文物站”\n\n实地组调查了\n悬浮在撞击坑洞上方的\n古老鸟人建筑物。\n发现那是一种妨碍系统，\n用来阻止外人进入\n费原子核心所在的坑洞。\n科学组判断\n该系统能量的来源\n正是鸟人文物。\n为了生产费原子能量，\n我们必须尽快铲除这个\n庞大的阻碍。\n即使必须破坏鸟人文物\n也在所不惜。
+[A019083C]_000	已解读宇宙海盗的加密数据。
+[A019083C]_001	费原子分析
+[A019083C]_002	日志 10.344.8\n“费原子分析”\n\n我们决定将新发现的能量\n命名为“费原子”。\n\n费原子是符合索引Ⅴ的\n突变诱发因子，\n但几乎找不到确切数据。\n这种能量可令\n自然生命体出现快速突变，\n使其能承受费原子毒性。\n如此迅速的进化能力，\n或许能在未来打开\n物种单一世代繁殖的大门。\n目前，派遣正式的科学组\n前往泰隆Ⅳ的计划\n正在接受最终审议。
+[6B45DB99]_000	已解读宇宙海盗的加密数据。
+[6B45DB99]_001	费原子计划
+[6B45DB99]_002	日志 10.401.7\n“费原子计划”\n\n我们已着手挖掘费原子，\n并设置了数个基地，\n鸟人遗迹改良工程也相当顺利。\n保安系统启动后，\n科学组开始研究生化科技。\n\n冰冻山谷的地理条件\n应该最适合设立\n密特罗德研究总部。\n若司令部预测无误，\n我们大概能在10周内\n掌控此区域。\n这将为我们美好的时代\n立下新的里程碑。
+[EDD1A937]_000	已解读宇宙海盗的加密数据。
+[EDD1A937]_001	密特罗德的研究
+[EDD1A937]_002	日志 10.444.4\n“密特罗德的研究”\n\n我们将密特罗德\n转移至泰隆Ⅳ研究设施。\n3具实验体因系统意外丧命。\n其他个体顺利转移完毕，\n正进行第一阶段的\n费原子注入测试。\n我们十分好奇\n费原子对密特罗德的影响\n和密特罗德的吸收能力。\n它们的力量和体型\n在初步研究下得以大幅增加，\n但将来能否维持稳定状态，\n仍是未竟的课题。
+[268D7A92]_000	已解读宇宙海盗的加密数据。
+[268D7A92]_001	寄生幼虫
+[268D7A92]_002	日志 10.515.8\n“寄生幼虫”\n\n将费原子注入泰隆Ⅳ寄生虫的\n初步测试似乎大获成功。\n\n所有实验体的力量、大小\n和攻击性皆有提升，\n数个实验体的外形出现变化。\n但实验方法尚需改良。\n目前注入第4剂后的\n死亡率为100%。\n注入第3剂后仍存活的\n实验体几乎全部无法驾驭，\n必须废弃。\n我们期待经过反复实验后，\n最终能获得成功。
+[D7DBC847]_000	已解读宇宙海盗的加密数据。
+[D7DBC847]_001	挖掘现况
+[D7DBC847]_002	日志 10.587.7\n“挖掘现况”\n\n我们推测费原子\n集中在坑洞附近，\n并从该处着手展开挖掘作业。\n增加人手并投资设备后，\n费原子产量提升了44%。\n\n但我们也接获数件\n“费原子引发精神障碍”报告，\n改善工作环境已成当务之急。\n费原子比初期分析的结果\n更不稳定，\n须定期检查精制过程。\n
+[1C871BE2]_000	已解读宇宙海盗的加密数据。
+[1C871BE2]_001	冰冻荒野
+[1C871BE2]_002	日志 10.664.2\n“冰冻荒野”\n\n设于泰隆Ⅳ冰冻山谷的研究所\n使用率已达85%。\n\n冰点下的气温\n能降低密特罗德的活性，\n使其在注入费原子后更好驾驭。\n低温舱设备完善，\n但我们仍将成长后的密特罗德\n转移至隔离区域以防万一。\n问题在于冰雪使保安门故障，\n原生物种攻击员工的意外频发。\n\n我们必须扩充备品、\n增加战斗员，\n才能解决这些问题。
+[9DFF419E]_000	已解读宇宙海盗的加密数据。
+[9DFF419E]_001	保安入侵
+[9DFF419E]_002	日志 10.715.1\n“保安入侵”\n\n泰隆Ⅳ安全地带的\n气压调整作业与设施改良工程\n几乎全数告一段落。\n但有关原生物种造成的损害详情\n尚在调查之中。\n\n调阅门的记录后，\n并未发现非法入侵痕迹，\n故该物种极可能从地底入侵。\n近来发现许多微小裂缝，\n只能尽量填补，\n尚无时间全面修复。
+[56A3923B]_000	已解读宇宙海盗的加密数据。
+[56A3923B]_001	机器利德雷
+[56A3923B]_002	日志 10.891.0\n“机器利德雷”\n\nGeoform187\n“代号：利德雷”的复原作业\n已经告一段落。\n我们在泽贝斯采集样本，\n实施装甲基因改良，\n为它打造更强韧的肉体。\n根据初步测试结果，\n实验体的力量、机动性与攻击力\n皆有显著提高。\n装备人工智能组件与装甲后，\n便可以“机器利德雷”的身份\n重生。\n相信它会成为军队的主力，\n给予我们莫大帮助。
+[D037E095]_000	已解读宇宙海盗的加密数据。
+[D037E095]_001	赫里库斯计划
+[D037E095]_002	日志 11.001.9\n“赫里库斯”计划\n\n最初用海盗胎儿做的实验\n以失败告终。\n\n在注入费原子的过程中，\n肌肉质量虽然成功增加，\n脑部组织却同时退化。\n最终我们仍无法控制\n菁英海盗实验体。\n\n我们决定参考\n“Sclera”研究组的研发成果，\n\n采用实验成功的\n费原子突变寄生虫\n“Vertigo”。\n让DNA融合“Vertigo”后，\n最新型的菁英海盗\n终于顺利进入成熟期，\n已可投入实地测试及训练。
+[1B6B3330]_000	已解读宇宙海盗的加密数据。
+[1B6B3330]_001	猎人
+[1B6B3330]_002	日志 10.023.7\n“猎人”\n\n泽贝斯沦陷后，\n保安司令部对剩下的所有军队\n发布警戒。\n全军必须戒备著名赏金猎人\n萨姆斯·亚兰。\n\n她身着强力装甲，\n使用多种强烈光束\n与爆炸性武器。\n司令部对萨姆斯\n发布了巨额悬赏，\n下令所有战斗单位逮捕她。\n一同下达的指示还有\n回收其强大的装甲与武器，\n生死不论。
+[066E0388]_000	已解读宇宙海盗的加密数据。
+[066E0388]_001	注入费原子
+[066E0388]_002	日志 10.957.2\n“注入费原子”\n\n我们对费原子适应性\n已拥有较高程度的了解，\n可进行海盗DNA嵌合。\n但DNA实验“赫里库斯计划”\n却过度刺激了海盗基因。\n\n我们担心这会诱发\n费原子精神障碍，\n因此改良注入过程降低风险。
+[CD32D02D]_000	已解读宇宙海盗的加密数据。
+[CD32D02D]_001	撞击坑洞
+[CD32D02D]_002	日志 11.156.9\n“撞击坑洞”\n\n我们调查了撞击坑洞的入口，\n却遭遇了一连串的失败。\n\n诡异的屏障依旧纹风不动，\n尝试挖掘隧道也徒劳无功。\n\n我们在挖掘过程中，\n侦测到坑洞深处有生命迹象。\n经分析后判定为某种巨大生物。\n该生物正不断从\n撞击坑洞的费原子核心\n吸收庞大能量。\n此发现进一步突显了\n调查撞击坑洞入口的重要性。\n\n不论该生物是什么\n它与储量丰富的费原子\n都是我们的囊中之物……
+[4BA6A283]_000	已解读宇宙海盗的加密数据。
+[4BA6A283]_001	门系统
+[4BA6A283]_002	日志 11.377.1\n“门系统”\n\n我们仍在分析\n漂浮于坑洞上方的鸟人神殿。\n\n阻碍我方入侵的屏障\n肯定与文物彼此连动。\n\n但我们没有发现任何文物，\n遗迹中鸟人文字的解读\n也毫无进展。\n司令部的要求日益严苛，\n我们被要求在数日内\n派遣X光部队做地形调查。\n并需要在巡逻部队\n发现任何可疑建筑物后，\n立即报告司令部。
+[80FA7126]_000	已解读宇宙海盗的加密数据。
+[80FA7126]_001	文物
+[80FA7126]_002	日志 11.402.5\n“文物”\n\n文物依然不见踪影，\n连神殿都不得其门而入。\n\n鸟人文字解读结果\n也与语言数据库不吻合，\n好不容易才归纳出模糊的规律。\n文字意思大概是说\n“需要鸟人文明道具，\n才可发现文物”吧。\n司令部的耐性已濒临极限，\n我们必须立刻交出成果。
+[71ACC3F3]_000	已解读宇宙海盗的加密数据。
+[71ACC3F3]_001	欧米伽海盗
+[71ACC3F3]_002	日志 11.232.8\n“欧米伽海盗”\n\n菁英海盗·宇普西龙的\n费原子倾向\n孕生了突破性的结果。\n大幅增加费原子注入量后，\n实验体的质量\n也跟着显著提升，\n不但保有心智能力，\n还能精确操控\n菁英用兵器。\n菁英海盗·宇普西龙\n最厉害的地方在于\n能发动自我恢复能力，\n借由吸收附近的费原子，\n修补受损的费原子装甲。\n\n此实验体很有机会\n成为我军的新主力，\n其代号为“欧米伽海盗”。
+[BAF01056]_000	Space Pirate encrypted data decoded.\n
+[BAF01056]_001	Mining Operations
+[BAF01056]_002	Log 11.242.3\n\nPrevious problems with power supplies in the mining operation have been solved, and we are back on schedule. By shunting thermal energy from the lava flows in the Magmoor Caverns region of Tallon IV, we now have the means to run all of the earth-moving and Phazon-refinement machinery stationed in the caves surrounding the impact crater. Once the operation is running smoothly, we will be able to make projections on Phazon yields and predict if we will be able to leach enough of the substance from the earth to suit the requests of research labs Hydra and Aether. Additionally, three teams of deep-earth Harrowers have already begun sealing off several of the Phazon-rich caves for use as Metroid farms.
+[AC175B03]_000	已解读宇宙海盗的加密数据。
+[AC175B03]_001	特殊部队
+[AC175B03]_002	日志 11.369.4\n“特殊部队”\n\n此为“赫里库斯”计划的\n菁英海盗观察记录。\n\n菁英海盗攻击力高，\n能同时搬运大量武器，\n可成为陆战的完美主力。\n尽管移动速度缓慢，\n只要将菁英海盗小队\n编入海盗军队前锋，\n我们即可拥有能\n随时扭转局势的中心力量。
+[674B88A6]_000	已解读宇宙海盗的加密数据。
+[674B88A6]_001	密特罗德形态学
+[674B88A6]_002	日志 11.420.7\n“密特罗德形态学”\n\n越是深入分析密特罗德，\n谜团就越多。\n\n研究组从2个巨大下颚\n分离了通往中核核心的导管\n加以观察，\n但仍未查明\n密特罗德从猎物身上\n吸取生命能量的方法。\n牺牲者不会流失\n丝毫血液或体液，\n能量却会被吸收殆尽。\n目前最大的问题在于\n它们如何辨别能量，\n我们会针对此疑问持续探讨。\n它们分离生命精华的方法，\n将成为我们统治的关键。
+[E1DFFA08]_000	已解读宇宙海盗的加密数据。
+[E1DFFA08]_001	密特罗德部队
+[E1DFFA08]_002	日志 11.550.6\n“密特罗德部队”\n\n我们仍在研究密特罗德的生态，\n但进度停滞不前。\n\n比起解开他们的生理谜团，\n将其运用在军事方面\n应该更有收益。\n只要能驾驭它们，\n仅凭一支小队\n就能让敌方全军覆没。\n再研发出\n抵御冷气攻击的手段，\n它们就能所向无敌。\n若能找出它们回收与利用\n所吸收能源的方法，\n我们的研究就有意义了。
+[2A8329AD]_000	Space Pirate encrypted data decoded.\n
+[2A8329AD]_001	Alternate Power
+[2A8329AD]_002	Log 11.042.6\n\nThe devastation of Tallon IV's environment wreaks havoc on electrical systems, especially those related to power production. Dynamo and generator malfunctions have been alarmingly high since operations were established. Upon Science Team's recommendation, we have begun to phase out conventional power production, switching to geothermal power as we do. The Magmoor region is a prime source of geothermal energy, one we shall readily exploit. Initial operations are ahead of schedule, thanks to the fact that Magmoor's cave network runs below most of our sites on Tallon IV. We should be fully operational by the end of the quarter.
+[37861915]_000	已解读宇宙海盗的加密数据。
+[37861915]_001	猎人的武器
+[37861915]_002	日志 11.222.8\n“猎人的武器”\n\n科学组基于采集到的数据\n分析了萨姆斯·亚兰的武器，\n并尝试复制。\n武器正逐步开发中，\n司令部很期待\n对萨姆斯以牙还牙。\n我们预计在3周内\n让部队配备光束武器的\n试制品。\n但目前尚未查明萨姆斯的\n普通服与变形球\n所使用的技术。\n我们尝试研发变形球后，\n4名受试者皆粉身碎骨，\n全身扭曲。\n科学组决定继续努力实验，\n却招募不到受试者。
+[FCDACAB0]_000	已解读宇宙海盗的加密数据。
+[FCDACAB0]_001	鸟人研究
+[FCDACAB0]_002	日志 11.440.4\n“鸟人研究”\n\n这是我们针对\n已灭绝的生命体“鸟人”\n实地调查后获得的数据。\n鸟人曾把泰隆Ⅳ当作根据地，\n却因为陨石撞击\n导致种族灭绝。\n我们正在研究遗迹，\n确认他们遗留的文明\n是否还有利用价值。\n等需要的东西全数到手，\n我们就要将那讨人厌的遗迹\n从这颗行星上铲除。\n死者须为生者奉献，\n而非妨碍生者前行。
+[7A4EB81E]_000	已解读宇宙海盗的加密数据。
+[7A4EB81E]_001	钥匙
+[7A4EB81E]_002	日志 11.452.8\n“钥匙”\n\n文物目前仍不见踪影。\n但我们已针对其功能\n做出了可信的假说。\n各文物与神殿平台上的\n图腾柱一一对应，\n\n每个文物都是一把\n能解开“大锁”的“小钥匙”。\n\n从图腾柱数推测共有12文物，\n将文物与对应的图腾柱结合，\n应该就能启动门系统。\n开启门后，\n我们就能随心所欲操控\n坑洞内的费原子与不明生物了。
+[B1126BBB]_000	已解读宇宙海盗的加密数据。
+[B1126BBB]_001	鸟人幽灵
+[B1126BBB]_002	日志 11.664.2\n“鸟人幽灵”\n\n鸟人遗迹问题重重，\n甚至还有宛如\n神秘幽灵的生命体出没。\n数名作业人员遭鸟人幽灵袭击，\n几乎无人生还。\n\n科学组认为\n此现象是在警告我们\n不得探索遗迹和文物。\n这种幽灵般的生物\n能够与物质世界互动，\n并且企图将文物留在手边。\n即使是幽灵，\n他们也必须灰飞烟灭，\n为自己蛮横的手段付出代价。
+Preload\MPR1\GuiSysMP1.pak\TEXT_Ship-S.msbt
+EndGame_SaveUnlocksOnly	Saving unlocked content only. Your game will not be saved. \nPlease do not touch the POWER Button.
+EndGame_SaveWarning	You will not receive credit for any Extras you have unlocked since your last save.
+MapLegend	{[0103|0600]}{[0101|1a0054005800540052005f0042006c007500650044006f006f0072000100]} 所有光束\n{[0100|37cd]} \{0}\n{[0101|1c0054005800540052005f005700680069007400650044006f006f0072000100]} \{1}\n{[0100|38cd]} \{2}\n{[0101|1a0054005800540052005f00470072006500790044006f006f0072000100]} \{3}\n{[0100|39cd]} 已通过的门\n{[0101|140054005800540052005f00490063006f006e0045000100]} 电梯\n{[0101|140054005800540052005f00490063006f006e004d000100]} 导弹站\n{[0101|140054005800540052005f00490063006f006e0053000100]} 保存站\n{[0101|120054005800540052005f00480069006e0074000100]} 提示\x0f\x01\x03
+MapExit	{[0100|2bcd]} 结束    
+MapInstructions	    \{0} 旋转    \{1}\{2}  变焦    \{3} 移动
+MapSwapInstructions	    {[0100|2acd]}  \{0}
+MapScreen	{[0100|1ecd]}
+ModelInstructions	\{0} 旋转    \{1}\{2} 变焦    \{3} 移动    {[0100|1dcd]} 结束
+MenuSelect	{[0100|1ccd]}
+LeftStick_Idle	{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}
+RightStick_Idle	{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}
+LeftStick_Up	{[0101|1a0054005800540052005f004c0053007400690063006b00550070000100]}
+RightStick_Up	{[0101|1a0054005800540052005f00520053007400690063006b00550070000100]}
+LeftStick_UpLeft	{[0101|220054005800540052005f004c0053007400690063006b00550070004c006500660074000100]}
+RightStick_UpLeft	{[0101|220054005800540052005f00520053007400690063006b00550070004c006500660074000100]}
+LeftStick_Left	{[0101|1e0054005800540052005f004c0053007400690063006b004c006500660074000100]}
+RightStick_Left	{[0101|1e0054005800540052005f00520053007400690063006b004c006500660074000100]}
+LeftStick_DownLeft	{[0101|260054005800540052005f004c0053007400690063006b0044006f0077006e004c006500660074000100]}
+RightStick_DownLeft	{[0101|260054005800540052005f00520053007400690063006b0044006f0077006e004c006500660074000100]}
+LeftStick_Down	{[0101|1e0054005800540052005f004c0053007400690063006b0044006f0077006e000100]}
+RightStick_Down	{[0101|1e0054005800540052005f00520053007400690063006b0044006f0077006e000100]}
+LeftStick_DownRight	{[0101|280054005800540052005f004c0053007400690063006b0044006f0077006e00520069006700680074000100]}
+RightStick_DownRight	{[0101|280054005800540052005f00520053007400690063006b0044006f0077006e00520069006700680074000100]}
+LeftStick_Right	{[0101|200054005800540052005f004c0053007400690063006b00520069006700680074000100]}
+RightStick_Right	{[0101|200054005800540052005f00520053007400690063006b00520069006700680074000100]}
+LeftStick_UpRight	{[0101|240054005800540052005f004c0053007400690063006b0055007000520069006700680074000100]}
+RightStick_UpRight	{[0101|240054005800540052005f00520053007400690063006b0055007000520069006700680074000100]}
+ZoomIn_Idle	{[0100|27cd]}
+ZoomIn_Pressed	{[0100|35cd]}
+ZoomOut_Idle	{[0100|28cd]}
+ZoomOut_Pressed	{[0100|36cd]}
+DownloadedLogBookMsg	{color[ff0a0aff]}[\{0}]{color[000000ff]} {color[89d6ffff]}的最新信息\n已写入日志。{color[000000ff]}
+ItemAndLogPercentMsg	道具收集率：\n\{0}%\n扫描完成率：\n\{1}%
+ControlScheme	操作方法
+DualStick	双摇杆
+DiagramTitle_DualStick	双摇杆
+Pointer	陀螺仪\n操作
+DiagramTitle_Pointer	陀螺仪操作
+Hybrid	混合模式
+DiagramTitle_Hybrid	混合模式
+Classic	经典模式
+DiagramTitle_Classic	经典模式
+SwapBeamMissile	光束/导弹对调
+SwapVisorMissile	面罩/导弹对调
+CameraControl	视角操作
+CameraControl_GyroAndStick	陀螺仪＋摇杆
+CameraControl_StickOnly	摇杆
+CameraPitchRecenter	移动中重置视点
+CameraPitchRecenter_Horizon	返回屏幕中央
+CameraPitchRecenter_Terrain	配合地形
+CursorLock	锁定\n自由瞄准
+CursorLock_Gyro	陀螺仪\n感应器
+CursorLock_Stick	摇杆
+CursorLock_Both	陀螺仪＋\n摇杆
+ResetCursorLock	动作锁定
+JumpPitch	跳跃时视角向下
+InvertX	左右翻转
+InvertY	上下翻转
+SwapXY	X/Y键对调
+LegacyMapButton	地图键
+LegacyMapButton_R	R键
+LegacyMapButton_ZR	ZR键
+CameraSensitivityX	左右视点移动
+CameraSensitivityY	上下视点移动
+CameraStickSensitivity	视点移动\n（摇杆）
+CameraStickSensitivityX	左右视点移动\n（摇杆）
+CameraStickSensitivityY	上下视点移动\n（摇杆）
+CameraGyroSensitivityX	左右视点移动\n（陀螺仪）
+CameraGyroSensitivityY	上下视点移动\n（陀螺仪）
+CursorSensitivityX	左右准星移动
+CursorSensitivityY	上下准星移动
+CursorStickSensitivityX	左右准星移动\n（摇杆）
+CursorStickSensitivityY	上下准星移动\n（摇杆）
+CursorGyroSensitivityX	左右准星移动\n（陀螺仪）
+CursorGyroSensitivityY	上下准星移动\n（陀螺仪）
+SpringBallSensitivity	弹簧球灵敏度
+ExtrasAlerts	展示厅通知
+ColorblindMode	颜色辅助
+ColorblindPreset0	红色辅助
+ColorblindPreset1	绿色辅助
+ColorblindPreset2	蓝色辅助
+NarrationMode	旁白
+NarrationModePartial	影片
+NarrationModeFull	影片+\n世界名称
+ColorblindStrength	颜色辅助\n（色调调整）
+ColorblindStrengthPreset0	低彩度
+ColorblindStrengthPreset1	中彩度
+ColorblindStrengthPreset2	高彩度
+CinematicSubtitles	开启字幕
+RestoreDefaultsPromptController	按下{[0100|1ccd]}可将{color[89d6ffff]}此操作方法{color[000000ff]}中的\n所有选项恢复成默认。
+RestoreDefaultsPromptDisplay	按下{[0100|1ccd]}可将{color[89d6ffff]}显示{color[000000ff]}中的\n所有选项恢复成默认。
+RestoreDefaultsPromptSound	按下{[0100|1ccd]}可将{color[89d6ffff]}声音{color[000000ff]}中的\n所有选项恢复成默认。
+DiagramPage_LockOn	锁定、抓钩\n（戴上扫描面罩时）扫描
+DiagramPage_Jump	跳跃\n（{[0100|0bcd]}+{[0101|1e0054005800540052005f004c0053007400690063006b004c006500660074000100]}{[0101|200054005800540052005f004c0053007400690063006b00520069006700680074000100]}）横跳
+DiagramPage_Menu	暂停菜单
+DiagramPage_Move	移动
+DiagramPage_VisorBeamSelect	\{0}\n（+切换键）\{1}
+DiagramPage_Beam	发射光束\n（长按）蓄光束
+DiagramPage_Missile	发射导弹\n（蓄积光束）蓄力连击
+DiagramPage_Map	地图画面
+DiagramPage_BeamSwap	切换键：\n（长按）开启切换模式
+DiagramPage_Morphball	变形球
+DiagramPage_Camera	视点/准星移动
+DiagramPage_CameraFreeAim	【陀螺仪】（锁定中）准星
+DiagramPage_DualCameraFreeAim	（锁定中）{[0101|240054005800540052005f00520053007400690063006b0050007200650073007300650064000100]}重置准星
+DiagramPage_SpiderBall	蜘蛛球\n（长按）固定视角
+DiagramPage_BoostBall	（长按）加速球
+DiagramPage_Bomb	炸弹
+DiagramPage_PowerBomb	重磅炸弹
+DiagramPage_SpringBall	弹簧球
+DiagramPage_ResetGyro	重置陀螺仪
+DiagramPage_QuickSelectVisor	{[0101|1a0054005800540052005f00520053007400690063006b00550070000100]}战斗/{[0101|1e0054005800540052005f00520053007400690063006b0044006f0077006e000100]}热成像\n{[0101|1e0054005800540052005f00520053007400690063006b004c006500660074000100]}X光/{[0101|200054005800540052005f00520053007400690063006b00520069006700680074000100]}扫描
+DiagramPage_QuickSelectBeam	{[0101|1a0054005800540052005f00520053007400690063006b00550070000100]}加强/{[0101|1e0054005800540052005f00520053007400690063006b0044006f0077006e000100]}冰冻\n{[0101|1e0054005800540052005f00520053007400690063006b004c006500660074000100]}等离子/{[0101|200054005800540052005f00520053007400690063006b00520069006700680074000100]}波动
+DiagramPage_GyroMode	（长按）陀螺仪模式
+DiagramPage_ClassicCameraMode	（长按）自由视角模式
+DiagramPage_ClassicMove	移动\n（自由视角模式）环顾四周
+DiagramPage_ClassicQuickSelectVisor	{[0101|1a0054005800540052005f00520053007400690063006b00550070000100]}战斗/{[0101|1e0054005800540052005f00520053007400690063006b0044006f0077006e000100]}热成像\n{[0101|1e0054005800540052005f00520053007400690063006b004c006500660074000100]}扫描/{[0101|200054005800540052005f00520053007400690063006b00520069006700680074000100]}X光
+DiagramPage_ClassicSpiderBall	蜘蛛球
+DiagramPage_ClassicLockChase	（长按）固定视角
+DiagramPage_GyroControl	【陀螺仪】 \{0}\n\{1}
+DiagramPage_None	{color[8a2be2ff]}不使用{color[000000ff]}
+DiagramPage_ToggleControlMode	{[0100|29cd]} \{0}    {[0100|1dcd]}关闭
+DiagramPage_MorphballControls	变形球操作
+DiagramPage_FPSControls	一般操作
+DeathScreen_Offline	停止
+DeathScreen_GameOver	{size[5a00]}G A M E   O V E R{size[6400]}
+DeathScreen_FlavorText_Critical1	{color[ffffffff]}生命维持系统：{color[000000ff]}{color[000000ff]}危险{color[000000ff]}
+DeathScreen_FlavorText_Critical2	{color[000000ff]}生命维持系统：{color[000000ff]}{color[ffffffff]}危险{color[000000ff]}
+DeathScreen_FlavorText_Offline1	{color[ffffffff]}生命维持系统：{color[000000ff]}{color[000000ff]}停止{color[000000ff]}
+DeathScreen_FlavorText_Offline2	{color[000000ff]}生命维持系统：{color[000000ff]}{color[ff0000ff]}停止{color[000000ff]}
+CreditsSkip	{[0100|29cd]} 跳过    
+[5A9D0217]_000	已重置准星。
+[56D3FB2A]_000	校正陀螺仪感应器。\n请将手柄放在平稳处，\n稍等片刻。（按{[0100|1ccd]}可取消）
+[32B4E9B0]_000	手柄校正成功。
+[CC994172]_000	手柄校正失败。
+[918E5D6F]_000	已解锁主菜单展示厅！\n可从标题界面进入主菜单。
+VictoryScreen_ExtrasUnlocked	已解锁主菜单展示厅！
+[9C8D98A0]_000	日志扫描完成率达25％！\n已解锁主菜单展示厅。
+[B00CFB0D]_000	日志扫描完成率达50％！\n已解锁主菜单展示厅。
+[D61ADDEF]_000	日志扫描完成率达75％！\n已解锁主菜单展示厅。
+[78292B9C]_000	日志扫描完成率达100％！\n已解锁主菜单展示厅。
+[573783BA]_000	道具收集率达25%！\n已解锁主菜单展示厅。
+[7BB6E017]_000	道具收集率达50%！\n已解锁主菜单展示厅。
+[1DA0C6F5]_000	道具收集率达75%！\n已解锁主菜单展示厅。
+[B3933086]_000	道具收集率达100%！\n已解锁主菜单展示厅。
+STRG_OverworldBillboard	[42C9296F]_000
+STRG_CraterBillboard	[03166AF8]_000
+STRG_ChozoRuinsBillboard	[1A626AAC]_000
+STRG_LavaBillboard	[BB4E31F0]_000
+STRG_PhenDriftsBillboard	[973EEE29]_000
+STRG_MinesBillboard	[4A2E3969]_000
+subtitle0	[1DBE57D6]_000
+subtitle1	[D6E28473]_000
+subtitle2	[5076F6DD]_000
+subtitle3	[9B2A2578]_000
+subtitle4	[862F15C0]_000
+subtitle5	[4D73C665]_000
+subtitle6	[CBE7B4CB]_000
+endtitle0	[3F3D9C95]_000
+endtitle1	[F4614F30]_000
+endtitle2	[72F53D9E]_000
+ControlSchemeTooltip0	推动{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}移动萨姆斯，\n推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}移动萨姆斯的视点。
+ControlSchemeTooltip1	使用陀螺仪感应器操作视点与准星位置，\n操作方式同Wii的\n《Metroid Prime: Trilogy》的指向操作。\n※建议左右握持Joy-Con。
+ControlSchemeTooltip2	结合经典模式与陀螺仪操作，\n以陀螺仪感应器移动视点。
+ControlSchemeTooltip3	重现GameCube版\n《密特罗德究极》的操作方法。
+SwapBeamVisorTooltip	将面罩与光束的切换键对调。\n按{[0100|34cd]}切换面罩。\n按{[0100|33cd]}切换光束。
+SwapBeamMissileTooltip	按{[0100|33cd]}切换光束。\n按{[0100|06cd]}发射导弹。
+SwapVisorMissileTooltip	按{[0100|34cd]}切换面罩。\n按{[0100|06cd]}发射导弹。
+CameraControlTooltip0	推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}移动视点，\n不可使用陀螺仪感应器移动。
+CameraControlTooltip1	{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}和陀螺仪感应器\n均可移动视点。
+CameraGyroSensitivityXTooltip	调整以陀螺仪感应器\n左右移动视点时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动视点。
+CameraGyroSensitivityYTooltip	调整以陀螺仪感应器\n上下移动视点时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动视点。
+CameraStickSensitivityXTooltip	调整以{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}左右移动视点时的灵敏度。\n数字调大后，只要稍微推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}，\n就能迅速移动视点。
+CameraStickSensitivityYTooltip	调整以{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}上下移动视点时的灵敏度。\n数字调大后，只要稍微推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}，\n就能迅速移动视点。
+LockOnCursorTooltip0	锁定目标时\n准星将固定在敌人身上。
+LockOnCursorTooltip1	锁定目标时，陀螺仪感应器\n仍能任意移动准星。
+LockOnCursorTooltip2	锁定目标时，推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}\n仍能任意移动准星。
+LockOnCursorTooltip3	锁定目标时，\n仍可使用陀螺仪感应器或{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}移动准星。
+CursorStickSensitivityXTooltip	调整以{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}左右瞄准时的灵敏度。\n数字调大后，只要稍微推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}，\n就能迅速移动准星。
+CursorStickSensitivityYTooltip	调整以{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}上下瞄准时的灵敏度。\n数字调大后，只要稍微推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}，\n就能迅速移动准星。
+CursorGyroSensitivityXTooltip	调整以陀螺仪感应器\n左右瞄准时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动准星。
+CursorGyroSensitivityYTooltip	调整以陀螺仪感应器\n上下瞄准时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动准星。
+CameraPitchTooltip0	萨姆斯移动时，视点高度维持不变。
+CameraPitchTooltip1	萨姆斯移动后，\n视点高度缓缓返回默认位置。
+CameraPitchTooltip2	萨姆斯移动后，\n视点高度配合地平线自动调整。
+JumpPitchTooltip0	跳跃时视点高度维持不变。
+JumpPitchTooltip1	跳跃后按住{[0100|05cd]}时，\n视点会配合着陆点稍微往下。
+RStickInvertXTooltip0	将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向右推，视点向右移。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向左推，视点向左移。
+RStickInvertXTooltip1	让{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}输入的方向左右颠倒。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向右推，视点向左移。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向左推，视点向右移。
+RStickInvertYTooltip0	将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向上推，视点向上移。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向下推，视点向下移。
+RStickInvertYTooltip1	让{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}输入的方向上下颠倒。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向上推，视点向下移。\n将{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}向下推，视点向上移。
+LStickInvertXTooltip0	将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向右推，萨姆斯向右\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向左推，萨姆斯向左。
+LStickInvertXTooltip1	让{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}输入的方向左右颠倒。\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向右推，萨姆斯向左。\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向左推，萨姆斯向右。
+LStickInvertYTooltip0	自由视角模式时，\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向上推，萨姆斯向上看。\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向下推，萨姆斯向下看。
+LStickInvertYTooltip1	自由视角模式时，\n让{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}输入的方向上下颠倒。\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向上推，萨姆斯向下看。\n将{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}向下推，萨姆斯向上看。
+ResetCursorTooltip0	锁定目标时开启陀螺仪感应器。\n解除锁定时，\n准星将随手柄方向移动。
+ResetCursorTooltip1	锁定目标时关闭陀螺仪感应器。\n解除锁定时自动重置陀螺仪感应器。
+CameraSensitivityXTooltip	调整以陀螺仪感应器\n左右移动视点的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动视点。
+CameraSensitivityYTooltip	调整以陀螺仪感应器\n上下移动视点的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动视点。
+CursorSensitivityXTooltip	调整以陀螺仪感应器\n左右瞄准时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动准星。
+CursorSensitivityYTooltip	调整以陀螺仪感应器\n上下瞄准时的灵敏度。\n数字调大后，只要稍微操纵手柄，\n就能迅速移动准星。
+CameraStickSensitivityTooltip	调整以{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}左右移动视点时的灵敏度。\n数字调大后，只要稍微推动{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}，\n就能迅速移动视点。
+SpringBallSensitivityTooltip	调整弹簧球灵敏度。\n数字调大后，只要稍微操纵手柄，\n变形球就会跳跃。
+SwapXYInputsTooltip	按{[0100|13cd]}切换成变形球模式，\n按{[0100|06cd]}发射导弹。
+LegacyMapTooltip	按{[0100|1ecd]}开启地图画面。
+VisorOpacityTooltip	调整萨姆斯所剩的能量、导弹数量、\n炸弹数量的文字透明度。
+HelmetVisibilityTooltip0	不显示萨姆斯的头盔。
+HelmetVisibilityTooltip1	显示萨姆斯的头盔。
+HudLagTooltip0	萨姆斯移动时头盔和面罩不会摇晃。
+HudLagTooltip1	萨姆斯移动时头盔和面罩会摇晃。
+HudEnglishTooltip0	以中文显示面罩上的光束和面罩名称。
+HudEnglishTooltip1	以英文显示面罩上的光束和面罩名称。\n（不含扫描内容）
+HintSystemTooltip0	不显示前往下个目的地的提示。
+HintSystemTooltip1	如未能在一定时间内抵达目的地，\n将出现提示。
+SFXVolumeTooltip	调整音效音量。
+MusicVolumeTooltip	调整背景音乐音量。
+ColorblindModeTooltip0	已关闭颜色辅助。\n若无法分辨以下颜色，\n请尝试开启颜色辅助模式。
+ColorblindModeTooltip1	易于分辨红色的模式。
+ColorblindModeTooltip2	易于分辨绿色的模式。
+ColorblindModeTooltip3	易于分辨蓝色的模式。
+ColorblindStrengthTooltip0	将颜色辅助模式的彩度\n设置为“低彩度”。
+ColorblindStrengthTooltip1	将颜色辅助模式的彩度\n设置为“中彩度”。
+ColorblindStrengthTooltip2	将颜色辅助模式的彩度\n设置为“高彩度”。
+NarrationModeTooltip0	重现GameCube版\n《密特罗德究极》的北美版。\n影片不会播放旁白。\n
+NarrationModeTooltip1	重现GameCube版\n《密特罗德究极》的欧洲版。\n片头片尾的影片将播放旁白。\n
+NarrationModeTooltip2	重现GameCube版\n《密特罗德究极》的日本版。\n片头片尾等部分影片将播放旁白。
+ExtrasAlertsTooltip0	即使“展示厅”有新解锁的部分，\n游戏中也不显示通知。\n从标题界面的“主菜单”即可进入“展示厅”。
+ExtrasAlertsTooltip1	“展示厅”有新解锁的部分时，\n游戏中将显示通知。\n从标题界面的“主菜单”即可进入“展示厅”。
+SubtitlesTooltip0	即使开启“旁白”功能，\n片头片尾的影片依然不会显示字幕。
+SubtitlesTooltip1	开启“旁白”功能后，\n将配合旁白显示中文字幕。
+ViewControls	{size[5a00]}详细操作{size[6400]}
+MS_LOC_TEST	·——，,；,“”‘’℃⋯⋯……¥♂♀※──®©︿﹀→↑\n包角　关起异将途禅瘟猜灰·小衅——你好，今天的瞭温气 ！\n非常寒冷。少年:希望啰你能让他看看～某样2％武器，找到的\n话；就拿１％去给他吧。“牧羊人”正因为‘羊’被怪物℃抓走而\n烦恼着，为了平日：辛苦工作的《父亲》她充满干劲地拿起１０\n锅子准备⋯⋯做出(营养)丰富的料–理。\n咯……（任何肉都OK），“再一起拿给他吧！”给她10¥个草莓？\n《我想看一下杖！》小的♂红的♀圆的、东西？\n※下一题是：──17%点钟吗……？备忘录/啊\nhttp://nintendo.co.jp\nMii数据 Joy-Con®／©Nintendo Switch™ 【10 ＋ 9 － 8 ＝11】\n,盔甲New! level，按 －/＋ 继续BLEEP、 BLOOP！\n好像有点怀念的感觉！1P～4P\n…＃＄＆＠︿＊﹀＿＋－×÷＝→↑「０１２３４５６７８９」\n①②③④⑤⑥⑦⑧⑨,'#$&@"\{};[0123456789]\nqwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM
+ENFORCED_CHARS	ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n0123456789-_\n'"áéèíñóúÁ|
+Preload\MPR1\GuiSysMP1.pak\TEXT_Ship-S_Credits.msbt
+StaffCredits	{color[ff0a0aff]}{size[6400]}METROID PRIME REMASTERED{size[6400]}{size[9600]} {size[6400]}\n{color[000000ff]}{size[5000]}STAFF CREDITS{size[6400]}
+TitleRetro	RETRO STUDIOS
+Retro_Execs	{color[89d6ffff]}EXECUTIVE PRODUCER{color[000000ff]}\nMichael Kelbaugh\n\n{color[89d6ffff]}SENIOR DIRECTOR OF DEVELOPMENT{color[000000ff]}\nDylan Jobe
+Retro_ProductionTeam	{color[89d6ffff]}LEAD PRODUCER{color[000000ff]}\nMarisa Palumbo\n\n{color[89d6ffff]}PRODUCTION COORDINATOR{color[000000ff]}\nPete Nielsen
+Retro_ArtExec	{color[89d6ffff]}SENIOR ART DIRECTOR{color[000000ff]}\nJhony Ljungstedt\n\n{color[89d6ffff]}ASSOCIATE ART DIRECTOR{color[000000ff]}\nChris Hahn\n\n{color[89d6ffff]}ART DEPARTMENT PRODUCER{color[000000ff]}\nBeverly Garland
+Retro_AnimTeam	{color[89d6ffff]}SENIOR LEAD ANIMATOR{color[000000ff]}\nMookie Weisbrod\n\n{color[89d6ffff]}ANIMATOR{color[000000ff]}\nDax Pallotta\nStephen Zafros\nRaphael Perkins\nRick Blankenship\nFrancisco "Kiko" Buyo\nKyle Ruegg\nJustin Little\nHayley McGuire
+Retro_CharTeam	{color[89d6ffff]}LEAD CHARACTER ARTIST{color[000000ff]}\nKyle Hefley\n\n{color[89d6ffff]}CHARACTER ARTIST{color[000000ff]}\nQuinn Smith\nJoe Lee\nDavid Salaiz
+Retro_ConceptTeam	{color[89d6ffff]}CONCEPT ARTIST{color[000000ff]}\nShawn Melchor\nEnrique Rivera
+Retro_EnvironmentTeam	{color[89d6ffff]}LEAD ENVIRONMENT ARTIST\n{color[000000ff]}Greg Frizzell\n\n{color[89d6ffff]}ENVIRONMENT ARTIST\n{color[000000ff]}Ryan Powell\nTeague Schultz\nSean Horton\nMatt Manchester\nDavid DeCoster\nMaru Barnidge\nRussell Lingo\nJames Reed Ketcham\nKenneth Kozan\nJennica Derksen\nChristian Medina\nTiffany Lee Griffith
+Retro_EnvironmentTeamB	{color[89d6ffff]}MATERIALS ARTIST\n{color[000000ff]}Will Fuller\n\n{color[89d6ffff]}CONTRACT ENVIRONMENT ARTIST\n{color[000000ff]}Devlin Arduini\nTyler Bivins\nConnor Brandenburger\nChris Douglas\nAngela Jeong\nEric Lawson
+Retro_VFXTeam	{color[89d6ffff]}LEAD VFX ARTIST\n{color[000000ff]}Adad Morales\n\n{color[89d6ffff]}VFX Artist\n{color[000000ff]}Bryan Erck\nNicholas Wilson\nEdiber Reyes
+Retro_LightingTeam	{color[89d6ffff]}LIGHTING ARTIST\n{color[000000ff]}Elizabeth Baxter\nChad Orr\nMichael Meador\n\n{color[89d6ffff]}CONTRACT LIGHTING ARTIST{color[000000ff]}\nJacqueline Bornstein\nCassidy Rose Handford\nDylan King\nJosh Slezak
+Retro_OutsourcingTeam	{color[89d6ffff]}OUTSOURCING MANAGER\n{color[000000ff]}Paul Wu\n\n{color[89d6ffff]}OUTSOURCING DEPARTMENT PRODUCER\n{color[000000ff]}Rikki Vitello\n\n{color[89d6ffff]}LEAD EXTERNAL ENVIRONMENT ARTIST\n{color[000000ff]}Sasha Nodia\nVictor van 't Hek\n\n{color[89d6ffff]}CONTRACT OUTSOURCING ARTIST\n{color[000000ff]}Austin Angelman\n\n{color[89d6ffff]}CONTRACT ENVIRONMENT OUTSOURCE INTEGRATION ARTIST\n{color[000000ff]}Taylor Cross\nNick Ford
+Retro_UITeam	{color[89d6ffff]}UI ARTIST\n{color[000000ff]}Jon Wofford
+Retro_AudioTeam	{color[89d6ffff]}AUDIO MANAGER\n{color[000000ff]}Scott Petersen\n\n{color[89d6ffff]}SOUND DESIGNER \n{color[000000ff]}Bobby Arlauskas\nGeoffrey Belcher\n\n{color[89d6ffff]}CONTRACT SOUND DESIGNER\n{color[000000ff]}Clark Wen
+Retro_DesignTeam	{color[89d6ffff]}GAME DESIGN DIRECTOR\n{color[000000ff]}Bill Vandervoort\n\n{color[89d6ffff]}GAME DESIGN DEPARTMENT PRODUCER\n{color[000000ff]}Jessica Spence\n\n{color[89d6ffff]}GAME DESIGN\n{color[000000ff]}Russell O’Henly\nBrandon Paul Salinas\nJay Fuller\nNestor Hernandez\nShawn Wingler\nJonathan DeLange\nBrandon Strong\nEthan Smith\nPat Krefting
+Retro_EngineeringExec	{color[89d6ffff]}VICE PRESIDENT OF ENGINEERING & TECHNOLOGY\n{color[000000ff]}Tim Little\n\n{color[89d6ffff]}ENGINEERING DEPARTMENT PRODUCER\n{color[000000ff]}Marty Taramasco
+Retro_GameplayTeam	{color[89d6ffff]}SENIOR LEAD GAMEPLAY ENGINEER\n{color[000000ff]}Ryan Cornelius\n\n{color[89d6ffff]}GAMEPLAY ENGINEER\n{color[000000ff]}Alex Quinones\nJose Guerra\nFrank Maddin\nAndrew Orlando\nJesse Spears\nBen Jackson\nDaniel Talaber\nRobert Walker\nMatt Peterson\nTaylor Yust\nRyan Kirschman\nCornelia Ada Schultz
+Retro_GFXTeam	{color[89d6ffff]}LEAD GRAPHICS ENGINEER\n{color[000000ff]}John Sheblak\n\n{color[89d6ffff]}GRAPHICS ENGINEER\n{color[000000ff]}Mike Kelley\nJoseph Cherlin\nCale Scholl\nTony Bernardin\nJames A. Richmond\nEduardo Lev Guerra\n\n{color[89d6ffff]}CONTRACT GRAPHICS ENGINEER\n{color[000000ff]}John Talley
+Retro_TechTeam	{color[89d6ffff]}LEAD TECHNOLOGY ENGINEER\n{color[000000ff]}Bharathwaj "Bat" Nandakumar\n\n{color[89d6ffff]}TECHNOLOGY ENGINEER\n{color[000000ff]}Jim Gage\nAndy Hanson\nDan Higdon\nJordan C. Johnson\nGary Scanlon
+Retro_ToolsTeam	{color[89d6ffff]}TOOLS ENGINEER\n{color[000000ff]}Georgia Nelson\nJames Krut\nAndrew Jones\nJohnny Owens\nJason Turner\nBen Johnson\nMay Oakes\nMatt Frank
+Retro_TechArtTeam	{color[89d6ffff]}TECHNICAL ART MANAGER\n{color[000000ff]}Will Bate\n\n{color[89d6ffff]}TECHNICAL ARTIST\n{color[000000ff]}Robert Kovach\nRebecca Flannery\nConrad Buranicz\n\n{color[89d6ffff]}TECHNICAL ANIMATOR\n{color[000000ff]}Jason Barnidge\nRyan Metcalf\nYi "David" Chen
+Retro_OpsTeam	{color[89d6ffff]}DIRECTOR OF OPERATIONS\n{color[000000ff]}Kellie Prinz Johnson\n\n{color[89d6ffff]}HR MANAGER\n{color[000000ff]}Eric DiCesare\n\n{color[89d6ffff]}FACILITIES TECHNICIAN\n{color[000000ff]}Al Artus\n\n{color[89d6ffff]}OPERATIONS SPECIALIST\n{color[000000ff]}Rachel Landa\n\n{color[89d6ffff]}ACCOUNTS PAYABLE & PROJECTS ACCOUNTANT\n{color[000000ff]}Katie Anderson\n\n{color[89d6ffff]}CONTRACT SENIOR RECRUITER\n{color[000000ff]}Cody McGinley
+Retro_TranslationTeam	{color[89d6ffff]}SENIOR COMMUNICATION COORDINATOR\n{color[000000ff]}Mika Sato\n\n{color[89d6ffff]}BILINGUAL OPS ASSISTANT\n{color[000000ff]}Maiko Hoshino
+Retro_PlanningTeam	{color[89d6ffff]}DIRECTOR OF PLANNING\n{color[000000ff]}Ryan Harris
+Retro_ITTeam	{color[89d6ffff]}LEAD IT ENGINEER\n{color[000000ff]}Cameron Enfinger\n\n{color[89d6ffff]}IT ENGINEER\n{color[000000ff]}Ethan McDonald\nClay Stubbs\nKameron Scott\nSean Howard\n\n{color[89d6ffff]}CONTRACT IT ENGINEER\n{color[000000ff]}Paul Grillo
+Retro_QATeam	{color[89d6ffff]}LEAD QA DESIGN ANALYST\n{color[000000ff]}Shane D. Lewis\n\n{color[89d6ffff]}CONTRACT QA PRODUCT TESTER\n{color[000000ff]}Ezra Donatelli\nBianca M. Marroqin\nMark McClarin\nBrendan Newsome\nCaleb Wise
+TitleAirship	AIRSHIP IMAGES LIMITED
+EXT_Airship	{color[89d6ffff]}ART DIRECTOR\n{color[000000ff]}Joseph Harford\n\n{color[89d6ffff]}HEAD OF PRODUCTION\n{color[000000ff]}Declan Paul\n\n{color[89d6ffff]}GROOM ARTIST{color[000000ff]}\nLuis Cardenas
+TitleAtomhawk	ATOMHAWK DESIGN LTD. 
+EXT_Atomhawk	{color[89d6ffff]}SENIOR CONCEPT ARTIST\n{color[000000ff]}Mustafa Lamrani\n\n{color[89d6ffff]}VANCOUVER STUDIO DIRECTOR{color[000000ff]}\nChris Rowe\n\n{color[89d6ffff]}VANCOUVER PRODUCTION MANAGER{color[000000ff]}\nDanielle Fellows\n
+TitleCGBot	CGBOT, LLC 
+EXT_CGBot1	{color[89d6ffff]}CLIENT PRODUCER{color[000000ff]}\nPatricia Raquel Santos Muñoz\nChristina Villanueva\n\n{color[89d6ffff]}ENVIRONMENT ART PRODUCER\n{color[000000ff]}Jorge Antonio Garza Barrón\nHugo Homero Sánchez Velasco\n\n{color[89d6ffff]}CHARACTER ART PRODUCER\n{color[000000ff]}Alejandro Cárdenas Calderón\nKorina Leal González\n\n{color[89d6ffff]}ART DIRECTION\n{color[000000ff]}Fernando Muñoz López Velarde\nMartín Eduardo Gámez Bañuelos
+EXT_CGBot2	{color[89d6ffff]}LEAD CONCEPT ARTIST\n{color[000000ff]}Manuel Alberto Trujillo García\n\n{color[89d6ffff]}CONCEPT ARTIST\n{color[000000ff]}Jonathan Moisés Hernández Mendoza | Juan Francisco Contreras Torres | Miguel Ángel Ramírez Carrasco\nDiego Jaimez Tamayo | Jorge Armanda Zapata Mares | Diana Rocío Camero Juárez\nDarío Juárez Villa | Yazback Fernando Moya Carpinteyro | Max Monroy Reyes\n\n{color[89d6ffff]}LEAD CHARACTER ARTIST\n{color[000000ff]}Dennia Analie Aguilar Luna\n\n{color[89d6ffff]}CHARACTER ARTIST\n{color[000000ff]}Omar Alejanadro Pineda Aguirre | Luis Ángel Servín Martínez | César Alberto Cavazos Cavazos\nLuis Eduardo Colunga González | Fernando Mata Vázquez | Rogelio Adrián González Zamora\nMilena Martínez Lozano | Abimael González López | Raquel Flores Malacara\nDavid Gilberto Lobo Víquez | Ramsés Alfredo Rayón Picaso
+EXT_CGBot3	{color[89d6ffff]}LEAD SKINNING ARTIST\n{color[000000ff]}Octavio Israel Rodríguez Mendo\n\n{color[89d6ffff]}SKINNING ARTIST\n{color[000000ff]}Raúl López García | Oscar Enrique Guerrero Carmona\n\n{color[89d6ffff]}LEAD ENVIRONMENT ARTIST\n{color[000000ff]}Félix García Tamez | Sergio Alfredo Cavazos Cavazos\n\n{color[89d6ffff]}HEAD ENVIRONMENT ARTIST\n{color[000000ff]}Martha Alicia Valdés Landa | Luis Enrique Cruz Sánchez | Ana Patricia Tijerina Díaz\nVictor Edgar Payan Enciso | Joaquín Jiménez López | Guillermo Cruz Pujol
+EXT_CGBot4	{color[89d6ffff]}ENVIRONMENT ARTIST\n{color[000000ff]}Guillermo Ballón Villagrá | Héctor Daniel Del Río Medina | Eduardo Enrique Yassin Álvarez\nFelipe Chamorro Soancatl | Carlos Enrique Raygadas | Ana Karina Martínez\nNestor Osvaldo Cabriales López | Miguel Angel Quiroga Franco | Krista Naomi Aguiñaga Gómez\nGustavo Burgos González | Isidro Rojas González | Edwin Jesús Barrera Villareal\nFelipe Landero Hernández | Luis Carlos García García | Miguel Ivan Islas Cruz\nKevin Omar Cruz Colin | Erick Rolando Vásquez Quiroga | Jorge Alberto Luz Flores\nJorge Alberto Ángel Manzano | José Daniel Hernández Cárdenas | Servando García Guajardo\n\n{color[89d6ffff]}HEAD LIGHTING ARTIST\n{color[000000ff]}Erick Javier Herrera Loredo\n\n{color[89d6ffff]}LIGHTING ARTIST\n{color[000000ff]}Alejandro Ramos Monroy | José Everardo Hernández Díaz | Ernesto Quiroz Martínez
+TitleGamesim	GAMESIM, INC.
+EXT_Gamesim	{color[89d6ffff]}STUDIO HEAD{color[000000ff]}\nMax Acree\n\n{color[89d6ffff]}ENVIRONMENT ARTIST{color[000000ff]}\nAmy Chen\nMichael Goode\nJoel Perez\nBrett McPadden\nAnthony Garcelleno
+TitleIronGalaxy	IRON GALAXY STUDIOS, LLC
+EXT_IronGalaxy	{color[89d6ffff]}PROJECT MANAGER{color[000000ff]} \nKraig Kujawa \n\n{color[89d6ffff]}LEAD PRODUCER{color[000000ff]}\nAlex Chatfield \n\n{color[89d6ffff]}PRODUCER{color[000000ff]}\nChris LaCalamita \n\n{color[89d6ffff]}ART DIRECTOR\n{color[000000ff]}Chad Newhouse \n\n{color[89d6ffff]}ART LEAD\n{color[000000ff]}Jason Flanagan
+EXT_IronGalaxy2	{color[89d6ffff]}LEAD 3D ARTIST{color[000000ff]}\nTom Angus\nMiguel Espinoza\nJoe Grant\nEvrerado Acosta\n\n{color[89d6ffff]}3D ARTIST{color[000000ff]}\nDiana Benocilla\nDaniel Diaz\nJesus Diaz\nEmilio Escamilla\nNathanael Gulbranson\nPaxton Klotz\nLauren Quinn\nChristian Vasquez\nMatt Young\nVladyslav Zadniprovskyi\n\n{color[89d6ffff]}ART QA{color[000000ff]}\nMario Gomez 
+TitleLiquid	LIQUID DEVELOPMENT
+EXT_Liquid1	{color[89d6ffff]}STUDIO DIRECTOR\n{color[000000ff]}Darren Bartlett\n\n{color[89d6ffff]}PRODUCTION DIRECTOR\n{color[000000ff]}Chuck Byas\n\n{color[89d6ffff]}BUSINESS MANAGER\n{color[000000ff]}Heather Dyer\n\n{color[89d6ffff]}IT DIRECTOR\n{color[000000ff]}Tony Brinlee\n\n{color[89d6ffff]}PROJECT MANAGER\n{color[000000ff]}Tien Tam\nSherry Kuchera\n\n{color[89d6ffff]}ART DIRECTOR\n{color[000000ff]}Josh Sturgis\n\n{color[89d6ffff]}LEAD ENVIRONMENT ARTIST\n{color[000000ff]}Tony Clark
+EXT_Liquid2	{color[89d6ffff]}ENVIRONMENT ARTIST\n{color[000000ff]}Joshua Harvey | Joe Thiel | Alex Marcinowski | Colton Wagoner\nJen Dang | Michael Fuller | Dan Bingham | Sean Parkin | Vicente Castillo\nMatt Brown | Max Bennett | Kelly Odonnell | Simon Mills | Yaniv Dekel\n\n{color[89d6ffff]}CONCEPT ARTIST\n{color[000000ff]}Sean Keenan | Isiah Sherman\n\n{color[89d6ffff]}LEAD CHARACTER ARTIST\n{color[000000ff]}Jeremy Bolz\n\n{color[89d6ffff]}CHARACTER ARTIST\n{color[000000ff]}Manuel Noyola | Sarah Francian | Jessica Clark | Danill Spivak\n\n{color[89d6ffff]}PRODUCTION SUPPORT\n{color[000000ff]}Royal Sybrandt | Ryan Gibson | Mark Van Borstel
+TitleOriginalForce	ORIGINAL FORCE LTD.
+EXT_OriginalForce	{color[89d6ffff]}GLOBAL BUSINESS DEVELOPMENT DIRECTOR{color[000000ff]}\nShirley Tang\n\n{color[89d6ffff]}PROJECT MANAGER{color[000000ff]}\nAgnes Wang\n\n{color[89d6ffff]}PRODUCTION TEAM LEAD{color[000000ff]}\nEason Xu\n\n{color[89d6ffff]}PROJECT LEAD{color[000000ff]}\nLin Wu\n\n{color[89d6ffff]}ARTIST{color[000000ff]}\nXin Zhang | Xuyang Li | Xigang Ni | Jing Nian | Ruyi Wu\nXiaohan Xie | Fei Zhou | Shaojie Chen | Jianliang Gao\nYuanzheng Yue | Chao Lei | Jianxin He
+TitleMineloader	SHANGHAI MINELOADER DIGITAL TECHNOLOGY CO., LTD. 
+EXT_Mineloader1	{color[89d6ffff]}DIRECTOR OF ART PRODUCTION{color[000000ff]}\nXu Zhen\n\n{color[89d6ffff]}PRODUCTION MANAGER{color[000000ff]}\nWang Wei\n\n{color[89d6ffff]}ART PRODUCER\n{color[000000ff]}Zhang Yang\n\n{color[89d6ffff]}PROJECT MANAGER\n{color[000000ff]}Wu Qiu Ting | Zhang Meng\n\n{color[89d6ffff]}ART DIRECTOR\n{color[000000ff]}Cui Zhi Ming\n\n{color[89d6ffff]}TECHNICAL SUPPORT\n{color[000000ff]}Lv Wei Wei
+EXT_Mineloader2	{color[89d6ffff]}TECHNICAL ARTIST{color[000000ff]}\nChang Ji Xiang\n\n{color[89d6ffff]}TRANSLATOR{color[000000ff]}\nHu Hai Jiang | Li Hao\n\n{color[89d6ffff]}LEAD ARTIST{color[000000ff]}\nGong Yan | Zhu Dun Bo | Chen Yan Dong | Xie Xue Wei\n\n{color[89d6ffff]}3D ARTIST\n{color[000000ff]}Guo Jing | Han Yue Xin | Zhang Bin | Xiong Li | Wang Yi Hui\nYu Wan | Cui Zheng | Li Zi Ran | Kang Kai | Tang Guo Xu | Teng Zhen Yi\nChen Ting Ting | Shan Bing Yao | Lou Qian Cheng | Yao Kun Cheng\nDong Zhao He | Ma Ruo Bin | Sun Zhan Wei | Li Hao Yu | Ma Yan Fei
+TitleZombot	ZOMBOT STUDIO, INC.
+EXT_Zombot	{color[89d6ffff]}CREATIVE DIRECTOR\n{color[000000ff]}Alex Chin-Yu Chu\n\n{color[89d6ffff]}PROJECT MANAGER\n{color[000000ff]}Meghan Pin-Yuan Huang\nMay Tsai-Hsuan Han\n\n{color[89d6ffff]}ARTIST{color[000000ff]}\nTri Nguyen\n\n{color[89d6ffff]}CONCEPT ARTIST\n{color[000000ff]}John Wei-Chen Liu\nYurev Stanislav
+Retro_SpecialThanksList	{color[89d6ffff]}SPECIAL THANKS{color[000000ff]}\nOmar Amador\nJoree Dolin\nAdam Fenton\nRisa Hinokuma\nAshley Rochelle\nSylvia Rowland\nChase Shields\nBilly Spears\nDaniel Valey\nBryan Venzen\nKyle Woodall\nGAME ON! Recruiting, Inc.
+TitleNintendo	NINTENDO
+NintendoTeam1	{color[89d6ffff]}PRODUCER{color[000000ff]}\nKensuke Tanabe\n\n{color[89d6ffff]}ASSISTANT PRODUCER\n{color[000000ff]}Risa Tabata\n\n{color[89d6ffff]}TRANSLATION / INTERPRETATION / COORDINATION\n{color[000000ff]}Shunsuke Matsushita\n\n{color[89d6ffff]}VISUAL PRODUCER\n{color[000000ff]}Takayoshi Sato\n\n{color[89d6ffff]}VFX SUPERVISOR\n{color[000000ff]}Keijiro Inoue\nMakoto Ota
+NintendoTeam2	{color[89d6ffff]}SAMUS MODEL SUPERVISION\n{color[000000ff]}Takayasu Morisawa\nTakashi Ito\n\n{color[89d6ffff]}ART PROGRESS MANAGEMENT\n{color[000000ff]}Kosei Kitamura\nHitoshi Kobayashi\nYoshiyuki Oyama\n\n{color[89d6ffff]}MUSIC PRODUCER\n{color[000000ff]}Kenji Yamamoto\n\n{color[89d6ffff]}ENGINEERING SUPERVISOR\n{color[000000ff]}Takuhiro Dohta\nKenji Yamamoto\n\n{color[89d6ffff]}COORDINATION{color[000000ff]}\nMasashi Okamoto
+NintendoTeam3	{color[89d6ffff]}PACKAGE DESIGN / ILLUSTRATION{color[000000ff]}\nYuki Ijiri\nYu Yamamoto\n\n{color[89d6ffff]}TECHNICAL SUPPORT\n{color[000000ff]}Toru Inage\nYuta Ogawa\nShotaro Iwanaga\n\n{color[89d6ffff]}QUALITY ASSURANCE\n{color[000000ff]}Takeshi Saigo\nShoichiro Takeyoshi\nYuko Kaneko\nMario Club Co., Ltd.\nPole To Win Co., Ltd.
+NintendoTeam4	{color[89d6ffff]}SPECIAL THANKS\n{color[000000ff]}Yoshio Sakamoto\nKiyohiko Ando\nSoma Omori\n\n{color[89d6ffff]}PROJECT MANAGEMENT\n{color[000000ff]}Masakazu Miyazaki\n\n{color[89d6ffff]}GENERAL PRODUCER\n{color[000000ff]}Shinya Takahashi\n\n{color[89d6ffff]}EXECUTIVE PRODUCER\n{color[000000ff]}Shuntaro Furukawa
+TitleNOA	NINTENDO OF AMERICA
+NOATeam	<SKIP>
+NOATeamB	{color[89d6ffff]}QUALITY ASSURANCE\n{color[000000ff]}Stephen Ward\nCorey Beedle\nManna Yamasaki\nAlison JeuDevine\nMicah Kenworthy\nSpencer Stoddard\nNOA Product Testing\n\n{color[89d6ffff]}SPECIAL THANKS\n{color[000000ff]}Howard Lincoln\nDevon Pritchard\nJeff Miller\nMike Nichols\nJill Whitney
+TitleNOE	NINTENDO OF EUROPE
+NOETeam	{color[89d6ffff]}LOCALIZATION PRODUCER\n{color[000000ff]}Yingyu Nan\nVeronika Hoffmann
+TitleNOK	NINTENDO OF KOREA
+NOKTeam	{color[89d6ffff]}LOCALIZATION{color[000000ff]}\nYunjin Park\nOrgoSoft Co., Ltd.\nDIGITAL HEARTS Co., Ltd.\n\n{color[89d6ffff]}QUALITY ASSURANCE\n{color[000000ff]}Eodo Lee\nOrgoSoft Co., Ltd.
+TitleNHK	NINTENDO (HONG KONG) LTD.
+NHKTeam	{color[89d6ffff]}LOCALIZATION{color[000000ff]}\nTracy Cheng\nDIGITAL HEARTS Co., Ltd.\nDigital Hearts Linguitronics Taiwan Co., Ltd.\n\n{color[89d6ffff]}QUALITY ASSURANCE\n{color[000000ff]}Digital Hearts Linguitronics Taiwan Co., Ltd.
+TitleIQUE	IQUE (CHINA) LTD.
+IQUETeam	{color[89d6ffff]}LOCALIZATION{color[000000ff]}\nLing Yayun\nQiu Xiaochun\nDIGITAL HEARTS (Shanghai) Co., Ltd.\n\n{color[89d6ffff]}QUALITY ASSURANCE\n{color[000000ff]}Zhang Jiong\nDIGITAL HEARTS (Shanghai) Co., Ltd.
+Disclaimers	{color[89d6ffff]}BASED ON THE WORK OF{color[000000ff]}\nMetroid Prime\n(Original NINTENDO GAMECUBE and Wii Versions)\nDevelopment Staff
+Preload\MPR1\GuiSysMP1.pak\TEXT_Subtitles.msbt
+[1DBE57D6]_000	{size[4b00]}宇宙……{size[6400]}
+[D6E28473]_000	{size[4b00]}宇宙浩瀚无垠，人类的历史宛如渺小星芒，稍纵即逝。{size[6400]}
+[5076F6DD]_000	{size[4b00]}一个人的一生，在时间洪流中更是无足轻重……{size[6400]}
+[9B2A2578]_000	{size[4b00]}然而群星之中，有道光芒比宇宙万物都璀璨夺目。{size[6400]}
+[862F15C0]_000	{size[4b00]}那是萨姆斯·亚兰的光芒。{size[6400]}
+[4D73C665]_000	{size[4b00]}她的战役名垂千古、缔造传说。{size[6400]}
+[CBE7B4CB]_000	{size[4b00]}如今，传说的新篇即将揭开序幕……{size[6400]}
+[3F3D9C95]_000	{size[4b00]}萨姆斯没有辜负鸟人族的信任。{size[6400]}
+[F4614F30]_000	{size[4b00]}一颗闪耀的新星，开始在宇宙中熠熠生辉。{size[6400]}
+[72F53D9E]_000	{size[4b00]}赏金猎人萨姆斯·亚兰……究竟会面临什么样的命运与未来？{size[6400]}
+Preload\MPR1\GuiSysMP1.pak\TEXT_TutorialText.msbt
+[BFF94180]_000	长按{[0100|0bcd]}\n锁定目标。
+[69B4FEED]_000	信息不足。
+[3F4EDB33]_000	请使用扫描面罩。
+[6BA6A287]_000	按下{[0100|10cd]}可切换扫描面罩。
+[F34571B7]_000	可扫描的目标\n会出现{[0100|3acd]}图示。
+[75577B26]_000	长按{[0100|12cd]}\n扫描目标{[0100|3acd]}。
+[86B2A6B9]_000	按下{[0100|2fcd]}并推动{[0101|220054005800540052005f004c0053007400690063006b0052006f0074006100740065000800]}\n可瞄准高处的目标。
+[CF18B6D3]_000	按下{[0100|2fcd]}并倾斜手柄，\n可瞄准高处的目标。
+[657E3425]_000	按下{[0100|05cd]}跳跃。
+[3E1F6F37]_000	按下{[0100|11cd]}或{[0100|30cd]}\n可切换回战斗面罩。
+[9A907276]_000	按下{[0100|30cd]}发射光束。\n使用光束可以为门解锁。
+[7052DB05]_000	靠近解锁后的门，\n门会自动开启。
+[0B961270]_000	须解锁气密舱。
+[61D63A7D]_000	气密舱尚未解锁。
+[D2065FE2]_000	已解锁气密舱。
+[770089F8]_000	采集数据时，\n须切换为扫描面罩{[0100|10cd]}。
+[4A45EB12]_000	长按{[0100|0bcd]}锁定敌人。
+[8E24AFEC]_000	按{[0100|1ecd]}可开启地图画面。
+[26694105]_000	使用蓄光束破坏障碍物。
+[F2374317]_000	长按{[0100|30cd]}蓄力后放开，\n即可发射蓄光束。
+[8999CBAD]_000	按下{[0100|06cd]}发射导弹。
+[74F5DDD1]_000	使用扫描面罩{[0100|10cd]}\n扫描{[0100|0bcd]}后，可启动特殊装置。
+[9F3B062F]_000	站在全息影像处\n即可启用电梯。
+[D0BA7522]_000	化为变形球\n可通过狭窄空间。
+[136653D6]_000	按下{[0100|13cd]}化为变形球。
+[5173D682]_000	按下{[0100|0bcd]}并使用{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}，\n可在锁定敌人的情况下移动。
+[CB65253D]_000	使用扫描面罩{[0100|10cd]}\n可采集此区域内的数据。
+[C2BD11CE]_000	获得能量包。
+[923CDF67]_000	光束蓄力时会吸引并拾取附近的道具。
+[B24B4024]_000	长按{[0100|30cd]}吸引并拾取道具。
+[81FE6A8B]_000	在按下{[0100|0bcd]}后的锁定状态下，\n左右推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}并按下{[0100|05cd]}可以横跳。
+[FB8BA805]_000	左右推动{[0101|320054005800540052005f004c0053007400690063006b004c00650066007400520069006700680074005f0041006e0069006d000800]}，并在移动时按下{[0100|05cd]}，\n可以快速横跳。
+[A9D2D0D9]_000	使用扫描功能\n可找出敌人的弱点。
+[E9849F11]_000	在显示{[0101|220054005800540052005f0047006c00790070006800470072006100700070006c0065000100]}图示时按下{[0100|0bcd]}，\n可使用抓钩光束。
+[A13EA3E8]_000	已下载此区域地图。
+[4DC36A77]_000	按下{[0100|1ecd]}可开启地图。
+[9B64CA6B]_000	站在全息影像处\n可下载地图。
+[6BDA183B]_000	已下载此区域地图。
+[78CEAC42]_000	按下{[0100|1ecd]}可开启地图。\n再次按下{[0100|1ecd]}则返回游戏。
+[FAE43EE1]_000	{color[ff0a0aff]}超过耐热极限！\n须提升服装耐久度。{color[000000ff]}
+[8F86A7A1]_000	{color[ff0a0aff]}门已上锁！\n击倒所有敌人以解除门锁。{color[000000ff]}
+[0C476789]_000	已解除门锁。
+[4C6760D1]_000	能量补充完毕。
+[8074B290]_000	已保存行动记录。\n能量补充完毕。
+[CD381B34]_000	未保存行动记录，继续游戏。\n能量补充完毕。
+[8DD044F6]_000	能量和导弹补充完毕。
+[564D3EAE]_000	已保存行动记录。\n能量和导弹补充完毕。
+[1B01970A]_000	未保存行动记录，继续游戏。\n能量和导弹补充完毕。
+[1BA91238]_000	已保存行动记录。
+[56E5BB9C]_000	未保存行动记录，继续游戏。
+[FE705B00]_000	已可进入底层隧道。
+[AB25D085]_000	导弹补充完毕。
+[6B01D75C]_000	此武器无法解除门锁。
+[275D4B6F]_000	水流阻力过大，无法前进。
+[A1C939C1]_000	须提升服装性能。
+[BAC48F63]_000	须提升变形球性能。
+[3C50FDCD]_000	请搜索道具。
+[A94416AA]_000	化为变形球\n可有效探索狭窄区域。
+[A14F415F]_000	无法使用磁轨系统。
+[27DB33F1]_000	须提升变形球性能。
+[720B9CDC]_000	侦测到门的另一侧\n有炽烈热气。
+[012AD876]_000	{color[ff0a0aff]}防护服已失效。{color[000000ff]}
+[87BEAAD8]_000	{color[ff0a0aff]}变形球功能受损。{color[000000ff]}
+[4CE2797D]_000	{color[ff0a0aff]}导弹功能受损。{color[000000ff]}
+[51E749C5]_000	{color[ff0a0aff]}蓄光束功能受损。{color[000000ff]}
+[9ABB9A60]_000	{color[ff0a0aff]}抓钩光束已失效。{color[000000ff]}
+[520AFCC0]_000	于半管式滑道抓准时机\n使用加速球，可以爬上高处。
+[D49E8E6E]_000	长按{[0100|31cd]}蓄力，\n放开后即可加速。
+[12BC220B]_000	已开放新通道。
+[9632CB68]_000	前方有落石。
+[10A6B9C6]_000	材质：{color[ff0a0aff]}斑迪兹姆{color[000000ff]}
+[E4A7B18B]_000	使用热成像面罩\n可有效探索阴暗区域。
+[6233C325]_000	按下{[0100|0fcd]}可切换成热成像面罩。
+[A3965981]_000	{color[ff0a0aff]}感应到高浓度辐射。{color[000000ff]}
+Preload\MPR1\GuiSysMP1.pak\TEXT_WorldNames.msbt
+[F7AB6449]_000	巡防舰鸥尔菲恩
+[F7AB6449]_001	{color[ffffffff]}巡防舰鸥尔菲恩{color[000000ff]}
+[F7AB6449]_003	巡防舰鸥尔菲恩
+[1A626AAC]_000	鸟人遗迹
+[1A626AAC]_001	{color[ffffffff]}鸟人遗迹{color[000000ff]}
+[1A626AAC]_003	鸟人遗迹
+[973EEE29]_000	冰冻山谷
+[973EEE29]_001	{color[ffffffff]}冰冻山谷{color[000000ff]}
+[973EEE29]_003	冰冻山谷
+[42C9296F]_000	泰隆世外桃源
+[42C9296F]_001	{color[ffffffff]}泰隆世外桃源{color[000000ff]}
+[42C9296F]_003	泰隆世外桃源
+[4A2E3969]_000	费原子矿场
+[4A2E3969]_001	{color[ffffffff]}费原子矿场{color[000000ff]}
+[4A2E3969]_003	费原子矿场
+[BB4E31F0]_000	火山洞穴
+[BB4E31F0]_001	{color[ffffffff]}火山洞穴{color[000000ff]}
+[BB4E31F0]_003	火山洞穴
+[03166AF8]_000	撞击坑洞
+[03166AF8]_001	{color[ffffffff]}撞击坑洞{color[000000ff]}
+[03166AF8]_003	撞击坑洞
+Preload\MPR1\PreloadMP1.pak\RequiredEntries.msbt
+GEN_Inventory_Numbers	0123456789
+GEN_SingleParam	\{0}
+GEN_Versions	code:\{0} data:\{1}
+Preload\MPRT\PreloadFrontEndMPT.pak\TEXT_MPT_FrontEnd.msbt
+GEN_Unknown	？？？
+FE_NintendoPresents1	Nintendo® and Retro Studios™
+FE_NintendoPresents2	present
+FE_Copyright	©Nintendo
+FE_PressStart	PRESS {[0100|3dcd]} TO START
+FE_SaveInfo	正在保存……\n请勿触碰主机电源键。
+FE_MainMenuTitle	主菜单
+FE_SelectSlotTitle	选择保存文件
+FE_NewGame	新游戏
+FE_Restart	※开启新游戏从头游玩
+FE_Slots	开始游戏
+FE_Options	选项
+FE_Extras	展示厅
+FE_Yes	是
+FE_No	否
+FE_On	开启
+FE_Off	关闭
+FE_CompletedGame	Mission Complete
+FE_DifficultyTitle	选择难度
+FE_Difficulty_Easy	轻松
+FE_Difficulty_Medium	普通
+FE_Difficulty_Hard	困难
+FE_Slot_Easy	难度：轻松
+FE_Slot_Medium	难度：普通
+FE_Slot_Hard	难度：困难
+FE_HardModeUnlocked1	已解锁困难模式！
+FE_HardModeUnlocked2	开始新游戏时，\n可选择困难模式。
+FE_Continue	{[0100|3dcd]} 关闭
+FE_Energy	能量包
+FE_Progress	道具收集率：\{0}%\n\n时间：\{1}:\{2}
+FE_DialogCopy	要将\{0}复制到\{1}吗？
+FE_DialogErase	要删除文件\{0}吗？
+FE_OptionsTitle	【 选项 】
+FE_Controls	操作方法
+FE_Display	显示
+FE_Sound	声音
+FE_ControllerOptionsTitle	【 操作方法 】
+FE_ControllerScheme	操作方法
+FE_DualStick	双摇杆
+FE_Pointer	陀螺仪操作
+FE_Hybrid	混合模式
+FE_Classic	经典模式
+FE_DisplayOptionsTitle	【 显示 】
+FE_VisorOpacity	面罩透明度
+FE_HelmetVisibility	视窗透明度
+FE_HUDLag	视窗摇晃选项
+FE_HintSystem	提示系统
+FE_SoundOptionsTitle	【 声音 】
+FE_SFX	音效音量
+FE_Music	背景音乐音量
+FE_RestoreAllOptions	{size[5a00]}要将{color[ffffffff]}所有{color[000000ff]}选项恢复成默认吗？{size[6400]}
+FE_RestoreControllerOptions	{size[5a00]}要将{color[ffffffff]}操作方法{color[000000ff]}选项恢复成默认吗？{size[6400]}
+FE_RestoreDisplayOptions	{size[5a00]}要将{color[ffffffff]}显示{color[000000ff]}选项恢复成默认吗？{size[6400]}
+FE_RestoreSoundOptions	要将{size[5a00]}{color[ffffffff]}声音{color[000000ff]}选项恢复成默认吗？{size[6400]}
+FE_ConceptGallery	艺术品展示厅
+FE_BonusGallery	角色展示厅
+FE_SoundtrackGallery	声音展示厅
+FE_SoundtrackGalleryTitle	【 声音展示厅 】
+FE_ConceptGalleryTitle	【 艺术品展示厅 】
+FE_MP1_UnlockStats	\{0}/\{1} 已解除
+FE_MP1WorldGallery	世界
+FE_MP1WorldHDGallery	世界：复刻版
+FE_MP1BiologyGallery	生物
+FE_MP1BiologyHDGallery	生物：复刻版
+FE_ExtrasTitle	【 展示厅 】
+FE_MP1_MUS_MainTheme	标题
+FE_MP1_MUS_ParasiteQueen	VS.寄生虫后
+FE_MP1_MUS_Overworld	行星泰隆Ⅳ
+FE_MP1_MUS_ChozoShrine	文物神殿
+FE_MP1_MUS_Ruins	鸟人遗迹
+FE_MP1_MUS_Flaahgra	VS.富拉古拉
+FE_MP1_MUS_Magmoor	火山洞穴
+FE_MP1_MUS_PhenDrifts	冰冻山谷
+FE_MP1_MUS_PhenBattle	冰冻山谷（芬朵拉娜地下湖）
+FE_MP1_MUS_CrashedShip	坠落巡防舰鸥尔菲恩
+FE_MP1_MUS_Mines	费原子矿场
+FE_MP1_MUS_SpacePirates	VS.宇宙海盗
+FE_MP1_MUS_OmegaPirate	VS.欧米伽海盗
+FE_MP1_MUS_MetaRidley	VS.机器利德雷
+FE_MP1_MUS_MPBattle2	VS.密特罗德究极（头部）
+FE_MP1_MUS_Credits	制作人员名单
+FE_MP1_MUS_IntroCinema	片头曲
+FE_MP1_MUS_PirateFrigate	巡防舰鸥尔菲恩
+FE_MP1_MUS_MPBattle	VS.密特罗德究极
+FE_MP1_MUS_Battle1	战斗1
+FE_MP1_MUS_Battle2	战斗2
+FE_MP1_MUS_PhenShorelines	冰冻山谷（秘密）
+FE_MP1_MUS_Thardus	VS.撒达斯
+FE_MP1_MUS_Magmoor2	火山洞穴（入口）
+FE_MP1_MUS_Overworld2	泰隆世外桃源
+FE_MP1_MUS_HiveTotem	VS.蜂巢图腾柱
+FE_MP1_MUS_Ruins2	鸟人遗迹2
+FE_MP1_MUS_WinGame	任务完成
+FE_MP1_MUS_IntroStinger	萨姆斯登场
+FE_MenuSelect	{[0100|3dcd]} 确定
+FE_MenuCancel	{[0100|3ecd]} 返回
+FE_MenuBack	{[0100|3ecd]} 退出
+FE_MenuRestore	{[0100|42cd]} 恢复成默认
+FE_CopySlot	{[0100|3fcd]} 复制
+FE_EraseSlot	{[0100|40cd]} 删除
+FE_ChangeItem	{[0101|1a0054005800540052005f004400500061006400490064006c0065000100]} 下一个
+FE_Zoom	{[0101|0a00620074006e005f004c000100]}{[0101|0a00620074006e005f0052000100]} 变焦
+FE_Move	{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]} 移动
+FE_Rotate	{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]} 旋转
+FE_Reset	{[0100|42cd]} 重置
+FE_PlayMusic	{[0100|3dcd]} 播放
+FE_StopMusic	{[0100|3dcd]} 停止
+FE_MP1_CHR_Ship	宇宙舰艇
+FE_MP1_CHR_ParasiteQueen	寄生虫后
+FE_MP1_CHR_Parasites	寄生虫
+FE_MP1_CHR_Turret	光束炮台KT-0687
+FE_MP1_CHR_InjuredPirates	宇宙海盗（负伤）
+FE_MP1_CHR_SamusPowerSuit	普通服
+FE_MP1_CHR_HiveTotem	蜂巢图腾柱
+FE_MP1_CHR_IncineratorDrone	突击火焰喷射枪AO-1837
+FE_MP1_CHR_PlatedBeetle	巨人甲虫
+FE_MP1_CHR_SamusMorphball	变形球
+FE_MP1_CHR_Flaahgra	富拉古拉
+FE_MP1_CHR_SamusVariaSuit	防护服
+FE_MP1_CHR_Geemer	义玛
+FE_MP1_CHR_BabySheegoth	幼体撕涡士
+FE_MP1_CHR_Sheegoth	撕涡士
+FE_MP1_CHR_Thardus	撒达斯
+FE_MP1_CHR_SamusSpiderBall	蜘蛛球
+FE_MP1_CHR_ChozoGhost	鸟人幽灵
+FE_MP1_CHR_SamusGravitySuit	重力服
+FE_MP1_CHR_AquaPirate	水生海盗
+FE_MP1_CHR_FlyingPirate	飞行海盗
+FE_MP1_CHR_ElitePirate	菁英海盗
+FE_MP1_CHR_MegaTurret	光束炮台RT-1831
+FE_MP1_CHR_OmegaPirate	欧米伽海盗
+FE_MP1_CHR_SamusPhazonSuit	费原子服
+FE_MP1_CHR_Ridley	机器利德雷
+FE_MP1_CHR_MetroidPrime	密特罗德究极
+FE_MP1_CHR_Beetle	泰隆甲虫
+FE_MP1_CHR_WarWasp	泰隆黄蜂
+FE_MP1_CHR_SpacePirate	宇宙海盗
+FE_MP1_CHR_ShadowPirate	影子海盗
+FE_MP1_CHR_Troopers	士兵（4种）
+FE_MP1_CHR_Metroids	泰隆密特罗德与分裂密特罗德
+FE_MP1_CHR_HunterMetroid	猎人密特罗德
+FE_MP1_CHR_MetroidPrimeHead	密特罗德究极（头部）
+FE_MP1_CHR_PhazonElite	费原子菁英
+FE_SFXTooltip	调整音效音量。
+FE_MusicTooltip	调整背景音乐音量。
+FE_SpeechTooltip	调整语音音量。
+FE_ControlsTooltip0	推动{[0101|1e0054005800540052005f004c0053007400690063006b00490064006c0065000100]}移动萨姆斯。\n推动{[0101|1e0054005800540052005f00520053007400690063006b00490064006c0065000100]}移动萨姆斯的视点。
+FE_ControlsTooltip1	使用陀螺仪感应器操作视点/准星位置。\n操作方式同\nWii的《Metroid Prime: Trilogy》。\n※建议左右握持Joy-Con。
+FE_ControlsTooltip2	结合经典操作系统\n与陀螺仪操作系统的操作方法。\n使用陀螺仪感应器移动视点。
+FE_ControlsTooltip3	重现GameCube版\n《密特罗德究极》的操作方法。
+FE_VisorOpacityTooltip	调整萨姆斯所剩的能量、导弹数量、\n炸弹数量的文字透明度。
+FE_HelmetVisibilityTooltip0	不显示萨姆斯的头盔。
+FE_HelmetVisibilityTooltip1	显示萨姆斯的头盔。
+FE_HudLagTooltip0	萨姆斯移动时头盔和面罩不随动作摇晃。
+FE_HudLagTooltip1	萨姆斯移动时头盔和面罩随动作摇晃。
+FE_HintSystemTooltip0	不显示前往下个目的地的提示。
+FE_HintSystemTooltip1	若一段时间后未抵达下个目的地，\n将显示提示。
+FE_ColorblindMode	颜色辅助
+FE_ColorblindPreset0	红色辅助
+FE_ColorblindPreset1	绿色辅助
+FE_ColorblindPreset2	蓝色辅助
+FE_ColorblindStrength	颜色辅助\n（色调调整）
+FE_ColorblindStrengthPreset0	低彩度
+FE_ColorblindStrengthPreset1	中彩度
+FE_ColorblindStrengthPreset2	高彩度
+FE_ColorblindModeTooltip0	已关闭颜色辅助。\n若无法分辨以下颜色，\n请尝试开启颜色辅助模式。
+FE_ColorblindModeTooltip1	易于分辨红色的模式。
+FE_ColorblindModeTooltip2	易于分辨绿色的模式。
+FE_ColorblindModeTooltip3	易于分辨蓝色的模式。
+FE_ColorblindStrengthTooltip0	将颜色辅助模式的彩度\n设置为“低彩度”。
+FE_ColorblindStrengthTooltip1	将颜色辅助模式的彩度\n设置为“中彩度”。
+FE_ColorblindStrengthTooltip2	将颜色辅助模式的彩度\n设置为“高彩度”。
+FE_NarrationMode	旁白
+FE_NarrationModePartial	影片
+FE_NarrationModeFull	影片+世界名称
+FE_CinematicSubtitles	开启字幕
+FE_NarrationModeTooltip0	重现GameCube版\n《密特罗德究极》的北美版。\n影片不会播放旁白。
+FE_NarrationModeTooltip1	重现GameCube版\n《密特罗德究极》的欧洲版。\n片头片尾的影片将播放旁白。
+FE_NarrationModeTooltip2	重现GameCube版\n《密特罗德究极》的日本版。\n片头片尾等部分影片将播放旁白。
+FE_SubtitlesTooltip0	开启“旁白”功能后，\n片头与片尾依然不会显示字幕。
+FE_SubtitlesTooltip1	开启“旁白”功能后，\n将配合旁白显示中文字幕。
+FE_ENFORCED_CHARS	ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n0123456789-_
+FE_CorruptedFile	数据已损毁，\n无法使用文件。
+FE_ChoiceRetry	重试
+FE_ChoiceDeleteCorruptedFile	删除损毁的文件
+Preload\MPRT\PreloadFrontEndMPT.pak\TEXT_WorldNames.msbt
+[F7AB6449]_000	巡防舰鸥尔菲恩
+[F7AB6449]_001	{color[ffffffff]}巡防舰鸥尔菲恩{color[000000ff]}
+[F7AB6449]_003	巡防舰鸥尔菲恩
+[1A626AAC]_000	鸟人遗迹
+[1A626AAC]_001	{color[ffffffff]}鸟人遗迹{color[000000ff]}
+[1A626AAC]_003	鸟人遗迹
+[973EEE29]_000	冰冻山谷
+[973EEE29]_001	{color[ffffffff]}冰冻山谷{color[000000ff]}
+[973EEE29]_003	冰冻山谷
+[42C9296F]_000	泰隆世外桃源
+[42C9296F]_001	{color[ffffffff]}泰隆世外桃源{color[000000ff]}
+[42C9296F]_003	泰隆世外桃源
+[4A2E3969]_000	费原子矿场
+[4A2E3969]_001	{color[ffffffff]}费原子矿场{color[000000ff]}
+[4A2E3969]_003	费原子矿场
+[BB4E31F0]_000	火山洞穴
+[BB4E31F0]_001	{color[ffffffff]}火山洞穴{color[000000ff]}
+[BB4E31F0]_003	火山洞穴
+[03166AF8]_000	撞击坑洞
+[03166AF8]_001	{color[ffffffff]}撞击坑洞{color[000000ff]}
+[03166AF8]_003	撞击坑洞
+UI\MPR1\UIMP1.pak\TEXT_InGame.msbt
 [0552A456]_CombatVisor	战斗面罩
 [0552A456]_ScanVisor	扫描面罩
 [0552A456]_XRayVisor	X光面罩

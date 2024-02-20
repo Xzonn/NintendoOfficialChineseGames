@@ -1,0 +1,421 @@
+LayoutMsg\ActionGuideMenu_00.msbt
+L_SingleJoyConPage-T_ActivateCamera_Dual_00	 Free-Scroll Mode
+L_SingleJoyConPage-T_ActivateCamera_Dual_01	 Free-Scroll Mode
+L_SingleJoyConPage-T_Grab_Dual_00	 /  Grab
+L_SingleJoyConPage-T_Jump_Dual_00	 /  Jump
+L_SingleJoyConPage-T_Move_Dual_00	 Move
+L_SingleJoyConPage-T_Grab_Dual_01	 /  Grab
+L_SingleJoyConPage-T_Move_Dual_01	 Move
+L_SingleJoyConPage-T_Jump_Dual_01	 /  Jump
+L_DualJoyConPage-T_Move_Dual	 /  Move
+L_DualJoyConPage-T_ActivateCamera_Dual	 Free-Scroll Mode
+L_DualJoyConPage-T_Grab_Dual	 /  Grab
+L_DualJoyConPage-T_Jump_Dual	 /  Jump
+Tab_00	Controls
+Tab_01	Controls
+Tab_02	Action Guide
+Basic_Move_00	Move
+Basic_JC2_00	{size[7800]}{size[6400]}
+Basic_JC1_00	{size[7800]}{size[6400]}
+Basic_Move_01	Jump
+Basic_JC2_01	{size[7800]}/{size[6400]}
+Basic_JC1_01	{size[7800]}/{size[6400]}
+Basic_Move_02	Crouch
+Basic_JC2_02	{size[7800]}{size[6400]}
+Basic_JC1_02	{size[7800]}{size[6400]}
+Basic_Move_03	Grab / Pick Up
+Basic_JC2_03	{size[7800]}/{size[6400]}
+Basic_JC1_03	{size[7800]}/{size[6400]}
+Basic_Move_04	Throw
+Basic_JC2_04	{size[7800]}/{size[6400]}\n(while holding an object or enemy)
+Basic_JC1_04	{size[7800]}/{size[6400]}\n(while holding an object or enemy)
+Basic_Move_05	Up Throw
+Basic_JC2_05	{size[7800]}{size[6400]} + {size[7800]}/{size[6400]}
+Basic_JC1_05	{size[7800]}{size[6400]} + {size[7800]}/{size[6400]}
+Advanced_Move_00	Handstand
+Advanced_JC2_00	{size[7800]}{size[6400]} + {size[7800]}/{size[6400]}
+Advanced_JC1_00	{size[7800]}{size[6400]} + {size[7800]}/{size[6400]}
+Advanced_Move_01	Handstand\nJump
+Advanced_JC2_01	{size[7800]}/{size[6400]}\n(while doing a handstand)
+Advanced_JC1_01	{size[7800]}/{size[6400]}\n(while doing a handstand)
+Advanced_Move_02	Handstand\nDouble Jump
+Advanced_JC2_02	{size[7800]}/{size[6400]}\n(after landing from a\nHandstand Jump)
+Advanced_JC1_02	{size[7800]}/{size[6400]}\n(after landing from a\nHandstand Jump)
+Advanced_Move_03	Backflip
+Advanced_JC2_03	Tilt {size[7800]}{size[6400]} in the opposite direction \nwhile moving, then press {size[7800]}/{size[6400]}
+Advanced_JC1_03	Tilt {size[7800]}{size[6400]} in the opposite direction \nwhile moving, then press {size[7800]}/{size[6400]}
+Wire_Move_00	Wire Grab
+Wire_JC2_00	{size[7800]} {size[6400]}\n(when near a wire)
+Wire_JC1_00	{size[7800]} {size[6400]}\n(when near a wire)
+Wire_Move_01	Wire Spin
+Wire_JC2_01	{size[7800]}{size[6400]} \n(while on a wire)
+Wire_JC1_01	{size[7800]} {size[6400]}\n(while on a wire)
+Wire_Move_02	Wire Jump
+Wire_JC2_02	{size[7800]}/{size[6400]} \n(while spinning)
+Wire_JC1_02	{size[7800]}/{size[6400]}\n(while spinning)
+Ropes_Move_00	Rope Grab
+Ropes_JC2_00	{size[7800]}/{size[6400]}\n(when near a rope)
+Ropes_JC1_00	{size[7800]}/{size[6400]}\n(when near a rope)
+Ropes_Move_01	Rope Turn
+Ropes_JC2_01	{size[7800]}{size[6400]}
+Ropes_JC1_01	{size[7800]}{size[6400]}
+Ropes_Move_02	Rope Climb
+Ropes_JC2_02	{size[7800]}{size[6400]}
+Ropes_JC1_02	{size[7800]}{size[6400]}
+Ropes_Move_03	Rope Jump
+Ropes_JC2_03	{size[7800]}/{size[6400]}\n(while on ropes)
+Ropes_JC1_03	{size[7800]}/{size[6400]}\n(while on ropes)
+Ropes_Move_04	Rope Drop
+Ropes_JC2_04	{size[7800]}/{size[6400]}\n(while on ropes)
+Ropes_JC1_04	{size[7800]}/{size[6400]}\n(while on ropes)
+Other_Move_00	Spring Jump
+Other_JC2_00	{size[7800]}/{size[6400]}\n(while on top of a spring)
+Other_JC1_00	{size[7800]}/{size[6400]}\n(while on top of a spring)
+Other_Move_01	Hammer Toss
+Other_JC2_01	{size[7800]}/{size[6400]}\n(while holding the hammer)
+Other_JC1_01	{size[7800]}/{size[6400]}\n(while holding the hammer)
+L_ActionGuidePage-L_ListItem_06-T_2PHeader	Two-Player Controls
+TwoPlayer_Move_00	Bubble
+TwoPlayer_JC2_00	{size[7800]}{size[6400]} + {size[7800]}{size[6400]}
+TwoPlayer_JC1_00	{size[7800]}{size[6400]} + {size[7800]}{size[6400]}
+L_ActionGuidePage-T_DualJoycon	
+L_ActionGuidePage-T_SingleJoycon	
+L_PageHeader-Nav_Dual	
+L_PageHeader-Nav_Single	
+L_PageHeader-L_TabL-T_ButtonsArrowL	
+L_PageHeader-L_TabR-T_ButtonsArrowR	
+L_ActionGuidePage-T_Controls	Controls
+LayoutMsg\CongratsScreen.msbt
+T_WorldCleared	{[0207|2e0044006f006e006b006500790020004b006f006e00670020004a0075006e0067006c006500200050006c0075007300]} Cleared!
+T_Congratulations	CONGRATULATIONS!
+LayoutMsg\Cutscene_Skip.msbt
+L_Skip_00-TxtRematch	Skip
+LayoutMsg\Footer_00.msbt
+L_Select_01-Footer_00-00	Select
+L_ButtonB_01-Footer_00-00	Back
+L_ButtonA_01-Footer_00-00	OK
+L_ButtonA_01-GameGalleryMenu_00-00	Play
+L_Special_00-GameMainMenu_00-00	Delete Save File
+L_Special_00-GameLevelSelect_00-00	Change Play Style
+L_Special_00-GameLevelSelect_00-01	Exit Two-Player Mode
+L_ButtonX_00-GameLevelSelect_00-00	Time Attack
+L_ButtonX_01-GameGalleryMenu_00-00	Stop
+LayoutMsg\Gallery_00.msbt
+L_BackingWindow-T_Title	Gallery
+L_AudioListenerPanel-L_MusicButton-T_Btn_00	Music
+L_AudioListenerPanel-L_SE_Button-T_Btn_00	Sound Effects
+L_GalleryTab_Audio-T_MiddleText	Audio
+L_GalleryButton_00	Scene 1
+L_GalleryButton_01	Scene 2
+L_GalleryButton_02	Scene 3
+L_GalleryButton_03	Credits
+L_GalleryButton_04	Scene 4
+L_GalleryButton_05	Scene 5
+L_GalleryButton_06	Scene 6
+L_GalleryButton_07	Credits 2
+L_GalleryTab_Video-T_MiddleText	Cutscenes
+L_GalleryTab_Video-L_TabL-T_ButtonsArrowL	
+L_GalleryTab_Video-L_TabR-T_ButtonsArrowR	
+L_GalleryTab_Audio-L_TabL-T_ButtonsArrowL	
+L_GalleryTab_Audio-L_TabR-T_ButtonsArrowR	
+LayoutMsg\GameConfirmation_00.msbt
+ConfirmDelete	{size[7800]}Are you sure you want to delete the data in {color[0000]}File {[0206|02003000]}{color[ffff]}?\nThe deleted data cannot be recovered.{size[6400]}
+ConfirmDelete_LeftBtn	Cancel
+ConfirmDelete_RightBtn	Delete
+ConfirmRestart	You will lose your current progress.\nProceed?
+ConfirmRestart_LeftBtn	Cancel
+ConfirmRestart_RightBtn	OK
+ConfirmModeSwitch	Changing the play style will restart the level.\nProceed?
+ConfirmModeSwitch_LeftBtn	Cancel
+ConfirmModeSwitch_RightBtn	OK
+ConfirmExitLevel	You will lose all currently collected presents.\nContinue to the level-select menu?
+ConfirmExitLevel_LeftBtn	Cancel
+ConfirmExitLevel_RightBtn	OK
+ConfirmExitLevelBonus	The bonus level will disappear.\nProceed?
+ConfirmExitLevelBonus_LeftBtn	Cancel
+ConfirmExitLevelBonus_RightBtn	OK
+ConfirmExitMainMenu2P	Return to file select?\n(The second player will be disconnected.)
+ConfirmExitMainMenu2P_LeftBtn	Cancel
+ConfirmExitMainMenu2P_RightBtn	OK
+ConfirmLeave2P	Exit two-player mode?\n(The second player will be disconnected.)
+ConfirmLeave2P_LeftBtn	Cancel
+ConfirmLeave2P_RightBtn	OK
+ConfirmLeave2PLevel	Exit two-player mode?\n(This will restart the level.)
+ConfirmLeave2PLevel_LeftBtn	Cancel
+ConfirmLeave2PLevel_RightBtn	OK
+ConfirmLeave2PBonus	Exit two-player mode?\n(This will end the bonus level.)
+ConfirmLeave2PBonus_LeftBtn	Cancel
+ConfirmLeave2PBonus_RightBtn	OK
+ConfirmLeave2PTimeAttack	Play Time Attack?\n(The second player will be disconnected.)
+ConfirmLeave2PTimeAttack_LeftBtn	Cancel
+ConfirmLeave2PTimeAttack_RightBtn	OK
+ConfirmDisconnect	Change controllers?
+ConfirmDisconnect_LeftBtn	Cancel
+ConfirmDisconnect_RightBtn	OK
+LayoutMsg\GameConfirmation_01.msbt
+UnlockTimeAttackMain	You have unlocked {color[0000]}Time Attack{color[ffff]} for standard levels!\n\nReplay levels, and try to beat the target time.\n\n(Not available in two-player mode.)
+UnlockTimeAttackMain_RightBtn	OK
+UnlockTimeAttackPlus	You have unlocked {color[0000]}Time Attack{color[ffff]} for Plus levels!\n\nReplay levels, and try to beat the target time.\n\n(Not available in two-player mode.)
+UnlockTimeAttackPlus_RightBtn	OK
+UnlockTimeAttackExpert	You have unlocked Expert levels!
+UnlockTimeAttackExpert_RightBtn	OK
+ModeConfirmation	You can change the play style in\nthe pause or level-select menus.
+ModeConfirmation_RightBtn	OK
+AcknowledgeDelete	{size[7800]}The data has been deleted.{size[6400]}
+AcknowledgeDelete_RightBtn	OK
+LayoutMsg\GameLevelHUD_00.msbt
+L_Mini_00-T_In	In!
+L_Mini_01-T_In	In!
+L_Mini_02-T_In	In!
+L_Mini_03-T_In	In!
+L_Mini_04-T_In	In!
+L_Mini_05-T_In	In!
+L_Lives-T_x	x
+L_Mini_00-T_text_MISS	k.o.
+L_Mini_01-T_text_MISS	k.o.
+L_Mini_02-T_text_MISS	k.o.
+L_Mini_03-T_text_MISS	k.o.
+L_Mini_04-T_text_MISS	k.o.
+L_Mini_05-T_text_MISS	k.o.
+L_2P_Header-T_Join_00	Join
+L_2P_Header-T_R_00	
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_2P_Header-T_Pair_00	Pair a controller for two-player mode.
+L_Time-T_InfinitySymbol	∞
+L_Camera-T_2P_Text	P2
+L_Camera-T_1P_Text	P1
+T_TargetTimeLabel	Target Time:
+LayoutMsg\GameLevelPauseMenu_00.msbt
+L_Controllers-T_BottomText	Controllers
+L_Guides-T_IconText	?
+L_Guides-T_BottomText	Guides
+L_Resume-T_Btn_00	Continue
+L_Restart-T_Btn_00	Retry
+L_Menu-T_Btn_00	Exit Level
+L_2P_Header-T_Join_00	Join
+L_2P_Header-T_R_00	
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_2P_Header-T_Pair_00	Pair a controller for two-player mode.
+LayoutMsg\GameLevelSelect_00.msbt
+L_2P_Header-T_Join_00	Join
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_R_00	
+L_2P_Header-T_Pair_00	Pair a controller for two-player mode.
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_08-T_WorldNumber_00	DK
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+L_Zipper_00-L_W_17-T_WorldNumber_00	DK+
+L_Zipper_00-L_W_18-T_WorldNumber_00	EX1
+L_Zipper_00-L_W_19-T_WorldNumber_00	EX2
+LayoutMsg\GameLevelWin_00.msbt
+L_Star_00-T_Clear	Cleared!
+L_Star_00-T_Perfect	Perfect!
+L_Prompt-T_Select	OK
+LayoutMsg\GameMainMenu_00.msbt
+L_SlotA-T_New_00	NEW!
+L_SlotB-T_New_00	NEW!
+L_SlotC-T_New_00	NEW!
+L_SlotA-T_File_Text	File
+L_SlotB-T_File_Text	File
+L_SlotC-T_File_Text	File
+L_Controllers-T_BottomText	Controllers
+L_Guides-T_BottomText	Guides
+T_FileSelect_Header	File Select
+L_SlotA-T_Name_00	1
+L_SlotB-T_Name_00	2
+L_SlotC-T_Name_00	3
+L_Guides-T_IconText	?
+SaveTimeFormat	{[0201|040030003100]}/{[0200|040030003100]}/{[0202|08003200300032003300]}     {[0203|0a00300030003a0030003000]}
+L_Gallery-T_BottomText	Gallery
+LayoutMsg\GameModeChoice_00.msbt
+T_ModeSelectTitle	Select Play Style
+L_Left-T_ModeName	Casual
+L_Right-T_ModeName	Classic
+T_ClassicText	Recommended for players looking for more of a {color[0100]}challenge{color[ffff]}.
+T_CasualText	Recommended for players who want a more {color[0400]}relaxed {color[ffff]}game.
+LayoutMsg\GameOver_00.msbt
+T_Text	GAME OVER
+L_Right-T_Btn_00	Restart
+L_Left-T_Btn_00	Quit
+LayoutMsg\GameSplashScreen_00.msbt
+T_Notes_00	© Nintendo
+T_Left_00	Press
+T_Glyph_01	+
+LayoutMsg\LevelIntro_00.msbt
+T_Text	HERE WE GO!
+T_Text_03	3
+T_Text_02	2
+T_Text_01	1
+T_Text_00	GO!
+LayoutMsg\MainCredits_00.msbt
+T_Text_Thanks	THANK YOU FOR PLAYING!
+LayoutMsg\OneUpIndicator.msbt
+T_1UP	1UP
+LayoutMsg\PickupIndicator.msbt
+Buttons	{[0303]} / {[0304]}
+LayoutMsg\ThanksPlaying.msbt
+T_text_00	THANK YOU\nFOR PLAYING!
+LayoutMsg\TimeAttackIntro_00.msbt
+T_BestLabel	Best Time:
+T_TimeToBeatLabel	Target Time:
+LayoutMsg\TimeAttackOutro_00.msbt
+T_Win	Clear!
+L_Right-T_Btn_00	Restart
+L_Left-T_Btn_00	Quit
+T_Lose	Too bad!
+T_NewBestTime	New best time!
+T_TimesUp	Time's up!
+T_TimeLabel	Time:
+T_BestLabel	Best Time:
+T_TimeToBeatLabel	Target Time:
+LayoutMsg\TimeUp_00.msbt
+T_Text	Time's up!
+LayoutMsg\Tutorial_Backflip_00.msbt
+L_Tutorial-T_Title	Backflip
+T_Controls_00	{[0307]}
+T_Controls_01	{[0307]} + {[0305]}
+LayoutMsg\Tutorial_ColorSwitch_00.msbt
+L_Tutorial-T_Title	Color Switch
+T_Controls_00	{[0305]}
+LayoutMsg\Tutorial_Crouch_00.msbt
+L_Tutorial-T_Title	Crouch
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_HammerThrow_00.msbt
+L_Tutorial-T_Title	Hammer Toss
+T_Controls_00	{[0303]}
+LayoutMsg\Tutorial_HandstandBirdEgg_00.msbt
+L_Tutorial-T_Title	Handstand
+T_Description	While doing a handstand, you are protected from falling objects!
+LayoutMsg\Tutorial_HandstandDoubleJump_00.msbt
+L_Tutorial-T_Title	Handstand Double Jump
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0305]}
+T_Controls_02	{[0305]}
+LayoutMsg\Tutorial_HandstandJump_00.msbt
+L_Tutorial-T_Title	Handstand Jump
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_HandstandWalk_00.msbt
+L_Tutorial-T_Title	Handstand
+T_Description	While doing a handstand, you are protected from falling objects!
+LayoutMsg\Tutorial_JumpUpThrow_00.msbt
+L_Tutorial-T_Title	Jump and Up Throw
+T_Controls_00	{[0305]}
+T_Controls_01	{[0307]} + {[0303]}
+LayoutMsg\Tutorial_PickUpEnemies_00.msbt
+L_Tutorial-T_Title	Pick Up and Throw Enemies
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpObjects_00.msbt
+L_Tutorial-T_Title	Pick Up and Throw Objects
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpRamRam_00.msbt
+L_Tutorial-T_Title	Pick Up and Throw Enemies
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_SpringJump_00.msbt
+L_Tutorial-T_Title	Spring Jump
+T_Controls_00	{[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_ThrowObjectsUp_00.msbt
+L_Tutorial-T_Title	Up Throw
+T_Controls_00	{[0307]} + {[0303]}
+LayoutMsg\Tutorial_ToyBox_00.msbt
+L_Tutorial-T_Title	Letter Blocks
+L_Tutorial-T_Description	Guide the Mini-Marios to the Letter Blocks.
+LayoutMsg\Tutorial_TwoHandClimb_00.msbt
+L_Tutorial-T_Title	Two-Handed Climb
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_ViewLevel_00.msbt
+L_Tutorial-T_Title	Free-Scroll Mode
+T_Controls_00	Hold {[0301]}
+T_Description	Activating Free-Scroll Mode will freeze the game and enable you\nto move the camera around.
+LayoutMsg\Tutorial_WireSpinJump_00.msbt
+L_Tutorial-T_Title	Wire Spin and Jump
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0307]}
+T_Controls_02	{[0307]}
+T_Controls_03	{[0305]}
+LayoutMsg\WorldIntro.msbt
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+StaticMsg\Credits.msbt
+Credits_00	{color[0600]}Developed by Nintendo Software Technology Corporation{color[ffff]}\n\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Game Director{[0001|0d00]}{color[ffff]}\nVivek Melwani{size[6400]}{[0001|ffff]}\n{size[6400]}{size[6400]}\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Design Lead{[0001|0d00]}{color[ffff]}\nPhilip Brodsky{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0800]}{color[0600]}Designers{color[ffff]}{[0001|ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Brandon Dulyea\nCathy Dang\nRyan Massey\nVincent Leone\n\n{[0001|0800]}{color[0600]}Art Director{color[ffff]}\n{[0001|0d00]}Trevor Johnson{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Art Leads{[0001|0d00]}{color[ffff]}\nBrian McNeely\nErica Hanson\nMarcos Gomes\nTakashi Ogomori\n\n{[0001|0800]}{color[0600]}Artists{color[ffff]}{[0001|0d00]}\nAlex Sorosy\nAlissa Cattabriga\nAmanda Melville\nAnthony Settimi\nChristine-Ariane Medina\nEdward Sherman\nGarrett Lusignan\nJosé Concha\nKimberly Towne\nMatthew Hinrichs\nMegan Hsu\nMegan Meadows{size[6400]}{[0001|ffff]}
+Credits_01	{[0001|0d00]}{size[6400]}Mochiko Lu\nSabrina Martinez\nSean Hadeler\nSean Yamura\nSharon Cheng\nSterling Skirko\nYasiman Ahsani\nZainab Asgari{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Additional Art{[0001|0d00]}{color[ffff]}\nArturo Jáuregui Osante \nEmily Hogue\nFrancisco Guerrero López\nGrace Howard\nMichael Ackerman Jr.{size[6400]}{[0001|ffff]}{size[6400]}{size[6400]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Engineering Director{[0001|0d00]}{color[ffff]}\nRyan Lynd{size[6400]}{[0001|ffff]}\n{size[6400]}\n{color[0600]}{[0001|0800]}Engineering Leads{[0001|ffff]}{color[ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Timothy Minalia\nYoonjoon Lee\n\n{[0001|0800]}{color[0600]}Engineering{color[ffff]}\n{[0001|0d00]}Braxton DeHate\nCeleste Elofson\nDavid White\nDevin Cavness\nGreg Hall\nKeegan Tompkins\nLance Dobransky\nRiley Garvan\nTaylor Guy{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Additional Engineering{[0001|0d00]}{color[ffff]}\nGabe Miller\nJonathan Johnson{size[6400]}{[0001|ffff]}
+Credits_02	{[0001|0d00]}{size[6400]}\n{color[0600]}{[0001|0800]}Technical Advisor{[0001|0d00]}{color[ffff]}\nRory Johnston{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Audio Lead{[0001|0d00]}{color[ffff]}\nJames Phillipsen\n\n{[0001|0800]}{color[0600]}Audio{color[ffff]}{[0001|0d00]}\nEric Pansulla\nIna Almacen\n\n{color[0600]}{[0001|0800]}Project Management{[0001|0d00]}{color[ffff]}\nHitomi Naitoh\nYuko Sasano{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0d00]}{[0001|0800]}{color[0600]}Translation {color[ffff]}{[0001|0d00]}\nDavid Carlson\nLaura Nelson\nNami Jamesson{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Operations & IT{[0001|0d00]}{color[ffff]}\nGeoff Phoenix\nKaren Ishikawa\nNobuyo Johnston\nSean Lutterman\n\n{color[0600]}{[0001|0800]}Studio Director{[0001|0d00]}{color[ffff]}\nTim Bechtel\n\n{color[0600]}{[0001|0800]}Music Production by{[0001|0d00]}{color[ffff]}\nSchwedbeast Studios LLC\nLawrence Schwedler\nBruce Stark\nDavid Kitay\nTacket Brown\nGreg Dixon{[0001|ffff]}{size[6400]}\n
+Credits_03	{size[6400]}{[0001|0d00]}{[0001|0800]}{color[0600]}Musicians{color[ffff]}{[0001|0d00]}\nNayoung Ham\nJohn Kim{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Eric Likkel\nPat Nelson\nStephen O'Bent\nCarey Rayburn\nBrian Schmidt\nBrian Shaw{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Cutscene Production by{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Waterproof Studios\nAaron Zacher\nAlbert Lim\nBennett Ewanchyna\nCarl Whiteside\nChristian Trineer\nDaniel Dorfer\nDuncan Shields\nFiona Wei\nIdeet Sharon\nJenny Kong\nJohn Catlin\nJo'Sun Fu\nLucy Zhu\nMarc Stephenson\nMartin Kumor\nMax Wahyudi\nMelody Pan\nNick Lacasse\nPaul Buda\nStephanie Siu\nZeke Norton\n\n{[0001|0800]}{color[0600]}Voice{color[ffff]}\n{[0001|0d00]}Charles Martinet{[0001|0800]}{[0001|0d00]}\nSam Kelly{[0001|ffff]}{size[6400]}
+Credits_04	{size[6400]}{[0001|0d00]}Takashi Nagasako\nNate Bihldorff\nSanae Uchida\nLawrence Schwedler\n\n{color[0600]}{[0001|0800]}Testing Team\n\nTesting Management{[0001|0d00]}{color[ffff]}\nRyuji Hamaguchi\nRina Tsutsumi\n\n{color[0600]}{[0001|0800]}Testing {[0001|0d00]}{color[ffff]}\nAika Kanezashi\nTaiki Maeda\nKoki Daio\nMasafumi Yamashita\nEri Nakagawa\n\nMario Club Co., Ltd.\nSHIFT Inc.\n\n{color[0600]}{[0001|0800]}Nintendo{[0001|0d00]}{color[ffff]}\n\n{[0001|0800]}{color[0600]}NOA Localization Management{color[ffff]}{[0001|0d00]}\nReiko Ninomiya\nÁlex Zarza\nMichael Benedetto\nNicko Gonzalez\nRich Amtower\nThaddée Wiseur\nTim O'Leary\n\n{color[0600]}{[0001|0800]}NOA Localization{[0001|0d00]}{color[ffff]}\nCarolina Quesada\nCésar Pérez\nErin Peterson\nKris Copeland{[0001|ffff]}{size[6400]}
+Credits_05	{size[6400]}{[0001|0d00]}Ludovic Tientcheu Ponkin\nRob Heiret\nSam AbouHarb\nSara Hoad\nSarah Rhaloui\nYanett Cepeda Valor\n\n{[0001|0800]}{color[0600]}NOE Localisation Producers{color[ffff]}{[0001|0d00]}\nFederico Maggi\nGiaime Carbonara\nSid-Damien Rosenau{[0001|ffff]}{size[6400]}\n\n{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}NOE Translation{[0001|0d00]}{color[ffff]}\nBlanca Hueso Taulés\nDanielle Jorgenson-Murray\nDavid Caussèque{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Laurent Godinot\nBarbara Pisani\nBruno Gramigna\nMichael Hussinger\nSebastian Brück\nRaúl Guerrero Plaza\nSofía Marín Aguilar-Galindo\nCarsten Harmans\nPatrick Koudstaal{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}ASIA Localization Coordination{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Yayun Ling\nSoonil Kim{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NHT Localization{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Sean Shen\nMonica Lai\nEiju Umemura\nWeiming Chen\nMike Kan{[0001|ffff]}{size[6400]}\n
+Credits_06	{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}iQue Localization{[0001|0d00]}{color[ffff]}\nXinyi Pu\nXiaochun Qiu\nHuiming Hu{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}NOK Localization{[0001|0d00]}{color[ffff]}\nDongyeon Kim\nJihyuen Yoo\nYunjin Park\nKiung Seoung\nInseon Song\n\n{color[0600]}{[0001|0800]}NOA Product Testing{[0001|0d00]}{color[ffff]}\nTomo Ishiyama\nQ Dequina\nTomoko Mikami\nHitoshi Nishizawa\nDaijiro Imoto\nBrian Carlson\nChris Kuehnberger\nStephen Ward\nMiyuki Matsunaga\nMadison Levitan\nAndy Von Arx\nDanny Morris\nJesse Olaguez\nRyan Bristol\nTori Arvisais\nMichael Sahlin\nJames Dillon\nJosh Yagi-Stanton\nPaul Gardner\nCatherine Hoffman\nMoe Alabdullatif\nCristian Castellanos\nKyle Hayden\nJade House{[0001|ffff]}{size[6400]}
+Credits_07	{size[6400]}{[0001|0d00]}Na'jee Jackson\nSean Kennedy{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Wei-Wei Lin{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Alec Linnenkamp\nCasey Longest\nEvan Lobenstein\nGigi Luna\nNicholas Matz\nJosiah Moeller\nJonathan Ota\nJordan Price\nJosh Ratsavong\nMaxwell Stevens\nLaura Vinado\nAlyssa Yuhl\nProduct Testing Technicians{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NOE Quality Assurance{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Pasquale Gianluca Miceli\nDamien Brichard\nLaurent Siddi\nVeronica Casi\nZoran Tasevski\nJulio Manzaneda Medina{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Nils Dudal\n\n{color[0600]}{[0001|0800]}Coordination{[0001|0d00]}{color[ffff]}\nHitomi Koda\nMisaki Hiraga\n\n{color[0600]}{[0001|0800]}Japanese Localization{[0001|0d00]}{color[ffff]}\nNanami Tsuruta{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Artwork{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Haruka Tokida\nJunichi Usui\nKanae Dohta{[0001|ffff]}{size[6400]}
+Credits_08	{size[6400]}{[0001|0d00]}Ryusuke Yoshida\nTakayoshi Matsui\nYuki Kozuma\n\n{color[0600]}{[0001|0800]}Technical Support{[0001|0d00]}{color[ffff]}\nKazuki Tsukuda\n\n{color[0600]}{[0001|0800]}Sound Supervisors{[0001|0d00]}{color[ffff]}\nTakahiro Watanabe\nMahito Yokota\n\n{color[0600]}{[0001|0800]}Graphic Supervisors{[0001|0d00]}{color[ffff]}\nTomoyoshi Yamane\nFumiko Miyamoto\n\n\nBased on the Work of the\nOriginal Development Staff\n\nBasé sur le travail de l'équipe \nde développement originale\n\n\n{color[0600]}{[0001|0800]}Project Manager{[0001|0d00]}{color[ffff]}\nToyokazu Nonaka{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Associate Producer{[0001|0d00]}{color[ffff]}\nMasamichi Abe\n\n{color[0600]}{[0001|0800]}Producers{[0001|0d00]}{color[ffff]}\nShinya Saito\nTakao Nakano\n\n{color[0600]}{[0001|0800]}General Producer{[0001|0d00]}{color[ffff]}\nShinya Takahashi{[0001|ffff]}\n{color[0600]}{[0001|0800]}\nExecutive Producer{[0001|ffff]}{color[ffff]}{size[6400]}
+Credits_09	{size[6400]}{[0001|0d00]}Shuntaro Furukawa{[0001|ffff]}{size[6400]}
+StaticMsg\ModeNames.msbt
+Mode_00	Casual Style
+Mode_01	Classic Style
+Mode_02	Two-Player Mode
+ChangeMode_1P	Change Play Style
+ChangeMode_2P	Exit Two-Player Mode
+TimeAttack	{[0208|0600300030003000]}{size[5000]}.{[0209|040030003000]}{size[6400]}
+StaticMsg\WorldNames.msbt
+World_01c	Mario Toy Company
+World_01d	Mario Toy Factory
+World_02c	Donkey Kong Jungle
+World_02d	Donkey Kong Jungle Plus
+World_03c	Fire Mountain
+World_03d	Fire Mountain Plus
+World_04c	Merry Mini-Land
+World_04d	Merry Mini-Land Plus
+World_05c	Spooky House
+World_05d	Spooky House Plus
+World_06c	Slippery Summit
+World_06d	Slippery Summit Plus
+World_07c	Mystic Forest
+World_07d	Mystic Forest Plus
+World_08c	Twilight City
+World_08d	Twilight City Plus
+World_09c	vs. Donkey Kong
+World_09d	vs. Donkey Kong Plus
+World_10c	Expert
+World_10d	Expert
+Level_00	Level {[0204|02003100]}-{[0205|02003000]}
+Level_01	All Cleared!
+Expert	EX

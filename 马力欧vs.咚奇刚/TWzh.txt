@@ -1,0 +1,421 @@
+LayoutMsg\ActionGuideMenu_00.msbt
+L_SingleJoyConPage-T_ActivateCamera_Dual_00	{[0001|1400]} 關卡瀏覽{[0001|ffff]}
+L_SingleJoyConPage-T_ActivateCamera_Dual_01	{[0001|1400]} 關卡瀏覽{[0001|ffff]}
+L_SingleJoyConPage-T_Grab_Dual_00	{[0001|1400]} /  拿起{[0001|ffff]}
+L_SingleJoyConPage-T_Jump_Dual_00	{[0001|1400]} /  跳躍{[0001|ffff]}
+L_SingleJoyConPage-T_Move_Dual_00	{[0001|1400]} 移動{[0001|ffff]}
+L_SingleJoyConPage-T_Grab_Dual_01	{[0001|1400]} /  拿起{[0001|ffff]}
+L_SingleJoyConPage-T_Move_Dual_01	{[0001|1400]} 移動{[0001|ffff]}
+L_SingleJoyConPage-T_Jump_Dual_01	{[0001|1400]} /  跳躍{[0001|ffff]}
+L_DualJoyConPage-T_Move_Dual	{[0001|1400]} /  移動{[0001|ffff]}
+L_DualJoyConPage-T_ActivateCamera_Dual	{[0001|1400]} 關卡瀏覽{[0001|ffff]}
+L_DualJoyConPage-T_Grab_Dual	{[0001|1400]} /  拿起{[0001|ffff]}
+L_DualJoyConPage-T_Jump_Dual	{[0001|1400]} /  跳躍{[0001|ffff]}
+Tab_00	{[0001|0b00]}左右握持{[0001|ffff]}Joy-Con
+Tab_01	{[0001|0b00]}橫握{[0001|ffff]}Joy-Con
+Tab_02	{[0001|0b00]}動作指南{[0001|ffff]}
+Basic_Move_00	{[0001|1400]}{size[7800]}移動{size[6400]}{[0001|ffff]}
+Basic_JC2_00	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Basic_JC1_00	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Basic_Move_01	{size[7800]}{[0001|1400]}跳躍{[0001|ffff]}{size[6400]}
+Basic_JC2_01	{size[7800]}{[0001|1400]}/{[0001|ffff]}{size[6400]}
+Basic_JC1_01	{size[7800]}{[0001|1400]}/{[0001|ffff]}{size[6400]}
+Basic_Move_02	{size[7800]}{[0001|1400]}蹲下{[0001|ffff]}{size[6400]}
+Basic_JC2_02	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Basic_JC1_02	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Basic_Move_03	{size[7800]}{[0001|1400]}拿起{[0001|ffff]}{size[6400]}
+Basic_JC2_03	{size[7800]}{[0001|1400]}/{[0001|ffff]}{size[6400]}
+Basic_JC1_03	{size[7800]}{[0001|1400]}/{[0001|ffff]}{size[6400]}
+Basic_Move_04	{size[7800]}{[0001|1400]}投擲{[0001|ffff]}{size[6400]}
+Basic_JC2_04	{size[7800]}{[0001|1400]}拿著道具或敵人時 /{[0001|ffff]}{size[6400]}
+Basic_JC1_04	{size[7800]}{[0001|1400]}拿著道具或敵人時 /{[0001|ffff]}{size[6400]}
+Basic_Move_05	{size[7800]}{[0001|1400]}往上投擲{[0001|ffff]}{size[6400]}
+Basic_JC2_05	{size[7800]}{[0001|1400]}{[0001|ffff]}{[0001|1400]} + /{[0001|ffff]}{size[6400]}
+Basic_JC1_05	{size[7800]}{[0001|1400]}{[0001|ffff]}{[0001|1400]} + /{[0001|ffff]}{size[6400]}
+Advanced_Move_00	{size[7800]}{[0001|1400]}倒立{[0001|ffff]}{size[6400]}
+Advanced_JC2_00	{size[7800]}{[0001|1400]}{[0001|ffff]}{[0001|1400]} + /{[0001|ffff]}{size[6400]}
+Advanced_JC1_00	{size[7800]}{[0001|1400]}{[0001|ffff]}{[0001|1400]} + /{[0001|ffff]}{size[6400]}
+Advanced_Move_01	{size[7800]}{[0001|1400]}倒立跳{[0001|ffff]}{size[6400]}
+Advanced_JC2_01	{size[7800]}{[0001|1400]}倒立時 /{[0001|ffff]}{size[6400]}
+Advanced_JC1_01	{size[7800]}{[0001|1400]}倒立時 /{[0001|ffff]}{size[6400]}
+Advanced_Move_02	{size[7800]}{[0001|1400]}倒立二重跳{[0001|ffff]}{size[6400]}
+Advanced_JC2_02	{size[7800]}{[0001|1400]}倒立跳落地的同時 /{[0001|ffff]}{size[6400]}
+Advanced_JC1_02	{size[7800]}{[0001|1400]}倒立跳落地的同時 /{[0001|ffff]}{size[6400]}
+Advanced_Move_03	{size[7800]}{[0001|1400]}後空翻{[0001|ffff]}{size[6400]}
+Advanced_JC2_03	{size[7800]}{[0001|1400]}移動中往反方向推動 \n再按 /{[0001|ffff]}{size[6400]}
+Advanced_JC1_03	{size[7800]}{[0001|1400]}移動中往反方向推動 \n再按 /{[0001|ffff]}{size[6400]}
+Wire_Move_00	{size[7800]}{[0001|1400]}抓住鋼索{[0001|ffff]}{size[6400]}
+Wire_JC2_00	{size[7800]}{[0001|1400]}在鋼索附近 {[0001|ffff]}{size[6400]}
+Wire_JC1_00	{size[7800]}{[0001|1400]}在鋼索附近 {[0001|ffff]}{size[6400]}
+Wire_Move_01	{size[7800]}{[0001|1400]}大車輪{[0001|ffff]}{size[6400]}
+Wire_JC2_01	{size[7800]}{[0001|1400]}抓住鋼索時 {[0001|ffff]}{size[6400]}
+Wire_JC1_01	{size[7800]}{[0001|1400]}抓住鋼索時 {[0001|ffff]}{size[6400]}
+Wire_Move_02	{size[7800]}{[0001|1400]}大車輪跳躍{[0001|ffff]}{size[6400]}
+Wire_JC2_02	{size[7800]}{[0001|1400]}旋轉中 / {[0001|ffff]}{size[6400]}
+Wire_JC1_02	{size[7800]}{[0001|1400]}旋轉中 /{[0001|ffff]}{size[6400]}
+Ropes_Move_00	{size[7800]}{[0001|1400]}抓住繩子{[0001|ffff]}{size[6400]}
+Ropes_JC2_00	{size[7800]}{[0001|1400]}在繩子旁邊 /{[0001|ffff]}{size[6400]}
+Ropes_JC1_00	{size[7800]}{[0001|1400]}在繩子旁邊 /{[0001|ffff]}{size[6400]}
+Ropes_Move_01	{size[7800]}{[0001|1400]}繩子左右移動{[0001|ffff]}{size[6400]}
+Ropes_JC2_01	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Ropes_JC1_01	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Ropes_Move_02	{size[7800]}{[0001|1400]}攀爬繩子{[0001|ffff]}{size[6400]}
+Ropes_JC2_02	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Ropes_JC1_02	{size[7800]}{[0001|1400]}{[0001|ffff]}{size[6400]}
+Ropes_Move_03	{size[7800]}{[0001|1400]}繩子跳躍{[0001|ffff]}{size[6400]}
+Ropes_JC2_03	{size[7800]}{[0001|1400]}抓住繩子 /{[0001|ffff]}{size[6400]}
+Ropes_JC1_03	{size[7800]}{[0001|1400]}抓住繩子 /{[0001|ffff]}{size[6400]}
+Ropes_Move_04	{size[7800]}{[0001|1400]}放開繩子{[0001|ffff]}{size[6400]}
+Ropes_JC2_04	{size[7800]}{[0001|1400]}抓住繩子 /{[0001|ffff]}{size[6400]}
+Ropes_JC1_04	{size[7800]}{[0001|1400]}抓住繩子 /{[0001|ffff]}{size[6400]}
+Other_Move_00	{size[7800]}{[0001|1400]}利用跳台跳躍{[0001|ffff]}{size[6400]}
+Other_JC2_00	{size[7800]}{[0001|1400]}登上跳台 /{[0001|ffff]}{size[6400]}
+Other_JC1_00	{size[7800]}{[0001|1400]}登上跳台 /{[0001|ffff]}{size[6400]}
+Other_Move_01	{size[7800]}{[0001|1400]}捨棄鎚子{[0001|ffff]}{size[6400]}
+Other_JC2_01	{size[7800]}{[0001|1400]}拿著鎚子時 /{[0001|ffff]}{size[6400]}
+Other_JC1_01	{size[7800]}{[0001|1400]}拿著鎚子時 /{[0001|ffff]}{size[6400]}
+L_ActionGuidePage-L_ListItem_06-T_2PHeader	{[0001|1400]}雙人遊玩時的動作{[0001|ffff]}
+TwoPlayer_Move_00	{size[7800]}{[0001|1400]}重來肥皂泡{[0001|ffff]}{size[6400]}
+TwoPlayer_JC2_00	{size[7800]}{[0001|1400]} + {[0001|ffff]}{size[6400]}
+TwoPlayer_JC1_00	{size[7800]}{[0001|1400]} + {[0001|ffff]}{size[6400]}
+L_ActionGuidePage-T_DualJoycon	{[0001|1500]}{[0001|ffff]}
+L_ActionGuidePage-T_SingleJoycon	{[0001|1500]}{[0001|ffff]}
+L_PageHeader-Nav_Dual	{[0001|1500]}{[0001|ffff]}
+L_PageHeader-Nav_Single	{[0001|1500]}{[0001|ffff]}
+L_PageHeader-L_TabL-T_ButtonsArrowL	{[0001|1500]}{[0001|ffff]}
+L_PageHeader-L_TabR-T_ButtonsArrowR	{[0001|1500]}{[0001|ffff]}
+L_ActionGuidePage-T_Controls	{[0001|1400]}一般動作{[0001|ffff]}
+LayoutMsg\CongratsScreen.msbt
+T_WorldCleared	{[0207|2e0044006f006e006b006500790020004b006f006e00670020004a0075006e0067006c006500200050006c0075007300]} CLEAR!
+T_Congratulations	CONGRATULATIONS!
+LayoutMsg\Cutscene_Skip.msbt
+L_Skip_00-TxtRematch	{[0001|1400]}跳過{[0001|ffff]}
+LayoutMsg\Footer_00.msbt
+L_Select_01-Footer_00-00	{[0001|1400]}選擇{[0001|ffff]}
+L_ButtonB_01-Footer_00-00	{[0001|1400]}返回{[0001|ffff]}
+L_ButtonA_01-Footer_00-00	{[0001|1400]}決定{[0001|ffff]}
+L_ButtonA_01-GameGalleryMenu_00-00	{[0001|1400]}播放{[0001|ffff]}
+L_Special_00-GameMainMenu_00-00	{[0001|1400]}刪除檔案{[0001|ffff]}
+L_Special_00-GameLevelSelect_00-00	{[0001|1400]}更改難度{[0001|ffff]}
+L_Special_00-GameLevelSelect_00-01	{[0001|1400]}退出雙人遊玩{[0001|ffff]}
+L_ButtonX_00-GameLevelSelect_00-00	{[0001|1400]}計時賽{[0001|ffff]}
+L_ButtonX_01-GameGalleryMenu_00-00	{[0001|1400]}停止{[0001|ffff]}
+LayoutMsg\Gallery_00.msbt
+L_BackingWindow-T_Title	{[0001|0b00]}鑑賞室{[0001|ffff]}
+L_AudioListenerPanel-L_MusicButton-T_Btn_00	{[0001|1400]}BGM{[0001|ffff]}
+L_AudioListenerPanel-L_SE_Button-T_Btn_00	{[0001|1400]}音效{[0001|ffff]}
+L_GalleryTab_Audio-T_MiddleText	{[0001|1500]}聲音播放{[0001|ffff]}
+L_GalleryButton_00	{[0001|1500]}影片 #1{[0001|ffff]}
+L_GalleryButton_01	{[0001|1500]}影片 #2{[0001|ffff]}
+L_GalleryButton_02	{[0001|1500]}影片 #3{[0001|ffff]}
+L_GalleryButton_03	{[0001|1500]}工作人員名單 #１{[0001|ffff]}
+L_GalleryButton_04	{[0001|1500]}影片 #4{[0001|ffff]}
+L_GalleryButton_05	{[0001|1500]}影片 #5{[0001|ffff]}
+L_GalleryButton_06	{[0001|1500]}影片 #6{[0001|ffff]}
+L_GalleryButton_07	{[0001|1500]}工作人員名單 #２{[0001|ffff]}
+L_GalleryTab_Video-T_MiddleText	{[0001|1500]}過場影片{[0001|ffff]}
+L_GalleryTab_Video-L_TabL-T_ButtonsArrowL	{[0001|1500]}{[0001|ffff]}
+L_GalleryTab_Video-L_TabR-T_ButtonsArrowR	{[0001|1500]}{[0001|ffff]}
+L_GalleryTab_Audio-L_TabL-T_ButtonsArrowL	{[0001|1500]}{[0001|ffff]}
+L_GalleryTab_Audio-L_TabR-T_ButtonsArrowR	{[0001|1500]}{[0001|ffff]}
+LayoutMsg\GameConfirmation_00.msbt
+ConfirmDelete	{size[7800]}{[0001|1400]}是否要刪除{[0001|ffff]}{color[0000]}{[0001|1400]}檔案{[0001|ffff]}{[0206|02003000]}{color[ffff]}{[0001|1400]}的資料？\n刪除的檔案將無法復原。{[0001|ffff]}{size[6400]}
+ConfirmDelete_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmDelete_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmRestart	{[0001|1400]}會失去在這個關卡的進度。\n是否真的要繼續？{[0001|ffff]}
+ConfirmRestart_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmRestart_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmModeSwitch	{[0001|1400]}更改難度後，會從頭重新開始這個關卡。\n是否真的要更改難度？{[0001|ffff]}
+ConfirmModeSwitch_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmModeSwitch_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmExitLevel	{[0001|1400]}會失去在這個關卡收集到的所有禮物，\n是否真的要返回選單？{[0001|ffff]}
+ConfirmExitLevel_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmExitLevel_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmExitLevelBonus	{[0001|1400]}返回選單後，獎勵關卡會消失。\n是否真的要退出？{[0001|ffff]}
+ConfirmExitLevelBonus_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmExitLevelBonus_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmExitMainMenu2P	{[0001|1400]}返回選擇檔案後，會結束雙人遊玩。\n是否真的要返回？{[0001|ffff]}
+ConfirmExitMainMenu2P_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmExitMainMenu2P_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmLeave2P	{[0001|1400]}是否要退出雙人遊玩？\n※會斷開2P控制器。{[0001|ffff]}
+ConfirmLeave2P_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmLeave2P_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmLeave2PLevel	{[0001|1400]}退出雙人遊玩後，會從頭重新開始這個關卡。\n是否真的要退出？{[0001|ffff]}
+ConfirmLeave2PLevel_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmLeave2PLevel_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmLeave2PBonus	{[0001|1400]}退出雙人遊玩後，這個獎勵關卡也會結束。\n是否真的要退出？{[0001|ffff]}
+ConfirmLeave2PBonus_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmLeave2PBonus_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmLeave2PTimeAttack	{[0001|1400]}是否要結束雙人遊玩並遊玩計時賽？{[0001|ffff]}
+ConfirmLeave2PTimeAttack_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmLeave2PTimeAttack_RightBtn	{[0001|1400]}是{[0001|ffff]}
+ConfirmDisconnect	{[0001|1400]}是否要改變控制器的拿法？{[0001|ffff]}
+ConfirmDisconnect_LeftBtn	{[0001|1400]}否{[0001|ffff]}
+ConfirmDisconnect_RightBtn	{[0001|1400]}是{[0001|ffff]}
+LayoutMsg\GameConfirmation_01.msbt
+UnlockTimeAttackMain	{[0001|1400]}可以在主要世界中遊玩{color[0000]}計時賽{color[ffff]}了！\n\n挑戰在目標時間內通過關卡吧！\n\n※在雙人遊玩狀態下無法遊玩。{[0001|ffff]}
+UnlockTimeAttackMain_RightBtn	{[0001|1400]}OK{[0001|ffff]}
+UnlockTimeAttackPlus	{[0001|1400]}可以在＋世界中遊玩{color[0000]}計時賽{color[ffff]}了！\n\n挑戰在目標時間內通過關卡吧！\n\n※在雙人遊玩狀態下無法遊玩。{[0001|ffff]}
+UnlockTimeAttackPlus_RightBtn	{[0001|1400]}OK{[0001|ffff]}
+UnlockTimeAttackExpert	{[0001|1400]}可以遊玩高手關卡了！{[0001|ffff]}
+UnlockTimeAttackExpert_RightBtn	{[0001|1400]}OK{[0001|ffff]}
+ModeConfirmation	{[0001|1400]}可以隨時從暫停選單或選擇關卡畫面\n更改難度。{[0001|ffff]}
+ModeConfirmation_RightBtn	{[0001|1400]}OK{[0001|ffff]}
+AcknowledgeDelete	{size[7800]}{[0001|1400]}已刪除儲存資料。{[0001|ffff]}{size[6400]}
+AcknowledgeDelete_RightBtn	{[0001|1400]}OK{[0001|ffff]}
+LayoutMsg\GameLevelHUD_00.msbt
+L_Mini_00-T_In	IN
+L_Mini_01-T_In	IN
+L_Mini_02-T_In	IN
+L_Mini_03-T_In	IN
+L_Mini_04-T_In	IN
+L_Mini_05-T_In	IN
+L_Lives-T_x	x
+L_Mini_00-T_text_MISS	MISS
+L_Mini_01-T_text_MISS	MISS
+L_Mini_02-T_text_MISS	MISS
+L_Mini_03-T_text_MISS	MISS
+L_Mini_04-T_text_MISS	MISS
+L_Mini_05-T_text_MISS	MISS
+L_2P_Header-T_Join_00	{[0001|1500]}2P參加{[0001|ffff]}
+L_2P_Header-T_R_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_Plus_00	{[0001|1500]}+{[0001|ffff]}
+L_2P_Header-T_L_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_SL_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_SR_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_Pair_00	{size[7800]}{[0001|1500]}連接控制器開始雙人遊玩{[0001|ffff]}{size[6400]}
+L_Time-T_InfinitySymbol	∞
+L_Camera-T_2P_Text	2P
+L_Camera-T_1P_Text	1P
+T_TargetTimeLabel	{[0001|1400]}目標時間：{[0001|ffff]}
+LayoutMsg\GameLevelPauseMenu_00.msbt
+L_Controllers-T_BottomText	{[0001|1400]}切換拿法{[0001|ffff]}
+L_Guides-T_IconText	{[0001|1500]}?{[0001|ffff]}
+L_Guides-T_BottomText	{[0001|1400]}操作方法{[0001|ffff]}
+L_Resume-T_Btn_00	{[0001|1400]}繼續{[0001|ffff]}
+L_Restart-T_Btn_00	{[0001|1400]}重新開始關卡{[0001|ffff]}
+L_Menu-T_Btn_00	{[0001|1400]}返回選單{[0001|ffff]}
+L_2P_Header-T_Join_00	{[0001|1500]}2P參加{[0001|ffff]}
+L_2P_Header-T_R_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_Plus_00	{[0001|1500]}+{[0001|ffff]}
+L_2P_Header-T_L_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_SL_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_SR_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_Pair_00	{size[7800]}{[0001|1500]}連接控制器開始雙人遊玩{[0001|ffff]}{size[6400]}
+LayoutMsg\GameLevelSelect_00.msbt
+L_2P_Header-T_Join_00	{[0001|1500]}2P參加{[0001|ffff]}
+L_2P_Header-T_Plus_00	{[0001|1500]}+{[0001|ffff]}
+L_2P_Header-T_L_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_R_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_Pair_00	{size[7800]}{[0001|1500]}連接控制器開始雙人遊玩{[0001|ffff]}{size[6400]}
+L_2P_Header-T_SL_00	{[0001|1500]}{[0001|ffff]}
+L_2P_Header-T_SR_00	{[0001|1500]}{[0001|ffff]}
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_08-T_WorldNumber_00	DK
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+L_Zipper_00-L_W_17-T_WorldNumber_00	DK+
+L_Zipper_00-L_W_18-T_WorldNumber_00	EX1
+L_Zipper_00-L_W_19-T_WorldNumber_00	EX2
+LayoutMsg\GameLevelWin_00.msbt
+L_Star_00-T_Clear	CLEAR!
+L_Star_00-T_Perfect	PERFECT!
+L_Prompt-T_Select	{[0001|1400]}決定{[0001|ffff]}
+LayoutMsg\GameMainMenu_00.msbt
+L_SlotA-T_New_00	{[0001|0b00]}從頭開始{[0001|ffff]}
+L_SlotB-T_New_00	{[0001|0b00]}從頭開始{[0001|ffff]}
+L_SlotC-T_New_00	{[0001|0b00]}從頭開始{[0001|ffff]}
+L_SlotA-T_File_Text	{[0001|0b00]}檔案{[0001|ffff]}
+L_SlotB-T_File_Text	{[0001|0b00]}檔案{[0001|ffff]}
+L_SlotC-T_File_Text	{[0001|0b00]}檔案{[0001|ffff]}
+L_Controllers-T_BottomText	{[0001|1400]}切換拿法{[0001|ffff]}
+L_Guides-T_BottomText	{[0001|1400]}操作方法{[0001|ffff]}
+T_FileSelect_Header	{[0001|0700]}選擇檔案{[0001|ffff]}
+L_SlotA-T_Name_00	1
+L_SlotB-T_Name_00	2
+L_SlotC-T_Name_00	3
+L_Guides-T_IconText	{[0001|1500]}?{[0001|ffff]}
+SaveTimeFormat	{[0202|08003200300032003300]}/{[0201|040030003100]}/{[0200|040030003100]}     {[0203|0a00300030003a0030003000]}
+L_Gallery-T_BottomText	{[0001|1400]}鑑賞室{[0001|ffff]}
+LayoutMsg\GameModeChoice_00.msbt
+T_ModeSelectTitle	{[0001|0700]}選擇難度{[0001|ffff]}
+L_Left-T_ModeName	{[0001|1500]}悠閒{[0001|ffff]}
+L_Right-T_ModeName	{[0001|1500]}經典{[0001|ffff]}
+T_ClassicText	{[0001|1400]}此難度{color[0100]}適合熟悉遊戲的玩家{color[ffff]}{[0001|ffff]}
+T_CasualText	{[0001|1400]}此難度{color[0400]}任誰都可以輕鬆遊玩{color[ffff]}{[0001|ffff]}
+LayoutMsg\GameOver_00.msbt
+T_Text	GAME OVER
+L_Right-T_Btn_00	{[0001|1400]}繼續{[0001|ffff]}
+L_Left-T_Btn_00	{[0001|1400]}退出{[0001|ffff]}
+LayoutMsg\GameSplashScreen_00.msbt
+T_Notes_00	© Nintendo
+T_Left_00	{[0001|0b00]}請按下{[0001|ffff]}
+T_Glyph_01	+
+LayoutMsg\LevelIntro_00.msbt
+T_Text	HERE WE GO!
+T_Text_03	3
+T_Text_02	2
+T_Text_01	1
+T_Text_00	GO!
+LayoutMsg\MainCredits_00.msbt
+T_Text_Thanks	THANK YOU FOR PLAYING!
+LayoutMsg\OneUpIndicator.msbt
+T_1UP	1UP
+LayoutMsg\PickupIndicator.msbt
+Buttons	{[0303]}{[0001|1400]} / {[0001|ffff]}{[0304]}
+LayoutMsg\ThanksPlaying.msbt
+T_text_00	THANK YOU\nFOR PLAYING!
+LayoutMsg\TimeAttackIntro_00.msbt
+T_BestLabel	{[0001|1400]}過去最佳：{[0001|ffff]}
+T_TimeToBeatLabel	{[0001|1400]}目標時間：{[0001|ffff]}
+LayoutMsg\TimeAttackOutro_00.msbt
+T_Win	CLEAR!
+L_Right-T_Btn_00	{[0001|1400]}重來{[0001|ffff]}
+L_Left-T_Btn_00	{[0001|1400]}退出{[0001|ffff]}
+T_Lose	FAIL!
+T_NewBestTime	{[0001|1400]}最佳時間更新！{[0001|ffff]}
+T_TimesUp	{[0001|0600]}時間到！{[0001|ffff]}
+T_TimeLabel	{[0001|1400]}本次時間：{[0001|ffff]}
+T_BestLabel	{[0001|1400]}最佳時間：{[0001|ffff]}
+T_TimeToBeatLabel	{[0001|1400]}目標時間：{[0001|ffff]}
+LayoutMsg\TimeUp_00.msbt
+T_Text	{[0001|0600]}時間到！{[0001|ffff]}
+LayoutMsg\Tutorial_Backflip_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}後空翻{[0001|ffff]}
+T_Controls_00	{[0307]}
+T_Controls_01	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0305]}
+LayoutMsg\Tutorial_ColorSwitch_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}顏色開關{[0001|ffff]}
+T_Controls_00	{[0305]}
+LayoutMsg\Tutorial_Crouch_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}蹲下{[0001|ffff]}
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_HammerThrow_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}捨棄鎚子{[0001|ffff]}
+T_Controls_00	{[0303]}
+LayoutMsg\Tutorial_HandstandBirdEgg_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}倒立{[0001|ffff]}
+T_Description	{[0001|1400]}倒立中，不會受到掉落物的傷害。{[0001|ffff]}
+LayoutMsg\Tutorial_HandstandDoubleJump_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}倒立二重跳{[0001|ffff]}
+T_Controls_00	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0305]}
+T_Controls_01	{[0305]}
+T_Controls_02	{[0305]}
+LayoutMsg\Tutorial_HandstandJump_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}倒立跳{[0001|ffff]}
+T_Controls_00	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_HandstandWalk_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}倒立{[0001|ffff]}
+T_Description	{[0001|1400]}倒立行走中，不會受到掉落瓦礫的傷害。{[0001|ffff]}
+LayoutMsg\Tutorial_JumpUpThrow_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}跳躍投擲{[0001|ffff]}
+T_Controls_00	{[0305]}
+T_Controls_01	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0303]}
+LayoutMsg\Tutorial_PickUpEnemies_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}舉起敵人{[0001|ffff]}
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpObjects_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}舉起道具{[0001|ffff]}
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpRamRam_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}舉起敵人{[0001|ffff]}
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_SpringJump_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}利用彈簧跳躍{[0001|ffff]}
+T_Controls_00	{[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_ThrowObjectsUp_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}往上投擲{[0001|ffff]}
+T_Controls_00	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0303]}
+LayoutMsg\Tutorial_ToyBox_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}TOY板{[0001|ffff]}
+L_Tutorial-T_Description	{[0001|1400]}引導迷你瑪利歐到TOY板的位置。{[0001|ffff]}
+LayoutMsg\Tutorial_TwoHandClimb_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}用兩手抓住繩子攀爬{[0001|ffff]}
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_ViewLevel_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}關卡瀏覽{[0001|ffff]}
+T_Controls_00	{[0001|1400]}長按 {[0001|ffff]}{[0301]}
+T_Description	{[0001|1400]}在關卡瀏覽時會停止計時，\n可以仔細地確認關卡。{[0001|ffff]}
+LayoutMsg\Tutorial_WireSpinJump_00.msbt
+L_Tutorial-T_Title	{[0001|1500]}大車輪跳躍{[0001|ffff]}
+T_Controls_00	{[0307]}{[0001|1400]} + {[0001|ffff]}{[0305]}
+T_Controls_01	{[0307]}
+T_Controls_02	{[0307]}
+T_Controls_03	{[0305]}
+LayoutMsg\WorldIntro.msbt
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+StaticMsg\Credits.msbt
+Credits_00	{color[0600]}Developed by Nintendo Software Technology Corporation{color[ffff]}\n\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Game Director{[0001|0d00]}{color[ffff]}\nVivek Melwani{size[6400]}{[0001|ffff]}\n{size[6400]}{size[6400]}\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Design Lead{[0001|0d00]}{color[ffff]}\nPhilip Brodsky{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0800]}{color[0600]}Designers{color[ffff]}{[0001|ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Brandon Dulyea\nCathy Dang\nRyan Massey\nVincent Leone\n\n{[0001|0800]}{color[0600]}Art Director{color[ffff]}\n{[0001|0d00]}Trevor Johnson{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Art Leads{[0001|0d00]}{color[ffff]}\nBrian McNeely\nErica Hanson\nMarcos Gomes\nTakashi Ogomori\n\n{[0001|0800]}{color[0600]}Artists{color[ffff]}{[0001|0d00]}\nAlex Sorosy\nAlissa Cattabriga\nAmanda Melville\nAnthony Settimi\nChristine-Ariane Medina\nEdward Sherman\nGarrett Lusignan\nJosé Concha\nKimberly Towne\nMatthew Hinrichs\nMegan Hsu\nMegan Meadows{size[6400]}{[0001|ffff]}
+Credits_01	{[0001|0d00]}{size[6400]}Mochiko Lu\nSabrina Martinez\nSean Hadeler\nSean Yamura\nSharon Cheng\nSterling Skirko\nYasiman Ahsani\nZainab Asgari{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Additional Art{[0001|0d00]}{color[ffff]}\nArturo Jáuregui Osante \nEmily Hogue\nFrancisco Guerrero López\nGrace Howard\nMichael Ackerman Jr.{size[6400]}{[0001|ffff]}{size[6400]}{size[6400]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Engineering Director{[0001|0d00]}{color[ffff]}\nRyan Lynd{size[6400]}{[0001|ffff]}\n{size[6400]}\n{color[0600]}{[0001|0800]}Engineering Leads{[0001|ffff]}{color[ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Timothy Minalia\nYoonjoon Lee\n\n{[0001|0800]}{color[0600]}Engineering{color[ffff]}\n{[0001|0d00]}Braxton DeHate\nCeleste Elofson\nDavid White\nDevin Cavness\nGreg Hall\nKeegan Tompkins\nLance Dobransky\nRiley Garvan\nTaylor Guy{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Additional Engineering{[0001|0d00]}{color[ffff]}\nGabe Miller\nJonathan Johnson{size[6400]}{[0001|ffff]}
+Credits_02	{[0001|0d00]}{size[6400]}\n{color[0600]}{[0001|0800]}Technical Advisor{[0001|0d00]}{color[ffff]}\nRory Johnston{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Audio Lead{[0001|0d00]}{color[ffff]}\nJames Phillipsen\n\n{[0001|0800]}{color[0600]}Audio{color[ffff]}{[0001|0d00]}\nEric Pansulla\nIna Almacen\n\n{color[0600]}{[0001|0800]}Project Management{[0001|0d00]}{color[ffff]}\nHitomi Naitoh\nYuko Sasano{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0d00]}{[0001|0800]}{color[0600]}Translation {color[ffff]}{[0001|0d00]}\nDavid Carlson\nLaura Nelson\nNami Jamesson{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Operations & IT{[0001|0d00]}{color[ffff]}\nGeoff Phoenix\nKaren Ishikawa\nNobuyo Johnston\nSean Lutterman\n\n{color[0600]}{[0001|0800]}Studio Director{[0001|0d00]}{color[ffff]}\nTim Bechtel\n\n{color[0600]}{[0001|0800]}Music Production by{[0001|0d00]}{color[ffff]}\nSchwedbeast Studios LLC\nLawrence Schwedler\nBruce Stark\nDavid Kitay\nTacket Brown\nGreg Dixon{[0001|ffff]}{size[6400]}\n
+Credits_03	{size[6400]}{[0001|0d00]}{[0001|0800]}{color[0600]}Musicians{color[ffff]}{[0001|0d00]}\nNayoung Ham\nJohn Kim{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Eric Likkel\nPat Nelson\nStephen O'Bent\nCarey Rayburn\nBrian Schmidt\nBrian Shaw{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Cutscene Production by{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Waterproof Studios\nAaron Zacher\nAlbert Lim\nBennett Ewanchyna\nCarl Whiteside\nChristian Trineer\nDaniel Dorfer\nDuncan Shields\nFiona Wei\nIdeet Sharon\nJenny Kong\nJohn Catlin\nJo'Sun Fu\nLucy Zhu\nMarc Stephenson\nMartin Kumor\nMax Wahyudi\nMelody Pan\nNick Lacasse\nPaul Buda\nStephanie Siu\nZeke Norton\n\n{[0001|0800]}{color[0600]}Voice{color[ffff]}\n{[0001|0d00]}Charles Martinet{[0001|0800]}{[0001|0d00]}\nSam Kelly{[0001|ffff]}{size[6400]}
+Credits_04	{size[6400]}{[0001|0d00]}Takashi Nagasako\nNate Bihldorff\nSanae Uchida\nLawrence Schwedler\n\n{color[0600]}{[0001|0800]}Testing Team\n\nTesting Management{[0001|0d00]}{color[ffff]}\nRyuji Hamaguchi\nRina Tsutsumi\n\n{color[0600]}{[0001|0800]}Testing {[0001|0d00]}{color[ffff]}\nAika Kanezashi\nTaiki Maeda\nKoki Daio\nMasafumi Yamashita\nEri Nakagawa\n\nMario Club Co., Ltd.\nSHIFT Inc.\n\n{color[0600]}{[0001|0800]}Nintendo{[0001|0d00]}{color[ffff]}\n\n{[0001|0800]}{color[0600]}NOA Localization Management{color[ffff]}{[0001|0d00]}\nReiko Ninomiya\nÁlex Zarza\nMichael Benedetto\nNicko Gonzalez\nRich Amtower\nThaddée Wiseur\nTim O'Leary\n\n{color[0600]}{[0001|0800]}NOA Localization{[0001|0d00]}{color[ffff]}\nCarolina Quesada\nCésar Pérez\nErin Peterson\nKris Copeland{[0001|ffff]}{size[6400]}
+Credits_05	{size[6400]}{[0001|0d00]}Ludovic Tientcheu Ponkin\nRob Heiret\nSam AbouHarb\nSara Hoad\nSarah Rhaloui\nYanett Cepeda Valor\n\n{[0001|0800]}{color[0600]}NOE Localisation Producers{color[ffff]}{[0001|0d00]}\nFederico Maggi\nGiaime Carbonara\nSid-Damien Rosenau{[0001|ffff]}{size[6400]}\n\n{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}NOE Translation{[0001|0d00]}{color[ffff]}\nBlanca Hueso Taulés\nDanielle Jorgenson-Murray\nDavid Caussèque{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Laurent Godinot\nBarbara Pisani\nBruno Gramigna\nMichael Hussinger\nSebastian Brück\nRaúl Guerrero Plaza\nSofía Marín Aguilar-Galindo\nCarsten Harmans\nPatrick Koudstaal{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}ASIA Localization Coordination{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Yayun Ling\nSoonil Kim{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NHT Localization{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Sean Shen\nMonica Lai\nEiju Umemura\nWeiming Chen\nMike Kan{[0001|ffff]}{size[6400]}\n
+Credits_06	{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}iQue Localization{[0001|0d00]}{color[ffff]}\nXinyi Pu\nXiaochun Qiu\nHuiming Hu{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}NOK Localization{[0001|0d00]}{color[ffff]}\nDongyeon Kim\nJihyuen Yoo\nYunjin Park\nKiung Seoung\nInseon Song\n\n{color[0600]}{[0001|0800]}NOA Product Testing{[0001|0d00]}{color[ffff]}\nTomo Ishiyama\nQ Dequina\nTomoko Mikami\nHitoshi Nishizawa\nDaijiro Imoto\nBrian Carlson\nChris Kuehnberger\nStephen Ward\nMiyuki Matsunaga\nMadison Levitan\nAndy Von Arx\nDanny Morris\nJesse Olaguez\nRyan Bristol\nTori Arvisais\nMichael Sahlin\nJames Dillon\nJosh Yagi-Stanton\nPaul Gardner\nCatherine Hoffman\nMoe Alabdullatif\nCristian Castellanos\nKyle Hayden\nJade House{[0001|ffff]}{size[6400]}
+Credits_07	{size[6400]}{[0001|0d00]}Na'jee Jackson\nSean Kennedy{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Wei-Wei Lin{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Alec Linnenkamp\nCasey Longest\nEvan Lobenstein\nGigi Luna\nNicholas Matz\nJosiah Moeller\nJonathan Ota\nJordan Price\nJosh Ratsavong\nMaxwell Stevens\nLaura Vinado\nAlyssa Yuhl\nProduct Testing Technicians{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NOE Quality Assurance{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Pasquale Gianluca Miceli\nDamien Brichard\nLaurent Siddi\nVeronica Casi\nZoran Tasevski\nJulio Manzaneda Medina{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Nils Dudal\n\n{color[0600]}{[0001|0800]}Coordination{[0001|0d00]}{color[ffff]}\nHitomi Koda\nMisaki Hiraga\n\n{color[0600]}{[0001|0800]}Japanese Localization{[0001|0d00]}{color[ffff]}\nNanami Tsuruta{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Artwork{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Haruka Tokida\nJunichi Usui\nKanae Dohta{[0001|ffff]}{size[6400]}
+Credits_08	{size[6400]}{[0001|0d00]}Ryusuke Yoshida\nTakayoshi Matsui\nYuki Kozuma\n\n{color[0600]}{[0001|0800]}Technical Support{[0001|0d00]}{color[ffff]}\nKazuki Tsukuda\n\n{color[0600]}{[0001|0800]}Sound Supervisors{[0001|0d00]}{color[ffff]}\nTakahiro Watanabe\nMahito Yokota\n\n{color[0600]}{[0001|0800]}Graphic Supervisors{[0001|0d00]}{color[ffff]}\nTomoyoshi Yamane\nFumiko Miyamoto\n\n\nBased on the Work of the\nOriginal Development Staff\n\nBasé sur le travail de l'équipe \nde développement originale\n\n\n{color[0600]}{[0001|0800]}Project Manager{[0001|0d00]}{color[ffff]}\nToyokazu Nonaka{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Associate Producer{[0001|0d00]}{color[ffff]}\nMasamichi Abe\n\n{color[0600]}{[0001|0800]}Producers{[0001|0d00]}{color[ffff]}\nShinya Saito\nTakao Nakano\n\n{color[0600]}{[0001|0800]}General Producer{[0001|0d00]}{color[ffff]}\nShinya Takahashi{[0001|ffff]}\n{color[0600]}{[0001|0800]}\nExecutive Producer{[0001|ffff]}{color[ffff]}{size[6400]}
+Credits_09	{size[6400]}{[0001|0d00]}Shuntaro Furukawa{[0001|ffff]}{size[6400]}
+StaticMsg\ModeNames.msbt
+Mode_00	悠閒
+Mode_01	經典
+Mode_02	雙人遊玩
+ChangeMode_1P	更改難度
+ChangeMode_2P	退出雙人遊玩
+TimeAttack	{[0208|0600300030003000]}{size[5000]}.{[0209|040030003000]}{size[6400]}
+StaticMsg\WorldNames.msbt
+World_01c	瑪利歐‧玩具‧公司
+World_01d	瑪利歐‧玩具‧公司＋
+World_02c	咚奇叢林
+World_02d	咚奇叢林＋
+World_03c	火焰山
+World_03d	火焰山＋
+World_04c	歡樂‧迷你樂園
+World_04d	歡樂‧迷你樂園＋
+World_05c	鬼屋
+World_05d	鬼屋＋
+World_06c	滑溜溜山
+World_06d	滑溜溜山＋
+World_07c	神秘森林
+World_07d	神秘森林＋
+World_08c	暮色城市
+World_08d	暮色城市＋
+World_09c	vs. 咚奇剛
+World_09d	vs. 咚奇剛＋
+World_10c	高手關卡
+World_10d	高手關卡
+Level_00	關卡 {[0204|02003100]}-{[0205|02003000]}
+Level_01	CLEAR!
+Expert	EX

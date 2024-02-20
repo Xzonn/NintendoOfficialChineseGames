@@ -1,0 +1,421 @@
+LayoutMsg\ActionGuideMenu_00.msbt
+L_SingleJoyConPage-T_ActivateCamera_Dual_00	 ステージビュー
+L_SingleJoyConPage-T_ActivateCamera_Dual_01	 ステージビュー
+L_SingleJoyConPage-T_Grab_Dual_00	 /   もつ
+L_SingleJoyConPage-T_Jump_Dual_00	 /  ジャンプ
+L_SingleJoyConPage-T_Move_Dual_00	 いどう
+L_SingleJoyConPage-T_Grab_Dual_01	 /  もつ
+L_SingleJoyConPage-T_Move_Dual_01	 いどう
+L_SingleJoyConPage-T_Jump_Dual_01	 /  ジャンプ
+L_DualJoyConPage-T_Move_Dual	 /  いどう
+L_DualJoyConPage-T_ActivateCamera_Dual	 ステージビュー
+L_DualJoyConPage-T_Grab_Dual	 /  もつ
+L_DualJoyConPage-T_Jump_Dual	 /  ジャンプ
+Tab_00	Joy-Con 2本もち
+Tab_01	Joy-Con ヨコもち
+Tab_02	アクションガイド
+Basic_Move_00	{size[7800]}いどう{size[6400]}
+Basic_JC2_00	{size[7800]}{size[6400]}
+Basic_JC1_00	{size[7800]}{size[6400]}
+Basic_Move_01	{size[7800]}ジャンプ{size[6400]}
+Basic_JC2_01	{size[7800]}/{size[6400]}
+Basic_JC1_01	{size[7800]}/{size[6400]}
+Basic_Move_02	{size[7800]}しゃがむ{size[6400]}
+Basic_JC2_02	{size[7800]}{size[6400]}
+Basic_JC1_02	{size[7800]}{size[6400]}
+Basic_Move_03	{size[7800]}もつ{size[6400]}
+Basic_JC2_03	{size[7800]}/{size[6400]}
+Basic_JC1_03	{size[7800]}/{size[6400]}
+Basic_Move_04	{size[7800]}なげる{size[6400]}
+Basic_JC2_04	{size[7800]}アイテムやテキをもったまま\n /{size[6400]}
+Basic_JC1_04	{size[7800]}アイテムやテキをもったまま\n /{size[6400]}
+Basic_Move_05	{size[7800]}上になげる{size[6400]}
+Basic_JC2_05	{size[7800]} + /{size[6400]}
+Basic_JC1_05	{size[7800]} + /{size[6400]}
+Advanced_Move_00	{size[7800]}逆立ち{size[6400]}
+Advanced_JC2_00	{size[7800]} + /{size[6400]}
+Advanced_JC1_00	{size[7800]} + /{size[6400]}
+Advanced_Move_01	{size[7800]}逆立ち\nジャンプ{size[6400]}
+Advanced_JC2_01	{size[7800]}逆立ちしたまま /{size[6400]}
+Advanced_JC1_01	{size[7800]}逆立ちしたまま /{size[6400]}
+Advanced_Move_02	{size[7800]}逆立ち\nダブルジャンプ{size[6400]}
+Advanced_JC2_02	{size[7800]}逆立ちジャンプの着地と同時に\n /{size[6400]}
+Advanced_JC1_02	{size[7800]}逆立ちジャンプの着地と同時に\n /{size[6400]}
+Advanced_Move_03	{size[7800]}バックフリップ{size[6400]}
+Advanced_JC2_03	{size[7800]}いどう中に  で\n逆方向をむいて /{size[6400]}
+Advanced_JC1_03	{size[7800]}いどう中に  で\n逆方向をむいて /{size[6400]}
+Wire_Move_00	{size[7800]}ワイヤーにつかまる{size[6400]}
+Wire_JC2_00	{size[7800]}ワイヤーの近くで  {size[6400]}
+Wire_JC1_00	{size[7800]}ワイヤーの近くで {size[6400]}
+Wire_Move_01	{size[7800]}大車輪{size[6400]}
+Wire_JC2_01	{size[7800]}ワイヤーにつかまって {size[6400]}
+Wire_JC1_01	{size[7800]}ワイヤーにつかまって   {size[6400]}
+Wire_Move_02	{size[7800]}大車輪ジャンプ{size[6400]}
+Wire_JC2_02	{size[7800]}スピン中に / {size[6400]}
+Wire_JC1_02	{size[7800]}スピン中に /{size[6400]}
+Ropes_Move_00	{size[7800]}ロープをつかむ{size[6400]}
+Ropes_JC2_00	{size[7800]}ロープのそばで /{size[6400]}
+Ropes_JC1_00	{size[7800]}ロープのそばで /{size[6400]}
+Ropes_Move_01	{size[7800]}ロープ左右いどう{size[6400]}
+Ropes_JC2_01	{size[7800]}{size[6400]}
+Ropes_JC1_01	{size[7800]}{size[6400]}
+Ropes_Move_02	{size[7800]}ロープよじのぼり{size[6400]}
+Ropes_JC2_02	{size[7800]}{size[6400]}
+Ropes_JC1_02	{size[7800]}{size[6400]}
+Ropes_Move_03	{size[7800]}ロープジャンプ{size[6400]}
+Ropes_JC2_03	{size[7800]}ロープにつかまって/{size[6400]}
+Ropes_JC1_03	{size[7800]}ロープにつかまって /{size[6400]}
+Ropes_Move_04	{size[7800]}ロープをはなす{size[6400]}
+Ropes_JC2_04	{size[7800]}ロープにつかまって /{size[6400]}
+Ropes_JC1_04	{size[7800]}ロープにつかまって /{size[6400]}
+Other_Move_00	{size[7800]}ジャンプ台でとぶ{size[6400]}
+Other_JC2_00	{size[7800]}ジャンプ台にのって /{size[6400]}
+Other_JC1_00	{size[7800]}ジャンプ台にのって /{size[6400]}
+Other_Move_01	{size[7800]}ハンマーをすてる{size[6400]}
+Other_JC2_01	{size[7800]}ハンマーを持ったまま /{size[6400]}
+Other_JC1_01	{size[7800]}ハンマーを持ったまま /{size[6400]}
+L_ActionGuidePage-L_ListItem_06-T_2PHeader	ふたりプレイのアクション
+TwoPlayer_Move_00	{size[7800]}リトライシャボン{size[6400]}
+TwoPlayer_JC2_00	{size[7800]} + {size[6400]}
+TwoPlayer_JC1_00	{size[7800]} + {size[6400]}
+L_ActionGuidePage-T_DualJoycon	
+L_ActionGuidePage-T_SingleJoycon	
+L_PageHeader-Nav_Dual	
+L_PageHeader-Nav_Single	
+L_PageHeader-L_TabL-T_ButtonsArrowL	
+L_PageHeader-L_TabR-T_ButtonsArrowR	
+L_ActionGuidePage-T_Controls	通常アクション
+LayoutMsg\CongratsScreen.msbt
+T_WorldCleared	{[0207|2e0044006f006e006b006500790020004b006f006e00670020004a0075006e0067006c006500200050006c0075007300]} CLEAR!
+T_Congratulations	CONGRATULATIONS!
+LayoutMsg\Cutscene_Skip.msbt
+L_Skip_00-TxtRematch	スキップ
+LayoutMsg\Footer_00.msbt
+L_Select_01-Footer_00-00	えらぶ
+L_ButtonB_01-Footer_00-00	もどる
+L_ButtonA_01-Footer_00-00	決定
+L_ButtonA_01-GameGalleryMenu_00-00	再生
+L_Special_00-GameMainMenu_00-00	ファイルをけす
+L_Special_00-GameLevelSelect_00-00	むずかしさを変更
+L_Special_00-GameLevelSelect_00-01	ふたりプレイをやめる
+L_ButtonX_00-GameLevelSelect_00-00	タイムアタック
+L_ButtonX_01-GameGalleryMenu_00-00	停止
+LayoutMsg\Gallery_00.msbt
+L_BackingWindow-T_Title	ギャラリー
+L_AudioListenerPanel-L_MusicButton-T_Btn_00	BGM
+L_AudioListenerPanel-L_SE_Button-T_Btn_00	効果音
+L_GalleryTab_Audio-T_MiddleText	サウンドプレイヤー
+L_GalleryButton_00	ムービー #1
+L_GalleryButton_01	ムービー #2
+L_GalleryButton_02	ムービー #3
+L_GalleryButton_03	スタッフロール #１
+L_GalleryButton_04	ムービー #4
+L_GalleryButton_05	ムービー #5
+L_GalleryButton_06	ムービー #6
+L_GalleryButton_07	スタッフロール #２
+L_GalleryTab_Video-T_MiddleText	ムービービューア
+L_GalleryTab_Video-L_TabL-T_ButtonsArrowL	
+L_GalleryTab_Video-L_TabR-T_ButtonsArrowR	
+L_GalleryTab_Audio-L_TabL-T_ButtonsArrowL	
+L_GalleryTab_Audio-L_TabR-T_ButtonsArrowR	
+LayoutMsg\GameConfirmation_00.msbt
+ConfirmDelete	{size[7800]}{color[0000]}ファイル {[0206|02003000]} {color[ffff]}のデータを消去しますか？\n消去したファイルは、元にもどせません。{size[6400]}
+ConfirmDelete_LeftBtn	いいえ
+ConfirmDelete_RightBtn	はい
+ConfirmRestart	このステージでの進行が失われます。\n本当につづけますか？
+ConfirmRestart_LeftBtn	いいえ
+ConfirmRestart_RightBtn	はい
+ConfirmModeSwitch	むずかしさを変えると、このステージのはじめからやりなおしになります。\n本当にむずかしさを変えますか？
+ConfirmModeSwitch_LeftBtn	いいえ
+ConfirmModeSwitch_RightBtn	はい
+ConfirmExitLevel	このステージで集めたプレゼントをすべて失います。\n本当にメニューにもどりますか？
+ConfirmExitLevel_LeftBtn	いいえ
+ConfirmExitLevel_RightBtn	はい
+ConfirmExitLevelBonus	メニューにもどると、ボーナスステージはきえてしまいます。\n本当にやめますか？
+ConfirmExitLevelBonus_LeftBtn	いいえ
+ConfirmExitLevelBonus_RightBtn	はい
+ConfirmExitMainMenu2P	ファイルセレクトにもどると、ふたりプレイが終了します。\n本当にもどりますか？
+ConfirmExitMainMenu2P_LeftBtn	いいえ
+ConfirmExitMainMenu2P_RightBtn	はい
+ConfirmLeave2P	ふたりプレイをやめますか？\n※2Pコントローラーは切断されます
+ConfirmLeave2P_LeftBtn	いいえ
+ConfirmLeave2P_RightBtn	はい
+ConfirmLeave2PLevel	ふたりプレイをやめると、このステージのはじめからやりなおしになります。\n本当にやめますか？
+ConfirmLeave2PLevel_LeftBtn	いいえ
+ConfirmLeave2PLevel_RightBtn	はい
+ConfirmLeave2PBonus	ふたりプレイをやめると、このボーナスステージも終了します。\n本当にやめますか？
+ConfirmLeave2PBonus_LeftBtn	いいえ
+ConfirmLeave2PBonus_RightBtn	はい
+ConfirmLeave2PTimeAttack	ふたりプレイを終了して、タイムアタックをあそびますか？
+ConfirmLeave2PTimeAttack_LeftBtn	いいえ
+ConfirmLeave2PTimeAttack_RightBtn	はい
+ConfirmDisconnect	コントローラーの持ち方を変えますか？
+ConfirmDisconnect_LeftBtn	いいえ
+ConfirmDisconnect_RightBtn	はい
+LayoutMsg\GameConfirmation_01.msbt
+UnlockTimeAttackMain	メインワールドで{color[0000]}タイムアタック{color[ffff]}があそべるようになりました！\n\n目標タイム以内でのステージクリアにチャレンジしましょう！\n\n※ふたりプレイではあそべません。
+UnlockTimeAttackMain_RightBtn	OK
+UnlockTimeAttackPlus	プラスワールドで{color[0000]}タイムアタック{color[ffff]}があそべるようになりました！\n\n目標タイム以内でのステージクリアにチャレンジしましょう！\n\n※ふたりプレイではあそべません。
+UnlockTimeAttackPlus_RightBtn	OK
+UnlockTimeAttackExpert	エキスパートステージがあそべるようになりました！
+UnlockTimeAttackExpert_RightBtn	OK
+ModeConfirmation	ポーズメニューかステージセレクト画面から\nいつでもむずかしさを変更できます。
+ModeConfirmation_RightBtn	OK
+AcknowledgeDelete	{size[7800]}セーブデータを消去しました。{size[6400]}
+AcknowledgeDelete_RightBtn	OK
+LayoutMsg\GameLevelHUD_00.msbt
+L_Mini_00-T_In	IN
+L_Mini_01-T_In	IN
+L_Mini_02-T_In	IN
+L_Mini_03-T_In	IN
+L_Mini_04-T_In	IN
+L_Mini_05-T_In	IN
+L_Lives-T_x	x
+L_Mini_00-T_text_MISS	MISS
+L_Mini_01-T_text_MISS	MISS
+L_Mini_02-T_text_MISS	MISS
+L_Mini_03-T_text_MISS	MISS
+L_Mini_04-T_text_MISS	MISS
+L_Mini_05-T_text_MISS	MISS
+L_2P_Header-T_Join_00	2P参加
+L_2P_Header-T_R_00	
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_2P_Header-T_Pair_00	コントローラーをつないでふたりプレイ開始
+L_Time-T_InfinitySymbol	∞
+L_Camera-T_2P_Text	2P
+L_Camera-T_1P_Text	1P
+T_TargetTimeLabel	目標タイム：
+LayoutMsg\GameLevelPauseMenu_00.msbt
+L_Controllers-T_BottomText	持ち方きりかえ
+L_Guides-T_IconText	?
+L_Guides-T_BottomText	操作方法
+L_Resume-T_Btn_00	つづける
+L_Restart-T_Btn_00	ステージをやりなおす
+L_Menu-T_Btn_00	メニューへもどる
+L_2P_Header-T_Join_00	2P参加
+L_2P_Header-T_R_00	
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_2P_Header-T_Pair_00	コントローラーをつないでふたりプレイ開始
+LayoutMsg\GameLevelSelect_00.msbt
+L_2P_Header-T_Join_00	2P参加
+L_2P_Header-T_Plus_00	+
+L_2P_Header-T_L_00	
+L_2P_Header-T_R_00	
+L_2P_Header-T_Pair_00	コントローラーをつないでふたりプレイ開始
+L_2P_Header-T_SL_00	
+L_2P_Header-T_SR_00	
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_08-T_WorldNumber_00	DK
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+L_Zipper_00-L_W_17-T_WorldNumber_00	DK+
+L_Zipper_00-L_W_18-T_WorldNumber_00	EX1
+L_Zipper_00-L_W_19-T_WorldNumber_00	EX2
+LayoutMsg\GameLevelWin_00.msbt
+L_Star_00-T_Clear	CLEAR!
+L_Star_00-T_Perfect	PERFECT!
+L_Prompt-T_Select	決定
+LayoutMsg\GameMainMenu_00.msbt
+L_SlotA-T_New_00	はじめから
+L_SlotB-T_New_00	はじめから
+L_SlotC-T_New_00	はじめから
+L_SlotA-T_File_Text	ファイル
+L_SlotB-T_File_Text	ファイル
+L_SlotC-T_File_Text	ファイル
+L_Controllers-T_BottomText	持ち方きりかえ
+L_Guides-T_BottomText	操作方法
+T_FileSelect_Header	ファイルセレクト
+L_SlotA-T_Name_00	1
+L_SlotB-T_Name_00	2
+L_SlotC-T_Name_00	3
+L_Guides-T_IconText	?
+SaveTimeFormat	{[0202|08003200300032003300]}/{[0201|040030003100]}/{[0200|040030003100]}     {[0203|0a00300030003a0030003000]}
+L_Gallery-T_BottomText	ギャラリー
+LayoutMsg\GameModeChoice_00.msbt
+T_ModeSelectTitle	むずかしさをえらぶ
+L_Left-T_ModeName	カジュアル
+L_Right-T_ModeName	クラシック
+T_ClassicText	{color[0100]}ゲームになれた人向け{color[ffff]}のむずかしさ
+T_CasualText	{color[0400]}だれでも気軽に楽しめる{color[ffff]}むずかしさ
+LayoutMsg\GameOver_00.msbt
+T_Text	GAME OVER
+L_Right-T_Btn_00	つづける
+L_Left-T_Btn_00	やめる
+LayoutMsg\GameSplashScreen_00.msbt
+T_Notes_00	© Nintendo
+T_Left_00	Press
+T_Glyph_01	+
+LayoutMsg\LevelIntro_00.msbt
+T_Text	HERE WE GO!
+T_Text_03	3
+T_Text_02	2
+T_Text_01	1
+T_Text_00	GO!
+LayoutMsg\MainCredits_00.msbt
+T_Text_Thanks	THANK YOU FOR PLAYING!
+LayoutMsg\OneUpIndicator.msbt
+T_1UP	1UP
+LayoutMsg\PickupIndicator.msbt
+Buttons	{[0303]} / {[0304]}
+LayoutMsg\ThanksPlaying.msbt
+T_text_00	THANK YOU\nFOR PLAYING!
+LayoutMsg\TimeAttackIntro_00.msbt
+T_BestLabel	過去ベスト：
+T_TimeToBeatLabel	目標タイム：
+LayoutMsg\TimeAttackOutro_00.msbt
+T_Win	CLEAR!
+L_Right-T_Btn_00	リトライ
+L_Left-T_Btn_00	やめる
+T_Lose	FAIL!
+T_NewBestTime	ベストタイム更新！
+T_TimesUp	タイムアップ！
+T_TimeLabel	今回のタイム：
+T_BestLabel	ベストタイム：
+T_TimeToBeatLabel	目標タイム：
+LayoutMsg\TimeUp_00.msbt
+T_Text	タイムアップ！
+LayoutMsg\Tutorial_Backflip_00.msbt
+L_Tutorial-T_Title	バックフリップ
+T_Controls_00	{[0307]}
+T_Controls_01	{[0307]} + {[0305]}
+LayoutMsg\Tutorial_ColorSwitch_00.msbt
+L_Tutorial-T_Title	カラースイッチ
+T_Controls_00	{[0305]}
+LayoutMsg\Tutorial_Crouch_00.msbt
+L_Tutorial-T_Title	しゃがむ
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_HammerThrow_00.msbt
+L_Tutorial-T_Title	ハンマーをすてる
+T_Controls_00	{[0303]}
+LayoutMsg\Tutorial_HandstandBirdEgg_00.msbt
+L_Tutorial-T_Title	逆立ち
+T_Description	逆立ち中は、落下物のダメージを受けません。
+LayoutMsg\Tutorial_HandstandDoubleJump_00.msbt
+L_Tutorial-T_Title	逆立ちダブルジャンプ
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0305]}
+T_Controls_02	{[0305]}
+LayoutMsg\Tutorial_HandstandJump_00.msbt
+L_Tutorial-T_Title	逆立ちジャンプ
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_HandstandWalk_00.msbt
+L_Tutorial-T_Title	逆立ち
+T_Description	逆立ち歩き中は、落下してくるガレキのダメージを受けません。
+LayoutMsg\Tutorial_JumpUpThrow_00.msbt
+L_Tutorial-T_Title	ジャンプなげ
+T_Controls_00	{[0305]}
+T_Controls_01	{[0307]} + {[0303]}
+LayoutMsg\Tutorial_PickUpEnemies_00.msbt
+L_Tutorial-T_Title	テキを持ち上げる
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpObjects_00.msbt
+L_Tutorial-T_Title	アイテムを持ち上げる
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_PickUpRamRam_00.msbt
+L_Tutorial-T_Title	テキを持ち上げる
+T_Controls_00	{[0303]}
+T_Controls_01	{[0303]}
+LayoutMsg\Tutorial_SpringJump_00.msbt
+L_Tutorial-T_Title	バネでジャンプ
+T_Controls_00	{[0305]}
+T_Controls_01	{[0305]}
+LayoutMsg\Tutorial_ThrowObjectsUp_00.msbt
+L_Tutorial-T_Title	上になげる
+T_Controls_00	{[0307]} + {[0303]}
+LayoutMsg\Tutorial_ToyBox_00.msbt
+L_Tutorial-T_Title	TOYパネル
+L_Tutorial-T_Description	ミニマリオをTOYパネルまでつれていきましょう。
+LayoutMsg\Tutorial_TwoHandClimb_00.msbt
+L_Tutorial-T_Title	両手でロープをつかんでのぼる
+T_Controls_00	{[0307]}
+LayoutMsg\Tutorial_ViewLevel_00.msbt
+L_Tutorial-T_Title	ステージビュー
+T_Controls_00	{[0301]} 長押し
+T_Description	ステージビュー中はタイマーが止まり\nじっくりとステージを確認できます。
+LayoutMsg\Tutorial_WireSpinJump_00.msbt
+L_Tutorial-T_Title	大車輪ジャンプ
+T_Controls_00	{[0307]} + {[0305]}
+T_Controls_01	{[0307]}
+T_Controls_02	{[0307]}
+T_Controls_03	{[0305]}
+LayoutMsg\WorldIntro.msbt
+L_Zipper_00-L_W_00-T_WorldNumber_00	W1
+L_Zipper_00-L_W_01-T_WorldNumber_00	W2
+L_Zipper_00-L_W_02-T_WorldNumber_00	W3
+L_Zipper_00-L_W_03-T_WorldNumber_00	W4
+L_Zipper_00-L_W_04-T_WorldNumber_00	W5
+L_Zipper_00-L_W_05-T_WorldNumber_00	W6
+L_Zipper_00-L_W_06-T_WorldNumber_00	W7
+L_Zipper_00-L_W_07-T_WorldNumber_00	W8
+L_Zipper_00-L_W_09-T_WorldNumber_00	W1+
+L_Zipper_00-L_W_10-T_WorldNumber_00	W2+
+L_Zipper_00-L_W_11-T_WorldNumber_00	W3+
+L_Zipper_00-L_W_12-T_WorldNumber_00	W4+
+L_Zipper_00-L_W_13-T_WorldNumber_00	W5+
+L_Zipper_00-L_W_14-T_WorldNumber_00	W6+
+L_Zipper_00-L_W_15-T_WorldNumber_00	W7+
+L_Zipper_00-L_W_16-T_WorldNumber_00	W8+
+StaticMsg\Credits.msbt
+Credits_00	{color[0600]}Developed by Nintendo Software Technology Corporation{color[ffff]}\n\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Game Director{[0001|0d00]}{color[ffff]}\nVivek Melwani{size[6400]}{[0001|ffff]}\n{size[6400]}{size[6400]}\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Design Lead{[0001|0d00]}{color[ffff]}\nPhilip Brodsky{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0800]}{color[0600]}Designers{color[ffff]}{[0001|ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Brandon Dulyea\nCathy Dang\nRyan Massey\nVincent Leone\n\n{[0001|0800]}{color[0600]}Art Director{color[ffff]}\n{[0001|0d00]}Trevor Johnson{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Art Leads{[0001|0d00]}{color[ffff]}\nBrian McNeely\nErica Hanson\nMarcos Gomes\nTakashi Ogomori\n\n{[0001|0800]}{color[0600]}Artists{color[ffff]}{[0001|0d00]}\nAlex Sorosy\nAlissa Cattabriga\nAmanda Melville\nAnthony Settimi\nChristine-Ariane Medina\nEdward Sherman\nGarrett Lusignan\nJosé Concha\nKimberly Towne\nMatthew Hinrichs\nMegan Hsu\nMegan Meadows{size[6400]}{[0001|ffff]}
+Credits_01	{[0001|0d00]}{size[6400]}Mochiko Lu\nSabrina Martinez\nSean Hadeler\nSean Yamura\nSharon Cheng\nSterling Skirko\nYasiman Ahsani\nZainab Asgari{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Additional Art{[0001|0d00]}{color[ffff]}\nArturo Jáuregui Osante \nEmily Hogue\nFrancisco Guerrero López\nGrace Howard\nMichael Ackerman Jr.{size[6400]}{[0001|ffff]}{size[6400]}{size[6400]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Engineering Director{[0001|0d00]}{color[ffff]}\nRyan Lynd{size[6400]}{[0001|ffff]}\n{size[6400]}\n{color[0600]}{[0001|0800]}Engineering Leads{[0001|ffff]}{color[ffff]}{size[6400]}\n{[0001|0d00]}{size[6400]}Timothy Minalia\nYoonjoon Lee\n\n{[0001|0800]}{color[0600]}Engineering{color[ffff]}\n{[0001|0d00]}Braxton DeHate\nCeleste Elofson\nDavid White\nDevin Cavness\nGreg Hall\nKeegan Tompkins\nLance Dobransky\nRiley Garvan\nTaylor Guy{[0001|0800]}{[0001|0d00]}\n\n{color[0600]}{[0001|0800]}Additional Engineering{[0001|0d00]}{color[ffff]}\nGabe Miller\nJonathan Johnson{size[6400]}{[0001|ffff]}
+Credits_02	{[0001|0d00]}{size[6400]}\n{color[0600]}{[0001|0800]}Technical Advisor{[0001|0d00]}{color[ffff]}\nRory Johnston{size[6400]}{[0001|ffff]}\n\n{[0001|0d00]}{size[6400]}{color[0600]}{[0001|0800]}Audio Lead{[0001|0d00]}{color[ffff]}\nJames Phillipsen\n\n{[0001|0800]}{color[0600]}Audio{color[ffff]}{[0001|0d00]}\nEric Pansulla\nIna Almacen\n\n{color[0600]}{[0001|0800]}Project Management{[0001|0d00]}{color[ffff]}\nHitomi Naitoh\nYuko Sasano{size[6400]}{[0001|ffff]}\n{size[6400]}\n{[0001|0d00]}{[0001|0800]}{color[0600]}Translation {color[ffff]}{[0001|0d00]}\nDavid Carlson\nLaura Nelson\nNami Jamesson{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Operations & IT{[0001|0d00]}{color[ffff]}\nGeoff Phoenix\nKaren Ishikawa\nNobuyo Johnston\nSean Lutterman\n\n{color[0600]}{[0001|0800]}Studio Director{[0001|0d00]}{color[ffff]}\nTim Bechtel\n\n{color[0600]}{[0001|0800]}Music Production by{[0001|0d00]}{color[ffff]}\nSchwedbeast Studios LLC\nLawrence Schwedler\nBruce Stark\nDavid Kitay\nTacket Brown\nGreg Dixon{[0001|ffff]}{size[6400]}\n
+Credits_03	{size[6400]}{[0001|0d00]}{[0001|0800]}{color[0600]}Musicians{color[ffff]}{[0001|0d00]}\nNayoung Ham\nJohn Kim{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Eric Likkel\nPat Nelson\nStephen O'Bent\nCarey Rayburn\nBrian Schmidt\nBrian Shaw{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Cutscene Production by{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Waterproof Studios\nAaron Zacher\nAlbert Lim\nBennett Ewanchyna\nCarl Whiteside\nChristian Trineer\nDaniel Dorfer\nDuncan Shields\nFiona Wei\nIdeet Sharon\nJenny Kong\nJohn Catlin\nJo'Sun Fu\nLucy Zhu\nMarc Stephenson\nMartin Kumor\nMax Wahyudi\nMelody Pan\nNick Lacasse\nPaul Buda\nStephanie Siu\nZeke Norton\n\n{[0001|0800]}{color[0600]}Voice{color[ffff]}\n{[0001|0d00]}Charles Martinet{[0001|0800]}{[0001|0d00]}\nSam Kelly{[0001|ffff]}{size[6400]}
+Credits_04	{size[6400]}{[0001|0d00]}Takashi Nagasako\nNate Bihldorff\nSanae Uchida\nLawrence Schwedler\n\n{color[0600]}{[0001|0800]}Testing Team\n\nTesting Management{[0001|0d00]}{color[ffff]}\nRyuji Hamaguchi\nRina Tsutsumi\n\n{color[0600]}{[0001|0800]}Testing {[0001|0d00]}{color[ffff]}\nAika Kanezashi\nTaiki Maeda\nKoki Daio\nMasafumi Yamashita\nEri Nakagawa\n\nMario Club Co., Ltd.\nSHIFT Inc.\n\n{color[0600]}{[0001|0800]}Nintendo{[0001|0d00]}{color[ffff]}\n\n{[0001|0800]}{color[0600]}NOA Localization Management{color[ffff]}{[0001|0d00]}\nReiko Ninomiya\nÁlex Zarza\nMichael Benedetto\nNicko Gonzalez\nRich Amtower\nThaddée Wiseur\nTim O'Leary\n\n{color[0600]}{[0001|0800]}NOA Localization{[0001|0d00]}{color[ffff]}\nCarolina Quesada\nCésar Pérez\nErin Peterson\nKris Copeland{[0001|ffff]}{size[6400]}
+Credits_05	{size[6400]}{[0001|0d00]}Ludovic Tientcheu Ponkin\nRob Heiret\nSam AbouHarb\nSara Hoad\nSarah Rhaloui\nYanett Cepeda Valor\n\n{[0001|0800]}{color[0600]}NOE Localisation Producers{color[ffff]}{[0001|0d00]}\nFederico Maggi\nGiaime Carbonara\nSid-Damien Rosenau{[0001|ffff]}{size[6400]}\n\n{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}NOE Translation{[0001|0d00]}{color[ffff]}\nBlanca Hueso Taulés\nDanielle Jorgenson-Murray\nDavid Caussèque{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Laurent Godinot\nBarbara Pisani\nBruno Gramigna\nMichael Hussinger\nSebastian Brück\nRaúl Guerrero Plaza\nSofía Marín Aguilar-Galindo\nCarsten Harmans\nPatrick Koudstaal{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}ASIA Localization Coordination{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Yayun Ling\nSoonil Kim{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NHT Localization{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Sean Shen\nMonica Lai\nEiju Umemura\nWeiming Chen\nMike Kan{[0001|ffff]}{size[6400]}\n
+Credits_06	{size[6400]}{[0001|0d00]}{color[0600]}{[0001|0800]}iQue Localization{[0001|0d00]}{color[ffff]}\nXinyi Pu\nXiaochun Qiu\nHuiming Hu{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}NOK Localization{[0001|0d00]}{color[ffff]}\nDongyeon Kim\nJihyuen Yoo\nYunjin Park\nKiung Seoung\nInseon Song\n\n{color[0600]}{[0001|0800]}NOA Product Testing{[0001|0d00]}{color[ffff]}\nTomo Ishiyama\nQ Dequina\nTomoko Mikami\nHitoshi Nishizawa\nDaijiro Imoto\nBrian Carlson\nChris Kuehnberger\nStephen Ward\nMiyuki Matsunaga\nMadison Levitan\nAndy Von Arx\nDanny Morris\nJesse Olaguez\nRyan Bristol\nTori Arvisais\nMichael Sahlin\nJames Dillon\nJosh Yagi-Stanton\nPaul Gardner\nCatherine Hoffman\nMoe Alabdullatif\nCristian Castellanos\nKyle Hayden\nJade House{[0001|ffff]}{size[6400]}
+Credits_07	{size[6400]}{[0001|0d00]}Na'jee Jackson\nSean Kennedy{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Wei-Wei Lin{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Alec Linnenkamp\nCasey Longest\nEvan Lobenstein\nGigi Luna\nNicholas Matz\nJosiah Moeller\nJonathan Ota\nJordan Price\nJosh Ratsavong\nMaxwell Stevens\nLaura Vinado\nAlyssa Yuhl\nProduct Testing Technicians{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}NOE Quality Assurance{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Pasquale Gianluca Miceli\nDamien Brichard\nLaurent Siddi\nVeronica Casi\nZoran Tasevski\nJulio Manzaneda Medina{[0001|ffff]}{size[6400]}\n{size[6400]}{[0001|0d00]}Nils Dudal\n\n{color[0600]}{[0001|0800]}Coordination{[0001|0d00]}{color[ffff]}\nHitomi Koda\nMisaki Hiraga\n\n{color[0600]}{[0001|0800]}Japanese Localization{[0001|0d00]}{color[ffff]}\nNanami Tsuruta{[0001|ffff]}\n\n{color[0600]}{[0001|0800]}Artwork{[0001|ffff]}{color[ffff]}\n{[0001|0d00]}Haruka Tokida\nJunichi Usui\nKanae Dohta{[0001|ffff]}{size[6400]}
+Credits_08	{size[6400]}{[0001|0d00]}Ryusuke Yoshida\nTakayoshi Matsui\nYuki Kozuma\n\n{color[0600]}{[0001|0800]}Technical Support{[0001|0d00]}{color[ffff]}\nKazuki Tsukuda\n\n{color[0600]}{[0001|0800]}Sound Supervisors{[0001|0d00]}{color[ffff]}\nTakahiro Watanabe\nMahito Yokota\n\n{color[0600]}{[0001|0800]}Graphic Supervisors{[0001|0d00]}{color[ffff]}\nTomoyoshi Yamane\nFumiko Miyamoto\n\n\nBased on the Work of the\nOriginal Development Staff\n\nBasé sur le travail de l'équipe \nde développement originale\n\n\n{color[0600]}{[0001|0800]}Project Manager{[0001|0d00]}{color[ffff]}\nToyokazu Nonaka{[0001|ffff]}\n\n{[0001|0d00]}{color[0600]}{[0001|0800]}Associate Producer{[0001|0d00]}{color[ffff]}\nMasamichi Abe\n\n{color[0600]}{[0001|0800]}Producers{[0001|0d00]}{color[ffff]}\nShinya Saito\nTakao Nakano\n\n{color[0600]}{[0001|0800]}General Producer{[0001|0d00]}{color[ffff]}\nShinya Takahashi{[0001|ffff]}\n{color[0600]}{[0001|0800]}\nExecutive Producer{[0001|ffff]}{color[ffff]}{size[6400]}
+Credits_09	{size[6400]}{[0001|0d00]}Shuntaro Furukawa{[0001|ffff]}{size[6400]}
+StaticMsg\ModeNames.msbt
+Mode_00	カジュアル
+Mode_01	クラシック
+Mode_02	ふたりプレイ
+ChangeMode_1P	むずかしさを変更
+ChangeMode_2P	ふたりプレイをやめる
+TimeAttack	{[0208|0600300030003000]}{size[5000]}.{[0209|040030003000]}{size[6400]}
+StaticMsg\WorldNames.msbt
+World_01c	マリオ・トイ・カンパニー
+World_01d	マリオ・トイ・カンパニー＋
+World_02c	ドンキージャングル
+World_02d	ドンキージャングル＋
+World_03c	ファイヤーマウンテン
+World_03d	ファイヤーマウンテン＋
+World_04c	メリー・ミニランド
+World_04d	メリー・ミニランド＋
+World_05c	スプーキーハウス
+World_05d	スプーキーハウス＋
+World_06c	ツルツルマウンテン
+World_06d	ツルツルマウンテン＋
+World_07c	ミスティックフォレスト
+World_07d	ミスティックフォレスト＋
+World_08c	トワイライトシティー
+World_08d	トワイライトシティー＋
+World_09c	vs. ドンキーコング
+World_09d	vs. ドンキーコング＋
+World_10c	エキスパートステージ
+World_10d	エキスパートステージ
+Level_00	ステージ {[0204|02003100]}-{[0205|02003000]}
+Level_01	CLEAR!
+Expert	EX

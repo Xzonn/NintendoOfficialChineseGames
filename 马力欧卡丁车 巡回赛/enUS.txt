@@ -29,17 +29,20 @@ ActionScore_GoalBoost7	7th place bonus-points boost
 ActionScore_GoalBoost8	8th place bonus-points boost
 ActionScore_GuardItemByItem	Item deflected!
 ActionScore_HitObjAccelRingMobsi	Boost Ring
-ActionScore_HitObjAnchor3dsws	Anchor
 ActionScore_HitObjBarrel	Barrel
 ActionScore_HitObjBarrelBomb	Barrel Bomb
 ActionScore_HitObjBarrelBombPropeller	Barrel Bomb
 ActionScore_HitObjBasabasa	Swoop
+ActionScore_HitObjBathBomb	Bath Bomb
 ActionScore_HitObjBattan	Whomp
+ActionScore_HitObjBeachBall	Beach Ball
 ActionScore_HitObjBlockIce	Snow block
+ActionScore_HitObjBoots	Shoe
 ActionScore_HitObjBubble	Lava bubble
 ActionScore_HitObjCarBomb	Bob-omb Car
 ActionScore_HitObjCarBusRed	Bus
 ActionScore_HitObjCarBusWhite	Bus
+ActionScore_HitObjCarHanachan	Wiggler Wagon
 ActionScore_HitObjCarHatchbackGreen	Car
 ActionScore_HitObjCarHatchbackRed	Car
 ActionScore_HitObjCarMushroom	Car
@@ -59,14 +62,18 @@ ActionScore_HitObjDokan	Pipe
 ActionScore_HitObjDokanPackunSmall	Piranha Plant
 ActionScore_HitObjDossun	Thwomp
 ActionScore_HitObjDossunStar	Star Thwomp
+ActionScore_HitObjDuckToy	Toy Duck
+ActionScore_HitObjDurationEasteregg	Hippity!
+ActionScore_HitObjDurationEastereggBig	Hoppity!
 ActionScore_HitObjDurationKadomatsu	Happy New Year!
 ActionScore_HitObjDurationPumpkin	Trick or treat!
 ActionScore_HitObjDurationPumpkinBig	Trick or treat!
 ActionScore_HitObjDurationPumpkinFixed	Trick or treat!
 ActionScore_HitObjDurationTreeX	Happy Holidays!
-ActionScore_HitObjEggBig	Big egg
+ActionScore_HitObjFireBall	Ball of Fire
 ActionScore_HitObjFishBone	Fish Bone
 ActionScore_HitObjFloat	Floaty
+ActionScore_HitObjFuzzy	Fuzzy
 ActionScore_HitObjGoat	Goat
 ActionScore_HitObjHanachan	Wiggler
 ActionScore_HitObjHeyhoCarpetGreen	Flying Shy Guy
@@ -80,16 +87,21 @@ ActionScore_HitObjHeyhoMobnmAerial	Shy Guy (Ninja)
 ActionScore_HitObjHeyhoSkateBlue	Skating Shy Guy
 ActionScore_HitObjHeyhoSkateRed	Skating Shy Guy
 ActionScore_HitObjHeyhoSnowBoard	Snowboarding Shy Guy
+ActionScore_HitObjHulaHoop	Hoop
 ActionScore_HitObjInkSphere	Ink
 ActionScore_HitObjIronBall	Metal ball
+ActionScore_HitObjJellyfish	Jellybeam
 ActionScore_HitObjKakiwariBush	Wooden cutout
 ActionScore_HitObjKakiwariKuribo	Wooden cutout
 ActionScore_HitObjKakiwariPackunFlower	Wooden cutout
 ActionScore_HitObjKakiwariTeresa	Wooden cutout
 ActionScore_HitObjKiller	Banzai Bill
 ActionScore_HitObjKuribo	Goomba
+ActionScore_HitObjKuriboFloatToy	Toy Goomba
 ActionScore_HitObjLeafRed	Leaf pile
 ActionScore_HitObjPackunFlower	Piranha Plant
+ActionScore_HitObjPackunFlowerFire	Fire Piranha Plant
+ActionScore_HitObjPackunFlowerHone	Bone Piranha Plant
 ActionScore_HitObjPackunFlowerInk	Inky Piranha Plant
 ActionScore_HitObjPackunSmall	Piranha Plant
 ActionScore_HitObjPenguin	Penguin
@@ -100,20 +112,25 @@ ActionScore_HitObjPotGreen	Jar
 ActionScore_HitObjPotSnake	Snake jar
 ActionScore_HitObjPukupuku	Cheep Cheep
 ActionScore_HitObjPukupukuBeach	Cheep Cheep
+ActionScore_HitObjPukupukuMecha	Mecha Cheep
 ActionScore_HitObjPylonBlue	Traffic cone
 ActionScore_HitObjPylonRed	Traffic cone
 ActionScore_HitObjPylonYellow	Traffic cone
 ActionScore_HitObjRock	Rolling rock
+ActionScore_HitObjRockVolcano	Lava Ball
+ActionScore_HitObjSanbo	Pokey
 ActionScore_HitObjShellFish	Clampy
 ActionScore_HitObjSnowBall	Snowball
 ActionScore_HitObjSnowman	Snowperson
+ActionScore_HitObjSoccerBall	Soccer Ball
+ActionScore_HitObjSpiderweb	Spider Web
 ActionScore_HitObjStarRing	Star Ring
-ActionScore_HitObjStarRingPink	Star Ring
 ActionScore_HitObjStartGate3dsnbc	Gate Spin!
 ActionScore_HitObjStartGate3dsrrm	Gate Spin
 ActionScore_HitObjStartGateAerial	Gate Spin!
 ActionScore_HitObjStartGateCmn	Gate Spin!
 ActionScore_HitObjStartGateMobnm	Gate Spin!
+ActionScore_HitObjStartGateMobor2	Gate Spin!
 ActionScore_HitObjStartGateMobt	Gate Spin!
 ActionScore_HitObjStartGateSimple	Gate Spin!
 ActionScore_HitObjStartGateSimpleAerial	Gate Spin!
@@ -125,7 +142,6 @@ ActionScore_HitObjTrainN64	Train
 ActionScore_HitObjTramMoba	Train
 ActionScore_HitObjWanwan	Chain Chomp
 ActionScore_HitObjWanwanRolling	Chain Chomp
-ActionScore_HitObjWarpTubeRing	Star Ring
 ActionScore_InterimRankBonus1	1st place!
 ActionScore_InterimRankBonus2	2nd place!
 ActionScore_InterimRankBonus3	3rd place!
@@ -333,6 +349,7 @@ PauseWindow00_00001	Restart
 PauseWindow00_00002	Quit
 PostEffectType_DOF	Blur
 PostEffectType_DOF2	Blur x2
+PostEffectType_Fancy	Pop Art
 PostEffectType_Fisheye	Fish-Eye Lens
 PostEffectType_GrayScale	Black and White
 PostEffectType_None	No Filter
@@ -397,6 +414,7 @@ ViewModeBtnBalloon_Off	Check out different angles!
 BackKeyDisabled	The Back button cannot be used here.
 CannotUnlockScore	Cannot be raised any further.
 CantAddMii	Cannot add any more Mii characters.
+CantAgreeAppEula	{color[ffdc00ff]}Check {color[000000ff]}all of the items, then select Agree.
 CantChangeRegion	The setting from your Nintendo\r\nAccount will be applied.
 CantCheckRankingDetail	Reach tier 2 to check.
 CantRefreshNominatedProducts	You can change the lineup once per day.
@@ -446,7 +464,6 @@ NonInnerCharging	Prices cannot be obtained due to an error,\r\nor purchases are 
 NoPresent	No gifts to receive.
 Obtained	Already obtained.
 PickUpShopNominatedProductAllRefreshed	Can only be changed up to three times per day.
-PickUpShopNominatedProductAlreadyRefreshed	You can only change the lineup once per day.
 PickUpShopNominatedProductNotExistCandidate	There is nothing to change the lineup to.
 ProfileNotOpenCupScore	Unlocked after {color[ffdc00ff]}clearing three cups{color[000000ff]}.
 ProfileNotOpenProfile	Could not retrieve player information.
@@ -469,7 +486,7 @@ ShopTutorialCoinRushDisable	Cannot open right now.
 SkillLevelMax	This can't be improved any further.
 SoldOut_Item	Already exchanged.
 SoldOut_RealCurrency	Purchased.
-SoldOut_VirtualCurrency	Purchased.
+SoldOut_VirtualCurrency	Already exchanged.
 SubMenuButton_Challenge	Unlocked when you {color[ffdc00ff]}clear seven cups{color[000000ff]}.
 SubMenuButton_DriverList	Unlocked when you {color[ffdc00ff]}clear one cup{color[000000ff]}.
 SubMenuButton_FriendList	Unlocked when you {color[ffdc00ff]}clear one cup{color[000000ff]}.
@@ -647,189 +664,6 @@ sec2rows	{[0103]} sec.\r\nleft
 max2digit	99
 max3digit	999
 2.msbt
-80x-0003	Cannot access the camera roll.\r\n\r\nTo save photos, please enable\r\naccess to your camera roll\r\nvia your device's settings.
-80x-0004	Unable to save photo. There's not\r\nenough space available on your\r\ndevice. Try clearing some data\r\nand restarting.
-80x-0005	An error occurred when saving\r\ndata to the camera roll.
-80x-1420	An error has occurred.\r\n\r\nYour device may not have enough\r\nstorage space. Try deleting\r\nsome data before trying again.
-80x-2628	A communication error\r\nhas occurred.\r\n\r\nPlease try again later.
-80x-26xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-27xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-3003	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-5331	Timed out.\r\n\r\nPlease try linking again.
-80x-5333	An error has occurred.
-80x-5416	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-5417	Timed out.\r\n\r\nPlease try again later.
-80x-5418	There is an incomplete purchase.\r\nPlease select Complete Purchase\r\nfrom the Store menu.
-80x-5419	An error has occurred.
-80x-5420	An error has occurred.
-80x-5421	Timed out.\r\n\r\nPlease try again later.
-80x-5422	An error has occurred.
-80x-5424	An error has occurred.
-80x-5425	Please attempt to recover the\r\npurchased content after obtaining\r\na guardian's approval.
-80x-5426	Timed out.\r\n\r\nPlease try again later.
-80x-5427	An error has occurred.
-80x-5428	An error occurred.\r\n\r\nPlease try again later.
-80x-5429	An error occurred.\r\n\r\nPlease try again later.
-80x-5430	An error has occurred.
-80x-5433	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-5434	Timed out.\r\n\r\nPlease try again later.
-80x-5435	An error has occurred.
-80x-5436	An error has occurred.
-80x-5437	An error has occurred.
-80x-5438	An error has occurred.
-80x-6906	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-6908	Please attempt to recover the\r\npurchased content after obtaining\r\na guardian's approval.
-80x-6909	Timed out.\r\n\r\nPlease try again later.
-80x-6910	An error has occurred.
-80x-6911	An error occurred.\r\n\r\nPlease try again later.
-80x-6912	An error occurred.\r\n\r\nPlease try again later.
-80x-6913	An error has occurred.
-80x-6914	An error has occurred.
-80x-6915	An error has occurred.
-80x-7212	Your subscription cannot be used.\r\n\r\nYour device's settings may be\r\npreventing proper use of your\r\nsubscription.
-80x-7236	An error has occurred.
-80x-7257	Failed to process the subscription.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7258	Processing has been canceled.
-80x-7259	An error has occurred.
-80x-7260	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-7261	Timed out.\r\n\r\nPlease try again later.
-80x-7262	Timed out.\r\n\r\nPlease try again later.
-80x-7263	An error has occurred.
-80x-7264	An error has occurred.
-80x-7265	Timed out.\r\n\r\nPlease try again later.
-80x-7266	Timed out.\r\n\r\nPlease try again later.
-80x-7268	Timed out.\r\n\r\nPlease try again later.
-80x-7271	An error occurred.\r\n\r\nPlease try again later.
-80x-7272	An error occurred.\r\n\r\nPlease try again later.
-80x-7273	An error has occurred.
-80x-7277	An error occurred.\r\n\r\nPlease try again later.
-80x-7278	An error occurred.\r\n\r\nPlease try again later.
-80x-7279	An error has occurred.
-80x-7280	An error has occurred.
-80x-7281	Timed out.\r\n\r\nPlease try again later.
-80x-7282	An error has occurred.
-80x-7700	An error has occurred.
-81x-0201	A communication error\r\nhas occurred.\r\n\r\nPlease try again later.
-xxx-xxxx	An error has occurred.
-80x-0001	An error occurred.\r\n\r\nPlease try again later.
-80x-0002	Cannot obtain location data.\r\n\r\nLocation data is required to\r\nplay multiplayer. You can enable\r\nthis from your device's settings.
-80x-10xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-11xx	Sorry, this game is currently\r\nundergoing maintenance.\r\n\r\nPlease try again later.
-80x-12xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-13xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-1405	Service for Mario Kart Tour\r\nhas ended. Thank you for\r\nenjoying the game!
-80x-1406	In order to continue using this\r\napplication, you will need to agree to\r\nthe updated User Agreement and/or\r\nacknowledge the updated\r\nPrivacy Policy.
-80x-1407	This game cannot be used\r\nwith the country/region\r\nsetting of the Nintendo\r\nAccount you are linking to.
-80x-1408	The country/region settings of the\r\nlinked Nintendo Account have been\r\nupdated.\r\n\r\nIn order to continue using this\r\napplication, you will need to agree to\r\nthe User Agreement and accept the\r\nPrivacy Policy.
-80x-1412	Failed to link to a Nintendo\r\nAccount when the game\r\nwas previously launched.
-80x-1413	Please update to the newest version\r\nof the game to continue playing.
-80x-1413_Button_0	Check Store
-80x-1414	An update is available. Now\r\nreturning to the title screen.
-80x-1415	The servers are experiencing heavy \r\ntraffic. Your log-in request will be\r\nprocessed in the order it was received.
-80x-1416	Please update to the newest version\r\nof the game to continue playing.
-80x-1416_Button_0	Check Store
-80x-1417	Game data has been updated.\r\nThe game will now restart.
-80x-1418	The servers are currently\r\nexperiencing heavy traffic.\r\nPlease try again later.
-80x-1419	It seems that the time or date on\r\nyour device is out of sync with\r\nthe actual time and date. Please\r\ncheck your settings.
-80x-146x	Failed to obtain data from Facebook.\r\n\r\nPlease wait a little and try again.
-80x-147x	Failed to obtain data from Twitter.\r\n\r\nPlease wait a little and try again.
-80x-1502	Please restart the app to change \r\nthe payment currency.
-80x-1510	In order to continue using this\r\napplication, you will need to agree to\r\nthe updated User Agreement and/or\r\nacknowledge the updated\r\nPrivacy Policy.
-80x-1511	The Nintendo Account User\r\nAgreement and/or Privacy \r\nPolicy were updated. In order to\r\ncontinue using this application,\r\nyou will need to agree to the updated\r\nNintendo Account User Agreement\r\nand/or acknowledge the updated\r\nNintendo Account Privacy Policy.
-80x-1512	The country/region settings of the\r\nlinked Nintendo Account have been\r\nupdated.\r\n\r\nIn order to continue using this\r\napplication, you will need to agree to\r\nthe User Agreement and accept the\r\nPrivacy Policy.
-80x-17xx	It seems that the time or date on\r\nyour device is out of sync with\r\nthe actual time and date. Please\r\ncheck your settings.
-80x-20xx	Another device is currently\r\nlogged in to Mario Kart Tour\r\nusing this Nintendo Account.
-80x-21xx	This account has already\r\nbeen deleted.
-80x-22xx	Mario Kart Tour cannot be played\r\nwith this account.
-80x-23xx	Nintendo Account sign-in failed.
-80x-24xx	The Nintendo Account User\r\nAgreement and/or Privacy \r\nPolicy were updated. In order to\r\ncontinue using this application,\r\nyou will need to agree to the updated\r\nNintendo Account User Agreement\r\nand/or acknowledge the updated\r\nNintendo Account Privacy Policy.
-80x-25xx	The linked Nintendo Account\r\ncannot be verified, so Mario\r\nKart Tour cannot be played.
-80x-3009	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-3098	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-33xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-34xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-36xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-80x-37xx	Download failed. There's not enough\r\nspace available on your device. Try\r\nclearing some data and restarting.
-80x-38xx	Download failed. Your device may\r\nnot have enough storage space. Try\r\ndeleting some data before trying\r\nagain.
-80x-4501	This reward is invalid. It may be\r\nexpired.
-80x-4601	This account ID is already linked to\r\nanother game account.
-80x-4602	You currently cannot make friends.
-80x-4603	Already unlinked.
-80x-4701	You are not friends with\r\nthis player.
-80x-4703	You have not sent a friend request\r\nto this player.
-80x-4709	You have not received a friend\r\nrequest from this player.
-80x-4711	You currently cannot make friends.
-80x-4712	This player cannot\r\ncurrently make friends.
-80x-4713	You currently cannot make friends.
-80x-4715	Your total friends plus friend\r\nrequests have reached the\r\nmaximum number allowed.
-80x-5300	Linking to a Nintendo Account was\r\ncanceled.
-80x-5301	Browser cannot be activated.\r\n\r\nYour device settings may be\r\nrestricting browser use.
-80x-5303	Sign-in to the Nintendo Account\r\ncould not be completed. Please\r\ntry again.
-80x-5304	Data cannot be obtained from the\r\nNintendo Account because the\r\nfriend suggestion function is\r\ndisabled.
-80x-5305	Could not confirm the linked\r\nNintendo Account.
-80x-5310	Linking to a Nintendo Account was\r\ncanceled.
-80x-5311	The Nintendo Account you are trying\r\nto link is already linked to other\r\nMario Kart Tour save data.
-80x-5315	Linking to a Nintendo Account was\r\ncanceled.
-80x-5316	Browser cannot be activated.\r\n\r\nYour device settings may be\r\nrestricting browser use.
-80x-5317	Timed out.\r\n\r\nPlease try linking again.
-80x-5319	Linking to a Nintendo Account was\r\ncanceled.
-80x-5320	Browser cannot be activated.\r\n\r\nYour device settings may be\r\nrestricting browser use.
-80x-5321	Timed out.\r\n\r\nPlease try linking again.
-80x-5322	Linking to a Nintendo Account was\r\ncanceled.
-80x-5323	Browser cannot be activated.\r\n\r\nYour device settings may be\r\nrestricting browser use.
-80x-5324	Timed out.\r\n\r\nPlease try linking again.
-80x-5326	Timed out.\r\n\r\nPlease try linking again.
-80x-5329	Timed out.\r\n\r\nPlease try linking again.
-80x-5400	Processing has been canceled.
-80x-5401	Could not purchase.
-80x-5404	Could not purchase.
-80x-5406	Could not purchase.
-80x-5407	Processing has been canceled.
-80x-5408	Please attempt to recover\r\nthe purchased content after\r\nobtaining a guardian's approval.
-80x-5409	Purchase is restricted.
-80x-5411	Could not purchase.
-80x-5412	Please select Complete\r\nPurchase from the Store Menu.
-80x-5413	An error occurred.\r\n\r\nPlease try again later.
-80x-5414	An error occurred.\r\n\r\nPlease try again later.
-80x-5405	The recovery of purchased content\r\nhas been canceled.
-80x-5502	Player does not exist.
-80x-5602	Not enough rubies.
-80x-6801	This account ID is already\r\nlinked to another player.
-80x-6802	You currently cannot make friends.
-80x-6803	Already unlinked.
-80x-6902	Not enough rubies.
-80x-6903	Processing has been canceled.
-80x-6904	Could not purchase.
-80x-7200	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-7205	An error occurred.\r\n\r\nPlease try again later.
-80x-7208	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7209	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-7214	This Apple ID or Google Account \r\nmay be restricted from subscribing.
-80x-7215	Please attempt to recover\r\nthe purchased content after\r\nobtaining a guardian's approval.
-80x-7218	You are already subscribed.
-80x-7219	Could not purchase.
-80x-7220	Could not subscribe.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7223	Failed to process this purchase.\r\n\r\nPlease attempt to Complete\r\nPurchase at a later time.
-80x-7225	The subscription has expired.
-80x-7226	Processing has been canceled.
-80x-7228	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7231	An error occurred.\r\n\r\nPlease try again later.
-80x-7232	Failed to process the subscription.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7233	You are already subscribed\r\non a different OS.
-80x-7235	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-7238	An error occurred.\r\n\r\nPlease try again later.
-80x-7243	An error occurred.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7245	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
-80x-7250	An error occurred.\r\n\r\nPlease try again later.
-80x-7251	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple ID or Google Account.
-80x-7254	Failed to process.\r\n\r\nPlease attempt to Complete\r\nPurchase at a later time.
-80x-7256	You are already subscribed\r\non a different OS.
-80x-7400	Sorry, this game is currently\r\nundergoing maintenance.\r\n\r\nPlease try again later.
-80x-7401	Please refer to the notification\r\nfor information regarding when\r\nmultiplayer is available.
-80x-7402	Please update to the newest version\r\nof the game to play multiplayer.
-818-xxxx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-819-xxxx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
-3.msbt
 AddMiiComplete_Content	Mii added
 ApplicationExitConfirm_Content	The game will close.\r\nIs this OK?
 ApplicationExitConfirm_Button_0	Close Game
@@ -838,8 +672,8 @@ DataRepairComplete_Content	Data restore complete.\r\n\r\nReturning to title scre
 DataRepairConfirm_Title	If the game won't start...
 DataRepairConfirm_Content	Clearing cache data and\r\nredownloading the game data may\r\nallow the game to start properly.\r\n\r\n{color[ffdc00ff]}Save data will not be deleted.\r\nThis repair may take some time.\r\nIt's recommended you connect to\r\nWi-Fi before starting the download.{color[000000ff]}
 DataRepairConfirm_Button_0	Clear Cache and Repair
-EulaDisagree_Content	You cannot continue until you agree\r\nto the User Agreement and\r\nacknowledge the Privacy Policy.
-EulaDisagree_UsOrEu_Content	You cannot continue until you agree\r\nto the User Agreement and\r\nacknowledge the Privacy Policy.
+EulaDisagree_Content	You cannot continue until\r\nyou have agreed to the User\r\nAgreement and acknowledged that\r\nyou have read the Privacy Policy.
+EulaDisagree_UsOrEu_Content	You cannot access the app\r\nbecause you have not agreed to\r\nthe User Agreement and\r\nacknowledged that you have\r\nread the Privacy Policy.
 ExitLobbyConfirm_Button_0	Exit
 ExitLobbyConfirm_Content	Exit the room?
 FacebookLinked_Content	Facebook is now linked.\r\n\r\nYou'll see suggested friends who\r\nare also playing Mario Kart Tour.
@@ -866,7 +700,7 @@ GPSPermitExplanation1_Content	Nearby opponents cannot be found if\r\naccess to c
 GreetCoinSendFailed_Content	An error has occurred.\r\n\r\nYou will be able to send Greeting\r\nCoins again in 24 hours.
 IdCopyComplete_Content	ID copied.\r\n\r\nYou can paste the copied ID into\r\ntext fields, such as in e-mail.
 LackOfCoin_Content	Not enough coins.\r\n\r\nWant to check out Coin Rush to\r\ntry and get some more?
-LackOfCoin_Button_0	Proceed
+LackOfCoin_Button_0	Coin Rush
 LackOfCupConstructTicket_Content	Not enough tickets.\r\n\r\nTickets may be\r\navailable as gifts.
 LackOfCupConstructTicket_Title	Not enough tickets.
 LackOfItem_Content	Not enough tokens.\r\n\r\nYou can collect more by\r\nparticipating in races or battles.
@@ -877,7 +711,7 @@ LackOfTicket_Content	Not enough tickets.\r\n\r\nTickets may be\r\navailable as g
 LackOfTreasureBoxContents_Content	The pipe can't be fired that many\r\nmore times. Reset the pipe's\r\ncontents and then fire?
 LackOfTreasureBoxContents_Button_0	Reset
 LackOfVirtualCurrency_Content	Not enough rubies.\r\n\r\nWould you like to purchase more?
-LackOfVirtualCurrency_Button_0	Proceed
+LackOfVirtualCurrency_Button_0	Purchase Rubies
 LackOfVirtualCurrency_Title	Not Enough Rubies
 LanguageSelectAndRebootConfirm_Content	Are you sure you want to change\r\nthe language?\r\n\r\nChanging the language will return\r\nyou to the title screen.
 LanguageSelectAndRebootConfirm_Button_0	Change
@@ -892,17 +726,17 @@ NintendoAccountAlreadyLinked_Content	A Nintendo Account is already linked.
 NintendoAccountInvalidRegion_Content	This game cannot be used\r\nwith the country/region\r\nsetting of the Nintendo\r\nAccount you are linking to.
 NintendoAccountInvalidRegion_Button_0	Nintendo Account Management
 NintendoAccountLinkCancel_Content	Linking to a Nintendo Account was\r\ncanceled.
-NintendoAccountLinkDescription_Content	By linking a Nintendo Account with\r\nthe game, you can recover lost save\r\ndata. You can also use your save\r\ndata on another device by selecting\r\nLink a Nintendo Account. \r\nLink a Nintendo Account?
-NintendoAccountLinkDescription_Button_0	Link a Nintendo Account
+NintendoAccountLinkDescription_Content	Linking a Nintendo Account\r\nlets you back up your save data.\r\n\r\nLink a Nintendo Account?
+NintendoAccountLinkDescription_Button_0	Link
 NintendoAccountLinkFailed_Title	Failed to Link
 NintendoAccountLinkFailed_Content	Failed to link a Nintendo Account.
 NintendoAccountLinked_Title	Link Complete
 NintendoAccountLinked_Content	You've successfully linked to\r\nyour Nintendo Account!
 NintendoAccountRemoveComplete_Content	The account link has been removed,\r\nand save data has been deleted.\r\n\r\nPlease close the game.
-NintendoAccountRemoveConfirm1_Content	Mario Kart Tour and your Nintendo\r\nAccount will no longer be linked. {color[ffdc00ff]}All\r\nyour game data, including your game\r\nprogress, items and rubies will be\r\nlost.{color[000000ff]} You will also be unable to use\r\nyour save data on any other systems\r\nthat share it.\r\n\r\nDo you want to remove the\r\nNintendo Account link?
-NintendoAccountRemoveConfirm1_Button_0	Remove Nintendo Account link
+NintendoAccountRemoveConfirm1_Content	Removing the link between Mario\r\nKart Tour and your Nintendo\r\nAccount{color[ffdc00ff]} will delete your Mario\r\nKart Tour save data, including\r\nrubies you have purchased{color[000000ff]}.\r\n\r\nContinue?
+NintendoAccountRemoveConfirm1_Button_0	Remove link
 NintendoAccountRemoveConfirm1_Button_1	No
-NintendoAccountRemoveConfirm2_Content	{color[ffdc00ff]}Deleted save data cannot be\r\nrecovered.\r\n\r\nSave data will be deleted from all\r\nother devices using the same save\r\ndata. You will not be refunded for\r\nlost rubies.{color[000000ff]}\r\n\r\nAre you sure you want to remove\r\nthe Nintendo Account link?
+NintendoAccountRemoveConfirm2_Content	{color[ffdc00ff]}Deleted save data can not\r\nbe restored.\r\n{color[000000ff]}\r\n{color[ffdc00ff]}Deleted rubies will not be\r\nrefunded.\r\n\r\n{color[000000ff]}Do you want to remove the\r\naccount link?
 NintendoAccountRemoveConfirm2_Button_0	Delete All Save Data
 NintendoAccountRemoveConfirm2_Button_1	No
 AllSpaceNameError_Content	Your nickname cannot be blank.\r\nPlease enter a nickname.
@@ -929,8 +763,7 @@ P2PRandomMatchPremiumPassOnly_Content	You need a Gold Pass subscription\r\nto ra
 P2PSentInviteFriend_Content	Invite sent.
 PhotoLibraryPermitExplanation0_Content	You can automatically save the\r\nphotos you take by enabling\r\nthe app to access the photos\r\nand media on your device.  
 PhotoLibraryPermitExplanation1_Content	Cannot access your photos.\r\n\r\nTo save photos, please enable\r\naccess to your photos via\r\nyour device's settings.\r\n(You can still share photos on\r\nsocial media without enabling\r\naccess to your photos.)
-PickUpShopInfo_Content	The content of the Daily Spotlight\r\nchanges every day.\r\n\r\nYou can use a quick ticket to\r\nchange out the items in the Daily\r\nSpotlight lineup once a day.\r\n\r\nNotes: \r\n・There is a chance that drivers,\r\nkarts, and gliders that appear may\r\nappear again in the shop or\r\nelsewhere in the future. \r\n・If you get a driver, kart, or glider\r\nthat is already at its maximum\r\nlevel, you will receive coins instead.
-PickUpShopInfo2_Content	The content of the Daily Spotlight\r\nchanges every day.\r\n\r\nThree times per day, you can\r\nuse a quick ticket to change\r\nthe Daily Spotlight.\r\n\r\nSpotlight Shop Sales\r\nYour first purchase of drivers,\r\nkarts, and gliders that are on sale\r\nwill be for less than usual.\r\n\r\nNotes: \r\n・There is a chance that drivers,\r\nkarts, and gliders that appear may\r\nappear again in the shop or\r\nelsewhere in the future. \r\n・If you get a driver, kart, or glider\r\nthat is already at its maximum\r\nlevel, you will receive coins instead.
+PickUpShopInfo2_Content	The content of the Daily Spotlight\r\nchanges every day.\r\n\r\nThree times per day, you can\r\nuse a quick ticket to change\r\nthe Daily Spotlight.\r\n\r\nSpotlight Shop Sales:\r\nYour first exchange for drivers,\r\nkarts, and gliders that are on sale\r\nwill be for less than usual.\r\n\r\nNotes: \r\n・There is a chance that drivers,\r\nkarts, and gliders that appear may\r\nappear again in the shop or\r\nelsewhere in the future. \r\n・If you get a driver, kart, or glider\r\nthat is already at its maximum\r\nlevel, you will receive coins instead.
 PremiumChallengePurchaseCancel_Content	The Premium Challenges purchase\r\nhas been canceled.
 PremiumChallengePurchaseCancel_Title	Purchase Canceled
 PremiumChallengePurchaseLimit_Content	You can only have up to 15\r\nPremium Challenges cards.\r\n\r\nPlease try purchasing again once\r\nyou've completed the\r\nPremium Challenges you have.
@@ -989,6 +822,195 @@ VirtualCurrencyCancel_Title	Purchase Canceled
 VirtualCurrencyCancel_Content	The ruby purchase\r\nhas been canceled.
 VirtualCurrencyLimitOver_Title	Exceeds Purchase Limit
 VirtualCurrencyLimitOver_Content	Players under 20 years of age may\r\npurchase up to a certain number of\r\nrubies per month.\r\n\r\nThis purchase would exceed your\r\nmonthly limit so it cannot be\r\ncompleted.
+3.msbt
+80x-0003	Cannot access the camera roll.\r\n\r\nTo save photos, please enable\r\naccess to your camera roll\r\nvia your device's settings.
+80x-0004	Unable to save photo. There's not\r\nenough space available on your\r\ndevice. Try clearing some data\r\nand restarting.
+80x-0005	An error occurred when saving\r\ndata to the camera roll.
+80x-1420	An error has occurred.\r\n\r\nYour device may not have enough\r\nstorage space. Try deleting\r\nsome data before trying again.
+80x-2628	A communication error\r\nhas occurred.\r\n\r\nPlease try again later.
+80x-26xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-27xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-3003	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-5331	Timed out.\r\n\r\nPlease try linking again.
+80x-5333	An error has occurred.
+80x-5416	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-5417	Timed out.\r\n\r\nPlease try again later.
+80x-5418	There is an incomplete purchase.\r\nPlease select Complete Purchase\r\nfrom the Store menu.
+80x-5419	An error has occurred.
+80x-5420	An error has occurred.
+80x-5421	Timed out.\r\n\r\nPlease try again later.
+80x-5422	An error has occurred.
+80x-5424	An error has occurred.
+80x-5425	Please attempt to recover the\r\npurchased content after obtaining\r\na guardian's approval.
+80x-5426	Timed out.\r\n\r\nPlease try again later.
+80x-5427	An error has occurred.
+80x-5428	An error occurred.\r\n\r\nPlease try again later.
+80x-5429	An error occurred.\r\n\r\nPlease try again later.
+80x-5430	An error has occurred.
+80x-5433	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-5434	Timed out.\r\n\r\nPlease try again later.
+80x-5435	An error has occurred.
+80x-5436	An error has occurred.
+80x-5437	An error has occurred.
+80x-5438	An error has occurred.
+80x-6906	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-6908	Please attempt to recover the\r\npurchased content after obtaining\r\na guardian's approval.
+80x-6909	Timed out.\r\n\r\nPlease try again later.
+80x-6910	An error has occurred.
+80x-6911	An error occurred.\r\n\r\nPlease try again later.
+80x-6912	An error occurred.\r\n\r\nPlease try again later.
+80x-6913	An error has occurred.
+80x-6914	An error has occurred.
+80x-6915	An error has occurred.
+80x-7212	Your subscription cannot be used.\r\n\r\nYour device's settings may be\r\npreventing proper use of your\r\nsubscription.
+80x-7236	An error has occurred.
+80x-7257	Failed to process the subscription.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7258	Processing has been canceled.
+80x-7259	An error has occurred.
+80x-7260	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-7261	Timed out.\r\n\r\nPlease try again later.
+80x-7262	Timed out.\r\n\r\nPlease try again later.
+80x-7263	An error has occurred.
+80x-7264	An error has occurred.
+80x-7265	Timed out.\r\n\r\nPlease try again later.
+80x-7266	Timed out.\r\n\r\nPlease try again later.
+80x-7268	Timed out.\r\n\r\nPlease try again later.
+80x-7271	An error occurred.\r\n\r\nPlease try again later.
+80x-7272	An error occurred.\r\n\r\nPlease try again later.
+80x-7273	An error has occurred.
+80x-7277	An error occurred.\r\n\r\nPlease try again later.
+80x-7278	An error occurred.\r\n\r\nPlease try again later.
+80x-7279	An error has occurred.
+80x-7280	An error has occurred.
+80x-7281	Timed out.\r\n\r\nPlease try again later.
+80x-7282	An error has occurred.
+80x-7700	An error has occurred.
+81x-0201	A communication error\r\nhas occurred.\r\n\r\nPlease try again later.
+xxx-xxxx	An error has occurred.
+80x-0001	An error occurred.\r\n\r\nPlease try again later.
+80x-0002	Cannot obtain location data.\r\n\r\nLocation data is required to\r\nplay multiplayer. You can enable\r\nthis from your device's settings.
+80x-10xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-11xx	Sorry, this game is currently\r\nundergoing maintenance.\r\n\r\nPlease try again later.
+80x-12xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-13xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-1405	Service for Mario Kart Tour\r\nhas ended. Thank you for\r\nenjoying the game!
+80x-1406	In order to continue using this app,\r\nyou must agree to the User\r\nAgreement and acknowledge that\r\nyou have read the Privacy Policy.
+80x-1407	This game cannot be used\r\nwith the country/region\r\nsetting of the Nintendo\r\nAccount you are linking to.
+80x-1408	The country/region settings of the\r\nlinked Nintendo Account have been\r\nupdated.\r\n\r\nIn order to continue using this app,\r\nyou must agree to the User\r\nAgreement and acknowledge that\r\nyou have read the Privacy Policy.
+80x-1412	Failed to link to a Nintendo\r\nAccount when the game\r\nwas previously launched.
+80x-1413	Please update to the newest version\r\nof the game to continue playing.
+80x-1413_Button_0	Check Store
+80x-1414	An update is available. Now\r\nreturning to the title screen.
+80x-1415	The servers are experiencing heavy \r\ntraffic. Your log-in request will be\r\nprocessed in the order it was received.
+80x-1416	Please update to the newest version\r\nof the game to continue playing.
+80x-1416_Button_0	Check Store
+80x-1417	Game data has been updated.\r\nThe game will now restart.
+80x-1418	The servers are currently\r\nexperiencing heavy traffic.\r\nPlease try again later.
+80x-1419	It's possible that the time\r\non your device does not\r\nmatch the actual time of day.\r\nPlease check your device's\r\nclock settings.
+80x-146x	Failed to obtain data from Facebook.\r\n\r\nPlease wait a little and try again.
+80x-147x	Failed to obtain data from Twitter.\r\n\r\nPlease wait a little and try again.
+80x-1502	Please restart the app to change \r\nthe payment currency.
+80x-1510	In order to continue using this app,\r\nyou must agree to the User\r\nAgreement and acknowledge that\r\nyou have read the Privacy Policy.
+80x-1511	The Nintendo Account User\r\nAgreement and Privacy Policy\r\nwere updated. You must agree\r\nto the User Agreement and\r\nacknowledge that you have\r\nread the Privacy Policy.
+80x-1512	The country/region settings of the\r\nlinked Nintendo Account have been\r\nupdated.\r\n\r\nIn order to continue using this app,\r\nyou must agree to the User\r\nAgreement and acknowledge that\r\nyou have read the Privacy Policy.
+80x-17xx	It's possible that the time\r\non your device does not\r\nmatch the actual time of day.\r\nPlease check your device's\r\nclock settings.
+80x-20xx	Another device is currently\r\nlogged in to Mario Kart Tour\r\nusing this Nintendo Account.
+80x-21xx	This account has already\r\nbeen deleted.
+80x-22xx	Mario Kart Tour cannot be played\r\nwith this account.
+80x-23xx	You were not properly signed\r\nin to your Nintendo Account.
+80x-24xx	The Nintendo Account User\r\nAgreement and Privacy Policy\r\nwere updated. You need to agree\r\nto the updated content.
+80x-25xx	The linked Nintendo Account\r\ncannot be verified, so Mario\r\nKart Tour cannot be played.
+80x-3009	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-3098	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-33xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-34xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-36xx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-37xx	Download failed. There's not enough\r\nspace available on your device. Try\r\nclearing some data and restarting.
+80x-38xx	Download failed. Your device may\r\nnot have enough storage space. Try\r\ndeleting some data before trying\r\nagain.
+80x-4501	This reward is invalid. It may be\r\nexpired.
+80x-4601	This account ID is already linked to\r\nanother game account.
+80x-4602	Friends cannot be\r\nadded at this time.
+80x-4603	Already unlinked.
+80x-4701	You are not friends with\r\nthis player.
+80x-4703	You have not sent a friend request\r\nto this player.
+80x-4709	You have not received a friend\r\nrequest from this player.
+80x-4711	Friends cannot be\r\nadded at this time.
+80x-4712	This player cannot\r\ncurrently make friends.
+80x-4713	Friends cannot be\r\nadded at this time.
+80x-4715	Your total friends plus friend\r\nrequests have reached the\r\nmaximum number allowed.
+80x-5300	Linking to a Nintendo Account was\r\ncanceled.
+80x-5301	Cannot launch the browser.\r\n\r\nYour device's settings prevent\r\nthe browser from launching.
+80x-5303	Sign-in to the Nintendo Account\r\ncould not be completed. Please\r\ntry again.
+80x-5304	Data cannot be obtained from the\r\nNintendo Account because the\r\nfriend suggestion function is\r\ndisabled.
+80x-5305	Could not confirm the linked\r\nNintendo Account.
+80x-5310	Linking to a Nintendo Account was\r\ncanceled.
+80x-5311	This Nintendo Account is already\r\nlinked to another game account.
+80x-5315	Linking to a Nintendo Account was\r\ncanceled.
+80x-5316	Cannot launch the browser.\r\n\r\nYour device's settings prevent\r\nthe browser from launching.
+80x-5317	Timed out.\r\n\r\nPlease try linking again.
+80x-5319	Linking to a Nintendo Account was\r\ncanceled.
+80x-5320	Cannot launch the browser.\r\n\r\nYour device's settings prevent\r\nthe browser from launching.
+80x-5321	Timed out.\r\n\r\nPlease try linking again.
+80x-5322	Linking to a Nintendo Account was\r\ncanceled.
+80x-5323	Cannot launch the browser.\r\n\r\nYour device's settings prevent\r\nthe browser from launching.
+80x-5324	Timed out.\r\n\r\nPlease try linking again.
+80x-5326	Timed out.\r\n\r\nPlease try linking again.
+80x-5329	Timed out.\r\n\r\nPlease try linking again.
+80x-5400	Processing has been canceled.
+80x-5401	Could not purchase.
+80x-5404	Could not purchase.
+80x-5406	Could not purchase.
+80x-5407	Processing has been canceled.
+80x-5408	Please attempt to recover\r\nthe purchased content after\r\nobtaining a guardian's approval.
+80x-5409	Purchase is restricted.
+80x-5411	Could not purchase.
+80x-5412	Please select Complete\r\nPurchase from the Store Menu.
+80x-5413	An error occurred.\r\n\r\nPlease try again later.
+80x-5414	An error occurred.\r\n\r\nPlease try again later.
+80x-5405	The recovery of purchased content\r\nhas been canceled.
+80x-5502	Player does not exist.
+80x-5602	Not enough rubies.
+80x-6801	This account ID is already\r\nlinked to another player.
+80x-6802	Friends cannot be\r\nadded at this time.
+80x-6803	Already unlinked.
+80x-6902	Not enough rubies.
+80x-6903	Processing has been canceled.
+80x-6904	Could not purchase.
+80x-7200	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-7205	An error occurred.\r\n\r\nPlease try again later.
+80x-7208	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7209	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-7214	This Apple Account or Google Account \r\nmay be restricted from subscribing.
+80x-7215	Please attempt to recover\r\nthe purchased content after\r\nobtaining a guardian's approval.
+80x-7218	You are already subscribed.
+80x-7219	Could not purchase.
+80x-7220	Could not subscribe.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7223	Failed to process this purchase.\r\n\r\nPlease attempt to Complete\r\nPurchase at a later time.
+80x-7225	The subscription has expired.
+80x-7226	Processing has been canceled.
+80x-7228	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7231	An error occurred.\r\n\r\nPlease try again later.
+80x-7232	Failed to process the subscription.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7233	You are already subscribed\r\non a different OS.
+80x-7235	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-7238	An error occurred.\r\n\r\nPlease try again later.
+80x-7243	An error occurred.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7245	An error has occurred.\r\n\r\nYou may not be signed in to \r\nyour Google account.
+80x-7250	An error occurred.\r\n\r\nPlease try again later.
+80x-7251	Failed to obtain data.\r\n\r\nPlease verify the details of your \r\nApple Account or Google Account.
+80x-7254	Failed to process.\r\n\r\nPlease attempt to Complete\r\nPurchase at a later time.
+80x-7256	You are already subscribed\r\non a different OS.
+80x-7400	Sorry, this game is currently\r\nundergoing maintenance.\r\n\r\nPlease try again later.
+80x-7401	Please refer to the notification\r\nfor information regarding when\r\nmultiplayer is available.
+80x-7402	Please update to the newest version\r\nof the game to play multiplayer.
+80x-8400	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+80x-8401	An error has occurred.\r\n\r\nPlease update the\r\nGoogle Play Store.
+80x-8402	An error has occurred.\r\n\r\nPlease install or enable\r\nthe Google Play Store.
+80x-8403	An error has occurred.\r\n\r\nPlease update the\r\nGoogle Play Store.
+80x-8404	An error has occurred.\r\n\r\nYou may not be signed in\r\nto your Google account.
+80x-8405	An error has occurred.\r\n\r\nPlease update the\r\nGoogle Play Store.
+818-xxxx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
+819-xxxx	A communication error\r\noccurred.\r\n\r\nPlease try again later.
 4.msbt
 BackButton_LeavePvPSession	Exit
 BtnCheckBox03_00000	Team Attack
@@ -1038,7 +1060,7 @@ Celebration_Content_License	Now go tear up that track!
 Celebration_Content_OpenCc_100	Your player level has increased.\r\nA new cc has been unlocked!
 Celebration_Content_OpenCc_150	Your player level has increased.\r\nA new cc has been unlocked!
 Celebration_Content_OpenCc_200	The Gold Pass has\r\nunlocked a new cc!
-Celebration_Content_PremiumPass	You have unlocked:\r\n・ Gold Gifts!\r\n・ Gold Challenges!\r\n・ 200cc!
+Celebration_Content_PremiumPass	・Unlocked Gold Gifts!\r\n・Unlocked Gold Challenges!\r\n・Unlocked 200cc!
 Celebration_Content_UserRankUp	Increases the number of position\r\npoints received after races and battles!
 Celebration_Title_CupClear	You finished the cup!
 Celebration_Title_LeagueUp	Your tier went up!
@@ -1079,7 +1101,6 @@ DlgBootHelp00_00121	Ver.
 DlgBuySelectOpen00_00000	Daily Selects
 DlgBuySelectOpen00_00001	You can use a quick ticket\r\nto change the Daily Selects\r\nlineup.
 DlgBuySelectOpen01_00000	Daily Spotlight
-DlgBuySelectOpen01_00001	You can use a quick ticket to change\r\nthe Daily Spotlight lineup.
 DlgBuySelectOpen01_00003	Three times per day, you can use a\r\nquick ticket to change the Daily Spotlight.
 DlgCC00_00000	Choose a Speed
 DlgCharaSelect00_00006	Shop
@@ -1091,7 +1112,7 @@ DlgCourseResult00_00003	Lifetime Best
 DlgCourseResult01_00002	Tour Best
 DlgCupOpenDone00_00000	New Cup Available
 DlgCupOpenDone00_00001	Way to go! You got enough Grand Stars\r\nto open a new cup. Now get in there\r\nand burn rubber!
-DlgCurrency00_00000	To Ruby Purchase
+DlgCurrency00_00000	Purchase Rubies
 DlgCurrency00_00001	Complete Purchase
 DlgCurrency00_00002	{color[ffdc00ff]}No rubies available for purchase,\r\nor purchases restricted by the\r\ndevice settings on your OS.{color[000000ff]}
 DlgCurrency00_00003	After reviewing the note below, select\r\nthe amount you'd like to purchase.
@@ -1134,10 +1155,11 @@ DlgDrift00_00004	Slide your finger left or right to drift. {color[ffdc00ff]}This
 DlgDrift00_00005	You can change this later in Settings.
 DlgError00_00000	Support Code: 
 DlgError00_00001	Details
-DlgEula00_00001	User Agreement
-DlgEula00_00002	Privacy Policy
+DlgEula00_00000	{size[5200]}Collection and Use of Personal Data{size[6400]}
+DlgEula00_00001	{color[ffdc00ff]}USER AGREEMENT{color[000000ff]}
 DlgEula00_00003	Agree
 DlgEula00_00004	Don't Agree
+DlgEula00_00005	Privacy Policy
 DlgFesTeamConfirmation00_00000	Choose this team?
 DlgFesTeamConfirmation00_00001	You cannot change your team later.
 DlgFesTeamConfirmation00_00002	Choose team
@@ -1153,7 +1175,7 @@ DlgListTitleLanguage_00	Language
 DlgMaintenance00_00001	Maintenance period:
 DlgMaintenance00_Period	Pending
 DlgMii00_00000	Mario Kart Tour Mii Number
-DlgMii00_00001	Added Mii characters will be shown to\r\nother players in races, rankings and profiles.
+DlgMii00_00001	Added Mii characters will be shown to\r\nother players in races and rankings.
 DlgMiiAdd00_00001	Add a Mii
 DlgMiiAdd00_00002	Choose / Create a Mii
 DlgMiiAdd00_00003	Mario Kart Tour Mii Number
@@ -1172,17 +1194,17 @@ DlgMiiShareCapture00_00000	Mario Kart Tour Mii Number
 DlgNA00_00000	Nintendo Account
 DlgNA00_00002	Note: A child account can be deleted via a\r\nAdmin/Parent or guardian account.
 DlgNA00_00007	E-mail address linked to\r\nMario Kart Tour:
-DlgNA00_00008	You are signed in to a child account.
+DlgNA00_00008	You are logged in to a child account.
 DlgNA00_00009	Manage Account Information
 DlgNA00_00010	Delete Account
 DlgNA00_00011	About Nintendo Account
 DlgNAConfirm00_00000	Please Note
-DlgNAConfirm00_00001	If you're signed in to a different\r\nNintendo Account on a browser, you\r\nmay be guided to the management\r\npage of a Nintendo Account that is\r\ndifferent than the one linked to the\r\ngame.
-DlgNAConfirm00_00002	Confirm that this is the Nintendo\r\nAccount you would like to manage.
-DlgNAConfirm00_00005	You are signed in to a child account.
+DlgNAConfirm00_00001	If you're logged in to a different\r\nNintendo Account on a browser, you\r\nmay be guided to the management\r\npage of an account that is different\r\nthan the one linked to the game.
+DlgNAConfirm00_00002	Please make sure that this is the\r\naccount you would like to manage.
+DlgNAConfirm00_00005	You are logged in to a child account.
 DlgNAConfirm00_00006	OK
 DlgNAConfirm01_00000	Please Note
-DlgNAConfirm01_00001	The button below will take you to a\r\npage where you can delete your\r\nNintendo Account.\r\n\r\n{color[ffdc00ff]}Please note that if you delete your\r\nNintendo Account, you will not be\r\nable to use your Mario Kart Tour\r\ngame data or any other app data\r\nlinked with your Nintendo Account.{color[000000ff]}\r\n\r\nIf you would like to delete your\r\nNintendo Account, please read the\r\nnotes on the page you will be taken\r\nto.
+DlgNAConfirm01_00001	The button below will take you to a\r\npage where you can delete your\r\nNintendo Account.\r\n\r\n{color[ffdc00ff]}Please note that if you delete your\r\nNintendo Account, you will not be\r\nable to use your Mario Kart Tour\r\ngame data, or all other app data\r\nlinked with your Nintendo Account.{color[000000ff]}\r\n\r\nIf you would like to delete your\r\naccount, please read the notes\r\non the page you will be taken to.
 DlgNAConfirm01_00003	OK
 DlgNetPlayFriendChallenge00_00000	2-Player Challenge
 DlgNetPlayFriendChallenge00_00002	Select room type.
@@ -1222,7 +1244,7 @@ DlgSeasonReward00_00000	Get Gold Gifts by\r\nracing in tours!
 DlgSeasonReward00_00001	Earn badges from\r\nGold Challenges!
 DlgSeasonReward00_00002	Unlock 200cc races!
 DlgSeasonReward00_00005	About the Gold Pass
-DlgSeasonReward00_00006	Included in the Gold Pass:
+DlgSeasonReward00_00006	Get right away with the Gold Pass!
 DlgSeasonReward00_00007	See More
 DlgSeasonReward00_00008	Notes
 DlgSeasonReward00_00009	About Payments/Cancellations/Transfers
@@ -1233,7 +1255,7 @@ DlgSeasonReward00_00018	Benefits of a Continuous\r\nGold Pass Subscription
 DlgSeasonReward00_00019	・You can receive gifts each month you\r\nrenew your paid Gold Pass subscription.
 DlgSeasonReward00_00020	Every month
 DlgSeasonReward00_00021	Every 3 months
-DlgSeasonReward01_00000	Included in the Gold Pass:
+DlgSeasonReward01_00000	Get right away with the Gold Pass!
 DlgSeasonReward02_00000	・Special tour gifts have been added\r\n・Special challenges have been added\r\n・You can now race in every cc
 DlgSeasonReward06_00000	Aim for grade S or higher!
 DlgSeasonReward06_00001	You can subscribe to the\r\nMario Kart Tour Gold Pass\r\nfor additional benefits!
@@ -1282,7 +1304,7 @@ DlgShopSpecialOfferRecommend00_00002	Check out this limited-time deal!
 DlgShopSpecialOfferRecommend00_00003	Details
 DlgSoundVolume00_00092	Max
 DlgSoundVolume00_00094	Min
-DlgTemplate_00175	We collect and use data from this\r\ngame in accordance with our Privacy\r\nPolicy. You can use the checkbox\r\nbelow to control our collection of\r\ncrash report data and data used to\r\ncustomise your experiences with\r\nNintendo products and services.\r\n\r\nNote: Updated settings will take\r\neffect when the app is relaunched.
+DlgTemplate_00175	We collect data about your use of \r\nthis game in order to analyze crash \r\nreports and, if applicable, personalize \r\nyour experiences with Nintendo \r\nproducts and services in accordance \r\nwith our Privacy Policy.\r\n\r\nYou can control this data collection\r\nusing the check box below.
 DlgTicketTarget01_00000	Favorite Drivers
 DlgTicketTarget01_00001	Choose your favorite drivers.
 DlgTutorialBattle00_00000	{color[ffdc00ff]}Pop{color[000000ff]} your opponents' {color[ffdc00ff]}balloons{color[000000ff]}!
@@ -1318,14 +1340,14 @@ DlgWappenBook00_00000	Gold Pass
 DlgWappenBook01_00000	All challenges have been\r\ncompleted!
 DlgWappenBookContent00_00003	These challenges aren't\r\navailable yet.
 DlgWappenBookContent01_00001	About Kart Pro Challenges
-EulaContent_GdprFirst	By selecting {color[ffdc00ff]}Agree{color[000000ff]} you\r\nagree to the User Agreement\r\nand acknowledge the Privacy Policy.
-EulaContent_GdprSecond	By selecting {color[ffdc00ff]}Agree{color[000000ff]} you\r\nagree to the User Agreement\r\nand acknowledge the Privacy Policy.
-EulaContent_NotGdprFirst	By selecting {color[ffdc00ff]}Agree{color[000000ff]} you\r\nagree to the User Agreement\r\nand acknowledge the Privacy Policy.
-EulaContent_NotGdprSecond	By selecting {color[ffdc00ff]}Agree{color[000000ff]} you\r\nagree to the User Agreement\r\nand acknowledge the Privacy Policy.
-EulaTitle_First	Welcome
+EulaContent_GdprFirst_2	By checking the boxes and selecting\r\nAgree, you are agreeing to the USER\r\nAGREEMENT and acknowledge that\r\nyou have read the Privacy Policy.
+EulaContent_GdprSecond_2	By checking the boxes and selecting\r\nAgree, you are agreeing to the USER\r\nAGREEMENT and acknowledge that\r\nyou have read the Privacy Policy.
+EulaContent_NotGdprFirst_2	Please look at the following items,\r\nselect all of the ones you {color[ffdc00ff]}agree{color[000000ff]} to,\r\nthen proceed.
+EulaContent_NotGdprSecond_2	Please look at the following items,\r\nselect all of the ones you {color[ffdc00ff]}agree{color[000000ff]} to,\r\nthen proceed.
+EulaTitle_First	EULA
 EulaTitle_Second	EULA
 ExtraCoinAmount_Unknown	??
-FocusDlgShop00_00000	Let's use the five rubies you just\r\ngot to fire something from the pipe!
+FocusDlgShop00_00000	Let's use rubies to fire\r\nsomething from the pipe!
 FocusMainMenu00_00000	You can choose the pipe\r\nfrom the main menu.
 FocusMainMenu01_00000	Let's take a look\r\nat the Shop!
 FocusSubMenu00_00000	You can use rubies to fire\r\nsomething from the pipe!
@@ -1415,16 +1437,16 @@ CcDifficulty_150cc	Very Fast
 CcDifficulty_200cc	Too Fast
 CoinRaceConfirm_NotTicket	Use rubies to start Coin Rush?
 CoinRaceConfirm_Ticket	Use Coin Rush ticket(s)\r\nto start Coin Rush?
-CostButton_CoinRaceTicket	Purchase with
+CostButton_CoinRaceTicket	Redeem
 CostButton_CupConstructTicket	Use Ticket(s)
 CostButton_FirstPremiumPass	Per month after trial: 
 CostButton_NominatedProduct	Exchange
-CostButton_PremiumPass	One Month:
+CostButton_PremiumPass	Per Month: 
 CostButton_ScoreUpTicket	Raise
 CostButton_SeasonRewardPointTicketForCup	Use Ticket(s)
 CostButton_SeasonRewardPointTicketForGift	Use Ticket(s)
 CostButton_SkillTicket	Raise
-CostButton_StaminaRecovery	Purchase Hearts with
+CostButton_StaminaRecovery	Exchange
 CostButton_UnlockScoreTicket	Use Ticket(s)
 CostRestCount_Item_0	Exchanged
 CostRestCount_Item_1	1 left
@@ -1439,29 +1461,29 @@ CostRestCount_Item_8	8 left
 CostRestCount_Item_9	9 left
 CostRestCount_Item_Unknown	Exchange
 CostRestCount_RealCurrency_0	Purchased
-CostRestCount_RealCurrency_1	{size[5a00]}Purchase\r\n(1 remaining){size[6400]}
-CostRestCount_RealCurrency_10	{size[5a00]}Purchase\r\n(10 remaining){size[6400]}
-CostRestCount_RealCurrency_2	{size[5a00]}Purchase\r\n(2 remaining){size[6400]}
-CostRestCount_RealCurrency_3	{size[5a00]}Purchase\r\n(3 remaining){size[6400]}
-CostRestCount_RealCurrency_4	{size[5a00]}Purchase\r\n(4 remaining){size[6400]}
-CostRestCount_RealCurrency_5	{size[5a00]}Purchase\r\n(5 remaining){size[6400]}
-CostRestCount_RealCurrency_6	{size[5a00]}Purchase\r\n(6 remaining){size[6400]}
-CostRestCount_RealCurrency_7	{size[5a00]}Purchase\r\n(7 remaining){size[6400]}
-CostRestCount_RealCurrency_8	{size[5a00]}Purchase\r\n(8 remaining){size[6400]}
-CostRestCount_RealCurrency_9	{size[5a00]}Purchase\r\n(9 remaining){size[6400]}
+CostRestCount_RealCurrency_1	1 left
+CostRestCount_RealCurrency_10	10 left
+CostRestCount_RealCurrency_2	2 left
+CostRestCount_RealCurrency_3	3 left
+CostRestCount_RealCurrency_4	4 left
+CostRestCount_RealCurrency_5	5 left
+CostRestCount_RealCurrency_6	6 left
+CostRestCount_RealCurrency_7	7 left
+CostRestCount_RealCurrency_8	8 left
+CostRestCount_RealCurrency_9	9 left
 CostRestCount_RealCurrency_Unknown	購入する
-CostRestCount_VirtualCurrency_0	Purchased
-CostRestCount_VirtualCurrency_1	{size[5a00]}Purchase\r\n(1 remaining){size[6400]}
-CostRestCount_VirtualCurrency_10	{size[5a00]}Purchase\r\n(10 remaining){size[6400]}
-CostRestCount_VirtualCurrency_2	{size[5a00]}Purchase\r\n(2 remaining){size[6400]}
-CostRestCount_VirtualCurrency_3	{size[5a00]}Purchase\r\n(3 remaining){size[6400]}
-CostRestCount_VirtualCurrency_4	{size[5a00]}Purchase\r\n(4 remaining){size[6400]}
-CostRestCount_VirtualCurrency_5	{size[5a00]}Purchase\r\n(5 remaining){size[6400]}
-CostRestCount_VirtualCurrency_6	{size[5a00]}Purchase\r\n(6 remaining){size[6400]}
-CostRestCount_VirtualCurrency_7	{size[5a00]}Purchase\r\n(7 remaining){size[6400]}
-CostRestCount_VirtualCurrency_8	{size[5a00]}Purchase\r\n(8 remaining){size[6400]}
-CostRestCount_VirtualCurrency_9	{size[5a00]}Purchase\r\n(9 remaining){size[6400]}
-CostRestCount_VirtualCurrency_Unknown	Purchase
+CostRestCount_VirtualCurrency_0	Exchanged
+CostRestCount_VirtualCurrency_1	Exchange (1 left)
+CostRestCount_VirtualCurrency_10	Exchange (10 left)
+CostRestCount_VirtualCurrency_2	Exchange (2 left)
+CostRestCount_VirtualCurrency_3	Exchange (3 left)
+CostRestCount_VirtualCurrency_4	Exchange (4 left)
+CostRestCount_VirtualCurrency_5	Exchange (5 left)
+CostRestCount_VirtualCurrency_6	Exchange (6 left)
+CostRestCount_VirtualCurrency_7	Exchange (7 left)
+CostRestCount_VirtualCurrency_8	Exchange (8 left)
+CostRestCount_VirtualCurrency_9	Exchange (9 left)
+CostRestCount_VirtualCurrency_Unknown	Exchange
 CourseType_Battle	Ready to battle!
 CourseType_Bonus	Bonus Challenges
 CourseType_FriendChallenge	2-Player Challenge
@@ -1592,7 +1614,7 @@ MiiCommonButton_AddConfirm	Add
 MiiCommonButton_RemoveConfirm	Remove
 MiiCommonButton_Share	Share
 MiiCommonButton_UnknownCode	OK
-MiiCommonDescription_AddConfirm	Add this Mii character?\r\n{size[5000]}\r\n{color[b9cce9ff]}The added Mii will be shown to other\r\nusers in races, rankings and profiles.{color[000000ff]}{size[6400]}
+MiiCommonDescription_AddConfirm	Add this Mii character?\r\n{size[5000]}\r\n{color[b9cce9ff]}Added Mii characters will be shown to\r\nother players in races and rankings.{color[000000ff]}{size[6400]}
 MiiCommonDescription_AddConfirmMii	Add this Mii character?
 MiiCommonDescription_RemoveConfirm	Remove this Mii?
 MiiCommonDescription_Share	Share this Mii?
@@ -1646,13 +1668,13 @@ PartsPowerUpContentTitle_Skill	Special skill upgraded!
 PartsPowerUpTitle_ScoreUnlock	Raise Base-Points Cap
 PartsPowerUpTitle_ScoreUp	Raise Base Points
 PartsPowerUpTitle_SkillUp	Level Up
-PremiumPassAttention00_First	・ The {color[ffdc00ff]}two week free{color[000000ff]} trial is only for new\r\nsubscribers and it is limited to one per account.\r\nWhen the free trial period ends, a paid Gold Pass\r\nsubscription will begin automatically for the price\r\nshown below per month unless it is cancelled as\r\nexplained below.\r\n\r\n・The continuous Gold Pass subscription rewards\r\nare given when the paid subscription of the Gold\r\nPass is renewed. If subscribed to the free trial,\r\nyou will not receive your first continuous Gold\r\nPass subscription reward until the paid renewal\r\nthat occurs the month after the free trial period\r\nends.\r\n\r\n・ The Gold Pass term of validity is one month.\r\n\r\n・ It will automatically renew for successive\r\nperiods of 1 month at the end of the then current\r\nperiod unless it is cancelled as explained below.\r\nPrice per automatic renewal is shown below.\r\n\r\n・ {color[ffdc00ff]}You will receive benefits during the term of\r\nvalidity, even if you cancel your subscription\r\nduring that time.{color[000000ff]}\r\n\r\n・ For further information about payments,\r\ncancellations, and transfers, see\r\nAbout Payments/Cancellations/Transfers\r\nbelow.\r\n\r\n・ {color[ffdc00ff]}Once a Gold Pass has expired, benefits from\r\nthe Gold Pass will still be available until the\r\ndaily reset (06:00 UTC).{color[000000ff]}\r\n\r\n・You're eligible for the continuous Gold Pass\r\nsubscription rewards until the end of the Gold\r\nPass subscription's validity period. This is\r\ndifferent from the "worldwide date change\r\ntime" mentioned above.\r\n\r\n・ If you wish to start a new Gold Pass\r\nsubscription after changing to a device with\r\na different operating system, please do so after\r\ncancelling the subscription on the original\r\ndevice's operating system.\r\n\r\n・The continuous Gold Pass subscription rewards\r\ncannot be received if you do not log in within one\r\nmonth of renewing your Gold Pass. For example,\r\nif you renew your Gold Pass for two months in a\r\nrow but do not log in during that time, you will get\r\nonly the continuous Gold Pass subscription\r\nrewards for the second month when you log in\r\nagain.\r\n\r\n・The continuous Gold Pass subscription\r\nrewards cannot be received once your Gold Pass\r\nsubscription has expired.\r\n\r\n・The continuous Gold Pass subscription reward\r\ngiven for first month of continuation is limited to\r\none per account.\r\n\r\n・After you cancel, you will still be eligible for\r\ncontinuation if you resubscribe to the Gold Pass\r\nwithin seven days after the end of your previous\r\nvalidity period.\r\nNote: If you resubscribe to the Gold Pass after\r\neight or more days have passed, the continuation\r\ncount will reset to zero months.
-PremiumPassAttention00_Second	・ The Gold Pass term of validity is one month.\r\n\r\n・ It will automatically renew for successive\r\nperiods of 1 month at the end of the then current\r\nperiod unless it is cancelled as explained below.\r\nPrice per automatic renewal is shown below.\r\n\r\n・ {color[ffdc00ff]}You will receive benefits during the term of\r\nvalidity, even if you cancel your subscription\r\nduring that time.{color[000000ff]}\r\n\r\n・ For further information about payments,\r\ncancellations, and transfers, see\r\nAbout Payments/Cancellations/Transfers\r\nbelow.\r\n\r\n・ {color[ffdc00ff]}Once a Gold Pass has expired, benefits from\r\nthe Gold Pass will still be available until the\r\ndaily reset (06:00 UTC).{color[000000ff]}\r\n\r\n・ If you wish to start a new Gold Pass\r\nsubscription after changing to a device with\r\na different operating system, please do so after\r\ncancelling the subscription on the original\r\ndevice's operating system.\r\n\r\n・The continuous Gold Pass subscription rewards\r\ncannot be received if you do not log in within one\r\nmonth of renewing your Gold Pass. For example,\r\nif you renew your Gold Pass for two months in a\r\nrow but do not log in during that time, you will get\r\nonly the continuous Gold Pass subscription\r\nrewards for the second month when you log in\r\nagain.\r\n\r\n・The continuous Gold Pass subscription\r\nrewards cannot be received once your Gold Pass\r\nsubscription has expired.\r\n\r\n・The continuous Gold Pass subscription reward\r\ngiven for first month of continuation is limited to\r\none per account.\r\n\r\n・After you cancel, you will still be eligible for\r\ncontinuation if you resubscribe to the Gold Pass\r\nwithin seven days after the end of your previous\r\nvalidity period.\r\nNote: If you resubscribe to the Gold Pass after\r\neight or more days have passed, the continuation\r\ncount will reset to zero months.\r\n\r\n・The continuous Gold Pass subscription rewards\r\nare given when the paid subscription of the Gold\r\nPass is renewed. If subscribed to the free trial,\r\nyou will not receive your first continuous Gold\r\nPass subscription reward until the paid renewal\r\nthat occurs the month after the free trial period\r\nends.
-PremiumPassAttention01_First_Android	To Android users:\r\n・{color[ffdc00ff]}Google accounts that have completed the free\r\ntrial in the past may not be used to participate\r\nin it again.{color[000000ff]}\r\nDuration and conditions for cancelling automatic\r\nrenewal:\r\n・{color[ffdc00ff]}You can cancel automatic renewal any time\r\nup to 24 hours before the end of the then current\r\nperiod.{color[000000ff]}\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following\r\nlocation.\r\n\r\nPlay Store > Google Account >\r\nPayments and Subscriptions > Subscriptions{color[000000ff]}\r\n\r\n・The Gold Pass can only be used on the Google\r\naccount and Nintendo Account that were used\r\nto subscribe.\r\n・{color[ffdc00ff]}Please be aware that even if a transaction fails\r\nwhen attempting to automatically renew a\r\nGold Pass on a Google account, if you set up a\r\ndifferent Google account and subscribe to the\r\nGold Pass, it may register as a duplicate\r\nsubscription.{color[000000ff]}\r\n・A two-week free trial period: a two-week free trial\r\nperiod is available once per account and starts\r\nimmediately. A paid subscription will begin\r\nautomatically for the price shown below per\r\nmonth unless the Gold Pass is terminated\r\nbefore the end of the free trial period and will\r\ncontinue to automatically renew for successive\r\nperiods of one month at the end of the then\r\ncurrent period.\r\n・Your Google account will be billed when you\r\nconfirm your subscription.
-PremiumPassAttention01_First_iOS	To iOS users:\r\n・{color[ffdc00ff]}Apple IDs that have completed the free trial in\r\nthe past may not be used to participate in it again.\r\n{color[000000ff]}\r\nDuration and conditions for cancelling automatic\r\nrenewal:\r\n・{color[ffdc00ff]}You can cancel automatic renewal any time up\r\nto 24 hours before the end of the then current\r\nperiod.{color[000000ff]}\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following\r\nlocation.\r\n\r\nSettings > iTunes & App Store > Apple ID >\r\nView Apple ID > Sign In\r\n\r\nNote: The above wording varies based on the version\r\nof the operating system you're running, so please\r\ncontact the App Store if you are in need of further\r\nguidance.{color[000000ff]}\r\n\r\n・The Gold Pass can only be used with the\r\nApple ID and Nintendo Account that were\r\nused to subscribe.\r\n・Two-week free trial period: a two-week\r\nfree trial period is available once per account\r\nand starts immediately. A paid subscription\r\nwill begin automatically for the price shown\r\nbelow per month unless the Gold Pass is\r\nterminated up to 24 hours before the end of\r\nthe then current period and will continue to\r\nautomatically renew for successive periods\r\nof one month at the end of the then\r\ncurrent period.\r\n・Your Apple ID will be billed when you confirm\r\nyour subscription.
-PremiumPassAttention01_Second_Android	To Android users:\r\nDuration and conditions for cancelling automatic\r\nrenewal:\r\n・{color[ffdc00ff]}You can cancel automatic renewal any time\r\nup to 24 hours before the end of the then current\r\nperiod.{color[000000ff]}\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following\r\nlocation.\r\n\r\nPlay Store > Google Account >\r\nPayments and Subscriptions > Subscriptions{color[000000ff]}\r\n\r\n・The Gold Pass can only be used on the Google\r\naccount and Nintendo Account that were used\r\nto subscribe.\r\n・{color[ffdc00ff]}Please be aware that even if a transaction fails\r\nwhen attempting to automatically renew a\r\nGold Pass on a Google account, if you set up a\r\ndifferent Google account and subscribe to the\r\nGold Pass, it may register as a duplicate\r\nsubscription.{color[000000ff]}\r\n・Your Google account will be billed when you\r\nconfirm your subscription.
-PremiumPassAttention01_Second_iOS	To iOS users:\r\n\r\nDuration and conditions for cancelling automatic\r\nrenewal:\r\n・{color[ffdc00ff]}You can cancel automatic renewal any time up\r\nto 24 hours before the end of the then current\r\nperiod.{color[000000ff]}\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following\r\nlocation.\r\n\r\nSettings > iTunes & App Store > Apple ID >\r\nView Apple ID > Sign In\r\n\r\nNote: The above wording varies based on the version\r\nof the operating system you're running, so please\r\ncontact the App Store if you are in need of further\r\nguidance.{color[000000ff]}\r\n\r\n・The Gold Pass can only be used with the\r\nApple ID and Nintendo Account that were\r\nused to subscribe.\r\n・Your Apple ID will be billed when you confirm\r\nyour subscription.
-PremiumPassBannerDescription_FreeTrial	You can expand your play\r\nexperience with Gold Pass!
+PremiumPassAttention00_First	・The first {color[ffdc00ff]}two weeks{color[000000ff]} are {color[ffdc00ff]}free{color[000000ff]}. You will not be\r\ncharged if you cancel at least 24 hours before\r\nthe free trial period ends.\r\n・The free trial is only for new subscribers.\r\n・The continuous Gold Pass subscription rewards\r\nare given when the paid subscription of the Gold\r\nPass is renewed. If subscribed to the free trial,\r\nyou will not receive your first continuous Gold\r\nPass subscription reward until the paid renewal\r\nthat occurs the month after the free trial period\r\nends.\r\n・The Gold Pass paid subscription is valid for a\r\nperiod of one month from the day you subscribe.\r\n・When the term of validity ends, there is no need\r\nto resubscribe. Your subscription for the same\r\nGold Pass will be automatically renewed, and on\r\nan ongoing basis until you cancel it.\r\n・{color[ffdc00ff]}You can receive bonuses during the term of validity\r\neven if you cancel your subscription during that term.{color[000000ff]}\r\n・For information about payments, cancellations, and\r\ntransfers, see About Payments/Cancellations/\r\nTransfers under Frequently Asked Questions.\r\n・{color[ffdc00ff]}Bonuses from a Gold Pass that has expired will be\r\navailable until the next worldwide date change time\r\n(6:00 AM UTC, or 11:00 PM PDT/10:00 PM PST)\r\nafter expiration.{color[000000ff]}\r\n・You're eligible for the continuous Gold Pass\r\nsubscription rewards until the end of the Gold\r\nPass subscription's validity period. This is\r\ndifferent from the "worldwide date change\r\ntime" mentioned above.\r\n・If you wish to start a new Gold Pass subscription\r\nafter changing to a device with a different OS,\r\nplease do so after canceling the subscription\r\non the original device's OS.\r\n・The continuous Gold Pass subscription rewards\r\ncannot be received if you do not log in within one\r\nmonth of renewing your Gold Pass. For example,\r\nif you renew your Gold Pass for two months in a\r\nrow but do not log in during that time, you will get\r\nonly the continuous Gold Pass subscription\r\nrewards for the second month when you log in\r\nagain.\r\n・The continuous Gold Pass subscription\r\nrewards cannot be received once your Gold Pass\r\nsubscription has expired.\r\n・The continuous Gold Pass subscription reward\r\ngiven for first month of continuation is limited to\r\none per account.\r\n・After you cancel, you will still be eligible for\r\ncontinuation if you resubscribe to the Gold Pass\r\nwithin seven days after the end of your previous\r\nvalidity period.\r\nNote: If you resubscribe to the Gold Pass after\r\neight or more days have passed, the continuation\r\ncount will reset to zero months.
+PremiumPassAttention00_Second	・The Gold Pass paid subscription is valid for a\r\nperiod of one month from the day you subscribe.\r\n・When the term of validity ends, there is no\r\nneed to resubscribe. Your subscription for the same\r\nGold Pass will be automatically renewed, and on\r\nan ongoing basis until you cancel it.\r\n・{color[ffdc00ff]}You can receive bonuses during the term of validity\r\neven if you cancel your subscription during that term.{color[000000ff]}\r\n・For information about payments, cancellations, and\r\ntransfers, see About Payments/Cancellations/\r\nTransfers under Frequently Asked Questions.\r\n・{color[ffdc00ff]}Bonuses from a Gold Pass that has expired will\r\nbe available until the next worldwide date change\r\ntime (6:00 AM UTC, or 11:00 PM PDT/10:00 PM PST)\r\nafter expiration.{color[000000ff]}\r\n・If you wish to start a new Gold Pass subscription\r\nafter changing to a device with a different OS,\r\nplease do so after canceling the subscription on the\r\noriginal device's OS.\r\n・The continuous Gold Pass subscription rewards\r\ncannot be received if you do not log in within one\r\nmonth of renewing your Gold Pass. For example,\r\nif you renew your Gold Pass for two months in a\r\nrow but do not log in during that time, you will get\r\nonly the continuous Gold Pass subscription\r\nrewards for the second month when you log in\r\nagain.\r\n・The continuous Gold Pass subscription\r\nrewards cannot be received once your Gold Pass\r\nsubscription has expired.\r\n・The continuous Gold Pass subscription reward\r\ngiven for first month of continuation is limited to\r\none per account.\r\n・After you cancel, you will still be viable for\r\ncontinuation if you resubscribe to the Gold Pass\r\nwithin seven days after the end of your previous\r\nvalidity period.\r\nNote: If you resubscribe to the Gold Pass after\r\neight or more days have passed, the continuation\r\ncount will reset to zero months.\r\n・The continuous Gold Pass subscription rewards\r\nare given when the paid subscription of the Gold\r\nPass is renewed. If subscribed to the free trial,\r\nyou will not receive your first continuous Gold\r\nPass subscription reward until the paid renewal\r\nthat occurs the month after the free trial period\r\nends.
+PremiumPassAttention01_First_Android	To Android users:\r\n・{color[ffdc00ff]}Google accounts that have completed the free\r\ntrial in the past may not be used to participate\r\nin it again.{color[000000ff]}\r\n・Both during the free trial period and during a\r\npaid subscription period, if you do not cancel\r\nautomatic renewal before the Gold Pass term of\r\nvalidity ends, your Gold Pass will automatically\r\nbe renewed, and on an ongoing basis until you\r\ncancel it.\r\n・{color[ffdc00ff]}When canceling your subscription, please cancel\r\nautomatic renewal 24 hours or more before the\r\nterm of validity ends.{color[000000ff]}\r\n・The Gold Pass can only be used with the\r\nGoogle Account and Nintendo Account that were\r\nused to subscribe.\r\n・{color[ffdc00ff]}Please be aware that even if a transaction fails\r\nwhen attempting to automatically renew a Gold Pass\r\non a Google account, if you set up a different Google\r\naccount and subscribe to the Gold Pass, it may\r\nregister as a duplicate subscription.{color[000000ff]}\r\n・Your Google account will be billed when you confirm\r\nyour paid subscription.\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following location:\r\nPlay Store > Google Account >\r\nPayments and Subscriptions > Subscriptions{color[000000ff]}
+PremiumPassAttention01_First_iOS	To iOS users:\r\n・{color[ffdc00ff]}Apple Accounts that have completed the free trial in\r\nthe past may not be used to participate in it again.{color[000000ff]}\r\n・Both during the free trial period and during a paid\r\nsubscription period, if you do not cancel automatic\r\nrenewal before the Gold Pass term of validity ends,\r\nyour Gold Pass will automatically be renewed, and\r\non an ongoing basis until you cancel it.\r\n・{color[ffdc00ff]}When canceling your subscription, please cancel\r\nautomatic renewal 24 hours or more before the term\r\nof validity ends.{color[000000ff]}\r\n・The Gold Pass can only be used with the Apple\r\nAccount and Nintendo Account that were used\r\nto subscribe.\r\n・Your Apple Account will be billed when you\r\nconfirm your paid subscription.\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following location:\r\nSettings > Your name > Subscriptions\r\nNote: the above wording varies based on the version\r\nof the operating system that you are running, so\r\nplease contact the App Store if you are in need of\r\nfurther guidance.{color[000000ff]}
+PremiumPassAttention01_Second_Android	To Android users:\r\n・Both during the free trial period and during a paid\r\nsubscription period, if you do not cancel automatic\r\nrenewal before the Gold Pass term of validity ends,\r\nyour Gold Pass will automatically be renewed, and\r\non an ongoing basis until you cancel it.\r\n・{color[ffdc00ff]}When canceling your subscription, please cancel\r\nautomatic renewal 24 hours or more before the\r\nterm of validity ends.{color[000000ff]}\r\n・The Gold Pass can only be used with the Google\r\nAccount and Nintendo Account that were used\r\nto subscribe.\r\n・{color[ffdc00ff]}Please be aware that even if a transaction fails\r\nwhen attempting to automatically renew a Gold\r\nPass on a Google account, if you set up a\r\ndifferent Google account and subscribe to the\r\nGold Pass, it may register as a duplicate\r\nsubscription.{color[000000ff]}\r\n・{color[ffdc00ff]}You can check your Gold Pass term of validity or\r\ncancel automatic renewals from the following\r\nlocation: Play Store > Google Account >\r\nPayments and Subscriptions > Subscriptions.{color[000000ff]}
+PremiumPassAttention01_Second_iOS	To iOS users:\r\n・Both during the free trial period and during a paid\r\nsubscription period, if you do not cancel automatic\r\nrenewal before the Gold Pass term of validity ends,\r\nyour Gold Pass will automatically be renewed, and\r\non an ongoing basis until you cancel it.\r\n{color[ffdc00ff]}・When canceling your subscription, please cancel\r\nautomatic renewal 24 hours or more before the\r\nterm of validity ends.{color[000000ff]}\r\n・The Gold Pass can only be used with the Apple\r\nAccount and Nintendo Account that were used\r\nto subscribe.\r\n{color[ffdc00ff]}・You can check your Gold Pass term of validity or\r\ncancel automatic renewal from the following location:\r\nSettings > Your name > Subscriptions\r\nNote: the above wording varies based on the version\r\nof the operating system that you are running, so\r\nplease contact the App Store if you are in need\r\nof further guidance.{color[000000ff]}
+PremiumPassBannerDescription_FreeTrial	With Gold Pass, it's\r\nalways fun to play!
 PremiumPassBannerDescription_Subscribed	Benefits of a Continuous\r\nGold Pass Subscription
 Present00_00001	There's nothing here!
 PresentContent00_00000	Expires: Never
@@ -1662,7 +1684,7 @@ PresentTop00_00005	Accept All
 ProductBuyError_Max	--
 ProductBuyError_Soldout_Item	Exchanged
 ProductBuyError_Soldout_RealCurrency	Purchased
-ProductBuyError_Soldout_VirtualCurrency	Purchased
+ProductBuyError_Soldout_VirtualCurrency	Exchanged
 Profile00_00000	Player Info
 Profile00_00001	Tour Records
 Profile00_00002	Favorite Drivers
@@ -1912,14 +1934,14 @@ Setting00_00001	Control Method
 Setting00_00002	Sound
 Setting00_00003	Race Screen
 Setting00_00004	Total Points
-Setting00_00007	Gold Pass info
+Setting00_00007	Upgrade to the Gold Pass!
 Setting00_00011	Nintendo Account
 ShopContent00_00000	Remaining: 
 ShopSpecialOffer00_00000	Purchased
 ShopSpecialOffer00_00001	(
 ShopSpecialOffer00_00002	)
-ShopSpecialOffer00_00003	You can expand your play\r\nexperience with Gold Pass!
-ShopSpecialOffer00_00004	Two-week free trial available!
+ShopSpecialOffer00_00003	With Gold Pass, it's\r\nalways fun to play!
+ShopSpecialOffer00_00004	You can try a two-week free trial!
 ShopSpecialOffer00_00011	Free trial is active.
 ShopTop00_00000	Daily Selects
 ShopTop01_00000	Shop
@@ -1936,42 +1958,42 @@ ShopTopContentType_TourPass	Gold Pass
 SkillLevel_Max	Maximum level reached.
 SkillLevel_NotMax	Duplicates have been merged\r\nto enhance the skill level.
 SpecialOfferRestCount_0	Can't purchase.
-SpecialOfferRestCount_1	{size[5a00]}Purchase\r\n(1 remaining){size[6400]}
-SpecialOfferRestCount_10	{size[5a00]}Purchase\r\n(10 remaining){size[6400]}
-SpecialOfferRestCount_2	{size[5a00]}Purchase\r\n(2 remaining){size[6400]}
-SpecialOfferRestCount_3	{size[5a00]}Purchase\r\n(3 remaining){size[6400]}
-SpecialOfferRestCount_4	{size[5a00]}Purchase\r\n(4 remaining){size[6400]}
-SpecialOfferRestCount_5	{size[5a00]}Purchase\r\n(5 remaining){size[6400]}
-SpecialOfferRestCount_6	{size[5a00]}Purchase\r\n(6 remaining){size[6400]}
-SpecialOfferRestCount_7	{size[5a00]}Purchase\r\n(7 remaining){size[6400]}
-SpecialOfferRestCount_8	{size[5a00]}Purchase\r\n(8 remaining){size[6400]}
-SpecialOfferRestCount_9	{size[5a00]}Purchase\r\n(9 remaining){size[6400]}
+SpecialOfferRestCount_1	Purchase (1 Left)
+SpecialOfferRestCount_10	10 left
+SpecialOfferRestCount_2	2 left
+SpecialOfferRestCount_3	3 left
+SpecialOfferRestCount_4	4 left
+SpecialOfferRestCount_5	5 left
+SpecialOfferRestCount_6	6 left
+SpecialOfferRestCount_7	7 left
+SpecialOfferRestCount_8	8 left
+SpecialOfferRestCount_9	9 left
 SpecialOfferRestCount_RealCurrency_0	Purchased
-SpecialOfferRestCount_RealCurrency_1	{size[5a00]}Purchase\r\n(1 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_10	{size[5a00]}Purchase\r\n(10 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_2	{size[5a00]}Purchase\r\n(2 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_3	{size[5a00]}Purchase\r\n(3 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_4	{size[5a00]}Purchase\r\n(4 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_5	{size[5a00]}Purchase\r\n(5 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_6	{size[5a00]}Purchase\r\n(6 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_7	{size[5a00]}Purchase\r\n(7 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_8	{size[5a00]}Purchase\r\n(8 remaining){size[6400]}
-SpecialOfferRestCount_RealCurrency_9	{size[5a00]}Purchase\r\n(9 remaining){size[6400]}
+SpecialOfferRestCount_RealCurrency_1	1 left
+SpecialOfferRestCount_RealCurrency_10	10 left
+SpecialOfferRestCount_RealCurrency_2	2 left
+SpecialOfferRestCount_RealCurrency_3	3 left
+SpecialOfferRestCount_RealCurrency_4	4 left
+SpecialOfferRestCount_RealCurrency_5	5 left
+SpecialOfferRestCount_RealCurrency_6	6 left
+SpecialOfferRestCount_RealCurrency_7	7 left
+SpecialOfferRestCount_RealCurrency_8	8 left
+SpecialOfferRestCount_RealCurrency_9	9 left
 SpecialOfferRestCount_RealCurrency_Unknown	購入する
 SpecialOfferRestCount_TourPass_0	Purchased
 SpecialOfferRestCount_TourPass_1	Per month
-SpecialOfferRestCount_VirtualCurrency_0	Purchased
-SpecialOfferRestCount_VirtualCurrency_1	{size[5a00]}Purchase\r\n(1 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_10	{size[5a00]}Purchase\r\n(10 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_2	{size[5a00]}Purchase\r\n(2 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_3	{size[5a00]}Purchase\r\n(3 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_4	{size[5a00]}Purchase\r\n(4 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_5	{size[5a00]}Purchase\r\n(5 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_6	{size[5a00]}Purchase\r\n(6 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_7	{size[5a00]}Purchase\r\n(7 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_8	{size[5a00]}Purchase\r\n(8 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_9	{size[5a00]}Purchase\r\n(9 remaining){size[6400]}
-SpecialOfferRestCount_VirtualCurrency_Unknown	Purchase
+SpecialOfferRestCount_VirtualCurrency_0	Exchanged
+SpecialOfferRestCount_VirtualCurrency_1	1 left
+SpecialOfferRestCount_VirtualCurrency_10	10 left
+SpecialOfferRestCount_VirtualCurrency_2	2 left
+SpecialOfferRestCount_VirtualCurrency_3	3 left
+SpecialOfferRestCount_VirtualCurrency_4	4 left
+SpecialOfferRestCount_VirtualCurrency_5	5 left
+SpecialOfferRestCount_VirtualCurrency_6	6 left
+SpecialOfferRestCount_VirtualCurrency_7	7 left
+SpecialOfferRestCount_VirtualCurrency_8	8 left
+SpecialOfferRestCount_VirtualCurrency_9	9 left
+SpecialOfferRestCount_VirtualCurrency_Unknown	Exchange
 SubInfoButtonType_FriendAdd	Add Friend
 SubInfoButtonType_RankingDetail	Details
 SubMenuButtonType_Challenge	Challenges
@@ -2021,14 +2043,14 @@ TourTopTitle_Ending	Congrats!
 TourTopTitle_StartSeason	Now open!
 TreasureBoxExplanation_1	You can use rubies to fire\r\nsomething from the pipe!
 TreasureBoxExplanation_10	You can use rubies to fire\r\nsomething from the pipe!
-TreasureBoxProduct_1	Redeem 1 launch
-TreasureBoxProduct_1_MultiLine	{size[5a00]}Purchase 1\r\nlaunch with{size[6400]}
-TreasureBoxProduct_10	Redeem 10 launches
-TreasureBoxProduct_10_MultiLine	{size[5a00]}Purchase 10\r\nlaunches with{size[6400]}
-TreasureBoxProduct_100	Redeem 100 launches
-TreasureBoxProduct_100_MultiLine	{size[5a00]}Purchase 100\r\nlaunches with{size[6400]}
-TreasureBoxProduct_20	Redeem 20 launches
-TreasureBoxProduct_20_MultiLine	{size[5a00]}Purchase 20\r\nlaunches with{size[6400]}
+TreasureBoxProduct_1	Fire 1
+TreasureBoxProduct_1_MultiLine	Fire 1
+TreasureBoxProduct_10	Fire 10
+TreasureBoxProduct_10_MultiLine	Fire 10
+TreasureBoxProduct_100	Fire 100
+TreasureBoxProduct_100_MultiLine	Fire 100
+TreasureBoxProduct_20	Fire 20
+TreasureBoxProduct_20_MultiLine	Fire 20
 UnlockDetail_Score	Now you can raise base\r\npoints even higher!
 UserRankOpenInfo_Cc100	You'll be able to race in 100cc\r\nraces.
 UserRankOpenInfo_Cc150	You'll be able to race in 150cc\r\nraces.
@@ -2058,6 +2080,8 @@ event-1186	Steer Clear of Obstacles
 event-1186-detail	Don't crash!
 event-1187	Ring Race
 event-1187-detail	Pass through rings!
+event-1188	Steer Clear of Obstacles
+event-1188-detail	Don't crash!
 event-1189	Big Reverse Race
 event-1189-detail	Aim for 1st!
 event-1190	Vs. Mega Bowser
@@ -2150,6 +2174,10 @@ event-1260	Do Jump Boosts
 event-1260-detail	Do Jump Boosts!
 event-1264	Big Reverse Race
 event-1264-detail	Aim for 1st!
+event-1266	Smash Small Dry Bones
+event-1266-detail	Smash Dry Bones!
+event-1267	Break Item Boxes
+event-1267-detail	Break item boxes!
 event-1269	Glider Challenge
 event-1269-detail	Glide as far as you can!
 event-1270	Smash Small Dry Bones
@@ -2238,6 +2266,8 @@ event-1326	Combo Attack
 event-1326-detail	Keep the combo going!
 event-1327	Combo Attack
 event-1327-detail	Keep the combo going!
+event-1328	Combo Attack
+event-1328-detail	Keep the combo going!
 event-1329	Combo Attack
 event-1329-detail	Keep the combo going!
 event-1330	Combo Attack
@@ -2304,6 +2334,8 @@ event-1380	vs. Mega Wario
 event-1380-detail	Aim for 1st!
 event-1381	Goomba Takedown
 event-1381-detail	Take down Goombas!
+event-1382	Goomba Takedown
+event-1382-detail	Take down Goombas!
 event-1383	Time Trial
 event-1383-detail	Go for your best time!
 event-1385	Smash Small Dry Bones
@@ -2378,6 +2410,8 @@ event-1483	Vs. Mega Donkey Kong
 event-1483-detail	Aim for 1st!
 event-1484	Time Trial
 event-1484-detail	Go for your best time!
+event-1485	Goomba Takedown
+event-1485-detail	Take down Goombas!
 event-1488	Goomba Takedown
 event-1488-detail	Take down Goombas!
 event-1489	Smash Small Dry Bones
@@ -2386,10 +2420,14 @@ event-1490	Ring Race
 event-1490-detail	Pass through rings!
 event-1491	Big Reverse Race
 event-1491-detail	Aim for 1st!
+event-1492	Smash Small Dry Bones
+event-1492-detail	Smash Dry Bones!
 event-1496	vs. Mega Funky Kong
 event-1496-detail	Aim for 1st!
 event-1498	Steer Clear of Obstacles
 event-1498-detail	Don't crash!
+event-1500	Break Item Boxes
+event-1500-detail	Break item boxes!
 event-1501	Steer Clear of Obstacles
 event-1501-detail	Don't crash!
 event-1502	Glider Challenge
@@ -2412,6 +2450,8 @@ event-1513	Smash Small Dry Bones
 event-1513-detail	Smash Dry Bones!
 event-1514	Big Reverse Race
 event-1514-detail	Aim for 1st!
+event-1518	Big Reverse Race
+event-1518-detail	Aim for 1st!
 event-1521	Vs. Mega King Boo
 event-1521-detail	Aim for 1st!
 event-1522	Time Trial
@@ -2422,8 +2462,12 @@ event-1525	Combo Attack
 event-1525-detail	Keep the combo going!
 event-1527	Smash Small Dry Bones
 event-1527-detail	Smash Dry Bones!
+event-1528	Smash Small Dry Bones
+event-1528-detail	Smash Dry Bones!
 event-1530	Smash Small Dry Bones
 event-1530-detail	Smash Dry Bones!
+event-1531	Steer Clear of Obstacles
+event-1531-detail	Don't crash!
 event-1534	Big Reverse Race
 event-1534-detail	Aim for 1st!
 event-1537	Ring Race
@@ -2432,6 +2476,8 @@ event-1538	Take them out quick!
 event-1538-detail	Take them out quick!
 event-1539	Take them out quick!
 event-1539-detail	Take them out quick!
+event-1540	Take them out quick!
+event-1540-detail	Take them out quick!
 event-1541	Do Jump Boosts
 event-1541-detail	Do Jump Boosts!
 event-1542	Coin Rush
@@ -2468,6 +2514,8 @@ event-1571	vs. Mega Metal Mario
 event-1571-detail	Aim for 1st!
 event-1572	Time Trial
 event-1572-detail	Go for your best time!
+event-1573	Goomba Takedown
+event-1573-detail	Take down Goombas!
 event-1576	Smash Small Dry Bones
 event-1576-detail	Smash Dry Bones!
 event-1579	Goomba Takedown
@@ -2476,6 +2524,8 @@ event-1580	Ring Race
 event-1580-detail	Pass through rings!
 event-1583	Do Jump Boosts
 event-1583-detail	Do Jump Boosts!
+event-1584	Smash Small Dry Bones
+event-1584-detail	Smash Dry Bones!
 event-1585	Ring Race
 event-1585-detail	Pass through rings!
 event-1586	Big Reverse Race
@@ -2510,8 +2560,14 @@ event-1610	Time Trial
 event-1610-detail	Go for your best time!
 event-1613	Big Reverse Race
 event-1613-detail	Aim for 1st!
+event-1614	Big Reverse Race
+event-1614-detail	Aim for 1st!
 event-1615	Smash Small Dry Bones
 event-1615-detail	Smash Dry Bones!
+event-1617	Steer Clear of Obstacles
+event-1617-detail	Don't crash!
+event-1618	Steer Clear of Obstacles
+event-1618-detail	Don't crash!
 event-1621	Do Jump Boosts
 event-1621-detail	Do Jump Boosts!
 event-1622	Ring Race
@@ -2542,12 +2598,18 @@ event-1658	Combo Attack
 event-1658-detail	Keep the combo going!
 event-1659	Combo Attack
 event-1659-detail	Keep the combo going!
+event-1661	Combo Attack
+event-1661-detail	Keep the combo going!
 event-1662	Combo Attack
 event-1662-detail	Keep the combo going!
 event-1669	Combo Attack
 event-1669-detail	Keep the combo going!
+event-1673	Combo Attack
+event-1673-detail	Keep the combo going!
 event-1674	Combo Attack
 event-1674-detail	Keep the combo going!
+event-1676	Combo Attack
+event-1676-detail	Keep the combo going!
 event-1678	Combo Attack
 event-1678-detail	Keep the combo going!
 event-1679	Combo Attack
@@ -2556,6 +2618,8 @@ event-1680	Combo Attack
 event-1680-detail	Keep the combo going!
 event-1681	Combo Attack
 event-1681-detail	Keep the combo going!
+event-1682	Combo Attack
+event-1682-detail	Keep the combo going!
 event-1683	Combo Attack
 event-1683-detail	Keep the combo going!
 event-1684	Combo Attack
@@ -2596,10 +2660,14 @@ event-1707	Time Trial
 event-1707-detail	Go for your best time!
 event-1708	Time Trial
 event-1708-detail	Go for your best time!
+event-1710	Time Trial
+event-1710-detail	Go for your best time!
 event-1711	Time Trial
 event-1711-detail	Go for your best time!
 event-1712	Time Trial
 event-1712-detail	Go for your best time!
+event-1715	Time Trial
+event-1715-detail	Go for your best time!
 event-1717	Time Trial
 event-1717-detail	Go for your best time!
 event-1719	Time Trial
@@ -2612,8 +2680,12 @@ event-1724	Time Trial
 event-1724-detail	Go for your best time!
 event-1727	Time Trial
 event-1727-detail	Go for your best time!
+event-1734	Time Trial
+event-1734-detail	Go for your best time!
 event-1737	Time Trial
 event-1737-detail	Go for your best time!
+event-1745	Time Trial
+event-1745-detail	Go for your best time!
 event-1749	Time Trial
 event-1749-detail	Go for your best time!
 event-1751	Time Trial
@@ -2624,10 +2696,18 @@ event-1765	Time Trial
 event-1765-detail	Go for your best time!
 event-1767	Time Trial
 event-1767-detail	Go for your best time!
+event-1788	Time Trial
+event-1788-detail	Go for your best time!
+event-1790	Time Trial
+event-1790-detail	Go for your best time!
 event-1792	Time Trial
 event-1792-detail	Go for your best time!
+event-1793	Time Trial
+event-1793-detail	Go for your best time!
 event-1794	Time Trial
 event-1794-detail	Go for your best time!
+event-1795	Time Trial
+event-1795-detail	Go for your best time!
 event-1798	Time Trial
 event-1798-detail	Go for your best time!
 event-1810	Time Trial
@@ -2648,6 +2728,10 @@ event-1822	Time Trial
 event-1822-detail	Go for your best time!
 event-1823	Time Trial
 event-1823-detail	Go for your best time!
+event-1824	Time Trial
+event-1824-detail	Go for your best time!
+event-1825	Time Trial
+event-1825-detail	Go for your best time!
 event-1826	Time Trial
 event-1826-detail	Go for your best time!
 event-1827	Time Trial
@@ -2660,16 +2744,24 @@ event-1830	Time Trial
 event-1830-detail	Go for your best time!
 event-1831	Time Trial
 event-1831-detail	Go for your best time!
+event-1832	Time Trial
+event-1832-detail	Go for your best time!
 event-1837	Time Trial
 event-1837-detail	Go for your best time!
+event-1838	Time Trial
+event-1838-detail	Go for your best time!
 event-1839	Time Trial
 event-1839-detail	Go for your best time!
+event-1840	Time Trial
+event-1840-detail	Go for your best time!
 event-1841	Time Trial
 event-1841-detail	Go for your best time!
 event-1843	Time Trial
 event-1843-detail	Go for your best time!
 event-1844	Time Trial
 event-1844-detail	Go for your best time!
+event-1845	Time Trial
+event-1845-detail	Go for your best time!
 event-1847	Time Trial
 event-1847-detail	Go for your best time!
 event-1849	Time Trial
@@ -2682,6 +2774,10 @@ event-1877	Smash Small Dry Bones
 event-1877-detail	Smash Dry Bones!
 event-1878	Break Item Boxes
 event-1878-detail	Break item boxes!
+event-1880	Steer Clear of Obstacles
+event-1880-detail	Don't crash!
+event-1881	Ring Race
+event-1881-detail	Pass through rings!
 event-1885	Goomba Takedown
 event-1885-detail	Take down Goombas!
 event-1886	Ring Race
@@ -2694,6 +2790,8 @@ event-1889	vs. Mega Ice Bro
 event-1889-detail	Aim for 1st!
 event-1890	Ring Race
 event-1890-detail	Pass through rings!
+event-1909	Smash Small Dry Bones
+event-1909-detail	Smash Dry Bones!
 event-1915	[参照タグのパラメータが不正です。]
 event-1915-detail	Aim for 1st!
 event-1919	[参照タグのパラメータが不正です。]
@@ -2730,8 +2828,12 @@ event-1960	Ring Race
 event-1960-detail	Pass through rings!
 event-1961	[参照タグのパラメータが不正です。]
 event-1961-detail	Aim for 1st!
+event-1962	Big Reverse Race
+event-1962-detail	Aim for 1st!
 event-1965	Snap a Photo
 event-1965-detail	Clear the photo goals!
+event-1968	Do Jump Boosts
+event-1968-detail	Do Jump Boosts!
 event-1974	Steer Clear of Obstacles
 event-1974-detail	Don't crash!
 event-1975	Snap a Photo
@@ -2752,12 +2854,16 @@ event-1998	[参照タグのパラメータが不正です。]
 event-1998-detail	Aim for 1st!
 event-2007	Combo Attack
 event-2007-detail	Keep the combo going!
+event-2009	Do Jump Boosts
+event-2009-detail	Do Jump Boosts!
 event-2010	Snap a Photo
 event-2010-detail	Clear the photo goals!
 event-2015	Ring Race
 event-2015-detail	Pass through rings!
 event-2017	Steer Clear of Obstacles
 event-2017-detail	Don't crash!
+event-2030	Big Reverse Race
+event-2030-detail	Aim for 1st!
 event-2031	Ring Race
 event-2031-detail	Pass through rings!
 event-2033	Snap a Photo
@@ -2776,6 +2882,8 @@ event-2042	Snap a Photo
 event-2042-detail	Clear the photo goals!
 event-2043	Snap a Photo
 event-2043-detail	Clear the photo goals!
+event-2044	Big Reverse Race
+event-2044-detail	Aim for 1st!
 event-2048	Snap a Photo
 event-2048-detail	Clear the photo goals!
 event-2049	Snap a Photo
@@ -2794,18 +2902,32 @@ event-2059	Snap a Photo
 event-2059-detail	Clear the photo goals!
 event-2060	Ring Race
 event-2060-detail	Pass through rings!
+event-2063	Take them out quick!
+event-2063-detail	Take them out quick!
+event-2069	Big Reverse Race vs. 100
+event-2069-detail	Aim for 1st place!
 event-2073	Snap a Photo
 event-2073-detail	Clear the photo goals!
 event-2076	Do Jump Boosts
 event-2076-detail	Do Jump Boosts!
+event-2077	Break Item Boxes
+event-2077-detail	Break item boxes!
+event-2080	Big Reverse Race
+event-2080-detail	Aim for 1st!
 event-2085	Snap a Photo
 event-2085-detail	Clear the photo goals!
+event-2086	Big Reverse Race vs. 100
+event-2086-detail	Aim for 1st place!
 event-2089	[参照タグのパラメータが不正です。]
 event-2089-detail	Aim for 1st!
 event-2090	[参照タグのパラメータが不正です。]
 event-2090-detail	Aim for 1st!
 event-2091	Combo Attack
 event-2091-detail	Keep the combo going!
+event-2096	Combo Attack
+event-2096-detail	Keep the combo going!
+event-2097	Combo Attack
+event-2097-detail	Keep the combo going!
 event-2103	Snap a Photo
 event-2103-detail	Clear the photo goals!
 event-2107	Break Item Boxes
@@ -2824,28 +2946,58 @@ event-2113	Smash Small Dry Bones
 event-2113-detail	Smash Dry Bones!
 event-2115	Snap a Photo
 event-2115-detail	Clear the photo goals!
+event-2118	Combo Attack
+event-2118-detail	Keep the combo going!
 event-2119	Snap a Photo
 event-2119-detail	Clear the photo goals!
+event-2120	Goomba Takedown
+event-2120-detail	Take down Goombas!
+event-2121	Ring Race
+event-2121-detail	Pass through rings!
 event-2122	Glider Challenge
 event-2122-detail	Glide as far as you can!
 event-2123	Time Trial
 event-2123-detail	Go for your best time!
+event-2124	Time Trial
+event-2124-detail	Go for your best time!
+event-2126	Time Trial
+event-2126-detail	Go for your best time!
+event-2127	Time Trial
+event-2127-detail	Go for your best time!
+event-2131	Time Trial
+event-2131-detail	Go for your best time!
 event-2133	Time Trial
 event-2133-detail	Go for your best time!
 event-2134	Time Trial
 event-2134-detail	Go for your best time!
+event-2135	Time Trial
+event-2135-detail	Go for your best time!
 event-2137	Steer Clear of Obstacles
 event-2137-detail	Don't crash!
 event-2138	Snap a Photo
 event-2138-detail	Clear the photo goals!
+event-2140	Ring Race
+event-2140-detail	Pass through rings!
 event-2141	[参照タグのパラメータが不正です。]
 event-2141-detail	Aim for 1st!
 event-2142	[参照タグのパラメータが不正です。]
 event-2142-detail	Aim for 1st!
 event-2143	[参照タグのパラメータが不正です。]
 event-2143-detail	Aim for 1st!
+event-2145	Goomba Takedown
+event-2145-detail	Take down Goombas!
+event-2146	Smash Small Dry Bones
+event-2146-detail	Smash Dry Bones!
+event-2148	Combo Attack
+event-2148-detail	Keep the combo going!
+event-2149	Smash Small Dry Bones
+event-2149-detail	Smash Dry Bones!
+event-2150	Precision Gliding
+event-2150-detail	Glide through the targets!
 event-2151	Snap a Photo
 event-2151-detail	Clear the photo goals!
+event-2153	Big Reverse Race
+event-2153-detail	Aim for 1st!
 event-2154	[参照タグのパラメータが不正です。]
 event-2154-detail	Aim for 1st!
 event-2155	[参照タグのパラメータが不正です。]
@@ -2854,14 +3006,28 @@ event-2156	[参照タグのパラメータが不正です。]
 event-2156-detail	Aim for 1st!
 event-2157	Precision Gliding
 event-2157-detail	Glide through the targets!
+event-2158	Steer Clear of Obstacles
+event-2158-detail	Don't crash!
+event-2159	Big Reverse Race vs. 100
+event-2159-detail	Aim for 1st place!
+event-2160	Do Jump Boosts
+event-2160-detail	Do Jump Boosts!
+event-2161	Big Reverse Race
+event-2161-detail	Aim for 1st!
 event-2163	Take them out quick!
 event-2163-detail	Take them out quick!
-event-2166	ふうせんバトル
-event-2166-detail	ライバルのふうせんを わろう！
+event-2165	Take them out quick!
+event-2165-detail	Take them out quick!
+event-2166	Balloon Battle
+event-2166-detail	Pop your opponents' balloons!
 event-2167	Snap a Photo
 event-2167-detail	Clear the photo goals!
+event-2168	Take them out quick!
+event-2168-detail	Take them out quick!
 event-2169	Take them out quick!
 event-2169-detail	Take them out quick!
+event-2172	Take them out quick!
+event-2172-detail	Take them out quick!
 event-2173	Take them out quick!
 event-2173-detail	Take them out quick!
 event-2175	Smash Small Dry Bones
@@ -2870,16 +3036,20 @@ event-2177	Smash Small Dry Bones
 event-2177-detail	Smash Dry Bones!
 event-2179	Snap a Photo
 event-2179-detail	Clear the photo goals!
-event-2180	ふうせんバトル
-event-2180-detail	ライバルのふうせんを わろう！
-event-2181	ふうせんバトル
-event-2181-detail	ライバルのふうせんを わろう！
+event-2180	Balloon Battle
+event-2180-detail	Pop your opponents' balloons!
+event-2181	Balloon Battle
+event-2181-detail	Pop your opponents' balloons!
+event-2184	Ring Race
+event-2184-detail	Pass through rings!
 event-2189	Snap a Photo
 event-2189-detail	Clear the photo goals!
 event-2190	Steer Clear of Obstacles
 event-2190-detail	Don't crash!
-event-2191	ふうせんバトル
-event-2191-detail	ライバルのふうせんを わろう！
+event-2191	Balloon Battle
+event-2191-detail	Pop your opponents' balloons!
+event-2192	Balloon Battle
+event-2192-detail	Pop your opponents' balloons!
 event-2193	[参照タグのパラメータが不正です。]
 event-2193-detail	Aim for 1st!
 event-2194	[参照タグのパラメータが不正です。]
@@ -2888,14 +3058,34 @@ event-2195	[参照タグのパラメータが不正です。]
 event-2195-detail	Aim for 1st!
 event-2196	Do Jump Boosts
 event-2196-detail	Do Jump Boosts!
+event-2197	Break Item Boxes
+event-2197-detail	Break item boxes!
+event-2198	Big Reverse Race vs. 100
+event-2198-detail	Aim for 1st place!
+event-2200	Do Jump Boosts
+event-2200-detail	Do Jump Boosts!
+event-2201	Smash Small Dry Bones
+event-2201-detail	Smash Dry Bones!
+event-2203	Steer Clear of Obstacles
+event-2203-detail	Don't crash!
 event-2204	Smash Small Dry Bones
 event-2204-detail	Smash Dry Bones!
+event-2205	Steer Clear of Obstacles
+event-2205-detail	Don't crash!
+event-2206	Big Reverse Race
+event-2206-detail	Aim for 1st!
+event-2207	Big Reverse Race
+event-2207-detail	Aim for 1st!
 event-2208	Snap a Photo
 event-2208-detail	Clear the photo goals!
 event-2209	Snap a Photo
 event-2209-detail	Clear the photo goals!
 event-2211	Snap a Photo
 event-2211-detail	Clear the photo goals!
+event-2217	Steer Clear of Obstacles
+event-2217-detail	Don't crash!
+event-2218	Big Reverse Race
+event-2218-detail	Aim for 1st!
 event-2219	Snap a Photo
 event-2219-detail	Clear the photo goals!
 event-2221	[参照タグのパラメータが不正です。]
@@ -2904,16 +3094,48 @@ event-2222	[参照タグのパラメータが不正です。]
 event-2222-detail	Aim for 1st!
 event-2223	[参照タグのパラメータが不正です。]
 event-2223-detail	Aim for 1st!
+event-2224	Break Item Boxes
+event-2224-detail	Break item boxes!
+event-2225	Big Reverse Race vs. 100
+event-2225-detail	Aim for 1st place!
 event-2226	Smash Small Dry Bones
 event-2226-detail	Smash Dry Bones!
+event-2227	Precision Gliding
+event-2227-detail	Glide through the targets!
+event-2228	Do Jump Boosts
+event-2228-detail	Do Jump Boosts!
 event-2229	Snap a Photo
 event-2229-detail	Clear the photo goals!
+event-2232	Ring Race
+event-2232-detail	Pass through rings!
 event-2233	Snap a Photo
 event-2233-detail	Clear the photo goals!
+event-2234	Big Reverse Race
+event-2234-detail	Aim for 1st!
 event-2235	Big Reverse Race
 event-2235-detail	Aim for 1st!
 event-2236	Snap a Photo
 event-2236-detail	Clear the photo goals!
+event-2239	Time Trial
+event-2239-detail	Go for your best time!
+event-2241	Time Trial
+event-2241-detail	Go for your best time!
+event-2242	Time Trial
+event-2242-detail	Go for your best time!
+event-2243	Time Trial
+event-2243-detail	Go for your best time!
+event-2245	Time Trial
+event-2245-detail	Go for your best time!
+event-2249	Time Trial
+event-2249-detail	Go for your best time!
+event-2251	Time Trial
+event-2251-detail	Go for your best time!
+event-2252	Time Trial
+event-2252-detail	Go for your best time!
+event-2253	Time Trial
+event-2253-detail	Go for your best time!
+event-2257	Time Trial
+event-2257-detail	Go for your best time!
 event-2271	Combo Attack
 event-2271-detail	Keep the combo going!
 event-2272	[参照タグのパラメータが不正です。]
@@ -2922,6 +3144,40 @@ event-2273	[参照タグのパラメータが不正です。]
 event-2273-detail	Aim for 1st!
 event-2274	[参照タグのパラメータが不正です。]
 event-2274-detail	Aim for 1st!
+event-2276	[参照タグのパラメータが不正です。]
+event-2276-detail	Aim for 1st!
+event-2277	[参照タグのパラメータが不正です。]
+event-2277-detail	Aim for 1st!
+event-2278	[参照タグのパラメータが不正です。]
+event-2278-detail	Aim for 1st!
+event-2279	[参照タグのパラメータが不正です。]
+event-2279-detail	Aim for 1st!
+event-2280	[参照タグのパラメータが不正です。]
+event-2280-detail	Aim for 1st!
+event-2281	[参照タグのパラメータが不正です。]
+event-2281-detail	Aim for 1st!
+event-2282	Steer Clear of Obstacles
+event-2282-detail	Don't crash!
+event-2286	Balloon Battle
+event-2286-detail	Pop your opponents' balloons!
+event-2287	Balloon Battle
+event-2287-detail	Pop your opponents' balloons!
+event-2288	Balloon Battle
+event-2288-detail	Pop your opponents' balloons!
+event-2289	Snap a Photo
+event-2289-detail	Clear the photo goals!
+event-2290	[参照タグのパラメータが不正です。]
+event-2290-detail	Aim for 1st!
+event-2291	[参照タグのパラメータが不正です。]
+event-2291-detail	Aim for 1st!
+event-2292	[参照タグのパラメータが不正です。]
+event-2292-detail	Aim for 1st!
+event-2293	Balloon Battle
+event-2293-detail	Pop your opponents' balloons!
+event-2294	Balloon Battle
+event-2294-detail	Pop your opponents' balloons!
+event-2295	Balloon Battle
+event-2295-detail	Pop your opponents' balloons!
 event-569	Time Trial
 event-569-detail	Go for your best time!
 event-570	Time Trial
@@ -3091,6 +3347,8 @@ event-1151	Glider Challenge
 event-1151-detail	Glide as far as you can!
 event-1153	Break Item Boxes
 event-1153-detail	Break item boxes!
+event-1154	Goomba Takedown
+event-1154-detail	Take down Goombas!
 event-1156	Goomba Takedown
 event-1156-detail	Take down Goombas!
 event-1157	Smash Small Dry Bones
@@ -3405,10 +3663,14 @@ event-946	Big Reverse Race
 event-946-detail	Aim for 1st!
 event-947	Big Reverse Race
 event-947-detail	Aim for 1st!
+event-948	Big Reverse Race
+event-948-detail	Aim for 1st!
 event-951	Do Jump Boosts
 event-951-detail	Do Jump Boosts!
 event-952	Smash Small Dry Bones
 event-952-detail	Smash Dry Bones!
+event-954	Break Item Boxes
+event-954-detail	Break item boxes!
 event-958	Ring Race
 event-958-detail	Pass through rings!
 event-960	Glider Challenge
@@ -3437,6 +3699,8 @@ event-981	Goomba Takedown
 event-981-detail	Take down Goombas!
 event-982	Goomba Takedown
 event-982-detail	Take down Goombas!
+event-983	Goomba Takedown
+event-983-detail	Take down Goombas!
 event-989	Smash Small Dry Bones
 event-989-detail	Smash Dry Bones!
 event-991	Ring Race
@@ -3458,6 +3722,9 @@ Battle_Bgc_CookieLand_Short	Cookie Land
 Battle_Bmob_NewYork1	{size[5d00]}New York Minute B{size[6400]}
 Battle_Bmob_NewYork1_HashTag	NewYorkMinuteB
 Battle_Bmob_NewYork1_Short	New York Minute B
+Battle_Bmob_Paris1	{size[5d00]}Paris Promenade B{size[6400]}
+Battle_Bmob_Paris1_HashTag	ParisPromenadeB
+Battle_Bmob_Paris1_Short	{size[6400]}Paris Promenade B{size[6400]}
 Classic_G3ds_BowserCastle	{size[5d00]}3DS Bowser's Castle{size[6400]}
 Classic_G3ds_BowserCastle_HashTag	3DSBowsersCastle
 Classic_G3ds_BowserCastle_Short	Bowser's Castle
@@ -3647,6 +3914,12 @@ Classic_Gagb_BowserCastle3RX_Short	Bowser's Castle 3R/T
 Classic_Gagb_BowserCastle3X	{size[5d00]}GBA Bowser's Castle 3T{size[6400]}
 Classic_Gagb_BowserCastle3X_HashTag	GBABowsersCastle3T
 Classic_Gagb_BowserCastle3X_Short	Bowser's Castle 3T
+Classic_Gagb_BowserCastle4	{size[5d00]}GBA Bowser's Castle 4{size[6400]}
+Classic_Gagb_BowserCastle4_HashTag	GBABowsersCastle4
+Classic_Gagb_BowserCastle4_Short	Bowser's Castle 4
+Classic_Gagb_BowserCastle4R	{size[5d00]}GBA Bowser's Castle 4R{size[6400]}
+Classic_Gagb_BowserCastle4R_HashTag	GBABowsersCastle4R
+Classic_Gagb_BowserCastle4R_Short	Bowser's Castle 4R
 Classic_Gagb_CheepCheepIsland	{size[5d00]}GBA Cheep-Cheep Island{size[6400]}
 Classic_Gagb_CheepCheepIsland_HashTag	GBACheepCheepIsland
 Classic_Gagb_CheepCheepIsland_Short	Cheep-Cheep Island
@@ -3659,6 +3932,42 @@ Classic_Gagb_CheepCheepIslandRX_Short	Cheep-Cheep Island R/T
 Classic_Gagb_CheepCheepIslandX	{size[5d00]}GBA Cheep-Cheep Island T{size[6400]}
 Classic_Gagb_CheepCheepIslandX_HashTag	GBACheepCheepIslandT
 Classic_Gagb_CheepCheepIslandX_Short	Cheep-Cheep Island T
+Classic_Gagb_LakeSidePark	{size[5d00]}GBA Lakeside Park{size[6400]}
+Classic_Gagb_LakeSidePark_HashTag	GBALakesidePark
+Classic_Gagb_LakeSidePark_Short	Lakeside Park
+Classic_Gagb_LakeSideParkR	{size[5d00]}GBA Lakeside Park R{size[6400]}
+Classic_Gagb_LakeSideParkR_HashTag	GBALakesideParkR
+Classic_Gagb_LakeSideParkR_Short	Lakeside Park R
+Classic_Gagb_LakeSideParkRX	{size[5d00]}GBA Lakeside Park R/T{size[6400]}
+Classic_Gagb_LakeSideParkRX_HashTag	GBALakesideParkRT
+Classic_Gagb_LakeSideParkRX_Short	Lakeside Park R/T
+Classic_Gagb_LakeSideParkX	{size[5d00]}GBA Lakeside Park T{size[6400]}
+Classic_Gagb_LakeSideParkX_HashTag	GBALakesideParkT
+Classic_Gagb_LakeSideParkX_Short	Lakeside Park T
+Classic_Gagb_LuigiCircuit	{size[5d00]}GBA Luigi Circuit{size[6400]}
+Classic_Gagb_LuigiCircuit_HashTag	GBALuigiCircuit
+Classic_Gagb_LuigiCircuit_Short	Luigi Circuit
+Classic_Gagb_LuigiCircuitR	{size[5d00]}GBA Luigi Circuit R{size[6400]}
+Classic_Gagb_LuigiCircuitR_HashTag	GBALuigiCircuitR
+Classic_Gagb_LuigiCircuitR_Short	Luigi Circuit R
+Classic_Gagb_LuigiCircuitRX	{size[5d00]}GBA Luigi Circuit R/T{size[6400]}
+Classic_Gagb_LuigiCircuitRX_HashTag	GBALuigiCircuitRT
+Classic_Gagb_LuigiCircuitRX_Short	Luigi Circuit R/T
+Classic_Gagb_LuigiCircuitX	{size[5d00]}GBA Luigi Circuit T{size[6400]}
+Classic_Gagb_LuigiCircuitX_HashTag	GBALuigiCircuitT
+Classic_Gagb_LuigiCircuitX_Short	Luigi Circuit T
+Classic_Gagb_PeachCircuit	{size[5d00]}GBA Peach Circuit{size[6400]}
+Classic_Gagb_PeachCircuit_HashTag	GBAPeachCircuit
+Classic_Gagb_PeachCircuit_Short	Peach Circuit
+Classic_Gagb_PeachCircuitR	{size[5d00]}GBA Peach Circuit R{size[6400]}
+Classic_Gagb_PeachCircuitR_HashTag	GBAPeachCircuitR
+Classic_Gagb_PeachCircuitR_Short	Peach Circuit R
+Classic_Gagb_PeachCircuitRX	GBA Peach Circuit R/T
+Classic_Gagb_PeachCircuitRX_HashTag	GBAPeachCircuitRT
+Classic_Gagb_PeachCircuitRX_Short	{size[5d00]}Peach Circuit R/T{size[6400]}
+Classic_Gagb_PeachCircuitX	GBA Peach Circuit T
+Classic_Gagb_PeachCircuitX_HashTag	GBAPeachCircuitT
+Classic_Gagb_PeachCircuitX_Short	{size[5d00]}Peach Circuit T{size[6400]}
 Classic_Gagb_RiverSidePark	{size[5d00]}GBA Riverside Park{size[6400]}
 Classic_Gagb_RiverSidePark_HashTag	GBARiversidePark
 Classic_Gagb_RiverSidePark_Short	Riverside Park
@@ -3707,6 +4016,18 @@ Classic_Gagb_SunsetWildsRX_Short	{size[5d00]}Sunset Wilds R/T{size[6400]}
 Classic_Gagb_SunsetWildsX	{size[5d00]}GBA Sunset Wilds T{size[6400]}
 Classic_Gagb_SunsetWildsX_HashTag	GBASunsetWildsT
 Classic_Gagb_SunsetWildsX_Short	Sunset Wilds T
+Classic_Gagb_YoshiDesert	{size[5d00]}GBA Yoshi Desert{size[6400]}
+Classic_Gagb_YoshiDesert_HashTag	GBAYoshiDesert
+Classic_Gagb_YoshiDesert_Short	Yoshi Desert
+Classic_Gagb_YoshiDesertR	{size[5d00]}GBA Yoshi Desert R{size[6400]}
+Classic_Gagb_YoshiDesertR_HashTag	GBAYoshiDesertR
+Classic_Gagb_YoshiDesertR_Short	Yoshi Desert R
+Classic_Gagb_YoshiDesertRX	{size[5d00]}GBA Yoshi Desert R/T{size[6400]}
+Classic_Gagb_YoshiDesertRX_HashTag	GBAYoshiDesertRT
+Classic_Gagb_YoshiDesertRX_Short	Yoshi Desert R/T
+Classic_Gagb_YoshiDesertX	{size[5d00]}GBA Yoshi Desert T{size[6400]}
+Classic_Gagb_YoshiDesertX_HashTag	GBAYoshiDesertT
+Classic_Gagb_YoshiDesertX_Short	Yoshi Desert T
 Classic_Gds_DKPass	{size[5d00]}DS DK Pass{size[6400]}
 Classic_Gds_DKPass_HashTag	DSDKPass
 Classic_Gds_DKPass_Short	DK Pass
@@ -3743,6 +4064,30 @@ Classic_Gds_LuigiMansionRX_Short	Luigi's Mansion R/T
 Classic_Gds_LuigiMansionX	{size[5d00]}DS Luigi's Mansion T{size[6400]}
 Classic_Gds_LuigiMansionX_HashTag	DSLuigisMansionT
 Classic_Gds_LuigiMansionX_Short	Luigi's Mansion T
+Classic_Gds_MarioCircuit	{size[5d00]}DS Mario Circuit{size[6400]}
+Classic_Gds_MarioCircuit_HashTag	DSMarioCircuit
+Classic_Gds_MarioCircuit_Short	Mario Circuit
+Classic_Gds_MarioCircuitR	{size[5d00]}DS Mario Circuit R{size[6400]}
+Classic_Gds_MarioCircuitR_HashTag	DSMarioCircuitR
+Classic_Gds_MarioCircuitR_Short	Mario Circuit R
+Classic_Gds_MarioCircuitRX	DS Mario Circuit R/T
+Classic_Gds_MarioCircuitRX_HashTag	DSMarioCircuitRT
+Classic_Gds_MarioCircuitRX_Short	{size[5d00]}Mario Circuit R/T{size[6400]}
+Classic_Gds_MarioCircuitX	DS Mario Circuit T
+Classic_Gds_MarioCircuitX_HashTag	DSMarioCircuitT
+Classic_Gds_MarioCircuitX_Short	{size[5d00]}Mario Circuit T{size[6400]}
+Classic_Gds_MushroomRidgeway	{size[5d00]}DS Shroom Ridge{size[6400]}
+Classic_Gds_MushroomRidgeway_HashTag	DSShroomRidge
+Classic_Gds_MushroomRidgeway_Short	Shroom Ridge
+Classic_Gds_MushroomRidgewayR	{size[5d00]}DS Shroom Ridge R{size[6400]}
+Classic_Gds_MushroomRidgewayR_HashTag	DSShroomRidgeR
+Classic_Gds_MushroomRidgewayR_Short	Shroom Ridge R
+Classic_Gds_MushroomRidgewayRX	{size[5d00]}DS Shroom Ridge R/T{size[6400]}
+Classic_Gds_MushroomRidgewayRX_HashTag	DSShroomRidgeRT
+Classic_Gds_MushroomRidgewayRX_Short	Shroom Ridge R/T
+Classic_Gds_MushroomRidgewayX	{size[5d00]}DS Shroom Ridge T{size[6400]}
+Classic_Gds_MushroomRidgewayX_HashTag	DSShroomRidgeT
+Classic_Gds_MushroomRidgewayX_Short	Shroom Ridge T
 Classic_Gds_PeachGarden	{size[5d00]}DS Peach Gardens{size[6400]}
 Classic_Gds_PeachGarden_HashTag	DSPeachGardens
 Classic_Gds_PeachGarden_Short	Peach Gardens
@@ -3785,6 +4130,9 @@ Classic_Ggc_DaisyCruiser_Short	Daisy Cruiser
 Classic_Ggc_DaisyCruiserR	{size[5d00]}GCN Daisy Cruiser R{size[6400]}
 Classic_Ggc_DaisyCruiserR_HashTag	GCNDaisyCruiserR
 Classic_Ggc_DaisyCruiserR_Short	Daisy Cruiser R
+Classic_Ggc_DaisyCruiserRX	{size[5d00]}GCN Daisy Cruiser R/T{size[6400]}
+Classic_Ggc_DaisyCruiserRX_HashTag	GCNDaisyCruiserRT
+Classic_Ggc_DaisyCruiserRX_Short	Daisy Cruiser R/T
 Classic_Ggc_DaisyCruiserX	{size[5d00]}GCN Daisy Cruiser T{size[6400]}
 Classic_Ggc_DaisyCruiserX_HashTag	GCNDaisyCruiserT
 Classic_Ggc_DaisyCruiserX_Short	Daisy Cruiser T
@@ -3812,6 +4160,30 @@ Classic_Ggc_DKMountainRX_Short	DK Mountain R/T
 Classic_Ggc_DKMountainX	{size[5d00]}GCN DK Mountain T{size[6400]}
 Classic_Ggc_DKMountainX_HashTag	GCNDKMountainT
 Classic_Ggc_DKMountainX_Short	DK Mountain T
+Classic_Ggc_MushroomBridge	{size[5d00]}GCN Mushroom Bridge{size[6400]}
+Classic_Ggc_MushroomBridge_HashTag	GCNMushroomBridge
+Classic_Ggc_MushroomBridge_Short	Mushroom Bridge
+Classic_Ggc_MushroomBridgeR	{size[5d00]}GCN Mushroom Bridge R{size[6400]}
+Classic_Ggc_MushroomBridgeR_HashTag	GCNMushroomBridgeR
+Classic_Ggc_MushroomBridgeR_Short	Mushroom Bridge R
+Classic_Ggc_MushroomBridgeRX	{size[5d00]}GCN Mushroom Bridge R/T{size[6400]}
+Classic_Ggc_MushroomBridgeRX_HashTag	GCNMushroomBridgeRT
+Classic_Ggc_MushroomBridgeRX_Short	Mushroom Bridge R/T
+Classic_Ggc_MushroomBridgeX	{size[5d00]}GCN Mushroom Bridge T{size[6400]}
+Classic_Ggc_MushroomBridgeX_HashTag	GCNMushroomBridgeT
+Classic_Ggc_MushroomBridgeX_Short	Mushroom Bridge T
+Classic_Ggc_WaluigiStadium	{size[5d00]}GCN Waluigi Stadium{size[6400]}
+Classic_Ggc_WaluigiStadium_HashTag	GCNWaluigiStadium
+Classic_Ggc_WaluigiStadium_Short	Waluigi Stadium
+Classic_Ggc_WaluigiStadiumR	{size[5d00]}GCN Waluigi Stadium R{size[6400]}
+Classic_Ggc_WaluigiStadiumR_HashTag	GCNWaluigiStadiumR
+Classic_Ggc_WaluigiStadiumR_Short	Waluigi Stadium R
+Classic_Ggc_WaluigiStadiumRX	{size[5d00]}GCN Waluigi Stadium R/T{size[6400]}
+Classic_Ggc_WaluigiStadiumRX_HashTag	GCNWaluigiStadiumRT
+Classic_Ggc_WaluigiStadiumRX_Short	Waluigi Stadium R/T
+Classic_Ggc_WaluigiStadiumX	{size[5d00]}GCN Waluigi Stadium T{size[6400]}
+Classic_Ggc_WaluigiStadiumX_HashTag	GCNWaluigiStadiumT
+Classic_Ggc_WaluigiStadiumX_Short	Waluigi Stadium T
 Classic_Ggc_YoshiCircuit	{size[5d00]}GCN Yoshi Circuit{size[6400]}
 Classic_Ggc_YoshiCircuit_HashTag	GCNYoshiCircuit
 Classic_Ggc_YoshiCircuit_Short	Yoshi Circuit
@@ -3890,9 +4262,24 @@ Classic_Gn64_LuigiCircuit_Short	Luigi Raceway
 Classic_Gn64_LuigiCircuitR	{size[5d00]}N64 Luigi Raceway R{size[6400]}
 Classic_Gn64_LuigiCircuitR_HashTag	N64LuigiRacewayR
 Classic_Gn64_LuigiCircuitR_Short	Luigi Raceway R
+Classic_Gn64_LuigiCircuitRX	{size[5d00]}N64 Luigi Raceway R/T{size[6400]}
+Classic_Gn64_LuigiCircuitRX_HashTag	N64LuigiRacewayRT
+Classic_Gn64_LuigiCircuitRX_Short	Luigi Raceway R/T
 Classic_Gn64_LuigiCircuitX	{size[5d00]}N64 Luigi Raceway T{size[6400]}
 Classic_Gn64_LuigiCircuitX_HashTag	N64LuigiRacewayT
 Classic_Gn64_LuigiCircuitX_Short	Luigi Raceway T
+Classic_Gn64_MarioRaceway	{size[5d00]}N64 Mario Raceway{size[6400]}
+Classic_Gn64_MarioRaceway_HashTag	N64MarioCircuit
+Classic_Gn64_MarioRaceway_Short	Mario Raceway
+Classic_Gn64_MarioRacewayR	{size[5d00]}N64 Mario Raceway R{size[6400]}
+Classic_Gn64_MarioRacewayR_HashTag	N64MarioCircuitR
+Classic_Gn64_MarioRacewayR_Short	Mario Raceway R
+Classic_Gn64_MarioRacewayRX	{size[5d00]}N64 Mario Raceway R/T{size[6400]}
+Classic_Gn64_MarioRacewayRX_HashTag	N64MarioRacewayRT
+Classic_Gn64_MarioRacewayRX_Short	Mario Raceway R/T
+Classic_Gn64_MarioRacewayX	{size[5d00]}N64 Mario Raceway T{size[6400]}
+Classic_Gn64_MarioRacewayX_HashTag	N64MarioCircuitT
+Classic_Gn64_MarioRacewayX_Short	Mario Raceway T
 Classic_Gn64_PeachCircuit	{size[5d00]}N64 Royal Raceway{size[6400]}
 Classic_Gn64_PeachCircuit_HashTag	N64RoyalRaceway
 Classic_Gn64_PeachCircuit_Short	Royal Raceway
@@ -3911,9 +4298,24 @@ Classic_Gn64_YoshiValley_Short	Yoshi Valley
 Classic_Gn64_YoshiValleyR	{size[5d00]}N64 Yoshi Valley R{size[6400]}
 Classic_Gn64_YoshiValleyR_HashTag	N64YoshiValleyR
 Classic_Gn64_YoshiValleyR_Short	Yoshi Valley R
+Classic_Gn64_YoshiValleyRX	{size[5d00]}N64 Yoshi Valley R/T{size[6400]}
+Classic_Gn64_YoshiValleyRX_HashTag	N64YoshiValleyRT
+Classic_Gn64_YoshiValleyRX_Short	Yoshi Valley R/T
 Classic_Gn64_YoshiValleyX	{size[5d00]}N64 Yoshi Valley T{size[6400]}
 Classic_Gn64_YoshiValleyX_HashTag	N64YoshiValleyT
 Classic_Gn64_YoshiValleyX_Short	Yoshi Valley T
+Classic_Gsfc_BowserCastle3	{size[5d00]}SNES Bowser Castle 3{size[6400]}
+Classic_Gsfc_BowserCastle3_HashTag	SNESBowserCastle3
+Classic_Gsfc_BowserCastle3_Short	Bowser Castle 3
+Classic_Gsfc_BowserCastle3R	{size[5d00]}SNES Bowser Castle 3R{size[6400]}
+Classic_Gsfc_BowserCastle3R_HashTag	SNESBowserCastle3R
+Classic_Gsfc_BowserCastle3R_Short	Bowser Castle 3R
+Classic_Gsfc_BowserCastle3RX	{size[5d00]}SNES Bowser Castle 3R/T{size[6400]}
+Classic_Gsfc_BowserCastle3RX_HashTag	SNESBowserCastle3RT
+Classic_Gsfc_BowserCastle3RX_Short	Bowser Castle 3R/T
+Classic_Gsfc_BowserCastle3X	{size[5d00]}SNES Bowser Castle 3T{size[6400]}
+Classic_Gsfc_BowserCastle3X_HashTag	SNESBowserCastle3T
+Classic_Gsfc_BowserCastle3X_Short	Bowser Castle 3T
 Classic_Gsfc_ChocoIsland1	{size[5d00]}SNES Choco Island 1{size[6400]}
 Classic_Gsfc_ChocoIsland1_HashTag	SNESChocoIsland1
 Classic_Gsfc_ChocoIsland1_Short	Choco Island 1
@@ -4004,6 +4406,9 @@ Classic_Gsfc_KoopaTroopaBeach2_Short	Koopa Troopa Beach 2
 Classic_Gsfc_KoopaTroopaBeach2R	{size[5d00]}SNES Koopa Troopa Beach 2R{size[6400]}
 Classic_Gsfc_KoopaTroopaBeach2R_HashTag	SNESKoopaTroopaBeach2R
 Classic_Gsfc_KoopaTroopaBeach2R_Short	Koopa Troopa Beach 2R
+Classic_Gsfc_KoopaTroopaBeach2RX	{size[5500]}SNES Koopa Troopa Beach 2R/T{size[6400]}
+Classic_Gsfc_KoopaTroopaBeach2RX_HashTag	SNESKoopaTroopaBeach2RT
+Classic_Gsfc_KoopaTroopaBeach2RX_Short	Koopa Troopa Beach 2R/T
 Classic_Gsfc_KoopaTroopaBeach2X	{size[5d00]}SNES Koopa Troopa Beach 2T{size[6400]}
 Classic_Gsfc_KoopaTroopaBeach2X_HashTag	SNESKoopaTroopaBeach2T
 Classic_Gsfc_KoopaTroopaBeach2X_Short	Koopa Troopa Beach 2T
@@ -4073,6 +4478,9 @@ Classic_Gsfc_VanillaLake2_Short	Vanilla Lake 2
 Classic_Gsfc_VanillaLake2R	{size[5d00]}SNES Vanilla Lake 2R{size[6400]}
 Classic_Gsfc_VanillaLake2R_HashTag	SNESVanillaLake2R
 Classic_Gsfc_VanillaLake2R_Short	Vanilla Lake 2R
+Classic_Gsfc_VanillaLake2RX	{size[5d00]}SNES Vanilla Lake 2R/T{size[6400]}
+Classic_Gsfc_VanillaLake2RX_HashTag	SNESVanillaLake2RT
+Classic_Gsfc_VanillaLake2RX_Short	Vanilla Lake 2R/T
 Classic_Gsfc_VanillaLake2X	{size[5d00]}SNES Vanilla Lake 2T{size[6400]}
 Classic_Gsfc_VanillaLake2X_HashTag	SNESVanillaLake2T
 Classic_Gsfc_VanillaLake2X_Short	Vanilla Lake 2T
@@ -4082,9 +4490,24 @@ Classic_Gwii_CoconutMall_Short	Coconut Mall
 Classic_Gwii_CoconutMallR	{size[5d00]}Wii Coconut Mall R{size[6400]}
 Classic_Gwii_CoconutMallR_HashTag	WiiCoconutMallR
 Classic_Gwii_CoconutMallR_Short	Coconut Mall R
+Classic_Gwii_CoconutMallRX	{size[5d00]}Wii Coconut Mall R/T{size[6400]}
+Classic_Gwii_CoconutMallRX_HashTag	WiiCoconutMallRT
+Classic_Gwii_CoconutMallRX_Short	Coconut Mall R/T
 Classic_Gwii_CoconutMallX	{size[5d00]}Wii Coconut Mall T{size[6400]}
 Classic_Gwii_CoconutMallX_HashTag	WiiCoconutMallT
 Classic_Gwii_CoconutMallX_Short	Coconut Mall T
+Classic_Gwii_DaisyCircuit	{size[5d00]}Wii Daisy Circuit{size[6400]}
+Classic_Gwii_DaisyCircuit_HashTag	WiiDaisyCircuit
+Classic_Gwii_DaisyCircuit_Short	Daisy Circuit
+Classic_Gwii_DaisyCircuitR	{size[5d00]}Wii Daisy Circuit R{size[6400]}
+Classic_Gwii_DaisyCircuitR_HashTag	WiiDaisyCircuitR
+Classic_Gwii_DaisyCircuitR_Short	Daisy Circuit R
+Classic_Gwii_DaisyCircuitRX	{size[5d00]}Wii Daisy Circuit R/T{size[6400]}
+Classic_Gwii_DaisyCircuitRX_HashTag	WiiDaisyCircuitRT
+Classic_Gwii_DaisyCircuitRX_Short	Daisy Circuit R/T
+Classic_Gwii_DaisyCircuitX	{size[5d00]}Wii Daisy Circuit T{size[6400]}
+Classic_Gwii_DaisyCircuitX_HashTag	WiiDaisyCircuitT
+Classic_Gwii_DaisyCircuitX_Short	Daisy Circuit T
 Classic_Gwii_DKSummit	{size[5d00]}Wii DK Summit{size[6400]}
 Classic_Gwii_DKSummit_HashTag	WiiDKSummit
 Classic_Gwii_DKSummit_Short	DK Summit
@@ -4097,6 +4520,18 @@ Classic_Gwii_DKSummitRX_Short	DK Summit R/T
 Classic_Gwii_DKSummitX	{size[5d00]}Wii DK Summit T{size[6400]}
 Classic_Gwii_DKSummitX_HashTag	WiiDKSummitT
 Classic_Gwii_DKSummitX_Short	DK Summit T
+Classic_Gwii_DryDryRuins	{size[5d00]}Wii Dry Dry Ruins{size[6400]}
+Classic_Gwii_DryDryRuins_HashTag	WiiDryDryRuins
+Classic_Gwii_DryDryRuins_Short	Dry Dry Ruins
+Classic_Gwii_DryDryRuinsR	{size[5d00]}Wii Dry Dry Ruins R{size[6400]}
+Classic_Gwii_DryDryRuinsR_HashTag	WiiDryDryRuinsR
+Classic_Gwii_DryDryRuinsR_Short	Dry Dry Ruins R
+Classic_Gwii_DryDryRuinsRX	{size[5d00]}Wii Dry Dry Ruins R/T{size[6400]}
+Classic_Gwii_DryDryRuinsRX_HashTag	WiiDryDryRuinsRT
+Classic_Gwii_DryDryRuinsRX_Short	Dry Dry Ruins R/T
+Classic_Gwii_DryDryRuinsX	{size[5d00]}Wii Dry Dry Ruins T{size[6400]}
+Classic_Gwii_DryDryRuinsX_HashTag	WiiDryDryRuinsT
+Classic_Gwii_DryDryRuinsX_Short	Dry Dry Ruins T
 Classic_Gwii_KoopaCape	{size[5d00]}Wii Koopa Cape{size[6400]}
 Classic_Gwii_KoopaCape_HashTag	WiiKoopaCape
 Classic_Gwii_KoopaCape_Short	Koopa Cape
@@ -4121,12 +4556,27 @@ Classic_Gwii_MapleTreewayRX_Short	Maple Treeway R/T
 Classic_Gwii_MapleTreewayX	{size[5d00]}Wii Maple Treeway T{size[6400]}
 Classic_Gwii_MapleTreewayX_HashTag	WiiMapleTreewayT
 Classic_Gwii_MapleTreewayX_Short	Maple Treeway T
+Classic_Gwii_MoonviewHighway	{size[5d00]}Wii Moonview Highway{size[6400]}
+Classic_Gwii_MoonviewHighway_HashTag	WiiMoonviewHighway
+Classic_Gwii_MoonviewHighway_Short	Moonview Highway
+Classic_Gwii_MoonviewHighwayR	{size[5d00]}Wii Moonview Highway R{size[6400]}
+Classic_Gwii_MoonviewHighwayR_HashTag	WiiMoonviewHighwayR
+Classic_Gwii_MoonviewHighwayR_Short	Moonview Highway R
+Classic_Gwii_MoonviewHighwayRX	{size[5d00]}Wii Moonview Highway R/T{size[6400]}
+Classic_Gwii_MoonviewHighwayRX_HashTag	WiiMoonviewHighwayRT
+Classic_Gwii_MoonviewHighwayRX_Short	Moonview Highway R/T
+Classic_Gwii_MoonviewHighwayX	{size[5d00]}Wii Moonview Highway T{size[6400]}
+Classic_Gwii_MoonviewHighwayX_HashTag	WiiMoonviewHighwayT
+Classic_Gwii_MoonviewHighwayX_Short	Moonview Highway T
 Classic_Gwii_MushroomGorge	{size[5d00]}Wii Mushroom Gorge{size[6400]}
 Classic_Gwii_MushroomGorge_HashTag	WiiMushroomGorge
 Classic_Gwii_MushroomGorge_Short	Mushroom Gorge
 Classic_Gwii_MushroomGorgeR	{size[5d00]}Wii Mushroom Gorge R{size[6400]}
 Classic_Gwii_MushroomGorgeR_HashTag	WiiMushroomGorgeR
 Classic_Gwii_MushroomGorgeR_Short	Mushroom Gorge R
+Classic_Gwii_MushroomGorgeRX	{size[5d00]}Wii Mushroom Gorge R/T{size[6400]}
+Classic_Gwii_MushroomGorgeRX_HashTag	WiiMushroomGorgeRT
+Classic_Gwii_MushroomGorgeRX_Short	Mushroom Gorge R/T
 Classic_Gwii_MushroomGorgeX	{size[5d00]}Wii Mushroom Gorge T{size[6400]}
 Classic_Gwii_MushroomGorgeX_HashTag	WiiMushroomGorgeT
 Classic_Gwii_MushroomGorgeX_Short	Mushroom Gorge T
@@ -4178,6 +4628,42 @@ New_Gmob_Amsterdam3RX_Short	Amsterdam Drift 3R/T
 New_Gmob_Amsterdam3X	{size[5d00]}Amsterdam Drift 3T{size[6400]}
 New_Gmob_Amsterdam3X_HashTag	AmsterdamDrift3T
 New_Gmob_Amsterdam3X_Short	Amsterdam Drift 3T
+New_Gmob_Athens1	Athens Dash
+New_Gmob_Athens1_HashTag	AthensDash
+New_Gmob_Athens1_Short	Athens Dash
+New_Gmob_Athens1R	Athens Dash R
+New_Gmob_Athens1R_HashTag	AthensDashR
+New_Gmob_Athens1R_Short	Athens Dash R
+New_Gmob_Athens1RX	Athens Dash R/T
+New_Gmob_Athens1RX_HashTag	AthensDashRT
+New_Gmob_Athens1RX_Short	Athens Dash R/T
+New_Gmob_Athens1X	Athens Dash T
+New_Gmob_Athens1X_HashTag	AthensDashT
+New_Gmob_Athens1X_Short	Athens Dash T
+New_Gmob_Athens2	Athens Dash 2
+New_Gmob_Athens2_HashTag	AthensDash2
+New_Gmob_Athens2_Short	Athens Dash 2
+New_Gmob_Athens2R	Athens Dash 2R
+New_Gmob_Athens2R_HashTag	AthensDash2R
+New_Gmob_Athens2R_Short	Athens Dash 2R
+New_Gmob_Athens2RX	Athens Dash 2R/T
+New_Gmob_Athens2RX_HashTag	AthensDash2RT
+New_Gmob_Athens2RX_Short	Athens Dash 2R/T
+New_Gmob_Athens2X	Athens Dash 2T
+New_Gmob_Athens2X_HashTag	AthensDash2T
+New_Gmob_Athens2X_Short	Athens Dash 2T
+New_Gmob_Athens3	Athens Dash 3
+New_Gmob_Athens3_HashTag	AthensDash3
+New_Gmob_Athens3_Short	Athens Dash 3
+New_Gmob_Athens3R	Athens Dash 3R
+New_Gmob_Athens3R_HashTag	AthensDash3R
+New_Gmob_Athens3R_Short	Athens Dash 3R
+New_Gmob_Athens3RX	Athens Dash 3R/T
+New_Gmob_Athens3RX_HashTag	AthensDash3RT
+New_Gmob_Athens3RX_Short	Athens Dash 3R/T
+New_Gmob_Athens3X	Athens Dash 3T
+New_Gmob_Athens3X_HashTag	AthensDash3T
+New_Gmob_Athens3X_Short	Athens Dash 3T
 New_Gmob_Bangkok1	{size[5d00]}Bangkok Rush{size[6400]}
 New_Gmob_Bangkok1_HashTag	BangkokRush
 New_Gmob_Bangkok1_Short	Bangkok Rush
@@ -4190,12 +4676,51 @@ New_Gmob_Bangkok1RX_Short	Bangkok Rush R/T
 New_Gmob_Bangkok1X	{size[5d00]}Bangkok Rush T{size[6400]}
 New_Gmob_Bangkok1X_HashTag	BangkokRushT
 New_Gmob_Bangkok1X_Short	Bangkok Rush T
+New_Gmob_Bangkok2	{size[5d00]}Bangkok Rush 2{size[6400]}
+New_Gmob_Bangkok2_HashTag	BangkokRush2
+New_Gmob_Bangkok2_Short	Bangkok Rush 2
+New_Gmob_Bangkok2R	{size[5d00]}Bangkok Rush 2R{size[6400]}
+New_Gmob_Bangkok2R_HashTag	BangkokRush2R
+New_Gmob_Bangkok2R_Short	Bangkok Rush 2R
+New_Gmob_Bangkok2RX	{size[5d00]}Bangkok Rush 2R/T{size[6400]}
+New_Gmob_Bangkok2RX_HashTag	BangkokRush2RT
+New_Gmob_Bangkok2RX_Short	Bangkok Rush 2R/T
+New_Gmob_Bangkok2X	{size[5d00]}Bangkok Rush 2T{size[6400]}
+New_Gmob_Bangkok2X_HashTag	BangkokRush2T
+New_Gmob_Bangkok2X_Short	Bangkok Rush 2T
+New_Gmob_Bangkok3	{size[5d00]}Bangkok Rush 3{size[6400]}
+New_Gmob_Bangkok3_HashTag	BangkokRush3
+New_Gmob_Bangkok3_Short	Bangkok Rush 3
+New_Gmob_Bangkok3R	{size[5d00]}Bangkok Rush 3R{size[6400]}
+New_Gmob_Bangkok3R_HashTag	BangkokRush3R
+New_Gmob_Bangkok3R_Short	Bangkok Rush 3R
+New_Gmob_Bangkok3RX	{size[5d00]}Bangkok Rush 3R/T{size[6400]}
+New_Gmob_Bangkok3RX_HashTag	BangkokRush3RT
+New_Gmob_Bangkok3RX_Short	Bangkok Rush 3R/T
+New_Gmob_Bangkok3X	{size[5d00]}Bangkok Rush 3T{size[6400]}
+New_Gmob_Bangkok3X_HashTag	BangkokRush3T
+New_Gmob_Bangkok3X_Short	Bangkok Rush 3T
+New_Gmob_Bathroom	{size[5d00]}Squeaky Clean Sprint{size[6400]}
+New_Gmob_Bathroom_HashTag	SqueakyCleanSprint
+New_Gmob_Bathroom_Short	Squeaky Clean Sprint
+New_Gmob_BathroomR	{size[5d00]}Squeaky Clean Sprint R{size[6400]}
+New_Gmob_BathroomR_HashTag	SqueakyCleanSprintR
+New_Gmob_BathroomR_Short	Squeaky Clean Sprint R
+New_Gmob_BathroomRX	{size[5d00]}Squeaky Clean Sprint R/T{size[6400]}
+New_Gmob_BathroomRX_HashTag	SqueakyCleanSprintRT
+New_Gmob_BathroomRX_Short	Squeaky Clean Sprint R/T
+New_Gmob_BathroomX	{size[5d00]}Squeaky Clean Sprint T{size[6400]}
+New_Gmob_BathroomX_HashTag	SqueakyCleanSprintT
+New_Gmob_BathroomX_Short	Squeaky Clean Sprint T
 New_Gmob_Berlin1	{size[5d00]}Berlin Byways{size[6400]}
 New_Gmob_Berlin1_HashTag	BerlinByways
 New_Gmob_Berlin1_Short	Berlin Byways
 New_Gmob_Berlin1R	{size[5d00]}Berlin Byways R{size[6400]}
 New_Gmob_Berlin1R_HashTag	BerlinBywaysR
 New_Gmob_Berlin1R_Short	Berlin Byways R
+New_Gmob_Berlin1RX	{size[5d00]}Berlin Byways R/T{size[6400]}
+New_Gmob_Berlin1RX_HashTag	BerlinBywaysRT
+New_Gmob_Berlin1RX_Short	Berlin Byways R/T
 New_Gmob_Berlin1X	{size[5d00]}Berlin Byways T{size[6400]}
 New_Gmob_Berlin1X_HashTag	BerlinBywaysT
 New_Gmob_Berlin1X_Short	Berlin Byways T
@@ -4217,9 +4742,24 @@ New_Gmob_Berlin3_Short	Berlin Byways 3
 New_Gmob_Berlin3R	{size[5d00]}Berlin Byways 3R{size[6400]}
 New_Gmob_Berlin3R_HashTag	BerlinByways3R
 New_Gmob_Berlin3R_Short	Berlin Byways 3R
+New_Gmob_Berlin3RX	{size[5d00]}Berlin Byways 3R/T{size[6400]}
+New_Gmob_Berlin3RX_HashTag	BerlinByways3RT
+New_Gmob_Berlin3RX_Short	Berlin Byways 3R/T
 New_Gmob_Berlin3X	{size[5d00]}Berlin Byways 3T{size[6400]}
 New_Gmob_Berlin3X_HashTag	BerlinByways3T
 New_Gmob_Berlin3X_Short	Berlin Byways 3T
+New_Gmob_Dokan	Piranha Plant Pipeline
+New_Gmob_Dokan_HashTag	PiranhaPlantPipeline
+New_Gmob_Dokan_Short	Piranha Plant Pipeline
+New_Gmob_DokanR	{size[5d00]}Piranha Plant Pipeline R{size[6400]}
+New_Gmob_DokanR_HashTag	PiranhaPlantPipelineR
+New_Gmob_DokanR_Short	Piranha Plant Pipeline R
+New_Gmob_DokanRX	{size[5d00]}Piranha Plant Pipeline R/T{size[6400]}
+New_Gmob_DokanRX_HashTag	PiranhaPlantPipelineRT
+New_Gmob_DokanRX_Short	Piranha Plant Pipeline R/T
+New_Gmob_DokanX	{size[5d00]}Piranha Plant Pipeline T{size[6400]}
+New_Gmob_DokanX_HashTag	PiranhaPlantPipelineT
+New_Gmob_DokanX_Short	Piranha Plant Pipeline T
 New_Gmob_HillClimb	{size[5d00]}Merry Mountain{size[6400]}
 New_Gmob_HillClimb_HashTag	MerryMountain
 New_Gmob_HillClimb_Short	Merry Mountain
@@ -4316,6 +4856,42 @@ New_Gmob_LosAngeles3RX_Short	Los Angeles Laps 3R/T
 New_Gmob_LosAngeles3X	{size[5d00]}Los Angeles Laps 3T{size[6400]}
 New_Gmob_LosAngeles3X_HashTag	LosAngelesLaps3T
 New_Gmob_LosAngeles3X_Short	Los Angeles Laps 3T
+New_Gmob_Madrid1	{size[5d00]}Madrid Drive{size[6400]}
+New_Gmob_Madrid1_HashTag	MadridDrive
+New_Gmob_Madrid1_Short	Madrid Drive
+New_Gmob_Madrid1R	{size[5d00]}Madrid Drive R{size[6400]}
+New_Gmob_Madrid1R_HashTag	MadridDriveR
+New_Gmob_Madrid1R_Short	Madrid Drive R
+New_Gmob_Madrid1RX	{size[5d00]}Madrid Drive R/T{size[6400]}
+New_Gmob_Madrid1RX_HashTag	MadridDriveRT
+New_Gmob_Madrid1RX_Short	Madrid Drive R/T
+New_Gmob_Madrid1X	{size[5d00]}Madrid Drive T{size[6400]}
+New_Gmob_Madrid1X_HashTag	MadridDriveT
+New_Gmob_Madrid1X_Short	Madrid Drive T
+New_Gmob_Madrid2	Madrid Drive 2
+New_Gmob_Madrid2_HashTag	MadridDrive2
+New_Gmob_Madrid2_Short	{size[5d00]}Madrid Drive 2{size[6400]}
+New_Gmob_Madrid2R	Madrid Drive 2R
+New_Gmob_Madrid2R_HashTag	MadridDrive2R
+New_Gmob_Madrid2R_Short	{size[5d00]}Madrid Drive 2R{size[6400]}
+New_Gmob_Madrid2RX	Madrid Drive 2R/T
+New_Gmob_Madrid2RX_HashTag	MadridDrive2RT
+New_Gmob_Madrid2RX_Short	{size[5d00]}Madrid Drive 2R/T{size[6400]}
+New_Gmob_Madrid2X	Madrid Drive 2T
+New_Gmob_Madrid2X_HashTag	MadridDrive2T
+New_Gmob_Madrid2X_Short	{size[5d00]}Madrid Drive 2T{size[6400]}
+New_Gmob_Madrid3	Madrid Drive 3
+New_Gmob_Madrid3_HashTag	MadridDrive3
+New_Gmob_Madrid3_Short	{size[5d00]}Madrid Drive 3{size[6400]}
+New_Gmob_Madrid3R	Madrid Drive 3R
+New_Gmob_Madrid3R_HashTag	MadridDrive3R
+New_Gmob_Madrid3R_Short	{size[5d00]}Madrid Drive 3R{size[6400]}
+New_Gmob_Madrid3RX	Madrid Drive 3R/T
+New_Gmob_Madrid3RX_HashTag	MadridDrive3RT
+New_Gmob_Madrid3RX_Short	{size[5d00]}Madrid Drive 3R/T{size[6400]}
+New_Gmob_Madrid3X	Madrid Drive 3T
+New_Gmob_Madrid3X_HashTag	MadridDrive3T
+New_Gmob_Madrid3X_Short	{size[5d00]}Madrid Drive 3T{size[6400]}
 New_Gmob_NewYork1	{size[5d00]}New York Minute{size[6400]}
 New_Gmob_NewYork1_HashTag	NewYorkMinute
 New_Gmob_NewYork1_Short	New York Minute
@@ -4376,6 +4952,42 @@ New_Gmob_NinjaMansionRX_Short	{size[5d00]}Ninja Hideaway R/T{size[6400]}
 New_Gmob_NinjaMansionX	Ninja Hideaway T
 New_Gmob_NinjaMansionX_HashTag	NinjaHideawayT
 New_Gmob_NinjaMansionX_Short	{size[5d00]}Ninja Hideaway T{size[6400]}
+New_Gmob_OceanRuins1	{size[5d00]}Piranha Plant Cove{size[6400]}
+New_Gmob_OceanRuins1_HashTag	PiranhaPlantCove
+New_Gmob_OceanRuins1_Short	Piranha Plant Cove
+New_Gmob_OceanRuins1R	{size[5d00]}Piranha Plant Cove R{size[6400]}
+New_Gmob_OceanRuins1R_HashTag	PiranhaPlantCoveR
+New_Gmob_OceanRuins1R_Short	Piranha Plant Cove R
+New_Gmob_OceanRuins1RX	{size[5d00]}Piranha Plant Cove R/T{size[6400]}
+New_Gmob_OceanRuins1RX_HashTag	PiranhaPlantCoveRT
+New_Gmob_OceanRuins1RX_Short	Piranha Plant Cove R/T
+New_Gmob_OceanRuins1X	{size[5d00]}Piranha Plant Cove T{size[6400]}
+New_Gmob_OceanRuins1X_HashTag	PiranhaPlantCoveT
+New_Gmob_OceanRuins1X_Short	Piranha Plant Cove T
+New_Gmob_OceanRuins2	{size[5d00]}Piranha Plant Cove 2{size[6400]}
+New_Gmob_OceanRuins2_HashTag	PiranhaPlantCove2
+New_Gmob_OceanRuins2_Short	Piranha Plant Cove 2
+New_Gmob_OceanRuins2R	{size[5d00]}Piranha Plant Cove 2R{size[6400]}
+New_Gmob_OceanRuins2R_HashTag	PiranhaPlantCove2R
+New_Gmob_OceanRuins2R_Short	Piranha Plant Cove 2R
+New_Gmob_OceanRuins2RX	{size[5d00]}Piranha Plant Cove 2R/T{size[6400]}
+New_Gmob_OceanRuins2RX_HashTag	PiranhaPlantCove2RT
+New_Gmob_OceanRuins2RX_Short	Piranha Plant Cove 2R/T
+New_Gmob_OceanRuins2X	{size[5d00]}Piranha Plant Cove 2T{size[6400]}
+New_Gmob_OceanRuins2X_HashTag	PiranhaPlantCove2T
+New_Gmob_OceanRuins2X_Short	Piranha Plant Cove 2T
+New_Gmob_OceanRuins3	{size[5d00]}Piranha Plant Cove 3{size[6400]}
+New_Gmob_OceanRuins3_HashTag	PiranhaPlantCove3
+New_Gmob_OceanRuins3_Short	Piranha Plant Cove 3
+New_Gmob_OceanRuins3R	{size[5d00]}Piranha Plant Cove 3R{size[6400]}
+New_Gmob_OceanRuins3R_HashTag	PiranhaPlantCove3R
+New_Gmob_OceanRuins3R_Short	Piranha Plant Cove 3R
+New_Gmob_OceanRuins3RX	{size[5d00]}Piranha Plant Cove 3R/T{size[6400]}
+New_Gmob_OceanRuins3RX_HashTag	PiranhaPlantCove3RT
+New_Gmob_OceanRuins3RX_Short	Piranha Plant Cove 3R/T
+New_Gmob_OceanRuins3X	{size[5d00]}Piranha Plant Cove 3T{size[6400]}
+New_Gmob_OceanRuins3X_HashTag	PiranhaPlantCove3T
+New_Gmob_OceanRuins3X_Short	Piranha Plant Cove 3T
 New_Gmob_Paris1	{size[5d00]}Paris Promenade{size[6400]}
 New_Gmob_Paris1_HashTag	ParisPromenade
 New_Gmob_Paris1_Short	Paris Promenade
@@ -4412,6 +5024,42 @@ New_Gmob_Paris3RX_Short	Paris Promenade 3R/T
 New_Gmob_Paris3X	{size[5d00]}Paris Promenade 3T{size[6400]}
 New_Gmob_Paris3X_HashTag	ParisPromenade3T
 New_Gmob_Paris3X_Short	Paris Promenade 3T
+New_Gmob_Rome1	{size[5d00]}Rome Avanti{size[6400]}
+New_Gmob_Rome1_HashTag	RomeAvanti
+New_Gmob_Rome1_Short	Rome Avanti
+New_Gmob_Rome1R	{size[5d00]}Rome Avanti R{size[6400]}
+New_Gmob_Rome1R_HashTag	RomeAvantiR
+New_Gmob_Rome1R_Short	Rome Avanti R
+New_Gmob_Rome1RX	{size[5d00]}Rome Avanti R/T{size[6400]}
+New_Gmob_Rome1RX_HashTag	RomeAvantiRT
+New_Gmob_Rome1RX_Short	Rome Avanti R/T
+New_Gmob_Rome1X	{size[5d00]}Rome Avanti T{size[6400]}
+New_Gmob_Rome1X_HashTag	RomeAvantiT
+New_Gmob_Rome1X_Short	Rome Avanti T
+New_Gmob_Rome2	{size[5d00]}Rome Avanti 2{size[6400]}
+New_Gmob_Rome2_HashTag	RomeAvanti2
+New_Gmob_Rome2_Short	Rome Avanti 2
+New_Gmob_Rome2R	{size[5d00]}Rome Avanti 2R{size[6400]}
+New_Gmob_Rome2R_HashTag	RomeAvanti2R
+New_Gmob_Rome2R_Short	Rome Avanti 2R
+New_Gmob_Rome2RX	{size[5d00]}Rome Avanti 2R/T{size[6400]}
+New_Gmob_Rome2RX_HashTag	RomeAvanti2RT
+New_Gmob_Rome2RX_Short	Rome Avanti 2R/T
+New_Gmob_Rome2X	{size[5d00]}Rome Avanti 2T{size[6400]}
+New_Gmob_Rome2X_HashTag	RomeAvanti2T
+New_Gmob_Rome2X_Short	Rome Avanti 2T
+New_Gmob_Rome3	{size[5d00]}Rome Avanti 3{size[6400]}
+New_Gmob_Rome3_HashTag	RomeAvanti3
+New_Gmob_Rome3_Short	Rome Avanti 3
+New_Gmob_Rome3R	{size[5d00]}Rome Avanti 3R{size[6400]}
+New_Gmob_Rome3R_HashTag	RomeAvanti3R
+New_Gmob_Rome3R_Short	Rome Avanti 3R
+New_Gmob_Rome3RX	{size[5d00]}Rome Avanti 3R/T{size[6400]} 
+New_Gmob_Rome3RX_HashTag	RomeAvanti3RT
+New_Gmob_Rome3RX_Short	Rome Avanti 3R/T
+New_Gmob_Rome3X	{size[5d00]}Rome Avanti 3T{size[6400]}
+New_Gmob_Rome3X_HashTag	RomeAvanti3T
+New_Gmob_Rome3X_Short	Rome Avanti 3T
 New_Gmob_Singapore1	Singapore Speedway
 New_Gmob_Singapore1_HashTag	SingaporeSpeedway
 New_Gmob_Singapore1_Short	{size[5d00]}Singapore Speedway{size[6400]}
@@ -4436,6 +5084,18 @@ New_Gmob_Singapore2RX_Short	{size[5d00]}Singapore Speedway 2R/T{size[6400]}
 New_Gmob_Singapore2X	{size[5d00]}Singapore Speedway 2T{size[6400]}
 New_Gmob_Singapore2X_HashTag	SingaporeSpeedway2T
 New_Gmob_Singapore2X_Short	Singapore Speedway 2T
+New_Gmob_Singapore3	Singapore Speedway 3
+New_Gmob_Singapore3_HashTag	SingaporeSpeedway3
+New_Gmob_Singapore3_Short	{size[5d00]}Singapore Speedway 3{size[6400]}
+New_Gmob_Singapore3R	Singapore Speedway 3R
+New_Gmob_Singapore3R_HashTag	SingaporeSpeedway3R
+New_Gmob_Singapore3R_Short	{size[5d00]}Singapore Speedway 3R{size[6400]}
+New_Gmob_Singapore3RX	{size[5d00]}Singapore Speedway 3R/T{size[6400]}
+New_Gmob_Singapore3RX_HashTag	SingaporeSpeedway3RT
+New_Gmob_Singapore3RX_Short	{size[5d00]}Singapore Speedway 3R/T{size[6400]}
+New_Gmob_Singapore3X	{size[5d00]}Singapore Speedway 3T{size[6400]}
+New_Gmob_Singapore3X_HashTag	SingaporeSpeedway3T
+New_Gmob_Singapore3X_Short	Singapore Speedway 3T
 New_Gmob_Sydney1	{size[5d00]}Sydney Sprint{size[6400]}
 New_Gmob_Sydney1_HashTag	SydneySprint
 New_Gmob_Sydney1_Short	Sydney Sprint
@@ -4466,6 +5126,9 @@ New_Gmob_Sydney3_Short	Sydney Sprint 3
 New_Gmob_Sydney3R	{size[5d00]}Sydney Sprint 3R{size[6400]}
 New_Gmob_Sydney3R_HashTag	SydneySprint3R
 New_Gmob_Sydney3R_Short	Sydney Sprint 3R
+New_Gmob_Sydney3RX	{size[5d00]}Sydney Sprint 3R/T{size[6400]}
+New_Gmob_Sydney3RX_HashTag	SydneySprint3RT
+New_Gmob_Sydney3RX_Short	Sydney Sprint 3R/T
 New_Gmob_Sydney3X	{size[5d00]}Sydney Sprint 3T{size[6400]}
 New_Gmob_Sydney3X_HashTag	SydneySprint3T
 New_Gmob_Sydney3X_Short	Sydney Sprint 3T
@@ -4553,12 +5216,27 @@ New_Gmob_Vancouver3RX_Short	Vancouver Velocity 3R/T
 New_Gmob_Vancouver3X	Vancouver Velocity 3T
 New_Gmob_Vancouver3X_HashTag	VancouverVelocity3T
 New_Gmob_Vancouver3X_Short	Vancouver Velocity 3T
+New_Gmob_YoshiIsland	{size[5d00]}Yoshi's Island{size[6400]}
+New_Gmob_YoshiIsland_HashTag	YoshisIsland
+New_Gmob_YoshiIsland_Short	Yoshi's Island
+New_Gmob_YoshiIslandR	{size[5d00]}Yoshi's Island R{size[6400]}
+New_Gmob_YoshiIslandR_HashTag	YoshisIslandR
+New_Gmob_YoshiIslandR_Short	Yoshi's Island R
+New_Gmob_YoshiIslandRX	{size[5d00]}Yoshi's Island R/T{size[6400]}
+New_Gmob_YoshiIslandRX_HashTag	YoshisIslandRT
+New_Gmob_YoshiIslandRX_Short	Yoshi's Island R/T
+New_Gmob_YoshiIslandX	{size[5d00]}Yoshi's Island T{size[6400]}
+New_Gmob_YoshiIslandX_HashTag	YoshisIslandT
+New_Gmob_YoshiIslandX_Short	Yoshi's Island T
 Remix_Gragb_BowserCastle1	{size[5d00]}RMX Bowser's Castle 1{size[6400]}
 Remix_Gragb_BowserCastle1_HashTag	RMXBowsersCastle1
 Remix_Gragb_BowserCastle1_Short	RMX Bowser's Castle 1
 Remix_Gragb_BowserCastle1R	{size[5d00]}RMX Bowser's Castle 1R{size[6400]}
 Remix_Gragb_BowserCastle1R_HashTag	RMXBowsersCastle1R
 Remix_Gragb_BowserCastle1R_Short	RMX Bowser's Castle 1R
+Remix_Gragb_BowserCastle1RX	{size[5d00]}RMX Bowser's Castle 1R/T{size[6400]}
+Remix_Gragb_BowserCastle1RX_HashTag	RMXBowsersCastle1RT
+Remix_Gragb_BowserCastle1RX_Short	{size[5d00]}RMX Bowser's Castle 1R/T{size[6400]}
 Remix_Gragb_BowserCastle1X	{size[5d00]}RMX Bowser's Castle 1T{size[6400]}
 Remix_Gragb_BowserCastle1X_HashTag	RMXBowsersCastle1T
 Remix_Gragb_BowserCastle1X_Short	RMX Bowser's Castle 1T
@@ -4580,6 +5258,9 @@ Remix_Grsfc_ChocoIsland2_Short	RMX Choco Island 2
 Remix_Grsfc_ChocoIsland2R	{size[5d00]}RMX Choco Island 2R{size[6400]}
 Remix_Grsfc_ChocoIsland2R_HashTag	RMXChocoIsland2R
 Remix_Grsfc_ChocoIsland2R_Short	RMX Choco Island 2R
+Remix_Grsfc_ChocoIsland2RX	{size[5d00]}RMX Choco Island 2R/T{size[6400]}
+Remix_Grsfc_ChocoIsland2RX_HashTag	RMXChocoIsland2RT
+Remix_Grsfc_ChocoIsland2RX_Short	RMX Choco Island 2R/T
 Remix_Grsfc_ChocoIsland2X	{size[5d00]}RMX Choco Island 2T{size[6400]}
 Remix_Grsfc_ChocoIsland2X_HashTag	RMXChocoIsland2T
 Remix_Grsfc_ChocoIsland2X_Short	RMX Choco Island 2T
@@ -4649,9 +5330,24 @@ Remix_Grsfc_VanillaLake1_Short	RMX Vanilla Lake 1
 Remix_Grsfc_VanillaLake1R	{size[5d00]}RMX Vanilla Lake 1R{size[6400]}
 Remix_Grsfc_VanillaLake1R_HashTag	RMXVanillaLake1R
 Remix_Grsfc_VanillaLake1R_Short	RMX Vanilla Lake 1R
+Remix_Grsfc_VanillaLake1RX	{size[5d00]}RMX Vanilla Lake 1R/T{size[6400]}
+Remix_Grsfc_VanillaLake1RX_HashTag	RMXVanillaLake1RT
+Remix_Grsfc_VanillaLake1RX_Short	RMX Vanilla Lake 1R/T
 Remix_Grsfc_VanillaLake1X	{size[5d00]}RMX Vanilla Lake 1T{size[6400]}
 Remix_Grsfc_VanillaLake1X_HashTag	RMXVanillaLake1T
 Remix_Grsfc_VanillaLake1X_Short	RMX Vanilla Lake 1T
+Remix_Grsfc_VanillaLake2	{size[5d00]}RMX Vanilla Lake 2{size[6400]}
+Remix_Grsfc_VanillaLake2_HashTag	RMXVanillaLake2
+Remix_Grsfc_VanillaLake2_Short	RMX Vanilla Lake 2
+Remix_Grsfc_VanillaLake2R	{size[5d00]}RMX Vanilla Lake 2R{size[6400]}
+Remix_Grsfc_VanillaLake2R_HashTag	RMXVanillaLake2R
+Remix_Grsfc_VanillaLake2R_Short	RMX Vanilla Lake 2R
+Remix_Grsfc_VanillaLake2RX	{size[5d00]}RMX Vanilla Lake 2R/T{size[6400]}
+Remix_Grsfc_VanillaLake2RX_HashTag	RMXVanillaLake2RT
+Remix_Grsfc_VanillaLake2RX_Short	RMX Vanilla Lake 2R/T
+Remix_Grsfc_VanillaLake2X	{size[5d00]}RMX Vanilla Lake 2T{size[6400]}
+Remix_Grsfc_VanillaLake2X_HashTag	RMXVanillaLake2T
+Remix_Grsfc_VanillaLake2X_Short	RMX Vanilla Lake 2T
 8.msbt
 item_kartballoon_common_detail	Choose your favorite balloon\r\nand join the battle!
 item00001	Donkey Kong
@@ -4682,6 +5378,7 @@ item00026	Baby Peach
 item00027	Baby Rosalina
 item00028	Cat Peach
 item00029	Gold Mario
+item00277	Gold Mario
 item00030	Iggy
 item00031	Larry
 item00032	Lemmy
@@ -4700,6 +5397,7 @@ item00044	Peach (Kimono)
 item00045	Nabbit
 item00046	Peach (Vacation)
 item00047	Mario (Musician)
+item00048	Mario (Black Suit)
 item00049	Captain Toad
 item00050	Diddy Kong
 item00051	Hammer Bro
@@ -4714,13 +5412,18 @@ item00060	Ice Bro
 item00061	Blue Shy Guy
 item00062	Black Yoshi
 item00063	Blue Yoshi
+item00064	Light-blue Yoshi
 item00065	Orange Yoshi
 item00066	Pink Yoshi
 item00067	Red Yoshi
 item00068	White Yoshi
+item00069	Yellow Yoshi
 item00070	Black Shy Guy
 item00071	Light-blue Shy Guy
 item00072	Green Shy Guy
+item00073	Orange Shy Guy
+item00074	White Shy Guy
+item00075	Yellow Shy Guy
 item00076	Pink Shy Guy
 item00077	Luigi (Painter)
 item00078	Peach (Wintertime)
@@ -4743,12 +5446,17 @@ item00097	Pink Toad (Pit Crew)
 item00098	Red Toad (Pit Crew)
 item00099	Yellow Toad (Pit Crew)
 item00102	Light-blue Toad (Pit Crew)
+item00103	Purple Toad (Pit Crew)
 item00104	Birdo (Black)
 item00105	Birdo (Blue)
+item00106	Birdo (Green)
 item00107	Birdo (Light Blue)
+item00108	Birdo (Orange)
+item00109	Birdo (Red)
 item00110	Birdo (White)
 item00111	Birdo (Yellow)
 item00112	Baby Rosalina (Detective)
+item00113	Koopa (Freerunning)
 item00114	Blue Koopa (Freerunning)
 item00115	Gold Koopa (Freerunning)
 item00116	Purple Koopa (Freerunning)
@@ -4820,6 +5528,7 @@ item00182	Bowser (Santa)
 item00184	Luigi (Knight)
 item00185	Daisy (Thai Dress)
 item00186	Lakitu (Party Time)
+item00187	Luigi (Gold Knight)
 item00188	Waluigi (Vampire)
 item00189	Pauline (Rose)
 item00190	Peach Mii Racing Suit
@@ -4833,17 +5542,23 @@ item00197	Wario Mii Racing Suit
 item00198	Rosalina Mii Racing Suit
 item00199	Bowser Mii Racing Suit
 item00200	Donkey Kong Mii Racing Suit
+item00201	{size[5a00]}Light-blue Shy Guy (Explorer){size[6400]}
 item00202	Yoshi (Gold Egg)
 item00203	Larry (Wintertime)
 item00204	Petey Piranha
+item00205	Wiggler
+item00206	Donkey Kong (Gladiator)
+item00207	Poochy
 item00208	Penguin Mario
 item00209	Petey Piranha (Gold)
+item00210	Pauline (Cowgirl)
 item00211	Kitsune Luigi
 item00212	Cat Luigi
 item00213	Santa Mii Racing Suit
 item00214	King Boo Mii Racing Suit
 item00215	Reindeer Mii Racing Suit
 item00216	Mario (Golf)
+item00217	{size[5d00]}Roaring Racer Mii Racing Suit{size[6400]}
 item00218	Pastry Chef Mii Racing Suit
 item00219	Luigi (Golf)
 item00220	Gold Mii Racing Suit
@@ -4860,19 +5575,47 @@ item00232	Cat Mii Racing Suit
 item00233	Moo Moo Mii Racing Suit
 item00234	Nabbit Mii Racing Suit
 item00235	? Block Mii Racing Suit
+item00236	Spike Mii Racing Suit
 item00237	Castle Mii Racing Suit
 item00238	{size[5d00]}Petey Piranha Mii Racing Suit{size[6400]}
 item00239	{size[5d00]}Hammer Bro Mii Racing Suit{size[6400]}
+item00240	Wiggler Mii Racing Suit
+item00241	{size[5800]}Para-Biddybud Mii Racing Suit{size[6400]}
 item00248	Pink Shy Guy (Ninja)
 item00243	Dry Bones Mii Racing Suit
 item00244	{size[5d00]}Rocky Wrench Mii Racing Suit{size[6400]}
+item00245	Pokey Mii Racing Suit
 item00246	Dry Bowser Mii Racing Suit
+item00247	Toadette Mii Racing Suit
+item00249	Piranha Plant Mii Racing Suit
+item00250	Fish Bone Mii Racing Suit
+item00251	Blooper Mii Racing Suit
+item00252	Waluigi Mii Racing Suit
 item00253	Goomba Mii Racing Suit
+item00254	Daisy Mii Racing Suit
+item00256	Toad (Tourist)
+item00257	Koopa Clown Mii Racing Suit
+item00258	Monty Mole Mii Racing Suit
+item00259	Larry Mii Racing Suit
+item00260	Roy Mii Racing Suit
+item00261	Wendy Mii Racing Suit
+item00262	Ludwig Mii Racing Suit
+item00263	Lemmy Mii Racing Suit
+item00264	Iggy Mii Racing Suit
 item00265	Yellow Mii Racing Suit
 item00266	Black Mii Racing Suit
+item00267	Blue Mii Racing Suit
+item00268	Brown Mii Racing Suit
 item00269	Green Mii Racing Suit
+item00270	Light Blue Mii Racing Suit
+item00271	Light Green Mii Racing Suit
+item00272	Orange Mii Racing Suit
+item00273	Pink Mii Racing Suit
 item00274	Purple Mii Racing Suit
 item00275	White Mii Racing Suit
+item00276	Morton Mii Racing Suit
+item00278	Yellow Shy Guy (Explorer)
+item00279	Wiggler (Gold)
 item30001	Super Glider
 item30010	Swooper
 item30015	Paper Glider
@@ -4900,6 +5643,7 @@ item30088	Royal Parachute
 item30090	Minion Paper Glider
 item30092	Fuzzy Kite
 item30097	Dry Bowser Umbrella
+item30098	Roy Oilpaper
 item30099	Lightning Oilpaper
 item30108	Rainy Balloons
 item30109	Blizzard Balloons
@@ -4935,6 +5679,7 @@ item30161	Butterfly Prism
 item30163	Banana Wingtip
 item30164	Blooper Wingtip
 item30167	Meteor Balloons
+item30168	Stealth Glider
 item30170	Gold Crane
 item30171	Crimson Crane
 item30172	Waluigi Wing
@@ -4953,6 +5698,7 @@ item30192	Heart Balloons
 item30193	Fireworks Parachute
 item30194	Glittering Parasol
 item30196	Great Sail
+item30199	Royal Flush
 item30200	Silver-and-Gold Hearts
 item30201	Luma Parafoil
 item30202	Blizzard Parasol
@@ -4973,6 +5719,8 @@ item30225	Bright Glider
 item30229	Ship's Wheel
 item30239	Tropical Glider
 item30241	8-Bit Star
+item30245	8-Bit Block Glider
+item30247	8-Bit Super Glider
 item30248	8-Bit Fire Flower
 item30250	Luigi's Hat Balloon
 item30251	Mario's Hat Balloon
@@ -4988,14 +5736,18 @@ item30271	Luigi's Mustache
 item30273	Waluigi's Mustache
 item30275	Wario's Mustache
 item30276	Nabbit Oilpaper Umbrella
+item30277	Nabbit Parachute
+item30278	Golden Glider
 item30281	Super Mario Kart Glider
 item30284	Cheep Cheep Masks
 item30286	Origami Glider
 item30287	Spider Glider
 item30288	8-Bit 1-Up Mushroom
 item30289	Magic Parasol
+item30290	Gold Origami Glider
 item30298	Penguin Wingtip
 item30299	8-Bit Bullet Bill
+item30300	8-Bit Goomba
 item30301	Sakura Origami Glider
 item30303	White Waves Origami Glider
 item30304	Gold Penguin Wingtip
@@ -5007,8 +5759,11 @@ item30313	Vampire Wings
 item30316	Dream Glider
 item30318	Record Setter
 item30320	Gold New Year's Kite
+item30321	Gold Manta Glider
 item30322	Silver Manta Glider
 item30323	Chocolate Pretzel
+item30324	Gold Flappy Wings
+item30325	Rainbow Flappy Wings
 item30327	Ninja Scroll
 item30330	Calico Parafoil
 item30331	Cat Parafoil
@@ -5017,10 +5772,14 @@ item30333	Black Cat Parafoil
 item30336	Snow Crystals
 item30337	Polka-Dot Manta Glider
 item30338	Bright Balloons
+item30339	Bright Ribbon
 item30341	Surf Master
 item30343	Silver Surf Master
+item30344	Wavy Great Sail
 item30347	Starry Great Sail
+item30348	Dolphin Great Sail
 item30351	Galaxy Glider
+item30354	Glittering Glider
 item30355	Glinting Glider
 item30356	Aurora Balloons
 item30358	Home-Field Glider
@@ -5029,71 +5788,125 @@ item30363	Green Sprout
 item30365	Flying Easel
 item30366	Gold Home-Field Glider
 item30372	{size[5d00]}Vanilla & Chocolate Balloons{size[6400]}
+item30373	Gold Chocolate Balloons
+item30376	Melon & Banana Balloons
+item30377	Mario Bros. Parafoil
 item30378	Sunny Surf Master
+item30381	Spooky Sprinkle Balloons
 item30383	Tanooki Parafoil
+item30385	Gold Candlelight Flight
 item30386	Silver Candlelight Flight
 item30387	Candlelight Flight
 item30390	Autumn Leaves
 item30391	Gold Tanooki Parafoil
 item30398	Piranha Plant Balloons
+item30399	Mosaic Starchute
 item30400	Candlelight Flight Cake
 item30401	Boo Masks
 item30403	New Year's 2022
+item30404	Gold Piranha Plant Balloons
 item30406	Gold Toe-Bean Balloons
 item30408	Luigi Parafoil
+item30409	Gold Boo Masks
 item30412	Sky-High Flyer
 item30414	Wonderful Garnet
+item30420	Wonderful Diamond
 item30424	Magniflying Glass
 item30431	Wicked Topaz
 item30436	Gold Eggshell Glider
+item30439	Red Checkered Glider
+item30445	Green Checkered Glider
+item30449	Pink Checkered Glider
+item30455	Gold Checkered Glider
 item30459	Flying Flappers
 item30460	Festive Holly
+item30461	Gold Mario's Hat Balloon
 item30462	Gold Cloud Balloons
 item30463	Lava Rocks
 item30464	Calico Toe-Bean Balloons
 item30465	Fire Manta Glider
 item30467	Tulip Corsage
 item30468	Secret Scroll
+item30469	Gold Tulips
 item30475	Pink Magniflying Glass
 item30476	Silver Luigi's Mustache
+item30480	Gold Bells
+item30481	Rainbow Bells
 item30482	Black Starchute
+item30484	Yoshi's Cookies
 item30485	Rainbow Fare Flier
 item30487	Icy Mario's Mustache
 item30492	Green Cat Parafoil
 item30494	Para-Panini
 item30496	Red and Gold Umbrella
 item30498	Tropical Balloons
+item30501	Gold Umbrella
+item30503	Jellychute
+item30507	Red Emblem
+item30508	Green Emblem
+item30511	Smiley Flower Glider
+item30515	Wiggler Parachute
+item30521	Gold Mario Golf Cap
+item30522	Luigi Golf Cap
+item30523	Mario Golf Cap
 item30531	New Year's 2023
+item30532	Gold 8-Bit Glider
 item30533	Gold Hard Hat Balloon
 item30534	Yellow Hard Hat Balloon
+item30536	Pink Bubble Balloon
 item40002	Mario Balloon
 item40003	Peach Balloon
 item40004	Balloon
 item40005	Star-Shaped Balloon
 item40007	Heart-Shaped Balloon
 item40008	Boo-Shaped Balloon
+item40009	Blooper-Shaped Balloon
+item40010	Daisy Balloon
+item40011	Bowser Balloon
+item40012	Luigi Balloon
+item40013	Rosalina Balloon
 item40014	Diddy Kong Balloon
 item40015	Donkey Kong Balloon
 item40016	Kamek Balloon
+item40017	Toad Balloon
 item40018	Bowser Jr. Balloon
 item40019	Waluigi Balloon
 item40020	Wario Balloon
 item40021	Yoshi Balloon
+item40022	Bob-omb Balloon
 item40023	Monty Mole Balloon
 item40024	Blooper Balloon
+item40025	Shy Guy Balloon
 item40026	Lakitu Balloon
 item40027	Dry Bones Balloon
+item40028	Goomba Balloon
 item40029	Buzzy Beetle Balloon
 item40030	Koopa Troopa Balloon
 item40031	Koopa Paratroopa Balloon
+item40032	Cheep Cheep Balloon
 item40033	Boo Balloon
 item40034	Spiny Balloon
+item40035	1-Up Mushroom Balloon
+item40036	Banana Balloon
 item40037	Coin Balloon
+item40038	Yoshi's Egg Balloon
+item40039	Fire Flower Balloon
 item40040	? Block Balloon
 item40041	Bullet Bill Balloon
+item40042	Super Mushroom Balloon
 item40043	Green Shell Balloon
+item40044	Piranha Plant Balloon
 item40045	Red Shell Balloon
 item40046	Super Star Balloon
+item40047	Chain Chomp Balloon
+item40048	Iggy Balloon
+item40049	Larry Balloon
+item40050	Lemmy Balloon
+item40051	Ludwig Balloon
+item40052	Morton Balloon
+item40053	Roy Balloon
+item40054	Wendy Balloon
+item40055	Cloud-Shaped Balloon
 item40056	Pumpkin-Shaped Balloon
 item70009_10082_20031	Bolt Buggy
 item70011_10078_20008	B Dasher
@@ -5103,6 +5916,7 @@ item70016_10157_20038	Carrot Kart
 item70017_10118_20178	Cat Cruiser
 item70019_10083_20034	Cucumber
 item70020_10084_20008	Zucchini
+item70237_10147_20183	Rainbow Pipe Buggy
 item70419_10138_20204	Swift Talon
 item70023_10062_20040	Egg 1
 item70024_10124_20050	Daytripper
@@ -5169,13 +5983,16 @@ item70130_10246_20070	White Royale
 item70131_10059_20040	Birthday Girl Rosalina
 item70132_10182_20110	Black Turbo Yoshi
 item70133_10183_20066	Blue Turbo Yoshi
+item70134_10184_20066	Light-blue Turbo Yoshi
 item70135_10185_20066	Orange Turbo Yoshi
 item70136_10186_20066	Pink Turbo Yoshi
 item70137_10187_20066	Red Turbo Yoshi
 item70138_10188_20051	White Turbo Yoshi
+item70139_10189_20066	Yellow Turbo Yoshi
 item70141_10123_20061	Pink Mushmellow
 item70143_10159_20039	Radish Rider
 item70144_10158_20098	Daikon Rocket
+item70145_10266_20036	Mach 8-R
 item70146_10193_20043	Green Cheep Charger
 item70147_10314_20037	Cheermellow
 item70148_10315_20028	Swift Jack
@@ -5200,7 +6017,10 @@ item70176_10238_20085	Choco Macharon
 item70178_10080_20101	P-Wing
 item70179_10195_20110	Black Turbo Birdo
 item70180_10196_20066	Blue Turbo Birdo
+item70181_10197_20066	Green Turbo Birdo
 item70182_10198_20066	Light-blue Turbo Birdo
+item70183_10199_20066	Orange Turbo Birdo
+item70184_10200_20066	Red Turbo Birdo
 item70185_10201_20051	White Turbo Birdo
 item70186_10202_20066	Yellow Turbo Birdo
 item70187_10335_20032	Ice-blue Poltergust
@@ -5250,6 +6070,7 @@ item70250_10057_20047	Gold Pipe Frame
 item70251_10405_20041	Festival Girl
 item70252_10362_20067	Surf Sailer
 item70254_10423_20148	Coconut 1
+item70255_10424_20043	Pineapple 1
 item70256_10381_20035	Star-Spangled Flyer
 item70257_10359_20144	Combo Cruiser
 item70259_10076_20038	Green Circuit
@@ -5278,7 +6099,9 @@ item70284_10412_20158	Purple Bunny
 item70285_10365_20047	Gold Bunny
 item70286_10448_20003	Jade Hop Rod
 item70287_10478_20097	Crimson Hop Rod
+item70288_10477_20044	Gold Hop Rod
 item70289_10494_20179	Sakura Quickshaw
+item70290_10501_20105	Gold Quickshaw
 item70291_10247_20045	Blue Royale
 item70292_10445_20075	Jet Cruiser
 item70294_10518_20181	Pink Dozer
@@ -5287,6 +6110,7 @@ item70296_10242_20081	Lime Tea Coupe
 item70297_10555_20189	Sunny Surf Sailer
 item70298_10500_20098	Pinch Hitter
 item70299_10508_20097	Cleanup Hitter
+item70300_10503_20044	Gold Wild Slugger
 item70302_10561_20191	Dark Hop Rod
 item70303_10562_20195	Ice Dozer
 item70304_10421_20172	Kamek's Zoom Broom
@@ -5299,6 +6123,7 @@ item70312_10440_20212	Cream B Dasher Mk. 2
 item70313_10441_20209	Green B Dasher Mk. 2
 item70315_10443_20210	Red B Dasher Mk. 2
 item70316_10542_20206	Pink B Dasher Mk. 2
+item70317_10572_20201	Black B Dasher Mk. 2
 item70318_10573_20207	Metal B Dasher Mk. 2
 item70319_10574_20213	Sky-Blue B Dasher Mk. 2
 item70320_10575_20211	Classic B Dasher Mk. 2
@@ -5329,6 +6154,8 @@ item70348_10605_20250	Star Broom
 item70352_10436_20161	Yellow 8-Bit Pipe Frame
 item70354_10401_20097	Warrior Wagon
 item70355_10533_20248	Armored Rider
+item70356_10540_20044	Gold Warrior Wagon
+item70357_10541_20026	Silver Warrior Wagon
 item70358_10626_20251	Sakura Hop Rod
 item70360_10613_20276	Flower Kart
 item70361_10260_20198	White Bruiser
@@ -5344,18 +6171,25 @@ item70372_10679_20287	Tuk-Tuk Kart
 item70373_10546_20288	Tropical Truck
 item70376_10454_20047	Gold Zucchini
 item70378_10654_20294	Piranha Pipes
+item70379_10677_20293	Boo Pipes
+item70380_10681_20295	Gold Pipes
 item70383_10664_20298	Coral Jet Cruiser
 item70384_10655_20297	Watermelon Kart
 item70385_10703_20240	Flowery Badwagon
 item70386_10585_20173	Ice-Cream Minibus
 item70387_10595_20232	Chocolate Banana Minibus
+item70391_10551_20186	Chocolate Mint Soft Swerve
 item70392_10552_20188	Strawberry Soft Swerve
+item70394_10549_20107	Gold Soft Swerve
 item70396_10684_20301	Goo-Goo Black
+item70398_10690_20110	Goo-Goo Gold
 item70399_10671_20299	Red Offroader
 item70402_10602_20291	Moo Moo Offroader
 item70403_10597_20300	Cact-B
 item70404_10680_20174	Rainbow Taxi
 item70405_10547_20176	Shielded Speedster
+item70406_10566_20304	Black Shielded Speedster
+item70407_10567_20303	Gold Shielded Speedster
 item70408_10625_20035	Black Carriage
 item70411_10287_20313	Green Speeder
 item70412_10351_20316	Flaming Speeder
@@ -5369,7 +6203,47 @@ item70423_10392_20178	Pink Sneeker
 item70424_10034_20096	Black Sneeker
 item70425_10259_20108	Gold Bruiser
 item70426_10464_20044	Gold Jingle Bell
+item70427_10667_20097	Black Jingle Bell
+item70428_10390_20318	Rainbow Streetle
 item70429_10536_20214	Gold Sweet Ride
+item70430_10531_20042	Hot Pot Hot Rod
+item70431_10598_20265	Blue Crawly Kart
+item70432_10648_20146	Gold Capsule Kart
+item70433_10516_20148	Taiko Drum Dasher
+item70435_10426_20327	Bright Girl
+item70436_10693_20177	Sakura Sports Coupe
+item70437_10592_20040	Jumbo Jetter
+item70438_10673_20277	Silver Flower Kart
+item70440_10462_20044	Gold Paintster
+item70441_10432_20176	Cream Classic
+item70443_10476_20175	Bronze Cucumber
+item70444_10385_20109	Gold Sushi Racer
+item70445_10291_20092	Dry Bones Dasher
+item70446_10727_20312	Gold 8-Bit Pipe Frame
+item70447_10726_20311	Huffin Puffin Egg
+item70448_10628_20257	Red Comet
+item70449_10639_20257	Pink Comet
+item70450_10635_20257	Green Comet
+item70453_10645_20259	Gold Comet
+item70454_10619_20240	Gold Cupid's Arrow
+item70455_10620_20243	Silver Cupid's Arrow
+item70456_10723_20264	Waluigi Racer Mk. 2
+item70457_10725_20149	Chain Chomp Chariot
+item70458_10450_20050	Yeehaw Wagon
+item70459_10692_20325	Fish Bone Ferry
+item70460_10708_20047	Gold Fish Bone Ferry
+item70461_10696_20050	Desert Rose Wagon
+item70462_10719_20310	Wiggler Egg
+item70463_10548_20154	Yellow Sub Scooter
+item70464_10665_20326	Blue Sub Scooter
+item70465_10457_20109	Gold Driver
+item70466_10721_20323	Dolphin Drifter
+item70468_10716_20302	Purple Rattle Buggy
+item70469_10452_20322	Spicy Zucchini
+item70470_10705_20042	Wild Wiggler
+item70471_10713_20308	Monarch Kart
+item70472_10717_20307	Gold Monarch Kart
+item70473_10465_20047	Gold B Dasher
 item80000	Premium Challenges
 item80000_detail	Complete the challenges\r\nto earn gifts!
 item90001	Coins
@@ -6020,8 +6894,8 @@ RecommendManualStart_0	You're a fast learner, huh?\r\nMaybe you should give {col
 RecoverTreasure_0	Hmm. Looks like we were\r\ninterrupted earlier... Well, let's\r\nsee {color[ff5000ff]}what came out of the pipe{color[000000ff]}!
 SeasonRewardListDescription_0	If you subscribe to the {color[ff5000ff]}Gold\r\nPass{color[000000ff]}, you'll get some {color[ff5000ff]}extra\r\nbenefits{color[000000ff]}. Plus, you'll be able\r\nto race at 200cc!
 ShopTutorial_0	You can use {color[ff5000ff]}rubies{color[000000ff]}, {color[ff5000ff]}coins{color[000000ff]},\r\nand more to get drivers!
-TreasureBoxRecommend_0	You can {color[ff5000ff]}use rubies{color[000000ff]} in the\r\nshop to {color[ff5000ff]}get drivers, karts, and\r\ngliders{color[000000ff]} from the pipe.
-TreasureBoxTutorial_0	You can use rubies to\r\n{color[ff5000ff]}fire something from the\r\npipe{color[000000ff]}. You can get things like\r\ndrivers and karts from it!
+TreasureBoxRecommend_0	Oh, it looks like you got some\r\n{color[ff5000ff]}rubies{color[000000ff]}. Did you know you can\r\nuse them to get drivers, karts,\r\nand gliders from the {color[ff5000ff]}pipe{color[000000ff]}?
+TreasureBoxTutorial_0	You can get things like drivers\r\nand karts from the pipe. Say,\r\nwhy don't you use some rubies\r\nto {color[ff5000ff]}fire something{color[000000ff]} out of it?
 TutorialEnd_0	Keep on racing and soon you'll\r\n{color[ff5000ff]}conquer every cup{color[000000ff]}!
 TutorialRaceEnd_0	{color[ff5000ff]}Way to go! {color[000000ff]}This calls for a\r\ncelebration... And what better\r\nway to celebrate than firing\r\nsomething out of the pipe?
 TutorialTreasureBox2End_0	Now buckle up and start your\r\nengines, because Mario Kart\r\nTour {color[ff5000ff]}is about to kick off{color[000000ff]}!

@@ -560,6 +560,29 @@ msg_7697c8f73edb7b4b4355a76a251a5ea7	[~ 120]
 msg_cafe_photo_01	要結束拍照嗎？
 msg_cafe_photo_02	結束
 msg_cafe_photo_03	不結束
+msg_4b1a1f1e12686df522a8724f141c1c3f	[~ 124]
+msg_cafe_welcome_18	歡迎光臨！\n這裡是希望客人不要點\r\n壽司＆咖啡的「羅雀」。
+msg_560d7ece1e0bdea11564f74b0aa5df31	[~ 126]
+msg_Ev_sub_salon_01_talk_01	[VAR 0100(0000)]，\n今天是哪一位要入睡呢？[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_select_01	[VAR 0100(0000)]
+msg_Ev_sub_salon_01_select_02	[VAR 0102(0002)]
+msg_Ev_sub_salon_01_select_03	[VAR 0102(0003)]
+msg_Ev_sub_salon_01_select_04	[VAR 0102(0004)]
+msg_Ev_sub_salon_01_select_05	[VAR 0102(0005)]
+msg_Ev_sub_salon_01_select_06	[VAR 0102(0006)]
+msg_Ev_sub_salon_01_select_07	[VAR 0102(0007)]
+msg_Ev_sub_salon_01_select_08	還是算了
+msg_Ev_sub_salon_01_talk_02	期待您再次光臨。[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_03	[VAR 0100(0000)]，請喝杯咖啡，\n放鬆休息一下。\c\n那麼，夢夢蝕，\n就麻煩你了喔。[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_04	夢呣呣♪
+msg_Ev_sub_salon_01_talk_05	有睡了個好覺嗎？\n歡迎您再度光臨。[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_06	那麼，夢夢蝕，\n就麻煩你了喔。[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_07	夢呣呣♪
+msg_Ev_sub_salon_01_talk_08	要叫醒寶可夢嗎？
+msg_Ev_sub_salon_01_select_09	叫醒牠
+msg_Ev_sub_salon_01_select_10	讓牠睡
+msg_Ev_sub_salon_01_talk_09	看來牠睡了個好覺呢。\n歡迎您再度光臨。[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_wait_01	夢呣呣。
 change_deox_scr.txt
 msg_26397c07d2ba6dfbedcc7969a606e712	[~ 0]
 msg_8006910c5e48d4794506afc41a03ee9e	[~ 1]
@@ -772,14 +795,20 @@ msg_fld_ev_peoneymemo_01	[VAR 0100(0000)]將現在的狀況\n寫進了[VAR 0109(
 msg_fld_field_magicaltrade_01	有未完成的魔法交換。\n請連線到網路。
 msg_fld_field_cliff_return	要回到掉落前的地點嗎？
 msg_fld_atlantis_back	[VAR 0100(0000)]急急忙忙地\n回到大家在的地方！
-msg_14ddda1ba8a0effe384aa50c60b1e269	
-msg_f823293c97f22caa5b84eedcb737ebb9	
-msg_328fc28fa261a2002182c74b62d5cfd8	
-msg_9967144164f1bbd68c03b2c5b30a7b71	
-msg_e3b9177257bc9a4eb56e0d3f5ad802c6	
-msg_b9b3c0853408971e1c3f826e026e3f86	
-msg_7734594370d3da4845ef1123adef7ec6	
-msg_d1317c647caf235bf4a622f6cd67af89	
+msg_fld_power_empty	飽腹能量似乎用完了！
+msg_fld_rematch_sa_01	即將離開異次元，\n確定要繼續嗎？
+msg_fld_rematch_select_10	是
+msg_fld_rematch_select_11	否
+msg_fld_izigen_mega_01	超級風鈴鈴\n襲擊了過來！
+msg_fld_izigen_mega_02	超級烈咬陸鯊Z\n襲擊了過來！
+msg_fld_izigen_mega_03	超級泥偶巨人\n襲擊了過來！
+msg_fld_izigen_mega_04	超級具甲武者\n襲擊了過來！
+msg_fld_izigen_mega_05	超級狠辣椒\n襲擊了過來！
+msg_fld_izigen_mega_06	超級晶光花\n襲擊了過來！
+msg_7922e57b2b7e4c4cca040e453fd96a35	[~ 37]
+msg_fld_izigen_legend_01	在[VAR 1100(00FF,0101)]你妳附近\n有[VAR 0101(0002)]的反應！[VAR 0114(0007)]
+msg_fld_izigen_legend_02	去找一找，試著捕獲牠吧！[VAR 0114(0007)]
+msg_fld_izigen_ball	從金色的獎勵球裡\n出現了各式各樣的東西！
 field_trade.txt
 msg_field_trade_system_01	……那隻寶可夢好像\n不滿足交換的條件！
 msg_field_trade_a_01	聽說叫花蓓蓓的寶可夢，\n每一隻花的顏色都不一樣！\c\n不管是什麼顏色的花蓓蓓都好，\n[VAR 1100(00FF,0101)]你妳要不要和我的雪吞蟲交換？
@@ -8189,6 +8218,57 @@ msg_megarematch_talk_06	了不起！\n[VAR 1100(00FF,0101)]你妳更新了最短
 msg_megarematch_talk_07	這是給[VAR 1100(00FF,0101)]你妳的報酬，\n請收下。[VAR 0114(000E)]
 msg_megarematch_talk_08	就算輸了也能毫髮無傷，\n這正是模擬戰的優點呢。\c\n……那麼請重整旗鼓……[VAR 0114(000E)]
 msg_megarematch_talk_09	期待[VAR 1100(00FF,0101)]你妳下次再來挑戰。[VAR 0114(000E)]
+msg_megarematch_select_19	阿勃梭魯Z
+msg_megarematch_select_20	姆克鷹
+msg_megarematch_select_21	米立龍
+msg_megarematch_select_22	超能妙喵
+msg_megarematch_select_23	席多藍恩
+msg_megarematch_select_24	達克萊伊
+msg_megarematch_select_25	固拉多
+msg_megarematch_select_26	蓋歐卡
+msg_megarematch_select_27	烈空坐
+msg_megarematch_select_29	基格爾德
+msg_megarematch_select_28	捷拉奧拉
+msg_megarematch_talk_19	我送咖啡送著送著，\n就變成要代替忙碌的馬斯卡托，\c\n來負責失控超級進化體驗君！
+msg_megarematch_talk_10	要挑戰哪個\n失控超級進化的模擬戰？
+msg_megarematch_talk_11	接著要挑戰哪個\n失控超級進化的模擬戰？
+msg_megarematch_talk_12	要挑戰[VAR 0101(0002)]啊。\n準備OK？
+msg_megarematch_talk_13	[VAR 0101(0002)]的\n最短時間是[VAR 0201(0003)]:[VAR 0201(0004)].[VAR 0201(0005)]。\r\n準備OK？
+msg_megarematch_talk_14	好～厲害！\n[VAR 1100(00FF,0101)]你妳剛才的時間是[VAR 0201(0003)]:[VAR 0201(0004)].[VAR 0201(0005)]。
+msg_megarematch_talk_15	超～厲害！\n刷新了最短時間！
+msg_megarematch_talk_16	請收～下報酬。
+msg_megarematch_talk_17	畢竟是模擬戰，\n輸了也毫髮無傷嘛。
+msg_megarematch_talk_18	請再～來挑戰喔。
+msg_megarematch_talk_30	失控超級模擬器\n追加了新的寶可夢。
+msg_megarematch_talk_20	恭喜！\c\n[VAR 1100(00FF,0101)]你妳可以挑戰\n失控超級爆湧挑戰了。
+msg_megarematch_talk_34	要挑戰哪一項呢？
+msg_megarematch_select_30	失控超級模擬器
+msg_megarematch_select_31	失控超級爆湧挑戰
+msg_megarematch_select_32	還是算了
+msg_megarematch_talk_21	要挑戰\n失控超級爆湧挑戰嗎？
+msg_megarematch_select_33	我要挑戰
+msg_megarematch_select_34	聽說明
+msg_megarematch_select_35	確認紀錄
+msg_megarematch_select_36	還是算了
+msg_megarematch_talk_22	[VAR FF00(0006)]失控超級爆湧挑戰[VAR FF00(0000)]\n是與所有失控超級進化寶可夢\r\n進行的連續對戰。\c\n無法替換同行隊伍。\c\n一旦戰敗便就此結束。\c\n但最多可回復3次。\c\n會記錄下最多的擊敗數量。\c\n不僅如此，\n戰勝所有失控超級進化寶可夢的話，\r\n還會記錄通關時間。
+msg_megarematch_talk_31	這將會是場嚴酷的挑戰，\n確定要繼續嗎？
+msg_megarematch_select_42	是
+msg_megarematch_select_43	否
+msg_megarematch_talk_23	要挑戰下一隻寶可夢嗎？
+msg_megarematch_select_37	我要挑戰
+msg_megarematch_select_38	回復
+msg_megarematch_select_39	放棄
+msg_megarematch_talk_24	還剩[VAR 0200(0003)]次可以回復。\n要幫寶可夢回復嗎？
+msg_megarematch_select_40	幫寶可夢回復
+msg_megarematch_select_41	不回復
+msg_megarematch_select_44	雖然會儲存目前為止的紀錄，\n但無法從中斷處重新開始。\r\n即使如此[VAR 1100(00FF,0101)]你妳還是要放棄嗎？
+msg_megarematch_talk_25	真是可惜呢。\n我期待[VAR 1100(00FF,0101)]你妳再來挑戰。
+msg_megarematch_talk_26	[VAR 1100(00FF,0101)]你妳擊敗了[VAR 0201(0004)]隻呢！\n期待[VAR 1100(00FF,0101)]你妳再來刷新紀錄。
+msg_megarematch_talk_27	通關時間是\n[VAR 0201(0005)]:[VAR 0201(0006)]:[VAR 0201(0007)].[VAR 0201(0008)]！
+msg_megarematch_talk_28	擊敗數量是\n[VAR 0201(0004)]隻。
+msg_megarematch_talk_32	看來[VAR 1100(00FF,0101)]你妳全都打倒了！？\n好厲害～！恭喜[VAR 1100(00FF,0101)]你妳！
+msg_megarematch_talk_29	通關時間是\n[VAR 0201(0005)]:[VAR 0201(0006)]:[VAR 0201(0007)].[VAR 0201(0008)]！
+msg_megarematch_talk_33	期待[VAR 1100(00FF,0101)]你妳再來挑戰～！
 megashards.txt
 megashards_talk_01	[VAR 1100(00FF,0101)]你妳要用手中的超級碎片\n交換道具嗎？
 megashards_seelct_01	交換
@@ -10180,6 +10260,57 @@ msg_reward_23_12	時髦！\n指的就是既瀟灑又符合潮流。\c\n也就是
 msg_reward_24_11	[VAR 1100(00FF,0101)]你妳在密阿雷最棒的回憶，\n應該是和我打的寶可夢對戰吧？\r\n我就讓[VAR 1100(00FF,0101)]你妳再享受一次吧！[VAR 0114(002C)]
 msg_reward_24_btl11	我們也是有變強的！\n就讓[VAR 1100(00FF,0101)]你妳看看我們蛻變後的樣子吧！[VAR 0114(002C)]
 msg_reward_24_12	[VAR 1100(00FF,0101)]你妳還是一樣厲害，\n但[VAR 1100(00FF,0101)]你妳應該要讓我開心一下才對啊。[VAR 0114(002C)]
+msg_d2e40611c6886be152198c9462639433	[~ 158]
+msg_reward_d_01_13_f	我和寶可夢們的心意！\n全部用寶可夢對戰展現出來！[VAR 0114(0006)]
+msg_reward_d_01_btl13_f	因為有[VAR 1100(00FF,0101)]你妳，\n我們也要不斷突破極限！！[VAR 0114(0006)]
+msg_reward_d_01_13_m	我和寶可夢們的心意！\n會全部用寶可夢對戰表達出來的！[VAR 0114(0005)]
+msg_reward_d_01_btl13_m	因為有[VAR 1100(00FF,0101)]你妳在，\n我們也要不斷突破極限！！[VAR 0114(0005)]
+msg_reward_d_02_13	身為第2任帥哥偵探事務所的所長，\n我來證明自己的實力了！[VAR 0114(0008)]
+msg_reward_d_02_btl12	如果不夠強的話，\n守護密阿雷和平的約定就無法實現了！[VAR 0114(0008)]
+msg_reward_d_03_13	作為超Z隊成員的經驗\n讓我們變強了！[VAR 0114(000B)]
+msg_reward_d_03_btl12	頭巾混混！請把我對你的感謝\n化為超級進化的力量吧！[VAR 0114(000B)]
+msg_reward_d_04_13	在密阿雷那些有趣得不得了的\n每一天讓我們變強了喔！[VAR 0114(000C)]
+msg_reward_d_04_btl12	讓對手瞧瞧我們的厲害吧。\n寶石海星，跳出超級進化舞步吧。[VAR 0114(000C)]
+msg_reward_d_05_13	密阿雷市是座很好的城市呢。\n為了讓這裡變得更好，我要把優勝當成目標！[VAR 0114(000E)]
+msg_reward_d_05_btl12	老翁龍和我是一心同體！\n就讓[VAR 1100(00FF,0101)]你妳瞧瞧超級進化真正的力量吧。[VAR 0114(000E)]
+msg_reward_d_06_13	為了讓來電伍更強，我打贏[VAR 1100(00FF,0101)]你妳後\n就要讓超Z隊加入我們！[VAR 0114(000F)]
+msg_reward_d_06_btl12	就用卡娜莉我和麻麻鰻魚王\n最強最棒的超級進化讓[VAR 1100(00FF,0101)]你妳來電吧！[VAR 0114(000F)]
+msg_reward_d_07_13	我也要在ZA登峰戰[VAR BD0A(000D)]Text_infinity中贏遍所有人，\n然後把這裡打造成大家理想中的城市！[VAR 0114(0010)]
+msg_reward_d_07_btl12	我和龍頭地鼠想獲勝的心情\n會化為牽絆，讓超級進化實現！[VAR 0114(0010)]
+msg_reward_d_08_13	大家讓我知道了各種不同的強大實力，\n我會懷著感激來比試的！[VAR 0114(0011)]
+msg_reward_d_08_btl12	由我來把列陣兵的正義之心化為有形。\n正義超級進化！[VAR 0114(0011)]
+msg_reward_d_09_13	我會贏。[VAR 0114(0012)]
+msg_reward_d_09_btl12	水晶燈火靈……\n正義超級進化。[VAR 0114(0012)]
+msg_reward_d_10_13	我要讓每個人都來為密阿雷工作！\n所以我要打敗[VAR 1100(00FF,0101)]你妳，拿下優勝！[VAR 0114(0013)]
+msg_reward_d_10_btl12	我們之間一路熬過\n大風大浪的牽絆可不是假的啊！[VAR 0114(0013)]
+msg_reward_d_11_13	雖然有很多感謝[VAR 1100(00FF,0101)]你妳的地方，\n但說到寶可夢對戰就另當別論了。[VAR 0114(0014)]
+msg_reward_d_11_btl12	回到鏽蝕組成立前\n野心勃勃的我們吧，盔甲鳥。[VAR 0114(0014)]
+msg_reward_d_12_13	讓人愛上認真較量過的對手和寶可夢，\n這就是對戰的魅力呢！[VAR 0114(0015)]
+msg_reward_d_12_btl12	為了展現MSBC頂點的力量，\n釋放超級進化的光輝吧！[VAR 0114(0015)]
+msg_reward_d_13_13	我要在ZA登峰戰[VAR BD0A(000D)]Text_infinity中贏得優勝，\n把與[VAR 1100(00FF,0101)]你妳相遇的意義具體展現出來！[VAR 0114(0016)]
+msg_reward_d_13_btl12	無論何時都要為了超越極限而戰！\n毒藻龍，把你的全力交給我吧！[VAR 0114(0016)]
+msg_reward_d_14_13	和你們的相遇\n讓我燃起熊熊烈火！[VAR 0114(0017)]
+msg_reward_d_14_btl12	為了燦爛地燃燒到最後一刻，\n用超級進化猛烈燃燒吧，噴火龍！[VAR 0114(0017)]
+msg_reward_d_15_13	熊熊燃燒的感謝之情！\n讓我用全力對戰展現給[VAR 1100(00FF,0101)]你妳看！[VAR 0114(0018)]
+msg_reward_d_15_btl12	為了作為新咖啡的一員重獲新生，\n我要讓[VAR 1100(00FF,0101)]你妳看看燃燒生命的超級進化！[VAR 0114(0018)]
+msg_reward_d_16_13	身為超一流的計程車司機，\n我發現了一件事。\c\n那就是寶可夢對戰也像駕駛一樣，\n只要把狀況掌握在自己手中就行了。[VAR 0114(002F)]
+msg_reward_d_16_btl12	把寶可夢的等級提升了１級，\n結果快要沒油了。[VAR 0114(002F)]
+msg_reward_d_17_13	快快結束掉吧。\c\n我不會說那種話的。\n難得對戰，怎能不好好享受呢。[VAR 0114(0030)]
+msg_reward_d_17_btl12	如果放棄往前跑，\n是沒辦法抵達終點的。[VAR 0114(0030)]
+msg_reward_d_18_13	時代早已不是級別，而是[VAR BD0A(000D)]Text_infinity！\n沒錯！寶可夢對戰永無止盡。[VAR 0114(0031)]
+msg_reward_d_18_btl12	永永遠遠地一直輸下去……\n或許這才是無限的意義吧。[VAR 0114(0031)]
+msg_reward_d_19_13	請讓我再重申一次，\n我要把譜通餐館\r\n變成三星級餐廳！[VAR 0114(0032)]
+msg_reward_d_19_btl12	正因為有普通，\n才能比較出優劣。[VAR 0114(0032)]
+msg_reward_d_20_13	我是喜歡招式加強，\n還是喜歡精通種子呢？\r\n連小種我自己都搞不清楚了！[VAR 0114(0033)]
+msg_reward_d_20_btl12	我會帶著已精疲力盡的\n寶可夢們的心意而戰！[VAR 0114(0033)]
+msg_reward_d_21_13	對偶像的心意！\n我要讓它在對戰中炸裂！[VAR 0114(0035)]
+msg_reward_d_21_btl12	我要把一切都賭在\n最後一隻寶可夢身上！[VAR 0114(0035)]
+msg_reward_d_23_13	戰鬥方式也是有流行過時的。\c\n要堅持自己的戰鬥方式，\n還是要摸索新的戰鬥方式，\r\n每個人一定都有自己的風格。[VAR 0114(003A)]
+msg_reward_d_23_btl12	就算被逼入絕境，\n只要維持瀟灑就是時髦！[VAR 0114(003A)]
+msg_reward_d_24_13	[VAR 1100(00FF,0101)]你妳在密阿雷最棒的回憶，\n應該是和我打的寶可夢對戰吧？\r\n我就讓[VAR 1100(00FF,0101)]你妳再享受一次吧！[VAR 0114(002C)]
+msg_reward_d_24_btl12	我們也是有變強的！\n就讓[VAR 1100(00FF,0101)]你妳看看我們蛻變後的樣子吧！[VAR 0114(002C)]
+msg_reward_d_25_13	可爾妮在此登場！[VAR 0114(0192)]
+msg_reward_d_25_btl12	寶可夢和訓練家一心同體，\n然後解放一切……燃燒吧，我的生命！！[VAR 0114(0192)]
 royale_event.txt
 msg_zs_item_01_speech_01	獎賞是為打贏的人而存在的。[VAR BD0A(000A)]Text_icon1
 msg_zs_item_01_01	就讓我送上這個[VAR 0109(0002)]，\n給贏得勝利的寶可夢訓練家吧！
@@ -10207,6 +10338,32 @@ msg_zs_medal_04_speech_01	我猜猜，\n[VAR 1100(00FF,0101)]你妳想要獎金�
 msg_zs_medal_04_01	在密阿雷社交對戰俱樂部\n我們會比賽一晚能收集到多少獎金幣，\r\n但我就特別把它分給[VAR 1100(00FF,0101)]你妳了。
 msg_zs_medal_get	[VAR 0100(0000)]\n獲得了獎金幣！
 msg_zs_item_get	[VAR 0100(0000)]獲得了\n[VAR FF00(0008)][VAR 0109(0002)][VAR FF00(0000)]！
+msg_zs_item_03_speech_01	這異次元樹果\n就送給[VAR 1100(00FF,0101)]你妳了！[VAR BD0A(000A)]Text_icon1
+msg_zs_item_03_01	我在異次元密阿雷收集的[VAR 0109(0002)]\n就送給[VAR 1100(00FF,0101)]你妳當禮物了！
+msg_zs_item_04_speech_01	[VAR 1100(00FF,0101)]你妳想不想要\n異次元樹果呢？[VAR BD0A(000A)]Text_icon1
+msg_zs_item_04_01	讓我送上[VAR 0109(0002)]，\n來讚揚[VAR 1100(00FF,0101)]你妳的強大吧！
+msg_zs_heal_06_speech_01	需要我幫[VAR 1100(00FF,0101)]你妳的\n寶可夢回復嗎？[VAR BD0A(000A)]Text_icon1
+msg_zs_heal_06_01	在神秘的異次元密阿雷，\n我也要幫寶可夢恢復活力！
+msg_zs_heal_07_speech_01	即使身在異次元，\n您要不要也來一杯咖啡呢？[VAR BD0A(000A)]Text_icon1
+msg_zs_heal_07_01	在不可思議的異次元喝下的咖啡，\n會讓寶可夢們恢復活力呢。
+msg_zs_heal_08_speech_01	來杯咖啡吧？[VAR BD0A(000A)]Text_icon1
+msg_zs_heal_08_01	這是異次元特調咖啡。\n喝下去就會神奇地恢復活力喔。
+msg_zs_heal_09_speech_01	嚐嚐新咖啡\n自豪的咖啡吧！[VAR BD0A(000A)]Text_icon1
+msg_zs_heal_09_01	我不懂自己為什麼在這裡，但只要喝下\n大字爆炎烘焙咖啡，寶可夢就會恢復活力喔。
+msg_zs_heal_10_speech_01	喝杯新咖啡\n自豪的咖啡吧！[VAR BD0A(000A)]Text_icon1
+msg_zs_heal_10_01	新咖啡壓箱的燃盡烘焙咖啡，即使在異次元，\n喝下去連寶可夢也會恢復活力喔。
+msg_zs_item_05_speech_01	我可以送[VAR 1100(00FF,0101)]你妳獎勵卡之外的\n好東西。[VAR BD0A(000A)]Text_icon1
+msg_zs_item_05_01	說起來，[VAR 0109(0002)]是\n非常特別稀有！
+msg_zs_item_06_speech_01	來，這是貴重的道具。[VAR BD0A(000A)]Text_icon1
+msg_zs_item_06_01	雖然是貴重的[VAR 0109(0002)]，\n但我這裡有很多。
+msg_zs_item_07_speech_01	我送[VAR 1100(00FF,0101)]你妳好東西吧。[VAR BD0A(000A)]Text_icon1
+msg_zs_item_07_01	不過就是[VAR 0109(0002)]，\n但被我擁有，價值就上升了。
+msg_zs_item_08_speech_01	讓我賞[VAR 1100(00FF,0101)]你妳一個禮物吧。[VAR BD0A(000A)]Text_icon1
+msg_zs_item_08_01	在異次元的MSBC也很大方，\n所以才會給[VAR 1100(00FF,0101)]你妳[VAR 0109(0002)]啊。
+msg_zs_medal_09_speech_01	要不要我送[VAR 1100(00FF,0101)]你妳\n很棒的東西呢？[VAR BD0A(000A)]Text_icon1
+msg_zs_medal_09_01	我把我對由紫小姐的異次元等級的愛，\n以及[VAR 0109(0002)]都打包送給[VAR 1100(00FF,0101)]你妳吧。
+msg_zs_medal_10_speech_01	雖然是全像投影，\n但我送[VAR 1100(00FF,0101)]你妳一個好東西吧。[VAR BD0A(000A)]Text_icon1
+msg_zs_medal_10_01	在神秘的地方從全像投影收到\n[VAR 0109(0002)]，真是奇妙的體驗呢。
 shop.txt
 shop_00	我要買東西
 shop_01	我要賣東西
@@ -10249,19 +10406,20 @@ shop_talk_11	將購買的道具\n放進了腰包。\c
 shop_talk_31	交換了[VAR 0202(0001)]個[VAR 0109(0000)]，\n並放進了腰包。\c
 shop_talk_32	交換了[VAR 0202(0001)]個[VAR 0109(0000)]，\n並放進了腰包。\c
 shop_talk_33	將交換的道具\n放進了腰包。\c
-msg_bf2cac14ed1904d110d249c63020bfb5	[~ 41]
-msg_b8ea6546764ac59a5d06db121a6c7fd7	[~ 42]
-msg_8b31b3fba7e2c2853211a508661a344c	[~ 43]
-msg_3b600c207c62e1d16bf0e6907578ab99	[~ 44]
-msg_abc9810f530c3c75c1515f38f803003c	[~ 45]
-msg_b180ae393c83baeac420455f6635bb37	[~ 46]
-msg_b34288f372adffe152102fa599dfe1e0	[~ 47]
-msg_226c73a56257c13ac07235600da10540	[~ 48]
-msg_196591bde6e55e7e1b9e3f593259c566	[~ 49]
-msg_ee816afc992923492f24ab13056bb5f4	[~ 50]
-msg_19615a7d51256dc61ab0bf5b899fc389	[~ 51]
-msg_3b8c2bc46e2125653940d8365b5aa3ae	[~ 52]
-msg_e4676c6ab44dccecc6d856a6c951f962	[~ 53]
+shop_talk_34	交換了[VAR 0202(0001)]個招式學習器：[VAR 0107(0000)]，\n並放進了腰包。\c
+msg_bf2cac14ed1904d110d249c63020bfb5	[~ 42]
+msg_b8ea6546764ac59a5d06db121a6c7fd7	[~ 43]
+msg_8b31b3fba7e2c2853211a508661a344c	[~ 44]
+msg_3b600c207c62e1d16bf0e6907578ab99	[~ 45]
+msg_abc9810f530c3c75c1515f38f803003c	[~ 46]
+msg_b180ae393c83baeac420455f6635bb37	[~ 47]
+msg_b34288f372adffe152102fa599dfe1e0	[~ 48]
+msg_226c73a56257c13ac07235600da10540	[~ 49]
+msg_196591bde6e55e7e1b9e3f593259c566	[~ 50]
+msg_ee816afc992923492f24ab13056bb5f4	[~ 51]
+msg_19615a7d51256dc61ab0bf5b899fc389	[~ 52]
+msg_3b8c2bc46e2125653940d8365b5aa3ae	[~ 53]
+msg_e4676c6ab44dccecc6d856a6c951f962	[~ 54]
 shop_select_00	是
 shop_select_01	否
 shop_select_02	繼續
@@ -10279,15 +10437,15 @@ shop_guide_10	退出
 shop_guide_11	一併交換
 shop_12	[VAR 0202(0000)]
 shop_waza_00	威力
-msg_1b502394d18b87fa7f77d2c03def1297	[~ 71]
-msg_75adc89e363280cde603c4260a65cbd1	[~ 72]
-msg_2e189db60863b03b9f41cd943574254d	[~ 73]
+msg_1b502394d18b87fa7f77d2c03def1297	[~ 72]
+msg_75adc89e363280cde603c4260a65cbd1	[~ 73]
+msg_2e189db60863b03b9f41cd943574254d	[~ 74]
 shop_waza_04	[VAR 0107(0000)]
 shop_waza_id	No.[VAR 0202(0000)]
 shop_waza_power	[VAR 0202(0000)]
 shop_waza_power_nodeta	-
 shop_17	－－－
-msg_e957f4fface96b8f4102324e9afe7f9d	[~ 79]
+msg_e957f4fface96b8f4102324e9afe7f9d	[~ 80]
 shop_33	售完
 shop_34	--
 shop_35	商品一覽
@@ -10332,12 +10490,12 @@ msg_shop_screw_21	這個[VAR 1100(00FF,0101)]你妳早就有了吧～\c
 msg_shop_screw_81	要不要把[VAR 1100(00FF,0101)]你妳選的玩偶\n放回去啊～？\c
 staffrollreplay.txt
 msg_staffrollreplay_talk_01	我的記憶力超級好，\n像是只看過一次的人名之類的都能記住。\r\n[VAR 1100(00FF,0101)]你妳想不想確認看看是不是真的呢？
-msg_ae696a36dd9605d0f2a119106503aaf9	
+msg_staffrollreplay_talk_06	我的記憶力超級好，\n像是只看過一次的人名之類的都能記住。\c\n而且新增加的人名也不例外。\n[VAR 1100(00FF,0101)]你妳想不想確認看看是不是真的呢？
 msg_staffrollreplay_select_01	確認看看
-msg_3f9cb1ff8ba9c93d4ea1a00341a4f929	
-msg_e0315dee1e08da146a617fbc93312135	
-msg_628a2401d5530b80841fef8b6de2e833	
-msg_62f711a7aaa57ab843d022284a2adffc	
+msg_staffrollreplay_select_05	確認之前的人名
+msg_staffrollreplay_select_06	查看
+msg_staffrollreplay_select_07	確認新的人名
+msg_staffrollreplay_select_08	查看
 msg_staffrollreplay_select_02	算了
 msg_staffrollreplay_talk_05	確認需要花6分鐘左右的時間，\n即使這樣[VAR 1100(00FF,0101)]你妳也想確認嗎？
 msg_staffrollreplay_select_03	我說要確認就是要確認！
@@ -10426,6 +10584,8 @@ msg_stand_05_talk_04	[VAR 1100(00FF,0101)]你妳的錢不夠啊。
 msg_stand_05_talk_05	有興趣的時候記得再來喔！
 msg_stand_05_talk_06	[VAR 1100(00FF,0101)]你妳的腰包看來已經放不下了啊。
 msg_stand_05_talk_07	還要買其他東西嗎？
+msg_03c3a7b1a4bb684e97bc50fea8c91b06	[~ 80]
+msg_stand_06_talk_01	要不要來把大蔥啊？\n讓大蔥鴨攜帶著會很不錯喔。
 stopper.txt
 stopper_general_01	等之後再往這個方向去吧！
 stopper_holovator_01	這個全像傳送梯\n現在無法使用！
@@ -16346,7 +16506,12 @@ msg_A05_z02_01_speech_30	練習是自己讓自己變得更好，\n所以我很�
 npc_A05_z02_01_speech_0029	夜晚時幽靈屬性的力量\n會變強……的感覺。
 npc_A05_z02_01_speech_0030	一旦熬夜，\n我整個人就會興奮起來。
 npc_A05_z02_01_talk_0031	剛之皙白，柔之沐淨。\n他們真是剛柔並濟的組合呢。
-msg_c8cfeab462cf4b63aa7b26a3a20c2ebb	[~ 166]
+ti_A05_z02_01_bg_01	凌亂地塞滿了\n正義社備用品的紙箱。
+ti_A05_z02_01_bg_02	以朽木妖為主題製作的一種木人樁，\n用來鍛鍊打擊和踢擊。
+ti_A05_z02_01_bg_03	擺著一台仰臥起坐板。\n上面寫著小小的「禁止皙白使用」。
+ti_A05_z02_01_bg_04	印有正義社標誌的旗子。\n不是隊旗，而是社旗。
+ti_A05_z02_01_bg_05	用來練習打擊的沙袋。\n上面寫著小小的「禁止皙白使用」。
+msg_c8cfeab462cf4b63aa7b26a3a20c2ebb	[~ 171]
 msg_A05_z02_02_speech_01	如果野生特區的全像投影\n壞掉了，那該怎麼辦？
 msg_A05_z02_02_speech_02	嗯……真是不錯的寶可夢。\n能被妳培育，牠真是幸福。
 msg_A05_z02_02_speech_03	居然想看我的寶可夢，\n有夠詭異的……
@@ -16357,7 +16522,7 @@ msg_A05_z02_02_talk_0007	勾魂眼的弱點只有妖精屬性，\n是一種很�
 msg_A05_z02_02_speech_08	公寓的樓上……\n明明沒人卻會發出聲音喔。
 msg_A05_z02_02_speech_09	或許是不知從哪裡鑽進來的\n寶可夢住下來了？
 msg_A05_z02_02_speech_10	如果鯉魚王跳上來，\n我會馬上把牠放回河裡！
-msg_b9be3b03626a40b91e1a4c5393fec97d	[~ 177]
+msg_b9be3b03626a40b91e1a4c5393fec97d	[~ 182]
 msg_A05_z02_03_talk_0001	聽說只要帶著巨牙鯊脫落的牙齒\n就不會遭遇海上事故喔。
 msg_A05_z02_03_talk_0002	信使鳥有時會\n會給我蟲寶可夢……
 msg_A05_z02_03_talk_0003	在陪著腕力修行的時候，\n我迷上格鬥技了！
@@ -16379,7 +16544,7 @@ msg_A05_z02_03_speech_18	得回想起遇見寶可夢時\n那份心動的感覺�
 msg_A05_z02_03_speech_19	隨時隨地\n都要陪牠一起玩！
 msg_A05_z02_03_speech_20	為了寶可夢\n該做什麼才好？
 msg_A05_z02_03_speech_21	我要讓多麗米亞\n變成超美的樣子！[VAR BD0A(000A)]Text_icon1
-msg_3e982f0fef49bd1c11c2f7483fe0789d	[~ 199]
+msg_3e982f0fef49bd1c11c2f7483fe0789d	[~ 204]
 msg_A05_z02_04_talk_0001	ZA登峰戰中的視線……\n真是充滿了危險的氣息。
 msg_A05_z02_04_speech_02	有能騎寶可夢的地區，\n也有不能騎寶可夢的地區呢。
 msg_A05_z02_04_speech_03	故意迷路吧。\n去享受意料之外的風景喔。
@@ -16421,7 +16586,7 @@ msg_A05_z02_04_speech_38	我是一人\n靈異迷同好會……
 msg_A05_z02_04_talk_0039	我要和鐵啞鈴站上ZA登峰戰的巔峰，\n讓寶可夢發燒友俱樂部復活！
 msg_A05_z02_04_talk_0040	阿羅拉地區的Z招式……\n也曾存在於阿羅拉的基格爾德……
 msg_A05_z02_04_talk_0041	在下是寶可夢圖鑑研究會的成員。\c\n如果要以在下的風格來寫\n小碎鑽的圖鑑，在下會這麼寫……\c\n沉睡於地底的小碎鑽因為\n火山或地震等地殼變動\r\n而出現在地面上並醒來。
-msg_ef863095c2af29f7589a60b12abf5429	[~ 241]
+msg_ef863095c2af29f7589a60b12abf5429	[~ 246]
 msg_A05_z02_05_talk_0001	我們互相發表了10個\n喜歡各自寶可夢的地方喔。
 msg_A05_z02_05_talk_0002	對曾經是寶可夢發燒友俱樂部的我來說，\n輕輕鬆鬆就能說出100個左右。
 msg_A05_z02_05_speech_03	在旅館附近散步\n很不錯吧。
@@ -16443,7 +16608,7 @@ msg_A05_z02_05_talk_0018	如果想鍛鍊自己的寶可夢，\n不挑戰實力�
 msg_A05_z02_05_speech_19	只要不斷地走，\n就能抵達某處。
 msg_A05_z02_05_speech_20	原來要加入閃焰隊\n得付500萬才行嗎。
 msg_A05_z02_05_speech_21	大食花的甜甜香氣\n會讓人融化呢……！
-msg_4a48bcc7e1c710b1fab60ead2d780e71	[~ 263]
+msg_4a48bcc7e1c710b1fab60ead2d780e71	[~ 268]
 msg_A05_z02_06_speech_01	我們好像有在哪裡看過\n摔角鷹人的人孔蓋對吧。
 msg_A05_z02_06_speech_02	有有有！\n我覺得我們有看過。
 msg_A05_z02_06_speech_03	以寶可夢為客群的話\n說不定比較有商機……
@@ -16454,7 +16619,7 @@ msg_A05_z02_06_speech_07	會不會也有寶可夢是有原因\n而故意被捉�
 msg_A05_z02_06_speech_08	我因為崇拜快遞員\n而模仿了他們的打扮。
 msg_A05_z02_06_talk_0009	聽說寶石海星的分類\n是謎寶可夢喔！\r\n不覺得有種放置不管的感覺嗎？
 msg_A05_z02_06_talk_0010	只要有我在，不管是什麼樣的地方\n都會是華麗的舞台！
-msg_a48baf2f718356f682573f771c909f9e	[~ 274]
+msg_a48baf2f718356f682573f771c909f9e	[~ 279]
 msg_A05_z02_07_speech_01	與寶可夢度過的夏天……\n那些日子的故事都已過往。
 msg_A05_z02_07_speech_02	即使控訴都市開發的糾紛，\n也會被推遲處理。
 msg_A05_z02_07_talk_0003	據說地下水道連接了\n密阿雷市各個地方，對吧。
@@ -16475,7 +16640,7 @@ msg_A05_z02_07_speech_17	就算只有寶可夢變強\n也沒有用啊……
 msg_A05_z02_07_talk_0018	對寶可夢們來說，\n所謂的理想飲食是怎麼樣的呢？
 msg_A05_z02_07_talk_0019	這不僅會因為種族而不同，\n還需要考量營養等許多層面的事。
 msg_A05_z02_07_speech_20	對寶可夢們來說，\n所謂的理想飲食是什麼？
-msg_f63a4885cd7819517fd9bd2c407e9f1d	[~ 295]
+msg_f63a4885cd7819517fd9bd2c407e9f1d	[~ 300]
 msg_A05_z03_01_speech_01	好希望寶可夢的生命力\n可以分一點給我！
 msg_A05_z03_01_speech_02	我要來跟就這樣放在\n盒子裡的寶可夢玩！[VAR BD0A(000A)]Text_icon1
 msg_A05_z03_01_speech_03	就這麼被塵封\n在某處的滑輪鞋。[VAR BD0A(000A)]Text_icon1
@@ -16531,7 +16696,7 @@ msg_A05_z03_01_talk_0052	雖然在正義社受過鍛鍊了，\n還是不覺得�
 msg_A05_z03_01_talk_0053	寶可夢使出招式的動作\n簡直可說是自然的藝術！
 msg_A05_z03_01_talk_0054	我工作時經常和快遞員擦身而過。\n在密阿雷有幾位快遞員呢？
 msg_A05_z03_01_speech_55	在密阿雷迷路又怎樣！\n我可是在人生迷路了！！[VAR BD0A(000A)]Text_icon1
-msg_9d7f94c8cf57086355e58dc25ba6ad9a	[~ 351]
+msg_9d7f94c8cf57086355e58dc25ba6ad9a	[~ 356]
 msg_A05_r01_talk_0001	要多次使出發動時間短的招式，\n還是要使出發動時間長但能一擊打倒的招式？
 msg_A05_r01_talk_0002	我要從現在開始以訓練家的身分變強，\n適應與寶可夢共同生活的城市。
 msg_A05_r01_speech_03	那就去那個人推薦的\n咖啡館看看吧？
@@ -16541,7 +16706,7 @@ msg_A05_r01_talk_0006	聽我說，我要送貨去的地方\n有可怕的寶可�
 msg_A05_r01_talk_0007	但也不能和牠對戰……\n還是我讓搭檔把牠引走，再趁機送貨呢？
 msg_A05_r01_speech_08	異色的頭目……\n好想要異色的頭目。
 msg_A05_r01_speech_09	我不擅長和寶可夢相處……\n也有在考慮要搬家喔。
-msg_4651273ae96b2c07140267310653e75e	[~ 361]
+msg_4651273ae96b2c07140267310653e75e	[~ 366]
 msg_A05_r02_speech_01	因為是好啦魷嘛。\n好啦就這樣唷。
 msg_A05_r02_speech_02	我們的廣場。\n寶可夢們的廣場。[VAR BD0A(000A)]Text_icon1
 msg_A05_r02_speech_03	穿一樣的衣服感覺不錯呢。
@@ -16561,7 +16726,7 @@ msg_A05_r02_speech_16	比起工作，我選寶可夢！
 msg_A05_r02_speech_17	不知道路可以看地圖，\n那不知道選哪個招式該怎麼辦？
 msg_A05_r02_speech_18	如果不知道路，記得用地圖\n選擇目的地的移動地點喔。
 msg_A05_r02_speech_19	要往左還是往右？\n還是其實該直直往前才對？
-msg_136952047b0d9fef5c53e4474820320d	[~ 381]
+msg_136952047b0d9fef5c53e4474820320d	[~ 386]
 msg_A05_r03_talk_0001	不會受到對手招式影響的走位！\n在密阿雷的對戰，訓練家也是很重要的。
 msg_A05_r03_talk_0002	一旦開始收藏，\n就會很在意缺少的部分。
 msg_A05_r03_speech_03	有些人在培育寶可夢上\n有屬於自己的一套想法呢。
@@ -16583,7 +16748,7 @@ msg_A05_r03_speech_18	藝術的價值和對戰的勝敗，\n都是太在意就�
 msg_A05_r03_talk_0019	不論是哪個地區都有好地方\n和不是那麼一回事的地方呢。
 msg_A05_r03_talk_0020	沙河馬是一種身體顏色\n會因為雄性和雌性而不同的寶可夢。\r\n[VAR 1100(00FF,0101)]你妳看得出來這孩子是雄性還是雌性嗎？
 msg_A05_r03_speech_21	原來是野生寶可夢\n把道具掉在地上的啊。
-msg_945154f0a0a2287d2c35a182e9195c32	[~ 403]
+msg_945154f0a0a2287d2c35a182e9195c32	[~ 408]
 msg_A05_r04_speech_01	對戰時有節奏地使出\n各種招式就對了。
 msg_A05_r04_speech_02	對戰獲得經驗值，\n寶可夢就會變強！
 msg_A05_r04_speech_03	為了緊要關頭，\n精靈球是很重要的。
@@ -16915,8 +17080,8 @@ t1_i001_talk_50_f	畢竟ZA登峰戰[VAR BD0A(000D)]Text_infinity中備受矚目�
 t1_i001_talk_50_m	畢竟在參加ZA登峰戰[VAR BD0A(000D)]Text_infinity時的我\n可是[VAR 1100(00FF,0101)]你妳的勁敵嘛！[VAR 0114(0005)]
 t1_i001_talk_51_f	雖然我努力在裝得像個總裁……\c\n但如果不是大家在我身邊的話，\n我也沒辦法有這樣的未來啊。[VAR 0114(0006)]
 t1_i001_talk_52_m	雖然我努力在裝得像個總裁……\c\n但如果不是大家在我身邊的話，\n我也沒辦法迎接這樣的未來吧。[VAR 0114(0005)]
-msg_212629b4fc83a08216d7f1440696d5ce	
-msg_3dba11f5f7b0b75d0c8280e03a9c0bb6	
+t1_i001_bg_02	琵魯製作的\n安馨兒的甜甜圈店的招牌。
+t1_i001_bg_03	擺放著AZ收集的書籍。\n有時候安馨兒好像也會翻閱。
 t1_i001_2.txt
 t1_i001_2_bg_01	或許是這個旅行包\n決定了[VAR 1100(00FF,0101)]你妳在密阿雷市的命運。
 t1_i001_2_bg_02	櫃子上備有\n水之類的物品。
@@ -17050,7 +17215,7 @@ t1_i005_talk_06	[VAR 1100(00FF,0101)]你妳有沒有靈活運用超級進化？\
 t1_i005_talk_07	不管我怎麼調查，\n都搞不清楚F這個人物的目的……\r\n第二代所長做成這副德性真是令人難為情。[VAR 0114(0008)]
 t1_i005_talk_08	稜鏡塔的異常……\n不管發生什麼事，我都要守護密阿雷的和平。\r\n因為我跟大叔已經說好了。[VAR 0114(0008)]
 t1_i005_talk_09	在密阿雷有許多\n有困擾的寶可夢和人們喔！[VAR 0114(0008)]
-msg_397fa36b23fd21cc7a4d9d9f0a5d01fd	
+t1_i005_bg_10	白板上彙整了各式各樣\n關於委託的資訊。
 t1_i006_1.txt
 t1_i006_1_talk_01	代理所長人在3樓喔。
 t1_i006_1_talk_02	代理所長正在尋找\n願意協助的人喔。
@@ -17238,6 +17403,7 @@ msg_t1_i012_2_talk_09	提供不到位的服務會影響到\n旅館的評價，�
 msg_t1_i012_2_speech_10	接待從容不迫的人們\n很輕鬆呢。
 t1_i014_1.txt
 t1_i014_1_bg_01	招財狃拉。\c\n舉著右手代表有提升財運的效果。\n另外金色也被認為有提升財運的效果。
+t1_i014_1_stop_01	烏羽先生現在不在，\n請回吧。
 t1_i014_2.txt
 t1_i014_2_bg_01	向對手下跪使其大意，接著用\n頭上的刀對其劈斬的寶可夢的雕像。\c\n是純金製的嗎？總之是高價物品，\n因此還是別碰為妙……
 t1_i014_2_bg_02	擺著感覺很有來頭的扇子等物品。\c\n這些東西散發著要價不斐的氣息，\n因此還是別碰為妙……
@@ -17251,11 +17417,13 @@ t1_i014_2_talk_03	我不會輸！\n我個人也是有非做不可的事的！[VA
 t1_i014_2_talk_01	別在這探頭探腦的。\n閒著沒事做的話我就指派工作給[VAR 1100(00FF,0101)]你妳吧。[VAR 0114(0013)]
 t1_i014_2_talk_04	要是不想些方法解決塔的問題，\n大家會感到不安吧！[VAR 0114(0013)]
 t1_i014_2_talk_05	來舉辦個團隊對抗賽如何？\n比如鏽蝕組vs超Z隊。\r\n聽起來比由紫的企畫有趣多了吧。[VAR 0114(0013)]
+t1_i014_2_talk_09	[VAR 1100(00FF,0101)]你妳往後還是得繼續\n調查異次元課題才行啊。\c\n等調查點數累積夠了，\n就跟吉普索說一聲吧。[VAR 0114(0013)]
 t1_i014_2_talk_02	有奇怪的規則\n就代表有誰從中獲利。\r\n這就和鏽蝕組的利息一樣。[VAR 0114(0014)]
 t1_i014_2_talk_06	請替我轉達給[VAR 018B(0001)]。\n說我很期待[VAR 1100(00FF,0101)]她他的新影片。[VAR 0114(0014)]
 t1_i014_2_talk_07	密阿雷的象徵發生了異常啊。\n這就是所謂的不祥之兆吧。[VAR 0114(0014)]
 t1_i014_2_talk_08	只要[VAR 1100(00FF,0101)]你妳在，\n不知為何老大的心情就會很好。[VAR 0114(0014)]
-msg_955ea3bbc94c6ecf93e0e0c31b02ef34	
+t1_i014_2_bg_10	全像上會顯示出現在\n密阿雷市的異次元扭洞\r\n以及與扭洞相關的各種數值。
+t1_i014_2_talk_10	希望我們今後也能保持適當的距離，\n請多關照了。[VAR 0114(0014)]
 t1_i015.txt
 t1_i015_bg_01	櫃台上放著\n似乎最近才用過的水杯。
 t1_i015_bg_02	是還沒整理完嗎？\n盒子還被擺在這裡。

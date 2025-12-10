@@ -560,6 +560,29 @@ msg_7697c8f73edb7b4b4355a76a251a5ea7	[~ 120]
 msg_cafe_photo_01	Are you all done with your camera?
 msg_cafe_photo_02	Yes
 msg_cafe_photo_03	No
+msg_4b1a1f1e12686df522a8724f141c1c3f	[~ 124]
+msg_cafe_welcome_18	Welcome to Café Triste. Please, please do not\norder the sushi-coffee combo.
+msg_560d7ece1e0bdea11564f74b0aa5df31	[~ 126]
+msg_Ev_sub_salon_01_talk_01	[VAR BD06(0000)][VAR 0100(0000)]! Who should we be\nwhisking\r\noff\r\ninto\r\na\r\nworld\r\nof\r\npleasant\r\ndreams\r\ntoday?[VAR 0114(01BB)]
+msg_Ev_sub_salon_01_select_01	Me!
+msg_Ev_sub_salon_01_select_02	[VAR 0102(0002)]
+msg_Ev_sub_salon_01_select_03	[VAR 0102(0003)]
+msg_Ev_sub_salon_01_select_04	[VAR 0102(0004)]
+msg_Ev_sub_salon_01_select_05	[VAR 0102(0005)]
+msg_Ev_sub_salon_01_select_06	[VAR 0102(0006)]
+msg_Ev_sub_salon_01_select_07	[VAR 0102(0007)]
+msg_Ev_sub_salon_01_select_08	We’re all good
+msg_Ev_sub_salon_01_talk_02	Come back any time you need help sleeping![VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_03	[VAR BD06(0000)]Well then—please enjoy a cup of coffee and take\na load off while you wait,\r\n[VAR 0100(0000)].\c\nMusharna, you know what to do![VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_04	Shashasha! ♪
+msg_Ev_sub_salon_01_talk_05	That was quite a nice nap, wasn’t it? Come back\nanytime you’re in need of more sleep![VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_06	Well then—Musharna, you know what to do![VAR 0114(01BB)]
+msg_Ev_sub_salon_01_talk_07	Shashasha! ♪
+msg_Ev_sub_salon_01_talk_08	Do you want to wake your Pokémon?
+msg_Ev_sub_salon_01_select_09	Wake it up
+msg_Ev_sub_salon_01_select_10	Let it sleep
+msg_Ev_sub_salon_01_talk_09	That was quite a nice nap, wasn’t it? Come back\nanytime your team is in need of more sleep![VAR 0114(01BB)]
+msg_Ev_sub_salon_01_wait_01	Shashasha.
 change_deox_scr.txt
 msg_26397c07d2ba6dfbedcc7969a606e712	[~ 0]
 msg_8006910c5e48d4794506afc41a03ee9e	[~ 1]
@@ -772,14 +795,20 @@ msg_fld_ev_peoneymemo_01	You jotted down the current status on\n[VAR 0109(0001)]
 msg_fld_field_magicaltrade_01	You have a Surprise Trade waiting to be\ncompleted! Please connect to the internet.
 msg_fld_field_cliff_return	Would you like to go back to where you were\nbefore you fell?
 msg_fld_atlantis_back	You hurried back to the others so you wouldn’t\nget separated!
-msg_14ddda1ba8a0effe384aa50c60b1e269	
-msg_f823293c97f22caa5b84eedcb737ebb9	
-msg_328fc28fa261a2002182c74b62d5cfd8	
-msg_9967144164f1bbd68c03b2c5b30a7b71	
-msg_e3b9177257bc9a4eb56e0d3f5ad802c6	
-msg_b9b3c0853408971e1c3f826e026e3f86	
-msg_7734594370d3da4845ef1123adef7ec6	
-msg_d1317c647caf235bf4a622f6cd67af89	
+msg_fld_power_empty	It appears Hoopa has run out of Donut Energy!
+msg_fld_rematch_sa_01	You’ll be expelled from this pocket of hyperspace.\nAre you sure you want to give up?
+msg_fld_rematch_select_10	Yes
+msg_fld_rematch_select_11	No
+msg_fld_izigen_mega_01	Watch out! Mega Chimecho is going to attack!
+msg_fld_izigen_mega_02	Watch out! Mega Garchomp Z is going to attack!
+msg_fld_izigen_mega_03	Watch out! Mega Golurk is going to attack!
+msg_fld_izigen_mega_04	Watch out! Mega Golisopod is going to attack!
+msg_fld_izigen_mega_05	Watch out! Mega Scovillain is going to attack!
+msg_fld_izigen_mega_06	Watch out! Mega Glimmora is going to attack!
+msg_7922e57b2b7e4c4cca040e453fd96a35	[~ 37]
+msg_fld_izigen_legend_01	I’m picking up on [VAR 0101(0002)] near you![VAR 0114(0007)]
+msg_fld_izigen_legend_02	Search it out and catch it![VAR 0114(0007)]
+msg_fld_izigen_ball	An assortment of goodies came out of the gold\nBonus Ball!
 field_trade.txt
 msg_field_trade_system_01	That Pokémon doesn’t meet the conditions of\nthe trade!
 msg_field_trade_a_01	Do you have the Pokémon Flabébé? They can\ncarry different-colored flowers, right?\c\nCould you trade me a Flabébé for my Snom?\nAny color of flower is fine by me!
@@ -8189,6 +8218,57 @@ msg_megarematch_talk_06	And you’ve managed to set a new personal record!\nTrul
 msg_megarematch_talk_07	Please accept this reward. You’ve earned it.[VAR 0114(000E)]
 msg_megarematch_talk_08	Simulations at least spare you the usual grievous\nbodily harm of losing.\c\nYou need merely shake off the emotional blow.[VAR 0114(000E)]
 msg_megarematch_talk_09	Until your next simulated challenge, then.[VAR 0114(000E)]
+msg_megarematch_select_19	Absol (Z)
+msg_megarematch_select_20	Staraptor
+msg_megarematch_select_21	Tatsugiri
+msg_megarematch_select_22	Meowstic
+msg_megarematch_select_23	Heatran
+msg_megarematch_select_24	Darkrai
+msg_megarematch_select_25	Groudon
+msg_megarematch_select_26	Kyogre
+msg_megarematch_select_27	Rayquaza
+msg_megarematch_select_29	Zygarde
+msg_megarematch_select_28	Zeraora
+msg_megarematch_talk_19	I just came by to deliver a cup of coffee to Vinnie,\nbut he was so busy that he put me in charge here!\c\nSo, um, I guess I’m running the Rogue Mega\nEvolution Simulator 3000 now?
+msg_megarematch_talk_10	Which Rogue Mega Evolution simulation do you\nwant to battle?
+msg_megarematch_talk_11	How about another go? Which Rogue Mega\nEvolution do you want to try battling next?
+msg_megarematch_talk_12	[VAR 0101(0002)], huh? You ready?
+msg_megarematch_talk_13	[VAR BD06(0000)]Your best time beating [VAR 0101(0002)] is\n[VAR 0201(0003)]:[VAR 0201(0004)].[VAR 0201(0005)].\r\nYou ready to try again?
+msg_megarematch_talk_14	Whoa! That was something else! You beat that\nthing in [VAR 0201(0003)]:[VAR 0201(0004)].[VAR 0201(0005)].
+msg_megarematch_talk_15	That’s a new record!
+msg_megarematch_talk_16	Here’s your reward. Hope you enjoy it.
+msg_megarematch_talk_17	At least it’s no big deal when you lose. It’s just a\nsimulation, so no one gets hurt.
+msg_megarematch_talk_18	Stop by any time you want another go.
+msg_megarematch_talk_30	New simulations of Rogue Mega-Evolved\nPokémon have been added.
+msg_megarematch_talk_20	Congratulations! You’ve unlocked the Rogue\nMega Rush, a special new challenge mode!
+msg_megarematch_talk_34	What would you like to do?
+msg_megarematch_select_30	Battle a Rogue Mega Evolution simulation
+msg_megarematch_select_31	Try the Rogue Mega Rush challenge
+msg_megarematch_select_32	Never mind
+msg_megarematch_talk_21	Think you’re ready to try the Rogue Mega Rush?
+msg_megarematch_select_33	Yeah, I’m ready
+msg_megarematch_select_34	Could you explain?
+msg_megarematch_select_35	What’s my record?
+msg_megarematch_select_36	Never mind
+msg_megarematch_talk_22	In the [VAR FF00(0006)]Rogue Mega Rush[VAR FF00(0000)], you’ll battle every single\nRogue Mega-Evolved Pokémon in a row.\c\nYou can’t change your Pokémon team. And if you\nlose, that’s it—challenge over.\c\nYou can ask for a heal between battles! But only\nthree times max.\c\nWe’ll keep track of how many you defeat. If you\nmanage to beat ’em all, we’ll log your time.
+msg_megarematch_talk_31	I won’t lie to you—this is a really, really tough\nchallenge. You sure you’re ready?
+msg_megarematch_select_42	Yes!
+msg_megarematch_select_43	No...
+msg_megarematch_talk_23	Ready to take on the next Pokémon?
+msg_megarematch_select_37	I’m ready for battle
+msg_megarematch_select_38	I’d like a heal, please!
+msg_megarematch_select_39	I can’t take any more...
+msg_megarematch_talk_24	You have [VAR 0200(0003)] heal[VAR 1101(0003,0100)]s remaining. Are you sure you\nwant to heal your Pokémon now?
+msg_megarematch_select_40	Yes, please
+msg_megarematch_select_41	Never mind
+msg_megarematch_select_44	If you quit, we’ll count what you’ve done so far as\nyour record for this attempt—but you’ll have to\r\nstart all over next time. Sure you want to give up?
+msg_megarematch_talk_25	What a shame. I hope you’ll try again sometime!
+msg_megarematch_talk_26	You defeated [VAR 0201(0004)] Pokémon! I can’t wait to see if\nyou top that next time.
+msg_megarematch_talk_27	You completed the challenge in [VAR 0201(0005)]:[VAR 0201(0006)]:[VAR 0201(0007)].[VAR 0201(0008)]!
+msg_megarematch_talk_28	You defeated [VAR 0201(0004)] Pokémon.
+msg_megarematch_talk_32	Whoa, wait a second—that means you beat them\nALL! That’s incredible. Amazing job!
+msg_megarematch_talk_29	You completed the challenge in [VAR 0201(0005)]:[VAR 0201(0006)]:[VAR 0201(0007)].[VAR 0201(0008)]!
+msg_megarematch_talk_33	Stop by anytime you want to try again!
 megashards.txt
 megashards_talk_01	Would you like to exchange your Mega Shards for\nitems?
 megashards_seelct_01	Yes, please
@@ -10180,6 +10260,57 @@ msg_reward_23_12	Trop chic! Very stylish indeed!\c\nRemaining refined, yet flowi
 msg_reward_24_11	Battling against me was the very first memory you\nmade in Lumiose, right?\c\nWell, let’s stroll down memory lane![VAR 0114(002C)]
 msg_reward_24_btl11	You’re not the only one here who’s gotten strong!\nI’ll show you how different I am from back then![VAR 0114(002C)]
 msg_reward_24_12	You can still really hold your own in battle...but\nthat doesn’t make losing to you feel any better![VAR 0114(002C)]
+msg_d2e40611c6886be152198c9462639433	[~ 158]
+msg_reward_d_01_13_f	My Pokémon and I are gonna battle you with the\nfull force of everything we’re feeling![VAR 0114(0006)]
+msg_reward_d_01_btl13_f	I’m glad we get to battle you—and keep breaking\nright through the limits we thought we had![VAR 0114(0006)]
+msg_reward_d_01_13_m	My Pokémon and I are gonna battle you with the\nfull force of everything we’re feeling![VAR 0114(0005)]
+msg_reward_d_01_btl13_m	I’m glad we get to battle you—and keep breaking\nright through the limits we thought we had![VAR 0114(0005)]
+msg_reward_d_02_13	I’m here to prove my strength as the Looker\nBureau’s current head detective![VAR 0114(0008)]
+msg_reward_d_02_btl12	I need to be strong if I want to keep my promise to\nprotect the peace in Lumiose![VAR 0114(0008)]
+msg_reward_d_03_13	What we’ve achieved together on Team MZ has\nmade me and my Pokémon so much stronger![VAR 0114(000B)]
+msg_reward_d_03_btl12	Feel all my gratitude, Scrafty! Let it fill you with\nthe power of Mega Evolution![VAR 0114(000B)]
+msg_reward_d_04_13	Our days in Lumiose have been so wild, they’ve\nmade me stronger in all kinds of ways![VAR 0114(000C)]
+msg_reward_d_04_btl12	Get ready to see where we REALLY shine! C’mon,\nStarmie—Mega Evolve and break it down![VAR 0114(000C)]
+msg_reward_d_05_13	Lumiose City is a truly great metropolis. And I’ll\nmake it even greater once I’ve won![VAR 0114(000E)]
+msg_reward_d_05_btl12	Drampa, our hearts are perfectly aligned! Let us\nshow them what Mega Evolution can really do![VAR 0114(000E)]
+msg_reward_d_06_13	I’m gonna power DYN4MO up...by beatin’ ya and\nabsorbin’ Team MZ into our ranks![VAR 0114(000F)]
+msg_reward_d_06_btl12	Me and Eelektross are gonna shock your socks\noff with our ultimate, unbeatable Mega Evolution![VAR 0114(000F)]
+msg_reward_d_07_13	I’m gonna rack up wins in this Infinite Z-A Royale\nso I can redesign this city to everybody’s likin’![VAR 0114(0010)]
+msg_reward_d_07_btl12	Do ya know how Excadrill Mega Evolves? We\nbond over how badly we wanna win![VAR 0114(0010)]
+msg_reward_d_08_13	You all have taught me about kinds of strength I’d\nnever known. This battle is how I say thank you![VAR 0114(0011)]
+msg_reward_d_08_btl12	Falinks! Mega Evolve into justice incarnate![VAR 0114(0011)]
+msg_reward_d_09_13	I will win.[VAR 0114(0012)]
+msg_reward_d_09_btl12	Chandelure... Mega Evolve for justice’s sake...[VAR 0114(0012)]
+msg_reward_d_10_13	Defeating you is step one of my plan to put\neveryone to work building a better Lumiose![VAR 0114(0013)]
+msg_reward_d_10_btl12	Our bonds have been built through thick and thin,\nso get ready for the real deal![VAR 0114(0013)]
+msg_reward_d_11_13	I’m deeply grateful to you, but all that gets left on\nthe sidelines once we set foot on the battle court.[VAR 0114(0014)]
+msg_reward_d_11_btl12	Skarmory, let’s show them how we were before\nwe met the boss—vicious and unrelenting![VAR 0114(0014)]
+msg_reward_d_12_13	When you battle with all your might, you cannot\nhelp but come to admire the opposing Pokémon\r\nand Trainer... Such is the magic of battle![VAR 0114(0015)]
+msg_reward_d_12_btl12	Behold the apex of the SBC’s power! Prepare to\nbe dazzled by our magnificent Mega Evolution![VAR 0114(0015)]
+msg_reward_d_13_13	Winning in the Infinite Z-A Royale will be my way\nof memorializing how I’ve changed since we met![VAR 0114(0016)]
+msg_reward_d_13_btl12	Battles are for breaking free of your boundaries!\nDragalge, give me everythin’ you got![VAR 0114(0016)]
+msg_reward_d_14_13	Meeting you and your friends has made my inner\nflame blaze bright![VAR 0114(0017)]
+msg_reward_d_14_btl12	We’re going to burn so bright, we’ll be blinding.\nLet’s ignite with Mega Evolution, Charizard![VAR 0114(0017)]
+msg_reward_d_15_13	Get ready for a scorching wave of my gratitude![VAR 0114(0018)]
+msg_reward_d_15_btl12	Nouveau is all about building a new life for\nourselves! Let’s Mega Evolve into something new![VAR 0114(0018)]
+msg_reward_d_16_13	There’s something I noticed, being the amazing\ncabbie that I am...\c\nPokémon battles are like driving a car—it’s all\nabout keeping control of the situation.[VAR 0114(002F)]
+msg_reward_d_16_btl12	I trained my Pokémon up by a whole level, so my\ntank is nearly empty![VAR 0114(002F)]
+msg_reward_d_17_13	Let’s get this over with already.\c\nThat’s what I’d normally think, but no... I’m going\nto take my time and savor this battle![VAR 0114(0030)]
+msg_reward_d_17_btl12	If you stop running, then you’ll never make it to\nthe goal! We’ve got to keep pressing on![VAR 0114(0030)]
+msg_reward_d_18_13	We’ve moved beyond the age of ranks! We live in\nthe infinite now—a world of endless battle![VAR 0114(0031)]
+msg_reward_d_18_btl12	Being doomed to lose again and again... Yes, that\nwould be one way to make battles feel endless...[VAR 0114(0031)]
+msg_reward_d_19_13	I know I’ve said it before, but I swear I’ll make\nRestaurant Le Nah into a three-star restaurant![VAR 0114(0032)]
+msg_reward_d_19_btl12	You’ve got to have something that’s just OK to\ncompare to, or you’ll never know what’s great![VAR 0114(0032)]
+msg_reward_d_20_13	Do I really enjoy unlocking Plus Moves, or do I\njust love gathering Seeds of Mastery?\c\nI, Josée, will ignore these seeds of doubt to fight![VAR 0114(0033)]
+msg_reward_d_20_btl12	I’ll battle on, for the sake of all the Pokémon who\ngave their all for me![VAR 0114(0033)]
+msg_reward_d_21_13	I will prove my devotion to my beloved Canari\nthrough absolute domination in this battle![VAR 0114(0035)]
+msg_reward_d_21_btl12	I must put it all on the line with this last solitary\nPokémon of mine![VAR 0114(0035)]
+msg_reward_d_23_13	You know, trends come and go when it comes to\nbattle, as they do in fashion.\c\nEveryone has to decide their own style, whether\nthat means battling the way they prefer or chasing\r\nthe latest strategies to stay in vogue.[VAR 0114(003A)]
+msg_reward_d_23_btl12	Even when cornered, as long as we remain chic,\nwe’re still stylish![VAR 0114(003A)]
+msg_reward_d_24_13	Battling against me was the very first memory you\nmade in Lumiose, right?\c\nWell, let’s stroll down memory lane![VAR 0114(002C)]
+msg_reward_d_24_btl12	You’re not the only one here who’s gotten strong!\nI’ll show you how different I am from back then![VAR 0114(002C)]
+msg_reward_d_25_13	Time for Lady Korrina’s big appearance![VAR 0114(0192)]
+msg_reward_d_25_btl12	Being a Pokémon Trainer means being totally in\nsync, letting loose...and giving it all you’ve got![VAR 0114(0192)]
 royale_event.txt
 msg_zs_item_01_speech_01	Got a prize for\nthe winner! [VAR BD0A(000A)]Text_icon1
 msg_zs_item_01_01	Got a delivery for the winning Pokémon Trainer:\n[VAR 1302(0002,0000)][VAR 010A(0002)]!
@@ -10207,6 +10338,32 @@ msg_zs_medal_04_speech_01	Might you be wanting\nmy prize medals? [VAR BD0A(000A)
 msg_zs_medal_04_01	We in the Society of Battle Connoisseurs were\nhaving a bit of sport to see who’d gather the most\r\nprize medals in one night. But you may have mine.
 msg_zs_medal_get	You received some prize medals!
 msg_zs_item_get	You received some [VAR FF00(0008)][VAR 1001][VAR 010A(0002)][VAR FF00(0000)]!
+msg_zs_item_03_speech_01	I’ve got some Hyperspace Berries\nhere with your name on ’em! [VAR BD0A(000A)]Text_icon1
+msg_zs_item_03_01	[VAR BD06(0000)]I’ve been collecting\n[VAR 1001][VAR 010A(0002)]\r\nhere\r\nin\r\nHyperspace\r\nLumiose.\r\nHave\r\nsome!
+msg_zs_item_04_speech_01	Wouldn’t you like some\nHyperspace Berries? [VAR BD0A(000A)]Text_icon1
+msg_zs_item_04_01	You’re really strong! In honor of that strength, I’ll\ngive you these [VAR 1001][VAR 010A(0002)]!
+msg_zs_heal_06_speech_01	Shall I make your Pokémon\nfeel all better for you? [VAR BD0A(000A)]Text_icon1
+msg_zs_heal_06_01	Even in this bizarre Hyperspace Lumiose, my job\nis to make Pokémon feel all better!
+msg_zs_heal_07_speech_01	How about a taste of\nmy hyperspace brew? [VAR BD0A(000A)]Text_icon1
+msg_zs_heal_07_01	Even coffee brewed in a mysterious pocket of\nhyperspace ought to perk your team right up.
+msg_zs_heal_08_speech_01	Coffee? [VAR BD0A(000A)]Text_icon1
+msg_zs_heal_08_01	This is my special hyperspace blend. It will make\nyou feel fully restored.
+msg_zs_heal_09_speech_01	Drink some of Nouveau\nCafé’s famed coffee! [VAR BD0A(000A)]Text_icon1
+msg_zs_heal_09_01	I don’t know where I am or why, but I’ll still make\nPokémon feel better with our Fire Blast Roast.
+msg_zs_heal_10_speech_01	Have a cup of Nouveau\nCafé’s famed coffee! [VAR BD0A(000A)]Text_icon1
+msg_zs_heal_10_01	Even in a strange dimension, Pokémon deserve to\nbe healed by Nouveau Café’s Burn Up Roast.
+msg_zs_item_05_speech_01	I don’t have any cards to share, but\nI’ve got somethin’ just as good! [VAR BD0A(000A)]Text_icon1
+msg_zs_item_05_01	[VAR BD06(0000)]Really, [VAR 1302(0002,0000)][VAR 1000][VAR 010A(0002)] is\nbasically\r\nsuper\r\nultra\r\nrare!
+msg_zs_item_06_speech_01	I’ve got an extremely\nvaluable gift for you. [VAR BD0A(000A)]Text_icon1
+msg_zs_item_06_01	[VAR BD06(0000)][VAR 1303(0002,0000)][VAR 1000][VAR 010A(0002)] is valuable,\nbut\r\nI\r\ndon’t\r\nmind\r\nsharing—I’ve\r\ngot\r\nplenty.
+msg_zs_item_07_speech_01	I’ve got something\ngood for you. [VAR BD0A(000A)]Text_icon1
+msg_zs_item_07_01	[VAR BD06(0000)]Even [VAR 1302(0002,0000)][VAR 1000][VAR 010A(0002)] seems\nmore\r\nvaluable\r\nafter\r\nbeing\r\nin\r\nmy\r\npossession.
+msg_zs_item_08_speech_01	I suppose I could share a\nbit of my riches with you. [VAR BD0A(000A)]Text_icon1
+msg_zs_item_08_01	Even in hyperspace the SBC is generous. So have\nthese [VAR 1001][VAR 010A(0002)].
+msg_zs_medal_09_speech_01	Shall I give you a\nwondrous gift? [VAR BD0A(000A)]Text_icon1
+msg_zs_medal_09_01	[VAR BD06(0000)]I shower upon you my hyperspace-level love for\nLady Jacinthe...and for\r\n[VAR 1001][VAR 010A(0002)].
+msg_zs_medal_10_speech_01	I may just be a hologram,\nbut I’ve got gifts to give! [VAR BD0A(000A)]Text_icon1
+msg_zs_medal_10_01	[VAR BD06(0000)]Must be a funny feeling to receive\n[VAR 1302(0002,0000)][VAR 1000][VAR 010A(0002)]\r\ngift\r\nfrom\r\na\r\nhologram!
 shop.txt
 shop_00	I’d like to buy
 shop_01	I’d like to sell
@@ -10249,19 +10406,20 @@ shop_talk_11	You put all your new purchases in your satchel!\c
 shop_talk_31	[VAR BD06(0000)]You got\n[VAR 1302(0000,0000)][VAR 010A(0000)]\r\nand\r\nput\r\nit\r\nin\r\nyour\r\nsatchel.\c
 shop_talk_32	[VAR BD06(0000)]You got\n[VAR 0202(0001)] [VAR 1001][VAR 010A(0000)]\r\nand\r\nput\r\nthem\r\nin\r\nyour\r\nsatchel.\c
 shop_talk_33	You put your new items in your satchel!\c
-msg_bf2cac14ed1904d110d249c63020bfb5	[~ 41]
-msg_b8ea6546764ac59a5d06db121a6c7fd7	[~ 42]
-msg_8b31b3fba7e2c2853211a508661a344c	[~ 43]
-msg_3b600c207c62e1d16bf0e6907578ab99	[~ 44]
-msg_abc9810f530c3c75c1515f38f803003c	[~ 45]
-msg_b180ae393c83baeac420455f6635bb37	[~ 46]
-msg_b34288f372adffe152102fa599dfe1e0	[~ 47]
-msg_226c73a56257c13ac07235600da10540	[~ 48]
-msg_196591bde6e55e7e1b9e3f593259c566	[~ 49]
-msg_ee816afc992923492f24ab13056bb5f4	[~ 50]
-msg_19615a7d51256dc61ab0bf5b899fc389	[~ 51]
-msg_3b8c2bc46e2125653940d8365b5aa3ae	[~ 52]
-msg_e4676c6ab44dccecc6d856a6c951f962	[~ 53]
+shop_talk_34	[VAR BD06(0000)]You got a TM for [VAR 0107(0000)] and put it in\nyour\r\nsatchel.\c
+msg_bf2cac14ed1904d110d249c63020bfb5	[~ 42]
+msg_b8ea6546764ac59a5d06db121a6c7fd7	[~ 43]
+msg_8b31b3fba7e2c2853211a508661a344c	[~ 44]
+msg_3b600c207c62e1d16bf0e6907578ab99	[~ 45]
+msg_abc9810f530c3c75c1515f38f803003c	[~ 46]
+msg_b180ae393c83baeac420455f6635bb37	[~ 47]
+msg_b34288f372adffe152102fa599dfe1e0	[~ 48]
+msg_226c73a56257c13ac07235600da10540	[~ 49]
+msg_196591bde6e55e7e1b9e3f593259c566	[~ 50]
+msg_ee816afc992923492f24ab13056bb5f4	[~ 51]
+msg_19615a7d51256dc61ab0bf5b899fc389	[~ 52]
+msg_3b8c2bc46e2125653940d8365b5aa3ae	[~ 53]
+msg_e4676c6ab44dccecc6d856a6c951f962	[~ 54]
 shop_select_00	Yes
 shop_select_01	No
 shop_select_02	Keep shopping
@@ -10279,15 +10437,15 @@ shop_guide_10	Quit
 shop_guide_11	Bulk Trade
 shop_12	[VAR 0202(0000)]
 shop_waza_00	Power
-msg_1b502394d18b87fa7f77d2c03def1297	[~ 71]
-msg_75adc89e363280cde603c4260a65cbd1	[~ 72]
-msg_2e189db60863b03b9f41cd943574254d	[~ 73]
+msg_1b502394d18b87fa7f77d2c03def1297	[~ 72]
+msg_75adc89e363280cde603c4260a65cbd1	[~ 73]
+msg_2e189db60863b03b9f41cd943574254d	[~ 74]
 shop_waza_04	[VAR 0107(0000)]
 shop_waza_id	TM[VAR 0202(0000)]
 shop_waza_power	[VAR 0202(0000)]
 shop_waza_power_nodeta	—
 shop_17	——
-msg_e957f4fface96b8f4102324e9afe7f9d	[~ 79]
+msg_e957f4fface96b8f4102324e9afe7f9d	[~ 80]
 shop_33	Sold out
 shop_34	—
 shop_35	Shop Inventory
@@ -10332,12 +10490,12 @@ msg_shop_screw_21	You’ve already got that one, kid.\c
 msg_shop_screw_81	You gonna put back the plush you’d picked up?\c
 staffrollreplay.txt
 msg_staffrollreplay_talk_01	I’ve got a super amazing memory. I remember\nevery name I’ve EVER seen, even just one time.\r\nWant me to show you?
-msg_ae696a36dd9605d0f2a119106503aaf9	
+msg_staffrollreplay_talk_06	I’ve got a super amazing memory. I remember\nevery name I’ve EVER seen, even just one time.\c\nI’ve even learned some MORE new names lately!\nWant me to show you?
 msg_staffrollreplay_select_01	Let’s see it, then
-msg_3f9cb1ff8ba9c93d4ea1a00341a4f929	
-msg_e0315dee1e08da146a617fbc93312135	
-msg_628a2401d5530b80841fef8b6de2e833	
-msg_62f711a7aaa57ab843d022284a2adffc	
+msg_staffrollreplay_select_05	Let’s see those old names
+msg_staffrollreplay_select_06	Let’s see them
+msg_staffrollreplay_select_07	Let’s see those new names
+msg_staffrollreplay_select_08	Let’s see them
 msg_staffrollreplay_select_02	I think I’m good
 msg_staffrollreplay_talk_05	It’ll take me about six minutes to recite the entire\nlist. You ready for this?
 msg_staffrollreplay_select_03	I said I was interested!
@@ -10426,6 +10584,8 @@ msg_stand_05_talk_04	Looks like you’re a bit short.
 msg_stand_05_talk_05	Come on back if you feel like buying!
 msg_stand_05_talk_06	It looks to me like your satchel can’t hold any\nmore right now.
 msg_stand_05_talk_07	Anything else you had your eye on?
+msg_03c3a7b1a4bb684e97bc50fea8c91b06	[~ 80]
+msg_stand_06_talk_01	How about a fine Leek? Farfetch’d love to hold\nonto them. What’ll you have?
 stopper.txt
 stopper_general_01	Not now—you can head this way later!
 stopper_holovator_01	This Holovator can’t be used right now!
@@ -16346,7 +16506,12 @@ msg_A05_z02_01_speech_30	It’s great how training lets me\nchange myself for th
 npc_A05_z02_01_speech_0029	Ghost types grow more powerful\nat night...at least, I think they do.
 npc_A05_z02_01_speech_0030	It’s so exciting to\npull an all-nighter!
 npc_A05_z02_01_talk_0031	Ivor-sensei’s rigid might... Gwynn’s light touch\nand adaptability... They make a balanced team!
-msg_c8cfeab462cf4b63aa7b26a3a20c2ebb	[~ 166]
+ti_A05_z02_01_bg_01	There are cardboard boxes stuffed haphazardly\nwith Fist of Justice equipment.
+ti_A05_z02_01_bg_02	These Trevenant-themed training dummies are\nhandy for practicing strikes and kicks.
+ti_A05_z02_01_bg_03	It’s an incline bench for doing sit-ups. A note on\nit says “Off-limits for Ivor!” in small writing.
+ti_A05_z02_01_bg_04	It’s a flag for the Fist of Justice with their logo\nprinted on it—almost like the Team MZ flag.
+ti_A05_z02_01_bg_05	It’s a sandbag for practicing strikes. A note on it\nsays “Off-limits for Ivor!” in small writing.
+msg_c8cfeab462cf4b63aa7b26a3a20c2ebb	[~ 171]
 msg_A05_z02_02_speech_01	What’d happen if the holo-tech\naround the wild zones ever broke?
 msg_A05_z02_02_speech_02	Your Pokémon are really fantastic.\nThey must love you raising them.
 msg_A05_z02_02_speech_03	You sure are giving my Pokémon\nan uncanny amount of attention...
@@ -16357,7 +16522,7 @@ msg_A05_z02_02_talk_0007	Sableye is pretty unusual for having the Fairy type\nas
 msg_A05_z02_02_speech_08	The floor above my place is vacant,\nyet I keep hearing this odd noise...
 msg_A05_z02_02_speech_09	Maybe a Pokémon found a way\nin and made itself at home?
 msg_A05_z02_02_speech_10	If a Magikarp came flopping out,\nI’d toss it right back in the river!
-msg_b9be3b03626a40b91e1a4c5393fec97d	[~ 177]
+msg_b9be3b03626a40b91e1a4c5393fec97d	[~ 182]
 msg_A05_z02_03_talk_0001	This old wives’ tale says that a Sharpedo tooth\nwill protect you from ever getting shipwrecked.
 msg_A05_z02_03_talk_0002	My Delibird sometimes gives me bug Pokémon as\nlittle presents...
 msg_A05_z02_03_talk_0003	At some point while I was training Machop, I\nrealized that I love martial arts as well!
@@ -16379,7 +16544,7 @@ msg_A05_z02_03_speech_18	I’ve got to recapture the wonder\nfrom when I first b
 msg_A05_z02_03_speech_19	Be their playmate\nforever and ever!
 msg_A05_z02_03_speech_20	What should I do to make\nmy Pokémon happy?
 msg_A05_z02_03_speech_21	I’ll give your Furfrou\na real stylish trim! [VAR BD0A(000A)]Text_icon1
-msg_3e982f0fef49bd1c11c2f7483fe0789d	[~ 199]
+msg_3e982f0fef49bd1c11c2f7483fe0789d	[~ 204]
 msg_A05_z02_04_talk_0001	Those heated gazes in the Z-A Royale... They reek\nof danger.
 msg_A05_z02_04_speech_02	People ride on Pokémon in some\nregions but not others. It’s tricky.
 msg_A05_z02_04_speech_03	Get lost on purpose!\nYou’ll discover new things.
@@ -16421,7 +16586,7 @@ msg_A05_z02_04_speech_38	I’m part of an occult fan club.\nThough I’m the onl
 msg_A05_z02_04_talk_0039	I’ll win my way to the top of the Z-A Royale with\nmy Beldum, then I’ll revive the Pokémon Fan Club!
 msg_A05_z02_04_talk_0040	They have those Z-Move things in Alola, right?\nAnd Zygarde was there too...
 msg_A05_z02_04_talk_0041	Verily am I a member of the Pokédex Research\nSociety. If I could describe Carbink in an entry of\r\nmy own devising, I would write...\c\n“Carbink that sleep deep underground are forced\nby geological forces such as volcanic eruptions or\r\nearthquakes to rise to the surface, where they\r\nawaken from their slumber.”
-msg_ef863095c2af29f7589a60b12abf5429	[~ 241]
+msg_ef863095c2af29f7589a60b12abf5429	[~ 246]
 msg_A05_z02_05_talk_0001	We were having a little game of naming 10 things\nwe each like about one another’s Pokémon.
 msg_A05_z02_05_talk_0002	Please, I was a member of the Pokémon Fan Club!\nI could easily name a hundred things!
 msg_A05_z02_05_speech_03	It’s nice to take a little\nstroll around the hotel.
@@ -16443,7 +16608,7 @@ msg_A05_z02_05_talk_0018	If you want to train your Pokémon, you won’t get\nfa
 msg_A05_z02_05_speech_19	Just keep walking. Eventually\nyou’re sure to get somewhere.
 msg_A05_z02_05_speech_20	I heard it cost 5,000,000 just to\njoin Team Flare back in the day.
 msg_A05_z02_05_speech_21	Ahh, I can’t help but melt when\nI smell Victreebel’s sweet scent!
-msg_4a48bcc7e1c710b1fab60ead2d780e71	[~ 263]
+msg_4a48bcc7e1c710b1fab60ead2d780e71	[~ 268]
 msg_A05_z02_06_speech_01	I’m pretty sure I saw a Hawlucha-\nthemed manhole somewhere...
 msg_A05_z02_06_speech_02	Me too! I’m sure I did!\nOr at least I think I did.
 msg_A05_z02_06_speech_03	Catering to Pokémon as customers\ncould be a business opportunity...
@@ -16454,7 +16619,7 @@ msg_A05_z02_06_speech_07	Do you think some Pokémon let\nthemselves be caught on
 msg_A05_z02_06_speech_08	I just love couriers!\nSo I dress up like one!
 msg_A05_z02_06_talk_0009	Starmie’s category is the Mysterious Pokémon!\c\nSeems kinda...dissatisfying, doesn’t it?
 msg_A05_z02_06_talk_0010	Everywhere I go becomes a splendid stage thanks\nto my dazzling presence!
-msg_a48baf2f718356f682573f771c909f9e	[~ 274]
+msg_a48baf2f718356f682573f771c909f9e	[~ 279]
 msg_A05_z02_07_speech_01	That summer I spent with my\nPokémon... Those days are gone.
 msg_A05_z02_07_speech_02	Our complaints about all the\nredevelopment go nowhere.
 msg_A05_z02_07_talk_0003	Have you heard that the sewers connect to all\nkinds of different places in Lumiose?
@@ -16475,7 +16640,7 @@ msg_A05_z02_07_speech_17	Just ’cause someone has a strong\nteam doesn’t mean
 msg_A05_z02_07_talk_0018	What do you think an ideal meal would look like\nfor a Pokémon?
 msg_A05_z02_07_talk_0019	I suppose it would vary by species. You’d have to\nconsider their different dietary needs too.
 msg_A05_z02_07_speech_20	What do you think a Pokémon\nwould consider an ideal meal?
-msg_f63a4885cd7819517fd9bd2c407e9f1d	[~ 295]
+msg_f63a4885cd7819517fd9bd2c407e9f1d	[~ 300]
 msg_A05_z03_01_speech_01	I wish my Pokémon could\nshare some vitality with me!
 msg_A05_z03_01_speech_02	I’m gonna play with the Pokémon\nI’d been keeping in my Boxes! [VAR BD0A(000A)]Text_icon1
 msg_A05_z03_01_speech_03	I still have my roller skates\ntucked away somewhere... [VAR BD0A(000A)]Text_icon1
@@ -16531,7 +16696,7 @@ msg_A05_z03_01_talk_0052	I trained for a while with the Fist of Justice, but I\n
 msg_A05_z03_01_talk_0053	When Pokémon unleash their\nmoves—now THAT is art!
 msg_A05_z03_01_talk_0054	I often pass by other couriers when I’m out\nworking. How many of us are there in this city?
 msg_A05_z03_01_speech_55	Getting lost in this city is nothing!\nI’m thoroughly lost in my life! [VAR BD0A(000A)]Text_icon1
-msg_9d7f94c8cf57086355e58dc25ba6ad9a	[~ 351]
+msg_9d7f94c8cf57086355e58dc25ba6ad9a	[~ 356]
 msg_A05_r01_talk_0001	Do you rush your opponent with moves you can\nreuse rapidly again and again?\c\nOr do you bet it all on one big move, even if it\ntakes a long time to fire off?
 msg_A05_r01_talk_0002	I’m gonna become a strong Trainer and help\neveryone in Lumiose get along with Pokémon.
 msg_A05_r01_speech_03	Did she know any good cafés?\nI’ve been looking for a new spot.
@@ -16541,7 +16706,7 @@ msg_A05_r01_talk_0006	I tried to deliver the package, but there was this\nscary 
 msg_A05_r01_talk_0007	Well, you can’t go battling Pokémon you find in\nother people’s homes...\c\nMaybe have your partner Pokémon draw it away,\nthen yeet the package inside while it’s distracted?
 msg_A05_r01_speech_08	A Shiny alpha...\nI’ve gotta get one...
 msg_A05_r01_speech_09	I really can’t handle being around\nPokémon... I might have to move.
-msg_4651273ae96b2c07140267310653e75e	[~ 361]
+msg_4651273ae96b2c07140267310653e75e	[~ 366]
 msg_A05_r02_speech_01	My Inkay is...\nwell, it’s mm-kay.
 msg_A05_r02_speech_02	A plaza for us and a\nplaza for Pokémon. [VAR BD0A(000A)]Text_icon1
 msg_A05_r02_speech_03	Matching outfits\nare the greatest!
@@ -16561,7 +16726,7 @@ msg_A05_r02_speech_16	Gahhh, I don’t wanna work!\nThere’re Pokémon out ther
 msg_A05_r02_speech_17	What about when I’m lost\nabout which move to use?
 msg_A05_r02_speech_18	When you’re lost, find a travel spot\nnear your destination on your map!
 msg_A05_r02_speech_19	Should I go left or right?\nOr maybe even straight?
-msg_136952047b0d9fef5c53e4474820320d	[~ 381]
+msg_136952047b0d9fef5c53e4474820320d	[~ 386]
 msg_A05_r03_talk_0001	You’ve got to be on point if you’re gonna avoid\ntaking any hits!\c\nTrainers still have a part to play in battles here in\nLumiose!
 msg_A05_r03_talk_0002	You know how you start collecting something and\nthen you can’t get enough of it?\c\nI can’t get enough of that feeling.
 msg_A05_r03_speech_03	Everyone has their own thoughts\nabout how best to raise Pokémon.
@@ -16583,7 +16748,7 @@ msg_A05_r03_speech_18	Obsessing over beauty in art or\nvictory in battle will dr
 msg_A05_r03_talk_0019	I suppose every region’s got its good points and\nits bad points.
 msg_A05_r03_talk_0020	Hippopotas have different coloring depending on\ntheir gender.\c\nCan you tell if this one here is male or female?
 msg_A05_r03_speech_21	Huh, so wild Pokémon\nsometimes drop things?
-msg_945154f0a0a2287d2c35a182e9195c32	[~ 403]
+msg_945154f0a0a2287d2c35a182e9195c32	[~ 408]
 msg_A05_r04_speech_01	It’s a good idea to keep up a brisk\npace when attacking in battles.
 msg_A05_r04_speech_02	Exp. Points from battles\nmake Pokémon stronger!
 msg_A05_r04_speech_03	You’ll always want a good stock of\nPoké Balls for when it matters.
@@ -16915,8 +17080,8 @@ t1_i001_talk_50_f	[VAR BD06(0000)]My favorite part of the Infinite Z-A Royale is
 t1_i001_talk_50_m	When we’re battling in the Infinite Z-A Royale, I’m\njust your rival—forget everything else![VAR 0114(0005)]
 t1_i001_talk_51_f	I know I’m off playing the big, capable CEO a lot\nof the time now, instead of being around...\c\nBut I wouldn’t be able to focus on that stuff if I\ndidn’t have you all here to count on. So thanks.[VAR 0114(0006)]
 t1_i001_talk_52_m	I know I’m off playing the big, capable CEO a lot\nof the time now, instead of being around...\c\nBut I wouldn’t be able to focus on that stuff if I\ndidn’t have you all here to count on. So thanks.[VAR 0114(0005)]
-msg_212629b4fc83a08216d7f1440696d5ce	
-msg_3dba11f5f7b0b75d0c8280e03a9c0bb6	
+t1_i001_bg_02	It’s a sign for Ansha’s donut shop. Naveen made\nit for her.
+t1_i001_bg_03	Some of AZ’s old books are still placed here.\nAnsha seems to read them sometimes, too.
 t1_i001_2.txt
 t1_i001_2_bg_01	This travel bag sure seems to have set you off on a\npath toward adventure here in Lumiose!
 t1_i001_2_bg_02	Someone’s left you water and other amenities\natop the chest of drawers!
@@ -17050,7 +17215,7 @@ t1_i005_talk_06	Are you using Mega Evolution? It’s useful when\ndealing with R
 t1_i005_talk_07	I’ve chased down endless leads, but I still can’t\nfigure out what exactly L is trying to achieve.\r\nHonestly, it’s making me doubt myself.[VAR 0114(0008)]
 t1_i005_talk_08	Whatever is going on with Prism Tower, I’ll\nprotect the peace of Lumiose. That’s the promise\r\nI made to Mr. Looker.[VAR 0114(0008)]
 t1_i005_talk_09	There are plenty of people and Pokémon who\nneed help here in Lumiose![VAR 0114(0008)]
-msg_397fa36b23fd21cc7a4d9d9f0a5d01fd	
+t1_i005_bg_10	All kinds of information about Emma’s various\ncases has been collected here on the whiteboard.
 t1_i006_1.txt
 t1_i006_1_talk_01	You can find our acting director on the third floor.
 t1_i006_1_talk_02	Our acting director is currently seeking research\nassistants, you know.
@@ -17238,6 +17403,7 @@ msg_t1_i012_2_talk_09	If our guests don’t like what we serve, the hotel’s\nr
 msg_t1_i012_2_speech_10	It’s easy dealing with\npeople who are well-off.
 t1_i014_1.txt
 t1_i014_1_bg_01	It’s a “lucky Sneasel” statue.\c\nSupposedly, its raised right paw beckons good\nluck with money—as does its gold color.
+t1_i014_1_stop_01	The boss ain’t here. Please come back again later.
 t1_i014_2.txt
 t1_i014_2_bg_01	It’s a statue of a Pokémon that bows to put foes\nat ease before striking with the blade on its head.\c\nIs this solid gold? It sure looks expensive...\nProbably better not to touch it.
 t1_i014_2_bg_02	There’s a big folding fan and some other items,\nall pretty impressive looking.\c\nThey all scream “pricey.” Probably better not to\ntouch anything.
@@ -17251,11 +17417,13 @@ t1_i014_2_talk_03	There’s no way I’ll lose! There’s still so much I\nneed 
 t1_i014_2_talk_01	Do me a favor and don’t wander around too much.\nI always got work for you if you’re bored.[VAR 0114(0013)]
 t1_i014_2_talk_04	We need to do something about that tower.\nOtherwise, honest folk won’t get any peace![VAR 0114(0013)]
 t1_i014_2_talk_05	What do you say to a team competition, like\nTeam MZ versus the Rust Syndicate?\c\nI bet it would be more interesting than anything\nJacinthe could come up with, anyway.[VAR 0114(0013)]
+t1_i014_2_talk_09	I’m going to have to ask you to keep up with that\nhyperspace survey work. No slacking.\c\nIf you think you’ve accumulated enough points,\nthough, do go report to Philippe there.[VAR 0114(0013)]
 t1_i014_2_talk_02	Odd rules and practices in organizations exist\nbecause someone benefits from them.\c\nTake our interest rates, for example.[VAR 0114(0014)]
 t1_i014_2_talk_06	[VAR BD06(0000)]Please let [VAR 018B(0001)] know that we look\nforward\r\nto\r\nseeing\r\nh[VAR 1100(00FF,0202)]eris\r\nlatest\r\nvideo.[VAR 0114(0014)]
 t1_i014_2_talk_07	Something’s wrong with the very symbol of\nLumiose? That’s a bad omen if I’ve ever seen one.[VAR 0114(0014)]
 t1_i014_2_talk_08	The boss’s mood seems to improve whenever you\npay us a visit.[VAR 0114(0014)]
-msg_955ea3bbc94c6ecf93e0e0c31b02ef34	
+t1_i014_2_bg_10	This holo-tech map shows the location of each\nhyperspace distortion in Lumiose City.\c\nVarious data reports about the distortions are on\ndisplay as well.
+t1_i014_2_talk_10	We look forward to further mutual cooperation.\nBut at arm’s length, of course.[VAR 0114(0014)]
 t1_i015.txt
 t1_i015_bg_01	The cups on the counter look as if they were\nbeing used recently.
 t1_i015_bg_02	Boxes are just lying around... Was someone in the\nmiddle of cleaning up?

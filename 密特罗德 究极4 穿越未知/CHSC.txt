@@ -271,7 +271,7 @@ RobotScanner_Title	扫描器无人机
 RobotScanner_Description	扫描器无人机是开发用于锻雷之\n地的工厂维护的自律型无人机。\n搭载小型反重力引擎，可在空中\n自由移动。\n无人机使用X射线摄像头对工厂\n装置进行扫描，检测到故障后会\n向连动的维修坦克发送指令，督\n促其进行维修。一般来说，维修\n作业是最高优先级程序，但若受\n到直接攻击，或其他无人机处于\n战斗状态时，会暂时切换模式，\n使用激光光束消灭外敌。
 RobotScanner_Preview	{color[00ff9dff]}机械生命体：扫描器无人机{color[000000ff]}\n负责设施维护的自律型AI无人机。\n装备了X射线扫描器，和维修坦克配合使用。
 ScoutBot_Title	侦察机器人
-ScoutBot_Description	侦察机器人是机械文明时代为探索\n珍稀资源而开发的一种机器人。它\n会从上空发射超声波进行反射，以\n设定位置为中心，在半径500Lam\n范围内展开调查。\n若探测到稀有矿石等埋藏物，其坐\n标会显示在连动的地图上。现存的\n侦察机器人大多被遗弃在自然环境\n中，由于年久失修，无法保证能正\n常运行。
+ScoutBot_Description	侦察机器人是机械文明时代为探索\n珍稀资源而开发的一种机器人。通\n过从上空发射的超声波反射，调查\n设置区域内有无资源。\n若探测到稀有矿石等埋藏物，其坐\n标会显示在连动的地图上。现存的\n侦察机器人大多被遗弃在自然环境\n中，由于年久失修，无法保证能正\n常运行。
 ScoutBot_NoPower_Preview	{color[00ff9dff]}机械生命体：侦察机器人{color[000000ff]}\n从上空发射超音波，将区域内的道具位置\n反映在地图上。可通过电磁脉冲的冲击启动。
 ScoutBot_Powered_Preview	{color[00ff9dff]}机械生命体：侦察机器人{color[000000ff]}\n从上空发射超音波，将区域内的道具位置\n反映在地图上。已认证访问代码。
 ScoutBot_Dead_Preview	侦察机器人的内部电路短路，功能已停止。\n重启需要修理或更换电路。
@@ -428,7 +428,7 @@ CreditsEntry_32	Gray Ginther  •  David Salaiz  •  Joe Lee
 CreditsEntry_33	{size[7d00]}{color[654ee1ff]}Environment Art{color[000000ff]}{size[6400]}
 CreditsEntry_34	{color[654ee1ff]}Environment Art Manager{color[000000ff]}  {[0105]}  Greg Frizzell
 CreditsEntry_35	{color[654ee1ff]}Environment Artists{color[000000ff]}
-CreditsEntry_36	Ryan Powell  •  Teague Schultz  •  Sean Horton  •  Matt Manchester  •  David DeCoster\nRussell Lingo  •  Jennica Derksen  •  Tony Clark  •  James Reed Ketcham\nKenneth Kozan  •  Rodrigo Brea  •  Tiffany Griffith   •  Chris J Medina
+CreditsEntry_36	Ryan Powell  •  Teague Schultz  •  Sean Horton  •  Matt Manchester  •  David DeCoster\nRussell Lingo  •  Jennica Derksen  •  Tony Clark  •  James Reed Ketcham\nKenneth Kozan  •  Rodrigo Brea  •  Tiffany Griffith   •  Chris J. Medina
 CreditsEntry_37	{color[654ee1ff]}Materials Artist{color[000000ff]}  {[0105]}  Chris Lewis
 CreditsEntry_38	{color[654ee1ff]}Contract Environment Artists{color[000000ff]}
 CreditsEntry_39	Jonathon Banks  •  Jonathan Garcia  •  Derek Goeckeritz  •  Kat Gray  •  Chris Mott\nWilliam Petrosky  •  Alex Petrulis  •  Tyler Siemers  •  Edward Tejeiro
@@ -442,7 +442,7 @@ CreditsEntry_46	{color[654ee1ff]}Lead Lighting Artist{color[000000ff]}  {[0105]}
 CreditsEntry_47	{color[654ee1ff]}Lighting Artists{color[000000ff]}
 CreditsEntry_48	Chadwick Orr  •  Josh Slezak
 CreditsEntry_49	{color[654ee1ff]}Contract Lighting Artists{color[000000ff]}
-CreditsEntry_50	Ayesha Baugh  •  Marina Czarnecki  •  Brian Ellebracht  •  Thomas Haase  •  Brandon Habib\nSteven Hensley  •  Farhez Rayani  •  Dan Wallace  •  Thomas Marion Wright  •  Kelly Koay\nFelix J Mendoza  •  Will Podpechan  •  Keaton Jazz Kramer
+CreditsEntry_50	Ayesha Baugh  •  Marina Czarnecki  •  Brian Ellebracht  •  Thomas Haase  •  Brandon Habib\nSteven Hensley  •  Farhez Rayani  •  Dan Wallace  •  Thomas Marion Wright  •  Kelly Koay\nFelix J. Mendoza  •  Will Podpechan  •  Keaton Jazz Kramer
 CreditsEntry_51	{size[7d00]}{color[654ee1ff]}Cinematics{color[000000ff]}{size[6400]}
 CreditsEntry_52	{color[654ee1ff]}Lead Cinematics{color[000000ff]}  {[0105]}  Koen Wooten
 CreditsEntry_53	{color[654ee1ff]}Contract Senior Writer{color[000000ff]}  {[0105]}  Jesse Lee Keeter
@@ -543,7 +543,7 @@ CreditsEntry_147	{color[654ee1ff]}Soprano Soloists{color[000000ff]}
 CreditsEntry_148	Elora Maren  •  Katshu
 CreditsEntry_149	{size[9600]}{color[654ee1ff]}Next Level Games{color[000000ff]}{size[6400]}
 CreditsEntry_150	{color[654ee1ff]}Game Designers{color[000000ff]}
-CreditsEntry_151	Matt McTavish  •  Cavin Yen •  Mark Bianchin
+CreditsEntry_151	Matt McTavish  •  Cavin Yen  •  Mark Bianchin  •  Christopher Rice
 CreditsEntry_152	{color[654ee1ff]}Special Thanks{color[000000ff]}  {[0105]}  Alex MacFarlane
 CreditsEntry_153	{size[9600]}{color[654ee1ff]}FXVille{color[000000ff]}{size[6400]}
 CreditsEntry_154	{color[654ee1ff]}CEO{color[000000ff]}  {[0105]}  Joe Olson
@@ -574,7 +574,7 @@ CreditsEntry_178	Bennett Ewanchyna  •  Daniel Davie
 CreditsEntry_179	{color[654ee1ff]}Jr. Modeler{color[000000ff]}  {[0105]}  Zi Xin (Lucy) Zhu
 CreditsEntry_180	{color[654ee1ff]}Unreal Generalist{color[000000ff]}  {[0105]}  David Chiang
 CreditsEntry_181	{color[654ee1ff]}Matte Painter{color[000000ff]}  {[0105]}  Ryan Ingram
-CreditsEntry_182	{color[654ee1ff]}Sr FX Artists{color[000000ff]}
+CreditsEntry_182	{color[654ee1ff]}Sr. FX Artists{color[000000ff]}
 CreditsEntry_183	J.M. Santiago  •  Nikhil Chandra Soma
 CreditsEntry_184	{color[654ee1ff]}FX Artist{color[000000ff]}  {[0105]}  Jay Lee
 CreditsEntry_185	{color[654ee1ff]}COO{color[000000ff]}  {[0105]}  Jo'Sun Fu
@@ -698,7 +698,7 @@ CreditsEntry_302	{color[654ee1ff]}Software Engineers{color[000000ff]}
 CreditsEntry_303	Yanis Abidet  •  Luc Arnould  •  Félix Béasse  •  Joseph Cabanis  •  Arthur Carré\nSamuel Chaput  •  Clément Ciranna  •  Benjamin Couratin  •  Rémi Dayon\nLogan Devillard  •  Jame Floc’h Le Carour  •  Sonia Hammami  •  Marius Jenin\nOskar Markowski  •  Clément Potin  •  Jean Ruiz Fabre  •  Alan Sanz\nAlexandre Spatola  •  Aloys Tetenoire  •  Victorien Vaisse  •  Benjamin Villa
 CreditsEntry_304	{color[654ee1ff]}Special Thanks{color[000000ff]}
 CreditsEntry_305	Justin Surber  •  Chen Wenjin
-CreditsEntry_306	{size[9600]}{color[654ee1ff]}Original Force Ltd.{color[000000ff]}{size[6400]}
+CreditsEntry_306	{size[9600]}{color[654ee1ff]}Original Force{color[000000ff]}{size[6400]}
 CreditsEntry_307	{color[654ee1ff]}CEO{color[000000ff]}  {[0105]}  Harley Zhao
 CreditsEntry_308	{color[654ee1ff]}COO{color[000000ff]}  {[0105]}  Jie Zhou
 CreditsEntry_309	{color[654ee1ff]}Production Director{color[000000ff]}  {[0105]}  Cathy Song
@@ -878,7 +878,7 @@ CreditsEntry_482	{color[654ee1ff]}Translation{color[000000ff]}
 CreditsEntry_483	Roby Liebetruth  •  Michael Frisch  •  Jo Legge  •  Jean-Paul Hausmann  •  Laurent Godinot  •  Loïc Vermeire\nBarbara Pisani  •  Laura Barberis  •  Gunnar Friedrich  •  Hannah Siebert\nKatharina Glowotz  •  Blanca Hueso Taulés  •  Cristina Solà Picas  •  Eduardo Ruiz Ferrero\nJónatan Marcos Millán  •  Carsten Harmans  •  Coen van Rossum  •  Localsoft, S.L.
 CreditsEntry_484	{color[654ee1ff]}Quality Assurance{color[000000ff]}
 CreditsEntry_485	Ángel Moreno Colmena  •  Damien Brichard  •  Laura Villers  •  Mathieu Springinsfeld\nAndrea Marino  •  Matteo Marras  •  Niccolò Pellegrini  •  Christina Stoffel\nPeter Eiselt  •  Sarah Nist  •  Swen Harder  •  Eduardo Fernández Muñoz\nIbon Díez Maeztu  •  Julio Manzaneda Medina  •  Nils Dudal  •  Testronic
-CreditsEntry_486	{size[3200]}iQue (China)/Nintendo of Korea/Nintendo of Taiwan{size[6400]}
+CreditsEntry_486	iQue (China)/Nintendo of Korea/\nNintendo of Taiwan
 CreditsEntry_487	{color[654ee1ff]}Asian Localization Management{color[000000ff]}
 CreditsEntry_488	Dongyeon Kim  •  Kyoungim Na  •  Misa Matsumoto  •  Takaaki Ueno\nWang Zhonglong  •  Xu Ming
 CreditsEntry_489	{color[654ee1ff]}Asian Localization Translation{color[000000ff]}
@@ -939,7 +939,7 @@ AUTO_DIALOGUE_7cdce7ee-7b82-491f-8e82-88017e4ac1bd	我还担心你会丢下我�
 AUTO_DIALOGUE_21db1eb2-6c0b-4e93-8653-14ed687c2b2b	我闻到股奇怪的气味。\n有点甜又好像有点臭……
 AUTO_DIALOGUE_931d32b3-6db1-455b-a5b2-dbf619c54d93	我在这里等你。
 AUTO_DIALOGUE_ee924057-0788-4c81-8cac-8aab93c82b35	嘿，你回来啦。
-AUTO_DIALOGUE_4f43c377-2d33-4b5d-9142-2c92ae12d1ef	不用担心我，没问题的。
+AUTO_DIALOGUE_4f43c377-2d33-4b5d-9142-2c92ae12d1ef	我没问题的，去吧。
 AUTO_DIALOGUE_759ff0d4-0ed1-4d26-9588-796e63dd2f64	我在这里等你。
 AUTO_DIALOGUE_efedb222-54f4-4ef5-b51f-e5aed37e107c	你扫描我了？\n扫描结果说什么了？
 AUTO_DIALOGUE_19d484d5-9da4-4b89-8ef0-2d05889771be	刚才那是怎么做到的？
@@ -1439,6 +1439,10 @@ FE_Slots	开始游戏
 FE_Options	选项
 FE_Options_Subtitle	在游戏暂停菜单的“选项”中，还可以设置其他项目。
 FE_Extras	展示厅
+FE_Upgrade	Nintendo Switch 2 Edition
+FE_Upgrade_Description	Nintendo Switch 2 Edition的升级通行证\n可以在Nintendo eShop购买。\n要移动至Nintendo eShop吗？
+FE_Upgrade_Cancel	取消
+FE_Upgrade_Open	移动
 FE_CompletedGame	Mission Complete
 FE_DifficultyTitle	选择难度
 FE_DifficultySubtitle	要以哪种难度游玩？
@@ -1456,6 +1460,7 @@ FE_Slot_PlayTime	游玩时间：\{0}h \{1}m
 FE_Slot_Scans	扫描率：\{0}％
 FE_Slot_Items	道具回收率：\{0}％
 FE_HardModeUnlocked1	已解锁{color[00ff9dff]}困难模式{color[000000ff]}！
+FE_RadioTracksUnlocked	已解锁{color[00ff9dff]}薇奥拉广播{color[000000ff]}的{color[00ff9dff]}新增乐曲{color[000000ff]}！
 FE_DialogCopy_Title	复制存档
 FE_DialogCopy	要将存档\{0}复制到存档\{1}吗？
 FE_DialogErase_Title	删除存档
@@ -1489,8 +1494,7 @@ FE_ControlPreset2_DescriptionOU	用移动，用陀螺仪感应器\n移动准�
 FE_Extras_Title	展示厅
 FE_Extras_Subtitle	可以观看概念图和动画。
 FE_Extras_ShowFullscreen	{[0100|7bcd]} 全屏显示
-FE_Extras_Pan	{[0100|80cd]} 滚动
-FE_Extras_Zoom	{[0100|82cd]}{[0100|83cd]} 缩放
+FE_Extras_LegendImageViewer	{[0100|7ccd]} 返回  {[0100|80cd]} 滚动  {[0100|82cd]}{[0100|83cd]} 缩放
 FE_Extras_Condition_Pack0	{color[00ff9dff]}日志扫描率达到25%{color[000000ff]}\n即可解锁
 FE_Extras_Condition_Pack1	{color[00ff9dff]}日志扫描率达到50%{color[000000ff]}\n即可解锁
 FE_Extras_Condition_Pack2	{color[00ff9dff]}日志扫描率达到75%{color[000000ff]}\n即可解锁
@@ -1504,7 +1508,8 @@ FE_Extras_Condition_Pack9	{color[00ff9dff]}通关游戏{color[000000ff]}\n即可
 FE_Extras_Condition_Pack10	{color[00ff9dff]}在困难模式下通关游戏{color[000000ff]}\n即可解锁
 FE_Extras_Condition_Pack11	{color[00ff9dff]}扫描率、道具回收率均达到100%\n{color[000000ff]}即可解锁
 FE_Extras_Condition_Pack12	{color[00ff9dff]}在游戏内观看此影片{color[000000ff]}\n即可解锁
-Menu_SaveEndGame_Warning	确定要保存吗？\n若选择保存，该存档将变为通关存档。
+FE_Extras_Condition_Pack13	{color[00ff9dff]}扫描率和道具回收率\n达到100%{color[000000ff]}或者{color[00ff9dff]}读取\n赛拉克斯的amiibo后\n通关游戏{color[000000ff]}即可解锁。
+Menu_SaveEndGame_Warning	确定要保存吗？若现在保存，\n道具回收率和扫描率的百分比\n将被清除，游戏将从头开始。
 Menu_SaveEndGame_Failed	{color[e3251bff]}保存失败。{color[000000ff]}存档已损坏。\n需删除存档。
 Menu_SaveEndGame_ContinueTooltip	将不保存并返回标题画面。
 Menu_SaveEndGame_DeleteTooltip	删除损坏存档。
@@ -1637,7 +1642,6 @@ HUD_TwoParam	\{0}/\{1}
 HUD_Countdown	\{0}:\{1}:\{2}
 HUD_ScrambleSource	~!@#$%^&*()-_=+;:'"/?.>,<
 HUD_ScanScrambleSource	1234567890.∙/\->>>>>|
-HUD_PsychicScrambleSource	
 HUD_CursorScrambleSource	_
 HUD_WeaponLabel_Missile	导弹
 HUD_WeaponLabel_Fire	火焰\n射击
@@ -1649,13 +1653,13 @@ HUD_Viola_CannotSummon	{color[e3251bff]}呼叫薇奥拉时发生错误{color[000
 HUD_Viola_CannotDismount	现在无法下车
 HUD_Viola_CannotDisengageSocket	薇奥拉已固定于旋转器
 HUD_Viola_Controls	{[0100|4dcd]} 播放 / 停止\n{[0100|4ecd]}{[0100|4fcd]} 切换乐曲
-HUD_ViolaTrack00	曲目1
-HUD_ViolaTrack01	曲目2
-HUD_ViolaTrack02	曲目3
-HUD_ViolaTrack03	曲目4
-HUD_ViolaTrack04	曲目5
+HUD_ViolaTrack00	Vi-O-La
+HUD_ViolaTrack01	Volt Forge
+HUD_ViolaTrack02	Xelios
+HUD_ViolaTrack03	Metroid Prime
+HUD_ViolaTrack04	Metroid Prime 4
 HUD_ViolaSpeedLimitedArea	限速区域
-HUD_fp_1010_ViolaIC_Hint	{color[e3251bff]}＜警告＞{color[000000ff]}无法越过熔岩！\n请解锁薇奥拉的新增功能。
+HUD_fp_1010_ViolaIC_Hint	{color[e3251bff]}＜警告＞{color[000000ff]}无法越过岩浆！\n请解锁薇奥拉的新增功能。
 HUD_PowerBombPickupAcquired	已回复1发{color[ffc529ff]}重磅炸弹{color[000000ff]}
 Compass_N	N
 Compass_E	E
@@ -1726,8 +1730,7 @@ ETank_Recovered_Alert	能量包回复
 HUD_ActivateTeleporterReminder	{color[e3251bff]}＜警告＞\n主传送站\n已达最大负荷！{color[000000ff]}
 HUD_SyluxSubspace_FreeAimEngaged_Regular	自由准星模式解锁\n按{[0100|0fcd]}重置准星位置
 HUD_LegacySuitPower_Completed	传承防护罩消失
-HUD_Ability_Message	登录获得能力的情报
-HUD_Ability_Message_Inventory	{[0100|71cd]}开启状态
+Amiibo_Unlocks	amiibo的新增功能解锁条件已达成！\n{size[5500]}可在暂停菜单{[0100|71cd]}的“amiibo”中解锁{size[6400]}
 Preload\MPR4\PreloadMP4.pak\GenericNPC_Dialogue.MSBT
 Preload\MPR4\PreloadMP4.pak\GlobalUI.MSBT
 NameUnknown	？？？
@@ -2082,7 +2085,7 @@ glossary296	冰冻大厅
 glossary297	低温保存容器输送带
 glossary298	生化实验室
 glossary299	DNA分析室
-glossary300	数据监控室
+glossary300	G轨道数据监控室
 glossary301	容器维修系统
 glossary302	样本保管室
 glossary303	安全系统管理室
@@ -2431,6 +2434,28 @@ glossary1051	德索兰星系
 glossary1060	沙托亚恩托·弗伦
 glossary1058	涅达凡·康夫拉克斯
 glossary1059	内心深处
+glossary1072	薇奥拉变更配色
+glossary1073	萨姆斯（密特罗德 究极4）
+glossary1074	萨姆斯&薇奥拉（密特罗德 究极4）
+glossary1075	赛拉克斯（密特罗德 究极4）
+glossary1076	能量护盾
+glossary1077	薇奥拉广播
+glossary1078	加速回复器
+glossary1079	总行驶距离
+glossary1080	赛拉克斯的语音
+glossary1081	密特罗德声音
+glossary1082	防护服配色
+glossary1083	赛拉克斯配色
+glossary1084	密特罗德究极配色
+glossary1085	宇宙海盗配色
+glossary1086	拉蒙配色
+glossary1087	念动配色
+glossary1088	薇奥拉套装配色
+glossary1089	Vi-O-La
+glossary1090	Volt Forge
+glossary1091	Xelios
+glossary1092	Metroid Prime
+glossary1093	Metroid Prime 4
 glossary1068	大容量射击包
 glossary1069	薇奥拉加速槽（补充专用）
 Preload\MPR4\PreloadMP4.pak\Heavy_Ambient.MSBT
@@ -2724,6 +2749,7 @@ Item_BoostBall_Description	在变形球状态下新增了一定时间内高速�
 Item_ChargeBeam_Description	在手臂加农炮内部凝聚光束能量以提高威力，\n并一口气释放的攻击。\n完全蓄力时的攻击力高达加强光束的5倍。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n长按{[0100|04cd]}为光束蓄力，\n松开后发射。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n蓄力时可以吸引{color[ffc529ff]}回复道具{color[000000ff]}。\n此外，根据蓄力时间长短，可分为半蓄力\n和完全蓄力。半蓄力可迅速积蓄能量，但\n威力较低。完全蓄力的蓄力时间长，但能\n将攻击力提升至最大。
 Item_CombatVisor_Description	作为标准装备的正常视野面罩。会显示剩余能量、\n剩余导弹数、雷达和迷你地图等在战斗和探索中\n不可或缺的基础信息。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n视野内存在有效目标时，\n按{[0100|09cd]}{color[ffc529ff]}锁定{color[000000ff]}准星附近的目标。\n若要从其他面罩切换至战斗面罩，\n按{[0100|0dcd]}或{[0100|04cd]}即可。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n左上角的{color[ffc529ff]}雷达{color[000000ff]}会显示附近敌人与我方的位置。\n右上角的{color[ffc529ff]}迷你地图{color[000000ff]}会立体显示周围的地形。\n当前位置、门、自定义标记等重要信息均可\n在迷你地图上查看。
 Item_ControlBeam_Description	可通过精神感应波控制的念动蓄光束，\n被称为{color[ffc529ff]}“控制光束”{color[000000ff]}。\n可利用念动面罩改变发射后的轨道。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n切换至念动面罩，长按{[0100|1ccd]}蓄力后松开，\n就能发射控制光束。\n使用{[0100|21cd]}{[0100|22cd]}更改控制光束的轨迹。\n若有{color[ffc529ff]}可锁定{color[000000ff]}的目标，\n长按{[0100|09cd]}时，控制光束会朝向该目标。\n按{[0100|1ccd]}后会立刻消失。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n发射控制光束后，时间流逝速度将{color[ffc529ff]}变慢{color[000000ff]}，\n因此也适合用于攻击动作敏捷的目标。\n由3个能量球体组成，若没有障碍物阻挡，\n则可以攻击3个目标。\n由于发动精神感应波需要集中精神，\n因此无法连发，飞行距离也有限制。\n在万全状态下最多可蓄力{color[ffc529ff]}3发{color[000000ff]}，\n但回复消耗的能量需花费一段时间。
+Item_ControlBeam_WithBoost_Description	可通过精神感应波控制的念动蓄光束，\n被称为{color[ffc529ff]}“控制光束”{color[000000ff]}。\n可利用念动面罩改变发射后的轨道。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n切换至念动面罩，长按{[0100|1ccd]}蓄力后松开，\n就能发射控制光束。\n使用{[0100|21cd]}{[0100|22cd]}更改控制光束的轨迹。\n若有{color[ffc529ff]}可锁定{color[000000ff]}的目标，长按{[0100|09cd]}时，\n控制光束会朝向该目标。\n按{[0100|1ccd]}后会立刻消失。\n发射后长按{[0100|1fcd]}即可发动\n{color[ffc529ff]}控制光束加速{color[000000ff]}，提升移动速度。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n发射控制光束后，时间流逝速度将{color[ffc529ff]}变慢{color[000000ff]}，\n因此也适合用于攻击动作敏捷的目标。\n由3个能量球体组成，若没有障碍物阻挡，\n则可以攻击3个目标。\n由于发动精神感应波需要集中精神，\n因此无法连发，飞行距离也有限制。\n在万全状态下最多可蓄力{color[ffc529ff]}3发{color[000000ff]}，\n但回复消耗的能量需花费一段时间。
 Item_EnergyTank_Description	可对防御系统发挥作用，\n使能量容量增加{color[ffc529ff]}100点{color[000000ff]}。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n获得能量包后，不仅能增加能量的最大容量，\n还会将能量回复到最大值。
 Item_FireChip_Description	炽炎熔池等离子火炬的内置晶片。\n利用电弧放电增强电子动能，实现\n电弧等离子加热。\n通称“火焰晶片”。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n若要改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。
 Item_FireShot_Description	手臂加农炮的副武器之一，能赋予目标高温的燃烧弹。\n可使中弹对象燃烧，或使冰融化。\n发射需要消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n按{[0100|14cd]}切换至火焰射击，按{[0100|05cd]}发射。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n被击中的对象在燃烧期间会受到持续伤害。\n火焰射击对栖息于寒冷地带的生物尤其有效。\n此外，也可解锁{color[ffc529ff]}热能式锁元件{color[000000ff]}。
@@ -2768,45 +2794,45 @@ Item_ViolaIC_Description	具备{color[ffc529ff]}耐热功能{color[000000ff]}的
 Item_ViolaSuit_Description	拉蒙自动驾驶摩托车·MarkⅦ、通称{color[ffc529ff]}“薇奥拉”{color[000000ff]}的\n驾驶专用套装。身穿薇奥拉套装驾驶薇奥拉，就会\n被登记为操纵者。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n按{[0100|3ecd]}可呼叫并驾驶已登记的薇奥拉。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n操纵者登记后，会向薇奥拉发送特定频率\n的呼叫，即使身处远方也能将其呼叫出来。\n但仅限于薇奥拉的可行驶路线。
 Item_ViolaSuitIC_Description	提升了耐热性能的薇奥拉套装。\n可减轻因岩浆受到的伤害。\n也可以让薇奥拉变形成能在\n岩浆上行驶的{color[ffc529ff]}IC模式{color[000000ff]}。\n\n{color[c2c2c2ff]}使用方法：{color[000000ff]}\n身穿薇奥拉IC套装骑乘，\n即可为薇奥拉增加IC模式。\n\n{color[c2c2c2ff]}探索指引：{color[000000ff]}\n由于耐热性的提升有限，并不能\n完全阻隔来自岩浆的高温。因此\n要注意避免接触超高温。
 Acquire_BoostPip	获得{color[00ff9dff]}薇奥拉加速槽{color[000000ff]}！{[0004]}薇奥拉加速槽的\n最大数量已增加{color[ffc529ff]}1个{color[000000ff]}。
-Acquire_Bomb	获得{color[00ff9dff]}念动炸弹{color[000000ff]}！{[0004]}在变形球状态下按{[0100|57cd]}，\n最多可设置{color[ffc529ff]}3个{color[000000ff]}念动炸弹。{[0004]}不仅能给物体和敌人造成伤害，\n还能发动{color[ffc529ff]}炸弹跳{color[000000ff]}，\n长按{[0100|57cd]}还可为炸弹赋予{color[ffc529ff]}念动微粒{color[000000ff]}的性质。
-Acquire_BoostBall	获得{color[00ff9dff]}念动加速球{color[000000ff]}！{[0004]}在变形球状态下长按{[0100|59cd]}后松开即可加速。\n在{color[ffc529ff]}半管式滑道{color[000000ff]}状的地形加速，\n可借势爬到高处。{[0004]}也可以使用{color[ffc529ff]}旋转器{color[000000ff]}，\n或使用可视化后的\n{color[ffc529ff]}念动加速车轨{color[000000ff]}。\n
-Acquire_ControlBeam	获得{color[00ff9dff]}控制光束{color[000000ff]}！{[0004]}可通过念动面罩\n操作{color[ffc529ff]}念动蓄光束{color[000000ff]}。{[0004]}切换至念动面罩，\n长按{[0100|1ccd]}后松开，\n发射可操作的控制光束。\n推动{[0100|21cd]}{[0100|22cd]}更改光束的轨道。
-Acquire_EnergyTank	获得{color[00ff9dff]}能量包{color[000000ff]}！{[0004]}能量最大值已增加{color[ffc529ff]}100{color[000000ff]}点。
-Acquire_FireChip	获得{color[00ff9dff]}火焰晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。
-Acquire_FireShot	获得{color[00ff9dff]}火焰射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}高热弹{color[000000ff]}火焰射击。{[0004]}按{[0100|14cd]}切换至火焰射击，按{[0100|05cd]}发射。\n能使中弹对象燃烧一段时间，\n也能使冰融化。
-Acquire_FireShotUpgrade	获得{color[00ff9dff]}火焰蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}3发{color[000000ff]}射击弹药，\n发射具有{color[ffc529ff]}贯穿性{color[000000ff]}的高热弹。{[0004]}按{[0100|14cd]}切换至火焰射击，\n长按{[0100|05cd]}后松开，\n发射火焰蓄力射击。
-Acquire_SuperFireShot	获得{color[00ff9dff]}超级火焰射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}15发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}大量{color[000000ff]}具有贯穿性的高热弹。{[0004]}按{[0100|14cd]}切换至火焰射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}发射超级火焰射击。
-Acquire_IceChip	获得{color[00ff9dff]}冰冻晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。
-Acquire_IceShot	获得{color[00ff9dff]}冰冻射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}冷却弹{color[000000ff]}冰冻射击。{[0004]}按{[0100|13cd]}切换至冰冻射击，按{[0100|05cd]}发射。\n能使中弹对象冻结一段时间，\n也能使岩浆暂时凝固。
-Acquire_IceShotUpgrade	获得{color[00ff9dff]}冰冻蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}3发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}可弹跳{color[000000ff]}的冷却弹。{[0004]}按{[0100|13cd]}切换至冰冻射击，\n长按{[0100|05cd]}后松开，\n发射冰冻蓄力射击。
-Acquire_SuperIceShot	获得{color[00ff9dff]}超级冰冻射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}10发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}大量{color[000000ff]}可弹跳的冷却弹。{[0004]}按{[0100|13cd]}切换至冰冻射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}发射超级冰冻射击。
-Acquire_GrappleChain	获得{color[00ff9dff]}念动钩索{color[000000ff]}！{[0004]}对着长按{[0100|09cd]}，\n即可迅速移动至{color[ffc529ff]}抓取节点{color[000000ff]}，\n或者悬吊在{color[ffc529ff]}抓钩点{color[000000ff]}上。{[0004]}也可以使用可视化后的\n{color[ffc529ff]}念动抓钩点{color[000000ff]}。
-Acquire_GrappleLasso	获得{color[00ff9dff]}念动套索{color[000000ff]}！{[0004]}对准后按住{[0100|09cd]}\n并用{[0100|98cd]}固定念动套索。\n固定后向下推动{[0100|2bcd]}即可拉动目标。
-Acquire_LegacySuit	获得{color[00ff9dff]}记忆果实{color[000000ff]}！\n获得{color[00ff9dff]}传承服{color[000000ff]}！{[0004]}记忆果实是拉蒙的遗产。\n是浓缩了拉蒙所有的历史和知识的数据库。{[0004]}传承服是拉蒙制的加强服。\n切换至念动面罩长按{[0100|05cd]}，\n可消耗{color[ffc529ff]}35发{color[000000ff]}导弹\n以展开{color[ffc529ff]}防护罩{color[000000ff]}。{[0004]}防护罩一段时间后就会消失。\n若受到攻击，防护罩持续时间会缩短。\n此外，防护罩能对接触到的敌人造成伤害。
+Acquire_Bomb	获得{color[00ff9dff]}念动炸弹{color[000000ff]}！{[0004]}在变形球状态下按{[0100|57cd]}，\n最多可设置{color[ffc529ff]}3个{color[000000ff]}念动炸弹。{[0004]}不仅能给物体和敌人造成伤害，\n还能发动{color[ffc529ff]}炸弹跳{color[000000ff]}，长按{[0100|57cd]}\n还可为炸弹赋予{color[ffc529ff]}念动微粒{color[000000ff]}的性质。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_BoostBall	获得{color[00ff9dff]}念动加速球{color[000000ff]}！{[0004]}在变形球状态下长按{[0100|59cd]}后松开即可加速。\n在{color[ffc529ff]}半管式滑道{color[000000ff]}状的地形加速，\n可借势爬到高处。{[0004]}也可以使用{color[ffc529ff]}旋转器{color[000000ff]}，\n或使用可视化后的\n{color[ffc529ff]}念动加速车轨{color[000000ff]}。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ControlBeam	获得{color[00ff9dff]}控制光束{color[000000ff]}！{[0004]}可通过念动面罩\n操作{color[ffc529ff]}念动蓄光束{color[000000ff]}。{[0004]}切换至念动面罩，长按{[0100|1ccd]}后松开，\n就能发射可操作的控制光束。\n推动{[0100|21cd]}{[0100|22cd]}更改光束的轨道。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_EnergyTank	获得{color[00ff9dff]}能量包{color[000000ff]}！{[0004]}能量最大值已增加{color[ffc529ff]}100{color[000000ff]}点。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_FireChip	获得{color[00ff9dff]}火焰晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_FireShot	获得{color[00ff9dff]}火焰射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}高热弹{color[000000ff]}火焰射击。{[0004]}按{[0100|14cd]}切换至火焰射击，按{[0100|05cd]}发射。\n能使中弹对象燃烧一段时间，\n也能使冰融化。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_FireShotUpgrade	获得{color[00ff9dff]}火焰蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}3发{color[000000ff]}射击弹药，\n发射具有{color[ffc529ff]}贯穿性{color[000000ff]}的高热弹。{[0004]}按{[0100|14cd]}切换至火焰射击，\n长按{[0100|05cd]}后松开，\n发射火焰蓄力射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_SuperFireShot	获得{color[00ff9dff]}超级火焰射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}15发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}大量{color[000000ff]}具有贯穿性的高热弹。{[0004]}按{[0100|14cd]}切换至火焰射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}发射超级火焰射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_IceChip	获得{color[00ff9dff]}冰冻晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_IceShot	获得{color[00ff9dff]}冰冻射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}冷却弹{color[000000ff]}冰冻射击。{[0004]}按{[0100|13cd]}切换至冰冻射击，按{[0100|05cd]}发射。\n能使中弹对象冻结一段时间，\n也能使岩浆暂时凝固。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_IceShotUpgrade	获得{color[00ff9dff]}冰冻蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}3发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}可弹跳{color[000000ff]}的冷却弹。{[0004]}按{[0100|13cd]}切换至冰冻射击，\n长按{[0100|05cd]}后松开，\n发射冰冻蓄力射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_SuperIceShot	获得{color[00ff9dff]}超级冰冻射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}10发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}大量{color[000000ff]}可弹跳的冷却弹。{[0004]}按{[0100|13cd]}切换至冰冻射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}发射超级冰冻射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_GrappleChain	获得{color[00ff9dff]}念动钩索{color[000000ff]}！{[0004]}对着长按{[0100|09cd]}，\n即可迅速移动至{color[ffc529ff]}抓取节点{color[000000ff]}，\n或者悬吊在{color[ffc529ff]}抓钩点{color[000000ff]}上。{[0004]}也可以使用可视化后的\n{color[ffc529ff]}念动抓钩点{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_GrappleLasso	获得{color[00ff9dff]}念动套索{color[000000ff]}！{[0004]}对准后按住{[0100|09cd]}\n并用{[0100|26cd]}固定念动套索。\n在此状态下按{[0100|2bcd]}即可拉动目标。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_LegacySuit	获得{color[00ff9dff]}记忆果实{color[000000ff]}！\n获得{color[00ff9dff]}传承服{color[000000ff]}！{[0004]}记忆果实是拉蒙的遗产。\n是浓缩了拉蒙所有的历史和知识的数据库。{[0004]}传承服是拉蒙制的加强服。\n切换至念动面罩长按{[0100|05cd]}，\n可消耗{color[ffc529ff]}35发{color[000000ff]}导弹以展开{color[ffc529ff]}防护罩{color[000000ff]}。{[0004]}防护罩一段时间后就会消失。\n若受到攻击，防护罩持续时间会缩短。\n此外，防护罩能对接触到的敌人造成伤害。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
 Acquire_MapData	获得{color[00ff9dff]}区域地图{color[000000ff]}！{[0004]}已获得该区域的地图数据。\n按{[0100|71cd]}可查看地图。
-Acquire_MechPart	{color[00ff9dff]}机甲部件{color[000000ff]}传送完成！{[0004]}已将银河联邦制重量级哥伦MK-99的部件\n传送至据点。\n{color[ffc529ff]}\{1}/6{color[000000ff]}传送完成。
-Acquire_MechPartFinal	{color[00ff9dff]}机甲部件{color[000000ff]}传送完成！{[0004]}已将银河联邦制重量级哥伦MK-99的部件\n传送至据点。\n{color[ffc529ff]}所有部件{color[000000ff]}传送完成。
-Acquire_Missile	获得{color[00ff9dff]}导弹{color[000000ff]}！{[0004]}导弹发射功能已恢复。\n按{[0100|05cd]}发射具备{color[ffc529ff]}追踪功能{color[000000ff]}和{color[ffc529ff]}爆炸力{color[000000ff]}的导弹。
+Acquire_MechPart	{color[00ff9dff]}机甲部件{color[000000ff]}传送完成！{[0004]}已将银河联邦制重量级哥伦MK-99的部件\n传送至据点。{color[ffc529ff]}\{1}/6{color[000000ff]}传送完成。\n详情可以在暂停菜单{[0100|71cd]}的\n“收集情况”中确认。
+Acquire_MechPartFinal	{color[00ff9dff]}机甲部件{color[000000ff]}传送完成！{[0004]}已将{color[ffc529ff]}所有{color[000000ff]}银河联邦制重量级哥伦\nMK-99的部件传送至据点。\n详情可以在暂停菜单{[0100|71cd]}的\n“收集情况”中确认。
+Acquire_Missile	获得{color[00ff9dff]}导弹{color[000000ff]}！{[0004]}导弹发射功能已恢复。\n按{[0100|05cd]}发射具备{color[ffc529ff]}追踪功能{color[000000ff]}和{color[ffc529ff]}爆炸力{color[000000ff]}的导弹。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
 Acquire_MissileExpansion	获得{color[00ff9dff]}导弹包{color[000000ff]}！{[0004]}导弹持有数的最大值\n已增加{color[ffc529ff]}5发{color[000000ff]}。
-Acquire_PowerBomb	获得{color[00ff9dff]}念动重磅炸弹{color[000000ff]}！{[0004]}在变形球状态下按{[0100|58cd]}，\n使{color[ffc529ff]}能量扩散型{color[000000ff]}的强力念动重磅炸弹爆炸。{[0004]}长按{[0100|58cd]}可赋予重磅炸弹\n{color[ffc529ff]}念动微粒{color[000000ff]}的性质。
+Acquire_PowerBomb	获得{color[00ff9dff]}念动重磅炸弹{color[000000ff]}！{[0004]}在变形球状态下按{[0100|58cd]}，\n使{color[ffc529ff]}能量扩散型{color[000000ff]}的强力念动重磅炸弹爆炸。{[0004]}长按{[0100|58cd]}可赋予重磅炸弹\n{color[ffc529ff]}念动微粒{color[000000ff]}的性质。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
 Acquire_PowerBombExpansion	获得{color[00ff9dff]}重磅炸弹包{color[000000ff]}！{[0004]}重磅炸弹弹药持有数的最大值\n已增加{color[ffc529ff]}1发{color[000000ff]}。
-Acquire_PsychicBoots	获得{color[00ff9dff]}念动靴子{color[000000ff]}！{[0004]}跳跃后，在空中再次按{[0100|06cd]}\n会再次跳跃。{[0004]}也可以使用通过念动扫描\n可视化的{color[ffc529ff]}念动平台{color[000000ff]}。
-Acquire_PsychicCrystal	获得{color[00ff9dff]}念动水晶{color[000000ff]}！{[0004]}可以使用念动能力了。\n可释放体内的念动力，\n或通过面罩操控念动力。{[0004]}按{[0100|04cd]}发射{color[ffc529ff]}念动光束{color[000000ff]}。\n按{[0100|0ecd]}切换至{color[ffc529ff]}念动面罩{color[000000ff]}。
-Acquire_PsychicGlove	获得{color[00ff9dff]}念动手套{color[000000ff]}！{[0004]}可以远程操控\n念动能量形成的{color[ffc529ff]}微粒{color[000000ff]}\n和{color[ffc529ff]}念动物件{color[000000ff]}了。{[0004]}使用念动面罩时，长按{[0100|09cd]}抓住微粒。\n可使用{[0100|31cd]}或{[0100|32cd]}移动\n抓住的念动物件。
-Acquire_PsychicKey	获得{color[00ff9dff]}主传送站钥匙{color[000000ff]}！{[0004]}用来启动时光之塔\n主传送站的钥匙。\n总共需要{color[ffc529ff]}5把{color[000000ff]}。
-Acquire_PsychicKeyFinal	获得{color[00ff9dff]}主传送站钥匙{color[000000ff]}！{[0004]}用来启动时光之塔\n主传送站的钥匙。\n已获取{color[ffc529ff]}全5把{color[000000ff]}。
+Acquire_PsychicBoots	获得{color[00ff9dff]}念动靴子{color[000000ff]}！{[0004]}跳跃后，在空中再次按{[0100|06cd]}\n会再次跳跃。{[0004]}也可以使用通过念动扫描\n可视化的{color[ffc529ff]}念动平台{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_PsychicCrystal	获得{color[00ff9dff]}念动水晶{color[000000ff]}！{[0004]}可以使用念动能力了。\n可释放体内的念动力，\n或通过面罩操控念动力。{[0004]}按{[0100|04cd]}发射{color[ffc529ff]}念动光束{color[000000ff]}。\n按{[0100|0ecd]}切换至{color[ffc529ff]}念动面罩{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_PsychicGlove	获得{color[00ff9dff]}念动手套{color[000000ff]}！{[0004]}可以远程操控\n念动能量形成的{color[ffc529ff]}微粒{color[000000ff]}\n和{color[ffc529ff]}念动物件{color[000000ff]}了。{[0004]}使用念动面罩时，长按{[0100|09cd]}抓住微粒。\n可使用{[0100|31cd]}或{[0100|32cd]}移动\n抓住的念动物件。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_PsychicKey	获得{color[00ff9dff]}主传送站钥匙{color[000000ff]}！{[0004]}用来启动时光之塔主传送站的钥匙。\n总共需要{color[ffc529ff]}5把{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“收集情况”中确认。
+Acquire_PsychicKeyFinal	获得{color[00ff9dff]}主传送站钥匙{color[000000ff]}！{[0004]}用来启动时光之塔主传送站的钥匙。\n已获取{color[ffc529ff]}全部5把{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“收集情况”中确认。
 Acquire_ShotExpansion	已获得{color[00ff9dff]}大容量射击包{color[000000ff]}！{[0004]}射击弹药持有数的最大值\n已增加{color[ffc529ff]}20发{color[000000ff]}。
-Acquire_SpiderBall	获得{color[00ff9dff]}念动蜘蛛球{color[000000ff]}！{[0004]}在变形球状态下长按{[0100|97cd]}\n可吸附于具有磁性的{color[ffc529ff]}蜘蛛球轨道{color[000000ff]}，\n或悬吊于{color[ffc529ff]}系绳节点{color[000000ff]}下。{[0004]}也可以使用可视化后的\n{color[ffc529ff]}念动蜘蛛球轨道{color[000000ff]}。
-Acquire_SuperMissile	获得{color[00ff9dff]}超级导弹{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}5发{color[000000ff]}导弹，\n发射能引发{color[ffc529ff]}强烈爆炸{color[000000ff]}的超级导弹。{[0004]}按{[0100|16cd]}切换至导弹，\n长按{[0100|05cd]}后松开发射超级导弹。
-Acquire_TeleporterChip	获得{color[00ff9dff]}传送站晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。
-Acquire_TeleporterPatch	获得{color[00ff9dff]}传送站贴片{color[000000ff]}！{[0004]}可瞬间传送贴片贴附的对象。\n仅用于{color[ffc529ff]}银河联邦制重量级哥伦的部件{color[000000ff]}。\n传送目的地的坐标为据点。\n共有{color[ffc529ff]}6个{color[000000ff]}贴片。
-Acquire_ThunderChip	获得{color[00ff9dff]}雷电晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。
-Acquire_ThunderShot	获得{color[00ff9dff]}雷电射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}带电弹{color[000000ff]}雷电射击。{[0004]}按{[0100|15cd]}切换至雷电射击，按{[0100|05cd]}发射。\n能对中弹目标和附近的物体施加强电流。\n还能向设备供电。
-Acquire_ThunderShotUpgrade	获得{color[00ff9dff]}雷电蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}5发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}传导性高{color[000000ff]}的带电弹。{[0004]}按{[0100|15cd]}切换至雷电射击，\n长按{[0100|05cd]}后松开，\n发射雷电蓄力射击。
-Acquire_SuperThunderShot	获得{color[00ff9dff]}超级雷电射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}20发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}持续型{color[000000ff]}的带电射击。{[0004]}按{[0100|15cd]}切换至雷电射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}后发射超级雷电射击。
-Acquire_ViolaSuit	获得{color[00ff9dff]}薇奥拉套装{color[000000ff]}！{[0004]}可以驾驶薇奥拉。\n若要驾驶，\n需{color[ffc529ff]}登记为{color[000000ff]}对应车辆的{color[ffc529ff]}驾驶员{color[000000ff]}。
-Acquire_ViolaSuitIC	获得{color[00ff9dff]}薇奥拉IC套装{color[000000ff]}！{[0004]}可减轻因岩浆受到的伤害。\n另外，可以让薇奥拉变形为{color[ffc529ff]}IC模式{color[000000ff]}，\n在岩浆上行驶。
-Acquire_ControlBeamBoost	获得{color[00ff9dff]}控制光束加速{color[000000ff]}！{[0004]}按住{[0100|1fcd]}时\n控制光束的前进速度将变快。
+Acquire_SpiderBall	获得{color[00ff9dff]}念动蜘蛛球{color[000000ff]}！{[0004]}在变形球状态下长按{[0100|97cd]}\n可吸附于具有磁性的{color[ffc529ff]}蜘蛛球轨道{color[000000ff]}，\n或悬吊于{color[ffc529ff]}系绳节点{color[000000ff]}下。{[0004]}也可以使用可视化后的\n{color[ffc529ff]}念动蜘蛛球轨道{color[000000ff]}。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_SuperMissile	获得{color[00ff9dff]}超级导弹{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}5发{color[000000ff]}导弹，\n发射能引发{color[ffc529ff]}强烈爆炸{color[000000ff]}的超级导弹。{[0004]}按{[0100|16cd]}切换至导弹，\n长按{[0100|05cd]}后松开发射超级导弹。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_TeleporterChip	获得{color[00ff9dff]}传送站晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_TeleporterPatch	获得{color[00ff9dff]}传送站贴片{color[000000ff]}！{[0004]}可瞬间传送贴片贴附的对象。\n仅用于{color[ffc529ff]}银河联邦制重量级哥伦的部件{color[000000ff]}。\n传送目的地的坐标为据点。\n共有{color[ffc529ff]}6个{color[000000ff]}贴片。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ThunderChip	获得{color[00ff9dff]}雷电晶片{color[000000ff]}！{[0004]}电路中内置拉蒙制晶片。\n要想改造、安装晶片，\n需要{color[ffc529ff]}4级及以上的特殊技能兵{color[000000ff]}技能。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ThunderShot	获得{color[00ff9dff]}雷电射击{color[000000ff]}！{[0004]}可以使用新的射击了。\n消耗{color[ffc529ff]}1发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}带电弹{color[000000ff]}雷电射击。{[0004]}按{[0100|15cd]}切换至雷电射击，按{[0100|05cd]}发射。\n能对中弹目标和附近的物体施加强电流。\n还能向设备供电。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ThunderShotUpgrade	获得{color[00ff9dff]}雷电蓄力射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}5发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}传导性高{color[000000ff]}的带电弹。{[0004]}按{[0100|15cd]}切换至雷电射击，\n长按{[0100|05cd]}后松开，\n发射雷电蓄力射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_SuperThunderShot	获得{color[00ff9dff]}超级雷电射击{color[000000ff]}！{[0004]}消耗{color[ffc529ff]}20发{color[000000ff]}射击弹药，\n发射{color[ffc529ff]}持续型{color[000000ff]}的带电射击。{[0004]}按{[0100|15cd]}切换至雷电射击，\n长按{[0100|05cd]}至{color[ffc529ff]}完全蓄力{color[000000ff]}。\n松开{[0100|05cd]}后发射超级雷电射击。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ViolaSuit	获得{color[00ff9dff]}薇奥拉套装{color[000000ff]}！{[0004]}可以驾驶薇奥拉。\n若要驾驶，\n需{color[ffc529ff]}登记为{color[000000ff]}对应车辆的{color[ffc529ff]}驾驶员{color[000000ff]}。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ViolaSuitIC	获得{color[00ff9dff]}薇奥拉IC套装{color[000000ff]}！{[0004]}可减轻因岩浆受到的伤害。\n另外，可以让薇奥拉变形为{color[ffc529ff]}IC模式{color[000000ff]}，\n在岩浆上行驶。{[0004]}详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
+Acquire_ControlBeamBoost	获得{color[00ff9dff]}控制光束加速{color[000000ff]}！{[0004]}按住{[0100|1fcd]}时\n控制光束的前进速度将变快。\n详情可以在暂停菜单{[0100|71cd]}的\n“状态”中确认。
 Acquire_GreenEnergyCrystalFinder	获得{color[00ff9dff]}绿能量水晶搜寻器{color[000000ff]}！{[0004]}绿能量水晶\n将显示在雷达上。
 Acquire_PsychicBeamUpgrade	获得{color[00ff9dff]}念动光束加速器{color[000000ff]}！{[0004]}念动光束的射击速度提升。\n此外，攻击力也会小幅增加。
 Acquire_ScoutBotUpgrade	地图已更新！{[0004]}可以看到现在所在区域中\n未获得道具的位置了。\n按{[0100|71cd]}可查看地图。
@@ -3273,7 +3299,7 @@ ReflectionStatue_03_Description	泰沙和圣树心心相通，\n是建设记忆�
 ReflectionStatue_03_Preview	历史上真实存在的拉蒙祭司的石像。\n经辨认，石像上雕刻的文字为“泰沙”。\n以下是关于泰沙的记载。
 AncientLore_Hologram_FG_Preview	很久以前，燃烧的岩石从天而降，坠落在行星\n布洛斯的丛林。冷却凝固的岩石带有毒性，\n而一株小小的食虫植物吸收了它的毒性。\n植物无穷无尽地生长，成为了丛林的霸主。\n最先和它沟通的是祭司“泰沙”。之后泰沙\n将其命名为卡贝克斯。再后来，卡贝克斯接受\n泰沙的劝说，移居至拉蒙记忆神殿深处的庭院，\n作为掌管拉蒙葬礼的神和治理庭院的守护者，\n存续至今。
 AncientLore_Hologram_FP_Preview	目前尚无人知道，那宛如巨大长虫的生物是从何时开\n始悠然游弋在玛格德拉达火山的熔岩湖的。\n据说它拥有智慧和心智，自称菲诺洛斯。\n它以熔岩为食，将其化作力量。那由坚硬岩石构成的\n身体不受任何攻击的影响。它在生气时会张开血盆大\n口，像火山爆发一样吐出灼热的火焰。\n然而，拉蒙和菲诺洛斯互相把对方视作朋友。\n经过了漫长的岁月，吾等向它祈求允许我们在火口湖\n建造设施。它理解了这一切，将住所借给了吾等。
-AncientLore_Hologram_GM_Preview	据说它来自炎热的地底深处。\n它穿破阳光无法照射到的黑暗洞窟的墙壁，现出真身。\n泰沙祭司称其为古拉比纳克斯。它那巨大的身体\n覆盖着厚实的皮肤，腹部和背部各长着结实的四肢，\n头上有3根尖锐的角。将角的尖端合为一体刺入岩石\n就能凿出洞穴。\n利用八条腿旋转身体，就能将凿出的洞穴扩大，\n一口气冲入地底。古拉比纳克斯所经之处掉落\n的各种石头成为了拉蒙的粮食之一。
+AncientLore_Hologram_GM_Preview	据说它来自炎热的地底深处。\n它穿破阳光无法照射到的黑暗洞窟的墙壁，现出真身。\n泰沙祭司称其为古拉比纳克斯。它那巨大的身体\n覆盖着厚实的皮肤，腹部和背部各长着结实的四肢，\n头上有4根尖锐的角。将角的尖端合为一体刺入岩石\n就能凿出洞穴。\n利用八条腿旋转身体，就能将凿出的洞穴扩大，\n一口气冲入地底。古拉比纳克斯所经之处掉落\n的各种石头成为了拉蒙的粮食之一。
 AncientLore_Hologram_IB_Preview	在被厚实的冰层封闭、强风裹挟冰粒飞舞的极寒之地，它\n向所有试图靠近的人们吹出冰冷的气息，将其拒之门外。\n它假装自己是一名孤高的战士，殊不知这是心胸狭隘的表\n现。这就是克拉托斯这种难以相处的生物的本来面貌。\n当愤怒到达顶点时，它会变得极其暴躁，滚动缠绕在巨大\n身体上的如同大型冰柱一般的尖刺，用整个身体进行撞击。\n但在和泰沙交流后，它心中涌出一股温情，\n逐渐磨平了棱角，变得沉默寡言且冷静。\n就这样，它成为了拉蒙的守护神之一。
 AncientLore_Hologram_VF_Preview	不是所有拉蒙都能自由操纵心之力。\n天空乌云密布永不放晴，雷电风雨肆虐永不停歇，\n吾等祖先在此奠定了机械文明的基础。\n他们建造了3座高耸入云的巨塔，巨塔创造出利用\n旋转的车轮驰骋于大地的工具。\n然而，当地严苛的自然环境让拉蒙无法在那里定居。\n于是以掌握拉蒙技术之人为首，他们创造出了集生\n命运作原理之大成的生命体，将其命名为泽利欧斯，\n并赋予其统辖3座塔的职责。\n泽利欧斯以电力为动力源，能连接机械并自由操纵\n它们。它心中只铭刻了一句话，“为了拉蒙的幸福\n而存在”。\n泽利欧斯忠实地遵守着这条命令，即便如今机械文\n明的任务已经结束，它依旧默默守护着那些塔。
 FG_1000_LoreMarker_Title	迈出第一步
@@ -3449,7 +3475,7 @@ IB_1110	冰冻大厅
 IB_2010	低温保存容器输送带
 IB_2020	生化实验室
 IB_2021	DNA分析室
-IB_2022	数据监控室
+IB_2022	G轨道数据监控室
 IB_2023	容器维修系统
 IB_2024	样本保管室
 IB_2025	安全系统管理室
@@ -3660,6 +3686,7 @@ Legend_TabRight	{[0100|78cd]}
 Legend_PageLeft	{[0100|79cd]}
 Legend_PageRight	{[0100|7acd]}
 ScanButton_NextPage	{[0100|7bcd]}
+ScanButton_ScanReader_NextPage	{[0100|2fcd]}
 ScanButton_Idle	　
 ScanButton_OpenLogbook	{[0100|71cd]}
 ScanButton_OpenLogbookPrompt	日志
@@ -3684,7 +3711,7 @@ MenuTitle_Settings_EditControls	更改按键
 MenuTitle_amiibo	amiibo
 Menu_ScanPercentage	扫描率：{color[00ff9dff]}\{0}％{color[000000ff]}
 MapSystemOffline	地图系统：离线
-Menu_MapControls	\{3}　{[0100|71cd]}关闭　{[0100|7ccd]}返回　{[0100|82cd]}{[0100|83cd]}缩放　{[0100|80cd]}滚动\{0}\{1}\{2}
+Menu_MapControls	{[0100|71cd]}关闭　{[0100|7ccd]}返回　{[0100|82cd]}{[0100|83cd]}缩放　{[0100|80cd]}滚动\{0}\{1}\{2}\{3}
 Menu_MapControls_Rotate	　{[0100|7ecd]}旋转
 Menu_MapControls_SwapToZone	　{[0100|84cd]}地区地图
 Menu_MapControls_SwapToWorld	　{[0100|84cd]}世界地图
@@ -3716,6 +3743,7 @@ Menu_Mission_KeyLabel	主传送站钥匙
 Menu_Mission_GELabel	绿能量水晶
 Menu_Mission_MechPartsLabel	机甲部件
 Menu_Mission_ReturnToAltar	{size[5500]}收集了足够的绿能量水晶！\n献纳至狂怒丛林的祭坛吧。{size[6400]}
+Menu_Mission_AllCGECollected	{size[5500]}绿能量水晶已全部回收！{size[6400]}
 Menu_LogbookHeader1	生物学
 Menu_LogbookHeader2	机器
 Menu_LogbookHeader3	拉蒙的记录
@@ -3731,7 +3759,7 @@ Menu_OptionsSection_General	通用
 Menu_OptionsSection_Controls	操作
 Menu_OptionsGameplay	游玩游戏
 Menu_OptionsGameplay_Difficulty	更改难度
-Menu_OptionsGameplay_Difficulty_Tooltip	更改难度。\n降低难度后，有可能{color[e3251bff]}无法满足通关报酬的解锁条件{color[000000ff]}。
+Menu_OptionsGameplay_Difficulty_Tooltip	更改难度。降低难度后，\n有可能{color[e3251bff]}无法满足通关报酬的解锁条件{color[000000ff]}。
 Menu_OptionsGameplay_Difficulty_Warning	新难度会在下次保存时，或从检查点重新开始时应用。\n通关游戏时解锁的报酬按最低难度为准。\n{color[e3251bff]}降低难度后，将不会解锁当前难度对应的通关报酬。{color[000000ff]}
 Menu_OptionsGameplay_DifficultyConfirm_Title	更改难度
 Menu_OptionsGameplay_DifficultyConfirm_Description	确定要更改难度吗？
@@ -3965,41 +3993,69 @@ RemapMenu_Tooltip_Swap	要替换成哪个按键呢？
 RemapMenu_StickSwap_Tooltip	切换摇杆后，陀螺仪输入也会左右更换。
 RemapMenu_StickSwap_Tooltip_OU	切换摇杆后，陀螺仪输入和鼠标也会左右更换。
 Menu_amiiboScanner	读取amiibo
-Menu_amiiboViola	薇奥拉
-Menu_amiiboSylux	赛拉克斯
+Menu_amiiboViola	薇奥拉的配色
+Menu_amiiboPsychicDetected	{size[5500]}已读取{color[00ff9dff]}萨姆斯（密特罗德 究极4）{color[000000ff]}的amiibo！{size[6400]}
+Menu_amiiboViolaDetected	{size[5500]}已读取{color[00ff9dff]}萨姆斯&薇奥拉（密特罗德 究极4）{color[000000ff]}的amiibo！{size[6400]}
+Menu_amiiboSylux	{size[5500]}已读取{color[00ff9dff]}赛拉克斯（密特罗德 究极4）{color[000000ff]}的amiibo！{size[6400]}
+Menu_amiiboMetroidSeriesDetected	{size[5500]}已读取其他{color[00ff9dff]}密特罗德{color[000000ff]}相关的amiibo！{size[6400]}
 Menu_amiiboControls	{[0100|71cd]}关闭菜单　{[0100|7ccd]}返回　{[0100|7bcd]}选择
 Menu_amiiboScannerControls	{[0100|7ccd]}返回
+Menu_amiiboUnlockControls	{[0100|7bcd]}继续
+Menu_amiiboPlayControls	{[0100|7bcd]}听语音
+Menu_amiiboReplayControls	{[0100|7ccd]}返回　{[0100|7bcd]}再听一次
+Menu_amiiboViolaSkinSelect	{[0100|71cd]}关闭菜单　{[0100|75cd]}{[0100|76cd]}下一个配色　{[0100|7ccd]}返回　{[0100|7bcd]}确定
+Menu_amiiboViolaSkinSelect_Selected	{[0100|71cd]}关闭菜单　{[0100|75cd]}{[0100|76cd]}下一个配色　{[0100|7ccd]}返回　{color[80808040]}{[0100|7bcd]}确定{color[000000ff]}
 Menu_amiiboScanner_Prompt	请用amiibo点触NFC范围。
-Menu_amiiboScanner_Success	已读取amiibo。
-Menu_amiiboTryLater_Title	请稍候
-Menu_amiiboTryLater_Description	该amiibo暂时无法使用。\n继续进行游戏后可使用。
-Menu_amiiboRadio_Title	薇奥拉电台
-Menu_amiiboRadio_Description	可以使用{color[00ff9dff]}薇奥拉电台{color[000000ff]}了！\n可更改在烈阳沙漠驾驶薇奥拉时播放的乐曲。\n按{[0100|4ecd]}{[0100|4fcd]}切换乐曲。
-Menu_amiiboHealth_Title	免疫伤害
-Menu_amiiboHealth_Description	是否使用{color[00ff9dff]}免疫伤害{color[000000ff]}？\n可使敌人造成的一定次数的伤害无效化。\n{color[ffc529ff]}注意：{color[000000ff]}免疫伤害1天只可使用1次。
-Menu_amiiboHealthTryLater_Description	今天已使用了免疫伤害。\n免疫伤害1天只可使用1次。\n请明天再试。
-Menu_amiiboCustomizations_Title	自定义薇奥拉
-Menu_amiiboCustomizations_Description	可以{color[00ff9dff]}自定义{color[000000ff]}薇奥拉了！\n可在暂停菜单内“amiibo”的“薇奥拉”中\n更改薇奥拉的颜色。
-Menu_amiiboBoost_Title	加速回复
-Menu_amiiboBoost_Description	是否使用薇奥拉的{color[00ff9dff]}加速回复{color[000000ff]}？\n在烈阳沙漠中时，加速的回复速度将会提升。\n{color[ffc529ff]}注意：{color[000000ff]}加速回复1天只可使用1次。
-Menu_amiiboBoostTryLater_Description	今日已使用了加速回复。\n加速回复1天只可使用1次。\n请明天再试。
-Menu_amiiboBoostSolValley_Description	在烈阳沙漠驾驶薇奥拉状态下，\n读取amiibo即可发动加速回复。
+Menu_amiiboTryLater_Title	未解锁功能
+Menu_amiiboTryLater_Description	该amiibo有未解锁的功能。\n继续进行游戏后，即可使用。
+Menu_amiiboTryLater_TitleAlt	未解锁功能
+Menu_amiiboTryLater_DescriptionAlt	该amiibo有未解锁的功能。\n继续进行游戏后，\n可以使用所有的功能。
+Menu_amiiboShield_Title	{color[00ff9dff]}能量护盾{color[000000ff]}已解锁！
+Menu_amiiboShield_Description	使用能量护盾后，会在一段时间内{color[00ff9dff]}伤害无效化{color[000000ff]}。\n还会将能量{color[00ff9dff]}回复到最大值{color[000000ff]}。\n另外，已解锁的amiibo功能在其他存档中也能使用。\n{size[6400]}{color[ffc529ff]}注意：{color[000000ff]}能量护盾每个存档每天只能使用1次。{size[6400]}
+Menu_amiiboRadio_Title	{color[00ff9dff]}薇奥拉广播{color[000000ff]}已解锁！
+Menu_amiiboRadio_Description	可以{color[00ff9dff]}更改{color[000000ff]}在烈阳沙漠驾驶薇奥拉时{color[00ff9dff]}播放的乐曲{color[000000ff]}。\n按{[0100|4dcd]}切换播放 / 停止，按{[0100|4ecd]}{[0100|4fcd]}切换乐曲。\n另外，通关后还会新增{color[00ff9dff]}2首{color[000000ff]}乐曲。
+Menu_amiiboHealth_Title	能量护盾
+Menu_amiiboHealth_Description	是否立即使用{color[00ff9dff]}能量护盾{color[000000ff]}？\n可在一段时间内使来自敌人的伤害无效化。\n{size[5a00]}{color[ffc529ff]}注意：{color[000000ff]}能量护盾每天只能使用1次。\n{size[6400]}{size[6400]}下次使用时请重新读取萨姆斯的amiibo。{size[6400]}
+Menu_amiiboHealthIsActive_Description	是否使用{color[00ff9dff]}能量护盾{color[000000ff]}？\n能量护盾当前已启动。\n将防御剩余\{0}点的伤害。\n如果现在使用，护盾将回复至\{1}。
+Menu_amiiboHealthTryLater_Description	今天已使用能量护盾。\n能量护盾每天只能使用1次。\n请明天再试。
+Menu_amiiboHealthConfirm_Description	{color[00ff9dff]}能量护盾{color[000000ff]}已启动！\n会将能量回复到最大值，\n还能在一段时间内伤害无效化。
+Menu_amiiboCustomizations_Title	{color[00ff9dff]}薇奥拉变更配色{color[000000ff]}已解锁！
+Menu_amiiboCustomizations_Description	可以在暂停菜单的“amiibo”中更改{color[00ff9dff]}薇奥拉的配色{color[000000ff]}。\n驾驶薇奥拉每行驶{color[00ff9dff]}50km{color[000000ff]}就会增加新的配色。\n配色一共有{color[00ff9dff]}8种{color[000000ff]}。\n读取萨姆斯&薇奥拉的amiibo可以确认总行驶距离。\n另外，已解锁的amiibo功能在其他存档中也能使用。
+Menu_amiiboBoost_Title	{color[00ff9dff]}加速回复器{color[000000ff]}已解锁！
+Menu_amiiboBoost_Description	当薇奥拉达到一定速度时，{color[00ff9dff]}加速的回复速度{color[000000ff]}将会提升。\n加速回复器可以在烈阳沙漠中启动。\n在离开烈阳沙漠前会持续生效。\n{size[6400]}{color[ffc529ff]}注意：{color[000000ff]}加速回复器每个存档每天只能使用1次。{size[6400]}
+Menu_amiiboBoostActivate_Title	加速回复器
+Menu_amiiboBoostActivate_Description	是否立即使用{color[00ff9dff]}加速回复器{color[000000ff]}？\n在烈阳沙漠中时，加速的回复速度将会提升。\n{size[6400]}{color[ffc529ff]}注意：{color[000000ff]}加速回复器每天只能使用1次。\n下次使用时请重新读取萨姆斯&薇奥拉的amiibo。{size[6400]}
+Menu_amiiboBoostTryLater_Description	今日已使用加速回复器。\n加速回复器每天只能使用1次。\n请明天再试。
+Menu_amiiboBoostSolValley_Description	加速回复器仅在{color[ffc529ff]}烈阳沙漠{color[000000ff]}中有效。\n在烈阳沙漠中请读取\n萨姆斯&薇奥拉（密特罗德 究极4）的amiibo。
+Menu_amiiboBoostIsActive_Description	加速回复器已启动。\n在离开烈阳沙漠前会持续生效。
+Menu_amiiboBoostConfirm_Description	{color[00ff9dff]}加速回复器{color[000000ff]}已启动！\n加速的回复速度将会提升。\n离开烈阳沙漠后就会失效。
 Menu_amiiboUnsupported_Title	不支持的amiibo
 Menu_amiiboUnsupported_Description	游戏不支持该amiibo。
-Menu_amiiboOdometer	\{0}
-Menu_amiiboOdometer_Header	总行驶距离
-Menu_amiiboOdometer_Description	薇奥拉的总行驶距离\n已达到{color[00ff9dff]}\{0}{color[000000ff]}km。
-Menu_amiiboOdometer_Unlocked	薇奥拉的{color[00ff9dff]}颜色{color[000000ff]}增加了！\n可在暂停菜单的“amiibo”的“薇奥拉”中\n更改薇奥拉的颜色。
-Menu_amiiboTheater_Title	闪回
-Menu_amiiboTheater_Description	{color[00ff9dff]}闪回影片{color[000000ff]}已解锁！\n完整版的闪回影片\n可在主菜单的展示厅中观看。
-Menu_amiiboViola_Customization_Prompt	请选择薇奥拉的颜色。
+Menu_amiiboOdometer	{color[00ff9dff]}\{0}\{1}{color[000000ff]}m
+Menu_amiiboOdometer_Title	总行驶距离
+Menu_amiiboOdometer_Header	薇奥拉的行驶距离
+Menu_amiiboOdometer_Total	合计
+Menu_amiiboOdometer_NextUnlock	距离解锁下一个配色还剩
+Menu_amiiboOdometer_NextUnlock_Meters	{color[00ff9dff]}\{0}{color[000000ff]}m
+Menu_amiiboOdometer_Unlocked	{color[00ff9dff]}\{0}{color[000000ff]}已解锁！
+Menu_amiiboTaunts_Title	{color[00ff9dff]}赛拉克斯的语音{color[000000ff]}已解锁！
+Menu_amiiboTaunts_Description	可以听到怀恨于萨姆斯和银河联邦的\n赏金猎人{color[00ff9dff]}赛拉克斯的语音{color[000000ff]}。\n每次读取赛拉克斯的amiibo时，语音会随机选择。\n另外，已解锁的amiibo功能在其他存档中也能使用。
+Menu_amiiboFlashbackUpdated_Title	{color[00ff9dff]}展示厅{color[000000ff]}解锁条件更新！
+Menu_amiiboFlashbackUpdated_Description	{color[00ff9dff]}展示厅的特别影片{color[000000ff]}解锁条件已更新。\n通关游戏后，影片将解锁。\n道具回收率和扫描率无需达到100%。
+Menu_amiiboFlashbackUnlocked_Title	{color[00ff9dff]}展示厅{color[000000ff]}已解锁！
+Menu_amiiboFlashbackUnlocked_Description	{color[00ff9dff]}展示厅的特别影片{color[000000ff]}已解锁。\n可以在标题画面中的“展示厅”进行确认。
+Menu_amiiboJingleUnlocked_Title	{color[00ff9dff]}密特罗德声音{color[000000ff]}已解锁！
+Menu_amiiboJingleUnlocked_Description	读取其他{color[00ff9dff]}密特罗德{color[000000ff]}相关的amiibo后，\n会播放《密特罗德 究极4 穿越未知》的声音。\n每次读取amiibo时，声音会随机选择。\n另外，已解锁的amiibo功能在其他存档中也能使用。
+Menu_amiiboViola_Customization_Prompt	请选择薇奥拉的配色。
 Menu_amiiboViola_Customization_00	默认
 Menu_amiiboViola_Customization_01	防护服配色
 Menu_amiiboViola_Customization_02	赛拉克斯配色
 Menu_amiiboViola_Customization_03	密特罗德究极配色
 Menu_amiiboViola_Customization_04	宇宙海盗配色
 Menu_amiiboViola_Customization_05	拉蒙配色
-Menu_amiiboViola_SupportInfo	读取{color[00ff9dff]}《密特罗德 究极4 穿越未知》{color[000000ff]}的amiibo后，会解锁彩蛋要素，发生一些好事。\n除此之外，读取{color[00ff9dff]}密特罗德{color[000000ff]}相关的amiibo时，会播放密特罗德究极系列的声音。
+Menu_amiiboViola_Customization_06	念动配色
+Menu_amiiboViola_Customization_07	薇奥拉套装配色
+Menu_amiiboViola_SupportInfo	读取{color[00ff9dff]}《密特罗德 究极4 穿越未知》{color[000000ff]}的amiibo后，会解锁彩蛋要素或发生一些好事。\n除此之外，读取{color[00ff9dff]}密特罗德{color[000000ff]}相关的amiibo时，会播放“密特罗德 究极4”的声音。
 Menu_Save	是否保存？
 Menu_Saving	正在保存……
 Menu_SaveSucceeded	{color[00ff9dff]}行动记录保存完毕。{color[000000ff]}\n开始补充能量和弹药。
@@ -4010,7 +4066,7 @@ Menu_SaveFailed	{color[e3251bff]}行动记录保存失败。{color[000000ff]}\n�
 GameOver_Death	Suit integrity zero. Life support system: OFFLINE.\n— 能量枯竭 —
 GameOver_MissionFail	Critical mission failure. Federation Trooper killed in action.\n— 银河联邦兵　救援失败 —
 GameOver_ExternalEvent	Failed to escape facility. Life support system: OFFLINE.\n— 逃生失败 —
-GameOver_ExternalEvent2	Failed to active Master Teleporter in time.\n— 行星　逃脱失败 —
+GameOver_ExternalEvent2	Failed to activate Master Teleporter in time.\n— 行星　逃脱失败 —
 GameOver_MissionFailed	MISSION FAILED
 EndGame_Victory_Title	MISSION COMPLETE
 EndGame_Victory_ScanPercent	扫描率
@@ -4915,7 +4971,7 @@ Tutorial_Separator_Multiple	/
 Prompt_GrappleLasso	{size[c800]}{[0100|26cd]}{size[6400]}
 Prompt_GrappleLasso_Yank	{size[c800]}{[0100|2bcd]}{size[6400]}
 Master_Teleporter_Endgame	按{[0100|2fcd]}进行传送
-HUD_FirstGreenEnergy_Memo	获得{color[ffc529ff]}绿能量水晶{color[000000ff]}！\n{size[5500]}可在暂停菜单查看详情{size[6400]}
+HUD_FirstGreenEnergy_Memo	获得{color[ffc529ff]}绿能量水晶{color[000000ff]}！\n{size[5500]}可在暂停菜单{[0100|71cd]}查看详情{size[6400]}
 HUD_GreenEnergy_DepositReminder	将绿能量水晶\n献纳至{color[ffc529ff]}记忆祭坛{color[000000ff]}
 Preload\MPR4\PreloadMP4.pak\Zones_ChronoTower.MSBT
 CT_LastLamornStatue	侦测到拉蒙雕像内部有念动记录的痕迹。\n当指定能力者使用时，会以影音形式播放\n祭司记录在其中的思想。已播放完毕。
@@ -5478,7 +5534,7 @@ ib_2021_DNAClusterPod_Preview	DNA样本保管箱：\n陈列并保管内含NOVA D
 ib_2021_DNAEgg_Pod_02_01_Preview	DNA样本ID：G-486\n定序情况：不完整\n宿主状态：稳定
 ib_2021_terminal_01_Preview	DNA样本数据终端机A：\n管理样本保管箱所发送信息的终端。
 ib_2021_terminal_02_Preview	DNA样本数据终端机B：\n管理样本保管箱所发送信息的终端。
-ib_2021_MorphBallOpening_Preview	侦测到维修坦克使用的维修专用隧道。\n与对面的“生化实验室监控室”相连。
+ib_2021_MorphBallOpening_Preview	侦测到维修坦克使用的维修专用隧道。\n隔着通道与对面的“G轨道数据监控室”相连。
 ib_2022_TrackingOpsHologram_Preview	布洛斯行星的全息投影。\n将G追踪终端机获得的所有格利佛的追踪监控信息\n整合、整理后投影显示。
 ib_2022_TrackingTerminal_01_Preview	G追踪终端机Ⅰ：狂怒丛林\n远程测定位置的最终扫描更新：Y区段\n锁定GPS数据点：33
 ib_2022_TrackingTerminal_02_Preview	G追踪终端机Ⅱ：烈阳沙漠\n远程测定位置的最终扫描更新：C区段\n锁定GPS数据点：19

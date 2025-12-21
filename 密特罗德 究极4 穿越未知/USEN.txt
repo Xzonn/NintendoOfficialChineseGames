@@ -105,7 +105,7 @@ Suppressor_Tank_Title	Maintenance Tank
 Suppressor_Tank_Description	The Maintenance Tank is an autonomous drone that automatically maintains, manages, and repairs all devices and equipment developed by the Lamorn technicians in the Machine Era. These drones also function as a security force; if unauthorized individuals are detected in the facility, these drones are permitted to engage and eliminate intruders with their welding beam. Larger and smaller types have been developed to help carry out their various responsibilities.
 Suppressor_Tank_Preview	{color[00ff9dff]}Mechanoid: Maintenance Tank{color[000000ff]}\nAutonomous mobile drone responsible for performing maintenance within the facility. Its welding beam can also be used against intruders.
 Behemoth_Title	Behemoth
-Behemoth_Description	The Behemoth is a giant arthropod that lives in the caves of Magdrahda Volcano. Its body is covered in a layer of mineralized skin that neutralizes all firearms, but its four eyes, which are directly connected to its brain via delicate nerves, are vulnerable to damage when open. It is aggressively territorial and will attack anyone that gets too close, either by rushing toward them in an attempt to ram them, or through a variety of fire-based attacks. These attacks are fueled by the Behemoth creating a flammable mixture of air and its own body fluids, which it can then emit either in a mist it ignites by striking the ground to create a fiery ring or as a series of blazing firebombs expelled from its three mouths.
+Behemoth_Description	The Behemoth is a giant arthropod that lives\nin the caves of Magdrahda Volcano. Its body\nis covered in a layer of mineralized skin that\nneutralizes all firearms, but its four eyes,\nwhich are directly connected to its brain via\ndelicate nerves, are vulnerable to damage\nwhen open. It is aggressively territorial and\nwill attack anyone that gets too close, either\nby rushing toward them in an attempt to ram\nthem or through a variety of fire-based\nattacks. These attacks are fueled by the\nBehemoth creating a flammable mixture of\nair and its own body fluids, which it can then\nemit either in a mist it ignites by striking the\nground to create a fiery ring or as a series\nof firebombs expelled from its three mouths.
 Behemoth_Preview	{color[00ff9dff]}Arthropod Morphology: Behemoth{color[000000ff]}\nGiant arthropod with eight legs, four independent eyes, and three mouths. Its entire body is covered with a mineralized skin layer that neutralizes all firearms.\n\n\nAttacks by rapidly shooting flaming projectiles from its mouth, using oscillation waves to drive enemies away, and producing a powerful air suction to pull enemies in. Only its eyes are vulnerable to damage.
 Pyremite_Title	Pyremite
 Pyremite_Description	Pyremites are a type of single-eyed crustacean who crawl on eight large-clawed legs. They can be found in the Magdrahda Volcano. They are capable of creating an explosion from the top of their heads by mixing air with a flammable gas they produce inside of their bodies, compressing the mixture, then igniting it through rapid heat generation. If they detect intruders in their territory, they will launch out of the ground, rapidly approach the intruder, and then trigger an explosion. If they take critical damage, they can trigger a similar explosion by igniting any remaining gas within their body to self-destruct. This behavior is true even when a pyremite succumbs to illness or old age, resulting in few examples of pyremite remains.
@@ -120,7 +120,7 @@ FP_SwarmFlyer_Title	Swarm Flyer
 FP_SwarmFlyer_Description	Swarm Flyers live submerged in lava until they reach maturity, when their bodies begin generating a lighter-than-air gas that lifts them into the air. Once aloft, they join their peers, forming a swarm. Their propulsion is achieved by sucking air into the front of their body and expelling it from the rear, with trajectory adjustments made by redirecting the expulsion. Their internal gas dissipates after a week, and as their buoyancy fades, Swarm Flyers return to the place of their birth within the lava, spawn, and die.
 FP_SwarmFlyer_Preview	{color[00ff9dff]}Aerial Morphology: Swarm Flyer{color[000000ff]}\nProduces a lighter-than-air gas in its body, then floats into the air. The organism then propels itself by inhaling and expelling air.
 LavaJumper_Title	Blow Hopper
-LavaJumper_Description	Blow Hoppers are floating organisms with heat-resistant properties, allowing them to inhabit lakes of lava like Flare Pool. They are able to navigate their environment by generating a lighter-than-air gas and inflating a pouch-like organ. They primarily consume Green Energy to survive, extracting it from the lava on Viewros by ingesting it, consuming the energy, then expelling the excess lava from their mouths. Due to their incredibly high metabolism and inefficient use of the consumed energy, they are perpetually in a cycle of consumption and expulsion.
+LavaJumper_Description	Blow Hoppers are floating organisms with\nheat-resistant properties, allowing them to\ninhabit lakes of lava like Flare Pool. They are\nable to navigate their environment by\ngenerating a lighter-than-air gas and inflating\na pouch-like organ. They primarily consume\nGreen Energy to survive, extracting it from\nthe lava on Viewros by ingesting it,\nconsuming the energy, then expelling the\nexcess lava from their mouth. Due to their\nincredibly high metabolism and inefficient\nuse of the consumed energy, they are\nperpetually locked in a cycle of consumption\nand expulsion.
 LavaJumper_Preview	{color[00ff9dff]}Squamata Morphology: Blow Hopper{color[000000ff]}\nPossesses a body that produces gas lighter than the\nsurrounding atmosphere, allowing it to float in the air.\nIt absorbs energy from Viewros's lava.
 LeapingSpitter_Title	Leaping Spitter
 LeapingSpitter_Description	Leaping Spitters are mollusks that inhabit Flare Pool. Normally they dive deep into the lava and remain inert, but if there are changes in their environments, such as dramatic shifts in the heat levels of the lava, they may temporarily migrate to more shallow areas of the pool. If they detect danger while in a shallow area, they will attempt to drive off the threat by flipping up into the air and scattering lava bombs around the area.
@@ -154,13 +154,13 @@ BarbFlinger_Title	Bristlewort
 BarbFlinger_Description	Bristlewort are carnivorous plants capable of moving around using their six legs. Their outer shells are impervious to beam attacks, though explosives can damage them. These sturdy shells are heavy, impairing the Bristlewort's ability to move. As a result, they tend to attack from a distance, only opening the shell when prey is detected. Once the shell is open, Bristlewort quickly rotate, launching sharp thorns in all directions before closing to generate new thorns. Thanks to the mineral composition of the thorns, Bristlewort can regenerate them indefinitely using photosynthesis. Staying at a distance also helps them protect their internal organs, which are exposed and vulnerable even to beam attacks while the shell is open.
 BarbFlinger_Preview	{color[00ff9dff]}Plant Morphology: Bristlewort{color[000000ff]}\nCarnivorous plant variant covered in a hard shell. When it senses a threat, it will open its shell, angle itself toward its target, and launch thorns.
 Hopper_Title	Glottagropper
-Hopper_Description	Glottagroppers are carnivorous reptiles who primarily feed on other animals. They are ambush predators, burrowing beneath the ground and waiting for prey to approach. When they sense the vibrations of prey through the ground, they will swiftly emerge to launch sharp needles from their mouth. They have two extremely powerful legs, which they can use to launch themselves into the air, up to three times their own height. They can then use their small wings to control their midair positioning, making it difficult for their prey to track their movements.
+Hopper_Description	Glottagroppers are carnivorous reptiles who\nprimarily feed on other animals. They are\nambush predators, burrowing beneath the\nground and waiting for prey to approach.\nWhen they sense the vibrations of prey\nthrough the ground, they will swiftly emerge\nto launch sharp needles from their mouth.\nThey have two extremely powerful legs,\nwhich they can use to launch themselves\ninto the air, up to three times their own\nheight. They can then use their small wings\nto control their midair positioning, making it\ndifficult for prey to track their movements.
 Hopper_Preview	{color[00ff9dff]}Reptile Morphology: Glottagropper{color[000000ff]}\nCarnivorous reptiles that move using wings and powerful legs. They burrow underground to wait for prey, then emerge when they detect vibrations.
 Root_Lasher_Title	Rootspur
-Root_Lasher_Description	Rootspur are tuberous root plants. They typically live below the water's surface in rivers and marshes or beneath the ground in bogs and will defend their territory from intruders. They have a thick, swollen stalk and also possess an autonomic nervous system. If they detect an invader, they will emerge from hiding and attack by swinging the vine on top of their body around themselves until the threat withdraws. The fleshy stalk is covered in hard bark, making it exceedingly durable, though explosives and high-powered weapons can still dispatch it quickly.
+Root_Lasher_Description	Rootspur are tuberous root plants. They\ntypically live below the water's surface in\nrivers and marshes or beneath the ground in\nbogs and will defend their territory from\nintruders. They have a thick, swollen stalk\nand also possess an autonomic nervous\nsystem. If they detect an invader, they will\nemerge from hiding and attack by swinging\nthe vine on top of their body around\nthemselves until the threat withdraws. The\nfleshy stalk is covered in hard bark, making it\nexceedingly durable, however explosives\nand high-powered weapons can still dispatch\nit quickly.
 Root_Lasher_Preview	{color[00ff9dff]}Plant Morphology: Rootspur{color[000000ff]}\nA mobile, tuberous root plant variant with an autonomic\nnervous system. They usually live in mud underwater\nand will surface if a creature draws near.{[0004]}If their territory is invaded, they will attack with their\nvines until the intruder is defeated or driven away.\nDespite its hard outer skin, even a single shot from\na high-powered weapon can defeat it.
 Spore_Launcher_Title	Ghaspore
-Spore_Launcher_Description	Ghaspore are a type of mushroom that mainly inhabits hot and humid jungles, growing on surfaces like tree trunks or rock cliffs. Their periostracum remain closed until a sporangium is generated, at which point their periostracum opens and ejects the sporangium into the air. The periostracum is extremely hard and cannot be destroyed with beam weaponry, but the soft tissues beneath the periostracum—which are exposed when a sporangium is ejected—are vulnerable to damage from beams or other weapons. Ghaspore can be destroyed even while their periostracum is closed, using high-powered weapons.
+Spore_Launcher_Description	Ghaspore are a type of mushroom that\nmainly inhabits hot and humid jungles,\ngrowing on surfaces like tree trunks or rock\ncliffs. Their periostracum remain closed until\na sporangium is generated, at which point\ntheir periostracum opens and ejects the\nsporangium into the air. The periostracum is\nextremely hard and cannot be destroyed\nwith beam weaponry, but the soft tissues\nbeneath the periostracum—which are\nexposed when a sporangium is ejected—are\nvulnerable to damage from beams or other\nweapons. Ghaspore can be destroyed even\nwhile their periostracum is closed, using\nhigh-powered weapons.
 Spore_Launcher_Preview	{color[00ff9dff]}Fungi Morphology: Ghaspore{color[000000ff]}\nFungi variant. Its periostracum is extremely hard and cannot be destroyed with a standard beam, but it will open up to release Homing Spores.
 Roaming_Spore_Title	Homing Spore
 Roaming_Spore_Description	The sporangium that Ghaspore, a type of mushroom, eject at irregular intervals are called Homing Spores. They contain spores as well as a lighter-than-air gas mixture within their pouch-like structure. This gas allows Homing Spores to float in the air, waiting for creatures to approach. If they sense that a creature is nearby, they will grow thorny tactile receptors across their outer surface and begin pursuing their target. If they make contact with their target, the internal gases instantaneously compress while the outer layer heats up, causing the gas to explode.
@@ -191,12 +191,12 @@ Polyp_Title	Shimmerstrap
 Polyp_Description	Shimmerstraps are terrestrial crustaceans evolved to live parasitically fixed to a single location. Anchored to tree bark, they grow by absorbing nutrients such as amino acids, protein, and sugars from sap. Lacking eyes, they explore their environment by extending a feeler with a bioluminescent organ at its tip through an aperture in their shell. Able to sense its own light emissions, the feeler will retract into the shell if it senses danger, closing the aperture in the process.\n\nShimmerstraps live as long as their host tree remains alive, with some specimens found to be hundreds of years old.
 Polyp_Preview	{color[00ff9dff]}Crustacean Morphology: Shimmerstrap\n{color[000000ff]}Variant of terrestrial crustacean parasites that live on wood surfaces. It is immobile and primarily consumes sap. The tip of its tentacle is a luminous organ.
 Jelly_Plant_Preview	Plant Morphology: Lysocask\nThe thin skin layer of this fruit contains a low-viscosity and highly nutritious liquid. A strong impact will break the skin and scatter the pungent contents.
-Flower_Preview	Plant Morphology: Epoxhid\nIf it senses something within five meters, it closes\nits petals and hardens to protect its ovaries.
+Flower_Preview	Plant Morphology: Epoxhid\nIf it senses an approaching organism, it closes\nits petals and hardens to protect its ovaries.
 Blight_Preview	Fungi Morphology: Fiber Deformity\nSmall fungi variant that typically forms on the bark of a tree. Possesses a bioluminescent glow due to an internal oxygen reaction.
 Glow_Mold_Preview	Fungi Morphology: Glow Mold\nBioluminescent fungi variant containing large quantities of luciferin and luciferase in its cap. This causes the glow of both the fungi and its spores.
 Preload\MPR4\PreloadMP4.pak\Creatures_GalFed.MSBT
 Space_Pirate_Title	Space Pirate
-Space_Pirate_Description	The "Space Pirates," an army of marauding warriors who aspire to control the galaxy, are made up of a number of different aliens, and the various species fulfill roles in alignment with their respective strengths. For example, the numerous, rapidly reproducing insect-like members serve as rank-and-file soldiers and are usually used to defend Space Pirate bases. They have powerful legs and can march extreme distances. They are typically armed with quantum assault cannons on their forearms for ranged engagements and concealed photon energy blades for close-quarters combat.
+Space_Pirate_Description	The "Space Pirates," an army of marauding\nwarriors who aspire to control the galaxy,\nare made up of a number of different aliens,\nand the various species fulfill roles in\nalignment with their respective strengths.\nFor example, the numerous, rapidly\nreproducing insect-like members serve as\nrank-and-file soldiers and are usually used\nto defend Space Pirate bases. They have\npowerful legs and can march extreme\ndistances. They are typically armed with\nquantum assault cannons on their forearms\nfor ranged combat and concealed photon\nenergy blades for use in close quarters.
 Space_Pirate_Preview	{color[00ff9dff]}Alien Morphology: Space Pirate\n{color[000000ff]}Ruthless, brutal, and bellicose intergalactic marauder. This is one example of the diverse alien life-forms that make up the Space Pirates.
 Space_Pirate_Wounded_Preview	{color[00ff9dff]}Alien Morphology: Space Pirate\n{color[000000ff]}Numerous injuries detected. The resulting internal organ failure and biofluid hemorrhage has reduced combat ability by 70%. Vitals severely deteriorated.
 Aberax_Title	Aberax
@@ -223,7 +223,7 @@ Heavy_Trooper_Title	VUE-995
 Heavy_Trooper_Description	VUE-995 is a battle android used by the Galactic Federation. He was originally developed to replace humans piloting aircraft and vehicles, primarily fighters and armored battle mechs. He possesses significant combat prowess, with strength comparable to heavy machinery, and a standard loadout that includes shoulder-mounted launchers designed to fire several small missiles at once. At the heel of each of VUE-995's palms is a "sonic boom" device that emits frequencies capable of disintegrating organic material, which can be used for support functions such as obstacle destruction, as well as threat elimination. Though his programming is not designed to allow for emotions, there have been reports of emotional simulation when in operation for longer durations.
 Heavy_Trooper_Preview	{color[00ff9dff]}Galactic Federation Android: VUE-995{color[000000ff]}\nBattle android pilot of Heavyweight-Class Golem war mechs. He is equipped with a minimissile launcher on each shoulder and palm-mounted sonic-boom emitters.
 Junior_Trooper_Title	Nora Armstrong
-Junior_Trooper_Description	Private Nora Armstrong is a soldier in the Galactic Federation, currently assigned to the UTO Research Center. She excels in vehicle operation and mechanics and is known for her sharp intuition and skill when faced with piloting vehicles she has never encountered.\n\nThough she may sometimes falter when faced with situations demanding composure and objective decision making, she still has an excellent track record of solving complex issues thanks to her bright and direct personality. She strongly admires Samus Aran as a role model for her famously unshakable demeanor, though her enthusiastic outbursts about the bounty hunter's exploits regularly draw the ire of her superiors.
+Junior_Trooper_Description	Private Nora Armstrong is a soldier in the\nGalactic Federation, currently assigned to\nthe UTO Research Center. She excels in\nvehicle operation and mechanics and is\nknown for her sharp intuition and skill when\npiloting vehicles she has never encountered.\n\nThough she may sometimes falter when\nfaced with situations demanding composure\nand objective decision making, she still has\nan excellent track record of solving complex\nissues thanks to her bright and direct\npersonality. She strongly admires Samus\nAran as a role model for her famously\nunshakable demeanor, though her\nenthusiastic outbursts about the bounty\nhunter's exploits regularly draw the ire of\nher superiors.
 Junior_Trooper_Preview	{color[00ff9dff]}Galactic Federation Private: Nora Armstrong{color[000000ff]}\nSoldier assigned to the UTO Research Center. Armed with an RT-6336 submachine gun. Responsible for piloting vehicles and has vast knowledge of machinery.
 Junior_Trooper_Unknown_Preview	Galactic Federation Trooper:\nPowered armor suit is equipped with thrusters on the back, allowing for increased jumping power and safer descents from higher elevations.
 Sniper_Trooper_Title	Reger Tokabi
@@ -241,7 +241,7 @@ Psybot_Heavy_Gunner_Description	Psy-bot Gunners are soldier-model battle mechano
 Psybot_Heavy_Gunner_Preview	{color[00ff9dff]}Mechanoid: Psy-bot Gunner\n{color[000000ff]}Heavyweight-class Psy-bot that prioritizes offensive strength. It is equipped with small, guided-energy-sphere launchers on both shoulders.
 Psybot_Inactive_Preview	Psy-bot set to inactive mode. It will not activate unless given a command via tuned Psychic waves. It will fold in place if struck.
 Psybot_Shield_Title	Psy-bot Shield
-Psybot_Shield_Description	The Psy-bot Shield is a soldier-model battle mechanoid with a device on its left shoulder that generates energy fields able to reflect any beam attack. This can act as a defensive shield or be used as an offensive weapon by raising the device's output and ramming into threats with the strengthened shield.\n\nThe shield itself can be pulled apart and destroyed with the Psychic Lasso.
+Psybot_Shield_Description	The Psy-bot Shield is a soldier-model battle\nmechanoid with a device on its left arm that\ngenerates energy fields able to reflect any\nbeam attack. This can act as a defensive\nshield or be used as an offensive weapon\nby raising the device's output and ramming\ninto threats with the strengthened shield.\n\nThe shield itself can be pulled apart and\ndestroyed with the Psychic Lasso.
 Psybot_Shield_Preview	{color[00ff9dff]}Mechanoid: Psy-bot Shield\n{color[000000ff]}Psy-bot with an energy shield equipped to its left arm that reflects beam attacks. Its shield can be removed with a forceful pull.
 Psybot_Shocker_Title	Psy-bot Shocker
 Psybot_Shocker_Description	The Psy-bot Shocker is a soldier-model battle mechanoid with electric-shock-wave devices on each leg and side thrusters for added mobility. Upon landing, they will send out a wave of electricity forward along the ground in a 180° arc. The strength of the electricity can vary, with maximum output requiring time to charge. While they are charging, a defensive energy shield is deployed to guard against attacks.
@@ -253,7 +253,7 @@ PsybotTurret_Light_Title	Lamorn Beam Turret
 PsybotTurret_Light_Description	Lamorn Beam Turrets are autonomous beam cannons designed to repel trespassing threats and vermin. When their motion sensors detect a threat, they unfold from their standby configuration to become a gun emplacement, continuously launching pairs of electromagnetic beam shots.\n\nThey are lightly armored and can easily be destroyed by standard firearms. Freezing attacks will disable the turret, while attacks that shock will allow them to be physically pulled away from their station.
 PsybotTurret_Light_Preview	{color[00ff9dff]}Lamorn Beam Turret:{color[000000ff]}\nAn AI-controlled beam cannon that automatically\nattacks intruders within the facility. It is vulnerable\nto cold and can be destroyed with electric shocks.
 PsybotTurret_Heavy_Title	Lamorn Heavy Turret
-PsybotTurret_Heavy_Description	Lamorn Heavy Turrets are automated beam cannons that offer improved defensive capabilities over their standard counterparts.\n\nEach shot is more powerful, and the number fired is increased to a volley of four, while the armor is also much thicker.\n\nHowever, operation can still be temporarily halted if the turret is frozen or if subjected to electric shock. If electrified, it can also be physically pulled free from its station.
+PsybotTurret_Heavy_Description	Lamorn Heavy Turrets are automated beam\ncannons that offer improved defensive\ncapabilities over the standard model.\n\nEach shot is more powerful, and the number\nfired is increased to a volley of four, while\nthe armor is also much thicker.\n\nHowever, operation can still be temporarily\nhalted if the turret is frozen or if subjected to\nelectric shock. If electrified, it can also be\nphysically pulled free from its station.
 PsybotTurret_Heavy_Preview	{color[00ff9dff]}Lamorn Heavy Turret:{color[000000ff]}\nAI-controlled beam cannon that is stronger and more durable than a normal beam turret, though still vulnerable to electric shocks and freezing.
 Suppressor_Tank_Speed_Title	Light Maintenance Tank
 Suppressor_Tank_Speed_Description	The Light Maintenance Tank is a smaller model that was developed to perform repairs and other work in pipes and passageways too narrow for its standard counterpart. They were mainly deployed to the biological research facility in Ice Belt.\n\nWhile being smaller and lighter allows for faster movement than the standard model, this comes at the cost of having weaker armor. However, if threatened, they are fitted with the same standard welding beam and are also able to emit a high-voltage shock at close range.
@@ -265,13 +265,13 @@ MCU_Title	Flight Drone MCU
 MCU_Description	The Flight Drone MCU (Master Control Unit) is an experimental mechanoid built by the factory's Administration AI to control the facility's over one hundred Flight Drones.\n\nPresumably, it was modified for combat after Samus Aran's arrival on Viewros. Three energy spheres surround the MCU to defend it by forming a shield. These spheres can also attack using beam shots. The MCU itself is armed with a charged particle cannon.\n\nIf all energy spheres are destroyed, the MCU will briefly malfunction. However, because the spheres can quickly self-repair, they must all be destroyed at the same time for this to occur. Attacking the MCU will also require thinning its defensive wall of drones.
 MCU_Preview	{color[00ff9dff]}Mechanoid: Flight Drone MCU{color[000000ff]}\nManages Flight Drones produced by the vehicle factory's Administration AI. Analysis implies that modifications for battle have been made.{[0004]}Its core is defended by three energy spheres. If all are destroyed, the MCU will briefly malfunction. However, the spheres quickly self-repair, so they must all be destroyed at the same time for this to occur.
 DroneSwarm_Title	Flight Drone
-DroneSwarm_Description	Flight Drones are multipurpose mechanoids and were formed as an experiment by the factory's Administration AI.\n\nEquipped with an enhanced iteration of the Scanner Drone antigravity engine, Flight Drones have extensive movement freedom even at high speeds. They lack independence, with all behavior directed by a separate control unit. They are unarmed and able to remain in operation as long as they stay in areas where electricity can be freely absorbed.
+DroneSwarm_Description	Flight Drones are multipurpose mechanoids\nand were formed as an experiment by the\nfactory's Administration AI.\n\nEquipped with an enhanced iteration of the\nScanner Drone antigravity engine, Flight\nDrones have extensive movement freedom\neven at high speeds. They lack\nindependence, with all behavior directed by\na separate control unit. They are unarmed\nand able to remain in operation as long as\nthey stay in areas where electricity can be\nfreely absorbed.
 DroneSwarm_Preview	{color[00ff9dff]}Mechanoid: Flight Drone{color[000000ff]}\nFlying mechanoids produced as an experiment by the vehicle factory's Administration AI. They are controlled by a separate management unit.
 RobotScanner_Title	Scanner Drone
 RobotScanner_Description	Scanner Drones are autonomous robots created to help maintain the Volt Forge vehicle factory. They are equipped with a small antigravity engine, enabling free movement while in the air. Their X-ray camera inspects factory equipment, sending repair requests to Maintenance Tanks if a malfunction is detected. While programmed mainly for maintenance tasks, they are also equipped with beam weapons to combat threats to itself or to other nearby drones.
 RobotScanner_Preview	{color[00ff9dff]}Mechanoid: Scanner Drone{color[000000ff]}\nAutonomous AI drone for facility maintenance.\nEquipped with an X-ray scanner and linked to\na Maintenance Tank.
 ScoutBot_Title	Scout Bot
-ScoutBot_Description	Scout Bots were created during the Machine Era to find precious resources. Once sent upward, they scan a 500Lam radius using ultrasonic wave reflection. The data is then fed to a linked map that then displays the location of mineral deposits and other valuables. Most Scout Bots were left to weather the environment and, due to natural degradation, may no longer function.
+ScoutBot_Description	Scout Bots were created during the Machine\nEra to find precious resources. Once\ndeployed to an assigned area, they perform\nscans using ultrasonic-wave reflection. The\ndata is then fed to a linked map displaying\nthe location of mineral deposits and other\nvaluables. Most Scout Bots were left to\nweather the environment and, due to natural\ndegradation, may no longer function.
 ScoutBot_NoPower_Preview	{color[00ff9dff]}Mechanoid: Scout Bot{color[000000ff]}\nEmits ultrasonic waves from overhead to detect and map the positions of valuables in the area. An electric shock will activate it.
 ScoutBot_Powered_Preview	{color[00ff9dff]}Mechanoid: Scout Bot{color[000000ff]}\nTransmits ultrasonic waves from overhead and\ndisplays the positions of detected valuables within\nthe zone on the map. Access code approved.
 ScoutBot_Dead_Preview	Scout Bot internal circuitry has shorted and ceased\nfunctioning. Repair or replacement will be required to\nrestore function.
@@ -335,7 +335,7 @@ Ice_Barbwing_Title	Dartwing
 Ice_Barbwing_Description	The Dartwing is a chiroptera variant adapted to freezing climates.\n\nThe claws at the tips of their feet are used to dig into protrusions or grade differences, enabling them to hang upside down to rest. To reduce the energy expense of bodily thermoregulation, they live in caves or abandoned buildings where fewer variances in temperature and humidity are likely to occur. They are nocturnal and have poor vision and instead use hearing to perceive their surroundings.\n\nIf they detect the sound of an intruder in their territory, they will attempt to glide down and crash into the invader using their evolved patagium. Once in flight, their trajectory will take them to the location of the original sound, meaning if their target moves quickly enough, Dartwings will instead collide with walls or other objects and perish.
 Ice_Barbwing_Preview	{color[00ff9dff]}Aerial Morphology: Dartwing\n{color[000000ff]}Bat variant with evolved arm and leg patagia, this creature will suspend its hind legs, then glide through the air to attack its prey.
 Ice_Bat_Swarm_Title	Blue Krauk
-Ice_Bat_Swarm_Description	The Blue Krauk is a chiroptera variant adapted to frigid climates. By flapping the wing-like membrane formed by their front legs as they glide, they are able to fly freely.\n\nTo conserve stamina, they undulate their bodies to reduce air resistance, which allows them to fly for longer periods of time.\n\nTheir legs have degenerated, meaning they are unable to land or stand up. Once they take flight, they will continue to fly for as long as they are able, even sleeping while in flight by resting half of their brain at a time.\n\nThey habitually form groups of around twenty, including a leader who heads the group and directs the others by making sounds from their antennae. They rely entirely on these sound waves, and should an obstacle suddenly appear in their path—and if the leader fails to make large enough movements to instruct the others to avoid it—they will simply collide with that obstacle.
+Ice_Bat_Swarm_Description	The Blue Krauk is a chiroptera variant\nadapted to frigid climates. By flapping the\nwinglike membrane formed by their front\nlegs as they glide, they are able to fly freely.\n\nTo conserve stamina, they undulate their\nbodies to reduce air resistance, which\nallows them to fly for longer periods of time.\n\nTheir legs have degenerated, meaning they\nare unable to land or stand up. Once they\ntake flight, they will continue to fly for as\nlong as they are able, even sleeping while in\nflight by resting half of their brain at a time.\n\nThey habitually form groups of around\ntwenty, including a leader who heads the\ngroup and directs the others using sounds\nfrom their antennae. They rely entirely on\nthese sound waves, and should an obstacle\nsuddenly appear in their path—and if the\nleader fails to make large enough\nmovements to instruct the others to avoid\nit—they will simply collide with that obstacle.
 Ice_Bat_Swarm_Preview	{color[00ff9dff]}Aerial Morphology: Blue Krauk{color[000000ff]}\nChiroptera variant that flies using their patagium wings. The leader guides their colony by emitting sound waves from their antennae.
 Preload\MPR4\PreloadMP4.pak\Creatures_SolValley.MSBT
 Sand_Griever_Title	Sand Griever
@@ -428,7 +428,7 @@ CreditsEntry_32	Gray Ginther  •  David Salaiz  •  Joe Lee
 CreditsEntry_33	{size[7d00]}{color[654ee1ff]}Environment Art{color[000000ff]}{size[6400]}
 CreditsEntry_34	{color[654ee1ff]}Environment Art Manager{color[000000ff]}  {[0105]}  Greg Frizzell
 CreditsEntry_35	{color[654ee1ff]}Environment Artists{color[000000ff]}
-CreditsEntry_36	Ryan Powell  •  Teague Schultz  •  Sean Horton  •  Matt Manchester  •  David DeCoster\nRussell Lingo  •  Jennica Derksen  •  Tony Clark  •  James Reed Ketcham\nKenneth Kozan  •  Rodrigo Brea  •  Tiffany Griffith   •  Chris J Medina
+CreditsEntry_36	Ryan Powell  •  Teague Schultz  •  Sean Horton  •  Matt Manchester  •  David DeCoster\nRussell Lingo  •  Jennica Derksen  •  Tony Clark  •  James Reed Ketcham\nKenneth Kozan  •  Rodrigo Brea  •  Tiffany Griffith   •  Chris J. Medina
 CreditsEntry_37	{color[654ee1ff]}Materials Artist{color[000000ff]}  {[0105]}  Chris Lewis
 CreditsEntry_38	{color[654ee1ff]}Contract Environment Artists{color[000000ff]}
 CreditsEntry_39	Jonathon Banks  •  Jonathan Garcia  •  Derek Goeckeritz  •  Kat Gray  •  Chris Mott\nWilliam Petrosky  •  Alex Petrulis  •  Tyler Siemers  •  Edward Tejeiro
@@ -442,7 +442,7 @@ CreditsEntry_46	{color[654ee1ff]}Lead Lighting Artist{color[000000ff]}  {[0105]}
 CreditsEntry_47	{color[654ee1ff]}Lighting Artists{color[000000ff]}
 CreditsEntry_48	Chadwick Orr  •  Josh Slezak
 CreditsEntry_49	{color[654ee1ff]}Contract Lighting Artists{color[000000ff]}
-CreditsEntry_50	Ayesha Baugh  •  Marina Czarnecki  •  Brian Ellebracht  •  Thomas Haase  •  Brandon Habib\nSteven Hensley  •  Farhez Rayani  •  Dan Wallace  •  Thomas Marion Wright  •  Kelly Koay\nFelix J Mendoza  •  Will Podpechan  •  Keaton Jazz Kramer
+CreditsEntry_50	Ayesha Baugh  •  Marina Czarnecki  •  Brian Ellebracht  •  Thomas Haase  •  Brandon Habib\nSteven Hensley  •  Farhez Rayani  •  Dan Wallace  •  Thomas Marion Wright  •  Kelly Koay\nFelix J. Mendoza  •  Will Podpechan  •  Keaton Jazz Kramer
 CreditsEntry_51	{size[7d00]}{color[654ee1ff]}Cinematics{color[000000ff]}{size[6400]}
 CreditsEntry_52	{color[654ee1ff]}Lead Cinematics{color[000000ff]}  {[0105]}  Koen Wooten
 CreditsEntry_53	{color[654ee1ff]}Contract Senior Writer{color[000000ff]}  {[0105]}  Jesse Lee Keeter
@@ -543,7 +543,7 @@ CreditsEntry_147	{color[654ee1ff]}Soprano Soloists{color[000000ff]}
 CreditsEntry_148	Elora Maren  •  Katshu
 CreditsEntry_149	{size[9600]}{color[654ee1ff]}Next Level Games{color[000000ff]}{size[6400]}
 CreditsEntry_150	{color[654ee1ff]}Game Designers{color[000000ff]}
-CreditsEntry_151	Matt McTavish  •  Cavin Yen •  Mark Bianchin
+CreditsEntry_151	Matt McTavish  •  Cavin Yen  •  Mark Bianchin  •  Christopher Rice
 CreditsEntry_152	{color[654ee1ff]}Special Thanks{color[000000ff]}  {[0105]}  Alex MacFarlane
 CreditsEntry_153	{size[9600]}{color[654ee1ff]}FXVille{color[000000ff]}{size[6400]}
 CreditsEntry_154	{color[654ee1ff]}CEO{color[000000ff]}  {[0105]}  Joe Olson
@@ -574,7 +574,7 @@ CreditsEntry_178	Bennett Ewanchyna  •  Daniel Davie
 CreditsEntry_179	{color[654ee1ff]}Jr. Modeler{color[000000ff]}  {[0105]}  Zi Xin (Lucy) Zhu
 CreditsEntry_180	{color[654ee1ff]}Unreal Generalist{color[000000ff]}  {[0105]}  David Chiang
 CreditsEntry_181	{color[654ee1ff]}Matte Painter{color[000000ff]}  {[0105]}  Ryan Ingram
-CreditsEntry_182	{color[654ee1ff]}Sr FX Artists{color[000000ff]}
+CreditsEntry_182	{color[654ee1ff]}Sr. FX Artists{color[000000ff]}
 CreditsEntry_183	J.M. Santiago  •  Nikhil Chandra Soma
 CreditsEntry_184	{color[654ee1ff]}FX Artist{color[000000ff]}  {[0105]}  Jay Lee
 CreditsEntry_185	{color[654ee1ff]}COO{color[000000ff]}  {[0105]}  Jo'Sun Fu
@@ -698,7 +698,7 @@ CreditsEntry_302	{color[654ee1ff]}Software Engineers{color[000000ff]}
 CreditsEntry_303	Yanis Abidet  •  Luc Arnould  •  Félix Béasse  •  Joseph Cabanis  •  Arthur Carré\nSamuel Chaput  •  Clément Ciranna  •  Benjamin Couratin  •  Rémi Dayon\nLogan Devillard  •  Jame Floc’h Le Carour  •  Sonia Hammami  •  Marius Jenin\nOskar Markowski  •  Clément Potin  •  Jean Ruiz Fabre  •  Alan Sanz\nAlexandre Spatola  •  Aloys Tetenoire  •  Victorien Vaisse  •  Benjamin Villa
 CreditsEntry_304	{color[654ee1ff]}Special Thanks{color[000000ff]}
 CreditsEntry_305	Justin Surber  •  Chen Wenjin
-CreditsEntry_306	{size[9600]}{color[654ee1ff]}Original Force Ltd.{color[000000ff]}{size[6400]}
+CreditsEntry_306	{size[9600]}{color[654ee1ff]}Original Force{color[000000ff]}{size[6400]}
 CreditsEntry_307	{color[654ee1ff]}CEO{color[000000ff]}  {[0105]}  Harley Zhao
 CreditsEntry_308	{color[654ee1ff]}COO{color[000000ff]}  {[0105]}  Jie Zhou
 CreditsEntry_309	{color[654ee1ff]}Production Director{color[000000ff]}  {[0105]}  Cathy Song
@@ -878,7 +878,7 @@ CreditsEntry_482	{color[654ee1ff]}Translation{color[000000ff]}
 CreditsEntry_483	Roby Liebetruth  •  Michael Frisch  •  Jo Legge  •  Jean-Paul Hausmann  •  Laurent Godinot  •  Loïc Vermeire\nBarbara Pisani  •  Laura Barberis  •  Gunnar Friedrich  •  Hannah Siebert\nKatharina Glowotz  •  Blanca Hueso Taulés  •  Cristina Solà Picas  •  Eduardo Ruiz Ferrero\nJónatan Marcos Millán  •  Carsten Harmans  •  Coen van Rossum  •  Localsoft, S.L.
 CreditsEntry_484	{color[654ee1ff]}Quality Assurance{color[000000ff]}
 CreditsEntry_485	Ángel Moreno Colmena  •  Damien Brichard  •  Laura Villers  •  Mathieu Springinsfeld\nAndrea Marino  •  Matteo Marras  •  Niccolò Pellegrini  •  Christina Stoffel\nPeter Eiselt  •  Sarah Nist  •  Swen Harder  •  Eduardo Fernández Muñoz\nIbon Díez Maeztu  •  Julio Manzaneda Medina  •  Nils Dudal  •  Testronic
-CreditsEntry_486	{size[3200]}iQue (China)/Nintendo of Korea/Nintendo of Taiwan{size[6400]}
+CreditsEntry_486	iQue (China)/Nintendo of Korea/\nNintendo of Taiwan
 CreditsEntry_487	{color[654ee1ff]}Asian Localization Management{color[000000ff]}
 CreditsEntry_488	Dongyeon Kim  •  Kyoungim Na  •  Misa Matsumoto  •  Takaaki Ueno\nWang Zhonglong  •  Xu Ming
 CreditsEntry_489	{color[654ee1ff]}Asian Localization Translation{color[000000ff]}
@@ -975,11 +975,11 @@ AUTO_DIALOGUE_f27fd15f-5275-4b9f-9192-35e25f0d8b88	This technology, it's not as 
 AUTO_DIALOGUE_3f34f0d9-f39a-449b-800a-038f40c6faf0	Wonder what's so special about that machine? Why hide it in here?
 AUTO_DIALOGUE_cb3380cd-742e-4050-b500-687e9058f36f	How about we avoid any standing water.\nThose things seem pretty territorial.
 AUTO_DIALOGUE_64f6e3be-13ed-4d99-96fb-29cbce4c91a4	Wait, something's happening!
-AUTO_DIALOGUE_92eafeae-c540-4490-a9ac-9ef8752743a5	A missile expansion. Interesting.
+AUTO_DIALOGUE_92eafeae-c540-4490-a9ac-9ef8752743a5	A Missile expansion. Interesting.
 AUTO_DIALOGUE_99000412-305c-430a-aca0-e95cb982456e	Can you read that?
 AUTO_DIALOGUE_1f15f3f6-b5ec-4c51-a032-37ea76da6294	They really don't want anyone in here.
 AUTO_DIALOGUE_6740d84d-f2ce-497c-aafe-4b3c00d79350	Must be a sacred space.
-AUTO_DIALOGUE_527b7970-1828-4ad1-987a-739b5c6d1941	Try your missiles, Samus. You might be able to knock them\nright off the bridge.
+AUTO_DIALOGUE_527b7970-1828-4ad1-987a-739b5c6d1941	Try your Missiles, Samus. You might be able to knock them\nright off the bridge.
 AUTO_DIALOGUE_2bcffce2-a1a9-42f2-b8e6-77379ec19b59	Whoa, you sent that one flying!
 AUTO_DIALOGUE_caed9763-c3fb-4557-acf3-4bfcbb6d17fc	Aw, look at 'em fly. Nice shot!
 AUTO_DIALOGUE_aa1905b5-7824-464f-9610-88a9d47e0a8e	That was a close one. I wasn't sure we were gonna make it.\nThank you, Samus.
@@ -1106,7 +1106,7 @@ AUTO_DIALOGUE_c3b1e4cb-0e2f-4b90-8c39-09ffc743afa6	Hey, Samus. Come take a look.
 AUTO_DIALOGUE_478c5aa3-fb93-41da-b1c8-d30761ae2af9	That arm didn't stay down long!
 AUTO_DIALOGUE_3a8d634f-8680-460c-a718-732ceaf345fd	Psychic Lasso is working!
 AUTO_DIALOGUE_f3a65924-9f5b-430f-90fc-08bcb9c035d2	Yes! That's the last one!
-AUTO_DIALOGUE_e9374968-b40b-47c2-8d1e-38f87abd54d0	You should be able to drive over extremely hot surfaces.
+AUTO_DIALOGUE_e9374968-b40b-47c2-8d1e-38f87abd54d0	You should be able to drive over extremely\nhot surfaces.
 AUTO_DIALOGUE_84575459-ce52-4aa6-9450-e2a618647206	Oh no! The arms transformed!
 AUTO_DIALOGUE_7b734a58-f040-4b04-a8e1-ee75a5d4dcd5	More arms!
 AUTO_DIALOGUE_ffb1e04a-d690-44bd-98c4-1d321562298a	More dragon heads!
@@ -1397,7 +1397,7 @@ AUTO_DIALOGUE_3579ad15-fbc1-4398-b44c-a8d87a776b11	Let me take some time to chec
 AUTO_DIALOGUE_857322e9-a57f-445a-9322-636cc76e43ab	Finally, it's time to say goodbye to Viewros. I'm a little sad, but\nlet's go home.
 AUTO_DIALOGUE_16cfe59b-3efd-4b52-bc1c-df9a14a8387f	This room is full of interesting stuff. You may wanna use Scan Visor to get more info.
 AUTO_DIALOGUE_dabd137d-f825-4f04-bbef-c74e468718da	Have you found anything that might unlock this?
-JESS_ADD_079	If you run across anything that's so tough you can't get through it, missiles might help.
+JESS_ADD_079	If you run across anything that's so tough you can't get through it, Missiles might help.
 AUTO_DIALOGUE_b59039ab-883f-4f84-b778-736c3ccf0eea	If you can direct your beam, you may be able to reach that opening.
 AUTO_DIALOGUE_bdd02ded-7d45-4c46-9267-b62d59f0474a	Let's explore the temple.
 AUTO_DIALOGUE_b68d72ad-900e-43c6-82b3-3c3850bb4023	It's amazing that any of these security measures are still functioning. This temple is ancient.
@@ -1439,6 +1439,10 @@ FE_Slots	PLAY
 FE_Options	SETTINGS
 FE_Options_Subtitle	Additional options can be configured from the in-game settings screen.
 FE_Extras	GALLERY
+FE_Upgrade	NINTENDO SWITCH 2 EDITION
+FE_Upgrade_Description	You can purchase the Nintendo Switch 2 Edition upgrade pack in Nintendo eShop.\n\nOpen Nintendo eShop now?
+FE_Upgrade_Cancel	CANCEL
+FE_Upgrade_Open	OPEN
 FE_CompletedGame	[MISSION COMPLETE]
 FE_DifficultyTitle	DIFFICULTY
 FE_DifficultySubtitle	Select your desired gameplay difficulty level.
@@ -1456,6 +1460,7 @@ FE_Slot_PlayTime	Play Time: \{0}h \{1}m
 FE_Slot_Scans	Scans: \{0}%
 FE_Slot_Items	Items: \{0}%
 FE_HardModeUnlocked1	{color[00ff9dff]}HARD MODE{color[000000ff]} unlocked!
+FE_RadioTracksUnlocked	{color[00ff9dff]}NEW RADIO TRACKS{color[000000ff]} unlocked!
 FE_DialogCopy_Title	COPY DATA
 FE_DialogCopy	Copy save data from slot \{0} to \{1}?
 FE_DialogErase_Title	ERASE DATA
@@ -1463,7 +1468,7 @@ FE_DialogErase	Erase save data from slot \{0}?\n{color[e3251bff]}Warning: this c
 FE_CopyTooltip	Please select the destination slot.
 FE_OptionsTitle	SETTINGS
 FE_MenuSelect	{[0100|7bcd]} Select
-FE_MenuChange	{[0100|75cd]}{[0100|76cd]} Change
+FE_MenuChange	{[0100|75cd]}/{[0100|76cd]} Change
 FE_MenuBack	{[0100|7ccd]} Back
 FE_MenuRestore	{[0100|7dcd]} Restore Defaults
 FE_CopySlot	{[0100|8acd]} Copy
@@ -1489,8 +1494,7 @@ FE_ControlPreset2_DescriptionOU	Use  for movement. Use motion or mouse for ai
 FE_Extras_Title	GALLERY
 FE_Extras_Subtitle	Play the game to unlock media from Samus's adventure.
 FE_Extras_ShowFullscreen	{[0100|7bcd]} View Fullscreen
-FE_Extras_Pan	{[0100|80cd]} Pan
-FE_Extras_Zoom	{[0100|82cd]}{[0100|83cd]} Zoom
+FE_Extras_LegendImageViewer	{[0100|7ccd]} Back  {[0100|80cd]} Pan  {[0100|82cd]}/{[0100|83cd]} Zoom
 FE_Extras_Condition_Pack0	{color[00ff9dff]}Scan 25% of the Logbook\n{color[000000ff]}to unlock this gallery item.
 FE_Extras_Condition_Pack1	{color[00ff9dff]}Scan 50% of the Logbook\n{color[000000ff]}to unlock this gallery item.
 FE_Extras_Condition_Pack2	{color[00ff9dff]}Scan 75% of the Logbook\n{color[000000ff]}to unlock this gallery item.
@@ -1504,7 +1508,8 @@ FE_Extras_Condition_Pack9	{color[00ff9dff]}Beat the game on any difficulty\n{col
 FE_Extras_Condition_Pack10	{color[00ff9dff]}Beat the game on Hard difficulty\n{color[000000ff]}to unlock this gallery item.
 FE_Extras_Condition_Pack11	{color[00ff9dff]}Beat the game with 100% scans and items\n{color[000000ff]}to unlock this gallery item.
 FE_Extras_Condition_Pack12	{color[00ff9dff]}Find this cinematic in-game\n{color[000000ff]}to unlock this gallery item.
-Menu_SaveEndGame_Warning	Choosing to save now will finish this game of Metroid Prime 4: Beyond.\nDo you want to save completion data?
+FE_Extras_Condition_Pack13	{color[00ff9dff]}Beat the game with 100% Scans and Items{color[000000ff]}\nOR\n{color[00ff9dff]}Scan the Sylux amiibo and beat the game\n{color[000000ff]}to unlock this gallery item.
+Menu_SaveEndGame_Warning	Saving now will mark this save slot as MISSION COMPLETE.\n \nIf you later choose to start a new game in this save slot,\nthe Item and Scan completion data will be reset.\n \nDo you want to save?
 Menu_SaveEndGame_Failed	{color[e3251bff]}Save failure.{color[000000ff]} The save file is corrupted and needs to be formatted.
 Menu_SaveEndGame_ContinueTooltip	This will return to the Main Menu without saving.
 Menu_SaveEndGame_DeleteTooltip	Delete the corrupted save data.
@@ -1637,7 +1642,6 @@ HUD_TwoParam	\{0}/\{1}
 HUD_Countdown	\{0}:\{1}:\{2}
 HUD_ScrambleSource	~!@#$%^&*()-_=+;:'"/?.>,<
 HUD_ScanScrambleSource	1234567890.∙/\->>>>>|
-HUD_PsychicScrambleSource	
 HUD_CursorScrambleSource	_
 HUD_WeaponLabel_Missile	MISSILE LAUNCHER
 HUD_WeaponLabel_Fire	FIRE SHOT
@@ -1648,12 +1652,12 @@ HUD_CollectedTKFragment	TK Code fragment collected.
 HUD_Viola_CannotSummon	{color[e3251bff]}Vi-O-La cannot be\nsummoned right now.{color[000000ff]}
 HUD_Viola_CannotDismount	Vi-O-La cannot be\ndismounted right now.
 HUD_Viola_CannotDisengageSocket	Vi-O-La cannot disengage from the socket right now.
-HUD_Viola_Controls	{[0100|4dcd]} Play / Stop\n{[0100|4ecd]}{[0100|4fcd]} Change Track
-HUD_ViolaTrack00	Radio Track 1
-HUD_ViolaTrack01	Radio Track 2
-HUD_ViolaTrack02	Radio Track 3
-HUD_ViolaTrack03	Radio Track 4
-HUD_ViolaTrack04	Radio Track 5
+HUD_Viola_Controls	{[0100|4dcd]} Play/Stop\n{[0100|4ecd]}/{[0100|4fcd]} Change Track
+HUD_ViolaTrack00	Vi-O-La
+HUD_ViolaTrack01	Volt Forge
+HUD_ViolaTrack02	Xelios
+HUD_ViolaTrack03	Metroid Prime
+HUD_ViolaTrack04	Metroid Prime 4
 HUD_ViolaSpeedLimitedArea	SPEED\nLIMITED
 HUD_fp_1010_ViolaIC_Hint	Upgrade required to traverse lava.
 HUD_PowerBombPickupAcquired	{color[ffc529ff]}PSYCHIC POWER BOMB\n{color[000000ff]}ammo acquired!
@@ -1726,8 +1730,7 @@ ETank_Recovered_Alert	Energy Tank Recovered.
 HUD_ActivateTeleporterReminder	{color[e3251bff]}<<WARNING>>{color[000000ff]}\n{color[ffc529ff]}MASTER TELEPORTER\nDESTRUCTION IMMINENT!{color[000000ff]}
 HUD_SyluxSubspace_FreeAimEngaged_Regular	Free Aim mode engaged.\nPress {[0100|0fcd]} to recenter cursor.
 HUD_LegacySuitPower_Completed	Legacy Barrier Deactivated
-HUD_Ability_Message	Ability details available.
-HUD_Ability_Message_Inventory	{[0100|71cd]} Open Inventory
+Amiibo_Unlocks	New amiibo Unlocks Are Now Available!
 Preload\MPR4\PreloadMP4.pak\GenericNPC_Dialogue.MSBT
 Preload\MPR4\PreloadMP4.pak\GlobalUI.MSBT
 NameUnknown	???
@@ -2431,7 +2434,29 @@ glossary1051	Desolan System
 glossary1060	Chatoyant Vooloon
 glossary1058	Neddervine Conflax
 glossary1059	Depths of Feeling
-glossary1068	Shot Expansion Large
+glossary1072	Vi-O-La Skin
+glossary1073	Samus amiibo
+glossary1074	Samus & Vi-O-La amiibo
+glossary1075	Sylux amiibo
+glossary1076	Energy Shield
+glossary1077	Vi-O-La Radio
+glossary1078	Boost Recovery
+glossary1079	Vi-O-La Odometer
+glossary1080	Sylux Taunt
+glossary1081	Metroid sounds
+glossary1082	Samus Varia Theme
+glossary1083	Sylux Theme
+glossary1084	Metroid Prime Theme
+glossary1085	Space Pirate Theme
+glossary1086	Ancient Theme
+glossary1087	Psychic Era Theme
+glossary1088	Vi-O-La Suit Theme
+glossary1089	Vi-O-La
+glossary1090	Volt Forge
+glossary1091	Xelios
+glossary1092	METROID PRIME
+glossary1093	METROID PRIME 4
+glossary1068	Large Shot Expansion
 glossary1069	Vi-O-La Boost Charge
 Preload\MPR4\PreloadMP4.pak\Heavy_Ambient.MSBT
 JESS_ADD_051B	On my way. 
@@ -2706,7 +2731,7 @@ Item_GrappleChain_Preview	{color[00ff9dff]}Psychic Grapple:\n{color[000000ff]}En
 Item_GrappleLasso_Preview	{color[00ff9dff]}Psychic Lasso:{color[000000ff]}\nEnhances control over Psychic Energy, allowing it to be coiled into a rope. This rope can physically grab on to objects and pull them.
 Item_IceChip_Preview	Circuitry from a Cryopod's cooling system. Its protective cover is missing, allowing it to be safely removed.
 Item_IceShotUpgrade_Preview	{color[00ff9dff]}Charged Ice Shot:\n{color[000000ff]}Enhances the attack power of the Ice Shot. Charging first will launch a burst of rounds that ricochet.
-Item_MissileLauncher_Preview	{color[00ff9dff]}Missile Launcher:{color[000000ff]}\nExplosive combat item developed by the Galactic\nFederation. Restores the missile-launch function\nof the Arm Cannon.
+Item_MissileLauncher_Preview	{color[00ff9dff]}Missile Launcher:{color[000000ff]}\nExplosive combat item developed by the Galactic\nFederation. Restores the Missile-launch function\nof the Arm Cannon.
 Item_PowerBomb_Preview	{color[00ff9dff]}Psychic Power Bomb:{color[000000ff]}\nCompresses inner Psychic Energy to its limit before releasing it as a diffused-oscillation blast wave with incredible destructive power.
 Item_PsychicBoostBall_Preview	{color[00ff9dff]}Psychic Boost Ball:{color[000000ff]}\nEnables the Morph Ball to generate rotational\nmomentum, which can then be unleashed as a\nsurge of speed.
 Item_PsychicBoots_Preview	{color[00ff9dff]}Psychic Boots:{color[000000ff]}\nEnables standing on surfaces materialized by the\nPsychic Visor. Psychic Boots also allow the wearer\nto jump a second time while airborne.
@@ -2714,7 +2739,7 @@ Item_PsychicGlove_Preview	{color[00ff9dff]}Psychic Glove:{color[000000ff]}\nWork
 Item_SpiderBall_Preview	{color[00ff9dff]}Psychic Spider Ball:{color[000000ff]}\nAllows the Morph Ball to magnetically adhere to\nSpider Ball Tracks, as well as Psychic Ball Tracks.
 Item_SuperFireShot_Preview	{color[00ff9dff]}Super Fire Shot:\n{color[000000ff]}Significantly amplified over the Charged Fire Shot,\nthough requires more ammo to use. Launches a large\nnumber of burning rounds at enemies.
 Item_SuperIceShot_Preview	{color[00ff9dff]}Super Ice Shot:\n{color[000000ff]}Significantly amplified over the Charged Ice Shot,\nthough requires more ammo to use. Launches several\nfreezing rounds, each with more offensive power.
-Item_SuperMissile_Preview	{color[00ff9dff]}Super Missile:\n{color[000000ff]}A charged missile with greatly enhanced destructive\npower. Delivers a high-impact explosive blast.
+Item_SuperMissile_Preview	{color[00ff9dff]}Super Missile:\n{color[000000ff]}A charged Missile with greatly enhanced destructive\npower. Delivers a high-impact explosive blast.
 Item_SuperThunderShot_Preview	{color[00ff9dff]}Super Thunder Shot:\n{color[000000ff]}Significantly amplified over the Charged Thunder\nShot, though requires more ammo to use. Creates\na continuous electrical arc for a limited time.
 Item_ThunderChip_Preview	Circuitry from an electricity amplifier.\nManually removable.
 Item_ThunderShotUpgrade_Preview	{color[00ff9dff]}Charged Thunder Shot:\n{color[000000ff]}Consumes additional ammo to boost the power of the Thunder Shot, increasing the distance at which arcs can jump to other targets.
@@ -2722,8 +2747,9 @@ Item_Bomb_Description	Psychic Bombs are weapons usable in Morph Ball mode, equal
 Item_Ball_Description	The Morph Ball function of the Power Suit is used to transform into a sphere. This form enables access to certain pipes or narrow passages that are otherwise difficult to enter or traverse. Much like the Power Suit, the Morph Ball can be upgraded with additional functions.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nPress {[0100|50cd]} to enter and exit Morph Ball mode.\n\n{color[c2c2c2ff]}Mission Strategy\n{color[000000ff]}Morph Ball mode allows entry into small openings and {color[ffc529ff]}tunnels{color[000000ff]}. The change in height can also be used to duck beneath some attacks or roll under enemies.
 Item_BoostBall_Description	Boost Ball is an acceleration feature addition for Morph Ball\nmode that generates short bursts of high-speed rolling. This\ncan be used to power devices that support kinetic charging\nsuch as Spinners, for swift long-distance movement, and for\ntackling enemies.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nWhile in Morph Ball mode, press and hold {[0100|59cd]} then release to\nunleash a surge of speed. Once in motion, immediately pressing,\nholding, and releasing {[0100|59cd]} can extend the speed surge.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nBoost Ball can be used to shorten travel time, to avoid attacks\nduring battle, or to quickly flank enemies.
 Item_ChargeBeam_Description	The Charge Beam condenses beam energy inside the Arm Cannon and releases it all at once for increased damage. When fully charged, it is five times stronger than a Power Beam shot.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nHold {[0100|04cd]} to charge the beam, then release to fire.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nCharging draws in nearby {color[ffc529ff]}energy and ammunition{color[000000ff]}. Shots may be launched half charged or fully charged, depending on the charge's duration. Half-charged shots are quicker but less powerful. Fully charged shots take longer to power up but inflict maximum damage.
-Item_CombatVisor_Description	The Combat Visor is the suit's default vision mode. It displays remaining energy and missiles, a radar and minimap, and general information needed for combat and navigation.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nIf there is a valid target in view, holding {[0100|09cd]} will {color[ffc529ff]}lock aim{color[000000ff]} on to the target nearest to your reticle. When in other visor modes, press {[0100|0dcd]} or {[0100|04cd]} to return to the Combat Visor.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nThe {color[ffc529ff]}radar {color[000000ff]}in the top-left corner of the HUD shows the positions of both enemies and allies. The {color[ffc529ff]}minimap {color[000000ff]}in the top right shows a three-dimensional representation of your surroundings. It also displays other important information such as the current location, doors, and any custom markers that have been placed.
-Item_ControlBeam_Description	A {color[ffc529ff]}Control Beam{color[000000ff]} is a type of Psychic Charge Beam shot whose trajectory can be changed mid-flight using the Psychic Visor.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nSwitch to the Psychic Visor, press and hold {[0100|1ccd]} to charge a shot, then release to launch a Control Beam. Use {[0100|21cd]}/{[0100|22cd]} to steer the shot. If there is a {color[ffc529ff]}lock-on {color[000000ff]}target, holding {[0100|09cd]} will direct the Control Beam toward that target. Pressing {[0100|1ccd]} will immediately dissipate the shot.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nBecause it dramatically {color[ffc529ff]}slows the perception of time{color[000000ff]}, the Control Beam is very effective against fast-moving targets. Control Beam shots consist of three energy spheres, meaning that unless it collides with an obstacle, it can hit up to three targets. The concentration required by telepathy means rapid-fire shots are not possible and that the beam's travel distance is limited. Up to {color[ffc529ff]}three Control Beam shots{color[000000ff]} can be launched before a short recovery period becomes necessary.
+Item_CombatVisor_Description	The Combat Visor is the suit's default vision mode. It displays remaining energy and Missiles, a radar and minimap, and general information needed for combat and navigation.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nIf there is a valid target in view, holding {[0100|09cd]} will {color[ffc529ff]}lock aim{color[000000ff]} on to the target nearest to your reticle. When in other visor modes, press {[0100|0dcd]} or {[0100|04cd]} to return to the Combat Visor.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nThe {color[ffc529ff]}radar {color[000000ff]}in the top-left corner of the HUD shows the positions of both enemies and allies. The {color[ffc529ff]}minimap {color[000000ff]}in the top right shows a three-dimensional representation of your surroundings. It also displays other important information such as the current location, doors, and any custom markers that have been placed.
+Item_ControlBeam_Description	A {color[ffc529ff]}Control Beam{color[000000ff]} is a type of Psychic Charge Beam shot whose trajectory can be changed mid-flight using the Psychic Visor.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nSwitch to the Psychic Visor, press and hold {[0100|1ccd]} to charge a shot, then release to launch a Control Beam. Use {[0100|21cd]}/{[0100|22cd]} to steer the shot. If there is a {color[ffc529ff]}lock-on {color[000000ff]}target, holding {[0100|09cd]} will direct the Control Beam toward that target. Pressing {[0100|1ccd]} will immediately detonate the shot.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nBecause it dramatically {color[ffc529ff]}slows the perception of time{color[000000ff]}, the Control Beam is very effective against fast-moving targets. A Control Beam shot consists of three energy spheres, meaning that unless it collides with an obstacle, it can hit up to three targets. The concentration required by telepathy means rapid-fire shots are not possible and that the beam's travel distance is limited. Up to {color[ffc529ff]}three Control Beam shots{color[000000ff]} can be launched before a short recovery period becomes necessary.
+Item_ControlBeam_WithBoost_Description	A {color[ffc529ff]}Control Beam{color[000000ff]} is a type of Psychic Charge Beam shot whose trajectory can be changed mid-flight using the Psychic Visor.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nSwitch to the Psychic Visor, press and hold {[0100|1ccd]} to charge a shot, then release to launch a Control Beam. Use {[0100|21cd]}/{[0100|22cd]} to steer the shot. If there is a {color[ffc529ff]}lock-on {color[000000ff]}target, holding {[0100|09cd]} will direct the Control Beam toward that target. Pressing {[0100|1ccd]} will immediately detonate the shot. Hold {[0100|1fcd]} while the shot is in flight to boost its speed.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nBecause it dramatically {color[ffc529ff]}slows the perception of time{color[000000ff]}, the Control Beam is very effective against fast-moving targets. A Control Beam shot consists of three energy spheres, meaning that unless it collides with an obstacle, it can hit up to three targets. The concentration required by telepathy means rapid-fire shots are not possible and that the beam's travel distance is limited. Up to {color[ffc529ff]}three Control Beam shots{color[000000ff]} can be launched before a short recovery period becomes necessary.
 Item_EnergyTank_Description	{color[ffc529ff]}Energy Tanks{color[000000ff]} improve the suit's defense system and increase its total energy reserves by {color[ffc529ff]}100 points{color[000000ff]}.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nWhen an Energy Tank is acquired, all energy is fully restored.
 Item_FireChip_Description	This "Fire Chip" was found inside the Plasma Torch in Flare Pool. Its plasma heating is triggered by amplifying the kinetic energy of electrons through an arc discharge.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nA {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.
 Item_FireShot_Description	The Fire Shot is an Arm Cannon subweapon for launching\nhigh-heat projectiles. These shots will burn some objects\nand melt ice. Each shot consumes {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nPress {[0100|14cd]} to activate the Fire Shot subweapon, then\npress {[0100|05cd]} to fire.\n\n{color[c2c2c2ff]}Mission Strategy\n{color[000000ff]}Ignited targets will continue to take damage while burning.\nThe Fire Shot is especially effective against creatures native\nto cold climates. The Fire Shot can also be used to remove a\n{color[ffc529ff]}Lock Unit - Heat{color[000000ff]}.
@@ -2768,45 +2794,45 @@ Item_ViolaIC_Description	A Vi-O-La upgrade that adds {color[ffc529ff]}heat-resis
 Item_ViolaSuit_Description	The Vi-O-La Suit is the rider's suit for the Lamorn Neuro Bike\nMark VII, aka the {color[ffc529ff]}Vi-O-La{color[000000ff]}. By wearing the Vi-O-La Suit and\nriding the Vi-O-La, the user is then registered as the operator\nof that vehicle.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nPress {[0100|3ecd]} to summon and ride the registered Vi-O-La vehicle.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nOnce registered, a rider can send special frequency calls to\nsummon their Vi-O-La, even across great distances. However,\nif this is attempted in an area that is not drivable, the summoning\nwill fail.
 Item_ViolaSuitIC_Description	The Vi-O-La IC Suit offers improved heat resistance and reduces damage from molten rock. It also unlocks the Vi-O-La {color[ffc529ff]}IC mode {color[000000ff]}hover function, allowing the bike to travel over magma and lava.\n\n{color[c2c2c2ff]}Activation{color[000000ff]}\nBy riding the Vi-O-La while wearing the Vi-O-La IC Suit, the IC mode becomes available.\n\n{color[c2c2c2ff]}Mission Strategy{color[000000ff]}\nThe Vi-O-La IC Suit's heat resistance is limited and cannot fully protect against the heat from molten rock. Continue to be cautious when encountering extremely high temperatures.
 Acquire_BoostPip	{color[00ff9dff]}VI-O-LA BOOST TANK{color[000000ff]} acquired!{[0004]}Maximum Vi-O-La Boost capacity increased by {color[ffc529ff]}1{color[000000ff]}.
-Acquire_Bomb	{color[00ff9dff]}PSYCHIC BOMB{color[000000ff]} acquired!{[0004]}Psychic Bombs are usable only in Morph Ball mode. Up to {color[ffc529ff]}3 {color[000000ff]}can be placed at a time.{[0004]}The concussive blast of Psychic Bombs damages objects and enemies and can be used to perform a {color[ffc529ff]}Bomb Jump{color[000000ff]}. Bombs can be given Psychic Mote properties by pressing and holding {[0100|57cd]}.
-Acquire_BoostBall	{color[00ff9dff]}PSYCHIC BOOST BALL{color[000000ff]} acquired!{[0004]}In Morph Ball mode, press and hold {[0100|59cd]}, then release for a surge of speed.{[0004]}Boosting while on {color[ffc529ff]}half-pipe {color[000000ff]}terrain can generate momentum to launch higher. It can also be used to power a {color[ffc529ff]}Spinner {color[000000ff]}or for traveling on a materialized {color[ffc529ff]}Psychic Boost Rail{color[000000ff]}.
-Acquire_ControlBeam	{color[00ff9dff]}CONTROL BEAM{color[000000ff]} acquired!{[0004]}{color[ffc529ff]}Psychic Charge Beam{color[000000ff]} shots launched while using the Psychic Visor can now be controlled. Switch to the Psychic Visor, press and hold {[0100|1ccd]} to charge, then release to launch a maneuverable Control Beam shot. Use {[0100|21cd]}/{[0100|22cd]} to steer the shot.
-Acquire_EnergyTank	{color[00ff9dff]}ENERGY TANK {color[000000ff]}acquired!{[0004]}Maximum energy capacity increased by {color[ffc529ff]}100{color[000000ff]}.
-Acquire_FireChip	{color[00ff9dff]}FIRE CHIP{color[000000ff]} acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.
-Acquire_FireShot	{color[00ff9dff]}FIRE SHOT {color[000000ff]}acquired!{[0004]}New shot type accessible. Fire Shots launch\n{color[ffc529ff]}high-heat rounds{color[000000ff]}, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon,\nthen press {[0100|05cd]} to fire. The Fire Shot causes\ntargets to briefly burn after being hit and can\nmelt ice.
-Acquire_FireShotUpgrade	{color[00ff9dff]}CHARGED FIRE SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}3 Shot Ammo{color[000000ff]} to fire high-heat,\n{color[ffc529ff]}penetrative{color[000000ff]} projectiles.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon.\nPress and hold {[0100|05cd]} to charge, then release to\nlaunch a Charged Fire Shot.
-Acquire_SuperFireShot	{color[00ff9dff]}SUPER FIRE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}15 Shot Ammo {color[000000ff]}to launch an extended volley of high-heat, {color[ffc529ff]}penetrative{color[000000ff]} projectiles.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to launch a Super Fire Shot.
-Acquire_IceChip	{color[00ff9dff]}ICE CHIP {color[000000ff]}acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.
-Acquire_IceShot	{color[00ff9dff]}ICE SHOT{color[000000ff]} acquired!{[0004]}New shot type accessible. Ice Shots launch {color[ffc529ff]}icy projectiles{color[000000ff]}, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon, then press {[0100|05cd]} to fire. Ice Shots freeze targets and can briefly solidify lava and magma.
-Acquire_IceShotUpgrade	{color[00ff9dff]}CHARGED ICE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}3 Shot Ammo{color[000000ff]} to fire icy projectiles that can {color[ffc529ff]}ricochet{color[000000ff]}.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon. Press and hold {[0100|05cd]} to charge, then release to fire a Charged Ice Shot.
-Acquire_SuperIceShot	{color[00ff9dff]}SUPER ICE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}10 Shot Ammo {color[000000ff]}to launch a {color[ffc529ff]}storm {color[000000ff]}of icy projectiles that can ricochet.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to launch a Super Ice Shot.
-Acquire_GrappleChain	{color[00ff9dff]}PSYCHIC GRAPPLE {color[000000ff]}acquired!{[0004]}Aim at  and press and hold {[0100|09cd]} to attach and be pulled to a {color[ffc529ff]}Grapple Node{color[000000ff]} or to hang from a {color[ffc529ff]}Grapple Point{color[000000ff]}. Once they have been materialized, {color[ffc529ff]}Psychic Grapple Points{color[000000ff]} can also be used.
-Acquire_GrappleLasso	{color[00ff9dff]}PSYCHIC LASSO{color[000000ff]} acquired!{[0004]}While using {[0100|09cd]} to aim at , use {[0100|26cd]} to attach the Psychic Lasso, then use {[0100|2bcd]} to pull.
-Acquire_LegacySuit	{color[00ff9dff]}MEMORY FRUIT{color[000000ff]} acquired!\n{color[00ff9dff]}LEGACY SUIT{color[000000ff]} acquired!{[0004]}The Memory Fruit is the legacy of the Lamorn—it\nis a database containing all of their accumulated\nknowledge and history.{[0004]}The Legacy Suit is a Power Suit designed by the\nLamorn that can generate a protective {color[ffc529ff]}barrier{color[000000ff]}.\nTo activate, switch to the Psychic Visor, then\npress and hold {[0100|05cd]} to generate the barrier.\nThis consumes {color[ffc529ff]}35 Missile Ammo{color[000000ff]}.{[0004]}The barrier's power and duration are limited. Its\nenergy will deplete faster as it absorbs attacks.\nThe barrier also damages enemies that touch it.
+Acquire_Bomb	{color[00ff9dff]}PSYCHIC BOMB{color[000000ff]} acquired!{[0004]}Psychic Bombs are usable only in Morph Ball mode. Up to {color[ffc529ff]}3 {color[000000ff]}can be placed at a time.{[0004]}The concussive blast of Psychic Bombs damages objects and enemies and can be used to perform a {color[ffc529ff]}Bomb Jump{color[000000ff]}. Bombs can be given Psychic Mote properties by pressing and holding {[0100|57cd]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_BoostBall	{color[00ff9dff]}PSYCHIC BOOST BALL{color[000000ff]} acquired!{[0004]}In Morph Ball mode, press and hold {[0100|59cd]}, then release for a surge of speed.{[0004]}Boosting while on {color[ffc529ff]}half-pipe {color[000000ff]}terrain can generate momentum to launch higher. It can also be used to power a {color[ffc529ff]}Spinner {color[000000ff]}or for traveling on a materialized {color[ffc529ff]}Psychic Boost Rail{color[000000ff]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ControlBeam	{color[00ff9dff]}CONTROL BEAM{color[000000ff]} acquired!{[0004]}{color[ffc529ff]}Psychic Charge Beam{color[000000ff]} shots launched while using the Psychic Visor can now be controlled. Switch to the Psychic Visor, press and hold {[0100|1ccd]} to charge, then release to launch a maneuverable Control Beam shot. Use {[0100|21cd]}/{[0100|22cd]} to steer.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_EnergyTank	{color[00ff9dff]}ENERGY TANK {color[000000ff]}acquired!{[0004]}Maximum energy capacity increased by {color[ffc529ff]}100{color[000000ff]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_FireChip	{color[00ff9dff]}FIRE CHIP{color[000000ff]} acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_FireShot	{color[00ff9dff]}FIRE SHOT {color[000000ff]}acquired!{[0004]}New shot type accessible. Fire Shots launch\n{color[ffc529ff]}high-heat rounds{color[000000ff]}, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon,\nthen press {[0100|05cd]} to fire. The Fire Shot causes\ntargets to briefly burn after being hit and can\nmelt ice.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_FireShotUpgrade	{color[00ff9dff]}CHARGED FIRE SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}3 Shot Ammo{color[000000ff]} to fire high-heat,\n{color[ffc529ff]}penetrative{color[000000ff]} projectiles.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon.\nPress and hold {[0100|05cd]} to charge, then release to\nlaunch a Charged Fire Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_SuperFireShot	{color[00ff9dff]}SUPER FIRE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}15 Shot Ammo {color[000000ff]}to launch an extended volley of high-heat, {color[ffc529ff]}penetrative{color[000000ff]} projectiles.{[0004]}Press {[0100|14cd]} to activate the Fire Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to launch a Super Fire Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_IceChip	{color[00ff9dff]}ICE CHIP {color[000000ff]}acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_IceShot	{color[00ff9dff]}ICE SHOT{color[000000ff]} acquired!{[0004]}New shot type accessible. Ice Shots launch {color[ffc529ff]}icy projectiles{color[000000ff]}, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon, then press {[0100|05cd]} to fire. Ice Shots freeze targets and can briefly solidify lava and magma.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_IceShotUpgrade	{color[00ff9dff]}CHARGED ICE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}3 Shot Ammo{color[000000ff]} to fire icy projectiles that can {color[ffc529ff]}ricochet{color[000000ff]}.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon. Press and hold {[0100|05cd]} to charge, then release to fire a Charged Ice Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_SuperIceShot	{color[00ff9dff]}SUPER ICE SHOT{color[000000ff]} acquired!{[0004]}Consume {color[ffc529ff]}10 Shot Ammo {color[000000ff]}to launch a {color[ffc529ff]}storm {color[000000ff]}of icy projectiles that can ricochet.{[0004]}Press {[0100|13cd]} to activate the Ice Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to launch a Super Ice Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_GrappleChain	{color[00ff9dff]}PSYCHIC GRAPPLE {color[000000ff]}acquired!{[0004]}Aim at  and press and hold {[0100|09cd]} to attach and be pulled to a {color[ffc529ff]}Grapple Node{color[000000ff]} or to hang from a {color[ffc529ff]}Grapple Point{color[000000ff]}. Once they have been materialized, {color[ffc529ff]}Psychic Grapple Points{color[000000ff]} can also be used.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_GrappleLasso	{color[00ff9dff]}PSYCHIC LASSO{color[000000ff]} acquired!{[0004]}While using {[0100|09cd]} to aim at , use {[0100|26cd]} to attach the Psychic Lasso, then use {[0100|2bcd]} to pull.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_LegacySuit	{color[00ff9dff]}MEMORY FRUIT{color[000000ff]} acquired!\n{color[00ff9dff]}LEGACY SUIT{color[000000ff]} acquired!{[0004]}The Memory Fruit is the legacy of the Lamorn—it\nis a database containing all of their accumulated\nknowledge and history.{[0004]}The Legacy Suit is a Power Suit designed by the\nLamorn that can generate a protective {color[ffc529ff]}barrier{color[000000ff]}.\nTo activate, switch to the Psychic Visor, then\npress and hold {[0100|05cd]} to generate the barrier.\nThis consumes {color[ffc529ff]}35 Missile Ammo{color[000000ff]}.{[0004]}The barrier's power and duration are limited. Its\nenergy will deplete faster as it absorbs attacks.\nThe barrier damages enemies that touch it.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
 Acquire_MapData	{color[00ff9dff]}AREA MAP{color[000000ff]} acquired!{[0004]}Map data for this area has been downloaded.\nPress {[0100|71cd]} to open the map screen.
-Acquire_MechPart	{color[00ff9dff]}MECH PART{color[000000ff]} acquired!{[0004]}Missing Galactic Federation mech part found and\nteleported. Base Camp has received {color[ffc529ff]}\{1} of the 6{color[000000ff]} \nmech parts.
-Acquire_MechPartFinal	{color[00ff9dff]}MECH PART{color[000000ff]} acquired!{[0004]}Missing Galactic Federation mech part teleported\nto Base Camp. {color[ffc529ff]}All mech parts{color[000000ff]} found.
-Acquire_Missile	{color[00ff9dff]}MISSILE LAUNCHER {color[000000ff]}acquired!{[0004]}Missile-launch function has been restored.\nPress {[0100|05cd]} to launch an {color[ffc529ff]}explosive{color[000000ff]} missile with\n{color[ffc529ff]}target-tracking {color[000000ff]}capabilities.
+Acquire_MechPart	{color[00ff9dff]}MECH PART{color[000000ff]} acquired!{[0004]}Missing Galactic Federation mech part found and\nteleported. Base Camp has received {color[ffc529ff]}\{1} of the 6{color[000000ff]} \nmech parts.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_MechPartFinal	{color[00ff9dff]}MECH PART{color[000000ff]} acquired!{[0004]}Missing Galactic Federation mech part teleported\nto Base Camp. {color[ffc529ff]}All mech parts{color[000000ff]} found.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_Missile	{color[00ff9dff]}MISSILE LAUNCHER {color[000000ff]}acquired!{[0004]}Missile-launch function has been restored.\nPress {[0100|05cd]} to launch an {color[ffc529ff]}explosive{color[000000ff]} Missile with\n{color[ffc529ff]}target-tracking {color[000000ff]}capabilities.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
 Acquire_MissileExpansion	{color[00ff9dff]}MISSILE EXPANSION {color[000000ff]}acquired!{[0004]}Maximum Missile capacity increased by {color[ffc529ff]}5{color[000000ff]}.
-Acquire_PowerBomb	{color[00ff9dff]}PSYCHIC POWER BOMB{color[000000ff]} acquired!{[0004]}Produces a powerful diffused-oscillation\nblast wave of Psychic Energy when detonated.\nOnly {color[ffc529ff]}1 Psychic Power Bomb{color[000000ff]} can be placed\nat a time.{[0004]}While in Morph Ball mode, press {[0100|58cd]} to place a\nPsychic Power Bomb. To infuse a Psychic Power\nBomb with Mote properties, press and hold {[0100|58cd]}.
+Acquire_PowerBomb	{color[00ff9dff]}PSYCHIC POWER BOMB{color[000000ff]} acquired!{[0004]}Produces a powerful diffused-oscillation\nblast wave of Psychic Energy when detonated.\nOnly {color[ffc529ff]}1 Psychic Power Bomb{color[000000ff]} can be placed\nat a time.{[0004]}While in Morph Ball mode, press {[0100|58cd]} to place a\nPsychic Power Bomb. To give Mote properties to\na Psychic Power Bomb, press and hold {[0100|58cd]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
 Acquire_PowerBombExpansion	{color[00ff9dff]}PSYCHIC POWER BOMB\nEXPANSION{color[000000ff]} acquired!{[0004]}Maximum Psychic Power Bomb Ammo capacity increased by {color[ffc529ff]}1{color[000000ff]}.
-Acquire_PsychicBoots	{color[00ff9dff]}PSYCHIC BOOTS{color[000000ff]} acquired!{[0004]}Enables a second jump while airborne\nby pressing {[0100|06cd]}.{[0004]}{color[ffc529ff]}Psychic Platforms{color[000000ff]} can now be stood upon once they have been materialized.
-Acquire_PsychicCrystal	{color[00ff9dff]}PSYCHIC CRYSTAL{color[000000ff]} acquired!{[0004]}Releases the latent Psychic powers residing within you and enables interacting with Psychic technology using your visor.{[0004]}Press {[0100|04cd]} to fire a {color[ffc529ff]}Psychic Beam{color[000000ff]}.\nPress {[0100|0ecd]} to switch to the {color[ffc529ff]}Psychic Visor{color[000000ff]}.
-Acquire_PsychicGlove	{color[00ff9dff]}PSYCHIC GLOVE{color[000000ff]} acquired!{[0004]}Enables remote manipulation of {color[ffc529ff]}Psychic Motes\n{color[000000ff]}and {color[ffc529ff]}Psychic objects{color[000000ff]}.{[0004]}Switch to the Psychic Visor and hold {[0100|09cd]} to\ngrasp a target. They can then be manipulated\nwith {[0100|31cd]} and {[0100|32cd]}.
-Acquire_PsychicKey	{color[00ff9dff]}MASTER TELEPORTER KEY{color[000000ff]} acquired!{[0004]}One of the keys required to activate the Master\nTeleporter in Chrono Tower. A total of {color[ffc529ff]}5 keys\n{color[000000ff]}must be collected.
-Acquire_PsychicKeyFinal	{color[00ff9dff]}MASTER TELEPORTER KEY{color[000000ff]} acquired!{[0004]}One of the keys required to activate the Master Teleporter in Chrono Tower. All {color[ffc529ff]}5 keys{color[000000ff]} have now been collected.
+Acquire_PsychicBoots	{color[00ff9dff]}PSYCHIC BOOTS{color[000000ff]} acquired!{[0004]}Enables a second jump while airborne\nby pressing {[0100|06cd]}.{[0004]}{color[ffc529ff]}Psychic Platforms{color[000000ff]} can now be stood upon once they have been materialized.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_PsychicCrystal	{color[00ff9dff]}PSYCHIC CRYSTAL{color[000000ff]} acquired!{[0004]}Releases the latent Psychic powers residing within you and enables interacting with Psychic technology using your visor.{[0004]}Press {[0100|04cd]} to fire a {color[ffc529ff]}Psychic Beam{color[000000ff]}.\nPress {[0100|0ecd]} to switch to the {color[ffc529ff]}Psychic Visor{color[000000ff]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_PsychicGlove	{color[00ff9dff]}PSYCHIC GLOVE{color[000000ff]} acquired!{[0004]}Enables remote manipulation of {color[ffc529ff]}Psychic Motes\n{color[000000ff]}and {color[ffc529ff]}Psychic objects{color[000000ff]}.{[0004]}Switch to the Psychic Visor and hold {[0100|09cd]} to\ngrasp a target. They can then be manipulated\nwith {[0100|31cd]} and {[0100|32cd]}.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_PsychicKey	{color[00ff9dff]}MASTER TELEPORTER KEY{color[000000ff]} acquired!{[0004]}One of the keys required to activate the Master\nTeleporter in Chrono Tower. A total of {color[ffc529ff]}5 keys\n{color[000000ff]}must be collected.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_PsychicKeyFinal	{color[00ff9dff]}MASTER TELEPORTER KEY{color[000000ff]} acquired!{[0004]}One of the keys required to activate the Master Teleporter in Chrono Tower. All {color[ffc529ff]}5 keys{color[000000ff]} have now been collected.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
 Acquire_ShotExpansion	{color[00ff9dff]}LARGE SHOT EXPANSION {color[000000ff]}acquired!{[0004]}Maximum elemental Shot Ammo capacity increased by {color[ffc529ff]}20{color[000000ff]}.
-Acquire_SpiderBall	{color[00ff9dff]}PSYCHIC SPIDER BALL{color[000000ff]} acquired!{[0004]}While in Morph Ball mode, hold {[0100|97cd]} to magnetize\nand adhere to {color[ffc529ff]}Spider Ball Tracks{color[000000ff]} or to hang from\n{color[ffc529ff]}Tether Nodes{color[000000ff]}.{[0004]}Once they have been materialized, {color[ffc529ff]}Psychic Ball\nTracks{color[000000ff]} can also be used.
-Acquire_SuperMissile	{color[00ff9dff]}SUPER MISSILE {color[000000ff]}acquired!{[0004]}Combine {color[ffc529ff]}5 Missiles{color[000000ff]} to launch a devastating, explosive Super Missile.{[0004]}Press {[0100|16cd]} to activate the Missile subweapon, press and hold {[0100|05cd]} to charge a Super Missile, then release to launch.
-Acquire_TeleporterChip	{color[00ff9dff]}TELEPORTER CHIP{color[000000ff]} acquired!{[0004]}A chip designed by the Lamorn. A {color[ffc529ff]}Galactic\nFederation Engineer Level 4 or higher{color[000000ff]} can\nmodify it for use and embed it into a patch.
-Acquire_TeleporterPatch	{color[00ff9dff]}TELEPORTER PATCHES{color[000000ff]} acquired!{[0004]}Instantly teleports patched objects. These may be used only with {color[ffc529ff]}mech parts {color[000000ff]}for the{color[ffc529ff]} G.F. Heavyweight Golem mech MK-99{color[000000ff]}. The teleport destination is set to Base Camp. A total of{color[ffc529ff]} six patches{color[000000ff]} are available.
-Acquire_ThunderChip	{color[00ff9dff]}THUNDER CHIP{color[000000ff]} acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.
-Acquire_ThunderShot	{color[00ff9dff]}THUNDER SHOT {color[000000ff]}acquired!{[0004]}New shot type accessible. Thunder Shots launch\nelectrified rounds, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Use {[0100|15cd]} to activate the Thunder Shot subweapon,\nthen press {[0100|05cd]} to fire. The Thunder Shot sends\nhigh-voltage {color[ffc529ff]}electrical bursts{color[000000ff]} to targets and\nnearby objects. It can also be used to power\nsome devices.
-Acquire_ThunderShotUpgrade	{color[00ff9dff]}CHARGED THUNDER SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}5 Shot Ammo{color[000000ff]} to fire a {color[ffc529ff]}high-voltage\nburst{color[000000ff]} that often arcs to other targets.{[0004]}Use {[0100|15cd]} to switch to the Thunder Shot\nsubweapon. Press and hold {[0100|05cd]} to charge,\nthen release to fire a Charged Thunder Shot.
-Acquire_SuperThunderShot	{color[00ff9dff]}SUPER THUNDER SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}20 Shot Ammo {color[000000ff]}to fire a {color[ffc529ff]}sustained{color[000000ff]} electrified current.{[0004]}Press {[0100|15cd]} to activate the Thunder Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to fire a Super Thunder Shot.
-Acquire_ViolaSuit	{color[00ff9dff]}VI-O-LA SUIT{color[000000ff]} acquired!{[0004]}You can now ride Vi-O-La. To fully operate\nthe vehicle, {color[ffc529ff]}driver registration {color[000000ff]}is required.
-Acquire_ViolaSuitIC	{color[00ff9dff]}VI-O-LA IC SUIT{color[000000ff]} acquired!{[0004]}Suit upgraded with increased resistance to heat from molten rock. Enables Vi-O-La to transform into {color[ffc529ff]}Vi-O-La IC mode{color[000000ff]} automatically, which allows it to travel over magma and lava.
-Acquire_ControlBeamBoost	{color[00ff9dff]}CONTROL BEAM BOOST{color[000000ff]} acquired!{[0004]}Control Beam shots can now travel faster. Hold {[0100|1fcd]} while the shot is in flight to boost its speed.
+Acquire_SpiderBall	{color[00ff9dff]}PSYCHIC SPIDER BALL{color[000000ff]} acquired!{[0004]}While in Morph Ball mode, hold {[0100|97cd]} to magnetize\nand adhere to {color[ffc529ff]}Spider Ball Tracks{color[000000ff]} or to hang from\n{color[ffc529ff]}Tether Nodes{color[000000ff]}.{[0004]}Once they have been materialized, {color[ffc529ff]}Psychic Ball\nTracks{color[000000ff]} can also be used.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_SuperMissile	{color[00ff9dff]}SUPER MISSILE {color[000000ff]}acquired!{[0004]}Combine {color[ffc529ff]}5 Missiles{color[000000ff]} to launch a devastating, explosive Super Missile.{[0004]}Press {[0100|16cd]} to activate the Missile subweapon, press and hold {[0100|05cd]} to charge a Super Missile, then release to launch.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_TeleporterChip	{color[00ff9dff]}TELEPORTER CHIP{color[000000ff]} acquired!{[0004]}A chip designed by the Lamorn. A {color[ffc529ff]}Galactic\nFederation Engineer Level 4 or higher{color[000000ff]} can\nmodify it for use and embed it into a patch.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_TeleporterPatch	{color[00ff9dff]}TELEPORTER PATCHES{color[000000ff]} acquired!{[0004]}Instantly teleports patched objects. These may be used only with {color[ffc529ff]}mech parts {color[000000ff]}for the{color[ffc529ff]} G.F. Heavyweight Golem mech MK-99{color[000000ff]}. The teleport destination is set to Base Camp. A total of{color[ffc529ff]} six patches{color[000000ff]} are available.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ThunderChip	{color[00ff9dff]}THUNDER CHIP{color[000000ff]} acquired!{[0004]}A chip made by the Lamorn. A {color[ffc529ff]}Galactic Federation Engineer Level 4 or higher {color[000000ff]}can modify this chip and integrate it into your suit.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ThunderShot	{color[00ff9dff]}THUNDER SHOT {color[000000ff]}acquired!{[0004]}New shot type accessible. Thunder Shots launch\nelectrified rounds, consuming {color[ffc529ff]}1 Shot Ammo{color[000000ff]}.{[0004]}Use {[0100|15cd]} to activate the Thunder Shot subweapon,\nthen press {[0100|05cd]} to fire. The Thunder Shot sends\nhigh-voltage {color[ffc529ff]}electrical bursts{color[000000ff]} to targets and\nnearby objects. It can also be used to power\nsome devices.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ThunderShotUpgrade	{color[00ff9dff]}CHARGED THUNDER SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}5 Shot Ammo{color[000000ff]} to fire a {color[ffc529ff]}high-voltage\nburst{color[000000ff]} that often arcs to other targets.{[0004]}Use {[0100|15cd]} to switch to the Thunder Shot\nsubweapon. Press and hold {[0100|05cd]} to charge,\nthen release to fire a Charged Thunder Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_SuperThunderShot	{color[00ff9dff]}SUPER THUNDER SHOT {color[000000ff]}acquired!{[0004]}Consume {color[ffc529ff]}20 Shot Ammo {color[000000ff]}to fire a {color[ffc529ff]}sustained{color[000000ff]} electrified current.{[0004]}Press {[0100|15cd]} to activate the Thunder Shot subweapon. Press and hold {[0100|05cd]} until {color[ffc529ff]}fully charged{color[000000ff]}, then release to fire a Super Thunder Shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ViolaSuit	{color[00ff9dff]}VI-O-LA SUIT{color[000000ff]} acquired!{[0004]}You can now ride Vi-O-La. To fully operate\nthe vehicle, {color[ffc529ff]}driver registration {color[000000ff]}is required.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ViolaSuitIC	{color[00ff9dff]}VI-O-LA IC SUIT{color[000000ff]} acquired!{[0004]}Suit upgraded with increased resistance to heat from molten rock. Enables Vi-O-La to transform into {color[ffc529ff]}Vi-O-La IC mode{color[000000ff]} automatically, which allows it to travel over magma and lava.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
+Acquire_ControlBeamBoost	{color[00ff9dff]}CONTROL BEAM BOOST{color[000000ff]} acquired!{[0004]}Control Beam shots can now travel faster. Hold\n{[0100|1fcd]} to boost the speed of a shot.{[0004]}Open the menu with {[0100|71cd]} and check the Inventory for more information.
 Acquire_GreenEnergyCrystalFinder	{color[00ff9dff]}GREEN ENERGY CRYSTAL FINDER{color[000000ff]} acquired!{[0004]}The radar will now display the locations of\nGreen Energy Crystals.
 Acquire_PsychicBeamUpgrade	{color[00ff9dff]}PSYCHIC BEAM UPGRADE{color[000000ff]} acquired!{[0004]}Psychic Beam shots now travel faster and are\nmore damaging.
 Acquire_ScoutBotUpgrade	AREA MAP updated!{[0004]}Unacquired items in this area have been marked.\nPress {[0100|71cd]} to open the map screen.
@@ -2949,7 +2975,7 @@ AUTO_DIALOGUE_739cbc61-3256-4d15-93b5-345e4867da30	Eyyy! It's working!
 AUTO_DIALOGUE_a3c116b6-dbc4-4157-8706-3449df60bf8e	I can't believe he... Argh.
 AUTO_DIALOGUE_064aed48-7616-4fc6-ba15-d436a0273b19	Why...
 JESS_ADD_039	Grievers are coming. Be prepared.
-JESS_ADD_039A	Careful using missiles. The noise calls in more Grievers.
+JESS_ADD_039A	Careful using Missiles. The noise calls in more Grievers.
 AUTO_DIALOGUE_252b7fe7-0282-4ae0-8622-8320a76d7116	Missiles are calling more Grievers. Wanna try an\nelemental shot instead?
 AUTO_DIALOGUE_1d9bf2dc-f9ec-4387-9544-37abbc0689e9	Find something useful?
 AUTO_DIALOGUE_44668103-76fc-47ff-9108-c9ac5c4d0c8b	This looks like our way out. But how do we get through?
@@ -2958,7 +2984,7 @@ AUTO_DIALOGUE_e8f00b35-7844-47fb-83ca-254b531eb613	Gonna run you down.
 AUTO_DIALOGUE_8ce869bf-bc12-4825-8989-cdc3d2ef75a4	There's too many of them!
 AUTO_DIALOGUE_f2837bec-eaf9-455b-a6d0-b0258ab06418	They just keep coming!
 AUTO_DIALOGUE_b13937e1-9453-4338-8087-56682523e1bd	Looks like something's back there.
-JESS_ADD_044	Any way to get a bomb up there?
+JESS_ADD_044	Any way to get a Bomb up there?
 JESS_ADD_045	We need to find a way to break through the rubble back there.
 AUTO_DIALOGUE_3bd161f6-4799-44f5-b4f0-dd9229895f5b	What is that?
 AUTO_DIALOGUE_4825d0ae-f257-4098-a94d-6fbb3787ab02	An abandoned vehicle?
@@ -2980,7 +3006,7 @@ AUTO_DIALOGUE_53d7f37e-d5a3-449e-9a26-74e208076239	OK... Yeah...
 AUTO_DIALOGUE_0c08879a-371a-4772-b6cf-1234237a9805	Watch out!
 AUTO_DIALOGUE_5813dbcd-db50-4058-bde2-33c62f0831d3	I'll wait here. Let me know when you're ready to go after the key.
 AUTO_DIALOGUE_0f677f15-2c5e-40e3-a662-4761d9d51db0	Loud noises alert the enemy.
-AUTO_DIALOGUE_c9aa7830-5f97-44b2-9c2a-4793e0417a22	Stop with the missiles.
+AUTO_DIALOGUE_c9aa7830-5f97-44b2-9c2a-4793e0417a22	Stop with the Missiles.
 AUTO_DIALOGUE_b9725bae-dd8c-483c-9804-4f7157ef4f55	All we gotta do is make it down to the access gate.
 AUTO_DIALOGUE_57b9ab89-3cb5-4e3a-a453-366f452f72ca	We need to finish them off while we have the chance.
 AUTO_DIALOGUE_c208573b-10df-42e7-88e8-53bb94353646	Samus!
@@ -3660,6 +3686,7 @@ Legend_TabRight	{[0100|78cd]}
 Legend_PageLeft	{[0100|79cd]}
 Legend_PageRight	{[0100|7acd]}
 ScanButton_NextPage	{[0100|7bcd]}
+ScanButton_ScanReader_NextPage	{[0100|2fcd]}
 ScanButton_Idle	-
 ScanButton_OpenLogbook	{[0100|71cd]}
 ScanButton_OpenLogbookPrompt	View in Logbook
@@ -3684,7 +3711,7 @@ MenuTitle_Settings_EditControls	VIEW/EDIT CONTROLS
 MenuTitle_amiibo	amiibo
 Menu_ScanPercentage	SCANS: {color[00ff9dff]}\{0}%{color[000000ff]}
 MapSystemOffline	MAP SYSTEM: OFFLINE
-Menu_MapControls	\{3}  {[0100|71cd]} Exit  {[0100|7ccd]} Back  {[0100|82cd]}/{[0100|83cd]} Zoom  {[0100|80cd]} Pan\{0}\{1}\{2}
+Menu_MapControls	{[0100|71cd]} Exit  {[0100|7ccd]} Back  {[0100|82cd]}/{[0100|83cd]} Zoom  {[0100|80cd]} Pan\{0}\{1}\{2}\{3}
 Menu_MapControls_Rotate	  {[0100|7ecd]} Rotate
 Menu_MapControls_SwapToZone	  {[0100|84cd]} Zone Map
 Menu_MapControls_SwapToWorld	  {[0100|84cd]} World Map
@@ -3693,7 +3720,7 @@ Menu_MapControls_Marker_Disabled	  {color[80808040]} Marker{color[000000ff]}
 Menu_MapControls_EnterZone	  {[0100|7bcd]} Enter Zone
 Menu_MapControls_EnerZone_Disabled	{color[80808040]}  {[0100|7bcd]} Enter Zone{color[000000ff]}
 Menu_MapControls_Radio	 {[0100|8acd]} Radio
-Menu_MapControls_Floor	{[0100|8bcd]}{[0100|8ccd]} Area
+Menu_MapControls_Floor	{[0100|8bcd]}/{[0100|8ccd]} Area
 Menu_AddMarkerTitle	ADD MARKER
 Menu_EditMarkerTitle	EDIT MARKER
 Menu_AddMarkerLegend	{[0100|7ccd]} Cancel  {[0100|7bcd]} Set Marker
@@ -3716,6 +3743,7 @@ Menu_Mission_KeyLabel	Master Teleporter Keys
 Menu_Mission_GELabel	Green Energy Crystals
 Menu_Mission_MechPartsLabel	Mech Repairs
 Menu_Mission_ReturnToAltar	Return to the Altar of Legacy in Fury Green.
+Menu_Mission_AllCGECollected	100% Collected!
 Menu_LogbookHeader1	Biology
 Menu_LogbookHeader2	Machines
 Menu_LogbookHeader3	Lamorn Legacy
@@ -3940,7 +3968,7 @@ ControllerDiagramLabel_Viola_Accelerate	Accelerate
 ControllerDiagramLabel_Viola_MinimapToggle	Toggle Minimap
 ControllerDiagramLabel_Viola_RadioNext	Vi-O-La Radio: Next Track
 ControllerDiagramLabel_Viola_RadioPrevious	Vi-O-La Radio: Previous Track
-ControllerDiagramLabel_Viola_RadioPlayPause	Vi-O-La Radio: Play/Pause 
+ControllerDiagramLabel_Viola_RadioPlayPause	Vi-O-La Radio: Play/Stop
 ControllerDiagramLabel_Viola_Shoot	Fire Projectile
 ControllerDiagramLabel_Viola_Boost	Boost
 ControllerKeys_NX_A	
@@ -3966,40 +3994,68 @@ RemapMenu_StickSwap_Tooltip	Swapping Stick inputs will also swap motion inputs.
 RemapMenu_StickSwap_Tooltip_OU	Swapping Stick inputs will also swap motion and mouse inputs.
 Menu_amiiboScanner	SCAN amiibo
 Menu_amiiboViola	VI-O-LA SKIN
-Menu_amiiboSylux	SYLUX
+Menu_amiiboPsychicDetected	{color[00ff9dff]}Samus{color[000000ff]} amiibo detected!
+Menu_amiiboViolaDetected	{color[00ff9dff]}Samus & Vi-O-La{color[000000ff]} amiibo detected!
+Menu_amiiboSylux	{color[00ff9dff]}Sylux{color[000000ff]} amiibo detected!
+Menu_amiiboMetroidSeriesDetected	{color[00ff9dff]}Metroid series{color[000000ff]} amiibo detected!
 Menu_amiiboControls	{[0100|71cd]} Exit  {[0100|7ccd]} Back  {[0100|7bcd]} Select
 Menu_amiiboScannerControls	{[0100|7ccd]} Back
+Menu_amiiboUnlockControls	{[0100|7bcd]} Next
+Menu_amiiboPlayControls	{[0100|7bcd]} Play
+Menu_amiiboReplayControls	{[0100|7ccd]} Back  {[0100|7bcd]} Replay
+Menu_amiiboViolaSkinSelect	{[0100|71cd]} Exit  {[0100|75cd]}/{[0100|76cd]} Change Item  {[0100|7ccd]} Back  {[0100|7bcd]} Activate Skin
+Menu_amiiboViolaSkinSelect_Selected	{[0100|71cd]} Exit  {[0100|75cd]}/{[0100|76cd]} Change Item  {[0100|7ccd]} Back  {color[80808040]}{[0100|7bcd]} Activate Skin{color[000000ff]}
 Menu_amiiboScanner_Prompt	Please hold the amiibo next to the NFC touchpoint.
-Menu_amiiboScanner_Success	amiibo successfully scanned!
 Menu_amiiboTryLater_Title	FEATURE LOCKED
-Menu_amiiboTryLater_Description	This amiibo is used to unlock a feature that cannot be used until you have progressed further in the story. Please try again at a later time.
-Menu_amiiboRadio_Title	VI-O-LA RADIO
-Menu_amiiboRadio_Description	{color[00ff9dff]}Vi-O-La Radio Unlocked! {color[000000ff]}While riding on the Vi-O-La, you can change what music is playing. Press {[0100|4dcd]} while on the Vi-O-La to activate the Radio feature.
+Menu_amiiboTryLater_Description	This amiibo enables an additional feature that will become available once you have progressed further in the game. Please try again at a later point in the game.
+Menu_amiiboTryLater_TitleAlt	ADDITIONAL FEATURE LOCKED
+Menu_amiiboTryLater_DescriptionAlt	This amiibo enables an additional feature that will become available once you have progressed further in the game.
+Menu_amiiboShield_Title	{color[00ff9dff]}Energy Shield{color[000000ff]} unlocked!
+Menu_amiiboShield_Description	The Energy Shield {color[00ff9dff]}fully restores{color[000000ff]} all energy and provides additional energy to {color[00ff9dff]}absorb attacks{color[000000ff]}.{color[00ff9dff]}\n{color[000000ff]}Features unlocked by amiibo can be used with any save file.\n{color[ffc529ff]}Note:{color[000000ff]} The Energy Shield can be used only once per day per save file.
+Menu_amiiboRadio_Title	{color[00ff9dff]}Vi-O-La Radio{color[000000ff]} unlocked!
+Menu_amiiboRadio_Description	You can now {color[00ff9dff]}change the music that plays {color[000000ff]}while\nriding Vi-O-La in Sol Valley.\nChange music tracks with {[0100|4ecd]}/{[0100|4fcd]} and use\n{[0100|4dcd]} to play or stop.\nFinishing the game will add {color[00ff9dff]}two tracks{color[000000ff]}.
 Menu_amiiboHealth_Title	ENERGY SHIELD
-Menu_amiiboHealth_Description	Activate {color[00ff9dff]}Energy Shield{color[000000ff]}?\nYour energy will be fully recovered, and you will be\ninvulnerable to a certain amount of enemy damage.\n{color[ffc529ff]}Warning:{color[000000ff]} This is available only once per day.
-Menu_amiiboHealthTryLater_Description	You have already used the Energy Shield ability today. It can be activated only once per day. Please try again tomorrow.
-Menu_amiiboCustomizations_Title	VI-O-LA SKINS
-Menu_amiiboCustomizations_Description	{color[00ff9dff]}Vi-O-La Skins unlocked!{color[000000ff]} You can now choose alternate appearances for the Vi-O-La from the amiibo Menu. Additional skins will be unlocked as you play.
-Menu_amiiboBoost_Title	BOOST RECOVERY
-Menu_amiiboBoost_Description	Activate Vi-O-La Boost recovery?\nYour boost recovery speed will increase while in Sol Valley.\n{color[ffc529ff]}Warning:{color[000000ff]} Special boost is available only once per day.
-Menu_amiiboBoostTryLater_Description	Vi-O-La Boost recovery has already been used today. This ability can be activated only once per day. Please try again tomorrow.
-Menu_amiiboBoostSolValley_Description	While riding the Vi-O-La in Sol Valley, scan this amiibo from this menu in order to activate Vi-O-La Boost recovery.
+Menu_amiiboHealth_Description	Activate {color[00ff9dff]}Energy Shield{color[000000ff]}?\nAll energy will be fully restored, and you will be\nprovided additional energy to absorb attacks.\n{color[ffc529ff]}Note:{color[000000ff]} This is available only once per day.
+Menu_amiiboHealthIsActive_Description	Recharge {color[00ff9dff]}Energy Shield{color[000000ff]}?\nThe {color[00ff9dff]}Energy Shield{color[000000ff]} is active with \{0} energy\nremaining. Recharging now will refill the shield\nto \{1} energy.
+Menu_amiiboHealthTryLater_Description	This feature has already been used today.\nPlease try again tomorrow.
+Menu_amiiboHealthConfirm_Description	{color[00ff9dff]}Energy Shield{color[000000ff]} activated!\n\nYou can scan this amiibo tomorrow\nto activate the feature again.
+Menu_amiiboCustomizations_Title	{color[00ff9dff]}Vi-O-La Skin{color[000000ff]} unlocked!
+Menu_amiiboCustomizations_Description	{color[00ff9dff]}Vi-O-La's color scheme{color[000000ff]} can now be changed from the Vi-O-La Skin menu.\nNew skins are earned for every {color[00ff9dff]}50 km{color[000000ff]} driven on Vi-O-La. There are {color[00ff9dff]}8 skins {color[000000ff]}total. Scan the Samus & Vi-O-La amiibo to unlock a skin after traveling the required distance.\nFeatures unlocked by amiibo can be used with any save file.
+Menu_amiiboBoost_Title	{color[00ff9dff]}Boost Recovery{color[000000ff]} unlocked!
+Menu_amiiboBoost_Description	{color[00ff9dff]}Boost Recovery{color[000000ff]} causes Vi-O-La's Boost ability to recharge much faster. To activate it, enter Sol Valley and scan the Samus & Vi-O-La amiibo from this menu.\n\nBoost Recovery can be activated once per day and will deactivate\nwhen you leave Sol Valley.
+Menu_amiiboBoostActivate_Title	BOOST RECOVERY
+Menu_amiiboBoostActivate_Description	Activate {color[00ff9dff]}Boost Recovery{color[000000ff]}? Vi-O-La's Boost ability will recharge much faster until you leave Sol Valley.\n{color[ffc529ff]}Note:{color[000000ff]} This is available only once per day.
+Menu_amiiboBoostTryLater_Description	This feature has already been used today.\nPlease try again tomorrow.
+Menu_amiiboBoostSolValley_Description	This feature can be activated only while in {color[ffc529ff]}Sol Valley{color[000000ff]}.\n\nPlease open this menu from that location and try\nscanning this amiibo again.
+Menu_amiiboBoostIsActive_Description	Vi-O-La Boost Recovery is currently active.
+Menu_amiiboBoostConfirm_Description	{color[00ff9dff]}Boost Recovery{color[000000ff]} activated!\n\nYou can scan this amiibo tomorrow\nto activate the feature again.
 Menu_amiiboUnsupported_Title	UNSUPPORTED
-Menu_amiiboUnsupported_Description	This amiibo is not supported by this application.
-Menu_amiiboOdometer	\{0}
-Menu_amiiboOdometer_Header	DISTANCE TRAVELED
-Menu_amiiboOdometer_Description	You have now traveled {color[00ff9dff]}\{0}{color[000000ff]} kilometers on the Vi-O-La.
-Menu_amiiboOdometer_Unlocked	New Vi-O-La Skin Unlocked!
-Menu_amiiboTheater_Title	SYLUX FLASHBACK
-Menu_amiiboTheater_Description	{color[00ff9dff]}Sylux Memories Unlocked! {color[000000ff]}You can now watch Sylux's memories from the Main Menu.\nContinue playing the game to unlock Sylux's full memory.
+Menu_amiiboUnsupported_Description	This amiibo is not supported by this software.
+Menu_amiiboOdometer	{color[00ff9dff]}\{0}\{1} {color[000000ff]}m
+Menu_amiiboOdometer_Title	Vi-O-La Odometer
+Menu_amiiboOdometer_Header	Calculating distance traveled...
+Menu_amiiboOdometer_Total	TOTAL
+Menu_amiiboOdometer_NextUnlock	Next unlock:
+Menu_amiiboOdometer_NextUnlock_Meters	{color[00ff9dff]}\{0} {color[000000ff]}m
+Menu_amiiboOdometer_Unlocked	{color[00ff9dff]}\{0}{color[000000ff]} unlocked!
+Menu_amiiboTaunts_Title	{color[00ff9dff]}Sylux taunts{color[000000ff]} unlocked!
+Menu_amiiboTaunts_Description	Hear the {color[00ff9dff]}voice of the bounty hunter Sylux{color[000000ff]}, who hates Samus and the Galactic Federation.\nA random line will be selected each time the Sylux amiibo is scanned.\nFeatures unlocked by amiibo can be used with any save file.
+Menu_amiiboFlashbackUpdated_Title	{color[00ff9dff]}Gallery item{color[000000ff]} updated!
+Menu_amiiboFlashbackUpdated_Description	The Sylux amiibo has enabled easier access to a {color[00ff9dff]}special gallery movie{color[000000ff]}. The movie will now become available once you beat the game, regardless of your completion percentage.
+Menu_amiiboFlashbackUnlocked_Title	{color[00ff9dff]}Gallery item{color[000000ff]} unlocked!
+Menu_amiiboFlashbackUnlocked_Description	A {color[00ff9dff]}special gallery movie {color[000000ff]}has been unlocked.\nVisit the Gallery section of the Main Menu to view it.
+Menu_amiiboJingleUnlocked_Title	{color[00ff9dff]}Metroid sounds {color[000000ff]}unlocked!
+Menu_amiiboJingleUnlocked_Description	Scan any {color[00ff9dff]}Metroid {color[000000ff]}series amiibo to hear sounds from Metroid Prime 4: Beyond.\nA random sound will be selected each time a Metroid series amiibo is scanned.\nFeatures unlocked by amiibo can be used with any save file.
 Menu_amiiboViola_Customization_Prompt	Select Vi-O-La Skin
-Menu_amiiboViola_Customization_00	Default Skin
+Menu_amiiboViola_Customization_00	Default Theme
 Menu_amiiboViola_Customization_01	Samus Varia Theme
 Menu_amiiboViola_Customization_02	Sylux Theme
 Menu_amiiboViola_Customization_03	Metroid Prime Theme
 Menu_amiiboViola_Customization_04	Space Pirate Theme
 Menu_amiiboViola_Customization_05	Ancient Theme
-Menu_amiiboViola_SupportInfo	You can scan your {color[00ff9dff]}Metroid Prime 4: Beyond{color[000000ff]} amiibo™ to unlock bonus elements and daily rewards.\nYou can also scan other {color[00ff9dff]}Metroid {color[000000ff]}series amiibo™ to hear a related Metroid Prime sound.
+Menu_amiiboViola_Customization_06	Psychic Era Theme
+Menu_amiiboViola_Customization_07	Vi-O-La Suit Theme
+Menu_amiiboViola_SupportInfo	Scan a {color[00ff9dff]}Metroid Prime 4: Beyond{color[000000ff]} amiibo to unlock bonus features and daily rewards.\nOther {color[00ff9dff]}Metroid {color[000000ff]}series amiibo can also be scanned to hear various sounds from this game.
 Menu_Save	SAVE MISSION PROGRESS?
 Menu_Saving	< SAVING PROGRESS... >
 Menu_SaveSucceeded	{color[00ff9dff]}Progress saved.{color[000000ff]} Energy and ammunition\nwill be fully replenished.
@@ -4045,14 +4101,14 @@ Door_Simple_GM_Preview	Lamorn Excavation Facility Door:\nIts sensor is made usin
 Door_TK_SV_Preview	Lamorn Door:\nUnlocks when its central sensor detects energy exposure, an explosion, or a concussive blast. Once unlocked, it will open when approached.
 Door_TK_SV_Locked_Preview	Lamorn Psychic Door:\nTo enable its beam sensor, use telekinesis to move the PK Stone from the top of the door to its center.
 Door_Tramline_FP_Preview	Tram Station Gate:\nMade from special heat-insulated alloys. Automatically opens and closes when tram moves near.
-MissileAmmoSmall_Preview	Missile Ammo (Small):\nReplenishes 5 missiles.
-MissileAmmoLarge_Preview	Missile Ammo (Large):\nReplenishes 20 missiles.
+MissileAmmoSmall_Preview	Missile Ammo (Small):\nReplenishes 5 Missiles.
+MissileAmmoLarge_Preview	Missile Ammo (Large):\nReplenishes 20 Missiles.
 EnergySmall_Preview	Energy (Small):\nRestores 10 points of energy.
 EnergyMedium_Preview	Energy (Medium):\nRestores 20 points of energy.
 EnergyLarge_Preview	Energy (Large):\nRestores 50 points of energy.
 EnergyHuge_Preview	Energy (Huge):\nRestores 100 points of energy.
 EnergyTank_Preview	Energy Tank:\nIncreases the defense system's energy limit by 100.\nAlso completely refills energy to capacity.
-MissileExpansion_Preview	Missile Expansion:\nIncreases maximum missile capacity by 5.\nAlso restores 5 missiles.
+MissileExpansion_Preview	Missile Expansion:\nIncreases maximum Missile capacity by 5.\nAlso restores 5 Missiles.
 ShotExpansion_Preview	Large Shot Expansion:\nIncreases maximum Shot Ammo by 20.\nAlso restores 20 Shot Ammo.
 ShotExpansionSmall_Preview	Shot Expansion:\nIncreases maximum Shot Ammo by 10.\nAlso restores 10 Shot Ammo.
 PowerBombExpansion_Preview	Psychic Power Bomb Expansion:\nIncreases maximum Psychic Power Bombs by 1.\nAlso restores 1 Psychic Power Bomb.
@@ -4885,7 +4941,7 @@ Tutorial_MorphBall_Exit	Press {[0100|07cd]} to exit Morph Ball mode and return t
 Tutorial_MorphBall_Bomb	Press {[0100|57cd]} to place a {color[ffc529ff]}Morph Ball Bomb{color[000000ff]}.
 Tutorial_MorphBall_Slot	Press {[0100|57cd]} to place a {color[ffc529ff]}Psychic Bomb{color[000000ff]}.
 Tutorial_MorphBall_Powerbomb	Press {[0100|58cd]} to deploy a\n{color[ffc529ff]}Psychic Power Bomb{color[000000ff]}.
-Tutorial_MorphBall_PowerbombJump	Perform a {color[ffc529ff]}Double Bomb Jump{color[000000ff]} by first\npressing {[0100|08cd]} to Spring Ball jump.\nThen press {[0100|57cd]} to place a bomb\nin midair. Then Spring Ball jump \nagain into the exploding bomb.
+Tutorial_MorphBall_PowerbombJump	Perform a {color[ffc529ff]}Double Bomb Jump{color[000000ff]} by first\npressing {[0100|08cd]} to Spring Ball jump.\nThen press {[0100|57cd]} to place a Bomb\nin midair. Then Spring Ball jump \nagain into the exploding Bomb.
 Tutorial_MorphBall_Spiderball	Hold {[0100|09cd]} to attach to and\nmove along a{color[ffc529ff]} track{color[000000ff]}.
 Tutorial_MorphBall_Spiderball_BombJump	While holding {[0100|09cd]} to attach to a Spider Ball Track, press {[0100|57cd]} to launch to another track.
 Tutorial_MorphBall_Spiderball_Tether	Jump close and hold {[0100|09cd]} in Morph Ball mode to attach to the {color[ffc529ff]}Tether Node{color[000000ff]}.
@@ -5478,7 +5534,7 @@ ib_2021_DNAClusterPod_Preview	DNA Sample Storage Case:\nStores and displays airt
 ib_2021_DNAEgg_Pod_02_01_Preview	DNA Sample ID: G-486\nSequence State: Incomplete\nHost State: Stable
 ib_2021_terminal_01_Preview	DNA Sample Data Terminal A:\nManages data sent from its sample storage case.
 ib_2021_terminal_02_Preview	DNA Sample Data Terminal B:\nManages data sent from its sample storage case.
-ib_2021_MorphBallOpening_Preview	Tunnel for Maintenance Tanks. Connects to "Tracking Operations" at the far end.
+ib_2021_MorphBallOpening_Preview	Tunnel for Maintenance Tanks. Connects to "Tracking Operations" across the hallway.
 ib_2022_TrackingOpsHologram_Preview	Hologram of planet Viewros. Currently displaying Griever tracking information gathered and compiled by each G Tracking Terminal.
 ib_2022_TrackingTerminal_01_Preview	G Tracking Terminal I: Fury Green\nLocation Telemetry of Latest Scan Refresh: Y Sector\nLock-On GPS Data Points: 33
 ib_2022_TrackingTerminal_02_Preview	G Tracking Terminal II: Sol Valley\nLocation Telemetry of Latest Scan Refresh: C Sector\nLock-On GPS Data Points: 19
